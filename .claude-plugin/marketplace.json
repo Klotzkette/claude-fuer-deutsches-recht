@@ -11,7 +11,7 @@
       "name": "agb-recht-pruefer",
       "source": "./agb-recht-pruefer",
       "description": "Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: §§ 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -31,7 +31,7 @@
       "name": "aktenaufbereiter-strafrecht",
       "source": "./aktenaufbereiter-strafrecht",
       "description": "Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -41,7 +41,7 @@
       "name": "aktenauszug-gerichtsverfahren",
       "source": "./aktenauszug-gerichtsverfahren",
       "description": "Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -51,7 +51,7 @@
       "name": "aktienrecht-hauptversammlung-ag-se",
       "source": "./aktienrecht-hauptversammlung-ag-se",
       "description": "Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -61,7 +61,7 @@
       "name": "anlagen-zu-schriftsaetzen",
       "source": "./anlagen-zu-schriftsaetzen",
       "description": "Gerichtsprozess-Dokumentenproduktion bis zur beA-fertigen Versandmappe: liest Schriftsatz und Anlagenordner, fuehrt K/B/AST/AG fort, konvertiert und stempelt jede PDF-Seite, prueft ERVV, Signatur, Dateinamen, Empfaenger und Eingang und liefert Verzeichnis, Manifest und Freigabevermerk.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -70,7 +70,7 @@
     {
       "name": "antidiskriminierung-agg",
       "description": "Antidiskriminierung nach dem AGG: Bewerbungen, Arbeitsbedingungen, Beschwerden, Wohnraum und Dienstleistungen prüfen. Zehn Workflows verbinden Fristen, Indizien, Rechtfertigung und konkrete Schreiben mit kultursensibler Sachverhaltsaufnahme.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -81,7 +81,7 @@
       "name": "anwaltschaft-generell",
       "source": "./anwaltschaft-generell",
       "description": "Anwaltschaft - Mandate im Alltag: zehn Skills fuer wirtschaftsrechtliche Dokumentarbeit vom belegten Aktenstand ueber Ansprueche, Vertraege, Arbeit und Datenschutz bis zum Schreiben, Vergleich oder Schriftsatz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -91,7 +91,7 @@
       "name": "apothekenrecht",
       "source": "./apothekenrecht",
       "description": "Super-Plugin für Apothekenrecht: Betriebserlaubnis, ApBetrO, Versand, E-Rezept, BtM, Retaxation, Aufsicht und Compliance.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -101,7 +101,7 @@
       "name": "arbeitsrecht",
       "source": "./arbeitsrecht",
       "description": "Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -111,7 +111,7 @@
       "name": "arbeitszeugnis-analyse",
       "source": "./arbeitszeugnis-analyse",
       "description": "Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -121,7 +121,7 @@
       "name": "arbeitszeugnisgenerator",
       "source": "./arbeitszeugnisgenerator",
       "description": "Erstellt, prueft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknuepft Taetigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -141,7 +141,7 @@
       "name": "aufsichtsrat-ag-se-praxis",
       "source": "./aufsichtsrat-ag-se-praxis",
       "description": "Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -151,7 +151,7 @@
       "name": "aussenwirtschaft-zoll-sanktionen",
       "source": "./aussenwirtschaft-zoll-sanktionen",
       "description": "Freistehendes Plugin für Außenwirtschaft, Sanktionen, Zoll, Exportkontrolle, BAFA, TARIC, CBAM, Verbrauchsteuer, AWV, AML/KYC und Ermittlungen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -161,7 +161,7 @@
       "name": "bank-rechtsabteilung",
       "source": "./bank-rechtsabteilung",
       "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -171,7 +171,7 @@
       "name": "barrierefreiheit-web-checker",
       "source": "./barrierefreiheit-web-checker",
       "description": "Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -181,7 +181,7 @@
       "name": "bautraegervertrag-pruefer",
       "source": "./bautraegervertrag-pruefer",
       "description": "Bauträgervertrag-Prüfer aus Verbrauchersicht: MaBV, §§ 650u/650v BGB, § 650m Abs. 2 BGB, AGB, Baubeschreibung, Abnahme, Schlussrate, WEG, Vormerkung, Lastenfreistellung und Drei-Dokumente-Ausgabe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -191,7 +191,7 @@
       "name": "bautraegervertragspruefer",
       "source": "./bautraegervertragspruefer",
       "description": "Prueft deutsche Bautraegervertraege: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklaerung. Liefert Mandantengutachten und Aufforderungsschreiben an Bautraeger und Notar.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -214,7 +214,7 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
-      "version": "445.33.1",
+      "version": "445.35.3",
       "source": "./bauvergabe/bauvergabe-nachtragsmanagement"
     },
     {
@@ -251,7 +251,7 @@
       "name": "bauwirtschaft",
       "source": "./bauwirtschaft",
       "description": "29 Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: neun eigene HOAI-Phasen für Gebäude und Innenräume sowie Projektsteuerung, Vergabe, Bauausführung und Buchhaltung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -281,7 +281,7 @@
       "name": "bav-strategie-konzern",
       "source": "./bav-strategie-konzern",
       "description": "Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer Boutique-Stil.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -291,7 +291,7 @@
       "name": "bea-versand",
       "source": "./bea-versand",
       "description": "Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -301,7 +301,7 @@
       "name": "beamtenrecht",
       "source": "./beamtenrecht",
       "description": "Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -311,7 +311,7 @@
       "name": "bereicherungs-und-anfechtungsrecht-pruefer",
       "source": "./bereicherungs-und-anfechtungsrecht-pruefer",
       "description": "Mechanisches Durchprüfen von Bereicherungsrecht §§ 812 ff. BGB, AnfG und Insolvenzanfechtung §§ 129-147 InsO. Mit KI-Screening von Schuldnerakten, § 135 Gesellschafterdarlehen, Bargeschäft § 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -330,7 +330,7 @@
     {
       "name": "berliner-asog-polizeirecht",
       "description": "Berliner Polizei- und Ordnungsrecht aus Betroffenensicht: Gefahrenabwehr, Identitätskontrolle, Platzverweis, Gewahrsam, Durchsuchung, Sicherstellung, Polizeidaten, Vollstreckung und Rechtsschutz. Zehn Fachskills und ein Hauptskill.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -340,7 +340,7 @@
     {
       "name": "berliner-gewerbeaufsicht-betrieb",
       "description": "Berliner Gewerbeaufsicht aus Betreiber- und Beratungssicht: Restaurant, Späti und radiologischer Betrieb. Zehn Fachskills und ein Hauptskill für Anzeigen, Erlaubnisse, Hygiene, Kontrolle, Arbeitsschutz, Strahlenschutz und konkrete Behördenantworten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -351,7 +351,7 @@
       "name": "berliner-hochschulrecht-professoren",
       "source": "./berliner-hochschulrecht-professoren",
       "description": "Berliner Hochschulrecht aus Sicht von Professorinnen und Professoren: Berufung, Zusagen, Status, Forschungsfreiheit, Ausstattung, Lehre, Gremien, Drittmittel, Nachwuchs und Rechtsschutz. Zehn Fachskills und ein übergreifender Hauptproblem-Skill.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -361,7 +361,7 @@
       "name": "berliner-schulrecht-eltern-schueler",
       "source": "./berliner-schulrecht-eltern-schueler",
       "description": "Berliner Kita- und Schulrecht ausschließlich aus Eltern- und Schülersicht. Zehn Fachskills und ein Hauptskill führen Aufnahme, Schulwechsel, Bewertung, Förderung, Betreuung und Rechtsschutz bis zum ausformulierten Ergebnis.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -370,7 +370,7 @@
     {
       "name": "berliner-versammlungsrecht",
       "description": "Berliner Versammlungsrecht für Veranstaltende und Teilnehmende: Anzeige, Kooperation, Route, Auflagen, Gegenversammlung, Protestcamp, Leitung, Polizeimaßnahmen und Rechtsschutz. Zehn Fachskills und ein Hauptskill.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -411,7 +411,7 @@
       "name": "berufsrecht-notare",
       "source": "./berufsrecht-notare",
       "description": "Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -421,7 +421,7 @@
       "name": "berufsrecht-patentanwaelte",
       "source": "./berufsrecht-patentanwaelte",
       "description": "Plugin für Patentanwaltsrecht: PAO, Patentanwaltskammer, Vertretungsbefugnis, Schutzrechtsmandate, Verschwiegenheit, Interessenkollision, Werbung, Berufsausübungsgesellschaft und berufsgerichtliche Risiken.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -431,7 +431,7 @@
       "name": "berufsrecht-steuerberater",
       "source": "./berufsrecht-steuerberater",
       "description": "Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -441,7 +441,7 @@
       "name": "berufsrecht-wirtschaftspruefer",
       "source": "./berufsrecht-wirtschaftspruefer",
       "description": "Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -451,7 +451,7 @@
       "name": "betaeubungsmittelrecht",
       "source": "./betaeubungsmittelrecht",
       "description": "Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -471,7 +471,7 @@
       "name": "betriebskosten-hausverwaltung",
       "source": "./betriebskosten-hausverwaltung",
       "description": "Betriebskosten fuer Mietshaus und vermietete Eigentumswohnung: zehn Skills von Belegen, Kostenabgrenzung und Heizkosten bis zur nachrechenbaren Abrechnung oder zum Antwortbrief.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -481,7 +481,7 @@
       "name": "bgb-at-pruefer",
       "source": "./bgb-at-pruefer",
       "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -491,7 +491,7 @@
       "name": "bgb-bt-pruefer",
       "source": "./bgb-bt-pruefer",
       "description": "Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -511,7 +511,7 @@
       "name": "buerokratieversteher-entbuerokratisierer",
       "source": "./buerokratieversteher-entbuerokratisierer",
       "description": "Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-, Familien- oder Kommunalverfahren verstehen und vorsichtig bearbeiten wollen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -521,7 +521,7 @@
       "name": "bundesnetzagentur-verfahren",
       "source": "./bundesnetzagentur-verfahren",
       "description": "Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -531,7 +531,7 @@
       "name": "bundeswehrrecht-wehrrecht",
       "source": "./bundeswehrrecht-wehrrecht",
       "description": "Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -541,7 +541,7 @@
       "name": "commercial-courts-deutschland",
       "source": "./commercial-courts-deutschland",
       "description": "Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -551,7 +551,7 @@
       "name": "common-law-kompass",
       "source": "./common-law-kompass",
       "description": "Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -561,7 +561,7 @@
       "name": "corporate-contract-law",
       "source": "./corporate-contract-law",
       "description": "Corporate Contract Law - Wirtschaftsvertraege: zwanzig Skills fuer deutsche B2B-Vertragsgestaltung vom Geschaeftsauftrag ueber den vollstaendigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -581,7 +581,7 @@
       "name": "datenbankrecht",
       "source": "./datenbankrecht",
       "description": "Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG §§ 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -609,7 +609,7 @@
     },
     {
       "name": "denkmalschutzrecht",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "description": "Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.",
       "source": "./denkmalschutzrecht",
       "author": {
@@ -621,7 +621,7 @@
       "name": "designrecht-geschmacksmusterrecht",
       "source": "./designrecht-geschmacksmusterrecht",
       "description": "Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -631,7 +631,7 @@
       "name": "deutsche-rechtsgeschichte",
       "source": "./deutsche-rechtsgeschichte",
       "description": "Mega-Plugin zur deutschen Rechtsgeschichte: Epochen, Quellenkritik, Rezeption, Reichsrecht, BGB, Weimar, NS-Unrecht, DDR/BRD und rechtsgeschichtliche Argumentation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -641,7 +641,7 @@
       "name": "dfg-foerderantrag",
       "source": "./dfg-foerderantrag",
       "description": "DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -651,7 +651,7 @@
       "name": "diesel-schadensersatz",
       "source": "./diesel-schadensersatz",
       "description": "Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -680,7 +680,7 @@
     {
       "name": "eigenbedarfskuendigungschecker",
       "description": "Eigenbedarfskuendigungen fuer Mieter und Vermieter pruefen: Bedarfsperson, Nutzungswunsch, Form, Fristen, Umwandlungsschutz und Haertewiderspruch. Zehn Skills fuehren zu begruendeten Schreiben und tragfaehigen Vereinbarungen; mit zwei vollstaendigen Fallakten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -691,7 +691,7 @@
       "name": "einfache-leichte-sprache-jura",
       "source": "./einfache-leichte-sprache-jura",
       "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -701,7 +701,7 @@
       "name": "einigungsvertrag-vermoegensrecht",
       "source": "./einigungsvertrag-vermoegensrecht",
       "description": "Einigungsvertrag-Plugin für DDR/BRD-Übergangsrecht, Volksvermögen, Parteivermögen, Treuhand, Bodenreform, Mauergrundstücke, VermG und Restitution.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -711,7 +711,7 @@
       "name": "email-umformulierer-berufsrecht",
       "source": "./email-umformulierer-berufsrecht",
       "description": "Formuliert unfreundliche, emotionale oder unsachliche E-Mails in hoefliche, sachliche und berufsrechtskonform formulierte Texte um. Fokus auf BRAO/BORA-Konformität, mit Varianten für Steuerberater, Notare und allgemeine berufliche Korrespondenz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -721,7 +721,7 @@
       "name": "energierecht",
       "source": "./energierecht",
       "description": "Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -731,7 +731,7 @@
       "name": "enteignung-artikel-14",
       "source": "./enteignung-artikel-14",
       "description": "Grundstücksenteignung nach Artikel 14 GG und BauGB: Aktenaufnahme, Alternativen, Erwerbsverhandlungen, Beteiligte, Entschädigung, Anhörung, Besitzeinweisung, Beschlussvollzug und Baulandsachen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -741,7 +741,7 @@
       "name": "erbbaurecht-praxis",
       "source": "./erbbaurecht-praxis",
       "description": "Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -751,7 +751,7 @@
       "name": "europaeisches-prozessrecht",
       "source": "./europaeisches-prozessrecht",
       "description": "Europaeisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -771,7 +771,7 @@
       "name": "fachanwalt-agrarrecht",
       "source": "./fachanwalt-agrarrecht",
       "description": "Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -781,7 +781,7 @@
       "name": "fachanwalt-arbeitsrecht",
       "source": "./fachanwalt-arbeitsrecht",
       "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -791,7 +791,7 @@
       "name": "fachanwalt-bank-kapitalmarktrecht",
       "source": "./fachanwalt-bank-kapitalmarktrecht",
       "description": "Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Bürgschaft Aval Bankgarantie Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -801,7 +801,7 @@
       "name": "fachanwalt-bau-architektenrecht",
       "source": "./fachanwalt-bau-architektenrecht",
       "description": "Plugin Fachanwalt für Bau- und Architektenrecht. BGB Werkvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht. Bauvertrag Maengelhaftung Abnahme Vergaberecht. Schnittstellen Plugin fachanwalt-vergaberecht kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -811,7 +811,7 @@
       "name": "fachanwalt-erbrecht",
       "source": "./fachanwalt-erbrecht",
       "description": "Plugin Fachanwalt für Erbrecht. BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaftsteuer EU-ErbVO. Schnittstellen Plugin steuerrecht-anwalt-und-berater kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -821,7 +821,7 @@
       "name": "fachanwalt-familienrecht",
       "source": "./fachanwalt-familienrecht",
       "description": "Plugin Fachanwalt für Familienrecht. Orientierung Normen Mandate Fristen Literatur. Familiengericht FamFG Scheidung Sorge Umgang Unterhalt Zugewinn Ehevertrag eingetragene Lebenspartnerschaft. Ergaenzend zum Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -841,7 +841,7 @@
       "name": "fachanwalt-handels-gesellschaftsrecht",
       "source": "./fachanwalt-handels-gesellschaftsrecht",
       "description": "Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -861,7 +861,7 @@
       "name": "fachanwalt-internationales-wirtschaftsrecht",
       "source": "./fachanwalt-internationales-wirtschaftsrecht",
       "description": "Plugin Fachanwalt für Internationales Wirtschaftsrecht. CISG Bruessel Ia Rom I Rom II Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Aussenhandel LkSG. Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -891,7 +891,7 @@
       "name": "fachanwalt-miet-wohnungseigentumsrecht",
       "source": "./fachanwalt-miet-wohnungseigentumsrecht",
       "description": "Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -901,7 +901,7 @@
       "name": "fachanwalt-migrationsrecht",
       "source": "./fachanwalt-migrationsrecht",
       "description": "Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebietschecks und spanische/einfache Erklärung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -911,7 +911,7 @@
       "name": "fachanwalt-sozialrecht",
       "source": "./fachanwalt-sozialrecht",
       "description": "Plugin Fachanwalt für Sozialrecht nach FAO § 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch § 84 SGG Klage § 87 SGG Eilantrag § 86b SGG. Buergergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -921,7 +921,7 @@
       "name": "fachanwalt-sportrecht",
       "source": "./fachanwalt-sportrecht",
       "description": "Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -941,7 +941,7 @@
       "name": "fachanwalt-transport-speditionsrecht",
       "source": "./fachanwalt-transport-speditionsrecht",
       "description": "Plugin Fachanwalt für Transport- und Speditionsrecht. HGB §§ 407 ff. Frachtvertrag §§ 453 ff. Spedition CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp. Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -971,7 +971,7 @@
       "name": "fachanwalt-verkehrsrecht",
       "source": "./fachanwalt-verkehrsrecht",
       "description": "Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -981,7 +981,7 @@
       "name": "fachanwalt-versicherungsrecht",
       "source": "./fachanwalt-versicherungsrecht",
       "description": "Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -991,7 +991,7 @@
       "name": "fachanwalt-verwaltungsrecht",
       "source": "./fachanwalt-verwaltungsrecht",
       "description": "Plugin Fachanwalt für Verwaltungsrecht. VwGO VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz § 80 Abs 5 VwGO einstweilige Anordnung Normenkontrolle Polizei- und Ordnungsrecht. Schnittstelle Plugin kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1001,7 +1001,7 @@
       "name": "factoring-recht",
       "source": "./factoring-recht",
       "description": "Super-Plugin für Factoring, Forderungskauf, Aufsichtsrecht, Vertragsgestaltung, Debitorenkommunikation, Insolvenz- und Sanierungsfragen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1011,7 +1011,7 @@
       "name": "fahrgastrechte",
       "source": "./fahrgastrechte",
       "description": "Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspaetung/Ausfall einordnen, Entschaedigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1021,7 +1021,7 @@
       "name": "fashion-law-moderecht",
       "source": "./fashion-law-moderecht",
       "description": "Praxisplugin Fashion Law/Moderecht für Modeunternehmen, Designer, Händler und Kanzleien: IP, Designs, Marken, Textilkennzeichnung, Produktsicherheit, Nachhaltigkeit, Lieferkette, Plattformen, E-Commerce, Vertrieb, Influencer und Krisen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1031,7 +1031,7 @@
       "name": "festlandchina-wirtschaftsverkehr",
       "source": "./festlandchina-wirtschaftsverkehr",
       "description": "Mega-Plugin für wirtschaftlichen Umgang mit Festlandchina: Fabrik, Import, Export, Investition, De-Risking, Lieferkette, IP, Daten, Exportkontrolle und politisches Risiko.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1041,7 +1041,7 @@
       "name": "fluggastrechte",
       "source": "./fluggastrechte",
       "description": "Fluggastrechte selber geltend machen nach VO (EG) Nr. 261/2004. Tickets erfassen, Annullierung oder Verspaetung prüfen, außergewoehnliche Umstaende, Distanz, Ausgleich, Forderungsschreiben, Mahnung und Klage. Rechtsprechung nur nach Live-Verifikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1051,7 +1051,7 @@
       "name": "forderungsmanagement-klagewerkstatt",
       "source": "./forderungsmanagement-klagewerkstatt",
       "description": "Klagewerkstatt für Forderungsmanagement mit Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Anspruchs-Gatekeeper: Nur klare, fällige und belegte Forderungen werden zur Klage freigegeben.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1061,7 +1061,7 @@
       "name": "forschungszulage-antragstellung",
       "source": "./forschungszulage-antragstellung",
       "description": "Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1071,7 +1071,7 @@
       "name": "fortbestehensprognose",
       "source": "./fortbestehensprognose",
       "description": "Fortbestehensprognose § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation. Bilanzstatus Annahmen Plausibilisierung Zwoelf-Monats-Liquidität. Sanierungsbausteine Patronatserklärung Comfortletter Rangrücktritt Stundung Forderungsverzicht. IDW S 11 StaRUG. Eskalation bei negativer Prognose.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1081,7 +1081,7 @@
       "name": "franchiserecht-praxis",
       "source": "./franchiserecht-praxis",
       "description": "Wirtschaftsrechtliches Plugin für Franchise-Systeme: vorvertragliche Aufklärung, Handbuch, Gebühren, Gebietsschutz, Kartellrecht, Kündigung, Expansion, Streit und Insolvenz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1091,7 +1091,7 @@
       "name": "gebrauchsmusterrecht",
       "source": "./gebrauchsmusterrecht",
       "description": "Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach § 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1111,7 +1111,7 @@
       "name": "geldwaeschepraevention-aml-kyc",
       "source": "./geldwaeschepraevention-aml-kyc",
       "description": "Geldwaeschepruefung in Kanzlei, Unternehmen und Notariat: 20 Fachablaeufe fuer Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1131,7 +1131,7 @@
       "name": "gesellschaftsgruender",
       "source": "./gesellschaftsgruender",
       "description": "Gruendungsassistent fuer deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Vertraege, Budget und Streitpraevention.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1141,7 +1141,7 @@
       "name": "gesellschaftsrecht",
       "source": "./gesellschaftsrecht",
       "description": "Gesellschaftsrecht fuer GmbH, AG und Personengesellschaften: Beschluesse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1151,7 +1151,7 @@
       "name": "gesellschaftsrecht-legal-english",
       "source": "./gesellschaftsrecht-legal-english",
       "description": "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1161,7 +1161,7 @@
       "name": "gesellschaftsrechtliche-treuepflicht",
       "source": "./gesellschaftsrechtliche-treuepflicht",
       "description": "Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung, Treuepflichtverletzung und Rechtsfolgen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1171,7 +1171,7 @@
       "name": "gewerblicher-rechtsschutz",
       "source": "./gewerblicher-rechtsschutz",
       "description": "Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1181,7 +1181,7 @@
       "name": "gmbh-gesellschafterversammlung",
       "source": "./gmbh-gesellschafterversammlung",
       "description": "Gesellschafterversammlungen für GmbH und UG: fünf Fachskills plus Hauptproblem-Skill für Unterlagen, Einladung, Nachträge, Stimmen, Leitfaden, Protokoll und Vollzug. Mit eigenständiger Werkstatt, Mini-Prompt und exaktem Stimmenprüfer.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1191,7 +1191,7 @@
       "name": "goae-gebuehrenordnung-aerzte",
       "source": "./goae-gebuehrenordnung-aerzte",
       "description": "Super-Plugin zur GOÄ: private Arztrechnungen prüfen, erstellen, begründen, beanstanden und prozessual verwerten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1210,7 +1210,7 @@
     {
       "name": "grundbuchamt-assistent",
       "description": "Grundbuchvorgänge von Einsicht und Urkundennachweis über Erbberichtigung, Rang und Briefaufgebot bis zur Zwischenverfügung und zum dokumentierten Vollzug. Zehn Fachskills und ein Hauptproblem-Skill mit klaren Notar- und Zugriffsgrenzen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1221,7 +1221,7 @@
       "name": "grundbuchamt-praxis",
       "source": "./grundbuchamt-praxis",
       "description": "Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1231,7 +1231,7 @@
       "name": "grundsteuerrecht",
       "source": "./grundsteuerrecht",
       "description": "Grundsteuer von der Immobilie bis zum richtigen Rechtsbehelf: zehn Arbeitswege zu Lage, Landesmodell, Wert, Messbetrag, Hebesatz, Einspruch und Eilrechtsschutz mit nachrechenbaren Ergebnissen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1251,7 +1251,7 @@
       "name": "handelsrecht-hgb",
       "source": "./handelsrecht-hgb",
       "description": "Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1260,7 +1260,7 @@
     {
       "name": "handelsregister-assistent",
       "description": "Handelsregister recherchieren und Registervorgänge vollziehen: Auszüge, Gesellschafterlisten, Auslandsvertretung, Organwechsel, Anmeldung, Zwischenverfügung und Datenschutz. Zehn Fachworkflows und ein Hauptproblem-Skill führen zu konkreten Dokumenten und nachgewiesenem Vollzugsstand.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1271,7 +1271,7 @@
       "name": "handelsregister-praxis",
       "source": "./handelsregister-praxis",
       "description": "Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1281,7 +1281,7 @@
       "name": "handelsvertreterrecht",
       "source": "./handelsvertreterrecht",
       "description": "Handelsvertreterrecht nach HGB: Status, Provision, Buchauszug, Kündigung, Ausgleich § 89b, Wettbewerbsverbot § 90a und Vertriebsmodelle.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1301,7 +1301,7 @@
       "name": "haushaltsrecht-bho-bund-laender",
       "source": "./haushaltsrecht-bho-bund-laender",
       "description": "Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1311,7 +1311,7 @@
       "name": "hinweisgeberschutz-compliance",
       "source": "./hinweisgeberschutz-compliance",
       "description": "Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1321,7 +1321,7 @@
       "name": "hoai-leistungsphasen-praxis",
       "source": "./hoai-leistungsphasen-praxis",
       "description": "Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung, Objektbetreuung, Honorar, Vertrag, Haftung, Nachträge und Bauprojektsteuerung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1331,7 +1331,7 @@
       "name": "hochschulrecht-laender",
       "source": "./hochschulrecht-laender",
       "description": "Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exmatrikulation, Berufung, Drittmittel, Promotion und Aufsicht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1341,7 +1341,7 @@
       "name": "immobilienrechtspraxis",
       "source": "./immobilienrechtspraxis",
       "description": "Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen, Case Management und AVV-Prüfung. Rechtsprechung nur nach Live-Verifikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1361,7 +1361,7 @@
       "name": "informationsfreiheit-presseauskunft",
       "source": "./informationsfreiheit-presseauskunft",
       "description": "IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1380,7 +1380,7 @@
     {
       "name": "insolvenzforderungen-checker",
       "description": "Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1391,7 +1391,7 @@
       "name": "insolvenzforderungsanmeldungspruefung",
       "source": "./insolvenzforderungsanmeldungspruefung",
       "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1401,7 +1401,7 @@
       "name": "insolvenzplan-starug-planwerkstatt",
       "source": "./insolvenzplan-starug-planwerkstatt",
       "description": "Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1411,7 +1411,7 @@
       "name": "insolvenzrecht",
       "source": "./insolvenzrecht",
       "description": "Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1421,7 +1421,7 @@
       "name": "insolvenzverwaltung",
       "source": "./insolvenzverwaltung",
       "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1431,7 +1431,7 @@
       "name": "internal-investigations-praxis",
       "source": "./internal-investigations-praxis",
       "description": "Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1451,7 +1451,7 @@
       "name": "jura-in-einfacher-sprache",
       "source": "./jura-in-einfacher-sprache",
       "description": "Juristische Texte in einfache Sprache und zurück in juristische Standardsprache übertragen, erklären, schreiben und beantworten. Fünf Skills bewahren Bedingungen, Fristen und Rechtsfolgen. Keine erfundenen Ergänzungen bei fehlendem Original.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1461,7 +1461,7 @@
       "name": "jurastudium",
       "source": "./jurastudium",
       "description": "Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1470,7 +1470,7 @@
     {
       "name": "juristische-praesentationen",
       "description": "Juristische PowerPoint-Praesentationen fuer Kanzlei und Rechtsabteilung: zehn Kernskills von Urteil, Fachvortrag und Laienerklaerung bis Folien, Sprechernotizen und Probe. Zwei optionale Bonus-Skills fuer serioese Animation und jugendgerechte Sprache. Mit neutraler Vorlage.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1481,7 +1481,7 @@
       "name": "juristische-presseberichterstattung",
       "source": "./juristische-presseberichterstattung",
       "description": "Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1491,7 +1491,7 @@
       "name": "juristische-sprache-deutsch-als-zweitsprache",
       "source": "./juristische-sprache-deutsch-als-zweitsprache",
       "description": "Plugin für Menschen im deutschen Recht mit anderer Herkunftssprache: einfache Erklaerungen, Juristendeutsch, Bescheide, Schriftsaetze, Grammatik, Fristen und Verfahrenslogik.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1501,7 +1501,7 @@
       "name": "jveg-kostenpruefer",
       "source": "./jveg-kostenpruefer",
       "description": "Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1531,7 +1531,7 @@
       "name": "kanzlei-management",
       "source": "./kanzlei-management",
       "description": "Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1561,7 +1561,7 @@
       "name": "kartellrecht-marktabgrenzung-pruefung",
       "source": "./kartellrecht-marktabgrenzung-pruefung",
       "description": "Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1660,7 +1660,7 @@
     {
       "name": "kommunale-haftpflicht",
       "description": "Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1671,7 +1671,7 @@
       "name": "kommunalrecht-laender",
       "source": "./kommunalrecht-laender",
       "description": "Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1711,7 +1711,7 @@
       "name": "krankenkassenrecht-krankenversicherung",
       "source": "./krankenkassenrecht-krankenversicherung",
       "description": "Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1721,7 +1721,7 @@
       "name": "kriegsdienstverweigerung-wehrdienst",
       "source": "./kriegsdienstverweigerung-wehrdienst",
       "description": "Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1731,7 +1731,7 @@
       "name": "krisenfrueherkennung-starug",
       "source": "./krisenfrueherkennung-starug",
       "description": "Krisenfrüherkennung nach Paragraf 1 StaRUG, Warnpflicht bei Jahresabschlusserstellung nach Paragraf 102 StaRUG, 24-Monats-Prognose nach Paragraf 18 InsO, Haftung, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1741,7 +1741,7 @@
       "name": "leasingrecht-praxis",
       "source": "./leasingrecht-praxis",
       "description": "Wirtschaftsrechtliches Praxisplugin für Leasing, Sale-and-lease-back, Equipment Finance, Fahrzeugflotten, IT-Leasing, Insolvenz, Restwert, Sicherheiten und Vertragsgestaltung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1761,7 +1761,7 @@
       "name": "liquiditaetsplanung",
       "source": "./liquiditaetsplanung",
       "description": "Liquiditätsplanung nach deutschem Recht: 3-Wochen-Vorschau, 13/26/52-Wochen-Forecast, Excel-Export, Quote/Luecken-Ampel, Dokumentationspaket und Schnittstellen zu Fortbestehensprognose und Insolvenzrecht. Rechtsprechung nur nach Live-Verifikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1771,7 +1771,7 @@
       "name": "lizenzvertragsersteller",
       "source": "./lizenzvertragsersteller",
       "description": "Baukastensystem für IP-Lizenzvertraege deutsches und internationales Recht. 32 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschaeftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1781,7 +1781,7 @@
       "name": "lobbyregister-bundestag",
       "source": "./lobbyregister-bundestag",
       "description": "Lobbyregister-Bundestag-Superplugin mit 50 geführten Skills für Registrierungspflicht, Ausnahmen, Registereintrag, Regelungsvorhaben, Stellungnahmen, Finanzdaten, Aktualisierung, Verhaltenskodex, Meldung von Verstoessen und Fristen nach LobbyRG.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1791,7 +1791,7 @@
       "name": "luftrecht-flughafenrecht",
       "source": "./luftrecht-flughafenrecht",
       "description": "Luftrecht-Plugin für LuftVG, LuftSiG, LBA, Flughäfen, Airlines, Slots, Flugzeugpfandrechte, Beschlagnahme, Insolvenz, Drohnen und Aviation-Compliance.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1801,7 +1801,7 @@
       "name": "mandantenanfragen-assistent",
       "source": "./mandantenanfragen-assistent",
       "description": "Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt foermlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1810,7 +1810,7 @@
     {
       "name": "markenamt-assistent",
       "description": "DPMA und EUIPO: Marken recherchieren, anmelden, verteidigen, umschreiben und nachhalten. Zehn Fachskills und ein Hauptproblem-Skill mit konkreten Rechtsprechungsankern aus 2026, optionalem freigegebenem Portalvollzug und drei Testakten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1831,7 +1831,7 @@
       "name": "meinungspruefer",
       "source": "./meinungspruefer",
       "description": "Meinungsprüfer für Äußerungsrecht: Meinung oder Tatsache, Beleidigung, üble Nachrede, Verleumdung, § 188 StGB, Art. 5 GG, Art. 10 EMRK, Art. 11 GRCh, EGMR/EuGH, OLG-Praxis, US-Supreme-Court-Vergleich, Zivilrecht, Plattformen, Social Media, Arbeitsplatz, Schule und kommunale Machtkritik.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1841,7 +1841,7 @@
       "name": "memorandums-ersteller",
       "source": "./memorandums-ersteller",
       "description": "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1861,7 +1861,7 @@
       "name": "mietchecker",
       "source": "./mietchecker",
       "description": "Miethoehen fuer Mieter und Vermieter nachvollziehbar pruefen: oertlicher Mietspiegel, Landesverordnung, Neuvermietung und Mieterhoehung. Zehn Skills fuehren von Belegen zu Berechnung und sachlicher Klaerung; mit Faellen aus Berlin und Regensburg.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1871,7 +1871,7 @@
       "name": "mietrecht",
       "source": "./mietrecht",
       "description": "Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitaetsstaedte. Datenerhebung Mieterhoehungs-Widerspruch Mietsenkungsverlangen Nebenkostenprüfung und Erstellung Mieteranfragen Klageentwurf zum Amtsgericht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1891,7 +1891,7 @@
       "name": "nachbarschaftsstreit-pruefer",
       "source": "./nachbarschaftsstreit-pruefer",
       "description": "Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1911,7 +1911,7 @@
       "name": "nda-verschwiegenheit-generator-checker",
       "source": "./nda-verschwiegenheit-generator-checker",
       "description": "Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1931,7 +1931,7 @@
       "name": "normenkontrolle-bauleitplanung",
       "source": "./normenkontrolle-bauleitplanung",
       "description": "Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1941,7 +1941,7 @@
       "name": "normenkontrollrat-nkr",
       "source": "./normenkontrollrat-nkr",
       "description": "Plugin für den Nationalen Normenkontrollrat (NKR): Prüfung von Referentenentwuerfen Formulierungshilfen und Gesetzentwuerfen auf Erfuellungsaufwand Erforderlichkeit Verhältnismäßigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilitaet im Vollzug.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1951,7 +1951,7 @@
       "name": "notariat-alltag",
       "source": "./notariat-alltag",
       "description": "Notariatswerkstatt fuer Mitarbeiter: Kundenordner, Bautraegerkauf, Grundschuld, Beglaubigung, GmbH-Gruendung, Kapitalerhoehung, Geschaeftsfuehrerwechsel und Anteilsgeschaefte bis zur Vorlage an den Notar.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1961,7 +1961,7 @@
       "name": "oeffentliches-wirtschaftsrecht",
       "source": "./oeffentliches-wirtschaftsrecht",
       "description": "Öffentliches-Wirtschaftsrecht-Plugin für Scheinprivatisierung, ÖPP, Projektfinanzierung, kommunale Unternehmen, Beihilfen, Vergabe und Regulierung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1971,7 +1971,7 @@
       "name": "ordnungswidrigkeitenrecht",
       "source": "./ordnungswidrigkeitenrecht",
       "description": "Allgemeines OWiG-Plugin für Bußgeldverfahren: Anhörung, Bescheid, Einspruch, Behörde, Akteneinsicht, Gericht, Verjährung, Einziehung und Nebenfolgen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1981,7 +1981,7 @@
       "name": "parteienrecht-parteiorganisation",
       "source": "./parteienrecht-parteiorganisation",
       "description": "Parteienrechts- und Parteiorganisations-Plugin für formale Parteiarbeit: Parteiengesetz, Satzung, Mitgliederrechte, Parteitage, Kreis- und Bezirksversammlungen, Kandidatenaufstellung, Wahlvorschläge, Parteigerichte, Spenden, Rechenschaft, Abgeordnetenrecht und Wahlleiterkommunikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1991,7 +1991,7 @@
       "name": "patentrecherche",
       "source": "./patentrecherche",
       "description": "Patentrecherche für Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit § 3 PatG Art. 54 EPUe erfinderische Tätigkeit § 4 PatG Art. 56 EPUe Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2001,7 +2001,7 @@
       "name": "patentrecht",
       "source": "./patentrecht",
       "description": "Großes Patentrechts-Plugin für Erfindungsaufnahme, Patentanmeldung, Anspruchsentwurf, Recherche, Neuheit, erfinderische Tätigkeit, FTO, Abmahnung, Claim Chart, Vorbenutzungsrecht, Lizenz, Erfinderbenennung, Einspruch, Nichtigkeit, Register und Fristen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2011,7 +2011,7 @@
       "name": "pflegerecht-sgb-xi",
       "source": "./pflegerecht-sgb-xi",
       "description": "Pflegeversicherung nach SGB XI: Pflegegrad, Begutachtung, häusliche Leistungen, Ersatzpflege, Wohnumfeld, Heimkosten, Pflegepersonen, Beiträge und Rechtsbehelfe. Zehn spezialisierte Skills vom Beleg zum Antrag oder Schriftsatz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2021,7 +2021,7 @@
       "name": "phishing-vorfall-pruefer",
       "source": "./phishing-vorfall-pruefer",
       "description": "Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2031,7 +2031,7 @@
       "name": "playbook-pruefer",
       "source": "./playbook-pruefer",
       "description": "Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2041,7 +2041,7 @@
       "name": "preussisches-allgemeines-landrecht-pralr",
       "source": "./preussisches-allgemeines-landrecht-pralr",
       "description": "PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2081,7 +2081,7 @@
       "name": "pruefungsrecht-hochschule",
       "source": "./pruefungsrecht-hochschule",
       "description": "Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2153,7 +2153,7 @@
       "name": "rechtsberatungsstelle",
       "source": "./rechtsberatungsstelle",
       "description": "Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2163,7 +2163,7 @@
       "name": "rechtstheorie-rechtsphilosophie",
       "source": "./rechtstheorie-rechtsphilosophie",
       "description": "Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2193,7 +2193,7 @@
       "name": "rentenpruefer",
       "source": "./rentenpruefer",
       "description": "Rentenprüfer für Arbeitnehmer: DRV-Kontenklärung, Alters- und Erwerbsminderungsrente, Betriebsrente, private Renten, Versorgungswerk-Schnittstellen, Bescheid, Widerspruch und Klage.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2333,7 +2333,7 @@
       "name": "roemisch-katholisches-kirchenrecht",
       "source": "./roemisch-katholisches-kirchenrecht",
       "description": "Großes, lehramts- und papsttreues Arbeitsplugin zum Recht der römisch-katholischen Kirche: CIC, Katechismus, Sakramente, Ehe, Kirchenaustritt, Verfahren, Disziplin, Pfarrei, Diözese, Kurie und mehrsprachige Kommunikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2343,7 +2343,7 @@
       "name": "roemisches-recht",
       "source": "./roemisches-recht",
       "description": "Mega-Plugin zum römischen Recht: Zwölftafelgesetz, Institutionensystem, Sachenrecht, Obligationen, Aktionenrecht, Erbrecht, Juristenrecht, Justinian, byzantinisches Recht und Rezeption.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2352,7 +2352,7 @@
     {
       "name": "schadensregulierung",
       "description": "Schadensabwicklung fuer Unternehmen und Haftpflichtversicherer: Personen-, Sach- und Abschleppschaeden, Haftung, Deckung, Besichtigung, Regress und kontrollierte Regulierung. Zehn fokussierte Arbeitswege mit getrennten internen Vorlagen und Aussenbriefen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2363,7 +2363,7 @@
       "name": "schoeffen-handelsrichter-praxis",
       "source": "./schoeffen-handelsrichter-praxis",
       "description": "Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2373,7 +2373,7 @@
       "name": "schriftform-und-textform-bgb",
       "source": "./schriftform-und-textform-bgb",
       "description": "Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2383,7 +2383,7 @@
       "name": "schriftsatz-versandwerkstatt",
       "source": "./schriftsatz-versandwerkstatt",
       "description": "Fokussierte Versandwerkstatt fuer fertige Schriftsaetze und Anlagen: konvertiert Dateien in PDF, stempelt Anlagen, prueft Dateinamen, Paketgrenzen, Absender, Signaturweg und Eingang und liefert eine kontrollierte beA-Mappe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2419,7 +2419,7 @@
       "name": "schulrecht-laender",
       "source": "./schulrecht-laender",
       "description": "Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2429,7 +2429,7 @@
       "name": "seerecht-schifffahrtsrecht",
       "source": "./seerecht-schifffahrtsrecht",
       "description": "See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2439,7 +2439,7 @@
       "name": "sektorenvergabe-workflow",
       "source": "./sektorenvergabe-workflow",
       "description": "Sektorenvergabe aus Auftraggebersicht: fuenf Skills fuer Vergabeunterlagen, fuenf fuer Verfahrensfuehrung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis ueber Bekanntmachung, Ruegen und Wertung bis Zuschlag und Nachpruefung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2449,7 +2449,7 @@
       "name": "selbstvertreter-amtsgericht",
       "source": "./selbstvertreter-amtsgericht",
       "description": "Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2459,7 +2459,7 @@
       "name": "selbstvertreter-sozialgericht",
       "source": "./selbstvertreter-sozialgericht",
       "description": "Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2489,7 +2489,7 @@
       "name": "sozialrecht-fuer-laien",
       "source": "./sozialrecht-fuer-laien",
       "description": "Sozialrecht für den eigenen Fall: Briefe verstehen, Tatsachen klären, Fristen prüfen und Anträge, Widersprüche oder Gerichtsschreiben vorbereiten. Zehn kurze Arbeitswege in einfacher Sprache mit klaren Grenzen und Wegen zu persönlicher Hilfe.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2499,7 +2499,7 @@
       "name": "sozialversicherungspflicht-pruefer",
       "source": "./sozialversicherungspflicht-pruefer",
       "description": "Sozialversicherungspflicht in Deutschland: zehn Skills für Beschäftigungsstatus, Geschäftsführer, Lehrkräfte, freie Mitarbeit, Versorgungswerke, einzelne Versicherungszweige und Beiträge. Mit eigenständiger Werkstatt, Mini-Prompt und sechs ausführlichen Fallakten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2509,7 +2509,7 @@
       "name": "sozialversicherungsstatus-pruefer",
       "source": "./sozialversicherungsstatus-pruefer",
       "description": "Sozialversicherungsstatus und DRV-Statusfeststellung: Geschäftsführer, Freelancer, Anwälte, Lehrkräfte, Musikschulen, Plattformarbeit und Scheinselbständigkeit.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2559,7 +2559,7 @@
       "name": "status-navigator-step-plan",
       "source": "./status-navigator-step-plan",
       "description": "Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 35 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2589,7 +2589,7 @@
       "name": "strafbefehl-verteidiger",
       "source": "./strafbefehl-verteidiger",
       "description": "Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2599,7 +2599,7 @@
       "name": "strafzumessung",
       "source": "./strafzumessung",
       "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verständigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2609,7 +2609,7 @@
       "name": "strassennutzung-genehmigungen",
       "source": "./strassennutzung-genehmigungen",
       "description": "Oeffentliches Strassen- und Strassenverkehrsverwaltungsrecht: zehn Skills fuer Zufahrt, Parken, Laden, Poller, Schulstrassen, Fahrraeder, Sondernutzung, Ausnahmen und Rechtsschutz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2619,7 +2619,7 @@
       "name": "strassenrecht-infrastruktur",
       "source": "./strassenrecht-infrastruktur",
       "description": "Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2629,7 +2629,7 @@
       "name": "strassenverkehrsrecht-stvo",
       "source": "./strassenverkehrsrecht-stvo",
       "description": "StVO-/Straßenverkehrsrecht-Plugin für Verkehrsregeln, Zeichen, Anordnungen, Ausnahmegenehmigungen, Fahrerlaubnis, Bußgeld-Schnittstellen und Behördenpraxis.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2649,7 +2649,7 @@
       "name": "tabellenreview-3d",
       "source": "./tabellenreview-3d",
       "description": "3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2659,7 +2659,7 @@
       "name": "telekommunikationsrecht",
       "source": "./telekommunikationsrecht",
       "description": "Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2669,7 +2669,7 @@
       "name": "tierschutzrecht",
       "source": "./tierschutzrecht",
       "description": "Tierschutzrecht-Plugin für TierSchG, BGB § 90a, Haltung, Zucht, Transport, Tierversuche, Behördenverfahren, Strafrecht, Bußgeld und zivilrechtliche Tierfälle.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2678,7 +2678,7 @@
     {
       "name": "transparenzregister-assistent",
       "description": "Transparenzregister: Kontrollketten ermitteln, Meldungen und Berichtigungen vorbereiten, Einsicht und Unstimmigkeiten bearbeiten sowie optional freigegebene Portalhandlungen begleiten. Zehn Fachskills und ein Hauptproblem-Skill mit drei Akten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2699,7 +2699,7 @@
       "name": "umweltschutzverband-verbandsklage",
       "source": "./umweltschutzverband-verbandsklage",
       "description": "Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, § 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2719,7 +2719,7 @@
       "name": "urteilsbauer-relationsmacher",
       "source": "./urteilsbauer-relationsmacher",
       "description": "Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2729,7 +2729,7 @@
       "name": "us-bankruptcy-code",
       "source": "./us-bankruptcy-code",
       "description": "US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2739,7 +2739,7 @@
       "name": "us-copyright-registrierung-verlag",
       "source": "./us-copyright-registrierung-verlag",
       "description": "US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2759,7 +2759,7 @@
       "name": "verbraucher-rechtsstaat-alltag",
       "source": "./verbraucher-rechtsstaat-alltag",
       "description": "Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2769,7 +2769,7 @@
       "name": "verbraucherinsolvenz-schuldenbereinigung",
       "source": "./verbraucherinsolvenz-schuldenbereinigung",
       "description": "Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2779,7 +2779,7 @@
       "name": "verbraucherschutzrecht-pruefer",
       "source": "./verbraucherschutzrecht-pruefer",
       "description": "Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2789,7 +2789,7 @@
       "name": "verbraucherschutzverband-durchsetzung",
       "source": "./verbraucherschutzverband-durchsetzung",
       "description": "Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2799,7 +2799,7 @@
       "name": "vereinsrecht-vereinsmanager",
       "source": "./vereinsrecht-vereinsmanager",
       "description": "Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2809,7 +2809,7 @@
       "name": "verfassungsrecht",
       "source": "./verfassungsrecht",
       "description": "Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2829,7 +2829,7 @@
       "name": "vergesellschaftung-artikel-15",
       "source": "./vergesellschaftung-artikel-15",
       "description": "Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2839,7 +2839,7 @@
       "name": "verhaeltnismaessigkeitspruefer",
       "source": "./verhaeltnismaessigkeitspruefer",
       "description": "85 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Suedafrika/Kanada/EGMR/EuGH/USA und 12 europaeische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2849,7 +2849,7 @@
       "name": "verkehr-infrastrukturrecht",
       "source": "./verkehr-infrastrukturrecht",
       "description": "Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2859,7 +2859,7 @@
       "name": "verkehrsowi-verteidiger",
       "source": "./verkehrsowi-verteidiger",
       "description": "Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Drogen, Akteneinsicht, Messakte, Zeugenstrategie und Amtsgericht.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2889,7 +2889,7 @@
       "name": "versammlungsrecht",
       "source": "./versammlungsrecht",
       "description": "Praxisplugin für Versammlungsrecht und Versammlungsfreiheit: Anzeige unter freiem Himmel, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagen, Verbot, Eilrechtsschutz und Durchführung ohne vorauseilende Selbstzensur.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2899,7 +2899,7 @@
       "name": "versicherungsrecht",
       "source": "./versicherungsrecht",
       "description": "Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2909,7 +2909,7 @@
       "name": "vertragsausfueller",
       "source": "./vertragsausfueller",
       "description": "Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, neue Verträge erzeugen und Track-Changes-Fassungen nur nach ausdrücklicher Nachfrage vorbereiten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2919,7 +2919,7 @@
       "name": "vertragserstellung",
       "source": "./vertragserstellung",
       "description": "Kompakte Vertragswerkstatt fuer einzelne Geschaefte zwischen Unternehmen. Zehn Skills erstellen Vertraege, Klauseln und Nachtraege bis zur abgestimmten Endfassung.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2929,7 +2929,7 @@
       "name": "vertragsrecht",
       "source": "./vertragsrecht",
       "description": "Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2939,7 +2939,7 @@
       "name": "wahlkampfrecht-praxis",
       "source": "./wahlkampfrecht-praxis",
       "description": "Wahlkampfrecht und Wahlkampfpraxis für Parteien, Kandidierende und Kampagnenteams: Strategie, Plakatierung, Social Media, Datenschutz, politische Werbung, Parteienfinanzierung, Desinformation, Veranstaltungen, Schulen, Podien, Wahltag und Compliance.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2949,7 +2949,7 @@
       "name": "wandeldarlehen-lebenszyklus",
       "source": "./wandeldarlehen-lebenszyklus",
       "description": "Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2959,7 +2959,7 @@
       "name": "weg-hausverwaltung",
       "source": "./weg-hausverwaltung",
       "description": "WEG-Hausverwaltung von Belegen und Bankbewegungen über Jahresabrechnung, Eigentümerrückfragen und Mietüberleitung bis zu Beschlüssen, Handwerkeraufträgen und Schadenfällen einschließlich Diebstahl und Bettwanzen.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2979,7 +2979,7 @@
       "name": "wirtschaftsanwalt",
       "source": "./wirtschaftsanwalt",
       "description": "Laufende Unternehmensberatung im Mittelstand: zehn ausfuehrende Skills verbinden Vertrags-, Personal-, Gesellschafts-, Daten- und Liquiditaetsfragen mit konkreten Geschaeftsentscheidungen und fertigen Dokumenten.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2999,7 +2999,7 @@
       "name": "zitierweise-deutsches-recht",
       "source": "./zitierweise-deutsches-recht",
       "description": "Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -3009,7 +3009,7 @@
       "name": "zugewinnausgleich",
       "source": "./zugewinnausgleich",
       "description": "Zugewinnausgleich bei Trennung und Scheidung: zehn Skills fuer die belegte Berechnung des Zugewinns, Erbschaft, Immobilien, Unternehmen, Auskunft und Vergleich bis zum beauftragten Ergebnis.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -3019,7 +3019,7 @@
       "name": "zwangsverwaltung-zvg",
       "source": "./zwangsverwaltung-zvg",
       "description": "Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -3029,12 +3029,12 @@
       "name": "zwangsvollstreckung",
       "source": "./zwangsvollstreckung",
       "description": "Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz.",
-      "version": "445.33.1",
+      "version": "445.35.3",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       }
     }
   ],
-  "version": "445.33.1"
+  "version": "445.35.3"
 }

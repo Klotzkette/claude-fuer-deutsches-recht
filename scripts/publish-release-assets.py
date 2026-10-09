@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Upload and verify staged releases, then publish companion before main."""
+"""Upload and verify staged releases, then publish all companions before main."""
 
 from __future__ import annotations
 
@@ -13,7 +13,8 @@ from urllib.parse import quote
 
 from release_asset_common import expected_asset_metadata
 from release_routing import (
-    CONFIG, ROOT, companion_asset_names, companion_cases, companion_tag, marketplace_version,
+    CONFIG, ROOT, companion_asset_names, companion_case_groups, companion_cases,
+    companion_stage, companion_tag, marketplace_version,
 )
 
 SCRIPTS = Path(__file__).resolve().parent
@@ -102,35 +103,46 @@ def execute(command: list[str]) -> None:
 def publish(staging: Path, primary: str, repo: str, *, root: Path = ROOT,
             config: Path = CONFIG) -> None:
     slugs = companion_cases(config, root)
+    case_groups = companion_case_groups(slugs)
+    expected_stages = {"main"} | {companion_stage(part) for part in range(1, len(case_groups) + 1)}
+    if {path.name for path in staging.iterdir()} != expected_stages:
+        raise ValueError("Staged directories do not match the configured release routes")
     main_assets = set(expected_asset_metadata(staging / "main"))
-    tag = companion_tag(marketplace_version(root)) if slugs else None
+    companions = []
     sha = None
-    if tag:
+    if case_groups:
         if primary != f"v{marketplace_version(root)}":
             raise ValueError("Primary tag must match the current marketplace version")
-        companion_assets = set(expected_asset_metadata(staging / "companion"))
         routed = companion_asset_names(slugs)
-        if companion_assets != routed | {"checksums-sha256.txt"} or main_assets & routed:
+        if main_assets & routed:
             raise ValueError("Staged assets do not match the configured release routes")
+        for part, cases in enumerate(case_groups, start=1):
+            directory = staging / companion_stage(part)
+            companion_assets = set(expected_asset_metadata(directory))
+            if companion_assets != companion_asset_names(cases) | {"checksums-sha256.txt"}:
+                raise ValueError("Staged assets do not match the configured release routes")
+            companions.append((directory, companion_tag(marketplace_version(root), part)))
         sha = tag_commit(repo, primary)
         head = run(["git", "-C", str(root), "rev-parse", "HEAD"])
         if head.returncode or head.stdout.strip() != sha:
             raise ValueError("Build checkout does not match the exact primary tag commit")
-        ensure_companion(repo, tag, primary, sha)
-    elif (staging / "companion").exists():
-        raise ValueError("Unexpected companion stage with empty routing configuration")
+        # Inspect every existing tag before creating any missing companion.
+        for _, tag in companions:
+            actual = tag_commit(repo, tag, allow_missing=True)
+            if actual is not None and actual != sha:
+                raise ValueError(f"Companion tag {tag} points to {actual}, expected {sha}; not changed")
+        for _, tag in companions:
+            ensure_companion(repo, tag, primary, sha)
 
-    releases = [(staging / "main", primary)]
-    if tag:
-        releases.append((staging / "companion", tag))
+    releases = [(staging / "main", primary), *companions]
     for directory, release_tag in releases:
         command = [
             sys.executable, str(SCRIPTS / "upload-release-assets.py"), str(directory), release_tag,
             "--repo", repo, "--workers", "4", "--attempts", "6",
         ]
-        if tag:
+        if companions:
             command.append("--protect-published")
-        if release_tag == tag:
+        if release_tag != primary:
             command.append("--require-existing")
         execute(command)
     for directory, release_tag in releases:
@@ -138,11 +150,14 @@ def publish(staging: Path, primary: str, repo: str, *, root: Path = ROOT,
             sys.executable, str(SCRIPTS / "validate-release-assets.py"), str(directory), release_tag,
             "--repo", repo, "--timeout-seconds", "900", "--poll-seconds", "10",
         ])
-    if tag:
-        if tag_commit(repo, primary) != sha or tag_commit(repo, tag) != sha:
+    if companions:
+        if any(tag_commit(repo, tag) != sha for _, tag in releases):
             raise ValueError("Release tag moved during upload; refusing publication")
-        execute(["gh", "release", "edit", tag, "--draft=false", "--latest=false", "--repo", repo])
-    execute(["gh", "release", "edit", primary, "--draft=false", "--repo", repo])
+        for _, tag in companions:
+            execute(["gh", "release", "edit", tag, "--draft=false", "--latest=false", "--repo", repo])
+        if any(tag_commit(repo, tag) != sha for _, tag in releases):
+            raise ValueError("Release tag moved during companion publication; refusing main publication")
+    execute(["gh", "release", "edit", primary, "--draft=false", "--latest=true", "--repo", repo])
 
 
 def main() -> int:

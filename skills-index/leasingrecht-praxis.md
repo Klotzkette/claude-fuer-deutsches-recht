@@ -1,6 +1,6 @@
 # leasingrecht-praxis
 
-**118 Skills** · Stand `v445.33.1`
+**118 Skills** · Stand `v445.35.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../leasingrecht-praxis/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

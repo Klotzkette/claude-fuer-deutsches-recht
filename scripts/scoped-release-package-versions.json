@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "assets": {
+    "bauwirtschaft-fortgeschrittene.zip": {
+      "tag": "bauwirtschaft-rundum-v445.33.3",
+      "version": "445.33.1",
+      "sha256": "363cb0845c0e0b9e1a8ab322c6c24c29c6d97f7f8323e6833c42c54a6c0bf4a2",
+      "evidence": "quality/bauwirtschaft-rundum/pakete.json"
+    }
+  }
+}

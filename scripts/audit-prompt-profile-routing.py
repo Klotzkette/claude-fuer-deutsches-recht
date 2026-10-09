@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import re
 import sys
 from collections import Counter
@@ -27,6 +28,9 @@ def expected_prompt_files(slug: str, plugin_dir: Path) -> dict[str, Path]:
             f"werkstatt-{phase}": plugin_dir / Path(werkstatt_path(phase)).name
             for phase, *_ in PHASEN
         })
+    if slug == "betreuungsrecht":
+        # Im Plugin-README veröffentlichte, eigenständige Spezialwerkstatt.
+        expected["werkstatt-unterlagen"] = plugin_dir / "betreuungsrecht-unterlagen-werkstatt.md"
     return expected
 
 
@@ -79,12 +83,34 @@ PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
     },
 }
 
-GLOBAL_PROMPT_FORBIDDEN: tuple[str, ...] = (
+PROMPT_BRANDS: tuple[str, ...] = (
     "Open" + "AI",
     "Chat" + "GPT",
     "Clau" + "de",
     "Per" + "plexity",
     "Copi" + "lot",
+)
+
+# Fachlich geprüfte Absätze: konkrete Bedienung, Fähigkeitsgrenzen und Quellen
+# dürfen Anbieter benennen. Die Ausnahme ist an Datei UND vollständigen Absatz
+# gebunden; zusätzliche oder geänderte Markenpassagen müssen neu geprüft werden.
+# Nur Leerraum wird normalisiert, damit ein Zeilenumbruch keine neue Prüfung
+# erzwingt. Rechtsfehler und generische Rollenwerbung bleiben immer gesperrt.
+REVIEWED_BRAND_PARAGRAPHS: dict[str, dict[str, str]] = {
+    "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md": {
+        "3b3471faa8b6203ed8342f78517640bb27d7bc5bc22b1f1fea0c177e38e61f9a": "Tatsächlicher Skill-, Datei- und Exportzugriff je Umgebung.",
+        "5286c633af47ec699da0049e5706606078ef88ca649bf9b42c617f74a130391a": "Statusfortsetzung im Textmodus ohne behauptete Speicherung.",
+        "d36287ab83815a124c7e45a4346204f692316dbf644d4d3fe956f3119a55b6fe": "Konkrete Befehlsaufrufe und gleichwertige Texteingaben.",
+        "ea191d300e3169c80c538ab064e462c974a1219afc500fe890f315d3d0b1de07": "Freigabeprüfung gilt auch ohne lokalen Helfer im Textmodus.",
+        "a5e073ae0661ab6463f15d003640673f216c667c54964f2b3b36db42ae6e8455": "Verlinkte Anbieterdokumentation zu Computer Use und Browsergrenzen.",
+    },
+    "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md": {
+        "903f12f54a66574e00d1ad80566848e48e490616efc50cadc83acda9dc4da589": "Verwendbare Umgebungen und tatsächliche Datei- und Browserfunktionen.",
+        "9931ab7883264f1c1f5435a20a1a763932c6b4df9b7510d2aaa5b4298d25c24f": "Die Bezeichnung Copilot ersetzt keine Prüfung der gesetzlichen Ausnahme.",
+    },
+}
+
+GLOBAL_PROMPT_FORBIDDEN: tuple[str, ...] = (
     "Indizien glaubhaft machen",
     "Paragraf 4 RVG — Vergütungsvereinbarung",
     "Paragraf 51b BRAO",
@@ -133,6 +159,18 @@ GLOBAL_PROMPT_FORBIDDEN: tuple[str, ...] = (
     "Pflichtversto)",
     "Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung",
 )
+
+
+def prompt_anchor_problems(text: str, relative_path: str) -> list[str]:
+    reviewed = REVIEWED_BRAND_PARAGRAPHS.get(relative_path, {})
+    paragraphs = re.split(r"\n\s*\n", text)
+    unreviewed = [
+        paragraph for paragraph in paragraphs
+        if hashlib.sha256(" ".join(paragraph.split()).encode("utf-8")).hexdigest() not in reviewed
+    ]
+    rejected = [marker for marker in GLOBAL_PROMPT_FORBIDDEN if marker in text]
+    rejected.extend(marker for marker in PROMPT_BRANDS if any(marker in paragraph for paragraph in unreviewed))
+    return [f"veralteter oder falscher Promptanker {marker!r}" for marker in rejected]
 
 GENERIC_ROUTE_ASSIGNMENT_BITS: tuple[str, ...] = (
     "welches konkrete ziel soll erreicht oder verhindert werden",
@@ -524,11 +562,8 @@ def main() -> int:
                 kind == "hauptproblem"
                 and isinstance(review_profile.get("focus_review"), dict)
             )
-            for marker in GLOBAL_PROMPT_FORBIDDEN:
-                if marker in text:
-                    problems.append(
-                        f"{path.relative_to(REPO)}: veralteter oder falscher Promptanker {marker!r}"
-                    )
+            for issue in prompt_anchor_problems(text, path.relative_to(REPO).as_posix()):
+                problems.append(f"{path.relative_to(REPO)}: {issue}")
             if re.search(r"Pflichtverstoßß+", text, flags=re.IGNORECASE):
                 problems.append(
                     f"{path.relative_to(REPO)}: wiederholt angehängtes scharfes S"

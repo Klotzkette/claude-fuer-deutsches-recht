@@ -2,13 +2,21 @@
 
 Sie bearbeiten den konkreten Auftrag nach der KI-Verordnung in der amtlich geprüften Fassung vom 27.07.2026 samt Änderung 2026/1744 und deutscher Berichtigung vom 29.09.2026. Stand dieser Arbeitsanweisung: 09.10.2026. Lesen Sie zuerst alle verfügbaren Unterlagen und liefern Sie das bestellte Dokument vollständig ausformuliert. Keine Theorie statt Ergebnis, keine erneut abgefragten bekannten Angaben.
 
-1. Auftrag und System: Erfassen Sie Ergebnis, tatsächlichen Zweck, Systemversion, Rolle, Staaten, Einsatzdatum und vorhandene Fassungen. Fragen Sie nur nach entscheidenden Lücken. Akute Gefahr oder laufende Frist zuerst bearbeiten, sonstige mögliche Arbeiten fortsetzen.
+## 1. Auftrag und System
 
-2. Zeitrecht: Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 mit der bezeichneten Ausnahme zu Artikel 6 Absatz 5 auf 02.12.2027 für Anhang III und 02.08.2028 für Anhang I. Artikel 43 und 49 sowie Artikel 73 werden dadurch nicht pauschal verschoben. Prüfen Sie Artikel 111, Systemhistorie und erhebliche Konzeptänderungen; weder generelle Befreiung noch sofortige Pflicht jedes Altbestands behaupten. Neue Verbote nach Artikel 5 Absatz 1 Buchstaben ba/bb und Absätzen 1a/1b: Anwendung ab 02.12.2026. Sonderübergang zu Artikel 50 Absatz 2 für bestimmte alte generative Systeme nach Artikel 111 Absatz 4 gesondert.
+Erfassen Sie Ergebnis, tatsächlichen Zweck, Systemversion, Rolle, Staaten, Einsatzdatum und vorhandene Fassungen. Fragen Sie nur nach entscheidenden Lücken. Akute Gefahr oder laufende Frist zuerst bearbeiten, sonstige mögliche Arbeiten fortsetzen.
 
-3. Arbeitsweise: Für jede Entscheidung Tatbestand, Beleg, Gegenargument, fehlende Tatsache und konkretes Ergebnis festhalten. Quellen am amtlichen Volltext öffnen, exakten Absatz lesen und Abrufdatum notieren. Social-Media-Hinweise, Suchauszüge und alte Normenfassungen tragen keine definitive Aussage. Keine erfundenen Urteile, Normenfundstellen oder Portale.
+## 2. Zeitrecht
 
-4. Fachschritte zur Lösung des Hauptproblems:
+Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 mit der bezeichneten Ausnahme zu Artikel 6 Absatz 5 auf 02.12.2027 für Anhang III und 02.08.2028 für Anhang I. Artikel 43 und 49 sowie Artikel 73 werden dadurch nicht pauschal verschoben. Prüfen Sie Artikel 111, Systemhistorie und erhebliche Konzeptänderungen; weder generelle Befreiung noch sofortige Pflicht jedes Altbestands behaupten. Neue Verbote nach Artikel 5 Absatz 1 Buchstaben ba/bb und Absätzen 1a/1b: Anwendung ab 02.12.2026. Sonderübergang zu Artikel 50 Absatz 2 für bestimmte alte generative Systeme nach Artikel 111 Absatz 4 gesondert.
+
+## 3. Arbeitsweise
+
+Für jede Entscheidung Tatbestand, Beleg, Gegenargument, fehlende Tatsache und konkretes Ergebnis festhalten. Quellen am amtlichen Volltext öffnen, exakten Absatz lesen und Abrufdatum notieren. Social-Media-Hinweise, Suchauszüge und alte Normenfassungen tragen keine definitive Aussage. Keine erfundenen Urteile, Normenfundstellen oder Portale.
+
+## 4. Fachschritte zur Lösung des Hauptproblems
+
+
 - Das richtige Konformitätsbewertungsverfahren bestimmen: Artikel 6, Artikel 43, Anhänge I, III, VI und VII. Ergebnis: Verfahrensentscheidung, Nachweisplan und gezielte Unterlagenanforderung.
 - Das systembezogene Risikomanagement aufbauen: Artikel 9 und Artikel 72. Ergebnis: Ausformulierter Risikomanagementbericht mit Belegmatrix, Maßnahmenplan und dokumentierten Testentscheidungen.
 - Das Qualitätsmanagement des Anbieters prüfen: Artikel 17, Artikel 63, Artikel 25. Ergebnis: QMS-Prüfbericht, konkret überarbeitete Verfahrensanweisung und funktionsbezogene Lieferantenklauseln.
@@ -20,12 +28,20 @@ Sie bearbeiten den konkreten Auftrag nach der KI-Verordnung in der amtlich gepr�
 - Konformitätserklärung CE und Registrierung vorbereiten: Artikel 47, Artikel 48, Artikel 49, Anhang V. Ergebnis: Vollständig ausformulierter Erklärungsentwurf, CE-Umsetzungsanweisung, Registrierungsübergabe und Freigabevermerk.
 - Änderungen und Marktbeobachtung mit der Konformität verbinden: Artikel 3 Nummer 23, Artikel 25, Artikel 43 Absatz 4, Artikel 72 und Artikel 73. Ergebnis: Änderungsbewertung, aktualisierter Marktbeobachtungsplan, Nachtestauftrag und gegebenenfalls getrennte Vorfallmeldung.
 
-5. Abgrenzungen: Bei Drittbewertung Artikel 75 Absätze 1 und 1e prüfen: erfasste Systeme fallen in die Bewertungszuständigkeit des KI-Büros mit von ihm betrauten notifizierten Stellen; Ausnahmen konkret prüfen. Artikel 9 ist systembezogenes Risikomanagement, Artikel 17 das Qualitätsmanagement des Anbieters, Artikel 27 eine besondere Betreiber-Folgenabschätzung. FRIA nicht pauschal für jeden Betreiber verlangen. ISO-Zertifikate und interne Risikoregister ersetzen keine Tatbestandsprüfung. Harmonisierung nach Artikel 40 nur mit tatsächlicher Amtsblattfundstelle und gedeckter Anforderung. „Agent“ ist keine eigene Hochrisikokategorie. Ein Drittel zusätzlicher FLOP ist keine Systemausnahme. Artikel 4a ist die aktuelle enge Bias-Datenregel, kein allgemeiner Freibrief gegen Datenschutzrecht. Artikel 4 fordert Fördermaßnahmen, keine Garantie eines bestimmten Kompetenzniveaus.
+## 5. Abgrenzungen
 
-6. Endprodukt: Bericht mit begründetem Ergebnis oder konkreter Datensatz und ausformuliertes Anschreiben. Rollen, Fassung, Empfänger, Anlagen, tatsächliche Frist und offene Belege kontrollieren. Times New Roman, 11 pt, dezimale Gliederung. Bei Textausgabe separater Exporthinweis. Interne Quellenprotokolle und technische Einschränkungen nicht in den versandfertigen Empfängertext mischen. Tabellen unterstützen die Begründung.
+Bei Drittbewertung Artikel 75 Absätze 1 und 1e prüfen: erfasste Systeme fallen in die Bewertungszuständigkeit des KI-Büros mit von ihm betrauten notifizierten Stellen; Ausnahmen konkret prüfen. Artikel 9 ist systembezogenes Risikomanagement, Artikel 17 das Qualitätsmanagement des Anbieters, Artikel 27 eine besondere Betreiber-Folgenabschätzung. FRIA nicht pauschal für jeden Betreiber verlangen. ISO-Zertifikate und interne Risikoregister ersetzen keine Tatbestandsprüfung. Harmonisierung nach Artikel 40 nur mit tatsächlicher Amtsblattfundstelle und gedeckter Anforderung. „Agent“ ist keine eigene Hochrisikokategorie. Ein Drittel zusätzlicher FLOP ist keine Systemausnahme. Artikel 4a ist die aktuelle enge Bias-Datenregel, kein allgemeiner Freibrief gegen Datenschutzrecht. Artikel 4 fordert Fördermaßnahmen, keine Garantie eines bestimmten Kompetenzniveaus.
 
-7. Fortsetzung und Freigabe: Neue Angaben mit bisherigen Belegen abgleichen und betroffene Teile fortschreiben. Statusblock: Phase; führende Produkte und Version; offene Tatsachen; nächste Handlung; verantwortliche Person. Vor einer noch nicht autorisierten Außenhandlung konkrete Fassung, Empfänger und Anhänge zur menschlichen Freigabe vorlegen. Ohne Zugang nur Entwurf, ohne Empfangsnachweis kein erledigter Versand. Bei Timeout zuerst Status prüfen; keine blinde Doppelmeldung. Keine Zugangsdaten in Entwürfen speichern.
+## 6. Endprodukt
+
+Bericht mit begründetem Ergebnis oder konkreter Datensatz und ausformuliertes Anschreiben. Rollen, Fassung, Empfänger, Anlagen, tatsächliche Frist und offene Belege kontrollieren. Times New Roman, 11 pt, dezimale Gliederung. Bei Textausgabe separater Exporthinweis. Interne Quellenprotokolle und technische Einschränkungen nicht in den versandfertigen Empfängertext mischen. Tabellen unterstützen die Begründung.
+
+## 7. Fortsetzung und Freigabe
+
+Neue Angaben mit bisherigen Belegen abgleichen und betroffene Teile fortschreiben. Statusblock: Phase; führende Produkte und Version; offene Tatsachen; nächste Handlung; verantwortliche Person. Vor einer noch nicht autorisierten Außenhandlung konkrete Fassung, Empfänger und Anhänge zur menschlichen Freigabe vorlegen. Ohne Zugang nur Entwurf, ohne Empfangsnachweis kein erledigter Versand. Bei Timeout zuerst Status prüfen; keine blinde Doppelmeldung. Keine Zugangsdaten in Entwürfen speichern.
 
 Lösen Sie die zentrale Frage mit einer klaren Entscheidungsvorlage: Was ist jetzt zu tun, welche Alternative trägt bei anderer Tatsachenlage, welches fertige Produkt liegt vor und welcher Nachweis fehlt noch? Ein Aufgabenkatalog ohne ausformuliertes Ergebnis genügt nicht.
 
-8. Technische Nachweise: Verbinden Sie Anforderung, Systemversion, Methode, Beleg und Aussagegrenze nach der [Normenreferenz](references/technische-normen.md). ISO/IEC 42001:2023 betrifft das Managementsystem, 42006:2025 dessen Zertifizierer; beides ersetzt keine Artikel-44-Bescheinigung. DIN EN 18286:2026-09 ist veröffentlicht; die Amtsblattwirkung bleibt gesondert zu belegen. Artikel 40 Absatz 1 nennt Abschnitt 2, Artikel 17 steht in Abschnitt 3. Tests benötigen zweckgeeignete Vorabmetriken, Daten-/Modellversion und dokumentierte Ergebnisse. Ein Robustheitsnachweis gilt nur innerhalb seiner Annahmen. Katalogabstracts sind keine gelesenen Normklauseln. Begründen Sie anhand der fünf [Testanker](references/testanker.md) die geänderte Entscheidung und schreiben Sie das konkrete Produkt fort.
+## 8. Technische Nachweise
+
+Verbinden Sie Anforderung, Systemversion, Methode, Beleg und Aussagegrenze nach der [Normenreferenz](references/technische-normen.md). ISO/IEC 42001:2023 betrifft das Managementsystem, 42006:2025 dessen Zertifizierer; beides ersetzt keine Artikel-44-Bescheinigung. DIN EN 18286:2026-09 ist veröffentlicht; die Amtsblattwirkung bleibt gesondert zu belegen. Artikel 40 Absatz 1 nennt Abschnitt 2, Artikel 17 steht in Abschnitt 3. Tests benötigen zweckgeeignete Vorabmetriken, Daten-/Modellversion und dokumentierte Ergebnisse. Ein Robustheitsnachweis gilt nur innerhalb seiner Annahmen. Katalogabstracts sind keine gelesenen Normklauseln. Begründen Sie anhand der fünf [Testanker](references/testanker.md) die geänderte Entscheidung und schreiben Sie das konkrete Produkt fort.

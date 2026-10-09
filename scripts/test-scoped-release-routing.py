@@ -42,4 +42,79 @@ class ScopedRouting(unittest.TestCase):
         with self.assertRaises(ValueError):
             R.validate_plugin_version({'name': 'old-plugin', 'version': '777.1'}, '777.1.0', root=self.root)
 
+    def bundle_proof(self):
+        tag = 'bundle-v777.2.0'
+        asset = 'new-plugin.zip'
+        self.pins.write_text(json.dumps({'schema_version': 1, 'assets': {asset: tag}}))
+        self.registry = self.root / 'scripts/scoped-release-package-versions.json'
+        self.evidence = self.root / 'quality/bundle/pakete.json'
+        self.evidence.parent.mkdir(parents=True)
+        self.record = {'tag': tag, 'version': '777.1.0', 'sha256': 'a' * 64,
+                       'evidence': 'quality/bundle/pakete.json'}
+        self.proof = {'release': tag, 'version': '777.1.0', 'plugins': [{'name': 'new-plugin'}],
+                      'assets': {asset: 'a' * 64}}
+        self.registry.write_text(json.dumps({'schema_version': 1, 'assets': {asset: self.record}}))
+        self.evidence.write_text(json.dumps(self.proof))
+        return {'name': 'new-plugin', 'version': '777.1.0'}
+
+    def test_differing_bundle_tag_requires_exact_package_evidence(self):
+        plugin = self.bundle_proof()
+        self.assertIsNone(R.validate_plugin_version(plugin, '777.3.0', root=self.root))
+        for changed in ({**plugin, 'name': 'other-plugin'}, {**plugin, 'version': '777.1.1'}):
+            with self.subTest(plugin=changed), self.assertRaises(ValueError):
+                R.validate_plugin_version(changed, '777.3.0', root=self.root)
+        self.pins.write_text(json.dumps({'schema_version': 1, 'assets': {'new-plugin.zip': 'other-v777.2.0'}}))
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+
+    def test_mismatched_evidence_never_authorizes_package_version(self):
+        plugin = self.bundle_proof()
+        for field, value in (('release', 'other-v777.2.0'), ('version', '777.1.1'),
+                             ('assets', {'new-plugin.zip': 'b' * 64}),
+                             ('assets', {'other-plugin.zip': 'a' * 64}),
+                             ('plugins', [{'name': 'other-plugin'}]), ('plugins', None)):
+            self.evidence.write_text(json.dumps({**self.proof, field: value}))
+            with self.subTest(field=field, value=value), self.assertRaises(ValueError):
+                R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+
+    def test_missing_or_invalid_proof_registry_fails_closed(self):
+        plugin = self.bundle_proof()
+        for data in ({'schema_version': 2, 'assets': {}}, {'schema_version': 1, 'assets': []},
+                     {'schema_version': 1, 'assets': {'new-plugin.zip': {}}},
+                     {'schema_version': 1, 'assets': {'other-plugin.zip': self.record}}):
+            self.registry.write_text(json.dumps(data))
+            with self.subTest(data=data), self.assertRaises(ValueError):
+                R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+        self.registry.unlink()
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+
+    def test_missing_malformed_escaping_or_symlinked_evidence_fails_closed(self):
+        plugin = self.bundle_proof()
+        for evidence in ('quality/missing.json', '../outside.json', '/tmp/outside.json',
+                         'quality/../scripts/pakete.json', 'scripts/pakete.json', 'quality//bundle/pakete.json'):
+            self.registry.write_text(json.dumps({'schema_version': 1, 'assets': {
+                'new-plugin.zip': {**self.record, 'evidence': evidence}}}))
+            with self.subTest(evidence=evidence), self.assertRaises(ValueError):
+                R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+        self.registry.write_text(json.dumps({'schema_version': 1, 'assets': {'new-plugin.zip': self.record}}))
+        self.evidence.write_text('{')
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+        self.evidence.unlink()
+        target = self.root / 'target.json'
+        target.write_text(json.dumps(self.proof))
+        self.evidence.symlink_to(target)
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+
+    def test_invalid_digest_or_different_registered_version_stays_invalid(self):
+        plugin = self.bundle_proof()
+        for field, value in (('sha256', 'a' * 63), ('sha256', 'b' * 64), ('version', '777.1.1'),
+                             ('tag', 'other-v777.2.0'), ('evidence', None)):
+            self.registry.write_text(json.dumps({'schema_version': 1, 'assets': {
+                'new-plugin.zip': {**self.record, field: value}}}))
+            with self.subTest(field=field, value=value), self.assertRaises(ValueError):
+                R.validate_plugin_version(plugin, '777.3.0', root=self.root)
+
 if __name__=='__main__':unittest.main()
