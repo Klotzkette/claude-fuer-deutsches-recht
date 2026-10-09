@@ -1,6 +1,6 @@
 # bieter-unternehmen
 
-**113 Skills** · Stand `v445.33.1`
+**113 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../vergaberecht-werkstatt/bieter-unternehmen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bieter-unternehmen-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bieter-unternehmen-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen.zip) |
+| **Plugin (installierbar)** | ZIP | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
 
 ## So benutzt man einen Skill
 

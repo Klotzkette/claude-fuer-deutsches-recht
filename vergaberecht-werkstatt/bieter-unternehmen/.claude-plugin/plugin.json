@@ -1,6 +1,6 @@
 {
   "name": "bieter-unternehmen",
-  "version": "445.33.1",
+  "version": "445.35.1",
   "description": "Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -8,7 +8,7 @@
 
 ## 1.1. Lokale App starten
 
-**Version:** `445.33.1`
+**Version:** `445.35.1`
 
 Die Grundstücksrecherche ist ein App-only-Plugin mit zwei begleitenden Skills. Es gibt zwei Betriebsarten: die App mit Python-Laufzeit und eine herunterladbare HTML-Website, deren `index.html` Sie direkt öffnen können. Beide bieten eine Karte, die Flurstücksauswahl und vier bearbeitbare Auskunftsentwürfe.
 
@@ -35,7 +35,7 @@ Mit erlaubter Codeausführung und Browserzugriff kann der Skill `grundstuecksrec
 
 ### 1.1.2. Website herunterladen und index.html öffnen
 
-[Website als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip) oder in der laufenden App unter `Vorgang` den Befehl `Website als ZIP herunterladen` wählen. Entpacken Sie das ganze ZIP in einen Ordner und öffnen Sie darin `index.html` per Doppelklick. Lassen Sie die übrigen Dateien und den Unterordner `vendor` zusammen. Auf dem Zielcomputer werden weder Python noch Terminal oder lokaler Webserver benötigt. Öffnen Sie die Datei nicht nur in der ZIP-Vorschau des Dateimanagers.
+[Website als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/grundstuecksrecherche-website.zip) oder in der laufenden App unter `Vorgang` den Befehl `Website als ZIP herunterladen` wählen. Entpacken Sie das ganze ZIP in einen Ordner und öffnen Sie darin `index.html` per Doppelklick. Lassen Sie die übrigen Dateien und den Unterordner `vendor` zusammen. Auf dem Zielcomputer werden weder Python noch Terminal oder lokaler Webserver benötigt. Öffnen Sie die Datei nicht nur in der ZIP-Vorschau des Dateimanagers.
 
 Standardmäßig enthält die Website nur die Software und gegebenenfalls den vorbereiteten Ort. Die Auswahl `Aktuellen Vorgang ... einschließen` nimmt zusätzlich Absender, Empfänger, Flurstücke und Begründungen auf. Diese Angaben sind dann für jeden Empfänger des ZIP lesbar. Der mitgelieferte Ort oder Vorgang wird in der Website erst nach einem bewussten Klick geöffnet.
 
@@ -51,7 +51,7 @@ Mit `--case vorgang.json` wird dessen Ort vorbereitet; erst `--include-case` sch
 
 English: Use `Vorgang` → `Website als ZIP herunterladen`, extract the complete archive and open `index.html`. No Python or server is required on the receiving computer. Document editing and generation run in the browser; live maps and searches still require internet and provider permission for browser access. Case details are excluded unless explicitly selected.
 
-[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
 
 Das ZIP ist der Installationsweg nach Veröffentlichung dieser Version; der lokale Start verwendet die Dateien im Arbeitsverzeichnis.
 <!-- END direkt-loslegen (autogen) -->

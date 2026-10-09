@@ -24,9 +24,11 @@ MAX_SKILL_LINES = 500
 MAX_REFERENCE_BYTES = 96 * 1024
 MAX_PLUGIN_FILES = 5_000
 MAX_PLUGIN_BYTES = 200 * 1024 * 1024
+# Der Katalog wird nicht als Ganzes aktiviert. Seine Dichte bleibt auf dem
+# bisherigen Niveau begrenzt; neue eigenständige Plugins erhöhen nicht das
+# zulässige Routingbudget eines einzelnen installierten Plugins.
+BASELINE_PLUGIN_COUNT = 287
 MAX_TOTAL_SKILLS = 23_000
-# Katalogbudget für 287 separat installierbare Plugins einschließlich der
-# vollständigen Immobilien-Übernahme. Einzelplugin-Grenzen bleiben unverändert.
 MAX_TOTAL_DESCRIPTION_CHARS = 3_630_000
 MAX_ROUTER_REFERENCE_BYTES = 40 * 1024
 
@@ -47,6 +49,30 @@ RUNTIME_ROUTERS = {
 FRONTMATTER_RE = re.compile(r"\A---\n(?P<frontmatter>.*?)\n---(?:\n|\Z)", re.DOTALL)
 DESCRIPTION_RE = re.compile(r"^description:\s*(?P<value>.+?)\s*$", re.MULTILINE)
 EMBEDDED_CATALOG_HEADING = "### 5. Fachmodule in diesem Plugin"
+
+
+def catalog_limits(plugin_count: int) -> tuple[int, int]:
+    if type(plugin_count) is not int or plugin_count <= 0:
+        raise ValueError("Katalog benötigt mindestens ein tatsächlich geprüftes Plugin")
+    # Kleinere Kataloge behalten das bisherige Budget; Wachstum oberhalb des
+    # Ausgangsbestands wird proportional, ohne Aufrundungsbonus berücksichtigt.
+    count = max(BASELINE_PLUGIN_COUNT, plugin_count)
+    return (MAX_TOTAL_SKILLS * count // BASELINE_PLUGIN_COUNT,
+            MAX_TOTAL_DESCRIPTION_CHARS * count // BASELINE_PLUGIN_COUNT)
+
+
+def catalog_errors(metrics: list[dict[str, object]]) -> list[str]:
+    if not metrics or len({item["name"] for item in metrics}) != len(metrics):
+        return ["Katalog ist leer oder enthält doppelte Plugin-Namen"]
+    skills_limit, descriptions_limit = catalog_limits(len(metrics))
+    skills = sum(int(item["skills"]) for item in metrics)
+    descriptions = sum(int(item["description_chars"]) for item in metrics)
+    errors = []
+    if skills > skills_limit:
+        errors.append(f"Gesamt: {skills} Skills überschreiten das Budget von {skills_limit}")
+    if descriptions > descriptions_limit:
+        errors.append(f"Gesamt: {descriptions} Beschreibungszeichen überschreiten das Budget von {descriptions_limit}")
+    return errors
 
 
 def description_length(path: Path, text: str) -> int:
@@ -225,13 +251,9 @@ def main() -> int:
     total_skills = sum(int(item["skills"]) for item in metrics)
     total_descriptions = sum(int(item["description_chars"]) for item in metrics)
     print(f"Gesamt: {total_skills} Skills, {total_descriptions} Beschreibungszeichen")
-    if total_skills > MAX_TOTAL_SKILLS:
-        errors.append(f"Gesamt: {total_skills} Skills überschreiten das Budget von {MAX_TOTAL_SKILLS}")
-    if total_descriptions > MAX_TOTAL_DESCRIPTION_CHARS:
-        errors.append(
-            f"Gesamt: {total_descriptions} Beschreibungszeichen überschreiten das Budget von "
-            f"{MAX_TOTAL_DESCRIPTION_CHARS}"
-        )
+    if metrics:
+        print(f"Katalogbudget für {len(metrics)} Plugins: {catalog_limits(len(metrics))}")
+    errors.extend(catalog_errors(metrics))
 
     if errors:
         print(f"validate-runtime-performance: {len(errors)} Fehler", file=sys.stderr)

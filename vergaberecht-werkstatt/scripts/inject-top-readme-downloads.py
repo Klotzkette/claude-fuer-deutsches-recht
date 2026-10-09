@@ -27,7 +27,7 @@ import re
 import sys
 from pathlib import Path
 
-from public_release import RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY
+from public_release import RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY, plugin_download
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -193,7 +193,7 @@ def build_section() -> str:
             f"| {profile.get('rolle', 'Plugin')} "
             f"| {profile.get('zweck', 'Vergaberechtlicher Arbeitsworkflow')} "
             f"| [README]({name}/README.md) "
-            f"| [`{name}.zip`]({RELEASE_BASE}/{name}.zip) "
+            f"| [`{name}.zip`]({plugin_download(name)}) "
             f"| [`{name}-skills-markdown.zip`]({RELEASE_BASE}/{name}-skills-markdown.zip) "
             f"| [`{name}-unified-mini-prompt.md`]({RELEASE_BASE}/{name}-unified-mini-prompt.md) |"
         )

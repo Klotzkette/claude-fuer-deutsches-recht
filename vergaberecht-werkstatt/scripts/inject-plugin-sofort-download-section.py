@@ -20,7 +20,7 @@ import re
 import sys
 from pathlib import Path
 
-from public_release import DOWNLOAD_BASE, RAW_BASE, RELEASE_BASE, with_working_downloads
+from public_release import DOWNLOAD_BASE, RAW_BASE, RELEASE_BASE, with_working_downloads, plugin_download
 from testakte_notices import with_case_warnings
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -181,7 +181,7 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     lines.append("**1. Einmal installieren**")
     lines.append("")
     lines.append(
-        f"- **Claude Desktop oder Cowork:** [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) "
+        f"- **Claude Desktop oder Cowork:** [`{plugin_name}.zip`]({plugin_download(plugin_name)}) "
         "herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen "
         "eines eigenen Plugins wählen."
     )
@@ -231,7 +231,7 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
         )
     lines.append(
         f"| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | "
-        f"[`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |"
+        f"[`{plugin_name}.zip`]({plugin_download(plugin_name)}) |"
     )
     lines.append(
         f"| Alle Skills dieser Marktrolle | "

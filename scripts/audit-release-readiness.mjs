@@ -45,6 +45,14 @@ function assert(condition, message) {
 
 const marketplace = readJson(path.join(root, '.claude-plugin', 'marketplace.json'));
 if (!marketplace) process.exit(1);
+const scopedPath = path.join(root, 'scripts', 'scoped-release-assets.json');
+const scoped = fs.existsSync(scopedPath) ? readJson(scopedPath) : { schema_version: 1, assets: {} };
+assert(scoped?.schema_version === 1 && scoped.assets && typeof scoped.assets === 'object' && !Array.isArray(scoped.assets), 'Komponentenregistrierung ungültig');
+
+function componentTag(entry) {
+  const tag = scoped?.assets?.[`${entry.name}.zip`];
+  return typeof tag === 'string' && /^[a-z0-9][a-z0-9.-]*$/.test(tag) ? tag : null;
+}
 
 const pluginNames = marketplace.plugins.map((plugin) => plugin.name);
 const sortedNames = [...pluginNames].sort((a, b) => a.localeCompare(b, 'de'));
@@ -73,7 +81,7 @@ function hasObsoleteLengthInstruction(text) {
 const pluginSources = [];
 for (const entry of marketplace.plugins) {
   assert(/^[a-z0-9-]{1,64}$/.test(entry.name), `Marketplace:${entry.name}: ungültiger Slug`);
-  assert(entry.version === marketplace.version, `Marketplace:${entry.name}: Version passt nicht zu ${marketplace.version}`);
+  assert(/^\d+\.\d+\.\d+$/.test(String(entry.version || '')) && (entry.version === marketplace.version || componentTag(entry)?.endsWith(`-v${entry.version}`)), `Marketplace:${entry.name}: Version ohne passendes Komponentenrelease`);
   assert(typeof entry.source === 'string' && entry.source.startsWith('./'), `Marketplace:${entry.name}: source muss mit ./ beginnen`);
   assert(typeof entry.description === 'string' && entry.description.length <= 300, `Marketplace:${entry.name}: description zu lang`);
 
@@ -87,7 +95,7 @@ for (const entry of marketplace.plugins) {
   assert(Boolean(manifest), `${entry.name}: plugin.json fehlt`);
   if (manifest) {
     assert(manifest.name === entry.name, `${rel(manifestPath)}: name passt nicht zum Marketplace`);
-    assert(manifest.version === marketplace.version, `${rel(manifestPath)}: Version passt nicht zum Marketplace`);
+    assert(manifest.version === entry.version, `${rel(manifestPath)}: Version passt nicht zum Marketplace-Eintrag`);
     assert(manifest.description === entry.description, `${rel(manifestPath)}: description passt nicht zum Marketplace`);
     assert(typeof manifest.description === 'string' && manifest.description.length <= 300, `${rel(manifestPath)}: description zu lang`);
   }
@@ -119,8 +127,8 @@ for (const entry of marketplace.plugins) {
     const text = readText(readme);
     const visibleVersion = text.match(/\*\*Version:\*\*\s*`?(\d+\.\d+\.\d+)`?/);
     assert(
-      !visibleVersion || visibleVersion[1] === marketplace.version,
-      `${rel(readme)}: sichtbare Version ${visibleVersion?.[1]} passt nicht zu ${marketplace.version}`,
+      !visibleVersion || visibleVersion[1] === entry.version,
+      `${rel(readme)}: sichtbare Version ${visibleVersion?.[1]} passt nicht zu ${entry.version}`,
     );
     const begin = '<!-- BEGIN direkt-loslegen (autogen) -->';
     const end = '<!-- END direkt-loslegen (autogen) -->';
@@ -131,7 +139,8 @@ for (const entry of marketplace.plugins) {
     const releaseBase = 'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download';
     const downloadBase = 'https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=';
     const relSource = entry.source.replace(/^\.\//, '');
-    const pluginZip = `${releaseBase}/${entry.name}.zip`;
+    const tag = componentTag(entry);
+    const pluginZip = tag ? `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/${tag}/${entry.name}.zip` : `${releaseBase}/${entry.name}.zip`;
     const werkstattUrl = `${downloadBase}${relSource}/${entry.name}-werkstatt.md`;
     const schnellstartUrl = `${downloadBase}${relSource}/${entry.name}-schnellstart.md`;
     assert(text.includes(pluginZip), `${rel(readme)}: Plugin-ZIP-Link fehlt`);

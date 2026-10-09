@@ -1,0 +1,120 @@
+name: Kompatibilität und Reparaturrelease
+
+on:
+  pull_request:
+    paths:
+      - '.claude-plugin/**'
+      - '**/.claude-plugin/**'
+      - '**/.codex-plugin/**'
+      - '.github/workflows/compatibility-release.yml'
+      - 'scripts/*compatibility*'
+      - 'scripts/*runtime-performance*'
+      - 'scripts/*release-zips*'
+      - 'scripts/validate-manufacturer-plugins.py'
+      - 'scripts/scoped-release-assets.json'
+      - 'quality/evals/**'
+  push:
+    tags: ['kompatibilitaet-v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Vorhandener Komponententag, z. B. kompatibilitaet-v445.35.1'
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kompatibilitaet-${{ github.event.inputs.tag || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+          ref: ${{ github.event.inputs.tag || github.ref }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prüfwerkzeuge installieren
+        run: |
+          python3 -m pip install PyYAML jsonschema markdown-it-py openpyxl pypdf reportlab -r grundstuecksrecherche/app/requirements.txt
+          npm install --global @anthropic-ai/claude-code@2.1.168
+      - name: Struktur, Katalog und Qualitätsprofile prüfen
+        run: |
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-runtime-performance.py
+          python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/validate-manufacturer-plugins.py
+      - name: Regressionen prüfen
+        run: |
+          python3 scripts/test-runtime-performance.py
+          python3 scripts/test-compatibility-release.py
+          python3 scripts/test-scoped-release-routing.py
+          python3 scripts/test-bauvergabe.py
+          python3 scripts/test-rechtsabteilung-immobilien.py
+          python3 scripts/test-vergaberecht-import.py
+          python3 scripts/test-app-only-integration.py
+          python3 scripts/test-portable-starts.py
+          python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
+      - name: Paketstand bauen
+        run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: kompatibilitaet-pakete
+          path: ${{ runner.temp }}/dist/*
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    needs: check
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      TAG: ${{ github.event.inputs.tag || github.ref_name }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: CHANGELOG.md
+          ref: ${{ github.event.inputs.tag || github.ref }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: kompatibilitaet-pakete
+          path: dist
+      - name: Tag und Herkunft prüfen
+        run: |
+          test "$TAG" = "$(python3 -c "import json; print(json.load(open('dist/quellenabgleich.json'))['tag'])")"
+          test "$(git rev-parse HEAD)" = "$(python3 -c "import json; print(json.load(open('dist/quellenabgleich.json'))['commit'])")"
+          test "$(git rev-parse "refs/tags/$TAG^{commit}")" = "$(git rev-parse HEAD)"
+          git merge-base --is-ancestor HEAD origin/main
+          (cd dist && sha256sum --check checksums-sha256.txt)
+      - name: Release erstellen und Downloads prüfen
+        run: |
+          awk -v t="# $TAG" 'index($0,t)==1{f=1;next} /^# /{if(f)exit} f' CHANGELOG.md > "$RUNNER_TEMP/notes.md"
+          test -s "$RUNNER_TEMP/notes.md"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            test "$(gh release view "$TAG" --json isDraft --jq .isDraft)" = true || { echo "Veröffentlichtes Release bleibt unverändert"; exit 1; }
+          else
+            gh release create "$TAG" --draft --verify-tag --title "Kompatibilitätsreparatur ${TAG#kompatibilitaet-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
+          fi
+          gh release upload "$TAG" dist/* --clobber
+          test "$(gh release view "$TAG" --json assets --jq '.assets | length')" = 12
+          gh release download "$TAG" --dir "$RUNNER_TEMP/verify"
+          (cd "$RUNNER_TEMP/verify" && sha256sum --check checksums-sha256.txt)
+          gh release edit "$TAG" --draft=false --latest=false

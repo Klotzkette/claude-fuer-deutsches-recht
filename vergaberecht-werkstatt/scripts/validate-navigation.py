@@ -11,7 +11,7 @@ import sys
 from pathlib import Path
 from urllib.parse import unquote
 
-from public_release import BLOB_BASE, RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY, markdown_download
+from public_release import BLOB_BASE, RAW_BASE, RELEASE_BASE, RELEASE_TAG, REPOSITORY, markdown_download, plugin_download
 
 REPO = Path(__file__).resolve().parent.parent
 SKIP_TESTAKTEN = {"formatvorlagen-paradebeispiele", "megaprompts"}
@@ -75,6 +75,8 @@ def linked_release_assets(text: str) -> set[str]:
         name = part.split(")", 1)[0].split(" ", 1)[0].strip()
         if name:
             assets.add(name)
+    targets = markdown_link_targets(text)
+    assets.update(f"{name}.zip" for name in PROMPT_SUFFIXES if plugin_download(name) in targets)
     return assets
 
 
@@ -165,7 +167,7 @@ def validate_plugins(plugins: list[str], errors: list[str]) -> None:
             f"../vergaberecht-kurzprompt-{suffix}.md",
             f"../testakten/megaprompts/{plugin}.md",
             f"{RAW_BASE}/testakten/megaprompts/{plugin}.md",
-            f"{RELEASE_BASE}/{plugin}.zip",
+            plugin_download(plugin),
             f"{RELEASE_BASE}/{plugin}-skills-markdown.zip",
             f"{RELEASE_BASE}/{plugin}-unified-mini-prompt.md",
             f"/plugin install {plugin}@klotzkette-german-legal-skills",

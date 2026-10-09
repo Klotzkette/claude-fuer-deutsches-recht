@@ -1,6 +1,6 @@
 # bauvergabe-unterlagen
 
-**11 Skills** · Stand `v445.33.1`
+**11 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauvergabe/bauvergabe-unterlagen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauvergabe-unterlagen-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`bauvergabe-unterlagen-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauvergabe-unterlagen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bauvergabe-unterlagen.zip) |
+| **Plugin (installierbar)** | ZIP | [bauvergabe-unterlagen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bauvergabe-unterlagen.zip) |
 
 ## So benutzt man einen Skill
 

@@ -144,7 +144,12 @@ function checkMarketplace() {
     if (!plugin.version || !/^\d+\.\d+\.\d+$/.test(plugin.version)) {
       errors.push(`.claude-plugin/marketplace.json [${plugin.name}]: version must be strict semver x.y.z`);
     } else if (marketplace.version && plugin.version !== marketplace.version) {
-      errors.push(`.claude-plugin/marketplace.json [${plugin.name}]: version ${plugin.version} differs from marketplace version ${marketplace.version}`);
+      const pinsPath = path.join(root, '..', 'scripts', 'scoped-release-assets.json');
+      const pins = exists(pinsPath) ? parseJson(pinsPath) : null;
+      const tag = pins?.assets?.[`${plugin.name}.zip`];
+      if (pins?.schema_version !== 1 || typeof tag !== 'string' || !/^[a-z0-9][a-z0-9.-]*$/.test(tag) || !tag.endsWith(`-v${plugin.version}`)) {
+        errors.push(`.claude-plugin/marketplace.json [${plugin.name}]: version ${plugin.version} has no matching component release`);
+      }
     }
     if (typeof plugin.source !== 'string' || !plugin.source.startsWith('./')) {
       errors.push(`${plugin.name}: source must be a relative path starting with ./`);

@@ -1,6 +1,6 @@
 # schriftsatzwerkstatt-bea
 
-**9 Skills** · Stand `v445.33.1`
+**9 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schriftsatzwerkstatt-bea/README.md) · [Download-Index](../ASSET_INDEX.md)
 
@@ -9,7 +9,7 @@
 | Paket | Format | Link |
 | --- | --- | --- |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/schriftsatzwerkstatt-bea.zip) |
+| **Plugin (installierbar)** | ZIP | [schriftsatzwerkstatt-bea.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/schriftsatzwerkstatt-bea.zip) |
 
 ## App verwenden
 

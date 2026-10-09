@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "plugin": "agb-werkstatt",
+  "reviewed_on": "2026-10-09",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "checked_on": "2026-10-09",
+      "supports": "Inhaltskontrolle und Transparenz; gesetzlicher Maßstab, kein allgemeiner Freibrief für Anbieterinteressen."
+    },
+    {
+      "url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1",
+      "checked_on": "2026-10-09",
+      "supports": "Amtlicher Entscheidungsnachweis und indexierter Entscheidungstext zur Bestellschaltfläche; kein vollständiger Rechtsstandsabgleich sämtlicher Klauseln."
+    }
+  ],
+  "selection": {
+    "target_skill": "agb-hauptproblem-loesen",
+    "positive": [
+      "Formuliere für meinen gemischten Laden und Webshop vollständige passende AGB.",
+      "Überarbeite unsere Reparaturbedingungen und die Texte zur Kostenfreigabe anhand der Beschwerden."
+    ],
+    "negative": [
+      "Prüfe die Anklage wegen eines Verkehrsunfalls.",
+      "Berechne den Zugewinnausgleich nach unserer Scheidung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "shop-und-haendlerfassung",
+      "target_skill": "agb-hauptproblem-loesen",
+      "request": "Ein Händler verkauft Sensoren mit App an Verbraucher im Webshop und an gewerbliche Wiederverkäufer auf Rechnung. Der Altentwurf verlangt Reklamation binnen drei Tagen und schließt Updates aus. Die Bestellung wird sofort als angenommen bestätigt, die Geschäftsführung möchte aber erst nach Lagerprüfung annehmen. Entwerfen Sie abgestimmte Bedingungen und Bestelltexte; fragen Sie fehlende Lieferangaben gezielt nach. Kein Zugriff auf den Shop.",
+      "input_files": [],
+      "deliverables": [
+        "bedingungen.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Verbraucher- und Händlerfassung sowie digitalen Leistungsumfang; übernimmt weder die Rügefrist noch den pauschalen Updateausschluss ungeprüft.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Klärt Annahmezeitpunkt und reale Bestellkommunikation, unterscheidet Eingangsbestätigung und Annahme und fragt die fehlende Lieferangabe nach.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ausformulierte Bedingungen und zugehörige Nachrichtentexte; keine behauptete Shopänderung oder nur eine Fehlerliste.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reparatur-zusatzauftrag",
+      "target_skill": "agb-reparatur-werkstatt",
+      "request": "Die Fahrradwerkstatt reserviert Termine kostenlos online. Bei Abgabe wird ein Diagnosepreis von 45 Euro bestätigt. Zusatzarbeiten ab 120 Euro sollen nur mit Einwilligung erfolgen, der Alttext erlaubt dagegen alle notwendigen Arbeiten und Verwertung nach sieben Tagen. Ein Kunde hat die per SMS vorgeschlagene Kettenreparatur nicht beantwortet. Schreiben Sie praktikable Reparaturbedingungen mit Annahmeschein und Freigabenachricht.",
+      "input_files": [],
+      "deliverables": [
+        "reparatur.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Terminreservierung, Auftrag, Diagnose und Zusatzleistung; Schweigen wird nicht als konkrete Zustimmung erfunden.",
+          "deliverables": [
+            "reparatur.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Abnahme, Zahlung, Abholung und Verwertung; übernimmt keine automatische Siebentagesverwertung.",
+          "deliverables": [
+            "reparatur.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert zusammenpassende vollständige Bedingungen und Freigabetexte, prüft Verbraucherinformationen anhand des tatsächlichen Abschlusswegs.",
+          "deliverables": [
+            "reparatur.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quelle-blockiert-und-fortsetzung",
+      "target_skill": "agb-hauptproblem-loesen",
+      "request": "Eine Händlerin möchte ausgewogene AGB. Die Lieferfrist fehlt noch; die übrigen Geschäftsdaten stehen fest. Der amtliche Entscheidungsabruf ist gesperrt, eine zweite Quelle ebenfalls. Später nennt sie sieben Werktage. Es gibt weder Dateiexport noch Zugang zu ihrem Shop. Führen Sie den Entwurf weiter und erläutern Sie nur die offene fachliche Freigabe.",
+      "input_files": [],
+      "deliverables": [
+        "fortsetzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beendet erfolglose Recherche nach begrenzter Alternative, verlangt den konkreten Nachweis und kennzeichnet den Quellenstatus ehrlich.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Arbeitet unabhängige Klauseln weiter aus und integriert sieben Werktage in die vorhandene Fassung ohne neues Vollinterview.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert kopierbaren ausformulierten Text ohne erfundenen Dateilink, Onlineänderung oder Garantie rechtlicher Vollständigkeit.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Verbraucher- und Händlergeschäft, konkrete Entwürfe, begrenzte Recherche und Fortsetzung werden eigenständig statt durch Standardfloskeln gesteuert.",
+    "changes": [],
+    "sha256": "c0ceab09d6434784c73deeef2ac01606f0b85495370fb4f948c5da08cc807b98"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Die vorhandenen zwölf Fachstationen verbinden Vertragsablauf, Klauselkontrolle und Einführung; Quellenhindernisse sperren nur abhängige Teile.",
+    "changes": [],
+    "sha256": "e3b58738c54c26fd8ec687392e279d7d99237b58e13ef996698c4e71338f6952"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "verdict": "retained",
+    "reason": "Eigenständiger Vertragsentwurf mit Rückfragen und Einführungstexten; installierter Hauptskill und separater Prompt haben denselben Auftragsumfang.",
+    "changes": [],
+    "prompt_path": "agb-werkstatt/agb-werkstatt-hauptproblem.md",
+    "skill_path": "agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md",
+    "prompt_sha256": "086b03889752a7dffbe8b277b7c18fa39d9331d52c8a2a04fcdf4fad716d6db6",
+    "skill_sha256": "501e370a8a8d16032e6309755a19032fa6268753ee02b948aa25cba3daa91271"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei klarem Entwurfsauftrag mit konkreter Geschäftsleistung beginnen.",
+      "Bei leerem Start Geschäft, Kundenkreis und Vertragsweg klären.",
+      "Bei Fortsetzung nur neue Angaben in abhängige Klauseln und Einführungstexte übernehmen."
+    ],
+    "continuation": "Fehlende Belege begrenzen die betreffende Klausel; andere Teile bleiben bearbeitbar. Rückfragen führen bis zur vollständigen Fassung.",
+    "enrichment": "Drei konkrete Prüffälle zu Mischvertrieb, Reparaturfreigabe und blockierter Recherche mit neun Ergebniskriterien.",
+    "limits": "Redaktionelle Prüfung vorhandener Anweisungen, keine beobachteten Modellläufe oder vollständige juristische Zertifizierung."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "files": [
+      "agb-werkstatt/agb-werkstatt-werkstatt.md",
+      "agb-werkstatt/agb-werkstatt-schnellstart.md",
+      "agb-werkstatt/agb-werkstatt-hauptproblem.md"
+    ],
+    "opening_change": "Geschäftsbezogenen Einstieg und individuelle Rückfragen unverändert behalten; Prüfung nachgetragen statt Standardabsatz einzufügen.",
+    "norms": [
+      "Paragrafen 305 bis 310 BGB: Einbeziehung, Transparenz, Kontrolle und Rechtsfolgen.",
+      "Paragraf 312j BGB: elektronische Bestellung; nicht mit Kündigungsfunktion gleichsetzen."
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 7. April 2022, C-249/21, Fuhrmann-2",
+        "url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1",
+        "application": "Zahlungspflicht anhand des Schaltflächentextes prüfen.",
+        "limit": "Keine allgemeine Freigabe der übrigen Shopbedingungen; konkreter Abschlussweg bleibt zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Quellenprüfung betrifft die hier dokumentierten Kriterien, nicht jede Entscheidung im Plugin.",
+      "Ergebnisqualität der drei Prüffälle muss in echten Modellläufen separat bewertet werden."
+    ]
+  }
+}
