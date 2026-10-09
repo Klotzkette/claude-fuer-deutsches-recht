@@ -144,5 +144,12 @@
     "continuation": "Neue Herkunftsrechnung ändert nur die zugeordneten Chargen und den Umfang der Beanstandung im bestehenden Nutzerpfad, ersatzweise ergebnis.md; kein erneutes Erheben bekannter Tatsachen.",
     "enrichment": "Zeichenwahl und Verzeichnis, Rechnungs-/Produktzuordnung bei Benutzung, Gegenbelege, gemischtes Lager, abweichender Testkauf, Plattformgegenmeldung sowie Qualitäts- und Abverkaufsregelungen konkretisiert.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "markenrecht-fashion-luxus/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie synthetische Gesichter, Produktabbildungen und behauptete Zertifizierungen jeweils getrennt. Marken- oder Persönlichkeitsrechte werden durch eine KI-Kennzeichnung nicht ersetzt.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

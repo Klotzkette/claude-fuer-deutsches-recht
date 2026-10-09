@@ -35,6 +35,12 @@ Bei einem Justiz- oder Produktfall dieselbe Methode der Systemabgrenzung verwend
 
 Den kleinsten noch sinnvoll prüfbaren Funktionsumfang begründen. Eine technisch deaktivierte Option lässt sich anders behandeln als eine standardmäßig sichtbare Schaltfläche, die nur durch eine Richtlinie untersagt wird. Geteilte Modelle oder identische Oberflächen beweisen keine einheitliche Zweckbestimmung; umgekehrt erzeugt eine Aufteilung auf Unteragenten nicht beliebig viele harmlose Einzelfunktionen. Eine Vertragsklausel darf die tatsächlich vorgesehene Integration nicht verdecken.
 
+### 3.5 Entscheidungseinfluss mit Gegenprobe
+
+Ermitteln Sie, ob ein Score nur angezeigt wird oder den erreichbaren Bewerberbestand und die Entscheidungsgründe maßgeblich prägt. Für Artikel 22 DSGVO trägt EuGH C-634/21, Rn. 43–50 und 60–64, die Betrachtung arbeitsteiliger Entscheidungen; daraus folgt keine automatische Hochrisikoeinstufung. Ein Test mit vollständiger Originalsichtung und eigenständigen Gründen ist anders zu würdigen als die Bestätigung einer verborgenen Vorauswahl. Die technische Gesamtfunktion dennoch getrennt nach Artikel 6 und Profiling beurteilen.
+
+Die [verifizierten Rechtsprechungsanker](../../references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](../../references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Prüfe Artikel 3 Nummern 1, 3, 4 und 12 sowie Artikel 6 und 25 anhand der [amtlichen Quellen mit Rechtsstand](../../references/rechtsstand-und-quellen.md). Beachte die [Zitierweise](../../references/zitierweise.md). Kennzeichne eigene Schlussfolgerungen aus einem Log als Auslegung, nicht als amtliche Feststellung. Die zeitliche Anwendung ist eine separate Frage.

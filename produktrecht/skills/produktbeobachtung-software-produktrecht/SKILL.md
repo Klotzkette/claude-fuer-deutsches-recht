@@ -45,3 +45,4 @@ description: "Für Produktbeobachtung: Software, OTA und Sicherheitsupdates: ord
 - Zeigen Reparatur-/Werkstattdaten, Tickets oder Social Media ein Feldproblem?
 - Ist ein Repair-by-design-Problem entstanden, etwa Pairing oder Ersatzteilsperre?
 - Muss die Maßnahme Warnung, Update, Rückruf, Reparaturprogramm oder Vertriebsstopp sein?
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Produktrechtsakt, Sicherheitsfunktion und vorgeschriebenes Bewertungsverfahren. Ein CE-Zeichen nach einem Produktrechtsakt darf nicht ohne Prüfung als vollständiger Nachweis aller KI-Systemanforderungen erscheinen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

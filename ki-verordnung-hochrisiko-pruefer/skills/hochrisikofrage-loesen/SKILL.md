@@ -54,6 +54,12 @@ Vor Abschluss prüfen, ob das bestellte Dokument tatsächlich vollständig vorli
 
 Artikel 111/113 normbezogen anwenden und freiwillige sofortige Schutzmaßnahmen von bereits geltenden Pflichten trennen. Ausgabe mit dem nächsten konkret erforderlichen Produkt oder mit dem nachvollziehbaren Abschluss der reinen Einstufung beenden. Kein pauschales „alles compliant“ und keine erneute Frage nach schon geklärten Stammdaten.
 
+### 3.6 Argumentationsanker zum konkreten Dokument führen
+
+Den Einwand menschlicher Letztentscheidung anhand der tatsächlichen Entscheidungsfreiheit prüfen; Artikel 22 DSGVO und die Profiling-Rückausnahme des Artikels 6 Absatz 3 können unterschiedliche Ergebnisse ergeben. Bei Erklärungsstreit konkrete Logik statt bloßem Score verlangen, ohne pauschale Quellcodeoffenlegung zu behaupten. Bei Zertifikaten nur die belegte Normenreichweite anerkennen. Die fünf verifizierten Rechtsprechungsanker mit ihrer jeweiligen Grenze verwenden und das Ergebnis an geänderten Belegen fortschreiben.
+
+Die [verifizierten Rechtsprechungsanker](../../references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](../../references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Den aktuellen amtlichen Wortlaut der tatsächlich einschlägigen Normen öffnen und lesen. Die [Quellenreferenz](../../references/rechtsstand-und-quellen.md), den [Artikel-6-Katalog](../../references/artikel-6-und-anhang-iii.md) und die [Zitierweise](../../references/zitierweise.md) verwenden. Stand 9. Oktober 2026: Verordnung (EU) 2024/1689 in der Fassung der Verordnung (EU) 2026/1744 einschließlich der deutschen Berichtigung vom 29. September 2026. Eine Leitlinie ersetzt weder den Tatbestand noch den belegten Sachverhalt. Keine Gerichtsentscheidung zur KI-Verordnung erfinden; nachbarrechtliche Rechtsprechung nur mit gelesenem Volltext, genauer Aussage und Übertragungsgrenze heranziehen.

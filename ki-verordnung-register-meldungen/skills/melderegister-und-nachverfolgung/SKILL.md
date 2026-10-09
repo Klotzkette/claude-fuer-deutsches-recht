@@ -25,6 +25,12 @@ Ordnen Sie Nachforderungen dem Ausgangsvorgang zu. Neue Informationen können di
 
 Fristen werden mit Auslöser und Rechtsgrund erfasst, nicht aus einer bloßen Zahl im E-Mail-Betreff übernommen. Eine Excel-Ampel ist eine Organisationshilfe; sie ersetzt keine rechtliche Berechnung oder die sofortige Handlungspflicht. Der Abschlussvermerk nennt, welche Pflichten tatsächlich erledigt sind, welche Rückmeldungen fehlen und wer die nächste Handlung übernimmt.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Führen Sie Zertifikatsstatus, gesetzliche Systembescheinigung, EU-Konformitätserklärung und Behördeneingang in getrennten Feldern. Ein im internen Qualitätsmanagement erledigtes Ticket ist kein Empfangsnachweis. Bei einer ausgesetzten Artikel-44-Bescheinigung ist zu prüfen, welche aktuellen Registerangaben und Korrekturmeldungen betroffen sind; die bloße Erneuerung eines allgemeinen ISO-Zertifikats aktualisiert die gesetzliche Systembescheinigung nicht.
+
+Verknüpfen Sie jede Fortschreibung mit der geänderten Originaltatsache, der freigegebenen Fassung und dem tatsächlichen Übermittlungsstatus. Die [Nachweisreferenz](../../references/nachweise-und-standards.md) und [Testanker 5](../../references/testanker.md) prüfen die Grenze zwischen internem Abschluss und extern belegtem Ergebnis.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

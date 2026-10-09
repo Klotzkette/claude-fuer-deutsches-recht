@@ -34,6 +34,10 @@ Wählen Sie die einschlägigen Fachschritte aus der folgenden Zuordnung. Überge
 - [Besondere Behörden- und Stellenmeldungen prüfen](../biometrie-und-stellenmeldungen/SKILL.md): Rollenbezogene Spezialmitteilung, Einsatz- oder Bescheinigungsverzeichnis und begründete Abgrenzung zu allgemeinen Anbieterpflichten.
 - [Meldungen mit Empfang und Änderungen nachhalten](../melderegister-und-nachverfolgung/SKILL.md): Excel-Meldungsübersicht, versionsbezogenes Freigabeprotokoll, Erinnerungs- oder Berichtigungsschreiben und Abschlussvermerk.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Ordnen Sie technische Nachweise ihrem konkreten Registerfeld oder Meldeanlass zu. Verwenden Sie die [Nachweisreferenz](../../references/nachweise-und-standards.md): ISO-Managementzertifikat, Bescheinigung der notifizierten Stelle, EU-Konformitätserklärung, Folgenabschätzung und Testbericht haben unterschiedliche Funktionen. Ein technisch belastbarer Bericht entscheidet nicht allein über Pflicht, Zuständigkeit oder Frist. Verwenden Sie die fünf [Testanker](../../references/testanker.md), um den betroffenen Datensatz und seine Begründung bei einer entscheidenden Tatsachenänderung fortzuschreiben.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

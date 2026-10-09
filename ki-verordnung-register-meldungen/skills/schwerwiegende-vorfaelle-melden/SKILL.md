@@ -25,6 +25,12 @@ Die Meldung des Anbieters richtet sich an die Marktüberwachungsbehörden der Mi
 
 Sichern Sie Beweise und vermeiden Sie ursachenverändernde Untersuchungen ohne die nach Absatz 6 erforderliche Information der Behörde. Parallel dürfen erforderliche Schutzmaßnahmen nicht nur wegen eines perfekten Berichts liegen bleiben. Nach Versand folgen Empfangsabgleich, Ergänzungsfrist und Verantwortliche. Datenschutz-, Produktsicherheits- und IT-Sicherheitsmeldungen bleiben gesondert zu prüfen.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Gleichen Sie die interne Klassifikation eines Qualitäts- oder Risikomanagementsystems mit Artikel 3 Nummer 49 und Artikel 73 ab. „Audit ohne Abweichung“, „Risiko gering“ oder ein weiterhin gültiges ISO-Zertifikat schließen einen schwerwiegenden Vorfall nicht aus. Maßgeblich sind die tatsächlichen Folgen, Kenntniszeitpunkte und der gesetzliche Kausalitätsmaßstab. Ein ausstehender technischer Abschlussbericht hält die gesetzliche Höchstfrist nicht an.
+
+Wenn eine vollständige Ursachenanalyse noch fehlt, prüfen Sie den unvollständigen Erstbericht nach Artikel 73 Absatz 5. Er enthält belegte Tatsachen, offene Kausalitätsfragen, Sicherungsmaßnahmen und die konkret vorgesehene Ergänzung. Prüfen Sie Absatz 6, bevor technische Untersuchungen Beweismittel oder Systemzustand verändern. Nutzen Sie die [Nachweisreferenz](../../references/nachweise-und-standards.md) und [Testanker 4](../../references/testanker.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

@@ -165,5 +165,12 @@
         "sha256": "a4c0979dde92aede870a405ea9fcb5b7182348586bef068f0219efd543c1d1c3"
       }
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "methodenlehre-buergerliches-recht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie Tatbestandswortlaut, systematische Argumente und nur vergleichbare Schutzgedanken anderer Urteile. Ein DSGVO-Urteil darf nicht ohne eigene Subsumtion zum Hochrisiko-Ergebnis führen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

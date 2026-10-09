@@ -273,3 +273,4 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 - BGH I ZR 154/16: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%20154/16
 - BGH I ZR 45/11: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2045/11
 - Zentrales Schutzschriftenregister: https://www.schutzschriftenregister.de/
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verlangen Sie bei einem beworbenen KI-Zertifikat Aussteller, geprüften Gegenstand, Systemversion und behauptete Rechtswirkung. Eine transparente Herkunftskennzeichnung ersetzt weder eine Lizenz noch den Nachweis einer Werbeaussage. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

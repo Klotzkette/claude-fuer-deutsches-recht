@@ -61,9 +61,10 @@
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
-      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt."
+      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "a76b23aec2d28394c5e7152e30736822f7dde8424da1c806fffde8af215b9094"
+    "sha256": "98d46b115e6de3877a0d081db14ee5fae518cf491adb929e51f7f74f2f277d49"
   },
   "selection": {
     "positive": [
@@ -192,9 +193,10 @@
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
-      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt."
+      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "b8579c057b651c5357647583f3c358966c82ef5a06c43b213d202396d0ddbb7f"
+    "sha256": "773d9dd09f5eb651c935f9c7056d1fb293792048385d47afb662d480b19df95e"
   },
   "prompt_editorial_review": {
     "date": "2026-10-09",
@@ -312,7 +314,7 @@
     ],
     "prompt_path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md",
     "skill_path": "ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow/SKILL.md",
-    "prompt_sha256": "9bc1d8cf069d3862f13568e49e62153ad6ba3eab9275315d975f4e0793bf60c2",
+    "prompt_sha256": "ba30514a200723897280889b79f6d6abe8a71711a301059bc3669d089a78efd9",
     "skill_sha256": "c48583c392cc33b94fa4cfa1dffdd16110f4c2381c294befd7c5fef8a4c6b9db"
   },
   "source_review_2026_10_09": {
@@ -322,6 +324,19 @@
       "Keine neue Vollprüfung der nationalen Nebenmaterien, des KI-MIG oder historischer Rechtsprechungsanker.",
       "Keine produktive Meldung oder Zertifizierung und kein ausgeführter Live-Modelltest.",
       "Vorhandene Testakten unverändert."
+    ]
+  },
+  "normargument_review_2026_10_09": {
+    "method": "official_fulltext_and_editorial_review",
+    "test_anchor_path": "ki-vo-ai-act-pruefer/references/testanker.md",
+    "test_anchor_count": 5,
+    "scope": "Konkrete Normmerkmale, Gegenvarianten und Arbeitsprodukte. Redaktionelle Gegenprüfung; kein ausgeführter Live-Modelltest.",
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+        "checked_on": "2026-10-09",
+        "supports": "Artikel 3, 9, 10, 14, 17, 25, 27, 40, 43; Systemgrenze, Zweck, Fehlanwendung, Testdaten und Verfahrensabgrenzung."
+      }
     ]
   }
 }

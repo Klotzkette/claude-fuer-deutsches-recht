@@ -129,5 +129,12 @@
       "KAGB-/BaFin-, US-Securities- und ausländische SAFE-Fragen nicht umfassend geprüft; keine allgemeine Follow-on-Finanzierungspflicht.",
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "venture-capital-geber/references/ki-normen-und-fallpruefung.md",
+    "focus": "Verbinden Sie Aussagen zur Produktreife mit belastbaren Systemtests, Rollen und geltenden Pflichtenterminen. Ein ISO-Zertifikat des Dienstleisters darf keine unbeschränkte Garantie des Startups begründen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

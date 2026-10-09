@@ -190,5 +190,12 @@
         "sha256": "deeeaf524b09d83c146882423cf79c440bbf7bea2b66cd7e5607f3eb3bc03e75"
       }
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "subsumtions-pruefer/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie jedes Merkmal anhand eines bezeichneten Aktenbelegs und führen Sie die stärkste Gegenposition aus. Rechtsprechung zu verwandten Normen ist als begrenztes Argument und nicht als Ersatz des konkreten Tatbestands einzusetzen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

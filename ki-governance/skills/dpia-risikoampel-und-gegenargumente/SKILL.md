@@ -58,3 +58,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Schlanke DPIA-Templates beschleunigen die Compliance, lassen aber bei Hochrisiko-Use-Cases Lücken; ausführliche DPIA bindet Ressourcen, schützt aber bei Aufsichtsverfahren. Empfehlung: DPIA-Tier-Modell (Light/Standard/Deep) anhand der Risikoampel.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

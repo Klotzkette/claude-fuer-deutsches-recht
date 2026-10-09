@@ -60,3 +60,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Eigene Konformitätsbewertung des Betreibers ist begrenzt, da der Anbieter die Last trägt. Sorgfältige Vendor-Auswahl mit dokumentierten Selbstauskünften und Verträgen ist regelmäßig der wirksamste Schutz; eigene erneute Bewertung ist nicht zwingend, wenn der Anbieter Anhang IV / Anhang V vollständig liefert.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

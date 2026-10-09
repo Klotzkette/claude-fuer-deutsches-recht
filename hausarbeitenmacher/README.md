@@ -375,3 +375,9 @@ English: Complete list of all 59 skills in this plugin. Both links in each row d
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Benennen Sie die geprüfte Fassung der Verordnung und den Sachverhaltszeitpunkt. Eine 2024 formulierte Fallfrage darf nicht stillschweigend mit späterem Übergangsrecht gelöst werden; unterscheiden Sie Originalfall und Variante.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

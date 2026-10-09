@@ -129,5 +129,12 @@
     "continuation": "Gegner ist privat oder ein neuer Gesundheitsrisikobeleg liegt vor -> Wirkungsweg beziehungsweise Verhältnismäßigkeitsprüfung und Stellungnahme ändern.",
     "enrichment": "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "europarecht-kompass/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie autonome Begriffe der Verordnung, unverbindliche Leitlinien und technische Normen. Begründen Sie eine Übertragung aus Datenschutz- oder Sicherheitsrecht ausdrücklich, statt sie als unmittelbare Auslegung der KI-VO auszugeben.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

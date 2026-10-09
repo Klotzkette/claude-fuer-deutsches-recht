@@ -62,3 +62,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Verbotsorientierte Richtlinie ("Keine ChatGPT-Nutzung") ist klar, wird aber umgangen ("Schatten-IT"). Erlaubnisorientierte Richtlinie mit gestuften Freigaben und Schulungen erzeugt Akzeptanz und reduziert tatsächlich Risiko — verlangt aber laufende Pflege der Tool-Liste.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

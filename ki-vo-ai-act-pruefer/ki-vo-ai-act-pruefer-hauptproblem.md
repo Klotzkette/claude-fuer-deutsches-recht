@@ -29,3 +29,9 @@ Normabgleich 9. Oktober 2026: [konsolidierte Verordnung](https://eur-lex.europa.
 Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Absatz 2 auf 2. Dezember 2027, für Absatz 1 auf 2. August 2028. Artikel 111 zum Bestand prüfen. Artikel 43, 49 und 73 stehen außerhalb des pauschalen Aufschubs; ihre zeitliche Verschränkung mit Artikel 6 konkret begründen, keine sichere Gesamtfreistellung behaupten. Artikel 50 gilt grundsätzlich seit 2. August 2026; Artikel 111 Absatz 4 verschiebt nur Absatz 2 für vor diesem Tag vermarktete Systeme bis 2. Dezember 2026. Neue Artikel-5-Inhaltsverbote gelten ab 2. Dezember 2026.
 
 Das Enddokument verbindet Tatsache, genaue Norm, Ergebnis, stärkste Gegenposition und konkrete nächste Maßnahme. Offene Tatsachen begrenzen nur abhängige Entscheidungen. Keine behauptete Zertifizierung, Anmeldung oder technische Prüfung. Externe Meldung, Registrierung oder Systemänderung nur mit beauftragter menschlicher Freigabe.
+
+## 1.5. Entscheidende Abgrenzungen
+
+Zweckbestimmung aus Anleitung, Werbung und technischer Dokumentation zusammenführen (Artikel 3 Nummer 12). Vorhersehbarer Fehlgebrauch gehört in Artikel 9/14; er ist nicht allein eine neue Risikoklasse. Planmäßige Umwidmung zum Hochrisikoeinsatz gesondert nach Artikel 25 Absatz 1 Buchstabe c prüfen, auch ohne Nachtraining. Artikel 10 Absatz 6 lässt bei Systementwicklung ohne Modelltraining Testdatenpflichten bestehen; bloß fehlendes eigenes Nachtraining eines Integrators belegt die Ausnahme nicht. Artikel 3 Nummer 1 erfasst auch geeignete wissensgestützte Ableitung; starre menschliche Rechenregeln und fehlende nachträgliche Anpassung getrennt beurteilen.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

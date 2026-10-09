@@ -230,3 +230,9 @@ English: Complete list of all 106 skills in this plugin. Both links in each row 
 | [`work-made-vulnerability-disclosure-warranty`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/skills/work-made-vulnerability-disclosure-warranty/SKILL.md) | Für US Work Made for Hire Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/skills/work-made-vulnerability-disclosure-warranty/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Vergleichen Sie Vertrag, Anleitung und tatsächlich ausgelieferten Funktionsumfang. Modellanpassung, Änderung der Zweckbestimmung und wesentliche Systemänderung sind verschiedene Fragen und benötigen jeweils technische Belege.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

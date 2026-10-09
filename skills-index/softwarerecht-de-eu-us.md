@@ -1,6 +1,6 @@
 # softwarerecht-de-eu-us
 
-**106 Skills** · Stand `v445.33.1`
+**106 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../softwarerecht-de-eu-us/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`softwarerecht-de-eu-us-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`softwarerecht-de-eu-us-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/softwarerecht-de-eu-us-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [softwarerecht-de-eu-us.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/softwarerecht-de-eu-us.zip) |
+| **Plugin (installierbar)** | ZIP | [softwarerecht-de-eu-us.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/softwarerecht-de-eu-us.zip) |
 
 ## So benutzt man einen Skill
 

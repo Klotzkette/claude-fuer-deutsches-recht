@@ -24,6 +24,12 @@ Lies Datenkatalog, Modellzweck, Gruppenmerkmale, Erhebungsquellen, Nutzungsrecht
 7. Datenschutzrechtliche Rechtsgrundlage, Informationspflichten, Betroffenenrechte, Dienstleister und gegebenenfalls Folgenabschätzung daneben prüfen. Die spezielle Ausnahme erlaubt nicht sämtliche Trainingszwecke oder uneingeschränkte Auftragsverarbeiterzugriffe.
 8. Freigabe nach Zweck und Datenumfang begrenzen; Korrekturerfolg und Löschung nachhalten. Erfolgloser Test rechtfertigt keine endlose Vorratsspeicherung.
 
+### 3.1. Ohne Modelltraining bleiben Testdaten prüfpflichtig
+
+Artikel 10 Absatz 6 begrenzt bei Entwicklung von Hochrisikosystemen ohne Techniken, bei denen KI-Modelle trainiert werden, die Absätze 2 bis 4 und Artikel 4a Absatz 1 auf Testdatensätze. Verlangen Sie in diesem Fall keine erfundenen Trainings- und Validierungsbestände, aber weiterhin zweckgeeignete Testdaten und deren Herkunfts-, Qualitäts- und Verzerrungsprüfung. Der bloße Verzicht des Integrators auf eigenes Nachtraining beweist diese Voraussetzung nicht; bei Einbindung trainierter Modelle Systemgrenze und eingesetzte Technik klären.
+
+Repräsentativität und soweit mögliche Fehlerfreiheit und Vollständigkeit sind nach Absatz 3 zweckbezogen zu begründen. Die geeigneten statistischen Merkmale dürfen auch durch eine Kombination von Datensätzen erfüllt werden. Absatz 4 verlangt erforderliche geografische, kontextuelle, verhaltensbezogene oder funktionale Besonderheiten. Eine hohe Gesamtgenauigkeit widerlegt keine relevante Datenlücke in einer betroffenen Gruppe. Ordnen Sie jede Lücke einer Auswirkung, Korrektur und Nachprüfung zu; keine unerreichbare absolute Fehlerfreiheit versprechen.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte, Abschnitte 1.1, 1.2 und 1.4](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Verordnung (EU) 2026/1744, Artikel 1 Nummer 6; Datenschutz-Grundverordnung Artikel 5, 6, 9, 30, 32 und 35. Kein älteres Datenschutzurteil als Entscheidung über den neuen Artikel 4a ausgeben.
@@ -35,3 +41,5 @@ Vollständig ausformulierter Datenfreigabevermerk mit Tabelle: Datenkategorie, B
 ## 6. Beispiele
 
 Ein Recruiting-Anbieter will gruppenbezogene Benachteiligung untersuchen: erst Aussagekraft anonymer Auswertungen prüfen, dann gegebenenfalls eng begrenzte sensible Merkmale. Ein allgemeiner Chatbot-Anbieter darf Artikel 4a nicht als unbegrenzte Erlaubnis zum Training auf Gesundheitsakten behandeln.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 4](../../references/testanker.md).

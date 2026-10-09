@@ -34,6 +34,8 @@ Beschreibe einen konkreten Schadensweg, etwa automatische Bewerberabsage nach fr
 
 Menschliche Kontrolle braucht relevante Informationen, Zeit, Befugnis und einen Zeitpunkt vor der erheblichen Wirkung, wenn dadurch Artikel 22 Absatz 1 vermieden werden soll. Gesetzliche Ausnahmen und Garantien gesondert prüfen. Folgenabschätzung bei neuem Werkzeug oder verändertem Risiko nach Artikel 35 Absatz 11 aktualisieren. Nicht jeden Modellwechsel als automatisch neue Gesamtprüfung behandeln. Liefere den geänderten Vermerk und die betroffene konkrete Betriebsregel zusammen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 22, 30, 35 und 36 der Datenschutz-Grundverordnung; Artikel 4, 4a, 26, 27, 111 und 113 der Verordnung (EU) 2024/1689; [Rechtsstand und Zuständigkeitskarte](../../references/digitaler-omnibus-2026.md). Fundstelle, Fassungsdatum und tatsächlichen Anwendungsfall zusammen angeben.

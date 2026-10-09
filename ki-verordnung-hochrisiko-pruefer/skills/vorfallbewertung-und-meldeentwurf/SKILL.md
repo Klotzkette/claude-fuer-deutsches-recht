@@ -33,6 +33,12 @@ Ein Fehlerbericht über verdeckte Bildbefunde kann zugleich die bisherige Annahm
 
 Eine Fristberechnung muss Kenntnisereignis, verantwortlichen Akteur, möglichen Kausalzusammenhang und einschlägigen Sonderfall ausweisen. Allgemeine Grenze, verkürzte Grenze und unverzügliche Handlung nicht vermischen. Bei medizinproduktrechtlich bereits geregelten Meldewegen die besonderen Abgrenzungen des Artikels 73 lesen; keine doppelte Vollmeldung allein wegen zweier Schlagworte vorbereiten. Ein Registereintrag nach Artikel 49 ersetzt niemals den Vorfallbericht.
 
+### 3.5 Ansprüche und Meldung nicht vermischen
+
+Bei unbefugter Weitergabe von Bewerberdaten neben dem Vorfallweg gegebenenfalls Artikel 82 DSGVO prüfen. C-655/23, Rn. 56 und 58–62, verlangt Verstoß, tatsächlichen Schaden und Kausalität ohne Bagatellschwelle; nachgewiesener Kontrollverlust oder begründete negative Gefühle können genügen. Weder ein Fehler allein noch das Etikett Ärger entscheidet den Anspruch. Konkrete Kenntnis, Weitergabe, Folgen und Belege anfordern und einen getrennten Anspruchsvermerk liefern. Daraus weder Meldepflicht nach Artikel 73 KI-VO noch Schadenspauschale ableiten.
+
+Die [verifizierten Rechtsprechungsanker](../../references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](../../references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Artikel 3 Nummer 49, Artikel 26 Absatz 5, Artikel 73 und Artikel 111/113 aktuell amtlich prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) sowie [Zitierweise](../../references/zitierweise.md) verwenden. Meldepflicht nach KI-Verordnung nicht mit Datenschutzverletzung, AGG-Anspruch oder arbeitsrechtlicher Beschwerde gleichsetzen; Parallelprüfung bei entsprechendem Sachverhalt abgrenzen.

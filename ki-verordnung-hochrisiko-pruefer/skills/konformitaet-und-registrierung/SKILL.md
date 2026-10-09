@@ -33,6 +33,12 @@ Ein Zertifikat nach ISO/IEC 42001 betrifft einen bezeichneten Managementumfang u
 
 Artikel 43 Absatz 2 darf nicht auf Biometrie nach Nummer 1 oder auf Produktfälle übertragen werden. Dort Absatz 1 beziehungsweise Absatz 3 und das einschlägige Produktrecht lesen. Eine Plattformregistrierung beweist weder eine unabhängige Zertifizierung noch eine behördliche Betriebsgenehmigung. Dem Einstufungsvermerk nur den tatsächlich vorliegenden Nachweis zuordnen, einschließlich Datum, Version und Aussteller. Für eine detaillierte Registrierungs- oder Konformitätsbearbeitung einen konkreten Folgeauftrag mit diesen Daten übergeben.
 
+### 3.5 Den Zertifikatseinwand begründet beantworten
+
+C-588/21 P, Rn. 70 und 73–85, erklärt die besondere Rechtswirkung und den Zugang zu harmonisierten Normen. Das Urteil prüft keine KI-Systemkonformität. Eine behauptete Vermutung nach Artikel 40 deshalb auf Amtsblattfundstelle, Fassung, abgedeckte Anforderungen, tatsächliche Einhaltung und Prüfversion zurückführen. Reicht der Anbieter einen einschlägigen Nachweis nach, nur dessen belegten Umfang anerkennen und übrige Lücken konkret fortschreiben. Weder jedes Zertifikat ablehnen noch aus einer Normnummer eine vollständige Freigabe ableiten.
+
+Die [verifizierten Rechtsprechungsanker](../../references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](../../references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Artikel 43, 47 bis 49, Anhang VI, Anhang VIII sowie Artikel 111/113 anhand amtlicher Quellen prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) und [Zitierweise](../../references/zitierweise.md) beachten. Normtext und unverbindliche Herstellerbehauptung getrennt nachweisen. Kein ungeprüftes Prüfzeichen als behördliche Entscheidung bezeichnen.

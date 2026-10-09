@@ -40,3 +40,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entspricht, lieber eine kurze DSFA-Eingangsbewertung dokumentieren (3-Punkte-Test: Risiko-Trigger, Schutzmaßnahmen, Restrisiko) als nichts zu dokumentieren. Im Audit zählt sichtbare Begründung.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -315,5 +315,12 @@
     ],
     "focus_scope": "Hauptproblem Punktespiegel/Notenvergleich bleibt bei X ZB 3/17. Technische Mindestanforderungen und Direktvergabe tragen keine Benotungskorrektur; neue Anker deshalb in Werkstatt/Mini und Fachskills.",
     "new_model_tests": false
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-vergaberecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Formulieren Sie überprüfbare Anforderungen an System, Tests, Dokumentation und Änderungen. Verlangen Sie kein beliebiges ISO-Zertifikat als Ersatz für auftragsbezogene gesetzliche Nachweise.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

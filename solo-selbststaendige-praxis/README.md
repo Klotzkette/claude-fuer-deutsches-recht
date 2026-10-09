@@ -339,3 +339,9 @@ English: Complete list of all 202 skills in this plugin. Both links in each row 
 | [`zahlungsziel-und-skonto`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=solo-selbststaendige-praxis/skills/zahlungsziel-und-skonto/SKILL.md) | Für Rechnung und Umsatzsteuer: Formuliert zahlungsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=solo-selbststaendige-praxis/skills/zahlungsziel-und-skonto/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie private Nutzung, betriebliche Dokumentenhilfe und öffentlich erreichbaren Kundenbot. Prüfen Sie die tatsächlich angebotene Leistung; geringe Betriebsgröße ist keine allgemeine Ausnahme.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

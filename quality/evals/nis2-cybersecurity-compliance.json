@@ -184,5 +184,12 @@
     "continuation": "Früheres Kenntnisticket ändert Chronologie und Fristen in erstmeldung.md; bestätigte Übermittlung korrigiert die Abschlussfrist, begrenzter Restore-Test nur den betroffenen Systemstatus in massnahmenplan.md.",
     "enrichment": "Mischbetrieb und Sektorausnahmen, konkurrierende Zeitbelege, Inhalt und Fortschreibung der Meldestufen, MFA-Ausnahme und Leitungsvorlage, nachgewiesener Wiederanlauf statt bloßem Backupplan.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "nis2-cybersecurity-compliance/references/ki-normen-und-fallpruefung.md",
+    "focus": "Führen Sie Cybervorfall, Datenschutzverletzung und schwerwiegenden KI-Vorfall in getrennten Prüfspuren. Ein gemeinsamer Zeitstrahl erleichtert den Abgleich, setzt aber die gesetzlichen Voraussetzungen und Empfänger nicht gleich.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

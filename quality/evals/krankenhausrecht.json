@@ -140,5 +140,12 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "krankenhausrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Klären Sie, wer das KI-System beschafft, in medizinische Abläufe einbindet und ändert. Dokumentierte klinische Verantwortlichkeiten und KI-Anbieterrollen müssen am realen Ablauf geprüft werden.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

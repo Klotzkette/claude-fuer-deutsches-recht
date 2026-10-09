@@ -142,5 +142,12 @@
         "sha256": "d042482252c2e935ddfacb611c4968ee7cbfb153ea4f2e7ea29a017b1014ac3c"
       }
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "influencer-recht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie, ob Bild, Stimme oder Text synthetisch erzeugt oder verändert wurden und in welcher Rolle der Auftraggeber veröffentlicht. Werbekennzeichnung und KI-Offenlegung erfüllen unterschiedliche Zwecke.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

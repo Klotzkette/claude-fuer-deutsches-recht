@@ -27,3 +27,9 @@ Schreibe den konkreten Hinweis samt Platzierung bei erster Interaktion oder Expo
 Die Freigabe betrifft nur den geprüften Kanal und die Endfassung. Artikel 9 Systemrisiken, Artikel 17 Anbieter-Qualitätsmanagement und Artikel 27 FRIA sind andere, nur bei ihrem Tatbestand einschlägige Produkte. Eine positive Kennzeichnungsentscheidung ist keine allgemeine KI-Konformität. Veröffentlichung, Versand und Systemeinstellungen nur auf ausdrücklichen Auftrag verändern.
 
 Amtlicher Normabgleich 9. Oktober 2026: [konsolidierte Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), [Änderungsakt](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744). Die [finalen Transparenzleitlinien](https://ec.europa.eu/newsroom/dae/redirection/document/131215), insbesondere Randnummern 12 bis 17, 30 bis 40, 63 bis 78, 87 bis 92, 104 bis 117, 131 bis 138 und 142 bis 154, sind unverbindliche Auslegungshilfen. Normtext hat Vorrang; keine erfundenen KI-Verordnungsurteile. Vor späterer Anwendung aktuellen Stand prüfen.
+
+## 6. Entscheidende Abgrenzungen
+
+Prüfe die Ausnahme an der einzelnen Bearbeitungsfunktion: neue Tatsachen sind keine bloße Sprachkorrektur. Markierung bestätigt künstliche Bearbeitung, nicht Wahrheit oder Rechtefreiheit; fehlender Detektionstreffer kann auch Exportverlust bedeuten. Offensichtlichkeit muss bereits beim Interaktionsbeginn aus dem Kontext folgen. Die Strafverfolgungsausnahme des Absatzes 1 greift nicht für öffentlich verfügbare Anzeigenportale; Ausnahmen absatzbezogen lesen.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

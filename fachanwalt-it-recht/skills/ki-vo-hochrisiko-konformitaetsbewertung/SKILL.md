@@ -26,6 +26,8 @@ Zweckbestimmung, Produktregime, Risikoeinstufung, Systemversion, bestehende Konf
 9. Vertraglich Nachweiszugang, Versionswechsel, Lieferantenmitwirkung, Fehlermeldung und Freigabeverantwortung abstimmen. Gesetzliche Verantwortung nicht mit einer Freistellung verwechseln. Artikel 25 Absatz 2 neuer Fassung bei Anbieterwechsel und Informationsbedarf prüfen.
 10. Digital angebotene Systeme erhalten die nach Artikel 48 Absatz 2 vorgesehene digitale Kennzeichnung. Erklärung und Versionsstand zusammenhalten; technische Dokumentation nicht pauschal öffentlich veröffentlichen. Vertrauliche beziehungsweise besonders geschützte Registrierungsbereiche gesondert prüfen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 2, 6, 43 bis 49, 111 und 113 sowie Anhänge I und IV bis VIII. Normenstatus anhand der amtlichen Veröffentlichung prüfen, nicht anhand einer bloßen Herstellerbehauptung. Ein Zertifikat außerhalb des gesetzlichen Verfahrens ersetzt keine gesetzliche Konformitätsbewertung.

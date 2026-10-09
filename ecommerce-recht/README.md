@@ -210,3 +210,9 @@ English: Complete list of all 73 skills in this plugin. Both links in each row d
 | [`widerrufsrecht-verbraucher-355-312g-bgb`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/skills/widerrufsrecht-verbraucher-355-312g-bgb/SKILL.md) | Für Widerrufsrecht Verbraucher 355 312g BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/skills/widerrufsrecht-verbraucher-355-312g-bgb/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie konkrete Dialoge, Preispräsentation und Auswahl schutzbedürftiger Gruppen. Eine irreführende Verkaufsbotschaft ist nicht ohne Schadens- und Wirkungssubsumtion bereits eine verbotene KI-Praxis.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

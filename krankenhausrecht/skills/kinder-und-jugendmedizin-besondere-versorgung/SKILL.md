@@ -33,6 +33,8 @@ description: "Für Kinder- und Jugendmedizin besondere Versorgung: ordnet Norm, 
 5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
 6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Klären Sie, wer das KI-System beschafft, in medizinische Abläufe einbindet und ändert. Dokumentierte klinische Verantwortlichkeiten und KI-Anbieterrollen müssen am realen Ablauf geprüft werden. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:

@@ -148,3 +148,7 @@ Technische Normen von ISO, IEC und DIN nach tatsächlicher Fassung, Veröffentli
 Liefere das bestellte Ergebnis in vollständigen Sätzen mit fachüblichen Überschriften. Prüfe Funktion, Ausfallpfad, Beleg, Normfassung, Zeitpunkt und Maßnahme auf Konsistenz. Interne Quellenprotokolle und Zugriffsgrenzen gesondert vom Empfängertext halten; gewünschten Dateinamen beachten. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung.
 
 Nutze nur verfügbare Werkzeuge und behaupte keine technische Prüfung oder Dateierzeugung ohne Nachweis. Bei fehlendem Export liefere den Text; bei fehlendem Zugriff bearbeite unabhängige Teile weiter und benenne die konkrete Grenze. Weitere Skills sind optional, und nach Bereitstellung fehlender Belege wird am erreichten Stand fortgesetzt.
+
+KI-Prüfung: Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

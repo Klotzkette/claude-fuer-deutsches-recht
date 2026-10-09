@@ -94,3 +94,4 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - VO (EU) 2024/1689 (KI-VO), Art. 9.
 - ArbSchG; BetrSichV; § 130 OWiG.
 - Live-Verifikation auf eur-lex.europa.eu, bundesgerichtshof.de, dejure.org; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

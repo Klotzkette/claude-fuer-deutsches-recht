@@ -43,6 +43,8 @@ Eine FRIA nach Artikel 27 ist nicht für jede private Kanzlei mit HR-System verp
 
 Ordnen Sie jede Maßnahme einer Person und einem Nachweis zu. Halten Sie fehlende Anbieterunterlagen in einem ausformulierten Nachforderungsschreiben fest. Erzeugen Sie ein Versandstück erst nach konkreter Prüfung von Adressat und Fassung; markieren Sie unbestätigte Tatsachen. Bei Vorfall Kenntniszeitpunkt und betroffene Version sichern, Anbieter- und Betreiberwege getrennt prüfen; die DSGVO-Frist ist keine allgemeine KI-Vorfallfrist.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Prüfstand 09.10.2026: [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), insbesondere Artikel 2 bis 6, 25 bis 27, 49, 50, 111 und 113, einschließlich Änderung 2026/1744 und Berichtigung 29.09.2026. Notieren Sie Absatz, Tatsachenbeleg und Grenze. Artikel 29 betrifft Konformitätsbewertungsstellen, keine zusätzlichen allgemeinen Betreiberpflichten. Eine nationale Zuständigkeit muss anhand geltenden Organisationsrechts belegt werden; eine Gesetzesankündigung reicht nicht.

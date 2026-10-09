@@ -2,7 +2,7 @@
 
 [Repository-Start](../README.md) · [Alle Skills](../SKILLS.md) · [Skill-Detailseite](../skills-index/ki-verordnung-hochrisiko-pruefer.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
 
-Version 445.35.0, Rechtsabgleich vom 9. Oktober 2026. Zehn Fachskills und ein elfter Hauptproblem-Skill prüfen die konkrete Funktion einer KI nach Artikel 6. Der vorhandene Recruiting-Schwerpunkt bleibt erhalten; Justizassistenz und Medizinprodukt ergänzen ihn um zwei eigenständige Fallakten.
+Version 445.35.1, Rechtsabgleich vom 9. Oktober 2026. Zehn Fachskills und ein elfter Hauptproblem-Skill prüfen die konkrete Funktion einer KI nach Artikel 6. Der vorhandene Recruiting-Schwerpunkt bleibt erhalten; Justizassistenz und Medizinprodukt ergänzen ihn um zwei eigenständige Fallakten.
 
 ## 2 Einstieg und Arbeitsweise
 
@@ -38,7 +38,7 @@ Claude Cowork und Claude Code können das Plugin mit seinen Skills verwenden. F�
 
 Mini und Hauptproblem passen jeweils in 7.500 UTF-8-Bytes. Alle drei MD/TXT-Paare enthalten identischen Text. Die Werkstatt behandelt beide Einstufungspfade, sämtliche Katalogbereiche, vier Ausnahmealternativen, Profiling und die Fortsetzung nach neuen Belegen ausführlich.
 
-[Plugin-ZIP der Komponentenfassung 445.35.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-hochrisiko-pruefer.zip)
+[Plugin-ZIP der Komponentenfassung 445.35.1](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-hochrisiko-pruefer.zip)
 
 ## 5 Fachlicher Stand und konkrete Grenzen
 
@@ -68,4 +68,16 @@ Das [Prüfprofil](../quality/evals/ki-verordnung-hochrisiko-pruefer.json) enthä
 
 ## 9. PDF-Lesefassungen und Prüfbericht
 
-[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-hochrisiko-pruefer-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
+[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-hochrisiko-pruefer-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+
+## Neue vollständige Übungsakten
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte und Aufgabe | Originaldateien | Einzel-PDFs | Gesamt-PDF |
+| --- | --- | --- | --- |
+| [Mainblick Bewerbung](../testakten/ki-hochrisiko-mainblick-bewerbung/README.md): Strukturierung, Profiling, tatsächliche Auswahl und verständliche Erklärung. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) | [PDF](../testakten/ki-hochrisiko-mainblick-bewerbung/gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf) |

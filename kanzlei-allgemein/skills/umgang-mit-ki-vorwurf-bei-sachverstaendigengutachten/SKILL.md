@@ -187,3 +187,4 @@ oder Hilfskräfte beteiligt waren.
 - **Eigenes Gutachten widerlegt KI-Verdacht nicht**: Ein Privatgutachten der Gegenpartei kann methodische Schwächen aufzeigen, aber nicht beweisen, dass das Originalgutachten KI-erstellt war.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie Dateiorganisation, interne Entwürfe, Mandantenkommunikation und rechtsverbindliche Außenhandlungen. Technische Autonomie macht ein System nicht automatisch hochriskant und beseitigt keine Verschwiegenheits- oder Kontrollpflicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

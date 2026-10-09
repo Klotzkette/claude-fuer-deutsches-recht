@@ -1,0 +1,172 @@
+{
+  "case": "ki-hochrisiko-mainblick-bewerbung",
+  "native_files": 20,
+  "formats": {
+    ".docx": 6,
+    ".eml": 6,
+    ".pdf": 6,
+    ".xlsx": 1,
+    ".txt": 1
+  },
+  "documents": [
+    {
+      "docx": "01_Auftrag.docx",
+      "pdf": "07_Auftrag.pdf",
+      "pages": 2,
+      "body_words": 661,
+      "paragraph_text_equal": true
+    },
+    {
+      "docx": "02_Technische_Systemnotiz.docx",
+      "pdf": "08_Technische_Systemnotiz.pdf",
+      "pages": 2,
+      "body_words": 664,
+      "paragraph_text_equal": true
+    },
+    {
+      "docx": "03_Auswahlprotokoll.docx",
+      "pdf": "09_Auswahlprotokoll.pdf",
+      "pages": 2,
+      "body_words": 658,
+      "paragraph_text_equal": true
+    },
+    {
+      "docx": "04_Anbieterantwort.docx",
+      "pdf": "10_Anbieterantwort.pdf",
+      "pages": 2,
+      "body_words": 683,
+      "paragraph_text_equal": true
+    },
+    {
+      "docx": "05_Daten_und_Kontrollnotiz.docx",
+      "pdf": "11_Daten_und_Kontrollnotiz.pdf",
+      "pages": 2,
+      "body_words": 664,
+      "paragraph_text_equal": true
+    },
+    {
+      "docx": "06_Entwurf_Antwort_Yilmaz.docx",
+      "pdf": "12_Entwurf_Antwort_Yilmaz.pdf",
+      "pages": 2,
+      "body_words": 699,
+      "paragraph_text_equal": true
+    }
+  ],
+  "attachment_count": 13,
+  "workbook": {
+    "sheets": 3,
+    "formulas_with_caches": 93,
+    "formula_error_cells": 0,
+    "external_links": 0,
+    "input_checks": 45,
+    "restored": true
+  },
+  "visual_review": {
+    "docx_pdf_pages": 12,
+    "workbook_sheets": 3,
+    "native_workbook_print_pages": 3,
+    "result": "Alle Seiten lesbar; keine abgeschnittenen Inhalte oder Überlagerungen."
+  },
+  "files": [
+    {
+      "path": "01_Auftrag.docx",
+      "bytes": 40272,
+      "sha256": "72474b5340792cc0d7072b0c3706d1d70aeabbf79f391447475feb32a2852e98"
+    },
+    {
+      "path": "02_Technische_Systemnotiz.docx",
+      "bytes": 40253,
+      "sha256": "be2179618a0d48fb87a19c9ebea4ae4ab9156e0d8feac70df9c2c8db24ddee2e"
+    },
+    {
+      "path": "03_Auswahlprotokoll.docx",
+      "bytes": 40145,
+      "sha256": "58bde8559cde4003c2aa553c7435cf73eb0d9337b3022dec37a9d7527de11fc4"
+    },
+    {
+      "path": "04_Anbieterantwort.docx",
+      "bytes": 40344,
+      "sha256": "7a09b59385d620898fd4c4821f3c3d4a1f56bade5ecba7cbe19a3617f08eb8b0"
+    },
+    {
+      "path": "05_Daten_und_Kontrollnotiz.docx",
+      "bytes": 40234,
+      "sha256": "cbf1ce192a7b0c36a4a7d54f5d8bb218753199be617cd72f9de22f3d91a8b297"
+    },
+    {
+      "path": "06_Entwurf_Antwort_Yilmaz.docx",
+      "bytes": 40270,
+      "sha256": "f47f3bd5a0c89bfa65afc379801f48454dc8d1518c80795d0e4f6db897798c10"
+    },
+    {
+      "path": "07_Auftrag.pdf",
+      "bytes": 59955,
+      "sha256": "bfa85ebb44096aaff09d177973955036be89abaa80ebd4b19d4c7f4f47fa134f"
+    },
+    {
+      "path": "08_Technische_Systemnotiz.pdf",
+      "bytes": 60471,
+      "sha256": "a390404c499f408ab1abbc00fd95aebed67d6b355869eaa7c41246ff200a49cb"
+    },
+    {
+      "path": "09_Auswahlprotokoll.pdf",
+      "bytes": 57693,
+      "sha256": "06a14143f8db424a77722b83af7dbe6f1241a67b8a42649e7e2e03f61dc32bac"
+    },
+    {
+      "path": "10_Anbieterantwort.pdf",
+      "bytes": 61911,
+      "sha256": "3805c545e717b3cb3d8c3ca2be61b8d9fe890f90a87b7cd532a7ca641707b9a6"
+    },
+    {
+      "path": "11_Daten_und_Kontrollnotiz.pdf",
+      "bytes": 59889,
+      "sha256": "3824b9095d63a97ead0a66470cecca171637bfb66c6cb376a64f51cf7b0709f0"
+    },
+    {
+      "path": "12_Entwurf_Antwort_Yilmaz.pdf",
+      "bytes": 59990,
+      "sha256": "cfaf16526b59d0e8dda430383f8cfb21b043466c9a7ac231c5fa6847cf133cb1"
+    },
+    {
+      "path": "13_Pruefauftrag.eml",
+      "bytes": 138913,
+      "sha256": "73370c49af5e8e4f6dd00663754b3f8ddb913d2d610e173a3a2260b100a52033"
+    },
+    {
+      "path": "14_Techniknachricht.eml",
+      "bytes": 139591,
+      "sha256": "4177082b8a815003120088a230a8d2efb396f5ed5fd26205cc3c3dfc4d2cb7e1"
+    },
+    {
+      "path": "15_Protokollnachtrag.eml",
+      "bytes": 135752,
+      "sha256": "37b347205ccf0c25381b5e9ff1a139bd7739b92cc6e2d2e92ee93e349a234b59"
+    },
+    {
+      "path": "16_Anbieter_ticket7716.eml",
+      "bytes": 141728,
+      "sha256": "a9d8c5b3b4b0d6991073cc4238066d469a0ef058625176d47a5d22d79e991a9e"
+    },
+    {
+      "path": "17_Datennachtrag.eml",
+      "bytes": 156289,
+      "sha256": "fb8a957a7a11bd8561d85276e23cecef9e74de599d1df9251e6a11ce276ce971"
+    },
+    {
+      "path": "18_Anfrage_und_Entwurf.eml",
+      "bytes": 139493,
+      "sha256": "01ea61fd07d5c02990d00b6c0af84a478b05d7546e778725e2fe44c69f7af3be"
+    },
+    {
+      "path": "19_Auswertung.xlsx",
+      "bytes": 12495,
+      "sha256": "959f5e3c26f986f005a8efb6cd680a5bf5688fce70a486d102f773e52ee21092"
+    },
+    {
+      "path": "20_Projektchat.txt",
+      "bytes": 3213,
+      "sha256": "ec20ca0d1880a9f4ae51b053734fae50e693887aba2a8a37a3a515c23378e8e4"
+    }
+  ]
+}

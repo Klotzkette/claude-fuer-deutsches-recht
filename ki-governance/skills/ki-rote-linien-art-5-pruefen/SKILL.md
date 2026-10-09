@@ -22,6 +22,8 @@ Zweckbeschreibung, tatsächliche Nutzung, betroffene Personen, Beeinflussungsmec
 5. Zeitstand beachten: Vor dem neuen Anwendungsdatum andere Straf-, Persönlichkeits- und Jugendschutzregeln nicht als ausgesetzt darstellen. Keine verbotenen Darstellungen für eine Prüfung neu erzeugen.
 6. Wenn kein Verbot: Hochrisiko, Transparenz, Datenschutz und sonstige Fachpflichten anschließend prüfen. Ein negatives Artikel-5-Ergebnis ist keine umfassende Freigabe.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte, Abschnitte 1.1 und 1.2](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Artikel 4a ist die Datenregel zur Verzerrungskorrektur, nicht der neue Deepfake-Tatbestand. Keine Urteile zur alten Fassung als Auslegung der neuen Verbote ausgeben.

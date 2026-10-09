@@ -37,6 +37,12 @@ Artikel 17 betrifft das Qualitätsmanagement des Hochrisikoanbieters und enthäl
 
 Pflichtadressat und Anwendungsdatum vor einer Feststellung des Verstoßes bestimmen. Bei noch nicht anwendbarer Pflicht kann ein bestellter Vorbereitungsprozess ausgearbeitet werden; ihn ausdrücklich als Vorbereitung kennzeichnen.
 
+### 3.5. Zweck, Fehlanwendung und Maßnahme belegen
+
+Halten Sie aus Artikel 3 Nummern 12 und 13 getrennt fest: beworbene und dokumentierte Verwendung, davon abweichendes vernünftigerweise erwartbares Nutzerverhalten und vorhersehbares Zusammenspiel mit anderen Systemen. Artikel 9 Absatz 2 Buchstabe a betrifft Risiken im bestimmungsgemäßen Gebrauch; Buchstabe b verlangt zusätzlich die Bewertung vorhersehbarer Fehlanwendungen. Ein Hinweis „nur Entscheidungshilfe“ erledigt den zweiten Weg nicht, wenn bekannte Abläufe eine ungeprüfte Übernahme nahelegen.
+
+Leiten Sie aus dem konkreten Fehlgebrauch eine überprüfbare Maßnahme ab. Für das Übernehmen von Ranglisten etwa die Fähigkeit zur inhaltlichen Gegenprüfung, verfügbare Informationen und einen tatsächlich wirksamen Eingriff vor dem Entscheidungsschritt untersuchen. Fehlgebrauch nicht ohne eigene Artikel-6-/Artikel-25-Prüfung zur neuen Risikoklasse oder Anbieterrolle erklären. Risikobeherrschung, Klassifizierung und Verantwortungswechsel sind unterschiedliche Schlussfolgerungen.
+
 ## 4. Quellenpflicht
 
 Artikel 9 vollständig, Artikel 17 Absatz 1 Buchstabe g, Artikel 27 und 40 sowie Artikel 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
@@ -50,3 +56,5 @@ Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begr�
 ## 6. Beispiele
 
 Ein Bewerbungsagent filtert Bewerber mit unterbrochenem Lebenslauf aus. Untersuche die tatsächliche Benachteiligungswirkung, alternative Gestaltung und messbare Tests; ein allgemeines Unternehmensrisiko „Reputationsschaden“ erfasst das Problem nicht vollständig.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 3](../../references/testanker.md).

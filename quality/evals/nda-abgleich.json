@@ -120,5 +120,12 @@
     "continuation": "Freigabe nur des Steuerberaters ändert Empfängerdefinition und Weitergabesatz im vorhandenen nda-redline.docx sowie dieselbe Vergleichszeile; Backupantwort ändert die Löschungsausnahme bei erhaltener Zweckbindung.",
     "enrichment": "Versionsherkunft, Definitions- und Anlagenkonflikte, Standardableitung, Transaktionsempfänger, Tests und Erinnerungswissen, Rückgabe nach Wiederherstellung und nachweisbare Änderungsfassung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "nda-abgleich/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie, welche technische Information für Kontrolle, Auskunft oder Behördenprüfung gebraucht wird. Eine Geheimhaltungsklausel muss notwendige gesetzliche Offenlegungen zulassen, ohne unnötig Modell- oder Kundendaten offenzulegen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -30,3 +30,4 @@ Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **berufsrech
 - **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
 - **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
 - **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -77,3 +77,4 @@ Unternehmen sollten nicht auf die nationale Umsetzung warten — Pflichten werde
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

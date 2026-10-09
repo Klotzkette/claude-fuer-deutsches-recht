@@ -25,6 +25,12 @@ Die Dokumentation muss vor Inverkehrbringen oder Inbetriebnahme erstellt und akt
 
 Führen Sie eine Lückenliste mit denjenigen fehlenden Belegen, die den Konformitätsnachweis tatsächlich verhindern. Erstellen Sie zugleich die bereits belegbaren Kapitel in vollständiger Sprache. Technische Diagramme und Tabellen dürfen erläutern, aber keine entscheidende Aussage nur als unverständliches Kürzel tragen. Im Empfängerprodukt stehen die fachlichen Nachweise; interne Recherche- und Dateizugriffsprobleme bleiben in einer getrennten Notiz.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Ergänzen Sie zu Anhang IV Nummer 7 eine präzise Normen- und Lösungsliste: Ausgabe, vollständig oder teilweise angewandter Bereich, gegebenenfalls Amtsblattfundstelle, konkrete Anforderung und dazugehöriger technischer Nachweis. Ein Zertifikat ohne Testdaten oder Version schließt diese Lücke nicht. Wo keine harmonisierte Norm angewandt wurde, beschreiben Sie die tatsächlich gewählte Lösung und deren Eignung; die technische Dokumentation bleibt erforderlich.
+
+Verbinden Sie die Validierungsunterlagen nach Nummer 2 Buchstabe g mit den vorab bestimmten Änderungen nach Buchstabe f. Ein Lifecycle-Prozess nach dem öffentlich verifizierten Gegenstand von ISO/IEC 5338:2023 kann den Dokumentenfluss unterstützen; er ersetzt keine datierten und verantworteten Systemtestberichte. Nutzen Sie die [Normenreferenz](../../references/technische-normen.md), ohne aus Katalogabstracts Klauselkonformität abzuleiten.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

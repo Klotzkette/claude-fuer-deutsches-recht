@@ -66,3 +66,4 @@ Wer einen Schriftsatz unterschreibt oder über das besondere elektronische Anwal
 - Welche KI-Teile wurden verworfen oder geändert?
 - Welche Risikopunkte bleiben offen?
 - Wer hat final freigegeben?
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Recherche, Mandantendialog und entscheidungsunterstützende Systeme getrennt ein. Die persönliche Berufspflicht und das konkrete Dienstleisterrisiko bleiben neben der KI-VO bestehen; eine Softwarefreigabe beantwortet sie nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

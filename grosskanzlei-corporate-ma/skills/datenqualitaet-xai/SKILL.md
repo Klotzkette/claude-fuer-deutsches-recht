@@ -162,3 +162,4 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 - Keine Belegkette für wesentliche Ergebnisse: Haftungsrisiko
 - Nicht erklaerbares Ergebnis bei hohem Risiko: sofortige Senior Review; kein Versand
 - Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Kundenlösungen, Basismodelle und Eigenentwicklungen getrennt ein. Eine Zusicherung zur KI-Konformität muss betroffene Produkte, maßgebliche Stichtage und bekannte Nachweislücken erkennen lassen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

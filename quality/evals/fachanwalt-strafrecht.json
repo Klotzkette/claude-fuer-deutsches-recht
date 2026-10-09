@@ -318,5 +318,12 @@
     ],
     "focus_scope": "Hauptproblem Einziehung enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Inhalt unverändert; neue Konkretisierung im Werkstatt- und Einziehungsskill sowie fehlenden Sachbeuteanker im Mini ergänzt.",
     "new_model_tests": false
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-strafrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Rekonstruieren Sie Eingangsdaten, Softwareversion, Selektionsregeln und konkrete menschliche Prüfung. Ein Modellsignal beweist weder Täterschaft noch die Zulässigkeit der Datenauswertung.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

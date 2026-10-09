@@ -41,3 +41,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Trade-off
 Einwilligung als Rechtsgrundlage für KI ist verlockend (klar und einfach), aber widerrufbar (Art. 7 Abs. 3 DSGVO) — bei laufendem Modelltraining und gespeicherten Vektoren technisch oft nicht rückbaubar. Berechtigtes Interesse (Art. 6 Abs. 1 lit. f) ist robuster, aber abwägungsanfällig — sorgfältige LIA (Legitimate Interest Assessment) erforderlich.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

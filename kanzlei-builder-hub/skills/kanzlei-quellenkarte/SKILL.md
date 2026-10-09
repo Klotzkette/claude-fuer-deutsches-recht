@@ -41,3 +41,4 @@ Diese Quellenkarte sichert für **Kanzlei-Builder-Hub (Plugins/Skills)** jede tr
 
 - Keine BeckRS-/juris-Blindzitate aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 - Zitierform nach `references/zitierweise.md`; Quellenhygiene nach `references/quellenhygiene.md`.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Legen Sie für jeden Baustein fest, welche Daten er lesen, verändern und versenden darf. Prüfen Sie die tatsächliche Funktion und die nach außen behauptete Leistung; ein Agentenetikett ersetzt keine Einordnung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -25,6 +25,12 @@ Gestalten Sie die Marktbeobachtung nach Artikel 72 anhand tatsächlicher Datenqu
 
 Ein neuer Vorfall kann Maßnahmen nach Artikel 20 und Meldungen nach Artikel 73 auslösen. Führen Sie deshalb Änderung, Risikoprüfung, Korrektur und Meldung als zusammenhängenden Ablauf, ohne sie zu einer einzigen pauschalen Freigabe zu vermischen. Benennen Sie das nächste konkrete Produkt und die verantwortliche Person. Die alte Fassung bleibt als historischer Nachweis erhalten, auch wenn der neue Stand freigegeben wird.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Prüfen Sie jede Änderung gegen den ursprünglich bewerteten und in Anhang IV Nummer 2 Buchstabe f vorab bestimmten Änderungsumfang. Die pauschale Behauptung eines normkonformen Lebenszyklusprozesses nach ISO/IEC 5338:2023 beweist diese Vorabbestimmung nicht. Benennen Sie betroffene Datenpopulation, Leistungsgrenze, Schnittstelle, Aufsichtsmaßnahme und Risikohypothese, auch wenn nur eine Konfiguration geändert wurde.
+
+Dokumentieren Sie, welche bisherigen Testergebnisse weitertragen und welche Annahme durch die Änderung entfällt. Ein formal nachgewiesener Robustheitsbereich kann unverändert richtig und für die neue Verwendung trotzdem unzureichend sein. Erstellen Sie dann einen gezielten Nachtestauftrag und die begründete Bewertung nach Artikel 43 Absatz 4. Verwenden Sie die [Normenreferenz](../../references/technische-normen.md) und [Testanker 5](../../references/testanker.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

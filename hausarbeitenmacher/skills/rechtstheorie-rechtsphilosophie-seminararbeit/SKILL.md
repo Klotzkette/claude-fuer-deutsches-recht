@@ -219,3 +219,4 @@ Bevor Du eine rechtstheoretische Anbindung schreibst:
 - `selbstkontrolle-vor-abgabe` — Endcheck
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Benennen Sie die geprüfte Fassung der Verordnung und den Sachverhaltszeitpunkt. Eine 2024 formulierte Fallfrage darf nicht stillschweigend mit späterem Übergangsrecht gelöst werden; unterscheiden Sie Originalfall und Variante. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

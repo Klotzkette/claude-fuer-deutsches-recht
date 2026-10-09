@@ -25,6 +25,12 @@ Erstellen Sie die Angaben nach Anhang VIII Abschnitt C und prüfen Sie die Sicht
 
 Prüfen Sie neben der Registerfrage gesondert, ob eine Grundrechte-Folgenabschätzung nach Artikel 27 erforderlich ist. Deren Mitteilung, die Anbieterregistrierung und die Betreiberregistrierung sind verschiedene Vorgänge. Zeigen Sie nach einer Freigabe in einer knappen Statusübersicht, welcher Vorgang vorbereitet, tatsächlich übermittelt oder noch ungeklärt ist.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Nutzen Sie eine vorhandene Folgenabschätzung nach ISO/IEC 42005:2025 nur soweit sie den konkreten Betreiberprozess und dessen Betroffene tatsächlich beschreibt. Eine Konzern- oder Anbieterbewertung für einen anderen Einsatzort ersetzt den Abgleich nach Artikel 27 nicht. Die Zusammenfassung für Anhang VIII Abschnitt C Nummer 4 ist aus den tragenden Ergebnissen zu erstellen; Rohberichte und ein allgemeines Managementzertifikat gehören nicht automatisch in das öffentliche Feld.
+
+Halten Sie die Änderungen gegenüber einer nutzbaren Vorbewertung fest: Nutzungsfrequenz, betroffene Gruppen, Schaden, Aufsicht und Abhilfe. Schreiben Sie anschließend genau die betroffenen Registerangaben fort, einschließlich des gesondert geprüften Zeitrechts. Verwenden Sie die [Nachweisreferenz](../../references/nachweise-und-standards.md) und [Testanker 2](../../references/testanker.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

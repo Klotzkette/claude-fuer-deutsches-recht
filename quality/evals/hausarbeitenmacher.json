@@ -108,5 +108,12 @@
     "continuation": "Eigene neue Subsumtion -> abhängige Ergebnisse und Hilfsgutachten; eingesehene Quelle -> präzisen Nachweis und Streitdarstellung ändern.",
     "enrichment": "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "hausarbeitenmacher/references/ki-normen-und-fallpruefung.md",
+    "focus": "Benennen Sie die geprüfte Fassung der Verordnung und den Sachverhaltszeitpunkt. Eine 2024 formulierte Fallfrage darf nicht stillschweigend mit späterem Übergangsrecht gelöst werden; unterscheiden Sie Originalfall und Variante.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -282,3 +282,9 @@ English: Complete list of all 181 skills in this plugin. Both links in each row 
 | [`weltraumwetter-solarsturm-und-betreiberpflichten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weltraumrecht/skills/weltraumwetter-solarsturm-und-betreiberpflichten/SKILL.md) | Für Weltraumrecht: Weltraumwetter: Solarsturm und Betreiberpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weltraumrecht/skills/weltraumwetter-solarsturm-und-betreiberpflichten/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Ermitteln Sie den tatsächlichen räumlichen und sachlichen Anwendungsbereich, bevor Sie aus dem technischen Gefahrenniveau eine KI-VO-Kategorie ableiten. Produktpfad, ziviler Einsatz und Systemfunktion brauchen eigene Belege.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

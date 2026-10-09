@@ -199,5 +199,12 @@
       "Keine vollständige Neuprüfung aller Honorar-, Steuer- und Open-Access-Spezialfragen.",
       "Workflow-Erweiterung 23.09.2026: Paragrafen 7 und 8 BuchPrG erneut amtlich gelesen; OLG-Anker mit seinem bisherigen indexierten Prüfnachweis erhalten, keine erneute Volltextprüfung behauptet."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "verlagsrecht-buchpreisbindung/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie lektorierende Bearbeitung, synthetische Beiträge und Veröffentlichungsverantwortung. Prüfen Sie die Ausnahme für redaktionell kontrollierte Informationstexte anhand des tatsächlichen Ablaufs, ohne sie auf Bilder zu übertragen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -30,6 +30,12 @@ Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung ware
 
 Die Freigabe ersetzt kein Artikel-9-Systemrisikomanagement, kein Artikel-17-Qualitätsmanagement und keine gegebenenfalls erforderliche Artikel-27-FRIA. Verlange diese Produkte umgekehrt nicht pauschal für jede Kanzleiwebsite, wenn ihr jeweiliger Tatbestand nicht vorliegt.
 
+### 3.1. Reichweite des Freigabesatzes begründen
+
+Formulieren Sie für jede Pflicht den eigenen Schluss: direkte Interaktion, technische Ausgabe, biometrischer Betrieb, Deepfake oder öffentlicher Informationstext. Die Ausnahmen sind nicht austauschbar. Die Textkontrolle entlastet kein Bild; eine für Absatz 1 offensichtliche KI-Interaktion beseitigt nicht die technische Markierungspflicht nach Absatz 2. Ein als künstlich erkanntes Bild ist damit weder wahr noch mit Zustimmung der dargestellten Person hergestellt.
+
+Ordnen Sie belegte Funktion, Endfassung und Vertriebsweg dem Hinweis oder der Nachforderung zu. Nur ein konkret geprüfter Export trägt einen technischen Nachweis für dieses Format. Bei Folgeänderung den betroffenen Schluss wieder aufnehmen, ohne andere nachgewiesene Freigaben grundlos zu verwerfen.
+
 ## 4. Quellenpflicht
 
 [Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
@@ -45,3 +51,5 @@ Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, beg
 ## 6. Beispiele
 
 Der Artikel ist inhaltlich geprüft, die Bildkennzeichnung erscheint aber nur im Desktoplayout. Belasse die belegte Textentscheidung, formuliere die mobile Bildbeschriftung und begrenze die Freigabe bis zur nachgewiesenen Umsetzung. Ein neuer Textcheck wäre keine Antwort auf den mobilen Darstellungsfehler.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 1 bis 5](../../references/testanker.md).

@@ -145,5 +145,12 @@
     "continuation": "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
     "enrichment": "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "strafanzeige-vorbereiter/references/ki-normen-und-fallpruefung.md",
+    "focus": "Kennzeichnen Sie modellgenerierte Vermutungen und sichern Sie Primärbelege. Eine algorithmische Risikoprognose über eine Person ersetzt keine konkrete Tatsachenschilderung für die Strafanzeige.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

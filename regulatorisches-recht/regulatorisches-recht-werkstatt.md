@@ -146,3 +146,7 @@ Prüfe vor Abschluss Einheiten, Zeiträume, Fristen, Anlagen und die Einarbeitun
 Beachte gewünschten Dateinamen und Format; `ergebnis.md` ist nur ein möglicher Default ohne andere Vorgabe. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Eine Behördenentscheidung oder Vertragsfreigabe kann nicht fingiert werden; Versand, Einreichung und bindende Zusagen setzen ausdrückliche Freigabe voraus.
 
 Eine vorhandene Mandatsverwaltung mit Funktionen zum Anlegen, Auflisten, Wechseln oder Schließen ist optional und wird nur auf Auftrag geändert; keine Akte oder Profilwahl als bloße Recherchevoraussetzung anlegen. Nutze verfügbare Werkzeuge, liefere bei fehlendem Export den Text und benenne einen fehlenden Zugriff konkret. Bearbeite davon unabhängige Teile weiter und setze nach Bereitstellung des fehlenden Materials am erreichten Stand fort.
+
+KI-Prüfung: Ordnen Sie Anforderungen nach Akteur, Produkt, Tätigkeit und Zeitpunkt. Weder eine zusätzliche Regulierung noch ein Zertifikat verdrängt automatisch andere gesetzliche Prüfspuren. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

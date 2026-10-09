@@ -39,6 +39,12 @@ Die GPAI-Leitlinien Randnummern 60 bis 71 zur erheblichen Modelländerung und de
 
 Formuliere die Rollenentscheidung pro Beteiligtem und Fassung. Benenne benötigte Nachweise und konkrete Mitwirkung; für offene Punkte verhandelbare Vertragsregel statt bloßer Pflichtliste. Artikel 111 und 113 bestimmen die zeitliche Anwendung, nicht eine Beschaffungspräsentation.
 
+### 3.5. Veränderung mit dem richtigen Ausgangspunkt vergleichen
+
+Legen Sie die bewertete Ausgangsfassung und die geänderte Fassung nebeneinander. Artikel 3 Nummer 23 verbindet die nicht vorgesehene oder geplante Änderung mit einer Beeinträchtigung der Anforderungskonformität oder einer geänderten bewerteten Zweckbestimmung. Diese Alternativen nicht zu einer kumulativen Doppelanforderung verschärfen. Artikel 43 Absatz 4 behandelt vorab festgelegte und in der technischen Dokumentation nach Anhang IV Nummer 2 Buchstabe f enthaltene Änderungen bei weiterlernenden Systemen gesondert; ein bloßer Verweis auf „laufende Verbesserung“ belegt diese Voraussetzung nicht.
+
+Eine vorhersehbare Fehlanwendung nach Artikel 3 Nummer 13 ist zunächst Risikomanagementstoff. Der planmäßige Umbau eines allgemeinen Schreibassistenten zur Bewerberbewertung kann dagegen eine neue Zweckbestimmung nach Absatz 1 Buchstabe c sein, auch ohne zusätzliche Trainingsoperation. Dokumentieren Sie neue Auswahlfunktion, bestimmenden Einfluss und Anhang-III-Unterpunkt. Der vertragliche Satz „Kunde bleibt Betreiber“ ersetzt diese Subsumtion nicht.
+
 ## 4. Quellenpflicht
 
 Artikel 3 Nummern 3, 12 und 23, Artikel 25 vollständig; GPAI-Leitlinien Randnummern 57 und 60 bis 71 als unverbindliche Auslegung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begr�
 ## 6. Beispiele
 
 Ein Konzern konfiguriert ein Textmodell zur automatischen Bewerberauswahl. Selbst wenn kein Training erfolgt, sind Systemanbieterrolle und Zweckänderung zu prüfen. Das Argument „unter einem Drittel FLOP“ beantwortet diese Systemfragen nicht.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 2](../../references/testanker.md).

@@ -39,6 +39,12 @@ Artikel 27 liegt in Kapitel III Abschnitt 3. Anwendungsbeginn und Bestand nach A
 
 Gesondert Artikel 26 prüfen: Betriebsanleitung, tatsächlich zugewiesene menschliche Aufsicht, Eingabedaten im eigenen Kontrollbereich, Protokolle, Beschäftigten- und Betroffeneninformation sowie Vorfallreaktion. Diese Pflichten nicht durch ein positives FRIA-Ergebnis ersetzen.
 
+### 3.6. Vorhandene Abschätzung auf den neuen Kontext prüfen
+
+Die Wiederverwendung nach Absatz 2 entbindet nicht davon, die Elemente des Absatzes 1 am neuen Einsatz zu überprüfen. Vergleichen Sie Personenkreis, Verfahren, Häufigkeit, Schadensrisiken, Aufsicht und Beschwerdewege. Ein Anbieterbericht kann technische Fehlerraten liefern; der Betreiber muss damit noch den eigenen Zugang zu öffentlichen Leistungen und die eigenen Abhilfemöglichkeiten erklären. Eine unverändert übernommene Bewertung aus einem anderen Mitgliedstaat deckt abweichende Gruppen oder Verfahrensrechte nicht automatisch ab.
+
+Ergänzen Sie nur die festgestellten Lücken und aktualisieren Sie die betroffenen Verweise. Das Ergebnis benennt, welcher frühere Abschnitt weiterträgt und welches neue Risiko eigenständig bewertet wurde. Artikel 27 enthält keine allgemeine behördliche Vorabgenehmigung des Systems; die Ergebnismitteilung nach Absatz 3 ist davon zu unterscheiden.
+
 ## 4. Quellenpflicht
 
 Artikel 26 und Artikel 27 vollständig; Artikel 9, 17, 46, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begr�
 ## 6. Beispiele
 
 Ein privater Maschinenbauer nutzt Bewerberranking für eigene Personalentscheidungen: Artikel 27 nicht allein wegen HR annehmen. Eine private Einrichtung mit einschlägiger öffentlicher Dienstleistung und demselben Werkzeug benötigt eine konkrete Prüfung ihrer Rolle und des Verwendungszusammenhangs.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 5](../../references/testanker.md).

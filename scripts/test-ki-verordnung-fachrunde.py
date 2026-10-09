@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft die Quellen und Pakete der KI-Verordnungs-Fachrunde 445.35.0.
+"""Prüft die Quellen und Pakete der KI-Verordnungs-Fachrunde 445.35.1.
 
 Ohne Argumente: Scope, Profile, amtliche Quellenkopien, native Akten und PDFs.
 Mit --dist VERZEICHNIS: zusätzlich vollständige Releaseauswahl, ZIP-Inhalte,
@@ -39,7 +39,7 @@ from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '445.35.0'
+VERSION = '445.35.1'
 TAG = 'ki-verordnung-v' + VERSION
 SCOPE_PATH = ROOT / 'scripts/data/ki-verordnung-release-scope.json'
 QUALITY = ROOT / 'quality/ki-verordnung-2026-10-09'
@@ -52,6 +52,12 @@ SPECIALISTS = (
 DIST = None
 NS = {'s': 'http://schemas.openxmlformats.org/spreadsheetml/2006/main'}
 FORMATS = {'.eml': 4, '.docx': 3, '.pdf': 3, '.xlsx': 1, '.txt': 1}
+EXPANDED_FORMATS = {'.eml': 6, '.docx': 6, '.pdf': 6, '.xlsx': 1, '.txt': 1}
+NEW_CASES = {
+    'ki-verbot-regnitz-sorglosabo', 'ki-hochrisiko-mainblick-bewerbung',
+    'ki-transparenz-pegnesus-redaktion', 'ki-register-havelgrund-sozialamt',
+    'ki-konformitaet-eichengrund-logistik',
+}
 MIME = {'.pdf': 'application/pdf', '.docx': 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
         '.xlsx': 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'}
 
@@ -97,11 +103,12 @@ class FachrundeTests(unittest.TestCase):
 
     def test_scope_versions_and_routes(self):
         self.assertEqual(self.scope['version'], VERSION)
-        self.assertEqual(len(self.scope['plugins']), 48)
-        self.assertEqual(len(set(self.scope['plugins'])), 48)
-        self.assertEqual(len(self.scope['cases']), 9)
-        self.assertEqual(len(set(self.scope['cases'])), 9)
+        self.assertEqual(len(self.scope['plugins']), 80)
+        self.assertEqual(len(set(self.scope['plugins'])), 80)
+        self.assertEqual(len(self.scope['cases']), 14)
+        self.assertEqual(len(set(self.scope['cases'])), 14)
         self.assertTrue(set(SPECIALISTS) <= set(self.scope['plugins']))
+        self.assertEqual(set(self.scope['new_cases']), NEW_CASES)
         for slug in self.scope['plugins']:
             with self.subTest(plugin=slug):
                 self.assertIn(slug, self.entries)
@@ -163,6 +170,40 @@ class FachrundeTests(unittest.TestCase):
         slug = 'krankenhaus-it-ki'
         quality_lab.validate_profile(read_json(ROOT / 'quality/evals' / f'{slug}.json'), slug, ROOT / slug, ROOT)
 
+    def test_domain_references_and_primary_court_anchors(self):
+        directory = ROOT / 'quality/ki-verordnung-2026-10-09-vertiefung'
+        rows = read_json(directory / 'peripherie.json')
+        self.assertEqual(len(rows), 74)
+        self.assertEqual(len({row['plugin'] for row in rows}), 74)
+        courts = read_json(directory / 'rechtsprechung.json')['entscheidungen']
+        self.assertEqual(len(courts), 8)
+        ids = {court['id'] for court in courts}
+        for court in courts:
+            self.assertTrue(court['volltext_geoeffnet'])
+            self.assertEqual(court['gelesen_am'], '2026-10-09')
+            for field in ('randnummern', 'traegt', 'traegt_nicht', 'url'):
+                self.assertTrue(court[field], (court['id'], field))
+            self.assertRegex(court['url'], r'^https://(?:juris\.curia\.europa\.eu|www\.bundesverfassungsgericht\.de)/')
+        for row in rows:
+            with self.subTest(reference=row['plugin']):
+                self.assertIn(row['plugin'], self.scope['plugins'])
+                self.assertTrue(set(row['urteile']) <= ids)
+                self.assertTrue(set(row['testakten']) <= NEW_CASES)
+                text = (ROOT / row['referenz']).read_text()
+                for phrase in ('Trägt:', 'Trägt nicht:', 'Gegenprobe'):
+                    self.assertIn(phrase, text)
+                for target in row['testakten']:
+                    self.assertIn(target + '/README.md', text)
+                for line in text.splitlines():
+                    if line.startswith('|'):
+                        self.assertLessEqual(len(line.strip('|').split('|')), 4)
+        core = {*SPECIALISTS, 'ki-vo-ai-act-pruefer', 'ki-verordnung-transparenzpruefer'}
+        for slug in core:
+            text = (ROOT / slug / 'references/testanker.md').read_text()
+            count = len(re.findall(r'^## ', text, re.M))
+            self.assertEqual(count, 6 if slug == 'ki-verordnung-hochrisiko-pruefer' else 5, slug)
+            self.assertGreater(len(text), 3000, slug)
+
     def test_skill_index_generator_uses_individual_component_version(self):
         generator = load_script('generate-skills-md.py')
         with tempfile.TemporaryDirectory() as temporary:
@@ -208,18 +249,19 @@ class FachrundeTests(unittest.TestCase):
                 self.assertEqual(source['abgerufen'], '2026-10-09')
                 self.assertTrue(source['url'].startswith('https://'))
 
-    def test_nine_cases_native_selection_mime_and_formula_caches(self):
+    def test_fourteen_cases_native_selection_mime_and_formula_caches(self):
         total_attachments = 0
         for slug in self.scope['cases']:
             with self.subTest(case=slug):
                 directory = ROOT / 'testakten' / slug
                 raw = {p for p in directory.iterdir() if p.is_file() and re.match(r'^\d{2}_', p.name)}
                 selected = {p for p, _ in working_dump_archive_pairs(directory, include_gesamt_pdf=False)}
-                self.assertEqual(len(raw), 12, slug)
+                formats = EXPANDED_FORMATS if slug in NEW_CASES else FORMATS
+                self.assertEqual(len(raw), sum(formats.values()), slug)
                 self.assertEqual(raw, selected, f'{slug}: Exportfilter verliert Originale')
-                self.assertEqual(Counter(p.suffix for p in raw), FORMATS)
+                self.assertEqual(Counter(p.suffix for p in raw), formats)
                 singles = document_arcname_pairs(directory)
-                self.assertEqual(len(singles), 12, slug)
+                self.assertEqual(len(singles), 20 if slug in NEW_CASES else 12, slug)
                 self.assertEqual({p for p, _ in singles}, raw)
                 case_attachments = 0
                 for path in sorted(raw):
@@ -250,7 +292,7 @@ class FachrundeTests(unittest.TestCase):
                             if path.suffix == '.xlsx':
                                 formulas = 0
                                 sheets = [n for n in archive.namelist() if re.fullmatch(r'xl/worksheets/sheet\d+\.xml', n)]
-                                self.assertGreaterEqual(len(sheets), 1, path)
+                                self.assertGreaterEqual(len(sheets), 2 if slug in NEW_CASES else 1, path)
                                 for sheet in sheets:
                                     xml = ET.fromstring(archive.read(sheet))
                                     for cell in xml.findall('.//s:sheetData/s:row/s:c', NS):
@@ -271,12 +313,12 @@ class FachrundeTests(unittest.TestCase):
                                 self.assertGreater(formulas, 0, path)
                     elif path.suffix == '.pdf':
                         self.assert_pdf(path.read_bytes(), str(path.relative_to(ROOT)))
-                self.assertGreaterEqual(case_attachments, 2, slug)
+                self.assertGreaterEqual(case_attachments, 4 if slug in NEW_CASES else 2, slug)
                 total_attachments += case_attachments
                 aggregate = directory / 'gesamt-pdf' / f'{slug}_gesamt.pdf'
                 self.assertTrue(aggregate.is_file(), aggregate)
                 self.assert_pdf(aggregate.read_bytes(), str(aggregate.relative_to(ROOT)))
-        self.assertGreaterEqual(total_attachments, 18)
+        self.assertGreaterEqual(total_attachments, 38)
 
     def test_eight_handbook_pdfs_and_source_hashes(self):
         records = read_json(QUALITY / 'umfang.json')
@@ -328,7 +370,7 @@ class FachrundeTests(unittest.TestCase):
             expected.add(aggregate.name)
             originals = working_dump_archive_pairs(directory, include_gesamt_pdf=True)
             singles = document_arcname_pairs(directory)
-            self.assertEqual(len(singles), 12, slug)
+            self.assertEqual(len(singles), 20 if slug in NEW_CASES else 12, slug)
             for suffix, pairs in (('', originals), ('-einzelpdfs', singles)):
                 archive_path = DIST / f'testakte-{slug}{suffix}.zip'
                 expected.add(archive_path.name)
@@ -349,6 +391,13 @@ class FachrundeTests(unittest.TestCase):
                 pdf = ROOT / 'docs/handbuecher' / f'{slug}-{suffix}.pdf'
                 expected.add(pdf.name)
                 copies[pdf.name] = pdf
+        for relative in self.scope.get('additional_pdfs', []):
+            source = (ROOT / relative).resolve()
+            self.assertTrue(source.is_relative_to(ROOT))
+            self.assertEqual(source.suffix, '.pdf')
+            expected.add(source.name)
+            copies[source.name] = source
+            self.assert_pdf(source.read_bytes(), relative)
         self.assertEqual({p.name for p in DIST.iterdir()}, expected, 'Releaseauswahl weicht ab')
         for name, source in copies.items():
             self.assertEqual((DIST / name).read_bytes(), source.read_bytes(), name)

@@ -126,5 +126,12 @@
     "continuation": "Verbindliche Bankzustimmung mit passender Gesellschaft und erfüllten Nebenbedingungen ändert Status, offene Voraussetzungen und Empfehlung am bisherigen Pfad kaufvertrag.md oder vollzug.md.",
     "enrichment": "Betriebsgrundlagen im Familieneigentum, Kundenvertragsklauseln, konkrete Freistellung, späte Offenlegung, Earn-out-Rechnung, Ablösebetrag und Sicherheitenfreigabe sowie Nachweis und Verzicht beim Vollzug individuell vertieft.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "mittelstand-corporate-ma/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ermitteln Sie, welche beworbenen Funktionen produktiv eingesetzt werden und welche nur geplant sind. Verknüpfen Sie Kaufpreismaßnahmen mit konkreten Dokumentations- oder Betriebsrisiken, nicht mit einem abstrakten KI-Risikolabel.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

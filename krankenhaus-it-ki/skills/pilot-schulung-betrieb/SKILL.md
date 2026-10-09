@@ -27,6 +27,8 @@ Projektziel, Zielgruppen, zulässige Datenstufe, Systeme und Versionsstand, vorh
 
 6. Erstellen Sie eine Entscheidung über Start, Fortführung, Einschränkung oder Stopp anhand der Belege. Die zuständige Stelle entscheidet, das System bereitet vor. Jede neue Version, wesentliche Funktion oder Zweckänderung löst eine gezielte erneute Prüfung aus; nicht pauschal den gesamten Vorgang neu starten.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 4 und einschlägige Betreiberpflichten der KI-Verordnung, Artikel 5, 24, 25 und 32 DSGVO sowie gegebenenfalls § 87 Absatz 1 Nummer 6 BetrVG oder einschlägiges Personalvertretungsrecht. Nicht aus dem Namen „kommunal“ automatisch das anwendbare Vertretungsrecht ableiten.

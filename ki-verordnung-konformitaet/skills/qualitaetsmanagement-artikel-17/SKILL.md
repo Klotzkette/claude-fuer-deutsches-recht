@@ -25,6 +25,12 @@ Proportionalität nach Absatz 2 erlaubt eine angemessene Umsetzung, keine Senkun
 
 Lieferantenverträge sind relevant, soweit sie tatsächlich benötigte Informationen und Zugriffsmöglichkeiten sichern. Der aktuelle Artikel 25 Absatz 4 enthält eine schriftliche Vereinbarung in seinem Anwendungsbereich. Ein allgemeiner Einkaufsprozess ist weder nutzlos noch automatisch ein gesetzlicher Nachweis. Entwerfen Sie konkret fehlende Kooperationsregelungen und prüfen Sie, ob bekannte Grenzen des Ursprungsanbieters den Informationszugang einschränken.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Ordnen Sie ein ISO/IEC-42001-Zertifikat seinem tatsächlichen Organisationsumfang zu. Auch ein gültiges Zertifikat mit passendem Rechtsträger beantwortet noch nicht, ob für das konkrete System Prüfintervalle, Restmängelfreigabe und Vorfallkommunikation durchgeführt wurden. ISO/IEC 42006:2025 betrifft den AIMS-Zertifizierer; dessen Qualifikation ist kein Notifizierungsnachweis. Für die aktuelle technische Suche sind ISO/IEC 42001:2023 beziehungsweise DIN EN ISO/IEC 42001:2026-08 und die veröffentlichte DIN EN 18286:2026-09 auseinanderzuhalten. Einzelklauseln werden erst nach tatsächlich gelesenem Normtext bewertet.
+
+Erstellen Sie für Artikel 17 Absatz 1 Buchstaben d, e, h und i eine konkrete Zuordnung: geltende Verfahrensanweisung, verantwortliche Person, tatsächlicher Test-/Freigabe-/Meldebeleg und verbleibende Lücke. Bei nur teilweise angewandten Normen muss die technische Alternative bezeichnet werden. Artikel 40 Absatz 1 erstreckt seine Vermutung nicht schon wegen der QMS-Überschrift auf Abschnitt 3. Folgen Sie hierfür den Aussagegrenzen der [Normenreferenz](../../references/technische-normen.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.
@@ -39,6 +45,6 @@ QMS-Prüfbericht, konkret überarbeitete Verfahrensanweisung und funktionsbezoge
 
 ## 6. Beispiele
 
-Ein KMU besitzt ISO 42001, aber niemand ist für die Meldung schwerwiegender Vorfälle benannt. Das Zertifikat beendet die Artikel-17-Prüfung nicht; der konkrete fehlende Prozess wird ergänzt.
+Ein KMU besitzt ein ISO/IEC-42001-Zertifikat, aber niemand ist für die Meldung schwerwiegender Vorfälle benannt. Das Zertifikat beendet die Artikel-17-Prüfung nicht; der konkrete fehlende Prozess wird ergänzt.
 
 Prüfen Sie als Gegenprobe, ob eine einzige neue Tatsache das Ergebnis ändert: eine andere Rolle, ein anderes Einsatzdatum, ein zusätzlicher Systemzweck oder ein belegter Eingangsstatus. Schreiben Sie dann die betroffene Begründung und das konkrete Produkt fort. Eine unveränderte Standardantwort wäre hier kein bestandener Selbsttest.

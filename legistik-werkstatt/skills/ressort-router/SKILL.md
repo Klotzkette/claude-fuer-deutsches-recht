@@ -51,3 +51,4 @@ Arbeitsfokus: **Legistik-Werkstatt - Ressort-Router**. Prüfe diese Anker am Sac
 - `§ 46 GGO` — Rechtsförmlichkeit.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie bestehende unionsrechtliche Anforderungen von zusätzlichem nationalem Regelungsbedarf. Eine technische Norm oder Kommissionsleitlinie darf nicht ohne Prüfung ihres Rechtsstatus als gesetzliche Ermächtigung behandelt werden. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

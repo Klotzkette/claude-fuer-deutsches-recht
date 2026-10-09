@@ -145,3 +145,4 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 - **UWG § 5 Abs. 1 / § 5a UWG bei KI-Marketing:** BGH-Linie zur Irrefuehrung durch unzureichende Kennzeichnung KI-generierter Werbung / Influencer-Inhalte live über dejure.org prüfen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie synthetische Gesichter, Produktabbildungen und behauptete Zertifizierungen jeweils getrennt. Marken- oder Persönlichkeitsrechte werden durch eine KI-Kennzeichnung nicht ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -217,3 +217,9 @@ English: Complete list of all 59 skills in this plugin. Both links in each row d
 | [`workflow-unterlagen-lueckenliste`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/workflow-unterlagen-lueckenliste/SKILL.md) | Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Umweltrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/skills/workflow-unterlagen-lueckenliste/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie Messdatenverarbeitung, behördliche Entscheidungsunterstützung und sicherheitsrelevante Anlagensteuerung. Nicht jede behördliche KI fällt allein wegen der Behördeneigenschaft unter Anhang III.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

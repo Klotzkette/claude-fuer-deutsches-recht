@@ -25,6 +25,10 @@ Prüfen Sie bei biometrischer Fernidentifizierung die besondere getrennte Bestä
 
 Erstellen Sie aus den Befunden eine ausführbare Betriebsanweisung mit Zuständigkeit, Eingriff, Eskalation und Ersatzverfahren. Lassen Sie eine fehlende Vollmacht oder einen ungetesteten Abschaltweg konkret bestätigen beziehungsweise testen. Ein ungeklärter Eingriff darf nicht als bestanden markiert werden. Benennen Sie im Abschlussvermerk die verbleibenden Grenzen und den Nachtest, der vor einer Freigabe erforderlich ist.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Prüfen Sie die Aufsicht als tatsächliche Funktion in der Bedienkette. Für einen dokumentierten Eingriffstest sind Rolle, Information zum Systemlimit, Auslöser, verfügbare Reaktionszeit, technische Eingriffsmöglichkeit und Ergebnis festzuhalten. Eine verantwortliche Person im QMS-Handbuch beweist nicht, dass sie eine fehlerhafte Ausgabe rechtzeitig erkennen und übersteuern kann. Werden Nachweise aus einem normorientierten Testprogramm übernommen, muss dessen Szenario dem realen Arbeitsablauf entsprechen; die [Normenreferenz](../../references/technische-normen.md) bietet dafür technische Sucheinstiege mit begrenztem Aussagewert.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

@@ -258,3 +258,9 @@ English: Complete list of all 116 skills in this plugin. Both links in each row 
 | [`weekly-status-report`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-mandant-lifecycle/skills/weekly-status-report/SKILL.md) | Für Weekly Status Report: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-mandant-lifecycle/skills/weekly-status-report/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie Dialog, Dokumentenannahme, Fristübernahme und Versand einzeln. Ein transparent gekennzeichneter Bot darf nicht deshalb unbestätigte Fristen oder eine Rechtsprüfung als abgeschlossen darstellen.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

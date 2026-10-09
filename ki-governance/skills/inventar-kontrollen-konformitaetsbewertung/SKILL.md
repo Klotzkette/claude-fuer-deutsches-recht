@@ -51,3 +51,4 @@ KI-Inventar ist auch für Berufsträger relevant (§§ 43e BRAO / 62a StBerG / 5
 
 ## Trade-off
 Schlankes Inventar (Tabelle) ist schnell aufgesetzt, aber ohne Lebenszyklus- und Eskalations-Hooks substanzarm. Vollständige GRC-Tool-Integration (z. B. mit AIA/DPIA-Workflow) ist aufwendig, schafft aber Auditierbarkeit. Pragmatischer Mittelweg: Tabelle + Trigger-Mails bei Klassifizierungsänderung oder neuem Geltungstermin der KI-VO-Stufen.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

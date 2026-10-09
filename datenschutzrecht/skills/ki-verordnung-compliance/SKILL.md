@@ -28,6 +28,8 @@ Lies Systembeschreibung, Zweck, Einführungsdatum, Modell- und Anbieterangaben, 
 
 Für eine Freigabe technische Nachweise und konkrete Befugnisse abgleichen. Die Verordnung verlangt nicht pauschal eine Begutachtung jedes Systems durch eine benannte Stelle; den richtigen Weg nach Artikel 43 und Anhang VI beziehungsweise VII prüfen. Eine vereinfachte Registrierung ist kein Wegfall jeder Registrierung.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), [Zitierweise](../../references/zitierweise.md). Normfassung und Ereignisdatum dokumentieren. Die vorgeschlagenen 96 Stunden bei Datenschutzverletzungen gelten nicht: Artikel 33 bleibt bei unverzüglicher Meldung, möglichst binnen 72 Stunden; Betroffeneninformation nach Artikel 34 ist eine andere Prüfung. Vorgeschlagene Verzeichnisschwellen nicht vorwegnehmen.

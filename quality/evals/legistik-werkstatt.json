@@ -154,5 +154,12 @@
     "continuation": "Antwort zum Papierkanal für Nachreichungen ändert im vereinbarten Pfad, beispielsweise entwurf/uebergangsrecht.md, Übergangsvorschrift, Änderungsbefehl und Einzelbegründung; keine erneute Aufnahme bekannter Vorgaben.",
     "enrichment": "Zwischenfassungen, Definitionsfolgen, digitale Alt- und Grenzfälle, Vollzugstest, Kontrollverlust bei Meldebündelung und gegenläufige Anhörungseinwände bis zur konsistenten Endfassung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "legistik-werkstatt/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie bestehende unionsrechtliche Anforderungen von zusätzlichem nationalem Regelungsbedarf. Eine technische Norm oder Kommissionsleitlinie darf nicht ohne Prüfung ihres Rechtsstatus als gesetzliche Ermächtigung behandelt werden.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

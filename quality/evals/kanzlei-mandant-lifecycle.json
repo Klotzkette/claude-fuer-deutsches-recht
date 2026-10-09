@@ -160,5 +160,12 @@
     "continuation": "Befugte Mehrbudgetantwort -> im vorhandenen Zielpfad, etwa zusatzauftrag.md, Leistungsumfang, Preis und Termin ändern; tatsächliche Minuten -> Rechnungserläuterung positionsbezogen fortschreiben.",
     "enrichment": "Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "kanzlei-mandant-lifecycle/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie Dialog, Dokumentenannahme, Fristübernahme und Versand einzeln. Ein transparent gekennzeichneter Bot darf nicht deshalb unbestätigte Fristen oder eine Rechtsprüfung als abgeschlossen darstellen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

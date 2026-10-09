@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag ki-verordnung-v445.35.0
+        description: Komponententag ki-verordnung-v445.35.1
         required: true
-        default: ki-verordnung-v445.35.0
+        default: ki-verordnung-v445.35.1
 
 permissions:
   contents: write
@@ -43,6 +43,7 @@ jobs:
           python3 scripts/test-ki-verordnung-fachrunde.py
           python3 scripts/test-ki-verordnung-hochrisiko-pruefer.py
           python3 scripts/test-office-resilience.py
+          python3 scripts/test-ki-native-kanzlei-source.py
       - name: Geprüfte Pakete bauen
         run: |
           python3 scripts/build-ki-verordnung-release.py "$RUNNER_TEMP/ki-verordnung-dist"

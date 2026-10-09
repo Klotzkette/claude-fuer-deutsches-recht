@@ -42,3 +42,5 @@ Einmal veröffentlichen, danach öffentliche URL und erwarteten Inhalt abrufen. 
 ## 6. Quellen zum Nachprüfen
 
 [Verordnung, konsolidiert](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727) · [Amtliche Erläuterungen zu Artikel 50](https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act) · [BRAO](https://www.gesetze-im-internet.de/brao/__43b.html) · [DDG](https://www.gesetze-im-internet.de/ddg/__5.html). Quellenstand 8. Oktober 2026; vor späterer Verwendung aktualisieren. Keine Garantie rechtlicher Vollständigkeit.
+
+KI-Prüfung: Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.

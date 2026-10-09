@@ -35,6 +35,12 @@ Artikel 14 Absatz 5 betrifft Systeme nach Anhang III Nummer 1 Buchstabe a: Keine
 
 Mittel des Anbieters in der Betriebsanleitung und tatsächliche Betreiberumsetzung zusammenführen. Erkennbare Lücken führen zu einer konkreten Nachforderung oder Betriebsregel. Artikel 22 DSGVO bleibt eine gesonderte Zulässigkeitsprüfung; Aufsicht ersetzt keine gesetzlich erforderliche Ausnahme. Anwendungsdatum nach Artikel 111 und 113 bestimmen.
 
+### 3.5. Aufsicht auch gegen vorhersehbare Fehlanwendung auslegen
+
+Artikel 14 Absatz 2 bezieht sowohl bestimmungsgemäße Verwendung als auch vernünftigerweise vorhersehbare Fehlanwendung ein. Prüfen Sie daher nicht nur den Idealablauf der Schulungsfolie. Bei Zeitdruck, übermäßigem Vertrauen oder automatischer Weitergabe muss erkennbar sein, ob die Aufsichtsperson den Fehler erkennen und rechtzeitig wirksam eingreifen kann. Das setzt keine ausnahmslose manuelle Einzelkontrolle jeder Ausgabe voraus; Art und Intensität sind anhand Absatz 3 zu begründen.
+
+Ein menschlicher Klick heilt weder einen ungeeigneten Datenbestand noch ein Verbot. Umgekehrt trägt ein einzelner dokumentierter Fehlentscheid allein noch nicht den Schluss, das gesamte Aufsichtsdesign sei unzureichend. Beschreiben Sie Fehlermodus, Zugriff, Eingriffszeit und die nachgewiesene beziehungsweise erst zu erprobende Abhilfe.
+
 ## 4. Quellenpflicht
 
 Artikel 14 Absätze 1 bis 5, Artikel 13 und Artikel 26 Absatz 2. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
@@ -48,3 +54,5 @@ Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begr�
 ## 6. Beispiele
 
 Eine Bank zeigt nur fünf vom Agenten ausgewählte positive Fälle, während Ablehnungen automatisch versandt werden. Die Kontrolle dieser fünf Fälle trägt nicht die Behauptung, alle Entscheidungen seien menschlich überprüft.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 3](../../references/testanker.md).

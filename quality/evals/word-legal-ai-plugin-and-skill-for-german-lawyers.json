@@ -183,5 +183,12 @@
       "Kein Live-Word-Export, kein Änderungsnachverfolgungs- oder Signaturtest; vorhandene materielle Vertragsbeispiele nicht sämtlich neu recherchiert.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "word-legal-ai-plugin-and-skill-for-german-lawyers/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie interne Entwurfsarbeit, Veröffentlichung und unmittelbaren Mandantendialog. Artikel 50 enthält funktionsabhängige Pflichten und keine pauschale Kennzeichnungspflicht für jeden intern mit KI bearbeiteten Schriftsatz.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

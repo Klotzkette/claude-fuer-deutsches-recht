@@ -27,8 +27,8 @@
     },
     {
       "skill": "anwaltsberufsrecht-pruefen",
-      "sha256": "5550e77d74cbe43023f059f4d248834cf8cac7cf546b0272743d41971346bee8",
-      "words_without_frontmatter": 6743
+      "sha256": "82ffe5e6e3f06122581ed20ad6f6264eea03e4757f56f8d7baee18fadf09dbd7",
+      "words_without_frontmatter": 6794
     },
     {
       "skill": "bea-anlagen-vorbereiten",
@@ -97,7 +97,7 @@
     },
     {
       "skill": "posteingang-mandate-zuordnen",
-      "sha256": "2a19191c85e87387283d5d895ce36be1f9eee30647b5c5f05c7da3b11a71afaf",
+      "sha256": "5e084bd53e430b4053e1ff3296b4b50a2f37a8a7d0a4d94033bee136aaa5ec52",
       "words_without_frontmatter": 1569
     },
     {
@@ -137,8 +137,8 @@
     },
     {
       "skill": "workflow-uebergabe",
-      "sha256": "9e9a042f2cd8ee75374580c40e1b7a423880310914470f61feb20af0edfe40dc",
-      "words_without_frontmatter": 6562
+      "sha256": "b0bf78743a3cb429e90b82974a6b193aab01823d7c550bfa0a5360db6fd9a419",
+      "words_without_frontmatter": 6613
     },
     {
       "skill": "zahlungen-buchhaltung",
@@ -161,8 +161,8 @@
       "words": 824
     },
     "werkstatt": {
-      "utf8_bytes": 135308,
-      "words": 15788
+      "utf8_bytes": 135831,
+      "words": 15838
     }
   },
   "cases_in_profile": 15,

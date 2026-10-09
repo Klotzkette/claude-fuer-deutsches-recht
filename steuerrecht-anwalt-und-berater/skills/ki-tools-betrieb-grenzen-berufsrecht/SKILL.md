@@ -115,3 +115,4 @@ Stand: 05/2026.
 - RDG § 5.
 - BStBK-/DStV-Hinweise zur KI-Nutzung.
 - Hinweis: Artikel 111/113 nach Pflicht und Systemversion prüfen. Die Verschiebung auf 02.12.2027 beziehungsweise 02.08.2028 betrifft Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5. Neue Artikel-5-Regelungen gelten ab 02.12.2026; bestehende Verbote bleiben anwendbar.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie Belegsortierung, fachliche Steuerempfehlung und eine eigenständige Personenbewertung. Eine falsche Steuerzahl ist nicht schon ein KI-VO-Vorfall; steuerliche und datenschutzrechtliche Folgen gesondert erfassen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

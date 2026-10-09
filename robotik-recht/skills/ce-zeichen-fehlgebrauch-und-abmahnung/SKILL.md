@@ -91,3 +91,4 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 - UWG §§ 3, 3a, 5, 8, 8c, 13.
 - NANDO-Datenbank der EU-Kommission.
 - Live-Verifikation auf eur-lex.europa.eu, BAuA, ec.europa.eu/growth (NANDO); lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

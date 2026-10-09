@@ -26,6 +26,8 @@ Verträge, Architektur, Datenfluss, Speicherorte, Löschkonzept, Trainingsoption
 9. Datenschutz-Folgenabschätzung nach tatsächlichem hohen Risiko beurteilen. Hochrisikofristen aus Artikel 113 verschieben Datenschutzpflichten nicht: relevante Kapitel-III-Abschnitte bei Anhang III ab 2. Dezember 2027, bei Anhang I ab 2. August 2028. Eine Systemklassifikation ergänzt, ersetzt aber nicht das Verzeichnis.
 10. COM(2025) 837, Verfahren 2025/0360(COD), bleibt Reformspur. Weder Pseudonymisierung als automatische Anonymisierung noch ein allgemeines Trainingsprivileg vorwegnehmen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 5, 6, 9, 22, 30, 32 und 35 der Datenschutz-Grundverordnung; [Rechtsstandkarte mit amtlichen Verfahren](../../references/digitaler-omnibus-2026.md). Die neue Datenregel ist keine Deepfake-Regel. Entscheidungen zur automatisierten Einzelentscheidung nur ihrer belegten Aussage entsprechend einordnen.

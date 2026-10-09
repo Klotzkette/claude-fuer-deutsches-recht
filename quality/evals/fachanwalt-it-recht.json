@@ -74,7 +74,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "2f09d869688f66122e763d788844d58e257c2a7fdf42db77789e1dc857be847e"
+    "sha256": "77f9e3e6e2245bc2cd905710a87cbd5e8da5135fe20b7523cd33c2217a385819"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -196,7 +196,7 @@
       "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "cb22e15c6a2d6a66f27b01fedfc86f2bb0115217f5ded8c68e73bf06cfdb1901"
+    "sha256": "212602013eae278ff95caa2d1665ddf059365f905caa366fad81eb500e5ae4c5"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -274,5 +274,12 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-it-recht.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-it-recht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

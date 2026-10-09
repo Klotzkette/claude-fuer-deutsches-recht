@@ -48,3 +48,4 @@ Digitale Produkte (Software, Datenbanken, KI-Modelle) stellen besondere Herausfo
 - AI-Act-Compliance: Risikoklassifikation vor Markteinführung; CE-Kennzeichnung für Hochrisiko
 - SaaS-Vertrag: Service Level Agreements (SLA), Datenschutz (DPA), Exit-Strategie
 - Open-Source-Lizenz-Audit: SBOM (Software Bill of Materials) für Lizenzkonformität
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie den in der Union vorgesehenen Einsatz, die Lieferkette und die konkrete Systemverantwortung zu. Vertragliche Rechtswahl ersetzt keine Prüfung des räumlichen KI-VO-Anwendungsbereichs. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -757,7 +757,7 @@
       "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand.",
       "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse."
     ],
-    "sha256": "b49a6a89467280b58de397596edd780776710e6244df0f96836aab784ef28292"
+    "sha256": "ee2dce188689b2d70ec57b78b6ab6d837b7dfc2f352b7803cfd2d6c01d0828f2"
   },
   "focus_review": {
     "method": "desk_review",
@@ -835,5 +835,12 @@
       "Kleine 24 Fachakten sind konkrete Übungen; aktuelle materielle Fachrecherche bleibt vor realem Einsatz erforderlich.",
       "Technische XML- und Dateiprüfungen werden gesondert dokumentiert und ersetzen keine rechtliche Rechnungs-/Versandfreigabe."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "ki-native-kanzlei/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

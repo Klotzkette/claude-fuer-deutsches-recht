@@ -18,7 +18,7 @@ Version 1.0.0. Quellenstand: 8. Oktober 2026. Eigenes Komponentenrelease; älter
 
 | Bestandteil | Verwendung | Download |
 | --- | --- | --- |
-| Plugin mit zehn Skills | Installation im unterstützten Plugin-Client | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kanzlei-website-redaktion-v1.0.0/kanzlei-website-redaktion.zip) |
+| Plugin mit zehn Skills | Installation im unterstützten Plugin-Client | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/kanzlei-website-redaktion.zip) |
 | Portables Paket | Importweg abhängig von Konto und Oberfläche | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kanzlei-website-redaktion-v1.0.0/kanzlei-website-redaktion-portable.zip) |
 | Großer Werkstatt-Prompt | Vollständiger eigenständiger Redaktionsablauf | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-website-redaktion/kanzlei-website-redaktion-werkstatt.md" download>Markdown herunterladen</a> |
 | Mini-Prompt | Kompakter eigenständiger Einstieg unter 7500 Zeichen und Bytes | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-website-redaktion/kanzlei-website-redaktion-schnellstart.md" download>Markdown herunterladen</a> |
@@ -97,3 +97,9 @@ English: Complete list of all 10 skills in this plugin. Both links in each row d
 | [`website-veroeffentlichen-wiederherstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-website-redaktion/skills/website-veroeffentlichen-wiederherstellen/SKILL.md) | Überträgt konkret freigegebene Website-Änderungen in das verbundene Zielsystem, prüft den öffentlichen Stand und dokumentiert die Veröffentlichung. Behandelt Konflikte, Timeouts und Rücknahmen ohne Doppelveröffentlichung oder Verlust spä... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-website-redaktion/skills/website-veroeffentlichen-wiederherstellen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

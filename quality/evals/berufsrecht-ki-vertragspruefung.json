@@ -182,7 +182,7 @@
       "Vertragsrang, Datenarten, Notfallzugriff, Backup-Lebenszyklus, Unterauftragnehmerwechsel und gestufte Pilotaktivierung ausgearbeitet.",
       "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
     ],
-    "sha256": "b0eb3e30ca7de4ad503af0d14dfc955db151ab27b4ab42c8864242b9db5bd53f"
+    "sha256": "44205927fbccf90629ac649d4f9a3d9fca1d9a7e1041398fc1e95677112e2662"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -225,5 +225,12 @@
       "Gelesener gewöhnlicher Skill cloud-act-und-drittstaat-pruefen enthält pauschale EU-Freigaben und Länderampeln; außerhalb des Schreibbereichs nicht geändert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "berufsrecht-ki-vertragspruefung/references/ki-normen-und-fallpruefung.md",
+    "focus": "Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

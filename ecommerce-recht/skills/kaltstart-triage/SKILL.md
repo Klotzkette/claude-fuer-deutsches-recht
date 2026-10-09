@@ -159,3 +159,4 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 | `widerrufsrecht-verbraucher-355-312g-bgb` | Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Inf... |
 
 <!-- END ACTUAL-SKILL-ROUTING -->
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie konkrete Dialoge, Preispräsentation und Auswahl schutzbedürftiger Gruppen. Eine irreführende Verkaufsbotschaft ist nicht ohne Schadens- und Wirkungssubsumtion bereits eine verbotene KI-Praxis. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

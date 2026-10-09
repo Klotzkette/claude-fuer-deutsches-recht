@@ -63,7 +63,7 @@
       "Leer: Bußgeld, Abhilfeanordnung oder Pannenmeldung mit Verteidigung. Dateien: still lesen und maßnahmengerechte Dokumentwege anbieten. Klar: direkt bestellten Rechtsbehelf oder Verteidigungstext erstellen.",
       "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
     ],
-    "sha256": "e48d64a889fa140adf09a4b3550da7ac08cafb47612e8db4d906fc16f0fe1e38"
+    "sha256": "af1f9942c246b6db6d0959df0e2ff9b2b7ad345baddcced9e04386486fcb9f4e"
   },
   "selection": {
     "positive": [
@@ -125,7 +125,7 @@
       "Getrennte Maßnahmen, Zustellung, forensische Erkenntnisstände, konkrete Warnungen, Verschulden und konsistente Bemessungsargumente vertieft.",
       "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
     ],
-    "sha256": "d159912cfa3a9c8cb2f5c61589b40388331961c37b63505b0b63915aa55469f5"
+    "sha256": "27ecc831b93fdd4e1c695bfc74c57f023a65368f298b90a23e1b6e7d7a624e93"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -167,5 +167,12 @@
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. EUR-Lex-DSGVO-Seite lieferte Zugriffssperre statt Normtext; keine neue Vollverifikation oder Umsetzung eines Reformvorschlags behauptet. Frühere Norm- und Entscheidungsgrenzen bleiben erhalten."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "datenschutz-sanktionsverfahren-verteidigung/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie die behauptete Datenpanne, die tatsächlichen Empfänger und einen möglichen KI-Systemvorfall. Weder die Speicherung pseudonymisierter Daten noch die Bezeichnung Bias-Test beantwortet Rechtmäßigkeit und Meldeweg allein.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

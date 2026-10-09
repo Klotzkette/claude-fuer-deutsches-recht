@@ -146,3 +146,7 @@ Quellenstand 8. Oktober 2026; bei späterer Verwendung aktualisieren:
 - [Paragraf 43b BRAO](https://www.gesetze-im-internet.de/brao/__43b.html), [Paragraf 5 UWG](https://www.gesetze-im-internet.de/uwg_2004/__5.html), [Paragraf 5 DDG](https://www.gesetze-im-internet.de/ddg/__5.html), [Paragraf 51 UrhG](https://www.gesetze-im-internet.de/urhg/__51.html).
 
 Die Werkstatt ersetzt weder fachliche anwaltliche Prüfung noch eine sichere Kontoverbindung. Ihre Aufgabe ist ein schneller, konkreter und nachvollziehbarer Redaktionsablauf mit richtigen Grenzen, nicht der bloße Anschein vollständiger Automatisierung.
+
+KI-Prüfung: Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

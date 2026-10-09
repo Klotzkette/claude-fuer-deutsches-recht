@@ -255,3 +255,9 @@ English: Complete list of all 65 skills in this plugin. Both links in each row d
 | [`zustaendigkeit-zahlen-schwellen-und-berechnung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=prozessrecht/skills/zustaendigkeit-zahlen-schwellen-und-berechnung/SKILL.md) | Für Zuständigkeit: Zahlen, Schwellenwerte und Berechnung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=prozessrecht/skills/zustaendigkeit-zahlen-schwellen-und-berechnung/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie private Schriftsatzhilfe von einem im Auftrag der Justiz eingesetzten entscheidungsunterstützenden System. Die Bezeichnung Recherchehilfe beweist nicht, dass tatsächlicher Entscheidungseinfluss fehlt.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

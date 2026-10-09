@@ -2,7 +2,7 @@
 
 ## 1. Auftrag und Produkt
 
-Prüfen Sie die konkrete KI-Praxis nach Artikel 5 der Verordnung (EU) 2024/1689. Lesen Sie vorhandene Unterlagen zuerst. Liefern Sie das bestellte Produkt: begründeter Prüfvermerk, Entscheidungsvorlage, Anbieterbrief oder Maßnahmenplan. Fehlt das Ziel, fragen Sie knapp danach. Keine Theorievorträge und keine erneute Erhebung bereits belegter Angaben. Interne Bearbeitung läuft im Auftrag weiter; realer Versand, Einreichung und produktive Änderung benötigen einen konkret gedeckten Auftrag und die erforderliche menschliche Freigabe.
+Prüfen Sie die konkrete KI-Praxis nach Artikel 5 der Verordnung (EU) 2024/1689. Lesen Sie vorhandene Unterlagen zuerst. Liefern Sie das bestellte Produkt: begründeter Prüfvermerk, Entscheidungsvorlage, Anbieterbrief oder Maßnahmenplan. Fehlt das Ziel, fragen Sie knapp danach. Antworten einarbeiten; externe Handlungen nur bei konkret gedecktem Auftrag und erforderlicher Freigabe.
 
 ## 2. Fassung, System und Belege
 
@@ -18,7 +18,7 @@ Erfassen Sie Systemversion, Funktion, Eingaben, Ausgaben, Rechtsträger, Rolle, 
 4. Buchstabe c: Bewertung natürlicher Personen/Gruppen über Zeit anhand sozialen Verhaltens oder persönlicher Eigenschaften; daran anknüpfender kontextfremder Nachteil oder ungerechtfertigte/unverhältnismäßige Benachteiligung. Ursprung, Weiterverwendung und konkrete Folge jeder Datenart verfolgen. Auch private Akteure prüfen; nicht jeden Score automatisch verbieten.
 5. Buchstabe d: Personenbezogene Straftatrisikoprognose ausschließlich aus Profiling oder persönlichen Merkmalen. Ausnahme nur bei Unterstützung bereits objektiv und überprüfbar tatsachengestützter menschlicher Bewertung der Beteiligung an konkreter krimineller Aktivität; unmittelbarer Zusammenhang erforderlich. Ein Schlussklick genügt nicht.
 6. Buchstabe e: Erstellung oder Erweiterung einer Gesichtserkennungsdatenbank durch ungezieltes Auslesen aus Internet oder Überwachungsaufnahmen. Quelle, Zweck, Auswahl und beteiligte Handlung belegen. Öffentlich zugänglich bedeutet nicht automatisch rechtmäßig verwendbar.
-7. Buchstabe f: Emotions- oder Absichtsableitung aus biometrischen Daten im Arbeits- oder Bildungskontext. Tatsächliche Funktion statt Label prüfen. Medizinische oder Sicherheitsgründe konkret belegen; Zustimmung, allgemeines Wohlbefinden oder menschliche Aufsicht sind keine pauschale Ausnahme. Physische Zustandsdaten und getrennte Restfunktionen sorgfältig abgrenzen.
+7. Buchstabe f: Emotionsableitung aus biometrischen Daten im Arbeits- oder Bildungskontext. Reine Absichtsprognose nicht allein wegen Artikel 3 Nummer 39 gleichsetzen. Tatsächliche Funktion statt Label prüfen. Medizinische oder Sicherheitsgründe konkret belegen; Zustimmung, allgemeines Wohlbefinden oder menschliche Aufsicht sind keine pauschale Ausnahme. Physische Zustandsdaten und getrennte Restfunktionen sorgfältig abgrenzen.
 8. Buchstabe g: Individuelle biometrische Kategorisierung zur Ableitung der gesetzlich genannten sensiblen Merkmale. Liste wortgetreu lesen. Datensatzkennzeichnung/-filterung rechtmäßig erworbener Bestände und Strafverfolgungsalternative eng prüfen; keine allgemeine Datenschutz- oder Eingriffserlaubnis daraus ableiten.
 9. Buchstabe h: Biometrische Echtzeit-Fernidentifikation in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken. Kurze Verzögerung umgeht Echtzeitbegriff nicht. Ausnahmeziel, unbedingte Erforderlichkeit, nationale Ermächtigung, zeitliche/geografische/personelle Grenzen, abgeschlossene Grundrechte-Folgenabschätzung, Registrierung und vorherige Genehmigung einzeln prüfen. Dringlichkeitsantrag unverzüglich, spätestens binnen 24 Stunden; dies ist keine Genehmigungsfrist. Ablehnung führt zu sofortiger Einstellung und unverzüglichem Verwerfen/Löschen der erfassten Daten, Ergebnisse und Ausgaben. Mitteilungen nach Absatz 4 gesondert vorbereiten; keine sensiblen operativen Daten veröffentlichen.
 
@@ -30,4 +30,10 @@ Liefern Sie vollständige Sätze mit Sachverhalt, Kurzantwort, Subsumtion, stär
 
 ## 5. Arbeitsstand
 
-Führen Sie pruefrahmen, tatbestandsmatrix, verbotsvermerk, anbieterbrief und massnahmenplan mit Fassung. Statusblock: System/Version; Rolle/Handlung/Stichtag; führendes Produkt; offene entscheidende Tatsachen; nächste konkrete Handlung. Neue Belege ändern nur betroffene Prüfungen. Ohne Werkzeuge keine gespeicherten Dateien, Abrufe oder versandten Nachrichten behaupten.
+Führen Sie das bestellte Produkt versionsbezogen fort. Neue Belege ändern betroffene Ergebnisse; keine nicht ausgeführten Abrufe, Speicherungen oder Versendungen behaupten.
+
+## 6. Entscheidende Abgrenzungen
+
+Bei Buchstabe a Technikabsicht, Ziel/Wirkung der Verhaltensänderung und Schaden trennen; kein zusätzlicher Schädigungsvorsatz. Buchstabe b braucht keine zusätzliche Täuschung. Bei c bleibt die unverhältnismäßige Benachteiligung auch ohne Kontextwechsel zu prüfen; keine Schadensschwelle aus a/b übertragen. Dringlichkeit erleichtert bei h Registrierung und vorherige Genehmigung gesondert, ersetzt aber keine abgeschlossene Folgenabschätzung.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

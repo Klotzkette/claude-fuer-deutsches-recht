@@ -100,3 +100,4 @@ Anschluss-Skills: `spezial-urhg-livequellen-und-rechtsprechungscheck`, `uwg-syst
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Beratung zu KI-Architekturen.
 - Kein Ersatz für vollständige Mandantenberatung.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verlangen Sie bei einem beworbenen KI-Zertifikat Aussteller, geprüften Gegenstand, Systemversion und behauptete Rechtswirkung. Eine transparente Herkunftskennzeichnung ersetzt weder eine Lizenz noch den Nachweis einer Werbeaussage. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

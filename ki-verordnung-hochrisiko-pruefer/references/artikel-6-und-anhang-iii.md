@@ -63,3 +63,7 @@ Konformitätsweg, Registrierung und Vorfallmeldung bleiben getrennt: Artikel 43 
 ## 5 Stand und tatsächlich gelesener Wortlaut
 
 Am 9. Oktober 2026 wurden Artikel 2, 3 und 6, Artikel 25 bis 27, Artikel 43 und 49, Artikel 111/113 sowie Anhang I und sämtliche Untertatbestände des Anhangs III in der [amtlichen konsolidierten deutschen Fassung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) gelesen. Die Konsolidierung ist eine amtliche Lesehilfe ohne eigene Rechtswirkung; verbindlich bleiben die veröffentlichten Rechtsakte und die [Berichtigung vom 29. September 2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R%2801%29). Die Registrierung nach Artikel 6 Absatz 4 und Artikel 49 Absatz 2 steht weiterhin im geltenden Wortlaut. Die Screenshots ersetzen diese Quellen nicht.
+
+## 6 Gegenprobe zur menschlichen Entscheidung
+
+Eine nachgewiesene unabhängige menschliche Bewertung kann den gesonderten Befund nach Artikel 22 DSGVO verändern. Die Profiling-Rückausnahme in einem Anhang-III-Fall entfällt dadurch nicht automatisch. C-634/21 betrifft den ersten, nicht den zweiten Maßstab; [Begründung und Volltextgrenze](rechtsprechung-und-argumentation.md). Eine erfolgreiche Registrierung, ein Auskunftsschreiben oder ein Zertifikat ersetzt keine dieser Subsumtionen.

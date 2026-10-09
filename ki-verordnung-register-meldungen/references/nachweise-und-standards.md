@@ -1,0 +1,23 @@
+# 1. Technische Nachweise in Register- und Meldevorgängen
+
+## 1.1. Belege nach ihrer Funktion zuordnen
+
+Stand: 09.10.2026. Maßgeblich bleiben die Tatbestände, Felder und Übermittlungswege der [KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), insbesondere Artikel 27, 43, 44, 49, 60 und 73 sowie Anhänge VIII und IX. Ein freiwilliger technischer Standard verändert weder die Adressaten eines gesetzlichen Registers noch die Frist einer Vorfallmeldung. Das [Quellenabrufprotokoll](quellenabruf-normen.md) hält den tatsächlich gelesenen Umfang fest.
+
+[ISO/IEC 42001:2023](https://www.iso.org/standard/42001) ist laut öffentlichem ISO-Katalog eine veröffentlichte Norm für KI-Managementsysteme. [ISO/IEC 42006:2025](https://www.iso.org/standard/42006) betrifft die zugehörigen Audit- und Zertifizierungsstellen. Daraus folgt keine Notifizierung nach der KI-Verordnung. Für Anhang VIII Abschnitt A Nummern 8 und 9 muss deshalb die tatsächlich einschlägige Bescheinigung einer befugten notifizierten Stelle identifiziert werden. Ein AIMS-Zertifikat, eine Schulungsbescheinigung und eine EU-Konformitätserklärung sind unterschiedliche Dokumente. Bei interner Kontrolle nach Artikel 43 Absatz 2 ist das Fehlen einer Artikel-44-Bescheinigung für sich kein Registermangel; die EU-Konformitätserklärung nach Anhang VIII Abschnitt A Nummer 11 ist gesondert zu prüfen.
+
+[ISO/IEC 42005:2025](https://www.iso.org/standard/42005) ist als Leitlinie zur KI-Folgenabschätzung veröffentlicht. Ein darauf gestützter Bericht kann Tatsachen für Artikel 27 liefern. Prüfen Sie jedoch Betreiber, örtliches Verfahren, Zeitraum und Häufigkeit, betroffene Gruppen, Schadensrisiken, Aufsicht und Beschwerde-/Abhilfemaßnahmen einzeln. Eine passende Vorarbeit kann nach Artikel 27 Absatz 2 genutzt werden; die rechtliche Pflicht, erforderliche Aktualisierung und Ergebnismitteilung werden damit nicht allein erfüllt. Anhang VIII Abschnitt C Nummer 4 verlangt eine Zusammenfassung der Ergebnisse, kein unbearbeitetes Anbieterhandbuch.
+
+[ISO/IEC TS 42119-2:2025](https://www.iso.org/standard/84127.html) ist als Technische Spezifikation zu KI-Testansätzen veröffentlicht. Ein nach einer solchen Methode geplantes Testprogramm ist von der rechtlichen Zulässigkeit eines Tests unter Realbedingungen zu trennen. Aus einem Testbericht folgt weder eine Genehmigung nach Artikel 60 noch eine Registrierung des Realtests. Dafür zählen Testkontext, tatsächliche Nutzung, behördlicher Eingang und die jeweils einschlägigen Voraussetzungen.
+
+[ISO/IEC 12792:2025](https://www.iso.org/standard/84111.html) betrifft laut öffentlichem Abstract Transparenzinformationen für unterschiedliche Beteiligte. Für den Registerdatensatz wird trotzdem jedes Feld aus dem aktuellen gesetzlichen Anhang und der belegten Systemfunktion hergeleitet. Informationsmodelle begründen keine Pflicht, sämtliche technischen oder personenbezogenen Rohdaten öffentlich zu machen; Sonderbereiche nach Artikel 49 Absatz 4 sind gesondert zu prüfen.
+
+Für die genannten Normen wurden Katalogstatus und öffentlich beschriebener Gegenstand geprüft, keine vollständigen Normklauseln. Keine Normerfüllung oder Amtsblattwirkung wird daraus abgeleitet. Eine behauptete Harmonisierung ist mit konkreter Ausgabe, Referenzakt, Geltungsbereich und Einschränkungen gesondert zu belegen.
+
+## 1.2. Konkreter Feld- und Belegabgleich
+
+Führen Sie für jedes relevante Feld Normgrundlage, Feldinhalt, ausstellenden Rechtsträger, System-/Versionsbezug, Datum, Beleg und Öffentlichkeit zusammen. Ein vorhandenes Dokument darf unverändert weitergenutzt werden, soweit es zum Feld passt. Fehlt ein wesentlicher Bezug, wird genau diese Ergänzung angefordert; der übrige Datensatz bleibt bearbeitbar. Ein unzutreffendes Zertifikatsfeld ist zu berichtigen, bevor die Fassung zur Übermittlung vorgelegt wird.
+
+Bei Vorfällen werden tatsächliche Kenntnis, gesetzliche Einordnung, Kausalzusammenhang beziehungsweise dessen naheliegende Wahrscheinlichkeit und Sofortmaßnahmen aus Originalbelegen ermittelt. Eine interne Normkategorie wie „gering“ oder ein ausstehendes Audit entscheidet nicht über Artikel 73. Verhindert eine noch offene Untersuchung sonst die rechtzeitige Meldung, ist Absatz 5 mit einem unvollständigen Erstbericht und bestimmter Ergänzung zu prüfen. Beweissicherung und Untersuchungsmaßnahmen müssen Absatz 6 berücksichtigen.
+
+Das Ergebnis ist der konkret ausgefüllte Registrierungsdatensatz, die FRIA-Ergebnismitteilung, der Testantrag oder Vorfallbericht mit ausformulierter Begründung der entscheidenden Abgrenzung. Das interne Normenverzeichnis ergänzt diese Produkte und ersetzt sie nicht.

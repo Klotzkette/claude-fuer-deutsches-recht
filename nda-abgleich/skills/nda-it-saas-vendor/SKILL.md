@@ -29,6 +29,8 @@ Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 ## Plugin-Kontext
 Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie, welche technische Information für Kontrolle, Auskunft oder Behördenprüfung gebraucht wird. Eine Geheimhaltungsklausel muss notwendige gesetzliche Offenlegungen zulassen, ohne unnötig Modell- oder Kundendaten offenzulegen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:

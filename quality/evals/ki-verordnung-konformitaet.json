@@ -6,17 +6,19 @@
     "verdict": "revised",
     "reason": "Individuelle Fachredaktion am amtlichen Volltext; kein behaupteter Live-Modelltest.",
     "changes": [
-      "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung."
+      "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
-    "sha256": "4c0c8b6185b4e8e562fc0dff933845855c6fa5b5ad163a3e189a0045cd3b6a50"
+    "sha256": "82d3bae3f119fe39ded60bb12d56e8bf9c5871b7364f232386b9ec83d4cd182d"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Zehn individuell ausgearbeitete Prüfabläufe, quellengebundene Entscheidung und vollständige Ergebnisprodukte. Kein tatsächlicher Portalversand getestet.",
     "changes": [
-      "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide."
+      "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
-    "sha256": "794d8ca38926d38442abb2e9a427ed47f1f7508898b78a7c3268ffd6904aef56"
+    "sha256": "dc6d09beb2a780ff9038582cedc8fd927ee31b97b79b1ac43e26e28cfbe4712c"
   },
   "selection": {
     "target_skill": "konformitaetsfrage-loesen",
@@ -34,6 +36,31 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
       "checked_on": "2026-10-09",
       "supports": "Gelesene einschlägige Artikel und Anhänge in aktueller konsolidierter Fassung."
+    },
+    {
+      "url": "https://www.iso.org/standard/42001",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: Managementsystem, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/42005",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: Folgenabschätzung, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/42006",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: AIMS-Zertifizierungsstellen, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/84127.html",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog und Abstract: KI-Testansätze, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.dinmedia.de/en/standard/din-en-18286/403880292",
+      "checked_on": "2026-10-09",
+      "supports": "Veröffentlichte DIN EN 18286:2026-09 und Ersatz des Entwurfs; keine Amtsblattwirkung daraus abgeleitet."
     }
   ],
   "cases": [
@@ -256,12 +283,13 @@
     "verdict": "revised",
     "reason": "Hauptproblem gegen die zehn fachlichen Wege, amtlichen Wortlaut und konkrete Produkt-/Fortsetzungslogik gegengelesen; kein behaupteter Modelllauf.",
     "changes": [
-      "Zeitrecht, Rollen, konkrete Ergebnisse und nachvollziehbare externe Handlung getrennt."
+      "Zeitrecht, Rollen, konkrete Ergebnisse und nachvollziehbare externe Handlung getrennt.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
     "prompt_path": "ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md",
     "skill_path": "ki-verordnung-konformitaet/skills/konformitaetsfrage-loesen/SKILL.md",
-    "prompt_sha256": "c52fbf925e697b9f8d74d3bc77c60d114387960f574c25e71ce8cf1a303276f9",
-    "skill_sha256": "bdb03762dbebadece9d7c80113e1c0e53c587201f8dc7b7c592e0953d74cfc15"
+    "prompt_sha256": "79f19e0af8fde29f2bb8f056801db250dbf7075b2f8ab6de25523900773739d3",
+    "skill_sha256": "fdce8278a536067893c62d70d8aa908f6c6d599e6d5112ec82abb6e0a73e44a7"
   },
   "prompt_workflow_review": {
     "method": "desk_review",
@@ -298,6 +326,18 @@
         "limit": "Zeitrecht und tatsächliche Anbieterrolle gesondert; keine erdachte Gerichtsentscheidung.",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727"
       }
+    ]
+  },
+  "technical_evidence_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "test_anchor_path": "ki-verordnung-konformitaet/references/testanker.md",
+    "test_anchor_count": 5,
+    "test_anchor_sha256": "26b702af8ab94dd0a1248d1dfa6bfbc008c9711d69e0dde9454977f4416d0e60",
+    "source_log_path": "ki-verordnung-konformitaet/references/quellenabruf-normen.md",
+    "limits": [
+      "Kein Normvolltext oder konkreter Amtsblatt-Referenzakt als geprüft behauptet.",
+      "Kein ausgeführter Modelltest, technischer Systemtest oder Portalvorgang behauptet."
     ]
   }
 }

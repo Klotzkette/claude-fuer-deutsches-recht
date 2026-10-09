@@ -37,6 +37,8 @@ Vertragsverletzung, Fehler, Schaden, Kausalität und Zurechnung je Beteiligtem p
 
 Exit muss Datenexport, Protokollzugang, Sperrung von Zugangsschlüsseln, Ende laufender Aufträge und nachweisbare Löschung koordinieren. Nach Anbieterantwort nur betroffene Klauseln ändern und die verhandlungsfähige Fassung fertigstellen. Ungeklärte Handlungsvollmacht sperrt die automatische Außenhandlung, nicht die Vertragsarbeit.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Prüfstand 2. Oktober 2026. Maßgeblich sind [BGB](https://www.gesetze-im-internet.de/bgb/), Artikel 25 der [Verordnung (EU) 2024/1689 in aktueller Fassung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng), Artikel 5, 25, 28, 32 und 44 folgende [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de) und Artikel 2, 4, 6, 8, 21 und 22 der [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de). Gesetzliche Pflicht, verhandelbare Zusage und Schutzempfehlung trennen. [Zitierweise](../../references/zitierweise.md) beachten; kein allgemeines Agenten-Haftungsurteil erfinden.

@@ -351,3 +351,9 @@ English: Complete list of all 141 skills in this plugin. Both links in each row 
 | [`wortlaut-quellenkarte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=methodenlehre-buergerliches-recht/skills/wortlaut-quellenkarte/SKILL.md) | Für Wortlaut Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=methodenlehre-buergerliches-recht/skills/wortlaut-quellenkarte/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie Tatbestandswortlaut, systematische Argumente und nur vergleichbare Schutzgedanken anderer Urteile. Ein DSGVO-Urteil darf nicht ohne eigene Subsumtion zum Hochrisiko-Ergebnis führen.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

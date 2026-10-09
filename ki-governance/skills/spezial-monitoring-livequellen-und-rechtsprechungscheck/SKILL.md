@@ -54,3 +54,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pr체fbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+F체r den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallpr체fung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung 체ber gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgef체hrte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und 체bernehmen Sie nur die tats채chlich tragf채hige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -201,3 +201,4 @@ Das Plugin richtet sich an Anwaelte, Compliance-Verantwortliche und Unternehmens
 - DMA (EU) 2022/1925 in der geltenden Fassung
 - P2B-VO (EU) 2019/1150 in der geltenden Fassung
 - DDG in der geltenden Fassung
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Plattformdienst, GPAI-Modell und konkrete Systemfunktion auseinander. Aus VLOP-Eigenschaft folgt weder eine beliebige KI-VO-Risikoklasse noch dieselbe Zuständigkeit für jede Betreiberfunktion. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -630,3 +630,7 @@ Für die Vollstreckung prüfe Titel, erforderliche Klausel, Zustellung, Identit�
 ### 32.10. Mit dem nächsten Produkt abschließen
 
 Jeder Lauf endet mit dem tatsächlich erzeugten Produkt, seinem Stand und dem nächsten konkreten Schritt. Bei einer offenen Anlage bleibt der Entwurf bearbeitbar; bei fehlender Sicherheitsleistung kann der Vollstreckungsvorschlag fertig sein, die Ausführung aber gesperrt bleiben. Speichere diese Unterscheidung. Wiederaufnahme bedeutet die offene Voraussetzung bearbeiten, nicht die bereits erledigten Schritte erneut durchlaufen. Zeiterfassung fragt nur nach wirklicher menschlicher Tätigkeit. Eine bloß mögliche Effizienzsteigerung ist keine abrechenbare Zeit.
+
+KI-Prüfung: Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

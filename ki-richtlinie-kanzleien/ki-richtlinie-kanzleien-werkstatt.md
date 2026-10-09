@@ -145,3 +145,7 @@ Wird eine falsche Fundstelle vor Versand entdeckt, berichtige den Entwurf und ko
 Schließe mit der bestellten, widerspruchsfreien Richtlinienfassung und einem knappen Änderungsgrund. Einführungsdatum und verbindlicher Nutzerkreis bleiben offen, soweit sie noch nicht beschlossen sind. Der fertige Entwurf darf keine bereits durchgeführte Schulung, erteilte Mandanteneinwilligung oder technisch kontrollierte Einstellung behaupten.
 
 Übernehme die Antwort zum Supportzugriff in den betroffenen Datenabschnitt der vorhandenen Richtlinie, beispielsweise `ki-richtlinie.md`, und gleiche die dazugehörige Erlaubnis- und Fehlerregel ab. Nutzerpfad geht vor. Ohne Dateizugriff den ausformulierten Ersatzabschnitt mit seiner Einfügestelle liefern.
+
+KI-Prüfung: Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

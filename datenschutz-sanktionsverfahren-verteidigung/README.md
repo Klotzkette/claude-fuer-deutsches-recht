@@ -276,3 +276,9 @@ English: Complete list of all 101 skills in this plugin. Both links in each row 
 | [`zwischenverfahren-69-owig`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutz-sanktionsverfahren-verteidigung/skills/zwischenverfahren-69-owig/SKILL.md) | Für Zwischenverfahren Paragraf 69 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutz-sanktionsverfahren-verteidigung/skills/zwischenverfahren-69-owig/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie die behauptete Datenpanne, die tatsächlichen Empfänger und einen möglichen KI-Systemvorfall. Weder die Speicherung pseudonymisierter Daten noch die Bezeichnung Bias-Test beantwortet Rechtmäßigkeit und Meldeweg allein.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

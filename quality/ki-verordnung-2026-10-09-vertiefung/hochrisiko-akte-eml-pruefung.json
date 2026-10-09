@@ -1,0 +1,80 @@
+[
+  {
+    "email": "13_Pruefauftrag.eml",
+    "attachment": "01_Auftrag.docx",
+    "sha256": "72474b5340792cc0d7072b0c3706d1d70aeabbf79f391447475feb32a2852e98",
+    "bytes": 40272
+  },
+  {
+    "email": "13_Pruefauftrag.eml",
+    "attachment": "07_Auftrag.pdf",
+    "sha256": "bfa85ebb44096aaff09d177973955036be89abaa80ebd4b19d4c7f4f47fa134f",
+    "bytes": 59955
+  },
+  {
+    "email": "14_Techniknachricht.eml",
+    "attachment": "02_Technische_Systemnotiz.docx",
+    "sha256": "be2179618a0d48fb87a19c9ebea4ae4ab9156e0d8feac70df9c2c8db24ddee2e",
+    "bytes": 40253
+  },
+  {
+    "email": "14_Techniknachricht.eml",
+    "attachment": "08_Technische_Systemnotiz.pdf",
+    "sha256": "a390404c499f408ab1abbc00fd95aebed67d6b355869eaa7c41246ff200a49cb",
+    "bytes": 60471
+  },
+  {
+    "email": "15_Protokollnachtrag.eml",
+    "attachment": "03_Auswahlprotokoll.docx",
+    "sha256": "58bde8559cde4003c2aa553c7435cf73eb0d9337b3022dec37a9d7527de11fc4",
+    "bytes": 40145
+  },
+  {
+    "email": "15_Protokollnachtrag.eml",
+    "attachment": "09_Auswahlprotokoll.pdf",
+    "sha256": "06a14143f8db424a77722b83af7dbe6f1241a67b8a42649e7e2e03f61dc32bac",
+    "bytes": 57693
+  },
+  {
+    "email": "16_Anbieter_ticket7716.eml",
+    "attachment": "04_Anbieterantwort.docx",
+    "sha256": "7a09b59385d620898fd4c4821f3c3d4a1f56bade5ecba7cbe19a3617f08eb8b0",
+    "bytes": 40344
+  },
+  {
+    "email": "16_Anbieter_ticket7716.eml",
+    "attachment": "10_Anbieterantwort.pdf",
+    "sha256": "3805c545e717b3cb3d8c3ca2be61b8d9fe890f90a87b7cd532a7ca641707b9a6",
+    "bytes": 61911
+  },
+  {
+    "email": "17_Datennachtrag.eml",
+    "attachment": "05_Daten_und_Kontrollnotiz.docx",
+    "sha256": "cbf1ce192a7b0c36a4a7d54f5d8bb218753199be617cd72f9de22f3d91a8b297",
+    "bytes": 40234
+  },
+  {
+    "email": "17_Datennachtrag.eml",
+    "attachment": "11_Daten_und_Kontrollnotiz.pdf",
+    "sha256": "3824b9095d63a97ead0a66470cecca171637bfb66c6cb376a64f51cf7b0709f0",
+    "bytes": 59889
+  },
+  {
+    "email": "17_Datennachtrag.eml",
+    "attachment": "19_Auswertung.xlsx",
+    "sha256": "959f5e3c26f986f005a8efb6cd680a5bf5688fce70a486d102f773e52ee21092",
+    "bytes": 12495
+  },
+  {
+    "email": "18_Anfrage_und_Entwurf.eml",
+    "attachment": "06_Entwurf_Antwort_Yilmaz.docx",
+    "sha256": "f47f3bd5a0c89bfa65afc379801f48454dc8d1518c80795d0e4f6db897798c10",
+    "bytes": 40270
+  },
+  {
+    "email": "18_Anfrage_und_Entwurf.eml",
+    "attachment": "12_Entwurf_Antwort_Yilmaz.pdf",
+    "sha256": "cfaf16526b59d0e8dda430383f8cfb21b043466c9a7ac231c5fa6847cf133cb1",
+    "bytes": 59990
+  }
+]

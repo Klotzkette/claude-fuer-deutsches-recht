@@ -35,6 +35,8 @@ description: "Für Ki Tool Legal Tech Mandatsgeheimnis: ordnet Norm, Beweislast 
 - **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
 - **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Recherche, Mandantendialog und entscheidungsunterstützende Systeme getrennt ein. Die persönliche Berufspflicht und das konkrete Dienstleisterrisiko bleiben neben der KI-VO bestehen; eine Softwarefreigabe beantwortet sie nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:

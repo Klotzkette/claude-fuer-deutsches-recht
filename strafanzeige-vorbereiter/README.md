@@ -167,3 +167,9 @@ English: Complete list of all 57 skills in this plugin. Both links in each row d
 | [`zeugenliste-kontakt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafanzeige-vorbereiter/skills/zeugenliste-kontakt/SKILL.md) | Für Zeugenliste und Kontaktregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafanzeige-vorbereiter/skills/zeugenliste-kontakt/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Kennzeichnen Sie modellgenerierte Vermutungen und sichern Sie Primärbelege. Eine algorithmische Risikoprognose über eine Person ersetzt keine konkrete Tatsachenschilderung für die Strafanzeige.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

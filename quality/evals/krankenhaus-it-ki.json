@@ -409,7 +409,7 @@
       "Aktuelle Hochrisiko-Anwendungsdaten und eng begrenzte C5-Typ1-Ausnahme aufgenommen; Datenschutzhinweis, AVV und Einwilligung nicht verwechselt.",
       "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt."
     ],
-    "sha256": "759c91fb1a812c67276a0867a470b2be61e51ee2118017c444bc16719b3c5a27"
+    "sha256": "47a262303edb1f9866356341126f2ce27dffa4c1ae2cc677b82a0ebebdea983d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -421,7 +421,7 @@
       "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen.",
       "Konkrete AI-Act-Fassung, Einstufungs- und Zeitpfade nach Fachabgleich aktualisiert."
     ],
-    "sha256": "3993523b85f8fca963570076d05abc9ca1f1ae7f6db49756d13034070c03f090"
+    "sha256": "f4aff3a04d39b3803c0b9f8be6226c2d8f2e26f045a38e5a26f9d93803631e81"
   },
   "focus_review": {
     "method": "desk_review",
@@ -434,8 +434,8 @@
     ],
     "prompt_path": "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md",
     "skill_path": "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md",
-    "prompt_sha256": "ae03e75fad4e62d43ead684f43fe7db31933001df691bc7f4c94ca5bef5adcdb",
-    "skill_sha256": "8b02026228a034238f70bbb19314c8c53409c71b421158a0987a648833c4dba2"
+    "prompt_sha256": "1ba7bd1e1b90348373711188d28bb3c447a378659aaae7e6ab1646be9845de55",
+    "skill_sha256": "d6ccf75e5e35d5f56e65d527580ff1aa94ba4932396430188977bd29f35e78a3"
   },
   "prompt_editorial_review": {
     "date": "2026-10-06",
@@ -477,5 +477,12 @@
       "Aktuelle amtliche ThürKHG-Endkonsolidierung konnte technisch nicht vollständig gelesen werden; vor realer Einreichung nachprüfen.",
       "Kein realer Patientendatentransfer, keine klinische Validierung, keine Zertifizierung und keine Meldung an Behörden."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "krankenhaus-it-ki/references/ki-normen-und-fallpruefung.md",
+    "focus": "Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

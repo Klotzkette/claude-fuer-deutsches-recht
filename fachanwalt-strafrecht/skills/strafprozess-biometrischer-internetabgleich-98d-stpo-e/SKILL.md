@@ -158,3 +158,4 @@ Wir bitten um vollständige Akteneinsicht in alle Unterlagen zur biometrischen A
 
 Vor vollständiger Offenlegung kann die Verteidigung weder die Rechtmäßigkeit noch die Beweisbedeutung des behaupteten Treffers prüfen.
 ```
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Rekonstruieren Sie Eingangsdaten, Softwareversion, Selektionsregeln und konkrete menschliche Prüfung. Ein Modellsignal beweist weder Täterschaft noch die Zulässigkeit der Datenauswertung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -27,6 +27,8 @@ Produktidentität, Version, Hersteller, Zweckbestimmung, Nutzerkreis, Funktionsu
 
 6. Liefern Sie eine begründete Einsatzgrenze samt offenen Nachweisen. Bei klinischer Nutzung benennen Sie ärztliche Verantwortung, lokale Validierung, Fehlermeldung und Rückfallprozess. Geben Sie keine Behandlungsempfehlung für einzelne Patientinnen und Patienten ab und erstellen Sie keine eigene Konformitätsbescheinigung.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Verordnung (EU) 2024/1689 insbesondere Artikel 3–6, 25–27, 50 und Übergangsregeln; Verordnung (EU) 2017/745 insbesondere Artikel 2, 5, 10, 20, 52 und Anhang VIII; MPDG und MPBetreibV nach aktueller Fassung. Geltendes Recht, bereits beschlossene spätere Anwendung und Vorschläge ausdrücklich trennen. Artikel 111 Absatz 4 beachten: Artikel 50 Absatz 2 gilt für vor dem 2. August 2026 in Verkehr gebrachte generative Systeme erst ab 2. Dezember 2026.

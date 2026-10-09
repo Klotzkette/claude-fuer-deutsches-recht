@@ -2,7 +2,7 @@
 
 [Repository-Start](../README.md) · [Alle Skills](../SKILLS.md) · [Skill-Detailseite](../skills-index/ki-verordnung-register-meldungen.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
 
-Version 445.35.0. Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach.
+Version 445.35.1. Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach.
 
 ## 1.1. Einstieg
 
@@ -13,7 +13,7 @@ Elf Skills: zehn Fachschritte und ein Hauptproblem-Skill. Nutzen Sie [Register u
 - [Werkstatt lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.md)
 - [Mini lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-schnellstart.md)
 - [Hauptproblem lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md)
-- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-register-meldungen.zip)
+- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-register-meldungen.zip)
 
 Claude nutzt die Skills im Plugin. Codex-kompatible Metadaten liegen ebenfalls bei. In ChatGPT können Sie den Mini als Projektanweisung und Werkstatt plus Referenzen als Dateien verwenden; eine tatsächliche Import- oder Portalprüfung wird dadurch nicht behauptet. [Rechtsstand und Grenzen](references/rechtsstand.md).
 
@@ -42,8 +42,20 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 ## 9. PDF-Lesefassungen und Prüfbericht
 
-[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-register-meldungen-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-register-meldungen-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
+[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-register-meldungen-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-register-meldungen-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
 ## 10. Textfassungen
 
 [ki-verordnung-register-meldungen: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.txt) · [ki-verordnung-register-meldungen: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-schnellstart.txt) · [ki-verordnung-register-meldungen: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.txt)
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+
+## Neue vollständige Übungsakten
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte und Aufgabe | Originaldateien | Einzel-PDFs | Gesamt-PDF |
+| --- | --- | --- | --- |
+| [Havelgrund Sozialamt](../testakten/ki-register-havelgrund-sozialamt/README.md): Ausnahmebewertung, Register, Betreiberprüfung und Vorfallchronologie. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-register-havelgrund-sozialamt.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-register-havelgrund-sozialamt-einzelpdfs.zip) | [PDF](../testakten/ki-register-havelgrund-sozialamt/gesamt-pdf/ki-register-havelgrund-sozialamt_gesamt.pdf) |

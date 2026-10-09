@@ -170,5 +170,12 @@
     "continuation": "Bestätigung nur für Anlagen -> Hauptdokument weiter als ungeklärt führen und zweite Nachricht prüfen; begrenzte Vergleichsfreigabe -> Abgeltungsklausel und Begleitbrief entsprechend beschränken.",
     "enrichment": "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "kanzlei-allgemein/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie Dateiorganisation, interne Entwürfe, Mandantenkommunikation und rechtsverbindliche Außenhandlungen. Technische Autonomie macht ein System nicht automatisch hochriskant und beseitigt keine Verschwiegenheits- oder Kontrollpflicht.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

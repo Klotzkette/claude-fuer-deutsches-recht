@@ -134,5 +134,12 @@
     "continuation": "Reduzierte Rechtekonfiguration oder Dienstleistervertrag -> im vorhandenen Freigabeentwurf, etwa freigabe.md, Zugriffsmatrix, Testumfang und Freigabeklausel aktualisieren; keine Installation.",
     "enrichment": "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "kanzlei-builder-hub/references/ki-normen-und-fallpruefung.md",
+    "focus": "Legen Sie für jeden Baustein fest, welche Daten er lesen, verändern und versenden darf. Prüfen Sie die tatsächliche Funktion und die nach außen behauptete Leistung; ein Agentenetikett ersetzt keine Einordnung.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -25,6 +25,12 @@ Prüfen Sie einen Testplan, den Mitgliedstaat, den tatsächlichen Behördeneinga
 
 Planen Sie gesonderte Nachrichten über Verlängerung, Aussetzung, Abbruch und Endergebnisse. Ein schwerwiegender Vorfall während des Tests löst den besonderen Ablauf nach Artikel 60 Absatz 7 aus. Entwerfen Sie erforderliche Sofortmaßnahmen, ohne aus dem Teststatus eine Erlaubnis für verbotene Praktiken nach Artikel 5 abzuleiten.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Für eine vorgelegte Folgenabschätzung nach ISO/IEC 42005:2025 erstellen Sie den feldweisen Abgleich mit Artikel 27 Absatz 1. Der öffentliche ISO-Katalog beschreibt eine allgemeine Folgenabschätzung; daraus folgt keine Erfüllung sämtlicher Betreiberpflichten. Eine inhaltlich passende Vorbewertung kann nach Absatz 2 genutzt werden. Verändert sich der örtliche Ablauf oder die betroffene Personengruppe, begründen Sie die nötige Aktualisierung und verfassen Sie die daraus folgende Ergebnismitteilung.
+
+Ein Testplan mit Bezug auf ISO/IEC TS 42119-2:2025 kann technische Testentscheidungen strukturieren. Er begründet keine Zulassung nach Artikel 60, keine Teilnehmer-Einwilligung und keinen nachgewiesenen Behördeneingang. Stellen Sie fest, ob die technische Testumgebung isoliert ist oder Ausgaben bereits reale Entscheidungen beeinflussen. Die [Nachweisreferenz](../../references/nachweise-und-standards.md) sowie [Testanker 2 und 3](../../references/testanker.md) führen zu unterschiedlichen, konkret begründeten Produkten.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

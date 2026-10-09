@@ -39,6 +39,12 @@ Absatz 4 verlangt die Mitteilung jeder Verwendung an zuständige Marktüberwachu
 
 Übergeben Sie den begründeten Teilvermerk mit Systemversion, Handlung, Stichtag und offenen Tatsachen an [Verbotene KI-Praktiken insgesamt klären](../verbotene-ki-praktiken-loesen/SKILL.md). Die Rückgabe enthält die operative Entscheidung oder eine konkret zu beantwortende Tatsachenfrage. Ein neues Dokument ohne Bezug zur führenden Fassung ist keine vollständige Übergabe.
 
+### 3.8. Dringlichkeit nur an der ausdrücklich erleichterten Voraussetzung nutzen
+
+Artikel 5 Absatz 2 erlaubt bei hinreichend begründeter Dringlichkeit den Beginn ohne vorherige Registrierung, verlangt aber deren unverzügliche Nachholung. Absatz 3 eröffnet gesondert den Beginn ohne vorherige Genehmigung bei unverzüglichem Antrag spätestens binnen 24 Stunden. Die Ausnahme von einem Schritt befreit nicht automatisch vom anderen. Für eine vorher abgeschlossene Grundrechte-Folgenabschätzung enthält Absatz 2 an dieser Stelle keine entsprechende Dringlichkeitsausnahme.
+
+Prüfen Sie zuerst, ob das nationale Recht den konkreten Einsatz überhaupt ermächtigt und der gesetzliche Ausnahmezweck erfüllt ist. Ein innerhalb 24 Stunden gestellter Antrag ersetzt diese Grundlagen nicht. Dokumentieren Sie den tatsächlichen Einsatzbeginn, Dringlichkeitsgrund, Abschluss der Folgenabschätzung, Registrierungs- und Antragszeitpunkt getrennt.
+
 ## 4. Quellenpflicht
 
 Prüfen Sie die einschlägigen Merkmale an der [amtlichen konsolidierten KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) und bei Änderungen zusätzlich an den verlinkten Amtsblattakten. Der hier gelesene Stand ist 09.10.2026. Maßgeblich sind die im Amtsblatt veröffentlichten verbindlichen Fassungen; die Konsolidierung ist eine Lesehilfe. Lesen Sie die [Rechtsquellen und Grenzen](../../references/rechtsquellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Zitieren Sie die konkrete Norm und den einschlägigen Absatz am tragenden Satz. Keine Gerichtsentscheidung, Randnummer oder Literaturfundstelle aus Modellwissen; nicht geöffnete Quellen bleiben ungeprüft. Es wird keine vorhandene höchstrichterliche Artikel-5-Rechtsprechung behauptet. Ältere Leitlinien dürfen eine spätere Normänderung nicht verdrängen.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert in grammatikalisch vollständigen
 ## 6. Beispiele
 
 Eine Behörde möchte an einem Bahnhof nach einer konkret vermissten Person suchen. Das Ausnahmeziel allein genügt nicht: Technik, nationales Recht, Erforderlichkeit, Grundrechte-Folgenabschätzung, Registrierung und Genehmigung sind einzeln zu prüfen. Eine flächige Daueridentifikation aller Reisenden zur allgemeinen Prävention lässt sich nicht durch denselben Anlass rechtfertigen. Ein Antrag nach 24 Stunden ist auch dann nicht automatisch rechtzeitig, wenn die Entscheidung später ergeht.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 5](../../references/testanker.md).

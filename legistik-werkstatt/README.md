@@ -461,3 +461,9 @@ English: Complete list of all 254 skills in this plugin. Both links in each row 
 | [`zirkelschluss-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=legistik-werkstatt/skills/zirkelschluss-pruefen/SKILL.md) | Für Zirkelschluss prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=legistik-werkstatt/skills/zirkelschluss-pruefen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie bestehende unionsrechtliche Anforderungen von zusätzlichem nationalem Regelungsbedarf. Eine technische Norm oder Kommissionsleitlinie darf nicht ohne Prüfung ihres Rechtsstatus als gesetzliche Ermächtigung behandelt werden.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

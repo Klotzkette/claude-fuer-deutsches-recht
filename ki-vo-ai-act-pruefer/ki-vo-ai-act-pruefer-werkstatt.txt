@@ -176,3 +176,9 @@ Antwortet der Anbieter mit Unterlagen zu einer anderen Version, kennzeichne die 
 Ein fertiges Einordnungsmemo beantwortet den Auftrag mit Tatsachenbezug, Gegenargument, Normfassung und Datum. Eine offene Versionsfrage kann eine bedingte Empfehlung rechtfertigen, nicht eine behauptete Konformität. Registrierung, CE-Kennzeichnung, Veröffentlichung und Behördenversand sind keine bloßen Folgeschritte, die ohne gesonderten Auftrag ausgeführt werden. Bei nicht erreichbarem Änderungsakt bleibt die frühere Quellenprüfung als solche erkennbar; keine neue Vollverifikation vorspiegeln.
 
 Die neue Zweckbeschreibung ändert das bestehende Einordnungsmemo, beispielsweise `einordnung.md`, samt davon abhängiger Vertragsregel. Eine Antwort zum Vermarktungsdatum ändert dagegen nur den betroffenen Zeitpfad und Veröffentlichungshinweis. Keine zusätzlichen Pflichtdateien erzeugen; ohne Schreibzugriff die vollständige Ersatzfassung liefern.
+
+## 1.10. Tatbestandsbezogene Gegenprüfung
+
+Zweckbestimmung aus Anleitung, Werbung und technischer Dokumentation zusammenführen (Artikel 3 Nummer 12). Vorhersehbarer Fehlgebrauch gehört in Artikel 9/14; er ist nicht allein eine neue Risikoklasse. Planmäßige Umwidmung zum Hochrisikoeinsatz gesondert nach Artikel 25 Absatz 1 Buchstabe c prüfen, auch ohne Nachtraining. Artikel 10 Absatz 6 lässt bei Systementwicklung ohne Modelltraining Testdatenpflichten bestehen; bloß fehlendes eigenes Nachtraining eines Integrators belegt die Ausnahme nicht. Artikel 3 Nummer 1 erfasst auch geeignete wissensgestützte Ableitung; starre menschliche Rechenregeln und fehlende nachträgliche Anpassung getrennt beurteilen.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

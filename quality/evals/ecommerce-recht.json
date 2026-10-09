@@ -178,5 +178,12 @@
     "continuation": "Preisbestandteil wird erst nach dem Bestellknopf sichtbar -> Informationszeitpunkt und Ersatztext ändern; nachgereichter Lieferbeleg -> Antwort zu Widerruf, Stornierung oder Leistungsstörung differenzieren.",
     "enrichment": "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "ecommerce-recht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie konkrete Dialoge, Preispräsentation und Auswahl schutzbedürftiger Gruppen. Eine irreführende Verkaufsbotschaft ist nicht ohne Schadens- und Wirkungssubsumtion bereits eine verbotene KI-Praxis.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

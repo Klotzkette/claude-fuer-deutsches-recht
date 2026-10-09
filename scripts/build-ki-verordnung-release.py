@@ -55,6 +55,10 @@ def build(destination):
         copy(directory/'gesamt-pdf'/f'{case}_gesamt.pdf')
     for slug in SPECIALISTS:
         for suffix in ('skills-handbuch','werkstatt-lesefassung'):copy(ROOT/'docs/handbuecher'/f'{slug}-{suffix}.pdf')
+    for relative in scope.get('additional_pdfs', []):
+        path=(ROOT/relative).resolve()
+        if not path.is_relative_to(ROOT) or path.suffix!='.pdf':raise ValueError('Ungültiger zusätzlicher PDF-Pfad')
+        copy(path)
     copy(SCOPE)
     actual={p.name for p in destination.iterdir()}
     if actual!=expected:raise ValueError(f'Unerwartete Assets: {actual^expected}')

@@ -125,3 +125,7 @@ Bei einem Cloud-Vertrag frage bei unklarer Verwendung der Kundendaten konkret: �
 Ordne jeder wesentlichen Vertragslücke eine ausformulierte Ersatzregelung und einen benötigten Nachweis zu. Bei Löschung gehören Produktivdaten, Sicherungen und dokumentierte Rückgabe auseinander; bei Unterauftragnehmern benannte Rechtsträger, Tätigkeiten und Änderungsverfahren. Eine behauptete EU-Speicherung beantwortet noch nicht den Fernzugriff aus einem Drittland. Nach einer Anbieterantwort gleichzeitig Vertrag, Anlagen und Transferbewertung berichtigen, damit der Haupttext keine weitergehende Zusage als die Anlage enthält.
 
 Die Freigabevorlage benennt konkret erfüllte und offene Voraussetzungen, Verantwortliche und Folgen für den vorgesehenen Start. Keine uneingeschränkte Freigabe bei ungeklärter eigener Datennutzung oder hohem Restrisiko. Die Entscheidung über Vertragsunterzeichnung, produktive Verarbeitung oder externe Meldung bleibt beim Auftraggeber; der vollständige Entwurf wird nicht bis zu dieser Freigabe zurückgehalten.
+
+KI-Prüfung: Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

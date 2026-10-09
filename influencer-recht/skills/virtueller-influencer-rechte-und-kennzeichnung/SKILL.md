@@ -73,3 +73,4 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 - Kennzeichnungskonzept (Werbung + KI-Label)
 - Urheberrechts-Vertrag mit Designer-Vorlage
 - Markenanmeldungs-Checkliste
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie, ob Bild, Stimme oder Text synthetisch erzeugt oder verändert wurden und in welcher Rolle der Auftraggeber veröffentlicht. Werbekennzeichnung und KI-Offenlegung erfüllen unterschiedliche Zwecke. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

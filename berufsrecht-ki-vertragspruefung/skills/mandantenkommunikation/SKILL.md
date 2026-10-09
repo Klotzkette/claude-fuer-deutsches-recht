@@ -47,3 +47,4 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **berufsrecht-ki-
 
 ## Praxis-Tipp
 Die berufsrechtliche Aufklärungspflicht über KI-Einsatz wird in Rechtsprechung und Standesvertretung noch diskutiert — vorsichtig sein und im Zweifel transparent kommunizieren. Die berufsrechtliche KI-Debatte zur KI-Nutzung in Kanzleien (frei zugänglich auf anwaltverein.de) gibt eine Orientierung, ist aber nicht bindend.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -22,6 +22,8 @@ Lesen Sie den Auftrag, die freigegebenen Dateien und, falls vorhanden, die lokal
 5. Nach eindeutigem Auftrag und konkreter Freigabe an `website-veroeffentlichen-wiederherstellen` übergeben. Ohne passende Verbindung die Dateien samt Zielzuordnung ausgeben. „Fertig“ bedeutet dann Entwurf oder Übergabepaket, nicht „online“.
 6. Halten Sie Auftragskennung, Fassung, offene Frage und nächsten Schritt lokal fest. Bei Abbruch daran anknüpfen; keine wiederholten Uploads oder Endlossuche. Wiederkehrende Quellenbeobachtung ist ein eigener, begrenzter Auftrag.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Für Veröffentlichungen gelten [Recht und Transparenz](../../references/recht-und-transparenz.md) und [Redaktionsbetrieb](../../references/redaktionsbetrieb.md). Artikel 50 Absatz 4 Unterabsatz 2 der Verordnung (EU) 2024/1689, Paragraf 43b BRAO und belegte Kanzleifakten sind keine nachträgliche Dekoration: offene Voraussetzungen bleiben vor Veröffentlichung sichtbar. Zitieren nach [Quellenregeln](../../references/zitierweise.md).

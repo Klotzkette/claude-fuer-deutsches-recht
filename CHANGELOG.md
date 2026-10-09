@@ -1,3 +1,7 @@
+# ki-verordnung-v445.35.1 – 2026-10-09
+
+80 betroffene Plugins fachlich vertieft: Zweckbestimmung, Fehlgebrauch, Datenanforderungen, Verbotsmerkmale, Transparenz, Normenwirkung und begrenzte Rechtsprechungsargumente. Acht amtlich gelesene Entscheidungen mit konkreten Randnummern; öffentliche ISO-/DIN-Ausgaben von tatsächlicher Normenanwendung getrennt. Sechs Kernkomponenten erhalten je fünf Gegenproben, fünf neue vollständige Akten ergänzen die neun vorhandenen Fälle. Acht PDF-Lesefassungen aktualisiert; Komponentenrouting und Paketprüfungen erweitert.
+
 # ki-verordnung-v445.35.0 – 2026-10-09
 
 Die repositoryweite KI-Verordnungs-Fachrunde verarbeitet 1.283 Ausgangsdateien mit 5.862 Suchtreffern. 48 betroffene Plugins erhalten ein eigenes Komponentenrelease. Der große KI-VO-Prüfer und der Transparenzprüfer werden fachlich aktualisiert; elf aktive Vorlagen werden einschließlich ODT- und Markdown-Download neu erzeugt. Historische Quellenprotokolle und tatsächliche Fallbehauptungen bleiben unterscheidbar.

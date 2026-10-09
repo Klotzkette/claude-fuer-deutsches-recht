@@ -209,6 +209,8 @@ Jede Übergabe nennt die führende Fassung mit Pfad und Hash, die Fristobjekte m
 
 An [recht-recherchieren](../recht-recherchieren/SKILL.md) geht die Rechtsfrage mit Sachverhaltsstand und gelesenen Quellen; zurück kommt der begründete Absatz mit Quellenblatt. An [schriftsaetze-entwerfen](../schriftsaetze-entwerfen/SKILL.md) geht der integrierte Stand mit verbindlichen und offenen Abschnitten; zurück kommt die neue führende Fassung mit Pfad und Hash. An [mandantenkommunikation](../mandantenkommunikation/SKILL.md) geht die offene Entscheidung mit beiden Varianten; zurück kommt das Produkt `mandantenbrief` mit Entscheidungsvorlage; eine Weisung entsteht erst durch die tatsächliche Antwort der Mandantschaft. An [zeiten-erfassen](../zeiten-erfassen/SKILL.md) geht der Zeitstand mit bestätigten Minuten, Datum, Person und Narrativ; zurück kommt die Journal-ID. An [mandat-abschliessen](../mandat-abschliessen/SKILL.md) geht der Stand beim Kanzleiwechsel mit Restfristen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 ### 4.1. Prüfmaßstab und Belegdisziplin
