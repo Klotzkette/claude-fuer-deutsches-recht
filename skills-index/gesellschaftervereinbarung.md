@@ -1,6 +1,6 @@
 # gesellschaftervereinbarung
 
-**11 Skills** · Stand `v1.0.0`
+**11 Skills** · Stand `v1.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschaftervereinbarung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`gesellschaftervereinbarung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`gesellschaftervereinbarung-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/gesellschaftervereinbarung.zip) |
+| **Plugin (installierbar)** | ZIP | [gesellschaftervereinbarung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
 
 ## So benutzt man einen Skill
 

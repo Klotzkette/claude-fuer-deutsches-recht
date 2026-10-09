@@ -1,8 +1,10 @@
 # Gesellschaftervereinbarung SkyFade Robotics
 
-Serie B Finanzierung und Zusammenarbeit der Gesellschafter
+Serie B Finanzierung, bestehende Beteiligungen und Zusammenarbeit der Gesellschafter
 
-Verhandlungsfassung vom 9. Oktober 2026. Diese Fassung ist zur Ergänzung der bezeichneten Ausfüllfelder und zur Abstimmung mit sämtlichen Beteiligten bestimmt. Eine Unterzeichnung ersetzt nicht die erforderliche notarielle Gestaltung. Noch nicht bestätigte Angaben sind in eckigen Klammern bezeichnet. Der Entwurf enthält keine Erklärung, dass die Finanzierung bereits beschlossen, bezahlt oder eingetragen worden ist.
+Ausfüll- und Verhandlungsfassung vom 9. Oktober 2026. Bearbeitungsstand [Fassung und Bearbeiter]. Grundlage: Term Sheet vom [Datum und Fassung]. Die im Haupttext genannten wirtschaftlichen Zahlen geben ausschließlich den Verhandlungsvorschlag vom 9. Oktober wieder. Ihre Übernahme wird in den Anlagen einzeln bestätigt oder durch neue Beträge ersetzt. Eine noch nicht ausgefüllte Anlage bestätigt weder die Zahlen noch eine Zustimmung. Bei Widersprüchen zwischen Haupttext, Term Sheet und Anlagen wird vor Unterzeichnung eine einheitliche Fassung hergestellt; keine automatische Vorrangregel darf einen offenen wirtschaftlichen Streit verdecken.
+
+Die Vereinbarung verbindet Kapitalzuführung, Gesellschafterrechte und Vollzug. Sie enthält ausgearbeitete Klauseln, jedoch keine fertige notarielle Urkunde. Felder in eckigen Klammern sind von den Parteien zu ergänzen. Nicht gewählte Vertragsvarianten werden gestrichen. Die Unterzeichnung erfolgt erst nach Klärung der bezeichneten offenen Entscheidungen und der erforderlichen Form. Ein in der Anlage berechneter Betrag ersetzt keine noch fehlende Willenserklärung des betroffenen Gläubigers.
 
 ## 1 Beteiligte und Urkundenvorbereitung
 
@@ -32,7 +34,11 @@ Vor Beurkundung sind alle Ausfüllfelder zu schließen oder durch eine ausdrück
 
 ### 2.1 Ausgangslage
 
-Die Gesellschaft wurde nach dem vorliegenden Gründungsordner im Jahr 2023 errichtet. Sie entwickelt mobile Robotik, Steuerungssoftware und eine Buchungsanwendung für automatisierte Friseurdienstleistungen. Die Parteien wollen eine weitere Finanzierungsrunde vorbereiten und ihre Zusammenarbeit neu ordnen. Das bestehende Stammkapital beträgt nach der vorliegenden Beteiligungsübersicht 50.000 EUR. Diese Angabe ist vor Vollzug mit Satzung, Register und zuletzt aufgenommener Gesellschafterliste abzugleichen.
+Die Gründer arbeiteten zunächst aufgrund ihrer Projektabrede vom 16. Januar 2023 zusammen. Am 18. Mai 2023 errichteten sie die SkyFade Robotics UG (haftungsbeschränkt), die am 20. Juni 2023 mit 1.000 EUR Stammkapital eingetragen wurde. Der Zeitraum vor der notariellen Errichtung, die Gesellschaft in Gründung und die eingetragene Gesellschaft werden für Verträge, Rechte und Haftung gesondert nachgewiesen. Eine automatische Übernahme sämtlicher Verpflichtungen der früheren Projektgemeinschaft wird nicht zugesichert.
+
+Die am 4. Oktober 2023 eingetragene Barkapitalerhöhung auf 25.000 EUR und Änderung der Firma in SkyFade Robotics GmbH erfolgten unter Wahrung der Identität der Gesellschaft. Sie werden nicht als Gründung eines neuen Rechtsträgers oder Formwechsel nach dem Umwandlungsgesetz bezeichnet. Die Rechtezuwendung vom 1. Juli 2023 war keine Zahlung auf das Stammkapital. Der Eintritt von Ottilie Trutz und die spätere Finanzierung durch ABC und DEF sind eigenständige Vorgänge. Nach der derzeitigen Beteiligungsübersicht beträgt das Stammkapital 50.000 EUR; der bestätigte Registerstand und die Anteilskette werden in Nummer 25.2 eingetragen.
+
+Die Gesellschaft entwickelt mobile Robotik, Steuerungssoftware und eine Buchungsanwendung für automatisierte Friseurdienstleistungen. Die Parteien bereiten eine weitere Finanzierungsrunde vor und ordnen ihre Zusammenarbeit neu. Die historische Einordnung enthält keine Entlastung für frühere Geschäftsführungsmaßnahmen und keinen Verzicht auf unbekannte Ansprüche. Unstimmigkeiten zwischen den im Ordner vorhandenen Arbeitskopien und maßgeblichen Urkunden werden vor Vollzug offengelegt.
 
 Die Geschäftsanteile werden vor der Runde wirtschaftlich wie folgt zugeordnet: Kunigunde Wolkenberger 12.500 EUR, Kilian Funkenschlag 12.500 EUR, Ottilie Trutz 5.000 EUR, ABC Ventures GmbH 11.000 EUR und DEF Partners GmbH 9.000 EUR. Die endgültige Anlage bezeichnet jeden Geschäftsanteil mit Nummer und Nennbetrag sowie vorhandenen Belastungen. GHI und JKL halten vor der vorgesehenen Runde keine Geschäftsanteile.
 
@@ -81,6 +87,10 @@ Nach vollständig eingetragener erster Tranche beträgt das Stammkapital 62.000 
 In den vorstehenden Zahlen ist kein zusätzlicher, noch zu schaffender Mitarbeiterpool berücksichtigt. Bestehende virtuelle Zusagen und etwaige Wandelrechte sind in Anlage [Beteiligungsprogramme] vollständig offenzulegen. Ihre wirtschaftlichen Folgen werden vor Unterzeichnung gesondert festgelegt. Eine spätere Ausgabe echter Anteile oder die Übernahme weiterer Zahlungsverpflichtungen wird nicht durch einen pauschalen Verweis auf ein marktübliches Programm genehmigt.
 
 Die Parteien bestätigen keine Wandlung eines Darlehens, solange Gläubiger, Forderungsbestand, Zinsen, Wandlungsgrundlage und Umsetzung nicht vollständig dokumentiert sind. Die vorliegende Runde enthält nach dem derzeitigen Verhandlungsstand ausschließlich die bezeichneten Bareinzahlungen. Eine zusätzlich vereinbarte Wandlung erfordert eine ausdrücklich angepasste Finanzierungs- und Beteiligungsübersicht.
+
+Das Darlehen von Fridolin Fizzel über ursprünglich 120.000 EUR und die Brückendarlehen über zusammen 350.000 EUR bleiben bis zu einer gesonderten wirksamen Regelung bestehen. Die Bezeichnung eines privaten Darlehens als Projektanleihe begründet keine bereits ausgegebenen Geschäftsanteile. Die Behauptung eines fortbestehenden Wandlungsrechts, ihr Bestreiten und die unstreitige Darlehensvaluta werden getrennt dokumentiert. Fridolin ist nicht allein durch eine Klausel zwischen den Gesellschaftern gebunden.
+
+Eine Verrechnung von Forderungen mit Bareinlagepflichten wird nicht vereinbart. Soll eine Forderung eingebracht werden, sind die dafür vorgesehene Kapitalmaßnahme, die Werthaltigkeit, der Stichtag, der Nennbetrag, das Aufgeld und die Offenlegung gesondert festzulegen. Bis dahin bleibt jede entsprechende Excel-Rechnung eine unverbindliche Rechenvariante. Der Berechnungsstichtag wird nicht ohne Zustimmung zum rechtlichen Wandlungsstichtag.
 
 ## 5 Erste Tranche
 
@@ -438,28 +448,260 @@ Sollte eine Bestimmung unwirksam sein, werden ihre rechtlichen Folgen nach den a
 
 Es gilt deutsches Recht unter Beachtung zwingender anwendbarer Vorschriften. Die deutsche Fassung ist maßgeblich, soweit die Parteien nicht ausdrücklich eine andere Sprachregel vereinbaren. Übersetzungen dienen dem Verständnis; vor Unterzeichnung sind rechtlich erhebliche Abweichungen aufzulösen und erforderliche sprachliche Unterstützung bei der Beurkundung zu organisieren.
 
-## 24 Anlagen und Unterzeichnung
+## 24 Vertragsanlagen und Bearbeitungsstand
 
 ### 24.1 Anlagenverzeichnis
 
-Anlage 1 enthält die bestätigten Beteiligten und Vertretungsnachweise. Anlage 2 enthält die Anteilnummern und Nennbeträge vor Vollzug, nach erster und nach zweiter Tranche. Anlage 3 enthält den Zahlungsplan und die Vollzugsvoraussetzungen. Anlage 4 enthält die objektiven Meilensteine und den Terminplan. Anlage 5 enthält den Zustimmungskatalog und die Beiratsordnung. Anlage 6 enthält das Rechteverzeichnis. Anlage 7 enthält die gebundenen Gründeranteile und die konkret vereinbarten Ausscheidens- und Preisregeln. Anlage 8 enthält die vollständige Erlösverteilung einschließlich Rangfolge, Wahl und kumulativer Abrechnung. Anlage 9 enthält offengelegte Altvereinbarungen und deren Aufhebung. Anlage 10 enthält die Beitrittserklärung.
+Die folgenden ausformulierten Anlagen sind Bestandteil dieser Arbeitsfassung und nach Ergänzung Bestandteil der endgültigen Vereinbarung. Anlage 1, Beteiligte und historische Nachweise, steht in Nummer 25. Anlage 2, Kapital und Zahlungen, steht in Nummer 26. Anlage 3, Darlehen und etwaige Wandlung, steht in Nummer 27. Anlage 4, Vollzug und Meilensteine, steht in Nummer 28. Anlage 5, Geschäftsführung und Beirat, steht in Nummer 29. Anlage 6, Rechtebestand und Offenlegung, steht in Nummer 30. Anlage 7, Gründerbindung und Erlösverteilung, steht in Nummer 31. Anlage 8, Altverträge, Beitritt und Abschluss, steht in Nummer 32. Sachliche Bezeichnungen einer Anlage im Haupttext verweisen auf diese Zuordnung; frühere Nummern aus Vorentwürfen werden nicht weiterverwendet.
 
 Die Anlagen werden inhaltlich ausgefüllt und mit dem Haupttext abgeglichen. Eine Überschrift oder ein Dateiname ersetzt die darin vorausgesetzten Angaben nicht. Soweit die Parteien eine Anlage nicht benötigen, wird sowohl ihr Eintrag als auch jeder inhaltliche Verweis darauf ausdrücklich entfernt oder ersetzt.
 
-### 24.2 Formulierte Beitrittserklärung zur Ergänzung
+### 24.2 Offene Entscheidungen
 
-„[Erwerber mit vollständiger Identität] tritt mit Wirkung zum [Zeitpunkt] der Gesellschaftervereinbarung der SkyFade Robotics GmbH vom [Datum und Urkundenbezeichnung] in der für die erworbenen Geschäftsanteile Nummern [Nummern] maßgeblichen Fassung bei. Er übernimmt die in der beigefügten Zuordnung bezeichneten Rechte und Pflichten der Klasse [Klasse]. Persönliche Pflichten des Veräußerers werden nur übernommen, soweit sie in dieser Erklärung einzeln bezeichnet und rechtlich übertragbar sind. Die Gesellschaft und die hierfür erforderlichen Parteien nehmen den Beitritt an. Gesetzliche Form und notwendige Zustimmungen bleiben Voraussetzung des Wirksamwerdens.“
+Jede der nachstehenden Entscheidungen wird vor Unterzeichnung einem konkret bezeichneten Entscheidungsträger zugeordnet. Zuständiger Ansprechpartner der Gesellschaft ist [Name und Vertretung]. Für die Gründer antwortet [Name im ausdrücklich bestätigten Umfang]. Für jeden Investor ist [Name, Organisation und Freigabebefugnis] einzutragen. Eine Antwort eines Beraters bindet dessen Mandanten nur bei nachgewiesener entsprechender Vollmacht.
 
-### 24.3 Unterzeichnungsvorbereitung
+Ausstehende Angaben werden mit der Kennung des betroffenen Feldes, dem benötigten Nachweis und dem vorgesehenen Entscheidungstermin erfasst. Fehlt die Entscheidung zu einer wirtschaftlich wesentlichen Regel, wird diese weder aus einem üblichen Marktstandard noch aus der persönlichen Präferenz des Bearbeiters ergänzt. Unabhängige Vertragsteile können weiter abgestimmt werden. Der betroffene Vollzugsschritt wird jedoch nicht als freigegeben bezeichnet.
 
-Für jeden der sieben Beteiligten und für die Gesellschaft wird ein eigener Unterschrifts- und Vertretungsbereich vorgesehen. Der Notar ergänzt den tatsächlichen Urkundseingang, die Identitätsfeststellung, Vertretung, Belehrung und Schlussformel. Die hier aufgeführten Felder sind keine bereits abgegebenen notariellen Feststellungen.
+### 24.3 Abstimmung und Änderungsfassung
 
-[Ort und Datum der Beurkundung]
+Der zur Beurkundung vorgesehene Text erhält die Kennung [Fassung], den Stand [Datum, Uhrzeit] und das Anlagenverzeichnis [Kennung]. Die Parteien erhalten neben dieser Fassung einen Vergleich zur zuletzt gemeinsam verhandelten Fassung. Rein redaktionelle Berichtigungen dürfen keine Beträge, Stimmrechte, Fristen, Rangfolgen, Haftungsgrenzen oder wirtschaftlichen Wahlrechte ändern. Solche Änderungen werden auch dann ausdrücklich bezeichnet, wenn sie nur in einer Tabelle vorgenommen werden.
 
-[Kunigunde Wolkenberger] [Kilian Funkenschlag] [Ottilie Trutz]
+## 25 Anlage 1 Beteiligte, Gründung und Anteilskette
 
-[ABC Ventures GmbH mit Vertreter] [DEF Partners GmbH mit Vertreter]
+### 25.1 Beteiligtenblätter
 
-[GHI Capital GmbH mit Vertreter] [JKL Fonds GmbH mit Vertreter]
+#### 25.1.1 Natürliche Personen
 
-[SkyFade Robotics GmbH mit gesondert nachgewiesener Vertretung]
+Für Kunigunde Wolkenberger werden bestätigt: vollständiger Name [PERSON-01], Geburtsdatum [PERSON-02], Wohnanschrift [PERSON-03], unmittelbare oder mittelbare Beteiligung [PERSON-04], Zustelladresse [PERSON-05], Vertretung im konkreten Termin [PERSON-06]. Für Kilian Funkenschlag werden die entsprechenden Angaben unter [PERSON-07] bis [PERSON-12] ergänzt. Für Ottilie Trutz werden sie unter [PERSON-13] bis [PERSON-18] ergänzt. Die Aufnahme besonderer persönlicher Angaben erfolgt nur, soweit sie für Identität, Vertretung, Form oder Vollzug benötigt werden.
+
+Die Parteien bestätigen die Übereinstimmung dieser Angaben mit den dem Notar vorgelegten Nachweisen am [Datum]. Eine geplante Übertragung auf eine Holding wird unter [HOLDING-01] mit Person, Anteilnummern, Gesellschaft, Kontrollverhältnissen und Umsetzungszeitpunkt beschrieben. Solange diese Übertragung nicht wirksam vollzogen ist, wird die Holding nicht als gegenwärtiger Anteilseigner ausgewiesen.
+
+#### 25.1.2 Juristische Personen
+
+Für ABC werden Firma [REG-01], Sitz [REG-02], Registergericht und Nummer [REG-03], Geschäftsanschrift [REG-04], Vertreter [REG-05] und Vertretungsnachweis [REG-06] ergänzt. Für DEF gelten [REG-07] bis [REG-12], für GHI [REG-13] bis [REG-18] und für JKL [REG-19] bis [REG-24]. Ein Investitionsausschussbeschluss ersetzt keinen Nachweis der organschaftlichen Vertretung. Eine Beschränkung oder Bedingung der intern erteilten Freigabe wird unter [FREIGABE-01 bis FREIGABE-04] ausdrücklich offengelegt.
+
+Für die Gesellschaft werden Firma [GESELLSCHAFT-01], aktueller Registerstand [GESELLSCHAFT-02], vertretende Personen [GESELLSCHAFT-03], erforderlicher Zustimmungsbeschluss [GESELLSCHAFT-04] und eine konkret benötigte Gestattung von Insichgeschäften [GESELLSCHAFT-05] eingesetzt. Die Vereinbarung wird nicht dadurch wirksam vertreten, dass dieselbe Person ohne gesonderte Prüfung mehrfach unterschreibt.
+
+### 25.2 Historische Kapitalzustände
+
+#### 25.2.1 Vorgründung und Gesellschaft in Gründung
+
+Die Vorgründungsabrede ist vom [HISTORIE-01]. Ihre Parteien sind [HISTORIE-02]. Die vor notarieller Errichtung geschlossenen Verträge ergeben sich abschließend aus [HISTORIE-03 mit Gegenstand, Vertragspartner und Datum]. Für jeden übernommenen Vertrag werden der Übernahmezeitpunkt, die Zustimmung des Vertragspartners sowie fortbestehende persönliche Verpflichtungen unter [HISTORIE-04] angegeben. Die Erklärung, ein Gegenstand werde heute betrieblich genutzt, ist keine Übernahmeerklärung des früheren Gläubigers.
+
+Datum und Urkundenbezeichnung der UG-Gründung lauten [HISTORIE-05]. Das Gründungskapital beträgt [HISTORIE-06] EUR. Bar übernommen und eingezahlt wurden durch [HISTORIE-07] jeweils [HISTORIE-08] EUR. Die Zahlungstage, das Empfängerkonto und die zugehörigen Belege stehen in [HISTORIE-09]. Die Ersteintragung erfolgte am [HISTORIE-10]. Handlungen zwischen Errichtung und Eintragung sowie der handelnde Vertreter sind in [HISTORIE-11] bezeichnet. Diese Anlage enthält keinen pauschalen Verzicht auf Ansprüche aus der Gründungsphase.
+
+#### 25.2.2 Rechtezuwendung und spätere Kapitalerhöhung
+
+Außerhalb der Stammeinlagen wurden folgende Vermögenswerte oder Nutzungsrechte zugewendet: [HISTORIE-12, Gegenstand und Versionsstand]. Vertragsgrundlage [HISTORIE-13], Rechtsinhaber [HISTORIE-14], Umfang [HISTORIE-15], Ausnahmen [HISTORIE-16], vereinbarte Gegenleistung oder Eigenkapitalzuordnung [HISTORIE-17]. Ein bilanzieller Ansatz oder interner Bewertungsbetrag wird nicht zugleich als eingezahltes Stammkapital oder vorhandene Liquidität angesetzt.
+
+Die Kapitalerhöhung auf den Betrag von [HISTORIE-18] EUR wurde am [HISTORIE-19] beschlossen und am [HISTORIE-20] eingetragen. Neue Bareinzahlungen [HISTORIE-21] werden von Sachleistungen [HISTORIE-22, gegebenenfalls ausdrücklich keine] unterschieden. Die Firmenänderung wurde am [HISTORIE-23] wirksam. Bei bloßer Kapitalerhöhung und Firmenänderung bleibt die Identität der Gesellschaft bestehen; eine gesonderte Vermögensübertragung wird nicht unterstellt.
+
+#### 25.2.3 Frühe Beteiligungsrunden
+
+Für Ottilie Trutz werden Beschluss und Übernahme [HISTORIE-24], Einzahlung [HISTORIE-25], Registereintragung [HISTORIE-26], neue Anteilnummern [HISTORIE-27], Nennbetrag [HISTORIE-28] EUR und Agio [HISTORIE-29] EUR bestätigt. Frühere Anteilnummern wurden wie folgt geteilt, zusammengelegt oder ersetzt: [HISTORIE-30]. Ersetzte Nummern werden nicht zusätzlich als bestehende Anteile gezählt.
+
+Für ABC werden dieselben Angaben unter [HISTORIE-31] bis [HISTORIE-36], für DEF unter [HISTORIE-37] bis [HISTORIE-42] ergänzt. Die bislang bestehenden Vorrechte ergeben sich aus [HISTORIE-43 mit Vertragsdatum, Berechtigtem, Basis, Teilnahme und Höchstbetrag]. Unterschiedliche Ausgabepreise früherer Investoren werden nicht allein zur Vereinheitlichung einer Tabelle nachträglich geändert. Verzicht, Änderung oder Ablösung werden nur aufgrund einer nachgewiesenen Erklärung des Berechtigten eingetragen.
+
+### 25.3 Bestätigung und Ausnahmen
+
+Die Gesellschaft bestätigt nach Abgleich mit den unter [NACHWEIS-01] vollständig bezeichneten Unterlagen den Stand zum [NACHWEIS-02]. Abweichungen zwischen internem Ordner, Register und Gesellschafterliste sind [NACHWEIS-03]. Noch fehlende Originale oder Genehmigungen sind [NACHWEIS-04]. Die Angaben werden von [NACHWEIS-05] nach [NACHWEIS-06, konkret bezeichnete Prüfungshandlungen] abgegeben. Ein leeres Ausnahmenfeld bedeutet keine Garantie der Lückenlosigkeit.
+
+## 26 Anlage 2 Kapital, Preis und Zahlungsplan
+
+### 26.1 Bestehendes Kapital
+
+Bestätigtes Stammkapital am Tag vor der ersten Maßnahme: [KAPITAL-01] EUR. Davon entfallen auf Kunigunde [KAPITAL-02] EUR mit Nummern [KAPITAL-03], auf Kilian [KAPITAL-04] EUR mit Nummern [KAPITAL-05], auf Ottilie [KAPITAL-06] EUR mit Nummern [KAPITAL-07], auf ABC [KAPITAL-08] EUR mit Nummern [KAPITAL-09] und auf DEF [KAPITAL-10] EUR mit Nummern [KAPITAL-11]. Die Summe der Nennbeträge muss dem bestätigten Stammkapital entsprechen. Belastungen und abweichende Berechtigungen stehen unter [KAPITAL-12].
+
+Daneben bestehen folgende virtuelle Zusagen, noch nicht vollzogene Optionen und behauptete Erwerbsrechte: [KAPITAL-13]. Sie sind nicht in die eingetragene Nennkapitalsumme aufzunehmen. Ihre Einbeziehung in eine wirtschaftlich vollständig verwässerte Rechnung erfolgt ausschließlich nach der ausdrücklich bestätigten Berechnungsannahme [KAPITAL-14]. Die Stammanteilsquote und die unter Einbeziehung solcher Rechte berechnete Quote werden nebeneinander bezeichnet, nicht miteinander vermischt.
+
+### 26.2 Preisfestlegung und Rundung
+
+Bewertung vor Finanzierung [PREIS-01] EUR; einbezogene Anteilsbasis [PREIS-02]; Ausgabebetrag je neuem Anteil [PREIS-03] EUR; Nennbetrag je neuem Anteil [PREIS-04] EUR; Agio je Anteil [PREIS-05] EUR. Bei Abweichung vom Vorschlag von 500 EUR je Anteil werden sämtliche Zeichnungszahlen und Tranchenanlagen vor Unterzeichnung angepasst. Eine Preisformel erzeugt keine Anteile mit unzulässigem Nennbetrag.
+
+Ergibt sich bei einer Rechnung kein ganzzahliger Anteil zu dem vereinbarten Nennbetrag, wird der Rest nach [PREIS-06, ausdrücklich vereinbarte Behandlung] abgewickelt. Es gibt weder eine stillschweigende Aufrundung zulasten der bisherigen Gesellschafter noch einen unbezeichneten Forderungsverzicht. Ein zusätzlich gezahlter Betrag ist als Agio, Restforderung, Kaufpreis oder Rückzahlung eindeutig zuzuordnen. Die Zuordnung darf nicht nach Vollzug nur zur Glättung einer Excel-Tabelle geändert werden.
+
+### 26.3 Erste und zweite Einzahlung
+
+Für den ersten Vollzug werden bestätigt: GHI Ausgabebetrag [TRANCHE-01] EUR, Nennbetrag [TRANCHE-02] EUR, Agio [TRANCHE-03] EUR, Nummern [TRANCHE-04]; JKL Ausgabebetrag [TRANCHE-05] EUR, Nennbetrag [TRANCHE-06] EUR, Agio [TRANCHE-07] EUR, Nummern [TRANCHE-08]. Danach beträgt das Stammkapital [TRANCHE-09] EUR. Der letzte Termin für den Eintritt der vereinbarten Voraussetzungen ist [TRANCHE-10].
+
+Für den zweiten Vollzug werden bestätigt: GHI Ausgabebetrag [TRANCHE-11] EUR, Nennbetrag [TRANCHE-12] EUR, Agio [TRANCHE-13] EUR, Nummern [TRANCHE-14]; JKL Ausgabebetrag [TRANCHE-15] EUR, Nennbetrag [TRANCHE-16] EUR, Agio [TRANCHE-17] EUR, Nummern [TRANCHE-18]. Danach beträgt das Stammkapital [TRANCHE-19] EUR. Der Endtermin lautet [TRANCHE-20]. Die jeweiligen Kontodaten werden in einer gesondert authentifizierten Zahlungsaufforderung bezeichnet und nicht aus einem ungeprüften E-Mail-Anhang übernommen.
+
+### 26.4 Vollzugsabrechnung
+
+Die Gesellschaft stellt für jeden Vollzug eine Abrechnung mit geschuldetem Betrag, tatsächlichem Eingang, Wertstellung, Kapitalanteil und Aufgeld bereit. Vorab geleistete Zahlungen werden mit ihrer rechtlichen Zuordnung ausdrücklich aufgeführt. Mittel, die nicht endgültig zur Verfügung stehen, werden nicht als freies Kapital bestätigt. Überschüssige oder fehlgeleitete Zahlungen werden zunächst aufgeklärt, nicht ungeprüft als weitere Beteiligung behandelt.
+
+Nach dem jeweiligen Registervollzug wird die Beteiligungsübersicht auf den bestätigten Eintragungsstand fortgeschrieben. Die vertraglichen Präferenzbasen werden anhand tatsächlicher Zahlungen fortgeschrieben. Eine noch offene zweite Tranche bleibt gesondert als Zusage mit ihren Voraussetzungen sichtbar. Für die Abrechnung verantwortlich ist [ABRECHNUNG-01]; Empfänger und Übermittlungsfrist sind [ABRECHNUNG-02].
+
+## 27 Anlage 3 Darlehen und gesonderte Wandlungsvereinbarung
+
+### 27.1 Bestandsaufnahme und Rechtsstellung
+
+Für jede Forderung werden Vertragskennung [DARLEHEN-01], Gläubiger [DARLEHEN-02], ursprüngliche Valuta [DARLEHEN-03] EUR, Auszahlungstag [DARLEHEN-04], Tilgungen [DARLEHEN-05] EUR, Restkapital [DARLEHEN-06] EUR, Zins [DARLEHEN-07], Zinsmethode [DARLEHEN-08], Zinsfälligkeit [DARLEHEN-09] und Rückzahlungstermin [DARLEHEN-10] eingetragen. Sicherheiten [DARLEHEN-11], Abtretungen [DARLEHEN-12] und Rangvereinbarungen [DARLEHEN-13] werden jeweils mit ihrem konkreten Dokument bezeichnet.
+
+Das Bestandsblatt unterscheidet Gläubiger, die Gesellschafter sind, von außenstehenden Geldgebern und nennt die maßgeblichen Beteiligungsverhältnisse. Eine gesetzliche Rangfolge wird nicht mit einer vertraglichen Durchsetzungssperre gleichgesetzt. Ein vertraglicher Rangrücktritt wird weder aus dem Wort Gesellschafterdarlehen noch aus einem noch nicht unterschriebenen Entwurf abgeleitet. Ausnahmen und die Wirkung einer späteren Änderung der Beteiligung werden gesondert geprüft.
+
+### 27.2 Zinsabrechnung
+
+Die Zinsen werden bis zum bestätigten Stichtag [ZINS-01] nach dem jeweiligen Vertrag berechnet. Eingaben, Perioden und Teilzahlungen bleiben nachvollziehbar. Bei der für den Fall vorgesehenen Methode tatsächliche Tage/365 zählt der Auszahlungstag mit und der Abrechnungstag nicht. Ohne entsprechende Vereinbarung werden Zinsen nicht kapitalisiert. Der auf Cent gerundete Gesamtbetrag wird erst nach Berechnung des ungerundeten Periodenbetrags gebildet.
+
+Stimmen Gläubiger und Gesellschaft in der Abrechnung nicht überein, werden der unstreitige Kapitalbetrag [ZINS-02], der unstreitige Zinsbetrag [ZINS-03] und die streitigen Positionen [ZINS-04] getrennt bezeichnet. Eine bloße Berechnung auf Grundlage vorgegebener Daten enthält kein deklaratorisches oder abstraktes Schuldanerkenntnis. Soll ein solches Anerkenntnis abgegeben werden, bedarf es einer gesonderten ausdrücklichen Erklärung mit bezeichnetem Umfang.
+
+### 27.3 Erklärung zum privaten Darlehen
+
+Fridolin Fizzel und die Gesellschaft legen den Darlehensschein vom [FIZZEL-01] sowie die Korrespondenz vom [FIZZEL-02] zugrunde. Der behauptete frühere Auslöser für eine Beteiligung ist [FIZZEL-03]. Die Position des Gläubigers dazu lautet [FIZZEL-04], die der Gesellschaft [FIZZEL-05]. Ein Anerkenntnis, Verzicht oder Vergleich wird aus diesen beiden Darstellungen nicht hergeleitet. Bis zum wirksamen Abschluss einer gesonderten Vereinbarung bleibt die Forderung nach Maßgabe ihres bestehenden Vertrags bestehen.
+
+Für die bevorstehende Runde wählen die erforderlichen Parteien ausdrücklich [FIZZEL-06: unveränderte Fortführung / vertraglich zulässige Rückzahlung / gesonderte Stundung / gesondert vollzogene Beteiligung]. Zeitpunkt [FIZZEL-07], benötigte Unterschriften [FIZZEL-08], Gegenleistung [FIZZEL-09] und erfasste Ansprüche [FIZZEL-10] werden ausgefüllt. Nicht gewählte Wege entfallen. Keine dieser Optionen gilt nur deshalb als gewählt, weil eine Arbeitsmappe sie berechnet.
+
+### 27.4 Auszuformulierende Beteiligungsabrede
+
+#### 27.4.1 Forderung und Preis
+
+Nur falls ausdrücklich gewählt, vereinbaren [WANDLUNG-01, sämtliche erforderlichen Beteiligten] eine Beteiligung des Gläubigers an der Gesellschaft. Einzubeziehendes Kapital [WANDLUNG-02] EUR; einzubeziehende Zinsen [WANDLUNG-03] EUR bis [WANDLUNG-04]; ausgeschlossene Forderungsteile [WANDLUNG-05]. Maßgeblicher Referenzpreis [WANDLUNG-06] EUR, Abschlag [WANDLUNG-07] Prozent, daraus vereinbarter Ausgabepreis [WANDLUNG-08] EUR. Ein etwaiger Höchstbewertungsmechanismus wird nur bei vollständiger zusätzlicher Regelung unter [WANDLUNG-09] angewendet.
+
+#### 27.4.2 Durchführung und Restbetrag
+
+Die Beteiligung erfolgt durch [WANDLUNG-10, rechtlich konkret ausgearbeitete Kapitalmaßnahme oder Anteilsübertragung]. Übernommene oder erworbene Anteile, Nennbeträge und Nummern: [WANDLUNG-11]. Der gesellschaftsrechtliche und steuerliche Vollzug, einschließlich einer erforderlichen Forderungsbewertung, ist in [WANDLUNG-12] festgelegt. Die Geldforderung erlischt nur in dem ausdrücklich bezeichneten Umfang [WANDLUNG-13] und erst bei Eintritt des vereinbarten wirksamen Vollzugstatbestands [WANDLUNG-14]. Ein verbleibender Rest von [WANDLUNG-15] EUR wird nach [WANDLUNG-16] behandelt.
+
+#### 27.4.3 Rechte des neuen Beteiligten
+
+Mit wirksamem Erwerb erhält der Gläubiger die Rechte der Klasse [WANDLUNG-17]. Ein Erlösvorrang, Beiratssitz, Informationssonderrecht oder Verwässerungsschutz entsteht nur, soweit hier ausdrücklich bezeichnet: [WANDLUNG-18]. Der neue Beteiligte tritt der Gesellschaftervereinbarung in erforderlicher Form bei. Die Vergleichswirkung gegenüber früheren behaupteten Beteiligungsansprüchen erstreckt sich ausschließlich auf [WANDLUNG-19]. Nicht bezeichnete Ansprüche werden nicht durch eine allgemeine Erledigungsformel beseitigt.
+
+### 27.5 Rückzahlung, Krise und Rangbindung
+
+Eine vereinbarte Rückzahlung steht unter den zwingenden gesetzlichen Grenzen und den wirksamen vertraglichen Durchsetzungssperren. Die Parteien können nicht allein mit dem Eingang neuer Investorengelder bestätigen, dass sämtliches Geld frei zur Rückzahlung zur Verfügung steht. Vor Durchführung werden die tatsächliche Vermögens- und Zahlungslage sowie die für die konkrete Forderung geltenden Sperren anhand aktueller Unterlagen geprüft.
+
+Ein qualifizierter Rangrücktritt bleibt in seinem vereinbarten Umfang bestehen. Seine Aufhebung oder Beschränkung darf geschützte Rechte anderer Gläubiger nicht durch eine bloße Absprache zwischen Darlehensgeber und Gesellschaft beseitigen. Vorinsolvenzliche Durchsetzungssperre, Rang im eröffneten Verfahren, Fälligkeit, handelsrechtlicher Ausweis und steuerlicher Ansatz werden getrennt behandelt. Die Gesellschaftervereinbarung enthält weder eine pauschale Bestätigung fehlender Insolvenzreife noch eine Freigabe aller zurückliegenden Zahlungen.
+
+## 28 Anlage 4 Voraussetzungen, Meilensteine und Vollzug
+
+### 28.1 Voraussetzungsliste
+
+Voraussetzung [VOLLZUG-01] lautet [konkretes Ereignis]. Geschützt wird [VOLLZUG-02, Berechtigter]. Erforderlicher Nachweis [VOLLZUG-03], Ersteller [VOLLZUG-04], Stand [VOLLZUG-05], spätester Vorlagezeitpunkt [VOLLZUG-06]. Die Bestätigung erfolgt durch [VOLLZUG-07]. Ein Verzicht ist [VOLLZUG-08, zulässig nur im bezeichneten Umfang / ausgeschlossen]. Für jede weitere Voraussetzung wird ein eigenes Blatt nach diesem Aufbau beigefügt.
+
+Die Finanzierungsfreigabe setzt jedenfalls eine widerspruchsfreie Beteiligungsübersicht, feststehende Übernahmebeträge, erforderliche Beschlüsse und eine wirksame Vertretung voraus. Nicht allein durch Zustimmung verzichtbare gesetzliche oder behördliche Voraussetzungen werden gesondert ausgewiesen. Das Fehlen einer für den ersten Vollzug notwendigen Einigung über einen offen gelegten Altanspruch wird nicht durch das Schweigen eines anderen Investors geheilt.
+
+### 28.2 Nachweisbare Entwicklungsziele
+
+Für das technische Ziel [MEILENSTEIN-01] werden Produktversion [MEILENSTEIN-02], zulässiger Einsatzbereich [MEILENSTEIN-03], unabhängiger Prüfer [MEILENSTEIN-04], Prüfmethode [MEILENSTEIN-05], Abnahmekriterium [MEILENSTEIN-06] und Nachweisdatum [MEILENSTEIN-07] festgelegt. Ein Bericht über Modellköpfe gilt nicht als Bericht über den Einsatz an Personen. Ein Prüfbericht über eine frühere Softwareversion gilt nur bei ausdrücklich dokumentierter Übertragbarkeit für eine neue Version.
+
+Für den Rechtebestand werden die benötigten Nutzungen und Komponenten einzeln benannt [MEILENSTEIN-08]. Für Versicherung und behördliche Anforderungen werden Deckung, Tätigkeit, Gebiet, Personenkreis, Ausschlüsse und erforderliche Entscheidungen unter [MEILENSTEIN-09] angegeben. Ein Angebot, eine Eingangsbestätigung oder ein laufender Antrag wird nicht als wirksame Deckung oder Genehmigung bestätigt.
+
+### 28.3 Einreichung und Beanstandung
+
+Das Nachweispaket wird am [PAKET-01] in der Fassung [PAKET-02] gleichzeitig an [PAKET-03] übermittelt. Innerhalb von [PAKET-04] Arbeitstagen erklärt jeder zuständige Prüfer die Bestätigung oder bezeichnet die konkrete Abweichung vom vereinbarten Kriterium. Eine Beanstandung ohne Bezug auf ein solches Kriterium berechtigt nicht zur nachträglichen Einführung einer zusätzlichen Voraussetzung. Eine reine Empfangsbestätigung ist keine inhaltliche Freigabe.
+
+Bei behebbaren Mängeln gilt die Nachbesserungsfrist [PAKET-05]. Technische Tatsachen werden im Streit durch [PAKET-06, gemeinsam bestimmter Sachverständiger und Ersatzbestellungsverfahren] beurteilt. Rechtsfragen und behördliche Entscheidungen werden dadurch nicht ersetzt. Kosten, Zugang zu Unterlagen und Geheimhaltung des Sachverständigen werden vor seiner Bestellung vereinbart. Die Geschäftsführung hält unabhängig davon den Betrieb innerhalb des bereits zulässigen Umfangs.
+
+### 28.4 Vollzugsbestätigung
+
+Die mit [VOLLZUGSVERMERK-01] bezeichneten Personen bestätigen nach Prüfung der zugeordneten Belege: Beschlussdatum [VOLLZUGSVERMERK-02], Übernahmeerklärungen [VOLLZUGSVERMERK-03], Zahlungseingänge [VOLLZUGSVERMERK-04], Anmeldung [VOLLZUGSVERMERK-05], Registereintragung [VOLLZUGSVERMERK-06], neue Liste [VOLLZUGSVERMERK-07]. Die Bestätigung unterscheidet ausdrücklich Zahlungsvollzug und registerrechtliche Entstehung der neuen Anteile.
+
+Offen bleibende Nacharbeiten lauten [VOLLZUGSVERMERK-08] und sind bis [VOLLZUGSVERMERK-09] durch [VOLLZUGSVERMERK-10] zu erledigen. Ein Nacharbeitspunkt darf nur so bezeichnet werden, wenn er den bereits bestätigten Vollzug rechtlich nicht verhindert. Die Beteiligten erhalten dieselbe abschließende Urkunden- und Nachweissammlung. Eine spätere Berichtigung bleibt als neue Fassung erkennbar.
+
+## 29 Anlage 5 Zuständigkeiten und laufende Zusammenarbeit
+
+### 29.1 Geschäftsführung und Zustimmung
+
+Das jährliche Budget wird von [ORGAN-01] mit der Mehrheit [ORGAN-02] beschlossen. Die Geschäftsführung darf im Rahmen des genehmigten Budgets gewöhnliche Geschäfte ausführen. Für Abweichungen gelten die Schwellen [ORGAN-03, Betrag und Bezugsgröße] und [ORGAN-04, Prozent und Bezugszeitraum]. Zusammengehörige Geschäfte werden zusammengerechnet; eine Aufteilung allein zur Unterschreitung der Schwelle ist unzulässig.
+
+Neue Finanzverbindlichkeiten oberhalb [ORGAN-05] EUR, Sicherheiten [ORGAN-06], wesentliche Rechteverfügungen [ORGAN-07], Geschäfte mit nahestehenden Personen [ORGAN-08] und Änderungen des genehmigten Pilotumfangs [ORGAN-09] benötigen die bezeichnete Zustimmung von [ORGAN-10]. Ein zustimmendes Organ übernimmt dadurch nicht die organschaftliche Verantwortung der Geschäftsführung. Ein rechtswidriger oder technisch nicht freigegebener Betrieb wird nicht durch eine Zustimmungsmehrheit zulässig.
+
+### 29.2 Beirat mit fünf Sitzen
+
+Die Sitze werden wie folgt besetzt: Gründer gemeinsam [BEIRAT-01] und [BEIRAT-02]; ABC und DEF gemeinsam [BEIRAT-03]; GHI [BEIRAT-04]; JKL [BEIRAT-05]. Vorsitzender wird aus diesen fünf Mitgliedern [BEIRAT-06]. Soll ein unabhängiger Vorsitzender bestellt werden, nimmt er den ausdrücklich bezeichneten Sitz [BEIRAT-07] ein. Ein zusätzlicher sechster Sitz entsteht dadurch nicht.
+
+Amtszeit [BEIRAT-08], Abberufung [BEIRAT-09], Ersatzbestellung [BEIRAT-10], Einladungsfrist [BEIRAT-11], Beschlussfähigkeit [BEIRAT-12] und erforderliche Mehrheit [BEIRAT-13] werden verbindlich festgelegt. Ein Stichentscheid besteht nur, wenn er unter [BEIRAT-14] ausdrücklich und für bezeichnete Gegenstände vereinbart ist. Die Annahme des Amtes und eine etwaige Vergütung werden gesondert dokumentiert. Befangenheit und Zugang zu wettbewerblich sensiblen Informationen werden für den konkreten Interessenkonflikt geregelt.
+
+### 29.3 Bericht und Krise
+
+Der monatliche Bericht enthält Bankbestände, fällige Verpflichtungen, vertraglich gesicherte Eingänge, hiervon getrennte Erwartungen sowie die Annahmen einer rollierenden Vorschau. Er wird bis [BERICHT-01] an [BERICHT-02] übermittelt. Veränderungen, die eine gesetzliche Organpflicht auslösen können, werden nicht bis zum nächsten Berichtstermin zurückgestellt. Eine Forderung wird nicht allein wegen eines Bestreitens mit null angesetzt, und eine unsichere zweite Tranche wird nicht als verfügbarer Zahlungsmittelbestand bezeichnet.
+
+Bei einer erheblichen Abweichung erhalten die zuständigen Empfänger unverzüglich eine sachbezogene Nachricht mit Ereignis, gesichertem Kenntnisstand, nächster erforderlicher Entscheidung und fehlenden Nachweisen. Der Bericht darf Unsicherheiten nicht in einer allgemeinen Ampelfarbe verschwinden lassen. Die gesetzlichen Pflichten der Geschäftsführung zur Überwachung und zum Handeln bestehen unabhängig von Reaktionszeiten eines Investors oder Beirats.
+
+## 30 Anlage 6 Rechte, Offenlegung und Garantieabgrenzung
+
+### 30.1 Rechteblätter
+
+Für jeden wesentlichen Bestandteil werden Bezeichnung [RECHT-01], Versionsstand [RECHT-02], Urheber oder ursprünglicher Rechtsinhaber [RECHT-03], Erwerbsvertrag [RECHT-04], Nutzungsarten [RECHT-05], Ausschließlichkeit [RECHT-06], Gebiet und Dauer [RECHT-07], Unterlizenzierung [RECHT-08], Übertragung [RECHT-09], Zahlungsvoraussetzungen [RECHT-10] und Einschränkungen [RECHT-11] angegeben. Der bloße Besitz von Dateien, Administratorrechten oder einem Repository-Zugang ist kein Ersatz für diese Rechtekette.
+
+Die Buchungsoberfläche, die späteren Arbeitnehmerbeiträge, die ursprünglichen Gründerzeichnungen, die Weiterentwicklung M3 und der externe Exportbaustein werden in getrennten Blättern geführt. Ein Nachtrag zum Exportbaustein erfasst nur die ausdrücklich bezeichneten Rechte. Vorbestehende Bibliotheken und fremde Komponenten bleiben gesondert ausgewiesen. Eine umfassende Garantie wird nicht mit der Behauptung begründet, der Quellcode sei ohnehin im eigenen Ordner vorhanden.
+
+### 30.2 Ergänzende Rechtseinräumung
+
+Soweit [RECHTSINHABER-01] an [GEGENSTAND-01 und Versionsstand] die erforderlichen eigenen Rechte besitzt, räumt er der Gesellschaft mit Wirkung zum [RECHTSZEIT-01] die in [NUTZUNG-01] abschließend bezeichneten Nutzungsrechte ein. Die Einräumung erfolgt [NUTZUNG-02, einfach oder ausschließlich], für [NUTZUNG-03, Gebiet] und [NUTZUNG-04, Dauer]. Sie umfasst die Bearbeitung und die hierfür erforderliche Vervielfältigung nur im konkret bezeichneten Umfang. Eine wirtschaftliche Weitergabe oder Unterlizenzierung ist unter [NUTZUNG-05] geregelt.
+
+Ausgenommen sind [AUSNAHME-01, Bestandteile und Rechte]. Die Gegenleistung beträgt [RECHTEPREIS-01] EUR zuzüglich einer gesetzlich anfallenden Umsatzsteuer und wird bei [RECHTEPREIS-02] fällig. Ein etwaiger Übergang erst nach vollständiger Zahlung wird unter [RECHTEPREIS-03] ausdrücklich vereinbart. Eine bereits geschuldete Softwarepflege wird nicht ohne zusätzliche Abrede um einen unbeschränkten Supportdienst erweitert. Nicht übertragbare Rechte und zwingende urheberrechtliche Ansprüche bleiben unberührt.
+
+### 30.3 Konkrete Offenlegung
+
+Die Offenlegung zu Garantie [OFFENLEGUNG-01] lautet [OFFENLEGUNG-02, konkrete Tatsachen]. Beleg [OFFENLEGUNG-03] war den bezeichneten Empfängern am [OFFENLEGUNG-04] in Fassung [OFFENLEGUNG-05] zugänglich. Ausmaß und erkennbare Folgen sind [OFFENLEGUNG-06]. Ein allgemeiner Verweis auf den gesamten Datenraum ersetzt diese Zuordnung nicht. Kenntnis einer Person wird einer anderen Partei nicht ohne die vereinbarte und rechtlich zulässige Zurechnungsregel zugeschrieben.
+
+Für die Vorgänge des Frühjahrs 2026 werden die Zahlungsunterlagen, die Stundung, die Brückendarlehen, die Rangvereinbarungen und die tatsächlich vorhandenen Beratungsunterlagen jeweils bezeichnet [OFFENLEGUNG-07]. Diese Offenlegung bestätigt weder eine bestehende noch eine ausgeschlossene Insolvenzreife. Unvollständige Bankausschnitte werden nicht als vollständiger Liquiditätsstatus bezeichnet. Eine Garantie zu einem historischen Zeitpunkt erhält einen bestimmten Erklärenden, Stichtag und Kenntnismaßstab.
+
+### 30.4 Garantieverfahren
+
+Garantiegeber [GARANTIE-01] erklärt gegenüber [GARANTIE-02] die konkret bezeichnete Garantie [GARANTIE-03] zum Stichtag [GARANTIE-04]. Die Garantie gilt [GARANTIE-05, unabhängig von Kenntnis oder nach genau bezeichnetem Kenntnismaßstab]. Offenlegungen nach [GARANTIE-06] begrenzen ihren Umfang. Haftungshöchstbetrag [GARANTIE-07], Einzelgrenze [GARANTIE-08], Gesamtgrenze [GARANTIE-09] und Verjährungsregel [GARANTIE-10] werden nur im rechtlich zulässigen Umfang vereinbart. Zwingend nicht beschränkbare Haftung bleibt unberührt.
+
+Der Anspruch wird mit Sachverhalt, betroffener Garantie und vorläufig bezifferter Folge mitgeteilt. Abhilfe, Drittanspruchsverteidigung und Informationszugang richten sich nach [GARANTIE-11]. Vergleichsabschlüsse mit einem Dritten dürfen nicht ohne die erforderliche Mitwirkung auf einen Garantiegeber abgewälzt werden. Ein wirtschaftlicher Nachteil wird nur einmal ausgeglichen; Anrechnungen und Versicherungsleistungen sind nachvollziehbar auszuweisen.
+
+## 31 Anlage 7 Gründerbindung und Erlösverteilung
+
+### 31.1 Gebundene Anteile
+
+Für Kunigunde werden ausschließlich die Anteile [BINDUNG-01] im Nennbetrag von [BINDUNG-02] EUR erfasst. Für Kilian gelten [BINDUNG-03] und [BINDUNG-04]. Beginn [BINDUNG-05], Gesamtdauer [BINDUNG-06], Anfangsfrist ohne Freigabe [BINDUNG-07] und anzurechnende Vorleistung [BINDUNG-08] werden ausdrücklich festgelegt. Nicht bezeichnete Altanteile unterliegen keinem Rückerwerbsrecht aus dieser Anlage. Eine Beschäftigungsunterbrechung wird nach ihrem vereinbarten Grund beurteilt und nicht automatisch einem schuldhaften Ausscheiden gleichgesetzt.
+
+Für jeden Ausscheidensfall sind Tatbestand [AUSSCHEIDEN-01], betroffene Anteile [AUSSCHEIDEN-02], Berechtigter [AUSSCHEIDEN-03], Ausübungsfrist [AUSSCHEIDEN-04], Bewertungsstichtag [AUSSCHEIDEN-05] und Preisformel [AUSSCHEIDEN-06] anzugeben. Tod, dauerhafte Krankheit, einvernehmlicher Wechsel, grundlose Abberufung und schwere schuldhafte Pflichtverletzung werden nicht durch dieselbe pauschale Preisfolge ersetzt. Eine streitige Pflichtverletzung darf nicht allein durch die am Rückerwerb interessierte Partei verbindlich festgestellt werden.
+
+### 31.2 Bewertung und Abwicklung
+
+Kann der Preis nicht anhand einer ausdrücklich vereinbarten und wirksamen Formel ermittelt werden, erfolgt die Bewertung durch [BEWERTUNG-01] nach [BEWERTUNG-02, Methode und Stichtag]. Die Bestellung bei fehlender Einigung ist in [BEWERTUNG-03] geregelt. Der Gutachter erhält die für die Bewertung erforderlichen Unterlagen beider Seiten. Offene Rechtsfragen werden nicht durch eine als rein rechnerisch bezeichnete Bewertung entschieden. Kosten und die gerichtliche Kontrolle richten sich nach der konkret vereinbarten Regel [BEWERTUNG-04].
+
+Die Zahlung erfolgt nach [ABWICKLUNG-01]. Bei Raten werden Laufzeit, Zins, Fälligkeiten und Sicherung unter [ABWICKLUNG-02] vollständig bestimmt. Gesetzliche Grenzen für den Erwerb eigener Anteile und Kapitalerhaltung bleiben unberührt. Eine unwirksame oder nicht finanzierbare Zahlungspflicht der Gesellschaft wird nicht automatisch durch eine persönliche Zahlungspflicht der anderen Gesellschafter ersetzt.
+
+### 31.3 Erlösbasis und Rang
+
+Als verteilbarer Erlös wird ausschließlich [ERLOES-01, konkret definierter Nettoerlös] erfasst. Abzüge für Transaktionskosten, Steuern, Fremdverbindlichkeiten, Einbehalte und andere Positionen ergeben sich aus [ERLOES-02]. Eine Rückzahlung von Darlehen und die Verteilung an Gesellschafter werden nicht doppelt vom selben Betrag vorgenommen. Bei einem Vermögensverkauf verbleibt der Erlös zunächst bei der Gesellschaft; Ausschüttung setzt die hierfür geltenden Voraussetzungen voraus.
+
+Für jede Klasse werden Berechtigte [PRAEFERENZ-01], tatsächliche Einzahlungen [PRAEFERENZ-02], anzurechnende Rückflüsse [PRAEFERENZ-03], Faktor [PRAEFERENZ-04], Teilnahme am Resterlös [PRAEFERENZ-05], Höchstbetrag [PRAEFERENZ-06] und Rang [PRAEFERENZ-07] verbindlich festgelegt. Gleichrangige unzureichend gedeckte Ansprüche werden nach [PRAEFERENZ-08, ausdrückliche Verteilungsregel] bedient. Die Bezeichnung ‚üblich‘ ersetzt keine Rangfolge.
+
+### 31.4 Wahlrechte und mehrstufiger Erlös
+
+Ein Berechtigter mit nicht teilnehmender Präferenz wählt nach dem vereinbarten Verfahren entweder diesen Vorrang oder die Beteiligung am Erlös nach der für den Verzicht vorgesehenen Quote. Wahlzeitpunkt [WAHL-01], Informationsbasis [WAHL-02], Bindung [WAHL-03] und Rechtsfolge einer ausbleibenden Erklärung [WAHL-04] werden festgelegt. Werden mehrere Wahlrechte ausgeübt, muss die Gesamtrechnung widerspruchsfrei sein. Die Addition voneinander unabhängig berechneter persönlicher Höchstbeträge ist keine vertragliche Verteilung.
+
+Bei Kaufpreiseinbehalten, späteren erfolgsabhängigen Beträgen oder nachträglichen Kürzungen wird eine kumulative Abrechnung geführt. Bereits erhaltene Beträge werden auf die Gesamtansprüche angerechnet. Regelung für spätere Zahlungen [NACHZAHLUNG-01], Rückforderungsfälle [NACHZAHLUNG-02], Verantwortlicher [NACHZAHLUNG-03] und Einsichtsrechte [NACHZAHLUNG-04]. Aus einer vorläufigen Abrechnung folgt keine Befreiung von ausdrücklich vereinbarten Nachberechnungen.
+
+## 32 Anlage 8 Altverträge, Beitritt und Unterzeichnung
+
+### 32.1 Ablösung bestimmter Altverträge
+
+Die Parteien [ALTVERTRAG-01] heben die Vereinbarung vom [ALTVERTRAG-02] mit Wirkung zum [ALTVERTRAG-03] ausschließlich im Umfang [ALTVERTRAG-04] auf. Fortbestehende Rechte und Pflichten sind [ALTVERTRAG-05]. Bereits entstandene Ansprüche werden [ALTVERTRAG-06, ausdrücklich vereinbarte Behandlung]. Ist eine erforderliche Partei nicht beteiligt oder eine Form nicht gewahrt, wird keine Ablösung bestätigt. Jede weitere Altvereinbarung erhält eine eigene gleich aufgebaute Erklärung.
+
+Das Term Sheet wird nur hinsichtlich der ausdrücklich bezeichneten verbindlichen Nebenabreden nach [ALTVERTRAG-07] abgelöst. Kostenpflichten, Vertraulichkeit und Ansprüche aus früheren Pflichtverletzungen werden gesondert behandelt. Eine vollständige Vertragsklausel verdrängt nicht ohne Weiteres Rechte außenstehender Gläubiger, vorbestehende Softwarelizenzen oder notarielle Anteilserklärungen. Ihr Verhältnis zur neuen Fassung wird jeweils konkret bezeichnet.
+
+### 32.2 Beitrittserklärung
+
+Der Erwerber [BEITRITT-01 mit vollständiger Identität] tritt mit Wirkung zum [BEITRITT-02] der Gesellschaftervereinbarung der SkyFade Robotics GmbH vom [BEITRITT-03 und Urkundenbezeichnung] bei. Der Beitritt bezieht sich auf die erworbenen Geschäftsanteile Nummern [BEITRITT-04] und die Klasse [BEITRITT-05]. Er umfasst die konkret zugeordneten Rechte und Pflichten nach [BEITRITT-06]. Persönliche Tätigkeitspflichten des Veräußerers und ausschließlich ihm erteilte Garantien werden nur bei ausdrücklicher und rechtlich zulässiger Übernahme unter [BEITRITT-07] übertragen.
+
+Die hierfür erforderlichen bisherigen Parteien [BEITRITT-08] und die Gesellschaft nehmen den Beitritt an. Erforderliche Zustimmungen, gesetzliche Form und die wirksame Anteilsübertragung bleiben Voraussetzungen der vorgesehenen Rechtswirkungen. Der Beitritt enthält weder eine Genehmigung früherer unbekannter Handlungen noch eine Garantie für die wirtschaftliche Entwicklung. Abschrift und aktualisierte Vertragsparteienliste werden sämtlichen Berechtigten übermittelt.
+
+### 32.3 Vollständige Abschlussfelder
+
+Ort und Datum der Beurkundung [ABSCHLUSS-01]. Notar und Urkundenbezeichnung [ABSCHLUSS-02]. Maßgebliche Vertragsfassung [ABSCHLUSS-03]. Vollständig einbezogene Anlagen mit Stand [ABSCHLUSS-04]. Noch erforderliche Genehmigungen und deren zulässige Behandlung [ABSCHLUSS-05]. Die endgültige notarielle Feststellung zu Identität, Vertretung, Belehrung, Verlesung und Unterzeichnung wird durch den beurkundenden Notar vorgenommen. Diese Ausfüllfelder enthalten keine bereits abgegebenen notariellen Feststellungen.
+
+Kunigunde Wolkenberger: [Unterschrift oder Vertreter und Vollmacht].
+
+Kilian Funkenschlag: [Unterschrift oder Vertreter und Vollmacht].
+
+Ottilie Trutz: [Unterschrift oder Vertreter und Vollmacht].
+
+ABC Ventures GmbH: [Vertreter, Funktion und Nachweis].
+
+DEF Partners GmbH: [Vertreter, Funktion und Nachweis].
+
+GHI Capital GmbH: [Vertreter, Funktion und Nachweis].
+
+JKL Fonds GmbH: [Vertreter, Funktion und Nachweis].
+
+SkyFade Robotics GmbH: [Gesondert bestätigte Vertretung und erforderlicher Beschluss].
+
+Weitere Partei einer gesonderten Darlehens- oder Rechtevereinbarung: [Name, ausdrücklich erfasste Vertragsnummern, Vertretung und Unterschrift]. Die Unterzeichnung einzelner Nebenvereinbarungen begründet keine unbezeichnete Beteiligung an sämtlichen übrigen Pflichten.

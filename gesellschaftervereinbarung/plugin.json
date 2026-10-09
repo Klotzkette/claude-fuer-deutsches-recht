@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gesellschaftervereinbarung",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Gesellschaftervereinbarungen fuer GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.",
   "author": {
     "name": "Klotzkette",

@@ -1,3 +1,9 @@
+# gesellschaftervereinbarung-v1.1.0 – 2026-10-09
+
+Die Berliner Drohnenfriseur-Akte wächst von 22 auf 46 Originaldateien. Die Vorgeschichte umfasst Vorgründung, UG-Gründung, gesonderte Rechtezuwendung, Barkapitalerhöhung zur GmbH, frühe Beteiligungsrunden, Brückendarlehen, Rangvereinbarungen und eine Zahlungsenge. Ein privates Darlehen mit streitiger Beteiligungsabrede bleibt anhand der Verträge und Korrespondenz auswertbar, ohne eine Lösung vorzugeben.
+
+Der Vertragsentwurf erhält 32 Kapitel, detaillierte ausfüllbare Anlagen und durchgängig Times New Roman 11 mit dezimaler Gliederung. Das Term Sheet und sieben Excel-Blätter stimmen historische Anteile, Tranchen, Darlehenszinsen und eine gesonderte Wandlungsvariante aufeinander ab. Gesamt-PDF sowie flache Original- und Einzel-PDF-Pakete werden erneuert. Der übrige Marketplace bleibt unverändert.
+
 # gesellschaftervereinbarung-v1.0.0 – 2026-10-09
 
 Neues Spezialplugin mit zehn Fachskills und einem Hauptskill für Gesellschaftervereinbarungen, drei eigenständigen Markdown-Prompts und einer Berliner Beteiligungsakte. Die 22 Originale enthalten ein erweitertes Term Sheet, einen ausformulierten ausfüllbaren Vertragsentwurf, Verhandlungskorrespondenz, gesellschaftsrechtliche Unterlagen und eine formelbasierte Kapitalplanung. Beide Tranchen und die noch offenen wirtschaftlichen Entscheidungen bleiben getrennt nachvollziehbar.

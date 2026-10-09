@@ -12,8 +12,8 @@ Beispiel: „Ich vertrete die beiden Gründer. Bereite aus dem Term Sheet eine G
 
 | Verwendung | Datei |
 | --- | --- |
-| Plugin mit elf Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/gesellschaftervereinbarung.zip) |
-| Portables Paket mit Hauptordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/gesellschaftervereinbarung-portable.zip) |
+| Plugin mit elf Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung.zip) |
+| Portables Paket mit Hauptordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung-portable.zip) |
 | Ausführlicher eigenständiger Workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md" download>Werkstatt-Prompt als Markdown</a> |
 | Kompakter Einstieg | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md" download>Schnellstart-Prompt als Markdown</a> |
 | Kernauftrag Term Sheet zum Vertrag | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md" download>Hauptproblem-Prompt als Markdown</a> |
@@ -38,7 +38,9 @@ Die drei Einzelprompts funktionieren unabhängig vom Plugin. Mini- und Hauptprob
 
 ## 4 Fallakte Drohnenfriseur Berlin
 
-Eine Berliner Robotikgesellschaft mit zwei Gründern verhandelt zehn Millionen Euro in zwei Tranchen mit bestehenden und neuen Investoren. Die 22 Originale enthalten einen erweiterten Term-Sheet-Entwurf, eine ausführliche bearbeitbare Vertragsfassung, gesellschaftsrechtliche Unterlagen, Korrespondenz, Technik- und Versicherungsunterlagen sowie eine Excel-Arbeitsmappe. Die Parteien sind nicht in allen Punkten einig; es gibt keine Musterlösung. [Dateiverzeichnis und Fallbeschreibung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md).
+Eine Berliner Robotikgesellschaft mit zwei Gründern verhandelt zehn Millionen Euro in zwei Tranchen mit bestehenden und neuen Investoren. Die 46 Originaldateien reichen von der Vorgründungsabrede über die UG, Rechteüberlassung und den Übergang zur GmbH bis zu früheren Finanzierungsrunden, Brückendarlehen und einer Liquiditätsenge. Ein privates Freundesdarlehen mit umstrittener Beteiligungsabrede ergänzt den aktuellen Verhandlungsstoff. Die Parteien sind nicht in allen Punkten einig; es gibt keine Musterlösung. [Dateiverzeichnis und Fallbeschreibung](../testakten/gesellschaftervereinbarung-drohnenfriseur-berlin/README.md).
+
+Die Word-Ausfüllfassung umfasst 32 Kapitel mit ausgearbeiteten Vertragsanlagen, zahlreichen bezeichneten Leerstellen und ausschließlich dezimaler Gliederung in Times New Roman 11. Das erweiterte Term Sheet liefert die Verhandlungsgrundlage. Die Excel-Datei enthält sieben Blätter: Kapital, Tranchen, Budget, Historie, Darlehen, Wandlung und Kontojournal. Historischer Bestand, geplante Runde und eine unverbindliche Wandlungsvariante bleiben getrennt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -46,9 +48,9 @@ Eine Berliner Robotikgesellschaft mit zwei Gründern verhandelt zehn Millionen E
 
 | Fassung | Download |
 | --- | --- |
-| Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) |
-| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
-| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
+| Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) |
+| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) |
+| Originaldateien | [Flaches Akten-ZIP mit Word, Excel, E-Mail, PDF, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
 
 Wählen Sie eine Fassung für Ihren Arbeitsordner. Das Originalformat-ZIP enthält zusätzlich die Gesamt-PDF als Lesefassung; bei Auswertung der Einzeldateien diese Lesefassung nicht nochmals mitladen. Dasselbe gilt für separat vorhandene E-Mail-Anhänge. Die Vertragsfassung ist ein fallbezogener Entwurf mit konkreten Ausfüllfeldern, nicht bereits beurkundet oder zur ungeprüften Unterzeichnung bestimmt. Die beiden ZIPs enthalten die zweisprachige README.txt; die PDF-Dateien keine zusätzlichen Warnseiten.
 
@@ -62,6 +64,6 @@ Das Plugin ersetzt weder individuelle Rechtsberatung noch notarielle Tätigkeit.
 
 Draft, negotiate and amend German GmbH shareholder agreements. Eleven focused skills connect intake, term sheets, capital and tranches, governance, transfers, founder arrangements, proceeds, intellectual property and notarial preparation. Start with the lead skill or use a specialist directly. The standalone workshop, quick-start and core-problem prompts are separate Markdown downloads, not automatically installed wrapper skills.
 
-The Berlin case includes editable drafts and mixed original records without a solution key. This is an experimental drafting aid, not legal advice, notarization or a guarantee of client compatibility. Confirm unresolved commercial choices and obtain the required professional review before execution.
+The Berlin case contains 46 mixed-format original files, including the pre-incorporation history, UG formation, capital increases, software rights, early financing, shareholder loans and a disputed private lender arrangement. The editable agreement has 32 chapters, detailed fillable schedules and decimal numbering in Times New Roman 11. A seven-sheet workbook separates historical capital, the proposed round, loan interest and an unagreed conversion scenario. There is no answer key. This is an experimental drafting aid, not legal advice, notarization or a guarantee of client compatibility. Confirm unresolved commercial choices and obtain the required professional review before execution.
 
 [Repository](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/gesellschaftervereinbarung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Alle Akten](../testakten/README.md)
