@@ -1,7 +1,7 @@
 name: Drohnenfriseur Berlin – Gesellschaftervereinbarung
 plugin: gesellschaftervereinbarung
 stand: '2026-10-09'
-description: Strukturprüfung der 22 Originaldateien und offene Kriterien für eine spätere Bearbeitung der Finanzierungsvereinbarung.
+description: Strukturprüfung der 46 Originaldateien und offene Kriterien für eine spätere Bearbeitung der Finanzierungsvereinbarung.
 pruefstatus: Die Dateiprüfungen bewerten ausschließlich den Bestand. Die fachliche Bewertung einer erzeugten Bearbeitung ist offen; eine neue juristische Prüfung oder Freigabe wird nicht behauptet.
 checks:
 - id: original-01-term-sheet
@@ -90,8 +90,104 @@ checks:
   path: 21_Terminnotiz.txt
 - id: original-22-finanzierungsplan
   check_type: file_exists
-  description: Die Arbeitsmappe zu Kapital, Tranchen und Budget ist vorhanden.
+  description: Die Arbeitsmappe zu Kapital, Tranchen, Budget, Historie, Darlehen, Wandlung und Kontojournal ist vorhanden.
   path: 22_Kapital_und_Finanzierungsplan.xlsx
+- id: original-23-gruenderabrede
+  check_type: file_exists
+  description: Die Vorgründungsabrede zum gemeinsamen Entwicklungsprojekt ist vorhanden.
+  path: 23_Gruenderabrede_Januar_2023.pdf
+- id: original-24-ug-gruendung
+  check_type: file_exists
+  description: Die Gründungs- und Registermitteilung zur UG ist vorhanden.
+  path: 24_UG_Gruendung_und_Registermitteilung.pdf
+- id: original-25-werkstattuebernahme
+  check_type: file_exists
+  description: Die Vereinbarung zur Übernahme der Werkstattnutzung ist vorhanden.
+  path: 25_Vertragsuebernahme_Werkstatt.pdf
+- id: original-26-rechtezuwendung
+  check_type: file_exists
+  description: Die Vereinbarung zur gesonderten Rechteüberlassung der Gründer ist vorhanden.
+  path: 26_Software_und_Zeichnungen_Einbringung.pdf
+- id: original-27-kapitalerhoehung-gmbh
+  check_type: file_exists
+  description: Die Mitteilung zur Barkapitalerhöhung und Firmenänderung ist vorhanden.
+  path: 27_Kapitalerhoehung_und_Firma_GmbH.pdf
+- id: original-28-angel-runde
+  check_type: file_exists
+  description: Die Vollzugsmitteilung zur Angel-Runde und neuen Anteilnummerierung ist vorhanden.
+  path: 28_Angel_Runde_und_Nummernfolge.pdf
+- id: original-29-fridolin-darlehen
+  check_type: file_exists
+  description: Der private Darlehensschein von Fridolin Fizzel ist vorhanden.
+  path: 29_Darlehensschein_Fridolin_Fizzel.pdf
+- id: original-30-runde-2025
+  check_type: file_exists
+  description: Die Dokumentation der Finanzierungsrunde vom März 2025 ist vorhanden.
+  path: 30_Finanzierungsrunde_Maerz_2025.pdf
+- id: original-31-brueckendarlehen
+  check_type: file_exists
+  description: Die Vereinbarung zu den vier einzelnen Brückendarlehen ist vorhanden.
+  path: 31_Brueckendarlehen_Gesellschafter.pdf
+- id: original-32-rangvereinbarung
+  check_type: file_exists
+  description: Die gesonderte Rangvereinbarung für ABC und DEF ist vorhanden.
+  path: 32_Rangvereinbarung_ABC_DEF.pdf
+- id: original-33-stundung
+  check_type: file_exists
+  description: Die angenommene Stundungsvereinbarung mit Spulenkranz ist vorhanden.
+  path: 33_Stundung_Spulenkranz.pdf
+- id: original-34-liquiditaetsbesprechung
+  check_type: file_exists
+  description: Das Protokoll der Liquiditätsbesprechung im Februar ist vorhanden.
+  path: 34_Liquiditaetsbesprechung_Februar.pdf
+- id: original-35-zahlungsjournal
+  check_type: file_exists
+  description: Die Erläuterung des Hauptkontojournals für Februar und März ist vorhanden.
+  path: 35_Zahlungsjournal_Februar_Maerz.pdf
+- id: original-36-fridolin-forderung
+  check_type: file_exists
+  description: Die Forderungsmitteilung von Fridolin Fizzel ist vorhanden.
+  path: 36_Fridolin_Forderungsmitteilung.pdf
+- id: original-37-softwarebestand
+  check_type: file_exists
+  description: Der technische Bestandsvermerk zu Software und Zeichnungen ist vorhanden.
+  path: 37_Softwareentwicklung_Arbeitsstand_2026.pdf
+- id: original-38-notariat-voreintragung
+  check_type: file_exists
+  description: Die E-Mail des Notariats zur Zeit zwischen Errichtung und Eintragung ist vorhanden.
+  path: 38_Notariat_UG_in_Gruendung.eml
+- id: original-39-fridolin-runde
+  check_type: file_exists
+  description: Fridolins E-Mail zur Finanzierungsrunde 2025 ist vorhanden.
+  path: 39_Fridolin_Runde_2025.eml
+- id: original-40-stundungsbestaetigung
+  check_type: file_exists
+  description: Die E-Mail zur bestätigten Stundung ist vorhanden.
+  path: 40_Stundung_Bestaetigung.eml
+- id: original-41-abc-bruecke
+  check_type: file_exists
+  description: Die E-Mail von ABC zur Brückenzahlung und gesonderten Rangvereinbarung ist vorhanden.
+  path: 41_ABC_Bruecke_und_Rang.eml
+- id: original-42-historie-kanzlei
+  check_type: file_exists
+  description: Die Übersendung der historischen Unterlagen an die Kanzlei ist vorhanden.
+  path: 42_Historie_an_Kanzlei.eml
+- id: original-43-darlehensbestand
+  check_type: file_exists
+  description: Die Übersicht der fünf Darlehen mit Zinsmethode, Fälligkeit und Rangdokument ist vorhanden.
+  path: 43_Darlehensbestand.csv
+- id: original-44-bankjournal
+  check_type: file_exists
+  description: Der tabellarische Ausschnitt des Hauptkontojournals ist vorhanden.
+  path: 44_Bankjournal_Fruehjahr.csv
+- id: original-45-kapitalhistorie
+  check_type: file_exists
+  description: Die registerbezogene Kapitalhistorie ist vorhanden.
+  path: 45_Kapitalhistorie.csv
+- id: original-46-fridolin-telefonnotiz
+  check_type: file_exists
+  description: Die Telefonnotiz zum Rückruf von Fridolin Fizzel ist vorhanden.
+  path: 46_Telefonnotiz_Fridolin.txt
 - id: fach-auftrag
   check_type: human_review
   description: >-
@@ -99,13 +195,17 @@ checks:
     die gemeinsame Beratung der beiden Gründer, ihre möglichen Interessengegensätze
     und die noch offenen Vollmachten, ohne Gesellschaft oder Investoren als
     mitbeauftragt anzusehen oder Unterlagen ungefragt weiterzuleiten?
+    Wird auch Fridolin nach Forderungsmitteilung und Telefonnotiz als gesonderter
+    Darlehensgeber ohne eigenes Kanzleimandat behandelt, dessen private Unterlagen
+    nicht ohne Befugnis an den Investorenverteiler weitergegeben werden?
   note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
 - id: fach-unterlagen
   check_type: human_review
   description: >-
     Werden Term Sheet, Ausfüllfassung, Gesellschaftsunterlagen und Korrespondenz
-    zuerst abgeglichen, die bestehende GmbH von überholten Gründungsangaben
-    unterschieden und offene Verhandlungsentscheidungen gezielt nachgefragt?
+    zuerst abgeglichen, historische Gründungsunterlagen zeitlich eingeordnet und
+    vom heutigen GmbH-Bestand unterschieden? Werden offene
+    Verhandlungsentscheidungen gezielt nachgefragt?
     Bleiben fünf Beiratssitze, ein möglicher unabhängiger Vorsitz, die verlangte
     Verlängerung der Exklusivität und die Rechte des Business Angels als
     abzustimmende Punkte sichtbar, während unabhängige Vertragsabschnitte
@@ -135,9 +235,13 @@ checks:
 - id: fach-rechte-und-meilensteine
   check_type: human_review
   description: >-
-    Werden Entwicklungsvertrag, Rechteverzeichnis und Pixelhagen-Nachtrag
-    abgeglichen und interne Nutzung, Nutzung im Kundenprodukt, Weitergabe,
-    vorbestehende Bibliothek und Rechte an Drittkomponenten unterschieden?
+    Werden die Rechtezuwendung von 2023, der technische Bestandsvermerk von 2026,
+    Entwicklungsvertrag, Rechteverzeichnis und Pixelhagen-Nachtrag abgeglichen?
+    Werden konkrete alte und neue Versionsstände, spätere Arbeitnehmerbeiträge,
+    CalSlot-Lizenznachweise sowie interne Nutzung, Nutzung im Kundenprodukt, Weitergabe,
+    vorbestehende Bibliothek und Rechte an Drittkomponenten unterschieden,
+    ohne Dateibesitz oder historische Überlassung als lückenlosen Nachweis
+    sämtlicher aktueller Produktrechte zu behandeln?
     Bleiben fehlende Nachweise und Vereinbarungen konkret offen, und werden
     technische Meilensteine mit Modellversuch, Versicherungsstand und
     Standortangebot abgestimmt, ohne umfassende Rechte oder eine Freigabe
@@ -154,4 +258,60 @@ checks:
     eindeutig eingeordnet und Haupttext sowie Anlagen auf Widersprüche geprüft,
     ohne Datenraum-PDFs als beurkundete Anlagen oder die offene Ausfüllfassung
     als unterschriftsreife Endfassung auszugeben?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-gruendungs-und-kapitalhistorie
+  check_type: human_review
+  description: >-
+    Ordnet die Bearbeitung Projektgemeinschaft, UG in Gründung, eingetragene UG
+    und die nach Kapitalerhöhung fortbestehende GmbH anhand der Unterlagen 23 bis
+    28, 38 und 45 zeitlich ein? Werden die ursprünglichen Projektbeiträge, die
+    beiden Bareinlagen von jeweils 500 EUR, die späteren Bareinzahlungen von
+    jeweils 12000 EUR und die gesonderte Rechtezuwendung von insgesamt 24000 EUR
+    getrennt geführt, ohne daraus doppelte Einlagen oder zusätzliche Anteile
+    abzuleiten? Werden Vertragsübernahmen mit ihren jeweiligen Zustimmungen
+    und die Neuordnung der Anteilnummern anhand der konkreten Nachweise
+    nachvollzogen, ohne einen Wechsel auf einen anderen Rechtsträger zu erfinden?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-fridolin-und-wandlung
+  check_type: human_review
+  description: >-
+    Werden Fridolins Darlehensschein, die Finanzierungsrunde 2025, seine damalige
+    E-Mail, die spätere Forderungsmitteilung und Telefonnotiz gemeinsam
+    ausgewertet? Wird der Ablagename Projektanleihe vom konkret vereinbarten
+    privaten Darlehen getrennt und die bereits erfolgte Runde 2025 als möglicher
+    Anknüpfungspunkt behandelt, ohne seine Nachricht automatisch als Verzicht
+    oder die Beteiligungsabrede als bereits vollzogenen Anteilserwerb zu deuten?
+    Bleiben Bezugsgröße des Abschlags, unterschiedliche historische
+    Ausgabebeträge, Zinseinschluss, verbleibende Forderung, Einigung und Form
+    ausdrücklich zu klären? Wird die gesonderte Wandlungsrechnung als Variante
+    geführt, ohne neue Anteile, veränderte Fälligkeit oder Beteiligung über
+    Ottilie als bereits vereinbart auszugeben?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-darlehen-und-rang
+  check_type: human_review
+  description: >-
+    Werden alle fünf Darlehensforderungen anhand der einzelnen Verträge,
+    Auszahlungen, Fälligkeiten und der Darlehensliste gesondert abgeglichen?
+    Entspricht die Zinsrechnung den vereinbarten tatsächlichen Tagen mit Nenner
+    365, einbezogenem Auszahlungstag, ausgeschlossenem Abrechnungstag und ohne
+    Zinseszins? Wird die gesonderte Rangvereinbarung nur auf die bezeichneten
+    ABC- und DEF-Forderungen einschließlich Zinsen und Kosten angewandt, ohne
+    sie als Erlass oder als Rangvereinbarung für Gründer und Fridolin zu behandeln?
+    Bleiben deren gesetzliche Einordnung und die jeweilige Durchsetzungssperre
+    gesondert prüfbedürftig, statt aus einer neuen Finanzierung automatisch
+    die Rückzahlung sämtlicher Darlehen freizugeben?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-liquiditaetschronologie
+  check_type: human_review
+  description: >-
+    Gleicht die Bearbeitung Stundungsvereinbarung, Bestätigung, Besprechungsnotiz,
+    Zahlungsjournal und Bankdaten stichtagsbezogen ab? Werden die einvernehmliche
+    Verschiebung der Spulenkranz-Forderung von 45000 EUR bis zum 30. April,
+    lediglich angekündigte Kundenzahlungen und die tatsächlichen vier
+    Darlehensgutschriften vom 2. März voneinander unterschieden?
+    Werden Zinsabgrenzungen nicht als Bankbewegungen und künftige Tranchen nicht
+    als vorhandenes Guthaben erfasst? Werden vollständige offene Posten,
+    weitere Konten, Kreditlinien und fehlende Nachweise gezielt angefordert,
+    bevor eine abschließende insolvenzrechtliche Einordnung erfolgt, statt den
+    positiven Ausschnitt des Kontojournals als ausreichende Entwarnung zu behandeln?
   note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.

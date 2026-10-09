@@ -21,7 +21,7 @@ from quality_lab import ROOT, LabError, load, marketplace, validate_focus_review
 # expliziten Dateistände sind keine neue juristische Vollprüfung. Änderungen
 # benötigen einen gezielten Abgleich; unbekannte Abweichungen bleiben Fehler.
 CURATED_CITATIONS = {
-    "gesellschaftervereinbarung": ("references/rechtsquellen.md", "3ca3ab029976acc5dbd67292c71cf3034d896e678fd8631e1de8421083b5a371"),
+    "gesellschaftervereinbarung": ("references/rechtsquellen.md", "eee336e3ace832e04f8c958b74c7cf2291a513ad73b0e7057dade483b4b90c3c"),
     "agb-werkstatt": ("references/arbeitsweise.md", "3187afd88f3b31e8774e70d4e5f941ec6420aa31e2666ddc8613f2aae97e1250"),
     "geldwaeschebeauftragter": ("references/zitierweise.md", "214a2330a21287e1dc54063c1ff3e12ec3382ea2fa40d3c65af29d86755ec288"),
     "ki-native-kanzlei": ("references/zitierweise.md", "de79fc80cb2e10433de15d0acd8d76ec1f0a6a66d4df7cbf6fdcadd550ffee58"),
