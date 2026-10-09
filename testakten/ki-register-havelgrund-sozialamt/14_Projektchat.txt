@@ -1,0 +1,13 @@
+Gemeinde Havelgrund, Projektchat Fallspur, Export 09.10.2026, Akte HG-26-104.
+
+30.09.2026 09:10 Ottilie: In der Eingangsliste bleiben alle sichtbar. Die Reihenfolge in 1.2 ist aber anders.
+30.09.2026 09:13 Noah: Der Reiter ist standardmäßig offen. Ich kann nicht belegen, dass jeder zurückschaltet.
+01.10.2026 15:20 Juna: Zwölf Fälle haben wenig deutschsprachigen Text. Fünf der neun Prioritätsabweichungen stammen aus dieser Gruppe.
+01.10.2026 15:22 Amira: Bitte keine Aussage über echte Bevölkerungsgruppen daraus machen. Die Fälle sind erfunden.
+05.10.2026 10:05 Winfried: Ich hatte nur die frühere Merkmalsliste. Zum Mitwirkungsverhalten brauche ich die Entwicklung.
+06.10.2026 14:45 Ottilie: Die Hotline des Anbieters ersetzt unseren Schalterweg nicht. Beschwerden kommen oft über andere Personen.
+07.10.2026 11:05 Noah: Korrektur: 57 verschiedene Originalfenster geöffnet, nicht 60. Drei waren doppelt.
+07.10.2026 11:12 Juna: Dann 23 Fälle nur in Kurzansicht. So habe ich im ersten Durchgang gearbeitet.
+08.10.2026 09:00 Amira: Die Februar-2028-Zeitpunkte sind nur das zukünftige Bereitschaftsplanspiel. Kein realer Vorfall!
+08.10.2026 09:04 Noah: Im Übungsjournal steht UTC, im Telefonentwurf Ortszeit. Ich lasse den Unterschied sichtbar.
+09.10.2026 08:15 Ottilie: Bitte die Registrierung und unseren örtlichen Ablauf getrennt zur Besprechung mitbringen.

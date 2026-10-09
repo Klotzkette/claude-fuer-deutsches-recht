@@ -6,17 +6,19 @@
     "verdict": "revised",
     "reason": "Individuelle Fachredaktion am amtlichen Volltext; kein behaupteter Live-Modelltest.",
     "changes": [
-      "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung."
+      "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
-    "sha256": "db26390c5484b01dec89f56538cf2ce4de32f2740b7e23893d4cb11a1c07375e"
+    "sha256": "df4c14bd79e5bcc76f33064c564f82c9f6b4e6f87d89be3fc1b03aa2cc7b0c67"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Zehn individuell ausgearbeitete Prüfabläufe, quellengebundene Entscheidung und vollständige Ergebnisprodukte. Kein tatsächlicher Portalversand getestet.",
     "changes": [
-      "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide."
+      "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
-    "sha256": "2dc87ff4c45bcda63e8009274abc31c186320041a5105bbf16c2b13935fef7a8"
+    "sha256": "d9d8f16eb502dd1460fac704b6c03bcdfe072584dac51312bcc3969b8bcfb81b"
   },
   "selection": {
     "target_skill": "register-und-meldung-loesen",
@@ -34,6 +36,26 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
       "checked_on": "2026-10-09",
       "supports": "Gelesene einschlägige Artikel und Anhänge in aktueller konsolidierter Fassung."
+    },
+    {
+      "url": "https://www.iso.org/standard/42001",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: Managementsystem, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/42005",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: Folgenabschätzung, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/42006",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog: AIMS-Zertifizierungsstellen, Ausgabe und Status; kein Normvolltext."
+    },
+    {
+      "url": "https://www.iso.org/standard/84127.html",
+      "checked_on": "2026-10-09",
+      "supports": "Öffentlicher Katalog und Abstract: KI-Testansätze, Ausgabe und Status; kein Normvolltext."
     }
   ],
   "cases": [
@@ -247,12 +269,13 @@
     "verdict": "revised",
     "reason": "Hauptproblem gegen die zehn fachlichen Wege, amtlichen Wortlaut und konkrete Produkt-/Fortsetzungslogik gegengelesen; kein behaupteter Modelllauf.",
     "changes": [
-      "Zeitrecht, Rollen, konkrete Ergebnisse und nachvollziehbare externe Handlung getrennt."
+      "Zeitrecht, Rollen, konkrete Ergebnisse und nachvollziehbare externe Handlung getrennt.",
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
     ],
     "prompt_path": "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md",
     "skill_path": "ki-verordnung-register-meldungen/skills/register-und-meldung-loesen/SKILL.md",
-    "prompt_sha256": "80d03ed4f0f2e36300f4af0a27950ff79375e8cd8e24245ae4f6062b01b1f2b0",
-    "skill_sha256": "de813f86e9bf4b53214c6ff1bdcc88a919dff69c40e94d8328c1e9767ce57208"
+    "prompt_sha256": "0fa46c20cd3ae2a7cee780130b7d305c650b7a87223e06c75fc0bb12550af9ff",
+    "skill_sha256": "f0733336dae1a836e93a919750533add2ae44554c603d18e0e65a3903ad61809"
   },
   "prompt_workflow_review": {
     "method": "desk_review",
@@ -289,6 +312,18 @@
         "limit": "Zeitrecht und tatsächliche Anbieterrolle gesondert; keine erdachte Gerichtsentscheidung.",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727"
       }
+    ]
+  },
+  "technical_evidence_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "test_anchor_path": "ki-verordnung-register-meldungen/references/testanker.md",
+    "test_anchor_count": 5,
+    "test_anchor_sha256": "56087945b5feb1e2ef6e7921f2bb5e0a1555968ce570b231290eeb883a3d6d42",
+    "source_log_path": "ki-verordnung-register-meldungen/references/quellenabruf-normen.md",
+    "limits": [
+      "Kein Normvolltext oder konkreter Amtsblatt-Referenzakt als geprüft behauptet.",
+      "Kein ausgeführter Modelltest, technischer Systemtest oder Portalvorgang behauptet."
     ]
   }
 }

@@ -34,6 +34,10 @@ Wählen Sie die einschlägigen Fachschritte aus der folgenden Zuordnung. Überge
 - [Konformitätserklärung CE und Registrierung vorbereiten](../erklaerung-ce-und-registrierung/SKILL.md): Vollständig ausformulierter Erklärungsentwurf, CE-Umsetzungsanweisung, Registrierungsübergabe und Freigabevermerk.
 - [Änderungen und Marktbeobachtung mit der Konformität verbinden](../aenderungen-und-marktbeobachtung/SKILL.md): Änderungsbewertung, aktualisierter Marktbeobachtungsplan, Nachtestauftrag und gegebenenfalls getrennte Vorfallmeldung.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Lösen Sie eine Normenbehauptung über die [technische Nachweismatrix](../../references/technische-normen.md): gesetzliche Anforderung, konkretes System und Version, technische Methode, tatsächlich geprüfter Beleg und Rechtsfolge. Die Auswahl einer Norm ersetzt weder die Verfahrensentscheidung noch das bestellte Dossier. Prüfen Sie die fünf [Testanker](../../references/testanker.md) als gezielte Änderungen nur der jeweils entscheidenden Tatsache; begründen Sie den Unterschied im fertigen Produkt.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

@@ -47,6 +47,8 @@ Dieser Skill arbeitet nicht als abstraktes Merkblatt. Er zwingt die Nutzerin ode
 - Zahlen, Fristen oder Zuständigkeiten werden aus alten Templates übernommen, ohne den aktuellen Sachstand zu prüfen.
 - Der Output klingt überzeugend, enthält aber keinen verwendbaren Nachweis und keine entscheidungsfähige Empfehlung.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Führen Sie Cybervorfall, Datenschutzverletzung und schwerwiegenden KI-Vorfall in getrennten Prüfspuren. Ein gemeinsamer Zeitstrahl erleichtert den Abgleich, setzt aber die gesetzlichen Voraussetzungen und Empfänger nicht gleich. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Ergebnisformat
 
 Erzeuge bevorzugt: KI-Nutzungsrichtlinie. Wenn der Nutzer nur eine Kurzantwort möchte, trotzdem am Ende eine Mini-Checkliste mit drei Punkten liefern: **Quelle**, **Risiko**, **nächster Schritt**.

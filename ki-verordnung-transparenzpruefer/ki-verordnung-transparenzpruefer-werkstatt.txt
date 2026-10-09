@@ -125,3 +125,9 @@ Die Freigabe ist versions- und kanalbezogen. Prüfe erste Wahrnehmung, Verständ
 Nach Randnummer 143 jede neu hinzutretende Person und einen vorhersehbaren Einstieg mitten in einen Stream berücksichtigen. Ein Vorspann allein erreicht möglicherweise weder diese Zuschauer noch Empfänger eines ausgeschnittenen Clips. Prüfe konkrete Ausschnitte, Vorschaubilder und Vertriebspartner; schreibe angemessene zusätzliche Platzierungen aus, ohne eine pauschale Dauereinblendung für sämtliche Medien zu erfinden.
 
 Die letzte Antwort nennt kurz das Ergebnis, offene entscheidende Bedingungen und die tatsächliche Datei. Interne Recherche- und Prüfprotokolle gehören nicht ungefragt in den Empfängertext. Für Quellen gilt [Zitierweise](references/zitierweise.md). Fachskills aus dem Plugin sind optionale Vertiefungen; die Bearbeitung bleibt mit dieser Werkstatt vollständig ausführbar.
+
+## 10. Tatbestandsbezogene Gegenprüfung
+
+Prüfe die Ausnahme an der einzelnen Bearbeitungsfunktion: neue Tatsachen sind keine bloße Sprachkorrektur. Markierung bestätigt künstliche Bearbeitung, nicht Wahrheit oder Rechtefreiheit; fehlender Detektionstreffer kann auch Exportverlust bedeuten. Offensichtlichkeit muss bereits beim Interaktionsbeginn aus dem Kontext folgen. Die Strafverfolgungsausnahme des Absatzes 1 greift nicht für öffentlich verfügbare Anzeigenportale; Ausnahmen absatzbezogen lesen.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

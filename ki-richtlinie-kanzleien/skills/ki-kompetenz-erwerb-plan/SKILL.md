@@ -23,6 +23,8 @@ Nutze Toolfreigaben, Mandatsabläufe, vorhandene Schulungen, Befugnisse und beob
 6. Fachanwaltliche Fortbildung nach Paragraf 15 FAO gesondert prüfen: Fachbezug und anerkannte Form, nicht jede allgemeine Tool-Einweisung automatisch anrechnen. Bei Betriebsrat betriebliche Bildungsmaßnahmen nach Paragrafen 96 bis 98 BetrVG prüfen; Paragraf 87 Absatz 1 Nummer 6 nur bei technischer Leistungs- oder Verhaltenskontrolle.
 7. Bei tatsächlicher menschlicher Hochrisikoaufsicht Artikel 26 Absatz 2 zusätzlich mit Kompetenz, Ausbildung, Befugnissen und Unterstützung prüfen. Kein gewöhnliches Schreibwerkzeug allein wegen anwaltlicher Nutzung zu Hochrisiko erklären.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte, Abschnitt 1.2](../../references/digitaler-omnibus-2026.md), Artikel 4 neuer Fassung, Artikel 3 Nummer 56 und Artikel 26 Absatz 2. Paragrafen 43, 43a und 43e BRAO bleiben eigenständige Prüfungen. [Zitierweise](../../references/zitierweise.md).

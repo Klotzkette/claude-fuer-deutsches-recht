@@ -35,6 +35,8 @@ Kläre Zweck und tatsächliche Verarbeitung der Handykamera-Aufnahmen, Verantwor
 
 Erstelle einen Plan mit bestätigten Voraussetzungen, offenen Einordnungen, zuständigen Stellen, erforderlichen Fachnachweisen und sinnvollen Parallelaufgaben. Bei Unsicherheit entwirf eine sachlich konkrete Behörden- oder Fachanfrage und führe die rechtlich unabhängigen Gründungsteile weiter. Behaupte weder Genehmigung noch generelles Verbot ohne konkrete Grundlage. Melde nur solche Vorgänge extern, die tatsächlich beauftragt sind.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Klären Sie vor einer Konformitätszusage die geplante Produktversion, Zweckbestimmung und Rolle der Gesellschaft. Eine Satzung oder Beteiligungsvereinbarung kann Produktprüfung und technische Nachweise nicht ersetzen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Lies [Status, Register und Produkt](../../references/status-register-produkt.md). Nutze aktuelle amtliche EU-/EUR-Lex-, EASA-/LBA-, Gewerbe-/Handwerks-, Datenschutz- und Behördenquellen für den konkreten Zweig. Die dort dokumentierte KI-Rechtslage und etwaige Änderungen müssen nach Geltung und Anwendungsbeginn unterschieden werden. Gesellschaftsrechtliche Anker aus [Gesellschaftsrecht](../../references/gesellschaftsrecht.md) ersetzen keine produktrechtliche Prüfung.

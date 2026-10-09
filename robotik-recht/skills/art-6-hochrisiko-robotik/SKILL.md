@@ -24,6 +24,8 @@ Funktionsbeschreibung, Sicherheitskonzept, Fehlermöglichkeiten, Herstellererkl�
 7. Zuständige Stelle aus dem tatsächlichen Produkt- und Systemregime bestimmen. Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde, nicht pauschal Marktüberwacher aller Maschinen. Sektorale Produktaufsicht und Länderzuständigkeit zuerst abgrenzen.
 8. Nachweisproblem präzisieren: Welcher Ausfallpfad und welche Sicherheitsfunktion tragen die Einordnung? Betriebsanleitung gegen tatsächliche Konfiguration und vorhersehbare Fehlanwendung halten. Bei Unklarheit konkrete technische Nachweise anfordern, keine pauschale vorsorgliche Zertifizierung empfehlen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md), Artikel 2 und 6, Anhänge I und III, Verordnung (EU) 2023/1230 in aktueller Fassung sowie Paragraf 2 KI-MIG. Eine Ermächtigung zu künftigen delegierten Rechtsakten ist noch keine geltende Befreiung.

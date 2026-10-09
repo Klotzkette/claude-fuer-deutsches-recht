@@ -147,5 +147,12 @@
     "continuation": "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
     "enrichment": "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie bei der Anwendung für Insolvenz- und Restrukturierungsentscheidung technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

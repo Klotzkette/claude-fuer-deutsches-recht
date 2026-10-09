@@ -206,3 +206,9 @@ English: Complete list of all 69 skills in this plugin. Both links in each row d
 | [`zuweiserverguetung-antikorruption-299a-299b-stgb`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/skills/zuweiserverguetung-antikorruption-299a-299b-stgb/SKILL.md) | Für Zuweiservergütung Antikorruption Paragrafen 299a 299b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhausrecht/skills/zuweiserverguetung-antikorruption-299a-299b-stgb/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Klären Sie, wer das KI-System beschafft, in medizinische Abläufe einbindet und ändert. Dokumentierte klinische Verantwortlichkeiten und KI-Anbieterrollen müssen am realen Ablauf geprüft werden.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

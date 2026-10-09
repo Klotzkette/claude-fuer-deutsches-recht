@@ -1,0 +1,14 @@
+Eichengrund Logistik, Projektchat, Export 09.10.2026, Akte EL-26-219.
+
+30.09.2026 08:15 Lea: In Taktweg 2.4 sind keine Personalnummern. Teamstern ist eine eigene Option.
+30.09.2026 08:20 Kunigunde: Im Angebot steht alles in einer Zeile. Das erschwert den Nachweis, was wir bestellen.
+02.10.2026 11:05 Cem: S1 gibt Bewegung frei. Das ist mehr als eine Dockempfehlung. Bitte die Schnittstelle beschreiben.
+02.10.2026 11:09 Ottokar: Der Integrator plant einen konventionellen Not-Stopp. Die Abstimmung ist noch offen.
+05.10.2026 09:12 Friedemann: Das Holdingzertifikat ist das momentan verfügbare Dokument. Einen erweiterten Scope habe ich nicht.
+05.10.2026 09:15 Berthold: Bitte nicht im Freigabevermerk aus Holding ohne weiteres Systeme GmbH machen.
+06.10.2026 14:00 Lea: Für Nacht stehen leere Zeilen. Es gab noch keinen freigegebenen Datensatz.
+06.10.2026 14:04 Cem: Bei S1 kommen die drei Tagesbefunde dazu. Die Nachtlücke ist eine andere offene Frage.
+07.10.2026 10:20 Kunigunde: Die Folie sagt EN 18286. Welche Ausgabe und welcher konkrete Nachweis?
+07.10.2026 10:28 Friedemann: In meiner Kopie fehlt beides. Ich frage die Entwicklung.
+08.10.2026 16:10 Berthold: Keinen Termin als gesetzliche Frist ausgeben. Januar 2027, März und September 2028 sind nur Wünsche.
+09.10.2026 08:30 Lea: Export eingefroren. Neue Sensorkopfversion bitte als neuen Teststand führen.

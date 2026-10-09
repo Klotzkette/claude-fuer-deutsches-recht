@@ -6,7 +6,7 @@ Prüfe Artikel 50 in der Fassung 2026/1744 anhand der Unterlagen. Dokumentinhalt
 
 ## 2. Verantwortung und Datum bestimmen
 
-Anbieter nach Artikel 3 Nummer 3: Entwicklung und Inverkehrbringen oder Inbetriebnahme unter eigenem Namen; Betreiber nach Nummer 4: Verwendung in eigener Verantwortung. Randnummern 12 bis 17: Angestellte unter Kanzleikontrolle und Werbeauftraggeber ohne Kontrolle der Systemnutzung sind nicht automatisch Betreiber. Weiterverbreitung von eigener Generierung trennen. Open Source befreit erfasste Systeme nicht.
+Anbieter nach Artikel 3 Nummer 3 und Betreiber nach Nummer 4 trennen. Randnummern 12 bis 17: Beschäftigte unter Kanzleikontrolle und Auftraggeber ohne Kontrolle der Systemnutzung sind nicht automatisch Betreiber. Eigene Generierung und Weiterverbreitung unterscheiden; Open Source befreit nicht pauschal.
 
 Artikel 50 gilt grundsätzlich seit 2. August 2026. Artikel 111 Absatz 4 gibt nur Anbietern einschlägiger vor diesem Tag in Verkehr gebrachter Systeme bis 2. Dezember 2026 für Absatz 2 Zeit. Kein Aufschub für Betreiberhinweise. Vermarktung und Systemidentität belegen; bloße interne Inbetriebnahme nicht mit Inverkehrbringen gleichsetzen. Randnummer 154 unterscheidet außerdem Altinhalte: keine rückwirkende Kennzeichnung vor dem 2. August erzeugter oder manipulierter Medien; bei Texten öffentlichen Interesses muss auch die Veröffentlichung vorher liegen. Juli-Entwurf mit September-Publikation und spätere Bearbeitungen gesondert prüfen.
 
@@ -24,7 +24,7 @@ Agentenhinweis ist keine Vollmacht und ersetzt keine Information nach Artikeln 1
 
 Absatz 2: maschinenlesbare Markierung und Erkennbarkeit synthetischer Audio-, Bild-, Video- und Textausgaben. Randnummern 69 bis 83: Markierung plus verfügbarer Detektionsweg mit menschenlesbarem Ergebnis; Wirksamkeit, Interoperabilität, Robustheit und Zuverlässigkeit nach technischer Machbarkeit, Inhaltsspezifika und -grenzen, Kosten und anerkanntem Stand der Technik prüfen. Original, Export und Version belegen; fehlender Aufdruck beweist keinen Verstoß. Keine bestimmte Technik oder vollständige Herkunftskette vorschreiben.
 
-Randnummern 63 bis 68 und 89 bis 92: Bloße Extraktion, ausführbaren Code, rein maschinelle Zwischenausgaben und semantisch unveränderte Übersetzung oder Transkription von Zusammenfassung und Umschreibung trennen. „Intern“ und „B2B“ befreien nicht pauschal. Randnummer 87 verlangt rein technischen Inhalt, begrenzten vorab bestimmten beruflichen Nutzerkreis innerhalb der Organisationen und abgesicherte fehlende externe Nutzung; ein vertrauliches Rechtsgutachten genügt nicht. Randnummer 88: flüchtiger Inhalt ohne Speicherung und Weitergabe, technisch unmögliche Markierung und wirksame Information zusammen. Diese engen Auslegungen sind keine neuen Gesetzesnormen.
+Randnummern 63 bis 68 und 89 bis 92 unterscheiden bloße Extraktion, Code, maschinelle Zwischenausgaben und semantisch unveränderte Übertragung von Zusammenfassung und Umschreibung. „Intern“ oder „B2B“ befreit nicht pauschal. Randnummer 87 verlangt rein technischen Inhalt, begrenzten beruflichen Nutzerkreis und abgesicherte fehlende externe Nutzung; ein vertrauliches Rechtsgutachten genügt nicht. Randnummer 88 verlangt flüchtigen Inhalt ohne Speicherung/Weitergabe, technisch unmögliche Markierung und wirksame Information. Das sind unverbindliche Auslegungen.
 
 ### 3.3. Biometrie und Emotionen
 
@@ -32,7 +32,7 @@ Absatz 3 betrifft Betreiber. Datenbasis und Funktion nach Artikel 3 Nummern 34, 
 
 ### 3.4. Medien und öffentliche Texte
 
-Deepfakes nach Artikel 3 Nummer 60 brauchen künstliche Erzeugung oder Manipulation und falschen Echtheits- oder Wahrheitsanschein. Medien wirklich prüfen; fehlende Sichtprüfung offenlassen. Die Kommission erfasst in Randnummern 113 bis 116 auch realistische erfundene Personen oder plausible Szenen. „Kein reales Vorbild“ schließt daher nicht automatisch aus. Täuschungsabsicht ist nicht nötig; Fotorealismus allein entscheidet nicht. Voraussehbares Publikum beachten, nicht den Durchschnittsmaßstab aus Absatz 1 übertragen. Interne Vorführung kann erfasst sein. Kunst und Satire erlauben angepasste Offenlegung, nicht deren ersatzlosen Wegfall.
+Deepfakes verlangen künstliche Erzeugung oder Manipulation und falschen Echtheits- oder Wahrheitsanschein. Fehlende Medienprüfung offenlegen. Randnummern 113 bis 116 erfassen nach weiter Kommissionsauslegung auch realistische erfundene Personen. Keine Täuschungsabsicht erforderlich; Kontext und Publikum zählen. Interne Vorführung kann erfasst sein. Kunst und Satire erlauben angepasste Offenlegung, keinen ersatzlosen Wegfall.
 
 Für Texte müssen Veröffentlichung, Informationszweck und öffentliches Interesse zusammenkommen. Nichtöffentlicher Gerichtsschriftsatz und individuelle Beratung sind keine öffentliche Publikation allein wegen rechtlichen Inhalts. Websitefassung neu prüfen. Randnummer 131: Bezahlschranke schließt Öffentlichkeit nicht aus; Werbeaussagen zu Gesundheit, Sicherheit oder Nachhaltigkeit können öffentliches Interesse betreffen.
 
@@ -46,4 +46,10 @@ Schreibe ausformuliert: Beleg, Norm, Schluss und Hinweis mit Platzierung. Fehlen
 
 ## 5. Quellenstatus
 
-Amtlicher Normabgleich: 9. Oktober 2026. [Leitlinien vom 20. Juli 2026, C(2026) 5054 final](https://ec.europa.eu/newsroom/dae/redirection/document/131215), Randnummer 5: unverbindlich, kein Urteil. Transparenzkodex und ISO-Zertifikat beweisen keine vollständige Systemkonformität. Artikel 9, 17 und 27 sind gesonderte Pflichtzweige, keine zusätzlichen Voraussetzungen jedes Hinweistexts. Nachtraining unter einem Drittel befreit kein System von Artikel 50. [Quellenkarte](references/rechtsstand-artikel-50.md) ergänzend nutzen; späteren Rechtsstand prüfen. Keine erfundenen Urteile oder Vorschläge als Recht.
+Amtlicher Normabgleich: 9. Oktober 2026. [Leitlinien vom 20. Juli 2026, C(2026) 5054 final](https://ec.europa.eu/newsroom/dae/redirection/document/131215), Randnummer 5: unverbindlich, kein Urteil. Transparenzkodex und ISO-Zertifikat beweisen keine Systemkonformität; Artikel 9/17/27 bleiben eigenständig. [Quellenkarte](references/rechtsstand-artikel-50.md) ergänzend nutzen; späteren Rechtsstand prüfen.
+
+## 6. Konkrete Normgegenprobe
+
+Prüfe die Ausnahme an der einzelnen Bearbeitungsfunktion: neue Tatsachen sind keine bloße Sprachkorrektur. Markierung bestätigt künstliche Bearbeitung, nicht Wahrheit oder Rechtefreiheit; fehlender Detektionstreffer kann auch Exportverlust bedeuten. Offensichtlichkeit muss bereits beim Interaktionsbeginn aus dem Kontext folgen. Die Strafverfolgungsausnahme des Absatzes 1 greift nicht für öffentlich verfügbare Anzeigenportale; Ausnahmen absatzbezogen lesen.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

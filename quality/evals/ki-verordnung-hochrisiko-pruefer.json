@@ -8,9 +8,10 @@
     "changes": [
       "Produktpfad einschließlich Absätze 1a bis 1c und Berichtigung ungeachtet ausdrücklich subsumieren.",
       "Justizassistenz, Medizinprodukt, alle Anhang-III-Bereiche und begrenzte Zeitverschiebung konkret eingebaut.",
-      "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale."
+      "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale.",
+      "Verifizierte Rechtsprechung in konkrete Argumente und Belegänderungen übersetzt; Artikel 22 DSGVO, Profiling und Erklärungspflichten getrennt."
     ],
-    "sha256": "5a3af10a5173566ac787b5ab17ad52e661f52c847bf418411e5499a81989a644"
+    "sha256": "766450c5f033a04a97376fd64e6b28575ae282a8677c41fe0fcf29c16cfce615"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -18,9 +19,10 @@
     "changes": [
       "Produktpfad einschließlich Absätze 1a bis 1c und Berichtigung ungeachtet ausdrücklich subsumieren.",
       "Justizassistenz, Medizinprodukt, alle Anhang-III-Bereiche und begrenzte Zeitverschiebung konkret eingebaut.",
-      "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale."
+      "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale.",
+      "Verifizierte Rechtsprechung in konkrete Argumente und Belegänderungen übersetzt; Artikel 22 DSGVO, Profiling und Erklärungspflichten getrennt."
     ],
-    "sha256": "e8471303f33bd73a48c693b452b086f01efe052cf41225343d22fe4720fbaff4"
+    "sha256": "ae65a2edc8b2c2481bc9a2573fe708d91db3b27c4f5c0ca38121e9af1db61a81"
   },
   "selection": {
     "target_skill": "hochrisikofrage-loesen",
@@ -135,6 +137,41 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02017R0745-20250110",
       "checked_on": "2026-10-09",
       "supports": "Gelesen: Artikel 51/52 und Anhang VIII Regel 11 als Produktpfad-Prüfanker. Keine Behauptung einer vollständig nachgeprüften MDR-Fassung 2026; aktuelle Klassifizierung und Bewertungsweg bleiben im Fall offen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=DE",
+      "checked_on": "2026-10-09",
+      "supports": "Artikel 15 Absatz 1 Buchstabe h DSGVO verlangt eine verständliche Erklärung des konkret angewandten Verfahrens, der Daten und Grundsätze (Rn. 58–61, 66). Eine Formel oder vollständige Schrittliste genügt nicht. Rn. 62 nennt die Wirkung geänderter Eingabedaten als mögliche Erklärung. Rn. 70–76 verlangen bei Geheimnissen eine konkrete Abwägung durch Aufsicht oder Gericht und keine pauschale Auskunftssperre.",
+      "read_paragraphs": "46–66; 67–76",
+      "limit": "Keine unmittelbare Auslegung der Artikel 6, 13, 50 oder 86 KI-VO; kein stets geschuldeter Quellcode und kein allgemeines Recht auf Offenlegung sämtlicher Trainingsdaten; Gegenfaktualbeispiel ist keine universelle Pflichtmethode."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=280426&doclang=DE",
+      "checked_on": "2026-10-09",
+      "supports": "Rn. 43 nennt die drei Voraussetzungen von Artikel 22 Absatz 1 DSGVO. Nach Rn. 48–50 ist bereits der Score eine Entscheidung, wenn die Kreditentscheidung des Dritten maßgeblich davon abhängt. Rn. 61–63 verhindern, dass arbeitsteilige Vorbereitung die Schutzrechte leerlaufen lässt. Rn. 53–55 und 64 lassen die gesetzlichen Ausnahmen und Garantien gesondert prüfen.",
+      "read_paragraphs": "43–55; 60–64",
+      "limit": "Keine unmittelbare KI-VO-Systemdefinition, Hochrisikoeinstufung oder Auslegung der Ausnahme aus Artikel 6 Absatz 3. Nicht jedes Ranking ist allein dadurch ausschließlich automatisierte Entscheidung; tatsächlicher Einfluss ist festzustellen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=261282&doclang=DE",
+      "checked_on": "2026-10-09",
+      "supports": "Rn. 194–195 begrenzen im PNR-Kontext selbstlernende Systeme, die ohne menschliche Kontrolle Kriterien oder Gewichtungen ändern. Rn. 197 erfasst auch mittelbare Diskriminierung durch neutrale Kriterien. Rn. 200–201 verlangen entlastende Faktoren und Überprüfung von Fehlertreffern. Rn. 205–211 verlangen objektive Einzelkontrolle, Dokumentation und wirksame Nachprüfung.",
+      "read_paragraphs": "179–180; 193–211",
+      "limit": "Spezifische Auslegung der PNR-Richtlinie im Licht der Grundrechtecharta; kein branchenübergreifendes Verbot lernender KI und keine unmittelbare Recruiting- oder Biometrieklassifizierung nach KI-VO. Übertragung nur als kenntlich gemachte Kontroll- und Nachweisfrage."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=283443&doclang=DE",
+      "checked_on": "2026-10-09",
+      "supports": "Rn. 70, 73–76 erläutern die unionsrechtliche Wirkung harmonisierter Normen, die Rolle der Kommission und die an gesetzliche Regeln gebundene Konformitätsvermutung. Rn. 80–85 tragen ein überwiegendes öffentliches Interesse am Zugang zu den angeforderten harmonisierten Normen nach Verordnung 1049/2001.",
+      "read_paragraphs": "70–85",
+      "limit": "Keine Konformitätsfreigabe für KI-Systeme; keine Vermutungswirkung beliebiger ISO-Zertifikate, keine Entscheidung über eine konkrete KI-Norm oder sämtliche Rechte zur Weiterverbreitung von Normtexten."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303866&doclang=DE",
+      "checked_on": "2026-10-09",
+      "supports": "Rn. 56 verlangt Datenschutzverstoß, tatsächlich entstandenen Schaden und Kausalzusammenhang. Rn. 58 kennt keine Bagatellschwelle. Rn. 60–62 lassen nachgewiesenen Kontrollverlust oder begründete, durch den Verstoß verursachte negative Gefühle genügen, ohne zusätzliche spürbare Folgen zu verlangen. Rn. 73 schließt Verschuldensgrad als Bemessungskriterium aus.",
+      "read_paragraphs": "53–63; 65–79",
+      "limit": "Kein allgemeiner KI-Haftungstatbestand, kein automatischer Geldanspruch nach jedem Fehler, keine Entscheidung über AGG-Beweislast oder Meldepflicht nach Artikel 73 KI-VO."
     }
   ],
   "cases": [
@@ -644,6 +681,182 @@
           ]
         }
       ]
+    },
+    {
+      "id": "argumentanker-score-mensch-profiling",
+      "request": "Ein Recruitingdienst bewertet die persönliche Eignung und zeigt nur die fünf höchsten Scores. HR bestätigt diese Liste ohne Zugriff auf ausgeschlossene Bewerbungen. Ein Nachtrag belegt für die neue Version vollständige Originalsichtung vor jeder Entscheidung, ausreichende Prüfzeit, eigene Auswahlgründe und wirksame Übersteuerung; die persönliche KI-Bewertung bleibt bestehen. Erstellen Sie: Einstufungsfortschreibung und gezieltes Anbieteranschreiben.",
+      "target_skill": "ausnahmebegruendung-artikel-6",
+      "input_files": [],
+      "deliverables": [
+        "Einstufungsfortschreibung.docx",
+        "Anbieteranschreiben.docx"
+      ],
+      "criteria": [
+        {
+          "id": "begruendete-fortschreibung",
+          "text": "Der Artikel-22-Befund wird anhand der tatsächlichen maßgeblichen Wirkung neu geprüft. Eine fortbestehende persönliche Bewertung innerhalb Anhang III Nummer 4 bleibt bei Artikel 6 Absatz 3 gesondert relevant; echte menschliche Kontrolle beseitigt die Profiling-Sperre nicht automatisch. Der Befund darf weder unverändert bleiben noch pauschal in eine Freistellung kippen.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        },
+        {
+          "id": "quellengrenze",
+          "text": "Artikel 6 Absatz 3 und Anhang III Nummer 4 KI-VO; EuGH, Urt. v. 07.12.2023 – Az. C-634/21, Rn. 43–50 und 60–64. Tragende Aussage mit konkretem Sachverhalt verknüpfen; kein direktes KI-VO-Urteil behaupten.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        },
+        {
+          "id": "vollstaendiges-produkt",
+          "text": "Liefert die bestellten ausformulierten Dokumente und arbeitet den neuen Beleg an der betroffenen Stelle ein. Tatsachenlücke, eigene Schlussfolgerung und gesicherter Befund bleiben getrennt; keine ungeprüfte Gesamtfreigabe oder eigenmächtige Außenhandlung.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argumentanker-erklaerung-geheimnis",
+      "request": "Eine automatisierte erhebliche Ablehnung wird nur mit Score 42 und einer komplexen Formel erklärt. Der Verantwortliche verweigert wegen Geschäftsgeheimnissen jede weitere Information. Es folgt eine verständliche Erklärung der tatsächlich verwendeten Daten und Kriterien; sie nennt beispielhaft die Ergebniswirkung eines geänderten Merkmals. Einzelne Informationen bleiben unter konkretem Geheimniseinwand streitig. Erstellen Sie: Auskunftsschreiben und begrenzter interner Erklärungsvermerk.",
+      "target_skill": "betreiberkonzept-bewerbungsauswahl",
+      "input_files": [],
+      "deliverables": [
+        "Auskunftsschreiben.docx",
+        "Erklaerungsvermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "begruendete-fortschreibung",
+          "text": "Die verständliche fallbezogene Erklärung wird inhaltlich geprüft; die pauschale Verweigerung wird durch eine begrenzte Nachforderung und erforderlichenfalls Abwägung durch Aufsicht oder Gericht ersetzt. Weder universelle Quellcodefreigabe noch stets zwingende Gegenfaktualmethode behaupten. Artikel 86 KI-VO zusätzlich nur unter seinem eigenen Tatbestand und Zeitrecht prüfen.",
+          "deliverables": [
+            "Auskunftsschreiben.docx",
+            "Erklaerungsvermerk.docx"
+          ]
+        },
+        {
+          "id": "quellengrenze",
+          "text": "Artikel 15 Absatz 1 Buchstabe h und Artikel 22 DSGVO; EuGH, Urt. v. 27.02.2025 – Az. C-203/22, Rn. 58–62, 66 und 70–76; Artikel 13 und 86 KI-VO getrennt. Tragende Aussage mit konkretem Sachverhalt verknüpfen; kein direktes KI-VO-Urteil behaupten.",
+          "deliverables": [
+            "Auskunftsschreiben.docx",
+            "Erklaerungsvermerk.docx"
+          ]
+        },
+        {
+          "id": "vollstaendiges-produkt",
+          "text": "Liefert die bestellten ausformulierten Dokumente und arbeitet den neuen Beleg an der betroffenen Stelle ein. Tatsachenlücke, eigene Schlussfolgerung und gesicherter Befund bleiben getrennt; keine ungeprüfte Gesamtfreigabe oder eigenmächtige Außenhandlung.",
+          "deliverables": [
+            "Auskunftsschreiben.docx",
+            "Erklaerungsvermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argumentanker-lernende-kriterien",
+      "request": "Eine Recruitingversion verändert Auswahlkriterien ohne Versionseintrag. HR behauptet unter Hinweis auf das PNR-Urteil, jede lernende KI sei generell verboten. Der Anbieter bindet jede neue Kriterienfassung an eine benannte Version, dokumentierte menschliche Prüfung vor Aktivierung und Testbefunde zu Fehlertreffern und benachteiligenden Stellvertretermerkmalen. Erstellen Sie: Fortgeführte Betriebsanweisung mit kontrolliertem Änderungsverfahren.",
+      "target_skill": "betreiberkonzept-bewerbungsauswahl",
+      "input_files": [],
+      "deliverables": [
+        "Betriebsanweisung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "begruendete-fortschreibung",
+          "text": "Das unzulässige allgemeine Verbot wird zurückgewiesen. Die neuen Kontrollen beseitigen konkrete Nachweislücken, beweisen aber weder automatisch Diskriminierungsfreiheit noch vollständige KI-Konformität. PNR-spezifische Rechtsfolge, HR-Normen und organisatorische Empfehlung sichtbar auseinanderhalten.",
+          "deliverables": [
+            "Betriebsanweisung.docx"
+          ]
+        },
+        {
+          "id": "quellengrenze",
+          "text": "Artikel 9, 10, 14 und 26 KI-VO nach Zeitrecht; EuGH, Urt. v. 21.06.2022 – Az. C-817/19, Rn. 194–201 und 205–211. Tragende Aussage mit konkretem Sachverhalt verknüpfen; kein direktes KI-VO-Urteil behaupten.",
+          "deliverables": [
+            "Betriebsanweisung.docx"
+          ]
+        },
+        {
+          "id": "vollstaendiges-produkt",
+          "text": "Liefert die bestellten ausformulierten Dokumente und arbeitet den neuen Beleg an der betroffenen Stelle ein. Tatsachenlücke, eigene Schlussfolgerung und gesicherter Befund bleiben getrennt; keine ungeprüfte Gesamtfreigabe oder eigenmächtige Außenhandlung.",
+          "deliverables": [
+            "Betriebsanweisung.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argumentanker-normumfang-zertifikat",
+      "request": "Der Anbieter legt allein ein Managementzertifikat vor und behauptet umfassende Konformität des Recruitingmoduls. Für eine bestimmte Systemfassung wird zusätzlich eine am Stichtag amtlich verifizierte harmonisierte Normfundstelle samt Nachweis der tatsächlich abgedeckten Anforderungen und Einhaltung vorgelegt. Die übrigen Anforderungen bleiben unbelegt. Erstellen Sie: Nachweismatrix und präzisiertes Anbieteranschreiben.",
+      "target_skill": "konformitaet-und-registrierung",
+      "input_files": [],
+      "deliverables": [
+        "Nachweismatrix.docx",
+        "Anbieteranschreiben.docx"
+      ],
+      "criteria": [
+        {
+          "id": "begruendete-fortschreibung",
+          "text": "Anfangs fehlt der Nachweis nach Artikel 40. Nach Eingang werden nur die tatsächlich abgedeckten Anforderungen und die passende Systemversion anerkannt; das Nachforderungsschreiben wird entsprechend eingegrenzt. Keine erfundene Normfundstelle im Test verwenden und keinen Automatismus zur Gesamtfreigabe zulassen.",
+          "deliverables": [
+            "Nachweismatrix.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        },
+        {
+          "id": "quellengrenze",
+          "text": "Artikel 40 und 43 KI-VO; EuGH, Urt. v. 05.03.2024 – Az. C-588/21 P, Rn. 70 und 73–85. Tragende Aussage mit konkretem Sachverhalt verknüpfen; kein direktes KI-VO-Urteil behaupten.",
+          "deliverables": [
+            "Nachweismatrix.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        },
+        {
+          "id": "vollstaendiges-produkt",
+          "text": "Liefert die bestellten ausformulierten Dokumente und arbeitet den neuen Beleg an der betroffenen Stelle ein. Tatsachenlücke, eigene Schlussfolgerung und gesicherter Befund bleiben getrennt; keine ungeprüfte Gesamtfreigabe oder eigenmächtige Außenhandlung.",
+          "deliverables": [
+            "Nachweismatrix.docx",
+            "Anbieteranschreiben.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "argumentanker-vorfall-schaden",
+      "request": "Ein Recruitingexport mit Bewerberdaten wird unbefugt an einen Dritten versandt. Der erste Bericht behauptet ohne Einzelbelege automatisch einen festen Schadensbetrag und eine KI-Vorfallmeldung. Die betroffene Person legt konkrete Anhaltspunkte für Kontrollverlust und dadurch verursachte Sorge vor. Zusammenhang, Empfängerkreis und Auswirkungen werden nun belegt; die KI-Meldetatbestände sind weiterhin gesondert zu prüfen. Erstellen Sie: Getrennter Anspruchsvermerk und fortgeführte Vorfallbewertung.",
+      "target_skill": "vorfallbewertung-und-meldeentwurf",
+      "input_files": [],
+      "deliverables": [
+        "Anspruchsvermerk.docx",
+        "Vorfallbewertung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "begruendete-fortschreibung",
+          "text": "Artikel 82 DSGVO wird anhand Verstoß, tatsächlichem Schaden und Kausalität vertieft; keine Bagatellschwelle und keine zusätzlichen spürbaren Folgen bei nachgewiesenem Kontrollverlust verlangen. Die Anspruchsbegründung ändert sich, während Meldepflicht und Betrag offen bleiben, soweit deren Voraussetzungen nicht belegt sind.",
+          "deliverables": [
+            "Anspruchsvermerk.docx",
+            "Vorfallbewertung.docx"
+          ]
+        },
+        {
+          "id": "quellengrenze",
+          "text": "Artikel 82 DSGVO; EuGH, Urt. v. 04.09.2025 – Az. C-655/23, Rn. 56 und 58–62; Artikel 3 Nummer 49 und Artikel 73 KI-VO getrennt. Tragende Aussage mit konkretem Sachverhalt verknüpfen; kein direktes KI-VO-Urteil behaupten.",
+          "deliverables": [
+            "Anspruchsvermerk.docx",
+            "Vorfallbewertung.docx"
+          ]
+        },
+        {
+          "id": "vollstaendiges-produkt",
+          "text": "Liefert die bestellten ausformulierten Dokumente und arbeitet den neuen Beleg an der betroffenen Stelle ein. Tatsachenlücke, eigene Schlussfolgerung und gesicherter Befund bleiben getrennt; keine ungeprüfte Gesamtfreigabe oder eigenmächtige Außenhandlung.",
+          "deliverables": [
+            "Anspruchsvermerk.docx",
+            "Vorfallbewertung.docx"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -668,7 +881,9 @@
       "ki-verordnung-hochrisiko-pruefer/skills/rechtsstand-und-einfuehrungsentscheidung/SKILL.md",
       "ki-verordnung-hochrisiko-pruefer/skills/rollenwechsel-und-shadow-ai/SKILL.md",
       "ki-verordnung-hochrisiko-pruefer/skills/vorfallbewertung-und-meldeentwurf/SKILL.md",
-      "quality/evals/ki-verordnung-hochrisiko-pruefer.json"
+      "quality/evals/ki-verordnung-hochrisiko-pruefer.json",
+      "ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md",
+      "ki-verordnung-hochrisiko-pruefer/references/testanker.md"
     ],
     "opening_change": "Versions- und zweckbezogenen Auftrag zuerst bearbeiten; reinen Einstufungsskill von Hauptworkflow und Folgepflichten trennen. Aktuellen amtlichen Produktpfad einschließlich Berichtigung lesen.",
     "norms": [
@@ -681,15 +896,43 @@
     ],
     "decisions": [
       {
-        "citation": "EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 55 und 60 bis 73",
-        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634",
-        "application": "Die tatsächliche maßgebliche Wirkung eines Scores ist bei der eigenständigen Prüfung nach Artikel 22 DSGVO relevant; bloßes Schlussklicken nicht mit unabhängiger Entscheidung gleichsetzen.",
-        "limit": "Kein Urteil zu Artikel 6 KI-Verordnung, keine automatische Übertragung von Kreditscoring auf jede Recruiting-Funktion und keine Entscheidung zu 2026/1744. Lesestand des übernommenen Ankers: 28. September 2026; keine neu behauptete Volltextlesung am 9. Oktober."
+        "citation": "EuGH, Urteil vom 2025-02-27, Az. C-203/22, Rn. 46–66; 67–76",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=DE",
+        "application": "Artikel 15 Absatz 1 Buchstabe h DSGVO verlangt eine verständliche Erklärung des konkret angewandten Verfahrens, der Daten und Grundsätze (Rn. 58–61, 66). Eine Formel oder vollständige Schrittliste genügt nicht. Rn. 62 nennt die Wirkung geänderter Eingabedaten als mögliche Erklärung. Rn. 70–76 verlangen bei Geheimnissen eine konkrete Abwägung durch Aufsicht oder Gericht und keine pauschale Auskunftssperre.",
+        "limit": "Keine unmittelbare Auslegung der Artikel 6, 13, 50 oder 86 KI-VO; kein stets geschuldeter Quellcode und kein allgemeines Recht auf Offenlegung sämtlicher Trainingsdaten; Gegenfaktualbeispiel ist keine universelle Pflichtmethode.",
+        "checked_on": "2026-10-09"
+      },
+      {
+        "citation": "EuGH, Urteil vom 2023-12-07, Az. C-634/21, Rn. 43–55; 60–64",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=280426&doclang=DE",
+        "application": "Rn. 43 nennt die drei Voraussetzungen von Artikel 22 Absatz 1 DSGVO. Nach Rn. 48–50 ist bereits der Score eine Entscheidung, wenn die Kreditentscheidung des Dritten maßgeblich davon abhängt. Rn. 61–63 verhindern, dass arbeitsteilige Vorbereitung die Schutzrechte leerlaufen lässt. Rn. 53–55 und 64 lassen die gesetzlichen Ausnahmen und Garantien gesondert prüfen.",
+        "limit": "Keine unmittelbare KI-VO-Systemdefinition, Hochrisikoeinstufung oder Auslegung der Ausnahme aus Artikel 6 Absatz 3. Nicht jedes Ranking ist allein dadurch ausschließlich automatisierte Entscheidung; tatsächlicher Einfluss ist festzustellen.",
+        "checked_on": "2026-10-09"
+      },
+      {
+        "citation": "EuGH, Urteil vom 2022-06-21, Az. C-817/19, Rn. 179–180; 193–211",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=261282&doclang=DE",
+        "application": "Rn. 194–195 begrenzen im PNR-Kontext selbstlernende Systeme, die ohne menschliche Kontrolle Kriterien oder Gewichtungen ändern. Rn. 197 erfasst auch mittelbare Diskriminierung durch neutrale Kriterien. Rn. 200–201 verlangen entlastende Faktoren und Überprüfung von Fehlertreffern. Rn. 205–211 verlangen objektive Einzelkontrolle, Dokumentation und wirksame Nachprüfung.",
+        "limit": "Spezifische Auslegung der PNR-Richtlinie im Licht der Grundrechtecharta; kein branchenübergreifendes Verbot lernender KI und keine unmittelbare Recruiting- oder Biometrieklassifizierung nach KI-VO. Übertragung nur als kenntlich gemachte Kontroll- und Nachweisfrage.",
+        "checked_on": "2026-10-09"
+      },
+      {
+        "citation": "EuGH, Urteil vom 2024-03-05, Az. C-588/21 P, Rn. 70–85",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=283443&doclang=DE",
+        "application": "Rn. 70, 73–76 erläutern die unionsrechtliche Wirkung harmonisierter Normen, die Rolle der Kommission und die an gesetzliche Regeln gebundene Konformitätsvermutung. Rn. 80–85 tragen ein überwiegendes öffentliches Interesse am Zugang zu den angeforderten harmonisierten Normen nach Verordnung 1049/2001.",
+        "limit": "Keine Konformitätsfreigabe für KI-Systeme; keine Vermutungswirkung beliebiger ISO-Zertifikate, keine Entscheidung über eine konkrete KI-Norm oder sämtliche Rechte zur Weiterverbreitung von Normtexten.",
+        "checked_on": "2026-10-09"
+      },
+      {
+        "citation": "EuGH, Urteil vom 2025-09-04, Az. C-655/23, Rn. 53–63; 65–79",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303866&doclang=DE",
+        "application": "Rn. 56 verlangt Datenschutzverstoß, tatsächlich entstandenen Schaden und Kausalzusammenhang. Rn. 58 kennt keine Bagatellschwelle. Rn. 60–62 lassen nachgewiesenen Kontrollverlust oder begründete, durch den Verstoß verursachte negative Gefühle genügen, ohne zusätzliche spürbare Folgen zu verlangen. Rn. 73 schließt Verschuldensgrad als Bemessungskriterium aus.",
+        "limit": "Kein allgemeiner KI-Haftungstatbestand, kein automatischer Geldanspruch nach jedem Fehler, keine Entscheidung über AGG-Beweislast oder Meldepflicht nach Artikel 73 KI-VO.",
+        "checked_on": "2026-10-09"
       }
     ],
     "remaining_limits": [
       "Amtlicher konsolidierter KI-VO-Wortlaut und Berichtigung in dieser Runde gelesen. Die Konsolidierung hat keine eigene Rechtswirkung.",
-      "Keine neue Rechtsprechung zu Artikel 6 erfunden. Der vorhandene C-634/21-Anker behält den früher dokumentierten Lesestand; der erneute Volltextabruf wurde durch Botabwehr eingeschränkt.",
       "MDR-Anker aus amtlicher Fassung 10. Januar 2025 gelesen; aktuelle produktrechtliche Klassifikation und mögliche spätere Änderungen bleiben im konkreten Projekt gesondert nachzuprüfen.",
       "Zeitliche Verzahnung außerhalb Kapitel III Abschnitte 1 bis 3 mit Artikel 111 verlangt Einzelfallauslegung.",
       "Redaktionelle und technische Prüfung; keine Live-Ausführung in Claude Cowork oder ChatGPT behauptet.",
@@ -720,7 +963,92 @@
     ],
     "prompt_path": "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-hauptproblem.md",
     "skill_path": "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md",
-    "prompt_sha256": "2627e568abd108c414d2aa0e303e55e08736f9c8578f6d4fb13ac50b5443c392",
-    "skill_sha256": "1faea274597320bc4eac7186c676b6d401890c5e53026c8c642a81ffd2be76ac"
+    "prompt_sha256": "c8ec1fb8eaecbbdbac34c7ccd84da8342b2902f67dfcb271ec38486662026109",
+    "skill_sha256": "b9c6bcae97efe804fd4aeac6ab7cc1f40af6ee2bc3ac7296697370d18b210ed9"
+  },
+  "argumentation_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "verdict": "revised",
+    "scope": "Fünf im amtlichen Volltext geprüfte Rechtsprechungsanker, konkrete Produktfolgen, Artikel-22-/Profiling-Gegenprobe und getrennte Erklärungsrechte; keine Live-Modelltests.",
+    "reference_path": "ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md",
+    "test_anchor_path": "ki-verordnung-hochrisiko-pruefer/references/testanker.md",
+    "decisions": [
+      {
+        "id": "C-203/22",
+        "gericht": "EuGH",
+        "entscheidungsform": "Urteil",
+        "datum": "2025-02-27",
+        "name": "Dun & Bradstreet Austria",
+        "randnummern": "46–66; 67–76",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=DE",
+        "gelesen_am": "2026-10-09",
+        "volltext_geoeffnet": true,
+        "gelesene_passagen_kurzfassung": "Artikel 15 Absatz 1 Buchstabe h DSGVO verlangt eine verständliche Erklärung des konkret angewandten Verfahrens, der Daten und Grundsätze (Rn. 58–61, 66). Eine Formel oder vollständige Schrittliste genügt nicht. Rn. 62 nennt die Wirkung geänderter Eingabedaten als mögliche Erklärung. Rn. 70–76 verlangen bei Geheimnissen eine konkrete Abwägung durch Aufsicht oder Gericht und keine pauschale Auskunftssperre.",
+        "traegt": "Artikel 15 Absatz 1 Buchstabe h DSGVO verlangt eine verständliche Erklärung des konkret angewandten Verfahrens, der Daten und Grundsätze (Rn. 58–61, 66). Eine Formel oder vollständige Schrittliste genügt nicht. Rn. 62 nennt die Wirkung geänderter Eingabedaten als mögliche Erklärung. Rn. 70–76 verlangen bei Geheimnissen eine konkrete Abwägung durch Aufsicht oder Gericht und keine pauschale Auskunftssperre.",
+        "traegt_nicht": "Keine unmittelbare Auslegung der Artikel 6, 13, 50 oder 86 KI-VO; kein stets geschuldeter Quellcode und kein allgemeines Recht auf Offenlegung sämtlicher Trainingsdaten; Gegenfaktualbeispiel ist keine universelle Pflichtmethode.",
+        "arbeitsprodukt": "Konkretes Auskunftsschreiben, Erklärungsvorlage und begrenzte technische Nachforderung"
+      },
+      {
+        "id": "C-634/21",
+        "gericht": "EuGH",
+        "entscheidungsform": "Urteil",
+        "datum": "2023-12-07",
+        "name": "SCHUFA Holding (Scoring)",
+        "randnummern": "43–55; 60–64",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=280426&doclang=DE",
+        "gelesen_am": "2026-10-09",
+        "volltext_geoeffnet": true,
+        "gelesene_passagen_kurzfassung": "Rn. 43 nennt die drei Voraussetzungen von Artikel 22 Absatz 1 DSGVO. Nach Rn. 48–50 ist bereits der Score eine Entscheidung, wenn die Kreditentscheidung des Dritten maßgeblich davon abhängt. Rn. 61–63 verhindern, dass arbeitsteilige Vorbereitung die Schutzrechte leerlaufen lässt. Rn. 53–55 und 64 lassen die gesetzlichen Ausnahmen und Garantien gesondert prüfen.",
+        "traegt": "Rn. 43 nennt die drei Voraussetzungen von Artikel 22 Absatz 1 DSGVO. Nach Rn. 48–50 ist bereits der Score eine Entscheidung, wenn die Kreditentscheidung des Dritten maßgeblich davon abhängt. Rn. 61–63 verhindern, dass arbeitsteilige Vorbereitung die Schutzrechte leerlaufen lässt. Rn. 53–55 und 64 lassen die gesetzlichen Ausnahmen und Garantien gesondert prüfen.",
+        "traegt_nicht": "Keine unmittelbare KI-VO-Systemdefinition, Hochrisikoeinstufung oder Auslegung der Ausnahme aus Artikel 6 Absatz 3. Nicht jedes Ranking ist allein dadurch ausschließlich automatisierte Entscheidung; tatsächlicher Einfluss ist festzustellen.",
+        "arbeitsprodukt": "Versionsbezogener Einstufungs- und gesonderter Artikel-22-Vermerk"
+      },
+      {
+        "id": "C-817/19",
+        "gericht": "EuGH",
+        "entscheidungsform": "Urteil",
+        "datum": "2022-06-21",
+        "name": "Ligue des droits humains",
+        "randnummern": "179–180; 193–211",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=261282&doclang=DE",
+        "gelesen_am": "2026-10-09",
+        "volltext_geoeffnet": true,
+        "gelesene_passagen_kurzfassung": "Rn. 194–195 begrenzen im PNR-Kontext selbstlernende Systeme, die ohne menschliche Kontrolle Kriterien oder Gewichtungen ändern. Rn. 197 erfasst auch mittelbare Diskriminierung durch neutrale Kriterien. Rn. 200–201 verlangen entlastende Faktoren und Überprüfung von Fehlertreffern. Rn. 205–211 verlangen objektive Einzelkontrolle, Dokumentation und wirksame Nachprüfung.",
+        "traegt": "Rn. 194–195 begrenzen im PNR-Kontext selbstlernende Systeme, die ohne menschliche Kontrolle Kriterien oder Gewichtungen ändern. Rn. 197 erfasst auch mittelbare Diskriminierung durch neutrale Kriterien. Rn. 200–201 verlangen entlastende Faktoren und Überprüfung von Fehlertreffern. Rn. 205–211 verlangen objektive Einzelkontrolle, Dokumentation und wirksame Nachprüfung.",
+        "traegt_nicht": "Spezifische Auslegung der PNR-Richtlinie im Licht der Grundrechtecharta; kein branchenübergreifendes Verbot lernender KI und keine unmittelbare Recruiting- oder Biometrieklassifizierung nach KI-VO. Übertragung nur als kenntlich gemachte Kontroll- und Nachweisfrage.",
+        "arbeitsprodukt": "Kontrollkonzept mit getesteten Fehlertreffern, Versionsbindung und überprüfbarem Einspruchsweg"
+      },
+      {
+        "id": "C-588/21 P",
+        "gericht": "EuGH",
+        "entscheidungsform": "Urteil",
+        "datum": "2024-03-05",
+        "name": "Public.Resource.Org und Right to Know/Kommission",
+        "randnummern": "70–85",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=283443&doclang=DE",
+        "gelesen_am": "2026-10-09",
+        "volltext_geoeffnet": true,
+        "gelesene_passagen_kurzfassung": "Rn. 70, 73–76 erläutern die unionsrechtliche Wirkung harmonisierter Normen, die Rolle der Kommission und die an gesetzliche Regeln gebundene Konformitätsvermutung. Rn. 80–85 tragen ein überwiegendes öffentliches Interesse am Zugang zu den angeforderten harmonisierten Normen nach Verordnung 1049/2001.",
+        "traegt": "Rn. 70, 73–76 erläutern die unionsrechtliche Wirkung harmonisierter Normen, die Rolle der Kommission und die an gesetzliche Regeln gebundene Konformitätsvermutung. Rn. 80–85 tragen ein überwiegendes öffentliches Interesse am Zugang zu den angeforderten harmonisierten Normen nach Verordnung 1049/2001.",
+        "traegt_nicht": "Keine Konformitätsfreigabe für KI-Systeme; keine Vermutungswirkung beliebiger ISO-Zertifikate, keine Entscheidung über eine konkrete KI-Norm oder sämtliche Rechte zur Weiterverbreitung von Normtexten.",
+        "arbeitsprodukt": "Nachweismatrix Normfundstelle, Anforderungsumfang, Version und Systemprüfung"
+      },
+      {
+        "id": "C-655/23",
+        "gericht": "EuGH",
+        "entscheidungsform": "Urteil",
+        "datum": "2025-09-04",
+        "name": "Quirin Privatbank",
+        "randnummern": "53–63; 65–79",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=303866&doclang=DE",
+        "gelesen_am": "2026-10-09",
+        "volltext_geoeffnet": true,
+        "gelesene_passagen_kurzfassung": "Rn. 56 verlangt Datenschutzverstoß, tatsächlich entstandenen Schaden und Kausalzusammenhang. Rn. 58 kennt keine Bagatellschwelle. Rn. 60–62 lassen nachgewiesenen Kontrollverlust oder begründete, durch den Verstoß verursachte negative Gefühle genügen, ohne zusätzliche spürbare Folgen zu verlangen. Rn. 73 schließt Verschuldensgrad als Bemessungskriterium aus.",
+        "traegt": "Rn. 56 verlangt Datenschutzverstoß, tatsächlich entstandenen Schaden und Kausalzusammenhang. Rn. 58 kennt keine Bagatellschwelle. Rn. 60–62 lassen nachgewiesenen Kontrollverlust oder begründete, durch den Verstoß verursachte negative Gefühle genügen, ohne zusätzliche spürbare Folgen zu verlangen. Rn. 73 schließt Verschuldensgrad als Bemessungskriterium aus.",
+        "traegt_nicht": "Kein allgemeiner KI-Haftungstatbestand, kein automatischer Geldanspruch nach jedem Fehler, keine Entscheidung über AGG-Beweislast oder Meldepflicht nach Artikel 73 KI-VO.",
+        "arbeitsprodukt": "Getrennter Anspruchs- und Belegvermerk neben der Vorfallbewertung"
+      }
+    ]
   }
 }

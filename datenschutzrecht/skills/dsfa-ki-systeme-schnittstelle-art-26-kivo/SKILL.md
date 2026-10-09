@@ -26,6 +26,8 @@ Bestehende Folgenabschätzung, Zweckbeschreibung, Datenfluss, Anbieterinformatio
 9. Zuständige Datenschutzaufsicht und Systemaufsicht getrennt benennen. KI-MIG: Bundesnetzagentur als Auffangbehörde, sektorale und Länderzuständigkeiten nach Paragraf 2; EU-Sonderaufsicht gegebenenfalls vorrangig. Nicht alle Unterlagen an jede Stelle versenden.
 10. COM(2025) 837 und COM(2025) 501 nur als Reformspur führen. Vorbereitungen auf Änderungen gesondert kennzeichnen; die bestehende Freigabe nicht auf vorgeschlagene Erleichterungen stützen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 22, 30, 35 und 36 der Datenschutz-Grundverordnung; Artikel 4, 4a, 26, 27, 111 und 113 der Verordnung (EU) 2024/1689; [Rechtsstand und Zuständigkeitskarte](../../references/digitaler-omnibus-2026.md). Fundstelle, Fassungsdatum und tatsächlichen Anwendungsfall zusammen angeben.

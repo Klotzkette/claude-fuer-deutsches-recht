@@ -47,3 +47,4 @@ Erzeuge Organisationsanweisung, Checkliste, Schulung, Vorlagen, Eskalationslogik
 
 - Welche Kammer/Aufsicht handelt?
 - Geht es um Anhörung, Rüge, Anschuldigung, Zulassungsmaßnahme oder Rechtsmittel?
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie getrennt, ob das beanstandete Produkt von der Berufsträgerin stammt und welchen berufsrechtlichen Vorwurf die Belege tragen. Ein KI-VO-Verstoß darf weder aus einem falschen Zitat allein noch aus einer fehlenden ISO-Bescheinigung gefolgert werden. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

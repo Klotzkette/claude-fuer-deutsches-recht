@@ -1,0 +1,191 @@
+[
+  {
+    "label": "ki-register-havelgrund-sozialamt Basisquote",
+    "sheet": "Testwerte",
+    "cell": "E6",
+    "expected": 0.4166666666666667,
+    "actual": 0.4166666666666667
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Fallzahl",
+    "sheet": "Testwerte",
+    "cell": "B11",
+    "expected": 80,
+    "actual": 80
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Kurzansichten",
+    "sheet": "Testwerte",
+    "cell": "D12",
+    "expected": 23,
+    "actual": 23
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Nullgruppe",
+    "sheet": "Testwerte",
+    "cell": "E6",
+    "expected": "nicht geprüft",
+    "actual": "nicht geprüft"
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt fehlende Fallzahl",
+    "sheet": "Testwerte",
+    "cell": "E6",
+    "expected": "offen",
+    "actual": "offen"
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt geänderter Befund",
+    "sheet": "Testwerte",
+    "cell": "E6",
+    "expected": 0.5,
+    "actual": 0.5
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Gesamtsumme reagiert",
+    "sheet": "Testwerte",
+    "cell": "D11",
+    "expected": 10,
+    "actual": 10
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Nettosumme",
+    "sheet": "Aufwand",
+    "cell": "E10",
+    "expected": 6160,
+    "actual": 6160
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Bruttosumme",
+    "sheet": "Aufwand",
+    "cell": "E12",
+    "expected": 7330.4,
+    "actual": 7330.4
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Quellenabgleich",
+    "sheet": "Aufwand",
+    "cell": "E14",
+    "expected": 0,
+    "actual": 0
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Null monatliche Menge",
+    "sheet": "Aufwand",
+    "cell": "E10",
+    "expected": 3100,
+    "actual": 3100
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Periodenaenderung",
+    "sheet": "Aufwand",
+    "cell": "E14",
+    "expected": 1020,
+    "actual": 1020
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt Rohzeitdifferenz",
+    "sheet": "Planspiel",
+    "cell": "D10",
+    "expected": 18.416666666666668,
+    "actual": 18.416666666666664
+  },
+  {
+    "label": "ki-register-havelgrund-sozialamt geaenderter Szenariozeitpunkt",
+    "sheet": "Planspiel",
+    "cell": "D10",
+    "expected": 19.416666666666668,
+    "actual": 19.416666666666664
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Dispositionsquote",
+    "sheet": "Testwerte",
+    "cell": "F6",
+    "expected": 0.06666666666666667,
+    "actual": 0.06666666666666667
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik S1 Quote",
+    "sheet": "Testwerte",
+    "cell": "F9",
+    "expected": 0.04,
+    "actual": 0.04
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Fehlende Testfälle",
+    "sheet": "Testwerte",
+    "cell": "B14",
+    "expected": 85,
+    "actual": 85
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Ungeprüfte Nachtgruppe",
+    "sheet": "Testwerte",
+    "cell": "F7",
+    "expected": "nicht geprüft",
+    "actual": "nicht geprüft"
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik fehlende Testzahl",
+    "sheet": "Testwerte",
+    "cell": "F6",
+    "expected": "offen",
+    "actual": "offen"
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik geänderter S1 Befund",
+    "sheet": "Testwerte",
+    "cell": "F9",
+    "expected": 0.08,
+    "actual": 0.08
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Nettosumme",
+    "sheet": "Aufwand",
+    "cell": "E10",
+    "expected": 8460,
+    "actual": 8460
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Bruttosumme",
+    "sheet": "Aufwand",
+    "cell": "E12",
+    "expected": 10067.4,
+    "actual": 10067.4
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Quellenabgleich",
+    "sheet": "Aufwand",
+    "cell": "E14",
+    "expected": 0,
+    "actual": 0
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Null monatliche Menge",
+    "sheet": "Aufwand",
+    "cell": "E10",
+    "expected": 6300,
+    "actual": 6300
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Periodenaenderung",
+    "sheet": "Aufwand",
+    "cell": "E14",
+    "expected": 720,
+    "actual": 720
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik Fehlende Dokumente",
+    "sheet": "Nachweise",
+    "cell": "D13",
+    "expected": 3,
+    "actual": 3
+  },
+  {
+    "label": "ki-konformitaet-eichengrund-logistik nachgereichter Bericht",
+    "sheet": "Nachweise",
+    "cell": "D13",
+    "expected": 2,
+    "actual": 2
+  }
+]

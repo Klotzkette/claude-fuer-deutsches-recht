@@ -1,6 +1,6 @@
 # nis2-cybersecurity-compliance
 
-**103 Skills** · Stand `v445.33.1`
+**103 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../nis2-cybersecurity-compliance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`nis2-cybersecurity-compliance-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`nis2-cybersecurity-compliance-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [nis2-cybersecurity-compliance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/nis2-cybersecurity-compliance.zip) |
+| **Plugin (installierbar)** | ZIP | [nis2-cybersecurity-compliance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/nis2-cybersecurity-compliance.zip) |
 
 ## So benutzt man einen Skill
 

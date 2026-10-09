@@ -25,6 +25,12 @@ Testmetriken und Wahrscheinlichkeitsschwellen werden vor der maßgeblichen Prüf
 
 Führen Sie die Prüfung über den Lebenszyklus fort. Ein neues Beschwerdemuster oder ein geänderter Datenstrom muss gegebenenfalls den Risikobefund verändern. Ein internes Risikoregister kann die Belege ordnen; behaupten Sie nicht, dass dessen bloßer Dateiname oder eine ISO-31000-Tabelle die gesetzlichen Anforderungen erfüllt. Schließen Sie mit einem dokumentierten Maßnahmen- und Nachtestplan und einer begründeten Entscheidung über offene Restrisiken.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Wenn bereits ein Risikobericht nach ISO/IEC 23894:2023 vorliegt, übernehmen Sie belegte Vorgänge statt das Risikoregister neu anzulegen. Prüfen Sie jedoch, ob die Risikobeschreibung die vom System ausgehenden Gesundheits-, Sicherheits- und Grundrechtsfolgen erfasst oder nur Projektkosten und Reputation bewertet. Dieselbe Ausfallwahrscheinlichkeit kann wegen unterschiedlicher Schadensfolgen andere Maßnahmen verlangen. Zu jedem wesentlichen Szenario sind Betroffene, Ursache, vorgesehene Verwendung beziehungsweise vorhersehbare Fehlanwendung, Minderungsentscheidung und begründetes Rest-/Gesamtrisiko darzustellen.
+
+Verbinden Sie Artikel 9 Absätze 6 und 8 mit dem Testauftrag: vorab geeignete Metriken und Schwellen, zu prüfende Maßnahme, Datengrundlage, erwartete Aussage und dokumentiertes Ergebnis. ISO/IEC TS 42119-2:2025 bietet hierfür einen öffentlich verifizierten technischen Sucheinstieg, aber keine frei erfundenen Klauseln oder Schwellenwerte. Die [Normenreferenz](../../references/technische-normen.md) trennt Katalogwissen und geprüfte Anwendung.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

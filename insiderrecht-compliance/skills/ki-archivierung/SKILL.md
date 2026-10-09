@@ -23,7 +23,7 @@ Information gewonnen wurde. Wenn ein KI-Modell auf Basis nicht-öffentlicher Ein
 eine kursrelevante Prognose generiert, kann der Modell-Output eine Insiderinformation sein.
 
 Rechtsgrundlagen:
-- Art. 7 MAR: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014R0596
+- [MAR, konsolidierte Fassung vom 05.06.2026, amtlicher PDF-Volltext](https://publications.europa.eu/resource/cellar/b5b43c29-3d97-11f1-814f-01aa75ed71a1.0006.03/DOC_1): Artikel 7–10, 14 und 18; insbesondere PDF-Seiten 13–17, 25–26 und 31–33. Am 09.10.2026 tatsächlich gelesen.
 - EuGH C-628/13 (Lafonta): https://curia.europa.eu/juris/document/document.jsf?docid=162388
 - KI-Verordnung (EU) 2024/1689 (AI Act): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
 - BaFin-Emittentenleitfaden: https://www.bafin.de/dok/8252648
@@ -37,25 +37,20 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 
 ### Schritt 1 – KI-Modell-Input-Analyse
 
-- Welche Daten werden in das Modell eingespeist?
- - Ausschließlich öffentliche Daten: Kein Insiderrecht-Problem beim Output
- - Nicht-öffentliche Unternehmensdaten (interne Finanzdaten, Vertriebsdaten, Produktionsdaten):
- Modell-Output kann Insiderinformation sein
+- Dokumentieren Sie Quellen, Veröffentlichungsstand und konkrete Verwendung der Eingangsdaten. Prüfen Sie den Informationsgehalt des Outputs gesondert nach Artikel 7 MAR; die bloße Herkunft aus internen Daten ersetzt diese Prüfung nicht.
 
 ### Schritt 2 – Modell-Output als Insiderinformation
 
-- Generiert das Modell eine Prognose, die erheblich von der veröffentlichten Guidance oder
- dem Analystenkonsensus abweicht?
-- Ist der Modell-Output hinreichend präzise? (nicht nur Wahrscheinlichkeiten, sondern
- konkrete Zahlenwerte)
-- Würde ein verständiger Anleger diesen Output bei seiner Investitionsentscheidung nutzen?
- Wenn ja → Modell-Output ist Insiderinformation
+- Prüfen Sie den konkreten Output anhand aller einschlägigen Merkmale des Artikels 7 Absatz 1 MAR: insbesondere fehlende Öffentlichkeit, Präzision, Emittenten- oder Instrumentenbezug und mögliche erhebliche Kurswirkung. Eine Abweichung von Guidance oder Analystenkonsens genügt für sich nicht.
+- Artikel 7 Absätze 2 und 3 verlangen bestehende oder vernünftigerweise erwartbare Umstände oder Ereignisse und genügend spezifische Angaben für einen Schluss auf mögliche Kursauswirkungen. Feste Zahlenwerte oder Gewissheit sind keine zwingende Voraussetzung; eine vom Modell ausgegebene Wahrscheinlichkeit ersetzt den Tatsachenbeleg nicht.
+- Artikel 7 Absatz 4 konkretisiert die Kursrelevanz anhand des verständigen Anlegers. Die mögliche Nutzung für eine Anlageentscheidung ersetzt die übrigen Tatbestandsmerkmale nicht.
 
 ### Schritt 3 – Zugangskontrollen
 
-- Wer hat Zugang zu dem KI-Modell und seinen Outputs?
-- Alle Zugangspersonen sind potenzielle Insider → Insiderliste, Handelsverbot
-- Chinese Walls: Handelsabteilung darf keinen Zugang zu internen Forecasting-Modellen haben
+- Trennen Sie den bloßen Zugang zum Modell von dem Zugang zu konkreten Insiderinformationen in Eingaben oder Outputs und halten Sie Person, Aufgabe und Zeitpunkt fest.
+- Für die Insiderliste prüfen Sie den Verpflichteten und Anwendungsbereich nach Artikel 18 Absätze 1, 6 bis 8 MAR sowie den aufgabenbezogenen Zugang zu Insiderinformationen. Dokumentieren und aktualisieren Sie bei bestehender Listenpflicht die Angaben nach Absätzen 3 und 4; ein Modellkonto allein löst keine pauschale Aufnahme aus.
+- Prüfen Sie die Handels-, Empfehlungs- und Offenlegungsverbote nach Artikeln 8 bis 10 in Verbindung mit Artikel 14 MAR gesondert. Besitz, Nutzung und konkrete Handlung sowie gegebenenfalls Wissen oder Wissenmüssen sind zuzuordnen; legitime Handlungen nach Artikel 9 dürfen nicht übergangen werden.
+- Informationsbarrieren sind anhand der konkreten Informationsflüsse und gegebenenfalls Artikel 9 Absatz 1 MAR zu gestalten. Daraus folgt kein generelles gesetzliches Verbot jedes Zugangs der Handelsabteilung zu einem Prognosemodell.
 
 ### Schritt 4 – Modell-Governance und Dokumentation
 
@@ -65,7 +60,8 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 
 ### Schritt 5 – Compliance-Empfehlungen
 
-- Trennung: Internes Forecasting-System (Insiderinformation) vs. extern veröffentlichte Prognose
+- Trennen Sie Eingabedaten, konkrete interne Modelloutputs und veröffentlichte Prognosen; begründen Sie die Einordnung nach Artikel 7 für den jeweiligen Informationsinhalt.
 - Ad-hoc-Pflicht: Wenn Modell-Output wesentliche Abweichung von Guidance signalisiert →
  Prüfung ob Profit-Warning-Ad-hoc erforderlich
 - Schulung der Modell-Nutzer auf Insiderrecht
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ermitteln Sie, ob das System Handelsmuster auffindet oder Personenprofile für Entscheidungen erstellt. Die bloße Verwendung im Finanzsektor macht nicht jedes Überwachungssystem zu Anhang-III-Hochrisiko-KI. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -113,3 +113,7 @@ Bei neuen Umsatzunterlagen prüfe Bezugsjahr, Gesellschaft und behaupteten Unter
 Gleiche Behördenantwort, Pflichtmeldung und interne Verteidigungsfassung auf Tatsachenwidersprüche ab. Ein technischer Befund kann in mehreren Dokumenten dieselbe Bedeutung haben, die rechtlichen Schlussfolgerungen bleiben verfahrensbezogen. Begrenze Anlagen auf erforderliche, rechtlich gedeckte Informationen; keine gesamte Personal- oder Kundenakte vorsorglich beifügen. Bei Selbstbelastungsrisiken die konkrete Aussageentscheidung abstimmen, während Frist- und Akteneinsichtsarbeit fortgeführt wird.
 
 Der Abschluss liefert den bestellten Einspruch, die vollständige Begründung oder Meldungsfassung mit tatsächlich belegter Abhilfe. Ungeklärte forensische Reichweite, aktuelle Sonderzuständigkeit oder Quellenlücke gezielt in der separaten Notiz benennen. Kein Versand, kein Anerkenntnis und keine Meldung als erfolgt behaupten, solange nur ein Entwurf vorliegt; Freigabe betrifft die Außenhandlung, nicht die Fertigstellung unabhängiger Textteile.
+
+KI-Prüfung: Trennen Sie die behauptete Datenpanne, die tatsächlichen Empfänger und einen möglichen KI-Systemvorfall. Weder die Speicherung pseudonymisierter Daten noch die Bezeichnung Bias-Test beantwortet Rechtmäßigkeit und Meldeweg allein. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

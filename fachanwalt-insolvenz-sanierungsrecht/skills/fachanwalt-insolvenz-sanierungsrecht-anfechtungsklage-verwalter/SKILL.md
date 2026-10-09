@@ -140,3 +140,4 @@ Hinweis: Keine Rechtsberatung. Klageentwurf nur nach Originalprüfung von Gesetz
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Klären Sie beim Erwerb eines KI-Geschäfts, welche Dokumentation, Rechte und Betriebsfunktionen tatsächlich übergehen. Ein Erwerber wird nicht allein durch Anteilskauf Systemanbieter; Umwidmung und Weiterentwicklung getrennt untersuchen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

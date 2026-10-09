@@ -51,3 +51,4 @@ Abnahmefälle bilden für Normalbetrieb, Grenzfall, fehlerhafte Daten, Berechtig
 4. Test-, Abnahme- und Monitoringplan.
 5. Preis-Qualitäts-Matrix einschließlich Lebenszyklus- und Exitkosten.
 6. Vertragsanhang für Datenrechte, Sicherheit, Änderungssteuerung, Audit und Exit.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -168,5 +168,12 @@
     "continuation": "Eingangsnachweis -> zeitgerechte Rügen und neue Ergänzungen trennen; Vollzugsverschiebung -> Eilfolgen ändern.",
     "enrichment": "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie bei der Anwendung für Verfassungsbeschwerde technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

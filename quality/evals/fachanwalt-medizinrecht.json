@@ -280,5 +280,12 @@
       "BGH, Urteil vom 25.11.2025, VI ZR 51/24"
     ],
     "new_model_test": false
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-medizinrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie medizinische Zweckbestimmung und notwendige Drittbewertung getrennt von der bloßen Verwendung im Krankenhaus. Verwaltungssoftware und medizinische Sicherheitskomponente brauchen verschiedene Einstufungen und Vorfallwege.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -256,3 +256,9 @@ English: Complete list of all 123 skills in this plugin. Both links in each row 
 | [`zuschlagsverbot-paragraf-169-gwb`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-vergaberecht/skills/zuschlagsverbot-paragraf-169-gwb/SKILL.md) | Für Zuschlagsverbot Paragraf 169 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-vergaberecht/skills/zuschlagsverbot-paragraf-169-gwb/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Formulieren Sie überprüfbare Anforderungen an System, Tests, Dokumentation und Änderungen. Verlangen Sie kein beliebiges ISO-Zertifikat als Ersatz für auftragsbezogene gesetzliche Nachweise.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

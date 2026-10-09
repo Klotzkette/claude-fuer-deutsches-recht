@@ -153,5 +153,12 @@
       "search_2026": "Eutelsat-Treffer betrafen den bekannten Fall aus 2021; keine neue 2026-Satellitenentscheidung verifiziert. OHB 2025 bleibt als solcher ausgewiesen.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "weltraumrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ermitteln Sie den tatsächlichen räumlichen und sachlichen Anwendungsbereich, bevor Sie aus dem technischen Gefahrenniveau eine KI-VO-Kategorie ableiten. Produktpfad, ziviler Einsatz und Systemfunktion brauchen eigene Belege.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

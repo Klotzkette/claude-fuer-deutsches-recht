@@ -286,6 +286,8 @@ Benötigt werden Sensoren und Datenarten, abgeleitete Merkmale, Labels, Anzeige,
 
 Artikel 3 Nummer 39 beschreibt die Feststellung oder Ableitung von Emotionen oder Absichten auf Grundlage biometrischer Daten. Ordnen Sie Gesicht, Stimme, Verhalten und andere verwendete Signale nach ihrer konkreten technischen Verarbeitung zu. Verwechseln Sie eine Textanalyse ohne biometrische Grundlage nicht automatisch mit dem definierten Emotionserkennungssystem. Ein Anbieter darf umgekehrt ein biometrisches Vertrauens- oder Motivationsprofil nicht durch die Bezeichnung „Prozessmetrik“ aus dem Begriff entfernen. Lassen Sie unklare Labels erläutern und verbinden Sie jedes Label mit dem auslösenden Signal und der tatsächlichen Funktion.
 
+Artikel 3 Nummer 39 erfasst Emotionen oder Absichten, Artikel 5 Absatz 1 Buchstabe f nennt dagegen Emotionen. Eine ausschließlich intentionale Prognose daher nicht ohne gesonderte Begründung dem Emotionsverbot gleichsetzen. Transparenz nach Artikel 50 Absatz 3 bleibt eigenständig zu prüfen.
+
 ### 12.3. Arbeits- oder Bildungskontext feststellen
 
 Beschreiben Sie die betroffene Tätigkeit und den organisatorischen Zusammenhang. Arbeitsplatz oder Bildungseinrichtung sind nicht auf einen bestimmten Gebäudetyp oder stationären Bildschirm zu verengen. Ein digitaler Fernunterricht oder eine dienstlich genutzte Videoplattform kann denselben Kontext aufweisen. Eine private Anwendung ohne diesen Zusammenhang verlangt eine andere Prüfung. Entscheidend sind die konkreten Einsatzbedingungen; die bloße Installation auf einem privaten Endgerät entscheidet nicht. Prüfen Sie bei Bewerbungs- und Prüfungssituationen besonders genau Rolle, Zweck und Zusammenhang, statt Kategorien aus dem Marketing zu übernehmen.
@@ -449,3 +451,9 @@ Verfolgen Sie jede Datenart aus ihrem ursprünglichen Verwaltungs- oder Vertrags
 Prüfen Sie vor Abgabe, ob die ausgewählte Fassung und der Geltungsbeginn zur Handlung passen, jeder verwendete Tatbestand vollständig subsumiert wurde und keine Ausnahme aus einem anderen Tatbestand übertragen ist. Kontrollieren Sie besonders Zustimmung, menschliche Beteiligung, Sicherheitszweck, Anhangverweis, nationale Ermächtigung und den Unterschied zwischen Antrag und Genehmigung. Lesen Sie Zahlen und Datum aus den Belegen erneut. Excel-Formeln müssen zu den sichtbaren Eingaben passen; leere Werte sind nicht automatisch null. Zitate dürfen nur geöffnete Quellen tragen.
 
 Der Auftrag ist fertig, wenn das bestellte Produkt tatsächlich vorliegt, offene entscheidende Tatsachen erkennbar sind und der nächste Schritt konkret benannt ist. Ein langes allgemeines KI-Gutachten ersetzt keinen bestellten Brief. Ein Warnhinweis ersetzt keine Subsumtion. Ein positives oder negatives Ergebnis wird stets auf die tatsächlich untersuchte Funktion und Verwendung begrenzt. Fragen Sie nach Abschluss nur nach dem Beitrag, der für eine ausdrücklich noch offene Fortsetzung erforderlich ist.
+
+## 19. Tatbestandsbezogene Gegenprüfung
+
+Bei Buchstabe a Technikabsicht, Ziel/Wirkung der Verhaltensänderung und Schaden trennen; kein zusätzlicher Schädigungsvorsatz. Buchstabe b braucht keine zusätzliche Täuschung. Bei c bleibt die unverhältnismäßige Benachteiligung auch ohne Kontextwechsel zu prüfen; keine Schadensschwelle aus a/b übertragen. Dringlichkeit erleichtert bei h Registrierung und vorherige Genehmigung gesondert, ersetzt aber keine abgeschlossene Folgenabschätzung.
+
+[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.

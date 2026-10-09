@@ -39,6 +39,12 @@ Empfehlen Sie abhängig vom Befund die Aussetzung der betroffenen Datenverknüpf
 
 Übergeben Sie den begründeten Teilvermerk mit Systemversion, Handlung, Stichtag und offenen Tatsachen an [Verbotene KI-Praktiken insgesamt klären](../verbotene-ki-praktiken-loesen/SKILL.md). Die Rückgabe enthält die operative Entscheidung oder eine konkret zu beantwortende Tatsachenfrage. Ein neues Dokument ohne Bezug zur führenden Fassung ist keine vollständige Übergabe.
 
+### 3.7. Alternative Nachteilswege getrennt entscheiden
+
+Buchstabe c nennt zwei alternative Folgen: den Nachteil in einem nicht mit der Datenerzeugung oder -erhebung zusammenhängenden sozialen Kontext und die ungerechtfertigte oder unverhältnismäßige Benachteiligung im Verhältnis zu sozialem Verhalten oder dessen Tragweite. Ein fehlender Kontextwechsel erledigt nur die erste Alternative. Bei derselben Verwendung prüfen Sie daher weiterhin, ob die Nachteilsfolge überzogen oder unbegründet ist.
+
+Die erhebliche Schadensschwelle aus Buchstaben a und b ist kein zusätzliches ungeschriebenes Merkmal von Buchstabe c. Beschreiben Sie dennoch den realen Nachteil und seine Verknüpfung mit der Bewertung. Ohne den erforderlichen zeitbezogenen Bewertungszusammenhang macht eine einzelne Information die Anwendung nicht automatisch zum verbotenen Sozialscore.
+
 ## 4. Quellenpflicht
 
 Prüfen Sie die einschlägigen Merkmale an der [amtlichen konsolidierten KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) und bei Änderungen zusätzlich an den verlinkten Amtsblattakten. Der hier gelesene Stand ist 09.10.2026. Maßgeblich sind die im Amtsblatt veröffentlichten verbindlichen Fassungen; die Konsolidierung ist eine Lesehilfe. Lesen Sie die [Rechtsquellen und Grenzen](../../references/rechtsquellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Zitieren Sie die konkrete Norm und den einschlägigen Absatz am tragenden Satz. Keine Gerichtsentscheidung, Randnummer oder Literaturfundstelle aus Modellwissen; nicht geöffnete Quellen bleiben ungeprüft. Es wird keine vorhandene höchstrichterliche Artikel-5-Rechtsprechung behauptet. Ältere Leitlinien dürfen eine spätere Normänderung nicht verdrängen.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert in grammatikalisch vollständigen
 ## 6. Beispiele
 
 Stadtfaden kombiniert verspätete Rückgaben aus einer Bibliothek und Tonalität von Beschwerden zu einer Rangliste für städtische Wohnungen. Prüfen Sie Erhebungskontexte und wirkliche Vergabefolgen. Als Kontrollvariante erinnert ein System nur an offene Zahlungen desselben Mietvertrags und ordnet Antworten zu. Das ist kein automatischer Gegenbeweis gegen jeden Artikel-5-Verdacht, aber ein sachlich anderes Nutzungsmodell, dessen begrenzter Zweck im Ergebnis ausdrücklich erhalten bleiben muss.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 3](../../references/testanker.md).

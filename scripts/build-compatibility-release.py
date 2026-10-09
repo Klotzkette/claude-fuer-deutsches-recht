@@ -103,8 +103,9 @@ def build(dist: Path, root: Path = ROOT) -> None:
         if entry["version"] != VERSION:
             raise ValueError(f"Unerwartete Paketversion: {name}")
         validate_plugin_version(entry, market["version"], root=root)
-        if not (scoped_asset_url(f"{name}.zip", root=root) or "").endswith(f"/{TAG}/{name}.zip"):
-            raise ValueError(f"Paketroute fehlt: {name}")
+        route = scoped_asset_url(f"{name}.zip", root=root)
+        if not route or not route.endswith(f"-v{VERSION}/{name}.zip"):
+            raise ValueError(f"Gleichversionierte Paketroute fehlt: {name}")
         directory = (root / entry["source"]).resolve()
         if not directory.is_relative_to(root.resolve()):
             raise ValueError(f"Pluginquelle außerhalb des Repositorys: {name}")
@@ -114,7 +115,8 @@ def build(dist: Path, root: Path = ROOT) -> None:
         CHECKS.validate_plugin_zip(dist, name, VERSION)
         CHECKS.validate_skill_sources(target, directory)
         CHECKS.validate_focus_skill(target, directory, root / "quality/evals" / f"{name}.json")
-        report["plugins"][name] = {"source": entry["source"], "files": verify_zip(target, files)}
+        report["plugins"][name] = {"source": entry["source"], "route": route,
+                                   "files": verify_zip(target, files)}
     if not (scoped_asset_url(WEBSITE, root=root) or "").endswith(f"/{TAG}/{WEBSITE}"):
         raise ValueError("Website-Route fehlt")
     subprocess.run([sys.executable, str(root / "grundstuecksrecherche/app/portable.py"), str(dist / WEBSITE)],

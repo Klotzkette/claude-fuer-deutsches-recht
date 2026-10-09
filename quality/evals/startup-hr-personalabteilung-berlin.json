@@ -144,5 +144,12 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "startup-hr-personalabteilung-berlin/references/ki-normen-und-fallpruefung.md",
+    "focus": "Vergleichen Sie reine Terminorganisation mit Auswahl, Ranking und Profiling von Bewerbenden. Eine abschließende Unterschrift der Personalleitung widerlegt maßgeblichen Systemeindruck nicht ohne tatsächliche Kontrollbelege.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

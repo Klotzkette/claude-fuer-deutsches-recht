@@ -231,6 +231,8 @@ An [Mandatsannahme und Interessenkollision](../mandatsannahme-interessenkollisio
 
 Nach tatsächlicher Leistung werden Datum, Dauer, Person, Abrechenbarkeit und Narrativ ergänzt. Die Prüfung eines eigenen Berufsrechtsverstoßes der Kanzlei wird dem Mandanten nicht in Rechnung gestellt. Hypothetische ohne KI erforderliche Zeit wird nicht als geleistete Zeit behandelt. Speichere bestätigte Einträge und aktualisiere den RechnungsENTWURF im tatsächlichen Mandatsordner; der Zeitstand führt bestätigte Minuten und offene Zeitfragen getrennt, und offene Zeitfragen halten die Erstellung des beauftragten Dokuments nicht auf.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 ### 4.1. Normstand und amtliche Texte

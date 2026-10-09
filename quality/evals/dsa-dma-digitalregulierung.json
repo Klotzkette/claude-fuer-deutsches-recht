@@ -144,5 +144,12 @@
     "continuation": "Vorherige Warnung wird nachgereicht -> nicht weiter fehlende Warnung behaupten; Verhältnismäßigkeit, Dauer und Beschwerdebegehren ändern.",
     "enrichment": "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "dsa-dma-digitalregulierung/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ordnen Sie Plattformdienst, GPAI-Modell und konkrete Systemfunktion auseinander. Aus VLOP-Eigenschaft folgt weder eine beliebige KI-VO-Risikoklasse noch dieselbe Zuständigkeit für jede Betreiberfunktion.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

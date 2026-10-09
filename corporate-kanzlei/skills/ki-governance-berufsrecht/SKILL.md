@@ -224,3 +224,4 @@ FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verlangen Sie für ein KI-Zielunternehmen die konkrete Systemliste samt Version, Zweck, Rolle und tatsächlichen Konformitätsbelegen. Ein Zertifikat der Muttergesellschaft rechtfertigt keine Garantie für sämtliche Produkte der Tochter. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

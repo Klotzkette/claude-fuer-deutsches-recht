@@ -147,5 +147,12 @@
       "BVerfG am 25.09.2026 anhand des amtlichen Volltexts, insbesondere Randnummern 51 und 52, inhaltlich geprüft; Landesmedienrecht und Honorarsteuerfragen nicht vollständig neu verifiziert.",
       "Workflow-Erweiterung 23.09.2026: Paragraf 39 UrhG und Randnummern 51/52 des vorhandenen BVerfG-Ankers damals amtlich indexiert gelesen. BVerfG-Randnummern 51/52 am 25.09.2026 im amtlichen Volltext nachgeprüft; keine neue Prüfung von Paragraf 39 UrhG behauptet."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "verlagsredaktion/references/ki-normen-und-fallpruefung.md",
+    "focus": "Halten Sie fest, wer welche Passage in welcher Fassung geprüft und die redaktionelle Verantwortung übernommen hat. Eine bloße Schlussfreigabe ohne erkennbaren Gegenstand ist als Beleg gesondert zu würdigen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

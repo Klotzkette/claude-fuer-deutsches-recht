@@ -93,3 +93,7 @@ Zusätzlich am 9. Oktober 2026 geöffnet: [Verordnung (EU) 2017/745, konsolidier
 ### 5.6 Rechtsprechungsgrenze
 
 Eine unmittelbar Artikel 6 Absatz 3 entscheidende höchstrichterliche Entscheidung wird in dieser Runde nicht behauptet. Der ältere SCHUFA-Anker bleibt nachbarrechtlich auf Artikel 22 DSGVO und seinen belegten Einflussmaßstab begrenzt. Er ersetzt weder die vier gesetzlichen Ausnahmebedingungen noch die besondere Profiling-Rückausnahme. Fehlende unmittelbare Rechtsprechung wird nicht durch erfundene Aktenzeichen aufgefüllt.
+
+### 5.7 Verifizierte Argumentationsanker und Erklärungsrechte
+
+Am 9. Oktober 2026 wurden ergänzend die in [Rechtsprechung und Argumentation](rechtsprechung-und-argumentation.md) bezeichneten amtlichen Volltextpassagen zu Scoreeinfluss, konkreter Erklärung, PNR-Kontrolle, Normenwirkung und Schadensnachweis gelesen. Der SCHUFA-Anker ist damit für die dort genau bezeichneten Randnummern erneut geprüft. Artikel 13, 14, 26 und 86 KI-Verordnung wurden mit dem konsolidierten Wortlaut abgeglichen. Keine DSGVO-Auskunftsentscheidung als unmittelbares Artikel-86- oder Artikel-6-Urteil ausgeben.

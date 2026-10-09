@@ -267,3 +267,9 @@ English: Complete list of all 84 skills in this plugin. Both links in each row d
 | [`zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md) | Prüft Zahlungsunfähigkeit mit tagesgenauem Liquiditätsstatus und besonderem Fokus auf streitige oder titulierte Forderungen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/zahlungsunfaehigkeit-liquiditaetsstatus-streitige-forderungen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Klären Sie beim Erwerb eines KI-Geschäfts, welche Dokumentation, Rechte und Betriebsfunktionen tatsächlich übergehen. Ein Erwerber wird nicht allein durch Anteilskauf Systemanbieter; Umwidmung und Weiterentwicklung getrennt untersuchen.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

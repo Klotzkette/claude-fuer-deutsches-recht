@@ -34,6 +34,8 @@ ISO 31000, ISO/IEC 42001 und ISO/IEC 23894 sind nicht allein durch ihre Erwähnu
 Eine Normenliste und Social-Media-Hinweise sind Suchanlässe. Tragende Aussagen werden am amtlichen Volltext geprüft. Ein unmittelbar einschlägiges höchstrichterliches Urteil zur neuen Spezialprüfung wird hier nicht als bereits verifiziert behauptet. Nicht aus der Zahl vorhandener Links auf Vollständigkeit der Rechtsprechungsrecherche schließen.
 
 
+Lösen Sie eine Normenbehauptung über die [technische Nachweismatrix](references/technische-normen.md): gesetzliche Anforderung, konkretes System und Version, technische Methode, tatsächlich geprüfter Beleg und Rechtsfolge. Die Auswahl einer Norm ersetzt weder die Verfahrensentscheidung noch das bestellte Dossier. Prüfen Sie die fünf [Testanker](references/testanker.md) als gezielte Änderungen nur der jeweils entscheidenden Tatsache; begründen Sie den Unterschied im fertigen Produkt.
+
 ## 1.3. Gespräch und Fortsetzung
 
 Fragen Sie bei offenem Auftrag: „Welches Ergebnis benötigen Sie: eine begründete Entscheidung, einen vollständigen Entwurf oder die Vorbereitung einer konkreten Übermittlung?“ Ist das Ergebnis bereits bestellt, fragen Sie es nicht erneut. Bieten Sie bei einer fehlenden Tatsache eine präzise Auswahl oder eine konkrete Beleganforderung an. Die Frage „Haben Sie alle Unterlagen?“ ist regelmäßig weniger hilfreich als „Welche Version war am Ereignistag produktiv, und wo ist ihre Freigabe dokumentiert?“
@@ -57,6 +59,10 @@ Für Produkte nach Anhang I Abschnitt A ist das einschlägige Produktverfahren m
 Ermitteln Sie die anwendbaren Zeitpunkte anhand Artikel 113 und die Bestandsregel des Artikels 111. Abschnitt 5 ist nicht pauschal mit den Abschnitten 1 bis 3 verschoben worden; die Anwendung auf einen konkreten Altbestand ist dennoch eigenständig zu beurteilen. Erstellen Sie einen begründeten Zeitrechtsvermerk, wenn die Normverknüpfung entscheidend ist. Eine nicht geklärte zeitliche Frage darf weder als sichere Freigabe noch als bereits eingetretener Verstoß dargestellt werden.
 
 Das Ergebnis ist eine Verfahrensentscheidung mit konkretem nächsten Produkt: Nachweisplan nach Anhang VI, Antragspaket für die tatsächlich zuständige notifizierte Stelle oder integrierte Produktdokumentation. Benennen Sie fehlende Tatsachen genau und bearbeiten Sie die belegbaren Teile bereits vollständig.
+
+Prüfen Sie beim biometrischen Pfad des Artikels 43 Absatz 1 die vollständige Anwendung der einschlägigen Normen beziehungsweise Spezifikationen und deren Einschränkungen. „Wir orientieren uns an ISO“ ist kein Beleg für diesen Tatbestand. Im Pfad des Absatzes 2 führt dagegen ein fehlendes freiwilliges ISO-Zertifikat nicht zur Pflicht zum Einkauf einer Drittbewertung. Für den Produktpfad und doppelte Einstufungen ist Absatz 3 in seiner aktuellen Fassung vollständig anzuwenden. Halten Sie im Verfahrensvermerk fest, welche konkrete Tatsache zwischen den Wegen entscheidet.
+
+Nutzen Sie die [Normenreferenz](references/technische-normen.md), um die Unterschiede zwischen Veröffentlichung, Amtsblattreferenz, tatsächlicher Anwendung und geprüfter Systemkonformität zu belegen. Ein Nachweisplan muss auch ohne Vermutung einen begründeten Weg zur Erfüllung der Anforderungen enthalten; er darf eine ungeklärte Referenzfrage nicht mit dem Ergebnis „unzulässig“ überspringen.
 
 ### 2.3. Produkt und Fortsetzung
 
@@ -84,6 +90,10 @@ Testmetriken und Wahrscheinlichkeitsschwellen werden vor der maßgeblichen Prüf
 
 Führen Sie die Prüfung über den Lebenszyklus fort. Ein neues Beschwerdemuster oder ein geänderter Datenstrom muss gegebenenfalls den Risikobefund verändern. Ein internes Risikoregister kann die Belege ordnen; behaupten Sie nicht, dass dessen bloßer Dateiname oder eine ISO-31000-Tabelle die gesetzlichen Anforderungen erfüllt. Schließen Sie mit einem dokumentierten Maßnahmen- und Nachtestplan und einer begründeten Entscheidung über offene Restrisiken.
 
+Wenn bereits ein Risikobericht nach ISO/IEC 23894:2023 vorliegt, übernehmen Sie belegte Vorgänge statt das Risikoregister neu anzulegen. Prüfen Sie jedoch, ob die Risikobeschreibung die vom System ausgehenden Gesundheits-, Sicherheits- und Grundrechtsfolgen erfasst oder nur Projektkosten und Reputation bewertet. Dieselbe Ausfallwahrscheinlichkeit kann wegen unterschiedlicher Schadensfolgen andere Maßnahmen verlangen. Zu jedem wesentlichen Szenario sind Betroffene, Ursache, vorgesehene Verwendung beziehungsweise vorhersehbare Fehlanwendung, Minderungsentscheidung und begründetes Rest-/Gesamtrisiko darzustellen.
+
+Verbinden Sie Artikel 9 Absätze 6 und 8 mit dem Testauftrag: vorab geeignete Metriken und Schwellen, zu prüfende Maßnahme, Datengrundlage, erwartete Aussage und dokumentiertes Ergebnis. ISO/IEC TS 42119-2:2025 bietet hierfür einen öffentlich verifizierten technischen Sucheinstieg, aber keine frei erfundenen Klauseln oder Schwellenwerte. Die [Normenreferenz](references/technische-normen.md) trennt Katalogwissen und geprüfte Anwendung.
+
 ### 3.3. Produkt und Fortsetzung
 
 Ausformulierter Risikomanagementbericht mit Belegmatrix, Maßnahmenplan und dokumentierten Testentscheidungen. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -110,13 +120,17 @@ Proportionalität nach Absatz 2 erlaubt eine angemessene Umsetzung, keine Senkun
 
 Lieferantenverträge sind relevant, soweit sie tatsächlich benötigte Informationen und Zugriffsmöglichkeiten sichern. Der aktuelle Artikel 25 Absatz 4 enthält eine schriftliche Vereinbarung in seinem Anwendungsbereich. Ein allgemeiner Einkaufsprozess ist weder nutzlos noch automatisch ein gesetzlicher Nachweis. Entwerfen Sie konkret fehlende Kooperationsregelungen und prüfen Sie, ob bekannte Grenzen des Ursprungsanbieters den Informationszugang einschränken.
 
+Ordnen Sie ein ISO/IEC-42001-Zertifikat seinem tatsächlichen Organisationsumfang zu. Auch ein gültiges Zertifikat mit passendem Rechtsträger beantwortet noch nicht, ob für das konkrete System Prüfintervalle, Restmängelfreigabe und Vorfallkommunikation durchgeführt wurden. ISO/IEC 42006:2025 betrifft den AIMS-Zertifizierer; dessen Qualifikation ist kein Notifizierungsnachweis. Für die aktuelle technische Suche sind ISO/IEC 42001:2023 beziehungsweise DIN EN ISO/IEC 42001:2026-08 und die veröffentlichte DIN EN 18286:2026-09 auseinanderzuhalten. Einzelklauseln werden erst nach tatsächlich gelesenem Normtext bewertet.
+
+Erstellen Sie für Artikel 17 Absatz 1 Buchstaben d, e, h und i eine konkrete Zuordnung: geltende Verfahrensanweisung, verantwortliche Person, tatsächlicher Test-/Freigabe-/Meldebeleg und verbleibende Lücke. Bei nur teilweise angewandten Normen muss die technische Alternative bezeichnet werden. Artikel 40 Absatz 1 erstreckt seine Vermutung nicht schon wegen der QMS-Überschrift auf Abschnitt 3. Folgen Sie hierfür den Aussagegrenzen der [Normenreferenz](references/technische-normen.md).
+
 ### 4.3. Produkt und Fortsetzung
 
 QMS-Prüfbericht, konkret überarbeitete Verfahrensanweisung und funktionsbezogene Lieferantenklauseln. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
 
 ### 4.4. Konkrete Gegenprobe
 
-Ein KMU besitzt ISO 42001, aber niemand ist für die Meldung schwerwiegender Vorfälle benannt. Das Zertifikat beendet die Artikel-17-Prüfung nicht; der konkrete fehlende Prozess wird ergänzt. Vergleichen Sie mindestens die belastende und die entlastende Erklärung mit den vorhandenen Belegen. Eine ungeklärte Tatsache wird nicht durch das gewünschte Ergebnis ersetzt. Führen Sie einen plausiblen Gegenfall mit anderer Rolle, Version oder Verwendung durch und erklären Sie, weshalb sich das Ergebnis ändert oder gleich bleibt.
+Ein KMU besitzt ein ISO/IEC-42001-Zertifikat, aber niemand ist für die Meldung schwerwiegender Vorfälle benannt. Das Zertifikat beendet die Artikel-17-Prüfung nicht; der konkrete fehlende Prozess wird ergänzt. Vergleichen Sie mindestens die belastende und die entlastende Erklärung mit den vorhandenen Belegen. Eine ungeklärte Tatsache wird nicht durch das gewünschte Ergebnis ersetzt. Führen Sie einen plausiblen Gegenfall mit anderer Rolle, Version oder Verwendung durch und erklären Sie, weshalb sich das Ergebnis ändert oder gleich bleibt.
 
 ## 5. Datenqualität und Bias-Verarbeitung rechtlich prüfen
 
@@ -135,6 +149,10 @@ Der geltende Artikel 4a ersetzt die frühere Sonderregel des Artikels 10 Absatz 
 Die Sonderregel ist keine allgemeine Erlaubnis, sensible Kundendaten an einen externen Modellanbieter weiterzugeben oder für beliebiges Training zu nutzen. Prüfen Sie technische Nutzungsbeschränkung, Pseudonymisierung, Sicherheit, Zugriffsprotokollierung, keine Weitergabe an Dritte und frühestmögliche Löschung nach den konkreten Voraussetzungen. Die Gründe für Unerlässlichkeit und fehlende Alternativen müssen nachvollziehbar dokumentiert sein. Datenschutzrecht bleibt zusätzlich relevant; „die DSGVO verbietet jedes Testen“ ist ebenso falsch wie „der AI Act erlaubt alle Testdaten“.
 
 Erstellen Sie einen konkreten Nachforderungs- oder Datennutzungsentwurf. Trennen Sie technisch gewünschte Daten von rechtlich erforderlichen Daten und von Angaben, deren Grundlage noch fehlt. Das Ergebnis ist eine begründete Verwendungsentscheidung mit enger Zweckbindung, nicht nur eine Liste von Datenkategorien.
+
+Nutzen Sie ISO/IEC 5259-2:2024 als verifizierten Ausgangspunkt für Datenqualitätsmaße, soweit passende methodische Unterlagen tatsächlich vorliegen. Artikel 10 Absätze 2 bis 4 verlangt dennoch eine eigene Bewertung des Verwendungszwecks, der Herkunft, Aufbereitung, Repräsentativität und kontextbezogenen Lücken. Eine Quote vollständiger Felder beantwortet beispielsweise nicht, ob seltene Fälle oder eine betroffene Sprachgruppe hinreichend vertreten sind.
+
+Legen Sie je Datenbestand Herkunft, Version, Aufbereitungsentscheidung, relevantes Qualitätsmaß, verbleibende Unterrepräsentation und Auswirkung auf den Systemtest offen. Treffen Trainings-, Validierungs- und Testdaten unterschiedliche Populationen, begründen Sie die Übertragbarkeit statt einen Gesamtwert zu übernehmen. Die rechtliche Zulässigkeit sensibler Bias-Daten nach Artikel 4a und Datenschutzrecht bleibt ein eigener Schritt. Die [Normenreferenz](references/technische-normen.md) enthält nur belegte Kataloginformationen, keine behaupteten ISO-Mindestquoten.
 
 ### 5.3. Produkt und Fortsetzung
 
@@ -162,6 +180,10 @@ Die Dokumentation muss vor Inverkehrbringen oder Inbetriebnahme erstellt und akt
 
 Führen Sie eine Lückenliste mit denjenigen fehlenden Belegen, die den Konformitätsnachweis tatsächlich verhindern. Erstellen Sie zugleich die bereits belegbaren Kapitel in vollständiger Sprache. Technische Diagramme und Tabellen dürfen erläutern, aber keine entscheidende Aussage nur als unverständliches Kürzel tragen. Im Empfängerprodukt stehen die fachlichen Nachweise; interne Recherche- und Dateizugriffsprobleme bleiben in einer getrennten Notiz.
 
+Ergänzen Sie zu Anhang IV Nummer 7 eine präzise Normen- und Lösungsliste: Ausgabe, vollständig oder teilweise angewandter Bereich, gegebenenfalls Amtsblattfundstelle, konkrete Anforderung und dazugehöriger technischer Nachweis. Ein Zertifikat ohne Testdaten oder Version schließt diese Lücke nicht. Wo keine harmonisierte Norm angewandt wurde, beschreiben Sie die tatsächlich gewählte Lösung und deren Eignung; die technische Dokumentation bleibt erforderlich.
+
+Verbinden Sie die Validierungsunterlagen nach Nummer 2 Buchstabe g mit den vorab bestimmten Änderungen nach Buchstabe f. Ein Lifecycle-Prozess nach dem öffentlich verifizierten Gegenstand von ISO/IEC 5338:2023 kann den Dokumentenfluss unterstützen; er ersetzt keine datierten und verantworteten Systemtestberichte. Nutzen Sie die [Normenreferenz](references/technische-normen.md), ohne aus Katalogabstracts Klauselkonformität abzuleiten.
+
 ### 6.3. Produkt und Fortsetzung
 
 Technische Dokumentation mit konkretem Nachweisverzeichnis, aktualisierte Betriebsanleitung und gezielte Lückenanforderung. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -187,6 +209,8 @@ Testen Sie das Unterbrechen in einem sicheren Zustand. Bei agentischen Systemen 
 Prüfen Sie bei biometrischer Fernidentifizierung die besondere getrennte Bestätigung nach Artikel 14 Absatz 5 und deren eng bezeichnete Ausnahme. Übertragen Sie eine Zwei-Personen-Anforderung nicht auf alle KI-Anwendungen. Eine FRIA nach Artikel 27 kann Aufsichtsmaßnahmen abbilden, ersetzt aber weder die technische Fähigkeit noch den praktischen Nachweis.
 
 Erstellen Sie aus den Befunden eine ausführbare Betriebsanweisung mit Zuständigkeit, Eingriff, Eskalation und Ersatzverfahren. Lassen Sie eine fehlende Vollmacht oder einen ungetesteten Abschaltweg konkret bestätigen beziehungsweise testen. Ein ungeklärter Eingriff darf nicht als bestanden markiert werden. Benennen Sie im Abschlussvermerk die verbleibenden Grenzen und den Nachtest, der vor einer Freigabe erforderlich ist.
+
+Prüfen Sie die Aufsicht als tatsächliche Funktion in der Bedienkette. Für einen dokumentierten Eingriffstest sind Rolle, Information zum Systemlimit, Auslöser, verfügbare Reaktionszeit, technische Eingriffsmöglichkeit und Ergebnis festzuhalten. Eine verantwortliche Person im QMS-Handbuch beweist nicht, dass sie eine fehlerhafte Ausgabe rechtzeitig erkennen und übersteuern kann. Werden Nachweise aus einem normorientierten Testprogramm übernommen, muss dessen Szenario dem realen Arbeitsablauf entsprechen; die [Normenreferenz](references/technische-normen.md) bietet dafür technische Sucheinstiege mit begrenztem Aussagewert.
 
 ### 7.3. Produkt und Fortsetzung
 
@@ -214,6 +238,10 @@ Untersuchen Sie KI-spezifische Angriffe in einer autorisierten Testumgebung. Art
 
 Artikel 42 enthält begrenzte Konformitätsvermutungen beziehungsweise eine aktuelle Schnittstelle zur Cyberresilienz-Verordnung. Prüfen Sie den genauen sachlichen Umfang und alle Voraussetzungen. Ein Cybersicherheitsnachweis belegt nicht automatisch Datenqualität, Grundrechtsschutz oder die gesamte AI-Act-Konformität. Das Ergebnis benennt abgedeckte Anforderungen und verbleibende Nachweise ausdrücklich.
 
+Unterscheiden Sie drei technische Aussagen: gemessene Leistung auf einem bestimmten Datensatz, formaler Nachweis einer begrenzten Modelleigenschaft und Widerstandsfähigkeit des integrierten Systems. ISO/IEC 24029-2:2023 betrifft nach dem öffentlichen Abstract formale Robustheitsmethoden für neuronale Netze; die Aussage darf nicht auf sämtliche Eingaben, Schnittstellen oder Cyberangriffe ausgedehnt werden. ISO/IEC TS 42119-2:2025 ist ein methodischer Ausgangspunkt für die Auswahl von Tests, kein erfolgreicher Testbericht.
+
+Liefern Sie eine Testmatrix mit Risiko, zu prüfender Eigenschaft, vorab gesetzter Metrik und Schwelle, Daten-/Modellversion, Annahmen, Ergebnis und offenen Grenzen. Prüfen Sie beim Wechsel des Einsatzgebiets, ob die Annahmen noch tragen, auch wenn die Modellgewichte unverändert bleiben. Ein Gesamtwert kann eine gefährliche Fehlerrate in einer relevanten Untergruppe verdecken. Leiten Sie die konkrete Freigabegrenze oder den Nachtest aus Artikel 9 Absatz 8, Artikel 15 und Anhang IV Nummer 2 Buchstabe g her; behaupten Sie dafür keine ungelesene ISO-Klausel. Nutzen Sie die [Normenreferenz](references/technische-normen.md) und [Testanker 4 und 5](references/testanker.md).
+
 ### 8.3. Produkt und Fortsetzung
 
 Leistungs- und Sicherheitsbewertung, zweckbezogener Testplan und dokumentierte Freigabeempfehlung mit Grenzen. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -230,7 +258,7 @@ Vollständige Normbezeichnung mit Ausgabe, konkrete Amtsblattfundstelle, Anwendu
 
 ### 9.2. Durchführung
 
-Identifizieren Sie zuerst, was vorliegt: Managementsystemzertifikat, Prüfbericht, harmonisierte Norm, gemeinsame Spezifikation, EU-Konformitätserklärung oder Bescheinigung einer notifizierten Stelle. Diese Dokumente haben unterschiedliche Funktionen. Ein ISO-42001-Zertifikat ist nicht allein eine AI-Act-Konformitätsbescheinigung, und ISO 31000 oder ISO/IEC 23894 sind nicht allein durch ihre Nennung gesetzlich verbindlich.
+Identifizieren Sie zuerst, was vorliegt: Managementsystemzertifikat, Prüfbericht, harmonisierte Norm, gemeinsame Spezifikation, EU-Konformitätserklärung oder Bescheinigung einer notifizierten Stelle. Diese Dokumente haben unterschiedliche Funktionen. Ein ISO/IEC-42001-Zertifikat ist nicht allein eine AI-Act-Konformitätsbescheinigung, und ISO 31000 oder ISO/IEC 23894 sind nicht allein durch ihre Nennung gesetzlich verbindlich.
 
 Für Artikel 40 prüfen Sie die tatsächliche Veröffentlichung der Fundstelle im Amtsblatt, die konkrete Ausgabe und den abgedeckten Anforderungsumfang. Ein Normungsauftrag, ein Entwurf oder eine allgemein empfohlene ISO-Norm ist keine veröffentlichte harmonisierte Norm. Behaupten Sie weder die Harmonisierung noch ihr Fehlen pauschal aus Modellwissen; dokumentieren Sie die tatsächlich geprüfte amtliche Fundstelle zum Stichtag. Einschränkungen und Übergänge müssen in die Bewertung einfließen.
 
@@ -239,6 +267,10 @@ Für gemeinsame Spezifikationen nach Artikel 41 prüfen Sie den erlassenen Durch
 Bei Bescheinigungen prüfen Sie Identität, notifizierte Stelle, konkreten Benennungsumfang, Systemversion, Bedingungen, Gültigkeit, Ergänzungen und Aussetzungen. Artikel 44 nennt unterschiedliche maximale Gültigkeitsdauern für Anhang-I- und Anhang-III-Systeme. Eine auslaufende Bescheinigung verlängert sich nicht automatisch durch einen Verlängerungsantrag. Ein Zertifikat außerhalb des Benennungsumfangs trägt keine entsprechende Konformitätsbewertung.
 
 Erstellen Sie eine Aussagegrenzen-Tabelle: Dokument, tatsächlich gedeckte Anforderung, fehlender Nachweis und Folge für das gewählte Verfahren. Bei Anhang III Nummern 2 bis 8 bleibt die interne Kontrolle nach Artikel 43 Absatz 2 der gesetzliche Ausgangspunkt. Verkaufen Sie eine freiwillige externe Prüfung nicht als gesetzlich zwingenden Zertifikatskauf.
+
+Lesen Sie die [verifizierten technischen Ausgangspunkte](references/technische-normen.md) und das [Abrufprotokoll](references/quellenabruf-normen.md). Erfassen Sie für jede Behauptung vier getrennte Befunde: veröffentlichte Normausgabe, Amtsblattreferenz, tatsächliche Anwendung und systembezogenen Prüfbeleg. DIN EN 18286:2026-09 ist im Katalog als veröffentlichte Norm geführt; die ältere Aussage „nur Entwurf“ ist überholt. Daraus folgt ohne passenden Referenzakt noch keine Vermutung. ISO/IEC 42001:2023 und ISO/IEC 42006:2025 betreffen Managementsystem und dessen Zertifizierungsstellen; ein AIMS-Zertifizierer ist dadurch keine notifizierte Stelle.
+
+Formulieren Sie die Entscheidung so eng wie der Beleg: Ein anwendbares Managementzertifikat kann bestimmte Organisationsabläufe stützen; es bescheinigt weder automatisch Artikel 9 bis 15 noch die Richtigkeit einzelner Registerfelder. Artikel 40 Absatz 1 nennt Kapitel III Abschnitt 2, während Artikel 17 in Abschnitt 3 liegt. Auch der zusätzliche Normungsauftrag in Absatz 2 ersetzt nicht die Prüfung der konkreten Vermutungsgrundlage. Bei fehlender Normenvermutung arbeiten Sie den alternativen Nachweis nach Anhang IV Nummer 7 aus und prüfen gesondert die Folge für Artikel 43. Die [Testanker](references/testanker.md) verlangen jeweils eine begründete Änderung der Entscheidung.
 
 ### 9.3. Produkt und Fortsetzung
 
@@ -266,6 +298,10 @@ Bestimmen Sie die geeignete CE-Kennzeichnung nach Artikel 48 einschließlich dig
 
 Übergeben Sie für Artikel 49 einen eindeutigen Registrierungsauftrag mit Rolle, Systemversion, Anhangpfad, Zeitrecht und benötigten Anlagen. Nicht jedes Produkt des Anhangs I fällt allein deshalb unter die EU-Registrierung nach Artikel 49 Absatz 1. Erst nach namentlicher Freigabe der konkreten Fassung werden autorisierte Außenhandlungen ausgeführt; ohne Eingangsnachweis bleibt die Registrierung offen.
 
+Gleichen Sie die Normangaben des Erklärungsentwurfs gegen den tatsächlich verwendeten Nachweisweg ab. Anhang V Nummer 6 verlangt die einschlägigen harmonisierten Normen beziehungsweise gemeinsamen Spezifikationen; eine beliebige ISO-Liste wird nicht ungeprüft in dieses Feld übernommen. Andere angewandte technische Normen können im Nachweisdossier nach Anhang IV Nummer 7 dokumentiert sein, ohne dadurch harmonisiert zu werden.
+
+Für die Registerübergabe unterscheiden Sie das Managementsystemzertifikat, die gegebenenfalls einschlägige Artikel-44-Bescheinigung und die vom Anbieter verantwortete EU-Konformitätserklärung. Die erforderliche Systemidentität und Version müssen zusammenpassen. Bei interner Kontrolle wird keine fiktive Nummer einer notifizierten Stelle erzeugt. Nutzen Sie die [Aussagegrenzen technischer Nachweise](references/technische-normen.md).
+
 ### 10.3. Produkt und Fortsetzung
 
 Vollständig ausformulierter Erklärungsentwurf, CE-Umsetzungsanweisung, Registrierungsübergabe und Freigabevermerk. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -291,6 +327,10 @@ Prüfen Sie zugleich einen Rollenwechsel nach Artikel 25. Wer eine bisher nicht 
 Gestalten Sie die Marktbeobachtung nach Artikel 72 anhand tatsächlicher Datenquellen, Verantwortlichkeiten und Auswertung. Der Plan ist Teil der technischen Dokumentation. Der aktuelle Absatz 3 sieht Leitlinien einschließlich Muster bis zum 2. September 2027 vor; behaupten Sie kein bereits vorhandenes amtliches Formular ohne Prüfung. Vorhandene sektorale Pläne können unter den gesetzlichen Voraussetzungen integriert werden.
 
 Ein neuer Vorfall kann Maßnahmen nach Artikel 20 und Meldungen nach Artikel 73 auslösen. Führen Sie deshalb Änderung, Risikoprüfung, Korrektur und Meldung als zusammenhängenden Ablauf, ohne sie zu einer einzigen pauschalen Freigabe zu vermischen. Benennen Sie das nächste konkrete Produkt und die verantwortliche Person. Die alte Fassung bleibt als historischer Nachweis erhalten, auch wenn der neue Stand freigegeben wird.
+
+Prüfen Sie jede Änderung gegen den ursprünglich bewerteten und in Anhang IV Nummer 2 Buchstabe f vorab bestimmten Änderungsumfang. Die pauschale Behauptung eines normkonformen Lebenszyklusprozesses nach ISO/IEC 5338:2023 beweist diese Vorabbestimmung nicht. Benennen Sie betroffene Datenpopulation, Leistungsgrenze, Schnittstelle, Aufsichtsmaßnahme und Risikohypothese, auch wenn nur eine Konfiguration geändert wurde.
+
+Dokumentieren Sie, welche bisherigen Testergebnisse weitertragen und welche Annahme durch die Änderung entfällt. Ein formal nachgewiesener Robustheitsbereich kann unverändert richtig und für die neue Verwendung trotzdem unzureichend sein. Erstellen Sie dann einen gezielten Nachtestauftrag und die begründete Bewertung nach Artikel 43 Absatz 4. Verwenden Sie die [Normenreferenz](references/technische-normen.md) und [Testanker 5](references/testanker.md).
 
 ### 11.3. Produkt und Fortsetzung
 

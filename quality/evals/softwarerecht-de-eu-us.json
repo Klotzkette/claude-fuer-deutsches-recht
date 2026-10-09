@@ -157,5 +157,12 @@
     "continuation": "Ein belegter Versionswechsel verändert Fehlervergleich und Nachbesserungsverlangen; fehlende Exportanhänge verändern die vollständige Exit-Klausel.",
     "enrichment": "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "softwarerecht-de-eu-us/references/ki-normen-und-fallpruefung.md",
+    "focus": "Vergleichen Sie Vertrag, Anleitung und tatsächlich ausgelieferten Funktionsumfang. Modellanpassung, Änderung der Zweckbestimmung und wesentliche Systemänderung sind verschiedene Fragen und benötigen jeweils technische Belege.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

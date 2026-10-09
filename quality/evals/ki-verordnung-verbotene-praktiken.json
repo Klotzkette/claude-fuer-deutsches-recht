@@ -35,17 +35,19 @@
     "verdict": "revised",
     "reason": "Eigenständiger Ablauf mit Tatbestandsmerkmalen, Stichtag und konkreten Endprodukten; kein behaupteter unabhängiger Live-Modelltest.",
     "changes": [
-      "Alle Artikel-5-Zweige einschließlich ba/bb/1a/1b mit zeitlicher Differenzierung."
+      "Alle Artikel-5-Zweige einschließlich ba/bb/1a/1b mit zeitlicher Differenzierung.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "778f8f1b3f8366343965564228a1584e4b3dd1cce008efb33a0ad7ef337b2854"
+    "sha256": "958e34e125c0b1d0baea180b0346fa6a4b7cee1e3240787486dd4cd007cacb0a"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Elf individuell ausgearbeitete Abläufe sowie Quellenhandlung, drei Durchläufe und vollständige Ergebnisprodukte.",
     "changes": [
-      "Keine pauschale Risikopyramide; Ausnahmen tatbestandsspezifisch und Quellengrenzen ausdrücklich."
+      "Keine pauschale Risikopyramide; Ausnahmen tatbestandsspezifisch und Quellengrenzen ausdrücklich.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "7e90a99a88b0ffa89a79f0103c8b61c368ed28bac2a73ee54a0858c0147d778c"
+    "sha256": "f1fad486ea4bedf7ab5cff65f0ca359b3806448f9bf9ccba979f1377388753e9"
   },
   "cases": [
     {
@@ -326,7 +328,7 @@
     ],
     "prompt_path": "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md",
     "skill_path": "ki-verordnung-verbotene-praktiken/skills/verbotene-ki-praktiken-loesen/SKILL.md",
-    "prompt_sha256": "7e17efa3da8eba883a3f69ede826be663109c694d842cce8c2e32d43f6e855e0",
+    "prompt_sha256": "10f512ac61259fd50574f75e2e78e2bd38066fea3bf2273587b57fb6f311db75",
     "skill_sha256": "5a0e19b122bae8976e6b5d83caab3769fac9c928c1ff1146318d56140f186933"
   },
   "prompt_workflow_review": {
@@ -365,6 +367,19 @@
         "application": "Klarblick trennt biometrische Emotionsinferenz am Arbeitsplatz, behaupteten Sicherheitszweck und eine eigenständige Türsensorfunktion. Einwilligung ersetzt die tatbestandsspezifische Ausnahme nicht.",
         "limit": "Der Fall ist fiktiv; keine Gerichtsentscheidung. Tatsächlicher Datenweg und wirklicher Sicherheitszweck bleiben prüfbedürftig.",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727"
+      }
+    ]
+  },
+  "normargument_review_2026_10_09": {
+    "method": "official_fulltext_and_editorial_review",
+    "test_anchor_path": "ki-verordnung-verbotene-praktiken/references/testanker.md",
+    "test_anchor_count": 5,
+    "scope": "Konkrete Normmerkmale, Gegenvarianten und Arbeitsprodukte. Redaktionelle Gegenprüfung; kein ausgeführter Live-Modelltest.",
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+        "checked_on": "2026-10-09",
+        "supports": "Artikel 3 Nummer 39 und Artikel 5; gesonderte Merkmalsketten, alternative Nachteile, Emotionswortlaut und Dringlichkeit."
       }
     ]
   }

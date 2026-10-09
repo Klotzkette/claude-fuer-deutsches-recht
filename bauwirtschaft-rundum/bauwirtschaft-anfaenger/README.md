@@ -19,7 +19,7 @@ Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bauwirtschaft-anfaenger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bauwirtschaft-anfaenger.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bauwirtschaft-anfaenger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/bauwirtschaft-anfaenger.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/bauwirtschaft-anfaenger.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-schnellstart.md) |
@@ -57,7 +57,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bauwirtschaft-anfaenger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bauwirtschaft-anfaenger.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bauwirtschaft-anfaenger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/bauwirtschaft-anfaenger.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`bauwirtschaft-anfaenger-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`bauwirtschaft-anfaenger-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -190,3 +190,9 @@ English: Complete list of all 8 skills in this plugin. Both links in each row do
 | [`projektunterlagen-und-quellen-sicher-einsetzen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/skills/projektunterlagen-und-quellen-sicher-einsetzen/SKILL.md) | Prüft vor der KI-Nutzung von Bauakten Datenumfang, Vertraulichkeit, Rechte, Anbieterbedingungen und tatsächlich verfügbare Werkzeuge. Erstellt eine begründete Nutzungsentscheidung mit sicherer Alternative und Quellenplan, ohne Produktgar... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/skills/projektunterlagen-und-quellen-sicher-einsetzen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie, ob die Anwendung nur Belege ordnet oder selbst Bau-Sicherheitsfunktionen übernimmt. Belegen Sie den vorgesehenen Arbeitsablauf mit Anleitung und Angebot; eine Schulungsbescheinigung ersetzt keine Prüfung der freigegebenen Verwendung.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

@@ -34,6 +34,8 @@ ISO 31000, ISO/IEC 42001 und ISO/IEC 23894 sind nicht allein durch ihre Erwähnu
 Eine Normenliste und Social-Media-Hinweise sind Suchanlässe. Tragende Aussagen werden am amtlichen Volltext geprüft. Ein unmittelbar einschlägiges höchstrichterliches Urteil zur neuen Spezialprüfung wird hier nicht als bereits verifiziert behauptet. Nicht aus der Zahl vorhandener Links auf Vollständigkeit der Rechtsprechungsrecherche schließen.
 
 
+Ordnen Sie technische Nachweise ihrem konkreten Registerfeld oder Meldeanlass zu. Verwenden Sie die [Nachweisreferenz](references/nachweise-und-standards.md): ISO-Managementzertifikat, Bescheinigung der notifizierten Stelle, EU-Konformitätserklärung, Folgenabschätzung und Testbericht haben unterschiedliche Funktionen. Ein technisch belastbarer Bericht entscheidet nicht allein über Pflicht, Zuständigkeit oder Frist. Verwenden Sie die fünf [Testanker](references/testanker.md), um den betroffenen Datensatz und seine Begründung bei einer entscheidenden Tatsachenänderung fortzuschreiben.
+
 ## 1.3. Gespräch und Fortsetzung
 
 Fragen Sie bei offenem Auftrag: „Welches Ergebnis benötigen Sie: eine begründete Entscheidung, einen vollständigen Entwurf oder die Vorbereitung einer konkreten Übermittlung?“ Ist das Ergebnis bereits bestellt, fragen Sie es nicht erneut. Bieten Sie bei einer fehlenden Tatsache eine präzise Auswahl oder eine konkrete Beleganforderung an. Die Frage „Haben Sie alle Unterlagen?“ ist regelmäßig weniger hilfreich als „Welche Version war am Ereignistag produktiv, und wo ist ihre Freigabe dokumentiert?“
@@ -57,6 +59,10 @@ Die Registrierung ist nach dem Normtext vor Inverkehrbringen oder Inbetriebnahme
 Fragen Sie gezielt nach der fehlenden Tatsache, die den Datensatz blockiert: etwa dem rechtlichen Anbieter eines unter Konzernmarke vertriebenen Systems oder dem Datum einer erheblichen Konzeptänderung. Bereiten Sie den übrigen Datensatz bereits vor. Kennzeichnen Sie fehlende Belege als offen; erfinden Sie weder eine Kennnummer noch eine erfolgte Registrierung.
 
 Vor einer Portalübermittlung zeigen Sie den tatsächlich zu übermittelnden Datensatz, Anhänge, Sichtbarkeit und Empfänger. Eine namentliche Freigabe gilt für diese Fassung. Nach einer autorisierten Übermittlung sichern Sie Eingangsbeleg und Kennung und gleichen den gespeicherten Datensatz gegen die freigegebene Fassung ab. Ein Timeout ist ein ungeklärter Ausgang, kein Anlass zur sofortigen zweiten Registrierung.
+
+Prüfen Sie die Bescheinigungsfelder nach Anhang VIII Abschnitt A Nummern 8 und 9 gegen das richtige Dokument. Ein ISO/IEC-42001-Managementzertifikat wird dort nicht als Artikel-44-Bescheinigung eingetragen. Auch ISO/IEC 42006:2025 belegt keine Notifizierung. Bei einem System unter interner Kontrolle nach Artikel 43 Absatz 2 kann der sachgerechte Befund lauten, dass eine solche Bescheinigung nicht einschlägig ist; das ist von einem fehlenden erforderlichen Nachweis zu unterscheiden. Die EU-Konformitätserklärung nach Nummer 11 wird unabhängig davon geprüft.
+
+Der ausgefüllte Feldabgleich benennt Rechtsträger, Systemversion, ausstellende Stelle, Geltungsdauer und gesetzliche Funktion jeder Anlage. Besteht ein Widerspruch zwischen Vertriebszertifikat und Verfahrensunterlagen, erstellen Sie bereits die zutreffenden Teile und ein bestimmtes Nachforderungsschreiben. Maßstab sind die [Nachweisreferenz](references/nachweise-und-standards.md) und [Testanker 1](references/testanker.md).
 
 ### 2.3. Produkt und Fortsetzung
 
@@ -84,6 +90,10 @@ Führen Sie einen eigenen Änderungsverlauf der Ausnahmebewertung. Eine neue Dat
 
 Die Behörde kann die Bewertung nach Artikel 80 überprüfen. Eine erfolgreiche technische Registrierung bestätigt nicht die Rechtmäßigkeit der Einstufung. Halten Sie Begründung, Beleglage und Version so fest, dass die betreffende Entscheidung später reproduziert werden kann.
 
+Ein ISO-Zertifikat kann keine Ausnahme nach Artikel 6 Absatz 3 belegen. Der Ausnahmevermerk muss erklären, welche tatsächliche Funktion des Systems die konkrete Bedingung erfüllt und weshalb keine erhebliche Beeinflussung des Entscheidungsergebnisses vorliegt; die Profiling-Rückausnahme ist gesondert zu prüfen. Ein späterer Bericht über neue Gewichtungen oder persönliche Merkmale ist daher gegen die tatsächliche Funktion zu lesen, auch wenn das Zertifikat unverändert gültig bleibt.
+
+Anhang VIII Abschnitt B verlangt den aktuellen Ausnahmegrund und Systemstatus. Übertragen Sie nicht ungeprüft die Zertifikatsfelder des Abschnitts A in diesen Weg. Die [Nachweisreferenz](references/nachweise-und-standards.md) trennt technische Vorarbeit und gesetzlichen Tatbestand.
+
 ### 3.3. Produkt und Fortsetzung
 
 Registrierungsentwurf für den Ausnahmefall, konsistenter Einstufungsvermerk, Änderungsübersicht und Antwortentwurf auf ein Auskunftsersuchen. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -109,6 +119,10 @@ Verknüpfen Sie die beabsichtigte Nutzung mit der richtigen Anbieter- und System
 Erstellen Sie die Angaben nach Anhang VIII Abschnitt C und prüfen Sie die Sichtbarkeit. Die Registerbeschreibung darf keine personenbezogenen Fallakten enthalten. Beschreiben Sie die Nutzung allgemein genug zum Schutz der Betroffenen, aber genau genug zur Erkennbarkeit des Einsatzzwecks. Geheime oder sensible Verwendungen werden anhand des gesetzlichen Sonderwegs geprüft, nicht durch frei erfundene Geheimhaltungsfelder.
 
 Prüfen Sie neben der Registerfrage gesondert, ob eine Grundrechte-Folgenabschätzung nach Artikel 27 erforderlich ist. Deren Mitteilung, die Anbieterregistrierung und die Betreiberregistrierung sind verschiedene Vorgänge. Zeigen Sie nach einer Freigabe in einer knappen Statusübersicht, welcher Vorgang vorbereitet, tatsächlich übermittelt oder noch ungeklärt ist.
+
+Nutzen Sie eine vorhandene Folgenabschätzung nach ISO/IEC 42005:2025 nur soweit sie den konkreten Betreiberprozess und dessen Betroffene tatsächlich beschreibt. Eine Konzern- oder Anbieterbewertung für einen anderen Einsatzort ersetzt den Abgleich nach Artikel 27 nicht. Die Zusammenfassung für Anhang VIII Abschnitt C Nummer 4 ist aus den tragenden Ergebnissen zu erstellen; Rohberichte und ein allgemeines Managementzertifikat gehören nicht automatisch in das öffentliche Feld.
+
+Halten Sie die Änderungen gegenüber einer nutzbaren Vorbewertung fest: Nutzungsfrequenz, betroffene Gruppen, Schaden, Aufsicht und Abhilfe. Schreiben Sie anschließend genau die betroffenen Registerangaben fort, einschließlich des gesondert geprüften Zeitrechts. Verwenden Sie die [Nachweisreferenz](references/nachweise-und-standards.md) und [Testanker 2](references/testanker.md).
 
 ### 4.3. Produkt und Fortsetzung
 
@@ -161,6 +175,10 @@ Erstellen Sie unverzüglich einen belastbaren Erstbericht, wenn die vollständig
 Die Meldung des Anbieters richtet sich an die Marktüberwachungsbehörden der Mitgliedstaaten, in denen der Vorfall stattgefunden hat. Prüfen Sie die deutsche Zuständigkeit anhand des aktuellen KI-MIG und gegebenenfalls sektorspezifischer Regelungen. Absatz 9 und Absatz 10 enthalten besondere Grenzen bei gleichwertigem Sektorrecht beziehungsweise Medizinprodukten; ersetzen Sie deshalb nicht jede Vigilanzmeldung durch einen AI-Act-Bogen.
 
 Sichern Sie Beweise und vermeiden Sie ursachenverändernde Untersuchungen ohne die nach Absatz 6 erforderliche Information der Behörde. Parallel dürfen erforderliche Schutzmaßnahmen nicht nur wegen eines perfekten Berichts liegen bleiben. Nach Versand folgen Empfangsabgleich, Ergänzungsfrist und Verantwortliche. Datenschutz-, Produktsicherheits- und IT-Sicherheitsmeldungen bleiben gesondert zu prüfen.
+
+Gleichen Sie die interne Klassifikation eines Qualitäts- oder Risikomanagementsystems mit Artikel 3 Nummer 49 und Artikel 73 ab. „Audit ohne Abweichung“, „Risiko gering“ oder ein weiterhin gültiges ISO-Zertifikat schließen einen schwerwiegenden Vorfall nicht aus. Maßgeblich sind die tatsächlichen Folgen, Kenntniszeitpunkte und der gesetzliche Kausalitätsmaßstab. Ein ausstehender technischer Abschlussbericht hält die gesetzliche Höchstfrist nicht an.
+
+Wenn eine vollständige Ursachenanalyse noch fehlt, prüfen Sie den unvollständigen Erstbericht nach Artikel 73 Absatz 5. Er enthält belegte Tatsachen, offene Kausalitätsfragen, Sicherungsmaßnahmen und die konkret vorgesehene Ergänzung. Prüfen Sie Absatz 6, bevor technische Untersuchungen Beweismittel oder Systemzustand verändern. Nutzen Sie die [Nachweisreferenz](references/nachweise-und-standards.md) und [Testanker 4](references/testanker.md).
 
 ### 6.3. Produkt und Fortsetzung
 
@@ -240,6 +258,10 @@ Prüfen Sie einen Testplan, den Mitgliedstaat, den tatsächlichen Behördeneinga
 
 Planen Sie gesonderte Nachrichten über Verlängerung, Aussetzung, Abbruch und Endergebnisse. Ein schwerwiegender Vorfall während des Tests löst den besonderen Ablauf nach Artikel 60 Absatz 7 aus. Entwerfen Sie erforderliche Sofortmaßnahmen, ohne aus dem Teststatus eine Erlaubnis für verbotene Praktiken nach Artikel 5 abzuleiten.
 
+Für eine vorgelegte Folgenabschätzung nach ISO/IEC 42005:2025 erstellen Sie den feldweisen Abgleich mit Artikel 27 Absatz 1. Der öffentliche ISO-Katalog beschreibt eine allgemeine Folgenabschätzung; daraus folgt keine Erfüllung sämtlicher Betreiberpflichten. Eine inhaltlich passende Vorbewertung kann nach Absatz 2 genutzt werden. Verändert sich der örtliche Ablauf oder die betroffene Personengruppe, begründen Sie die nötige Aktualisierung und verfassen Sie die daraus folgende Ergebnismitteilung.
+
+Ein Testplan mit Bezug auf ISO/IEC TS 42119-2:2025 kann technische Testentscheidungen strukturieren. Er begründet keine Zulassung nach Artikel 60, keine Teilnehmer-Einwilligung und keinen nachgewiesenen Behördeneingang. Stellen Sie fest, ob die technische Testumgebung isoliert ist oder Ausgaben bereits reale Entscheidungen beeinflussen. Die [Nachweisreferenz](references/nachweise-und-standards.md) sowie [Testanker 2 und 3](references/testanker.md) führen zu unterschiedlichen, konkret begründeten Produkten.
+
 ### 9.3. Produkt und Fortsetzung
 
 FRIA-Ergebnismitteilung oder Testantrag, Feldpaket, Verantwortungsmatrix, Nachforderung und Mitteilung über Teständerung oder Testende. Stellen Sie das Produkt bereits vollständig her, soweit die Belege reichen. Benennen Sie eine verbleibende entscheidende Frage mit ihrem Einfluss auf Ergebnis oder Versandfähigkeit. Bei einer Antwort ändern Sie genau die betroffenen Teile und prüfen die angrenzenden Entscheidungen auf Widersprüche.
@@ -291,6 +313,10 @@ Bei Verbindungsabbruch sichern Sie Zeitpunkt, Portalzustand und gegebenenfalls N
 Ordnen Sie Nachforderungen dem Ausgangsvorgang zu. Neue Informationen können die Bewertung und andere Meldungen ändern. Prüfen Sie konkret, ob der ursprüngliche Sachverhalt berichtigt, ein Bericht ergänzt oder eine neue Meldung eröffnet werden muss. Bewahren Sie die frühere Fassung als solche auf und dokumentieren Sie den Grund der Änderung. Ein stilles Überschreiben lässt den tatsächlichen Kenntnis- und Mitteilungsstand verschwinden.
 
 Fristen werden mit Auslöser und Rechtsgrund erfasst, nicht aus einer bloßen Zahl im E-Mail-Betreff übernommen. Eine Excel-Ampel ist eine Organisationshilfe; sie ersetzt keine rechtliche Berechnung oder die sofortige Handlungspflicht. Der Abschlussvermerk nennt, welche Pflichten tatsächlich erledigt sind, welche Rückmeldungen fehlen und wer die nächste Handlung übernimmt.
+
+Führen Sie Zertifikatsstatus, gesetzliche Systembescheinigung, EU-Konformitätserklärung und Behördeneingang in getrennten Feldern. Ein im internen Qualitätsmanagement erledigtes Ticket ist kein Empfangsnachweis. Bei einer ausgesetzten Artikel-44-Bescheinigung ist zu prüfen, welche aktuellen Registerangaben und Korrekturmeldungen betroffen sind; die bloße Erneuerung eines allgemeinen ISO-Zertifikats aktualisiert die gesetzliche Systembescheinigung nicht.
+
+Verknüpfen Sie jede Fortschreibung mit der geänderten Originaltatsache, der freigegebenen Fassung und dem tatsächlichen Übermittlungsstatus. Die [Nachweisreferenz](references/nachweise-und-standards.md) und [Testanker 5](references/testanker.md) prüfen die Grenze zwischen internem Abschluss und extern belegtem Ergebnis.
 
 ### 11.3. Produkt und Fortsetzung
 

@@ -45,3 +45,4 @@ Eine KI-Nutzung in der Kanzlei ist berufsrechtskonform, wenn kumulativ erfüllt:
 
 ## Trade-off
 Lückenlose Belegführung kostet Aufwand und schafft Auditierbarkeit; im Streitfall (Anwaltskammer, Datenschutzaufsicht, Versicherung) entscheidet die Beleglage. Empfehlung: zentrale Ablage je Tool, automatische Erinnerungen für Reviews, jährliche Selbstauskunft des Anbieters.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

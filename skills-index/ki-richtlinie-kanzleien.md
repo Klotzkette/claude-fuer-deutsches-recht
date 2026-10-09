@@ -1,6 +1,6 @@
 # ki-richtlinie-kanzleien
 
-**60 Skills** · Stand `v445.35.0`
+**60 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-richtlinie-kanzleien/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`ki-richtlinie-kanzleien-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`ki-richtlinie-kanzleien-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-richtlinie-kanzleien/ki-richtlinie-kanzleien-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-richtlinie-kanzleien.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-richtlinie-kanzleien.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-richtlinie-kanzleien.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-richtlinie-kanzleien.zip) |
 
 ## So benutzt man einen Skill
 

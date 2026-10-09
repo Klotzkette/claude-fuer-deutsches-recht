@@ -231,5 +231,12 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-urheber-medienrecht.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "Foto-Lizenzpreis-Hauptproblem/Fokusskill bleiben beim speziellen Nachlizenzierungsanker I ZR93/19: Produktgestaltung ist keine Tarifentscheidung; Paragraf72UrhG nicht mit Originalität verwechseln. Beide neue Anker in breiter Werkstatt/Mini und vorhandenem Lizenzverhandlungsskill."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-urheber-medienrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie technische Markierung, Offenlegung gegenüber dem Publikum und Rechte am verwendeten Inhalt. Eine Kennzeichnung heilt keine fehlende Nutzungsbefugnis.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

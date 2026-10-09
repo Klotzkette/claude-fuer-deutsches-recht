@@ -39,6 +39,12 @@ Für Justizassistenz die Aktenpaginierung von Sachverhaltsauswahl, Beweiswürdig
 
 Allein der Name einer Partei im Dokument ist kein Profiling. Eine automatisierte Zuverlässigkeits- oder Leistungsbewertung, eine persönliche Risikoprognose oder ein entsprechender Score kann hingegen persönliche Aspekte bewerten. Daten, abgeleitete Merkmale, Bewertungszweck und Verwendung prüfen. Die Rückausnahme gilt innerhalb des Anhang-III-Tatbestands; sie macht nicht jede beliebige Profilingsoftware automatisch zu einem dort genannten System. Die Dokumentation nach Absatz 4 darf eine fehlende technische Aufklärung nicht als negatives Testergebnis ausgeben.
 
+### 3.6 Die menschliche Mitwirkung rechtlich getrennt würdigen
+
+Wenn ein neues Protokoll unabhängige menschliche Prüfung belegt, ist der Artikel-22-Befund neu zu würdigen. Eine fortbestehende automatisierte persönliche Bewertung innerhalb eines Anhang-III-Falls kann die Ausnahme nach Artikel 6 Absatz 3 trotzdem sperren. Diese beiden Ergebnisse sind kein Widerspruch. C-634/21, Rn. 43–50 und 60–64, trägt den gesonderten Datenschutzmaßstab, nicht die KI-VO-Rückausnahme. Fehlende Protokolle nicht als sicheren Beweis unterbliebener Kontrolle ausgeben.
+
+Die [verifizierten Rechtsprechungsanker](../../references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](../../references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Prüfe Artikel 6 Absätze 3 und 4, Artikel 49 Absatz 2, Anhang VIII Abschnitt B und Artikel 111/113 anhand der [Quellen](../../references/rechtsstand-und-quellen.md). Nutze die [Zitierweise](../../references/zitierweise.md). Kennzeichne einen noch nicht verifizierten Datenbankablauf als praktische Lücke und nicht als Wegfall einer gesetzlichen Pflicht.

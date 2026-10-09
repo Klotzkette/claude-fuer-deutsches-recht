@@ -244,5 +244,12 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-gewerblicher-rechtsschutz.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-gewerblicher-rechtsschutz/references/ki-normen-und-fallpruefung.md",
+    "focus": "Verlangen Sie bei einem beworbenen KI-Zertifikat Aussteller, geprüften Gegenstand, Systemversion und behauptete Rechtswirkung. Eine transparente Herkunftskennzeichnung ersetzt weder eine Lizenz noch den Nachweis einer Werbeaussage.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

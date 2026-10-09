@@ -54,3 +54,4 @@ Frage knapp ab:
 4. **Menschliche Kontrolle:** Kein Schriftsatz, keine Frist, kein Vergleichsvorschlag ohne Berufsträgerprüfung.
 5. **Vorfälle:** Meldeschiene an IT, Datenschutz, Berufsrecht, Mandatsverantwortliche; Sofortstopp bei Geheimnisabfluss.
 6. **KI-Kompetenz:** Schulung nicht als Folienfriedhof, sondern mit echten Kanzleifällen: falsches Zitat, Prompt-Injection, versehentlicher Upload, Drittstaatfrage.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ordnen Sie Recherche, Mandantendialog und entscheidungsunterstützende Systeme getrennt ein. Die persönliche Berufspflicht und das konkrete Dienstleisterrisiko bleiben neben der KI-VO bestehen; eine Softwarefreigabe beantwortet sie nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

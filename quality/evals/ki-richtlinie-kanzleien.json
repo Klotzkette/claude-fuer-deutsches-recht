@@ -63,7 +63,7 @@
       "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "1501c960102bc9ce0ce8f2dc23f4863eee2b46d9820ee0361ce6ef9e4b4eb18a"
+    "sha256": "7f801252cfb14736d2119d28103d9f93fbfe1821e3c3cd374433f8c6b288a65f"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -74,7 +74,7 @@
       "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
       "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand."
     ],
-    "sha256": "86aea709351dfa0fcc09faa26f8b951f091c9e690d83a5e8764abdad84fcbd37"
+    "sha256": "2de39605e1dce29989c9757ab84599a8a93f71f3608f251855c0f05dde95e577"
   },
   "selection": {
     "positive": [
@@ -161,5 +161,12 @@
     "continuation": "Supportzugriff trotz Trainingssperre -> Daten-/Dienstleisterabschnitt in ki-richtlinie.md ändern; reine Anlagenzuordnung -> dort nur passende Übung und Kontrollregel ergänzen, unveränderte Abschnitte erhalten.",
     "enrichment": "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "ki-richtlinie-kanzleien/references/ki-normen-und-fallpruefung.md",
+    "focus": "Beschreiben Sie erlaubte Arbeitsschritte, Datenzugriffe, Kontrollhandlungen und Eskalationsfälle konkret. Ein Schulungsnachweis oder eine allgemeine KI-Policy beweist weder Systemkonformität noch ausreichende Prüfung im Einzelmandat.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

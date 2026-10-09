@@ -33,6 +33,8 @@ Beim Cyber Resilience Act zuerst Produkt mit digitalen Elementen, Marktbereitste
 
 Wiederanlauf erst mit belegtem Test der betroffenen Zugriffskette empfehlen: isolierte Umgebung, harmlose manipulierte Eingabe, verweigerter Fremdzugriff, funktionierende Unterbrechung und keine doppelte Außenhandlung. Reale Angriffe gegen fremde Systeme sind nicht Gegenstand dieses Skills. Fehlender Test sperrt die behauptete Betriebsfreigabe, nicht den fristgerechten Meldungsentwurf.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Führen Sie Cybervorfall, Datenschutzverletzung und schwerwiegenden KI-Vorfall in getrennten Prüfspuren. Ein gemeinsamer Zeitstrahl erleichtert den Abgleich, setzt aber die gesetzlichen Voraussetzungen und Empfänger nicht gleich. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Paragraf 30 BSIG](https://www.gesetze-im-internet.de/bsig_2025/__30.html), [Paragraf 32 BSIG](https://www.gesetze-im-internet.de/bsig_2025/__32.html), Artikel 2, 3, 14, 69 und 71 des [Cyber Resilience Act](https://eur-lex.europa.eu/eli/reg/2024/2847/oj?locale=de), Artikel 25 und 32 DSGVO. EuGH, Urteil vom 14.12.2023, C-340/21, Randnummern 30 bis 47: Angriff allein beweist keine unzureichenden Maßnahmen; Angemessenheit konkret prüfen. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340). Kein Urteil zu Agenten oder BSIG-Meldefristen. Prüfstand 2. Oktober 2026; [Quellenprüfung](../../references/QUELLEN.md).

@@ -1,3 +1,7 @@
+# ki-verordnung-v445.35.1 – 2026-10-09
+
+80 betroffene Plugins fachlich vertieft: Zweckbestimmung, Fehlgebrauch, Datenanforderungen, Verbotsmerkmale, Transparenz, Normenwirkung und begrenzte Rechtsprechungsargumente. Acht amtlich gelesene Entscheidungen mit konkreten Randnummern; öffentliche ISO-/DIN-Ausgaben von tatsächlicher Normenanwendung getrennt. Sechs Kernkomponenten erhalten je fünf Gegenproben, fünf neue vollständige Akten ergänzen die neun vorhandenen Fälle. Acht PDF-Lesefassungen aktualisiert; Komponentenrouting und Paketprüfungen erweitert.
+
 # kompatibilitaet-v445.35.1 - 2026-10-09
 
 ## 1. Import und Downloads

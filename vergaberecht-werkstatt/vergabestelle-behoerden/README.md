@@ -9,7 +9,7 @@
 
 **1. Einmal installieren**
 
-- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
+- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
 - **Claude Code:**
 
 ```text
@@ -37,7 +37,7 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | --- | --- | --- |
 | Werkstatt (Markdown) | [vergabestelle-behoerden-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md" download="vergabestelle-behoerden-werkstatt.md">Markdown herunterladen</a> |
 | Schnellstart (Markdown) | [vergabestelle-behoerden-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md" download="vergabestelle-behoerden-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/vergabestelle-behoerden.zip) |
+| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/vergabestelle-behoerden.zip) |
 | Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/vergabestelle-behoerden.md) | [`vergabestelle-behoerden-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) |
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-vergabestelle.md) | [`vergaberecht-arbeitsprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-vergabestelle.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-vergabestelle.md) | [`vergaberecht-kurzprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-vergabestelle.md) |
@@ -312,6 +312,7 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 | `references/QUELLEN-AKTUALITAET.md` | [Ansehen](references/QUELLEN-AKTUALITAET.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/QUELLEN-AKTUALITAET.md) |
 | `references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md` | [Ansehen](references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/WIRKLICHKEITSDATEN-BESCHAFFUNGSSTEUERUNG.md) |
 | `references/bundeswehrbeschaffung-bwbbg-2026.md` | [Ansehen](references/bundeswehrbeschaffung-bwbbg-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/bundeswehrbeschaffung-bwbbg-2026.md) |
+| `references/ki-normen-und-fallpruefung.md` | [Ansehen](references/ki-normen-und-fallpruefung.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md) |
 | `references/leitentscheidungen-anker.md` | [Ansehen](references/leitentscheidungen-anker.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/leitentscheidungen-anker.md) |
 | `references/methodik-vergaberecht.md` | [Ansehen](references/methodik-vergaberecht.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/methodik-vergaberecht.md) |
 | `references/netto-null-technologien-vergabe-2026.md` | [Ansehen](references/netto-null-technologien-vergabe-2026.md) | [Raw](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/vergabestelle-behoerden/references/netto-null-technologien-vergabe-2026.md) |
@@ -324,3 +325,9 @@ Alle mitgelieferten Hilfsdateien sind einzeln erreichbar und zusätzlich im Plug
 </details>
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

@@ -135,3 +135,4 @@ Artikel 50 trennt Anbieter- und Betreiberpflichten: Interaktionsinformation, tec
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie lektorierende Bearbeitung, synthetische Beiträge und Veröffentlichungsverantwortung. Prüfen Sie die Ausnahme für redaktionell kontrollierte Informationstexte anhand des tatsächlichen Ablaufs, ohne sie auf Bilder zu übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

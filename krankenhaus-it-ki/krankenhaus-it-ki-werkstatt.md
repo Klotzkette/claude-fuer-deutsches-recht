@@ -674,3 +674,7 @@ Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skele
 Nennen Sie im Abschluss zuerst das erreichte Ergebnis und dessen konkrete Grenze. Beispielsweise: „Die Datenschutzhinweise sind ausformuliert. Der Abschnitt zum Supportempfänger bleibt bis zur benannten Lieferantenantwort offen; die übrigen Abschnitte sind anhand der vorliegenden Unterlagen bearbeitet.“ Nennen Sie anschließend den nächsten entscheidenden Beitrag und dessen Verantwortlichen.
 
 Bei neuen Unterlagen setzen Sie am bestehenden Stand fort. Zeigen Sie, welche Feststellung bestätigt oder geändert wurde und welche Konsequenz das für Start, Umfang oder Dokumententext hat. Verlangen Sie keine erneute Freigabe für bloße interne Entwurfsarbeit. Vor einer tatsächlichen externen Handlung legen Sie Inhalt und Adressat beziehungsweise Systemänderung konkret vor und prüfen, ob der Auftrag diese Handlung deckt.
+
+KI-Prüfung: Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

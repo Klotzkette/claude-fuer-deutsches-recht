@@ -1,0 +1,93 @@
+name: ki-hochrisiko-mainblick-bewerbung
+plugin: ki-verordnung-hochrisiko-pruefer
+description: Versionsbezogene Bewerbungsprüfung anhand nativer Unterlagen und einer nachgereichten Datenbasis.
+checks:
+  - id: datei-01
+    check_type: file_exists
+    path: 01_Auftrag.docx
+    description: "1 Auftrag zur Prüfung der Bewerbungsauswahl."
+  - id: datei-02
+    check_type: file_exists
+    path: 02_Technische_Systemnotiz.docx
+    description: "1 Technische Systemnotiz A 1.6 und B 2.2."
+  - id: datei-03
+    check_type: file_exists
+    path: 03_Auswahlprotokoll.docx
+    description: "1 Protokoll der Auswahlbesprechung."
+  - id: datei-04
+    check_type: file_exists
+    path: 04_Anbieterantwort.docx
+    description: "1 Antwort auf Ihre Fragen zur Auswahlunterstützung."
+  - id: datei-05
+    check_type: file_exists
+    path: 05_Daten_und_Kontrollnotiz.docx
+    description: "1 Datenstand, Kontrollzahlen und neue Unterlage."
+  - id: datei-06
+    check_type: file_exists
+    path: 06_Entwurf_Antwort_Yilmaz.docx
+    description: "1 Entwurf der Antwort an Mira Yılmaz."
+  - id: datei-07
+    check_type: file_exists
+    path: 07_Auftrag.pdf
+    description: "1 Auftrag zur Prüfung der Bewerbungsauswahl als identische Lesefassung."
+  - id: datei-08
+    check_type: file_exists
+    path: 08_Technische_Systemnotiz.pdf
+    description: "1 Technische Systemnotiz A 1.6 und B 2.2 als identische Lesefassung."
+  - id: datei-09
+    check_type: file_exists
+    path: 09_Auswahlprotokoll.pdf
+    description: "1 Protokoll der Auswahlbesprechung als identische Lesefassung."
+  - id: datei-10
+    check_type: file_exists
+    path: 10_Anbieterantwort.pdf
+    description: "1 Antwort auf Ihre Fragen zur Auswahlunterstützung als identische Lesefassung."
+  - id: datei-11
+    check_type: file_exists
+    path: 11_Daten_und_Kontrollnotiz.pdf
+    description: "1 Datenstand, Kontrollzahlen und neue Unterlage als identische Lesefassung."
+  - id: datei-12
+    check_type: file_exists
+    path: 12_Entwurf_Antwort_Yilmaz.pdf
+    description: "1 Entwurf der Antwort an Mira Yılmaz als identische Lesefassung."
+  - id: datei-13
+    check_type: file_exists
+    path: 13_Pruefauftrag.eml
+    description: "Mainblick: Prüfauftrag und gewünschte Arbeitsprodukte."
+  - id: datei-14
+    check_type: file_exists
+    path: 14_Techniknachricht.eml
+    description: "Versionen und Modellkennung: technische Notiz."
+  - id: datei-15
+    check_type: file_exists
+    path: 15_Protokollnachtrag.eml
+    description: "Auswahlrunde: Ergänzung zur tatsächlichen Sichtung."
+  - id: datei-16
+    check_type: file_exists
+    path: 16_Anbieter_ticket7716.eml
+    description: "Ticket 7716 – Unsere Einordnung und Informationsgrenzen."
+  - id: datei-17
+    check_type: file_exists
+    path: 17_Datennachtrag.eml
+    description: "Nachtrag: Export, Kontrollnotiz und fehlendes Zertifikat B07."
+  - id: datei-18
+    check_type: file_exists
+    path: 18_Anfrage_und_Entwurf.eml
+    description: "Anfrage B07 vom 2. Oktober und aktueller Antwortentwurf."
+  - id: datei-19
+    check_type: file_exists
+    path: 19_Auswertung.xlsx
+    description: "Export mit Auswertung und Kontrollrechnungen."
+  - id: datei-20
+    check_type: file_exists
+    path: 20_Projektchat.txt
+    description: "Projektchat vom 24. September bis 9. Oktober 2026."
+  - id: auftrag
+    check_type: human_review
+    description: Werden die bestellten Dokumente ausformuliert und neue Belege in dieselbe Fassung eingearbeitet?
+  - id: belegabgleich
+    check_type: human_review
+    description: Werden Versionen, Rollen, Zeitpunkte und Aussagegrenzen von Unterlagen nachvollziehbar getrennt?
+  - id: quellen
+    check_type: human_review
+    description: Werden tragende rechtliche Aussagen anhand verifizierter aktueller Primärquellen begründet?

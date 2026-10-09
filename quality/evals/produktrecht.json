@@ -141,5 +141,12 @@
     "continuation": "Nachweis desselben fehlerhaften Gelenks in Charge K25 ändert Identifikation, Mengen und Kontaktkreis in rueckrufanzeige.md und massnahmenplan.md beziehungsweise Nutzerpfad; Rückläufer und wirksame Updates verändern den Maßnahmenstand ohne erneute Aufnahme bekannter Vertriebsdaten.",
     "enrichment": "Prüfmuster und Feldfehler abgeglichen, alternative Schadensursachen offengehalten, Updateversorgung nach Erreichbarkeit und Installation getrennt, Rücklaufmengen abgestimmt sowie Abhilfe und Verbraucherhandlung konkret ausformuliert; Abschluss nach belegter Wirksamkeit statt beliebiger Rücklaufquote.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "produktrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Bestimmen Sie Produktrechtsakt, Sicherheitsfunktion und vorgeschriebenes Bewertungsverfahren. Ein CE-Zeichen nach einem Produktrechtsakt darf nicht ohne Prüfung als vollständiger Nachweis aller KI-Systemanforderungen erscheinen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

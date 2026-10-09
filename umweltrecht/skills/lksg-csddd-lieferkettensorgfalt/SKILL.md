@@ -359,3 +359,4 @@ verabschiedet und wird jaehrlich aktualisiert.
 - BAFA-Verlautbarungen
 - UN Guiding Principles on Business and Human Rights
 - OECD Due Diligence Guidance
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Unterscheiden Sie Messdatenverarbeitung, behördliche Entscheidungsunterstützung und sicherheitsrelevante Anlagensteuerung. Nicht jede behördliche KI fällt allein wegen der Behördeneigenschaft unter Anhang III. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

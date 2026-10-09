@@ -44,3 +44,4 @@ Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **ki-governance** s
 
 ## Praxis-Tipp
 Häufiger Fehler: Pauschalsubsumtion "kein Hochrisiko" ohne Anhang-III-Prüfung. Im Output stets sichtbar machen: welche Anhang-III-Ziffer geprüft, mit welcher Begründung ausgeschlossen — sonst trägt die Klassifizierung im Audit nicht.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

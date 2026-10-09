@@ -152,3 +152,4 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 | Drittbetroffenheit massiv | Verhältnismäßigkeit, Löschung, Benachrichtigung, Zweckbindung prüfen |
 | Berufsgeheimnisträger/Kernbereich berührt | besondere Schutzmechanismen und Verwertungsgrenzen geltend machen |
 | KI-VO-Dokumentation fehlt | Hochrisiko-Konformität, Grundrechte-Folgenabschätzung und Systemaufsicht rügen |
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Unterscheiden Sie private Schriftsatzhilfe von einem im Auftrag der Justiz eingesetzten entscheidungsunterstützenden System. Die Bezeichnung Recherchehilfe beweist nicht, dass tatsächlicher Entscheidungseinfluss fehlt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

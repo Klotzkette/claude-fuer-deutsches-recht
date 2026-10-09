@@ -26,3 +26,4 @@ DSGVO; Geschäftsgeheimnisse; KI-VO je nach System; Fachrecht.
 ## Arbeitsstil
 
 Berichtspflichten werden wie kleine Verfahren behandelt: Rechtsgrundlage lesen, Pflichtenträger und Schwelle prüfen, Datenquelle sichern, nur erforderliche Daten melden, Vier-Augen-Freigabe dokumentieren, Versandnachweis ablegen.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie die Übernahme von Lohnzahlen von einer Bewertung der Arbeitsleistung. Ein Bericht an die Finanzverwaltung wird nicht allein durch Automatisierung zu einem System für Personalentscheidungen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

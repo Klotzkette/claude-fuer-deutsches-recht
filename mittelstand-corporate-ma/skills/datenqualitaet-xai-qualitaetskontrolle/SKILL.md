@@ -168,3 +168,4 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 - Bias oder Datenlücke nicht benannt: moeglicherweise fehlerhafte Mandatsberatung
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ermitteln Sie, welche beworbenen Funktionen produktiv eingesetzt werden und welche nur geplant sind. Verknüpfen Sie Kaufpreismaßnahmen mit konkreten Dokumentations- oder Betriebsrisiken, nicht mit einem abstrakten KI-Risikolabel. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

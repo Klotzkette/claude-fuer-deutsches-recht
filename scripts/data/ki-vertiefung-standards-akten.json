@@ -1,0 +1,360 @@
+[
+  {
+    "slug": "ki-register-havelgrund-sozialamt",
+    "title": "Havelgrund Sozialamt mit geplanter Antragsassistenz",
+    "ref": "HG-26-104",
+    "plugin": "ki-verordnung-register-meldungen",
+    "intro": "Die fiktive Gemeinde Havelgrund prüft eine Antragsassistenz für ihr Sozialamt. Sortierung, persönliche Priorisierung, Anbieterregistrierung und die Vorbereitung einer örtlichen Folgenabschätzung werden unterschiedlich beschrieben. Eine separat gekennzeichnete zukünftige Planspielvariante enthält widersprüchliche Kenntniszeitpunkte.",
+    "docs": [
+      {
+        "file": "01_Pruefauftrag.docx",
+        "title": "Auftrag zur Antragsassistenz im Sozialamt",
+        "author": "Gemeinde Havelgrund | Sozialamt | Dr. Amira Seidlein | Aktenstand 9. Oktober 2026",
+        "body": "An Rechtsanwältin Dr. Salome Fritsch\nKanzlei Fritsch und Partner, Lindenhof 8, 99084 Erfurt\n\n1 Gegenstand des Auftrags\n\nSehr geehrte Frau Dr. Fritsch, wir bitten um die rechtliche Bearbeitung unseres Vorhabens Fallspur. Die Gemeinde erwägt, ab 15. Februar 2028 eingehende Anträge auf ergänzende Sozialleistungen mit einer neuen Assistenz zu erschließen. Der Termin ist ein Planungstermin des Projekts. Er ist weder beschlossen noch aus einer gesetzlichen Frist abgeleitet. Bis heute werden nur erfundene Fälle in einer getrennten Umgebung verarbeitet. Es besteht kein Zugang zum Fachverfahren und keine Entscheidung über wirkliche Leistungsberechtigte.\n\nDie Havelgrund Digitaldienste GmbH soll die technische Betreuung übernehmen. Sie ist eine kommunale Gesellschaft mit eigener Rechtspersönlichkeit und soll keine Leistungsentscheidungen treffen. Vertragspartner für die Software wäre die Fallspur Systeme GmbH. Die Testkonten wurden von unserer IT eingerichtet. Es ist noch nicht entschieden, ob ein späterer Registereintrag durch das Sozialamt selbst oder eine beauftragte Person vorgenommen würde. Eine Vollmacht für eine tatsächliche Übermittlung haben wir nicht erteilt.\n\n2 Bestellte Ergebnisse\n\nBitte erstellen Sie einen ausformulierten Vermerk zu den konkret in Betracht kommenden Register- und Mitteilungsvorgängen. Wir benötigen einen Anbieter-Datensatz soweit aus den Unterlagen ableitbar, einen gesonderten Entwurf für die Verwendung durch die Gemeinde und ein Schreiben an den Anbieter zu den fehlenden Angaben. Unsere Leitungsvorlage in Dokument 06 soll zu einer begründeten Fassung weiterbearbeitet werden. Bezeichnen Sie jede offene Angabe so, dass eine konkrete Person sie beantworten kann. Ein bloßer Katalog aller denkbaren Pflichten hilft uns nicht.\n\nDer Anbieter beruft sich auf Artikel 6 Absatz 3. Gleichzeitig enthält die neue Version Werte zur Zuverlässigkeit eingereichter Unterlagen und eine Prioritätsreihenfolge. Bitte prüfen Sie die tatsächliche Funktion und die behauptete Ausnahme. Die Artikelnummer in der Anbieterantwort ist kein Ergebnis unserer Prüfung. Die separate Frage einer Grundrechte-Folgenabschätzung und ihrer Mitteilung darf weder in einem Anbieterregistereintrag aufgehen noch allein durch den technischen Test als erledigt gelten.\n\n3 Besondere Unterlage zum Bereitschaftsprozess\n\nDokument 05 enthält ein ausdrücklich zukünftiges Planspiel für einen angenommenen Betrieb im Jahr 2028. Seine Daten bezeichnen keine heute geschehenen Ereignisse. Wir benötigen dafür einen überarbeitbaren Ablaufentwurf mit alternativ zu prüfenden Kenntniszeitpunkten. Bitte behandeln Sie diese Variante nicht als heute laufende Meldefrist und behaupten Sie keine tatsächliche Schädigung. Die widersprüchlichen Zeitangaben sind bewusst noch nicht aufgelöst, weil wir erproben wollen, welche zusätzlichen Informationen unsere Dienstanweisung sichern muss.\n\n4 Bearbeitungsstand und Zuständigkeit\n\nOttilie Rabenstein kann den künftigen Arbeitsablauf erläutern. IT-Leiter Noah Aydin verantwortet den technischen Export. Winfried Degenhardt ist beim Anbieter für das Projekt zuständig. Die interne Besprechung am 16. Oktober 2026 ist nur unser Besprechungstermin. Bitte liefern Sie bis dahin die bearbeitbaren Entwürfe und kennzeichnen Sie entscheidende Restfragen. Nachrichten an Anbieter oder Behörden, Registerübermittlungen und produktive Änderungen sind nicht beauftragt.\n\nMit freundlichen Grüßen\nDr. Amira Seidlein\nLeitung Sozialamt"
+      },
+      {
+        "file": "02_Technische_Beschreibung.docx",
+        "title": "Fallspur Funktionen und Testgrenzen",
+        "author": "Fallspur Systeme GmbH | Produktteam | Noah Aydin und Juna Feldmann | 30. September 2026",
+        "body": "1 Version 0.8 zur Erschließung\n\nFallspur 0.8 liest mittels trainierter Dokumentenerkennung Eingangsschreiben aus, erkennt Datumsangaben und führt die Unterlagen in einer nach Eingangstag sortierten Liste zusammen. Unbekannte Dokumenttypen erscheinen mit der Kennzeichnung manuell zuzuordnen. Die Liste enthält keine Empfehlung zur Gewährung oder Höhe einer Leistung. Sämtliche Anträge erscheinen in derselben Reihenfolge wie im Eingangsjournal. In diesem Modus werden keine persönlichen Eigenschaften bewertet. Die Sachbearbeitung sieht die vollständigen Originaldokumente neben dem Inhaltsverzeichnis.\n\nDer Zugang ist auf zwölf namentlich eingerichtete Testkonten begrenzt. Die derzeitigen 80 Fälle wurden durch die Projektgruppe erfunden. Sie entsprechen keinen einzelnen Personen im Fachverfahren. Eine vorhandene Exporttaste erstellt eine lokale Datei; eine Schnittstelle zum Fachverfahren ist deaktiviert. Die Betreiberoberfläche kann nicht selbst Briefe verschicken oder Zahlungen auslösen. Der Dienst protokolliert, ob das Originalfenster geöffnet wurde, aber nicht, ob die Person den gesamten Text gelesen hat.\n\n2 Version 1.2 mit Priorisierung\n\nDie angebotene Version 1.2 ergänzt eine Warteschlange mit dem Wert Bearbeitungsbedarf von 0 bis 100. Das Modell nutzt fehlende Unterlagen, die Zahl bisheriger Nachreichungen und sprachliche Merkmale der Eingaben. Im Produktmeeting wurde außerdem ein vermutetes Mitwirkungsverhalten als Eingangsmerkmal genannt. Welche einzelnen Merkmale im ausgelieferten Modell tatsächlich gewichtet werden, hat die Entwicklung noch nicht vollständig dokumentiert. Die Reihenfolge wird standardmäßig nach dem Modellwert angezeigt. Eine Rückkehr zur Eingangsliste ist möglich, wird aber nicht nach jeder Anmeldung erzwungen.\n\nDie Projektgruppe hat neun synthetische Fälle mit zunächst geringer Priorität beobachtet, obwohl sie diese fachlich als zeitkritisch angelegt hatte. Die Ursachen sind ungeklärt. In den zwölf Fällen mit wenig deutschsprachigem Text gab es fünf solche Abweichungen. Für die übrigen 68 Fälle wurden vier Abweichungen gezählt. Dies sind Beobachtungen zu dem vorliegenden Testsatz, keine Aussage über eine reale Personengruppe. Für vier weitere hypothetische Haushaltstypen fehlen bisher geeignete Fälle vollständig.\n\n3 Systemabgrenzung und Zuständigkeiten\n\nDie kommunale Digitalgesellschaft wartet die Konten und sichert Exporte. Sie legt keine Leistungsregeln fest. Die Fachbereichsleitung soll später die Verwendung anordnen und die Sachbearbeitung einweisen. Der Anbieter könnte 1.2 technisch dauerhaft abschalten und nur 0.8 bereitstellen; ein solcher Vertragsnachtrag liegt noch nicht vor. Die einfache Anweisung, den Prioritätsreiter nicht zu öffnen, beseitigt seine technische Verfügbarkeit nicht.\n\nDie Screens der aktuellen Sitzung zeigen die Kennung FS-1.2-hg-test-04. Im Angebot steht dagegen Fallspur Kommunal 1.0. Vor einer Bestellung muss geklärt werden, welcher konkrete Stand geliefert und gewartet würde. Ein unterschriebenes Freigabeprotokoll für einen echten Leistungsbetrieb liegt nicht vor. Die geplante Beendigung der Testphase am 30. November 2026 ist eine interne Arbeitsplanung.\n\n4 Noch fehlende technische Angaben\n\nDie Entwicklung soll den Merkmalskatalog, die standardmäßige Ansicht nach dem Login, die Dauer einer Abschaltung und die möglichen Exporte bestätigen. Die IT kann ausschließlich die sichtbare Testkonfiguration beschreiben. Sie besitzt weder den Modellcode noch einen vollständigen Trainingsdatennachweis. Der Anbieter hat bisher keine konkrete Registerkennung zu genau dieser Version angegeben."
+      },
+      {
+        "file": "03_Besprechungsprotokoll.docx",
+        "title": "Besprechung zur örtlichen Verwendung von Fallspur",
+        "author": "Gemeinde Havelgrund | Protokoll Ottilie Rabenstein | 6. Oktober 2026",
+        "body": "1 Teilnehmer und Ziel\n\nAm 6. Oktober 2026 besprachen Dr. Amira Seidlein, Ottilie Rabenstein, Noah Aydin und Juna Feldmann von 14.00 bis 15.20 Uhr den Teststand. Winfried Degenhardt nahm die erste halbe Stunde per Videokonferenz teil. Gegenstand war die Frage, welche konkrete Fassung die Gemeinde überhaupt beschaffen möchte. Eine rechtliche Freigabe oder Entscheidung über die Beschaffung wurde nicht getroffen.\n\n2 Beobachtungen der Fachseite\n\nFrau Rabenstein berichtete, dass die Sachbearbeitung im alten Verfahren alle neuen Fälle nach Eingangstag sichtet und erkannte Dringlichkeit anschließend manuell berücksichtigt. In 1.2 beginnt die sichtbare Warteschlange mit den höchsten Modellwerten. Wenn ein Team nur die ersten zwanzig Einträge öffnet, sieht es die später eingereihten Anträge an diesem Tag möglicherweise nicht. Alle Einträge bleiben technisch erreichbar. Sie hielt deshalb die Aussage, die Software ändere nichts an der tatsächlichen Bearbeitung, für noch nicht belegt.\n\nHerr Aydin bestätigte 80 synthetische Testfälle. 57 Originalfenster wurden im ersten Durchgang geöffnet. Aus dem Protokoll lässt sich nicht ersehen, ob zusätzliche Ausdrucke gelesen wurden. Frau Feldmann hatte 23 Einträge anhand der Kurzansicht geprüft, ohne das Originalfenster zu öffnen. Sie widersprach der vorab versandten Zusammenfassung, jeder einzelne Fall sei vollständig gelesen worden. Die korrigierten Zahlen sollen in die Arbeitsmappe übernommen werden.\n\n3 Anbietererklärung und verbleibender Widerspruch\n\nHerr Degenhardt erklärte, das System könne keine Leistung ablehnen. Er sehe deshalb eine vorbereitende Aufgabe und berufe sich auf Artikel 6 Absatz 3. Auf Nachfrage bestätigte er jedoch, dass die vorgeschlagene Reihenfolge später als Standard vorgesehen sei. Er konnte nicht sagen, ob vermutetes Mitwirkungsverhalten im aktuellen Modell noch verwendet werde. Er will die technische Antwort getrennt von seiner rechtlichen Einschätzung nachreichen. Die Gemeinde hat diese Einschätzung nicht übernommen.\n\nEine Vorlage zur Folgenabschätzung des Anbieters bezieht sich auf einen allgemeinen Demonstrationsbetrieb mit zentralem telefonischem Beschwerdekanal. Havelgrund nimmt Einwendungen auch mündlich am Schalter und über Vertrauenspersonen entgegen. Für diese Wege enthält die Vorlage keine Beschreibung. Die Gemeinde hat noch nicht beschlossen, wer einen fehlerhaften Rang übersteuern darf und wie ein unbearbeiteter zeitkritischer Antrag auffällt. Frau Rabenstein wird einen Ablauf aus der Fachpraxis ergänzen.\n\n4 Aufgaben bis zur nächsten Sitzung\n\nHerr Aydin sichert die Konfiguration und liefert die Zählwerte. Frau Feldmann beschreibt die acht tatsächlich untersuchten Haushaltstypen sowie die vier bisher unbesetzten Typen. Frau Seidlein beauftragt die rechtliche Prüfung und führt Anbieterregistrierung, gemeindliche Verwendung und Folgenabschätzung als getrennte Arbeitsvorgänge. Niemand meldet heute einen Vorfall. Die Bereitschaftsübung in Dokument 05 betrifft ausschließlich einen angenommenen künftigen Betrieb; sie wird nicht in die tatsächliche Ereignischronologie dieses Projekts übernommen.\n\nDas Protokoll gibt Erklärungen und Beobachtungen wieder. Herr Degenhardt hat den Text noch nicht gegengezeichnet. Eine abweichende Rückmeldung wird dem Protokoll beigefügt, nicht stillschweigend in den ursprünglichen Stand eingearbeitet."
+      },
+      {
+        "file": "04_Anbieterantwort.docx",
+        "title": "Anbieterantwort zur geplanten Registrierung",
+        "author": "Fallspur Systeme GmbH | Winfried Degenhardt | Kiefernring 14 | 99189 Havelgrund | 7. Oktober 2026",
+        "body": "An die Gemeinde Havelgrund, Sozialamt\nZu Ihrem Fragenblatt vom 2. Oktober 2026\n\n1 Unsere bisherige Einordnung\n\nSehr geehrte Frau Dr. Seidlein, wir betrachten Fallspur Kommunal bislang als vorbereitende Assistenz. Die Sachbearbeitung entscheidet selbst über Leistungen; die Software verfügt über keinen Ablehnungs- oder Zahlungsbefehl. Unser Vertrieb hat sich deshalb auf die Ausnahme in Artikel 6 Absatz 3 bezogen. Eine eigenständige unterzeichnete Bewertung sämtlicher Voraussetzungen für Ihre geplante Konfiguration ist intern noch in Abstimmung. Bitte behandeln Sie die heutige Antwort als unsere vorläufige Position.\n\nIn einer Präsentation hatten wir erklärt, für ausgenommene Anwendungen sei keine Registrierung erforderlich. Wir können Ihnen derzeit weder eine Anbieterkennung noch einen bereits hinterlegten Systemdatensatz nennen. Unsere Rechtsabteilung prüft die Registerfrage einschließlich der Angaben, die eine Ausnahmebewertung begleiten müssten. Ich möchte mit dieser Nachricht nicht den Eindruck vermitteln, dass bereits ein Behördeneintrag vorgenommen worden sei.\n\n2 Technische Aussagen\n\nDie Version 0.8 kann isoliert betrieben werden. Das angebotene Paket enthält aber die zusätzliche Prioritätsansicht. Ob das persönliche Mitwirkungsverhalten in der konkreten Modellversion als Merkmal verblieben ist, muss die Entwicklung bestätigen. Ich hatte im ersten Gespräch gesagt, es gehe nur um Dokumentvollständigkeit. Diese Aussage beruhte auf einer früheren Funktionsliste. Das aktuelle technische Blatt ist für die Diskussion vorrangig heranzuziehen.\n\nEine Reihenfolge lässt sich manuell umstellen. Wir verfügen jedoch nicht über einen Nachweis, dass Beschäftigte dies regelmäßig tun. Die Gemeinde legt ihren organisatorischen Ablauf fest. Für Ihre Testinstanz wurde kein automatisierter Übergang zum Fachverfahren eingerichtet. Eine spätere Integration wäre ein gesonderter Auftrag und müsste technisch beschrieben werden.\n\n3 Unterlagen und Nachlieferung\n\nUnsere allgemeine Folgenabschätzung nennt standardisierte Schulung, monatliche Stichproben und eine zentrale Hotline. Sie wurde nicht gemeinsam mit Ihrem Sozialamt erstellt. Ein örtlicher Beschwerdeweg, der Umgang mit Vertretungspersonen und die Lage bei kurzfristiger finanzieller Not sind darin bislang nicht gesondert ausgearbeitet. Wir können vorhandene technische Informationen bereitstellen, möchten aber nicht behaupten, damit jede Pflicht Ihrer Gemeinde bereits erfüllt zu haben.\n\nFür eine technische Lückenerhebung schlagen wir einen Termin am 21. Oktober vor. Das ist keine behördliche Frist. Bitte teilen Sie uns mit, welche tatsächlichen Eigenschaften und Nachweise Sie benötigen. Eine Serienmail mit pauschaler Anforderung sämtlicher Unternehmensunterlagen würde die technische Antwort verzögern. Wir bevorzugen versionierte Fragen zu Ihrer Instanz.\n\nMit freundlichen Grüßen\nWinfried Degenhardt\nProjektgeschäft Kommunen"
+      },
+      {
+        "file": "05_Kontrollnotiz_Planspiel.docx",
+        "title": "Kontrollnotiz und zukünftiges Bereitschaftsplanspiel",
+        "author": "Gemeinde Havelgrund | Noah Aydin | interner Stand 8. Oktober 2026",
+        "body": "1 Gegenwärtige technische Kontrollen\n\nAm 8. Oktober 2026 um 10.10 Uhr wurde mit dem Testkonto hg-admin die fehlende Verbindung zum Fachverfahren kontrolliert. Ein Export von Fallspur nach Fachakte endete mit der Meldung Schnittstelle deaktiviert. Das Protokoll wurde als Text in die Projektdokumentation übernommen. Daraus folgt nur der Zustand dieses Anschlusses zu diesem Zeitpunkt. Lokale Tabellenexporte sind weiterhin möglich. Die 80 synthetischen Fälle werden nicht zu wirklichen Bescheiden weiterverarbeitet.\n\nDas Öffnungsprotokoll enthält 57 Zugriffe auf Originalfenster und 23 ausschließlich auf Kurzansichten. Eine erste Abgabe der IT hatte 60 vollständige Sichtungen genannt; drei davon waren nur erneute Öffnungen bereits gezählter Fälle. Die Arbeitsmappe enthält die bereinigte Fallzählung. Die Inhalte gelesener Papierunterlagen wurden nicht erhoben. Es wird nicht behauptet, eine technische Protokollzeile beweise die inhaltliche Prüfung.\n\n2 Ausschließlich zukünftige Planspielvariante\n\nDie folgenden Ereignisse sind Annahmen für eine Bereitschaftsübung. Sie haben am Aktenstand 9. Oktober 2026 nicht stattgefunden. Vorausgesetzt wird nur für die Übung ein späterer Betrieb im Februar 2028. Ob dieser Betrieb zulässig freigegeben werden könnte und welches Recht dann gilt, ist vor einer echten Verwendung gesondert zu prüfen. Aus den Szenariodaten wird keine heute laufende Frist berechnet.\n\nIm Szenario ruft eine Vertrauensperson am Montag, 21. Februar 2028, um 09.10 Uhr am Schalter an. Sie berichtet, dass ein dringlicher Antrag seit sechs Tagen nicht bearbeitet worden sei. Die angenommene Schalternotiz enthält noch keinen Hinweis auf eine Systemursache. Ein fiktives IT-Ticket von 10.35 Uhr nennt einen auffällig niedrigen Prioritätswert. Im Szenario ist unklar, ob zu diesem Zeitpunkt eine tatsächliche Verletzung geschützter Rechte oder nur eine drohende Verzögerung bekannt wäre.\n\n3 Widersprüchliche Kenntnisangaben\n\nDie Übungsrolle Fachaufsicht soll am 21. Februar um 14.20 Uhr ein Telefonat mit dem Anbieter geführt haben. Der Entwurf der Telefonnotiz spricht von Zusammenhang wahrscheinlich. Im ebenfalls angenommenen Anbieterjournal ist als erstes vollständiges Ticket erst der 22. Februar um 08.45 Uhr verzeichnet. Das Journal nennt seine Zeitstempel UTC, der Entwurf der Telefonnotiz Ortszeit. Die Differenz von 18 Stunden und 25 Minuten in der Tabelle bezieht sich zunächst nur auf die unveränderten Rohzeiten; die Zeitbasis ist nicht abgeglichen.\n\nEine spätere Übungskarte soll erst festlegen, welche tatsächlichen Folgen, welche Informationen und welche beteiligten Personen zu diesen Zeitpunkten bekannt waren. Es wäre unzutreffend, aus dem heutigen Papier bereits einen sicheren gesetzlichen Fristbeginn oder eine abgeschlossene Meldung zu entnehmen. Die Übung soll gerade prüfen, welche Belege zum Kenntnisinhalt fehlen und wie ein gegebenenfalls vorläufiger Bericht offen gebliebene Angaben kenntlich macht.\n\n4 Auftrag an die Verfahrensplanung\n\nDie Rechtsberatung soll die heutige Projektchronologie und die zukünftige Übungsvariante getrennt bearbeiten. Für die Variante werden eine konkrete Beleganforderung, ein bedingter Entwurf für die interne Eskalation und ein gegebenenfalls erforderlicher Erstbericht benötigt. Es wird keine Meldung abgesandt. Der Kopf jedes Entwurfs muss den angenommenen Szenariostand und die ungeklärte Kenntnislage enthalten. Eine interne Bearbeitungsmarke erledigt ist kein Behördeneingang."
+      },
+      {
+        "file": "06_Leitungsvorlage_Arbeitsentwurf.docx",
+        "title": "Arbeitsentwurf für die Entscheidung über Fallspur",
+        "author": "Gemeinde Havelgrund | Dr. Amira Seidlein | zur Überarbeitung | 9. Oktober 2026",
+        "body": "1 Entscheidung die vorbereitet werden soll\n\nDer Leitung wird vorgeschlagen, die Beschaffung der Antragsassistenz anhand einer konkret bezeichneten Funktionsfassung zu beraten. Gegenstand dieser Vorlage ist die Vorbereitung dieser Beratung. Eine Freigabe zur Nutzung mit wirklichen Leistungsanträgen wird mit dem Entwurf nicht erteilt. Der gewünschte Start am 15. Februar 2028 ist noch zu bestätigen und rechtlich nach dem dann geprüften Stand einzuordnen.\n\nDie bisherige Liste aller Compliance-Aufgaben ist für eine Entscheidung nicht ausreichend. Die abschließende Vorlage soll erläutern, welche Tätigkeit die Gemeinde ausüben würde, welches System sie dafür erhalten soll und welcher konkrete Nachweis die jeweilige Annahme trägt. Die Unterlagen benennen widersprüchliche Versionsstände. Diese Abweichung soll vor der Endfassung anhand der Antwort des Produktteams aufgelöst werden.\n\n2 Bisher belegter Sachstand\n\nVersion 0.8 erschließt Dokumente und erhält die Eingangsreihenfolge. Die angebotene Version 1.2 erzeugt eine modellgestützte Priorität. Der Anbieter beruft sich auf eine vorbereitende Tätigkeit. Die Fachseite beobachtet, dass die vorgeschlagene Reihenfolge die tatsächliche Sichtung beeinflussen könnte. Für zwölf Testfälle mit wenig deutschsprachigem Text und vier unbesetzte Haushaltstypen ist die Datengrundlage besonders begrenzt. Im aktuellen Test werden ausschließlich erfundene Fälle verwendet.\n\nDie Projektgruppe hat weder eine Anbieterregistrierung noch einen gemeindlichen Registereintrag dokumentiert. Ein allgemeiner Anbieterbericht zur Folgenabschätzung liegt als Beschreibung vor, behandelt aber unseren örtlichen Beschwerdeweg nicht. Es soll in der Endfassung nicht pauschal stehen, es gebe gar keine Vorarbeiten. Die tatsächlich nutzbaren Teile und die örtlich zu ergänzenden Inhalte sind gesondert zu benennen.\n\n3 Noch auszuarbeitende Bewertung\n\nHier ist die begründete Bewertung der konkreten Funktion und der geltend gemachten Ausnahme einzuarbeiten. Die Endfassung soll die Anbieterposition am vollständigen Tatbestand prüfen und insbesondere erklären, ob die verwendeten persönlichen Merkmale oder die tatsächliche Reihenfolge für das Ergebnis erheblich sind. Die Bewertung darf nicht allein auf den fehlenden automatischen Ablehnungsbefehl gestützt werden.\n\nDie getrennten Aussagen zur Registrierung des Anbieters, zur Registrierung der gemeindlichen Verwendung und zu einer gegebenenfalls erforderlichen Folgenabschätzung sind noch auszuarbeiten. Für jeden Vorgang sollen die belegbaren Angaben bereits formuliert und verbleibende Tatsachenfragen einer Person zugeordnet werden. Die Versionsbezeichnung, der tatsächlich vereinbarte Lieferumfang und der bestätigte erste Einsatzzeitpunkt sind bislang offen. Die noch fehlende Behördenkennung darf nicht durch eine erfundene Nummer ersetzt werden.\n\n4 Fortsetzung des Vorgangs\n\nDie zukünftige Bereitschaftsvariante aus Dokument 05 wird in einer separaten Anlage behandelt. Sie ist keine heute anhängige Vorfallmeldung. Die Endfassung soll kenntlich machen, auf welchen alternativen Kenntnisstand sich eine bedingte Empfehlung bezieht und welche Originalbelege bei einem echten Ereignis gesichert werden müssten. Die Leitungsvorlage wird nach dem Eingang der technischen Antwort in derselben Fassung fortgeschrieben. Eine erneute vollständige Projektaufnahme ist nicht vorgesehen.\n\nDie endgültige Empfehlung sowie Datum und Name der verantwortlichen Zeichnung werden nach der fachlichen und rechtlichen Bearbeitung ergänzt. Diese offenen Teile sind keine Beschlussfassung. Außenhandlungen werden erst anhand einer vollständig vorgelegten Fassung gesondert entschieden."
+      }
+    ],
+    "xlsx": "13_Testwerte_und_Planspiel.xlsx",
+    "chatfile": "14_Projektchat.txt",
+    "chat": "Gemeinde Havelgrund, Projektchat Fallspur, Export 09.10.2026, Akte HG-26-104.\n\n30.09.2026 09:10 Ottilie: In der Eingangsliste bleiben alle sichtbar. Die Reihenfolge in 1.2 ist aber anders.\n30.09.2026 09:13 Noah: Der Reiter ist standardmäßig offen. Ich kann nicht belegen, dass jeder zurückschaltet.\n01.10.2026 15:20 Juna: Zwölf Fälle haben wenig deutschsprachigen Text. Fünf der neun Prioritätsabweichungen stammen aus dieser Gruppe.\n01.10.2026 15:22 Amira: Bitte keine Aussage über echte Bevölkerungsgruppen daraus machen. Die Fälle sind erfunden.\n05.10.2026 10:05 Winfried: Ich hatte nur die frühere Merkmalsliste. Zum Mitwirkungsverhalten brauche ich die Entwicklung.\n06.10.2026 14:45 Ottilie: Die Hotline des Anbieters ersetzt unseren Schalterweg nicht. Beschwerden kommen oft über andere Personen.\n07.10.2026 11:05 Noah: Korrektur: 57 verschiedene Originalfenster geöffnet, nicht 60. Drei waren doppelt.\n07.10.2026 11:12 Juna: Dann 23 Fälle nur in Kurzansicht. So habe ich im ersten Durchgang gearbeitet.\n08.10.2026 09:00 Amira: Die Februar-2028-Zeitpunkte sind nur das zukünftige Bereitschaftsplanspiel. Kein realer Vorfall!\n08.10.2026 09:04 Noah: Im Übungsjournal steht UTC, im Telefonentwurf Ortszeit. Ich lasse den Unterschied sichtbar.\n09.10.2026 08:15 Ottilie: Bitte die Registrierung und unseren örtlichen Ablauf getrennt zur Besprechung mitbringen.\n",
+    "rows": [
+      [
+        "Wenig deutscher Text",
+        12,
+        5,
+        7
+      ],
+      [
+        "Übrige Testfälle",
+        68,
+        4,
+        50
+      ],
+      [
+        "Fehlende Haushaltstypen",
+        0,
+        0,
+        0
+      ]
+    ],
+    "notes": [
+      "Synthetischer Testsatz vom 30.09.2026; keine Aussage über echte Leistungsberechtigte.",
+      "Abweichung: fachlich zeitkritisch angelegt, aber zunächst geringe Modellpriorität.",
+      "Originalfenster zählen verschiedene Fälle, keine erneuten Öffnungen. Quelle: Dokumente 02, 03 und 05."
+    ],
+    "scenario": [
+      [
+        "Schalterhinweis",
+        9.166666666666666,
+        "Ortszeit laut Entwurf"
+      ],
+      [
+        "IT-Ticket",
+        10.583333333333334,
+        "Ortszeit laut Entwurf"
+      ],
+      [
+        "Telefonat",
+        14.333333333333334,
+        "Ortszeit laut Entwurf"
+      ],
+      [
+        "Anbieterjournal Folgetag",
+        32.75,
+        "UTC laut Entwurf"
+      ]
+    ],
+    "budget": [
+      [
+        "Testkonten monatlich",
+        12,
+        85,
+        3
+      ],
+      [
+        "Schnittstellenklärung",
+        1,
+        1800,
+        1
+      ],
+      [
+        "Fachworkshop",
+        2,
+        650,
+        1
+      ]
+    ],
+    "emails": [
+      {
+        "file": "07_Auftrag.eml",
+        "subject": "Fallspur bitte konkrete Unterlagen für die Leitungsrunde",
+        "sender": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "to": "Dr. Salome Fritsch <salome.fritsch@kanzlei-fritsch.example>",
+        "date": "2026-10-09T08:15:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Fritsch,\n\nanbei übersende ich unseren unterschriebenen Prüfauftrag als PDF. Bitte lesen Sie vor der Bearbeitung auch die technische Beschreibung und die zuletzt korrigierte Sichtungszahl. Die Gemeinde hat keine generelle Freigabe für die neue Prioritätsansicht erteilt. Wir benötigen eine Entscheidungsvorlage, die zwischen dem angebotenen Funktionsumfang und der tatsächlichen späteren Verwendung unterscheidet.\n\nDer Anbieter möchte sich auf die vorbereitende Tätigkeit berufen. Ich möchte diese Position sachlich prüfen lassen, ohne sie bereits in der Überschrift unseres Entwurfs zu übernehmen. Unser örtlicher Beschwerdeweg fehlt in seiner allgemeinen Folgenabschätzung. Die Fragen nach den Registerangaben und nach unserem örtlichen Verfahren sollen deshalb getrennt bearbeitet werden.\n\nBitte senden Sie nichts in unserem Namen. Das gilt auch für eine vorläufige Registeranmeldung. Unsere Besprechung am 16. Oktober ist ein interner Termin. Der gewünschte Einsatz im Februar 2028 wurde noch nicht beschlossen. Für das zukünftige Bereitschaftsplanspiel gelten die ausdrücklich angenommenen Daten, keine heute laufende Ereignisfrist.\n\nMit freundlichen Grüßen\nDr. Amira Seidlein",
+        "attachments": [
+          "01_Pruefauftrag.pdf"
+        ]
+      },
+      {
+        "file": "08_Technik.eml",
+        "subject": "Version und tatsächlicher Datenfluss",
+        "sender": "Noah Aydin <noah.aydin@havelgrund.example>",
+        "to": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "date": "2026-10-02T11:40:00+02:00",
+        "body": "Guten Tag Frau Dr. Seidlein,\n\nanbei die technische Beschreibung. Das Angebot nennt Kommunal 1.0, die sichtbare Kennung lautet FS-1.2-hg-test-04. Bitte lassen Sie die Abweichung im Dossier stehen, bis wir die genaue Lieferung bestätigt haben. Ich kann die Oberfläche und die deaktivierte Schnittstelle prüfen, aber nicht die interne Gewichtung der Merkmale.\n\nDie reine Eingangssortierung lässt sich gesondert betreiben. In unserer Instanz ist die zusätzliche Prioritätsansicht derzeit dennoch vorhanden. Ein Verbot, auf den Reiter zu klicken, ist etwas anderes als die dauerhafte Abschaltung durch den Administrator. Für eine belastbare Trennung benötigen wir die Bestätigung des Anbieters und einen passenden Vertragsumfang.\n\nDie Daten sind synthetisch. Es gab keine wirkliche Leistungsentscheidung. Die zwölf Fälle mit wenig deutschsprachigem Text sind ein Teil des Tests, nicht zwölf gezählte Personen aus der Gemeinde. Vier geplante Haushaltstypen fehlen vollständig. Bitte formulieren Sie aus dieser Lücke keine vermeintliche bestandene Prüfung mit null Fehlern.\n\nFreundliche Grüße\nNoah Aydin",
+        "attachments": [
+          "02_Technische_Beschreibung.pdf"
+        ]
+      },
+      {
+        "file": "09_Protokoll.eml",
+        "subject": "Protokoll mit Korrektur der Sichtungszahl",
+        "sender": "Ottilie Rabenstein <ottilie.rabenstein@havelgrund.example>",
+        "to": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "date": "2026-10-06T16:10:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Seidlein,\n\nich habe das Protokoll der heutigen Besprechung beigefügt. Die Zahl vollständiger Originalsichtungen ist in der ersten Runde zu günstig wiedergegeben worden. Herr Aydin hat doppelte Öffnungen herausgerechnet. Damit verbleiben 57 verschiedene Fälle mit geöffnetem Originalfenster und 23 Fälle, die Frau Feldmann zuerst anhand der Kurzansicht betrachtete.\n\nMir geht es nicht darum, ihr einen Fehler vorzuwerfen. Die Oberfläche lädt gerade zu diesem Ablauf ein. Wenn später nur die ersten Einträge bearbeitet werden, hat die Reihenfolge eine praktische Bedeutung, obwohl alle Akten technisch erreichbar sind. Ich möchte diesen Unterschied in der rechtlichen Beurteilung wiederfinden.\n\nZum Beschwerdeweg ergänze ich unsere tatsächliche Praxis: Hinweise kommen telefonisch, am Schalter und über bevollmächtigte Personen. Eine zentrale Anbieterhotline bildet das nicht ab. Die zuständige Person für eine übersteuerte Priorität ist noch nicht festgelegt. Bitte nicht im Entwurf so darstellen, als hätte die Gemeinde die Anbieterbeschreibung bereits vollständig übernommen.\n\nMit freundlichen Grüßen\nOttilie Rabenstein",
+        "attachments": [
+          "03_Besprechungsprotokoll.pdf"
+        ]
+      },
+      {
+        "file": "10_Lieferant.eml",
+        "subject": "Unsere Antwort zur Ausnahme und Registrierung",
+        "sender": "Winfried Degenhardt <winfried.degenhardt@fallspur.example>",
+        "to": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "date": "2026-10-07T17:05:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Seidlein,\n\nanbei unsere heutige Anbieterantwort. Sie enthält den gegenwärtigen Stand unseres Projekts und die noch offenen technischen Punkte. Die Aussage aus der Präsentation, eine Ausnahme lasse jede Registrierung entfallen, kann ich Ihnen heute nicht mit einer abgeschlossenen schriftlichen Prüfung bestätigen. Ich werde hierzu unsere Rechtsabteilung hinzuziehen.\n\nMeine frühere Erklärung zu den persönlichen Merkmalen bezog sich auf die Version vor der zusätzlichen Prioritätsansicht. Bitte verwenden Sie sie nicht als abschließende technische Beschreibung von 1.2. Die Entwicklung muss bestätigen, ob vermutetes Mitwirkungsverhalten weiter gewichtet wird. Die manuelle Umstellung der Liste ist möglich; wie oft sie tatsächlich genutzt wird, wissen wir nicht.\n\nWir haben noch keine Kennung für Ihre konkrete Instanz mitgeteilt. Eine Bestellung ist ebenfalls nicht eingegangen. Bitte bündeln Sie die Fragen zur Version und zum späteren Funktionsumfang. Die örtlichen Abläufe können wir mit Ihrer Fachseite besprechen, aber nicht aus unserer Standardvorlage für Ihre Gemeinde bestätigen.\n\nMit freundlichen Grüßen\nWinfried Degenhardt",
+        "attachments": [
+          "04_Anbieterantwort.pdf"
+        ]
+      },
+      {
+        "file": "11_Kontrollwerte.eml",
+        "subject": "Bereinigte Zahlen und getrennte Bereitschaftsvariante",
+        "sender": "Juna Feldmann <juna.feldmann@havelgrund.example>",
+        "to": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "date": "2026-10-08T16:20:00+02:00",
+        "body": "Guten Tag Frau Dr. Seidlein,\n\nanbei die bereinigte Arbeitsmappe und die Kontrollnotiz. Auf dem Blatt Testwerte sind die neun Prioritätsabweichungen auf die beiden tatsächlichen Testgruppen verteilt. Die leere dritte Gruppe steht für noch nicht angelegte Haushaltstypen. Sie ist keine geprüfte Gruppe. Die Tabelle kennzeichnet fehlende Testfälle deshalb gesondert.\n\nDas Blatt Planspiel enthält ausschließlich Annahmen für einen möglichen Betrieb im Februar 2028. Die Differenzen sind Abstände zwischen Rohangaben, keine gesetzlichen Meldefristen. Besonders die unterschiedliche Zeitbasis von Telefonnotiz und Anbieterjournal muss erst geklärt werden. Bitte übernehmen Sie kein Szenariodatum als realen heutigen Vorfall.\n\nDas Blatt Aufwand enthält das noch unverbindliche Rechenangebot: zwölf Konten zu 85 EUR monatlich für drei Monate, 1.800 EUR Schnittstellenklärung und zwei Workshops zu 650 EUR. Das ergibt 6.160 EUR netto vor 19 Prozent Umsatzsteuer. Weder eine Bestellung noch eine fällige Rechnung liegt vor. Die Formeln lassen sich für die weitere Planung ändern.\n\nFreundliche Grüße\nJuna Feldmann",
+        "attachments": [
+          "13_Testwerte_und_Planspiel.xlsx",
+          "05_Kontrollnotiz_Planspiel.pdf"
+        ]
+      },
+      {
+        "file": "12_Arbeitsentwurf.eml",
+        "subject": "Arbeitsentwurf bitte in dieser Fassung fortführen",
+        "sender": "Dr. Amira Seidlein <amira.seidlein@havelgrund.example>",
+        "to": "Dr. Salome Fritsch <salome.fritsch@kanzlei-fritsch.example>",
+        "date": "2026-10-09T09:00:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Fritsch,\n\nich übersende ergänzend unsere Word-Leitungsvorlage. Bitte schreiben Sie diesen Entwurf nach der Unterlagenprüfung fort. Die offenen Stellen sind in ganzen Sätzen beschrieben, damit klar bleibt, welche Bewertung noch auszuarbeiten ist. Eine allgemeine Darstellung des AI Act soll den Vermerk nicht ersetzen.\n\nFür die Registrierung möchten wir soweit möglich bereits einen ausfüllbaren, aber inhaltlich konkreten Datensatz erhalten. Bitte zeigen Sie bei fehlenden Angaben, welche Originalunterlage oder zuständige Person den Punkt klären kann. Eine unbekannte Systemkennung darf nicht erfunden werden. Den Bericht zur örtlichen Folgenabschätzung brauchen wir gesondert mit dem erkennbaren Bezug auf unser Verfahren.\n\nDer zukünftige Bereitschaftsfall gehört in eine klar abgetrennte Anlage. Die Unsicherheit über Inhalt und Zeitpunkt der Kenntnis ist dort Teil der Aufgabe. Bitte nennen Sie die tatsächlich erforderliche Ergänzung und arbeiten Sie unabhängige Teile bereits aus. Nach Eingang der Anbieterantwort führen wir die Fassung weiter; wir beginnen dann keine neue Aufnahme.\n\nMit freundlichen Grüßen\nDr. Amira Seidlein",
+        "attachments": [
+          "06_Leitungsvorlage_Arbeitsentwurf.docx"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ki-konformitaet-eichengrund-logistik",
+    "title": "Eichengrund Logistik zwischen Disposition Ranking und Robotersicherheit",
+    "ref": "EL-26-219",
+    "plugin": "ki-verordnung-konformitaet",
+    "intro": "Der fiktive Logistikbetrieb Eichengrund prüft drei funktional verschiedene KI-Anwendungen. Ein Konzernzertifikat, unvollständige Normenangaben und eine echte Lücke im Nachttest stehen einer pauschalen Freigabe gegenüber. Der vorhandene Arbeitsentwurf benötigt eine nachweisbezogene Überarbeitung.",
+    "docs": [
+      {
+        "file": "01_Pruefauftrag.docx",
+        "title": "Prüfauftrag zur geplanten Logistiksoftware",
+        "author": "Eichengrund Logistik GmbH | Berthold Reitzenstein | Aktenstand 9. Oktober 2026",
+        "body": "An Rechtsanwältin Dr. Salome Fritsch\nKanzlei Fritsch und Partner, Lindenhof 8, 99084 Erfurt\n\n1 Anlass und konkrete Anwendungen\n\nSehr geehrte Frau Dr. Fritsch, wir planen eine neue Software für unser Umschlaglager und benötigen einen begründeten Konformitätsvermerk. Unser Einkauf hat bislang ein Gesamtangebot für alle intelligenten Module betrachtet. Nach der technischen Besprechung halten wir diese Darstellung für zu ungenau. Die drei Anwendungen sollen nach ihrer tatsächlichen Funktion, ihrem Anbieter und der konkreten Version getrennt beurteilt werden. Ein gemeinsames Vertriebsblatt darf diese Unterschiede nicht verdecken.\n\nDie Anwendung Taktweg 2.4 berechnet Fahrten und Dockbelegung anhand von Sendungsmaßen, Lieferfenstern und Staplerkapazität. Die Option Teamstern 0.9 bewertet dagegen Beschäftigte für Schichtvorschläge. Das gesonderte Projekt Wächterkern S1 soll später in einem autonomen Lagerroboter die Freigabe oder Unterbrechung einer Bewegung beeinflussen. Die letzte Funktion stammt von einer anderen Gesellschaft und ist noch nicht in unseren Betrieb eingebaut. Nähere Angaben stehen in Dokument 02.\n\n2 Bestellte Ergebnisse\n\nBitte erstellen Sie für jede Anwendung eine begründete Entscheidung zum einschlägigen Prüfweg und zum zeitlichen Anwendungsstand. Wir benötigen einen konkreten Nachweisplan, ein ausformuliertes Nachforderungsschreiben an die richtigen Unternehmen und eine korrigierte Leitungsvorlage. Der interne Entwurf in Dokument 06 ist dabei weiterzubearbeiten. Die pauschale Aussage alle KI zertifiziert soll geprüft und gegebenenfalls adressatengerecht berichtigt werden. Veranlassen Sie bitte keine Bestellung einer Zertifizierung allein aufgrund der Bezeichnung Hochrisiko.\n\nFür den Nachtbetrieb fehlen verwertbare Testdaten. Bitte benennen Sie genau, welche Aussage damit offen bleibt und welcher technische Nachtest benötigt wird. Wir erwarten weder eine selbst durchgeführte Penetrationsprüfung noch einen erfundenen Testbericht. Der vorhandene Datensatz und das Protokoll sollen berücksichtigt werden. Eine fehlende Datei darf nicht mit einer bewiesenen Fehlfunktion gleichgesetzt werden; ein beobachteter Fehler darf umgekehrt nicht als bloße Formalie verschwinden.\n\n3 Anbieter und Verträge\n\nTaktweg und Teamstern werden uns von der Taktweg Systeme GmbH angeboten. Das übersandte ISO/IEC-42001-Zertifikat nennt jedoch die Taktweg Holding Services GmbH und deren zentrale Beratungsleistungen. Wächterkern stammt von der Eichenrobotik Sicherheitsmodule GmbH. Der Integrator Bewegwerk Anlagenbau GmbH hat noch nicht festgelegt, unter welchem Produktnamen der spätere Roboter in Verkehr gebracht werden soll. Die Vertrags- und Rollenverteilung ist daher ausdrücklich zu prüfen.\n\n4 Planungszeitpunkte und Grenzen\n\nEine Verwendung der Disposition wird für Januar 2027 erwogen; die Personaloption soll frühestens im März 2028 beraten werden. Für den Roboter ist September 2028 als Projektwunsch genannt. Diese Daten sind keine Aussagen über gesetzliche Fristen und noch keine freigegebenen Einsatztermine. Aktuell sind alle Tests vom tatsächlichen Personal- und Roboterbetrieb getrennt. Es gibt keinen Auftrag zum Versand, zur Behördenübermittlung oder zum produktiven Einsatz. Bitte arbeiten Sie bis zur Einkaufsrunde am 19. Oktober die bereits entscheidbaren Teile aus und halten Sie entscheidende Lücken sichtbar.\n\nMit freundlichen Grüßen\nBerthold Reitzenstein\nGeschäftsführung"
+      },
+      {
+        "file": "02_Systemgrenzen.docx",
+        "title": "Systemgrenzen der drei Logistikanwendungen",
+        "author": "Eichengrund Logistik GmbH | Lea Demir | technischer Stand 2. Oktober 2026",
+        "body": "1 Taktweg Disposition 2.4\n\nTaktweg 2.4 nutzt ein trainiertes Prognosemodell für die voraussichtliche Verweildauer von Sendungen. Eingaben sind Gewicht, Volumen, Ladeeinheit, Zeitfenster und freie Dockkapazität. Die Ausgabe ordnet Sendungen einem Tor und einem Zeitfenster zu. Es werden weder Namen noch Kennungen von Beschäftigten eingelesen. Die Schichtbesetzung stammt aus einer separaten manuellen Planung. Taktweg darf keinen Roboter unmittelbar bewegen und besitzt keine Freigabe für eine Sicherheitsfunktion.\n\nDie Testinstanz rechnet mit 120 künstlich erzeugten Sendungsaufträgen. Acht Zuordnungen mussten korrigiert werden, weil im Szenario zwei Ladeeinheiten denselben Platz gleichzeitig beanspruchten. Für 60 weitere vorgesehene Nachtszenarien liegen noch keine freigegebenen Eingangsdaten vor. Im bisherigen Export stehen dafür leere Zeilen. Diese Zeilen werden nicht als bestandene Tests gezählt. Im Vertriebsdiagramm wurde dennoch eine durchgängige Prüfung von Tag und Nacht dargestellt.\n\n2 Teamstern Personaloption 0.9\n\nTeamstern verarbeitet je Testperson einen Produktivitätswert, vergangene Verspätungen und ein intern als Belastbarkeit bezeichnetes Merkmal. Aus diesen Werten entsteht ein Vorschlag, welche Person in einer begehrten oder besonders belastenden Schicht eingesetzt werden soll. Die Personalabteilung kann Namen austauschen. Die Standardansicht zeigt zunächst die Rangfolge des Modells. Ob die Vorschläge später nur zur Diskussion oder als Ausgangsliste für die Einteilung verwendet werden sollen, ist noch nicht verbindlich festgelegt.\n\nDer derzeitige Test nutzt 40 vollständig erfundene Beschäftigtenprofile. In elf Fällen änderte eine Fachperson den vorgeschlagenen Rang aus dokumentierten Gründen. Es wurde weder ein wirklicher Arbeitsplan noch eine Personalentscheidung erstellt. Das Feld Belastbarkeit ist fachlich nicht hinreichend beschrieben. Gesundheitsdaten sind nach der technischen Spezifikation nicht vorgesehen; ob ein späterer Datenexport solche Informationen mittelbar abbilden könnte, ist bislang nicht untersucht. Die Anwendung lässt sich unabhängig von Taktweg abschalten.\n\n3 Wächterkern S1\n\nWächterkern S1 wertet Sensordaten mit einem trainierten Modell aus. Die geplante Ausgabe lautet Bewegungsfreigabe oder Stoppanforderung. Sie soll an die Steuerung des künftigen Roboters übergeben werden. Ein fehlerhafter Freigabewert könnte dazu führen, dass ein im Testkorridor befindliches Hindernis nicht rechtzeitig berücksichtigt wird. Eine konventionelle Notabschaltung ist vorgesehen, ihr Zusammenspiel mit dem KI-Signal ist aber noch nicht abschließend spezifiziert.\n\nFür den Versuchsaufbau wurden 75 beleuchtete Korridorläufe durchgeführt. Drei Läufe erzeugten ein Freigabesignal trotz des definierten Hindernisses. Sie sind im Kontrollblatt als Befund aufgeführt. Für den Nachtbetrieb fehlen 25 vorgesehene Läufe, weil der geänderte Sensorkopf noch nicht geliefert wurde. Der Sicherheitsingenieur hat keine Eignung für den Betrieb mit Beschäftigten bestätigt. Ein CE-gekennzeichneter Serienroboter dieser Konfiguration liegt in diesem Projekt nicht vor.\n\n4 Lieferkette und Konfiguration\n\nTaktweg Systeme GmbH bietet die ersten beiden Anwendungen an. Eichenrobotik Sicherheitsmodule GmbH entwickelt S1; Bewegwerk Anlagenbau GmbH soll es in einen Roboter integrieren. Die Holding übernimmt zentrale Beratung. Eine tatsächliche Anbieterrolle folgt aus dieser Beschreibung noch nicht für jede spätere Konfiguration. Die Verträge und die Zuordnung des Endprodukts werden weiterhin verhandelt. Der technische Bericht hält die vorhandenen Funktionen fest und entscheidet nicht über Rechtsfolge oder Verfahren."
+      },
+      {
+        "file": "03_Abstimmungsprotokoll.docx",
+        "title": "Abstimmung zu Nachweisen und Testgrenzen",
+        "author": "Eichengrund Logistik GmbH | Kunigunde Häckel | 5. Oktober 2026",
+        "body": "1 Teilnehmer und Gegenstand\n\nBerthold Reitzenstein, Lea Demir, Kunigunde Häckel und Dr. Cem Albrecht besprachen am 5. Oktober 2026 von 09.00 bis 10.30 Uhr den Stand der drei Anwendungen. Friedemann Sturm von Taktweg und Ottokar Seidel von Eichenrobotik wurden telefonisch zugeschaltet. Die Runde sollte entscheiden, welche Unterlagen noch vor der Einkaufsbesprechung benötigt werden. Sie erteilte keine fachliche oder rechtliche Freigabe.\n\n2 Zertifikat der Holding\n\nFrau Häckel zeigte das übersandte Zertifikat. Es nennt die Taktweg Holding Services GmbH in Nürnberg und die Beratung verbundener Unternehmen beim Einsatz von KI. Die Taktweg Systeme GmbH in Eichengrund ist im bezeichneten Umfang nicht aufgeführt. Herr Sturm erklärte zunächst, die Konzernzugehörigkeit werde genügen. Nach Rückfrage sagte er zu, eine Erweiterung des Geltungsbereichs zu klären. Eine solche Erweiterung wurde bis zum Ende der Sitzung nicht vorgelegt.\n\nDr. Albrecht fragte nach einer konkreten Systembewertung für Wächterkern S1. Herr Seidel verwies auf laufende Prüfungen und eine Liste von ISO-Normen. Auf der Liste stehen ISO/IEC 42001, ISO/IEC 23894, ISO/IEC 24029-2 und EN 18286 ohne Ausgabedatum. Eine konkrete Amtsblattfundstelle ist nicht angegeben. Herr Seidel konnte nicht bestätigen, ob die Nummern vollständig angewandt oder lediglich für die weitere Recherche vorgesehen sind. Die Runde hielt fest, dass diese Unsicherheit ausdrücklich in der Nachforderung stehen soll.\n\n3 Testdaten und Betriebsannahmen\n\nFrau Demir stellte klar, dass die Disposition keine Beschäftigtendaten verarbeitet. In der Personaloption sind solche Daten hingegen gerade Grundlage des Vorschlags. Sie warnte davor, aus der Trennung der Datenflüsse zu schließen, das gesamte Paket habe nur die Funktion eines Kalenders. Für Teamstern sind die Nutzung der Standardrangfolge und die Bedeutung des Merkmals Belastbarkeit offen. Die Personalabteilung möchte vor einer Entscheidung eine eigene Erläuterung.\n\nBei S1 lagen 75 beleuchtete Läufe vor. Die drei fehlerhaften Freigaben sind unabhängig von der fehlenden Nachtserie zu untersuchen. Herr Seidel vermutete eine Reflexion, legte aber keinen Ursachenbericht vor. Die geplanten 25 Nachtläufe können erst nach Lieferung des anderen Sensorkopfs beginnen. Dr. Albrecht verlangte, die geänderte Hardware im Testbericht mit ihrer Version zu benennen. Eine bloße Fortschreibung der bisherigen Quote würde den Wechsel nicht abbilden.\n\n4 Vereinbarte Fortsetzung\n\nDer Einkauf fordert eine lesbare Rollenübersicht und die richtige Zertifikatsanlage an. Frau Demir friert den aktuellen Testexport ein und übernimmt die offenen Testmengen in die Arbeitsmappe. Dr. Albrecht formuliert Fragen zu Stoppweg, Reaktionszeit, Sensorannahmen und Prüfbereich. Die rechtliche Beratung soll aus den vorhandenen Unterlagen einen konkreten Verfahrens- und Nachweisplan entwickeln. Die Befunde werden nicht dadurch erledigt, dass eine Normenliste verlängert wird. Die nächste Sitzung ist am 19. Oktober vorgesehen; das ist kein gesetzlicher Endtermin."
+      },
+      {
+        "file": "04_Lieferantenbrief.docx",
+        "title": "Lieferantenbrief zu Zertifikat und Normenangaben",
+        "author": "Taktweg Systeme GmbH | Friedemann Sturm | Werkweg 6 | 96199 Eichengrund | 7. Oktober 2026",
+        "body": "An die Eichengrund Logistik GmbH\nZu Ihrem Schreiben vom 5. Oktober 2026\n\n1 Geltungsbereich des beigefügten Nachweises\n\nSehr geehrter Herr Reitzenstein, wir haben Ihnen zunächst den im Konzern verfügbaren Managementsystemnachweis übersandt. Zertifizierte Organisation ist die Taktweg Holding Services GmbH. Gegenstand sind deren zentrale Beratungsleistungen. Ich kann mit dem derzeitigen Dokument nicht bestätigen, dass die Entwicklung von Taktweg 2.4 oder Teamstern 0.9 bei unserer Gesellschaft vom bezeichneten Umfang erfasst ist. Die Erweiterungsanfrage ist noch offen. Eine neue Bescheinigung ist bis heute nicht ausgestellt.\n\nDie Formulierung alle KI zertifiziert in der Präsentation war eine verkürzte Vertriebsdarstellung. Wir können derzeit keine Artikel-44-Bescheinigung für die beiden Anwendungen vorlegen. Bitte behandeln Sie die Aussage nicht als Zusicherung, dass ein bestimmtes gesetzliches Verfahren durchlaufen wurde. Wir bitten zugleich darum, den vorhandenen Organisationsnachweis nicht als bedeutungslos zu behandeln; seine tatsächliche Reichweite ist anhand des Dokuments zu bestimmen.\n\n2 Angesprochene technische Normen\n\nUnsere Fachabteilung arbeitet mit Unterlagen zu ISO/IEC 42001 und ISO/IEC 23894. Auf der Projektfolie ist außerdem EN 18286 genannt. Die Folie bezeichnet weder die Ausgabe noch die angewandten Teile. Eine Amtsblattfundstelle haben wir in dem übersandten Paket nicht dokumentiert. Die Entwicklungsleitung wird erläutern, welche Prozesse bereits nach welcher Ausgabe bearbeitet wurden und welche Begriffe lediglich als Arbeitsplanung in die Folie geraten sind.\n\nZum Roboterprojekt können wir keine abschließende Aussage machen. Wächterkern S1 wird von Eichenrobotik entwickelt und vom künftigen Anlagenhersteller integriert. Dessen Anforderungen an die Rolle unserer Disposition sind noch in Abstimmung. Der aktuelle Taktweg-Dienst kann keine Sicherheitsfreigabe an den Roboter ausgeben. Eine solche Kopplung ist weder angeboten noch bestellt. Bitte richten Sie Fragen zur Bewegungsfreigabe deshalb zusätzlich an Eichenrobotik und Bewegwerk.\n\n3 Daten und Nachtest\n\nDer Tagesdatensatz für die Disposition liegt vor. Der Nachtbetrieb ist bislang nicht mit einem freigegebenen Datensatz geprüft. Wir hatten in der Präsentation die geplanten Szenarien und die tatsächlich ausgeführten Tests zusammen dargestellt. Diese Darstellung werden wir berichtigen. Es fehlen nicht nur Unterschriften unter einem vorhandenen Bericht, sondern die entsprechenden Beobachtungen selbst.\n\nFür Teamstern ist die Entscheidung der Kundin über den späteren Einsatz als Ausgangsliste wichtig. Wir können technische Abschaltung und Protokollierung anbieten. Daraus folgt nicht, dass das persönliche Ranking in der derzeit aktivierten Option gar nicht stattfindet. Bitte nennen Sie uns die noch fehlenden Tatsachen konkret, damit wir anstelle pauschaler Konformitätsaussagen eine überprüfbare Antwort geben können.\n\nMit freundlichen Grüßen\nFriedemann Sturm\nKundenprojekte"
+      },
+      {
+        "file": "05_Kontrollblatt.docx",
+        "title": "Kontrollblatt zu Dokumenten und Testläufen",
+        "author": "Eichengrund Logistik GmbH | Dr. Cem Albrecht | Prüfstand 8. Oktober 2026",
+        "body": "1 Erfasster Managementsystemnachweis\n\nDie Projektmappe enthält eine Dokumentabschrift mit dem Aussteller Zeichenmaß Prüfgesellschaft mbH, der Nummer ZP-AIMS-26-114 und dem Gültigkeitsende 30. April 2029. Als Norm ist ISO/IEC 42001:2023 angegeben. Die zertifizierte Organisation lautet Taktweg Holding Services GmbH, Beratungsring 11, 90491 Nürnberg. Der angegebene Umfang betrifft zentrale Beratung verbundener Unternehmen beim Einsatz von KI. Als zusätzlicher Entwicklungsstandort ist keine Niederlassung aufgeführt. Die Abschrift ist kein durch dieses Kontrollblatt neu ausgestelltes Zertifikat.\n\nWeder die Taktweg Systeme GmbH noch die Eichenrobotik Sicherheitsmodule GmbH sind im Text bezeichnet. Ein Nachweis der Notifizierung des Ausstellers für die Bewertung eines konkreten KI-Systems liegt in dieser Akte nicht vor. Im Feld Systemversion steht in der Abschrift keine Angabe. Der Einkauf hat beim Lieferanten das Originaldokument mit Anlagen angefordert. Bis zu dessen Eingang bleibt die Abschrift die tatsächlich vorhandene Unterlage.\n\n2 Technische Normenliste\n\nDie Folie des Roboterprojekts nennt ISO/IEC 23894, ISO/IEC 24029-2, ISO/IEC 42001 und EN 18286. Ausgabe, angewandte Teile, Abweichungen und konkrete Amtsblattfundstelle fehlen. Auch der Name einer Prüfstelle und die Identifikation eines entsprechenden Prüfberichts fehlen. Es lässt sich aus der Folie nicht feststellen, welche Anforderung mit welchem Beleg nachgewiesen werden soll. Die Normennummern werden deshalb im Kontrollblatt als vorgelegte Angaben, nicht als abgeschlossene Prüfung geführt.\n\n3 Vorliegende Testzählungen\n\nFür Taktweg 2.4 wurden 120 künstliche Tagesaufträge betrachtet; acht enthielten eine kollidierende Dockzuordnung. Die Nachtgruppe soll 60 Aufträge umfassen, hat derzeit aber null freigegebene Fälle. Für Teamstern 0.9 wurden 40 erfundene Profile verwendet; elf Rangvorschläge wurden fachlich abgeändert. Die Änderung ist eine dokumentierte Beobachtung und kein für sich ausreichender Nachweis eines Rechtsverstoßes. Die Gründe stehen im noch zu vervollständigenden Fachprotokoll.\n\nFür S1 liegen 75 beleuchtete Läufe mit drei Freigaben trotz eines definierten Hindernisses vor. Bei diesen Läufen wurde niemand gefährdet; der Versuchsraum war abgesperrt und arbeitete mit Attrappen. Für 25 geplante Nachtläufe fehlen Daten. Wegen des vorgesehenen anderen Sensorkopfs kann die bisherige Testannahme nicht stillschweigend auf den Nachtbetrieb übertragen werden. Ein Ursachenbericht zu den drei Freigaben liegt noch nicht vor.\n\n4 Rechenkontrolle und offener Prüfauftrag\n\nDie Arbeitsmappe trennt geplante Fälle, ausgeführte Fälle, beobachtete Abweichungen und vorhandene Dokumente. Die Fehlerrate wird nur für eine tatsächlich geprüfte Gruppe berechnet. Eine leere Gruppe erhält die Kennzeichnung nicht geprüft und keinen günstigen Null-Prozent-Befund. Der Anteil ausgeführter Fälle am Plan beschreibt lediglich den Testumfang, keine Konformitätsquote. Die beiden Nachtlücken dürfen auch in einer Gesamtsumme nicht verschwinden.\n\nVor einer weiteren Bewertung sind genaue Testkriterien, Versionen, Einsatzbedingungen, Vorabgrenzen und Datennachweise nachzufordern. Dieses Blatt hält Befunde fest und enthält keine Betriebsfreigabe. Die juristische Verfahrensentscheidung und die technische Eignungsbewertung werden nicht vom Tabellenwert allein getroffen."
+      },
+      {
+        "file": "06_Freigabevermerk_Arbeitsentwurf.docx",
+        "title": "Arbeitsentwurf zur geplanten Produktentscheidung",
+        "author": "Eichengrund Logistik GmbH | Berthold Reitzenstein | zur Überarbeitung | 9. Oktober 2026",
+        "body": "1 Zweck und Gegenstand\n\nDer vorliegende Entwurf soll die Entscheidung über die weitere Beschaffung der drei Anwendungen vorbereiten. Die endgültige Fassung soll für Taktweg Disposition, Teamstern Personaloption und Wächterkern S1 jeweils einen begründeten Prüfweg nennen und die dazugehörigen Nachweise zuordnen. Eine sofortige gemeinsame Betriebsfreigabe ist nicht Gegenstand dieses Entwurfs. Die angegebenen Startmonate sind Planungswünsche und müssen vor einer tatsächlichen Einführung erneut bestätigt werden.\n\nDie ursprüngliche Formulierung das Gesamtpaket ist durch ISO zertifiziert wird hier nicht als feststehende Tatsache übernommen. Der Nachweis betrifft eine Holdinggesellschaft und deren zentrale Beratung. Eine rechtliche Schlussfolgerung über die konkret angebotenen Systeme ist daraus noch zu entwickeln. Dabei soll die vorhandene Unterlage mit ihrem wirklichen Beweiswert berücksichtigt werden, ohne ihren Umfang zu erweitern.\n\n2 Bisheriger Tatsachenstand\n\nDie Disposition verarbeitet Sendungs- und Kapazitätsdaten. Die Personaloption verarbeitet Eigenschaften erfundener Beschäftigtenprofile und erzeugt eine Rangfolge. Wächterkern soll als eigenständige Komponente die Bewegung eines Roboters beeinflussen. Die Verträge über die spätere Integration und die Rollen der beteiligten Unternehmen sind offen. Die Endfassung soll auf dieser Grundlage erklären, welche tatsächlichen Merkmale für die getrennte Einordnung entscheidend sind.\n\nBei der Disposition fehlen die vorgesehenen Nachtaufträge. Für die Sicherheitskomponente fehlen Nachtläufe mit dem vorgesehenen Sensorkopf; außerdem sind drei beobachtete Freigaben bei einem Hindernis aufzuklären. Die Personaloption ist fachlich noch nicht anhand einer vollständig beschriebenen Bedeutung des Merkmals Belastbarkeit beurteilt. Es wäre unzutreffend, sämtliche offenen Fragen als fehlende Formalunterlagen zu bezeichnen.\n\n3 Auszuarbeitender Verfahrensvermerk\n\nHier ist die begründete Einordnung nach Funktion, tatsächlicher Rolle und Rechtsstand einzuarbeiten. Die endgültige Fassung soll für jeden Prüfpfad darlegen, welche Belege erforderlich sind, welche bereits vorliegen und welche konkrete Ergänzung die Entscheidung verändern könnte. Eine Normennennung ohne Ausgabe und ohne dokumentierte Anwendung darf nicht als geprüfte Anforderungserfüllung behandelt werden. Ebenso wenig soll pauschal angenommen werden, jedes KI-System benötige dieselbe externe Bescheinigung.\n\nDie Prüfung des Roboterpfads benötigt eine geklärte Produkt- und Sicherheitsfunktion sowie die einschlägigen Produktunterlagen. Für die Personaloption sind die geplante tatsächliche Nutzung und die Wirkung der Rangfolge zu klären. Für die reine Disposition ist zu prüfen, ob die behauptete Abtrennbarkeit technisch und vertraglich belastbar ist. Diese Absätze sollen nach Eingang der konkret angeforderten Tatsachen fortgeschrieben werden; ein allgemeines ISO-Glossar ersetzt sie nicht.\n\n4 Weitere Maßnahmen und Zeichnung\n\nDie Endfassung soll eine ausführbare Nachforderung an die jeweils zuständige Gesellschaft und einen klar abgegrenzten technischen Nachtestauftrag enthalten. Wo eine Entscheidung noch nicht möglich ist, sind die offene Tatsache, ihr Einfluss und der verantwortliche Ansprechpartner zu benennen. Eine tatsächliche Prüfung fremder Systeme oder Bestellung zusätzlicher Leistungen ist damit noch nicht genehmigt.\n\nDie abschließende Empfehlung, die konkrete Version und die verantwortliche Zeichnung werden nach Bearbeitung ergänzt. Bis dahin bleibt das Dokument ein interner Arbeitsentwurf. Neue Unterlagen werden in diese Fassung eingearbeitet und die betroffenen Aussagen sichtbar berichtigt. Ein neues Zertifikat mit erweitertem Organisationsumfang würde nicht automatisch fehlende Nachtmessungen ersetzen."
+      }
+    ],
+    "xlsx": "13_Teststand_und_Nachweise.xlsx",
+    "chatfile": "14_Projektchat.txt",
+    "chat": "Eichengrund Logistik, Projektchat, Export 09.10.2026, Akte EL-26-219.\n\n30.09.2026 08:15 Lea: In Taktweg 2.4 sind keine Personalnummern. Teamstern ist eine eigene Option.\n30.09.2026 08:20 Kunigunde: Im Angebot steht alles in einer Zeile. Das erschwert den Nachweis, was wir bestellen.\n02.10.2026 11:05 Cem: S1 gibt Bewegung frei. Das ist mehr als eine Dockempfehlung. Bitte die Schnittstelle beschreiben.\n02.10.2026 11:09 Ottokar: Der Integrator plant einen konventionellen Not-Stopp. Die Abstimmung ist noch offen.\n05.10.2026 09:12 Friedemann: Das Holdingzertifikat ist das momentan verfügbare Dokument. Einen erweiterten Scope habe ich nicht.\n05.10.2026 09:15 Berthold: Bitte nicht im Freigabevermerk aus Holding ohne weiteres Systeme GmbH machen.\n06.10.2026 14:00 Lea: Für Nacht stehen leere Zeilen. Es gab noch keinen freigegebenen Datensatz.\n06.10.2026 14:04 Cem: Bei S1 kommen die drei Tagesbefunde dazu. Die Nachtlücke ist eine andere offene Frage.\n07.10.2026 10:20 Kunigunde: Die Folie sagt EN 18286. Welche Ausgabe und welcher konkrete Nachweis?\n07.10.2026 10:28 Friedemann: In meiner Kopie fehlt beides. Ich frage die Entwicklung.\n08.10.2026 16:10 Berthold: Keinen Termin als gesetzliche Frist ausgeben. Januar 2027, März und September 2028 sind nur Wünsche.\n09.10.2026 08:30 Lea: Export eingefroren. Neue Sensorkopfversion bitte als neuen Teststand führen.\n",
+    "rows": [
+      [
+        "Disposition Tag",
+        120,
+        120,
+        8
+      ],
+      [
+        "Disposition Nacht",
+        60,
+        0,
+        0
+      ],
+      [
+        "Personaloption",
+        40,
+        40,
+        11
+      ],
+      [
+        "S1 beleuchtet",
+        75,
+        75,
+        3
+      ],
+      [
+        "S1 Nacht",
+        25,
+        0,
+        0
+      ]
+    ],
+    "notes": [
+      "Fiktive und isolierte Testdaten; keine echte Personalentscheidung oder Gefährdung.",
+      "Abweichung je Zeile unterschiedlich definiert. Quoten nicht als einheitliches Gütesiegel addieren.",
+      "Quellen: Dokumente 02, 03 und 05. Planmenge ist kein Nachweis ausgeführter Tests."
+    ],
+    "budget": [
+      [
+        "Disposition monatlich",
+        1,
+        720,
+        3
+      ],
+      [
+        "Personaloption Vorbereitung",
+        1,
+        1500,
+        1
+      ],
+      [
+        "S1 Prüfaufbau",
+        1,
+        4800,
+        1
+      ]
+    ],
+    "emails": [
+      {
+        "file": "07_Auftrag.eml",
+        "subject": "Bitte drei Anwendungen und Nachweise getrennt prüfen",
+        "sender": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "to": "Dr. Salome Fritsch <salome.fritsch@kanzlei-fritsch.example>",
+        "date": "2026-10-09T08:15:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Fritsch,\n\nanbei erhalten Sie den Prüfauftrag. Die drei Anwendungen haben in der Einkaufspräsentation denselben Rahmen erhalten, dienen aber unterschiedlichen Zwecken. Bitte erstellen Sie eine begründete Entscheidung zu jedem System und zum richtigen Nachweisweg. Die Frage, ob wir einzelne Funktionen überhaupt einkaufen, ist noch offen.\n\nBesonders wichtig ist mir das Holdingzertifikat. Bitte prüfen Sie seinen wirklichen Geltungsbereich, statt nur den Namen ISO zu übernehmen oder das Dokument pauschal wegzulassen. Für die fehlenden Nachtläufe brauchen wir eine technisch bestimmte Nachforderung. Die drei beobachteten Freigaben bei Wächterkern sollen daneben als eigener Befund erkennbar bleiben.\n\nUnsere Einkaufsrunde findet am 19. Oktober statt. Dies ist ein interner Termin, keine gesetzliche Frist. Die in der Akte genannten späteren Startmonate sind lediglich Planungswünsche. Beauftragen Sie keine externe Zertifizierung, übermitteln Sie nichts an Behörden und ändern Sie keine Testkonfiguration. Wir benötigen zunächst vollständige und intern prüfbare Entwürfe.\n\nMit freundlichen Grüßen\nBerthold Reitzenstein",
+        "attachments": [
+          "01_Pruefauftrag.pdf"
+        ]
+      },
+      {
+        "file": "08_Technik.eml",
+        "subject": "Technische Grenzen und ausstehende Nachtgruppen",
+        "sender": "Lea Demir <lea.demir@eichengrund-logistik.example>",
+        "to": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "date": "2026-10-02T11:40:00+02:00",
+        "body": "Guten Tag Herr Reitzenstein,\n\ndie technische Beschreibung liegt anbei. Taktweg 2.4 bekommt keine Namen oder Personalnummern. Teamstern erhält dagegen Merkmale je Testperson und bildet daraus eine Rangfolge. Die Personaloption hat einen eigenen Schalter und Datenfluss. Ich möchte diese technische Trennung nicht erst in der rechtlichen Endbewertung entdecken müssen, sondern gebe sie hier ausdrücklich weiter.\n\nWächterkern ist ein anderes Projekt. Sein Ausgang soll eine Bewegung freigeben oder stoppen. Der geplante konventionelle Not-Stopp ist noch nicht mit dem KI-Signal im Zusammenspiel geprüft. Das ist kein Bestandteil der jetzigen Dockplanung. Eine künftige Kopplung wäre erneut zu beschreiben.\n\nDie Tageswerte liegen vor. Nacht ist bislang eine Planmenge. Bitte behandeln Sie die leeren Zeilen weder als bestandene Tests noch als bewiesene Fehler. In der Sicherheitskomponente gibt es zusätzlich drei tatsächlich beobachtete Freigaben trotz Hindernis. Die Ursache ist offen. Der Wechsel des Sensorkopfs muss in einem Nachtest als eigene Konfiguration angegeben werden.\n\nFreundliche Grüße\nLea Demir",
+        "attachments": [
+          "02_Systemgrenzen.pdf"
+        ]
+      },
+      {
+        "file": "09_Protokoll.eml",
+        "subject": "Protokoll zum Zertifikatsumfang",
+        "sender": "Kunigunde Häckel <kunigunde.haeckel@eichengrund-logistik.example>",
+        "to": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "date": "2026-10-06T16:10:00+02:00",
+        "body": "Sehr geehrter Herr Reitzenstein,\n\nanbei übersende ich das Protokoll der Besprechung vom 5. Oktober. Herr Sturm konnte keine Erweiterung des Zertifikats auf die Systeme GmbH vorlegen. Die Kopie nennt nur die Holding und die Beratungsleistungen. Ich habe beim Lieferanten um das vollständige Original mit Anlagen gebeten. Wir sollten bis dahin weder eine Systemversion noch einen Standort in den Geltungsbereich hineinlesen.\n\nDie Normenliste für Wächterkern enthält mehrere Nummern ohne Ausgaben. Ich habe das im Protokoll bewusst als offene Angabe gelassen. Es ist weiterhin unklar, ob diese Normen tatsächlich angewandt oder nur für die Recherche vorgesehen wurden. Ein Prüfbericht lässt sich der Liste nicht zuordnen.\n\nDas Angebot rechnet mit drei Monaten Disposition zu je 720 EUR, einmalig 1.500 EUR Vorbereitung der Personaloption und 4.800 EUR für den Prüfaufbau S1. Die Summe ist 8.460 EUR netto; es liegt noch keine Bestellung vor. Bitte trennen Sie diese kaufmännische Planung von der fachlichen Freigabe einzelner Funktionen.\n\nMit freundlichen Grüßen\nKunigunde Häckel",
+        "attachments": [
+          "03_Abstimmungsprotokoll.pdf"
+        ]
+      },
+      {
+        "file": "10_Lieferant.eml",
+        "subject": "Antwort zum Nachweis der Holding",
+        "sender": "Friedemann Sturm <friedemann.sturm@taktweg.example>",
+        "to": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "date": "2026-10-07T17:05:00+02:00",
+        "body": "Sehr geehrter Herr Reitzenstein,\n\nanbei die Antwort zu Ihrer Nachweisanfrage. Ich muss unsere Präsentation in zwei Punkten berichtigen: Das Zertifikat betrifft den benannten Holdingumfang, und die Nachtgruppe ist bislang geplant. Die erfassten Tageswerte dürfen wir nicht zu einer durchgehenden Prüfung umdeuten. Wir werden die Folie entsprechend ändern.\n\nEine eigene Systembescheinigung für die angebotenen Anwendungen habe ich Ihnen bisher nicht vorgelegt. Ob und welches Verfahren für Ihre konkrete Konfiguration erforderlich wäre, soll anhand des tatsächlichen Einsatzes geklärt werden. Bitte bestellen Sie nicht allein aufgrund unserer verkürzten Vertriebsformulierung ein bestimmtes Zertifizierungspaket.\n\nZur Sicherheitskomponente kann ich nur die Ansprechpartner vermitteln. Eichenrobotik entwickelt das Modul, Bewegwerk plant die Integration. Unsere Disposition steuert derzeit keine Sicherheitsfunktion. Für die Personaloption benötigen wir Ihre Entscheidung, ob der Vorschlag später die Ausgangsliste der Schichteinteilung bilden soll. Bis dahin ist die technische Funktion des Rankings gleichwohl in der Testoption vorhanden.\n\nMit freundlichen Grüßen\nFriedemann Sturm",
+        "attachments": [
+          "04_Lieferantenbrief.pdf"
+        ]
+      },
+      {
+        "file": "11_Kontrollwerte.eml",
+        "subject": "Testmappe mit wirklichen Lücken",
+        "sender": "Dr. Cem Albrecht <cem.albrecht@eichengrund-logistik.example>",
+        "to": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "date": "2026-10-08T16:20:00+02:00",
+        "body": "Guten Tag Herr Reitzenstein,\n\nbeigefügt sind das Kontrollblatt und die Arbeitsmappe. Die Tabelle unterscheidet Planmengen, ausgeführte Tests und beobachtete Abweichungen. Eine Quote wird bei einer ungeprüften Gruppe nicht mit null Prozent ausgegeben. Für Disposition Nacht sind 60 Fälle vorgesehen, für S1 Nacht 25. In beiden Gruppen fehlt die Datengrundlage noch vollständig.\n\nDie elf geänderten Personalränge sind keine elf gleichartigen technischen Fehler. Die Gründe müssen fachlich nachvollzogen werden. Anders liegt der dokumentierte technische Befund von drei S1-Freigaben bei einem definierten Hindernis. Auch hier steht die Ursache aus, aber die Beobachtung liegt bereits vor. Ich möchte diese Unterschiede im Nachtestauftrag sehen.\n\nEine bloße Aussage formal robust hilft nur, wenn die bewiesene Eigenschaft und ihre Annahmen angegeben sind. Für den anderen Sensorkopf habe ich keinen solchen Nachweis. Bitte lassen Sie die fehlenden Ausgaben und Anwendungsbereiche der Normen konkret nachfordern. Der Prüfauftrag soll den betroffenen Bereich benennen und keine unbeschränkte Aussage über alle denkbaren Betriebszustände verlangen.\n\nFreundliche Grüße\nDr. Cem Albrecht",
+        "attachments": [
+          "13_Teststand_und_Nachweise.xlsx",
+          "05_Kontrollblatt.pdf"
+        ]
+      },
+      {
+        "file": "12_Arbeitsentwurf.eml",
+        "subject": "Vorhandenen Freigabeentwurf bitte überarbeiten",
+        "sender": "Berthold Reitzenstein <berthold.reitzenstein@eichengrund-logistik.example>",
+        "to": "Dr. Salome Fritsch <salome.fritsch@kanzlei-fritsch.example>",
+        "date": "2026-10-09T09:00:00+02:00",
+        "body": "Sehr geehrte Frau Dr. Fritsch,\n\nanbei finden Sie den vorhandenen Word-Entwurf. Bitte ersetzen Sie die noch offenen rechtlichen Teile durch eine begründete Bearbeitung, soweit die Akte das zulässt. Falls eine entscheidende Tatsachenfrage offen bleibt, soll die Fassung trotzdem die bereits tragfähigen Ergebnisse und den genauen nächsten Nachweis enthalten. Eine neue Aufnahme sämtlicher Unternehmensangaben ist nicht erforderlich.\n\nFür die Personaloption und das Robotermodul muss erkennbar bleiben, welche Gesellschaft zu welchem tatsächlichen Beitrag befragt wird. Für die Disposition interessiert uns die nachgewiesene Abtrennbarkeit. Das Holdingzertifikat, eine mögliche Systembescheinigung, technische Testberichte und unsere eigene Beschaffungsentscheidung sind unterschiedliche Unterlagen.\n\nDie Formulierung im Entwurf darf weder eine Freigabe vortäuschen noch jede Arbeit bis zur letzten offenen Frage einstellen. Ich benötige die konkrete Nachforderung, den prüfbaren Nachtestauftrag und die sachlich korrigierte Aussage für die Einkaufsrunde. Tatsächliche Übermittlungen oder zusätzliche Beauftragungen entscheiden wir anschließend anhand der ausgearbeiteten Fassung.\n\nMit freundlichen Grüßen\nBerthold Reitzenstein",
+        "attachments": [
+          "06_Freigabevermerk_Arbeitsentwurf.docx"
+        ]
+      }
+    ]
+  }
+]

@@ -47,7 +47,7 @@
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "2597cfb1cf8c1bb45cd2376d05e977576d529c0a7b70b6032a70b54c79288617"
+    "sha256": "0bbab9333279c9dae9a398d8753659ac38e8b31fcb011ceda8feeb38b8a27e25"
   },
   "selection": {
     "positive": [
@@ -137,7 +137,7 @@
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung."
     ],
-    "sha256": "fd29e85a5e2f6b918d7f008b0007dbbad8593a2cef712773c5378ce69498d057"
+    "sha256": "4d3e921ee2361204546c5f5d2d25255e4ed09f970ceaaab77359ed3dfe0617bc"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -179,5 +179,12 @@
     "continuation": "Fehlende Übersteuerungsbefugnis -> freigabebeschluss.md und betroffene Aufsichtsregel; bestätigte Sperre bei offener Menge -> erstmeldung.md mit geändertem Maßnahmen-/Mengenstatus. Nur bestelltes Dokument fortsetzen.",
     "enrichment": "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "ki-governance/references/ki-normen-und-fallpruefung.md",
+    "focus": "Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -43,3 +43,4 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **produktrecht*
 - **Rückrufankündigung:** im Inland (BAuA), unionsweit (Safety Gate); USA: CPSC-Meldung.
 - **Strafrechtliche Risiken:** § 95 AMG Strafe Arzneimittel; § 58 LFGB Strafe Lebensmittel; § 39 ProdSG Bußgeld.
 - Falle: Lithium-Akkus, KI-Komponenten, Drohnen — zusätzliche EU-Regelwerke (Batterieverordnung 2023/1542, AI Act, EU-Drohnenverordnung) parallel prüfen.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Produktrechtsakt, Sicherheitsfunktion und vorgeschriebenes Bewertungsverfahren. Ein CE-Zeichen nach einem Produktrechtsakt darf nicht ohne Prüfung als vollständiger Nachweis aller KI-Systemanforderungen erscheinen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

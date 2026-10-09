@@ -1,0 +1,322 @@
+{
+  "workbook": "testakten/ki-hochrisiko-mainblick-bewerbung/19_Auswertung.xlsx",
+  "checks": [
+    {
+      "sheet": "Auswertung",
+      "cell": "B6",
+      "scenario": "Ausgang: Datensätze",
+      "expected": 24,
+      "actual": 24
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "C6",
+      "scenario": "Ausgang: Shortlist",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D6",
+      "scenario": "Ausgang: Auswahlanteil",
+      "expected": 0.25,
+      "actual": 0.25
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "B8",
+      "scenario": "Ausgang: Ausland",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "C8",
+      "scenario": "Ausgang: Ausland ausgewählt",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D7",
+      "scenario": "Ausgang: DE-Auswahlanteil",
+      "expected": 0.3333333333333333,
+      "actual": 0.3333333333333333
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "B11",
+      "scenario": "Ausgang: Öffnungen",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D15",
+      "scenario": "Ausgang: aktueller Gruppenanteil",
+      "expected": 0.25,
+      "actual": 0.25
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D16",
+      "scenario": "Ausgang: Kalibrierungsanteil",
+      "expected": 0.05,
+      "actual": 0.05
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D18",
+      "scenario": "Ausgang: Differenz Prozentpunkte",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E6",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E7",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E8",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E9",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E10",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E11",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E12",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E13",
+      "scenario": "Ausgang: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E15",
+      "scenario": "Ausgang: Kalibrierung",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "C8",
+      "scenario": "Änderung B07 in Shortlist",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "C6",
+      "scenario": "Änderung B07 Gesamt",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D8",
+      "scenario": "Änderung B07 Gruppenquote",
+      "expected": 0.16666666666666666,
+      "actual": 0.16666666666666666
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E7",
+      "scenario": "Änderung Auswahlkontrolle",
+      "expected": "Prüfen",
+      "actual": "Prüfen"
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D16",
+      "scenario": "Null: Kalibrierungsnenner",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D18",
+      "scenario": "Null: Differenz ohne Nenner",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E15",
+      "scenario": "Null: Kalibrierungskontrolle",
+      "expected": "Prüfen",
+      "actual": "Prüfen"
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D16",
+      "scenario": "Null: Kalibrierungszähler",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D18",
+      "scenario": "Null: Differenz bei Nullzähler",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "B10",
+      "scenario": "Leerwert: Gruppenfeld",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E10",
+      "scenario": "Leerwert: Pflichtfeldkontrolle",
+      "expected": "Prüfen",
+      "actual": "Prüfen"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E13",
+      "scenario": "Leerwert: Gruppenabgleich",
+      "expected": "Prüfen",
+      "actual": "Prüfen"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "B11",
+      "scenario": "Änderung: doppelte Kennung",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "B12",
+      "scenario": "Änderung: unzulässiger Status",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D8",
+      "scenario": "Null: leere Abschlussgruppe",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "D18",
+      "scenario": "Wiederhergestellt: Differenz",
+      "expected": 20,
+      "actual": 20
+    },
+    {
+      "sheet": "Auswertung",
+      "cell": "C6",
+      "scenario": "Wiederhergestellt: Shortlist",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "B10",
+      "scenario": "Wiederhergestellt: vollständig",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E6",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E7",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E8",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E9",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E10",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E11",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E12",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    },
+    {
+      "sheet": "Kontrollen",
+      "cell": "E13",
+      "scenario": "Wiederhergestellt: Kontrollstatus",
+      "expected": "OK",
+      "actual": "OK"
+    }
+  ],
+  "formulaErrors": 0,
+  "restored": true
+}

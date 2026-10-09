@@ -28,6 +28,12 @@ Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabe
 
 Eine redaktionelle Policy, ein ISO-Managementzertifikat oder eine zweite KI ist kein Nachweis der tatsächlichen menschlichen Inhaltsprüfung. Umgekehrt verlangt die Textausnahme kein pauschales Artikel-17-Qualitätsmanagement; die geprüfte Endfassung und redaktionelle Verantwortung sind maßgeblich.
 
+### 3.1. Inhaltliche Aussage statt Dateigleichheit prüfen
+
+Vergleichen Sie die freigegebene und die zu veröffentlichende Aussage. Ein unveränderter Titel bei neu erfundener Tatsachenpassage trägt die alte Freigabe nicht; eine bloße Formatumstellung erzeugt umgekehrt nicht automatisch einen neuen Prüfbedarf für sämtliche Tatsachen. Benennen Sie die tatsächlich geänderten Aussagen und die darauf bezogene menschliche Prüfung. Freigabeprotokoll und redaktionelle Verantwortung sind Beweismittel für den gesetzlichen Tatbestand, keine vom Gesetz vorgeschriebene Form.
+
+Ordnen Sie das Ergebnis ausschließlich der Textausnahme des Absatzes 4 Unterabsatz 2 zu. Eine sachkundige Prüfung kann die Offenlegungspflicht dieses Textes entfallen lassen, bestätigt aber nicht die Kennzeichnungstechnik des Anbieters und nicht die Rechtmäßigkeit daneben verwendeter Medien.
+
 ## 4. Quellenpflicht
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 4; Artikel 50 Absatz 4 Unterabsatz 2, Kommissionsleitlinien und FAQ zur substanziellen Kontrolle. [Zitierweise](../../references/zitierweise.md). Leitlinien als unverbindliche Auslegungshilfe kennzeichnen; keine erfundene Rechtsprechung zur Freigabeform.
@@ -41,3 +47,5 @@ Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die 
 ## 6. Beispiele
 
 Die Partnerin prüfte Version 3; Version 4 enthält einen KI-generierten Erfahrungsbericht. Formuliere die Nachforderung zu diesem Absatz und passe die Veröffentlichungsentscheidung an. Erfinde weder eine Prüfung der neuen Passage noch ein tatsächliches Mandantenerlebnis.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 4](../../references/testanker.md).

@@ -38,7 +38,7 @@
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
       "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
     ],
-    "sha256": "358d6e1b2a0c635b3f0cbd86a5a93c583702b630f4b547e9e1431ca79bffb5d7",
+    "sha256": "097c93b5409377228832558897fbae5f9ffc4c6986da166f0c774a988dabbf7b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -51,7 +51,7 @@
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
       "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
     ],
-    "sha256": "dd9d72ac70c3711aeeafa733a145112dddaef415e917c6c31386b60683d20529",
+    "sha256": "94af78c9597706c8aa9ccbd363a9827b1e122dc9ec978988bad8a2ee0cc23e90",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -140,5 +140,12 @@
     "continuation": "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
     "enrichment": "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "robotik-recht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -15,7 +15,7 @@ Vollständige Normbezeichnung mit Ausgabe, konkrete Amtsblattfundstelle, Anwendu
 
 ## 3. Ablauf und Checkliste
 
-Identifizieren Sie zuerst, was vorliegt: Managementsystemzertifikat, Prüfbericht, harmonisierte Norm, gemeinsame Spezifikation, EU-Konformitätserklärung oder Bescheinigung einer notifizierten Stelle. Diese Dokumente haben unterschiedliche Funktionen. Ein ISO-42001-Zertifikat ist nicht allein eine AI-Act-Konformitätsbescheinigung, und ISO 31000 oder ISO/IEC 23894 sind nicht allein durch ihre Nennung gesetzlich verbindlich.
+Identifizieren Sie zuerst, was vorliegt: Managementsystemzertifikat, Prüfbericht, harmonisierte Norm, gemeinsame Spezifikation, EU-Konformitätserklärung oder Bescheinigung einer notifizierten Stelle. Diese Dokumente haben unterschiedliche Funktionen. Ein ISO/IEC-42001-Zertifikat ist nicht allein eine AI-Act-Konformitätsbescheinigung, und ISO 31000 oder ISO/IEC 23894 sind nicht allein durch ihre Nennung gesetzlich verbindlich.
 
 Für Artikel 40 prüfen Sie die tatsächliche Veröffentlichung der Fundstelle im Amtsblatt, die konkrete Ausgabe und den abgedeckten Anforderungsumfang. Ein Normungsauftrag, ein Entwurf oder eine allgemein empfohlene ISO-Norm ist keine veröffentlichte harmonisierte Norm. Behaupten Sie weder die Harmonisierung noch ihr Fehlen pauschal aus Modellwissen; dokumentieren Sie die tatsächlich geprüfte amtliche Fundstelle zum Stichtag. Einschränkungen und Übergänge müssen in die Bewertung einfließen.
 
@@ -24,6 +24,12 @@ Für gemeinsame Spezifikationen nach Artikel 41 prüfen Sie den erlassenen Durch
 Bei Bescheinigungen prüfen Sie Identität, notifizierte Stelle, konkreten Benennungsumfang, Systemversion, Bedingungen, Gültigkeit, Ergänzungen und Aussetzungen. Artikel 44 nennt unterschiedliche maximale Gültigkeitsdauern für Anhang-I- und Anhang-III-Systeme. Eine auslaufende Bescheinigung verlängert sich nicht automatisch durch einen Verlängerungsantrag. Ein Zertifikat außerhalb des Benennungsumfangs trägt keine entsprechende Konformitätsbewertung.
 
 Erstellen Sie eine Aussagegrenzen-Tabelle: Dokument, tatsächlich gedeckte Anforderung, fehlender Nachweis und Folge für das gewählte Verfahren. Bei Anhang III Nummern 2 bis 8 bleibt die interne Kontrolle nach Artikel 43 Absatz 2 der gesetzliche Ausgangspunkt. Verkaufen Sie eine freiwillige externe Prüfung nicht als gesetzlich zwingenden Zertifikatskauf.
+
+### 3.1. Technische Nachweise konkret bewerten
+
+Lesen Sie die [verifizierten technischen Ausgangspunkte](../../references/technische-normen.md) und das [Abrufprotokoll](../../references/quellenabruf-normen.md). Erfassen Sie für jede Behauptung vier getrennte Befunde: veröffentlichte Normausgabe, Amtsblattreferenz, tatsächliche Anwendung und systembezogenen Prüfbeleg. DIN EN 18286:2026-09 ist im Katalog als veröffentlichte Norm geführt; die ältere Aussage „nur Entwurf“ ist überholt. Daraus folgt ohne passenden Referenzakt noch keine Vermutung. ISO/IEC 42001:2023 und ISO/IEC 42006:2025 betreffen Managementsystem und dessen Zertifizierungsstellen; ein AIMS-Zertifizierer ist dadurch keine notifizierte Stelle.
+
+Formulieren Sie die Entscheidung so eng wie der Beleg: Ein anwendbares Managementzertifikat kann bestimmte Organisationsabläufe stützen; es bescheinigt weder automatisch Artikel 9 bis 15 noch die Richtigkeit einzelner Registerfelder. Artikel 40 Absatz 1 nennt Kapitel III Abschnitt 2, während Artikel 17 in Abschnitt 3 liegt. Auch der zusätzliche Normungsauftrag in Absatz 2 ersetzt nicht die Prüfung der konkreten Vermutungsgrundlage. Bei fehlender Normenvermutung arbeiten Sie den alternativen Nachweis nach Anhang IV Nummer 7 aus und prüfen gesondert die Folge für Artikel 43. Die [Testanker](../../references/testanker.md) verlangen jeweils eine begründete Änderung der Entscheidung.
 
 ### 3.90. Fortsetzung und Übermittlung
 

@@ -204,5 +204,12 @@
     "continuation": "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
     "enrichment": "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie bei der Anwendung für staatsanwaltschaftlicher Einstieg technische Aktenorganisation von der Würdigung von Tatsachen und Recht. Prüfen Sie den konkreten Justiz- oder Strafverfolgungsbezug in Anhang III und den tatsächlichen Einfluss auf die Entscheidung; eine formale Schlusszeichnung allein genügt nicht als Gegenbeleg.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

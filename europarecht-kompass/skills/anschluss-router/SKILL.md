@@ -218,3 +218,4 @@ Schwerpunkte sind: Vorrangprinzip und unmittelbare Wirkung, Richtlinienumsetzung
 - AEUV und EUV in der geltenden Fassung
 - GRC (EU-Grundrechtecharta) in der geltenden Fassung
 - EuGH-Rechtsprechung bis 05/2026
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Trennen Sie autonome Begriffe der Verordnung, unverbindliche Leitlinien und technische Normen. Begründen Sie eine Übertragung aus Datenschutz- oder Sicherheitsrecht ausdrücklich, statt sie als unmittelbare Auslegung der KI-VO auszugeben. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

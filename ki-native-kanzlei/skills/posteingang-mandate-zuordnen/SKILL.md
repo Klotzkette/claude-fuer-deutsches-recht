@@ -1,6 +1,6 @@
 ---
 name: posteingang-mandate-zuordnen
-description: "Bearbeitet freigegebene Kanzleieingänge aus Gmail, Outlook, beA oder Exportdateien: Original und Anlagen sichern, Mandat und Fristauslöser zuordnen, Dubletten und fehlende Anhänge erkennen, Antwort oder Fachprodukt vorbereiten und Rücklauf nachweisen. Für Stapel und laufende Postfacharbeit; keine automatische Mandatsannahme, kein eEB und kein Versand ohne konkrete Berechtigung."
+description: "Ordnet freigegebene Kanzleieingänge aus Gmail, Outlook, beA oder Exporten zu: Originale und Anlagen sichern, Mandat und Fristauslöser erkennen, Dubletten prüfen, Fachprodukt vorbereiten und Rücklauf belegen. Für Stapel und laufende Postfacharbeit; Annahme, eEB und Versand nur mit konkreter Berechtigung."
 ---
 
 # Posteingang zu Mandaten bearbeiten

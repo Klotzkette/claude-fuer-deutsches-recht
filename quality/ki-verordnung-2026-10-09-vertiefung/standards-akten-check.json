@@ -1,0 +1,220 @@
+[
+  {
+    "case": "ki-register-havelgrund-sozialamt",
+    "counts": {
+      ".docx": 6,
+      ".pdf": 6,
+      ".eml": 6,
+      ".xlsx": 1,
+      ".txt": 1
+    },
+    "documents": [
+      {
+        "docx": "01_Pruefauftrag.docx",
+        "characters": 3566,
+        "pdf_pages": 1,
+        "pdf_characters": 3647
+      },
+      {
+        "docx": "02_Technische_Beschreibung.docx",
+        "characters": 3700,
+        "pdf_pages": 1,
+        "pdf_characters": 3786
+      },
+      {
+        "docx": "03_Besprechungsprotokoll.docx",
+        "characters": 3454,
+        "pdf_pages": 1,
+        "pdf_characters": 3536
+      },
+      {
+        "docx": "04_Anbieterantwort.docx",
+        "characters": 3027,
+        "pdf_pages": 1,
+        "pdf_characters": 3104
+      },
+      {
+        "docx": "05_Kontrollnotiz_Planspiel.docx",
+        "characters": 3563,
+        "pdf_pages": 1,
+        "pdf_characters": 3644
+      },
+      {
+        "docx": "06_Leitungsvorlage_Arbeitsentwurf.docx",
+        "characters": 3764,
+        "pdf_pages": 1,
+        "pdf_characters": 3847
+      }
+    ],
+    "attachments": [
+      {
+        "email": "07_Auftrag.eml",
+        "attachment": "01_Pruefauftrag.pdf",
+        "sha256": "96eceb9360781bf4682bcb256417f8763cea5dccf747cef07193d37cf5ff63d8"
+      },
+      {
+        "email": "08_Technik.eml",
+        "attachment": "02_Technische_Beschreibung.pdf",
+        "sha256": "a181a9319a273f8f5387abd4d94389cfa8e09de71445f1085c7c60e7a64e429b"
+      },
+      {
+        "email": "09_Protokoll.eml",
+        "attachment": "03_Besprechungsprotokoll.pdf",
+        "sha256": "839b738a3f885b2f288e31ef78924aef6920faa3e247f19ce09ae96fb37c226a"
+      },
+      {
+        "email": "10_Lieferant.eml",
+        "attachment": "04_Anbieterantwort.pdf",
+        "sha256": "18a418d354d55cacb2172373beed5b66dcbee24532dc54c2dc3e090f195543a9"
+      },
+      {
+        "email": "11_Kontrollwerte.eml",
+        "attachment": "13_Testwerte_und_Planspiel.xlsx",
+        "sha256": "124be001c1f58ef590483ef77e9e09f5c5a897ca05a7368c3a23eff8e51ff107"
+      },
+      {
+        "email": "11_Kontrollwerte.eml",
+        "attachment": "05_Kontrollnotiz_Planspiel.pdf",
+        "sha256": "b040a941baea415ef6790346f6ba7acc8158c22549440cde0bce04e72bd98a4c"
+      },
+      {
+        "email": "12_Arbeitsentwurf.eml",
+        "attachment": "06_Leitungsvorlage_Arbeitsentwurf.docx",
+        "sha256": "ba8d50a83d2374b7f4b2af32c76495f4a16cd578f354b145f78e052e46a2d612"
+      }
+    ],
+    "formula_count": 21,
+    "cached_formula_count": 21,
+    "file_sha256": {
+      "01_Pruefauftrag.docx": "44d4ce09671b362749b6d715031f167832ad102525c54b153569b35b04ecb104",
+      "01_Pruefauftrag.pdf": "96eceb9360781bf4682bcb256417f8763cea5dccf747cef07193d37cf5ff63d8",
+      "02_Technische_Beschreibung.docx": "996a7a4df6c32201df033612bf751c3ced0d15ac1594e3675cef365993eefb3e",
+      "02_Technische_Beschreibung.pdf": "a181a9319a273f8f5387abd4d94389cfa8e09de71445f1085c7c60e7a64e429b",
+      "03_Besprechungsprotokoll.docx": "054f8ae3ec7e0c54d888458747e8a9df43c6b8a5362b4147637280937df462d6",
+      "03_Besprechungsprotokoll.pdf": "839b738a3f885b2f288e31ef78924aef6920faa3e247f19ce09ae96fb37c226a",
+      "04_Anbieterantwort.docx": "b05e002232569c51e36502a6cbb61b291074f359095f7c4006bda5b43fd9d1f3",
+      "04_Anbieterantwort.pdf": "18a418d354d55cacb2172373beed5b66dcbee24532dc54c2dc3e090f195543a9",
+      "05_Kontrollnotiz_Planspiel.docx": "b53808481815147ecbde965c3d69106cd7e99402346f875fb226efd480d1f356",
+      "05_Kontrollnotiz_Planspiel.pdf": "b040a941baea415ef6790346f6ba7acc8158c22549440cde0bce04e72bd98a4c",
+      "06_Leitungsvorlage_Arbeitsentwurf.docx": "ba8d50a83d2374b7f4b2af32c76495f4a16cd578f354b145f78e052e46a2d612",
+      "06_Leitungsvorlage_Arbeitsentwurf.pdf": "69fc1493838e99a6edf988b37700754090199a82c23a473eceac831cfeba0b02",
+      "07_Auftrag.eml": "dc2861c34650d0dfe58eab21235ab2ef1a34532ff0e22a8f96b25a64f8d7ecf3",
+      "08_Technik.eml": "8cc53d9a6f73be7ff80763eeff4f1e4a2df3a24fc5cb2f928a74637e446bd09d",
+      "09_Protokoll.eml": "6943678c26af7e4063b5ee1f1ffe0a020ad0b886f7cac4b40766a5faa45fa92f",
+      "10_Lieferant.eml": "d59523fa6ac888b9673f8aebda5500d1249165874e7993ce954f743d0b1bbe86",
+      "11_Kontrollwerte.eml": "76bc0c809badac7ba884f17d2d50daaf4f819bc3f6596012f2a3a57f8a7f7ee3",
+      "12_Arbeitsentwurf.eml": "7a20fb5b06efd2f3554852d83022b0549b2a8bf8b3fbb0278a3909837af286c7",
+      "13_Testwerte_und_Planspiel.xlsx": "124be001c1f58ef590483ef77e9e09f5c5a897ca05a7368c3a23eff8e51ff107",
+      "14_Projektchat.txt": "9322cb88a1f5f41da87611f13afaf1bfa4a08e03d15fe3e0d4014e9e198ee756"
+    }
+  },
+  {
+    "case": "ki-konformitaet-eichengrund-logistik",
+    "counts": {
+      ".docx": 6,
+      ".pdf": 6,
+      ".eml": 6,
+      ".xlsx": 1,
+      ".txt": 1
+    },
+    "documents": [
+      {
+        "docx": "01_Pruefauftrag.docx",
+        "characters": 3526,
+        "pdf_pages": 1,
+        "pdf_characters": 3613
+      },
+      {
+        "docx": "02_Systemgrenzen.docx",
+        "characters": 3756,
+        "pdf_pages": 1,
+        "pdf_characters": 3845
+      },
+      {
+        "docx": "03_Abstimmungsprotokoll.docx",
+        "characters": 3131,
+        "pdf_pages": 1,
+        "pdf_characters": 3215
+      },
+      {
+        "docx": "04_Lieferantenbrief.docx",
+        "characters": 3104,
+        "pdf_pages": 1,
+        "pdf_characters": 3182
+      },
+      {
+        "docx": "05_Kontrollblatt.docx",
+        "characters": 3449,
+        "pdf_pages": 1,
+        "pdf_characters": 3536
+      },
+      {
+        "docx": "06_Freigabevermerk_Arbeitsentwurf.docx",
+        "characters": 3888,
+        "pdf_pages": 1,
+        "pdf_characters": 3980
+      }
+    ],
+    "attachments": [
+      {
+        "email": "07_Auftrag.eml",
+        "attachment": "01_Pruefauftrag.pdf",
+        "sha256": "9b5112dce1f8fbf82b18127a68fe4c5c4b1472e76bbf964170613a52641bcadf"
+      },
+      {
+        "email": "08_Technik.eml",
+        "attachment": "02_Systemgrenzen.pdf",
+        "sha256": "6e0b471034dce9a43e9a7f3af93362db670c9f33aa5509ef53f8c2dcd861ab1a"
+      },
+      {
+        "email": "09_Protokoll.eml",
+        "attachment": "03_Abstimmungsprotokoll.pdf",
+        "sha256": "2020f7b749b159a584c52dbb877b03c5b8494e0db938e9b1163b17963559f2b4"
+      },
+      {
+        "email": "10_Lieferant.eml",
+        "attachment": "04_Lieferantenbrief.pdf",
+        "sha256": "e5a4c143b89cdb49aa195fd89ac28c107cac819be470432ab0c08403ceec4af0"
+      },
+      {
+        "email": "11_Kontrollwerte.eml",
+        "attachment": "13_Teststand_und_Nachweise.xlsx",
+        "sha256": "bcdf06c548a33655842afd88337d158934b1305138b06738a2920a59ba51fbda"
+      },
+      {
+        "email": "11_Kontrollwerte.eml",
+        "attachment": "05_Kontrollblatt.pdf",
+        "sha256": "ee18f2fd9e6bba2c99d57ebcac0c207007432e05de27a4803dbe0bbec3eda365"
+      },
+      {
+        "email": "12_Arbeitsentwurf.eml",
+        "attachment": "06_Freigabevermerk_Arbeitsentwurf.docx",
+        "sha256": "00af0631c001ddec1ac7e31aa8f672c096e350ec5ed5ab6e3486f3ad77782d34"
+      }
+    ],
+    "formula_count": 23,
+    "cached_formula_count": 23,
+    "file_sha256": {
+      "01_Pruefauftrag.docx": "3bbdbb325737d52968552a58a49566f466f8e3657b8ba7a87a907d3bf0dc0922",
+      "01_Pruefauftrag.pdf": "9b5112dce1f8fbf82b18127a68fe4c5c4b1472e76bbf964170613a52641bcadf",
+      "02_Systemgrenzen.docx": "334d73ccb3f9a236d3fc230e7c40d458b9e40f9223d783d5d9f962a768bddace",
+      "02_Systemgrenzen.pdf": "6e0b471034dce9a43e9a7f3af93362db670c9f33aa5509ef53f8c2dcd861ab1a",
+      "03_Abstimmungsprotokoll.docx": "23228f210ed7c63729dcf82c7c69536cdd04fc9fbf05645e360171fe4fddfd0a",
+      "03_Abstimmungsprotokoll.pdf": "2020f7b749b159a584c52dbb877b03c5b8494e0db938e9b1163b17963559f2b4",
+      "04_Lieferantenbrief.docx": "226236add850c9ae7bcc70c453934e1bff4e21d29e5dd943bab589fbf7f8d854",
+      "04_Lieferantenbrief.pdf": "e5a4c143b89cdb49aa195fd89ac28c107cac819be470432ab0c08403ceec4af0",
+      "05_Kontrollblatt.docx": "eccac1f4d0c13cb372c60f8becb00f0570e68cea3a45bdd160f89ec82a926dce",
+      "05_Kontrollblatt.pdf": "ee18f2fd9e6bba2c99d57ebcac0c207007432e05de27a4803dbe0bbec3eda365",
+      "06_Freigabevermerk_Arbeitsentwurf.docx": "00af0631c001ddec1ac7e31aa8f672c096e350ec5ed5ab6e3486f3ad77782d34",
+      "06_Freigabevermerk_Arbeitsentwurf.pdf": "78e399377b8c4de8d4770f930f8faa946995af4acc9bd7d236dc3efe6233d0ac",
+      "07_Auftrag.eml": "c6f525ccd99f87a4baf67b05c786f669e935c6b5d20031188ae9ae2462f6969b",
+      "08_Technik.eml": "c9a6b2f4a459881c2cea2fe645e407647507c248fd1dafac42ef7cc0f42dccc6",
+      "09_Protokoll.eml": "54c053674f319e6b35c7425636f32865a8f4b38f9abd1e6ec0ee3f81a4b918d1",
+      "10_Lieferant.eml": "58855790e261ff9d7fb0fd35a87fda825ad7f5f0ab626a1620915886046bdc15",
+      "11_Kontrollwerte.eml": "db5b2ca7b4c3339c13ea2f233a3e538709f62a32176884a19022a6b6655ae8ca",
+      "12_Arbeitsentwurf.eml": "24b8e84fc7191e1c5c1aa592d9fed15e3075f42c96fcb4bb60acc83e249e602a",
+      "13_Teststand_und_Nachweise.xlsx": "bcdf06c548a33655842afd88337d158934b1305138b06738a2920a59ba51fbda",
+      "14_Projektchat.txt": "1b6e056ac36cd8a60400d07d7561e6e2429097c3837241081e24f154c85a7778"
+    }
+  }
+]

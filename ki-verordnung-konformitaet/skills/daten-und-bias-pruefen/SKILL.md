@@ -25,6 +25,12 @@ Die Sonderregel ist keine allgemeine Erlaubnis, sensible Kundendaten an einen ex
 
 Erstellen Sie einen konkreten Nachforderungs- oder Datennutzungsentwurf. Trennen Sie technisch gewünschte Daten von rechtlich erforderlichen Daten und von Angaben, deren Grundlage noch fehlt. Das Ergebnis ist eine begründete Verwendungsentscheidung mit enger Zweckbindung, nicht nur eine Liste von Datenkategorien.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Nutzen Sie ISO/IEC 5259-2:2024 als verifizierten Ausgangspunkt für Datenqualitätsmaße, soweit passende methodische Unterlagen tatsächlich vorliegen. Artikel 10 Absätze 2 bis 4 verlangt dennoch eine eigene Bewertung des Verwendungszwecks, der Herkunft, Aufbereitung, Repräsentativität und kontextbezogenen Lücken. Eine Quote vollständiger Felder beantwortet beispielsweise nicht, ob seltene Fälle oder eine betroffene Sprachgruppe hinreichend vertreten sind.
+
+Legen Sie je Datenbestand Herkunft, Version, Aufbereitungsentscheidung, relevantes Qualitätsmaß, verbleibende Unterrepräsentation und Auswirkung auf den Systemtest offen. Treffen Trainings-, Validierungs- und Testdaten unterschiedliche Populationen, begründen Sie die Übertragbarkeit statt einen Gesamtwert zu übernehmen. Die rechtliche Zulässigkeit sensibler Bias-Daten nach Artikel 4a und Datenschutzrecht bleibt ein eigener Schritt. Die [Normenreferenz](../../references/technische-normen.md) enthält nur belegte Kataloginformationen, keine behaupteten ISO-Mindestquoten.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

@@ -25,6 +25,12 @@ Untersuchen Sie KI-spezifische Angriffe in einer autorisierten Testumgebung. Art
 
 Artikel 42 enthält begrenzte Konformitätsvermutungen beziehungsweise eine aktuelle Schnittstelle zur Cyberresilienz-Verordnung. Prüfen Sie den genauen sachlichen Umfang und alle Voraussetzungen. Ein Cybersicherheitsnachweis belegt nicht automatisch Datenqualität, Grundrechtsschutz oder die gesamte AI-Act-Konformität. Das Ergebnis benennt abgedeckte Anforderungen und verbleibende Nachweise ausdrücklich.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Unterscheiden Sie drei technische Aussagen: gemessene Leistung auf einem bestimmten Datensatz, formaler Nachweis einer begrenzten Modelleigenschaft und Widerstandsfähigkeit des integrierten Systems. ISO/IEC 24029-2:2023 betrifft nach dem öffentlichen Abstract formale Robustheitsmethoden für neuronale Netze; die Aussage darf nicht auf sämtliche Eingaben, Schnittstellen oder Cyberangriffe ausgedehnt werden. ISO/IEC TS 42119-2:2025 ist ein methodischer Ausgangspunkt für die Auswahl von Tests, kein erfolgreicher Testbericht.
+
+Liefern Sie eine Testmatrix mit Risiko, zu prüfender Eigenschaft, vorab gesetzter Metrik und Schwelle, Daten-/Modellversion, Annahmen, Ergebnis und offenen Grenzen. Prüfen Sie beim Wechsel des Einsatzgebiets, ob die Annahmen noch tragen, auch wenn die Modellgewichte unverändert bleiben. Ein Gesamtwert kann eine gefährliche Fehlerrate in einer relevanten Untergruppe verdecken. Leiten Sie die konkrete Freigabegrenze oder den Nachtest aus Artikel 9 Absatz 8, Artikel 15 und Anhang IV Nummer 2 Buchstabe g her; behaupten Sie dafür keine ungelesene ISO-Klausel. Nutzen Sie die [Normenreferenz](../../references/technische-normen.md) und [Testanker 4 und 5](../../references/testanker.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

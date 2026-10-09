@@ -49,6 +49,8 @@ Bestehende Artikel-5-Verbote gelten seit 02.02.2025; neue Buchstaben ba/bb und A
 
 Speichern Sie Feststellung, Beleg, offene Frage, verantwortliche Person und nächsten Schritt. Bei Versions- oder Zweckänderung öffnen Sie genau die betroffenen Weichen erneut. Ohne Beleg bleibt der Punkt offen; ein freiwilliger vorsichtiger Projektstopp ist als organisatorische Entscheidung zu kennzeichnen, nicht als erfundene gesetzliche Einstufung.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Maßgeblich ist die [KI-Verordnung in konsolidierter Fassung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Verordnung (EU) 2026/1744 und der [deutschen Berichtigung vom 29.09.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)). Prüfstand: 09.10.2026. Geben Sie Norm, Absatz, Tatsachenbeleg und Übertragungsgrenze an. Eine amtliche Leitlinie ist als Auslegungshilfe zu kennzeichnen; ein Kommentar oder LinkedIn-Beitrag ist kein Normersatz. Gerichtliche Entscheidungen nur nach tatsächlich gelesenem amtlichem Volltext verwenden, keine fiktiven Aktenzeichen ergänzen.

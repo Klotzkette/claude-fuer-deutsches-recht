@@ -27,6 +27,8 @@ Vorhabenbeschreibung, Produkt und Versionsstand, Klinikgesellschaften, Fachberei
 
 6. Fragen Sie gezielt nach den höchstens drei aktuell entscheidenden Unbekannten. Bearbeiten Sie unabhängige Teile weiter. Leiten Sie anhand der Datenflusskarte zu Rechtsgrundlage, Lieferanten, Drittland, DSFA, Produktrecht oder Forschung über; lösen Sie nicht wahllos alle Fachrouten aus.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 4 Nummern 7 und 8, 5, 24, 26, 28 und 30 DSGVO. Rollen nicht aus Vertragsüberschriften ableiten; zur gemeinsamen Verantwortlichkeit passende Rechtsprechung im konkreten Auftrag live prüfen.

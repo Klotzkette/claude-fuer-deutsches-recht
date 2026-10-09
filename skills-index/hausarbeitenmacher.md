@@ -1,6 +1,6 @@
 # hausarbeitenmacher
 
-**59 Skills** · Stand `v445.33.1`
+**59 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../hausarbeitenmacher/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`hausarbeitenmacher-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hausarbeitenmacher/hausarbeitenmacher-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`hausarbeitenmacher-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hausarbeitenmacher/hausarbeitenmacher-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [hausarbeitenmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
+| **Plugin (installierbar)** | ZIP | [hausarbeitenmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/hausarbeitenmacher.zip) |
 
 ## So benutzt man einen Skill
 

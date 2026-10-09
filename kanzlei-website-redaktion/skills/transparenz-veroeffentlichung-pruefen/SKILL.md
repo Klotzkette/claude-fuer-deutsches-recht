@@ -23,6 +23,8 @@ Entscheiden Sie für die konkrete Fassung, welche Voraussetzungen noch fehlen un
 6. Anbieterpflicht nach Absatz 2, Deepfakes nach Absatz 4 Unterabsatz 1 und Website-Chats nach Absatz 1 separat behandeln. Textausnahme nicht auf manipulierte Bilder übertragen. Die Übergangsregel zu Absatz 2 nicht auf Absatz 4 anwenden.
 7. Ergebnis mit konkreten Korrekturen und Vorschau zurückgeben. Nach Änderung relevante Prüfschritte wiederholen. Erst die freigegebene identische Fassung an `website-veroeffentlichen-wiederherstellen` übergeben.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Unterscheiden Sie das Erzeugen eines öffentlichen Informationstexts von der technischen Bildmarkierung. Prüfen Sie eine redaktionelle Ausnahme nur anhand der tatsächlich vorgenommenen Kontrolle und übernommenen Verantwortung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 50 Absätze 1, 2, 4 und 5 sowie Artikel 111 Absatz 4 der Verordnung (EU) 2024/1689; amtliche Kommissionsauslegung und Berufsrecht nach [Recht und Transparenz](../../references/recht-und-transparenz.md). [Quellenregeln](../../references/zitierweise.md). Keine behauptete Zertifizierung oder rechtliche Vollständigkeitsgarantie.

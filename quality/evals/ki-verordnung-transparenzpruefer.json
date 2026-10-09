@@ -61,9 +61,10 @@
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
-      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt."
+      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "36aeb3a19700b1e76f47fd99e8642f683ace1f52da6cdb1e2019042edea9ece1"
+    "sha256": "0ba6e9a40e93f19bcdae64d6b19dd27ba285461e81643ca2e42c7e7820c6d3fd"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -72,9 +73,10 @@
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
-      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt."
+      "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
     ],
-    "sha256": "7f5d41ca2fa40508a3a72f5b191bd9355ef54544345e2439be3786d611b8239d"
+    "sha256": "1fad0b8c9a58a9d8a4b8bf807dc4aeaa63da2fd1620f9cb149e3a7619b06019d"
   },
   "selection": {
     "positive": [
@@ -765,8 +767,8 @@
     ],
     "prompt_path": "ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md",
     "skill_path": "ki-verordnung-transparenzpruefer/skills/transparenzfreigabe-dokumentieren/SKILL.md",
-    "prompt_sha256": "154bfdcd6f19c40b6779eec4a71e7d3c288c712a61a2a19a48a8b27a87c7f7a6",
-    "skill_sha256": "f8a56d38835a632191d4051088ea149e6508bb3111bea843dd5b73420b9b39ee"
+    "prompt_sha256": "77f6ceefcfbc91d98e594771eed0a70bad93bb72fa5ec5a5581df2d7121d36c8",
+    "skill_sha256": "af94d2144c56bf53d797df894b07186b450ce6d548d8373aaa6df0b6eec1b224"
   },
   "source_review_2026_10_09": {
     "method": "official_fulltext_and_editorial_review",
@@ -775,6 +777,19 @@
       "Keine neue Vollprüfung der nationalen Nebenmaterien, des KI-MIG oder historischer Rechtsprechungsanker.",
       "Keine produktive Meldung oder Zertifizierung und kein ausgeführter Live-Modelltest.",
       "Vorhandene Testakten unverändert."
+    ]
+  },
+  "normargument_review_2026_10_09": {
+    "method": "official_fulltext_and_editorial_review",
+    "test_anchor_path": "ki-verordnung-transparenzpruefer/references/testanker.md",
+    "test_anchor_count": 5,
+    "scope": "Konkrete Normmerkmale, Gegenvarianten und Arbeitsprodukte. Redaktionelle Gegenprüfung; kein ausgeführter Live-Modelltest.",
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+        "checked_on": "2026-10-09",
+        "supports": "Artikel 50 Absätze 1 bis 6; funktionsbezogene Ausnahmen, Erstinformation und Reichweite der Kennzeichnung."
+      }
     ]
   }
 }

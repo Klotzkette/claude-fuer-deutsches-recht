@@ -156,5 +156,12 @@
       "search_2026": "Amtliche PM 54/26 vom 08.07.2026 zu A39-Ergänzungsplanung gefunden; ohne neue Lektüre konkreter tragender Gründe nicht als Wasserrechtsanker ergänzt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "umweltrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie Messdatenverarbeitung, behördliche Entscheidungsunterstützung und sicherheitsrelevante Anlagensteuerung. Nicht jede behördliche KI fällt allein wegen der Behördeneigenschaft unter Anhang III.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

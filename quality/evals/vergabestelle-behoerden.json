@@ -116,11 +116,33 @@
       "target_skill": "10-zuschlagsmatrix-aufbauen",
       "request": "Kuenstliche Testeingabe: Wir bereiten einen VgV-Dienstleistungsauftrag vor, es gibt weder Bekanntmachung noch echte Angebote. Der Fachbereich benoetigt kurze Wiederherstellungszeiten und eine nachweisbare Ausfallreserve. Entwurf: 40 Preispunkte nach 40 mal niedrigster Preis geteilt durch Angebotspreis, 60 Qualitaetspunkte. Rein modellierte Szenarien A, B und C haben Preise von 100000, 120000 und 110000 EUR sowie angenommene Qualitaetspunkte von 20, 55 und 45. Erstelle einen begruendeten Kriterien- und Bewertungsentwurf samt rechnerischem Stresstest. Kriterien duerfen nicht auf einen gewuenschten Anbieter zugeschnitten werden.",
       "input_files": [],
-      "deliverables": ["wertungsmatrix.md", "bestwertungsnotiz.md"],
+      "deliverables": [
+        "wertungsmatrix.md",
+        "bestwertungsnotiz.md"
+      ],
       "criteria": [
-        {"id": "W01", "text": "Entwickelt auftragsbezogene pruefbare Qualitaetsstufen und Nachweise mit insgesamt 60 Punkten; trennt Eignungsanforderungen von Angebotswertung und macht offene fachliche Festlegungen kenntlich.", "deliverables": ["wertungsmatrix.md"]},
-        {"id": "W02", "text": "Rechnet die vorgegebenen Szenarien nachvollziehbar auf 60, etwa 88,33 und etwa 81,36 Gesamtpunkte; kennzeichnet Preise und Qualitaet als Modellannahmen, nicht als reale Angebote.", "deliverables": ["bestwertungsnotiz.md"]},
-        {"id": "W03", "text": "Begruendet Gewichtung und Nutzen vor Veroeffentlichung und verlangt fachliche Freigabe. Keine spaetere Anpassung an eingegangene Angebote, verdeckten Zusatzpunkte oder Behauptung, Bekanntmachung beziehungsweise Zuschlag seien erfolgt.", "deliverables": ["wertungsmatrix.md", "bestwertungsnotiz.md"]}
+        {
+          "id": "W01",
+          "text": "Entwickelt auftragsbezogene pruefbare Qualitaetsstufen und Nachweise mit insgesamt 60 Punkten; trennt Eignungsanforderungen von Angebotswertung und macht offene fachliche Festlegungen kenntlich.",
+          "deliverables": [
+            "wertungsmatrix.md"
+          ]
+        },
+        {
+          "id": "W02",
+          "text": "Rechnet die vorgegebenen Szenarien nachvollziehbar auf 60, etwa 88,33 und etwa 81,36 Gesamtpunkte; kennzeichnet Preise und Qualitaet als Modellannahmen, nicht als reale Angebote.",
+          "deliverables": [
+            "bestwertungsnotiz.md"
+          ]
+        },
+        {
+          "id": "W03",
+          "text": "Begruendet Gewichtung und Nutzen vor Veroeffentlichung und verlangt fachliche Freigabe. Keine spaetere Anpassung an eingegangene Angebote, verdeckten Zusatzpunkte oder Behauptung, Bekanntmachung beziehungsweise Zuschlag seien erfolgt.",
+          "deliverables": [
+            "wertungsmatrix.md",
+            "bestwertungsnotiz.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     },
@@ -129,11 +151,32 @@
       "target_skill": "14-aufklaerung-unangemessen-niedrige-preise",
       "request": "Kuenstliche Testeingabe: Nach Angebotsoeffnung eines VgV-Dienstleistungsauftrags liegen fuer denselben Leistungsumfang 720000 und 1000000 EUR netto vor, die dokumentierte Schaetzung betraegt 980000 EUR. Das guenstigste Angebot behauptet besonders effiziente Personalplanung, liefert aber keine Kostenaufteilung; Sozialabgaben- und Lohnannahmen sind nicht belegt. Eine Aufklaerung wurde noch nicht versandt. Ein Kollege verlangt sofortigen Ausschluss wegen mehr als 20 Prozent Abstand. Erstelle eine konkrete Aufklaerungsanfrage und einen internen Pruefvermerk mit noch offener Entscheidung. Die Behoerde darf keine fehlenden Angaben als bewiesenen Gesetzesverstoss behandeln.",
       "input_files": [],
-      "deliverables": ["aufklaerungsanfrage.md", "preispruefvermerk.md"],
+      "deliverables": [
+        "aufklaerungsanfrage.md",
+        "preispruefvermerk.md"
+      ],
       "criteria": [
-        {"id": "U01", "text": "Berechnet 28 Prozent Abstand zum naechsthoeheren Angebot und etwa 26,53 Prozent zur Schaetzung mit richtigem Bezugswert; begruendet den Pruefanlass ohne starre gesetzliche 20-Prozent-Regel.", "deliverables": ["preispruefvermerk.md"]},
-        {"id": "U02", "text": "Fragt leistungsbezogen nach Personalstunden, Kosten, Effizienzbelegen und gesetzlichen Lohn-/Sozialpflichten; erfindet keine Standardfrist, Antwort, Kalkulation oder nachtraegliche Preisveraenderung.", "deliverables": ["aufklaerungsanfrage.md"]},
-        {"id": "U03", "text": "Laesst die Entscheidung bis zur Aufklaerung offen und unterscheidet Soll-Ablehnung bei nicht zufriedenstellender Erklaerung von zwingender Ablehnung bei festgestellter Missachtung der Pflichten aus Paragraf 128 Absatz 1 GWB. Dokumentiert Freigabe und naechsten Pruefschritt ohne Versandbehauptung.", "deliverables": ["preispruefvermerk.md"]}
+        {
+          "id": "U01",
+          "text": "Berechnet 28 Prozent Abstand zum naechsthoeheren Angebot und etwa 26,53 Prozent zur Schaetzung mit richtigem Bezugswert; begruendet den Pruefanlass ohne starre gesetzliche 20-Prozent-Regel.",
+          "deliverables": [
+            "preispruefvermerk.md"
+          ]
+        },
+        {
+          "id": "U02",
+          "text": "Fragt leistungsbezogen nach Personalstunden, Kosten, Effizienzbelegen und gesetzlichen Lohn-/Sozialpflichten; erfindet keine Standardfrist, Antwort, Kalkulation oder nachtraegliche Preisveraenderung.",
+          "deliverables": [
+            "aufklaerungsanfrage.md"
+          ]
+        },
+        {
+          "id": "U03",
+          "text": "Laesst die Entscheidung bis zur Aufklaerung offen und unterscheidet Soll-Ablehnung bei nicht zufriedenstellender Erklaerung von zwingender Ablehnung bei festgestellter Missachtung der Pflichten aus Paragraf 128 Absatz 1 GWB. Dokumentiert Freigabe und naechsten Pruefschritt ohne Versandbehauptung.",
+          "deliverables": [
+            "preispruefvermerk.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     },
@@ -142,13 +185,42 @@
       "target_skill": "26-akteneinsicht-vergabekammer",
       "request": "Kuenstliche Testeingabe: Im Nachpruefungsverfahren verlangt der unterlegene Bieter Einsicht in die Begruendung der Qualitaetswertung. Das Aktenverzeichnis nennt veroeffentlichte Kriterien, begruendete Punktvergabe, interne Stundensaetze des Zuschlagskandidaten sowie personenbezogene Einzelgehaelter und private Kontaktdaten. Konkrete personenbezogene Werte sind dieser Eingabe nicht beigefuegt. Der Fachbereich will den ganzen Vermerk als geheim markieren. Erstelle eine Schwaerzungsmatrix und eine Stellungnahme an die Kammer mit einem Vorschlag fuer getrennte Fassungen. Uebermittle keine Akte und behaupte keine technisch ausgefuehrte Schwaerzung.",
       "input_files": [],
-      "deliverables": ["schwaerzungsmatrix.md", "kammerstellungnahme.md"],
+      "deliverables": [
+        "schwaerzungsmatrix.md",
+        "kammerstellungnahme.md"
+      ],
       "criteria": [
-        {"id": "S01", "text": "Prueft je Aktenteil Beweisrelevanz, konkretes Schutzinteresse und mildere Alternative; lehnt die pauschale Geheimmarkierung aller Kriterien und Wertungsgruende ab, ohne Gehaelter oder Kontaktdaten zu erfinden.", "deliverables": ["schwaerzungsmatrix.md"]},
-        {"id": "S02", "text": "Plant getrennt die erforderliche vollstaendige Kammerfassung und die begruendet geschuetzte Beteiligtenfassung; behaelt einen streiterheblichen wesentlichen Informationsgehalt und ueberlaesst die konkrete Einsichtsentscheidung der Kammer.", "deliverables": ["schwaerzungsmatrix.md", "kammerstellungnahme.md"]},
-        {"id": "S03", "text": "Stellungnahme verbindet Paragraf 165 GWB und den begrenzten Antea-Abwaegungsanker mit den konkreten Aktentypen. Behauptet weder sichere technische Schwaerzung noch Upload oder Versand und benennt die notwendige Freigabe.", "deliverables": ["kammerstellungnahme.md"]}
+        {
+          "id": "S01",
+          "text": "Prueft je Aktenteil Beweisrelevanz, konkretes Schutzinteresse und mildere Alternative; lehnt die pauschale Geheimmarkierung aller Kriterien und Wertungsgruende ab, ohne Gehaelter oder Kontaktdaten zu erfinden.",
+          "deliverables": [
+            "schwaerzungsmatrix.md"
+          ]
+        },
+        {
+          "id": "S02",
+          "text": "Plant getrennt die erforderliche vollstaendige Kammerfassung und die begruendet geschuetzte Beteiligtenfassung; behaelt einen streiterheblichen wesentlichen Informationsgehalt und ueberlaesst die konkrete Einsichtsentscheidung der Kammer.",
+          "deliverables": [
+            "schwaerzungsmatrix.md",
+            "kammerstellungnahme.md"
+          ]
+        },
+        {
+          "id": "S03",
+          "text": "Stellungnahme verbindet Paragraf 165 GWB und den begrenzten Antea-Abwaegungsanker mit den konkreten Aktentypen. Behauptet weder sichere technische Schwaerzung noch Upload oder Versand und benennt die notwendige Freigabe.",
+          "deliverables": [
+            "kammerstellungnahme.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     }
-  ]
+  ],
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "vergaberecht-werkstatt/vergabestelle-behoerden/references/ki-normen-und-fallpruefung.md",
+    "focus": "Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  }
 }

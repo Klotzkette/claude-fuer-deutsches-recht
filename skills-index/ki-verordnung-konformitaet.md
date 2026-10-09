@@ -1,6 +1,6 @@
 # ki-verordnung-konformitaet
 
-**11 Skills** · Stand `v445.35.0`
+**11 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-konformitaet/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-verordnung-konformitaet-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`ki-verordnung-konformitaet-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-verordnung-konformitaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-konformitaet.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-verordnung-konformitaet.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-konformitaet.zip) |
 
 ## So benutzt man einen Skill
 

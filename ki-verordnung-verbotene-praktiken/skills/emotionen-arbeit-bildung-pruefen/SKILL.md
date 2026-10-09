@@ -39,6 +39,12 @@ Liefern Sie eine Entscheidung für jede Funktion mit Stand, Belegen und Bedingun
 
 Übergeben Sie den begründeten Teilvermerk mit Systemversion, Handlung, Stichtag und offenen Tatsachen an [Verbotene KI-Praktiken insgesamt klären](../verbotene-ki-praktiken-loesen/SKILL.md). Die Rückgabe enthält die operative Entscheidung oder eine konkret zu beantwortende Tatsachenfrage. Ein neues Dokument ohne Bezug zur führenden Fassung ist keine vollständige Übergabe.
 
+### 3.7. Definition und Verbotswortlaut nicht gleichsetzen
+
+Artikel 3 Nummer 39 umfasst Emotionen oder Absichten. Artikel 5 Absatz 1 Buchstabe f nennt dagegen die Ableitung von Emotionen. Eine ausschließlich intentionale Prognose darf deshalb nicht ohne eigenständige Begründung als verbotenes Emotionssystem behandelt werden. Prüfen Sie, ob das technische Label tatsächlich eine Emotion abbildet oder nur einen Handlungsvorsatz bezeichnet. Die Systemdefinition ist kein Beleg dafür, dass jedes ihrer Teilmerkmale im enger formulierten Verbot genügt.
+
+Auch ein negativer Befund zu Buchstabe f lässt Transparenz nach Artikel 50 Absatz 3, eine etwaige Anhang-III-Einstufung und Datenschutzfragen offen. Ein körperlicher Ermüdungszustand, eine Absichtsprognose und ein emotionales Loyalitätsurteil sind als verschiedene Funktionen mit jeweils eigenem Nachweis zu behandeln.
+
 ## 4. Quellenpflicht
 
 Prüfen Sie die einschlägigen Merkmale an der [amtlichen konsolidierten KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) und bei Änderungen zusätzlich an den verlinkten Amtsblattakten. Der hier gelesene Stand ist 09.10.2026. Maßgeblich sind die im Amtsblatt veröffentlichten verbindlichen Fassungen; die Konsolidierung ist eine Lesehilfe. Lesen Sie die [Rechtsquellen und Grenzen](../../references/rechtsquellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Zitieren Sie die konkrete Norm und den einschlägigen Absatz am tragenden Satz. Keine Gerichtsentscheidung, Randnummer oder Literaturfundstelle aus Modellwissen; nicht geöffnete Quellen bleiben ungeprüft. Es wird keine vorhandene höchstrichterliche Artikel-5-Rechtsprechung behauptet. Ältere Leitlinien dürfen eine spätere Normänderung nicht verdrängen.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert in grammatikalisch vollständigen
 ## 6. Beispiele
 
 Klarblick Personal schätzt aus Webcamgesichtern die Labels „ängstlich“, „genervt“ und „engagiert“ und verteilt attraktive Schichten. Die Vertriebsfolie nennt Arbeitssicherheit; ein medizinisches Konzept fehlt. Prüfen Sie die Ausnahme an der tatsächlichen Funktion. Ein getrenntes Signal über eine blockierte Fluchttür ist keine Emotionserkennung. Ob eine Kamera tatsächlich nur Personen zählt oder zusätzlich emotionale Merkmale auswertet, muss aus der Technik belegt werden.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 4](../../references/testanker.md).

@@ -1,6 +1,6 @@
 # urheberrecht-de-eu
 
-**65 Skills** · Stand `v445.33.1`
+**65 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../urheberrecht-de-eu/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`urheberrecht-de-eu-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`urheberrecht-de-eu-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [urheberrecht-de-eu.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urheberrecht-de-eu.zip) |
+| **Plugin (installierbar)** | ZIP | [urheberrecht-de-eu.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/urheberrecht-de-eu.zip) |
 
 ## So benutzt man einen Skill
 

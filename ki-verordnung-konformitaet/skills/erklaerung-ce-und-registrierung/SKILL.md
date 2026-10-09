@@ -25,6 +25,12 @@ Bestimmen Sie die geeignete CE-Kennzeichnung nach Artikel 48 einschließlich dig
 
 Übergeben Sie für Artikel 49 einen eindeutigen Registrierungsauftrag mit Rolle, Systemversion, Anhangpfad, Zeitrecht und benötigten Anlagen. Nicht jedes Produkt des Anhangs I fällt allein deshalb unter die EU-Registrierung nach Artikel 49 Absatz 1. Erst nach namentlicher Freigabe der konkreten Fassung werden autorisierte Außenhandlungen ausgeführt; ohne Eingangsnachweis bleibt die Registrierung offen.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Gleichen Sie die Normangaben des Erklärungsentwurfs gegen den tatsächlich verwendeten Nachweisweg ab. Anhang V Nummer 6 verlangt die einschlägigen harmonisierten Normen beziehungsweise gemeinsamen Spezifikationen; eine beliebige ISO-Liste wird nicht ungeprüft in dieses Feld übernommen. Andere angewandte technische Normen können im Nachweisdossier nach Anhang IV Nummer 7 dokumentiert sein, ohne dadurch harmonisiert zu werden.
+
+Für die Registerübergabe unterscheiden Sie das Managementsystemzertifikat, die gegebenenfalls einschlägige Artikel-44-Bescheinigung und die vom Anbieter verantwortete EU-Konformitätserklärung. Die erforderliche Systemidentität und Version müssen zusammenpassen. Bei interner Kontrolle wird keine fiktive Nummer einer notifizierten Stelle erzeugt. Nutzen Sie die [Aussagegrenzen technischer Nachweise](../../references/technische-normen.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

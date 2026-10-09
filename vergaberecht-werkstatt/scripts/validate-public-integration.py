@@ -5,8 +5,28 @@ import json
 import re
 from pathlib import Path
 
-from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, ROOT, VERSION, canonical_prompt, with_working_downloads, check_plugin_version
+from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, REPOSITORY, ROOT, VERSION, canonical_prompt, with_working_downloads, check_plugin_version
 from testakte_notices import README_NOTICE, with_case_warnings
+
+
+# Gemeinsame Testakten liegen im uebergeordneten Repository. Nur deklarierte
+# README-Ziele sind erlaubt; die zugehoerige Datei muss lokal vorhanden sein.
+SHARED_CASE_READMES = {
+    f"https://github.com/{REPOSITORY}/blob/main/{relative}": relative
+    for relative in ("testakten/ki-register-havelgrund-sozialamt/README.md",)
+}
+
+
+def public_target_error(target: str, *, parent_root: Path) -> str | None:
+    if "/main/vergaberecht-werkstatt" in target:
+        return None
+    relative = SHARED_CASE_READMES.get(target)
+    if relative is None:
+        return f"Komponentenpraefix fehlt: {target}"
+    destination = (parent_root / relative).resolve()
+    if not destination.is_relative_to(parent_root.resolve()) or not destination.is_file():
+        return f"Gemeinsame Testakten-README fehlt im uebergeordneten Repository: {relative}"
+    return None
 
 
 def main() -> int:
@@ -81,8 +101,9 @@ def main() -> int:
         if f"github.com/{private}" in text or f"raw.githubusercontent.com/{private}" in text:
             errors.append(f"{rel}: privates Downloadziel")
         for target in re.findall(r"https://(?:github.com|raw.githubusercontent.com)/Klotzkette/claude-fuer-deutsches-recht/(?:blob/|tree/)?main/[^\s)\"<>]+", text):
-            if "/main/vergaberecht-werkstatt" not in target:
-                errors.append(f"{rel}: Komponentenpraefix fehlt: {target}")
+            error = public_target_error(target, parent_root=ROOT.parent)
+            if error:
+                errors.append(f"{rel}: {error}")
     for error in errors:
         print(f"FEHLER: {error}")
     print(f"validate-public-integration: {len(errors)} Fehler; 3 Rollen, 255 Skills")

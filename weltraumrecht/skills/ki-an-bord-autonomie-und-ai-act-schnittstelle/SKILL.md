@@ -111,3 +111,4 @@ Das Rechtsgebiet berührt folgende Kernthemen: KI Satellit, EU AI Act, Autonomie
 - UNOOSA: https://www.unoosa.org/
 - BNetzA: https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Frequenzen/start.html
 - ITU Radio Regulations: https://www.itu.int/en/ITU-R/terrestrial/broadcast/Pages/Regulations.aspx
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Ermitteln Sie den tatsächlichen räumlichen und sachlichen Anwendungsbereich, bevor Sie aus dem technischen Gefahrenniveau eine KI-VO-Kategorie ableiten. Produktpfad, ziviler Einsatz und Systemfunktion brauchen eigene Belege. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

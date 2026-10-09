@@ -102,3 +102,4 @@ Programm-Empfehlung:
 - Bundesregierung Vorhabenplaner, [https://www.bundesregierung.de](https://www.bundesregierung.de).
 - AI Act, VO (EU) 2024/1689, [https://eur-lex.europa.eu/eli/reg/2024/1689/oj](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - Byrd / Lehmann, Zitierfibel für Juristen, 2. Aufl. 2016.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Halten Sie fest, wer welche Passage in welcher Fassung geprüft und die redaktionelle Verantwortung übernommen hat. Eine bloße Schlussfreigabe ohne erkennbaren Gegenstand ist als Beleg gesondert zu würdigen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

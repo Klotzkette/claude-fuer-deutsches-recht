@@ -1,0 +1,135 @@
+[
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/07_Auftrag_Behringer.eml",
+    "file": "01_Pruefauftrag.docx",
+    "bytes": 38858,
+    "sha256": "e538f8e85ea088616d35947ddbdd0e24839327759d4d7b2d27bb0a40e3868458",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/07_Auftrag_Behringer.eml",
+    "file": "01_Pruefauftrag.pdf",
+    "bytes": 89572,
+    "sha256": "f489c36b133e2cb1a1dad97084f57d84ee0ebc9bb33c9764afbcb6105965bcec",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/08_Technik_Seibold.eml",
+    "file": "02_Systembeschreibung.docx",
+    "bytes": 39035,
+    "sha256": "705dc012866beb75472093e6ec75c80b061267ff0c92bcc8c21f0becedb78d51",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/08_Technik_Seibold.eml",
+    "file": "02_Systembeschreibung.pdf",
+    "bytes": 95564,
+    "sha256": "5c183618cada2da52c14d9b919cdeb88252eb969f81d0ac5a722931c27bb1e2e",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/09_Kundengespraech.eml",
+    "file": "03_Gespraechsprotokoll_Rupprecht.docx",
+    "bytes": 39059,
+    "sha256": "af4f193965528014e24dc9d59682246e539a54ff7f7efa22cb1b852cd846ff8b",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/11_Anbieter_und_Korrektur.eml",
+    "file": "04_Anbieterantwort.docx",
+    "bytes": 38973,
+    "sha256": "4f483cde577960b442be5af917fb1123724a9fccce07bea3d1e6fc3087b2c10e",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/11_Anbieter_und_Korrektur.eml",
+    "file": "04_Anbieterantwort.pdf",
+    "bytes": 92905,
+    "sha256": "615fae3f76e85c8a18e3066b9445ed7c0f72883444886e22fc674c83d629375e",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/12_Kontrollnotiz_und_Mappe.eml",
+    "file": "05_Kontrollnotiz_Betrieb.pdf",
+    "bytes": 93143,
+    "sha256": "7f972862c632909d3880d7cc100f8e9768b309d59436c21b83dfb09fcaf5640a",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-verbot-regnitz-sorglosabo/12_Kontrollnotiz_und_Mappe.eml",
+    "file": "13_Kosten_und_Buchungsabgleich.xlsx",
+    "bytes": 8422,
+    "sha256": "393c834180e2ad19c6ee0021da848867fea93b48d13e8a332b8d7efd7eef9d9b",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/07_Auftrag_Chefredaktion.eml",
+    "file": "01_Redaktionsauftrag.docx",
+    "bytes": 38915,
+    "sha256": "9dc23ffe66e5bd9d3054764c67615749f00dc93e416dc6204c3400346f2e8eac",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/07_Auftrag_Chefredaktion.eml",
+    "file": "01_Redaktionsauftrag.pdf",
+    "bytes": 96014,
+    "sha256": "e49b985717f8d5c5792c4dd8db58750d412ba6997b6814bce73be99897317ed2",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/09_Technik_und_Produktionsstand.eml",
+    "file": "02_Produktionsbeschreibung.docx",
+    "bytes": 38990,
+    "sha256": "84db97e021c8f0a55c3d6064ac86cbb77b2d0735b37291d648f1dab577febf39",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/09_Technik_und_Produktionsstand.eml",
+    "file": "02_Produktionsbeschreibung.pdf",
+    "bytes": 94751,
+    "sha256": "7e43ac8d71208f6f4ebc372eb8cde0ceefc7cf92bbc304cd878b236a54ca9c7d",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/10_Vorschau_und_Rechtschreibung.eml",
+    "file": "03_Redaktionsprotokoll.docx",
+    "bytes": 38923,
+    "sha256": "a25368910e7525f7f73a80e9a24c92bc1b6cdd954504e86211b9713d9c68277a",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/11_Anbieterantwort_Export.eml",
+    "file": "04_Anbieterbrief_Markierung.docx",
+    "bytes": 38886,
+    "sha256": "fb7bf6def03e038a6edb3879efdd0d6d22e14ea13a81901d8d662e7923834d2d",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/11_Anbieterantwort_Export.eml",
+    "file": "04_Anbieterbrief_Markierung.pdf",
+    "bytes": 94198,
+    "sha256": "43421c10a7ffb512feb76d873f29f429169f053d110ac1276890c29b2e3bb64e",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/12_Ausspielkontrolle.eml",
+    "file": "05_Kontrollblatt_Ausspielung.pdf",
+    "bytes": 96865,
+    "sha256": "786eef8b6f46f64f79bb5b1393c78c991b5993de570f6421ac4dc993c7efbfef",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/12_Ausspielkontrolle.eml",
+    "file": "06_Arbeitsentwurf_Veröffentlichung.docx",
+    "bytes": 38869,
+    "sha256": "bb8d3990150338fd20e7209e6fc2656b3f75039572b8418946d14b7002343be5",
+    "byte_identical": true
+  },
+  {
+    "eml": "testakten/ki-transparenz-pegnesus-redaktion/12_Ausspielkontrolle.eml",
+    "file": "13_Fassungen_und_Ausspielkontrolle.xlsx",
+    "bytes": 7143,
+    "sha256": "46d949612794a1bae5acd386b107c935c8bc5ab9b3056bdad77c2241655fe725",
+    "byte_identical": true
+  }
+]

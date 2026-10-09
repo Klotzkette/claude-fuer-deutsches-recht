@@ -77,6 +77,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 - Jährliche Überprüfung des Dienstleisters (Zertifizierungen, Sicherheitsnachweise).
 - Geheimhaltungsvereinbarungen und AVV archivieren.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Ausgabeformat
 
 - **Prüfmemo** (intern): Berufsrechtliche und datenschutzrechtliche Zulässigkeit des konkreten KI-/IT-Dienstleisters.

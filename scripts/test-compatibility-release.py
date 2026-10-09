@@ -67,6 +67,74 @@ class CompatibilityRelease(unittest.TestCase):
         with self.assertRaises(ValueError):
             R.build(self.root)
 
+    def prepare_routed_build(self, plugin_routes):
+        manifest = self.plugin / ".claude-plugin/plugin.json"
+        manifest.parent.mkdir()
+        manifest.write_text(json.dumps({"name": "example", "version": R.VERSION,
+                                        "description": "Prüft einen Vorgang."}))
+        market = self.root / ".claude-plugin/marketplace.json"
+        market.parent.mkdir()
+        market.write_text(json.dumps({"version": R.VERSION, "plugins": [
+            {"name": "example", "version": R.VERSION, "source": "./example"}]}))
+        routes = self.root / "scripts/scoped-release-assets.json"
+        routes.parent.mkdir()
+        routes.write_text(json.dumps({"schema_version": 1, "assets": {
+            R.WEBSITE: R.TAG, **plugin_routes}}))
+        portable = self.root / "grundstuecksrecherche/app/portable.py"
+        portable.parent.mkdir(parents=True)
+        portable.write_text(
+            "import sys, zipfile\n"
+            "with zipfile.ZipFile(sys.argv[1], 'x') as archive:\n"
+            "    archive.writestr('index.html', '<html></html>')\n"
+            "    archive.writestr('portable-bundle.js', 'window.PORTABLE_BUNDLE={\"case\":null};')\n")
+        subprocess.run(["git", "init", "--quiet"], cwd=self.root, check=True, timeout=30)
+        subprocess.run(["git", "add", "example"], cwd=self.root, check=True, timeout=30)
+
+    def build_routed_fixture(self):
+        check_output = subprocess.check_output
+
+        def output(command, **kwargs):
+            if command == ["git", "rev-parse", "HEAD"]:
+                return "0" * 40 + "\n"
+            return check_output(command, **kwargs)
+
+        dist = self.root / "dist"
+        with patch.object(R, "PLUGINS", ("example",)), \
+             patch.object(R.subprocess, "check_output", side_effect=output), \
+             contextlib.redirect_stdout(io.StringIO()):
+            R.build(dist, root=self.root)
+        return dist, json.loads((dist / "quellenabgleich.json").read_text())
+
+    def test_same_version_other_component_route_is_built_and_reported(self):
+        tag = f"ki-verordnung-v{R.VERSION}"
+        self.prepare_routed_build({"example.zip": tag})
+        dist, report = self.build_routed_fixture()
+        self.assertTrue((dist / "example.zip").is_file())
+        self.assertEqual(report["tag"], R.TAG)
+        self.assertEqual(report["plugins"]["example"]["route"],
+                         R.scoped_asset_url("example.zip", root=self.root))
+        self.assertTrue(report["plugins"]["example"]["route"].endswith(f"/{tag}/example.zip"))
+
+    def test_own_component_route_is_built_and_reported(self):
+        self.prepare_routed_build({"example.zip": R.TAG})
+        _, report = self.build_routed_fixture()
+        self.assertEqual(report["plugins"]["example"]["route"],
+                         R.scoped_asset_url("example.zip", root=self.root))
+
+    def test_missing_wrong_version_or_invalid_component_route_is_rejected(self):
+        self.prepare_routed_build({})
+        route_file = self.root / "scripts/scoped-release-assets.json"
+        for plugin_routes in ({}, {"other.zip": f"ki-verordnung-v{R.VERSION}"},
+                              {"example.zip": "ki-verordnung-v0.0.0"},
+                              {"example.zip": f"ki-verordnung-v{R.VERSION}0"},
+                              {"example.zip": f"invalid/ki-verordnung-v{R.VERSION}"}):
+            with self.subTest(routes=plugin_routes):
+                route_file.write_text(json.dumps({"schema_version": 1, "assets": {
+                    R.WEBSITE: R.TAG, **plugin_routes}}))
+                with self.assertRaises(ValueError):
+                    self.build_routed_fixture()
+                self.assertFalse((self.root / "dist/example.zip").exists())
+
     def test_tracked_sources_include_parent_license_but_not_private_files(self):
         manifest = self.plugin / ".claude-plugin/plugin.json"
         manifest.parent.mkdir()

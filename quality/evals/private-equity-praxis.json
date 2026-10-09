@@ -154,5 +154,12 @@
       "private-equity-praxis/private-equity-praxis-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "private-equity-praxis/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie Minderheitsbeteiligung, tatsächliche Betriebssteuerung und spätere Produktänderungen separat. Die Beteiligungsstruktur allein bestimmt weder die Anbieterrolle noch eine Konformitätsvermutung.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

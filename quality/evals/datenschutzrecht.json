@@ -74,7 +74,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "8ea9086b52a06f82c35454fac6e0bf4953a0dd7cef9f78ee28fe4d9d84241f46"
+    "sha256": "4e5a33206f721227ce273d185bf312ecf1ad62142a2aaf405cb02d00c1906eed"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -87,7 +87,7 @@
       "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "54bb5088d4b78c1c9b83680c91a20034755299109d0c9bbb236337755179ddf4"
+    "sha256": "bd640ec2557e4e996c7cff4a2ea1874e3676a282012c6ebea3b91051a72354f3"
   },
   "selection": {
     "positive": [
@@ -265,5 +265,12 @@
     "continuation": "Neue Angabe zum notwendigen Kontext eines Vergleichsfelds -> Schwärzungsentscheidung und Auskunftsantwort ändern; eine bloße Linksperre -> Löschbehauptung im Vorfallsentwurf korrigieren.",
     "enrichment": "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "datenschutzrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Bestimmen Sie Identifizierungsmittel je Datenempfänger und den Zweck jeder Verarbeitung. Eine Berufung auf diskriminierungsfreie Entwicklung begründet noch keine allgemeine Befugnis zur Nutzung sensibler Daten.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

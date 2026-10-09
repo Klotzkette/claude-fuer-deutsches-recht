@@ -1,6 +1,6 @@
 {
   "name": "ki-verordnung-hochrisiko-pruefer",
-  "version": "445.35.0",
+  "version": "445.35.1",
   "description": "Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.",
   "keywords": [
     "ki-verordnung",

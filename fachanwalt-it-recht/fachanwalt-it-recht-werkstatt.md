@@ -157,3 +157,7 @@ Unterscheide Entdeckung, gesicherte Kenntnis, Zeitraum des Ereignisses und Zeitp
 Auf „Es war kein Download, sondern nur ein öffentlicher Link“ prüfe Zugänglichkeit, Dauer, Datenarten und verfügbare Zugriffsbelege. Fehlende Downloadlogs sind kein Beweis fehlender Kenntnisnahme. Ändere Risikobegründung, Maßnahmenbeschreibung und gegebenenfalls Nachmeldung inhaltlich abgestimmt. Die technische Sperrung eines Links ist keine nachgewiesene Löschung bereits kopierter Daten. Sicherheitsanweisung, Behördenmeldung und Betroffeneninformation bleiben unterschiedliche Produkte mit jeweils passendem Inhalt.
 
 Die Freigabe benennt die konkrete Fassung und den vorgesehenen Empfänger. Keine Bereinigung von Logs, Löschung von Produktivdaten oder Testhandlung am Live-System aus einer juristischen Entwurfsanfrage ableiten. Fehlt der technische Nachweis, bleibt nur der abhängige Schluss offen; die belegbare Meldung oder Vertragsklausel wird trotzdem vollständig ausgearbeitet.
+
+KI-Prüfung: Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar. Nutzen Sie die fachbezogene Normen- und Fallprüfung in den Referenzen; übertragen Sie Datenschutzurteile und ISO-Nachweise nur innerhalb ihres belegten Gegenstands.
+
+[Normen, technische Nachweise und begrenzte Rechtsprechungsargumente](references/ki-normen-und-fallpruefung.md).

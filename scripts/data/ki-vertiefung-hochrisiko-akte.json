@@ -1,0 +1,362 @@
+{
+  "slug": "ki-hochrisiko-mainblick-bewerbung",
+  "documents": [
+    {
+      "file": "01_Auftrag.docx",
+      "pdf": "07_Auftrag.pdf",
+      "title": "1 Auftrag zur Prüfung der Bewerbungsauswahl",
+      "organisation": "Mainblick Präzisionstechnik GmbH · Gießereihof 14 · 97080 Würzburg",
+      "author": "Kunigunde Seufert, Geschäftsführerin\nAn die beauftragte Rechtsberatung · 9. Oktober 2026, 08:20 Uhr",
+      "reference": "MB / Personal 26-41",
+      "body": "## 1.1 Anlass und Ziel\n\nWir fertigen Baugruppen für Messgeräte und beschäftigen 164 Personen. Für sechs Stellen in der technischen Auftragsbearbeitung ging Anfang September ein gemeinsamer Bewerberpool ein. Unsere Personalabteilung verwendet seit August MainSort Recruit. Die erste Fassung A 1.6 stellte Bewerbungsdokumente in einer einheitlichen Ansicht zusammen. Seit dem 23. September lief zusätzlich Fassung B 2.2 mit einer Rangfolge. Am 29. September wurden sechs Personen zu Gesprächen eingeladen. Eine Bewerberin verlangt nun Auskunft darüber, welche Angaben ihre Platzierung beeinflusst haben. Der Anbieter erklärt, es handele sich weiterhin nur um ein vorbereitendes Werkzeug.\n\nBitte erstellen Sie ein entscheidungsfähiges Prüfmemo für beide Fassungen und ein gesondertes, ausformuliertes Anschreiben an Konturwerk Software GmbH. Im Memo benötigen wir eine kurze Entscheidungsvorlage, die nachgewiesene Tatsachen von offenen Punkten trennt. Die Anlage soll die verwendeten Unterlagen, ihre Aussagekraft und die noch benötigten Nachweise nennen. Beurteilen Sie auch, ob der Wechsel von A zu B eine neue Bewertung verlangt und welche Bedeutung der konkrete Arbeitsablauf unserer Personalabteilung hat.\n\n## 1.2 Bestellte Arbeitsergebnisse\n\nBitte überarbeiten Sie den beigefügten Antwortentwurf an Mira Yılmaz zu einem versandfertigen Entwurf, soweit unsere Akte die Angaben trägt. Formulieren Sie für nicht gesicherte Aussagen passende Rückfragen oder offen gekennzeichnete Vorbehalte. Die Anbieterantwort vom 7. Oktober lehnt nähere Informationen unter Berufung auf Geschäftsgeheimnisse ab. Wir benötigen eine begründete Position dazu, welche Erläuterung die Bewerberin bekommen kann und welche Angaben zunächst intern oder beim Anbieter beschafft werden müssen. Nichts darf ohne meine Freigabe versendet werden.\n\nDas Memo soll die Systemfassungen, die Rolle unseres Unternehmens, die Rolle des Systemanbieters und das eingebundene Sprachmodell gesondert behandeln. Wir möchten wissen, welche Prüfungen und Unterlagen vor einer weiteren Verwendung erforderlich sind. Eine bloße Aufzählung von Artikeln hilft uns nicht. Bitte arbeiten Sie die stärkste Position des Anbieters aus und prüfen Sie sie anhand der festgestellten Funktion. Eine abschließende Aussage trotz fehlender Tatsachen ist nicht erwünscht.\n\n[SEITENWECHSEL]\n\n## 1.3 Aktueller Betrieb und Termine\n\nSeit dem 8. Oktober, 16:00 Uhr, ist die Ranglistenfunktion für neue Verfahren gesperrt. Die vorhandenen Unterlagen bleiben schreibgeschützt erhalten. Bereits versandte Einladungen wurden nicht zurückgenommen. Es ist noch keine Absage an Mira Yılmaz versendet worden; das Portal zeigt jedoch seit dem 29. September den Status „derzeit nicht in Auswahl“. Die Gesprächseinladungen betrafen nur die sechs obersten Plätze. Der nächste Pool soll am 15. Oktober eröffnet werden. Vorher benötige ich Ihre Empfehlung zum zulässigen und organisatorisch tragfähigen Ablauf.\n\nDie Auskunftsanfrage ging am 2. Oktober um 10:14 Uhr über die Kontaktadresse ein. Für unsere interne Planung ist der 13. Oktober als Termin für einen abgestimmten Entwurf vorgesehen. Bitte bestimmen Sie erforderliche Fristen selbst und kennzeichnen Sie ihre Ausgangstatsachen. Eine Verlängerung oder eine Antwort an die Bewerberin wurde bislang nicht erklärt. Unsere Datenschutzkoordinatorin Alma Heim hat den Eingang bestätigt, aber keine materielle Antwort erteilt.\n\n## 1.4 Datenbasis und Nachlieferung\n\nDie Arbeitsmappe vom 9. Oktober enthält den Export der 24 Bewerbungen, die Rangplätze und Öffnungsprotokolle aus der Anwendung. Sie ist gemeinsam mit der Kontrollnotiz zu lesen. Der Anbieter nannte außerdem 120 Fälle einer Kalibrierungsstichprobe, darunter sechs mit einem beruflichen Abschluss außerhalb Deutschlands. Diese Angaben betreffen nicht ohne Weiteres das gesamte Training des eingebundenen Modells. Wir können derzeit nicht beurteilen, ob die Stichprobe unsere aktuelle Bewerbergruppe ausreichend abbildet.\n\nUnsere Sachbearbeiterin hat den Lebenslauf von Mira Yılmaz inzwischen außerhalb der Anwendung geöffnet und ein ergänzendes Zertifikat gefunden. Dieses Zertifikat war im strukturierten Export nicht enthalten. Bitte berücksichtigen Sie den neuen Befund in demselben Memo und Antwortentwurf. Der ursprüngliche Text soll fortgeschrieben werden; wir möchten keine zweite, widersprechende Fassung für den Nachtrag führen. Sagen Sie ausdrücklich, welche rechtlichen Bewertungen sich durch den Befund ändern können und welche dafür noch zu wenig belegt sind.\n\n## 1.5 Ansprechpartner und Ablage\n\nFriedemann Reuß verantwortet die Personalabteilung und kann den tatsächlichen Arbeitsablauf erläutern. Noah Schell, IT-Koordinator, verwahrt die technischen Konfigurationen. Alma Heim koordiniert die Antwort auf die Anfrage. Ich entscheide über den weiteren Einsatz. Die folgenden Unterlagen stellen den Stand vom 9. Oktober 2026 dar. Weder die technische Notiz noch der Anbieterbrief wurden von uns als rechtlich verbindliche Bewertung freigegeben."
+    },
+    {
+      "file": "02_Technische_Systemnotiz.docx",
+      "pdf": "08_Technische_Systemnotiz.pdf",
+      "title": "1 Technische Systemnotiz A 1.6 und B 2.2",
+      "organisation": "Mainblick Präzisionstechnik GmbH · IT-Koordination",
+      "author": "Noah Schell, IT-Koordinator\nErstellt am 6. Oktober, ergänzt am 9. Oktober 2026",
+      "reference": "MSR / Konfiguration 2026-10-09",
+      "body": "## 1.1 Zweck und Abgrenzung der Komponenten\n\nMainSort Recruit ist eine von Konturwerk Software GmbH bereitgestellte Anwendung mit Upload, Dokumentenablage, Feldextraktion, Benutzeroberfläche und Berechtigungsverwaltung. Konturwerk legt die aufgabenbezogenen Regeln, die Darstellung und die Einbindung der Modellaufrufe fest. Mainblick hat sechs Zielstellen und ein Anforderungsprofil hinterlegt. Die Anwendung wird unter dem Produktnamen MainSort Recruit angeboten; Mainblick hat keine eigene Produktbezeichnung angebracht und bietet den Dienst keinem Dritten an.\n\nFür Textverarbeitung ruft Konturwerk das Modell OrionText 5.1 von Satzlicht Labs GmbH über eine Schnittstelle auf. Satzlicht beschreibt OrionText als vielseitiges Sprachmodell. Mainblick hat weder Gewichte noch Trainingsprogramm erhalten. Die zugängliche Modellkarte erklärt keine Rangfolge für unsere Stellen. Ein zweites, von Konturwerk trainiertes Dokumentenmodul erkennt Seitenaufbau und ordnet Textfelder zu. Im Vertrag werden Modell und Anwendung teilweise beide als „KI“ bezeichnet. Diese Notiz verwendet deshalb die Produkt- und Versionsnamen.\n\n## 1.2 Fassung A 1.6 vom 10. August bis 22. September\n\nA 1.6 liest hochgeladene Lebensläufe und Zeugnisse aus. Die Anwendung stellt Namen, Zeiträume, Abschlüsse und Fundstellen in gleich benannten Feldern dar. Eine als Ausbildung bezeichnete Passage wird als Ausbildung angezeigt; A ergänzt keine Eignungsprognose. Unsichere Felder werden mit der Fundstelle zur Kontrolle markiert. Die Bewerbungen erscheinen nach Eingangszeit, und sämtliche Originale sind ohne Rangfilter erreichbar. Die Personalabteilung soll die Felder mit dem Original vergleichen und die Eignung außerhalb der Anwendung beurteilen.\n\nIm überprüften Konfigurationsstand wurden weder Punktwerte noch eine Auswahlampel erzeugt. Die Anwendung löste keine Einladungen oder Portalstatus aus. Noah Schell hat am 6. Oktober zwei gespeicherte Konfigurationen und fünf Bildschirmabbildungen verglichen. Ein vollständiger Test sämtlicher Aufrufe aus dem August liegt nicht vor. Die Aussage zu A stützt sich auf diese Konfigurationen, die Produktbeschreibung und die Auskunft von Friedemann Reuß; die Aufbewahrung der einzelnen Aufrufprotokolle ist noch zu klären.\n\n[SEITENWECHSEL]\n\n## 1.3 Fassung B 2.2 seit dem 23. September\n\nB übernimmt die Extraktion, ergänzt aber eine personenbezogene Eignungsbewertung für das Anforderungsprofil. Laut technischer Anbieterbeschreibung fließen dokumentierte Berufserfahrung, erkannte Fachbegriffe, zeitliche Kontinuität und eine modellgestützte Einschätzung der Übertragbarkeit von Abschlüssen ein. Der Anbieter berechnet daraus einen Punktwert von 0 bis 100. Die Gewichtung ist uns nicht bekannt. Die exportierten Punkte sind unveränderte Anbieterwerte; die Arbeitsmappe berechnet keine eigenen Eignungswerte.\n\nDie Standardansicht zeigt die obersten sechs Bewerbungen. Die übrigen erscheinen erst nach „Alle anzeigen“. Im aktuellen Pool bestand keine Punktgleichheit am sechsten Platz. Eine manuelle Auswahländerung war technisch möglich. Der Knopf „Shortlist bestätigen“ übernahm die sechs sichtbaren Datensätze in die Einladungsbearbeitung und setzte bei den anderen den Portalstatus „derzeit nicht in Auswahl“. Für den E-Mail-Versand musste eine zweite Person die vorbereitete Nachricht freigeben. Eine Pflicht zur Begründung einer unveränderten Übernahme war nicht eingerichtet.\n\n## 1.4 Steuerung, Protokolle und Änderungsstand\n\nDie Anwender konnten Originaldokumente öffnen und Auswahlhäkchen ändern. Aus dem Protokollexport ergeben sich vor der Bestätigung acht geöffnete Bewerbungen: die sechs ausgewählten Personen sowie B09 und B12. Die Öffnung sagt nichts über Dauer und Tiefe der Prüfung. Sie erfasst auch keine außerhalb der Anwendung gelesenen Dokumente. Für B07 wurde bis zum 8. Oktober keine Originalöffnung in MainSort protokolliert. Die spätere Öffnung durch Alma Heim erfolgte aus dem gesicherten Dateiordner und erscheint daher nicht im Anwendungslog.\n\nB 2.2 trägt dieselbe OrionText-Modellkennung wie A 1.6. Der geänderte Systemablauf, der Bewertungsdienst und die Ranglistenoberfläche sind dennoch gesonderte Änderungen. Mainblick hat keine eigenen Modellgewichte verändert. Das Anforderungsprofil wurde am 21. September durch Reuß freigegeben. Wer die Merkmalsgewichte, Schwellen oder Systemanweisungen beim Anbieter zuletzt geändert hat, ist nicht dokumentiert. Ein dokumentiertes Überwachungsintervall und eine für Mainblick nachvollziehbare Prüfung von Fehlzuordnungen fehlen in der übergebenen Projektablage.\n\n## 1.5 Offene technische Nachweise\n\nBenötigt werden die tatsächlich eingesetzten Konfigurationen beider Fassungen, die Beschreibung der Auswahlmerkmale, die Version des Bewertungsdienstes und ein Nachweis zur Verarbeitung mehrseitiger Zusatzunterlagen. Die Produktunterlagen nennen einen Schalter „Anlage vollständig lesen“, zeigen aber seinen Stand im September nicht. Die Gleichheit der Modellkennung erlaubt daher keinen Schluss auf die Gleichheit des gesamten Systems oder aller Ausgaben. Bis zur Klärung sind Export, Originaldateien und Zugriffsprotokolle unverändert gesichert. Seit dem 8. Oktober um 16:00 Uhr ist die Ranglistenfunktion für neue Verfahren gesperrt; der bestehende Pool ist nur lesbar."
+    },
+    {
+      "file": "03_Auswahlprotokoll.docx",
+      "pdf": "09_Auswahlprotokoll.pdf",
+      "title": "1 Protokoll der Auswahlbesprechung",
+      "organisation": "Mainblick Präzisionstechnik GmbH · Personalabteilung",
+      "author": "Friedemann Reuß, Personalleiter\nBesprechung am 29. September 2026, 09:00–09:22 Uhr; Ergänzung vom 8. Oktober",
+      "reference": "MB / Auswahlrunde 26-41",
+      "body": "## 1.1 Teilnehmer und Unterlagen\n\nAn der Besprechung nahmen Friedemann Reuß, die Teamleiterin Selma Röder und der kaufmännische Leiter Hartmut Eckart teil. Auf dem geteilten Bildschirm waren die sechs obersten Einträge des Pools „Auftragsbearbeitung Herbst“ sichtbar. Reuß hatte die Punktwerte vorab aus MainSort B 2.2 übernommen. Die Einladung sollte auf sechs Personen begrenzt werden, weil zunächst sechs Gesprächstermine freigehalten waren. Das Protokoll wurde am selben Nachmittag erstellt und am 8. Oktober um die nachstehenden Angaben zur Sichtung ergänzt.\n\nDie sichtbaren Werte lauteten für B01 94, B02 90, B03 88, B04 86, B05 83 und B06 81 Punkte. Die Namen wurden im Export vom 9. Oktober durch interne Kennungen ersetzt. Die Rangfolge in der Arbeitsmappe entspricht dem am 29. September sichtbaren Stand. In der Besprechung wurden keine Punktwerte neu berechnet. Die Grenze am sechsten Platz stammte aus der voreingestellten Anzahl der sichtbaren Kandidaten, nicht aus einer vorher von uns festgelegten Mindestpunktzahl.\n\n## 1.2 Ablauf der Entscheidung\n\nReuß erklärte zu Beginn, die vorgeschlagenen Personen erfüllten nach seiner ersten Sichtung die wesentlichen Anforderungen. Röder fragte bei B03 nach der Erfahrung mit technischen Zeichnungen. Reuß öffnete das hinterlegte Zeugnis und verwies auf zwei Tätigkeitsangaben. Bei B05 wurde der früheste Eintrittstermin besprochen. Die übrigen vier sichtbaren Personen wurden anhand der Kurzansichten behandelt. Es gab keine vergleichende Einzelbesprechung mit den Rangplätzen sieben bis vierundzwanzig.\n\nEckart fragte, ob der Anbieter alle relevanten Abschlüsse erkenne. Reuß verwies auf die zugesagte Erkennung internationaler Unterlagen. Eine Stichprobe anhand der nicht sichtbaren Bewerbungen wurde nicht durchgeführt. Röder erklärte, sie könne die vollständigen Unterlagen in dieser Woche nicht zusätzlich sichten. Um 09:18 Uhr bestätigte Reuß die vorgeschlagene Shortlist ohne Änderung. Röder prüfte anschließend die Anschriften und Termine der vorbereiteten Einladungen und gab den Versand um 09:22 Uhr frei. Sie änderte keine Auswahlhäkchen.\n\n[SEITENWECHSEL]\n\n## 1.3 Bedeutung der Bestätigung\n\nIm Projektplan heißt dieser Schritt „menschliche Letztentscheidung“. Nach meiner Erinnerung verstanden wir ihn als letzte Kontrolle vor dem Versand. Für jede der übrigen achtzehn Personen wurde kein gesonderter Auswahlgrund festgehalten. Die Anwendung verlangte dies nicht. Ich kann deshalb heute nicht behaupten, dass das Team sämtliche Bewerbungen unabhängig von der Rangfolge inhaltlich verglichen hatte. Die Entscheidung, mit welchen sechs Personen wir zuerst sprechen wollten, entsprach vollständig dem Vorschlag der Anwendung.\n\nDie Personalabteilung hatte im September sehr wenig Zeit. Neben dem Bewerberpool liefen eine Messevorbereitung und drei Ersatzbesetzungen. MainSort sollte uns vor allem die Priorisierung erleichtern. Ich habe B09 und B12 außerhalb der Besprechung in der Anwendung geöffnet, weil jeweils eine Rückfrage zur Verfügbarkeit eingegangen war. Daraus ergibt sich keine vollständige Eignungsprüfung dieser beiden Bewerbungen. Für die anderen nicht eingeladenen Personen habe ich damals die ursprünglichen Unterlagen nicht systematisch geöffnet.\n\n## 1.4 Anfrage und nachträglicher Befund\n\nMira Yılmaz, intern B07, schrieb am 2. Oktober, sie könne den Portalstatus nicht nachvollziehen. Ihr Punktwert betrug 72, ihr Rang war sieben. In der erfassten Abschlussangabe fehlte ein im PDF angehängtes berufliches Ergänzungszertifikat. Alma Heim öffnete am 8. Oktober den gesicherten Originalsatz und zeigte mir die betreffende Seite. Ich halte eine Neubewertung der Bewerbung nach vollständiger Sichtung für erforderlich. Ob sich dadurch die Rangfolge ändern würde, kann ich ohne nähere Angaben zur Berechnung nicht feststellen.\n\nDer Anbieter soll prüfen, ob die Zusatzseite verarbeitet wurde und welche Auswirkung die vollständige Angabe auf den Wert gehabt hätte. Es liegt noch keine erneute Berechnung vor. Eine hypothetische Verbesserung um einen bestimmten Punktwert wäre derzeit Spekulation. Die Tatsache, dass B07 nur einen Rang unter der Shortlist lag, ersetzt diesen Nachweis nicht. Auch eine erneute Berechnung würde die Frage offenlassen, wie die Personalabteilung künftig eine eigene Sichtung organisiert.\n\n## 1.5 Fortgang\n\nDie Einladungen an B01 bis B06 bleiben bestehen. Für B07 wurde vorerst keine Absage vorbereitet. Reuß wird die Originalunterlagen sämtlicher 24 Personen sichern und bis zum 12. Oktober eine Sichtung nach dem bisherigen fachlichen Anforderungsprofil veranlassen. Es ist noch offen, wer neben Reuß Zeit für eine zweite Prüfung erhält. Die Geschäftsführung hat die neue Ranglistenverwendung bis zur rechtlichen und technischen Klärung gesperrt. Dieses Protokoll dokumentiert den Ablauf und enthält keine rechtliche Freigabe."
+    },
+    {
+      "file": "04_Anbieterantwort.docx",
+      "pdf": "10_Anbieterantwort.pdf",
+      "title": "1 Antwort auf Ihre Fragen zur Auswahlunterstützung",
+      "organisation": "Konturwerk Software GmbH · Speicherstraße 8 · 97082 Würzburg",
+      "author": "Levin Hartung, Kundenbetreuung\nAn Mainblick Präzisionstechnik GmbH · 7. Oktober 2026",
+      "reference": "KW / Ticket 7716",
+      "body": "Sehr geehrte Frau Heim, sehr geehrter Herr Schell,\n\nwir antworten auf Ihre Fragen vom 5. Oktober zur Verwendung von MainSort Recruit B 2.2. Aus unserer Sicht handelt es sich um eine Fortentwicklung der bereits ausgelieferten Dokumentenassistenz. Der Dienst verarbeitet Bewerbungsunterlagen für das von Ihnen vorgegebene Anforderungsprofil. Die Entscheidung über Einladungen bleibt nach der Leistungsbeschreibung stets bei Ihrem Personalteam. Wir sehen deshalb gegenwärtig keinen Anlass, für Ihre Installation einen anderen rechtlichen Status anzusetzen als für A 1.6.\n\n## 1.1 Unser Verständnis der vorbereitenden Funktion\n\nWir stützen unsere Einordnung auf Artikel 6 Absatz 3 der KI-Verordnung. MainSort organisiert eine vorbereitende Aufgabe und verbessert eine zuvor durch Menschen ausgeführte Tätigkeit. Kein Arbeitsvertrag kommt durch einen Systemaufruf zustande. Das Produkt kann auch keine Einstellung selbst erklären. Da jeder Nutzer alle Bewerbungen öffnen und die Auswahl ändern kann, liegt nach unserer Auffassung eine hinreichende menschliche Entscheidung vor. Der Bestätigungsknopf dokumentiert diese Entscheidung.\n\nDie zusätzlichen Punkte in B dienen einer bequemeren Arbeitsreihenfolge. Wir nennen sie intern „Fit-Orientierung“. Die Verwendung eines Zahlenwerts macht die Anwendung aus unserer Sicht nicht zu einem eigenständigen Entscheidungsträger. Ob und wie viele Personen eingeladen werden, bestimmt Mainblick. Die Unterlagen, auf die Sie sich beim Einsatz gestützt haben, waren die Funktionsbeschreibung und die Einweisung vom 22. September. Eine gesondert unterzeichnete Bewertung der Ausnahme wurde Ihnen nicht übermittelt. Wir reichen auf Wunsch eine Zusammenfassung unserer Position nach.\n\n## 1.2 Modell, Produkt und Verantwortungsbereiche\n\nOrionText 5.1 ist eine zugekaufte technische Grundlage. Satzlicht Labs stellt das Modell bereit; Konturwerk stellt den auf Bewerbungsvorgänge zugeschnittenen Dienst zusammen. Wir haben die Merkmalsaufbereitung, den Bewertungsdienst und die Anzeige der Rangplätze entwickelt. Die Standardansicht ist auf sechs Datensätze gesetzt. Sie können diese Zahl in den Einstellungen ändern. Mainblick ist für das Stellenprofil, die hochgeladenen Dokumente und die Verwendung der Ergebnisse zuständig. Die bloße Gleichheit der Modellkennung sagt nach unserem technischen Verständnis nicht aus, dass beide Produktfassungen dieselbe Funktion haben.\n\n[SEITENWECHSEL]\n\n## 1.3 Informationen zur konkreten Platzierung\n\nFür B07 sind 72 Punkte und Rang sieben gespeichert. Die im Export bezeichneten Merkmalsfelder sind Berufserfahrung, Fachbezug, zeitliche Kontinuität und Abschlussübertragbarkeit. Die Gewichtung, die genaue Verknüpfung und die eingesetzten Systemanweisungen behandeln wir vollständig als Geschäftsgeheimnis. Aus diesem Grund können wir Ihnen weder eine auf den Einzelfall bezogene Erläuterung noch eine Vergleichsberechnung mit geänderten Angaben liefern. Die Mitteilung des Punktwerts und des Platzes sollte für eine Antwort an die Bewerberin ausreichen.\n\nWir bitten darum, keine weitergehenden Offenlegungszusagen zu machen. Auch eine Weitergabe an Ihre externe Beratung würde aus unserer Sicht zuerst eine zusätzliche Vereinbarung erfordern. Ob eine zuständige Stelle eine geschützte Einsicht erhalten könnte, haben wir in diesem Ticket bislang nicht geprüft. Unsere Ablehnung bezieht sich pauschal auf die interne Berechnung; einzelne Informationsbestandteile haben wir nicht gesondert bewertet. Eine von Ihnen formulierte, auf konkrete verständliche Angaben beschränkte Anfrage können wir an unsere Produktleitung weiterleiten.\n\n## 1.4 Kalibrierung und Unterlagenverarbeitung\n\nVor der Freischaltung verwendeten wir 120 Bewerbungsfälle zur Kalibrierung des Bewertungsdienstes. Sechs Fälle betrafen einen beruflichen Abschluss außerhalb Deutschlands. Die Stichprobe bestand aus älteren, für diesen Zweck bereitgestellten Unterlagen unterschiedlicher Kunden. Eine Aufteilung nach den jeweils betroffenen Ländern oder Berufsbildern haben wir Ihnen nicht zugesandt. Diese 120 Fälle sind nicht das gesamte Trainingsmaterial von OrionText 5.1. Über das vollständige Training dieses Modells machen wir in diesem Schreiben keine Aussage.\n\nVon dem durch B07 erwähnten ergänzenden Zertifikat haben wir heute telefonisch erfahren. Bitte nennen Sie die genaue Seitenposition und die damalige Uploadkennung. Wir werden feststellen, ob diese Seite in den Eingabetext aufgenommen wurde. Eine Frist für das Ergebnis können wir noch nicht zusagen. Die Möglichkeit, Anlagen vollständig auszulesen, ist im Produkt vorhanden; aus der allgemeinen Funktionsbeschreibung folgt nicht der Schalterstand Ihrer Septemberkonfiguration. Eine erneute Berechnung haben wir noch nicht durchgeführt.\n\n## 1.5 Weiteres Vorgehen\n\nWir schlagen einen Termin am 12. Oktober vor. Bitte senden Sie uns eine gebündelte Liste der benötigten Unterlagen und benennen Sie, ob die einzelnen Informationen für Ihre interne Bewertung oder für die Antwort an B07 vorgesehen sind. Bis dahin können Sie A 1.6 nach unserer Einschätzung weiterhin zur Erfassung nutzen. Diese Einschätzung beruht auf der von uns beschriebenen Funktion; Ihre tatsächlichen Auswahlabläufe haben wir nicht vor Ort untersucht.\n\nMit freundlichen Grüßen\nLevin Hartung\nKundenbetreuung · levin.hartung@konturwerk.example"
+    },
+    {
+      "file": "05_Daten_und_Kontrollnotiz.docx",
+      "pdf": "11_Daten_und_Kontrollnotiz.pdf",
+      "title": "1 Datenstand, Kontrollzahlen und neue Unterlage",
+      "organisation": "Mainblick Präzisionstechnik GmbH · Datenschutzkoordination",
+      "author": "Alma Heim und Noah Schell\nNachtrag vom 9. Oktober 2026, 07:45 Uhr",
+      "reference": "MB / Export 0910-0745",
+      "body": "## 1.1 Herkunft und Umfang des Exports\n\nDie Arbeitsmappe 19_Auswertung.xlsx bildet 24 Datensätze des Pools „Auftragsbearbeitung Herbst“ ab. Grundlage ist der schreibgeschützt gesicherte Export vom 9. Oktober um 07:15 Uhr. Die Spalten für Rang, Punktwert, Shortlist und Öffnung vor Bestätigung geben den am 29. September maßgeblichen Zustand wieder. Die Kontrollzahl des Exportdialogs beträgt 24. Die Bearbeiter haben alle 24 internen Kennungen auf Eindeutigkeit und fortlaufende Ränge kontrolliert. Es wurden keine Bewerbungen aus anderen Pools ergänzt.\n\nDie Datei enthält drei Blätter. „Auswertung“ erklärt Zählwerte, Quoten und deren Grenzen. „Export“ enthält die 24 Einzelzeilen und die dokumentierten Statusfelder. „Kontrollen“ vergleicht Summen mit den überlieferten Kontrollzahlen und zählt unzulässige oder fehlende Werte. Blau gekennzeichnete Zahlen sind Eingaben; schwarze Werte sind Formeln. Änderungen im Arbeitsblatt sind eigene Arbeitsvarianten und verändern die gesicherten Originaldaten nicht. Die von MainSort gelieferten Punktwerte werden nur angezeigt, nicht aus Merkmalen nachgebildet.\n\n## 1.2 Gruppenzuordnung und Vergleichsbasis\n\nSechs der 24 Personen haben nach ihren Unterlagen einen beruflichen Abschluss außerhalb Deutschlands. Dies sind B07, B10, B13, B16, B19 und B22. Die Zuordnung bezieht sich ausschließlich auf den Ort des Abschlusses. Sie ist keine Aussage über Staatsangehörigkeit, ethnische Herkunft, Muttersprache oder Aufenthaltsstatus. Die übrigen 18 Fälle wurden nach den eingereichten Unterlagen als Abschluss in Deutschland zugeordnet. Fehlende Herkunftsangaben wurden in diesem Export nicht festgestellt; die Inhalte selbst sind nicht vollständig nachgeprüft.\n\nKonturwerk nennt für seine Kalibrierungsstichprobe sechs einschlägige Fälle unter insgesamt 120 Fällen. Das entspricht einer anderen Zusammensetzung als der aktuelle Pool. Der Vergleich beschreibt zunächst nur zwei Anteile. Er beweist weder, dass alle relevanten Untergruppen angemessen vertreten sind, noch dass eine bestimmte Person wegen der Zuordnung schlechter behandelt wurde. Die sechs Fälle können verschiedene Abschlüsse und Berufsbilder betreffen. Einzelheiten, Auswahlregeln und Fehlerquoten aus der Kalibrierung liegen uns nicht vor.\n\n[SEITENWECHSEL]\n\n## 1.3 Auswahl und tatsächliche Sichtung\n\nAlle sechs eingeladenen Personen sind in der Tabelle der Gruppe „DE“ zugeordnet. Keine der sechs Personen mit Abschluss außerhalb Deutschlands wurde in die erste Gesprächsrunde übernommen. Der Wert beschreibt diese konkrete Runde mit 24 Bewerbungen und darf nicht als allgemeine Fehler- oder Diskriminierungsquote bezeichnet werden. Die unterschiedliche Zahl der eingeladenen Personen ist ein Anlass, die Merkmalsverarbeitung und die fachlichen Anforderungen genauer anzusehen. Sie erklärt den Unterschied nicht von selbst.\n\nFür acht Kennungen besteht vor der Bestätigung ein Öffnungsereignis in MainSort: B01 bis B06 sowie B09 und B12. Bei sechzehn Kennungen fehlt ein solches Ereignis. Die Tabelle zählt jede Kennung höchstens einmal; sie zählt weder Klicks noch gelesene Seiten. Ein Ereignis belegt keine gründliche Sichtung. Umgekehrt schließt ein fehlendes Ereignis eine Einsicht außerhalb der Anwendung nicht aus. Reuß hat allerdings erklärt, die nicht eingeladenen Bewerbungen damals nicht systematisch anhand der Originale verglichen zu haben.\n\n## 1.4 Neuer Befund zu B07\n\nAm 8. Oktober um 14:10 Uhr öffnete Alma Heim den Originalsatz von Mira Yılmaz im gesicherten Ordner. Auf Seite 11 des PDFs „B07_Unterlagen“ befindet sich ein Zusatzzeugnis über technische Auftragsbearbeitung mit dokumentierter Schulung zu Zeichnungsständen und Änderungsaufträgen. In der strukturierten Ansicht stand nur der frühere berufliche Grundabschluss. Die Zeile „Ergänzende Qualifikation“ war leer. Das Original war seit dem Upload am 12. September unverändert vorhanden. Ein Vergleich der gespeicherten Prüfsummen ergab keine nachträgliche Ergänzung der Datei.\n\nSchell hat die Seite dem Anbieter am 8. Oktober im geschützten Ticketsystem benannt. Eine technische Rückmeldung steht aus. Ob die Seite nicht ausgelesen, falsch zugeordnet oder zwar gelesen, aber für die Bewertung nicht verwendet wurde, ist ungeklärt. Ebenso offen ist, ob die vollständige Verarbeitung den Punktwert oder die Reihenfolge verändert hätte. In der Tabelle ist B07 deshalb als dokumentierter Zusatzbefund markiert; ein korrigierter Punktwert ist nicht eingetragen.\n\n## 1.5 Grenzen und nächste Datensicherung\n\nDie Datei enthält keine Einschätzung der Persönlichkeiten und keine selbst berechnete Erfolgsprognose. Es gibt keine vollständige demografische Erhebung und keine Daten zu späterer Arbeitsleistung. Die Kontrollzahlen sichern die innere Nachvollziehbarkeit dieses Exports, nicht die inhaltliche Richtigkeit der Anbieterbewertung. Vor einer weiteren Verwendung sollen die ungekürzten Protokolle, der tatsächliche Schalterstand zur Anlageverarbeitung und die ursprünglichen Modellantworten gesichert werden. Ob und in welchem Umfang diese Unterlagen noch vorhanden sind, ist beim Anbieter zu erfragen."
+    },
+    {
+      "file": "06_Entwurf_Antwort_Yilmaz.docx",
+      "pdf": "12_Entwurf_Antwort_Yilmaz.pdf",
+      "title": "1 Entwurf der Antwort an Mira Yılmaz",
+      "organisation": "Mainblick Präzisionstechnik GmbH · Personalabteilung",
+      "author": "Entwurf von Alma Heim · 9. Oktober 2026\nBearbeitungsstand für die Geschäftsführung; nicht versendet",
+      "reference": "MB / Auskunft B07",
+      "body": "Frau Mira Yılmaz\nÜber die hinterlegte Kontaktadresse mira.yilmaz@bewerbung.example\n\nBetreff: Ihre Anfrage vom 2. Oktober 2026 zu Ihrer Bewerbung\n\nSehr geehrte Frau Yılmaz,\n\nvielen Dank für Ihre Nachricht. Sie möchten nachvollziehen, wie die Rangfolge im Bewerbungsverfahren entstanden ist, welche Angaben dafür verwendet wurden und weshalb Sie bislang keine Einladung erhalten haben. Wir haben Ihre Anfrage aufgenommen und prüfen den Ablauf gemeinsam mit unserer Personalabteilung und dem Anbieter der eingesetzten Anwendung. Die folgenden Abschnitte geben unseren derzeit vorbereiteten Antwortstand wieder. Vor Versand müssen die gekennzeichneten offenen Angaben geklärt oder für Sie verständlich eingegrenzt werden.\n\n## 1.1 Eingesetzte Anwendung und Ablauf\n\nFür die Zusammenstellung und Auswertung der Bewerbungen haben wir MainSort Recruit B 2.2 von Konturwerk Software GmbH verwendet. Die Anwendung las Unterlagen aus und erzeugte für das hinterlegte Stellenprofil einen Punktwert sowie einen Rang. In Ihrem Datensatz waren 72 Punkte und Rang sieben gespeichert. Die Standardansicht zeigte der Personalabteilung zunächst die sechs obersten Einträge. Diese sechs Personen wurden am 29. September zur ersten Gesprächsrunde eingeladen. Ihre Bewerbung erhielt im Portal den Status „derzeit nicht in Auswahl“.\n\nDie Personalabteilung bestätigte die vorgeschlagene Auswahl in der Anwendung. Vorläufiger Satz aus der ersten Fassung: „Alle Bewerbungen wurden zuvor von uns vollständig und unabhängig geprüft.“ Dieser Satz ist vor Versand anhand des Auswahlprotokolls zu überprüfen. Das Protokoll enthält keine vollständige Einzelprüfung aller Bewerbungen. In den verfügbaren Anwendungsdaten ist für Ihre Bewerbung vor der Bestätigung kein Öffnungsereignis des Originals enthalten. Eine über die Protokolle hinausgehende tatsächliche Prüfung darf erst beschrieben werden, wenn wir sie belegen können.\n\n## 1.2 Verwendete Informationen\n\nDer Anbieter bezeichnet Berufserfahrung, Fachbezug, zeitliche Kontinuität und Abschlussübertragbarkeit als verarbeitete Merkmalsfelder. In Ihrer strukturierten Ansicht war Ihr beruflicher Grundabschluss erfasst. Ein in den Originalunterlagen enthaltenes Ergänzungszertifikat wurde dort nicht angezeigt. Wir haben diesen Unterschied am 8. Oktober festgestellt und den Anbieter um Aufklärung gebeten. Sie müssen das bereits eingereichte Zertifikat für diese Prüfung nicht erneut einreichen.\n\n[SEITENWECHSEL]\n\n## 1.3 Noch auszuarbeitende Erläuterung\n\nIn diesen Abschnitt gehören die konkret für Ihre Bewerbung verwendeten Angaben und eine verständliche Darstellung ihres Einflusses auf das Ergebnis. Der Entwurf kann derzeit nicht erklären, wie sich die einzelnen Angaben auf die 72 Punkte ausgewirkt haben. Der Anbieter hat eine näher auf Ihren Fall bezogene Erläuterung bislang pauschal mit Geschäftsgeheimnissen abgelehnt. Vorläufiger Satz aus der ersten Fassung: „Daher können wir Ihnen außer Punktwert und Rang keine weiteren Informationen geben.“ Auch dieser Satz ist vor Versand zu überprüfen und gegebenenfalls durch eine begründete und vollständige Auskunft zu ersetzen.\n\nDie bloße Aufzählung der vier Merkmalsfelder beantwortet noch nicht, welchen Einfluss diese Angaben im konkreten Fall hatten. Die Produktunterlagen enthalten keine für uns verständliche Erklärung der Verknüpfung. Wir haben insbesondere noch keine Auskunft dazu, ob und wie das fehlende Ergänzungszertifikat den Wert beeinflusst hat. Eine Behauptung, dass eine richtige Erfassung sicher zum gleichen oder zu einem besseren Rang geführt hätte, lässt sich aus unserer Akte nicht ableiten. Dieser Abschnitt muss nach Eingang der Anbieterantwort in derselben Fassung fortgeschrieben werden.\n\n## 1.4 Folgen und erneute Sichtung\n\nDer Portalstatus ist keine Mitteilung über einen bereits abgeschlossenen Arbeitsvertrag mit anderen Personen. Es liegt bislang auch keine an Sie versandte endgültige Absage vor. Die erste Auswahl führte jedoch dazu, dass Sie zu den sechs zunächst angebotenen Gesprächsterminen nicht eingeladen wurden. Die Personalabteilung wird Ihre vollständigen Unterlagen erneut anhand des fachlichen Stellenprofils sichten. Einladungen an andere Personen werden dadurch nicht automatisch zurückgenommen. Ein Ergebnis dieser erneuten Sichtung liegt zum Zeitpunkt dieses Entwurfs noch nicht vor.\n\nBitte ergänzen Sie vor Versand, wer die erneute Sichtung durchführen wird, wann ein belastbares Ergebnis vorliegt und wie Frau Yılmaz dieses erhält. Die Geschäftsführung hat den 13. Oktober als internen Abstimmungstermin bestimmt. Dieser Termin ist keine gegenüber der Bewerberin bereits erklärte Frist. Ein neuer Punktwert oder eine Zusage zur Einladung darf nicht eingefügt werden, solange die verantwortliche Stelle keine entsprechende Entscheidung getroffen hat.\n\n## 1.5 Kontakt und Abschluss\n\nFür Rückfragen steht Ihnen Alma Heim unter alma.heim@mainblick.example zur Verfügung. Wir werden die Korrektur beziehungsweise Ergänzung der Daten und die weitere Bearbeitung Ihrer Bewerbung dokumentieren. Angaben zu weiteren Rechten und zuständigen Kontaktstellen sind vor Versand auf Vollständigkeit zu prüfen. Dieser Entwurf enthält bislang noch keinen abschließend freigegebenen Auskunftsumfang und keine verbindliche Antwort auf sämtliche Teile Ihrer Anfrage.\n\nMit freundlichen Grüßen\nAlma Heim\nDatenschutzkoordination der Mainblick Präzisionstechnik GmbH"
+    }
+  ],
+  "emails": [
+    {
+      "file": "13_Pruefauftrag.eml",
+      "from": "Kunigunde Seufert <kunigunde.seufert@mainblick.example>",
+      "to": "Rechtsberatung <beratung@kanzlei-mainbogen.example>",
+      "subject": "Mainblick: Prüfauftrag und gewünschte Arbeitsprodukte",
+      "date": "2026-10-09T08:25:00+02:00",
+      "body": "Guten Morgen,\n\nanbei erhalten Sie den Auftrag. Bitte trennen Sie die beiden Systemfassungen und berücksichtigen Sie den tatsächlichen Ablauf, nicht nur die Anbieterbeschreibung. Wir benötigen ein ausformuliertes Memo, ein Anbieteranschreiben und eine überarbeitete Antwort an Mira Yılmaz. Den ergänzenden Export erhalten Sie mit einer gesonderten Nachricht von Alma Heim. Bitte arbeiten Sie den Nachtrag in dieselben Fassungen ein.\n\nWir wollen vor dem nächsten Pool am 15. Oktober entscheiden. Unsere interne Abstimmung soll am 13. Oktober stattfinden. Bitte klären Sie selbst, welche externen Fristen zu beachten sind. Nichts versenden.\n\nFreundliche Grüße\nKunigunde Seufert",
+      "attachments": [
+        "01_Auftrag.docx",
+        "07_Auftrag.pdf"
+      ]
+    },
+    {
+      "file": "14_Techniknachricht.eml",
+      "from": "Noah Schell <noah.schell@mainblick.example>",
+      "to": "Rechtsberatung <beratung@kanzlei-mainbogen.example>",
+      "subject": "Versionen und Modellkennung: technische Notiz",
+      "date": "2026-10-09T08:33:00+02:00",
+      "body": "Guten Morgen,\n\nich habe die technische Notiz um die aktuelle Sperre ergänzt. A 1.6 und B 2.2 verwenden dieselbe Modellkennung. Daraus sollte bitte nicht geschlossen werden, dass die Anwendung dieselbe Funktion hat. Die Bewertung und die Ranglistenansicht wurden erst mit B zugeschaltet. Konturwerk setzt die Systemkomponenten zusammen; Satzlicht stellt das eingebundene Modell bereit.\n\nDen Stand des Schalters zur vollständigen Anlagenverarbeitung im September kann ich nicht aus den uns übergebenen Screenshots belegen. Die 24 Originaldateisätze und der Export sind gesichert. Angaben zum genauen Inhalt der früheren Modellaufrufe müssen wir beim Anbieter nachfordern.\n\nViele Grüße\nNoah Schell",
+      "attachments": [
+        "02_Technische_Systemnotiz.docx",
+        "08_Technische_Systemnotiz.pdf"
+      ]
+    },
+    {
+      "file": "15_Protokollnachtrag.eml",
+      "from": "Friedemann Reuß <friedemann.reuss@mainblick.example>",
+      "to": "Alma Heim <alma.heim@mainblick.example>",
+      "subject": "Auswahlrunde: Ergänzung zur tatsächlichen Sichtung",
+      "date": "2026-10-08T16:20:00+02:00",
+      "body": "Liebe Alma,\n\nhier ist das ergänzte Protokoll. Ich möchte die erste Formulierung „menschlich geprüft“ genauer fassen. Wir haben die sechs angezeigten Personen besprochen und bestätigt. Wir haben nicht alle übrigen Bewerbungen systematisch mit diesen sechs verglichen. B09 und B12 hatte ich wegen anderer Rückfragen geöffnet; das waren keine vollständigen Eignungsprüfungen.\n\nDas Zusatzzeugnis von Frau Yılmaz war mir vor dem 29. September nicht bekannt. Wir sollten nicht behaupten, dass es sicher ohne Auswirkung geblieben wäre. Eine Korrektur des Werts liegt uns nicht vor. Ich organisiere jetzt die vollständige Sichtung und melde zurück, wer eine zweite Prüfung übernehmen kann.\n\nViele Grüße\nFriedemann",
+      "attachments": [
+        "03_Auswahlprotokoll.docx",
+        "09_Auswahlprotokoll.pdf"
+      ]
+    },
+    {
+      "file": "16_Anbieter_ticket7716.eml",
+      "from": "Levin Hartung <levin.hartung@konturwerk.example>",
+      "to": "Alma Heim <alma.heim@mainblick.example>",
+      "subject": "Ticket 7716 – Unsere Einordnung und Informationsgrenzen",
+      "date": "2026-10-07T15:40:00+02:00",
+      "body": "Sehr geehrte Frau Heim,\n\nanbei erhalten Sie unsere Antwort. Wir sehen die Rangfolge als vorbereitende Unterstützung. Für die Ausnahme führen wir insbesondere die Änderungsmöglichkeit und den Bestätigungsschritt an. Eine separat unterzeichnete Ausnahmebewertung haben wir Ihrem Unternehmen bislang nicht übermittelt.\n\nDie Einzelheiten der Berechnung behandeln wir derzeit insgesamt als Geschäftsgeheimnis. Wenn Sie einzelne Informationsbestandteile mit ihrem Verwendungszweck benennen, können wir die Anfrage der Produktleitung vorlegen. Für den angesprochenen Zusatznachweis benötigen wir die Seitenposition und Uploadkennung; der technische Befund steht noch aus.\n\nMit freundlichen Grüßen\nLevin Hartung",
+      "attachments": [
+        "04_Anbieterantwort.docx",
+        "10_Anbieterantwort.pdf"
+      ]
+    },
+    {
+      "file": "17_Datennachtrag.eml",
+      "from": "Alma Heim <alma.heim@mainblick.example>",
+      "to": "Rechtsberatung <beratung@kanzlei-mainbogen.example>",
+      "subject": "Nachtrag: Export, Kontrollnotiz und fehlendes Zertifikat B07",
+      "date": "2026-10-09T09:05:00+02:00",
+      "body": "Guten Morgen,\n\ndies ist der angekündigte Nachtrag. Bitte ersetzen Sie keine Daten stillschweigend: Die Punkte sind die unveränderten Anbieterwerte. Die Arbeitsmappe zählt nur den gesicherten Stand. Es gibt 24 Datensätze, sechs Einladungen und acht dokumentierte Originalöffnungen in der Anwendung vor Bestätigung. Die Kalibrierung des Anbieters umfasst 120 Fälle, davon sechs mit Abschluss außerhalb Deutschlands; das ist keine Aussage über das Gesamttraining von OrionText.\n\nFrau Yılmaz hat das Zusatzzeugnis mit dem ursprünglichen PDF eingereicht. Wir haben es am 8. Oktober auf Seite 11 gefunden. Die strukturierten Felder enthielten es nicht. Ich habe keine Berechnungsgewichte und kann keine Punkte korrigieren. Bitte schreiben Sie die bereits angelegten Arbeitsprodukte anhand dieses Befunds fort.\n\nViele Grüße\nAlma Heim",
+      "attachments": [
+        "05_Daten_und_Kontrollnotiz.docx",
+        "11_Daten_und_Kontrollnotiz.pdf",
+        "19_Auswertung.xlsx"
+      ]
+    },
+    {
+      "file": "18_Anfrage_und_Entwurf.eml",
+      "from": "Alma Heim <alma.heim@mainblick.example>",
+      "to": "Rechtsberatung <beratung@kanzlei-mainbogen.example>",
+      "subject": "Anfrage B07 vom 2. Oktober und aktueller Antwortentwurf",
+      "date": "2026-10-09T09:12:00+02:00",
+      "body": "Guten Morgen,\n\nanbei der ausformulierte Entwurf. Die zwei ausdrücklich als vorläufig bezeichneten Sätze stammen aus der ersten Fassung und sind noch nicht freigegeben. Bitte prüfen und ersetzen Sie sie im Zusammenhang. Eine bloße Liste von Lücken genügt für die Antwort nicht.\n\nDie ursprüngliche Anfrage ging am 2. Oktober 2026 um 10:14 Uhr von mira.yilmaz@bewerbung.example ein und lautete:\n„Guten Tag Frau Heim, seit Dienstag zeigt mein Portal, dass ich derzeit nicht in Auswahl bin. Ich möchte wissen, ob ein Computer meine Unterlagen bewertet hat, welche meiner Angaben dafür verwendet wurden und warum ich kein Gespräch angeboten bekomme. Mein ergänzendes Zertifikat betrifft genau die Aufgaben aus Ihrer Ausschreibung. Bitte erläutern Sie mir die Bewertung und teilen Sie mir mit, welche Daten über mich gespeichert sind. Ich möchte, dass meine vollständigen Unterlagen von einer zuständigen Person geprüft werden. Freundliche Grüße, Mira Yılmaz.“\n\nAm 2. Oktober um 12:30 Uhr habe ich lediglich den Eingang bestätigt. Eine inhaltliche Antwort wurde noch nicht verschickt.\n\nViele Grüße\nAlma Heim",
+      "attachments": [
+        "06_Entwurf_Antwort_Yilmaz.docx",
+        "12_Entwurf_Antwort_Yilmaz.pdf"
+      ]
+    }
+  ],
+  "workbook": "19_Auswertung.xlsx",
+  "chatfile": "20_Projektchat.txt",
+  "chat": "Mainblick · Projektkanal „Recruit Herbst“\nExportstand: 09.10.2026, 09:20 Uhr. Zeiten: Europe/Berlin.\nTeilnehmer: Friedemann Reuß, Selma Röder, Noah Schell, Alma Heim und Kunigunde Seufert.\n\n24.09.2026 08:42 | Noah Schell\nB 2.2 ist seit gestern aktiv. Die Modellkennung ist unverändert OrionText 5.1, aber jetzt stehen Punkte und Rangplätze in der Übersicht. Oben sieht man sechs Einträge. Über „Alle anzeigen“ kommt man an den Rest.\n\n24.09.2026 08:49 | Friedemann Reuß\nGut, wir haben ohnehin nur sechs Gesprächsfenster. Bitte lasst die Voreinstellung zunächst so. Wir kommen sonst mit der Messevorbereitung nicht durch.\n\n24.09.2026 09:02 | Selma Röder\nIch kann am Dienstag die oben angezeigten Bewerbungen mit euch durchgehen. Alle 24 Originale schaffe ich bis dahin nicht.\n\n29.09.2026 09:25 | Friedemann Reuß\nShortlist unverändert bestätigt; die sechs Einladungen sind raus. Die anderen bleiben vorerst ohne Gespräch. Bitte keine endgültigen Absagen senden.\n\n02.10.2026 10:31 | Alma Heim\nFrau Yılmaz fragt nach Bewertung, Daten und persönlicher Sichtung. Sie verweist auf ihr Zusatzzeugnis. Ich bestätige heute nur den Eingang und sammle die Unterlagen.\n\n05.10.2026 11:08 | Noah Schell\nIm aktuellen Export steht B07 auf Rang sieben mit 72 Punkten. Die Zusatzqualifikation sehe ich im Feld nicht. Ich kann nicht sagen, ob die Seite im Modellaufruf enthalten war.\n\n07.10.2026 16:05 | Alma Heim\nDer Anbieter beruft sich auf vorbereitende Tätigkeit und Geschäftsgeheimnisse. Die Antwort ist im Ticket 7716. Er nennt keine genaue Gewichtung. Bitte im Entwurf noch nicht schreiben, dass damit alles beantwortet ist.\n\n08.10.2026 14:16 | Alma Heim\nIm gesicherten Original B07 ist das Ergänzungszertifikat auf Seite 11. Es war schon im ursprünglichen Upload. Ich habe die Seite gerade außerhalb von MainSort geöffnet. Das wird im dortigen Öffnungsprotokoll also nicht auftauchen.\n\n08.10.2026 14:30 | Friedemann Reuß\nDann war unsere Kurzansicht unvollständig. Ich kann nicht sagen, welchen Rang sie bei vollständigen Angaben hätte. Wir müssen die Originale jetzt selbst durchsehen.\n\n08.10.2026 15:52 | Kunigunde Seufert\nBitte sichert die Unterlagen. Neue Ranglistenverwendung wird gesperrt. Die Rechtsberatung soll beide Fassungen und unseren tatsächlichen Ablauf prüfen. Die alten Unterlagen bitte nicht mit neuen Werten überschreiben.\n\n08.10.2026 16:02 | Noah Schell\nRanglistenfunktion für neue Verfahren gesperrt, bestehender Pool nur lesbar. A kann technisch separat betrieben werden. Eine rechtliche Freigabe ist das nicht.\n\n09.10.2026 07:48 | Alma Heim\nExport und Kontrollnotiz sind fertig: 24 Bewerbungen, sechs in der Shortlist, acht Originalöffnungen vor Bestätigung. Im aktuellen Pool sind sechs Abschlüsse außerhalb Deutschlands enthalten, in der Anbieter-Kalibrierung sechs von 120. Wir kennen keine Aufschlüsselung und keine vollständigen Trainingsdaten.\n\n09.10.2026 09:16 | Kunigunde Seufert\nDer Nachtrag geht an die Beratung. Bitte Memo und Antwort als dieselbe Arbeitsfassung fortschreiben. Wir brauchen bis zur internen Abstimmung am 13. Oktober eine klare Entscheidungsvorlage und konkrete Nachforderungen, keine neuen Vermutungen über das Zertifikat.\n",
+  "rows": [
+    [
+      "B01",
+      1,
+      94,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B02",
+      2,
+      90,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B03",
+      3,
+      88,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B04",
+      4,
+      86,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B05",
+      5,
+      83,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B06",
+      6,
+      81,
+      "DE",
+      1,
+      1,
+      0
+    ],
+    [
+      "B07",
+      7,
+      72,
+      "Ausland",
+      0,
+      0,
+      1
+    ],
+    [
+      "B08",
+      8,
+      71,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B09",
+      9,
+      69,
+      "DE",
+      0,
+      1,
+      0
+    ],
+    [
+      "B10",
+      10,
+      66,
+      "Ausland",
+      0,
+      0,
+      0
+    ],
+    [
+      "B11",
+      11,
+      64,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B12",
+      12,
+      61,
+      "DE",
+      0,
+      1,
+      0
+    ],
+    [
+      "B13",
+      13,
+      59,
+      "Ausland",
+      0,
+      0,
+      0
+    ],
+    [
+      "B14",
+      14,
+      58,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B15",
+      15,
+      56,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B16",
+      16,
+      54,
+      "Ausland",
+      0,
+      0,
+      0
+    ],
+    [
+      "B17",
+      17,
+      52,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B18",
+      18,
+      50,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B19",
+      19,
+      48,
+      "Ausland",
+      0,
+      0,
+      0
+    ],
+    [
+      "B20",
+      20,
+      47,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B21",
+      21,
+      45,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B22",
+      22,
+      43,
+      "Ausland",
+      0,
+      0,
+      0
+    ],
+    [
+      "B23",
+      23,
+      41,
+      "DE",
+      0,
+      0,
+      0
+    ],
+    [
+      "B24",
+      24,
+      38,
+      "DE",
+      0,
+      0,
+      0
+    ]
+  ],
+  "controls": {
+    "export_total": 24,
+    "shortlist": 6,
+    "opened": 8,
+    "calibration_total": 120,
+    "calibration_abroad": 6
+  }
+}

@@ -25,6 +25,12 @@ Fragen Sie gezielt nach der fehlenden Tatsache, die den Datensatz blockiert: etw
 
 Vor einer Portalübermittlung zeigen Sie den tatsächlich zu übermittelnden Datensatz, Anhänge, Sichtbarkeit und Empfänger. Eine namentliche Freigabe gilt für diese Fassung. Nach einer autorisierten Übermittlung sichern Sie Eingangsbeleg und Kennung und gleichen den gespeicherten Datensatz gegen die freigegebene Fassung ab. Ein Timeout ist ein ungeklärter Ausgang, kein Anlass zur sofortigen zweiten Registrierung.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Prüfen Sie die Bescheinigungsfelder nach Anhang VIII Abschnitt A Nummern 8 und 9 gegen das richtige Dokument. Ein ISO/IEC-42001-Managementzertifikat wird dort nicht als Artikel-44-Bescheinigung eingetragen. Auch ISO/IEC 42006:2025 belegt keine Notifizierung. Bei einem System unter interner Kontrolle nach Artikel 43 Absatz 2 kann der sachgerechte Befund lauten, dass eine solche Bescheinigung nicht einschlägig ist; das ist von einem fehlenden erforderlichen Nachweis zu unterscheiden. Die EU-Konformitätserklärung nach Nummer 11 wird unabhängig davon geprüft.
+
+Der ausgefüllte Feldabgleich benennt Rechtsträger, Systemversion, ausstellende Stelle, Geltungsdauer und gesetzliche Funktion jeder Anlage. Besteht ein Widerspruch zwischen Vertriebszertifikat und Verfahrensunterlagen, erstellen Sie bereits die zutreffenden Teile und ein bestimmtes Nachforderungsschreiben. Maßstab sind die [Nachweisreferenz](../../references/nachweise-und-standards.md) und [Testanker 1](../../references/testanker.md).
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

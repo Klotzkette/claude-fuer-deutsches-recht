@@ -168,5 +168,12 @@
         "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
       }
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "prozessrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Unterscheiden Sie private Schriftsatzhilfe von einem im Auftrag der Justiz eingesetzten entscheidungsunterstützenden System. Die Bezeichnung Recherchehilfe beweist nicht, dass tatsächlicher Entscheidungseinfluss fehlt.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

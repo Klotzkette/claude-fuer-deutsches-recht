@@ -39,6 +39,12 @@ Verfassen Sie das Ergebnis entlang jedes Merkmals mit stärkstem Gegenargument. 
 
 Übergeben Sie den begründeten Teilvermerk mit Systemversion, Handlung, Stichtag und offenen Tatsachen an [Verbotene KI-Praktiken insgesamt klären](../verbotene-ki-praktiken-loesen/SKILL.md). Die Rückgabe enthält die operative Entscheidung oder eine konkret zu beantwortende Tatsachenfrage. Ein neues Dokument ohne Bezug zur führenden Fassung ist keine vollständige Übergabe.
 
+### 3.7. Drei unterschiedliche Absichtsfragen auseinanderhalten
+
+Lesen Sie die Tatbestandsalternativen genau: Absicht der manipulativen oder täuschenden Technik, Ziel oder Wirkung der wesentlichen Verhaltensänderung und eingetretener oder hinreichend wahrscheinlicher erheblicher Schaden sind getrennte Prüfungsschritte. Ein fehlendes dokumentiertes Schädigungsziel schließt Buchstabe a nicht aus; die Norm verlangt keinen zusätzlichen Schädigungsvorsatz. Ein Vertriebsziel beweist andererseits für sich weder Täuschungstechnik noch erhebliche Schadenswahrscheinlichkeit.
+
+Stellen Sie für die Prognose die beeinträchtigte Entscheidung und den konkreten Schaden in einen nachvollziehbaren Zusammenhang. Unterscheiden Sie vom System erzeugten Druck von einem unabhängigen externen Ereignis, das denselben Abschluss erklären könnte. Schädigung anderer Personen oder einer Gruppe ist nach Buchstabe a ausdrücklich möglich. Prüfen Sie deren Wirkungskette statt den Fall allein deshalb zu verneinen, weil der unmittelbar angesprochene Nutzer keinen eigenen Verlust erleidet.
+
 ## 4. Quellenpflicht
 
 Prüfen Sie die einschlägigen Merkmale an der [amtlichen konsolidierten KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) und bei Änderungen zusätzlich an den verlinkten Amtsblattakten. Der hier gelesene Stand ist 09.10.2026. Maßgeblich sind die im Amtsblatt veröffentlichten verbindlichen Fassungen; die Konsolidierung ist eine Lesehilfe. Lesen Sie die [Rechtsquellen und Grenzen](../../references/rechtsquellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Zitieren Sie die konkrete Norm und den einschlägigen Absatz am tragenden Satz. Keine Gerichtsentscheidung, Randnummer oder Literaturfundstelle aus Modellwissen; nicht geöffnete Quellen bleiben ungeprüft. Es wird keine vorhandene höchstrichterliche Artikel-5-Rechtsprechung behauptet. Ältere Leitlinien dürfen eine spätere Normänderung nicht verdrängen.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert in grammatikalisch vollständigen
 ## 6. Beispiele
 
 Frankenmut Dialog behauptet gegenüber einer Kundin, ihre Tochter habe den Abschluss ausdrücklich empfohlen; die Tochter bestreitet jeden Kontakt. Prüfen Sie Dialog, Personalisierung und Abschlussgrund statt nur den späteren Preis. Als Gegenfall erklärt ein sachlicher Vergleichsbot wahrheitsgemäß Optionen und Gesamtpreise, erlaubt Abbruch und produziert keinen belegten erheblichen Schaden. Daraus folgt ein negatives Ergebnis zu Buchstabe a für den untersuchten Sachverhalt, keine allgemeine Werbe- oder Datenschutzfreigabe.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 1](../../references/testanker.md).

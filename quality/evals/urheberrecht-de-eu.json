@@ -158,5 +158,12 @@
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "KI-, Sampling- und Plattformrecht nicht vollständig neu judikaturgeprüft."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "urheberrecht-de-eu/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie Trainingsbezug, Ausgabeinhalt und Veröffentlichung getrennt. Technische Markierung und redaktionelle Verantwortung beantworten nicht automatisch die urheberrechtliche Nutzungsbefugnis.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

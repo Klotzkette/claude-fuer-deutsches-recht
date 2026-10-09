@@ -1,5 +1,5 @@
 """Gemeinsamer Umfangsvertrag; bestehende Mindestumfänge bleiben unverändert."""
-VERSION = '445.35.0'
+VERSION = '445.35.1'
 SKILL_COUNT = 30
 PRODUCT_SKILLS = {
     'akte-chronologie-beweismittel', 'anspruch-berechnen-beziffern',

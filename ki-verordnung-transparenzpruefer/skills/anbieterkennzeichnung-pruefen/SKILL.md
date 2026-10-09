@@ -32,6 +32,12 @@ Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit best
 
 Ein ISO-Managementzertifikat oder ein Risikoregister belegt keine wirksame Kennzeichnung der konkreten Ausgabe. Fordere einen formatspezifischen Nachweis an. Nachtraining unter einem Drittel des ursprünglichen Modelltrainings befreit nicht von Artikel 50; diese Leitliniengröße betrifft eine andere, modellbezogene Rollenfrage.
 
+### 3.1. Drei verschiedene Aussagen zur Herkunft auseinanderhalten
+
+Die maschinenlesbare Kennzeichnung belegt bei geeigneter Umsetzung künstliche Erzeugung oder Manipulation. Sie bestätigt weder sachliche Wahrheit noch Rechtefreiheit oder eine lückenlose Bearbeitungsgeschichte. Der fehlende Erkennungstreffer kann aus fehlender Markierung, Exportverlust oder Grenzen des Detektors folgen; ohne den betroffenen Verarbeitungsschritt nicht sofort einen eindeutigen Normverstoß behaupten. Dokumentieren Sie Ausgangsdatei, Bearbeitung, Ausgabeformat und konkretes Prüfresultat.
+
+Für die Ausnahme nach Absatz 2 Eingabe und Ausgabe der einzelnen Funktion vergleichen. Ein Werkzeug kann bei bloßer sprachlicher Glättung anders zu beurteilen sein als beim Ergänzen erfundener Tatsachen. Die anschließende Rechtschreibprüfung beseitigt die ursprüngliche Inhaltsgenerierung nicht. Fordern Sie einen Nachweis gerade für den beanstandeten Generierungs- oder Exportschritt an. Die Vorschrift verlangt nach ihrem Wortlaut keine bestimmte proprietäre Provenienztechnik; eine vereinbarte weitergehende Herkunftsdokumentation als Vertragsleistung kenntlich machen.
+
 ## 4. Quellenpflicht
 
 [Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
@@ -47,3 +53,5 @@ Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründe
 ## 6. Beispiele
 
 Ein PDF-Export enthält keine auslesbaren Herkunftsfelder, während der Anbieter Markierung der ursprünglichen Bilddatei zusagt. Fordere den Originalexport und den vorgesehenen Detektionsweg an. Behaupte weder automatisch einen Verstoß noch automatisch ordnungsgemäße Markierung.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 2 und 3](../../references/testanker.md).

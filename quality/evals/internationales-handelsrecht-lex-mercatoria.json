@@ -140,5 +140,12 @@
     "continuation": "Neuer Prüfbericht zu einer Charge -> Umfang und Inhalt der Mängelanzeige ändern; später erklärter Rücktritt verändert die Prüfung des Deckungskaufs und die Schadensrechnung, nicht rückwirkend dessen Datum.",
     "enrichment": "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "internationales-handelsrecht-lex-mercatoria/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ordnen Sie den in der Union vorgesehenen Einsatz, die Lieferkette und die konkrete Systemverantwortung zu. Vertragliche Rechtswahl ersetzt keine Prüfung des räumlichen KI-VO-Anwendungsbereichs.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

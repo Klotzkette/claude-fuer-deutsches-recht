@@ -82,6 +82,8 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 
 Wenn eine Falle vorhanden sein könnte, vor der Antwort eine Frage stellen. Eine Frage, keine Checkliste. Wenn die Antwort auf eine echte Frage hindeutet, für Recherche markieren und weiterleiten – nicht zu einer Schlussfolgerung aus der Frage allein muster-erkennen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Bestimmen Sie Produktrechtsakt, Sicherheitsfunktion und vorgeschriebenes Bewertungsverfahren. Ein CE-Zeichen nach einem Produktrechtsakt darf nicht ohne Prüfung als vollständiger Nachweis aller KI-Systemanforderungen erscheinen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Ausgabeformat
 
 **Für Slack (der häufige Fall):**

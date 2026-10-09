@@ -127,13 +127,15 @@
     "verdict": "retained",
     "reason": "Konkrete Redaktionszweige, werkzeugabhängige Übergabe und Wiederaufnahme nach unklarem Schreibstatus sind ohne Standardfloskeln beschrieben.",
     "changes": [],
-    "sha256": "de557432290bb47bb5482973b4eda5ad02399aa9ec2d3a682c459ebde9fd17ce"
+    "sha256": "2cd5635ec2c2d02fdab0212ffae07253d4fe750c5a265f992c36938b31ffafed",
+    "reviewed_on": "2026-10-09"
   },
   "workshop_review": {
     "verdict": "retained",
     "reason": "Auftragskennung, Basisrevision, tatsächliche Inhaltsprüfung und Freigabe steuern den Weg zur Veröffentlichung oder ehrlichen Übergabe.",
     "changes": [],
-    "sha256": "55cb8ed7696c5d9131bdfd92962140b0dff0f2ab337d3518216955b242d32f4d"
+    "sha256": "422daddc9611b4a1a4e5040e52587e13b5490cf793c78222ec319697a9d0b1c5",
+    "reviewed_on": "2026-10-09"
   },
   "prompt_workflow_review": {
     "date": "2026-10-09",

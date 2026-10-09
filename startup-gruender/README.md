@@ -19,7 +19,7 @@ Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`startup-gruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/startup-gruender.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`startup-gruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/startup-gruender.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/startup-gruender.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.txt) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt) |
@@ -57,7 +57,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`startup-gruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/startup-gruender.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`startup-gruender.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/startup-gruender.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`startup-gruender-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) · [`startup-gruender-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`startup-gruender-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.md) · [`startup-gruender-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -82,7 +82,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Version:** `445.35.0`
+**Version:** `445.35.1`
 
 Von den ersten Gründerangaben zu einer vollständigen Satzung und Gesellschaftervereinbarung: **18 Skills**, ein ausführlicher Werkstatt-Prompt und ein Mini-Prompt mit **höchstens 7.500 Unicode-Zeichen einschließlich Leerzeichen und Zeilenumbrüchen**. Der Schwerpunkt liegt auf der Gründung; Seed, Serie A und Serie B werden erst bei einem konkreten Auftrag oder als klar bezeichnete Optionen bearbeitet.
 
@@ -217,3 +217,9 @@ English: Complete list of all 18 skills in this plugin. Both links in each row d
 | [`vesting-und-ausstieg-regeln`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/skills/vesting-und-ausstieg-regeln/SKILL.md) | Gestaltet und prüft Founder-Vesting, Leaver-Regeln, Einziehung und Anteilsrückübertragung bei einer UG oder GmbH. Unterscheidet echte Gründerbeteiligung von Manager-, Mitarbeiter- und virtuellen Beteiligungsmodellen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/skills/vesting-und-ausstieg-regeln/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Fachliche KI-Prüfung
+
+[Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Klären Sie vor einer Konformitätszusage die geplante Produktversion, Zweckbestimmung und Rolle der Gesellschaft. Eine Satzung oder Beteiligungsvereinbarung kann Produktprüfung und technische Nachweise nicht ersetzen.
+
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

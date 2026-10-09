@@ -25,6 +25,8 @@ Vorhandene interne KI-Richtlinie, Datenklassifikation, Vertrag/Anbieterbedingung
 8. Erstelle Quellenplan und kurze Arbeitsregel zur Kompetenzförderung. Artikel 4 KI-Verordnung in der geltenden Fassung verlangt Maßnahmen, nicht ein hier erfundenes Zertifikat oder eine Ergebnisgarantie. Haftung anhand Rolle, Vertrag und Verhalten prüfen; nicht pauschal jede Verantwortung dem Nutzer oder Anbieter zuschreiben.
 9. Fristenlisten sind Momentaufnahmen. Dieses Plugin richtet keine Hintergrundprozesse ein und überwacht keine Postfächer, Projektordner oder Termine. Externe Übertragung, Freigabeänderung und Versand nur nach konkreter Zustimmung und bei tatsächlich vorhandener Funktion.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Prüfen Sie, ob die Anwendung nur Belege ordnet oder selbst Bau-Sicherheitsfunktionen übernimmt. Belegen Sie den vorgesehenen Arbeitsablauf mit Anleitung und Angebot; eine Schulungsbescheinigung ersetzt keine Prüfung der freigegebenen Verwendung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Rechtsquellen, Abschnitt 5](../../references/rechtsquellen.md#5-daten-und-ki-kompetenz) beachten. Primärquellen und Originalbedingungen verwenden; Abrufdatum und tatsächlich gelesene Passagen nennen. Fehlende aktuelle Verifikation ausdrücklich festhalten. Eine Seminarankündigung ist keine Rechtsquelle; ihre Aussagen zur Gesetzesänderung gesondert prüfen.

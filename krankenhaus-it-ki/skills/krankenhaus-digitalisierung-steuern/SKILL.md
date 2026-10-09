@@ -29,6 +29,8 @@ Auftrag und gewünschtes Ergebnis, verfügbare Projektakte, Einrichtung und vera
 
 7. Schließen Sie mit einer verständlichen Entscheidungsvorlage ab: Was ist jetzt möglich, welche einzelne Voraussetzung fehlt für den nächsten Schritt, wer klärt sie und welcher neue Beleg ändert das Ergebnis? Benennen Sie Wiederprüfanlässe. Behaupten Sie keine vollständige Rechts- oder Medizinproduktkonformität aus einer Teilprüfung.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie administrative Dokumentation, Triage, Befundhilfe und Forschung nach ihrem konkreten Zweck. Ein konzernweites ISO-Zertifikat ersetzt weder die Produktbewertung noch eine einzelfallbezogene Datenschutz- oder Betreiberprüfung. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Geprüfte Primärquellen je Fachroute verwenden; maßgeblich sind DSGVO, Krankenhaus- und Geheimnisschutzrecht, geltendes Sicherheitsrecht sowie je Zweck KI-Verordnung, MDR und Forschungsregeln. Die Quellenreferenzen geben konkrete Anker und zeitliche Grenzen. Vor einer belastbaren rechtlichen Endfassung Normstand und tragende Entscheidung prüfen.

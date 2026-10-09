@@ -46,3 +46,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 Anwaltsgerichtliche Verfahren laufen oft parallel zu zivilrechtlichen Haftungsklagen — z. B. § 203 StGB-Strafverfahren, § 113 BRAO anwaltsgerichtliches Verfahren und § 280 BGB-Schadensersatzklage gegen Anwalt. Mandanten verbergen diese Parallelität oft, fragen Sie aktiv nach Anwaltskammer- oder Strafverfahrensstand.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

@@ -302,5 +302,12 @@
     ],
     "focus_scope": "Hauptproblem Gegenkalkulation enthält beide frisch nachgelesenen Entscheidungen bereits mit Datum, Aktenzeichen und amtlichem Direktlink. Bestehende tragende Methodenabgrenzung beibehalten; konkrete Frostverderb-Belegfrage in Werkstatt/Mini/Fokus-Skill ergänzt.",
     "new_model_tests": false
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "steuerrecht-anwalt-und-berater/references/ki-normen-und-fallpruefung.md",
+    "focus": "Trennen Sie Belegsortierung, fachliche Steuerempfehlung und eine eigenständige Personenbewertung. Eine falsche Steuerzahl ist nicht schon ein KI-VO-Vorfall; steuerliche und datenschutzrechtliche Folgen gesondert erfassen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

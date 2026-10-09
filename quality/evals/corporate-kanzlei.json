@@ -127,5 +127,12 @@
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 15 GmbHG im Anschlussabruf nicht erreichbar; bestehende Quellenprüfung unverändert. Neue Vertragszweige sind Gestaltungs- und Belegarbeit, keine neue Formrechtsprechung."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "corporate-kanzlei/references/ki-normen-und-fallpruefung.md",
+    "focus": "Verlangen Sie für ein KI-Zielunternehmen die konkrete Systemliste samt Version, Zweck, Rolle und tatsächlichen Konformitätsbelegen. Ein Zertifikat der Muttergesellschaft rechtfertigt keine Garantie für sämtliche Produkte der Tochter.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

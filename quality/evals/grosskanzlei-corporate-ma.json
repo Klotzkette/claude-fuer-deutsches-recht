@@ -131,5 +131,12 @@
     "continuation": "Spätes Datenraumdokument -> Disclosure und Garantie; neue Bankfreigabe -> CP nur in belegtem Umfang; Preisposition -> Funds Flow ändern.",
     "enrichment": "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis.",
     "limits": "desk review; no live client execution"
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "grosskanzlei-corporate-ma/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ordnen Sie Kundenlösungen, Basismodelle und Eigenentwicklungen getrennt ein. Eine Zusicherung zur KI-Konformität muss betroffene Produkte, maßgebliche Stichtage und bekannte Nachweislücken erkennen lassen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

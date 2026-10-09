@@ -25,6 +25,12 @@ Ermitteln Sie die anwendbaren Zeitpunkte anhand Artikel 113 und die Bestandsrege
 
 Das Ergebnis ist eine Verfahrensentscheidung mit konkretem nächsten Produkt: Nachweisplan nach Anhang VI, Antragspaket für die tatsächlich zuständige notifizierte Stelle oder integrierte Produktdokumentation. Benennen Sie fehlende Tatsachen genau und bearbeiten Sie die belegbaren Teile bereits vollständig.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Prüfen Sie beim biometrischen Pfad des Artikels 43 Absatz 1 die vollständige Anwendung der einschlägigen Normen beziehungsweise Spezifikationen und deren Einschränkungen. „Wir orientieren uns an ISO“ ist kein Beleg für diesen Tatbestand. Im Pfad des Absatzes 2 führt dagegen ein fehlendes freiwilliges ISO-Zertifikat nicht zur Pflicht zum Einkauf einer Drittbewertung. Für den Produktpfad und doppelte Einstufungen ist Absatz 3 in seiner aktuellen Fassung vollständig anzuwenden. Halten Sie im Verfahrensvermerk fest, welche konkrete Tatsache zwischen den Wegen entscheidet.
+
+Nutzen Sie die [Normenreferenz](../../references/technische-normen.md), um die Unterschiede zwischen Veröffentlichung, Amtsblattreferenz, tatsächlicher Anwendung und geprüfter Systemkonformität zu belegen. Ein Nachweisplan muss auch ohne Vermutung einen begründeten Weg zur Erfüllung der Anforderungen enthalten; er darf eine ungeklärte Referenzfrage nicht mit dem Ergebnis „unzulässig“ überspringen.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.

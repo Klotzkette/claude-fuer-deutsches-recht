@@ -139,5 +139,12 @@
       "insiderrecht-compliance/skills/zwischenschritte-ma/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "insiderrecht-compliance/references/ki-normen-und-fallpruefung.md",
+    "focus": "Ermitteln Sie, ob das System Handelsmuster auffindet oder Personenprofile für Entscheidungen erstellt. Die bloße Verwendung im Finanzsektor macht nicht jedes Überwachungssystem zu Anhang-III-Hochrisiko-KI.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -39,6 +39,12 @@ Liefern Sie je Auftrag einen internen Prüfvermerk und ein sachliches Anforderun
 
 Übergeben Sie den begründeten Teilvermerk mit Systemversion, Handlung, Stichtag und offenen Tatsachen an [Verbotene KI-Praktiken insgesamt klären](../verbotene-ki-praktiken-loesen/SKILL.md). Die Rückgabe enthält die operative Entscheidung oder eine konkret zu beantwortende Tatsachenfrage. Ein neues Dokument ohne Bezug zur führenden Fassung ist keine vollständige Übergabe.
 
+### 3.7. Buchstabe b eigenständig subsumieren
+
+Übertragen Sie nicht ungeprüft die zusätzliche Merkmalsfolge des Buchstabens a auf Buchstabe b. Dieser knüpft an die Ausnutzung der genannten Schutzbedürftigkeit mit Ziel oder Wirkung einer wesentlichen Verhaltensänderung und erheblichen Schaden beziehungsweise dessen hinreichende Wahrscheinlichkeit an. Eine zusätzlich nachgewiesene Täuschung oder unterschwellige Technik verlangt sein Wortlaut nicht. Die wirtschaftliche Notlage kann daher entscheidend sein, obwohl die Preisangabe wahr ist.
+
+Umgekehrt genügt weder Gruppenzugehörigkeit noch ein ungünstiger Vertrag allein. Belegen Sie, wie die KI gerade den erkannten Druckpunkt verstärkt und wie daraus die wesentliche Verhaltensänderung und das konkrete Schadensrisiko folgen. Allgemeine Empfänglichkeit für Werbung ohne einen der gesetzlichen Anknüpfungspunkte ist kein Ersatz.
+
 ## 4. Quellenpflicht
 
 Prüfen Sie die einschlägigen Merkmale an der [amtlichen konsolidierten KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) und bei Änderungen zusätzlich an den verlinkten Amtsblattakten. Der hier gelesene Stand ist 09.10.2026. Maßgeblich sind die im Amtsblatt veröffentlichten verbindlichen Fassungen; die Konsolidierung ist eine Lesehilfe. Lesen Sie die [Rechtsquellen und Grenzen](../../references/rechtsquellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Zitieren Sie die konkrete Norm und den einschlägigen Absatz am tragenden Satz. Keine Gerichtsentscheidung, Randnummer oder Literaturfundstelle aus Modellwissen; nicht geöffnete Quellen bleiben ungeprüft. Es wird keine vorhandene höchstrichterliche Artikel-5-Rechtsprechung behauptet. Ältere Leitlinien dürfen eine spätere Normänderung nicht verdrängen.
@@ -52,3 +58,5 @@ Das Endprodukt wird vollständig ausformuliert in grammatikalisch vollständigen
 ## 6. Beispiele
 
 Die 76-jährige Adelgunde Riemenschneider erhält nach Angabe einer knappen Rente wiederholte personalisierte Warnungen, ohne Premiumabo werde sie ihre Angehörigen enttäuschen. Prüfen Sie die wirtschaftliche und soziale Lage, den gezielten Mechanismus und die belegten Folgen. Ein Assistenzsystem, das auf Wunsch langsam liest und stets denselben vollständigen Preis nennt, ist ein wichtiger negativer Grenzfall. Der entscheidende Unterschied liegt in der tatsächlichen Ausnutzung, nicht im Lebensalter allein.
+
+Prüfen Sie die begründeten Fallvarianten in [Testanker 2](../../references/testanker.md).

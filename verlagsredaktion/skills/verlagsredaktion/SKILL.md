@@ -40,3 +40,4 @@ description: "Für Verlagsredaktion — Kernskill: ordnet Norm, Beweislast und G
 - `[LUECKE]` muss ergänzt werden.
 - `[RECHTE]` Nutzung noch nicht geklärt.
 - `[QUELLE]` Fundstelle noch zu prüfen.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Halten Sie fest, wer welche Passage in welcher Fassung geprüft und die redaktionelle Verantwortung übernommen hat. Eine bloße Schlussfreigabe ohne erkennbaren Gegenstand ist als Beleg gesondert zu würdigen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

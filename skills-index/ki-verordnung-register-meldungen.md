@@ -1,6 +1,6 @@
 # ki-verordnung-register-meldungen
 
-**11 Skills** · Stand `v445.35.0`
+**11 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-register-meldungen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-verordnung-register-meldungen-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`ki-verordnung-register-meldungen-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-verordnung-register-meldungen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-register-meldungen.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-verordnung-register-meldungen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-register-meldungen.zip) |
 
 ## So benutzt man einen Skill
 

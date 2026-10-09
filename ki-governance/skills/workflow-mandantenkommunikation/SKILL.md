@@ -44,3 +44,4 @@ Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **ki-governance**
 
 ## Praxis-Tipp
 Vermeiden Sie technische Doppelbegriffe ohne Erklärung ("DPF", "SCC", "GPAI"). Erläutern Sie die Begriffe in einer Fußnote oder kurz im Text — sonst entsteht der Eindruck eines abgehobenen Berichts, der nicht entschieden werden kann.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](../../references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.

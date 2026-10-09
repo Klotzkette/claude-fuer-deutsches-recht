@@ -208,5 +208,12 @@
     "report": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-insolvenz-sanierungsrecht.json",
     "limits": "Zwei aktuelle oberstgerichtliche Entscheidungen fachlich geprüft; keine Vollprüfung sämtlicher Fachskills oder älterer Quellen und kein neuer Modelllauf.",
     "focus_scope": "Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert."
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "fachanwalt-insolvenz-sanierungsrecht/references/ki-normen-und-fallpruefung.md",
+    "focus": "Klären Sie beim Erwerb eines KI-Geschäfts, welche Dokumentation, Rechte und Betriebsfunktionen tatsächlich übergehen. Ein Erwerber wird nicht allein durch Anteilskauf Systemanbieter; Umwidmung und Weiterentwicklung getrennt untersuchen.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

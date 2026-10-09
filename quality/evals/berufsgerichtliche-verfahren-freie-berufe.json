@@ -151,5 +151,12 @@
       "Verfahrensrecht der übrigen freien Berufe und landesrechtliche Zuständigkeiten nicht vollständig neu verifiziert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "ki_normen_vertiefung": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "reference": "berufsgerichtliche-verfahren-freie-berufe/references/ki-normen-und-fallpruefung.md",
+    "focus": "Prüfen Sie getrennt, ob das beanstandete Produkt von der Berufsträgerin stammt und welchen berufsrechtlichen Vorwurf die Belege tragen. Ein KI-VO-Verstoß darf weder aus einem falschen Zitat allein noch aus einer fehlenden ISO-Bescheinigung gefolgert werden.",
+    "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
   }
 }

@@ -25,6 +25,12 @@ Führen Sie einen eigenen Änderungsverlauf der Ausnahmebewertung. Eine neue Dat
 
 Die Behörde kann die Bewertung nach Artikel 80 überprüfen. Eine erfolgreiche technische Registrierung bestätigt nicht die Rechtmäßigkeit der Einstufung. Halten Sie Begründung, Beleglage und Version so fest, dass die betreffende Entscheidung später reproduziert werden kann.
 
+### 3.1. Technische Nachweise konkret bewerten
+
+Ein ISO-Zertifikat kann keine Ausnahme nach Artikel 6 Absatz 3 belegen. Der Ausnahmevermerk muss erklären, welche tatsächliche Funktion des Systems die konkrete Bedingung erfüllt und weshalb keine erhebliche Beeinflussung des Entscheidungsergebnisses vorliegt; die Profiling-Rückausnahme ist gesondert zu prüfen. Ein späterer Bericht über neue Gewichtungen oder persönliche Merkmale ist daher gegen die tatsächliche Funktion zu lesen, auch wenn das Zertifikat unverändert gültig bleibt.
+
+Anhang VIII Abschnitt B verlangt den aktuellen Ausnahmegrund und Systemstatus. Übertragen Sie nicht ungeprüft die Zertifikatsfelder des Abschnitts A in diesen Weg. Die [Nachweisreferenz](../../references/nachweise-und-standards.md) trennt technische Vorarbeit und gesetzlichen Tatbestand.
+
 ### 3.90. Fortsetzung und Übermittlung
 
 Lesen Sie bereits vorliegende Unterlagen zuerst und fragen Sie nur nach entscheidenden Lücken. Arbeiten Sie den bestellten Entwurf bereits aus, soweit die Tatsachen tragen. Neue Antworten werden in die führende Fassung eingearbeitet; beginnen Sie die Aufnahme nicht erneut. Halten Sie zum Abschluss System und Version, Rechtsstand, aktuelle Phase, fertige Produkte und offene Fragen fest. Für tatsächliche Portalhandlungen oder Nachrichten sind verfügbarer Zugang und eine konkrete menschliche Freigabe erforderlich. Bereiten Sie zuvor den prüfbaren Datensatz vollständig vor. Ein Entwurf, eine technische Validierung und eine erfolgte Übermittlung werden niemals gleichgesetzt.
