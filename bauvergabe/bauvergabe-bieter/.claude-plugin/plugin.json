@@ -1,23 +1,10 @@
 {
   "name": "bauvergabe-bieter",
-  "version": "445.33.1",
+  "version": "445.35.1",
   "description": "Bauvergabe Bieter für öffentliche Bauaufträge mit zehn Fachskills und einem Hauptskill vom konkreten Auftrag zum vollständigen Arbeitsergebnis.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
   },
-  "skills": "./skills/",
-  "interface": {
-    "displayName": "Bauvergabe Bieter",
-    "shortDescription": "Öffentliche Bauaufträge rechtssicher bearbeiten",
-    "longDescription": "Bauvergabe Bieter mit VOB/A-EU 2026, überprüften Quellen, vollständigen Dokumenten und klaren Rollen.",
-    "developerName": "Klotzkette",
-    "category": "Productivity",
-    "capabilities": [
-      "Write"
-    ],
-    "defaultPrompt": [
-      "Prüfe meine Bauvergabeunterlagen und erstelle das benötigte Dokument."
-    ]
-  }
+  "skills": "./skills/"
 }

@@ -4,7 +4,7 @@ Für Fachangestellte und Fachkräfte der internen Immobilien-Rechtsabteilung: vo
 
 ## In einer Minute beginnen
 
-1. [Fachplugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) und im vorgesehenen Plugin-Import installieren.
+1. [Fachplugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) und im vorgesehenen Plugin-Import installieren.
 2. Fallordner oder bisherigen Arbeitsstand samt neuer Post bereitstellen.
 3. Auftrag: `Neuer Fall. Prüfe den gesamten Ordner, sichere zuerst alle Fristen und arbeite ohne Skillauswahl bis zur nächsten freigabefähigen Entscheidung weiter.`
 
@@ -14,7 +14,7 @@ Keine Skillnummer nötig. Bereits beantwortete Fragen werden übernommen. Bei ei
 
 | Gewünschtes Ergebnis | Richtiger Einstieg |
 |---|---|
-| Juristischen Fall bearbeiten | [Plugin mit 50 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| Juristischen Fall bearbeiten | [Plugin mit 50 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 | Vollworkflow ohne Plugin nutzen | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | Kompakte Einzelprompt-Variante | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | Fertige Schriftsätze nur technisch vorbereiten | [Getrennte beA-Werkstatt](../schriftsatzwerkstatt-bea/README.md) |

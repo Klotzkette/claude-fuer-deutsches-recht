@@ -1,6 +1,6 @@
 {
   "name": "grundstuecksrecherche",
-  "version": "445.33.1",
+  "version": "445.35.1",
   "description": "Lokale App für Grundstücksrecherche in deutschen Städten: amtliche Quellen entdecken, NRW-Flurstücke verifiziert auswählen oder manuell erfassen und vier Auskunftsentwürfe als DOCX und ZIP vorbereiten. Kein automatischer Versand.",
   "license": "Apache-2.0 OR MIT",
   "author": {

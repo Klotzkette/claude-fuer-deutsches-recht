@@ -2,6 +2,7 @@
 
 import json
 import re
+import sys
 from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit
 
@@ -22,6 +23,17 @@ PROMPT_SUFFIXES = {
     "bieter-unternehmen": "bieter",
     "konkurrenten-rechtsschutz": "konkurrenten",
 }
+
+sys.path.append(str(ROOT.parent / "scripts"))
+from release_routing import plugin_asset_url, validate_plugin_version
+
+
+def plugin_download(name: str) -> str:
+    return plugin_asset_url(name, root=ROOT.parent)
+
+
+def check_plugin_version(plugin: dict) -> None:
+    validate_plugin_version(plugin, VERSION, root=ROOT.parent)
 
 
 def markdown_download(relative: str) -> str:

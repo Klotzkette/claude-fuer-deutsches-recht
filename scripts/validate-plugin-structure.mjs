@@ -95,7 +95,7 @@ function checkMarketplace() {
     if (manifest.author && (typeof manifest.author !== 'object' || Array.isArray(manifest.author) || !manifest.author.name)) {
       errors.push(`${rel(manifestPath)}: author must be an object with name`);
     }
-    for (const unsupported of ['language', 'rechtsgebiet', 'adapted_from']) {
+    for (const unsupported of ['language', 'rechtsgebiet', 'adapted_from', 'interface']) {
       if (Object.hasOwn(manifest, unsupported)) {
         errors.push(`${rel(manifestPath)}: unsupported manifest key ${unsupported}`);
       }

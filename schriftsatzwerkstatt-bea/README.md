@@ -134,7 +134,7 @@ Ein grüner Skriptlauf ersetzt weder die visuelle Seitenkontrolle noch die reale
 ## Downloads und Navigation
 
 - [Projektübersicht: Rechtsabteilung Forderungsmanagement Immobilienunternehmen](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/schriftsatzwerkstatt-bea.zip)
+- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/schriftsatzwerkstatt-bea.zip)
 - [Fachplugin für die inhaltliche Bearbeitung](../rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md)
 - [Arbeitsregeln und Abgrenzung](./AGENTS.md)
 - [Root-README](../README.md)

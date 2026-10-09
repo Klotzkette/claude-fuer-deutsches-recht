@@ -9,6 +9,7 @@ import unittest
 import zipfile
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
+from release_routing import validate_plugin_version
 
 ROOT = Path(__file__).resolve().parents[1]
 COMPONENT = ROOT / "vergaberecht-werkstatt"
@@ -24,7 +25,8 @@ class ImportTests(unittest.TestCase):
         for name in META["plugins"]:
             plugin = json.loads((COMPONENT / name / ".claude-plugin/plugin.json").read_text())
             self.assertEqual(entries[name]["source"], f"./vergaberecht-werkstatt/{name}")
-            self.assertEqual(plugin["version"], marketplace["version"])
+            self.assertEqual(plugin["version"], entries[name]["version"])
+            validate_plugin_version(entries[name], marketplace["version"], root=ROOT)
             self.assertEqual(plugin["description"], entries[name]["description"])
             total += len(list((COMPONENT / name / "skills").glob("*/SKILL.md")))
         self.assertEqual(total, 255)

@@ -204,7 +204,7 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
-      "version": "445.33.1",
+      "version": "445.35.1",
       "source": "./bauvergabe/bauvergabe-bieter"
     },
     {
@@ -224,7 +224,7 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
-      "version": "445.33.1",
+      "version": "445.35.1",
       "source": "./bauvergabe/bauvergabe-rechtsschutz"
     },
     {
@@ -234,7 +234,7 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
-      "version": "445.33.1",
+      "version": "445.35.1",
       "source": "./bauvergabe/bauvergabe-unterlagen"
     },
     {
@@ -244,7 +244,7 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       },
-      "version": "445.33.1",
+      "version": "445.35.1",
       "source": "./bauvergabe/bauvergabe-verfahren"
     },
     {
@@ -501,7 +501,7 @@
       "name": "bieter-unternehmen",
       "source": "./vergaberecht-werkstatt/bieter-unternehmen",
       "description": "Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.",
-      "version": "445.33.1",
+      "version": "445.35.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1241,7 +1241,7 @@
       "name": "grundstuecksrecherche",
       "source": "./grundstuecksrecherche",
       "description": "Lokale App für Grundstücksrecherche in deutschen Städten: amtliche Quellen entdecken, NRW-Flurstücke verifiziert auswählen oder manuell erfassen und vier Auskunftsentwürfe als DOCX und ZIP vorbereiten. Kein automatischer Versand.",
-      "version": "445.33.1",
+      "version": "445.35.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2091,7 +2091,7 @@
       "name": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
       "source": "./rechtsabteilung-forderungsmanagement-immobilienunternehmen",
       "description": "Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung.",
-      "version": "445.33.1",
+      "version": "445.35.1",
       "category": "german-law",
       "tags": [
         "forderungsmanagement",
@@ -2393,7 +2393,7 @@
       "name": "schriftsatzwerkstatt-bea",
       "source": "./schriftsatzwerkstatt-bea",
       "description": "Technische Versandwerkstatt der Immobilien-Rechtsabteilung: neun Schritte vom fachlich fertigen Ordner zu Einzel-PDFs, Anlagenfolge, Signaturentscheidung und geprüftem Übergabepaket. Keine Inhaltsprüfung und kein eigener Versand.",
-      "version": "445.33.1",
+      "version": "445.35.1",
       "category": "productivity",
       "tags": [
         "bea",
@@ -2819,7 +2819,7 @@
       "name": "vergabestelle-behoerden",
       "source": "./vergaberecht-werkstatt/vergabestelle-behoerden",
       "description": "Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.",
-      "version": "445.33.1",
+      "version": "445.35.1",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

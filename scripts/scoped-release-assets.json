@@ -15,8 +15,8 @@
     "betreuungsrecht.zip": "betreuungsrecht-v445.33.3",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip": "betreuungsrecht-v445.33.3",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung-einzelpdfs.zip": "betreuungsrecht-v445.33.3",
-    "rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip": "rechtsabteilung-immobilien-v445.33.1",
-    "schriftsatzwerkstatt-bea.zip": "rechtsabteilung-immobilien-v445.33.1",
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip": "kompatibilitaet-v445.35.1",
+    "schriftsatzwerkstatt-bea.zip": "kompatibilitaet-v445.35.1",
     "bauwirtschaft-anfaenger.zip": "bauwirtschaft-rundum-v445.33.3",
     "bauwirtschaft-fortgeschrittene.zip": "bauwirtschaft-rundum-v445.33.3",
     "testakte-bau-rundum-abschlagsrechnung-lemgo.zip": "bauwirtschaft-rundum-v445.33.3",
@@ -96,9 +96,9 @@
     "ki-native-kanzlei.zip": "ki-native-kanzlei-v445.35.0",
     "ki-native-kanzlei-portable.zip": "ki-native-kanzlei-v445.35.0",
     "ki-native-kanzlei-skills-einzelpdfs.zip": "ki-native-kanzlei-v445.35.0",
-    "bieter-unternehmen.zip": "vergaberecht-werkstatt-v445.33.1",
+    "bieter-unternehmen.zip": "kompatibilitaet-v445.35.1",
     "konkurrenten-rechtsschutz.zip": "vergaberecht-werkstatt-v445.33.1",
-    "vergabestelle-behoerden.zip": "vergaberecht-werkstatt-v445.33.1",
+    "vergabestelle-behoerden.zip": "kompatibilitaet-v445.35.1",
     "testakte-01-reinigung-grundschule-musterstadt.zip": "vergaberecht-werkstatt-v445.33.1",
     "testakte-01-reinigung-grundschule-musterstadt-einzelpdfs.zip": "vergaberecht-werkstatt-v445.33.1",
     "testakte-02-laptopbeschaffung-landesamt-musterland.zip": "vergaberecht-werkstatt-v445.33.1",
@@ -197,6 +197,12 @@
     "staatsanwaltschaft-amtsanwaltschaft.zip": "ki-verordnung-v445.35.0",
     "staatsanwaltschaft-praxis-einstieg.zip": "ki-verordnung-v445.35.0",
     "kanzlei-builder-hub.zip": "ki-verordnung-v445.35.0",
-    "insiderrecht-compliance.zip": "ki-verordnung-v445.35.0"
+    "insiderrecht-compliance.zip": "ki-verordnung-v445.35.0",
+    "bauvergabe-bieter.zip": "kompatibilitaet-v445.35.1",
+    "bauvergabe-rechtsschutz.zip": "kompatibilitaet-v445.35.1",
+    "bauvergabe-unterlagen.zip": "kompatibilitaet-v445.35.1",
+    "bauvergabe-verfahren.zip": "kompatibilitaet-v445.35.1",
+    "grundstuecksrecherche.zip": "kompatibilitaet-v445.35.1",
+    "grundstuecksrecherche-website.zip": "kompatibilitaet-v445.35.1"
   }
 }

@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 
-from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, ROOT, VERSION, canonical_prompt, with_working_downloads
+from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, ROOT, VERSION, canonical_prompt, with_working_downloads, check_plugin_version
 from testakte_notices import README_NOTICE, with_case_warnings
 
 
@@ -21,10 +21,14 @@ def main() -> int:
         role = plugin["name"]
         if role not in PROMPT_SUFFIXES:
             continue
-        if plugin["source"] != f"./{role}" or plugin["version"] != VERSION:
+        if plugin["source"] != f"./{role}":
             errors.append(f"{role}: relative Quelle oder Version stimmt nicht")
+        try:
+            check_plugin_version(plugin)
+        except ValueError as error:
+            errors.append(str(error))
         manifest = json.loads((ROOT / role / ".claude-plugin/plugin.json").read_text(encoding="utf-8"))
-        if manifest["name"] != role or manifest["version"] != VERSION:
+        if manifest["name"] != role or manifest["version"] != plugin["version"]:
             errors.append(f"{role}: Plugin-Identitaet stimmt nicht")
         if manifest["author"] != {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"}:
             errors.append(f"{role}: Autor stimmt nicht")

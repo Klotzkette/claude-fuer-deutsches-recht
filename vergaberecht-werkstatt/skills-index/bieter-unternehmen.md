@@ -8,7 +8,7 @@
 
 | Bedarf | Link |
 | --- | --- |
-| Installierbares Plugin | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen.zip) |
+| Installierbares Plugin | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
 | Alle Skills als Markdown | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
 | Kompakter Ein-Datei-Start | [bieter-unternehmen-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
 | Vollworkflow-Arbeitsprompt | [vergaberecht-arbeitsprompt-bieter.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-bieter.md) |
@@ -21,7 +21,7 @@
 | --- | --- | --- |
 | Unified Mini Prompt | Eine einzelne Markdown-Datei bis 7.500 Zeichen: Sparversion des Plugin-Workflows für Chatbots ohne Plugin-Installation | [bieter-unternehmen-unified-mini-prompt.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
 | Markdown-ZIP | Alle `SKILL.md`-Dateien als reine Markdown — echter Datei-Download für ChatGPT, Gemini, Mistral, Le Chat usw. | [bieter-unternehmen-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
-| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen.zip) |
+| Plugin-ZIP | Installierbares Claude-Code-Plugin (Skills + Hilfsdateien + Prüfrastern + Vorlagen) | [bieter-unternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
 
 ## So benutzt man einen Skill
 

@@ -9,6 +9,7 @@ import zipfile
 from pathlib import Path
 
 from prompt_profiles import PROMPT_SUFFIXES
+from release_routing import validate_plugin_version
 
 
 def fail(message: str) -> None:
@@ -106,16 +107,36 @@ def validate_focus_skill(zip_path: Path, plugin_directory: Path, profile_path: P
             fail(f"{zip_path}: Schwerpunkt-Skill weicht vom geprüften Quelltext ab")
 
 
+def validate_skill_sources(zip_path: Path, plugin_directory: Path) -> None:
+    """Gleiche Versionsnummern beweisen noch keinen gleichen Skill-Stand."""
+    sources = {
+        path.relative_to(plugin_directory).as_posix(): path
+        for path in (plugin_directory / "skills").rglob("*")
+        if path.is_file() and "__pycache__" not in path.parts
+        and path.suffix != ".pyc" and path.name != ".DS_Store"
+        and not path.name.endswith(PROMPT_SUFFIXES)
+    }
+    with zipfile.ZipFile(zip_path) as archive:
+        entries = [name for name in archive.namelist() if name.startswith("skills/") and not name.endswith("/")]
+        if len(entries) != len(set(entries)) or set(entries) != set(sources):
+            fail(f"{zip_path}: Skill-Dateiliste weicht vom Quellstand ab")
+        for name, path in sources.items():
+            if path.is_symlink() or archive.read(name) != path.read_bytes():
+                fail(f"{zip_path}: Skill-Datei weicht vom Quellstand ab: {name}")
+
+
 def main() -> None:
     dist_dir = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("dist")
     marketplace_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path(".claude-plugin/marketplace.json")
 
     marketplace = json.loads(marketplace_path.read_text(encoding="utf-8"))
-    plugins = [plugin["name"] for plugin in marketplace["plugins"]]
-    for plugin_name in plugins:
-        validate_plugin_zip(dist_dir, plugin_name, marketplace["version"])
     root = marketplace_path.resolve().parents[1]
+    plugins = marketplace["plugins"]
+    for plugin in plugins:
+        validate_plugin_version(plugin, marketplace["version"], root=root)
+        validate_plugin_zip(dist_dir, plugin["name"], plugin["version"])
     for plugin in marketplace["plugins"]:
+        validate_skill_sources(dist_dir / f"{plugin['name']}.zip", root / plugin["source"])
         validate_focus_skill(dist_dir / f"{plugin['name']}.zip", root / plugin["source"],
                              root / "quality/evals" / f"{plugin['name']}.json")
 

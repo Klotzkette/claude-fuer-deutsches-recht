@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`vergabestelle-behoerden-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`vergabestelle-behoerden-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden.zip) |
+| **Plugin (installierbar)** | ZIP | [vergabestelle-behoerden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/vergabestelle-behoerden.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "plugin": "kanzlei-website-redaktion",
+  "reviewed_on": "2026-10-09",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43b.html",
+      "checked_on": "2026-10-09",
+      "supports": "Sachliche anwaltliche Werbung als Grenze der Website-Redaktion."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=70030&Blank=1.pdf",
+      "checked_on": "2026-10-09",
+      "supports": "Amtlich indexierter Leitsatz zu I ZR 53/13; Selbsteinschätzung als Spezialist benötigt tragfähige tatsächliche Grundlage. Direkter Volltextabruf zeitweise nicht erreichbar."
+    }
+  ],
+  "selection": {
+    "target_skill": "website-redaktion-steuern",
+    "positive": [
+      "Mache aus diesem Urteil einen geprüften Beitrag für unsere Kanzlei-Website.",
+      "Aktualisiere Teamprofil und Kontaktseite anhand der bestätigten neuen Durchwahl."
+    ],
+    "negative": [
+      "Reiche für unseren Mandanten eine Klage beim Arbeitsgericht ein.",
+      "Überweise die offene Lieferantenrechnung aus unserem Kanzleikonto."
+    ]
+  },
+  "cases": [
+    {
+      "id": "profil-mit-unbelegtem-titel",
+      "target_skill": "teamprofile-lebenslaeufe-pflegen",
+      "request": "Die Kanzlei erhält einen Lebenslauf mit privater Anschrift und neuer Durchwahl. Ein Kollege nennt den neuen Anwalt Spezialist für Familienrecht, ein anderer Fachanwalt; ein Titelnachweis liegt nicht vor. Ein öffentliches Netzwerkprofil enthält sein Foto. Aktualisieren Sie das Profil und die Kontaktseite als Entwurf; die Rechtsabteilung hat noch keine Veröffentlichung freigegeben.",
+      "input_files": [],
+      "deliverables": [
+        "profilentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Übernimmt die belegte Durchwahl konsistent, fragt den ungeklärten Titel gezielt nach und leitet Fachanwaltschaft nicht aus Tätigkeitsbeschreibung ab.",
+          "deliverables": [
+            "profilentwurf.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Veröffentlicht weder Privatanschrift noch fremdes Profilfoto ohne Grundlage; ein öffentlicher Link ersetzt keine Nutzungsrechte.",
+          "deliverables": [
+            "profilentwurf.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen konkreten Entwurf mit offenen Nachweisen, keine behauptete Onlineänderung und keine komplette Neugestaltung.",
+          "deliverables": [
+            "profilentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veroeffentlichung-timeout",
+      "target_skill": "website-veroeffentlichen-wiederherstellen",
+      "request": "Ein Rechtsbeitrag wurde für die konkrete Fassung 17 und die Beitragsseite freigegeben. Der Speicherversuch endet mit Timeout. Der Nutzer bittet, sofort nochmals zu veröffentlichen. Inzwischen hat ein Kollege die Einleitung geändert. Bereiten Sie die Fortsetzung ohne echten Systemzugriff vor und liefern Sie den Übergabevermerk.",
+      "input_files": [],
+      "deliverables": [
+        "fortsetzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt zuerst Abgleich des Zielzustands und der Aktionskennung; kein blindes Wiederholen nach unklarem Schreibstatus.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Alte Freigabe wird nicht auf die neue Einleitung übertragen; fremde Änderung wird nicht durch alte Sicherung überschrieben.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert den konkreten Übergabestand und nächsten Nachweis ohne fingierten Zugriff oder Vollzug; unabhängige Entwurfsarbeit darf weiterlaufen.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beitrag-ohne-verbindung",
+      "target_skill": "website-redaktion-steuern",
+      "request": "Eine Partnerin legt eine Gerichts-Pressemitteilung und drei Notizen vor. Daraus soll ein kurzer verständlicher Blogbeitrag für Unternehmer werden. Volltext und Webhost sind nicht zugänglich. Die Vorabnotiz behauptet einen garantierten Prozesserfolg. Es gibt keine belegte redaktionelle Endprüfung. Erstellen Sie die nutzbare Entwurfsfassung mit den noch erforderlichen Prüfungen, ohne selbst etwas zu veröffentlichen.",
+      "input_files": [],
+      "deliverables": [
+        "beitragsentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Pressemitteilung und Volltext, beseitigt ungesicherte Erfolgszusage und begrenzt Aussagen auf belegten Entscheidungsumfang.",
+          "deliverables": [
+            "beitragsentwurf.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert lesbaren Beitrag, Teaser und Zielzuordnung ohne angeblichen Upload; interne Quellenlücken bleiben außerhalb des veröffentlichten Textentwurfs.",
+          "deliverables": [
+            "beitragsentwurf.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Klärt tatsächliche menschliche Prüfung und Veröffentlichungsvoraussetzungen; erfindet weder erfolgte Redaktion noch eine pauschale Ausnahme wegen Kanzleinutzung.",
+          "deliverables": [
+            "beitragsentwurf.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Konkrete Redaktionszweige, werkzeugabhängige Übergabe und Wiederaufnahme nach unklarem Schreibstatus sind ohne Standardfloskeln beschrieben.",
+    "changes": [],
+    "sha256": "de557432290bb47bb5482973b4eda5ad02399aa9ec2d3a682c459ebde9fd17ce"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Auftragskennung, Basisrevision, tatsächliche Inhaltsprüfung und Freigabe steuern den Weg zur Veröffentlichung oder ehrlichen Übergabe.",
+    "changes": [],
+    "sha256": "55cb8ed7696c5d9131bdfd92962140b0dff0f2ab337d3518216955b242d32f4d"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei Beitrag mit konkretem Textentwurf statt Website-Gesamtinventur beginnen.",
+      "Bei Profiländerung nur betroffene Person und widersprechende Nachweise klären.",
+      "Nach Unterbrechung Auftragskennung und bestätigte Revision übernehmen, unklaren Versandstatus nicht erfinden."
+    ],
+    "continuation": "Korrekturen aktualisieren die konkrete Fassung; Freigabe gilt nicht automatisch für geänderte Inhalte. Ohne Verbindung wird ein Übergabepaket geliefert.",
+    "enrichment": "Drei getrennte Prüffälle zu Titeln und Bildrechten, Schreib-Timeout und Pressemitteilung ohne Publikationszugriff mit neun Ergebniskriterien.",
+    "limits": "Redaktionelle Prüfung, keine simulierten Beobachtungen als bestandene Live-Modelltests ausgeben."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "files": [
+      "kanzlei-website-redaktion/kanzlei-website-redaktion-werkstatt.md",
+      "kanzlei-website-redaktion/kanzlei-website-redaktion-schnellstart.md"
+    ],
+    "opening_change": "Auf konkreten Redaktionsauftrag begrenzten Einstieg beibehalten; individuelle Ausweichwege geprüft statt allgemeinen Absatz aufzupfropfen.",
+    "norms": [
+      "Paragraf 43b BRAO: sachliche berufliche Werbung.",
+      "Paragraf 5 UWG: keine ungeprüften Qualifikations- und Erfolgsangaben."
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 24. Juli 2014, I ZR 53/13",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=70030&Blank=1.pdf",
+        "application": "Selbsteinschätzung als Spezialist anhand tatsächlicher Fähigkeiten und Nachweise prüfen.",
+        "limit": "Keine automatische Fachanwaltstitelverleihung; aktuelle Berufsregeln zusätzlich prüfen. Hier Leitsatzabgleich, kein neuer vollständiger Rechtsstandsnachweis."
+      }
+    ],
+    "remaining_limits": [
+      "Veröffentlichung und Rücknahme müssen im freigegebenen Zielsystem separat getestet werden.",
+      "Die Rechtsstandsprüfung des Transparenzmoduls wird durch dieses technische Reparaturprofil nicht erneuert."
+    ]
+  }
+}

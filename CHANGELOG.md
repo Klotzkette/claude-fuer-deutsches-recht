@@ -1,3 +1,19 @@
+# kompatibilitaet-v445.35.1 - 2026-10-09
+
+## 1. Import und Downloads
+
+Neun Plugins erhalten ein abgegrenztes Reparaturrelease. Die Grundstücksrecherche steht erstmals mit dem zugeordneten Plugin-ZIP und der direkt öffnungsfähigen Website bereit. Zwei Bauvergabe-Manifeste enthalten Anzeigeinformationen nur noch im dafür vorgesehenen Manifestformat. Sechs zuvor abweichende Plugin-ZIPs werden aus dem aktuellen Quellstand neu gebaut; die Paketprüfung vergleicht sämtliche Skill-Dateien bytegenau.
+
+## 2. Prüfungen und dauerhafte Sicherungen
+
+Alle 293 Plugins und der Marketplace bestehen die strikte Herstellerprüfung. Komponentenversionen und Downloadziele werden auch in der verschachtelten Vergaberecht-Werkstatt korrekt geprüft. Der Release-Bau kontrolliert Paketversion, Quellenbestand, Prüfsummen und Herkunft vom Hauptbranch; veröffentlichte Releases werden nicht überschrieben. Werkstatt-, Schnellstart- und Hauptproblemdateien bleiben außerhalb der installierbaren Pakete.
+
+Die AGB-Werkstatt und die Kanzlei-Website-Redaktion erhalten individuelle Qualitätsprofile mit jeweils drei fachbezogenen Prüffällen. Die Kataloggrenze wächst anhand der Pluginzahl bei unveränderter zulässiger Durchschnittsdichte; alle Einzelplugin-Grenzen bleiben bestehen. Das ist eine Korrektur der Prüflogik, keine behauptete Beschleunigung oder gemessene Modellqualität.
+
+## 3. Umfang und Grenzen
+
+Das Komponentenrelease enthält neun Plugin-ZIPs, ein Website-ZIP, den Quellenabgleich und Prüfsummen. Alte Tags, Testakten und das allgemeine Gesamtrelease bleiben unverändert. Juristische Prompttexte werden nicht neu formuliert; lediglich der Website-Download im Startskill wird berichtigt. Ein Live-Betrieb in sämtlichen Benutzeroberflächen oder eine Garantie juristischer Ergebnisse wird nicht behauptet.
+
 # ki-verordnung-v445.35.0 – 2026-10-09
 
 Die repositoryweite KI-Verordnungs-Fachrunde verarbeitet 1.283 Ausgangsdateien mit 5.862 Suchtreffern. 48 betroffene Plugins erhalten ein eigenes Komponentenrelease. Der große KI-VO-Prüfer und der Transparenzprüfer werden fachlich aktualisiert; elf aktive Vorlagen werden einschließlich ODT- und Markdown-Download neu erzeugt. Historische Quellenprotokolle und tatsächliche Fallbehauptungen bleiben unterscheidbar.

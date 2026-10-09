@@ -52,9 +52,11 @@ class AppOnlyIntegration(unittest.TestCase):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         self.entry = next(entry for entry in marketplace["plugins"] if entry["name"] == SLUG)
         ordinary = dict(self.entry, name=ORDINARY, source=f"./{ORDINARY}")
-        self.marketplace = dict(marketplace, plugins=[ordinary, self.entry])
+        self.marketplace = dict(marketplace, version=self.entry["version"], plugins=[ordinary, self.entry])
         self.market = self.root / ".claude-plugin/marketplace.json"
         self.write(self.market, json.dumps(self.marketplace))
+        routes = json.loads((ROOT / "scripts/scoped-release-assets.json").read_text())
+        self.write(self.root / "scripts/scoped-release-assets.json", json.dumps(routes))
         manifest = json.loads((self.plugin / ".claude-plugin/plugin.json").read_text())
         self.write(self.root / ORDINARY / ".claude-plugin/plugin.json", json.dumps(dict(manifest, name=ORDINARY)))
         self.write(self.root / ORDINARY / "skills/pruefen/SKILL.md",
@@ -111,6 +113,24 @@ console.log(JSON.stringify(['grundstuecksrecherche','anderes-plugin'].map(s =>
             with self.subTest(validator=validator):
                 result = self.validate(validator)
                 self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_component_version_requires_matching_route_in_both_validators(self):
+        self.marketplace["version"] = "1.0.0"
+        routes = json.loads((self.root / "scripts/scoped-release-assets.json").read_text())
+        routes["assets"][f"{ORDINARY}.zip"] = f"kompatibilitaet-v{self.entry['version']}"
+        self.write(self.root / "scripts/scoped-release-assets.json", json.dumps(routes))
+        self.write(self.market, json.dumps(self.marketplace))
+        readme = self.root / ORDINARY / "README.md"
+        self.write(readme, readme.read_text().replace("/releases/latest/download/", f"/releases/download/kompatibilitaet-v{self.entry['version']}/"))
+        for validator in ("validate-marketplace-import.mjs", "audit-release-readiness.mjs"):
+            result = self.validate(validator)
+            self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        routes["assets"][f"{SLUG}.zip"] = "kompatibilitaet-v1.0.0"
+        self.write(self.root / "scripts/scoped-release-assets.json", json.dumps(routes))
+        for validator in ("validate-marketplace-import.mjs", "audit-release-readiness.mjs"):
+            result = self.validate(validator)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertIn("Version", result.stderr)
 
     def test_other_plugins_still_require_workshop_and_its_download(self):
         workshop = self.root / ORDINARY / f"{ORDINARY}-werkstatt.md"
