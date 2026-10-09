@@ -1,0 +1,42 @@
+[
+  {
+    "case": "ki-hochrisiko-mainblick-bewerbung",
+    "pages": 49,
+    "outside_text_pages": [],
+    "asset": "ki-hochrisiko-mainblick-bewerbung_gesamt.pdf",
+    "sha256": "b7da7e135dc1b2c4e27e4ea71053e3535c051472fbb98cc2df2f22fa7ad0d14c",
+    "visual_check": "Alle Seiten als Kontaktbögen geprüft; keine abgeschnittenen Textbereiche festgestellt."
+  },
+  {
+    "case": "ki-register-havelgrund-sozialamt",
+    "pages": 35,
+    "outside_text_pages": [],
+    "asset": "ki-register-havelgrund-sozialamt_gesamt.pdf",
+    "sha256": "0ced7043754301a22dd894159d8f4bd82a0032c6c79f58b71b9a5cebca3648bf",
+    "visual_check": "Alle Seiten als Kontaktbögen geprüft; keine abgeschnittenen Textbereiche festgestellt."
+  },
+  {
+    "case": "ki-konformitaet-eichengrund-logistik",
+    "pages": 36,
+    "outside_text_pages": [],
+    "asset": "ki-konformitaet-eichengrund-logistik_gesamt.pdf",
+    "sha256": "548489f4f7e5093dce8e3ffc9984b222596c9791fcac1eb14340507b9cafcd4c",
+    "visual_check": "Alle Seiten als Kontaktbögen geprüft; keine abgeschnittenen Textbereiche festgestellt."
+  },
+  {
+    "case": "ki-verbot-regnitz-sorglosabo",
+    "pages": 37,
+    "outside_text_pages": [],
+    "asset": "ki-verbot-regnitz-sorglosabo_gesamt.pdf",
+    "sha256": "6c6e0207665fd46b2fa5131f95b3bed613f543ca34fcd00d7c29c6206a985466",
+    "visual_check": "Alle Seiten als Kontaktbögen geprüft; keine abgeschnittenen Textbereiche festgestellt."
+  },
+  {
+    "case": "ki-transparenz-pegnesus-redaktion",
+    "pages": 35,
+    "outside_text_pages": [],
+    "asset": "ki-transparenz-pegnesus-redaktion_gesamt.pdf",
+    "sha256": "ca0b8f69d25e180d80d67ac597b2d1ad2c3afdd2eb900ec7adba5d0d0b482b55",
+    "visual_check": "Alle Seiten als Kontaktbögen geprüft; keine abgeschnittenen Textbereiche festgestellt."
+  }
+]

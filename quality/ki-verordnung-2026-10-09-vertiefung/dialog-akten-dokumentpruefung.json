@@ -1,0 +1,172 @@
+[
+  {
+    "case": "ki-verbot-regnitz-sorglosabo",
+    "documents": [
+      {
+        "file": "01_Pruefauftrag.docx",
+        "words": 440,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "02_Systembeschreibung.docx",
+        "words": 471,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "03_Gespraechsprotokoll_Rupprecht.docx",
+        "words": 520,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "04_Anbieterantwort.docx",
+        "words": 451,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "05_Kontrollnotiz_Betrieb.docx",
+        "words": 465,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "06_Arbeitsentwurf_Anbieterbrief.docx",
+        "words": 417,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      }
+    ],
+    "emails": [
+      {
+        "file": "07_Auftrag_Behringer.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "08_Technik_Seibold.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "09_Kundengespraech.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 1
+      },
+      {
+        "file": "10_Gutschrift_Buchhaltung.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 0
+      },
+      {
+        "file": "11_Anbieter_und_Korrektur.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "12_Kontrollnotiz_und_Mappe.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      }
+    ]
+  },
+  {
+    "case": "ki-transparenz-pegnesus-redaktion",
+    "documents": [
+      {
+        "file": "01_Redaktionsauftrag.docx",
+        "words": 437,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "02_Produktionsbeschreibung.docx",
+        "words": 463,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "03_Redaktionsprotokoll.docx",
+        "words": 477,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "04_Anbieterbrief_Markierung.docx",
+        "words": 432,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "05_Kontrollblatt_Ausspielung.docx",
+        "words": 457,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      },
+      {
+        "file": "06_Arbeitsentwurf_Veröffentlichung.docx",
+        "words": 436,
+        "pages": 1,
+        "paragraphs_complete": true,
+        "body_font": "Times New Roman",
+        "body_pt": 11.0
+      }
+    ],
+    "emails": [
+      {
+        "file": "07_Auftrag_Chefredaktion.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "08_Freigabe_v2.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 0
+      },
+      {
+        "file": "09_Technik_und_Produktionsstand.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "10_Vorschau_und_Rechtschreibung.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 1
+      },
+      {
+        "file": "11_Anbieterantwort_Export.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 2
+      },
+      {
+        "file": "12_Ausspielkontrolle.eml",
+        "has_from_to_date_subject_message_id": true,
+        "attachments": 3
+      }
+    ]
+  }
+]

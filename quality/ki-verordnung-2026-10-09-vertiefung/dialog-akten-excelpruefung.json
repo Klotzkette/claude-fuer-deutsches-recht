@@ -1,0 +1,581 @@
+{
+  "date": "2026-10-09",
+  "scope": "Nur zwei XLSX-Dateien und zugehöriger MJS-Builder. Native Dokumente und E-Mails nicht bearbeitet.",
+  "status": "Tabellen eingefroren; EML-Neubau an Root übergeben.",
+  "workbooks": [
+    {
+      "file": "testakten/ki-verbot-regnitz-sorglosabo/13_Kosten_und_Buchungsabgleich.xlsx",
+      "sha256": "393c834180e2ad19c6ee0021da848867fea93b48d13e8a332b8d7efd7eef9d9b",
+      "sheets": [
+        "Kosten",
+        "Eingaben",
+        "Buchungen"
+      ],
+      "formulas": [
+        {
+          "sheet": "Kosten",
+          "cell": "D6",
+          "formula": "=IF(COUNT(Eingaben!B6:B8)=3,Eingaben!B6*Eingaben!B7+Eingaben!B8,\"offen\")",
+          "cached": 791
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D7",
+          "formula": "='Buchungen'!D10",
+          "cached": 174
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D8",
+          "formula": "=IF(COUNT(D6:D7)=2,D6-D7,\"offen\")",
+          "cached": 617
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D10",
+          "formula": "=IF(COUNT(Eingaben!B9:B10)=2,Eingaben!B9*Eingaben!B10,\"offen\")",
+          "cached": "offen"
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D11",
+          "formula": "=IF(COUNT(D6,D10)=2,D6+D10,\"offen\")",
+          "cached": "offen"
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D13",
+          "formula": "=IF(ISNUMBER(Eingaben!B11),Eingaben!B11,\"offen\")",
+          "cached": 39
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D15",
+          "formula": "=IF(COUNT(Eingaben!B12:B13)=2,Eingaben!B12-Eingaben!B13,\"offen\")",
+          "cached": 476
+        },
+        {
+          "sheet": "Kosten",
+          "cell": "D16",
+          "formula": "=IF(COUNT(D15,Eingaben!B6)=2,IF(D15=0,\"n.a.\",Eingaben!B6/D15),\"offen\")",
+          "cached": 0.0819327731092437
+        },
+        {
+          "sheet": "Buchungen",
+          "cell": "D10",
+          "formula": "=IF(COUNT(B6:C7)=4,SUM(B6:B7)-SUM(C6:C7),\"offen\")",
+          "cached": 174
+        },
+        {
+          "sheet": "Buchungen",
+          "cell": "D14",
+          "formula": "=IF(COUNT(D10,D13)=2,D10-D13,\"offen\")",
+          "cached": 0
+        }
+      ],
+      "cached_formula_count": 10,
+      "previous_sha256": "83241e94256ac83c833e212973c36cbfa3a05505dd0e90ea8e7b44e1fd53c533",
+      "visual_review": "Alle Blätter vollständig gerendert und visuell geprüft; keine abgeschnittenen Inhalte oder Überlagerungen."
+    },
+    {
+      "file": "testakten/ki-transparenz-pegnesus-redaktion/13_Fassungen_und_Ausspielkontrolle.xlsx",
+      "sha256": "46d949612794a1bae5acd386b107c935c8bc5ab9b3056bdad77c2241655fe725",
+      "sheets": [
+        "Ausspielung",
+        "Schnittplan"
+      ],
+      "formulas": [
+        {
+          "sheet": "Ausspielung",
+          "cell": "D6",
+          "formula": "=IF(AND(B6<>\"\",C6<>\"\",B6=C6),\"gleich\",\"abweichend/offen\")",
+          "cached": "abweichend/offen"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D7",
+          "formula": "=IF(AND(B7<>\"\",C7<>\"\",B7=C7),\"gleich\",\"abweichend/offen\")",
+          "cached": "abweichend/offen"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D8",
+          "formula": "=IF(AND(B8<>\"\",C8<>\"\",B8=C8),\"gleich\",\"abweichend/offen\")",
+          "cached": "abweichend/offen"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D9",
+          "formula": "=IF(AND(B9<>\"\",C9<>\"\",B9=C9),\"gleich\",\"abweichend/offen\")",
+          "cached": "abweichend/offen"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D10",
+          "formula": "=IF(AND(B10<>\"\",C10<>\"\",B10=C10),\"gleich\",\"abweichend/offen\")",
+          "cached": "gleich"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D11",
+          "formula": "=IF(AND(B11<>\"\",C11<>\"\",B11=C11),\"gleich\",\"abweichend/offen\")",
+          "cached": "abweichend/offen"
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D14",
+          "formula": "=COUNTA(A6:A11)",
+          "cached": 6
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D15",
+          "formula": "=COUNTIF(D6:D11,\"abweichend/offen\")",
+          "cached": 5
+        },
+        {
+          "sheet": "Ausspielung",
+          "cell": "D16",
+          "formula": "=IF(COUNT(E6:E11)=6,SUM(E6:E11),\"offen\")",
+          "cached": 0
+        },
+        {
+          "sheet": "Schnittplan",
+          "cell": "B12",
+          "formula": "=IF(COUNT(B9:B10)=2,B10-B9,\"offen\")",
+          "cached": 30
+        },
+        {
+          "sheet": "Schnittplan",
+          "cell": "B13",
+          "formula": "=IF(COUNT(B7:B10)=4,MAX(0,MIN(B8,B10)-MAX(B7,B9)),\"offen\")",
+          "cached": 0
+        },
+        {
+          "sheet": "Schnittplan",
+          "cell": "B14",
+          "formula": "=IF(COUNT(B12:B13)=2,IF(B12=0,\"n.a.\",B13/B12),\"offen\")",
+          "cached": 0
+        },
+        {
+          "sheet": "Schnittplan",
+          "cell": "D16",
+          "formula": "=IF(COUNT(B6,B9:B10)=3,IF(AND(B9>=0,B10>=B9,B10<=B6),\"ja\",\"prüfen\"),\"offen\")",
+          "cached": "ja"
+        }
+      ],
+      "cached_formula_count": 13,
+      "previous_sha256": "bc86ae1c1c8e38bd73d44a576b7de1b57d8dc0b02908c64fafccb049c0eff24c",
+      "visual_review": "Alle Blätter vollständig gerendert und visuell geprüft; keine abgeschnittenen Inhalte oder Überlagerungen."
+    }
+  ],
+  "builder_probes": [
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Grundentgelt",
+      "sheet": "Kosten",
+      "cell": "D6",
+      "expected": 791,
+      "actual": 791
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Bank",
+      "sheet": "Kosten",
+      "cell": "D7",
+      "expected": 174,
+      "actual": 174
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Differenz",
+      "sheet": "Kosten",
+      "cell": "D8",
+      "expected": 617,
+      "actual": 617
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo fehlende Monate",
+      "sheet": "Kosten",
+      "cell": "D10",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Kontrollsumme",
+      "sheet": "Buchungen",
+      "cell": "D14",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Null Zusatz",
+      "sheet": "Kosten",
+      "cell": "D11",
+      "expected": 791,
+      "actual": 791
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo 18 Zusatzmonate",
+      "sheet": "Kosten",
+      "cell": "D11",
+      "expected": 917,
+      "actual": 917
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Null Rest",
+      "sheet": "Kosten",
+      "cell": "D16",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo fehlende Rente",
+      "sheet": "Kosten",
+      "cell": "D15",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Null Oktober",
+      "sheet": "Kosten",
+      "cell": "D7",
+      "expected": 128,
+      "actual": 128
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Kontrolle reagiert",
+      "sheet": "Buchungen",
+      "cell": "D14",
+      "expected": -46,
+      "actual": -46
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Grundrate fehlt",
+      "sheet": "Kosten",
+      "cell": "D6",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Differenz bei fehlender Grundrate",
+      "sheet": "Kosten",
+      "cell": "D8",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Kostenanteil bei fehlender Grundrate",
+      "sheet": "Kosten",
+      "cell": "D16",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Zusatzrate fehlt",
+      "sheet": "Kosten",
+      "cell": "D10",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Gesamtsumme bei fehlender Zusatzrate",
+      "sheet": "Kosten",
+      "cell": "D11",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Journalwert fehlt",
+      "sheet": "Kosten",
+      "cell": "D13",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Erstattungsfeld fehlt",
+      "sheet": "Kosten",
+      "cell": "D7",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo Kontrollabgleich bei Datenluecke",
+      "sheet": "Buchungen",
+      "cell": "D14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-verbot-regnitz-sorglosabo geaenderte Laufzeit",
+      "sheet": "Kosten",
+      "cell": "D6",
+      "expected": 557,
+      "actual": 557
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Anzahl",
+      "sheet": "Ausspielung",
+      "cell": "D14",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Versionen",
+      "sheet": "Ausspielung",
+      "cell": "D15",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Medienproben",
+      "sheet": "Ausspielung",
+      "cell": "D16",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Dauer",
+      "sheet": "Schnittplan",
+      "cell": "B12",
+      "expected": 30,
+      "actual": 30
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Vorspann entfernt",
+      "sheet": "Schnittplan",
+      "cell": "B13",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Vorspann erhalten",
+      "sheet": "Schnittplan",
+      "cell": "B13",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Nullclip",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Anfang fehlt",
+      "sheet": "Schnittplan",
+      "cell": "B12",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Textbeleg nachgereicht",
+      "sheet": "Ausspielung",
+      "cell": "D15",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Medienprobe nachgereicht",
+      "sheet": "Ausspielung",
+      "cell": "D16",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Vorspannanfang fehlt",
+      "sheet": "Schnittplan",
+      "cell": "B13",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Anteil bei fehlendem Vorspannanfang",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Anteil bei fehlendem Vorspannende",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion zwei leere Versionskennungen",
+      "sheet": "Ausspielung",
+      "cell": "D10",
+      "expected": "abweichend/offen",
+      "actual": "abweichend/offen"
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Versionsluecke wird gezaehlt",
+      "sheet": "Ausspielung",
+      "cell": "D15",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "label": "ki-transparenz-pegnesus-redaktion Medienprobenstatus fehlt",
+      "sheet": "Ausspielung",
+      "cell": "D16",
+      "expected": "offen",
+      "actual": "offen"
+    }
+  ],
+  "imported_export_probes": [
+    {
+      "label": "Export: Grundgesamtpreis",
+      "sheet": "Kosten",
+      "cell": "D6",
+      "expected": 791,
+      "actual": 791
+    },
+    {
+      "label": "Export: Abgleich",
+      "sheet": "Kosten",
+      "cell": "D8",
+      "expected": 617,
+      "actual": 617
+    },
+    {
+      "label": "Export: offene Zusatzmonate",
+      "sheet": "Kosten",
+      "cell": "D10",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Null Zusatz",
+      "sheet": "Kosten",
+      "cell": "D11",
+      "expected": 791,
+      "actual": 791
+    },
+    {
+      "label": "Export: geänderte Zusatzdauer",
+      "sheet": "Kosten",
+      "cell": "D11",
+      "expected": 917,
+      "actual": 917
+    },
+    {
+      "label": "Export: Grundrate leer",
+      "sheet": "Kosten",
+      "cell": "D6",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Quotient mit fehlender Rate",
+      "sheet": "Kosten",
+      "cell": "D16",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Erstattungsfeld leer",
+      "sheet": "Kosten",
+      "cell": "D7",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Kontrollsumme bei Lücke",
+      "sheet": "Buchungen",
+      "cell": "D14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Nenner null",
+      "sheet": "Kosten",
+      "cell": "D16",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "label": "Export: offene Fassungen",
+      "sheet": "Ausspielung",
+      "cell": "D15",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "label": "Export: Clipdauer",
+      "sheet": "Schnittplan",
+      "cell": "B12",
+      "expected": 30,
+      "actual": 30
+    },
+    {
+      "label": "Export: kein Originalvorspann",
+      "sheet": "Schnittplan",
+      "cell": "B13",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "label": "Export: Vorspannanfang leer",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Vorspannende leer",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Nullclip",
+      "sheet": "Schnittplan",
+      "cell": "B14",
+      "expected": "n.a.",
+      "actual": "n.a."
+    },
+    {
+      "label": "Export: geänderter Schnitt",
+      "sheet": "Schnittplan",
+      "cell": "B13",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "label": "Export: beide Kennungen leer",
+      "sheet": "Ausspielung",
+      "cell": "D10",
+      "expected": "abweichend/offen",
+      "actual": "abweichend/offen"
+    },
+    {
+      "label": "Export: Probenstatus leer",
+      "sheet": "Ausspielung",
+      "cell": "D16",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "label": "Export: Ausgangswert wiederhergestellt",
+      "sheet": "Ausspielung",
+      "cell": "D16",
+      "expected": 0,
+      "actual": 0
+    }
+  ],
+  "counts": {
+    "worksheets_visually_reviewed": 5,
+    "cached_formulas": 23,
+    "builder_probes": 36,
+    "imported_export_probes": 20
+  },
+  "changes": [
+    "Fehlende Kosteneingaben werden als offen durch die Folgeformeln geführt; Nullwerte bleiben davon unterscheidbar.",
+    "Der Vorspannanteil behandelt fehlende Beginn-/Endzeit ohne Rechenfehler.",
+    "Zwei leere Versionskennungen werden nicht als gleich bewertet; fehlender Medienprobenstatus bleibt offen.",
+    "Nicht belegte konkrete Bankbuchungstage durch belegte Monate September/Oktober 2026 ersetzt.",
+    "Quellverweis der Zusatzrate auf den Prüfauftrag berichtigt; Zahlenabstände und eingabeabhängige Beschriftungen korrigiert."
+  ]
+}

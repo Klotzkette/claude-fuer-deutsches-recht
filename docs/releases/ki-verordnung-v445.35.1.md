@@ -8,7 +8,7 @@ Zweckbestimmung, Werbung und technische Dokumentation werden zusammen gewürdigt
 
 Technische Normen werden nach Ausgabe, Status, Gegenstand und nachgewiesener Anwendung unterschieden. Managementsystemzertifikat, Systemkonformität und Grundrechte-Folgenabschätzung sind getrennte Nachweise. Katalogangaben sind ausdrücklich keine gelesenen Normklauseln; eine behauptete Konformitätsvermutung benötigt die passende Amtsblattreferenz und ihren Anforderungsumfang.
 
-Acht amtlich gelesene Entscheidungen liefern konkrete Argumente zu Entscheidungseinfluss, verständlicher Erklärung, Geheimniseinwänden, Datenempfängern, Schadensnachweis, Kontrollverfahren und Normenwirkung. Jeder Anker benennt seine Grenzen. Es wird weder unmittelbare KI-VO-Rechtsprechung vorgetäuscht noch eine vollständige Recherche sämtlicher Entscheidungen des Jahres 2026 behauptet.
+Acht Entscheidungen mit am amtlichen Volltext gelesenen Randnummern liefern konkrete Argumente zu Entscheidungseinfluss, verständlicher Erklärung, Geheimniseinwänden, Datenempfängern, Schadensnachweis, Kontrollverfahren und Normenwirkung. Jeder Anker benennt seine Grenzen. Es wird weder unmittelbare KI-VO-Rechtsprechung vorgetäuscht noch eine vollständige Recherche sämtlicher Entscheidungen des Jahres 2026 behauptet.
 
 [Quellen und Prüfbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/ki-verordnung-2026-10-09-vertiefung/README.md).
 
