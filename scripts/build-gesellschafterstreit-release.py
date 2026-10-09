@@ -18,7 +18,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "gesellschafterstreit"
-VERSION = "445.34.1"
+VERSION = "445.34.2"
 CASES = (
     "gesellschafterstreit-zink-und-zunder",
     "gesellschafterstreit-klageerwiderung-berlin",

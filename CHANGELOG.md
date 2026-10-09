@@ -1,3 +1,9 @@
+# gesellschafterstreit-v445.34.2 – 2026-10-09
+
+Die Berliner Testakte erhält eine ausführliche Fassung der bestehenden Klage mit den zugehörigen Anlagen K1–K9. Mandatsmail und Nachrichtenbeleg werden darauf abgestimmt. Der gesonderte Nachtrag `Vergleich_2026-10-09` ergänzt fünf Dokumente in Word und PDF, darunter einen Vertragsentwurf, sowie sechs E-Mails zur Vergleichsverhandlung.
+
+Pluginversion und aktive Downloadverweise werden auf das eigene Komponentenrelease 445.34.2 angehoben. Gesamt-PDF und beide Berliner Akten-ZIPs werden aus dem erweiterten Bestand gebaut. Die anderen Testakten, Skills, Prompts und juristischen Referenzen bleiben fachlich unverändert; bestehende Veröffentlichungen werden nicht überschrieben.
+
 # ki-verordnung-v445.35.2 – 2026-10-09
 
 - Redaktioneller Nachlauf zur KI-Fachrunde: neue README- und Referenzüberschriften dezimal gegliedert, bisherige Sprungziele erhalten.

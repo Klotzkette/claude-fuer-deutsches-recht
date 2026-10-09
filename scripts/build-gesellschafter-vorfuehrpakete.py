@@ -25,6 +25,16 @@ TITLES = {
 }
 ROOT = Path(__file__).resolve().parents[1]
 ADDENDUM = 'Nachtrag_2026-10-08'
+SETTLEMENT = 'Vergleich_2026-10-09'
+
+
+def source_group(path, case):
+    first = path.relative_to(case).parts[0]
+    if first == SETTLEMENT:
+        return 2, 'Vergleich 09.10.2026'
+    if first == ADDENDUM:
+        return 1, 'Nachtrag 08.10.2026'
+    return 0, 'Kernbestand 02.10.2026'
 
 
 def sources(case):
@@ -32,7 +42,7 @@ def sources(case):
     if case.name not in TITLES:
         raise ValueError('Keine unterstützte Gesellschaftsrechtsakte: ' + case.name)
     return sorted((p for p, _ in document_arcname_pairs(case)), key=lambda p: (
-        p.relative_to(case).parts[0] == ADDENDUM,
+        source_group(p, case)[0],
         p.relative_to(case).as_posix().casefold(),
     ))
 
@@ -42,7 +52,7 @@ def register_layout(paths, case, style):
     pages, current, used, previous = [], [], 0, None
     for path in paths:
         relative = path.relative_to(case).as_posix()
-        group = 'Nachtrag 08.10.2026' if relative.startswith(ADDENDUM + '/') else 'Kernbestand 02.10.2026'
+        group = source_group(path, case)[1]
         paragraph = Paragraph(escape(relative), style)
         _, height = paragraph.wrap(438, 1000)
         row_height = max(29, height + 8)
@@ -97,7 +107,10 @@ def build_release_pdf(case):
         canvas.setFont('VortragRegister',10)
         canvas.drawString(48,767,subtitle)
         date_label = 'Kernstand 02.10.2026 | Nachtrag 08.10.2026' if has_addendum else 'Aktenstand 02.10.2026'
-        canvas.drawString(48,746,date_label + ' | Dokumentenregister')
+        if any(SETTLEMENT in p.relative_to(case).parts for p in paths):
+            date_label += ' | Vergleich 09.10.2026'
+        canvas.drawString(48,746,date_label)
+        canvas.drawString(48,731,'Dokumentenregister')
         y = 713
         for path, para, height, row_height, group in entries:
             if group:

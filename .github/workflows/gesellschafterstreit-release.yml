@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag gesellschafterstreit-v445.34.1
+        description: Komponententag gesellschafterstreit-v445.34.2
         required: true
-        default: gesellschafterstreit-v445.34.1
+        default: gesellschafterstreit-v445.34.2
 
 permissions:
   contents: write
@@ -42,10 +42,11 @@ jobs:
       - name: Version und Quellen prüfen
         run: |
           VERSION=$(python3 -c "import json;print(json.load(open('gesellschafterstreit/.claude-plugin/plugin.json'))['version'])")
-          test "$VERSION" = "445.34.1"
+          test "$VERSION" = "445.34.2"
           test "gesellschafterstreit-v$VERSION" = "$TAG"
           test -s "docs/releases/$TAG.md"
           python3 scripts/test-gesellschafter-vorfuehrakten.py
+          python3 scripts/test-gesellschafterstreit-vergleich.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-gesellschafterstreit-update.py
       - name: PDFs und Pakete

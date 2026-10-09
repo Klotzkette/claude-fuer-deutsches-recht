@@ -31,60 +31,163 @@ Anlagen: 02_Klage_Seidel.docx; 03_Gerichtliche_Verfuegung.pdf
 '''),
 D('02_Klage_Seidel.docx', 'Klage', '22.09.2026', '''
 In dem Rechtsstreit des Herrn Gottfried Seidel, Florastraße 78, 13187 Berlin,
-Kläger, Prozessbevollmächtigte: Rechtsanwältin Walburga Fürst, Kanzlei Fürst, Berliner Straße 91, 13189 Berlin,
-gegen die Spreebogen Lichtwerk GmbH, Mühlenstraße 64, 13187 Berlin, vertreten durch die Geschäftsführerin Kunigunde Rabenstein,
-Beklagte, wegen Beschlussanfechtung, vorläufiger Streitwert: 25000 EUR,
+Kläger,
+Prozessbevollmächtigte: Rechtsanwältin Walburga Fürst, Kanzlei Fürst, Berliner Straße 91, 13189 Berlin,
+gegen die Spreebogen Lichtwerk GmbH, Mühlenstraße 64, 13187 Berlin, eingetragen beim Amtsgericht Charlottenburg unter HRB 241806 B, vertreten durch die einzelvertretungsberechtigte Geschäftsführerin Kunigunde Rabenstein,
+Beklagte,
+wegen Anfechtung eines Abberufungsbeschlusses,
+vorläufiger Streitwert: 25000 EUR,
 erheben wir namens und in Vollmacht des Klägers Klage.
 
 ## 1. Anträge
 
-1.1. Der unter Tagesordnungspunkt 2 in der Gesellschafterversammlung der Beklagten vom 9. September 2026 festgestellte Beschluss, Herrn Gottfried Seidel aus wichtigem Grund mit sofortiger Wirkung als Geschäftsführer abzuberufen, wird für nichtig erklärt.
+1.1. Der in der Gesellschafterversammlung der Spreebogen Lichtwerk GmbH vom 9. September 2026 unter dem zweiten Tagesordnungspunkt, bezeichnet in Ziffer 1.2 der Einladung vom 26. August 2026, als angenommen festgestellte Beschluss mit dem Wortlaut „Herr Gottfried Seidel wird aus wichtigem Grund mit sofortiger Wirkung als Geschäftsführer der Spreebogen Lichtwerk GmbH abberufen“ wird für nichtig erklärt.
 
-1.2. Hilfsweise wird festgestellt, dass der vorgenannte Beschluss nichtig ist.
+1.2. Hilfsweise, für den Fall, dass das Gericht eine durch Anfechtungsurteil zu beseitigende Beschlusswirkung verneint, wird festgestellt, dass durch die unter Ziffer 1.1 bezeichnete Beschlussfassung eine wirksame Abberufung des Klägers als Geschäftsführer der Beklagten nicht zustande gekommen ist.
 
 1.3. Die Beklagte trägt die Kosten des Rechtsstreits.
 
-Wir beantragen die Anordnung des schriftlichen Vorverfahrens. Für den Fall der Säumnis werden die gesetzlichen Anträge angekündigt. Die Klage wird elektronisch eingereicht. Der Kläger wendet sich ausschließlich gegen die Organabberufung; Vergütungsansprüche sind nicht Gegenstand dieser Klage.
+Es wird die Anordnung des schriftlichen Vorverfahrens angeregt. Für den Fall, dass die Beklagte ihre Verteidigungsbereitschaft nicht rechtzeitig anzeigt, wird der Erlass eines Versäumnisurteils nach Paragraf 331 Absatz 3 ZPO beantragt, soweit dessen Voraussetzungen vorliegen. Der Kläger begehrt ausschließlich die Klärung seiner Organstellung aufgrund des bezeichneten Beschlusses. Vergütung, Beendigung seines Anstellungsvertrags, Zahlungsansprüche aus dem Einkauf und Veränderungen seiner Beteiligung sind nicht Gegenstand dieser Klage.
 
-## 2. Gesellschaft und Bestellung
+## 2. Gesellschaftsverhältnisse und Maßstab der Geschäftsführung
 
-Der Kläger hat 2019 gemeinsam mit Frau Rabenstein den Betrieb aufgebaut. Er hält den Geschäftsanteil Nr. 2 mit einem Nennbetrag von 8750 EUR, entsprechend 35 Prozent. Frau Rabenstein hält 40 Prozent und Frau Ottilie Heller 25 Prozent des Stammkapitals von 25000 EUR. Der Kläger ist seit Gründung Geschäftsführer für Technik und Einkauf. Frau Rabenstein betreut Vertrieb und Personal. Beide sind einzeln vertretungsberechtigt. Der Gesellschaftsvertrag beschränkt die Abberufung auf einen wichtigen Grund. Der Kläger hat der Gesellschaft weder den Rücken gekehrt noch Betriebsmittel entzogen.
+## 2.1. Beteiligungen und Organstellung
 
-Beweis: Gesellschaftsvertrag vom 18. Juni 2019, Anlage K1; Gesellschafterliste vom selben Tag, Anlage K2; Registerauszug vom 21. September 2026, Anlage K3.
+Die Beklagte plant, montiert und wartet Beleuchtungs- und Steuerungstechnik für Bühnen und Veranstaltungsräume. Der Kläger hat den Betrieb 2019 gemeinsam mit Frau Rabenstein aufgebaut. Das Stammkapital beträgt 25000 EUR. Frau Rabenstein hält den Geschäftsanteil Nr. 1 über 10000 EUR, der Kläger den Geschäftsanteil Nr. 2 über 8750 EUR und Frau Heller den Geschäftsanteil Nr. 3 über 6250 EUR. Das entspricht 40, 35 und 25 Prozent. Eine Veränderung dieser Beteiligungen ist nicht erfolgt.
 
-## 3. Einladung und Versammlung
+Der Kläger und Frau Rabenstein wurden in Ziffer 3.2 des Gesellschaftsvertrags zu Geschäftsführern bestellt und jeweils zur Einzelvertretung ermächtigt. Eine Befreiung von Paragraf 181 BGB wurde ihnen nicht erteilt. Der Registerausdruck vom 21. September 2026 führt beide weiterhin als Geschäftsführer. Der Kläger stützt seine Klage allerdings nicht allein auf diesen Registerstand, sondern auf die Unwirksamkeit der gegen ihn beschlossenen Maßnahme.
 
-Die Einladung vom 26. August 2026 ging dem Kläger am 28. August per Einschreiben zu. Sie nennt als Grund einer Abberufung eine Zahlung an die Seidel Bühnenservice e.K. und fehlende Einkaufsfreigaben. Der Kläger nahm teil. Frau Heller leitete die Versammlung. Bei Tagesordnungspunkt 2 erklärte der Kläger sein Nein; Frau Rabenstein stimmte dafür. Frau Heller enthielt sich. Anschließend erklärte Frau Heller, die Stimme des Klägers zähle wegen eines wichtigen Grundes nicht, und stellte die Annahme des Antrags fest. Der Kläger widersprach der Zählung und dem Ergebnis noch im Raum. Seine Stellungnahme wurde nicht wörtlich aufgenommen.
+Beweis: Gesellschaftsvertrag vom 18. Juni 2019, Anlage K1; Gesellschafterliste, Anlage K2; aktueller Registerausdruck vom 21. September 2026, Anlage K3.
 
-Beweis: Einladung nebst Anlage, Anlage K4; Niederschrift vom 9. September 2026, Anlage K5. Frau Ottilie Heller ist unter der Anschrift der Beklagten zu laden.
+## 2.2. Zustimmungsvorbehalte und Abberufungsschutz
 
-Der Kläger bekam die vollständige Niederschrift am 11. September 2026 per E-Mail. Er hat weder einer Behandlung außerhalb der angekündigten Gegenstände noch einem Verzicht auf seine Stimme zugestimmt. Die beigefügte Niederschrift wird insoweit als Urkunde vorgelegt, nicht als inhaltlich richtig anerkannt.
+Der Kläger verantwortete Technik, Materialeinkauf und Baustellenkoordination; Frau Rabenstein betreute Vertrieb und Personal. Ziffer 3.3 des Gesellschaftsvertrags verlangt vor Geschäften mit Gesellschaftern oder ihren beherrschten Unternehmen die Zustimmung der Gesellschafterversammlung. Hinzu kommt die von sämtlichen Gesellschaftern am 10. Januar 2025 beschlossene Geschäftsordnung. Danach sind Einzelbestellungen über 10000 EUR brutto vor Beauftragung dem jeweils anderen Geschäftsführer mit Leistungsumfang, Preis, Liefertermin und Vergleichsangebot vorzulegen. Die Zustimmung ist in Textform zu sichern. Auch die Zahlung setzt eine entsprechende Freigabe voraus.
 
-## 4. Der Auftrag Lindenhof
+Der Kläger stellt diese Regelungen nicht in Abrede. Die technische Einzelberechtigung im Bankportal ersetzte keine interne Zustimmung. Auch war ein drohender Kundenterminverlust nach der Geschäftsordnung keine allgemeine Ausnahme. Streit besteht darüber, ob die konkrete Handhabung und die anschließend unvollständige Dokumentation unter Berücksichtigung der gesamten Umstände eine sofortige Abberufung rechtfertigten.
 
-Die Seidel Bühnenservice e.K. gehört dem Kläger. Sie hat für den Auftrag des Kulturhauses Lindenhof kurzfristig Material beschafft und sechs gebrauchte Steuergeräte überholt. Die Beklagte konnte die Wiedereröffnung sonst nicht termingerecht bedienen. Frau Rabenstein wusste von der Beauftragung. Am 19. August schrieb sie im betrieblichen Nachrichtenaustausch: „Dann mach das, aber ich brauche die endgültige Zahl.“ Der Kläger verstand dies als Freigabe. Er bestreitet, die Gesellschaft hintergangen zu haben.
+Ziffer 5.3 des Gesellschaftsvertrags lässt die Abberufung ausschließlich bei einem wichtigen Grund zu. Organstellung und Anstellungsvertrag sind ausdrücklich getrennt. Eine Kündigung des Anstellungsvertrags wurde am 9. September nicht beschlossen. Die Gesellschaft hat sich damit bewusst gegen die jederzeitige freie Abberufbarkeit entschieden.
 
-Die Rechnung SBS-2026-084 vom 20. August lautet über 18400 EUR brutto. Sie wurde am 21. August bezahlt. Teile des Materials waren am 24. August im Betrieb; der Rest wurde auf der Baustelle eingebaut. Der Kläger nahm an, die vereinbarte Gegenzeichnung könne wegen der Eile nachgereicht werden. Die vorhandene Preisübersicht nannte zunächst 14900 EUR brutto. Der Aufpreis ergab sich aus vier zusätzlichen Arbeitsstunden und einem kurzfristigen Zukauf. Die Rechnung enthält die endgültigen Positionen.
+Beweis: Anlage K1, Ziffern 3.2, 3.3, 5.1 und 5.3; Geschäftsordnung vom 10. Januar 2025, bei der Beklagten in der Datei 09_Geschaeftsordnung.docx und als unterschriebene Ausfertigung im Ordner „Gesellschaft / 2025“ vorhanden. Deren Vorlage wird nach Paragraf 142 Absatz 1 ZPO angeregt.
 
-Beweis: Rechnung, Anlage K6; Nachrichtenaustausch, Anlage K7; Zeugnis des Herrn Tassilo Brandt, Werkstattleiter der Beklagten, zu laden über diese. Eine schriftliche Auftragserteilung an die Einzelfirma ist dem Kläger derzeit nicht zugänglich. Die Geschäftsführung hat seinen Zugang zur Einkaufsablage gesperrt. Der Kläger bittet um Vorlage der vollständigen Nachrichtendatei und der Wareneingangsbuchung.
+## 3. Der Einkauf für das Kulturhaus Lindenhof
 
-## 5. Ablauf und Einwände
+## 3.1. Ausfall des Lieferanten und Nachrichten vom 19. August
 
-Der Kläger hat Frau Rabenstein am 24. August mündlich auf die Zahlung hingewiesen. Am 27. August erhielt er eine schriftliche Beanstandung. Seine schriftliche Antwort vom 31. August erläutert den Zeitdruck und bietet eine gemeinsame Durchsicht der Belege an. Ein Gespräch fand vor der Versammlung nicht statt. Die Beklagte hatte nach seiner Wahrnehmung sämtliche Geräte, Kabel und Leistungen erhalten. Ein finanzieller Schaden ist nicht dargelegt. Die Beklagte verkürzt die Angelegenheit auf eine fehlende Gegenzeichnung, obwohl sie den Auftrag wirtschaftlich wollte.
+Im August 2026 musste die Beklagte die Bühnensteuerung des Kulturhauses Lindenhof für dessen Wiedereröffnung fertigstellen. Der ursprünglich vorgesehene Lieferant konnte den Termin nicht einhalten. Der Kläger schlug deshalb vor, über seine Einzelfirma Seidel Bühnenservice e.K. sechs gebrauchte Steuergeräte zu beschaffen beziehungsweise aufzuarbeiten und Einbauhilfe zu leisten. Er teilte Frau Rabenstein am 19. August um 07:46 Uhr mit, dass die erste Kalkulation 14900 EUR brutto betrage und möglicherweise ein Expresszuschlag hinzukomme. Die Einschaltung seines eigenen Unternehmens wurde damit vor Durchführung offengelegt.
 
-Beweis: Beanstandung vom 27. August und Antwort vom 31. August, Anlagen K8 und K9. Für die Mitteilung am 24. August wird Parteivernehmung angeboten; ein unabhängiger Zeuge war nicht anwesend.
+Frau Rabenstein antwortete um 08:04 Uhr: „Dann mach das, aber ich brauche die endgültige Zahl. Nichts ohne den Preisabgleich. Schick mir das andere Angebot und frag Ottilie wegen der Gesellschafterfreigabe.“ Der Kläger antwortete um 08:07 Uhr, er sei schon unterwegs und liefere nach. Diese vollständige Nachricht ist zugrunde zu legen. Der Kläger beruft sich nicht auf eine verkürzte, vorbehaltlose schriftliche Genehmigung des endgültigen Preises. Er verstand die Antwort jedoch als Einverständnis mit der Ersatzbeschaffung als solcher und nahm irrig an, die erforderliche Dokumentation und Gegenzeichnung nachreichen zu können.
 
-Die behaupteten älteren Freigabeverstöße wurden bei der Versammlung nicht konkret benannt. Eine Zahlungsaufforderung auf Rückerstattung liegt nicht vor. Der Kläger ist bereit, den unklaren Mehrbetrag anhand von Stundenaufzeichnungen aufzuklären. Er erkennt eine Pflichtverletzung dadurch nicht an.
+Beweis: Nachrichtenverlauf vom 19. bis 21. August 2026, Anlage K7; ergänzend persönliche Anhörung des Klägers. Eine weitere, endgültige telefonische Preisfreigabe wird mit dieser Klage nicht behauptet.
 
-## 6. Rechtliche Begründung
+## 3.2. Rechnung und Zahlung
 
-Die Beklagte muss die in ihrer Satzung vorausgesetzten Tatsachen eines wichtigen Grundes darlegen. Ein bloßer Vertrauensverlust aus dem Streit der Gesellschafter genügt nach Auffassung des Klägers nicht. Maßgeblich ist der tatsächliche Sachverhalt bei Beschlussfassung; dazu wird auf BGH, Urteil vom 4. April 2017, II ZR 77/16, Randnummern 9 bis 17, verwiesen. Der Kläger beruft sich auf Paragraf 38 Absatz 2 GmbHG und Ziffer 5.3 des Gesellschaftsvertrags.
+Die Rechnung SBS-2026-084 vom 20. August 2026 weist sechs überholte Steuergeräte zu jeweils 1950 EUR netto, zusammen 11700 EUR, Kabelsatz und Sonderstecker für 1900 EUR, Transport und Einbauunterstützung für 1000 EUR sowie Expressbeschaffung und Zusatzarbeit für 862,18 EUR aus. Die Nettosumme beträgt 15462,18 EUR, die Umsatzsteuer 2937,82 EUR und der Endbetrag 18400 EUR. Der Kläger übersandte die Rechnung an die Buchhaltung und teilte Frau Rabenstein am 20. August um 18:44 Uhr den Endbetrag mit. Dabei erklärte er, zwei Geräte habe er andernorts beschaffen müssen.
 
-Die Berufung auf ein Stimmverbot ersetzt keinen Nachweis. Außerdem bestreitet der Kläger, dass die Verfahrensleitung einen abschließenden Feststellungsauftrag besaß. Die Satzungsfrist wird durch die vorliegende Klage gewahrt. Der Gerichtskostenvorschuss wird nach Zugang der Kostenrechnung unverzüglich geleistet.
+Am 21. August veranlasste der Kläger die Überweisung an seine Einzelfirma. Das Beanstandungsschreiben nennt hierfür 07:43 Uhr. Frau Rabenstein hatte im Nachrichtenkanal um 07:31 Uhr verlangt, vor der gemeinsamen Durchsicht noch nicht zu zahlen. Der Kläger hat diese Nachricht nach seiner Erinnerung erst nach Ausführung der Überweisung gelesen. Er bestreitet deshalb, eine bereits gelesene konkrete Zahlungsuntersagung bewusst übergangen zu haben. Die zeitliche Reihenfolge von Nachricht und Bankauftrag beweist für sich noch nicht den Zeitpunkt seiner Kenntnisnahme.
 
-## 7. Anlagen und Abschluss
+Der Kläger hatte keinen förmlichen Gesellschafterbeschluss eingeholt. Er erteilte den Auftrag an seine Einzelfirma selbst. Die ursprüngliche Zahl von 14900 EUR war vorläufig; gegenüber dem Rechnungsbetrag besteht eine Differenz von 3500 EUR brutto. Der Kläger führte diese auf zusätzliche Arbeit und kurzfristigen Zukauf zurück. Er benennt vier zusätzliche Arbeitsstunden, verfügt aber derzeit über keine geschlossene, zeitgleich erstellte Überleitung des gesamten Mehrbetrags. Die Klage behauptet deshalb weder einen durchgängigen Rechnungsnachweis noch einen von allen Gesellschaftern genehmigten Endpreis.
 
-K1 Gesellschaftsvertrag; K2 Gesellschafterliste; K3 Registerauszug; K4 Einladung; K5 Niederschrift; K6 Rechnung SBS-2026-084; K7 Nachrichtenverlauf; K8 Beanstandung; K9 Antwort Seidel. Diese Unterlagen sind der Klage als gesonderte Dateien beigefügt.
+Beweis: Rechnung, Anlage K6; vollständiger Nachrichtenverlauf, Anlage K7; Beanstandung, Anlage K8; Antwort des Klägers, Anlage K9. Zur ausgeführten Zahlung wird ergänzend die Vorlage der bezeichneten Buchung SBS-2026-084 vom 21. August 2026 im Bankprotokoll der Beklagten nach Paragraf 142 Absatz 1 ZPO angeregt.
+
+## 3.3. Lieferumfang und verbleibende Nachweise
+
+Der Kläger trägt vor, dass die abgerechneten Geräte und Materialien dem Lindenhof-Auftrag zugutekamen. Vier Geräte lieferte er am 24. August zur Werkstatt der Beklagten. Zwei weitere Geräte brachte er nach seiner Darstellung bereits am Samstag, dem 22. August, unmittelbar zur Bühne. Hierfür erhielt er keinen unterschriebenen Lieferschein. Seine Fotos zeigen Verpackungen, keine lesbaren Seriennummern. Der Werkstattbeleg über vier Geräte wird deshalb nicht als Beleg für die zusätzliche Direktlieferung ausgegeben.
+
+Beweis für die Annahme der vier Geräte in der Werkstatt: Zeugnis des Werkstattleiters Tassilo Brandt, zu laden über die Beklagte, Mühlenstraße 64, 13187 Berlin; Wareneingang WE-0824 vom 24. August 2026, dessen Vorlage aus dem Besitz der Beklagten angeregt wird. Hinsichtlich der unmittelbaren Lieferung am 22. August wird die Vernehmung des Klägers als Partei mit Zustimmung der Beklagten nach Paragraf 447 ZPO angeboten; andernfalls wird seine persönliche Anhörung angeregt. Herr Brandt wird nicht als Augenzeuge einer Lieferung auf der Baustelle benannt, bei der er nicht anwesend war.
+
+Der Auftrag wurde fertiggestellt und vom Kunden bezahlt. Das begründet nach Auffassung des Klägers ein erhebliches Indiz für einen wirtschaftlich nutzbaren Leistungseinsatz. Es ersetzt aber weder die Zuordnung jedes abgerechneten Geräts noch eine Prüfung des Preises. Der Kläger beantragt, die Beklagte zur Erklärung über die Fertigstellung und den Zahlungseingang aufzufordern. Die Behauptung einer vollständigen Lieferung bleibt insoweit beweisbedürftig, als sie über den Werkstattbeleg hinausgeht.
+
+## 4. Beanstandung und Gesellschafterversammlung
+
+## 4.1. Aufklärungsbemühungen vor dem Beschluss
+
+Am 24. August erläuterte der Kläger Frau Rabenstein im Büro die Zahlung und den aus seiner Sicht erforderlichen kurzfristigen Einkauf. Für den Gesprächsinhalt aus eigener Wahrnehmung wird seine Parteivernehmung nach Paragraf 447 ZPO mit Zustimmung der Beklagten, hilfsweise seine persönliche Anhörung, angeboten. Der Kläger verfügt über keine vollständige Gesprächsaufzeichnung.
+
+Am 27. August übergab Frau Rabenstein ihm die schriftliche Beanstandung. Verlangt wurden bis zum 31. August der Bestellvorgang, Fremdrechnungen und Angaben zum Verbleib der sechs Geräte. Sie verwies auf die fehlende Gesellschafterzustimmung und den Preisvergleich. Die angebliche Äußerung, die Buchhaltung solle sich nicht in die Technik einmischen, wird bestritten, soweit daraus eine dauerhafte Verweigerung jeder Rechnungskontrolle abgeleitet wird.
+
+Der Kläger antwortete am 31. August schriftlich. Er räumte ein, keinen förmlichen Beschluss eingeholt zu haben, erläuterte die behauptete Direktlieferung und bot eine gemeinsame Kalkulationsdurchsicht sowie gegebenenfalls eine Gutschrift für eine nicht belegbare Position an. Eine Rückzahlung des Gesamtbetrags oder ein Schuldeingeständnis lehnte er ab. Die in Aussicht gestellte vollständige Belegaufbereitung war bis zur Versammlung nicht abgeschlossen. Sein Angebot zur sachlichen Prüfung blieb bestehen; eine gemeinsame vollständige Belegdurchsicht fand zuvor nicht statt.
+
+Beweis: Beanstandung vom 27. August, Anlage K8; Antwort vom 31. August, Anlage K9; zur noch offenen Dokumentation und den Erklärungen in der Versammlung Anlage K5.
+
+## 4.2. Einladung, Aussprache und Abstimmung
+
+Die Einladung vom 26. August ging dem Kläger am 28. August per Einschreiben zu. Sie benannte die Eigenbeauftragung, die Zahlung von 18400 EUR ohne vorherigen Gesellschafterbeschluss und die Missachtung der Geschäftsordnung. Der Kläger macht keinen allein aus diesen Daten hergeleiteten Einladungsfristverstoß geltend. Sämtliche Gesellschafter erschienen am 9. September; das gesamte Stammkapital war vertreten. Frau Heller wurde mit allen 25000 Stimmen zur Versammlungsleiterin gewählt.
+
+Frau Rabenstein hielt dem Kläger die fehlenden Freigaben und Nachweise vor. Er verwies auf den Zeitdruck, seine Auslegung der Nachricht und die noch zu vervollständigenden Unterlagen. Frau Heller erklärte, sie könne über die vier im Werkstattbeleg erfassten Geräte hinaus den Lieferumfang und die Montagezeiten nicht beurteilen. Der Kläger widersprach der Forderung nach einer Rückzahlungserklärung. Über eine solche Erklärung wurde nicht abgestimmt.
+
+Für die Abberufung stimmte Frau Rabenstein mit 10000 Stimmen. Der Kläger stimmte mit 8750 Stimmen dagegen. Frau Heller enthielt sich mit 6250 Stimmen. Sie zählte die Nein-Stimmen des Klägers wegen seiner Betroffenheit nicht und stellte die Annahme des Abberufungsantrags fest. Der Kläger widersprach ausdrücklich dem Stimmrechtsausschluss, der Feststellung und der Abberufung. Die Niederschrift ging ihm am 11. September zu. Über eine Kündigung des Anstellungsvertrags oder Schadensersatz wurde nicht beschlossen.
+
+Beweis: Einladung, Anlage K4; Niederschrift, Anlage K5; Zeugnis der Ottilie Heller, zu laden über die Beklagte. Ihre Vernehmung wird für Wahl, Abstimmung, Ergebnisfeststellung und Widerspruch sowie die von ihr selbst abgegebenen Erklärungen angeboten, nicht für ihr unbekannte Lieferhandlungen. Die Urkundenvorlage bedeutet keine Anerkennung sämtlicher zusammengefasster Wertungen im Protokoll.
+
+## 5. Zulässigkeit und Umfang des Rechtsschutzes
+
+## 5.1. Zuständigkeit, Parteien und Klagefrist
+
+Das Landgericht Berlin II ist bei dem vorläufig mit 25000 EUR bewerteten Interesse nach Paragraf 71 Absatz 1 GVG sachlich und wegen des Sitzes der Beklagten nach Paragraf 17 Absatz 1 ZPO örtlich zuständig. Der Streitwert berücksichtigt die Bedeutung der bestrittenen Organstellung; er ist nicht mit dem Rechnungsbetrag gleichzusetzen. Der Kläger ist als unverändert beteiligter Gesellschafter zur Anfechtung des ihn betreffenden Beschlusses befugt. Beklagte ist nach Ziffer 8.1 der Satzung die Gesellschaft. Im Rubrum ist ihre weitere einzelvertretungsberechtigte Geschäftsführerin bezeichnet. Die Zuständigkeit der Gesellschafter für die Prozessvertretung nach Paragraf 46 Nummer 8 GmbHG bleibt hiervon unberührt.
+
+Ziffer 8.1 der Satzung bestimmt eine Monatsfrist. Weil der Kläger an der Versammlung teilnahm und das Ergebnis ausdrücklich festgestellt wurde, ist für ihn bereits der 9. September maßgeblich; der Zugang der Niederschrift am 11. September verschiebt den Beginn nicht. Die Klage wird am 22. September und damit vor Ablauf am 9. Oktober 2026 eingereicht. Es wird um unverzügliche Zustellung gebeten. Der Gerichtskostenvorschuss wird nach Eingang der Kostenanforderung unverzüglich gezahlt; für eine demnächst erfolgende Zustellung wird auf Paragraf 167 ZPO verwiesen.
+
+## 5.2. Beschlussfeststellung und Hilfsantrag
+
+Die Klage richtet sich vorrangig auf die Beseitigung des ausdrücklich festgestellten Beschlusses. Ziffer 4.3 der Satzung ermächtigt die gewählte Versammlungsleiterin zur Feststellung von Ergebnis und Annahme. Der Kläger bestreitet deshalb nicht allein wegen der fehlenden anwaltlichen Begleitung ihre Feststellungskompetenz. Die gerichtliche Kontrolle der materiellen Voraussetzungen wird durch diese Kompetenz jedoch nicht ausgeschlossen.
+
+Der Hilfsantrag erfasst ausschließlich den Fall, dass das Gericht eine durch Anfechtung zu beseitigende Wirkung der bezeichneten Feststellung verneint. Das Feststellungsinteresse nach Paragraf 256 Absatz 1 ZPO ergibt sich daraus, dass die Beklagte die Organstellung als beendet behandelt und die Registeranmeldung angekündigt hat. Die konkrete Rechtsunsicherheit besteht bereits jetzt. Beantragt wird weder eine neue Bestellung noch eine Feststellung über unbekannte künftige Beschlüsse. Ein gesonderter Zahlungs- oder Beschäftigungsantrag wird nicht erhoben.
+
+## 6. Begründetheit
+
+## 6.1. Maßgeblich ist ein tatsächlich bestehender wichtiger Grund
+
+Der Beschluss verletzt Ziffer 5.3 der Satzung in Verbindung mit Paragraf 38 Absatz 2 GmbHG. Die Satzung bindet die Abberufung an einen wichtigen Grund. Die Gesellschaftermehrheit durfte diese Voraussetzung weder durch die Bezeichnung des Antrags noch durch die Nichtberücksichtigung der Klägerstimmen ersetzen.
+
+Nach BGH, Urteil vom 04.04.2017 – Az. II ZR 77/16, amtlicher Volltext, ECLI:DE:BGH:2017:040417UIIZR77.16.0, Randnummern 9 und 14, ist im Beschlussprozess entscheidend, ob bei Beschlussfassung objektiv ein wichtiger Grund bestand. Wer sich darauf beruft, trägt die Darlegungs- und Beweislast. Hier betrifft dies die Beklagte. Randnummer 17 verlangt für die Unzumutbarkeit weiterer Geschäftsführung eine Abwägung sämtlicher Umstände. Die Entscheidung rechtfertigt damit weder eine automatische Abberufung bei jeder internen Pflichtverletzung noch deren generelle Unwirksamkeit bei fehlendem Vermögensschaden.
+
+## 6.2. Eigenbeauftragung und fehlende Freigaben
+
+Die fehlende Gesellschafterzustimmung ist ein ernstzunehmender Vorwurf. Nach Paragraf 37 Absatz 1 GmbHG hatte der Kläger interne Beschränkungen zu beachten. Sein Aufgabenbereich Technik und die Einzelvertretung entbanden ihn davon nicht. Ebenso wenig ersetzte Frau Rabensteins Nachricht einen Gesellschafterbeschluss. Der Kläger stützt seine Verteidigung gegen die Abberufung deshalb auf die konkrete Schwere des Vorgangs und dessen beherrschbare Folgen, nicht auf eine Aufhebung der Satzungsregel durch Zeitdruck.
+
+Auch Paragraf 181 BGB ist zu berücksichtigen: Der Kläger handelte nach eigener Darstellung auf beiden Seiten des Geschäfts und besaß keine allgemeine Befreiung. Eine wirksame besondere Gestattung oder spätere Genehmigung wird nicht als bereits bewiesen vorgetragen. Aus der möglichen Unwirksamkeit des Liefergeschäfts folgt jedoch nicht ohne weitere Würdigung die Unzumutbarkeit seiner weiteren Organstellung. Rechtsgeschäftliche Wirksamkeit, interne Pflichtverletzung und Abberufungsgrund sind jeweils gesondert zu beurteilen.
+
+Gegen eine gezielte Schädigung sprechen die Offenlegung der eigenen Firma bereits vor der Beschaffung, die Mitteilung des Endbetrags vor Zahlung und das nachfolgende Angebot einer überprüfbaren Abrechnung. Ein bewusstes Zuwiderhandeln gegen eine gelesene Zahlungsuntersagung wird bestritten. Die Beklagte muss insbesondere zwischen dem sicheren Fehlen formeller Freigaben und dem weitergehenden Vorwurf absichtlicher Missachtung einer konkreten Nachricht unterscheiden.
+
+## 6.3. Lieferstreit und Interessenabwägung
+
+Aus dem Werkstattbeleg über vier Geräte folgt nicht zwingend, dass zwei weitere Geräte niemals auf die Baustelle gelangten. Umgekehrt beweist die Fertigstellung des Kundenauftrags nicht die vollständige Erfüllung der Rechnung der Einzelfirma. Die noch offene Gerätezuordnung und Kalkulation verlangen Aufklärung. Ein vorsätzliches Abrechnen nicht erbrachter Leistungen ist mit den vorgelegten Unterlagen nicht belegt. Der Kläger hält an seiner Darstellung fest und stellt sich der Beweisaufnahme.
+
+Die Abwägung muss zugleich den Betrag von 18400 EUR, die Nähe zum eigenen wirtschaftlichen Interesse und die verspäteten Belege berücksichtigen. Auf Klägerseite stehen seine seit Gründung ausgeübte technische Leitung, seine Kenntnisse der Installationen, der tatsächlich fertiggestellte Auftrag und das Angebot, unbelegte Positionen zu korrigieren. Ein bezifferter Schaden ist bislang nicht dargelegt. Das allein entscheidet den Prozess nicht, mindert aber das Gewicht eines Vorwurfs, der die Zahlung ohne Bewertung der Gegenleistung als vollständigen Vermögensverlust behandelt.
+
+Am 9. September waren nach Auffassung des Klägers weniger einschneidende Kontrollen ausreichend: Belegprüfung mit verbindlicher Nachfrist, Ausschluss eigenständiger Freigabe von Zahlungen an die Einzelfirma und gemeinsame Zahlungsfreigaben. Dies sind keine bereits beschlossenen Maßnahmen, sondern naheliegende Alternativen, deren Eignung bei der Abwägung zu prüfen war. Der Kläger hatte Aufklärung und gegebenenfalls Gutschrift angeboten. Seine Weigerung, den gesamten Rechnungsbetrag ohne Prüfung zurückzuzahlen, durfte nicht für sich als Verweigerung jeder Zusammenarbeit gewertet werden.
+
+Der Kläger behauptet nicht, vor jeder Abberufung müsse zwingend eine Abmahnung erfolgen. Hier hätte aber erläutert werden müssen, weshalb kontrollierte Fortführung trotz des Aufklärungsangebots unzumutbar war. Konkret belegte frühere gleichartige Verstöße sind in Einladung und Niederschrift nicht aufgeführt. Ein pauschaler Hinweis auf verlorenes Vertrauen ersetzt diese Begründung nicht. Die Gesamtabwägung rechtfertigt deshalb nach Auffassung des Klägers die sofortige Organabberufung nicht.
+
+## 6.4. Stimmverbot und rechnerische Mehrheit
+
+Paragraf 47 Absatz 4 GmbHG und die Grundsätze zum Verbot, über die Missbilligung eigenen Verhaltens selbst zu entscheiden, sind zu beachten. BGH, Urteil vom 04.04.2017 – Az. II ZR 77/16, amtlicher Volltext, ECLI:DE:BGH:2017:040417UIIZR77.16.0, Randnummern 10 bis 15, unterscheidet zwischen der gewöhnlichen Abberufung und der Abberufung aus wichtigem Grund. Den Streit über die Voraussetzungen eines schon vom Versammlungsleiter anzuwendenden Stimmverbots entscheidet das Urteil nicht abschließend; die gerichtliche Sachprüfung bleibt erforderlich.
+
+Der Kläger verkennt zudem nicht die Stimmenverhältnisse: Auch unter Einbeziehung seiner 8750 Nein-Stimmen stehen 10000 Ja-Stimmen gegenüber. Die 6250 Enthaltungsstimmen zählen nach Ziffer 4.2 der Satzung nicht als abgegeben. Der Antrag hätte mithin rechnerisch auch ohne seinen Ausschluss eine einfache Mehrheit erreicht. Die Klage wird nicht auf eine gegenteilige Berechnung gestützt. Ihr tragender Grund bleibt das Fehlen der besonderen materiellen Abberufungsvoraussetzung. Eine Stimmenmehrheit gestattet keine Abweichung von Ziffer 5.3 der Satzung.
+
+## 7. Beweisaufnahme und Anlagen
+
+Die vorgelegten Unterlagen belegen Erklärungen und Abläufe; sie nehmen die Würdigung streitiger Lieferungen oder innerer Vorstellungen nicht vorweg. Angeregt wird die Vorlage der konkret bezeichneten Geschäftsordnung, des Wareneingangs WE-0824 und der Zahlungsbuchung SBS-2026-084 durch die Beklagte. Soweit die Vollständigkeit von K7 bestritten wird, soll außerdem der betriebliche Kanal „Lindenhof Einkauf“ für den 19. bis 21. August 2026 vorgelegt werden. Begehrt wird keine allgemeine Durchsuchung der Geschäftsunterlagen. Der Kläger hat derzeit keinen eigenen Zugang zur Einkaufsablage und benötigt die bezeichneten Belege für den Abgleich.
+
+Der Klage sind folgende neun Anlagen als gesonderte Dateien beigefügt:
+
+7.1. Anlage K1 ist der Gesellschaftsvertrag vom 18. Juni 2019 in der Datei 05_Gesellschaftsvertrag_K1.docx.
+
+7.2. Anlage K2 ist die Gesellschafterliste vom 18. Juni 2019 mit Ablageabgleich vom 21. September 2026 in der Datei 06a_Gesellschafterliste_K2.docx.
+
+7.3. Anlage K3 ist der Registerausdruck vom 21. September 2026 in der Datei 06b_Registerabruf_K3.pdf.
+
+7.4. Anlage K4 ist die Einladung vom 26. August 2026 mit Einlieferungs- und Zustellangaben in der Datei 07_Einladung_K4.docx. Die beigefügte Rechnung wird zugleich gesondert als K6 vorgelegt.
+
+7.5. Anlage K5 ist die Niederschrift der Versammlung vom 9. September 2026, erstellt am 10. September und versandt am 11. September, in der Datei 08_Niederschrift_K5.docx.
+
+7.6. Anlage K6 ist die Rechnung SBS-2026-084 vom 20. August 2026 über 18400 EUR in der Datei 10_Rechnung_SBS_K6.pdf.
+
+7.7. Anlage K7 ist der Nachrichtenverlauf vom 19. bis 21. August 2026 in der Datei 11_Nachrichten_K7.txt.
+
+7.8. Anlage K8 ist die Beanstandung vom 27. August 2026 in der Datei 12_Beanstandung_K8.docx.
+
+7.9. Anlage K9 ist die Antwort des Klägers vom 31. August 2026 in der Datei 13_Antwort_Seidel_K9.docx.
 
 Walburga Fürst
 Rechtsanwältin
@@ -285,7 +388,7 @@ Gottfried Seidel, Inhaber
 Steuernummer 35/512/60821 | Rechnungsausgang 20.08.2026, 18:41 Uhr
 ''', 'Seidel Bühnenservice e.K. | Gottfried Seidel\nSchönhauser Straße 163, 13158 Berlin\nrechnung@seidel-buehnenservice.example', 'Spreebogen Lichtwerk GmbH\nMühlenstraße 64, 13187 Berlin', tables=[{'headers':['Position','Leistung','Netto EUR'], 'rows':[['1','Sechs überholte Steuergeräte, je 1950 EUR','11700,00'],['2','Kabelsatz und Sonderstecker','1900,00'],['3','Transport und Einbauunterstützung','1000,00'],['4','Expressbeschaffung und Zusatzarbeit','862,18'],['','Nettosumme','15462,18'],['','Umsatzsteuer 19 Prozent','2937,82'],['','Rechnungsbetrag','18400,00']]}]),
 D('11_Nachrichten_K7.txt', 'Nachrichtenexport – Lindenhof Einkauf', '19.08.2026', '''
-Export durch Kunigunde Rabenstein am 28.09.2026 aus dem betrieblichen Kanal. Zeitzone Berlin. Teilnehmer: Kunigunde Rabenstein und Gottfried Seidel.
+Export durch Kunigunde Rabenstein am 21.09.2026 aus dem betrieblichen Kanal. Zeitzone Berlin. Teilnehmer: Kunigunde Rabenstein und Gottfried Seidel.
 
 19.08.2026 07:46 Seidel: Der ursprüngliche Lieferant schafft es nicht. Ich kann die sechs Geräte über meine Firma zusammenbekommen, mit Einbauhilfe. Nach erster Rechnung 14900 brutto, vielleicht noch Expresszuschlag.
 19.08.2026 08:04 Rabenstein: Dann mach das, aber ich brauche die endgültige Zahl. Nichts ohne den Preisabgleich. Schick mir das andere Angebot und frag Ottilie wegen der Gesellschafterfreigabe.
