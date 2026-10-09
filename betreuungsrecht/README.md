@@ -72,7 +72,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 ## Unterlagen aus drei Jahren auswerten
 
-**Seit 445.33.2, aktuelle Fassung 445.33.3:** Der Skill [Unterlagen auswerten, abrechnen und Anschreiben erstellen](skills/unterlagen-auswerten-abrechnung-anschreiben/SKILL.md) führt von Kontoauszügen, Rechnungen und E-Mails zu einer nachvollziehbaren Excel-Abrechnung und konkreten Briefentwürfen. Er ist insbesondere für die Übernahme einer Betreuung mit ungeordneten Altunterlagen gedacht.
+**Seit 445.33.2, aktuelle Fassung 445.33.3:** Der Skill [Unterlagen auswerten, abrechnen und Anschreiben erstellen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/skills/unterlagen-auswerten-abrechnung-anschreiben/SKILL.md) führt von Kontoauszügen, Rechnungen und E-Mails zu einer nachvollziehbaren Excel-Abrechnung und konkreten Briefentwürfen. Er ist insbesondere für die Übernahme einer Betreuung mit ungeordneten Altunterlagen gedacht.
 
 Beginnen Sie beispielsweise so:
 
@@ -82,7 +82,7 @@ Der Ablauf sichert zuerst Auftrag, Zeitraum und Originalbelege. Danach folgen Bu
 
 | Zugang | Inhalt |
 | --- | --- |
-| [Unterlagen-Werkstatt als Markdown](betreuungsrecht-unterlagen-werkstatt.md) | Großer eigenständiger Prompt mit Arbeitsablauf, Excel-Schema, Quellenprüfung und ausformulierten Briefbeispielen; ohne Plugin verwendbar. |
+| [Unterlagen-Werkstatt als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md) | Großer eigenständiger Prompt mit Arbeitsablauf, Excel-Schema, Quellenprüfung und ausformulierten Briefbeispielen; ohne Plugin verwendbar. |
 | [Identische Textfassung](betreuungsrecht-unterlagen-werkstatt.txt) | Derselbe Prompt zum Kopieren oder Hochladen. |
 | [Excel-Vorlage](templates/unterlagen-abrechnung.xlsx) | Eingabe, Fundstellen, Kontenabstimmung, Auswertung und offene Fragen. Die Vorlage enthält keine Lösung der Testakte. |
 | [Neue Akte Adelheid Pfister](../testakten/betreuung-adelheid-pfister-dreijahresabrechnung/README.md) | Drei Jahre vor Übernahme, zwei Konten, Rechnungen, E-Mails, Vertragsunterlagen und unterschiedliche Auskünfte aus dem Umfeld. |

@@ -20,7 +20,7 @@ Die Anweisung zur Eintragung der mit M1-FRIST-v01 berechneten Einspruchsfrist is
 
 Die Nutzeranweisung belegt eine Ausführungsanordnung. Sie belegt weder eine Kalenderoperation noch eine Rücklesung und enthält keinen Namen der anweisenden Person. Der Name des verantwortlichen RA Brecht wird deshalb nicht als Urheber der Erklärung ausgegeben.
 
-G2 bleibt offen. Die genaue Bedeutung stammt aus [Mandatslauf und Freigaben, Abschnitt 1.4](/Users/klotzkette/Desktop/Codex%20Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/references/mandatslauf-und-freigaben.md): „Die Frist ist im führenden Kalender eingetragen und rückgelesen; Vorfrist und Verantwortliche stehen fest“. Die hier erteilte Anordnung erfüllt diese tatsächlichen Voraussetzungen noch nicht. Es wird keine weitere Erlaubnisfrage gestellt und kein Eintrag fingiert.
+G2 bleibt offen. Die genaue Bedeutung stammt aus [Mandatslauf und Freigaben, Abschnitt 1.4](../../../../../ki-native-kanzlei/references/mandatslauf-und-freigaben.md): „Die Frist ist im führenden Kalender eingetragen und rückgelesen; Vorfrist und Verantwortliche stehen fest“. Die hier erteilte Anordnung erfüllt diese tatsächlichen Voraussetzungen noch nicht. Es wird keine weitere Erlaubnisfrage gestellt und kein Eintrag fingiert.
 
 ## 1.3. Fortgeschriebener Textstatus
 

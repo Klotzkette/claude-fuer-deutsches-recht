@@ -50,7 +50,7 @@ Folgende Prüfungen waren erfolgreich:
 - `validate-manufacturer-plugins.py`: alle 296 Plugins und der Marketplace; `quality-lab.py audit`: alle 296 Prüfprofile.
 - `git diff --check`: keine Whitespace-Fehler.
 
-`validate-readme-navigation.py` meldet sieben bereits auf `origin/main` bei Commit `ac65d72bc9a0fac242a661f5c9e3cd2140334552` vorhandene Fehler: einen absoluten lokalen Verweis in der früheren KI-Kanzlei-Probe sowie sechs Markdown-Downloadbeschriftungen im Assetindex und bei Betreuungsrecht beziehungsweise Geldwäschebeauftragtem. Diese Prüfung ist deshalb ausdrücklich nicht als grün ausgewiesen; der neue KI-Downloadumfang erzeugt keinen weiteren Treffer.
+`validate-readme-navigation.py` meldete bei der damaligen Abschlussprüfung sieben bereits auf `origin/main` bei Commit `ac65d72bc9a0fac242a661f5c9e3cd2140334552` vorhandene Fehler: einen absoluten lokalen Verweis in der früheren KI-Kanzlei-Probe sowie sechs Markdown-Downloadbeschriftungen im Assetindex und bei Betreuungsrecht beziehungsweise Geldwäschebeauftragtem. Diese damalige Prüfung war deshalb ausdrücklich nicht grün; der neue KI-Downloadumfang erzeugte keinen weiteren Treffer. Die sieben Fehler sind inzwischen behoben; der Nachlauf steht in Abschnitt 1.9.
 
 Der Veröffentlichungsworkflow wiederholt die fachbezogenen Datei- und Paketprüfungen und vergleicht alle hochgeladenen Dateien durch erneuten Download, bevor er das Release freischaltet. Sein tatsächliches Ergebnis ist im zugehörigen Actions-Lauf nachzusehen. Die Prüfung von Dateien, Formeln und Übertragungsbytes ersetzt weder die Subsumtion im konkreten Mandat noch eine erschöpfende Rechtsprechungsrecherche.
 
@@ -75,3 +75,11 @@ Die Abbruchanforderung für den ersten Veröffentlichungsworkflow überschnitt s
 Die fachlichen Aussagen, Akten-Originaldateien und PDF-Lesefassungen ändern sich durch diesen Versionsschritt nicht. Die Abschlussprüfungen und der vollständige Downloadabgleich werden für die neue Veröffentlichung erneut ausgeführt.
 
 Der ergänzende Kompatibilitätstest deckt nun auch eine fremde, ausdrücklich registrierte Komponente mit abweichender eigener Version ab. Die Regression scheiterte vor der Anpassung; anschließend bestehen alle 14 Tests und der reale Paketbau. Jede ZIP-Datei wird gegen ihre tatsächliche Pluginversion geprüft, die Herkunft nennt Version und Route. Der feste Kompatibilitätsrelease-Tag und seine eigene Website bleiben unverändert.
+
+## 1.9. Navigationsnachlauf vom 09.10.2026
+
+Die sieben zuvor dokumentierten Navigationsfehler sind behoben. Die frühere KI-Kanzlei-Probe verlinkt ihre Referenz jetzt relativ zum Repository. Die sechs Arbeitsdateiverweise im Assetindex sowie in den READMEs von Betreuungsrecht und Geldwäschebeauftragtem verwenden die bestehende Markdown-Downloadseite. Der Indexgenerator erzeugt den korrigierten Verweis; eine erneute Generierung ergab einen byteidentischen Index.
+
+Die Downloadseite und die fünf unterschiedlichen Zieldateien wurden öffentlich per HTTP abgerufen. Alle Abrufe waren erfolgreich; die heruntergeladenen Dateien stimmen byteweise mit den Repository-Dateien überein. Die sechs Downloadverweise betreffen fünf Dateien, weil die Unterlagen-Werkstatt sowohl im Assetindex als auch in der Plugin-README verlinkt ist.
+
+Die erneute repositoryweite Prüfung `python3 scripts/validate-readme-navigation.py` besteht ohne Fehler: 296 Plugins, 23.238 Skills, 512 Aktenseiten, 42.385 lokale Links, 2.140 Anker und 112.597 Markdown-Downloadverweise. Auch `python3 scripts/validate-testakten-readme-downloads.py`, `python3 scripts/validate-markdown-structure.py` und `git diff --check` bestehen. Die unabhängige Nachprüfung der sieben geänderten Verweise und der Generatorzeile ergab keine weiteren Befunde.

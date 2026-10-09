@@ -108,9 +108,9 @@ In ChatGPT kann der Mini-Prompt als Arbeitsanweisung verwendet werden; für umfa
 
 | Fassung | Zweck | Datei |
 | --- | --- | --- |
-| Mini-Prompt | Schneller erster Arbeitsstand | [Markdown](geldwaeschebeauftragter-schnellstart.md) · [Text](geldwaeschebeauftragter-schnellstart.txt) |
-| Werkstatt-Prompt | Ausführlicher Ablauf vom Tagesstart bis zur Aufsicht | [Markdown](geldwaeschebeauftragter-werkstatt.md) · [Text](geldwaeschebeauftragter-werkstatt.txt) |
-| Hauptproblem-Prompt | Widersprüchliche Unterlagen vor einer Transaktion | [Markdown](geldwaeschebeauftragter-hauptproblem.md) · [Text](geldwaeschebeauftragter-hauptproblem.txt) |
+| Mini-Prompt | Schneller erster Arbeitsstand | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschebeauftragter/geldwaeschebeauftragter-schnellstart.md) · [Text](geldwaeschebeauftragter-schnellstart.txt) |
+| Werkstatt-Prompt | Ausführlicher Ablauf vom Tagesstart bis zur Aufsicht | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md) · [Text](geldwaeschebeauftragter-werkstatt.txt) |
+| Hauptproblem-Prompt | Widersprüchliche Unterlagen vor einer Transaktion | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md) · [Text](geldwaeschebeauftragter-hauptproblem.txt) |
 
 ## 5. Drei Übungsakten
 
