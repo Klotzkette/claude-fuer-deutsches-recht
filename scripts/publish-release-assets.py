@@ -8,6 +8,7 @@ import json
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 from urllib.parse import quote
 
@@ -70,14 +71,25 @@ def companion_release(repo: str, tag: str) -> dict | None:
 def ensure_companion(repo: str, tag: str, primary: str, sha: str) -> None:
     actual = tag_commit(repo, tag, allow_missing=True)
     if actual is None:
-        created = run([
-            "gh", "api", f"repos/{repo}/git/refs", "--method", "POST",
-            "-f", f"ref=refs/tags/{tag}", "-f", f"sha={sha}",
-        ])
-        # A lost response or concurrent creation is safe only at the exact commit.
-        actual = tag_commit(repo, tag, allow_missing=True)
+        try:
+            created = run([
+                "gh", "api", f"repos/{repo}/git/refs", "--method", "POST",
+                "-f", f"ref=refs/tags/{tag}", "-f", f"sha={sha}",
+            ])
+            detail = created.stderr.strip()
+        except subprocess.TimeoutExpired:
+            detail = "tag creation response timed out"
+        # A successful POST can precede the ref becoming visible to GET. Do not
+        # repeat the mutation, including after a lost response. Only a confirmed
+        # ref at the exact commit is safe; permission and network errors propagate.
+        for attempt in range(5):
+            actual = tag_commit(repo, tag, allow_missing=True)
+            if actual is not None:
+                break
+            if attempt < 4:
+                time.sleep(2 ** (attempt + 1))
         if actual is None:
-            raise RuntimeError(f"Could not create {tag}: {created.stderr.strip()}")
+            raise RuntimeError(f"Could not confirm {tag} after 5 visibility checks: {detail or 'tag still not visible'}")
     if actual != sha:
         raise ValueError(f"Companion tag {tag} points to {actual}, expected {sha}; not changed")
 
