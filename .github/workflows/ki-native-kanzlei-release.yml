@@ -57,6 +57,7 @@ jobs:
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
           python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-root-readme-overview.py
       - name: Lesefassungen setzen
         run: |
           if [ -f "$RUNNER_TEMP/fonts/LiberationSerif-Regular.ttf" ]; then FONTDIR="$RUNNER_TEMP/fonts"; else FONTDIR=$(dirname "$(fc-list | grep -m1 'LiberationSerif-Regular' | cut -d: -f1)"); fi

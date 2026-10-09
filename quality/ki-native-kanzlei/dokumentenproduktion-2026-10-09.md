@@ -49,3 +49,11 @@ Die 31 Seiten der neuen Einzel-PDFs und die 20 Seiten der zehn neuen Skill-Lesef
 ## 6. Veröffentlichung
 
 Eigenes Komponentenrelease `ki-native-kanzlei-v445.35.0` mit 14 Dateien: zwei Installationspakete, Skillhandbuch, Einzel-Skill-PDFs, drei Gesamtakten, sechs Akten-ZIPs und Prüfsummen. Die allgemeinen älteren Sammelarchive bleiben unverändert. Die eigenständigen Prompts bleiben über die Downloadseite verfügbar und werden nicht automatisch mitinstalliert.
+
+## 7. Zusätzlicher Gesamtbestand-Check
+
+Der zentrale Verzeichnisvalidator ist nach Aktualisierung der Summen und Fachübersicht grün: 293 Plugins, 23203 Skills, 496 zentrale Akten beziehungsweise 506 Akten einschließlich gesonderter Bestände.
+
+Zwei weitere globale Prüfungen sind nicht grün; sie werden nicht als erfolgreiche Komponentenprüfungen ausgegeben. Das globale Laufzeitbudget war bereits am Ausgangsstand `6e9fba04298` überschritten: 23193 Skills bei einem Limit von 23000 und 3687780 Beschreibungszeichen bei einem Limit von 3630000. Die zehn neuen Skills erhöhen diese Werte auf 23203 und 3690744. Das einzelne Kanzleiplugin liegt mit 30 Skills, 9747 Beschreibungszeichen und höchstens 374 Zeilen pro Skill innerhalb sämtlicher Einzelplugin-Grenzen. Die globalen Grenzwerte wurden nicht erhöht.
+
+Das globale Qualitätslabor meldet fehlende individuelle Prüfprofile für `agb-werkstatt` und `kanzlei-website-redaktion`; beide fehlen bereits im genannten Ausgangsstand. Das vorhandene individuelle Kanzleiprofil wird durch die Komponentenprüfung validiert. Diese beiden fremden Plugins und die katalogweite Konsolidierung sind nicht Gegenstand dieser Erweiterung.
