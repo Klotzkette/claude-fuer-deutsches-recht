@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 296 Plugins, 23238 Skills.
+Stand v445.35.3: 297 Plugins, 23249 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -120,6 +120,7 @@ Stand v445.35.3: 296 Plugins, 23238 Skills.
 | [`geldwaeschebeauftragter`](../geldwaeschebeauftragter/) | Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung. | `445.34.0` | 11 |
 | [`geldwaeschepraevention-aml-kyc`](../geldwaeschepraevention-aml-kyc/) | Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat: 20 Fachabläufe für Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt. | `445.35.3` | 20 |
 | [`gesellschafterstreit`](../gesellschafterstreit/) | Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich. | `445.34.2` | 11 |
+| [`gesellschaftervereinbarung`](../gesellschaftervereinbarung/) | Gesellschaftervereinbarungen für GmbHs entwerfen, verhandeln und ändern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gründerbindung und notariellen Vollzug. | `1.0.0` | 11 |
 | [`gesellschaftsgruender`](../gesellschaftsgruender/) | Gründungsassistent für deutsche Gesellschaften: Rechtsformwahl, Satzung, Notar, Handelsregister, Bank/KYC, Steuerstart, IP, Erlaubnisse, erste Verträge, Budget und Streitprävention. | `445.35.3` | 114 |
 | [`gesellschaftsrecht`](../gesellschaftsrecht/) | Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen. | `445.35.3` | 118 |
 | [`gesellschaftsrecht-legal-english`](../gesellschaftsrecht-legal-english/) | Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfänger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte. | `445.35.3` | 54 |

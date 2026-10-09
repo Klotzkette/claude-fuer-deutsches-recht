@@ -1,3 +1,9 @@
+# gesellschaftervereinbarung-v1.0.0 – 2026-10-09
+
+Neues Spezialplugin mit zehn Fachskills und einem Hauptskill für Gesellschaftervereinbarungen, drei eigenständigen Markdown-Prompts und einer Berliner Beteiligungsakte. Die 22 Originale enthalten ein erweitertes Term Sheet, einen ausformulierten ausfüllbaren Vertragsentwurf, Verhandlungskorrespondenz, gesellschaftsrechtliche Unterlagen und eine formelbasierte Kapitalplanung. Beide Tranchen und die noch offenen wirtschaftlichen Entscheidungen bleiben getrennt nachvollziehbar.
+
+Eigenes Komponentenrelease mit geprüften Plugin-Paketen, Word-Downloads und den drei Aktenfassungen. Der Aktenfilter lässt ausschließlich die ausdrücklich gewünschte Ausfüllfassung zu; Lösungsunterlagen bleiben ausgeschlossen. Regressionstests sichern Originalbestand, Anhänge, Kapitalrechnung und Paketabgleich. Verzeichnisse und Qualitätsprofil sind ergänzt.
+
 # v445.35.3 – 2026-10-09
 
 Das Gesamtrelease führt den aktuellen Marketplace mit 296 Plugins und 23238 Skills sowie die seit dem letzten Gesamtrelease ergänzten Komponenten in den Sammelpaketen zusammen. Dazu gehören die Vergaberecht-Werkstatt, Krankenhaus-IT und KI, die Betreuungsrecht-Erweiterung, Geldwäschebeauftragter, KI-native Kanzlei, Gesellschafterstreit und die KI-Verordnungs-Fachrunde. Die jeweils bestehenden Komponentenreleases und ihre eigenen Versionsstände bleiben erhalten.

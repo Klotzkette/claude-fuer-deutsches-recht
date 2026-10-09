@@ -580,6 +580,18 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "gesellschaftervereinbarung": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }

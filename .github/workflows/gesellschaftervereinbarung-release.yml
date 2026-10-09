@@ -1,0 +1,71 @@
+name: Gesellschaftervereinbarung und Berliner Beteiligungsakte
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag gesellschaftervereinbarung-v1.0.0
+        required: true
+        default: gesellschaftervereinbarung-v1.0.0
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gesellschaftervereinbarung-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TAG: ${{ inputs.tag }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Abhängigkeiten
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2 fonts-croscore fonts-crosextra-carlito
+          sudo install -m 0644 scripts/data/gesellschafterstreit-fontconfig.conf /etc/fonts/conf.d/99-gesellschaftervereinbarung.conf
+          fc-cache -f
+      - name: Quellen und Pakete prüfen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('gesellschaftervereinbarung/.claude-plugin/plugin.json'))['version'])")
+          test "gesellschaftervereinbarung-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/test-gesellschaftervereinbarung.py
+          python3 scripts/build-gesellschaftervereinbarung-release.py --dist "$RUNNER_TEMP/gesellschaftervereinbarung-dist"
+          python3 scripts/test-gesellschaftervereinbarung.py --dist "$RUNNER_TEMP/gesellschaftervereinbarung-dist"
+      - name: Prüfpakete bei Fehler sichern
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gesellschaftervereinbarung-diagnose
+          path: ${{ runner.temp }}/gesellschaftervereinbarung-dist
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert bereits; kein Überschreiben."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert bereits; keine nachträgliche Verschiebung."
+            exit 1
+          fi
+          RELEASE_SHA=$(git rev-parse HEAD)
+          gh release create "$TAG" --target "$RELEASE_SHA" --draft --title "Gesellschaftervereinbarung 1.0.0" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" "$RUNNER_TEMP"/gesellschaftervereinbarung-dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/gesellschaftervereinbarung-dist"
+          gh release edit "$TAG" --draft=false --latest=false
