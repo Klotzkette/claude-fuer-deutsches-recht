@@ -1,6 +1,6 @@
 # ki-native-kanzlei
 
-**30 Skills** · Stand `v445.35.1`
+**30 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-native-kanzlei/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-native-kanzlei-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`ki-native-kanzlei-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-native-kanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-native-kanzlei.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-native-kanzlei.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-native-kanzlei.zip) |
 
 ## So benutzt man einen Skill
 

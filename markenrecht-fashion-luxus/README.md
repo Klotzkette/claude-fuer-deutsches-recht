@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/markenrecht-fashion-luxus.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/markenrecht-fashion-luxus.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/markenrecht-fashion-luxus.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenrecht-fashion-luxus/markenrecht-fashion-luxus-schnellstart.md) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/markenrecht-fashion-luxus.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`markenrecht-fashion-luxus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/markenrecht-fashion-luxus.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`markenrecht-fashion-luxus-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenrecht-fashion-luxus/markenrecht-fashion-luxus-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`markenrecht-fashion-luxus-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenrecht-fashion-luxus/markenrecht-fashion-luxus-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -271,4 +271,4 @@ English: Complete list of all 89 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie synthetische Gesichter, Produktabbildungen und behauptete Zertifizierungen jeweils getrennt. Marken- oder Persönlichkeitsrechte werden durch eine KI-Kennzeichnung nicht ersetzt.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

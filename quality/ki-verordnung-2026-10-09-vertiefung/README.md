@@ -67,3 +67,11 @@ Im eingebetteten Vergaberechtsbereich wurden Downloadroute, Referenzverzeichnis 
 ## 1.7. Redaktioneller Nachlauf vor Veröffentlichung
 
 Die in dieser Runde neu ergänzten README-Überschriften wurden dezimal nummeriert; bisherige Sprungziele bleiben durch explizite Anker erreichbar. Die fünf neuen Akten-READMEs erhalten eine fortlaufende Untergliederung. Drei Referenz- beziehungsweise Berichtstitel und der neue Abschnitt der gemeinsamen Rechtsstandsreferenz sind entsprechend eingeordnet. Nur Nummerierungspräfixe und Navigationsanker wurden geändert; die fachlichen Aussagen, Zitate, Entscheidungsdaten und nativen Akten bleiben unverändert. Die versionsgegliederte Chronik bleibt als Changelog erhalten.
+
+## 1.8. Veröffentlichungsfassung 445.35.2
+
+Die Abbruchanforderung für den ersten Veröffentlichungsworkflow überschnitt sich mit dessen Veröffentlichungsphase. Er veröffentlichte 445.35.1 bereits; der erneute Lauf brach deshalb mit der vorgesehenen Schutzprüfung für vorhandene Releases ab. 445.35.1 und sein Tag bleiben unverändert. Der redaktionell gegliederte Stand wird als 445.35.2 ausgeliefert. Die 80 betroffenen Manifest- und Marketplace-Einträge, aktive Downloadrouten, Übersichtseinträge und Versionsprüfungen werden zusammen fortgeschrieben. Fremde Komponentenreleases behalten ihre Versionen.
+
+Die fachlichen Aussagen, Akten-Originaldateien und PDF-Lesefassungen ändern sich durch diesen Versionsschritt nicht. Die Abschlussprüfungen und der vollständige Downloadabgleich werden für die neue Veröffentlichung erneut ausgeführt.
+
+Der ergänzende Kompatibilitätstest deckt nun auch eine fremde, ausdrücklich registrierte Komponente mit abweichender eigener Version ab. Die Regression scheiterte vor der Anpassung; anschließend bestehen alle 14 Tests und der reale Paketbau. Jede ZIP-Datei wird gegen ihre tatsächliche Pluginversion geprüft, die Herkunft nennt Version und Route. Der feste Kompatibilitätsrelease-Tag und seine eigene Website bleiben unverändert.

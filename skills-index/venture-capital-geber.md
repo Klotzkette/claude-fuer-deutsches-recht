@@ -1,6 +1,6 @@
 # venture-capital-geber
 
-**106 Skills** · Stand `v445.35.1`
+**106 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../venture-capital-geber/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`venture-capital-geber-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=venture-capital-geber/venture-capital-geber-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`venture-capital-geber-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=venture-capital-geber/venture-capital-geber-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [venture-capital-geber.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/venture-capital-geber.zip) |
+| **Plugin (installierbar)** | ZIP | [venture-capital-geber.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/venture-capital-geber.zip) |
 
 ## So benutzt man einen Skill
 

@@ -2,7 +2,7 @@
 
 [Repository-Start](../README.md) · [Alle Skills](../SKILLS.md) · [Skill-Detailseite](../skills-index/ki-verordnung-konformitaet.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
 
-Version 445.35.1. Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.
+Version 445.35.2. Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.
 
 ## 1.1. Einstieg
 
@@ -13,7 +13,7 @@ Elf Skills: zehn Fachschritte und ein Hauptproblem-Skill. Nutzen Sie [Konformit�
 - [Werkstatt lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.md)
 - [Mini lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-schnellstart.md)
 - [Hauptproblem lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md)
-- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-konformitaet.zip)
+- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet.zip)
 
 Claude nutzt die Skills im Plugin. Codex-kompatible Metadaten liegen ebenfalls bei. In ChatGPT können Sie den Mini als Projektanweisung und Werkstatt plus Referenzen als Dateien verwenden; eine tatsächliche Import- oder Portalprüfung wird dadurch nicht behauptet. [Rechtsstand und Grenzen](references/rechtsstand.md).
 
@@ -42,13 +42,13 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 ## 9. PDF-Lesefassungen und Prüfbericht
 
-[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-konformitaet-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-konformitaet-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
+[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
 ## 10. Textfassungen
 
 [ki-verordnung-konformitaet: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.txt) · [ki-verordnung-konformitaet: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-schnellstart.txt) · [ki-verordnung-konformitaet: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.txt)
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
 
 <a id="neue-vollständige-übungsakten"></a>
 
@@ -60,7 +60,7 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsreleas
 
 | Akte und Aufgabe | Originaldateien | Einzel-PDFs | Gesamt-PDF |
 | --- | --- | --- | --- |
-| [Eichengrund Logistik](../testakten/ki-konformitaet-eichengrund-logistik/README.md): Funktion, Zertifikatsumfang, Testdaten und Konformitätsroute. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-konformitaet-eichengrund-logistik.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-konformitaet-eichengrund-logistik-einzelpdfs.zip) | [PDF](../testakten/ki-konformitaet-eichengrund-logistik/gesamt-pdf/ki-konformitaet-eichengrund-logistik_gesamt.pdf) |
+| [Eichengrund Logistik](../testakten/ki-konformitaet-eichengrund-logistik/README.md): Funktion, Zertifikatsumfang, Testdaten und Konformitätsroute. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-konformitaet-eichengrund-logistik.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-konformitaet-eichengrund-logistik-einzelpdfs.zip) | [PDF](../testakten/ki-konformitaet-eichengrund-logistik/gesamt-pdf/ki-konformitaet-eichengrund-logistik_gesamt.pdf) |
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

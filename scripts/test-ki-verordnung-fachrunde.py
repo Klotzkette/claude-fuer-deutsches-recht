@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft die Quellen und Pakete der KI-Verordnungs-Fachrunde 445.35.1.
+"""Prüft die Quellen und Pakete der KI-Verordnungs-Fachrunde 445.35.2.
 
 Ohne Argumente: Scope, Profile, amtliche Quellenkopien, native Akten und PDFs.
 Mit --dist VERZEICHNIS: zusätzlich vollständige Releaseauswahl, ZIP-Inhalte,
@@ -39,7 +39,7 @@ from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = '445.35.1'
+VERSION = '445.35.2'
 TAG = 'ki-verordnung-v' + VERSION
 SCOPE_PATH = ROOT / 'scripts/data/ki-verordnung-release-scope.json'
 QUALITY = ROOT / 'quality/ki-verordnung-2026-10-09'

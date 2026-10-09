@@ -1,6 +1,6 @@
 {
   "name": "ki-verordnung-konformitaet",
-  "version": "445.35.1",
+  "version": "445.35.2",
   "description": "Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.",
   "author": {
     "name": "Klotzkette",

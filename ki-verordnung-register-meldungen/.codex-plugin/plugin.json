@@ -1,6 +1,6 @@
 {
   "name": "ki-verordnung-register-meldungen",
-  "version": "445.35.1",
+  "version": "445.35.2",
   "description": "Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach.",
   "author": {
     "name": "Klotzkette",

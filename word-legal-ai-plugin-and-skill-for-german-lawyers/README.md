@@ -297,4 +297,4 @@ English: Complete list of all 53 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie interne Entwurfsarbeit, Veröffentlichung und unmittelbaren Mandantendialog. Artikel 50 enthält funktionsabhängige Pflichten und keine pauschale Kennzeichnungspflicht für jeden intern mit KI bearbeiteten Schriftsatz.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

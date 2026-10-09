@@ -18,8 +18,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf`](gesamt-pdf/ki-transparenz-pegnesus-redaktion_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-transparenz-pegnesus-redaktion.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-transparenz-pegnesus-redaktion.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-transparenz-pegnesus-redaktion.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -55,9 +55,9 @@ Lesen Sie zuerst den Auftrag. Verarbeiten Sie danach die widersprüchlichen Bele
 
 | Fassung | Download |
 |---|---|
-| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-transparenz-pegnesus-redaktion.zip) |
-| Einzelne Lesefassungen | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
-| Gesamte Akte | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-transparenz-pegnesus-redaktion_gesamt.pdf) |
+| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion.zip) |
+| Einzelne Lesefassungen | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-transparenz-pegnesus-redaktion-einzelpdfs.zip) |
+| Gesamte Akte | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-transparenz-pegnesus-redaktion_gesamt.pdf) |
 
 <a id="4-einzeldateien"></a>
 

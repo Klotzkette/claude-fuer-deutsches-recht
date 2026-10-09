@@ -1,6 +1,6 @@
 # arbeitszeugnispruefer
 
-**31 Skills** · Stand `v445.35.1`
+**31 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitszeugnispruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`arbeitszeugnispruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`arbeitszeugnispruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [arbeitszeugnispruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/arbeitszeugnispruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [arbeitszeugnispruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/arbeitszeugnispruefer.zip) |
 
 ## So benutzt man einen Skill
 

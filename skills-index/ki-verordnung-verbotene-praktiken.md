@@ -1,6 +1,6 @@
 # ki-verordnung-verbotene-praktiken
 
-**11 Skills** · Stand `v445.35.1`
+**11 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-verbotene-praktiken/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-verordnung-verbotene-praktiken-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`ki-verordnung-verbotene-praktiken-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-verordnung-verbotene-praktiken.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-verbotene-praktiken.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-verordnung-verbotene-praktiken.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-verbotene-praktiken.zip) |
 
 ## So benutzt man einen Skill
 

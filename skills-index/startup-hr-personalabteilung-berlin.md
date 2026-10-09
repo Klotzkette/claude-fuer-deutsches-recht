@@ -1,6 +1,6 @@
 # startup-hr-personalabteilung-berlin
 
-**112 Skills** · Stand `v445.35.1`
+**112 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../startup-hr-personalabteilung-berlin/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`startup-hr-personalabteilung-berlin-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`startup-hr-personalabteilung-berlin-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [startup-hr-personalabteilung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/startup-hr-personalabteilung-berlin.zip) |
+| **Plugin (installierbar)** | ZIP | [startup-hr-personalabteilung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/startup-hr-personalabteilung-berlin.zip) |
 
 ## So benutzt man einen Skill
 

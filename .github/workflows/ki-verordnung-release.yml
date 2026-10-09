@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag ki-verordnung-v445.35.1
+        description: Komponententag ki-verordnung-v445.35.2
         required: true
-        default: ki-verordnung-v445.35.1
+        default: ki-verordnung-v445.35.2
 
 permissions:
   contents: write
