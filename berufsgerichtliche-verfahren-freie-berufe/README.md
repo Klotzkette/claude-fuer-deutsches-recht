@@ -219,7 +219,9 @@ English: Complete list of all 100 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie getrennt, ob das beanstandete Produkt von der Berufsträgerin stammt und welchen berufsrechtlichen Vorwurf die Belege tragen. Ein KI-VO-Verstoß darf weder aus einem falschen Zitat allein noch aus einer fehlenden ISO-Bescheinigung gefolgert werden.
 

@@ -69,7 +69,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-## Fachstand 445.35.1 vom 9. Oktober 2026
+<a id="fachstand-445351-vom-9-oktober-2026"></a>
+
+## 1. Fachstand 445.35.1 vom 9. Oktober 2026
 
 Die amtliche konsolidierte KI-Verordnung einschließlich Änderungsverordnung 2026/1744 und deutscher Berichtigung vom 29. September wurde für die beschriebenen Korrekturen geöffnet. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
 
@@ -150,7 +152,9 @@ English: Complete list of all 8 skills in this plugin. Both links in each row do
 
 Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
 
-## Neue vollständige Übungsakten
+<a id="neue-vollständige-übungsakten"></a>
+
+## 5. Neue vollständige Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

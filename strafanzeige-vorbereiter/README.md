@@ -168,7 +168,9 @@ English: Complete list of all 57 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Kennzeichnen Sie modellgenerierte Vermutungen und sichern Sie Primärbelege. Eine algorithmische Risikoprognose über eine Person ersetzt keine konkrete Tatsachenschilderung für die Strafanzeige.
 

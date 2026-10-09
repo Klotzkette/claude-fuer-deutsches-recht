@@ -1,7 +1,11 @@
-# Testakte Regnitz Sorglosabo und der Kundendialog
+<a id="testakte-regnitz-sorglosabo-und-der-kundendialog"></a>
+
+# 1. Testakte Regnitz Sorglosabo und der Kundendialog
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -23,7 +27,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1. Auftrag
+<a id="1-auftrag"></a>
+
+## 1.2. Auftrag
 
 Erstellen Sie für den Vorstand eine begründete Entscheidung über die untersuchten Dialogfunktionen und einen ausformulierten Anbieterbrief. Klären Sie Verhaltenswirkung, wirtschaftliche Angaben und die Reichweite einer behaupteten Korrektur. Der weiterlaufende Terminerinnerungsdienst ist gesondert zu behandeln.
 
@@ -31,13 +37,17 @@ Alle Personen, Organisationen, Anschriften und Vorgänge sind fiktiv. Aktenstand
 
 <!-- reserved-example-contacts -->
 
-## 2. Unterlagen und Bearbeitung
+<a id="2-unterlagen-und-bearbeitung"></a>
+
+## 1.3. Unterlagen und Bearbeitung
 
 Die Akte enthält sechs Word-Dokumente und deren inhaltsgleiche PDF-Lesefassungen, sechs E-Mails mit echten Anhängen, eine mehrblättrige Arbeitsmappe und einen Chatverlauf. Identische Fassungen und eingebettete Anhänge sind keine unabhängigen Mehrfachbeweise. Die Arbeitsmappe berechnet nachvollziehbare Größen und hält fehlende Daten von Nullwerten getrennt. Sie trifft keine rechtliche Entscheidung.
 
 Lesen Sie zuerst den Auftrag. Verarbeiten Sie danach die widersprüchlichen Belege und führen Sie den ausformulierten Arbeitsentwurf zum bestellten Produkt fort. Noch fehlende Tatsachen gezielt benennen; vorhandene Angaben nicht erneut vollständig erheben. Die Akte enthält keine rechtliche Musterlösung.
 
-## 3. Downloads
+<a id="3-downloads"></a>
+
+## 1.4. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -49,7 +59,9 @@ Lesen Sie zuerst den Auftrag. Verarbeiten Sie danach die widersprüchlichen Bele
 | Einzelne Lesefassungen | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-verbot-regnitz-sorglosabo-einzelpdfs.zip) |
 | Gesamte Akte | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verbot-regnitz-sorglosabo_gesamt.pdf) |
 
-## 4. Einzeldateien
+<a id="4-einzeldateien"></a>
+
+## 1.5. Einzeldateien
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

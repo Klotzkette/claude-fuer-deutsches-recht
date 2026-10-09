@@ -257,7 +257,9 @@ English: Complete list of all 123 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 2. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Formulieren Sie überprüfbare Anforderungen an System, Tests, Dokumentation und Änderungen. Verlangen Sie kein beliebiges ISO-Zertifikat als Ersatz für auftragsbezogene gesetzliche Nachweise.
 

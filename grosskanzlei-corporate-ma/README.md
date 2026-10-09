@@ -445,7 +445,9 @@ English: Complete list of all 229 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Ordnen Sie Kundenlösungen, Basismodelle und Eigenentwicklungen getrennt ein. Eine Zusicherung zur KI-Konformität muss betroffene Produkte, maßgebliche Stichtage und bekannte Nachweislücken erkennen lassen.
 

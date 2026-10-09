@@ -271,7 +271,9 @@ English: Complete list of all 94 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Vergleichen Sie beworbene vollautomatische Rechtsberatung mit vertraglich zugesagter bloßer Entwurfshilfe. Ermitteln Sie, wer Zwecke und Änderungen bestimmt; Gewährleistung, Verschwiegenheit und Anbieterrolle werden nicht durch eine gemeinsame Vertragsüberschrift ersetzt.
 

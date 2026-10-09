@@ -1,7 +1,9 @@
 # 1 Mainblick Bewerbungsauswahl
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -23,14 +25,18 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1.1 Auftrag und Dateien
+<a id="11-auftrag-und-dateien"></a>
+
+## 1.2. Auftrag und Dateien
 
 Die Mainblick Präzisionstechnik GmbH in Würzburg hat die Dokumentenerfassung und eine erweiterte Bewerbungsrangfolge eingesetzt. Die Geschäftsführung bestellt am 9. Oktober 2026 eine versionsbezogene Bewertung, ein Anbieteranschreiben und die Überarbeitung einer Antwort an eine Bewerberin. Anbieterangaben, Protokolle und Exportdaten sind gemeinsam zu lesen.
 
 <!-- reserved-example-contacts -->
 Alle Personen, Unternehmen und Vorgänge sind erfunden. `.example` kennzeichnet reservierte Kontaktadressen. Die sechs DOCX-Dateien und ihre sechs PDF-Lesefassungen bilden jeweils dasselbe Dokument ab; sie sind nicht als zwölf unabhängige Belege zu zählen. Die E-Mails enthalten echte eingebettete Anlagen, die bytegleich mit den benannten Dateien im Ordner sind.
 
-## 1.2 Download
+<a id="12-download"></a>
+
+## 1.3. Download
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -42,7 +48,9 @@ Alle Personen, Unternehmen und Vorgänge sind erfunden. `.example` kennzeichnet 
 | Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
 | Einzel-PDFs | [PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |
 
-## 1.3 Originaldateien
+<a id="13-originaldateien"></a>
+
+## 1.4. Originaldateien
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -71,6 +79,8 @@ Alle Personen, Unternehmen und Vorgänge sind erfunden. `.example` kennzeichnet 
 | [19_Auswertung.xlsx](19_Auswertung.xlsx) | Export mit Auswertung und Kontrollrechnungen |
 | [20_Projektchat.txt](20_Projektchat.txt) | Projektchat vom 24. September bis 9. Oktober 2026 |
 
-## 1.4 Bearbeitung
+<a id="14-bearbeitung"></a>
+
+## 1.5. Bearbeitung
 
 Datei 01 enthält den Auftrag. Die Arbeitsmappe zählt 24 Datensätze eines bestimmten Exportzeitraums. Öffnungen außerhalb der Anwendung werden nicht erfasst; die sechs Kalibrierungsfälle mit ausländischem Abschluss sind keine Bestandszahl des gesamten Modelltrainings. Quelldaten, veränderbare Auswertung und Kontrollrechnungen sind gekennzeichnet. Zusätzliche Tatsachen dürfen nicht erfunden werden. Nichts versenden.

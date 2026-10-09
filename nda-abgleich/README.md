@@ -219,7 +219,9 @@ English: Complete list of all 91 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie, welche technische Information für Kontrolle, Auskunft oder Behördenprüfung gebraucht wird. Eine Geheimhaltungsklausel muss notwendige gesetzliche Offenlegungen zulassen, ohne unnötig Modell- oder Kundendaten offenzulegen.
 

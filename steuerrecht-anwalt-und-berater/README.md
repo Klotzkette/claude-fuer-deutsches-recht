@@ -548,7 +548,9 @@ English: Complete list of all 238 skills in this plugin. Both links in each row 
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 2. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie Belegsortierung, fachliche Steuerempfehlung und eine eigenständige Personenbewertung. Eine falsche Steuerzahl ist nicht schon ein KI-VO-Vorfall; steuerliche und datenschutzrechtliche Folgen gesondert erfassen.
 

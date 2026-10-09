@@ -256,7 +256,9 @@ English: Complete list of all 112 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Vergleichen Sie reine Terminorganisation mit Auswahl, Ranking und Profiling von Bewerbenden. Eine abschließende Unterschrift der Personalleitung widerlegt maßgeblichen Systemeindruck nicht ohne tatsächliche Kontrollbelege.
 

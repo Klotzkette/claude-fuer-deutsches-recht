@@ -277,7 +277,9 @@ English: Complete list of all 101 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie die behauptete Datenpanne, die tatsächlichen Empfänger und einen möglichen KI-Systemvorfall. Weder die Speicherung pseudonymisierter Daten noch die Bezeichnung Bias-Test beantwortet Rechtmäßigkeit und Meldeweg allein.
 

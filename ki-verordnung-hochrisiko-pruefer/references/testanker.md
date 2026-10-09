@@ -1,10 +1,10 @@
-# Fünf konkrete Testanker für die Hochrisikoprüfung
+# 1. Fünf konkrete Testanker für die Hochrisikoprüfung
 
-## 1 Zweck und Auswertung
+## 1.1. Zweck und Auswertung
 
 Stand 9. Oktober 2026. Dies sind fachliche Prüffälle für die Fortsetzung nach neuen Belegen, keine protokollierten Live-Modelltests. Jede Variante verlangt ein ausformuliertes Arbeitsprodukt. Die [amtlichen Volltextanker und Übertragungsgrenzen](rechtsprechung-und-argumentation.md) sind Teil der Bewertung. Der jeweils aktuelle [Normstand](rechtsstand-und-quellen.md) bleibt eigenständig zu prüfen.
 
-## 2 Score, echte menschliche Prüfung und fortbestehendes Profiling
+## 1.2. Score, echte menschliche Prüfung und fortbestehendes Profiling
 
 **Sachverhalt:** Ein Recruitingdienst bewertet die persönliche Eignung und zeigt nur die fünf höchsten Scores. HR bestätigt diese Liste ohne Zugriff auf ausgeschlossene Bewerbungen.
 
@@ -16,7 +16,7 @@ Stand 9. Oktober 2026. Dies sind fachliche Prüffälle für die Fortsetzung nach
 
 **Produkt:** Einstufungsfortschreibung und gezieltes Anbieteranschreiben.
 
-## 3 Konkrete Erklärung trotz Geheimniseinwands
+## 1.3. Konkrete Erklärung trotz Geheimniseinwands
 
 **Sachverhalt:** Eine automatisierte erhebliche Ablehnung wird nur mit Score 42 und einer komplexen Formel erklärt. Der Verantwortliche verweigert wegen Geschäftsgeheimnissen jede weitere Information.
 
@@ -28,7 +28,7 @@ Stand 9. Oktober 2026. Dies sind fachliche Prüffälle für die Fortsetzung nach
 
 **Produkt:** Auskunftsschreiben und begrenzter interner Erklärungsvermerk.
 
-## 4 Kontrollierte Kriterienänderung und unpassendes Totalverbot
+## 1.4. Kontrollierte Kriterienänderung und unpassendes Totalverbot
 
 **Sachverhalt:** Eine Recruitingversion verändert Auswahlkriterien ohne Versionseintrag. HR behauptet unter Hinweis auf das PNR-Urteil, jede lernende KI sei generell verboten.
 
@@ -40,7 +40,7 @@ Stand 9. Oktober 2026. Dies sind fachliche Prüffälle für die Fortsetzung nach
 
 **Produkt:** Fortgeführte Betriebsanweisung mit kontrolliertem Änderungsverfahren.
 
-## 5 Nachgereichte Normfundstelle und begrenzte Vermutung
+## 1.5. Nachgereichte Normfundstelle und begrenzte Vermutung
 
 **Sachverhalt:** Der Anbieter legt allein ein Managementzertifikat vor und behauptet umfassende Konformität des Recruitingmoduls.
 
@@ -52,7 +52,7 @@ Stand 9. Oktober 2026. Dies sind fachliche Prüffälle für die Fortsetzung nach
 
 **Produkt:** Nachweismatrix und präzisiertes Anbieteranschreiben.
 
-## 6 Vorfall, Kontrollverlust und Schadensnachweis
+## 1.6. Vorfall, Kontrollverlust und Schadensnachweis
 
 **Sachverhalt:** Ein Recruitingexport mit Bewerberdaten wird unbefugt an einen Dritten versandt. Der erste Bericht behauptet ohne Einzelbelege automatisch einen festen Schadensbetrag und eine KI-Vorfallmeldung.
 

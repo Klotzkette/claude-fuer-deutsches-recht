@@ -63,3 +63,7 @@ Beim ergänzenden Kompatibilitätspaketbau wurde die Überschneidung des Plugins
 Die ergänzenden Prüfungen zu Laufzeitprofilen, Bauvergabe, Immobilien-Rechtsabteilung, Vergaberecht-Import, App-Grenzen und portablen Starts bestehen. Die Grundstücksrecherche-Suite besteht mit 110 Tests und einer erwarteten Auslassung; zuvor fehlende lokale Bibliotheken wurden nur in der Prüfungsumgebung ergänzt.
 
 Im eingebetteten Vergaberechtsbereich wurden Downloadroute, Referenzverzeichnis und die eine ergänzte Megaprompt-Zeile synchronisiert. Die gemeinsame Havelgrund-Akte ist als ausdrücklich zugelassene, lokal vorhandene externe Testakten-README registriert. Beliebige fremde Komponentenpfade bleiben unzulässig. Die 13 Integrationstests bestehen einschließlich Gegenproben für fehlende oder nicht deklarierte Ziele.
+
+## 1.7. Redaktioneller Nachlauf vor Veröffentlichung
+
+Die in dieser Runde neu ergänzten README-Überschriften wurden dezimal nummeriert; bisherige Sprungziele bleiben durch explizite Anker erreichbar. Die fünf neuen Akten-READMEs erhalten eine fortlaufende Untergliederung. Drei Referenz- beziehungsweise Berichtstitel und der neue Abschnitt der gemeinsamen Rechtsstandsreferenz sind entsprechend eingeordnet. Nur Nummerierungspräfixe und Navigationsanker wurden geändert; die fachlichen Aussagen, Zitate, Entscheidungsdaten und nativen Akten bleiben unverändert. Die versionsgegliederte Chronik bleibt als Changelog erhalten.

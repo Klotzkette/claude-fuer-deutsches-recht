@@ -1,12 +1,12 @@
-# Rechtsprechung als begrenzter Argumentationsanker
+# 1. Rechtsprechung als begrenzter Argumentationsanker
 
-## 1 Prüfstand und Methode
+## 1.1. Prüfstand und Methode
 
 Stand 9. Oktober 2026. Die unten angegebenen Passagen wurden in den verlinkten amtlichen deutschen Volltexten gelesen. Sie ergänzen die Normprüfung, entscheiden aber nicht unmittelbar die Einstufung nach Artikel 6 KI-Verordnung. Keine Vollständigkeit sämtlicher Entscheidungen bis zum Stichtag behaupten. Vor fallbezogener Verwendung Fortgeltung und tatsächliche Vergleichbarkeit prüfen.
 
 Jeder Beleg führt von einer konkreten Tatsachenfrage über die tragende Aussage und deren Grenze zu einer Folgerung im bestellten Dokument. Quellen nicht als lose Zitatliste anhängen. Die [fünf Testanker](testanker.md) prüfen jeweils, ob geänderte Tatsachen die Begründung wirklich verändern.
 
-## 2 Dun & Bradstreet Austria
+## 1.2. Dun & Bradstreet Austria
 
 EuGH, Urt. v. 27.02.2025 – Az. C-203/22, [amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=DE), Rn. 46–66; 67–76.
 
@@ -16,7 +16,7 @@ EuGH, Urt. v. 27.02.2025 – Az. C-203/22, [amtlicher Volltext](https://juris.cu
 
 **Produktfolge:** Konkretes Auskunftsschreiben, Erklärungsvorlage und begrenzte technische Nachforderung.
 
-## 3 SCHUFA Holding (Scoring)
+## 1.3. SCHUFA Holding (Scoring)
 
 EuGH, Urt. v. 07.12.2023 – Az. C-634/21, [amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=280426&doclang=DE), Rn. 43–55; 60–64.
 
@@ -26,7 +26,7 @@ EuGH, Urt. v. 07.12.2023 – Az. C-634/21, [amtlicher Volltext](https://juris.cu
 
 **Produktfolge:** Versionsbezogener Einstufungs- und gesonderter Artikel-22-Vermerk.
 
-## 4 Ligue des droits humains
+## 1.4. Ligue des droits humains
 
 EuGH, Urt. v. 21.06.2022 – Az. C-817/19, [amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=261282&doclang=DE), Rn. 179–180; 193–211.
 
@@ -36,7 +36,7 @@ EuGH, Urt. v. 21.06.2022 – Az. C-817/19, [amtlicher Volltext](https://juris.cu
 
 **Produktfolge:** Kontrollkonzept mit getesteten Fehlertreffern, Versionsbindung und überprüfbarem Einspruchsweg.
 
-## 5 Public.Resource.Org und Right to Know/Kommission
+## 1.5. Public.Resource.Org und Right to Know/Kommission
 
 EuGH, Urt. v. 05.03.2024 – Az. C-588/21 P, [amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=283443&doclang=DE), Rn. 70–85.
 
@@ -46,7 +46,7 @@ EuGH, Urt. v. 05.03.2024 – Az. C-588/21 P, [amtlicher Volltext](https://juris.
 
 **Produktfolge:** Nachweismatrix Normfundstelle, Anforderungsumfang, Version und Systemprüfung.
 
-## 6 Quirin Privatbank
+## 1.6. Quirin Privatbank
 
 EuGH, Urt. v. 04.09.2025 – Az. C-655/23, [amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303866&doclang=DE), Rn. 53–63; 65–79.
 
@@ -56,7 +56,7 @@ EuGH, Urt. v. 04.09.2025 – Az. C-655/23, [amtlicher Volltext](https://juris.cu
 
 **Produktfolge:** Getrennter Anspruchs- und Belegvermerk neben der Vorfallbewertung.
 
-## 7 Erklärung, Aufsicht und Einstufung auseinanderhalten
+## 1.7. Erklärung, Aufsicht und Einstufung auseinanderhalten
 
 Artikel 13 KI-Verordnung betrifft die Transparenz für Betreiber; Artikel 14 und Artikel 26 betreffen technische und organisatorische Aufsicht. Ein Betroffenenanspruch nach Artikel 86 verlangt eigene Prüfung: Entscheidung des Betreibers auf Grundlage eines Anhang-III-Hochrisikosystems außer Nummer 2, entsprechende erhebliche Wirkung, Ausnahmen nach Absatz 2 und Subsidiarität nach Absatz 3. Sein Wortlaut setzt nicht ausschließlich automatisierte Entscheidung voraus. Artikel 15 Absatz 1 Buchstabe h in Verbindung mit Artikel 22 DSGVO besitzt einen anderen Anknüpfungspunkt. Auch Empfänger, geschuldeter Erklärungsinhalt und zeitliche Anwendung unterscheiden sich. C-203/22 liefert für Artikel 86 höchstens eine kenntlich gemachte Auslegungshilfe, keinen unmittelbaren Vollzugstitel. [Amtlicher KI-VO-Wortlaut](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), Artikel 13, 14, 26, 86 und 111/113.
 

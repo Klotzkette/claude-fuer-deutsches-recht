@@ -191,7 +191,9 @@ English: Complete list of all 8 skills in this plugin. Both links in each row do
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1.14. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie, ob die Anwendung nur Belege ordnet oder selbst Bau-Sicherheitsfunktionen übernimmt. Belegen Sie den vorgesehenen Arbeitsablauf mit Anleitung und Angebot; eine Schulungsbescheinigung ersetzt keine Prüfung der freigegebenen Verwendung.
 

@@ -256,7 +256,9 @@ English: Complete list of all 65 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Unterscheiden Sie private Schriftsatzhilfe von einem im Auftrag der Justiz eingesetzten entscheidungsunterstützenden System. Die Bezeichnung Recherchehilfe beweist nicht, dass tatsächlicher Entscheidungseinfluss fehlt.
 

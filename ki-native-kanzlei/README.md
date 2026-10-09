@@ -283,7 +283,9 @@ English: Complete list of all 30 skills in this plugin. Both links in each row d
 
 [Startseite](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/ki-native-kanzlei.md) · [Downloads](../ASSET_INDEX.md) · [Weitere Testakten](../testakten/README.md) · [Plugin-Dateien](.)
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 9. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig.
 

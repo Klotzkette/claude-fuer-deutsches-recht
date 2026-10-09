@@ -290,7 +290,9 @@ English: Complete list of all 118 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Halten Sie fest, wer welche Passage in welcher Fassung geprüft und die redaktionelle Verantwortung übernommen hat. Eine bloße Schlussfreigabe ohne erkennbaren Gegenstand ist als Beleg gesondert zu würdigen.
 

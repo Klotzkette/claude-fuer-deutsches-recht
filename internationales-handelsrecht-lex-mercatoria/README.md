@@ -318,7 +318,9 @@ English: Complete list of all 193 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Ordnen Sie den in der Union vorgesehenen Einsatz, die Lieferkette und die konkrete Systemverantwortung zu. Vertragliche Rechtswahl ersetzt keine Prüfung des räumlichen KI-VO-Anwendungsbereichs.
 

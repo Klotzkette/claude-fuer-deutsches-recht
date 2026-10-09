@@ -235,7 +235,9 @@ English: Complete list of all 103 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Führen Sie Cybervorfall, Datenschutzverletzung und schwerwiegenden KI-Vorfall in getrennten Prüfspuren. Ein gemeinsamer Zeitstrahl erleichtert den Abgleich, setzt aber die gesetzlichen Voraussetzungen und Empfänger nicht gleich.
 

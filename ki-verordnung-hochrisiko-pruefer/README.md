@@ -72,7 +72,9 @@ Das [Prüfprofil](../quality/evals/ki-verordnung-hochrisiko-pruefer.json) enthä
 
 Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
 
-## Neue vollständige Übungsakten
+<a id="neue-vollständige-übungsakten"></a>
+
+## 10. Neue vollständige Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -84,7 +86,9 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsreleas
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+<a id="alle-skills-im-überblick"></a>
+
+## 11. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

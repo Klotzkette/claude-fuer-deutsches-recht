@@ -230,7 +230,9 @@ English: Complete list of all 109 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie Minderheitsbeteiligung, tatsächliche Betriebssteuerung und spätere Produktänderungen separat. Die Beteiligungsstruktur allein bestimmt weder die Anbieterrolle noch eine Konformitätsvermutung.
 
