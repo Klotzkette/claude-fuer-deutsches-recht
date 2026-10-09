@@ -51,7 +51,7 @@ und
 
 #### 2. Kapitalerhöhung, Übernahme der neuen Geschäftsanteile und Aufgeld
 
-2.1 Die Gesellschafterversammlung der Gesellschaft beschließt eine Erhöhung des Stammkapitals von derzeit [Betrag in EUR] um [Betrag in EUR] auf künftig [Betrag in EUR] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen im Nennbetrag von je [Betrag in EUR]; der entsprechende Kapitalerhöhungsbeschluss bedarf nach § 53 Abs. 2 GmbHG (Gesetz betreffend die Gesellschaften mit beschränkter Haftung) der notariellen Beurkundung.
+2.1 Die Gesellschafterversammlung der Gesellschaft beschließt eine Erhöhung des Stammkapitals von derzeit [Betrag in EUR] um [Betrag in EUR] auf künftig [Betrag in EUR] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen im Nennbetrag von je [Betrag in EUR]; der entsprechende Kapitalerhöhungsbeschluss bedarf nach § 53 Abs. 3 GmbHG (Gesetz betreffend die Gesellschaften mit beschränkter Haftung) der notariellen Beurkundung.
 
 2.2 Die Investorin wird zur Übernahme der neuen Geschäftsanteile zugelassen und verpflichtet sich, sämtliche in Abschnitt 2.1 bezeichneten neuen Geschäftsanteile zu übernehmen; die hierzu erforderliche Übernahmeerklärung ist gemäß § 55 Abs. 1 GmbHG notariell zu beurkunden oder zu beglaubigen.
 
@@ -119,7 +119,7 @@ und
 
 8.2 Der Vollzug steht unter den folgenden aufschiebenden Bedingungen, die jeweils nachzuweisen sind:
 
- 8.2.1 Die Gesellschafterversammlung hat den Kapitalerhöhungsbeschluss und die hierfür erforderliche Satzungsänderung mit der nach § 53 Abs. 2 GmbHG erforderlichen Mehrheit gefasst und notariell beurkunden lassen.
+ 8.2.1 Die Gesellschafterversammlung hat den Kapitalerhöhungsbeschluss und die hierfür erforderliche Satzungsänderung mit der nach § 53 Abs. 2 GmbHG erforderlichen Mehrheit gefasst und nach § 53 Abs. 3 GmbHG notariell beurkunden lassen.
 
  8.2.2 Die Investorin hat die nach § 55 Abs. 1 GmbHG erforderliche Übernahmeerklärung über die neuen Geschäftsanteile in notariell beurkundeter oder beglaubigter Form abgegeben.
 
@@ -143,7 +143,7 @@ und
 
 #### 10. Notarielle Form
 
-10.1 Der Kapitalerhöhungsbeschluss und die mit ihm verbundene Satzungsänderung bedürfen nach §§ 53 Abs. 2, 55 GmbHG der notariellen Beurkundung; soweit dieser Vertrag eine Verpflichtung zur Abtretung bestehender Geschäftsanteile oder die Abtretung selbst enthält, bedarf diese nach § 15 Abs. 3 und 4 GmbHG ebenfalls der notariellen Beurkundung.
+10.1 Der Kapitalerhöhungsbeschluss und die mit ihm verbundene Satzungsänderung bedürfen nach § 53 Abs. 3 GmbHG der notariellen Beurkundung; soweit dieser Vertrag eine Verpflichtung zur Abtretung bestehender Geschäftsanteile oder die Abtretung selbst enthält, bedarf diese nach § 15 Abs. 3 und 4 GmbHG ebenfalls der notariellen Beurkundung.
 
 10.2 Die Parteien sind sich einig, dass die schuldrechtlichen Regelungen dieses Vertrags, soweit sie nicht ihrerseits der notariellen Form unterliegen, die notariell zu beurkundenden Erklärungen ergänzen und mit diesen ein einheitliches Vertragswerk bilden; ein etwaiger Formmangel einzelner Bestimmungen lässt die Wirksamkeit der übrigen Bestimmungen nach Abschnitt 12 unberührt.
 

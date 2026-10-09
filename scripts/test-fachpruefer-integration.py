@@ -10,6 +10,7 @@ from urllib.parse import unquote, urlsplit
 
 from markdown_it import MarkdownIt
 from readme_decimal_headings import normalize_decimal_headings
+from release_routing import validate_plugin_version
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -18,6 +19,12 @@ PACKAGES = {
     "ki-verordnung-hochrisiko-pruefer": "ki-hochrisiko-bewerbungsauswahl-kassel",
     "ki-verordnung-transparenzpruefer": "ki-transparenz-kanzlei-kommunikation-mainz",
     "vergesellschaftung-artikel-15": "vergesellschaftung-energienetz-hessen",
+}
+EXPECTED_SKILL_COUNTS = {
+    "enteignung-artikel-14": 9,
+    "ki-verordnung-hochrisiko-pruefer": 11,
+    "ki-verordnung-transparenzpruefer": 8,
+    "vergesellschaftung-artikel-15": 9,
 }
 
 
@@ -57,15 +64,14 @@ class FachprueferIntegrationTests(unittest.TestCase):
                 self.assertEqual(entries[name]["source"], f"./{name}")
                 for field in ("name", "version", "description", "author"):
                     self.assertEqual(entries[name][field], manifest[field])
-                self.assertEqual(manifest["version"], marketplace["version"])
+                validate_plugin_version(entries[name], marketplace["version"], root=ROOT)
                 self.assertEqual(manifest["author"]["email"], "39582916+Klotzkette@users.noreply.github.com")
 
     def test_runtime_references_survive_installation_without_repository(self):
         for name in PACKAGES:
             directory = (ROOT / name).resolve()
             paths = sorted((directory / "skills").glob("*/SKILL.md"))
-            self.assertGreaterEqual(len(paths), 1, name)
-            self.assertLessEqual(len(paths), 10, name)
+            self.assertEqual(len(paths), EXPECTED_SKILL_COUNTS[name], name)
             paths += sorted((directory / "references").rglob("*.md"))
             for path in paths:
                 with self.subTest(file=str(path.relative_to(ROOT))):

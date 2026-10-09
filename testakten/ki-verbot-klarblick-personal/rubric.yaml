@@ -1,0 +1,102 @@
+{
+  "name": "Testakte Klarblick Personal und die Schichtverteilung",
+  "plugin": "ki-verordnung-verbotene-praktiken",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 12
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.docx ist vorhanden.",
+      "path": "01_Pruefauftrag.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.pdf ist vorhanden.",
+      "path": "01_Pruefauftrag.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Techniknotiz.docx ist vorhanden.",
+      "path": "02_Techniknotiz.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Techniknotiz.pdf ist vorhanden.",
+      "path": "02_Techniknotiz.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Personalnotiz.docx ist vorhanden.",
+      "path": "03_Personalnotiz.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Personalnotiz.pdf ist vorhanden.",
+      "path": "03_Personalnotiz.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Auftrag.eml ist vorhanden.",
+      "path": "04_Auftrag.eml"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Anbieter.eml ist vorhanden.",
+      "path": "05_Anbieter.eml"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Schichtliste.eml ist vorhanden.",
+      "path": "06_Schichtliste.eml"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Beschwerde.eml ist vorhanden.",
+      "path": "07_Beschwerde.eml"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Schichten.xlsx ist vorhanden.",
+      "path": "11_Schichten.xlsx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Projektchat.txt ist vorhanden.",
+      "path": "12_Projektchat.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Pruefauftrag.docx",
+      "contains": "Türsensorik"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Webcamauswertung zu Emotionen und getrennte Türsensorik funktional unterscheiden; die tatsächliche Schichtverwendung berücksichtigen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Sicherheitsbehauptung und allgemeine Einwilligung anhand des konkreten Verbots und seiner Ausnahmen prüfen, statt diese als pauschale Freigabe zu übernehmen."
+    }
+  ]
+}

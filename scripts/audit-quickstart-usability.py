@@ -46,6 +46,27 @@ def has_all(text: str, alternatives: tuple[str, ...]) -> bool:
     return any(part.casefold() in lowered for part in alternatives)
 
 
+def decimal_paragraph_errors(text: str) -> list[str]:
+    """Ohne H2 sind nur durchgehend nummerierte Abschnitte 1 bis n zulässig."""
+    paragraphs = re.split(r"\n[ \t]*\n", text.strip())
+    section_start = re.compile(r"^(?:[0-9]+(?:\.[0-9]+)*[.)]?|[A-Za-z]+[.)])(?:[ \t]+|$)")
+    first = next((index for index, paragraph in enumerate(paragraphs)
+                  if section_start.match(paragraph)), len(paragraphs))
+    numbers, errors = [], []
+    # H1 und einleitender Fließtext bleiben vor der Gliederung. Danach darf
+    # kein unnummerierter oder nicht dezimaler Abschnitt übersprungen werden.
+    for paragraph in paragraphs[first:]:
+        label = paragraph.splitlines()[0]
+        number = re.match(r"([1-9][0-9]*)\.\s+\S", label)
+        if number is None:
+            errors.append(f"nicht dezimaler Abschnitt: {label}")
+        else:
+            numbers.append(int(number.group(1)))
+    if not numbers or numbers != list(range(1, len(numbers) + 1)):
+        errors.append("fehlende, doppelte oder ungeordnete Abschnittsnummern")
+    return errors
+
+
 def main() -> int:
     protected = protected_slugs()
     problems: list[str] = []
@@ -131,15 +152,18 @@ def main() -> int:
             problems.append(f"{rel}: H2-Gliederung ist nicht fortlaufend dezimal")
         if individually_reviewed:
             labels = re.findall(r"^## (.+)$", text, flags=re.MULTILINE)
-            numbers = []
-            for label in labels:
-                number = re.match(r"(\d+(?:\.\d+)*)(?:\.)?\s+\S", label)
-                if number is None:
-                    problems.append(f"{rel}: nicht dezimale Überschrift: {label}")
-                else:
-                    numbers.append(tuple(map(int, number.group(1).split('.'))))
-            if not numbers or numbers != sorted(set(numbers)):
-                problems.append(f"{rel}: fehlende, doppelte oder ungeordnete Abschnittsnummern")
+            if labels:
+                numbers = []
+                for label in labels:
+                    number = re.match(r"(\d+(?:\.\d+)*)(?:\.)?\s+\S", label)
+                    if number is None:
+                        problems.append(f"{rel}: nicht dezimale Überschrift: {label}")
+                    else:
+                        numbers.append(tuple(map(int, number.group(1).split('.'))))
+                if not numbers or numbers != sorted(set(numbers)):
+                    problems.append(f"{rel}: fehlende, doppelte oder ungeordnete Abschnittsnummern")
+            else:
+                problems.extend(f"{rel}: {error}" for error in decimal_paragraph_errors(text))
         stripped = text.rstrip()
         if not stripped or stripped[-1] not in ".!?`)]":
             problems.append(f"{rel}: Dateiende wirkt abgeschnitten")

@@ -1,0 +1,1272 @@
+{
+  "name": "Testakte Adelheid Pfister",
+  "plugin": "betreuungsrecht",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 207
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Uebernahme/2026-10-01_Bestellungsmitteilung.pdf ist vorhanden.",
+      "path": "01_Uebernahme/2026-10-01_Bestellungsmitteilung.pdf"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Uebernahme/2026-10-02_Gespraech_Adelheid.docx ist vorhanden.",
+      "path": "01_Uebernahme/2026-10-02_Gespraech_Adelheid.docx"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Uebernahme/2026-10-06_Uebergabeprotokoll.docx ist vorhanden.",
+      "path": "01_Uebernahme/2026-10-06_Uebergabeprotokoll.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Uebernahme/2026-10-07_Geraete_und_Unterlagen.docx ist vorhanden.",
+      "path": "01_Uebernahme/2026-10-07_Geraete_und_Unterlagen.docx"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Uebernahme/2026-10-08_Arbeitsauftrag.docx ist vorhanden.",
+      "path": "01_Uebernahme/2026-10-08_Arbeitsauftrag.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2023-10.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2023-10.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2023-11.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2023-11.pdf"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2023-12.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2023-12.pdf"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-01.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-01.pdf"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-02.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-02.pdf"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-03.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-03.pdf"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-04.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-04.pdf"
+    },
+    {
+      "id": "original-013",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-05.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-05.pdf"
+    },
+    {
+      "id": "original-014",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-06.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-06.pdf"
+    },
+    {
+      "id": "original-015",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-07.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-07.pdf"
+    },
+    {
+      "id": "original-016",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-08.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-08.pdf"
+    },
+    {
+      "id": "original-017",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-09.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-09.pdf"
+    },
+    {
+      "id": "original-018",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-10.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-10.pdf"
+    },
+    {
+      "id": "original-019",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-11.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-11.pdf"
+    },
+    {
+      "id": "original-020",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2024-12.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2024-12.pdf"
+    },
+    {
+      "id": "original-021",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-01.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-01.pdf"
+    },
+    {
+      "id": "original-022",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-02.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-02.pdf"
+    },
+    {
+      "id": "original-023",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-03.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-03.pdf"
+    },
+    {
+      "id": "original-024",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-04.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-04.pdf"
+    },
+    {
+      "id": "original-025",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-05.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-05.pdf"
+    },
+    {
+      "id": "original-026",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-06.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-06.pdf"
+    },
+    {
+      "id": "original-027",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-07.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-07.pdf"
+    },
+    {
+      "id": "original-028",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-08.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-08.pdf"
+    },
+    {
+      "id": "original-029",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-09.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-09.pdf"
+    },
+    {
+      "id": "original-030",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-10.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-10.pdf"
+    },
+    {
+      "id": "original-031",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-11.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-11.pdf"
+    },
+    {
+      "id": "original-032",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2025-12.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2025-12.pdf"
+    },
+    {
+      "id": "original-033",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-01.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-01.pdf"
+    },
+    {
+      "id": "original-034",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-02.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-02.pdf"
+    },
+    {
+      "id": "original-035",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-03.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-03.pdf"
+    },
+    {
+      "id": "original-036",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-04.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-04.pdf"
+    },
+    {
+      "id": "original-037",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-05.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-05.pdf"
+    },
+    {
+      "id": "original-038",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-06.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-06.pdf"
+    },
+    {
+      "id": "original-039",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-07.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-07.pdf"
+    },
+    {
+      "id": "original-040",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-08.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-08.pdf"
+    },
+    {
+      "id": "original-041",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/GIRO_2026-09.pdf ist vorhanden.",
+      "path": "02_Konten/GIRO_2026-09.pdf"
+    },
+    {
+      "id": "original-042",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2023-10.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2023-10.pdf"
+    },
+    {
+      "id": "original-043",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2023-11.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2023-11.pdf"
+    },
+    {
+      "id": "original-044",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2023-12.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2023-12.pdf"
+    },
+    {
+      "id": "original-045",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-01.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-01.pdf"
+    },
+    {
+      "id": "original-046",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-02.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-02.pdf"
+    },
+    {
+      "id": "original-047",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-03.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-03.pdf"
+    },
+    {
+      "id": "original-048",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-04.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-04.pdf"
+    },
+    {
+      "id": "original-049",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-05.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-05.pdf"
+    },
+    {
+      "id": "original-050",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-06.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-06.pdf"
+    },
+    {
+      "id": "original-051",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-07.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-07.pdf"
+    },
+    {
+      "id": "original-052",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-08.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-08.pdf"
+    },
+    {
+      "id": "original-053",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-09.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-09.pdf"
+    },
+    {
+      "id": "original-054",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-10.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-10.pdf"
+    },
+    {
+      "id": "original-055",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-11.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-11.pdf"
+    },
+    {
+      "id": "original-056",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2024-12.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2024-12.pdf"
+    },
+    {
+      "id": "original-057",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-01.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-01.pdf"
+    },
+    {
+      "id": "original-058",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-02.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-02.pdf"
+    },
+    {
+      "id": "original-059",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-03.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-03.pdf"
+    },
+    {
+      "id": "original-060",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-04.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-04.pdf"
+    },
+    {
+      "id": "original-061",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-05.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-05.pdf"
+    },
+    {
+      "id": "original-062",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-06.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-06.pdf"
+    },
+    {
+      "id": "original-063",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-07.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-07.pdf"
+    },
+    {
+      "id": "original-064",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-08.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-08.pdf"
+    },
+    {
+      "id": "original-065",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-09.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-09.pdf"
+    },
+    {
+      "id": "original-066",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-10.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-10.pdf"
+    },
+    {
+      "id": "original-067",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-11.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-11.pdf"
+    },
+    {
+      "id": "original-068",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2025-12.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2025-12.pdf"
+    },
+    {
+      "id": "original-069",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-01.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-01.pdf"
+    },
+    {
+      "id": "original-070",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-02.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-02.pdf"
+    },
+    {
+      "id": "original-071",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-03.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-03.pdf"
+    },
+    {
+      "id": "original-072",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-04.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-04.pdf"
+    },
+    {
+      "id": "original-073",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-05.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-05.pdf"
+    },
+    {
+      "id": "original-074",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-06.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-06.pdf"
+    },
+    {
+      "id": "original-075",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-07.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-07.pdf"
+    },
+    {
+      "id": "original-076",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-08.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-08.pdf"
+    },
+    {
+      "id": "original-077",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Konten/SPAR_2026-09.pdf ist vorhanden.",
+      "path": "02_Konten/SPAR_2026-09.pdf"
+    },
+    {
+      "id": "original-078",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2023-10.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2023-10.pdf"
+    },
+    {
+      "id": "original-079",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2024-01.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2024-01.pdf"
+    },
+    {
+      "id": "original-080",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2024-04.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2024-04.pdf"
+    },
+    {
+      "id": "original-081",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2024-07.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2024-07.pdf"
+    },
+    {
+      "id": "original-082",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2024-10.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2024-10.pdf"
+    },
+    {
+      "id": "original-083",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2025-01.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2025-01.pdf"
+    },
+    {
+      "id": "original-084",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2025-04.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2025-04.pdf"
+    },
+    {
+      "id": "original-085",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2025-07.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2025-07.pdf"
+    },
+    {
+      "id": "original-086",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2025-10.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2025-10.pdf"
+    },
+    {
+      "id": "original-087",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2026-01.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2026-01.pdf"
+    },
+    {
+      "id": "original-088",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2026-04.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2026-04.pdf"
+    },
+    {
+      "id": "original-089",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/AP-2026-07.pdf ist vorhanden.",
+      "path": "03_Belege/AP-2026-07.pdf"
+    },
+    {
+      "id": "original-090",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-04.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-04.pdf"
+    },
+    {
+      "id": "original-091",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-05.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-05.pdf"
+    },
+    {
+      "id": "original-092",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-06.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-06.pdf"
+    },
+    {
+      "id": "original-093",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-07.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-07.pdf"
+    },
+    {
+      "id": "original-094",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-08.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-08.pdf"
+    },
+    {
+      "id": "original-095",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-09.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-09.pdf"
+    },
+    {
+      "id": "original-096",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-10.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-10.pdf"
+    },
+    {
+      "id": "original-097",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-11.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-11.pdf"
+    },
+    {
+      "id": "original-098",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2025-12.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2025-12.pdf"
+    },
+    {
+      "id": "original-099",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-01.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-01.pdf"
+    },
+    {
+      "id": "original-100",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-02.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-02.pdf"
+    },
+    {
+      "id": "original-101",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-03.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-03.pdf"
+    },
+    {
+      "id": "original-102",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-04.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-04.pdf"
+    },
+    {
+      "id": "original-103",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-05.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-05.pdf"
+    },
+    {
+      "id": "original-104",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-06.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-06.pdf"
+    },
+    {
+      "id": "original-105",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-07.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-07.pdf"
+    },
+    {
+      "id": "original-106",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-08.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-08.pdf"
+    },
+    {
+      "id": "original-107",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/EK-2026-09.pdf ist vorhanden.",
+      "path": "03_Belege/EK-2026-09.pdf"
+    },
+    {
+      "id": "original-108",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/HV-23.pdf ist vorhanden.",
+      "path": "03_Belege/HV-23.pdf"
+    },
+    {
+      "id": "original-109",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/HV-24.pdf ist vorhanden.",
+      "path": "03_Belege/HV-24.pdf"
+    },
+    {
+      "id": "original-110",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2023-10.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2023-10.pdf"
+    },
+    {
+      "id": "original-111",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2023-11.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2023-11.pdf"
+    },
+    {
+      "id": "original-112",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2023-12.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2023-12.pdf"
+    },
+    {
+      "id": "original-113",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-01.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-01.pdf"
+    },
+    {
+      "id": "original-114",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-02.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-02.pdf"
+    },
+    {
+      "id": "original-115",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-03.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-03.pdf"
+    },
+    {
+      "id": "original-116",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-04.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-04.pdf"
+    },
+    {
+      "id": "original-117",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-05.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-05.pdf"
+    },
+    {
+      "id": "original-118",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-06.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-06.pdf"
+    },
+    {
+      "id": "original-119",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-07.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-07.pdf"
+    },
+    {
+      "id": "original-120",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-08.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-08.pdf"
+    },
+    {
+      "id": "original-121",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-09.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-09.pdf"
+    },
+    {
+      "id": "original-122",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-10.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-10.pdf"
+    },
+    {
+      "id": "original-123",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-11.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-11.pdf"
+    },
+    {
+      "id": "original-124",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2024-12.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2024-12.pdf"
+    },
+    {
+      "id": "original-125",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-01.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-01.pdf"
+    },
+    {
+      "id": "original-126",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-02.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-02.pdf"
+    },
+    {
+      "id": "original-127",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-03.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-03.pdf"
+    },
+    {
+      "id": "original-128",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-04.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-04.pdf"
+    },
+    {
+      "id": "original-129",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-05.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-05.pdf"
+    },
+    {
+      "id": "original-130",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-06.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-06.pdf"
+    },
+    {
+      "id": "original-131",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-07.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-07.pdf"
+    },
+    {
+      "id": "original-132",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-08.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-08.pdf"
+    },
+    {
+      "id": "original-133",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-09.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-09.pdf"
+    },
+    {
+      "id": "original-134",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-10.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-10.pdf"
+    },
+    {
+      "id": "original-135",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-11.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-11.pdf"
+    },
+    {
+      "id": "original-136",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2025-12.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2025-12.pdf"
+    },
+    {
+      "id": "original-137",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-01.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-01.pdf"
+    },
+    {
+      "id": "original-138",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-02.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-02.pdf"
+    },
+    {
+      "id": "original-139",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-03.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-03.pdf"
+    },
+    {
+      "id": "original-140",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-04.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-04.pdf"
+    },
+    {
+      "id": "original-141",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-05.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-05.pdf"
+    },
+    {
+      "id": "original-142",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-06.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-06.pdf"
+    },
+    {
+      "id": "original-143",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-07.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-07.pdf"
+    },
+    {
+      "id": "original-144",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-08.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-08.pdf"
+    },
+    {
+      "id": "original-145",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/MH-2026-09.pdf ist vorhanden.",
+      "path": "03_Belege/MH-2026-09.pdf"
+    },
+    {
+      "id": "original-146",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/NE-2023.pdf ist vorhanden.",
+      "path": "03_Belege/NE-2023.pdf"
+    },
+    {
+      "id": "original-147",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/NE-2024.pdf ist vorhanden.",
+      "path": "03_Belege/NE-2024.pdf"
+    },
+    {
+      "id": "original-148",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/NE-2025.pdf ist vorhanden.",
+      "path": "03_Belege/NE-2025.pdf"
+    },
+    {
+      "id": "original-149",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/SS-23119.pdf ist vorhanden.",
+      "path": "03_Belege/SS-23119.pdf"
+    },
+    {
+      "id": "original-150",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/SS-24102.pdf ist vorhanden.",
+      "path": "03_Belege/SS-24102.pdf"
+    },
+    {
+      "id": "original-151",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/SS-26180.pdf ist vorhanden.",
+      "path": "03_Belege/SS-26180.pdf"
+    },
+    {
+      "id": "original-152",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2025-10.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2025-10.pdf"
+    },
+    {
+      "id": "original-153",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2025-11.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2025-11.pdf"
+    },
+    {
+      "id": "original-154",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2025-12.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2025-12.pdf"
+    },
+    {
+      "id": "original-155",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-01.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-01.pdf"
+    },
+    {
+      "id": "original-156",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-02.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-02.pdf"
+    },
+    {
+      "id": "original-157",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-03.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-03.pdf"
+    },
+    {
+      "id": "original-158",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-04.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-04.pdf"
+    },
+    {
+      "id": "original-159",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-05.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-05.pdf"
+    },
+    {
+      "id": "original-160",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-06.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-06.pdf"
+    },
+    {
+      "id": "original-161",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-07.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-07.pdf"
+    },
+    {
+      "id": "original-162",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-08.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-08.pdf"
+    },
+    {
+      "id": "original-163",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/TEL-2026-09.pdf ist vorhanden.",
+      "path": "03_Belege/TEL-2026-09.pdf"
+    },
+    {
+      "id": "original-164",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/W-24051.pdf ist vorhanden.",
+      "path": "03_Belege/W-24051.pdf"
+    },
+    {
+      "id": "original-165",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Belege/ZT-250508.pdf ist vorhanden.",
+      "path": "03_Belege/ZT-250508.pdf"
+    },
+    {
+      "id": "original-166",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Schriftverkehr/2024-06-11_Notiz_Fenster.docx ist vorhanden.",
+      "path": "04_Schriftverkehr/2024-06-11_Notiz_Fenster.docx"
+    },
+    {
+      "id": "original-167",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Schriftverkehr/2024-09-02_Abrede_Nachbarschaftshilfe.docx ist vorhanden.",
+      "path": "04_Schriftverkehr/2024-09-02_Abrede_Nachbarschaftshilfe.docx"
+    },
+    {
+      "id": "original-168",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Schriftverkehr/2026-10-03_Bankanschreiben.docx ist vorhanden.",
+      "path": "04_Schriftverkehr/2026-10-03_Bankanschreiben.docx"
+    },
+    {
+      "id": "original-169",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Schriftverkehr/2026-10-04_Ruprecht_Stellungnahme.docx ist vorhanden.",
+      "path": "04_Schriftverkehr/2026-10-04_Ruprecht_Stellungnahme.docx"
+    },
+    {
+      "id": "original-170",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Bildschirmfotos/01_LebensKompass_Bestellseite.png ist vorhanden.",
+      "path": "05_Bildschirmfotos/01_LebensKompass_Bestellseite.png"
+    },
+    {
+      "id": "original-171",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Bildschirmfotos/02_Chat_Karte_Juni.png ist vorhanden.",
+      "path": "05_Bildschirmfotos/02_Chat_Karte_Juni.png"
+    },
+    {
+      "id": "original-172",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Bildschirmfotos/03_SofaKino_Konto.png ist vorhanden.",
+      "path": "05_Bildschirmfotos/03_SofaKino_Konto.png"
+    },
+    {
+      "id": "original-173",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Bildschirmfotos/04_LebensKompass_Kontakt.png ist vorhanden.",
+      "path": "05_Bildschirmfotos/04_LebensKompass_Kontakt.png"
+    },
+    {
+      "id": "original-174",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Tabellen/Bankexport_2023-10_bis_2026-09.xlsx ist vorhanden.",
+      "path": "06_Tabellen/Bankexport_2023-10_bis_2026-09.xlsx"
+    },
+    {
+      "id": "original-175",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Tabellen/Haushaltsnotizen_Adelheid_2026-10-02.xlsx ist vorhanden.",
+      "path": "06_Tabellen/Haushaltsnotizen_Adelheid_2026-10-02.xlsx"
+    },
+    {
+      "id": "original-176",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/01_2023-10-12_juna-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/01_2023-10-12_juna-an-adelheid.eml"
+    },
+    {
+      "id": "original-177",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/02_2024-02-14_adelheid-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/02_2024-02-14_adelheid-an-juna.eml"
+    },
+    {
+      "id": "original-178",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/03_2024-03-14_strom-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/03_2024-03-14_strom-an-adelheid.eml"
+    },
+    {
+      "id": "original-179",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/04_2024-05-09_ruprecht-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/04_2024-05-09_ruprecht-an-adelheid.eml"
+    },
+    {
+      "id": "original-180",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/05_2024-05-17_ruprecht-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/05_2024-05-17_ruprecht-an-juna.eml"
+    },
+    {
+      "id": "original-181",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/06_2024-06-08_ruprecht-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/06_2024-06-08_ruprecht-an-adelheid.eml"
+    },
+    {
+      "id": "original-182",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/07_2024-09-02_egon-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/07_2024-09-02_egon-an-adelheid.eml"
+    },
+    {
+      "id": "original-183",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/08_2024-10-05_ruprecht-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/08_2024-10-05_ruprecht-an-adelheid.eml"
+    },
+    {
+      "id": "original-184",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/09_2024-12-03_haus-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/09_2024-12-03_haus-an-adelheid.eml"
+    },
+    {
+      "id": "original-185",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/10_2025-01-06_abo-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/10_2025-01-06_abo-an-adelheid.eml"
+    },
+    {
+      "id": "original-186",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/11_2025-01-08_egon-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/11_2025-01-08_egon-an-juna.eml"
+    },
+    {
+      "id": "original-187",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/12_2025-03-13_strom-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/12_2025-03-13_strom-an-adelheid.eml"
+    },
+    {
+      "id": "original-188",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/13_2025-04-15_juna-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/13_2025-04-15_juna-an-adelheid.eml"
+    },
+    {
+      "id": "original-189",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/14_2025-04-30_juna-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/14_2025-04-30_juna-an-adelheid.eml"
+    },
+    {
+      "id": "original-190",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/15_2025-05-09_egon-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/15_2025-05-09_egon-an-adelheid.eml"
+    },
+    {
+      "id": "original-191",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/16_2025-08-08_egon-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/16_2025-08-08_egon-an-adelheid.eml"
+    },
+    {
+      "id": "original-192",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/17_2025-09-18_egon-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/17_2025-09-18_egon-an-juna.eml"
+    },
+    {
+      "id": "original-193",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/18_2025-11-07_juna-an-abo.eml ist vorhanden.",
+      "path": "07_E-Mails/18_2025-11-07_juna-an-abo.eml"
+    },
+    {
+      "id": "original-194",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/19_2025-11-22_abo-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/19_2025-11-22_abo-an-juna.eml"
+    },
+    {
+      "id": "original-195",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/20_2025-12-04_haus-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/20_2025-12-04_haus-an-adelheid.eml"
+    },
+    {
+      "id": "original-196",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/21_2026-01-14_ruprecht-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/21_2026-01-14_ruprecht-an-adelheid.eml"
+    },
+    {
+      "id": "original-197",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/22_2026-03-14_strom-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/22_2026-03-14_strom-an-adelheid.eml"
+    },
+    {
+      "id": "original-198",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/23_2026-04-10_egon-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/23_2026-04-10_egon-an-adelheid.eml"
+    },
+    {
+      "id": "original-199",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/24_2026-05-15_ruprecht-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/24_2026-05-15_ruprecht-an-juna.eml"
+    },
+    {
+      "id": "original-200",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/25_2026-06-18_juna-an-egon.eml ist vorhanden.",
+      "path": "07_E-Mails/25_2026-06-18_juna-an-egon.eml"
+    },
+    {
+      "id": "original-201",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/26_2026-08-12_egon-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/26_2026-08-12_egon-an-juna.eml"
+    },
+    {
+      "id": "original-202",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/27_2026-09-20_lotto-an-adelheid.eml ist vorhanden.",
+      "path": "07_E-Mails/27_2026-09-20_lotto-an-adelheid.eml"
+    },
+    {
+      "id": "original-203",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/28_2026-10-02_maja-an-bank.eml ist vorhanden.",
+      "path": "07_E-Mails/28_2026-10-02_maja-an-bank.eml"
+    },
+    {
+      "id": "original-204",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/29_2026-10-05_bank-an-maja.eml ist vorhanden.",
+      "path": "07_E-Mails/29_2026-10-05_bank-an-maja.eml"
+    },
+    {
+      "id": "original-205",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/30_2026-10-06_juna-an-maja.eml ist vorhanden.",
+      "path": "07_E-Mails/30_2026-10-06_juna-an-maja.eml"
+    },
+    {
+      "id": "original-206",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/31_2026-10-07_egon-an-maja.eml ist vorhanden.",
+      "path": "07_E-Mails/31_2026-10-07_egon-an-maja.eml"
+    },
+    {
+      "id": "original-207",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_E-Mails/32_2026-10-08_maja-an-juna.eml ist vorhanden.",
+      "path": "07_E-Mails/32_2026-10-08_maja-an-juna.eml"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Uebernahme/2026-10-02_Gespraech_Adelheid.docx",
+      "contains": "SofaKino"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Drei Jahre Bankbewegungen mit Einzelbelegen abstimmen und Umbuchungen, Einnahmen und Ausgaben ohne Doppelzählung trennen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "SofaKino als erklärten Wunsch respektieren; Fensterhilfe, Transporterdarlehen und Egons Zahlung anhand widersprüchlicher Belege prüfen und nur passende Schreiben entwerfen."
+    }
+  ]
+}

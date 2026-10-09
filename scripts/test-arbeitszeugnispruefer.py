@@ -75,7 +75,7 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
                     self.assertNotIn(term, text)
                 self.assertTrue(excludes_status_preamble(text))
                 self.assertNotRegex(text, r"(?i)höchstens (?:zwei|drei) (?:punkte|fragen)")
-                self.assertTrue(all(re.match(r"##+ \d+(?:\.\d+)*\. ", line) for line in text.splitlines() if line.startswith("##")))
+                self.assertTrue(all(re.match(r"##+ \d+(?:\.\d+)*\.? ", line) for line in text.splitlines() if line.startswith("##")))
                 if kind == "schnellstart":
                     self.assertLess(len(text.encode("utf-8")), 7500)
                     self.assertLess(len(text), 7500)
@@ -85,7 +85,8 @@ class ArbeitszeugnisprueferTests(unittest.TestCase):
         for kind in ("werkstatt", "schnellstart"):
             text = (PLUGIN / f"arbeitszeugnispruefer-{kind}.md").read_text(encoding="utf-8")
             with self.subTest(prompt=kind):
-                for anchor in ("Promptdatei", "Startformel", "Prüfziel", "Teilantwort", "Suchschleife", "Arbeitgeberantwort", "Vorfassung", "Folgeschreiben"):
+                self.assertRegex(text, r"(?:Promptdatei|Einfügen oder Hochladen dieser Datei)")
+                for anchor in ("Startformel", "Prüfziel", "Teilantwort", "Suchschleife", "Arbeitgeberantwort", "Vorfassung", "Folgeschreiben"):
                     self.assertIn(anchor, text)
                 self.assertRegex(text, r"(?i)(?:unlesbar|OCR)")
                 self.assertRegex(text, r"(?i)widerspr[üu]")

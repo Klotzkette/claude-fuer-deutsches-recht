@@ -207,6 +207,7 @@ jobs:
           python3 scripts/test-generate-megaprompt.py
           python3 scripts/audit-generated-prompt-hygiene.py
           python3 scripts/audit-prompt-profile-routing.py
+          python3 scripts/test-quickstart-usability.py
           python3 scripts/audit-quickstart-usability.py
           python3 scripts/validate-current-law-sentinels.py
           python3 scripts/test-legal-calculators.py

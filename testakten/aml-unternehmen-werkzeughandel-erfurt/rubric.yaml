@@ -1,0 +1,180 @@
+{
+  "name": "Erfurt Eine Maschine und zwei Umschläge",
+  "plugin": "geldwaeschebeauftragter",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 25
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P01_Auftragsbestaetigung.pdf ist vorhanden.",
+      "path": "01_Belege/U-P01_Auftragsbestaetigung.pdf"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P02_Kassenbeleg_0510.pdf ist vorhanden.",
+      "path": "01_Belege/U-P02_Kassenbeleg_0510.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P03_Kassenbeleg_0610.pdf ist vorhanden.",
+      "path": "01_Belege/U-P03_Kassenbeleg_0610.pdf"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P04_Gesellschaftsdaten_Kunde.pdf ist vorhanden.",
+      "path": "01_Belege/U-P04_Gesellschaftsdaten_Kunde.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P05_Identifizierungsnotiz.pdf ist vorhanden.",
+      "path": "01_Belege/U-P05_Identifizierungsnotiz.pdf"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P06_Altdrehbank_Verkauf.pdf ist vorhanden.",
+      "path": "01_Belege/U-P06_Altdrehbank_Verkauf.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P07_Auslieferungszettel.pdf ist vorhanden.",
+      "path": "01_Belege/U-P07_Auslieferungszettel.pdf"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/U-P08_Kassenabgleich.pdf ist vorhanden.",
+      "path": "01_Belege/U-P08_Kassenabgleich.pdf"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/U-D01_Arbeitsauftrag.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/U-D01_Arbeitsauftrag.docx"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/U-D02_Entwurf_Rueckfrage.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/U-D02_Entwurf_Rueckfrage.docx"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/U-D03_Telefonnotiz.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/U-D03_Telefonnotiz.docx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/U-D04_Betriebsablauf.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/U-D04_Betriebsablauf.docx"
+    },
+    {
+      "id": "original-013",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E01_2026-09-30.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E01_2026-09-30.eml"
+    },
+    {
+      "id": "original-014",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E02_2026-10-02.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E02_2026-10-02.eml"
+    },
+    {
+      "id": "original-015",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E03_2026-10-05.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E03_2026-10-05.eml"
+    },
+    {
+      "id": "original-016",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E04_2026-10-06.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E04_2026-10-06.eml"
+    },
+    {
+      "id": "original-017",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E05_2026-10-06.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E05_2026-10-06.eml"
+    },
+    {
+      "id": "original-018",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E06_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E06_2026-10-07.eml"
+    },
+    {
+      "id": "original-019",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E07_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E07_2026-10-07.eml"
+    },
+    {
+      "id": "original-020",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E08_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E08_2026-10-07.eml"
+    },
+    {
+      "id": "original-021",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E09_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E09_2026-10-07.eml"
+    },
+    {
+      "id": "original-022",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E10_2026-10-08.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E10_2026-10-08.eml"
+    },
+    {
+      "id": "original-023",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E11_2026-10-08.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E11_2026-10-08.eml"
+    },
+    {
+      "id": "original-024",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/U-E12_2026-10-08.eml ist vorhanden.",
+      "path": "03_E-Mails/U-E12_2026-10-08.eml"
+    },
+    {
+      "id": "original-025",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Tabellen/Fallregister.xlsx ist vorhanden.",
+      "path": "04_Tabellen/Fallregister.xlsx"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "02_Arbeitsunterlagen/U-D01_Arbeitsauftrag.docx",
+      "contains": "WT-261001-17"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Die zwei Kassenbelege, Kundenvertretung und Identifizierung am konkreten Maschinenauftrag prüfen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Offene kaufmännische Auslieferungsfreigabe von eigenständigen Meldepflichten trennen; ein fehlender Nachweis begründet allein keine Beschuldigung."
+    }
+  ]
+}

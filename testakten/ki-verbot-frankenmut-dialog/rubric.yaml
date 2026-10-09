@@ -1,0 +1,102 @@
+{
+  "name": "Testakte Frankenmut Dialog und das Familienabo",
+  "plugin": "ki-verordnung-verbotene-praktiken",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 12
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.docx ist vorhanden.",
+      "path": "01_Pruefauftrag.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.pdf ist vorhanden.",
+      "path": "01_Pruefauftrag.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Produktnotiz.docx ist vorhanden.",
+      "path": "02_Produktnotiz.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Produktnotiz.pdf ist vorhanden.",
+      "path": "02_Produktnotiz.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Gespraech_Riemenschneider.docx ist vorhanden.",
+      "path": "03_Gespraech_Riemenschneider.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Gespraech_Riemenschneider.pdf ist vorhanden.",
+      "path": "03_Gespraech_Riemenschneider.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Auftrag.eml ist vorhanden.",
+      "path": "04_Auftrag.eml"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Anbieterantwort.eml ist vorhanden.",
+      "path": "05_Anbieterantwort.eml"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Buchhaltung.eml ist vorhanden.",
+      "path": "06_Buchhaltung.eml"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Betroffene.eml ist vorhanden.",
+      "path": "07_Betroffene.eml"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Kostenstand.xlsx ist vorhanden.",
+      "path": "11_Kostenstand.xlsx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Projektchat.txt ist vorhanden.",
+      "path": "12_Projektchat.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Pruefauftrag.docx",
+      "contains": "228 EUR"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Die angebliche Empfehlung der Tochter, tatsächliche Belastung und besondere Schutzbedürftigkeit anhand der widersprüchlichen Unterlagen prüfen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Bezahlte 228 EUR und weitere vertragliche Belastung auseinanderhalten; Schaden, Kausalität und Erinnerungslücken nicht pauschal unterstellen."
+    }
+  ]
+}

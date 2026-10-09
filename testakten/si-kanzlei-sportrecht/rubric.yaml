@@ -1,6 +1,6 @@
 {
   "name": "Vier Spiele auf der Tribüne",
-  "plugin": "si-native-kanzlei",
+  "plugin": "ki-native-kanzlei",
   "stand": "2026-10-07",
   "checks": [
     {

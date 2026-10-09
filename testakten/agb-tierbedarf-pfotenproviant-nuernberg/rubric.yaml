@@ -1,0 +1,102 @@
+{
+  "name": "Pfotenproviant: AGB für Laden und Onlinehandel",
+  "plugin": "agb-werkstatt",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 12
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Vertriebsbesprechung.docx ist vorhanden.",
+      "path": "01_Vertriebsbesprechung.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Entwurf_Vertrieb.docx ist vorhanden.",
+      "path": "02_Entwurf_Vertrieb.docx"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Rechnung_PP441.pdf ist vorhanden.",
+      "path": "03_Rechnung_PP441.pdf"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Lieferantenbedingungen.pdf ist vorhanden.",
+      "path": "04_Lieferantenbedingungen.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Haendleranfrage.docx ist vorhanden.",
+      "path": "05_Haendleranfrage.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Kassenablauf.pdf ist vorhanden.",
+      "path": "06_Kassenablauf.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Mandat_Pfotenproviant.eml ist vorhanden.",
+      "path": "07_Mandat_Pfotenproviant.eml"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 08_Kundin_Rueckgabe.eml ist vorhanden.",
+      "path": "08_Kundin_Rueckgabe.eml"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 09_Lieferangebot_Anhang.eml ist vorhanden.",
+      "path": "09_Lieferangebot_Anhang.eml"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 10_Sortiment_Kanaele.csv ist vorhanden.",
+      "path": "10_Sortiment_Kanaele.csv"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Kassenchat.txt ist vorhanden.",
+      "path": "11_Kassenchat.txt"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Telefonnotiz_Haendler.txt ist vorhanden.",
+      "path": "12_Telefonnotiz_Haendler.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Vertriebsbesprechung.docx",
+      "contains": "Futtersparpaket"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Bezahlte Onlinebestellung, bloße Reservierung und Ladenkauf unterscheiden; Rückgabeversprechen von Mängelrechten trennen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Das noch unentschiedene Futtersparpaket und den Händlervertrieb als getrennte Gestaltungsentscheidungen behandeln."
+    }
+  ]
+}

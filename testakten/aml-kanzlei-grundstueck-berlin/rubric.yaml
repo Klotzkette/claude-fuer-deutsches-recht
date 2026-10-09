@@ -1,0 +1,180 @@
+{
+  "name": "Berlin Die Käuferin hinter der Hofgesellschaft",
+  "plugin": "geldwaeschebeauftragter",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 25
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P01_Kaufvertragsauszug.pdf ist vorhanden.",
+      "path": "01_Belege/K-P01_Kaufvertragsauszug.pdf"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P02_Beteiligung_Hofbogen.pdf ist vorhanden.",
+      "path": "01_Belege/K-P02_Beteiligung_Hofbogen.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P03_Holding_Uebersicht.pdf ist vorhanden.",
+      "path": "01_Belege/K-P03_Holding_Uebersicht.pdf"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P04_Registerstand_Nachbildung.pdf ist vorhanden.",
+      "path": "01_Belege/K-P04_Registerstand_Nachbildung.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P05_Finanzierungsindikation.pdf ist vorhanden.",
+      "path": "01_Belege/K-P05_Finanzierungsindikation.pdf"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P06_Eigenmittelnotiz.pdf ist vorhanden.",
+      "path": "01_Belege/K-P06_Eigenmittelnotiz.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P07_Amtstraegerhinweis.pdf ist vorhanden.",
+      "path": "01_Belege/K-P07_Amtstraegerhinweis.pdf"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Belege/K-P08_Beratungsnotiz_beschraenkt.pdf ist vorhanden.",
+      "path": "01_Belege/K-P08_Beratungsnotiz_beschraenkt.pdf"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/K-D01_Arbeitsauftrag.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/K-D01_Arbeitsauftrag.docx"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/K-D02_Entwurf_Unterlagenanforderung.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/K-D02_Entwurf_Unterlagenanforderung.docx"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/K-D03_Telefonnotiz.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/K-D03_Telefonnotiz.docx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Arbeitsunterlagen/K-D04_Mandatsumfang.docx ist vorhanden.",
+      "path": "02_Arbeitsunterlagen/K-D04_Mandatsumfang.docx"
+    },
+    {
+      "id": "original-013",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E01_2026-09-22.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E01_2026-09-22.eml"
+    },
+    {
+      "id": "original-014",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E02_2026-09-30.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E02_2026-09-30.eml"
+    },
+    {
+      "id": "original-015",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E03_2026-10-01.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E03_2026-10-01.eml"
+    },
+    {
+      "id": "original-016",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E04_2026-10-02.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E04_2026-10-02.eml"
+    },
+    {
+      "id": "original-017",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E05_2026-10-02.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E05_2026-10-02.eml"
+    },
+    {
+      "id": "original-018",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E06_2026-10-05.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E06_2026-10-05.eml"
+    },
+    {
+      "id": "original-019",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E07_2026-10-06.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E07_2026-10-06.eml"
+    },
+    {
+      "id": "original-020",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E08_2026-10-06.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E08_2026-10-06.eml"
+    },
+    {
+      "id": "original-021",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E09_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E09_2026-10-07.eml"
+    },
+    {
+      "id": "original-022",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E10_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E10_2026-10-07.eml"
+    },
+    {
+      "id": "original-023",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E11_2026-10-07.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E11_2026-10-07.eml"
+    },
+    {
+      "id": "original-024",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_E-Mails/K-E12_2026-10-08.eml ist vorhanden.",
+      "path": "03_E-Mails/K-E12_2026-10-08.eml"
+    },
+    {
+      "id": "original-025",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Tabellen/Fallregister.xlsx ist vorhanden.",
+      "path": "04_Tabellen/Fallregister.xlsx"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "02_Arbeitsunterlagen/K-D01_Arbeitsauftrag.docx",
+      "contains": "Beteiligungskette"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Tätigkeitsbezogene Verpflichtung, Beteiligungskette und widersprüchliche Registerstände für den Grundstückserwerb getrennt aufbereiten."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Vertrauliche Rechtsberatung, Herkunftsnachweise und Meldeprüfung trennen; Notariat und Behörden ohne Freigabe nicht kontaktieren."
+    }
+  ]
+}

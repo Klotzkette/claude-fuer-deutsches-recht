@@ -348,13 +348,14 @@ Eine außergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gegenargument des Auftraggebers | Erwiderung |
 |---|---|
 | "Rüge erfolgte nicht binnen 10 Kalendertagen" | Fristbeginn, Kenntnis und Erkennbarkeit konkret belegen; aktuelle Rechtsprechung vor Zitierung live verifizieren |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | "Bieter hat Unterlagen akzeptiert durch Angebotsabgabe" | Präklusion durch Angebotsabgabe gilt nur bei erkennbaren Unterlagenfehlern vor Abgabefrist; für Wertungsfehler nach Abgabe kein Präklusionsrisiko |
 | "Rüge hat keine aufschiebende Wirkung" | Korrekt; das Zuschlagsverbot entsteht erst mit Unterrichtung des Auftraggebers durch die Vergabekammer nach § 169 Abs. 1 GWB; die Rüge bleibt Zulässigkeitsvoraussetzung |
 | "Aufklärung nach § 60 VgV wurde intern durchgeführt" | Dokumentation nach § 8 VgV und inhaltliche Vertretbarkeit der Preisaufklärung prüfen; entscheidungserhebliche Aktenteile nach § 165 GWB bezeichnen |
 | "Zuschlagskriterien waren vorab bekannt" | Kenntnis der Kriterien schließt Wertungsfehler bei der Anwendung nicht aus; fehlerhafte Punktevergabe ist eigenständiger Verstoß unabhängig von der Transparenz der Kriterien |
 | "Schwellenwert nicht erreicht" | Auftragswert nach § 3 VgV einschließlich Optionen, Lose und funktional zusammenhängender Leistungen prüfen; § 3 Abs. 2 VgV verbietet die Umgehung durch Aufteilung, § 97a GWB regelt die Losvergabe |
 | "Kein Schaden, da Angebot ohnehin zweigünstigst" | Für die Antragsbefugnis genügt ein durch die behauptete Rechtsverletzung entstandener oder drohender Schaden; die Erfolgsaussicht in der Sache bleibt gesondert zu prüfen (§ 160 Abs. 2 GWB) |
+
+Prüfen Sie Rechtsprechung vor der Ausgabe im Original; protokollieren Sie die tatsächlich genutzte Quelle und übernehmen Sie keine Entscheidung allein aus Modellwissen.
 
 ---
 
@@ -366,7 +367,6 @@ Eine außergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Gebühren Vergabekammer | mindestens 2.500 Euro, grundsätzlich höchstens 50.000 Euro, ausnahmsweise bis 100.000 Euro | § 182 Abs. 2 GWB |
 | Anwaltsgebühren und Erstattung | RVG-Berechnung und notwendige Aufwendungen getrennt darstellen | § 182 Abs. 4 GWB |
 | Sofortige Beschwerde OLG | Gerichtsgebühren nach GKG; anwaltliche Vertretungspflicht | § 172 GWB |
-| Rechtsprechung live prüfen | Live-Verifikation erforderlich | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Vorläufige Maßnahmen | möglichen Zusatzaufwand und Haftungsrisiko bei ungerechtfertigten Maßnahmen nach § 180 Abs. 3 GWB ausweisen | §§ 169, 180 GWB |
 
 ---
@@ -378,7 +378,6 @@ Eine außergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Verstoß erkannt vor Angebotsabgabe | Sofort rügen und Fristverlängerung beantragen; parallele Angebotsabgabe mit Vorbehalt erwägen |
 | Informationsschreiben § 134 GWB versandt | Versandweg und Wartefrist bestimmen; Rüge sofort und bei Nichtabhilfe den Nachprüfungsantrag rechtzeitig einreichen |
 | Kurze Frist bis Zuschlagsdrohung | Rüge und Nachprüfungsantrag parallel vorbereiten; Eingang bei der VK und anschließende Unterrichtung nach § 169 Abs. 1 GWB aktiv überwachen |
-| Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | Mehrere Verstöße | Alle bekannten Verstöße fristgerecht rügen; in einem gemeinsamen Schreiben jeden Verstoß mit eigenem Tatsachenkern, Norm, Beleg und Abhilfeziel gliedern |
 | Vertrauliche Verfahrensinformation (aus Bieteranfragen) | Öffentlich zugängliche Vergabeinformationen als Beweismittel nutzen; keine internen Informanden |
 | Bietergemeinschaft | Vertretungsmacht, eigenes Interesse und Betroffenheit des rügenden Mitglieds vor Versand prüfen; Vollmacht und Konsortialbeschluss beifügen |

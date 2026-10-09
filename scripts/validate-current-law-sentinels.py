@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import re
+import hashlib
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -15,6 +16,32 @@ REPO = Path(__file__).resolve().parent.parent
 class Sentinel:
     label: str
     pattern: re.Pattern[str]
+
+
+# Dieser historische Eintrag dokumentiert ausdrücklich die Entfernung des
+# unverifizierten Ankers. Nur die vollständige Zeile, Datei und genau dieser
+# Sentinel sind ausgenommen; operative Wiederverwendungen bleiben gesperrt.
+REVIEWED_CORRECTION_ENTRIES = {
+    "docs/experimentell/vorlagensammlung-recht/CHANGELOG.md": {
+        "nicht amtlich auffindbarer Entscheidungsanker OLG Karlsruhe 7 U 173/25": {
+            "5e5087b07ebf8fa2b8060afb9534a7a5b84a6f5157416b365f3b3218bffdd39f",
+        },
+    },
+}
+
+
+def actionable_sentinel_match(sentinel: Sentinel, text: str, relative_path: str) -> re.Match[str] | None:
+    reviewed = REVIEWED_CORRECTION_ENTRIES.get(relative_path, {}).get(sentinel.label, set())
+    if not reviewed:
+        return sentinel.pattern.search(text)
+    for match in sentinel.pattern.finditer(text):
+        start = text.rfind("\n", 0, match.start()) + 1
+        end = text.find("\n", match.end())
+        entry = text[start:end if end != -1 else len(text)]
+        digest = hashlib.sha256(" ".join(entry.split()).encode("utf-8")).hexdigest()
+        if digest not in reviewed:
+            return match
+    return None
 
 
 SENTINELS = (
@@ -2029,7 +2056,7 @@ def main() -> int:
         for sentinel, hints in zip(SENTINELS, SENTINEL_HINTS, strict=True):
             if not any(hint in folded for hint in hints):
                 continue
-            match = sentinel.pattern.search(text)
+            match = actionable_sentinel_match(sentinel, text, relative.as_posix())
             if not match:
                 continue
             line = text.count("\n", 0, match.start()) + 1
