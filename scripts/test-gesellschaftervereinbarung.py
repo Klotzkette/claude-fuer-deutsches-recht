@@ -20,7 +20,10 @@ from pypdf import PdfReader
 
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_file_filter import _safe_text, include_in_working_dump
-from release_routing import case_asset_url
+from release_routing import (
+    RELEASE_BASE, case_asset_url, companion_case_groups, companion_cases,
+    companion_tag, marketplace_version, scoped_asset_url,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "gesellschaftervereinbarung"
@@ -35,11 +38,18 @@ def originals():
 
 
 class AgreementTests(unittest.TestCase):
-    def test_existing_release_partition_stays_stable(self):
+    def test_unpublished_case_follows_partition_and_component_pin_stays_stable(self):
+        slug = "weltraumrecht-satellitenschwarm-startplatz-kueste"
+        part = next(
+            number for number, group in enumerate(companion_case_groups(companion_cases()), 1)
+            if slug in group
+        )
         for suffix in ("", "-einzelpdfs"):
-            self.assertIn(
-                "/akten-v445.35.3/",
-                case_asset_url("weltraumrecht-satellitenschwarm-startplatz-kueste", suffix),
+            asset = f"testakte-{slug}{suffix}.zip"
+            self.assertIsNone(scoped_asset_url(asset))
+            self.assertEqual(
+                f"{RELEASE_BASE}/download/{companion_tag(marketplace_version(), part)}/{asset}",
+                case_asset_url(slug, suffix),
             )
             self.assertIn(
                 "/gesellschaftervereinbarung-v1.0.0/", case_asset_url(SLUG, suffix)

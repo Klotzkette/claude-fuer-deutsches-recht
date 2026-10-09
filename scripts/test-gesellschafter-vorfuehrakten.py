@@ -4,20 +4,22 @@ import csv
 from datetime import date
 from email import policy
 from email.parser import BytesParser
-import hashlib
 import io
 import os
 from pathlib import Path
 import re
+import tempfile
 import unittest
 import zipfile
 
 from docx import Document
 from openpyxl import load_workbook
-from pypdf import PdfReader
+from pypdf import PdfReader, PdfWriter
 from vorfuehrakte_gesellschafter_berlin import CASE as BERLIN
 from vorfuehrakte_gesellschafter_muenchen import CASE as MUENCHEN
-from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_FILENAME
+from testakte_disclaimer import NOTICE_BYTES, NOTICE_DE, NOTICE_EN, NOTICE_FILENAME
+from testakte_einzelpdf_common import document_arcname_pairs
+from testakte_zip_common import safe_archive_name, working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 CASES = [BERLIN, MUENCHEN]
@@ -29,6 +31,32 @@ def directory(case):
 
 
 class CasesTest(unittest.TestCase):
+    def assert_complete_archive(self, archive, case_dir, *, einzelpdfs=False):
+        originals = working_dump_archive_pairs(case_dir, include_gesamt_pdf=False)
+        documents = document_arcname_pairs(case_dir)
+        self.assertEqual({p for p, _ in documents}, {p for p, _ in originals})
+        pairs = documents if einzelpdfs else working_dump_archive_pairs(case_dir, include_gesamt_pdf=True)
+        self.assertIsNone(archive.testzip())
+        names = archive.namelist()
+        self.assertEqual(len(names), len({name.casefold() for name in names}))
+        self.assertTrue(all(safe_archive_name(name, allow_directories=False) for name in names))
+        self.assertEqual(set(names), {NOTICE_FILENAME, *(name for _, name in pairs)})
+        self.assertEqual(archive.read(NOTICE_FILENAME), NOTICE_BYTES)
+        for source, name in pairs:
+            data = archive.read(name)
+            # Original-ZIP einschließlich Gesamt-PDF und unverändert übernommene
+            # native Einzel-PDFs müssen exakt die tatsächlichen Quellen enthalten.
+            if not einzelpdfs or source.suffix.lower() == '.pdf':
+                self.assertEqual(data, source.read_bytes(), name)
+            if einzelpdfs:
+                self.assertTrue(name.endswith('.pdf'))
+                pages = PdfReader(io.BytesIO(data)).pages
+                self.assertGreater(len(pages), 0, name)
+                content = '\n'.join(page.extract_text() for page in pages)
+                self.assertNotIn(NOTICE_DE, content)
+                self.assertNotIn(NOTICE_EN, content)
+        self.assertFalse(any('rubric' in name or name.endswith('.md') for name in names))
+
     def test_exact_source_inventory(self):
         for case in CASES:
             expected = {d['file'] for d in case['documents']} | {TABLES[case['slug']]}
@@ -184,33 +212,52 @@ class CasesTest(unittest.TestCase):
     @unittest.skipUnless(os.environ.get('VORFUEHRAKTEN_ZIPS'),'VORFUEHRAKTEN_ZIPS für Archivprüfung setzen')
     def test_flat_archives_with_real_files_and_disclaimer(self):
         for case in CASES:
-            native={d['file'] for d in case['documents']}|{TABLES[case['slug']]}
             for suffix in ('','-einzelpdfs'):
                 path=Path(os.environ['VORFUEHRAKTEN_ZIPS'])/f"testakte-{case['slug']}{suffix}.zip"
-                with zipfile.ZipFile(path) as z:
-                    self.assertIsNone(z.testzip())
-                    names=z.namelist()
-                    self.assertEqual(len(names),len(set(names)))
-                    self.assertTrue(all('/' not in n and not n.endswith('.md') for n in names))
-                    notice=z.read(NOTICE_FILENAME).decode('utf-8')
-                    self.assertIn(NOTICE_DE,notice);self.assertIn(NOTICE_EN,notice)
-                    if suffix:
-                        self.assertEqual(len(names),len(native)+1)
-                        for name in names:
-                            if name!=NOTICE_FILENAME:
-                                self.assertTrue(name.endswith('.pdf'))
-                                pages=PdfReader(io.BytesIO(z.read(name))).pages
-                                self.assertGreater(len(pages),0)
-                                content='\n'.join(p.extract_text() for p in pages)
-                                self.assertNotIn(NOTICE_DE,content)
-                                self.assertNotIn(NOTICE_EN,content)
-                    else:
-                        combined=f"{case['slug']}_gesamt.pdf"
-                        self.assertEqual(native|{NOTICE_FILENAME,combined},set(names))
-                        self.assertEqual(z.read(combined),(directory(case)/'gesamt-pdf'/combined).read_bytes())
-                        for name in native:
-                            self.assertEqual(hashlib.sha256(z.read(name)).digest(),hashlib.sha256((directory(case)/name).read_bytes()).digest())
-                    self.assertFalse(any('rubric' in n or 'README.md'==n for n in names))
+                with self.subTest(case=case['slug'], suffix=suffix), zipfile.ZipFile(path) as archive:
+                    self.assert_complete_archive(archive, directory(case), einzelpdfs=bool(suffix))
+
+    def test_archive_contract_rejects_missing_foreign_renamed_or_changed_supplements(self):
+        pdf = io.BytesIO()
+        writer = PdfWriter()
+        writer.add_blank_page(width=595.28, height=841.89)
+        writer.write(pdf)
+        pdf_bytes = pdf.getvalue()
+        with tempfile.TemporaryDirectory() as temporary:
+            case_dir = Path(temporary) / 'aktenprobe'
+            supplement = case_dir / 'Nachtrag_2026-10-08/N01_Nachtrag.pdf'
+            supplement.parent.mkdir(parents=True)
+            supplement.write_bytes(pdf_bytes)
+            (case_dir / '01_Auftrag.txt').write_text('Bitte prüfen Sie die beigefügten Unterlagen.', encoding='utf-8')
+            flat_supplement = 'Nachtrag_2026-10-08__N01_Nachtrag.pdf'
+            for einzelpdfs in (False, True):
+                members = {
+                    NOTICE_FILENAME: NOTICE_BYTES,
+                    '01_Auftrag.pdf' if einzelpdfs else '01_Auftrag.txt':
+                        pdf_bytes if einzelpdfs else (case_dir / '01_Auftrag.txt').read_bytes(),
+                    flat_supplement: pdf_bytes,
+                }
+
+                def check(entries):
+                    data = io.BytesIO()
+                    with zipfile.ZipFile(data, 'w') as archive:
+                        for name, payload in entries.items():
+                            archive.writestr(name, payload)
+                    data.seek(0)
+                    with zipfile.ZipFile(data) as archive:
+                        self.assert_complete_archive(archive, case_dir, einzelpdfs=einzelpdfs)
+
+                check(members)
+                missing = {name: data for name, data in members.items() if name != flat_supplement}
+                for kind, changed in (
+                    ('fehlender Nachtrag', missing),
+                    ('fremde Zusatzdatei', {**members, 'Fremde_Akte.pdf': pdf_bytes}),
+                    ('falscher flacher Name', {**missing, 'N01_Nachtrag.pdf': pdf_bytes}),
+                    ('Unterordner im ZIP', {**missing, 'Nachtrag_2026-10-08/N01_Nachtrag.pdf': pdf_bytes}),
+                    ('abweichende Bytes', {**members, flat_supplement: pdf_bytes + b'\n% changed\n'}),
+                ):
+                    with self.subTest(einzelpdfs=einzelpdfs, kind=kind), self.assertRaises(AssertionError):
+                        check(changed)
 
 
 if __name__=='__main__':
