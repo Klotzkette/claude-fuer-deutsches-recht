@@ -212,7 +212,9 @@ English: Complete list of all 79 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 2. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie technische Markierung, Offenlegung gegenüber dem Publikum und Rechte am verwendeten Inhalt. Eine Kennzeichnung heilt keine fehlende Nutzungsbefugnis.
 

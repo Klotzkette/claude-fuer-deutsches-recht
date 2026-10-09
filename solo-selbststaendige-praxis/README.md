@@ -340,7 +340,9 @@ English: Complete list of all 202 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie private Nutzung, betriebliche Dokumentenhilfe und öffentlich erreichbaren Kundenbot. Prüfen Sie die tatsächlich angebotene Leistung; geringe Betriebsgröße ist keine allgemeine Ausnahme.
 

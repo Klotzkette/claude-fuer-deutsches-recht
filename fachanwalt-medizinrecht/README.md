@@ -301,7 +301,9 @@ English: Complete list of all 161 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie medizinische Zweckbestimmung und notwendige Drittbewertung getrennt von der bloßen Verwendung im Krankenhaus. Verwaltungssoftware und medizinische Sicherheitskomponente brauchen verschiedene Einstufungen und Vorfallwege.
 

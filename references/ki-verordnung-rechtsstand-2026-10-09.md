@@ -67,6 +67,6 @@ Artikel 4 verlangt kontextgerechte Maßnahmen zur Förderung von KI-Kompetenz, a
 
 Jeder Befund benennt Systemfassung, Funktion, Rolle, belegte Tatsache, genaue Normfassung, Anwendungszeitpunkt, Gegenargument und nächste Handlung. Interne Arbeitsprodukte können ohne Veröffentlichung ausgearbeitet werden. Echte Meldung, Registrierung, Versand oder Betriebsänderung nur im beauftragten Umfang und mit der dafür erforderlichen menschlichen Entscheidung. Kein fingierter Registerzugang, keine erfundene Zertifizierung und kein erfundenes AI-Act-Urteil. Datenschutzentscheidungen tragen ihre eigenen Aussagen, nicht automatisch die Risikoeinstufung unter Artikel 6.
 
-## Fachliche Vertiefung der Nachweise
+## 1.9. Fachliche Vertiefung der Nachweise
 
 Die [Normen- und Argumentationsrunde](../quality/ki-verordnung-2026-10-09-vertiefung/README.md) ergänzt tatbestandsbezogene Gegenproben, konkrete technische Nachweisaufträge und Rechtsprechungsanker mit abgegrenzter Tragweite. Katalogausgabe, gelesene Normklausel, tatsächliche Systemprüfung und gesetzliche Vermutung bleiben getrennte Feststellungen.

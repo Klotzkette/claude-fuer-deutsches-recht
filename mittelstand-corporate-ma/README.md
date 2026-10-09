@@ -307,7 +307,9 @@ English: Complete list of all 101 skills in this plugin. Both links in each row 
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Ermitteln Sie, welche beworbenen Funktionen produktiv eingesetzt werden und welche nur geplant sind. Verknüpfen Sie Kaufpreismaßnahmen mit konkreten Dokumentations- oder Betriebsrisiken, nicht mit einem abstrakten KI-Risikolabel.
 

@@ -1,7 +1,9 @@
 # 1. Havelgrund Sozialamt mit geplanter Antragsassistenz
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Akte komplett herunterladen
+<a id="akte-komplett-herunterladen"></a>
+
+## 1.1. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -23,7 +25,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-## 1.1. Auftrag und Aktenstand
+<a id="11-auftrag-und-aktenstand"></a>
+
+## 1.2. Auftrag und Aktenstand
 
 Die fiktive Gemeinde Havelgrund prüft eine Antragsassistenz für ihr Sozialamt. Sortierung, persönliche Priorisierung, Anbieterregistrierung und die Vorbereitung einer örtlichen Folgenabschätzung werden unterschiedlich beschrieben. Eine separat gekennzeichnete zukünftige Planspielvariante enthält widersprüchliche Kenntniszeitpunkte.
 
@@ -33,7 +37,9 @@ Alle Personen, Einrichtungen, Anschriften und Vorgänge sind erfunden. Kontaktad
 
 <!-- reserved-example-contacts -->
 
-## 1.2. Native Unterlagen und Lesefassungen
+<a id="12-native-unterlagen-und-lesefassungen"></a>
+
+## 1.3. Native Unterlagen und Lesefassungen
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

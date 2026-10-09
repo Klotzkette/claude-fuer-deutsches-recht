@@ -1,10 +1,10 @@
-# Öffentliche Rechtsprechungskarte zur KI-Prüfung
+# 1. Öffentliche Rechtsprechungskarte zur KI-Prüfung
 
 Amtliche deutsche Volltexte geöffnet; nur die angegebenen Passagen als gelesen dokumentiert. Eigene Kurzfassungen ohne Literaturfundstellen.
 
 Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere Urteile. Keine Aussage über eine vollständige Recherche aller Entscheidungen 2026; kein unmittelbar Artikel 6 KI-VO entscheidendes Urteil wird behauptet.
 
-## 1 EuGH, Urteil vom 2025-02-27, Az. C-203/22
+## 1.1. EuGH, Urteil vom 2025-02-27, Az. C-203/22
 
 [Dun & Bradstreet Austria: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=295841&doclang=DE); am 2026-10-09 gelesen: Rn. 46–66; 67–76.
 
@@ -14,7 +14,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Konkretes Auskunftsschreiben, Erklärungsvorlage und begrenzte technische Nachforderung.
 
-## 2 EuGH, Urteil vom 2025-09-04, Az. C-413/23 P
+## 1.2. EuGH, Urteil vom 2025-09-04, Az. C-413/23 P
 
 [EDSB/SRB: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303863&doclang=DE); am 2026-10-09 gelesen: Rn. 69–86; 103–112.
 
@@ -24,7 +24,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Datenfluss- und Empfängerprüfung mit konkreter Nachforderung.
 
-## 3 EuGH, Urteil vom 2025-09-04, Az. C-655/23
+## 1.3. EuGH, Urteil vom 2025-09-04, Az. C-655/23
 
 [Quirin Privatbank: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=303866&doclang=DE); am 2026-10-09 gelesen: Rn. 53–63; 65–79.
 
@@ -34,7 +34,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Getrennter Anspruchs- und Belegvermerk neben der Vorfallbewertung.
 
-## 4 EuGH, Urteil vom 2023-12-07, Az. C-634/21
+## 1.4. EuGH, Urteil vom 2023-12-07, Az. C-634/21
 
 [SCHUFA Holding (Scoring): amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=280426&doclang=DE); am 2026-10-09 gelesen: Rn. 43–55; 60–64.
 
@@ -44,7 +44,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Versionsbezogener Einstufungs- und gesonderter Artikel-22-Vermerk.
 
-## 5 EuGH, Urteil vom 2022-06-21, Az. C-817/19
+## 1.5. EuGH, Urteil vom 2022-06-21, Az. C-817/19
 
 [Ligue des droits humains: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=261282&doclang=DE); am 2026-10-09 gelesen: Rn. 179–180; 193–211.
 
@@ -54,7 +54,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Kontrollkonzept mit getesteten Fehlertreffern, Versionsbindung und überprüfbarem Einspruchsweg.
 
-## 6 EuGH, Urteil vom 2024-03-05, Az. C-588/21 P
+## 1.6. EuGH, Urteil vom 2024-03-05, Az. C-588/21 P
 
 [Public.Resource.Org und Right to Know/Kommission: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=283443&doclang=DE); am 2026-10-09 gelesen: Rn. 70–85.
 
@@ -64,7 +64,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Nachweismatrix Normfundstelle, Anforderungsumfang, Version und Systemprüfung.
 
-## 7 BVerfG, Urteil vom 2023-02-16, Az. 1 BvR 1547/19; 1 BvR 2634/20
+## 1.7. BVerfG, Urteil vom 2023-02-16, Az. 1 BvR 1547/19; 1 BvR 2634/20
 
 [Automatisierte Datenanalyse: amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/02/rs20230216_1bvr154719.html); am 2026-10-09 gelesen: Rn. 69–71; 90–101.
 
@@ -74,7 +74,7 @@ Die Auswahl umfasst verifizierte Urteile bis September 2025 und tragende ältere
 
 **Produkt:** Begründete Daten- und Methodenabgrenzung für öffentliche Systeme.
 
-## 8 EuGH, Urteil vom 2024-11-14, Az. C-646/22
+## 1.8. EuGH, Urteil vom 2024-11-14, Az. C-646/22
 
 [Compass Banca: amtlicher Volltext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=292275&doclang=DE); am 2026-10-09 gelesen: Rn. 41–59; 62–79.
 

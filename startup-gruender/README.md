@@ -218,7 +218,9 @@ English: Complete list of all 18 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Fachliche KI-Prüfung
+<a id="fachliche-ki-prüfung"></a>
+
+## 1.14. Fachliche KI-Prüfung
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Klären Sie vor einer Konformitätszusage die geplante Produktversion, Zweckbestimmung und Rolle der Gesellschaft. Eine Satzung oder Beteiligungsvereinbarung kann Produktprüfung und technische Nachweise nicht ersetzen.
 

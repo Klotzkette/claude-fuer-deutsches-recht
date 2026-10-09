@@ -201,7 +201,9 @@ English: Complete list of all 31 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
-## Vertiefte KI-Einstufung
+<a id="vertiefte-ki-einstufung"></a>
+
+## 2. Vertiefte KI-Einstufung
 
 [Konkrete Zweckprüfung, Rechtsprechungsgrenzen und vollständige Übungsakte](references/ki-normen-und-fallpruefung.md): Arbeitnehmerberatung, Zeugnisentwurf und arbeitgeberseitiges Profiling getrennt behandeln. Eine menschliche Schlussunterschrift widerlegt maßgeblichen automatisierten Entscheidungseinfluss nicht allein.
 
