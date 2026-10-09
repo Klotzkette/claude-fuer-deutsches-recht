@@ -40,6 +40,19 @@ S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
 
 
 class ReviewedPromptContextTests(unittest.TestCase):
+    def test_documented_removal_of_wrong_case_anchor_is_not_operative_guidance(self):
+        relative = 'docs/experimentell/vorlagensammlung-recht/CHANGELOG.md'
+        text = (SCRIPTS.parent / relative).read_text(encoding='utf-8')
+        sentinel = next(item for item in S.SENTINELS if '7 U 173/25' in item.label)
+        historical = next(line for line in text.splitlines() if '7 U 173/25' in line)
+        with patch.object(S, 'markdown_files', return_value=[SCRIPTS.parent / relative]), \
+                redirect_stdout(io.StringIO()):
+            self.assertEqual(S.main(), 0)
+        self.assertIsNone(S.actionable_sentinel_match(sentinel, historical, relative))
+        self.assertIsNotNone(S.actionable_sentinel_match(sentinel, historical, 'anderes-plugin/SKILL.md'))
+        self.assertIsNotNone(S.actionable_sentinel_match(sentinel, historical.replace('entfernt', 'bestätigt'), relative))
+        self.assertIsNotNone(S.actionable_sentinel_match(sentinel, text + '\n\nOLG Karlsruhe 7 U 173/25 trägt den Anspruch.\n', relative))
+
     def test_existing_technical_contexts_are_bound_to_exact_paragraph_and_file(self):
         for relative, reviewed in A.REVIEWED_BRAND_PARAGRAPHS.items():
             text = (SCRIPTS.parent / relative).read_text(encoding="utf-8")

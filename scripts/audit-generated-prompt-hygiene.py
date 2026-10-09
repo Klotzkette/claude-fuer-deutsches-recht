@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import hashlib
 import re
 from pathlib import Path
 
@@ -25,6 +26,24 @@ NOISE_BITS = (
     "openjur",
     "keine Modellwissen-Zitate",
 )
+
+# Fachlich geprüfte Quellenpflichten sind keine austauschbaren Generatorreste.
+# Die Ausnahme gilt nur für die genannte Datei und den vollständigen Absatz;
+# Leerraum darf variieren. Andere Hygieneprüfungen bleiben immer aktiv.
+REVIEWED_SOURCE_PARAGRAPHS: dict[str, dict[str, str]] = {
+    "agb-werkstatt/agb-werkstatt-hauptproblem.md": {
+        "8036fe6391dbabd691b360b7cc8f5c8a914602ac60acbc4d906f8f62c44d7dbf":
+            "Amtliche Fundstellen lesen; blockierte Volltexte und offenen Quellenstatus intern dokumentieren.",
+    },
+    "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md": {
+        "238691dbc79ffe8cb926c289680ee0e16ec486139694690fcee6e590c92d6548":
+            "Bundes- und Unionsrecht am Volltext prüfen; Aufsichtshinweise und Portalhilfe nach ihrer Reichweite einordnen.",
+    },
+    "krankenhaus-it-ki/krankenhaus-it-ki-schnellstart.md": {
+        "6ce11967b1801b63a85f056bc9228a072176f254fc30ec8d261c8da17af45bc5":
+            "Konkrete Primärquellen für Datenschutz, KI, Medizinprodukte und Thüringer Landesrecht prüfen.",
+    },
+}
 
 PROSE_ASCII_BITS = (
     "Arbeitsverhaeltnis",
@@ -163,6 +182,16 @@ def visible_prose(line: str) -> str:
     return re.sub(r"https?://[^\s<>\[\]()]+", "", prose)
 
 
+def source_noise(text: str, relative_path: str) -> list[str]:
+    reviewed = REVIEWED_SOURCE_PARAGRAPHS.get(relative_path, {})
+    unreviewed = [
+        paragraph for paragraph in re.split(r"\n\s*\n", text)
+        if hashlib.sha256(" ".join(paragraph.split()).encode("utf-8")).hexdigest() not in reviewed
+    ]
+    prose = "\n".join(visible_prose(line) for paragraph in unreviewed for line in paragraph.splitlines())
+    return [bit for bit in NOISE_BITS if bit in prose]
+
+
 def main() -> int:
     problems: list[str] = []
     for path in prompt_files():
@@ -205,11 +234,10 @@ def main() -> int:
                         )
                         break
         prose = "\n".join(visible_prose(line) for line in text.splitlines())
-        for bit in NOISE_BITS:
-            if bit in prose:
-                rel = path.relative_to(REPO)
-                problems.append(f"{rel}: Quellenrauschen gefunden: {bit}")
-                break
+        noise = source_noise(text, path.relative_to(REPO).as_posix())
+        if noise:
+            rel = path.relative_to(REPO)
+            problems.append(f"{rel}: Quellenrauschen gefunden: {noise[0]}")
         for bit in PROSE_ASCII_BITS:
             if bit in prose:
                 rel = path.relative_to(REPO)

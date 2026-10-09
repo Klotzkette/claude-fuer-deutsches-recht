@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import importlib.util
+import hashlib
 import sys
 import tempfile
 from pathlib import Path
@@ -29,6 +30,23 @@ def require(condition: bool, message: str) -> None:
 def main() -> int:
     with tempfile.TemporaryDirectory(prefix="eml-qualitaet-") as tmp:
         root = Path(tmp)
+        for relative, (digest, phrases) in V.REVIEWED_INTERNAL_TEST_CONTEXT.items():
+            source = V.TESTAKTEN / relative
+            require(hashlib.sha256(source.read_bytes()).hexdigest() == digest,
+                    "gelesener interner Testkontext muss unverändert sein")
+            source_text = V.export_text(source)
+            require(not V.export_meta_errors(source_text, source),
+                    "konkreter Softwaretest ist keine Warnseite der juristischen Testakte")
+            require(bool(V.export_meta_errors(source_text + " TODO", source)),
+                    "interner Testkontext darf andere Metamarker nicht ausnehmen")
+            clone = root / relative
+            clone.parent.mkdir(parents=True, exist_ok=True)
+            clone.write_bytes(source.read_bytes() + b"changed")
+            with patch.object(V, "TESTAKTEN", root):
+                require(bool(V.export_meta_errors(source_text, clone)),
+                        "geändertes Dokument benötigt neue Prüfung")
+            require(bool(V.export_meta_errors(source_text, root / "fremde-akte.pdf")),
+                    "derselbe Marker in einer anderen Akte bleibt ein Befund")
         valid = root / "valid.eml"
         valid.write_text(
             "From: kanzlei@falkenried-recht.de\n"

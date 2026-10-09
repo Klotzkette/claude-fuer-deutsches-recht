@@ -1,0 +1,150 @@
+{
+  "name": "1. Eichengrund Logistik zwischen Disposition Ranking und Robotersicherheit",
+  "plugin": "ki-verordnung-konformitaet",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 20
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.docx ist vorhanden.",
+      "path": "01_Pruefauftrag.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.pdf ist vorhanden.",
+      "path": "01_Pruefauftrag.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Systemgrenzen.docx ist vorhanden.",
+      "path": "02_Systemgrenzen.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Systemgrenzen.pdf ist vorhanden.",
+      "path": "02_Systemgrenzen.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Abstimmungsprotokoll.docx ist vorhanden.",
+      "path": "03_Abstimmungsprotokoll.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Abstimmungsprotokoll.pdf ist vorhanden.",
+      "path": "03_Abstimmungsprotokoll.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Lieferantenbrief.docx ist vorhanden.",
+      "path": "04_Lieferantenbrief.docx"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Lieferantenbrief.pdf ist vorhanden.",
+      "path": "04_Lieferantenbrief.pdf"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Kontrollblatt.docx ist vorhanden.",
+      "path": "05_Kontrollblatt.docx"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Kontrollblatt.pdf ist vorhanden.",
+      "path": "05_Kontrollblatt.pdf"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Freigabevermerk_Arbeitsentwurf.docx ist vorhanden.",
+      "path": "06_Freigabevermerk_Arbeitsentwurf.docx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Freigabevermerk_Arbeitsentwurf.pdf ist vorhanden.",
+      "path": "06_Freigabevermerk_Arbeitsentwurf.pdf"
+    },
+    {
+      "id": "original-013",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Auftrag.eml ist vorhanden.",
+      "path": "07_Auftrag.eml"
+    },
+    {
+      "id": "original-014",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 08_Technik.eml ist vorhanden.",
+      "path": "08_Technik.eml"
+    },
+    {
+      "id": "original-015",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 09_Protokoll.eml ist vorhanden.",
+      "path": "09_Protokoll.eml"
+    },
+    {
+      "id": "original-016",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 10_Lieferant.eml ist vorhanden.",
+      "path": "10_Lieferant.eml"
+    },
+    {
+      "id": "original-017",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Kontrollwerte.eml ist vorhanden.",
+      "path": "11_Kontrollwerte.eml"
+    },
+    {
+      "id": "original-018",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Arbeitsentwurf.eml ist vorhanden.",
+      "path": "12_Arbeitsentwurf.eml"
+    },
+    {
+      "id": "original-019",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 13_Teststand_und_Nachweise.xlsx ist vorhanden.",
+      "path": "13_Teststand_und_Nachweise.xlsx"
+    },
+    {
+      "id": "original-020",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 14_Projektchat.txt ist vorhanden.",
+      "path": "14_Projektchat.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Pruefauftrag.docx",
+      "contains": "Wächterkern S1"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Taktweg, Teamstern und Wächterkern mit Anbieter, Version und Zweck getrennt klassifizieren und den jeweiligen Bewertungsweg begründen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Den Arbeitsentwurf anhand konkreter Nachweislücken berichtigen; Lieferantenbehauptungen und vorhandene interne Tests nicht als abgeschlossene Konformität behandeln."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "name": "<a id=\"testakte-pegnesus-redaktion-und-drei-ausspielfassungen\"></a>",
+  "plugin": "ki-verordnung-transparenzpruefer",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 20
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Redaktionsauftrag.docx ist vorhanden.",
+      "path": "01_Redaktionsauftrag.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Redaktionsauftrag.pdf ist vorhanden.",
+      "path": "01_Redaktionsauftrag.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Produktionsbeschreibung.docx ist vorhanden.",
+      "path": "02_Produktionsbeschreibung.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Produktionsbeschreibung.pdf ist vorhanden.",
+      "path": "02_Produktionsbeschreibung.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Redaktionsprotokoll.docx ist vorhanden.",
+      "path": "03_Redaktionsprotokoll.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Redaktionsprotokoll.pdf ist vorhanden.",
+      "path": "03_Redaktionsprotokoll.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Anbieterbrief_Markierung.docx ist vorhanden.",
+      "path": "04_Anbieterbrief_Markierung.docx"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Anbieterbrief_Markierung.pdf ist vorhanden.",
+      "path": "04_Anbieterbrief_Markierung.pdf"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Kontrollblatt_Ausspielung.docx ist vorhanden.",
+      "path": "05_Kontrollblatt_Ausspielung.docx"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Kontrollblatt_Ausspielung.pdf ist vorhanden.",
+      "path": "05_Kontrollblatt_Ausspielung.pdf"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Arbeitsentwurf_Veröffentlichung.docx ist vorhanden.",
+      "path": "06_Arbeitsentwurf_Veröffentlichung.docx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Arbeitsentwurf_Veröffentlichung.pdf ist vorhanden.",
+      "path": "06_Arbeitsentwurf_Veröffentlichung.pdf"
+    },
+    {
+      "id": "original-013",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Auftrag_Chefredaktion.eml ist vorhanden.",
+      "path": "07_Auftrag_Chefredaktion.eml"
+    },
+    {
+      "id": "original-014",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 08_Freigabe_v2.eml ist vorhanden.",
+      "path": "08_Freigabe_v2.eml"
+    },
+    {
+      "id": "original-015",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 09_Technik_und_Produktionsstand.eml ist vorhanden.",
+      "path": "09_Technik_und_Produktionsstand.eml"
+    },
+    {
+      "id": "original-016",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 10_Vorschau_und_Rechtschreibung.eml ist vorhanden.",
+      "path": "10_Vorschau_und_Rechtschreibung.eml"
+    },
+    {
+      "id": "original-017",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Anbieterantwort_Export.eml ist vorhanden.",
+      "path": "11_Anbieterantwort_Export.eml"
+    },
+    {
+      "id": "original-018",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Ausspielkontrolle.eml ist vorhanden.",
+      "path": "12_Ausspielkontrolle.eml"
+    },
+    {
+      "id": "original-019",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 13_Fassungen_und_Ausspielkontrolle.xlsx ist vorhanden.",
+      "path": "13_Fassungen_und_Ausspielkontrolle.xlsx"
+    },
+    {
+      "id": "original-020",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 14_Projektchat.txt ist vorhanden.",
+      "path": "14_Projektchat.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Redaktionsauftrag.docx",
+      "contains": "83 Prozent"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Artikel, Satirebild und Kurzclip sowie die jeweils geprüfte Fassung unterscheiden; eine frühere Redaktionsprüfung nicht auf spätere Änderungen übertragen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Die unbelegte Zahl 83 Prozent gegenüber 64 von 80 Proben offenhalten; notwendige Hinweise konkret platzieren und technische Markierung getrennt prüfen."
+    }
+  ]
+}

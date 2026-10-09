@@ -1,5 +1,8 @@
 # Testakte Fuldatal und die neue Antragspriorisierung
 
+<!-- reserved-example-contacts -->
+Die Kontaktadressen verwenden reservierte .example-Domains und sind nicht für echten Versand bestimmt.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 

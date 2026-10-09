@@ -1,0 +1,102 @@
+{
+  "name": "Testakte Stadtfaden und die Wohnungsrangliste",
+  "plugin": "ki-verordnung-verbotene-praktiken",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 12
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.docx ist vorhanden.",
+      "path": "01_Pruefauftrag.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Pruefauftrag.pdf ist vorhanden.",
+      "path": "01_Pruefauftrag.pdf"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Datenweg.docx ist vorhanden.",
+      "path": "02_Datenweg.docx"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Datenweg.pdf ist vorhanden.",
+      "path": "02_Datenweg.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Gespraech_Hummel.docx ist vorhanden.",
+      "path": "03_Gespraech_Hummel.docx"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Gespraech_Hummel.pdf ist vorhanden.",
+      "path": "03_Gespraech_Hummel.pdf"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Auftrag.eml ist vorhanden.",
+      "path": "04_Auftrag.eml"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Anbieter.eml ist vorhanden.",
+      "path": "05_Anbieter.eml"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Auszug.eml ist vorhanden.",
+      "path": "06_Auszug.eml"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Beschwerde.eml ist vorhanden.",
+      "path": "07_Beschwerde.eml"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Serviceindex.xlsx ist vorhanden.",
+      "path": "11_Serviceindex.xlsx"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Projektchat.txt ist vorhanden.",
+      "path": "12_Projektchat.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Pruefauftrag.docx",
+      "contains": "Bibliotheksrückgaben"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Bibliotheksverhalten, Beschwerdeton und Mietrückstände mit der Wohnungsrangliste nach Datenherkunft, Kontext und Benachteiligung verknüpfen."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Indexwirkung und ungeeignete Wohnungsgröße als mögliche Ursachen auseinanderhalten; Zahlungserinnerungen gesondert bewerten."
+    }
+  ]
+}

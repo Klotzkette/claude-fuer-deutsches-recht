@@ -1,5 +1,8 @@
 # Testakte Saalevis und die unvollständige Normabdeckung
 
+<!-- reserved-example-contacts -->
+Die Kontaktadressen verwenden reservierte .example-Domains und sind nicht für echten Versand bestimmt.
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 

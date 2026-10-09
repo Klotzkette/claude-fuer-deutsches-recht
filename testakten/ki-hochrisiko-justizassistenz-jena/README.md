@@ -1,5 +1,8 @@
 # 1 Jena Aktenklar mit neuer Entscheidungsassistenz
 
+<!-- reserved-example-contacts -->
+Die Kontaktadressen verwenden reservierte .example-Domains und sind nicht für echten Versand bestimmt.
+
 [Alle Testakten](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
 
 ## 1.1 Arbeitsauftrag und Umfang

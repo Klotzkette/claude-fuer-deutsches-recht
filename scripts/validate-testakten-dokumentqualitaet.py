@@ -134,6 +134,23 @@ SYNTHETIC_EMAIL_PATTERN = re.compile(
 )
 BROKEN_ENCODING_MARKERS = ("\ufffd", "Ã", "Â", "â€", "ðŸ")
 RESERVED_CONTACT_MARKER = "<!-- reserved-example-contacts -->"
+# Gelesene Sachverhaltsangaben über interne Softwaretests, keine Warnseiten
+# der juristischen Übungsakte. Nur diese Wörter im unveränderten Dokument
+# werden bei der Metamarkerprüfung ausgeblendet; alle übrigen Prüfungen gelten.
+REVIEWED_INTERNAL_TEST_CONTEXT = {
+    "ki-hochrisiko-justizassistenz-jena/05_Auszug_Entwurfstest.pdf": (
+        "9146d12de38ba3c00803b8483c26821a3f28658d988b81fad211bd660ee493df",
+        ("Testakte",),
+    ),
+    "ki-hochrisiko-justizassistenz-jena/07_Protokoll_Projektbesprechung.docx": (
+        "eb334d293d169c7faac9dd9e74aa5a8d139b005cf0a21f5f9a380d510d21dabd",
+        ("Alle Akten sind erfunden",),
+    ),
+    "ki-konformitaet-isarblick-personal/11_Teststand.xlsx": (
+        "e7db77553b874bd4f6ada148401d636f144ec38f4ecf8fd5304f543c7ea094b8",
+        ("Fiktive Testreihe", "Alle Fälle sind fiktive interne Versuche."),
+    ),
+}
 RESERVED_DOMAIN = re.compile(
     r"(?<![a-z0-9.-])(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?[.])+example"
     r"(?![a-z0-9-]|[.][a-z0-9-])", re.IGNORECASE,
@@ -374,6 +391,16 @@ def has_unexplained_synthetic_contact(text: str, path: Path) -> bool:
     return bool(SYNTHETIC_EMAIL_PATTERN.search(text))
 
 
+def export_meta_errors(text: str, path: Path) -> list[str]:
+    if path.is_relative_to(TESTAKTEN):
+        reviewed = REVIEWED_INTERNAL_TEST_CONTEXT.get(path.relative_to(TESTAKTEN).as_posix())
+        if reviewed and hashlib.sha256(path.read_bytes()).hexdigest() == reviewed[0]:
+            for phrase in reviewed[1]:
+                text = text.replace(phrase, "[interner Softwaretest]")
+    return [f"{label} {match.group(0)!r}" for label, pattern in EXPORT_META_PATTERNS.items()
+            if (match := pattern.search(text))]
+
+
 def export_text(path: Path) -> str:
     suffix = path.suffix.lower()
     if suffix == ".docx":
@@ -487,12 +514,8 @@ def main() -> int:
                 errors.append(
                     f"{path.relative_to(REPO)}: künstliche E-Mail-Domain vorhanden"
                 )
-            for label, pattern in EXPORT_META_PATTERNS.items():
-                match = pattern.search(text)
-                if match:
-                    errors.append(
-                        f"{path.relative_to(REPO)}: {label} {match.group(0)!r}"
-                    )
+            errors.extend(f"{path.relative_to(REPO)}: {error}"
+                          for error in export_meta_errors(text, path))
 
     for relative in sorted(REMOVED_AGGREGATES):
         old_path = TESTAKTEN / relative

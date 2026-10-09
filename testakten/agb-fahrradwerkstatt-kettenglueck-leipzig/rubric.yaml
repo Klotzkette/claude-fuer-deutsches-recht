@@ -1,0 +1,102 @@
+{
+  "name": "Kettenglück: AGB für die Fahrradwerkstatt",
+  "plugin": "agb-werkstatt",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Der dokumentierte native Arbeitsbestand ist vollständig vorhanden.",
+      "min": 12
+    },
+    {
+      "id": "original-001",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01_Betriebsbesprechung.docx ist vorhanden.",
+      "path": "01_Betriebsbesprechung.docx"
+    },
+    {
+      "id": "original-002",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02_Aushang_alt.docx ist vorhanden.",
+      "path": "02_Aushang_alt.docx"
+    },
+    {
+      "id": "original-003",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03_Annahmeschein_RK286.pdf ist vorhanden.",
+      "path": "03_Annahmeschein_RK286.pdf"
+    },
+    {
+      "id": "original-004",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04_Rechnung_RK286.pdf ist vorhanden.",
+      "path": "04_Rechnung_RK286.pdf"
+    },
+    {
+      "id": "original-005",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05_Terminportal_Beschreibung.pdf ist vorhanden.",
+      "path": "05_Terminportal_Beschreibung.pdf"
+    },
+    {
+      "id": "original-006",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06_Leasingrad_Vermerk.docx ist vorhanden.",
+      "path": "06_Leasingrad_Vermerk.docx"
+    },
+    {
+      "id": "original-007",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07_Auftrag_an_Kanzlei.eml ist vorhanden.",
+      "path": "07_Auftrag_an_Kanzlei.eml"
+    },
+    {
+      "id": "original-008",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 08_Kunde_Rechnung.eml ist vorhanden.",
+      "path": "08_Kunde_Rechnung.eml"
+    },
+    {
+      "id": "original-009",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 09_Werkstattleiter_Rueckmeldung.eml ist vorhanden.",
+      "path": "09_Werkstattleiter_Rueckmeldung.eml"
+    },
+    {
+      "id": "original-010",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 10_Preisliste.csv ist vorhanden.",
+      "path": "10_Preisliste.csv"
+    },
+    {
+      "id": "original-011",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 11_Nachrichten_RK286.txt ist vorhanden.",
+      "path": "11_Nachrichten_RK286.txt"
+    },
+    {
+      "id": "original-012",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 12_Abholkalender.txt ist vorhanden.",
+      "path": "12_Abholkalender.txt"
+    },
+    {
+      "id": "konkreter-auftrag",
+      "check_type": "text_contains",
+      "description": "Der konkrete Fallauftrag enthält den für diese Akte maßgeblichen Sachverhalt.",
+      "path": "01_Betriebsbesprechung.docx",
+      "contains": "Leasingunternehmen"
+    },
+    {
+      "id": "fachliche-bearbeitung",
+      "check_type": "human_review",
+      "description": "Diagnosekosten, Freigabe zusätzlicher Reparaturen und Abholung anhand der widersprüchlichen Altbedingungen regeln."
+    },
+    {
+      "id": "grenzen-und-gegenbelege",
+      "check_type": "human_review",
+      "description": "Leasingräder und vermeintliche Verwertungsrechte getrennt beurteilen; keine pauschale Verkaufsbefugnis formulieren."
+    }
+  ]
+}

@@ -43,6 +43,33 @@ SKILLS = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
 QA_DIR = None
 DISCLAIMER = "Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr."
 DISCLAIMER_EN = "This test case file was generated with AI and is an experiment. Use at your own responsibility and risk."
+GUIDELINE_URL = "https://ec.europa.eu/newsroom/dae/redirection/document/131215"
+SOURCE_REPORT = "quality/ki-verordnung-2026-10-09/quellen/befund-bestand.md"
+OCTOBER_REVIEWS = (
+    ("https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727", "2026-10-09"),
+    ("https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)", "2026-10-09"),
+    (GUIDELINE_URL, "2026-10-09"),
+)
+HISTORICAL_REVIEWS = (
+    ("https://eur-lex.europa.eu/eli/reg/2024/1689/oj", "2026-09-28"),
+    ("https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "2026-09-30"),
+    (GUIDELINE_URL, "2026-09-30"),
+    ("https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content", "2026-09-28"),
+    ("https://digital-strategy.ec.europa.eu/en/library/commission-opinion-assessment-code-practice-transparency-ai-generated-content", "2026-09-28"),
+    ("https://eur-lex.europa.eu/procedure/DE/2025_360?sortOrder=asc", "2026-09-28"),
+    ("https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html", "2026-09-28"),
+)
+# Fachliche Hervorhebungen und feste Testanker-Feldnamen aus dem dokumentierten
+# Oktober-Nachabgleich; kein allgemeiner Wegfall der bisherigen Stilprüfung.
+REVIEW_EMPHASIS = {
+    "references/rechtsstand-2026-10-09.md": (
+        "„Ungeachtet“", "ohne angemessene menschliche Überprüfung", "und",
+        "mehr als 10^25", "indikatives",
+    ),
+    "references/testanker.md": (
+        "Sachverhalt:", "Gegenvariante:", "Begründeter Unterschied:", "Beleg:", "Konkretes Produkt:",
+    ),
+}
 
 
 def digest(path):
@@ -51,6 +78,26 @@ def digest(path):
 
 def compact(text):
     return re.sub(r"\s+", "", text).replace("\u00ad", "")
+
+
+def require_source_reviews(sources, expected):
+    actual = Counter((record["url"], record["checked_on"]) for record in sources)
+    if actual != Counter(expected):
+        raise ValueError(f"Abweichende datierte Quellenlesungen: {actual}")
+
+
+def editorial_style_errors(relative_path, raw):
+    permitted = raw
+    for text in REVIEW_EMPHASIS.get(relative_path, ()):
+        permitted = permitted.replace(f"**{text}**", text)
+    errors = []
+    if "**" in permitted:
+        errors.append("nicht dokumentierte oder beschädigte Hervorhebung")
+    if chr(167) in raw:
+        errors.append("Paragrafzeichen")
+    if re.search(r"^#{1,6}\s+(?:[IVX]+|[A-Za-z])[.)]\s", raw, re.M):
+        errors.append("nicht dezimale Überschrift")
+    return errors
 
 
 def content(path):
@@ -108,12 +155,21 @@ class TransparenzRegression(unittest.TestCase):
         for path in PLUGIN.rglob("*.md"):
             raw = path.read_text()
             with self.subTest(path=str(path.relative_to(PLUGIN))):
-                self.assertNotIn("**", raw)
-                self.assertNotIn(chr(167), raw)
-                self.assertNotRegex(raw, re.compile(r"^#{1,6}\s+(?:[IVX]+|[A-Za-z])[.)]\s", re.M))
+                self.assertEqual(editorial_style_errors(path.relative_to(PLUGIN).as_posix(), raw), [])
         mini = PLUGIN / f"{SLUG}-schnellstart.md"
         self.assertLessEqual(len(mini.read_bytes()), 7500)
         self.assertGreater(len(mini.read_text()), 5000)
+
+    def test_editorial_exceptions_remain_local_and_reject_damage(self):
+        path = "references/testanker.md"
+        self.assertEqual(editorial_style_errors(path, "**Sachverhalt:** Text."), [])
+        for relative, text in (
+            ("skills/beispiel/SKILL.md", "**Sachverhalt:** Text."),
+            (path, "**Sachverhalt: Text."), (path, "**Neues Feld:** Text."),
+            (path, "## IV. Sachverhalt\nText."), (path, "Paragraf " + chr(167) + " 1"),
+        ):
+            with self.subTest(path=relative, text=text):
+                self.assertTrue(editorial_style_errors(relative, text))
 
     def test_local_eval_schema_and_hashes(self):
         validate_profile(PROFILE, SLUG, PLUGIN, ROOT)
@@ -144,7 +200,25 @@ class TransparenzRegression(unittest.TestCase):
         for record in PROFILE["sources"]:
             host = urlsplit(record["url"]).hostname
             self.assertTrue(host.endswith(".europa.eu") or host == "www.gesetze-im-internet.de")
-            self.assertIn(record["checked_on"], {"2026-09-28", "2026-09-30"})
+        require_source_reviews(PROFILE["sources"], HISTORICAL_REVIEWS + OCTOBER_REVIEWS)
+
+    def test_dated_source_reviews_reject_missing_duplicate_or_changed_records(self):
+        expected = ((GUIDELINE_URL, "2026-09-30"), (GUIDELINE_URL, "2026-10-09"))
+        records = [{"url": url, "checked_on": day} for url, day in expected]
+        require_source_reviews(records, expected)
+        for changed in (
+            records[:1], records + records[:1],
+            [records[0], {"url": GUIDELINE_URL, "checked_on": "2026-10-10"}],
+            [records[0], {"url": "https://example.org/131215", "checked_on": "2026-10-09"}],
+        ):
+            with self.subTest(records=changed), self.assertRaises(ValueError):
+                require_source_reviews(changed, expected)
+        # Der Nachabgleich darf insbesondere nicht die historische KI-MIG-Lektüre
+        # als erneut vollständig gelesen ausgeben.
+        changed = [dict(record) for record in PROFILE["sources"]]
+        next(record for record in changed if "ki-mig/" in record["url"])["checked_on"] = "2026-10-09"
+        with self.assertRaises(ValueError):
+            require_source_reviews(changed, HISTORICAL_REVIEWS + OCTOBER_REVIEWS)
 
     def test_final_guideline_edge_case_coverage(self):
         required = {
@@ -190,8 +264,18 @@ class TransparenzRegression(unittest.TestCase):
                     if kind == "schnellstart":
                         self.assertLessEqual(len(path.read_bytes()), 7500)
                 official = [s for s in profile["sources"] if s["url"].endswith("/131215")]
-                self.assertEqual(len(official), 1)
-                self.assertEqual(official[0]["checked_on"], "2026-09-30")
+                require_source_reviews(official, ((GUIDELINE_URL, "2026-09-30"), (GUIDELINE_URL, "2026-10-09")))
+                require_source_reviews([s for s in profile["sources"] if s["checked_on"] == "2026-10-09"], OCTOBER_REVIEWS)
+                review = profile["source_review_2026_10_09"]
+                self.assertEqual(review["method"], "official_fulltext_and_editorial_review")
+                self.assertEqual(review["report"], SOURCE_REPORT)
+                report = (ROOT / SOURCE_REPORT).read_text()
+                self.assertIn("Prüfdatum: 9. Oktober 2026", report)
+                manifest = json.loads((ROOT / SOURCE_REPORT).with_name("quellen.json").read_text())
+                archived = {(entry["url"], entry["abgerufen"]) for entry in manifest}
+                self.assertTrue(set(OCTOBER_REVIEWS) <= archived)
+                for url, _ in OCTOBER_REVIEWS:
+                    self.assertIn(url, report)
 
     def test_short_form_keeps_statutory_quality_standard(self):
         mini = (PLUGIN / f"{SLUG}-schnellstart.md").read_text()

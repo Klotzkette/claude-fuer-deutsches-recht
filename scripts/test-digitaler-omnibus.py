@@ -17,6 +17,17 @@ PLUGINS = (
     "robotik-recht",
 )
 REFERENCE = "references/digitaler-omnibus-2026.md"
+# Der Bestandsbericht vom 9. Oktober dokumentiert genau diesen lokalen Nachtrag;
+# der übrige gemeinsame Referenztext bleibt weiterhin bytegleich erforderlich.
+REVIEW_ADDENDUM = (
+    "Amtlicher Nachabgleich vom 9. Oktober 2026: [konsolidierter Rechtsstand und Berichtigung]"
+    "(rechtsstand-2026-10-09.md). Artikel 6 Absatz 1b lautet nach deutscher Berichtigung "
+    "„Ungeachtet“ des Absatzes 1a. Artikel 50, 111 und 113 wurden erneut gelesen; die "
+    "Artikel-111-Absatz-4-Übergangsregel bleibt auf vor dem 2. August 2026 in Verkehr "
+    "gebrachte Systeme und die Anbieterpflicht des Artikels 50 Absatz 2 begrenzt. Frühere "
+    "Quellenprüfungen zu nationalem Recht und weiteren Reformverfahren behalten ihren "
+    "ausdrücklich historischen Stand.\n\n"
+).encode("utf-8")
 SPEC = importlib.util.spec_from_file_location("omnibus_structure", ROOT / "scripts/audit-prompt-profile-routing.py")
 STRUCTURE = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(STRUCTURE)
@@ -29,15 +40,41 @@ def optional_skill_link_errors(text):
             and not re.search(r"\boptional\w*\b", paragraph, re.I)]
 
 
+def reference_matches(plugin, actual, source):
+    if plugin == "ki-vo-ai-act-pruefer":
+        heading, remainder = source.split(b"\n\n", 1)
+        source = heading + b"\n\n" + REVIEW_ADDENDUM + remainder
+    return actual == source
+
+
 class OmnibusTests(unittest.TestCase):
-    def test_reference_is_packaged_locally_and_identical(self):
+    def test_reference_is_packaged_with_only_documented_local_addendum(self):
         source = (ROOT / REFERENCE).read_bytes()
         for plugin in PLUGINS:
             with self.subTest(plugin=plugin):
-                self.assertEqual((ROOT / plugin / REFERENCE).read_bytes(), source)
+                self.assertTrue(reference_matches(plugin, (ROOT / plugin / REFERENCE).read_bytes(), source))
                 readme = (ROOT / plugin / "README.md").read_text()
                 self.assertIn("./" + REFERENCE, readme)
                 self.assertIn("download.html?path=" + plugin + "/" + REFERENCE, readme)
+
+        plugin = "ki-vo-ai-act-pruefer"
+        profile = load(ROOT / "quality/evals" / f"{plugin}.json")
+        review = profile["source_review_2026_10_09"]
+        self.assertEqual(review["method"], "official_fulltext_and_editorial_review")
+        self.assertEqual(review["report"], "quality/ki-verordnung-2026-10-09/quellen/befund-bestand.md")
+        self.assertTrue((ROOT / plugin / "references/rechtsstand-2026-10-09.md").is_file())
+        report = (ROOT / review["report"]).read_text()
+        self.assertIn("Prüfdatum: 9. Oktober 2026", report)
+        self.assertIn("„Ungeachtet“, nicht „Unbeschadet“", report)
+
+    def test_local_addendum_does_not_allow_unreviewed_reference_changes(self):
+        source = b"# 1. Referenz\n\nGemeinsamer Bestand.\n"
+        reviewed = b"# 1. Referenz\n\n" + REVIEW_ADDENDUM + b"Gemeinsamer Bestand.\n"
+        self.assertTrue(reference_matches("ki-vo-ai-act-pruefer", reviewed, source))
+        for damaged in (source, reviewed.replace("Ungeachtet".encode(), b"Unbeschadet"),
+                        reviewed + b"Weiterer Zusatz.\n", reviewed.replace(b"Bestand", b"Aenderung")):
+            self.assertFalse(reference_matches("ki-vo-ai-act-pruefer", damaged, source))
+        self.assertFalse(reference_matches("ki-governance", reviewed, source))
 
     def test_manual_prompts_remain_protected(self):
         protected = {
