@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.2/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.2/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -96,3 +96,14 @@ Beginnen Sie mit N07 und N01. Vergleichen Sie die neue Gerätezuordnung mit dem 
 Beim ursprünglichen Kurztermin genügen die Kernunterlagen. Für die Vertiefung werden widersprechende Erinnerungen, Zahlungsvorgänge und offene Verhandlungspositionen hinzugezogen. Die beiden Aktenstände sind ausdrücklich zu unterscheiden.
 
 <!-- END gesellschafterstreit-nachtrag -->
+
+<!-- BEGIN gesellschafterstreit-vergleich -->
+## 1.6 Ausführliche Klage und Vergleichsverhandlung vom 9 Oktober 2026
+
+Die vollständig ausgefüllte Klage ist ausgebaut. Ein eigenes PDF verbindet sie mit den tatsächlichen Anlagen K1 bis K9. Fünf neue Word-Dokumente mit PDF-Lesefassungen und sechs E-Mails mit echten Anhängen führen vom Streit zur möglichen neuen Gesellschaftervereinbarung: Wünsche der drei Beteiligten, Gegenpositionen, Gesprächsprotokoll und bearbeitbarer Vertragsentwurf.
+
+[Klagepaket, Vergleichskorrespondenz und Vertragsentwurf](Vergleich_2026-10-09/README.md)
+
+Die Klageerwiderung bleibt die erste KI-Aufgabe; danach kann der Vereinbarungsentwurf anhand des Schriftverkehrs überarbeitet werden. Die Verhandlung ist offen, der Vergleich nicht geschlossen. Die ausführliche Bearbeitung beider Schritte kann über den ursprünglichen 30-Minuten-Einstieg hinausgehen.
+
+<!-- END gesellschafterstreit-vergleich -->

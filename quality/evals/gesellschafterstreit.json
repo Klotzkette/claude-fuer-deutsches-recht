@@ -1705,7 +1705,7 @@
     "gesellschafterstreit/references/rechtsprechungsanker.md": "f7ef184ee6b7e107dfc26b7743192dcea7ad11017aba693d1f29d8620ce361b2",
     "gesellschafterstreit/references/verfahrenswahl.md": "4128c43ba69f89921b8374891790748b40cfb3ea472de730c73841684be682cb",
     "gesellschafterstreit/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
-    "gesellschafterstreit/README.md": "32083edca169c21bd4e4f7d82de5a88bbab826b5400b16fd891c5d3951120f6d"
+    "gesellschafterstreit/README.md": "973de25489021cc24698751f15bf530c1949a10520c5c5b09f69f6722642494c"
   },
   "regression_review_status": {
     "date": "2026-10-02",
@@ -2060,5 +2060,53 @@
     "limits": "Keine native Client-UI, kein DOCX-/PDF-Export der Probe, keine Außenhandlung; offene Zeugenanschriften/Originalbelege/Freigaben bleiben kenntlich. Historische Zink-Probe mit22Kriterien nicht neu durchgeführt.",
     "original_defence_sha256": "6641341dc74071e81fbe37aa693b720b229391636a2747d10035872ba5133759",
     "archive_note": "quality/gesellschafterstreit/anwendungsprobe-berlin/Archivhinweis.md"
+  },
+  "revision_445_34_2": {
+    "date": "2026-10-09",
+    "scope": "Berliner Testakte: ausführliche Klage, vollständiges Klageanlagenpaket und offene Vergleichsverhandlung mit bearbeitbarem Vertragsentwurf.",
+    "case_id": "gesellschafterstreit-klageerwiderung-berlin",
+    "case_files": 57,
+    "new_files": 17,
+    "changed_originals": [
+      "01_Mandat_Rabenstein.eml",
+      "02_Klage_Seidel.docx",
+      "11_Nachrichten_K7.txt"
+    ],
+    "claim_words": 3118,
+    "agreement_words": 2187,
+    "claim_packet_pages": 17,
+    "case_audit": "quality/gesellschafterstreit/klage-vergleich-445.34.2.md",
+    "model_run_status": "Keine neue Modell-Anwendungsprobe; frühere Probeläufe gelten ausschließlich für ihre damaligen Fassungen.",
+    "verified_norms": [
+      "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__37.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__46.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__51a.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__54.html",
+      "https://www.gesetze-im-internet.de/zpo/__276.html"
+    ],
+    "current_source_hashes": {
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/01_Mandat_Rabenstein.eml": "e140343e6c27e549415d4694114191a3e89c3b818936f3ec70957d4ee6228319",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/02_Klage_Seidel.docx": "e3a540225f546484d9a9b8cb55338155362f45143dae9a1b3f82feba35cba9a0",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/11_Nachrichten_K7.txt": "028de26ae7d173d56c0e183509e85776829d0eb43bbd1eecfe1972e83b026b40",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V00_Klage_mit_Anlagen_K1_bis_K9.pdf": "d5708f64816c7dbede80566b21a963e2e0b3815d77ff874d6796dcc4696a1a76",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V01_Gesellschaftervereinbarung_Entwurf.docx": "dc27c8206f77ccc4539f603c34f6a4668112c2c7f76999e25960244da1256686",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V01_Gesellschaftervereinbarung_Entwurf.pdf": "7a26965e739adc9f9c813bc6d1d446d2ade9b39ad41087dc70dfc73c945ea0d1",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V02_Fuerst_Verhandlungsposition.docx": "f88d2389d1aeafb6143977240214f74299e17f9c4866f3fdf654ac05c4322f88",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V02_Fuerst_Verhandlungsposition.pdf": "9be6135eb97777d653402cdfbfdaf1cdd23a425b9c44001791b36b9479b2b909",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V03_Rabenstein_Gegenposition.docx": "cf73412faa008c6e8fae816220ef04528484f90a902e5d29a0d4f750727b19bb",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V03_Rabenstein_Gegenposition.pdf": "fcb9d50460a06fd9e60d246af2ffae80cad2f5e1b00b280dc77437324ca2bb39",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V04_Heller_Persoenliche_Position.docx": "94f8c9f6abf9529e80763c67a97ad75004762b5f8e28ae07b8cc51604b380980",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V04_Heller_Persoenliche_Position.pdf": "a6a41775d1a5c679be50773301f1715e2e084242c552f0348db8192b40a74dc7",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V05_Gespraechsprotokoll_09_Oktober.docx": "f21b03ddece33210bd9c12000e36f98d48a0b81ef795805f32772aa789d74de9",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V05_Gespraechsprotokoll_09_Oktober.pdf": "4a3537824987e835af77a16a4e4b3d8f9b5ab184a6dfa885ca6cad31ebb2a951",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V06_Mandatserweiterung_Gesellschaft.eml": "f3d0a26e51574b34db29a4d82bfd940346a040cbe0bdff12fefb5bab575cbc19",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V07_Fuerst_Vergleichsvorstoss.eml": "e3e3b6d20d6dfa5a3301ef682315107c567dafa90e7ae98c2b4c54e1002f6916",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V08_Heller_Rollen_und_Grenzen.eml": "9cf8be820e4ab0e8dfbad1fc8f9cad80be924755e0a6a76c2239f0d4549a115a",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V09_Fuerst_Entwurfsversand.eml": "0cae4182aca9bfdf3fe3bde349b0592d7cb9206b94339771051064fac553cb0f",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V10_Rabenstein_Entwurfsrueckmeldung.eml": "ef611774a6cf049a2f507616b5f18d0baa5dde59709bdcb18b581b5c51c18366",
+      "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V11_Heller_Protokoll_und_Korrekturen.eml": "5cfbb03bf415265190247260fb7ac220b306ad0e36189dae2602c95005f120e1"
+    }
   }
 }

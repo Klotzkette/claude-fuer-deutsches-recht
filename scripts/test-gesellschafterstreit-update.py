@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Prüft erhaltene Kernakten, Nachträge und das Komponentenrelease 445.34.1.
+"""Prüft erhaltene Kernakten, Nachträge und das Komponentenrelease 445.34.2.
 
 Ohne --dist werden Quellen und die abgelegten Gesamt-PDFs geprüft. Mit --dist
 werden zusätzlich sämtliche nativen Archivbytes und PDF-Inhalte geprüft.
@@ -30,6 +30,7 @@ from pypdf import PdfReader
 import yaml
 
 from gesellschafterstreit_nachtrag_daten import CASES
+from gesellschafterstreit_vergleich_daten import CASE as SETTLEMENT_CASE
 from prompt_profiles import PROMPT_SUFFIXES, validate_files
 from testakte_disclaimer import NOTICE_BYTES, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
@@ -37,8 +38,9 @@ from testakte_zip_common import working_dump_archive_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "gesellschafterstreit"
-VERSION = "445.34.1"
+VERSION = "445.34.2"
 ADDENDUM = "Nachtrag_2026-10-08"
+SETTLEMENT = "Vergleich_2026-10-09"
 DIST = None
 # Unabhängiger SHA-256-Bestand der 76 vor dem Update vorhandenen Originale.
 # README, Bewertungsdatei und abgeleitetes Gesamt-PDF gehören nicht dazu.
@@ -127,6 +129,14 @@ BASELINE_SHA256 = {
     }
 }
 
+# Beauftragte Überarbeitung 445.34.2: ausgebaute Klage, ihr Mailanhang und
+# K7-Exportdatierung vor Klage/Zustellung. Historische Hashes bleiben oben.
+BERLIN_REVISION_445_34_2 = {
+    "01_Mandat_Rabenstein.eml": "e140343e6c27e549415d4694114191a3e89c3b818936f3ec70957d4ee6228319",
+    "02_Klage_Seidel.docx": "e3a540225f546484d9a9b8cb55338155362f45143dae9a1b3f82feba35cba9a0",
+    "11_Nachrichten_K7.txt": "028de26ae7d173d56c0e183509e85776829d0eb43bbd1eecfe1972e83b026b40"
+}
+
 
 def module(filename):
     spec = importlib.util.spec_from_file_location(filename.replace("-", "_"), ROOT / "scripts" / filename)
@@ -202,9 +212,16 @@ def addon_files(case):
 
 def source_files(case):
     directory = ROOT / "testakten" / case["slug"]
-    return [directory / name for name in BASELINE_SHA256[case["slug"]]] + [
+    files = [directory / name for name in BASELINE_SHA256[case["slug"]]] + [
         directory / ADDENDUM / name for name in addon_files(case)
     ]
+    if case["slug"] == SETTLEMENT_CASE["slug"]:
+        names = [d["file"] for d in SETTLEMENT_CASE["docs"]]
+        names += [str(Path(name).with_suffix(".pdf")) for name in names]
+        names += [e["file"] for e in SETTLEMENT_CASE["emails"]]
+        names += ["V00_Klage_mit_Anlagen_K1_bis_K9.pdf"]
+        files += [directory / SETTLEMENT / name for name in names]
+    return files
 
 
 def release_copies():
@@ -306,7 +323,7 @@ class GesellschafterstreitUpdate(unittest.TestCase):
                 self.assertIn("bedarf keiner", result)
                 self.assertIn("erneuten Zustimmung.", result)
 
-    def test_historical_originals_remain_byte_identical(self):
+    def test_originals_match_baseline_or_documented_revision(self):
         self.assertEqual({slug: len(files) for slug, files in BASELINE_SHA256.items()}, {
             "gesellschafterstreit-zink-und-zunder": 38,
             "gesellschafterstreit-klageerwiderung-berlin": 20,
@@ -317,6 +334,8 @@ class GesellschafterstreitUpdate(unittest.TestCase):
             actual = {p.name for p in directory.iterdir() if p.is_file() and p.name not in {"README.md", "rubric.yaml", ".DS_Store"}}
             self.assertEqual(actual, set(files), slug)
             for name, expected in files.items():
+                if slug == SETTLEMENT_CASE["slug"]:
+                    expected = BERLIN_REVISION_445_34_2.get(name, expected)
                 self.assertEqual(hashlib.sha256((directory / name).read_bytes()).hexdigest(), expected, f"{slug}/{name}")
 
     def test_exact_addendum_and_export_inventory(self):
@@ -478,7 +497,11 @@ class GesellschafterstreitUpdate(unittest.TestCase):
             paths = builder.sources(directory)
             original_count = len(BASELINE_SHA256[case["slug"]])
             self.assertTrue(all(path.parent == directory for path in paths[:original_count]))
-            self.assertTrue(all(path.parent.name == ADDENDUM for path in paths[original_count:]))
+            addendum_end = original_count + len(addon_files(case))
+            self.assertTrue(all(path.parent.name == ADDENDUM for path in paths[original_count:addendum_end]))
+            self.assertTrue(all(path.parent.name == SETTLEMENT for path in paths[addendum_end:]))
+            if case["slug"] == SETTLEMENT_CASE["slug"]:
+                self.assertEqual(len(paths[addendum_end:]), 17)
             combined = directory / "gesamt-pdf" / f"{case['slug']}_gesamt.pdf"
             data = combined.read_bytes()
             self.assertEqual(pdf_content_errors(data), [])
@@ -492,6 +515,8 @@ class GesellschafterstreitUpdate(unittest.TestCase):
                 self.assertIn(normalized(path.relative_to(directory).as_posix()), normalized(register))
             self.assertIn("02.10.2026", register)
             self.assertIn("08.10.2026", register)
+            if case["slug"] == SETTLEMENT_CASE["slug"]:
+                self.assertIn("09.10.2026", register)
 
     def test_release_assets_native_bytes_pdf_content_and_checksums(self):
         if DIST is None:
