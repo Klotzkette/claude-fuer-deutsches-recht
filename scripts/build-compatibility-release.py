@@ -100,22 +100,24 @@ def build(dist: Path, root: Path = ROOT) -> None:
               "plugins": {}}
     for name in PLUGINS:
         entry = entries[name]
-        if entry["version"] != VERSION:
-            raise ValueError(f"Unerwartete Paketversion: {name}")
+        plugin_version = entry["version"]
         validate_plugin_version(entry, market["version"], root=root)
         route = scoped_asset_url(f"{name}.zip", root=root)
-        if not route or not route.endswith(f"-v{VERSION}/{name}.zip"):
+        if not route or not route.endswith(f"-v{plugin_version}/{name}.zip"):
             raise ValueError(f"Gleichversionierte Paketroute fehlt: {name}")
+        route_tag = route.rsplit("/", 2)[1]
+        if route_tag.startswith("kompatibilitaet-v") and route_tag != TAG:
+            raise ValueError(f"Unerwartete Kompatibilitätsversion: {name}")
         directory = (root / entry["source"]).resolve()
         if not directory.is_relative_to(root.resolve()):
             raise ValueError(f"Pluginquelle außerhalb des Repositorys: {name}")
         files = sources(root, directory)
         target = dist / f"{name}.zip"
         write_zip(target, files)
-        CHECKS.validate_plugin_zip(dist, name, VERSION)
+        CHECKS.validate_plugin_zip(dist, name, plugin_version)
         CHECKS.validate_skill_sources(target, directory)
         CHECKS.validate_focus_skill(target, directory, root / "quality/evals" / f"{name}.json")
-        report["plugins"][name] = {"source": entry["source"], "route": route,
+        report["plugins"][name] = {"source": entry["source"], "version": plugin_version, "route": route,
                                    "files": verify_zip(target, files)}
     if not (scoped_asset_url(WEBSITE, root=root) or "").endswith(f"/{TAG}/{WEBSITE}"):
         raise ValueError("Website-Route fehlt")

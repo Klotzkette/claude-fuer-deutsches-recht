@@ -10,15 +10,15 @@ Vom Kanzleistart zum laufenden Mandat: Organisation einrichten, Posteingänge zu
 
 ## 0. Downloads und Verwendung
 
-Stand: v445.35.1. Quellenstand der jeweiligen Fachprüfung steht im Skill beziehungsweise im Prüfbericht; die Ergänzungen zur Dokumentenproduktion sind vom 9. Oktober 2026.
+Stand: v445.35.2. Quellenstand der jeweiligen Fachprüfung steht im Skill beziehungsweise im Prüfbericht; die Ergänzungen zur Dokumentenproduktion sind vom 9. Oktober 2026.
 
 Das Plugin unterstützt die Organisation und Mandatsbearbeitung einer Kanzlei mit 30 aufeinander abgestimmten Arbeitsanleitungen, den Skills. Es hilft beim Einrichten der Kanzlei, beim Zuordnen der Post, bei Fristen, juristischen Entwürfen, Kommunikation und Abrechnung. Sie können einen einzelnen Auftrag bearbeiten oder mehrere Schritte eines Mandats verbinden. Gespeicherte Arbeitsstände ermöglichen die Fortsetzung nach einer Unterbrechung; vor einem erneuten Versand wird der tatsächliche Status geprüft. Computerzugang allein ersetzt keine Einsatzfreigabe.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 30 Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-native-kanzlei.zip) |
+| Claude/Codex – Plugin mit 30 Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-native-kanzlei.zip) |
 | Portables Agent-Plugins-Paket (Vorfassung 445.35.0) | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/ki-native-kanzlei-portable.zip) |
-| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs der Vorfassung 445.35.0 im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/ki-native-kanzlei-skills-einzelpdfs.zip) |
+| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs der Vorfassung 445.35.0 im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.35.0/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
 | Hauptproblem-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
@@ -289,6 +289,6 @@ English: Complete list of all 30 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie getrennt interne Entwürfe, tatsächliche Mandantendialoge und assistierte Außenhandlungen. Unabhängig von der KI-VO-Einstufung bleiben persönliche Freigaben, sichere Zugangsdaten und belegte Fristobjekte nötig.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
 
-Aktualisierte Lesefassung zur KI-Fachvertiefung: [Skills-Handbuch als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-native-kanzlei-skills-handbuch.pdf). Die Fassung berücksichtigt die ergänzten KI-Prüfaufträge; ältere Komponenten-PDFs bleiben historisch verfügbar.
+Aktualisierte Lesefassung zur KI-Fachvertiefung: [Skills-Handbuch als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-native-kanzlei-skills-handbuch.pdf). Die Fassung berücksichtigt die ergänzten KI-Prüfaufträge; ältere Komponenten-PDFs bleiben historisch verfügbar.

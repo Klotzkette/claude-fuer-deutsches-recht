@@ -1,6 +1,6 @@
 # ki-governance
 
-**60 Skills** · Stand `v445.35.1`
+**60 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-governance/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`ki-governance-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-governance/ki-governance-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`ki-governance-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-governance/ki-governance-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-governance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-governance.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-governance.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-governance.zip) |
 
 ## So benutzt man einen Skill
 

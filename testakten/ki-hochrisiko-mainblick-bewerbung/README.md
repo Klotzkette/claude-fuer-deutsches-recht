@@ -16,8 +16,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf`](gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -45,8 +45,8 @@ Alle Personen, Unternehmen und Vorgänge sind erfunden. `.example` kennzeichnet 
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/ki-hochrisiko-mainblick-bewerbung_gesamt.pdf) |
-| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
-| Einzel-PDFs | [PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |
+| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-hochrisiko-mainblick-bewerbung.zip) |
+| Einzel-PDFs | [PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-hochrisiko-mainblick-bewerbung-einzelpdfs.zip) |
 
 <a id="13-originaldateien"></a>
 

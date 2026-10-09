@@ -1,6 +1,6 @@
 # ecommerce-recht
 
-**73 Skills** · Stand `v445.35.1`
+**73 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ecommerce-recht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`ecommerce-recht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`ecommerce-recht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ecommerce-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ecommerce-recht.zip) |
+| **Plugin (installierbar)** | ZIP | [ecommerce-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ecommerce-recht.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "kanzlei-website-redaktion",
-  "version": "445.35.1",
+  "version": "445.35.2",
   "description": "Kanzlei-Website mit zehn Skills betreiben: Blog, Rechtsprechungsnews, Teamprofile, Fotos, Kontakte und Quellenbeobachtung. Mit Vorschau, Artikel-50-Pruefung, konkreten Freigaben und kontrollierter Veroeffentlichung.",
   "author": {
     "name": "Klotzkette",

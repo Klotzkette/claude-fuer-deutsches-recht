@@ -67,15 +67,15 @@ class CompatibilityRelease(unittest.TestCase):
         with self.assertRaises(ValueError):
             R.build(self.root)
 
-    def prepare_routed_build(self, plugin_routes):
+    def prepare_routed_build(self, plugin_routes, version=R.VERSION):
         manifest = self.plugin / ".claude-plugin/plugin.json"
         manifest.parent.mkdir()
-        manifest.write_text(json.dumps({"name": "example", "version": R.VERSION,
+        manifest.write_text(json.dumps({"name": "example", "version": version,
                                         "description": "Prüft einen Vorgang."}))
         market = self.root / ".claude-plugin/marketplace.json"
         market.parent.mkdir()
         market.write_text(json.dumps({"version": R.VERSION, "plugins": [
-            {"name": "example", "version": R.VERSION, "source": "./example"}]}))
+            {"name": "example", "version": version, "source": "./example"}]}))
         routes = self.root / "scripts/scoped-release-assets.json"
         routes.parent.mkdir()
         routes.write_text(json.dumps({"schema_version": 1, "assets": {
@@ -115,9 +115,22 @@ class CompatibilityRelease(unittest.TestCase):
                          R.scoped_asset_url("example.zip", root=self.root))
         self.assertTrue(report["plugins"]["example"]["route"].endswith(f"/{tag}/example.zip"))
 
+    def test_newer_other_component_route_uses_actual_plugin_version(self):
+        version = "445.35.2"
+        self.prepare_routed_build({"example.zip": f"ki-verordnung-v{version}"}, version=version)
+        dist, report = self.build_routed_fixture()
+        self.assertEqual(report["tag"], R.TAG)
+        self.assertEqual(report["version"], R.VERSION)
+        self.assertEqual(report["plugins"]["example"]["version"], version)
+        self.assertEqual(report["plugins"]["example"]["route"],
+                         R.scoped_asset_url("example.zip", root=self.root))
+        with zipfile.ZipFile(dist / "example.zip") as archive:
+            self.assertEqual(json.loads(archive.read(".claude-plugin/plugin.json"))["version"], version)
+
     def test_own_component_route_is_built_and_reported(self):
         self.prepare_routed_build({"example.zip": R.TAG})
         _, report = self.build_routed_fixture()
+        self.assertEqual(report["plugins"]["example"]["version"], R.VERSION)
         self.assertEqual(report["plugins"]["example"]["route"],
                          R.scoped_asset_url("example.zip", root=self.root))
 
@@ -128,6 +141,20 @@ class CompatibilityRelease(unittest.TestCase):
                               {"example.zip": "ki-verordnung-v0.0.0"},
                               {"example.zip": f"ki-verordnung-v{R.VERSION}0"},
                               {"example.zip": f"invalid/ki-verordnung-v{R.VERSION}"}):
+            with self.subTest(routes=plugin_routes):
+                route_file.write_text(json.dumps({"schema_version": 1, "assets": {
+                    R.WEBSITE: R.TAG, **plugin_routes}}))
+                with self.assertRaises(ValueError):
+                    self.build_routed_fixture()
+                self.assertFalse((self.root / "dist/example.zip").exists())
+
+    def test_newer_plugin_requires_matching_foreign_component_route(self):
+        version = "445.35.2"
+        self.prepare_routed_build({}, version=version)
+        route_file = self.root / "scripts/scoped-release-assets.json"
+        for plugin_routes in ({}, {"example.zip": f"ki-verordnung-v{R.VERSION}"},
+                              {"example.zip": f"ki-verordnung-v{version}0"},
+                              {"example.zip": f"kompatibilitaet-v{version}"}):
             with self.subTest(routes=plugin_routes):
                 route_file.write_text(json.dumps({"schema_version": 1, "assets": {
                     R.WEBSITE: R.TAG, **plugin_routes}}))

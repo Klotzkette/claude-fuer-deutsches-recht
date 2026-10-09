@@ -236,4 +236,4 @@ English: Complete list of all 109 skills in this plugin. Both links in each row 
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie Minderheitsbeteiligung, tatsächliche Betriebssteuerung und spätere Produktänderungen separat. Die Beteiligungsstruktur allein bestimmt weder die Anbieterrolle noch eine Konformitätsvermutung.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

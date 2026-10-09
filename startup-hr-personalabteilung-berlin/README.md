@@ -262,4 +262,4 @@ English: Complete list of all 112 skills in this plugin. Both links in each row 
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Vergleichen Sie reine Terminorganisation mit Auswahl, Ranking und Profiling von Bewerbenden. Eine abschließende Unterschrift der Personalleitung widerlegt maßgeblichen Systemeindruck nicht ohne tatsächliche Kontrollbelege.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

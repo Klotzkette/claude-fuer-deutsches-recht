@@ -1,3 +1,9 @@
+# ki-verordnung-v445.35.2 – 2026-10-09
+
+- Redaktioneller Nachlauf zur KI-Fachrunde: neue README- und Referenzüberschriften dezimal gegliedert, bisherige Sprungziele erhalten.
+- 80 Komponentenpakete mit aktualisierten Versionen und Downloadwegen; dieselben fünf vollständigen neuen Testakten und neun bisherigen Fälle.
+- Fachtexte, native Arbeitsdateien und Lesefassungen bleiben inhaltlich unverändert; 445.35.1 bleibt als bestehende Veröffentlichung erhalten.
+
 # ki-verordnung-v445.35.1 – 2026-10-09
 
 80 betroffene Plugins fachlich vertieft: Zweckbestimmung, Fehlgebrauch, Datenanforderungen, Verbotsmerkmale, Transparenz, Normenwirkung und begrenzte Rechtsprechungsargumente. Acht amtlich gelesene Entscheidungen mit konkreten Randnummern; öffentliche ISO-/DIN-Ausgaben von tatsächlicher Normenanwendung getrennt. Sechs Kernkomponenten erhalten je fünf Gegenproben, fünf neue vollständige Akten ergänzen die neun vorhandenen Fälle. Acht PDF-Lesefassungen aktualisiert; Komponentenrouting und Paketprüfungen erweitert.

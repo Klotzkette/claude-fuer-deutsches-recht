@@ -10,7 +10,7 @@
     {
       "name": "vergabestelle-behoerden",
       "source": "./vergabestelle-behoerden",
-      "version": "445.35.1",
+      "version": "445.35.2",
       "description": "Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.",
       "category": "german-law",
       "tags": [

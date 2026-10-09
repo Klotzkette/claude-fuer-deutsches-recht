@@ -1,6 +1,6 @@
 # fachanwalt-gewerblicher-rechtsschutz
 
-**94 Skills** · Stand `v445.35.1`
+**94 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fachanwalt-gewerblicher-rechtsschutz/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-gewerblicher-rechtsschutz-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [fachanwalt-gewerblicher-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/fachanwalt-gewerblicher-rechtsschutz.zip) |
+| **Plugin (installierbar)** | ZIP | [fachanwalt-gewerblicher-rechtsschutz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/fachanwalt-gewerblicher-rechtsschutz.zip) |
 
 ## So benutzt man einen Skill
 

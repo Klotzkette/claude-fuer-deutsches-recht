@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 290 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/arbeitszeugnispruefer.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/arbeitszeugnispruefer.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/arbeitszeugnispruefer.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/arbeitszeugnispruefer.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitszeugnispruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/arbeitszeugnispruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`arbeitszeugnispruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitszeugnispruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -207,4 +207,4 @@ English: Complete list of all 31 skills in this plugin. Both links in each row d
 
 [Konkrete Zweckprüfung, Rechtsprechungsgrenzen und vollständige Übungsakte](references/ki-normen-und-fallpruefung.md): Arbeitnehmerberatung, Zeugnisentwurf und arbeitgeberseitiges Profiling getrennt behandeln. Eine menschliche Schlussunterschrift widerlegt maßgeblichen automatisierten Entscheidungseinfluss nicht allein.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

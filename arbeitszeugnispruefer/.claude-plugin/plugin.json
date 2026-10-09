@@ -1,6 +1,6 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "445.35.1",
+  "version": "445.35.2",
   "description": "Prüft Arbeitszeugnisse aus Arbeitnehmersicht: gezielte Rückfragen, vertiefte Rechtsprechung, belegbare Änderungen, kurzer Mandantenbrief und passendes Arbeitgeberschreiben. Führt den Fall bis zur Kontrolle der Neufassung; auch für Chat und Word ausgearbeitet.",
   "license": "Apache-2.0 OR MIT",
   "author": {

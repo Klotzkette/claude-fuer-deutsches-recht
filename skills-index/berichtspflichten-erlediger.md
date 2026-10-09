@@ -1,6 +1,6 @@
 # berichtspflichten-erlediger
 
-**58 Skills** · Stand `v445.35.1`
+**58 Skills** · Stand `v445.35.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berichtspflichten-erlediger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`berichtspflichten-erlediger-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`berichtspflichten-erlediger-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [berichtspflichten-erlediger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/berichtspflichten-erlediger.zip) |
+| **Plugin (installierbar)** | ZIP | [berichtspflichten-erlediger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/berichtspflichten-erlediger.zip) |
 
 ## So benutzt man einen Skill
 

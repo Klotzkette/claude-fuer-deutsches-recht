@@ -225,4 +225,4 @@ English: Complete list of all 100 skills in this plugin. Both links in each row 
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Prüfen Sie getrennt, ob das beanstandete Produkt von der Berufsträgerin stammt und welchen berufsrechtlichen Vorwurf die Belege tragen. Ein KI-VO-Verstoß darf weder aus einem falschen Zitat allein noch aus einer fehlenden ISO-Bescheinigung gefolgert werden.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.

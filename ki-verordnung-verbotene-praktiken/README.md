@@ -4,7 +4,7 @@
 
 ## 1. Zweck und Rechtsstand
 
-Version 445.35.1. Das Plugin prüft die konkrete Praxis nach Artikel 5: welches System, welche Funktion, welcher Akteur, welche Handlung und welcher Zeitpunkt. Es führt bis zum begründeten Vermerk, ausformulierten Anbieterbrief und konkreten Maßnahmenplan. Ein negatives Verbotsprüfungsergebnis ist keine allgemeine Zulassung.
+Version 445.35.2. Das Plugin prüft die konkrete Praxis nach Artikel 5: welches System, welche Funktion, welcher Akteur, welche Handlung und welcher Zeitpunkt. Es führt bis zum begründeten Vermerk, ausformulierten Anbieterbrief und konkreten Maßnahmenplan. Ein negatives Verbotsprüfungsergebnis ist keine allgemeine Zulassung.
 
 **Aktualisierung vom 09.10.2026:** Die neuen Verbote in Buchstaben ba und bb sowie Absätze 1a und 1b sind berücksichtigt und werden erst ab ihrem Geltungsbeginn am **02.12.2026** angewendet. Die bisherigen Verbote gelten weiter seit dem 02.02.2025. Risikomanagement, Qualitätsmanagement, Grundrechte-Folgenabschätzung, menschliche Aufsicht und Registrierung werden nicht als austauschbare Schlagworte behandelt. Ein ISO-Zertifikat oder Artikel 6 Absatz 3 legalisiert keine verbotene Praxis.
 
@@ -16,7 +16,7 @@ Der Ablauf lautet: Unterlagen lesen, System und Stichtag klären, einschlägige 
 
 ## 3. Plugin und Prompts
 
-- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-verbotene-praktiken.zip)
+- [Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-verbotene-praktiken.zip)
 - [Werkstatt lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md)
 - [Mini lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-schnellstart.md)
 - [Hauptproblem-Prompt lesen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md)
@@ -56,13 +56,13 @@ Die tragenden Artikel wurden am amtlichen Volltext gelesen. Dieses Paket behaupt
 
 ## 9. PDF-Lesefassungen und Prüfbericht
 
-[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-verbotene-praktiken-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/ki-verordnung-verbotene-praktiken-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
+[Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-verbotene-praktiken-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-verbotene-praktiken-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
 ## 10. Textfassungen
 
 [ki-verordnung-verbotene-praktiken: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.txt) · [ki-verordnung-verbotene-praktiken: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-schnellstart.txt) · [ki-verordnung-verbotene-praktiken: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.txt)
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
 
 <a id="neue-vollständige-übungsakten"></a>
 
@@ -74,7 +74,7 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsreleas
 
 | Akte und Aufgabe | Originaldateien | Einzel-PDFs | Gesamt-PDF |
 | --- | --- | --- | --- |
-| [Regnitz Sorglosabo](../testakten/ki-verbot-regnitz-sorglosabo/README.md): Beeinflussung, Verletzlichkeit und belegte Kosten. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-verbot-regnitz-sorglosabo.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.1/testakte-ki-verbot-regnitz-sorglosabo-einzelpdfs.zip) | [PDF](../testakten/ki-verbot-regnitz-sorglosabo/gesamt-pdf/ki-verbot-regnitz-sorglosabo_gesamt.pdf) |
+| [Regnitz Sorglosabo](../testakten/ki-verbot-regnitz-sorglosabo/README.md): Beeinflussung, Verletzlichkeit und belegte Kosten. | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-verbot-regnitz-sorglosabo.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/testakte-ki-verbot-regnitz-sorglosabo-einzelpdfs.zip) | [PDF](../testakten/ki-verbot-regnitz-sorglosabo/gesamt-pdf/ki-verbot-regnitz-sorglosabo_gesamt.pdf) |
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

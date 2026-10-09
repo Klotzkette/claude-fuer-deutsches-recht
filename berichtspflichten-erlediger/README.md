@@ -176,4 +176,4 @@ English: Complete list of all 58 skills in this plugin. Both links in each row d
 
 [Normen, technische Nachweise, Rechtsprechungsgrenzen und Übungsakte](references/ki-normen-und-fallpruefung.md): Trennen Sie die Übernahme von Lohnzahlen von einer Bewertung der Arbeitsleistung. Ein Bericht an die Finanzverwaltung wird nicht allein durch Automatisierung zu einem System für Personalentscheidungen.
 
-Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.1 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.1). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
+Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-verordnung-v445.35.2). Ältere Sammelarchive enthalten diese Ergänzung noch nicht.
