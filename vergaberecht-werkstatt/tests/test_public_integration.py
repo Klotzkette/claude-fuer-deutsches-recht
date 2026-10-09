@@ -10,14 +10,58 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 from public_release import canonical_prompt, compact_mini, markdown_download, with_working_downloads
+from public_release import REPOSITORY
 from testakte_notices import MARKDOWN_WARNING, WARNING, README_NOTICE, with_case_warnings
 
 spec = importlib.util.spec_from_file_location("case_zips", ROOT / "scripts/build-testakten-release-zips.py")
 case_zips = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(case_zips)
 
+spec = importlib.util.spec_from_file_location("public_validation", ROOT / "scripts/validate-public-integration.py")
+public_validation = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(public_validation)
+
 
 class PublicIntegrationTests(unittest.TestCase):
+    def test_declared_shared_case_readme_requires_existing_file(self):
+        relative = "testakten/ki-register-havelgrund-sozialamt/README.md"
+        target = f"https://github.com/{REPOSITORY}/blob/main/{relative}"
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+            path = parent / relative
+            path.parent.mkdir(parents=True)
+            path.write_text("# Gemeinsame Testakte\n", encoding="utf-8")
+            self.assertIsNone(public_validation.public_target_error(target, parent_root=parent))
+
+    def test_undeclared_cross_component_file_is_rejected_even_if_it_exists(self):
+        relative = "testakten/andere-akte/README.md"
+        target = f"https://github.com/{REPOSITORY}/blob/main/{relative}"
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            path = parent / relative
+            path.parent.mkdir(parents=True)
+            path.write_text("# Andere Testakte\n", encoding="utf-8")
+            self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+
+    def test_shared_case_exception_does_not_allow_other_files_or_url_variants(self):
+        base = f"https://github.com/{REPOSITORY}/blob/main/"
+        allowed = "testakten/ki-register-havelgrund-sozialamt/README.md"
+        targets = [
+            base + allowed.replace("README.md", "13_Ereignisse.xlsx"),
+            base + allowed + "?download=1",
+            base.replace("/blob/", "/tree/") + allowed,
+            f"https://raw.githubusercontent.com/{REPOSITORY}/main/{allowed}",
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            parent = Path(directory)
+            path = parent / allowed
+            path.parent.mkdir(parents=True)
+            path.write_text("# Gemeinsame Testakte\n", encoding="utf-8")
+            for target in targets:
+                with self.subTest(target=target):
+                    self.assertIsNotNone(public_validation.public_target_error(target, parent_root=parent))
+
     def test_working_downloads_leave_navigation_and_code_unchanged(self):
         destination = "skills/example/SKILL.md"
         link = f"[Skill]({destination})"

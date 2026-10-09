@@ -511,6 +511,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die fachbezogene Normen- und Fallprüfung. Lassen Sie Bieter Systemzweck, Version und konkrete Nachweise beschreiben. Ein Zertifikatsname oder allgemeines Risikokonzept ersetzt keinen überprüfbaren Leistungs- und Testgegenstand. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 

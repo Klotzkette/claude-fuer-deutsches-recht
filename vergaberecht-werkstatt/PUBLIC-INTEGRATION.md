@@ -49,6 +49,13 @@ Arbeitsdatei-Links in den Rollen-READMEs und Skill-Indizes verwenden den
 öffentlichen Markdown-Downloader mit dem Komponentenpräfix.
 README- und andere Navigationsseiten bleiben normale Seitenlinks.
 
+Gemeinsame Testakten können außerhalb dieser Komponente im übergeordneten
+Repository liegen. Der Integrationsvalidator erlaubt dafür ausschließlich
+die in `SHARED_CASE_READMES` ausdrücklich aufgeführten öffentlichen
+README-URLs und prüft die Existenz der jeweiligen Datei im übergeordneten
+Repository. Diese Liste enthält die Havelgrund-Akte für die KI-Beschaffung;
+andere externe Komponentenpfade und nicht vorhandene Ziele bleiben Fehler.
+
 ## 3. Build Für Den Root-Wrapper
 
 Alle Befehle laufen mit Arbeitsverzeichnis `vergaberecht-werkstatt`.

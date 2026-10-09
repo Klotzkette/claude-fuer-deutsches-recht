@@ -20,6 +20,7 @@ from pypdf import PdfReader
 from openpyxl import load_workbook
 from prompt_profiles import validate_files, hand_curated
 from quality_lab import validate_profile
+from release_routing import validate_plugin_version
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
 
@@ -77,11 +78,12 @@ class SeminarSuite(unittest.TestCase):
             self.assertEqual({c["slug"] for c in plugin["cases"]}, EXPECTED[name])
             self.assertEqual(len(plugin["cases"]), 5)
             self.assertEqual(entries[name]["source"], plugin["source"])
+            validate_plugin_version(entries[name], market["version"], root=ROOT)
             directory = ROOT / plugin["source"]
             for kind in (".claude-plugin", ".codex-plugin"):
                 manifest = json.loads((directory / kind / "plugin.json").read_text())
                 self.assertEqual(manifest["name"], name)
-                self.assertEqual(manifest["version"], market["version"])
+                self.assertEqual(manifest["version"], entries[name]["version"])
             self.assertEqual(entries[name]["description"], json.loads((directory / ".claude-plugin/plugin.json").read_text())["description"])
 
     def test_eight_discoverable_skills_and_install_local_references(self):

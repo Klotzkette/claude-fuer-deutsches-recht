@@ -45,7 +45,7 @@ Folgende Prüfungen waren erfolgreich:
 - `test-ki-verordnung-hochrisiko-pruefer.py`: 15 Tests, davon eine erwartete optionale Auslassung.
 - `test-office-resilience.py`, `test-scoped-release-routing.py`, `test-compatibility-release.py`, `test-marketplace-import.py`.
 - `test-ki-native-kanzlei-source.py`: 30 Skills und die erneuerte Lesefassung; zulässige Promptgrößen und Profilhashes.
-- `audit-skill-activation.py`, `validate-yaml-frontmatter.py`, `validate-markdown-structure.py`, `validate-plugin-structure.mjs`.
+- `audit-skill-activation.py`, `validate-yaml-frontmatter.py`, `validate-markdown-structure.py`, `validate-plugin-structure.mjs`, `validate-marketplace-import.mjs`.
 - `validate-root-readme-overview.py`, `validate-testakten-readme-downloads.py`: aktuelle Übersichten und Downloadhinweise.
 - `validate-manufacturer-plugins.py`: alle 296 Plugins und der Marketplace; `quality-lab.py audit`: alle 296 Prüfprofile.
 - `git diff --check`: keine Whitespace-Fehler.
@@ -53,3 +53,13 @@ Folgende Prüfungen waren erfolgreich:
 `validate-readme-navigation.py` meldet sieben bereits auf `origin/main` bei Commit `ac65d72bc9a0fac242a661f5c9e3cd2140334552` vorhandene Fehler: einen absoluten lokalen Verweis in der früheren KI-Kanzlei-Probe sowie sechs Markdown-Downloadbeschriftungen im Assetindex und bei Betreuungsrecht beziehungsweise Geldwäschebeauftragtem. Diese Prüfung ist deshalb ausdrücklich nicht als grün ausgewiesen; der neue KI-Downloadumfang erzeugt keinen weiteren Treffer.
 
 Der Veröffentlichungsworkflow wiederholt die fachbezogenen Datei- und Paketprüfungen und vergleicht alle hochgeladenen Dateien durch erneuten Download, bevor er das Release freischaltet. Sein tatsächliches Ergebnis ist im zugehörigen Actions-Lauf nachzusehen. Die Prüfung von Dateien, Formeln und Übertragungsbytes ersetzt weder die Subsumtion im konkreten Mandat noch eine erschöpfende Rechtsprechungsrecherche.
+
+## 1.6. CI-Nachlauf
+
+Die erste GitHub-Prüfung fand eine übersehene sichtbare Versionsangabe in der Startup-README sowie einen Altvergleich der Bauwirtschafts-Manifeste mit der globalen Katalogversion. Die README nennt jetzt die tatsächliche Komponentenfassung. Der Bauwirtschaftstest vergleicht beide Manifeste mit dem jeweiligen Marketplace-Eintrag und prüft zusätzlich die registrierte Komponentenroute; die neun Tests bestehen. Der JavaScript-Marketplace-Validator besteht ebenfalls.
+
+Beim ergänzenden Kompatibilitätspaketbau wurde die Überschneidung des Plugins `vergabestelle-behoerden` sichtbar: Seine kanonische, gleichversionierte Route gehört nun zur KI-Fachrunde. Der Paketbauer berücksichtigt jetzt diese ausdrücklich registrierte, gleichversionierte Route und protokolliert sie im Herkunftsbericht. Fehlende oder unpassende Routen werden weiter abgelehnt. Die neue Regression scheiterte zuerst; nach der Korrektur bestehen alle zwölf Kompatibilitätstests und der tatsächliche Paketbau. Fachtexte und Testakten werden dadurch nicht geändert.
+
+Die ergänzenden Prüfungen zu Laufzeitprofilen, Bauvergabe, Immobilien-Rechtsabteilung, Vergaberecht-Import, App-Grenzen und portablen Starts bestehen. Die Grundstücksrecherche-Suite besteht mit 110 Tests und einer erwarteten Auslassung; zuvor fehlende lokale Bibliotheken wurden nur in der Prüfungsumgebung ergänzt.
+
+Im eingebetteten Vergaberechtsbereich wurden Downloadroute, Referenzverzeichnis und die eine ergänzte Megaprompt-Zeile synchronisiert. Die gemeinsame Havelgrund-Akte ist als ausdrücklich zugelassene, lokal vorhandene externe Testakten-README registriert. Beliebige fremde Komponentenpfade bleiben unzulässig. Die 13 Integrationstests bestehen einschließlich Gegenproben für fehlende oder nicht deklarierte Ziele.
