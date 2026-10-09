@@ -1,6 +1,6 @@
 # patentrecht
 
-**61 Skills** · Stand `v445.33.1`
+**61 Skills** · Stand `v445.35.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../patentrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

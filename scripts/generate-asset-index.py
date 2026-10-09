@@ -11,7 +11,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
-from release_routing import RELEASE_BASE, case_asset_url, companion_cases, companion_tag, plugin_asset_url
+from release_routing import RELEASE_BASE, case_asset_url, companion_case_groups, companion_cases, companion_tag, plugin_asset_url
 
 from prompt_profiles import enabled, formats
 from urllib.parse import quote
@@ -53,11 +53,13 @@ def companion_section(version: str) -> list[str]:
     slugs = companion_cases()
     if not slugs:
         return []
-    tag = companion_tag(version)
+    tags = [companion_tag(version, part) for part, _ in enumerate(companion_case_groups(slugs), 1)]
+    release_links = ", ".join(f"[`{tag}`]({RELEASE_BASE}/tag/{tag})" for tag in tags)
     lines = [
         "## Akten-Begleitrelease",
         "",
-        f"Die Akten-ZIPs liegen grundsätzlich im versionsgleichen [Begleitrelease `{tag}`]({RELEASE_BASE}/tag/{tag}). "
+        f"Die Akten-ZIPs liegen grundsätzlich in den versionsgleichen Begleitreleases {release_links}. "
+        "Je Teil werden höchstens 499 Akten mit beiden ZIP-Varianten und einer eigenen Prüfsummenliste veröffentlicht. "
         "Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. "
         "Ein ausdrücklich verlinktes Komponentenrelease kann eine neue Akte bereits vor dem nächsten vollständigen Release bereitstellen. Maßgeblich ist der jeweilige Downloadlink.",
         "",
@@ -72,7 +74,7 @@ def companion_section(version: str) -> list[str]:
         )
     lines.extend([
         "",
-        f"[SHA-256-Prüfsummen des Begleitreleases]({RELEASE_BASE}/download/{tag}/checksums-sha256.txt). "
+        "Prüfsummen: " + ", ".join(f"[SHA-256 `{tag}`]({RELEASE_BASE}/download/{tag}/checksums-sha256.txt)" for tag in tags) + ". "
         "Jede Prüfsummenliste gilt ausschließlich für die Dateien ihres eigenen Releases.",
         "",
     ])
@@ -94,14 +96,14 @@ def main() -> int:
         "",
         "## Sammel-Assets",
         "",
-        "Die [Rechtsabteilung Forderungsmanagement Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) hat einen eigenen vollständigen Projektbestand mit 50 Fachskills, neun beA-Skills, zwei Prompts und zehn Akten. Sie ist in den älteren Sammel-Assets noch nicht enthalten; die Projektübersicht führt zu allen Einzeldateien und der Vollkopie.",
+        "Die allgemeinen Pakete ab v445.35.3 enthalten den aktuellen Marketplace-Stand. Bei der [Rechtsabteilung Forderungsmanagement Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) ist das installierbare Rollen-Plugin zusätzlich im Plugin-Sammelpaket enthalten. Der gesonderte Projektbestand mit seinen zusätzlichen Akten und der Vollkopie bleibt über die Projektübersicht zugänglich.",
         "",
-        "Zusätzliche Komponenten: Die [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) veröffentlicht ihre drei Rollenpakete, Prompts und sieben Akten separat. Die folgenden allgemeinen Sammelarchive stammen aus dem letzten Gesamtrelease und enthalten diese Erweiterung noch nicht. Die Plugin-Einzelzeilen unten verweisen bereits auf die aktuellen Komponentendownloads.",
+        "Die drei Rollen-Plugins der [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) gehören zum Plugin-Sammelpaket. Die sieben gesondert verwalteten Akten und die Projektkopie bleiben über das Komponentenrelease erreichbar. Die Plugin-Einzelzeilen unten behalten ihre ausdrücklich zugeordneten Komponentendownloads.",
         "",
-        f"[Betreuungsrecht 445.33.3](./betreuungsrecht/README.md) ergänzt den Unterlagen-Auswerter, eine [eigenständige Unterlagen-Werkstatt]({DOWNLOAD_BASE}betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), eine [Excel-Vorlage](./betreuungsrecht/templates/unterlagen-abrechnung.xlsx) und die Dreijahresakte Adelheid Pfister. Auch diese Erweiterung wird als eigenes Komponentenrelease veröffentlicht und ist noch nicht in den älteren Sammelarchiven enthalten.",
-        "[Gesellschafterstreit 445.34.2](./gesellschafterstreit/README.md) erweitert die Berliner Testakte um eine ausführliche Klage mit den Anlagen K1–K9 und einen gesonderten Vergleichsnachtrag mit Vertragsentwurf und E-Mails. Die Downloads stehen im eigenen Komponentenrelease; ältere Sammelarchive bleiben unverändert.",
-        "[Geldwäschebeauftragter 445.34.0](./geldwaeschebeauftragter/README.md) ergänzt elf Skills, drei eigenständige Prompts und drei Akten für Unternehmen, Kanzlei und Notariat. Das eigene Komponentenrelease ist noch nicht in den älteren Sammelarchiven enthalten.",
-        "[KI-Verordnung 445.35.2](./ki-vo-ai-act-pruefer/README.md) aktualisiert den Hauptprüfer und vier Spezialwege für verbotene Praktiken, Hochrisiko, Register/Meldungen und Konformität. Fünf weitere vollständige Fallakten, neun vorhandene Fälle und 80 fachlich vertiefte Plugins werden im eigenen Komponentenrelease veröffentlicht; die älteren Sammelarchive enthalten diese Fassung noch nicht.",
+        f"[Betreuungsrecht 445.33.3](./betreuungsrecht/README.md) ergänzt den Unterlagen-Auswerter, eine [eigenständige Unterlagen-Werkstatt]({DOWNLOAD_BASE}betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), eine [Excel-Vorlage](./betreuungsrecht/templates/unterlagen-abrechnung.xlsx) und die Dreijahresakte Adelheid Pfister. Plugin und zentrale Akte sind ab v445.35.3 zusätzlich in den Sammelarchiven enthalten; die Werkstatt bleibt ein eigenständiger Download.",
+        "[Gesellschafterstreit 445.34.2](./gesellschafterstreit/README.md) erweitert die Berliner Testakte um eine ausführliche Klage mit den Anlagen K1–K9 und einen Vergleichsnachtrag mit Vertragsentwurf und E-Mails. Plugin und Akten sind ab v445.35.3 auch in den allgemeinen Paketen enthalten.",
+        "[Geldwäschebeauftragter 445.34.0](./geldwaeschebeauftragter/README.md) ergänzt elf Skills, drei eigenständige Prompts und drei zentrale Akten für Unternehmen, Kanzlei und Notariat. Plugin und Akten gehören ab v445.35.3 zusätzlich zu den allgemeinen Sammelpaketen.",
+        "[KI-Verordnung 445.35.2](./ki-vo-ai-act-pruefer/README.md) aktualisiert den Hauptprüfer und vier Spezialwege für verbotene Praktiken, Hochrisiko, Register/Meldungen und Konformität. Die 80 betroffenen Plugins und die zentralen Fallakten sind ab v445.35.3 auch über die allgemeinen Sammlungen zugänglich.",
         "",
         "",
         "| Asset | Verwendung |",

@@ -288,7 +288,7 @@
     ],
     "prompt_path": "ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.md",
     "skill_path": "ki-verordnung-konformitaet/skills/konformitaetsfrage-loesen/SKILL.md",
-    "prompt_sha256": "79f19e0af8fde29f2bb8f056801db250dbf7075b2f8ab6de25523900773739d3",
+    "prompt_sha256": "c365859747b54f27bf8692b543593234fcabc1e3249577ea930a7033764f2aa0",
     "skill_sha256": "fdce8278a536067893c62d70d8aa908f6c6d599e6d5112ec82abb6e0a73e44a7"
   },
   "prompt_workflow_review": {

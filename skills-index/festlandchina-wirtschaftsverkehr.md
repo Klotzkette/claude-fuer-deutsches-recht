@@ -1,6 +1,6 @@
 # festlandchina-wirtschaftsverkehr
 
-**199 Skills** · Stand `v445.33.1`
+**199 Skills** · Stand `v445.35.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../festlandchina-wirtschaftsverkehr/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

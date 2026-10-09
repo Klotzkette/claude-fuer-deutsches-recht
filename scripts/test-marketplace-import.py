@@ -114,6 +114,102 @@ class CodexManifestAbgleich(unittest.TestCase):
         self.assertEqual(result.returncode, 1)
         self.assertIn('.codex-plugin/plugin.json: Version', result.stderr)
 
+    def bundle_nachweis(self):
+        marketplace_path = self.root / '.claude-plugin/marketplace.json'
+        marketplace = json.loads(marketplace_path.read_text())
+        marketplace['version'] = '9.0.0'
+        self.schreiben(marketplace_path, json.dumps(marketplace))
+        asset = SLUG + '.zip'
+        tag = 'fachbundle-v1.2.7'
+        digest = 'a' * 64
+        config_path = self.root / 'scripts/scoped-release-package-versions.json'
+        evidence_path = self.root / 'quality/fachbundle/pakete.json'
+        config = {'schema_version': 1, 'assets': {asset: {
+            'tag': tag, 'version': VERSION, 'sha256': digest,
+            'evidence': evidence_path.relative_to(self.root).as_posix()}}}
+        evidence = {'version': VERSION, 'release': tag,
+                    'plugins': [{'name': SLUG, 'skills': 1}], 'assets': {asset: digest}}
+        self.schreiben(self.root / 'scripts/scoped-release-assets.json',
+                       json.dumps({'schema_version': 1, 'assets': {asset: tag}}))
+        self.schreiben(config_path, json.dumps(config))
+        self.schreiben(evidence_path, json.dumps(evidence))
+        return config_path, config, evidence_path, evidence
+
+    def test_belegte_bundle_version_erlaubt_nur_registrierte_paketversion(self):
+        config_path, config, evidence_path, evidence = self.bundle_nachweis()
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        # Ein in sich stimmiger Nachweis für eine andere Paketversion genügt nicht.
+        config['assets'][SLUG + '.zip']['version'] = '1.2.2'
+        evidence['version'] = '1.2.2'
+        self.schreiben(config_path, json.dumps(config))
+        self.schreiben(evidence_path, json.dumps(evidence))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn(f'Marketplace:{SLUG}: Version', result.stderr)
+        self.bundle_nachweis()
+        # Auch mit Nachweis müssen die lokalen Manifeste übereinstimmen.
+        self.schreiben(self.codex, json.dumps({'name': SLUG, 'version': '1.2.7'}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('.codex-plugin/plugin.json: Version', result.stderr)
+
+    def test_bundle_nachweis_abweichungen_bleiben_fehler(self):
+        for field, value in [('tag', 'anderes-bundle-v1.2.7'), ('version', '1.2.2'),
+                             ('sha256', 'b' * 64), ('sha256', 'kein-hash')]:
+            with self.subTest(registrierung=field, wert=value):
+                config_path, config, _, _ = self.bundle_nachweis()
+                config['assets'][SLUG + '.zip'][field] = value
+                self.schreiben(config_path, json.dumps(config))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        for field, value in [('version', '1.2.2'), ('release', 'anderes-bundle-v1.2.7'),
+                             ('assets', {SLUG + '.zip': 'b' * 64}),
+                             ('assets', {'anderes-plugin.zip': 'a' * 64}),
+                             ('plugins', [{'name': 'anderes-plugin'}]), ('plugins', None)]:
+            with self.subTest(nachweis=field, wert=value):
+                _, _, evidence_path, evidence = self.bundle_nachweis()
+                evidence[field] = value
+                self.schreiben(evidence_path, json.dumps(evidence))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        config_path, config, _, _ = self.bundle_nachweis()
+        config['assets']['anderes-plugin.zip'] = config['assets'].pop(SLUG + '.zip')
+        self.schreiben(config_path, json.dumps(config))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        config_path, config, _, _ = self.bundle_nachweis()
+        self.schreiben(self.root / 'scripts/scoped-release-assets.json', json.dumps({
+            'schema_version': 1, 'assets': {SLUG + '.zip': 'anderes-bundle-v1.2.7'}}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+
+    def test_bundle_registrierung_und_nachweispfad_muessen_gueltig_sein(self):
+        for value in [None, [], {'schema_version': 2, 'assets': {}},
+                      {'schema_version': 1, 'assets': []}]:
+            with self.subTest(schema=value):
+                config_path, _, _, _ = self.bundle_nachweis()
+                self.schreiben(config_path, json.dumps(value))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        for evidence in ['quality/fachbundle/../fachbundle/pakete.json',
+                         'quality/./fachbundle/pakete.json', 'quality//fachbundle/pakete.json',
+                         'scripts/../quality/fachbundle/pakete.json',
+                         '/quality/fachbundle/pakete.json', 'quality\\fachbundle\\pakete.json',
+                         'quality/fachbundle/fehlt.json']:
+            with self.subTest(pfad=evidence):
+                config_path, config, _, _ = self.bundle_nachweis()
+                config['assets'][SLUG + '.zip']['evidence'] = evidence
+                self.schreiben(config_path, json.dumps(config))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+        config_path, config, evidence_path, evidence = self.bundle_nachweis()
+        self.schreiben(self.root / 'anderer-nachweis.json', json.dumps(evidence))
+        evidence_path.unlink()
+        evidence_path.symlink_to(self.root / 'anderer-nachweis.json')
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)

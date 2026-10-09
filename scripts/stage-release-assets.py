@@ -13,8 +13,8 @@ from pathlib import Path
 
 from release_asset_common import release_assets, write_checksums
 from release_routing import (
-    CONFIG, ROOT, check_asset_limit, companion_asset_names, companion_cases,
-    companion_tag, marketplace_version,
+    CONFIG, ROOT, check_asset_limit, companion_asset_names, companion_case_groups,
+    companion_cases, companion_stage, companion_tag, marketplace_version,
 )
 
 
@@ -38,6 +38,7 @@ def stage_assets(dist: Path, staging: Path, slugs: tuple[str, ...]) -> dict[str,
     if staging.exists():
         raise ValueError(f"Staging must be a new directory: {staging}")
     assets = {path.name: path for path in release_assets(dist, include_checksums=False)}
+    case_groups = companion_case_groups(slugs)
     companion = companion_asset_names(slugs)
     missing = companion - assets.keys()
     if missing:
@@ -45,8 +46,8 @@ def stage_assets(dist: Path, staging: Path, slugs: tuple[str, ...]) -> dict[str,
     groups = {"main": set(assets) - companion}
     if not groups["main"]:
         raise ValueError("No main release assets")
-    if companion:
-        groups["companion"] = companion
+    for part, cases in enumerate(case_groups, start=1):
+        groups[companion_stage(part)] = companion_asset_names(cases)
     for names in groups.values():
         check_asset_limit(names | {"checksums-sha256.txt"})
     if companion:
@@ -76,9 +77,13 @@ def main() -> int:
     parser.add_argument("--root", type=Path, default=ROOT)
     args = parser.parse_args()
     slugs = companion_cases(args.config, args.root)
-    tag = companion_tag(marketplace_version(args.root)) if slugs else ""
+    tags = {
+        companion_stage(part): companion_tag(marketplace_version(args.root), part)
+        for part, _ in enumerate(companion_case_groups(slugs), start=1)
+    }
     counts = stage_assets(args.dist, args.staging, slugs)
-    print(json.dumps({"assets": counts, "companion_tag": tag}, sort_keys=True))
+    print(json.dumps({"assets": counts, "companion_tag": tags.get("companion", ""),
+                      "companion_tags": tags}, sort_keys=True))
     return 0
 
 

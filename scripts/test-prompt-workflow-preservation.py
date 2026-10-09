@@ -6,6 +6,7 @@ Alle Schreibversuche erfolgen in temporären Verzeichnissen.
 """
 
 import importlib.util
+import hashlib
 import io
 import json
 from contextlib import redirect_stdout
@@ -18,7 +19,7 @@ import unittest
 from unittest.mock import patch
 
 import quality_lab as lab
-from themen_profile import PROFILE_BY_KEY
+from themen_profile import PROFILE_BY_KEY, profile_for
 
 
 SCRIPTS = Path(__file__).resolve().parent
@@ -36,6 +37,56 @@ G = module("workflow_generator", "generate-werkstatt-und-schnellstart-prompts.py
 R = module("workflow_refiner", "refine-speed-and-elegance.py")
 A = module("workflow_routing_audit", "audit-prompt-profile-routing.py")
 S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
+
+
+class ReviewedPromptContextTests(unittest.TestCase):
+    def test_existing_technical_contexts_are_bound_to_exact_paragraph_and_file(self):
+        for relative, reviewed in A.REVIEWED_BRAND_PARAGRAPHS.items():
+            text = (SCRIPTS.parent / relative).read_text(encoding="utf-8")
+            paragraphs = A.re.split(r"\n\s*\n", text)
+            branded = [p for p in paragraphs if any(brand in p for brand in A.PROMPT_BRANDS)]
+            observed = {hashlib.sha256(" ".join(p.split()).encode("utf-8")).hexdigest() for p in branded}
+            self.assertEqual(set(reviewed), observed, relative)
+            self.assertTrue(all(reviewed.values()))
+            self.assertEqual(A.prompt_anchor_problems(text, relative), [], relative)
+            for paragraph in branded:
+                with self.subTest(file=relative, paragraph=paragraph[:80]):
+                    self.assertTrue(A.prompt_anchor_problems(paragraph, "anderes-plugin/werkstatt.md"))
+                    self.assertTrue(A.prompt_anchor_problems(paragraph + " Claude ist die beste Wahl.", relative))
+                    self.assertEqual(A.prompt_anchor_problems(paragraph.replace(" ", "\n"), relative), [])
+
+    def test_generic_branding_remains_rejected_even_in_reviewed_file(self):
+        relative = next(iter(A.REVIEWED_BRAND_PARAGRAPHS))
+        for brand in A.PROMPT_BRANDS:
+            with self.subTest(brand=brand):
+                self.assertTrue(A.prompt_anchor_problems(f"Du bist der beste {brand}-Assistent.", relative))
+        text = (SCRIPTS.parent / relative).read_text(encoding="utf-8")
+        self.assertTrue(A.prompt_anchor_problems(text + "\n\nNutze nur Claude.\n", relative))
+
+    def test_reviewed_brand_context_never_exempts_wrong_legal_anchors(self):
+        relative = "fachgebiet/werkstatt.md"
+        text = "Claude: " + A.GLOBAL_PROMPT_FORBIDDEN[0]
+        digest = hashlib.sha256(text.encode("utf-8")).hexdigest()
+        with patch.dict(A.REVIEWED_BRAND_PARAGRAPHS, {relative: {digest: "Technischer Kontext"}}):
+            problems = A.prompt_anchor_problems(text, relative)
+        self.assertEqual(len(problems), 1)
+        self.assertIn(A.GLOBAL_PROMPT_FORBIDDEN[0], problems[0])
+
+    def test_published_special_workshop_is_audited_without_allowing_arbitrary_extras(self):
+        directory = SCRIPTS.parent / "betreuungsrecht"
+        expected = A.expected_prompt_files("betreuungsrecht", directory)
+        self.assertIn(directory / "betreuungsrecht-unterlagen-werkstatt.md", expected.values())
+        self.assertNotIn(directory / "betreuungsrecht-beliebig-werkstatt.md", expected.values())
+        self.assertEqual(A.individual_workshop_structure_problems(expected["werkstatt-unterlagen"].read_text()), [])
+
+    def test_new_curated_plugins_have_specific_subject_routes(self):
+        for slug, key in {
+            "kanzlei-website-redaktion": "kanzleibetrieb",
+            "ki-verordnung-konformitaet": "technikregulierung",
+            "ki-verordnung-verbotene-praktiken": "technikregulierung",
+        }.items():
+            with self.subTest(plugin=slug):
+                self.assertEqual(profile_for(slug).key, key)
 
 
 class LosslessWorkshopTests(unittest.TestCase):

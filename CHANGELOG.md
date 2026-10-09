@@ -1,3 +1,11 @@
+# v445.35.3 – 2026-10-09
+
+Das Gesamtrelease führt den aktuellen Marketplace mit 296 Plugins und 23238 Skills sowie die seit dem letzten Gesamtrelease ergänzten Komponenten in den Sammelpaketen zusammen. Dazu gehören die Vergaberecht-Werkstatt, Krankenhaus-IT und KI, die Betreuungsrecht-Erweiterung, Geldwäschebeauftragter, KI-native Kanzlei, Gesellschafterstreit und die KI-Verordnungs-Fachrunde. Die jeweils bestehenden Komponentenreleases und ihre eigenen Versionsstände bleiben erhalten.
+
+Der Marketplace und die 202 Plugins ohne eigenes festgelegtes Komponentenrelease erhalten Version 445.35.3. Die 94 separat versionierten Plugins behalten ihre Komponentenversion. Manifeste und aktive Versionsangaben in den Übersichten werden darauf abgestimmt. Die Akten-ZIPs werden innerhalb der GitHub-Assetgrenze auf Begleitreleases verteilt; Sammelpakete und installierbare Plugins liegen im Hauptrelease.
+
+Diese Veröffentlichung bündelt den vorhandenen Fachbestand und aktualisiert Verpackung, Versionsangaben und Downloadführung. Sie stellt keine erneute rechtliche Vollprüfung sämtlicher Skills, Prompts oder Testakten dar. Bestehende Fachprüfungen und ihre Daten gelten nur für den dort dokumentierten Umfang. Der konkrete technische Prüfumfang wird mit den Release-Prüfprotokollen nachgewiesen.
+
 # gesellschafterstreit-v445.34.2 – 2026-10-09
 
 Die Berliner Testakte erhält eine ausführliche Fassung der bestehenden Klage mit den zugehörigen Anlagen K1–K9. Mandatsmail und Nachrichtenbeleg werden darauf abgestimmt. Der gesonderte Nachtrag `Vergleich_2026-10-09` ergänzt fünf Dokumente in Word und PDF, darunter einen Vertragsentwurf, sowie sechs E-Mails zur Vergleichsverhandlung.

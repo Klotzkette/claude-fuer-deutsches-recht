@@ -52,12 +52,43 @@ def marketplace_version(root: Path = ROOT) -> str:
     return validate_version(data["version"])
 
 
-def companion_tag(version: str) -> str:
-    return f"akten-v{validate_version(version)}"
+def validate_companion_part(part: int) -> int:
+    if type(part) is not int or part < 1:
+        raise ValueError(f"Invalid companion release part: {part!r}")
+    return part
+
+
+def companion_tag(version: str, part: int = 1) -> str:
+    part = validate_companion_part(part)
+    prefix = "akten" if part == 1 else f"akten-{part}"
+    return f"{prefix}-v{validate_version(version)}"
+
+
+def companion_stage(part: int) -> str:
+    part = validate_companion_part(part)
+    return "companion" if part == 1 else f"companion-{part}"
 
 
 def companion_asset_names(slugs: tuple[str, ...]) -> set[str]:
     return {f"testakte-{slug}{suffix}.zip" for slug in slugs for suffix in ("", "-einzelpdfs")}
+
+
+def companion_case_groups(slugs: tuple[str, ...]) -> tuple[tuple[str, ...], ...]:
+    """Sort cases once per release and keep each original/PDF ZIP pair together.
+
+    Each part reserves one asset for its own checksum list. The first part keeps
+    its historic tag and directory; further parts have one-based numeric suffixes.
+    """
+    if any(not isinstance(slug, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", slug)
+           for slug in slugs) or len(set(slugs)) != len(slugs):
+        raise ValueError("Invalid or duplicate companion case slugs")
+    if len(companion_asset_names(slugs)) != 2 * len(slugs):
+        raise ValueError("Companion case ZIP filenames overlap")
+    capacity = (MAX_RELEASE_ASSETS - 1) // 2
+    if capacity < 1:
+        raise ValueError("Release asset limit cannot hold a case ZIP pair and checksums")
+    ordered = tuple(sorted(slugs))
+    return tuple(ordered[start:start + capacity] for start in range(0, len(ordered), capacity))
 
 
 def scoped_asset_url(asset: str, *, root: Path = ROOT) -> str | None:
@@ -86,6 +117,44 @@ def plugin_asset_url(slug: str, *, root: Path = ROOT) -> str:
     return scoped_asset_url(asset, root=root) or f"{RELEASE_BASE}/latest/download/{asset}"
 
 
+def verified_scoped_package_version(asset: str, tag: str, version: str, *, root: Path = ROOT) -> bool:
+    """Accept a differing bundle tag only with an exact, recorded package proof."""
+    path = root / "scripts/scoped-release-package-versions.json"
+    if not path.exists():
+        return False
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(data, dict) or set(data) != {"schema_version", "assets"} or data["schema_version"] != 1 \
+            or not isinstance(data["assets"], dict):
+        raise ValueError(f"Unsupported scoped package version configuration: {path}")
+    entry = data["assets"].get(asset)
+    if entry is None:
+        return False
+    if not isinstance(entry, dict) or set(entry) != {"tag", "version", "sha256", "evidence"}:
+        raise ValueError(f"Invalid scoped package proof: {asset}")
+    if entry["tag"] != tag or entry["version"] != version:
+        return False
+    digest, evidence = entry["sha256"], entry["evidence"]
+    if not isinstance(digest, str) or not re.fullmatch(r"[0-9a-f]{64}", digest) \
+            or not isinstance(evidence, str):
+        raise ValueError(f"Invalid scoped package digest or evidence: {asset}")
+    relative = Path(evidence)
+    if relative.is_absolute() or not relative.parts or relative.parts[0] != "quality" \
+            or ".." in relative.parts or relative.as_posix() != evidence or relative.suffix != ".json" \
+            or any((root / Path(*relative.parts[:index])).is_symlink() for index in range(1, len(relative.parts) + 1)):
+        raise ValueError(f"Invalid scoped package evidence path: {evidence}")
+    try:
+        proof = json.loads((root / relative).read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        raise ValueError(f"Cannot read scoped package evidence: {evidence}") from exc
+    if not isinstance(proof, dict) or proof.get("version") != version or proof.get("release") != tag \
+            or not isinstance(proof.get("assets"), dict) or proof["assets"].get(asset) != digest \
+            or not isinstance(proof.get("plugins"), list) \
+            or not any(isinstance(plugin, dict) and plugin.get("name") == asset.removesuffix(".zip")
+                       for plugin in proof["plugins"]):
+        raise ValueError(f"Scoped package evidence does not match asset, tag, version and digest: {asset}")
+    return True
+
+
 def validate_plugin_version(plugin: dict, version: str, *, root: Path = ROOT) -> None:
     """Abweichende Paketversionen nur mit exakt zugeordnetem Komponentenrelease."""
     candidate = validate_version(plugin.get("version"))
@@ -93,8 +162,11 @@ def validate_plugin_version(plugin: dict, version: str, *, root: Path = ROOT) ->
         return
     asset = f"{plugin['name']}.zip"
     url = scoped_asset_url(asset, root=root)
-    if not url or not url.endswith(f"-v{candidate}/{asset}"):
-        raise ValueError(f"{plugin['name']}: Version {candidate} ohne passendes Komponentenrelease")
+    if url:
+        tag = url.removeprefix(f"{RELEASE_BASE}/download/").split("/", 1)[0]
+        if tag.endswith(f"-v{candidate}") or verified_scoped_package_version(asset, tag, candidate, root=root):
+            return
+    raise ValueError(f"{plugin['name']}: Version {candidate} ohne passendes Komponentenrelease")
 
 
 def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
@@ -105,8 +177,10 @@ def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
     if pin:
         return pin
     route = "latest/download"
-    if slug in companion_cases(config, root):
-        route = f"download/{companion_tag(version if version is not None else marketplace_version(root))}"
+    for part, slugs in enumerate(companion_case_groups(companion_cases(config, root)), start=1):
+        if slug in slugs:
+            route = f"download/{companion_tag(version if version is not None else marketplace_version(root), part)}"
+            break
     return f"{RELEASE_BASE}/{route}/testakte-{slug}{suffix}.zip"
 
 

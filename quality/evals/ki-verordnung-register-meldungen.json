@@ -274,7 +274,7 @@
     ],
     "prompt_path": "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md",
     "skill_path": "ki-verordnung-register-meldungen/skills/register-und-meldung-loesen/SKILL.md",
-    "prompt_sha256": "0fa46c20cd3ae2a7cee780130b7d305c650b7a87223e06c75fc0bb12550af9ff",
+    "prompt_sha256": "41a5e4dc2205593c7b2e978e3a177f96781feae7af770c666f527da7ab73b9f7",
     "skill_sha256": "f0733336dae1a836e93a919750533add2ae44554c603d18e0e65a3903ad61809"
   },
   "prompt_workflow_review": {

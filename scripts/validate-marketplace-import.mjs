@@ -99,13 +99,79 @@ if (!scoped || scoped.schema_version !== 1 || !scoped.assets || typeof scoped.as
   errors.push('scripts/scoped-release-assets.json: ungültige Komponentenregistrierung');
 }
 
+function isRecord(value) {
+  return value !== null && typeof value === 'object' && !Array.isArray(value);
+}
+
+// Ein Bundle-Tag darf nur mit einem erhaltenen Paketnachweis von der
+// tatsächlichen Pluginversion abweichen. Eine Tag-Ausnahme allein genügt nicht.
+function verifiedPackageVersions() {
+  const configPath = path.join(root, 'scripts', 'scoped-release-package-versions.json');
+  const verified = new Map();
+  if (!fs.existsSync(configPath)) return verified;
+  const config = readJson(configPath);
+  if (!isRecord(config) || config.schema_version !== 1 || !isRecord(config.assets)) {
+    errors.push(`${rel(configPath)}: ungültige Paketversionsregistrierung`);
+    return verified;
+  }
+  for (const [asset, entry] of Object.entries(config.assets)) {
+    const invalid = (reason) => errors.push(`${rel(configPath)}:${asset}: ${reason}`);
+    if (!/^[a-z0-9-]+\.zip$/.test(asset) || !isRecord(entry)
+        || typeof entry.tag !== 'string' || !/^[a-z0-9][a-z0-9.-]*$/.test(entry.tag)
+        || typeof entry.version !== 'string' || !/^\d+\.\d+\.\d+$/.test(entry.version)
+        || typeof entry.sha256 !== 'string' || !/^[0-9a-f]{64}$/.test(entry.sha256)) {
+      invalid('ungültiger Paketversionsnachweis');
+      continue;
+    }
+    if (scoped?.assets?.[asset] !== entry.tag) {
+      invalid('Paketversionsnachweis passt nicht zum Komponentenpin');
+      continue;
+    }
+    const evidenceRel = entry.evidence;
+    const parts = typeof evidenceRel === 'string' ? evidenceRel.split('/') : [];
+    if (typeof evidenceRel !== 'string' || evidenceRel.includes('\\')
+        || parts.length < 2 || parts[0] !== 'quality' || !evidenceRel.endsWith('.json')
+        || parts.some(part => !part || part === '.' || part === '..')) {
+      invalid('Nachweispfad muss unverändert unter quality/ liegen');
+      continue;
+    }
+    let evidencePath = root;
+    try {
+      for (const part of parts) {
+        evidencePath = path.join(evidencePath, part);
+        if (fs.lstatSync(evidencePath).isSymbolicLink()) throw new Error('Symlink im Nachweispfad');
+      }
+      if (!fs.statSync(evidencePath).isFile()) throw new Error('Nachweis ist keine Datei');
+    } catch (error) {
+      invalid(`Nachweispfad ist nicht lesbar oder enthält einen Symlink: ${error.message}`);
+      continue;
+    }
+    const evidence = readJson(evidencePath);
+    const name = asset.slice(0, -4);
+    if (!isRecord(evidence) || evidence.version !== entry.version || evidence.release !== entry.tag
+        || !isRecord(evidence.assets) || evidence.assets[asset] !== entry.sha256
+        || !Array.isArray(evidence.plugins)
+        || !evidence.plugins.some(plugin => isRecord(plugin) && plugin.name === name)) {
+      invalid('Paketversion, Release, Assethash oder Plugin fehlt im übereinstimmenden Nachweis');
+      continue;
+    }
+    verified.set(asset, entry);
+  }
+  return verified;
+}
+
+const packageVersions = verifiedPackageVersions();
+
 function registeredVersion(entry) {
   if (entry.version === marketplace.version) return true;
-  const tag = scoped?.assets?.[`${entry.name}.zip`];
+  const asset = `${entry.name}.zip`;
+  const tag = scoped?.assets?.[asset];
+  const packageVersion = packageVersions.get(asset);
   return /^\d+\.\d+\.\d+$/.test(String(entry.version || ''))
     && typeof tag === 'string'
     && /^[a-z0-9][a-z0-9.-]*$/.test(tag)
-    && tag.endsWith(`-v${entry.version}`);
+    && (tag.endsWith(`-v${entry.version}`)
+      || (packageVersion?.tag === tag && packageVersion.version === entry.version));
 }
 
 checkDescription('.claude-plugin/marketplace.json', marketplace.description, 300);
