@@ -10,6 +10,12 @@ Die SkyFade Robotics GmbH, Werkhof 7, 12489 Berlin, besteht seit 2023. Kunigunde
 
 SkyFade entwickelt eine buchbare robotische Friseurlösung mit digitaler Terminplanung und einem Kopfmodell aus Smartphone-Aufnahmen. Der bisherige Versuchsbetrieb verwendet technische Köpfe in einem abgesperrten Innenraum. Die weitergehende Vorstellung umfasst das Erreichen einer gesicherten Andockstelle am Gebäude und später zusätzliche Pflegeleistungen. Ein Einsatz an Menschen, an Kindern oder im öffentlichen Luftraum ist mit diesem Term Sheet weder zugesagt noch freigegeben. Entsprechende technische, behördliche und versicherungsrechtliche Nachweise sind gesondert erforderlich.
 
+### 1.1 Entwicklung der Gesellschaft
+
+Die Gründer arbeiteten ab Januar 2023 in einer Projektgemeinschaft. Die notarielle Errichtung der UG folgte am 18. Mai, die Eintragung am 20. Juni 2023 mit 1.000 EUR vollständig bar eingezahltem Kapital. Im Juli überließen die Gründer bestimmte Software und Zeichnungen außerhalb der Stammeinlagen. Eine weitere Bareinzahlung von zusammen 24.000 EUR und die am 4. Oktober eingetragene Kapital- und Firmenänderung führten zur heutigen GmbH. Die Rechtsträgeridentität blieb bestehen. Die vor der Gründung geschlossenen Verträge und die damaligen Rechteüberlassungen werden trotzdem einzeln nachgewiesen.
+
+Ottilie trat im November 2023 mit 500.000 EUR Gesamtzahlung ein. ABC und DEF finanzierten im März 2025 zusammen 7.000.000 EUR. Die frühere Nummerierung der Gründeranteile wurde im November 2023 durch eine dokumentierte Teilung und Neuordnung ersetzt. Die aktuelle Nummernfolge darf nicht zusätzlich zur alten gezählt werden. Das Rechteverzeichnis muss außerdem zwischen Gründerleistungen, späteren Arbeitnehmerbeiträgen und Frieda Pixelhagens gesonderter Lizenz unterscheiden.
+
 ## 2 Bewertung und Kapital
 
 Die Verhandlungsgrundlage beträgt 25.000.000 EUR vor neuem Kapital und 35.000.000 EUR nach vollständiger Einzahlung von 10.000.000 EUR. Es handelt sich um eine Transaktionsbewertung, nicht um eine Garantie des späteren Unternehmenswerts. Ein neu zu schaffender Mitarbeiterpool ist nicht eingerechnet; dessen Umfang und Verwässerungswirkung müssen vor Abschluss zusätzlich vereinbart werden.
@@ -71,6 +77,18 @@ Bei einem Vermögensverkauf fließt der Erlös zunächst an die Gesellschaft. St
 Für eine spätere Finanzierung unter dem vereinbarten Preis soll ein breit gewichteter Durchschnitt verhandelt werden. Ein vollständiger Ratchet ist nicht vorgesehen. Berechnungsbasis, Ausnahmen, Mitarbeiterpool und rechtlich zulässige Umsetzung werden ausdrücklich festgelegt. Ein geänderter rechnerischer Preis erzeugt keine neuen GmbH-Anteile ohne die erforderlichen Maßnahmen.
 
 Vor dem ersten Vollzug wird das Rechteverzeichnis für Software, Konstruktion, Marke und Domains abgestimmt. Die Freelancer-Rechtekette und die Übertragbarkeit einzelner Komponenten sind nachzuweisen. Die Gesellschaft kann keine Rechte weitergeben, die ihr selbst nicht zustehen. Geschäftsführer- und Arbeitsverträge werden gesondert behandelt; eine Beteiligung ersetzt keinen Tätigkeitsvertrag.
+
+### 9.1 Bestehende Darlehen und offene Beteiligungsabrede
+
+Fridolin Fizzel hat am 1. Mai 2024 privat 120.000 EUR zu sechs Prozent Jahreszins ausgezahlt. Rückzahlung und Zinsen sind nach dem vorliegenden Darlehensschein am 31. März 2027 fällig. Das Dokument trägt den Ablagenamen Projektanleihe; es gibt keine ausgegebenen Inhaberpapiere. Der Gläubiger ist bislang nicht in der Gesellschafterliste enthalten. Die Vertragsformulierung zur nächsten Finanzierungsrunde, sein behaupteter zwanzigprozentiger Abschlag und die E-Mail aus März 2025 werden vor der neuen Runde miteinander abgeglichen. Die frühere Runde darf dabei nicht übergangen werden.
+
+Daneben bestehen seit 2. März 2026 vier Brückendarlehen: Kunigunde 60.000 EUR, Kilian 40.000 EUR, ABC 150.000 EUR und DEF 100.000 EUR. Sie werden mit fünf Prozent verzinst und sind vertraglich zum 31. Dezember 2026 fällig. Nur für ABC und DEF liegt die gesonderte Rang- und Durchsetzungsvereinbarung SF/RR/2026-02 vor. Sämtliche offenen Kapitalbeträge summieren sich vor Zinsen auf 470.000 EUR. Eine Rangabrede ist kein Erlass und wird nicht automatisch auf andere Darlehen erstreckt.
+
+Die derzeitige Kapitalrechnung für die neue Runde enthält keine Wandlung. Die Arbeitsmappe zeigt daneben eine ausdrücklich unverbindliche Variante für Fridolins Forderung. Ob Zinsen einbezogen werden, welcher Preis maßgeblich ist und ob überhaupt wirksam gewandelt werden kann, bleibt offen. Vor jeder Änderung sind Gläubigerzustimmung, Form, Forderungsbestand, Wert und zusätzliche Verwässerung zu klären. Eine Rückzahlung aus Investorengeldern wird nicht bereits durch dieses Term Sheet freigegeben.
+
+### 9.2 Unterlagen zum Frühjahr 2026
+
+Die Gesellschaft legt die Zahlungsenge im Februar, die Stundung der Spulenkranz-Rechnung, das Bankjournal und die Brückenverträge offen. Aus dem Ausschnitt eines Kontos wird keine Aussage über das Fehlen eines Insolvenzgrundes abgeleitet. Die Investoren sollen die tatsächlich vorhandenen vollständigen Unterlagen anfordern und deren Aussageumfang prüfen lassen. Eine neue Finanzierung ersetzt keine Prüfung früherer Vorgänge und keine wirksame Rechtebereinigung.
 
 ## 10 Zeitplan
 

@@ -16,6 +16,11 @@ DATA = ROOT / "scripts/data"
 CASE = json.loads(
     (DATA / "gesellschaftervereinbarung-akte.json").read_text(encoding="utf-8")
 )
+HISTORY = json.loads(
+    (DATA / "gesellschaftervereinbarung-vorgeschichte.json").read_text(encoding="utf-8")
+)
+for group in ("contacts", "documents", "emails", "raw"):
+    CASE[group].extend(HISTORY.get(group, []))
 W = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
 NS = {"w": W}
 
@@ -34,6 +39,7 @@ def render_docx(template, source, target):
             continue
         style = "Normal"
         for prefix, chosen in (
+            ("#### ", "Heading3"),
             ("### ", "Heading2"),
             ("## ", "Heading1"),
             ("# ", "Title"),
@@ -47,6 +53,8 @@ def render_docx(template, source, target):
         etree.SubElement(pr, f"{{{W}}}widowControl")
         if style != "Normal":
             etree.SubElement(pr, f"{{{W}}}keepNext")
+        if style == "Heading2" and block == "32.3 Vollständige Abschlussfelder":
+            etree.SubElement(pr, f"{{{W}}}pageBreakBefore")
         run = etree.SubElement(p, f"{{{W}}}r")
         etree.SubElement(run, f"{{{W}}}t").text = block
     body.append(section)
@@ -56,18 +64,27 @@ def render_docx(template, source, target):
     styles = etree.fromstring(parts["word/styles.xml"])
     for identifier, size in (
         ("Normal", 22),
-        ("Title", 32),
-        ("Heading1", 26),
-        ("Heading2", 23),
+        ("Title", 22),
+        ("Heading1", 22),
+        ("Heading2", 22),
+        ("Heading3", 22),
+        ("Header", 22),
+        ("Footer", 22),
     ):
         matches = styles.xpath(f'./w:style[@w:styleId="{identifier}"]', namespaces=NS)
-        if not matches:
-            continue
-        s = matches[0]
+        if matches:
+            s = matches[0]
+        else:
+            s = etree.SubElement(styles, f"{{{W}}}style")
+            s.set(f"{{{W}}}type", "paragraph")
+            s.set(f"{{{W}}}styleId", identifier)
+            etree.SubElement(s, f"{{{W}}}name").set(f"{{{W}}}val", identifier)
         for element in list(s):
             if element.tag in (f"{{{W}}}pPr", f"{{{W}}}rPr"):
                 s.remove(element)
         pp = etree.SubElement(s, f"{{{W}}}pPr")
+        if identifier.startswith("Heading"):
+            etree.SubElement(pp, f"{{{W}}}outlineLvl").set(f"{{{W}}}val", str(int(identifier[-1]) - 1))
         spacing = etree.SubElement(pp, f"{{{W}}}spacing")
         spacing.set(f"{{{W}}}after", "150")
         spacing.set(f"{{{W}}}line", "264")
@@ -87,8 +104,22 @@ def render_docx(template, source, target):
         styles, xml_declaration=True, encoding="UTF-8", standalone=True
     )
     for name in list(parts):
-        if name.startswith("word/footer") and name.endswith(".xml"):
-            parts[name] = parts[name].replace(b" (geplant)", b"")
+        if name.startswith(("word/header", "word/footer")) and name.endswith(".xml"):
+            part = etree.fromstring(parts[name].replace(b" (geplant)", b""))
+            for run in part.findall(".//w:r", NS):
+                properties = run.find("w:rPr", NS)
+                if properties is None:
+                    properties = etree.Element(f"{{{W}}}rPr")
+                    run.insert(0, properties)
+                for tag in ("rFonts", "sz", "szCs"):
+                    for old in properties.findall(f"w:{tag}", NS):
+                        properties.remove(old)
+                fonts = etree.SubElement(properties, f"{{{W}}}rFonts")
+                for attr in ("ascii", "hAnsi", "cs", "eastAsia"):
+                    fonts.set(f"{{{W}}}{attr}", "Times New Roman")
+                for tag in ("sz", "szCs"):
+                    etree.SubElement(properties, f"{{{W}}}{tag}").set(f"{{{W}}}val", "22")
+            parts[name] = etree.tostring(part, xml_declaration=True, encoding="UTF-8", standalone=True)
     core = etree.fromstring(parts["docProps/core.xml"])
     for node in core:
         if etree.QName(node).localname in {"creator", "lastModifiedBy"}:
@@ -146,7 +177,8 @@ def build(template_dir):
     paths.append("22_Kapital_und_Finanzierungsplan.xlsx")
     table = "\n".join(f"| [{p}]({p}) | {Path(p).suffix[1:].upper()} |" for p in paths)
     slug = CASE["slug"]
-    release = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0"
+    release = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0"
+    counts = {ext: sum(Path(p).suffix == ext for p in paths) for ext in (".docx", ".pdf", ".eml", ".csv", ".txt", ".xlsx")}
     (directory / "README.md").write_text(
         f"""# Drohnenfriseur Berlin – Gesellschaftervereinbarung
 
@@ -156,7 +188,9 @@ def build(template_dir):
 
 Die Berliner SkyFade Robotics GmbH verhandelt eine Finanzierung über zehn Millionen Euro. Zwei Gründer, ein Business Angel, vier Investoren und die Gesellschaft stimmen Kapital, Mitspracherechte, Technologie und einen späteren Verkauf ab. Die Korrespondenz enthält verschiedene Verhandlungspositionen. Es gibt keine Musterlösung.
 
-Die Akte umfasst 22 Originaldateien: zwei bearbeitbare Word-Dokumente, acht PDF-Unterlagen, sieben E-Mails mit echten Dateianhängen, zwei CSV-Dateien, zwei Textdateien und eine Excel-Arbeitsmappe. Der Vertragsentwurf ist eine fallbezogene Ausfüllfassung mit ausformulierten Klauseln, keine beurkundete oder unterschriftsreife Endfassung. Anlagen, Vertretung und offene Entscheidungen müssen noch ergänzt werden.
+Die Akte umfasst {len(paths)} Originaldateien: {counts['.docx']} bearbeitbare Word-Dokumente, {counts['.pdf']} PDF-Unterlagen, {counts['.eml']} E-Mails mit echten Dateianhängen, {counts['.csv']} CSV-Dateien, {counts['.txt']} Textdateien und eine Excel-Arbeitsmappe. Die Vorgeschichte reicht von der Vorgründungsabrede über die UG, Softwareüberlassungen und Kapitalerhöhungen bis zur Frühfinanzierung, Gesellschafterdarlehen und einer Liquiditätsenge. Ein privater Darlehensgeber macht eine bislang nicht vollzogene Wandlungsabrede geltend.
+
+Der ausführliche Vertragsentwurf ist eine fallbezogene Ausfüllfassung in Times New Roman 11 mit dezimaler Gliederung, vollständig formulierten Klauseln und ausfüllbaren Vertragsanlagen. Er ist keine beurkundete oder unterschriftsreife Endfassung. Das Term Sheet enthält Verhandlungspositionen; Anlagen, Vertretung und offene Entscheidungen müssen noch ergänzt werden. Die Excel-Arbeitsmappe unterscheidet historischen Bestand, geplante Runde, Darlehenszinsen und eine gesonderte Wandlungsrechnung. Eine Rechenvariante ist keine bereits vereinbarte Beteiligung.
 
 Alle Personen, Unternehmen, Anschriften und Vorgänge sind erfunden. Kontaktadressen verwenden reservierte Beispieldomains. Keine Kontaktdaten zum tatsächlichen Versand verwenden. Der technische Fall enthält keine Betriebsfreigabe für einen Einsatz an Menschen.
 

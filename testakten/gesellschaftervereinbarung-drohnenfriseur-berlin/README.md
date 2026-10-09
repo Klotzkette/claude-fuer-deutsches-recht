@@ -6,7 +6,9 @@
 
 Die Berliner SkyFade Robotics GmbH verhandelt eine Finanzierung über zehn Millionen Euro. Zwei Gründer, ein Business Angel, vier Investoren und die Gesellschaft stimmen Kapital, Mitspracherechte, Technologie und einen späteren Verkauf ab. Die Korrespondenz enthält verschiedene Verhandlungspositionen. Es gibt keine Musterlösung.
 
-Die Akte umfasst 22 Originaldateien: zwei bearbeitbare Word-Dokumente, acht PDF-Unterlagen, sieben E-Mails mit echten Dateianhängen, zwei CSV-Dateien, zwei Textdateien und eine Excel-Arbeitsmappe. Der Vertragsentwurf ist eine fallbezogene Ausfüllfassung mit ausformulierten Klauseln, keine beurkundete oder unterschriftsreife Endfassung. Anlagen, Vertretung und offene Entscheidungen müssen noch ergänzt werden.
+Die Akte umfasst 46 Originaldateien: 2 bearbeitbare Word-Dokumente, 23 PDF-Unterlagen, 12 E-Mails mit echten Dateianhängen, 5 CSV-Dateien, 3 Textdateien und eine Excel-Arbeitsmappe. Die Vorgeschichte reicht von der Vorgründungsabrede über die UG, Softwareüberlassungen und Kapitalerhöhungen bis zur Frühfinanzierung, Gesellschafterdarlehen und einer Liquiditätsenge. Ein privater Darlehensgeber macht eine bislang nicht vollzogene Wandlungsabrede geltend.
+
+Der ausführliche Vertragsentwurf ist eine fallbezogene Ausfüllfassung in Times New Roman 11 mit dezimaler Gliederung, vollständig formulierten Klauseln und ausfüllbaren Vertragsanlagen. Er ist keine beurkundete oder unterschriftsreife Endfassung. Das Term Sheet enthält Verhandlungspositionen; Anlagen, Vertretung und offene Entscheidungen müssen noch ergänzt werden. Die Excel-Arbeitsmappe unterscheidet historischen Bestand, geplante Runde, Darlehenszinsen und eine gesonderte Wandlungsrechnung. Eine Rechenvariante ist keine bereits vereinbarte Beteiligung.
 
 Alle Personen, Unternehmen, Anschriften und Vorgänge sind erfunden. Kontaktadressen verwenden reservierte Beispieldomains. Keine Kontaktdaten zum tatsächlichen Versand verwenden. Der technische Fall enthält keine Betriebsfreigabe für einen Einsatz an Menschen.
 
@@ -22,7 +24,7 @@ Zugeordnetes Plugin: [Gesellschaftervereinbarung](../../gesellschaftervereinbaru
 
 | Gesamt-PDF | Einzel-PDF-ZIP | Akten-ZIP mit Originalformaten |
 | --- | --- | --- |
-| [Akte am Stück](gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [Einzelne PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) | [Word, Excel, PDF, E-Mail, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.0.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
+| [Akte am Stück](gesamt-pdf/gesellschaftervereinbarung-drohnenfriseur-berlin_gesamt.pdf) | [Einzelne PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin-einzelpdfs.zip) | [Word, Excel, PDF, E-Mail, CSV und Text](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschaftervereinbarung-v1.1.0/testakte-gesellschaftervereinbarung-drohnenfriseur-berlin.zip) |
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -46,6 +48,21 @@ Beide ZIPs sind flach und enthalten die zweisprachige README.txt. Das Originalfo
 | [08_Deckungsanfrage_Antwort.pdf](08_Deckungsanfrage_Antwort.pdf) | PDF |
 | [09_Standortangebot_Pilot.pdf](09_Standortangebot_Pilot.pdf) | PDF |
 | [10_Gruenderrunde_Protokoll.pdf](10_Gruenderrunde_Protokoll.pdf) | PDF |
+| [23_Gruenderabrede_Januar_2023.pdf](23_Gruenderabrede_Januar_2023.pdf) | PDF |
+| [24_UG_Gruendung_und_Registermitteilung.pdf](24_UG_Gruendung_und_Registermitteilung.pdf) | PDF |
+| [25_Vertragsuebernahme_Werkstatt.pdf](25_Vertragsuebernahme_Werkstatt.pdf) | PDF |
+| [26_Software_und_Zeichnungen_Einbringung.pdf](26_Software_und_Zeichnungen_Einbringung.pdf) | PDF |
+| [27_Kapitalerhoehung_und_Firma_GmbH.pdf](27_Kapitalerhoehung_und_Firma_GmbH.pdf) | PDF |
+| [28_Angel_Runde_und_Nummernfolge.pdf](28_Angel_Runde_und_Nummernfolge.pdf) | PDF |
+| [29_Darlehensschein_Fridolin_Fizzel.pdf](29_Darlehensschein_Fridolin_Fizzel.pdf) | PDF |
+| [30_Finanzierungsrunde_Maerz_2025.pdf](30_Finanzierungsrunde_Maerz_2025.pdf) | PDF |
+| [31_Brueckendarlehen_Gesellschafter.pdf](31_Brueckendarlehen_Gesellschafter.pdf) | PDF |
+| [32_Rangvereinbarung_ABC_DEF.pdf](32_Rangvereinbarung_ABC_DEF.pdf) | PDF |
+| [33_Stundung_Spulenkranz.pdf](33_Stundung_Spulenkranz.pdf) | PDF |
+| [34_Liquiditaetsbesprechung_Februar.pdf](34_Liquiditaetsbesprechung_Februar.pdf) | PDF |
+| [35_Zahlungsjournal_Februar_Maerz.pdf](35_Zahlungsjournal_Februar_Maerz.pdf) | PDF |
+| [36_Fridolin_Forderungsmitteilung.pdf](36_Fridolin_Forderungsmitteilung.pdf) | PDF |
+| [37_Softwareentwicklung_Arbeitsstand_2026.pdf](37_Softwareentwicklung_Arbeitsstand_2026.pdf) | PDF |
 | [11_Mandatsauftrag.eml](11_Mandatsauftrag.eml) | EML |
 | [12_Investor_Rueckfragen.eml](12_Investor_Rueckfragen.eml) | EML |
 | [13_JKL_Erloesmodell.eml](13_JKL_Erloesmodell.eml) | EML |
@@ -53,10 +70,19 @@ Beide ZIPs sind flach und enthalten die zweisprachige README.txt. Das Originalfo
 | [15_Pixelhagen_Nachtrag.eml](15_Pixelhagen_Nachtrag.eml) | EML |
 | [16_Versicherungsvermittlung.eml](16_Versicherungsvermittlung.eml) | EML |
 | [17_Business_Angel.eml](17_Business_Angel.eml) | EML |
+| [38_Notariat_UG_in_Gruendung.eml](38_Notariat_UG_in_Gruendung.eml) | EML |
+| [39_Fridolin_Runde_2025.eml](39_Fridolin_Runde_2025.eml) | EML |
+| [40_Stundung_Bestaetigung.eml](40_Stundung_Bestaetigung.eml) | EML |
+| [41_ABC_Bruecke_und_Rang.eml](41_ABC_Bruecke_und_Rang.eml) | EML |
+| [42_Historie_an_Kanzlei.eml](42_Historie_an_Kanzlei.eml) | EML |
 | [18_Gruenderchat.txt](18_Gruenderchat.txt) | TXT |
 | [19_Historische_Einzahlungen.csv](19_Historische_Einzahlungen.csv) | CSV |
 | [20_Rechteverzeichnis.csv](20_Rechteverzeichnis.csv) | CSV |
 | [21_Terminnotiz.txt](21_Terminnotiz.txt) | TXT |
+| [43_Darlehensbestand.csv](43_Darlehensbestand.csv) | CSV |
+| [44_Bankjournal_Fruehjahr.csv](44_Bankjournal_Fruehjahr.csv) | CSV |
+| [45_Kapitalhistorie.csv](45_Kapitalhistorie.csv) | CSV |
+| [46_Telefonnotiz_Fridolin.txt](46_Telefonnotiz_Fridolin.txt) | TXT |
 | [22_Kapital_und_Finanzierungsplan.xlsx](22_Kapital_und_Finanzierungsplan.xlsx) | XLSX |
 
 ## 4 English Overview

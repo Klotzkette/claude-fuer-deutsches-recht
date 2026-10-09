@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag gesellschaftervereinbarung-v1.0.0
+        description: Komponententag gesellschaftervereinbarung-v1.1.0
         required: true
-        default: gesellschaftervereinbarung-v1.0.0
+        default: gesellschaftervereinbarung-v1.1.0
 
 permissions:
   contents: write
@@ -65,7 +65,7 @@ jobs:
             exit 1
           fi
           RELEASE_SHA=$(git rev-parse HEAD)
-          gh release create "$TAG" --target "$RELEASE_SHA" --draft --title "Gesellschaftervereinbarung 1.0.0" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release create "$TAG" --target "$RELEASE_SHA" --draft --title "Gesellschaftervereinbarung 1.1.0" --notes-file "docs/releases/$TAG.md" --latest=false
           gh release upload "$TAG" "$RUNNER_TEMP"/gesellschaftervereinbarung-dist/*
           python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/gesellschaftervereinbarung-dist"
           gh release edit "$TAG" --draft=false --latest=false

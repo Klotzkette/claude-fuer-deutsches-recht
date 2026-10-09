@@ -46,7 +46,7 @@ def build(dist):
     ]
     if (
         len({(m["name"], m["version"], m["description"]) for m in manifests}) != 1
-        or manifests[0]["version"] != "1.0.0"
+        or manifests[0]["version"] != "1.1.0"
     ):
         raise ValueError("Manifeste stimmen nicht überein")
     if len(list((plugin / "skills").glob("*/SKILL.md"))) != 11:
@@ -117,7 +117,7 @@ def build(dist):
     )
     print(
         json.dumps(
-            {"version": "1.0.0", "assets": len(names) + 1, "destination": str(dist)}
+            {"version": "1.1.0", "assets": len(names) + 1, "destination": str(dist)}
         )
     )
 

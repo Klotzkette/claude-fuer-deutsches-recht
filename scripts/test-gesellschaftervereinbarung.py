@@ -9,6 +9,9 @@ import hashlib
 import importlib.util
 import io
 import json
+import re
+from datetime import date
+from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 import tempfile
 import unittest
@@ -52,7 +55,7 @@ class AgreementTests(unittest.TestCase):
                 case_asset_url(slug, suffix),
             )
             self.assertIn(
-                "/gesellschaftervereinbarung-v1.0.0/", case_asset_url(SLUG, suffix)
+                "/gesellschaftervereinbarung-v1.1.0/", case_asset_url(SLUG, suffix)
             )
 
     def test_manifests_and_skills(self):
@@ -66,7 +69,7 @@ class AgreementTests(unittest.TestCase):
         ]
         self.assertEqual(
             {(m["name"], m["version"], m["description"]) for m in manifests},
-            {(NAME, "1.0.0", manifests[0]["description"])},
+            {(NAME, "1.1.0", manifests[0]["description"])},
         )
         skills = list((PLUGIN / "skills").glob("*/SKILL.md"))
         self.assertEqual(len(skills), 11)
@@ -83,13 +86,13 @@ class AgreementTests(unittest.TestCase):
 
     def test_complete_native_file_set(self):
         files = originals()
-        self.assertEqual(len(files), 22)
+        self.assertEqual(len(files), 46)
         self.assertEqual(
             {
                 ext: sum(p.suffix == ext for p in files)
                 for ext in (".docx", ".pdf", ".eml", ".csv", ".txt", ".xlsx")
             },
-            {".docx": 2, ".pdf": 8, ".eml": 7, ".csv": 2, ".txt": 2, ".xlsx": 1},
+            {".docx": 2, ".pdf": 23, ".eml": 12, ".csv": 5, ".txt": 3, ".xlsx": 1},
         )
         for source in CASE.glob("*.csv"):
             rows = list(
@@ -138,7 +141,7 @@ class AgreementTests(unittest.TestCase):
                     (CASE / part.get_filename()).read_bytes(),
                     path.name,
                 )
-        self.assertEqual(attachments, 5)
+        self.assertEqual(attachments, 12)
 
     def test_capital_and_cached_formulas(self):
         capital_skill = (
@@ -150,7 +153,7 @@ class AgreementTests(unittest.TestCase):
         )
         source = CASE / "22_Kapital_und_Finanzierungsplan.xlsx"
         wb = load_workbook(source, data_only=True)
-        self.assertEqual(wb.sheetnames, ["Kapital", "Tranchen", "Budget"])
+        self.assertEqual(wb.sheetnames, ["Kapital", "Tranchen", "Budget", "Historie", "Darlehen", "Wandlung", "Kontojournal"])
         self.assertEqual(
             [wb["Kapital"][cell].value for cell in ("C13", "D13", "E13", "F13", "G13")],
             [50000, 12000, 62000, 8000, 70000],
@@ -160,6 +163,18 @@ class AgreementTests(unittest.TestCase):
         self.assertEqual(wb["Tranchen"]["D14"].value, 10000000)
         self.assertEqual(wb["Tranchen"]["H14"].value, 9980000)
         self.assertEqual(wb["Budget"]["D13"].value, 10000000)
+        self.assertEqual([wb["Historie"][f"I{r}"].value for r in range(6, 11)], [1000, 25000, 30000, 50000, 50000])
+        self.assertEqual(wb["Darlehen"]["C12"].value, 470000)
+        days = (date(2026, 10, 1) - date(2024, 5, 1)).days
+        interest = (Decimal(120000) * Decimal("0.06") * days / 365).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
+        self.assertEqual(wb["Darlehen"]["F7"].value, days)
+        self.assertEqual(Decimal(str(wb["Darlehen"]["G7"].value)), interest)
+        self.assertEqual(wb["Darlehen"]["G12"].value, 27630.4)
+        self.assertEqual(wb["Wandlung"]["C12"].value, 343)
+        self.assertEqual(wb["Wandlung"]["C13"].value, 218.08)
+        self.assertEqual(wb["Wandlung"]["C15"].value, 70343)
+        self.assertEqual(wb["Kontojournal"]["F17"].value, 80000)
+        self.assertTrue(all(wb["Kontojournal"][f"H{r}"].value == 0 for r in range(6,18)))
         formulas = load_workbook(source, data_only=False)
         for sheet in formulas:
             self.assertTrue(sheet.print_area)
@@ -176,10 +191,10 @@ class AgreementTests(unittest.TestCase):
 
     def test_complete_pdf_and_editable_documents(self):
         combined = PdfReader(CASE / "gesamt-pdf" / f"{SLUG}_gesamt.pdf")
-        self.assertGreaterEqual(len(combined.pages), 40)
+        self.assertGreaterEqual(len(combined.pages), 100)
         text = "\n".join(page.extract_text() or "" for page in combined.pages)
         for phrase in (
-            "24.3 Unterzeichnungsvorbereitung",
+            "32.3 Vollständige Abschlussfelder",
             "Kunigunde",
             "Finanzierungsplan",
         ):
@@ -190,6 +205,39 @@ class AgreementTests(unittest.TestCase):
             self.assertGreater(sum(len(p.text) for p in document.paragraphs), 10000)
             self.assertEqual(document.styles["Normal"].font.name, "Times New Roman")
             self.assertEqual(document.styles["Normal"].font.size.pt, 11)
+
+    def test_fillable_contract_structure(self):
+        document = Document(CASE / "02_Gesellschaftervereinbarung_Ausfuellfassung.docx")
+        text = "\n".join(p.text for p in document.paragraphs)
+        self.assertGreater(len(text), 75000)
+        self.assertGreater(len(set(re.findall(r"\[[^\]]+\]", text))), 200)
+        headings = [p.text for p in document.paragraphs if p.style.name.startswith("Heading")]
+        for heading in headings:
+            self.assertRegex(heading, r"^\d+(?:\.\d+)* ")
+        self.assertEqual([int(p.text.split()[0]) for p in document.paragraphs if p.style.name == "Heading 1"], list(range(1,33)))
+        for name in ("Normal", "Title", "Heading 1", "Heading 2", "Heading 3", "Header", "Footer"):
+            self.assertEqual(document.styles[name].font.name, "Times New Roman")
+            self.assertEqual(document.styles[name].font.size.pt, 11)
+        self.assertIn("keine Zahlung auf das Stammkapital", text)
+        self.assertIn("Rechte außenstehender Gläubiger", text)
+        signature = next(p for p in document.paragraphs if p.text == "32.3 Vollständige Abschlussfelder")
+        self.assertTrue(signature.paragraph_format.page_break_before)
+        journal = PdfReader(CASE / "35_Zahlungsjournal_Februar_Maerz.pdf")
+        self.assertEqual(len(journal.pages), 1)
+
+    def test_historical_cash_and_capital_are_separate(self):
+        with (CASE / "19_Historische_Einzahlungen.csv").open(encoding="utf-8") as handle:
+            rows = list(csv.DictReader(handle, delimiter=";"))
+        for person in ("Kunigunde Wolkenberger", "Kilian Funkenschlag"):
+            entries = [r for r in rows if r["Beteiligter"] == person]
+            self.assertEqual([(r["Datum"], r["Betrag_EUR"]) for r in entries], [("2023-06-12", "500"), ("2023-09-20", "12000")])
+        with (CASE / "44_Bankjournal_Fruehjahr.csv").open(encoding="utf-8") as handle:
+            rows = list(csv.DictReader(handle, delimiter=";"))
+        balance = Decimal(rows[0]["Saldo_EUR"])
+        for row in rows[1:]:
+            balance += Decimal(row["Zugang_EUR"]) - Decimal(row["Abgang_EUR"])
+            self.assertEqual(balance, Decimal(row["Saldo_EUR"]))
+        self.assertEqual(balance, 80000)
 
     def test_release_packages(self):
         if DIST is None:
@@ -207,7 +255,7 @@ class AgreementTests(unittest.TestCase):
             for source in originals():
                 self.assertEqual(archive.read(source.name), source.read_bytes())
         with zipfile.ZipFile(DIST / f"testakte-{SLUG}-einzelpdfs.zip") as archive:
-            self.assertEqual(len(archive.namelist()), 23)
+            self.assertEqual(len(archive.namelist()), 47)
             self.assertTrue(archive.read("README.txt").startswith(NOTICE_BYTES))
             for name in archive.namelist():
                 self.assertNotIn("/", name)
