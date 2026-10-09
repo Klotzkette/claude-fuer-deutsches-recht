@@ -57,6 +57,10 @@ def create_pdf(path, item):
         rows = [[p(str(v), small) for v in row] for row in item['table']]
         n = len(rows[0])
         widths = {2: [180, 307], 3: [150, 217, 120], 4: [81, 158, 145, 103]}[n]
+        if item.get('table_widths'):
+            widths = item['table_widths']
+            if len(widths) != n or any(w <= 0 for w in widths) or sum(widths) > 487:
+                raise ValueError('Tabellenspalten passen nicht in den Satzspiegel.')
         table = Table(rows, colWidths=widths, repeatRows=1, hAlign='LEFT')
         table.setStyle(TableStyle([
             ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#E9EDF1')),

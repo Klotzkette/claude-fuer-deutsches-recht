@@ -1,0 +1,13 @@
+Datum;Vorgang;Zugang_EUR;Abgang_EUR;Saldo_EUR;Beleg
+2026-02-13;Anfangsbestand;0;0;88000;Hauptkonto Blatt 02-13
+2026-02-16;Kundeneingänge;63000;0;151000;Hauptkonto Blatt 02-16
+2026-02-20;Lieferanten und Miete;0;34000;117000;Hauptkonto Blatt 02-20
+2026-02-27;Personal und Abgaben;0;76000;41000;Hauptkonto Blatt 02-27
+2026-03-02;Darlehen Kunigunde;60000;0;101000;SF/BR/2026-02-KW
+2026-03-02;Darlehen Kilian;40000;0;141000;SF/BR/2026-02-KF
+2026-03-02;Darlehen ABC;150000;0;291000;SF/BR/2026-02-ABC
+2026-03-02;Darlehen DEF;100000;0;391000;SF/BR/2026-02-DEF
+2026-03-12;Kundeneingänge;28000;0;419000;Hauptkonto Blatt 03-12
+2026-03-20;Lieferanten;0;125000;294000;Hauptkonto Blatt 03-20
+2026-03-25;Miete und Betrieb;0;24000;270000;Hauptkonto Blatt 03-25
+2026-03-31;Personal und Abgaben;0;190000;80000;Hauptkonto Blatt 03-31

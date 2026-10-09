@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Ergänzt das Druckprofil der drei Kapitalblätter ohne Änderung ihrer Formeln."""
+"""Ergänzt Druckbereiche ohne Änderung der Finanzierungsformeln."""
 
 import importlib.util
 from pathlib import Path
@@ -20,10 +20,14 @@ module.print_profile(
         "sheets": [
             {
                 "name": name,
-                "columns": [{"width": 18} for _ in range(9)],
-                "rows": [None] * 11,
+                "columns": [{"width": 18} for _ in range(columns)],
+                "rows": [None] * (last_row - 8),
             }
-            for name in ("Kapital", "Tranchen", "Budget")
+            for name, columns, last_row in (
+                ("Kapital", 9, 19), ("Tranchen", 9, 19), ("Budget", 9, 19),
+                ("Historie", 10, 16), ("Darlehen", 10, 18),
+                ("Wandlung", 8, 21), ("Kontojournal", 8, 23),
+            )
         ],
     },
 )
