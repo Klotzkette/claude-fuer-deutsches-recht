@@ -1,0 +1,104 @@
+{
+  "pdfs": [
+    {
+      "file": "testakten/ki-verbot-frankenmut-dialog/11_Kostenstand.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-verbot-klarblick-personal/11_Schichten.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-verbot-stadtfaden-sozialscore/11_Serviceindex.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-register-fuldatal-sozialhilfe/11_Versionsvergleich.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-meldung-mainbogen-notruf/11_Uebungszeiten.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-konformitaet-isarblick-personal/11_Teststand.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    },
+    {
+      "file": "testakten/ki-konformitaet-saalevis-biometrie/11_Nachweisstand.xlsx",
+      "pages": 1,
+      "minimum_font": 10.005999565124512
+    }
+  ],
+  "input_probes": [
+    {
+      "case": "ki-verbot-frankenmut-dialog",
+      "changed_cell": "B8",
+      "input": 0,
+      "result_cell": "D11",
+      "expected": 1097,
+      "actual": 1097,
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-verbot-klarblick-personal",
+      "changed_cell": "C6",
+      "input": 8,
+      "result_cell": "D11",
+      "expected": 5,
+      "actual": 5,
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-verbot-stadtfaden-sozialscore",
+      "changed_cell": "C6",
+      "input": 0,
+      "result_cell": "D6",
+      "expected": 90,
+      "actual": 90,
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-register-fuldatal-sozialhilfe",
+      "changed_cell": "C7",
+      "input": 0,
+      "result_cell": "D7",
+      "expected": -2,
+      "actual": -2,
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-meldung-mainbogen-notruf",
+      "changed_cell": "B13",
+      "input": 1,
+      "result_cell": "D13",
+      "expected": 24,
+      "actual": 24,
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-konformitaet-isarblick-personal",
+      "changed_cell": "C6",
+      "input": null,
+      "result_cell": "D6",
+      "expected": "offen",
+      "actual": "offen",
+      "engine": "LibreOffice bundled"
+    },
+    {
+      "case": "ki-konformitaet-saalevis-biometrie",
+      "changed_cell": "C6",
+      "input": 6,
+      "result_cell": "D15",
+      "expected": 0.6111111111111112,
+      "actual": 0.611111111111111,
+      "engine": "LibreOffice bundled"
+    }
+  ]
+}

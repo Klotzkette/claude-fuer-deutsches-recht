@@ -1,5 +1,9 @@
 # Risikomanagementsystem-Dokumentation (KI-VO Art. 9)
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Die RPZ ist eine interne Methode und keine gesetzliche Freigabeschwelle. Art. 9 Abs. 2 Buchstabe c betrifft Risiken aus der Nachmarktbeobachtung; deren Plan gehört zu Anhang IV Nr. 9. Die Vorfallskette unterscheidet Betreiber und Anbieter sowie Höchstfristen von zwei, zehn und fünfzehn Tagen. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Vollständige Dokumentationsvorlage für das Risikomanagementsystem von Hochrisiko-KI-Systemen nach Art. 9 VO (EU) 2024/1689, einschließlich ausgearbeiteter Risikomatrix-Vorlage mit Bewertungsschema.
 
 ## Download

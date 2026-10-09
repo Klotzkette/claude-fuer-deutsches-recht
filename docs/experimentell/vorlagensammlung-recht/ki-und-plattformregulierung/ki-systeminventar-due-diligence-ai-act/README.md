@@ -1,5 +1,9 @@
 # KI-Systeminventar für Due Diligence nach KI-Verordnung
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Das interne Inventar erfasst die beiden Hochrisikowege und ihre Produktsonderregeln. EU-Datenbank, nichtöffentlicher Datenbankbereich und nationales Register sind eigenständige Nachweise; eine interne System-ID ersetzt keine Registrierung. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Inventarvorlage für KI-Systeme, KI-Modelle und KI-Funktionen einer Zielgesellschaft.
 
 ## Download

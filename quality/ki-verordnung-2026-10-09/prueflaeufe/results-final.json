@@ -1,0 +1,22 @@
+[
+  {
+    "name": "scripts/validate-testakten-readme-downloads.py",
+    "exit_code": 0
+  },
+  {
+    "name": "scripts/validate-readme-navigation.py",
+    "exit_code": 1
+  },
+  {
+    "name": "quality/ki-verordnung-2026-10-09/quellen/pruefe-bestand.py",
+    "exit_code": 0
+  },
+  {
+    "name": "scripts/audit-skill-activation.py",
+    "exit_code": 1
+  },
+  {
+    "name": "scripts/quality-lab.py audit",
+    "exit_code": 1
+  }
+]

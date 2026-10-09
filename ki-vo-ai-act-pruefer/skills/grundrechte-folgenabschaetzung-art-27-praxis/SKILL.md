@@ -1,27 +1,54 @@
 ---
 name: grundrechte-folgenabschaetzung-art-27-praxis
-description: "Für Grundrechte-Folgenabschätzung nach Art. 27 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft den persönlichen und sachlichen Anwendungsbereich des Artikels 27. Erstellt eine kontextbezogene Grundrechte-Folgenabschätzung mit Verweisen auf geeignete Datenschutzfolgenabschätzungen und bereitet die Ergebnismitteilung vor.
 ---
 
-# Grundrechte-Folgenabschätzung nach Art. 27 KI-VO
+# Grundrechte-Folgenabschätzung und Betreibermaßnahmen
 
-## Ziel
+## 1. Zweck und Anwendungsfall
 
-Der Skill macht aus Art. 27 KI-VO eine konkrete Prüfung, die nicht nach Ethikpapier aussieht, sondern Entscheidungen, Risiken und Abhilfen dokumentiert.
+Kläre zuerst, ob gerade dieser Betreiber eine Grundrechte-Folgenabschätzung schuldet. Erst danach das passende Dokument ausarbeiten. Eine freiwillige Prüfung als solche kennzeichnen.
 
-## Prüffragen
+## 2. Eingaben
 
-1. Ist das System Hochrisiko?
-2. Wer ist Betreiber und fällt in den Art.-27-Pflichtenkreis?
-3. Welche Personen oder Gruppen sind betroffen?
-4. Welche Grundrechte können berührt sein: Gleichbehandlung, Datenschutz, Meinungsfreiheit, Berufsfreiheit, effektiver Rechtsschutz?
-5. Welche Fehler wären besonders schädlich?
-6. Gibt es Schutzmaßnahmen: menschliche Kontrolle, Widerspruch, Transparenz, Monitoring, Bias-Test?
-7. Was bleibt als Residualrisiko?
+Rechtsform und Tätigkeit des Betreibers, konkrete öffentliche Dienstleistung, Anhangseintrag, Verwendungsprozesse, Dauer und Häufigkeit, betroffene Gruppen, Anbieterinformation, Aufsicht, vorhandene Datenschutz-Folgenabschätzung und Beschwerdewege.
 
-## Powersprint-Vertiefung
+## 3. Ablauf und Checkliste
 
-- **AI-Act-Pfad:** Bei `Grundrechte-Folgenabschätzung nach Art. 27 KI-VO` Art. 3 KI-VO, Zweckbestimmung, Anbieter-/Betreiberrolle, Art. 6 Abs. 2 mit Anhang III, Transparenzpflichten und Sanktionen getrennt prüfen.
-- **Dokumentationslogik:** Schreibe nicht nur ein Ergebnis, sondern eine auditfähige Begründung mit Systembeschreibung, Datenfluss, Risiko, Governance, menschlicher Aufsicht und Restunsicherheit.
-- **Quellenbremse:** Normtext, Leitlinien, harmonisierte Normen und Behördenpraxis nur mit Datum/Quelle; ISO-/DIN-Bezüge als Prüfauftrag kennzeichnen, wenn nicht im Mandat belegt.
-- **Output:** KI-System-Check, Hochrisiko-Matrix, Grundrechte-/Transparenznotiz oder Behördenkommunikation.
+### 3.1. Pflichtadressat bestimmen
+
+Artikel 27 Absatz 1 betrifft Systeme nach Artikel 6 Absatz 2 mit Ausnahme des Bereichs Anhang III Nummer 2. Erfasst sind Betreiber als Einrichtungen öffentlichen Rechts oder private Einrichtungen, die öffentliche Dienste erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Ein gewöhnliches privates Unternehmen ist nicht allein wegen der Verwendung eines Personaltools erfasst. Öffentliche Förderung oder eine beliebige Dienstleistung an Kunden belegt nicht automatisch eine öffentliche Dienstleistung.
+
+### 3.2. Konkrete Verwendung untersuchen
+
+Beschreibe die Verfahren des Betreibers und deren Zweck, Dauer und Häufigkeit, möglicherweise betroffene natürliche Personen und Gruppen, spezifische Schadensrisiken, Aufsichtsmaßnahmen und Vorkehrungen bei Risikoeintritt einschließlich interner Zuständigkeit und Beschwerdemechanismen. Jede Gefahr braucht einen konkreten Wirkpfad: beispielsweise falscher Ausschluss vom Leistungszugang, mangelnde Bestreitbarkeit oder unzureichende Barrierefreiheit. Eine bloße Liste von Grundrechten mit Ampeln ist keine ausgeführte Abschätzung.
+
+Anbieterinformation nach Artikel 13 nutzen, aber die konkrete Betreiberumgebung selbst bewerten. Marktweite technische Risiken nach Artikel 9 und Anbieter-Qualitätsmanagement nach Artikel 17 nicht als fertige eigene Folgenabschätzung übernehmen.
+
+### 3.3. Datenschutzprüfung nutzbar machen
+
+Nach Artikel 27 Absatz 4 können bereits erfüllte Pflichten durch Verweise auf einschlägige Abschnitte der Datenschutz-Folgenabschätzung oder deren Übernahme abgedeckt werden. Benenne Dokument, Fassung und Abschnitt sowie die konkrete Deckung. Noch fehlende Nichtdiskriminierungs-, Zugangs-, Rechtsschutz- oder andere Grundrechtsaspekte ausarbeiten. „DSFA vorhanden“ ist kein vollständiger Nachweis; ebenso wenig muss vorhandene Substanz künstlich neu geschrieben werden.
+
+### 3.4. Zeitpunkt, Mitteilung und Aktualisierung
+
+Die Pflicht betrifft die erste Verwendung; auf passende frühere oder ähnliche Bewertungen darf nach Absatz 2 gestützt werden. Bei geänderten oder überholten Elementen aktualisieren. Die Ergebnismitteilung an die Marktüberwachungsbehörde steht in Absatz 3, nicht Absatz 4; vorgesehen ist das ausgefüllte Muster nach Absatz 5. Den möglichen Sonderfall des Artikels 46 Absatz 1 gesondert prüfen. Kein ungeprüftes PDF als nachweislich verwendetes amtliches Formular ausgeben.
+
+Artikel 27 liegt in Kapitel III Abschnitt 3. Anwendungsbeginn und Bestand nach Artikel 111 und 113 bestimmen. Ein vorbereiteter Mitteilungsentwurf ist keine Einreichung. Vor realer Übermittlung zuständige Behörde, Befugnis, Datenminimierung und Auftrag klären.
+
+### 3.5. Betreibercheck anschließen
+
+Gesondert Artikel 26 prüfen: Betriebsanleitung, tatsächlich zugewiesene menschliche Aufsicht, Eingabedaten im eigenen Kontrollbereich, Protokolle, Beschäftigten- und Betroffeneninformation sowie Vorfallreaktion. Diese Pflichten nicht durch ein positives FRIA-Ergebnis ersetzen.
+
+## 4. Quellenpflicht
+
+Artikel 26 und Artikel 27 vollständig; Artikel 9, 17, 46, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
+
+## 5. Ausgabeformat
+
+Ausformulierte Grundrechte-Folgenabschätzung mit konkreten Verweisen auf vorhandene DSFA, Maßnahmen- und Aktualisierungsplan sowie gesonderter Entwurf der Ergebnismitteilung. Feststellung fehlender gesetzlicher Pflicht ebenfalls begründen; eine freiwillige Bewertung nicht als gesetzliche Pflicht darstellen.
+
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
+
+## 6. Beispiele
+
+Ein privater Maschinenbauer nutzt Bewerberranking für eigene Personalentscheidungen: Artikel 27 nicht allein wegen HR annehmen. Eine private Einrichtung mit einschlägiger öffentlicher Dienstleistung und demselben Werkzeug benötigt eine konkrete Prüfung ihrer Rolle und des Verwendungszusammenhangs.

@@ -1,6 +1,6 @@
 # verlagsrecht-buchpreisbindung
 
-**101 Skills** · Stand `v445.33.1`
+**101 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../verlagsrecht-buchpreisbindung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`verlagsrecht-buchpreisbindung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`verlagsrecht-buchpreisbindung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verlagsrecht-buchpreisbindung/verlagsrecht-buchpreisbindung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [verlagsrecht-buchpreisbindung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verlagsrecht-buchpreisbindung.zip) |
+| **Plugin (installierbar)** | ZIP | [verlagsrecht-buchpreisbindung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/verlagsrecht-buchpreisbindung.zip) |
 
 ## So benutzt man einen Skill
 

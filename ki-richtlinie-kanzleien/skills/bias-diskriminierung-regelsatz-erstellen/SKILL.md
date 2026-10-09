@@ -40,7 +40,7 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 - § 1 AGG — Schutz vor Diskriminierung (Rasse, Geschlecht, Alter, Behinderung, Herkunft)
 - § 15 AGG — Schadensersatz und Entschaedigung bei Diskriminierung
 - Art. 22 DSGVO — Automatisierte Entscheidungen mit moeglichem Diskriminierungspotenzial
-- Art. 5 Abs. 1 lit. c KI-VO — Verbot biometrischer Kategorisierung nach geschuetzten Merkmalen
+- Artikel 5 Absatz 1 Buchstabe g KI-Verordnung: biometrische Kategorisierung nach den dort aufgezählten sensiblen Merkmalen, einschließlich konkreter Ausnahmen. Buchstabe c betrifft Social Scoring. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 KI-VO — Hochrisiko bei Bewerbungs-Screening, Personalauswahl und Beschäftigtenmanagement nach Zweckbestimmung
 
 ## Triage zu Beginn
@@ -64,7 +64,7 @@ Geschuetzte Merkmale (§ 1 AGG) — Analyse:
 | Herkunft / Nationalitaet | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
 | Behinderung | [NIEDRIG/MITTEL/HOCH] | [TESTERGEBNIS] | [MASSNAHME] |
 
-KI-VO Art. 5 Abs. 1 lit. c: Biometrische Kategorisierung: [NICHT VORHANDEN / PRUEFUNG ERFORDERLICH]
+Artikel 5 Absatz 1 Buchstabe g: biometrische Kategorisierung, Merkmalsableitung und mögliche Ausnahme anhand der konkreten Funktion: [belegt / nicht belegt / entscheidende Lücke].
 Anhang III Nr. 4 KI-VO: Hochrisiko: [JA / NEIN — je nach Zweckbestimmung]
 
 Bias-Test durchgefuehrt: [JA — Methode: BESCHREIBUNG / NEIN — ERFORDERLICH]

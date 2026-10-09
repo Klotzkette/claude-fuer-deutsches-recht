@@ -9,7 +9,7 @@ description: "Für digitale Werkzeuge-Governance — Allgemein: ordnet Norm, Bew
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -123,18 +123,18 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 
 - Ihr Unternehmen moechte ein neues KI-System einfuehren und Sie müssen prüfen, ob es unter die KI-VO faellt und welche Risikoklasse gilt.
 - Sie benoetigen eine KI-Folgenabschaetzung (FRIA) nach Art. 27 KI-VO oder eine DSGVO-Folgenabschaetzung (DSFA) nach Art. 35 DSGVO.
-- Sie prüfen einen KI-Anbietervertrag auf KI-VO-Konformitaet, Haftung und Transparenzpflichten nach Art. 25 KI-VO.
+- Sie prüfen einen KI-Anbietervertrag auf konkrete Lieferkettenpflichten nach Artikel 25, Haftungszusagen und gegebenenfalls Transparenz nach Artikel 13 beziehungsweise 50. Rollen und gesetzliche Pflicht nicht mit frei verhandelter Klausel vermischen.
 - Die interne KI-Richtlinie soll gegen neue Regulierungen oder Behördenleitlinien geprueft und aktualisiert werden.
 - Sie wollen ein vollstaendiges KI-Inventar aller im Unternehmen eingesetzten Systeme nach Art. 3 KI-VO aufbauen.
 
 ## Fachbegriffe (kurz erklaert)
 
-- **Anbieter** — Wer ein KI-System entwickelt oder entwickeln lässt und es in Verkehr bringt oder in Betrieb nimmt (Art. 3 Nr. 3 KI-VO).
-- **Betreiber** — Wer ein KI-System im eigenen Namen und unter eigener Kontrolle einsetzt (Art. 3 Nr. 4 KI-VO).
-- **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO (z.B. biometrische Identifikation, Beschäftigung, kritische Infrastruktur); erfordern umfassende Compliance-Pflichten.
-- **FRIA** — Fundamental Rights Impact Assessment nach Art. 27 KI-VO: Folgenabschaetzung für Grundrechte bei Hochrisiko-KI durch Betreiber.
+- **Anbieter:** Artikel 3 Nummer 3 verlangt Entwicklung oder Entwicklung im Auftrag und das dort bezeichnete Inverkehrbringen beziehungsweise Inbetriebnehmen unter eigenem Namen oder Handelsmarke; unentgeltliches Angebot kann erfasst sein. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **Betreiber:** Artikel 3 Nummer 4 betrifft die Verwendung unter eigener Verantwortung; ausschließlich persönliche nicht berufliche Verwendung ist ausgenommen. Kein allgemeines Eigenmarkenerfordernis für die Betreiberrolle. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **Hochrisiko-KI:** Beide Pfade des Artikels 6 prüfen; im Anhang-III-Pfad Absatz 3 mit Risiko, Fallgruppen und Profiling-Sperre untersuchen. Artikel 6 Absatz 1 mit Anhang I einschließlich Abschnitt A/B und Artikel 2 Absatz 2 von Absatz 2 mit Anhang III trennen. Artikel 6 Absätze 1a bis 1c samt Berichtigung prüfen. Eine sicherheitsrelevante Maschinenfunktion ist nicht allein deshalb ein Anhang-III-Tatbestand. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+- **Grundrechte-Folgenabschätzung:** Artikel 27 erfasst Betreiber, die Einrichtungen des öffentlichen Rechts oder private Einrichtungen sind, die öffentliche Dienstleistungen erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Systeme nach Anhang III Nummer 2 sind ausgenommen. Öffentliche Finanzierung allein ist kein Tatbestand. DSFA und FRIA haben eigene Voraussetzungen; vorhandene DSFA-Ergebnisse können nach Artikel 27 Absatz 4 einbezogen werden. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSFA** — Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO; erforderlich bei hohem Risiko für Betroffene durch Datenverarbeitung.
-- **Allzweck-KI (GPAI)** — General Purpose AI Model; gesonderte Pflichten nach Art. 51 ff. KI-VO für Modelle mit systemischen Risiken.
+- **GPAI:** Modellbegriff und Anbieterpflichten nach Artikel 53 prüfen; zusätzliche Systemrisikopflichten nach Artikel 55 setzen die einschlägige Einstufung voraus. Die Nutzung eines fremden Modells macht den Nutzer nicht automatisch zum Modellanbieter. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Verbotene Praktiken** — KI-Anwendungen, die nach Art. 5 KI-VO generell verboten sind (z.B. Sozial-Scoring, manipulative Techniken).
 
 ## Rechtsgrundlagen
@@ -153,7 +153,7 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 1. Mandantenkonstellation klären: Unternehmen als Anbieter oder Betreiber, Branche, Groesse, welche KI-Systeme bereits im Einsatz oder geplant.
 2. Phase des Mandats bestimmen: Ersteinrichtung (Inventar, Profil), Triage neues KI-System, Folgenabschaetzung, Richtlinien-Erstellung oder Monitoring.
 3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: KI-VO-Verbote seit 02.02.2025 anwendbar; relevante Kapitel-III-Abschnitte für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113; GPAI-Pflichten seit 02.08.2025.
+- **Zeitliche Einordnung:** Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. GPAI-Altmodelle nach Artikel 111 Absatz 3 gesondert prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 5. Anschluss-Skill bestimmen: nach Triage folgt Folgenabschaetzung oder Richtlinien-Monitor; nach Vendor-Review ggf. Vertragsnachverhandlung.
 
 ## Skill-Tour (was gibt es hier?)
@@ -183,10 +183,10 @@ Das Plugin ist praxisorientiert: Es arbeitet mit dem Praxisprofil des Nutzers (R
 ## Worauf besonders achten
 
 - **Anbieter- und Betreiber-Rolle exakt abgrenzen.** Beide Rollen haben unterschiedliche Pflichten nach KI-VO; eine Verwechslung fuehrt zu falschen Compliance-Maßnahmen.
-- **Zeitplan der KI-VO beachten.** Verbote (Art. 5) seit 02.02.2025, GPAI seit 02.08.2025, relevante Kapitel-III-Abschnitte für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028 nach Artikel 113; nicht alle Pflichten gelten gleichzeitig.
+- **Zeitliche Einordnung:** Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. GPAI-Altmodelle nach Artikel 111 Absatz 3 gesondert prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSFA und FRIA sind keine Duplikate.** Beide Instrumente haben eigene Anwendungsbereiche und können parallel erforderlich sein; Skill `ki-folgenabschaetzung` kombiniert beide.
 - **Interne Richtlinie muss gelebte Praxis abbilden.** Eine Richtlinie, die niemand einhalt, schuetzt nicht vor regulatorischer Verantwortung; Skill `richtlinien-monitor` prüft Konsistenz.
-- **Allzweck-KI-Modelle erfordern Sonderbehandlung.** Bei Einsatz von GPAI-Modellen mit systemischen Risiken gelten Transparenz- und Sorgfaltspflichten nach Art. 53 ff. KI-VO.
+- **GPAI-Modelle gesondert prüfen:** Anbieterpflichten nach Artikel 53 von zusätzlichen Pflichten nach Artikel 55 unterscheiden. Betreiber eines darauf aufbauenden Systems übernehmen diese nicht automatisch; eigenen Rollenwechsel oder Anbieterstatus gesondert begründen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Typische Fehler
 

@@ -1,214 +1,56 @@
 ---
 name: nicht-hochrisiko-bestaetigt-end-to
-description: "Für Kein Hochrisiko bestätigt — die End-to-End-Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: nicht-hochrisiko-bestaetigt-end-to."
+description: Führt eine bestehende negative Hochrisikobewertung in den laufenden Betrieb über. Prüft Dokumentation, Registrierung bei Artikel 6 Absatz 3, übrige KI-Pflichten und Anlässe für eine erneute Einstufung.
 ---
 
-# Kein Hochrisiko bestätigt — die End-to-End-Roadmap
+# Kein Hochrisiko: Begründung und verbleibende Pflichten
 
-## PFLICHT-DISCLAIMER
+## 1. Zweck und Anwendungsfall
 
-**Keine Rechtsberatung. Mechanischer Workflow.** Die Negativ-Diagnose ist nur so belastbar wie die zugrunde liegenden Tatsachenfeststellungen.
+Begründe, warum die konkrete Anwendung kein Hochrisikosystem ist, und leite den tatsächlich verbleibenden Pflichtumfang ab. Außerhalb des Anwendungsbereichs, ohne Anhangstreffer und unter einer Rückausnahme sind verschiedene Ergebnisse.
 
----
+## 2. Eingaben
 
-## Die drei Wege zum "Kein Hochrisiko"
+Anwendungsbereichs- und Rollenvermerk, Systemzweck, tatsächlicher Prozess, Produktbezug, Anhang-III-Abgleich, Profilingprüfung, Ausgaben und Veröffentlichungswege. Eine negative Anbietererklärung als Behauptung lesen, nicht als eigene Prüfung übernehmen.
 
-### Weg A — Nie ein Anhang-I- oder Anhang-III-Bereich
+## 3. Ablauf und Checkliste
 
-**Diagnose:** das System ist kein Sicherheitsbauteil eines in Anhang I genannten Produkts (Art. 6 Abs. 1 KI-VO) UND fällt nicht in einen der acht Anhang-III-Bereiche (Art. 6 Abs. 2 KI-VO).
+### 3.1. Drei negative Wege unterscheiden
 
-**Anhang-III-Bereiche zur Erinnerung:**
-1. biometrische Systeme (Identifizierung, Kategorisierung, Emotionserkennung)
-2. kritische Infrastruktur (Verkehr, Wasser, Gas, Wärme, Strom, kritische digitale Infrastruktur)
-3. allgemeine und berufliche Bildung (Zugang, Bewertung, Verhalten)
-4. Beschäftigung, Personalmanagement, Selbständigkeit (Personalentscheidungen, Aufgabenzuteilung, Leistungsüberwachung)
-5. Zugang zu wesentlichen privaten und öffentlichen Diensten (Sozialleistungen, Bonität, Risikobewertung Lebens-/Krankenversicherung, Notruf-Triage)
-6. Strafverfolgung (Risikobewertung, Lügendetektor, Beweisbewertung, Profiling, Vorhersagen)
-7. Migration, Asyl, Grenzkontrolle
-8. Justiz, demokratische Prozesse
+**Weg 1: kein Hochrisikotatbestand.** Artikel 6 Absatz 1 mit Anhang I und Absatz 2 mit dem präzisen Anhang-III-Eintrag prüfen. Eine branchenfremde Nutzung ist nicht bereits wegen des Unternehmensnamens erfasst. Ein Medizinunternehmen kann gewöhnliche Bürosoftware nutzen; eine allgemeine Assistenz kann umgekehrt durch konkrete Bewerberbewertung in den Personalpfad gelangen. Ohne beide Tatbestände keine allein hieraus folgende Hochrisiko-Konformitätsbewertung; mögliche sektorale CE- oder sonstige Registerpflichten bleiben unberührt.
 
-**Was tun?**
-- → Skill: `hochrisiko-zuordnung-art-6-und-anhang-i-iii` (Negativ-Prüfung dokumentieren)
-- → Skill: `hochrisiko-art-6-abs-2-anhang-iii` für jeden der acht Bereiche begründen, warum er nicht greift
-- → Skill: `hochrisiko-art-6-abs-1-sicherheitsbauteil` für Anhang-I-Negativ-Begründung
+**Weg 2: Artikel 6 Absatz 3.** Voraussetzung ist ein tatsächlicher Anhang-III-Treffer. Fehlendes erhebliches Risiko und eine passende gesetzliche Bedingung nachvollziehbar begründen; keine bloße Aufgabenbezeichnung. Die Reihenfolge lautet: Buchstabe a enge Verfahrensaufgabe, b Verbesserung des Ergebnisses einer zuvor abgeschlossenen menschlichen Tätigkeit, c Erkennung von Entscheidungsmustern oder Abweichungen unter der gesetzlichen Begrenzung hinsichtlich Ersetzung oder Beeinflussung ohne angemessene menschliche Überprüfung, d vorbereitende Aufgabe. Profiling natürlicher Personen durch ein erfasstes Anhang-III-System sperrt die Ausnahme. Sie gilt nicht für Absatz 1.
 
-**Ergebnis:** Keine Konformitätsbewertung, keine CE-Kennzeichnung, keine EU-DB-Registrierung als Hochrisiko-System.
+Nach Artikel 6 Absatz 4 die Bewertung vor Inverkehrbringen oder Inbetriebnahme dokumentieren und auf Verlangen vorlegen. Der Verweis auf Registrierung nach Artikel 49 Absatz 2 besteht weiter. Den [Rückausnahmevermerk](../rueckausnahme-art-6-abs-3/SKILL.md) und ein gesondertes Registerblatt erzeugen. Die Behörde ist nicht an die Selbsteinschätzung gebunden; keine unbelegte pauschale Aussage über die prozessuale Beweislast treffen.
 
----
+**Weg 3: kein erfasster Gegenstand oder Akteur.** KI-Systemdefinition, Modellbegriff, räumlichen Bezug oder sachliche Ausnahme konkret begründen. Wissenschaftliche Forschung, private Nutzung, nationale Sicherheit und Open Source haben unterschiedliche Voraussetzungen und Reichweiten. Beispielsweise betrifft Artikel 2 Absatz 10 die Betreiberpflichten natürlicher Personen bei persönlicher nichtberuflicher Tätigkeit, nicht pauschal alle Anbieterpflichten für diese Software. Bei fehlendem System kann ein gesondert bereitgestelltes GPAI-Modell noch zu prüfen sein. Andere Rechtsgebiete bleiben nach ihrem eigenen Tatbestand anwendbar.
 
-### Weg B — Rückausnahme nach Art. 6 Abs. 3 KI-VO greift
+### 3.2. Verbleibende Pflichten gezielt ermitteln
 
-**Diagnose:** das System fällt zwar in einen Anhang-III-Bereich, erfüllt aber eine der vier Rückausnahmen UND **kein Profiling natürlicher Personen** liegt vor.
+Artikel 5 ist innerhalb seines Anwendungsbereichs unabhängig vom Hochrisikoergebnis. Manipulation, Verletzlichkeit, Sozialbewertung auch außerhalb von Behörden, Straftatprognose, Gesichtsdatenbanken, Emotionen, sensible biometrische Kategorisierung und Echtzeit-Fernidentifizierung jeweils am vollständigen Tatbestand prüfen. Echtzeit-Fernidentifizierung nach Buchstabe h betrifft öffentlich zugängliche Räume zu Strafverfolgungszwecken, nicht jede Kamera im öffentlichen Raum. Die neuen Buchstaben ba und bb sowie Absätze 1a und 1b gelten ab 2. Dezember 2026; ein Kennzeichen legalisiert keine verbotene Praxis.
 
-**Die vier Rückausnahmen (Art. 6 Abs. 3 KI-VO):**
+Artikel 50 ist eine zusätzliche pflichtbezogene Prüfung, keine eigene abschließende Risikoklasse. Direkte Interaktion, technische Ausgabemarkierung, Emotionserkennung beziehungsweise biometrische Kategorisierung, Deepfakes und öffentliche Informationstexte getrennt untersuchen. Technische Markierung des Anbieters und Offenlegung des Betreibers können zusammentreffen. Die Ausnahme für menschliche Prüfung oder redaktionelle Kontrolle mit redaktioneller Verantwortung betrifft den Textpfad, nicht unterschiedslos Bild oder Ton. Artikel 111 Absatz 4 verschiebt nur Artikel 50 Absatz 2 für vor dem 2. August 2026 in Verkehr gebrachte Systeme bis 2. Dezember 2026.
 
-| Nr. | Tatbestand | typische Beispiele |
-|---|---|---|
-| (a) | rein vorbereitende Aufgabe einer Bewertung | Dokumentensortierung, Formatprüfung |
-| (b) | enge prozedurale Aufgabe | Datenextraktion aus strukturiertem Formular |
-| (c) | Verbesserung des Ergebnisses einer zuvor abgeschlossenen menschlichen Tätigkeit | Stilkorrektur, Übersetzungsverbesserung |
-| (d) | Erkennung von Entscheidungsmustern, ohne menschliche Bewertung zu ersetzen | Anomalie-Markierung zur menschlichen Nachkontrolle |
+Modellpflichten nach Artikeln 51 bis 55 getrennt vom System prüfen. Nachtraining mit weniger als einem Drittel der ursprünglichen Rechenleistung ist keine Freistellung von System-, Hochrisiko- oder Transparenzpflichten. Die Kommissionsleitlinie behandelt unter zusätzlichen Voraussetzungen den Wechsel der Modellanbieterrolle.
 
-**Wichtige Schranke:** Rückausnahme **niemals** anwendbar, wenn das System **Profiling natürlicher Personen** durchführt (Art. 6 Abs. 3 letzter Satz KI-VO).
+Artikel 4 verlangt in aktueller Fassung die Unterstützung der Entwicklung eines ausreichenden Kompetenzniveaus; kein allgemeines gesetzliches Zertifikat und keine unveränderte alte Gewährleistungsformel behaupten. Die besonderen Kompetenzanforderungen an menschliche Aufsicht bleiben gesondert. Datenschutz, Arbeitsrecht, Produktrecht und Vertragsrecht folgen ihrer eigenen Prüfung; ein negativer KI-Verordnungsbefund ersetzt sie nicht.
 
-**Was tun?**
-- → Skill: `rueckausnahme-art-6-abs-3` (Tatbestand prüfen und dokumentieren)
-- Begründung schriftlich festhalten, warum eine der vier Ausnahmen greift
-- Profiling-Negativ-Prüfung dokumentieren
-- **Dokumentationspflicht:** Anbieter, der sich auf Rückausnahme beruft, muss die Bewertung vor Inverkehrbringen dokumentieren und auf Anforderung der nationalen Marktaufsichtsbehörde vorlegen (Art. 6 Abs. 4 KI-VO).
+### 3.3. Stichtag und Weiterführung
 
-**Achtung:** Das Risiko der Fehleinordnung trägt der Anbieter. Bei Streit mit Marktaufsicht: Beweislast für Vorliegen der Rückausnahme.
+Ein nach gegenwärtiger Tatsachengrundlage negatives Ergebnis ist versions- und zweckbezogen. Bei Zweckausweitung, Personenbewertung, Automatisierung bisher menschlicher Entscheidungen, wesentlicher Änderung, neuer Produktintegration oder geändertem Recht die betroffenen Prüfschritte wieder öffnen. Eine bloß jährliche Wiederholung ersetzt keine ereignisbezogene Prüfung.
 
----
+Artikel 111 und 113 auf den konkreten Pflichtzweig anwenden. Für die Registrierung nach Artikel 49 keinen pauschalen Aufschub aus dem Datum des Kapitels III Abschnitte 1 bis 3 ableiten; die Rechtsstandreferenz erläutert die gesonderte zeitliche Einordnung. Das Ergebnis nennt erfüllte, nicht einschlägige und offene Punkte. Nur tatsächliche Nachweise als geprüft ausgeben.
 
-### Weg C — KI-System liegt schon nicht vor / kein territorialer Anwendungsbereich
+## 4. Quellenpflicht
 
-**Diagnose:** das System ist konventionelle Software (Art. 3 Nr. 1 KI-VO nicht erfüllt) ODER der territoriale Anwendungsbereich (Art. 2 KI-VO) ist nicht eröffnet ODER ein sachlicher Ausschluss greift (Art. 2 Abs. 3-12 KI-VO).
+Artikel 2 bis 6, 25, 40, 49 bis 55, 111 und 113 sowie Anhänge I und III; GPAI-Leitlinien Randnummern 62 bis 65 nur als nicht verbindliche Auslegungshilfe zur Modellrolle. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-**Sachliche Ausschlüsse (Auswahl):**
-- militärische, Verteidigungs- und nationale Sicherheitszwecke (Art. 2 Abs. 3)
-- ausschließlich für wissenschaftliche Forschung (Art. 2 Abs. 6)
-- Freie und Open-Source-KI (eingeschränkt, Art. 2 Abs. 12)
-- rein persönliche Nutzung außerhalb beruflicher Tätigkeit (Art. 2 Abs. 10)
+## 5. Ausgabeformat
 
-**Was tun?**
-- → Skill: `liegt-ki-system-vor-art-3-nr-1` für Negativ-Begründung
-- → Skill: `territorialer-anwendungsbereich-art-2`
-- → Skill: `sachlicher-ausschluss-art-2-abs-3-bis-12`
-- → Skill: `abgrenzung-konventionelle-software-vs-ki-system` bei Grenzfällen
+Ein ausformulierter Negativvermerk mit eigenständiger Begründung des zutreffenden Wegs, verbleibender Pflichtenliste, Registerentscheidung und Auslösern erneuter Prüfung. „Nicht hochriskant“ niemals als pauschal „rechtmäßig“ oder „ohne Dokumentation“ übersetzen.
 
-**Ergebnis:** KI-VO-Anwendungsbereich nicht eröffnet. Andere Rechtsrahmen prüfen (DSGVO, Produkthaftung, Sektor-Recht).
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
----
+## 6. Beispiele
 
-## Restpflichten — auch ohne Hochrisiko
-
-**Auch wenn Hochrisiko verneint ist, bleiben Pflichten bestehen:**
-
-### 1. Verbot prüfen (Art. 5 KI-VO)
-
-Egal welche Risikoklasse: Verbotene Praktiken nach Art. 5 KI-VO sind **immer** verboten, unabhängig vom Hochrisiko-Status. → Skill: `verbotene-praktiken-art-5`.
-
-| Verbot | Tatbestand |
-|---|---|
-| (a) | unterschwellige Beeinflussung |
-| (b) | Ausnutzung Verletzlichkeit |
-| (c) | Social Scoring durch Behörden |
-| (d) | Vorhersage Straftaten allein auf Profiling |
-| (e) | ungezielte Bildersammlung für Gesichtsdatenbanken |
-| (f) | Emotionserkennung am Arbeitsplatz / in Bildung |
-| (g) | biometrische Kategorisierung sensibler Merkmale |
-| (h) | Echtzeit-biometrische Fernidentifizierung im öffentlichen Raum (mit engen Ausnahmen) |
-
-**Geltung seit:** 2.2.2025.
-
-### 2. Begrenztes Risiko / Transparenzpflichten (Art. 50 KI-VO)
-
-Auch ohne Hochrisiko: wenn das System unter Art. 50 fällt — Transparenz!
-
-| Konstellation | Pflicht |
-|---|---|
-| direkter Kontakt mit natürlichen Personen | Hinweis, dass mit KI interagiert wird (außer offenkundig) |
-| Erzeugung synthetischer Audio-, Bild-, Video-, Text-Inhalte | maschinenlesbare Markierung als KI-generiert |
-| Emotionserkennungs- oder biometrisches Kategorisierungssystem (soweit nicht verboten/Hochrisiko) | Information betroffener natürlicher Personen |
-| Deepfakes | Kenntlichmachung als KI-generiert/manipuliert |
-| KI-generierter Text zu Themen öffentlichen Interesses | Kenntlichmachung als KI-generiert (außer redaktionelle Verantwortung) |
-
-→ Skill: `begrenztes-risiko-art-50-transparenzpflichten`.
-
-### 3. GPAI-Pflichten (Art. 51-55 KI-VO)
-
-Wenn auch ein **GPAI-Modell** vorliegt: separate Pflichten unabhängig vom System-Risiko.
-
-→ Skill: `gpai-modelle-art-51-bis-55`, `gpai-vorliegen-art-3-nr-63`.
-
-### 4. KI-Kompetenz (Art. 4 KI-VO)
-
-**Pflicht für alle Anbieter und Betreiber**, unabhängig von Risikoklasse: ausreichendes Maß an KI-Kompetenz beim Personal, das mit Betrieb und Nutzung der KI-Systeme befasst ist.
-
-**Geltung seit:** 2.2.2025.
-
-### 5. Sektorale Vorgaben
-
-KI-VO ergänzt — ersetzt nicht — andere Rechtsrahmen:
-- DSGVO (Datenschutz)
-- Produkthaftung
-- DSA / DMA
-- sektorale Aufsicht (BaFin, BNetzA, BfArM, ...)
-- Urheberrecht (insb. § 44b UrhG für Training)
-- Arbeitsrecht (Betriebsrat, AGG)
-
-→ Skill: `verhaeltnis-zu-anderen-unionsrechtsakten`, `falsche-wiese-warnung-ki-vo`.
-
----
-
-## Dokumentations-Checkliste der Negativ-Diagnose
-
-Auch ein "Kein Hochrisiko" will dokumentiert sein:
-
-- [ ] Sachverhalt aus Mandanten-Triage festgehalten
-- [ ] KI-System nach Art. 3 Nr. 1 (positiv oder negativ) festgestellt
-- [ ] territorialer Anwendungsbereich nach Art. 2 (positiv oder negativ) festgestellt
-- [ ] Rolle nach Art. 3 Nr. 3-7 zugeordnet
-- [ ] Verbotene Praktik nach Art. 5 ausgeschlossen
-- [ ] Anhang I (Sicherheitsbauteil) ausgeschlossen
-- [ ] alle acht Anhang-III-Bereiche einzeln ausgeschlossen ODER
-- [ ] Anhang-III-Bereich identifiziert + Rückausnahme Art. 6 Abs. 3 dokumentiert + Profiling-Negativ-Prüfung
-- [ ] Art. 50-Transparenzpflichten geprüft (positiv oder negativ)
-- [ ] GPAI-Modell-Frage geprüft (positiv oder negativ)
-- [ ] KI-Kompetenz Art. 4 organisiert
-- [ ] Querschnitt zu anderen Rechtsgebieten (DSGVO, sektoral) abgeklärt
-
-→ Output-Skill: `output-pruefdokument-ki-vo-mit-warnhinweisen`
-
----
-
-## Wichtige Warnung — Statusverlust
-
-Negativ-Diagnose ist nicht "für immer". **Re-Evaluation bei:**
-
-- wesentlicher Änderung des Systems (Art. 43 Abs. 4 KI-VO)
-- Erweiterung der bestimmungsgemäßen Verwendung
-- neuer Use-Case in einem Anhang-III-Bereich
-- neue Daten / neuer Trainingslauf mit erweitertem Funktionsumfang
-- Änderung der Rechtslage (Durchführungsrechtsakte, Leitlinien Kommission, harmonisierte Normen)
-
-**Empfehlung:** jährliche Review der Negativ-Diagnose festschreiben.
-
----
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — NICHT HOCHRISIKO BESTAETIGT END TO END ROADMAP
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 6 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine Kanzlei sortiert hochgeladene Verträge chronologisch. Eine spätere Funktion bewertet die Erfolgsaussichten gerichtlicher Entscheidungen nicht schon wegen des Nutzers als Justizsystem; der genaue Anhang-III-Zweck ist zu prüfen. Wird die Anwendung für eine Justizbehörde zur Rechtsanwendung entwickelt, kann ein anderer Pfad entstehen. Die frühere reine Sortierbewertung darf nicht ungeprüft fortgelten.

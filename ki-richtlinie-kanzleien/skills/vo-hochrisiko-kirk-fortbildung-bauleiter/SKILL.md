@@ -15,16 +15,16 @@ description: "Für europäischer Technikregulierungsrahmen Hochrisiko Personalwe
 
 ## Spezialwissen
 
-Ab dem 2. Dezember 2027 gelten die strengen Hochrisiko-Anforderungen der KI-Verordnung auch für KI-Systeme, die im Personalwesen eingesetzt werden. Für Kanzleien ist dies in zweifacher Hinsicht relevant: zum einen beim eigenen Einsatz von KI im Personalbereich der Kanzlei selbst, zum anderen bei der Beratung von Mandanten, die solche Systeme im Arbeitsrecht-Kontext verwenden.
+Personal-KI anhand der konkreten Auswahl-, Bewertungs-, Zuweisungs- oder Überwachungsfunktion nach Anhang III Nummer 4 prüfen. Die Kanzlei kann selbst Betreiber sein oder Mandanten beraten. Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Rechtlicher Hintergrund
 
-Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 4 KI-VO: Hochrisiko-KI-Systeme im Personalwesen — KI-Systeme zur Bewerberauswahl, zu Beförderungsentscheidungen, zur Kündigung, zur Aufgabenzuweisung und zur Leistungsüberwachung. Anwendungsbeginn der Kapitel-III-Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Artikel 113 in der Fassung 2026/1744: 2. Dezember 2027 (Art. 113 KI-VO). Hochrisiko-Pflichten für Betreiber nach Art. 26 KI-VO: menschliche Aufsicht, Risikobeurteilung, Protokollierung, Transparenz gegenüber Betroffenen, Meldung schwerwiegender Vorfälle. Art. 86 KI-VO: Recht auf Erläuterung bei Hochrisiko-Entscheidungen. Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmung bei einschlägigen technischen Überwachungseinrichtungen; Paragraf 80 Absatz 3 BetrVG gesondert für Sachverständigenunterstützung prüfen. AGG: Diskriminierungsverbot bei Bewerberauswahl.
+Artikel 6 Absatz 2 mit Anhang III Nummer 4 nach konkretem Zweck und Datenfluss subsumieren. Bei Aufgabenzuweisung die dort genannten personenbezogenen Grundlagen prüfen. Artikel 26 verpflichtet den erfassten Betreiber insbesondere zu geeigneter Nutzung, menschlicher Aufsicht, Überwachung und gegebenenfalls Information und Meldung; ein Risikomanagementsystem nach Artikel 9 ist keine automatische Betreiberpflicht. Artikel 86 gesondert prüfen. Mitbestimmung und AGG bleiben eigenständige Prüfungen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Vorgehen
 
 1. **Bestandsaufnahme**: Werden KI-Systeme in der Kanzlei für die Vorauswahl von Bewerbungen, Personalbeurteilungen, Kündigungsentscheidungen oder Schichtplanung eingesetzt?
-2. **Hochrisiko-Einordnung prüfen**: Fällt das konkrete System unter Anhang III Nr. 4? Rückausnahmen nach Art. 6 Abs. 3 KI-VO (nur vorbereitende, eng begrenzte Aufgaben, kein Profiling) prüfen.
+2. **Hochrisiko-Einordnung prüfen:** Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. Produktpfad separat prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 3. **Betreiber-Pflichten umsetzen**: Risikobeurteilung durchführen, Technische Dokumentation einholen, menschliche Aufsicht sicherstellen, Protokollierung einrichten, Betroffene informieren.
 4. **Betriebsrat einbinden**: Bei Einführung von KI im Personalwesen Mitbestimmungsrechte des Betriebsrats beachten (§§ 87 Abs. 1 Nr. 6, 95 BetrVG).
 5. **Mandantenberatung**: Im arbeitsrechtlichen Mandat prüfen, ob Mandanten-HR-Systeme unter Anhang III Nr. 4 fallen und die Hochrisiko-Pflichten ab 2. Dezember 2027 eingehalten werden.
@@ -33,13 +33,13 @@ Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 4 KI-VO: Hochrisiko-KI-Systeme im Pers
 ## Vorlagentext / Bausteine
 
 **Baustein Hochrisiko Personalwesen:**
-Ab dem 2. Dezember 2027 unterliegen KI-Systeme, die zur Bewerberauswahl, zu Beförderungs- oder Kündigungsentscheidungen, zur Leistungsüberwachung oder zur Aufgabenzuweisung im Personalbereich eingesetzt werden, den strengen Anforderungen für Hochrisiko-KI-Systeme nach Art. 6 KI-VO i.V.m. Anhang III Nr. 4 KI-VO. Die Kanzlei stellt sicher, dass vor dem Einsatz solcher Systeme eine umfassende Risikobeurteilung durchgeführt wurde, menschliche Aufsicht gewährleistet ist und betroffene Personen über den Einsatz des Systems transparent informiert werden.
+Vor Einführung des konkret beschriebenen Personalsystems wird die Einstufung mit Quellen dokumentiert. Bei Hochrisiko werden die jeweils anwendbaren Betreiberpflichten in Zuständigkeiten und Arbeitsanweisungen übersetzt; Anbieterpflichten gehen nicht automatisch auf die Kanzlei über. Menschliche Schlusskontrolle und ein Schulungszertifikat ersetzen keine Tatbestandsprüfung. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 **Baustein Menschliche Aufsicht:**
 Beim Einsatz von KI-Systemen im Personalwesen darf keine ausschließlich automatisierte Entscheidung im Sinne des Art. 22 DSGVO getroffen werden. Jede personalrelevante Entscheidung, die durch ein KI-System vorbereitet oder unterstützt wird, bedarf der abschließenden Überprüfung und Freigabe durch eine autorisierende Person mit Entscheidungsbefugnis.
 
 **Baustein Dokumentationspflicht HR-KI:**
-Beim Einsatz von Hochrisiko-KI-Systemen im Personalwesen sind gemäß Art. 26 Abs. 6 KI-VO automatisch erzeugte Protokolldaten aufzubewahren, soweit diese unter Kontrolle der Kanzlei stehen. Die Aufbewahrungsdauer beträgt mindestens sechs Monate. Diese Protokolle sind der zuständigen Datenschutzbehörde oder der KI-Aufsichtsbehörde auf Anfrage vorzulegen.
+Bei zeitlich erfassten Hochrisiko-Systemen nach Artikel 26 Absatz 6 kontrollierte automatisch erzeugte Logs für einen angemessenen Zeitraum von grundsätzlich mindestens sechs Monaten aufbewahren, soweit anderes einschlägiges Unionsrecht oder nationales Recht nichts anderes vorgibt. Empfänger, Rechtsgrundlage und Umfang eines behördlichen Herausgabeverlangens konkret prüfen; keine pauschale Vollaktenübermittlung an jede Aufsicht. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Hinweise zur Aktualisierung
 
@@ -65,7 +65,7 @@ Die konkrete Ausgestaltung der Hochrisiko-Pflichten durch Durchführungsrechtsak
 HOCHRISIKO-KI PERSONALWESEN-CHECK
 [DATUM] — System: [SYSTEMNAME] — Einsatzzweck: [BESCHREIBUNG]
 
-Anhang III Nr. 4 KI-VO — Hochrisiko: JA, wenn die Zweckbestimmung den konkreten Personalprozess erfasst
+Anhang III Nummer 4: konkreten Personalzweck belegen, anschließend Artikel 6 Absatz 3 und insbesondere Profiling prüfen; kein automatisches Ergebnis allein aus der Branchenüberschrift.
 Anwendbare Betreiberpflichten Art. 26 KI-VO: ALLE
 
 Betriebsrat nach § 87 Abs. 1 Nr. 6 BetrVG:

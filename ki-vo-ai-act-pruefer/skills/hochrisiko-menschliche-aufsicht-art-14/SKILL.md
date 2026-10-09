@@ -1,104 +1,50 @@
 ---
 name: hochrisiko-menschliche-aufsicht-art-14
-description: "Für Menschliche Aufsicht — Art. 14 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft systemseitige Aufsicht nach Artikel 14 und ihre Umsetzung durch Betreiber nach Artikel 26. Entwirft konkrete Eingriffs- und Prüfregeln einschließlich der besonderen biometrischen Doppelkontrolle.
 ---
 
-# Menschliche Aufsicht — Art. 14 KI-VO
+# Wirksame menschliche Aufsicht gestalten
 
-## Pflicht 1 — Systemseitige Maßnahmen zur menschlichen Aufsicht (Art. 14 Abs. 1 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-Anbieter müssen Hochrisiko-KI-Systeme so konzipieren, dass sie durch natürliche Personen wirksam beaufsichtigt werden können. Die Maßnahmen zur menschlichen Aufsicht müssen in das System integriert sein, bevor es in Verkehr gebracht oder in Betrieb genommen wird.
+Bestimme, wie benannte Menschen Ausgaben tatsächlich verstehen, prüfen und gegebenenfalls stoppen können. Eine theoretische Eingriffsmöglichkeit und eine nachträgliche Beschwerde sind keine ausreichenden Nachweise wirksamer Aufsicht.
 
-**Maßnahmen können umfassen:**
-- Schnittstellen, über die Aufsichtspersonen die Leistung des Systems beobachten können
-- Mechanismen zur Deaktivierung (Stop-Button) oder zum Eingriff in die Systementscheidungen
-- Anzeigen und Warnmeldungen bei ungewöhnlichen Ergebnissen oder Konfidenzunterschreitungen
+## 2. Eingaben
 
-## Pflicht 2 — Verstehen der Systemfähigkeiten und -grenzen (Art. 14 Abs. 4 lit. a KI-VO)
+Betriebsanleitung, Oberfläche, Handlungskette, Zeitfenster, Rechte, Zuständigkeiten, Ausbildung, Vertretung und dokumentierter Test eines Eingriffs. Anbieterdesign und Betreiberorganisation getrennt erfassen.
 
-Aufsichtspersonen müssen in der Lage sein, die Fähigkeiten und Grenzen des Systems vollständig zu verstehen. Der Anbieter muss sicherstellen, dass das System so gestaltet ist, dass dieses Verständnis möglich ist (Erklärbarkeit, Transparenz der Ausgaben).
+## 3. Ablauf und Checkliste
 
-**Prüffragen:**
-- Liefert das System ausreichende Erklärungen oder Konfidenzwerte zu seinen Ausgaben?
-- Können Aufsichtspersonen die Ausgaben sinnvoll bewerten, ohne das System zu "blind" zu vertrauen?
+### 3.1. Aufsicht an Risiko und Autonomie ausrichten
 
-## Pflicht 3 — Schutz vor Over-Reliance / Automation Bias (Art. 14 Abs. 4 lit. b KI-VO)
+Artikel 14 Absätze 1 bis 3 verlangt wirksame menschliche Aufsicht während der Verwendung. Maßnahmen müssen Risiko, Autonomiegrad und Einsatzkontext entsprechen. Der Anbieter bestimmt integrierte Maßnahmen, soweit technisch machbar, und beziehungsweise oder vom Betreiber umzusetzende Vorkehrungen. Nicht behaupten, jede organisatorische Maßnahme müsse technisch in das Produkt eingebaut sein.
 
-Das System muss so gestaltet sein, dass das Phänomen der übermäßigen Abhängigkeit von automatisierten Ausgaben (Automation Bias) erkannt und verhindert werden kann. Aufsichtspersonen dürfen nicht durch die Systemgestaltung dazu verleitet werden, Ausgaben unkritisch zu übernehmen.
+### 3.2. Fünf Fähigkeiten nach Absatz 4 prüfen
 
-**Prüffragen:**
-- Gibt es Mechanismen, die Aufsichtspersonen aktiv zur Überprüfung von Ausgaben auffordern?
-- Sind Ausgaben so präsentiert, dass eine kritische Bewertung erleichtert wird?
+Buchstabe a betrifft angemessenes Verständnis von Fähigkeiten und Grenzen sowie Überwachung einschließlich Anomalien und Fehlfunktionen. Buchstabe b betrifft das Bewusstsein für Automatisierungsbias. Buchstabe c betrifft die richtige Interpretation der Ausgabe. Buchstabe d umfasst Nichtverwendung, Nichtbeachtung, Übersteuerung oder Rückgängigmachung einer Ausgabe. Buchstabe e verlangt Eingriff beziehungsweise Unterbrechung mit Stopptaste oder ähnlichem Verfahren in einen sicheren Zustand.
 
-## Pflicht 4 — Erkennung von Anomalien (Art. 14 Abs. 4 lit. c KI-VO)
+Prüfe an einem konkreten Durchlauf, welche Person vor welchem irreversiblen Schritt welche Information erhält. Liegt die Freigabe erst nach automatischem Versand der Ablehnung, verhindert sie die Entscheidung nicht. Ein Konfidenzwert ist nicht zwingend das passende Erklärungsinstrument; seine Aussagekraft muss zum System passen. Einen tatsächlich nicht durchgeführten Simulationstest als offenen Testauftrag ausweisen.
 
-Aufsichtspersonen müssen in der Lage sein, Anomalien, Funktionsstörungen und unerwartetes Verhalten des Systems zu erkennen und darauf zu reagieren. Das System muss entsprechende Signale liefern.
+### 3.3. Personenzuweisung und Sonderfall
 
-## Pflicht 5 — Eingriffs- und Stopp-Möglichkeit (Art. 14 Abs. 4 lit. d KI-VO) — Stop-Button-Konzept
+Artikel 26 Absatz 2 verpflichtet den Betreiber zur Zuweisung an natürliche Personen mit erforderlicher Kompetenz, Ausbildung, Befugnis und Unterstützung. Diese Regel steht nicht in Artikel 14 Absatz 5. Vertretung, Eskalation und verfügbare Bearbeitungszeit festlegen; nicht allein Schulungsbescheinigungen sammeln.
 
-Das System muss jederzeit deaktiviert, abgebrochen oder seine Entscheidung durch eine Aufsichtsperson überschrieben werden können. Diese Funktion muss technisch zuverlässig und für Aufsichtspersonen zugänglich sein.
+Artikel 14 Absatz 5 betrifft Systeme nach Anhang III Nummer 1 Buchstabe a: Keine Maßnahme oder Entscheidung allein aufgrund der Identifizierung, bevor mindestens zwei entsprechend kompetente, ausgebildete und befugte natürliche Personen die Identifizierung getrennt geprüft und bestätigt haben. Die gesetzliche Ausnahme für Strafverfolgung, Migration, Grenzkontrolle oder Asyl bei nach Unions- oder nationalem Recht unverhältnismäßiger Doppelkontrolle gesondert prüfen. Kein universelles Vier-Augen-Prinzip für jede KI und kein pauschaler Ausnahmeverweis bei Biometrie.
 
-**Prüffragen:**
-- Gibt es eine technische Möglichkeit, das System jederzeit zu stoppen?
-- Ist diese Funktion dokumentiert und für zuständige Aufsichtspersonen erreichbar?
+### 3.4. Ergebnis und Fortsetzung
 
-## Pflicht 6 — Kompetenzanforderungen an Aufsichtspersonen (Art. 14 Abs. 5 KI-VO)
+Mittel des Anbieters in der Betriebsanleitung und tatsächliche Betreiberumsetzung zusammenführen. Erkennbare Lücken führen zu einer konkreten Nachforderung oder Betriebsregel. Artikel 22 DSGVO bleibt eine gesonderte Zulässigkeitsprüfung; Aufsicht ersetzt keine gesetzlich erforderliche Ausnahme. Anwendungsdatum nach Artikel 111 und 113 bestimmen.
 
-Für biometrische Identifikationssysteme und andere Hochrisiko-KI-Systeme mit hohem Grundrechtseingriff gelten besondere Anforderungen: Die Aufsichtspersonen müssen über ausreichende Kompetenzen, Ausbildung und Befugnisse verfügen, um wirksam eingreifen zu können.
+## 4. Quellenpflicht
 
-**Prüffragen:**
-- Sind Aufsichtspersonen ausreichend geschult?
-- Haben sie die Befugnis, Systementscheidungen zu überschreiben?
+Artikel 14 Absätze 1 bis 5, Artikel 13 und Artikel 26 Absatz 2. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Verantwortungsverteilung
+## 5. Ausgabeformat
 
-**Anbieter:** Muss die technischen Mittel zur menschlichen Aufsicht bereitstellen und in der Gebrauchsanweisung beschreiben (Art. 13 i.V.m. Art. 14 KI-VO).
+Eine ausformulierte Aufsichtsanweisung mit Rolle, Handlungspunkt, Informationsgrundlage, Befugnis, sicherem Stopp, Vertretung und Nachweis; gegebenenfalls getrenntes Anforderungsschreiben an den Anbieter.
 
-**Betreiber:** Muss die menschliche Aufsicht tatsächlich organisieren, qualifizierte Aufsichtspersonen einsetzen und dafür sorgen, dass diese die Aufsichtsfunktion wahrnehmen (Art. 26 Abs. 1 und 2 KI-VO).
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Typische Praxisprobleme
+## 6. Beispiele
 
-- System hat einen theoretischen Stopp-Button, aber keine klaren Verfahren, wann und wie er verwendet wird.
-- Aufsichtspersonen wurden nicht ausreichend geschult.
-- System präsentiert Ausgaben so, dass eine unabhängige Überprüfung schwierig ist.
-- Kein dokumentierter Eskalationsprozess für den Fall, dass Aufsichtspersonen Ausgaben anzweifeln.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO MENSCHLICHE AUFSICHT ART 14
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 14 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine Bank zeigt nur fünf vom Agenten ausgewählte positive Fälle, während Ablehnungen automatisch versandt werden. Die Kontrolle dieser fünf Fälle trägt nicht die Behauptung, alle Entscheidungen seien menschlich überprüft.

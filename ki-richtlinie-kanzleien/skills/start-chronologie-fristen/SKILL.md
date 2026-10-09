@@ -115,7 +115,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Kanzleien und Rechtsabteilungen bei der Erstellung, Anpassung und regelmäßigen Aktualisierung einer berufsrechtskonformen KI-Nutzungsrichtlinie. Eine solche Richtlinie ist seit Inkrafttreten der KI-Kompetenz-Pflicht nach Art. 4 KI-VO (2. Februar 2025) und angesichts zunehmender KI-Nutzung in anwaltlichen Workflows keine Kuer mehr, sondern ein berufsrechtliches Erfordernis.
+Das Plugin unterstützt Kanzleien und Rechtsabteilungen bei einer praktikablen KI-Nutzungsrichtlinie. Diese ist ein Organisationsinstrument für konkrete Berufs-, Geheimhaltungs- und Datenschutzpflichten sowie angemessene Kompetenzmaßnahmen. Artikel 4 KI-Verordnung schreibt keine bestimmte Richtlinie und kein pauschales Pflichtzertifikat vor. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und BORA, die neuen Pflichten aus dem EU AI Act sowie die aktuellen Hinweise von BRAK und DAV zu einer praxistauglichen Richtlinienstruktur. Es richtet sich an Kanzleiinhaber, Compliance-Verantwortliche und Datenschutzbeauftragte.
 
@@ -131,7 +131,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 - **KI-Verordnung (EU AI Act)** — Verordnung (EU) 2024/1689; legt Pflichten für Anbieter und Betreiber von KI-Systemen fest.
 - Artikel 4 der Verordnung (EU) 2024/1689: Seit 27. Juli 2026 gilt die geänderte Pflicht zu kontextgerechten Fördermaßnahmen ohne Garantie eines bestimmten individuellen Kompetenzniveaus. Vorhandene geeignete Einweisungen verwerten; keinen Pflichtkurs aus einem fehlenden Zertifikat ableiten.
-- **Hochrisiko-KI** — KI-Systeme nach Anhang III KI-VO mit besonderen Anforderungen; z. B. KI in Personalentscheidungen.
+- **Hochrisiko:** Artikel 6 Absatz 1 mit Anhang I sowie Absatz 2 mit Anhang III; Ausnahme Absatz 3 nur im zweiten Pfad. Personal-KI anhand ihrer konkreten Funktion prüfen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Schatten-KI** — Nicht genehmigte KI-Dienste, die Mitarbeiter mit privaten Accounts nutzen; Verschwiegenheitsrisiko.
 - **§ 43e BRAO** — Berufsrechtliche Dienstleisterregelung für Rechtsanwaelte; verpflichtet zur Sorgfalt bei IT-Diensten.
 - **AVV** — Auftragsverarbeitungsvertrag nach Art. 28 DSGVO; Pflicht bei KI-Dienstleistern, die personenbezogene Daten verarbeiten.
@@ -177,7 +177,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - `kennzeichnungspflichten-veroeffentlichungen` — Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veroeffentlichungen prüfen.
 - `ki-kompetenz-erwerb-plan` — KI-Kompetenz-Schulungsplan nach Art. 4 KI-VO erstellen und dokumentieren.
 - `ki-vo-betreiber-pflichten` — KI-VO-Betreiber-Pflichten für Kanzleien erläutern und in Richtlinie umsetzen.
-- `ki-vo-hochrisiko-personalwesen` — Hochrisiko-Anforderungen für KI im HR-Bereich ab August 2026 prüfen.
+- `ki-vo-hochrisiko-personalwesen` — Recruiting und Personalmanagement nach Anhang III Nummer 4, Ausnahme Artikel 6 Absatz 3, Profiling sowie Artikel 111/113 prüfen.
 - `literatur-und-quellen` — Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien.
 - `musterklauseln-it-vertrag` — Musterklauseln für IT-Verträge mit KI-Dienstleistern (Verschwiegenheit, Training-Opt-out).
 - `prompting-leitfaden` — Prompting-Leitfaden für juristische KI-Nutzung mit Vorlagen und Checkliste.
@@ -194,7 +194,7 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 - **Schatten-KI ist das groesste Praxisproblem**: Viele Mitarbeiter nutzen private ChatGPT-Accounts; Mandatsdaten gelangen ohne AVV und ohne Belehrung an Drittanbieter.
 - **DSGVO und Berufsrecht parallel prüfen**: Ein AVV reicht für die berufsrechtliche Konformitaet nach § 43e BRAO nicht aus.
 - **Richtlinie mindestens alle sechs Monate aktualisieren**: KI-VO, BRAK-Stellungnahmen und neue Rechtsprechung ändern sich schnell.
-- **Hochrisiko-Klassifizierung für HR-KI ab August 2026**: Kanzleien, die KI in Personalentscheidungen nutzen, müssen bis dahin Konformitaetsbewertungen abschliessen.
+- **HR-KI vor Einführung prüfen:** Artikel 6 Absatz 2 mit Anhang III Nummer 4 und Ausnahme Absatz 3 prüfen. Konformitätsbewertung ist grundsätzlich Anbieteraufgabe; der Betreiber prüft seine Pflichten und einen möglichen Rollenwechsel. Anwendungszeitpunkt nach Artikel 111/113 konkret bestimmen.
 
 ## Typische Fehler
 
@@ -208,6 +208,6 @@ Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und
 
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum
-- KI-Verordnung (EU) 2024/1689, gueltig seit 2. August 2024; KI-Kompetenz-Pflicht seit 2. Februar 2025
+- KI-Verordnung in Kraft seit 01.08.2024; Artikel 4 gilt seit 02.02.2025 und wurde mit Wirkung zum 27.07.2026 neu gefasst. Artikel 4 verlangt in der seit 27.07.2026 geltenden Fassung angemessene Maßnahmen zur Unterstützung der Entwicklung von KI-Kompetenz. Ein bestimmtes individuelles Niveau, eine feste Kursdauer, jährliche Schulung oder ein Zertifikat werden dadurch nicht vorgeschrieben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - BRAK-Hinweise 12/2024
 - DAV-Stellungnahme Nr. 32/2025

@@ -70,7 +70,7 @@ Gegenstand, Datum und Fassungsstand: KI-Nutzungsrichtlinie, [Datum], [Entwurf / 
 
 ## 5. Protokollierung und Quellenkontrolle
 
-5.1 Alle Nutzungsvorgänge von KI-Werkzeugen der Klasse B nach Abschnitt 3.4 werden mit Zeitstempel, eingesetztem Werkzeug, Nutzerkennung und Mandatsbezug protokolliert. Die Protokolle werden mindestens drei Jahre aufbewahrt.
+5.1 Alle Nutzungsvorgänge von KI-Werkzeugen der Klasse B nach Abschnitt 3.4 werden mit Zeitstempel, eingesetztem Werkzeug, Nutzerkennung und Mandatsbezug protokolliert. Die Protokolle werden für [nach Zweck, Datenkategorie und einschlägigem Recht begründete Dauer] aufbewahrt und anschließend nach dem dokumentierten Löschkonzept behandelt. Eine pauschale dreijährige Frist folgt nicht aus der KI-Verordnung. Bei unter eigener Kontrolle stehenden automatisch erzeugten Hochrisiko-Systemprotokollen ist Art. 26 Abs. 6 einschließlich abweichender gesetzlicher Vorgaben gesondert zu prüfen.
 
 5.2 Protokolldaten dürfen ausschließlich zur Einhaltung dieser Richtlinie, zur Qualitätssicherung, zur Dokumentation von Berufsrechtspflichten und zur Abwehr von Haftungsansprüchen verwendet werden; eine weitergehende Nutzung zur Leistungsüberwachung von Mitarbeitenden ist unzulässig.
 
@@ -90,7 +90,7 @@ Gegenstand, Datum und Fassungsstand: KI-Nutzungsrichtlinie, [Datum], [Entwurf / 
 
 ## 7. Schulung, Sensibilisierung und Verstöße
 
-7.1 Alle Mitarbeiter, die KI-Werkzeuge einsetzen, werden vor dem erstmaligen Einsatz und danach mindestens jährlich zu den Anforderungen dieser Richtlinie geschult. Die Schulung wird schriftlich bestätigt.
+7.1 Alle Mitarbeiter, die KI-Werkzeuge einsetzen, werden vor dem erstmaligen Einsatz und danach mindestens jährlich zu den Anforderungen dieser Richtlinie geschult. Die Schulung wird schriftlich bestätigt. Der jährliche Turnus ist eine interne Organisationsregel. Art. 4 KI-Verordnung verlangt in seiner seit 27. Juli 2026 geltenden Fassung die Unterstützung der Entwicklung ausreichender KI-Kompetenz unter Berücksichtigung der tatsächlichen Kenntnisse und des Einsatzkontextes, keinen einheitlichen Jahreskurs. Für menschliche Hochrisiko-Aufsicht gilt gesondert Art. 26 Abs. 2.
 
 7.2 Verstöße gegen diese Richtlinie sind unverzüglich der [verantwortlichen Stelle] zu melden. Die Meldung enthält eine Beschreibung des Vorfalls, den Zeitpunkt, die betroffenen Daten und die bisher getroffenen Maßnahmen.
 

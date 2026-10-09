@@ -1,6 +1,6 @@
 # richter-verwaltungsgericht
 
-**14 Skills** · Stand `v445.33.1`
+**14 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-verwaltungsgericht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`richter-verwaltungsgericht-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`richter-verwaltungsgericht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [richter-verwaltungsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-verwaltungsgericht.zip) |
+| **Plugin (installierbar)** | ZIP | [richter-verwaltungsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/richter-verwaltungsgericht.zip) |
 
 ## So benutzt man einen Skill
 

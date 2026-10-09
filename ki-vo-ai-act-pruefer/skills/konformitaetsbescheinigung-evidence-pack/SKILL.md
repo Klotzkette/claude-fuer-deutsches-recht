@@ -38,7 +38,7 @@ Wenn diese Punkte nicht belegt sind, zuerst die passenden Fachmodule vorschlagen
 - `hochrisiko-art-6-abs-2-anhang-iii`
 - `hochrisiko-risikomanagementsystem-art-9`
 - `hochrisiko-technische-dokumentation-art-11-und-anhang-iv`
-- `hochrisiko-konformitaetsbewertung-art-43-bis-49`
+- `hochrisiko-konformitaetsbewertung-art-43`
 - `output-konformitaetserklaerung-eu-anhang-v`
 
 ## Output-Paket

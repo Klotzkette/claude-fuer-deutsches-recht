@@ -1,5 +1,9 @@
 # Checkliste Anbieter- und Betreiberpflichten KI-VO (Art. 16, 26)
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Die Checkliste berücksichtigt Art. 4 als Unterstützungspflicht, den auf Unionsorgane begrenzten Art. 26 Abs. 8 neben Art. 49 Abs. 3, den konkreten FRIA-Anwendungsbereich und abweichende gesetzliche Logfristen. Rollenwechsel lösen nur bei erfülltem Tatbestand die jeweilige Anbieterrolle aus. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Umfassender Compliance-Bogen für Anbieter und Betreiber von Hochrisiko-KI-Systemen nach VO (EU) 2024/1689, inkl. Prüfung des Rollenübergangs nach Art. 25 KI-VO und Maßnahmenplanung.
 
 ## Download
@@ -24,7 +28,7 @@ Die Checkliste dient der getrennten Freigabe eines Hochrisiko-KI-Systems aus Anb
 
 - Art. 4 KI-VO zur KI-Kompetenz sowie Art. 6 Abs. 2 bis 4 KI-VO zur Einstufung und Dokumentation von Systemen nach Anhang III.
 - Art. 9 bis 15, Art. 16 bis 22 und Art. 43, 47 bis 49 KI-VO zu Anforderungen, Anbieterpflichten, Konformitätsbewertung, Konformitätserklärung, CE-Kennzeichnung und Registrierung.
-- Art. 25 und 26 KI-VO zu Rollenwechsel und Betreiberpflichten, insbesondere Art. 26 Abs. 4 zu Eingabedaten, Abs. 5 zu Überwachung und Vorfällen, Abs. 6 zur Logaufbewahrung, Abs. 7 zur Beschäftigteninformation, Abs. 8 zur Registrierung öffentlicher Betreiber, Abs. 9 zur Datenschutz-Folgenabschätzung sowie Abs. 11 zur Information betroffener natürlicher Personen.
+- Art. 25 und 26 KI-VO zu Rollenwechsel und Betreiberpflichten, insbesondere Art. 26 Abs. 4 zu Eingabedaten, Abs. 5 zu Überwachung und Vorfällen, Abs. 6 zur Logaufbewahrung, Abs. 7 zur Beschäftigteninformation, Abs. 8 zur Registrierung von Unionsorganen neben Art. 49 Abs. 3 für öffentliche Betreiber, Abs. 9 zur Datenschutz-Folgenabschätzung sowie Abs. 11 zur Information betroffener natürlicher Personen.
 - Art. 27 KI-VO zur Grundrechte-Folgenabschätzung und Art. 72, 73 KI-VO zu Marktbeobachtung und Meldung schwerwiegender Vorfälle.
 - Art. 5, Art. 6, Art. 9, Art. 22, Art. 25, Art. 32, Art. 35 DSGVO bei Trainingsdaten, Profiling, automatisierter Entscheidung und Datenschutz-Folgenabschätzung.
 - §§ 2, 4, 6 GeschGehG für Trainingsdaten, Prompts, Modellartefakte und vertrauliche Auswertungen.

@@ -1,6 +1,6 @@
 # richter-amtsgericht-handelsregister
 
-**13 Skills** · Stand `v445.33.1`
+**13 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-amtsgericht-handelsregister/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`richter-amtsgericht-handelsregister-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`richter-amtsgericht-handelsregister-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [richter-amtsgericht-handelsregister.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/richter-amtsgericht-handelsregister.zip) |
+| **Plugin (installierbar)** | ZIP | [richter-amtsgericht-handelsregister.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/richter-amtsgericht-handelsregister.zip) |
 
 ## So benutzt man einen Skill
 

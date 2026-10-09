@@ -1,3 +1,13 @@
+# ki-verordnung-v445.35.0 – 2026-10-09
+
+Die repositoryweite KI-Verordnungs-Fachrunde verarbeitet 1.283 Ausgangsdateien mit 5.862 Suchtreffern. 48 betroffene Plugins erhalten ein eigenes Komponentenrelease. Der große KI-VO-Prüfer und der Transparenzprüfer werden fachlich aktualisiert; elf aktive Vorlagen werden einschließlich ODT- und Markdown-Download neu erzeugt. Historische Quellenprotokolle und tatsächliche Fallbehauptungen bleiben unterscheidbar.
+
+Drei neue Spezialplugins prüfen verbotene Praktiken, Register/Meldungen und Konformität. Der vorhandene Hochrisikoprüfer wird auf elf Skills erweitert. Alle vier Spezialplugins haben zehn Fachskills, einen Hauptproblem-Skill, Werkstatt, Mini und Hauptproblem-Prompt. Die Artikel-6-Prüfung trennt Produktpfad, sämtliche Anhang-III-Bereiche, Absatz-3-Ausnahme, Profiling und fortbestehende Dokumentations-/Registerfragen.
+
+Der Quellenstand berücksichtigt die amtlich gelesene Konsolidierung vom 27.07.2026, die Änderungsverordnung 2026/1744 und die deutsche Berichtigung vom 29.09.2026. Korrigiert werden unter anderem Zeitrecht, Rollen, Artikel 9/17/27, Artikel 4/4a, Artikel 50, Vorfallfristen und nicht tragfähige ISO-/FLOP-Pauschalen. Die Screenshots sind Prüfimpulse und keine Rechtsquelle. Eine pauschale vollständige Neuzertifizierung sämtlicher Rechtsaussagen im Repository wird nicht behauptet.
+
+Neun neue Akten enthalten 108 native Arbeitsdateien: 27 Word-Dateien, 27 PDF-Belege, 36 E-Mails, neun Excel-Arbeitsmappen und neun Chats. 19 echte E-Mail-Anhänge sind mit den gesonderten Originalen bytegleich. Gesamt-PDFs, Einzel-PDF-ZIPs, Original-ZIPs und acht PDF-Lesefassungen werden separat bereitgestellt. Bestehende Testakten bleiben erhalten. Quellen-, Datei-, Rechen-, Layout- und Anwendungsprüfungen mit ihren Grenzen stehen unter `quality/ki-verordnung-2026-10-09/`.
+
 # ki-native-kanzlei-v445.35.0 - 2026-10-09
 
 Zehn zusätzliche anwaltliche Skills erweitern den Bestand auf 30: Beweisaufbereitung, Forderungsberechnung, Dokumentenfertigung, Anlagenkontrolle, Erwiderung, Gerichtstermin, Vergleich, Kostenerstattung, Vollstreckung und Kanzleivorlagen. Hauptskill, Werkstatt, Mini und Hauptproblem verbinden diese Aufgaben mit den bestehenden Mandatsabläufen. Der neue Einstieg `/dokument` und die konkrete Produktwahl im Mandatslauf vermeiden wiederholte Gesamtaufnahme; offene Frist- und Freigabeentscheidungen behalten Vorrang.

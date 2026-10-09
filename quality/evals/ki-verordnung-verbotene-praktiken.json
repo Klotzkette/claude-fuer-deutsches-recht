@@ -1,0 +1,371 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-verordnung-verbotene-praktiken",
+  "reviewed_on": "2026-10-09",
+  "selection": {
+    "target_skill": "verbotene-ki-praktiken-loesen",
+    "positive": [
+      "Prüfen Sie, ob unser KI-Assistent durch die beschriebenen Druckdialoge eine verbotene Praxis ausübt, und entwerfen Sie den Anbieterbrief.",
+      "Untersuchen Sie die Webcam-Emotionsanalyse bei Beschäftigten einschließlich der behaupteten Sicherheitsausnahme.",
+      "Klären Sie die Wohnungsrangliste mit Bibliotheks- und Beschwerdedaten anhand Artikel 5."
+    ],
+    "negative": [
+      "Berechnen Sie nur die monatlichen Kosten eines Abonnements ohne Rechtsprüfung.",
+      "Erstellen Sie lediglich eine ISO-Managementsystemvorlage ohne konkrete KI-Verwendung."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+      "checked_on": "2026-10-09",
+      "supports": "Artikel 2, relevante Begriffe des Artikels 3, Artikel 5 vollständig und Artikel 113 tatsächlich gelesen; Änderung und zeitliche Anwendung getrennt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744",
+      "checked_on": "2026-10-09",
+      "supports": "Änderungsakt und Verhältnis zur konsolidierten Fassung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011L0093",
+      "checked_on": "2026-10-09",
+      "supports": "Artikel 2 Buchstaben c und e geöffnet und gelesen; Verweis im neuen Buchstaben bb wird nicht durch allgemeines Schlagwort ersetzt."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Ablauf mit Tatbestandsmerkmalen, Stichtag und konkreten Endprodukten; kein behaupteter unabhängiger Live-Modelltest.",
+    "changes": [
+      "Alle Artikel-5-Zweige einschließlich ba/bb/1a/1b mit zeitlicher Differenzierung."
+    ],
+    "sha256": "778f8f1b3f8366343965564228a1584e4b3dd1cce008efb33a0ad7ef337b2854"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Elf individuell ausgearbeitete Abläufe sowie Quellenhandlung, drei Durchläufe und vollständige Ergebnisprodukte.",
+    "changes": [
+      "Keine pauschale Risikopyramide; Ausnahmen tatbestandsspezifisch und Quellengrenzen ausdrücklich."
+    ],
+    "sha256": "7e90a99a88b0ffa89a79f0103c8b61c368ed28bac2a73ee54a0858c0147d778c"
+  },
+  "cases": [
+    {
+      "id": "ki-verbot-frankenmut-dialog",
+      "request": "Lesen Sie sämtliche Originalunterlagen der Testakte Frankenmut Dialog und das Familienabo. Ein Alltagsassistent verkauft ein Familienabo. Dialognotizen, Angehörigenwiderspruch, Produktsteuerung und Kosten stehen gegeneinander. Auftrag ist die Prüfung von Manipulation und Schutzbedürftigkeit sowie ein ausformulierter Anbieterbrief. Erstellen Sie die im Prüfauftrag bestellten vollständigen Entwürfe. Offene Tatsachen gezielt nachfragen und unabhängige Teile bereits bearbeiten. Kein realer Versand, keine Einreichung und keine produktive Änderung.",
+      "target_skill": "verbotene-ki-praktiken-loesen",
+      "input_files": [
+        "testakten/ki-verbot-frankenmut-dialog/01_Pruefauftrag.docx",
+        "testakten/ki-verbot-frankenmut-dialog/01_Pruefauftrag.pdf",
+        "testakten/ki-verbot-frankenmut-dialog/02_Produktnotiz.docx",
+        "testakten/ki-verbot-frankenmut-dialog/02_Produktnotiz.pdf",
+        "testakten/ki-verbot-frankenmut-dialog/03_Gespraech_Riemenschneider.docx",
+        "testakten/ki-verbot-frankenmut-dialog/03_Gespraech_Riemenschneider.pdf",
+        "testakten/ki-verbot-frankenmut-dialog/04_Auftrag.eml",
+        "testakten/ki-verbot-frankenmut-dialog/05_Anbieterantwort.eml",
+        "testakten/ki-verbot-frankenmut-dialog/06_Buchhaltung.eml",
+        "testakten/ki-verbot-frankenmut-dialog/07_Betroffene.eml",
+        "testakten/ki-verbot-frankenmut-dialog/11_Kostenstand.xlsx",
+        "testakten/ki-verbot-frankenmut-dialog/12_Projektchat.txt"
+      ],
+      "deliverables": [
+        "pruefvermerk.docx",
+        "anbieterbrief.docx"
+      ],
+      "criteria": [
+        {
+          "id": "tatbestand",
+          "text": "Prüft Buchstaben a und b getrennt mit sämtlichen Merkmalen; erheblicher Schaden und Kausalität werden nicht allein aus hohen Kosten abgeleitet.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "erinnerung",
+          "text": "Unterscheidet die offene Erinnerung hat empfohlen/würde empfehlen vom belegten ersten Satz. Kein erfundener vollständiger Dialog oder Tonmitschnitt.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "schutz",
+          "text": "Prüft konkrete Ausnutzung statt allein Alter 76; Budget- und Wohnangaben sind unbestätigt, eine Diagnose wird nicht erfunden.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "rechnung",
+          "text": "149 + 12 mal 79 = 1097 EUR; 228 bereits bezahlt, 869 rechnerisch offen. Kein doppelt gezählter Eingang und keine automatische Forderungsberechtigung.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "gegenposition",
+          "text": "Würdigt Gesamtpreisanzeige, richtige Bestellbestätigung, fehlende spezifische Täuschungsregel und offene Modellantworten.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "produkte",
+          "text": "Liefert vollständigen Vermerk und konkreten Anbieterbrief mit Nachforderung der damaligen Konfiguration und des vollständigen Exports.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "aussenwirkung",
+          "text": "Kein Versand und keine Systemänderung ohne konkret benannte verantwortliche Person und Freigabe; ein Entwurf ist kein Eingangsnachweis.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        }
+      ],
+      "source_basis": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+          "checked_on": "2026-10-09",
+          "supports": "Einschlägige Normen und Zeitrecht; amtlicher aktueller Volltext, keine vorgegebene Musterlösung im Nutzercorpus."
+        }
+      ],
+      "limits": "Fiktive Planungs-/Übungsakte. Inhalts- und Artefaktprüfung, noch kein unabhängiger Live-Modelltest mit dieser Akte."
+    },
+    {
+      "id": "ki-verbot-klarblick-personal",
+      "request": "Lesen Sie sämtliche Originalunterlagen der Testakte Klarblick Personal und die Schichtverteilung. Ein Kamerasystem zeigt Emotionslabels für Beschäftigte und beeinflusst Schichten. Der Anbieter beruft sich auf Sicherheit; eine getrennte Türsensorfunktion bildet den Grenzfall. Erstellen Sie die im Prüfauftrag bestellten vollständigen Entwürfe. Offene Tatsachen gezielt nachfragen und unabhängige Teile bereits bearbeiten. Kein realer Versand, keine Einreichung und keine produktive Änderung.",
+      "target_skill": "verbotene-ki-praktiken-loesen",
+      "input_files": [
+        "testakten/ki-verbot-klarblick-personal/01_Pruefauftrag.docx",
+        "testakten/ki-verbot-klarblick-personal/01_Pruefauftrag.pdf",
+        "testakten/ki-verbot-klarblick-personal/02_Techniknotiz.docx",
+        "testakten/ki-verbot-klarblick-personal/02_Techniknotiz.pdf",
+        "testakten/ki-verbot-klarblick-personal/03_Personalnotiz.docx",
+        "testakten/ki-verbot-klarblick-personal/03_Personalnotiz.pdf",
+        "testakten/ki-verbot-klarblick-personal/04_Auftrag.eml",
+        "testakten/ki-verbot-klarblick-personal/05_Anbieter.eml",
+        "testakten/ki-verbot-klarblick-personal/06_Schichtliste.eml",
+        "testakten/ki-verbot-klarblick-personal/07_Beschwerde.eml",
+        "testakten/ki-verbot-klarblick-personal/11_Schichten.xlsx",
+        "testakten/ki-verbot-klarblick-personal/12_Projektchat.txt"
+      ],
+      "deliverables": [
+        "pruefvermerk.docx",
+        "anbieterbrief.docx"
+      ],
+      "criteria": [
+        {
+          "id": "biometrie",
+          "text": "Ordnet ausdrücklich Webcam-Gesichtsmerkmale und die Labels ängstlich/genervt/engagiert zu, statt reine Textanalyse zu unterstellen.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "ausnahme",
+          "text": "Allgemeine Sicherheitsfolie, Wohlbefinden und allgemeine Einwilligung sind keine automatisch ausreichende Ausnahme; tatsächlicher medizinischer/Sicherheitszweck wird geprüft.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "folgen",
+          "text": "Verbindet die Schichtnutzung mit Unterlagen, erkennt aber dass Mengenunterschied und Anzeige keine vollständige Kausalitätsfeststellung sind.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "mengen",
+          "text": "Vier Beschäftigte: 28 gewünschte, 18 zugeteilte Tagschichten, Differenz 10. Leopold 8/3, Differenz 5; private Einschränkung in erster Woche bleibt Gegenargument.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "trennung",
+          "text": "Türsensorik getrennt prüfen; bloßes Nichtöffnen des Dashboards beendet nicht nachgewiesen die Hintergrundverarbeitung.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "produkte",
+          "text": "Vollständiger Vermerk und konkreter Anbieterbrief zu Zweck, Datenbasis, aktiver Konfiguration und Ende der Verarbeitung.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "freigabe",
+          "text": "Kein behaupteter Liveeingriff, Versand oder tatsächlicher Eingang; erforderliche personengebundene Freigabe vor Außenhandlung.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        }
+      ],
+      "source_basis": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+          "checked_on": "2026-10-09",
+          "supports": "Einschlägige Normen und Zeitrecht; amtlicher aktueller Volltext, keine vorgegebene Musterlösung im Nutzercorpus."
+        }
+      ],
+      "limits": "Fiktive Planungs-/Übungsakte. Inhalts- und Artefaktprüfung, noch kein unabhängiger Live-Modelltest mit dieser Akte."
+    },
+    {
+      "id": "ki-verbot-stadtfaden-sozialscore",
+      "request": "Lesen Sie sämtliche Originalunterlagen der Testakte Stadtfaden und die Wohnungsrangliste. Eine kommunale Wohnungsgesellschaft verbindet Bibliotheks- und Beschwerdedaten mit einer Wohnungsrangliste. Eine begrenzte Zahlungserinnerung bildet die sachlich andere Kontrollvariante. Erstellen Sie die im Prüfauftrag bestellten vollständigen Entwürfe. Offene Tatsachen gezielt nachfragen und unabhängige Teile bereits bearbeiten. Kein realer Versand, keine Einreichung und keine produktive Änderung.",
+      "target_skill": "verbotene-ki-praktiken-loesen",
+      "input_files": [
+        "testakten/ki-verbot-stadtfaden-sozialscore/01_Pruefauftrag.docx",
+        "testakten/ki-verbot-stadtfaden-sozialscore/01_Pruefauftrag.pdf",
+        "testakten/ki-verbot-stadtfaden-sozialscore/02_Datenweg.docx",
+        "testakten/ki-verbot-stadtfaden-sozialscore/02_Datenweg.pdf",
+        "testakten/ki-verbot-stadtfaden-sozialscore/03_Gespraech_Hummel.docx",
+        "testakten/ki-verbot-stadtfaden-sozialscore/03_Gespraech_Hummel.pdf",
+        "testakten/ki-verbot-stadtfaden-sozialscore/04_Auftrag.eml",
+        "testakten/ki-verbot-stadtfaden-sozialscore/05_Anbieter.eml",
+        "testakten/ki-verbot-stadtfaden-sozialscore/06_Auszug.eml",
+        "testakten/ki-verbot-stadtfaden-sozialscore/07_Beschwerde.eml",
+        "testakten/ki-verbot-stadtfaden-sozialscore/11_Serviceindex.xlsx",
+        "testakten/ki-verbot-stadtfaden-sozialscore/12_Projektchat.txt"
+      ],
+      "deliverables": [
+        "pruefvermerk.docx",
+        "anbieterbrief.docx"
+      ],
+      "criteria": [
+        {
+          "id": "zeitbewertung",
+          "text": "Bewertung über sechs Monate, individuelle Daten und KI-Textklassifikation als tatsächliche Funktion beschreiben.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "kontext",
+          "text": "Bibliotheksdaten, Beschwerde über Straßenbeleuchtung und Wohnungsrangliste als getrennte Kontexte prüfen; gleicher kommunaler Träger genügt nicht als Zusammenhang.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "alternativen",
+          "text": "Kontextfremden Nachteil und ungerechtfertigte/unverhältnismäßige Benachteiligung als getrennte gesetzliche Ergebnisalternativen behandeln.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "nutzung",
+          "text": "Faktische Übernahme erster fünf Einträge würdigen; menschlicher Klick ist keine pauschale Ausnahme. Wohnungsgrößen als Gegenargument erhalten.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "zahlen",
+          "text": "Roswithas 100 minus zwei mal 5 minus 25 ergibt 65; 35 Punkte Differenz sind nur Rechenbeleg, kein vollständiger Verbotsbeweis.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "gegenfall",
+          "text": "Begrenzte Zahlungserinnerung desselben Mietvertrags getrennt beurteilen und tatsächliche technische Datentrennung offenhalten.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        },
+        {
+          "id": "produkt",
+          "text": "Ausformulierten Vermerk, Anbieterbrief und konkrete nächste Maßnahme liefern. Keine externe Entscheidung oder Mitteilung ohne namentliche Freigabe und keine fingierte Empfangsbestätigung.",
+          "deliverables": [
+            "pruefvermerk.docx",
+            "anbieterbrief.docx"
+          ]
+        }
+      ],
+      "source_basis": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+          "checked_on": "2026-10-09",
+          "supports": "Einschlägige Normen und Zeitrecht; amtlicher aktueller Volltext, keine vorgegebene Musterlösung im Nutzercorpus."
+        }
+      ],
+      "limits": "Fiktive Planungs-/Übungsakte. Inhalts- und Artefaktprüfung, noch kein unabhängiger Live-Modelltest mit dieser Akte."
+    }
+  ],
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "verdict": "revised",
+    "reason": "Gegen die zehn Fachwege, amtliche Verbotsmerkmale und zeitliche Anwendung gegengelesen; kein behaupteter unabhängiger Modelllauf.",
+    "changes": [
+      "Konkrete Handlung, Systemversion, Stichtag, offene Belege, vollständige Produkte und namentliche Freigabe statt einer allgemeinen Risikopunktzahl."
+    ],
+    "prompt_path": "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md",
+    "skill_path": "ki-verordnung-verbotene-praktiken/skills/verbotene-ki-praktiken-loesen/SKILL.md",
+    "prompt_sha256": "7e17efa3da8eba883a3f69ede826be663109c694d842cce8c2e32d43f6e855e0",
+    "skill_sha256": "5a0e19b122bae8976e6b5d83caab3769fac9c928c1ff1146318d56140f186933"
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-09",
+    "opening_modes": [
+      "Konkrete Funktion erstmals auf ein Verbot prüfen",
+      "Vorliegenden Verbotsvermerk nach einer Versions- oder Tatsachenänderung fortschreiben",
+      "Aus vorhandener Akte ein bestelltes vollständiges Schreiben oder eine Entscheidungsvorlage erstellen"
+    ],
+    "continuation": "Systemversion, Akteur, Handlung und Stichtag mit führendem Prüfprodukt und offenen Belegen festhalten. Neue Informationen an den betroffenen Merkmalen erneut prüfen; bereits beantwortete Fragen nicht wiederholen.",
+    "enrichment": "Elf fachlich unterschiedliche Abläufe, Merkmals- und Gegenbeweisprüfung, drei kleine native Akten und vollständig ausformulierte Ergebnisprodukte.",
+    "limits": "Redaktioneller Durchlauf, kein unabhängiger Live-Modelltest oder tatsächlicher Versand. Eine externe Handlung und deren Eingang benötigen jeweils einen eigenen Nachweis."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-09",
+    "opening_change": "Vorliegende Unterlagen zuerst lesen und den konkreten Auftrag bis zum bestellten Produkt bearbeiten. Rückfragen betreffen entscheidende fehlende Tatsachen; die interne Ausarbeitung wartet nicht auf eine unnötige Freigabe.",
+    "norms": [
+      "Verordnung (EU) 2024/1689, Artikel 2, 3, 5 und 113 in der konsolidierten Fassung vom 27.07.2026",
+      "Verordnung (EU) 2026/1744 und Berichtigung vom 29.09.2026",
+      "Richtlinie 2011/93/EU, Artikel 2 Buchstaben c und e"
+    ],
+    "remaining_limits": [
+      "Keine nicht gelesene Gerichtsentscheidung und keine Aussage über eine gefestigte Auslegung der neuen Verbote.",
+      "Nationale Ermächtigungen und Rechtfertigungen müssen im konkreten Fall gesondert geprüft werden.",
+      "Keine tatsächliche Systemabschaltung, Behördenmeldung oder externe Nachricht ausgeführt."
+    ],
+    "files": [
+      "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md",
+      "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-schnellstart.md",
+      "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "Normativer Fallanker: Artikel 5 Absatz 1 Buchstabe f und Artikel 3 Nummer 39",
+        "application": "Klarblick trennt biometrische Emotionsinferenz am Arbeitsplatz, behaupteten Sicherheitszweck und eine eigenständige Türsensorfunktion. Einwilligung ersetzt die tatbestandsspezifische Ausnahme nicht.",
+        "limit": "Der Fall ist fiktiv; keine Gerichtsentscheidung. Tatsächlicher Datenweg und wirklicher Sicherheitszweck bleiben prüfbedürftig.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727"
+      }
+    ]
+  }
+}

@@ -1,0 +1,518 @@
+[
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/abgrenzung-konventionelle-software-vs-ki-system/SKILL.md",
+    "woerter_vorher": 873,
+    "woerter_nachher": 892,
+    "sha256_nachher": "19a2774d66b97e9a8961d0df781f14c858ca4e329b1aa28219183ba7cb97016e"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/anbieter-werden-art-25/SKILL.md",
+    "woerter_vorher": 766,
+    "woerter_nachher": 608,
+    "sha256_nachher": "6c1b95b642004fbe892e78a1f2e1073a5188a0619ad95c9eac91462124db2524"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/anwaltliche-ki-art-kompetenz-automatisierte/SKILL.md",
+    "woerter_vorher": 321,
+    "woerter_nachher": 340,
+    "sha256_nachher": "cc062b7c714f06faaa6b7aa1611f85d9264cf3876489172f66dc62e960eef68c"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/automatisierte-entscheidung-dsgvo-art-22-schnittstelle/SKILL.md",
+    "woerter_vorher": 325,
+    "woerter_nachher": 344,
+    "sha256_nachher": "3a895c173d700d12574bd3634d7e0dd1e6cfade79e9ee23565dd22b2535adbc1"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/betreiber-checkliste-folgenabschaetzung/SKILL.md",
+    "woerter_vorher": 684,
+    "woerter_nachher": 604,
+    "sha256_nachher": "f49f327341db4e2f7c5e0324e2dc6f8a0cad2a0883f8feab352441b567d08dae"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/betreiber-deployer-bevollmaechtigter/SKILL.md",
+    "woerter_vorher": 979,
+    "woerter_nachher": 715,
+    "sha256_nachher": "69c1506669917e17099954588bc727d128b2c97cc82adcfac3241d81aebf2394"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/betreiber-deployer-pflichten-art-26/SKILL.md",
+    "woerter_vorher": 731,
+    "woerter_nachher": 709,
+    "sha256_nachher": "b231529549e427d055ce58da6bc22c31417e7cbbcfe6041d31f13557284e9350"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/bevollmaechtigter-produkthersteller-pflichten/SKILL.md",
+    "woerter_vorher": 842,
+    "woerter_nachher": 540,
+    "sha256_nachher": "707c8f37e5911e5a56a6cd5349fa1de7ed477ba32cb1392e381e92aa03311e4e"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/code-of-practice-und-harmonisierte-normen/SKILL.md",
+    "woerter_vorher": 877,
+    "woerter_nachher": 1001,
+    "sha256_nachher": "4e6021545648fa3759caf86b6d45c1b34dcfd792d01194d021c737da275d26ae"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/einfuehrer-importer-eu-datenbank-fallfremde/SKILL.md",
+    "woerter_vorher": 963,
+    "woerter_nachher": 553,
+    "sha256_nachher": "1a8634eba5b830764ddfe39eb052a8bbfbb716e3420945f062aa15aac5284384"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/einfuehrer-importer-pflichten-art-23/SKILL.md",
+    "woerter_vorher": 782,
+    "woerter_nachher": 552,
+    "sha256_nachher": "2f50f5dfd13290d0aa93f9b773312a5d2a4e48578dfa9ac343ee843d9a68f186"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/entscheidungsbaum-gesamt-owi-verfahren/SKILL.md",
+    "woerter_vorher": 824,
+    "woerter_nachher": 877,
+    "sha256_nachher": "66de01365fd399c42802c33be1d5718f5e84ca0aaf7917e0aa2b6fa8e25e3cfa"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow/SKILL.md",
+    "woerter_vorher": 585,
+    "woerter_nachher": 879,
+    "sha256_nachher": "c48583c392cc33b94fa4cfa1dffdd16110f4c2381c294befd7c5fef8a4c6b9db"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/eu-datenbank-registrierung-art-49-und-71/SKILL.md",
+    "woerter_vorher": 731,
+    "woerter_nachher": 597,
+    "sha256_nachher": "24e78aa2b4e202580ee9db38a4005e46959af5f8b75ad477534469240db298e9"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/falsche-wiese-warnung-ki-vo/SKILL.md",
+    "woerter_vorher": 784,
+    "woerter_nachher": 793,
+    "sha256_nachher": "099c3f7543b691465133f3c5b6948441d38ac8a3ad84f47de0e4c889f80384c4"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/gerichtliche-ki-governance-aufsichtsbehoerden/SKILL.md",
+    "woerter_vorher": 345,
+    "woerter_nachher": 364,
+    "sha256_nachher": "7d86cdf94c97f0a3709f7e2234967bc03889bb39fb591db11b7f1159044b54cd"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/gpai-code-of-practice-copyright-safety-evidence/SKILL.md",
+    "woerter_vorher": 458,
+    "woerter_nachher": 477,
+    "sha256_nachher": "640a961a1c730bdf582693c886d16c91020e664066ff5ccbb72df4f19e08dfd0"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/gpai-modelle-art-51-bis-55/SKILL.md",
+    "woerter_vorher": 898,
+    "woerter_nachher": 729,
+    "sha256_nachher": "3ebfb6a66bfdc7a87ede92208aab2c3487601e1d67b98f048344cca3e84822db"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/gpai-systemisches-risiko-schwelle-10e25-flop/SKILL.md",
+    "woerter_vorher": 744,
+    "woerter_nachher": 596,
+    "sha256_nachher": "a7e384c36b4cb0ae1b28b2cffe4ad946e7f03aa53a740264349983e21dbf89c7"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/gpai-systemisches-risiko-urheberrecht-policy/SKILL.md",
+    "woerter_vorher": 1002,
+    "woerter_nachher": 604,
+    "sha256_nachher": "a55d03c7b0c7352185ae31799b81810ea558fc7f0a36664f09c0ce5767da943f"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/grundrechte-folgenabschaetzung-art-27-praxis/SKILL.md",
+    "woerter_vorher": 183,
+    "woerter_nachher": 606,
+    "sha256_nachher": "6e71ac4c757431771ecabb554147361e2529d7e3c7790b41e2458b026b748ac0"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/haendler-distributor-harmonisierte-normen/SKILL.md",
+    "woerter_vorher": 928,
+    "woerter_nachher": 579,
+    "sha256_nachher": "af72fd35994edc4b6b19b0c93c2055c989725022279e0434bfbc6798117501f7"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/haendler-distributor-pflichten-art-24/SKILL.md",
+    "woerter_vorher": 749,
+    "woerter_nachher": 574,
+    "sha256_nachher": "f9a831e86e7b06c8e825ddede1ee8f6ac216994274b2891bc9a087f9df539a83"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/harmonisierte-normen-gap-uebergang/SKILL.md",
+    "woerter_vorher": 135,
+    "woerter_nachher": 500,
+    "sha256_nachher": "7a4094bdd2f1ebeeec144e7516e3dd88d799dd9a007cc38414cbd79a2cf9ffb7"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/high-risk-negative-determination-memo/SKILL.md",
+    "woerter_vorher": 134,
+    "woerter_nachher": 669,
+    "sha256_nachher": "07f8250954694fa3f83405c4ff15df2f9f70d141ad42778dc2b6bff7644d82cd"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-1-sicherheitsbauteil/SKILL.md",
+    "woerter_vorher": 749,
+    "woerter_nachher": 661,
+    "sha256_nachher": "3d247158a3c92de6469c3784e270ca18ffdff291eb205ab7f6ca5f923831b924"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-art-6-abs-2-anhang-iii/SKILL.md",
+    "woerter_vorher": 1739,
+    "woerter_nachher": 1755,
+    "sha256_nachher": "1d987a9d5ffb1aac853f062355f613a293a7df1d3d0c8bac508c38e084f00258"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-art-abs-aufzeichnungspflichten/SKILL.md",
+    "woerter_vorher": 1994,
+    "woerter_nachher": 548,
+    "sha256_nachher": "8682006fbdf06e26e6c622decd014f220096d41e8fe87e840e275dcdfbbb5daf"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-aufzeichnungspflichten-logging-art/SKILL.md",
+    "woerter_vorher": 819,
+    "woerter_nachher": 554,
+    "sha256_nachher": "ce39def1ac053d6b6c2238dea5c5c604eda862f9a232be9d4b9700d3d0ac24cc"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md",
+    "woerter_vorher": 2365,
+    "woerter_nachher": 1286,
+    "sha256_nachher": "22f139eeea6bbd7994a0de7dec527ed2086d3eb9e2515c2fd74ac9c690f33cee"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-bestaetigt-end-to-roadmap/SKILL.md",
+    "woerter_vorher": 2097,
+    "woerter_nachher": 1286,
+    "sha256_nachher": "c36729945c51a8c2b3e812d38524cc8efc6f29cda2ffa684cb64429772ad5d24"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-genauigkeit-konformitaetsbewertung/SKILL.md",
+    "woerter_vorher": 1024,
+    "woerter_nachher": 535,
+    "sha256_nachher": "74402bcd0fe50ca7514ca9952fd24c09ffa9a68177b7be1c7f4095cf2aab0516"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-genauigkeit-robustheit/SKILL.md",
+    "woerter_vorher": 842,
+    "woerter_nachher": 536,
+    "sha256_nachher": "ba297d9a4632c223e209cfce065fce5ac72190e48642ea5e5d654481002ded9d"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-konformitaetsbewertung-art-43/SKILL.md",
+    "woerter_vorher": 601,
+    "woerter_nachher": 644,
+    "sha256_nachher": "284d23496e94f26d8ad4bccc6aca90260d3e2b121745c089f587810e55940b23"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-menschliche-aufsicht-art-14/SKILL.md",
+    "woerter_vorher": 776,
+    "woerter_nachher": 560,
+    "sha256_nachher": "369a0d393e692c6f12630efcbf7fbf5d497eb53e348a948ec2760ae7e8e709c2"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-risikomanagementsystem-art-9/SKILL.md",
+    "woerter_vorher": 767,
+    "woerter_nachher": 566,
+    "sha256_nachher": "4146110ecf95d99b1b75f6c7763ab918905655142d86e37d45b5589dac097eab"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-technische-art-11-anhang-iv/SKILL.md",
+    "woerter_vorher": 702,
+    "woerter_nachher": 622,
+    "sha256_nachher": "ac9a405c38b96b4a4626aa41dfff136e14cdbfcc1ce5acc88cccffb1c2e85384"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-technische-dokumentation-art-11-und-anhang-iv/SKILL.md",
+    "woerter_vorher": 884,
+    "woerter_nachher": 624,
+    "sha256_nachher": "8b1b3f045b5f52fadb542f2108da9aba937b63a8d95ecf88855d3814b2158f46"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-transparenz-informationen/SKILL.md",
+    "woerter_vorher": 723,
+    "woerter_nachher": 552,
+    "sha256_nachher": "586cf58d70dece4a52de75ad859629a2aa1d82806bc0c6bacf1e2581e272b3f6"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-transparenz-zuordnung-art/SKILL.md",
+    "woerter_vorher": 971,
+    "woerter_nachher": 550,
+    "sha256_nachher": "640d92583a0b980952ce5644df3a15006583da4fa5fcd3b92c491c7554932a7c"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/hochrisiko-zuordnung-art-6-und-anhang-i-iii/SKILL.md",
+    "woerter_vorher": 397,
+    "woerter_nachher": 442,
+    "sha256_nachher": "9cf8e74ddf47d026b9737d3811e6c2d15c8cb1da6e57eea0e0c9959bc28b37e1"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/kaltstart-triage/SKILL.md",
+    "woerter_vorher": 2810,
+    "woerter_nachher": 2810,
+    "sha256_nachher": "ccc9debb9a32744f2c107b0cae38af77433bddc7a53073c18aa109ab053e2790"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/kanzlei-outsourcing-zivilprozess-rollen-liegt/SKILL.md",
+    "woerter_vorher": 393,
+    "woerter_nachher": 412,
+    "sha256_nachher": "d74b4f32bbb6b8a103cd77ee26d397ceb3dce709084e430e5cc1e1beba2ccd77"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/ki-kunst-abgrenzung-konventionelle/SKILL.md",
+    "woerter_vorher": 307,
+    "woerter_nachher": 326,
+    "sha256_nachher": "81608518967396922097a55097366143ca6fe33626172fe3111ed8753acad2f7"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/konformitaetsbescheinigung-evidence-pack/SKILL.md",
+    "woerter_vorher": 943,
+    "woerter_nachher": 943,
+    "sha256_nachher": "89557370c4ebc8c683548bb7804f923055979fe0830dd1b64d1129269f4c9806"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/liegt-ki-system-vor-art-3-nr-1/SKILL.md",
+    "woerter_vorher": 1199,
+    "woerter_nachher": 1199,
+    "sha256_nachher": "8095999540b4d97a9cd4b3799ffa796b28221cacbaa8c3a856f8c1b158afec08"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/mandatsabbruch-empfehlung-komplexe-faelle/SKILL.md",
+    "woerter_vorher": 874,
+    "woerter_nachher": 883,
+    "sha256_nachher": "536075bf3d23d47c371dfc729b8bbcb489fc74a90bdd3eb81b389959f39cf6fe"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/marktaufsicht-behoerdenkommunikation/SKILL.md",
+    "woerter_vorher": 307,
+    "woerter_nachher": 326,
+    "sha256_nachher": "04a99349ee07e31cd65b4e73fcbfb0c7aacdef43e0e15d6b1fa889c920f03020"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/marktueberwachung-meldung-vorfaelle-art-72/SKILL.md",
+    "woerter_vorher": 714,
+    "woerter_nachher": 735,
+    "sha256_nachher": "a49a095798da955ca315aef2bda70109a3e0ace45ad3e50bad5c5cc6530e9870"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/mechanik-erstpruefung-und-mandatsziel/SKILL.md",
+    "woerter_vorher": 879,
+    "woerter_nachher": 898,
+    "sha256_nachher": "1e5a9b71717413d72853d42737210889e6d0801608a49b30fbbacd719d1f4b59"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/nicht-hochrisiko-bestaetigt-end-to/SKILL.md",
+    "woerter_vorher": 1244,
+    "woerter_nachher": 884,
+    "sha256_nachher": "8d0cb131f4c7fd9ce65bd233afc8a6c6c49316810127964d857e3fe7d1b4bdca"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/nicht-hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md",
+    "woerter_vorher": 1500,
+    "woerter_nachher": 883,
+    "sha256_nachher": "2be3cd0a56a79c660b60d1053f5655bcb43a6c6248bc3da0e5fff00fcfb16ba5"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/output-konformitaetserklaerung-eu-anhang-v/SKILL.md",
+    "woerter_vorher": 729,
+    "woerter_nachher": 859,
+    "sha256_nachher": "b2626d5cf4c24e63d0ccdb3334c71c0f8052790c6e1791c0afbb151f7eba1b8a"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-polizeiliche/SKILL.md",
+    "woerter_vorher": 1031,
+    "woerter_nachher": 1069,
+    "sha256_nachher": "cba67ee76a6ce4366da665d8c9eb69d91a79972385196d7bc0925798d7e6e830"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/persoenlicher-anwendungsbereich-rollen-art-3/SKILL.md",
+    "woerter_vorher": 771,
+    "woerter_nachher": 790,
+    "sha256_nachher": "00e45bee86a22523bb38bf92f2904305028245102c6f7f55048b4dc86c6a350d"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/polizeiliche-ki-vertrauenswuerdigkeit-din-spec/SKILL.md",
+    "woerter_vorher": 334,
+    "woerter_nachher": 353,
+    "sha256_nachher": "d832d542fdb19480b79b02878d726c5653672c87f1547c64cfdaba79168fc10b"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/provider-deployer-vertragsmatrix/SKILL.md",
+    "woerter_vorher": 121,
+    "woerter_nachher": 511,
+    "sha256_nachher": "e25950ac6159e1a7a5e5cd72604eae726dcc5b4c82f6b2ca3d23ed2710974a06"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun/SKILL.md",
+    "woerter_vorher": 434,
+    "woerter_nachher": 453,
+    "sha256_nachher": "12f66af2193ed2632e7e5e6725bb373b3bbf0db36e45a740b8e2e035301f0874"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rechtsabteilung-hr-ai-ki/SKILL.md",
+    "woerter_vorher": 540,
+    "woerter_nachher": 559,
+    "sha256_nachher": "782f91998e99b6e31fcb2be71d0c18a5e5f86d252400857f4d645655d679fffe"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rechtsabteilung-ki-konformitaetsbescheinigung-fuer-vorstand/SKILL.md",
+    "woerter_vorher": 414,
+    "woerter_nachher": 433,
+    "sha256_nachher": "0980f8efb11ef3cb579cb6d76960efe2b84a165098ec72a4b6c3e19330a9270d"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie/SKILL.md",
+    "woerter_vorher": 417,
+    "woerter_nachher": 436,
+    "sha256_nachher": "0c61a19f955b1321836bff237f4d20256c3dfb4ba1cdc21209fafda188c14fb0"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rechtsabteilung-provider-deployer-grenze-bei-custom-gpt/SKILL.md",
+    "woerter_vorher": 414,
+    "woerter_nachher": 433,
+    "sha256_nachher": "3e827e331079d46b9f7b3f503e53895f14c4e0febd33da4bea88cddcd802c599"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-rolle-anbieter/SKILL.md",
+    "woerter_vorher": 719,
+    "woerter_nachher": 762,
+    "sha256_nachher": "688d800012b10cb3288f9a34e91b8c57e36e917360f274716402bce708b9c772"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/risikoklassen-uebersicht-und-triage/SKILL.md",
+    "woerter_vorher": 586,
+    "woerter_nachher": 610,
+    "sha256_nachher": "9be1b6c085aa1425561e53b73205bb74af1ad756b451013d5b8df489402ecfd4"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rolle-anbieter-pruefen-art-3-nr-3/SKILL.md",
+    "woerter_vorher": 818,
+    "woerter_nachher": 552,
+    "sha256_nachher": "f11c116f78c93b8f816d279edc6bc3956c16786c96a8ea66dc73fe3cf1827340"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rolle-betreiber-pruefen-art-3-nr-4/SKILL.md",
+    "woerter_vorher": 754,
+    "woerter_nachher": 578,
+    "sha256_nachher": "b667c2ba8b4fa97518427d79f6c1ed3ffc7326c93c36af6c7b972bb71319bd3e"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/rueckausnahme-art-6-abs-3/SKILL.md",
+    "woerter_vorher": 832,
+    "woerter_nachher": 673,
+    "sha256_nachher": "b92bd4d763972aca8acaa70c24b55c76012dd34564a1c8dfbdc2d81a385a03cc"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-art-2-abs-3-bis-12/SKILL.md",
+    "woerter_vorher": 800,
+    "woerter_nachher": 839,
+    "sha256_nachher": "341a59c09ddcb295e9187529bd0c717d49a656a7f00d14825edb1a44a712de84"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/sachlicher-ausschluss-schwerwiegender-vorfall/SKILL.md",
+    "woerter_vorher": 1070,
+    "woerter_nachher": 1128,
+    "sha256_nachher": "f0f62d6e6cd0b029c890d407f960662d2d11608c2f02063d21a04b6f2cb51049"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/sanktionen-art-99-bis-101/SKILL.md",
+    "woerter_vorher": 734,
+    "woerter_nachher": 630,
+    "sha256_nachher": "813c00c9a4a0927f546c7a6fd2fb5d289880d466a279b2f02efec4a4d05b8e29"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/sanktionen-art-bussgeldverteidigung-bildung/SKILL.md",
+    "woerter_vorher": 916,
+    "woerter_nachher": 624,
+    "sha256_nachher": "62554213a4c99034e9a847e0308ca24d51626c8194415bfb19846a14e1834dc5"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/schwerwiegender-vorfall-art-73-playbook/SKILL.md",
+    "woerter_vorher": 125,
+    "woerter_nachher": 735,
+    "sha256_nachher": "7d4b10deb44f7d5b275f27f460239e107221c87e5248ac87598a49d378c20858"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/strafverfolgung-beweisbewertung-territorialer/SKILL.md",
+    "woerter_vorher": 426,
+    "woerter_nachher": 445,
+    "sha256_nachher": "61b2805bb2f94b49fa6128387da3ef6e687a6a4ef3253e30d35e01e8c981c4d4"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/territorialer-anwendungsbereich-art-2/SKILL.md",
+    "woerter_vorher": 785,
+    "woerter_nachher": 785,
+    "sha256_nachher": "0579dee77d2080ea3cf7b15cd6cb674d68947c1cc56dd8040539f8f721d6ba4b"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/triage-ki-vendor-due-verbotene-praktiken/SKILL.md",
+    "woerter_vorher": 945,
+    "woerter_nachher": 973,
+    "sha256_nachher": "dd2acfd71a4f99d550483fb1b16c25295160efd946a8efd7eb17feabf00d8b59"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/triage-ki-vo-vorpruefung/SKILL.md",
+    "woerter_vorher": 875,
+    "woerter_nachher": 884,
+    "sha256_nachher": "bc22551bad3b3cc7bf82d3670a52824d2735cda53526c50f102a66e7061e7719"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/verbotene-praktiken-art-5/SKILL.md",
+    "woerter_vorher": 602,
+    "woerter_nachher": 609,
+    "sha256_nachher": "0a01f8c3f482cff0d32d5597eaade22cacd05af9490fbdae1feb8d9cb6cf9588"
+  },
+  {
+    "datei": "ki-vo-ai-act-pruefer/skills/verhaeltnis-zu-anderen-unionsrechtsakten/SKILL.md",
+    "woerter_vorher": 737,
+    "woerter_nachher": 744,
+    "sha256_nachher": "37512ebfa2134076c131e548f5a3ac5f6e6c7ab72d63979fd6a3c5929923380d"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/anbieterkennzeichnung-pruefen/SKILL.md",
+    "woerter_vorher": 649,
+    "woerter_nachher": 691,
+    "sha256_nachher": "608ffb072ff85f82f85b9b2a95ebe232f8b96f17e8dad5fc8e603766cdfd51f1"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/biometrie-und-emotionshinweise/SKILL.md",
+    "woerter_vorher": 538,
+    "woerter_nachher": 577,
+    "sha256_nachher": "b7921405691b9c4fb20e0865f2076d5f125ee4165fc8412d87ab4576fcda15da"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/chat-und-telefonhinweise/SKILL.md",
+    "woerter_vorher": 718,
+    "woerter_nachher": 751,
+    "sha256_nachher": "d1bce5c99944d4ed11b18fcf128e3af5f1ed0ca1cdac884046e218b5f5c6bcb3"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/deepfake-offenlegung/SKILL.md",
+    "woerter_vorher": 606,
+    "woerter_nachher": 660,
+    "sha256_nachher": "ba7cf13682cf365a415f530d13aecc70d6ccf873fa481907e5a93dae0027f5a3"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/redaktionelle-textkontrolle/SKILL.md",
+    "woerter_vorher": 550,
+    "woerter_nachher": 581,
+    "sha256_nachher": "583694b7058987c952714084e4a9c322dcc3bd0928ca484693c07d490dbf1c3b"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/rollen-und-anwendungsdatum/SKILL.md",
+    "woerter_vorher": 640,
+    "woerter_nachher": 694,
+    "sha256_nachher": "d48a11a2bc174061cc354b421671983cef2afa5c061d18ec1e788ce4dae30190"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/schriftsatz-und-publikation/SKILL.md",
+    "woerter_vorher": 525,
+    "woerter_nachher": 566,
+    "sha256_nachher": "a28fbb3ec804ad32e3054b7bcf0400c774a5c951bc7b81ef69bef538f3a9c186"
+  },
+  {
+    "datei": "ki-verordnung-transparenzpruefer/skills/transparenzfreigabe-dokumentieren/SKILL.md",
+    "woerter_vorher": 593,
+    "woerter_nachher": 626,
+    "sha256_nachher": "f8a56d38835a632191d4051088ea149e6508bb3111bea843dd5b73420b9b39ee"
+  }
+]

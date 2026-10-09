@@ -29,7 +29,7 @@ Dieses Anschluss-Routing für **Robotik Recht** wählt nach dem ersten Ergebnis 
 ## Arbeitsweg
 
 - Ergebnis sichten: Welche Robotik- und KI-Recht-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (EU KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026), notwendige Dokumente (Konformitätserklärung, technische Dokumentation, Risikobewertung, CE-Kennzeichnung, FAT/SAT-Protokoll, Betriebsanleitung), nächste Verfahrensstufe oder Sachgebiet.
+- Anschlussweichen identifizieren: drohende Frist (KI-Verordnung: Artikel 111/113 und bei Maschinen Artikel 2 Absatz 2 sowie Anhang I Abschnitt B Nummer 21 prüfen, MaschinenVO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026), notwendige Dokumente (Konformitätserklärung, technische Dokumentation, Risikobewertung, CE-Kennzeichnung, FAT/SAT-Protokoll, Betriebsanleitung), nächste Verfahrensstufe oder Sachgebiet.
 - Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
 - Eskalation an Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
 - Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?

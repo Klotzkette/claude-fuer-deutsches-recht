@@ -1,111 +1,54 @@
 ---
 name: anbieter-werden-art-25
-description: "Für Anbieter-Werden — Art. 25 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft die drei Fälle des Artikels 25 Absatz 1, Produkthersteller und Zuliefermitwirkung. Trennt Systemänderung, Zweckänderung und GPAI-Modelländerung und entwirft Rollenvermerk und Vertragsregelung.
 ---
 
-# Anbieter-Werden — Art. 25 KI-VO
+# Anbieterwechsel entlang der Wertschöpfungskette
 
-## Vier Fallgruppen (Art. 25 Abs. 1 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-### Fallgruppe 1 — Inverkehrbringen unter eigenem Namen oder eigener Marke
+Bestimme, ob ein Händler, Einführer, Betreiber oder sonstiger Dritter Anbieter eines konkreten Hochrisikosystems wird. Ein beliebiger neuer Prompt oder geringes Fine-Tuning beantwortet diese Frage nicht.
 
-Wer ein Hochrisiko-KI-System oder GPAI-Modell unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt, wird Anbieter — unabhängig davon, ob er das System selbst entwickelt hat.
+## 2. Eingaben
 
-**Prüffragen:**
-- Bringen Sie ein fremdes KI-System unter Ihrem eigenen Namen oder Ihrer Marke auf den Markt?
-- Erscheint der ursprüngliche Anbieter im Vertrag, in der Dokumentation oder gegenüber dem Endkunden noch sichtbar?
+Ursprüngliche Zweckbestimmung, technische Dokumentation, ursprüngliche Bewertung, Änderungen, eigenes Kennzeichen, Vertrag, Vermarktung, Modell- und Systemgrenzen. Fehlende Rolle oder Fassung gezielt klären.
 
-**Wenn ja zum ersten, nein zum zweiten:** → Sie werden Anbieter nach Art. 25 Abs. 1 lit. a KI-VO.
+## 3. Ablauf und Checkliste
 
-**Konsequenz:** Sie müssen alle Anbieter-Pflichten nach Art. 16 bis 42 KI-VO erfüllen, einschließlich Konformitätsbewertung, CE-Kennzeichnung, EU-Konformitätserklärung und Registrierung in der EU-Datenbank.
+### 3.1. Drei Fälle des Absatzes 1
 
-### Fallgruppe 2 — Wesentliche Änderung nach dem Inverkehrbringen
+Buchstabe a betrifft eigenes Namens- oder Markenkennzeichen auf einem bereits vermarkteten oder in Betrieb genommenen Hochrisikosystem; vertragliche abweichende Pflichtaufteilung gesondert beachten. Die Sichtbarkeit des alten Anbieternamens ist keine alleinige Ausschlussbedingung.
 
-Ein Betreiber oder Händler, der ein bereits in Verkehr gebrachtes Hochrisiko-KI-System wesentlich verändert, wird Anbieter.
+Buchstabe b betrifft eine wesentliche Veränderung eines bereits vermarkteten oder in Betrieb genommenen Hochrisikosystems, das weiterhin hochriskant bleibt. Artikel 3 Nummer 23 verlangt den Vergleich mit der ursprünglichen Konformitätsbewertung: War die Änderung dort vorgesehen oder geplant, und wird Konformität mit Kapitel III Abschnitt 2 beeinflusst oder die bewertete Zweckbestimmung verändert? Nicht jedes Update oder jede Parametereinstellung ist wesentlich.
 
-**Was ist eine wesentliche Änderung?**
+Buchstabe c betrifft die Änderung der Zweckbestimmung eines zuvor nicht hochriskanten, bereits vermarkteten oder in Betrieb genommenen Systems, einschließlich GPAI-Systemen, zum Hochrisikosystem. Ein fachfremder Einsatz allein genügt nicht; der neue Artikel-6-Tatbestand muss erfüllt sein. Artikel 25 Absatz 1 hat drei Fälle. Die Produktherstellerkonstellation steht eigenständig in Absatz 3 und betrifft Abschnitt-A-Produkte.
 
-Nach Art. 3 Nr. 23 KI-VO ist eine wesentliche Änderung eine Änderung des KI-Systems nach seinem Inverkehrbringen, die die Konformität des Systems mit den Anforderungen beeinflussen kann oder die dazu führt, dass sich der Verwendungszweck, für den das KI-System bewertet wurde, verändert.
+### 3.2. Frühere und neue Verantwortung
 
-**Beispiele für wesentliche Änderungen:**
-- Erneutes Training des Modells mit neuen Daten
-- Änderung der Modellarchitektur
-- Anpassung der Ausgaben des Systems in einer Weise, die neue Entscheidungen ermöglicht
-- Erweiterung des Einsatzbereichs auf neue Nutzergruppen oder neue Entscheidungstypen
-- Konfiguration, die zu einer Änderung der Systemfunktionalität führt
+Nach Absatz 2 ist der Erstanbieter unter den dortigen Voraussetzungen nicht mehr Anbieter dieses spezifischen Systems. Er schuldet grundsätzlich Zusammenarbeit, erforderliche Informationen, zumutbaren technischen Zugang und Unterstützung, insbesondere technische Unterlagen, bekannte Grenzen und Fehlermodi sowie gezielte Testzugänge. Die Ausnahme bei eindeutig ausgeschlossenem Umbau zum Hochrisikosystem lesen; kein schrankenloser Anspruch auf alle Gewichte oder Geschäftsgeheimnisse.
 
-**Prüffragen:**
-- Haben Sie technische Änderungen am System vorgenommen (Code, Modell, Parameter)?
-- Haben Sie den Einsatzbereich oder die Zielgruppe verändert?
-- Haben Sie Konfigurationen vorgenommen, die über die vom Anbieter vorgesehenen Optionen hinausgehen?
+Absatz 3 erfasst den Produkthersteller beim gemeinsamen Inverkehrbringen unter seinem Namen oder seiner Marke und bei späterer entsprechender Inbetriebnahme des Sicherheitsbauteils. Die passende Konstellation und der Abschnitt-A-Bezug sind zu benennen.
 
-### Fallgruppe 3 — Änderung des bestimmungsgemäßen Verwendungszwecks
+### 3.3. Zuliefervereinbarung und Modellabgrenzung
 
-Wer das KI-System für einen anderen als den ursprünglich vorgesehenen Zweck einsetzt, wird Anbieter — auch ohne technische Änderung.
+Absatz 4 verlangt zwischen Hochrisikoanbieter und relevantem Dritten eine schriftliche Vereinbarung zu erforderlichen Informationen, Fähigkeiten, technischem Zugang und sonstiger Unterstützung. Die Ausnahme für bestimmte frei und quelloffen öffentlich bereitgestellte Instrumente, Dienste, Verfahren oder Komponenten gilt nicht pauschal für GPAI-Modelle. Absatz 5 wahrt geistiges Eigentum, vertrauliche Geschäftsinformation und Geschäftsgeheimnisse.
 
-**Beispiele:**
-- Ein Personalverwaltungs-Tool wird für die Bonitätsprüfung genutzt
-- Ein Bildklassifikationssystem für die Qualitätskontrolle wird für die Gesichtserkennung genutzt
-- Ein Text-Zusammenfassungstool wird für automatisierte Rechtsentscheidungen genutzt
+Die GPAI-Leitlinien Randnummern 60 bis 71 zur erheblichen Modelländerung und dem indikativen Drittel des Trainingsaufwands betreffen die Modellanbieterrolle. Auch unterhalb dieses Werts kann ein eigenständig integriertes oder umgewidmetes System Anbieterpflichten auslösen. Modell, System, Betreiber und Vertrag getrennt bilanzieren.
 
-**Prüffragen:**
-- Ist der tatsächliche Einsatzzweck identisch mit dem in der Gebrauchsanweisung des Anbieters beschriebenen Zweck?
-- Haben Sie das System für Entscheidungen genutzt, die der Anbieter nicht vorgesehen hat?
+### 3.4. Arbeitsergebnis
 
-### Fallgruppe 4 — Produkthersteller (Art. 25 Abs. 1 lit. c KI-VO)
+Formuliere die Rollenentscheidung pro Beteiligtem und Fassung. Benenne benötigte Nachweise und konkrete Mitwirkung; für offene Punkte verhandelbare Vertragsregel statt bloßer Pflichtliste. Artikel 111 und 113 bestimmen die zeitliche Anwendung, nicht eine Beschaffungspräsentation.
 
-Ein Hersteller eines Produkts, das ein Hochrisiko-KI-System als Sicherheitsbauteil enthält, wird Anbieter des Hochrisiko-KI-Systems, wenn er das Produkt unter seinem eigenen Namen in Verkehr bringt.
+## 4. Quellenpflicht
 
-→ Details: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Artikel 3 Nummern 3, 12 und 23, Artikel 25 vollständig; GPAI-Leitlinien Randnummern 57 und 60 bis 71 als unverbindliche Auslegung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Informationspflicht des ursprünglichen Anbieters (Art. 25 Abs. 2 KI-VO)
+## 5. Ausgabeformat
 
-Der ursprüngliche Anbieter muss dem neuen Anbieter (nach Art. 25) alle notwendigen Informationen bereitstellen, damit dieser seine Anbieter-Pflichten erfüllen kann. Dies ist vertraglich zu regeln.
+Rollenwechselvermerk und vollständig ausformulierte Vereinbarung über die tatsächlich benötigte Mitwirkung, mit zweckbezogenem Umfang, Versionen und Änderungsinformation. Keine neue Anbieterrolle allein aus einer Vertragsüberschrift.
 
-## Praktische Empfehlung
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Vor jeder Anpassung oder Umwidmung eines KI-Systems sollte geprüft werden:
-1. Überschreitet die Maßnahme die Schwelle zur wesentlichen Änderung?
-2. Liegt eine Zweckänderung vor?
-3. Wenn ja: Welche Anbieter-Pflichten müssen erfüllt werden?
-4. Sind die entsprechenden Ressourcen (technische Dokumentation, Konformitätsbewertung) vorhanden?
+## 6. Beispiele
 
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — ANBIETER WERDEN ART 25
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 25 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Konzern konfiguriert ein Textmodell zur automatischen Bewerberauswahl. Selbst wenn kein Training erfolgt, sind Systemanbieterrolle und Zweckänderung zu prüfen. Das Argument „unter einem Drittel FLOP“ beantwortet diese Systemfragen nicht.

@@ -1,115 +1,50 @@
 ---
 name: einfuehrer-importer-eu-datenbank-fallfremde
-description: "Für Einführer-Pflichten (Importer) — Art. 23 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: Bearbeitet fehlende Einführerunterlagen und zweifelhafte Registerbehauptungen bei importierten Hochrisikosystemen. Trennt Artikel 23 von Anbieterregistrierung und klärt die Beleglage vor der Bereitstellung.
 ---
 
-# Einführer-Pflichten (Importer) — Art. 23 KI-VO
+# Einführerpflichten vor und nach Markteintritt
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: bisherige Verbote seit 02.02.2025, neue Verbote ab 02.12.2026; GPAI und Transparenz nach eigener Regel. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, Anhang I ab 02.08.2028; Artikel 111 und 113 sowie einschlägige Zuständigkeit prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Prüfe die EU-Einführerrolle nach Artikel 3 Nummer 6 und die tatsächlich einschlägigen Artikel-23-Pflichten. Die Rollenbegriffsbestimmung ist nicht auf Hochrisiko beschränkt; die Pflichten dieses Artikels schon.
 
-## Wer ist Einführer?
+## 2. Eingaben
 
-Ein Einführer ist eine in der EU niedergelassene natürliche oder juristische Person, die ein Hochrisiko-KI-System in der EU in Verkehr bringt, das von einem nicht in der EU niedergelassenen Anbieter stammt.
+Lieferkette, Drittlandanbieter, erste EU-Bereitstellung, Produkt- und Systemfassung, Konformitätsverfahren, Unterlagen, Bevollmächtigter und Vertrag. Rollen nicht allein aus dem Wort „Reseller“ ableiten.
 
-**Abgrenzung zum Händler:** Der Einführer bringt das System als Erster in der EU in Verkehr; der Händler stellt ein bereits in der EU in Verkehr gebrachtes System bereit.
+## 3. Ablauf und Checkliste
 
-**Abgrenzung zum Betreiber:** Der Einführer handelt auf der Marktseite; der Betreiber verwendet das System in eigener Verantwortung.
+### 3.1. Prüfung vor Inverkehrbringen
 
-## Pflicht 1 — Sorgfaltsprüfung vor Inverkehrbringen (Art. 23 Abs. 1 KI-VO)
+Artikel 23 Absatz 1 verlangt Prüfung des einschlägigen Verfahrens nach Artikel 43, der technischen Dokumentation nach Artikel 11 und Anhang IV, erforderlicher CE-Kennzeichnung, beigefügter EU-Konformitätserklärung und Betriebsanleitungen sowie Benennung des Bevollmächtigten nach Artikel 22 Absatz 1. Eine EU-Datenbankpflicht ist gesondert nach Artikel 49 zu prüfen; sie ist nicht als zusätzlicher Buchstabe des Artikels 23 Absatz 1 zu erfinden.
 
-Bevor ein Einführer ein Hochrisiko-KI-System in der EU in Verkehr bringt, muss er sicherstellen, dass:
-- Die Konformitätsbewertung nach Art. 43 bis 49 KI-VO durchgeführt wurde
-- Der Anbieter die technische Dokumentation nach Art. 11 und Anhang IV erstellt hat
-- Das System die CE-Kennzeichnung trägt
-- Der Anbieter die EU-Konformitätserklärung nach Art. 47 ausgestellt hat
-- Der Anbieter in der EU-Datenbank registriert ist (Art. 49 und 71 KI-VO)
+Vergleiche Systemkennung, Version, Anbieter, Erklärung, Geltungsumfang und Aussteller. Ein Managementzertifikat ersetzt keine systembezogene Konformitätsbewertung. Bloßes Vorhandensein von Dateien ist kein Nachweis ihrer Echtheit oder sachlichen Passung.
 
-**Prüffragen:**
-- Haben Sie vom Anbieter alle genannten Dokumente und Nachweise erhalten?
-- Haben Sie die CE-Kennzeichnung und die Konformitätserklärung geprüft?
+### 3.2. Nichtkonformität und Information
 
-## Pflicht 2 — Prüfung auf Anzeichen mangelnder Konformität (Art. 23 Abs. 1 lit. c KI-VO)
+Nach Absatz 2 bei hinreichendem Grund für Nichtkonformität, Fälschung oder gefälschte Unterlagen nicht in Verkehr bringen, bis Konformität hergestellt ist. Bei Risiko nach Artikel 79 Absatz 1 Anbieter, Bevollmächtigte und Marktüberwachungsbehörden informieren. Das ist von der Anbietermeldung schwerwiegender Vorfälle nach Artikel 73 zu unterscheiden; kein allgemeines 15-Tage-Warten für sofort erforderliche Information.
 
-Der Einführer muss das Hochrisiko-KI-System auf Anzeichen prüfen, dass es nicht den Anforderungen der KI-VO entspricht. Er darf kein System in Verkehr bringen, wenn er Grund zur Annahme hat, dass es nicht konform ist.
+### 3.3. Eigene Angaben, Lagerung und Unterlagen
 
-**Prüffragen:**
-- Gibt es Hinweise, dass das System fehlerhaft ist oder risikobehaftet ist?
-- Hat der Anbieter bekannte Mängel nicht offengelegt?
+Absatz 3 verlangt Namen, Handelsnamen oder Marke und Kontaktanschrift auf Verpackung oder gegebenenfalls beigefügter Dokumentation. Absatz 4 betrifft Lagerung und Transport während der eigenen Verantwortung, soweit zutreffend. Bei Cloudvertrieb die fehlende physische Lagerung begründen, nicht die übrigen Pflichten streichen.
 
-## Pflicht 3 — Angabe der eigenen Kontaktdaten (Art. 23 Abs. 2 KI-VO)
+Absatz 5 verlangt zehn Jahre ab Inverkehrbringen oder Inbetriebnahme ein Exemplar der Bescheinigung der notifizierten Stelle sowie gegebenenfalls Betriebsanleitungen und EU-Konformitätserklärung. Nach Absatz 6 müssen erforderliche Informationen auf begründete Behördenanfrage in verständlicher Sprache übermittelt und die Verfügbarkeit technischer Dokumentation sichergestellt werden. Das ist nicht die pauschale Pflicht, selbst jede technische Rohdatei zehn Jahre zu besitzen. Absatz 7 regelt Zusammenarbeit bei behördlichen Maßnahmen.
 
-Der Einführer muss seine Identifikationsangaben (Name, Anschrift) auf dem System oder der Begleitdokumentation anbringen, damit er für Marktüberwachungsbehörden und andere Stellen erreichbar ist.
+### 3.4. Rollenwechsel und Ergebnis
 
-## Pflicht 4 — Lagerung und Transport (Art. 23 Abs. 3 KI-VO)
+Eigene Kennzeichnung, wesentliche Änderung oder Änderung zum Hochrisikozweck nach Artikel 25 prüfen; der Rollenwechsel steht nicht in Artikel 23 Absatz 5. Neue Anbieterpflichten folgen Artikel 16 und den jeweils einschlägigen Sachnormen, nicht pauschal „Artikel 16 bis 42“. Zeitlicher Pflichtbeginn, Bestand und Sektorrecht gesondert nachweisen. Nach Eingang fehlender Unterlagen den konkreten offenen Punkt neu bewerten.
 
-Wenn das Hochrisiko-KI-System physisch vorhanden ist: Der Einführer muss sicherstellen, dass die Lagerungs- und Transportbedingungen die Konformität nicht beeinträchtigen.
+## 4. Quellenpflicht
 
-## Pflicht 5 — Aufbewahrungspflichten (Art. 23 Abs. 4 KI-VO)
+Artikel 3 Nummer 6, Artikel 23 vollständig, Artikel 25, 49, 79, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-Der Einführer muss die Konformitätserklärung und — soweit zutreffend — die technische Dokumentation zehn Jahre aufbewahren und Behörden auf Anfrage vorlegen.
+## 5. Ausgabeformat
 
-## Wann wird der Einführer zum Anbieter? (Art. 23 Abs. 5 KI-VO)
+Prüfvermerk mit Freigabegrenzen und vollständiges Nachforderungsschreiben, das Dokument, Fassung, Rechtsgrund und benötigte Mitwirkung genau benennt. Behördliche Übermittlung nur auf Auftrag; kein unbelegtes Compliance-Attest.
 
-Der Einführer übernimmt die Pflichten eines Anbieters, wenn er:
-- Den Namen oder die Marke des Anbieters durch seinen eigenen Namen oder seine eigene Marke ersetzt
-- Das Hochrisiko-KI-System nach dem Inverkehrbringen wesentlich verändert
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-In diesen Fällen ist der Einführer vollständig für alle Anbieter-Pflichten nach Art. 16 bis 42 KI-VO verantwortlich.
+## 6. Beispiele
 
-**Prüffragen:**
-- Bringen Sie das System unter eigenem Namen oder eigener Marke in Verkehr?
-- Nehmen Sie wesentliche Änderungen am System vor?
-
-## Meldepflicht bei schwerwiegenden Risiken (Art. 23 Abs. 6 KI-VO)
-
-Der Einführer muss dem Anbieter und der nationalen Marktüberwachungsbehörde unverzüglich Meldung erstatten, wenn das System eine Gefahr für Gesundheit, Sicherheit oder Grundrechte darstellt.
-
-## Kooperation mit Marktüberwachungsbehörden (Art. 23 Abs. 7 KI-VO)
-
-Der Einführer muss mit nationalen Behörden kooperieren und Unterlagen auf Anfrage vorlegen.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — EINFUEHRER IMPORTER PFLICHTEN ART 23
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 23 Rn. 3]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein EU-Vertrieb erhält eine ISO-Bescheinigung für die Konzernzentrale des Drittlandanbieters. Fordere die Unterlagen für das konkrete angebotene System sowie den Bevollmächtigtennachweis an; bescheinige nicht auf Basis des Konzernzertifikats dessen Konformität.

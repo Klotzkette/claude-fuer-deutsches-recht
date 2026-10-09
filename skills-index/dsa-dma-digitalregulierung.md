@@ -1,6 +1,6 @@
 # dsa-dma-digitalregulierung
 
-**59 Skills** · Stand `v445.33.1`
+**59 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../dsa-dma-digitalregulierung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`dsa-dma-digitalregulierung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`dsa-dma-digitalregulierung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
+| **Plugin (installierbar)** | ZIP | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/dsa-dma-digitalregulierung.zip) |
 
 ## So benutzt man einen Skill
 

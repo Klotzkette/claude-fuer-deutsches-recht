@@ -23,7 +23,7 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 
 ## Rechtlicher Rahmen
 
-- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante, repräsentative, fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Artikel 4a neuer Fassung ersetzt Artikel 10 Absatz 5 für besondere Daten zur Bias-Korrektur: strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und frühestmögliche Löschung; Absatz 2 erweitert den Adressatenkreis nur unter zusätzlichen Voraussetzungen. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
+- **KI-VO Art. 10** Daten-Governance bei Hochrisiko-KI: relevante und hinreichend repräsentative sowie soweit wie möglich fehlerfreie und vollständige Trainings-, Validierungs- und Testdaten; Verfahren zur Erkennung möglicher Verzerrungen ("biases") und ihrer Behebung; Artikel 4a neuer Fassung ersetzt Artikel 10 Absatz 5 für besondere Daten zur Bias-Korrektur: strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und frühestmögliche Löschung; Absatz 2 erweitert den Adressatenkreis nur unter zusätzlichen Voraussetzungen. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
 - **KI-VO Art. 9** Risikomanagement.
 - **KI-VO Art. 15** Genauigkeit, Robustheit, Cybersicherheit.
 - **DSGVO** Art. 5, 9, 22, 25, 35.
@@ -50,7 +50,7 @@ Roboter, die Menschen erkennen, klassifizieren, priorisieren oder unterstützen 
 | Demographic Parity | klare Gleichheit | Performance-Einbuße | bei stark normativer Pflicht (z. B. Recruiting) |
 | Equal Opportunity | TPR-Gleichheit | komplizierter | bei sicherheitsbezogenen Anwendungen |
 | Synthese fehlende Subgruppen | Coverage erhöhen | Verteilungsverschiebung | nur wenn kontrolliert, mit Trennung Real vs. Synth |
-| Subgruppen-Performance nicht messen | "blind" | KI-VO-Verstoß | Messung notwendig (Art. 10 Abs. 2 lit. f) |
+| Fehlende Prüfung möglicher Verzerrungen | Beleglücke konkretisieren | Artikel 10 Absatz 2 Buchstaben f/g und Artikel 4a prüfen | Testplan nur mit zulässigen Daten und zweckbezogenen Gruppen; keine pauschale Erhebung sämtlicher sensibler Merkmale |
 
 ## Praxistipps
 

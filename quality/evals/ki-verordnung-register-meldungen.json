@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-verordnung-register-meldungen",
+  "reviewed_on": "2026-10-09",
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Individuelle Fachredaktion am amtlichen Volltext; kein behaupteter Live-Modelltest.",
+    "changes": [
+      "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung."
+    ],
+    "sha256": "db26390c5484b01dec89f56538cf2ce4de32f2740b7e23893d4cb11a1c07375e"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Zehn individuell ausgearbeitete Prüfabläufe, quellengebundene Entscheidung und vollständige Ergebnisprodukte. Kein tatsächlicher Portalversand getestet.",
+    "changes": [
+      "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide."
+    ],
+    "sha256": "2dc87ff4c45bcda63e8009274abc31c186320041a5105bbf16c2b13935fef7a8"
+  },
+  "selection": {
+    "target_skill": "register-und-meldung-loesen",
+    "positive": [
+      "Bearbeiten Sie den gesamten Vorgang mit KI-Verordnung Register und Meldungen und erstellen Sie einen begründeten Bericht.",
+      "Erstellen Sie für ein öffentlich betriebenes KI-System die erforderlichen Register- und Vorfallunterlagen und halten Sie offene Eingangsbelege nach."
+    ],
+    "negative": [
+      "Verbessern Sie nur die Grammatik ohne Rechtsprüfung.",
+      "Klassifizieren Sie ausschließlich den Risikostatus eines noch nicht eingesetzten Systems, ohne Register- oder Meldungsauftrag."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+      "checked_on": "2026-10-09",
+      "supports": "Gelesene einschlägige Artikel und Anhänge in aktueller konsolidierter Fassung."
+    }
+  ],
+  "cases": [
+    {
+      "id": "ki-register-fuldatal-sozialhilfe",
+      "request": "Lesen Sie sämtliche Originalunterlagen der Testakte Fuldatal und die neue Antragspriorisierung. Eine Behörde plant eine neue Priorisierung von Sozialhilfeanträgen. Der Anbieter bezeichnet das System als bloße Sortierung; eine spätere Version bewertet persönliche Merkmale. Auftrag sind Einstufungsübergabe, Register- und FRIA-Planung mit korrektem Zeitbezug. Erstellen Sie die im Prüfauftrag bestellten vollständigen Entwürfe. Offene Tatsachen gezielt nachfragen und unabhängige Teile bereits bearbeiten. Kein realer Versand, keine Einreichung und keine produktive Änderung.",
+      "target_skill": "register-und-meldung-loesen",
+      "input_files": [
+        "testakten/ki-register-fuldatal-sozialhilfe/01_Pruefauftrag.docx",
+        "testakten/ki-register-fuldatal-sozialhilfe/01_Pruefauftrag.pdf",
+        "testakten/ki-register-fuldatal-sozialhilfe/02_Versionsnotiz.docx",
+        "testakten/ki-register-fuldatal-sozialhilfe/02_Versionsnotiz.pdf",
+        "testakten/ki-register-fuldatal-sozialhilfe/03_Leitungsvorlage_Entwurf.docx",
+        "testakten/ki-register-fuldatal-sozialhilfe/03_Leitungsvorlage_Entwurf.pdf",
+        "testakten/ki-register-fuldatal-sozialhilfe/04_Auftrag.eml",
+        "testakten/ki-register-fuldatal-sozialhilfe/05_Anbieter.eml",
+        "testakten/ki-register-fuldatal-sozialhilfe/06_Planungswerte.eml",
+        "testakten/ki-register-fuldatal-sozialhilfe/07_Fachamt.eml",
+        "testakten/ki-register-fuldatal-sozialhilfe/11_Versionsvergleich.xlsx",
+        "testakten/ki-register-fuldatal-sozialhilfe/12_Projektchat.txt"
+      ],
+      "deliverables": [
+        "leitungsvorlage.docx",
+        "anbieterbrief.docx",
+        "registerdaten-entwurf.xlsx"
+      ],
+      "criteria": [
+        {
+          "id": "zeitrecht",
+          "text": "Den Stand 09.10.2026 vom geplanten Einsatz am 06.12.2027 trennen, den geltenden Artikel 113 und einen erneuten Rechtscheck vor dem Einsatz benennen. Keine bereits erfolgte Einführung oder Eintragung behaupten.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "versionen",
+          "text": "Version 1.1 mit Eingangsordnung von Version 2.0 mit persönlicher Dringlichkeitsbewertung und standardmäßig veränderter Reihenfolge trennen.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "profiling",
+          "text": "Die Ausnahme nach Artikel 6 Absatz 3 einschließlich der Profiling-Rückausnahme als Vorfrage konkret prüfen. Das Anbieteretikett Sortierung und eine menschliche Änderungsmöglichkeit genügen nicht.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "rollen",
+          "text": "Anbieter- und öffentlicher Betreiberrolle getrennt zuordnen; Registerpflicht und benötigte Eintragsdaten am jeweiligen Normpfad prüfen.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "fria",
+          "text": "Grundrechte-Folgenabschätzung, Datenschutzprüfung und Registervorgang nicht austauschbar behandeln; tatsächliche Voraussetzungen und Zeitrecht bestimmen.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "daten",
+          "text": "Fehlende Zweckbestimmung, Einstufungsbewertung, tatsächliche Prüfung und technische Beschreibung konkret beim Anbieter anfordern; vorhandene Daten bereits als Entwurf aufbereiten.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "freigabe",
+          "text": "Keine reale Eintragung, kein Portalzugang und kein bestätigter Eingang. Externe Handlung an konkrete namentliche Freigabe knüpfen und tatsächlichen Eingang später gesondert belegen.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        },
+        {
+          "id": "produkt",
+          "text": "Leitungsvorlage und Anbieterbrief vollständig ausformulieren; offener Entwurf wird nicht als beschlossene Freigabe ausgegeben.",
+          "deliverables": [
+            "leitungsvorlage.docx",
+            "anbieterbrief.docx",
+            "registerdaten-entwurf.xlsx"
+          ]
+        }
+      ],
+      "source_basis": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+          "checked_on": "2026-10-09",
+          "supports": "Einschlägige Normen und Zeitrecht; amtlicher aktueller Volltext, keine vorgegebene Musterlösung im Nutzercorpus."
+        }
+      ],
+      "limits": "Fiktive Planungs-/Übungsakte. Inhalts- und Artefaktprüfung, noch kein unabhängiger Live-Modelltest mit dieser Akte."
+    },
+    {
+      "id": "ki-meldung-mainbogen-notruf",
+      "request": "Lesen Sie sämtliche Originalunterlagen der Testakte „Mainbogen und der Vorfall in der Übungsleitstelle“. Eine ausdrücklich zukünftige Vorfallübung trennt Kenntnis des Betreibers, Kenntnis des Anbieters, Kausalitätsverdacht und Erstbericht. Mehrere Standorte sowie möglicher Zweitagespfad statt pauschaler 15 Tage sind aufzuklären. Erstellen Sie die im Prüfauftrag bestellten vollständigen Entwürfe. Offene Tatsachen gezielt nachfragen und unabhängige Teile bereits bearbeiten. Kein realer Versand, keine Einreichung und keine produktive Änderung.",
+      "target_skill": "register-und-meldung-loesen",
+      "input_files": [
+        "testakten/ki-meldung-mainbogen-notruf/01_Pruefauftrag.docx",
+        "testakten/ki-meldung-mainbogen-notruf/01_Pruefauftrag.pdf",
+        "testakten/ki-meldung-mainbogen-notruf/02_Uebungschronologie.docx",
+        "testakten/ki-meldung-mainbogen-notruf/02_Uebungschronologie.pdf",
+        "testakten/ki-meldung-mainbogen-notruf/03_Erstbericht_Entwurf.docx",
+        "testakten/ki-meldung-mainbogen-notruf/03_Erstbericht_Entwurf.pdf",
+        "testakten/ki-meldung-mainbogen-notruf/04_Auftrag.eml",
+        "testakten/ki-meldung-mainbogen-notruf/05_Anbietersicht.eml",
+        "testakten/ki-meldung-mainbogen-notruf/06_Zeitrechnung.eml",
+        "testakten/ki-meldung-mainbogen-notruf/07_Standortfrage.eml",
+        "testakten/ki-meldung-mainbogen-notruf/11_Uebungszeiten.xlsx",
+        "testakten/ki-meldung-mainbogen-notruf/12_Projektchat.txt"
+      ],
+      "deliverables": [
+        "erstbericht-entwurf.docx",
+        "fristen-und-rollen.docx"
+      ],
+      "criteria": [
+        {
+          "id": "simulation",
+          "text": "Alle Vorfälle als ausdrücklich erfundene Übung zum 08.12.2027 behandeln; Aktenstand ist der 09.10.2026. Keine echten Patienten oder eingegangene Meldungen erfinden.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "kenntnis",
+          "text": "Die Betreiberbeobachtung um 08:10 Uhr, das Anbieterticket um 08:25 Uhr, die Betreiberkenntnis von der schweren Folge um 10:20 Uhr, die Anbieterinformation um 10:45 Uhr und den Kausalitätsverdacht um 12:00 Uhr auseinanderhalten.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "fristen",
+          "text": "Artikel 73 Absätze 2 bis 4 auf den allgemeinen Höchstzeitraum von 15 Tagen, den besonderen Zweitagespfad und den Todesfallpfad von zehn Tagen prüfen. Eine schwere Verletzung nicht als bestätigten Todesfall behandeln. Die Pflicht zu unverzüglichem Handeln gesondert prüfen.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "ausbreitung",
+          "text": "Mehrere Standorte nicht ohne Normmerkmale als weitverbreiteten Verstoß behandeln; ausländische Version und tatsächliche Zusammenhänge offen. Öffentliche Gesundheit als eigener Tatbestandsbezug prüfen.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "rollen",
+          "text": "Betreiberreaktion und Anbieterbericht trennen; Systemvorfall nicht automatisch als GPAI-Meldung behandeln.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "erstbericht",
+          "text": "Trotz offener endgültiger Ursache vollständigen sachlich begrenzten Erstbericht mit vorhandenen Angaben, Unsicherheiten, Maßnahmen und Ergänzungsplan erstellen.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "rechnung",
+          "text": "155 Minuten entsprechen 155/60 Stunden. 48 und 360 Stunden sind bloße Vergleichswerte. Den rechnerischen Zeitpunkt null um 08:10 Uhr nicht ohne Rechtsprüfung zum Fristbeginn machen.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        },
+        {
+          "id": "aussenwirkung",
+          "text": "Kein Versand; namentliche Freigabe, Empfängerzuständigkeit und tatsächlicher Zugangsnachweis bei späterer Außenhandlung getrennt dokumentieren.",
+          "deliverables": [
+            "erstbericht-entwurf.docx",
+            "fristen-und-rollen.docx"
+          ]
+        }
+      ],
+      "source_basis": [
+        {
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+          "checked_on": "2026-10-09",
+          "supports": "Einschlägige Normen und Zeitrecht; amtlicher aktueller Volltext, keine vorgegebene Musterlösung im Nutzercorpus."
+        }
+      ],
+      "limits": "Fiktive Planungs-/Übungsakte. Inhalts- und Artefaktprüfung, noch kein unabhängiger Live-Modelltest mit dieser Akte."
+    }
+  ],
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "verdict": "revised",
+    "reason": "Hauptproblem gegen die zehn fachlichen Wege, amtlichen Wortlaut und konkrete Produkt-/Fortsetzungslogik gegengelesen; kein behaupteter Modelllauf.",
+    "changes": [
+      "Zeitrecht, Rollen, konkrete Ergebnisse und nachvollziehbare externe Handlung getrennt."
+    ],
+    "prompt_path": "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md",
+    "skill_path": "ki-verordnung-register-meldungen/skills/register-und-meldung-loesen/SKILL.md",
+    "prompt_sha256": "80d03ed4f0f2e36300f4af0a27950ff79375e8cd8e24245ae4f6062b01b1f2b0",
+    "skill_sha256": "de813f86e9bf4b53214c6ff1bdcc88a919dff69c40e94d8328c1e9767ce57208"
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-09",
+    "opening_modes": [
+      "Erstmalige Tatbestands- und Rollenprüfung",
+      "Vorhandenes Dossier oder Meldung gezielt korrigieren",
+      "Konkretes vollständiges Ergebnisstück erstellen"
+    ],
+    "continuation": "Führende Fassung, Tatsachenänderung und offene Fragen im Statusblock festhalten; betroffene Schritte gezielt erneut prüfen.",
+    "enrichment": "Artikelgenaue Verfahren, Dokumentationsnachweise, Gegenfälle und ausformulierte Produkte.",
+    "limits": "Keine echte Portalanbindung oder Einreichung erprobt; Empfang darf nicht aus Versandabsicht geschlossen werden."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-09",
+    "opening_change": "Unterlagen zuerst auswerten; nur entscheidende Lücken erfragen, unabhängige Arbeit fortsetzen.",
+    "norms": [
+      "Verordnung (EU) 2024/1689 in Fassung 27.07.2026",
+      "Verordnung (EU) 2026/1744 und Berichtigung vom 29.09.2026"
+    ],
+    "remaining_limits": [
+      "Keine Behauptung einer abschließend gesicherten Auslegung aller Zeitverschränkungen.",
+      "Kein amtlicher Konformitätsbescheid und keine tatsächliche Meldung erstellt."
+    ],
+    "files": [
+      "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.md",
+      "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-schnellstart.md",
+      "ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "Normativer Fallanker: Artikel 6 Absatz 4 / Artikel 49 Absatz 2",
+        "application": "Dokumentation und Registrierung der Ausnahmebewertung bleiben nach geltendem Text erforderlich.",
+        "limit": "Zeitrecht und tatsächliche Anbieterrolle gesondert; keine erdachte Gerichtsentscheidung.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727"
+      }
+    ]
+  }
+}

@@ -9,7 +9,7 @@ description: "Für digitale Werkzeuge-Richtlinien-Starter: ordnet Norm, Beweisla
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -47,7 +47,7 @@ description: "Für digitale Werkzeuge-Richtlinien-Starter: ordnet Norm, Beweisla
 
 **Kommentare**
 
-- Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4 Rn. 3 ff.
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
  (KI-Kompetenzverpflichtung; interne Richtliniengestaltung).
 - Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22 Rn. 1 ff.
 - Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.
@@ -72,7 +72,7 @@ Update-Modus (bestehende Richtlinie als Basis). Wenn leer: Erstfassung.
 > 3. Freigabe und Prüfung (Genehmigungsworkflow)
 > 4. Offenlegung (Kunden, Mitarbeiter, Dritte; DSGVO Art. 13/14)
 > 5. Datenhandhabung (vertrauliche Daten, Anbieter-Training; GeschGehG)
-> 6. Schulung und Zertifizierung (Art. 4 KI-VO)
+> 6. Angemessene Kompetenzmaßnahmen und deren interne Dokumentation nach Artikel 4; keine allgemeine Zertifikatspflicht.
 > 7. Vorfälle und Meldung (Art. 73 KI-VO Betreiber-Meldeobliegenheiten)
 > 8. Durchsetzung (Verweis auf Disziplinarrahmen)
 > 9. Überprüfungsrhythmus und Verantwortung (mind. jährlich)
@@ -86,7 +86,7 @@ Anwendungskontext (Unternehmen / Konzern / Kanzlei / Behörde).
 **Schritt 3 — Musterquellen recherchieren**
 
 Aktuelle veröffentlichte Muster-KI-Richtlinien und Leitlinien suchen:
-- Deutschland/EU: AI Act direkt (Art. 4, 9, 26, 29); EDPB Guidelines 01/2022
+- Deutschland/EU: Artikel 4 (Kompetenzmaßnahmen), Artikel 9 (Anbieter-Risikomanagement), Artikel 26 (Hochrisiko-Betreiber) nach Rolle und Datum; DSGVO und Beschäftigtenmitbestimmung eigenständig prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
  (Art. 22 DSGVO); DSK-Orientierungshilfen; BSI-Empfehlungen; Bitkom/DAV-
  Leitlinien; veröffentlichte Unternehmensrichtlinien aus DAX-Umfeld.
 - Jeden verwendeten Quellennachweis im **Quellenblock** dokumentieren:
@@ -117,7 +117,7 @@ Freigabe-Checkliste am Ende:
 
 **Anfrage:** KI-Richtlinie für 200-Personen-Unternehmen mit Betriebsrat,
 Abschnitte 1, 2, 3, 5 und 9. **Vorgehen:** Betreiberrolle, Deutschland;
-AI Act Art. 4/26/29; EDPB Guidelines 01/2022; § 87 Abs. 1 Nr. 6 BetrVG.
+Artikel 4 und gegebenenfalls Artikel 26 KI-Verordnung rollenbezogen prüfen; Artikel 29 betrifft den Antrag einer Konformitätsbewertungsstelle auf Notifizierung. Datenschutz und Mitbestimmung gesondert. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 Abschnitt 3 (Freigabe): Hinweis, dass neue KI-Tools ggf. Betriebsrats-
 Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]`.
 
@@ -132,12 +132,12 @@ Zustimmung erfordern `[prüfen — § 87 BetrVG; anwaltliche Prüfung empfohlen]
 
 ## Quellenpflicht
 
-- **AI Act Art. 4, 9, 26/29** — VO (EU) 2024/1689.
+- **KI-Verordnung:** Artikel 4, Artikel 9 nur im zutreffenden Anbieterpfad und Artikel 26 nur im zutreffenden Betreiberpfad. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSGVO Art. 22** bei automatisierten Entscheidungen.
 - **§ 87 Abs. 1 Nr. 6 BetrVG** bei Mitarbeiter-KI.
 - **GeschGehG §§ 2, 4** bei Abschnitt zu vertraulichen Daten.
  Entscheidungen.
-- **Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 4.**
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 22.**
 - **Erfurter Kommentar/Müller-Glöge, 24. Aufl. 2024, § 87 BetrVG Rn. 32 ff.**
 
@@ -184,7 +184,7 @@ an [ANSPRECHPARTNER] zu melden.
 
 § 7 Schulung
 Alle Mitarbeiter, die KI-Systeme einsetzen, besuchen die verpflichtende
-KI-Schulung bis [DATUM] (Art. 4 KI-VO Kompetenzgebot).
+Intern vereinbarte Kompetenzmaßnahme bis [DATUM] durchführen; dieser Termin ist keine gesetzlich bestimmte Schulungsfrist aus Artikel 4 KI-Verordnung.
 
 Ansprechpartner KI-Governance: [NAME, EMAIL]
 Datenschutzbeauftragter: [NAME, EMAIL]

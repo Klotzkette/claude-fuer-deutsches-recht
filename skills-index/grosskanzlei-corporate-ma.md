@@ -1,6 +1,6 @@
 # grosskanzlei-corporate-ma
 
-**229 Skills** · Stand `v445.33.1`
+**229 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../grosskanzlei-corporate-ma/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`grosskanzlei-corporate-ma-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`grosskanzlei-corporate-ma-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grosskanzlei-corporate-ma/grosskanzlei-corporate-ma-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [grosskanzlei-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
+| **Plugin (installierbar)** | ZIP | [grosskanzlei-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/grosskanzlei-corporate-ma.zip) |
 
 ## So benutzt man einen Skill
 

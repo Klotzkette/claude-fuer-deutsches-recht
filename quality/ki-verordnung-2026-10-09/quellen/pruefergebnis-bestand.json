@@ -1,0 +1,103 @@
+{
+  "ki-vo-ai-act-pruefer": {
+    "skills": 123,
+    "prompts": {
+      "schnellstart": {
+        "utf8_bytes": 7451,
+        "sha256": "a76b23aec2d28394c5e7152e30736822f7dde8424da1c806fffde8af215b9094",
+        "md_txt_identisch": true
+      },
+      "werkstatt": {
+        "utf8_bytes": 32472,
+        "sha256": "b8579c057b651c5357647583f3c358966c82ef5a06c43b213d202396d0ddbb7f",
+        "md_txt_identisch": true
+      },
+      "hauptproblem": {
+        "utf8_bytes": 4838,
+        "sha256": "9bc1d8cf069d3862f13568e49e62153ad6ba3eab9275315d975f4e0793bf60c2",
+        "md_txt_identisch": true
+      }
+    },
+    "validate_profile": "OK"
+  },
+  "ki-verordnung-transparenzpruefer": {
+    "skills": 8,
+    "prompts": {
+      "schnellstart": {
+        "utf8_bytes": 7495,
+        "sha256": "36aeb3a19700b1e76f47fd99e8642f683ace1f52da6cdb1e2019042edea9ece1",
+        "md_txt_identisch": true
+      },
+      "werkstatt": {
+        "utf8_bytes": 24486,
+        "sha256": "7f5d41ca2fa40508a3a72f5b191bd9355ef54544345e2439be3786d611b8239d",
+        "md_txt_identisch": true
+      },
+      "hauptproblem": {
+        "utf8_bytes": 4969,
+        "sha256": "154bfdcd6f19c40b6779eec4a71e7d3c288c712a61a2a19a48a8b27a87c7f7a6",
+        "md_txt_identisch": true
+      }
+    },
+    "validate_profile": "OK"
+  },
+  "quellenarchive_hashes": 5,
+  "vorlagen": [
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-due-diligence-anforderungsliste-ai-act/ki-due-diligence-anforderungsliste-ai-act.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-vo-konformitaetserklaerung-hochrisiko-system/ki-vo-konformitaetserklaerung-hochrisiko-system.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-systeminventar-due-diligence-ai-act/ki-systeminventar-due-diligence-ai-act.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/verbotene-ki-praktiken-pruefung-ai-act/verbotene-ki-praktiken-pruefung-ai-act.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-konformitaet-und-registrierung-due-diligence/ki-konformitaet-und-registrierung-due-diligence.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-vo-anbieter-und-betreiberpflichten-checkliste/ki-vo-anbieter-und-betreiberpflichten-checkliste.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-nutzungsrichtlinie-mitarbeitende-unternehmen/ki-nutzungsrichtlinie-mitarbeitende-unternehmen.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/hochrisiko-ki-einstufung-art-6-ai-act/hochrisiko-ki-einstufung-art-6-ai-act.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/ki-und-plattformregulierung/ki-vo-risikomanagementsystem-dokumentation/ki-vo-risikomanagementsystem-dokumentation.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/arbeitsrecht/betriebsvereinbarung-ki-systeme/betriebsvereinbarung-ki-systeme.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    },
+    {
+      "vorlage": "docs/experimentell/vorlagensammlung-recht/informationstechnologierecht/ki-nutzungsrichtlinie-kanzlei-unternehmen/ki-nutzungsrichtlinie-kanzlei-unternehmen.md",
+      "odt_geprueft": true,
+      "md_zip_identisch": true
+    }
+  ],
+  "fehler": []
+}

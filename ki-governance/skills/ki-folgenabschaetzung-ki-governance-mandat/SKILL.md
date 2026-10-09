@@ -9,7 +9,7 @@ description: "Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätz
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -24,7 +24,7 @@ description: "Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätz
 
 ### Kernvorschriften
 
-- **Art. 27 KI-VO (VO 2024/1689)** — Folgenabschätzung für Grundrechte (FRIA): Betreiber hochriskanter KI-Systeme, insbesondere öffentliche Stellen sowie private Stellen, die öffentlich finanzierte Dienste erbringen oder Kreditwürdigkeitsbewertungen vornehmen, sind zur Durchführung verpflichtet.
+- **Grundrechte-Folgenabschätzung:** Artikel 27 erfasst Betreiber, die Einrichtungen des öffentlichen Rechts oder private Einrichtungen sind, die öffentliche Dienstleistungen erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Systeme nach Anhang III Nummer 2 sind ausgenommen. Öffentliche Finanzierung allein ist kein Tatbestand. DSFA und FRIA haben eigene Voraussetzungen; vorhandene DSFA-Ergebnisse können nach Artikel 27 Absatz 4 einbezogen werden. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Art. 35 DSGVO** — Datenschutz-Folgenabschätzung (DSFA): Pflicht bei hohem Risiko für Rechte und Freiheiten natürlicher Personen, insbesondere bei automatisierten Entscheidungen (Art. 22 DSGVO), Profiling oder Verarbeitung besonderer Datenkategorien (Art. 9 DSGVO).
 - **Art. 22 DSGVO** — Automatisierte Einzelentscheidungen mit Rechtswirkung oder erheblicher Beeinträchtigung; nur bei Vorliegen einer Rechtsgrundlage nach Abs. 2 lit. a–c zulässig.
 - **Art. 26, Art. 6 i.V.m. Anhang III KI-VO** — Betreiberpflichten bei Hochrisiko-KI; Klassifikation nach Anhang III bestimmt Pflichtumfang.
@@ -35,7 +35,7 @@ description: "Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätz
 ### Kommentare
 
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-- Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 27 Rn. 3 (FRIA-Anforderungen für Betreiber).
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Ablauf
 
@@ -162,10 +162,8 @@ Für jeden einschlägigen Rechtsakt im Fußabdruck:
 **KI-VO (VO 2024/1689):**
 - Risikoklasse nach Art. 6 KI-VO i.V.m. Anhang III `[prüfen]`
 - Verbotene Praktiken Art. 5 KI-VO `[prüfen]`
-- Betreiberpflichten Art. 26 KI-VO (technische Dokumentation, Protokollierung, menschliche
- Aufsicht, Unterrichtung von Arbeitnehmern) `[prüfen]`
-- FRIA Art. 27 KI-VO – erforderlich? (Öffentliche Stellen oder öffentlich finanzierte private
- Dienste; Kreditwürdigkeit; Lebens-/Krankenversicherungs-Risikobewertung) `[prüfen]`
+- Betreiberpflichten nach Artikel 26: tatsächliche Nutzung, Aufsicht, verfügbare Logs und Unterrichtung prüfen. Technische Dokumentation nach Artikel 11 ist grundsätzlich Anbieteraufgabe; Rollenwechsel separat prüfen.
+- FRIA nach Artikel 27: Artikel 27 erfasst Betreiber, die Einrichtungen des öffentlichen Rechts oder private Einrichtungen sind, die öffentliche Dienstleistungen erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Systeme nach Anhang III Nummer 2 sind ausgenommen. Öffentliche Finanzierung allein ist kein Tatbestand. DSFA und FRIA haben eigene Voraussetzungen; vorhandene DSFA-Ergebnisse können nach Artikel 27 Absatz 4 einbezogen werden. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten.
 - Transparenzpflichten Art. 50 KI-VO (Chatbot-Offenlegung, Deepfake-Kennzeichnung) `[prüfen]`
 
 **DSGVO / BDSG:**
@@ -345,7 +343,7 @@ zuerst geprüft werden.
 
 **Ablauf:**
 - Risikotrack: Vollständig (erhöhte Governance-Stufe; Drittanbieter-KI-System; Mandantendaten).
-- Art. 6 Abs. 2 KI-VO i. V. m. Anhang III: Typischer Mandanten-Erstberatungs-Chatbot ist nicht schon deshalb Hochrisiko, weil er ein allgemeines KI-System nutzt. Entscheidend ist die Zweckbestimmung: Hochrisiko erst bei Einsatz für einen Anhang-III-Zweck, etwa Justiz-/Rechtsdurchsetzungsentscheidung, Beschäftigung, Kreditwürdigkeit oder Zugang zu wesentlichen Diensten.
+- Ein Mandanten-Erstberatungs-Chatbot ist nicht allein wegen juristischer Inhalte Hochrisiko-KI. Zweckbestimmung, Einsatz durch oder im Auftrag von Justiz beziehungsweise entsprechender alternativer Streitbeilegung und andere mögliche Anhang-III-Tatbestände prüfen. Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. Produktpfad nach Absatz 1 unabhängig prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - DSFA Art. 35 DSGVO: Prüfung erforderlich — Verarbeitung von Mandantendaten durch Drittanbieter-API (Art. 28 DSGVO); mögliche automatisierte Empfehlungen.
 - Art. 50 KI-VO: Chatbot-Offenlegungspflicht gegenüber Mandanten.
 - § 203 StGB: Mandantengeheimnis — Auftragsverarbeitungsvertrag mit KI-Anbieter erforderlich, Verarbeitung ohne Training sicherstellen.
@@ -389,7 +387,7 @@ Verbindliche Zitierweise gemäß `../references/zitierweise.md`.
 1. Liegt ein Hochrisiko-KI-System nach Art. 6 KI-VO i.V.m. Anhang III vor (Nr. 1-8)?
 2. Ist eine DSFA nach Art. 35 DSGVO erforderlich — automatisierte Entscheidung, Profiling, Art. 9-Daten?
 3. Sind personenbezogene Daten betroffen — verlassen sie den Perimeter an Drittanbieter-API?
-4. Handelt es sich um eine öffentliche Stelle oder einen öffentlich finanzierten Dienst (FRIA Art. 27 KI-VO)?
+4. Gehört der Betreiber zu den in Artikel 27 genannten öffentlichen Einrichtungen oder privaten Erbringern öffentlicher Dienstleistungen, oder betreibt er ein System nach Anhang III Nummer 5 Buchstabe b oder c? Nummer 2 ist ausgenommen; Finanzierung allein genügt nicht.
 5. Ist der Einsatz assistierend oder vollautomatisiert — Stempel-Risiko beim nominellen Human-Review?
 
 ## Output-Template — Folgenabschaetzungs-Zusammenfassung

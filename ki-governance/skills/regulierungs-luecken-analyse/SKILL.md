@@ -9,7 +9,7 @@ description: "Für digitale Werkzeuge-Regulierungs-Lückenanalyse: ordnet Akte, 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -25,11 +25,7 @@ description: "Für digitale Werkzeuge-Regulierungs-Lückenanalyse: ordnet Akte, 
 
 **Kernvorschriften (Referenzrahmen)**
 
-- **AI Act (VO (EU) 2024/1689)**: Gestaffelte Anwendbarkeit: Art. 5 (verbotene
- Praktiken) ab 02.02.2025; Art. 53 ff. (Allgemeinzweck-KI) ab 02.08.2025;
- Hochrisiko-Pflichten Art. 9–15 (Anbieter), Art. 26/29 (Betreiber) ab
- 02.08.2026. Hochrisiko: Art. 6 i.V.m. Anhang III. Bußgeld: Art. 99 bis
- 35 Mio. € oder 7 % weltweiter Jahresumsatz bei Art. 5-Verstößen.
+- **KI-Verordnung:** Beide Einstufungspfade nach Artikel 6, Ausnahme nach Absatz 3, Artikel 111/113 und rollenbezogene Pflichten prüfen. Artikel 29 betrifft Konformitätsbewertungsstellen, nicht den allgemeinen Betreiber. Sanktionen nach dem konkreten Absatz des Artikels 99 einschließlich KMU-Sonderregeln begründen.
 - **DSGVO Art. 22**: Automatisierte Einzelentscheidungen; Rechtsgrundlagen
  Art. 22 Abs. 2 lit. a–c.
 - **DSA Art. 27, 38 (VO (EU) 2022/2065)**: Transparenz für Empfehlungs-
@@ -44,7 +40,7 @@ description: "Für digitale Werkzeuge-Regulierungs-Lückenanalyse: ordnet Akte, 
 
 **Kommentare**
 
-- Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5 (Hochrisiko-Klassifikation; Anhang-III-Kategorien).
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 115 ff.
  (regulatorische Lücken im KI-Recht).
 - Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl. 2024,
@@ -120,7 +116,7 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 
 **Anfrage:** "Gilt der AI Act für unsere interne Bewerbungs-Screening-KI?"
 
-**Ablauf:** Betreiberrolle; Hochrisiko nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 lit. a KI-VO, wenn das System zweckbestimmt für Auswahl, Filterung oder Bewertung von Bewerbungen eingesetzt wird. Betreiber-Pflichten aus Art. 26 KI-VO und ggf. Grundrechte-Folgenabschätzung nach Art. 27 KI-VO; bei eigener Anbieterrolle zusätzlich Anbieterpflichten, insbesondere Risikomanagement nach Art. 9 KI-VO. Maßnahme: Rollen sauber trennen, Human-in-the-Loop dokumentieren, Betriebsrat einbeziehen und Umsetzungsfrist im Maßnahmenplan führen.
+**Ablauf:** Für Bewerbungsauswahl den konkreten Tatbestand des Anhangs III Nummer 4 Buchstabe a und Artikel 6 Absatz 3 prüfen. Menschliche Schlussentscheidung allein schließt Hochrisiko nicht aus. Artikel 26 betrifft den Betreiber, Artikel 9 den Anbieter; eine eigene Anbieterrolle nach Artikel 25 gesondert begründen. Eine FRIA fällt nur bei den Adressaten des Artikels 27 an. Betriebsrat und Umsetzungsdatum als eigene Prüfspuren führen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Risiken und typische Fehler
 
@@ -132,11 +128,11 @@ Anwendungsdatum: [Datum] | Betrifft uns als: [Anbieter/Betreiber/beides]
 
 ## Quellenpflicht
 
-- **AI Act Art. 5, Art. 6 i.V.m. Anhang III, Art. 9–15, Art. 26/29, Art. 99.**
+- **KI-Verordnung:** Artikel 5, beide Pfade des Artikels 6, Anbieteranforderungen Artikel 9 bis 17, Betreiberpflichten Artikel 26 und Sanktionen Artikel 99 nach Tatbestand und Zeit. Artikel 29 ist keine allgemeine Betreiberpflicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSGVO Art. 22** bei automatisierten Entscheidungsverfahren.
 - **RL 2024/2853/EU** (Produkthaftung) bei Haftungslücken.
 - **DSGVO Art. 35** bei Folgenabschätzungspflicht.
-- **Wendehorst/Grinzinger, in: Wendehorst/Grinzinger, AI Act, 1. Aufl. 2024, Art. 6 Rn. 5.**
+- Fachliche Aussage unmittelbar aus dem einschlägigen Artikel der konsolidierten KI-Verordnung herleiten. Eine nicht im Original geprüfte Kommentar- oder Randnummernfundstelle wird nicht als Beleg ausgegeben. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Hoffmann-Riem (Hrsg.), Big Data, KI und das Recht, 2021, S. 115.**
 
 ## Triage zu Beginn

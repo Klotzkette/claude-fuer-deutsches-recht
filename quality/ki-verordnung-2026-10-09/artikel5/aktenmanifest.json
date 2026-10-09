@@ -1,0 +1,471 @@
+[
+  {
+    "slug": "ki-verbot-frankenmut-dialog",
+    "title": "Frankenmut Dialog und das Familienabo",
+    "brief": "Ein Alltagsassistent verkauft ein Familienabo. Dialognotizen, Angehörigenwiderspruch, Produktsteuerung und Kosten stehen gegeneinander. Auftrag ist die Prüfung von Manipulation und Schutzbedürftigkeit sowie ein ausformulierter Anbieterbrief.",
+    "files": [
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/01_Pruefauftrag.docx",
+        "sha256": "1cf6810766c7a6321db57282f4a2e250581aad824dcb1bd5c1c267f94e228376",
+        "bytes": 38560
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/01_Pruefauftrag.pdf",
+        "sha256": "a7d7e6ca3a4631ed58296d37dfe10a42f8529b80e31ae861c5b80afe785de5e7",
+        "bytes": 92144
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/02_Produktnotiz.docx",
+        "sha256": "0cf93bab91afd57dd6fc1cf9e0c2c0c78e273827660d06ce170208d7a47a31a9",
+        "bytes": 38396
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/02_Produktnotiz.pdf",
+        "sha256": "b31adb16e2fe1a56328df9a669102481cbc59bae7e19227eaf5209779335237a",
+        "bytes": 90135
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/03_Gespraech_Riemenschneider.docx",
+        "sha256": "3c3be0729b1267b07816f496263db82a268fe897e7644d492012d49466e074ab",
+        "bytes": 38338
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/03_Gespraech_Riemenschneider.pdf",
+        "sha256": "c712704ddf9ecfc2f60ea1e719221466da1277071d7d1968da5a035ca01dcdd2",
+        "bytes": 68721
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/04_Auftrag.eml",
+        "sha256": "930faecadcb20da15d4a63a197eb38becf5422b1310abf64cecb078ff45f5da4",
+        "bytes": 54266
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/05_Anbieterantwort.eml",
+        "sha256": "bb6549e556a07737ab05c5e4efd98f9d42d4fe1c7fef9d815560fb92b61dccb2",
+        "bytes": 1127
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/06_Buchhaltung.eml",
+        "sha256": "4970b06b11a3e968f11bffd49c95af975d5ac7d527fc569bfb3f0135319cd829",
+        "bytes": 8489
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/07_Betroffene.eml",
+        "sha256": "889f36b9b338f4238825d586267c122cfc0f265fd3edcb155b45ac6732065e4d",
+        "bytes": 968
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/11_Kostenstand.xlsx",
+        "sha256": "1cccec1114189341908b8699aae24a892345f7f57edc34e2dadedd6ce3e082a3",
+        "bytes": 5139
+      },
+      {
+        "path": "testakten/ki-verbot-frankenmut-dialog/12_Projektchat.txt",
+        "sha256": "2c0f76d3dddb1a18bd3d48171692f8c2bf3ce0c1d57d42df065750b904c4f368",
+        "bytes": 479
+      }
+    ]
+  },
+  {
+    "slug": "ki-verbot-klarblick-personal",
+    "title": "Klarblick Personal und die Schichtverteilung",
+    "brief": "Ein Kamerasystem zeigt Emotionslabels für Beschäftigte und beeinflusst Schichten. Der Anbieter beruft sich auf Sicherheit; eine getrennte Türsensorfunktion bildet den Grenzfall.",
+    "files": [
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/01_Pruefauftrag.docx",
+        "sha256": "e781d852deb3a5889745dc7103c8875896a10d243e03492130dd0001174845e3",
+        "bytes": 38544
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/01_Pruefauftrag.pdf",
+        "sha256": "920ce29fb3d4c1b89cdcded614afc3d86379ff782b425ad9b3ca74a02f938027",
+        "bytes": 90416
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/02_Techniknotiz.docx",
+        "sha256": "50a1af9fd90470724f6533d9a1db330efacb5d3953171ac41094b609c6855962",
+        "bytes": 38274
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/02_Techniknotiz.pdf",
+        "sha256": "f15c2f977ae96ffbaa058b9a4078469cd77495731ae6baec94ced9d8e1ed7b72",
+        "bytes": 92797
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/03_Personalnotiz.docx",
+        "sha256": "3ee79e1ffa914eae0273fb14ca672cf2853980bd76765d42bf3611980314a243",
+        "bytes": 38253
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/03_Personalnotiz.pdf",
+        "sha256": "7a35a67dbd5ce560fab2ef4df053297393b920e838432e5ec036abe74b0e2eb5",
+        "bytes": 67353
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/04_Auftrag.eml",
+        "sha256": "d8910cc95808ed5ac2dc0026d26085fffca8e2c063e8217836a6efa9788c5c29",
+        "bytes": 54160
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/05_Anbieter.eml",
+        "sha256": "92df3070852f4f36781545edd97a389d9b84ce449fa9c8f9aedfaf195e00a0b2",
+        "bytes": 1145
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/06_Schichtliste.eml",
+        "sha256": "c9c05aca738cf80289f89c1aa9f21e129f14cb3fe0885bf1bc497ba2296ea25d",
+        "bytes": 8340
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/07_Beschwerde.eml",
+        "sha256": "8911df574d2d68e04e97bf0afa9e54bf6459959c49c32525d667a3051c6d1b1a",
+        "bytes": 1037
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/11_Schichten.xlsx",
+        "sha256": "ed962369364bd18d23c5464daefb1b845c630e00a944ef70985f12e75a8afb1b",
+        "bytes": 5055
+      },
+      {
+        "path": "testakten/ki-verbot-klarblick-personal/12_Projektchat.txt",
+        "sha256": "5e97556feff191cbca2a42a0e54fee7ccc2d296d9d4a6fbf3ba7f366dee43cc7",
+        "bytes": 385
+      }
+    ]
+  },
+  {
+    "slug": "ki-verbot-stadtfaden-sozialscore",
+    "title": "Stadtfaden und die Wohnungsrangliste",
+    "brief": "Eine kommunale Wohnungsgesellschaft verbindet Bibliotheks- und Beschwerdedaten mit einer Wohnungsrangliste. Eine begrenzte Zahlungserinnerung bildet die sachlich andere Kontrollvariante.",
+    "files": [
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/01_Pruefauftrag.docx",
+        "sha256": "6da4bc7ee5c465d3346854bde9b91b89655fa2b652eea0186bb2d1359b6ad849",
+        "bytes": 38504
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/01_Pruefauftrag.pdf",
+        "sha256": "4e6a84fc5d21b948f5bffc23fa132400881166644bfc21d48ce3b31e7eeed415",
+        "bytes": 92993
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/02_Datenweg.docx",
+        "sha256": "b22f5388e21affe58b5abf20da25e5f208a386b52bd77418c1cf1d9dc03b47e2",
+        "bytes": 38317
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/02_Datenweg.pdf",
+        "sha256": "d29b425b4dbb25093b1c16399f715ce68ca5a7e509458919ba4b52fc3b85da64",
+        "bytes": 91264
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/03_Gespraech_Hummel.docx",
+        "sha256": "d1b13abc6e2fd9117eaf45ddac369b1ac0664126a004cdee8d5f7c1fb6025a4e",
+        "bytes": 38139
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/03_Gespraech_Hummel.pdf",
+        "sha256": "cdb09375531ace32d452c1f07cc43e68c868a39984e10bb947cf0ffbb26530f6",
+        "bytes": 67332
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/04_Auftrag.eml",
+        "sha256": "7730d1c5f18b97944912a7c12a05fd4f4c528017a9939ec92d36c0516901405f",
+        "bytes": 54098
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/05_Anbieter.eml",
+        "sha256": "b8b89cab15ec67a89efab43beaf28a86404f33725943917556a4b910d662ee71",
+        "bytes": 1111
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/06_Auszug.eml",
+        "sha256": "09d44aa7654ba26a05ba5f429009f648753a075f3051e20814bbfa73a9a376bb",
+        "bytes": 8164
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/07_Beschwerde.eml",
+        "sha256": "cd8ad85e429cea876e86a29d248303b6e47ccd7bd9b96cd7422fffba956210db",
+        "bytes": 1048
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/11_Serviceindex.xlsx",
+        "sha256": "71e5999db16e871653455e8dc69389d99af7dec5f3d87304c64ab240131ec1b2",
+        "bytes": 4965
+      },
+      {
+        "path": "testakten/ki-verbot-stadtfaden-sozialscore/12_Projektchat.txt",
+        "sha256": "ef6045a36d0360c93663e7cfdd24d7c746e1780bbd3528184102983204d69f0b",
+        "bytes": 464
+      }
+    ]
+  },
+  {
+    "slug": "ki-register-fuldatal-sozialhilfe",
+    "title": "Fuldatal und die neue Antragspriorisierung",
+    "brief": "Eine Behörde plant eine neue Priorisierung von Sozialhilfeanträgen. Der Anbieter bezeichnet das System als bloße Sortierung; eine spätere Version bewertet persönliche Merkmale. Auftrag sind Einstufungsübergabe, Register- und FRIA-Planung mit korrektem Zeitbezug.",
+    "files": [
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/01_Pruefauftrag.docx",
+        "sha256": "6be6fbd3c0667128d4f64f7c0a415e9e8b706f1bec8ecfb782d686976ec56624",
+        "bytes": 38353
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/01_Pruefauftrag.pdf",
+        "sha256": "87ef3c0140a89219351c093cb71251142709c5962cd277191e69518a46b8fedc",
+        "bytes": 92705
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/02_Versionsnotiz.docx",
+        "sha256": "73768ea9c2621c520dc7dc8e0215e9532c0b16ce241aa325f55212be88b537a1",
+        "bytes": 38221
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/02_Versionsnotiz.pdf",
+        "sha256": "f1c7a3d7809e32286816cbc20e1f24cfaffef5481dad53e91b7ec7c71da4e817",
+        "bytes": 90805
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/03_Leitungsvorlage_Entwurf.docx",
+        "sha256": "b15cdaf60ec28d1c3d532a902cb3305f81f20da6420dec94b790180ec3a7d55d",
+        "bytes": 38191
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/03_Leitungsvorlage_Entwurf.pdf",
+        "sha256": "7fb05b8b8e2550c4a086d97a0d626d075f3f277b413bc1a9052f6fa0faa653b5",
+        "bytes": 91865
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/04_Auftrag.eml",
+        "sha256": "f0f2b92ae845940355c38f5b5706cfd40a49e3c04d5b12ef69b41da5eb800411",
+        "bytes": 53918
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/05_Anbieter.eml",
+        "sha256": "76b02a3e37f426cb5245fe2302f1b3e8cc2d5aa2fae7d1e5d0e0b40255e9aef1",
+        "bytes": 997
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/06_Planungswerte.eml",
+        "sha256": "065ceede6bcd0147c85ee938d95d5a0139cd9c9017a60304ea7aa4ec135f5367",
+        "bytes": 7793
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/07_Fachamt.eml",
+        "sha256": "04f114a7aa040cb2007e2c700aa1a53c38d2db1b444e8a37f3616fae5f61f830",
+        "bytes": 1030
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/11_Versionsvergleich.xlsx",
+        "sha256": "fe4b41f53eb29d61c0f870179a01de18990b78cc5c74371255597fcb664d86e6",
+        "bytes": 4741
+      },
+      {
+        "path": "testakten/ki-register-fuldatal-sozialhilfe/12_Projektchat.txt",
+        "sha256": "7ec98895b9999c1c1b4191b457ae395be5490a71879bca6bbe687d5cf1b3bb99",
+        "bytes": 300
+      }
+    ]
+  },
+  {
+    "slug": "ki-meldung-mainbogen-notruf",
+    "title": "Mainbogen und der Vorfall in der Übungsleitstelle",
+    "brief": "Eine ausdrücklich zukünftige Vorfallübung trennt Kenntnis des Betreibers, Kenntnis des Anbieters, Kausalitätsverdacht und Erstbericht. Mehrere Standorte sowie möglicher Zweitagespfad statt pauschaler 15 Tage sind aufzuklären.",
+    "files": [
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/01_Pruefauftrag.docx",
+        "sha256": "be2fc785d128120f4fabb695bfd59b9ffecedc6a8e287a665791be48c051c44e",
+        "bytes": 38374
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/01_Pruefauftrag.pdf",
+        "sha256": "0bdf880edc6550e19159f4b70bf7aa2c86c8ce3f98d441ee68b5cd0bd5b3b228",
+        "bytes": 92100
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/02_Uebungschronologie.docx",
+        "sha256": "efdf3c175d46b1ea028da6775c7019b8f9398834a9241356e527194d82e3c230",
+        "bytes": 38326
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/02_Uebungschronologie.pdf",
+        "sha256": "ff925835fe9fcfa6f867eb2f20187f5675a2592862bdd7b14dc925c231014dbd",
+        "bytes": 91932
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/03_Erstbericht_Entwurf.docx",
+        "sha256": "1c99ed84ecee57dcfb049066a2a87721e65d4e1bc2b7132844048c65df899d44",
+        "bytes": 38148
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/03_Erstbericht_Entwurf.pdf",
+        "sha256": "4c19f0103f4946262f4ea3086b33026a6e3e312bcf5796432ae6ddcf13278cdb",
+        "bytes": 92513
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/04_Auftrag.eml",
+        "sha256": "29ee4000215a32ce8b041cc32f0f753e585d65494b8d0c57ea3fd201af614fdb",
+        "bytes": 53886
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/05_Anbietersicht.eml",
+        "sha256": "5b93cd62b71e20258518c94172e778f708b4fdb428b560110bacd3d4b58e0945",
+        "bytes": 1028
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/06_Zeitrechnung.eml",
+        "sha256": "b59d4aef79dd15f48af741daf015441a5f38869f989549299433963686f3840e",
+        "bytes": 8142
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/07_Standortfrage.eml",
+        "sha256": "d0bb21e0f6b298908456e2475fcb368d9a2d39921a551c601d7b1a0e91306413",
+        "bytes": 874
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/11_Uebungszeiten.xlsx",
+        "sha256": "8a12a639f6aace21a78daa6a050280f4278f63babe588cefa95837388853a968",
+        "bytes": 4955
+      },
+      {
+        "path": "testakten/ki-meldung-mainbogen-notruf/12_Projektchat.txt",
+        "sha256": "0b2786620f47d026b3c3086337a8770b70493d6053e1dbf1fabff8d0bab01dd1",
+        "bytes": 313
+      }
+    ]
+  },
+  {
+    "slug": "ki-konformitaet-isarblick-personal",
+    "title": "Isarblick und das vermeintliche KI Zertifikat",
+    "brief": "Eine geplante HR-Ranking-Anwendung wird mit einem ISO-Zertifikat der Muttergesellschaft beworben. Die Akte verlangt eine konkrete Konformitätsroute, interne Kontrolle und ehrliche Behandlung einer Testdatenlücke.",
+    "files": [
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/01_Pruefauftrag.docx",
+        "sha256": "855d734f0163a1e1967bab1eda2a581407db5f4c125088e8ee63c0a39037c8fe",
+        "bytes": 38280
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/01_Pruefauftrag.pdf",
+        "sha256": "51ccc79c5158a8ceb155df7ad18c30ea2f47444f38770b6e57332edb510910ca",
+        "bytes": 91615
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/02_Testnotiz.docx",
+        "sha256": "06db3fc2270c4ad12c9d44f193f885db10dcfc53d8eedcc3dcdb35327c896271",
+        "bytes": 38156
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/02_Testnotiz.pdf",
+        "sha256": "91170b49d9a285ffbf705f611b9daad049f44305afa71b432943a73c29ae4f3e",
+        "bytes": 88169
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/03_Vertriebsentwurf.docx",
+        "sha256": "c8d2a44407da6b4b51553edc2f130d14c27b7698ce05f4928cb23677318b45ff",
+        "bytes": 38097
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/03_Vertriebsentwurf.pdf",
+        "sha256": "1613925c78a85ded5915c16f34dfc45cb9c2e0a43e7ac717aa293305a5116483",
+        "bytes": 67489
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/04_Auftrag.eml",
+        "sha256": "fc74ecd6bc8b9ea3c6ddbd10013a41143b6e157e4ad7427a410a86f6644df517",
+        "bytes": 53704
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/05_Muttergesellschaft.eml",
+        "sha256": "1baa702e6089075a5fad39d337f86f703ccc77d159f6c5e46bf5b17fb115d8b4",
+        "bytes": 950
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/06_Testmappe.eml",
+        "sha256": "eef3ab5b419deffffa3d4c727c87759060c4358165531aa9977784e806f53525",
+        "bytes": 7938
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/07_Entwicklung.eml",
+        "sha256": "35a363dbd55d4ef1f61f6afa9f9e6bb0c028502a11bc557efacbdfb40de5fdd3",
+        "bytes": 982
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/11_Teststand.xlsx",
+        "sha256": "e7db77553b874bd4f6ada148401d636f144ec38f4ecf8fd5304f543c7ea094b8",
+        "bytes": 4914
+      },
+      {
+        "path": "testakten/ki-konformitaet-isarblick-personal/12_Projektchat.txt",
+        "sha256": "8d441fc33439f05adb1a9f0add304efcd13a09e8f704db9633c911758ef8e8a9",
+        "bytes": 289
+      }
+    ]
+  },
+  {
+    "slug": "ki-konformitaet-saalevis-biometrie",
+    "title": "Saalevis und die unvollständige Normabdeckung",
+    "brief": "Eine ausschließlich geplante biometrische Fernidentifikation in einem nicht öffentlich zugänglichen Werksbereich soll bewertet werden. Teilweise Normabdeckung und fehlender Notifizierungsnachweis verhindern eine pauschale Zertifikatsbehauptung.",
+    "files": [
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/01_Pruefauftrag.docx",
+        "sha256": "acab87dbdc739b6c702b4cb2bfaddf8371a6dc37edc36d9a747590eaf079bc8d",
+        "bytes": 38331
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/01_Pruefauftrag.pdf",
+        "sha256": "78609c1788c28a553b19dd0004f00934a30ca503ab6303373ae5de773925351d",
+        "bytes": 93257
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/02_Nachweisstand.docx",
+        "sha256": "9b501d61e74c3c5aae03f328f368a221133a3a062e78618c17d1fcffcf7db146",
+        "bytes": 38206
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/02_Nachweisstand.pdf",
+        "sha256": "a59f3370df53515a0370a41a768045895b610c505b5a0a10d8fe2c94e095f2cb",
+        "bytes": 90650
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/03_Angebotsnotiz.docx",
+        "sha256": "a9594070fdbb9cd321b6a8494303710d0437e71aa3029027fcf335e1f91c9d56",
+        "bytes": 38188
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/03_Angebotsnotiz.pdf",
+        "sha256": "ce1f2bcac7e3ebfe1f13dd57fc42dfd11694817917196c73f9121e05ed571840",
+        "bytes": 69146
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/04_Auftrag.eml",
+        "sha256": "781376c7dc25265dc013070476b0e0f0652abf757a1b910e037f8304614ba42a",
+        "bytes": 53672
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/05_Pruefdienstleister.eml",
+        "sha256": "06ba29169979c35890b72ec95a480cc3371c2ccd488597541b29ca08caf41d77",
+        "bytes": 95938
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/06_Nachweismappe.eml",
+        "sha256": "45252de28ba41792a208cc41eb410eb3e2ec055aaad48e737df5ef4ed79e72c1",
+        "bytes": 8094
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/07_Betrieb.eml",
+        "sha256": "ba61c7dcd140fcc5ddfe27ce76ac47202972ce804c51ea41e369fdd764cc509c",
+        "bytes": 986
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/11_Nachweisstand.xlsx",
+        "sha256": "661046169e6918fc70c99df353b58e745c6a565de938cf598a93de359406e0d1",
+        "bytes": 4964
+      },
+      {
+        "path": "testakten/ki-konformitaet-saalevis-biometrie/12_Projektchat.txt",
+        "sha256": "65a55996d72000b412d913b37ad8069f98864141769acf3281246cb980abd9b3",
+        "bytes": 337
+      }
+    ]
+  }
+]

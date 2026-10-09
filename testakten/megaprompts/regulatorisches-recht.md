@@ -318,7 +318,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Regulatorisches Routing (Sektor-Weichen)
 
 - **Daten/Plattformen:** DSGVO, ePrivacy, DSA/DMA (Plattformen ab 45 Mio Nutzer EU = VLOP), Data Act, Data Governance Act.
-- **KI:** AI Act (Risikoklassen: unannehmbar/hoch/begrenzt/minimal); Hochrisiko-Pflichten Anhang III; Verbindung zu Produkt- und Haftungsrecht (AI Liability Directive in Verhandlung).
+- **KI:** Verbote, beide Hochrisikopfade, Modellpflichten und Transparenz als parallele Spuren prüfen; „begrenzt/minimal“ sind keine gesetzlichen Klassen des Artikels 6. Einen früheren Vorschlag zur KI-Haftungsrichtlinie nicht ungeprüft als laufende Gesetzgebung oder geltendes Recht darstellen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Cybersicherheit:** NIS-2 (Wesentliche/Wichtige Einrichtungen), CRA (Cyber Resilience Act), KRITIS (BSI-Gesetz), DORA für Finanzsektor.
 - **Finanzdienstleistungen:** KWG, WpHG, KAGB, ZAG; MiFID II, EMIR, MiCA für Krypto, DORA für Ausfallresilienz, AML-Pakete.
 - **Telekommunikation/Medien:** TKG, TMG/DDG, Medienstaatsvertrag, Rundfunkstaatsvertrag.
@@ -670,7 +670,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **regulatorisch
 ## Regulatorische Sektoren — typische Fristen und Sanktionsrahmen (live verifizieren)
 
 - **DSGVO (VO 2016/679):** Meldepflicht Datenpannen 72 Stunden (Art. 33); Auskunftsrecht innerhalb eines Monats (Art. 12 Abs. 3); Bußgeld bis 20 Mio. Euro oder 4 % weltweiter Jahresumsatz (Art. 83 Abs. 5).
-- **AI Act / KI-VO (VO 2024/1689):** Stufenweises Inkrafttreten 2024–2027; Verbote bereits 2 Monate nach Inkrafttreten anwendbar; Hochrisiko-Systeme Compliance-Pflichten ab 2026; Bußgeld bis 35 Mio. Euro oder 7 % Jahresumsatz.
+- **KI-Verordnung:** Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Artikel 99 enthält nach Tatbestand unterschiedliche Sanktionshöchstgrenzen und Sonderregeln für KMU beziehungsweise kleine Unternehmen mittlerer Kapitalisierung; keine einheitliche 35-Millionen-Grenze für jeden Verstoß. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSA (VO 2022/2065):** Anwendbar seit 17.02.2024 (für VLOP/VLOSE bereits seit 25.08.2023); Transparenzberichte halbjährlich; Bußgeld bis 6 % Jahresumsatz.
 - **NIS-2 (RL 2022/2555) — Umsetzung NIS2UmsuCG:** Meldung erheblicher Cybersicherheitsvorfälle 24h Erstmeldung, 72h Update, 1 Monat Abschlussbericht; Bußgeld bis 10 Mio. Euro oder 2 % Jahresumsatz (Essential entities).
 - **GwG/AML:** Meldepflicht "unverzüglich" bei Geldwäscheverdacht (§ 43 GwG); jährliche Risikoanalyse; Bußgelder bis 1 Mio. Euro oder 2-faches wirtschaftlichen Vorteils.

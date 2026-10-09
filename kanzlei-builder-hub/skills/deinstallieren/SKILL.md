@@ -17,7 +17,7 @@ description: "Für Deinstallation: ordnet Norm, Beweislast und Gegenargument; Er
 
 Vollständiges Entfernen eines Community-Skills, der über den Kanzlei-Builder-Hub installiert wurde. Die Deinstallation ist das Gegenstück zur Installation: Was der Skill-Installer mit ausdrücklicher Nutzerfreigabe schreibt, entfernt dieser Skill mit ausdrücklicher Nutzerfreigabe.
 
-Die vollständige, revisionssichere Protokollierung der Deinstallation ist rechtlich geboten: § 50 BRAO verlangt nachvollziehbare Aktenführung über kanzleiinterne Vorgänge; Art. 5 Abs. 2 DSGVO (Rechenschaftspflicht) erfordert Nachweis über Verarbeitung und Löschung personenbezogener Daten; der AI Act Art. 26 verlangt Dokumentation der Außerbetriebnahme von Hochrisiko-KI-Systemen.
+Eine nachvollziehbare Deinstallation ist eine sinnvolle interne Organisationsmaßnahme. Aktenführung, Datenschutz-Nachweise, Löschanforderungen und gegebenenfalls Hochrisiko-Betreiberpflichten nach Artikel 26 getrennt bestimmen. Artikel 26 schreibt nicht pauschal für jedes Kanzleiwerkzeug ein vollständiges Deinstallationsprotokoll vor. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungslädt dieser Skill aus dem `skill-verwalter`-Referenz-Skill — dieser muss vor substanzieller Arbeit geladen sein.
 
@@ -38,7 +38,7 @@ Den vollständigen Deinstallations-, Deaktivierungs- und Reaktivierungslädt die
 - **§ 43a Abs. 2 BRAO, § 203 StGB** — Verschwiegenheits- und Geheimnisschutzpflicht; beim Entfernen von Skills, die Mandatsdaten verarbeitet haben, ist sicherzustellen, dass keine nicht autorisierten Dateirückstände auf fremden Systemen verbleiben.
 - **Art. 5 Abs. 2, Art. 17 DSGVO** — Rechenschaftspflicht und Recht auf Löschung; personenbezogene Daten, die ein Skill gespeichert oder protokolliert hat, können Löschpflichten unterliegen, die über die reine Skill-Deinstallation hinausgehen.
 - **§§ 257 HGB, 147 AO** — Handels- und steuerrechtliche Aufbewahrungsfristen; Konfigurationsdateien eines Kanzlei-Skills können unter diese Fristen fallen und dürfen daher nicht automatisch mitgelöscht werden.
-- **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Die Außerbetriebnahme eines KI-Systems muss dokumentiert werden.
+- **Artikel 26 KI-Verordnung:** Zuerst einen erfassten Hochrisiko-Betrieb und zeitliche Anwendung begründen. Absatz 1 betrifft geeignete Maßnahmen zur Nutzung nach Betriebsanleitung, Absatz 2 die beauftragte menschliche Aufsicht, Absatz 5 Überwachung und gegebenenfalls Aussetzung/Information, Absatz 6 kontrollierte Logs. Kein allgemeines gesetzliches Installations- oder Deinstallationsprotokoll aus Artikel 26 erfinden. Interne Nachweise als Organisationsmaßnahme kennzeichnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ### Quellenregel
 

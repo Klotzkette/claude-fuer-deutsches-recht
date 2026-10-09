@@ -24,6 +24,9 @@ Inventarstand: [Datum, Version, Verantwortlicher]
 
 Transaktion: [Projektname]
 
+**Rechtsstand und Anwendungsdatum:** KI-VO-Fassung vom 27. Juli 2026 einschließlich Berichtigung vom 29. September 2026; geprüft am 9. Oktober 2026. Für dieses System sind [Marktrolle], [Inverkehrbringen/Inbetriebnahme], [Altbestand nach Art. 111], [konkret geprüfte Pflicht und Geltungsbeginn nach Art. 113] auszufüllen. Die Verschiebung von Kapitel III Abschnitten 1 bis 3 außer Art. 6 Abs. 5 auf 2. Dezember 2027 für Anhang III und 2. August 2028 für Anhang I ist keine pauschale Verschiebung sämtlicher Artikel. Art. 43 und 49 liegen außerhalb dieser Abschnitte; ihr konkreter zeitlicher Anwendungsfall muss zusammen mit Art. 6 und 111 begründet werden.
+
+
 ## 1. Systemkarte
 
 1.1 System-ID: [KI-ID].
@@ -60,11 +63,13 @@ Transaktion: [Projektname]
 
 4.1 Art.-5-Prüfung liegt [vor / nicht vor / nicht einschlägig] mit Ergebnis [keine verbotene Praxis / Risiko offen / Nutzung zu beenden].
 
-4.2 Hochrisiko-Einstufung nach Art. 6 KI-Verordnung und Anhang III liegt [vor / nicht vor / offen] mit Ergebnis [Hochrisiko / kein Hochrisiko / Rückausnahme Art. 6 Abs. 3].
+4.2 Die getrennte Prüfung nach Art. 6 Abs. 1 mit Anhang I Abschnitt A oder B einschließlich Absätzen 1a bis 1c und nach Art. 6 Abs. 2 mit konkreter Anhang-III-Nummer liegt [vor / nicht vor / offen] mit Ergebnis [Hochrisiko / kein Hochrisiko / Rückausnahme Art. 6 Abs. 3].
 
-4.3 Dokumente vorhanden: [Risikomanagement, technische Dokumentation, DSFA, Grundrechte-Folgenabschätzung, Konformitätserklärung, Gebrauchsanweisung, Logging-Konzept, Post-Market-Monitoring, Incident-Prozess].
+4.3 Rollenspezifisch und zeitbezogen erforderliche Dokumente vorhanden: [Risikomanagement, technische Dokumentation, DSFA, Grundrechte-Folgenabschätzung, Konformitätserklärung, Gebrauchsanweisung, Logging-Konzept, Post-Market-Monitoring, Incident-Prozess].
 
-4.4 DD-Bewertung: [grün / gelb / rot / grau] wegen [Begründung].
+4.4 Dieses interne Inventar ersetzt keinen EU-Datenbankeintrag. Registrierungsweg: [Art. 49 Abs. 1 Anbieter / Abs. 2 negative Einstufung mit Art. 6 Abs. 4 / Abs. 3 öffentliche Betreiber / Abs. 4 nichtöffentlicher Datenbankbereich / Abs. 5 nationales Register / nicht einschlägig mit Begründung]. Status, Zeitpunkt und Nachweis: [Angaben].
+
+4.5 DD-Bewertung: [grün / gelb / rot / grau] wegen [Begründung].
 
 ## 5. Maßnahmen
 

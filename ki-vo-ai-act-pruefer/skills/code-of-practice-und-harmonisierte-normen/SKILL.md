@@ -39,6 +39,8 @@ Prüffragen:
 - Ist sie verpflichtend oder gibt es eine begründete alternative technische Lösung?
 - Wie wird Abweichung dokumentiert?
 
+Artikel 41 Absatz 3 begründet eine abdeckungsbezogene Vermutung bei Einhaltung einschlägiger gemeinsamer Spezifikationen. Nach Absatz 5 muss ein Anbieter bei Nichtbefolgung hinreichend gleichwertige technische Lösungen nachweisen; keine beliebige Abweichungsfreiheit annehmen.
+
 ## Art. 56 KI-VO — GPAI Code of Practice
 
 Für Anbieter von GPAI-Modellen ist der GPAI Code of Practice besonders relevant. Er kann als Brücke dienen, bis harmonisierte Normen und weitere sekundäre Rechtsakte die Pflichten konkretisieren.
@@ -48,6 +50,8 @@ Prüffragen:
 - Hat er den Code of Practice gezeichnet oder befolgt?
 - Deckt der Code technische Dokumentation, Copyright-Policy, Trainingsdaten-Zusammenfassung, Safety, Evaluierung und systemisches Risiko ab?
 - Welche Lücken bleiben trotz Code?
+
+Artikel 53 Absatz 4 und Artikel 55 Absatz 2 unterscheiden den Nachweis über Praxisleitfäden von der Vermutung bei Einhaltung einer einschlägigen harmonisierten Norm. Bloßes Zeichnen eines Kodex begründet keine automatische umfassende Konformität. Transparenzkodex nach Artikel 50 Absatz 7 und GPAI-Kodex nach Artikel 56 getrennt behandeln.
 
 ## Standards-Landkarte
 
@@ -60,8 +64,10 @@ Diese Standards können als Arbeitsrahmen dienen, ohne automatisch KI-VO-Konform
 | ISO/IEC 22989:2022 | AI Concepts and Terminology | hilfreich für Begriffe, ersetzt nicht Art. 3 KI-VO |
 | ISO/IEC 23053:2022 | Framework für KI-Systeme mit maschinellem Lernen | gut für technische Architektur- und Lifecycle-Beschreibung |
 | ISO/IEC 27001:2022 | Informationssicherheits-Management | unterstützt Cybersicherheit, aber nicht spezifisch KI-VO |
-| ISO/IEC 27701 | Datenschutz-Management als Erweiterung zu 27001/27002 | unterstützt DSGVO/Privacy, ersetzt keine KI-VO- oder DSFA-Prüfung |
+| ISO/IEC 27701 | Datenschutzmanagement nach der konkret vorgelegten Ausgabe | unterstützt DSGVO/Privacy, ersetzt keine KI-VO- oder DSFA-Prüfung |
 | ISO/IEC 38507 | Governance implications of AI | Orientierung für Leitungs- und Aufsichtsgremien |
+
+Die Zuordnungen sind mögliche Arbeitshilfen, keine Aussage, dass ein ungelesener Standardabschnitt erfüllt sei. Konkrete Ausgabe und zugänglichen Volltext verlangen. Artikel 9 ist systembezogen, Artikel 17 betrifft Anbieter-Qualitätsmanagement und Artikel 27 die Folgenabschätzung bestimmter Betreiber. Ein universelles Risikoregister oder ISO-Zertifikat ersetzt diese unterschiedlichen Produkte nicht. [Normenabdeckung prüfen](../harmonisierte-normen-gap-uebergang/SKILL.md).
 
 ## Standards in die Sachprüfung einbauen
 
@@ -95,7 +101,7 @@ Zuordnen:
 NORMEN- UND STANDARDSPLAN KI-VO
 Datum: [DATUM]
 System / Modell: [NAME]
-Risikoklasse: [Hochrisiko / begrenzt / GPAI / unklar]
+Prüfpfade: [Hochrisiko ja/nein/offen; Artikel 50 ja/nein/offen; GPAI gesondert]
 
 1. Harmonisierte Normen Art. 40
 [vorhanden / nicht vorhanden / Amtsblatt-Fundstelle offen]
@@ -130,4 +136,4 @@ Risikoklasse: [Hochrisiko / begrenzt / GPAI / unklar]
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 07/2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.
+Normabgleich: 9. Oktober 2026. Maßgeblich sind Art. 40, 41, 56 und 95 KI-VO sowie die jeweils aktuell im Amtsblatt der EU referenzierten harmonisierten Normen. Vor jeder finalen Aussage ist der Normenstand zu aktualisieren. Keine Rechtsberatung.

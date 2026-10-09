@@ -11,7 +11,7 @@ description: "Für Hochrisiko-Zuordnung — Art. 6 europäischer Technikregulier
 
 Ein KI-System ist Hochrisiko, wenn:
 1. es Sicherheitsbauteil eines Produkts ist oder selbst ein Produkt, das unter Anhang-I-Sektorrecht fällt, und
-2. dieses Produkt oder Sicherheitsbauteil einer Dritt-Konformitätsbewertung unterliegt.
+2. eine erforderliche Dritt-Konformitätsbewertung des Produkts nach dem konkreten Anhang-I-Rechtsakt besteht. Artikel 6 Absätze 1a bis 1c und die deutsche Berichtigung zu Absatz 1b einbeziehen; Anhang I Abschnitt B zuerst nach Artikel 2 Absatz 2 abgrenzen.
 
 Detail: `hochrisiko-art-6-abs-1-sicherheitsbauteil`
 
@@ -47,7 +47,7 @@ Auch bei Anhang-III-Treffer ist die Rückausnahme zu prüfen:
 - kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte
 - eine der vier Fallgruppen
 - keine Profiling-Sperre
-- Dokumentation nach Art. 6 Abs. 4
+- Dokumentation nach Art. 6 Abs. 4 und Registrierung nach Art. 49 Abs. 2
 
 Detail: `rueckausnahme-art-6-abs-3`
 
@@ -74,4 +74,4 @@ Nächste Skills: [...]
 
 ## Quellen- und Aktualitätshinweis
 
-Stand: 07/2026. Maßgeblich sind Art. 3 Nr. 12/13/23, Art. 6 und Anhang I/III KI-VO. Keine Rechtsberatung.
+Normabgleich: 9. Oktober 2026. Maßgeblich sind Art. 3 Nr. 12/13/23, Art. 6 und Anhang I/III KI-VO. [Aktueller Rechtsstand und Quellen](../../references/rechtsstand-2026-10-09.md). Keine abschließende Konformität ohne konkrete Evidenz.

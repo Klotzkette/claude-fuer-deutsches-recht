@@ -26,6 +26,9 @@ Prüfgegenstand: KI-Systeme, KI-Modelle, Trainingsdaten, Hochrisiko-Einstufung, 
 
 [Ort], den [Datum]
 
+**Rechtsstand und Anwendungsdatum:** KI-VO-Fassung vom 27. Juli 2026 einschließlich Berichtigung vom 29. September 2026; geprüft am 9. Oktober 2026. Für dieses System sind [Marktrolle], [Inverkehrbringen/Inbetriebnahme], [Altbestand nach Art. 111], [konkret geprüfte Pflicht und Geltungsbeginn nach Art. 113] auszufüllen. Die Verschiebung von Kapitel III Abschnitten 1 bis 3 außer Art. 6 Abs. 5 auf 2. Dezember 2027 für Anhang III und 2. August 2028 für Anhang I ist keine pauschale Verschiebung sämtlicher Artikel. Art. 43 und 49 liegen außerhalb dieser Abschnitte; ihr konkreter zeitlicher Anwendungsfall muss zusammen mit Art. 6 und 111 begründet werden.
+
+
 ## 1. KI-Inventar
 
 1.1 Bitte stellen Sie ein vollständiges Inventar aller KI-Systeme, KI-Modelle und KI-gestützten Funktionen bereit, getrennt nach Produkt, internem Tool, Kundenlösung, Forschungsprojekt und eingestelltem System.
@@ -38,15 +41,15 @@ Prüfgegenstand: KI-Systeme, KI-Modelle, Trainingsdaten, Hochrisiko-Einstufung, 
 
 2.1 Bitte stellen Sie die Prüfung bereit, warum kein KI-System eine verbotene Praxis nach Art. 5 KI-Verordnung darstellt.
 
-2.2 Bitte stellen Sie je KI-System die Hochrisiko-Einstufung nach Art. 6 KI-Verordnung und Anhang III bereit, einschließlich Prüfung der Rückausnahme nach Art. 6 Abs. 3 KI-Verordnung.
+2.2 Bitte stellen Sie je KI-System die getrennte Einstufung nach Art. 6 Abs. 1 mit Anhang I Abschnitt A oder B und nach Art. 6 Abs. 2 mit genauer Anhang-III-Nummer bereit. Produktrechtsweg und Absätze 1a bis 1c sowie eine nur für Absatz 2 mögliche Rückausnahme nach Absatz 3 sind zu dokumentieren.
 
-2.3 Für Systeme, die trotz Anhang-III-Nähe nicht als Hochrisiko eingestuft werden, sind die Begründung, Dokumentation, interne Freigabe und etwaige Registrierungspflichten gesondert vorzulegen.
+2.3 Für Systeme, die trotz Anhang-III-Nähe nicht als Hochrisiko eingestuft werden, sind die Begründung, Dokumentation, interne Freigabe und der Registrierungsnachweis nach Art. 49 Abs. 2 bei Inanspruchnahme von Art. 6 Abs. 3 mit Dokumentation nach Art. 6 Abs. 4 und gesonderter Prüfung der zeitlichen Anwendbarkeit gesondert vorzulegen.
 
 ## 3. Hochrisiko-KI
 
-3.1 Für Hochrisiko-KI-Systeme sind Risikomanagement, Daten- und Datengovernance, technische Dokumentation, Protokollierung, Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit, Cybersicherheit, Qualitätsmanagement und Konformitätsbewertung vorzulegen.
+3.1 Für Hochrisiko-KI-Systeme sind, jeweils bezogen auf Marktrolle, Systemversion und zeitlich anwendbaren Pflichtenweg, Risikomanagement, Daten- und Datengovernance, technische Dokumentation, Protokollierung, Transparenz, menschliche Aufsicht, Genauigkeit, Robustheit, Cybersicherheit, Qualitätsmanagement und Konformitätsbewertung vorzulegen.
 
-3.2 Bitte stellen Sie EU-Konformitätserklärungen, CE-Kennzeichnung, technische Dokumentation nach Anhang IV, Gebrauchsanweisungen, Post-Market-Monitoring, Incident-Prozesse und Registrierungsnachweise bereit.
+3.2 Bitte stellen Sie die im Einzelfall erforderlichen EU-Konformitätserklärungen, CE-Nachweise, technische Dokumentation nach Anhang IV, Gebrauchsanweisungen, Nachmarktbeobachtung, Vorfallsprozesse und Registrierungsnachweise bereit. Trennen Sie Art. 9 Systemrisikomanagement, Art. 17 Anbieter-QMS und eine nur bei erfülltem Art. 27 erforderliche Betreiber-Folgenabschätzung. Ein ISO-Zertifikat ersetzt keinen dieser Systemnachweise.
 
 ## 4. Datenschutz, Datenrechte und IP
 
@@ -56,7 +59,7 @@ Prüfgegenstand: KI-Systeme, KI-Modelle, Trainingsdaten, Hochrisiko-Einstufung, 
 
 ## 5. Governance und Nachweise
 
-5.1 Bitte stellen Sie KI-Richtlinien, KI-Kompetenzschulungen, Modellfreigaben, Change-Logs, Sicherheitsberichte, Red-Team-Berichte, Bias-Tests, Incident-Register, Kundeninformationen und Vertriebsunterlagen bereit.
+5.1 Bitte stellen Sie vorhandene KI-Richtlinien, Maßnahmen zur Unterstützung der KI-Kompetenz nach Art. 4 einschließlich gegebenenfalls Schulungen, Modellfreigaben, Change-Logs, Sicherheitsberichte, Red-Team-Berichte, Bias-Tests, Incident-Register, Kundeninformationen und Vertriebsunterlagen bereit.
 
 5.2 Bitte stellen Sie Verträge mit Modellanbietern, Cloud-Anbietern, Datenlieferanten, Labeling-Dienstleistern und Integrationspartnern bereit.
 

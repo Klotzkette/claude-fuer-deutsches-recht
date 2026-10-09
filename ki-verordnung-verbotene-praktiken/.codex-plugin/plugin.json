@@ -1,0 +1,35 @@
+{
+  "name": "ki-verordnung-verbotene-praktiken",
+  "version": "445.35.0",
+  "description": "Verbotene KI-Praktiken nach Artikel 5 prüfen: konkrete Funktionen, Schutzbedürftigkeit, soziale Bewertung, biometrische Verfahren und neue Inhaltsverbote mit belegter Subsumtion und Maßnahmen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-verordnung-verbotene-praktiken",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "ki-verordnung",
+    "ai-act",
+    "artikel-5",
+    "verbotene-praktiken",
+    "biometrie"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "interface": {
+    "displayName": "KI-Verordnung: Verbotene Praktiken",
+    "shortDescription": "Verbotene KI-Praktiken prüfen",
+    "longDescription": "Verbotene KI-Praktiken nach Artikel 5 prüfen: konkrete Funktionen, Schutzbedürftigkeit, soziale Bewertung, biometrische Verfahren und neue Inhaltsverbote mit belegter Subsumtion und Maßnahmen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie die beschriebene KI-Funktion nach Artikel 5 und erstellen Sie einen begründeten Vermerk.",
+      "Lesen Sie die Unterlagen und entwerfen Sie die erforderlichen Rückfragen an unseren Anbieter."
+    ]
+  }
+}

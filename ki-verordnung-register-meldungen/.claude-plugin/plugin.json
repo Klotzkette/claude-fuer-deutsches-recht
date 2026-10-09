@@ -1,0 +1,16 @@
+{
+  "name": "ki-verordnung-register-meldungen",
+  "version": "445.35.0",
+  "description": "Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-verordnung-register-meldungen",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "ki-verordnung",
+    "ai-act",
+    "workflow"
+  ]
+}

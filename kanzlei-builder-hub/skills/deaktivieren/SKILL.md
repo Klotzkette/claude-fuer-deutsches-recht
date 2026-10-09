@@ -25,7 +25,7 @@ description: "Für /deaktivieren — Skill deaktivieren (ohne Dateilöschung): o
 - **§ 50 BRAO** — Pflicht zur Aktenführung; jede Statusänderung eines installierten Skills ist als Teil der Kanzleiorganisation zu protokollieren.
 - **Art. 32 DSGVO** — Pflicht zu technisch-organisatorischen Maßnahmen; vorübergehende Deaktivierung ist ein legitimes Sicherheitsinstrument bei Verdacht auf Fehlfunktionen.
 - **§ 43a Abs. 2 BRAO i. V. m. § 203 StGB** — Verschwiegenheitspflicht; Skills mit Zugriff auf Mandantendaten müssen bei Sicherheitsbedenken sofort stillgelegt werden können.
-- **AI Act Art. 26** — Deployer-Pflichten: Betreiber von KI-Systemen müssen angemessene Kontrollmechanismen einrichten, einschließlich der Möglichkeit zur sofortigen Außerbetriebnahme.
+- **Artikel 26 KI-Verordnung:** Zuerst einen erfassten Hochrisiko-Betrieb und zeitliche Anwendung begründen. Absatz 1 betrifft geeignete Maßnahmen zur Nutzung nach Betriebsanleitung, Absatz 2 die beauftragte menschliche Aufsicht, Absatz 5 Überwachung und gegebenenfalls Aussetzung/Information, Absatz 6 kontrollierte Logs. Kein allgemeines gesetzliches Installations- oder Deinstallationsprotokoll aus Artikel 26 erfinden. Interne Nachweise als Organisationsmaßnahme kennzeichnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ### Quellenregel
 

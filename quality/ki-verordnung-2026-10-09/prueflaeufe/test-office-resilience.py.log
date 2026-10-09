@@ -1,0 +1,11 @@
+...invalid pdf header: b'broke'
+EOF marker not found
+EOF marker not found
+invalid pdf header: b'broke'
+EOF marker not found
+EOF marker not found
+........
+----------------------------------------------------------------------
+Ran 11 tests in 3.604s
+
+OK

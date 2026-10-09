@@ -86,7 +86,7 @@ Nur einbeziehen wenn eine Behörde sich aktiv für diesen Bereich interessiert. 
 - **BaFin:** Finanzprodukte, BNPL-Features, Zahlungsdienste
 - **BZAW/Wettbewerbs-Verbände:** UWG-Abmahnungen; vgl. Abmahnstatistik UWG-Forum
 - **EU-Kommission:** DSA-Durchsetzung (VLOP-Status), DMA-Gatekeeper-Compliance
-- **EUAI-Behörde (AI Office):** KI-VO-Vollzug ab 2025/2026
+- **Zuständige Stelle:** Aufgaben des KI-Büros bei GPAI und Artikel 75 von nationaler Marktüberwachung nach Artikel 74 und sektoraler Produktaufsicht unterscheiden. Für das konkrete Produkt den geltenden Zuständigkeitsweg belegen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ### 4. Präzedenz (falls vorhanden)
 

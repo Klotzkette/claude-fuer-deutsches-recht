@@ -82,7 +82,7 @@ Bei KI-VO-Fragen zusätzlich sofort klären:
 | Anhang-III-Nähe | Berührt es Personal, Bildung, Kredit, Justiz, Migration, Strafverfolgung, Biometrie, kritische Infrastruktur oder Notfalltriage? | `hochrisiko-art-6-abs-2-anhang-iii` |
 | Fehlgebrauch | Können Mitarbeiter es entgegen der Zweckbestimmung hochriskant einsetzen? | `betreiber-deployer-pflichten-art-26`, ggf. `anbieter-werden-art-25` |
 | Dokumentation | Soll ein Vermerk für die Compliance-Akte entstehen? | `output-pruefdokument-ki-vo-mit-warnhinweisen` |
-| Konformität | Soll ein druckreifes Konformitätspaket, eine Bescheinigung oder ein Evidence Index entstehen? | `output-konformitaetsbescheinigung-evidence-pack` |
+| Konformität | Soll ein druckreifes Konformitätspaket, eine Bescheinigung oder ein Evidence Index entstehen? | `konformitaetsbescheinigung-evidence-pack` |
 
 ### 1b. Neue Spezialcluster mit schneller Weichenstellung
 
@@ -194,7 +194,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 
 1. Vorpruefung: Liegt ueberhaupt ein KI-System vor? (`liegt-ki-system-vor-art-3-nr-1`)
 2. Territorialen und sachlichen Anwendungsbereich prüfen (`territorialer-anwendungsbereich-art-2`, `sachlicher-ausschluss-art-2-abs-3-bis-12`).
-3. Rolle bestimmen: Anbieter, Betreiber, Importeur oder Haendler? (`persönlicher-anwendungsbereich-rollen-art-3`)
+3. Rolle bestimmen: Anbieter, Betreiber, Importeur oder Haendler? (`persoenlicher-anwendungsbereich-rollen-art-3`)
 4. Risikoklasse bestimmen: Verboten, Hochrisiko, begrenztes Risiko oder GPAI? (`risikoklassen-uebersicht-und-triage`)
 5. Roadmap für die zutreffende Risikoklasse auswaehlen und durcharbeiten.
 
@@ -206,7 +206,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `abgrenzung-konventionelle-software-vs-ki-system` — Abgrenzung konventioneller Software vom KI-System-Begriff der KI-VO.
 - `territorialer-anwendungsbereich-art-2` — Gilt die KI-VO auch für Nicht-EU-Unternehmen oder Exporte?
 - `sachlicher-ausschluss-art-2-abs-3-bis-12` — Prüft ob das KI-System vollstaendig aus dem Anwendungsbereich faellt.
-- `persönlicher-anwendungsbereich-rollen-art-3` — Wer ist betroffen und welche Rolle nimmt das Unternehmen ein?
+- `persoenlicher-anwendungsbereich-rollen-art-3` — Wer ist betroffen und welche Rolle nimmt das Unternehmen ein?
 - `risikoklassen-uebersicht-und-triage` — Schnelle Ersteinschaetzung der Risikoklasse nach Art. 5, 6, 50, 51 KI-VO.
 - `verbotene-praktiken-art-5` — Prüft ob ein KI-Einsatz in den Bereich absolut verbotener KI-Praktiken faellt.
 - `falsche-wiese-warnung-ki-vo` — Warnt vor Verwechslungen mit DSGVO, Produkthaftung oder MDR bei KI-VO-Fragen.
@@ -221,11 +221,11 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `hochrisiko-risikomanagementsystem-art-9` — KI-VO-konformes Risikomanagementsystem aufsetzen (Art. 9 KI-VO).
 - `hochrisiko-datenqualitaet-und-data-governance-art-10` — Anforderungen an Trainings-, Validierungs- und Testdaten (Art. 10 KI-VO).
 - `hochrisiko-technische-dokumentation-art-11-und-anhang-iv` — Inhalt und Aktualitaet der technischen Dokumentation (Art. 11 und Anhang IV KI-VO).
-- `hochrisiko-aufzeichnungspflichten-logging-art-12` — Automatische Aufzeichnungspflichten und Aufbewahrungsfristen (Art. 12 KI-VO).
+- `hochrisiko-aufzeichnungspflichten-logging-art` — Automatische Aufzeichnungspflichten und Aufbewahrungsfristen (Art. 12 KI-VO).
 - `hochrisiko-transparenz-und-informationen-für-betreiber-art-13` — Informationen in der Gebrauchsanweisung für Betreiber (Art. 13 KI-VO).
 - `hochrisiko-menschliche-aufsicht-art-14` — Anforderungen an wirksame menschliche Aufsicht über Hochrisiko-KI (Art. 14 KI-VO).
-- `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` — Leistungsstandards für Genauigkeit, Robustheit und Cybersicherheit (Art. 15 KI-VO).
-- `hochrisiko-konformitaetsbewertung-art-43-bis-49` — Konformitaetsbewertungsverfahren und Einbindung benannter Stellen (Art. 43-49 KI-VO).
+- `hochrisiko-genauigkeit-robustheit` — Leistungsstandards für Genauigkeit, Robustheit und Cybersicherheit (Art. 15 KI-VO).
+- `hochrisiko-konformitaetsbewertung-art-43` — Konformitaetsbewertungsverfahren und Einbindung benannter Stellen (Art. 43-49 KI-VO).
 - `eu-datenbank-registrierung-art-49-und-71` — Registrierungspflicht in der EU-KI-Datenbank für Anbieter und Betreiber.
 - `nicht-hochrisiko-bestaetigt-end-to-end-roadmap` — KI-VO-Pflichten und Dokumentation für nicht-hochrisiko-eingestufte Systeme.
 - `begrenztes-risiko-art-50-transparenzpflichten` — Transparenzpflichten für Chatbots, Deepfake-Tools und KI-Textgeneratoren (Art. 50 KI-VO).
@@ -238,14 +238,14 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `betreiber-deployer-pflichten-art-26` — Betreiberpflichten beim Einsatz eingekaufter Hochrisiko-KI-Systeme (Art. 26 KI-VO).
 - `code-of-practice-und-harmonisierte-normen` — Verhaltenskodizes und technische Normen für die KI-VO-Konformitaet nutzen.
 - `governance-aufsichtsbehoerden-art-70` — Aufsichtsbehoerden in Deutschland und Europa für die KI-VO (Art. 70 KI-VO).
-- `marktueberwachung-meldung-vorfaelle-art-72-bis-79` — Pflichten bei schwerwiegenden Vorfaellen und Marktbeobachtung nach Inverkehrbringen (Art. 72-79 KI-VO).
+- `marktueberwachung-meldung-vorfaelle-art-72` — Pflichten bei schwerwiegenden Vorfaellen und Marktbeobachtung nach Inverkehrbringen (Art. 72-79 KI-VO).
 - `sanktionen-art-99-bis-101` — Bussgelddimensionen und Sanktionsrahmen der KI-VO (Art. 99-101 KI-VO).
 - `verhaeltnis-zu-anderen-unionsrechtsakten` — Abgrenzung und Zusammenspiel der KI-VO mit DSGVO, MDR, Maschinenverordnung und anderen EU-Rechtsakten.
 - `zeitlicher-geltungsbereich-uebergangsfristen` — Uebergangsfristen und zeitlicher Geltungsbeginn je Pflichtenkategorie der KI-VO.
 - `output-pruefdokument-ki-vo-mit-warnhinweisen` — Abschliessendes Prüfdokument mit allen Ergebnissen und Warnhinweisen erstellen.
 - `output-konformitaetserklaerung-eu-anhang-v` — Muster der EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen (Anhang V KI-VO).
-- `output-konformitaetsbescheinigung-evidence-pack` — Konformitätsbescheinigung oder Readiness-Vermerk, EU-Erklärung, Evidence Index und Lückenliste erzeugen.
-- `output-betreiber-checkliste-und-folgenabschaetzung` — Fertige Betreiber-Compliance-Dokumentation und Folgenabschaetzung erstellen.
+- `konformitaetsbescheinigung-evidence-pack` — Konformitätsbescheinigung oder Readiness-Vermerk, EU-Erklärung, Evidence Index und Lückenliste erzeugen.
+- `betreiber-checkliste-folgenabschaetzung` — Fertige Betreiber-Compliance-Dokumentation und Folgenabschaetzung erstellen.
 - `mandatsabbruch-empfehlung-komplexe-faelle` — Erkennung von Faellen, die anwaltliche Spezialkenntnisse erfordern, und Eskalationsempfehlung.
 
 ## Worauf besonders achten

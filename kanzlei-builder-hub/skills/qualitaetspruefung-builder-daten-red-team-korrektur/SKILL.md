@@ -29,7 +29,7 @@ Liegt nur die SKILL.md vor, einmal fragen: "Haben Sie die zugehörigen Befehle, 
 
 - **§ 43a BRAO i. V. m. § 1 BORA** — Sorgfalts- und Qualitätspflichten des Rechtsanwalts; KI-gestützte Werkzeuge müssen vor dem Einsatz auf korrekte Funktion und Plausibilität geprüft werden.
 - **§ 43a Abs. 2 BRAO, § 203 StGB** — Verschwiegenheitspflicht; ein nicht geprüfter Skill kann Mandatsdaten gefährden.
-- **Art. 26 AI Act** — Deployer-Pflichten bei Hochrisiko-KI-Systemen: Einrichtung von Qualitätssicherungsmaßnahmen, Risikoüberwachung und Dokumentation.
+- **Artikel 26 KI-Verordnung:** Zuerst einen erfassten Hochrisiko-Betrieb und zeitliche Anwendung begründen. Absatz 1 betrifft geeignete Maßnahmen zur Nutzung nach Betriebsanleitung, Absatz 2 die beauftragte menschliche Aufsicht, Absatz 5 Überwachung und gegebenenfalls Aussetzung/Information, Absatz 6 kontrollierte Logs. Kein allgemeines gesetzliches Installations- oder Deinstallationsprotokoll aus Artikel 26 erfinden. Interne Nachweise als Organisationsmaßnahme kennzeichnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **§ 11 BRAO** — Pflicht zur Fortbildung; angemessene Kenntnis der eingesetzten KI-Werkzeuge ist Teil der beruflichen Sorgfalt.
 - **Art. 32 DSGVO** — Technisch-organisatorische Maßnahmen; Qualitätsprüfungen sind Teil des Datenschutz-Risikoschutzes.
 - **RDG** — Unerlaubte Rechtsdienstleistung; Skills, die eigenständig Rechtsdienstleistungen produzieren und dabei keine anwaltliche Überprüfung vorsehen, sind auf RDG-Konformität zu prüfen.

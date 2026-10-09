@@ -1,6 +1,6 @@
 # ki-verordnung-transparenzpruefer
 
-**8 Skills** · Stand `v445.33.1`
+**8 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-transparenzpruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -10,8 +10,9 @@
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`ki-verordnung-transparenzpruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`ki-verordnung-transparenzpruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md) |
+| **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-verordnung-transparenzpruefer-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-verordnung-transparenzpruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-verordnung-transparenzpruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-verordnung-transparenzpruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-transparenzpruefer.zip) |
 
 ## So benutzt man einen Skill
 

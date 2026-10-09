@@ -26,6 +26,9 @@ Hochrisiko-KI-System — Dokumentversion [X.Y] vom [TT.MM.JJJJ]
 
 ---
 
+**Rechtsstand und Anwendungsdatum:** KI-VO-Fassung vom 27. Juli 2026 einschließlich Berichtigung vom 29. September 2026; geprüft am 9. Oktober 2026. Für dieses System sind [Marktrolle], [Inverkehrbringen/Inbetriebnahme], [Altbestand nach Art. 111], [konkret geprüfte Pflicht und Geltungsbeginn nach Art. 113] auszufüllen. Die Verschiebung von Kapitel III Abschnitten 1 bis 3 außer Art. 6 Abs. 5 auf 2. Dezember 2027 für Anhang III und 2. August 2028 für Anhang I ist keine pauschale Verschiebung sämtlicher Artikel. Art. 43 und 49 liegen außerhalb dieser Abschnitte; ihr konkreter zeitlicher Anwendungsfall muss zusammen mit Art. 6 und 111 begründet werden.
+
+
 ### 1 Geltungsbereich und Dokumentzweck
 
 1.1 **KI-System:** [Bezeichnung des Systems]
@@ -55,7 +58,7 @@ Das Risikomanagementsystem wird als iterativer, kontinuierlicher Prozess über d
 
 2) Schätzung und Bewertung der Risiken bei bestimmungsgemäßer Verwendung und vernünftigerweise vorhersehbarem Missbrauch (Art. 9 Abs. 2 lit. b KI-VO);
 
-3) Evaluierung der nach Ergreifung von Maßnahmen verbleibenden Restrisiken (Art. 9 Abs. 2 lit. c KI-VO);
+3) Bewertung sonstiger möglicherweise auftretender Risiken anhand der Daten aus der Beobachtung nach dem Inverkehrbringen nach Art. 72 (Art. 9 Abs. 2 lit. c KI-VO);
 
 4) Festlegung geeigneter Risikomanagementmaßnahmen (Art. 9 Abs. 2 lit. d i. V. m. Abs. 4 und 5 KI-VO).
 
@@ -101,14 +104,16 @@ Jedes identifizierte Risiko wird nach folgenden Dimensionen bewertet:
 - **Eintrittswahrscheinlichkeit (W):** 1 (sehr selten) — 2 (selten) — 3 (möglich) — 4 (wahrscheinlich) — 5 (sehr wahrscheinlich)
 - **Risikoprioritätszahl (RPZ):** S × W (Skala 1–25)
 
-4.2 **Akzeptanzschwellen:**
+4.2 **Interne Orientierungsschwellen:**
+
+Die folgende RPZ-Matrix ist eine vorgeschlagene interne Methode, keine gesetzliche Skala und keine rechtliche Freigabegrenze. Auch eine geringe rechnerische RPZ kann ein nicht akzeptables Grundrechts- oder Sicherheitsrisiko verdecken. Jedes Restrisiko je Gefährdung und das Gesamtrestrisiko sind nach Art. 9 Abs. 4 gesondert zu begründen; bloßes Unterschreiten eines Zahlenwerts erlaubt keine Freigabe.
 
 | RPZ-Bereich | Einstufung | Handlungspflicht |
 |---|---|---|
-| 1–4 | Gering | Beobachtung; keine sofortige Maßnahme erforderlich |
+| 1–4 | Gering | Eigenständige Prüfung der Akzeptabilität und erforderlicher Maßnahmen |
 | 5–9 | Mittel | Maßnahmen zu planen und zu dokumentieren |
 | 10–16 | Hoch | Maßnahmen vor Inverkehrbringen umzusetzen |
-| 17–25 | Kritisch | System darf nicht in Verkehr gebracht werden ohne Risikominderung auf ≤ 9 |
+| 17–25 | Kritisch | Keine Freigabe, bevor einzelne Restrisiken und Gesamtrestrisiko nachvollziehbar akzeptabel sind |
 
 4.3 **Bewertungszyklus:** Neubewertung bei jeder wesentlichen Änderung des Systems sowie mindestens [halbjährlich / jährlich] im laufenden Betrieb.
 
@@ -116,7 +121,7 @@ Jedes identifizierte Risiko wird nach folgenden Dimensionen bewertet:
 
 ### 5 Risikomanagementmaßnahmen
 
-5.1 Für jedes Risiko mit RPZ ≥ 5 werden Maßnahmen nach folgendem Vorrangsystem festgelegt (Art. 9 Abs. 5 KI-VO):
+5.1 Geeignete Maßnahmen werden für die nach Art. 9 zu behandelnden Risiken anhand der Einzelfallbewertung festgelegt, unabhängig von einer starren RPZ-Untergrenze. Dabei gilt die Reihenfolge des Art. 9 Abs. 5 KI-VO:
 
 1) Beseitigung oder technische Reduktion des Risikos durch Design- und Entwicklungsmaßnahmen (Vorrang);
 
@@ -148,9 +153,9 @@ Jedes identifizierte Risiko wird nach folgenden Dimensionen bewertet:
 
 ### 7 Nachmarktüberwachung und Vorfallsmanagement
 
-7.1 **Nachmarktüberwachungsplan:** Der Post-Market Monitoring Plan gemäß Art. 72 KI-VO ist in der Technischen Dokumentation (Anhang IV Nr. 6) gesondert dokumentiert.
+7.1 **Nachmarktüberwachungsplan:** Der Post-Market Monitoring Plan gemäß Art. 72 KI-VO ist in der Technischen Dokumentation (Anhang IV Nr. 9) gesondert dokumentiert.
 
-7.2 **Schwerwiegende Vorfälle (Art. 73 KI-VO):** Betreiber sind anzuweisen, schwerwiegende Vorfälle und Fehlfunktionen, die Risiken für Gesundheit, Sicherheit oder Grundrechte darstellen, unverzüglich zu melden. Meldefrist: [15 Tage bei schwerwiegendem Vorfall; 2 Tage bei Risiko für Leben].
+7.2 **Schwerwiegende Vorfälle:** Die Betreiberkette nach Art. 26 Abs. 5 und die Anbietermeldung nach Art. 73 sind getrennt organisiert: [Ansprechpartner, Behörden, Ereignis- und Kenntniszeitpunkte]. Art. 73 verlangt grundsätzlich die Meldung unmittelbar nach Feststellung eines Kausalzusammenhangs oder einer hinreichenden Wahrscheinlichkeit und spätestens 15 Tage nach Kenntnis von Anbieter oder gegebenenfalls Betreiber. Bei weitverbreiteten Verstößen oder Vorfällen nach Art. 3 Nr. 49 Buchstabe b gilt unverzüglich, spätestens zwei Tage; beim Tod einer Person unmittelbar nach festgestelltem oder vermutetem Zusammenhang, spätestens zehn Tage. Bei Bedarf ist eine unvollständige Erstmeldung mit Folgemeldung nach Art. 73 Abs. 5 vorzusehen. Die Höchstfristen sind keine Wartefristen; Sonderregeln der Absätze 7 bis 10 werden anhand des Sektors geprüft.
 
 7.3 **Feedback-Schleife:** Die im Betrieb gewonnenen Erkenntnisse werden [quartalsweise] in die Risikoanalyse zurückgeführt.
 

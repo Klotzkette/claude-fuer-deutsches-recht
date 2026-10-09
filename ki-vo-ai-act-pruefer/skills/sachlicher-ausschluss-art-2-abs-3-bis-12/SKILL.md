@@ -49,7 +49,7 @@ Für KI-Systeme, deren Parameter einschließlich der Modellgewichte, der Archite
 **Voraussetzungen:**
 - Parameter einschließlich Gewichte müssen öffentlich zugänglich sein.
 - Nicht anwendbar auf KI-Systeme, die als Hochrisiko-KI einzustufen sind oder verbotene Praktiken darstellen.
-- GPAI-Modelle mit systemischem Risiko (über 10e25 FLOP) sind von der Open-Source-Ausnahme ausgeschlossen (Art. 52 Abs. 1 KI-VO).
+- Die Open-Source-Regel für Systeme nach Artikel 2 Absatz 12 von Modellprivilegien nach Artikel 53 Absatz 2 und Artikel 54 Absatz 6 trennen. Diese Modellprivilegien erfassen keine GPAI-Modelle mit systemischem Risiko. Mehr als 10^25 Trainings-Gleitkommaoperationen begründen nach Artikel 51 Absatz 2 eine widerlegbare Vermutung, sind aber nicht der einzige Einstufungsweg.
 
 **Hinweis:** Die Open-Source-Ausnahme befreit nicht vollständig von allen Pflichten. Transparenzpflichten nach Art. 50 KI-VO können trotzdem gelten.
 
@@ -62,7 +62,7 @@ Für KI-Systeme, deren Parameter einschließlich der Modellgewichte, der Archite
 
 - **Ausnahme eindeutig gegeben:** KI-VO nicht anwendbar; endet. Hinweis auf möglicherweise anwendbares anderes Recht.
 - **Ausnahme fraglich (z.B. Dual-Use, Forschung mit echten Nutzern):** Weiter mit Vorbehalt; Hinweis auf Klärungsbedarf; ggf. `mandatsabbruch-empfehlung-komplexe-faelle`
-- **Keine Ausnahme:** Weiter zu `persönlicher-anwendungsbereich-rollen-art-3`
+- **Keine Ausnahme:** Weiter zu `persoenlicher-anwendungsbereich-rollen-art-3`
 
 ---
 
@@ -73,7 +73,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+- Art. 99 KI-VO — den konkreten Verstoß und die jeweils einschlägige Sanktionsstufe prüfen; nicht den Artikel-5-Höchstsatz auf alle Pflichten übertragen
 
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?

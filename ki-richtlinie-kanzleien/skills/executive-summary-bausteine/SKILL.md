@@ -23,7 +23,7 @@ Der Executive Summary einer KI-Nutzungsrichtlinie fasst die sechs wichtigsten Ec
 
 ## Rechtlicher Hintergrund
 
-Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Gewissenhaftigkeit), § 43a Abs. 2 BRAO (Verschwiegenheit), § 43e BRAO (IT-Dienstleister), § 203 StGB (Geheimnisverrat), Art. 5 und 6 DSGVO (Datenschutzgrundsätze und Rechtmäßigkeit), § 2 Abs. 2 UrhG (Schöpfungshöhe) sowie Art. 50 Abs. 4 KI-VO (Kennzeichnungspflichten). BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 konkretisieren die berufsrechtliche Anforderung der Prüfpflicht.
+Die sechs Eckpunkte spiegeln die zentralen Rechtspflichten wider: § 43 BRAO (Gewissenhaftigkeit), § 43a Abs. 2 BRAO (Verschwiegenheit), § 43e BRAO (IT-Dienstleister), § 203 StGB (Geheimnisverrat), Art. 5 und 6 DSGVO (Datenschutzgrundsätze und Rechtmäßigkeit), § 2 Abs. 2 UrhG (Schöpfungshöhe) sowie Artikel 50 Absatz 4 KI-Verordnung (Deepfakes und Texte zu Angelegenheiten öffentlichen Interesses; die redaktionelle Ausnahme betrifft den Textfall). BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 konkretisieren die berufsrechtliche Anforderung der Prüfpflicht.
 
 ## Vorgehen
 
@@ -67,7 +67,7 @@ Auch wenn der Output der KI-Systeme plausibel klingt: Die Ergebnisse sind kritis
 Verwenden Sie für Ihre berufliche Tätigkeit in der Kanzlei nur vorab freigegebene Kanzlei-Accounts, nicht Ihre privaten Accounts, um dem Compliance-Risiko der "Schatten-KI" entgegenzuwirken.
 
 **Eckpunkt 6 – Kennzeichnung und Transparenz:**
-Öffentliche KI-generierte Inhalte, die keiner menschlichen Verantwortung oder redaktionellen Kontrolle unterliegen, müssen als solche gekennzeichnet werden (Art. 50 Abs. 4 KI-VO). KI-generierte Inhalte sind stets auf mögliche Verletzungen von Urheber- und Persönlichkeitsrechten zu prüfen.
+Für Veröffentlichungen ist nach Artikel 50 Absatz 4 zwischen Deepfakes und Texten zu Angelegenheiten öffentlichen Interesses zu unterscheiden. Beim Textfall können tatsächliche menschliche Überprüfung oder redaktionelle Kontrolle zusammen mit redaktioneller Verantwortung die dortige Ausnahme tragen. Keine pauschale Freistellung synthetischer Bilder oder Tonaufnahmen. Urheber- und Persönlichkeitsrechte separat prüfen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 --- vor Versand klären ---
 1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]

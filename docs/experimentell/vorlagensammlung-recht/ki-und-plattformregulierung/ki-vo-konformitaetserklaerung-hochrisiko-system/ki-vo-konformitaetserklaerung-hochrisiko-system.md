@@ -34,6 +34,9 @@ gemäß Art. 47 Abs. 1 i. V. m. Anhang V der Verordnung (EU) 2024/1689 des Europ
 
 ---
 
+**Rechtsstand und Anwendungsdatum:** KI-VO-Fassung vom 27. Juli 2026 einschließlich Berichtigung vom 29. September 2026; geprüft am 9. Oktober 2026. Für dieses System sind [Marktrolle], [Inverkehrbringen/Inbetriebnahme], [Altbestand nach Art. 111], [konkret geprüfte Pflicht und Geltungsbeginn nach Art. 113] auszufüllen. Die Verschiebung von Kapitel III Abschnitten 1 bis 3 außer Art. 6 Abs. 5 auf 2. Dezember 2027 für Anhang III und 2. August 2028 für Anhang I ist keine pauschale Verschiebung sämtlicher Artikel. Art. 43 und 49 liegen außerhalb dieser Abschnitte; ihr konkreter zeitlicher Anwendungsfall muss zusammen mit Art. 6 und 111 begründet werden.
+
+
 ### 1 Identifikation des KI-Systems
 
 1.1 **Bezeichnung des KI-Systems:** [Produktname / Systembezeichnung]
@@ -42,7 +45,7 @@ gemäß Art. 47 Abs. 1 i. V. m. Anhang V der Verordnung (EU) 2024/1689 des Europ
 
 1.3 **Eindeutige Kennung zur Rückverfolgbarkeit** (soweit vorhanden): [Seriennummer, UUID, EU-KI-Datenbanknummer oder andere Referenz, die eine eindeutige Rückverfolgung ermöglicht]
 
-1.4 **Einstufung als Hochrisiko-KI-System:** Das System fällt unter Anhang III Nr. [Ziffer eintragen, z. B. 4 lit. a — Beschäftigung und Personalmanagement] der KI-VO.
+1.4 **Einstufung und maßgeblicher Rechtsweg:** [Art. 6 Abs. 2 mit genauer Nummer und Buchstabe des Anhangs III / Art. 6 Abs. 1 mit Produktrechtsakt und Abschnitt A oder B des Anhangs I]. Art. 6 Abs. 1a bis 1c und eine zusätzliche Anhang-III-Einstufung wurden geprüft: [Ergebnis, Nachweis].
 
 ---
 
@@ -72,7 +75,7 @@ gemäß Art. 47 Abs. 1 i. V. m. Anhang V der Verordnung (EU) 2024/1689 des Europ
 
 ### 4 Konformitätserklärung
 
-4.1 Das unter Ziffer 1 beschriebene KI-System erfüllt die Anforderungen der Verordnung (EU) 2024/1689 (KI-Verordnung), insbesondere die Anforderungen des Kapitels III Abschnitt 2 (Art. 8–15 KI-VO), und wurde dem Konformitätsbewertungsverfahren gemäß Art. 43 KI-VO unterzogen.
+4.1 [Nur nach dokumentiert abgeschlossener Prüfung unterzeichnen; offene Prüfungen bleiben als Entwurf gesperrt.] Das unter Ziffer 1 beschriebene KI-System erfüllt die Anforderungen der Verordnung (EU) 2024/1689 (KI-Verordnung), insbesondere die Anforderungen des Kapitels III Abschnitt 2 (Art. 8–15 KI-VO), und wurde dem Konformitätsbewertungsverfahren gemäß Art. 43 KI-VO unterzogen.
 
 4.2 Das KI-System erfüllt ferner die folgenden einschlägigen Rechtsvorschriften der Union, die eine EU-Konformitätserklärung vorschreiben:
 
@@ -95,23 +98,24 @@ gemäß Art. 47 Abs. 1 i. V. m. Anhang V der Verordnung (EU) 2024/1689 des Europ
 
 | Norm / Spezifikation | Ausgabe / Datum | Sachgebiet |
 |---|---|---|
-| [z. B. EN ISO/IEC 42001:2023] | [2023] | KI-Managementsystem |
-| [z. B. EN ISO/IEC 27001:2022] | [2022] | Informationssicherheit |
-| [Weitere Norm] | […] | […] |
+| [tatsächlich einschlägige harmonisierte Norm] | [Ausgabe und Amtsblattfundstelle] | [konkret erfasste Anforderungen] |
+| [gemeinsame Spezifikation nach Art. 41] | [Durchführungsrechtsakt und Fundstelle] | [konkret erfasste Anforderungen] |
 
 6.2 Soweit keine harmonisierten Normen angewendet wurden oder diese nicht alle relevanten Anforderungen abdecken, wurde auf folgende gemeinsame Spezifikationen im Sinne des Art. 41 KI-VO zurückgegriffen:
 
 [Angabe oder „Keine gemeinsamen Spezifikationen angewendet."]
 
+6.3 Andere Standards oder Zertifikate, etwa ISO/IEC 42001 oder 27001, werden getrennt als zusätzliche Nachweise geführt: [Ausgabe, Zertifizierungsgegenstand, Geltungsbereich, Grenzen]. Sie gelten ohne passenden Rechtsakt und passende Amtsblattfundstelle nicht als harmonisierte KI-VO-Norm und ersetzen die Systembewertung nicht.
+
 ---
 
 ### 7 Benannte Stelle (soweit anwendbar)
 
-7.1 Konformitätsbewertungsverfahren mit Einbeziehung einer benannten Stelle (Art. 43 Abs. 1 S. 2 KI-VO — bei biometrischen Fernidentifizierungssystemen und bestimmten sicherheitskritischen Systemen nach Anhang III):
+7.1 Gewählter Verfahrensweg: Für Anhang III Nr. 1 sind die Voraussetzungen und Wahlmöglichkeiten des Art. 43 Abs. 1 für Anhang VI oder VII zu prüfen; für Anhang III Nr. 2 bis 8 gilt Art. 43 Abs. 2 mit interner Kontrolle nach Anhang VI. Bei Produkten aus Anhang I Abschnitt A ist Art. 43 Abs. 3 zusammen mit Art. 6 Abs. 1a bis 1c und dem konkreten Produktrecht zu prüfen; für Abschnitt B ist zunächst der begrenzte Anwendungsumfang nach Art. 2 Abs. 2 festzustellen. Begründeter Weg und Beteiligung einer notifizierten Stelle: [Angaben].
 
 - Bezeichnung und Anschrift der benannten Stelle: […]
 - Kennnummer der benannten Stelle (Notified Body Number): […]
-- Beschreibung des durchgeführten Konformitätsbewertungsverfahrens: [z. B. Baumuster- prüfung gemäß Anhang VII KI-VO]
+- Beschreibung des durchgeführten Konformitätsbewertungsverfahrens: [z. B. Bewertung des Qualitätsmanagementsystems und der technischen Dokumentation gemäß Anhang VII KI-VO]
 - Ausgestelltes Zertifikat: Zertifikat Nr. […], ausgestellt am [TT.MM.JJJJ], gültig bis [TT.MM.JJJJ]
 
 [alternativ: „Das Konformitätsbewertungsverfahren wurde auf der Grundlage einer internen Kontrolle gemäß Anhang VI KI-VO ohne Einbeziehung einer benannten Stelle durchgeführt."]
@@ -146,7 +150,7 @@ gemäß Art. 47 Abs. 1 i. V. m. Anhang V der Verordnung (EU) 2024/1689 des Europ
 _____________________________
 [Unterschrift, Name, Funktion, Vertretungsrolle]
 
-**Aufbewahrung und Bereitstellung:** Unterzeichnete EU-Konformitätserklärung verwahrt unter [Dokumenten-ID und Speicherort] seit [Datum]; bereitgestellt für [Marktüberwachungsbehörde / Betreiber] über [Kanal].
+**Form und Aufbewahrung:** Die Erklärung wird nach Art. 47 Abs. 1 in maschinenlesbarer Form erstellt, physisch oder elektronisch unterzeichnet und zehn Jahre nach Inverkehrbringen oder Inbetriebnahme für die zuständigen nationalen Behörden bereitgehalten. Maßgeblicher Fristbeginn und Formnachweis: [Angaben]. Unterzeichnete EU-Konformitätserklärung verwahrt unter [Dokumenten-ID und Speicherort] seit [Datum]; bereitgestellt für [Marktüberwachungsbehörde / Betreiber] über [Kanal].
 
 ## Anlagen
 

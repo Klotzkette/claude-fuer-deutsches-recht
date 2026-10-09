@@ -5,16 +5,17 @@
 
 Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`ki-verordnung-transparenzpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-verordnung-transparenzpruefer.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`ki-verordnung-transparenzpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-transparenzpruefer.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/ki-verordnung-transparenzpruefer.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md) |
+| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md" download>MD herunterladen / Download MD</a> |
 | Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
@@ -45,12 +46,13 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`ki-verordnung-transparenzpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-verordnung-transparenzpruefer.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`ki-verordnung-transparenzpruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/ki-verordnung-transparenzpruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`ki-verordnung-transparenzpruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`ki-verordnung-transparenzpruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-werkstatt.md) |
+| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md" download>ki-verordnung-transparenzpruefer-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -67,6 +69,11 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+## Fachstand 445.35.0 vom 9. Oktober 2026
+
+Die amtliche konsolidierte KI-Verordnung einschließlich Änderungsverordnung 2026/1744 und deutscher Berichtigung vom 29. September wurde für die beschriebenen Korrekturen geöffnet. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
+
+Der [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md) führt vom konkreten Auftrag zum fertigen Dokument; [TXT](ki-verordnung-transparenzpruefer-hauptproblem.txt). Werkstatt und Mini sind zusätzlich als byteidentische TXT-Fassungen verfügbar. Bestehende Testakten bleiben erhalten. Historische Rechtsprechungsanker werden nicht als neu im Volltext verifiziert ausgegeben; diese Runde enthält keine behaupteten Live-Modelltests oder produktiven Behördenmeldungen.
 ## 1. Einstieg
 
 Dieses Plugin bearbeitet Artikel 50 für konkrete Kommunikation: Kanzleientwurf, öffentlicher Beitrag, KI-Empfang und künstlich veränderte Medien. Es beginnt im Projektordner und endet mit dem beauftragten Hinweis, Anbieteranschreiben oder begründeten Freigabevermerk. Es ist kein allgemeiner Hochrisiko-, Datenschutz- oder Berufsrechtsprüfer.

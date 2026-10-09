@@ -1,5 +1,7 @@
 # 1. Artikel 50: Kommissionsleitlinien in der Mandatsbearbeitung
 
+Amtlicher Nachabgleich vom 9. Oktober 2026: [konsolidierter Rechtsstand und Berichtigung](rechtsstand-2026-10-09.md). Artikel 6 Absatz 1b lautet nach deutscher Berichtigung „Ungeachtet“ des Absatzes 1a. Artikel 50, 111 und 113 wurden erneut gelesen; die Artikel-111-Absatz-4-Übergangsregel bleibt auf vor dem 2. August 2026 in Verkehr gebrachte Systeme und die Anbieterpflicht des Artikels 50 Absatz 2 begrenzt. Frühere Quellenprüfungen zu nationalem Recht und weiteren Reformverfahren behalten ihren ausdrücklich historischen Stand.
+
 ## 1.1. Quellenstatus und Prüfgegenstand
 
 Die finalen [Kommissionsleitlinien vom 20. Juli 2026](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems), C(2026) 5054 final, Anhang, wurden am 30. September 2026 am [amtlichen Volltext](https://ec.europa.eu/newsroom/dae/redirection/document/131215) geprüft. Randnummer 5 erklärt sie für unverbindlich; die maßgebliche Auslegung bleibt dem Gerichtshof vorbehalten. Sie ersetzen den Konsultationsentwurf vom Mai, ändern aber nicht den Normtext. Der freiwillige Transparenzkodex unterstützt Absätze 2, 4 und 5 und ist vom GPAI-Kodex zu unterscheiden. Beitritt ist kein abschließender Konformitätsbeweis.

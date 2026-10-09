@@ -28,7 +28,7 @@ OP- und Chirurgieroboter sind regelmäßig Medizinprodukte hoher Risikoklasse (M
 - **MPBetreibV** Pflichten Betreiber, insb. § 3 Einweisung, § 6 Bestandsverzeichnis, § 11 sicherheitstechnische Kontrollen.
 - **BGB** §§ 630a, 630c, 630e (Aufklärung), 630f (Dokumentation), 630h (Beweislastregeln).
 - **§§ 823, 831 BGB** und ärztliche Haftung; ständige Rspr. BGH (Aufklärung, voll beherrschbare Risiken).
-- **KI-VO** Anhang III bei sicherheitskritischer KI-Funktion; integrierte Konformitätsbewertung mit MDR.
+- **Medizinrobotik:** Produktpfad nach Artikel 6 Absatz 1 mit einschlägigem Anhang-I-Abschnitt-A-Rechtsakt, Absätzen 1a bis 1c und Artikel 43 Absatz 3 prüfen. Sicherheitskritik allein ist kein Anhang-III-Tatbestand; beispielsweise Notfalltriage kann einen zusätzlichen Verwendungspfad eröffnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **DSGVO** Art. 9 Patientendaten; § 22 BDSG.
 - **VO (EU) 2024/2853** Produkthaftung.
 

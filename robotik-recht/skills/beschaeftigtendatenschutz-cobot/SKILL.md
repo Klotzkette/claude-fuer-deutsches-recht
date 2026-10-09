@@ -75,7 +75,7 @@ Cobots erfassen regelmäßig Beschäftigtendaten: Pickrate je Schicht, Standortd
 
 - **Permanent-Video** für Sicherheit – unverhältnismäßig.
 - **Telemetrie an Hersteller** ohne AVV.
-- **Emotionserkennung** als Bedienkomfort – seit 02.02.2025 nach Art. 5 KI-VO verboten am Arbeitsplatz.
+- **Emotionserkennung am Arbeitsplatz:** Artikel 5 Absatz 1 Buchstabe f prüfen; medizinische oder sicherheitsbezogene Zwecke sind eng und anhand der tatsächlichen Funktion zu untersuchen. Ein Werbeetikett „Sicherheit“ genügt nicht. Körperliche Zustände und Emotionen anhand der Definition unterscheiden. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **BV nicht aktualisiert** bei Software-Update mit neuen Funktionen.
 - **Schicht-Performance individualisiert** – Mitbestimmung verletzt.
 

@@ -1,5 +1,9 @@
 # KI-Nutzungsrichtlinie für Kanzlei oder Unternehmen
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Ein Jahreskurs und interne Datenklassen sind Organisationsentscheidungen, keine gesetzliche Risikoklassifizierung. Die pauschale dreijährige KI-Protokollaufbewahrung wurde durch einen zweck- und rechtsbezogenen Aufbewahrungsnachweis ersetzt. Art. 26 Abs. 6 ist nur für seinen eigenen Hochrisiko-Anwendungsbereich heranzuziehen. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Interne Richtlinie für KI-Nutzung mit Datenklassen, Freigaben, menschlicher Kontrolle und Protokollierung.
 
 ## Download
@@ -48,7 +52,7 @@ Abgrenzung: Für KI-Training mit Datenlizenz `ki-und-plattformregulierung/datenl
 
 4. Anschließend wird das Freigabeverfahren des Abschnitts 3.2 vervollständigt. Neben der Datenschutz-Folgenabschätzung nach Art. 35 Abs. 1 DSGVO gehören dazu die Mindestinhalte des Auftragsverarbeitungsvertrags nach Art. 28 Abs. 3 DSGVO, die Genehmigung von Unterauftragsverarbeitern nach Art. 28 Abs. 2 DSGVO, der Eintrag in das Verzeichnis nach Art. 30 Abs. 1 DSGVO und die ausdrückliche Festlegung, ob der Anbieter Eingaben zur Modellverbesserung verwendet. Fehlt der Ausschluss dieser Nutzung, verarbeitet der Anbieter zu eigenen Zwecken und gilt nach Art. 28 Abs. 10 DSGVO insoweit selbst als Verantwortlicher, womit die Weisungsbindung nach Art. 28 Abs. 3 Buchst. a DSGVO entfällt.
 
-5. Zuletzt werden Dokumentation, Schulung und Mitbestimmung verbunden. Die Protokollierung nach Abschnitt 5.1 ist eine technische Einrichtung, die zur Kontrolle von Verhalten und Leistung geeignet ist, und damit nach § 87 Abs. 1 Nummer 6 des Betriebsverfassungsgesetzes (BetrVG) mitbestimmungspflichtig; die Zweckbindung in Abschnitt 5.2 ändert daran nichts. Für die Beurteilung des KI-Einsatzes gilt die Hinzuziehung eines Sachverständigen nach § 80 Abs. 3 Satz 2 BetrVG als erforderlich, und werden Auswahlrichtlinien mit KI-Unterstützung aufgestellt, greift § 95 Abs. 2a BetrVG. Die Schulung nach Abschnitt 7.1 wird mit der Pflicht zur KI-Kompetenz des Personals aus Art. 4 KI-Verordnung verknüpft und mit Datum, Inhalt und Teilnehmerbestätigung nachgewiesen.
+5. Zuletzt werden Dokumentation, Schulung und Mitbestimmung verbunden. Die Protokollierung nach Abschnitt 5.1 ist eine technische Einrichtung, die zur Kontrolle von Verhalten und Leistung geeignet ist, und damit nach § 87 Abs. 1 Nummer 6 des Betriebsverfassungsgesetzes (BetrVG) mitbestimmungspflichtig; die Zweckbindung in Abschnitt 5.2 ändert daran nichts. Für die Beurteilung des KI-Einsatzes gilt die Hinzuziehung eines Sachverständigen nach § 80 Abs. 3 Satz 2 BetrVG als erforderlich, und werden Auswahlrichtlinien mit KI-Unterstützung aufgestellt, greift § 95 Abs. 2a BetrVG. Die Schulung nach Abschnitt 7.1 wird mit der Unterstützung der Kompetenzentwicklung des Personals nach Art. 4 KI-Verordnung verknüpft und mit Datum, Inhalt und Teilnehmerbestätigung nachgewiesen.
 
 ### Typische Gegnereinwände mit Antwortlinie
 

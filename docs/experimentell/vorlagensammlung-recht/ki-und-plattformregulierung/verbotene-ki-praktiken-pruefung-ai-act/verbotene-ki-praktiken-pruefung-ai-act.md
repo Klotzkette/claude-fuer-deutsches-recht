@@ -36,27 +36,29 @@ Prüfstand: [Datum, Prüfer]
 
 ## 2. Art.-5-Prüffelder
 
-2.1 Manipulative, täuschende oder ausnutzende Techniken: Das System verwendet [keine / folgende] Techniken, die Verhalten wesentlich verzerren können: [Beschreibung].
+2.1 Art. 5 Abs. 1 Buchstabe a: Werden unterschwellige, absichtlich manipulative oder täuschende Techniken eingesetzt, die die Fähigkeit zu einer informierten Entscheidung spürbar beeinträchtigen, eine sonst nicht getroffene Entscheidung herbeiführen und erheblichen Schaden verursachen oder mit hinreichender Wahrscheinlichkeit verursachen können? [Technik, Entscheidung, Kausalität, Schaden, Belege].
 
-2.2 Ausnutzung von Vulnerabilität: Das System richtet sich an oder nutzt aus [Alter, Behinderung, soziale oder wirtschaftliche Lage, sonstige Schutzbedürftigkeit] [nein / ja, Begründung].
+2.2 Buchstabe b: Wird eine Schwäche aufgrund Alters, Behinderung oder besonderer sozialer oder wirtschaftlicher Lage ausgenutzt, um Verhalten wesentlich zu verändern, und entsteht dadurch erheblicher Schaden oder dessen hinreichende Wahrscheinlichkeit? [Betroffene Gruppe, Ausnutzung, Wirkung, Belege].
 
-2.3 Social Scoring: Das System bewertet natürliche Personen über mehrere Kontexte hinweg [nein / ja, Beschreibung], mit Folgen [keine / Benachteiligung / Zugangsausschluss].
+2.3 Buchstabe c: Erfolgt eine Bewertung oder Einstufung natürlicher Personen oder Gruppen über einen bestimmten Zeitraum aufgrund Sozialverhaltens oder bekannter, abgeleiteter oder vorhergesagter persönlicher Merkmale, die kontextfremde Benachteiligung oder ungerechtfertigte beziehungsweise unverhältnismäßige Benachteiligung bewirkt? [Bewertungsdaten und Folge]. Der Tatbestand ist nicht auf öffentliche Stellen begrenzt.
 
-2.4 Vorhersage individueller Straftaten oder Risikoprognosen: Das System wird [nicht / wie folgt] für kriminalitätsbezogene Prognosen verwendet.
+2.4 Buchstabe d: Erfolgt eine individuelle Straftatrisikobewertung ausschließlich auf Profiling oder Persönlichkeitsmerkmalen? Die Ausnahme für die Unterstützung einer menschlichen Bewertung einer bereits auf objektiven, überprüfbaren und unmittelbar mit einer kriminellen Tätigkeit zusammenhängenden Tatsachen beruhenden Beteiligung wird gesondert geprüft: [Tatsachen und menschliche Bewertung].
 
-2.5 Gesichtsbilder und biometrische Datenbanken: Das System erstellt oder erweitert [keine / folgende] Datenbanken durch ungezieltes Auslesen oder Erhebung.
+2.5 Buchstabe e: Wird eine Gesichtserkennungsdatenbank durch ungezieltes Auslesen von Gesichtsbildern aus dem Internet oder Überwachungsaufnahmen erstellt oder erweitert? [Datenherkunft, Erhebungsmethode, Zweck]. Nicht jede beliebige biometrische Datenbank erfüllt diesen Tatbestand.
 
-2.6 Emotionserkennung: Das System erkennt Emotionen in [Arbeitsplatz / Bildung / sonstiger Kontext] [nein / ja, Ausnahmetatbestand und Begründung].
+2.6 Buchstabe f: Werden Emotionen natürlicher Personen am Arbeitsplatz oder in Bildungseinrichtungen erschlossen? Eine medizinische oder sicherheitsbezogene Zweckbestimmung wird mit konkreten Belegen geprüft: [Zweck und technische Funktion]. Bloße Leistungssteigerung ist keine solche Ausnahme.
 
-2.7 Biometrische Kategorisierung: Das System kategorisiert Personen nach [besonderen Kategorien / anderen Merkmalen] [nein / ja, Begründung].
+2.7 Buchstabe g: Werden Personen biometrisch kategorisiert, um Rasse, politische Meinungen, Gewerkschaftszugehörigkeit, religiöse oder weltanschauliche Überzeugungen, Sexualleben oder sexuelle Orientierung abzuleiten? Die gesetzlichen Abgrenzungen zur Kennzeichnung oder Filterung rechtmäßig erworbener Datensätze und zur Kategorisierung im Strafverfolgungsbereich werden nur bei belegtem Sachverhalt herangezogen: [Belege].
 
-2.8 Echtzeit-Fernidentifizierung im öffentlichen Raum: Das System wird [nicht / wie folgt] für biometrische Echtzeit-Fernidentifizierung eingesetzt.
+2.8 Buchstabe h mit Absätzen 2 bis 7: Geht es um biometrische Echtzeit-Fernidentifizierung in öffentlich zugänglichen Räumen zu Strafverfolgungszwecken? [Ort, Echtzeitfunktion, Zweck]. Ausnahmeziel, Erforderlichkeit, Verhältnismäßigkeit, nationale Zulassung, Genehmigung und weitere Verfahrensanforderungen sind kumulativ zu prüfen; allgemeine Sicherheitserwägungen ersetzen diese Prüfung nicht.
+
+2.9 Neue Buchstaben ba und bb sowie Absätze 1a und 1b: Die Verbote betreffend Systeme zur Erzeugung nicht einvernehmlicher intimer Inhalte beziehungsweise sexueller Missbrauchsdarstellungen von Kindern und die zugehörigen Schutzmaßnahmen gelten nach Art. 113 Buchstabe f ab 2. Dezember 2026. Der Prüfstand 9. Oktober 2026 weist sie als bevorstehend aus. Geprüft werden nur rechtliche und technische Beschreibungen, keine Erzeugung entsprechender Inhalte. Zweckbestimmung, technische Schutzmaßnahmen und die genaue Rolle der Absätze 1a und 1b sind anhand des aktuellen Volltextes zu dokumentieren: [Belege]. Bereits geltendes anderes Recht bleibt eigenständig zu prüfen.
 
 ## 3. Kontrollen und Nachweise
 
 3.1 Produktunterlagen, Vertriebsmaterial und Kundendokumentation stimmen mit dem geprüften Einsatzkontext [überein / nicht überein].
 
-3.2 Technische Sperren gegen verbotene Nutzung bestehen durch [Feature-Flag, Rollenrechte, Vertragsverbot, Monitoring, Kundenaudit, API-Beschränkung].
+3.2 Tatsächlich wirksame technische Sperren: [Feature-Flag, Rollenrechte, API-Beschränkung, Testbeleg]. Verträge, Monitoring und Kundenaudits werden als ergänzende organisatorische Maßnahmen gesondert erfasst. Ein Vertragsverbot oder nachträgliche Erkennung heilt keinen erfüllten Verbotstatbestand. Die speziellen Absätze 1a und 1b werden nur in ihrem eigenen Anwendungsbereich herangezogen.
 
 3.3 Offene Punkte: [Tatsache, Dokument, technischer Nachweis, Verantwortlicher, Frist].
 

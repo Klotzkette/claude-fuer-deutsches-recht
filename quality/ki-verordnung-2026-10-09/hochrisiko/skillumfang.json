@@ -1,0 +1,68 @@
+[
+  {
+    "skill": "artikel-6-software-einstufen",
+    "words_before": 476,
+    "words_after": 1019,
+    "sha256": "cf86ac2798f6568af4319f707a8eb5b07105267b3c2f8c4bb13fd0b6a42608a6"
+  },
+  {
+    "skill": "ausnahmebegruendung-artikel-6",
+    "words_before": 442,
+    "words_after": 690,
+    "sha256": "1eb747b3a44c0c005697009a0f2f911926b124a4f9420ccf28b8346e1cbb6d5d"
+  },
+  {
+    "skill": "betreiberkonzept-bewerbungsauswahl",
+    "words_before": 564,
+    "words_after": 686,
+    "sha256": "29f39d787e8f0c036f23f83c92cb48eb0fce7906f72d1a7cc908a9383000f65a"
+  },
+  {
+    "skill": "hochrisiko-einstufung-recruiting",
+    "words_before": 439,
+    "words_after": 556,
+    "sha256": "189f983bd2c79e2f2349efc29e67e871b711c745d4a3be9d25b90bb935c30e70"
+  },
+  {
+    "skill": "hochrisikofrage-loesen",
+    "words_before": null,
+    "words_after": 900,
+    "sha256": "1faea274597320bc4eac7186c676b6d401890c5e53026c8c642a81ffd2be76ac"
+  },
+  {
+    "skill": "hr-zweck-und-systemabgrenzung",
+    "words_before": 482,
+    "words_after": 599,
+    "sha256": "8ed1b1faba2020f7183cbf2982b409acaa426d0557973240a74a0d114c3c5f89"
+  },
+  {
+    "skill": "konformitaet-und-registrierung",
+    "words_before": 460,
+    "words_after": 589,
+    "sha256": "910d0b51c26c0c1d50fd147c8223463d5bee03547352caf9afd45a94bfc0545f"
+  },
+  {
+    "skill": "produktpfad-sicherheitsbauteil-pruefen",
+    "words_before": null,
+    "words_after": 893,
+    "sha256": "3ae8c8d7089eb3b417d933dd993e038234e11bd2344197fdb8709b4312c056d3"
+  },
+  {
+    "skill": "rechtsstand-und-einfuehrungsentscheidung",
+    "words_before": 470,
+    "words_after": 590,
+    "sha256": "5a961f108efe9be72d4da5407f4f7c4b9a6eecb07f936d3c986a1f099e91bdde"
+  },
+  {
+    "skill": "rollenwechsel-und-shadow-ai",
+    "words_before": 491,
+    "words_after": 614,
+    "sha256": "feba469f97533792dd2d9dffc5a35e881b3520b1edb220ed21c7377e1fc69a29"
+  },
+  {
+    "skill": "vorfallbewertung-und-meldeentwurf",
+    "words_before": 464,
+    "words_after": 569,
+    "sha256": "8fd530b4528fe1fc38ca323b3b6dd7408a9042f2789af21f698d5e1830fd61ee"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "ki-verordnung-hochrisiko-pruefer",
+  "version": "445.35.0",
+  "description": "Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.",
+  "keywords": [
+    "ki-verordnung",
+    "hochrisiko",
+    "bewerbungsauswahl",
+    "profiling",
+    "betreiber",
+    "shadow-ai"
+  ],
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "skills": "./skills/",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "interface": {
+    "displayName": "KI-Verordnung Hochrisiko-Prüfer",
+    "shortDescription": "Hochrisiko-KI konkret einstufen",
+    "longDescription": "Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie diese Anwendung nach Artikel 6 und erstellen Sie einen begründeten Einstufungsvermerk.",
+      "Bearbeiten Sie den Ordner und setzen Sie den vorhandenen Prüfentwurf mit den neuen Belegen fort."
+    ]
+  }
+}

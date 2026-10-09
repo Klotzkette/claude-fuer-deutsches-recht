@@ -1,117 +1,57 @@
 ---
 name: marktueberwachung-meldung-vorfaelle-art-72
-description: "Für Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Organisiert die Beobachtung eines Hochrisikosystems nach dem Inverkehrbringen. Verbindet Datenquellen, Auswertung und Risikomaßnahmen mit der getrennten Prüfung, ob ein schwerwiegender Vorfall zu melden ist.
 ---
 
-# Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 KI-VO
+# Beobachtung, Vorfall und Marktüberwachung
 
-## Teil 1 — Post-Market-Monitoring (Art. 72 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-### Pflicht des Anbieters
+Erarbeite einen belastbaren Vorfall- und Maßnahmenvermerk. Beobachtung nach dem Inverkehrbringen, unverzügliche Betreiberinformation und Anbietermeldung sind verbundene, aber unterschiedliche Prozesse.
 
-Anbieter von Hochrisiko-KI-Systemen müssen ein System für die Überwachung nach dem Inverkehrbringen einrichten, in Betrieb nehmen und aktiv betreiben. Dieses System muss:
-- Aktiv und systematisch relevante Daten über die Systemleistung erheben und analysieren
-- Bekannte oder neue Risiken und Fehlfunktionen identifizieren
-- Die Ergebnisse dokumentieren
+## 2. Eingaben
 
-### Post-Market-Monitoring-Plan
+Systemversion, Zweck, Einsatzort, Zeitpunkt von Ereignis und Kenntnis, Folgen, Belege, Betreiber und Anbieter, bereits ergriffene Maßnahmen, zuständige Behörde und möglicherweise parallel geltendes Produkt- oder Datenschutzrecht. Bei Gefahr die erforderliche menschliche Entscheidung unverzüglich anfordern; keine automatische Entwarnung aus fehlender Kausalitätsgewissheit.
 
-Der Plan ist Bestandteil der technischen Dokumentation nach Anhang IV. Er muss mindestens enthalten:
-- Beschreibung der Überwachungsmethodik
-- Art und Umfang der zu erhebenden Daten (unter Beachtung von DSGVO)
-- Verfahren zur Auswertung und Rückmeldung
-- Kriterien für die Einleitung korrektiver Maßnahmen
+## 3. Ablauf und Checkliste
 
-### Pflicht des Betreibers
+### 3.1. Ereignis und Schaden einordnen
 
-Betreiber müssen den Anbieter mit relevanten Daten über die Systemperformance im Betrieb versorgen, soweit dies vertraglich vereinbart oder gesetzlich vorgeschrieben ist.
+Artikel 3 Nummer 49 erfasst Tod oder schwere Gesundheitsschädigung, schwere und unumkehrbare Störungen der Verwaltung oder des Betriebs kritischer Infrastrukturen, Verletzungen unionsrechtlicher Grundrechtsschutzpflichten sowie schwere Sach- oder Umweltschäden. Technischer Fehler und schwerwiegender Vorfall sind nicht gleichbedeutend. Für jede denkbare Kategorie Tatsachen, Belege, Unsicherheit und mögliche Kausalität ausweisen. Vertrauliche Beweisdaten sichern und Änderungen nachvollziehbar protokollieren.
 
-**Prüffragen:**
-- Gibt es einen dokumentierten Post-Market-Monitoring-Plan?
-- Werden Daten systematisch erhoben und ausgewertet?
-- Gibt es einen Prozess zur Meldung relevanter Befunde an den Anbieter?
+Artikel 72 verlangt einen risikoproportionalen, dokumentierten Beobachtungsprozess über die Lebensdauer. Leistungsdaten aktiv erheben und auswerten; gegebenenfalls Wechselwirkungen mit anderen Systemen berücksichtigen. Der Beobachtungsplan gehört zur technischen Dokumentation nach **Anhang IV**, nicht zum Registeranhang VIII. Bestehende Produkt- oder Finanzprozesse können unter den Voraussetzungen des Absatzes 4 integriert werden, ohne fehlende KI-spezifische Elemente zu überspringen.
 
-## Teil 2 — Meldung schwerwiegender Vorfälle (Art. 73 KI-VO)
+### 3.2. Meldefristen richtig berechnen
 
-### Was ist ein schwerwiegender Vorfall?
+Bei Artikel 73 Absatz 2 sind Feststellung des Kausalzusammenhangs beziehungsweise seiner hinreichenden Wahrscheinlichkeit und Schwere maßgeblich: unverzüglich melden, spätestens 15 Tage nach Kenntnis des Anbieters oder gegebenenfalls Betreibers. Eine Höchstfrist ist keine Wartefrist. Bei weitverbreitetem Verstoß oder kritischer Infrastruktur im Sinne des Artikels 3 Nummer 49 Buchstabe b gilt Absatz 3 mit unverzüglicher Meldung, spätestens zwei Tagen nach Kenntnis. Bei Tod gilt Absatz 4: unmittelbar nach Feststellung oder Verdacht des Kausalzusammenhangs, spätestens zehn Tage nach Kenntnis. Eine allgemeine 72-Stunden-Frist steht hier nicht.
 
-Ein schwerwiegender Vorfall (serious incident) liegt vor, wenn ein Hochrisiko-KI-System:
-- Den Tod einer Person verursacht hat oder verursacht haben kann
-- Zu einer schwerwiegenden Beeinträchtigung der Gesundheit oder Sicherheit geführt hat
-- Die Verletzung von Grundrechten zur Folge hatte
-- Erheblichen Sachschaden verursacht hat
+Kenntniszeitpunkt, auslösender Tatbestand, adressierte Behörde, Parallelfristen und Bearbeiter getrennt dokumentieren. Nach Absatz 5 ist erforderlichenfalls zunächst eine unvollständige Meldung möglich, auf die eine vollständige folgt. Nicht auf ein fertiges Gutachten warten. Sonderregeln für bestimmte Finanzsysteme und MDR-/IVDR-Produkte nach Absätzen 9 und 10 am konkreten Sachverhalt prüfen; ihre unionsrechtlichen Grundrechtsvorfälle bleiben gesondert relevant.
 
-**Prüffragen:**
-- Gab es Berichte über Systemfehler mit Auswirkungen auf Gesundheit, Sicherheit oder Grundrechte?
-- Gibt es ein Verfahren zur Identifikation und Eskalation solcher Vorfälle?
+### 3.3. Rollen und Empfänger trennen
 
-### Meldefristen
+Der Anbieter meldet nach Artikel 73 Absatz 1 an die Marktüberwachungsbehörden des Mitgliedstaats des Vorfalls. Der Betreiber informiert nach Artikel 26 Absatz 5 unverzüglich zuerst den Anbieter, dann Einführer oder Händler und die zuständigen Marktüberwachungsbehörden. Ist der Anbieter nicht erreichbar, gilt Artikel 73 entsprechend. Eine interne Ticketschließung oder Nachricht an den Vertrieb ersetzt keine gebotene Behördenmeldung.
 
-**Anbieter** müssen schwerwiegende Vorfälle der nationalen Marktüberwachungsbehörde des Mitgliedstaats melden, in dem der Vorfall aufgetreten ist:
-- Unmittelbar nach Kenntnisnahme, wenn der Vorfall lebensbedrohlich oder tödlich war
-- Innerhalb von 15 Tagen nach Kenntnisnahme in anderen Fällen
-- Innerhalb von 72 Stunden bei Vorfällen, die eine unmittelbare Reaktion erfordern
+Erforderliche Sofortmaßnahmen, betroffene Versionen und erste Risikoeinschätzung aufnehmen. Nach Artikel 73 Absatz 6 Untersuchung und Risikobewertung ohne Verzögerung durchführen, Korrekturen vorsehen und mit Behörden sowie gegebenenfalls notifizierter Stelle zusammenarbeiten. Vor behördlicher Information keine Veränderung vornehmen, die spätere Ursachenbewertung beeinträchtigt; den Wortlaut und notwendige Gefahrenabwehr im Einzelfall abstimmen.
 
-**Betreiber** müssen schwerwiegende Vorfälle unverzüglich dem Anbieter melden.
+### 3.4. Behördliches Verfahren und Zeitrecht
 
-### Inhalt der Meldung
+Artikel 79 betrifft das nationale Risikoverfahren; das unionsrechtliche Schutzklauselverfahren steht in Artikel 81. Artikel 76 oder 77 sind nicht die allgemeine Schutzklausel. Behördenmaßnahmen, Zugangsnachweise, gesetzte Fristen und die angeforderte Systemfassung in einer eigenen Verfahrensakte halten.
 
-- Identifikation des Systems und des Anbieters
-- Beschreibung des Vorfalls (Zeitpunkt, Ort, Art)
-- Betroffene Personen und Schäden
-- Umgehend eingeleitete Maßnahmen
-- Ursachenanalyse (soweit bereits verfügbar)
+Artikel 72 und 73 stehen außerhalb der verschobenen Abschnitte 1 bis 3 des Kapitels III. Dennoch ihre Anwendung auf das konkrete System gemeinsam mit Artikel 6, 111 und 113 begründen; keine pauschale Aufschiebung und keine unbesehene Vorverlagerung aller Hochrisikopflichten. Andere schon geltende Meldepflichten bleiben zu prüfen. Versand ist ein eigener Freigabeschritt mit benannter Person und Empfänger.
 
-## Teil 3 — Marktüberwachungsmaßnahmen (Art. 74 bis 79 KI-VO)
 
-### Befugnisse der nationalen Behörden
+Vor Wahl des Empfängers ist Artikel 75 Absatz 1 und 1a zu prüfen. Artikel 75 Absatz 1 grenzt eine ausschließliche Aufsicht des Büros für Künstliche Intelligenz ab: insbesondere GPAI-basierte Systeme, deren Modell und System von demselben Anbieter oder von Anbietern desselben Unternehmens entwickelt werden, sowie benannte sehr große Online-Plattformen/Suchmaschinen und integrierte Systeme. Die Ausnahmen für Anhang-I-Produkte, Anhang III Nummer 2, bestimmte Systeme nach Artikel 74 Absatz 6 und Rechtspflege nach Anhang III Nummer 8 sind konkret zu prüfen. Die Anbieterzuständigkeit erstreckt sich nicht automatisch auf einen unabhängigen Betreiber. Bei erfassten Hochrisiko-Systemanbietern geht die Vorfallmeldung abweichend von Artikel 73 an das Büro; Artikel 73 Absätze 2 bis 9 gelten entsprechend. Eine Hersteller-/Konzern- und Modellabfrage ist deshalb erforderlich. Der nationale Betreiberinformationsweg bleibt getrennt.
 
-Nationale Marktüberwachungsbehörden können:
-- Informationen anfordern und Vor-Ort-Prüfungen durchführen (Art. 74 KI-VO)
-- Korrekturmaßnahmen anordnen (Nachbesserung, Rückruf, Marktrücknahme)
-- Den Betrieb eines Systems aussetzen oder untersagen
-- Im Notfall unverzügliche Schutzmaßnahmen ergreifen (Art. 80 KI-VO)
+## 4. Quellenpflicht
 
-### Schutzklausel-Verfahren (Art. 76 und 77 KI-VO)
+Artikel 3 Nummer 49, Artikel 26 Absatz 5, Artikel 72, 73, 79, 81, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-Wenn eine nationale Behörde ein System als Risiko einstuft und Maßnahmen ergreift, informiert sie die Kommission und andere Mitgliedstaaten. Dies kann zu einem EU-weiten Verfahren führen.
+## 5. Ausgabeformat
 
----
+Ein ausformulierter Vorfallvermerk, eine Chronologie mit berechneten Höchstfristen und ein konkret adressierter Meldeentwurf. Fehlende Daten sichtbar kennzeichnen, ohne den unverzüglichen Erstbericht wegen unbeantworteter Nebenfragen anzuhalten.
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+## 6. Beispiele
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — MARKTUEBERWACHUNG MELDUNG VORFAELLE ART 72 BIS 79
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 72 Rn. 3]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Krankenhaus meldet eine mögliche schwere Patientenschädigung durch eine KI-Empfehlung. Der Betreiber informiert unverzüglich in der gesetzlichen Reihenfolge; der Anbieter untersucht Kausalität und mögliche Erstmeldung. Die Klinik darf nicht pauschal „DSGVO, also 72 Stunden“ einsetzen. Bei eingetretenem Tod ist der Zehntagepfad einschließlich unverzüglicher Auslösung gesondert zu prüfen.

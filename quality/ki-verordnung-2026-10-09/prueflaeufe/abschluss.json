@@ -1,0 +1,18 @@
+[
+  {
+    "check": "fachrunde-final",
+    "exit_code": 0
+  },
+  {
+    "check": "bestand-final",
+    "exit_code": 0
+  },
+  {
+    "check": "artikel5-final",
+    "exit_code": 0
+  },
+  {
+    "check": "markdown-final",
+    "exit_code": 0
+  }
+]

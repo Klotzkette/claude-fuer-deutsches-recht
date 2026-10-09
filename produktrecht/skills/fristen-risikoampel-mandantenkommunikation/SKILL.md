@@ -39,7 +39,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **produktrecht*
 - **GPSR (EU 2023/988):** Ab 13.12.2024 anwendbar; Meldepflicht über Safety Gateway; Rückrufkommunikation an Verbraucher direkt.
 - **CE-Konformität:** vor Inverkehrbringen; bei Maschinen MaschV (EU 2023/1230) ab 14.01.2027.
 - **Lagerdauer technische Unterlagen:** 10 Jahre ab Inverkehrbringen (z. B. MaschV Anhang III).
-- **Bei KI in Produkten:** AI Act (EU 2024/1689) Übergangsfristen: GPAI ab August 2025, Hochrisiko-Systeme ab August 2027.
+- **KI-Verordnung bei Systemen und Produkten:** Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. GPAI grundsätzlich seit 02.08.2025, Altmodelle nach Artikel 111 Absatz 3 gesondert. Für Produkte Artikel 2 Absatz 2, Artikel 6 Absätze 1 bis 1c und Anhang I Abschnitt A/B unterscheiden. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Rückrufankündigung:** im Inland (BAuA), unionsweit (Safety Gate); USA: CPSC-Meldung.
 - **Strafrechtliche Risiken:** § 95 AMG Strafe Arzneimittel; § 58 LFGB Strafe Lebensmittel; § 39 ProdSG Bußgeld.
 - Falle: Lithium-Akkus, KI-Komponenten, Drohnen — zusätzliche EU-Regelwerke (Batterieverordnung 2023/1542, AI Act, EU-Drohnenverordnung) parallel prüfen.

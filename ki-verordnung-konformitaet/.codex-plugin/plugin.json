@@ -1,0 +1,32 @@
+{
+  "name": "ki-verordnung-konformitaet",
+  "version": "445.35.0",
+  "description": "Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-verordnung-konformitaet",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "ki-verordnung",
+    "ai-act",
+    "workflow"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "interface": {
+    "displayName": "KI-Verordnung Konformitätsprüfung",
+    "shortDescription": "KI-Konformität prüfen",
+    "longDescription": "Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie diesen Vorgang mit KI-Verordnung Konformitätsprüfung und erstellen Sie das erforderliche Dokument."
+    ]
+  }
+}

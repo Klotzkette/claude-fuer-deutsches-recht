@@ -1,106 +1,52 @@
 ---
 name: hochrisiko-aufzeichnungspflichten-logging-art
-description: "Für Aufzeichnungspflichten und Logging — Art. 12 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft technische Protokollierung nach Artikel 12 und getrennte Aufbewahrung nach Artikeln 19 und 26. Unterscheidet besondere Biometriedaten von allgemeinen Ereignisprotokollen und erstellt ein zweckbezogenes Logkonzept.
 ---
 
-# Aufzeichnungspflichten und Logging — Art. 12 KI-VO
+# Protokollierung und Aufbewahrung bestimmen
 
-## Grundanforderung: Automatische Protokollierung (Art. 12 Abs. 1 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-Hochrisiko-KI-Systeme müssen automatisch Ereignisse protokollieren, die für die Kontrolle des Systembetriebs und die Ermittlung von Risiken nach dem Inverkehrbringen relevant sind.
+Bestimme, welche Ereignisse automatisch aufzuzeichnen sind und welche Partei vorhandene Logs wie lange aufbewahren muss. Nicht jedes System muss sämtliche Rohdaten und Nutzeridentitäten protokollieren.
 
-**Grundsatz:** Die Protokollierung muss technisch in das System integriert sein — manuelle Nacherfassung genügt nicht.
+## 2. Eingaben
 
-## Mindestinhalt der Logs (Art. 12 Abs. 2 KI-VO)
+Systemzweck, Ereignismodell, Logbeispiele, Kontrollbereich der Parteien, Betrieb und Speicherdienste, Löschkonzept, besondere Rechtsvorschriften und gegebenenfalls biometrische Identifikationsfunktion.
 
-Die Protokolle müssen mindestens enthalten:
-- Zeitstempel jedes Ereignisses
-- Referenzdatenbankeinträge (wenn das System mit Datenbanken arbeitet)
-- Eingabedaten (soweit relevant für die Nachvollziehbarkeit)
-- Identität der natürlichen Personen, die an der Überprüfung der Ergebnisse beteiligt sind (wo zutreffend)
-- Datum, Uhrzeit und Ort des Betriebs des Systems
+## 3. Ablauf und Checkliste
 
-**Prüffragen:**
-- Protokolliert das System automatisch alle relevanten Ereignisse?
-- Sind Zeitstempel, Eingaben und Ausgaben nachvollziehbar erfasst?
-- Werden Identitäten der beteiligten Personen (wo relevant) erfasst?
+### 3.1. Technische Funktion nach Artikel 12
 
-## Besondere Anforderungen — Biometrische Fernidentifikation
+Absatz 1 verlangt die Fähigkeit zur automatischen Ereignisaufzeichnung im Lebenszyklus. Absatz 2 richtet die Rückverfolgbarkeit am Zweck aus: Risiken und wesentliche Änderungen erkennen, Beobachtung nach Inverkehrbringen erleichtern und Betreiberüberwachung unterstützen. Er enthält keine allgemeine Liste verpflichtender Zeitstempel, Ortsdaten, sämtlicher Inputs und Personenidentitäten für jedes System.
 
-Für biometrische Echtzeit-Fernidentifikationssysteme (die nur unter den engen Ausnahmen von Art. 5 Abs. 2 KI-VO zulässig sind) gelten besonders strenge Protokollierungsanforderungen. Jeder Einsatz ist zu protokollieren, und die Protokolle müssen der Datenschutzbehörde auf Anfrage zugänglich gemacht werden.
+Absatz 3 enthält konkrete Mindestangaben nur für Systeme nach Anhang III Nummer 1 Buchstabe a: Verwendungszeitraum, Referenzdatenbank, Eingabedaten mit Treffer und Identität der nach Artikel 14 Absatz 5 prüfenden Personen. Nicht auf beliebige Sprachmodelle übertragen und nicht auf biometrische Echtzeitnutzung verengen. Eine zusätzliche polizeirechtliche Dokumentation gesondert prüfen.
 
-## Verantwortungsverteilung zwischen Anbieter und Betreiber
+### 3.2. Kontrollbereich und Dauer
 
-**Anbieter:** Muss sicherstellen, dass das System technisch in der Lage ist, die erforderlichen Logs zu erstellen. Die Protokollierungsfähigkeit ist Teil der technischen Spezifikation.
+Anbieterpflicht nach Artikel 19 Absatz 1 und Betreiberpflicht nach Artikel 26 Absatz 6 betreffen jeweils automatisch erzeugte Logs, soweit sie der eigenen Kontrolle unterliegen. Aufbewahrt wird für einen zweckangemessenen Zeitraum von mindestens sechs Monaten, sofern einschlägiges Unions- oder nationales Recht nichts anderes vorsieht. Sechs Monate sind nicht ohne Weiteres ein fester Löschtermin oder eine Maximalfrist. Besondere Finanzinstitutsregeln mitlesen.
 
-**Betreiber:** Muss sicherstellen, dass die Protokolle tatsächlich erstellt, gespeichert und aufbewahrt werden. Betreiber sind nach Art. 26 Abs. 6 KI-VO verpflichtet, die Protokolle sechs Monate aufzubewahren, es sei denn, andere Vorschriften (z.B. DSGVO, nationales Recht) sehen kürzere oder längere Fristen vor.
+Technische Dokumentation nach Artikel 18 wird grundsätzlich zehn Jahre ab Inverkehrbringen oder Inbetriebnahme bereitgehalten; daraus keine zehnjährige Speicherung sämtlicher personenbezogener Logs ableiten. Datenschutz, Zugriffsschutz und rechtliche Ausnahme konkret begründen, nicht mit dem Wort Datensparsamkeit jede Aufbewahrung pauschal verkürzen.
 
-**Prüffragen:**
-- Welche Partei ist für die Protokollierung verantwortlich — Anbieter, Betreiber oder beide?
-- Gibt es vertragliche Regelungen zwischen Anbieter und Betreiber zur Protokollierung (Art. 25 Abs. 4 KI-VO)?
+### 3.3. Nutzbare Rekonstruktion
 
-## Aufbewahrungsfristen
+Für den Zweck notwendige Versionskennung, Handlung, Zeitbezug und Korrelation bestimmen. Wo eine Ereigniskette ohne komplette Inhalte nachvollziehbar bleibt, Datenminimierung berücksichtigen. Manipulationsschutz, Exportierbarkeit, Berechtigungen und Uhrzeitkonsistenz prüfen. Die Ablage einer Wordnotiz ersetzt keine technisch erforderliche automatische Protokollierung.
 
-- **Betreiber allgemein:** Sechs Monate Aufbewahrungspflicht (Art. 26 Abs. 6 KI-VO)
-- **Biometrische Identifikation:** Besondere Fristen nach nationalem Recht oder Behördenanforderungen
-- **Anbieter (technische Dokumentation):** Zehn Jahre (Art. 18 KI-VO)
-- **Widerspruch mit DSGVO:** Protokolle, die personenbezogene Daten enthalten, müssen datenschutzkonform aufbewahrt und nach Ablauf der Frist gelöscht werden
+Anbieter und Betreiber sollen die tatsächliche Bereitstellung und Kontrolle im Vertrag nachvollziehbar regeln; ein Vertragswort schafft keinen technisch unmöglichen Zugriff. Stichprobe aus dem echten Logexport verwenden. Ohne Exportfähigkeit Testauftrag oder Anforderung formulieren, nicht eine bestandene Rekonstruktion behaupten.
 
-## Verhältnis zu Post-Market-Monitoring
+### 3.4. Fortsetzung
 
-Die nach Art. 12 KI-VO erstellten Protokolle sind ein wesentliches Instrument für das Post-Market-Monitoring nach Art. 72 KI-VO. Ohne Protokolle kann ein ernsthafter Vorfall nicht aufgeklärt werden.
+Bei Vorfall Beweise und rechtmäßige Sicherung abstimmen, bevor Logs routinemäßig gelöscht oder Systeme verändert werden. Beobachtung nach Artikel 72 und Meldung nach Artikel 73 anschließen. Anwendbarkeit, Bestand und gesetzliche Fristen nach Artikel 111 und 113 gesondert prüfen.
 
-## Typische Lücken
+## 4. Quellenpflicht
 
-- Protokollierung ist nicht automatisiert und basiert auf manuellen Einträgen.
-- Logs werden nach kurzer Zeit automatisch gelöscht (z.B. für Datensparsamkeit), ohne Berücksichtigung der Aufbewahrungspflichten.
-- Kein klarer Verantwortlicher für die Aufbewahrung der Logs.
-- Logs enthalten keine ausreichenden Zeitstempel oder Kontextinformationen für die Rekonstruktion von Vorfällen.
+Artikel 12, 18, 19, Artikel 26 Absatz 6 sowie Artikel 72 und 73. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
----
+## 5. Ausgabeformat
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Ein ausformulierter Protokollierungs- und Aufbewahrungsvermerk, ergänzt um die Matrix Ereignis/Zweck, Datenumfang, Verantwortlicher/Kontrolle, Frist/Rechtsgrund. Keine unverhältnismäßige Vollaufzeichnung als allgemeine Gesetzespflicht.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
+## 6. Beispiele
 
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO AUFZEICHNUNGSPFLICHTEN LOGGING ART 12
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 12 Rn. 4]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein HR-Anbieter behauptet, wegen Artikel 12 müsse jeder vollständige Lebenslauf zehn Jahre im Ereignislog verbleiben. Trenne technische Rückverfolgbarkeit, sechsmonatige Mindestdauer kontrollierter Logs und zehnjährige technische Dokumentation; prüfe die benötigten Daten am wirklichen Zweck.

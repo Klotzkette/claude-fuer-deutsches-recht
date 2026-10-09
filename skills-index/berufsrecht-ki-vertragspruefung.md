@@ -1,6 +1,6 @@
 # berufsrecht-ki-vertragspruefung
 
-**94 Skills** · Stand `v445.33.1`
+**94 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berufsrecht-ki-vertragspruefung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`berufsrecht-ki-vertragspruefung-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`berufsrecht-ki-vertragspruefung-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [berufsrecht-ki-vertragspruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-ki-vertragspruefung.zip) |
+| **Plugin (installierbar)** | ZIP | [berufsrecht-ki-vertragspruefung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/berufsrecht-ki-vertragspruefung.zip) |
 
 ## So benutzt man einen Skill
 

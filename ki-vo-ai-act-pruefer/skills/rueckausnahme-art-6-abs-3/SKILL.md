@@ -1,155 +1,55 @@
 ---
 name: rueckausnahme-art-6-abs-3
-description: "Für Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft die Ausnahme nach Artikel 6 Absatz 3 für konkret erfasste Anhang-III-Systeme. Trennt Profiling, erhebliches Risiko und vier Fallgruppen und erstellt den Bewertungs- und Registrierungsvermerk.
 ---
 
-# Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO
+# Rückausnahme vom Hochrisiko begründen
 
-## Prüfungsreihenfolge
+## 1. Zweck und Anwendungsfall
 
-1. Anhang-III-Treffer konkret benennen.
-2. Profiling natürlicher Personen ausschließen.
-3. Erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte bewerten.
-4. Eine der vier Fallgruppen prüfen.
-5. Tatsächliche Nutzung und vorhersehbaren Fehlgebrauch gegen die behauptete Rückausnahme halten.
-6. Dokumentationspflicht nach Art. 6 Abs. 4 vorbereiten.
+Erstelle eine tragfähige negative Einstufung oder begründete Ablehnung der Ausnahme. Der Prüfpfad beginnt erst nach dem konkreten Anhang-III-Treffer; er entlastet keine Systeme allein nach Artikel 6 Absatz 1.
 
-## Sperre: Profiling natürlicher Personen
+## 2. Eingaben
 
-Wenn das System Profiling natürlicher Personen vornimmt, greift die Rückausnahme nicht.
+Zweckbeschreibung, Anhangseintrag, Ein- und Ausgaben, betroffene Personen, Gewicht des Ergebnisses, tatsächliche menschliche Prüfung, Änderungen und Anbieterrolle. Vorhandene Logs und Arbeitsanweisungen auswerten; fehlenden Kontrollnachweis nicht durch ein versprochenes Vier-Augen-Prinzip ersetzen.
 
-Prüfe:
-- Werden personenbezogene Daten automatisiert verarbeitet?
-- Werden persönliche Aspekte bewertet, analysiert oder vorhergesagt?
-- Geht es um Leistung, wirtschaftliche Lage, Gesundheit, Präferenzen, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Bewegung?
-- Hat der Output individualisierende Wirkung?
+## 3. Ablauf und Checkliste
 
-Bei Bewerberranking, Beschäftigtenbewertung, Kredit-Scoring, individueller Risikobewertung, Eignungsbewertung oder personalisiertem Leistungsmonitoring ist die Profiling-Sperre besonders sorgfältig zu prüfen.
+### 3.1. Profiling und Entscheidungseinfluss
 
-## Erhebliches Risiko
+Prüfe, ob personenbezogene Daten automatisiert zur Bewertung, Analyse oder Vorhersage persönlicher Aspekte verwendet werden. Bewerberranking, Zuverlässigkeitsscores und personenbezogene Leistungsbewertung verlangen besonders genaue Prüfung. Bei einem in Anhang III aufgeführten System sperrt Profiling natürlicher Personen die Ausnahme. Die bloße Verarbeitung eines Namens ist noch kein Profiling; der bloße Verzicht auf einen numerischen Score schließt es nicht aus.
 
-Die Rückausnahme setzt voraus, dass das System kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte darstellt. Nicht nur technische Sicherheit zählt, sondern auch Gleichbehandlung, Datenschutz, Menschenwürde, Zugang zu Leistungen, Bildung, Arbeit, Rechtsschutz und effektiver menschlicher Kontrolle.
+Begründe anhand konkreter Wirkungen, ob ein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte besteht und ob das Ergebnis die Entscheidung wesentlich beeinflusst. Zugang, Ablehnung, Vorfilterung und faktische Übernahme berücksichtigen. Eine Entscheidung bleibt nicht deshalb unbeeinflusst, weil ein Mensch am Ende klickt. Betroffene müssen nicht erst tatsächlich geschädigt worden sein.
 
-Risikofaktoren:
-- Output beeinflusst Zugang, Ablehnung, Priorität, Score, Ranking oder Sanktion.
-- Betroffene können Output kaum erkennen, bestreiten oder korrigieren.
-- Menschliche Kontrolle ist nur formal oder faktisch überfordert.
-- Datenqualität, Bias, Halluzinationen oder Fehlklassifikationen können Personen treffen.
-- Nutzung erfolgt in Machtasymmetrie: Arbeitgeber, Schule, Behörde, Bank, Versicherung, Gericht.
-- Off-label-Nutzung ist naheliegend und nicht wirksam abgesichert.
+### 3.2. Vier gesetzliche Bedingungen
 
-## Vier Fallgruppen
+1. Eine eng gefasste Verfahrensaufgabe kann etwa das Erkennen fehlender Anlagen sein. Schließt die Software unvollständige Bewerbungen ohne Prüfung aus, ist die tatsächliche Entscheidungswirkung gesondert zu untersuchen.
+2. Die Verbesserung einer bereits abgeschlossenen menschlichen Tätigkeit setzt gerade deren Abschluss voraus. Sprachliche Glättung einer entschiedenen Begründung ist anders zu beurteilen als die erstmalige Erstellung der tragenden Bewertung.
+3. Muster- oder Abweichungserkennung darf nicht dazu bestimmt sein, eine zuvor abgeschlossene menschliche Bewertung **ohne angemessene menschliche Überprüfung** zu ersetzen oder zu beeinflussen. Der Normtext verbietet nicht schlechthin jede Rückwirkung einer überprüften Qualitätskontrolle; Art und Wirksamkeit der Überprüfung sind entscheidend. Die Profilingsperre bleibt bestehen.
+4. Eine vorbereitende Aufgabe muss für die Bewertung eines erfassten Anwendungsfalls relevant sein. OCR, chronologische Sortierung oder Übertragung von Lebenslaufdaten kann vorbereitend sein; Eignungsbewertung, Glaubwürdigkeitsanalyse oder automatische Shortlist ist damit nicht gleichzusetzen.
 
-### 1. Enge Verfahrensaufgabe
+Die Fallgruppe nicht lediglich benennen, sondern mit Zweck und tatsächlichem Prozess belegen. Kein positives Ergebnis allein aufgrund eines Werbeworts wie „administrativ“. Bei Mehrzwecksystemen Version, freigegebene Funktion und wirksame Zweckgrenze festhalten.
 
-Das System führt eine eng begrenzte Verfahrensaufgabe aus und hat keinen wesentlichen Einfluss auf das Ergebnis der Entscheidung.
+### 3.3. Dokumentation, Registrierung und Änderung
 
-Beispiele:
-- Vollständigkeitsprüfung eines Formulars
-- Erkennung fehlender Anlagen
-- Termin- oder Fristenhinweis ohne Bewertung des Anspruchs
+Artikel 6 Absatz 4 verpflichtet den Anbieter zur dokumentierten Bewertung vor Inverkehrbringen oder Inbetriebnahme und verweist weiterhin auf Artikel 49 Absatz 2. Der Omnibus hat diese Registrierung nicht gestrichen. Die Bewertung muss zuständigen Behörden auf Verlangen vorgelegt werden können. EU-Datenbankeintrag, interne Fallakte und Risikoregister unterscheiden.
 
-Nicht ausreichend:
-- "nur Vorprüfung", wenn die Vorprüfung praktisch über Weiterleitung, Ablehnung oder Ranking entscheidet
-- automatische Priorisierung von Personenfällen mit realer Entscheidungswirkung
+In der Dokumentation stehen Systemidentität, Anhangseintrag, Profilingentscheidung, Risikobegründung, einschlägige Fallgruppe, Kontrollen, Belege und erneuter Prüfungsanlass. Fehlender Registerzugang ist keine Registrierungsbestätigung. Zeitliche Anwendung nach Artikel 111 und 113 sowie der gesonderten Stellung des Artikels 49 ausdrücklich prüfen; keine pauschale Registerfreiheit bis 2027 behaupten.
 
-### 2. Verbesserung einer bereits abgeschlossenen menschlichen Tätigkeit
+### 3.4. Fortsetzung
 
-Das System verbessert das Ergebnis einer zuvor von einem Menschen erbrachten Tätigkeit, ohne dieses Ergebnis wesentlich zu verändern oder zu ersetzen.
+Bei bestätigter Ausnahme weitere Artikel-50-, Modell-, Datenschutz- und Kompetenzpflichten zuordnen. Bei fehlender Ausnahme an die [Hochrisiko-Roadmap](../hochrisiko-bestaetigt-end-to-end-roadmap/SKILL.md) übergeben. Neue Daten ändern nur die betroffene Bewertung. Ohne ausreichenden Nachweis den bearbeitbaren Vermerk liefern und die entscheidende offene Frage nennen.
 
-Beispiele:
-- sprachliche Glättung eines bereits entschiedenen Bescheids
-- Barrierefreiheits- oder Lesbarkeitsverbesserung ohne Inhaltsänderung
-- Formatierung, Übersetzung oder Zusammenfassung zur Nachvollziehbarkeit
+## 4. Quellenpflicht
 
-Nicht ausreichend:
-- das System schreibt die eigentliche Bewertung, Begründung oder Entscheidung
-- der Mensch übernimmt die KI-Ausgabe regelmäßig ungeprüft
+Artikel 6 Absätze 2 bis 4, Artikel 49 Absatz 2, Artikel 111 und 113 sowie konkreter Anhang-III-Eintrag. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### 3. Mustererkennung ohne Ersetzung oder Beeinflussung menschlicher Bewertung
+## 5. Ausgabeformat
 
-Das System erkennt Entscheidungsmuster oder Abweichungen von früheren Entscheidungsmustern, ohne eine bereits abgeschlossene menschliche Bewertung zu ersetzen oder zu beeinflussen.
+Vollständig ausformulierter Rückausnahmevermerk mit nachvollziehbarer Gegenposition und gesondertem Registerblatt. Ergebnis: bestätigt, abgelehnt oder wegen benannter Tatsachen offen; eine Ampelfarbe allein genügt nicht.
 
-Beispiele:
-- Qualitätskontrolle, die auffällige Abweichungen für interne Audit-Zwecke markiert
-- statistische Konsistenzprüfung ohne Einfluss auf Einzelfallentscheidung
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Nicht ausreichend:
-- Anomaliehinweis löst faktisch Ablehnung, Eskalation oder Benachteiligung aus
-- System gibt einen Risikoscore aus, der die menschliche Bewertung prägt
+## 6. Beispiele
 
-### 4. Vorbereitende Aufgabe
-
-Das System bereitet eine Bewertung vor, die für einen Anhang-III-Zweck relevant ist, ohne selbst die bewertungsrelevanten Aspekte zu beurteilen.
-
-Beispiele:
-- Dokumente sortieren, OCR, Dubletten erkennen
-- Akten chronologisch strukturieren
-- Lebenslaufdaten in Felder übertragen, ohne Eignung zu bewerten
-
-Nicht ausreichend:
-- das System extrahiert nicht nur, sondern bewertet Eignung, Glaubhaftigkeit, Risiko, Bedürftigkeit, Leistung oder Rechtsfolge
-- die vorbereitende Ausgabe wird als Empfehlung oder Entscheidungsvorschlag genutzt
-
-## Allgemeiner Chatbot im sensiblen Bereich
-
-Bei ChatGPT-ähnlichen oder GPAI-basierten Tools:
-
-- Reine Textentwürfe, Zusammenfassungen oder Übersetzungen können unter die Rückausnahme fallen, wenn sie keine individuelle Bewertung steuern.
-- Prompt-Vorlagen wie "bewerte die Eignung", "ranke Bewerber", "prognostiziere Prozessrisiko für Richter", "entscheide Leistungsanspruch" sprechen gegen die Rückausnahme.
-- Wenn die Fachabteilung das Tool faktisch für Bewertungen nutzt, reicht eine schöne Richtlinie allein nicht. Prüfe Nutzung, Logs, Schulung, Freigabe und Kontrollen.
-
-## Dokumentationspflicht nach Art. 6 Abs. 4
-
-Wenn ein Anbieter ein Anhang-III-System wegen Art. 6 Abs. 3 nicht als Hochrisiko einstuft, ist die Bewertung vor dem Inverkehrbringen oder der Inbetriebnahme zu dokumentieren. Die Dokumentation muss belastbar genug sein, um sie zuständigen Behörden auf Anfrage vorzulegen.
-
-Dokumentieren:
-- Anhang-III-Tatbestand
-- konkrete Zweckbestimmung
-- warum kein erhebliches Risiko besteht
-- welche Fallgruppe greift
-- warum kein Profiling natürlicher Personen vorliegt
-- welche Kontrollen Fehlgebrauch verhindern
-- Re-Evaluation-Trigger
-
-## Ergebnis und Routing
-
-- **Rückausnahme greift wahrscheinlich:** `nicht-hochrisiko-bestaetigt-end-to-end-roadmap`, zusätzlich Art. 50, GPAI und Art. 4 prüfen.
-- **Rückausnahme greift nicht:** `hochrisiko-bestaetigt-end-to-end-roadmap`.
-- **Fehlgebrauch oder Zweckänderung unklar:** `betreiber-deployer-pflichten-art-26`, `anbieter-werden-art-25`, ggf. `mandatsabbruch-empfehlung-komplexe-faelle`.
-
-## Output-Template — Rückausnahme-Vermerk
-
-```text
-RUECKAUSNAHME-VERMERK — ART. 6 ABS. 3 KI-VO
-Datum: [DATUM]
-System: [NAME]
-Anhang-III-Treffer: [NR. / BEREICH / KONKRETER TATBESTAND]
-
-1. Profiling-Sperre
-[Profiling natürlicher Personen: JA/NEIN/UNKLAR]
-[Begründung]
-
-2. Erhebliches Risiko
-[Gesundheit/Sicherheit/Grundrechte betroffen?]
-[Wirkpfad, betroffene Personen, Entscheidungseinfluss, Kontrollen]
-
-3. Fallgruppe
-[enge Verfahrensaufgabe / Verbesserung menschlicher Tätigkeit / Mustererkennung / vorbereitende Aufgabe / keine]
-
-4. Tatsächliche Nutzung und Fehlgebrauch
-[Zweckbestimmung, Richtlinie, Logs, Schulung, technische Sperren, bekannte Abweichungen]
-
-5. Ergebnis
-[Rückausnahme greift wahrscheinlich / greift nicht / offen]
-
-6. Dokumentations- und Re-Evaluation-Punkte
-[Was muss in der Art. 6 Abs. 4-Dokumentation stehen? Wann neu prüfen?]
-
-7. Nächster Skill
-[nicht-hochrisiko-bestaetigt-end-to-end-roadmap / hochrisiko-bestaetigt-end-to-end-roadmap / betreiber-deployer-pflichten-art-26 / anbieter-werden-art-25]
-```
-
-## Quellen- und Aktualitätshinweis
-
-Stand: 07/2026. Maßgeblich sind Art. 6 Abs. 3 und 4 KI-VO, Art. 3 Nr. 12/13/23 KI-VO und Anhang III. Keine Rechtsberatung; die Rückausnahme ist eng und tatsachenabhängig.
+Eine Justizassistenz sortiert Eingangsdokumente und erkennt Dubletten. Das kann eine vorbereitende Tätigkeit sein. Dieselbe Assistenz bewertet die Glaubhaftigkeit einzelner Zeugen und priorisiert entscheidungserhebliche Passagen: Zweck, Profiling und Einfluss neu untersuchen; nicht die alte OCR-Freigabe weiterverwenden.

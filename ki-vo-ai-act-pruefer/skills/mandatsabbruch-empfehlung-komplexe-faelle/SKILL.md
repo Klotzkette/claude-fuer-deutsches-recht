@@ -31,7 +31,7 @@ Wenn das System für biometrische Identifizierung, Strafverfolgung, Justiz, krit
 
 ### Indikator 3 — GPAI-Modelle mit systemischem Risiko
 
-Wenn das System ein General-Purpose-KI-Modell mit einer Trainingsrechenleistung von mehr als 10e25 FLOP ist oder sein könnte, gelten besondere Pflichten nach Art. 55 KI-VO, deren Ausgestaltung noch durch Leitlinien und Codes of Practice konkretisiert wird.
+Wenn das System ein General-Purpose-KI-Modell mit einer Trainingsrechenleistung von mehr als 10^25 Trainings-Gleitkommaoperationen ist oder sein könnte, gelten besondere Pflichten nach Art. 55 KI-VO, deren Ausgestaltung noch durch Leitlinien und Codes of Practice konkretisiert wird.
 
 **Fachrichtung:** Fachanwalt IT-Recht / Urheberrecht (Trainingsdaten)
 
@@ -80,7 +80,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+- Art. 99 KI-VO — den konkreten Verstoß und die jeweils einschlägige Sanktionsstufe prüfen; nicht den Artikel-5-Höchstsatz auf alle Pflichten übertragen
 
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
@@ -96,7 +96,7 @@ PRUEFERGEBNIS — MANDATSABBRUCH EMPFEHLUNG KOMPLEXE FAELLE
 [DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
 [AKTENZEICHEN]
 
-Gepruefte Norm(en): [Art. 9 Rn. 1]
+Gepruefte Norm(en): [Artikel 9, Absatz/Satz/Buchstabe und amtliche Fassung]
 
 Ergebnis:
 [ ] Anforderung erfuellt

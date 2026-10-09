@@ -1,129 +1,54 @@
 ---
 name: hochrisiko-technische-dokumentation-art-11-und-anhang-iv
-description: "Für Technische Dokumentation — Art. 11 und Anhang IV europäischer Technikregulierungsrahmen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Erstellt und prüft das versionsbezogene technische Dossier entlang der neun tatsächlichen Bereiche des Anhangs IV. Verknüpft Risiken, Entwicklung, Tests, Änderungen und Beobachtung und bezeichnet fehlende Evidenz präzise.
 ---
 
-# Technische Dokumentation — Art. 11 und Anhang IV KI-VO
+# Technische Dokumentation nach Artikel 11 und Anhang IV
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: bisherige Verbote seit 02.02.2025, neue Verbote ab 02.12.2026; GPAI und Transparenz nach eigener Regel. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, Anhang I ab 02.08.2028; Artikel 111 und 113 sowie einschlägige Zuständigkeit prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Erstelle eine belastbare Dokumentation des konkreten Hochrisikosystems. Eine Inhaltsübersicht, eine Modellkarte oder eine allgemeine Herstellerbescheinigung genügt nicht für eine positive Konformitätsaussage.
 
-## Zeitpunkt der Erstellung
+## 2. Eingaben
 
-Die technische Dokumentation muss vor dem Inverkehrbringen oder der Inbetriebnahme des Hochrisiko-KI-Systems erstellt sein. Sie ist bei wesentlichen Änderungen zu aktualisieren.
+Zweckbestimmung, Systemversion, Architektur, Daten, Entwicklungsentscheidungen, Tests, Aufsichtskonzept, Änderungen, Normenstatus, Erklärung und Beobachtungsplan. Fremdkomponenten und Modellintegration separat erfassen; ungeprüfte Behauptungen kennzeichnen.
 
-## Inhalt der technischen Dokumentation nach Anhang IV KI-VO
+## 3. Ablauf und Checkliste
 
-### Abschnitt 1 — Allgemeine Beschreibung des KI-Systems
+### 3.1. Neun gesetzliche Bereiche abarbeiten
 
-- Name, Version und Zweck des Systems
-- Vorgesehene Verwendung und bestimmungsgemäßer Einsatz
-- Beschreibung der Wechselwirkungen mit Hardware oder Software, mit der das System zusammenarbeitet
-- Kategorien natürlicher Personen, die vom System betroffen sind
-- Beschreibung der Ausgaben und deren Verwendung
-- Hardware-Anforderungen
+1. Allgemeine Systembeschreibung: Zweck, Anbieter, Version und Verhältnis zu Vorgängern, Zusammenwirken mit anderer Technik, Bereitstellungsformen, Hardware, gegebenenfalls Produktabbildungen, Oberfläche und Betriebsanleitung.
+2. Bestandteile und Entwicklung: Methoden, vortrainierte Systeme, Entwurfsentscheidungen und Annahmen, Algorithmenlogik, Architektur, Ressourcen, Datenherkunft und Aufbereitung, Aufsichtsmaßnahmen, vorab bestimmte Änderungen, Validierung, datierte und unterzeichnete Testberichte sowie Cybersicherheit.
+3. Überwachung, Funktionsweise und Kontrolle: Fähigkeiten, Leistungsgrenzen auch für betroffene Gruppen, vorhersehbare unerwünschte Ergebnisse, Risiken und gegebenenfalls Eingabespezifikationen.
+4. Eignung der Leistungskennzahlen für genau dieses System begründen. Eine hohe globale Genauigkeit kann eine relevante Teilgruppe unzureichend abbilden.
+5. Risikomanagement nach Artikel 9 ausführlich beschreiben, einschließlich Verbindung zwischen Maßnahme und Wirksamkeitsnachweis.
+6. Tatsächliche relevante Änderungen über den Lebenszyklus dokumentieren und von nur geplanten Änderungen unterscheiden.
+7. Vollständig oder teilweise angewandte harmonisierte Normen mit Amtsblattfundstellen nennen. Ohne solche Normen die verwendeten technischen Lösungen sowie andere Normen oder Spezifikationen beschreiben; keine pauschale ISO-Konformität behaupten.
+8. Kopie der EU-Konformitätserklärung nach Artikel 47 zuordnen; einen Entwurf nicht als unterzeichnete Erklärung führen.
+9. Beobachtung nach Artikel 72 einschließlich Beobachtungsplan beschreiben. Dieser Bereich steht in Anhang IV, nicht anstelle der Leistungskennzahlen unter Nummer 4 oder im Registeranhang VIII.
 
-### Abschnitt 2 — Detaillierte Beschreibung von Elementen und Entwicklungsprozess
+### 3.2. Entstehung, Aktualisierung und Bereithaltung
 
-- Entwicklungsmethoden und Verfahren (einschließlich Software-Entwicklungsverfahren)
-- Systembeschreibung: Architektur, Methoden und Modelle
-- Trainingsverfahren und -methodiken
-- Beschreibung der Trainingsdaten und ihrer Eigenschaften (Herkunft, Umfang, Verarbeitungsschritte)
-- Informationen über vortrainierte Modelle und externe Tools
-- Ergebnisse der Validierungs- und Testverfahren
-- Validierungs- und Testprotokolle
+Artikel 11 Absatz 1 verlangt Erstellung vor Inverkehrbringen oder Inbetriebnahme und laufende Aktualität. Nicht nur wesentliche Änderungen können eine Berichtigung der Dokumentation nötig machen. System, Dokument, Test und Erklärung müssen derselben freigegebenen Version zugeordnet sein. Für Abschnitt-A-Produkte nach Absatz 2 ein verbundenes technisches Dossier mit den produktrechtlichen Angaben vorsehen.
 
-### Abschnitt 3 — Informationen über die Überwachung, den Betrieb und die Kontrolle
+KMU und kleine Midcap-Unternehmen können die gesetzlich vorgesehene vereinfachte Bereitstellung unter Verwendung des Kommissionsformulars wählen; Existenz und einschlägige Fassung des Formulars vor Nutzung prüfen. Die Vereinfachung entfernt nicht die materiellen Anforderungen. Artikel 18 verlangt zehnjährige Bereithaltung seiner genannten Dokumente ab Inverkehrbringen oder Inbetriebnahme; keine daraus abgeleitete zehnjährige Speicherung sämtlicher personenbezogener Logs.
 
-- Leistungsmetriken und Messmethoden
-- Leistungsniveaus und Schwellenwerte
-- Annahmen und Einschränkungen des Systems
-- Bekannte oder vorhersehbare Risiken
-- Datenpflege und Datenpipeline
-- Mögliche Einsatzszenarien außerhalb der vorgesehenen Verwendung
+### 3.3. Zulieferinformationen und Übergabe
 
-### Abschnitt 4 — Überwachung nach dem Inverkehrbringen
+Artikel 11 Absatz 3 ist eine Ermächtigung zur Änderung des Anhangs, keine Sonderfreistellung für unzureichend dokumentierte GPAI-Integration. Benötigte Zulieferinformationen nach dem einschlägigen Artikel 25 beziehungsweise Artikel 53 Absatz 1 Buchstabe b einholen. Geschäftsgeheimnisse berücksichtigen, aber nicht fehlende Systemkenntnis als vollständigen Nachweis ausgeben.
 
-- Plan für die Überwachung nach dem Inverkehrbringen (Art. 72 KI-VO)
+Jede Lücke einem konkreten Anhangspunkt, benötigtem Beleg und nächsten Bearbeiter zuordnen. An den Konformitätsvermerk übergeben, sobald dessen entscheidende Eingaben vorliegen. Unabhängige Abschnitte weiter ausformulieren. Zeitliche Anwendbarkeit nach Artikel 111 und 113 vor einer verbindlichen Pflichtbehauptung bestimmen.
 
-### Abschnitt 5 — Konformitätsbewertungsverfahren
+## 4. Quellenpflicht
 
-- Ergebnisse der Konformitätsbewertung
-- Beteiligung benannter Stellen (falls zutreffend)
-- EU-Konformitätserklärung
+Artikel 11, 18, 25, 53 Absatz 1 Buchstabe b, 72, 111 und 113 sowie Anhang IV. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### Abschnitt 6 — EU-Konformitätserklärung
+## 5. Ausgabeformat
 
-Verweis auf die EU-Konformitätserklärung nach Anhang V KI-VO.
+Ein ausformulierter technischer Dokumentationsentwurf mit neun richtigen Inhaltsbereichen, Versionsbezug und begrenzter Nachweisliste. Herstellerangabe, vorliegender Prüfbericht und selbst beobachtetes Ergebnis unterscheiden.
 
-### Abschnitt 7 — Einfache Beschreibung für Betreiber
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Kurzfassung der wesentlichen Merkmale des Systems, die für Betreiber verständlich sein muss.
+## 6. Beispiele
 
-## Besonderheiten für GPAI-Modelle als Grundlage
-
-Wenn das Hochrisiko-KI-System auf einem GPAI-Modell aufbaut, sind in der technischen Dokumentation auch die Eigenschaften des GPAI-Modells zu dokumentieren — soweit der Anbieter des GPAI-Modells entsprechende Informationen bereitgestellt hat (Art. 11 Abs. 3 KI-VO).
-
-## Aktualisierungspflichten
-
-Die technische Dokumentation ist aktuell zu halten. Eine Aktualisierung ist insbesondere erforderlich:
-- Bei wesentlichen Änderungen des Systems
-- Bei Änderungen des vorgesehenen Verwendungszwecks
-- Wenn neue Risiken bekannt werden
-- Bei Änderungen der Marktüberwachungsvorschriften
-
-## Aufbewahrungspflichten
-
-Die technische Dokumentation ist zehn Jahre nach Inverkehrbringen oder Inbetriebnahme aufzubewahren (Art. 18 KI-VO). Bei Hochrisiko-KI in sicherheitskritischen Bereichen können längere Fristen gelten.
-
-## Prüffragen
-
-- Liegt eine schriftliche, aktuelle technische Dokumentation vor, die alle Abschnitte nach Anhang IV abdeckt?
-- Wurde die Dokumentation bei der letzten wesentlichen Systemänderung aktualisiert?
-- Ist die Dokumentation für die zuständige nationale Marktüberwachungsbehörde auf Anfrage bereit?
-- Liegt eine verständliche Kurzbeschreibung für Betreiber vor?
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO TECHNISCHE DOKUMENTATION ART 11 UND ANHANG IV
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 11 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Anbieter liefert eine Modellkarte und einen allgemeinen ISO-Bericht. Das Dossier muss dennoch die eigene Integration, relevanten Gruppen, Leistungskennzahlen, Aufsicht, Tests und Änderungen abbilden. Die fehlende Erklärung wird als Entwurf gekennzeichnet; kein fiktiver Stellenstempel ergänzt.

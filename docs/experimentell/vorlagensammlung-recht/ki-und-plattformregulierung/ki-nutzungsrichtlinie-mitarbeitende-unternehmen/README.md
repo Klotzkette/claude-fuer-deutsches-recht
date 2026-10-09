@@ -1,5 +1,9 @@
 # KI-Nutzungsrichtlinie für Mitarbeitende
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Bei synthetischen Ausgaben werden Anbieter-Markierung nach Art. 50 Abs. 2 und Betreiber-Offenlegung nach Absatz 4 unterschieden. Jährliche Schulungen sind eine interne Festlegung; Art. 4 ist kein gesetzlicher Einheitskurs, Art. 26 Abs. 4 betrifft Eingabedaten. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Vollständige Unternehmensrichtlinie für den verantwortungsvollen Einsatz von KI-Werkzeugen durch Mitarbeitende, einschließlich verbotener Dateneingaben, Qualitätssicherung, Kennzeichnungspflichten, KI-Kompetenzschulungen und Anlage zur Freigabeliste.
 
 ## Download
@@ -40,7 +44,7 @@ Abgrenzung: Für KI-Training mit Datenlizenz `ki-und-plattformregulierung/datenl
 
 ### Vorgehensreihenfolge
 
-Werkzeuge, Kontomodelle, Datenflüsse, erlaubte Zwecke, gesperrte Informationen und fachliche Freigabeverantwortliche werden zuerst inventarisiert. Danach werden Eingabe, Outputprüfung, menschliche Entscheidung, Kennzeichnung, Protokollierung, Schulung nach Art. 4 KI-Verordnung, Vorfallmeldung und Entzug der Freigabe je Werkzeug und Einsatzklasse verbindlich festgelegt.
+Werkzeuge, Kontomodelle, Datenflüsse, erlaubte Zwecke, gesperrte Informationen und fachliche Freigabeverantwortliche werden zuerst inventarisiert. Danach werden Eingabe, Outputprüfung, menschliche Entscheidung, Kennzeichnung, Protokollierung, kontextbezogene Kompetenzförderung nach Art. 4 KI-Verordnung, Vorfallmeldung und Entzug der Freigabe je Werkzeug und Einsatzklasse verbindlich festgelegt.
 
 ### Typische Einwände und Antwortlinien
 

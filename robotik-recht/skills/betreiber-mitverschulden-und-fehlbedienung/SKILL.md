@@ -27,7 +27,7 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 - **§ 6 Abs. 1 ProdHaftG** Haftungsausschluss; **§ 6 Abs. 3 ProdHaftG** Mitverschulden.
 - **VO (EU) 2024/2853** (neue ProdHaftRL, Geltung 09.12.2026): Art. 13 Abs. 2 Beweiserleichterungen; Art. 11 Haftungsbefreiung des Wirtschaftsakteurs.
 - **MaschinenVO** VO (EU) 2023/1230 Anhang III Nr. 1.7 Information, Nr. 1.1.2(c) vernünftigerweise vorhersehbare Fehlanwendung.
-- **KI-VO** Art. 9 Abs. 4: Risikomanagement muss vorhersehbare Missbrauchsfälle (Foreseeable Misuse) abdecken.
+- **Artikel 9 Absatz 2 Buchstabe b und Absatz 3 KI-Verordnung:** Risiken bei bestimmungsgemäßer Verwendung und vernünftigerweise vorhersehbarer Fehlanwendung im geregelten Umfang untersuchen. Absatz 4 betrifft das Zusammenspiel der Anforderungen; er ist keine eigenständige allgemeine Warnpflicht. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **§ 823 BGB** Verkehrssicherungspflichten beider Seiten.
 - **ArbSchG**, **BetrSichV** Betreiberpflichten zur Unterweisung und Wartung.
 
@@ -67,7 +67,7 @@ Wenn ein Roboter Schäden anrichtet, hängt die Haftungsverteilung wesentlich da
 
 **Vermerkpassage Versicherer (Anteil 30/70):**
 
-> Nach Auswertung der Logs (Hash-protokolliert am 02.04.2026 durch Sachverständigen Dipl.-Ing. M.) erscheint eine Quote 30 % Geschädigter / 70 % Hersteller angemessen. Mitverschuldenstragend: nicht aktualisierte Software-Version am Betreiber-Cobot trotz vom Hersteller bereitgestelltem OTA-Update; herstellerseits jedoch fehlende Hinweisplicht-Erfüllung gemäß Art. 9 Abs. 4 KI-VO bei der konkret aufgetretenen Konstellation.
+> Die fiktiven Logs vom 02.04.2026 belegen zunächst Softwarestand und Warnungsablauf. Eine Haftungsquote wird erst nach Prüfung von Kausalität, Zumutbarkeit des Updates und tatsächlichen Instruktionen begründet. Artikel 9 Absatz 4 KI-Verordnung ist keine eigenständige allgemeine Hinweispflicht. Soweit sachlich und zeitlich anwendbar, Artikel 9 Absatz 5 Buchstabe c und Artikel 13 prüfen; produkt- und deliktsrechtliche Instruktionspflichten gesondert herleiten. Ohne diese Prüfung keine scheinpräzise Prozentquote.
 
 ## Typische Fehler
 

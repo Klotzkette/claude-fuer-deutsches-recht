@@ -29,6 +29,12 @@ Bei Agenten konkrete Änderung bezeichnen: neuer Schreibzugriff ins Bewerberport
 
 Entwirf eine konkret adressierte Weisung, weitere Bewerberübertragungen vorläufig zu unterbinden, vorhandene Exporte kontrolliert zu sichern und bereits beeinflusste Bewerbungen einer erneuten Sichtung zuzuführen, soweit dies der Auftrag deckt. Beschreibe Reichweite und Verantwortliche, nicht pauschal „alle KI abschalten“. Keine heimliche Mitarbeiterüberwachung. Eine weitere Herstellererklärung wird in Rollenvermerk und Anbieteranschreiben eingearbeitet.
 
+### 3.4 Vom Kanzleientwurf zur Justizanwendung
+
+Wenn ein Dienst bislang anwaltliche Schriftsätze unterstützt und nun im Namen einer Justizbehörde Sachverhalte rechtlich bewertet, müssen neue Zweckbestimmung, konkrete Installation und verantwortlicher Rechtsträger belegt werden. Der Ortswechsel allein genügt nicht, die neue Entscheidungsfunktion kann jedoch den Anhang-III-Pfad und Artikel 25 Absatz 1 Buchstabe c eröffnen. Ein nur für administrative Paginierung beschafftes Werkzeug wird nicht ohne Weiteres von der bestehenden Bewertung einer später zugeschalteten Glaubwürdigkeitsfunktion erfasst.
+
+Modell-Fine-Tuning und Systemänderung getrennt beschreiben. Ein behaupteter Anteil von weniger als einem Drittel der Trainingsrechenleistung ist keine Freistellungsgrenze für Zweckänderungen nach Artikel 25. Solche Aussagen gehören, wenn überhaupt, in die gesonderte GPAI-Prüfung anhand ihrer eigenen aktuellen Quellen. Neue Ausgaben, neue Werkzeuge und veränderte Entscheidungseinwirkung sind für den Systempfad tatsächlich zu untersuchen.
+
 ## 4 Quellenpflicht
 
 Artikel 3, 6 und 25 sowie der aktuelle Änderungsstand sind über [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) zu prüfen. Verwende die [Zitierweise](../../references/zitierweise.md). Die Ableitung zur organisatorischen Integration ist als eigene Subsumtion zu kennzeichnen. Ein Anbieter-Verbot der Hochrisiko-Umwidmung beseitigt mögliche Pflichten des Umwidmenden nicht; die gesetzliche Zusammenarbeit ist gesondert zu prüfen.

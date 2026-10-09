@@ -1,188 +1,54 @@
 ---
 name: betreiber-checkliste-folgenabschaetzung
-description: "Für Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft aus Betreibersicht, ob Artikel 27 eine Grundrechte-Folgenabschätzung verlangt. Erfasst Personenkreis, Verwendungszweck, Betroffene, Maßnahmen und vorhandene Datenschutzanalysen für den konkreten Einsatz.
 ---
 
-# Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung
+# Grundrechte-Folgenabschätzung und Betreibermaßnahmen
 
-## Teil 1 — Betreiber-Checkliste Art. 26 KI-VO
+## 1. Zweck und Anwendungsfall
 
-```
-BETREIBER-COMPLIANCE-CHECKLISTE
-Hochrisiko-KI-System nach Art. 26 KI-VO
+Kläre zuerst, ob gerade dieser Betreiber eine Grundrechte-Folgenabschätzung schuldet. Erst danach das passende Dokument ausarbeiten. Eine freiwillige Prüfung als solche kennzeichnen.
 
-System: ___________________________
-Betreiber: ________________________
-Datum: ____________________________
+## 2. Eingaben
 
-ACHTUNG: Keine Rechtsberatung.
-Mechanische Prüfung.
+Rechtsform und Tätigkeit des Betreibers, konkrete öffentliche Dienstleistung, Anhangseintrag, Verwendungsprozesse, Dauer und Häufigkeit, betroffene Gruppen, Anbieterinformation, Aufsicht, vorhandene Datenschutz-Folgenabschätzung und Beschwerdewege.
 
-□ 1. BESTIMMUNGSGEMÄSSE VERWENDUNG
- Gebrauchsanweisung des Anbieters vorhanden?
- System nur für vorgesehenen Zweck genutzt?
- Abweichungen vom Verwendungszweck
- dokumentiert und mit Anbieter abgestimmt?
+## 3. Ablauf und Checkliste
 
-□ 2. MENSCHLICHE AUFSICHT
- Aufsichtspersonen benannt?
- Aufsichtspersonen ausreichend geschult?
- Aufsichtspersonen haben Befugnis
- zur Übersteuerung?
- Verfahren für Systemstop dokumentiert?
+### 3.1. Pflichtadressat bestimmen
 
-□ 3. EINGABEDATEN
- Eingabedaten auf Qualität und
- Relevanz geprüft?
- Verfahren zur Eingabeprüfung dokumentiert?
+Artikel 27 Absatz 1 betrifft Systeme nach Artikel 6 Absatz 2 mit Ausnahme des Bereichs Anhang III Nummer 2. Erfasst sind Betreiber als Einrichtungen öffentlichen Rechts oder private Einrichtungen, die öffentliche Dienste erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Ein gewöhnliches privates Unternehmen ist nicht allein wegen der Verwendung eines Personaltools erfasst. Öffentliche Förderung oder eine beliebige Dienstleistung an Kunden belegt nicht automatisch eine öffentliche Dienstleistung.
 
-□ 4. PROTOKOLLAUFBEWAHRUNG
- Systemprotokolle werden gespeichert?
- Aufbewahrungsfrist von sechs Monaten
- sichergestellt?
- Konflikte mit DSGVO-Löschpflichten geprüft?
+### 3.2. Konkrete Verwendung untersuchen
 
-□ 5. INFORMATION BETROFFENER PERSONEN
- Betroffene Personen werden informiert,
- dass ein KI-System eingesetzt wird?
- Informationsweg dokumentiert?
+Beschreibe die Verfahren des Betreibers und deren Zweck, Dauer und Häufigkeit, möglicherweise betroffene natürliche Personen und Gruppen, spezifische Schadensrisiken, Aufsichtsmaßnahmen und Vorkehrungen bei Risikoeintritt einschließlich interner Zuständigkeit und Beschwerdemechanismen. Jede Gefahr braucht einen konkreten Wirkpfad: beispielsweise falscher Ausschluss vom Leistungszugang, mangelnde Bestreitbarkeit oder unzureichende Barrierefreiheit. Eine bloße Liste von Grundrechten mit Ampeln ist keine ausgeführte Abschätzung.
 
-□ 6. VORFALLMELDUNG
- Prozess für Vorfallmeldung an Anbieter
- vorhanden?
- Eskalationsweg für schwerwiegende
- Vorfälle definiert?
+Anbieterinformation nach Artikel 13 nutzen, aber die konkrete Betreiberumgebung selbst bewerten. Marktweite technische Risiken nach Artikel 9 und Anbieter-Qualitätsmanagement nach Artikel 17 nicht als fertige eigene Folgenabschätzung übernehmen.
 
-□ 7. FOLGENABSCHÄTZUNG (Art. 27 KI-VO)
- Pflicht zur Folgenabschätzung geprüft?
- Falls ja: Folgenabschätzung durchgeführt
- und dokumentiert?
- Folgenabschätzung vor Einsatz der
- nationalen Aufsichtsbehörde übermittelt?
-```
+### 3.3. Datenschutzprüfung nutzbar machen
 
-## Teil 2 — Grundrechte-Folgenabschätzung Art. 27 KI-VO
+Nach Artikel 27 Absatz 4 können bereits erfüllte Pflichten durch Verweise auf einschlägige Abschnitte der Datenschutz-Folgenabschätzung oder deren Übernahme abgedeckt werden. Benenne Dokument, Fassung und Abschnitt sowie die konkrete Deckung. Noch fehlende Nichtdiskriminierungs-, Zugangs-, Rechtsschutz- oder andere Grundrechtsaspekte ausarbeiten. „DSFA vorhanden“ ist kein vollständiger Nachweis; ebenso wenig muss vorhandene Substanz künstlich neu geschrieben werden.
 
-```
-GRUNDRECHTE-FOLGENABSCHÄTZUNG
-nach Art. 27 der Verordnung (EU) 2024/1689
+### 3.4. Zeitpunkt, Mitteilung und Aktualisierung
 
-System: ___________________________
-Betreiber: ________________________
-Datum: ____________________________
+Die Pflicht betrifft die erste Verwendung; auf passende frühere oder ähnliche Bewertungen darf nach Absatz 2 gestützt werden. Bei geänderten oder überholten Elementen aktualisieren. Die Ergebnismitteilung an die Marktüberwachungsbehörde steht in Absatz 3, nicht Absatz 4; vorgesehen ist das ausgefüllte Muster nach Absatz 5. Den möglichen Sonderfall des Artikels 46 Absatz 1 gesondert prüfen. Kein ungeprüftes PDF als nachweislich verwendetes amtliches Formular ausgeben.
 
-PFLICHT-DISCLAIMER:
-Keine Rechtsberatung. Mechanische Vorlage.
+Artikel 27 liegt in Kapitel III Abschnitt 3. Anwendungsbeginn und Bestand nach Artikel 111 und 113 bestimmen. Ein vorbereiteter Mitteilungsentwurf ist keine Einreichung. Vor realer Übermittlung zuständige Behörde, Befugnis, Datenminimierung und Auftrag klären.
 
-A. SYSTEMBESCHREIBUNG
- Bezeichnung des KI-Systems: ___________
- Anbieter: ____________________________
- Verwendungszweck: ____________________
- Einsatzkontext: ______________________
+### 3.5. Betreibercheck anschließen
 
-B. BETROFFENE PERSONEN UND GEBIETE
- Betroffene Kategorien von Personen:
- □ Beschäftigte
- □ Kunden / Klienten
- □ Bürger
- □ Kinder und Jugendliche
- □ Andere: _____________________
+Gesondert Artikel 26 prüfen: Betriebsanleitung, tatsächlich zugewiesene menschliche Aufsicht, Eingabedaten im eigenen Kontrollbereich, Protokolle, Beschäftigten- und Betroffeneninformation sowie Vorfallreaktion. Diese Pflichten nicht durch ein positives FRIA-Ergebnis ersetzen.
 
- Schätzung der Anzahl betroffener Personen
- pro Jahr: ____________________________
+## 4. Quellenpflicht
 
- Geografisches Gebiet: ________________
+Artikel 26 und Artikel 27 vollständig; Artikel 9, 17, 46, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-C. RELEVANTE GRUNDRECHTE
- Geprüfte Grundrechte (Grundrechtecharta):
- □ Menschenwürde (Art. 1)
- □ Recht auf Leben (Art. 2)
- □ Freiheit und Sicherheit (Art. 6)
- □ Achtung des Privat- und Familienlebens
- (Art. 7)
- □ Schutz personenbezogener Daten (Art. 8)
- □ Gedanken-, Gewissens- und
- Religionsfreiheit (Art. 10)
- □ Meinungsfreiheit (Art. 11)
- □ Nichtdiskriminierung (Art. 21)
- □ Gleichheit von Frauen und Maennern
- (Art. 23)
- □ Rechte von Kindern (Art. 24)
- □ Rechte aelterer Menschen (Art. 25)
- □ Integration von Menschen mit
- Behinderung (Art. 26)
- □ Eigentumsrecht (Art. 17)
- □ Recht auf wirksamen Rechtsschutz
- (Art. 47)
+## 5. Ausgabeformat
 
-D. BEWERTUNG NEGATIVER AUSWIRKUNGEN
- Beschreibung potenzieller negativer
- Auswirkungen auf jedes betroffene
- Grundrecht:
+Ausformulierte Grundrechte-Folgenabschätzung mit konkreten Verweisen auf vorhandene DSFA, Maßnahmen- und Aktualisierungsplan sowie gesonderter Entwurf der Ergebnismitteilung. Feststellung fehlender gesetzlicher Pflicht ebenfalls begründen; eine freiwillige Bewertung nicht als gesetzliche Pflicht darstellen.
 
- [Fuer jedes markierte Grundrecht:]
- Grundrecht: _________________________
- Potenzielle Auswirkung: ______________
- Schwere: niedrig / mittel / hoch
- Wahrscheinlichkeit: niedrig / mittel /
- hoch
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-E. RISIKOMINDERUNGSMASSNAHMEN
- Fuer jede identifizierte Auswirkung:
- Massnahme: __________________________
- Verantwortlicher: ___________________
- Umsetzungszeitpunkt: ________________
+## 6. Beispiele
 
-F. ABSCHLUSS
- Gesamtbewertung: akzeptabel /
- bedingt akzeptabel /
- nicht akzeptabel
- Datum der Abschlussbewertung: ________
- Unterzeichnet von: __________________
- Funktion: __________________________
-
-PFLICHT: Bei öffentlichen Stellen ist
-diese Folgenabschaetzung der nationalen
-Aufsichtsbehoerde vor Betriebsaufnahme
-zu uebermitteln (Art. 27 Abs. 4 KI-VO).
-```
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — OUTPUT BETREIBER CHECKLISTE UND FOLGENABSCHAETZUNG
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 26 Rn. 8]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein privater Maschinenbauer nutzt Bewerberranking für eigene Personalentscheidungen: Artikel 27 nicht allein wegen HR annehmen. Eine private Einrichtung mit einschlägiger öffentlicher Dienstleistung und demselben Werkzeug benötigt eine konkrete Prüfung ihrer Rolle und des Verwendungszusammenhangs.

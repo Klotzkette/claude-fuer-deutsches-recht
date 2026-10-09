@@ -18,7 +18,7 @@ description: "Für Executive Summary 1-Pager Template: ordnet Norm, Beweislast u
 - Onboarding neuer Mitarbeiter und Referendare
 - Aushang im Kopierraum oder digitalen Intranet
 - Anlage zu Mandatsbestaetigungen, wenn Mandanten nach KI-Politik fragen
-- Schulungs-Handout für Pflichtfortbildung nach Art. 4 KI-VO
+- Handout als angemessene Maßnahme zur Kompetenzförderung nach Artikel 4; Pflichtfortbildung nach Berufsrecht gesondert prüfen.
 
 ## Kaltstart-Fragen (Abfragesystem)
 
@@ -31,7 +31,7 @@ description: "Für Executive Summary 1-Pager Template: ordnet Norm, Beweislast u
 
 ## Rechtlicher Rahmen
 
-- KI-VO 2024/1689: Art. 4 KI-Kompetenz (gilt ab 02.02.2025), Art. 5 verbotene Praktiken (ab 02.02.2025), Artikel 26 Betreiberpflichten Hochrisiko (Anhang III ab 02.12.2027, Anhang I ab 02.08.2028), Art. 50 Transparenzpflichten
+- KI-Verordnung: Artikel 4 verlangt in der seit 27.07.2026 geltenden Fassung angemessene Maßnahmen zur Unterstützung der Entwicklung von KI-Kompetenz. Ein bestimmtes individuelles Niveau, eine feste Kursdauer, jährliche Schulung oder ein Zertifikat werden dadurch nicht vorgeschrieben. Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - BRAO: Paragraf 43a Abs. 2 Verschwiegenheit, Paragraf 43e Auftragsverarbeitung an IT-Dienstleister
 - StBerG Paragraf 62a, WPO Paragraf 50a, BNotO Paragraf 26a, PAO Paragraf 39a: Parallelregelungen Schweigepflicht
 - StGB Paragraf 203: strafbewehrtes Berufsgeheimnis

@@ -13,7 +13,7 @@ description: "Für digitale Werkzeuge-Tools im StB-Betrieb — Berufsrechtliche 
 
 ## Kernsachverhalt
 
-KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auch die StB-Kanzlei: Textgenerierung, Recherche, Belegklassifizierung, Prüf-Assistenten. Berufsrechtliche Pflichten: Berufsverschwiegenheit nach § 57 Abs. 1 StBerG, strafrechtlich abgesichert durch § 203 Abs. 1 Nr. 3 StGB, ergaenzt durch die DSGVO. § 203 Abs. 3 S. 2 StGB erlaubt die Einbeziehung "mitwirkender Personen" (umfasst auch externe Dienstleister wie KI-Anbieter) nur unter strikten Voraussetzungen — insbesondere schriftliche Verpflichtung zur Verschwiegenheit. Zusaetzlich gilt seit 01.08.2024 die EU-KI-Verordnung (VO 2024/1689) mit gestaffelter Anwendung; allgemeine Pflichten und Verbote ab 02.02.2025, Vorschriften für General Purpose AI ab 02.08.2025, Vollanwendung für Hochrisiko-KI im Wesentlichen ab 02.08.2026.
+KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auch die StB-Kanzlei: Textgenerierung, Recherche, Belegklassifizierung, Prüf-Assistenten. Berufsrechtliche Pflichten: Berufsverschwiegenheit nach § 57 Abs. 1 StBerG, strafrechtlich abgesichert durch § 203 Abs. 1 Nr. 3 StGB, ergaenzt durch die DSGVO. § 203 Abs. 3 S. 2 StGB erlaubt die Einbeziehung "mitwirkender Personen" (umfasst auch externe Dienstleister wie KI-Anbieter) nur unter strikten Voraussetzungen — insbesondere schriftliche Verpflichtung zur Verschwiegenheit. Zusaetzlich gilt seit 01.08.2024 die EU-KI-Verordnung (VO 2024/1689) mit gestaffelter Anwendung; Kompetenzmaßnahmen nach Artikel 4 in aktueller Fassung und konkrete Verbote gesondert prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Kaltstart-Rueckfragen
 
@@ -76,7 +76,7 @@ KI-Tools wie ChatGPT, Claude, Microsoft 365 Copilot oder DATEV-KI veraendern auc
 | Begrenztes Risiko | Chatbots, Deepfake-Generatoren — Transparenz-/Kennzeichnungspflichten Art. 50 |
 | Minimales Risiko | Standard-Office-KI, KI in Buchhaltungs-Klassifikation, Recherche-Assistenten |
 
-StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist regelmaessig "minimal" oder "begrenzt"; sie wird **nicht** allein durch die Mandantenbezogenheit zur Hochrisiko-KI. Hochrisiko liegt erst dann vor, wenn die KI zu einer "Kreditwuerdigkeit"-Bewertung oder zu Hochrisiko-Anwendungen iSv Anhang III VO 2024/1689 eingesetzt wird.
+StB-typische Recherche, Textentwürfe und Buchungsvorschläge sind nicht allein wegen Mandantenbezugs Hochrisiko-KI. Die Bezeichnungen „minimal“ oder „begrenzt“ ersetzen keine Prüfung: beide Artikel-6-Pfade, konkrete Zusatzfunktionen, Artikel 50, Berufsrecht und Datenschutz getrennt untersuchen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ### Phase 4 — Sachbearbeiter-Schulung
 
@@ -101,7 +101,7 @@ StB-typische KI-Nutzung (Recherche, Textgenerierung, Buchungsvorschlaege) ist re
 - Mandantendaten gelangen nur in KI-Loesungen mit nachweisbarem AVV, dokumentiertem Hosting (EU-Praeferenz) und schriftlicher Verschwiegenheitsverpflichtung nach § 203 Abs. 4 StGB i.V.m. § 62 StBerG (z.B. DATEV-KI, Microsoft 365 Copilot Enterprise mit EU Data Boundary).
 - Bei ChatGPT/Claude in Konsumfassung: Mandantendaten zwingend anonymisieren / pseudonymisieren; Trainings-Opt-Out aktivieren; bei Geschäftskonten mit AVV (z.B. ChatGPT Enterprise, Claude for Work) sind die Anforderungen erfuellbar, jeweils Vertragsstand prüfen.
 - Berufsverschwiegenheit ist strafrechtlich abgesichert (§ 203 StGB) — jeder Verstoss ist Offizialdelikt; zusaetzlich drohen DSGVO-Bussgelder bis 4 % Jahresumsatz.
-- KI-VO-Compliance: Bis 02.02.2025 verbotene Praktiken vermeiden; Schulung der Sachbearbeiter zur Output-Kontrolle (Halluzinationsrisiko); ab 02.08.2026 Prüfung der eingesetzten KI auf Hochrisiko-Einstufung.
+- **KI-VO-Compliance im Steuerbüro:** Tätigkeitsgerechte Maßnahmen zur Quellen- und Outputkontrolle organisieren. Systeme nach tatsächlicher Funktion prüfen; normale Belegklassifizierung ist nicht allein wegen fachlicher Wichtigkeit Hochrisiko-KI. Bestehende Verbote nach Artikel 5 gelten seit 02.02.2025; die neuen Regelungen in Absatz 1 Buchstaben ba und bb sowie Absätzen 1a und 1b gelten ab 02.12.2026. Zulässigkeit nach jedem konkreten Tatbestand und seiner Ausnahme prüfen. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Output-Verantwortung verbleibt beim Berufstraeger: jede inhaltliche Aussage ist vor Mandantenkommunikation durch den Berufstraeger zu prüfen (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang).
 
 ## Quellen und Updates
@@ -114,4 +114,4 @@ Stand: 05/2026.
 - EU-KI-VO 2024/1689 (BGBl. EU L vom 12.07.2024).
 - RDG § 5.
 - BStBK-/DStV-Hinweise zur KI-Nutzung.
-- Hinweis: KI-VO Anwendungsstufen — verbotene Praktiken ab 02.02.2025, General Purpose AI ab 02.08.2025, Hochrisiko-KI-Pflichten im Wesentlichen ab 02.08.2026; delegierte Rechtsakte laufend über eur-lex.europa.eu abrufen.
+- Hinweis: Artikel 111/113 nach Pflicht und Systemversion prüfen. Die Verschiebung auf 02.12.2027 beziehungsweise 02.08.2028 betrifft Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5. Neue Artikel-5-Regelungen gelten ab 02.12.2026; bestehende Verbote bleiben anwendbar.

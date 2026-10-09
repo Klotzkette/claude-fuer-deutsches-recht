@@ -23,7 +23,7 @@ Wenn eine Kanzlei KI-Systeme zur Bearbeitung von Mandaten einsetzt, entstehen In
 
 ## Rechtlicher Hintergrund
 
-Art. 13 DSGVO: Informationspflicht bei der Erhebung personenbezogener Daten — der Verantwortliche muss über Empfänger (auch Auftragsverarbeiter) informieren, was KI-Anbieter als Auftragsverarbeiter einschließt. Art. 6 Abs. 1 lit. a DSGVO: Einwilligung als Rechtsgrundlage — optional, schafft aber Vertrauen. Art. 14 DSGVO: Informationspflicht, wenn Daten nicht direkt beim Betroffenen erhoben werden. Art. 46 DSGVO: Information über Drittlandtransfer. § 43a Abs. 2 BRAO: Verschwiegenheit — Mandanten müssen verstehen, dass ihre Daten an Dritte weitergegeben werden, wenn keine Anonymisierung erfolgt. § 43e BRAO: Transparenz über Dienstleister-Verhältnis. Art. 50 Abs. 4 KI-VO: Transparenzpflicht bei öffentlichen Informationstexten.
+Art. 13 DSGVO: Informationspflicht bei der Erhebung personenbezogener Daten — der Verantwortliche muss über Empfänger (auch Auftragsverarbeiter) informieren, was KI-Anbieter als Auftragsverarbeiter einschließt. Art. 6 Abs. 1 lit. a DSGVO: Einwilligung als Rechtsgrundlage — optional, schafft aber Vertrauen. Art. 14 DSGVO: Informationspflicht, wenn Daten nicht direkt beim Betroffenen erhoben werden. Art. 46 DSGVO: Information über Drittlandtransfer. § 43a Abs. 2 BRAO: Verschwiegenheit — Mandanten müssen verstehen, dass ihre Daten an Dritte weitergegeben werden, wenn keine Anonymisierung erfolgt. § 43e BRAO: Transparenz über Dienstleister-Verhältnis. Artikel 50 Absatz 4 KI-Verordnung: Veröffentlichung zu Angelegenheiten öffentlichen Interesses und Voraussetzungen der dortigen redaktionellen Ausnahme prüfen; keine allgemeine Kennzeichnungspflicht für jeden internen Mandantenbrief.
 
 ## Vorlagentext / Bausteine
 

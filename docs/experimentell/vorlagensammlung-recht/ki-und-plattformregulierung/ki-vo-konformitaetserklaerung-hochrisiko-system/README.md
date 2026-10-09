@@ -1,5 +1,9 @@
 # EU-Konformitätserklärung für Hochrisiko-KI-System (KI-VO Art. 47)
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Die Erklärung enthält keine ungeprüften ISO-Beispiele als harmonisierte Normen mehr. Der Verfahrensweg nach Art. 43, die Produktsonderregeln und die maschinenlesbare, physisch oder elektronisch unterzeichnete Form sind konkret zu dokumentieren. Eine Erklärung mit offenen Prüfungen bleibt Entwurf. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Vollständige Vorlage für die EU-Konformitätserklärung gemäß Anhang V der KI-Verordnung (VO (EU) 2024/1689), einschließlich Prüfliste nach Anhang V und Kernauszug der Technischen Dokumentation nach Anhang IV.
 
 ## Download

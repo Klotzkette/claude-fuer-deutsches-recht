@@ -1,6 +1,6 @@
 # ki-native-kanzlei
 
-**30 Skills** · Stand `v445.33.1`
+**30 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-native-kanzlei/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

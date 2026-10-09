@@ -29,6 +29,12 @@ Ermittle gesondert, ob persönliche Aspekte automatisiert bewertet werden. Eine 
 
 Vergleiche das stärkste Gegenargument mit dem tatsächlichen Sichtungsablauf. Bei offenem Einfluss der Chat-Liste liefere zwei klar begrenzte Varianten und die eine hierfür entscheidende Nachfrage. Prüfe Artikel 111 und 113 vor jeder Aussage, eine Pflicht sei am Stichtag bereits verletzt. Nicht alle Hochrisikovorschriften haben denselben Anwendungsbeginn.
 
+### 3.4 Den Personalkontext vollständig und genau prüfen
+
+Gezielte Stellenanzeigen und der Zugang zur Selbstständigkeit gehören zum gesetzlichen Kontext; die Prüfung endet nicht beim Lebenslauf-Ranking. Bei Beförderung, Kündigung, Arbeitsbedingungen, personenbezogener Aufgabenverteilung oder Leistungs- und Verhaltensbeobachtung Nummer 4 Buchstabe b zusätzlich prüfen. Eine arbeitnehmerseitige Rechtsberatung zum Zeugnis ist nicht automatisch eine solche arbeitgeberseitige Bewertung. Entscheidend ist die tatsächliche Zweckbestimmung der konkreten Anwendung.
+
+Eine Emotionserkennung am Arbeitsplatz ist vor einer Hochrisikofreigabe auf Artikel 5 zu prüfen. Die Behauptung einer medizinischen oder Sicherheitsausnahme muss durch den konkreten Zweck getragen sein; Produktname oder vermeintliche Stressoptimierung genügen nicht. Eine Artikel-6-Ausnahme heilt kein Verbot. Für eine bloße Bewerbungsdatenübertragung außerdem nachweisen, dass keine persönlichen Merkmale bewertet, gewichtet oder zum Verbergen einzelner Datensätze genutzt werden.
+
 ## 4 Quellenpflicht
 
 Nutze [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) sowie die [Zitierweise](../../references/zitierweise.md). Verifiziere Artikel 6, Anhang III Nummer 4 Buchstabe a und die Profiling-Definition im amtlichen Text. Die Klassifikationsleitlinien vom Mai 2026 sind nach dem dokumentierten Abruf Entwurf. Übernimm keine Entwurfsbeispiele als verbindliche Bereichsausnahme.

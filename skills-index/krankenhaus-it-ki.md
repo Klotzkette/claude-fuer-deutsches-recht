@@ -1,6 +1,6 @@
 # krankenhaus-it-ki
 
-**11 Skills** · Stand `v445.33.1`
+**11 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../krankenhaus-it-ki/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`krankenhaus-it-ki-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`krankenhaus-it-ki-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [krankenhaus-it-ki.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/krankenhaus-it-ki.zip) |
+| **Plugin (installierbar)** | ZIP | [krankenhaus-it-ki.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/krankenhaus-it-ki.zip) |
 
 ## So benutzt man einen Skill
 

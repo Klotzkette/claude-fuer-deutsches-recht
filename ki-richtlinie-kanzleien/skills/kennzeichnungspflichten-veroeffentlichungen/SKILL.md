@@ -19,11 +19,11 @@ Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichunge
 
 ## Spezialwissen
 
-Art. 50 Abs. 4 KI-VO regelt die Transparenzpflicht für Betreiber von KI-Systemen, die Text zur Information der Öffentlichkeit über Angelegenheiten von öffentlichem Interesse erzeugen. Für Kanzleien ist der Anwendungsbereich dieser Norm verhältnismäßig begrenzt — die wichtigsten Ausnahmen greifen regelmäßig. Gleichwohl empfiehlt sich ein klarer interner Standard für die Kennzeichnung.
+Artikel 50 Absatz 4 erfasst bestimmte Veröffentlichungen nach Medium und Zweck. Eine Kanzlei ist nicht pauschal ausgenommen; vorhandene menschliche Kontrolle, verantwortliche Person und Veröffentlichungsanlass sind tatsächlich zu belegen. Auch freiwillige weitergehende Transparenz ist von einer gesetzlichen Pflicht zu unterscheiden. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Rechtlicher Hintergrund
 
-Art. 50 Abs. 4 Unterabs. 2 Satz 1 KI-VO: Betreiber eines KI-Systems, das Text zur Information der Öffentlichkeit über Angelegenheiten von öffentlichem Interesse erzeugt, müssen offenlegen, dass der Text KI-generiert ist. Art. 50 Abs. 4 Unterabs. 2 Satz 2 KI-VO: Ausnahme — keine Kennzeichnungspflicht, wenn (a) die Inhalte einem Verfahren der menschlichen Überprüfung oder redaktionellen Kontrolle unterzogen wurden und (b) eine natürliche oder juristische Person die redaktionelle Verantwortung für die Veröffentlichung trägt. Martini/Wendehorst, KI-VO, Art. 50 Rn. 113: Schriftsätze an Gerichte sind nicht "an die Öffentlichkeit" gerichtet, sondern an einen überschaubaren bekannten Empfängerkreis. Rn. 114: Anwalt, der Schriftsatz unterschreibt, übernimmt redaktionelle Verantwortung. Lauber-Rönsberg, lizenzpflichtige Literaturquelle KI-Recht, Art. 50 Rn. 73: Schutzzweck der Norm ist massenhafter unkontrollierter Falschinformation vorzubeugen.
+Artikel 50 Absatz 4 Unterabsatz 2 betrifft Betreiber bei Veröffentlichung erzeugter oder manipulierter Texte zur Information der Öffentlichkeit über Angelegenheiten öffentlichen Interesses. Für die redaktionelle Ausnahme sind menschliche Überprüfung oder redaktionelle Kontrolle und eine verantwortliche natürliche oder juristische Person erforderlich. Keine unüberprüften Literatur-Randnummern verwenden; die anwaltliche Unterschrift allein belegt keine tatsächliche Kontrolle. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -41,10 +41,10 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Vorlagentext / Bausteine
 
 **Baustein Kennzeichnungsregel:**
-Veröffentlichungen der Kanzlei (Blogs, Newsletter, Social-Media-Beiträge, Pressemitteilungen), die wesentlich unter Mitwirkung von KI-Systemen erstellt wurden und ohne substantielle menschliche inhaltliche Überarbeitung veröffentlicht werden, sind mit dem Hinweis zu versehen: "Dieser Text wurde unter Mitwirkung eines KI-Assistenzsystems erstellt." Bei vollständiger menschlicher redaktioneller Kontrolle und inhaltlicher Überarbeitung entfällt die Kennzeichnungspflicht nach Art. 50 Abs. 4 KI-VO.
+Veröffentlichungen der Kanzlei werden vor Freigabe nach Medium, Thema und tatsächlicher menschlicher Kontrolle geprüft. Soweit Artikel 50 Absatz 4 die Offenlegung verlangt, wird ein klarer Hinweis auf die KI-Erzeugung oder -Manipulation vorgesehen. Beim Textfall kann die gesetzliche redaktionelle Ausnahme greifen; eine substanzielle Umarbeitung ist nicht in jedem Fall zusätzlich erforderlich, eine bloße unkontrollierte Freigabe reicht aber nicht. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 **Baustein Schriftsatz-Ausnahme:**
-Anwaltliche Schriftsätze, die unter Nutzung von KI-Assistenzsystemen erstellt wurden, unterliegen keiner gesetzlichen Kennzeichnungspflicht nach Art. 50 Abs. 4 KI-VO. Dies ergibt sich daraus, dass (1) Schriftsätze nicht an die Öffentlichkeit, sondern an einen überschaubaren Empfängerkreis gerichtet sind, und (2) die unterzeichnende Rechtsanwältin oder der unterzeichnende Rechtsanwalt die redaktionelle Verantwortung für den gesamten Inhalt übernimmt.
+Ein gewöhnlicher, nur an Gericht und Verfahrensbeteiligte gerichteter Schriftsatz ist nicht allein ein zur Information der Öffentlichkeit veröffentlichter Text. Bei späterer Veröffentlichung den neuen Zweck prüfen. Eine anwaltliche Unterschrift ist keine pauschale Ausnahme für alle Veröffentlichungen oder Deepfakes; tatsächliche Kontrolle und Verantwortung nach dem einschlägigen Tatbestand belegen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 **Baustein Interne Dokumentation:**
 Unabhängig von der externen Kennzeichnungspflicht dokumentiert die Kanzlei intern, bei welchen Veröffentlichungen KI-Systeme in welchem Umfang eingesetzt wurden. Diese Dokumentation dient der Qualitätssicherung und der Nachweisbarkeit bei etwaigen späteren Anfragen.

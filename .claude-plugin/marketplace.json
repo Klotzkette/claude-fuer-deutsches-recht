@@ -391,7 +391,7 @@
       "name": "berufsrecht-anwaelte",
       "source": "./berufsrecht-anwaelte",
       "description": "Plugin für anwaltliches Berufsrecht: BRAO, BORA, FAO, beA, Kanzleisitz, Werbung, Interessenkollision, Verschwiegenheit, KI-/Cloud-Outsourcing, Schatten-KI, Berufsausübungsgesellschaft, Gebühren, Kammeraufsicht und anwaltsgerichtliche Risiken.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -401,7 +401,7 @@
       "name": "berufsrecht-ki-vertragspruefung",
       "source": "./berufsrecht-ki-vertragspruefung",
       "description": "Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: § 43e BRAO, § 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -571,7 +571,7 @@
       "name": "corporate-kanzlei",
       "source": "./corporate-kanzlei",
       "description": "Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -601,7 +601,7 @@
       "name": "datenschutzrecht",
       "source": "./datenschutzrecht",
       "description": "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -661,7 +661,7 @@
       "name": "dsa-dma-digitalregulierung",
       "source": "./dsa-dma-digitalregulierung",
       "description": "Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und § 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -761,7 +761,7 @@
       "name": "europarecht-kompass",
       "source": "./europarecht-kompass",
       "description": "Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -831,7 +831,7 @@
       "name": "fachanwalt-gewerblicher-rechtsschutz",
       "source": "./fachanwalt-gewerblicher-rechtsschutz",
       "description": "Plugin Fachanwalt für gewerblichen Rechtsschutz nach FAO § 14k. MarkenG. DesignG. UWG. PatG GebrMG. UrhG-Bezuege. Markenanmeldung DPMA EUIPO. UWG-Abmahnung §§ 8 ff. UWG. Designverletzung. Einstweilige Verfügung Verletzungsklage Lizenzanaloger Schadensersatz.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -871,7 +871,7 @@
       "name": "fachanwalt-it-recht",
       "source": "./fachanwalt-it-recht",
       "description": "Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -951,7 +951,7 @@
       "name": "fachanwalt-urheber-medienrecht",
       "source": "./fachanwalt-urheber-medienrecht",
       "description": "Plugin Fachanwalt für Urheber- und Medienrecht. UrhG UWG KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. Schnittstellen Plugin gewerblicher-rechtsschutz verlagsredaktion kanzlei-allgemein.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1201,7 +1201,7 @@
       "name": "grosskanzlei-corporate-ma",
       "source": "./grosskanzlei-corporate-ma",
       "description": "Corporate/M&A-Plugin fuer Kanzlei- und Inhouse-Praxis: Deal-Intake, Datenraum, Legal DD, SPA/APA, Kaufpreis, W&I, Regulatory, Signing, Closing, Integration, Board Papers und Spezial-Workflows.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1351,7 +1351,7 @@
       "name": "influencer-recht",
       "source": "./influencer-recht",
       "description": "Plugin für Influencer, Creator, Agenturen und Unternehmen: Werbekennzeichnung, Steuer, Umsatzsteuer, Sachleistungen, Plattformrecht, Medienrecht, Marken, Urheberrecht, Datenschutz und Verträge.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1371,7 +1371,7 @@
       "name": "insiderrecht-compliance",
       "source": "./insiderrecht-compliance",
       "description": "Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1441,7 +1441,7 @@
       "name": "internationales-handelsrecht-lex-mercatoria",
       "source": "./internationales-handelsrecht-lex-mercatoria",
       "description": "Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1521,7 +1521,7 @@
       "name": "kanzlei-builder-hub",
       "source": "./kanzlei-builder-hub",
       "description": "Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1571,7 +1571,7 @@
       "name": "ki-governance",
       "source": "./ki-governance",
       "description": "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1591,7 +1591,7 @@
       "name": "ki-richtlinie-kanzleien",
       "source": "./ki-richtlinie-kanzleien",
       "description": "Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwaelten und Syndikus-Anwaelten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1600,8 +1600,28 @@
     {
       "name": "ki-verordnung-hochrisiko-pruefer",
       "source": "./ki-verordnung-hochrisiko-pruefer",
-      "description": "Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall.",
-      "version": "445.33.1",
+      "description": "Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.",
+      "version": "445.35.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "ki-verordnung-konformitaet",
+      "source": "./ki-verordnung-konformitaet",
+      "description": "Prüft die Konformität konkreter KI-Systeme: Verfahrenswahl, Risikomanagement, Qualitätsmanagement, Daten, Aufsicht, Nachweise, Erklärung und Änderungen. Erstellt ein belastbares Dossier mit begründeten offenen Punkten.",
+      "version": "445.35.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "ki-verordnung-register-meldungen",
+      "source": "./ki-verordnung-register-meldungen",
+      "description": "Prüft Register- und Meldepflichten der KI-Verordnung nach Rolle, System, Anlass und Zeitrecht. Erstellt Datensätze, Erstberichte, Ergänzungen und Anschreiben und hält Freigabe sowie tatsächlichen Eingang nach.",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1611,7 +1631,17 @@
       "name": "ki-verordnung-transparenzpruefer",
       "source": "./ki-verordnung-transparenzpruefer",
       "description": "Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.",
-      "version": "445.33.1",
+      "version": "445.35.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "ki-verordnung-verbotene-praktiken",
+      "source": "./ki-verordnung-verbotene-praktiken",
+      "description": "Verbotene KI-Praktiken nach Artikel 5 prüfen: konkrete Funktionen, Schutzbedürftigkeit, soziale Bewertung, biometrische Verfahren und neue Inhaltsverbote mit belegter Subsumtion und Maßnahmen.",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1621,7 +1651,7 @@
       "name": "ki-vo-ai-act-pruefer",
       "source": "./ki-vo-ai-act-pruefer",
       "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1661,7 +1691,7 @@
       "name": "krankenhaus-it-ki",
       "source": "./krankenhaus-it-ki",
       "description": "Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1791,7 +1821,7 @@
       "name": "markenrecht-fashion-luxus",
       "source": "./markenrecht-fashion-luxus",
       "description": "Großes Markenrechts-Plugin für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1851,7 +1881,7 @@
       "name": "mittelstand-corporate-ma",
       "source": "./mittelstand-corporate-ma",
       "description": "Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2031,7 +2061,7 @@
       "name": "produktrecht",
       "source": "./produktrecht",
       "description": "Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2143,7 +2173,7 @@
       "name": "regulatorisches-recht",
       "source": "./regulatorisches-recht",
       "description": "Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2152,7 +2182,7 @@
     {
       "name": "relationstechnik-zivilrecht",
       "source": "./gerichtsplugins/relationstechnik-zivilrecht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Relationstechnik Zivilrecht: Klaegerstation, Beklagtenstation, Beweisstation und Entscheidungsstation mit Schluessigkeit, Erheblichkeit, Beweislast, Hinweisen und Urteilsvotum.",
       "author": {
         "name": "Klotzkette",
@@ -2172,7 +2202,7 @@
     {
       "name": "richter-amtsgericht-handelsregister",
       "source": "./gerichtsplugins/richter-amtsgericht-handelsregister",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Handelsregisterrichter und Rechtspfleger: Ersteintragung Änderungen Loeschung Zwischenverfuegung Beschwerde Eintragungsfähigkeit Firmenrecht Vertretungsmacht Liquidation und Loeschung von Amts wegen",
       "author": {
         "name": "Klotzkette",
@@ -2182,7 +2212,7 @@
     {
       "name": "richter-amtsgericht-insolvenz-restrukturierung",
       "source": "./gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Insolvenz- und Restrukturierungsgericht: Eröffnungsverfahren Sicherungsmaßnahmen Verwalterauswahl Gläubigerversammlung Prüfungstermin Schlusstermin Restschuldbefreiung Restrukturierungssache nach StaRUG mit Stabilisierungsanordnung und Planbestätigung",
       "author": {
         "name": "Klotzkette",
@@ -2192,7 +2222,7 @@
     {
       "name": "richter-amtsgericht-straf",
       "source": "./gerichtsplugins/richter-amtsgericht-straf",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Strafrichter Amtsgericht: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung Urteilsbegründung Rechtsmittelbelehrung Strafbefehl beschleunigtes Verfahren mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2202,7 +2232,7 @@
     {
       "name": "richter-amtsgericht-zivil",
       "source": "./gerichtsplugins/richter-amtsgericht-zivil",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Amtsrichter Zivilsachen: Schluessigkeit Erheblichkeit Beweis Tenor Kostenentscheidung Streitwertbeschluss vorläufige Vollstreckbarkeit Rechtsmittelbelehrung Versaeumnisurteil und Anerkenntnisurteil mit echter Relation und Entscheidungsvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2212,7 +2242,7 @@
     {
       "name": "richter-arbeitsgericht",
       "source": "./gerichtsplugins/richter-arbeitsgericht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Arbeitsgericht: Guetetermin Kammertermin Kündigungsschutzklage Zahlungsklage einstweilige Verfügung Beschlussverfahren Betriebsverfassung Streitwert mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2222,7 +2252,7 @@
     {
       "name": "richter-bverfg-verfassungsbeschwerden",
       "source": "./gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "BVerfG Kammer und wissenschaftliche Mitarbeiter: Annahmeprüfung Verfassungsbeschwerde Paragraf 93a BVerfGG Substantiierung Subsidiaritaet Grundrechtsverletzung Rechtswegerschoepfung Voten Kammerbeschluss Nichtannahmebeschluss",
       "author": {
         "name": "Klotzkette",
@@ -2232,7 +2262,7 @@
     {
       "name": "richter-familiengericht",
       "source": "./gerichtsplugins/richter-familiengericht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Familiengericht: Ehesachen Scheidung Versorgungsausgleich Kindschaftssachen elterliche Sorge Umgang Kindesunterhalt Trennungs- und Ehegattenunterhalt Gewaltschutz Adoption Vormundschaft Betreuungsteile mit Verfahrenskostenhilfe und Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2242,7 +2272,7 @@
     {
       "name": "richter-finanzgericht",
       "source": "./gerichtsplugins/richter-finanzgericht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2252,7 +2282,7 @@
     {
       "name": "richter-landgericht-strafkammer",
       "source": "./gerichtsplugins/richter-landgericht-strafkammer",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Strafkammer LG: Eröffnungsentscheidung Hauptverhandlung Beweiswürdigung Strafzumessung schwere und mittlere Kriminalitaet Berufung gegen Amtsgerichtsurteil Sicherungsverwahrung und Maßnahmen mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2262,7 +2292,7 @@
     {
       "name": "richter-landgericht-zivilkammer",
       "source": "./gerichtsplugins/richter-landgericht-zivilkammer",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Zivilkammer LG: erste Instanz und Berufung, große Relation, Schluessigkeit Erheblichkeit Beweis, Hinweisverfuegung Paragraf 139 ZPO, Beweisbeschluss, Sachverständigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2272,7 +2302,7 @@
     {
       "name": "richter-sozialgericht",
       "source": "./gerichtsplugins/richter-sozialgericht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Sozialgericht: Klagearten Anfechtungs- und Leistungsklage einstweiliger Rechtsschutz Paragraf 86b SGG Amtsermittlung sozialrechtliche Prüfungsschemata Krankenversicherung Rente Unfall Buergergeld Schwerbehinderung Urteilsentwurf mit Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2282,7 +2312,7 @@
     {
       "name": "richter-verwaltungsgericht",
       "source": "./gerichtsplugins/richter-verwaltungsgericht",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Verwaltungsgericht: Sachprüfung Anfechtungs- und Verpflichtungsklage einstweiliger Rechtsschutz Paragraf 80 Abs. 5 VwGO Hauptsacheentscheidung Beweiswürdigung im Amtsermittlungsgrundsatz und Tenorvorschlag",
       "author": {
         "name": "Klotzkette",
@@ -2293,7 +2323,7 @@
       "name": "robotik-recht",
       "source": "./robotik-recht",
       "description": "Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2488,7 +2518,7 @@
     {
       "name": "staatsanwaltschaft-amtsanwaltschaft",
       "source": "./gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "description": "Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsfuehrung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plaedoyer, Rechtsmittel und Vollstreckung.",
       "author": {
         "name": "Klotzkette",
@@ -2499,7 +2529,7 @@
       "name": "staatsanwaltschaft-praxis-einstieg",
       "source": "./gerichtsplugins/staatsanwaltschaft-praxis-einstieg",
       "description": "Praxisplugin fuer neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2508,7 +2538,7 @@
     {
       "name": "startup-gruender",
       "description": "Startup-Gründer: 18 Skills für eine zügige UG- oder GmbH-Gründung mit Satzung und Gesellschaftervereinbarung DE/EN. Cap Table, Geschäftsführung, Statusprüfung, Beirat, Geldwäsche und Vollzug; Seed bis Serie B als Folgerouten. Mit Werkstatt und Schnittflug-Testakte.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2539,7 +2569,7 @@
       "name": "steuerrecht-anwalt-und-berater",
       "source": "./steuerrecht-anwalt-und-berater",
       "description": "Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2609,7 +2639,7 @@
       "name": "subsumtions-pruefer",
       "source": "./subsumtions-pruefer",
       "description": "Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2839,7 +2869,7 @@
       "name": "verlagsrecht-buchpreisbindung",
       "source": "./verlagsrecht-buchpreisbindung",
       "description": "Plugin für Verlagsrecht, Verlagsgesetz, Autoren- und Herausgeberverträge, Buchpreisbindung, Titelschutz, Vertrieb, E-Book, Hörbuch und verlagsnahe Compliance.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2849,7 +2879,7 @@
       "name": "verlagsredaktion",
       "source": "./verlagsredaktion",
       "description": "Verlagsdesk für juristische und fachliche Verlage: Eingangskorb, Manuskript, Redaktion, Rechtecheck, Zitate, Bildrechte, Autorenkommunikation, Heftplanung, Buchprojekte, Satzfahnen, Metadaten, Marketing und Produktionsübergabe.",
-      "version": "445.33.1",
+      "version": "445.35.0",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

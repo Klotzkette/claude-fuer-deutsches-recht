@@ -68,7 +68,7 @@ class PluginTests(unittest.TestCase):
         cls.records = cls.data["documents"]
         cls.profile = json.loads(PROFILE.read_text(encoding="utf-8"))
 
-    def test_manifest_and_nine_substantive_skills(self):
+    def test_manifest_and_eleven_substantive_skills(self):
         manifest = json.loads((PLUGIN / ".claude-plugin/plugin.json").read_text())
         self.assertEqual(manifest["name"], SLUG)
         self.assertRegex(manifest["version"], r"^\d+\.\d+\.\d+$")
@@ -76,14 +76,14 @@ class PluginTests(unittest.TestCase):
         self.assertIn("Anhang-III", manifest["description"])
         self.assertEqual(manifest["author"], {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"})
         skills = list((PLUGIN / "skills").glob("*/SKILL.md"))
-        self.assertEqual(len(skills), 9)
+        self.assertEqual(len(skills), 11)
         for path in skills:
             text = path.read_text(encoding="utf-8")
             meta = yaml.safe_load(text.split("---", 2)[1])
             self.assertEqual(set(meta), {"name", "description"}, path)
             self.assertEqual(meta["name"], path.parent.name)
             self.assertRegex(meta["name"], r"^[a-z0-9-]{1,64}$")
-            self.assertTrue(80 <= len(meta["description"]) <= 1024)
+            self.assertTrue(80 <= len(meta["description"]) <= 360)
             self.assertGreater(len(text.split()), 240, path)
             for number in range(1, 7):
                 self.assertRegex(text, rf"(?m)^## {number} [^\n]+\n\n")
@@ -113,6 +113,9 @@ class PluginTests(unittest.TestCase):
         self.assertGreater(len(workshop), 14000)
         for data, key in ((mini, "mini_review"), (workshop, "workshop_review")):
             self.assertEqual(hashlib.sha256(data).hexdigest(), self.profile[key]["sha256"])
+        for kind in ("schnellstart", "werkstatt", "hauptproblem"):
+            self.assertEqual((PLUGIN / f"{SLUG}-{kind}.md").read_bytes(), (PLUGIN / f"{SLUG}-{kind}.txt").read_bytes())
+        self.assertLessEqual(len((PLUGIN / f"{SLUG}-hauptproblem.md").read_bytes()), 7500)
         quality_lab.validate_profile(self.profile, SLUG, PLUGIN, ROOT)
 
     def test_profile_rejects_stale_hash_and_answer_key_input(self):

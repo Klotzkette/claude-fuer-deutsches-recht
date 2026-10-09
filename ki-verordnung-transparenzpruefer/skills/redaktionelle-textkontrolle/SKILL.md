@@ -26,6 +26,8 @@ Nach Randnummer 136 trägt eine Freigabe keine spätere substanzielle KI-Bearbei
 
 Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabevermerk und die Veröffentlichungsvorlage. Nach dokumentierter inhaltlicher Prüfung prüfe die Verantwortungszuordnung und die Fassung erneut. Ein separat manipulierter Bildteil bleibt ein eigener Fall; menschliche Textkontrolle beseitigt weder eine Deepfake-Offenlegung noch die Anbieterpflicht aus Absatz 2.
 
+Eine redaktionelle Policy, ein ISO-Managementzertifikat oder eine zweite KI ist kein Nachweis der tatsächlichen menschlichen Inhaltsprüfung. Umgekehrt verlangt die Textausnahme kein pauschales Artikel-17-Qualitätsmanagement; die geprüfte Endfassung und redaktionelle Verantwortung sind maßgeblich.
+
 ## 4. Quellenpflicht
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 4; Artikel 50 Absatz 4 Unterabsatz 2, Kommissionsleitlinien und FAQ zur substanziellen Kontrolle. [Zitierweise](../../references/zitierweise.md). Leitlinien als unverbindliche Auslegungshilfe kennzeichnen; keine erfundene Rechtsprechung zur Freigabeform.
@@ -36,6 +38,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Die Partnerin prüfte Version 3; Version 4 enthält einen KI-generierten Erfahrungsbericht. Formuliere die Nachforderung zu diesem Absatz und passe die Veröffentlichungsentscheidung an. Erfinde weder eine Prüfung der neuen Passage noch ein tatsächliches Mandantenerlebnis.

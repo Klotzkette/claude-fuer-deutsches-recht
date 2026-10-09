@@ -18,7 +18,7 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 1. **Rolle:** Anbieter/Hersteller, Sicherheitsverantwortlicher (Safety Officer), DSB, CISO, Notified-Body-Auditor.
 2. **Methodik:** Scrum, SAFe, Hybrid, V-Modell mit agilen Inseln?
 3. **Releasemodell:** Big-Bang-Release, kontinuierliche OTA-Updates, Trains.
-4. **Produktklasse:** Hochrisiko-KI nach Anhang III KI-VO, MaschinenVO-Produkt, Medizinprodukt, autonomes Fahrzeug.
+4. **Produkt und Funktion:** Maschine, Medizinprodukt oder Fahrzeug nach jeweiligem Produktrecht prüfen; anschließend beide Artikel-6-Pfade, Artikel 2 Absatz 2 und gegebenenfalls Artikel 6 Absatz 3 unterscheiden. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 5. **Anlass:** Aufbau Compliance-Pipeline, Audit-Vorbereitung, Vorfall nach unkontrolliertem Release, Beratung zu DoD/DoR.
 
 ## Rechtlicher Rahmen
@@ -40,7 +40,7 @@ Robotikhersteller arbeiten agil (Scrum, SAFe, Kanban) – das EU-Produkt-, KI- u
 6. **Gate 3: Cyber-Freigabe.** SBOM, CVE-Scan, Pen-Test, Signaturkette OTA – CRA-Pflichten erfüllt.
 7. **Gate 4: Datenschutz-Freigabe.** DSB-Votum, ggf. DSFA, Auftragsverarbeitungsvertrag mit Cloud-Anbieter.
 8. **Gate 5: Rechts- und CE-Freigabe.** EU-Konformitätserklärung (alle einschlägigen Rechtsakte), Notified Body sofern erforderlich, Marktüberwachungs-Schnittstelle dokumentiert.
-9. **Post-Release:** Field-Data-Loop, Vigilanz-Meldungen (Art. 73 KI-VO innerhalb 15 Tagen für schwerwiegende Vorfälle), Bewertung "substanzielle Änderung".
+9. **Nach Bereitstellung:** Marktbeobachtung und Änderungsbewertung konkret führen. Artikel 73: unverzüglich nach dem maßgeblichen Kenntnis-/Kausalitätsstand melden, nicht die Höchstfrist ausschöpfen. Absatz 2 höchstens 15 Tage; Absatz 3 bei weitverbreitetem Verstoß oder Ereignis nach Artikel 3 Nummer 49 Buchstabe b höchstens zwei Tage; Absatz 4 bei Tod unter seinen Kausalitätsvoraussetzungen höchstens zehn Tage. Unvollständige Erstmeldung und Ergänzungen nach Absatz 5 ermöglichen. Rolle, Zuständigkeit und Zeitrecht gesondert prüfen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Trade-off-Matrix
 

@@ -1,0 +1,132 @@
+{
+  "dateien": [
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/AGENTS.md",
+      "sha256": "56d7539826cec3f38efefbdbd7ed704c0a33666cf90ff85e7dac58bc6bde59fa",
+      "leseumfang": "Volltext der Repositoryregeln"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/CLAUDE.md",
+      "sha256": "eb0d126fa16a18b12a2f711643c791162ac613d671a00092ffe82fcd3e72ad6e",
+      "leseumfang": "Volltext des Repositoryleitfadens"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "leseumfang": "Volltext der verbindlichen Zitierregeln"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-schnellstart.md",
+      "sha256": "a76b23aec2d28394c5e7152e30736822f7dde8424da1c806fffde8af215b9094",
+      "leseumfang": "Volltext; maßgebliche Anleitung der ersten Probe"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/ki-vo-ai-act-pruefer/references/rechtsstand-2026-10-09.md",
+      "sha256": "3c7477ef9123a60dafb8b0b028e10b6c29fcac95f9df39ff29a8ef48a267b01a",
+      "leseumfang": "Volltext als unmittelbar benötigte Quellen- und Fristenkarte"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/ki-vo-ai-act-pruefer/references/digitaler-omnibus-2026.md",
+      "sha256": "62280651ce6f6200a8a679b60354e1965c8b9534916ec36da3a06d22f91dfdc2",
+      "leseumfang": "Volltext als unmittelbar benötigte Zeitrechts- und Zuständigkeitsreferenz"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/quality/ki-verordnung-2026-10-09/quellen/quellen.json",
+      "sha256": "ff2ede8091fe3f22966f204a47809d7723fdf73e12ae9310a5975ca1f5a111fa",
+      "leseumfang": "Herkunfts- und Hashverzeichnis amtlicher Quellen; keine Erwartungsantwort"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/quality/ki-verordnung-2026-10-09/quellen/02024R1689-20260727.txt",
+      "sha256": "33d6e0abb2d51932b5228fb4520a522dbad1ae3a9bbbfad67a1d70dea2e950f4",
+      "leseumfang": "Gezielte Normauszüge: Artikel 3 Nummern 1, 3, 4, 12, 23, 49, 52, 61; Artikel 4; Artikel 5 Absatz 1 Buchstaben c, f, g; Artikel 6, 9, 17, 25, 26, 27, 40, 43, 47, 48, 49, 50, 73, 75, 111, 113 und Anhang III. Großausgabe einmal gekürzt; Artikel 27, 40, 43, 49 anschließend separat vollständig gelesen."
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/quality/ki-verordnung-2026-10-09/quellen/32026R1744.txt",
+      "sha256": "e625936f75d8753664e4df7e20c8852c9bf2fc34b78d14f8a3aa9ca27e21f7cb",
+      "leseumfang": "Gezielte Auszüge: Änderungen zu Artikel 111 und 113 (Artikel 1 Nummern 39 und 40), benachbarte Normtexte und Inkrafttretensbestimmung; kein vollständiger Durchgang."
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/quality/ki-verordnung-2026-10-09/quellen/32026R1744R01.txt",
+      "sha256": "6ffed1ec1d4c522230beac9fbd37d0d5f0d53717a7d685e51a45526e8a212e7f",
+      "leseumfang": "Berichtigung zu Artikel 6 Absatz 1b sowie Publikationsdaten"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/quality/ki-verordnung-2026-10-09/quellen/gpai-leitlinien-2025.txt",
+      "sha256": "927b1a2b65c26c78e86f1c60706fb7eb81751ece639edd50dc24978dfb8df77b",
+      "leseumfang": "Titel sowie Randnummer 9 und gezielte Passagen zu Randnummern 60 bis 66 einschließlich Drittel-Kriterium; kein vollständiger Durchgang."
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-schnellstart.md",
+      "sha256": "b7b99d6e473f94ad6231da7eb23869392b3e16d818125ea22133d9ddf3b1b6ee",
+      "leseumfang": "Volltext; einzige Anleitung des neuen Fachplugins für zweite Probe"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/01_Pruefauftrag.docx",
+      "sha256": "be2fc785d128120f4fabb695bfd59b9ffecedc6a8e287a665791be48c051c44e",
+      "leseumfang": "DOCX-Haupttext aus XML"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/02_Uebungschronologie.docx",
+      "sha256": "efdf3c175d46b1ea028da6775c7019b8f9398834a9241356e527194d82e3c230",
+      "leseumfang": "DOCX-Haupttext aus XML"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/03_Erstbericht_Entwurf.docx",
+      "sha256": "1c99ed84ecee57dcfb049066a2a87721e65d4e1bc2b7132844048c65df899d44",
+      "leseumfang": "DOCX-Haupttext aus XML"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/04_Auftrag.eml",
+      "sha256": "29ee4000215a32ce8b041cc32f0f753e585d65494b8d0c57ea3fd201af614fdb",
+      "leseumfang": "Dekodierter E-Mail-Text mit Kopfdaten; Anhangsnamen geprüft"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/05_Anbietersicht.eml",
+      "sha256": "5b93cd62b71e20258518c94172e778f708b4fdb428b560110bacd3d4b58e0945",
+      "leseumfang": "Dekodierter E-Mail-Text mit Kopfdaten; Anhangsnamen geprüft"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/06_Zeitrechnung.eml",
+      "sha256": "b59d4aef79dd15f48af741daf015441a5f38869f989549299433963686f3840e",
+      "leseumfang": "Dekodierter E-Mail-Text mit Kopfdaten; Anhangsnamen geprüft"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/07_Standortfrage.eml",
+      "sha256": "d0bb21e0f6b298908456e2475fcb368d9a2d39921a551c601d7b1a0e91306413",
+      "leseumfang": "Dekodierter E-Mail-Text mit Kopfdaten; Anhangsnamen geprüft"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/11_Uebungszeiten.xlsx",
+      "sha256": "8a12a639f6aace21a78daa6a050280f4278f63babe588cefa95837388853a968",
+      "leseumfang": "Zellinhalte und gespeicherte Werte der einzigen Tabelle aus XML; kein Excel-Client und keine Neuberechnung"
+    },
+    {
+      "datei": "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/testakten/ki-meldung-mainbogen-notruf/12_Projektchat.txt",
+      "sha256": "0b2786620f47d026b3c3086337a8770b70493d6053e1dbf1fabff8d0bab01dd1",
+      "leseumfang": "Volltext"
+    }
+  ],
+  "archivpruefung": [
+    {
+      "id": "02024R1689-20260727",
+      "ursprungs_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+      "hash_originalantwort": "78a39db717e2e0223cdb0677f56fad653eb10ed14c4e395c38d6a1e65ae9c73f",
+      "stimmt_mit_archivmanifest_ueberein": true,
+      "nutzung": "Textableitung oben gelesen; HTML hier binär gegen Herkunftsmanifest geprüft"
+    },
+    {
+      "id": "32026R1744",
+      "ursprungs_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744",
+      "hash_originalantwort": "d932ccf6a8ffc46d0f38a75ddfee234d01c94a88d3502fefc67462a01321f571",
+      "stimmt_mit_archivmanifest_ueberein": true,
+      "nutzung": "Textableitung oben gelesen; HTML hier binär gegen Herkunftsmanifest geprüft"
+    },
+    {
+      "id": "32026R1744R01",
+      "ursprungs_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)",
+      "hash_originalantwort": "46d30e35db8177507405054a7f2c411d6e25f1f34f50d4aecdeaa0bfb096082c",
+      "stimmt_mit_archivmanifest_ueberein": true,
+      "nutzung": "Textableitung oben gelesen; HTML hier binär gegen Herkunftsmanifest geprüft"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ description: "Für Schatten-digitale Werkzeuge Aufdeckung: ordnet Norm, Beweisla
 
 ## Rechtlicher Hintergrund
 
-§ 43a Abs. 2 BRAO, § 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Art. 5 DSGVO: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden. § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern. § 26 BDSG: Zulässigkeit der Verarbeitung von Beschäftigtendaten. Art. 4 KI-VO: Pflicht zur KI-Kompetenz setzt voraus, dass der Einsatz bekannt und geregelt ist.
+§ 43a Abs. 2 BRAO, § 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Art. 5 DSGVO: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden. § 87 Abs. 1 Nr. 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern. § 26 BDSG: Zulässigkeit der Verarbeitung von Beschäftigtendaten. Artikel 4 KI-Verordnung verlangt angemessene Kompetenzmaßnahmen. Das Erfassen tatsächlicher Einsatzweisen dient ihrer sachgerechten Planung; eine bestimmte Inventar- oder Richtlinienform wird dort nicht vorgeschrieben.
 
 ## Vorlagentext / Bausteine
 

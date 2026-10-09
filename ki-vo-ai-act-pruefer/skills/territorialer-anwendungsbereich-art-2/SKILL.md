@@ -63,7 +63,7 @@ Art. 2 Abs. 3 bis 12 KI-VO enthält explizite Ausnahmen. Relevante Ausnahmen wer
 
 ## Ergebnis und Routing
 
-- **Territorialer Anwendungsbereich gegeben:** weiter zu `persönlicher-anwendungsbereich-rollen-art-3` und dann zu `rolle-anbieter-pruefen-art-3-nr-3` oder `rolle-betreiber-pruefen-art-3-nr-4`
+- **Territorialer Anwendungsbereich gegeben:** weiter zu `persoenlicher-anwendungsbereich-rollen-art-3` und dann zu `rolle-anbieter-pruefen-art-3-nr-3` oder `rolle-betreiber-pruefen-art-3-nr-4`
 - **Territorialer Anwendungsbereich fraglich (Drittstaaten):** Hinweis auf Klärungsbedarf; weiter mit Vorbehalt
 - **Kein territorialer Anwendungsbereich:** KI-VO findet keine Anwendung; andere Rechtsordnungen können gelten
 

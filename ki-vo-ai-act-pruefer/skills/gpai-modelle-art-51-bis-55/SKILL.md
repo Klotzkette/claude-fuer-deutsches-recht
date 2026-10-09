@@ -1,115 +1,56 @@
 ---
 name: gpai-modelle-art-51-bis-55
-description: "Für GPAI-Modelle — Art. 51 bis 55 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft allgemeine Verwendbarkeit, Modellanbieterrolle, Dokumentation, nachgelagerte Information, Urheberrechtsstrategie und systemisches Risiko. Trennt Modellpflichten, Open-Source-Ausnahmen und zusätzliche Systempflichten.
 ---
 
-# GPAI-Modelle — Art. 51 bis 55 KI-VO
+# Modellpflichten nach Artikeln 51 bis 55
 
-## Abgrenzung: GPAI-Modell versus GPAI-System
+## 1. Zweck und Anwendungsfall
 
-**GPAI-Modell (Art. 3 Nr. 63 KI-VO):** Ein KI-Modell, das mit großer Datenmenge mit selbstüberwachtem Lernen in großem Maßstab trainiert wird und eine Reihe von allgemeinen Aufgaben erfüllen kann, auch wenn es für einen bestimmten spezifischeren Zweck eingesetzt wird.
+Bestimme den Pflichtumfang für das konkrete Modell und seinen Anbieter. Selbstüberwachtes Training in großem Umfang ist nach Artikel 3 Nummer 63 ein Beispiel, keine zwingende Definition jedes GPAI-Modells. Allgemeine Verwendbarkeit, breites Aufgabenspektrum und Integrationsfähigkeit sind zu prüfen.
 
-**GPAI-System (Art. 3 Nr. 66 KI-VO):** Ein KI-System, das auf einem GPAI-Modell basiert und für eine Vielzahl von Zwecken eingesetzt werden kann.
+## 2. Eingaben
 
-**Praxisrelevanz:** Das GPAI-Modell ist die Grundlage (z.B. ein Foundation-Modell); das GPAI-System ist die Anwendung darauf (z.B. ein Chatbot oder eine spezifische Anwendung). Pflichten treffen primär den Modellanbieter.
+Modellversion, Fähigkeiten, Testberichte, Bereitstellungsform, Lizenz, Gewichte und Architekturdokumentation, Modelländerungen, Trainingsaufwand, Marktdatum, Anbieterstandort und geplante Systemintegration. Nicht allein aus der Marke eines Chatprodukts auf eine Modellrolle schließen.
 
-→ Detailprüfung: `gpai-vorliegen-art-3-nr-63`
+## 3. Ablauf und Checkliste
 
-## Pflicht 1 — Technische Dokumentation (Art. 53 Abs. 1 lit. a KI-VO i.V.m. Anhang XI KI-VO)
+### 3.1. Vier allgemeine Anbieterpflichten zuordnen
 
-Anbieter von GPAI-Modellen müssen eine technische Dokumentation erstellen und aktuell halten. Der Inhalt richtet sich nach Anhang XI KI-VO und umfasst:
+Artikel 53 Absatz 1 Buchstabe a verlangt erstellte und aktuelle technische Dokumentation einschließlich Training, Tests und Bewertung, mindestens nach Anhang XI, für KI-Büro und zuständige Behörden auf Anfrage. Buchstabe b betrifft Informationen und Dokumentation für nachgelagerte Systemanbieter, mindestens nach Anhang XII, damit diese Fähigkeiten und Grenzen verstehen und ihre Pflichten erfüllen können. Beide Empfängerkreise trennen; nicht die ganze technische Dokumentation öffentlich stellen.
 
-- Allgemeine Beschreibung des GPAI-Modells einschließlich seines Bestimmungszwecks
-- Beschreibung der Modellarchitektur und der Anzahl der Parameter
-- Informationen über Trainingsverfahren und -daten (auf hoher Abstraktionsebene)
-- Beschreibung des Leistungsniveaus anhand geeigneter Metriken
-- Bekannte Grenzen und Schwächen
+Buchstabe c verlangt eine Strategie zur Einhaltung von Unionsurheberrecht und verwandten Schutzrechten, insbesondere Ermittlung und Einhaltung des Rechtsvorbehalts nach Artikel 4 Absatz 3 der Richtlinie (EU) 2019/790 auch mit modernsten Technologien. Diese Organisationspflicht erteilt keine eigene Trainingslizenz. Buchstabe d verlangt eine hinreichend detaillierte öffentliche Zusammenfassung der Trainingsinhalte nach der KI-Büro-Vorlage; deren tatsächliche aktuelle Fassung beschaffen. Keine beliebig selbst verkürzte Tabelle als vollständig vorschriftsgemäß ausgeben.
 
-**Prüffragen:**
-- Liegt eine vollständige technische Dokumentation nach Anhang XI vor?
-- Wurde die Dokumentation bei wesentlichen Modellanpassungen aktualisiert?
+### 3.2. Open Source und Bevollmächtigung
 
-## Pflicht 2 — Informationen und Dokumentation für nachgelagerte Anbieter (Art. 53 Abs. 1 lit. b KI-VO)
+Artikel 53 Absatz 2 nimmt nur Buchstaben a und b aus, wenn die freie und quelloffene Lizenz Zugang, Nutzung, Änderung und Verbreitung erlaubt und Parameter einschließlich Gewichten, Architektur- und Nutzungsinformationen öffentlich sind. Offene Gewichte allein reichen nicht. Urheberrechtsstrategie und öffentliche Trainingszusammenfassung entfallen nicht aufgrund dieser Ausnahme. Bei systemischem Risiko greift die Ausnahme nicht.
 
-Anbieter von GPAI-Modellen müssen nachgelagerten Anbietern, die das Modell in ihre KI-Systeme integrieren, ausreichende Informationen und Dokumentation bereitstellen, damit diese ihre eigenen Pflichten nach der KI-VO erfüllen können.
+Drittlandsanbieter nach Artikel 54 vor Inverkehrbringen auf dem Unionsmarkt auf schriftliche Bevollmächtigung prüfen. Auftrag, Dokumentenzugang, zehnjährige Bereithaltung nach Absatz 3 Buchstabe b, Behördenkooperation und Pflicht zur Beendigung bei Verstoßverdacht abbilden. Die gesonderte Open-Source-Ausnahme des Absatzes 6 vollständig prüfen; keine pauschale Gleichsetzung mit einer offenen Downloadseite.
 
-**Prüffragen:**
-- Stellen Sie Ihren Nutzern (Entwicklern, Integrierern) ausreichende technische Informationen bereit?
-- Enthält Ihre Dokumentation Hinweise auf bekannte Risiken und Einschränkungen, die für Hochrisiko-Einsätze relevant sein könnten?
+### 3.3. Systemisches Risiko und Änderungen
 
-## Pflicht 3 — Urheberrechts-Compliance-Strategie (Art. 53 Abs. 1 lit. c KI-VO)
+Artikel 51 Absatz 2 begründet bei **mehr als 10^25** Trainings-Gleitkommaoperationen eine widerlegbare Vermutung; „mindestens“ ist ungenau. Systemisches Risiko kann auch unterhalb dieser Größe aufgrund des gesetzlichen Einstufungswegs vorliegen. Mitteilung nach Artikel 52 und eine begründete Gegenposition gesondert bearbeiten.
 
-Anbieter von GPAI-Modellen müssen eine Strategie zur Einhaltung des Urheberrechts der Union implementieren. Diese Pflicht ist eng mit Art. 4 Abs. 3 der Richtlinie (EU) 2019/790 (DSM-Richtlinie) verknüpft.
+Artikel 55 verlangt zusätzlich Modellbewertungen einschließlich Angriffstests, Bewertung und Minderung unionsweiter systemischer Risiken, Erfassung und unverzügliche Meldung schwerwiegender Vorfälle sowie angemessene Modell- und Infrastrukturcybersicherheit. Die Fristen des Artikels 73 nicht ohne Weiteres auf diese Modellmeldung übertragen.
 
-**Inhalt der Strategie:**
-- Maßnahmen zur Erkennung und Respektierung von Text-und-Data-Mining-Vorbehalten (TDM-Vorbehalte nach Art. 4 Abs. 3 DSM-Richtlinie)
-- Verfahren zur Überprüfung von Trainingsdaten auf urheberrechtlich geschützte Inhalte
-- Dokumentation, welche Quellen für das Training verwendet wurden
+Bei nachgelagerter Veränderung die unverbindlichen GPAI-Leitlinien, insbesondere Randnummern 62 bis 65, heranziehen. Mehr als ein Drittel der ursprünglichen Trainingsrechenleistung ist ein indikatives Kriterium im Modellrollenpfad, kein gesetzlicher Systemfreibrief für kleinere Anpassungen. Fähigkeitenänderung, Datenbasis, Zweck und tatsächliche Verantwortung prüfen. Artikel 25 und Hochrisiko- oder Transparenzpflichten des Systems daneben.
 
-**Prüffragen:**
-- Wurde bei der Datenerhebung für das Training geprüft, ob Webseiten oder Quellen einen TDM-Vorbehalt haben (z.B. robots.txt, Nutzungsbedingungen)?
-- Wie wird mit urheberrechtlich geschützten Trainingsdaten umgegangen?
+### 3.4. Nachweisweg und Zeitrecht
 
-## Pflicht 4 — Summary of Training Content (Art. 53 Abs. 1 lit. d KI-VO)
+Artikel 53 Absatz 4 und Artikel 55 Absatz 2 lassen bis zu einer harmonisierten Norm den Nachweis über Praxisleitfäden zu. Bloßes Unterzeichnen schafft nicht die Konformitätsvermutung, die der Normtext an die eingehaltene harmonisierte Norm mit passender Abdeckung knüpft. Alternative Verfahren sind unter den gesetzlichen Voraussetzungen darzulegen und von der Kommission zu bewerten. Modellkodex und Transparenzkodex unterscheiden.
 
-Anbieter von GPAI-Modellen müssen eine ausreichend detaillierte Zusammenfassung der für das Training verwendeten Inhalte veröffentlichen, gemäß einem Format, das das Europäische KI-Büro bereitstellt.
+Kapitel V gilt grundsätzlich seit 2. August 2025. Für vor diesem Tag in Verkehr gebrachte Modelle Artikel 111 Absatz 3 mit Anpassung bis 2. August 2027 prüfen. Die verschobenen Hochrisikosystemtermine ändern diese Modelltermine nicht. Norm- und Leitlinienfassung in der Arbeitsnotiz festhalten.
 
-**Inhalt:**
-- Wesentliche Datenquellen
-- Verarbeitungsschritte
-- Umfang der Trainingsdaten (Größenordnung)
+## 4. Quellenpflicht
 
-**Prüffragen:**
-- Liegt eine solche Zusammenfassung vor und ist sie veröffentlicht?
+Artikel 3 Nummern 63 und 66, Artikel 51 bis 56, 111 und 113; GPAI-Leitlinien Randnummern 9 und 62 bis 65. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Open-Source-Erleichterungen (Art. 53 Abs. 2 KI-VO)
+## 5. Ausgabeformat
 
-Für GPAI-Modelle mit offenen Gewichten (Open-Source-Modelle) gelten reduzierte Dokumentationspflichten — sofern das Modell kein systemisches Risiko darstellt (unter 10^25 FLOP) und unter freier und offener Lizenz veroeffentlicht wird (Parameter, Architektur, Nutzung).
+Ein ausformulierter Modellpflichtenvermerk mit getrennten Produkten für Behördendokumentation, nachgelagerte Information, Urheberrechtsstrategie, öffentliche Zusammenfassung und gegebenenfalls Systemrisikonachweise. Keine neue Modellbewertung oder technische Abnahme vortäuschen.
 
-## Faktische Updates (Stand 07/2026)
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-- **02.08.2025 — Anwendung Kapitel V KI-VO:** Die Pflichten für GPAI-Modellanbieter (Art. 51-55) sind seit dem 02.08.2025 verbindlich. Quelle: VO (EU) 2024/1689, Art. 113 lit. b — eur-lex.europa.eu/eli/reg/2024/1689/oj.
-- **Trainingsdaten-Zusammenfassung (Art. 53 Abs. 1 lit. d):** Die Veroeffentlichung erfolgt nach dem von der Kommission/EU-AI-Office bereitgestellten Template. Stand der Template-Bereitstellung und ggf. Updates live prüfen über digital-strategy.ec.europa.eu.
-- **GPAI Code of Practice (Art. 56 KI-VO):** Der General-Purpose-AI-Code-of-Practice strukturiert sich in den Saeulen Transparenz, Urheberrecht und Safety/Security. Anbieter, die den Code zeichnen, geniessen Vermutung der Pflichtenkonformitaet. Quelle: digital-strategy.ec.europa.eu (live prüfen).
-- **Systemisches Risiko Art. 51 KI-VO:** Bei Trainings-Compute von mindestens 10^25 FLOPs gilt die Vermutung des systemischen Risikos; zusätzliche Pflichten nach Art. 55 (Modellbewertungen, adversarial testing, Meldepflicht bei schweren Vorfällen, Cybersicherheit).
-- **EU-KI-Büro:** Zuständig für GPAI-Durchsetzung, Modellbewertung und Code of Practice (Art. 64 KI-VO).
+## 6. Beispiele
 
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — GPAI MODELLE ART 51 BIS 55
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 51 Rn. 4]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Unternehmen veröffentlicht offene Gewichte, behält aber die erforderlichen Nutzungsinformationen zurück. Die Open-Source-Ausnahme kann nicht allein anhand der Downloadmöglichkeit bestätigt werden. Die daraus gebaute Bewerberanwendung benötigt unabhängig davon einen System- und Rollenvermerk.

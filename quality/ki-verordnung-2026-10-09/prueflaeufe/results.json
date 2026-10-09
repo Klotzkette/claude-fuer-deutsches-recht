@@ -1,0 +1,68 @@
+[
+  {
+    "name": "audit-skill-activation.py",
+    "exit_code": 1,
+    "seconds": 2.07,
+    "log": "/tmp/aiact-qa/audit-skill-activation.py.log"
+  },
+  {
+    "name": "validate-yaml-frontmatter.py",
+    "exit_code": 0,
+    "seconds": 1.38,
+    "log": "/tmp/aiact-qa/validate-yaml-frontmatter.py.log"
+  },
+  {
+    "name": "test-marketplace-import.py",
+    "exit_code": 0,
+    "seconds": 1.5,
+    "log": "/tmp/aiact-qa/test-marketplace-import.py.log"
+  },
+  {
+    "name": "validate-markdown-structure.py",
+    "exit_code": 0,
+    "seconds": 6.47,
+    "log": "/tmp/aiact-qa/validate-markdown-structure.py.log"
+  },
+  {
+    "name": "test-release-routing.py",
+    "exit_code": 0,
+    "seconds": 2.81,
+    "log": "/tmp/aiact-qa/test-release-routing.py.log"
+  },
+  {
+    "name": "test-scoped-release-routing.py",
+    "exit_code": 0,
+    "seconds": 0.04,
+    "log": "/tmp/aiact-qa/test-scoped-release-routing.py.log"
+  },
+  {
+    "name": "test-office-resilience.py",
+    "exit_code": 0,
+    "seconds": 3.83,
+    "log": "/tmp/aiact-qa/test-office-resilience.py.log"
+  },
+  {
+    "name": "test-ki-verordnung-artikel5-testakten.py",
+    "exit_code": 1,
+    "seconds": 0.19,
+    "log": "/tmp/aiact-qa/test-ki-verordnung-artikel5-testakten.py.log"
+  },
+  {
+    "name": "test-ki-verordnung-hochrisiko-pruefer.py",
+    "exit_code": 0,
+    "seconds": 0.23,
+    "log": "/tmp/aiact-qa/test-ki-verordnung-hochrisiko-pruefer.py.log"
+  },
+  {
+    "name": "validate-plugin-structure.mjs",
+    "exit_code": 0,
+    "seconds": 6.28,
+    "log": "/tmp/aiact-qa/validate-plugin-structure.mjs.log"
+  },
+  {
+    "name": "quality-lab-audit",
+    "exit_code": 1,
+    "seconds": 0.52,
+    "log": "/tmp/aiact-qa/quality-lab-audit.log"
+  }
+]

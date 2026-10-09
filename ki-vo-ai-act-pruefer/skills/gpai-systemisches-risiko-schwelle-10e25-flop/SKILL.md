@@ -1,107 +1,54 @@
 ---
 name: gpai-systemisches-risiko-schwelle-10e25-flop
-description: "Für GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: gpai-systemisches-risiko-schwelle-10e25-flop."
+description: Prüft Fähigkeiten, Trainingsrechenaufwand und Kommissionsentscheidung nach Artikel 51. Erstellt einen belastbaren Einstufungs- und Mitteilungsvermerk und grenzt Modelländerung und Systempflichten ab.
 ---
 
-# GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO
+# Systemisches Risiko eines GPAI-Modells
 
-## Schwellenwert — 10e25 FLOP (Art. 51 Abs. 1 lit. a KI-VO)
+## 1. Zweck und Anwendungsfall
 
-Ein GPAI-Modell gilt als Modell mit systemischem Risiko, wenn die kumulierte Trainingsrechenleistung 10e25 FLOP (Floating Point Operations) übersteigt.
+Prüfe ein Modell mit allgemeinem Verwendungszweck als eigenen Gegenstand. Hochrisiko einer Anwendung nach Artikel 6 und systemisches Modellrisiko nach Artikel 51 sind unterschiedliche Prüfungen.
 
-**Was ist FLOP?** FLOP ist eine Maßeinheit für Rechenoperationen. 10e25 FLOP entspricht zehn hoch 25 Rechenoperationen — eine sehr hohe Schwelle, die zum Zeitpunkt der Verabschiedung der KI-VO nur von den größten bekannten Grundmodellen überschritten wurde.
+## 2. Eingaben
 
-**Prüffragen:**
-- Kennt Ihr Unternehmen die kumulierte Trainingsrechenleistung des Modells?
-- Überschreitet diese Rechenleistung 10e25 FLOP?
+Modellkennung, Entwickler und Anbieter, allgemeine Fähigkeiten, Training und Nachtraining, Berechnungsmethode, kumulierter Aufwand, Vermarktung, Kommissionsentscheidung und bekannte Änderungen. Unbekannten Rechenaufwand nicht mit null ersetzen.
 
-**Wenn unklar:** Die Berechnung der FLOP-Trainingsrechenleistung hängt von Architektur, Datenmenge und Trainingszeit ab. Im Zweifelsfall sind technische Experten und das Europäische KI-Büro zu konsultieren.
+## 3. Ablauf und Checkliste
 
-## Systemisches Risiko durch Kommissionsbeschluss (Art. 51 Abs. 1 lit. b KI-VO)
+### 3.1. Einstufungswege
 
-Unabhängig von der FLOP-Schwelle kann die Kommission ein GPAI-Modell durch Beschluss als Modell mit systemischem Risiko einstufen, wenn es auf der Grundlage bestimmter Kriterien ein systemisches Risiko darstellt. Solche Beschlüsse können auch für Modelle unterhalb der FLOP-Schwelle gelten.
+Artikel 51 Absatz 1 Buchstabe a betrifft Fähigkeiten mit hoher Wirkkraft anhand geeigneter Instrumente und Methoden einschließlich Indikatoren und Benchmarks. Nach Absatz 2 wird dies bei **mehr als 10^25** Trainings-Gleitkommaoperationen vermutet. „10e25“ ist als technische Zahlenschreibweise zehnmal größer und darf nicht als Ersatz für 10^25 verwendet werden. Die historische Skillkennung bleibt lediglich aus Kompatibilitätsgründen bestehen.
 
-**Kriterien für einen Kommissionsbeschluss:**
-- Anzahl der Nutzer (Erreichung kritischer Masse)
-- Einsatz in Hochrisikobereichen
-- Marktmacht des Anbieters
-- Potenzielle Auswirkungen auf demokratische Prozesse
+Buchstabe b ermöglicht die Einstufung durch die Kommission unter Berücksichtigung von Anhang XIII, auch ohne bloße Schwellenüberschreitung. Ein Wert unterhalb der Rechenschwelle beweist deshalb nicht automatisch das Fehlen systemischen Risikos. Messung, Schätzung und belegte Unsicherheit auseinanderhalten. Aktuelle delegierte Änderungen nach Absatz 3 vor späterer Anwendung prüfen.
 
-## Notifikationspflicht (Art. 52 Abs. 1 KI-VO)
+### 3.2. Mitteilung und begründeter Gegenantrag
 
-Anbieter von GPAI-Modellen, die die FLOP-Schwelle überschreiten, müssen dies der Kommission vor dem Inverkehrbringen des Modells mitteilen.
+Artikel 52 Absatz 1 verlangt bei erfüllter Bedingung aus Artikel 51 Absatz 1 Buchstabe a unverzügliche Mitteilung, spätestens binnen zwei Wochen nach Erfüllung oder Bekanntwerden der künftigen Erfüllung. Kenntnisdatum, Ereignis, Berechnung und Verantwortlichen dokumentieren; keine pauschale Zweiwochenwartefrist.
 
-**Inhalt der Notifikation:**
-- Identität des Anbieters
-- Trainingsrechenleistung
-- Datum des Inverkehrbringens oder der Bereitstellung
+Nach Artikel 52 Absatz 2 kann der Anbieter in der Mitteilung hinreichend begründet darlegen, warum das Modell ausnahmsweise keine systemischen Risiken birgt. Die Kommission bewertet dies nach Absatz 3. Eine bloße interne Widerlegungsnotiz befreit nicht von der erforderlichen Mitteilung. Amtswegige Einstufung und Neubewertungsverfahren nach Absätzen 4 und 5 gesondert prüfen.
 
-Anbieter können auch freiwillig eine Selbsteinstufung vornehmen, wenn sie meinen, dass ihr Modell systemisches Risiko aufweist.
+### 3.3. Änderungen nicht mit Systemfreigrenzen verwechseln
 
-## Zusätzliche Pflichten für Modelle mit systemischem Risiko (Art. 55 KI-VO)
+Die unverbindlichen GPAI-Leitlinien Randnummern 60 bis 71 behandeln nachgelagerte Modelländerungen. Mehr als ein Drittel des ursprünglichen Trainingsaufwands ist nach Randnummer 63 ein indikatives Kriterium für eine neue Modellanbieterrolle; Randnummer 64 behandelt fehlende Kenntnis oder Schätzbarkeit. Maßgeblich ist die in Randnummer 62 beschriebene erhebliche Änderung der Allgemeinheit, Fähigkeiten oder des systemischen Risikos.
 
-### Pflicht 1 — Modellbewertung (Art. 55 Abs. 1 lit. a KI-VO)
+Es gibt dadurch keine gesetzliche Freigrenze für Anwendungen, keine Entlastung von Artikel 25 und keine Ausnahme von Artikel 5 oder 6. Ein Systemintegrator kann auch ohne Nachtraining Systemanbieter sein. Modell-, System- und Betreiberrollen gesondert dokumentieren.
 
-Anbieter müssen:
-- Das Modell auf der Grundlage standardisierter Protokolle und Tools evaluieren
-- Systemische Risiken identifizieren und bewerten
-- Red-Teaming-Übungen durchführen, um Adversarial-Risiken zu erkennen
+### 3.4. Pflichten und Ergebnis
 
-### Pflicht 2 — Gegenmaßnahmen (Art. 55 Abs. 1 lit. b KI-VO)
+Bei systemischem Risiko Artikel 55 zusätzlich zu Artikel 53 prüfen: Modellevaluierung einschließlich angemessener gegnerischer Tests, Bewertung und Minderung systemischer Risiken, Vorfallnachverfolgung und Information, Cybersicherheit. Freiwilliger Kodex, harmonisierte Norm und gesetzliche Vermutungswirkung getrennt belegen. Urheberrechtsstrategie und Trainingsinhaltszusammenfassung bleiben eigene Artikel-53-Produkte; keine völlige Offenlegung der Trainingsdaten behaupten.
 
-Anbieter müssen angemessene Maßnahmen ergreifen, um festgestellte systemische Risiken zu mindern:
-- Technische Schutzmaßnahmen
-- Informations- und Sicherheitsrichtlinien
-- Kooperation mit anderen Anbietern (gemeinsame Risikobewertung)
+GPAI-Zeitplan nach Artikel 111 Absatz 3 und Artikel 113 anwenden; Modellalter und Systemveröffentlichung nicht gleichsetzen.
 
-### Pflicht 3 — Vorfallmeldung (Art. 55 Abs. 1 lit. c KI-VO)
+## 4. Quellenpflicht
 
-Anbieter von Modellen mit systemischem Risiko müssen schwerwiegende Vorfälle und mögliche Korrektivmaßnahmen unverzüglich der Kommission und der nationalen Behörde melden. Fristen werden durch Durchführungsrechtsakte konkretisiert.
+Artikel 51 bis 55 und Anhang XIII; amtliche GPAI-Leitlinien Randnummern 9, 57 und 60 bis 71. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### Pflicht 4 — Cybersicherheit (Art. 55 Abs. 1 lit. d KI-VO)
+## 5. Ausgabeformat
 
-Anbieter müssen ein angemessenes Niveau an Cybersicherheitsschutz sicherstellen — sowohl für das Modell selbst als auch für die physische Infrastruktur.
+Einstufungsvermerk mit nachvollziehbarer Berechnung, Beweisgrenzen, Kenntnischronologie und gegebenenfalls ausformuliertem Mitteilungsentwurf. Kein Versand und keine behauptete Kommissionsentscheidung ohne tatsächlichen Nachweis.
 
-## Verhältnis zu Codes of Practice (Art. 56 KI-VO)
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Anbieter von GPAI-Modellen (mit und ohne systemisches Risiko) sollen an der Ausarbeitung von Verhaltenskodizes mitwirken. Für Modelle mit systemischem Risiko können Verhaltenskodizes als Konkretisierung der Pflichten aus Art. 55 KI-VO dienen. → `code-of-practice-und-harmonisierte-normen`
+## 6. Beispiele
 
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — GPAI SYSTEMISCHES RISIKO SCHWELLE 10E25 FLOP
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 51 Abs. 1 lit. b Rn. 8]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Unternehmen nennt 10^24 FLOP für ein angepasstes Modell und behauptet deshalb, seine Bewerberauswahl sei insgesamt nicht reguliert. Prüfe zunächst den Modellbezug des Werts, dann getrennt die Anbieter- und Hochrisikofrage der Anwendung.

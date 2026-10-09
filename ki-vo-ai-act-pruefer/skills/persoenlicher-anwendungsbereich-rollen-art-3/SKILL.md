@@ -49,7 +49,7 @@ In der Praxis sind Mehrfachrollen häufig:
 
 - Wer ein fremdes KI-System wesentlich verändert und unter eigenem Namen in Verkehr bringt, wird zum Anbieter (Art. 25 KI-VO) → `anbieter-werden-art-25`
 - Wer ein System selbst entwickelt und auch selbst einsetzt, ist gleichzeitig Anbieter und Betreiber.
-- Einführer können unter bestimmten Bedingungen als Anbieter behandelt werden (Art. 23 Abs. 4 KI-VO).
+- Einführer können bei Eigenmarke, wesentlicher Änderung oder neuer Hochrisikozweckbestimmung nach Artikel 25 Absatz 1 als Anbieter behandelt werden; Artikel 23 Absatz 4 betrifft Lagerung und Transport.
 
 ## Routing
 
@@ -75,7 +75,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+- Art. 99 KI-VO — den konkreten Verstoß und die jeweils einschlägige Sanktionsstufe prüfen; nicht den Artikel-5-Höchstsatz auf alle Pflichten übertragen
 
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?

@@ -13,7 +13,7 @@ Kläre, ob eine konkrete Systemfunktion verboten ist. Eine Kennzeichnung, Zertif
 
 Zweckbestimmung, tatsächliche Verwendung, betroffene Personen, Einfluss auf Entscheidungen, Schadensindikatoren und Einführungsdatum aus vorhandenen Unterlagen lesen. Die fragliche Funktion isolieren; ein einziger problematischer Ablauf macht nicht jede andere Funktion zum verbotenen System. Nur für die entscheidende Lücke nachfragen.
 
-## 3. Ablauf
+## 3. Ablauf und Checkliste
 
 1. Ereignisdatum bestimmen. Die bisherigen Buchstaben a bis h gelten seit 2. Februar 2025. Die neuen Buchstaben ba und bb sowie Absätze 1a und 1b gelten ab 2. Dezember 2026.
 2. Bei Manipulation nach Buchstabe a die Technik, erhebliche Verhaltensverzerrung, beeinträchtigte informierte Entscheidung und erheblichen eingetretenen oder hinreichend wahrscheinlichen Schaden verbinden. Bloße Unzufriedenheit oder jede Empfehlung genügt nicht.
@@ -32,7 +32,7 @@ Zweckbestimmung, tatsächliche Verwendung, betroffene Personen, Einfluss auf Ent
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Freigabe-, Änderungs- oder Einstellungsvermerk. Eine kurze Tabelle ergänzt ihn: Funktion, Tatbestandsmerkmal, Beleg, Gegenargument, Datum, Konsequenz. Kein Häkchenformular als Ersatz der Begründung. Times New Roman 11 pt und dezimale Gliederung; ohne Export vollständigen Text liefern. Meldung, Veröffentlichung oder technische Abschaltung nur nach gesonderter Freigabe ausführen.
+Liefere einen ausformulierten Freigabe-, Änderungs- oder Einstellungsvermerk. Eine Tabelle mit höchstens vier Spalten ergänzt ihn: Funktion und Datum, Tatbestandsmerkmal, Beleg und Gegenargument, Konsequenz. Kein Häkchenformular als Ersatz der Begründung. Times New Roman 11 pt und dezimale Gliederung; ohne Export vollständigen Text liefern. Meldung, Veröffentlichung oder technische Abschaltung nur nach gesonderter Freigabe ausführen.
 
 ## 6. Beispiele
 

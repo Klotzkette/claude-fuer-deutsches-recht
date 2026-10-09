@@ -1,124 +1,50 @@
 ---
 name: hochrisiko-transparenz-zuordnung-art
-description: "Für Transparenz und Informationen für Betreiber — Art. 13 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-transparenz-zuordnung-art."
+description: Ordnet Angaben aus Produktbeschreibung und Vertrag den Informationspflichten des Artikels 13 zu. Prüft Widersprüche zur Betriebsanleitung und trennt Betreiberinformation von Veröffentlichungshinweisen nach Artikel 50.
 ---
 
-# Transparenz und Informationen für Betreiber — Art. 13 KI-VO
+# Betriebsanleitung und Information nach Artikel 13
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Anbieter von Hochrisiko-KI fragt: Welche Informationen müssen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ermögliche Betreibern, die Ausgaben angemessen zu interpretieren und das System verantwortbar zu verwenden. Eine Werbebroschüre oder ein allgemeiner Hinweis „KI kann irren“ ersetzt keine anwendungsspezifische Anleitung.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: bisherige Verbote seit 02.02.2025, neue Verbote ab 02.12.2026; GPAI und Transparenz nach eigener Regel. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, Anhang I ab 02.08.2028; Artikel 111 und 113 sowie einschlägige Zuständigkeit prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Systembeschreibung, validierte Leistungswerte, typische Eingaben und Ausgaben, Fehlgebrauch, vorhersehbare Risiken, Aufsichtskonzept, Hardware, Wartung, Updates und Logzugriff. Vorhandene Anleitung gegen die tatsächliche Version prüfen.
 
-## Grundprinzip: Transparenz durch Design
+## 3. Ablauf und Checkliste
 
-Hochrisiko-KI-Systeme müssen so konzipiert und entwickelt werden, dass ihr Betrieb für Betreiber in ausreichendem Maß transparent ist, sodass diese die Ausgaben des Systems interpretieren und angemessen nutzen können.
+### 3.1. Pflichtinhalt konkretisieren
 
-## Mindestinhalt der Informationen für Betreiber (Art. 13 Abs. 3 KI-VO)
+Artikel 13 Absatz 3 verlangt Anbietername und Kontakt, gegebenenfalls Bevollmächtigten, sowie Merkmale, Fähigkeiten und Grenzen. Zweckbestimmung und getestete Genauigkeit, Robustheit und Cybersicherheit mit Metriken und beeinflussenden Umständen beschreiben. Bekannte oder vorhersehbare Risiken aus bestimmungsgemäßer Verwendung und vorhersehbarem Fehlgebrauch nennen.
 
-### Pflichtinhalt 1 — Identität und Kontaktdaten des Anbieters
+Soweit einschlägig Leistungsunterschiede nach Personengruppen, Eingabespezifikationen, Informationen über Trainings-, Validierungs- und Testdaten sowie Hilfen zur Ausgabeinterpretation aufnehmen. Keine nicht gemessenen Werte erfinden. Ein statistischer Test auf einer anderen Population ist nicht ohne Begründung ein Nachweis für den vorgesehenen Einsatz.
 
-Name und Anschrift des Anbieters sowie gegebenenfalls seines in der EU ansässigen Bevollmächtigten.
+Die bei erster Konformitätsbewertung vorab bestimmten System- und Leistungsänderungen benennen. Maßnahmen menschlicher Aufsicht einschließlich technischer Interpretationshilfen ausformulieren. Erforderliche Rechen- und Hardwareressourcen, erwartete Lebensdauer, Wartung und Pflege mit Häufigkeit einschließlich Updates angeben. Gegebenenfalls Mechanismen zur Erfassung, Speicherung und Auswertung der Protokolle beschreiben.
 
-### Pflichtinhalt 2 — Merkmale, Fähigkeiten und Grenzen
+### 3.2. Gebrauchsfähigkeit prüfen
 
-- Verwendungszweck des Systems
-- Leistungsniveau, einschließlich Genauigkeitsmetriken und Robustheit
-- Bekannte Grenzen und Einschränkungen
-- Umstände, die die Leistung des Systems beeinflussen können
-- Auswirkungen auf betroffene Personen oder Gruppen, die als relevant erkannt wurden
+Nach Absatz 2 ein geeignetes digitales Format oder andere geeignete Bereitstellung mit präzisen, vollständigen, richtigen und eindeutigen Angaben in relevanter, barrierefrei zugänglicher und verständlicher Form wählen. Keine im Artikel nicht stehende allgemeine Maschinenlesbarkeits- oder starre deutsche Sprachpflicht erfinden. Weitere sektorale Sprach- oder Formatvorgaben gesondert belegen.
 
-### Pflichtinhalt 3 — Eingaben und Ausgaben
+An konkreten Eingabe-Ausgabe-Beispielen prüfen, ob der Betreiber Grenzen erkennt und eine fehlerhafte Ausgabe sachgerecht behandeln kann. Eine tatsächliche Anwendungserprobung nur als durchgeführt melden, wenn sie stattfand. Fehlender Zugang führt zu einer konkreten Abnahmeanweisung.
 
-- Eingabedaten, für die das System ausgelegt ist
-- Beschreibung der Ausgaben und ihrer Bedeutung
-- Hinweise zur Interpretation der Ausgaben
+### 3.3. Rollen und andere Informationen abgrenzen
 
-### Pflichtinhalt 4 — Menschliche Aufsicht
+Auch eine natürliche Person kann Betreiber sein; Betreiber nicht mit „Unternehmen“ und Betroffene nicht mit „allen natürlichen Personen“ gleichsetzen. Artikel 13 richtet sich an Betreiber. Artikel 26 Absatz 11 und Artikel 50 enthalten eigenständige Informationspflichten gegenüber betroffenen Personen. Dieselbe Broschüre kann mehrere Zwecke erfüllen, muss aber jede einschlägige Information tatsächlich vermitteln.
 
-- Beschreibung der erforderlichen menschlichen Aufsichtsmaßnahmen
-- Technische Maßnahmen für menschliche Aufsicht (Stopp-Funktion, manuelle Übersteuerung)
-- Anweisungen für das Eingreifen
+Aufsichtsdesign nach Artikel 14 und tatsächliche Personalzuweisung nach Artikel 26 Absatz 2 verbinden. Änderungen der Anleitung in das Dossier übernehmen; Widersprüche zu Leistungszusagen und Vertragszwecken berichtigen. Der Artikel-13-Nachweis ist noch keine gesamte Konformitätsentscheidung. Geltungsdatum nach Artikeln 111 und 113 feststellen.
 
-### Pflichtinhalt 5 — Änderungen nach Inverkehrbringen
+## 4. Quellenpflicht
 
-Wenn das System nach dem Inverkehrbringen verändert wurde oder werden kann, sind die Auswirkungen auf die Informationen für Betreiber entsprechend anzupassen.
+Artikel 13, 14, 26, 50, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### Pflichtinhalt 6 — Computerressourcen und IT-Sicherheit
+## 5. Ausgabeformat
 
-Anforderungen an Hardware und Software sowie bekannte Cybersicherheitsmaßnahmen.
+Eine ausformulierte, versionsbezogene Betriebsanleitung oder konkrete Überarbeitung mit begründeten Nachforderungen. Technische Eingriffsmöglichkeiten und organisatorische Zuständigkeiten benennen, statt einen allgemeinen Aufsichtshinweis zu wiederholen.
 
-## Sprache und Format
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Die Informationen müssen:
-- In einer für Betreiber verständlichen Sprache verfasst sein — in der oder den Sprachen, die im jeweiligen Mitgliedstaat vorgeschrieben oder üblich sind
-- Klar und prägnant formuliert sein
-- In maschinenlesbarer Form vorliegen (soweit technisch sinnvoll)
-- Klare Anweisungen für den sicheren Einsatz enthalten
+## 6. Beispiele
 
-**Prüffragen:**
-- In welcher Sprache ist die Gebrauchsanweisung verfasst?
-- Ist sie für Betreiber ohne Fachjargon verständlich?
-- Enthält sie alle Pflichtinhalte nach Art. 13 Abs. 3 KI-VO?
-
-## Abgrenzung — Betreiber versus Endnutzer
-
-Die Informationspflicht nach Art. 13 KI-VO richtet sich an Betreiber (Organisationen, Unternehmen), nicht an Endnutzer (natürliche Personen, die das System nutzen). Informationspflichten gegenüber Endnutzern können aus Art. 50 KI-VO (Chatbot-Hinweis, Deepfake-Kennzeichnung) oder der DSGVO folgen.
-
-## Verhältnis zur menschlichen Aufsicht
-
-Die Informationen für Betreiber sind die Grundlage, damit Betreiber die menschliche Aufsicht nach Art. 14 KI-VO wirksam ausüben können. Eine Gebrauchsanweisung, die keine konkreten Anweisungen zur Aufsicht enthält, erfüllt Art. 13 KI-VO nicht vollständig.
-
-## Typische Praxisprobleme
-
-- Gebrauchsanweisung beschreibt nur technische Funktionen, nicht die Grenzen und Risiken.
-- Informationen sind auf Englisch, obwohl Betreiber in Deutschland sitzen (nationale Sprachanforderungen beachten).
-- Angaben zu Genauigkeit und Leistung fehlen oder sind zu allgemein.
-- Keine Anweisungen für menschliche Aufsicht oder für den Fall von Systemfehlern.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO TRANSPARENZ UND INFORMATIONEN FUER BETREIBER ART 13
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 13 Rn. 4]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Bildklassifikator zeigt Wahrscheinlichkeiten, die Nutzer als sichere Diagnose lesen. Die Anleitung muss die validierte Bedeutung, Grenzen, betroffenen Gruppen und erforderliche menschliche Kontrolle erklären. Ein nachträglich angefügtes „nur Unterstützung“ widerlegt keine bereits beschriebene diagnostische Zweckbestimmung.

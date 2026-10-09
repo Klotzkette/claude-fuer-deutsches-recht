@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/geldwaeschebeauftragter-20261008/scripts/test-ki-verordnung-artikel5-testakten.py", line 40, in <module>
+    assert (d/'README.md').read_text().count(warning)==2
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

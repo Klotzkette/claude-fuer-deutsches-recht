@@ -40,7 +40,7 @@ description: "Für Ki Tool Legal Tech Mandatsgeheimnis: ordnet Norm, Beweislast 
 Konkret zu prüfen:
 
 - § 43a Abs. 2 BRAO (Verschwiegenheit)
-- Art. 6 AI-Act (Hochrisiko-KI Justiz)
+- Artikel 6 Absatz 2 mit Anhang III Nummer 8 Buchstabe a: konkrete Zweckbestimmung für Justizbehörden oder in deren Auftrag beziehungsweise für entsprechende alternative Streitbeilegung prüfen. Eine anwaltliche Recherchehilfe ist nicht allein wegen des Rechtsgebiets Hochrisiko-KI. Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - DSGVO Art. 5, 6
 - § 203 StGB
 - § 43a Abs. 2 BRAO

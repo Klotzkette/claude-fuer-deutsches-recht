@@ -17,7 +17,7 @@ Den vorhandenen Ordner zuerst nach Angebot, Abnahme, Inbetriebnahme, Änderungen
 
 ### 3.1 Quellenstatus feststellen
 
-Ausgangsverordnung, verkündete Änderungen, bloßen Vorschlag und nicht verbindliche Leitlinie getrennt behandeln. Zum Prüfstand 28. September 2026 ist die Verordnung (EU) 2026/1744 bereits erlassen; COM(2025) 836 ist ihre Vorgeschichte. Andere Digital-Omnibus-Vorhaben sind nicht schon deshalb geltendes Recht. Die veröffentlichten Hochrisiko-Leitlinien sind am dokumentierten Prüfstand noch Entwurf. Für spätere Aufgaben erneut prüfen, nicht einen eingefrorenen Stand als aktuell ausgeben.
+Ausgangsverordnung, verkündete Änderungen, bloßen Vorschlag und nicht verbindliche Leitlinie getrennt behandeln. Zum Prüfstand 9. Oktober 2026 ist die Verordnung (EU) 2026/1744 bereits erlassen; COM(2025) 836 ist ihre Vorgeschichte. Andere Digital-Omnibus-Vorhaben sind nicht schon deshalb geltendes Recht. Die veröffentlichten Hochrisiko-Leitlinien sind am dokumentierten Prüfstand noch Entwurf. Für spätere Aufgaben erneut prüfen, nicht einen eingefrorenen Stand als aktuell ausgeben.
 
 ### 3.2 Normbezogene Zeitachse bilden
 
@@ -26,6 +26,12 @@ Artikel 113 Buchstabe c in geänderter Fassung verschiebt Kapitel III Abschnitte
 ### 3.3 Bestand und Änderung subsumieren
 
 Artikel 111 Absatz 2 verlangt bei früher in Verkehr gebrachten oder in Betrieb genommenen Hochrisikosystemen eine genaue Prüfung erheblicher späterer Gestaltungsänderungen. Eigenständige Regeln für behördliche Verwendung nicht auf einen privaten Mittelständler übertragen. Identische Produktnamen beweisen keine identische Gestaltung. Anbieterwechsel, neuer Modellstand, Profilingfunktion und geänderte Entscheidungswirkung jeweils mit den Belegen bewerten. Die Entscheidung benennt erlaubten Umfang, notwendige Nachweise, Verantwortliche und den Anlass zur erneuten Prüfung.
+
+### 3.4 Berichtigung und Pflichtenmatrix nachhalten
+
+Die deutsche Berichtigung vom 29. September 2026 betrifft den Vorrang des Artikels 6 Absatz 1b gegenüber Absatz 1a. Eine vor diesem Datum verfasste Produktbewertung anhand der aktuellen berichtigten Fassung gegenlesen. Die Worte „nicht sicherheitsrelevante Unterstützung“ beseitigen einen dokumentierten gesundheitsgefährdenden Ausfallpfad nicht. Artikel 6 Absatz 1c benötigt einen belegten ausschließlich anderen Grund der Drittbewertung.
+
+Für jede konkrete Pflicht eine Zeile mit Norm, Rolle, Systemversion und Anwendungsgrund bilden. Artikel 113 verschiebt nicht automatisch Artikel 5, Transparenz, GPAI, Artikel 49 oder Artikel 73. Der allgemeine Beginn und das Bestandsrecht nach Artikel 111 sind tatsächlich zu subsumieren. Bei einer offenen gesetzlichen Verzahnung die konkurrierenden Auslegungen begründen und eine vorsichtige konkrete Umsetzungsentscheidung empfehlen; Unklarheit nicht als sichere Schonfrist verkaufen.
 
 ## 4 Quellenpflicht
 

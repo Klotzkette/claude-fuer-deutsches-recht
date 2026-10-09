@@ -11,7 +11,7 @@ description: "Für Accuracy, Robustness, Cybersecurity bei digitale Werkzeuge im
 
 ## Worum geht es konkret
 
-Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskomponenten von Maschinen, Medizin-, Verkehrsrobotik) müssen ein "angemessenes Maß" an Genauigkeit, Robustheit und Cybersicherheit aufweisen, Art. 15 VO (EU) 2024/1689 (KI-VO). Dieser Skill operationalisiert diese drei Anforderungen für Roboter: vom Performance-Test (Accuracy) über Stresstests gegen Drift, Sensorrauschen und Adversarial Inputs (Robustness) bis zu Härtung gegen Manipulation der Trainingsdaten (Data Poisoning), des Modells (Model Evasion) oder der Inferenz (Prompt-Injection bei GenAI-Robotik). Schnittstellen zum Cyber Resilience Act (VO (EU) 2024/2847, CRA) und zur MaschinenVO VO (EU) 2023/1230 müssen mitgedacht werden.
+Genauigkeit, Robustheit und Cybersicherheit nach Artikel 15 der KI-Verordnung anhand des tatsächlich erfassten Systems prüfen. Artikel 6 Absatz 1 mit Anhang I einschließlich Abschnitt A/B und Artikel 2 Absatz 2 von Absatz 2 mit Anhang III trennen. Artikel 6 Absätze 1a bis 1c samt Berichtigung prüfen. Eine sicherheitsrelevante Maschinenfunktion ist nicht allein deshalb ein Anhang-III-Tatbestand. Artikel 111/113 nach Pflicht und Version anwenden; die Verschiebung auf 02.12.2027 beziehungsweise 02.08.2028 betrifft nur Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5. Technische Tests müssen zur Zweckbestimmung und möglichen Fehlfolge passen; ein allgemeiner Benchmark allein genügt nicht. Schnittstellen zum Produkt- und Cyberrecht separat dokumentieren. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
@@ -37,9 +37,9 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 3. **Test-Set kuratieren.** Realistische, aus Trainingsverteilung disjunkte Daten; Edge-Cases (Regen, Gegenlicht, ungewöhnliche Posen) explizit abdecken; Daten-Governance nach Art. 10 KI-VO dokumentieren.
 4. **Robustheits-Tests.** Verteilungs-Drift (Domain Shift), Sensorrauschen, Sensorausfall, adversariale Eingaben (FGSM, PGD), physikalische Patch-Attacken bei Bildmodellen.
 5. **Cybersecurity-Test.** Threat-Model (STRIDE) speziell für KI-Pipeline: Trainingsdaten, Modell-Repository, OTA-Update-Pfad, Inferenz-API, Sensor-Spoofing. Pen-Test gegen Steuerungsschnittstelle.
-6. **Logging und Nachvollziehbarkeit.** Art. 12 KI-VO Logs während des gesamten Lebenszyklus; Mindestaufbewahrung 6 Monate (Art. 19 KI-VO), bei Robotik regelmäßig länger wegen § 199 BGB.
+6. **Logs:** Artikel 12 betrifft technische Aufzeichnung, Artikel 19 die kontrollierten Anbieterlogs und Artikel 26 Absatz 6 die Betreiberlogs. Grundsätzlich mindestens sechs Monate, soweit anderes einschlägiges Recht nichts anderes vorsieht. Ein Verjährungshinweis begründet allein keine pauschale längere Speicherung sämtlicher personenbezogener Daten. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 7. **Human Oversight.** Art. 14 KI-VO; bei Robotern: Notaus, Override, Trennung Autonomie-Level (z. B. SAE-Level analog).
-8. **Konformitätsbewertung.** Modul nach Anhang VI/VII KI-VO; bei Robotik im Maschinen-Bezug regelmäßig integrierte Konformitätsbewertung mit MaschinenVO (Art. 8 ff.).
+8. **Konformitätsweg:** Artikel 6 Absatz 1 mit Anhang I einschließlich Abschnitt A/B und Artikel 2 Absatz 2 von Absatz 2 mit Anhang III trennen. Artikel 6 Absätze 1a bis 1c samt Berichtigung prüfen. Eine sicherheitsrelevante Maschinenfunktion ist nicht allein deshalb ein Anhang-III-Tatbestand. Artikel 43 Absatz 3 nicht unbesehen auf Anhang I Abschnitt B übertragen. Tatsächlich einschlägiges Produktverfahren und KI-Pflichten gesondert zuordnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Trade-off-Matrix
 
@@ -70,7 +70,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 
 **Auszug Risikobeurteilung KI-Funktion:**
 
-> Risikoquelle: Personenerkennung im Cobot-Arbeitsbereich. Schadensszenario: Nicht-Erkennung eines knienden Mitarbeiters bei Gegenlicht. Wahrscheinlichkeit nach Maßnahmen: 1 in 10^6 Betriebsstunden. Maßnahmen: redundante Sensorik (RGB + Tiefenkamera), OOD-Detector, Stopp bei Konfidenz unter 0.85, jährliches Re-Validation-Audit. Restrisiko: vertretbar im Sinne Art. 9 Abs. 5 KI-VO. Konformitätsnachweis: Anhang VI KI-VO.
+> Fiktives Szenario: Ein kniender Mitarbeiter wird bei Gegenlicht nicht erkannt. Für die behauptete Ausfallwahrscheinlichkeit, redundante Sensorik und Stoppgrenze fehlen belastbare Testnachweise. Erstellen Sie einen konkreten Nachtestauftrag. Ein angenommener Konfidenzwert oder ein jährliches Audit belegt noch kein vertretbares Restrisiko. Konformitätsweg erst nach Produkt- und Funktionsprüfung festlegen; ein Cobot ist nicht automatisch ein Anhang-VI-Fall.
 
 ## Typische Fehler
 
@@ -93,7 +93,7 @@ Hochrisiko-KI-Systeme in Robotern (Anhang III der KI-VO, z. B. Sicherheitskompon
 
 1. **Sofort (T+0 bis T+1h)**: Stillstand, Sicherheitsraum sichern, Verletzte versorgen, Behörden bei Personenschaden.
 2. **T+1h bis T+24h**: Logs sichern (Hash, Write-Lock), Versionsstände dokumentieren, Forensik startklar machen.
-3. **T+24h bis T+72h**: Vigilanz-Meldung Art. 73 KI-VO bei schwerem Vorfall innerhalb 15 Tagen, Cyber-Vorfall Art. 14 CRA innerhalb 24h Frühwarnung / 72h Zwischenbericht.
+3. **Vorfallfristen getrennt bestimmen:** Artikel 73: unverzüglich nach dem maßgeblichen Kenntnis-/Kausalitätsstand melden, nicht die Höchstfrist ausschöpfen. Absatz 2 höchstens 15 Tage; Absatz 3 bei weitverbreitetem Verstoß oder Ereignis nach Artikel 3 Nummer 49 Buchstabe b höchstens zwei Tage; Absatz 4 bei Tod unter seinen Kausalitätsvoraussetzungen höchstens zehn Tage. Unvollständige Erstmeldung und Ergänzungen nach Absatz 5 ermöglichen. Rolle, Zuständigkeit und Zeitrecht gesondert prüfen. Cyber- und Datenschutzmeldungen mit eigenem Kenntnisstand, Tatbestand und Adressaten führen; keine starre KI-Meldung erst im Fenster T+24 bis T+72 Stunden. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 4. **T+1 Woche**: Root Cause Analysis, Korrekturmaßnahmen, Information der betroffenen Betreiber (Field Safety Notice).
 5. **T+1 Monat**: Abschlussbericht, ggf. Rückruf, ggf. Konformitätsbewertung wiederholen bei substantial modification.
 

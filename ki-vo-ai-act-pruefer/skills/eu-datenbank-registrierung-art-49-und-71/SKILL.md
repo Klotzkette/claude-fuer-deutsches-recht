@@ -1,111 +1,52 @@
 ---
 name: eu-datenbank-registrierung-art-49-und-71
-description: "Für EU-Datenbank-Registrierung — Art. 49 und 71 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: Prüft Registrierungspflichten nach Artikel 49 und 71 einschließlich Rückausnahme, öffentlichen Betreibern und geschützten Bereichen. Erstellt ein belegtes Registerdossier ohne fingierte Eintragung.
 ---
 
-# EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO
+# EU-Datenbank und nationale Registrierung
 
-## Wer muss sich registrieren?
+## 1. Zweck und Anwendungsfall
 
-### Anbieter von Hochrisiko-KI-Systemen (Art. 49 Abs. 1 KI-VO)
+Ermittle für jede Systemfassung, wer was wo registrieren muss. Internes KI-Inventar, Risikoregister, EU-Datenbank und sektorales Register sind verschiedene Gegenstände.
 
-Anbieter von Hochrisiko-KI-Systemen nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen.
+## 2. Eingaben
 
-**Ausnahme:** Hochrisiko-KI-Systeme nach Art. 6 Abs. 1 (Sicherheitsbauteile nach Anhang I) werden im Rahmen der sektorbezogenen Konformitätsbewertung registriert — eine separate Registrierung in der KI-VO-Datenbank ist nicht gesondert vorgeschrieben (Art. 49 Abs. 4 KI-VO).
+Einstufungsvermerk, Anhangseintrag, Anbieter und Bevollmächtigter, Betreiberstatus, Einsatzbereich, Vermarktungs- und Inbetriebnahmedatum sowie vorhandene Registerbelege. Zugang oder Vollmacht nicht aus einer E-Mail-Adresse folgern.
 
-### Betreiber aus dem öffentlichen Sektor (Art. 49 Abs. 3 KI-VO)
+## 3. Ablauf und Checkliste
 
-Betreiber, die öffentliche Einrichtungen sind (Behörden, staatliche Stellen), müssen sich ebenfalls registrieren, bevor sie ein Hochrisiko-KI-System nach Anhang III einsetzen. Dies gilt auch, wenn das System bereits vom Anbieter registriert wurde — Betreiber registrieren ihren Einsatz gesondert.
+### 3.1. Tatbestand und Registerweg
 
-**Prüffragen für Betreiber:**
-- Sind Sie eine Behörde oder sonstige öffentliche Einrichtung?
-- Setzen Sie ein Hochrisiko-KI-System nach Anhang III ein?
+Artikel 49 Absatz 1 verlangt vor Inverkehrbringen oder Inbetriebnahme eines Anhang-III-Hochrisikosystems grundsätzlich Anbieter- beziehungsweise Bevollmächtigtenregistrierung samt System; Nummer 2 ist ausgenommen. Absatz 2 erfasst weiterhin die wegen Artikel 6 Absatz 3 nicht hochriskant bewerteten Systeme. Eine negative Einstufung kann deshalb gerade einen Registerpfad auslösen.
 
-### GPAI-Modell-Anbieter
+Absatz 3 erfasst vor Einsatz öffentliche Betreiber, EU-Organe, -Einrichtungen oder -Stellen und in deren Namen Handelnde im dortigen Umfang; nicht alle privaten Nutzer müssen sich selbst registrieren. Die Anbieterregistrierung ersetzt keine einschlägige Betreiberregistrierung. Nummer 2 bleibt auch hier ausgenommen und wird nach Absatz 5 national registriert.
 
-Anbieter von GPAI-Modellen (auch solcher ohne systemisches Risiko) müssen bestimmte Informationen nach Art. 71 KI-VO in der EU-Datenbank registrieren.
+Absatz 4 bestimmt für die genannten Systeme nach Anhang III Nummern 1, 6 und 7 in Strafverfolgung, Migration, Asyl und Grenzkontrolle einen sicheren nicht öffentlichen Teil. Nicht den gesamten Bereich Biometrie oder jeden Behördeneinsatz pauschal geheim registrieren. Die konkret vorgeschriebenen Daten aus Anhang VIII und gegebenenfalls IX und die Zugangsregel aus Absatz 4 abgleichen.
 
-## Zeitpunkt der Registrierung
+### 3.2. Angaben und Nachweise
 
-**Anbieter:** Vor dem Inverkehrbringen oder der Inbetriebnahme des Hochrisiko-KI-Systems.
+Artikel 71 ordnet Eingaben von Anbietern beziehungsweise Bevollmächtigten nach Anhang VIII Abschnitten A und B und öffentlichen Betreibern nach Abschnitt C zu. Öffentliche Zugänglichkeit, geschützte Bereiche und Sonderbehandlung realer Tests unterscheiden. Nur erforderliche personenbezogene Daten aufnehmen; verantwortliche und vertretungsberechtigte Person belegen. Keine ganze technische Dokumentation ungeprüft öffentlich hochladen.
 
-**Betreiber (öffentliche Stellen):** Vor der Inbetriebnahme des Systems.
+Eine reine Anhang-I-Zuordnung begründet nicht allein Artikel 49. Bei Doppelzuordnung zusätzlich Anhang III prüfen. Sektorale Register nur aufgrund ihres jeweiligen Rechts nennen; NANDO ist ein Verzeichnis notifizierter Stellen, kein allgemeines Produktregister.
 
-**GPAI-Anbieter:** Vor dem Inverkehrbringen des GPAI-Modells.
+### 3.3. Zeitliche Verschränkung
 
-## Inhalt der Registrierung (Anhang VIII KI-VO)
+Artikel 49 steht in Kapitel III Abschnitt 5. Artikel 113 verschiebt nur die dort bezeichneten Abschnitte 1 bis 3; Artikel 6 und Artikel 111 beeinflussen zugleich die Einstufungs- und Bestandsfrage. Daher weder ein generelles Registermoratorium bis 2027 noch eine pauschal sofortige Pflicht aller künftigen Systeme behaupten. Für den konkreten Markteintritt Normverweis, alte beziehungsweise neue Fassung und amtliche Durchführungshinweise auswerten; verbleibende Unsicherheit mit Handlungsfolge dokumentieren.
 
-Die Registrierung muss folgende Informationen enthalten:
+### 3.4. Dossier, Eintragung und Rücklauf
 
-**Angaben zum Anbieter:**
-- Name und Anschrift sowie — sofern vorhanden — Handelsregisternummer des Anbieters
-- Kontaktdaten
-- Gegebenenfalls Name und Anschrift des Bevollmächtigten
+Erstelle zunächst geprüfte Eingabefelder und offene Nachweise. Reale Anmeldung oder Eintragung nur bei vorhandenem Zugang, Auftrag und passender Befugnis. Danach Eingangsbeleg, Systemkennung, Umfang und Status sichern. Ein Bildschirm mit „Entwurf“ oder eine fehlgeschlagene Übermittlung ist kein abgeschlossener Registervorgang. Bei unklarem Ergebnis erst abgleichen, nicht mehrfach einreichen. Änderungen der Zweckbestimmung, Fassung und Akteursdaten erneut prüfen.
 
-**Angaben zum KI-System:**
-- Handelsnamen und Bezeichnung des Systems
-- Beschreibung des Verwendungszwecks
-- Status des Systems (in Verkehr gebracht, in Betrieb genommen, zurückgezogen)
-- Typ und Art des KI-Systems
-- Kurzbeschreibung der Fähigkeiten und Grenzen des Systems
-- Mitgliedstaat(en), in dem/denen das System in Verkehr gebracht wurde
-- Angaben zur Konformitätsbewertung (Modul, beteiligte benannte Stelle, Bescheinigungsnummer)
+## 4. Quellenpflicht
 
-**Für Betreiber (öffentliche Stellen) zusätzlich:**
-- Bezeichnung und Beschreibung des Einsatzkontexts
-- Zeitraum und geografischer Bereich der Verwendung
-- Kategorie der betroffenen natürlichen Personen
+Artikel 6 Absatz 4, Artikel 49, Artikel 71 und Anhänge VIII und IX; Artikel 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Öffentliche Zugänglichkeit und Vertraulichkeit
+## 5. Ausgabeformat
 
-Die EU-Datenbank ist öffentlich zugänglich, soweit keine berechtigten Vertraulichkeitsinteressen entgegenstehen. Anbieter können für bestimmte Informationen Vertraulichkeit beantragen — z.B. für Betriebs- und Geschäftsgeheimnisse.
+Ein Registervermerk und ein ausfüllbares Dossier mit Feld, belegter Angabe, Quelle und offenem Punkt. Nach tatsächlicher Eintragung gesonderter Nachweis; andernfalls klarer Status „Entwurf, nicht eingereicht“.
 
-Die Datenbank wird von der Kommission eingerichtet und verwaltet (Art. 71 KI-VO). Sie dient als Transparenzinstrument für Öffentlichkeit, Behörden und Betroffene.
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Technische Umsetzung
+## 6. Beispiele
 
-Die EU-Datenbank ist unter folgender URL zugänglich (sobald verfügbar): https://ai-act.eu (Domäne noch nicht final — genaue URL durch Kommission zu bestätigen). Im Aufbau befindet sich das System seit 2024.
-
-## Folgen der Nichtregistrierung
-
-Fehlende oder fehlerhafte Registrierung ist ein Verstoß gegen die KI-VO (Art. 49 KI-VO i.V.m. Art. 99 Abs. 4 KI-VO) und kann mit Bußgeldern bis zu 15 Mio EUR oder drei Prozent des weltweiten Jahresumsatzes geahndet werden.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — EU DATENBANK REGISTRIERUNG ART 49 UND 71
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 49 Rn. 2]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine Kommune kauft ein Sozialleistungs-Prüfsystem. Prüfe konkreten Anhangseintrag sowie Anbieter- und Betreiberweg. Ein Nachweis des Verkäufers, das Produkt stehe in seinem internen Risikoregister, belegt keine EU-Datenbankregistrierung.

@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-09",
+  "cases": [
+    {
+      "slug": "ki-hochrisiko-justizassistenz-jena",
+      "files": 12,
+      "formats": {
+        ".eml": 4,
+        ".docx": 3,
+        ".pdf": 3,
+        ".txt": 1,
+        ".xlsx": 1
+      },
+      "attachments": [
+        {
+          "email": "01_Auftrag.eml",
+          "attachment": "05_Auszug_Entwurfstest.pdf",
+          "sha256": "9146d12de38ba3c00803b8483c26821a3f28658d988b81fad211bd660ee493df"
+        },
+        {
+          "email": "08_IT_Zugriffsprotokoll.eml",
+          "attachment": "09_Testlauf_und_Aufwand.xlsx",
+          "sha256": "291601d20721dc3b416eb027edfe0586692787a32c7c6e4d93dc58887d569f68"
+        }
+      ],
+      "formula_cells": 8,
+      "original_sha256": {
+        "01_Auftrag.eml": "15917dc295f2f1d2aafed7b3175c0c6faa4fd20adce2ae3a18ad2789ebce0433",
+        "02_Leistungsbeschreibung.docx": "59d6e72bed75995a8d113dbd54beb212057ea85200b8efa4531fb871fb9e6627",
+        "03_Anleitung_Register.pdf": "0e6c9d61bb3ebbcbd591ddd2d5b2763f74d086f6bd9e98a27e5ba1f8aec198e8",
+        "04_Vertrieb_Ausnahme.eml": "c55eaca2c8e807ffae402158f8011e53e3e2cee5fd833a6eebdad81bfa2d26e4",
+        "05_Auszug_Entwurfstest.pdf": "9146d12de38ba3c00803b8483c26821a3f28658d988b81fad211bd660ee493df",
+        "06_Projektchat.txt": "b0a7722f0d2e42918ec91f0e58fde89daeaff26a7d4f17100f54e0194f9a549f",
+        "07_Protokoll_Projektbesprechung.docx": "eb334d293d169c7faac9dd9e74aa5a8d139b005cf0a21f5f9a380d510d21dabd",
+        "08_IT_Zugriffsprotokoll.eml": "56396c061881d652424a5f25139b525c5c06a6bee264d8a71df80ad1e2c9432a",
+        "09_Testlauf_und_Aufwand.xlsx": "291601d20721dc3b416eb027edfe0586692787a32c7c6e4d93dc58887d569f68",
+        "10_Stellungnahme_Arbeitsentwurf.docx": "cb9444500c65fbdc98e86e45d23769b8a89a8cf7f269e2b419c42d6b379e622f",
+        "11_Angebot_Projektaufwand.pdf": "dcdf2c1cc525dc97a18111daa25353977a0dbc0aa5a6119144eb605dd77cf5c6",
+        "12_Fachliche_Rueckfrage.eml": "05c1885b6945b6d4c10b01b4bdd55565789016532b5ad0dc58ae5bd1bf402962"
+      }
+    },
+    {
+      "slug": "ki-hochrisiko-medizinprodukt-saalfeld",
+      "files": 12,
+      "formats": {
+        ".eml": 4,
+        ".docx": 3,
+        ".pdf": 3,
+        ".txt": 1,
+        ".xlsx": 1
+      },
+      "attachments": [
+        {
+          "email": "01_Auftrag.eml",
+          "attachment": "03_Technischer_Fehlertest.pdf",
+          "sha256": "a3bab7d478b5f3182cfe4284a978d1c216e8751c20fbe136d72c9d0420eaff4b"
+        },
+        {
+          "email": "08_Testdaten.eml",
+          "attachment": "09_Testdaten_und_Kosten.xlsx",
+          "sha256": "ae5320363e6a09a5dbef2f6824ac57e570d5cf12ec65f9607af6f12eb123a033"
+        }
+      ],
+      "formula_cells": 8,
+      "original_sha256": {
+        "01_Auftrag.eml": "e14c15f2b0e4d810ffa6395a989a2160e011edfe4c3ee2dac09bd4d48551db32",
+        "02_Produktbeschreibung.docx": "dc3119d8ca49efc7f0a70a8bf8f91b311c0f395c93854c28622841fb937338e8",
+        "03_Technischer_Fehlertest.pdf": "a3bab7d478b5f3182cfe4284a978d1c216e8751c20fbe136d72c9d0420eaff4b",
+        "04_Vertriebsargument.eml": "62f89ee4ce2ac92a2cc5c19544ee6e692a4b8a92a9c0e7c54ed992df3ad541ab",
+        "05_Herstellerstand_Produktrecht.pdf": "49ecb6eda02fb0112f2b4be8ac9054ef1f4af1fe9e40aa5391a7c471fee73f67",
+        "06_Testlabor_Chat.txt": "2a9111cabf368a1b5741115966721a1930cab0a7be797a614899122e5c10a776",
+        "07_Klinische_Besprechung.docx": "876136149a380d40b9dfab514f79d832cf2f8d496b62d716f45a7597ae88ae39",
+        "08_Testdaten.eml": "d7aea825b638424795511641410dc3b8631f3498f73b7b225311bd9d25d16740",
+        "09_Testdaten_und_Kosten.xlsx": "ae5320363e6a09a5dbef2f6824ac57e570d5cf12ec65f9607af6f12eb123a033",
+        "10_Stellungnahme_Arbeitsentwurf.docx": "c1bdd14b94fb410bf044e8f24c1427a0c1410d05b106bc4a7d91c363de5c5119",
+        "11_Kostenangebot.pdf": "4135313475eae773a7d88d027927b7742fd3e563816254f15ada145bf64b994a",
+        "12_Hersteller_Nachtrag.eml": "0460c310a27ac1657d39da26767c62d0c83352aa5d1a9496b4c8492eca66c729"
+      }
+    }
+  ],
+  "visual_review": {
+    "pdf_pages": 6,
+    "docx_pages": 6,
+    "xlsx_native_pdf_pages": 4,
+    "xlsx_native_min_font_pt": 10.006,
+    "xlsx_artifact_sheet_previews": 4,
+    "result": "Alle Seiten tatsächlich angesehen; keine abgeschnittenen Inhalte oder überlaufenden Texte."
+  },
+  "formula_checks": [
+    {
+      "sheet": "Testdaten",
+      "cell": "E6",
+      "expected": 0.13333333333333333,
+      "actual": 0.13333333333333333,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Quote1"
+    },
+    {
+      "sheet": "Testdaten",
+      "cell": "E7",
+      "expected": 0.23333333333333334,
+      "actual": 0.23333333333333334,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Quote2"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E10",
+      "expected": 9030,
+      "actual": 9030,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Netto"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 10745.7,
+      "actual": 10745.7,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Brutto"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 3034.5,
+      "actual": 3034.5,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Null Zugänge"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 9030,
+      "actual": 9030,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Null Steuer"
+    },
+    {
+      "sheet": "Testdaten",
+      "cell": "E6",
+      "expected": 0,
+      "actual": 0,
+      "scenario": "ki-hochrisiko-justizassistenz-jena Leere Testgruppe"
+    },
+    {
+      "sheet": "Testdaten",
+      "cell": "E6",
+      "expected": 0.75,
+      "actual": 0.75,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Quote1"
+    },
+    {
+      "sheet": "Testdaten",
+      "cell": "E7",
+      "expected": 0.08333333333333333,
+      "actual": 0.08333333333333333,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Quote2"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E10",
+      "expected": 9660,
+      "actual": 9660,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Netto"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 11495.4,
+      "actual": 11495.4,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Brutto"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 4641,
+      "actual": 4641,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Null Zugänge"
+    },
+    {
+      "sheet": "Angebot",
+      "cell": "E12",
+      "expected": 9660,
+      "actual": 9660,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Null Steuer"
+    },
+    {
+      "sheet": "Testdaten",
+      "cell": "E6",
+      "expected": 0,
+      "actual": 0,
+      "scenario": "ki-hochrisiko-medizinprodukt-saalfeld Leere Testgruppe"
+    }
+  ]
+}

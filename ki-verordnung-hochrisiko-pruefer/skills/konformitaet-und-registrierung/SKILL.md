@@ -27,6 +27,12 @@ Artikel 49 Absatz 1 betrifft den Anbieterpfad, Absatz 2 auch Systeme mit beanspr
 
 Dokument für Dokument erklären, welche konkret offene Frage es beantworten soll: etwa Zweckbestimmung des Rankingmoduls, Geltungsumfang einer Erklärung oder Anbieterbegründung zur Ausnahme. Geschäftliche Frist als solche benennen, keine gesetzliche Frist erfinden. Artikel 111/113 und die außerhalb der verschobenen Abschnitte stehenden Artikel 43/49 getrennt zeitlich würdigen. Ein Zertifikatseingang führt zur Prüfung und Anpassung des bestehenden Schreibens, nicht automatisch zur Freigabe. Artikel 73 ist ein Vorfallverfahren und kein Ersatzregister.
 
+### 3.4 Zertifikate und Standards auf Reichweite prüfen
+
+Ein Zertifikat nach ISO/IEC 42001 betrifft einen bezeichneten Managementumfang und ist nicht automatisch die Konformitätsbewertung jeder Systemversion. ISO 31000 und ISO/IEC 23894 sind kein pauschaler gesetzlicher Freistellungsweg. Für eine behauptete Konformitätsvermutung die konkrete harmonisierte Norm, ihre im Amtsblatt veröffentlichte Fundstelle und die tatsächlich abgedeckten Anforderungen nach Artikel 40 prüfen. Keine bloße Normnummer als Nachweis der Veröffentlichung übernehmen.
+
+Artikel 43 Absatz 2 darf nicht auf Biometrie nach Nummer 1 oder auf Produktfälle übertragen werden. Dort Absatz 1 beziehungsweise Absatz 3 und das einschlägige Produktrecht lesen. Eine Plattformregistrierung beweist weder eine unabhängige Zertifizierung noch eine behördliche Betriebsgenehmigung. Dem Einstufungsvermerk nur den tatsächlich vorliegenden Nachweis zuordnen, einschließlich Datum, Version und Aussteller. Für eine detaillierte Registrierungs- oder Konformitätsbearbeitung einen konkreten Folgeauftrag mit diesen Daten übergeben.
+
 ## 4 Quellenpflicht
 
 Artikel 43, 47 bis 49, Anhang VI, Anhang VIII sowie Artikel 111/113 anhand amtlicher Quellen prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) und [Zitierweise](../../references/zitierweise.md) beachten. Normtext und unverbindliche Herstellerbehauptung getrennt nachweisen. Kein ungeprüftes Prüfzeichen als behördliche Entscheidung bezeichnen.

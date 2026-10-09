@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-09",
+  "plugin": "ki-verordnung-verbotene-praktiken",
+  "counting_method": "Skill-Textkörper nach dem YAML-Frontmatter, Whitespace-Wörter; Prompts gesamter Text.",
+  "skills": [
+    {
+      "slug": "anwendungsbereich-stichtag-klaeren",
+      "words": 905,
+      "sha256": "c84a0208064999e4ff7eab5b9d003d8347945bd4c5b2cf64dcef9938f3df1b43"
+    },
+    {
+      "slug": "biometrische-kategorien-pruefen",
+      "words": 811,
+      "sha256": "5aac73f01faa66ff4db7da58f9c5222c6705dc605ff7c050a4603dc5b40eaddf"
+    },
+    {
+      "slug": "echtzeit-fernidentifikation-pruefen",
+      "words": 864,
+      "sha256": "eaa2820e320a76a8fcbc7623d032b6978cd0bab9575e5c1438dabdd2c994a83c"
+    },
+    {
+      "slug": "emotionen-arbeit-bildung-pruefen",
+      "words": 826,
+      "sha256": "58b9171442e970edcfbe982b2e2d367aec45b36c63740fbfd8bc460a0e9d483f"
+    },
+    {
+      "slug": "gesichtsdatenbanken-pruefen",
+      "words": 777,
+      "sha256": "b09d68b1afedd4b201b0ef3a79ae65b50c77fff08b71ea43cdc28b3d89ed10ee"
+    },
+    {
+      "slug": "intime-inhalte-schutzpruefen",
+      "words": 895,
+      "sha256": "7f5ceb4e9a08c85e3474d7327f0ca58f0fae7b10a0cad04733b568a040378e47"
+    },
+    {
+      "slug": "manipulation-taeuschung-pruefen",
+      "words": 840,
+      "sha256": "1ef42dd870bb76eae08bac6ff07b7e54db24b32b090451c7a029a7224daacf3d"
+    },
+    {
+      "slug": "schutzbeduerftigkeit-ausnutzung-pruefen",
+      "words": 826,
+      "sha256": "23ed24ce5786ac48eaf0b08bf1ccda812bcc6006d15f3b3767705a333ac67b1f"
+    },
+    {
+      "slug": "soziale-bewertung-pruefen",
+      "words": 821,
+      "sha256": "978838b7a4254c4f565151235bf91b5d4fc14dd5df9b883212a617626f7f6b32"
+    },
+    {
+      "slug": "straftatprognosen-pruefen",
+      "words": 791,
+      "sha256": "966cb06a91a37099364948ac81332f30f9d73f76275434bb1439e9de3e3c6b1e"
+    },
+    {
+      "slug": "verbotene-ki-praktiken-loesen",
+      "words": 877,
+      "sha256": "5a0e19b122bae8976e6b5d83caab3769fac9c928c1ff1146318d56140f186933"
+    }
+  ],
+  "prompts": {
+    "schnellstart": {
+      "words": 756,
+      "bytes": 7100,
+      "sha256": "778f8f1b3f8366343965564228a1584e4b3dd1cce008efb33a0ad7ef337b2854"
+    },
+    "werkstatt": {
+      "words": 8546,
+      "bytes": 72494,
+      "sha256": "7e90a99a88b0ffa89a79f0103c8b61c368ed28bac2a73ee54a0858c0147d778c"
+    },
+    "hauptproblem": {
+      "words": 759,
+      "bytes": 7113,
+      "sha256": "7e17efa3da8eba883a3f69ede826be663109c694d842cce8c2e32d43f6e855e0"
+    }
+  }
+}

@@ -109,7 +109,7 @@ IT-Vertrag-Verhandlung ist Verhandlungs-intensiv: SaaS, Cloud, Lizenz, IT-Projek
 
 ## Quellen und Updates
 
-Stand: 05/2026. EU-ODR-VO 524/2013. VSBG. AI Act 2024/1689 Art. 85. DGRI-Schiedsordnung. Bei VSBG-Reform aktualisieren.
+Stand der AI-Act-Schnittstelle: 09.10.2026. Artikel 85 KI-Verordnung betrifft Beschwerden an die zuständige Marktüberwachungsbehörde, keine allgemeine vertragliche Streitbeilegung oder Ersatzplattform für EU-ODR. Vertragliche Eskalation, VSBG und DGRI-Verfahren getrennt prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Zentrale Normen (Paragrafenkette)
 

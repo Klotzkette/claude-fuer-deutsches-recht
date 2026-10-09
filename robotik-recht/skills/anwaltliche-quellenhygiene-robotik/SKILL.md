@@ -75,7 +75,7 @@ Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeich
 ## Typische Fehler
 
 - **"Maschinenrichtlinie 2006/42/EG"** angewandt nach 20.01.2027 ohne Übergangsregel.
-- **KI-VO als bereits voll geltend** behauptet vor 02.08.2026 für Hochrisiko-Pflichten.
+- **Falsche Zeitvereinfachung:** Weder „voll anwendbar seit August 2026“ noch „alles bis 2028 verschoben“ behaupten. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Kommentar-Fundstellen aus Modellwissen** – berufsrechtlich riskant.
 - **Verlinkung statt Zitat** ohne Volltext-Sicherung.
 - **Norm ohne Jahresangabe** ("ISO 10218") – mehrdeutig.

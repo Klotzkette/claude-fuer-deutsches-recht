@@ -1,6 +1,6 @@
 # kanzlei-builder-hub
 
-**60 Skills** · Stand `v445.33.1`
+**60 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../kanzlei-builder-hub/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`kanzlei-builder-hub-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`kanzlei-builder-hub-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-builder-hub/kanzlei-builder-hub-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [kanzlei-builder-hub.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-builder-hub.zip) |
+| **Plugin (installierbar)** | ZIP | [kanzlei-builder-hub.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/kanzlei-builder-hub.zip) |
 
 ## So benutzt man einen Skill
 

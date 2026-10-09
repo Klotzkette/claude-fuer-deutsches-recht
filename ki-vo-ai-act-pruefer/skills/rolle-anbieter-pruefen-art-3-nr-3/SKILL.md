@@ -1,101 +1,48 @@
 ---
 name: rolle-anbieter-pruefen-art-3-nr-3
-description: "Für Rolle-Check: Anbieter — Art. 3 Nr. 3 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Entwicklung, Entwicklungsauftrag, Eigenname und Bereitstellung für System und Modell. Trennt Eigengebrauch, Integration und Rollenwechsel und erstellt einen belegten Rollenvermerk.
 ---
 
-# Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO
+# Anbieterrolle anhand der tatsächlichen Bereitstellung
 
-## Legaldefinition — Art. 3 Nr. 3 KI-VO
+## 1. Zweck und Anwendungsfall
 
-Anbieter (provider) ist eine natürliche oder juristische Person, Behörde, Einrichtung oder sonstige Stelle, die ein KI-System oder ein GPAI-Modell entwickelt oder entwickeln lässt und dieses KI-System oder GPAI-Modell unter ihrem eigenen Namen oder ihrer eigenen Marke — entgeltlich oder unentgeltlich — in Verkehr bringt oder in Betrieb nimmt.
+Bestimme, wer Anbieter welchen Systems oder Modells ist. Weder eine fremde technische Grundlage noch die Bezeichnung Kunde schließt Anbieterpflichten aus; bloße Nutzung begründet sie umgekehrt nicht automatisch.
 
-## Entscheidungsbaum
+## 2. Eingaben
 
-### Schritt 1 — Entwicklung
+Entwicklungs- und Lieferverträge, Systemname, Leistungsbeschreibung, Zweckbestimmung, Veröffentlichungs- oder Inbetriebnahmebeleg, technische Änderungen und tatsächlicher Einsatz. Jede Person dem konkreten Produkt oder Beitrag zuordnen.
 
-**Frage A:** Haben Sie selbst das KI-System entwickelt (Eigenentwicklung) oder haben Sie jemanden damit beauftragt (Auftragsentwicklung)?
+## 3. Ablauf und Checkliste
 
-- Eigenentwicklung → weiter zu Schritt 2
-- Auftragsentwicklung (Dritter entwickelt, aber nach Ihren Vorgaben) → weiter zu Schritt 2
-- Sie nutzen ein fertiges, unmodifiziertes Drittsystem → Sie sind kein Anbieter im Sinne von Art. 3 Nr. 3 KI-VO; weiter zu `rolle-betreiber-pruefen-art-3-nr-4`
+### 3.1. Definition anwenden
 
-**Hinweis zu Auftragsentwicklung:** Wenn Sie als Auftraggeber die wesentlichen Spezifikationen vorgeben und das System unter Ihrem Namen in Verkehr bringen, sind Sie Anbieter — nicht der beauftragte Entwickler. Der Auftragnehmer kann ebenfalls Anbieter sein, wenn er das System eigenständig gestaltet und unter eigenem Namen verbreitet.
+Artikel 3 Nummer 3 verbindet Entwicklung oder Entwickelnlassen mit Inverkehrbringen unter eigenem Namen oder eigener Handelsmarke; für das KI-System kommt die entsprechende Inbetriebnahme hinzu. Die Alternative der Inbetriebnahme nicht unterschiedslos auf jedes isolierte Modell übertragen. Entgeltlichkeit ist unerheblich. Artikel 3 Nummern 9 bis 11 unterscheiden erstmalige Marktbereitstellung, geschäftliche Abgabe und Erstgebrauch beziehungsweise Eigengebrauch des Systems.
 
-### Schritt 2 — Inverkehrbringen unter eigenem Namen
+Ein Unternehmen kann für eine Eigenentwicklung Anbieter und zugleich Betreiber sein. Nicht verlangen, dass es das System an Dritte verkauft. Bei Auftragsentwicklung die tatsächliche Entwicklung, Bereitstellung und Kennzeichnung belegen. Wirtschaftliches Risiko, Vertragsetikett oder Logo sind Indizien, ersetzen aber nicht sämtliche Merkmale.
 
-**Frage B:** Bringen Sie das System unter Ihrem eigenen Namen oder Ihrer eigenen Marke in Verkehr?
+### 3.2. Integration und Rollenwechsel
 
-- Ja → starkes Indiz für Anbieter-Rolle; weiter zu Schritt 3
-- Nein (Sie stellen das System dem Auftraggeber bereit, der es unter eigenem Namen vermarktet) → Sie sind möglicherweise nur Auftragsentwickler ohne Anbieter-Status; der Auftraggeber ist Anbieter
+Die unveränderte Nutzung eines fertigen Drittsystems spricht häufig für die Betreiberrolle, schließt aber den besonderen Eigenmarkenfall des Artikels 25 Absatz 1 nicht ohne Prüfung aus. Bei Änderung dessen genaue Voraussetzungen anwenden: Eigenmarke an Hochrisiko, wesentliche Änderung mit fortbestehendem Hochrisiko oder Zweckänderung eines zuvor nicht hochriskanten Systems in Hochrisiko.
 
-**Variante "in Betrieb nehmen":** Auch wer ein KI-System nicht vermarktet, sondern selbst in eigenen Prozessen erstmals einsetzt (Inbetriebnahme), gilt als Anbieter — z.B. ein Unternehmen, das ein intern entwickeltes System für die eigene Personalentscheidung nutzt.
+Nachtraining allein ist kein universeller Anbieterwechsel. Zwischen verändertem GPAI-Modell und daraus entwickeltem System unterscheiden. Die unverbindliche Drittel-Rechenleistungsorientierung zur nachgelagerten Modellrolle ist keine Ausnahme von Artikel 25 oder Artikel 50. Auftragsumfang, Fähigkeitenänderung, Zweck und Verantwortlichkeit begründen.
 
-**Prüffragen:**
-- Erscheint Ihr Unternehmensname auf der Produktseite, in der Gebrauchsanweisung oder im Vertrag als Anbieter des KI-Systems?
-- Tragen Sie das wirtschaftliche Risiko des Systems?
+### 3.3. Pflichtfolge begrenzen
 
-### Schritt 3 — Entgeltlichkeit oder Unentgeltlichkeit
+Eine bestätigte Anbieterrolle beantwortet noch nicht, welche Pflichten gelten. Artikel 5, Hochrisiko nach Artikel 6, Transparenz nach Artikel 50 und GPAI gesondert prüfen; mehrere Zweige können zusammentreffen. Open-Source-Systeme nach Artikel 2 Absatz 12 bleiben insbesondere bei Artikel 5, 50 oder Hochrisiko erfasst. Modellprivilegien nach Artikel 53 Absatz 2 und Artikel 54 Absatz 6 folgen eigenen Voraussetzungen; „System mit systemischem Risiko“ nicht als Ersatzkategorie verwenden.
 
-**Frage C:** Spielt die Frage, ob Sie das System entgeltlich oder unentgeltlich bereitstellen, eine Rolle?
+Zeitpunkt und mögliche Altbestandregel für jede Pflicht angeben. An den passenden Einstufungs- oder Modellskill übergeben, mit Systemversion, belegter Rolle und konkreter offener Frage. Unabhängige Vertragsteile ausarbeiten, auch wenn eine technische Rollenfrage noch offen ist.
 
-Nein — Art. 3 Nr. 3 KI-VO gilt ausdrücklich für entgeltliche und unentgeltliche Bereitstellung. Auch kostenlose KI-Systeme, Open-Source-Systeme (soweit nicht unter Art. 2 Abs. 12 KI-VO ausgenommen) und intern genutzte Systeme können unter die Anbieter-Definition fallen.
+## 4. Quellenpflicht
 
-## Ergebnis
+Artikel 2 Absatz 12, Artikel 3 Nummern 3, 9 bis 11, Artikel 25, 53 und 54 sowie Artikel 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-**Anbieter bestätigt, wenn:**
-- Sie das System entwickelt oder entwickeln lassen haben UND
-- Sie es unter eigenem Namen in Verkehr bringen oder in Betrieb nehmen
+## 5. Ausgabeformat
 
-**Folge-Skills:**
-- Wenn Hochrisiko: → Alle Pflichten Art. 9 bis 15, Art. 16 bis 19, Art. 43 bis 49, Art. 49 und 71 KI-VO
-- Wenn GPAI-Modell: → Art. 51 bis 55 KI-VO
-- Wenn begrenztes Risiko: → Art. 50 KI-VO (Transparenzpflichten)
-- Rollenwechsel möglich: Wenn Sie später das System wesentlich verändern oder unter neuem Namen herausbringen → Art. 25 KI-VO → `anbieter-werden-art-25`
+Ein ausformulierter Rollenvermerk je System oder Modell mit Akteur, Handlungen, Belegen, Gegenposition und zugehörigem Pflichtpfad. Keine pauschale Freistellung aller Integratoren oder pauschale Anbieterrolle aller Nutzer.
 
-## Wichtige Fallstricke
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-**Fallstrick 1 — Interne Systeme:** Auch wer ein KI-System nur für interne Zwecke entwickelt und einsetzt, kann Anbieter sein. Die Anbieter-Rolle erfordert kein Angebot an Dritte.
+## 6. Beispiele
 
-**Fallstrick 2 — Fine-Tuning:** Wer ein fremdes Grundmodell mit eigenen Daten feinabstimmt und das resultierende System unter eigenem Namen in Verkehr bringt, ist Anbieter.
-
-**Fallstrick 3 — Open-Source-Ausnahmen:** Die Open-Source-Ausnahme nach Art. 2 Abs. 12 KI-VO gilt nur unter engen Voraussetzungen; Hochrisiko-Systeme und Systeme mit systemischem Risiko sind nicht ausgenommen.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — ROLLE ANBIETER PRUEFEN ART 3 NR 3
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 3 Nr. 3 Rn. 5]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine Kanzlei beauftragt eine individuell entwickelte Telefonassistenz und nimmt sie unter eigenem Namen in Betrieb. Anbieterrolle nach Artikel 3 prüfen. Die Nutzung eines unveränderten fremden Chatdienstes durch Beschäftigte ist ein anderer Sachverhalt; beides nicht allein aufgrund des Kanzleilogos gleichbehandeln.

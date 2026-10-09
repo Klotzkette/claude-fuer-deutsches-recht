@@ -1,0 +1,8 @@
+validate-readme-navigation: 7 Fehler
+  FEHLER: quality/ki-native-kanzlei/glaettung-2026-10-08/proben/textmodus/04-freigabe-fristeintrag.md: Ziel außerhalb des Repositorys: /Users/klotzkette/Desktop/Codex%20Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/references/mandatslauf-und-freigaben.md
+  FEHLER: ASSET_INDEX.md: Markdown-Arbeitsdatei umgeht den Downloadweg: ./betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md
+  FEHLER: betreuungsrecht/README.md: Markdown-Arbeitsdatei umgeht den Downloadweg: skills/unterlagen-auswerten-abrechnung-anschreiben/SKILL.md
+  FEHLER: betreuungsrecht/README.md: Markdown-Arbeitsdatei umgeht den Downloadweg: betreuungsrecht-unterlagen-werkstatt.md
+  FEHLER: geldwaeschebeauftragter/README.md: Markdown-Arbeitsdatei umgeht den Downloadweg: geldwaeschebeauftragter-schnellstart.md
+  FEHLER: geldwaeschebeauftragter/README.md: Markdown-Arbeitsdatei umgeht den Downloadweg: geldwaeschebeauftragter-werkstatt.md
+  FEHLER: geldwaeschebeauftragter/README.md: Markdown-Arbeitsdatei umgeht den Downloadweg: geldwaeschebeauftragter-hauptproblem.md

@@ -72,7 +72,7 @@ Der betriebliche Geltungsbereich umfasst [Betrieb, Standort, Abteilung oder Konz
 
 ### 6. Schulung und Nutzungsregeln
 
-6.1 Beschäftigte erhalten vor Freischaltung eine Schulung zu zulässigen Eingaben, Geheimnisschutz, Datenschutz, Urheberrecht, Halluzinationsrisiken, Quellenprüfung und Kennzeichnungspflichten. Die Schulung vermittelt zugleich die für die jeweilige Rolle erforderliche KI-Kompetenz [noch zu klären: Umfang der Kompetenzanforderungen nach Art. 4 der Verordnung (EU) 2024/1689 für die betroffenen Nutzergruppen].
+6.1 Beschäftigte erhalten vor Freischaltung eine Schulung zu zulässigen Eingaben, Geheimnisschutz, Datenschutz, Urheberrecht, Halluzinationsrisiken, Quellenprüfung und Kennzeichnungspflichten. Die Parteien vereinbaren diese Schulung als Freischaltungsvoraussetzung. Sie unterstützt die Entwicklung ausreichender KI-Kompetenz gemäß Art. 4 KI-Verordnung in der Fassung seit 27. Juli 2026; Vorwissen, Erfahrung, Verwendungskontext und betroffene Personen werden je Rolle berücksichtigt. Art. 4 schreibt weder einen einheitlichen Kurs noch ein allgemeines KI-Zertifikat vor. Besondere Qualifikation der menschlichen Aufsicht nach Art. 26 Abs. 2 bleibt gesondert zu prüfen.
 
 6.2 Die Arbeitgeberin stellt eine kurze Nutzungsrichtlinie bereit. Diese Richtlinie darf die Rechte aus dieser Betriebsvereinbarung nicht einschränken.
 
@@ -164,7 +164,7 @@ Unterschriften:
 
 2.3 Schulung abgeschlossen am: [Datum].
 
-2.4 Einordnung nach der Verordnung (EU) 2024/1689 (KI-Verordnung): [noch zu klären: verbotene Praktik / Hochrisiko-System / Transparenzpflichten / keine besonderen Pflichten; Rolle als Betreiberin oder Anbieterin; Geltungszeitpunkt der jeweiligen Pflichtenstufe].
+2.4 Einordnung nach der Verordnung (EU) 2024/1689 (KI-Verordnung): [getrennte Prüfpfade: Art. 5; Art. 6 Abs. 1 einschließlich Abs. 1a bis 1c und Anhang I; Art. 6 Abs. 2 und 3 mit Anhang III; Art. 50; gegebenenfalls GPAI-Modellpflichten. Mehrere Pfade können gleichzeitig greifen. Anbieter- oder Betreiberrolle und Geltungszeitpunkt jeder Pflicht belegen].
 
 3. Freigabe
 
@@ -188,7 +188,7 @@ Unterschriften:
 
 3.6 Datenschutz-Folgenabschätzungen nach Art. 35 DSGVO sind für die einschlägigen Systeme durchgeführt oder terminiert, Auftragsverarbeitungsverträge nach Art. 28 DSGVO liegen vor, und Drittlandtransfers sind mit Garantien nach Art. 44 ff. DSGVO unterlegt: [Stand je System].
 
-3.7 Schulungspflichten sind geregelt und die KI-Kompetenz der nutzenden Beschäftigten nach Art. 4 der KI-Verordnung ist durch terminierte Schulungen unterlegt: [Schulungsplan vom Datum].
+3.7 Die vereinbarten Schulungen und sonstigen Maßnahmen zur Unterstützung ausreichender KI-Kompetenz nach Art. 4 sind den tatsächlichen Rollen und Vorkenntnissen zugeordnet: [Bedarfsanalyse, Schulungsplan, praktische Anleitung, Nachweise]. Ein Teilnahmebeleg ersetzt weder die Prüfung der Aufsichtskompetenz nach Art. 26 Abs. 2 noch die Systemkonformität.
 
 3.8 Die Rechte des Gremiums aus Abschnitt 7 — Systemzugang, Auswertungsberichte, Hinzuziehung von Sachverständigen — sind mit konkreten Fristen und Ansprechstellen versehen, nicht nur deklaratorisch.
 

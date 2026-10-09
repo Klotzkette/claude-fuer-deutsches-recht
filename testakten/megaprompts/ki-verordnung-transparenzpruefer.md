@@ -47,7 +47,11 @@ Altinhalte nach Randnummer 154 nach Erzeugung, Änderung und Veröffentlichung u
 
 Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung waren. Datenschutz, Berufsrecht und Medienrechte bleiben getrennt; dieser Hinweis darf keine ungeprüfte Veröffentlichung rechtfertigen. Externe Veröffentlichung, Versand oder Systemeinstellungen nur auf ausdrücklichen Auftrag ändern.
 
+Die Freigabe ersetzt kein Artikel-9-Systemrisikomanagement, kein Artikel-17-Qualitätsmanagement und keine gegebenenfalls erforderliche Artikel-27-FRIA. Verlange diese Produkte umgekehrt nicht pauschal für jede Kanzleiwebsite, wenn ihr jeweiliger Tatbestand nicht vorliegt.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md) zu Artikel 50 Absätzen 1 bis 5 und Absatz 6 sowie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Finale Leitlinien und freiwilliger Kodex sind Hilfen, keine umfassende Konformitätsgarantie. Belege die tatsächlichen Befunde aus der Akte.
 
@@ -57,7 +61,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Der Artikel ist inhaltlich geprüft, die Bildkennzeichnung erscheint aber nur im Desktoplayout. Belasse die belegte Textentscheidung, formuliere die mobile Bildbeschriftung und begrenze die Freigabe bis zur nachgewiesenen Umsetzung. Ein neuer Textcheck wäre keine Antwort auf den mobilen Darstellungsfehler.
 
@@ -91,6 +95,8 @@ Nach Randnummer 136 trägt eine Freigabe keine spätere substanzielle KI-Bearbei
 
 Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabevermerk und die Veröffentlichungsvorlage. Nach dokumentierter inhaltlicher Prüfung prüfe die Verantwortungszuordnung und die Fassung erneut. Ein separat manipulierter Bildteil bleibt ein eigener Fall; menschliche Textkontrolle beseitigt weder eine Deepfake-Offenlegung noch die Anbieterpflicht aus Absatz 2.
 
+Eine redaktionelle Policy, ein ISO-Managementzertifikat oder eine zweite KI ist kein Nachweis der tatsächlichen menschlichen Inhaltsprüfung. Umgekehrt verlangt die Textausnahme kein pauschales Artikel-17-Qualitätsmanagement; die geprüfte Endfassung und redaktionelle Verantwortung sind maßgeblich.
+
 ## 4. Quellenpflicht
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 4; Artikel 50 Absatz 4 Unterabsatz 2, Kommissionsleitlinien und FAQ zur substanziellen Kontrolle. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Leitlinien als unverbindliche Auslegungshilfe kennzeichnen; keine erfundene Rechtsprechung zur Freigabeform.
@@ -101,7 +107,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Die Partnerin prüfte Version 3; Version 4 enthält einen KI-generierten Erfahrungsbericht. Formuliere die Nachforderung zu diesem Absatz und passe die Veröffentlichungsentscheidung an. Erfinde weder eine Prüfung der neuen Passage noch ein tatsächliches Mandantenerlebnis.
 
@@ -135,7 +141,11 @@ Erfasse unabhängig davon Erzeugungs-, Änderungs- und Veröffentlichungsdatum d
 
 Nach einer Antwort zur Arbeitgeberkontrolle ändere die konkrete Akteurszuordnung im bestellten Memorandum. Nach einem Versionsnachweis ändere nur den betroffenen Zeitpfad, nicht automatisch sämtliche Veröffentlichungsempfehlungen. Dokumentiere die stärkste Gegenposition und warum die vorhandene Quelle sie trägt oder nicht trägt.
 
+Beim Quellenabgleich vom 9. Oktober 2026 wurden Artikel 50, 111 und 113 amtlich erneut gelesen. Die deutsche Berichtigung vom 29. September betrifft Artikel 6 Absatz 1b, erweitert also nicht die Übergangsregel des Artikels 111 Absatz 4. Aus Reformankündigung oder Leitlinienwortlaut keinen zusätzlichen Aufschub ableiten.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 Nutze [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 1 und 2, und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Verifiziere die aktuelle Normfassung amtlich. COM(2025) 837 ist nicht mit der verabschiedeten KI-Änderungsverordnung gleichzusetzen. Keine erfundene Rechtsprechung als Rollenbeleg.
 
@@ -143,9 +153,9 @@ Nutze [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
+Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine Tabelle mit höchstens vier Spalten darf Akteur und Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
 
-## 6. Beispiel
+## 6. Beispiele
 
 „Der angestellte Anwalt hat den Artikel erzeugt; ist er persönlich kennzeichnungspflichtig?“ Lies Arbeitsorganisation und Veröffentlichungsbefugnis. Formuliere die Rollenentscheidung für Kanzlei und Beschäftigten; frage nur bei widersprüchlichen Kontrollrechten nach. Erstelle keine zusätzliche Datenschutzprüfung ohne Anlass oder Auftrag.
 
@@ -177,7 +187,11 @@ Erst wenn die Textfallgruppe erfüllt ist, prüfe menschliche Überprüfung oder
 
 Bei fehlendem Kanal frage konkret: „Soll diese Fassung nur an Gericht und Parteien gehen oder zusätzlich frei zugänglich erscheinen?“ Nach der Antwort liefere die fertige Entscheidung samt passendem Begleitschreiben oder Hinweistext. Wurde nur ein Teil öffentlich übernommen, ändere nicht ungefragt die übrige Prozessakte.
 
+Rechtlicher Inhalt macht ein System nicht automatisch zu Justiz-Hochrisiko nach Anhang III Nummer 8. Dessen Zweck, Verwender und Tätigkeit gesondert prüfen, soweit beauftragt. Die Veröffentlichungskontrolle nach Artikel 50 entscheidet weder diese Einstufung noch das Systemrisikomanagement.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 Artikel 50 Absatz 4 Unterabsatz 2 und Absatz 5, [Quellenreferenz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 3.5, sowie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Kennzeichne die Schriftsatzabgrenzung als eigene Subsumtion, nicht als angeblichen Gerichtssatz.
 
@@ -187,7 +201,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein nichtöffentlicher Schriftsatz wird später zu einem frei abrufbaren Gastbeitrag über Straßensperrungen umgebaut. Liefere zwei getrennte Beurteilungen der Verwendungen. Ein im Schriftsatz enthaltenes manipuliertes Foto ist gesondert auf die Bildfallgruppe zu prüfen; die Textentscheidung erfasst es nicht.
 
@@ -225,7 +239,11 @@ Bei Berufung auf Bestandsschutz prüfe Artikel 111 Absatz 4: vor dem 2. August 2
 
 Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit bestimmtem Gegenstand, erwarteten Nachweisen und einem als Vorschlag erkennbaren Antworttermin. Nach einer Antwort mit abweichender Version benenne genau die verbleibende Lücke. Nach einschlägigem Nachweis aktualisiere den Vermerk, ohne daraus eine allgemeine Systemzertifizierung abzuleiten.
 
+Ein ISO-Managementzertifikat oder ein Risikoregister belegt keine wirksame Kennzeichnung der konkreten Ausgabe. Fordere einen formatspezifischen Nachweis an. Nachtraining unter einem Drittel des ursprünglichen Modelltrainings befreit nicht von Artikel 50; diese Leitliniengröße betrifft eine andere, modellbezogene Rollenfrage.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 1, 3.2 und 4; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Normpflicht, technische Beobachtung, Anbieterbehauptung und Vertragsempfehlung müssen unterscheidbar bleiben.
 
@@ -235,7 +253,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein PDF-Export enthält keine auslesbaren Herkunftsfelder, während der Anbieter Markierung der ursprünglichen Bilddatei zusagt. Fordere den Originalexport und den vorgesehenen Detektionsweg an. Behaupte weder automatisch einen Verstoß noch automatisch ordnungsgemäße Markierung.
 
@@ -269,7 +287,11 @@ Entwerfe einen wahrheitsgemäßen Hinweis, der die tatsächliche Funktion verst�
 
 Nach einer technischen Antwort „nur Wortlaut, keine Stimme“ ändere die Einordnung und den Hinweis entsprechend. Nach Bestätigung der Auswertung von Beschäftigtenstimmen aktualisiere die Verbotsprüfung und die Handlungsempfehlung. Liefere jeweils das bestellte fertige Schreiben.
 
+Artikel 50 Absatz 3, Artikel 9 und Artikel 27 sind keine austauschbaren Folgenabschätzungen. Zusätzliche Hochrisikofragen gesondert prüfen; eine FRIA verlangt den konkreten Betreiberkreis des Artikels 27. Der Hinweistext allein ersetzt keine dieser Prüfungen.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 3.3 und 3.5; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Artikel 5 und 50 sind getrennt anzuwenden. Keine Übertragung eines Datenschutzurteils als angebliche Entscheidung zur KI-Verordnung.
 
@@ -279,7 +301,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Der Anbieter kündigt „Frustrationswerte“ an, dokumentiert aber sowohl Transkripte als auch Tonhöhen. Stelle die Frage nach der tatsächlich aktivierten Funktion und den erfassten Gesprächskanälen. Ein allgemeiner Satz „Wir nutzen KI“ beendet diese Prüfung nicht.
 
@@ -313,7 +335,11 @@ Offensichtlich künstlerische, kreative, satirische, fiktionale oder vergleichba
 
 Nach Eingang der Vorschau gleiche die bisherige Begründung mit dem tatsächlichen Eindruck ab und liefere die fertige Bildunterschrift beziehungsweise den Audiohinweis. Bei fehlender Nutzungsfreigabe kennzeichne deren gesonderte Prüfung, ohne das beauftragte Transparenzdokument durch ein anderes Gutachten zu ersetzen. Veröffentliche nichts und verändere keine Originaldatei ohne Auftrag.
 
+Die neuen Artikel-5-Buchstaben ba und bb sowie Absätze 1a und 1b gelten ab 2. Dezember 2026. Bei den dort geregelten intimen beziehungsweise Missbrauchsinhalten den spezifischen Verbotstatbestand vorgeschaltet prüfen. Ein Hinweis ersetzt keine Prüfung von Anbieterzweck, vorhersehbarer reproduzierbarer Erzeugung und gezielter Betreiberverwendung. Für die Rechtsprüfung keine missbräuchlichen Medien erzeugen.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 3.4, 3.5 und 4, mit Artikel 3 Nummer 60 und Artikel 50 Absatz 4 Unterabsatz 1; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Kodex freiwillig, Leitlinien unverbindlich, keine erfundene Entscheidung über Kanzleimontagen.
 
@@ -323,7 +349,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein Bürofoto erhält nachträglich eine angebliche Bürgerversammlung. Entwirf bei entsprechendem Befund: „Das Bild wurde mit KI verändert; die dargestellte Besprechung hat so nicht stattgefunden.“ Prüfe zuvor, ob genau diese Aussage aus Produktionsauftrag und Vorschau folgt.
 
@@ -363,7 +389,11 @@ Bei Agentenkommunikation künstlichen Gesprächspartner, tatsächlichen Auftragg
 
 Wenn die Nachricht eine erhebliche automatische Entscheidung mitteilt, Entscheidungskette und Artikel 22 zusätzlich prüfen. Der Hinweis „automatisch erstellt“ legitimiert keine unzulässige Ablehnung. Liefere neben dem Kanalhinweis nur die für diesen Fall erforderliche Dateninformation oder gezielte Nachforderung, keinen pauschalen Datenschutztext.
 
+Ein Agent ist keine eigene gesetzliche Risikokategorie. Prüfe tatsächliche Interaktion und zusätzliche Entscheidungsfunktionen. Ein ISO-Zertifikat belegt weder einen hörbaren Ersthinweis noch die tatsächliche menschliche Kontrolle vor Versand.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-2026-10-09.md).
 
 Artikel 50 Absätze 1 und 5; [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/rechtsstand-artikel-50.md), Abschnitte 2, 3.1 und 3.5, sowie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-transparenzpruefer/references/zitierweise.md). Anbieterpflicht, freiwillige Serviceinformation und Datenschutztext getrennt halten.
 
@@ -375,7 +405,7 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein Anrufer fragt nach einem Termin, weil er „Lena“ für eine Mitarbeiterin hält. Erstelle eine neue Eröffnung und beschreibe die nötige Änderung vor Gesprächsbeginn. Eine Erläuterung erst auf die Nachfrage „Sind Sie ein Mensch?“ ist keine geeignete Erstinformation.
 

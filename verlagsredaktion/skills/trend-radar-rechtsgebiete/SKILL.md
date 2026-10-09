@@ -66,7 +66,7 @@ Sie brauchen ihn für Programm- und Produktstrategie: neue Reihen, neue Zeitschr
 Cluster: KI-Regulierung
 Beobachtungszeitraum: Q2/2026
 Hauptbewegungen:
-- AI Act: Vollanwendung ab 02.08.2026 (Art. 113 AI Act)
+- KI-Verordnung: keine pauschale Vollanwendung seit 02.08.2026. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Artikel 50 trennt Anbieter- und Betreiberpflichten: Interaktionsinformation, technische Kennzeichnung synthetischer Ausgaben, Information bei Emotions-/Biometriekategorisierung sowie Offenlegung bei Deepfakes und Texten zu Angelegenheiten öffentlichen Interesses. Die redaktionelle Ausnahme des Absatzes 4 betrifft den dortigen Textfall, nicht pauschal Deepfakes. Artikel 113 nennt grundsätzlich den 02.08.2026; Artikel 111 Absatz 4 verschiebt nur Artikel 50 Absatz 2 für vor diesem Datum in Verkehr gebrachte generative Systeme auf den 02.12.2026. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Sektor-Specifica: BAFin-Konsultation Q1/2026
 - Rspr.: BAG zu KI-gestuetzter Bewerberauswahl (anhaengig)
 Querverbindungen: Datenschutz (Cluster 3), Arbeitsrecht (Cluster 5)

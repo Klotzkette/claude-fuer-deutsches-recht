@@ -21,7 +21,7 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 - **UrhG § 69a ff.**: KI-generierte Inhalte ohne menschliche Schöpfung sind (noch) nicht urheberrechtsschutzfähig (BGH, EuGH-Tendenz).
 - **§ 5a Abs. 4 UWG**: Werbekennzeichnung gilt auch für virtuelle Influencer; kein Ausnahmetatbestand für Nicht-Menschen.
 - **§ 22 MStV**: Trennungsgebot; virtuelle Influencer müssen Werbung kennzeichnen.
-- **EU AI Act Art. 50**: Synthetischer Content muss als KI-generiert kenntlich gemacht werden.
+- **KI-Verordnung:** Artikel 50 funktions- und rollenbezogen prüfen. Anbieterkennzeichnung nach Absatz 2 und Betreiber-Offenlegung bei Deepfakes beziehungsweise Texten zu Angelegenheiten öffentlichen Interesses nach Absatz 4 trennen. Künstlerische oder satirische Werke sind nicht pauschal ausgenommen; dort besteht eine angepasste Offenlegungsform. Die redaktionelle Ausnahme betrifft den Textfall. Übergang für bestimmte generative Alt-Systeme nach Artikel 111 Absatz 4 nur bei Absatz 2. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **§ 5 UWG**: Irreführung, wenn Follower glauben, mit einer realen Person zu interagieren.
 - **DSGVO**: Datenerhebung über Follower durch virtuelle Influencer-Accounts → normale DSGVO-Pflichten.
 
@@ -32,7 +32,7 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 | Urheberrecht | Beim menschlichen Designer/Programmierer |
 | KI-generierte Posts | Kein eigener Urheberrechtsschutz |
 | Werbekennzeichnung | Gilt vollständig (§ 5a UWG) |
-| KI-Offenlegung | AI Act Art. 50 ab 2025 |
+| KI-Offenlegung | Artikel 50 nach Funktion, Rolle und Übergang Artikel 111 Absatz 4 prüfen; keine allgemeine Pflicht seit 2025 |
 | Haftung bei Rechtsverstößen | Betreiber des Accounts |
 
 ## Kaltstart-Fragen (6)
@@ -51,7 +51,7 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 - Urheberrecht: Design und Style Sheet schützen; Vertrag mit Designern (Nutzungsrechte-Übertragung).
 - DSGVO: Datenschutzerklärung für Follower-Datenverarbeitung.
 - Marke: Charaktername und Erscheinungsbild als Marke (§ 3 MarkenG) eintragen.
-- AI Act: Ab 2025 Kennzeichnungspflicht für synthetischen Content im Geschäftsverkehr.
+- **Virtueller Influencer:** Artikel 50 trennt Anbieter- und Betreiberpflichten: Interaktionsinformation, technische Kennzeichnung synthetischer Ausgaben, Information bei Emotions-/Biometriekategorisierung sowie Offenlegung bei Deepfakes und Texten zu Angelegenheiten öffentlichen Interesses. Die redaktionelle Ausnahme des Absatzes 4 betrifft den dortigen Textfall, nicht pauschal Deepfakes. Artikel 113 nennt grundsätzlich den 02.08.2026; Artikel 111 Absatz 4 verschiebt nur Artikel 50 Absatz 2 für vor diesem Datum in Verkehr gebrachte generative Systeme auf den 02.12.2026. Ein rein erfundener Charakter ist nicht allein deshalb ein Deepfake; Definition und tatsächliche Ähnlichkeit/Authentizitätswirkung prüfen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Typische Fallen
 

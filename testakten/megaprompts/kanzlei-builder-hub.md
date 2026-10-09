@@ -367,7 +367,7 @@ _Für /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Revi
 - **§ 43a Abs. 2 BRAO** — Verschwiegenheitspflicht; unkontrollierte Skill-Updates können Mandatsdaten gefährden.
 - **Art. 32 DSGVO** — Pflicht zu technisch-organisatorischen Maßnahmen; Aktualisierungen von in Mandatsprozessen eingesetzten Werkzeugen sind sicherheitstechnisch zu überwachen.
 - **§ 50 BRAO** — Pflicht zur Aktenführung; das Installationsprotokoll dokumentiert alle Versionsänderungen als Teil der Kanzleiorganisation.
-- **AI Act Art. 26** — Deployer-Pflichten bei Hochrisiko-KI: Änderungen am KI-System sind zu überwachen und zu dokumentieren.
+- **Artikel 26 KI-Verordnung:** Zuerst einen erfassten Hochrisiko-Betrieb und zeitliche Anwendung begründen. Absatz 1 betrifft geeignete Maßnahmen zur Nutzung nach Betriebsanleitung, Absatz 2 die beauftragte menschliche Aufsicht, Absatz 5 Überwachung und gegebenenfalls Aussetzung/Information, Absatz 6 kontrollierte Logs. Kein allgemeines gesetzliches Installations- oder Deinstallationsprotokoll aus Artikel 26 erfinden. Interne Nachweise als Organisationsmaßnahme kennzeichnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ### Quellenregel
 

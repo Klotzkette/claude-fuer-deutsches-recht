@@ -34,7 +34,7 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-richtlinie
 ## Ergänzende Hinweise
 
 ## Kanzlei-KI-Richtlinie-typische Fristen
-- **Art. 4 KI-VO (Schulung)**: seit **02.02.2025** unmittelbar geltend — Schulung muss dokumentiert sein.
+- **Artikel 4 KI-Verordnung:** Artikel 4 verlangt in der seit 27.07.2026 geltenden Fassung angemessene Maßnahmen zur Unterstützung der Entwicklung von KI-Kompetenz. Ein bestimmtes individuelles Niveau, eine feste Kursdauer, jährliche Schulung oder ein Zertifikat werden dadurch nicht vorgeschrieben. Geeignete Maßnahmen intern nachvollziehbar festhalten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Art. 5 KI-VO (Verbote)**: seit **02.02.2025**.
 - **Art. 51 ff. KI-VO (GPAI)**: seit **02.08.2025**.
 - Artikel 113 neuer Fassung: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten für Anhang III ab 02.12.2027 und Anhang I ab 02.08.2028. Artikel 111 zum Bestand und andere schon geltende Pflichten gesondert prüfen.
@@ -42,6 +42,6 @@ Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **ki-richtlinie
 - **§ 113 BRAO**: anwaltsgerichtliches Verfahren — keine konkrete Frist, aber rasche Reaktion auf Beschwerde geboten.
 
 ## Ampelkriterien
-- **Rot**: Mitarbeiter verwenden nachweislich nicht freigegebene KI-Tools mit Mandantendaten; keine Schulung trotz Art. 4 KI-VO; Mandant beschwert sich über mangelnde Aufklärung.
+- **Rot:** Nicht freigegebene Übermittlung von Mandantendaten oder nachweislich untaugliche Kontrollprozesse; angemessene Kompetenzmaßnahmen fehlen. Das Risiko konkret begründen, nicht allein aus einem fehlenden Schulungszertifikat ableiten.
 - **Gelb**: Richtlinie existiert formell, aber Whitelist fehlt; AVV-Status der genutzten Tools nicht dokumentiert; Schulung nur ad hoc.
 - **Grün**: Richtlinie + Whitelist + dokumentierte Schulung + ggf. Betriebsratseinbindung + Mandantenaufklärung im Mandatsvertrag.

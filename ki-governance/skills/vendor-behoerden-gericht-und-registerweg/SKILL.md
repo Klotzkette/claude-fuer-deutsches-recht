@@ -9,7 +9,7 @@ description: "Für Vendor: Behörden-, Gerichts- oder Registerweg: ordnet Norm, 
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Rechtsgrundlagen am amtlichen EUR-Lex-Text der KI-Verordnung und der gegebenenfalls einschlägigen DSGVO prüfen. ISO/IEC 42001, NIST AI RMF und OECD-Prinzipien sind keine Verordnungsartikel. Bei harmonisierten Normen konkrete Fassung, Amtsblattfundstelle und abgedeckte Anforderungen nach Artikel 40 feststellen; freiwilliges Managementzertifikat und Konformitätsverfahren nach Artikel 43 trennen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -34,7 +34,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Behördenweg KI-VO
 - **Marktüberwachung Art. 70 KI-VO**: jeder Mitgliedstaat benennt eine oder mehrere Behörden; in Deutschland Bundesnetzagentur als zentrale Marktüberwachung vorgesehen, plus sektorale Stellen.
-- **Anzeige Art. 73 KI-VO**: Anbieter Hochrisiko-KI muss schwerwiegende Vorfälle an die Marktüberwachungsbehörde melden **innerhalb von 15 Tagen** nach Kenntnis; bei Tod oder schwerer Gesundheitsschädigung **2 Tage**; bei breit angelegten Verletzungen Sicherheit Personen **10 Tage**.
+- **Vorfall nach KI-Verordnung:** Artikel 73: unverzüglich nach dem maßgeblichen Kenntnis-/Kausalitätsstand melden, nicht die Höchstfrist ausschöpfen. Absatz 2 höchstens 15 Tage; Absatz 3 bei weitverbreitetem Verstoß oder Ereignis nach Artikel 3 Nummer 49 Buchstabe b höchstens zwei Tage; Absatz 4 bei Tod unter seinen Kausalitätsvoraussetzungen höchstens zehn Tage. Unvollständige Erstmeldung und Ergänzungen nach Absatz 5 ermöglichen. Rolle, Zuständigkeit und Zeitrecht gesondert prüfen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Untersagungsverfügung Art. 79-80**: Marktüberwachung kann Inverkehrbringen untersagen, Rückruf anordnen.
 - **EU-Datenbank Art. 71**: öffentliche Datenbank für Hochrisiko-Systeme; Eintrag durch Anbieter (Anhang VIII) und Betreiber (öffentliche Stellen, Art. 49 Abs. 1a) erforderlich.
 
@@ -49,7 +49,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Streit zwischen Anbieter und Betreiber**: Zivilrechtsweg, Vertragsrecht.
 
 ## Registerweg
-- **EU AI Database** (Art. 71 / Anhang VIII KI-VO): Pflicht zur Eintragung für Anbieter Hochrisiko-KI vor Inverkehrbringen; Datenpunkte (Name, Trust-Mark, Konformitätsverfahren, Ergänzungen).
+- **EU-Datenbank:** Artikel 49 und Anhang VIII rollenbezogen anwenden: Anbieterregistrierung für erfasste Anhang-III-Systeme, Ausnahmebewertung nach Artikel 6 Absatz 3 und bestimmte öffentliche Betreiber. Anhang III Nummer 2 hat den nationalen Registerweg; vertrauliche Bereiche nach Absatz 4 prüfen. Kein allgemeines „Trust-Mark“-Pflichtfeld erfinden. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Betreiber-Eintrag**: öffentliche Stellen tragen sich nach Art. 49 Abs. 1a für eingesetzte Hochrisiko-KI ein.
 - **Bevollmächtigte** (Art. 22): in der Datenbank verzeichnet.
 

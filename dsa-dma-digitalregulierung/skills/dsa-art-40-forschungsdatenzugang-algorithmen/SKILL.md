@@ -94,7 +94,7 @@ Forschungsdatenzugang nach DSA befreit **nicht** von DSGVO. Verarbeitung persone
 
 ## Schnittstelle AI Act
 
-Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne des AI Act gelten — Forschungs-Ausnahme Art. 2 Abs. 6 AI Act greift bei reiner Forschungstätigkeit; sobald Ergebnisse in Markteinführung münden, gilt der AI Act voll.
+Artikel 2 Absatz 6 KI-Verordnung betrifft eigens für den alleinigen Zweck wissenschaftlicher Forschung und Entwicklung entwickelte und in Betrieb genommene Systeme oder Modelle. Absatz 8 betrifft Forschung, Tests und Entwicklung vor Inverkehrbringen/Inbetriebnahme, nimmt Tests unter Realbedingungen aber aus. Eine Forschungstätigkeit schafft keine pauschale Ausnahme für bereits eingesetzte kommerzielle Systeme. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Aktuelle Rechtsprechung
 

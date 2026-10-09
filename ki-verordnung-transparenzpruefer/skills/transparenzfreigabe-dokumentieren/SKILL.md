@@ -28,7 +28,11 @@ Altinhalte nach Randnummer 154 nach Erzeugung, Änderung und Veröffentlichung u
 
 Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung waren. Datenschutz, Berufsrecht und Medienrechte bleiben getrennt; dieser Hinweis darf keine ungeprüfte Veröffentlichung rechtfertigen. Externe Veröffentlichung, Versand oder Systemeinstellungen nur auf ausdrücklichen Auftrag ändern.
 
+Die Freigabe ersetzt kein Artikel-9-Systemrisikomanagement, kein Artikel-17-Qualitätsmanagement und keine gegebenenfalls erforderliche Artikel-27-FRIA. Verlange diese Produkte umgekehrt nicht pauschal für jede Kanzleiwebsite, wenn ihr jeweiliger Tatbestand nicht vorliegt.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md) zu Artikel 50 Absätzen 1 bis 5 und Absatz 6 sowie [Zitierweise](../../references/zitierweise.md). Finale Leitlinien und freiwilliger Kodex sind Hilfen, keine umfassende Konformitätsgarantie. Belege die tatsächlichen Befunde aus der Akte.
 
@@ -38,6 +42,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Der Artikel ist inhaltlich geprüft, die Bildkennzeichnung erscheint aber nur im Desktoplayout. Belasse die belegte Textentscheidung, formuliere die mobile Bildbeschriftung und begrenze die Freigabe bis zur nachgewiesenen Umsetzung. Ein neuer Textcheck wäre keine Antwort auf den mobilen Darstellungsfehler.

@@ -1,0 +1,74 @@
+name: KI-Verordnung Fachrunde und Testakten
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag ki-verordnung-v445.35.0
+        required: true
+        default: ki-verordnung-v445.35.0
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ki-verordnung-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TAG: ${{ inputs.tag }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Abhängigkeiten
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2 fonts-croscore fonts-crosextra-carlito
+          sudo install -m 0644 scripts/data/gesellschafterstreit-fontconfig.conf /etc/fonts/conf.d/99-ki-verordnung.conf
+          fc-cache -f
+          fc-match 'Times New Roman'
+          fc-match Calibri
+      - name: Quellen und Version prüfen
+        run: |
+          VERSION=$(python3 -c "import json; print(json.load(open('scripts/data/ki-verordnung-release-scope.json'))['version'])")
+          test "ki-verordnung-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          python3 scripts/test-ki-verordnung-fachrunde.py
+          python3 scripts/test-ki-verordnung-hochrisiko-pruefer.py
+          python3 scripts/test-office-resilience.py
+      - name: Geprüfte Pakete bauen
+        run: |
+          python3 scripts/build-ki-verordnung-release.py "$RUNNER_TEMP/ki-verordnung-dist"
+          python3 scripts/test-ki-verordnung-fachrunde.py --dist "$RUNNER_TEMP/ki-verordnung-dist"
+      - name: Diagnose sichern
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ki-verordnung-diagnose
+          path: ${{ runner.temp }}/ki-verordnung-dist
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Veröffentlichung
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert bereits; veröffentlichte Dateien bleiben unverändert."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert bereits; dieser Workflow legt seinen Tag selbst an."
+            exit 1
+          fi
+          RELEASE_SHA=$(git rev-parse HEAD)
+          gh release create "$TAG" --target "$RELEASE_SHA" --draft --title "KI-Verordnung ${TAG#ki-verordnung-}" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" "$RUNNER_TEMP"/ki-verordnung-dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/ki-verordnung-dist"
+          gh release edit "$TAG" --draft=false --latest=false

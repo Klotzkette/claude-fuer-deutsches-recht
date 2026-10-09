@@ -34,7 +34,7 @@ Lieferroboter auf Gehwegen, in Fußgängerzonen und in Mischverkehrsräumen ber�
 
 ## Schritt für Schritt
 
-1. **Produktklassifizierung.** Maschine nach MaschinenVO; KI-Funktion einordnen (Anhang III KI-VO?); ggf. Funkanlagengesetz.
+1. **Produktklassifizierung:** Maschinenrecht und Funkrecht anhand Konstruktion und Zweck prüfen. Artikel 6 Absatz 1 mit Anhang I einschließlich Abschnitt A/B und Artikel 2 Absatz 2 von Absatz 2 mit Anhang III trennen. Artikel 6 Absätze 1a bis 1c samt Berichtigung prüfen. Eine sicherheitsrelevante Maschinenfunktion ist nicht allein deshalb ein Anhang-III-Tatbestand. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 2. **Genehmigung Verkehrsbehörde / Kommune.** Sondernutzungsantrag mit Fahrtrouten, Geschwindigkeit, Sicherheitsabständen, Notfall-Konzept; Anhörung Polizei, Tiefbauamt, Ordnungsamt.
 3. **Datenschutz.** DSFA Art. 35 DSGVO (Bildverarbeitung im öffentlichen Raum ist regelmäßig pflichtig); Hinweisschilder am Roboter; Privacy-by-Design (Blurring von Gesichtern und Kennzeichen on-device).
 4. **Sicherheitskonzept.** Maximalgeschwindigkeit (typisch 6 km/h Schrittgeschwindigkeit), Hindernisstopp, akustische und visuelle Signale; Begleitperson bei Erstbetrieb.

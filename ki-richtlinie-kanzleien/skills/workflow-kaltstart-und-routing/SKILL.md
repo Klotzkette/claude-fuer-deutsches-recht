@@ -26,11 +26,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **"Wir wollen eine Richtlinie für KI in der Kanzlei"** → Standardgliederung: Zweck, Anwendungsbereich, zulässige Tools, verbotene Tools, Mandantendaten, Schulungspflicht, Verantwortlichkeiten, Verstoßfolgen.
 - **"Welches Tool dürfen Mitarbeiter benutzen?"** → Whitelist erstellen mit AVV-Status, US-Cloud-Status (DPF/SCC/TIA), Kategorisierung "Mandantendaten ja/nein".
 - **"Mandantenkommunikation zu KI-Einsatz"** → Transparenzhinweise in Mandatsvereinbarung, ggf. Einwilligung; Berufsrechtliche Aufklärungspflicht § 49b BRAO.
-- **"Schulungsnachweise"** → Art. 4 KI-VO (seit 02.02.2025) verlangt nachweisbare KI-Kompetenz.
+- **Kompetenznachweise:** Artikel 4 verlangt angemessene Maßnahmen zur Förderung; vorhandene Einweisungen und Nacharbeit prüfen. Kein bestimmtes individuelles Niveau oder Zertifikat als gesetzliche Voraussetzung erfinden. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **"Mitbestimmung im Betriebsrat"** → § 87 Abs. 1 Nr. 6 BetrVG bei "technischen Einrichtungen zur Überwachung"; § 80 Abs. 3 BetrVG Hinzuziehung externer Sachverständiger; § 95 BetrVG Auswahlrichtlinien.
 
 ## Praxis-Tipp
-Eine Kanzlei-Richtlinie ist nur so wirksam wie ihre Umsetzung. Empfehlung: erst Toolauswahl (Whitelist + Blacklist), dann Richtlinie schreiben, dann verpflichtende Schulung (Art. 4 KI-VO) plus jährliches Re-Briefing. Schlechte Praxis ist die abstrakte Richtlinie ohne benannte Tools — sie hat keine operative Wirkung.
+Empfohlener Organisationsablauf: Werkzeuge und Einsatzgrenzen festlegen, verständliche Richtlinie bereitstellen, tätigkeitsgerechte Einweisung und anlassbezogene Nacharbeit organisieren. Ein jährliches Re-Briefing kann intern vereinbart werden; Artikel 4 schreibt weder Jahresrhythmus noch eine bestimmte Schulungsform vor. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

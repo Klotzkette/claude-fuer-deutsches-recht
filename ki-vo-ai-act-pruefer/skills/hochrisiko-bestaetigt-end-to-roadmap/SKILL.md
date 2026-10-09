@@ -1,375 +1,63 @@
 ---
 name: hochrisiko-bestaetigt-end-to-roadmap
-description: "Für Hochrisiko-digitale Werkzeuge bestätigt — die End-to-End-Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-bestaetigt-end-to-roadmap."
+description: Überführt eine bestätigte Hochrisikoeinstufung in einen priorisierten Umsetzungsplan. Ordnet fehlende Nachweise, verantwortliche Personen und zeitliche Anwendbarkeit den einzelnen Anbieter- und Betreiberpflichten zu.
 ---
 
-# Hochrisiko-KI bestätigt — die End-to-End-Roadmap
+# Hochrisiko: vom Befund zum geprüften Betrieb
 
-## Zweck
+## 1. Zweck und Anwendungsfall
 
-Sie haben festgestellt: das System ist Hochrisiko nach Art. 6 Abs. 1 oder Abs. 2 i.V.m. Anhang I/III KI-VO. Die Rückausnahme nach Art. 6 Abs. 3 KI-VO greift nicht. **Was jetzt?**
+Plane die vollständige Umsetzung für das konkrete System. Die folgende Anbietersequenz ist keine allgemeine Pflichtenliste für jeden Betreiber. Voraussetzung sind dokumentierte Rolle, Systemfassung und Einstufung; bei Produktpfad zuerst Artikel 2 Absatz 2 und Anhang I Abschnitt A oder B abgrenzen.
 
-Liefert den vollständigen Mandanten-von "Hochrisiko-Diagnose" bis "Marktreife mit CE-Kennzeichnung". Ziel ist Entdramatisierung: jeder Schritt ist mechanisch abarbeitbar.
+## 2. Eingaben
 
----
+Einstufungsvermerk, System- und Produktbeschreibung, technische Unterlagen, Tests, Datenherkunft, Betriebsanleitung, Rollenverträge, bestehende Managementprozesse, Marktdatum und Ressourcen. Pro fehlendem Nachweis feststellen, ob sein Fehlen die nächste Entscheidung hindert oder parallel behoben werden kann.
 
-## PFLICHT-DISCLAIMER
+## 3. Ablauf und Checkliste
 
-**Keine Rechtsberatung. Mechanischer Workflow.** Die konkrete Umsetzung erfordert produkt-/branchen-spezifische Detailprüfung durch Fachpersonal (interne Compliance, externe Beratung, Konformitätsbewertungsstelle).
+### 3.1. Pflichten, Daten und Zuständigkeiten festlegen
 
----
+Die Roadmap beginnt mit einer Pflichtentscheidung je Rolle, Systemfassung und Stichtag. Bei Artikel 6 Absatz 1 nicht die Ausnahme des Absatzes 3 prüfen; bei Absatz 2 deren Nichtanwendbarkeit oder Ablehnung dokumentieren. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: für Absatz 2 auf den 2. Dezember 2027, für Absatz 1 auf den 2. August 2028. Bestand nach Artikel 111 und früher geltendes Produktrecht getrennt prüfen. Artikel 43, 49 und 73 stehen außerhalb dieser Abschnitte; ihre zeitliche Verschränkung mit Artikel 6 und dem konkreten System begründen, nicht sämtliche Pflichten pauschal verschieben oder vorziehen.
 
-## Vorbedingung — wer macht was?
+Anbieter verantworten die einschlägigen Systemanforderungen und Nachweise. Betreiber verantworten insbesondere ihren Einsatz nach Artikel 26 und gegebenenfalls Artikel 27. Einführer und Händler prüfen ihre eigenen Artikel 23 und 24; sie übernehmen nicht automatisch sämtliche Anbieterpflichten. Der Bevollmächtigte erledigt die in Artikel 22 vorgeschriebenen und schriftlich übertragenen Aufgaben, nicht pauschal die technische Entwicklung. [Rollenwechsel](../anbieter-werden-art-25/SKILL.md) bleibt gesondert.
 
-| Akteur | Hauptpflichten | Roadmap relevant? |
-|---|---|---|
-| **Anbieter** (Art. 3 Nr. 3) | Art. 9-15, 16-21, 43-49 KI-VO | Alle 12 Schritte |
-| **Betreiber** (Art. 3 Nr. 4) | Art. 26-27 KI-VO | Schritt 11-12 + Folgenabschätzung |
-| **Einführer** (Art. 3 Nr. 6) | Art. 23 KI-VO | Schritt 7-9 (Verifikation) |
-| **Händler** (Art. 3 Nr. 7) | Art. 24 KI-VO | Schritt 10 (Verifikation vor Vertrieb) |
-| **Bevollmächtigter** (Art. 3 Nr. 5) | Art. 22 KI-VO | Schritt 1-12 stellvertretend |
+### 3.2. Zwölf aufeinander bezogene Arbeitsschritte
 
-→ Rollenzuordnung vorher klären über `rolle-anbieter-pruefen-art-3-nr-3` bzw. `rolle-betreiber-pruefen-art-3-nr-4`.
+1. **Systemrisiken nach Artikel 9:** Ursache, Wirkung, betroffene Personen, Maßnahme, Wirksamkeitstest und Restrisiko dokumentieren. Bekannte Risiken, vorhersehbaren Fehlgebrauch und Beobachtungsdaten zusammenführen. Der [Systemrisikoprozess](../hochrisiko-risikomanagementsystem-art-9/SKILL.md) erzeugt die belastbare Risikobewertung.
+2. **Daten nach Artikel 10:** Herkunft, Zweck, Aufbereitung, Annahmen, Eignung, Verzerrungen und Lücken untersuchen. Datensätze müssen zweckbezogen relevant, hinreichend repräsentativ und soweit möglich fehlerfrei und vollständig sein; keine unerreichbare absolute Fehlerfreiheit behaupten. Für Systeme ohne modelltrainierende Technik Absatz 6 beachten. Besondere personenbezogene Daten nach Artikel 4a und Datenschutzrecht gesondert prüfen; nicht pauschal „DSGVO verbietet Compliance-Daten“ schreiben.
+3. **Dokumentation nach Artikel 11:** Die technische Dokumentation vor Inverkehrbringen oder Inbetriebnahme erstellen und aktuell halten. Anhang IV strukturiert Systembeschreibung, Entwicklung, Betriebskontrolle, Leistungskennzahlen, Risikomanagement, Änderungen, Normen, Erklärung und Beobachtung. Vereinfachte Bereitstellung für KMU und kleine Midcap-Unternehmen setzt den tatsächlichen gesetzlichen Weg und das vorgesehene Formular voraus. Zehnjährige Bereithaltung der in Artikel 18 genannten Dokumente von Logfristen unterscheiden.
+4. **Protokollierung nach Artikel 12:** Ereignisse zweckgerecht automatisch aufzeichnen. Die besonderen Mindestdaten des Absatzes 3 betreffen Anhang III Nummer 1 Buchstabe a; sie sind kein allgemeines Rohdatenprotokoll aller Systeme. Anbieter und Betreiber bewahren kontrollierte Logs nach Artikeln 19 beziehungsweise 26 Absatz 6 grundsätzlich mindestens sechs Monate auf, vorbehaltlich abweichenden anwendbaren Rechts. Den [Logvermerk](../hochrisiko-aufzeichnungspflichten-logging-art/SKILL.md) als Produkt benennen.
+5. **Betreiberinformation nach Artikel 13:** Eine verständliche, barrierefrei zugängliche Betriebsanleitung mit Zweck, geprüften Leistungsgrenzen, vorhersehbaren Risiken, Eingabedaten, erklärenden Informationen, Aufsichtsmaßnahmen, Ressourcen, Wartung und gegebenenfalls Logmechanismen erstellen. Nur tatsächlich geprüfte Leistungswerte nennen. Werbeaussage und Anleitung müssen zusammenpassen.
+6. **Aufsicht nach Artikel 14:** Menschen müssen Grenzen und Automatisierungsbias verstehen, Ergebnisse interpretieren, Ausgaben übergehen oder rückgängig machen und erforderlichenfalls sicher eingreifen. Das besondere Zwei-Personen-Prinzip nach Absatz 5 betrifft Anhang III Nummer 1 Buchstabe a mit den gesetzlichen Besonderheiten für bestimmte Behörden; es ist kein allgemeines Vier-Augen-Gebot für jede KI. Aufsichtsdesign und benannte Betreiberperson verbinden.
+7. **Genauigkeit, Robustheit und Cybersicherheit nach Artikel 15:** Geeignete Metriken, Fehler- und Störungstoleranz, Rückkopplungsrisiken und einschlägige Angriffe testen. Ergebnisse, Grenzen und Version nachweisen; fehlende Tests nicht durch Zertifikatsnamen ersetzen.
+8. **Qualitätsmanagement nach Artikel 17:** Schriftliche Strategie, Entwicklungskontrolle, Prüfung, technische Spezifikationen, Datenverwaltung, Artikel-9-Prozess, Beobachtung, Vorfallmeldung, Kommunikation, Aufzeichnung, Ressourcen und Verantwortlichkeiten im Anbieterprozess verankern. Ein ISO-Managementzertifikat belegt nur seinen konkreten Prüfbereich. Artikel 9 ist der systembezogene Prozess; Artikel 17 dessen organisatorische Einbettung; Artikel 27 die eigenständige Folgenabschätzung bestimmter Betreiber.
+9. **Bewertungsweg nach Artikel 43:** Für Anhang III Nummer 1 hängt die Wahl zwischen interner Kontrolle nach Anhang VI und Beteiligung einer notifizierten Stelle nach Anhang VII von den gesetzlichen Normen- beziehungsweise Spezifikationsbedingungen ab. Ohne deren Erfüllung den vorgeschriebenen Drittweg prüfen. Nummern 2 bis 8 grundsätzlich nach Absatz 2 intern bewerten. Abschnitt-A-Produkte nach Absatz 3 im Produktverfahren; Abschnitt B zuerst nach Artikel 2 Absatz 2. Normenanwendung ist kein allgemeiner Zertifizierungszwang. An die [Verfahrensprüfung](../hochrisiko-konformitaetsbewertung-art-43/SKILL.md) übergeben.
+10. **Erklärung und Kennzeichnung:** Die EU-Konformitätserklärung nach Artikel 47 und Anhang V wird vom verantwortlichen Anbieter ausgestellt; CE richtet sich nach Artikel 48. Digital bereitgestellte Systeme haben die dort geregelten Zugänglichkeitsanforderungen. Eine Stellenkennnummer nur soweit einschlägig ergänzen. Keine Behörde hat mit dem CE-Zeichen pauschal die Anwendung genehmigt.
+11. **Register nach Artikeln 49 und 71:** Anhang III Nummer 2 hat nationale Registrierung; die übrigen einschlägigen Anbieter-, Ausnahme- und öffentlichen Betreiberpfade getrennt untersuchen. Der nichtöffentliche Bereich nach Artikel 49 Absatz 4 ist auf seine bestimmten Nummern und Zwecke begrenzt. Ein System kann mehrere Pfade treffen. Reiner Absatz-1-Produktbezug erzeugt nicht selbst den Absatz-2-Registertatbestand. NANDO ist kein allgemeines Produktregister. Der [Registrierungsvermerk](../eu-datenbank-registrierung-art-49-und-71/SKILL.md) bestimmt Daten, Empfänger und Zugangsnachweis.
+12. **Beobachtung und Vorfälle:** Den Plan nach Artikel 72 in **Anhang IV** dokumentieren, Leistungsdaten aktiv verfolgen und Anforderungen erneut bewerten. Artikel 73 verlangt nach seinen Tatbeständen unverzügliche Meldung mit unterschiedlichen Höchstfristen von 15, zwei oder zehn Tagen; keine pauschale Wartefrist. [Vorfallprüfung](../schwerwiegender-vorfall-art-73-playbook/SKILL.md), Korrekturmaßnahmen und erneute Bewertung derselben Systemfassung miteinander verknüpfen.
 
----
+### 3.3. Betreiberpfad parallel führen
 
-## Die zwölf Schritte für Anbieter
+Betreiber erhalten einen eigenen Einsatzvermerk: anleitungsgemäße Verwendung, kompetente und befugte Aufsicht, kontrollierte Eingabedaten, Betriebsüberwachung, Logs und Information. Arbeitnehmervertreter und Betroffene nach dem zutreffenden Absatz des Artikels 26 informieren. Die Offensichtlichkeit einer KI hebt die Information nach Absatz 11 nicht automatisch auf.
 
-### Schritt 1 — Risikomanagementsystem aufsetzen (Art. 9 KI-VO)
+Die FRIA nach Artikel 27 setzt den dort bestimmten Betreiberkreis voraus: Einrichtungen des öffentlichen Rechts, private Erbringer öffentlicher Dienstleistungen oder Betreiber von Anhang III Nummer 5 Buchstaben b und c; Nummer 2 ist ausgenommen. Beschreibung von Einsatz, Betroffenen, Risiken, Aufsicht und Maßnahmen erstellen, gegebenenfalls mit vorhandener Datenschutz-Folgenabschätzung ergänzend verbinden und Ergebnis nach Absatz 3 der Marktüberwachungsbehörde mitteilen. Privatwirtschaftliche Beschäftigtenbewertung begründet nicht allein diese FRIA-Pflicht.
 
-**Was:** kontinuierlicher iterativer Prozess über den gesamten Lebenszyklus.
+### 3.4. Planung, Entscheidung und Änderungen
 
-**Mindestelemente:**
-- Identifikation und Analyse bekannter und vernünftig vorhersehbarer Risiken
-- Abschätzung möglicher Risiken bei bestimmungsgemäßer Verwendung und bei vernünftigerweise vorhersehbarer Fehlanwendung
-- Bewertung anderer Risiken aus Post-Market-Daten
-- geeignete und gezielte Risikomanagementmaßnahmen
+Für jedes Produkt Quelle, Version, Verantwortlichen, offenen Nachweis und nächsten Entscheidungspunkt angeben. Aufwand nur aus tatsächlicher Systemkomplexität, Datenlage, Teamkapazität, Test- und Stellenverfügbarkeit schätzen. Keine unbelegten Standardwochen und keine automatische Halbierung durch ein ISO-Zertifikat.
 
-**Output:** dokumentiertes RMS, Eingang in technische Dokumentation Anhang IV.
+Vor Markteintritt einen konkreten Abschlussvermerk erstellen: Welche anwendbaren Anforderungen sind durch welche Evidenz erfüllt, was bleibt offen, welche Unterschrift oder Übermittlung steht aus? Fehlende Tatsachen blockieren nur die abhängige Entscheidung. Eine Modellantwort ist weder EU-Konformitätserklärung noch behördliche Freigabe. Wesentliche Änderungen nach Artikel 43 Absatz 4, neue Zweckbestimmungen und neue Risiken lösen eine erneut dokumentierte Prüfung aus.
 
-→ Detail-Skill: `hochrisiko-risikomanagementsystem-art-9`
+## 4. Quellenpflicht
 
----
+Artikel 2, 6, 9 bis 15, 17 bis 19, 22 bis 27, 40, 43, 47 bis 49, 71 bis 73, 111 und 113 sowie Anhänge I, IV bis VIII. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### Schritt 2 — Daten-Governance und Trainingsdaten-Qualität (Art. 10 KI-VO)
+## 5. Ausgabeformat
 
-**Was:** Trainings-, Validierungs- und Testdaten müssen Qualitätskriterien erfüllen.
+Ein vollständig ausformulierter Umsetzungsplan mit rollenbezogenem Pflichtumfang und konkreten Arbeitsprodukten. Tabelle höchstens vier Spalten: Produkt, Verantwortlicher, Evidenz und nächster Schritt. Begründete Nichtanwendbarkeit statt leerer Häkchen; gesetzliche Entscheidung, freiwillige Verbesserung und ungeklärte Frage unterscheidbar halten.
 
-**Mindestelemente:**
-- Datenerhebungsverfahren dokumentiert
-- relevante Datenaufbereitung (Annotation, Labelling, Bereinigung, Aktualisierung, Anreicherung, Aggregation)
-- Untersuchung auf mögliche Verzerrungen, die zu Diskriminierung führen
-- Datensätze relevant, hinreichend repräsentativ, fehlerfrei, vollständig
-- Berücksichtigung geographischer, kontextueller, verhaltensbezogener und funktionaler Besonderheiten
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-**Output:** Daten-Governance-Dokumentation, Bias-Bewertung.
+## 6. Beispiele
 
-→ Detail-Skill: `hochrisiko-datenqualitaet-und-data-governance-art-10`
-
----
-
-### Schritt 3 — Technische Dokumentation erstellen (Art. 11, Anhang IV KI-VO)
-
-**Was:** vor Inverkehrbringen vollständig erstellt, aktuell gehalten.
-
-**Inhalte (Anhang IV) — neun Hauptblöcke:**
-1. Allgemeine Beschreibung des KI-Systems
-2. Detaillierte Beschreibung der Elemente und Entwicklung
-3. Detaillierte Informationen zur Überwachung, Funktionsweise und Kontrolle
-4. Beschreibung der Eignung der Leistungskennzahlen
-5. Detaillierte Beschreibung des Risikomanagementsystems
-6. Beschreibung relevanter Änderungen
-7. Liste der harmonisierten Normen
-8. EU-Konformitätserklärung-Kopie
-9. Detaillierte Beschreibung des Systems zur Bewertung der Leistung nach Inverkehrbringen
-
-**Output:** Anhang-IV-Doku, mindestens zehn Jahre aufbewahren.
-
-→ Detail-Skill: `hochrisiko-technische-dokumentation-art-11-und-anhang-iv`
-
----
-
-### Schritt 4 — Aufzeichnungspflichten / Logging einrichten (Art. 12 KI-VO)
-
-**Was:** automatische Aufzeichnung von Ereignissen während des Betriebs.
-
-**Mindest-Loggings:**
-- Zeitpunkt der Verwendung
-- Referenzdatenbank, gegen die Input-Daten geprüft
-- Input-Daten, die zu einem Treffer führten
-- Identifizierung beteiligter natürlicher Personen bei Ergebnisverifikation
-
-**Aufbewahrung:** angemessene Dauer, mindestens sechs Monate, sofern Unionsrecht oder nationales Recht nicht längere Dauer vorschreibt.
-
-→ Detail-Skill: `hochrisiko-aufzeichnungspflichten-logging-art-12`
-
----
-
-### Schritt 5 — Transparenz und Informationen für Betreiber (Art. 13 KI-VO)
-
-**Was:** Gebrauchsanweisung mit präzisen, vollständigen, korrekten Informationen.
-
-**Pflichtinhalte:**
-- Identität und Kontaktdaten des Anbieters
-- Merkmale, Fähigkeiten und Leistungsgrenzen
-- ggf. bekannte oder vernünftig vorhersehbare Umstände, die zu Risiken führen können
-- ggf. technische Fähigkeiten und Kennwerte
-- Leistung in Bezug auf spezifische Personen oder Personengruppen
-- Anforderungen an Eingabedaten
-- ggf. Informationen zur Datenverarbeitung durch das System
-
-→ Detail-Skill: `hochrisiko-transparenz-und-informationen-für-betreiber-art-13`
-
----
-
-### Schritt 6 — Menschliche Aufsicht ermöglichen (Art. 14 KI-VO)
-
-**Was:** Hochrisiko-KI muss so konzipiert sein, dass natürliche Personen wirksam beaufsichtigen können.
-
-**Befähigungen, die der Mensch haben muss:**
-- die Fähigkeiten und Grenzen des Systems vollständig verstehen
-- die Tendenz zum Automatisierungsbias kennen und einkalkulieren
-- die Ausgaben des Systems korrekt interpretieren
-- die Verwendung des Systems ablehnen, dessen Verwendung übergehen, rückgängig machen
-- in den Betrieb eingreifen oder den Betrieb durch Stopp-Taste unterbrechen
-
-**Bei biometrischer Fernidentifizierung:** Vier-Augen-Prinzip nach Art. 14 Abs. 5 KI-VO.
-
-→ Detail-Skill: `hochrisiko-menschliche-aufsicht-art-14`
-
----
-
-### Schritt 7 — Genauigkeit, Robustheit, Cybersicherheit (Art. 15 KI-VO)
-
-**Was:** angemessene Genauigkeit, Robustheit und Cybersicherheit über den gesamten Lebenszyklus.
-
-**Pflichten:**
-- Genauigkeitsgrade und einschlägige Genauigkeitsmetriken in Gebrauchsanweisung
-- Robustheit gegen Fehler, Störungen, Inkonsistenzen
-- Resilienz gegen Versuche unberechtigter Dritter, Verwendung zu ändern (z.B. durch Ausnutzung von Schwachstellen)
-- bei lernfähigen Systemen: Schutz gegen verzerrte Ausgaben (Feedback Loops) durch geeignete Maßnahmen
-- Anfälligkeit gegen "Data Poisoning", "Model Poisoning", "Model Evasion", "Adversarial Examples", "Confidentiality Attacks" adressieren
-
-→ Detail-Skill: `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15`
-
----
-
-### Schritt 8 — Qualitätsmanagementsystem (Art. 17 KI-VO)
-
-**Was:** dokumentiertes QMS mit schriftlichen Vorschriften, Verfahren und Anweisungen.
-
-**Mindestelemente (Art. 17 Abs. 1 KI-VO):**
-- Strategie für die Einhaltung der Regulierung einschließlich Konformitätsbewertungsverfahren
-- Verfahren für Design, Designkontrolle und Designverifikation
-- Verfahren für Entwicklung, Qualitätskontrolle und Qualitätssicherung
-- Untersuchung, Test- und Validierungsverfahren vor, während und nach Entwicklung
-- anwendbare technische Spezifikationen einschließlich Normen
-- Systeme und Verfahren für Datenverwaltung
-- Risikomanagementsystem nach Art. 9
-- Aufstellung und Umsetzung Post-Market-Monitoring-System nach Art. 72
-- Meldeverfahren für schwerwiegende Vorfälle nach Art. 73
-- Kommunikation mit zuständigen Behörden, notifizierten Stellen, Kunden
-- Aufzeichnungssysteme und -verfahren
-- Ressourcenmanagement einschließlich Versorgungssicherheit
-- Rechenschaftsrahmen mit klaren Verantwortlichkeiten
-
----
-
-### Schritt 9 — Konformitätsbewertungsverfahren wählen (Art. 43 KI-VO)
-
-**Was:** Vor Inverkehrbringen / Inbetriebnahme nachweisen, dass alle Anforderungen aus Art. 8-15 KI-VO erfüllt sind.
-
-**Verfahrenswahl je nach Systemart:**
-
-| Konstellation | Verfahren | Notifizierte Stelle? |
-|---|---|---|
-| Anhang-III-Hochrisiko (außer biometrisch) | Anhang VI — interne Kontrolle | nein |
-| Anhang-III-Bereich 1 (biometrische Identifizierung) ohne anwendbare Norm | Anhang VII — Bewertung durch notifizierte Stelle | ja |
-| Anhang-III-Bereich 1 mit anwendbarer Norm vollständig befolgt | Anhang VI — interne Kontrolle | nein, aber Norm verbindlich |
-| Anhang-I-Hochrisiko (Sicherheitsbauteil) | Verfahren des einschlägigen Sektor-Rechtsakts (z.B. Medizinprodukte: MDR-Verfahren mit KI-VO-Integration) | nach Sektor-Recht |
-
-**Output:** EU-Konformitätserklärung nach Anhang V.
-
-→ Detail-Skills: `hochrisiko-konformitaetsbewertung-art-43-bis-49`, `output-konformitaetserklaerung-eu-anhang-v`, `output-konformitaetsbescheinigung-evidence-pack`, `code-of-practice-und-harmonisierte-normen`
-
----
-
-### Schritt 10 — CE-Kennzeichnung anbringen (Art. 48 KI-VO)
-
-**Was:** sichtbar, leserlich, dauerhaft.
-
-**Erforderlich:**
-- digitale CE-Kennzeichnung möglich, wenn nicht über physisches Produkt zugänglich
-- Identifikationsnummer der notifizierten Stelle hinzufügen, wenn an Konformitätsbewertung beteiligt
-- in Gebrauchsanweisung und Begleitdokumentation
-
----
-
-### Schritt 11 — EU-Datenbank-Registrierung (Art. 49, 71 KI-VO)
-
-**Wer ist registrierungspflichtig?**
-
-| Konstellation | Pflicht zur EU-DB-Registrierung |
-|---|---|
-| Anbieter Hochrisiko **Anhang III** (außer Strafverfolgung/Migration/Asyl) | ja, Art. 49 Abs. 1 KI-VO |
-| Anbieter Hochrisiko **Anhang III** Strafverfolgung/Migration/Asyl | ja, aber gesonderter, nicht öffentlicher Teil der Datenbank (Art. 49 Abs. 4, Art. 71 Abs. 5 KI-VO) |
-| Anbieter Hochrisiko **Anhang I** (Sicherheitsbauteile) | **nein** — Konformität läuft über den sektoralen Rechtsakt (z.B. MDR, MaschinenVO); KI-VO-EU-Datenbank greift hier grundsätzlich nicht |
-| **Betreiber** als Behörde, EU-Organ oder im Auftrag öffentlicher Stelle | ja, vor Einsatz (Art. 49 Abs. 3 KI-VO) — gilt nur für Anhang-III-Systeme |
-| Anbieter, der sich auf Rückausnahme Art. 6 Abs. 3 beruft | gesonderte Registrierung der Selbsteinschätzung (Art. 49 Abs. 2 KI-VO) |
-
-**Faustregel:** Die EU-Datenbank nach Art. 71 KI-VO ist die **Anhang-III-Schiene**. Anbieter von Sicherheitsbauteilen nach Anhang I (MDR-Implantate, IVDR-Diagnostika, MaschinenVO-Komponenten etc.) erfüllen ihre Eintragungspflichten in den sektoralen Registern (EUDAMED, NANDO, etc.) und sind von Art. 49 KI-VO **nicht** erfasst.
-
-**Was wird registriert (Anhang VIII Abschnitt A KI-VO):**
-- Identität, Kontaktdaten Anbieter (ggf. Bevollmächtigter)
-- Handelsname und etwaige weitere eindeutige Kennung des KI-Systems
-- Anhang-III-Bereich
-- Status der Konformitätsbewertung
-- Kopie der EU-Konformitätserklärung
-- elektronische Gebrauchsanweisung (außer Strafverfolgung/Migration/Asyl)
-- URL für zusätzliche Informationen
-
-**Wann:** vor Inverkehrbringen / Inbetriebnahme.
-
-→ Detail-Skill: `eu-datenbank-registrierung-art-49-und-71`
-
----
-
-### Schritt 12 — Marktbeobachtung und Vorfallsmeldung (Art. 72-79 KI-VO)
-
-**Was:** Post-Market-Monitoring-System aktiv betreiben.
-
-**Pflichten:**
-- aktive systematische Sammlung relevanter Daten zur Leistung über Lebenszyklus
-- Bewertung kontinuierlicher Einhaltung der Anforderungen aus Art. 8-15
-- Plan für Post-Market-Monitoring (Anhang VIII)
-- Meldung schwerwiegender Vorfälle binnen fünfzehn Tagen an Marktaufsichtsbehörde (Art. 73)
-- bei Tod: binnen zehn Tagen; bei groß angelegtem Verstoß: binnen zwei Tagen
-- Kooperation mit Marktaufsichtsbehörden
-- Korrekturmaßnahmen bei Nichtkonformität (Rückruf, Rücknahme, Nachbesserung)
-
-→ Detail-Skill: `marktueberwachung-meldung-vorfaelle-art-72-bis-79`
-
----
-
-## Ergänzungs-für Betreiber
-
-Wer das System **einsetzt** (Art. 3 Nr. 4 KI-VO), durchläuft einen kürzeren Workflow:
-
-### Betreiber-Schritt 1 — Einsatzbedingungen prüfen (Art. 26 KI-VO)
-
-- Verwendung gemäß Gebrauchsanweisung
-- Sicherstellung menschlicher Aufsicht (geschulte, befugte Personen)
-- Eingabedaten relevant und hinreichend repräsentativ
-- Betriebsüberwachung mit Information des Anbieters bei Auffälligkeiten
-- Logging nach Art. 12 für eigene Aufzeichnungen
-- Information natürlicher Personen, die Hochrisiko-KI ausgesetzt sind
-- bei Beschäftigten: Information vor Inbetriebnahme
-
-### Betreiber-Schritt 2 — Folgenabschätzung Grundrechte (Art. 27 KI-VO)
-
-Pflicht für **öffentliche Stellen** und einige private Betreiber (z.B. Banken bei Kreditwürdigkeit, Versicherer bei Lebens-/Krankenversicherung):
-
-- Beschreibung Prozesse, in denen Hochrisiko-KI eingesetzt wird
-- Beschreibung Einsatzzeitraum und -häufigkeit
-- Kategorien betroffener Personen
-- Risiken für Grundrechte
-- Beschreibung Aufsichtsmaßnahmen
-- Maßnahmen bei Risikoeintritt
-
-→ Detail-Skill: `output-betreiber-checkliste-und-folgenabschaetzung`
-
----
-
-## Realistische Aufwands-Einordnung
-
-| Schritt | typischer Zeitaufwand kleine/mittlere Anbieter | typischer Zeitaufwand bei vorhandenem ISO-9001/27001/14971 |
-|---|---|---|
-| RMS aufsetzen | 4-8 Wochen | 2-4 Wochen |
-| Daten-Governance | 6-12 Wochen | 3-6 Wochen |
-| Technische Dokumentation | 8-16 Wochen | 4-8 Wochen |
-| Logging | 2-4 Wochen | 1-2 Wochen |
-| Transparenz/Gebrauchsanweisung | 2-4 Wochen | 1-2 Wochen |
-| Menschliche Aufsicht | 2-4 Wochen | 1-2 Wochen |
-| Genauigkeit/Robustheit | 6-12 Wochen | 3-6 Wochen |
-| QMS | 8-16 Wochen | bereits vorhanden, nur ergänzen |
-| Konformitätsbewertung | 4-8 Wochen interne / 12-26 Wochen notifizierte Stelle | wie links |
-| CE und EU-DB | 1-2 Wochen | 1 Woche |
-| Marktbeobachtung-Setup | 4-8 Wochen | 2-4 Wochen |
-
-**Hinweis:** Übergangsfristen beachten — Hochrisiko Anhang III: nach Artikel 113 in der Fassung 2026/1744 ab 02.12.2027 anwendbar; Hochrisiko Anhang I (Sicherheitsbauteile): ab 02.08.2028 anwendbar. → `zeitlicher-geltungsbereich-uebergangsfristen`. Die verschobenen Pflichten betreffen Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5; Bestand nach Artikel 111 getrennt prüfen.
-
----
-
-## Beteiligte Akteure / Wo melde ich was?
-
-| Akteur | Rolle | Wann kontaktieren? |
-|---|---|---|
-| **Notifizierte Stelle** | externe Konformitätsbewertung | bei Anhang VII, biometrischer Fernidentifizierung, sektorspezifischen Vorgaben |
-| **Nationale Marktaufsichtsbehörde** | Aufsicht, Vorfallsmeldung | bei schwerwiegenden Vorfällen (Art. 73), Anfragen, Inspektionen |
-| **Notifizierungsbehörde** | Aufsicht über notifizierte Stellen | indirekt relevant |
-| **EU-KI-Büro** (AI Office, Kommission GD CONNECT) | GPAI-Modelle, Code of Practice | wenn auch GPAI-Anbieter |
-| **EU-KI-Datenbank** (Art. 71 KI-VO) | Registrierung Hochrisiko-Systeme | vor Inverkehrbringen — Anhang III; bei Anhang I über sektorale Register (EUDAMED, NANDO etc.) |
-| **EDPB / nationale DSchB** | DSGVO-Schnittstelle | bei personenbezogenen Daten |
-| **Sektor-Regulatoren** (BaFin, BNetzA, BfArM, ...) | sektorale Aufsicht | je nach Anwendungsbereich |
-
----
-
-## Mini-Checkliste vor Markteintritt
-
-- [ ] Risikomanagementsystem dokumentiert und auf aktuellem Stand
-- [ ] Daten-Governance abgeschlossen, Bias-Bewertung vorhanden
-- [ ] Technische Dokumentation Anhang IV vollständig
-- [ ] Logging aktiv, Speicherdauer eingestellt
-- [ ] Gebrauchsanweisung vollständig nach Art. 13
-- [ ] Menschliche Aufsicht implementiert und beschrieben
-- [ ] Genauigkeitsmetriken dokumentiert, Robustheitstests durchgeführt
-- [ ] Cybersicherheitskonzept vorhanden
-- [ ] QMS aufgesetzt und dokumentiert
-- [ ] Konformitätsbewertungsverfahren durchlaufen
-- [ ] EU-Konformitätserklärung Anhang V erstellt
-- [ ] CE-Kennzeichnung angebracht
-- [ ] EU-Datenbank-Registrierung erfolgt (nur Anhang III; bei Anhang I über sektoralen Rechtsakt)
-- [ ] Post-Market-Monitoring-Plan aktiv
-- [ ] Vorfalls-Meldesystem etabliert
-- [ ] interne Verantwortlichkeiten zugewiesen
-- [ ] Mitarbeiter geschult (KI-Kompetenz Art. 4 KI-VO)
-
-→ Output-Skill: `output-pruefdokument-ki-vo-mit-warnhinweisen`
-
----
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO BESTAETIGT END TO END ROADMAP
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 9 Rn. 1]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein privater Anbieter entwickelt ein Bewerberranking. Sein ISO-42001-Zertifikat beendet weder die Artikel-9-Systemprüfung noch das interne Verfahren nach Artikel 43 Absatz 2. Die private Arbeitgeberkundin braucht ein Artikel-26-Betriebskonzept; eine FRIA folgt nicht automatisch. Bei einer kommunalen Kundin muss die Betreiberkreisfrage neu beantwortet werden. Beide erhalten Informationen und Logregeln passend zur konkreten Systemversion.

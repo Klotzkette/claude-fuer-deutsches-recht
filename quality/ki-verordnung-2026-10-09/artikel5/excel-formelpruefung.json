@@ -1,0 +1,170 @@
+[
+  {
+    "case": "ki-verbot-frankenmut-dialog",
+    "cell": "D10",
+    "actual": 1097,
+    "expected": 1097
+  },
+  {
+    "case": "ki-verbot-frankenmut-dialog",
+    "cell": "D11",
+    "actual": 869,
+    "expected": 869
+  },
+  {
+    "case": "ki-verbot-frankenmut-dialog",
+    "cell": "D17",
+    "actual": 460,
+    "expected": 460
+  },
+  {
+    "case": "ki-verbot-frankenmut-dialog Nullzahlung",
+    "cell": "D11",
+    "actual": 1097,
+    "expected": 1097
+  },
+  {
+    "case": "ki-verbot-frankenmut-dialog Nullrest",
+    "cell": "D19",
+    "actual": "n.a.",
+    "expected": "n.a."
+  },
+  {
+    "case": "ki-verbot-klarblick-personal",
+    "cell": "D11",
+    "actual": 10,
+    "expected": 10
+  },
+  {
+    "case": "ki-verbot-klarblick-personal volle Zuteilung",
+    "cell": "D6",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "case": "ki-verbot-klarblick-personal Summe verändert",
+    "cell": "D11",
+    "actual": 5,
+    "expected": 5
+  },
+  {
+    "case": "ki-verbot-stadtfaden-sozialscore",
+    "cell": "D6",
+    "actual": 65,
+    "expected": 65
+  },
+  {
+    "case": "ki-verbot-stadtfaden-sozialscore",
+    "cell": "D17",
+    "actual": 35,
+    "expected": 35
+  },
+  {
+    "case": "ki-verbot-stadtfaden-sozialscore ohne Tonabzug",
+    "cell": "D6",
+    "actual": 90,
+    "expected": 90
+  },
+  {
+    "case": "ki-register-fuldatal-sozialhilfe",
+    "cell": "D7",
+    "actual": 78,
+    "expected": 78
+  },
+  {
+    "case": "ki-register-fuldatal-sozialhilfe Probe",
+    "cell": "D7",
+    "actual": -2,
+    "expected": -2
+  },
+  {
+    "case": "ki-meldung-mainbogen-notruf",
+    "cell": "D8",
+    "actual": 2.5833333333333335,
+    "expected": 2.5833333333333335
+  },
+  {
+    "case": "ki-meldung-mainbogen-notruf",
+    "cell": "D13",
+    "actual": 48,
+    "expected": 48
+  },
+  {
+    "case": "ki-meldung-mainbogen-notruf",
+    "cell": "D14",
+    "actual": 360,
+    "expected": 360
+  },
+  {
+    "case": "ki-meldung-mainbogen-notruf Probe",
+    "cell": "D13",
+    "actual": 24,
+    "expected": 24
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal",
+    "cell": "D6",
+    "actual": 0.1,
+    "expected": 0.1
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal",
+    "cell": "D9",
+    "actual": "offen",
+    "expected": "offen"
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal Probe",
+    "cell": "D9",
+    "actual": "offen",
+    "expected": "offen"
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal Probe",
+    "cell": "D6",
+    "actual": 0.2,
+    "expected": 0.2
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal Probe",
+    "cell": "D9",
+    "actual": "offen",
+    "expected": "offen"
+  },
+  {
+    "case": "ki-konformitaet-isarblick-personal Probe",
+    "cell": "D6",
+    "actual": "offen",
+    "expected": "offen"
+  },
+  {
+    "case": "ki-konformitaet-saalevis-biometrie",
+    "cell": "D13",
+    "actual": 18,
+    "expected": 18
+  },
+  {
+    "case": "ki-konformitaet-saalevis-biometrie",
+    "cell": "D14",
+    "actual": 8,
+    "expected": 8
+  },
+  {
+    "case": "ki-konformitaet-saalevis-biometrie",
+    "cell": "D15",
+    "actual": 0.4444444444444444,
+    "expected": 0.4444444444444444
+  },
+  {
+    "case": "ki-konformitaet-saalevis-biometrie Probe",
+    "cell": "D6",
+    "actual": 0,
+    "expected": 0
+  },
+  {
+    "case": "ki-konformitaet-saalevis-biometrie Probe",
+    "cell": "D15",
+    "actual": 0.6111111111111112,
+    "expected": 0.6111111111111112
+  }
+]

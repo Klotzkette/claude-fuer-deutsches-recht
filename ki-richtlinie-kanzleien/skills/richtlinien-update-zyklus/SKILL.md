@@ -19,7 +19,7 @@ Eine KI-Nutzungsrichtlinie ist kein statisches Dokument. Die KI-Technologie entw
 
 ## Rechtlicher Hintergrund
 
-Art. 4 KI-VO: KI-Kompetenz muss auf dem aktuellen Stand gehalten werden — was eine aktuelle Richtlinie voraussetzt. Art. 5 Abs. 2 DSGVO: Rechenschaftspflicht erfordert, dass die getroffenen Maßnahmen dem aktuellen Stand entsprechen. § 43 BRAO: Gewissenhaftigkeit umfasst die laufende Anpassung der Kanzlei-Compliance an neue Rechtsentwicklungen. BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 werden fortgeschrieben. Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des EU-KI-Büros konkretisiert (Art. 113 KI-VO enthält den Inkrafttreten-Stufenplan).
+Artikel 4 KI-Verordnung verlangt angemessene Fördermaßnahmen; ein regelmäßiger interner Review ist eine organisatorische Empfehlung, keine dort festgelegte Jahresfrist. Bei neuen Funktionen, Vorfällen oder Normänderungen Maßnahmen und Richtlinie anpassen. Datenschutz- und Berufspflichten gesondert prüfen. Artikel 111 und 113 enthalten die maßgeblichen zeitlichen Weichen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -47,7 +47,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ☐ Wesentliche Änderungen der AGB oder Datenschutzrichtlinien genutzter KI-Anbieter
 ☐ Neue Gerichtsentscheidungen zum RDG oder AGG im KI-Kontext
 ☐ Änderungen des EU-US Data Privacy Framework oder Schrems-III-Entscheidung des EuGH
-☐ Inkrafttreten neuer KI-VO-Bestimmungen (nächstes Datum: 2. August 2026)
+- Nächste KI-VO-Weiche am 02.12.2026: neue Artikel-5-Regelungen und Übergang für bestimmte generative Alt-Systeme nach Artikel 111 Absatz 4; die übrigen Pflichten nicht pauschal auf dieses Datum verschieben.
 
 **Baustein Versionshistorie:**
 
@@ -76,7 +76,7 @@ Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder In
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 17 KI-VO — Qualitaetsmanagement-System mit laufender Ueberprueufung (Anbieter)
-- Art. 29 KI-VO — Betreiberpflicht zur laufenden Beobachtung und Anpassung
+- Artikel 26 Absatz 5 KI-Verordnung — Überwachung durch den Hochrisiko-Betreiber; Artikel 72 betrifft die Marktbeobachtung des Anbieters
 - Art. 5 Abs. 2 DSGVO — Rechenschaftspflicht (Richtlinie muss aktuell sein)
 - § 43 BRAO — Fortlaufende Kompetenz als Berufsanforderung
 
@@ -84,7 +84,7 @@ Dieser Skill selbst ist Teil des Update-Zyklus: Falls neue EU-Zeitpläne oder In
 1. Wann wurde die Richtlinie zuletzt aktualisiert — ist sie aelter als ein Jahr?
 2. Gab es seit letztem Update relevante Rechtsprechung (EuGH SCHUFA-Score, Dun & Bradstreet)?
 3. Sind neue KI-Systeme eingefuehrt worden, die noch nicht in der Richtlinie abgedeckt sind?
-4. Haben sich regulatorische Anwendungsdaten geaendert (KI-VO Stufenplan bis 2026)?
+4. Welche konkrete Pflicht fällt unter welchen Anwendungs- oder Übergangszeitpunkt der Artikel 111 und 113? Änderungen gegenüber dem letzten dokumentierten Quellenstand feststellen.
 5. Ist der Betriebsrat bei Richtlinien-Änderungen neu einzubinden?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 

@@ -1,6 +1,6 @@
 ---
 name: ausnahmebegruendung-artikel-6
-description: "Prüft und formuliert die Anbieterbegründung einer Ausnahme nach Artikel 6 Absatz 3 und 4 einschließlich verbleibender Registrierung. Für eng begrenzte vorbereitende HR-Funktionen; erstellt keine gewünschte Freistellung ohne belegte Voraussetzungen."
+description: "Prüft und formuliert die Anbieterbegründung einer Ausnahme nach Artikel 6 Absatz 3 und 4 einschließlich verbleibender Registrierung. Für vorbereitende Funktionen in allen Anhang-III-Bereichen; erstellt keine gewünschte Freistellung ohne belegte Voraussetzungen."
 ---
 
 # Ausnahmebegründung nach Artikel 6
@@ -28,6 +28,16 @@ Prüfe Profiling ausdrücklich. Die Behauptung „keine automatische Absage“ b
 Artikel 6 Absatz 4 verlangt die dokumentierte Beurteilung vor Inverkehrbringen oder Inbetriebnahme und ihre Herausgabe auf Verlangen zuständiger Behörden. Artikel 49 Absatz 2 bleibt ein gesonderter Registrierungspfad. Der erlassene Omnibus streicht nur bestimmte Angaben in Anhang VIII Abschnitt B, nicht beide Pflichten. Prüfe ihre zeitliche Anwendung und die aktuelle Datenbankpraxis getrennt; erfinde keine Registrierungsnummer.
 
 Wenn die Begründung nicht trägt, verfasse eine ablehnende Entscheidung mit konkreter Nachforderung oder einer tatsächlich abgrenzbaren Funktionsbeschränkung. Keine Freigabe mit pauschalem Haftungsausschluss. Bei späterer Aktivierung von Bewertung oder Ranking ist die dokumentierte Grenze erneut zu prüfen.
+
+### 3.4 Vier Alternativen mit Gegenprobe
+
+Die vier gesetzlichen Bedingungen einzeln anhand des Funktionsumfangs würdigen, aber nicht sämtlich verlangen. Eine eng gefasste Verfahrensaufgabe kann das Übertragen von Daten sein; ein unsichtbarer inhaltlicher Filter ist anders zu beurteilen. Bei Verbesserung einer abgeschlossenen menschlichen Tätigkeit muss gerade die relevante menschliche Arbeit vorher abgeschlossen sein. Die nachträgliche Optimierung darf keine neue Eignungs- oder Sachverhaltsbewertung verdecken. Die Musterprüfung setzt eine angemessene menschliche Überprüfung voraus und darf die abgeschlossene Bewertung nicht entgegen dem Tatbestand ersetzen oder beeinflussen. Eine vorbereitende Aufgabe darf nicht durch Rangfolge oder Aktenausblendung das Ergebnis wesentlich vorprägen. Die gesetzliche Verbindung zwischen Risikokriterium und Fallgruppe erklären; aus der Überschrift einer Fallgruppe keine Freistellung ableiten.
+
+Für Justizassistenz die Aktenpaginierung von Sachverhaltsauswahl, Beweiswürdigung und Rechtsanwendung trennen. Bei einer Textglättung eines fertig beratenen Urteils prüfen, ob der Entwurf nur sprachlich verändert oder die tragende Begründung neu erzeugt wird. Für den Produktpfad ist Absatz 3 nicht verfügbar. Dokumentation nur für die tatsächlich belegte Version und Verwendung formulieren; ein späteres neues Ranking, Profiling oder verstecktes Modul ist ein Anlass zur erneuten Prüfung.
+
+### 3.5 Profiling nicht mit Personendaten verwechseln
+
+Allein der Name einer Partei im Dokument ist kein Profiling. Eine automatisierte Zuverlässigkeits- oder Leistungsbewertung, eine persönliche Risikoprognose oder ein entsprechender Score kann hingegen persönliche Aspekte bewerten. Daten, abgeleitete Merkmale, Bewertungszweck und Verwendung prüfen. Die Rückausnahme gilt innerhalb des Anhang-III-Tatbestands; sie macht nicht jede beliebige Profilingsoftware automatisch zu einem dort genannten System. Die Dokumentation nach Absatz 4 darf eine fehlende technische Aufklärung nicht als negatives Testergebnis ausgeben.
 
 ## 4 Quellenpflicht
 

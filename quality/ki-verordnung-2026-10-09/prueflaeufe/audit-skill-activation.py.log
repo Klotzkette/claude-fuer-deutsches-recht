@@ -1,0 +1,15 @@
+Skill-Dateien: 23238
+doppelte_beschreibung: 2
+ueber_360: 1
+
+Plugins mit vielen gleichen Beschreibungen:
+- fachanwalt-gewerblicher-rechtsschutz: 2
+
+Beispiele:
+
+## doppelte_beschreibung
+- fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewrechts-ki-vo-50-genai/SKILL.md: Prüft generative Texte, Bilder, Audio, Video und Chatbots nach Artikel 50. Trennt technische Anbieterkennzeichnung, Betreiberhinweise, Ausnahmen und Veröffentlichungsfolgen und erstellt fertige Hinweise.
+- fachanwalt-gewerblicher-rechtsschutz/skills/gewrechts-ki-vo-50-genai/SKILL.md: Prüft generative Texte, Bilder, Audio, Video und Chatbots nach Artikel 50. Trennt technische Anbieterkennzeichnung, Betreiberhinweise, Ausnahmen und Veröffentlichungsfolgen und erstellt fertige Hinweise.
+
+## ueber_360
+- ki-native-kanzlei/skills/posteingang-mandate-zuordnen/SKILL.md: Bearbeitet freigegebene Kanzleieingänge aus Gmail, Outlook, beA oder Exportdateien: Original und Anlagen sichern, Mandat und Fristauslöser zuordnen, Dubletten und fehlende Anhänge erkennen, Antwort oder Fachprodukt vorbe

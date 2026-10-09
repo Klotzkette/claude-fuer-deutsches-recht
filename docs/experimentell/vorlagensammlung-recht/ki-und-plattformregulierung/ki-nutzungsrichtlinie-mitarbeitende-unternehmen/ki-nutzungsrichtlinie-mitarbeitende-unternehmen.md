@@ -113,13 +113,13 @@ Geltungsbereich: Alle Mitarbeitenden, die KI-Werkzeuge im Rahmen ihrer Tätigkei
 
 3) Prüferische Tätigkeiten (WPO).
 
-6.3 **KI-generierte Inhalte im Sinne von Art. 50 KI-VO:** Soweit das Unternehmen Deep-Fake-Inhalte oder synthetische Medien produziert, gilt die Kennzeichnungspflicht nach Art. 50 Abs. 2 KI-VO.
+6.3 **KI-generierte Inhalte im Sinne von Art. 50 KI-VO:** Die Anbieterpflicht zur technischen Markierung synthetischer Ausgaben nach Absatz 2 und die Betreiberpflicht zur Offenlegung bei Deepfakes nach Absatz 4 sind getrennt zu prüfen. Auch KI-generierte oder manipulierte Texte zur Information der Öffentlichkeit über Angelegenheiten von öffentlichem Interesse unterliegen dem gesonderten Texttatbestand des Absatzes 4 mit seiner Ausnahme bei menschlicher Überprüfung oder redaktioneller Kontrolle und redaktioneller Verantwortung. Betroffene Ausgabe, Rolle, Ausnahme und Platzierung der Information: [Angaben].
 
 ---
 
 ### 7 Schulung und KI-Kompetenz
 
-7.1 Das Unternehmen stellt sicher, dass alle Mitarbeitenden, die KI-Werkzeuge einsetzen, über die notwendige KI-Kompetenz (AI literacy) verfügen (Art. 4 KI-VO, Art. 26 Abs. 4 KI-VO). Hierzu werden mindestens folgende Maßnahmen durchgeführt:
+7.1 Das Unternehmen unterstützt nach Art. 4 KI-VO die Entwicklung eines ausreichenden Maßes an KI-Kompetenz unter Berücksichtigung von Vorwissen, Erfahrung, Ausbildung, Verwendungskontext und betroffenen Personen. Aufsichtspersonen für Hochrisiko-Systeme müssen gesondert die Anforderungen des Art. 26 Abs. 2 erfüllen; Absatz 4 betrifft dagegen Eingabedaten. Die folgenden Schulungen werden als interne Organisationsregel festgelegt, nicht als gesetzlich vorgeschriebene Einheitskurse:
 
 1) Onboarding-Schulung bei Einstellung und bei Einführung neuer KI-Werkzeuge;
 

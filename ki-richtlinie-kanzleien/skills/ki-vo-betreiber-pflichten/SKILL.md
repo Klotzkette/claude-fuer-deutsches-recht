@@ -1,114 +1,58 @@
 ---
 name: ki-vo-betreiber-pflichten
-description: "Für europäischer Technikregulierungsrahmen Betreiber-Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die konkrete Betreiberrolle einer Kanzlei, ihre KI-Funktionen und die zugehörigen Pflichten. Trennt Kompetenzmaßnahmen, Transparenz, Hochrisiko-Nutzung, Rollenwechsel und Meldungen."
 ---
 
-# KI-VO Betreiber-Pflichten
+# KI-Betreiberpflichten der Kanzlei
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-KI-VO Betreiber-Pflichten für Kanzleien erläutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Prüfraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Übersicht mit Textbausteinen für KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstellen Sie eine einsatzbezogene Arbeitsanweisung für die Kanzlei. Die berufliche Nutzung eines fremden Dienstes begründet häufig eine Betreiberrolle; die Bezeichnung „nur Nutzer“ schafft keine allgemeine Ausnahme. Eigenentwicklung, Entwicklung im Auftrag und Änderungen unter eigenem Namen können weitere Rollen auslösen. Juristische Texte allein machen ein System nicht zur Justiz-KI.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Erfassen Sie Werkzeug und Version, Vertragspartner, tatsächliche Funktionen, vorgesehene Entscheidungen, betroffene Personen, verwendete Daten, Zugänge, bisherige Betriebszeitpunkte und Änderungen. Trennen Sie interne Entwürfe, Mandanteninteraktion, Veröffentlichung und Personalentscheidungen. Eine Anbieterfolie ersetzt keine Funktionsbeschreibung.
 
-## Spezialwissen
+## 3. Ablauf und Checkliste
 
-Kanzleien und Rechtsabteilungen, die externe KI-Dienste beruflich nutzen, sind in aller Regel "Betreiber" im Sinne der KI-Verordnung (KI-VO, Verordnung (EU) 2024/1689). Als Betreiber unterliegen sie spezifischen Pflichten, die sich von den Pflichten der "Anbieter" (Hersteller) unterscheiden. Dieser Skill erläutert die relevanten Pflichten und gibt Textbausteine für die Richtlinie.
+### 3.1. Einstieg und Rolle
 
-## Rechtlicher Hintergrund
+Fragen Sie, ob zunächst eine Bestandsaufnahme, die Freigabe eines bestimmten Einsatzes oder ein fertiger Richtlinienbaustein benötigt wird. Verarbeiten Sie vorhandene Unterlagen sofort. Prüfen Sie Artikel 2 und 3 sowie einen möglichen Rollenwechsel nach Artikel 25. Nicht jede Konfiguration ist eine wesentliche Änderung; nicht jede Eigenentwicklung bleibt bloße Nutzung.
 
-Art. 3 Nr. 4 KI-VO: "Betreiber" — wer ein KI-System in eigener Verantwortung beruflich verwendet, also typischerweise eine Kanzlei, die einen externen KI-Dienst nutzt. Art. 3 Nr. 3 KI-VO: "Anbieter" — wer ein KI-System entwickelt und in Verkehr bringt; Kanzleien sind in der Regel keine Anbieter. Art. 4 KI-VO: Pflicht zur KI-Kompetenz (seit 2. Februar 2025 in Kraft). Art. 6 Abs. 2 KI-VO i.V.m. Anhang III Nr. 8.a: Hochrisiko-KI für Justizbehörden — Anwaltschaft ist keine staatliche Justizbehörde, daher in der Regel kein Hochrisiko-Tatbestand. Art. 6 Abs. 3 KI-VO: Rückausnahmen vom Hochrisiko-Status. Art. 50 Abs. 4 KI-VO: Kennzeichnungspflicht für öffentliche Informationstexte — Ausnahme bei redaktioneller Verantwortung. Art. 3 Nr. 63 KI-VO: GPAI-Modell (KI-Modell mit allgemeinem Verwendungszweck).
+### 3.2. Funktion und Zeit
 
-## Strategische Optionen (vor dem Template entscheiden)
+Prüfen Sie verbotene Praktiken nach Artikel 5 zuerst. Prüfen Sie beide Hochrisikopfade nach Artikel 6 mit Anhang I und Anhang III. Ein Bewerbungsscore kann Anhang III Nummer 4 erfüllen. Im Anhang-III-Pfad muss eine Ausnahme nach Absatz 3 fehlendes erhebliches Risiko einschließlich fehlender wesentlicher Entscheidungsbeeinflussung und mindestens eine der Fallgruppen a bis d tragen. Profiling sperrt die Ausnahme. Der Anbieter dokumentiert und registriert auch die erfasste Ausnahmebewertung nach Absatz 4 und Artikel 49 Absatz 2.
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Artikel 113 Buchstabe c betrifft Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 02.12.2027, Anhang I ab 02.08.2028. Bestand nach Artikel 111 und Normen außerhalb dieser Verschiebung gesondert prüfen. Keine pauschale sofortige Registerpflicht für jeden Altbestand und keine pauschale Befreiung bis 2028 behaupten.
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Betreiberpflichten KI-VO checklisten-artig aufbereiten | Checkliste nach Schema; Template unten |
-| Variante A — Kanzlei ist nicht Betreiber nur Nutzer | Nutzer-Pflichten statt Betreiber-Pflichten prüfen |
-| Variante B — Hochrisiko-KI nach Annex III KI-VO betroffen | Erweiterte Pflichten-Checkliste für Hochrisiko-Systeme |
-| Variante C — KI-System noch in Entwicklung kein Einsatz | Planungs-Checkliste; Betreiberpflichten ab Inbetriebnahme |
+### 3.3. Kompetenz und Transparenz
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+Artikel 4 neuer Fassung verlangt angemessene Maßnahmen zur Unterstützung der Entwicklung von KI-Kompetenz. Einweisung, Quellenprüfung und Eskalation am Arbeitsplatz können solche Maßnahmen sein. Weder individuelles Erfolgsniveau noch Jahreskurs oder Zertifikat sind allgemein vorgeschrieben. Dokumentieren Sie angemessene Maßnahmen und erkannte Lücken.
 
-## Vorlagentext / Bausteine
+Artikel 50 getrennt nach Anbieter/Betreiber und Funktion prüfen. Ein interner anwaltlicher Entwurf ist nicht allein ein veröffentlichter Text zu Angelegenheiten öffentlichen Interesses. Ein Kanzleiblog kann den Texttatbestand erfüllen; tatsächliche menschliche Überprüfung oder redaktionelle Kontrolle und die verantwortliche Person sind zu belegen. Eine Unterschrift allein ist keine pauschale Ausnahme. Deepfake-Offenlegung bleibt eigenständig. Artikel 111 Absatz 4 verlängert nur Artikel 50 Absatz 2 bei erfassten generativen Alt-Systemen bis 02.12.2026.
 
-**Baustein Betreiber-Status:**
-Die Kanzlei handelt beim Einsatz externer KI-Dienste als Betreiber im Sinne des Art. 3 Nr. 4 KI-VO. Als Betreiber ist die Kanzlei verpflichtet, die KI-Systeme entsprechend den Anweisungen der Anbieter zu nutzen und sicherzustellen, dass das damit befasste Personal über ausreichende KI-Kompetenz nach Art. 4 KI-VO verfügt.
+### 3.4. Hochrisiko-Betrieb
 
-**Baustein Hochrisiko-Abgrenzung:**
-Gewöhnliche anwaltliche Recherche ist nicht allein wegen des juristischen Inhalts Hochrisiko nach Anhang III Nummer 8 Buchstabe a. Zweckbestimmung für eine Justizbehörde oder in deren Auftrag sowie die dort erfasste alternative Streitbeilegung gesondert prüfen. Personalentscheidungen können Anhang III Nummer 4 betreffen. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 gelten in diesem Anhang-III-Pfad nach Artikel 113 in der Fassung 2026/1744 ab 2. Dezember 2027; Artikel 111 zum Bestand ergänzen.
+Artikel 26 Absatz 1: geeignete technische und organisatorische Maßnahmen für Nutzung nach Betriebsanleitung. Absatz 2: zuständige Personen für menschliche Aufsicht mit Kompetenz, Ausbildung, Befugnis und Unterstützung. Absatz 4: kontrollierte Eingabedaten müssen zweckbezogen relevant und ausreichend repräsentativ sein. Absatz 5: Betrieb überwachen und bei den gesetzlichen Auslösern informieren, Nutzung aussetzen oder melden. Absatz 6: kontrollierte automatisch erzeugte Protokolle grundsätzlich mindestens sechs Monate aufbewahren, soweit anderes einschlägiges Recht nichts anderes vorsieht. Nicht sämtliche Daten unbegrenzt speichern.
 
-**Baustein Kennzeichnungspflicht:**
-Eine gesetzliche Pflicht zur Kennzeichnung KI-generierter Inhalte in anwaltlichen Schriftsätzen besteht nach Art. 50 Abs. 4 KI-VO nicht, da Schriftsätze nicht an die "Öffentlichkeit über Angelegenheiten von öffentlichem Interesse" gerichtet sind und der Anwalt durch seine Unterschrift die redaktionelle Verantwortung übernimmt. Bei Kanzlei-Blogs, Pressemitteilungen oder öffentlichen Beiträgen ohne individuelle menschliche Endkontrolle ist eine Kennzeichnung hingegen geboten.
+Absatz 7: betroffene Arbeitnehmervertretung und Beschäftigte vor Verwendung am Arbeitsplatz informieren. Absatz 11: Information natürlicher Personen bei den dort erfassten entscheidungsbezogenen Anhang-III-Einsätzen. Diese Pflichten ersetzen keine arbeitsrechtliche Mitbestimmung und keine Datenschutzinformation.
 
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
+Eine FRIA nach Artikel 27 ist nicht für jede private Kanzlei mit HR-System verpflichtend. Prüfen Sie die genannten öffentlichen Einrichtungen, privaten Erbringer öffentlicher Dienstleistungen und Betreiber von Systemen nach Anhang III Nummer 5 Buchstaben b/c; Nummer 2 ist ausgenommen. DSFA nach Artikel 35 DSGVO separat prüfen. Technische Dokumentation Artikel 11, Risikomanagement Artikel 9 und Konformitätsbewertung Artikel 43 sind nicht ohne Rollenwechsel allgemeine Betreiberaufgaben.
 
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
+### 3.5. Ergebnis und Fortsetzung
 
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+Ordnen Sie jede Maßnahme einer Person und einem Nachweis zu. Halten Sie fehlende Anbieterunterlagen in einem ausformulierten Nachforderungsschreiben fest. Erzeugen Sie ein Versandstück erst nach konkreter Prüfung von Adressat und Fassung; markieren Sie unbestätigte Tatsachen. Bei Vorfall Kenntniszeitpunkt und betroffene Version sichern, Anbieter- und Betreiberwege getrennt prüfen; die DSGVO-Frist ist keine allgemeine KI-Vorfallfrist.
 
-## Hinweise zur Aktualisierung
+## 4. Quellenpflicht
 
-Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen KI-Büros konkretisiert. Neue Leitlinien zu Betreiber-Pflichten oder zu GPAI-Modellen sind regelmäßig zu beobachten. Ebenso ist die Umsetzung der KI-VO in nationales deutsches Recht (KI-Aufsichtsbehörde, Bußgeldvorschriften) zu verfolgen.
+Prüfstand 09.10.2026: [Amtliche KI-Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), insbesondere Artikel 2 bis 6, 25 bis 27, 49, 50, 111 und 113, einschließlich Änderung 2026/1744 und Berichtigung 29.09.2026. Notieren Sie Absatz, Tatsachenbeleg und Grenze. Artikel 29 betrifft Konformitätsbewertungsstellen, keine zusätzlichen allgemeinen Betreiberpflichten. Eine nationale Zuständigkeit muss anhand geltenden Organisationsrechts belegt werden; eine Gesetzesankündigung reicht nicht.
 
-## Faktische Updates (Stand 05/2026)
+## 5. Ausgabeformat
 
-- Artikel 4 neuer Fassung seit 27. Juli 2026: Kanzleien treffen einsatzbezogene Maßnahmen zur Förderung der Kompetenz; kein bestimmtes Niveau ist zu garantieren. Zertifikat und jährlicher Pflichtkurs sind nicht vorgeschrieben. Artikel 99 enthält keine pauschale Bußgeldandrohung für jeden Verstoß gegen Artikel 4; konkrete Sanktion, Fachpflicht und Geltungsbeginn getrennt belegen.
-- Artikel 50 grundsätzlich seit 2. August 2026: Absatz 1 betrifft Anbieter direkt interagierender Systeme, Absatz 2 technische Anbieterkennzeichnung, Absatz 3 Betreiberhinweise bei Emotionserkennung und Biometrie, Absatz 4 Deepfakes und gesondert bestimmte Texte öffentlichen Interesses. Eine anwaltliche Unterschrift ist keine pauschale Ausnahme; tatsächliche Prüfung, Veröffentlichungskontext und redaktionelle Verantwortung nach dem jeweiligen Tatbestand prüfen. Artikel 111 Absatz 4 verlängert nur Absatz 2 für Altanbieter bis 2. Dezember 2026. [Rechtsstandkarte](../../references/digitaler-omnibus-2026.md).
-- Artikel 26 (Betreiberpflichten Hochrisiko) nach Artikel 113 neuer Fassung bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028: Insbesondere bei Hochrisiko-Anwendungen in der Personalauswahl (Anhang III Nr. 4) — vor Einsatz Eignungspruefung, menschliche Aufsicht, Logging, Information betroffener Personen.
-- **Nationale Aufsicht:** In Deutschland ist die BNetzA als koordinierende KI-Aufsichtsbehoerde benannt; sektorale Zuständigkeiten (BfDI, BaFin, BAuA, Bundeskartellamt etc.) bleiben bestehen. Aktuellen Stand der nationalen KI-VO-Durchfuehrungsregelungen über bundestag.de / bmbf.de / bmwk.de live prüfen.
-- **GPAI Code of Practice:** Bei Nutzung von GPAI-Diensten (z.B. LLM-Chatbots) Anbieter-Code-of-Practice-Anschluss prüfen — kann für Kanzlei Dokumentations- und Sorgfaltsnachweise erleichtern.
-- **DORA / NIS-2:** Bei IT-Sicherheits- oder Cyber-Risiken im KI-Betrieb der Kanzlei parallel die einschlaegigen IT-Sicherheits-Regelwerke beachten (BSIG n. F., Art. 32 DSGVO).
+Liefern Sie einen ausformulierten Statusvermerk, einen unmittelbar verwendbaren Richtlinienbaustein und höchstens vier Tabellenspalten: Funktion/Rolle, Pflicht/Datum, Nachweis/Lücke, Verantwortung/Nächster Schritt. Exporte in Times New Roman 11 pt. Freigabe, dokumentierte Ausnahme und noch offene Prüfung sichtbar unterscheiden.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
-- Art. 29 KI-VO — Weitere Betreiberpflichten (Datenverwaltung, Anleitung-Einhaltung)
-- Art. 27 KI-VO — FRIA-Pflicht für bestimmte Betreiber
-- Art. 3 Nr. 4 KI-VO — Definition Betreiber
-- Art. 99 KI-VO — Bussgelder bis 15 Mio. EUR bei Betreiber-Verstossen
+## 6. Beispiele
 
-## Triage zu Beginn
-1. Handelt die Kanzlei als Betreiber nach Art. 3 Nr. 4 KI-VO — oder als Anbieter?
-2. Welche Hochrisiko-KI-Systeme (Anhang III) werden betrieben — welche Art. 26-Pflichten greifen?
-3. Ist eine menschliche Aufsicht nach Art. 26 Abs. 1 lit. b KI-VO sichergestellt?
-4. Werden Protokolle nach Art. 26 Abs. 1 lit. d KI-VO gefuehrt?
-5. Ist eine FRIA nach Art. 27 KI-VO erforderlich (öffentliche Stelle oder öffentlich finanzierter Dienst)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+Die Kanzlei will denselben Assistenten für interne Schriftsatzentwürfe, öffentliche Blogtexte und Bewerberranking nutzen. Erstellen Sie drei getrennte Funktionszeilen. Quellenkontrolle im Schriftsatz ersetzt keine Transparenzprüfung beim Blog und keine Hochrisiko-/Profilingprüfung im Personalbereich. Der Anbieter verspricht „vollständige Compliance durch ISO-Zertifikat“: Fordern Sie den konkreten Systembezug und erforderlichen Verfahrensnachweis an; ein Managementzertifikat allein entscheidet die Rechtsfrage nicht.
 
-## Output-Template — Betreiberpflichten-Checkliste KI-VO
-**Adressat:** Compliance / KI-Beauftragter — Tonfall: checklisten-strukturiert
-```
-BETREIBERPFLICHTEN-CHECKLISTE KI-VO
-[DATUM] — System: [SYSTEMNAME] — Klasse: [HOCHRISIKO / BEGRENZT / MINIMAL]
-
-Art. 26 KI-VO — Betreiberpflichten:
-☑/☐ Eignungspruefung des KI-Systems für geplanten Anwendungsfall (Art. 26 Abs. 1 lit. a)
-☑/☐ Anleitung des Anbieters befolgt (Art. 26 Abs. 1 lit. b)
-☑/☐ Menschliche Aufsicht sichergestellt (Art. 26 Abs. 1 lit. c)
-☑/☐ Eingabedaten relevant und ausreichend repraesentativ (Art. 26 Abs. 1 lit. d)
-☑/☐ Protokollierung der automatisch erzeugten Logs (Art. 26 Abs. 1 lit. e)
-☑/☐ Betroffene informiert bei HR/Kreditentscheidungen (Art. 26 Abs. 6)
-☑/☐ Widerspruchs- und Korrekturmechanismus implementiert (Art. 26 Abs. 6)
-
-Art. 27 KI-VO — FRIA:
-☑/☐ Nicht erforderlich (Begruendung: [BEGRUENDUNG])
-☑/☐ FRIA durchgefuehrt am [DATUM]
-
-Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
-Verantwortlicher: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Bei einem reinen Rechtschreibhelfer ohne Bewertungsfunktion begründen Sie die Begrenzung anhand der technischen Beschreibung. Wenn später eine Rangfolge oder Eignungsbewertung hinzukommt, eröffnen Sie die Einstufung erneut und halten die geänderte Version fest.

@@ -27,6 +27,12 @@ Artikel 26 Absatz 5 enthält Betreiberpflichten zur Überwachung und Information
 
 Bei einschlägigem Artikel 73 gilt die unverzügliche Meldung nach festgestelltem oder hinreichend wahrscheinlichem Zusammenhang, mit der allgemeinen äußeren Grenze von 15 Tagen. Die Sonderfälle mit zwei beziehungsweise zehn Tagen gesondert prüfen. Diese Grenzen sind keine frei verfügbare Wartezeit. Wenn Tatsachen noch fehlen, einen zulässigen vorläufigen Bericht mit kenntlichen Ermittlungsgrenzen erwägen. Neue Protokolle in die Chronologie und denselben Entwurf einarbeiten; unhaltbare Behauptungen ausdrücklich korrigieren.
 
+### 3.4 Medizinische und gerichtliche Änderungen zurückspielen
+
+Ein Fehlerbericht über verdeckte Bildbefunde kann zugleich die bisherige Annahme fehlender Sicherheitsrelevanz erschüttern. Den Befund an den Produktpfad zurückgeben; keine Meldeschwelle als Definition des Sicherheitsbauteils verwenden. Bei einer fehlerhaften gerichtlichen Zusammenfassung prüfen, ob der Fehler erkannt, übernommen oder entscheidungserheblich geworden ist. Fehlende körperliche Schäden beenden die Grundrechtsprüfung nicht.
+
+Eine Fristberechnung muss Kenntnisereignis, verantwortlichen Akteur, möglichen Kausalzusammenhang und einschlägigen Sonderfall ausweisen. Allgemeine Grenze, verkürzte Grenze und unverzügliche Handlung nicht vermischen. Bei medizinproduktrechtlich bereits geregelten Meldewegen die besonderen Abgrenzungen des Artikels 73 lesen; keine doppelte Vollmeldung allein wegen zweier Schlagworte vorbereiten. Ein Registereintrag nach Artikel 49 ersetzt niemals den Vorfallbericht.
+
 ## 4 Quellenpflicht
 
 Artikel 3 Nummer 49, Artikel 26 Absatz 5, Artikel 73 und Artikel 111/113 aktuell amtlich prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) sowie [Zitierweise](../../references/zitierweise.md) verwenden. Meldepflicht nach KI-Verordnung nicht mit Datenschutzverletzung, AGG-Anspruch oder arbeitsrechtlicher Beschwerde gleichsetzen; Parallelprüfung bei entsprechendem Sachverhalt abgrenzen.

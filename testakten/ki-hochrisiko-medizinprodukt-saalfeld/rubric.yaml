@@ -1,0 +1,55 @@
+name: ki-hochrisiko-medizinprodukt-saalfeld
+plugin: ki-verordnung-hochrisiko-pruefer
+description: Saalfeld Bildspur zwischen Archiv und Befundhilfe
+checks:
+  - id: datei-1
+    check_type: file_exists
+    description: Bitte Bildspur Produktpfad und geplanten Einsatz getrennt prüfen
+    path: 01_Auftrag.eml
+  - id: datei-2
+    check_type: file_exists
+    description: Bildspur Funktionsstände und Zweck
+    path: 02_Produktbeschreibung.docx
+  - id: datei-3
+    check_type: file_exists
+    description: Bildspur Laborbeobachtung S17
+    path: 03_Technischer_Fehlertest.pdf
+  - id: datei-4
+    check_type: file_exists
+    description: Komfortfunktion und persönliche Befundung
+    path: 04_Vertriebsargument.eml
+  - id: datei-5
+    check_type: file_exists
+    description: Stand der Unterlagen für Bildspur 2 0
+    path: 05_Herstellerstand_Produktrecht.pdf
+  - id: datei-6
+    check_type: file_exists
+    description: Zeitlich zugeordneter Projektchat
+    path: 06_Testlabor_Chat.txt
+  - id: datei-7
+    check_type: file_exists
+    description: Besprechung zu Bildauswahl und Rückfallweg
+    path: 07_Klinische_Besprechung.docx
+  - id: datei-8
+    check_type: file_exists
+    description: Arbeitsmappe zum synthetischen Test und zu den Angebotskosten
+    path: 08_Testdaten.eml
+  - id: datei-9
+    check_type: file_exists
+    description: Testzählung und Angebotsrechnung mit Formeln
+    path: 09_Testdaten_und_Kosten.xlsx
+  - id: datei-10
+    check_type: file_exists
+    description: Arbeitsentwurf zum Produktpfad von Bildspur
+    path: 10_Stellungnahme_Arbeitsentwurf.docx
+  - id: datei-11
+    check_type: file_exists
+    description: Angebot für die Fortführung des Bildspur Tests
+    path: 11_Kostenangebot.pdf
+  - id: datei-12
+    check_type: file_exists
+    description: Neue Gesamtansicht ist erst ein Vorschlag
+    path: 12_Hersteller_Nachtrag.eml
+  - id: dokumentenarbeit
+    check_type: human_review
+    description: Werden Auftrag, Belege, offene Tatsachen und vorhandener Entwurf zu einem ausformulierten Ergebnis zusammengeführt?

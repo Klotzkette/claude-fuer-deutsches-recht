@@ -1,109 +1,52 @@
 ---
 name: hochrisiko-art-6-abs-1-sicherheitsbauteil
-description: "Für Hochrisiko-digitale Werkzeuge: Sicherheitsbauteil — Art. 6 Abs. 1 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Produkt- und Sicherheitsbauteilbezug einschließlich der Absätze 1a bis 1c und des konkreten Drittbewertungsregimes. Erstellt einen belegten Einstufungsvermerk mit Anhang-I-Zuordnung und Verfahrensfolge.
 ---
 
-# Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO
+# Produkt und Sicherheitsbauteil nach Artikel 6 Absatz 1
 
-## Zwei kumulativ zu erfüllende Voraussetzungen
+## 1. Zweck und Anwendungsfall
 
-### Voraussetzung 1 — Sicherheitsbauteil oder Produkt selbst
+Beantworte, ob die konkrete Systemfassung unter Artikel 6 Absatz 1 fällt. Prüfe dessen zwei kumulativen Voraussetzungen; die bloße Verwendung von KI in einem regulierten Produkt genügt nicht.
 
-**Frage:** Ist das KI-System:
-- (A) Ein Sicherheitsbauteil eines Produkts? Ein Sicherheitsbauteil ist nach Art. 3 Nr. 14 KI-VO eine Komponente eines Produkts oder Systems, die eine Sicherheitsfunktion für das Produkt oder System erfüllt, oder deren Ausfall oder Fehlfunktion die Gesundheit und Sicherheit von Personen oder Sachen gefährdet.
-- (B) Oder selbst ein Produkt, das unter Anhang-I-Sektorrecht fällt?
+## 2. Eingaben
 
-**Abgrenzung:**
-- Ein KI-System zur Qualitätskontrolle in einer Maschine: Sicherheitsbauteil, wenn es die Maschinensicherheit gewährleistet
-- Ein autonomes Fahrzeugsystem: Kann selbst Produkt nach Anhang I sein
-- Ein KI-System für die Verwaltung (z.B. HR-Software): Kein Sicherheitsbauteil
+Produktbeschreibung, Zweckbestimmung, Sicherheitsanalyse, Ausfallfolgen, Produktklasse, vorgesehener Bewertungsweg, System- und Produktanbieter, Vermarktungsdatum und Änderungsverlauf. Fehlende Produktklassifikation gezielt anfordern; nicht aus einem CE-Zeichen erschließen.
 
-### Voraussetzung 2 — Anhang-I-Sektorrecht
+## 3. Ablauf und Checkliste
 
-Das Produkt (oder der Bereich des Sicherheitsbauteils) muss unter eines der in Anhang I aufgeführten Sektorrechtsakte fallen. Vollständige Liste:
+### 3.1. Produktbezug und Sicherheitsfunktion
 
-| Nr. | Sektorrechtsakt |
-|---|---|
-| 1 | Maschinenverordnung (EU) 2023/1230 |
-| 2 | Spielzeugrichtlinie 2009/48/EG |
-| 3 | Richtlinie 2006/42/EG (aufgehoben durch Maschinenverordnung, Übergangsregeln beachten) |
-| 4 | Richtlinie 2014/53/EU (Funkanlagen) |
-| 5 | Richtlinie 2014/34/EU (ATEX — Geräte in explosionsgefährdeten Bereichen) |
-| 6 | Richtlinie 2006/42/EG (Druckgeräte) — Verordnung (EU) 2014/68/EU |
-| 7 | Verordnung (EU) 2016/424 (Seilbahnen) |
-| 8 | Richtlinie 2013/29/EU (pyrotechnische Gegenstände) |
-| 9 | Richtlinie 2014/90/EU (Schiffsausrüstung) |
-| 10 | Richtlinie 2016/797/EU (Eisenbahnsystem) |
-| 11 | Verordnung (EU) 2018/858 (Kraftfahrzeuge) |
-| 12 | Verordnung (EU) 2019/2144 (Fahrzeugsicherheit) |
-| 13 | Verordnung (EU) 2018/1139 (Luftfahrt) |
-| 14 | Verordnung (EU) 2017/745 (Medizinprodukte — MDR) |
-| 15 | Verordnung (EU) 2017/746 (In-vitro-Diagnostika — IVDR) |
+Bestimme den konkreten Rechtsakt und Abschnitt des Anhangs I. Absatz 1 Buchstabe a erfasst das System als reguliertes Produkt oder als dessen Sicherheitsbauteil. Artikel 3 Nummer 14 und Artikel 6 Absätze 1a und 1b zusammen anwenden. Ausschließlich nicht sicherheitsrelevante Nutzerunterstützung, Optimierung, Effizienz, Automatisierung, Komfort oder Qualitätskontrolle fällt nicht allein deshalb darunter. **Ungeachtet** dieser Entlastung bleibt ein System Sicherheitsbauteil, wenn sein Ausfall oder seine Fehlfunktion Gesundheit und Sicherheit gefährden würde; die deutsche Berichtigung vom 29. September 2026 ausdrücklich berücksichtigen.
 
-**Prüffragen:**
-- Fällt das Produkt, in das das KI-System integriert ist, unter einen dieser Sektorrechtsakte?
-- Falls ja, welcher konkret?
+Fordere eine konkrete Wirkungskette: Fehlfunktion, fehlerhafte Produktreaktion, mögliche Verletzung, vorhandene unabhängige Sicherung. „Nur Assistenz“ und „Mensch entscheidet“ ersetzen sie nicht. Umgekehrt ist eine betriebliche Planungssoftware ohne Sicherheitsfunktion nicht schon wegen des Einsatzorts ein Sicherheitsbauteil.
 
-### Voraussetzung 3 — Drittprüfung nach Sektorrecht erforderlich
+### 3.2. Richtigen Anhangseintrag wählen
 
-Die dritte kumulativ erforderliche Voraussetzung: Das Produkt oder das KI-System als Sicherheitsbauteil muss nach dem einschlägigen Sektorrechtsakt einer Konformitätsbewertung durch eine dritte Partei (benannte Stelle) unterzogen werden.
+Abschnitt A enthält unter anderem Spielzeug, Sportboote, Aufzüge, ATEX, Funkanlagen, Druckgeräte, Seilbahnen, persönliche Schutzausrüstung, Gasgeräte, MDR und IVDR. Druckgeräte unterliegen hier der Richtlinie 2014/68/EU, nicht der Maschinenrichtlinie. Die Maschinenverordnung (EU) 2023/1230 steht nach der Änderung unter Nummer 21 in Abschnitt B. Abschnitt B umfasst außerdem die dort genau bezeichneten Luftfahrt-, Fahrzeug-, Schiffs- und Eisenbahnregime. Diese Beispiele sind keine Ersatzliste; den vollständigen aktuellen Anhang lesen und den präzisen Eintrag nennen.
 
-**Prüffragen:**
-- Sieht das einschlägige Sektorrecht eine Konformitätsbewertung durch eine benannte Stelle vor?
-- Ist die benannte Stelle für das KI-System zuständig oder nur für das Gesamtprodukt?
+Bei Abschnitt B ist Artikel 2 Absatz 2 mit seinem beschränkten Anwendungsumfang zuerst anzuwenden. Nicht die vollständige Abschnitt-A-Roadmap auf eine Maschine übertragen. Bei Mehrfachzuordnung jeden Pfad und das betreffende Produktmerkmal getrennt festhalten.
 
-**Wenn nur Selbstkonformitätsbewertung vorgesehen:** Art. 6 Abs. 1 KI-VO greift nicht. Prüfen Sie Art. 6 Abs. 2 KI-VO.
+### 3.3. Drittprüfung und Verfahrenswahl
 
-## Ergebnis des Entscheidungsbaums
+Absatz 1 Buchstabe b verlangt die nach dem einschlägigen Produktrecht erforderliche Drittbewertung. Nach Absatz 1c reicht eine Drittprüfung ausschließlich wegen anderer, nicht gesundheits- oder sicherheitsrelevanter Risiken nicht; Funk- oder EMV-Prüfung genau zuordnen. Eine freiwillig beauftragte Zertifizierung begründet keine gesetzliche Drittpflicht.
 
-**Hochrisiko nach Art. 6 Abs. 1 KI-VO, wenn:**
-- KI-System ist Sicherheitsbauteil oder Produkt nach Anhang I UND
-- Einschlägiges Sektorrecht erfordert Drittkonformitätsbewertung
+Die Einstufung und die verfügbare Verfahrenswahl unterscheiden. Artikel 43 Absatz 3 wahrt bei Abschnitt-A-Produkten die dort beschriebene produktrechtliche Wahl; ein Hochrisiko-Sicherheitsbauteil zwingt nicht allein zu einem neuen Drittverfahren. Produktklasse, Modulwahl und Voraussetzungen einer möglichen Normenanwendung dokumentieren. Kein pauschaler Satz „Hochrisiko bedeutet immer notifizierte Stelle“.
 
-**Keine Hochrisiko-Einstufung nach Art. 6 Abs. 1, wenn:**
-- KI-System ist kein Sicherheitsbauteil oder kein Produkt nach Anhang I (→ prüfe Art. 6 Abs. 2)
-- Sektorrecht erfordert keine Drittprüfung
+### 3.4. Abschluss und Anschluss
 
-**Folge bei Hochrisiko-Einstufung nach Art. 6 Abs. 1:**
-- Konformitätsbewertung durch benannte Stelle (kein reines Selbstbewertungsmodul möglich für das KI-System)
-- Koordination zwischen KI-VO-Konformitätsbewertung und Sektorrechts-Konformitätsbewertung
+Bei negativem Absatz-1-Ergebnis Absatz 2 mit Anhang III gesondert prüfen. Die Ausnahme des Absatzes 3 gilt allein für Absatz 2. Bei positivem Ergebnis Pflichtumfang, Produktregime und Zeitpunkt auseinanderhalten: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 nach Artikel 113 für Absatz 1 ab 2. August 2028; Artikel 111 und früher geltendes Produktrecht daneben. Für Artikel 43 die in der Rechtsstandreferenz erläuterte Zeitverschränkung offen prüfen. Danach an den [Konformitätsweg](../hochrisiko-konformitaetsbewertung-art-43/SKILL.md) übergeben.
 
----
+## 4. Quellenpflicht
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
+Artikel 2 Absatz 2, Artikel 3 Nummer 14, Artikel 6 Absätze 1 bis 1c, Artikel 43 Absatz 3, Artikel 111 und 113 sowie Anhang I der aktuellen Verordnung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+## 5. Ausgabeformat
 
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
+Ein Einstufungsvermerk mit zwei begründeten Tatbestandsentscheidungen, Produktbeleg, Sicherheits-Wirkungskette, fehlenden Nachweisen und passendem Verfahrensweg. Ein bestätigter Produktpfad ist noch keine Konformitätserklärung.
 
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO ART 6 ABS 1 SICHERHEITSBAUTEIL
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-Gepruefte Norm(en): [Art. 6 Abs. 1 Rn. 5]
+## 6. Beispiele
 
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine KI sortiert Wartungstermine einer Infusionspumpe, ohne ihre Dosierung oder Sicherheit zu beeinflussen: Funktion und Ausfallfolgen prüfen. Steuert dieselbe Anwendung dagegen die Dosierung oder verhindert ein Überdosierungsrisiko, kann trotz des Etiketts „Optimierung“ Sicherheitsbezug bestehen. Die tatsächliche MDR-Klasse und Bewertungsnorm bleiben gesondert nachzuweisen.

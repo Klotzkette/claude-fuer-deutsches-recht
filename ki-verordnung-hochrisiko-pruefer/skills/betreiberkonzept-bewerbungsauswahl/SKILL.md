@@ -33,6 +33,12 @@ Legen mehrere Agenten Bewerberdaten ab, bewerten sie und versenden Absagen, müs
 
 Für Störungen festlegen, wie laufende und delegierte Aufträge angehalten, ihr Vollzug geprüft und doppelte Absagen verhindert werden. Eine sichere Testprobe muss auch manipulierte Dokumentinhalte und unerwartete Werkzeugantworten abdecken. Keine generelle Speicherung jeder internen Modellüberlegung verlangen: nachvollziehbare Ereignisse, Versionen, Freigaben und relevante Ergebnisse mit Datenminimierung dokumentieren. Fehlende technische Kontrolle führt zum Nachforderungsschreiben, nicht zu einer unbelegten Freigabe.
 
+### 3.5 Aufsicht von anderen Instrumenten abgrenzen
+
+Artikel 14 beschreibt die Ausgestaltung menschlicher Aufsicht am Hochrisikosystem, Artikel 26 Absatz 2 deren kompetente und befugte Umsetzung beim Betreiber. Im Arbeitsablauf muss stehen, welche Originale vorliegen, wann eingegriffen wird und wer übersteuert. Die bloße Ernennung eines KI-Beauftragten löst diese Fragen nicht. Artikel 9 ist System-Risikomanagement, Artikel 17 Anbieter-Qualitätsmanagement; ein privater Arbeitgeber übernimmt nicht durch eine Betriebsanweisung sämtliche Anbieterpflichten.
+
+Eine Grundrechte-Folgenabschätzung nach Artikel 27 folgt nicht pauschal aus jedem HR-Einsatz. Den dort genannten Betreiberkreis und gegebenenfalls öffentliche Dienstleistung gesondert subsumieren. Eine Datenschutz-Folgenabschätzung besitzt andere Voraussetzungen; vorhandene Unterlagen dürfen integriert werden, aber nicht einfach umbenannt. In einer Personalakte keine umfangreiche Datensammlung allein mit „Bias-Prüfung“ legitimieren. Artikel 4a und dessen kumulative Voraussetzungen gehören in eine eigenständige Datenprüfung.
+
 ## 4 Quellenpflicht
 
 Artikel 26, ergänzend Artikel 14 und 111/113 in geltender Fassung amtlich prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) und [Zitierweise](../../references/zitierweise.md) beachten. Gesetzliche Pflicht, vertragliche Vorgabe und eigene organisatorische Empfehlung kenntlich trennen. Datenschutz und Mitbestimmung nicht als durch KI-Einstufung erledigt behandeln.

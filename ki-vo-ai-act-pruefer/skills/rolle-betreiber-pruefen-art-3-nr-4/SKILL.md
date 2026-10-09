@@ -1,111 +1,50 @@
 ---
 name: rolle-betreiber-pruefen-art-3-nr-4
-description: "Für Rolle-Check: Betreiber — Art. 3 Nr. 4 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Bestimmt die Verwendung eines KI-Systems in eigener Verantwortung. Bezieht Eigenentwicklungen und mehrere Rollen ein und trennt Hochrisikobetrieb, Transparenz, Privatnutzung und möglichen Anbieterwechsel.
 ---
 
-# Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO
+# Betreiberrolle und konkrete Einsatzpflichten
 
-## Legaldefinition — Art. 3 Nr. 4 KI-VO
+## 1. Zweck und Anwendungsfall
 
-Betreiber (deployer) ist eine natürliche oder juristische Person, Behörde, Einrichtung oder sonstige Stelle, die ein KI-System in eigener Verantwortung verwendet, es sei denn, das KI-System wird im Rahmen einer persönlichen, nicht beruflichen Tätigkeit verwendet.
+Erstelle eine begründete Betreiberentscheidung für die tatsächliche Nutzung. Der Betreiber muss kein fremdes System einsetzen; Anbieter und Betreiber können dieselbe Person sein.
 
-## Entscheidungsbaum
+## 2. Eingaben
 
-### Schritt 1 — Verwendung eines fremden KI-Systems?
+Einsatzentscheidung, Weisungen, Kontrolle, Organisationszugehörigkeit, Zweck, Berechtigungen, private oder berufliche Tätigkeit und konkrete Kommunikations- oder Entscheidungsfunktion. Beschäftigte, Auftragnehmer und verantwortliche Organisation nicht pauschal gleichsetzen.
 
-**Frage A:** Nutzen Sie ein KI-System, das nicht von Ihnen entwickelt wurde, und haben Sie es nicht wesentlich verändert?
+## 3. Ablauf und Checkliste
 
-- Ja → weiter zu Schritt 2
-- Nein (eigene Entwicklung oder wesentliche Veränderung) → möglicherweise Anbieter; → `rolle-anbieter-pruefen-art-3-nr-3` oder `anbieter-werden-art-25`
+### 3.1. Eigene Verantwortung bestimmen
 
-### Schritt 2 — Verwendung in eigener Verantwortung
+Artikel 3 Nummer 4 knüpft an Verwendung in eigener Verantwortung an. Eigene Entwicklung oder wesentliche Änderung beseitigt diese Rolle nicht; daneben kann Anbieterstellung bestehen. Bei Beschäftigten unter Weisung und Kontrolle regelmäßig die Organisation als Verantwortliche untersuchen, bei selbständiger Nebenleistung die konkrete Eigenverantwortung neu prüfen.
 
-**Frage B:** Verwenden Sie das System in eigener Verantwortung — das heißt, Sie entscheiden selbst über Einsatzzweck, Bedingungen und Kontext?
+Die Ausnahme betrifft persönliche und nichtberufliche Tätigkeit. Artikel 2 Absatz 10 entlastet die entsprechenden Betreiberpflichten natürlicher Personen; daraus keine pauschale Aufhebung aller Anbieter- oder Modellpflichten für die Anwendung ableiten. Berufliche Tätigkeit wird durch ein Privatkonto nicht persönlich-nichtberuflich.
 
-- Ja → weiter zu Schritt 3
-- Nein (Sie agieren ausschließlich als technischer Dienstleister für einen Dritten, der alle Entscheidungen trifft) → möglicherweise kein Betreiber; Klärung erforderlich
+### 3.2. Pflichtzweige getrennt prüfen
 
-### Schritt 3 — Ausnahme: Persönliche, nicht berufliche Nutzung
+Artikel 26 betrifft Hochrisikosysteme. Er gilt nicht schon allein deshalb, weil ein allgemeiner Chatbot oder GPAI-System benutzt wird. Bei Hochrisiko sind anleitungsgemäße Verwendung, kompetente und befugte Aufsicht nach Absatz 2, kontrollierte geeignete und repräsentative Eingabedaten nach Absatz 4, Überwachung und Vorfälle nach Absatz 5 sowie kontrollierte Logs nach Absatz 6 zu prüfen. Die Logdauer ist zweckangemessen mindestens sechs Monate vorbehaltlich abweichenden anwendbaren Rechts, nicht stets exakt sechs Monate.
 
-**Frage C:** Handelt es sich um eine ausschließlich persönliche, nicht berufliche Nutzung?
+Arbeitgeber informieren Arbeitnehmervertreter und betroffene Arbeitnehmer nach Absatz 7. Die Information natürlicher Personen über die sie betreffende Entscheidung oder Unterstützung eines Anhang-III-Hochrisikosystems folgt Absatz 11. Beide Informationen nicht vertauschen. Bei schwerwiegendem Vorfall genügt nicht allein die Mitteilung an den Anbieter; gesetzliche Reihenfolge und weitere Empfänger aus Absatz 5 anwenden.
 
-- Nein (berufliche, gewerbliche, behördliche Nutzung) → Betreiber-Rolle bestätigt
-- Ja (rein private Nutzung durch natürliche Person) → kein Betreiber; KI-VO gilt nicht (Art. 2 Abs. 10 KI-VO)
+Artikel 27 verlangt den dort bestimmten Betreiberkreis und schließt Anhang III Nummer 2 aus. Öffentliche Stelle oder öffentliches Unternehmen nicht ohne Prüfung gleichsetzen. Private Arbeitgeberrolle allein erzeugt keine FRIA. Artikel 50 hat unabhängig von Hochrisiko seine eigenen Betreiberpflichten für Emotionen, biometrische Kategorisierung, Deepfakes und bestimmte öffentliche Texte.
 
-**Grenzfälle:**
-- Freelancer, Selbstständige, Freiberufler, die das System für ihre Arbeit nutzen → Betreiber (nicht rein privat)
-- Unternehmen, das das System für interne Prozesse nutzt → Betreiber
-- Öffentliche Stellen, die das System für ihre Aufgaben nutzen → Betreiber (mit verschärften Pflichten nach Art. 27 KI-VO)
+### 3.3. Änderungen und Weiterführung
 
-## Ergebnis
+Artikel 25 nur anhand seiner Merkmale anwenden. Nicht jede neue Eingabe, Konfiguration oder wesentlich andere Geschäftsabsicht bewirkt automatisch Hochrisiko-Anbieterstellung. Tatsächliche Änderung, fortbestehende oder neu begründete Hochrisikoeinstufung und Eigenmarke getrennt prüfen.
 
-**Betreiber bestätigt, wenn:**
-- Sie ein fremdes (nicht selbst entwickeltes, nicht wesentlich verändertes) KI-System nutzen UND
-- die Nutzung in eigener Verantwortung erfolgt UND
-- die Nutzung nicht ausschließlich privat ist
+Den Betreibervermerk mit Systemfassung, tatsächlicher Verantwortung und einschlägigen Informations- oder Betriebsprodukten abschließen. Artikel 111 und 113 gesondert berücksichtigen. Bereits geltendes Arbeits-, Datenschutz- oder Produktrecht nicht bis zum verschobenen Hochrisikodatum zurückstellen.
 
-## Pflichten als Betreiber (Überblick)
+## 4. Quellenpflicht
 
-Bei Hochrisiko-KI:
-- Bestimmungsgemäße Verwendung nach Gebrauchsanweisung des Anbieters (Art. 26 Abs. 1 KI-VO)
-- Menschliche Aufsicht sicherstellen (Art. 26 Abs. 2 KI-VO)
-- Eingabedaten-Qualität sicherstellen (Art. 26 Abs. 3 KI-VO)
-- Protokollaufbewahrung sechs Monate (Art. 26 Abs. 6 KI-VO)
-- Informationspflicht gegenüber betroffenen Personen (Art. 26 Abs. 7 KI-VO)
-- Meldung schwerwiegender Vorfälle an Anbieter (Art. 26 Abs. 5 KI-VO)
-- Grundrechte-Folgenabschätzung für öffentliche Stellen und bestimmte Privatbetreiber (Art. 27 KI-VO)
+Artikel 2 Absatz 10, Artikel 3 Nummer 4, Artikel 25 bis 27, 50, 111 und 113; Transparenzleitlinien Randnummern 12 bis 17 zur Organisationsverantwortung als unverbindliche Auslegung. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-Detail: → `betreiber-deployer-pflichten-art-26`
+## 5. Ausgabeformat
 
-## Wann wird der Betreiber zum Anbieter?
+Ein ausformulierter Rollen- und Einsatzvermerk mit passenden Folgeprodukten. Anbieter-/Betreiber-Doppelrolle ausdrücklich abbilden; fehlender Hochrisikobefund ist keine allgemeine rechtliche Freigabe.
 
-Wenn der Betreiber:
-- Das System unter eigenem Namen vermarktet
-- Das System wesentlich verändert (technisch, im Einsatzzweck, in der Zielgruppe)
-- Einen bestimmungsgemäßen Zweck hinzufügt, der sich erheblich vom ursprünglichen unterscheidet
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-→ dann greift Art. 25 KI-VO: Betreiber wird zum Anbieter → `anbieter-werden-art-25`
+## 6. Beispiele
 
-## Betreiber und GPAI-Systeme
-
-Wer ein GPAI-System (z.B. einen Chatbot auf Basis eines Foundation-Modells) als Betreiber einsetzt, unterliegt in der Regel den Betreiber-Pflichten nach Art. 26 KI-VO. Die KI-VO-Pflichten des GPAI-Modell-Anbieters liegen beim Modellanbieter — aber der Betreiber muss sicherstellen, dass er das System bestimmungsgemäß einsetzt.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — ROLLE BETREIBER PRUEFEN ART 3 NR 4
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 3 Nr. 4 Rn. 6]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Eine Ärztin verwendet einen allgemeinen Chatdienst für ihre Praxis über ein Privatkonto. Der Einsatz ist beruflich. Ob Artikel 26 gilt, entscheidet jedoch die konkrete Hochrisikoeinstufung; der Produktname Chatbot allein genügt nicht. Eigene medizinische Entscheidungsfunktionen und andere Rechtsgrundlagen bleiben zu prüfen.

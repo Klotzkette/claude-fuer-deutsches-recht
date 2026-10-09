@@ -26,7 +26,11 @@ Erfasse unabhängig davon Erzeugungs-, Änderungs- und Veröffentlichungsdatum d
 
 Nach einer Antwort zur Arbeitgeberkontrolle ändere die konkrete Akteurszuordnung im bestellten Memorandum. Nach einem Versionsnachweis ändere nur den betroffenen Zeitpfad, nicht automatisch sämtliche Veröffentlichungsempfehlungen. Dokumentiere die stärkste Gegenposition und warum die vorhandene Quelle sie trägt oder nicht trägt.
 
+Beim Quellenabgleich vom 9. Oktober 2026 wurden Artikel 50, 111 und 113 amtlich erneut gelesen. Die deutsche Berichtigung vom 29. September betrifft Artikel 6 Absatz 1b, erweitert also nicht die Übergangsregel des Artikels 111 Absatz 4. Aus Reformankündigung oder Leitlinienwortlaut keinen zusätzlichen Aufschub ableiten.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 Nutze [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 1 und 2, und [Zitierweise](../../references/zitierweise.md). Verifiziere die aktuelle Normfassung amtlich. COM(2025) 837 ist nicht mit der verabschiedeten KI-Änderungsverordnung gleichzusetzen. Keine erfundene Rechtsprechung als Rollenbeleg.
 
@@ -34,8 +38,8 @@ Nutze [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 1 un
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
+Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine Tabelle mit höchstens vier Spalten darf Akteur und Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
 
-## 6. Beispiel
+## 6. Beispiele
 
 „Der angestellte Anwalt hat den Artikel erzeugt; ist er persönlich kennzeichnungspflichtig?“ Lies Arbeitsorganisation und Veröffentlichungsbefugnis. Formuliere die Rollenentscheidung für Kanzlei und Beschäftigten; frage nur bei widersprüchlichen Kontrollrechten nach. Erstelle keine zusätzliche Datenschutzprüfung ohne Anlass oder Auftrag.

@@ -27,7 +27,7 @@ description: "Für Norm-Historie und Änderungen: ordnet Norm, Beweislast und Ge
 - Art. 103 Abs. 2 GG — Rückwirkungsverbot im Strafrecht (nulla poena sine lege)
 - Art. 20 Abs. 3 GG — Rechtsstaatsprinzip: Vertrauensschutz gegen echte Rückwirkung
 - Art. 49 GRCh — Rückwirkungsverbot auf Unionsebene
-- Art. 99 KI-VO — gestaffeltes Inkrafttreten (August 2024 - August 2027)
+- Artikel 113 KI-Verordnung regelt Inkrafttreten und Anwendungsdaten; Artikel 111 Übergänge, Artikel 99 Sanktionen. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Prüfungsschritte
 
@@ -55,7 +55,7 @@ Liegt das Ereignis vor einer bekannten Normänderung?
 Bekannte wichtige Zäsuren:
 - Schuldrechtsmodernisierungsgesetz 01.01.2002 (BGB-Schuldrecht)
 - DSGVO-Geltungsbeginn 25.05.2018 (Datenschutz)
-- KI-VO Inkrafttreten 01.08.2024; Anwendung gestaffelt bis 2027
+- KI-Verordnung in Kraft seit 01.08.2024; Pflichten und Übergänge nach Artikel 111/113 getrennt datieren. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Telekommunikationsmodernisierungsgesetz 12.2021 (TKG)
 
 ### Schritt 3 — Übergangsvorschriften

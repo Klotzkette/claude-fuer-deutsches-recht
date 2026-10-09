@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23203 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23238 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -203,8 +203,11 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [ki-governance](./ki-governance.md) (60 Skills)
 - [ki-native-kanzlei](./ki-native-kanzlei.md) (30 Skills)
 - [ki-richtlinie-kanzleien](./ki-richtlinie-kanzleien.md) (60 Skills)
-- [ki-verordnung-hochrisiko-pruefer](./ki-verordnung-hochrisiko-pruefer.md) (9 Skills)
+- [ki-verordnung-hochrisiko-pruefer](./ki-verordnung-hochrisiko-pruefer.md) (11 Skills)
+- [ki-verordnung-konformitaet](./ki-verordnung-konformitaet.md) (11 Skills)
+- [ki-verordnung-register-meldungen](./ki-verordnung-register-meldungen.md) (11 Skills)
 - [ki-verordnung-transparenzpruefer](./ki-verordnung-transparenzpruefer.md) (8 Skills)
+- [ki-verordnung-verbotene-praktiken](./ki-verordnung-verbotene-praktiken.md) (11 Skills)
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (123 Skills)
 - [kommunale-haftpflicht](./kommunale-haftpflicht.md) (10 Skills)
 - [kommunalrecht-laender](./kommunalrecht-laender.md) (177 Skills)

@@ -1,0 +1,1544 @@
+Verordnung - EU - 2026/1744 - EN - EUR-Lex
+(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)
+var legislativeUrl = 'http://old.eur-lex.europa.eu/en/techleg/index.htm';
+        var eurovocUrl = 'http://eurovoc.europa.eu/drupal/';
+        var interStyleGuideUrl = 'http://publications.europa.eu/code/en/en-000100.htm';
+        var sessionExpired = false;
+        var pageUrl = '';
+        var queryString = 'uri=CELEX:32026R1744';
+        var sessionTimeout = '900000';
+{
+            "utility": "cck",
+            "url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html?locale=en#5.%20Cookies%20notice"
+        }
+document.addEventListener('DOMContentLoaded', function () {
+            (function(window, document, dataLayerName, id) {
+                window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+                function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+                var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+                var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+                tags.async=!0,tags.src="https://analytics.webanalytics.op.europa.eu/containers/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+                !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+            })(window, document, 'dataLayer','0b5594a8-b9c8-4cd6-aa25-5c578dcf91df');
+        }, { once: true });
+×
+Skip to main content
+Log in
+My EUR-Lex
+My EUR-Lex
+Sign in
+Register
+My recent searches (0)
+English
+English
+Select your language
+Official EU languages:
+bg
+български
+es
+Español
+cs
+Čeština
+da
+Dansk
+de
+Deutsch
+et
+Eesti keel
+el
+Ελληνικά
+en
+English
+fr
+Français
+ga
+Gaeilge
+hr
+Hrvatski
+it
+Italiano
+lv
+Latviešu valoda
+lt
+Lietuvių kalba
+hu
+Magyar
+mt
+Malti
+nl
+Nederlands
+pl
+Polski
+pt
+Português
+ro
+Română
+sk
+Slovenčina
+sl
+Slovenščina
+fi
+Suomi
+sv
+Svenska
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+Experimental features
+×
+Choose the experimental features you want to try
+Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback!
+Warning! Experimental feature conflicts detected.
+Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles.
+Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts.
+Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB.
+Apply
+$(document).ready(function() {
+		var conflicts = {};
+		
+		initializeFloatingBox(conflicts,$(document).find('.exp-feature-child-checkbox'),"");
+
+		var expOriginalTooltip = $('#expFeatHelp').attr('aria-description');
+		expOriginalTooltip = expOriginalTooltip.replace(/(<([^>]+)>)/ig,'');
+		$('#expFeatHelp').attr('aria-description',expOriginalTooltip);
+	});
+EUR-Lex
+Access to European Union law
+This document is an excerpt from the EUR-Lex website
+var home_lang = en;
+    $(document).ready(function(){
+        svg4everybody({ polyfill: true });
+        ECL.autoInit();
+    });
+
+    $(document).ready(function(){
+        $(".ecl-site-header__language-link--active").removeClass("ecl-site-header__language-link--active");
+        $(home_lang).addClass("ecl-site-header__language-link--active");
+    });
+You are here
+EUROPA
+EUR-Lex home
+Verordnung - EU - 2026/1744 - EN - EUR-Lex
+Help
+Print
+{
+                    "service": "share",
+                    "counter": false,
+                    "css": {
+                        "button": "myButton"
+                    },
+                    "link": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng"
+                }
+$(document).ready(function() {
+        $('.PageShare').each(function() { 
+            const target = this;
+            let observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (!mutation.addedNodes) return
+                    for (let i = 0; i < mutation.addedNodes.length; i++) {
+                        let node = mutation.addedNodes[i]
+                        if ($(node) != undefined && $(node).is("a") && $(node).hasClass("myButton") && $(node).find("i").length === 0) {
+                            $(node).prepend("<i class='fa fa-share-alt' aria-hidden='true'></i>")
+                            observer.disconnect();
+                        }
+                    }
+                })
+            })
+            observer.observe(target, {
+                subtree: true,
+                childList: true
+            });
+        });
+    });
+Menu
+EU law
+Treaties
+Treaties currently in force
+Founding Treaties
+Accession Treaties
+Other treaties and protocols
+Chronological overview
+Legal acts
+Consolidated texts
+International agreements
+Preparatory documents
+EFTA documents
+Lawmaking procedures
+Summaries of EU legislation
+Browse by EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union
+European Central Bank
+European Court of Auditors
+European Economic and Social Committee
+European Committee of the Regions
+Browse by EuroVoc
+EU case-law
+Case-law
+Reports of cases
+Directory of case-law
+Official Journal
+Access to the Official Journal
+Official Journal L series daily view
+Official Journal C series daily view
+Browse the Official Journal
+Legally binding printed editions
+Special edition
+National law and case-law
+National transposition
+National case-law
+JURE case-law
+Information
+Themes in focus
+EUR-Lex developments
+Statistics
+ELI register
+What is ELI?
+ELI background
+Why implement ELI?
+Countries implementing ELI
+Testimonials
+How to implement ELI
+Glossary
+EU budget online
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+$(document).ready(function() {
+			var quickSearchFld = $('#QuickSearchField.autocompleteField');
+			typeaheadFld(quickSearchFld, "./../../../autocomplete.html", true, 'QuickSearch');
+		});
+		var quickSearchHelpAlt="Use quotation marks to search for an &quot;exact phrase&quot;. Append an asterisk (<abbr title='Asterisk'>*</abbr>) to a search term to find variations of it (transp<abbr title='Asterisk'>*</abbr>, 32019R<abbr title='Asterisk'>*</abbr>). Use a question mark (<abbr title='Question mark'>?</abbr>) instead of a single character in your search term to find variations of it (ca<abbr title='Question mark'>?</abbr>e finds case, cane, care).";
+		var quickSearchHelp="Use quotation marks to search for an &quot;exact phrase&quot;. Append an asterisk (<abbr title='Asterisk'>*</abbr>) to a search term to find variations of it (transp<abbr title='Asterisk'>*</abbr>, 32019R<abbr title='Asterisk'>*</abbr>). Use a question mark (<abbr title='Question mark'>?</abbr>) instead of a single character in your search term to find variations of it (ca<abbr title='Question mark'>?</abbr>e finds case, cane, care).";
+Document 32026R1744
+Help
+Print
+{
+                    "service": "share",
+                    "counter": false,
+                    "css": {
+                        "button": "myButton"
+                    },
+                    "link": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng"
+                }
+$(document).ready(function() {
+        $('.PageShare').each(function() { 
+            const target = this;
+            let observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (!mutation.addedNodes) return
+                    for (let i = 0; i < mutation.addedNodes.length; i++) {
+                        let node = mutation.addedNodes[i]
+                        if ($(node) != undefined && $(node).is("a") && $(node).hasClass("myButton") && $(node).find("i").length === 0) {
+                            $(node).prepend("<i class='fa fa-share-alt' aria-hidden='true'></i>")
+                            observer.disconnect();
+                        }
+                    }
+                })
+            })
+            observer.observe(target, {
+                subtree: true,
+                childList: true
+            });
+        });
+    });
+Text
+Document information
+Procedure
+Up-to-date link
+Permanent link
+$(document).ready(function () {
+        if (readCookie('bookmark') == 'trigger') {
+            deleteCookie('bookmark');
+
+        } else {
+        	// Permanent link (DISPLAYED FIST) should remove qid from query string, and bookmark link should be displayed in its place when page refreshes
+            $('#link-permanent-link').addClass("onlyJsInlineBlock");
+            $('#link-permanent-link').show();
+        }
+    });
+Download notice
+Save to My items
+Create an email alert
+Create an RSS alert
+Table of contents
+Hide table of contents
+​
+Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) (Text with EEA relevance)
+Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI) (Text von Bedeutung für den EWR)
+Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI) (Text von Bedeutung für den EWR)
+PE/30/2026/REV/1
+ABl. L, 2026/1744,  24.7.2026, ELI:
+http://data.europa.eu/eli/reg/2026/1744/oj
+(BG, ES, CS, DA, DE, ET, EL, EN, FR, GA, HR, IT, LV, LT, HU, MT, NL, PL, PT, RO, SK, SL, FI, SV)
+In force
+ELI:
+http://data.europa.eu/eli/reg/2026/1744/oj
+Expand all
+Collapse all
+Languages, formats and authentic version
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF - authentic OJ
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+e-signature
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+How to verify the authenticity of the Official Journal
+Multilingual display
+Language 1
+English (en)
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Language 2
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Language 3
+Please choose
+Bulgarian (bg)
+Spanish (es)
+Czech (cs)
+Danish (da)
+German (de)
+Estonian (et)
+Greek (el)
+English (en)
+French (fr)
+Irish (ga)
+Croatian (hr)
+Italian (it)
+Latvian (lv)
+Lithuanian (lt)
+Hungarian (hu)
+Maltese (mt)
+Dutch (nl)
+Polish (pl)
+Portuguese (pt)
+Romanian (ro)
+Slovak (sk)
+Slovenian (sl)
+Finnish (fi)
+Swedish (sv)
+Display
+Text
+Amtsblatt
+der Europäischen Union
+DE
+Reihe L
+2026/1744
+24.7.2026
+VERORDNUNG (EU) 2026/1744 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 8. Juli 2026
+zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI)
+(Text von Bedeutung für den EWR)
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
+auf Vorschlag der Europäischen Kommission,
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
+nach Stellungnahme der Europäischen Zentralbank
+(
+1
+)
+,
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses
+(
+2
+)
+,
+nach Stellungnahme des Ausschusses der Regionen
+(
+3
+)
+,
+gemäß dem ordentlichen Gesetzgebungsverfahren
+(
+4
+)
+,
+in Erwägung nachstehender Gründe:
+(1)
+Mit der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates
+(
+5
+)
+wurden harmonisierte Vorschriften für künstliche Intelligenz (KI) mit dem Ziel festgelegt, das Funktionieren des Binnenmarkts zu verbessern, die Einführung einer auf den Menschen ausgerichteten und vertrauenswürdigen KI zu fördern und gleichzeitig ein hohes Schutzniveau in Bezug auf Gesundheit, Sicherheit und Grundrechte zu gewährleisten und Innovationen zu unterstützen. Die Verordnung (EU) 2024/1689 ist am 1. August 2024 in Kraft getreten. Ihre Bestimmungen werden schrittweise anwendbar; ab dem 2. August 2027 finden alle Vorschriften Anwendung.
+(2)
+Die Erfahrungen, die im Rahmen der Durchführung der bereits geltenden Teile der Verordnung (EU) 2024/1689 gesammelt wurden, können bei der Durchführung der Teile hilfreich sein, deren Anwendung noch aussteht. In diesem Zusammenhang haben die verzögerte Ausarbeitung von Normen, die technische Lösungen für Anbieter von Hochrisiko-KI-Systemen bieten, damit diese ihren Pflichten aus der genannten Verordnung nachkommen können, sowie die verzögerte Einrichtung der Governance- und Konformitätsbewertungsrahmen auf nationaler Ebene zu einem höheren Befolgungsaufwand geführt als erwartet. Darüber hinaus haben Konsultationen der Interessenträger ergeben, dass zusätzliche Maßnahmen erforderlich sind, die die Umsetzung und Einhaltung der Vorschriften erleichtern und präzisieren, ohne das mit den Bestimmungen der Verordnung (EU) 2024/1689 angestrebte Niveau des Schutzes der Gesundheit, der Sicherheit und der Grundrechte vor KI-bezogenen Risiken zu senken.
+(3)
+Es sind gezielte Änderungen der Verordnung (EU) 2024/1689 erforderlich, um bestimmte Herausforderungen bei der Durchführung im Hinblick auf die wirksame, einfache und einheitliche Anwendung der einschlägigen Vorschriften zu bewältigen.
+(4)
+Um KI-Innovationen im privaten und öffentlichen Sektor zu ermöglichen, ist es wichtig, dass die Kommission und die zuständigen Behörden der Mitgliedstaaten sicherstellen, dass die Aufsicht, Durchsetzung und Überwachung sektorspezifischer und nationaler Rechtsvorschriften nicht zu Überschneidungen, uneinheitlichen Auslegungen oder unterschiedlicher Durchsetzung führt.
+(5)
+Mit der Verordnung (EU) 2024/1689 werden horizontale Vorschriften für KI-Systeme festgelegt, um sicherzustellen, dass die öffentlichen Interessen in Bezug auf Gesundheit, Sicherheit sowie die Grundrechte einheitlich und in hohem Maße geschützt werden. Für die in Artikel 6 Absatz 1 genannten Hochrisiko-KI-Systeme gilt diese Verordnung in Verbindung mit den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union. In bestimmten Fällen können in diesen Harmonisierungsrechtsvorschriften der Union Anforderungen festgelegt werden, mit denen ein gleiches oder höheres Schutzniveau für die relevanten öffentlichen Interessen erreicht wird als durch die in der Verordnung (EU) 2024/1689 festgelegten spezifischen Anforderungen oder Verpflichtungen. In diesem Fall sollte es möglich sein, die Anwendung bestimmter Anforderungen oder Verpflichtungen, die in der Verordnung (EU) 2024/1689 festgelegt sind, einzuschränken, um die Einhaltung der Vorschriften zu erleichtern, den Verwaltungsaufwand und Doppelarbeit zu minimieren und gleichzeitig das durch diese Verordnung garantierte Schutzniveau zu wahren. Eine solche Einschränkung sollte möglich sein, sofern und soweit in den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union Anforderungen vorgesehen sind, die ein gleichwertiges Schutzniveau in Bezug auf Gesundheit, Sicherheit bzw. Grundrechte bieten wie die betreffende Anforderung bzw. Verpflichtung. Der Kommission sollte die Befugnis übertragen werden, delegierte Rechtsakte zur Ergänzung jener Verordnung zu erlassen, in denen solche Fälle ausgewiesen werden und die betreffenden Produkte, die Anforderungen oder Verpflichtungen, die beschränkt werden können, sowie die Bedingungen und der Umfang etwaiger Beschränkungen festgelegt werden, um sicherzustellen, dass das in der Verordnung (EU) 2024/1689 vorgesehene Schutzniveau nicht verringert wird.
+(6)
+Bei den meisten Unternehmen in der Union handelt es sich um kleine und mittlere Unternehmen, wobei die Mehrheit dieser Unternehmen Kleinstunternehmen und kleine Unternehmen sind. Unternehmen, die nicht mehr unter die Definition von Kleinstunternehmen sowie kleinen und mittleren Unternehmen (KMU) fallen — nämlich die „kleinen Midcap-Unternehmen“ —, spielen eine entscheidende Rolle in der Wirtschaft der Union. Im Vergleich zu KMU weisen kleine Midcap-Unternehmen in der Regel ein schnelleres Wachstumstempo sowie ein höheres Innovationsniveau und einen höheren Digitalisierungsgrad auf. Dennoch stehen sie hinsichtlich des Verwaltungsaufwands vor ähnlichen Herausforderungen wie KMU, was die Notwendigkeit einer verhältnismäßigen Durchführung der Verordnung (EU) 2024/1689 sowie gezielter Unterstützungsmaßnahmen nach sich zieht. Um Unternehmen den reibungslosen Übergang von KMU zu kleinen Midcap-Unternehmen zu ermöglichen, ist es wichtig, die Auswirkungen, die die genannte Verordnung auf die Tätigkeit dieser Unternehmen haben kann, sobald sie zu Midcap-Unternehmen werden und den für Großunternehmen geltenden Vorschriften unterliegen, kohärent zu berücksichtigen. Die Verordnung (EU) 2024/1689 sieht mehrere Maßnahmen für kleinere Akteure vor, die erforderlichenfalls auf kleine Midcap-Unternehmen ausgeweitet werden sollten, wobei die in der Verordnung (EU) 2024/1689 übergeordneten Ziele und das dort vorgesehene Schutzniveau zu wahren sind. Um die Behandlung der KMU und kleinen Midcap-Unternehmen in der Verordnung (EU) 2024/1689 zu präzisieren, müssen Definitionen für KMU und kleine Midcap-Unternehmen eingeführt werden, die den Definitionen im Anhang der Empfehlung 2003/361/EG der Kommission
+(
+6
+)
+bzw. im Anhang der Empfehlung (EU) 2025/1099 der Kommission
+(
+7
+)
+entsprechen sollten.
+(7)
+Der Begriff „Sicherheitsbauteil“ ist für die Einstufung bestimmter KI-Systeme als hochriskant gemäß der Verordnung (EU) 2024/1689 von entscheidender Bedeutung. Daher sollte der Begriff so gefasst werden, dass er — entsprechend dem risikobasierten Ansatz der genannten Verordnung — nur KI-Systeme umfasst, die sich nachteilig auf die Gesundheit und Sicherheit von Personen oder Eigentum auswirken könnten. Die Begriffsbestimmung in Artikel 3 Nummer 14 der Verordnung (EU) 2024/1689 bietet nicht die erforderliche Präzision, damit Anbieter von KI-Systemen festlegen können, ob ein KI-System als Sicherheitsbauteil einzustufen ist, und birgt daher die Gefahr die Einstufung als Hochrisiko-KI-System über das durch den risikobasierten Ansatz dieser Verordnung gerechtfertigte Maß hinaus auszudehnen. Daher ist es notwendig, diese Begriffsbestimmung zu ändern. Zunächst ist es erforderlich, den Begriff „Sicherheitsfunktion“ zu präzisieren. Bei der Sicherheitsfunktion sollte es sich um eine Zweckbestimmung des Systems handeln, die vom Anbieter des Systems festgelegt wird. Ein KI-System erfüllt dann eine Sicherheitsfunktion, wenn seine vom Anbieter festgelegte Zweckbestimmung darin besteht, Risiken für die Gesundheit und Sicherheit von Personen oder Eigentum abzuwenden oder zu mindern. Insbesondere sind hiervon KI-Systeme ausgenommen, die ausschließlich dazu bestimmt sind, Funktionen im Zusammenhang mit der Nutzerunterstützung, der Leistungsoptimierung, der Dienstleistungseffizienz, der Automatisierung, dem Bedienkomfort oder nicht sicherheitsrelevanter Aspekte der Qualitätskontrolle zu erfüllen. Die bloße Tatsache, dass ein KI-System in ein Produkt integriert ist oder in einem Produkt zum Einsatz kommt, das Harmonisierungsrechtsvorschriften der Union unterliegt, bedeutet an sich noch nicht, dass es eine Sicherheitsfunktion erfüllt.
+(8)
+Nach Artikel 4 der Verordnung (EU) 2024/1689 sind derzeit alle Anbieter und Betreiber von KI-Systemen verpflichtet, die KI-Kompetenz ihres Personals sicherzustellen. Der Erwerb von KI-Kompetenz, angefangen bei der allgemeinen und beruflichen Bildung bis hin zum lebenslangen Lernen, ist unerlässlich, um Anbieter, Betreiber und andere betroffene Personen mit den notwendigen Fähigkeiten auszustatten, damit sie fundierte Entscheidungen über den Einsatz von KI-Systemen treffen können. Die von den Interessenträgern geteilten Erfahrungen zeigen jedoch, dass eine Lösung, bei der strenge Verpflichtungen auferlegt werden, um ein ausreichendes Maß an KI-Kompetenz sicherzustellen, in Bezug auf die Förderung der KI-Kompetenz nicht für alle Arten von Anbietern und Betreibern geeignet wäre. Darüber hinaus deuten Daten darauf hin, dass die Auferlegung solcher Verpflichtungen — insbesondere für kleinere Unternehmen — einen zusätzlichen Befolgungsaufwand verursacht, während KI-Kompetenz unabhängig von gesetzlichen Verpflichtungen und möglichen Sanktionen eine strategische Priorität sein sollte. Angesichts dessen sollte Artikel 4 der Verordnung (EU) 2024/1689 dahin gehend geändert werden, dass die Anbieter und Betreiber verpflichtet sind, Maßnahmen zu ergreifen, um die KI-Kompetenz ihres Personals und anderer Personen, die in ihrem Auftrag mit dem Betrieb und der Nutzung von KI-Systemen befasst sind, zu fördern. Die Kommission und die Mitgliedstaaten sollten die Bemühungen der Anbieter und Betreiber von KI-Systemen unterstützen und erleichtern, unter anderem durch das Anbieten von Schulungen, das Bereitstellen von Informationsressourcen und die Ermöglichung des Austauschs bewährter Verfahren sowie andere Initiativen. Bei der Erfüllung dieser Verpflichtung könnten die Kommission und die Mitgliedstaaten die europäischen Kompetenzrahmen berücksichtigen, etwa den Referenzrahmen für digitale Kompetenzen der Bürgerinnen und Bürger (DigComp) und den KI-Kompetenzrahmen für die Primar- und Sekundarschulbildung. Das Europäische Gremium für künstliche Intelligenz (im Folgenden „KI-Gremium“) sollte die Kommission und die Mitgliedstaaten durch die Annahme von Empfehlungen unterstützen, in denen gemeinsame Ziele festgelegt werden, die zur Erfüllung ihrer Verpflichtungen zu erreichen sind, und einen regelmäßigen Austausch zwischen der Kommission und den Mitgliedstaaten zu diesem Thema sicherstellen, während die Allianz für KI-Anwendungen Gespräche mit der breiteren Öffentlichkeit ermöglichen sollte.
+(9)
+Die Erkennung und Korrektur von Verzerrungen stellt ein erhebliches öffentliches Interesse dar, da so natürliche Personen vor den nachteiligen Auswirkungen von Verzerrungen, einschließlich Diskriminierung, geschützt werden. Aus diesem Grund bietet die Verordnung (EU) 2024/1689 eine Rechtsgrundlage, die es Anbietern von Hochrisiko-KI-Systemen in bestimmten Ausnahmefällen und vorbehaltlich strenger Schutzmaßnahmen gestattet, besondere Kategorien personenbezogener Daten zu verarbeiten. Diese Rechtsgrundlage ist mit der Verpflichtung dieser Anbieter verknüpft, Verfahren zur Erkennung, Vermeidung und Korrektur jener Verzerrungen festzulegen, bei denen es wahrscheinlich ist, dass sie die Gesundheit und Sicherheit von Personen beeinträchtigen, negative Auswirkungen hinsichtlich der Grundrechte haben oder zu Diskriminierungen führen, die nach dem Unionsrecht verboten sind. Dennoch könnten Verzerrungen, bei denen diese Auswirkungen wahrscheinlich sind, auch auf das Handeln der Betreiber von Hochrisiko-KI-Systemen zurückzuführen sein. Darüber hinaus könnten solche Verzerrungen auch bei anderen KI-Systemen oder -Modellen auftreten. So können beispielsweise durch Verzerrungen in den Instrumenten zur Prüfung der Eignung oder Risikobewertung, die bei der Beurteilung von Anträgen auf verschiedene Arten öffentlicher Genehmigungen oder Lizenzen zum Einsatz kommen, Rechte beeinträchtigt oder bestimmte Gruppen wirksam am Zugang zu öffentlichen Dienstleistungen gehindert werden. Dementsprechend besteht ein erhebliches öffentliches Interesse daran, Anbietern und Betreibern anderer KI-Systeme und -Modelle sowie Betreibern von Hochrisiko-KI-Systemen ausnahmsweise und nur dann, wenn dies unbedingt erforderlich ist, die Verarbeitung besonderer Kategorien personenbezogener Daten zum Zwecke der Erkennung und Korrektur von Verzerrungen zu gestatten. Daher ist es erforderlich, die mit der Verordnung (EU) 2024/1689 geschaffene Rechtsgrundlage auf diese Anbieter und Betreiber auszuweiten. Diese Rechtsgrundlage sollte denselben Begrenzungen, Bedingungen und Schutzmaßnahmen unterliegen, die gemäß dem bestehenden Artikel 10 Absatz 5 jener Verordnung gelten, damit die Einhaltung von Artikel 9 Absatz 2 Buchstabe g der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates
+(
+8
+)
+, Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates
+(
+9
+)
+und Artikel 10 Buchstabe a der Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates
+(
+10
+)
+sichergestellt wird. Damit Anbieter von Hochrisiko-KI-Systemen zur Vorbereitung auf die Einhaltung der Anforderungen an Hochrisiko-KI-Systeme, einschließlich Artikel 10 Absatz 2 Buchstaben f und g der Verordnung (EU) 2024/1689, rechtmäßig Tätigkeiten zur Erkennung und Korrektur von Verzerrungen durchführen können, sollte die mit Artikel 4a der Verordnung (EU) 2024/1689 festgelegte Rechtsgrundlage ab dem Geltungsbeginn dieser Verordnung gelten.
+(10)
+Mit Artikel 5 der Verordnung (EU) 2024/1689 werden bestimmte Praktiken von KI-Systemen verboten, die besonders schädlich und missbräuchlich sind, im Widerspruch zu bestimmten Werten der Union stehen und bestimmte Grundrechte verletzen. Artikel 5 ist kontinuierlich zu überprüfen, wie in Artikel 112 Absatz 1 der genannten Verordnung festgelegt wurde. Angesichts der technologischen und gesellschaftlichen Entwicklungen seit der Annahme der genannten Verordnung, darunter die Einführung und weit verbreitete Nutzung von KI-Systemen, mit denen nicht einvernehmlich erstellte intime Bilder, Videos, Audioaufnahmen und ähnliches Material (im Folgenden „nicht einvernehmlich erstelltes intimes Material“) und Darstellungen von sexuellem Missbrauch von Kindern erzeugt werden, muss Artikel 5 der genannten Verordnung geändert werden.
+(11)
+Bei nicht einvernehmlich erstelltem intimem Material handelt es sich um sexuelle Gewalt gegen Einzelpersonen, insbesondere Frauen, und sexuellen Missbrauch dieser Personen. KI-Systeme, mit denen Material dieser Art erzeugt oder manipuliert wird, stellen eine gravierende Gefahr für Gesundheit, Sicherheit und für die Grundrechte dar, darunter die Menschenwürde, die persönliche Autonomie, die Unversehrtheit und das Privatleben der Opfer, und können zu potenziell schwerwiegenden, dauerhaften psychischen und sonstigen Schäden führen sowie massivem Missbrauch ermöglichen. Aufgrund der Verbreitung solcher Technologien, die häufig als „Nudify-Apps“ bezeichnet werden, ist ein ausdrückliches rechtliches Verbot dringend geboten. Darstellungen von sexuellem Missbrauch von Kindern, darunter vollständig oder teilweise per KI erzeugte Darstellungen, gefährden die Sicherheit und die Grundrechte von Kindern in erheblichem Maße. KI-Systeme, mit denen entsprechendes Material erzeugt oder manipuliert wird, stellen eine schwerwiegende Gefahr für die Menschenwürde und die Rechte des Kindes dar und bergen die Gefahr, dass sexuelle Gewalt gegen Kinder normalisiert, verstärkt und fortgesetzt wird. Dementsprechend ist eine Änderung von Artikel 5 der Verordnung (EU) 2024/1689 erforderlich, um Frauen, Kinder, sonstige Personen und die Gesellschaft vor schwerwiegenden schädlichen Praktiken zu schützen und so die Ziele der genannten Verordnung zu verfolgen und um Anbietern und Betreibern Klarheit über den Umfang ihrer Verpflichtungen zu verschaffen und auf diesem Wege die Herausforderungen bei der Umsetzung anzugehen.
+(12)
+Es ist notwendig, den Geltungsbereich des Verbots klar festzulegen, was insbesondere auch den Umfang der Verpflichtungen der Anbieter und Betreiber einschließt. Dieses Verbot sollte Anbieter nicht daran hindern, die technischen Kapazitäten von KI-Systemen zur Erzeugung oder Manipulation von Bildern, Videos, Audiodateien oder ähnlichem Material weiterzuentwickeln. In Bezug auf Anbieter sollte sich das Verbot auf das Inverkehrbringen und die Inbetriebnahme von KI-Systemen beschränken, mit denen nicht einvernehmlich erstelltes intimes Material oder Darstellungen von sexuellem Missbrauch von Kindern erzeugt oder manipuliert werden, und zwar in zwei Fällen. Erstens sollten Systeme erfasst werden, die dazu bestimmt sind, Material dieser Art zu erzeugen oder zu manipulieren. Zweitens sollten Systeme erfasst werden, bei denen eine solche Erzeugung oder Manipulation ein nach vernünftigem Ermessen absehbares und reproduzierbares Ergebnis ist und keine zumutbaren und angemessenen technischen Sicherheitsmaßnahmen sowie sonstige Schutzvorkehrungen bestehen, mit denen — unter dem Gesichtspunkt einer nach vernünftigem Ermessen absehbaren missbräuchlichen Nutzung — dieses Ergebnis zuverlässig verhindert und, falls erforderlich, korrigiert sowie beobachtete oder gemeldete missbräuchliche Nutzung, was auch die Umgehung solcher Maßnahmen einschließt, behoben wird. Zu den technischen Maßnahmen und sonstigen Schutzvorkehrungen, mit denen die Erzeugung solcher Inhalte verhindert werden soll, könnten Datenbereinigung, Ablehnungstraining, die Gestaltung sicherer Prompts und Ausgabekontrollen, Laufzeit-Leitplanken für Prompts, Mechanismen zur Klassifizierung und Filterung von Inhalten, Nutzungsbeschränkungen, Mechanismen zur Missbrauchserkennung sowie Melde- und Abhilfemechanismen gehören. Präventivmaßnahmen dieser Art sollten für das jeweilige KI-System zumutbar sein und gelten als angemessen, wenn sie mit dem Stand der Technik entsprechenden Maßnahmen übereinstimmen und nachweislich in jedem Einzelfall die Wahrscheinlichkeit der Erstellung oder Manipulation solcher Inhalte verhindern bzw. hinreichend verringern, wobei der bekannte und vernünftigerweise absehbare missbräuchliche Gebrauch zu berücksichtigen ist, einschließlich der nach vernünftigem Ermessen absehbaren Umgehung der Präventivmaßnahmen ohne wesentliche technische Änderungen. Für Anbieter, die die effektive Kontrolle über KI-Systeme behalten, beispielsweise über eine Plattform oder eine Webschnittstelle, könnte dies Verfahren zur Erfassung und Meldung von Missbrauchsfällen unter vollständiger Einhaltung der Datenschutzvorschriften der Union umfassen.In Fällen, in denen eine Umgehung der Präventivmaßnahmen oder anderer Schutzmaßnahmen beobachtet oder gemeldet wird, sollten angemessene Korrekturmaßnahmen ergriffen werden, sofern diese Maßnahmen unter Berücksichtigung des spezifischen KI-Systems, einschließlich seiner Freigabe- und Verbreitungsstrategie (z. B. quelloffene Freigaben), zumutbar sind. In Bezug auf Anbieter sollte die Verwendung eines KI-Systems nur verboten werden, wenn der Betreiber ein KI-System verwendet, um nicht einvernehmlich erstelltes intimes Material oder Darstellungen von sexuellem Missbrauch von Kindern zu erzeugen oder zu manipulieren. Dies umfasst Fälle, in denen ein Betreiber KI-Systeme nutzt oder zweckentfremdet, die auf den Markt gebracht oder in Betrieb genommen wurden, ohne dass zumutbare und angemessene Schutzmaßnahmen vorhanden sind, oder in denen ein Betreiber die Schutzmaßnahmen umgeht oder für solche Zwecke rechtskonforme KI-Systeme verwendet, die nicht für die Erstellung oder Manipulation von Material dieser Art bestimmt sind. Das Verwendungsverbot erstreckt sich daher nicht auf die Nutzung eines KI-Systems zu rechtmäßigen Zwecken, wie beispielsweise die Erstellung oder Manipulation von Inhalten, bei denen es sich nicht um nicht einvernehmlich erstelltes intimes Material oder Darstellungen von sexuellem Missbrauch von Kindern handelt, selbst in Fällen, in denen das KI-System nicht über zumutbare und angemessene Schutzvorkehrungen verfügt, die vom Anbieter hätten getroffen werden müssen; ebenso wenig erstreckt es sich auf die versehentliche Erstellung oder Manipulation solcher Inhalte. Was das Verbot in Bezug auf nicht einvernehmlich erstelltes intimes Materials betrifft, so sollten in Fällen, in denen ein KI-System für die Erzeugung oder Manipulation von Material bestimmt ist, das unter dieses Verbot fällt, Maßnahmen und andere Schutzvorkehrungen im Einklang mit der Verordnung (EU) 2016/679 angemessene Mittel umfassen, die für die Verbreitung des KI-Systems geeignet sind und die zuverlässige Erfassung und den Nachweis der Einwilligung der abgebildeten Person in eine solche Erstellung oder Manipulation ermöglichen. Das Verbot in Bezug auf nicht einvernehmlich erstelltes intimes Material sollte sich auf realistische Darstellungen intimer Körperteile, insbesondere der Genitalien, des Schambereichs, des Anus, des entblößten Gesäßes oder entblößte weiblicher Brüste, Brustwarzen oder Brustwarzenhöfe, bzw. auf Darstellungen sexuell eindeutiger Aktivitäten beschränken. Dieser „Realismus“ bezieht sich auf die Darstellung des Gesichts, der Stimme oder des Körpers der Person in einer glaubwürdigen realen Weise, unabhängig davon, wie realistisch der Kontext dieser Darstellung ist und ob sie der tatsächlichen Stimme oder dem tatsächlichen Erscheinungsbild der abgebildeten Person vollständig entspricht. Umgekehrt sind Karikaturen oder physisch unmögliche Darstellungen des Körpers einer Person ausgenommen. Das Verbot von nicht einvernehmlich erstellten intimen Materialien hat keinen Einfluss auf die Erstellung oder Manipulation anderer Formen von Nacktmaterial, wie beispielsweise Inhalte, die keine identifizierbaren natürlichen Personen zeigen, realistische teilweise Nacktdarstellungen, bei denen intime Körperteile nicht sichtbar sind und keine sexuell eindeutigen Handlungen dargestellt werden, sowie nicht-realistische künstlerische Nacktdarstellungen, die keine identifizierbaren natürlichen Personen realistisch bei sexuell eindeutigen Handlungen oder deren intime Körperteile zeigen. Es gilt auch nicht für generative KI-Anwendungen, bei denen intime Körperteile nicht gezeigt werden oder, falls doch, dies nur mit der aus freien Stücken erfolgenden, spezifischen, aufgeklärten, eindeutigen und ausdrücklichen Einwilligung der abgebildeten Person geschieht (beispielsweise Anprobe-Anwendungen und medizinische Anwendungen wie medizinische anatomische Simulationen und Mammographien); dieses Verbot schließt nicht die ausnahmsweise Nutzung von KI-Systemen aus, mit denen Nacktdarstellungen der intimen Körperteile einer identifizierbaren Person im Einklang mit den Grundrechten, einschließlich des Datenschutzrechts, und dem geltenden Medizinrecht zum Zwecke der medizinischen Diagnose und Behandlung durch medizinisches Fachpersonal erstellt oder bearbeitet werden, wenn die betroffene Person nicht in der Lage ist, ihre Einwilligung zu erteilen (beispielsweise in einer Notfallsituation). Schließlich schließt das Verbot der „Manipulation“ von nicht einvernehmlich erstelltem intimem Material Fälle aus, in denen bereits bestehendes intimes Material in einer Weise manipuliert wird, die weder die Sichtbarkeit der abgebildeten intimen Körperteile erhöht noch die Art der dargestellten sexuell eindeutigen Handlungen verändert; dazu zählt beispielsweise die bloße Optimierung eines bestehenden Bildes, das intime Körperteile zeigt, oder eines Videos, das sexuell eindeutige Handlungen zeigt, wie etwa das Ändern des Hintergrunds, das Hinzufügen einer Textüberschrift oder die Anpassung von Kontrast oder Helligkeit. Umgekehrt fällt jede Manipulation von Inhalten — einschließlich solcher, die bereits intime Körperteile oder sexuell eindeutige Handlungen zeigen —, die den Grad der Entblößung der dargestellten intimen Körperteile erhöht oder die Art der dargestellten sexuell eindeutigen Handlungen verändert, unter dieses Verbot.
+(13)
+Das Verbot von Darstellungen von sexuellem Missbrauch von Kindern sollte das Inverkehrbringen, die Inbetriebnahme oder die Nutzung eines KI-Systems nicht verhindern, wenn nach nationalem Recht das „unrechtmäßige“ Verhalten, worauf in Artikel 5 Absatz 1 der Richtlinie 2011/93/EU des Europäischen Parlaments und des Rates
+(
+11
+)
+verwiesen wird, als gerechtfertigt gilt. Dies umfasst Tätigkeiten, die im Rahmen innerstaatlicher Rechtsbefugnisse durchgeführt werden, wie beispielsweise die legitime Erstellung oder Manipulation von Material, das den sexuellen Missbrauch von Kindern darstellt, durch die Behörden zum Zwecke der Durchführung von Strafverfahren oder zur Prävention, Aufdeckung oder Untersuchung von Straftaten, sowie die rechtmäßige Nutzung des KI-Systems im Rahmen von Red-Teaming- und Evaluierungsmaßnahmen, um die Einhaltung des in dieser Verordnung festgelegten Verbots durch das System zu überprüfen.
+(14)
+Diese Verbote stellen gerechtfertigte Eingriffe in die Meinungs- und Informationsfreiheit sowie in die unternehmerische Freiheit dar. Sie verfolgen dem Gemeinwohl dienende Zielsetzungen und schützen die Rechte und Freiheiten anderer, einschließlich derjenigen, die in Artikel 1, Artikel 3 Absatz 1 sowie den Artikeln 4, 7, 8, 21, 23 und 24 der Charta der Grundrechte der Europäischen Union (im Folgenden „Charta“) festgelegt sind. Sie sind genau zugeschnitten. Im Falle von intimem Material beschränken sie sich auf realistische Darstellungen identifizierbarer natürlicher Personen sowie auf Fälle, in denen das KI-System dazu verwendet wird, den Grad der Nacktheit oder der Eindeutigkeit zu erhöhen; ausgenommen sind die Erstellung und Manipulation, die mit Zustimmung der betroffenen Person vorgenommen werden. Darüber hinaus beschränken sie sich darauf, von Anbietern zu verlangen, „zumutbare und angemessene“ Maßnahmen und Schutzvorkehrungen zu treffen, sofern es sich um Systeme handelt, die nicht für die Erstellung oder Manipulation des verbotenen Materials bestimmt sind. Sie stehen auch im Einklang mit dem geltenden Unionsrecht, einschließlich der Richtlinie 2011/93/EU und der Richtlinie (EU) 2024/1385 des Europäischen Parlaments und des Rates
+(
+12
+)
+. Die Eingriffe achten den Wesensgehalt der Artikel 11 und 16 der Charta, sind gesetzlich vorgeschrieben und verhältnismäßig.
+(15)
+Die unter diese Verbote fallenden Handlungen können auch gegen andere Rechtsvorschriften, einschließlich des Strafrechts, verstoßen. Die Verbote stehen einer Strafverfolgung nach diesen Rechtsvorschriften nicht entgegen. Soweit jedoch ein Verstoß gegen die Verbote zur Verhängung von Sanktionen strafrechtlicher Natur führen kann, die gemäß Artikel 99 Absatz 1 der Verordnung (EU) 2024/1689 festgelegt werden können, und soweit dieselbe Handlung strafrechtlich geahndet wird, einschließlich strafrechtlicher Sanktionen, die in den Anwendungsbereich der Richtlinien 2011/93/EU und (EU) 2024/1385 fallen, sind die Mitgliedstaaten verpflichtet, die Einhaltung des Grundsatzes des Verbots der doppelten Strafverfolgung im Einklang mit der Charta sicherzustellen.
+(16)
+Die Verbote gelten unbeschadet der Rechtsbehelfe, die Einzelpersonen nach nationalem Recht zur Verfügung stehen, um ihre Grundrechte, einschließlich des Rechts am eigenen Bild, des Rechts auf Privatsphäre und der Menschenwürde, zu schützen.
+(17)
+Zur Sicherstellung der Kohärenz, Vermeidung von Doppelarbeit und Minimierung des Verwaltungsaufwands im Zusammenhang mit dem Verfahren zur Benennung notifizierter Stellen gemäß der Verordnung (EU) 2024/1689 und unter Beibehaltung desselben Prüfniveaus sollten für neue Konformitätsbewertungsstellen und notifizierte Stellen, die im Rahmen der in Anhang I Abschnitt A der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union, wie etwa der Verordnungen (EU) 2017/745
+(
+13
+)
+und (EU) 2017/746 des Europäischen Parlaments und des Rates
+(
+14
+)
+, benannt wurden, ein einziger Antrag und ein einheitliches Bewertungsverfahren zur Verfügung stehen, wenn ein solcher Antrag und ein solches Verfahren im Rahmen dieser Harmonisierungsrechtsvorschriften der Union eingerichtet wurden. Mit dem einzigen Antrag und dem einheitlichen Bewertungsverfahren soll das Benennungsverfahren gemäß der Verordnung (EU) 2024/1689 erleichtert, unterstützt und beschleunigt und gleichzeitig die Einhaltung der Anforderungen sichergestellt werden, die für notifizierte Stellen gemäß der genannten Verordnung und den in Anhang I Abschnitt A der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union gelten. Das einheitliche Bewertungsverfahren sollte unter Berücksichtigung der Aufgaben und Zuständigkeiten der beteiligten Behörden durchgeführt werden. Darüber hinaus sollte präzisiert werden, dass eine Konformitätsbewertungsstelle, die gemäß mehr als einer der in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt wurde, nur einmal einen Antrag stellen sollte, um gemäß dieser Verordnung benannt zu werden.
+(18)
+Um die reibungslose Anwendung und Kohärenz der Verordnung (EU) 2024/1689 sicherzustellen, sollte sie geändert werden. In Artikel 43 Absatz 3 Unterabsatz 1 der Verordnung (EU) 2024/1689 sollte eine technische Korrektur vorgenommen werden, um die Konformitätsbewertungsanforderungen und die Anforderungen an Anbieter von Hochrisiko-KI-Systemen nach Artikel 16 der genannten Verordnung in Einklang zu bringen. Darüber hinaus sollte klargestellt werden, dass ein Anbieter eines Hochrisiko-KI-Systems, wenn er dem Konformitätsbewertungsverfahren gemäß den in Anhang I Abschnitt A der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union unterliegt und wenn die Konformitätsbewertung auch die Konformität des Qualitätsmanagementsystems der genannten Verordnung und der Harmonisierungsrechtsvorschriften der Union betrifft, im Einklang mit Artikel 17 Absatz 3 der Verordnung (EU) 2024/1689 Aspekte des Qualitätsmanagementsystems gemäß der genannten Verordnung als Teil der Qualitätsmanagementsysteme entsprechend diesen Harmonisierungsrechtsvorschriften der Union aufnehmen können sollte. Artikel 43 Absatz 3 Unterabsatz 2 der genannten Verordnung sollte geändert werden, um klarzustellen, dass notifizierte Stellen, die nach den in Anhang I Abschnitt A der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union notifiziert wurden und Hochrisiko-KI-Systeme bewerten sollen, die unter die in Anhang I Abschnitt A der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, berechtigt sein sollten, die Konformität von Hochrisiko-KI-Systemen unter bestimmten Bedingungen für eine Dauer von 18 Monaten ab dem 27. Juli 2026 zu bewerten. Diese Änderung lässt Artikel 28 der Verordnung (EU) 2024/1689 unberührt, sodass Konformitätsbewertungsstellen, die gemäß der genannten Verordnung benannt und notifiziert werden möchten, während und nach diesen 18 Monaten jederzeit einen Antrag stellen können. Ferner sollte die Verordnung (EU) 2024/1689 geändert werden, um klarzustellen, dass in Fällen, in denen ein Hochrisiko-KI-System sowohl unter die in Anhang I Abschnitt A der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union als auch unter einen der in Anhang III der genannten Verordnung aufgeführten Anwendungsfälle fällt, der Anbieter das einschlägige Konformitätsbewertungsverfahren gemäß diesen einschlägigen Harmonisierungsrechtsvorschriften befolgen sollte.
+(19)
+Die Verordnung (EU) 2024/1689 und die Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates
+(
+15
+)
+ergänzen einander, damit die Sicherheit und Cybersicherheit von Produkten mit digitalen Elementen sichergestellt wird. Artikel 12 der Verordnung (EU) 2024/2847 sieht vor, dass, wenn Hochrisiko-KI-Systeme und von Herstellern festgelegte Verfahren den in der Verordnung (EU) 2024/2847 festgelegten grundlegenden Cybersicherheitsanforderungen genügen, sie als mit den Cybersicherheitsanforderungen gemäß Artikel 15 der Verordnung (EU) 2024/1689 konform gelten, soweit diese Anforderungen von der nach der Verordnung (EU) 2024/2847 ausgestellten EU-Konformitätserklärung oder Teilen davon abgedeckt sind. Um das Zusammenspiel der Verordnung (EU) 2024/1689 und der Verordnung (EU) 2024/2847 besser zu verdeutlichen, sollte die Vorschrift aus Artikel 12 der Verordnung (EU) 2024/2847 auch in der Verordnung (EU) 2024/1689 Niederschlag finden. Das Zusammenspiel zwischen den beiden Instrumenten sollte nicht beeinträchtigt werden.
+(20)
+Gemäß Artikel 6 Absatz 1 der Verordnung (EU) 2024/1689 werden KI-Systeme als Hochrisiko-KI-Systeme eingestuft, wenn ein KI-System, das ein Bauteil eines Produkts ist, das unter die in Anhang I Abschnitt A der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union fällt, eine Sicherheitsbauteil ist und für dieses Produkt eine Konformitätsbewertung durch Dritte erforderlich ist. Die Anforderung, dass für ein solches Produkt eine Konformitätsbewertung durch Dritte erforderlich ist, berührt jedoch nicht die Wahl des Herstellers hinsichtlich des Konformitätsbewertungsverfahrens für ein solches Produkt. Wenn die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union die Wahl eines auf harmonisierten Normen basierenden Konformitätsbewertungsverfahrens unter den verschiedenen Konformitätsbewertungsverfahren zulassen, gilt diese Möglichkeit auch für Produkte, in die ein Hochrisiko-KI-System eingebettet ist. Artikel 6 Absatz 1 der Verordnung (EU) 2024/1689 sollte nicht so verstanden werden, dass Produkte, in die ein Hochrisiko-KI-System eingebettet ist, automatisch einer Konformitätsbewertung durch Dritte unterzogen werden müssen, an der eine notifizierte Stelle beteiligt ist. Wenn diese Möglichkeit in den Harmonisierungsrechtsvorschriften der Union vorgesehen ist, könnte sich der Anbieter des Produkts, in das das Hochrisiko-KI-System eingebettet ist, weiterhin auf harmonisierte Normen stützen, um die Anforderungen der Harmonisierungsrechtsvorschriften der Union und der Verordnung (EU) 2024/1689 als Konformitätsbewertungsverfahren zu erfüllen.
+(21)
+Zur Stärkung von Wettbewerbsfähigkeit und Innovation ist es von wesentlicher Bedeutung, Wirtschaftsakteure zu unterstützen, die gleichzeitig die Anforderungen oder Verpflichtungen gemäß Kapitel III Abschnitte 2 und 3 der Verordnung (EU) 2024/1689 und die einschlägigen Anforderungen und Verpflichtungen, die in den in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union festgelegt sind, erfüllen müssen. Um die Verfahren zur Einhaltung der Rechtsvorschriften für diese Wirtschaftsakteure zu unterstützen und zu vereinfachen, sollte die Kommission die europäischen Normungsorganisationen unverzüglich auffordern, Normungsprodukte, gegebenenfalls einschließlich harmonisierter Normen, auszuarbeiten. Diese Normungsprodukte sollten auf den im
+Amtsblatt der Europäischen Union
+veröffentlichten harmonisierten Normen beruhen, die die Vermutung der Konformität mit den Anforderungen bzw. Verpflichtungen der Verordnung (EU) 2024/1689 begründen, sowie auf allen im
+Amtsblatt der Europäischen Union
+veröffentlichten einschlägigen harmonisierten Normen, die die Vermutung der Konformität mit den einschlägigen Anforderungen bzw. Verpflichtungen begründen, die in den in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union festgelegt sind. Solche Normungsprodukte sollten dazu beitragen, die Rechtsunsicherheit zu verringern, unnötige Doppelarbeit bei Konformitätsbewertungstätigkeiten sowie Prüf-, Dokumentations- und Berichterstattungspflichten zu verhindern und die Befolgungskosten, insbesondere für kleine und mittlere Unternehmen und Start-up-Unternehmen, zu senken. Die rasche Ausarbeitung solcher Produkte ist äußerst wichtig, um den Wirtschaftsakteuren praktische und zuverlässige technische Lösungen an die Hand zu geben, die Rechtssicherheit zu stärken und das Inverkehrbringen, die Inbetriebnahme und die Verwendung von KI-Systemen im Einklang mit dieser Verordnung und den in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union zu erleichtern.
+(22)
+Um die Verfahren zur Sicherstellung der Einhaltung der Vorschriften zu straffen und damit verbundene Kosten zu senken, sollte die Registrierung der in Artikel 6 Absatz 3 der Verordnung (EU) 2024/1689 genannten KI-Systeme in der EU-Datenbank gemäß Artikel 49 Absatz 2 der genannten Verordnung vereinfacht werden, indem die nach Anhang VIII der genannten Verordnung erforderlichen Inhalte gestrafft werden. Zwar ist es für eine wirksame Marktüberwachung und die öffentliche Rechenschaftspflicht nach wie vor unerlässlich, dass solche KI-Systeme in der EU-Datenbank registriert werden, doch sollten die Registrierungsanforderungen vereinfacht und verhältnismäßiger gestaltet werden. Mit dieser Vereinfachung dürfte für mehr Ausgewogenheit gesorgt werden, ohne den in der Verordnung (EU) 2024/1689 vorgesehenen Schutz zu beeinträchtigen. Solche KI-Systeme gelten unter bestimmten Bedingungen nicht als hochriskant, wenn sie etwa kein erhebliches Risiko der Beeinträchtigung in Bezug auf die Gesundheit, Sicherheit oder Grundrechte natürlicher Personen bergen. Darüber hinaus bleibt ein Anbieter, der Artikel 6 Absatz 3 der Verordnung (EU) 2024/1689 anwendet, weiterhin verpflichtet, seine Bewertung zu dokumentieren, bevor dieses KI-System in Verkehr gebracht oder in Betrieb genommen wird. Die zuständigen nationalen Behörden sollten diese Bewertung beantragen können.
+(23)
+Die Artikel 57, 58 und 60 der Verordnung (EU) 2024/1689 sollten geändert werden, um die Zusammenarbeit von KI-Reallaboren auf Unionsebene weiter zu stärken, Klarheit und Kohärenz bei der Governance von KI-Reallaboren zu fördern und Hochrisiko-KI-Systeme, die unter die in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, in Tests unter Realbedingungen außerhalb von KI-Reallaboren einzubeziehen. Insbesondere um die Verfahren der in den KI-Reallaboren beaufsichtigten Projekte, die auch Tests unter Realbedingungen umfassen, gegebenenfalls zu vereinfachen, sollte der Plan für einen Test unter Realbedingungen in den von den Anbietern oder zukünftigen Anbietern und der zuständigen Behörden vereinbarten Plan für das Reallabor integriert werden.
+(24)
+Des Weiteren sollte dem Europäischen Büro für Künstliche Intelligenz (im Folgenden „Büro für Künstliche Intelligenz“) die Möglichkeit eingeräumt werden, auf Unionsebene ein KI-Reallabor für KI-Systeme einzurichten, die unter Artikel 75 Absatz 1 der Verordnung (EU) 2024/1689 fallen. Um für Kohärenz, Rechtssicherheit und eine effiziente Aufteilung der Aufsichtsaufgaben zwischen der Union und der nationalen Ebene zu sorgen, sollte der Zuständigkeitsbereich des auf Unionsebene eingerichteten KI-Reallabors klar festgelegt werden, um Überschneidungen mit den gemäß der genannten Verordnung eingerichteten nationalen KI-Reallaboren zu verhindern. Um Innovationen voranzutreiben und die Einführung von KI zu erleichtern, sollten KMU, einschließlich Start-up-Unternehmen, und kleine Midcap-Unternehmen vorrangigen Zugang zu den vom Büro für Künstliche Intelligenz eingerichteten KI-Reallaboren erhalten.
+(25)
+Darüber hinaus sollten die Bestimmungen über die Zusammenarbeit zwischen den für den Betrieb eines KI-Reallabors zuständigen Behörden präzisiert werden, um ihr wirksames Funktionieren sicherzustellen. Aus diesem Grund sollte sich die Befugnis der Kommission, Durchführungsrechtsakte zu erlassen, in denen die detaillierten Vorkehrungen für die Einrichtung, die Entwicklung, die Umsetzung, den Betrieb und die Beaufsichtigung von KI-Reallaboren festgelegt werden, auch auf Aspekte der Governance solcher Reallabore erstrecken. Soweit die KI-Reallabore auch innovative KI-Systeme umfassen, die personenbezogene Daten verarbeiten oder anderweitig der Aufsicht anderer nationaler Behörden oder zuständiger Behörden unterstehen, die den Zugang zu Daten gewähren oder unterstützen, sollten zudem die jeweils zuständigen Aufsichtsbehörden den Betrieb des KI-Reallabors begleiten und im Maße des Umfangs ihrer entsprechenden Aufgaben und Befugnisse in die Überwachung dieser Aspekte einbezogen werden.
+(26)
+Zur Förderung von Innovationen sollte auch der Anwendungsbereich der Tests unter Realbedingungen außerhalb von KI-Reallaboren nach Artikel 60 der Verordnung (EU) 2024/1689 ausgeweitet werden, die derzeit für die in Anhang III der genannten Verordnung aufgeführten Hochrisiko-KI-Systeme gelten; zudem sollte es Anbietern und zukünftigen Anbietern von Hochrisiko-KI-Systemen, die unter die in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, ermöglicht werden, solche Systeme auch unter Realbedingungen zu testen, wobei ausreichende Schutzmaßnahmen zu treffen sind. Das übrige Unionsrecht oder nationale Recht für das Testen von Hochrisiko-KI-Systemen unter Realbedingungen im Zusammenhang mit Produkten, die unter diese Harmonisierungsrechtsvorschriften der Union fallen, bleibt davon unberührt.
+(27)
+Ferner sollte sichergestellt werden, dass es möglich ist, Hochrisiko-KI-Systeme, die unter die in Anhang I Abschnitt B der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, unter Realbedingungen zu testen. Diese Systeme unterliegen den in den jeweiligen sektoralspezifischen Rechtsvorschriften festgelegten Anforderungen und Verfahren; die genannte Verordnung ist für sie zumeist nicht unmittelbar relevant. In die entsprechenden sektorspezifischen Rechtsakte werden zu gegebener Zeit Anforderungen aufgenommen, die den Anforderungen gemäß Artikel 8 bis 15 der genannten Verordnung entsprechen. Daher sollte sichergestellt werden, dass die Mitgliedstaaten gestatten können, dass diese KI-Systeme unter Realbedingungen getestet werden, um ihre Konformität mit den in den Artikeln 8 bis 15 der genannten Verordnung festgelegten Anforderungen zu bewerten und zu überprüfen. Wenn die Mitgliedstaaten beschließen, Tests dieser Art zu gestatten, sollten sie gemäß der genannten Verordnung Rahmenvorschriften erlassen müssen, in denen die genauen Anforderungen für die Tests festgelegt sind. In der genannten Verordnung sollte festgelegt werden, welche wesentlichen Elemente diese Rahmenvorschriften enthalten müssen. Bei der Ausgestaltung der entsprechenden Rahmenvorschriften sollten die Mitgliedstaaten sicherstellen, dass Gesundheit, Sicherheit und Grundrechte natürlicher Personen umfassend geschützt werden. Vor der Inkraftsetzung der Rahmenvorschriften sollten die Mitgliedstaaten die Kommission davon in Kenntnis setzen. Tests unter Realbedingungen sollten den in Anhang I Abschnitt B der Verordnung (EU) 2024/1689 aufgeführten einschlägigen Harmonisierungsrechtsvorschriften der Union samt allen geltenden Bestimmungen über die Durchführung von Tests entsprechen. Die Anwendung des neuen Artikels über Tests unter Realbedingungen sollte davon jedoch unberührt bleiben.
+(28)
+Artikel 63 der Verordnung (EU) 2024/1689 bietet Kleinstunternehmen, die Anbieter von Hochrisiko-KI-Systemen sind, die Möglichkeit, die Verpflichtung zur Einrichtung eines Qualitätsmanagementsystems auf vereinfachte Weise zu erfüllen. Um die Einhaltung der Vorschriften für mehr Innovatoren zu erleichtern, sollte diese Möglichkeit auf alle KMU, einschließlich Start-up-Unternehmen, ausgeweitet werden.
+(29)
+Angesichts der wichtigen Rolle, die dem Büro für Künstliche Intelligenz hinsichtlich der wirksamen und koordinierten Governance der Verordnung (EU) 2024/1689 zukommt und durch die vorliegende Verordnung weiter gestärkt wird, sollte die Kommission dem Büro für Künstliche Intelligenz unbeschadet des nächsten mehrjährigen Finanzrahmens und des Haushaltsverfahrens angemessene personelle, finanzielle und technische Ressourcen bereitstellen, damit es seine Aufgaben im Zusammenhang mit der Durchsetzung der Verordnung (EU) 2024/1689 wirksam und innerhalb einer angemessen Zeit wahrnehmen kann, wobei dies auch die Zuweisung einer ausreichenden Zahl ständiger Mitarbeiter mit fundierten Kompetenzen und technischem Fachwissen einschließt.
+(30)
+Artikel 69 der Verordnung (EU) 2024/1689 sollte geändert werden, um die Gebührenstruktur des wissenschaftlichen Gremiums zu vereinfachen. Nehmen die Mitgliedstaaten das Fachwissen des Gremiums in Anspruch, sollten die für die Sachverständigen zu zahlenden Gebühren derjenigen Vergütung entsprechen, die die Kommission unter ähnlichen Umständen zu zahlen hat.
+(31)
+Um das Governance-System für KI-Systeme zu stärken, muss die Rolle, die das Büro für Künstliche Intelligenz bei der Überwachung und Beaufsichtigung der Konformität der KI-Systeme mit der Verordnung (EU) 2024/1689 spielt, präzisiert werden. Gemäß Artikel 88 der genannten Verordnung verfügt die Kommission in Bezug auf KI-Modelle mit allgemeinem Verwendungszweck über ausschließliche Befugnisse. Um die Kohärenz, Klarheit und Wirksamkeit zu erhöhen und angesichts der Reichweite und der Auswirkungen von KI-Systemen im Zusammenhang mit diesen Befugnissen sollte der Umfang der ausschließlichen Befugnis des Büros für Künstliche Intelligenz zur Überwachung von Systemen präzisiert werden. Insbesondere sollte das Büro für Künstliche Intelligenz die ausschließliche Befugnis für KI-Systeme haben, die auf KI-Modellen mit allgemeinem Verwendungszweck beruhen, und zwar nicht nur, wenn das System und das Modell von demselben Anbieter entwickelt werden, sondern auch, wenn sie von Anbietern entwickelt werden, die demselben Unternehmen angehören. In bestimmten Fällen und insbesondere bei einer speziellen branchenbezogenen Beaufsichtigung sollte die Zuständigkeit jedoch bei der jeweils zuständigen nationalen Behörde verbleiben. Dementsprechend sollten bestimmte Ausnahmen festgelegt werden. Der persönliche Geltungsbereich dieser ausschließlichen Zuständigkeit sollte sich auf die Anbieter dieser KI-Systeme und ihre Betreiber innerhalb desselben Unternehmens erstrecken. Andere Betreiber sollten weiterhin der nationalen Beaufsichtigung und Durchsetzung unterliegen. Zudem gilt dies nicht für KI-Systeme, die von Organen, Einrichtungen und sonstigen Stellen der Union in Verkehr gebracht, in Betrieb genommen oder verwendet werden und gemäß Artikel 74 Absatz 9 der Verordnung (EU) 2024/1689 der Beaufsichtigung des Europäischen Datenschutzbeauftragten unterliegen.
+(32)
+Des Weiteren ist es angesichts des bestehenden Aufsichts- und Durchsetzungssystems gemäß der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates
+(
+16
+)
+angezeigt, der Kommission die Befugnisse einer zuständigen Marktüberwachungsbehörde gemäß der Verordnung (EU) 2024/1689 zu übertragen, wenn ein KI-System als sehr große Online-Plattform oder sehr große Online-Suchmaschine nach Maßgabe der Verordnung (EU) 2022/2065 gilt oder in eine solche Plattform oder Suchmaschine eingebettet ist. So soll dazu beigetragen werden, dass die Aufsichts- und Durchsetzungsbefugnisse der Kommission gemäß der Verordnung (EU) 2024/1689 und der Verordnung (EU) 2022/2065 sowie die Befugnisse, die für in solche Plattformen oder Suchmaschinen integrierte KI-Modelle mit allgemeinem Verwendungszweck gelten, kohärent und wirksam ausgeübt werden. Dies ist auch in Anbetracht der Bedeutung angemessen, die diesen Plattformen und Suchmaschinen angesichts ihrer Reichweite, ihrer Auswirkungen und der mit ihnen verbundenen Gefahr, komplexe und umfangreiche gesellschaftliche Schäden zu verursachen, zukommt. Der persönliche Geltungsbereich dieser ausschließlichen Zuständigkeit sollte sich auf die Anbieter dieser KI-Systeme und ihre Betreiber innerhalb desselben Unternehmens erstrecken. Im Falle von KI-Systemen, die in einer sehr großen Online-Plattform oder Suchmaschine eingebettet sind oder als solche anzusehen sind, sind die in den Artikeln 34, 35 und 37 der Verordnung (EU) 2022/2065 vorgeschriebenen Risikobewertungen, Risikominderungsmaßnahmen und Prüfungspflichten der erste Ansatzpunkt für die Bewertung der KI-Systeme, unbeschadet der Befugnisse des Büros für Künstliche Intelligenz, Verstöße gegen die Vorschriften der Verordnung (EU) 2024/1689 nachträglich zu untersuchen und durchzusetzen. Im Zusammenhang mit der Analyse dieser Risikobewertungen, Risikominderungsmaßnahmen und Prüfungen können die für die Durchsetzung der Verordnung (EU) 2022/2065 zuständigen Kommissionsdienststellen die Stellungnahme des Büros für Künstliche Intelligenz zum Ergebnis einer möglichen früheren oder parallelen Risikobewertung, die gemäß der Verordnung (EU) 2024/1689 durchgeführt wurde, und zur Anwendbarkeit von Verboten gemäß der Verordnung (EU) 2024/1689 einholen. Darüber hinaus sollten das Büro für Künstliche Intelligenz und die zuständigen nationalen Behörden ihre Durchsetzungsbemühungen gemäß der Verordnung (EU) 2024/1689 mit den für die Beaufsichtigung und Durchsetzung der Verordnung (EU) 2022/2065 zuständigen Behörden, einschließlich der Kommission, koordinieren, um sicherzustellen, dass die Grundsätze der loyalen Zusammenarbeit und der Verhältnismäßigkeit sowie das Verbot der doppelten Strafverfolgung eingehalten werden, wobei die gemäß einer Verordnung erlangten Informationen nur dann für die Zwecke der Beaufsichtigung und Durchsetzung der anderen Verordnung zu verwenden sind, wenn das Unternehmen zustimmt. Damit sichergestellt ist, dass die insgesamt verhängten Geldbußen und Sanktionen angemessen sind und der Schwere der begangenen Zuwiderhandlung entsprechen, sollten diese Behörden insbesondere einen regelmäßigen Gedankenaustausch führen und in ihren jeweiligen Zuständigkeitsbereichen allen Geldbußen und Sanktionen Rechnung tragen, die im Wege einer rechtskräftigen Entscheidung in einem Verfahren wegen einer Zuwiderhandlung gegen andere Vorschriften der Union oder der Mitgliedstaaten wegen desselben Verhaltens gegen denselben Anbieter verhängt wurden.
+(33)
+Bei der Beaufsichtigung und Durchsetzung von Verpflichtungen in Bezug auf KI-Systeme in seinem Zuständigkeitsbereich hat das Büro für Künstliche Intelligenz die gleiche Funktion und Verantwortung wie eine Marktüberwachungsbehörde gemäß der Verordnung (EU) 2024/1689. Folglich muss das Büro für Künstliche Intelligenz über alle Befugnisse und Zuständigkeiten verfügen, die die Marktüberwachungsbehörden gemäß der genannten Verordnung und der Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates
+(
+17
+)
+haben (im Folgenden „allgemeine Befugnisse“). Diese sollten die angemessene und wirksame Durchsetzung der in der Verordnung (EU) 2024/1689 festgelegten Anforderungen und Verpflichtungen sicherstellen. Allerdings müssen bestimmte wesentliche Elemente und andere Aspekte der allgemeinen Befugnisse sowie die entsprechenden Schutzmaßnahmen präzisiert, ergänzt und eingeordnet werden (im Folgenden „spezifizierende Bestimmungen“). Insbesondere müssen Bestimmungen folgender Art festgelegt werden: Bestimmungen über die Beziehungen zwischen dem Büro für Künstliche Intelligenz und den nationalen Behörden, Bestimmungen zur Präzisierung, Ergänzung und Begrenzung der Befugnisse, Informationen anzufordern und Vor-Ort-Prüfungen durchzuführen, Bestimmungen über Untersuchungen, einschließlich der Möglichkeit, Verpflichtungszusagen für bindend zu erklären, und Bestimmungen, mit denen die Befugnis zur Feststellung von Verstößen, zur Verhängung von Geldbußen und zur Verhängung von Zwangsgeldern präzisiert und begrenzt wird. Wenn eine Art einer allgemeinen Befugnis auf diese Weise spezifiziert wurde, darf das Büro für Künstliche Intelligenz die Bedingungen und Grenzen, die bezüglich dieser Befugnisse bestehen, nicht dadurch umgehen, dass es sich auf eine damit verbundene allgemeine Befugnis stützt. Umgekehrt kann sich das Büro für Künstliche Intelligenz auf allgemeine Befugnisse solcher Art berufen, die in Bezug auf das Büro für Künstliche Intelligenz nicht präzisiert und begrenzt wurden, wie etwa die Befugnis zum Erlass von Maßnahmen gemäß Artikel 16 Absatz 3 der Verordnung (EU) 2019/1020. Soweit dies für die ordnungsgemäße Durchführung der Verordnung (EU) 2024/1689 erforderlich ist, kann die Kommission Durchführungsrechtsakte erlassen, in denen die Vorschriften und Verfahren für die Anwendung von Verjährungsfristen, die Akteneinsicht und die einvernehmliche Offenlegung von Informationen konkretisiert werden. Bei der Ausübung all dieser Befugnisse muss das Büro für Künstliche Intelligenz im Einklang mit der Charta handeln. Darüber hinaus unterliegt das Büro für Künstliche Intelligenz den in den spezifizierenden Bestimmungen festgelegten Schutzmaßnahmen und dem Schutz der Grundrechte.
+(34)
+Zusätzlich zu diesen Verfahrens- und Grundrechtsgarantien sollten die in Artikel 18 der Verordnung (EU) 2019/1020 vorgesehenen Verfahrensrechte unbeschadet der in der Verordnung (EU) 2024/1689 vorgesehenen spezifischeren Verfahrensrechte sinngemäß für die Anbieter von KI-Systemen gelten. Wenn die nationalen Marktüberwachungsbehörden das Büro für Künstliche Intelligenz über die zentrale Anlaufstelle ersuchen, Aufsichts- und Durchsetzungsmaßnahmen in Bezug auf KI-Systeme zu ergreifen, die seiner ausschließlichen Aufsicht unterliegen, sollte das Büro für Künstliche Intelligenz die zentrale Anlaufstelle spätestens vier Monate nach Eingang dieses Ersuchens über seine Absicht unterrichten, seine Aufsichts- und Durchsetzungsbefugnisse auszuüben, oder über die Gründe, aus denen es seine Befugnisse nicht ausübt. Beschließt das Büro für Künstliche Intelligenz, seine Aufsichts- und Durchsetzungsbefugnisse auszuüben, so sollte es die zentrale Anlaufstelle auch über das abschließende Ergebnis dieser Vorgänge und über zwischenzeitliche Entwicklungen informieren, die nach Ansicht des Büros für Künstliche Intelligenz erhebliche Auswirkungen auf die Untersuchung haben, einschließlich der Entscheidung, ein Verfahren einzuleiten, eine Geldbuße zu verhängen und das KI-System vom Markt zu nehmen oder zurückzurufen.
+(35)
+Um KI-Systemen, die nach Artikel 75 der Verordnung (EU) 2024/1689 der Beaufsichtigung des Büros für Künstliche Intelligenz und einer Konformitätsbewertung durch Dritte unterliegen, den Zugang zum Unionsmarkt zu ermöglichen, sollte die Kommission dafür verantwortlich sein, dem Inverkehrbringen vorgeschaltete Konformitätsbewertungen für diese Systeme durchzuführen.
+(36)
+Artikel 77 und die damit zusammenhängenden Bestimmungen der Verordnung (EU) 2024/1689 stellen einen wichtigen Governance-Mechanismus dar, da sie die für die Durchsetzung oder Beaufsichtigung des Unionsrechts zum Schutz der Grundrechte zuständigen Behörden oder Stellen dazu befähigen sollen, ihren Auftrag unter bestimmten Bedingungen zu erfüllen, und zugleich die Zusammenarbeit mit den für die Beaufsichtigung und Durchsetzung der genannten Verordnung zuständigen Marktüberwachungsbehörden fördern sollen. Es ist erforderlich, den Umfang dieser Zusammenarbeit zu präzisieren und klarzustellen, welche Behörden oder öffentlichen Stellen davon profitieren. Um die Zusammenarbeit zu verstärken, sollte klargestellt werden, dass Anträge auf Zugang zu Informationen und Unterlagen an die zuständige Marktüberwachungsbehörde gerichtet werden sollten, die unverzüglich auf entsprechende Anträge reagieren sollte, und dass die beteiligten Behörden oder Stellen gegenseitig zur Zusammenarbeit verpflichtet sein sollten. Es sollte präzisiert werden, dass diese Bestimmungen unbeschadet der Zuständigkeiten, Aufgaben, Befugnisse und Unabhängigkeit gelten, die die zuständigen nationalen Behörden oder öffentlichen Stellen im Rahmen ihres jeweiligen Auftrags haben. Insbesondere schränken diese Bestimmungen nicht die Befugnisse ein, über die diese Behörden und Stellen nach anderen Bestimmungen des Unionsrechts oder nationalem Recht verfügen, wenn es um die Einholung von Auskünften geht. Dementsprechend behalten diese Behörden und Stellen die Befugnis, Auskünfte gemäß ihrem Auftrag oder dem Unionsrecht oder nationalem Recht direkt bei den Betreibern einzuholen.
+(37)
+Die in der Verordnung (EU) 2024/1689 festgelegten Anforderungen an Hochrisiko-KI-Systeme betreffen spezifische Risiken, die KI-Systemen innewohnen und zu denen unter anderem Verzerrungen, ein unberechenbares Modellverhalten, mangelnde Robustheit oder Genauigkeit, die Anfälligkeit für Angriffe durch Dritte und die Intransparenz des KI-Systems zählen. Durch die Behandlung KI-spezifischer Risiken ergänzt die genannte Verordnung die Anforderungen der in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union, ohne sie zu duplizieren. Die Verordnung (EU) 2024/1689 sieht Mechanismen für die Wirtschaftsakteure vor, durch die der Befolgungsaufwand gering gehalten werden soll. Insbesondere Artikel 8 Absatz 2 über das Zusammenspiel mit den sektorspezifischen Rechtsvorschriften, Artikel 9 Absatz 10 über das Risikomanagement und Artikel 17 Absatz 3 über das Qualitätsmanagement ermöglichen es den Wirtschaftsakteuren, sofern erforderlich und angemessen eine Bewertung KI-spezifischer Risiken in bestehende Risiko- und Qualitätsmanagementsysteme zu integrieren. Gemäß Artikel 40 der Verordnung (EU) 2024/1689 muss die Kommission ferner angeben, dass die gemäß der genannten Verordnung entwickelten harmonisierten Normen mit den Normen konsistent sein müssen, die gemäß den in Anhang I der genannten Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union entwickelt wurden. Die Kommission sollte Leitlinien bereitstellen, um Wirtschaftsakteure von unter Anhang I der Verordnung (EU) 2024/1689 fallenden Hochrisiko-KI-Systeme bei der Einhaltung der genannten Verordnung zu unterstützen, wobei dies auch Leitlinien für die Anwendung von Artikel 8 Absatz 2, Artikel 9 Absatz 10 und Artikel 17 Absatz 3 der genannten Verordnung als Mechanismen zur Minimierung des Befolgungsaufwands im Einklang mit den Grundsätzen der Komplementarität und der Verhältnismäßigkeit umfassen sollte. Diese Leitlinien sollten spätestens bis zum 1. August 2027 veröffentlicht werden.
+(38)
+Um Anbietern generativer KI-Systeme, die den Kennzeichnungspflichten gemäß Artikel 50 Absatz 2 der Verordnung (EU) 2024/1689 unterliegen, ausreichend Zeit einzuräumen, um ihre Verfahren innerhalb einer angemessenen Frist anzupassen, ohne dabei den Markt zu stören, ist es angezeigt, einen Übergangszeitraum von vier Monaten für Anbieter einzuführen, die ihre Systeme bereits vor dem 2. August 2026 in Verkehr gebracht haben.
+(39)
+Um den Anbietern von Hochrisiko-KI-Systemen ausreichend Zeit einzuräumen und die für KI-Systeme, die bereits vor dem Geltungsbeginn der einschlägigen Bestimmungen der Verordnung (EU) 2024/1689 in Verkehr gebracht oder in Betrieb genommen wurden, geltenden Vorschriften zu präzisieren, sollte der Geltungsbereich der Übergangsfrist nach Artikel 111 Absatz 2 der genannten Verordnung präzisiert werden. Für die Zwecke von ebendiesem Artikel 111 Absatz 2 sollte die Übergangsfrist in Fällen gelten, in denen die betreffende Art und das betreffende Modell eines KI-Systems bereits in Verkehr gebracht wurde. Wenn also bereits eine einzelne Einheit des Hochrisiko-KI-Systems vor dem in Artikel 111 Absatz 2 genannten Datum rechtmäßig in Verkehr gebracht oder in Betrieb genommen wurde, gilt für andere einzelne Einheiten derselben Art und desselben Modells eines Hochrisiko-KI-Systems die in ebendiesem Artikel 111 Absatz 2 vorgesehene Übergangsfrist, und sie dürfen folglich ohne zusätzliche Verpflichtungen, Anforderungen oder Zertifizierung weiterhin auf dem Unionsmarkt in Verkehr gebracht, bereitgestellt oder in Betrieb genommen werden, solange die Gestaltung dieses Hochrisiko-KI-Systems unverändert bleibt. Für die Anwendung der Übergangsfrist nach Artikel 111 Absatz 2 ist das Datum entscheidend, an dem die erste Einheit dieser Art und dieses Modells eines Hochrisiko-KI-Systems erstmals auf dem Unionsmarkt in Verkehr gebracht oder in Betrieb genommen wurde. Jede signifikante Änderung der Gestaltung des betreffenden KI-Systems nach dem in Artikel 111 Absatz 2 genannten Datum sollte die Verpflichtung des Anbieters nach sich ziehen, alle einschlägigen für Hochrisiko-KI-Systeme geltenden Bestimmungen der genannten Verordnung, einschließlich der Anforderungen an die Konformitätsbewertung, in vollem Umfang einzuhalten.
+(40)
+In Artikel 113 der Verordnung (EU) 2024/1689 sind die Daten des Inkrafttretens und des Geltungsbeginns der Verordnung festgelegt, insbesondere, dass der allgemeine Geltungsbeginn der 2. August 2026 ist. In Bezug auf die in Kapitel III Abschnitte 1, 2 und 3 der Verordnung (EU) 2024/1689 festgelegten Verpflichtungen im Zusammenhang mit Hochrisiko-KI-Systemen führen die verzögerte Verfügbarkeit von Normen, gemeinsamen Spezifikationen und alternativen Leitlinien und die verzögerte Einrichtung der zuständigen nationalen Behörden zu Herausforderungen, die das wirksame Inkrafttreten dieser Verpflichtung gefährden und das Risiko einer derart erheblichen Erhöhung der Umsetzungskosten bergen, dass es nicht gerechtfertigt ist, ihren ursprünglichen Geltungsbeginn, d. h. den 2. August 2026, beizubehalten. Daher ist es angezeigt, den Geltungsbeginn von Kapitel III Abschnitte 1, 2 und 3 für KI-Systeme, die gemäß Artikel 6 Absatz 2 und Anhang III als hochriskant eingestuft sind, auf den 2. Dezember 2027 und für KI-Systeme, die gemäß Artikel 6 Absatz 1 und Anhang I als hochriskant eingestuft sind, auf den 2. August 2028 festzusetzen. Die unterschiedlichen Zeitpunkte des Geltungsbeginns der Vorschriften für KI-Systeme, die gemäß Artikel 6 Absatz 2 und Anhang III bzw. Artikel 6 Absatz 1 und Anhang I der genannten Verordnung als hochriskant eingestuft sind, richten sich nach den in der Verordnung (EU) 2024/1689 ursprünglich vorgesehenen Zeitpunkten des Geltungsbeginns und dienen dazu, die erforderliche Zeit für die Anpassung und Umsetzung der entsprechenden Verpflichtungen einzuräumen. Die rechtzeitige Verfügbarkeit von Unterstützungsinstrumenten, darunter klare Leitlinien, einschlägige Normen, gemeinsame Spezifikationen und Praxisleitfäden, ist wichtig, um die Einhaltung der Vorschriften zu erleichtern und das Risiko einer unterschiedlichen Auslegung und einer uneinheitlichen Anwendung der Vorschriften in den Mitgliedstaaten zu verringern. Um Rechtssicherheit zu gewährleisten und zu verhindern, dass es bei der Anwendung der Verordnung (EU) 2024/1689 zu weiteren Verzögerungen kommt, sollte die Kommission sicherstellen, dass mit Blick auf die Einhaltung von Kapitel III Abschnitte 1, 2 und 3 der genannten Verordnung rechtzeitig Unterstützungsmaßnahmen ergriffen werden, um eine rasche und wirksame Umsetzung der erforderlichen Bestimmungen zu gewährleisten.
+(41)
+Angesichts des Ziels, die Herausforderungen zu verringern, auf die Bürger, Unternehmen und öffentliche Verwaltungen bei der Umsetzung stoßen, ist es von wesentlicher Bedeutung, dass harmonisierte Bedingungen für die Anwendung bestimmter Vorschriften nur angenommen werden, wenn dies unbedingt erforderlich ist. Zu diesem Zweck ist es angezeigt, bestimmte der Kommission übertragene Befugnisse, solche harmonisierten Bedingungen im Wege von Durchführungsrechtsakten zu erlassen, zu streichen, wenn dies nicht der Fall ist. Artikel 50 Absatz 7, Artikel 56 Absatz 6 und Artikel 72 Absatz 3 der Verordnung (EU) 2024/1689 sollten daher geändert werden, um die der Kommission übertragenen Befugnisse zum Erlass von Durchführungsrechtsakten zu streichen. Da die in Artikel 50 Absatz 7 und Artikel 56 Absatz 6 genannten Praxisleitfäden nur begrenzte Rechtswirkung haben und insbesondere keine Konformitätsvermutung begründen, ist es nicht unbedingt erforderlich, dass diese Leitfäden im Wege eines Durchführungsrechtsakts genehmigt werden. Anbieter sollten sich gemäß Artikel 53 Absatz 4 und Artikel 54 Absatz 2 der Verordnung (EU) 2024/1689 auf Praxisleitfäden stützen können, die gemäß Artikel 56 Absatz 6 der genannten Verordnung als angemessen bewertet wurden. Die Streichung der Befugnis zur Annahme eines harmonisierten Musters des Plans für die Beobachtung nach dem Inverkehrbringen in Artikel 72 Absatz 3 der Verordnung (EU) 2024/1689 hat den zusätzlichen Vorteil, dass so den Anbietern von Hochrisiko-KI-Systemen mehr Flexibilität bei der Einrichtung eines auf ihre Organisation zugeschnittenen Systems für die Beobachtung nach dem Inverkehrbringen geboten wird. Gleichzeitig sollte die Kommission angesichts der Notwendigkeit, Klarheit darüber zu schaffen, wie Anbieter von Hochrisiko-KI-Systemen ihre in Artikel 72 Absatz 1 der Verordnung (EU) 2024/1689 festgelegte Pflicht erfüllen müssen, verpflichtet sein, bis zum 2. September 2027 Leitlinien zu dem Plan für die Beobachtung nach dem Inverkehrbringen, einschließlich eines freiwilligen Musters, zu veröffentlichen.
+(42)
+Der Einsatz künstlicher Intelligenz in Maschinen kann dazu beitragen, Innovationen zu fördern und die Effizienz dieser Maschinen zu steigern. Bei der Anwendung der Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates
+(
+18
+)
+und der Verordnung (EU) 2024/1689 könnten Überschneidungen entstehen. Gleichzeitig ist es wichtig, in Bezug auf Risiken im Zusammenhang mit dem Einsatz künstlicher Intelligenz in Maschinen ein Schutzniveau sicherzustellen, das dem in der Verordnung (EU) 2024/1689 in Bezug auf Hochrisiko-KI-Systeme vorgesehenen Schutzniveau entspricht. Um der Notwendigkeit Rechnung zu tragen, den Rechtsrahmen für KI-gestützte Maschinen zu vereinfachen, ist es angesichts der besonderen Eigenschaften von Maschinen und des Maschinenbausektors angezeigt, zu einem sektorspezifischen Ansatz überzugehen, indem die Verordnung (EU) 2023/1230 von Anhang I Abschnitt A in Abschnitt B der Verordnung (EU) 2024/1689 verschoben wird. Dementsprechend sollte erstens die Anwendung der Verordnung (EU) 2024/1689 auf diese Maschinen auf die in Artikel 2 Absatz 2 der genannten Verordnung genannten Bestimmungen beschränkt werden. Der Verweis auf die Richtlinie 2006/42/EG sollte aus Anhang I Abschnitt A in Abschnitt B der Verordnung (EU) 2024/1689 verschoben und dahin gehend aktualisiert werden, dass auf die Verordnung (EU) 2023/1230 verwiesen wird. Zweitens ist unbedingt dafür zu sorgen, dass die Verordnung (EU) 2023/1230 grundlegende Sicherheits- und Gesundheitsschutzanforderungen für KI-Systeme enthält, die gemäß Artikel 6 Absatz 1 der Verordnung (EU) 2024/1689 als Hochrisiko-KI-Systeme gelten und als Sicherheitsbauteil in Maschinen oder Hochrisiko-KI-Systemen, die Maschinen darstellen, verwendet werden, wobei für ein Schutzniveau zu sorgen ist, das mit der Verordnung (EU) 2024/1689 im Einklang steht. Zu diesem Zweck sollte die Kommission verpflichtet werden, delegierte Rechtsakte zur Änderung von Anhang III der Verordnung (EU) 2023/1230 zu erlassen, mit denen den jeweiligen Anforderungen gemäß Kapitel III Abschnitt 2 und den Artikeln 17, 19, 72 und 73 der Verordnung (EU) 2024/1689 Rechnung getragen wird. Um zu verhindern, dass eine Rechtslücke entsteht, und die Angleichung an den Geltungsbeginn der einschlägigen Vorschriften für Hochrisiko-KI-Systeme gemäß der Verordnung (EU) 2024/1689 sicherzustellen, sollten diese delegierten Rechtsakte ab dem 2. August 2028 gelten. Aus denselben Gründen sollte es den Herstellern freistehen, sich auf harmonisierte Normen oder gemeinsame Spezifikationen zu stützen, auf die gemäß der Verordnung (EU) 2024/1689 Bezug genommen wird bzw. die gemäß der genannten Verordnung erlassen wurden und die die einschlägigen grundlegenden Anforderungen für die Konformitätsvermutung im Sinne von Artikel 20 der Verordnung (EU) 2023/1230 abdecken, bis auf harmonisierte Normen oder gemeinsame Spezifikationen für KI gemäß der Verordnung (EU) 2023/1230 verwiesen wird oder diese gemäß der genannten Verordnung erlassen wurden.
+(43)
+Konformitätsbewertungen von Hochrisiko-KI-Systemen gemäß der Verordnung (EU) 2024/1689 können die Einbeziehung von Konformitätsbewertungsstellen erfordern. Nur Konformitätsbewertungsstellen, die gemäß der genannten Verordnung benannt wurden, sind befähigt, Konformitätsbewertungen durchzuführen, und dies nur für die Tätigkeiten in Bezug auf die betreffenden Kategorien und Arten von KI-Systemen. Um den Geltungsbereich der Benennung von Konformitätsbewertungsstellen, die gemäß Artikel 30 der Verordnung (EU) 2024/1689 notifiziert wurden, angeben zu können, muss ein Verzeichnis von Codes, Kategorien und entsprechenden Arten von KI-Systemen erstellt werden. Bei dem Verzeichnis der Codes sollte berücksichtigt werden, ob es sich bei dem KI-System um das Bauteil eines Produkts oder um ein eigenständiges Produkt handelt, das unter die in Anhang I der Verordnung (EU) 2024/1689) aufgeführten Harmonisierungsrechtsvorschriften der Union fällt (im Falle von KI-Systemen, die unter die Produktvorschriften fallen, als „AIP-Codes“ bezeichnet), oder um ein in Anhang III der genannten Verordnung aufgeführtes System, was derzeit nur die in Anhang III Nummer 1 genannten biometrischen KI-Systeme betrifft (im Falle biometrischer KI-Systeme als „AIB-Codes“ bezeichnet). Sowohl AIP- als auch AIB-Codes sind vertikale Codes. Die AIP-Codes dienen als Referenzcodes, die eine Verbindung zu den in Anhang I Abschnitt A der Verordnung (EU) 2024/1689 aufgeführten Harmonisierungsrechtsvorschriften der Union herstellen. Bei den AIB-Codes handelt es sich um neue spezifische Codes der Verordnung (EU) 2024/1689, mit denen die in Anhang III Nummer 1 der genannten Verordnung aufgeführten biometrischen KI-Systeme bezeichnet werden. Darüber hinaus sollten in dem Verzeichnis der Codes auch spezifische Arten und zugrunde liegende Technologien von KI-Systemen (im Falle horizontaler KI-Systemcodes als „AIH-Codes“ bezeichnet) berücksichtigt werden. Bei den AIH-Codes handelt es sich um neue KI-technologiespezifische Codes, die in Verbindung mit vertikalen AIP- oder AIB-Codes angewandt werden können. Die AIH-Codes decken die zugrunde liegenden Arten und Technologien von KI-Systemen ab. Das Verzeichnis der Codes, das drei Kategorien umfasst, sollte eine mehrdimensionale Typologie von KI-Systemen vorsehen, mit der sichergestellt wird, dass die als notifizierte Stellen benannten Konformitätsbewertungsstellen über jegliche Kompetenz verfügen, die die von ihnen zu bewertenden KI-Systeme erfordern.
+(44)
+In der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates
+(
+19
+)
+sind gemeinsame Vorschriften für die Zivilluftfahrt festgelegt. Mit Artikel 108 der Verordnung (EU) 2024/1689 wird die Verordnung (EU) 2018/1139 geändert, damit die Kommission beim Erlass von etwaigen einschlägigen delegierten Rechtsakten oder Durchführungsrechtsakten gemäß der Verordnung (EU) 2018/1139 — auf der Grundlage der technischen und regulatorischen Besonderheiten des Zivilluftfahrtsektors und ohne Beeinträchtigung bestehender Governance-, Konformitätsbewertungs- und Durchsetzungsmechanismen sowie der damit eingerichteten Behörden — die in der Verordnung (EU) 2024/1689 festgelegten verbindlichen Anforderungen an Hochrisiko-KI-Systeme berücksichtigt. Eine technische Korrektur zur Änderung zusätzlicher Artikel der Verordnung (EU) 2018/1139 ist erforderlich, um sicherzustellen, dass sämtliche der in der Verordnung (EU) 2024/1689 festgelegten verbindlichen Anforderungen an Hochrisiko-KI-Systeme beim Erlass einschlägiger delegierter Rechtsakte oder Durchführungsrechtsakte gemäß der Verordnung (EU) 2018/1139 berücksichtigt werden.
+(45)
+Um bestimmte nicht wesentliche Bestimmungen der Verordnungen (EU) 2024/1689 und (EU) 2023/1230 zu ändern, sollte der Kommission die Befugnis übertragen werden, gemäß Artikel 290 des Vertrages über die Arbeitsweise der Europäischen Union Rechtsakte hinsichtlich Folgendem zu erlassen:
+—
+Beschränkung der Anwendung bestimmter Anforderungen oder Pflichten, die in der Verordnung (EU) 2024/1689 festgelegt sind, wenn die in Anhang I Abschnitt A der genannten Verordnung festgelegten Anforderungen einen gleichwertigen Schutz bieten,
+—
+Änderung des Verzeichnisses von Codes, Kategorien und entsprechenden Arten von KI-Systemen in Anhang XIV der Verordnung (EU) 2024/1689 und
+—
+Änderung von Anhang III der Verordnung (EU) 2023/1230, um den relevanten Anforderungen der Verordnung (EU) 2024/1689 zu entsprechen
+Es ist von besonderer Bedeutung, dass die Kommission im Zuge ihrer Vorbereitungsarbeit angemessene Konsultationen, auch auf der Ebene von Sachverständigen, durchführt, die mit den Grundsätzen im Einklang stehen, die in der Interinstituionellen Vereinbarung vom 13. April 2016
+(
+20
+)
+niedergelegt wurden. Um insbesondere für eine gleichberechtigte Beteiligung an der Vorbereitung delegierter Rechtsakte zu sorgen, erhalten das Europäische Parlament und der Rat alle Dokumente zur gleichen Zeit wie die Sachverständigen der Mitgliedstaaten, und ihre Sachverständigen haben systematisch Zugang zu den Sitzungen der Sachverständigengruppen der Kommission, die mit der Vorbereitung der delegierten Rechtsakte befasst sind.
+(46)
+Um im Hinblick auf die unmittelbar bevorstehende allgemeine Anwendung der Verordnung (EU) 2024/1689 unverzügliche Rechtssicherheit zu gewährleisten, sollte die vorliegende Verordnung aus Gründen der Dringlichkeit am dritten Tag nach ihrer Veröffentlichung im
+Amtsblatt der Europäischen Union
+in Kraft treten.
+(47)
+Der Europäische Datenschutzbeauftragte und der Europäische Datenschutzausschuss wurden gemäß Artikel 42 Absätze 1 und 2 der Verordnung (EU) 2018/1725 angehört und haben am 20. Januar 2026 ihre gemeinsame Stellungnahme abgegeben —
+HABEN FOLGENDE VERORDNUNG ERLASSEN:
+Artikel 1
+Änderung der Verordnung (EU) 2024/1689
+Die Verordnung (EU) 2024/1689 wird wie folgt geändert:
+1.
+Artikel 1 Absatz 2 Buchstabe g erhält folgende Fassung:
+„g)
+Maßnahmen zur Innovationsförderung mit besonderem Augenmerk auf kleinen Midcap-Unternehmen und kleinen und mittleren Unternehmen (KMU), einschließlich Start-up-Unternehmen.“
+2.
+Artikel 2 wird wie folgt geändert:
+a)
+Absatz 2 erhält folgende Fassung:
+„(2)   Für KI-Systeme, die als Hochrisiko-KI-Systeme gemäß Artikel 6 Absatz 1 eingestuft sind und im Zusammenhang mit Produkten stehen, die unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, gelten nur Artikel 6 Absatz 1, Artikel 60a und Artikel 102 bis 112. Die Artikel 57, 58 und 59 gelten nur, soweit die Anforderungen an Hochrisiko-KI-Systeme gemäß dieser Verordnung im Rahmen der genannten Harmonisierungsrechtsvorschriften der Union übernommen wurden.“
+b)
+Absatz 7 erhält folgende Fassung:
+„(7)   Die Rechtsvorschriften der Union zum Schutz personenbezogener Daten, der Privatsphäre und der Vertraulichkeit der Kommunikation gelten für die Verarbeitung personenbezogener Daten im Zusammenhang mit den in dieser Verordnung festgelegten Rechten und Pflichten. Unbeschadet der Artikel 4a und 59 der vorliegenden Verordnung, berührt diese Verordnung nicht die Verordnung (EU) 2016/679 bzw. (EU) 2018/1725 oder die Richtlinie 2002/58/EG bzw. (EU) 2016/680.“
+3.
+In Artikel 2 wird folgender Absatz angefügt:
+„(13)   Für die in Artikel 6 Absatz 1 genannten Hochrisiko-KI-Systeme kann die Anwendung der in den Artikeln 9 bis 15 sowie 17 bis 25 festgelegten spezifischen Anforderungen oder Pflichten beschränkt werden, sofern und soweit
+a)
+in den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union Anforderungen oder bzw. Pflichten vorgesehen sind, die in Bezug auf Gesundheit, Sicherheit oder Grundrechte ein gleichwertiges oder höheres Schutzniveau bieten als die betreffende Anforderung bzw. Pflicht, und
+(b)
+eine solche Beschränkung nicht zu einer Verringerung des in dieser Verordnung vorgesehenen allgemeinen Schutzniveaus führt.
+Die Kommission erlässt bis zum 2. August 2027 delegierte Rechtsakte gemäß Artikel 97 zur Ergänzung dieser Verordnung zu erlassen, um die betreffenden Hochrisiko-KI-Systeme, die Anforderungen oder Pflichten, die beschränkt werden können, die Bedingungen, unter denen eine solche Beschränkung gilt, und den Umfang der Beschränkung festzulegen.“
+(4)
+Artikel 3 wird wie folgt geändert:
+a)
+Nummer 14 wird wie folgt geändert:
+„14.
+‚Sicherheitsbauteil‘ einen Bestandteil eines Produkts oder KI-Systems, der eine Sicherheitsfunktion für dieses Produkt oder KI-System erfüllt oder dessen Ausfall oder Störung die Gesundheit und Sicherheit von Personen oder Eigentum gefährdet; für die Zwecke dieser Begriffsbestimmung erfüllt ein Bauteil dann eine Sicherheitsfunktion, wenn seine Zweckbestimmung darin besteht, Risiken für die Gesundheit und Sicherheit von Personen oder Eigentum abzuwenden oder zu mindern;“
+b)
+Die folgenden Nummern werden eingefügt:
+„14a.
+‚Kleinst-, kleines oder mittleres Unternehmen‘ oder ‚KMU‘ ein Kleinstunternehmen, kleines oder mittleres Unternehmen im Sinne von Artikel 2 des Anhangs der Empfehlung 2003/361/EG;
+14b.
+‚kleines Midcap-Unternehmen‘ ein kleines Unternehmen mit mittlerer Kapitalisierung im Sinne von Nummer 2 des Anhangs der Empfehlung (EU) 2025/1099;“
+5.
+Artikel 4 erhält folgende Fassung:
+„Artikel 4
+KI-Kompetenz
+(1)   Die Anbieter und Betreiber von KI-Systemen ergreifen Maßnahmen, um die Entwicklung der KI-Kompetenz ihres Personals und anderer Personen zu unterstützen, die in ihrem Auftrag mit dem Betrieb und der Nutzung von KI-Systemen befasst sind, wobei ihre technischen Kenntnisse, ihre Erfahrung, ihre Aus- und Fortbildung und der Kontext, in dem die KI-Systeme eingesetzt werden sollen, sowie die Personen oder Personengruppen, bei denen die KI-Systeme eingesetzt werden sollen, zu berücksichtigen sind. Diese Verpflichtung verpflichtet Anbieter oder Betreiber nicht, für irgendeine Person ein bestimmtes Niveau an KI-Kompetenz zu garantieren.
+(2)   Die Kommission und die Mitgliedstaaten unterstützen und fördern die Bemühungen der Anbieter und Betreiber von KI-Systemen und insbesondere von KMU, ihre Verpflichtung nach Absatz 1 dieses Artikels zu erfüllen. Zu diesem Zweck veröffentlicht die Kommission praktische Beispiele dafür, wie diese Verpflichtung erfüllt wird auf der in Artikel 62 Absatz 3 Buchstabe b genannten zentralen Informationsplattform.
+(3)   Das KI-Gremium nimmt unter Berücksichtigung der europäischen Kompetenzrahmen Empfehlungen an, um die Kommission und die Mitgliedstaaten unter anderem durch die Festlegung gemeinsamer Ziele bei der Förderung der KI-Kompetenz gemäß Absatz 1 zu unterstützen.“
+6.
+Folgender Artikel wird eingefügt:
+„Artikel 4a
+Verarbeitung besonderer Kategorien personenbezogener Daten zur Erkennung und Korrektur von Verzerrungen
+(1)   Soweit dies zur Erkennung und Korrektur von Verzerrungen im Zusammenhang mit Hochrisiko-KI-Systemen im Einklang mit Artikel 10 Absatz 2 Buchstaben f und g dieser Verordnung unbedingt erforderlich ist, dürfen die Anbieter solcher Systeme ausnahmsweise besondere Kategorien personenbezogener Daten verarbeiten, wobei sie angemessene Vorkehrungen zum Schutz der Grundrechte und Grundfreiheiten natürlicher Personen treffen müssen. Zusätzlich zu den Bestimmungen der Verordnungen (EU) 2016/679 und (EU) 2018/1725 und der Richtlinie (EU) 2016/680, soweit zutreffend, müssen sämtliche der folgenden Bedingungen erfüllt sein, damit eine solche Verarbeitung stattfinden darf:
+a)
+Die Erkennung und Korrektur von Verzerrungen kann durch die Verarbeitung anderer Daten, einschließlich synthetischer oder anonymisierter Daten, nicht effektiv durchgeführt werden,
+b)
+die besonderen Kategorien personenbezogener Daten unterliegen technischen Beschränkungen bezüglich einer Weiterverwendung der personenbezogenen Daten und modernsten Sicherheits- und Datenschutzmaßnahmen, einschließlich Pseudonymisierung,
+c)
+die besonderen Kategorien personenbezogener Daten unterliegen Maßnahmen, mit denen sichergestellt wird, dass die verarbeiteten personenbezogenen Daten gesichert und geschützt und Gegenstand angemessener Sicherheitsvorkehrungen sind, wozu auch strenge Kontrollen des Zugriffs und seine Dokumentation gehören, um Missbrauch zu verhindern und sicherzustellen, dass nur befugte Personen, die zur Einhaltung entsprechender Vertraulichkeitspflichten verpflichtet sind, Zugang zu diesen personenbezogenen Daten haben,
+d)
+die besonderen Kategorien personenbezogener Daten werden nicht an Dritte übermittelt oder übertragen, noch haben diese Dritten anderweitigen Zugang zu diesen Daten,
+e)
+die besonderen Kategorien personenbezogener Daten werden gelöscht, sobald die Verzerrung korrigiert wurde oder das Ende der Speicherfrist für die personenbezogenen Daten erreicht ist, je nachdem, was zuerst eintritt, und
+f)
+die Aufzeichnungen über Verarbeitungstätigkeiten gemäß den Verordnungen (EU) 2016/679 und (EU) 2018/1725 und der Richtlinie (EU) 2016/680 enthalten die Gründe, warum die Verarbeitung besonderer Kategorien personenbezogener Daten für die Erkennung und Korrektur von Verzerrungen unbedingt erforderlich war und warum dieses Ziel mit der Verarbeitung anderer Daten nicht erreicht werden konnte.
+(2)   Anbieter und Betreiber anderer KI-Systeme und KI-Modelle und Betreiber von Hochrisiko-KI-Systemen dürfen ausnahmsweise besondere Kategorien personenbezogener Daten verarbeiten, sofern
+a)
+eine solche Verarbeitung zur Erkennung und Korrektur von Verzerrungen im Hinblick auf mögliche Verzerrungen unbedingt erforderlich ist, die die Gesundheit und Sicherheit von Personen beeinträchtigen, negative Auswirkungen hinsichtlich der Grundrechte haben oder zu einer gemäß den Rechtsvorschriften der Union verbotenen Diskriminierung führen, insbesondere wenn die Datenausgaben die Eingaben für künftige Operationen beeinflussen, und
+b)
+alle in Absatz 1 genannten Bedingungen und Vorkehrungen Anwendung finden.
+Dieser Absatz begründet keine Verpflichtung, eine solche Erkennung und Korrektur von Verzerrungen vorzunehmen.“
+7.
+Artikel 5 wird wie folgt geändert:
+a)
+In Absatz 1 Unterabsatz 1 werden folgende Buchstaben eingefügt:
+„ba)
+das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das realistische Bild-, Video-, Ton- oder ähnliche Inhalte erzeugt oder manipuliert, in denen intime Körperteile einer bestimmbaren natürlichen Person dargestellt werden oder eine an eindeutig sexuellen Handlungen beteiligte bestimmbare Person dargestellt wird, ohne dass die betreffende Person eine aus freien Stücken erfolgende, spezifische, aufgeklärte, eindeutige und ausdrückliche Zustimmung zu dieser Erzeugung oder Manipulation erteilt hat;
+bb)
+das Inverkehrbringen, die Inbetriebnahme oder die Verwendung eines KI-Systems, das Material oder Darbietungen im Sinne von Artikel 2 Buchstaben c und e der Richtlinie 2011/93/EU erzeugt oder manipuliert, es sei denn, nach nationalem Recht gilt das ‚unrechtmäßige‘ Verhalten als gerechtfertigt;“
+b)
+Folgende Absätze werden eingefügt:
+„(1a)   Für die Zwecke von Absatz 1 Unterabsatz 1 Buchstaben ba und bb:
+a)
+Das Inverkehrbringen oder die Inbetriebnahme eines KI-Systems, das Material oder Darbietungen im Sinne von Absatz 1 Unterabsatz 1 Buchstaben ba oder bb generiert oder manipuliert, ist nur verboten, wenn
+i)
+die Erzeugung oder Manipulation die Zweckbestimmung des KI-Systems sind oder
+ii)
+aufgrund der Gestaltung, des Trainings, der Architektur, der Fähigkeiten oder der nutzerseitigen Funktionen des Systems diese Erzeugung oder Manipulation ein nach vernünftigem Ermessen absehbares und reproduzierbares Ergebnis ist, ohne dass erhebliche technische Änderungen erforderlich sind, und das System nicht über zumutbare und angemessene technische Sicherheitsmaßnahmen und andere Schutzvorkehrungen verfügt, um diese Erzeugung oder Manipulation unter Berücksichtigung einer nach vernünftigem Ermessen absehbaren missbräuchlichen Nutzung zuverlässig zu verhindern und eine beobachtete oder gemeldete missbräuchliche Nutzung zu korrigieren.
+b)
+Die Verwendung eines KI-Systems, mit dem Material oder Darbietungen im Sinne von Absatz 1 Unterabsatz 1 Buchstaben ba und bb erzeugt oder manipuliert werden, ist nur verboten, wenn der Betreiber das System zum Zwecke der Erzeugung oder der Manipulation solchen Materials oder solcher Darbietungen verwendet.
+1b.   Für die Zwecke von Absatz 1 Unterabsatz 1 Buchstabe ba gilt ein KI-System, mit dem das Material in einer Weise manipuliert wird, die die Sichtbarkeit der dargestellten intimen Körperteile weder erhöht noch die Art der dargestellten eindeutig sexuellen Handlungen verändert, nicht als manipulativ.“
+8.
+In Artikel 6 werden die folgenden Absätze eingefügt:
+„(1a)   Für die Zwecke dieser Verordnung, einschließlich des Absatzes 1 dieses Artikels, gelten KI-Systeme, die ausschließlich für nicht sicherheitsrelevante Aspekte der Nutzerunterstützung, Leistungsoptimierung, Leistungseffizienz, Automatisierung oder Benutzerfreundlichkeit oder Qualitätskontrolle verwendet werden, nicht als Sicherheitsbauteile.
+(1b)   Unbeschadet des Absatzes 1a gelten KI-Systeme, deren Ausfall oder Fehlfunktion Gesundheit und Sicherheit gefährden würde, als Sicherheitsbauteile.
+(1c)   Ein Produkt, das ausschließlich aufgrund anderer Risiken als Risiken für Gesundheit und Sicherheit einer Konformitätsbewertung durch Dritte unterzogen werden muss, insbesondere aufgrund von Risiken im Zusammenhang mit der Verbreitung von Funkfrequenzen oder elektromagnetischen Interferenzen, die Gesundheit und Sicherheit nicht beeinträchtigen, gilt nicht als Produkt, das die Bedingung in Absatz 1 Buchstabe b erfüllt.“
+9.
+Artikel 10 wird wie folgt geändert:
+a)
+Absatz 1 erhält folgende Fassung:
+„(1)   Hochrisiko-KI-Systeme, in denen Techniken eingesetzt werden, bei denen KI-Modelle mit Daten trainiert werden, müssen mit Trainings-, Validierungs- und Testdatensätzen entwickelt werden, die den in den Absätzen 2, 3 und 4 dieses Artikels und in Artikel 4a Absatz 1 genannten Qualitätskriterien entsprechen, wenn solche Datensätze verwendet werden.“
+b)
+Absatz 5 wird gestrichen.
+c)
+Absatz 6 erhält folgende Fassung:
+„(6)   Bei der Entwicklung von Hochrisiko-KI-Systemen, in denen keine Techniken eingesetzt werden, bei denen KI-Modelle trainiert werden, gelten die Absätze 2, 3 und 4 dieses Artikels und Artikel 4a Absatz 1 nur für Testdatensätze.“
+10.
+Artikel 11 Absatz 1 Unterabsatz 2 erhält folgende Fassung:
+„Diese technische Dokumentation wird so erstellt, dass aus ihr der Nachweis hervorgeht, wie das Hochrisiko-KI-System die Anforderungen dieses Abschnitts erfüllt, und dass den zuständigen nationalen Behörden und den notifizierten Stellen die Informationen in klarer und verständlicher Form zur Verfügung stehen, die erforderlich sind, um zu beurteilen, ob das KI-System diese Anforderungen erfüllt. Sie enthält zumindest die in Anhang IV genannten Angaben. KMU, einschließlich Start-up-Unternehmen, und kleine Midcap-Unternehmen, können die in Anhang IV aufgeführten Elemente der technischen Dokumentation in vereinfachter Weise bereitstellen. Zu diesem Zweck erstellt die Kommission ein vereinfachtes Formular für die technische Dokumentation, das auf die Bedürfnisse von KMU, einschließlich Start-up-Unternehmen, und von kleinen Midcap-Unternehmen zugeschnitten ist. Entscheidet sich ein KMU, einschließlich Start-up-Unternehmen, oder ein kleines Midcap-Unternehmen für eine vereinfachte Bereitstellung der in Anhang IV vorgeschriebenen Angaben, so verwendet es das in diesem Absatz genannte Formular. Die notifizierten Stellen akzeptieren das Formular für die Zwecke der Konformitätsbewertung.“
+11.
+Artikel 17 Absatz 2 erhält folgende Fassung:
+„(2)   Die Umsetzung der in Absatz 1 genannten Aspekte erfolgt in einem angemessenen Verhältnis zur Größe der Organisation des Anbieters, insbesondere wenn es sich bei dem Anbieter um ein KMU, einschließlich Start-up-Unternehmen, oder ein kleines Midcap-Unternehmen handelt. Die Anbieter müssen in jedem Fall den Grad der Strenge und das Schutzniveau einhalten, die erforderlich sind, um die Übereinstimmung ihrer Hochrisiko-KI-Systeme mit dieser Verordnung sicherzustellen.“
+12.
+Artikel 25 wird wie folgt geändert:
+a)
+Absatz 2 erhält folgende Fassung:
+„(2)   Unter den in Absatz 1 genannten Umständen gilt der Anbieter, der das KI-System ursprünglich in Verkehr gebracht oder in Betrieb genommen hatte, nicht mehr als Anbieter dieses spezifischen KI-Systems für die Zwecke dieser Verordnung.
+Dieser Erstanbieter arbeitet eng mit neuen Anbietern zusammen, stellt die erforderlichen Informationen zur Verfügung und sorgt für den nach vernünftigem Ermessen zu erwartenden technischen Zugang und sonstige Unterstützung, die für die Erfüllung der in dieser Verordnung festgelegten Pflichten, insbesondere in Bezug auf die Konformitätsbewertung von Hochrisiko-KI-Systemen, erforderlich sind.
+Die in Unterabsatz 2 festgelegte Verpflichtung umfasst, sofern dies für die dort genannten Zwecke relevant ist, insbesondere Folgendes:
+a)
+Bereitstellung technischer Unterlagen, die ausreichen, um die Einhaltung der in Artikel 16 festgelegten Anforderungen zu bewerten;
+b)
+Unterrichtung der neuen Anbieter über bekannte Einschränkungen und Fehlerarten und
+c)
+Bereitstellung eines gezielten technischen Zugangs für die neuen Anbieter, auch zu Test- und Validierungszwecken.
+Dieser Absatz gilt nicht in Fällen, in denen der Erstanbieter eindeutig festgelegt hat, dass sein KI-System nicht in ein Hochrisiko-KI-System umgewandelt werden darf und daher nicht der Pflicht zur Zusammenarbeit mit neuen Anbietern und zur Übergabe der Dokumentation unterliegt.“
+b)
+In Absatz 4 erhält Unterabsatz 1 folgende Fassung:
+„(4)   Der Anbieter eines Hochrisiko-KI-Systems und der Dritte, der ein KI-System, ein KI-Modell, Instrumente, Dienste, Komponenten oder Verfahren bereitstellt, die in einem Hochrisiko-KI-System verwendet oder integriert werden, legen in einer schriftlichen Vereinbarung die Informationen, die Fähigkeiten, den technischen Zugang und die sonstige Unterstützung nach dem allgemein anerkannten Stand der Technik fest, die erforderlich sind, damit der Anbieter des Hochrisiko-KI-Systems die in dieser Verordnung festgelegten Pflichten vollständig erfüllen kann. Dieser Absatz gilt nicht für Dritte, die Instrumente, Dienste, Verfahren oder Komponenten, bei denen es sich nicht um KI-Modelle mit allgemeinem Verwendungszweck handelt, im Rahmen einer freien und quelloffenen Lizenz öffentlich zugänglich machen.“
+13.
+Artikel 27 wird wie folgt geändert:
+a)
+Absatz 4 erhält folgende Fassung:
+„(4)   Wird eine der in diesem Artikel festgelegten Pflichten bereits infolge einer gemäß Artikel 35 der Verordnung (EU) 2016/679 oder Artikel 27 der Richtlinie (EU) 2016/680 durchgeführten Datenschutz-Folgenabschätzung erfüllt, kann der Betreiber bei der Durchführung der Grundrechte-Folgenabschätzung gemäß Absatz 1 dieses Artikels entweder Verweise auf die einschlägigen Abschnitte dieser Datenschutz-Folgenabschätzung oder die einschlägigen Teile ebendieser in die Grundrechte-Folgenabschätzung aufnehmen.“
+b)
+Absatz 5 erhält folgende Fassung:
+„(5)   Das Büro für Künstliche Intelligenz erarbeitet ein Muster für einen Fragebogen — auch mithilfe eines automatisierten Instruments —, um die Betreiber in die Lage zu versetzen, ihren Pflichten gemäß diesem Artikel in vereinfachter Weise nachzukommen. In diesem Muster wird den Betreibern gegebenenfalls die Möglichkeit gegeben, gemäß Absatz 4 Verweise auf die einschlägigen Abschnitte der Datenschutz-Folgenabschätzung oder die einschlägigen Teile ebendieser in die Grundrechte-Folgenabschätzung aufzunehmen.“
+14.
+In Artikel 28 werden die folgenden Absätze angefügt:
+„(8)   Die gemäß dieser Verordnung benannten notifizierenden Behörden, die für KI-Systeme zuständig sind, die unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, stellen sicher, dass die Konformitätsbewertungsstelle, die ihre Benennung sowohl gemäß dieser Verordnung als auch gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union beantragt, die Möglichkeit erhält, einen einzigen Antrag zu stellen, und sich einem einheitlichen Bewertungsverfahren unterzieht, um gemäß dieser Verordnung und den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt zu werden, sofern die einschlägigen Harmonisierungsrechtsvorschriften der Union einen solchen einzigen Antrag und ein solches einheitliches Bewertungsverfahren vorsehen. Zu diesem Zweck arbeiten die gemäß dieser Verordnung benannten notifizierenden Behörden und die gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannten Behörden bei ihren Bewertungen zusammen.
+Der in diesem Absatz genannte einzige Antrag und das einheitliche Bewertungsverfahren steht auch notifizierten Stellen offen, die bereits gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt wurden, wenn diese notifizierten Stellen ihre Benennung gemäß dieser Verordnung beantragen, sofern die einschlägigen Harmonisierungsrechtsvorschriften der Union ein solches Verfahren vorsehen.
+Eine Konformitätsbewertungsstelle, die gemäß mehr als einer der in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt wurde, muss nur einmal einen Antrag stellen, um gemäß dieser Verordnung benannt zu werden. Eine Benennung gemäß dieser Verordnung gilt für alle in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union, für die die Konformitätsbewertungsstelle benannt ist.
+Durch den einzigen Antrag und das einheitliche Bewertungsverfahren wird unnötige Doppelarbeit vermieden, auf den bestehenden Benennungsverfahren gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union aufgebaut und die Einhaltung der Anforderungen an notifizierte Stellen sowohl gemäß dieser Verordnung als auch gemäß den einschlägigen Harmonisierungsrechtsvorschriften der Union gewährleistet.
+(9)   Eine notifizierende Behörde, die gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt wurde, ist auch die notifizierende Behörde, die gemäß Absatz 8 den einzigen Antrag stellt und sich dem einheitlichen Bewertungsverfahren unterzieht, es sei denn, der Mitgliedstaat benennt für diese Verordnung eine andere notifizierende Behörde.“
+15.
+Artikel 29 Absatz 4 erhält folgende Fassung:
+„(4)   Bei notifizierten Stellen, die gemäß anderen Harmonisierungsrechtsvorschriften der Union benannt wurden, können alle Unterlagen und Bescheinigungen im Zusammenhang mit solchen Benennungen zur Unterstützung und Beschleunigung ihres Benennungsverfahrens nach dieser Verordnung verwendet werden.
+Notifizierte Stellen, die gemäß einer der in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union benannt wurden und sich dem einheitlichen Bewertungsverfahren gemäß Artikel 28 Absatz 8 unterziehen, stellen den einzigen Antrag auf Bewertung bei der notifizierenden Behörde, die gemäß diesen Harmonisierungsrechtsvorschriften der Union benannt wurde.
+Die notifizierte Stelle aktualisiert die in den Absätzen 2 und 3 des vorliegenden Artikels genannte Dokumentation immer dann, wenn sich relevante Änderungen ergeben, damit die für notifizierte Stellen zuständige Behörde überwachen und überprüfen kann, ob die Anforderungen des Artikels 31 kontinuierlich erfüllt sind.“
+16.
+Artikel 30 Absatz 2 erhält folgende Fassung:
+„(2)   Die notifizierenden Behörden unterrichten die Kommission und die übrigen Mitgliedstaaten anhand des in Anhang XIV genannten Verzeichnisses der Codes, Kategorien und entsprechenden Arten von KI-Systemen und mithilfe des elektronischen Notifizierungsinstruments, das von der Kommission entwickelt und verwaltet wird, über jede Konformitätsbewertungsstelle gemäß Absatz 1.
+Der Kommission wird die Befugnis übertragen, gemäß Artikel 97 delegierte Rechtsakte zur Änderung des Anhangs XIV zu erlassen, um dem technischen Fortschritt, dem erweiterten Wissen oder neuen wissenschaftlichen Erkenntnissen Rechnung zu tragen und in das Verzeichnis der Codes, Kategorien und entsprechenden Arten von KI-Systemen neue Codes, Kategorien oder Arten von KI-Systemen aufzunehmen, bestehende Codes, Kategorien oder Arten von KI-Systemen daraus zu streichen oder Codes oder Arten von KI-Systemen von einer Kategorie in eine andere zu verschieben.“
+17.
+In Artikel 40 Absatz 2 wird folgender Unterabsatz angefügt:
+„Die Kommission beauftragt im Einklang mit der Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates
+(
+*1
+)
+unverzüglich die europäischen Normungsorganisationen, Normungsprodukte, gegebenenfalls einschließlich harmonisierter Normen, auszuarbeiten, um die gemeinsame Einhaltung und die Konformitätsvermutung mit den Anforderungen oder Verpflichtungen gemäß Kapitel III Abschnitte 2 und 3 dieser Verordnung und den einschlägigen Anforderungen und Verpflichtungen, die in den in Anhang I dieser Verordnung aufgeführten Harmonisierungsrechtsvorschriften der Union festgelegt sind, zu erleichtern.“
+(
+*1
+)
+Verordnung (EU) Nr. 1025/2012 des Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europäischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europäischen Parlaments und des Rates (
+ABl. L 316 vom 14.11.2012, S. 12
+, ELI:
+http://data.europa.eu/eli/reg/2012/1025/oj
+)."
+18.
+In Artikel 42 wird folgender Absatz angefügt:
+„(3)   Fallen Hochrisiko-KI-Systeme in den Anwendungsbereich der Verordnung (EU) 2024/2847 und sind die in Artikel 12 Absatz 1 der genannten Verordnung festgelegten Bedingungen erfüllt, so gelten diese Systeme als mit den in Artikel 15 dieser Verordnung festgelegten Cybersicherheitsanforderungen konform.“
+19.
+Artikel 43 Absatz 3 erhält folgende Fassung:
+„(3)   Bei den Hochrisiko-KI-Systemen, die unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, befolgt der Anbieter des Systems das einschlägige Konformitätsbewertungsverfahren, das gemäß den einschlägigen Harmonisierungsrechtsvorschriften der Union erforderlich ist. Die in Abschnitt 2 dieses Kapitels festgelegten Anforderungen gelten für diese Hochrisiko-KI-Systeme und werden in diese Bewertung einbezogen. Die Bewertung des Qualitätsmanagementsystems gemäß Artikel 17 wird ebenfalls durchgeführt, und Anhang VII Nummern 3, 4.3, 4.4. und 4.5 sowie Nummer 4.6 Absatz 5 und Nummer 5 finden Anwendung.
+Für die Zwecke dieser Konformitätsbewertung sind die notifizierten Stellen, die gemäß den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union notifiziert wurden, dazu befugt, die Konformität der Hochrisiko-KI-Systeme mit den in Abschnitt 2 dieses Kapitels festgelegten Anforderungen zu bewerten, sofern im Rahmen des gemäß den einschlägigen Harmonisierungsrechtsvorschriften der Union durchgeführten Notifizierungsverfahrens geprüft wurde, dass diese notifizierten Stellen die in Artikel 31 Absätze 4, 5, 10 und 11 festgelegten Anforderungen erfüllen, was im Zuge der Bewertung als Teil der bestehenden Notifizierung belegt wird. Unbeschadet des Artikels 28 beantragen solche notifizierten Stellen, die nach den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union notifiziert wurden, ihre Benennung gemäß Abschnitt 4 dieses Kapitels bis 28. Januar 2028.
+Wenn eine in Anhang I Abschnitt A aufgeführte Harmonisierungsrechtsvorschrift der Union dem Hersteller des Produkts die Möglichkeit einräumt, auf eine Konformitätsbewertung zurückzugreifen, an der keine Dritten beteiligt sind, sofern dieser Hersteller harmonisierte Normen angewandt hat, um die Konformität mit allen relevanten Anforderungen zu gewährleisten, so darf dieser Hersteller nur dann von dieser Möglichkeit Gebrauch machen, wenn er auch harmonisierte Normen oder gegebenenfalls gemeinsame Spezifikationen gemäß Artikel 41, die alle in Abschnitt 2 dieses Kapitels festgelegten Anforderungen abdecken, angewandt hat. Die Einstufung eines Produkts als Hochrisiko-KI-System gemäß Artikel 6 Absatz 1 berührt nicht die Wahl des Konformitätsbewertungsverfahrens, das den Herstellern von Produkten zur Verfügung gestellt wird, die unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, wobei dies gegebenenfalls eine Option, sich auf harmonisierte Normen zu stützen, umfassen kann. Die Hersteller solcher Produkte sind nicht verpflichtet, ein Konformitätsbewertungsverfahren mit einer Konformitätsbewertung durch Dritte zu wählen, nur weil das Produkt ein Hochrisiko-KI-System als Sicherheitsbauteil enthält, sofern dies nicht in den in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union vorgeschrieben ist.
+Wenn ein Hochrisiko-KI-System sowohl unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union als auch unter eine der in Anhang III aufgeführten Kategorien fällt, befolgt der Anbieter dieses Systems das einschlägige Konformitätsbewertungsverfahren, das gemäß den in Anhang I Abschnitt A aufgeführten einschlägigen Harmonisierungsrechtsvorschriften der Union erforderlich ist.“
+20.
+Artikel 50 Absatz 7 erhält folgende Fassung:
+„(7)   Die Kommission fördert und erleichtert die Ausarbeitung von Praxisleitfäden auf Unionsebene, um die wirksame Umsetzung der Pflichten in Bezug auf die Feststellung, Markierung und Kennzeichnung künstlich erzeugter oder manipulierter Inhalte zu erleichtern. Die Kommission prüft unter weitestgehender Berücksichtigung der Stellungnahme des KI-Gremiums nach dem Verfahren des Artikels 56 Absatz 6 Unterabsatz 1, ob die Befolgung dieser Praxisleitfäden angemessen ist, um die Einhaltung der in den Absätzen 2 und 4 dieses Artikels festgelegten Pflichten zu gewährleisten. Hält sie den Praxisleitfaden für unangemessen, so kann die Kommission einen Durchführungsrechtsakt gemäß dem in Artikel 98 Absatz 2 genannten Prüfverfahren erlassen, in dem gemeinsame Vorschriften für die Umsetzung dieser Pflichten festgelegt werden.“
+21.
+Artikel 56 Absatz 6 erhält folgende Fassung:
+„(6)   Die Kommission und das KI-Gremium überwachen und bewerten regelmäßig die Verwirklichung der Ziele der Praxisleitfäden durch die Beteiligten und deren Beitrag zur ordnungsgemäßen Anwendung dieser Verordnung. Die Kommission bewertet unter weitestgehender Berücksichtigung der Stellungnahme des KI-Gremiums, ob die Praxisleitfäden die in den Artikeln 53 und 55 vorgesehenen Pflichten abdecken, und überwacht und bewertet regelmäßig die Verwirklichung von deren Zielen. Die Kommission veröffentlicht ihre Bewertung der Angemessenheit der Praxisleitfäden.“
+22.
+Artikel 57 wird wie folgt geändert:
+a)
+Absatz 1 Unterabsatz 1 erhält folgende Fassung:
+„(1)   Die Mitgliedstaaten sorgen dafür, dass ihre zuständigen Behörden mindestens ein KI-Reallabor auf nationaler Ebene einrichten, das bis zum 2. August 2027 einsatzbereit sein muss. Dieses Reallabor kann auch gemeinsam mit den zuständigen Behörden anderer Mitgliedstaaten eingerichtet werden. Die Kommission kann technische Unterstützung, Beratung und Instrumente für die Einrichtung und den Betrieb von KI-Reallaboren bereitstellen.“
+b)
+Absatz 3 erhält folgende Fassung:
+„(3)   Der Europäische Datenschutzbeauftragte kann ein KI-Reallabor für die Organe, Einrichtungen und sonstigen Stellen der Union einrichten. Für diesen Zweck gelten Bezugnahmen auf die zuständigen nationalen Behörden in diesem Kapitel als Bezugnahmen auf den Europäischen Datenschutzbeauftragten.“
+c)
+Der folgende Absatz wird eingefügt:
+„(3a)   Das Büro für Künstliche Intelligenz kann auf Unionsebene ein KI-Reallabor für KI-Systeme einrichten, die unter Artikel 75 Absatz 1 fallen. Für diesen Zweck gelten Bezugnahmen auf die zuständigen nationalen Behörden in diesem Kapitel gegebenenfalls als Bezugnahmen auf das Büro für Künstliche Intelligenz. Diese KI-Reallabor wird in enger Zusammenarbeit mit den jeweils zuständigen Behörden umgesetzt, insbesondere wenn die Einhaltung anderer Rechtsvorschriften der Union als dieser Verordnung im KI-Reallabor beaufsichtigt wird, und gewährt KMU, einschließlich Start-up-Unternehmen, und kleinen Midcap-Unternehmen vorrangigen Zugang dazu.
+Die Einrichtung eines KI-Reallabors auf Unionsebene durch das Büro für Künstliche Intelligenz lässt die Zuständigkeiten der Mitgliedstaaten für die Einrichtung und Beaufsichtigung von KI-Reallaboren für KI-Systeme, die ihrer Aufsicht unterliegen, unberührt.“
+d)
+Absatz 5 erhält folgende Fassung:
+„(5)   Die nach diesem Artikel eingerichteten KI-Reallabore bieten eine kontrollierte Umgebung, um Innovation zu fördern und die Entwicklung, das Training, das Testen und die Validierung innovativer KI-Systeme für einen begrenzten Zeitraum vor ihrem Inverkehrbringen oder ihrer Inbetriebnahme nach einem bestimmten zwischen den Anbietern oder zukünftigen Anbietern und den zuständigen Behörden vereinbarten Reallabor-Plan zu erleichtern, wobei sie dafür sorgen, dass angemessene Schutzvorkehrungen bestehen. In diesen Reallaboren können auch darin beaufsichtigte Tests unter Realbedingungen durchgeführt werden. Der Plan für das Reallabor enthält, soweit zutreffend, den Plan für einen Test unter Realbedingungen gemäß Artikel 60 und Artikel 60a.“
+e)
+Absatz 9 Buchstabe e erhält folgende Fassung:
+„e)
+Erleichterung und Beschleunigung des Zugangs von KI-Systemen zum Unionsmarkt, insbesondere wenn sie von KMU, einschließlich Start-up-Unternehmen, und von kleinen Midcap-Unternehmen angeboten werden.“
+f)
+Absatz 10 erhält folgende Fassung:
+„(10)   Soweit die innovativen KI-Systeme personenbezogene Daten verarbeiten oder anderweitig der Aufsicht anderer nationaler Behörden oder zuständiger Behörden unterstehen, die den Zugang zu personenbezogenen Daten gewähren oder unterstützen, sorgen die zuständigen nationalen Behörden dafür, dass die zuständigen Datenschutzbehörden oder diese anderen nationalen oder zuständigen Behörden in den Betrieb des KI-Reallabors sowie in die Überwachung dieser Aspekte im vollen Umfang ihrer entsprechenden Aufgaben und Befugnisse einbezogen werden.“
+g)
+Absatz 14 erhält folgende Fassung:
+„(14)   Die zuständigen nationalen Behörden, der Europäische Datenschutzbeauftragte und das Büro für Künstliche Intelligenz koordinieren gegebenenfalls im Einklang mit ihren jeweiligen Befugnissen ihre Tätigkeiten und arbeiten im Rahmen des KI-Gremiums dementsprechend zusammen. Sie können die gemeinsame Einrichtung und den gemeinsamen Betrieb von KI-Reallaboren unterstützen, auch in verschiedenen Sektoren, und sich über einschlägige bewährte Verfahren austauschen.“
+23.
+Artikel 58 Absatz 1 Unterabsatz 1 wird wie folgt geändert:
+a)
+Die Einleitung erhält folgende Fassung:
+„(1)   Um eine Zersplitterung in der Union zu vermeiden, erlässt die Kommission Durchführungsrechtsakte, in denen detaillierte Regelungen für die Einrichtung, Entwicklung, Umsetzung, den Betrieb, die Führung und die Beaufsichtigung der KI-Reallabore enthalten sind. In den Durchführungsrechtsakten werden gemeinsame Grundsätze zu den folgenden Aspekten festgelegt:“
+b)
+Folgender Buchstabe wird angefügt:
+„d)
+detaillierte Vorschriften für die Führung von KI-Reallaboren gemäß Artikel 57, auch in Bezug auf die Einbeziehung der zuständigen Datenschutzbehörden und die Aufsicht durch ebendiese, soweit zutreffend, sowie die Wahrnehmung der Aufgaben der zuständigen Behörden und die Koordinierung und Zusammenarbeit auf nationaler und Unionsebene.“
+24.
+Artikel 60 wird wie folgt geändert:
+a)
+Absatz 1 Unterabsatz 1 erhält folgende Fassung:
+„(1)   Tests von Hochrisiko-KI-Systemen unter Realbedingungen können von Anbietern oder zukünftigen Anbietern von Hochrisiko-KI-Systemen, die in Anhang III genannt sind oder unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, außerhalb von KI-Reallaboren gemäß diesem Artikel und — unbeschadet der Bestimmungen unter Artikel 5 — dem in diesem Artikel genannten Plan für einen Test unter Realbedingungen durchgeführt werden.“
+b)
+Absatz 2 erhält folgende Fassung:
+„(2)   Anbieter oder zukünftige Anbieter können Hochrisiko-KI-Systeme, die in Anhang III genannt sind oder unter die in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, vor deren Inverkehrbringen oder Inbetriebnahme jederzeit selbst oder in Partnerschaft mit einem oder mehreren Betreibern oder zukünftigen Betreibern unter Realbedingungen testen.“
+25.
+Folgender Artikel wird eingefügt:
+„Artikel 60a
+Tests von Hochrisiko-KI-Systemen, die unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, unter Realbedingungen außerhalb von KI-Reallaboren
+(1)   Die Mitgliedstaaten können Tests von Hochrisiko-KI-Systemen unter Realbedingungen durch Anbieter oder zukünftige Anbieter von KI-gestützten Produkten, die unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, außerhalb von KI-Reallaboren gemäß diesem Artikel zulassen, um die Konformität dieser Systeme mit den in den Artikeln 8 bis 15 festgelegten Anforderungen zu bewerten und zu überprüfen.
+(2)   Mitgliedstaaten, die sich dafür entscheiden, Tests gemäß Absatz 1 zuzulassen, legen einzeln oder gemeinsam Rahmen für einen Test unter Realbedingungen fest.
+(3)   Jeder Mitgliedstaat teilt der Kommission jeden von ihm angenommenen Rahmen für einen Test unter Realbedingungen vor dessen Umsetzung mit. Dies berührt nicht die Zuständigkeiten der Kommission gemäß den in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union.
+(4)   Die Mitgliedstaaten, die Rahmen für einen Test unter Realbedingungen angenommen haben, stellen sicher, dass die einschlägigen zuständigen nationalen Behörden, die zuständigen Behörden und die Behörden, die für Verwaltung und Betrieb der unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallenden Infrastrukturen und Produkte zuständig sind, eng und nach Treu und Glauben zusammenarbeiten und — soweit erforderlich — alle praktischen Hindernisse beseitigen, auch in Bezug auf Verfahrensvorschriften für den Zugang zu physischen öffentlichen Infrastrukturen, um diese Rahmen für einen Test unter Realbedingungen erfolgreich umzusetzen und KI-gestützte Produkte, die unter die in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union fallen, zu testen.
+(5)   In den Rahmen für einen Test unter Realbedingungen werden die Anforderungen festgelegt, unter denen Tests unter Realbedingungen stattfinden müssen. Diese Rahmen
+a)
+umfassen die Vorlage eines verbindlichen Plans für einen Test unter Realbedingungen, der zwischen dem Anbieter oder zukünftigen Anbieter und der zuständigen nationalen Behörde oder der im Einklang mit den in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union zuständigen Behörde zu vereinbaren ist;
+b)
+stellen die Einhaltung der in Artikel 60 Absätze 2 und 3, Absatz 4 Buchstaben d bis j und Absätze 5 bis 9 festgelegten Anforderungen sicher, wobei jede Bezugnahme auf Marktüberwachungsbehörden in diesen Bestimmungen als Bezugnahme auf die zuständige nationale Behörde oder gegebenenfalls die im Einklang mit den in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften zuständige Behörde der Union zu verstehen ist;
+c)
+umfassen wirksame Vorkehrungen für Führung und Rechenschaftspflicht;
+d)
+stellen ein hohes Schutzniveau in Bezug auf Gesundheit, Sicherheit und Grundrechte sicher.
+(6)   Im Rahmen der Tests unter Realbedingungen wird den einschlägigen Bestimmungen der in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union Rechnung getragen. Die in diesen Bestimmungen festgelegten Anforderungen berühren nicht die Anwendung dieses Artikels, soweit dies erforderlich ist, um die in Absatz 1 genannten Tests zu ermöglichen.“
+26.
+Artikel 63 Absatz 1 erhält folgende Fassung:
+„(1)   KMU, einschließlich Start-up-Unternehmen können bestimmte Elemente des in Artikel 17 vorgeschriebenen Qualitätsmanagementsystems in vereinfachter Weise einhalten, sofern sie keine Partnerunternehmen oder verbundenen Unternehmen im Sinne der Empfehlung 2003/361/EG haben. Zu diesem Zweck arbeitet die Kommission Leitlinien zu den Elementen des Qualitätsmanagementsystems aus, die unter Berücksichtigung der Bedürfnisse von KMU in vereinfachter Weise eingehalten werden können, ohne das Schutzniveau oder die Notwendigkeit zur Einhaltung der Anforderungen in Bezug auf Hochrisiko-KI-Systeme zu beeinträchtigen.“
+27.
+In Artikel 64 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Haushaltsverfahrens werden dem Büro für Künstliche Intelligenz angemessene Ressourcen zugewiesen, damit es seine Aufgaben und Befugnisse im Zusammenhang mit der Durchsetzung dieser Verordnung wirksam wahrnehmen kann.“
+28.
+Artikel 69 Absatz 2 erhält folgende Fassung:
+„(2)   Die Mitgliedstaaten können verpflichtet werden, für die Beratung und Unterstützung durch die Sachverständigen Gebühren in Höhe der Vergütungsgebühren zu entrichten, die für die Kommission gemäß dem in Artikel 68 Absatz 1 genannten Durchführungsrechtsakt gelten.“
+29.
+Artikel 70 Absatz 8 erhält folgende Fassung:
+„(8)   Die zuständigen nationalen Behörden können gegebenenfalls insbesondere KMU, einschließlich Start-up-Unternehmen, und kleinen Midcap-Unternehmen unter Berücksichtigung der Anleitung und Beratung durch das KI-Gremium oder die Kommission mit Anleitung und Beratung bei der Durchführung dieser Verordnung zur Seite stehen. Wenn zuständige nationale Behörden beabsichtigen, Anleitung und Beratung in Bezug auf ein KI-System in Bereichen anzubieten, die unter das Unionsrecht fallen, so sind gegebenenfalls die nach jenem Unionsrecht zuständigen nationalen Behörden zu konsultieren.“
+30.
+Artikel 72 Absatz 3 erhält folgende Fassung:
+„(3)   Das System zur Beobachtung nach dem Inverkehrbringen muss auf einem Plan für die Beobachtung nach dem Inverkehrbringen beruhen. Der Plan für die Beobachtung nach dem Inverkehrbringen ist Teil der in Anhang IV genannten technischen Dokumentation. Die Kommission nimmt unter weitestgehender Berücksichtigung der Stellungnahme des KI-Gremiums bis zum 2. September 2027 Leitlinien, einschließlich eines Musters, für den Plan zur Beobachtung nach dem Inverkehrbringen an.“
+31.
+Artikel 75 wird wie folgt geändert:
+a)
+Die Überschrift erhält folgende Fassung:
+„Marktüberwachung und Kontrolle von KI-Systemen sowie Amtshilfe“
+b)
+Absatz 1 erhält folgende Fassung:
+„(1)   Das Büro für Künstliche Intelligenz ist ausschließlich für die Beaufsichtigung und Durchsetzung der Pflichten aus dieser Verordnung in Bezug auf die folgenden KI-Systeme zuständig:
+a)
+KI-Systeme auf der Grundlage von KI-Modellen mit allgemeinem Verwendungszweck, bei denen das Modell und das System von demselben Anbieter oder von Anbietern entwickelt werden, die Teil desselben Unternehmens wie dieser Anbieter sind, mit Ausnahme von:
+i)
+KI-Systemen im Zusammenhang mit Produkten, die unter die in Anhang I aufgeführten Harmonisierungsrechtsvorschriften der Union fallen;
+ii)
+KI-Systemen gemäß Anhang III Nummer 2;
+iii)
+KI-Systemen, die von Strafverfolgungsbehörden, Grenzverwaltungsbehörden und Finanzinstituten bereitgestellt werden, sofern diese KI-Systeme unter Artikel 74 Absatz 6 fallen, und
+iv)
+KI-Systemen gemäß Anhang III Nummer 8 in Bezug auf die Rechtspflege;
+b)
+KI-Systemen, die eine gemäß der Verordnung (EU) 2022/2065 benannte sehr große Online-Plattform oder sehr große Online-Suchmaschine bilden oder die darin integriert sind.
+Die in Unterabsatz 1 genannte ausschließliche Zuständigkeit gilt für die Anbieter dieser Systeme. Sie gilt für die Betreiber dieser Systeme nur dann, wenn sie auch Anbieter dieser Systeme sind oder Teil desselben Unternehmens wie der Anbieter sind.“
+c)
+Folgende Absätze werden eingefügt:
+„(1a)   Abweichend von Artikel 73 melden Anbieter von Hochrisiko-KI-Systemen, die der Zuständigkeit des Büros für Künstliche Intelligenz gemäß Absatz 1 dieses Artikels unterliegen, dem Büro für Künstliche Intelligenz alle schwerwiegenden Vorfälle. Die Absätze 2 bis 9 des Artikels 73 gelten sinngemäß. Das Büro für Künstliche Intelligenz übermittelt die einschlägigen Informationen unverzüglich der Marktüberwachungsbehörde des Mitgliedstaats, in dessen Hoheitsgebiet sich der Anbieter oder sein gesetzlicher Vertreter befindet.
+(1b)   Die an der Anwendung dieser Verordnung beteiligten Behörden arbeiten aktiv mit dem Büro für Künstliche Intelligenz zusammen und leistet ihm die erforderliche Unterstützung für die Ausübung seiner Befugnisse, unter anderem erforderlichenfalls im Zusammenhang mit Inspektionen oder anderen Durchsetzungsmaßnahmen im Hoheitsgebiet eines Mitgliedstaats. Zu diesem Zweck verfügen diese Behörden über die in dieser Verordnung und der Verordnung (EU) 2019/1020 niedergelegten Befugnisse und soweit zutreffend und auf das zur Erfüllung ihrer Aufgaben nach diesem Absatz erforderliche Maß beschränkt, im Einklang mit den geltenden nationalen Verfahren.
+(1c)   Werden im Hoheitsgebiet eines Mitgliedstaats Ermittlungs- oder Durchsetzungsmaßnahmen ergriffen, die den Zugang zu Daten oder KI-Systemen einer Behörde umfassen, so wird das Büro für Künstliche Intelligenz von der einschlägigen Marktüberwachungsbehörde unterstützt.
+(1d)   Bevor das Büro für Künstliche Intelligenz eine Entscheidung trifft, die ein Verbot oder eine Beschränkung der Bereitstellung oder Inbetriebnahme des KI-Systems auf einem nationalen Markt zur Folge hätte, oder bevor es eine Entscheidung dahin gehend trifft, das KI-System von einem solchen Markt zu nehmen oder zurückzurufen, unterrichtet es die für diesen Markt zuständige Marktüberwachungsbehörde unverzüglich über seine Absicht, eine solche Entscheidung zu treffen. Das Büro für Künstliche Intelligenz konsultiert gegebenenfalls die an der Anwendung dieser Verordnung beteiligten Behörden zu allen Fragen im Zusammenhang mit der Anwendung und Durchsetzung dieser Verordnung.
+(1e)   Das Büro für Künstliche Intelligenz ist für Konformitätsbewertungen und Tests der in Absatz 1 dieses Artikels genannten KI-Systeme zuständig, die als hochriskant eingestuft sind und einer Konformitätsbewertung durch Dritte gemäß Artikel 43 unterliegen, wobei diese Konformitätsbewertung durchzuführen ist, bevor solche KI-Systeme in Verkehr gebracht oder in Betrieb genommen werden. Bei diesen Tests und Bewertungen wird überprüft, ob die Systeme den einschlägigen Anforderungen dieser Verordnung entsprechen und gemäß dieser Verordnung in der Union in Verkehr gebracht bzw. in Betrieb genommen werden dürfen. Die Kommission betraut die gemäß dieser Verordnung benannten notifizierten Stellen mit der Durchführung dieser Tests oder Bewertungen; in diesem Fall handeln diese notifizierten Stellen im Namen der Kommission. Kommt eine notifizierte Stelle, der die Kommission Aufgaben gemäß diesem Absatz übertragen hat, diesen Aufgaben nicht angemessen nach, so kann die Kommission die Übertragung mit sofortiger Wirkung widerrufen.
+Die Gebühren für Test- und Bewertungstätigkeiten werden von dem Anbieter eines Hochrisiko-KI-Systems erhoben, der bei der Kommission eine Konformitätsbewertung durch Dritte beantragt hat. Der Anbieter zahlt die Kosten der Dienstleistungen, mit denen die Kommission die notifizierten Stellen gemäß diesem Artikel betraut hat, direkt an die notifizierte Stelle.“
+d)
+Folgender Absatz wird eingefügt:
+„(2a)   Hat eine Marktüberwachungsbehörde fundierte und hinreichende Gründe für den Verdacht, dass ein Anbieter oder Betreiber eines in Absatz 1 dieses Artikels genannten KI-Systems gegen diese Verordnung verstoßen hat, so kann sie das Büro für Künstliche Intelligenz über die gemäß Artikel 70 Absatz 2 benannte zuständige zentrale Anlaufstelle ersuchen, die Angelegenheit zu prüfen, damit die erforderlichen Aufsichts- und Durchsetzungsmaßnahmen ergriffen werden können, um die unverzügliche Einhaltung dieser Verordnung sicherzustellen. Entsprechende Ersuchen sind hinreichend zu begründen und umfassen mindestens Folgendes:
+a)
+den Namen des betreffenden Anbieters oder Betreibers;
+b)
+eine Beschreibung des relevanten Sachverhalts, der Bestimmungen dieser Verordnung, gegen die mutmaßlich verstoßen wurde, und aller fundierten und hinreichenden Gründe für den Verdacht eines Verstoßes, gegebenenfalls einschließlich einer Beschreibung der negativen Auswirkungen des mutmaßlichen Verstoßes;
+c)
+die ersuchende Marktüberwachungsbehörde.
+Das Büro für Künstliche Intelligenz trägt dem Ersuchen mit größter Sorgfalt Rechnung, und die Marktüberwachungsbehörde kooperiert aktiv und leistet dem Büro für Künstliche Intelligenz die erforderliche Unterstützung für die Ausübung seiner Befugnisse gemäß Absatz 1a.
+Das Büro für Künstliche Intelligenz unterrichtet die zentrale Anlaufstelle unverzüglich, spätestens jedoch vier Monate nach Eingang des Ersuchens, über seine Absicht, seine Befugnisse gemäß Artikel 75a auszuüben, oder über die Gründe dafür, dass es seine Befugnisse nicht ausübt. Beschließt das Büro für Künstliche Intelligenz, seine Befugnisse gemäß Artikel 75a auszuüben, so unterrichtet es die zentrale Anlaufstelle regelmäßig über wichtige Entwicklungen in dem Verfahren und das Ergebnis dieses Verfahrens, ohne vertrauliche Informationen offenzulegen.“
+32.
+Die folgenden Artikel werden eingefügt:
+„Artikel 75a
+Aufsichts- und Durchsetzungsbefugnisse des Büros für Künstliche Intelligenz
+(1)   Zur Wahrnehmung seiner in Artikel 75 Absatz 1 der vorliegenden Verordnung niedergelegten Aufgaben in Bezug auf Aufsicht und Durchsetzung hat das Büro für Künstliche Intelligenz alle in diesem Abschnitt und in Artikel 14 Absatz 4 und Artikel 16 Absatz 3 der Verordnung (EU) 2019/1020 vorgesehenen Befugnisse einer Marktüberwachungsbehörde. Das Büro für Künstliche Intelligenz ist befugt, gemäß Artikel 15 der Verordnung (EU) 2019/1020 die gesamten Kosten seiner Aufsichts- und Durchsetzungstätigkeiten in Bezug auf Fälle von Nichtkonformität, einschließlich der Kosten für personelle und technische Ressourcen, von dem betreffenden Akteur vollständig zurückzufordern. Artikel 17 der Verordnung (EU) 2019/1020 gilt sinngemäß.
+(2)   Hat das Büro für Künstliche Intelligenz berechtigten Grund zu der Annahme, dass ein Anbieter oder Betreiber eines in Artikel 75 Absatz 1 der vorliegenden Verordnung genannten KI-Systems gegen die vorliegende Verordnung verstößt, so kann es gemäß Artikel 14 Absatz 4 Buchstabe f der Verordnung (EU) 2019/1020 beschließen, in Bezug auf diese Nichtkonformität eine Ermittlung einzuleiten. Im Zuge der Einleitung einer solchen Ermittlung unterrichtet das Büro für Künstliche Intelligenz den Akteur des betreffenden KI-Systems. Das Büro für Künstliche Intelligenz kann die in Absatz 1 dieses Artikels genannten Befugnisse von Amts wegen oder aufgrund einer gemäß Artikel 85 dieser Verordnung eingegangenen Beschwerde ausüben, noch bevor es eine Ermittlung gemäß Artikel 14 Absatz 4 Buchstabe f der Verordnung (EU) 2019/1020 einleitet.
+Hat eine Marktüberwachungsbehörde Grund zu der Annahme, dass ein Anbieter oder Betreiber eines in Artikel 75 Absatz 1 genannten KI-Systems gegen die vorliegende Verordnung verstößt, kann sie das Büro für Künstliche Intelligenz ersuchen, die Angelegenheit zu prüfen.
+(3)   Das Büro für Künstliche Intelligenz kann die in Artikel 14 Absatz 4 Buchstaben a, b und c der Verordnung (EU) 2019/1020 und in Artikel 74 Absätze 12 und 13 der vorliegenden Verordnung aufgeführten Befugnisse durch einfaches Ersuchen oder im Wege eines Beschlusses ausüben.
+Bei einem Informationsersuchen gibt das Büro für Künstliche Intelligenz die Rechtsgrundlage und den Zweck des Ersuchens an, gibt an, welche Informationen erforderlich sind, und legt die Frist fest, innerhalb deren die Informationen bereitzustellen sind. Handelt es sich bei dem Ersuchen um ein einfaches Ersuchen, weist das Büro für Künstliche Intelligenz zusätzlich darauf hin, dass zwar keine Verpflichtung zur Bereitstellung der angeforderten Informationen besteht, im Falle einer freiwilligen Antwort die Informationen jedoch richtig sein müssen und nicht irreführend sein dürfen, und es weist auf die möglichen Geldbußen gemäß Artikel 99 Absatz 5 für die Bereitstellung von Informationen hin, die unrichtig oder irreführend sind. Beruht das Ersuchen auf einem Beschluss, gibt das Büro für Künstliche Intelligenz zusätzlich die in Artikel 99 Absatz 5 vorgesehenen Geldbußen für die Bereitstellung unrichtiger, unvollständiger oder irreführender Informationen an und weist auf das Recht hin, den Beschluss durch den Gerichtshof der Europäischen Union überprüfen zu lassen. Das Büro für Künstliche Intelligenz übermittelt der Marktüberwachungsbehörde des Mitgliedstaats, in dessen Hoheitsgebiet sich der Akteur oder sein gesetzlicher Vertreter befindet, eine Kopie des Ersuchens.
+(4)   Zur Wahrnehmung der ihm gemäß diesem Abschnitt übertragenen Aufgaben kann das Büro für Künstliche Intelligenz im Rahmen der Befugnisse nach Artikel 14 Absatz 4 Buchstaben d und e der Verordnung (EU) 2019/1020 und Artikel 74 Absatz 5 der vorliegenden Verordnung alle erforderlichen Ferninspektionen oder Vor-Ort-Inspektionen durchführen. Bei der Durchführung einer Inspektion informiert das Büro für Künstliche Intelligenz den betreffenden Anbieter über den Gegenstand und Zweck der Untersuchung, die einschlägigen Geldbußen gemäß Artikel 99 Absatz 5 der vorliegenden Verordnung sowie das Recht, den Beschluss durch den Gerichtshof der Europäischen Union überprüfen zu lassen. Im Vorfeld der Durchführung einer Inspektion unterrichtet das Büro für Künstliche Intelligenz die Marktüberwachungsbehörde des Mitgliedstaats, in dessen Hoheitsgebiet sich der Akteur oder sein gesetzlicher Vertreter befindet.
+Die Bediensteten des Büros für Künstliche Intelligenz sind im Zuge von Inspektionen befugt,
+a)
+alle in der Union gelegenen Geschäftsräume, Grundstücke oder Immobilien des betreffenden Betreibers zu betreten,
+b)
+die Bücher, Daten und sonstiges für die Erfüllung ihrer Aufgaben relevantes Material, unabhängig davon, in welcher Form es gespeichert ist, zu prüfen,
+c)
+Kopien oder Auszüge gleich in welcher Form aus Büchern, von Daten und aus sonstigen Aufzeichnungen anzufertigen oder zu verlangen,
+d)
+jede von der Inspektion betroffene Person oder ihre Vertreter oder jeden Beschäftigten zur Abgabe mündlicher oder schriftlicher Erklärungen zu Sachverhalten oder Unterlagen aufzufordern, die mit dem Gegenstand und Zweck der Inspektion in Zusammenhang stehen, und die Antworten aufzuzeichnen,
+e)
+betriebliche Räumlichkeiten und Bücher oder Unterlagen jeder Art für die Dauer der Inspektion in dem hierfür erforderlichen Ausmaß zu versiegeln.
+Stellt das Büro für Künstliche Intelligenz fest, dass sich eine natürliche oder juristische Person einer Inspektion widersetzt oder diese behindert, so gewährt die zuständige nationale Behörde des betreffenden Mitgliedstaats gegebenenfalls unter Einsatz von Polizeikräften oder einer entsprechenden vollziehenden Behörde die erforderliche Unterstützung, damit die Vor-Ort-Inspektion durchgeführt werden kann.
+Ist für eine Vor-Ort-Inspektion von Geschäftsräumen, Grundstücken oder Immobilien eine gerichtliche Genehmigung nach nationalem Recht erforderlich, so ersucht das Büro für Künstliche Intelligenz um eine solche Genehmigung. Das Büro für Künstliche Intelligenz kann die Genehmigung auch vorsorglich beantragen. Wird eine solche Genehmigung beantragt, so verifiziert die nationale Justizbehörde unverzüglich, dass die geplanten Zwangsmaßnahmen im Hinblick auf den Gegenstand der Untersuchung oder Inspektion und die vom Büro für Künstliche Intelligenz mit dem Beschluss vorgelegten Unterlagen weder willkürlich noch unverhältnismäßig sind. Bei der Prüfung der Verhältnismäßigkeit von Zwangsmaßnahmen kann die nationale Justizbehörde das Büro für Künstliche Intelligenz um detaillierte Erläuterungen bitten, insbesondere in Bezug auf die Gründe, die dem Büro für Künstliche Intelligenz Anlass zu der Vermutung geben, dass ein Verstoß gegen diese Verordnung vorliegt, sowie auf die Schwere des mutmaßlichen Verstoßes und die Art der Beteiligung der Person, gegen die sich die Zwangsmaßnahmen richten. Die nationale Justizbehörde darf weder die Notwendigkeit der Untersuchung oder Inspektion prüfen noch Auskünfte aus der Verfahrensakte des Büros für Künstliche Intelligenz verlangen. Gemäß den Verträgen unterliegt die Rechtmäßigkeit des Beschlusses des Büros für Künstliche Intelligenz ausschließlich der Kontrolle durch den Gerichtshof der Europäischen Union.
+(5)   Auf Ersuchen des Büros für Künstliche Intelligenz kann die zuständige Marktüberwachungsbehörde eines Mitgliedstaats in ihrem eigenen Hoheitsgebiet im Namen und für Rechnung des Büros für Künstliche Intelligenz Untersuchungen, Inspektionen oder andere Maßnahmen zur Sachverhaltsaufklärung durchführen, um festzustellen, ob ein Verstoß gegen diese Verordnung vorliegt. Die Bediensteten der zuständigen Behörden der Mitgliedstaaten, die für die Durchführung solcher Untersuchungen, Inspektionen oder Maßnahmen zur Sachverhaltsaufklärung zuständig sind, sowie die von ihnen ermächtigten oder bestellten Personen üben ihre Befugnisse nach Maßgabe ihres nationalen Rechts aus.
+(6)   Zusätzlich zu den in Absatz 1 dieses Artikels genannten Befugnissen kann das Büro für Künstliche Intelligenz in Ausübung seiner in Artikel 75 Absatz 1 genannten Zuständigkeiten
+a)
+Akteure anweisen, Zugang zu ihren KI-Systemen zu gewähren und einschlägige Erläuterungen bereitzustellen,
+b)
+einem Akteur die Verpflichtung auferlegen, alle Daten und Unterlagen aufzubewahren, die als erforderlich erachtet werden, damit die Umsetzung und Einhaltung der aus dieser Verordnung erwachsenden Verpflichtungen bewertet werden kann.
+(7)   Das Büro für Künstliche Intelligenz kann mit Zustimmung der betreffenden Behörde unabhängige externe Sachverständige und Prüfer sowie Sachverständige, Untersuchungsteams und Prüfer aus den zuständigen Behörden des Mitgliedstaats bestellen, um es bei der Überwachung der wirksamen Durchführung und Einhaltung der einschlägigen Bestimmungen dieser Verordnung zu unterstützen und dem Büro für Künstliche Intelligenz spezifisches Fachwissen oder spezifische Kenntnisse bei der Ausübung seiner Befugnisse gemäß Artikel 75 Absatz 1 zur Verfügung zu stellen. Die im Rahmen dieser Überwachungsmaßnahmen erlangten Informationen werden an die einschlägigen zuständigen Behörden der Mitgliedstaaten weitergegeben.
+(8)   Die nach diesem Artikel erhobenen Informationen dürfen ausschließlich für den Zweck dieser Verordnung verwendet werden.
+Artikel 75b
+Verpflichtungszusagen
+Bietet der betreffende Akteur während des Verfahrens nach Artikel 75a Absatz 2 Verpflichtungszusagen an, mit denen die Einhaltung der einschlägigen Bestimmungen dieser Verordnung sichergestellt wird, so kann das Büro für Künstliche Intelligenz diese Verpflichtungszusagen durch einen Beschluss für den Akteur für bindend erklären und feststellen, dass es keinen weiteren Anlass zum Handeln gibt. Das Büro für Künstliche Intelligenz kann das Verfahren auf Antrag oder von Amts wegen wieder aufnehmen, wenn
+a)
+sich der Sachverhalt, auf den sich der Beschluss stützte, in einem wesentlichen Punkt geändert hat,
+b)
+der Akteur seinen Verpflichtungszusagen zuwiderhandelt oder
+c)
+der Beschluss auf unvollständigen, unrichtigen oder irreführenden Angaben des betreffenden Akteurs beruhte.
+Ist das Büro für Künstliche Intelligenz der Auffassung, dass die von dem betreffenden Akteur angebotenen Verpflichtungszusagen die wirksame Einhaltung der einschlägigen Bestimmungen dieser Verordnung nicht sicherstellen können, so lehnt sie diese Verpflichtungszusagen bei Abschluss des Verfahrens in einem mit Gründen versehenen Beschluss ab.
+Artikel 75c
+Verstöße, Geldbußen und Zwangsgelder
+(1)   Stellt das Büro für Künstliche Intelligenz fest, dass ein Akteur, der in den Anwendungsbereich von Artikel 75 Absatz 1 fällt, die einschlägigen Bestimmungen dieser Verordnung oder die gemäß Artikel 75b für bindend erklärten Verpflichtungszusagen nicht einhält, so erlässt es einen Beschluss, mit dem ein solcher Verstoß festgestellt wird.
+(2)   Vor Erlass des Beschlusses nach Absatz 1 teilt das Büro für Künstliche Intelligenz dem betreffenden Akteur seine vorläufige Beurteilung mit. In dieser vorläufigen Beurteilung erläutert das Büro für Künstliche Intelligenz, welche Maßnahmen es zu ergreifen beabsichtigt bzw. der betreffende Akteur ergreifen sollte, um der vorläufigen Beurteilung wirksam Rechnung zu tragen.
+(3)   In dem Beschluss gemäß Absatz 1 dieses Artikels ordnet das Büro für Künstliche Intelligenz gegebenenfalls an, dass der betreffende Akteur die erforderlichen Maßnahmen ergreift, um die Einhaltung der einschlägigen Bestimmungen dieser Verordnung innerhalb einer angemessenen, darin genannten Frist sicherzustellen, und dass der Akteur Informationen über die Maßnahmen übermittelt, die er zu ergreifen beabsichtigt, um dem Beschluss nachzukommen. Der betreffende Akteur legt dem Büro für Künstliche Intelligenz eine Beschreibung der Maßnahmen vor, die er ergriffen hat, um die Einhaltung des Beschlusses durch ihre Umsetzung sicherzustellen. Bevor das Büro für Künstliche Intelligenz eine Maßnahme fordert, kann es einen strukturierten Dialog mit dem Akteur des betreffenden KI-Systems aufnehmen. Während dieses Dialogs kann der Akteur Verpflichtungszusagen gemäß Artikel 75b vorschlagen.
+(4)   Ein nach Absatz 1 dieses Artikels erlassener Beschluss kann mit der Verhängung von Sanktionen gemäß Artikel 99 Absätze 3 bis 7 einhergehen, deren Bestimmungen sinngemäß für das Büro für Künstliche Intelligenz bei der Wahrnehmung seiner Aufsichts- und Durchsetzungsaufgaben gemäß Artikel 75 Absatz 1 gelten.
+Mit Geldbußen nach Artikel 99 Absatz 4 werden insbesondere belegt:
+a)
+Verstöße gegen anwendbare Bestimmungen dieser Verordnung, einschließlich der nicht in Artikel 99 Absatz 4 aufgeführten Bestimmungen;
+b)
+die Nichteinhaltung von Beschlüssen oder Maßnahmen, die gemäß den in Artikel 14 Absatz 4 oder Artikel 16 Absatz 3 der Verordnung (EU) 2019/1020 aufgeführten Befugnissen sowie den in Artikel 75a dieser Verordnung aufgeführten Befugnissen erlassen wurden;
+c)
+die Nichteinhaltung einer Verpflichtungszusage, die durch einen Beschluss gemäß Artikel 75b für bindend erklärt wurde.
+Die Übermittlung unrichtiger, unvollständiger oder irreführender Informationen an das Büro für Künstliche Intelligenz als Antwort auf ein Ersuchen wird mit Geldbußen gemäß Artikel 99 Absatz 5 belegt.
+(5)   Das Büro für Künstliche Intelligenz kann einen Beschluss zur Verhängung von Zwangsgeldern erlassen, um die seiner Zuständigkeit unterliegenden Akteure gemäß Artikel 75 Absatz 1 zu zwingen,
+a)
+eine Untersuchung zu dulden,
+b)
+einem durch einen Beschluss gemäß Artikel 75a Absatz 3 angeordneten Informationsersuchen nachzukommen,
+c)
+sich einer durch einen Beschluss gemäß Artikel 75a Absatz 4 angeordneten Inspektion zu unterziehen,
+d)
+im Rahmen einer durch einen Beschluss gemäß Artikel 75a Absatz 4 angeordneten Inspektion richtige oder vollständige Antworten oder Erläuterungen zu geben,
+e)
+den gemäß der Befugnis nach Artikel 16 der Verordnung (EU) 2019/1020 angeordneten Korrekturmaßnahmen nachzukommen,
+f)
+durch Beschluss nach Artikel 75b für bindend erklärte Verpflichtungszusagen einzuhalten oder
+g)
+einem Beschluss nach Absatz 1 dieses Artikels nachzukommen.
+Diese Zwangsgelder müssen wirksam und verhältnismäßig sein und dürfen gegebenenfalls 5 % der durchschnittlichen Tageseinnahmen oder des durchschnittlichen weltweiten Jahresumsatzes im vorangegangenen Geschäftsjahr pro Tag, berechnet ab dem durch den Beschluss bestimmten Tag, nicht übersteigen.
+(6)   Der Gerichtshof der Europäischen Union besitzt die unbeschränkte Befugnis zur Überprüfung von Beschlüssen, mit denen das Büro für Künstliche Intelligenz eine Geldbuße oder ein Zwangsgeld gemäß diesem Artikel verhängt hat. Er kann die verhängten Geldbußen oder Zwangsgelder aufheben, herabsetzen oder erhöhen.
+(7)   Das Aufkommen aus den nach diesem Artikel verhängten Geldbußen oder Zwangsgeldern trägt zum Gesamthaushalt der Union bei.
+(8)   Die Befugnisse, die dem Büro für Künstliche Intelligenz mit diesem Artikel übertragen wurden, verjähren nach einer Frist von fünf Jahren. Die Verjährungsfrist beginnt mit dem Tag, an dem der Verstoß begangen wird. Im Fall andauernder oder wiederholter Verstöße läuft die Verjährungsfrist jedoch ab dem Tag, an dem der Verstoß beendet wird.
+Die Befugnis des Büros für Künstliche Intelligenz zur Vollstreckung von Beschlüssen nach diesem Artikel verjährt nach Ablauf von fünf Jahren. Die Verjährungsfrist beginnt mit dem Tag, an dem der Beschluss rechtskräftig wird.
+In dem in Artikel 75d Absatz 3 genannten Durchführungsrechtsakt werden die Unterabsätze 1 und 2 dieses Absatzes näher festgelegt, einschließlich der Umstände, unter denen die Verjährungsfristen ausgesetzt werden.
+(9)   Stellt das Büro für Künstliche Intelligenz fest, dass keine Gründe für den Erlass eines Beschlusses wegen Nichteinhaltung vorliegen, so schließt es das Verfahren mit einem Beschluss ab. Dieser Beschluss ist sofort anwendbar.
+Artikel 75d
+Schutzvorkehrungen und weitere Spezifizierung
+(1)   Unbeschadet der in dieser Verordnung enthaltenen spezifischeren Verfahrensrechte gilt Artikel 18 der Verordnung (EU) 2019/1020 sinngemäß für Akteure, die gemäß Artikel 75 Absatz 1 dieser Verordnung in die Zuständigkeit des Büros für Künstliche Intelligenz fallen.
+(2)   Die Verteidigungsrechte und das Recht auf Einsicht in die Akten von Akteuren, die in den Anwendungsbereich von Artikel 75 Absatz 1 fallen, werden in den Verfahren in vollem Umfang gewahrt. Im Hinblick auf den möglichen Erlass von Beschlüssen auf der Grundlage von Artikel 75c Absatz 1 haben diese Akteure das Recht auf Einsicht in die Akten des Büros für Künstliche Intelligenz im Rahmen einer einvernehmlichen Einsichtnahme, vorbehaltlich des berechtigten Interesses des Akteurs oder einer anderen betroffenen Person an der Wahrung ihrer Geschäftsgeheimnisse. Das Büro für Künstliche Intelligenz ist befugt, im Falle von Meinungsverschiedenheiten zwischen den Parteien Beschlüsse über die Bedingungen dieser Einsichtnahme zu fassen. Von der Einsicht in die Akten ausgenommen sind vertrauliche Informationen sowie interne Schriftstücke des Büros für Künstliche Intelligenz, anderer zuständiger Marktüberwachungsbehörden oder anderer öffentlicher Stellen der Mitgliedstaaten. Insbesondere ist die Korrespondenz zwischen dem Büro für Künstliche Intelligenz und diesen Behörden und Stellen von der Akteneinsicht ausgenommen. Die Regelung dieses Absatzes steht der Offenlegung und Nutzung der für den Nachweis einer Zuwiderhandlung notwendigen Informationen durch das Büro für Künstliche Intelligenz in keiner Weise entgegen.
+(3)   Die Kommission kann Durchführungsrechtsakte zu den praktischen Modalitäten für die Akteneinsicht und die einvernehmliche Offenlegung von Informationen gemäß Absatz 2 erlassen.
+(4)   Das Büro für Künstliche Intelligenz veröffentlicht die Beschlüsse, die es nach den Artikeln 75b und 75c erlässt. In diesen Veröffentlichungen sind die Namen der beteiligten Unternehmen und der wesentliche Inhalt des Beschlusses, einschließlich der gegebenenfalls verhängten Sanktionen, anzugeben. Bei der Veröffentlichung ist den Rechten und dem berechtigten Interesse aller Personen am Schutz ihrer vertraulichen Informationen Rechnung zu tragen.“
+(33)
+In Artikel 76 Absatz 1 wird folgender Unterabsatz angefügt:
+„Beruht der Test unter Realbedingungen auf Artikel 60a, so gilt jede Bezugnahme auf eine Marktüberwachungsbehörde in diesem Artikel als Bezugnahme auf die zuständige nationale Behörde oder die gemäß den in Anhang I Abschnitt B aufgeführten Harmonisierungsrechtsvorschriften der Union zuständige Behörde, und Bezugnahmen auf Artikel 60 gelten entsprechend als Bezugnahmen auf Artikel 60a.“
+(34)
+Artikel 77 wird wie folgt geändert:
+a)
+Die Überschrift erhält folgende Fassung:
+„Befugnisse der für den Schutz der Grundrechte zuständigen Behörden und Zusammenarbeit mit den Marktüberwachungsbehörden“
+b)
+Absatz 1 erhält folgende Fassung:
+„(1)   Nationale Behörden oder öffentliche Stellen, die die Einhaltung des Unionsrechts zum Schutz der Grundrechte, einschließlich des Rechts auf Nichtdiskriminierung, beaufsichtigen oder durchsetzen, sind befugt, von der betreffenden Marktüberwachungsbehörde sämtliche auf der Grundlage dieser Verordnung erstellten oder geführten Informationen oder Dokumentationen in zugänglicher Sprache und maschinenlesbarer Form auf elektronischem Weg anzufordern und einzusehen, sofern der Zugang zu diesen Informationen oder Dokumentationen für die wirksame Ausübung ihrer Aufträge im Rahmen ihrer Befugnisse innerhalb der Grenzen ihrer Hoheitsgewalt notwendig ist. Dieser Artikel gilt unbeschadet der Zuständigkeiten, Aufgaben, Befugnisse und Unabhängigkeit der zuständigen nationalen Behörden oder öffentlichen Stellen im Rahmen ihres Auftrags.“
+c)
+Folgende Absätze werden eingefügt:
+„(1a)   Unter den in diesem Artikel genannten Bedingungen gewährt die Marktüberwachungsbehörde der in Absatz 1 genannten zuständigen Behörde oder öffentlichen Stelle Zugang zu diesen Informationen oder Dokumentationen, wozu sie diese Informationen oder Dokumentationen erforderlichenfalls und unverzüglich auch erst vom Anbieter oder Betreiber anfordert.
+(1b)   Die Marktüberwachungsbehörden und die in Absatz 1 genannten Behörden oder öffentlichen Stellen arbeiten eng zusammen und leisten einander die für die Wahrnehmung ihrer jeweiligen Aufgaben erforderliche Amtshilfe, um die kohärente Anwendung dieser Verordnung und des Unionsrechts zum Schutz der Grundrechte zu gewährleisten und die Verfahren zu straffen und gleichzeitig ihre jeweiligen Zuständigkeiten, Aufgaben, Befugnisse und ihre Unabhängigkeit zu achten. Dies umfasst insbesondere den Austausch von Informationen, soweit dieser für die wirksame Beaufsichtigung oder Durchsetzung im Rahmen dieser Verordnung und der anderen einschlägigen Rechtsvorschriften der Union erforderlich ist.“
+35.
+Artikel 95 Absatz 4 erhält folgende Fassung:
+„(4)   Das Büro für Künstliche Intelligenz und die Mitgliedstaaten berücksichtigen die besonderen Interessen und Bedürfnisse von KMU, einschließlich Startups, und von kleinen Midcap-Unternehmen bei der Förderung und Erleichterung der Aufstellung von Verhaltenskodizes.“
+36.
+Artikel 96 Absatz 1 wird wie folgt geändert:
+a)
+Unterabsatz 1 Buchstabe a erhält folgende Fassung:
+„a)
+die Anwendung der in den Artikeln 8 bis 15 und in den Artikeln 25 und 26 genannten Anforderungen und Pflichten;“
+b)
+In Unterabsatz 1 wird folgender Buchstabe angefügt:
+„g)
+die praktische Umsetzung von Artikel 8 Absatz 2, Artikel 9 Absatz 10 und Artikel 17 Absatz 3 im Einklang mit dem Grundsatz der Komplementarität und Verhältnismäßigkeit mit Blick darauf, Kohärenz zu gewährleisten, Doppelarbeit zu vermeiden und den zusätzlichen Aufwand bei der Erfüllung der Anforderungen dieser Verordnung und der Anforderungen der in Anhang I Abschnitt A aufgeführten Harmonisierungsrechtsvorschriften der Union so gering wie möglich zu halten; diese Leitlinien werden bis zum 1. August 2027 veröffentlicht.“
+c)
+Unterabsatz 2 erhält folgende Fassung:
+„Wenn die Kommission solche Leitlinien herausgibt, bezieht sie das KI-Gremium ein und widmet den Bedürfnissen von KMU, einschließlich Start-up-Unternehmen, und von kleinen Midcap-Unternehmen, von lokalen Behörden und von den am wahrscheinlichsten von dieser Verordnung betroffenen Sektoren besondere Aufmerksamkeit.“
+37.
+Artikel 97 wird wie folgt geändert:
+a)
+Absätze 2 und 3 erhalten folgende Fassung:
+„(2)   Die in Artikel 6 Absätze 6 und 7, Artikel 7 Absätze 1 und 3, Artikel 11 Absatz 3, Artikel 43 Absätze 5 und 6, Artikel 47 Absatz 5, Artikel 51 Absatz 3, Artikel 52 Absatz 4 sowie Artikel 53 Absätze 5 und 6 genannte Befugnis zum Erlass delegierter Rechtsakte wird der Kommission für einen Zeitraum von fünf Jahren ab 1. August 2024 übertragen. Die in Artikel 2 Absatz 13 und Artikel 30 Absatz 2 genannte Befugnis zum Erlass delegierter Rechtsakte wird der Kommission für einen Zeitraum von fünf Jahren ab 27. Juli 2026 übertragen. Die Kommission erstellt spätestens neun Monate vor Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.
+(3)   Die Befugnisübertragung gemäß Artikel 2 Absatz 13, Artikel 6 Absätze 6 und 7, Artikel 7 Absätze 1 und 3, Artikel 11 Absatz 3, Artikel 30 Absatz 2, Artikel 43 Absätze 5 und 6, Artikel 47 Absatz 5, Artikel 51 Absatz 3, Artikel 52 Absatz 4 sowie Artikel 53 Absätze 5 und 6 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in jenem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im
+Amtsblatt der Europäischen Union
+oder zu einem darin angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.“
+b)
+Absatz 6 erhält folgende Fassung:
+„(6)   Ein delegierter Rechtsakt, der nach Artikel 2 Absatz 13, Artikel 6 Absatz 6 oder 7, Artikel 7 Absatz 1 oder 3, Artikel 11 Absatz 3, Artikel 30 Absatz 2, Artikel 43 Absatz 5 oder 6, Artikel 47 Absatz 5, Artikel 51 Absatz 3, Artikel 52 Absatz 4 sowie Artikel 53 Absatz 5 oder 6 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von drei Monaten nach Übermittlung jenes Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um drei Monate verlängert.“
+38.
+Artikel 99 wird wie folgt geändert:
+a)
+Absatz 1 erhält folgende Fassung:
+„(1)   Entsprechend den Vorgaben dieser Verordnung erlassen die Mitgliedstaaten Vorschriften für Sanktionen und andere Durchsetzungsmaßnahmen, zu denen auch Geldbußen, Verwarnungen und nichtmonetäre Maßnahmen gehören können, die bei jeglichem Verstoß gegen diese Verordnung durch Akteure Anwendung finden, und ergreifen alle Maßnahmen, die für deren ordnungsgemäße und wirksame Durchsetzung notwendig sind, wobei die von der Kommission gemäß Artikel 96 erteilten Leitlinien zu berücksichtigen sind. Die vorgesehenen Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein. Die Mitgliedstaaten berücksichtigen bei der Verhängung von Sanktionen die Interessen von KMU, einschließlich Start-up-Unternehmen, und von kleinen Midcap-Unternehmen sowie deren wirtschaftliches Überleben.“
+b)
+In Absatz 4 wird folgender Buchstabe eingefügt:
+„da)
+Pflichten der Anbieter und Akteure gemäß Artikel 25 Absätze 2 und 4;“
+c)
+Folgender Absatz wird eingefügt:
+„(6a)   Im Falle von kleinen Midcap-Unternehmen gilt für jede in den Absätzen 4 und 5 genannte Geldbuße der jeweils niedrigere Betrag aus den darin genannten Prozentsätzen oder Summen.“
+39.
+Artikel 111 wird wie folgt geändert:
+a)
+Absatz 2 erhält folgende Fassung:
+„(2)   Unbeschadet der Anwendung des Artikels 5 gemäß Artikel 113 Absatz 3 Buchstabe a gilt diese Verordnung für Akteure von Hochrisiko-KI-Systemen — mit Ausnahme der in Absatz 1 des vorliegenden Artikels genannten Systeme —, die vor dem Beginn der Anwendung des Kapitels III gemäß Artikel 113 in Verkehr gebracht oder in Betrieb genommen wurden, nur dann, wenn diese Systeme danach in ihrer Konzeption erheblich verändert wurden. In jedem Fall treffen die Anbieter und Betreiber von Hochrisiko-KI-Systemen, die bestimmungsgemäß von Behörden verwendet werden sollen, die erforderlichen Maßnahmen zur Erfüllung der in dieser Verordnung festgelegten Anforderungen und Pflichten bis zum 2. August 2030.“
+b)
+Der folgende Absatz wird angefügt:
+„(4)   Anbieter von KI-Systemen, einschließlich KI-Systemen mit allgemeinem Verwendungszweck, die synthetische Audio-, Bild-, Video- oder Textinhalte erzeugen, die vor dem 2. August 2026 in Verkehr gebracht wurden, treffen die erforderlichen Maßnahmen, um Artikel 50 Absatz 2 bis zum 2. Dezember 2026 nachzukommen.“
+40.
+Artikel 113 Absatz 3 wird wie folgt geändert:
+a)
+Buchstabe a erhält folgende Fassung:
+„a)
+Die Kapitel I und II gelten ab dem 2. Februar 2025, mit Ausnahme von Artikel 5 Absatz 1 Unterabsatz 1 Buchstaben ba und bb und Artikel 5 Absätze 1a und 1b, die ab dem 2. Dezember 2026 gelten.“
+b)
+Buchstabe c erhält folgende Fassung:
+„c)
+Kapitel III Abschnitte 1, 2 und 3, mit Ausnahme von Artikel 6 Absatz 5, gelten ab dem:
+i)
+2. Dezember 2027 in Bezug auf KI-Systeme, die gemäß Artikel 6 Absatz 2 und Anhang III als hochriskant eingestuft sind, und
+ii)
+2. August 2028 in Bezug auf KI-Systeme, die gemäß Artikel 6 Absatz 1 und Anhang I als hochriskant eingestuft sind.“
+c)
+Folgender Buchstabe wird angefügt:
+„d)
+Die Artikel 102 bis 110 gelten ab dem 27. Juli 2026.“
+41.
+Anhang I wird wie folgt geändert:
+a)
+In Abschnitt A wird die Nummer 1 gestrichen.
+b)
+In Abschnitt B wird folgende Nummer angefügt:
+„(21)
+Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni 2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates und der Richtlinie 73/361/EWG des Rates (
+ABl. L 165 vom 29.6.2023, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2023/1230/oj
+).“
+42.
+In Anhang VIII Abschnitt B werden die Nummern 7 und 9 gestrichen.
+43.
+Folgender Anhang wird hinzugefügt:
+„Anhang XIV
+Verzeichnis der Codes, Kategorien und entsprechenden Arten von KI-Systemen für die Zwecke des Notifizierungsverfahrens gemäß Artikel 30 mit Angabe des Geltungsbereichs der Benennung als notifizierte Stellen
+1.
+Einleitung
+Die Konformitätsbewertung von Hochrisiko-KI-Systemen gemäß dieser Verordnung kann die Einbeziehung von Konformitätsbewertungsstellen erfordern. Nur Konformitätsbewertungsstellen, die gemäß dieser Verordnung benannt wurden, dürfen Konformitätsbewertungen durchführen, und dies nur für die Tätigkeiten in Bezug auf die betreffenden Arten von KI-Systemen. In dem Verzeichnis der Codes, Kategorien und entsprechenden Arten von KI-Systemen wird der Geltungsbereich der Benennung der gemäß Artikel 30 notifizierten Konformitätsbewertungsstellen festgelegt.
+2.
+Liste der Codes, Kategorien und entsprechenden Arten von KI-Systemen
+a)
+KI-Systeme, die unter Anhang I fallen
+AIA-Code
+AIP 0102
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 2 fallen
+AIP 0103
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 3 fallen
+AIP 0104
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 4 fallen
+AIP 0105
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 5 fallen
+AIP 0106
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 6 fallen
+AIP 0107
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 7 fallen
+AIP 0108
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 8 fallen
+AIP 0109
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 9 fallen
+AIP 0110
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 10 fallen
+AIP 0111
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 11 fallen
+AIP 0112
+KI-Systeme, die unter Anhang I Abschnitt A Nummer 12 fallen
+b)
+KI-Systeme, die unter Anhang III Nummer 1 fallen
+AIA-Code
+AIB 0201
+Biometrische Fernidentifizierungssysteme
+AIB 0202
+KI-Systeme zur biometrischen Kategorisierung
+AIB 0203
+KI-Systeme zur Emotionserkennung
+3.
+KI-technologiespezifische Codes
+a)
+Symbolische KI und Expertensysteme
+AIA-Code
+AIH 0101
+KI-Systeme, die auf symbolischer KI, Experten- und wissensgestützten Systemen beruhen, und KI-Systeme, die auf Suche und Optimierung beruhen
+b)
+Maschinelles Lernen, mit Ausnahme von generativer KI und von KI mit allgemeinem Verwendungszweck
+AIA-Code
+AIH 0201
+KI-Systeme, die strukturierte Daten verarbeiten
+AIH 0202
+KI-Systeme, die Signal- und Audiodaten verarbeiten
+AIH 0203
+KI-Systeme, die Textdaten verarbeiten
+AIH 0204
+KI-Systeme, die Bild- und Videodaten verarbeiten
+AIH 0205
+KI-Systeme, die von ihrer Umgebung lernen, mit Ausnahme von KI-Systemen, die unter AIH 0401 fallen
+c)
+KI- Systeme, die auf KI-Modellen mit allgemeinem Verwendungszweck oder generativer KI beruhen
+AIA-Code
+AIH 0301
+generative KI-Systeme, einschließlich KI-Systemen, die auf KI-Modellen mit allgemeinem Verwendungszweck beruhen
+d)
+Neue KI-Technologien
+AIA-Code
+AIH 0401
+KI-Systeme, die auf anderen neuen KI-Technologien beruhen, die nicht unter andere Codes fallen, einschließlich agentischer KI
+4.
+Antrag auf Benennung
+Konformitätsbewertungsstellen verwenden das Verzeichnis der Codes, Kategorien und entsprechenden Arten von KI-Systemen aus diesem Anhang, wenn sie die Arten von KI-Systemen in dem in Artikel 29 genannten Antrag auf Benennung angeben.“
+Artikel 2
+Änderung der Verordnung (EU) 2018/1139
+Die Verordnung (EU) 2018/1139 wird wie folgt geändert:
+1.
+In Artikel 27 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf Systeme der künstlichen Intelligenz (KI) beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 Europäischen Parlaments und des Rates
+(
+*2
+)
+handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.
+(
+*2
+)
+Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (
+ABl. L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+).“"
+2.
+In Artikel 31 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf KI-Systeme beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+3.
+In Artikel 32 wird folgender Absatz angefügt:
+„(3)   Beim Erlass delegierter Rechtsakte nach Absatz 1, die sich auf KI-Systeme beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 handelt, werden die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+4.
+In Artikel 36 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf Systeme der künstlichen Intelligenz beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+5.
+In Artikel 39 wird folgender Absatz angefügt:
+„(3)   Beim Erlass delegierter Rechtsakte nach Absatz 1, die sich auf KI-Systeme beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 handelt, werden die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+6.
+In Artikel 50 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf Systeme der künstlichen Intelligenz beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+7.
+In Artikel 53 wird folgender Absatz angefügt:
+„(3)   Unbeschadet des Absatzes 2 werden beim Erlass von Durchführungsrechtsakten nach Absatz 1, die sich auf KI-Systeme beziehen, bei denen es sich um Sicherheitsbauteile im Sinne der Verordnung (EU) 2024/1689 handelt, die in Kapitel III Abschnitt 2 jener Verordnung festgelegten Anforderungen berücksichtigt.“
+Artikel 3
+Änderung der Verordnung (EU) 2023/1230
+Die Verordnung (EU) 2023/1230 wird wie folgt geändert:
+1.
+In Artikel 8 werden folgende Absätze angefügt:
+„Die Kommission erlässt gemäß Artikel 47 dieser Verordnung delegierte Rechtsakte zur Änderung des Anhangs III dieser Verordnung durch Hinzufügung von Sicherheits- und Gesundheitsschutzanforderungen in Bezug auf künstliche Intelligenz (KI)-Systeme, die gemäß Artikel 6 Absatz 1 der Verordnung (EU) 2024/1689 als hochriskant eingestuft werden, weil sie ein Sicherheitsbauteil eines unter diese Verordnung fallenden Produkts oder selbst ein unter diese Verordnung fallendes Produkt sind. Diese Anforderungen müssen sicherstellen, dass den einschlägigen Anforderungen in Kapitel III Abschnitt 2 und den Artikeln 17, 19, 72 und 73 der Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates
+(
+*3
+)
+Rechnung getragen wird.
+Beim Erlass der in Absatz 3 genannten delegierten Rechtsakte berücksichtigt die Kommission die Ziele der Verordnung (EU) 2024/1689 und gewährleistet ein Schutzniveau, das mit der genannten Verordnung im Einklang steht. Diese delegierten Rechtsakte gelten ab dem 2. August 2028.
+(
+*3
+)
+Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (
+ABl. L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+).“"
+2.
+In Artikel 20 wird folgender Absatz angefügt:
+„(10)   Bis in Bezug auf Hochrisiko-KI-Systeme harmonisierte Normen oder gemeinsame Spezifikationen herangezogen oder gemäß diesem Artikel angenommen werden, wird bei in den Anwendungsbereich dieser Verordnung fallenden Hochrisiko-KI-Systemen, die den einschlägigen herangezogenen harmonisierten Normen oder den angenommenen gemeinsamen Spezifikationen gemäß Artikel 40 bzw. Artikel 41 der Verordnung (EU) 2024/1689 entsprechen, eine Konformität mit den grundlegenden Sicherheits- und Gesundheitsschutzanforderungen nach Anhang III dieser Verordnung in Bezug auf Hochrisiko-KI-Systeme vermutet.“
+3.
+Artikel 47 wird wie folgt geändert:
+a)
+Absätze 2 und 3 erhalten folgende Fassung:
+„(2)   Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 6 Absätze 2 und 11 und Artikel 7 Absatz 2 wird der Kommission für einen Zeitraum von fünf Jahren ab dem 19. Juli 2023 übertragen. Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 8 Absatz 3 wird der Kommission für einen Zeitraum von fünf Jahren ab dem 27. Juli 2026 übertragen. Die Kommission erstellt spätestens neun Monate vor Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.
+(3)   Die Befugnisübertragung gemäß Artikel 6 Absätze 2 und 11, Artikel 7 Absatz 2 und Artikel 8 Absatz 3 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im
+Amtsblatt der Europäischen Union
+oder zu einem im Beschluss über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.“
+b)
+Absatz 6 wird wie folgt geändert:
+„(6)   Ein delegierter Rechtsakt, der gemäß Artikel 6 Absätze 2 und 11, Artikel 7 Absatz 2 oder Artikel 8 Absatz 3 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.“
+Artikel 4
+Inkrafttreten und Geltung
+Diese Verordnung tritt am dritten Tag nach ihrer Veröffentlichung im
+Amtsblatt der Europäischen Union
+in Kraft.
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat.
+Geschehen zu Straßburg am 8. Juli 2026.
+Im Namen des Europäischen Parlaments
+Die Präsidentin
+R. METSOLA
+Im Namen des Rates
+Der Präsident
+T. BYRNE
+(
+1
+)
+ABl. C, C/2026/2285, 15.4.2026, ELI: http://data.europa.eu/eli/C/2026/2285/oj
+.
+(
+2
+)
+Stellungnahme vom 18. März 2026 (noch nicht im Amtsblatt veröffentlicht).
+(
+3
+)
+Stellungnahme vom 7. Mai 2026 (noch nicht im Amtsblatt veröffentlicht).
+(
+4
+)
+Standpunkt des Europäischen Parlaments vom 16. Juni 2026 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 29. Juni 2026.
+(
+5
+)
+Verordnung (EU) 2024/1689 des Europäischen Parlaments und des Rates vom 13. Juni 2024 zur Festlegung harmonisierter Vorschriften für künstliche Intelligenz und zur Änderung der Verordnungen (EG) Nr. 300/2008, (EU) Nr. 167/2013, (EU) Nr. 168/2013, (EU) 2018/858, (EU) 2018/1139 und (EU) 2019/2144 sowie der Richtlinien 2014/90/EU, (EU) 2016/797 und (EU) 2020/1828 (Verordnung über künstliche Intelligenz) (
+ABl. L, 2024/1689, 12.7.2024, ELI: http://data.europa.eu/eli/reg/2024/1689/oj
+).
+(
+6
+)
+Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (
+ABl. L 124 vom 20.5.2003, S. 36
+, ELI:
+http://data.europa.eu/eli/reco/2003/361/oj
+).
+(
+7
+)
+Empfehlung (EU) 2025/1099 der Kommission vom 21. Mai 2025 zur Definition kleiner Midcap-Unternehmen (
+ABl. L, 2025/1099, 28.5.2025, ELI: http://data.europa.eu/eli/reco/2025/1099/oj
+).
+(
+8
+)
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (
+ABl. L 119 vom 4.5.2016, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2016/679/oj
+)
+(
+9
+)
+Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe, Einrichtungen und sonstigen Stellen der Union, zum freien Datenverkehr und zur Aufhebung der Verordnung (EG) Nr. 45/2001 und des Beschlusses Nr. 1247/2002/EG (
+ABl. L 295 vom 21.11.2018, S. 39
+, ELI:
+http://data.europa.eu/eli/reg/2018/1725/oj
+).
+(
+10
+)
+Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (
+ABl. L 119 vom 4.5.2016, S. 89
+, ELI:
+http://data.europa.eu/eli/dir/2016/680/oj
+).
+(
+11
+)
+Richtlinie 2011/93/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 zur Bekämpfung des sexuellen Missbrauchs und der sexuellen Ausbeutung von Kindern sowie der Kinderpornografie sowie zur Ersetzung des Rahmenbeschlusses 2004/68/JI des Rates (
+ABl. L 335 vom 17.12.2011, S. 1
+, ELI:
+http://data.europa.eu/eli/dir/2011/93/oj
+).
+(
+12
+)
+Richtlinie (EU) 2024/1385 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt (
+ABl. L, 2024/1385, 24.5.2024, ELI: http://data.europa.eu/eli/dir/2024/1385/oj
+).
+(
+13
+)
+Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates (
+ABl. L 117 vom 5.5.2017, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2017/745/oj
+).
+(
+14
+)
+Verordnung (EU) 2017/746 des Europäischen Parlaments und des Rates vom 5. April 2017 über
+In-vitro
+-Diagnostika und zur Aufhebung der Richtlinie 98/79/EG und des Beschlusses 2010/227/EU der Kommission (
+ABl. L 117 vom 5.5.2017, S. 176
+, ELI:
+http://data.europa.eu/eli/reg/2017/746/oj
+).
+(
+15
+)
+Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) (
+ABl. L, 2024/2847, 20.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2847/oj
+).
+(
+16
+)
+Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (
+ABl. L 277 vom 27.10.2022, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2022/2065/oj
+).
+(
+17
+)
+Verordnung (EU) 2019/1020 des Europäischen Parlaments und des Rates vom 20. Juni 2019 über Marktüberwachung und die Konformität von Produkten sowie zur Änderung der Richtlinie 2004/42/EG und der Verordnungen (EG) Nr. 765/2008 und (EU) Nr. 305/2011 (
+ABl. L 169 vom 25.6.2019, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2019/1020/oj
+).
+(
+18
+)
+Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni 2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates und der Richtlinie 73/361/EWG des Rates (
+ABl. L 165 vom 29.6.2023, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2023/1230/oj
+).
+(
+19
+)
+Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates (
+ABl. L 212 vom 22.8.2018, S. 1
+, ELI:
+http://data.europa.eu/eli/reg/2018/1139/oj
+).
+(
+20
+)
+ABl. L 123 vom 12.5.2016, S. 1
+, ELI:
+http://data.europa.eu/eli/agree_interinstit/2016/512/oj
+.
+ELI: http://data.europa.eu/eli/reg/2026/1744/oj
+ISSN 1977-0642 (electronic edition)
+Top
+$(document).ready(function () {
+			popUpWidget("./../../../", "en", "800");
+			popUpWidgetAccessible("./../../../", "DE");
+		})
+$(document).ready(function () {
+			    
+				if ("false" == "true" || "false" == "true") {
+					initConsLegTable('To display the table of contents, zoom out or increase the size of your browser window.');
+				}
+				if ("true" == "true") {
+					initToc("false");
+					
+					eliResolutionResolver("/legal-content/DE/TXT/");
+				}
+				setTimeout(function(){ loadDocState("TXT false","PP"); }, 0);
+		        $(document).trigger("enhance");
+			});
+Table of contents
+Hide table of contents
+This site is managed by the
+Publications Office of the European Union
+Need help?
+Help pages
+Contact
+Sitemap
+Follow us
+X
+Legal
+Legal notice
+Cookies policy
+Accessibility
+Privacy statement
+Information
+About EUR-Lex
+Newsletter
+Useful links
+Other services
+European Data
+EU tenders
+EU research results
+EU Whoiswho
+EU publications
+N-Lex
+EU Law Tracker
+Discover more on
+europa.eu
+Contact the EU
+Call us 00 800 6 7 8 9 10 11
+Use other telephone options
+Write to us via our contact form
+Meet us at one of the EU centres
+Social media
+Search for EU social media channels
+Legal
+Languages on our websites
+Privacy policy
+Legal notice
+Cookies
+EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union (CJEU)
+European Central Bank (ECB)
+European Court of Auditors
+European External Action Service (EEAS)
+European Economic and Social Committee
+European Committee of Regions (CoR)
+European Investment Bank
+European Ombudsman
+European Data Protection Supervisor (EDPS)
+European Data Protection Board
+European Personnel Selection Office
+Publications Office of the European Union
+Agencies
+Switch to mobile
+Switch to desktop
+$(document).ready(function () {
+        var switchToDesktop = "notSelected";
+        var deviceDetected = "desktop";
+        //enable switch to desktop view for mobile devices
+        if (deviceDetected == 'mobile' ){
+            if ((switchToDesktop == 'false' || switchToDesktop == 'notSelected') && window.innerWidth<992 ){
+                $("#switchToDesktop").removeClass("hide");
+            }else if (switchToDesktop == 'true'){
+                $("#switchToMobile").removeClass("hide");
+            }
+        }
+    });
+(function($,d){$.each(readyQ,function(i,f){$(f)});$.each(bindReadyQ,function(i,f){$(d).on("ready",f)})})(jQuery,document)

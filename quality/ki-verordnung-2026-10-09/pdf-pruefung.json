@@ -1,0 +1,185 @@
+[
+  {
+    "path": "docs/handbuecher/ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf",
+    "pages": 12,
+    "sha256": "017ad97e1ec7a586949ae1b0c8db2d0916bc282a5f730e97b634e9a9d60ee60d",
+    "outside": [],
+    "visual_pages": [
+      2,
+      12
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-verbotene-praktiken-werkstatt-lesefassung.pdf",
+    "pages": 21,
+    "sha256": "47fe2fbfd9602335f97bab7b4f893e5aeb541bd087831dfd1274df6b713bab88",
+    "outside": [],
+    "visual_pages": [
+      2,
+      21
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-register-meldungen-skills-handbuch.pdf",
+    "pages": 23,
+    "sha256": "f7cf364c54c779ee709ef78088adfbded00c76e9316bf7c68045d1aa79ca9333",
+    "outside": [],
+    "visual_pages": [
+      21
+    ],
+    "visuelle_pruefung": "Nach Artikel-75-Ergänzung die angegebenen geänderten Seiten erneut gerendert und visuell kontrolliert; sämtliche Seiten geometrisch geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-konformitaet-skills-handbuch.pdf",
+    "pages": 23,
+    "sha256": "99ead12d2dc75ee98d12c0f7007fcb02044ead82ed00f2513dea511c7946ff1f",
+    "outside": [],
+    "visual_pages": [
+      13
+    ],
+    "visuelle_pruefung": "Nach Artikel-75-Ergänzung die angegebenen geänderten Seiten erneut gerendert und visuell kontrolliert; sämtliche Seiten geometrisch geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-verbotene-praktiken-skills-handbuch.pdf",
+    "pages": 33,
+    "sha256": "a5479933bbb121aa9462fdb9fd9f0d116f5a8f1aaa5d9478cd94c069e338eca6",
+    "outside": [],
+    "visual_pages": [
+      2,
+      33
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-konformitaet-werkstatt-lesefassung.pdf",
+    "pages": 13,
+    "sha256": "5dbd75cd0cd62b7dd22510f3e1642f85f25f00e75741acb9b1d5e6f39fb9631c",
+    "outside": [],
+    "visual_pages": [
+      13
+    ],
+    "visuelle_pruefung": "Nach Artikel-75-Ergänzung die angegebenen geänderten Seiten erneut gerendert und visuell kontrolliert; sämtliche Seiten geometrisch geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-register-meldungen-werkstatt-lesefassung.pdf",
+    "pages": 14,
+    "sha256": "9adfa617a267d10d1b087b8d452a36140d34fdec1ec9cc7bb529d1759a85add8",
+    "outside": [],
+    "visual_pages": [
+      13
+    ],
+    "visuelle_pruefung": "Nach Artikel-75-Ergänzung die angegebenen geänderten Seiten erneut gerendert und visuell kontrolliert; sämtliche Seiten geometrisch geprüft."
+  },
+  {
+    "path": "docs/handbuecher/ki-verordnung-hochrisiko-pruefer-skills-handbuch.pdf",
+    "pages": 25,
+    "sha256": "33619081a0e1fc0e015641d37ddd8344ed18b2b79b3201954eff8747b75e8f2a",
+    "outside": [],
+    "visual_pages": [
+      2,
+      25
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-hochrisiko-justizassistenz-jena/gesamt-pdf/ki-hochrisiko-justizassistenz-jena_gesamt.pdf",
+    "pages": 20,
+    "sha256": "bd59e43915e9a798c7becdffac460af77fb760b46ae60abd67ded2302bb48c37",
+    "outside": [],
+    "visual_pages": [
+      2,
+      20
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-hochrisiko-medizinprodukt-saalfeld/gesamt-pdf/ki-hochrisiko-medizinprodukt-saalfeld_gesamt.pdf",
+    "pages": 20,
+    "sha256": "30b5986b3766d3e3fc3277913fa458198d9a94c155e1b2aaa3ec40bd59776d81",
+    "outside": [],
+    "visual_pages": [
+      2,
+      20
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-konformitaet-isarblick-personal/gesamt-pdf/ki-konformitaet-isarblick-personal_gesamt.pdf",
+    "pages": 19,
+    "sha256": "02722ba954a660eab02176728441a9905f0ea7d3baf3b1f684595ca1a7aff357",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-konformitaet-saalevis-biometrie/gesamt-pdf/ki-konformitaet-saalevis-biometrie_gesamt.pdf",
+    "pages": 19,
+    "sha256": "362509242669015190b8be01d0360a5319344b39848d13e606329492380dc4cc",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-meldung-mainbogen-notruf/gesamt-pdf/ki-meldung-mainbogen-notruf_gesamt.pdf",
+    "pages": 19,
+    "sha256": "654112eef0fd7aefe33e11599b6c7ada5b212d20b20dfe9364c949a1032eabb1",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-register-fuldatal-sozialhilfe/gesamt-pdf/ki-register-fuldatal-sozialhilfe_gesamt.pdf",
+    "pages": 19,
+    "sha256": "9d12e189a35fccc1e4b16f341224e0b42e3bf6bb49deae937b9308afa4149abe",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-verbot-frankenmut-dialog/gesamt-pdf/ki-verbot-frankenmut-dialog_gesamt.pdf",
+    "pages": 19,
+    "sha256": "79ffd182df7e4affdb1219ad56b8b70b8fa229e03581602f77bfb15ff2dd2f72",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-verbot-klarblick-personal/gesamt-pdf/ki-verbot-klarblick-personal_gesamt.pdf",
+    "pages": 19,
+    "sha256": "18733bb82b37da0cb1083c63ca2c0e6e64e21f962b5bda563a19066d166544c1",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  },
+  {
+    "path": "testakten/ki-verbot-stadtfaden-sozialscore/gesamt-pdf/ki-verbot-stadtfaden-sozialscore_gesamt.pdf",
+    "pages": 19,
+    "sha256": "6a36b1624db964f8e68cdb9043ec7d96b46bbafaea33f33b3a41a1952758c7ff",
+    "outside": [],
+    "visual_pages": [
+      2,
+      19
+    ],
+    "visuelle_pruefung": "Die beiden angegebenen Seiten als gerenderte PNGs geprüft: lesbare Texte, klare Ränder, keine sichtbaren Überlagerungen. Zusätzlich gesamte Seitengeometrie maschinell geprüft."
+  }
+]

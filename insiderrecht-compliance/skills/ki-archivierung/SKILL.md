@@ -59,8 +59,7 @@ Insiderinformationen darstellen und wie der Zugang zu solchen Modellen kontrolli
 
 ### Schritt 4 – Modell-Governance und Dokumentation
 
-- AI-Act-Anforderungen für Hochrisiko-KI: Falls das Modell für Investitions- oder
- Finanzentscheidungen eingesetzt wird, können AI Act Art. 9 ff. gelten
+- KI-Verordnung: Anlage- oder Finanzentscheidungen sind nicht pauschal eine Anhang-III-Kategorie. Konkrete Funktion, etwa Kreditwürdigkeitsbewertung natürlicher Personen, und Rollen prüfen; Artikel 6 Absatz 3 sowie Zeitrecht gesondert. Artikel 9 betrifft das Risikomanagement eines erfassten Hochrisiko-Anbieters, nicht jede interne Finanzprognose.
 - Modell-Dokumentation: Input-Daten, Algorithmus-Beschreibung, Output-Interpretation
 - Audit-Trail: Wer hat wann welche Prognosen aus dem Modell abgerufen?
 

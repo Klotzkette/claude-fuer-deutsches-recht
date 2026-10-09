@@ -1,0 +1,55 @@
+name: ki-hochrisiko-justizassistenz-jena
+plugin: ki-verordnung-hochrisiko-pruefer
+description: Jena Aktenklar mit neuer Entscheidungsassistenz
+checks:
+  - id: datei-1
+    check_type: file_exists
+    description: Aktenklar bitte die drei Fassungen getrennt beurteilen
+    path: 01_Auftrag.eml
+  - id: datei-2
+    check_type: file_exists
+    description: Aktenklar Leistungsumfang der Versionen
+    path: 02_Leistungsbeschreibung.docx
+  - id: datei-3
+    check_type: file_exists
+    description: Aktenklar 1 4 Registeransicht
+    path: 03_Anleitung_Register.pdf
+  - id: datei-4
+    check_type: file_exists
+    description: Unsere Assistenz bleibt aus unserer Sicht vorbereitend
+    path: 04_Vertrieb_Ausnahme.eml
+  - id: datei-5
+    check_type: file_exists
+    description: Auszug aus dem Test der Entwurfsfunktion
+    path: 05_Auszug_Entwurfstest.pdf
+  - id: datei-6
+    check_type: file_exists
+    description: Zeitlich zugeordneter Projektchat
+    path: 06_Projektchat.txt
+  - id: datei-7
+    check_type: file_exists
+    description: Besprechung zum Testlauf am 6 Oktober
+    path: 07_Protokoll_Projektbesprechung.docx
+  - id: datei-8
+    check_type: file_exists
+    description: Export zählt Öffnungen innerhalb der Anwendung
+    path: 08_IT_Zugriffsprotokoll.eml
+  - id: datei-9
+    check_type: file_exists
+    description: Testzählung und Angebotsrechnung mit Formeln
+    path: 09_Testlauf_und_Aufwand.xlsx
+  - id: datei-10
+    check_type: file_exists
+    description: Arbeitsentwurf zur Einstufung von Aktenklar
+    path: 10_Stellungnahme_Arbeitsentwurf.docx
+  - id: datei-11
+    check_type: file_exists
+    description: Angebot für den nächsten Testabschnitt
+    path: 11_Angebot_Projektaufwand.pdf
+  - id: datei-12
+    check_type: file_exists
+    description: Paginierung bitte weiter nutzbar prüfen
+    path: 12_Fachliche_Rueckfrage.eml
+  - id: dokumentenarbeit
+    check_type: human_review
+    description: Werden Auftrag, Belege, offene Tatsachen und vorhandener Entwurf zu einem ausformulierten Ergebnis zusammengeführt?

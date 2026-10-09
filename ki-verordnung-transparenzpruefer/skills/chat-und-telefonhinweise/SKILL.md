@@ -32,7 +32,11 @@ Bei Agentenkommunikation künstlichen Gesprächspartner, tatsächlichen Auftragg
 
 Wenn die Nachricht eine erhebliche automatische Entscheidung mitteilt, Entscheidungskette und Artikel 22 zusätzlich prüfen. Der Hinweis „automatisch erstellt“ legitimiert keine unzulässige Ablehnung. Liefere neben dem Kanalhinweis nur die für diesen Fall erforderliche Dateninformation oder gezielte Nachforderung, keinen pauschalen Datenschutztext.
 
+Ein Agent ist keine eigene gesetzliche Risikokategorie. Prüfe tatsächliche Interaktion und zusätzliche Entscheidungsfunktionen. Ein ISO-Zertifikat belegt weder einen hörbaren Ersthinweis noch die tatsächliche menschliche Kontrolle vor Versand.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 Artikel 50 Absätze 1 und 5; [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 2, 3.1 und 3.5, sowie [Zitierweise](../../references/zitierweise.md). Anbieterpflicht, freiwillige Serviceinformation und Datenschutztext getrennt halten.
 
@@ -44,6 +48,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein Anrufer fragt nach einem Termin, weil er „Lena“ für eine Mitarbeiterin hält. Erstelle eine neue Eröffnung und beschreibe die nötige Änderung vor Gesprächsbeginn. Eine Erläuterung erst auf die Nachfrage „Sind Sie ein Mensch?“ ist keine geeignete Erstinformation.

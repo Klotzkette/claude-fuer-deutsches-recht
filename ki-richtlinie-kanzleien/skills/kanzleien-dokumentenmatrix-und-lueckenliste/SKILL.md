@@ -35,11 +35,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Kanzlei-KI-Dokumentenmatrix
 | Dokument | Pflicht aus | Mindestinhalt | Verantwortlich |
 |---|---|---|---|
-| KI-Richtlinie | Art. 4 KI-VO, § 43e BRAO | Zweck, Geltungsbereich, Tools, Daten, Verantwortliche, Sanktionen | Geschäftsleitung/Partnerschaft |
+| Interne KI-Richtlinie | Organisationsmaßnahme; Artikel 4 schreibt kein bestimmtes Richtliniendokument vor | Einsatzgrenzen, Zuständigkeiten und Kontrollen | Kanzleileitung |
 | Tool-Whitelist | KI-Richtlinie | Tool, Anbieter, Hosting, AVV-Status, DPF/SCC, Datenkategorien | IT/DSB |
 | AVV je Tool | Art. 28 DSGVO | Weisung, Vertraulichkeit, TOM-Anlage, Subunternehmer | Vertragsmanagement |
 | TIA bei US-Cloud | Schrems II / EDSA 01/2020 | Behördenzugriff, Verschlüsselung, Lawful Access | DSB + IT-Sicherheit |
-| Schulungsnachweise | Art. 4 KI-VO | Datum, Inhalte, Teilnehmer | HR/IT |
+| Nachweise über Kompetenzmaßnahmen | Artikel 4; keine festgelegte Zertifikatsform | Anlass, Inhalt, Zielgruppe, Nacharbeit | Zuständige Organisationseinheit |
 | Verzeichnis Art. 30 DSGVO | Art. 30 DSGVO | Verarbeitungstätigkeiten | DSB |
 | DSFA bei Hochrisiko | Art. 35 DSGVO | Risiken, Maßnahmen, Restrisiko | DSB |
 | Aufklärung Mandant | § 49b BRAO ggf. | Tool-Hinweis im Mandatsvertrag | Anwalt |
@@ -49,7 +49,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 1. KI-Richtlinie ohne Tool-Whitelist (operativ leer).
 2. AVV ohne Mitwirkenden-Verpflichtung § 203 Abs. 4 StGB.
 3. TIA fehlt bei US-Cloud-Tools.
-4. Kein Schulungsnachweis trotz Art. 4 KI-VO seit 02.02.2025.
+4. Für den tatsächlichen Einsatz sind keine angemessenen Kompetenzmaßnahmen belegt; ein fehlendes Kurszertifikat allein beweist keinen Verstoß gegen Artikel 4.
 5. Verzeichnis Art. 30 DSGVO veraltet (kein neues Tool eingetragen).
 6. Mandatsvertrag ohne KI-Hinweis bei Tools, die mit Mandantendaten arbeiten.
 

@@ -26,7 +26,11 @@ Entwerfe einen wahrheitsgemäßen Hinweis, der die tatsächliche Funktion verst�
 
 Nach einer technischen Antwort „nur Wortlaut, keine Stimme“ ändere die Einordnung und den Hinweis entsprechend. Nach Bestätigung der Auswertung von Beschäftigtenstimmen aktualisiere die Verbotsprüfung und die Handlungsempfehlung. Liefere jeweils das bestellte fertige Schreiben.
 
+Artikel 50 Absatz 3, Artikel 9 und Artikel 27 sind keine austauschbaren Folgenabschätzungen. Zusätzliche Hochrisikofragen gesondert prüfen; eine FRIA verlangt den konkreten Betreiberkreis des Artikels 27. Der Hinweistext allein ersetzt keine dieser Prüfungen.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 3.3 und 3.5; [Zitierweise](../../references/zitierweise.md). Artikel 5 und 50 sind getrennt anzuwenden. Keine Übertragung eines Datenschutzurteils als angebliche Entscheidung zur KI-Verordnung.
 
@@ -36,6 +40,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Der Anbieter kündigt „Frustrationswerte“ an, dokumentiert aber sowohl Transkripte als auch Tonhöhen. Stelle die Frage nach der tatsächlich aktivierten Funktion und den erfassten Gesprächskanälen. Ein allgemeiner Satz „Wir nutzen KI“ beendet diese Prüfung nicht.

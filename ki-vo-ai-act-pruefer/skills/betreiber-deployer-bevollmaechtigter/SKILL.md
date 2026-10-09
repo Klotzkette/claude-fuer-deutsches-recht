@@ -1,153 +1,56 @@
 ---
 name: betreiber-deployer-bevollmaechtigter
-description: "Für Betreiber-Pflichten (Deployer) — Art. 26 und 27 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: betreiber-deployer-bevollmaechtigter."
+description: Klärt Pflichten und Kommunikation zwischen Betreiber, Anbieter und Bevollmächtigtem. Prüft Betriebsunterlagen, Aufsicht und Vorfallswege und verhindert eine Verwechslung von Betreiberpflichten mit einem Vertretungsmandat.
 ---
 
-# Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO
+# Betreiberpflichten für den konkreten Einsatz
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Unternehmen oder Behörde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeiter, Zweckaenderung, Art. 25 Anbieterwerden, Governance für allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Erstelle ein verwendbares Betriebskonzept für die festgestellte Betreiberrolle. Die Übergabe technischer Pflichten an den Anbieter beseitigt nicht die eigenen Pflichten; eine pauschale Unternehmensrichtlinie beweist keine ordnungsgemäße Verwendung.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: bisherige Verbote seit 02.02.2025, neue Verbote ab 02.12.2026; GPAI und Transparenz nach eigener Regel. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, Anhang I ab 02.08.2028; Artikel 111 und 113 sowie einschlägige Zuständigkeit prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Betriebsanleitung, Einsatzprozess, Mitarbeiterrollen und Befugnisse, verwendete Eingabedaten, Protokollzugriff, Beschäftigten- und Betroffeneninformation, Anbieterkommunikation, frühere Störungen und Einsatzdatum. Abweichungen zwischen beschriebener und gelebter Verwendung erfassen.
 
-## Pflicht 1 — Bestimmungsgemäße Verwendung
+## 3. Ablauf und Checkliste
 
-Betreiber müssen Hochrisiko-KI-Systeme nach der Gebrauchsanweisung des Anbieters verwenden.
+### 3.1. Betrieb und wirksame Aufsicht
 
-Prüffragen:
-- Liegt die Gebrauchsanweisung vor und ist sie intern umgesetzt?
-- Ist der interne Use Case vom Anbieterzweck gedeckt?
-- Werden Prompt-Vorlagen, Workflows, Rollenrechte oder Schnittstellen so gestaltet, dass keine unzulässige Zweckänderung entsteht?
-- Gibt es ein Freigabeverfahren für neue KI-Use-Cases?
+Nach Artikel 26 Absatz 1 geeignete technische und organisatorische Maßnahmen zur Verwendung entsprechend der Betriebsanleitung treffen. Nach Absatz 2 natürliche Personen mit erforderlicher Kompetenz, Ausbildung und Befugnis mit der Aufsicht betrauen und unterstützen. Keine Maschine als verantwortliche Aufsicht einsetzen. Die Person muss relevante Grenzen verstehen, Ausgaben prüfen und im erforderlichen Umfang eingreifen können; ein Organisationskästchen genügt nicht.
 
-## Sonderthema — Mitarbeiter nutzen ein allgemeines KI-Tool hochriskant
+Soweit Eingabedaten der Kontrolle des Betreibers unterliegen, müssen sie nach Absatz 4 der Zweckbestimmung entsprechen und ausreichend repräsentativ sein. Verantwortungsbereich nicht mit tatsächlichem Datenbesitz verwechseln. Fehlende Anbieterinformation gezielt anfordern. Eine selbst vorgenommene Zweckänderung oder wesentliche Änderung zusätzlich nach Artikel 25 prüfen.
 
-Wenn Mitarbeiter ein allgemeines Tool entgegen der Zweckbestimmung für Personal, Kredit, Bildung, Verwaltung, Justiz oder andere Anhang-III-Kontexte einsetzen, prüfe die Organisationsverantwortung:
+### 3.2. Überwachung und Vorfall
 
-| Befund | Einordnung |
-|---|---|
-| Klare Richtlinie, Schulung, Rollenrechte, Logging, Sperren; isolierter Verstoß | Compliance-/Incident-Thema; Nutzung beenden, dokumentieren, nachschulen, ggf. Daten/Output entfernen |
-| Fachabteilung nutzt es wiederholt und Führung weiß davon | tatsächlicher Betreiberzweck kann kippen; `hochrisiko-art-6-abs-2-anhang-iii` neu prüfen |
-| Tool ist technisch offen und Hochrisiko-Nutzung naheliegend | vorhersehbarer Fehlgebrauch; Kontrollen, Warnungen, Freigaben und Re-Evaluation erforderlich |
-| Betreiber ändert Zweck oder System wesentlich | `anbieter-werden-art-25` prüfen; Anbieterpflichten können ausgelöst werden |
+Den Betrieb anhand der Betriebsanleitung überwachen und Anbieter gegebenenfalls nach Artikel 72 informieren. Bei begründeter Annahme eines Risikos nach Artikel 79 Absatz 1 unverzüglich Anbieter oder Händler und zuständige Marktüberwachungsbehörde informieren und Verwendung aussetzen. Bei einem festgestellten schwerwiegenden Vorfall unverzüglich zuerst den Anbieter, dann Einführer oder Händler und zuständige Marktüberwachungsbehörden unterrichten. Ist der Anbieter nicht erreichbar, gilt Artikel 73 entsprechend. Für gesetzliche Sonderkonstellationen den genauen Absatz 5 lesen.
 
-Mindestmaßnahmen:
-- KI-Richtlinie mit erlaubten und verbotenen Use Cases
-- KI-Kompetenz/Schulung nach Art. 4
-- Rollen- und Zugriffskonzept für sensible Bereiche
-- Prompt- und Datenklassifizierungsregeln
-- Logging/Audit für sensible Workflows
-- Freigabeprozess für neue KI-Use-Cases
-- Re-Evaluation bei Zweckänderung, Modellwechsel, neuer Integration oder auffälliger Nutzung
+Eine Rückmeldung des technischen Supports ist keine Behördenmeldung. Inhalt, Empfänger, Zeit und bestätigten Zugang dokumentieren; nur ausdrücklich autorisierte Übermittlung auslösen. Der [Vorfallablauf](../schwerwiegender-vorfall-art-73-playbook/SKILL.md) liefert die Fristenprüfung.
 
-## Pflicht 2 — Menschliche Aufsicht
+### 3.3. Protokolle und Information
 
-Betreiber müssen die vom Anbieter vorgesehenen Aufsichtsmaßnahmen tatsächlich umsetzen.
+Automatisch erzeugte Protokolle nach Absatz 6, soweit unter eigener Kontrolle, zweckangemessen mindestens sechs Monate aufbewahren, sofern geltendes Unions- oder nationales Recht nichts anderes bestimmt. Die Norm verlangt nicht unabhängig von Kontrolle sämtliche Rohdaten. Finanzinstitute und Datenschutzvorgaben gesondert prüfen.
 
-Prüffragen:
-- Sind Aufsichtspersonen benannt und geschult?
-- Können sie Output verstehen, kritisch prüfen, übersteuern oder stoppen?
-- Ist Aufsicht mehr als nur formale Abzeichnung?
-- Gibt es Eskalationsregeln bei Fehlern, Bias, Halluzinationen, Drift oder ungewöhnlichen Outputs?
+Arbeitgeber informieren vor Inbetriebnahme oder Verwendung am Arbeitsplatz Arbeitnehmervertreter und betroffene Arbeitnehmer nach Absatz 7. Nach Absatz 11 informieren Betreiber von Anhang-III-Hochrisikosystemen die von deren Entscheidungen oder Entscheidungsunterstützung betroffenen natürlichen Personen über die Verwendung. Die Offensichtlichkeitsausnahme des Artikels 50 Absatz 1 darf nicht hierher übertragen werden. Für Strafverfolgung den ausdrücklichen Verweis auf die Richtlinie (EU) 2016/680 beachten.
 
-## Pflicht 3 — Eingabedaten und Nutzungskontext
+### 3.4. Anschlussprüfungen und zeitliche Geltung
 
-Wenn Betreiber Eingabedaten kontrollieren, müssen diese relevant und repräsentativ für den vorgesehenen Zweck sein.
+Eine Datenschutz-Folgenabschätzung nach Absatz 9 folgt ihren eigenen Voraussetzungen; Anbieterinformationen nach Artikel 13 dafür verwenden. Eine Grundrechte-Folgenabschätzung nach Artikel 27 betrifft die dort bestimmten öffentlichen oder öffentlichen Dienstleistungsbetreiber sowie Betreiber von Anhang III Nummer 5 Buchstaben b und c und enthält eine Ausnahme für Nummer 2. Nicht jeder Arbeitgeber und nicht jedes Unternehmen benötigt allein wegen Hochrisiko eine solche Folgenabschätzung.
 
-Prüffragen:
-- Welche Eingabedaten werden vom Betreiber bereitgestellt?
-- Sind personenbezogene, vertrauliche oder besondere Daten betroffen?
-- Sind die Daten zweckgeeignet und aktuell?
-- Wird verhindert, dass Mitarbeiter sensible Personal-, Kredit-, Gesundheits- oder Justizdaten in allgemeine Tools eingeben?
+Artikel 26 Absatz 8 betrifft nun Organe, Einrichtungen und sonstige Stellen der Union. Nationale öffentliche Betreiber und sämtliche konkreten Registrierungszweige gesondert nach Artikel 49 prüfen. Veraltete Rollenlisten nicht aus Absatz 8 übernehmen. Besondere nachträgliche biometrische Fernidentifizierung nach Absatz 10 benötigt eine gesonderte, zweckgebundene Prüfung; dieses allgemeine Betriebskonzept gibt dafür keine Freigabe.
 
-## Pflicht 4 — Protokolle und Nachvollziehbarkeit
+Anwendungsdatum und Altbestand nach Artikel 111 und 113 dokumentieren; Kapitel III Abschnitte 1 bis 3 gelten für Artikel 6 Absatz 2 grundsätzlich ab 2. Dezember 2027, für Absatz 1 ab 2. August 2028. Unabhängige Datenschutz-, Arbeits- und Produktpflichten vorher gesondert erfüllen.
 
-Betreiber müssen Protokolle nach Maßgabe der KI-VO und anderer Rechtsvorschriften aufbewahren.
+## 4. Quellenpflicht
 
-Prüffragen:
-- Welche Logs erzeugt das System?
-- Sind Prompt, Eingabe, Output, Nutzer, Zeitpunkt, Version und Entscheidungspfad nachvollziehbar?
-- Wie werden Datenschutz, Geheimnisschutz und Löschpflichten berücksichtigt?
-- Können Off-label-Nutzungen erkannt werden?
+Artikel 25, 26, 27, 49, 72, 73, 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-## Pflicht 5 — Überwachung, Meldung und Unterbrechung
+## 5. Ausgabeformat
 
-Betreiber müssen bei ernsthaften Risiken, Fehlfunktionen oder schwerwiegenden Vorfällen reagieren und ggf. Anbieter sowie Behörden informieren.
+Ein ausformulierter Betriebsvermerk mit personell zugeordneter Aufsicht, Daten- und Logregeln, konkreten Informationsentwürfen und Vorfallkontakten. Gesetzlich gebotene Maßnahmen und zusätzlich empfohlene Unternehmensorganisation getrennt kennzeichnen.
 
-Prüffragen:
-- Gibt es ein Verfahren für Incidents und Near Misses?
-- Wer entscheidet über Pausierung des Systems?
-- Werden Outputs korrigiert, zurückgenommen oder betroffene Personen informiert?
-- Ist `marktueberwachung-meldung-vorfaelle-art-72-bis-79` einzuschalten?
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Pflicht 6 — Informationspflicht gegenüber Betroffenen
+## 6. Beispiele
 
-Wenn ein Hochrisiko-KI-System für Entscheidungen gegenüber natürlichen Personen eingesetzt wird, ist transparent zu machen, dass KI beteiligt ist, soweit dies nicht ohnehin offensichtlich ist oder spezieller geregelt ist.
-
-Prüffragen:
-- Wer ist betroffen?
-- Welche Entscheidung oder Vorbereitung wird beeinflusst?
-- Welche Information erhält die Person?
-- Gibt es Rechte auf Auskunft, menschliche Überprüfung oder Beschwerde nach KI-VO, DSGVO oder Fachrecht?
-
-## Grundrechte-Folgenabschätzung — Art. 27 KI-VO
-
-Prüfe Art. 27 insbesondere bei:
-- öffentlichen Stellen
-- privaten Betreibern, soweit sie Hochrisiko-KI für bestimmte wesentliche Dienste einsetzen
-- Konstellationen mit Beschäftigung, Bildung, Kredit, Versicherung, Sozialleistungen, Justiznähe oder sonstiger Machtasymmetrie
-
-Inhalt:
-- Beschreibung des Systems und Zwecks
-- betroffene Personen/Gruppen
-- Nutzungsfrequenz und Dauer
-- Risiken für Grundrechte
-- menschliche Aufsicht und Abhilfemaßnahmen
-- Daten- und Governance-Konzept
-- Verbindung zur DSGVO-Datenschutz-Folgenabschätzung
-
-## Output-Template — Betreiber-Compliance-Check
-
-```text
-BETREIBER-COMPLIANCE-CHECK ART. 26/27 KI-VO
-Datum: [DATUM]
-System: [NAME]
-Betreiber: [NAME]
-Risikoklasse: [HOCHRISIKO / UNKLAR / ALLGEMEINES GPAI-SYSTEM]
-
-1. Zweck und Gebrauchsanweisung
-[Anbieterzweck, interner Zweck, Abweichungen]
-
-2. Off-label-/Fehlgebrauchsrisiko
-[isolierter Verstoß / vorhersehbarer Fehlgebrauch / geduldete Hochrisiko-Nutzung / Zweckänderung]
-[Maßnahmen: Richtlinie, Schulung, Sperren, Logging, Freigabe]
-
-3. Art. 26-Pflichten
-- bestimmungsgemäße Verwendung: [...]
-- menschliche Aufsicht: [...]
-- Eingabedaten: [...]
-- Protokolle: [...]
-- Überwachung/Vorfälle: [...]
-- Information Betroffener: [...]
-
-4. Art. 27 Grundrechte-Folgenabschätzung
-[erforderlich / nicht erforderlich / offen]
-[Begründung]
-
-5. Anbieterwerden Art. 25
-[Risiko ja/nein/offen]
-
-6. Nächste Skills
-[hochrisiko-art-6-abs-2-anhang-iii / anbieter-werden-art-25 / output-betreiber-checkliste-und-folgenabschaetzung / marktueberwachung-meldung-vorfaelle-art-72-bis-79]
-```
-
-## Quellen- und Aktualitätshinweis
-
-Stand: 07/2026. Maßgeblich sind Art. 3 Nr. 4, Nr. 12, Nr. 13 und Nr. 23, Art. 4, Art. 25, Art. 26 und Art. 27 KI-VO. Keine Rechtsberatung.
+Ein Unternehmen kauft Bewerberranking ein. Die Personalchefin erhält eine Eingriffsbefugnis und prüft Ausgaben anhand nachvollziehbarer Kriterien. Das ersetzt weder Beschäftigteninformation noch mögliche Datenschutzprüfung. Eine FRIA ist allein aufgrund der privaten Arbeitgeberrolle nicht automatisch vorgeschrieben; eine öffentliche Arbeitgeberin verlangt eine andere Prüfung.

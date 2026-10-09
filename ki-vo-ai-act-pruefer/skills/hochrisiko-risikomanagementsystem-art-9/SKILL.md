@@ -1,114 +1,52 @@
 ---
 name: hochrisiko-risikomanagementsystem-art-9
-description: "Für Risikomanagementsystem — Art. 9 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft und entwirft den iterativen Risikomanagementprozess nach Artikel 9. Verbindet Gefahren, Maßnahmen, Tests und Restrisiken mit der Systemfassung und grenzt Qualitätsmanagement und Grundrechte-Folgenabschätzung ab.
 ---
 
-# Risikomanagementsystem — Art. 9 KI-VO
+# Risikomanagement des konkreten KI-Systems
 
-## Anforderungen an das Risikomanagementsystem
+## 1. Zweck und Anwendungsfall
 
-### Merkmal 1 — Kontinuierlicher iterativer Prozess
+Entwickle einen überprüfbaren systembezogenen Risikomanagementprozess. Ein allgemeines Unternehmensrisikoregister, eine ISO-Bescheinigung oder eine Grundrechte-Folgenabschätzung erfüllt diese Aufgabe nicht automatisch.
 
-Das Risikomanagementsystem muss über den gesamten Lebenszyklus des KI-Systems aufrechterhalten und aktualisiert werden. Es beginnt vor dem Inverkehrbringen und endet nicht mit der Markteinführung.
+## 2. Eingaben
 
-**Prüffragen:**
-- Gibt es einen formalen Prozess, der regelmäßig Risiken des Systems bewertet?
-- Wird der Prozess bei wesentlichen Änderungen des Systems oder seiner Einsatzbedingungen aktualisiert?
-- Sind Verantwortlichkeiten für das Risikomanagement klar zugewiesen?
+Systemzweck, Version, Lebenszyklus, bekannte Fehlfunktionen, betroffene Gruppen, Testberichte, Fehlgebrauch, Betriebsanleitung, Beobachtungsdaten und Verantwortliche. Fehlende Tests als offene Evidenz behandeln, keine Ausführung erfinden.
 
-### Merkmal 2 — Risikoidentifikation (Art. 9 Abs. 2 KI-VO)
+## 3. Ablauf und Checkliste
 
-Das System muss bekannte und hinreichend vorhersehbare Risiken für Gesundheit, Sicherheit oder Grundrechte identifizieren und dokumentieren, die aus dem KI-System entstehen können — sowohl bei bestimmungsgemäßem Gebrauch als auch bei vernünftigerweise vorhersehbarem Missbrauch.
+### 3.1. Wirkungsbezogene Risiken ermitteln
 
-**Prüffragen:**
-- Wurden alle relevanten Risikoarten analysiert: technisches Versagen, Bias, Datenmängel, Missbrauch, Cyberangriffe?
-- Wurden auch indirekte Risiken für Dritte (nicht nur direkte Nutzer) berücksichtigt?
+Artikel 9 Absatz 2 verlangt bekannte und vernünftigerweise vorhersehbare Risiken bei bestimmungsgemäßer Verwendung, Bewertung von Fehlanwendungen, Auswertung der Beobachtung nach Inverkehrbringen und gezielte Maßnahmen. Beschreibe pro Risiko Ursache, Ereignis, betroffene Person, Schaden und Nachweis. Geschäftsrisiken wie Umsatzverlust nicht mit Gesundheits-, Sicherheits- oder Grundrechtsrisiken gleichsetzen.
 
-### Merkmal 3 — Risikoabschätzung und Risikopriorisierung (Art. 9 Abs. 2 lit. b KI-VO)
+Nach Absatz 3 sind hier die Risiken erfasst, die durch Entwicklung oder Konzeption oder ausreichende technische Information angemessen gemindert oder behoben werden können. Andere Organisationsrisiken nicht leugnen, aber einem eigenen Prozess zuordnen. Ein Agent mit Werkzeugrechten ist nach seiner tatsächlichen Handlungskette zu beurteilen; „Agent“ ist kein eigener gesetzlicher Risikotatbestand.
 
-Die identifizierten Risiken müssen bewertet werden — nach Schwere, Wahrscheinlichkeit und Reversibilität der Schäden. Dabei sind die spezifischen Eigenschaften der vorgesehenen Nutzer (Alter, Vulnerabilität) zu berücksichtigen.
+### 3.2. Maßnahmen und Tests verbinden
 
-**Prüffragen:**
-- Werden Risiken nach Schwere und Wahrscheinlichkeit eingestuft?
-- Werden betroffene Bevölkerungsgruppen und ihre besonderen Schutzbedürfnisse berücksichtigt?
+Konzeptionelle Risikovermeidung beziehungsweise Verringerung zuerst prüfen, danach Minderungs- und Kontrollmaßnahmen sowie Betreiberinformation und gegebenenfalls Schulung. Wechselwirkungen berücksichtigen: Eine strengere Fehlalarmgrenze kann andere Gruppen schlechter erfassen; ein Not-Aus darf keinen unsicheren Zustand schaffen. Relevante Einzelrestrisiken und Gesamtrestrisiko müssen nach Absatz 5 vertretbar sein.
 
-### Merkmal 4 — Risikominderungsmaßnahmen (Art. 9 Abs. 4 KI-VO)
+Vor dem Test passende Metriken und Wahrscheinlichkeitsschwellen festlegen. Testumfang, Datenpopulation, Versionsstand, Ergebnis, Abweichung und Wiederholung dokumentieren. Nach Absatz 8 erfolgen Tests zu geeigneten Entwicklungszeitpunkten und jedenfalls vor Inverkehrbringen oder Inbetriebnahme. Kein Erfolgsmaß im Nachhinein passend zum Ergebnis erfinden. Bei voraussichtlich betroffenen Minderjährigen oder anderen schutzbedürftigen Gruppen Absatz 9 gesondert umsetzen.
 
-Für jedes identifizierte Risiko müssen angemessene Minderungsmaßnahmen getroffen werden. Die Maßnahmen sind in folgender Reihenfolge zu priorisieren:
-1. Risikominderung durch Design und Entwicklung
-2. Risikominderung durch Schutzmaßnahmen (technische und organisatorische Sicherheitsvorkehrungen)
-3. Informationsmaßnahmen für Betreiber und Nutzer
+### 3.3. Prozess weiterführen
 
-**Prüffragen:**
-- Wurden für jedes Risiko konkrete Maßnahmen definiert und dokumentiert?
-- Wurden Design-Alternativen geprüft, bevor auf externe Schutzmaßnahmen zurückgegriffen wurde?
+Beobachtungsdaten nach Artikel 72 und Vorfälle lösen eine nachvollziehbare Neubewertung aus. Änderung, neue Zweckbestimmung, betroffene Gruppe oder Datenverschiebung sind konkrete Auslöser; ein jährlicher Termin allein genügt nicht als vollständiger Lebenszyklusprozess. Zuständigkeit und dokumentierte Entscheidung über offene Restrisiken festlegen.
 
-### Merkmal 5 — Restrisiko-Bewertung (Art. 9 Abs. 6 KI-VO)
+### 3.4. Richtige organisatorische Einbettung
 
-Risiken, die trotz Minderungsmaßnahmen verbleiben (Restrisiken), müssen bewertet werden. Das Hochrisiko-KI-System darf nur in Verkehr gebracht werden, wenn das Gesamtrestrisiko als akzeptabel eingestuft wird.
+Artikel 17 betrifft das Qualitätsmanagement des Hochrisikoanbieters und enthält den Artikel-9-Prozess als Bestandteil. Artikel 27 betrifft die konkrete Grundrechtswirkung bei bestimmten Betreibern; beide sind nicht austauschbar. Nach Artikel 9 Absatz 10 kann ein schon unionsrechtlich verlangtes internes Risikomanagement integriert werden, wenn die hier erforderlichen Aspekte tatsächlich abgedeckt sind. Eine freie ISO-Orientierung begründet allein keine Konformitätsvermutung nach Artikel 40.
 
-**Prüffragen:**
-- Ist das verbleibende Restrisiko dokumentiert?
-- Hat eine zuständige Stelle das Restrisiko als akzeptabel eingestuft?
+Pflichtadressat und Anwendungsdatum vor einer Feststellung des Verstoßes bestimmen. Bei noch nicht anwendbarer Pflicht kann ein bestellter Vorbereitungsprozess ausgearbeitet werden; ihn ausdrücklich als Vorbereitung kennzeichnen.
 
-### Merkmal 6 — Testing und Validierung (Art. 9 Abs. 7 und 8 KI-VO)
+## 4. Quellenpflicht
 
-Das KI-System muss vor dem Inverkehrbringen getestet werden. Bei Hochrisiko-KI in bestimmten Bereichen (biometrische Identifikation in Echtzeit, Strafverfolgung) können Real-World-Tests unter kontrollierten Bedingungen (Art. 60 KI-VO) vorgesehen sein.
+Artikel 9 vollständig, Artikel 17 Absatz 1 Buchstabe g, Artikel 27 und 40 sowie Artikel 111 und 113. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-**Prüffragen:**
-- Gibt es eine dokumentierte Teststrategie?
-- Wurden Tests mit repräsentativen Datensätzen und unter realistischen Einsatzbedingungen durchgeführt?
+## 5. Ausgabeformat
 
-## Typische Lücken in der Praxis
+Ein begründeter Risikomanagementvermerk und eine Arbeitsmatrix mit höchstens vier Spalten: Risiko/Wirkpfad, Maßnahme, Test/Nachweis, Restrisiko/Verantwortung. Offene Testaufträge mit Kriterien und nächster Entscheidung, nicht mit fingiertem Testergebnis.
 
-- **Statisches Risikomanagement:** Das System wurde einmal analysiert und dann nie wieder überprüft.
-- **Kein Bezug auf Grundrechte:** Technische Risiken werden bewertet, Grundrechtsrisiken (Diskriminierung, Freiheit, Würde) werden übersehen.
-- **Fehlende Dokumentation:** Risiken wurden mündlich besprochen, aber nicht schriftlich festgehalten.
-- **Kein Eskalationsprozess:** Es fehlt ein klar definierter Prozess, wie bei Risikovorfällen eskaliert wird.
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-## Verhältnis zu anderen Pflichten
+## 6. Beispiele
 
-Das Risikomanagementsystem nach Art. 9 KI-VO ist eng verknüpft mit:
-- Art. 10 KI-VO (Datenqualität — schlechte Trainingsdaten erzeugen Risiken)
-- Art. 12 KI-VO (Logging — Risikovorfälle müssen protokolliert werden)
-- Art. 72 KI-VO (Post-Market-Monitoring — Risiken nach Inverkehrbringen)
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HOCHRISIKO RISIKOMANAGEMENTSYSTEM ART 9
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 9 Rn. 7]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Bewerbungsagent filtert Bewerber mit unterbrochenem Lebenslauf aus. Untersuche die tatsächliche Benachteiligungswirkung, alternative Gestaltung und messbare Tests; ein allgemeines Unternehmensrisiko „Reputationsschaden“ erfasst das Problem nicht vollständig.

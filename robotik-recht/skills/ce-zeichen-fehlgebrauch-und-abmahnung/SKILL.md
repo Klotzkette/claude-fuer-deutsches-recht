@@ -48,7 +48,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 
 | Verstoß | Schwere | Sanktionen | Strategie |
 |---|---|---|---|
-| Komplett fehlendes CE | sehr hoch | Marktverbot, Bußgeld bis 30 Mio. KI-VO | sofortiger Rückzug, Konformitätsbewertung |
+| Erforderliche CE-Kennzeichnung fehlt | Konkrete Produkt-/KI-Pflicht und Datum prüfen | Maßnahmen nach Sachverhalt und einschlägigem Recht; keine erfundene 30-Millionen-Grenze | Bereitstellung prüfen, verantwortliche Person und Abhilfe festlegen |
 | Werbung mit Notified Body, der nicht beteiligt war | hoch | UWG, ggf. § 263 StGB | sofortiger Stopp |
 | CE-Anbringung zu klein/unleserlich | mittel | Bußgeld; Mängelbeseitigung | korrigieren, ggf. RAPEX |
 | Konformitätserklärung formell unvollständig | gering | Mängelbeseitigung | nachholen, Akte aktualisieren |
@@ -69,7 +69,7 @@ Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Wer
 
 **Mahnschreiben (Mitbewerber, Auszug):**
 
-> Sehr geehrte Damen und Herren, wir machen Sie auf einen Verstoß gegen § 3a UWG i. V. m. Art. 16, 47 KI-VO und Art. 16 MaschinenVO aufmerksam. Sie bewerben den Roboter Typ Z auf Ihrer Website (URL) mit dem Hinweis "CE-zertifiziert nach KI-VO". Eine EU-Konformitätserklärung gemäß Art. 47 KI-VO ist nicht beigefügt; die Notified-Body-Kennnummer NB 0123 ist in NANDO nicht für den Anhang VI KI-VO gelistet. Wir fordern Sie auf, Werbung und Inverkehrbringen bis [Frist] zu unterlassen und eine strafbewehrte Unterlassungserklärung beigefügten Musters abzugeben.
+> Sehr geehrte Damen und Herren, Ihre Werbung bezeichnet den Roboter Typ [X] als „CE-zertifiziert nach KI-Verordnung“. Bitte erläutern Sie bis [angemessene Frist] den konkreten System- und Versionsbezug, das angewandte Verfahren und die zugrunde liegende Erklärung beziehungsweise Bescheinigung. Eine benannte Stelle ist nicht in jedem Verfahren erforderlich; Anhang VI beschreibt interne Kontrolle. Wir behalten uns nach Prüfung der Nachweise eine rechtliche Beanstandung vor. Eine tatsächliche Recherche zur Stelle und ihrem Benennungsumfang wird gesondert dokumentiert; eine reale Kennnummer wird hier nicht als ungeprüftes Negativbeispiel verwendet.
 
 ## Typische Fehler
 

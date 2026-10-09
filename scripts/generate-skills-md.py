@@ -350,9 +350,9 @@ def main() -> int:
     plugins = collect_plugins()
     total_skills = sum(len(skills) for _, skills in plugins)
     total_plugins = len(plugins)
-    version = (
-        "v" + json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())["version"]
-    )
+    catalog = json.loads((REPO_ROOT / ".claude-plugin" / "marketplace.json").read_text())
+    version = "v" + catalog["version"]
+    component_versions = {entry["name"]: "v" + entry["version"] for entry in catalog["plugins"]}
 
     # 1) Schlanke Hauptseite SKILLS.md
     main_text = (
@@ -372,7 +372,7 @@ def main() -> int:
         if old.stem not in current_names:
             old.unlink()
     for name, skills in plugins:
-        page = plugin_detail_page(name, skills, version)
+        page = plugin_detail_page(name, skills, component_versions[name])
         (SKILLS_INDEX_DIR / f"{name}.md").write_text(page.rstrip() + "\n", encoding="utf-8")
     # Index der Detailseiten
     idx = write_detail_index(plugins, version)

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "02024R1689-20260727",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+    "abgerufen": "2026-10-09",
+    "sha256": "78a39db717e2e0223cdb0677f56fad653eb10ed14c4e395c38d6a1e65ae9c73f",
+    "archiv": "02024R1689-20260727.html.gz"
+  },
+  {
+    "id": "32026R1744",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744",
+    "abgerufen": "2026-10-09",
+    "sha256": "d932ccf6a8ffc46d0f38a75ddfee234d01c94a88d3502fefc67462a01321f571",
+    "archiv": "32026R1744.html.gz"
+  },
+  {
+    "id": "32026R1744R01",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)",
+    "abgerufen": "2026-10-09",
+    "sha256": "46d30e35db8177507405054a7f2c411d6e25f1f34f50d4aecdeaa0bfb096082c",
+    "archiv": "32026R1744R01.html.gz"
+  },
+  {
+    "id": "gpai-leitlinien-2025.pdf",
+    "url": "https://ai-act-service-desk.ec.europa.eu/sites/default/files/2025-07/guidelines_on_the_scope_of_the_obligations_for_generalpurpose_ai_models_established_by_regulation_1cx2atxgq79us4n3x8jfgyy1qlm_118340-3.pdf",
+    "abgerufen": "2026-10-09",
+    "sha256": "6809d563ec3df310f55002d3fcfbcea748877f2b2215a07e62a31a3c4bba5517",
+    "archiv": "gpai-leitlinien-2025.pdf"
+  },
+  {
+    "id": "transparenz-leitlinien-2026.pdf",
+    "url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215",
+    "abgerufen": "2026-10-09",
+    "sha256": "30861fc5de31205846f023068069c92fabc7271ebeac6af7bef68b97f0a33f66",
+    "archiv": "transparenz-leitlinien-2026.pdf"
+  }
+]

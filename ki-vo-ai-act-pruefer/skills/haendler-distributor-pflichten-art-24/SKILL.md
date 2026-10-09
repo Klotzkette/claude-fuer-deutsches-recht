@@ -1,108 +1,52 @@
 ---
 name: haendler-distributor-pflichten-art-24
-description: "Für Händler-Pflichten (Distributor) — Art. 24 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Händlerpflichten nach Artikel 24 einschließlich Unterlagenkontrolle, Bereitstellungssperre, Korrektur und Information. Trennt sie von Einführer- und Anbieterpflichten.
 ---
 
-# Händler-Pflichten (Distributor) — Art. 24 KI-VO
+# Händlerprüfung und Korrekturmaßnahmen
 
-## Wer ist Händler?
+## 1. Zweck und Anwendungsfall
 
-Ein Händler ist eine in der Lieferkette tätige natürliche oder juristische Person, die ein Hochrisiko-KI-System im Unionsmarkt bereitstellt, ohne es in eigener Verantwortung in Verkehr zu bringen oder zu nutzen.
+Erstelle eine dokumentierte Händlerentscheidung zum konkreten System. Händler nach Artikel 3 Nummer 7 sind Akteure der Lieferkette außer Anbieter oder Einführer; eine zusätzliche Betreiberrolle für eigenen Gebrauch ist möglich.
 
-**Typische Beispiele:** Softwaremarktplätze, IT-Reseller, Systemintegratoren (soweit sie das System nicht wesentlich verändern), Cloud-Anbieter (in bestimmten Konstellationen).
+## 2. Eingaben
 
-## Pflicht 1 — Plausibilitätsprüfung vor Bereitstellung (Art. 24 Abs. 1 KI-VO)
+Lieferant, Anbieter, gegebenenfalls Einführer, bereitgestellte Fassung, CE, Erklärung, Betriebsanleitung, Qualitätsmanagementnachweis und bekannt gewordene Abweichung. Marktbereitstellung und bloßes Hosting unterscheiden.
 
-Bevor der Händler ein Hochrisiko-KI-System bereitstellt, muss er prüfen, ob:
-- Das System die CE-Kennzeichnung trägt
-- Die EU-Konformitätserklärung vorhanden und zugänglich ist
-- Die Gebrauchsanweisung in der Sprache des Mitgliedstaates vorliegt, in dem das System bereitgestellt wird
-- Der Anbieter und gegebenenfalls der Einführer ihre Pflichten nach Art. 16 bis 23 KI-VO erfüllt haben (soweit dies der Händler anhand der verfügbaren Informationen beurteilen kann)
+## 3. Ablauf und Checkliste
 
-**Prüffragen:**
-- Liegt Ihnen die CE-Kennzeichnung des Systems vor?
-- Liegt Ihnen die EU-Konformitätserklärung vor?
-- Liegt die Gebrauchsanweisung in der relevanten Sprache vor?
+### 3.1. Kontrolle vor Bereitstellung
 
-## Pflicht 2 — Keine Bereitstellung bei bekanntem Verstoß (Art. 24 Abs. 1 lit. b KI-VO)
+Artikel 24 Absatz 1 verlangt Prüfung erforderlicher CE-Kennzeichnung, beigefügter Kopie der EU-Konformitätserklärung und Betriebsanleitungen sowie der Pflichten des Anbieters nach Artikel 16 Buchstaben b und c und des Einführers nach Artikel 23 Absatz 3. Daraus keine Pflicht zur vollständigen Nachprüfung aller Artikel 16 bis 23 machen. Identifikationsangaben und Qualitätsmanagementnachweis am konkreten System prüfen.
 
-Der Händler darf das System nicht bereitstellen, wenn er Grund zu der Annahme hat, dass:
-- Das System nicht den Anforderungen der KI-VO entspricht
-- Das System eine ernste Gefahr darstellt
+### 3.2. Auffälligkeiten und Reaktion
 
-## Pflicht 3 — Kooperation mit Marktüberwachungsbehörden (Art. 24 Abs. 2 KI-VO)
+Absatz 2: Bei Grund zur Annahme fehlender Übereinstimmung mit Abschnitt 2 erst nach Herstellung der Konformität bereitstellen. Birgt das System zudem ein Risiko nach Artikel 79 Absatz 1, den Anbieter beziehungsweise Einführer informieren. Eine fehlende beliebige ISO-Zertifizierung ist nicht automatisch ein solcher Verstoß; falsch bezeichnete gesetzliche Bescheinigungen sind dagegen gezielt aufzuklären.
 
-Der Händler muss:
-- Mit nationalen Marktüberwachungsbehörden auf Anfrage kooperieren
-- Dokumentation bereitstellen, die die Konformität des Systems nachweist (soweit er darüber verfügt)
-- Die Identität des Anbieters und des Einführers angeben
+Absatz 3 betrifft Lagerung und Transport während eigener Verantwortung, soweit zutreffend. Er enthält **keine allgemeine zehnjährige Händler-Aufbewahrungspflicht**. Dokumentationsfristen aus anderen tatsächlich einschlägigen Regeln getrennt bestimmen und einen internen Nachweisplan als eigene Maßnahme kennzeichnen.
 
-## Pflicht 4 — Aufbewahrung (Art. 24 Abs. 3 KI-VO)
+Absatz 4 betrifft bereits bereitgestellte nichtkonforme Systeme: Korrektur, Rücknahme oder Rückruf selbst ergreifen oder durch die dort genannten Akteure sicherstellen. Bei Risiko zusätzlich unverzüglich Anbieter beziehungsweise Einführer und zuständige Behörden mit Einzelheiten zu Nichtkonformität und Maßnahmen informieren. Absatz 2 und Absatz 4 nicht zu einer ungenauen Einheitsmeldung zusammenziehen.
 
-Der Händler muss für zehn Jahre aufbewahren:
-- Kopie der Konformitätserklärung (soweit er darüber verfügt)
-- Kontaktdaten des Anbieters und des Einführers
+### 3.3. Behörden und Rollenwechsel
 
-## Wann wird der Händler zum Anbieter oder Einführer?
+Nach Absatz 5 auf begründete Anfrage die Informationen über eigene Maßnahmen nach Absätzen 1 bis 4 liefern; Absatz 6 regelt Zusammenarbeit zur Risikoverringerung. Geschäftsgeheimnisse und Befugnisse prüfen, ohne berechtigte Anfragen pauschal abzuweisen. Vor Versand Empfänger und tatsächlich freigegebene Unterlagen bestimmen.
 
-**Zum Anbieter wird der Händler (Art. 24 Abs. 4 i.V.m. Art. 25 KI-VO), wenn er:**
-- Das System unter eigenem Namen oder eigener Marke in Verkehr bringt
-- Das System wesentlich verändert (auch durch Konfiguration, Anpassung, Re-Training)
-- Den bestimmungsgemäßen Zweck des Systems ändert
+Artikel 25 kann bei eigener Kennzeichnung oder qualifizierter Änderung Anbieterpflichten auslösen. Eine Konfiguration ist nicht stets wesentlich; ursprüngliche Bewertung, geplante Änderung und konkreter Einfluss auf Konformität beziehungsweise Zweck nach Artikel 3 Nummer 23 prüfen. Bei erstmaligem Inverkehrbringen eines Drittlandsystems ist die Einführerrolle neu zu bewerten.
 
-**Zum Einführer wird der Händler, wenn:**
-- Das System aus einem Drittland stammt und er das System als Erster in der EU in Verkehr bringt
+### 3.4. Zeit und Wiedervorlage
 
-**Prüffragen:**
-- Verändern Sie das System in irgendeiner Weise (Konfiguration, Anpassung, Fine-Tuning)?
-- Vermarkten Sie das System unter eigenem Namen oder eigener Marke?
+Artikel 24 liegt in Kapitel III Abschnitt 3; Artikel 111 und 113 anhand des Systempfads prüfen. Schon früher bestehende produkt- oder vertragsrechtliche Pflichten bleiben eigenständig. Die Antwort endet mit belastbarer Bereitstellungsentscheidung oder konkret benannter Nachforderung und erneuter Entscheidung nach deren Eingang.
 
-## Praktische Bedeutung für Software-Marktplätze
+## 4. Quellenpflicht
 
-Betreiber von App-Stores oder Software-Marktplätzen, auf denen Hochrisiko-KI-Systeme angeboten werden, können als Händler eingestuft werden. Sie müssen dann die Pflichten nach Art. 24 KI-VO erfüllen.
+Artikel 3 Nummer 7, Artikel 16 Buchstaben b und c, Artikel 23 Absatz 3, Artikel 24 und 25. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-Die Abgrenzung zu Hosting-Diensten, die nur infrastrukturelle Dienste erbringen (Mere-Conduit), ist noch nicht abschließend durch Leitlinien konkretisiert.
+## 5. Ausgabeformat
 
-## Meldepflicht bei Risiken (Art. 24 Abs. 2 KI-VO)
+Ein begründeter Händlervermerk sowie gegebenenfalls vollständig formuliertes Lieferantenschreiben oder Entwurf einer Korrekturinformation. Belegte Tatsache und Verdacht trennen; keine fiktive Rückrufdurchführung.
 
-Der Händler muss den Anbieter, den Einführer und die nationalen Behörden informieren, wenn er feststellt, dass das System eine Gefahr darstellt oder nicht der KI-VO entspricht.
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
----
+## 6. Beispiele
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — HAENDLER DISTRIBUTOR PFLICHTEN ART 24
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 24 Rn. 3]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein Reseller hat eine veraltete Erklärung zu Version 2, verkauft aber Version 3. Prüfe die konkrete Änderung und fordere den passenden Nachweis. Eine zehnjährige Aufbewahrung wird nicht allein aus Artikel 24 Absatz 3 abgeleitet.

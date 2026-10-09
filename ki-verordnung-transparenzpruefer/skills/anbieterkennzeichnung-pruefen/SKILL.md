@@ -30,7 +30,11 @@ Bei Berufung auf Bestandsschutz prüfe Artikel 111 Absatz 4: vor dem 2. August 2
 
 Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit bestimmtem Gegenstand, erwarteten Nachweisen und einem als Vorschlag erkennbaren Antworttermin. Nach einer Antwort mit abweichender Version benenne genau die verbleibende Lücke. Nach einschlägigem Nachweis aktualisiere den Vermerk, ohne daraus eine allgemeine Systemzertifizierung abzuleiten.
 
+Ein ISO-Managementzertifikat oder ein Risikoregister belegt keine wirksame Kennzeichnung der konkreten Ausgabe. Fordere einen formatspezifischen Nachweis an. Nachtraining unter einem Drittel des ursprünglichen Modelltrainings befreit nicht von Artikel 50; diese Leitliniengröße betrifft eine andere, modellbezogene Rollenfrage.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 1, 3.2 und 4; [Zitierweise](../../references/zitierweise.md). Normpflicht, technische Beobachtung, Anbieterbehauptung und Vertragsempfehlung müssen unterscheidbar bleiben.
 
@@ -40,6 +44,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein PDF-Export enthält keine auslesbaren Herkunftsfelder, während der Anbieter Markierung der ursprünglichen Bilddatei zusagt. Fordere den Originalexport und den vorgesehenen Detektionsweg an. Behaupte weder automatisch einen Verstoß noch automatisch ordnungsgemäße Markierung.

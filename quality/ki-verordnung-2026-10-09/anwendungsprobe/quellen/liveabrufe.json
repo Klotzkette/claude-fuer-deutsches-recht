@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ki-mig",
+    "url": "https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html",
+    "status": 200,
+    "bytes": 75814,
+    "sha256": "9da231873a835aff0fb98773b90e4fbba790c7e9307a2d063d3b84d15c1a552d",
+    "file": "/tmp/aiact-anwendungsprobe/quellen/ki-mig.html",
+    "begin": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.or"
+  },
+  {
+    "id": "bdsg-26",
+    "url": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html",
+    "status": 200,
+    "bytes": 9560,
+    "sha256": "a13762c03803e72d370b5b37c7cc8f31570576677b3294e0a5d8f8141d9056ad",
+    "file": "/tmp/aiact-anwendungsprobe/quellen/bdsg-26.html",
+    "begin": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.or"
+  },
+  {
+    "id": "32026R1744",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744",
+    "status": 202,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "file": "/tmp/aiact-anwendungsprobe/quellen/32026R1744.html",
+    "begin": ""
+  },
+  {
+    "id": "02024R1689-20260727",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727",
+    "status": 202,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "file": "/tmp/aiact-anwendungsprobe/quellen/02024R1689-20260727.html",
+    "begin": ""
+  },
+  {
+    "id": "32016R0679",
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679",
+    "status": 202,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "file": "/tmp/aiact-anwendungsprobe/quellen/32016R0679.html",
+    "begin": ""
+  }
+]

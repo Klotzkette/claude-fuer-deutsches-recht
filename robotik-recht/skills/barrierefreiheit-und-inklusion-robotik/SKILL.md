@@ -28,7 +28,7 @@ Service-, Pflege-, Liefer- und Empfangsroboter interagieren mit Menschen untersc
 - **BFSGV** Anhang 1 detaillierte Anforderungen.
 - **EN 301 549** harmonisierte Norm IKT-Barrierefreiheit (zuletzt überarbeitet 2024).
 - **AGG** §§ 1, 2 Abs. 1 Nr. 8, 19, 20: Massengeschäfte, Diskriminierung in der Bedienung.
-- **KI-VO** Art. 5 Abs. 1 lit. b: Verbot der Ausnutzung der Verletzlichkeit aufgrund Alters, Behinderung, sozialer/wirtschaftlicher Lage.
+- **Artikel 5 Absatz 1 Buchstabe b:** Ausnutzung der dort beschriebenen Schutzbedürftigkeit, wesentliche Verhaltensveränderung und erheblicher eingetretener oder hinreichend wahrscheinlicher Schaden sind zusammen zu prüfen. Nicht jede barrierefreie Anpassung ist verbotene Ausnutzung. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **MaschinenVO** VO (EU) 2023/1230 Anhang III Nr. 1.1.6 Ergonomie.
 - **UN-BRK** Art. 9 (Zugänglichkeit).
 

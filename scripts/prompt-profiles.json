@@ -2,146 +2,283 @@
   "schema_version": 1,
   "plugins": {
     "agb-werkstatt": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "kanzlei-website-redaktion": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bieter-unternehmen": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "konkurrenten-rechtsschutz": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "vergabestelle-behoerden": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "ki-native-kanzlei": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "rechtsabteilung-forderungsmanagement-immobilienunternehmen": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "schriftsatzwerkstatt-bea": {
       "standalone": [],
-      "formats": ["md"],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauwirtschaft-anfaenger": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauwirtschaft-fortgeschrittene": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "krankenhaus-it-ki": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "grundstuecksrecherche": {
       "standalone": [],
-      "formats": ["md"],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "kommunale-haftpflicht": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "gesellschafterstreit": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "playbook-pruefer": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "weg-hausverwaltung": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": true,
       "hand_curated": true
     },
     "berliner-asog-polizeirecht": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "berliner-gewerbeaufsicht-betrieb": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "berliner-versammlungsrecht": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "sektorenvergabe-workflow": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "berliner-schulrecht-eltern-schueler": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "berliner-hochschulrecht-professoren": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "insolvenzforderungen-checker": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "eigenbedarfskuendigungschecker": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -320,38 +457,127 @@
       "hand_curated": true
     },
     "bauvergabe-unterlagen": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauvergabe-verfahren": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauvergabe-bieter": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauvergabe-rechtsschutz": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "bauvergabe-nachtragsmanagement": {
-      "standalone": ["werkstatt", "schnellstart"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
     "geldwaeschebeauftragter": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md", "txt"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "ki-verordnung-verbotene-praktiken": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "ki-verordnung-hochrisiko-pruefer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": true,
+      "hand_curated": true
+    },
+    "ki-verordnung-register-meldungen": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "ki-verordnung-konformitaet": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
       "megaprompt": false,
       "hand_curated": true
     }

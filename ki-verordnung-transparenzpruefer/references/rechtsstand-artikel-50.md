@@ -1,5 +1,7 @@
 # Artikel 50 und sein Rechtsstand
 
+Amtlicher Nachabgleich vom 9. Oktober 2026: [konsolidierter Rechtsstand und Berichtigung](rechtsstand-2026-10-09.md). Artikel 6 Absatz 1b lautet nach deutscher Berichtigung „Ungeachtet“ des Absatzes 1a. Artikel 50, 111 und 113 wurden erneut gelesen; die Artikel-111-Absatz-4-Übergangsregel bleibt auf vor dem 2. August 2026 in Verkehr gebrachte Systeme und die Anbieterpflicht des Artikels 50 Absatz 2 begrenzt. Frühere Quellenprüfungen zu nationalem Recht und weiteren Reformverfahren behalten ihren ausdrücklich historischen Stand.
+
 ## 1. Quellenstand am 30. September 2026
 
 Maßgeblich ist die [Verordnung (EU) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) in Verbindung mit der [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744). Die Änderung ist seit 27. Juli 2026 in Kraft. Artikel 1 Nummer 39 Buchstabe b fügt Artikel 111 Absatz 4 ein: Anbieter der dort genannten synthetischen Inhalte erzeugenden Systeme, die vor dem 2. August 2026 in Verkehr gebracht wurden, müssen Artikel 50 Absatz 2 bis zum 2. Dezember 2026 erfüllen. Das ist keine Übergangsfrist für Betreiberhinweise nach Absatz 4 oder für sämtliche Systeme, die irgendwann vor August entwickelt wurden. Inverkehrbringen, Systemidentität und Rolle sind zu belegen.

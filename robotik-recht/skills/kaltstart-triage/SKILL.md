@@ -64,7 +64,7 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 | Frage | Konservativ | Aggressiv | Empfehlung |
 |---|---|---|---|
 | Maschinen-RL vs. MaschinenVO | bereits MaschinenVO anwenden | RL bis 20.01.2027 nutzen | Doppel-Doku bei Produkten, deren Inverkehrbringen 2026/2027 fällt |
-| KI-VO Anhang III | konservativ "Hochrisiko" einstufen | Argumentation für Ausnahme Art. 6 Abs. 3 | dokumentierte Begründung bei Ausnahme |
+| Hochrisiko-Prüfung | Beide Pfade nach Artikel 6 anhand Tatsachen prüfen | Ausnahme Absatz 3 nur für Anhang III, kein Profiling | Fehlende Tatsachen offen ausweisen; weder vorsorgliche Hochrisiko-Etikette noch unbelegte Ausnahme |
 | Vorfall melden | proaktiv | nur bei klarer Schwelle | proaktiv bei Personenschaden, sonst Schwellen aus Art. 73 KI-VO / Art. 14 CRA / Art. 33 DSGVO |
 
 ## Praxistipps
@@ -72,7 +72,7 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - **Eine zentrale Mandatsakte** mit Versionsstand des Produkts, nicht je Rechtsakt separate Akten.
 - **Frühe Quellenhygiene:** Keine Modellwissens-Zitate; alle Aktenzeichen live verifizieren.
 - **Audit-Trail:** Jeden externen Kontakt (Behörde, Notified Body, Versicherer) dokumentieren.
-- **Standardklauseln** für KI-Anbieter und Integratoren stets aktuell halten (Art. 25 KI-VO Pflichten für Importeure, Art. 26 KI-VO für Distributoren).
+- **Lieferkette:** Artikel 23 betrifft Einführer, Artikel 24 Händler, Artikel 25 bestimmte Rollenwechsel und Lieferkettenunterstützung, Artikel 26 Betreiber. Vertragsklauseln nach der tatsächlichen Rolle und Funktion zuordnen. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Mustertexte
 
@@ -104,12 +104,12 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 | Robotertyp | Wahrscheinliche Rechtsakte | Risikomerkmal |
 |---|---|---|
 | Industrieroboter mit Zaun | MaschinenVO, KI-VO ggf. Anhang III, CRA, DSGVO | Quetschung; mechanisch |
-| Cobot | MaschinenVO, KI-VO Anhang III, ISO/TS 15066, CRA | Mensch-Roboter-Kollaboration |
-| AMR/AGV im Lager | MaschinenVO, KI-VO Anhang III, CRA, ArbSchG | Personenstöße, Sturz |
+| Cobot | Maschinenrecht, KI-Verordnung Artikel 2 Absatz 2 und Anhang I Abschnitt B Nummer 21 sowie konkrete weitere Funktionen prüfen; Normen nur nach Edition und Status | Mensch-Roboter-Kollaboration ist allein kein Anhang-III-Tatbestand |
+| AMR/AGV im Lager | Produktrecht und KI-Verordnung Artikel 2 Absatz 2 / Artikel 6 Absatz 1 prüfen; weitere Zwecke separat | Personenstöße und Sturz sind konkrete Sicherheitsfragen, keine automatische Anhang-III-Zuordnung |
 | OP-Roboter | MDR, MPDG, KI-VO, CRA, BGB Behandlungsvertrag | Patient, Off-Label |
 | Pflegeroboter | MaschinenVO, KI-VO (ggf. Art. 5 lit. b), MDR ggf., DSGVO | Verletzliche Person |
-| Lieferroboter im öff. Raum | MaschinenVO, KI-VO Anhang III, StVG/Landesrecht, DSGVO | Verkehrsteilnehmer |
-| OP-/Service-Roboter mit KI-Bildverarbeitung | KI-VO Anhang III, DSGVO Art. 9 | Biometrie, Bias |
+| Lieferroboter im öffentlichen Raum | Produkt- und Verkehrsrecht, Datenschutz; KI-Verordnung nach konkreter Funktion | Ein Einsatz auf der Straße allein ist noch kein Infrastrukturmanagement nach Anhang III |
+| OP-/Service-Roboter mit KI-Bildverarbeitung | Artikel 6 Absatz 1 mit Produktrecht oder Absatz 2 mit konkretem Anhang-III-Zweck | Bildverarbeitung allein ist weder biometrische Identifikation noch zwingend besondere Datenverarbeitung |
 
 ## Quellen Stand 06/2026
 

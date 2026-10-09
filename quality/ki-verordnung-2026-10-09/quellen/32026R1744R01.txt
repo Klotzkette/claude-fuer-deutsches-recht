@@ -1,0 +1,516 @@
+EUR-Lex - 32026R1744R(01) - EN - EUR-Lex
+(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)
+var legislativeUrl = 'http://old.eur-lex.europa.eu/en/techleg/index.htm';
+        var eurovocUrl = 'http://eurovoc.europa.eu/drupal/';
+        var interStyleGuideUrl = 'http://publications.europa.eu/code/en/en-000100.htm';
+        var sessionExpired = false;
+        var pageUrl = '';
+        var queryString = 'uri=CELEX:32026R1744R(01)';
+        var sessionTimeout = '900000';
+{
+            "utility": "cck",
+            "url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html?locale=en#5.%20Cookies%20notice"
+        }
+document.addEventListener('DOMContentLoaded', function () {
+            (function(window, document, dataLayerName, id) {
+                window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+                function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+                var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+                var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+                tags.async=!0,tags.src="https://analytics.webanalytics.op.europa.eu/containers/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+                !function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+            })(window, document, 'dataLayer','0b5594a8-b9c8-4cd6-aa25-5c578dcf91df');
+        }, { once: true });
+×
+Skip to main content
+Log in
+My EUR-Lex
+My EUR-Lex
+Sign in
+Register
+My recent searches (0)
+English
+English
+Select your language
+Official EU languages:
+bg
+български
+es
+Español
+cs
+Čeština
+da
+Dansk
+de
+Deutsch
+et
+Eesti keel
+el
+Ελληνικά
+en
+English
+fr
+Français
+ga
+Gaeilge
+hr
+Hrvatski
+it
+Italiano
+lv
+Latviešu valoda
+lt
+Lietuvių kalba
+hu
+Magyar
+mt
+Malti
+nl
+Nederlands
+pl
+Polski
+pt
+Português
+ro
+Română
+sk
+Slovenčina
+sl
+Slovenščina
+fi
+Suomi
+sv
+Svenska
+EUR-Lex
+Access to European Union law
+<a href="https://eur-lex.europa.eu/content/help/eurlex-content/experimental-features.html" target="_blank">More about the experimental features corner</a>
+Experimental features
+×
+Choose the experimental features you want to try
+Do you want to help improving EUR-Lex ? This is a list of experimental features that you can enable. These features are still under development; they are not fully tested, and might reduce EUR-Lex stability. Don't forget to give your feedback!
+Warning! Experimental feature conflicts detected.
+Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles.
+Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts.
+Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB.
+Apply
+$(document).ready(function() {
+		var conflicts = {};
+		
+		initializeFloatingBox(conflicts,$(document).find('.exp-feature-child-checkbox'),"");
+
+		var expOriginalTooltip = $('#expFeatHelp').attr('aria-description');
+		expOriginalTooltip = expOriginalTooltip.replace(/(<([^>]+)>)/ig,'');
+		$('#expFeatHelp').attr('aria-description',expOriginalTooltip);
+	});
+EUR-Lex
+Access to European Union law
+This document is an excerpt from the EUR-Lex website
+var home_lang = en;
+    $(document).ready(function(){
+        svg4everybody({ polyfill: true });
+        ECL.autoInit();
+    });
+
+    $(document).ready(function(){
+        $(".ecl-site-header__language-link--active").removeClass("ecl-site-header__language-link--active");
+        $(home_lang).addClass("ecl-site-header__language-link--active");
+    });
+You are here
+EUROPA
+EUR-Lex home
+EUR-Lex - 32026R1744R(01) - EN
+Help
+Print
+{
+                    "service": "share",
+                    "counter": false,
+                    "css": {
+                        "button": "myButton"
+                    },
+                    "link": "https://eur-lex.europa.eu/eli/reg/2026/1744/corrigendum/2026-09-29/oj/eng"
+                }
+$(document).ready(function() {
+        $('.PageShare').each(function() { 
+            const target = this;
+            let observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (!mutation.addedNodes) return
+                    for (let i = 0; i < mutation.addedNodes.length; i++) {
+                        let node = mutation.addedNodes[i]
+                        if ($(node) != undefined && $(node).is("a") && $(node).hasClass("myButton") && $(node).find("i").length === 0) {
+                            $(node).prepend("<i class='fa fa-share-alt' aria-hidden='true'></i>")
+                            observer.disconnect();
+                        }
+                    }
+                })
+            })
+            observer.observe(target, {
+                subtree: true,
+                childList: true
+            });
+        });
+    });
+Menu
+EU law
+Treaties
+Treaties currently in force
+Founding Treaties
+Accession Treaties
+Other treaties and protocols
+Chronological overview
+Legal acts
+Consolidated texts
+International agreements
+Preparatory documents
+EFTA documents
+Lawmaking procedures
+Summaries of EU legislation
+Browse by EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union
+European Central Bank
+European Court of Auditors
+European Economic and Social Committee
+European Committee of the Regions
+Browse by EuroVoc
+EU case-law
+Case-law
+Reports of cases
+Directory of case-law
+Official Journal
+Access to the Official Journal
+Official Journal L series daily view
+Official Journal C series daily view
+Browse the Official Journal
+Legally binding printed editions
+Special edition
+National law and case-law
+National transposition
+National case-law
+JURE case-law
+Information
+Themes in focus
+EUR-Lex developments
+Statistics
+ELI register
+What is ELI?
+ELI background
+Why implement ELI?
+Countries implementing ELI
+Testimonials
+How to implement ELI
+Glossary
+EU budget online
+Quick search
+Use quotation marks to search for an "exact phrase". Append an asterisk (
+*
+) to a search term to find variations of it (transp
+*
+, 32019R
+*
+). Use a question mark (
+?
+) instead of a single character in your search term to find variations of it (ca
+?
+e finds case, cane, care).
+Search tips
+Need more search options? Use the
+Advanced search
+$(document).ready(function() {
+			var quickSearchFld = $('#QuickSearchField.autocompleteField');
+			typeaheadFld(quickSearchFld, "./../../../autocomplete.html", true, 'QuickSearch');
+		});
+		var quickSearchHelpAlt="Use quotation marks to search for an &quot;exact phrase&quot;. Append an asterisk (<abbr title='Asterisk'>*</abbr>) to a search term to find variations of it (transp<abbr title='Asterisk'>*</abbr>, 32019R<abbr title='Asterisk'>*</abbr>). Use a question mark (<abbr title='Question mark'>?</abbr>) instead of a single character in your search term to find variations of it (ca<abbr title='Question mark'>?</abbr>e finds case, cane, care).";
+		var quickSearchHelp="Use quotation marks to search for an &quot;exact phrase&quot;. Append an asterisk (<abbr title='Asterisk'>*</abbr>) to a search term to find variations of it (transp<abbr title='Asterisk'>*</abbr>, 32019R<abbr title='Asterisk'>*</abbr>). Use a question mark (<abbr title='Question mark'>?</abbr>) instead of a single character in your search term to find variations of it (ca<abbr title='Question mark'>?</abbr>e finds case, cane, care).";
+Document 32026R1744R(01)
+Help
+Print
+{
+                    "service": "share",
+                    "counter": false,
+                    "css": {
+                        "button": "myButton"
+                    },
+                    "link": "https://eur-lex.europa.eu/eli/reg/2026/1744/corrigendum/2026-09-29/oj/eng"
+                }
+$(document).ready(function() {
+        $('.PageShare').each(function() { 
+            const target = this;
+            let observer = new MutationObserver((mutations) => {
+                mutations.forEach((mutation) => {
+                    if (!mutation.addedNodes) return
+                    for (let i = 0; i < mutation.addedNodes.length; i++) {
+                        let node = mutation.addedNodes[i]
+                        if ($(node) != undefined && $(node).is("a") && $(node).hasClass("myButton") && $(node).find("i").length === 0) {
+                            $(node).prepend("<i class='fa fa-share-alt' aria-hidden='true'></i>")
+                            observer.disconnect();
+                        }
+                    }
+                })
+            })
+            observer.observe(target, {
+                subtree: true,
+                childList: true
+            });
+        });
+    });
+Text
+Document information
+Up-to-date link
+Permanent link
+$(document).ready(function () {
+        if (readCookie('bookmark') == 'trigger') {
+            deleteCookie('bookmark');
+
+        } else {
+        	// Permanent link (DISPLAYED FIST) should remove qid from query string, and bookmark link should be displayed in its place when page refreshes
+            $('#link-permanent-link').addClass("onlyJsInlineBlock");
+            $('#link-permanent-link').show();
+        }
+    });
+Download notice
+Save to My items
+Create an email alert
+Create an RSS alert
+​
+Berichtigung der Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI) (ABl. L, 2026/1744, 24.7.2026)
+Berichtigung der Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI) (ABl. L, 2026/1744, 24.7.2026)
+ST/13206/2026/INIT
+ABl. L, 2026/90810, 29.9.2026, ELI:
+http://data.europa.eu/eli/reg/2026/1744/corrigendum/2026-09-29/oj
+(DE)
+ELI:
+http://data.europa.eu/eli/reg/2026/1744/corrigendum/2026-09-29/oj
+Expand all
+Collapse all
+Languages, formats and authentic version
+Language
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+HTML
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+PDF - authentic OJ
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+e-signature
+EN
+Toggle Dropdown
+BG
+ES
+CS
+DA
+DE
+ET
+EL
+EN
+FR
+GA
+HR
+IT
+LV
+LT
+HU
+MT
+NL
+PL
+PT
+RO
+SK
+SL
+FI
+SV
+How to verify the authenticity of the Official Journal
+Multilingual display
+Language 1
+Please choose
+German (de)
+Language 2
+Please choose
+German (de)
+Language 3
+Please choose
+German (de)
+Display
+Text
+The document is unavailable in your User interface language.
+Amtsblatt
+der Europäischen Union
+DE
+Reihe L
+2026/90810
+29.9.2026
+Berichtigung der Verordnung (EU) 2026/1744 des Europäischen Parlaments und des Rates vom 8. Juli 2026 zur Änderung der Verordnungen (EU) 2024/1689, (EU) 2018/1139 und (EU) 2023/1230 im Hinblick auf die Vereinfachung der Umsetzung harmonisierter Vorschriften für künstliche Intelligenz (Digital-Omnibus-Verordnung zur KI)
+(
+Amtsblatt der Europäischen Union L, 2026/1744, 24. Juli 2026
+)
+Seite 18, Artikel 1 Nummer 8:
+Anstatt:
+„(1b)   Unbeschadet des Absatzes 1a gelten KI-Systeme, deren Ausfall oder Fehlfunktion Gesundheit und Sicherheit gefährden würde, als Sicherheitsbauteile.“
+muss es heißen:
+„(1b)   Ungeachtet des Absatzes 1a gelten KI-Systeme, deren Ausfall oder Fehlfunktion Gesundheit und Sicherheit gefährden würde, als Sicherheitsbauteile.“
+ELI: http://data.europa.eu/eli/reg/2026/1744/corrigendum/2026-09-29/oj
+ISSN 1977-0642 (electronic edition)
+Top
+$(document).ready(function () {
+			popUpWidget("./../../../", "en", "800");
+			popUpWidgetAccessible("./../../../", "DE");
+		})
+$(document).ready(function () {
+			    
+				if ("false" == "true" || "false" == "true") {
+					initConsLegTable('To display the table of contents, zoom out or increase the size of your browser window.');
+				}
+				if ("false" == "true") {
+					initToc("false");
+					
+					eliResolutionResolver("/legal-content/DE/TXT/");
+				}
+				setTimeout(function(){ loadDocState("TXT false","PP"); }, 0);
+		        $(document).trigger("enhance");
+			});
+This site is managed by the
+Publications Office of the European Union
+Need help?
+Help pages
+Contact
+Sitemap
+Follow us
+X
+Legal
+Legal notice
+Cookies policy
+Accessibility
+Privacy statement
+Information
+About EUR-Lex
+Newsletter
+Useful links
+Other services
+European Data
+EU tenders
+EU research results
+EU Whoiswho
+EU publications
+N-Lex
+EU Law Tracker
+Discover more on
+europa.eu
+Contact the EU
+Call us 00 800 6 7 8 9 10 11
+Use other telephone options
+Write to us via our contact form
+Meet us at one of the EU centres
+Social media
+Search for EU social media channels
+Legal
+Languages on our websites
+Privacy policy
+Legal notice
+Cookies
+EU institutions
+European Parliament
+European Council
+Council of the European Union
+European Commission
+Court of Justice of the European Union (CJEU)
+European Central Bank (ECB)
+European Court of Auditors
+European External Action Service (EEAS)
+European Economic and Social Committee
+European Committee of Regions (CoR)
+European Investment Bank
+European Ombudsman
+European Data Protection Supervisor (EDPS)
+European Data Protection Board
+European Personnel Selection Office
+Publications Office of the European Union
+Agencies
+Switch to mobile
+Switch to desktop
+$(document).ready(function () {
+        var switchToDesktop = "notSelected";
+        var deviceDetected = "desktop";
+        //enable switch to desktop view for mobile devices
+        if (deviceDetected == 'mobile' ){
+            if ((switchToDesktop == 'false' || switchToDesktop == 'notSelected') && window.innerWidth<992 ){
+                $("#switchToDesktop").removeClass("hide");
+            }else if (switchToDesktop == 'true'){
+                $("#switchToMobile").removeClass("hide");
+            }
+        }
+    });
+(function($,d){$.each(readyQ,function(i,f){$(f)});$.each(bindReadyQ,function(i,f){$(d).on("ready",f)})})(jQuery,document)

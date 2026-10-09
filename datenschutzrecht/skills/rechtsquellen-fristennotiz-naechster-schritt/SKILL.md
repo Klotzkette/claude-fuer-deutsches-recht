@@ -33,7 +33,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | **8 Wochen** | Art. 36 Abs. 1/2 | Konsultation Aufsichtsbehörde bei DSFA mit hohem Restrisiko (verlängerbar) |
 | **3 Jahre** | § 195 BGB | Verjährung Schadensersatz Art. 82 (Regelfrist) |
 | **6 Monate** | § 6 EGBGB-DSGVO/§ 41 BDSG | Bußgeldverfahren Verjährung (in DE OWiG-Regeln, ggf. abweichend) |
-| **2 Jahre** | Art. 50 Abs. 2 KI-VO | Kennzeichnungspflicht bei synthetischen Inhalten |
+| Artikel 50 Absatz 2 | Technische Anbieterkennzeichnung synthetischer Ausgaben; keine allgemeine Zweijahresfrist | Artikel 113 und Übergang Artikel 111 Absatz 4 für erfasste generative Alt-Systeme prüfen |
 
 ## Nächste Schritte je nach Lage
 - **Datenpanne erkannt:** Sofort interne Schadensbewertung (welche Daten, wie viele Betroffene, Risikograd) → Entscheidung Meldepflicht Art. 33 → ggf. Benachrichtigung Art. 34.

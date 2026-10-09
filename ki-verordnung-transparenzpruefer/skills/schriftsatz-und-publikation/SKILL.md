@@ -24,7 +24,11 @@ Erst wenn die Textfallgruppe erfüllt ist, prüfe menschliche Überprüfung oder
 
 Bei fehlendem Kanal frage konkret: „Soll diese Fassung nur an Gericht und Parteien gehen oder zusätzlich frei zugänglich erscheinen?“ Nach der Antwort liefere die fertige Entscheidung samt passendem Begleitschreiben oder Hinweistext. Wurde nur ein Teil öffentlich übernommen, ändere nicht ungefragt die übrige Prozessakte.
 
+Rechtlicher Inhalt macht ein System nicht automatisch zu Justiz-Hochrisiko nach Anhang III Nummer 8. Dessen Zweck, Verwender und Tätigkeit gesondert prüfen, soweit beauftragt. Die Veröffentlichungskontrolle nach Artikel 50 entscheidet weder diese Einstufung noch das Systemrisikomanagement.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 Artikel 50 Absatz 4 Unterabsatz 2 und Absatz 5, [Quellenreferenz](../../references/rechtsstand-artikel-50.md), Abschnitte 3.4 und 3.5, sowie [Zitierweise](../../references/zitierweise.md). Kennzeichne die Schriftsatzabgrenzung als eigene Subsumtion, nicht als angeblichen Gerichtssatz.
 
@@ -34,6 +38,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein nichtöffentlicher Schriftsatz wird später zu einem frei abrufbaren Gastbeitrag über Straßensperrungen umgebaut. Liefere zwei getrennte Beurteilungen der Verwendungen. Ein im Schriftsatz enthaltenes manipuliertes Foto ist gesondert auf die Bildfallgruppe zu prüfen; die Textentscheidung erfasst es nicht.

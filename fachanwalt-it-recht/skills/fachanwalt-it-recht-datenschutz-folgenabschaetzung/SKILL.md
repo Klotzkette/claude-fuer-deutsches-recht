@@ -77,7 +77,7 @@ Mit freundlichen Gruessen
 
 ## Faktische Updates (Stand 05/2026)
 
-- **FRIA (Art. 27 KI-VO) — ab 02.08.2026:** Bei Hochrisiko-KI-Systemen muessen bestimmte Betreiber (oeffentliche Stellen, oeffentlich-finanzierte Dienste, Kreditscoring, Krankenversicherungs-Risikobewertung) eine Grundrechte-Folgenabschaetzung durchfuehren. Integriert mit DSFA moeglich, rechtlich aber eigenstaendig.
+- **FRIA nach Artikel 27:** Artikel 27 erfasst Betreiber, die Einrichtungen des öffentlichen Rechts oder private Einrichtungen sind, die öffentliche Dienstleistungen erbringen, sowie Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b und c. Systeme nach Anhang III Nummer 2 sind ausgenommen. Öffentliche Finanzierung allein ist kein Tatbestand. DSFA und FRIA haben eigene Voraussetzungen; vorhandene DSFA-Ergebnisse können nach Artikel 27 Absatz 4 einbezogen werden. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **EDSA-Stellungnahme 28/2024 zu KI-Modellen:** Bei KI-Modellen, die mit personenbezogenen Daten trainiert wurden, sind Anonymitaet, Pseudonymisierung, Modellausgaben mit Personenbezug und Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) zu pruefen. Quelle: edpb.europa.eu.
 - **Aktualisierte BfDI/LfDI-Blacklists Art. 35 Abs. 4 DSGVO:** vor jeder DSFA aktuelle Listen live pruefen.
 - **NIS-2 / DORA Schnittstelle:** Bei Hochrisiko-Verarbeitungen mit IT-Sicherheits-Bezug parallele Cyber-Risikobewertung dokumentieren.
@@ -86,7 +86,7 @@ Mit freundlichen Gruessen
 
 1. Welche EDSA-Kriterien sind erfüllt? (Mindestens 2 für DSFA-Pflicht)
 2. Steht die Verarbeitung auf der BfDI- oder DSK-Blacklist?
-3. Liegt ein KI-System vor? (FRIA nach Art. 27 KI-VO parallel zur DSGVO-DSFA)
+3. Liegt ein KI-System vor, fällt der konkrete Betreiber unter Artikel 27 und ist die Pflicht zeitlich anwendbar? Die DSGVO-DSFA gesondert aus Artikel 35 begründen.
 4. Ergebnis: DSFA PFLICHT / DSFA EMPFOHLEN / KEINE DSFA?
 
 ## Output-Template — DSFA-Kurzprotokoll

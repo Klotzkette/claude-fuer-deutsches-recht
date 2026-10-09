@@ -1,6 +1,6 @@
 # startup-gruender
 
-**18 Skills** · Stand `v445.33.1`
+**18 Skills** · Stand `v445.35.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../startup-gruender/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`startup-gruender-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`startup-gruender-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-gruender/startup-gruender-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [startup-gruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-gruender.zip) |
+| **Plugin (installierbar)** | ZIP | [startup-gruender.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.0/startup-gruender.zip) |
 
 ## So benutzt man einen Skill
 

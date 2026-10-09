@@ -64,7 +64,7 @@ Verantwortlich: [Name Geschäftsführung/Partnerkreis]
  7.2 Compliance-Regelsatz
  7.3 Organisatorische Maßnahmen
 8. Exkurs: Rechtsberatung und RDG
-9. KI-Kompetenz als Pflicht (Art. 4 KI-VO)
+9. Kompetenzmaßnahmen nach Artikel 4 KI-Verordnung und rollenbezogene Einweisung
 10. Exkurs: KI-Verordnung (KI-VO)
 11. Ausblick und Fazit
 12. Disclaimer
@@ -89,7 +89,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 Das Skelett ist bei wesentlichen Rechtsänderungen (neue KI-VO-Durchführungsrechtsakte, neue BRAK-Hinweise, neue BAG- oder OLG-Entscheidungen) anzupassen. Der Skill `richtlinien-update-zyklus` legt das Prüfintervall fest.
 
 ## Zentrale Normen (Paragrafenkette)
-- Art. 4 KI-VO — KI-Kompetenzverpflichtung als Richtlinien-Anforderung
+- Artikel 4 KI-Verordnung: angemessene Fördermaßnahmen als Teil der Organisation, kein gesetzlich festgelegtes Richtlinienformat. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - Art. 26/29 KI-VO — Betreiberpflichten in Richtlinie operationalisieren
 - Art. 22 DSGVO — Automatisierte Entscheidungen
 - § 43a Abs. 2 BRAO — Verschwiegenheits-Abschnitt
@@ -131,7 +131,7 @@ IV. QUALITAETSSICHERUNG
  § 12 Dokumentationspflichten
 
 V. SCHULUNG UND KOMPETENZ
- § 13 KI-Schulungspflicht (Art. 4 KI-VO)
+ § 13 Maßnahmen zur Kompetenzförderung und interne Nachweise (Artikel 4 KI-Verordnung)
  § 14 Fortbildungspflicht Fachanwaelte
 
 VI. GOVERNANCE UND VERANTWORTUNG

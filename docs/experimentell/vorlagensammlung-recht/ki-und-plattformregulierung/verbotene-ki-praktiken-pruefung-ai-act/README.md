@@ -1,5 +1,9 @@
 # Prüfung verbotener KI-Praktiken nach Art. 5 KI-Verordnung
 
+## Rechtsstand der KI-VO: 9. Oktober 2026
+
+Die Prüffelder enthalten nun die einzelnen Merkmale statt bloßer Schlagwörter. Insbesondere gilt Social Scoring nicht nur für Behörden; die neuen Buchstaben ba und bb werden am Prüfdatum als erst ab 2. Dezember 2026 anwendbar behandelt. Grundlage ist der [amtliche konsolidierte Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) mit Änderungsverordnung (EU) 2026/1744 und Berichtigung vom 29. September 2026. Geltungsbeginn und Altbestand werden nach Art. 113 und 111 je Pflicht geprüft. Diese Runde prüft die KI-VO-Aussagen; vorhandene arbeits-, berufs- und datenschutzrechtliche Hinweise sind damit nicht als vollständig neu verifiziert ausgewiesen.
+
 Prüfdokumentation, warum ein KI-System keine verbotene Praxis darstellt oder gesperrt werden muss.
 
 ## Download

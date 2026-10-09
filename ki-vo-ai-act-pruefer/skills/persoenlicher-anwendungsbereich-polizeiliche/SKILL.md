@@ -13,9 +13,9 @@ Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche R
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: bisherige Verbote seit 02.02.2025, neue Verbote ab 02.12.2026; GPAI und Transparenz nach eigener Regel. Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, Anhang I ab 02.08.2028; Artikel 111 und 113 sowie einschlägige Zuständigkeit prüfen.
-- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, Marktüberwachungsbehörde (BNetzA/BMDV), benannte Stelle, EU-AI-Office, AI Board.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung Art. 47, technische Dokumentation Anhang IV, Risikomanagement-System Art. 9, Datengovernance Art. 10, FRIA (Fundamental Rights Impact Assessment) Art. 27, EU-Datenbank-Registrierung Art. 49 — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Tragende Normen verifizieren: KI-VO (EU 2024/1689) Art. 3, 5 (Verbote), 6 (Hochrisiko), 8-15 (Anforderungen), 16, 26 (Pflichten Anbieter/Betreiber), 50 (Transparenz), 51-55 (GPAI), 73, 99 (Sanktionen) — Unionsnormen in der aktuellen EUR-Lex-Fassung lesen; nationale Normen und Rechtsprechung an ihrer zuständigen amtlichen Quelle prüfen. Keine Modellwissen-Zitate und keine Suchauszüge als Volltextprüfung ausgeben.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter, Betreiber, Importeur, Händler, für den konkreten Bereich zuständige Marktüberwachungsbehörde, benannte Stelle, EU-AI-Office, AI Board.
+- Nur für den festgestellten Pflichtzweig benötigte Belege anfordern. Artikel 9 betrifft Systemrisiken, Artikel 17 das Qualitätsmanagement des Anbieters und Artikel 27 nur bestimmte Betreiber. Ein Risikoregister ersetzt keines dieser Produkte. Bei behaupteter Konformität die konkrete Systemfassung und gesetzliche Bewertungsroute, bei behaupteter Registrierung den zutreffenden Artikel-49-Zweig und Zugangsnachweis prüfen.
 
 ## Rollen im Überblick
 
@@ -61,7 +61,7 @@ In der Praxis sind Mehrfachrollen häufig:
 
 - Wer ein fremdes KI-System wesentlich verändert und unter eigenem Namen in Verkehr bringt, wird zum Anbieter (Art. 25 KI-VO) → `anbieter-werden-art-25`
 - Wer ein System selbst entwickelt und auch selbst einsetzt, ist gleichzeitig Anbieter und Betreiber.
-- Einführer können unter bestimmten Bedingungen als Anbieter behandelt werden (Art. 23 Abs. 4 KI-VO).
+- Einführer können bei Eigenmarke, wesentlicher Änderung oder neuer Hochrisikozweckbestimmung nach Artikel 25 Absatz 1 als Anbieter behandelt werden; Artikel 23 Absatz 4 betrifft Lagerung und Transport.
 
 ## Routing
 
@@ -87,7 +87,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 - Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
 - Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
 - Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
+- Art. 99 KI-VO — den konkreten Verstoß und die jeweils einschlägige Sanktionsstufe prüfen; nicht den Artikel-5-Höchstsatz auf alle Pflichten übertragen
 
 ## Triage zu Beginn
 1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?

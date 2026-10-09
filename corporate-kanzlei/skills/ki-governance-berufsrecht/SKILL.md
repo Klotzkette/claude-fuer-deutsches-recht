@@ -216,7 +216,7 @@ FAZIT: KI-Ergebnisse wurden angemessen geprueft; Eigenverantwortung des Anwalts 
 - Mandatsrelevante Daten ohne AVV in Drittland-KI-Dienst → DSGVO-Verstoss; Bussgelder
 - KI-Ergebnis ohne Qualitaetspruefung weitergegeben → Anwaltshaftung; § 2 BORA
 - KI-gestutzte Entscheidung ohne Dokumentation → kein BJR-Schutz (§ 93 AktG)
-- EU-KI-VO Hochrisiko-System ohne Konformitaetsbewertung → ab 2026 Bussgeld bis 30 Mio. EUR oder 6 % Weltumsatz
+- Fehlende gebotene Konformitätsbewertung: zunächst Anbieterrolle, Verfahrenspfad und Anwendbarkeit feststellen. Artikel 99 Absatz 4 nennt für die dort aufgeführten Pflichtverstöße bis 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes, grundsätzlich den höheren Wert. Absätze 6 und 6a enthalten Sonderregeln für KMU beziehungsweise kleine Unternehmen mittlerer Kapitalisierung. Kein pauschales Bußgeld „30 Millionen/6 Prozent ab 2026“. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 
 ## Quellen
 

@@ -26,7 +26,11 @@ Offensichtlich künstlerische, kreative, satirische, fiktionale oder vergleichba
 
 Nach Eingang der Vorschau gleiche die bisherige Begründung mit dem tatsächlichen Eindruck ab und liefere die fertige Bildunterschrift beziehungsweise den Audiohinweis. Bei fehlender Nutzungsfreigabe kennzeichne deren gesonderte Prüfung, ohne das beauftragte Transparenzdokument durch ein anderes Gutachten zu ersetzen. Veröffentliche nichts und verändere keine Originaldatei ohne Auftrag.
 
+Die neuen Artikel-5-Buchstaben ba und bb sowie Absätze 1a und 1b gelten ab 2. Dezember 2026. Bei den dort geregelten intimen beziehungsweise Missbrauchsinhalten den spezifischen Verbotstatbestand vorgeschaltet prüfen. Ein Hinweis ersetzt keine Prüfung von Anbieterzweck, vorhersehbarer reproduzierbarer Erzeugung und gezielter Betreiberverwendung. Für die Rechtsprüfung keine missbräuchlichen Medien erzeugen.
+
 ## 4. Quellenpflicht
+
+[Amtlicher Rechtsstandabgleich vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md).
 
 [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 3.4, 3.5 und 4, mit Artikel 3 Nummer 60 und Artikel 50 Absatz 4 Unterabsatz 1; [Zitierweise](../../references/zitierweise.md). Kodex freiwillig, Leitlinien unverbindlich, keine erfundene Entscheidung über Kanzleimontagen.
 
@@ -36,6 +40,6 @@ Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierte
 
 Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
 
-## 6. Beispiel
+## 6. Beispiele
 
 Ein Bürofoto erhält nachträglich eine angebliche Bürgerversammlung. Entwirf bei entsprechendem Befund: „Das Bild wurde mit KI verändert; die dargestellte Besprechung hat so nicht stattgefunden.“ Prüfe zuvor, ob genau diese Aussage aus Produktionsauftrag und Vorschau folgt.

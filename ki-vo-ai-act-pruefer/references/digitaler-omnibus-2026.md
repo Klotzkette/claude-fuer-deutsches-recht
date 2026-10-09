@@ -1,5 +1,7 @@
 # 1. Digitaler Omnibus und deutsche Aufsicht
 
+Amtlicher Nachabgleich vom 9. Oktober 2026: [konsolidierter Rechtsstand und Berichtigung](rechtsstand-2026-10-09.md). Artikel 6 Absatz 1b lautet nach deutscher Berichtigung „Ungeachtet“ des Absatzes 1a. Artikel 50, 111 und 113 wurden erneut gelesen; die Artikel-111-Absatz-4-Übergangsregel bleibt auf vor dem 2. August 2026 in Verkehr gebrachte Systeme und die Anbieterpflicht des Artikels 50 Absatz 2 begrenzt. Frühere Quellenprüfungen zu nationalem Recht und weiteren Reformverfahren behalten ihren ausdrücklich historischen Stand.
+
 Prüfstand: 10. September 2026. Bei einer historischen Akte gilt deren Bearbeitungszeitpunkt. Diese Fundstellenkarte unterscheidet veröffentlichte Norm, künftigen Geltungsbeginn und Gesetzgebungsvorschlag. Nur den für den Auftrag benötigten Abschnitt lesen.
 
 ## 1.1. Normstand vor Terminplanung

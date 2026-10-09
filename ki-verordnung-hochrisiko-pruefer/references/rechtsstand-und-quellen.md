@@ -2,9 +2,11 @@
 
 ## 1 Prüfstand und Quellenqualität
 
-Stand und Abruf: 28. September 2026. Maßgeblich sind die Verordnung (EU) 2024/1689 und ihre Änderung durch die Verordnung (EU) 2026/1744. Direkte EUR-Lex-Abrufe lieferten teilweise eine JavaScript-Prüfung. Die nachstehend bezeichneten Änderungsstellen waren im amtlichen EUR-Lex-Suchindex mit Normwortlaut zugänglich; daneben wurde die amtliche Kommissionsmitteilung zum Inkrafttreten geöffnet. Nicht als Prüfung einer vollständig konsolidierten deutschen Gesamtausgabe ausgeben.
+Stand dieser Ergänzung: 9. Oktober 2026. Die [konsolidierte deutsche EUR-Lex-Fassung vom 27. Juli 2026 einschließlich Berichtigung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727) wurde unmittelbar geöffnet und für die hier verwendeten Artikel und Anhänge gelesen. Die [Änderungsverordnung (EU) 2026/1744](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744) und die [deutsche Berichtigung vom 29. September 2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R%2801%29) sind Teil des Abgleichs. Verbindlich sind die im Amtsblatt veröffentlichten Rechtsakte; die Konsolidierung ist die amtliche Lesehilfe.
 
-Die Normseiten des amtlichen AI Act Service Desk geben vielfach noch die Ausgangsfassung von 2024 wieder und kennzeichnen Änderungen selbst. Sie werden hier nur zusammen mit den einschlägigen Änderungsstellen verwendet. Die deutsche Darstellung ist eine eigene Zusammenfassung, kein amtliches Zitat. Vor einer späteren Verwendung ist der Rechtsstand erneut zu prüfen. Abrufhindernisse im internen Prüfvermerk dokumentieren; keine nicht gelesene Quelle als Volltextprüfung kennzeichnen.
+Der frühere Prüfvermerk vom 28. September 2026 beruhte teilweise auf einem amtlichen Suchindex und dem nicht vollständig aktualisierten Service Desk. Für die aktualisierten KI-Normen ist diese Abrufgrenze durch die jetzige Volltextlektüre überholt. Die unten genannten nachbarrechtlichen Altquellen behalten ihren jeweiligen Abrufstand, sofern kein gesonderter neuer Abruf angegeben ist. Vor einem späteren Mandat erneut den dann maßgeblichen Wortlaut prüfen; ein historischer Quellenvermerk ist keine Garantie künftiger Aktualität.
+
+Die Screenshots mit den Stichworten Risk framework, FRIA, Oversight, Governance, Agents, Risk register, Policies und ISO sind ein Anlass zur fachlichen Gegenprobe, keine normative Quelle. Ein solches Instrument kann rechtlich sinnvoll oder erforderlich sein, aber nur innerhalb des richtigen Tatbestands, für den richtigen Akteur und mit tatsächlich passenden Nachweisen. Weder pauschale Ablehnung noch pauschaler Compliance-Nachweis ist tragfähig.
 
 ## 2 Bindendes Recht und zeitliche Anwendung
 
@@ -63,3 +65,31 @@ Das [KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz vom 22. Juli 2026, 
 [EuGH, Urteil vom 7. Dezember 2023, C-634/21, SCHUFA Holding, insbesondere Randnummern 43 bis 55 und 60 bis 73](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634): Bei maßgeblichem Einfluss eines Scores ist die Datenschutzprüfung nicht mit dem Hinweis auf einen menschlichen Letztentscheider erledigt. Grenze: Entscheidung zum Kreditscoring und Artikel 22 DSGVO, keine Entscheidung über Artikel 6 KI-Verordnung und keine pauschale Gleichsetzung von Recruiting-Rangfolge und ausschließlich automatisierter Entscheidung.
 
 [Paragraf 26 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__26.html) betrifft auch Bewerberdaten und lässt Beteiligungsrechte unberührt. Die konkrete Rechtsgrundlage, Erforderlichkeit, Informationspflichten und gegebenenfalls Artikel 22, 33 bis 35 DSGVO gesondert am aktuellen amtlichen Text prüfen. Ein zulässiger Datenimport beweist keine zulässige spätere Persönlichkeitsbewertung. Eine KI-Konformitätsaussage ersetzt keine Datenschutzprüfung.
+
+## 5 Nachtrag vom 9 Oktober 2026
+
+### 5.1 Sicherheitsbauteil und Drittbewertung
+
+Artikel 6 Absätze 1a bis 1c sind nicht mit Absatz 3 austauschbar. Die deutsche Berichtigung ersetzt in Absatz 1b den bisherigen Anschluss durch „Ungeachtet des Absatzes 1a“. Ausfall- oder Fehlfunktionsgefahren für Gesundheit und Sicherheit können deshalb auch eine unterstützende Funktion erfassen. Absatz 1c verlangt den ausschließlich anderen Grund einer vorgeschriebenen Drittbewertung. Ein freiwilliges ISO-Audit oder die bloße CE-Kennzeichnung beweist den gesetzlichen Drittbewertungstatbestand nicht. Diese Punkte werden im eigenen Produktskill vertieft.
+
+### 5.2 Ausnahmen und Register
+
+Die vier Bedingungen in Artikel 6 Absatz 3 sind Alternativen innerhalb des gesetzlichen Ausnahmezusammenhangs, keine vier kumulativen Voraussetzungen. Risikokriterium und tatsächlicher Entscheidungseinfluss müssen anhand der Funktion erörtert werden. Profiling im Anhang-III-Fall sperrt die Ausnahme. Artikel 6 Absatz 4 verlangt weiterhin Dokumentation vor Inverkehrbringen oder Inbetriebnahme und verweist auf Artikel 49 Absatz 2. Anhang VIII Abschnitt B enthält nach der Änderung weniger Angaben; der Weg ist vereinfacht, nicht abgeschafft.
+
+### 5.3 Risikomanagement und Grundrechte
+
+Artikel 9 regelt das lebenszyklusbezogene Risikomanagement für das Hochrisikosystem. Artikel 17 verpflichtet den Anbieter zu einem dokumentierten Qualitätsmanagementsystem. Ein organisationsweites Register kann Arbeit unterstützen, ist aber nicht bereits der Nachweis beider Anforderungen. Artikel 14 gestaltet die menschliche Aufsicht am System, Artikel 26 Absatz 2 betrifft den mit Kompetenz, Befugnissen und Unterstützung versehenen Einsatz beim Betreiber.
+
+Artikel 27 betrifft vor Inbetriebnahme Systeme nach Artikel 6 Absatz 2, ausgenommen Anhang III Nummer 2, bei Einrichtungen des öffentlichen Rechts, privaten Einrichtungen, die öffentliche Dienste erbringen, und Betreibern der Nummer 5 Buchstaben b und c. Eine FRIA ist weder universelle Betreiberpflicht noch Ersatz der Datenschutz-Folgenabschätzung; die Ergänzung bestehender Prüfungen nach Absatz 4 ist gesondert zu betrachten. Nicht allein aus der Branche Krankenhaus eine pauschale Einordnung jedes privaten Trägers als öffentliche Dienstleistung behaupten.
+
+### 5.4 Konformität und Standards
+
+Artikel 40 knüpft die Konformitätsvermutung an tatsächlich im Amtsblatt veröffentlichte Fundstellen harmonisierter Normen und nur an die abgedeckten Anforderungen. Die bloße Nennung von ISO 31000, ISO/IEC 42001 oder ISO/IEC 23894 trägt keine umfassende Produktfreigabe. Artikel 43 unterscheidet die besonderen Biometrie-, Anhang-III- und Produktverfahren. Interne Kontrolle nach Absatz 2 ist eine Konformitätsbewertung, keine Prüfungsfreiheit. Die FLOP-Angaben einer GPAI-Modellbewertung sind kein pauschaler Grenzwert für Systemänderungen nach Artikel 25.
+
+### 5.5 Medizinprodukt als Gegenprobe
+
+Zusätzlich am 9. Oktober 2026 geöffnet: [Verordnung (EU) 2017/745, konsolidierte Lesehilfe vom 10. Januar 2025](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02017R0745-20250110), Artikel 51 und 52 sowie Anhang VIII Regel 11. Die konkrete Softwareklassifizierung hängt von Zweckbestimmung und Folgen diagnostischer oder therapeutischer Entscheidungen ab; die Herstellerangabe „Klasse IIa“ ist nicht stets die richtige Klasse. Der Text ist eine belegte Quelle für diese Abgrenzung, keine behauptete Vollprüfung sämtlicher bis zum Mandatsstichtag denkbaren MDR-Änderungen. Vor abschließender Produktklassifikation aktuelle Fassung und gegebenenfalls einschlägige Spezialakte nachprüfen.
+
+### 5.6 Rechtsprechungsgrenze
+
+Eine unmittelbar Artikel 6 Absatz 3 entscheidende höchstrichterliche Entscheidung wird in dieser Runde nicht behauptet. Der ältere SCHUFA-Anker bleibt nachbarrechtlich auf Artikel 22 DSGVO und seinen belegten Einflussmaßstab begrenzt. Er ersetzt weder die vier gesetzlichen Ausnahmebedingungen noch die besondere Profiling-Rückausnahme. Fehlende unmittelbare Rechtsprechung wird nicht durch erfundene Aktenzeichen aufgefüllt.

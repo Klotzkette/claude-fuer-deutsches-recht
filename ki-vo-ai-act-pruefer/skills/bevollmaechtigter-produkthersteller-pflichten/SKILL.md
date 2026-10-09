@@ -1,110 +1,48 @@
 ---
 name: bevollmaechtigter-produkthersteller-pflichten
-description: "Für Bevollmächtigter und Produkthersteller — Art. 22 und 25 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft schriftliche Bevollmächtigung, gesetzliche Mindestaufgaben und Herstellerrolle bei Sicherheitsbauteilen. Erstellt Auftrag oder Rollenvermerk mit korrekter Abschnitt-A-Abgrenzung und erforderlichen Informationswegen.
 ---
 
-# Bevollmächtigter und Produkthersteller — Art. 22 und 25 KI-VO
+# Bevollmächtigung und Produktherstellerrolle
 
-## Teil 1 — Bevollmächtigter (Art. 22 KI-VO)
+## 1. Zweck und Anwendungsfall
 
-### Wer muss einen Bevollmächtigten benennen?
+Ordne Bevollmächtigten und Produkthersteller ihren jeweils eigenen Pflichten zu. Ein Vertreter ist nicht automatisch technischer Anbieter; ein Produkthersteller ist nicht allein wegen jeder eingebauten KI Hochrisikoanbieter.
 
-Anbieter von Hochrisiko-KI-Systemen, die nicht in der EU niedergelassen sind, müssen vor dem Inverkehrbringen oder der Inbetriebnahme in der EU schriftlich einen Bevollmächtigten in der EU benennen.
+## 2. Eingaben
 
-**Prüffragen:**
-- Ist der Anbieter des Systems in der EU oder einem Drittland ansässig?
-- Wenn Drittland → Bevollmächtigter zwingend erforderlich
+Anbietersitz, Unionsbereitstellung, schriftlicher Auftrag, Produktrecht, Anhangseintrag, Marke, Integrationsform, Inverkehrbringen und spätere Inbetriebnahme. Verfügbaren Dokumenten- und Logzugang feststellen.
 
-### Wer kann Bevollmächtigter sein?
+## 3. Ablauf und Checkliste
 
-Eine in der EU ansässige natürliche oder juristische Person, die vom Anbieter schriftlich bevollmächtigt wurde. Der Bevollmächtigte kann gleichzeitig Einführer sein.
+### 3.1. Artikel 22 umsetzen
 
-### Pflichten des Bevollmächtigten (Art. 22 Abs. 3 KI-VO)
+Drittlandsanbieter benennen vor Bereitstellung ihres Hochrisikosystems auf dem Unionsmarkt schriftlich einen in der Union niedergelassenen Bevollmächtigten. Der Auftrag muss mindestens die Aufgaben nach Absatz 3 erlauben: Erklärung, Dokumentation und angemessene Konformitätsbewertung überprüfen; Anbieterinformationen und erforderliche Dokumentkopien zehn Jahre ab Inverkehrbringen oder Inbetriebnahme bereithalten; auf begründete Anfrage erforderliche Informationen einschließlich kontrollierter Logs übermitteln; mit Behörden zusammenarbeiten; gegebenenfalls Registrierung nach Artikel 49 Absatz 1 oder Richtigkeit der dort genannten Vertreterdaten sicherstellen.
 
-Der Bevollmächtigte muss mindestens folgende Aufgaben wahrnehmen:
-- Registrierung in der EU-Datenbank nach Art. 49 und 71 KI-VO
-- Vorlage der EU-Konformitätserklärung und der technischen Dokumentation an die Marktüberwachungsbehörde auf Anfrage
-- Kooperation mit nationalen Behörden bei Anfragen, Prüfungen und Corrective Actions
-- Weitergabe von Informationen an den Anbieter über schwerwiegende Vorfälle und Nichtkonformitäten
+Ein Bevollmächtigter muss daher nicht stets selbst jede Registrierung durchführen. Praktischen Dokumentenzugang und Kooperationskontakt vereinbaren. Bei begründeter Annahme eines Anbieterpflichtverstoßes verlangt Absatz 4 die Beendigung des Auftrags und unverzügliche Information der Marktüberwachungsbehörde und gegebenenfalls notifizierten Stelle. Nicht lediglich ein freies Kündigungsrecht formulieren. Tatsächliche Beendigung und Behördeninformation menschlich freigeben lassen.
 
-### Schriftliches Mandat (Art. 22 Abs. 2 KI-VO)
+### 3.2. Artikel 25 Absatz 3 abgrenzen
 
-Das Mandat muss schriftlich erteilt werden und den Bevollmächtigten mindestens zu den oben genannten Aufgaben ermächtigen. Der Bevollmächtigte kann das Mandat kündigen, wenn der Anbieter gegen KI-VO-Anforderungen verstößt.
+Bei Hochrisiko-Sicherheitsbauteilen in Produkten des Anhangs I **Abschnitt A** gilt der Produkthersteller in den beiden geregelten Fällen als Anbieter: gemeinsames Inverkehrbringen unter seinem Namen oder seiner Marke beziehungsweise spätere Inbetriebnahme des KI-Systems unter seinem Namen oder seiner Marke. Danach gelten die Anbieterpflichten gemäß Artikel 16, nicht pauschal „Artikel 16 bis 42“, die auch andere Akteure und Stellen betreffen.
 
-**Prüffragen:**
-- Liegt ein schriftliches Mandat vor?
-- Ist das Mandat ausreichend konkret, um die gesetzlichen Aufgaben zu ermöglichen?
-- Welche Haftungsregelungen wurden zwischen Anbieter und Bevollmächtigtem vereinbart?
+Die Maschinenverordnung steht nun in Abschnitt B. Zuerst Artikel 2 Absatz 2 prüfen, statt Maschinen schematisch in den Absatz-3-Abschnitt-A-Pfad einzuordnen. Auch eine Qualitätsoptimierung ist nicht ohne Sicherheitsfunktion ein Sicherheitsbauteil; Artikel 6 Absätze 1a bis 1c einbeziehen. Andere Anbieterwechsel nach Artikel 25 Absatz 1 gesondert prüfen.
 
-## Teil 2 — Produkthersteller (Art. 25 KI-VO)
+### 3.3. Vertrag und Weiterführung
 
-### Wann hat ein Produkthersteller Anbieter-Pflichten?
+Artikel 25 Absatz 3 ist die Herstellerzuordnung, nicht selbst die allgemeine Informationspflicht des ursprünglichen Anbieters. Kooperation bei Rollenwechsel nach Absatz 2 und schriftliche Zuliefervereinbarung nach Absatz 4 unterscheiden. Technischen Zugang, benötigte Informationen, Grenzen und Unterstützung konkret regeln, Geschäftsgeheimnisse nach Absatz 5 berücksichtigen.
 
-Ein Produkthersteller übernimmt die Pflichten eines Anbieters, wenn er ein Hochrisiko-KI-System als Sicherheitsbauteil in sein Produkt integriert und dieses Produkt unter seinem eigenen Namen oder seiner eigenen Marke in Verkehr bringt.
+Rollenvermerk, schriftlichen Auftrag und zuständige Kontakte an Konformitäts- und Registerprüfung übergeben. Geltungsdatum nach Artikel 111 und 113 separat begründen; keine bereits rechtlich verbindliche Bevollmächtigung aus einem Entwurf behaupten.
 
-**Prüffragen:**
-- Integrieren Sie ein fremdes KI-System als Sicherheitsbauteil in ein eigenes Produkt?
-- Bringen Sie das Gesamtprodukt unter eigenem Namen in Verkehr?
-- Fällt das Produkt unter Anhang-I-Sektorrecht (Maschinenverordnung, MDR usw.)?
+## 4. Quellenpflicht
 
-**Wenn ja:** Der Produkthersteller übernimmt die vollständigen Anbieter-Pflichten nach Art. 16 bis 42 KI-VO für das Hochrisiko-KI-System und muss die Konformitätsbewertung für das Gesamtprodukt einschließlich des KI-Systems durchführen.
+Artikel 2 Absatz 2, Artikel 6, 16, 22, 25, 49, 111 und 113 sowie Anhang I. [Rechtsstand vom 9. Oktober 2026](../../references/rechtsstand-2026-10-09.md); [Zitierweise](../../references/zitierweise.md). Der Normtext wurde am 9. Oktober 2026 geöffnet. Vor späterer Anwendung Änderungen prüfen. Keine Entscheidung aus Modellwissen oder ein Datenschutzurteil als Entscheidung über die KI-Risikoklasse ausgeben.
 
-### Verhältnis zum ursprünglichen Anbieter des KI-Systems
+## 5. Ausgabeformat
 
-Der ursprüngliche Anbieter des KI-Systems (z.B. ein KI-Komponentenanbieter) muss dem Produkthersteller alle erforderlichen Informationen bereitstellen, damit dieser die Anbieter-Pflichten erfüllen kann (Art. 25 Abs. 3 KI-VO).
+Ausformulierte Rollenentscheidung und gegebenenfalls schriftlicher Auftragsentwurf mit vollständigen gesetzlichen Aufgaben, Dokumentenzugang und benannten menschlichen Verantwortlichen.
 
-**Praktische Konsequenz:** Vertragliche Regelungen zwischen KI-Komponentenanbieter und Produkthersteller sind essenziell, um Informationsflüsse und Haftungsverteilung zu klären.
+Das Endprodukt wird vollständig ausformuliert; Tabellen unterstützen die Begründung, ersetzen sie aber nicht. DOCX/PDF verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Formatwunsch als getrennten Exporthinweis nennen. Keine tatsächlich nicht erzeugte Datei, Prüfung oder behördliche Freigabe behaupten.
 
-### Typische Szenarien
+## 6. Beispiele
 
-- Maschinenhersteller integriert ein fremdes KI-System zur Qualitätsprüfung als Sicherheitsbauteil → Produkthersteller wird zum Anbieter
-- Medizingeräthersteller integriert ein fremdes Bildanalyse-Modell in ein Medizinprodukt → Produkthersteller wird zum Anbieter
-- Cloud-Anbieter stellt generische KI-Infrastruktur bereit (kein Sicherheitsbauteil) → kein Produkthersteller nach Art. 25 KI-VO, aber möglicherweise Händler-Pflichten
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.
-
-## Zentrale Normen (Paragrafenkette)
-- Art. 3 Nr. 3/4 KI-VO — Anbieter / Betreiber-Definition
-- Artikel 5 der Verordnung (EU) 2024/1689: bisherige Verbote seit 02.02.2025; neue Buchstaben ba und bb sowie Absätze 1a und 1b ab 02.12.2026
-- Art. 6 i.V.m. Anhang III KI-VO — Hochrisiko-Klassifikation
-- Art. 26 KI-VO — Betreiberpflichten
-- Art. 99 KI-VO — Bussgelder bis 35 Mio. EUR / 7 % Jahresumsatz
-
-## Triage zu Beginn
-1. Welche Rolle hat das Unternehmen im KI-Lieferkette (Art. 3 KI-VO — Anbieter, Betreiber, Importeur)?
-2. Liegt ein Hochrisiko-System vor (Art. 6 i.V.m. Anhang III Nr. 1-8 KI-VO)?
-3. Sind verbotene Praktiken nach Art. 5 KI-VO ausgeschlossen?
-4. Welche konkreten Pflichten aus dem aktuellen Skill-Kontext sind einschlaegig?
-5. Ist die Maßnahme nach aktuellem Art. 113- und Digital-Omnibus-Zeitstrahl fristgerecht umgesetzt?
-
-## Output-Template — Prüfergebnis
-**Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
-```
-PRUEFERGEBNIS — BEVOLLMAECHTIGTER UND PRODUKTHERSTELLER PFLICHTEN ART 22 UND 25
-[DATUM] — System: [SYSTEMNAME] — Mandant: [NAME MANDANT]
-[AKTENZEICHEN]
-
-Gepruefte Norm(en): [Art. 22 Rn. 4]
-
-Ergebnis:
-[ ] Anforderung erfuellt
-[ ] Anforderung nicht erfuellt — Massnahmen erforderlich:
- 1. [MASSNAHME — Verantwortlicher: NAME — Frist: DATUM]
-[ ] Nicht einschlaegig — Begruendung: [BEGRUENDUNG]
-
-Sanktionsrisiko: [NIEDRIG / MITTEL / HOCH — bis [BETRAG] nach Art. 99 KI-VO]
-Naechster Skill: [FOLGE-SKILL]
-Geprueft: [NAME], [DATUM]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein außereuropäischer Anbieter benennt einen deutschen Vertriebspartner als Vertreter, gewährt aber keinen Zugang zur technischen Dokumentation. Das ist eine konkrete Auftrags- und Nachweislücke. Der bloße Eintrag als Ansprechpartner ersetzt weder Zugang noch Prüfaufgaben.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "krankenhaus-it-ki",
-  "reviewed_on": "2026-10-06",
+  "reviewed_on": "2026-10-09",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
@@ -413,14 +413,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausformulierter fachlicher Workflow mit Mustern für Patienteninformation, Lieferantenklauseln, TIA, DSFA, Konformitätsbetrachtung, Forschung und Pilotbetrieb. Acht amtlich geprüfte Entscheidungsanker und die Grenze der ThürKHG-Primärquellenprüfung sind eingebettet. Redaktioneller Review, keine klinische oder technische Betriebsprüfung.",
+    "reason": "Ausformulierter fachlicher Workflow mit Mustern für Patienteninformation, Lieferantenklauseln, TIA, DSFA, Konformitätsbetrachtung, Forschung und Pilotbetrieb. Acht amtlich geprüfte Entscheidungsanker und die Grenze der ThürKHG-Primärquellenprüfung sind eingebettet. Redaktioneller Review, keine klinische oder technische Betriebsprüfung. Ergänzung vom 9. Oktober 2026: KI-Verordnungs-Passage nach amtlichem konsolidiertem Wortlaut berichtigt; keine erneute Gesamtprüfung sämtlicher Krankenhausrechtsfragen behauptet.",
     "changes": [
       "Behandlung, eigene Forschung, externe Forschung und Herstellertraining mit je eigener Grundlage und Empfängerprüfung verknüpft.",
       "Thüringer Auftragsverarbeitungsanzeige, ministerielle Forschungsfeststellung und GDNG-Datenschutzaufsichtszustimmung klar getrennt.",
       "Drittlandprüfung nach tatsächlichem Empfänger, DPF-Deckung oder SCC mit wirksamen Zusatzmaßnahmen; §393SGBV daneben.",
-      "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen."
+      "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen.",
+      "Konkrete AI-Act-Fassung, Einstufungs- und Zeitpfade nach Fachabgleich aktualisiert."
     ],
-    "sha256": "473820ba1895c2745e12e779f8a2a8b57f64fe007f15ad9e0f0ebf12c1fa4328"
+    "sha256": "3993523b85f8fca963570076d05abc9ca1f1ae7f6db49756d13034070c03f090"
   },
   "focus_review": {
     "method": "desk_review",
