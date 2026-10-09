@@ -147,7 +147,8 @@ class PortableStarts(unittest.TestCase):
                     self.assertNotIn("Passende Fachskills intern als Teilroute nutzen", text)
                     if not reviewed:
                         self.assertFalse(skill_names & set(re.findall(r"`([a-z0-9-]+)`", text)), "Eigenständiger Prompt verweist auf installierten Skill")
-                    if kind == "schnellstart":
+                    if kind in {"schnellstart", "hauptproblem"}:
+                        # Beide sind kompakte Downloads; nur die Werkstatt benötigt H2-Abschnitte.
                         self.assertTrue(mini_within_limits(plugin["name"], text.encode("utf-8")))
                     elif not reviewed:
                         self.assertIn(G.WORKSHOP_EXECUTION, text)
