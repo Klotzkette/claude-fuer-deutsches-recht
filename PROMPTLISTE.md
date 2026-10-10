@@ -43,7 +43,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Handels- und Gesellschaftsrecht](#handels--und-gesellschaftsrecht) | 23 |
 | [Insolvenz- und Sanierungsrecht](#insolvenz--und-sanierungsrecht) | 11 |
 | [Internationales Wirtschaftsrecht](#internationales-wirtschaftsrecht) | 6 |
-| [IT-Recht](#it-recht) | 19 |
+| [IT-Recht](#it-recht) | 20 |
 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
 | [Medizinrecht](#medizinrecht) | 6 |
 | [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 7 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-268 kuratierte Plugins in 34 Kategorien, aus insgesamt 299 Marketplace-Plugins (Abgleich: 10. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
+269 kuratierte Plugins in 34 Kategorien, aus insgesamt 300 Marketplace-Plugins (Abgleich: 10. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 
@@ -255,6 +255,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 - [robotik-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/robotik-recht): Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=robotik-recht/robotik-recht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=robotik-recht/robotik-recht-werkstatt.md)
 - [softwarerecht-de-eu-us](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/softwarerecht-de-eu-us): Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/softwarerecht-de-eu-us-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=softwarerecht-de-eu-us/softwarerecht-de-eu-us-werkstatt.md)
 - [telekommunikationsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/telekommunikationsrecht): Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=telekommunikationsrecht/telekommunikationsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=telekommunikationsrecht/telekommunikationsrecht-werkstatt.md)
+- [verarbeitungsverzeichnis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/verarbeitungsverzeichnis): Verarbeitungstätigkeiten im Unternehmen erfassen und laufend pflegen; Verantwortlichen- und Auftragsverarbeiterrollen, Rechtsgrundlagen, Löschung, Dienstleister und DSFA-Bedarf prüfen, Änderungen in Excel und Word nachvollziehen. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verarbeitungsverzeichnis/verarbeitungsverzeichnis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verarbeitungsverzeichnis/verarbeitungsverzeichnis-werkstatt.md)
 
 ## Kartell- und Wettbewerbsrecht
 

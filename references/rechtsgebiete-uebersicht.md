@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 299 Plugins, 23270 Skills.
+Stand v445.35.3: 300 Plugins, 23278 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -279,6 +279,7 @@ Stand v445.35.3: 299 Plugins, 23270 Skills.
 | [`us-bankruptcy-code`](../us-bankruptcy-code/) | US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border. | `445.35.3` | 101 |
 | [`us-copyright-registrierung-verlag`](../us-copyright-registrierung-verlag/) | US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. | `445.35.3` | 101 |
 | [`venture-capital-geber`](../venture-capital-geber/) | VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik. | `445.35.2` | 106 |
+| [`verarbeitungsverzeichnis`](../verarbeitungsverzeichnis/) | Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen. | `1.0.0` | 8 |
 | [`verbraucher-rechtsstaat-alltag`](../verbraucher-rechtsstaat-alltag/) | Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren. | `445.35.3` | 67 |
 | [`verbraucherinsolvenz-schuldenbereinigung`](../verbraucherinsolvenz-schuldenbereinigung/) | Verbraucherinsolvenz und Schuldenbereinigung nach InsO: außergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Antrag, Restschuldbefreiung, P-Konto, ehemalige Selbstständige und lebensnahe Verfahrensführung. | `445.35.3` | 70 |
 | [`verbraucherschutzrecht-pruefer`](../verbraucherschutzrecht-pruefer/) | Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag. | `445.35.3` | 148 |

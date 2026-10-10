@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "register_id": "21ee9e6a-aa60-5f32-8dc2-565ae0c55374",
+  "organization": {
+    "name": "Wolkengarn Cloudservice GmbH",
+    "contact": "Wolkensteg 22, 10997 Berlin; Juno Nguyễn; buero@wolkengarn.example",
+    "representative": "",
+    "dpo": ""
+  },
+  "revision": 1,
+  "updated_at": "2026-10-07T16:00:00+02:00",
+  "activities": [
+    {
+      "id": "VT-0001",
+      "title": "Hosting und technischer Betrieb von Kundenräumen",
+      "activity_revision": 1,
+      "role": "processor",
+      "owner": "Sami Arslan",
+      "status": "aktiv",
+      "purpose": "",
+      "joint_controller": "",
+      "controller_contacts": "Finkenbeil Holzbau GmbH, Drosselhain 18, 99091 Erfurt, Walburga Klee, buero@finkenbeil.example. Lampenhof Versand GmbH, Pappelhof 8, 14482 Potsdam, Emma Lux, datenschutz@lampenhof.example. Weitere Kundenkontakte fehlen.",
+      "processing_categories": "Speicherung, Bereitstellung, Sicherung und weisungsgebundene technische Unterstützung.",
+      "data_subjects": "",
+      "data_categories": "Dokumente und Benutzerkonten nach Kundenauftrag; einzelne Auftragskategorien noch nicht erhoben.",
+      "recipients": "",
+      "transfers": "Rechenzentren Deutschland und Finnland; Supportorte nicht abschließend erhoben.",
+      "retention": "",
+      "toms": "Mandantentrennung; persönliche Administrationskonten; Zugang wird protokolliert.",
+      "legal_basis": "",
+      "systems": "Wolkengarn Kundenraum, Sicherungsdienst Garnspeicher.",
+      "processor_contracts": "",
+      "sources": "05_AVV_Vertragsbestand.pdf; 06_TOM_Bestandsaufnahme.pdf",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    },
+    {
+      "id": "VT-0002",
+      "title": "Eigene Personalverwaltung und Lohnvorbereitung",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Juno Nguyễn",
+      "status": "aktiv",
+      "purpose": "Eigene Beschäftigungsverhältnisse verwalten und monatliche Abrechnung vorbereiten.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Beschäftigte und Bewerbende; Abgrenzung der Bewerbungsphase noch offen.",
+      "data_categories": "Stammdaten, Kontaktdaten, Vergütung, Bankverbindung und Arbeitszeiten.",
+      "recipients": "Steuerkanzlei Ottokar Sand; interner Zugriff durch Personalverwaltung.",
+      "transfers": "",
+      "retention": "",
+      "toms": "",
+      "legal_basis": "",
+      "systems": "Wolkengarn Personalordner und Lohnportal.",
+      "processor_contracts": "",
+      "sources": "01_Unternehmensprofil_und_Auftrag.docx; 13_Fachbereich_2026-10-08.eml",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    }
+  ],
+  "history": []
+}

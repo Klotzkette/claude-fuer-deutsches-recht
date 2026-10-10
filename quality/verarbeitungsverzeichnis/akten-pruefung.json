@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-10",
+  "cases": [
+    {
+      "slug": "vvt-handwerk-finkenbeil-erfurt",
+      "original_count": 14,
+      "formats": {
+        "eml": 4,
+        "pdf": 4,
+        "docx": 3,
+        "json": 2,
+        "xlsx": 1
+      },
+      "register_id": "00860f84-a024-50c6-95aa-30e4d5117275",
+      "activities_before": 2,
+      "activities_after": 3,
+      "xlsx_roundtrip": "identisch",
+      "mime_attachments": [
+        {
+          "mail": "12_IT_2026-10-07.eml",
+          "attachment": "06_TOM_Bestandsaufnahme.pdf",
+          "sha256": "3aab2e5f11ed03369cb8d51e950f393bb81cebc7cccbc1afb44516abc95680f0"
+        },
+        {
+          "mail": "14_Anbieter_2026-10-09.eml",
+          "attachment": "10_Anbieterangebot.pdf",
+          "sha256": "6cf960c741fa89944c5c5140e9a6af0b4679454cfc1ba514d9d09b647b0fdda4"
+        }
+      ],
+      "hashes": {
+        "01_Unternehmensprofil_und_Auftrag.docx": "c6e6ec56d22c1c4197633ab7ff1aba463352b51899dd4c500ba2bc723e15356a",
+        "02_Registerbestand.json": "c652184d3ef56523b9ffbd0638176635a84fcaa16c1a5ee6a69b9d32f94fe14d",
+        "03_Register_Aenderungsstand.json": "b858bb9156656bfc52e407d4a27bb845484acc2b0e8f7c9e430e5889db51376c",
+        "04_Verzeichnis.xlsx": "b49cc09616b75ff5bd9a64a3162dda8fc0736f7f0f194eb509d228e80c1340fe",
+        "05_AVV_Vertragsbestand.pdf": "f2a97ab638372b344eb48d5335b5e0cef549904273861e4c1005a5816c2fea71",
+        "06_TOM_Bestandsaufnahme.pdf": "3aab2e5f11ed03369cb8d51e950f393bb81cebc7cccbc1afb44516abc95680f0",
+        "07_Loeschkonzept_Arbeitsstand.pdf": "c53bbbb3569c3c6a4a61c1ee9c179f6c9c357ef70df64c3966fa0900070917b2",
+        "08_Vorhaben_und_Aenderungen.docx": "faf5c5c485af0ce4e5427cdf9762bffab78edacebd8e4864a4a9658d1b5b1e10",
+        "09_Nachforderung_Entwurf.docx": "13f6a8f8150341e1e7e028c4cfc755267d825740f2091de952578ab352cdc6b2",
+        "10_Anbieterangebot.pdf": "6cf960c741fa89944c5c5140e9a6af0b4679454cfc1ba514d9d09b647b0fdda4",
+        "11_GF_2026-10-06.eml": "57aa23f81e9cea400c1bbc020c427c9afca0d890f1ca79d1b557ca8c4091739b",
+        "12_IT_2026-10-07.eml": "e5924d35e75ab57cd8447d91cfc61c209f55a5e1548d39a2818314276a9f6f79",
+        "13_Fachbereich_2026-10-08.eml": "099d14e480b0bc071c3b783df51a4011dcf8a4345b57b6960ec5319ed52594fb",
+        "14_Anbieter_2026-10-09.eml": "1c8123c5f59deedfd4521e5d8c42f295b6fa4941063f780c543148501fc01c2a"
+      }
+    },
+    {
+      "slug": "vvt-cloudservice-wolkengarn-berlin",
+      "original_count": 14,
+      "formats": {
+        "eml": 4,
+        "pdf": 4,
+        "docx": 3,
+        "json": 2,
+        "xlsx": 1
+      },
+      "register_id": "21ee9e6a-aa60-5f32-8dc2-565ae0c55374",
+      "activities_before": 2,
+      "activities_after": 2,
+      "xlsx_roundtrip": "identisch",
+      "mime_attachments": [
+        {
+          "mail": "12_IT_2026-10-07.eml",
+          "attachment": "06_TOM_Bestandsaufnahme.pdf",
+          "sha256": "b562a73c9fd1bafec5324e7ea8fb04a974bf90af7267ac0dcf65413e28af0ec2"
+        },
+        {
+          "mail": "14_Anbieter_2026-10-09.eml",
+          "attachment": "10_Anbieterangebot.pdf",
+          "sha256": "fc5d86f88caad290db911a94fa432a9465d48ae95e78ca675258e7a9223631ad"
+        }
+      ],
+      "hashes": {
+        "01_Unternehmensprofil_und_Auftrag.docx": "a0d893ecdcc786a098657820150b2162e12ffe776785168a32537f08c67e1501",
+        "02_Registerbestand.json": "746c1bc19952e9477944b011524a2c2270efcb4dfc13c1a9322e325383bc2557",
+        "03_Register_Aenderungsstand.json": "87576d38cf4f3ceed6280ca2b0dd500e7c527186a09509527c858a13b5cac774",
+        "04_Verzeichnis.xlsx": "dfb3659f4775271cfae84eedc0c2cb96b549e6bca78a6ba3d7bc17ef3179f7d7",
+        "05_AVV_Vertragsbestand.pdf": "920a917102fbc3e65217305e9470130f65dec8f02c4413fb33996e66e8b392c8",
+        "06_TOM_Bestandsaufnahme.pdf": "b562a73c9fd1bafec5324e7ea8fb04a974bf90af7267ac0dcf65413e28af0ec2",
+        "07_Loeschkonzept_Arbeitsstand.pdf": "8be1c8ae65c855056ebfb4b43e5b73fd7c4fcce03653b570f5f00ff47c4de4be",
+        "08_Vorhaben_und_Aenderungen.docx": "0e936737abd502dd4c0cce8ee8049d22fea93df7314647b6e39aa77b4f956fb3",
+        "09_Nachforderung_Entwurf.docx": "62811cdcb012a106bfe577d4af51b49c7456b8730d89031f2aeb3ebb83fe12b4",
+        "10_Anbieterangebot.pdf": "fc5d86f88caad290db911a94fa432a9465d48ae95e78ca675258e7a9223631ad",
+        "11_GF_2026-10-06.eml": "cf26e198740953d45b67d69c46cf479b1bb9a06505f521eb3b235a6ae1866f47",
+        "12_IT_2026-10-07.eml": "b6e66cdfb9ba735348835f418bb216f2eeaa2a9eeddeb87777a007956918c52f",
+        "13_Fachbereich_2026-10-08.eml": "281b97132aa7fb72093fc7a52f54bd9865439ff88c1ad06ab92942dc597ffa5c",
+        "14_Anbieter_2026-10-09.eml": "20d2b395cae40f83711ee8cf4753b7e8af6e258007dbf9d4bfcde2f6b3b9e005"
+      }
+    },
+    {
+      "slug": "vvt-praxis-rosenquell-bamberg",
+      "original_count": 14,
+      "formats": {
+        "eml": 4,
+        "pdf": 4,
+        "docx": 3,
+        "json": 2,
+        "xlsx": 1
+      },
+      "register_id": "364e96ad-da8f-561e-9a45-fd81ae2bff4b",
+      "activities_before": 2,
+      "activities_after": 3,
+      "xlsx_roundtrip": "identisch",
+      "mime_attachments": [
+        {
+          "mail": "12_IT_2026-10-07.eml",
+          "attachment": "06_TOM_Bestandsaufnahme.pdf",
+          "sha256": "d599de9a5431fcf7336f8abea6050d095cbb100a8450e51f54ad4624d4edbf8c"
+        },
+        {
+          "mail": "14_Anbieter_2026-10-09.eml",
+          "attachment": "10_Anbieterangebot.pdf",
+          "sha256": "811b982b2e4b632e661278e9eabfccbe98183f2f36c2d708cf72b5c563599a9a"
+        }
+      ],
+      "hashes": {
+        "01_Unternehmensprofil_und_Auftrag.docx": "e7b680bc797901b194edf34818c1251c91934e597dcd4273c480fe60c9eca050",
+        "02_Registerbestand.json": "243d980140179b0b5f246a4596f6a05dd42e376d25751d170c9001ae018d16dc",
+        "03_Register_Aenderungsstand.json": "6057156478cd8e70be05dfb5a70390a252cda4aa145a3c3cdce49389255a58fe",
+        "04_Verzeichnis.xlsx": "b2fb9919d40ff20417828d5bcf15c5c0deed3b82cac41e12c682c2b6ad41e389",
+        "05_AVV_Vertragsbestand.pdf": "dba8ca90f37582d5288723b40453573b0441bd75360d421505f9790331ae038d",
+        "06_TOM_Bestandsaufnahme.pdf": "d599de9a5431fcf7336f8abea6050d095cbb100a8450e51f54ad4624d4edbf8c",
+        "07_Loeschkonzept_Arbeitsstand.pdf": "29b38aff9bfd42f0100d6643ed4b339b7c8c4e96b5701c10074ab65531ec06d4",
+        "08_Vorhaben_und_Aenderungen.docx": "cd62a6bc151156e2517394d132244e13733acbdec320a9893123fa4fc959603e",
+        "09_Nachforderung_Entwurf.docx": "4a927e70ccb3c2ff2d07517bd71a46a156f7479690b755402bfd3ebf5c15652e",
+        "10_Anbieterangebot.pdf": "811b982b2e4b632e661278e9eabfccbe98183f2f36c2d708cf72b5c563599a9a",
+        "11_GF_2026-10-06.eml": "d45b6de4e72b8e0911bf1a853bcfbefd455b869959feddf9e795f7449e7c728c",
+        "12_IT_2026-10-07.eml": "ee708c89f429ea281612e6bb57020446ab2fd7dbe269196bfba2bd02e70066ef",
+        "13_Fachbereich_2026-10-08.eml": "e50f05fed4be698bb983f179c48da87909ce4e87a18543078d2040eb1850f960",
+        "14_Anbieter_2026-10-09.eml": "0a8aa979b43e949c5ac08157b50d750097ee6e9a2bcc5e623ccfaf323c6c8698"
+      }
+    }
+  ],
+  "template": {
+    "formats": [
+      "json",
+      "xlsx",
+      "docx",
+      "xml",
+      "html"
+    ],
+    "xlsx_roundtrip": "identisch",
+    "activities": 0,
+    "organization": "[Unternehmen ergänzen]",
+    "note": "Neues produktives Register mit init und neuer ID anlegen."
+  },
+  "visual_qa": {
+    "word_pages": 10,
+    "original_pdf_pages": 12,
+    "spreadsheet_sheets": 28,
+    "status": "visuell geprüft; keine Überläufe oder Textüberlagerungen gefunden",
+    "evidence_directory": "/tmp/vvt-akten-qa",
+    "word_renderer": "documents/render_docx.py mit gebündeltem LibreOffice",
+    "pdf_font": "Times New Roman 11 pt",
+    "excel_renderer": "@oai/artifact-tool"
+  },
+  "limits": [
+    "Die Prüfung bestätigt technische Konsistenz und Darstellung; sie ist keine Rechtsfreigabe der fiktiven Verarbeitungsvorhaben.",
+    "XLSX-Roundtrip erfolgte gegen den jeweiligen Änderungsstand, nicht gegen die ältere Ausgangsfassung.",
+    "Gesamt-PDFs und Downloadpakete werden gesondert gebaut und geprüft."
+  ],
+  "document_quality": {
+    "checked_formal_documents": 33,
+    "issues": []
+  }
+}

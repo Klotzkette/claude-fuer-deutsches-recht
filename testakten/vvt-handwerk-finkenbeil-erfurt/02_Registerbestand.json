@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "register_id": "00860f84-a024-50c6-95aa-30e4d5117275",
+  "organization": {
+    "name": "Finkenbeil Holzbau GmbH",
+    "contact": "Drosselhain 18, 99091 Erfurt; Walburga Klee; buero@finkenbeil.example",
+    "representative": "",
+    "dpo": ""
+  },
+  "revision": 1,
+  "updated_at": "2026-10-07T16:00:00+02:00",
+  "activities": [
+    {
+      "id": "VT-0001",
+      "title": "Personalverwaltung und monatliche Lohnvorbereitung",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Walburga Klee",
+      "status": "aktiv",
+      "purpose": "Beschäftigungsverhältnisse verwalten und Lohnabrechnung vorbereiten.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Beschäftigte und ausgeschiedene Beschäftigte.",
+      "data_categories": "Kontaktdaten, Bankverbindung, Arbeitszeiten, Vergütung und Fehlzeiten.",
+      "recipients": "Steuerbüro Anselm Lenz; weitere Empfängerkategorien noch nicht erhoben.",
+      "transfers": "",
+      "retention": "",
+      "toms": "Abschließbarer Schrank; persönliche Bürokennungen. Rechteprüfung noch offen.",
+      "legal_basis": "",
+      "systems": "Personalordner im Büro und Lohnvorbereitung im Büroprogramm.",
+      "processor_contracts": "",
+      "sources": "01_Unternehmensprofil_und_Auftrag.docx; 06_TOM_Bestandsaufnahme.pdf",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    },
+    {
+      "id": "VT-0002",
+      "title": "Auftragsabwicklung und Kundenbetreuung",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Rufus Morgenstern",
+      "status": "aktiv",
+      "purpose": "Angebote, Baustellentermine, Aufträge und Gewährleistungsanfragen bearbeiten.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Private Auftraggeber, Ansprechpartner gewerblicher Kunden und Bewohner der Baustellenobjekte.",
+      "data_categories": "Namen, Adressen, Telefonnummern, Rechnungsdaten und Fotos des Arbeitsorts.",
+      "recipients": "Montageteams und beauftragte Nachunternehmer; Liste wird ergänzt.",
+      "transfers": "unbekannt",
+      "retention": "Aufträge werden archiviert; eine dokumentierte Trennung der Dokumentarten fehlt.",
+      "toms": "",
+      "legal_basis": "",
+      "systems": "Büroprogramm, E-Mail und wechselnd zugeordnete Diensttelefone.",
+      "processor_contracts": "",
+      "sources": "12_IT_2026-10-07.eml",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    }
+  ],
+  "history": []
+}

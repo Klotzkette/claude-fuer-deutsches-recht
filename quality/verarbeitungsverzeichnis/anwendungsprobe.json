@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-10",
+  "method": "actual_local_helper_workflow",
+  "fictional_actor": "Alma Gundelfinger",
+  "input": "testakten/vvt-praxis-rosenquell-bamberg/03_Register_Aenderungsstand.json",
+  "revision_before": 2,
+  "revision_after": 3,
+  "successful_change": "VT-0003: verantwortliche Person geändert",
+  "blocked_without_mutation": [
+    "Versionskonflikt: Revision oder SHA-256 stimmt nicht. Neu exportieren und Änderungen abgleichen.",
+    "Offene oder positive Pflichttrigger sperren eine negative DSFA-Entscheidung; niedrige Priorität ändert das nicht."
+  ],
+  "exports": [
+    "json",
+    "xlsx",
+    "docx",
+    "xml",
+    "html"
+  ],
+  "xml_roundtrip": "identisch",
+  "status_after": "geplant",
+  "limits": "Lokaler Dateilauf mit fiktiver Prüfperson, keine reale Freigabe und kein beobachteter Claude-/ChatGPT-Modelllauf."
+}
