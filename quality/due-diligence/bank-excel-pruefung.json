@@ -1,0 +1,21 @@
+{
+  "expected": {
+    "principal": 1761880000,
+    "interest": 2794720,
+    "costs": 116500,
+    "balance": 1764791220,
+    "price": 1616179150
+  },
+  "checks": [
+    "1000 Darlehen",
+    "20 Detailakten",
+    "Saldoüberleitung",
+    "Kaufpreis",
+    "Hauptbuchdifferenz",
+    "Nullfaktor wird Nullpreis",
+    "Preisänderung erreicht Übersicht",
+    "Fehlender Faktor bleibt sichtbar",
+    "Weitere Prüfungen bleiben offen"
+  ],
+  "error_scan": []
+}

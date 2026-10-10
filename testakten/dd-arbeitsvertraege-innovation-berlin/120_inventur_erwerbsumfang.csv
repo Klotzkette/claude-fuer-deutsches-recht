@@ -1,0 +1,9 @@
+﻿Inventarnummer;Gegenstand;Standort;Anzahl;Eigentumsbeleg;Bemerkung
+IT-001;FlightDesk Quellcode und Dokumentation;Server Projektbereich;1;Entwicklungsablage;Externe Bibliotheken in eigener Liste
+IT-002;AeroGrid Auswertungssoftware;Server Produktbereich;1;Entwicklungsablage;Kundendaten nicht Bestandteil dieses Eintrags
+P-014;Hardware-in-the-loop-Prüfstand;Labor L1;2;Rechnung PT-2211;Laufender Einsatz durch Firmwareteam
+P-021;Klimaschrank;Labor L2;1;Rechnung KL-1917;Terminplan bis November belegt
+W-031;Montagetische Sensorhalter;Werkstatt W1;4;Rechnung MT-2108;Höhenverstellbarer Tisch gesondert markiert
+W-044;Absaugung Harzplatz;Werkstatt W2;1;Rechnung AB-2019;Schlauchreparatur beauftragt
+L-061;Bauteilbestand Sensoren;Lager R1;186;Wareneingangsliste;Zählung vom 02.09.2026
+L-062;Akkupacks freigegeben;Lager R2;42;Chargenliste;Beschädigte Akkus getrennt gelagert

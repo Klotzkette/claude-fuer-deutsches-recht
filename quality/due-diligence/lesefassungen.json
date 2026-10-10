@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-10",
+  "method": "Textspans gegen MediaBox mit 1 pt Toleranz; ergänzende visuelle Stichproben separat dokumentiert.",
+  "files": [
+    {
+      "file": "dd-arbeitsvertraege-innovation-berlin_gesamt.pdf",
+      "pages": 296,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "38d032a09da9b2b79ecebcae4d48ae4f9f60f4b7997034805745e8c649dc8850"
+    },
+    {
+      "file": "dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf",
+      "pages": 349,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "2025402dd790ab0186ba5b9dc8b1f9bd6142fafac884ebe16cca4de9b0da53bc"
+    },
+    {
+      "file": "dd-corporate-silberfalke_gesamt.pdf",
+      "pages": 197,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "d4a722c69fd9f7a8789b24d6f17594fdbba0c5f5eaa2b1cb5970cc5dcebe9794"
+    },
+    {
+      "file": "due-diligence-hauptproblem.pdf",
+      "pages": 3,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "30199e0f310cb88f69369362eeeca4be3f5e92b11590f94f915768c455630bb4"
+    },
+    {
+      "file": "due-diligence-schnellstart.pdf",
+      "pages": 2,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "20b11630d894ba66e2a96e79db0661f2682bcc35d4bed397145b7ed6529816c5"
+    },
+    {
+      "file": "due-diligence-werkstatt.pdf",
+      "pages": 15,
+      "minimum_text_size_pt": 8.0,
+      "outside_text_pages": [],
+      "replacement_glyph_pages": [],
+      "sha256": "b33c8189569b4e2b6941888fa088376d36dea3541e90f6f9a9a8f902e280d006"
+    }
+  ]
+}

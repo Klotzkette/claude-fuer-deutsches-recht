@@ -1,0 +1,426 @@
+name: DD – Bankfiliale Erfurt
+plugin: due-diligence
+stand: '2026-10-10'
+description: Bestandsprüfung von 95 Arbeitsoriginalen und konkrete offene Fachkriterien für die Due Diligence.
+pruefstatus: Bestandsprüfung und technische Rechenprüfung sind keine juristische Freigabe einer späteren Bearbeitung.
+checks:
+- id: original-001
+  check_type: file_exists
+  description: Arbeitsoriginal 00_Auftrag_Due_Diligence.docx ist vorhanden.
+  path: 00_Auftrag_Due_Diligence.docx
+- id: original-002
+  check_type: file_exists
+  description: Arbeitsoriginal 01_Letter_of_Intent_Entwurf.docx ist vorhanden.
+  path: 01_Letter_of_Intent_Entwurf.docx
+- id: original-003
+  check_type: file_exists
+  description: Arbeitsoriginal 02_Forderungskauf_und_Service_Entwurf.docx ist vorhanden.
+  path: 02_Forderungskauf_und_Service_Entwurf.docx
+- id: original-004
+  check_type: file_exists
+  description: Arbeitsoriginal 03_Hauptbuch_und_Stichtagsbruecke.pdf ist vorhanden.
+  path: 03_Hauptbuch_und_Stichtagsbruecke.pdf
+- id: original-005
+  check_type: file_exists
+  description: Arbeitsoriginal 04_Datenraum_und_Urkundeninventar.pdf ist vorhanden.
+  path: 04_Datenraum_und_Urkundeninventar.pdf
+- id: original-006
+  check_type: file_exists
+  description: Arbeitsoriginal 05_Verkaeufer_Zeitplan.eml ist vorhanden.
+  path: 05_Verkaeufer_Zeitplan.eml
+- id: original-007
+  check_type: file_exists
+  description: Arbeitsoriginal 06_Kaeufer_QA.eml ist vorhanden.
+  path: 06_Kaeufer_QA.eml
+- id: original-008
+  check_type: file_exists
+  description: Arbeitsoriginal 07_Buchhaltung_Nachmittag.eml ist vorhanden.
+  path: 07_Buchhaltung_Nachmittag.eml
+- id: original-009
+  check_type: file_exists
+  description: Arbeitsoriginal 08_Service_Manchester.eml ist vorhanden.
+  path: 08_Service_Manchester.eml
+- id: original-010
+  check_type: file_exists
+  description: Arbeitsoriginal 09_Erlaubnis_und_Vertretung.eml ist vorhanden.
+  path: 09_Erlaubnis_und_Vertretung.eml
+- id: original-011
+  check_type: file_exists
+  description: Arbeitsoriginal 10_Kundeninformation_Entwurf.eml ist vorhanden.
+  path: 10_Kundeninformation_Entwurf.eml
+- id: original-012
+  check_type: file_exists
+  description: Arbeitsoriginal 11_Portfolio_und_Kaufpreis.xlsx ist vorhanden.
+  path: 11_Portfolio_und_Kaufpreis.xlsx
+- id: original-013
+  check_type: file_exists
+  description: Arbeitsoriginal 12_Filialergebnis_und_Buchwerte.pdf ist vorhanden.
+  path: 12_Filialergebnis_und_Buchwerte.pdf
+- id: original-014
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0001_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0001_01_Darlehensvertrag.docx
+- id: original-015
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0001_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0001_02_Kontojournal.pdf
+- id: original-016
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0001_03_Schreiben.pdf ist vorhanden.
+  path: APB-0001_03_Schreiben.pdf
+- id: original-017
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0001_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0001_04_Korrespondenz.eml
+- id: original-018
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0001_05_Tabellenauszug_Verwalter.pdf ist vorhanden.
+  path: APB-0001_05_Tabellenauszug_Verwalter.pdf
+- id: original-019
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0002_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0002_01_Darlehensvertrag.docx
+- id: original-020
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0002_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0002_02_Kontojournal.pdf
+- id: original-021
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0002_03_Schreiben.pdf ist vorhanden.
+  path: APB-0002_03_Schreiben.pdf
+- id: original-022
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0002_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0002_04_Korrespondenz.eml
+- id: original-023
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0003_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0003_01_Darlehensvertrag.docx
+- id: original-024
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0003_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0003_02_Kontojournal.pdf
+- id: original-025
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0003_03_Schreiben.pdf ist vorhanden.
+  path: APB-0003_03_Schreiben.pdf
+- id: original-026
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0003_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0003_04_Korrespondenz.eml
+- id: original-027
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0004_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0004_01_Darlehensvertrag.docx
+- id: original-028
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0004_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0004_02_Kontojournal.pdf
+- id: original-029
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0004_03_Schreiben.pdf ist vorhanden.
+  path: APB-0004_03_Schreiben.pdf
+- id: original-030
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0004_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0004_04_Korrespondenz.eml
+- id: original-031
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0005_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0005_01_Darlehensvertrag.docx
+- id: original-032
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0005_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0005_02_Kontojournal.pdf
+- id: original-033
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0005_03_Schreiben.pdf ist vorhanden.
+  path: APB-0005_03_Schreiben.pdf
+- id: original-034
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0005_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0005_04_Korrespondenz.eml
+- id: original-035
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0005_05_Titel_und_Zahlungsnachweis.pdf ist vorhanden.
+  path: APB-0005_05_Titel_und_Zahlungsnachweis.pdf
+- id: original-036
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0006_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0006_01_Darlehensvertrag.docx
+- id: original-037
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0006_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0006_02_Kontojournal.pdf
+- id: original-038
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0006_03_Schreiben.pdf ist vorhanden.
+  path: APB-0006_03_Schreiben.pdf
+- id: original-039
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0006_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0006_04_Korrespondenz.eml
+- id: original-040
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0007_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0007_01_Darlehensvertrag.docx
+- id: original-041
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0007_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0007_02_Kontojournal.pdf
+- id: original-042
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0007_03_Schreiben.pdf ist vorhanden.
+  path: APB-0007_03_Schreiben.pdf
+- id: original-043
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0007_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0007_04_Korrespondenz.eml
+- id: original-044
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0008_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0008_01_Darlehensvertrag.docx
+- id: original-045
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0008_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0008_02_Kontojournal.pdf
+- id: original-046
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0008_03_Schreiben.pdf ist vorhanden.
+  path: APB-0008_03_Schreiben.pdf
+- id: original-047
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0008_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0008_04_Korrespondenz.eml
+- id: original-048
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0009_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0009_01_Darlehensvertrag.docx
+- id: original-049
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0009_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0009_02_Kontojournal.pdf
+- id: original-050
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0009_03_Schreiben.pdf ist vorhanden.
+  path: APB-0009_03_Schreiben.pdf
+- id: original-051
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0009_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0009_04_Korrespondenz.eml
+- id: original-052
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0010_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0010_01_Darlehensvertrag.docx
+- id: original-053
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0010_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0010_02_Kontojournal.pdf
+- id: original-054
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0010_03_Schreiben.pdf ist vorhanden.
+  path: APB-0010_03_Schreiben.pdf
+- id: original-055
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0010_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0010_04_Korrespondenz.eml
+- id: original-056
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0011_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0011_01_Darlehensvertrag.docx
+- id: original-057
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0011_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0011_02_Kontojournal.pdf
+- id: original-058
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0011_03_Schreiben.pdf ist vorhanden.
+  path: APB-0011_03_Schreiben.pdf
+- id: original-059
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0011_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0011_04_Korrespondenz.eml
+- id: original-060
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0012_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0012_01_Darlehensvertrag.docx
+- id: original-061
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0012_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0012_02_Kontojournal.pdf
+- id: original-062
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0012_03_Schreiben.pdf ist vorhanden.
+  path: APB-0012_03_Schreiben.pdf
+- id: original-063
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0012_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0012_04_Korrespondenz.eml
+- id: original-064
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0013_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0013_01_Darlehensvertrag.docx
+- id: original-065
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0013_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0013_02_Kontojournal.pdf
+- id: original-066
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0013_03_Schreiben.pdf ist vorhanden.
+  path: APB-0013_03_Schreiben.pdf
+- id: original-067
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0013_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0013_04_Korrespondenz.eml
+- id: original-068
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0014_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0014_01_Darlehensvertrag.docx
+- id: original-069
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0014_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0014_02_Kontojournal.pdf
+- id: original-070
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0014_03_Schreiben.pdf ist vorhanden.
+  path: APB-0014_03_Schreiben.pdf
+- id: original-071
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0014_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0014_04_Korrespondenz.eml
+- id: original-072
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0015_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0015_01_Darlehensvertrag.docx
+- id: original-073
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0015_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0015_02_Kontojournal.pdf
+- id: original-074
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0015_03_Schreiben.pdf ist vorhanden.
+  path: APB-0015_03_Schreiben.pdf
+- id: original-075
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0015_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0015_04_Korrespondenz.eml
+- id: original-076
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0016_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0016_01_Darlehensvertrag.docx
+- id: original-077
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0016_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0016_02_Kontojournal.pdf
+- id: original-078
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0016_03_Schreiben.pdf ist vorhanden.
+  path: APB-0016_03_Schreiben.pdf
+- id: original-079
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0016_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0016_04_Korrespondenz.eml
+- id: original-080
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0017_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0017_01_Darlehensvertrag.docx
+- id: original-081
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0017_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0017_02_Kontojournal.pdf
+- id: original-082
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0017_03_Schreiben.pdf ist vorhanden.
+  path: APB-0017_03_Schreiben.pdf
+- id: original-083
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0017_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0017_04_Korrespondenz.eml
+- id: original-084
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0018_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0018_01_Darlehensvertrag.docx
+- id: original-085
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0018_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0018_02_Kontojournal.pdf
+- id: original-086
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0018_03_Schreiben.pdf ist vorhanden.
+  path: APB-0018_03_Schreiben.pdf
+- id: original-087
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0018_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0018_04_Korrespondenz.eml
+- id: original-088
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0019_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0019_01_Darlehensvertrag.docx
+- id: original-089
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0019_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0019_02_Kontojournal.pdf
+- id: original-090
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0019_03_Schreiben.pdf ist vorhanden.
+  path: APB-0019_03_Schreiben.pdf
+- id: original-091
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0019_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0019_04_Korrespondenz.eml
+- id: original-092
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0020_01_Darlehensvertrag.docx ist vorhanden.
+  path: APB-0020_01_Darlehensvertrag.docx
+- id: original-093
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0020_02_Kontojournal.pdf ist vorhanden.
+  path: APB-0020_02_Kontojournal.pdf
+- id: original-094
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0020_03_Schreiben.pdf ist vorhanden.
+  path: APB-0020_03_Schreiben.pdf
+- id: original-095
+  check_type: file_exists
+  description: Arbeitsoriginal APB-0020_04_Korrespondenz.eml ist vorhanden.
+  path: APB-0020_04_Korrespondenz.eml
+- id: fach-01
+  check_type: human_review
+  description: Werden 1000 Portfoliozeilen und 20 bewusst ausgewählte Detailakten getrennt; unterbleibt eine statistisch
+    unbelegte Hochrechnung?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-02
+  check_type: human_review
+  description: Werden englische Mutter, deutsche Zweigstelle, konkreter Kreditursprung und Erwerber-/Servicerstatus
+    nachgewiesen statt wegen des englischen Sitzes pauschal ausgenommen?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-03
+  check_type: human_review
+  description: Werden Forderungskauf, Vertragsübernahme, Betriebsmittel und Einlagen getrennt sowie Abtretungskette,
+    Einwendungen und Schuldnerschutz geprüft?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-04
+  check_type: human_review
+  description: Werden Anfangssaldo, Monatsbuchungen, Zahlungen, Kapital, Vertragszins, Verzugszins und Kosten centgenau
+    abgestimmt und streitige Buchungen als solche erkennbar?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-05
+  check_type: human_review
+  description: Wird Kündigung anhand damaliger Voraussetzungen und konkreter Zugangsdokumente geprüft; ersetzt kein
+    Statusfeld den Nachweis?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-06
+  check_type: human_review
+  description: Werden Verbraucherinsolvenz, Vollstreckungssperre, Titel-/Urkundenbestand und behauptete Restschuldbefreiung
+    individuell behandelt?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-07
+  check_type: human_review
+  description: Enthält Excel Bestands-, Buchwert- und Preisbrücken mit Formel- und Nullwertkontrollen sowie lesbarer
+    Anleitung?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-08
+  check_type: human_review
+  description: Werden Kaufvertragsentwurf, Preisannahmen, Nachforderungen und Servicebedingungen fallbezogen fortgeschrieben
+    und vollständig ausformuliert?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.

@@ -1,6 +1,6 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **23259 Skills** in **298 Plugins**.
+Automatisch generierte Gesamtübersicht aller **23270 Skills** in **299 Plugins**.
 
 Stand: `v445.35.3`.
 
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23259 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23270 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -134,6 +134,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | **dfg-foerderantrag** | 85 | [Skills ansehen](skills-index/dfg-foerderantrag.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dfg-foerderantrag/dfg-foerderantrag-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dfg-foerderantrag/dfg-foerderantrag-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dfg-foerderantrag.zip) |
 | **diesel-schadensersatz** | 21 | [Skills ansehen](skills-index/diesel-schadensersatz.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/diesel-schadensersatz.zip) |
 | **dsa-dma-digitalregulierung** | 59 | [Skills ansehen](skills-index/dsa-dma-digitalregulierung.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dsa-dma-digitalregulierung/dsa-dma-digitalregulierung-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/dsa-dma-digitalregulierung.zip) |
+| **due-diligence** | 11 | [Skills ansehen](skills-index/due-diligence.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=due-diligence/due-diligence-werkstatt.md) · [Werkstatt-TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=due-diligence/due-diligence-werkstatt.txt) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=due-diligence/due-diligence-schnellstart.md) · [Schnellstart-TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=due-diligence/due-diligence-schnellstart.txt) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/due-diligence.zip) |
 
 ### E
 
