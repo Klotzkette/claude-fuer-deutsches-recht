@@ -100,3 +100,7 @@ Drei Spaltengruppen wurden gerendert und tatsächlich visuell angesehen: Gesamts
 Die zweite Seite der abschließenden Werkstattfassung wurde zusätzlich gerendert und tatsächlich angesehen. Unterüberschrift 2.2 steht nun gemeinsam mit ihrem ersten Absatz am Seitenanfang. Der in Abschnitt 8 dokumentierte kosmetische Umbruch wurde damit behoben. Die weitere Überschriftenhierarchie und die Textdarstellung sind in dieser Stichprobe lesbar und ohne Überlagerungen.
 
 Die Prüfung ist für diese beiden konkreten Dateien abgeschlossen. Die historischen Erstbefunde bleiben nachvollziehbar; die unverändert übernommene kosmetische Silberfalke-Leerseite bleibt als einzige dort dokumentierte Layoutbesonderheit bestehen. Die Grenzen der visuellen Stichprobe, Fontprüfung und juristischen Inhaltsprüfung aus Abschnitt 6 gelten weiter. Keine Quelldateien oder Builder wurden im Rahmen dieser Nachkontrolle geändert; sämtliche temporären Sichtproben bleiben zusammen unter zwei MB.
+
+## 10. Nachprüfung der Importkorrektur 1.0.1
+
+Am 10.10.2026 nach Neubau geprüft: Alle drei Gesamt-PDFs sind bytegleich mit 1.0.0. Die drei Prompt-PDFs unterscheiden sich durch die neue Versionsfußzeile; Seitenzahlen, Textbestand, Seitengrenzen und geprüfte Ersatzzeichen wurden erneut kontrolliert. Die erste Werkstattseite wurde einschließlich Fußzeile visuell gelesen. Die aktuellen Hashes stehen in `lesefassungen.json`.

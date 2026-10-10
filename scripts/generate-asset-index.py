@@ -98,7 +98,7 @@ def main() -> int:
         "",
         "Die allgemeinen Sammelpakete v445.35.3 enthalten den geprüften Bestand vom 9. Oktober 2026 mit 297 Plugins. Spätere Komponenten ergänzen den Repository-Bestand, ohne diese unveränderten Archive nachträglich zu erweitern. Bei der [Rechtsabteilung Forderungsmanagement Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) ist das installierbare Rollen-Plugin zusätzlich im Plugin-Sammelpaket enthalten. Der gesonderte Projektbestand mit seinen zusätzlichen Akten und der Vollkopie bleibt über die Projektübersicht zugänglich.",
         "",
-        "[Due Diligence 1.0.0](./due-diligence/README.md) mit elf Skills und drei DD-Akten sowie [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md) sind gesonderte Komponenten vom 10. Oktober 2026. Ihre aktuellen Einzelpakete sind über die jeweiligen Pluginseiten erreichbar; sie fehlen in den unveränderten Sammelarchiven v445.35.3.",
+        "[Due Diligence 1.0.1](./due-diligence/README.md) mit elf Skills und drei DD-Akten sowie [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md) sind gesonderte Komponenten vom 10. Oktober 2026. Ihre aktuellen Einzelpakete sind über die jeweiligen Pluginseiten erreichbar; sie fehlen in den unveränderten Sammelarchiven v445.35.3.",
         "",
         "Die drei Rollen-Plugins der [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) gehören zum Plugin-Sammelpaket. Die sieben gesondert verwalteten Akten und die Projektkopie bleiben über das Komponentenrelease erreichbar. Die Plugin-Einzelzeilen unten behalten ihre ausdrücklich zugeordneten Komponentendownloads.",
         "",

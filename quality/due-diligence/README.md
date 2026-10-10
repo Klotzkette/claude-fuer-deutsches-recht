@@ -1,4 +1,4 @@
-# Prüfbericht DD – Due Diligence 1.0.0
+# Prüfbericht DD – Due Diligence 1.0.1
 
 Dieser Bericht dokumentiert den Aufbau und die Prüfung des Plugins, der drei Prompts und der drei Testakten. Er trennt technische Bestandstests, redaktionelle Fachprüfung und die noch offene Bewertung späterer KI-Ergebnisse. Prüfdatum: 10.10.2026.
 
@@ -44,7 +44,7 @@ Word-Dokumente und die Office-Unterlagen der gespiegelten Akten werden nativ mit
 
 Die konkreten Excel-Nachrechnungen stehen im [Excel-Prüfprotokoll](bank-excel-pruefung.json), die nativen Einzelunterlagen im [PDF-Prüfprotokoll](bank-pdf-pruefung.json). Die [Sichtprüfung der Gesamtdateien](pdf-qa.md) hält Erstbefund und gezielte Nachkontrolle getrennt fest.
 
-## 7. Abschlussstand
+## 7. Abschlussstand der ersten Paketfassung 1.0.0
 
 Die finale Paketprüfung `python3 scripts/test-due-diligence.py --dist /tmp/dd-release-publish` hat alle **17 Tests ohne Überspringen** bestanden. Sie prüft unter anderem elf Skills, drei Promptpaare, die unveränderte Spiegelung, 1.000 eindeutige Kreditkennungen, 240 Monatsketten, Cent-Salden, MIME-Anhänge, interne Plugin-Links, ZIP-Bestand, PDF-Inhaltsgleichheit und sämtliche Prüfsummen.
 
@@ -77,4 +77,19 @@ Weitere abgeschlossene Prüfungen:
 - `python3 scripts/build-due-diligence-release.py --dist /tmp/dd-release-publish`: 21 Dateien erzeugt.
 - `git diff --check`: bestanden.
 
-Die Veröffentlichung erfolgt aus dem geprüften Quellenstand als Komponentenfassung `due-diligence-v1.0.0`. Das bestehende Gesamtrelease und seine Sammelarchive bleiben unverändert. Vor der öffentlichen Freigabe werden die hochgeladenen Dateien erneut heruntergeladen und mit den lokalen SHA-256-Prüfsummen verglichen.
+Die erste Komponentenfassung `due-diligence-v1.0.0` wurde veröffentlicht und alle 21 hochgeladenen Dateien durch erneuten Download bytegenau geprüft. Das bestehende Gesamtrelease und seine Sammelarchive blieben unverändert. Die danach abgeschlossene strenge Herstellerprüfung fand den in Abschnitt 8 beschriebenen Importfehler.
+
+## 8. Importkorrektur 1.0.1
+
+Die GitHub-Herstellerprüfung der ersten Fassung meldete fehlendes YAML-Frontmatter in den vier DD-Startbefehlen. Version 1.0.1 ergänzt jeweils eine Beschreibung, einen Argumenthinweis und die ausdrückliche Verarbeitung von `$ARGUMENTS`. Der Regressionstest scheitert an den vier alten Befehlen und besteht mit den korrigierten Dateien. Die übrigen Skills und fachlichen Prompttexte bleiben unverändert.
+
+Am 10.10.2026 wurden folgende Prüfungen ausgeführt:
+
+- `claude plugin validate due-diligence --strict`: bestanden, keine Warnung.
+- `python3 scripts/build-due-diligence-release.py --dist /tmp/dd-release-101`: 21 Dateien erzeugt.
+- `python3 scripts/test-due-diligence.py --dist /tmp/dd-release-101`: alle 18 Tests bestanden, kein Test übersprungen.
+- Struktur-, Marketplace-, Qualitätsprofil-, Markdown-, Übersichts- und Downloadrouting-Prüfungen: bestanden.
+
+Die drei Gesamt-PDFs sind byteidentisch mit der Fassung 1.0.0. Die Prompt-PDFs tragen die neue Versionsfußzeile; Seitenzahlen und Textbestand sind unverändert. Die neu berechneten Hashes stehen in `lesefassungen.json`; sämtliche Textspans bleiben innerhalb der Seiten, ohne die geprüften Ersatzzeichen. Die erste Werkstattseite einschließlich neuer Fußzeile wurde erneut visuell angesehen.
+
+Aktuelle Manifeste, Marktverzeichnis, Akten-READMEs, Downloadzuordnungen, Übersichten, Builder und Komponentenworkflow verwenden 1.0.1. Die veröffentlichte Fassung 1.0.0 und ihr Tag werden nicht überschrieben. Die Freigabe von 1.0.1 erfolgt nach der GitHub-Kompatibilitätsprüfung und erneutem Downloadabgleich aller 21 Release-Dateien. Diese technischen Prüfungen sind kein beobachteter Live-Modelllauf.
