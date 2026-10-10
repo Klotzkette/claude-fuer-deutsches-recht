@@ -605,3 +605,182 @@ CSVS = {
         ["1.93", "Sonderreinigung Sonn und Feiertag", "Stunde", 100, "", "Los 1 Sondermenge zur Wertung"],
     ],
 }
+
+document(39, "Verhandlung_Maerkischer", GVB, "Märkischer Objektservice GmbH | Herrn Faber und Frau Rabe", "16.09.2026", "Gesprächsprotokoll Los 1, 10:30 bis 11:25 Uhr", """
+Sehr geehrter Herr Faber, sehr geehrte Frau Rabe,
+
+anliegend halten wir das heutige Gespräch fest. Für die GVB nahmen Malte Winter und Silke Mertens teil. Für Ihr Unternehmen waren Nils Faber und Nora Rabe zugeschaltet. Die Verbindung war von 10:48 bis 10:51 Uhr unterbrochen; die unmittelbar zuvor gestellte Frage zur Vertretung wurde anschließend nochmals vollständig wiederholt. Es wurden keine Preise oder Konzepte anderer Unternehmen genannt.
+
+1. Vertretung und Zugangszeiten
+
+Frau Mertens fragte, ob die im Erstangebot beschriebenen Reserven auch planmäßigen Urlaub abdecken. Herr Faber bestätigte dies. Zwei unterschiedliche Ersatzpersonen sollen je Schicht verfügbar sein. Frau Rabe ergänzte, dass der gesamte Pool sechs Personen umfasse, die nicht alle gleichzeitig in diesem Auftrag tätig seien. Die namentliche Einsatzplanung werde erst vor Betriebsbeginn verbindlich erstellt. Die GVB bat um eindeutige Darstellung im abschließenden Angebot; eine bestimmte Punktzahl wurde nicht zugesagt.
+
+Das Fenster von 00:45 bis 02:15 Uhr bleibt unverändert. Frau Rabe erläuterte den Weg vom Materialraum zum Bahnsteig und die vorgesehene Vorbereitung vor Freigabe. Herr Winter bestätigte keine zusätzliche Arbeitszeit auf gesperrten Flächen. Die veröffentlichten Vorgaben werden nicht geändert. Die Teams sollen die Fläche innerhalb des Fensters auch wieder räumen.
+
+2. Preis und Geräte
+
+Herr Faber erklärte, dass sein Unternehmen noch über einen Rahmenvertrag für die Gerätemiete verhandle. Eine mögliche Einsparung werde ausschließlich im abschließenden Preisblatt ausgewiesen. Weder die Stundenzahl noch die Vertretung sollten dafür reduziert werden. Die GVB verlangte keinen bestimmten Nachlass und nannte keinen Zielpreis. Frau Rabe fragte, ob eine neue Mietbestätigung dem Schlussangebot beizufügen sei. Herr Winter verwies auf die veröffentlichten Angebotsunterlagen; eine zusätzliche Eignungsanforderung wurde nicht eingeführt.
+
+3. Materialraum und Fortsetzung
+
+Die gewünschte Freigabe des Geräteraums am 16.11.2026 kann Frau Mertens heute nicht bestätigen. Herr Faber hält eine Zwischenlagerung auf dem eigenen Betriebshof für möglich. Er erklärt, dass die Vergabeunterlagen durch die offene Raumfrage nicht unter Vorbehalt angenommen werden sollen. Die abschließende Aufforderung geht gesondert über das Portal zu; maßgeblich ist deren Frist.
+
+Versand dieses Protokolls am 16.09.2026 um 13:42 Uhr. Frau Rabe antwortete am 17.09.2026 um 08:23 Uhr: „So besprochen; unsere Angabe mit den sechs Personen bitte nicht als sechs Vollzeitstellen im GVB-Auftrag verstehen.“ Diese Ergänzung ist oben berücksichtigt. Weitere Änderungen wurden bis zum 18.09.2026 nicht mitgeteilt.
+""", "Malte Winter\nZentraler Einkauf | Gesprächsakte Los 1")
+
+document(40, "Verhandlung_Nordlicht", GVB, "Nordlicht Reinigung Berlin GmbH | Herrn Daniel Lindner", "16.09.2026", "Gesprächsprotokoll Los 1, 11:45 bis 12:35 Uhr", """
+Sehr geehrter Herr Lindner,
+
+das heutige Gespräch führten Sie für Nordlicht sowie Malte Winter und Silke Mertens für die GVB. Herr Lindner war aus dem Betriebshof zugeschaltet. Die nachstehende Aufzeichnung wurde am selben Tag um 14:06 Uhr über das Portal versandt und am 17.09.2026 um 09:18 Uhr durch Herrn Lindner bestätigt.
+
+1. Geräte und Einsatzorganisation
+
+Frau Mertens fragte, ob die drei angebotenen kleinen Teams dieselben Maschinen zwischen Hermannstraße und Neukölln transportieren müssten. Herr Lindner erklärte, es seien getrennte Gerätesätze vorgesehen. Den zur Kalkulation verwendeten Einkaufspreis werde er nochmals mit dem Lieferanten abstimmen, weil gleichzeitig ein anderer Auftrag ausgestattet werde. Die Bündelung betreffe nur die Beschaffung, nicht den zeitgleichen Einsatz derselben Maschine an zwei Standorten.
+
+Die 29200 produktiven Jahresstunden bleiben Grundlage des Konzepts. Herr Lindner erläuterte, dass Fahrten des diensthabenden Einsatzleiters getrennt von den produktiven Flächenstunden disponiert würden. Die GVB verlangte keine nachträgliche neue Berechnungseinheit. Die kurze Freigabezeit an den beiden Stationen wurde ausdrücklich nochmals besprochen; eine Verlängerung oder besondere Zufahrt wurde nicht zugesagt.
+
+2. Störungsannahme und Nachweise
+
+Herr Winter fragte nach der Übergabe einer Störung bei Schichtwechsel. Herr Lindner schilderte einen Rückruf durch den übernehmenden Einsatzleiter und eine offene Vorgangsliste. Frau Mertens bat um eine objektbezogene, nicht nur firmenweite Darstellung im endgültigen Konzept. Herr Lindner bestätigte, dass die im Erstangebot vorgesehene wöchentliche Eigenkontrolle neben einer gemeinsamen Monatsbegehung bestehen bleiben solle.
+
+3. Vertrag und abschließendes Angebot
+
+Die Gesprächspartner erörterten die Dokumentation eines verschlossenen Zugangs. Eine Pfortenbestätigung über Anwesenheit gilt nicht als pauschale Bestätigung aller Reinigungsleistungen. Zusätzliche vergütete Einsätze bedürfen der vorgesehenen Beauftragung. Die GVB gab keinen Auftrag zur Anschaffung oder Reservierung von Geräten. Das Unternehmen bleibt für Dispositionen vor Zuschlag selbst verantwortlich.
+
+Herr Lindner kann einen möglicherweise günstigeren Gerätepreis in der Schlussrunde berücksichtigen. Die GVB nennt weder Konkurrenzpreise noch eine geforderte Reduktionshöhe. Die abschließende Angebotsaufforderung wird gesondert und für alle eingeladenen Bieter mit gleicher Frist versandt. Nach deren Ablauf ist keine weitere Verhandlungsrunde vorgesehen. Das Gespräch enthält keine Zusage zum Zuschlag oder zur Bewertung.
+""", "Malte Winter\nZentraler Einkauf | Gesprächsakte Los 1")
+
+document(41, "Geraeteraum_Bestandsaufnahme", GVB, "Stationsservice | Einkauf | Pforte Adlergestell", "06.10.2026", "Bestandsaufnahme Geräteraum und Schlüssel, 08:20 Uhr", """
+Aufgenommen durch Jens Ahrens und Mehmet Demir am Betriebshof Adlergestell. Frau Mertens erhielt die Aufzeichnung um 11:05 Uhr. Anlass ist die geplante Vorbereitung des Raums für den Reinigungsdienst ab Januar. Die Freigabe im Einkauf bleibt gesperrt; an diesem Termin war kein Bewerber beteiligt.
+
+1. Raum und vorhandenes Material
+
+Der Raum hat laut Objektblatt 14 m². Davon sind gegenwärtig rund 5 m² durch zwei Regale mit Ersatzteilen und Rückläufern der Haustechnik belegt. Ahrens hat mit der Instandhaltung einen Abtransport für den 29.10.2026 vereinbart. Die Regale selbst bleiben vorerst im Raum; ihr Ausbau ist noch nicht beauftragt. Der Zugang ist 91 cm breit. Demir notiert, dass für die angebotenen Maschinen die tatsächlichen Transportabmessungen und nicht nur die Arbeitsbreite erforderlich sind.
+
+Das Ausgussbecken ist nutzbar. Am Wasserhahn tropft die Überwurfmutter. Die Störungsmeldung wurde unter der internen Kennung AD-261006-14 aufgenommen. Neben der Tür befinden sich zwei Steckdosen; eine zusätzliche Lademöglichkeit ist nicht zugesagt. Chemikalien dürfen nicht in den Fluchtweg gestellt werden. Sicherheitsdatenblätter sind vor der konkreten Lagerplanung vorzulegen.
+
+2. Schlüsselbestand
+
+Der betriebliche Schlüsselsatz AD-R14 umfasst Raumtür und Personalzugang. Ein Satz liegt versiegelt in der Pforte, ein zweiter bei der Objektverwaltung. Der Altauftragnehmer besitzt seinen laufenden Satz bis zur protokollierten Rückgabe. Die Liste wird nicht vorzeitig durch neue Empfängernamen ergänzt. Heute wurde kein Schlüssel ausgehändigt und keine Zugangsberechtigung angelegt.
+
+3. Einweisung und Termin
+
+Demir kann örtliche Unterweisungen am 18.11.2026 und 25.11.2026 anbieten. Das sind vorgemerkte interne Zeitfenster, keine Einladung an einen der Bewerber. Bei Verschiebung muss die Betriebsleitstelle erneut beteiligt werden. Ahrens bittet darum, vor einer Geräteanlieferung den Fahrzeugtyp und die Entladezeit abzustimmen; die Zufahrt ist morgens durch Linienfahrzeuge belegt.
+
+Am Ende des Termins, 09:05 Uhr, wurde der Raum wieder verschlossen. Das Protokoll hält den heutigen Bestand fest und bestätigt weder die Betriebsbereitschaft des späteren Auftragnehmers noch eine Leistungsabnahme. Die laufende Reinigung erfolgt weiterhin durch den bisherigen Dienstleister.
+""", "Jens Ahrens | Stationsservice\nMehmet Demir | Arbeitssicherheit")
+
+document(42, "Zugangsstoerungen_Betriebsnotiz", GVB, "An Silke Mertens | Stationsservice", "23.09.2026", "Nächtliche Zugangsereignisse im September", """
+Sehr geehrte Frau Mertens,
+
+ich übersende die aus dem Schichtbuch übertragenen Zugangsmeldungen für die ersten Septemberwochen. Die beigefügte Tabelle enthält sechs Einträge. Die Uhrzeiten bezeichnen Freigaben beziehungsweise deren tatsächliches Ausbleiben, nicht die vom Dienstleister bezahlte Arbeitszeit. Die Aufzeichnung betrifft den laufenden Betrieb, nicht die noch nicht erteilte Anschlussvergabe.
+
+In Hermannstraße blieb die Freigabe am 04.09.2026 wegen einer betrieblichen Störung bis 01:12 Uhr aus. Die Schichtleitung ließ zunächst nur den Materialbereich betreten. Im Buch steht „Team wartet“; die Zahl der Personen wurde nicht eingetragen. Am 11.09.2026 musste die Reinigung einer Teilfläche um 01:48 Uhr unterbrochen werden. Die Leitstelle meldete den freien Bereich erst um 02:08 Uhr zurück. Ob der Dienstleister die Fläche anschließend noch bearbeitete, ist in unserer Aufzeichnung nicht vermerkt.
+
+Für Neukölln findet sich am 08.09.2026 ein Zugang um 00:45 Uhr und eine planmäßige Rückgabe. Am 15.09.2026 wurde um 00:51 Uhr freigegeben, weil der zuständige Mitarbeiter an einer anderen Tür wartete. Das Schichtbuch beschreibt einen missverständlichen Treffpunkt. Eine dauerhafte Änderung des veröffentlichten Reinigungsfensters ist damit nicht verbunden.
+
+Am Adlergestell war der Personalzugang am 16.09.2026 zwischen 22:10 und 22:28 Uhr wegen einer beschädigten Zutrittskarte nicht nutzbar. Die Pforte hat eine Ersatzbegleitung organisiert. Der Geräteraum war davon nicht betroffen. Beim Busbereich Treptower Park wurde am 18.09.2026 eine Meldung über eine verunreinigte Toilette aufgenommen. Der erste Anruf wurde an eine nicht mehr besetzte Durchwahl weitergeleitet; die Leitstelle erreichte die Einsatzleitung um 19:24 Uhr.
+
+Die sechs Vorgänge sind einzeln in der Tabelle erfasst. Eine Rechnung, Gutschrift oder abschließende Mangelbewertung liegt mir dazu nicht vor. Rückfragen zu den betrieblichen Uhrzeiten bitte an mich; Aussagen zur tatsächlichen Reinigungsleistung können nur mit den Leistungsnachweisen des Dienstleisters abgeglichen werden. Die ursprünglichen Schichtbucheinträge verbleiben bei der Leitstelle.
+""", "Mit freundlichen Grüßen\nJens Ahrens\nAnlage: Zugangsmeldungen September")
+
+MAILS.extend([
+    (43, "Antwort_Protokolle", "2026-10-05T10:26:00+02:00", "Silke Mertens <s.mertens@gvb-berlin.example>", "Malte Winter <m.winter@gvb-berlin.example>", "Re: Dringend: Unterlagen Los 1 nach Kammermitteilung", """Guten Morgen Malte,
+
+die beiden Gesprächsprotokolle mit Märkischer und Nordlicht habe ich im Versandordner gefunden. Es sind die am 16. September versandten Fassungen einschließlich der kurzen Rückmeldungen am Folgetag. Bitte nicht als neue Gespräche ablegen. Lea kann die Portalquittungen zuordnen.
+
+Bei meinen Bewertungskommentaren bin ich noch nicht weiter. Im Teamordner liegt die Datei, aber auf meinem Rechner öffnet sich nur der Export ohne Kommentare. Die IT prüft die Versionshistorie. Ich schicke dir keine heute neu geschriebene Fassung als alten Vermerk. Die Veröffentlichungsbestätigung aus dem EU-System habe ich ebenfalls nicht; die liegt beim Portalteam, nicht beim Stationsservice.
+
+Die Aufzeichnung über die sechs Zugangsereignisse stammt vom 23. September und betrifft den alten Dienstleister. Bitte nicht als Störung des noch nicht beauftragten Nachfolgers verstehen. Für das Geräteraumthema gehe ich morgen mit Jens und Mehmet die offenen Punkte durch.
+
+Viele Grüße
+Silke Mertens
+Leitung Reinigung und Stationsservice
+GVB Gemeinsame Verkehrsbetriebe Berlin AöR
+Köpenicker Straße 186, 10997 Berlin | Telefon 030 5550 1714
+
+Am 02.10.2026 schrieb Malte Winter:
+Wir brauchen die ursprünglichen Bewertungsnotizen und die separaten Gesprächsprotokolle. Wenn etwas nicht vorhanden ist, bitte ausdrücklich sagen."""),
+    (44, "Uebermittlungsbeleg_Aktenpaket", "2026-10-06T11:37:00+02:00", "Poststelle GVB <poststelle@gvb-berlin.example>", "Malte Winter <m.winter@gvb-berlin.example>", "GVB-REI-2026-017: Übermittlung Aktenpaket 11:34 Uhr", """Hallo Malte,
+
+das von dir freigegebene Aktenpaket wurde um 11:34 Uhr über den mit der Geschäftsstelle abgestimmten Übermittlungsweg versandt. Unsere Ausgangskennung lautet POST-216. Der technische Dienst meldete um 11:35 Uhr den erfolgreichen Abschluss. Der Beleg bestätigt die Übertragung, nicht die inhaltliche Vollständigkeit oder eine Entscheidung der Kammer.
+
+Die Protokolle vom 16. September waren enthalten. In der Begleitnachricht wurde mitgeteilt, dass die ursprünglichen Bewertungskommentare noch aus der Versionshistorie angefordert sind. Eine kammerseitige Bestätigung über eine Fristverlängerung liegt der Poststelle nicht vor. Die separate Stellungnahme der Rechtsabteilung wurde hier nicht als eigene Datei registriert; bitte dort direkt nach dem Versandbeleg fragen.
+
+Ich habe den Versandbestand schreibgeschützt unter derselben Kennung abgelegt. Falls noch etwas ergänzt wird, bitte als neue Nachreichung kennzeichnen und nicht unter dem alten Dateinamen austauschen.
+
+Viele Grüße
+Lea Berger | Vergabeassistenz und Poststellenvertretung
+GVB Gemeinsame Verkehrsbetriebe Berlin AöR
+Köpenicker Straße 186, 10997 Berlin | Telefon 030 5550 1700"""),
+    (45, "Mobilisierung_Nordlicht", "2026-10-08T14:12:00+02:00", "Daniel Lindner <d.lindner@nordlicht-reinigung.example>", "Malte Winter <m.winter@gvb-berlin.example>", "Los 1: Gerätereservierung und Bindefrist", """Sehr geehrter Herr Winter,
+
+unser Lieferant fragt nach der Auslieferung der getrennten Gerätesätze. Wir haben ihm weiterhin keinen Auftrag für den GVB-Einsatz erteilt. Die Preisbindung unseres abschließenden Angebots bis zum 30.11.2026 bleibt von dieser Nachricht unberührt. Eine Preiserhöhung oder ein geändertes Angebot erklären wir nicht.
+
+Sollte sich die Entscheidung verschieben, benötigen wir eine aktualisierte Auskunft zum möglichen Raumzugang und zur Unterweisung. Die im Gespräch erörterte Zwischenlagerung auf unserem Betriebshof wäre weiterhin möglich. Für eine Anlieferung zwischen Weihnachten und Jahreswechsel müsste allerdings ein eigener Zeitkorridor mit der Pforte vereinbart werden; spontan können wir keinen Lkw an der Busausfahrt warten lassen.
+
+Bitte verstehen Sie die Frage nicht als Anspruch auf eine Zuschlagsentscheidung zu unseren Gunsten. Wir möchten nur vermeiden, dass nach einer späteren Entscheidung niemand mehr für die Einweisung erreichbar ist. Über Termine disponieren wir endgültig erst nach einer tatsächlichen Beauftragung.
+
+Mit freundlichen Grüßen
+Daniel Lindner | Geschäftsführung
+Nordlicht Reinigung Berlin GmbH
+Am Borsigturm 62, 13507 Berlin
+Telefon 030 5550 4630 | kontakt@nordlicht-reinigung.example"""),
+])
+
+CSVS["46_Zugangsmeldungen_September.csv"] = [
+    ["Datum", "Objekt", "Beginn", "Ende", "Meldung", "Quelle"],
+    ["04.09.2026", "Hermannstraße", "00:45", "01:12", "Freigabe verzögert. Team wartet im Materialbereich", "Schichtbuch H 0409 Blatt 7"],
+    ["08.09.2026", "Neukölln", "00:45", "02:15", "Planmäßige Freigabe und Rückgabe", "Schichtbuch N 0809 Blatt 3"],
+    ["11.09.2026", "Hermannstraße", "01:48", "02:08", "Unterbrechung Teilfläche. Leistung danach nicht vermerkt", "Schichtbuch H 1109 Blatt 9"],
+    ["15.09.2026", "Neukölln", "00:45", "00:51", "Treffpunkt verwechselt. Mitarbeiter an anderer Tür", "Schichtbuch N 1509 Blatt 4"],
+    ["16.09.2026", "Adlergestell", "22:10", "22:28", "Zutrittskarte beschädigt. Ersatzbegleitung", "Pfortenbuch AD 1609 Blatt 12"],
+    ["18.09.2026", "Busbereich Treptower Park", "19:07", "19:24", "Störungsanruf weitergeleitet. Einsatzleitung erreicht", "Leitstellenmeldung TP 1809-31"],
+]
+
+TEXTS["47_Telefonnotiz_Aktenzugang.txt"] = """Kanzlei Falk und Bremer | Kantstraße 118 | 10625 Berlin
+Unser Zeichen 26194-PF | Telefonvermerk | 07.10.2026
+Gespräch 11:47 bis 11:55 Uhr | Aufgenommen: Rechtsanwalt Dr. Paul Falk
+Anruferin: Nora Rabe, Märkischer Objektservice, Durchwahl 3922
+
+Frau Rabe ruft aus dem Zug an. Die Verbindung bricht einmal ab; Rückruf
+um 11:50 Uhr. Sie fragt, ob bereits ein Termin bei der Kammer feststehe.
+Ich habe noch keine Terminmitteilung vorliegen und sage ihr das.
+
+Sie hat die Nachricht über die reservierten Geräte bei ihrem Unternehmen
+gesehen. Die Gerätemiete sei Grundlage der Reduzierung um 5000 EUR pro
+Jahr gewesen. Der Vermieter halte den Preis derzeit weiter. Eine neue
+Kalkulation hat sie nicht erstellt. Die Bindefrist bis 30. November ist
+nach ihrer Auskunft unverändert. Sie will keine Angebotsänderung senden.
+
+Zur Akteneinsicht: Sie möchte insbesondere nachvollziehen, was bei den
+Nachtfenstern und dem Vertretungspool bewertet wurde. Namen fremder
+Reinigungskräfte brauche sie dafür nicht. Den vollständigen Lohnaufbau
+des Wettbewerbers kenne sie nicht und wolle ihn am Telefon auch nicht
+mutmaßen. Die eigene Schlussfassung vom 22. September liegt der Kanzlei vor.
+
+11:56 Uhr: Frau Rabe bittet um Rückmeldung erst ab 14 Uhr; sie sitzt bis
+dahin in einer Besprechung. Ein Vergleich oder die Rücknahme des Antrags
+wurde nicht besprochen. Keine neue Fristmitteilung im Gespräch erhalten.
+Paul Falk
+"""
+
+document(48, "Vertraulichkeit_Spreeklar", SPREE, "GVB | Malte Winter | Zentraler Einkauf", "09.10.2026", "Konkretisierung unserer Vertraulichkeitsbitte zu Los 1", """
+Sehr geehrter Herr Winter,
+
+auf Ihre Anfrage teilen wir mit, auf welche Angaben sich unsere Bitte vom 24.09.2026 bezieht. Die nachstehende Erläuterung verändert unser Schlussangebot nicht. Grundpreis, Sondermengen, Leistung und Bindefrist bleiben unverändert. Wir legen weder ein neues Konzept noch neue Preise vor.
+
+1. Kalkulationsaufteilung
+
+Die Einzelansätze für Arbeitgeberkosten, Gerätebeschaffung, Fahrten und allgemeine Kosten in der Preisaufklärung zeigen unsere interne Kostenzuordnung. Daraus lassen sich nach unserer Einschätzung Rückschlüsse auf die Auslastung vorhandener Geräte und auf die Verteilung der Objektleitung über mehrere Aufträge ziehen. Wir bitten, diese Einzelbeträge nicht ohne vorherige Rückfrage an Mitbewerber herauszugeben. Gesamtpreis und die bereits mitgeteilte Anzahl produktiver Stunden behandeln wir nicht als eine gegenüber jedem Beteiligten vollständig unbekannte Information.
+
+2. Personaleinsatz
+
+Die Namen der einzelnen Poolmitarbeiter und deren vertragliche Stundenumfänge sind nicht Bestandteil der öffentlich mitgeteilten Erläuterung. Der angebotene Ablauf bei zwei gleichzeitigen Ausfällen lässt sich aus unserer Sicht auch ohne diese Namen beschreiben. Tobias Krüger und Elena Sander sind dagegen als Objektverantwortliche im Angebot benannt. Bitte unterscheiden Sie diese Funktionsangaben von einer vollständigen Beschäftigtenliste.
+
+3. Weitere Behandlung
+
+Uns ist bekannt, dass die GVB die maßgeblichen Gründe ihrer Entscheidung erläutern und der zuständigen Stelle die verlangten Unterlagen vorlegen muss. Wir beanspruchen keine pauschale Sperre sämtlicher Angebotsseiten. Sollte die zuständige Stelle weitergehende Offenlegung verlangen, bitten wir um rechtzeitige Nachricht mit Bezeichnung der betroffenen Passagen, soweit das Verfahren dies zulässt.
+
+Die von uns bislang beschriebene Reserve steht für die vorgesehenen Einsätze zur Verfügung. Eine zusätzliche, von Ihrem Unternehmen nicht veröffentlichte Anforderung erkennen wir mit dieser Auskunft nicht an. Die Vorbereitung eines möglichen Auftrags läuft intern, ohne dass bereits Schlüssel übernommen oder Reinigungsleistungen für die GVB erbracht wurden. Für Rückfragen zur Personaleinteilung ist Herr Krüger über unser Büro erreichbar.
+""", "Mit freundlichen Grüßen\nHenrik Seidel\nGeschäftsführer")

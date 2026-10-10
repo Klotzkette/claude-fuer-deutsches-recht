@@ -1,3 +1,9 @@
+# gvb-reinigungsvergabe-v1.0.0 – 2026-10-10
+
+Neues Plugin mit genau zehn Fachskills für die Berliner Reinigungsvergabe: fünf Schritte zur Unterlagenerstellung und fünf zur Verfahrensführung. Ausführlicher Werkstatt-Prompt und kompakter Schnellstart sind getrennt herunterladbar. Zehn individuelle Prüffälle sichern die fachlichen Übergaben, Rückfragen, Dokumentausgaben und Grenzen externer Freigaben.
+
+Die zehn ursprünglichen Assistenten bleiben bytegenau im eigenständigen Projekt erhalten. Die Akte wächst um zehn konkrete Unterlagen auf 48 Originaldateien und 51 Gesamtseiten. Flache Original- und Einzel-PDF-ZIPs, Quellenstatus, Verzeichnisse und Komponentenrelease werden gemeinsam geprüft. Kein zusätzlicher Marketplace-Eintrag für das Beispielprojekt und keine ungefragte Installation der Akte.
+
 # gesellschaftervereinbarung-v1.1.0 – 2026-10-09
 
 Die Berliner Drohnenfriseur-Akte wächst von 22 auf 46 Originaldateien. Die Vorgeschichte umfasst Vorgründung, UG-Gründung, gesonderte Rechtezuwendung, Barkapitalerhöhung zur GmbH, frühe Beteiligungsrunden, Brückendarlehen, Rangvereinbarungen und eine Zahlungsenge. Ein privates Darlehen mit streitiger Beteiligungsabrede bleibt anhand der Verträge und Korrespondenz auswertbar, ohne eine Lösung vorzugeben.

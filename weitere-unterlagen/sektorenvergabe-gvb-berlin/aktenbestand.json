@@ -1,5 +1,5 @@
 {
-  "aktenstand": "2026-10-02",
+  "aktenstand": "2026-10-09",
   "dokumente": [
     {
       "datei": "01_Bedarfsanmeldung.docx",
@@ -266,6 +266,76 @@
       "seiten": 1,
       "gesamt_ab_seite": 41,
       "sha256": "ab4ec6a2a8c59c16cf7c3cd6f57578142128918dc2a493a3608d45dd43e86140"
+    },
+    {
+      "datei": "39_Verhandlung_Maerkischer.docx",
+      "pdf": "39_Verhandlung_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 42,
+      "sha256": "e11f5df02e57adbdba1d296f01226b67cebc925fbcdb7a8d4f2ea085bbb36429"
+    },
+    {
+      "datei": "40_Verhandlung_Nordlicht.docx",
+      "pdf": "40_Verhandlung_Nordlicht.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 43,
+      "sha256": "b555859d95446691aceba2e3991aca37d4f54509048b91d419f8bc49a1978ff8"
+    },
+    {
+      "datei": "41_Geraeteraum_Bestandsaufnahme.docx",
+      "pdf": "41_Geraeteraum_Bestandsaufnahme.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 44,
+      "sha256": "239479d97d943537a7b449f355e2c292bae2d3ceb2e7e45197e4da404df68cb8"
+    },
+    {
+      "datei": "42_Zugangsstoerungen_Betriebsnotiz.docx",
+      "pdf": "42_Zugangsstoerungen_Betriebsnotiz.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 45,
+      "sha256": "23e25f9b554c81fe1c7250b74704814cd2e21756afaa3f4ec688cfa2e65a6400"
+    },
+    {
+      "datei": "43_Antwort_Protokolle.eml",
+      "pdf": "43_Antwort_Protokolle.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 46,
+      "sha256": "de3b8b2ef3e9d0c4f67a3aabc5ba04d8c4de806b6310e53473e332902a5271f0"
+    },
+    {
+      "datei": "44_Uebermittlungsbeleg_Aktenpaket.eml",
+      "pdf": "44_Uebermittlungsbeleg_Aktenpaket.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 47,
+      "sha256": "ecc31f20d7e54a935035ac90ba6a419ecaca20a30a74b3ecdd5b4da069ef400b"
+    },
+    {
+      "datei": "45_Mobilisierung_Nordlicht.eml",
+      "pdf": "45_Mobilisierung_Nordlicht.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 48,
+      "sha256": "5f6d048fa22508b1fa8d676165e6afab9e5eb449735ede12845599119fc9c0ea"
+    },
+    {
+      "datei": "46_Zugangsmeldungen_September.csv",
+      "pdf": "46_Zugangsmeldungen_September.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 49,
+      "sha256": "2cfbe1b9195949e2621aeaa1f8a83e2f35748e54245a8cabcac41aa76a37f2ca"
+    },
+    {
+      "datei": "47_Telefonnotiz_Aktenzugang.txt",
+      "pdf": "47_Telefonnotiz_Aktenzugang.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 50,
+      "sha256": "8e8ea58ad605522f22b58f87023632ec263ee24a8060f647e36f70403bb5eae8"
+    },
+    {
+      "datei": "48_Vertraulichkeit_Spreeklar.docx",
+      "pdf": "48_Vertraulichkeit_Spreeklar.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 51,
+      "sha256": "a839952fc24409248c8c120316754760566a1a26e043dee477f172c497ef4089"
     }
   ]
 }

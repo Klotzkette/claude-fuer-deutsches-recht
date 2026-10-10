@@ -1,6 +1,6 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **23249 Skills** in **297 Plugins**.
+Automatisch generierte Gesamtübersicht aller **23259 Skills** in **298 Plugins**.
 
 Stand: `v445.35.3`.
 
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23249 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23259 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -208,6 +208,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | **grundbuchamt-praxis** | 65 | [Skills ansehen](skills-index/grundbuchamt-praxis.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundbuchamt-praxis.zip) |
 | **grundsteuerrecht** | 10 | [Skills ansehen](skills-index/grundsteuerrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundsteuerrecht.zip) |
 | **grundstuecksrecherche** | 2 | [Skills ansehen](skills-index/grundstuecksrecherche.md) | Nicht vorgesehen | Nicht vorgesehen | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/grundstuecksrecherche.zip) |
+| **gvb-reinigungsvergabe** | 10 | [Skills ansehen](skills-index/gvb-reinigungsvergabe.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
 
 ### H
 

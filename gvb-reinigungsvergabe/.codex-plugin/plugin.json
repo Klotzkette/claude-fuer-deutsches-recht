@@ -1,0 +1,19 @@
+{
+  "name": "gvb-reinigungsvergabe",
+  "version": "1.0.0",
+  "description": "Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills fuer Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Ruegen, Wertung, Zuschlag und Nachpruefung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GVB Reinigungsvergabe",
+    "shortDescription": "Reinigungsaufträge im Berliner Nahverkehr vergeben",
+    "longDescription": "Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills fuer Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Ruegen, Wertung, Zuschlag und Nachpruefung.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Lies den Auftrag und die vorhandenen Unterlagen. Bestimme den aktuellen Vergabestand und bearbeite den passenden Schritt der Reinigungsvergabe. Frage nur entscheidende Lücken nach; liefere verwendbare Unterlagen oder Schreiben und die nächste Übergabe. Nichts ohne Freigabe veröffentlichen oder versenden."
+  }
+}

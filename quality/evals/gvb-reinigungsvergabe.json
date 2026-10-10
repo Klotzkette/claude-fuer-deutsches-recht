@@ -1,0 +1,409 @@
+{
+  "schema_version": 1,
+  "plugin": "gvb-reinigungsvergabe",
+  "reviewed_on": "2026-10-10",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sektvo_2016/__51.html",
+      "checked_on": "2026-10-10",
+      "supports": "Aktuelle Angebotsprüfung und Grenzen der Nachforderung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__173.html",
+      "checked_on": "2026-10-10",
+      "supports": "Keine automatische aufschiebende Wirkung bei abgelehntem Nachprüfungsantrag; Altverfahren getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-10-10",
+      "supports": "Zuschlagssperre und Ende bei Obsiegen nach aktueller Fassung."
+    }
+  ],
+  "selection": {
+    "target_skill": "a1-reinigungsauftrag-und-vergabeverfahren",
+    "positive": [
+      "Bereite die Reinigung unserer Berliner Verkehrsanlagen ab Januar vor. Bedarf und Kostenblatt liegen im Ordner.",
+      "Unsere U-Bahn-Reinigung wird neu vergeben. Kläre Lose, Wert und Vergabeweg."
+    ],
+    "negative": [
+      "Entwirf eine private Wohnungsmietvereinbarung.",
+      "Berechne einen Pflichtteilsanspruch."
+    ]
+  },
+  "cases": [
+    {
+      "id": "a1-fachschritt",
+      "target_skill": "a1-reinigungsauftrag-und-vergabeverfahren",
+      "request": "Die Betriebsleitung legt Bedarf und Kostenansatz der GVB vor. Ordne sämtliche Lose einschließlich Option und Abrufen zu; erstelle den Vergabevermerk und frage nur noch nach tatsächlich fehlenden Freigaben.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Rechtsträger und Reinigungszweck getrennt zu und erfasst Option sowie Sonderabrufe im Gesamtwert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erstellt einen Vergabevermerk und fragt nur fehlende Entscheidungen ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Publikation oder Befugnis behaupten; weiter zum belegten LV-Auftrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2-fachschritt",
+      "target_skill": "a2-reinigungsleistung-und-mengen",
+      "request": "Eine Fassade umfasst 780 m² einschließlich 90 m² Ladenfront. Bereite die konkrete Aufmaßrückfrage und eine bepreisbare Position vor; Glaslos und Spiegel im Stationslos bleiben getrennt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt einseitiges Aufmaß, Ladenfront und beidseitige Bearbeitung; keine stillschweigende Nullmenge.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert LV-Position und konkrete Rückfrage, keine bloße Fallzusammenfassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Die offene Messfrage blockiert nur die betroffenen Mengen; keine fertige Gesamtfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3-fachschritt",
+      "target_skill": "a3-eignung-wertung-reinigungsvertrag",
+      "request": "Für Nachtfenster werden Vertretung und erreichbare Objektleitung verlangt. Entwickle überprüfbare Bewertungsstufen und dazu passende Vertragsklauseln, ohne dieselbe Unternehmensreferenz nochmals zu bepunkten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Eignung, Mindestanforderung und Wertung und veröffentlicht keine neuen geheimen Schwellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert vollständige objektbezogene Vertragsklauseln mit Vergütungs- und Nachweisregel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine pauschale doppelte Bepunktung von Referenzen; Vertragsalternativen zur Entscheidung vorlegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4-fachschritt",
+      "target_skill": "a4-unterlagen-und-preisblatt-abgleichen",
+      "request": "Im älteren LV stehen drei Stunden, die Leitstelle nennt 90 Minuten. Zeige beide Fundstellen, korrigiere die betroffenen Unterlagen im Entwurf und übergib die Veröffentlichung an B2 statt Dateien still zu ersetzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Belegt den Zeitfensterwiderspruch und zieht alle betroffenen Fassungen nach.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ändert veröffentlichte Dokumente nicht heimlich und hält leere Preiszellen von Nullpreisen getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Rechenprobe nur in Kopie, keine erfundenen Bieterpreise im veröffentlichten Leerpreisblatt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5-fachschritt",
+      "target_skill": "a5-bekanntmachung-fristen-veroeffentlichen",
+      "request": "Ein interner Versandcode liegt vor, eine EU-Veröffentlichungsquittung fehlt. Erstelle die Bekanntmachungsdaten und fordere den fehlenden Nachweis an, ohne eine TED-Nummer zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Versandcode, Veröffentlichungsquittung und tatsächliche Bereitstellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behauptet weder erfundene TED-Kennung noch ohne Schema validiertes XML.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fristen mit Ereignis und Nachweis dokumentieren und ohne Freigabe nicht veröffentlichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1-fachschritt",
+      "target_skill": "b1-bewerbungen-angebote-nachfordern",
+      "request": "Der Antrag nennt 100000 EUR Schlüsselverlustdeckung, verlangt sind 250000 EUR zum Leistungsbeginn. Untersuche den geforderten Zusagezeitpunkt und entwirf die passende Nachforderung statt sofort auszuschließen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft den geforderten Versicherungszeitpunkt und den vorhandenen Beleg vor einer Entscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert konkrete zulässige Nachforderung mit Frist und verwechselt sie nicht mit Konzeptnachbesserung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nach Eingang der Versichererzusage nur betroffene Prüfpunkte fortsetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2-fachschritt",
+      "target_skill": "b2-bieterfragen-ruegen-berichtigen",
+      "request": "Ein Bieter fragt nach dem Widerspruch zwischen drei Stunden und 90 Minuten. Erstelle die konkrete Antwort, prüfe die Auswirkung auf Kalkulation und Termine und bereite die gleiche Information für alle vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Klärt den tatsächlichen Umfang des verkürzten Zugangs und dessen Kalkulationswirkung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erstellt Antwort und gegebenenfalls Berichtigung mit Fristprüfung statt Einzelzusage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Schutzwürdige Einzelangaben bei allgemeiner Antwort entfernen, gleiche Bereitstellung dokumentieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3-fachschritt",
+      "target_skill": "b3-angebote-verhandeln-werten-preispruefen",
+      "request": "Spreeklar erläutert 26400 produktive Stunden und den Grundpreis von 748000 EUR. Rechne die Kostenteile nach, frage entscheidende Lohnannahmen ab und bewerte ausschließlich die veröffentlichten Kriterien.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechnet 432960 plus 58000 plus 100000 plus 54000 plus 38000 plus 22000 plus 30000 plus 13040 zu 748000.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Preisaufklärung von Angebotsänderung und setzt keine erfundenen Qualitätswerte.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine rückdatierten Bewertungsnotizen; fehlende Entscheidung bleibt offen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4-fachschritt",
+      "target_skill": "b4-vorabinformation-zuschlag-uebergabe",
+      "request": "Ein Zuschlag ist für den 6. Oktober geplant, am 1. Oktober geht eine Kammermitteilung ein. Trenne vorbereitete Übergabe, noch nicht erteilten Auftrag und wirksame Zuschlagssperre.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt Kammermitteilung unabhängig vom Ablauf der Wartefrist als Zuschlagshindernis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt unverbindliche Mobilisierung und freizugebenden Zuschlag; liefert Dokumententwürfe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine Schlüsselübergabe als erfolgten Auftrag ausgeben; tatsächliche Freigabe abwarten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5-fachschritt",
+      "target_skill": "b5-nachpruefung-berlin-fortsetzen",
+      "request": "Die Kammer fordert bis 6. Oktober die Akte. Erstelle die Erwiderung und eine konkrete Geheimnisbegründung; fehlende Bewertungsnotizen bleiben als Lücke erkennbar und werden nicht nachdatiert.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erstellt Erwiderung und konkrete Geheimnisbegründung, ohne ursprüngliche Bewertung zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Rechtsstand und Fortsetzung nach tatsächlicher Kammerentscheidung, keine automatische alte Sperrfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bei Quellen- oder Dateihindernis begrenzt nachfragen, sicheren Entwurf liefern und nach Antwort fortsetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Fünf vorbereitende und fünf verfahrensführende Schritte mit konkreten Reinigungsfragen und abgegrenzten Rechtsankern.",
+    "changes": [
+      "Eigenständiger kompakter Vergabeablauf mit kontrollierter Rückfrage und Fortsetzung."
+    ],
+    "sha256": "c27c9b14e5eadac5e195719a35948cc5d57815801fcf052412f9029089bf98b3"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausgearbeitete Stationsreinigung, Kalkulation, Vertrag, Verhandlung und Nachprüfung statt abstrakter Dokumentenanalyse.",
+    "changes": [
+      "Jeder Schritt liefert bestimmte Dokumente; Rücksprünge erhalten Los und Fassung."
+    ],
+    "sha256": "132535f0f5bc75d4281ca2d6f7760f1c49e669d57aa77e70b169ae8083a20260"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-10",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerer Start klärt Verfahrensstand und nächste Frist.",
+      "Unterlagenstart liest vorhandene Belege und beginnt beim beauftragten Dokument.",
+      "Kammermitteilung führt direkt zu B5 ohne neues Vollinterview."
+    ],
+    "continuation": "RUECKFRAGE wartet auf Antwort; danach nur abhängige Dokumente fortsetzen. Externe Freigabe bleibt gesondert.",
+    "enrichment": "Zehn individuelle Fachprüffälle zu Losen, Mengen, Vertrag, Portal, Nachforderung, Rüge, Preis, Sperre und Aktenvorlage.",
+    "limits": "Redaktionelle und technische Prüfung; keine beobachteten Modellläufe in fremden Oberflächen."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-10",
+    "method": "desk_review",
+    "files": [
+      "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+      "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Unterlagen einer Berliner Reinigungsvergabe statt abstrakter Methodenbeschreibung.",
+    "norms": [
+      "Paragrafen 99 bis 102 GWB: Auftraggeber, Tätigkeit und Beschaffungszweck.",
+      "Paragraf 51 SektVO: Angebotsprüfung und Nachforderung.",
+      "Paragrafen 169, 173 und 187 GWB: Zuschlagssperre und Übergangsrecht."
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, 14.07.2016, C-6/15, TNS Dimarso",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CJ0006",
+        "application": "Bewertungsmethode darf Kriterien und Gewichte nicht ändern.",
+        "limit": "Andere Richtlinienfassung; keine ausnahmslose Veröffentlichung jeder internen Methode."
+      }
+    ],
+    "remaining_limits": [
+      "Berliner Beschlüsse sind bei nicht erreichbarem Original offene Suchhinweise.",
+      "Konkrete Rechtslage und externe Modellleistung bleiben fallbezogen zu prüfen."
+    ]
+  }
+}
