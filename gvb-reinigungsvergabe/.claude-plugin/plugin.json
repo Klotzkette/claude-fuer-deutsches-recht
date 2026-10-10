@@ -1,0 +1,9 @@
+{
+  "name": "gvb-reinigungsvergabe",
+  "version": "1.0.0",
+  "description": "Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills fuer Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Ruegen, Wertung, Zuschlag und Nachpruefung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  }
+}

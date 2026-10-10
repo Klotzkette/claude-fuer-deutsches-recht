@@ -37,11 +37,11 @@ def check():
     files = sorted(original_dir.iterdir())
     inventory = json.loads((HERE / "aktenbestand.json").read_text())
     entries = inventory["dokumente"]
-    require(len(files) == len(entries) == 38, "Aktenbestand muss 38 Dokumente umfassen")
+    require(len(files) == len(entries) == 48, "Aktenbestand muss 48 Dokumente umfassen")
     require([f.name for f in files] == [r["datei"] for r in entries], "Inventar weicht ab")
-    require({int(f.name[:2]) for f in files} == set(range(1, 39)), "Dokumentnummer fehlt")
+    require({int(f.name[:2]) for f in files} == set(range(1, 49)), "Dokumentnummer fehlt")
     counts = {ext: sum(p.suffix == ext for p in files) for ext in (".docx", ".eml", ".csv", ".txt")}
-    require(counts == {".docx": 20, ".eml": 10, ".csv": 5, ".txt": 3}, "Formatbestand weicht ab")
+    require(counts == {".docx": 25, ".eml": 13, ".csv": 6, ".txt": 4}, "Formatbestand weicht ab")
 
     merged = PdfReader(HERE / "downloads/GVB_Reinigungsvergabe_Gesamt.pdf")
     require(len(merged.pages) == sum(r["seiten"] for r in entries), "Seitenzahl weicht ab")
@@ -51,7 +51,7 @@ def check():
         for archive in (native, pdfs):
             require(archive.testzip() is None, "Defektes ZIP")
             names = archive.namelist()
-            require(len(names) == len(set(names)) == 39, "ZIP enthält Dubletten oder falsche Anzahl")
+            require(len(names) == len(set(names)) == 49, "ZIP enthält Dubletten oder falsche Anzahl")
             require(all("/" not in n and "\\" not in n for n in names), "ZIP ist nicht flach")
             notice = archive.read("README.txt").decode("utf-8")
             require(notice.startswith(NOTICE_DE + "\n\n" + NOTICE_EN), "ZIP-Hinweis fehlt am Anfang")
@@ -141,7 +141,7 @@ def check():
     for target in re.findall(r"\]\(([^)]+)\)", readme):
         if not target.startswith("https://"):
             require((HERE / target.split("?", 1)[0]).exists(), f"Toter Link: {target}")
-    print(f"OK: 38 Originale, 38 Einzel-PDFs, {cursor} Gesamtseiten; flache ZIPs; Preise; Quellenzuordnung.")
+    print(f"OK: 48 Originale, 48 Einzel-PDFs, {cursor} Gesamtseiten; flache ZIPs; Preise; Quellenzuordnung.")
     print(f"OK: zehn Workflows, {min(lengths)} bis {max(lengths)} Zeichen; keine Plugin-Registrierung.")
 
 

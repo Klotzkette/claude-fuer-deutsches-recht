@@ -1,8 +1,10 @@
 # 1. GVB Berlin: Reinigungsvergabe
 
-Zehn einzeln verwendbare Markdown-Workflows und eine zusammenhängende Vergabeakte. Die GVB Gemeinsame Verkehrsbetriebe Berlin ist im Fall eine vom Land Berlin getragene Anstalt öffentlichen Rechts mit U-Bahn, Straßenbahn und Busverkehr. Sie vergibt Reinigungsleistungen ab Januar 2027. Die Detailakte begleitet Los 1, Stationen und Betriebsräume, bis zum Eingang eines Nachprüfungsantrags am 1. Oktober 2026. Fahrzeug- und Glasreinigung erscheinen zur Abgrenzung und Auftragswertberechnung; ihre weiteren Vergabeverfahren sind nicht Gegenstand dieser Akte.
+Zehn einzeln verwendbare Markdown-Workflows und eine zusammenhängende Vergabeakte. Die GVB Gemeinsame Verkehrsbetriebe Berlin ist im Fall eine vom Land Berlin getragene Anstalt öffentlichen Rechts mit U-Bahn, Straßenbahn und Busverkehr. Sie vergibt Reinigungsleistungen ab Januar 2027. Die Detailakte begleitet Los 1, Stationen und Betriebsräume, bis zur Korrespondenz im Nachprüfungsverfahren am 9. Oktober 2026. Fahrzeug- und Glasreinigung erscheinen zur Abgrenzung und Auftragswertberechnung; ihre weiteren Vergabeverfahren sind nicht Gegenstand dieser Akte.
 
 Diese Zusatzunterlagen sind kein Plugin. Sie werden weder im Marketplace registriert noch bei einer Plugin-Installation geladen. Die Workflows können einzeln in eine andere Oberfläche übernommen werden. Jede Datei bleibt einschließlich Leerzeichen und Markdown unter 7.500 Zeichen; auch UTF-8-Dateigröße und Windows-Zeilenumbrüche werden geprüft.
+
+Daneben ist das eigenständige [Plugin GVB Reinigungsvergabe](../../gvb-reinigungsvergabe/README.md) mit genau zehn entsprechenden Skills verfügbar. Dieses Beispielprojekt und seine zehn Originalassistenten bleiben eigenständig nutzbar; die Akte wird hier gepflegt und vom Plugin nur verlinkt.
 
 ## 1.1. Zehn Workflows
 
@@ -31,9 +33,9 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 | Fassung | Inhalt | Download |
 | --- | --- | --- |
-| Gesamt-PDF | Alle 38 Dokumente, einzeln beginnend, mit Lesezeichen | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/weitere-unterlagen/sektorenvergabe-gvb-berlin/downloads/GVB_Reinigungsvergabe_Gesamt.pdf) |
+| Gesamt-PDF | Alle 48 Dokumente auf 51 Seiten, einzeln beginnend, mit Lesezeichen | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/weitere-unterlagen/sektorenvergabe-gvb-berlin/downloads/GVB_Reinigungsvergabe_Gesamt.pdf) |
 | Einzel-PDFs | Jedes Aktenstück als eigene PDF, ohne Unterordner | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/weitere-unterlagen/sektorenvergabe-gvb-berlin/downloads/GVB_Reinigungsvergabe_Einzel_PDFs.zip) |
-| Originalunterlagen | 20 Word-Dokumente, 10 E-Mails, 5 CSV-Dateien und 3 Textdateien, ohne Unterordner | [Originale-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/weitere-unterlagen/sektorenvergabe-gvb-berlin/downloads/GVB_Reinigungsvergabe_Originale.zip) |
+| Originalunterlagen | 25 Word-Dokumente, 13 E-Mails, 6 CSV-Dateien und 4 Textdateien, ohne Unterordner | [Originale-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/refs/heads/main/weitere-unterlagen/sektorenvergabe-gvb-berlin/downloads/GVB_Reinigungsvergabe_Originale.zip) |
 
 Die ZIPs enthalten zusätzlich eine `README.txt` mit dem zweisprachigen Hinweis. In den PDFs selbst steht kein Vorspruch. Die Akte enthält keine Lösungsmatrix. Aussagen in Angeboten, Rügen und sonstiger Korrespondenz sind Äußerungen der Beteiligten, keine verbindlichen rechtlichen Feststellungen.
 
@@ -50,14 +52,17 @@ GVB, Bewerber und handelnde Personen sind für diese Akte erfunden. Es handelt s
 | Angebote und Verhandlung | B1 und B3 | 16 bis 23 sowie 35 bis 37: Erstangebote, Telefonnotiz, Gesprächsprotokoll, abschließende Angebote und Preisaufklärung |
 | Vorabinformation und Rüge | B2 und B4 | 24 bis 28: Informationsschreiben, interne E-Mail, Rüge, Eingang, Nichtabhilfe |
 | Nachprüfungsverfahren | B5 | 29 bis 34: Antrag, Vollmacht, Kammermitteilung, Aktenanforderung, Chat und Portalprotokoll |
+| Ergänzte Gesprächsakte | B3 | 39 und 40: vollständige Verhandlungsprotokolle mit Märkischer und Nordlicht |
+| Betrieb und Mobilisierung | A2, A3 oder B4 | 41, 42, 45 und 46: Geräteraum, Schlüssel, Störungen, Zugangsmeldungen und Geräteplanung |
+| Aktennachreichung und Geheimnisse | B5 | 43, 44, 47 und 48: aufgefundene Protokolle, Übermittlung, Telefonnotiz und konkrete Vertraulichkeitsbitte |
 
 Für einen Durchlauf von Beginn an zunächst nur die Unterlagen des jeweiligen Zeitstands übergeben. Die vollständige Akte enthält spätere Korrespondenz. Sie sollte eine frühere Entscheidung nicht rückwirkend beeinflussen. Ein bereits ausgefüllter Vermerk ist kein Ersatz für die selbst zu erstellenden Arbeitsergebnisse.
 
-Nicht jede beim Unternehmen vorhandene Datei liegt in diesem Eingangspaket: Auf fehlende Veröffentlichungsbestätigung, Bewertungsnotizen und weitere Gesprächsprotokolle wird im Schriftverkehr konkret Bezug genommen. Diese Unterlagen sind anzufordern, nicht zu erfinden. Die Lücken sind keine Textstummel; die enthaltenen Schreiben und Angebote liegen vollständig vor. Los 2 und Los 3 werden nicht als vollständig dokumentierte Verfahren ausgegeben.
+Nicht jede beim Unternehmen vorhandene Datei liegt in diesem Eingangspaket: Veröffentlichungsbestätigung und ursprüngliche Bewertungskommentare fehlen weiterhin. Die weiteren Gesprächsprotokolle liegen als 39 und 40 vor. Schreiben 43 erklärt ihr Auffinden; frühere Hinweise auf fehlende Dateien bleiben als zeitgenössische Korrespondenz erhalten. Fehlendes ist anzufordern, nicht zu erfinden. Eine Übermittlungsquittung ersetzt weder vollständigen Akteninhalt noch Kammerentscheidung. Die Lücken sind keine Textstummel; die enthaltenen Schreiben und Angebote liegen vollständig vor. Los 2 und Los 3 werden nicht als vollständig dokumentierte Verfahren ausgegeben.
 
 ## 1.4. Rechtsstand und Nachbau
 
-Bearbeitungsstand ist der 2. Oktober 2026. Die Organisationsanlage orientiert sich an der [öffentlich-rechtlichen Struktur der BVG](https://www.bvg.de/de/satzung). Der Vergabebeginn liegt nach dem [Berliner Rechtsstandswechsel vom 16. Juli 2026](https://www.berlin.de/vergabeservice/aktuelles/artikel.1694823.php). Die rechtlichen Anker und ihre Übertragungsgrenzen stehen in den zehn Workflows; neue Fundstellen sind bei konkreter Verwendung zu verifizieren. Ein Live-Test in fremden Oberflächen oder eine automatische Veröffentlichungsbefugnis ist damit nicht verbunden.
+Die Akte steht auf dem 9. Oktober 2026. Die zehn ursprünglichen Workflow-Dateien behalten ihren Stand vom 2. Oktober 2026. Die Organisationsanlage orientiert sich an der [öffentlich-rechtlichen Struktur der BVG](https://www.bvg.de/de/satzung). Der Vergabebeginn liegt nach dem [Berliner Rechtsstandswechsel vom 16. Juli 2026](https://www.berlin.de/vergabeservice/aktuelles/artikel.1694823.php). Die rechtlichen Anker und ihre Übertragungsgrenzen stehen in den zehn Workflows; neue Fundstellen sind bei konkreter Verwendung zu verifizieren. Ein Live-Test in fremden Oberflächen oder eine automatische Veröffentlichungsbefugnis ist damit nicht verbunden.
 
 `akteninhalt.py` enthält die einzeln ausgearbeiteten Dokumenttexte. `bauen.py` erzeugt die nativen Dateien und nutzt die vorhandenen PDF-Konverter des Repositories. `pruefen.py` prüft die Pakete, Beträge, Zuordnung und Zeichenlängen. Voraussetzung sind Python mit python-docx, pypdf, reportlab, PyYAML und LibreOffice im Suchpfad. Aus diesem Ordner:
 
@@ -67,3 +72,13 @@ python3 pruefen.py
 ```
 
 Die Dateien in `akte/originalunterlagen/` sind direkt lesbar. `aktenbestand.json` enthält Dateinamen, Prüfsummen und PDF-Seitenzuordnung, keine fachliche Bewertung. Änderungen am Marketplace, an Plugin-Manifesten oder an den zentralen Aktenverzeichnissen sind für diese Zusatzunterlagen nicht erforderlich.
+
+## 1.5. Vorlage für andere Arbeitsabläufe
+
+Dieses eigenständige Projekt zeigt, wie ein größerer Auftrag in einzeln nutzbare Schritte zerlegt werden kann: Jeder Schritt hat einen begrenzten Auftrag, bekannte Eingaben, ein ausformuliertes Ergebnis und eine kontrollierte Übergabe. Eine Rückfrage unterbricht die Folge, bis die erforderliche Antwort vorliegt. Spätere Änderungen führen gezielt zu den betroffenen vorherigen Schritten zurück.
+
+Für andere Themen lassen sich diese Übergabestruktur und die Trennung von Empfängertext, internem Vermerk und Freigabe übernehmen. Rechtsgrundlagen, Fristen, Rollen und fachliche Prüffragen müssen dagegen für das neue Thema eigens ausgearbeitet werden. Die Reinigungsregeln nicht nur durch Austausch des Titels auf andere Beschaffungen übertragen.
+
+## 1.6. English Overview
+
+This standalone project retains the original ten portable Markdown assistants unchanged. It demonstrates a reusable sequence with explicit inputs, outputs, questions and handovers. A separate installable plugin provides ten corresponding skills. The expanded cleaning procurement case contains 48 source documents; use only documents available at the selected procedural date. No outcome or answer key is supplied.

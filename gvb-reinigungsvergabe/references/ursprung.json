@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "project": "weitere-unterlagen/sektorenvergabe-gvb-berlin",
+  "workflows": [
+    {
+      "datei": "A1_Auftrag_Sektorenbezug_Vergabeweg.md",
+      "sha256": "970b53a43dc23299bc0e80730ee56e154a037c02cf610e7f90b1766b489bf470",
+      "skill": "a1-reinigungsauftrag-und-vergabeverfahren"
+    },
+    {
+      "datei": "A2_Leistungsbeschreibung_Mengen_Leistungsverzeichnis.md",
+      "sha256": "8016600accc99fa02a52c67792d5f63132d0027c74fe7b2974519276d13649d6",
+      "skill": "a2-reinigungsleistung-und-mengen"
+    },
+    {
+      "datei": "A3_Eignung_Wertung_Reinigungsvertrag.md",
+      "sha256": "eae3fca9658319aaca91a502b6fc47eca64dc98c6cd6aca367153c25bb177c6a",
+      "skill": "a3-eignung-wertung-reinigungsvertrag"
+    },
+    {
+      "datei": "A4_Unterlagen_Preisblatt_Konsistenzpruefung.md",
+      "sha256": "9b05bb26e3d785376e53df6d898c9eba97a41e88ae999a2bb08d1c82e2c8e3ae",
+      "skill": "a4-unterlagen-und-preisblatt-abgleichen"
+    },
+    {
+      "datei": "A5_Bekanntmachung_Fristen_Veroeffentlichung.md",
+      "sha256": "8bad0192cce10712e137ebcc2c748ce819cf5662fe307b4e3440aa5ba65a7d6d",
+      "skill": "a5-bekanntmachung-fristen-veroeffentlichen"
+    },
+    {
+      "datei": "B1_Teilnahmeantraege_Angebote_Nachforderungen.md",
+      "sha256": "5a232719d4e4294ab3b8e7886c0aabd78104f2f93284d99a969450fc5770f60a",
+      "skill": "b1-bewerbungen-angebote-nachfordern"
+    },
+    {
+      "datei": "B2_Bieterfragen_Ruegen_Unterlagenaenderungen.md",
+      "sha256": "f50c465409fb7055161d64413e98ecd1b920f68ecc50652bf2495dd904a8eb81",
+      "skill": "b2-bieterfragen-ruegen-berichtigen"
+    },
+    {
+      "datei": "B3_Verhandlung_Wertung_Preisaufklaerung.md",
+      "sha256": "dced799709dc87487282c49935416a2a65f0a06e1d019ceb0ffdfd7552c54896",
+      "skill": "b3-angebote-verhandeln-werten-preispruefen"
+    },
+    {
+      "datei": "B4_Vorabinformation_Zuschlag_Vertragsbeginn.md",
+      "sha256": "22d919afc83f7c800c0ae8561903932bd29964aa58e9add7a20a1fee9e0561b6",
+      "skill": "b4-vorabinformation-zuschlag-uebergabe"
+    },
+    {
+      "datei": "B5_Nachpruefung_Vergabekammer_Fortsetzung.md",
+      "sha256": "ca93cfa8112a76eea310520c637238468f954ee24829caf16b5f516b92c614a1",
+      "skill": "b5-nachpruefung-berlin-fortsetzen"
+    }
+  ]
+}

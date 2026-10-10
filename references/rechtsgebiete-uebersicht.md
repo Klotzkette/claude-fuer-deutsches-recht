@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 297 Plugins, 23249 Skills.
+Stand v445.35.3: 298 Plugins, 23259 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -133,6 +133,7 @@ Stand v445.35.3: 297 Plugins, 23249 Skills.
 | [`grundbuchamt-praxis`](../grundbuchamt-praxis/) | Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug. | `445.35.3` | 65 |
 | [`grundsteuerrecht`](../grundsteuerrecht/) | Grundsteuer von der Immobilie bis zum richtigen Rechtsbehelf: zehn Arbeitswege zu Lage, Landesmodell, Wert, Messbetrag, Hebesatz, Einspruch und Eilrechtsschutz mit nachrechenbaren Ergebnissen. | `445.35.3` | 10 |
 | [`grundstuecksrecherche`](../grundstuecksrecherche/) | Lokale App für Grundstücksrecherche in deutschen Städten: amtliche Quellen entdecken, NRW-Flurstücke verifiziert auswählen oder manuell erfassen und vier Auskunftsentwürfe als DOCX und ZIP vorbereiten. Kein automatischer Versand. | `445.35.1` | 2 |
+| [`gvb-reinigungsvergabe`](../gvb-reinigungsvergabe/) | Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills für Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Rügen, Wertung, Zuschlag und Nachprüfung. | `1.0.0` | 10 |
 | [`handelsrecht-hgb`](../handelsrecht-hgb/) | Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG. | `445.35.3` | 57 |
 | [`handelsregister-assistent`](../handelsregister-assistent/) | Handelsregister recherchieren und Registervorgänge vollziehen: Auszüge, Gesellschafterlisten, Auslandsvertretung, Organwechsel, Anmeldung, Zwischenverfügung und Datenschutz. Zehn Fachworkflows und ein Hauptproblem-Skill führen zu konkreten Dokumenten und nachgewiesenem Vollzugsstand. | `445.35.3` | 11 |
 | [`handelsregister-praxis`](../handelsregister-praxis/) | Praxisplugin für den Umgang mit dem Handelsregister: Anmeldung, Registergericht, Rechtspfleger, Registerrichter, Beanstandung, Zwischenverfügung, Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Firma, Vertretung, Prokura, Löschung, Insolvenzvermerk und registerfeste Nachweise. | `445.35.3` | 78 |

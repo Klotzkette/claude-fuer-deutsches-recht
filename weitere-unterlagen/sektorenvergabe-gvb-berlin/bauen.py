@@ -38,7 +38,7 @@ from testakte_office_pdf import render_office_batch
 
 ORIGINALS = HERE / "akte" / "originalunterlagen"
 DOWNLOADS = HERE / "downloads"
-NOTICE = f"{NOTICE_DE}\n\n{NOTICE_EN}\n\nGVB-REI-2026-017, Los 1. Aktenstand: 02.10.2026.\n"
+NOTICE = f"{NOTICE_DE}\n\n{NOTICE_EN}\n\nGVB-REI-2026-017, Los 1. Aktenstand: 09.10.2026.\n"
 
 
 def load_pdf_builder():
@@ -134,6 +134,7 @@ def csv_pdf(source):
         "22": ("Abschließende Preisangaben vom 22. September 2026", [155, 105, 105, 45, 115, 95]),
         "34": ("Portalprotokoll bis 1. Oktober 2026", [80, 65, 250, 170, 155]),
         "38": ("Leistungsverzeichnis und unbepreistes Preisblatt", [60, 215, 110, 95, 100, 140]),
+        "46": ("Zugangsmeldungen September 2026", [70, 115, 45, 45, 265, 180]),
     }
     title, widths = labels[source.name[:2]]
     rows = list(csv.reader(io.StringIO(source.read_text(encoding="utf-8-sig")), delimiter=";"))
@@ -229,7 +230,7 @@ def build():
         writer.write(staging / "GVB_Reinigungsvergabe_Gesamt.pdf")
         for file in staging.iterdir():
             (DOWNLOADS / file.name).write_bytes(file.read_bytes())
-    (HERE / "aktenbestand.json").write_text(json.dumps({"aktenstand": "2026-10-02", "dokumente": records},
+    (HERE / "aktenbestand.json").write_text(json.dumps({"aktenstand": "2026-10-09", "dokumente": records},
                                                       ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{expected} Originalunterlagen; {len(writer.pages)} Seiten; drei übereinstimmende Ausgabeformate")
 

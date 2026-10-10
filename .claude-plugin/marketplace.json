@@ -1258,6 +1258,16 @@
       }
     },
     {
+      "name": "gvb-reinigungsvergabe",
+      "source": "./gvb-reinigungsvergabe",
+      "description": "Reinigungsvergaben im Berliner Nahverkehr: zehn aufeinander abgestimmte Skills fuer Bedarf, Leistungsverzeichnis, Vertrag, Bekanntmachung, Angebote, Ruegen, Wertung, Zuschlag und Nachpruefung.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "handelsrecht-hgb",
       "source": "./handelsrecht-hgb",
       "description": "Reines HGB-Plugin für Handelsrecht: Kaufmann, Handelsregister, Firma, Prokura, Handlungsvollmacht, Handelsgeschäfte, Handelskauf, Handelsvertreter, Makler, Kommission, Fracht, Spedition, Lager, Handelsbücher sowie OHG/KG einschließlich MoPeG-Statuswechsel von GbR zu OHG.",
