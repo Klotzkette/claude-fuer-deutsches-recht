@@ -1,0 +1,50 @@
+[
+  {
+    "skill": "aenderungen-nachhalten",
+    "words": 1022,
+    "description_chars": 224,
+    "sha256": "6b78389b3e850444bef92ca28a768e1ecc18192dcc135d9ec38717c1c3a91a9f"
+  },
+  {
+    "skill": "dienstleister-transfers-tom-pruefen",
+    "words": 984,
+    "description_chars": 225,
+    "sha256": "bcbb13a8fedc8874bc06033b97a1df1e5a82f13d953402fabd1eb053cd31be17"
+  },
+  {
+    "skill": "rechtsgrundlagen-loeschung-pruefen",
+    "words": 1005,
+    "description_chars": 210,
+    "sha256": "490cc9b956a663c844483ea311acfc32d1aa0873f3bc375330f41fd8fe8ee4d1"
+  },
+  {
+    "skill": "risiken-dsfa-pruefen",
+    "words": 1056,
+    "description_chars": 225,
+    "sha256": "79b5c3ebde62eee494c470b62f45a667488b89ee9a01bab5b3676e3f8be1fe95"
+  },
+  {
+    "skill": "verarbeitungen-erheben",
+    "words": 1042,
+    "description_chars": 208,
+    "sha256": "fe9e73a3ca36bbe1d1d3f15d613812397d0357338bd1736a6508efac24064233"
+  },
+  {
+    "skill": "verarbeitungsverzeichnis-steuern",
+    "words": 985,
+    "description_chars": 245,
+    "sha256": "86ba394b7f008385a40781f6472f82d4a582a3a3a8f97d73a83c65b766958053"
+  },
+  {
+    "skill": "verzeichnis-ausgeben",
+    "words": 1053,
+    "description_chars": 239,
+    "sha256": "715fc72d21538b430558f0d0aa801a8249ac883c152a8d3242328da778adcf45"
+  },
+  {
+    "skill": "verzeichnis-erstellen",
+    "words": 1024,
+    "description_chars": 223,
+    "sha256": "f79ddae96179506c906eae5f358117b9cce0924c6c3951a72327a10eac9abf4a"
+  }
+]

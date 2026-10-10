@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679",
+    "date": "2026-10-10",
+    "bytes": 864792,
+    "sha256": "c2373d0481b51f5261e90e1f573f68c4678281eec3bdcfd4b88131ee1eb775bd"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0252",
+    "date": "2026-10-10",
+    "bytes": 380685,
+    "sha256": "75b7922e1d18d07915cdf276ae59fa58d0d07faebe0053a2484838decb2ddd31"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62021CJ0340",
+    "date": "2026-10-10",
+    "bytes": 125068,
+    "sha256": "f84c8f40b0a7d7519663f7993da3bbf196c52be45005c59d5b7a8736b0e8cd72"
+  },
+  {
+    "url": "https://ec.europa.eu/newsroom/article29/redirection/document/47711",
+    "date": "2026-10-10",
+    "bytes": 1137918,
+    "sha256": "4de1ee2df6bbe9517847b45ba8b0657e7de4c1bd796f107d940df255ca6ded67"
+  },
+  {
+    "url": "https://www.datenschutzkonferenz-online.de/media/ah/20181017_ah_DSK_DSFA_Muss-Liste_Version_1.1_Deutsch.pdf",
+    "date": "2026-10-10",
+    "bytes": 584475,
+    "sha256": "c42fa3bed399ab837a3fad9fd8790009c754d4583245a8d7f37464d48ef8b027"
+  },
+  {
+    "url": "https://www.datenschutzkonferenz-online.de/media/ah/201802_ah_verzeichnis_verarbeitungstaetigkeiten.pdf",
+    "date": "2026-10-10",
+    "bytes": 342255,
+    "sha256": "03c79abcd658d95a18b8f08559ddbf81993d7d234d920e60a6adebf40e97a6b4"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bdsg_2018/BJNR209710017.html",
+    "date": "2026-10-10",
+    "bytes": 271137,
+    "sha256": "b25242d37be2d21289257f53e2a6e8bca17565d373ad2b0d5e2f8e1bf01549c4"
+  },
+  {
+    "url": "https://www.edpb.europa.eu/news/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en",
+    "date": "2026-10-10",
+    "bytes": 34624,
+    "sha256": "8772eb5462bf305c2889da926d37bba398b76fd24aa8cfd5476b8d5ab0932eed"
+  }
+]

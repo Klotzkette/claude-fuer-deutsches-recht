@@ -2786,6 +2786,16 @@
       }
     },
     {
+      "name": "verarbeitungsverzeichnis",
+      "version": "1.0.0",
+      "description": "Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./verarbeitungsverzeichnis"
+    },
+    {
       "name": "verbraucher-rechtsstaat-alltag",
       "source": "./verbraucher-rechtsstaat-alltag",
       "description": "Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren.",

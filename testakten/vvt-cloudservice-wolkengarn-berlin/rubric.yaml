@@ -1,0 +1,17 @@
+name: vvt-cloudservice-wolkengarn-berlin
+plugin: verarbeitungsverzeichnis
+description: "Wolkengarn Cloudservice in Berlin: Verzeichnisbestand und offene Änderungen mit nativen Unterlagen."
+checks:
+  - id: unterlagen
+    check_type: working_file_count
+    description: "Mindestens zwölf eigenständige Originalunterlagen liegen vor."
+    min: 12
+  - id: rollen
+    check_type: human_review
+    description: "Rolle und tatsächliche Verarbeitung werden aus dem Sachverhalt begründet und nicht pauschal übernommen."
+  - id: aenderung
+    check_type: human_review
+    description: "Einträge behalten stabile Kennungen; Änderungen ersetzen keine fachliche Freigabe."
+  - id: luecken
+    check_type: human_review
+    description: "Fehlende Angaben werden konkret nachgefordert und nicht erfunden."

@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "register_id": "364e96ad-da8f-561e-9a45-fd81ae2bff4b",
+  "organization": {
+    "name": "Physiopraxis Rosenquell",
+    "contact": "Rosengärtlein 14, 96050 Bamberg; Mina Hartmann; buero@rosenquell.example",
+    "representative": "",
+    "dpo": ""
+  },
+  "revision": 2,
+  "updated_at": "2026-10-10T09:00:00+02:00",
+  "activities": [
+    {
+      "id": "VT-0001",
+      "title": "Behandlungsdokumentation und Abrechnung",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Ottilie Rosenquell",
+      "status": "aktiv",
+      "purpose": "Therapeutische Behandlung dokumentieren, Verordnungen verwalten und erbrachte Leistungen abrechnen.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Patientinnen und Patienten, auch Minderjährige; gegebenenfalls Kontaktpersonen.",
+      "data_categories": "Stamm- und Kontaktdaten, Verordnungen, Befunde, Behandlungseinträge und Abrechnungsdaten.",
+      "recipients": "Behandelnde Kräfte, Abrechnungsstelle Salbei; weitere Übermittlungen sind zu konkretisieren.",
+      "transfers": "",
+      "retention": "",
+      "toms": "Persönliche Kennungen; Berechtigungsabgrenzung zwischen Empfang und Behandlung noch zu prüfen.",
+      "legal_basis": "",
+      "systems": "Praxissoftware Rosenblatt, abschließbare Papierablage.",
+      "processor_contracts": "",
+      "sources": "01_Unternehmensprofil_und_Auftrag.docx; 06_TOM_Bestandsaufnahme.pdf",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    },
+    {
+      "id": "VT-0002",
+      "title": "Terminplanung und Erinnerungen",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Mina Hartmann",
+      "status": "aktiv",
+      "purpose": "Termine vereinbaren, Änderungen mitteilen und auf Wunsch an Termine erinnern.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Patientinnen und Patienten sowie anfragende Personen.",
+      "data_categories": "Name, Kontaktdaten, Terminzeit, behandelnde Person; Freitext kann Behandlungsangaben enthalten.",
+      "recipients": "Empfang; Versanddienst des Terminprogramms noch zu bestimmen.",
+      "transfers": "unbekannt",
+      "retention": "",
+      "toms": "",
+      "legal_basis": "",
+      "systems": "Terminmodul der Praxissoftware und Telefon.",
+      "processor_contracts": "",
+      "sources": "07_Loeschkonzept_Arbeitsstand.pdf; 13_Fachbereich_2026-10-08.eml",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    },
+    {
+      "id": "VT-0003",
+      "title": "Geplanter Pilot mit Trainingsvideo und KI-Auswertung",
+      "activity_revision": 1,
+      "role": "controller",
+      "owner": "Ottilie Rosenquell",
+      "status": "geplant",
+      "purpose": "Geplant: Verlauf einzelner Übungen zeigen und therapeutische Bewertung durch eine Fortschrittsanzeige unterstützen. Kein Beginn mit echten Videos.",
+      "joint_controller": "",
+      "controller_contacts": "",
+      "processing_categories": "",
+      "data_subjects": "Vorgesehen sind 15 freiwillig teilnehmende Personen, möglicherweise Minderjährige.",
+      "data_categories": "Trainingsvideo mit Körperdarstellung und gegebenenfalls Stimme, Kennung und abgeleitete Bewegungswerte.",
+      "recipients": "Behandelnde Kräfte; Anbieterzugriffe und weitere Nutzung noch nicht geklärt.",
+      "transfers": "unbekannt",
+      "retention": "Anbieter nennt 90 Tage als Einstellung; eine Praxisentscheidung fehlt.",
+      "toms": "Anbieter wirbt mit Entfernung des Namensfelds. Zuordnung in der Praxis und weitere Identifizierbarkeit sind noch zu prüfen.",
+      "legal_basis": "",
+      "systems": "Bewegungsfaden Pilotportal und KI-Modul.",
+      "processor_contracts": "",
+      "sources": "08_Vorhaben_und_Aenderungen.docx; 10_Anbieterangebot.pdf",
+      "next_review": "",
+      "screening": {
+        "high_risk": "offen",
+        "art35_3": "offen",
+        "positive_list": "offen",
+        "severity": "offen",
+        "likelihood": "offen",
+        "criteria": "",
+        "rationale": "",
+        "sources": "",
+        "priority": "offen"
+      },
+      "review": {
+        "decision": "offen",
+        "reviewer": "",
+        "reviewed_at": "",
+        "rationale": "",
+        "sources": "",
+        "basis_sha256": ""
+      }
+    }
+  ],
+  "history": [
+    {
+      "revision": 2,
+      "at": "2026-10-10T09:00:00+02:00",
+      "actor": "Mina Hartmann",
+      "reason": "Der neue Eintrag beschreibt nur den noch nicht begonnenen Videopiloten. Der Status geplant hält fest, dass noch kein Produktivbetrieb läuft. Risikoprüfung, Rechtsgrundlagen, Rollen und weitere Maßnahmen sind offen; der Eintrag ist keine Freigabe.",
+      "operation": "Entwurfsstand ergänzt",
+      "changed_ids": [
+        "VT-0003"
+      ]
+    }
+  ]
+}

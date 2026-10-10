@@ -1,0 +1,19 @@
+{
+  "name": "verarbeitungsverzeichnis",
+  "version": "1.0.0",
+  "description": "Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Verarbeitungsverzeichnis",
+    "shortDescription": "Verarbeitungen erfassen, prüfen und laufend pflegen",
+    "longDescription": "Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Lesen Sie zuerst meine Unterlagen und den aktuellen Registerstand. Legen Sie unser Verzeichnis von Verarbeitungstätigkeiten an oder arbeiten Sie die vorliegenden Änderungen ein. Trennen Sie eigene Verantwortung und Auftragsverarbeitung, prüfen Sie offene Risiken und den DSFA-Bedarf und erstellen Sie einen bearbeitbaren Excel-Stand mit nachvollziehbaren Änderungen."
+  }
+}

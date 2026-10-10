@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<verarbeitungsverzeichnis schema_version="1" register_id="72002492-29ad-56df-a1c9-1ac5fe6d3f4f" revision="0" sha256="d5ef3a6c2a5f1d66e878d5e9e918a82a3b5ae7edff9c7e51625b69e843bb6c2b"><register encoding="application/json">{
+  "activities": [],
+  "history": [],
+  "organization": {
+    "contact": "",
+    "dpo": "",
+    "name": "[Unternehmen ergänzen]",
+    "representative": ""
+  },
+  "register_id": "72002492-29ad-56df-a1c9-1ac5fe6d3f4f",
+  "revision": 0,
+  "schema_version": 1,
+  "updated_at": "2026-10-10T09:00:00+02:00"
+}
+</register></verarbeitungsverzeichnis>
