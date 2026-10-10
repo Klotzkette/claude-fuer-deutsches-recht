@@ -2,6 +2,8 @@
 
 Reinigungsaufträge im Berliner Nahverkehr vorbereiten und das Vergabeverfahren führen: fünf Skills erstellen die Unterlagen, fünf bearbeiten Bewerbungen, Angebote, Rügen, Zuschlag und Nachprüfung. Die zehn Skills entsprechen den zehn Arbeitsschritten der eigenständigen GVB-Workflow-Vorlage; sie sind hier als installierbares Plugin mit gezielten Eingaben, Beispielen und vollständigen Dokumentausgaben aufbereitet.
 
+[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/gvb-reinigungsvergabe.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+
 ## 1.1. Schnell beginnen
 
 Plugin installieren und den vorhandenen Auftrag samt Unterlagen übergeben. „Prüfe das LV und das Preisblatt auf Widersprüche“ beginnt bei A4. „Die Kammermitteilung liegt im Ordner; bereite die Erwiderung vor“ beginnt bei B5. Für eine neue Ausschreibung ist A1 der Einstieg. Ein bereits geklärter Auftrag wird nicht nochmals vollständig abgefragt.
@@ -14,10 +16,10 @@ Die [zehn ursprünglichen Markdown-Assistenten](../weitere-unterlagen/sektorenve
 | --- | --- | --- |
 | Plugin | Zehn Skills und örtlich zugeordnete Referenzen; Marketplace-Eintrag `gvb-reinigungsvergabe` | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe.zip) |
 | Portables Plugin | Derselbe Inhalt mit umschließendem Plugin-Ordner | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe-portable.zip) |
-| Werkstatt | Ausführlicher eigenständiger Ablauf von Bedarf bis Nachprüfung | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe-werkstatt.md" download>Werkstatt-Prompt als Markdown</a> |
-| Schnellstart | Kompakter eigenständiger Ablauf unter 7.500 Zeichen und Bytes | <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gvb-reinigungsvergabe-v1.0.0/gvb-reinigungsvergabe-schnellstart.md" download>Mini-Prompt als Markdown</a> |
+| Werkstatt | Ausführlicher eigenständiger Ablauf von Bedarf bis Nachprüfung | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md" download>Werkstatt-Prompt als Markdown</a> |
+| Schnellstart | Kompakter eigenständiger Ablauf unter 7.500 Zeichen und Bytes | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md" download>Mini-Prompt als Markdown</a> |
 
-Aktuelle Arbeitsfassungen direkt herunterladen: <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md" download>Werkstatt als Markdown</a> und <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md" download>Schnellstart als Markdown</a>. Die obigen Release-Dateien behalten ihren veröffentlichten Stand.
+Die Prompt-Links laden die aktuellen Arbeitsfassungen herunter. Fest versionierte Markdown-Dateien stehen daneben im [Komponentenrelease 1.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/gvb-reinigungsvergabe-v1.0.0) bereit.
 
 Werkstatt und Schnellstart sind Alternativen zur Plugin-Nutzung, keine zusätzlichen Skills. Die Plugin-ZIPs enthalten weder die beiden Promptdateien noch die Akte. Eine Installation lädt die Unterlagen daher nicht ungefragt in einen Fall. Jeder Fachskill enthält seine tragenden Anweisungen selbst; Referenzen werden nur bei Bedarf gelesen.
 

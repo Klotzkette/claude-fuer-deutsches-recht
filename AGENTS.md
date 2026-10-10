@@ -2,6 +2,10 @@
 
 Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt für **jedes** Werkzeug, das hier arbeitet. Der vollständige Leitfaden steht im zentralen Repository-Leitfaden im Wurzelverzeichnis; halte dich an beide.
 
+## README-Einstiege
+
+READMEs beginnen mit Zweck, Zielgruppe und Benutzung des jeweiligen Angebots. Keine vorangestellte Änderungschronik, keine Meldungen wie „Neu“, „Erweitert“ oder Vergleiche mit Vorgängerversionen. Versionsstände und Änderungen gehören ins Changelog oder in Release-Notes; im README genügt ein Verweis nach der Einführung. Fachlich erforderliche Rechtsstandsangaben und konkrete Nutzungshinweise bleiben erhalten.
+
 ## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
 
 Diese Regel gilt **dauerhaft und für jedes Werkzeug**. Sie ist nicht verhandelbar.
