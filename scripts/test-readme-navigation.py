@@ -40,6 +40,29 @@ CATALOG = load_script("generate-root-plugin-catalog.py")
 OVERVIEWS = load_script("validate-root-readme-overview.py")
 
 
+class ReadmeIntroductionTests(unittest.TestCase):
+    def test_root_starts_with_purpose_instead_of_release_news(self):
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        intro = text.split('<a id="chatgpt-und-die-chatgpt-app"></a>', 1)[0]
+        first_paragraph = intro.split("\n\n")[1]
+        self.assertIn("Rechtspraxis", first_paragraph)
+        self.assertNotRegex(first_paragraph, r"\bv\d+\.\d+\.\d+\b")
+        self.assertNotRegex(intro, r"(?im)^(?:Neu\b|Erweitert:|Neuigkeiten|The new\b)")
+        self.assertLess(len(intro), 6000, "Einführung nicht als Änderungschronik verlängern")
+
+    def test_root_intro_keeps_catalogs_and_history_accessible(self):
+        text = (ROOT / "README.md").read_text(encoding="utf-8")
+        intro = text.split('<a id="chatgpt-und-die-chatgpt-app"></a>', 1)[0]
+        for target in (
+            "#was-ist-drin", "./SKILLS.md", "./testakten/README.md",
+            "./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts",
+            "./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts",
+            "./ASSET_INDEX.md", "./INSTALLATION_EINFACH.md", "./CHANGELOG.md",
+        ):
+            with self.subTest(target=target):
+                self.assertIn(f"]({target})", intro)
+
+
 class CatalogVersionTests(unittest.TestCase):
     def test_description_count_uses_source_without_changing_other_numbers(self):
         with tempfile.TemporaryDirectory() as temp:
