@@ -1,0 +1,476 @@
+name: DD – Personalübernahme Berlin
+plugin: due-diligence
+stand: '2026-10-10'
+description: Bestandsprüfung von 110 Arbeitsoriginalen und konkrete offene Fachkriterien für die Due Diligence.
+pruefstatus: Bestandsprüfung und technische Rechenprüfung sind keine juristische Freigabe einer späteren Bearbeitung.
+checks:
+- id: original-001
+  check_type: file_exists
+  description: Arbeitsoriginal 001_arbeitsvertrag_dr_johanna_neumann.docx ist vorhanden.
+  path: 001_arbeitsvertrag_dr_johanna_neumann.docx
+- id: original-002
+  check_type: file_exists
+  description: Arbeitsoriginal 002_arbeitsvertrag_alexander_meyer.docx ist vorhanden.
+  path: 002_arbeitsvertrag_alexander_meyer.docx
+- id: original-003
+  check_type: file_exists
+  description: Arbeitsoriginal 003_arbeitsvertrag_ben_wagner.docx ist vorhanden.
+  path: 003_arbeitsvertrag_ben_wagner.docx
+- id: original-004
+  check_type: file_exists
+  description: Arbeitsoriginal 004_arbeitsvertrag_elias_becker.docx ist vorhanden.
+  path: 004_arbeitsvertrag_elias_becker.docx
+- id: original-005
+  check_type: file_exists
+  description: Arbeitsoriginal 005_arbeitsvertrag_maria_schneider.docx ist vorhanden.
+  path: 005_arbeitsvertrag_maria_schneider.docx
+- id: original-006
+  check_type: file_exists
+  description: Arbeitsoriginal 006_arbeitsvertrag_marie_mueller.docx ist vorhanden.
+  path: 006_arbeitsvertrag_marie_mueller.docx
+- id: original-007
+  check_type: file_exists
+  description: Arbeitsoriginal 007_arbeitsvertrag_maximilian_fischer.docx ist vorhanden.
+  path: 007_arbeitsvertrag_maximilian_fischer.docx
+- id: original-008
+  check_type: file_exists
+  description: Arbeitsoriginal 008_arbeitsvertrag_paul_weber.docx ist vorhanden.
+  path: 008_arbeitsvertrag_paul_weber.docx
+- id: original-009
+  check_type: file_exists
+  description: Arbeitsoriginal 009_arbeitsvertrag_sophie_schmidt.docx ist vorhanden.
+  path: 009_arbeitsvertrag_sophie_schmidt.docx
+- id: original-010
+  check_type: file_exists
+  description: Arbeitsoriginal 010_arbeitsvertrag_sven_krueger.docx ist vorhanden.
+  path: 010_arbeitsvertrag_sven_krueger.docx
+- id: original-011
+  check_type: file_exists
+  description: Arbeitsoriginal 011_arbeitsvertrag_aylin_yilmaz.docx ist vorhanden.
+  path: 011_arbeitsvertrag_aylin_yilmaz.docx
+- id: original-012
+  check_type: file_exists
+  description: Arbeitsoriginal 012_arbeitsvertrag_thomas_gross.docx ist vorhanden.
+  path: 012_arbeitsvertrag_thomas_gross.docx
+- id: original-013
+  check_type: file_exists
+  description: Arbeitsoriginal 013_arbeitsvertrag_katharina_voss.docx ist vorhanden.
+  path: 013_arbeitsvertrag_katharina_voss.docx
+- id: original-014
+  check_type: file_exists
+  description: Arbeitsoriginal 014_arbeitsvertrag_lina_hoffmann.docx ist vorhanden.
+  path: 014_arbeitsvertrag_lina_hoffmann.docx
+- id: original-015
+  check_type: file_exists
+  description: Arbeitsoriginal 015_arbeitsvertrag_miriam_schulz.docx ist vorhanden.
+  path: 015_arbeitsvertrag_miriam_schulz.docx
+- id: original-016
+  check_type: file_exists
+  description: Arbeitsoriginal 016_arbeitsvertrag_natalie_peters.docx ist vorhanden.
+  path: 016_arbeitsvertrag_natalie_peters.docx
+- id: original-017
+  check_type: file_exists
+  description: Arbeitsoriginal 017_arbeitsvertrag_daniel_roth.docx ist vorhanden.
+  path: 017_arbeitsvertrag_daniel_roth.docx
+- id: original-018
+  check_type: file_exists
+  description: Arbeitsoriginal 018_arbeitsvertrag_florian_kuehn.docx ist vorhanden.
+  path: 018_arbeitsvertrag_florian_kuehn.docx
+- id: original-019
+  check_type: file_exists
+  description: Arbeitsoriginal 019_arbeitsvertrag_sabine_berg.docx ist vorhanden.
+  path: 019_arbeitsvertrag_sabine_berg.docx
+- id: original-020
+  check_type: file_exists
+  description: Arbeitsoriginal 020_arbeitsvertrag_omar_haddad.docx ist vorhanden.
+  path: 020_arbeitsvertrag_omar_haddad.docx
+- id: original-021
+  check_type: file_exists
+  description: Arbeitsoriginal 021_arbeitsvertrag_clara_fuchs.docx ist vorhanden.
+  path: 021_arbeitsvertrag_clara_fuchs.docx
+- id: original-022
+  check_type: file_exists
+  description: Arbeitsoriginal 022_arbeitsvertrag_jonas_winter.docx ist vorhanden.
+  path: 022_arbeitsvertrag_jonas_winter.docx
+- id: original-023
+  check_type: file_exists
+  description: Arbeitsoriginal 023_arbeitsvertrag_lea_sommer.docx ist vorhanden.
+  path: 023_arbeitsvertrag_lea_sommer.docx
+- id: original-024
+  check_type: file_exists
+  description: Arbeitsoriginal 024_arbeitsvertrag_pavel_novak.docx ist vorhanden.
+  path: 024_arbeitsvertrag_pavel_novak.docx
+- id: original-025
+  check_type: file_exists
+  description: Arbeitsoriginal 025_arbeitsvertrag_amir_rahimi.docx ist vorhanden.
+  path: 025_arbeitsvertrag_amir_rahimi.docx
+- id: original-026
+  check_type: file_exists
+  description: Arbeitsoriginal 026_arbeitsvertrag_emily_turner.docx ist vorhanden.
+  path: 026_arbeitsvertrag_emily_turner.docx
+- id: original-027
+  check_type: file_exists
+  description: Arbeitsoriginal 027_arbeitsvertrag_lucia_martin.docx ist vorhanden.
+  path: 027_arbeitsvertrag_lucia_martin.docx
+- id: original-028
+  check_type: file_exists
+  description: Arbeitsoriginal 028_arbeitsvertrag_jakub_kowalski.docx ist vorhanden.
+  path: 028_arbeitsvertrag_jakub_kowalski.docx
+- id: original-029
+  check_type: file_exists
+  description: Arbeitsoriginal 029_arbeitsvertrag_hannah_schroeder.docx ist vorhanden.
+  path: 029_arbeitsvertrag_hannah_schroeder.docx
+- id: original-030
+  check_type: file_exists
+  description: Arbeitsoriginal 030_arbeitsvertrag_dennis_wolf.docx ist vorhanden.
+  path: 030_arbeitsvertrag_dennis_wolf.docx
+- id: original-031
+  check_type: file_exists
+  description: Arbeitsoriginal 031_arbeitsvertrag_nora_brandt.docx ist vorhanden.
+  path: 031_arbeitsvertrag_nora_brandt.docx
+- id: original-032
+  check_type: file_exists
+  description: Arbeitsoriginal 032_arbeitsvertrag_felix_hartmann.docx ist vorhanden.
+  path: 032_arbeitsvertrag_felix_hartmann.docx
+- id: original-033
+  check_type: file_exists
+  description: Arbeitsoriginal 033_arbeitsvertrag_robert_koch.docx ist vorhanden.
+  path: 033_arbeitsvertrag_robert_koch.docx
+- id: original-034
+  check_type: file_exists
+  description: Arbeitsoriginal 034_arbeitsvertrag_maja_seidel.docx ist vorhanden.
+  path: 034_arbeitsvertrag_maja_seidel.docx
+- id: original-035
+  check_type: file_exists
+  description: Arbeitsoriginal 035_arbeitsvertrag_tim_berger.docx ist vorhanden.
+  path: 035_arbeitsvertrag_tim_berger.docx
+- id: original-036
+  check_type: file_exists
+  description: Arbeitsoriginal 036_arbeitsvertrag_fatima_oeztuerk.docx ist vorhanden.
+  path: 036_arbeitsvertrag_fatima_oeztuerk.docx
+- id: original-037
+  check_type: file_exists
+  description: Arbeitsoriginal 037_arbeitsvertrag_anton_winkler.docx ist vorhanden.
+  path: 037_arbeitsvertrag_anton_winkler.docx
+- id: original-038
+  check_type: file_exists
+  description: Arbeitsoriginal 038_arbeitsvertrag_greta_lorenz.docx ist vorhanden.
+  path: 038_arbeitsvertrag_greta_lorenz.docx
+- id: original-039
+  check_type: file_exists
+  description: Arbeitsoriginal 039_arbeitsvertrag_leon_richter.docx ist vorhanden.
+  path: 039_arbeitsvertrag_leon_richter.docx
+- id: original-040
+  check_type: file_exists
+  description: Arbeitsoriginal 040_arbeitsvertrag_isabel_schwarz.docx ist vorhanden.
+  path: 040_arbeitsvertrag_isabel_schwarz.docx
+- id: original-041
+  check_type: file_exists
+  description: Arbeitsoriginal 041_arbeitsvertrag_erik_vogel.docx ist vorhanden.
+  path: 041_arbeitsvertrag_erik_vogel.docx
+- id: original-042
+  check_type: file_exists
+  description: Arbeitsoriginal 042_arbeitsvertrag_melanie_krause.docx ist vorhanden.
+  path: 042_arbeitsvertrag_melanie_krause.docx
+- id: original-043
+  check_type: file_exists
+  description: Arbeitsoriginal 043_arbeitsvertrag_yusuf_demir.docx ist vorhanden.
+  path: 043_arbeitsvertrag_yusuf_demir.docx
+- id: original-044
+  check_type: file_exists
+  description: Arbeitsoriginal 044_arbeitsvertrag_carolin_schuetz.docx ist vorhanden.
+  path: 044_arbeitsvertrag_carolin_schuetz.docx
+- id: original-045
+  check_type: file_exists
+  description: Arbeitsoriginal 045_arbeitsvertrag_lukas_frank.docx ist vorhanden.
+  path: 045_arbeitsvertrag_lukas_frank.docx
+- id: original-046
+  check_type: file_exists
+  description: Arbeitsoriginal 046_arbeitsvertrag_anja_keller.docx ist vorhanden.
+  path: 046_arbeitsvertrag_anja_keller.docx
+- id: original-047
+  check_type: file_exists
+  description: Arbeitsoriginal 047_arbeitsvertrag_nils_seifert.docx ist vorhanden.
+  path: 047_arbeitsvertrag_nils_seifert.docx
+- id: original-048
+  check_type: file_exists
+  description: Arbeitsoriginal 048_arbeitsvertrag_sofia_moretti.docx ist vorhanden.
+  path: 048_arbeitsvertrag_sofia_moretti.docx
+- id: original-049
+  check_type: file_exists
+  description: Arbeitsoriginal 049_arbeitsvertrag_moritz_bauer.docx ist vorhanden.
+  path: 049_arbeitsvertrag_moritz_bauer.docx
+- id: original-050
+  check_type: file_exists
+  description: Arbeitsoriginal 050_arbeitsvertrag_bettina_lange.docx ist vorhanden.
+  path: 050_arbeitsvertrag_bettina_lange.docx
+- id: original-051
+  check_type: file_exists
+  description: Arbeitsoriginal 051_dienstvertrag_matthias_seifert.docx ist vorhanden.
+  path: 051_dienstvertrag_matthias_seifert.docx
+- id: original-052
+  check_type: file_exists
+  description: Arbeitsoriginal 052_dienstvertrag_charlotte_reuter.docx ist vorhanden.
+  path: 052_dienstvertrag_charlotte_reuter.docx
+- id: original-053
+  check_type: file_exists
+  description: Arbeitsoriginal 053_gesellschafterbeschluss_seifert.docx ist vorhanden.
+  path: 053_gesellschafterbeschluss_seifert.docx
+- id: original-054
+  check_type: file_exists
+  description: Arbeitsoriginal 054_gesellschafterbeschluss_reuter.docx ist vorhanden.
+  path: 054_gesellschafterbeschluss_reuter.docx
+- id: original-055
+  check_type: file_exists
+  description: Arbeitsoriginal 055_gesellschafterbestand.docx ist vorhanden.
+  path: 055_gesellschafterbestand.docx
+- id: original-056
+  check_type: file_exists
+  description: Arbeitsoriginal 056_statusbescheid_matthias_seifert.docx ist vorhanden.
+  path: 056_statusbescheid_matthias_seifert.docx
+- id: original-057
+  check_type: file_exists
+  description: Arbeitsoriginal 060_mandatsanschreiben_08_09_2026.docx ist vorhanden.
+  path: 060_mandatsanschreiben_08_09_2026.docx
+- id: original-058
+  check_type: file_exists
+  description: Arbeitsoriginal 061_eroeffnungsbeschluss.docx ist vorhanden.
+  path: 061_eroeffnungsbeschluss.docx
+- id: original-059
+  check_type: file_exists
+  description: Arbeitsoriginal 062_vorlaeufige_verwaltung.docx ist vorhanden.
+  path: 062_vorlaeufige_verwaltung.docx
+- id: original-060
+  check_type: file_exists
+  description: Arbeitsoriginal 063_antrag_geschaeftsfuehrung.docx ist vorhanden.
+  path: 063_antrag_geschaeftsfuehrung.docx
+- id: original-061
+  check_type: file_exists
+  description: Arbeitsoriginal 064_absichtserklaerung_asset_deal.docx ist vorhanden.
+  path: 064_absichtserklaerung_asset_deal.docx
+- id: original-062
+  check_type: file_exists
+  description: Arbeitsoriginal 066_unterrichtung_betriebsrat.docx ist vorhanden.
+  path: 066_unterrichtung_betriebsrat.docx
+- id: original-063
+  check_type: file_exists
+  description: Arbeitsoriginal 067_besprechung_betriebsrat.docx ist vorhanden.
+  path: 067_besprechung_betriebsrat.docx
+- id: original-064
+  check_type: file_exists
+  description: Arbeitsoriginal 068_betriebsratswahl.docx ist vorhanden.
+  path: 068_betriebsratswahl.docx
+- id: original-065
+  check_type: file_exists
+  description: Arbeitsoriginal 069_schwerbehindertenvertretung.docx ist vorhanden.
+  path: 069_schwerbehindertenvertretung.docx
+- id: original-066
+  check_type: file_exists
+  description: Arbeitsoriginal 070_kuendigung_dennis_wolf.docx ist vorhanden.
+  path: 070_kuendigung_dennis_wolf.docx
+- id: original-067
+  check_type: file_exists
+  description: Arbeitsoriginal 071_zugang_kuendigung_wolf.txt ist vorhanden.
+  path: 071_zugang_kuendigung_wolf.txt
+- id: original-068
+  check_type: file_exists
+  description: Arbeitsoriginal 072_anhoerung_betriebsrat_wolf.docx ist vorhanden.
+  path: 072_anhoerung_betriebsrat_wolf.docx
+- id: original-069
+  check_type: file_exists
+  description: Arbeitsoriginal 073_arbeitsgericht_termin_wolf.docx ist vorhanden.
+  path: 073_arbeitsgericht_termin_wolf.docx
+- id: original-070
+  check_type: file_exists
+  description: Arbeitsoriginal 074_bescheinigung_hoffmann.docx ist vorhanden.
+  path: 074_bescheinigung_hoffmann.docx
+- id: original-071
+  check_type: file_exists
+  description: Arbeitsoriginal 075_gefaehrdungsbeurteilung_hoffmann.docx ist vorhanden.
+  path: 075_gefaehrdungsbeurteilung_hoffmann.docx
+- id: original-072
+  check_type: file_exists
+  description: Arbeitsoriginal 076_einsatzentscheidung_hoffmann.docx ist vorhanden.
+  path: 076_einsatzentscheidung_hoffmann.docx
+- id: original-073
+  check_type: file_exists
+  description: Arbeitsoriginal 077_bescheinigung_miriam_schulz.docx ist vorhanden.
+  path: 077_bescheinigung_miriam_schulz.docx
+- id: original-074
+  check_type: file_exists
+  description: Arbeitsoriginal 078_bescheinigung_natalie_peters.docx ist vorhanden.
+  path: 078_bescheinigung_natalie_peters.docx
+- id: original-075
+  check_type: file_exists
+  description: Arbeitsoriginal 079_elternzeit_sabine_berg.docx ist vorhanden.
+  path: 079_elternzeit_sabine_berg.docx
+- id: original-076
+  check_type: file_exists
+  description: Arbeitsoriginal 080_feststellung_thomas_gross.docx ist vorhanden.
+  path: 080_feststellung_thomas_gross.docx
+- id: original-077
+  check_type: file_exists
+  description: Arbeitsoriginal 081_feststellung_daniel_roth.docx ist vorhanden.
+  path: 081_feststellung_daniel_roth.docx
+- id: original-078
+  check_type: file_exists
+  description: Arbeitsoriginal 082_feststellung_florian_kuehn.docx ist vorhanden.
+  path: 082_feststellung_florian_kuehn.docx
+- id: original-079
+  check_type: file_exists
+  description: Arbeitsoriginal 083_gleichstellung_florian_kuehn.docx ist vorhanden.
+  path: 083_gleichstellung_florian_kuehn.docx
+- id: original-080
+  check_type: file_exists
+  description: Arbeitsoriginal 084_feststellung_nora_brandt.docx ist vorhanden.
+  path: 084_feststellung_nora_brandt.docx
+- id: original-081
+  check_type: file_exists
+  description: Arbeitsoriginal 085_feststellung_bettina_lange.docx ist vorhanden.
+  path: 085_feststellung_bettina_lange.docx
+- id: original-082
+  check_type: file_exists
+  description: Arbeitsoriginal 090_nachtrag_sommer_1.docx ist vorhanden.
+  path: 090_nachtrag_sommer_1.docx
+- id: original-083
+  check_type: file_exists
+  description: Arbeitsoriginal 091_nachtrag_sommer_2.docx ist vorhanden.
+  path: 091_nachtrag_sommer_2.docx
+- id: original-084
+  check_type: file_exists
+  description: Arbeitsoriginal 092_nachtrag_sommer_3.docx ist vorhanden.
+  path: 092_nachtrag_sommer_3.docx
+- id: original-085
+  check_type: file_exists
+  description: Arbeitsoriginal 093_nachtrag_sommer_4.docx ist vorhanden.
+  path: 093_nachtrag_sommer_4.docx
+- id: original-086
+  check_type: file_exists
+  description: Arbeitsoriginal 095_verguetungsnachtrag_alexander_meyer.docx ist vorhanden.
+  path: 095_verguetungsnachtrag_alexander_meyer.docx
+- id: original-087
+  check_type: file_exists
+  description: Arbeitsoriginal 096_verguetungsnachtrag_maximilian_fischer.docx ist vorhanden.
+  path: 096_verguetungsnachtrag_maximilian_fischer.docx
+- id: original-088
+  check_type: file_exists
+  description: Arbeitsoriginal 100_email_winter_angebot.eml ist vorhanden.
+  path: 100_email_winter_angebot.eml
+- id: original-089
+  check_type: file_exists
+  description: Arbeitsoriginal 101_email_winter_zusage.eml ist vorhanden.
+  path: 101_email_winter_zusage.eml
+- id: original-090
+  check_type: file_exists
+  description: Arbeitsoriginal 102_email_winter_personalablage.eml ist vorhanden.
+  path: 102_email_winter_personalablage.eml
+- id: original-091
+  check_type: file_exists
+  description: Arbeitsoriginal 103_email_sommer_nachtraege.eml ist vorhanden.
+  path: 103_email_sommer_nachtraege.eml
+- id: original-092
+  check_type: file_exists
+  description: Arbeitsoriginal 104_email_neumann_vertragsdatei.eml ist vorhanden.
+  path: 104_email_neumann_vertragsdatei.eml
+- id: original-093
+  check_type: file_exists
+  description: Arbeitsoriginal 105_portalexport_neumann.txt ist vorhanden.
+  path: 105_portalexport_neumann.txt
+- id: original-094
+  check_type: file_exists
+  description: Arbeitsoriginal 106_email_neumann_bibliothek.eml ist vorhanden.
+  path: 106_email_neumann_bibliothek.eml
+- id: original-095
+  check_type: file_exists
+  description: Arbeitsoriginal 107_email_bank_finanzierung.eml ist vorhanden.
+  path: 107_email_bank_finanzierung.eml
+- id: original-096
+  check_type: file_exists
+  description: Arbeitsoriginal 108_email_investor_absage.eml ist vorhanden.
+  path: 108_email_investor_absage.eml
+- id: original-097
+  check_type: file_exists
+  description: Arbeitsoriginal 109_email_lohnbuero_august.eml ist vorhanden.
+  path: 109_email_lohnbuero_august.eml
+- id: original-098
+  check_type: file_exists
+  description: Arbeitsoriginal 110_email_kaeufer_personal.eml ist vorhanden.
+  path: 110_email_kaeufer_personal.eml
+- id: original-099
+  check_type: file_exists
+  description: Arbeitsoriginal 111_email_betriebsrat_zahlungen.eml ist vorhanden.
+  path: 111_email_betriebsrat_zahlungen.eml
+- id: original-100
+  check_type: file_exists
+  description: Arbeitsoriginal 112_email_miriam_schutzfrist.eml ist vorhanden.
+  path: 112_email_miriam_schutzfrist.eml
+- id: original-101
+  check_type: file_exists
+  description: Arbeitsoriginal 113_email_omar_vertragsende.eml ist vorhanden.
+  path: 113_email_omar_vertragsende.eml
+- id: original-102
+  check_type: file_exists
+  description: Arbeitsoriginal 114_email_urlaub_marie_mueller.eml ist vorhanden.
+  path: 114_email_urlaub_marie_mueller.eml
+- id: original-103
+  check_type: file_exists
+  description: Arbeitsoriginal 115_email_wolf_betriebsrat.eml ist vorhanden.
+  path: 115_email_wolf_betriebsrat.eml
+- id: original-104
+  check_type: file_exists
+  description: Arbeitsoriginal 116_chat_werkstatt_07_09_2026.txt ist vorhanden.
+  path: 116_chat_werkstatt_07_09_2026.txt
+- id: original-105
+  check_type: file_exists
+  description: Arbeitsoriginal 117_telefonnotiz_lohnbuero.txt ist vorhanden.
+  path: 117_telefonnotiz_lohnbuero.txt
+- id: original-106
+  check_type: file_exists
+  description: Arbeitsoriginal 118_kontoumsaetze_august.csv ist vorhanden.
+  path: 118_kontoumsaetze_august.csv
+- id: original-107
+  check_type: file_exists
+  description: Arbeitsoriginal 119_offene_lieferantenposten.csv ist vorhanden.
+  path: 119_offene_lieferantenposten.csv
+- id: original-108
+  check_type: file_exists
+  description: Arbeitsoriginal 120_inventur_erwerbsumfang.csv ist vorhanden.
+  path: 120_inventur_erwerbsumfang.csv
+- id: original-109
+  check_type: file_exists
+  description: Arbeitsoriginal 121_einsatzverteilung_august.csv ist vorhanden.
+  path: 121_einsatzverteilung_august.csv
+- id: original-110
+  check_type: file_exists
+  description: Arbeitsoriginal 122_personal_und_abrechnung.xlsx ist vorhanden.
+  path: 122_personal_und_abrechnung.xlsx
+- id: fach-01
+  check_type: human_review
+  description: Werden genau 50 Arbeitsverträge und zwei Geschäftsführer-Dienstverträge getrennt erfasst und Vertragsfassung,
+    Nachträge und tatsächliche Tätigkeit je Person verknüpft?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-02
+  check_type: human_review
+  description: Werden wirtschaftliche Einheit und Personenzuordnung bei gemischtem Einsatz belegt statt aus der
+    Kaufvertragsliste abgeleitet?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-03
+  check_type: human_review
+  description: Werden Vergütung, Bonus, Urlaub, Arbeitszeit, Befristung und kollektive Bindungen als unterschiedliche
+    Risiken ausgewertet und fehlende Belege benannt?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-04
+  check_type: human_review
+  description: Werden Unterrichtung und Widerspruch aus damaliger Rechtslage und Zugang beurteilt, ohne historische
+    Falltexte als heutige Quelle zu verwenden?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-05
+  check_type: human_review
+  description: Enthält die Excel-Auswertung erläuterte Quellen, Formeln, Summenkontrollen und getrennte bestätigte/offene
+    Beträge?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-06
+  check_type: human_review
+  description: Werden ausformulierte Verkäuferfragen, Käuferbericht und konkrete Preis-/Vertragsfolgen erstellt,
+    ohne eine universelle Erwerberhaftung zu behaupten?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.

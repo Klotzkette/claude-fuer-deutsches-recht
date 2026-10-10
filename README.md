@@ -83,14 +83,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 298 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 23259 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 296 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 299 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 23270 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 297 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 295 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 511 zentral / 521 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 296 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 514 zentral / 524 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23259 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23270 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -127,14 +127,16 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 298 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 23259: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 511 zentral / 521 gesamt |
+| **Plugins** | 299 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 23270: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 514 zentral / 524 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
+
+Die folgenden Sammelarchive enthalten den geprüften Stand vom **9. Oktober 2026 mit 297 Plugins**. [Due Diligence 1.0.0](./due-diligence/README.md) und [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md) ergänzen den aktuellen Repository-Bestand über eigene Komponentenreleases. Sie sind noch nicht in den unveränderten Sammelarchiven v445.35.3 enthalten.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -142,14 +144,14 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Paket | Download | Inhalt |
 | --- | --- | --- |
-| **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
+| **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Die installierbaren Plugin-ZIPs des Sammelstands vom 9. Oktober 2026 plus dessen `marketplace.json` in einem Archiv. |
 | **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Definition für unterstützte GitHub-Importe und Kommandozeilen-Nutzung; kein Einzel-Plugin und kein manueller ZIP-Upload. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs. Werkstatt und Schnellstart sind bewusst nicht enthalten, sondern bleiben einzelne Markdown-Direktdownloads. Die einzelnen Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der zentralen Akten-ZIPs mit PDF, DOCX, XLSX, JPEG, EML und weiteren Originalformaten, ohne Markdown. Einzelakten sind grundsätzlich flach; die Hildesheimer Lebensakte und das FinTech-Darlehensverfahren Bremen behalten ausdrücklich ihre Unterordner. Die `README.txt` auf der Wurzelebene jedes Akten-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Warnhinweis. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der zentralen Einzel-PDF-ZIPs mit einer separaten PDF je Unterlage. Dieselben beiden Struktur-Ausnahmen gelten wie beim Originalformat-ZIP. Die PDFs enthalten weder eine Hinweisseite noch den Warntext; die `README.txt` jedes Einzel-PDF-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Hinweis. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
 | **Pluginlokale Testakten als ZIP** | [alle-pluginlokalen-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-pluginlokalen-testakten.zip) | Ergänzende Sammlung der Akten aus den `testakte/`-Ordnern einzelner Plugins in ihren Originalformaten, einschließlich des jeweiligen Gesamt-PDFs. |
 | **Pluginlokale Testakten als Einzel-PDF-ZIP** | [alle-pluginlokalen-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-pluginlokalen-testakten-einzelpdfs.zip) | Dieselben pluginlokalen Akten mit einer separaten PDF je Unterlage. Die `README.txt` jedes Akten-ZIPs und beider Sammelarchive beginnt mit dem zweisprachigen Hinweis. |
-| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Alle Plugin-ZIPs, alle Skill-Markdown-ZIPs, alle Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien in einem Archiv. Werkstatt und Schnellstart sind nicht Bestandteil der Archive; sie bleiben pro Plugin einzelne Markdown-Direktdownloads. |
+| **Alles komplett als ZIP** | [alles-komplettpaket.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Plugin-ZIPs, Skill-Markdown-ZIPs, Testakten-ZIPs (inklusive Einzel-PDF-ZIPs), Marketplace-Manifest und Übersichtsdateien des Sammelstands vom 9. Oktober 2026 in einem Archiv. Werkstatt und Schnellstart sind nicht Bestandteil der Archive; sie bleiben pro Plugin einzelne Markdown-Direktdownloads. |
 | **SHA-256-Prüfsummen** | [checksums-sha256.txt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/checksums-sha256.txt) | Maschinenlesbare Prüfsummen für Release-Assets; die Release-Pipeline gleicht Größen und Hashes nach dem Upload gegen GitHub ab. |
 | **Klotzkettes Juristische Promptliste** | [PROMPTLISTE.md](./PROMPTLISTE.md) | Kuratierte Übersichtsseite praxistauglicher Prompt-Bausteine — sortiert nach Fachanwaltschaften, zum Kopieren in ChatGPT, Claude, Gemini, Perplexity oder beliebige andere Tools. Mit großem Disclaimer. |
 | **Werkstatt- und Schnellstart-Coverage** | [docs/werkstatt-und-schnellstart-coverage.md](./docs/werkstatt-und-schnellstart-coverage.md) | Prüfliste, welches Plugin welche Werkstatt- und Schnellstart-Markdown-Dateien besitzt, mit Markdown-Direkt-Download-Links. |
@@ -375,6 +377,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`dfg-foerderantrag`](./dfg-foerderantrag) | DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung. |
 | [`diesel-schadensersatz`](./diesel-schadensersatz) | Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten. |
 | [`dsa-dma-digitalregulierung`](./dsa-dma-digitalregulierung) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. |
+| [`due-diligence`](./due-diligence) | Due Diligence für Käufer, Investoren und Verkäufer: Unternehmen, Beteiligungen, Personal, Bilanz, Verträge und Kreditportfolios belegt prüfen und Befunde in Kaufpreis, Vertragsregelungen und Vollzugsbedingungen übersetzen. |
 
 ### E
 

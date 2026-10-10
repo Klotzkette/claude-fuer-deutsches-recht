@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-10",
+  "skills": {
+    "auftrag-transaktion-abgrenzen": {
+      "words": 1082
+    },
+    "befunde-qa-verfolgen": {
+      "words": 1155
+    },
+    "bilanz-finanzierung-pruefen": {
+      "words": 1094
+    },
+    "datenraum-belege-ordnen": {
+      "words": 1104
+    },
+    "due-diligence-steuern": {
+      "words": 1073
+    },
+    "gesellschaft-beteiligungen-pruefen": {
+      "words": 1079
+    },
+    "kaufentscheidung-absichern": {
+      "words": 1168
+    },
+    "kreditportfolio-uebertragen": {
+      "words": 1195
+    },
+    "personal-arbeitsvertraege-pruefen": {
+      "words": 1071
+    },
+    "verbraucherdarlehen-pruefen": {
+      "words": 1181
+    },
+    "vertraege-vermoegen-pruefen": {
+      "words": 1137
+    }
+  },
+  "prompts": {
+    "due-diligence-hauptproblem.md": {
+      "words": 800,
+      "utf8_bytes": 7470
+    },
+    "due-diligence-schnellstart.md": {
+      "words": 814,
+      "utf8_bytes": 7460
+    },
+    "due-diligence-werkstatt.md": {
+      "words": 5830,
+      "utf8_bytes": 51013
+    }
+  }
+}

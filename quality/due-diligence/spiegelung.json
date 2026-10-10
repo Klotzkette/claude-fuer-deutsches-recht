@@ -1,0 +1,1186 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-10",
+  "method": "Native Bestandsdateien unverändert kopiert; README und Rubrik sind neue redaktionelle Begleitdateien. Lesefassungen dürfen beim Release aus denselben Quellen neu gerendert werden.",
+  "cases": [
+    {
+      "original": "arbeitsrecht-asset-deal-50-vertraege-berlin",
+      "mirror": "dd-arbeitsvertraege-innovation-berlin",
+      "source_native_files": 110,
+      "working_files": 110,
+      "files": [
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/001_arbeitsvertrag_dr_johanna_neumann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/001_arbeitsvertrag_dr_johanna_neumann.docx",
+          "bytes": 43323,
+          "sha256": "c59035ade19ef624488e9d2d14ca9eebd8a3f5be2092a1498b0d8c2a3611bfdc",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/002_arbeitsvertrag_alexander_meyer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/002_arbeitsvertrag_alexander_meyer.docx",
+          "bytes": 44660,
+          "sha256": "846aadf51cc41225143ed2f217b5961793e423996a3c23ed8894ce229b60e902",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/003_arbeitsvertrag_ben_wagner.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/003_arbeitsvertrag_ben_wagner.docx",
+          "bytes": 44608,
+          "sha256": "129005c8c98aeafe223844c67d7a3432b2f0c9cbd5d38f88fa70a657da18dfb1",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/004_arbeitsvertrag_elias_becker.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/004_arbeitsvertrag_elias_becker.docx",
+          "bytes": 44636,
+          "sha256": "d0e909ba44104205df7b2f61266ad714c3354d564c421cf1ba7a7736944e4fc5",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/005_arbeitsvertrag_maria_schneider.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/005_arbeitsvertrag_maria_schneider.docx",
+          "bytes": 44817,
+          "sha256": "a1890d91542f6947659d04e3387c4756db858d67bb80c7012614c8ee2466463a",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/006_arbeitsvertrag_marie_mueller.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/006_arbeitsvertrag_marie_mueller.docx",
+          "bytes": 44783,
+          "sha256": "f71ed8940821b4b77eaeb2e26988619fbbffabc534f27a8238b67fc6bebca120",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/007_arbeitsvertrag_maximilian_fischer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/007_arbeitsvertrag_maximilian_fischer.docx",
+          "bytes": 44637,
+          "sha256": "aca4f19f9d2d7090010b8b6f868edad2a41a7b2e007d0b143b7fbcd43a351baf",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/008_arbeitsvertrag_paul_weber.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/008_arbeitsvertrag_paul_weber.docx",
+          "bytes": 44754,
+          "sha256": "d7f2c11d7acc77b4b42f87dafb4c72c8507498a96783a2afe1986885c984f7f5",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/009_arbeitsvertrag_sophie_schmidt.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/009_arbeitsvertrag_sophie_schmidt.docx",
+          "bytes": 44681,
+          "sha256": "c7da65e8176a8a3727108ad91cbc026d0b2a423cda567aa0dc9bee78ca8a342e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/010_arbeitsvertrag_sven_krueger.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/010_arbeitsvertrag_sven_krueger.docx",
+          "bytes": 43410,
+          "sha256": "03dff0f3812693b643582ca69da7b041fa368684b45243290fa2d9035101cefb",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/011_arbeitsvertrag_aylin_yilmaz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/011_arbeitsvertrag_aylin_yilmaz.docx",
+          "bytes": 43510,
+          "sha256": "45460e256fdf05444e261916bb7c336791dbacac6f4240473e60c4841ba05db7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/012_arbeitsvertrag_thomas_gross.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/012_arbeitsvertrag_thomas_gross.docx",
+          "bytes": 43546,
+          "sha256": "ce8930d5d9c84156de03d75a9a49b672c01b95a4f1772606efc95fb8a3401a30",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/013_arbeitsvertrag_katharina_voss.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/013_arbeitsvertrag_katharina_voss.docx",
+          "bytes": 43532,
+          "sha256": "85ddb76011e24c665b32fa82a01b7337454556200ef4c89faa988411dbe513a1",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/014_arbeitsvertrag_lina_hoffmann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/014_arbeitsvertrag_lina_hoffmann.docx",
+          "bytes": 43517,
+          "sha256": "cd32c5bafe35b907d82d05637797cb027d0c716fcfed9d9d6373415cfc0760d8",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/015_arbeitsvertrag_miriam_schulz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/015_arbeitsvertrag_miriam_schulz.docx",
+          "bytes": 43531,
+          "sha256": "ac4ad2159f2e1165aee369830ff7253f3415514a3e5fa0ceeca91789dbb296d7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/016_arbeitsvertrag_natalie_peters.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/016_arbeitsvertrag_natalie_peters.docx",
+          "bytes": 43504,
+          "sha256": "0bc83cc9bd027f3424c296e6c1964a49b4bdc98d226c3ea7df25a31fcdac4196",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/017_arbeitsvertrag_daniel_roth.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/017_arbeitsvertrag_daniel_roth.docx",
+          "bytes": 43578,
+          "sha256": "ff84ad985feeaa6d7c316d1e9ef90d62523883ab073601e94378ae4ca195b6d7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/018_arbeitsvertrag_florian_kuehn.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/018_arbeitsvertrag_florian_kuehn.docx",
+          "bytes": 43371,
+          "sha256": "591ac0c33a0cf20e9f0a55ad8e74328ab3b30b125f8d93ab83e13aa75c26c843",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/019_arbeitsvertrag_sabine_berg.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/019_arbeitsvertrag_sabine_berg.docx",
+          "bytes": 43490,
+          "sha256": "df212cedcd0e49b5c84fe78fe3f117280af5d9966d3278f00007287016f20470",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/020_arbeitsvertrag_omar_haddad.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/020_arbeitsvertrag_omar_haddad.docx",
+          "bytes": 42196,
+          "sha256": "84eee351914c54883abf5d1555d8f78f6f562ea5db2ab301aa3a3a885ba53d75",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/021_arbeitsvertrag_clara_fuchs.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/021_arbeitsvertrag_clara_fuchs.docx",
+          "bytes": 43485,
+          "sha256": "5065718f8823f21f28a517e5e3891beb10cbbe570e68bf7abb2e8750c04b1d36",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/022_arbeitsvertrag_jonas_winter.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/022_arbeitsvertrag_jonas_winter.docx",
+          "bytes": 43494,
+          "sha256": "fa354a73e1d3102c54ee1200cf73ba07dfbfaf1adfbdf7973e514f0099e8b3d4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/023_arbeitsvertrag_lea_sommer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/023_arbeitsvertrag_lea_sommer.docx",
+          "bytes": 43394,
+          "sha256": "7fa647182ab2145927565690015e0e62c5d1716860804b1f6c968ffe0f7c836b",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/024_arbeitsvertrag_pavel_novak.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/024_arbeitsvertrag_pavel_novak.docx",
+          "bytes": 42101,
+          "sha256": "075cf1c00096adc8344b22e3bb5d49c26e987514ccb6a4c78a4dc9e81f792270",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/025_arbeitsvertrag_amir_rahimi.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/025_arbeitsvertrag_amir_rahimi.docx",
+          "bytes": 42194,
+          "sha256": "672210cfdbd78719631890831276068854526572a3745e804a2308850dfa6f20",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/026_arbeitsvertrag_emily_turner.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/026_arbeitsvertrag_emily_turner.docx",
+          "bytes": 42108,
+          "sha256": "41dfa4a323612b3837a89c8cc0c90d48a78a258dab62e03d4955f8b293b6809c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/027_arbeitsvertrag_lucia_martin.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/027_arbeitsvertrag_lucia_martin.docx",
+          "bytes": 44125,
+          "sha256": "ee6e306abc9c6175814888d363a81087a72ee5355b74862d159b505842bf9367",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/028_arbeitsvertrag_jakub_kowalski.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/028_arbeitsvertrag_jakub_kowalski.docx",
+          "bytes": 42091,
+          "sha256": "e5c923d827b1d95f9d8369d1a34c06f2c301d22563acd74b61e3ea80670ab993",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/029_arbeitsvertrag_hannah_schroeder.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/029_arbeitsvertrag_hannah_schroeder.docx",
+          "bytes": 43528,
+          "sha256": "fc75989e7c3f126b6fd3d083e6c1161673dcc9ba9fc76a3c1e5d14df5e91e3c8",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/030_arbeitsvertrag_dennis_wolf.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/030_arbeitsvertrag_dennis_wolf.docx",
+          "bytes": 43354,
+          "sha256": "14a55a54f4b3f0c2d1bfc46f2caded1016b19868e611348f609619791d63d267",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/031_arbeitsvertrag_nora_brandt.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/031_arbeitsvertrag_nora_brandt.docx",
+          "bytes": 43519,
+          "sha256": "53e0bd859d6c99c3ada137d1760ec6f7003c768214d6ab5625f95e30143f02b2",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/032_arbeitsvertrag_felix_hartmann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/032_arbeitsvertrag_felix_hartmann.docx",
+          "bytes": 43510,
+          "sha256": "d5a302940fe2cdadb81f7813c8d166cd17305a837fb919c3d97b118107637004",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/033_arbeitsvertrag_robert_koch.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/033_arbeitsvertrag_robert_koch.docx",
+          "bytes": 43443,
+          "sha256": "5f99fc2695f429eb16523c4da8d3b7078bf0b8585f87a5c9964a73541cb12717",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/034_arbeitsvertrag_maja_seidel.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/034_arbeitsvertrag_maja_seidel.docx",
+          "bytes": 43513,
+          "sha256": "fc27ee5723ea53c7d14f9f6db7d8fa7a88a1b162a746aa7dfd6bc4eee44a397a",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/035_arbeitsvertrag_tim_berger.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/035_arbeitsvertrag_tim_berger.docx",
+          "bytes": 43495,
+          "sha256": "0f6eface6f6bcfe9c17da24a698e97c37c769497df23157cb204aae67d2dddf1",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/036_arbeitsvertrag_fatima_oeztuerk.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/036_arbeitsvertrag_fatima_oeztuerk.docx",
+          "bytes": 44072,
+          "sha256": "5467d335997680a8aaa56ead0111852f1696479bfda467a46392a00822a50dbf",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/037_arbeitsvertrag_anton_winkler.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/037_arbeitsvertrag_anton_winkler.docx",
+          "bytes": 43523,
+          "sha256": "4491ce7611728a3631302106dbb49fdadfd754faaefe132c177fb26b316c6bbe",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/038_arbeitsvertrag_greta_lorenz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/038_arbeitsvertrag_greta_lorenz.docx",
+          "bytes": 43532,
+          "sha256": "7f7d28cdcb7e956313af644b8922d85adefdf4be389ca4c776e95cbe851a81a9",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/039_arbeitsvertrag_leon_richter.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/039_arbeitsvertrag_leon_richter.docx",
+          "bytes": 43507,
+          "sha256": "6a9e74f647d77c193bb52e5947be534af70d4a6b5baab5aecadd0e80b6b156d3",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/040_arbeitsvertrag_isabel_schwarz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/040_arbeitsvertrag_isabel_schwarz.docx",
+          "bytes": 43389,
+          "sha256": "a56786773af17c820558077f3bd216ab57defdf14d4f8e6671827a97884b2140",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/041_arbeitsvertrag_erik_vogel.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/041_arbeitsvertrag_erik_vogel.docx",
+          "bytes": 43473,
+          "sha256": "d061bbae1c977083b4728fc61a4be079226f9178fb62a6dd874eaf997b516576",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/042_arbeitsvertrag_melanie_krause.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/042_arbeitsvertrag_melanie_krause.docx",
+          "bytes": 43457,
+          "sha256": "a052cf9ef680f5a5759bf738e65c7dc44efb8478ee77e13a8f039006537f2b49",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/043_arbeitsvertrag_yusuf_demir.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/043_arbeitsvertrag_yusuf_demir.docx",
+          "bytes": 43311,
+          "sha256": "4d86bd7687d2ae5978372e1104b97b9fafd2a6911f59df78ea0408891b45bbaa",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/044_arbeitsvertrag_carolin_schuetz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/044_arbeitsvertrag_carolin_schuetz.docx",
+          "bytes": 43480,
+          "sha256": "3c0b20e4fe993e227450f251fb41978f4b5c030a56de4e5a77d61934c2ed2f32",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/045_arbeitsvertrag_lukas_frank.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/045_arbeitsvertrag_lukas_frank.docx",
+          "bytes": 43498,
+          "sha256": "a10c09ecc5902bff76eb3c6a86ede42d8a39e918c381bee668b5d349d83d11dd",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/046_arbeitsvertrag_anja_keller.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/046_arbeitsvertrag_anja_keller.docx",
+          "bytes": 43483,
+          "sha256": "7c8ceedf355b6cddfed91bb07428b32108a0f2539837c87df39349e981ea17a6",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/047_arbeitsvertrag_nils_seifert.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/047_arbeitsvertrag_nils_seifert.docx",
+          "bytes": 43418,
+          "sha256": "e2a012a49e104fea4da01df8a2464d49d0bc9a8118f2bbde71101a136ded3a3f",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/048_arbeitsvertrag_sofia_moretti.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/048_arbeitsvertrag_sofia_moretti.docx",
+          "bytes": 42110,
+          "sha256": "2f7b0ae6d9e42e3490e77f4dc8e14fefad77d50d749bf595e2264a35d843f9e8",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/049_arbeitsvertrag_moritz_bauer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/049_arbeitsvertrag_moritz_bauer.docx",
+          "bytes": 43368,
+          "sha256": "377f988309f9e53dc34fa68c237b21d77d5e562685af0cba0fc9001ca9767999",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/050_arbeitsvertrag_bettina_lange.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/050_arbeitsvertrag_bettina_lange.docx",
+          "bytes": 43512,
+          "sha256": "1dedd2e03161f00d1ff2b0ca8a0b50c4087abb1b4e23bd9993e0a00ca94702b7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/051_dienstvertrag_matthias_seifert.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/051_dienstvertrag_matthias_seifert.docx",
+          "bytes": 41053,
+          "sha256": "458ce8ac8215fc4f07a89d827a2d12383c66a83770ca86265a8691f616a3bc97",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/052_dienstvertrag_charlotte_reuter.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/052_dienstvertrag_charlotte_reuter.docx",
+          "bytes": 41033,
+          "sha256": "3599612a5c7a391c44bfe39f7fa2ad75aa583bf1041797b6a0b6be31c2d1ccbe",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/053_gesellschafterbeschluss_seifert.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/053_gesellschafterbeschluss_seifert.docx",
+          "bytes": 38531,
+          "sha256": "104042fc85edcd5056df1d784f53168fd33661463ece9b37fc12977afcaba951",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/054_gesellschafterbeschluss_reuter.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/054_gesellschafterbeschluss_reuter.docx",
+          "bytes": 38531,
+          "sha256": "5b8ef7bb2e9b9cc128290f6ea9c39f9f9c9fb0ac692bf6628791ae883aec4180",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/055_gesellschafterbestand.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/055_gesellschafterbestand.docx",
+          "bytes": 38561,
+          "sha256": "a794e61b748d14f2dfb42b7b5e4d3fe320f70754893b1f7f6f90a7c44c797e81",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/056_statusbescheid_matthias_seifert.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/056_statusbescheid_matthias_seifert.docx",
+          "bytes": 38782,
+          "sha256": "dd8eece3bea2d56ad3ddded9c7187086dcb49e486c3cc8d82bec565976e35a49",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/060_mandatsanschreiben_08_09_2026.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/060_mandatsanschreiben_08_09_2026.docx",
+          "bytes": 39023,
+          "sha256": "14a4e2ddfdd4426caed231ec9a999e0a8f7fbd3f90e93e4669f628d5a2dcb767",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/061_eroeffnungsbeschluss.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/061_eroeffnungsbeschluss.docx",
+          "bytes": 38944,
+          "sha256": "c47e4f1aa1b82105aa62e46372dacbc20d98c8d298b9643ecfbd8aba46fee34b",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/062_vorlaeufige_verwaltung.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/062_vorlaeufige_verwaltung.docx",
+          "bytes": 38695,
+          "sha256": "1542ec0ee9fd0f3249dc7559a84f1535b21e49a5bd7ed1154d04aa8f3c4f3cc7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/063_antrag_geschaeftsfuehrung.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/063_antrag_geschaeftsfuehrung.docx",
+          "bytes": 38907,
+          "sha256": "12cf91eba65e755aa3d1dfc306a0cfd57445363db780fd01d519e8992da1b370",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/064_absichtserklaerung_asset_deal.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/064_absichtserklaerung_asset_deal.docx",
+          "bytes": 39631,
+          "sha256": "b03a45f75b898ae92e867425455f6964fc85a1bb282e5c68441fed321cab4ccb",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/066_unterrichtung_betriebsrat.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/066_unterrichtung_betriebsrat.docx",
+          "bytes": 38747,
+          "sha256": "284c93ea0cd9252cde7d384314582703f94d0c024b3d8bee470ca198aae64d63",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/067_besprechung_betriebsrat.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/067_besprechung_betriebsrat.docx",
+          "bytes": 38965,
+          "sha256": "b4aaa25200d2a8802c633ecbf0dbde40530530d60d9e0e51800318f6da036f6c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/068_betriebsratswahl.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/068_betriebsratswahl.docx",
+          "bytes": 38483,
+          "sha256": "b3aa03badf10747237d89240f3b2490997130afd17dd290c6f3a170fc52ba2a3",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/069_schwerbehindertenvertretung.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/069_schwerbehindertenvertretung.docx",
+          "bytes": 38692,
+          "sha256": "6278e04e58853b7644e7e5ac978c39297aa486e6127f18dc1c3c024575383fc4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/070_kuendigung_dennis_wolf.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/070_kuendigung_dennis_wolf.docx",
+          "bytes": 38641,
+          "sha256": "90a2fe1183cfe2762d4d5195bb64998a2235127f7f95e1ad520fb786874d9fa9",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/071_zugang_kuendigung_wolf.txt",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/071_zugang_kuendigung_wolf.txt",
+          "bytes": 959,
+          "sha256": "6e194b85ffaf0b26b2d63d0b217943feaf5925690cf2a6031094ff9a7acaee06",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/072_anhoerung_betriebsrat_wolf.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/072_anhoerung_betriebsrat_wolf.docx",
+          "bytes": 38732,
+          "sha256": "a495a3666c0984e1b0d7631b1352c992c86e5c39b16291c204cb92cfa21ff4e4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/073_arbeitsgericht_termin_wolf.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/073_arbeitsgericht_termin_wolf.docx",
+          "bytes": 38612,
+          "sha256": "b66018908fa81c97cc5d8f08c12ddc4ef5b7f14ca69d595972678d4d80c04745",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/074_bescheinigung_hoffmann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/074_bescheinigung_hoffmann.docx",
+          "bytes": 38586,
+          "sha256": "2913d2366403ee0cf978469939403a866c65228cccb739ef9fec1ef21fd2f39c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/075_gefaehrdungsbeurteilung_hoffmann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/075_gefaehrdungsbeurteilung_hoffmann.docx",
+          "bytes": 38897,
+          "sha256": "6d3ee3570c484b338f425fcd950e2dd913001685328474859ef82595cc8291f2",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/076_einsatzentscheidung_hoffmann.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/076_einsatzentscheidung_hoffmann.docx",
+          "bytes": 38632,
+          "sha256": "e20687be5b67e9bfcca88c75ca6eeea40e5207373b7a05214fe1b5e6b5cbda6d",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/077_bescheinigung_miriam_schulz.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/077_bescheinigung_miriam_schulz.docx",
+          "bytes": 38500,
+          "sha256": "11026ec2cef77411af3c91a82fb1cd0edfa8428922003bd9ecc77248af2e8461",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/078_bescheinigung_natalie_peters.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/078_bescheinigung_natalie_peters.docx",
+          "bytes": 38502,
+          "sha256": "2bc1289adf23a7a60aec485ae87db9817e85b74340af1d33f4343db83033d285",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/079_elternzeit_sabine_berg.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/079_elternzeit_sabine_berg.docx",
+          "bytes": 38538,
+          "sha256": "5447648b1a7c31dd9e1f1bb61b707270e36e6bad6f0a14bfcf70a3e96fdcd4cc",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/080_feststellung_thomas_gross.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/080_feststellung_thomas_gross.docx",
+          "bytes": 38618,
+          "sha256": "daf83c1b06bba1d85d01e0877a69a65c24c2e5bc9e04cedfd7b8d8f96ff238cc",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/081_feststellung_daniel_roth.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/081_feststellung_daniel_roth.docx",
+          "bytes": 38617,
+          "sha256": "1b66471837a793b295c72650a6642c3f8e678e1dacd46b6005300608eb0fbfe4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/082_feststellung_florian_kuehn.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/082_feststellung_florian_kuehn.docx",
+          "bytes": 38621,
+          "sha256": "ae21bab28c2ae9ceca062c9dee41009aef2f107d0c0fe93e25f21d191cc956b7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/083_gleichstellung_florian_kuehn.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/083_gleichstellung_florian_kuehn.docx",
+          "bytes": 38570,
+          "sha256": "e8815fa3022889d45ed5e35ed172b94eaa29ac33e8292c6e76c887d5d67d62d2",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/084_feststellung_nora_brandt.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/084_feststellung_nora_brandt.docx",
+          "bytes": 38619,
+          "sha256": "fa878cacefe7363c9a3721d0ceb45c416b29ad510e11e44eb512f7b184a33020",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/085_feststellung_bettina_lange.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/085_feststellung_bettina_lange.docx",
+          "bytes": 38618,
+          "sha256": "043546c6ba99c1a88ae0c666f754eb5409a6c2338095d6c860b85ad8ecb9159b",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/090_nachtrag_sommer_1.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/090_nachtrag_sommer_1.docx",
+          "bytes": 38560,
+          "sha256": "c028366b34f61ad8b0ed5287db7027c19165d3604033fca092671be7edb050af",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/091_nachtrag_sommer_2.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/091_nachtrag_sommer_2.docx",
+          "bytes": 38560,
+          "sha256": "dc66c43e802e5abcaf18e8b6114ca090e2b373df42af98f4069326b48dde6c94",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/092_nachtrag_sommer_3.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/092_nachtrag_sommer_3.docx",
+          "bytes": 38561,
+          "sha256": "ef907cbfcf212ddb4f7e5938e3eebe162bd91a117ee4c402434d9cfa2086d5ae",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/093_nachtrag_sommer_4.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/093_nachtrag_sommer_4.docx",
+          "bytes": 38562,
+          "sha256": "29d561e6fe4af3c50cf4fab4593f89337ff0c87c7ab9b92cf7bac62dcea95d92",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/095_verguetungsnachtrag_alexander_meyer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/095_verguetungsnachtrag_alexander_meyer.docx",
+          "bytes": 38543,
+          "sha256": "50eb3d2debc7b0c65194901b791b9ecb9da34ae6ea08a181dfe50b18ce3b5530",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/096_verguetungsnachtrag_maximilian_fischer.docx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/096_verguetungsnachtrag_maximilian_fischer.docx",
+          "bytes": 38548,
+          "sha256": "7224ea35841c4fbaecaab3c456d54f79398782141edb2c7dd68a7531582f7f29",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/100_email_winter_angebot.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/100_email_winter_angebot.eml",
+          "bytes": 1518,
+          "sha256": "3bfde63cdeacdaf9dd9c9e8d8711a2ceb15855af9b67383d111861d4c244c5f5",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/101_email_winter_zusage.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/101_email_winter_zusage.eml",
+          "bytes": 1254,
+          "sha256": "d813d284e05be7a33f8ef778595f7c3efbaa2383086843f56d96444988b6d5a0",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/102_email_winter_personalablage.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/102_email_winter_personalablage.eml",
+          "bytes": 1474,
+          "sha256": "9c18b1d68cc960061bf9c60124a7d4e69d41cf303e34e5cde0019e8af70c5af5",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/103_email_sommer_nachtraege.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/103_email_sommer_nachtraege.eml",
+          "bytes": 1424,
+          "sha256": "2b9615534a20b020e4e4bbe7c4b0e00cbfc1b5aad1695eb1515f353045203800",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/104_email_neumann_vertragsdatei.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/104_email_neumann_vertragsdatei.eml",
+          "bytes": 1539,
+          "sha256": "3123ab9e4bdaf0a52297d9e1db83ff959c91760727c6cf1a7cb5b5f29dd0471e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/105_portalexport_neumann.txt",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/105_portalexport_neumann.txt",
+          "bytes": 987,
+          "sha256": "a0f5759ea83befb3b85fa385513e54cc6581fab26204363a66752fc05edf0054",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/106_email_neumann_bibliothek.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/106_email_neumann_bibliothek.eml",
+          "bytes": 1585,
+          "sha256": "0c03a46c78a901c3657a4192d997e42a0f83e3ab55302f4b09c5b57602b31552",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/107_email_bank_finanzierung.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/107_email_bank_finanzierung.eml",
+          "bytes": 1586,
+          "sha256": "9ca158722c56a9e9bd1bc80a553fe4602a6ffc5f8c09f89d61714705eef20380",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/108_email_investor_absage.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/108_email_investor_absage.eml",
+          "bytes": 1478,
+          "sha256": "b6dde929edb76d36589a8bcb295785bba24d776628e8519d48d9941516c38727",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/109_email_lohnbuero_august.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/109_email_lohnbuero_august.eml",
+          "bytes": 1725,
+          "sha256": "5989118f72a33118d7b7b2e409c7b3ba2fdf0cbefe9f18d6d44862ba2966eb79",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/110_email_kaeufer_personal.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/110_email_kaeufer_personal.eml",
+          "bytes": 1724,
+          "sha256": "216b53fdd9a4762653ccb21e48ba28d671604e1c043e99163313d7da300ee1ae",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/111_email_betriebsrat_zahlungen.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/111_email_betriebsrat_zahlungen.eml",
+          "bytes": 1557,
+          "sha256": "18d22079fea9ff8b1d1e2272f34e0e3e2a0b10a4de1fefc829b16f95af728d4a",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/112_email_miriam_schutzfrist.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/112_email_miriam_schutzfrist.eml",
+          "bytes": 1444,
+          "sha256": "795edb53d6c06f33819ca1a4f88af736ee378b2dc3e94e8ed0714a7743872e56",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/113_email_omar_vertragsende.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/113_email_omar_vertragsende.eml",
+          "bytes": 1318,
+          "sha256": "524b2ce2e5e35f29b95ef53cb5084e81166605de3384ed5fd5ec868e75d7f9d5",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/114_email_urlaub_marie_mueller.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/114_email_urlaub_marie_mueller.eml",
+          "bytes": 1459,
+          "sha256": "182bfc8da91f6e2fb2ab1a89b390529736e8bc8758b6b14917e406473ed5bf02",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/115_email_wolf_betriebsrat.eml",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/115_email_wolf_betriebsrat.eml",
+          "bytes": 1562,
+          "sha256": "5201b8e58382caa15876ccf224c1ab6fd1e853c84bf14298f563838e4aacc9ff",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/116_chat_werkstatt_07_09_2026.txt",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/116_chat_werkstatt_07_09_2026.txt",
+          "bytes": 1085,
+          "sha256": "86f1ad2f32e6671826816d3b7b8aeb923bb1abe40465ab6eec4a35a073c15d5b",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/117_telefonnotiz_lohnbuero.txt",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/117_telefonnotiz_lohnbuero.txt",
+          "bytes": 1079,
+          "sha256": "d97e3dafd0fd3a3777db62540a9bdc9fc75e416a8f6a2a7a255d06c63484f2ce",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/118_kontoumsaetze_august.csv",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/118_kontoumsaetze_august.csv",
+          "bytes": 863,
+          "sha256": "09a5c109bfc6f01fc1b1c875a92fb5f36767cf3e41608c4ef2849597abf4a49c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/119_offene_lieferantenposten.csv",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/119_offene_lieferantenposten.csv",
+          "bytes": 631,
+          "sha256": "11ccd71317c1ad60225af9f2c3dbeae8c113f367e2ef46d24c9e82f5fae3a5dd",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/120_inventur_erwerbsumfang.csv",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/120_inventur_erwerbsumfang.csv",
+          "bytes": 885,
+          "sha256": "a3a99b6ee0c70a8dc8e18bd5d14cd4a07d6d1d2cd091074450aded7ce187ac44",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/121_einsatzverteilung_august.csv",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/121_einsatzverteilung_august.csv",
+          "bytes": 774,
+          "sha256": "efe971662cd3ac4a9d914d44f40d9de18d429211b94ad1faee1723efb4b82985",
+          "working_export": true
+        },
+        {
+          "original": "testakten/arbeitsrecht-asset-deal-50-vertraege-berlin/122_personal_und_abrechnung.xlsx",
+          "mirror": "testakten/dd-arbeitsvertraege-innovation-berlin/122_personal_und_abrechnung.xlsx",
+          "bytes": 20102,
+          "sha256": "fbd8b6882d1faa1cae6db1069a6648cf9f5122e3b0cf32946bf2e330012168a4",
+          "working_export": true
+        }
+      ]
+    },
+    {
+      "original": "grosskanzlei-corporate-ma-datenraum",
+      "mirror": "dd-corporate-silberfalke",
+      "source_native_files": 56,
+      "working_files": 55,
+      "files": [
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/00_kommandocenter/deal_briefing.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/00_kommandocenter/deal_briefing.docx",
+          "bytes": 40411,
+          "sha256": "f3df85c7ee708f1dd9f9d0a75c1099beabd3ae4693f81218211730f1adc67b2e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/00_kommandocenter/engagement_letter.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/00_kommandocenter/engagement_letter.docx",
+          "bytes": 40519,
+          "sha256": "f99dc2722eef431045782aa55fd884ce845be5de2b07ade88fafdf671168e193",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/00_kommandocenter/statuskarte_erwartung.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/00_kommandocenter/statuskarte_erwartung.docx",
+          "bytes": 38819,
+          "sha256": "e6b229fa76d18b4921c3670c358872469ccd9c3309211d581a18ef477f532763",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/01_intake_conflicts/conflict_sanctions_rohdaten.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/01_intake_conflicts/conflict_sanctions_rohdaten.docx",
+          "bytes": 40470,
+          "sha256": "73b71021318931d137530def3dbd0eae590e767372dc9a0526640fbef75522b4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/01_intake_conflicts/email_mandant.eml",
+          "mirror": "testakten/dd-corporate-silberfalke/01_intake_conflicts/email_mandant.eml",
+          "bytes": 2305,
+          "sha256": "0737303eb091498de1123869b2cecb14515729ffe8a3fd6fc29793d4d291d2b1",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/02_target_screening/outside_in_quellenliste.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/02_target_screening/outside_in_quellenliste.docx",
+          "bytes": 42690,
+          "sha256": "02e6e20707827938f82ac67f27e65bd8e1153a895c01f8f8b690648d7ba2e3d9",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/02_target_screening/target_pipeline.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/02_target_screening/target_pipeline.csv",
+          "bytes": 1305,
+          "sha256": "a0c677d381ca19accf907b61a34d78055008fe5924daf5c8a392d94455781429",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/03_teaser_processdocs/nda_markup_bidder.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/03_teaser_processdocs/nda_markup_bidder.docx",
+          "bytes": 39824,
+          "sha256": "83db4d9feb669f662504e6c4c9808ae7b7b8cf2f783a9e5131e24177ce199418",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/03_teaser_processdocs/process_letter_draft.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/03_teaser_processdocs/process_letter_draft.docx",
+          "bytes": 41388,
+          "sha256": "faec6c81ef4da8324473216d71d5e563ceb61db5487ba42e25412c09b5d37fae",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/04_datenraum/clean_room_log.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/04_datenraum/clean_room_log.docx",
+          "bytes": 39163,
+          "sha256": "133d558bc766aec0c163d299c91c301e4dd5dd02998f3cf7e536c67828d01f4e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/04_datenraum/gap_analysis_erwartung.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/04_datenraum/gap_analysis_erwartung.docx",
+          "bytes": 39915,
+          "sha256": "cb66df32b362952383a544d2a72d71cb2e402776818d832eeee88d933c1de55c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/04_datenraum/vdr_index.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/04_datenraum/vdr_index.csv",
+          "bytes": 3939,
+          "sha256": "7f81a30852183bfad6cc15e36cd5bfda6c4b4791afb048c233c8d10a13f153eb",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/04_datenraum/vdr_index_phase2.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/04_datenraum/vdr_index_phase2.docx",
+          "bytes": 40859,
+          "sha256": "14fc2be265f67ccc1ec5d904522b6d4ecd6102bed14c3b0374e7254899b95129",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/05_due_diligence/commercial_contracts_sample.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/05_due_diligence/commercial_contracts_sample.csv",
+          "bytes": 2195,
+          "sha256": "2c4127b2c46e0665b4efa3e761b94733fafe242b897c9745d9a9105bb8f456a9",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/05_due_diligence/dd_report_cover_executive_summary.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/05_due_diligence/dd_report_cover_executive_summary.docx",
+          "bytes": 40317,
+          "sha256": "809e6639751b5287795fc52fa4c77368f4968e554d3df774b038e1542f5f243e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/05_due_diligence/dd_scope_materiality.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/05_due_diligence/dd_scope_materiality.docx",
+          "bytes": 42230,
+          "sha256": "7f210ece87dad66ac02ee1d96eac45d1ac096a14b6adaeeb6ac681fceb7fe0a1",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/05_due_diligence/red_flag_findings.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/05_due_diligence/red_flag_findings.docx",
+          "bytes": 43195,
+          "sha256": "f622ca77c68a0148aa0eb1d878811d65b4cc9011b2cd4e15e447ca7818688f86",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/06_tabellenreview/review_grid.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/06_tabellenreview/review_grid.csv",
+          "bytes": 3353,
+          "sha256": "c55f6da28ee4e2c867f913fcc7098c8edd8d138c40370739a537e1745f686a50",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/06_tabellenreview/tabellenreview_setup.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/06_tabellenreview/tabellenreview_setup.docx",
+          "bytes": 40058,
+          "sha256": "3ef5005618dc02c88452c5d58f40289647b7a438a3de544017604443f06af0e7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/07_qa_expert_calls/email_seller_counsel_qa_antworten.eml",
+          "mirror": "testakten/dd-corporate-silberfalke/07_qa_expert_calls/email_seller_counsel_qa_antworten.eml",
+          "bytes": 2305,
+          "sha256": "67026417ea5f47e0d67e4d92903222cbbcb5aec1ca5355598ea32fa9eba89e64",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/07_qa_expert_calls/expert_call_note.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/07_qa_expert_calls/expert_call_note.docx",
+          "bytes": 40674,
+          "sha256": "dc7bbc109a37c4b3e4a38c732a1f699ac7a14d30da5ecef76147c917d736b201",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/07_qa_expert_calls/qa_register.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/07_qa_expert_calls/qa_register.csv",
+          "bytes": 3157,
+          "sha256": "d97705b06b0e55c9477a2c64e6a67bc0872119cf59053aa98ef24abc11343833",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/08_structure_umwandlung_tax/kg_check.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/08_structure_umwandlung_tax/kg_check.docx",
+          "bytes": 39812,
+          "sha256": "581e78e195e394c80b594c80c6c8e7e46ea67fbb5c7b56eccfe31eadd87e931d",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/08_structure_umwandlung_tax/structure_options.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/08_structure_umwandlung_tax/structure_options.docx",
+          "bytes": 42679,
+          "sha256": "afaa874ecb698382d4f86863cbc9c68348a3dd6816e863cf38913eabdc8ae2dc",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/08_structure_umwandlung_tax/umwandlungssteuer_matrix.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/08_structure_umwandlung_tax/umwandlungssteuer_matrix.docx",
+          "bytes": 42271,
+          "sha256": "5303c7811981047058f82d11b43e181f0929681c6dfba9ea29fd0af0c873942b",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/09_spa_markup_disclosure/disclosure_schedule_roh.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/09_spa_markup_disclosure/disclosure_schedule_roh.docx",
+          "bytes": 40779,
+          "sha256": "180b265d55bfd505d567fedeb759fc3ee14d6a7f89cc1bb38369e9377217adb7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/09_spa_markup_disclosure/knowledge_clause_varianten.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/09_spa_markup_disclosure/knowledge_clause_varianten.docx",
+          "bytes": 39913,
+          "sha256": "14555cea6a2335a6514418407fb18ec5157acc5d1ec615f90fdc3ed4a6a7f08c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/09_spa_markup_disclosure/spa_auszug_key_provisions.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/09_spa_markup_disclosure/spa_auszug_key_provisions.docx",
+          "bytes": 40483,
+          "sha256": "379f0e947713b44a18c81cf5b804478b7587e4081a5fb8ed3533c4c614d53712",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/09_spa_markup_disclosure/spa_key_issues.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/09_spa_markup_disclosure/spa_key_issues.docx",
+          "bytes": 42110,
+          "sha256": "651970c71db4f26af197480f7517552673ed151ba6a2a166205e6b5a01811a5f",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/10_signing_closing_regulatory/cp_register.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/10_signing_closing_regulatory/cp_register.csv",
+          "bytes": 1561,
+          "sha256": "5c2e5b9c782d74afa6dd6253e8e94407d59ad8fb43eee2f8ffe8c7b743b974e6",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/10_signing_closing_regulatory/ordinary_course_monitor.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/10_signing_closing_regulatory/ordinary_course_monitor.docx",
+          "bytes": 39875,
+          "sha256": "41074d2a09eec00d7d99d2daedfb94548446d01ca606e32db4b1889fcbae3157",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/10_signing_closing_regulatory/regulatory_map.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/10_signing_closing_regulatory/regulatory_map.docx",
+          "bytes": 40091,
+          "sha256": "a5ffd1d55f2e86e019b527ce18585d23366fb2766701795a1e911d03080712c8",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/10_signing_closing_regulatory/signing_closing_memo.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/10_signing_closing_regulatory/signing_closing_memo.docx",
+          "bytes": 38985,
+          "sha256": "f9f135f64cb751ccda9781e07106bdd118c7861bcb6c7e22fd4cd9795d9db5d3",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/11_public_ma_mar/insiderliste_silberfalke.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/11_public_ma_mar/insiderliste_silberfalke.docx",
+          "bytes": 40028,
+          "sha256": "e4b56d1d64dcf7b8ba277167bbe1407de1a34b5e99dc81f238600930709de45c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/11_public_ma_mar/mar_check_arbeitsfassung.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/11_public_ma_mar/mar_check_arbeitsfassung.docx",
+          "bytes": 39946,
+          "sha256": "afd6154c8ae5428de6acaba2596b505166a9d51191ff95ef4868e4729b02b14a",
+          "working_export": false
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/11_public_ma_mar/mar_praentiv_memo.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/11_public_ma_mar/mar_praentiv_memo.docx",
+          "bytes": 38705,
+          "sha256": "0b490f3ef34f6d1d07d2f846ad037844f36c453f1ad64f231dceafecbced6f44",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/11_public_ma_mar/wpueg_not_applicable_note.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/11_public_ma_mar/wpueg_not_applicable_note.docx",
+          "bytes": 38496,
+          "sha256": "7a9d91c7e916f9b26166d2aa51566b8f341d01c5251f799415221b2208a83209",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/12_restructuring_starug/insolvenzplan_option.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/12_restructuring_starug/insolvenzplan_option.docx",
+          "bytes": 39374,
+          "sha256": "745a215a5a19d75a0962eb59eb8664ff88886358816595892095ecaee4f5653d",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/12_restructuring_starug/starug_shadow_case.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/12_restructuring_starug/starug_shadow_case.docx",
+          "bytes": 41427,
+          "sha256": "3e273a94e4d62c93626501dd496e289f4d1b9d23c59cbae108a34a61d62709ae",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/13_wi_insurance/ai_dd_transparency_log.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/13_wi_insurance/ai_dd_transparency_log.docx",
+          "bytes": 39680,
+          "sha256": "a21e6c77d3e450d8acf58974797065575b6478b81a8a764be58ba6037f4e3c60",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/13_wi_insurance/wi_underwriting_pack.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/13_wi_insurance/wi_underwriting_pack.docx",
+          "bytes": 39845,
+          "sha256": "be607b53683da225901a72bf91500f3754e36f4c876330932083483229ddd6e7",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/13_wi_insurance/wi_versicherungs_memo.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/13_wi_insurance/wi_versicherungs_memo.docx",
+          "bytes": 38828,
+          "sha256": "de23a75b5c67f467f7d885c31b8067354523c97c4937ba550e6203a08785d62e",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/14_pmi/pmi_100_day_plan.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/14_pmi/pmi_100_day_plan.docx",
+          "bytes": 41485,
+          "sha256": "daf991883acfc1cce030fcae337c8a50dd4ad8a020c557c1b397d9d19bcda989",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/14_pmi/synergy_tracker.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/14_pmi/synergy_tracker.csv",
+          "bytes": 1227,
+          "sha256": "06df08926baaddbe63a991533e3086cf19ae046b7900193df5330e24867ba5da",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/15_board_billing_archive/billing_narratives.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/15_board_billing_archive/billing_narratives.csv",
+          "bytes": 1653,
+          "sha256": "b6a96cdc2d9f3ca6d38d90540e005e91bc1a94350e96cefaafd4e5cf6699dd4c",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/15_board_billing_archive/board_paper_outline.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/15_board_billing_archive/board_paper_outline.docx",
+          "bytes": 39994,
+          "sha256": "43adaf31767b29bc4e8422277f58d531ce477c31c95bf1c056fecd3aa7966447",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/15_board_billing_archive/closing_bible_index.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/15_board_billing_archive/closing_bible_index.docx",
+          "bytes": 39047,
+          "sha256": "636f5a8585f70a85ab2ca1079a37f93cf02c0d9824d6faa0fef95b51e31ec3b4",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/16_freestanding_core/aktenanlage_erwartung.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/16_freestanding_core/aktenanlage_erwartung.docx",
+          "bytes": 41170,
+          "sha256": "091495de4c60b03c14ff4a892fbc0e27c8ff981c929eb9150ed8118ed852d687",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/16_freestanding_core/deal_folder_structure.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/16_freestanding_core/deal_folder_structure.docx",
+          "bytes": 38595,
+          "sha256": "514be93e0d2799dd7827dcfda416f1650337cc04ad65d48bb6bc5bd3a0695927",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/16_freestanding_core/freestanding_selftest.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/16_freestanding_core/freestanding_selftest.docx",
+          "bytes": 38997,
+          "sha256": "ef5d2f2c6ff3c73fe27243e90a12c6cbd9a6d8ca8b2bf554222e98832d6f7b6f",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/17_liquiditaet_insolvenz/cash_bridge_13_wochen.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/17_liquiditaet_insolvenz/cash_bridge_13_wochen.csv",
+          "bytes": 1053,
+          "sha256": "2cbb13044fe97826e3d3d24bc399d64d010bdfa1789748dfb9ec42346018ae80",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/17_liquiditaet_insolvenz/insolvenzreife_check.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/17_liquiditaet_insolvenz/insolvenzreife_check.docx",
+          "bytes": 38866,
+          "sha256": "18c1c6957b7381f2eafe43a3ece83a935285e1ba7a34e88892716f87aeb69f45",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/17_liquiditaet_insolvenz/insolvenzreife_check_rohdaten.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/17_liquiditaet_insolvenz/insolvenzreife_check_rohdaten.docx",
+          "bytes": 41455,
+          "sha256": "3432f54fd01ebb3a6c390d86f485100494738152de4c1556968964a57522f1b6",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/17_liquiditaet_insolvenz/liquiditaetsvorschau_3_wochen.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/17_liquiditaet_insolvenz/liquiditaetsvorschau_3_wochen.docx",
+          "bytes": 41053,
+          "sha256": "c8ccdbb5586a0570b9fd3cae1d6c7b377ba55ba1b60a266dd4b17db62be2c3ed",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/18_billing_gobd/erechnung_erwartung.docx",
+          "mirror": "testakten/dd-corporate-silberfalke/18_billing_gobd/erechnung_erwartung.docx",
+          "bytes": 40281,
+          "sha256": "3b33f094fbbeb18a89d9caf21bbd88bfee38db1cecc36cb0a87c8756d671c4a0",
+          "working_export": true
+        },
+        {
+          "original": "testakten/grosskanzlei-corporate-ma-datenraum/18_billing_gobd/zeitnachweise_roh.csv",
+          "mirror": "testakten/dd-corporate-silberfalke/18_billing_gobd/zeitnachweise_roh.csv",
+          "bytes": 1597,
+          "sha256": "55fd25ac2052071543e3382cc214086cc4d6d3f3af29e79e37d7658816584cfe",
+          "working_export": true
+        }
+      ]
+    }
+  ],
+  "source_commit": "14df90b4ecbe5ddb4cc81e8e815e840ddfbd4d07"
+}

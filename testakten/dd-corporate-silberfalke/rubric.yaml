@@ -1,0 +1,261 @@
+name: DD – Corporate Silberfalke
+plugin: due-diligence
+stand: '2026-10-10'
+description: Bestandsprüfung von 55 Arbeitsoriginalen und konkrete offene Fachkriterien für die Due Diligence.
+pruefstatus: Bestandsprüfung und technische Rechenprüfung sind keine juristische Freigabe einer späteren Bearbeitung.
+checks:
+- id: original-001
+  check_type: file_exists
+  description: Arbeitsoriginal deal_briefing.docx ist vorhanden.
+  path: 00_kommandocenter/deal_briefing.docx
+- id: original-002
+  check_type: file_exists
+  description: Arbeitsoriginal engagement_letter.docx ist vorhanden.
+  path: 00_kommandocenter/engagement_letter.docx
+- id: original-003
+  check_type: file_exists
+  description: Arbeitsoriginal statuskarte_erwartung.docx ist vorhanden.
+  path: 00_kommandocenter/statuskarte_erwartung.docx
+- id: original-004
+  check_type: file_exists
+  description: Arbeitsoriginal conflict_sanctions_rohdaten.docx ist vorhanden.
+  path: 01_intake_conflicts/conflict_sanctions_rohdaten.docx
+- id: original-005
+  check_type: file_exists
+  description: Arbeitsoriginal email_mandant.eml ist vorhanden.
+  path: 01_intake_conflicts/email_mandant.eml
+- id: original-006
+  check_type: file_exists
+  description: Arbeitsoriginal outside_in_quellenliste.docx ist vorhanden.
+  path: 02_target_screening/outside_in_quellenliste.docx
+- id: original-007
+  check_type: file_exists
+  description: Arbeitsoriginal target_pipeline.csv ist vorhanden.
+  path: 02_target_screening/target_pipeline.csv
+- id: original-008
+  check_type: file_exists
+  description: Arbeitsoriginal nda_markup_bidder.docx ist vorhanden.
+  path: 03_teaser_processdocs/nda_markup_bidder.docx
+- id: original-009
+  check_type: file_exists
+  description: Arbeitsoriginal process_letter_draft.docx ist vorhanden.
+  path: 03_teaser_processdocs/process_letter_draft.docx
+- id: original-010
+  check_type: file_exists
+  description: Arbeitsoriginal clean_room_log.docx ist vorhanden.
+  path: 04_datenraum/clean_room_log.docx
+- id: original-011
+  check_type: file_exists
+  description: Arbeitsoriginal gap_analysis_erwartung.docx ist vorhanden.
+  path: 04_datenraum/gap_analysis_erwartung.docx
+- id: original-012
+  check_type: file_exists
+  description: Arbeitsoriginal vdr_index.csv ist vorhanden.
+  path: 04_datenraum/vdr_index.csv
+- id: original-013
+  check_type: file_exists
+  description: Arbeitsoriginal vdr_index_phase 2.docx ist vorhanden.
+  path: 04_datenraum/vdr_index_phase2.docx
+- id: original-014
+  check_type: file_exists
+  description: Arbeitsoriginal commercial_contracts_sample.csv ist vorhanden.
+  path: 05_due_diligence/commercial_contracts_sample.csv
+- id: original-015
+  check_type: file_exists
+  description: Arbeitsoriginal dd_report_cover_executive_summary.docx ist vorhanden.
+  path: 05_due_diligence/dd_report_cover_executive_summary.docx
+- id: original-016
+  check_type: file_exists
+  description: Arbeitsoriginal dd_scope_materiality.docx ist vorhanden.
+  path: 05_due_diligence/dd_scope_materiality.docx
+- id: original-017
+  check_type: file_exists
+  description: Arbeitsoriginal red_flag_findings.docx ist vorhanden.
+  path: 05_due_diligence/red_flag_findings.docx
+- id: original-018
+  check_type: file_exists
+  description: Arbeitsoriginal review_grid.csv ist vorhanden.
+  path: 06_tabellenreview/review_grid.csv
+- id: original-019
+  check_type: file_exists
+  description: Arbeitsoriginal tabellenreview_setup.docx ist vorhanden.
+  path: 06_tabellenreview/tabellenreview_setup.docx
+- id: original-020
+  check_type: file_exists
+  description: Arbeitsoriginal email_seller_counsel_qa_antworten.eml ist vorhanden.
+  path: 07_qa_expert_calls/email_seller_counsel_qa_antworten.eml
+- id: original-021
+  check_type: file_exists
+  description: Arbeitsoriginal expert_call_note.docx ist vorhanden.
+  path: 07_qa_expert_calls/expert_call_note.docx
+- id: original-022
+  check_type: file_exists
+  description: Arbeitsoriginal qa_register.csv ist vorhanden.
+  path: 07_qa_expert_calls/qa_register.csv
+- id: original-023
+  check_type: file_exists
+  description: Arbeitsoriginal kg_check.docx ist vorhanden.
+  path: 08_structure_umwandlung_tax/kg_check.docx
+- id: original-024
+  check_type: file_exists
+  description: Arbeitsoriginal structure_options.docx ist vorhanden.
+  path: 08_structure_umwandlung_tax/structure_options.docx
+- id: original-025
+  check_type: file_exists
+  description: Arbeitsoriginal umwandlungssteuer_matrix.docx ist vorhanden.
+  path: 08_structure_umwandlung_tax/umwandlungssteuer_matrix.docx
+- id: original-026
+  check_type: file_exists
+  description: Arbeitsoriginal disclosure_schedule_roh.docx ist vorhanden.
+  path: 09_spa_markup_disclosure/disclosure_schedule_roh.docx
+- id: original-027
+  check_type: file_exists
+  description: Arbeitsoriginal knowledge_clause_varianten.docx ist vorhanden.
+  path: 09_spa_markup_disclosure/knowledge_clause_varianten.docx
+- id: original-028
+  check_type: file_exists
+  description: Arbeitsoriginal spa_auszug_key_provisions.docx ist vorhanden.
+  path: 09_spa_markup_disclosure/spa_auszug_key_provisions.docx
+- id: original-029
+  check_type: file_exists
+  description: Arbeitsoriginal spa_key_issues.docx ist vorhanden.
+  path: 09_spa_markup_disclosure/spa_key_issues.docx
+- id: original-030
+  check_type: file_exists
+  description: Arbeitsoriginal cp_register.csv ist vorhanden.
+  path: 10_signing_closing_regulatory/cp_register.csv
+- id: original-031
+  check_type: file_exists
+  description: Arbeitsoriginal ordinary_course_monitor.docx ist vorhanden.
+  path: 10_signing_closing_regulatory/ordinary_course_monitor.docx
+- id: original-032
+  check_type: file_exists
+  description: Arbeitsoriginal regulatory_map.docx ist vorhanden.
+  path: 10_signing_closing_regulatory/regulatory_map.docx
+- id: original-033
+  check_type: file_exists
+  description: Arbeitsoriginal signing_closing_memo.docx ist vorhanden.
+  path: 10_signing_closing_regulatory/signing_closing_memo.docx
+- id: original-034
+  check_type: file_exists
+  description: Arbeitsoriginal insiderliste_silberfalke.docx ist vorhanden.
+  path: 11_public_ma_mar/insiderliste_silberfalke.docx
+- id: original-035
+  check_type: file_exists
+  description: Arbeitsoriginal mar_praentiv_memo.docx ist vorhanden.
+  path: 11_public_ma_mar/mar_praentiv_memo.docx
+- id: original-036
+  check_type: file_exists
+  description: Arbeitsoriginal wpueg_not_applicable_note.docx ist vorhanden.
+  path: 11_public_ma_mar/wpueg_not_applicable_note.docx
+- id: original-037
+  check_type: file_exists
+  description: Arbeitsoriginal insolvenzplan_option.docx ist vorhanden.
+  path: 12_restructuring_starug/insolvenzplan_option.docx
+- id: original-038
+  check_type: file_exists
+  description: Arbeitsoriginal starug_shadow_case.docx ist vorhanden.
+  path: 12_restructuring_starug/starug_shadow_case.docx
+- id: original-039
+  check_type: file_exists
+  description: Arbeitsoriginal ai_dd_transparency_log.docx ist vorhanden.
+  path: 13_wi_insurance/ai_dd_transparency_log.docx
+- id: original-040
+  check_type: file_exists
+  description: Arbeitsoriginal wi_underwriting_pack.docx ist vorhanden.
+  path: 13_wi_insurance/wi_underwriting_pack.docx
+- id: original-041
+  check_type: file_exists
+  description: Arbeitsoriginal wi_versicherungs_memo.docx ist vorhanden.
+  path: 13_wi_insurance/wi_versicherungs_memo.docx
+- id: original-042
+  check_type: file_exists
+  description: Arbeitsoriginal pmi_100_day_plan.docx ist vorhanden.
+  path: 14_pmi/pmi_100_day_plan.docx
+- id: original-043
+  check_type: file_exists
+  description: Arbeitsoriginal synergy_tracker.csv ist vorhanden.
+  path: 14_pmi/synergy_tracker.csv
+- id: original-044
+  check_type: file_exists
+  description: Arbeitsoriginal billing_narratives.csv ist vorhanden.
+  path: 15_board_billing_archive/billing_narratives.csv
+- id: original-045
+  check_type: file_exists
+  description: Arbeitsoriginal board_paper_outline.docx ist vorhanden.
+  path: 15_board_billing_archive/board_paper_outline.docx
+- id: original-046
+  check_type: file_exists
+  description: Arbeitsoriginal closing_bible_index.docx ist vorhanden.
+  path: 15_board_billing_archive/closing_bible_index.docx
+- id: original-047
+  check_type: file_exists
+  description: Arbeitsoriginal aktenanlage_erwartung.docx ist vorhanden.
+  path: 16_freestanding_core/aktenanlage_erwartung.docx
+- id: original-048
+  check_type: file_exists
+  description: Arbeitsoriginal deal_folder_structure.docx ist vorhanden.
+  path: 16_freestanding_core/deal_folder_structure.docx
+- id: original-049
+  check_type: file_exists
+  description: Arbeitsoriginal freestanding_selftest.docx ist vorhanden.
+  path: 16_freestanding_core/freestanding_selftest.docx
+- id: original-050
+  check_type: file_exists
+  description: Arbeitsoriginal cash_bridge_13_wochen.csv ist vorhanden.
+  path: 17_liquiditaet_insolvenz/cash_bridge_13_wochen.csv
+- id: original-051
+  check_type: file_exists
+  description: Arbeitsoriginal insolvenzreife_check.docx ist vorhanden.
+  path: 17_liquiditaet_insolvenz/insolvenzreife_check.docx
+- id: original-052
+  check_type: file_exists
+  description: Arbeitsoriginal insolvenzreife_check_rohdaten.docx ist vorhanden.
+  path: 17_liquiditaet_insolvenz/insolvenzreife_check_rohdaten.docx
+- id: original-053
+  check_type: file_exists
+  description: Arbeitsoriginal liquiditaetsvorschau_3_wochen.docx ist vorhanden.
+  path: 17_liquiditaet_insolvenz/liquiditaetsvorschau_3_wochen.docx
+- id: original-054
+  check_type: file_exists
+  description: Arbeitsoriginal erechnung_erwartung.docx ist vorhanden.
+  path: 18_billing_gobd/erechnung_erwartung.docx
+- id: original-055
+  check_type: file_exists
+  description: Arbeitsoriginal zeitnachweise_roh.csv ist vorhanden.
+  path: 18_billing_gobd/zeitnachweise_roh.csv
+- id: fach-01
+  check_type: human_review
+  description: Werden vorhandene alte DD-Berichte, Erwartungskarten und Lösungsteile als Arbeitsmeinungen erkannt
+    und Originalbelege selbst geprüft?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-02
+  check_type: human_review
+  description: Wird die Beteiligungskette aus Satzung, Liste, Erwerbsurkunden und Beschlüssen rekonstruiert und
+    fehlende Vertretung nicht erfunden?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-03
+  check_type: human_review
+  description: Werden Finanzierung, Sicherheiten, gesellschaftsrechtliche Zustimmung und Verfügungsbefugnis getrennt
+    beurteilt?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-04
+  check_type: human_review
+  description: Werden Bilanzzahlen mit Belegen und Stichtag verknüpft und Buchwert, Liquidität sowie Kaufpreisdefinition
+    unterschieden?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-05
+  check_type: human_review
+  description: Werden Datenraumzeitpunkt, konkrete Frage und Auffindbarkeit wesentlicher Risiken mit begrenztem
+    Rechtsprechungsbezug dokumentiert?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-06
+  check_type: human_review
+  description: Führt das Ergebnis zu vollständigen Q&A-Texten, Kaufvertragsänderungen und Vollzugsbedingungen statt
+    bloßer Ampel?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-07
+  check_type: human_review
+  description: Bleiben ursprüngliche Akte und gespiegelte Arbeitsoriginale unverändert, während neue Ergebnisse
+    in einem getrennten Ausgabeordner entstehen?
+  note: Offene Fachprüfung einer später erzeugten Bearbeitung; kein automatisch bestandenes Ergebnis.

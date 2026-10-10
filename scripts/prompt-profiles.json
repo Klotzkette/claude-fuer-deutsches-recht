@@ -592,6 +592,19 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "due-diligence": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }
