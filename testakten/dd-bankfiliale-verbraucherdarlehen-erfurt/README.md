@@ -30,9 +30,9 @@ Die PDF-Briefe verwenden die PDF-Standardschrift Times. Word ist auf Times New R
 
 | Fassung | Download |
 | --- | --- |
-| Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) · [Repositoryfassung](gesamt-pdf/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) |
-| Originaldateien | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt.zip) |
-| Einzel-PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt-einzelpdfs.zip) |
+| Gesamt-PDF | [Gesamte Akte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) · [Repositoryfassung](gesamt-pdf/dd-bankfiliale-verbraucherdarlehen-erfurt_gesamt.pdf) |
+| Originaldateien | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt.zip) |
+| Einzel-PDFs | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-bankfiliale-verbraucherdarlehen-erfurt-einzelpdfs.zip) |
 
 <!-- END gesamt-pdf-section (autogen) -->
 

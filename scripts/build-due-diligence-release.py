@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Baut Due Diligence 1.0.0 aus elf Skills, drei Prompts und drei Testakten.
+"""Baut Due Diligence 1.0.1 aus elf Skills, drei Prompts und drei Testakten.
 
 Word-Unterlagen und gespiegelte Office-Dateien werden nativ mit LibreOffice
 gerendert. Die Bank-XLSX erhält eine lesbare Druckansicht aus geprüften
@@ -31,7 +31,7 @@ from testakte_office_pdf import office_binary, valid_office_container
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = 'due-diligence'
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 CASES = ('dd-arbeitsvertraege-innovation-berlin', 'dd-corporate-silberfalke',
          'dd-bankfiliale-verbraucherdarlehen-erfurt')
 KINDS = ('werkstatt', 'schnellstart', 'hauptproblem')
@@ -92,7 +92,7 @@ def render_prompt(source, target):
     flow = render.md_to_flowables(source.read_text(encoding='utf-8'))
     def footer(canvas, document):
         canvas.setFont('DD-Regular', 8)
-        canvas.drawString(55, 27, f'Due Diligence 1.0.0 | {font_label} 11 pt')
+        canvas.drawString(55, 27, f'Due Diligence 1.0.1 | {font_label} 11 pt')
         canvas.drawRightString(A4[0] - 55, 27, str(document.page))
     doc = SimpleDocTemplate(str(target), pagesize=A4, leftMargin=55, rightMargin=55,
                            topMargin=50, bottomMargin=50, invariant=1,

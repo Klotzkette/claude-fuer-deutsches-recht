@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag due-diligence-v1.0.0
+        description: Komponententag due-diligence-v1.0.1
         required: true
-        default: due-diligence-v1.0.0
+        default: due-diligence-v1.0.1
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -40,7 +40,7 @@ jobs:
           fc-cache -f
       - name: Quellen und unveränderte Spiegelung prüfen
         run: |
-          test "$TAG" = 'due-diligence-v1.0.0'
+          test "$TAG" = 'due-diligence-v1.0.1'
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
@@ -95,7 +95,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder verweist auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Due Diligence 1.0.0',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Due Diligence 1.0.1',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           for delay in (0, 2, 4, 8, 16):
               if delay:

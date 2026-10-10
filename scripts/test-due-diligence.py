@@ -96,7 +96,7 @@ class DueDiligenceTests(unittest.TestCase):
         manifests = [json.loads((PLUGIN / p).read_text()) for p in
                      ('plugin.json', '.claude-plugin/plugin.json', '.codex-plugin/plugin.json')]
         self.assertEqual({(m['name'], m['version'], m['description']) for m in manifests},
-                         {(NAME, '1.0.0', manifests[0]['description'])})
+                         {(NAME, '1.0.1', manifests[0]['description'])})
         skills = sorted((PLUGIN / 'skills').glob('*/SKILL.md'))
         self.assertEqual(len(skills), 11)
         for skill in skills:
@@ -112,6 +112,20 @@ class DueDiligenceTests(unittest.TestCase):
             for target in re.findall(r'\]\(([^ )]+)\)', text):
                 if not target.startswith(('http:', 'https:', '#')):
                     self.assertTrue((skill.parent / target.split('#')[0]).exists(), f'{skill}: {target}')
+
+    def test_commands_have_manufacturer_metadata_and_accept_arguments(self):
+        names = {'dd', 'dd-schnellpruefung', 'dd-rueckfragen', 'dd-entscheidung'}
+        commands = sorted((PLUGIN / 'commands').glob('*.md'))
+        self.assertEqual({path.stem for path in commands}, names)
+        for path in commands:
+            text = path.read_text()
+            self.assertTrue(text.startswith('---\n'), str(path))
+            metadata = yaml.safe_load(text.split('---', 2)[1])
+            self.assertIsInstance(metadata, dict, str(path))
+            self.assertIsInstance(metadata.get('description'), str, str(path))
+            self.assertTrue(metadata['description'].strip(), str(path))
+            self.assertIsInstance(metadata.get('argument-hint'), str, str(path))
+            self.assertIn('$ARGUMENTS', text.split('---', 2)[2], str(path))
 
     def test_plugin_links_are_self_contained(self):
         for path in PLUGIN.rglob('*.md'):
@@ -174,7 +188,7 @@ class DueDiligenceTests(unittest.TestCase):
             for line in (NOTICE_DE, NOTICE_EN):
                 if line.strip():
                     self.assertIn(line.strip(), readme, case)
-            self.assertIn('due-diligence-v1.0.0', readme, case)
+            self.assertIn('due-diligence-v1.0.1', readme, case)
             for suffix in ('.zip', '-einzelpdfs.zip', '_gesamt.pdf'):
                 self.assertIn(case + suffix, readme, case)
 
@@ -260,10 +274,10 @@ class DueDiligenceTests(unittest.TestCase):
             self.assertEqual(formulas['Buchungen'][f'M{row}'].data_type, 'f')
 
     def test_component_routes_do_not_displace_existing_case_downloads(self):
-        self.assertIn('/due-diligence-v1.0.0/', plugin_asset_url(NAME))
+        self.assertIn('/due-diligence-v1.0.1/', plugin_asset_url(NAME))
         for case in CASES:
             for suffix in ('', '-einzelpdfs'):
-                self.assertIn('/due-diligence-v1.0.0/', case_asset_url(case, suffix))
+                self.assertIn('/due-diligence-v1.0.1/', case_asset_url(case, suffix))
         for case in ('weg-lindenhof-jahresabrechnung-2025', 'weg-sonnenwinkel-bettwanzen', 'weg-spreebogen-mieterumlage-belege'):
             for suffix in ('', '-einzelpdfs'):
                 self.assertIn('/akten-v445.35.3/', case_asset_url(case, suffix))

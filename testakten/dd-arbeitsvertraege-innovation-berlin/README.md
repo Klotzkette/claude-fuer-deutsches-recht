@@ -26,9 +26,9 @@ Nutzen Sie für einen Prüflauf entweder die Originaldateien, die Einzel-PDFs od
 
 | Format | Datei |
 | --- | --- |
-| Originaldateien mit zusätzlicher Lesefassung | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/testakte-dd-arbeitsvertraege-innovation-berlin.zip) |
-| Jede Unterlage als PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/testakte-dd-arbeitsvertraege-innovation-berlin-einzelpdfs.zip) |
-| Durchgehende Lesefassung | [Gesamt-PDF](gesamt-pdf/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf) · [Release-Fassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.0/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf) |
+| Originaldateien mit zusätzlicher Lesefassung | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-arbeitsvertraege-innovation-berlin.zip) |
+| Jede Unterlage als PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/testakte-dd-arbeitsvertraege-innovation-berlin-einzelpdfs.zip) |
+| Durchgehende Lesefassung | [Gesamt-PDF](gesamt-pdf/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf) · [Release-Fassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/due-diligence-v1.0.1/dd-arbeitsvertraege-innovation-berlin_gesamt.pdf) |
 
 <!-- END gesamt-pdf-section (autogen) -->
 

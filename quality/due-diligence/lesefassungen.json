@@ -32,7 +32,7 @@
       "minimum_text_size_pt": 8.0,
       "outside_text_pages": [],
       "replacement_glyph_pages": [],
-      "sha256": "30199e0f310cb88f69369362eeeca4be3f5e92b11590f94f915768c455630bb4"
+      "sha256": "1a02a7fe5e218d112da24c788cb31161247d6049311081384540a1423d9d7651"
     },
     {
       "file": "due-diligence-schnellstart.pdf",
@@ -40,7 +40,7 @@
       "minimum_text_size_pt": 8.0,
       "outside_text_pages": [],
       "replacement_glyph_pages": [],
-      "sha256": "20b11630d894ba66e2a96e79db0661f2682bcc35d4bed397145b7ed6529816c5"
+      "sha256": "2a8db7e7cb7f91f1efe1134bfd83d1f1500a97a2fbed688ead7a30fb5de0a386"
     },
     {
       "file": "due-diligence-werkstatt.pdf",
@@ -48,7 +48,7 @@
       "minimum_text_size_pt": 8.0,
       "outside_text_pages": [],
       "replacement_glyph_pages": [],
-      "sha256": "b33c8189569b4e2b6941888fa088376d36dea3541e90f6f9a9a8f902e280d006"
+      "sha256": "b6f2cfeea318272444ba646c3a2c5a082a8b02c6eccf76b891425d377a321d29"
     }
   ]
 }
