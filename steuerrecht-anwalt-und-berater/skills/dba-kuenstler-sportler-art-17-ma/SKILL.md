@@ -94,7 +94,7 @@ Art. 17 OECD-MA weicht systematisch von den uebrigen Verteilungsartikeln ab: Ein
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **§ 50a-Anmeldung des Veranstalters**: vierteljaehrliche Anmeldung über BZSt-Online-Portal BOP (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen). Anmeldung auch bei Freistellungsbescheinigung erforderlich.
-- **Freistellungsbescheinigung BZSt vor Auftritt**: bei wiederkehrenden Tourneen oder mehreren Auftritten in DE — gilt bis zu drei Jahre. Vom Anwender mit aktuellem BZSt-Formularkatalog abzugleichen.
+- **Freistellungsbescheinigung BZSt vor Auftritt**: bei wiederkehrenden Tourneen oder mehreren Auftritten in DE — gilt höchstens fünf Jahre (§ 50c Abs. 2 Satz 4 EStG). Vom Anwender mit aktuellem BZSt-Formularkatalog abzugleichen.
 - **Ansaessigkeitsbescheinigung des Heimatstaats**: IRS Form 6166 (US-Kuenstler), HMRC (UK-Bands), franzoesische Attestation de Residence Fiscale — Bearbeitung 4-8 Wochen, oft auch waehrend Tournee parallel.
 - **Werbungskosten / Betriebsausgaben sammeln**: Nettoabzug § 50a Abs. 3 EStG nur, wenn vorab nachgewiesen — Sammlung Hotel, Reise, Gage Crew, Equipment-Miete, Booking-Agency-Provision. Pauschalisierungs-Trick scheitert in Praxis.
 - **Bagatellklauseln im konkreten DBA prüfen**: viele DBA enthalten Befreiungen bei Kulturaustausch (öffentliche Förderung) oder Schwellenwerten. Bei US-Auftritten von DE-Kuenstlern: DBA-USA Art. 17 mit Bagatellklausel beachten (Schwelle vom Anwender mit aktuellem DBA-Text zu verifizieren).

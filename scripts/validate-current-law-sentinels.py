@@ -1937,6 +1937,24 @@ SENTINELS += (
         "falsch zugeordneter Vorsteueranker V R 20/11",
         re.compile(r"V\s+R\s+20/11.{0,100}Vorsteuerabzug\s+verlangt", re.IGNORECASE),
     ),
+    Sentinel(
+        "weggefallene Lizenzschranke Paragraf 4j EStG ohne Altstandskennzeichnung",
+        re.compile(
+            r"\b4j\s+(?:EStG|des\s+Einkommensteuergesetzes)\b"
+            r"(?!\s*(?:a[.]?\s?F[.]?|alt|[(,;:–-]?\s*(?:weggefallen|aufgehoben)))",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "veraltete Höchstdauer der Freistellungsbescheinigung (drei statt fünf Jahre)",
+        re.compile(
+            r"^(?=[^\n]*Freistellungsbescheinigung)"
+            r"(?![^\n]*(?:48b|Bauleistung|Bauabzug|44a|NV-Bescheinigung|"
+            r"Nichtveranlagung|(?:fünf|5)\s+Jahre))"
+            r"[^\n]*\b(?:drei|3)(?:\s+Jahren?\b|-Jahres-Geltung)",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
 )
 SENTINEL_HINTS += (
     ("49a",),
@@ -1944,6 +1962,8 @@ SENTINEL_HINTS += (
     ("rabatt",),
     ("153a",),
     ("v r 20/11",),
+    ("4j estg", "4j des einkommensteuergesetzes"),
+    ("freistellungsbescheinigung",),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):
