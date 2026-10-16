@@ -1,0 +1,113 @@
+{
+  "datum": "2026-10-16",
+  "anlass": "Der Importvergleich erwartete noch unveränderte Methoden- und Signaturabsätze. Die freigegebenen Korrekturen sind mit Prüfsummen und inhaltlichen Gegenproben abgesichert; der Originalimport bleibt unverändert.",
+  "vorheriger_github_lauf": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/actions/runs/38890620720",
+  "umfang": "Vollständiger Regressionsteil des Kompatibilitätsworkflows und anschließender lokaler Paketbau: 17 Aufrufe. Kein neues Release und keine Überschreibung bestehender Release-Dateien. Die sieben optionalen übersprungenen Releaseprüfungen der Hauptrunde werden hierdurch nicht pauschal ersetzt.",
+  "pruefungen": [
+    {
+      "command": "python3 scripts/test-runtime-performance.py",
+      "exit_code": 0,
+      "seconds": 0.02,
+      "output_sha256": "888a0c0ed615e57d32cf72be501b0c355f33b8613c81dfdaa99db33d7959487e"
+    },
+    {
+      "command": "python3 scripts/test-compatibility-release.py",
+      "exit_code": 0,
+      "seconds": 0.43,
+      "output_sha256": "14141bc74c68ccc84e2f79f2a054b277ee8c5ec432960de60178c6e3e88655cb"
+    },
+    {
+      "command": "python3 scripts/test-scoped-release-routing.py",
+      "exit_code": 0,
+      "seconds": 0.04,
+      "output_sha256": "57256a13cfbd13539b3f6c3a9bd6c4cd9c1a8f25a390d6295b563a1d8a31853d"
+    },
+    {
+      "command": "python3 scripts/test-bauvergabe.py",
+      "exit_code": 0,
+      "seconds": 0.33,
+      "output_sha256": "81a79a9ea59fee8e8e677db715d256d138b2a06ca66dca21143e22b216fe9360"
+    },
+    {
+      "command": "python3 scripts/test-rechtsabteilung-immobilien.py",
+      "exit_code": 0,
+      "seconds": 0.46,
+      "output_sha256": "74bf9c148dc6c332c6581aea24a8dd512a18829edfe4bc38ba0ca5ee1f570d4d",
+      "previous_exit_code": 1
+    },
+    {
+      "command": "python3 scripts/test-vergaberecht-import.py",
+      "exit_code": 0,
+      "seconds": 0.42,
+      "output_sha256": "5c3951da6667967000ac23b85c55b55c97c8fe6941f537b4cebc8f349638c041",
+      "übersprungene_optionale_prüfungen": 3
+    },
+    {
+      "command": "python3 scripts/test-app-only-integration.py",
+      "exit_code": 0,
+      "seconds": 0.95,
+      "output_sha256": "e4d0a317ccac5e220979aa16a41da1e26ad92c93b335e274c510fe29011ee1e5"
+    },
+    {
+      "command": "python3 scripts/test-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 3.16,
+      "output_sha256": "278382ade9d7d2c13a1c93a3d275abc49b9b1cdfe1d2a982b41c9867920c2a8c"
+    },
+    {
+      "command": "python3 scripts/validate-root-readme-overview.py",
+      "exit_code": 0,
+      "seconds": 1.27,
+      "output_sha256": "18d8f7b0afe34d351d2fe68b84a0d732a867af3cbaaf7be7563b2c205ffe205c"
+    },
+    {
+      "command": "python3 scripts/validate-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 109.29,
+      "output_sha256": "b8a9b42d3f91672cb03cd000135762dcc6a34b3daac913703a1354e2b24f90d8"
+    },
+    {
+      "command": "python3 scripts/test-quickstart-usability.py",
+      "exit_code": 0,
+      "seconds": 0.09,
+      "output_sha256": "6cc5b549f8cc71ccc70253d1bd997485b60bf942c19efd893cad624952beae52"
+    },
+    {
+      "command": "python3 scripts/audit-quickstart-usability.py",
+      "exit_code": 0,
+      "seconds": 0.35,
+      "output_sha256": "e2a279376bb683fc4d502109ff44da0c11c222f99f308a61dd4449560229ae88"
+    },
+    {
+      "command": "python3 scripts/test-portable-starts.py",
+      "exit_code": 0,
+      "seconds": 2.4,
+      "output_sha256": "0a35f75fe17593d66c4452809164e07cb202c06b12762ed13cdebc8ba83f5adc"
+    },
+    {
+      "command": "python3 scripts/test-prompt-openings.py",
+      "exit_code": 0,
+      "seconds": 0.22,
+      "output_sha256": "ad8b6a84c8e32abb0ce464433243372bc74a9fbeaa1f233830d7b44d5531ad25"
+    },
+    {
+      "command": "python3 scripts/test-prompt-routing-scope.py",
+      "exit_code": 0,
+      "seconds": 0.43,
+      "output_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee"
+    },
+    {
+      "command": "python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'",
+      "exit_code": 0,
+      "seconds": 8.85,
+      "output_sha256": "d84da152f8b7544a1d78d499fe9ebdb3cb3e2fce3aeb68c92f758ef6e3cdba85",
+      "übersprungene_optionale_prüfungen": 1
+    },
+    {
+      "command": "python3 scripts/build-compatibility-release.py --dist PACKAGE_DIRECTORY",
+      "exit_code": 0,
+      "seconds": 0.5,
+      "output_sha256": "6a1dce13c96be4ccc8dd045cf14ab612cd6f1964d848014aec2b657eddb77fa1"
+    }
+  ]
+}

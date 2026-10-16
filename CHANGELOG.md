@@ -6,6 +6,8 @@ Amtliche Nachprüfungen berichtigen unter anderem sozialrechtliche Fristen, beam
 
 Installation, Einzelpakete und Sammelstände werden deutlicher getrennt. Katalogzahlen und Einzelübersichten sind abgeglichen. Zusätzliche Regressionen erkennen veraltete Marketplace-Hinweise und unterscheiden vollständige Tabellen am Promptende von abgebrochenem Text. Bestehende Testakten, Versionstags und Release-Archive bleiben unverändert; diese Runde verbessert den Quellstand und ersetzt kein bereits veröffentlichtes Installationspaket.
 
+Die anschließende Paketprüfung erfasste zusätzlich den Importvergleich der Immobilien-Rechtsabteilung und ihrer Versandwerkstatt. Die bewusst korrigierten Methoden- und Signaturreferenzen werden dort mit geprüften Dateiprüfsummen und inhaltlichen Gegenproben geführt; das ursprüngliche Importarchiv bleibt unverändert. Der Pakettest prüft auch die tatsächlich übernommenen Referenztexte, statt deren bloßes Vorhandensein genügen zu lassen.
+
 # strafvollzug-jva-v1.1.0 – 2026-10-16
 
 Zwei lebensnahe Akten aus Hessen und Baden-Württemberg ergänzen den Bestand um 68 Originaldateien. Sie verbinden Absonderung, streitige Gewaltvorwürfe, Suizidprävention, Schutzmaterial, Raum- und Belegungsdaten mit früheren anwaltlichen Anträgen, gerichtlichen Beschlüssen und bearbeitbaren Folgeentwürfen. Die vier bisherigen Akten bleiben erhalten.

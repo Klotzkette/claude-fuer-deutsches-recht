@@ -25,9 +25,13 @@ BUILD = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(BUILD)
 P, B, PROJECT = BUILD.PLUGIN, BUILD.COMPANION, BUILD.PROJECT
 
-# Bereits auf main geprüfte Importkorrektur und präzisierte Auswahlbeschreibungen.
+# Bereits auf main geprüfte Importkorrekturen und fachliche Präzisierungen.
 # Alle anderen Quelldateien müssen weiterhin dem unveränderten Original entsprechen.
-APPROVED_SKILL_HASHES = {
+APPROVED_SOURCE_HASHES = {
+    # Qualitätsprüfung 16.10.2026: Präzedenzbindung, Rechtskraft und Sonderbindungen trennen.
+    f"{P}/references/methodik-buergerliches-recht.md": "4e5ab8287e703a6488972cc2873b73469e07f42af348d5739208ef000eb8f7f7",
+    # Signaturalternativen nach Paragraf 130a Absatz 3 ZPO statt kumulativer Vorgabe.
+    f"{B}/references/erv-versandstandard.md": "45f0f196a47675380be4807d8f16784e2a71b2a4e75dcdce34d0938e8520a608",
     f"{P}/skills/06-fallziel-renofa-triage/SKILL.md": "1edb304ffa52184628ccf7990e5f5ca88c9d3de29b48c142cb348b644b95b66e",
     f"{P}/skills/33-dokumentenmix-ocr-sichten/SKILL.md": "960fd8e6a893f5aafc5489d26293dc53a5c4ef1129f8dd57bf484d77f3c14950",
     f"{P}/skills/39-beweisangebot-anlagenplan/SKILL.md": "1e63d3450ada16ba78c0471c7210f7a595e9065c00b1e3bfd1c46c5183c40254",
@@ -75,13 +79,26 @@ class ImportTests(unittest.TestCase):
                     relative = item.filename.removeprefix(old + "/")
                     target = ROOT / new / relative
                     self.assertTrue(target.is_file(), relative)
-                    expected = APPROVED_SKILL_HASHES.get(f"{new}/{relative}")
+                    expected = APPROVED_SOURCE_HASHES.get(f"{new}/{relative}")
                     if expected:
                         self.assertEqual(hashlib.sha256(target.read_bytes()).hexdigest(), expected, relative)
                     else:
                         self.assertEqual(
                             target.read_bytes(), archive.read(item), relative
                         )
+
+    def test_methodik_correction_distinguishes_binding_effects(self):
+        text = (ROOT / P / "references/methodik-buergerliches-recht.md").read_text()
+        section = text.split("## 6. Stellenwert der Quellen", 1)[1].split("\n## ", 1)[0]
+        for phrase in ("keine allgemeine Präzedenzbindung", "Rechtskraft", "Paragraf 322 ZPO", "Paragraf 31 BVerfGG"):
+            self.assertIn(phrase, section)
+        self.assertNotIn("**Rechtsprechung** ist nicht bindend", section)
+
+    def test_signature_correction_keeps_both_statutory_routes(self):
+        text = (ROOT / B / "references/erv-versandstandard.md").read_text()
+        section = text.split("## Signaturmatrix", 1)[1].split("\n## ", 1)[0]
+        for phrase in ("Für die Route ohne qeS", "lesbare Namenswiedergabe", "gesetzliche Alternative", "keine zusätzliche Unterschriftsgrafik", "Paragraf 130a Absatz 3 ZPO"):
+            self.assertIn(phrase, section)
 
     def test_plugins_have_consistent_marketplace_identity(self):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
@@ -172,6 +189,9 @@ class ImportTests(unittest.TestCase):
             for name, count in ((P, 50), (B, 9)):
                 with zipfile.ZipFile(dist / f"{name}.zip") as archive:
                     self.assertIn(".claude-plugin/plugin.json", archive.namelist())
+                    for relative in (ROOT / name / "references").glob("*.md"):
+                        member = relative.relative_to(ROOT / name).as_posix()
+                        self.assertEqual(archive.read(member), relative.read_bytes(), member)
                     self.assertEqual(
                         sum(
                             n.startswith("skills/") and n.endswith("/SKILL.md")
