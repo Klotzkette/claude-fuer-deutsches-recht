@@ -1,5 +1,7 @@
 # Testakte Yusuf Bender Besuch und Ernährung in Berlin
 
+[Alle Testakten](../README.md) · [Hauptübersicht](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 Diese Arbeitsakte dient zur Prüfung einer individuellen Entscheidung im Erwachsenenstrafvollzug. Sie kann aus Sicht der betroffenen Person, der JVA oder der Strafvollstreckungskammer bearbeitet werden. Stichtag ist der 16.10.2026. Lesen Sie zunächst den Verfahrensstand, Antrag, Bescheid und Bekanntgabevermerk; vergleichen Sie danach die späteren Belege und den noch nicht eingereichten gerichtlichen Parteientwurf.
 
 ## 1. Arbeitsauftrag und Formate

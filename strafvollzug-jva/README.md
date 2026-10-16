@@ -1,5 +1,7 @@
 # Strafvollzug in der JVA
 
+[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/strafvollzug-jva.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+
 Das Plugin bearbeitet konkrete Anliegen im Strafvollzug aus der jeweils gewählten Perspektive: Gefangene, Angehörige mit eigener Berechtigung oder Vertretungsmacht, Rechtsanwälte, Justiziar einer Anstalt oder Gericht. Es führt von vorhandenen Unterlagen über Landesrecht, Beweise und Fristen zu einem ausformulierten Antrag, Bescheidentwurf, gerichtlichen Antrag oder Entscheidungsentwurf. Menschenwürde, individuelle Lebenslagen und belastbar begründete Sicherheitsbelange werden zusammen geprüft.
 
 Gefangene bleiben Grundrechtsträger. Das historische „besondere Gewaltverhältnis“ ist keine heutige Grundlage für Grundrechtsbeschränkungen. Ein Gerichtsentwurf wird nicht als erlassene Entscheidung ausgegeben; eine Anstaltsstellungnahme bleibt Parteivortrag, solange das Gericht sie nicht geprüft hat.
@@ -30,17 +32,17 @@ Interne Beschwerde, Aufsichtseingabe und gerichtlicher Antrag werden getrennt be
 
 | Skill | Arbeitsprodukt |
 |---|---|
-| [Den konkreten Vollzugsfall steuern](skills/strafvollzug-fall-steuern/SKILL.md) | Fallplan und vollständiges beauftragtes Produkt |
-| [Grundrechte und Gleichbehandlung](skills/grundrechte-gleichbehandlung-pruefen/SKILL.md) | Einzelfallprüfung mit Belegen und milderen Mitteln |
-| [Besuche, Familie und Kommunikation](skills/besuch-kommunikation-gestalten/SKILL.md) | Besuchs- oder Kommunikationsantrag |
-| [Ernährung und Religionsausübung](skills/ernaehrung-religion-beruecksichtigen/SKILL.md) | Belegter Verpflegungs- oder Religionsantrag |
-| [Gesundheit, Haftraum und Aufenthalt im Freien](skills/gesundheit-unterbringung-pruefen/SKILL.md) | Versorgungs- und Unterbringungsprüfung |
-| [Bildung, Arbeit und Computer](skills/bildung-arbeit-digitalzugang-pruefen/SKILL.md) | Bildungsplan, Geräteprüfung und Antrag |
-| [Vollzugsplan und Lockerungen](skills/vollzugsplan-lockerungen-pruefen/SKILL.md) | Individuelle Prognose und abgestufter Maßnahmenplan |
-| [Sicherung, Disziplin und Verhältnismäßigkeit](skills/sicherheit-disziplin-kontrollieren/SKILL.md) | Prüfung von Anlass, Dauer und Kontrolle |
-| [Anträge und begründete Bescheide](skills/antraege-bescheide-bearbeiten/SKILL.md) | Ausformulierter Antrag oder Bescheidentwurf |
-| [Gerichtlicher Rechtsschutz und Eilverfahren](skills/gerichtlichen-rechtsschutz-fuehren/SKILL.md) | Hauptsache- und gegebenenfalls Eilantrag |
-| [Entlassung und Übergang](skills/entlassung-uebergang-planen/SKILL.md) | Übergangsplan mit tatsächlichen Zusagen |
+| [Den konkreten Vollzugsfall steuern](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md) | Fallplan und vollständiges beauftragtes Produkt |
+| [Grundrechte und Gleichbehandlung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/grundrechte-gleichbehandlung-pruefen/SKILL.md) | Einzelfallprüfung mit Belegen und milderen Mitteln |
+| [Besuche, Familie und Kommunikation](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/besuch-kommunikation-gestalten/SKILL.md) | Besuchs- oder Kommunikationsantrag |
+| [Ernährung und Religionsausübung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/ernaehrung-religion-beruecksichtigen/SKILL.md) | Belegter Verpflegungs- oder Religionsantrag |
+| [Gesundheit, Haftraum und Aufenthalt im Freien](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/gesundheit-unterbringung-pruefen/SKILL.md) | Versorgungs- und Unterbringungsprüfung |
+| [Bildung, Arbeit und Computer](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/bildung-arbeit-digitalzugang-pruefen/SKILL.md) | Bildungsplan, Geräteprüfung und Antrag |
+| [Vollzugsplan und Lockerungen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/vollzugsplan-lockerungen-pruefen/SKILL.md) | Individuelle Prognose und abgestufter Maßnahmenplan |
+| [Sicherung, Disziplin und Verhältnismäßigkeit](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/sicherheit-disziplin-kontrollieren/SKILL.md) | Prüfung von Anlass, Dauer und Kontrolle |
+| [Anträge und begründete Bescheide](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/antraege-bescheide-bearbeiten/SKILL.md) | Ausformulierter Antrag oder Bescheidentwurf |
+| [Gerichtlicher Rechtsschutz und Eilverfahren](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/gerichtlichen-rechtsschutz-fuehren/SKILL.md) | Hauptsache- und gegebenenfalls Eilantrag |
+| [Entlassung und Übergang](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/entlassung-uebergang-planen/SKILL.md) | Übergangsplan mit tatsächlichen Zusagen |
 
 ## 4. Werkstatt, Mini-Prompt und Hauptproblem
 
