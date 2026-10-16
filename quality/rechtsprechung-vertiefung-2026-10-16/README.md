@@ -32,6 +32,14 @@ Die technische Gesamtprüfung umfasst alle Marketplace-Angebote, nicht nur die 3
 
 Die Quellenberichte dokumentieren redaktionelle Einzelprüfungen, keine beobachteten Modellläufe. Weder eine fehlerfreie Ausführung in jedem Client noch die Vollständigkeit sämtlicher Rechtsquellen wird behauptet. Frühere Prüfzeitpunkte werden nicht pauschal aktualisiert. Tatsachen bestehender Fallakten und deren PDF-/ZIP-Pakete bleiben unverändert; lediglich der ältere Medizinrechts-Prompt im Sammelordner erhält die gleichen eng begrenzten Normkorrekturen.
 
-Die [technischen Prüfergebnisse](pruefergebnisse.json) dokumentieren 45 erfolgreiche Prüfgruppen und die abschließenden Wiederholungsprüfungen. Die Navigation erfasst 302 Plugins, 23.299 Skills, 529 Aktenseiten und 43.349 lokale Links; die strikte Herstellerprüfung besteht für 303 Manifeste einschließlich des Marketplace. Der Paketbau ist ein lokaler Probelauf, keine Veröffentlichung neuer Archive.
+Die [technischen Prüfergebnisse](pruefergebnisse.json) dokumentieren 45 erfolgreiche Prüfgruppen und die abschließenden Wiederholungsprüfungen des ersten Bearbeitungsstands. Dessen Navigation erfasst 302 Plugins, 23.299 Skills, 529 Aktenseiten und 43.349 lokale Links; die strikte Herstellerprüfung besteht für 303 Manifeste einschließlich des Marketplace. Der Paketbau ist ein lokaler Probelauf, keine Veröffentlichung neuer Archive.
+
+Beim abschließenden Abgleich wurde die zwischenzeitlich veröffentlichte Phishing-Ergänzung mit C-70/25 aus `main` übernommen. Ihr Erstattungsvorrang bleibt neben den neuen Prüfzweigen zu Anteilsfinanzierung und Preisänderung erhalten. Die drei überlappenden Profile bewahren beide Quellenprüfungen und die vorherigen Dateifassungen. Mini-Längen und Fachregressionen werden am zusammengeführten Stand erneut geprüft; die fremde Fallakte und das bereits veröffentlichte Komponentenrelease bleiben unverändert.
+
+Die Wiederholungsprüfung fand außerdem eine veraltete Testannahme: Das Betreuungspaket muss nach der gemeinsamen Phishing-Veröffentlichung nicht mehr unter einem gleichnamigen Betreuungstag liegen. Die Regression prüft jetzt die zentral validierte Paketversion, die tatsächlich konfigurierte Downloadroute und deren Verwendung im README; ein falscher oder unpassender Paketstand wird weiterhin abgewiesen.
+
+Die AGB-Paketregression benennt die erwartete aktuelle Version nun ausdrücklich. Der historische Release-Aufruf bleibt auf 1.0.0 begrenzt; falsche und ungültige Versionsangaben werden weiterhin vor der Paketerzeugung abgewiesen. So prüft der Wiederholungslauf den neuen Bestand, ohne alte Releases neu zu etikettieren.
+
+Das [abschließende Integrationsprotokoll](pruefergebnisse-integration.json) enthält die 46 Prüfgruppen, die beiden zunächst fehlschlagenden Altannahmen und ihre erfolgreichen Wiederholungen. Der zusammengeführte Stand umfasst 530 Aktenseiten und 43.453 lokale Links. Alle abschließenden Prüfergebnisse sind grün; die erstmaligen Fehler bleiben nachvollziehbar.
 
 Die Änderungen betreffen den Quellstand. Bestehende Versionstags und veröffentlichte Installationsarchive werden nicht stillschweigend ersetzt.

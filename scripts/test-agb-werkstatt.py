@@ -88,10 +88,11 @@ class AgbTests(unittest.TestCase):
         self.assertIn("9. Oktober 2026", text)
 
     def test_package_reproducible_and_no_prompt_installation(self):
+        version = json.loads((PLUGIN / ".claude-plugin/plugin.json").read_text())["version"]
         with tempfile.TemporaryDirectory() as tmp:
             first, second = Path(tmp) / "one", Path(tmp) / "two"
-            builder.build_plugin(first)
-            builder.build_plugin(second)
+            builder.build_plugin(first, expected_version=version)
+            builder.build_plugin(second, expected_version=version)
             for path in first.iterdir():
                 self.assertEqual(path.read_bytes(), (second / path.name).read_bytes())
             with zipfile.ZipFile(first / "agb-werkstatt.zip") as archive:
@@ -99,6 +100,14 @@ class AgbTests(unittest.TestCase):
                 self.assertIn(".claude-plugin/plugin.json", archive.namelist())
                 self.assertFalse(any(n.endswith(tuple(builder.PROMPTS)) for n in archive.namelist()))
                 self.assertFalse(any("testakten/" in n for n in archive.namelist()))
+
+    def test_wrong_release_version_still_fails(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with self.assertRaisesRegex(ValueError, "Unerwartete Komponente"):
+                builder.build_plugin(Path(tmp) / "wrong", expected_version="999.0.0")
+            with self.assertRaises(ValueError):
+                builder.build_plugin(Path(tmp) / "invalid", expected_version="latest")
+            self.assertFalse(any(Path(tmp).iterdir()))
 
     def test_cases_are_complete_and_native(self):
         from docx import Document

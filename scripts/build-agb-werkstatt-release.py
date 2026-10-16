@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 import shutil
 import zipfile
+from release_routing import validate_version
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "agb-werkstatt"
@@ -22,11 +23,12 @@ def module(filename):
     return obj
 
 
-def build_plugin(dist):
+def build_plugin(dist, *, expected_version="1.0.0"):
+    validate_version(expected_version)
     manifests = [json.loads((PLUGIN / p).read_text()) for p in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json")]
     if len({(m["name"], m["version"], m["description"]) for m in manifests}) != 1:
         raise ValueError("Manifeste stimmen nicht überein")
-    if manifests[0]["name"] != NAME or manifests[0]["version"] != "1.0.0":
+    if manifests[0]["name"] != NAME or manifests[0]["version"] != expected_version:
         raise ValueError("Unerwartete Komponente")
     if len(list((PLUGIN / "skills").glob("*/SKILL.md"))) != 11:
         raise ValueError("Genau elf Skills erforderlich")

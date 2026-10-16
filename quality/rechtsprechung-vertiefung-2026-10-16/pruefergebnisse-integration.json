@@ -1,0 +1,323 @@
+{
+  "checked_on": "2026-10-16",
+  "integrated_main": "777878cdda7",
+  "passed": true,
+  "distinct_groups": 46,
+  "rechecks": 4,
+  "initial_failures_resolved": 2,
+  "method": "Latest result per command; both initially failing historical release assumptions retained below and resolved by targeted regression reruns. No live model evaluation.",
+  "navigation": {
+    "plugins": 302,
+    "skills": 23299,
+    "case_readmes": 530,
+    "local_links": 43453,
+    "anchors": 2204,
+    "markdown_downloads": 113000
+  },
+  "results": [
+    {
+      "command": "node scripts/validate-plugin-structure.mjs",
+      "exit_code": 0,
+      "seconds": 9.36,
+      "output_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714"
+    },
+    {
+      "command": "node scripts/validate-marketplace-import.mjs",
+      "exit_code": 0,
+      "seconds": 1.9,
+      "output_sha256": "2aa65f967a8c6d4c5e41edd2a4013e74cac9b0d98d675daf357be99f7e56d559"
+    },
+    {
+      "command": "python3 scripts/validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "seconds": 1.06,
+      "output_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2"
+    },
+    {
+      "command": "python3 scripts/validate-runtime-performance.py",
+      "exit_code": 0,
+      "seconds": 2.57,
+      "output_sha256": "66942bf1bd2f49f6bb247fe2276a29e152640fef8d810494aa5947616781372c"
+    },
+    {
+      "command": "python3 scripts/quality_lab.py audit --require-editorial --require-workflow",
+      "exit_code": 0,
+      "seconds": 0.44,
+      "output_sha256": "5de26931e04cad1ad63e604776049f4ce021ebe4ecc406f521e6f44420ba4807"
+    },
+    {
+      "command": "python3 scripts/audit-prompt-profile-routing.py",
+      "exit_code": 0,
+      "seconds": 6.13,
+      "output_sha256": "fe4225c36900ebaba3bae2c58d70aefd7c13c729126b67115d388ac13f8d61a5"
+    },
+    {
+      "command": "python3 scripts/audit-generated-prompt-hygiene.py",
+      "exit_code": 0,
+      "seconds": 2.02,
+      "output_sha256": "9140e3ece0562817650cb47da287d1d266c589051f1e2992e88500916ff900aa"
+    },
+    {
+      "command": "python3 scripts/validate-current-law-sentinels.py",
+      "exit_code": 0,
+      "seconds": 57.28,
+      "output_sha256": "b456b744f787de91945329c833f03a435870edea2d177cd3686f768139d877bb"
+    },
+    {
+      "command": "python3 scripts/validate-manufacturer-plugins.py",
+      "exit_code": 0,
+      "seconds": 58.12,
+      "output_sha256": "488a64067cb1e469dfccc7b206f73f1e916c184c4ac363133246065d7c6645bb"
+    },
+    {
+      "command": "python3 scripts/test-prompt-workflow-preservation.py",
+      "exit_code": 0,
+      "seconds": 1.48,
+      "output_sha256": "369002d55b4d87c38441e58c9e94be33d49dfaf488970db321c81d5d5ce34372"
+    },
+    {
+      "command": "python3 scripts/test-prompt-hygiene-links.py",
+      "exit_code": 0,
+      "seconds": 0.1,
+      "output_sha256": "b419185be4e603363205b21527ca8a3418b040b8cb37bb70883ad86182b7608e"
+    },
+    {
+      "command": "python3 scripts/test-prompt-publication-profiles.py",
+      "exit_code": 0,
+      "seconds": 0.13,
+      "output_sha256": "fb6f76994c6a616dd603233e98a16878de350a28414f7c7ae0cd03b7f3359a7c"
+    },
+    {
+      "command": "python3 scripts/test-prompt-generator-excerpts.py",
+      "exit_code": 0,
+      "seconds": 0.06,
+      "output_sha256": "2205485a1265c499fb0d78eaf8a34848a106fd2ea0b8034542483273d3ec72a0"
+    },
+    {
+      "command": "python3 scripts/test-prompt-profile-app-boundary.py",
+      "exit_code": 0,
+      "seconds": 0.06,
+      "output_sha256": "199ba496f288116d36c62f29346d4fbf0bd75745a1c893abfcbdaa4c6d5b1033"
+    },
+    {
+      "command": "python3 scripts/test-untersuchungshaft.py",
+      "exit_code": 0,
+      "seconds": 0.8,
+      "output_sha256": "dfdfbe86b0310063cc13d72c99912e56175f88ce70a1c403aab0ee0719cf916c"
+    },
+    {
+      "command": "python3 scripts/test-strafvollzug-jva.py",
+      "exit_code": 0,
+      "seconds": 0.66,
+      "output_sha256": "d952ddc42146da9fd67c749b6caa097844fff3168ce7d61361785c536af5ef4c"
+    },
+    {
+      "command": "python3 scripts/test-betreuungsrecht-unterlagen.py",
+      "exit_code": 1,
+      "seconds": 0.84,
+      "output_sha256": "acd8c6de4915e0906839b304f7a7f52f5b342fdbe700cea14fe640edfd9d914d"
+    },
+    {
+      "command": "python3 scripts/test-sektorenvergabe-workflow.py",
+      "exit_code": 0,
+      "seconds": 0.05,
+      "output_sha256": "133449d6f429f0588126e0403937f271f33f90517460d5c4b39d69c2eeda0f25"
+    },
+    {
+      "command": "python3 scripts/test-anwaltschaft-vertragswerkstatt.py",
+      "exit_code": 0,
+      "seconds": 1.3,
+      "output_sha256": "a2e641f5cbd691e6e543ab81f4cca306cf2b52db43b24c2f0e8ad633a6cefc79"
+    },
+    {
+      "command": "python3 scripts/test-notariatswerkstatt.py",
+      "exit_code": 0,
+      "seconds": 5.25,
+      "output_sha256": "dc32cf6eddadd56f9e2bbc29d494c8f6c3337e286bc356e22d882abf4126c1be"
+    },
+    {
+      "command": "python3 scripts/test-agb-werkstatt.py",
+      "exit_code": 1,
+      "seconds": 3.25,
+      "output_sha256": "7f910645aa6a82bf4b23c1796c686547dd840c70be782982958b30b149ace3b9"
+    },
+    {
+      "command": "python3 scripts/test-quality-lab.py",
+      "exit_code": 0,
+      "seconds": 0.46,
+      "output_sha256": "ea9013058611cb276e55198d7bb566bf4d03210a90b2850b89f6eca3128fd1f9"
+    },
+    {
+      "command": "python3 scripts/test-mietchecker.py",
+      "exit_code": 0,
+      "seconds": 0.06,
+      "output_sha256": "b3422b145032ac3a56ce40c0e8bbe6f04030fe26a1ce1f5388afec7a5b7cbee0"
+    },
+    {
+      "command": "python3 scripts/test-eigenbedarfskuendigungschecker.py",
+      "exit_code": 0,
+      "seconds": 0.23,
+      "output_sha256": "9c19df9f1bd2c0f286d09454679f4a25c53748d2921f77116dc4d9c0c22fe1c4"
+    },
+    {
+      "command": "python3 scripts/test-enteignung-artikel-14.py",
+      "exit_code": 0,
+      "seconds": 0.48,
+      "output_sha256": "7ae98665d5b0e35c424c4861aa915e204f81d57a48ec41b37b6321342d64436e"
+    },
+    {
+      "command": "python3 scripts/test-geldwaeschepraevention.py",
+      "exit_code": 0,
+      "seconds": 2.48,
+      "output_sha256": "3310ac1c608d274619898f4593a6dde02d47a6642c80c66adae6675ea6d63e1e"
+    },
+    {
+      "command": "python3 scripts/test-phishing-release.py",
+      "exit_code": 0,
+      "seconds": 0.14,
+      "output_sha256": "e108afdc52f68a1ba61f1eb26356abb90575531339a4565876ce8bb88ecedf34"
+    },
+    {
+      "command": "python3 scripts/test-runtime-performance.py",
+      "exit_code": 0,
+      "seconds": 0.03,
+      "output_sha256": "888a0c0ed615e57d32cf72be501b0c355f33b8613c81dfdaa99db33d7959487e"
+    },
+    {
+      "command": "python3 scripts/test-compatibility-release.py",
+      "exit_code": 0,
+      "seconds": 0.43,
+      "output_sha256": "6869346764d4e7f293fb2b552c4310ab20db54ebcd875c5a202b6851655a3006"
+    },
+    {
+      "command": "python3 scripts/test-scoped-release-routing.py",
+      "exit_code": 0,
+      "seconds": 0.04,
+      "output_sha256": "6e2c2e2d0c5d4f2445feb5005937a4d47635379f8adf4113de6f692d171b2766"
+    },
+    {
+      "command": "python3 scripts/test-bauvergabe.py",
+      "exit_code": 0,
+      "seconds": 0.39,
+      "output_sha256": "dd6c1a9a9d9e9fbceea4733102a1a9516ffd700864c5f2f80600851ac511e9fd"
+    },
+    {
+      "command": "python3 scripts/test-rechtsabteilung-immobilien.py",
+      "exit_code": 0,
+      "seconds": 0.53,
+      "output_sha256": "83e996163896b613a29d70ad17b38aa7c28780ff1ec4833c279991237a0128a8"
+    },
+    {
+      "command": "python3 scripts/test-vergaberecht-import.py",
+      "exit_code": 0,
+      "seconds": 0.49,
+      "output_sha256": "6b456b0217eebf3eef8d269f2d4a6a548b2ee23f205e2a6d81f6ef7d2d8d0a44"
+    },
+    {
+      "command": "python3 scripts/test-app-only-integration.py",
+      "exit_code": 0,
+      "seconds": 1.14,
+      "output_sha256": "f5aa0981a90612df71c523a89b2f8b6016dc56c47c05af839f4bb83428942bbf"
+    },
+    {
+      "command": "python3 scripts/test-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 3.64,
+      "output_sha256": "dfdc8087f801b23ed4076e577a244ccd26cde1b74206f878eedc6bebd2b54851"
+    },
+    {
+      "command": "python3 scripts/validate-root-readme-overview.py",
+      "exit_code": 0,
+      "seconds": 1.38,
+      "output_sha256": "e585edcd50b0337163f545dac680f95460ba873c008c42d681efa20d31964a78"
+    },
+    {
+      "command": "python3 scripts/validate-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 130.05,
+      "output_sha256": "c25e9b05191c57c8e17c59076c0b44a7ea3baae1b7376d3310ae067b16338b38"
+    },
+    {
+      "command": "python3 scripts/test-quickstart-usability.py",
+      "exit_code": 0,
+      "seconds": 0.15,
+      "output_sha256": "c7cc4a64142954ee2805482eb358a1315b42b7c18612af31f2dd711b5ec845a7"
+    },
+    {
+      "command": "python3 scripts/audit-quickstart-usability.py",
+      "exit_code": 0,
+      "seconds": 0.51,
+      "output_sha256": "e2a279376bb683fc4d502109ff44da0c11c222f99f308a61dd4449560229ae88"
+    },
+    {
+      "command": "python3 scripts/test-portable-starts.py",
+      "exit_code": 0,
+      "seconds": 3.75,
+      "output_sha256": "fe0f1bc671e029de94c5bc5dc08416aecae5856c99553b8b193ad97b635a49f9"
+    },
+    {
+      "command": "python3 scripts/test-prompt-openings.py",
+      "exit_code": 0,
+      "seconds": 0.24,
+      "output_sha256": "eb9d5a9d95ac5dbac1d9ccdedf9b53bf67255e4843960e04be1702ff5de010ed"
+    },
+    {
+      "command": "python3 scripts/test-prompt-routing-scope.py",
+      "exit_code": 0,
+      "seconds": 0.49,
+      "output_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee"
+    },
+    {
+      "command": "python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'",
+      "exit_code": 0,
+      "seconds": 9.01,
+      "output_sha256": "eb3121335d308f486857205750f3110ff318c44c48f062ae7438bf34e848a080"
+    },
+    {
+      "command": "python3 vergaberecht-werkstatt/scripts/run-smoke-tests.py --quick",
+      "exit_code": 0,
+      "seconds": 5.39,
+      "output_sha256": "52e7c48ea2fbde4929184a6fefb22b1167048ffb1b157f74374149b2455b00e5"
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "seconds": 0.17,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "command": "python3 scripts/build-compatibility-release.py --dist TEMP_PACKAGE_DIRECTORY",
+      "exit_code": 0,
+      "seconds": 0.57,
+      "output_sha256": "bef8c1a096b062ab97b4891d7f37a78156831a8bf75dfe260e6c7c4e0d61a7af"
+    },
+    {
+      "command": "python3 scripts/test-betreuungsrecht-unterlagen.py",
+      "phase": "final_recheck",
+      "exit_code": 0,
+      "seconds": 0.87,
+      "output_sha256": "aeff2adb1cdf3eeeaebf45921d27ec728820cfbb04f41159c9ce11fbe997353d"
+    },
+    {
+      "command": "python3 scripts/test-agb-werkstatt.py",
+      "phase": "final_recheck",
+      "exit_code": 0,
+      "seconds": 2.98,
+      "output_sha256": "1e1090bfba1db0d155b7b96547c4aef0255dd5efbbc688c9c1a6be0d36b6e50e"
+    },
+    {
+      "command": "python3 scripts/quality_lab.py audit --require-editorial --require-workflow",
+      "phase": "final_recheck",
+      "exit_code": 0,
+      "seconds": 0.45,
+      "output_sha256": "5de26931e04cad1ad63e604776049f4ce021ebe4ecc406f521e6f44420ba4807"
+    },
+    {
+      "command": "git diff --check",
+      "phase": "final_recheck",
+      "exit_code": 0,
+      "seconds": 0.06,
+      "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ]
+}

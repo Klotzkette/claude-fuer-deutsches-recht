@@ -16,6 +16,7 @@ import zipfile
 from openpyxl import load_workbook
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
+from release_routing import RELEASE_BASE, plugin_asset_url, validate_plugin_version
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "betreuungsrecht"
@@ -137,10 +138,14 @@ class UnterlagenTest(unittest.TestCase):
 
     def test_version_and_route(self):
         version = json.loads((PLUGIN / ".claude-plugin/plugin.json").read_text())["version"]
-        plugins = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
-        self.assertEqual(next(p["version"] for p in plugins if p["name"] == "betreuungsrecht"), version)
+        marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
+        plugin = next(p for p in marketplace["plugins"] if p["name"] == "betreuungsrecht")
+        self.assertEqual(plugin["version"], version)
+        validate_plugin_version(plugin, marketplace["version"])
         routes = json.loads((ROOT / "scripts/scoped-release-assets.json").read_text())["assets"]
-        self.assertEqual(routes["betreuungsrecht.zip"], "betreuungsrecht-v" + version)
+        expected_url = f'{RELEASE_BASE}/download/{routes["betreuungsrecht.zip"]}/betreuungsrecht.zip'
+        self.assertEqual(plugin_asset_url("betreuungsrecht"), expected_url)
+        self.assertIn(expected_url, (PLUGIN / "README.md").read_text())
 
     def test_release_packages(self):
         if DIST is None:
