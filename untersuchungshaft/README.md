@@ -27,12 +27,14 @@ Eigene Anträge des Betroffenen sind möglich; das Arbeitsmittel ersetzt jedoch 
 
 | Fassung / Format | Verwendung / Use | Download |
 | --- | --- | --- |
-| Plugin-ZIP | Zehn Skills und Referenzen; Marketplace-Name `untersuchungshaft` / Ten skills and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/untersuchungshaft.zip) |
-| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing plugin folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/untersuchungshaft-portable.zip) |
+| Plugin-ZIP | Zehn Skills und Referenzen; Marketplace-Name `untersuchungshaft` / Ten skills and references | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft.zip) |
+| Portables Plugin-ZIP | Derselbe Inhalt in einem umschließenden Plugin-Ordner / Same content in a containing plugin folder | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft-portable.zip) |
 | Werkstatt-Prompt | Ausführlicher eigenständiger Ablauf mit Rollen, Verzweigungen und Dokumentproduktion / Detailed standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md" download>Werkstatt als Markdown / Download workshop</a> |
 | Mini-Prompt / Schnellstart | Kompakter eigenständiger Ablauf für den konkreten Haftauftrag / Compact standalone workflow | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md" download>Mini als Markdown / Download quick start</a> |
 
-Die Markdown-Links verwenden die Downloadhilfe und liefern die aktuelle Arbeitsfassung als Datei. Fest versionierte Pakete und separate Prompt-Downloads gehören zum [Komponentenrelease 1.0.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/untersuchungshaft-v1.0.0). [Release-Beschreibung als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=docs/releases/untersuchungshaft-v1.0.0.md).
+Die Markdown-Links verwenden die Downloadhilfe und liefern die aktuelle Arbeitsfassung als Datei. Fest versionierte Pakete und separate Prompt-Downloads gehören zum [Komponentenrelease 1.1.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/untersuchungshaft-v1.1.0). [Release-Beschreibung als Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=docs/releases/untersuchungshaft-v1.1.0.md).
+
+Der Werkstatt-Prompt enthält dreizehn nach Streitfragen eingeordnete Entscheidungen mit Randnummern, Quellenstatus und Grenzen ihrer Übertragung. Die Rechtsprechung führt jeweils zu einer konkreten Rückfrage, einem Antrag oder einer Entscheidung. Der Mini-Prompt gliedert denselben Arbeitsweg in zehn kurze Abschnitte mit acht ausgewählten Entscheidungen und bleibt auch einschließlich Leerzeichen und Windows-Zeilenumbrüchen unter 7.500 Zeichen beziehungsweise UTF-8-Bytes. Die Kürze begrenzt den Umfang, nicht die Pflicht zur Einzelfallprüfung.
 
 Werkstatt und Mini funktionieren unabhängig vom Plugin: Datei herunterladen, im verwendeten System als Arbeitsanweisung übergeben und den Auftrag samt Unterlagen hinzufügen. Das Plugin-ZIP enthält ausschließlich Manifeste, README, Skills, Referenzen und Lizenz. Promptdateien, Qualitätsprüffälle und Testakten werden nicht mitinstalliert. Je Auftrag wird nur der benötigte Fachweg vertieft; es ist nicht nötig, alle zehn Skills und alle Akten gleichzeitig zu laden.
 
@@ -129,7 +131,7 @@ Bremen: a 15-year-old awaiting a detention decision, with family and school reco
 
 ## 1.5. Quellen, Prüfstand und Grenzen
 
-Redaktioneller Stand: 16.10.2026. Bundesrecht, Landesrecht und Verfahrensstand müssen für den konkreten Fall erneut abgeglichen werden. Das [Quellenverzeichnis als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/references/rechtsquellen.md) trennt Normen, tragende Aussagen und Übertragungsgrenzen. Der dort enthaltene Anker BGH, 04.08.2026, StB 46/26, ist ausdrücklich als abgeglichene Sekundärvolltextquelle gekennzeichnet, nicht als erfolgreich abgerufene amtliche Fassung.
+Redaktioneller Stand: 16.10.2026. Bundesrecht, Landesrecht und Verfahrensstand müssen für den konkreten Fall erneut abgeglichen werden. Das [Quellenverzeichnis als Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/references/rechtsquellen.md) trennt Normen, tragende Aussagen und Übertragungsgrenzen. Elf BVerfG-Entscheidungen wurden im amtlichen Volltext geprüft. BGH, 03.04.2025, StB 8/25, und BGH, 04.08.2026, StB 46/26, sind als abgeglichene Sekundärvolltextquellen gekennzeichnet; ihr amtlicher Originalabruf steht aus. Nichtannahmebeschlüsse und ausdrücklich offengelassene Fragen werden nicht als erfolgreiche Entlassung oder abschließend geklärte Rechtslage dargestellt.
 
 Das Qualitätsprofil enthält zehn individuelle Prüffälle, einen je Skill. Es dokumentiert eine redaktionelle Prüfung der vorhandenen Anweisungen, keine durchgeführten Modellläufe, keine Erfolgsquote und keine rechtliche Zertifizierung. Technische Paketprüfungen ersetzen weder fachliche Einzelfallprüfung noch einen Live-Test in einer bestimmten Oberfläche.
 
@@ -150,6 +152,8 @@ For example: “Act for defence counsel. Read the detention order, housing confi
 The skills distinguish arrest and initial judicial appearance, detention grounds, release or suspension, judicial detention review, complaint proceedings, prolonged detention, judicial contact restrictions, prison conditions and young defendants. A prison measure is not automatically the same procedural issue as the detention order. The applicable German state law must be checked for prison conditions.
 
 The detailed workshop and compact quick-start files are standalone alternatives, not additional installed skills. Download one Markdown file and provide it as instructions in a system able to read it. The plugin archives contain only manifests, this README, the ten skills, references and the licence. Practice files and standalone prompts remain separate downloads. Host support, file access and export tools must be checked in the environment actually used; no universal live-client test is claimed.
+
+The workshop integrates thirteen decisions with pinpoint references and limits of application. Eleven were checked against official full texts; two federal criminal-court decisions remain marked as secondary-source cross-checks. The quick-start follows ten short sections and uses eight selected decisions. Its size stays below 7,500 characters and UTF-8 bytes, including spaces and Windows line endings. Neither version treats a procedural rejection or an unresolved issue as a successful release ruling.
 
 ## 2.3. Use the cases and retain human control
 

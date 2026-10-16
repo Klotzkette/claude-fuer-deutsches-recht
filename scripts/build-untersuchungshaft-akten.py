@@ -135,6 +135,22 @@ def write_original(path, item, slug):
         raise ValueError(suffix)
 
 
+def download_section(slug):
+    return f"""<!-- BEGIN gesamt-pdf-section (autogen) -->
+
+## 1.2. Downloads
+
+{NOTICE_MARKDOWN}
+
+| Format | Download |
+| --- | --- |
+| Gesamt-PDF mit Lesezeichen | [Gesamtakte](gesamt-pdf/{slug}_gesamt.pdf) |
+| Jede Unterlage als eigenes PDF | [Einzel-PDF-ZIP]({BASE}/testakte-{slug}-einzelpdfs.zip) |
+| Word, E-Mails, Tabelle und Text | [Akten-ZIP mit Originalunterlagen]({BASE}/testakte-{slug}.zip) |
+
+<!-- END gesamt-pdf-section (autogen) -->"""
+
+
 def build():
     renderer = module("build-testakten-einzelpdf-zips")
     cases = json.loads(DATA.read_text(encoding="utf-8"))
@@ -185,15 +201,7 @@ def build():
 
 Stand {case['date']}. Neun eigenständige Unterlagen: fünf Word-Dokumente, zwei E-Mails, eine Tabelle und eine Textdatei. Beginnen Sie mit der ersten gerichtlichen oder polizeilichen Unterlage und wählen Sie Ihre Rolle. Die vorhandenen Schreiben sind Verfahrensmaterial, keine vorweggenommene Lösung. Eine Entscheidung über den nächsten Antrag ist nicht beigelegt.
 
-## 1.2. Downloads
-
-{NOTICE_MARKDOWN}
-
-| Format | Download |
-| --- | --- |
-| Gesamt-PDF mit Lesezeichen | [Gesamtakte](gesamt-pdf/{slug}_gesamt.pdf) |
-| Jede Unterlage als eigenes PDF | [Einzel-PDF-ZIP]({BASE}/testakte-{slug}-einzelpdfs.zip) |
-| Word, E-Mails, Tabelle und Text | [Originalformat-ZIP]({BASE}/testakte-{slug}.zip) |
+{download_section(slug)}
 
 Beide ZIPs sind flach und enthalten den zweisprachigen Hinweis in README.txt. Das Originalformat-ZIP enthält zusätzlich das Gesamt-PDF, aber kein Markdown. Die PDF-Sammlung enthält genau ein PDF je Originalunterlage. Mehrseitige Unterlagen bleiben jeweils zusammen; verschiedene Originale werden nicht zu einem Einzel-PDF vermischt.
 

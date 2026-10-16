@@ -6,6 +6,7 @@ import csv
 from email import policy
 from email.parser import BytesParser
 import hashlib
+import importlib.util
 import io
 import json
 from pathlib import Path
@@ -36,7 +37,20 @@ def pdf_pages(data):
     return pages
 
 
+def load_script(name):
+    spec = importlib.util.spec_from_file_location(name.replace("-", "_"), ROOT / "scripts" / f"{name}.py")
+    loaded = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(loaded)
+    return loaded
+
+
 def check(dist=None):
+    download_check = load_script("validate-testakten-readme-downloads")
+    case_builder = load_script("build-untersuchungshaft-akten")
+    download_errors = []
+    plugin_readme = (PLUGIN / "README.md").read_text()
+    groups = download_check.validate_download_notices("untersuchungshaft/README.md", plugin_readme, download_errors)
+    require(groups == 4 and not download_errors, f"Downloadhinweise: {download_errors}")
     skills = sorted((PLUGIN / "skills").glob("*/SKILL.md"))
     require(len(skills) == 10, "Skillzahl")
     names = {p.parent.name for p in skills}
@@ -52,9 +66,35 @@ def check(dist=None):
         for target in re.findall(r"`(\.\./[^`]+)`", text):
             require((path.parent / target).is_file(), f"Tote Referenz {path}/{target}")
     mini = (PLUGIN / "untersuchungshaft-schnellstart.md").read_text()
-    require(max(len(mini), len(mini.encode()), len(mini.replace("\n", "\r\n"))) <= 7500, "Mini-Grenze")
+    require(max(len(mini), len(mini.encode()), len(mini.replace("\n", "\r\n").encode())) <= 7500, "Mini-Grenze einschließlich UTF-8 und CRLF")
+    require(re.findall(r"^## (1\.\d+)\.", mini, re.M) == [f"1.{n}" for n in range(1, 11)], "Zehn geordnete Mini-Abschnitte")
+    require(max(map(len, mini.split("\n\n"))) <= 800, "Zu dichter Mini-Absatz")
     workshop = (PLUGIN / "untersuchungshaft-werkstatt.md").read_text()
     require(len(workshop.encode()) >= 25000, "Werkstattumfang")
+    references = (PLUGIN / "references/rechtsquellen.md").read_text()
+    profile = json.loads((ROOT / "quality/evals/untersuchungshaft.json").read_text())
+    decisions = profile["prompt_editorial_review"]["decisions"]
+    require(len(decisions) == 13, "Dreizehn eingeordnete Entscheidungen")
+    require(sum(d["source_status"] == "official_full_text" for d in decisions) == 11, "Elf amtliche Originalquellen")
+    for decision in decisions:
+        citation = decision["citation"].split(", ", 2)[2]
+        for text in (workshop, references):
+            require(citation in text and decision["url"] in text, f"Anker oder Link fehlt: {citation}")
+        require(re.fullmatch(r"\d+-\d+", decision["paragraphs"]), f"Randnummern fehlen: {citation}")
+        if decision["source_status"] == "two_secondary_full_texts":
+            require(decision["comparison_url"] in references, f"Vergleichsquelle fehlt: {citation}")
+    mini_anchors = ("2 BvR 2292/00", "2 BvR 988/10", "2 BvR 575/21", "2 BvR 1343/22",
+                    "2 BvR 1756/23", "2 BvR 24/25", "2 BvR 825/23", "2 BvR 1139/22")
+    require(all(c in mini for c in mini_anchors), "Konkrete Mini-Anker fehlen")
+    for kind, body in (("mini", mini), ("workshop", workshop)):
+        require(hashlib.sha256(body.encode()).hexdigest() == profile[f"{kind}_review"]["sha256"], "Redaktionelle Prüfung nicht aktuell")
+        require("Times New Roman 11 pt" in body and "vollständigen Sätzen" in body, "Enddokumentstandard")
+        require("§" not in body and "**" not in body, "Promptstil")
+    for phrase in ("ausdrücklich offen", "kein erfolgreicher Entlassungsbeschluss", "keine allgemeine Untätigkeitsbeschwerde",
+                   "keine StPO-Spezialfrist", "mehr als ein durchschnittlicher Hauptverhandlungstag"):
+        # Der historische Vorführungsfall wird im Werkstatttext anders formuliert.
+        target = mini if phrase == "keine StPO-Spezialfrist" else workshop
+        require(phrase in target, f"Reichweitengrenze fehlt: {phrase}")
     legal_guards = {
         "haftpruefung-muendlich-vorbereiten": ["117 Absatz 2", "118 Absatz 3", "118 Absatz 4", "zwei Wochen", "122 Absatz 3 Satz 4", "Ermessen"],
         "beschraenkungen-kontakt-pruefen": ["binnen drei Werktagen", "zur Genehmigung vorlegen"],
@@ -77,6 +117,9 @@ def check(dist=None):
         require(len(case["files"]) == 9, "Neun Originale je Akte")
         readme = (directory / "README.md").read_text()
         require(NOTICE_DE in readme and NOTICE_EN in readme, "Hinweis auf Downloadseite")
+        require(case_builder.download_section(slug) in readme, f"Downloadblock nicht reproduzierbar: {slug}")
+        hits = download_check.validate_local_readme(slug, directory, download_errors)
+        require(hits == 6 and not download_errors, f"Akten-Downloadstandard: {download_errors}")
         originals = {}
         for item in case["files"]:
             path = directory / item["name"]
@@ -130,7 +173,8 @@ def check(dist=None):
     require(len({(m["name"], m["version"], m["description"]) for m in manifests}) == 1, "Manifestkohärenz")
     require(manifests[0].get("$schema") == "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json", "Portables Manifestschema")
     entries = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
-    require(len([x for x in entries if x["name"] == "untersuchungshaft"]) == 1, "Marketplacezuordnung")
+    matches = [x for x in entries if x["name"] == "untersuchungshaft"]
+    require(len(matches) == 1 and matches[0]["version"] == manifests[0]["version"], "Marketplaceversion oder Zuordnung")
     if dist:
         require(len(list(dist.iterdir())) == 27, "27 Release-Dateien")
         for portable in (False, True):
@@ -158,7 +202,7 @@ def check(dist=None):
             for suffix in ("", "-einzelpdfs"):
                 name = f"testakte-{slug}{suffix}.zip"
                 require((dist / name).read_bytes() == (PLUGIN / "testakte/downloads" / name).read_bytes(), "Aktenrelease veraltet")
-    print(f"OK: 10 Skills, 4 Akten, 36 Originale, {total_pages} PDF-Seiten; Quellenstatus und Verfahrensgrenzen geprüft. Keine Modellbewertung.")
+    print(f"OK: 10 Skills, 13 Rechtsprechungsanker, lesbarer Mini ({len(mini.encode())} Bytes), 4 Akten, 36 Originale, {total_pages} PDF-Seiten. Technische Regression, keine Modellbewertung.")
 
 
 if __name__ == "__main__":

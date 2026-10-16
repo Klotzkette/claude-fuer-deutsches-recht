@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag untersuchungshaft-v1.0.0
+        description: Komponententag untersuchungshaft-v1.1.0
         required: true
-        default: untersuchungshaft-v1.0.0
+        default: untersuchungshaft-v1.1.0
 
 permissions:
   contents: write
@@ -36,6 +36,7 @@ jobs:
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
           python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/test-untersuchungshaft.py
           python3 scripts/build-untersuchungshaft-release.py --dist "$RUNNER_TEMP/uhaft-dist"
           python3 scripts/test-untersuchungshaft.py --dist "$RUNNER_TEMP/uhaft-dist"
@@ -59,7 +60,7 @@ jobs:
             echo "Tag existiert; keine Verschiebung."
             exit 1
           fi
-          gh release create "$TAG" --target "$(git rev-parse HEAD)" --draft --title "Untersuchungshaft 1.0.0" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release create "$TAG" --target "$(git rev-parse HEAD)" --draft --title "Untersuchungshaft ${TAG#untersuchungshaft-v}" --notes-file "docs/releases/$TAG.md" --latest=false
           gh release upload "$TAG" "$RUNNER_TEMP"/uhaft-dist/*
           python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/uhaft-dist"
           gh release edit "$TAG" --draft=false --latest=false

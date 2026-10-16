@@ -1,6 +1,6 @@
 # untersuchungshaft
 
-**10 Skills** · Stand `v1.0.0`
+**10 Skills** · Stand `v1.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../untersuchungshaft/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`untersuchungshaft-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`untersuchungshaft-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [untersuchungshaft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/untersuchungshaft.zip) |
+| **Plugin (installierbar)** | ZIP | [untersuchungshaft.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.1.0/untersuchungshaft.zip) |
 
 ## So benutzt man einen Skill
 

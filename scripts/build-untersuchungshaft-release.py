@@ -10,7 +10,7 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "untersuchungshaft"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 PROMPTS = [f"{NAME}-{kind}.md" for kind in ("werkstatt", "schnellstart")]
 
 

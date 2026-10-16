@@ -354,19 +354,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakter Haftablauf unterscheidet Rechtsbehelfe, Verfahrensrollen und Landesvollzug.",
+    "reason": "Zehn lesbare Abschnitte führen mit acht eingeordneten Entscheidungen vom konkreten Haftanliegen zum Schreiben.",
     "changes": [
-      "OLG-Ermessen, Vorlagefrist und notwendige Verteidigung präzisiert."
+      "Rollen, Beweisfragen und Rechtsbehelfe in kurze Absätze und getrennte Listen gegliedert.",
+      "Rechtsprechung unmittelbar bei Vorführung, Verschonung, Haftkontrolle und Kontakten eingeordnet; einschließlich Nichtannahme und Grenzen der Entlassungsfolge.",
+      "Längenprüfung erfasst UTF-8 und Windows-Zeilenumbrüche; vollständige Enddokumente mit eigenem Exporthinweis."
     ],
-    "sha256": "42df6dd083a79e8e68618a6bb8d717abafb4139c23b614ee29ca7ab34cd8ad56"
+    "sha256": "d90f3542133bbde24a50426cb515f804202581f7998a5c0216746004b2c02aa3"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Antrags- und Entscheidungswege mit Belegprüfung statt allgemeiner Haftanalyse.",
+    "reason": "Dreizehn Entscheidungen mit Randnummern und Übertragungsgrenzen stützen konkrete Antrags-, Entscheidungs- und Fortsetzungswege.",
     "changes": [
-      "Mildere Maßnahmen, Landesvollzug und Jugendhilfe jeweils mit eigener Rückfrage- und Fortsetzungslogik."
+      "Wiederinvollzugsetzung, Gehör, Gutachterplanung, OLG-Untätigkeit und Familienkontakte gezielt vertieft.",
+      "Erledigter Haftbefehl und ausdrücklich offengelassene Fortgeltung von Verschonungsauflagen getrennt.",
+      "Elf amtliche Originalentscheidungen und zwei sekundär abgeglichene BGH-Beschlüsse transparent unterschieden."
     ],
-    "sha256": "83b586f3ec7940402f7d9838fcdf33e88643f66ee3930b8307d70bc18dd3e264"
+    "sha256": "adac93956c5f189d2b23b59bfb244350c6913c067611aada2e937d3972d57a9b"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",
@@ -387,7 +391,7 @@
       "untersuchungshaft/untersuchungshaft-werkstatt.md",
       "untersuchungshaft/untersuchungshaft-schnellstart.md"
     ],
-    "opening_change": "Freiheitsentzug, Rolle und anstehendes Schriftstück bestimmen den Einstieg.",
+    "opening_change": "Anstehendes Schriftstück bestimmt den Einstieg; zehn kurze Mini-Abschnitte und konkrete Rückfragen ersetzen einen allgemeinen Aktenbericht.",
     "norms": [
       "Paragrafen 112 bis 123 StPO: Haft, Alternativen, Prüfung und Fortdauer.",
       "Paragrafen 119 und 119a StPO: Beschränkung und Vollzugsrechtsschutz.",
@@ -398,11 +402,111 @@
         "citation": "BVerfG, Beschluss vom 05.02.2025, 2 BvR 24/25 und 2 BvR 69/25",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250206_2bvr002425.html",
         "application": "Vertiefte individuelle Begründung der Haftfortdauer und tatsächliche Beschleunigung.",
-        "limit": "Keine automatische Entlassungsfolge für andere Verfahren und kein unmittelbares Besuchsrecht aus diesem Beschluss."
+        "limit": "Keine automatische Entlassungsfolge für andere Verfahren und kein unmittelbares Besuchsrecht aus diesem Beschluss.",
+        "source_status": "official_full_text",
+        "paragraphs": "25-36"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 15.05.2002, 2 BvR 2292/00",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2002/05/rs20020515_2bvr229200.html",
+        "application": "Organisatorisch wirksamer Richtervorbehalt und unverzügliche Befassung neben äußerer Grenze.",
+        "limit": "Polizeigewahrsam im Abschiebungszusammenhang, keine eigene StPO-Spezialfrist.",
+        "source_status": "official_full_text",
+        "paragraphs": "27-28"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 07.03.2012, 2 BvR 988/10",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/03/rk20120307_2bvr098810.html",
+        "application": "Vertraulicher Verteidigerkontakt und Paragraf 148 StPO bei Ablehnung eines Telefonats.",
+        "limit": "Kein unbegrenztes Telefonrecht; historisches Übergangsrecht nicht als heutiges Landesrecht verwenden.",
+        "source_status": "official_full_text",
+        "paragraphs": "32-34"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 30.10.2014, 2 BvR 1513/14",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2014/10/rk20141030_2bvr151314.html",
+        "application": "Zusätzliche Beschränkungen benötigen konkrete Erforderlichkeit neben dem Haftgrund.",
+        "limit": "Keine pauschale Aufhebung aller Kontrollen; aktuelle Ermittlungen und einzelne Maßnahme prüfen.",
+        "source_status": "official_full_text",
+        "paragraphs": "18-22"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 01.04.2020, 2 BvR 225/20",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/04/rk20200401_2bvr022520.html",
+        "application": "Neuterminierung, Gutachterverfügbarkeit und zulässiges Verteidigungsverhalten unterscheiden.",
+        "limit": "Notwendige Begutachtung darf Zeit beanspruchen; vermeidbare Abschnitte konkret belegen.",
+        "source_status": "official_full_text",
+        "paragraphs": "65-78"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 17.12.2020, 2 BvR 1787/20",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/12/rk20201217_2bvr178720.html",
+        "application": "Schutz der Verschonungsentscheidung auch beim zusammenhängenden Ersatz durch neuen Haftbefehl prüfen.",
+        "limit": "Keine allgemeine Immunität gegen spätere Haft wegen beliebiger anderer Taten.",
+        "source_status": "official_full_text",
+        "paragraphs": "49-56"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 08.07.2021, 2 BvR 575/21",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/07/rk20210708_2bvr057521.html",
+        "application": "Neue haftgrundbezogene Tatsachen, ursprüngliche Prognose und Auflagentreue vor Wiederinvollzugsetzung.",
+        "limit": "Bloße Verdachtsverdichtung reicht nicht; erhebliche Änderung der Fluchtprognose bleibt gesondert prüfbar.",
+        "source_status": "official_full_text",
+        "paragraphs": "41-48"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 15.11.2022, 2 BvR 1139/22",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/11/rk20221115_2bvr113922.html",
+        "application": "Telefonüberwachung gegenüber Eltern nach konkreter Gefahr, Familienbezug und Dauer abwägen.",
+        "limit": "Überhaft während psychiatrischer Unterbringung; kein allgemeines unüberwachtes Besuchsrecht.",
+        "source_status": "official_full_text",
+        "paragraphs": "25-30"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 23.01.2023, 2 BvR 1343/22",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/01/rk20230123_2bvr134322.html",
+        "application": "Verspätete Vorlage nach Paragraf 306 Absatz 2 und ihre tatsächlichen Folgen getrennt beurteilen.",
+        "limit": "Nichtannahme; nicht jeder Vorlageverstoß führt zur Haftaufhebung, trotzdem keine Verzögerungserlaubnis.",
+        "source_status": "official_full_text",
+        "paragraphs": "2-5"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 21.09.2023, 2 BvR 825/23",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230921_2bvr082523.html",
+        "application": "Zeitnahen effektiven Rechtsschutz trotz Fristruhens im besonderen OLG-Prüfungsverfahren verlangen.",
+        "limit": "Festgestellte Rechtsschutzverletzung ist nicht allein Haftaufhebungsgrund; keine allgemeine Untätigkeitsbeschwerde erfinden.",
+        "source_status": "official_full_text",
+        "paragraphs": "24-36"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 17.01.2024, 2 BvR 1756/23",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/01/rk20240117_2bvr175623.html",
+        "application": "Subsidiarität und Gehör bei übergangenem Kernvorbringen; außerdem Entscheidungsreife im Zwischenverfahren.",
+        "limit": "Nichtannahme wegen Unzulässigkeit trotz materieller Kritik, keine erfolgreiche Entlassungsentscheidung.",
+        "source_status": "official_full_text",
+        "paragraphs": "8-20"
+      },
+      {
+        "citation": "BGH, Beschluss vom 03.04.2025, StB 8/25",
+        "url": "https://www.anwalt24.de/urteile/bgh/2025-04-03/stb-8_25",
+        "application": "Erledigung des Untersuchungshaftbefehls mit rechtskräftiger Verurteilung auch nach Außervollzugsetzung.",
+        "limit": "Fortgeltung isolierter Auflagen ausdrücklich offengelassen; keine Nichtbefolgung empfehlen.",
+        "source_status": "two_secondary_full_texts",
+        "paragraphs": "4-11",
+        "comparison_url": "https://www.hrr-strafrecht.de/hrr/2/25/stb-8-25.pdf"
+      },
+      {
+        "citation": "BGH, Beschluss vom 04.08.2026, StB 46/26",
+        "url": "https://recht.nulegal.eu/rechtsprechung/bgh/2026-08-04/stb-46-26",
+        "application": "Tatsächliche Förderung umfangreicher Hauptverhandlung einschließlich Selbstleseverfahren würdigen.",
+        "limit": "Verfassungsrechtliche Verhandlungsanforderungen nicht absenken; Umfangsverfahren nicht als Freibrief für gewöhnliche Liegezeiten.",
+        "source_status": "two_secondary_full_texts",
+        "paragraphs": "12-19",
+        "comparison_url": "https://www.anwalt24.de/urteile/bgh/2026-08-04/stb-46_26"
       }
     ],
     "remaining_limits": [
-      "BGH StB 46/26 über Sekundärvolltexte abgeglichen, amtlicher Abruf bleibt für Einreichung erforderlich.",
+      "BGH StB 8/25 und StB 46/26 über Sekundärvolltexte abgeglichen, amtlicher Abruf bleibt vor tragender Verwendung erforderlich.",
       "Landesrecht, konkrete Haftakte und Zuständigkeit müssen für jeden Auftrag neu geprüft werden.",
       "Keine Leistungszusage für fremde Oberflächen oder Modelle."
     ]

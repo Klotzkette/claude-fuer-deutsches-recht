@@ -1,3 +1,11 @@
+# untersuchungshaft-v1.1.0 – 2026-10-16
+
+Werkstatt-Prompt mit dreizehn eingeordneten Entscheidungen, konkreten Rückfragen und Folgeanträgen vertieft. Elf amtliche BVerfG-Originale und zwei sekundär abgeglichene BGH-Beschlüsse bleiben im Quellenstatus unterscheidbar. Nichtannahme, verspätete Haftprüfung und offengelassene Auflagenfragen werden nicht in automatische Entlassungsansprüche umgedeutet.
+
+Mini-Prompt in zehn kurze Abschnitte mit acht Rechtsprechungsankern gegliedert, unter 7.500 Zeichen und UTF-8-Bytes auch mit Windows-Zeilenumbrüchen. Regressionen sichern Fundstellenzuordnung, Lesbarkeit, Quellenstatus und Downloadkohärenz. Zehn Skills und vier Akten bleiben inhaltlich unverändert, bestehende Aktenlinks gültig.
+
+Downloadmarkierungen und Warnhinweise der vier Akten an den gemeinsamen Standard angepasst, einschließlich reproduzierbarer Ausgabe und zusätzlicher Release-Prüfung. Akteninhalte und Binärdateien bleiben unverändert.
+
 # strafvollzug-jva-v1.0.1 – 2026-10-16
 
 Der Werkstatt-Prompt erhält vertiefte thematische Prüfabläufe und zusätzliche amtlich gelesene Rechtsprechungsanker mit konkreter Tragweite und Aussagegrenze. Der Mini-Prompt wird in kurze verständliche Arbeitsschritte gegliedert. Lesefassungen, Prüfnachweise und aktive Pluginverweise werden gemeinsam fortgeschrieben; elf Skills und vier Testakten bleiben erhalten.
