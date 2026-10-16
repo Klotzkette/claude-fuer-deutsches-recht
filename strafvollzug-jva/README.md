@@ -1,6 +1,6 @@
 # Strafvollzug in der JVA
 
-[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/strafvollzug-jva.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+[Hauptübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Alle Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Skills dieses Plugins](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/skills-index/strafvollzug-jva.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) · [Testakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md) · [Plugin-Dateien](.)
 
 Das Plugin bearbeitet konkrete Anliegen im Strafvollzug aus der jeweils gewählten Perspektive: Gefangene, Angehörige mit eigener Berechtigung oder Vertretungsmacht, Rechtsanwälte, Justiziar einer Anstalt oder Gericht. Es führt von vorhandenen Unterlagen über Landesrecht, Beweise und Fristen zu einem ausformulierten Antrag, Bescheidentwurf, gerichtlichen Antrag oder Entscheidungsentwurf. Menschenwürde, individuelle Lebenslagen und belastbar begründete Sicherheitsbelange werden zusammen geprüft.
 
