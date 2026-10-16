@@ -4,19 +4,15 @@
 import argparse
 from pathlib import Path
 
-from public_release import PROMPT_SUFFIXES, ROOT, canonical_prompt, with_working_downloads
+from public_release import PROMPT_SUFFIXES, ROOT, expected_role_prompt, with_working_downloads
 from testakte_notices import with_case_warnings
 
 
 def expected_files() -> dict[Path, str]:
     expected = {}
-    for role, suffix in PROMPT_SUFFIXES.items():
-        expected[ROOT / role / f"{role}-werkstatt.md"] = canonical_prompt((
-            ROOT / f"vergaberecht-arbeitsprompt-{suffix}.md"
-        ).read_text(encoding="utf-8"))
-        expected[ROOT / role / f"{role}-schnellstart.md"] = canonical_prompt(
-            (ROOT / "unified-mini-prompts" / f"{role}.md").read_text(encoding="utf-8"), mini=True
-        )
+    for role in PROMPT_SUFFIXES:
+        for kind in ("werkstatt", "schnellstart"):
+            expected[ROOT / role / f"{role}-{kind}.md"] = expected_role_prompt(role, kind)
     readmes = [ROOT / "README.md", ROOT / "SKILLS.md"]
     readmes += [ROOT / role / "README.md" for role in PROMPT_SUFFIXES]
     readmes += list((ROOT / "testakten").glob("*/README.md"))

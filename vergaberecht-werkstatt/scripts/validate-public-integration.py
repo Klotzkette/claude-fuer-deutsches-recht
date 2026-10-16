@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 
-from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, REPOSITORY, ROOT, VERSION, canonical_prompt, with_working_downloads, check_plugin_version
+from public_release import DOWNLOAD_BASE, PROMPT_SUFFIXES, PUBLIC_MARKETPLACE, REPOSITORY, ROOT, VERSION, expected_role_prompt, with_working_downloads, check_plugin_version
 from testakte_notices import README_NOTICE, with_case_warnings
 
 
@@ -64,12 +64,16 @@ def main() -> int:
                 ROOT / f"vergaberecht-arbeitsprompt-{PROMPT_SUFFIXES[role]}.md"
                 if kind == "werkstatt" else ROOT / "unified-mini-prompts" / f"{role}.md"
             )
-            expected = canonical_prompt(source.read_text(encoding="utf-8"), mini=kind == "schnellstart")
-            if kind == "schnellstart":
-                if len(source.read_bytes()) > 7500:
-                    errors.append(f"{source.relative_to(ROOT)}: ueber 7500 Bytes")
-            if not target.is_file() or target.read_text(encoding="utf-8") != expected:
-                errors.append(f"{target.relative_to(ROOT)}: nicht synchron zur Quelle")
+            try:
+                expected = expected_role_prompt(role, kind)
+                if target.read_text(encoding="utf-8") != expected:
+                    errors.append(f"{target.relative_to(ROOT)}: nicht synchron zur Quelle")
+                if kind == "schnellstart":
+                    for path in (source, target):
+                        if len(path.read_bytes()) > 7500:
+                            errors.append(f"{path.relative_to(ROOT)}: ueber 7500 Bytes")
+            except (ValueError, OSError) as error:
+                errors.append(f"{target.relative_to(ROOT)}: {error}")
             readme = (ROOT / role / "README.md").read_text(encoding="utf-8")
             url = f"{DOWNLOAD_BASE}/{role}/{role}-{kind}.md"
             if f'href="{url}" download=' not in readme:
