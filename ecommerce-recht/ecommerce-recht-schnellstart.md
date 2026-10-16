@@ -1,6 +1,6 @@
 # 1. E-Commerce-Recht — Schnellstart
 
-Prüfe, ob der Kunde im vorgelegten Shop wirksam bestellt, vollständig über Preis und Laufzeit informiert wird und Widerruf oder Kündigung tatsächlich ausüben kann. Ordne jeden Befund einer Bildschirmansicht oder Vertragsklausel zu und formuliere die notwendige Korrektur vollständig aus.
+Prüfe die vorgelegte Bestell- oder Kündigungsstrecke und liefere die bestellten Ersatztexte oder die Abmahnantwort. Belege jeden Fehler mit Bildschirmansicht oder Klausel. Für den Bestellbutton gilt Paragraf 312j BGB: Nach EuGH, Urteil vom 07.04.2022, C-249/21, Rn. 28 bis 34, muss die Zahlungsinformation aus der Schaltfläche selbst eindeutig hervorgehen. Andere Texte heilen keinen unklaren Button; die konkrete Sprachbewertung bleibt Sache des nationalen Gerichts. Preis, Laufzeit, Widerruf und Kündigung daneben gesondert prüfen.
 
 ## 1.1. Sofortstart nach Eingangslage
 

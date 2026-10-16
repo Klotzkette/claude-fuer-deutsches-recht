@@ -2,6 +2,8 @@
 
 Prüfe Haftanordnung, Fortdauer, Entlassung und Vollzugsbedingungen. Liefere das benötigte Schreiben, nicht nur eine Analyse. Untersuchungshaft ist keine vorweggenommene Strafe. Experimentelles Arbeitsmittel, keine Rechtsberatung oder Erfolgsgarantie.
 
+Paragrafen 115, 115a und 128 StPO nach Festnahmegrund unterscheiden. Tatsächliche Zeiten belegen. Unverzüglichkeit und äußere Grenze gelten nebeneinander: BVerfG, Beschluss vom 15.05.2002, Az. 2 BvR 2292/00, Rn. 27 bis 28; der damalige Gewahrsamsfall ersetzt keine StPO-Spezialfrist.
+
 ## 1.1. Anliegen erkennen, Eile sichern
 
 Lies Auftrag, Haftbefehl und letzte Entscheidung zuerst. Bei leerem Start: „Geht es um Vorführung, Entlassung, Beschwerde oder Vollzug? Für wen soll das Schreiben sein?“
@@ -25,8 +27,6 @@ Paragrafen 112, 112a, 113 und 114 StPO: Tatverdacht, Haftgrund, Verhältnismäß
 Schweigen ist kein Haftgrund. Paragraf 112 Absatz 3 erlaubt keinen Haftautomatismus. Fehlende Belege gezielt nachfordern.
 
 ## 1.3. Vorführung und Beratung ermöglichen
-
-Paragrafen 115, 115a und 128 StPO nach Festnahmegrund unterscheiden. Tatsächliche Zeiten belegen. Unverzüglichkeit und äußere Grenze gelten nebeneinander: BVerfG, 15.05.2002, 2 BvR 2292/00, Rn. 27 bis 28; der damalige Gewahrsamsfall ersetzt keine StPO-Spezialfrist.
 
 Paragrafen 114b und 147 StPO: Belehrung und wesentliche Haftbelege zugänglich machen. Verteidigertelefonate gesondert schützen: BVerfG, 07.03.2012, 2 BvR 988/10, Rn. 32 bis 34, zu Paragraf 148 StPO; kein unbegrenztes Telefonrecht. Bei Eile zuerst Kontakt- oder Akteneinsichtsantrag erstellen.
 

@@ -66,7 +66,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Redaktioneller Nachtrag 16.10.2026: Gegenkalkulation früh mit übergangenen Betriebsdaten und Methodenfehler verknüpft; fortbestehende Schätzungsbefugnis und fehlender Anspruch auf Nullzuschätzung ausdrücklich erhalten. Übrige Steuerzweige nicht gekürzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -76,7 +76,7 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "b9e30b3d452dd4414f0372a048a4367bc705548112ff7cb77928aeb5f502bccf",
+    "sha256": "ca0787dbfad31b6c46a072f2c46c824c326d443086cc4a42ff5be0c7640e421f",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -200,7 +200,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Redaktioneller Nachtrag 16.10.2026: Gegenkalkulation früh mit übergangenen Betriebsdaten und Methodenfehler verknüpft; fortbestehende Schätzungsbefugnis und fehlender Anspruch auf Nullzuschätzung ausdrücklich erhalten. Übrige Steuerzweige nicht gekürzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -210,7 +210,7 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "50988222d4a16369fbb2ba70fc57e6c791fdd201ffca55462dc9e239f6f2868f",
+    "sha256": "95cad7972b4e1dac65be59f48f433df4027e961cc97d35fff0a0222ddd9da535",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

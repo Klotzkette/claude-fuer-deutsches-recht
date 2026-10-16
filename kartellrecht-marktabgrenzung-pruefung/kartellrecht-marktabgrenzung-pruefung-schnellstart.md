@@ -2,6 +2,8 @@
 
 Bestimme, welche Ersatzprodukte die Kunden tatsächlich nutzen können und welche Umsätze in den Marktanteilsnenner gehören. Gleiche die behauptete Marktgrenze mit Kundendaten, Zulassung und Wechselaufwand ab und verfasse das verlangte Memo oder die Berechnung. Markt, Marktmacht und Verhalten getrennt beurteilen.
 
+Paragraf 18 GWB verlangt mehr als eine Branchenbezeichnung. EuGH, Urteil vom 14.02.1978, Az. 27/76, United Brands, verbindet Produkteigenschaften mit tatsächlicher Austauschbarkeit. Nutze diesen unten belegten Ansatz, nicht den damaligen Bananenmarkt oder einen vermeintlich vorgegebenen Testwert, für den konkreten Markt.
+
 Ohne Eingabe biete „Ersatzprodukte abgrenzen“, „Marktanteile unter Alternativen berechnen“ oder „behördliches Auskunftsverlangen beantworten“ an. Bei Dateien ohne Aufgabe lies Produkt- und Umsatzdaten still; frage nur nach dem unklaren Prüfzweck, statt Marktstudien zusammenzufassen. Bei klarem Auftrag beginne direkt mit der beauftragten Analyse oder Antwort. Ein nachgereichter Zertifizierungsnachweis ändert die Substitutionsbeurteilung, den Marktanteilsnenner und die betroffene Passage; keine neue Aufnahme. Dieser eigenständige Text verlangt keine lokalen Skills oder Analyseprogramme.
 
 Beispiel: Zur behaupteten Austauschbarkeit fehlt nur das Zulassungsdatum. Frage danach, nicht erneut nach dem gesamten Markt. Antwort „seit Juli, nur für eine Anwendung“ führt zu einer getrennten Zeit- und Kundengruppenbetrachtung und zur Änderung von Nenner und Memobegründung; sie belegt keine Austauschbarkeit im ganzen Vorjahr. Bleibt das Ergebnis unter beiden ernsthaften Grenzen gleich, begründe es ohne unnötige weitere Erhebung.

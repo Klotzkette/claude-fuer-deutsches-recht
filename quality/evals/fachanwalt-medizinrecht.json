@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt.",
+    "norms_or_source_basis": "Paragrafen 630d, 630e und 630h BGB",
+    "selected_anchor_identifiers": [
+      "VI ZR 375/21"
+    ],
+    "application_limit": "Vorhandene amtliche Leitsätze b und c, keine vollständigen Gründe; keine allgemeine Aussage zur Studieneinwilligung.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "3d52f1b8b3cd7ad926081662d73797554c017c8f1682b8abc590a8839a730595",
+      "characters": 7240,
+      "utf8_bytes": 7345,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "d12683c4feed7c77f5d2e4faaaf1906bf25bb254e1679b76b8af005dc4f2edbc",
+      "characters": 21085,
+      "utf8_bytes": 21413,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-medizinrecht",
   "reviewed_on": "2026-09-23",
@@ -72,14 +103,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b7074d847484ddcf380cf98945928d01ecb7c5b453f3fb44a91e47358f31da44",
+    "sha256": "3d52f1b8b3cd7ad926081662d73797554c017c8f1682b8abc590a8839a730595",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -100,14 +132,15 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
-      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5d95514da287f9af03ffb6808c6ac3ff588b96962bc7d0c9faefc297e761b686",
+    "sha256": "d12683c4feed7c77f5d2e4faaaf1906bf25bb254e1679b76b8af005dc4f2edbc",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

@@ -31,27 +31,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das Annahmevotum verknüpft wesentliche eigene Abschlussaufstellung mit dem Ausschluss und trennt die zeitabhängige Honorarfolge. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Das Annahmevotum verknüpft wesentliche eigene Abschlussaufstellung mit dem Ausschluss und trennt die zeitabhängige Honorarfolge. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Gesellschaftsbezogene Vorleistung nicht durch Teamwechsel oder Zustimmung heilbar.",
       "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
       "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
       "Leer: Annahme, Prüfungsnachweis oder Aufsichtsantwort. Dateien: still lesen und Votum oder Qualitätsvermerk anbieten. Klar: direkt bestelltes Berufsrechtsdokument erstellen.",
-      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
+      "16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert."
     ],
-    "sha256": "916ab1e465d6812668517145ecbcb3a0b99c84ad6f6b131b8e5058ade989af08"
+    "sha256": "8a32f04d534ede7dea4b68f1fb58fcab7b6ba41fcc722c8dd4fd133b0ae832ca",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesetzlicher Ausschluss, zulässige Schutzmaßnahmen und Vertragsfolgen werden getrennt; besondere Abschlussprüferhaftung nicht im allgemeinen BGB-Schema übergangen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Gesetzlicher Ausschluss, zulässige Schutzmaßnahmen und Vertragsfolgen werden getrennt; besondere Abschlussprüferhaftung nicht im allgemeinen BGB-Schema übergangen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Gesellschaftsbezogene Vorleistung nicht durch Teamwechsel oder Zustimmung heilbar.",
       "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
       "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
       "Vorleistungsumfang, zeitabhängige Honorarfolge, Dokumentations- versus Durchführungsmangel und begrenzte Aufsichtsantwort vertieft.",
-      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
+      "16.10.2026: Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert."
     ],
-    "sha256": "07ec33402b2d82a41c2dd0b5883020b373e2052eb337d833a904f435225c4fac"
+    "sha256": "8967fe9acaec1693e42d2f099c5221aa46dc875785a08dfb6a8757c505d5b933",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -135,6 +141,27 @@
       "Desk-/Quellenprüfung, kein Live-Mandanten- oder Modelltest.",
       "PIE-Sonderrecht, Prüfungsstandards und Haftungshöchstbeträge nicht vollständig neu verifiziert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-schnellstart.md",
+        "sha256": "8a32f04d534ede7dea4b68f1fb58fcab7b6ba41fcc722c8dd4fd133b0ae832ca",
+        "reason": "Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert.",
+        "anchor_or_exception": "Paragraf 319 HGB; BGH 21.01.2010 Xa ZR 175/07: selbst erstellter Anhang und Selbstprüfung; damalige freiwillige Prüfung, kein Verbot jeder Beratung."
+      },
+      {
+        "path": "berufsrecht-wirtschaftspruefer/berufsrecht-wirtschaftspruefer-werkstatt.md",
+        "sha256": "8967fe9acaec1693e42d2f099c5221aa46dc875785a08dfb6a8757c505d5b933",
+        "reason": "Prüfungsmandat und Unabhängigkeitsentscheidung früh erläutert.",
+        "anchor_or_exception": "Paragraf 319 HGB; BGH 21.01.2010 Xa ZR 175/07: selbst erstellter Anhang und Selbstprüfung; damalige freiwillige Prüfung, kein Verbot jeder Beratung."
+      }
     ]
   }
 }

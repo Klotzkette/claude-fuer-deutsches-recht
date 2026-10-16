@@ -26,13 +26,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen: drei eigenständige Einstiegsmodi, Lieferfenster mit Prüfung fortbestehenden Ausnahmebedarfs und datierte Foto-/Fristbewertung führen zum geänderten Dokument; bestehende Sichtbarkeits- und Erprobungsabgrenzung erhalten.",
+    "reason": "Mini vollständig erneut gelesen: drei eigenständige Einstiegsmodi, Lieferfenster mit Prüfung fortbestehenden Ausnahmebedarfs und datierte Foto-/Fristbewertung führen zum geänderten Dokument; bestehende Sichtbarkeits- und Erprobungsabgrenzung erhalten. Redaktioneller Nachtrag 16.10.2026: Sichtbarkeit von Halt- und Parkverboten unmittelbar nach dem konkreten Produkt erläutert; Behördenbeweislast, anlassbezogene Nachschau und Grenze bloßen Übersehens erhalten. Reformierte Anordnungszwecke nicht verändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Leerer Einstieg, stille Dateilektüre und klarer Auftrag ausdrücklich getrennt; Folgeantwort zu Lieferzeit oder Aufstellprotokoll ändert Antrag und Begründung.",
       "Operativen Sichtbarkeitsmaßstab mit Beweislast und Grenzen in beide Prompts integriert.",
       "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert."
     ],
-    "sha256": "1c77cbc2b8f2c64d3e66257e568b3f377be01bbb6cddc042676896bc35004196"
+    "sha256": "7d6e20e09b3139c7892036aabd59a208e9552eb9cdd79bd040f034527d715c48"
   },
   "selection": {
     "positive": [
@@ -80,13 +80,13 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte geänderte Werkstatt erneut gelesen; Lieferkonflikt, Radflächenzweck, gegenläufige Ortsbefunde, Fotozeitbezug und getrennte Fristauslöser bis zum konkreten Antrag ausgearbeitet. Bewohnerparkkonzept am aktuellen Wortlaut präzisiert; kein Live-Client-Test.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen; Lieferkonflikt, Radflächenzweck, gegenläufige Ortsbefunde, Fotozeitbezug und getrennte Fristauslöser bis zum konkreten Antrag ausgearbeitet. Bewohnerparkkonzept am aktuellen Wortlaut präzisiert; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Sichtbarkeit von Halt- und Parkverboten unmittelbar nach dem konkreten Produkt erläutert; Behördenbeweislast, anlassbezogene Nachschau und Grenze bloßen Übersehens erhalten. Reformierte Anordnungszwecke nicht verändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Substantielle Dialogzweige zu Lieferfenster, Engstelle und widersprechenden Fotos mit Anpassung von Antrag, Auflagen und Kostenargument ergänzt.",
       "Operativen Sichtbarkeitsmaßstab mit Beweislast und Grenzen in beide Prompts integriert.",
       "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert."
     ],
-    "sha256": "394854e02dc9f07eb72f4125924ef4017c0650b53da9ddf37b2e77eb8a121642"
+    "sha256": "ddfd1d26a4c248ccdd39bb3f281483ac67c7168046e69219b2befe3988de07f0"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -1,10 +1,10 @@
 # 1. Lobbyregister: Kontakt, Eintrag und Änderung
 
-Ohne Eingabe frage kurz: „Registrierungspflicht prüfen, Eintrag aktualisieren oder Registerstelle beantworten?“ Bei Dateien ohne Aufgabe lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt mit Prüfung oder Feldtext; keine allgemeine Registerübersicht vorweg. Frage nur entscheidende fehlende Kontakt-, Organisations- oder Finanzangaben nach. Ein Portalzugang wird nicht vorausgesetzt.
-
 Prüfe, ob der konkrete politische Kontakt eine Eintragung auslöst und welche Registerangaben danach zu ändern sind. Gleiche Kontaktvermerke, Auftraggeberkette und bestehenden Eintrag ab; formuliere die benötigten Feldtexte oder das beauftragte Pflichtenmemo. Die alternativen Voraussetzungen des [Paragrafen 2 LobbyRG](https://www.gesetze-im-internet.de/lobbyrg/__2.html) hängen nicht allein von der Kontaktzahl ab. Ausnahmen nach Adressat und Tätigkeit prüfen, nicht pauschal nach Berufs- oder Verbandsbezeichnung.
 
 Bei einer Kammer unterscheide ihre gesetzliche öffentliche Aufgabe von sonstiger Interessenvertretung. Paragraf 2 Absatz 2 Nummer 6 und Absatz 3 Nummer 6 LobbyRG tragen die Bundesprüfung. [VG München, 3. Juni 2025, M 30 K 23.817](https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2025-N-16380?all=False) nimmt die gesetzliche Interessenvertretung einer Handwerkskammer vom bayerischen Register aus. Das ist keine Entscheidung über das Bundesregister und keine Befreiung aller Wirtschaftsverbände; Auftrag und Tätigkeit belegen.
+
+Lies vorhandene Dateien zuerst. Nur ohne klares Ziel Registrierungspflicht, Aktualisierung oder Antwort an die Registerstelle anbieten. Sonst direkt Prüfung oder Feldtext liefern, nur entscheidende Kontakt-, Organisations- oder Finanzangaben nachfragen und neue Belege gezielt einarbeiten. Ein Portalzugang ist nicht erforderlich.
 
 ## 1.1. Einzutragende Änderung konkret bestimmen
 

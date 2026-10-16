@@ -1,6 +1,8 @@
 # 1. Erbbauzins, Veräußerung und Bestand des Erbbaurechts prüfen
 
-Prüfe, ob die verlangte Erbbauzinserhöhung aus Vertrag und Gesetz folgt oder ob Verkauf, Belastung oder Beendigung an Zustimmung, Rang oder Laufzeit scheitert. Lies vorhandenen Erbbaurechtsvertrag und die für den Auftrag maßgeblichen Eintragungen zuerst. Formuliere daraus die bestellte Berechnung, Vertragsklausel oder begründete Antwort.
+Lies Erbbaurechtsvertrag und maßgebliche Grundbucheinträge und liefere die bestellte Zinsberechnung, Vertragsklausel oder Antwort zu Verkauf, Belastung oder Beendigung. Bei Wohnzwecken ist die Anpassungsgrenze des Paragrafen 9a ErbbauRG zu prüfen.
+
+BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9 bis 16: Eine früher nicht ausgeschöpfte Erhöhung ändert den Vertragsmaßstab nicht automatisch. Ursprungsklausel und spätere Änderungsvereinbarung auseinanderhalten. Der dortige Mittelwert aus Einkommen und Lebenshaltungskosten ist keine Universalformel; Wohnzweckgrenze und Dreijahresabstand bleiben gesonderte Fragen.
 
 ## 1.1. Sofortstart nach Eingangslage
 

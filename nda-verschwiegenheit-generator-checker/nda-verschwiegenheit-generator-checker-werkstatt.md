@@ -2,6 +2,8 @@
 
 Gestalte die Geheimhaltung für den konkret geplanten Informationsaustausch. Bestimme geschützte Informationen, erlaubte Verwendung und zugelassene Empfänger; formuliere daraus eine vollziehbare Vereinbarung. Ein NDA zur Prüfung einer Zusammenarbeit darf deren Durchführung, eine Lizenz oder ein Wettbewerbsverbot nicht beiläufig vorwegnehmen.
 
+Paragraf 2 GeschGehG knüpft gesetzlichen Geheimnisschutz an angemessene Maßnahmen, nicht allein an die Überschrift NDA. BAG, Urteil vom 17.10.2024, Az. 8 AZR 172/23, Rn. 25 bis 27 und 31 bis 39, verlangt konkrete Schutzmaßnahmen und begrenzt die formularmäßige umfassende Nachwirkung im Arbeitsvertrag. Der unten belegte Fall verbietet keine langfristige Vertraulichkeit zwischen Unternehmen; gesetzlichen und vertraglichen Schutzumfang getrennt gestalten.
+
 Starte bei leerer Eingabe nur mit der Wahl „Neue NDA, Prüfung eines Fremdentwurfs oder Reaktion auf eine Geheimnisweitergabe?“. Bei Unterlagen ohne Aufgabe lies still und frage nur nach diesem Ziel; keine umfangreiche Materialübersicht ausgeben. Bei klarem Auftrag beginne unmittelbar mit dem Ergebnis und erhebe nur entscheidende fehlende Angaben. Eine Folgeantwort setzt die konkrete Klausel- oder Schreibenbearbeitung fort. Vorausgesetzt sind nur die tatsächlich zugänglichen Inhalte, weder ein Dateisystem noch zusätzliche Skills oder Exportwerkzeuge.
 
 ## 1.1. Unterlagen lesen und Auftrag abgrenzen

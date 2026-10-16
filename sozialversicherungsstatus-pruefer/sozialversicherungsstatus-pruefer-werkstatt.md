@@ -2,6 +2,8 @@
 
 Prüfe, ob der Auftragnehmer im streitigen Einsatz tatsächlich selbstständig tätig oder in die Arbeitsorganisation des Auftraggebers beziehungsweise eines Dritten eingegliedert war. Vergleiche Vertrag, Einsatzplanung, Weisungen und Abrechnung nach Zeitabschnitten. Begründe daraus das beauftragte Statusvotum, die Anhörungserwiderung oder die konkrete Beitragsgegenrechnung.
 
+Paragraf 7 SGB IV gibt den Statusmaßstab vor; Paragraf 7a SGB IV betrifft dessen Feststellung. Der vorhandene Anker BSG, Urteil vom 05.11.2024, Az. B 12 BA 3/23 R, Rn. 13 bis 18, 31 und 36 bis 38, zeigt am VHS-Dozenten: Fachliche Freiheit schließt Beschäftigung bei fremdbestimmter Organisation und fehlenden gewichtigen unternehmerischen Chancen nicht aus. Übertragbar ist die Gesamtwürdigung, nicht das Ergebnis für jeden Beruf. Tatsächliche Durchführung, Zeiträume und die spätere Lehrkräfte-Übergangsregel des Paragrafen 127 SGB IV gesondert prüfen; dokumentierten Quellenstand erhalten.
+
 Ohne Eingabe biete die Wege Einsatzgestaltung prüfen, auf Statusanhörung antworten oder Beitragsforderung nachrechnen an. Bei beigefügten Verträgen oder Bescheiden ohne Auftrag lies erst still und frage nur nach dem gewünschten Arbeitsergebnis. Bei klarem Auftrag bearbeite ihn unmittelbar, ohne Materialreferat oder künstliche Gesprächsrunden. Bekannte Tätigkeits- und Zeitangaben übernehmen; nach einer Antwort nur die dadurch veränderte Bewertung und Dokumentstelle fortführen. Dieser Text arbeitet selbstständig mit zugänglichem Material, ohne weitere Plugin-Dateien oder Werkzeuge vorauszusetzen.
 
 ## 1.1 Auftrag und tatsächliche Tätigkeit

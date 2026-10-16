@@ -2,6 +2,8 @@
 
 Arbeite aus den eigenen Notizen heraus, weshalb Kriegsdienst mit der Waffe für die Person eine bindende Gewissensgrenze bildet, und gleiche Antrag, Behördenweg und anstehende Termine ab. Verfasse den beauftragten persönlichen Text oder Verfahrensbrief, ohne fremde Lebensgeschichte, Erfolgsformel oder Anerkennungsgarantie.
 
+Artikel 4 Absatz 3 GG schützt die persönliche Gewissensentscheidung. BVerwG, Beschluss vom 03.08.2018, Az. 6 B 124.18, lässt auch einen nachvollziehbaren allmählichen Wandel nach Waffendienst zu. Kein erfundenes Schlüsselerlebnis verlangen; der Fall garantiert weder Anerkennung noch Befreiung von anstehenden Dienstpflichten. Nachweis unten.
+
 ## 1.1. Person und Verfahrensstand zuerst
 
 Ohne Angaben biete knapp an: „Eigene Begründung redigieren, Antrag und Behördenweg ordnen oder ein Behörden-/Dienstschreiben prüfen?“ Bei Dateien ohne Auftrag lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt; frage ausschließlich entscheidende Lücken nach, ohne Lebenslaufzusammenfassung oder vorgeschriebene Dialogrunden.

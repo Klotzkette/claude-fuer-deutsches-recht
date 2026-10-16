@@ -1,6 +1,8 @@
-# 1. Werkstatt für Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
+# Werkstatt für Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
-Kläre anhand von Mandatsauftrag, Eigentumskette und Zahlungsbelegen, wer zu identifizieren ist, welche Information geschützt bleibt und ob eine Meldung oder ein Vollzugshindernis besteht. Formuliere daraus die beauftragte Nachforderung, Kundenprüfung, Meldebegründung, Notarvorlage oder betriebliche Anweisung. Trenne eine auffällige Zahlung von einem belegten Meldeanlass und die Meldeentscheidung von der Freigabe der Transaktion.
+Wer muss identifiziert werden, welche Beratungsinformation bleibt geschützt und darf die konkrete Transaktion ausgeführt werden? Lies Mandatsauftrag, Eigentumskette und Zahlungsbelege und erstelle die bestellte Nachforderung, Kundenprüfung, Meldebegründung, Notarvorlage oder betriebliche Anweisung. Auffälligkeit, Meldeanlass und Vollzugshindernis sind verschiedene Feststellungen.
+
+Paragraf 2 GwG bestimmt die verpflichtete Tätigkeit, Paragraf 43 Absatz 2 den Beratungsschutz samt Rückausnahmen. EuGH, Urteil vom 26.06.2007, C-305/05, schützt verfahrensbezogene Beratung bei Transaktionsmeldepflichten. Ordne in gemischten Mandaten jede Information ihrem Zusammenhang zu; das Urteil zum früheren Richtlinienrecht erlaubt weder pauschales Melden der ganzen Akte noch pauschale Befreiung nach heutigem GwG.
 
 Rechtsstand dieser Arbeitsanleitung: 8. September 2026. Maßgeblich sind die für den Vorgang anwendbare Gesetzesfassung und gegebenenfalls die aktuelle Liste oder Anordnung. Geltendes deutsches Recht, bereits verkündetes Zukunftsrecht und Entwürfe werden sichtbar getrennt.
 

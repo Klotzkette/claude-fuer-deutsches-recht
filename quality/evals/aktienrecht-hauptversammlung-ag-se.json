@@ -36,14 +36,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart benötigte für den Teilnahmeausschluss einen belastbaren Maßstab statt pauschaler Nachweisbegriffe; II ZR 208/22 ist nun bei der satzungsmäßigen Nachweisprüfung anzuwenden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Der Schnellstart benötigte für den Teilnahmeausschluss einen belastbaren Maßstab statt pauschaler Nachweisbegriffe; II ZR 208/22 ist nun bei der satzungsmäßigen Nachweisprüfung anzuwenden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
       "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
       "Leerstart: Einladung, Leitungsskript oder Beschlussmängelprüfung anbieten. Dateien: Satzung und Versammlungsunterlagen still lesen; passende zwei bis drei Produkte klären. Klarer Auftrag: Gewähltes HV-Dokument unmittelbar ausarbeiten.",
-      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
+      "16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt."
     ],
-    "sha256": "a1cf4eb076dc5993784e49cccc974d7165bf843967ba3c67f991376583e7a4d9"
+    "sha256": "f7748420446892d7f18647d3c29b2572fbd6e8d447768ea43a68dd6be9bf6996",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -91,14 +94,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt enthielt isolierte Entscheidungsnamen. Sie prüft nun Satzungsöffnung, Zuverlässigkeit des Nachweises und Grenzen der gesetzlichen Nachweisfiktion anhand der amtlichen Entscheidung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Die Werkstatt enthielt isolierte Entscheidungsnamen. Sie prüft nun Satzungsöffnung, Zuverlässigkeit des Nachweises und Grenzen der gesetzlichen Nachweisfiktion anhand der amtlichen Entscheidung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
       "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
       "Satzung zur Einladung, streitiger Teilnahmenachweis, störungsabhängige Ansagen, Verschuldensbelege und Monatsfrist der Anfechtung.",
-      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
+      "16.10.2026: Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt."
     ],
-    "sha256": "f45ff7c9ac92538263b3fe04ffbb3254a5482aa7bb4b9abb6f66b45b8d1a2411"
+    "sha256": "a39f27e034d3003a630dae44b16598be18310daefcebf4ad039db9282de2b2c8",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -138,6 +144,27 @@
       "SE-Sonderrecht, Mitbestimmung und einzelne virtuelle Versammlungsrechte nicht umfassend neu verifiziert.",
       "Desk- und Quellenprüfung; kein Live-Client- oder Live-Modelltest und keine vollständige Neuverifikation sämtlicher vorhandener Quellen.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-schnellstart.md",
+        "sha256": "f7748420446892d7f18647d3c29b2572fbd6e8d447768ea43a68dd6be9bf6996",
+        "reason": "Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt.",
+        "anchor_or_exception": "Paragrafen 118a und 123 AktG; BGH 25.03.2025 II ZR 208/22: satzungsmäßiger Nachweis bei nicht börsennotierter AG, keine allgemeine Aussage zu Eigentum oder virtuellen Rechten."
+      },
+      {
+        "path": "aktienrecht-hauptversammlung-ag-se/aktienrecht-hauptversammlung-ag-se-werkstatt.md",
+        "sha256": "a39f27e034d3003a630dae44b16598be18310daefcebf4ad039db9282de2b2c8",
+        "reason": "Versammlungsunterlagen und konkrete Teilnahmeentscheidung im Einstieg benannt.",
+        "anchor_or_exception": "Paragrafen 118a und 123 AktG; BGH 25.03.2025 II ZR 208/22: satzungsmäßiger Nachweis bei nicht börsennotierter AG, keine allgemeine Aussage zu Eigentum oder virtuellen Rechten."
+      }
     ]
   }
 }

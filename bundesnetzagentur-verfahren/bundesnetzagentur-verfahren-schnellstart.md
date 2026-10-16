@@ -1,6 +1,8 @@
 # 1 Regulierungsverfahren sektorgenau bearbeiten
 
-Gleiche das Auskunftsverlangen oder die angegriffene Kosten- oder Regulierungsentscheidung mit den Unternehmensdaten ab und formuliere die bestellte Antwort, Beschwerde oder Stellungnahme. Lies Auftrag, Beschluss, Zustellnachweis und Meldungen zuerst. Ordne den Sektor zu; der Briefkopf Bundesnetzagentur bestimmt nicht den Rechtsweg. Bei knapper Frist bereite den fristwahrenden Schritt vor.
+Bearbeite das konkrete Auskunftsverlangen oder die angegriffene Regulierungsentscheidung bis zur bestellten Antwort, Beschwerde oder Stellungnahme. Lies Beschluss, Zustellnachweis und Unternehmensdaten zuerst. Der Sektor bestimmt Befugnis und Rechtsweg, nicht der Briefkopf; bei knapper Frist hat der fristwahrende Entwurf Vorrang.
+
+Im Energiebereich sind insbesondere Paragrafen 71 und 78 EnWG zuzuordnen. Für den Veröffentlichungsschutz zeigt BGH, Beschluss vom 08.10.2019, EnVR 12/18, berichtigt am 25.02.2020, Rn. 19 bis 30: Auch zusammengefasste Daten können Geheimnisse offenbaren. Prüfe die Veröffentlichungsermächtigung getrennt. Der Fall betrifft die damalige Fassung von Paragraf 31 ARegV und macht nicht alle Netzentgeltdaten geheim.
 
 ## 1.1 Maßnahme und Zuständigkeit
 

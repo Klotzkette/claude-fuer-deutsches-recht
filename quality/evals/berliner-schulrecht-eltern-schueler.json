@@ -744,24 +744,30 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Berliner Eltern-/Schülerworkflow mit aktuell getrennten Kohorten, Verfahren und fortgesetzter Dokumentproduktion.",
-    "changes": [
-      "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
-      "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
-      "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme."
-    ],
-    "sha256": "b1d0063524138811f98d694b5efca3de03dbfbd0d3b8d2ddb6b1e66c874ec690"
-  },
-  "workshop_review": {
-    "verdict": "revised",
-    "reason": "Eigenständiger Berliner Eltern-/Schülerworkflow mit aktuell getrennten Kohorten, Verfahren und fortgesetzter Dokumentproduktion.",
+    "reason": "Eigenständiger Berliner Eltern-/Schülerworkflow mit aktuell getrennten Kohorten, Verfahren und fortgesetzter Dokumentproduktion. Redaktionelle Anschlussprüfung 16.10.2026: Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
       "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
       "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme.",
-      "Beteiligtenakteneinsicht vorrangig nach § 6 Berliner VwVfG eingeordnet; begrenzte Bundes-VwVfG-Anwendung und Schutzgründe getrennt."
+      "16.10.2026: Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht."
     ],
-    "sha256": "a6a0d294f7ed989a35a58e20e3ece6bbe893dba02d3de6cbb75d14a3b4205869"
+    "sha256": "f1f94c47bfabeeb40db85abe8b682900aa887fba0f8e9e4aefd7421d3c131b18",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Berliner Eltern-/Schülerworkflow mit aktuell getrennten Kohorten, Verfahren und fortgesetzter Dokumentproduktion. Redaktionelle Anschlussprüfung 16.10.2026: Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
+      "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
+      "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme.",
+      "Beteiligtenakteneinsicht vorrangig nach § 6 Berliner VwVfG eingeordnet; begrenzte Bundes-VwVfG-Anwendung und Schutzgründe getrennt.",
+      "16.10.2026: Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht."
+    ],
+    "sha256": "5f3d8ec59f195e5709826b84903806fab95ff70073f0d973c1985aae831a6b43",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "verdict": "revised",
@@ -778,5 +784,26 @@
     "skill_path": "berliner-schulrecht-eltern-schueler/skills/berlin-bildungsmandat-steuern/SKILL.md",
     "prompt_sha256": "1f403cae25cf0ce8415d4debfe3f10482548fddf7ff93609241f8e21e4142457",
     "skill_sha256": "540c36b054602282887c79c4e8385bda027b69cf4e7201a587a46183cf966f30"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-schnellstart.md",
+        "sha256": "f1f94c47bfabeeb40db85abe8b682900aa887fba0f8e9e4aefd7421d3c131b18",
+        "reason": "Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht.",
+        "anchor_or_exception": "Artikel 20 VvB, SchulG Berlin und Artikel 19 Absatz 4 GG; OVG Berlin-Brandenburg 24.02.2026 OVG 3 S 15/26: vorläufige Note nicht isoliert angreifen, kein genereller Ausschluss gerichtlichen Schutzes."
+      },
+      {
+        "path": "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-werkstatt.md",
+        "sha256": "5f3d8ec59f195e5709826b84903806fab95ff70073f0d973c1985aae831a6b43",
+        "reason": "Schulische Entscheidung und passender Antrag statt pauschaler Rechtswegübersicht.",
+        "anchor_or_exception": "Artikel 20 VvB, SchulG Berlin und Artikel 19 Absatz 4 GG; OVG Berlin-Brandenburg 24.02.2026 OVG 3 S 15/26: vorläufige Note nicht isoliert angreifen, kein genereller Ausschluss gerichtlichen Schutzes."
+      }
+    ]
   }
 }

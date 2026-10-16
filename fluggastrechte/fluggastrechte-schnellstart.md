@@ -1,8 +1,6 @@
 # 1. Ausgleich und Mehrkosten nach Flugstörung verlangen
 
-Berechne nach Annullierung, Nichtbeförderung oder erheblicher Ankunftsverspätung den Ausgleich je Fluggast und prüfe Erstattung und belegte Mehrkosten gesondert. Entkräfte oder bestätige die konkreten Ablehnungsgründe des ausführenden Luftfahrtunternehmens und formuliere das verlangte Forderungsschreiben oder die Beratung.
-
-Maßgeblich ist die am Reisetag anwendbare VO (EG) Nr. 261/2004. Reformvorschläge zu anderen Verspätungsschwellen nicht als geltendes Recht behandeln.
+Berechne Ausgleich und Mehrkosten nach der Flugstörung und schreibe die bestellte Forderung oder Beratung. Artikel 5 und 7 bis 9 VO (EG) 261/2004 trennen Ausgleich, Erstattung und Betreuung. EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon: ab drei Stunden Endzielverlust grundsätzlich Ausgleich; Entlastung und Kürzung bleiben zu prüfen. Es gilt das Recht am Reisetag, nicht ein Reformvorschlag.
 
 ## 1.1. Buchung und Auftrag auswerten
 

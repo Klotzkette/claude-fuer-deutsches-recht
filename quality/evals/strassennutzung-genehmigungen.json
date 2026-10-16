@@ -121,20 +121,20 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztextreview: Zehn-Themen-Prüfung und gerichtliche Grenzen erhalten; drei echte Startwege, stilles Dateilesen und direkte klare Aufträge; erteilte Ausnahme führt konkret zum Öffnungsantrag. Kürzung technischer Wiederholungen hält beide 7500-Grenzen ein.",
+    "reason": "Individueller Ganztextreview: Zehn-Themen-Prüfung und gerichtliche Grenzen erhalten; drei echte Startwege, stilles Dateilesen und direkte klare Aufträge; erteilte Ausnahme führt konkret zum Öffnungsantrag. Kürzung technischer Wiederholungen hält beide 7500-Grenzen ein. Redaktioneller Nachtrag 16.10.2026: Bauzaunfall und Verfahrenskonzentration früh erklärt, im Mini vorhandenen Absatz verschoben. Straßenbelange, Gebühren und landesabhängige Zuständigkeit bleiben ausdrücklich bestehen; Poller-, Schulstraßen- und Gehwegzweige unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Einfahrtsausnahme und tatsächlichen Schlüsselzugang in einer konkreten Antragsformulierung getrennt.",
       "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
       "Die zuvor geprüften sechs gerichtlichen Anker und die Trennung von StVO-Reform und Altentscheidungen erhalten.",
       "Leerer Einstieg und Dateien ohne Aufgabe verhindern Materialdump; bekannte Fahrzeug- und Vollständigkeitsangaben nicht erneut erheben."
     ],
-    "sha256": "4f6e852597950b096dc06b442aba49ce730a88061ef056f1437eb38d3725f07e",
+    "sha256": "33c339707dbfa483cd7b251dd26ff5ad52715467780bd7f509d434a811cc90fb",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Review der erheblich erweiterten Werkstatt: Lieferablauf, Gegenbefunde, Fahrzeugwechsel, Schlüsselbedienung, tatsächliche Gehwegkontrollen und neue Behördenantworten führen zu anderen Anträgen oder Betriebsanweisungen; alle bisherigen Fachrouten bleiben erhalten.",
+    "reason": "Individueller Review der erheblich erweiterten Werkstatt: Lieferablauf, Gegenbefunde, Fahrzeugwechsel, Schlüsselbedienung, tatsächliche Gehwegkontrollen und neue Behördenantworten führen zu anderen Anträgen oder Betriebsanweisungen; alle bisherigen Fachrouten bleiben erhalten. Redaktioneller Nachtrag 16.10.2026: Bauzaunfall und Verfahrenskonzentration früh erklärt, im Mini vorhandenen Absatz verschoben. Straßenbelange, Gebühren und landesabhängige Zuständigkeit bleiben ausdrücklich bestehen; Poller-, Schulstraßen- und Gehwegzweige unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Einfahrtsausnahme und tatsächlichen Schlüsselzugang in einer konkreten Antragsformulierung getrennt.",
       "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
@@ -142,7 +142,7 @@
       "Dokumentpfade Lieferausnahme, Öffnungsantrag und Betriebsanweisung anhand geänderter Kühlzeit, Fahrzeugbindung und Schlüsselvergabe konkretisiert.",
       "Neue Behördenantwort nach ihrem Regelungsgehalt eingeordnet; Fristauslöser, positive Eilregelung und Freigabegrenzen vertieft."
     ],
-    "sha256": "46cf587efb51212841639b8520b5da2748764f56d0165b5649087bf22b517711",
+    "sha256": "dd0efc439d4ad79cf697b1ba2f5844af6372bec07931687b90d3cb0c4665f961",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

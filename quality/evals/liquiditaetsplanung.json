@@ -96,15 +96,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert.",
+    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig.",
     "changes": [
       "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
       "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "8346fc277562405bdd422e7ab40c1447cba6474281dbee6d0a224c67a4502da9"
+    "sha256": "e69559e768e30574ec523630a40aaab6b5b8d26342fbcc19960d7a0d0072fbf4"
   },
   "selection": {
     "positive": [
@@ -248,15 +249,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert.",
+    "reason": "Amtlicher Volltextabgleich und individuelle redaktionelle Prüfung mit gezielter Korrektur der Insolvenzmethodik; Rechen- und Praxistests werden außerhalb dieses Desk-Review-Profils gesondert dokumentiert. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig.",
     "changes": [
       "Alle fünf Kapitelzitate am amtlichen Volltext bestätigt; elf Entscheidungen mit Fundstelle, Reichweite, Original-PDF und SHA-256 dokumentiert.",
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
       "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Redaktion 16.10.2026: Tatsächlich verfügbare Drittmittel als frühen Krisenprüfpunkt eingeordnet; operative Rechnung bleibt eigenständig. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "73c14a4e0c598860c56f15630dbfd8c1a0679686e6288dc48f20dae3c262f6cb"
+    "sha256": "d0899bc793a5cdb61d8a2d37da0593553a0950b51e6252d4043e0744d0944714"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",

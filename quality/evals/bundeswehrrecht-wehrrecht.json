@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden.",
+    "norms_or_source_basis": "Paragrafen 3, 5 und 6 WBO; Artikel 6 GG; Paragraf 31 SG",
+    "selected_anchor_identifiers": [
+      "1 WB 27.17"
+    ],
+    "application_limit": "Kein Wunschstandort oder automatischer Aufschub; damaliger Versetzungserlass nicht als heutige Fassung ausgegeben.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "225f9d9e3aabc03cca020befa6f1d6db7c8cda995cf553877be58693a5c141ff",
+      "characters": 7261,
+      "utf8_bytes": 7361,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "21a46eb42a1660cef425e8a66ae04296adf5a6022d31bfc10aec0f7e824ed964",
+      "characters": 17466,
+      "utf8_bytes": 17731,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "bundeswehrrecht-wehrrecht",
   "reviewed_on": "2026-10-01",
@@ -56,7 +87,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test. Einstiegsredaktion 16.10.2026, Batch 2: Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
       "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
@@ -64,9 +95,10 @@
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Leer: Verwendung, Beurteilung oder Statusklärung. Dateien: still lesen und dienstrechtlich passenden Dokumentweg anbieten. Klar: direkt bestellte Beschwerde oder Beratung ausarbeiten.",
       "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
-      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "86e5302a7f6efe74708621ff196fb30d099d75b763528d3ffa955628f7e7a055",
+    "sha256": "225f9d9e3aabc03cca020befa6f1d6db7c8cda995cf553877be58693a5c141ff",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -115,16 +147,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test. Einstiegsredaktion 16.10.2026, Batch 2: Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
       "Familienpflege und Empfangszuständigkeit in bestehende Versetzungs- und Beschwerdeprüfung integriert.",
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Pflegekonkretisierung, Kenntnis- und Beschwerdebeleg, Beurteilungszeitraum, medizinischer Umfang und Ausbildungskosten vertieft.",
       "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
-      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beschwerde, Statusfrage und konkreter Personalvorgang führen zum passenden Dokument; Pflegebelastung wird mit Ersatzbetreuung und Dienstbedarf verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "9e4677c96d17fc9a89aa23de1571f21dd74341025e436e90292b948467e0c979",
+    "sha256": "21a46eb42a1660cef425e8a66ae04296adf5a6022d31bfc10aec0f7e824ed964",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

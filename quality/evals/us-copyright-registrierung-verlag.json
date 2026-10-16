@@ -36,14 +36,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Bloßer Antragseingang erfüllt die Klagevoraussetzung für United States works grundsätzlich noch nicht. Am 23. September vollständig erneut gelesen: konkrete Registrierungs-, Office-Action- und Remedies-Einstiege sowie Werkbestandteile und Übersetzervereinbarung als Formularfortsetzung ergänzt; unter 7500 Bytes und Zeichen.",
+    "reason": "Bloßer Antragseingang erfüllt die Klagevoraussetzung für United States works grundsätzlich noch nicht. Am 23. September vollständig erneut gelesen: konkrete Registrierungs-, Office-Action- und Remedies-Einstiege sowie Werkbestandteile und Übersetzervereinbarung als Formularfortsetzung ergänzt; unter 7500 Bytes und Zeichen. Redaktioneller Nachtrag 16.10.2026: Fourth Estate vorgezogen: Behördenentscheidung, effektives Registrierungsdatum und Remedies auseinandergehalten; US-work-Einordnung, Ablehnung und gesetzliche Sonderfälle bleiben ausdrücklich gesondert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Fourth Estate in beide Zeitachsen integriert",
       "Section 411(a) von effective date und Dreimonatsregel unterschieden",
       "Ablehnungs- und Sonderfälle sowie Fortbestand früherer Ansprüche ausdrücklich begrenzt",
       "Neue Übersetzung, alter Text und fremde Illustrationen steuern Claim-Felder; nachgereichter Vertrag wirkt nur in seinem belegten Umfang."
     ],
-    "sha256": "916cc1e7d223299ea880b4f22c3298a4150b072244d641c427a81d03738e6431"
+    "sha256": "282d8308f219530d5c7ca20151a2ff0adf09903fe2761556ed676e30f56ff684"
   },
   "selection": {
     "positive": [
@@ -91,7 +91,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkumfang, Veröffentlichung, Deposit, Office Action und Remedies werden zeitlich getrennt; vollständiges Worksheet oder bestellter Entwurf bleibt Ziel. Am 23. September vollständig erneut gelesen: Neuauflage, widersprüchliche Publikationsbelege und konkrete Amtsrückfrage bis zu Feldtexten und Timing-Memo ausgebaut.",
+    "reason": "Werkumfang, Veröffentlichung, Deposit, Office Action und Remedies werden zeitlich getrennt; vollständiges Worksheet oder bestellter Entwurf bleibt Ziel. Am 23. September vollständig erneut gelesen: Neuauflage, widersprüchliche Publikationsbelege und konkrete Amtsrückfrage bis zu Feldtexten und Timing-Memo ausgebaut. Redaktioneller Nachtrag 16.10.2026: Fourth Estate vorgezogen: Behördenentscheidung, effektives Registrierungsdatum und Remedies auseinandergehalten; US-work-Einordnung, Ablehnung und gesetzliche Sonderfälle bleiben ausdrücklich gesondert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Fourth Estate in beide Zeitachsen integriert",
       "Section 411(a) von effective date und Dreimonatsregel unterschieden",
@@ -99,7 +99,7 @@
       "Alte und neue Werkbeiträge, Übertragungsurkunde und tatsächliche Ausgabe bestimmen Claim und Deposit; historische Circular 14 ausdrücklich von Compendium-Praxis getrennt.",
       "Office-Action-Frist aus dem konkreten Schreiben, Nachreichung und Zertifikat führen zu geänderter Antwort und getrennter Bewertung von Sections 410(d), 411(a) und 412."
     ],
-    "sha256": "3a3ac5148cd1bf26a655b190ec47f330a9d069ba962f30a6924497fc780d0e2d"
+    "sha256": "7f22ab0615839137bee501d5c2400566878c9048c3b458cf8a6d3ecf3b03614a"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

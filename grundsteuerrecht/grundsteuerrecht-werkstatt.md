@@ -1,6 +1,8 @@
-# 1. Grundsteuerbescheide und Grundstücksbelege abgleichen
+# Grundsteuerbescheide und Grundstücksbelege abgleichen
 
-Kläre, ob Flurstück, Miteigentumsanteil, Wohnfläche und Bodenrichtwert richtig bewertet wurden und ob Messbetrag und Hebesatz daraus zutreffend übernommen sind. Ordne jede Abweichung dem angreifbaren Verwaltungsakt und seiner Frist zu. Verfasse die beauftragte Berechnung, den Antrag oder Mandantenbrief mit nachvollziehbarem Änderungsziel.
+Prüfe Grundstücksdaten, Bewertung, Messbetrag und Hebesatz gegen die zugehörigen Bescheide und liefere die bestellte Berechnung, den Antrag oder Mandantenbrief. Paragraf 351 Absatz 2 AO verlangt, den Fehler auf der richtigen Bescheidstufe anzugreifen; ein neuer Jahresbescheid eröffnet nicht jede frühere Frist neu.
+
+Für Bodenrichtwerteinwände im Bundesmodell gilt BFH, Urteil vom 12.11.2025, II R 3/25: Konkrete gesetzliche, methodische oder Verfahrensfehler benennen. Bahntrasse oder niedrige Ist-Miete allein genügen nicht automatisch; der Nachweis eines niedrigeren gemeinen Werts ist ein eigener Weg. Das Urteil bestätigt weder jeden Einzelbescheid noch alle Landesmodelle.
 
 ## 1. Auftrag und erster Arbeitsstand
 

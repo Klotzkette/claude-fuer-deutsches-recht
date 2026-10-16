@@ -1,6 +1,6 @@
 # 1. Factoring: Forderungskauf und Zahlungsstand prüfen
 
-Kläre für die betroffenen Rechnungen, ob der Factor sie wirksam erworben hat und ob der Debitor durch Zahlung bereits frei geworden ist. Gleiche zuerst Ankaufannahme, Abtretung, Anzeige und Zahlungsbeleg ab. Berechne den verbleibenden Saldo getrennt vom Ankaufpreis und formuliere die beauftragte Abrechnung, Vertragsbewertung oder Zahlungsantwort.
+Prüfe Forderungskauf und Zahlung anhand von Ankaufannahme, Abtretung und Belegen; liefere die bestellte Abrechnung, Vertragsbewertung oder Zahlungsantwort. Paragrafen 398 und 407 BGB trennen Erwerb und Debitorenschutz. BGH, Urteil vom 08.05.2014, IX ZR 128/12: Der Factor zahlt seine eigene Kaufpreisschuld, nicht die Schuld des Debitors. Daraus folgt kein allgemeiner Vorrang vor anderen Sicherungsrechten.
 
 ## 1.1. Auftrag und Forderungsunterlagen
 

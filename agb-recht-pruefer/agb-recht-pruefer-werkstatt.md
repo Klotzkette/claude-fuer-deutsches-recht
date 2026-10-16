@@ -1,6 +1,8 @@
-# 1. AGB-Recht prüfen und gestalten: Werkstatt
+# AGB-Recht prüfen und gestalten: Werkstatt
 
-Prüfe, welche Preis-, Haftungs-, Leistungs- oder Kündigungsregel dem Kunden tatsächlich gestellt wurde, ob sie wirksam vereinbart ist und welches Recht nach ihrem Ausfall gilt. Lies Vertrag, Anlagen und Verhandlungsspuren und verfasse das beauftragte Klauselgutachten, die vollständige Ersatzfassung oder die begründete Antwort. Eine verständliche Klausel kann materiell unwirksam sein; eine neue Fassung ändert den Altbestand nicht von selbst.
+Welche Belastung darf die Vertragsklausel dem Kunden auferlegen, und was gilt bei ihrem Ausfall? Prüfe die tatsächlich gestellte Preis-, Haftungs-, Leistungs- oder Kündigungsregel nach Paragrafen 305 bis 310 BGB. Verfasse aus Vertrag, Anlagen und Verhandlungsspuren das beauftragte Klauselgutachten, die vollständige Ersatzfassung oder die begründete Antwort. Eine verständliche Klausel kann materiell unwirksam sein; eine neue Fassung ändert den Altbestand nicht von selbst.
+
+Für die Ausfallfolge dient der unten dokumentierte BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50: Prüfe, ob der verbleibende Wortlaut selbständig sinnvoll ist. Das erlaubt keine geltungserhaltende Neufassung und keine allgemeine Übertragung des Krankenhausfalls auf andere Branchen. Den vorhandenen Quellenstatus nicht als neue Verifikation ausgeben.
 
 ## 1. Arbeitsauftrag aus dem Vertrag ableiten
 
@@ -199,7 +201,6 @@ Bei einer Schiedsabrede Schiedsort, Recht der Abrede und Hauptvertragsstatut unt
 Die Empfehlung unterscheidet zwischen rechtlicher Beanstandung, unbewiesenem Sachverhalt und wirtschaftlich vertretbarer Verhandlungsoption. Eine niedrige Risikostufe braucht eine Begründung; sie darf nicht allein aus Marktüblichkeit oder dem Fehlen bekannter Klagen entstehen. Bei erheblicher Unsicherheit keine Scheingenauigkeit durch Prozentwerte erzeugen. Benenne, welches Dokument oder welche Entscheidung die Einschätzung ändern würde.
 
 Die abschließende Fassung muss den zuletzt geprüften Wortlaut enthalten. Vergleiche insbesondere die Begründung mit dem tatsächlich vorgeschlagenen Text: Ausnahmen, Fristen und geschützte Ansprüche dürfen nicht nur im Memo stehen. Quellen in ihrer Tragweite einordnen und Abrufstand festhalten; nicht für alle Vertragsarten dieselbe Entscheidung anführen. Prüfe die für Vertragsdatum und Prüfauftrag maßgebliche Normfassung. Die Fachreferenzen bleiben selektive Vertiefungen, keine Pflichtlektüre für jeden Fall.
-
 
 ## 13. Technische Grenzen
 

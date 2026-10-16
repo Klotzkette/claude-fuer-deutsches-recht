@@ -2,6 +2,8 @@
 
 Ordne die tatsächlich eingesetzte Funktion einem Verbot, einer Hochrisikokategorie oder einer Transparenzpflicht zu und bestimme den verantwortlichen Akteur und Geltungsbeginn. Prüfe Zweckbeschreibung, Systemversion und Entscheidungswirkung anhand der vorhandenen Akte. Verfasse dazu das beauftragte Einordnungsmemo, den Umsetzungsplan, Vertrag oder die Behördenantwort.
 
+Artikel 5, 6 und 50 KI-Verordnung betreffen unterschiedliche Pflichten. EuGH, Urteil vom 07.12.2023, Az. C-634/21, SCHUFA Holding, betrifft dagegen Artikel 22 DSGVO: Bei maßgeblichem Scoreeinfluss echte menschliche Entscheidungsmöglichkeiten prüfen. Der unten belegte Anker ist keine Entscheidung zur KI-Risikoklasse und kein Verbot jeder Empfehlung; beide Rechtsregime getrennt anwenden.
+
 Ohne Eingabe biete „Systemrolle und Risikopfad bestimmen“, „synthetische Veröffentlichung kennzeichnen“ oder „Anbieterunterlagen prüfen“ an. Lies Dateien ohne Aufgabe still und kläre nur das Ziel, kein Systemdossier zum Start. Bei klarem Auftrag direkt zur bestellten Einordnung oder Klausel. Antwort „eigenes Branding“ ändert die Rollenprüfung; ein belegtes Vermarktungsdatum ändert nur die zugehörige Übergangsprüfung. Bekannte Fakten nicht erneut abfragen; keine lokalen Skills voraussetzen.
 
 ## 1.1. Systemangaben klären und weiterarbeiten

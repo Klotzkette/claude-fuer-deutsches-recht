@@ -91,17 +91,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztext nach Erweiterung gelesen: drei Eingangsmodi führen zum Einspruch, Messdatenantrag oder Rechtsfolgentext; Behördenantworten ändern das Informationsbegehren und widerlegte Hypothesen werden entfernt. Vorhandene Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest.",
+    "reason": "Ganztext nach Erweiterung gelesen: drei Eingangsmodi führen zum Einspruch, Messdatenantrag oder Rechtsfolgentext; Behördenantworten ändern das Informationsbegehren und widerlegte Hypothesen werden entfernt. Vorhandene Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
       "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Vorhandenes Wartungsprotokoll, nachgewiesene Nichtspeicherung und bloß fehlender Behördenbesitz in konkrete Fortsetzungswege übersetzt.",
       "Bestätigte Vertretungsmöglichkeit verändert die Fahrverbotshärtebegründung.",
-      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
+      "Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch."
     ],
-    "sha256": "ec6d81bad5de842f101ae0c804925941c12dcf355c51d3731724aa64323ba516",
-    "reviewed_on": "2026-09-30",
+    "sha256": "725057d0d79a2b3c623d53c655cc24719884c044e90ee55278ea5b34690f8557",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "selection": {
@@ -189,17 +190,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig nachgelesen: Anhörung, Bescheid, Informationszugang und gerichtliche Weiterverfolgung führen zu passenden Texten; entlastende Technikbelege und belastende Härtefalltatsachen ändern die Empfehlung. Entscheidungsarten bleiben getrennt. Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest.",
+    "reason": "Werkstatt vollständig nachgelesen: Anhörung, Bescheid, Informationszugang und gerichtliche Weiterverfolgung führen zu passenden Texten; entlastende Technikbelege und belastende Härtefalltatsachen ändern die Empfehlung. Entscheidungsarten bleiben getrennt. Desk-Review, kein Live-Modelltest. Nachtrag 30.09.2026: BGH 4 StR 235/25 in den Datenworkflow eingeordnet; beide Prompts erneut gelesen, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Informationszugang ohne vorherigen Fehlernachweis, aber mit Bezug zur konkreten Messung begründet.",
       "Antrag, Ablehnung und Paragraf 62 OWiG in die Bearbeitung eingebunden.",
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Behördenantwort, Wartungsprotokoll und Gerätezustand mit Nachforderung, Beweisfrage und aktualisiertem Verteidigungsvermerk verbunden.",
       "Fristauslöser, Verfahrensort, belegte Ersatzbeförderung und gesonderte Entscheidung über Beschränkung konkretisiert.",
-      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
+      "Bescheid, Fahrerzuordnung und Messung bleiben Einstieg; 2 BvR 1616/18 früh mit Verteidigungsbezug, vorhandenen Daten und Grenze gegenüber Ausforschung und automatischem Freispruch."
     ],
-    "sha256": "d39bb3627cda331da9e01411fb3c48731b6b704388443c8d4ed3dbde95012024",
-    "reviewed_on": "2026-09-30",
+    "sha256": "bc9171bf189fc0ce5a8d782edf216cbf7d999ae1e621c9e6d0d7b211aeea8b6d",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

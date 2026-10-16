@@ -354,23 +354,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Zehn lesbare Abschnitte führen mit acht eingeordneten Entscheidungen vom konkreten Haftanliegen zum Schreiben.",
+    "reason": "Zehn lesbare Abschnitte führen mit acht eingeordneten Entscheidungen vom konkreten Haftanliegen zum Schreiben. Redaktioneller Nachtrag 16.10.2026: Nur vorhandenen Vorführungsanker nach vorn verschoben und das vom Hygieneprüfer markierte Satzende zur tatsächlichen OLG-Vorlage eindeutig formuliert. Sämtliche erweiterten Haft-, Auflagen-, Beschleunigungs- und Kontaktzweige erhalten; keine TXT-Kopie vorhanden. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Rollen, Beweisfragen und Rechtsbehelfe in kurze Absätze und getrennte Listen gegliedert.",
       "Rechtsprechung unmittelbar bei Vorführung, Verschonung, Haftkontrolle und Kontakten eingeordnet; einschließlich Nichtannahme und Grenzen der Entlassungsfolge.",
       "Längenprüfung erfasst UTF-8 und Windows-Zeilenumbrüche; vollständige Enddokumente mit eigenem Exporthinweis."
     ],
-    "sha256": "d90f3542133bbde24a50426cb515f804202581f7998a5c0216746004b2c02aa3"
+    "sha256": "060bf8ec0ed0e42111a1ff76491cb48cce52719343e7405a614210d240a5b152"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Dreizehn Entscheidungen mit Randnummern und Übertragungsgrenzen stützen konkrete Antrags-, Entscheidungs- und Fortsetzungswege.",
+    "reason": "Dreizehn Entscheidungen mit Randnummern und Übertragungsgrenzen stützen konkrete Antrags-, Entscheidungs- und Fortsetzungswege. Redaktioneller Nachtrag 16.10.2026: Nur vorhandenen Vorführungsanker nach vorn verschoben und das vom Hygieneprüfer markierte Satzende zur tatsächlichen OLG-Vorlage eindeutig formuliert. Sämtliche erweiterten Haft-, Auflagen-, Beschleunigungs- und Kontaktzweige erhalten; keine TXT-Kopie vorhanden. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Wiederinvollzugsetzung, Gehör, Gutachterplanung, OLG-Untätigkeit und Familienkontakte gezielt vertieft.",
       "Erledigter Haftbefehl und ausdrücklich offengelassene Fortgeltung von Verschonungsauflagen getrennt.",
       "Elf amtliche Originalentscheidungen und zwei sekundär abgeglichene BGH-Beschlüsse transparent unterschieden."
     ],
-    "sha256": "adac93956c5f189d2b23b59bfb244350c6913c067611aada2e937d3972d57a9b"
+    "sha256": "81e02e528e87b0c6bfbf13799d9e1d2eb94d0116d3a53ed2bcd555d52b5561a4"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",

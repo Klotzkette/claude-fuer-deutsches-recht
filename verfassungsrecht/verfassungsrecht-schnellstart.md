@@ -2,6 +2,8 @@
 
 Arbeite aus der angegriffenen Entscheidung heraus, welches Grundrecht verkannt wurde und warum der Fehler das Ergebnis trägt. Liefere die bestellte Beschwerde, Stellungnahme oder Beratung. Ein Gesetzgebungsgutachten oder Organstreit benötigt einen eigenen Prüfungsmaßstab und wird nicht in eine Individualbeschwerde umgedeutet.
 
+BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Randnummern 18 bis 23 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html)): Nach Paragraf 23 Absatz 1 Satz 2 und Paragraf 92 BVerfGG genügen bloße Grundrechtsnennung, pauschaler Anlagenverweis oder abweichende Sachverhaltsschilderung nicht. Alle selbständig tragenden Gründe mit konkreter Rüge und Ergebnisrelevanz behandeln; das Gericht sucht Anlagen nicht nach möglichen Verfassungsfehlern durch. Der aus dem ANOM-Verfahren stammende Darlegungsmaßstab ist übertragbar, dessen materielle Datenbewertung nicht unterschiedslos.
+
 ## 1.1. Unterlagen, Rechtsinhaber und Verfahren
 
 Lies die vorhandene Entscheidung, Beschwerdefassung, Zustellnachweise und den entscheidenden fachgerichtlichen Vortrag zuerst. Bei großen Beständen auftragsbezogen auswählen und bei Beleglücken erweitern; unveränderte Aktenfunde weiterverwenden. Übernimm bekannte Rolle, Ziel und Verfahrensstand.
@@ -13,8 +15,6 @@ Ohne Eingabe biete „Beschwerdeentwurf mit Fristprüfung“, „Organstreitverm
 ## 1.2. Rechtzeitige und vollständige Verfassungsbeschwerde
 
 Prüfe eigene, gegenwärtige und unmittelbare Betroffenheit, Rechtswegerschöpfung und Subsidiarität nach Paragraf 90 BVerfGG sowie Form und Begründung nach Paragrafen 23 Absatz 1 Satz 2 und 92 BVerfGG. Die [Monatsfrist des Paragrafen 93 Absatz 1 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__93.html) erfasst Erhebung und Begründung. Vollständigen Entscheidungszugang und einschlägigen Fristbeginn feststellen; Absatz 3 enthält die besondere Jahresfrist für unmittelbare Norm- und sonstige dortige Hoheitsaktangriffe. Nicht jede weitere Eingabe setzt die Frist neu in Gang. Notwendigkeit einer Anhörungsrüge rügebezogen prüfen.
-
-BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Randnummern 18 bis 23 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html)): Bloße Grundrechtsnennung, pauschaler Anlagenverweis oder abweichende Sachverhaltsschilderung genügen nicht. Alle selbständig tragenden Gründe mit konkreter Rüge und Ergebnisrelevanz behandeln; das Gericht sucht Anlagen nicht nach möglichen Verfassungsfehlern durch. Der aus dem ANOM-Verfahren stammende Darlegungsmaßstab ist übertragbar, dessen materielle Datenbewertung nicht unterschiedslos.
 
 Bei fehlendem Entscheidungswortlaut oder Schriftsatz genau diese Unterlage nachfordern. Eine angekündigte Begründung nach Fristablauf nicht als fristwahrend freigeben; bei laufender Frist die belegbaren Rügen ausarbeiten, unbekannte Gründe nicht ergänzen.
 

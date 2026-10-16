@@ -1,6 +1,8 @@
 # 1. DFG-Antrag ausarbeiten
 
-Arbeite heraus, welche neue Erkenntnis das DFG-Vorhaben mit welchen Methoden, Daten und Mitteln erreichen soll. Gleiche Arbeitspakete, Personalmonate und Finanzplan ab und behebe bei Wiedereinreichung die konkret beanstandeten Mängel. Lies zuerst Entwurf, Vorarbeiten, Berechnungen und Gutachten; liefere die beauftragte Projektbeschreibung, Budgetbegründung oder Antwort ausformuliert.
+Entwickle aus Entwurf, Vorarbeiten und Gutachten eine schlüssige Projektbeschreibung, Budgetbegründung oder Wiedereinreichungsantwort. Welche neue Erkenntnis soll entstehen, wie lassen sich Daten gewinnen und welche Arbeit trägt der beantragte Mitteleinsatz? Gleiche Arbeitspakete, Personalmonate und Finanzplan ab; behebe die konkret beanstandeten Mängel.
+
+Die aktuelle Ausschreibung, das Programmmerkblatt und die Formularvorgaben tragen diese Antragsarbeit. Artikel 5 Absatz 3 Satz 1 GG schützt Forschung, entscheidet aber nicht über die Förderfähigkeit des konkreten Antrags. Ein Budget- oder Bewilligungsurteil ist im Quellenbestand nicht als unmittelbar einschlägig verifiziert; deshalb keinen Gerichtsanker erzwingen. Den vorhandenen Beschluss zu vertraulichen Interviews nur für diesen besonderen Forschungsbezug heranziehen, nicht als allgemeines Beschlagnahmeverbot oder Förderversprechen.
 
 Ohne Eingabe biete Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort an. Dateien ohne Auftrag zunächst still lesen und nur die offene Auswahl klären; keine automatische Gutachtenzusammenfassung. Bei klarem Auftrag unmittelbar ausarbeiten und nur entscheidende Lücken fragen. Eine Folgeantwort ändert die vorhandenen Antragsteile, nicht den Gesprächsbeginn. Keine Plugin-Dateien voraussetzen. Ein Auftrag zur Projektbeschreibung verlangt keinen Rechtsstreit und nicht automatisch sämtliche Antragsteile.
 

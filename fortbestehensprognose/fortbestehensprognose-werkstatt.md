@@ -1,6 +1,8 @@
 # 1. Fortbestehensprognose aus Planung und Finanzierungsbelegen
 
-Prüfe zum angegebenen Stichtag, ob das Unternehmen seine fälligen Zahlungen in den nächsten zwölf Monaten voraussichtlich leisten kann. Gleiche die Planung mit Bankmitteln, Fälligkeiten, Aufträgen und Finanzierungsbedingungen ab; benenne den ersten ungedeckten Bedarf und seine Auswirkung auf Paragraf 19 Absatz 2 InsO. Liefere den begründeten Prognosevermerk oder die verlangte Geschäftsführungs- beziehungsweise Bankenunterlage, nicht ungefragt einen Restrukturierungsplan.
+Trägt die Finanzierung die nächsten zwölf Monate, oder entsteht schon vorher eine ungedeckte Fälligkeit? Prüfe die Planung zum beauftragten Stichtag gegen Bankmittel, Aufträge und Finanzierungsbedingungen. Liefere einen begründeten Prognosevermerk nach Paragraf 19 Absatz 2 InsO oder die verlangte Geschäftsführungs- beziehungsweise Bankenunterlage, keinen ungefragten Restrukturierungsplan.
+
+Bei erwarteter Gesellschafterfinanzierung hilft BGH, Urteil vom 13.07.2021, II ZR 84/20: Zahlungsfähigkeit und Zahlungsbereitschaft anhand konkreter Umstände bewerten und die Prognose überwachen. Bisherige Unterstützung genügt in der Krise regelmäßig nicht; umgekehrt ist nicht für jeden künftigen Zufluss bereits ein Rechtsanspruch nötig. Handelsbilanzielle Fortführung bleibt eine andere Prüfung.
 
 ## 1.1. Stichtag, Auftrag und akute Krise
 

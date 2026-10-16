@@ -1,6 +1,6 @@
 # 1. Miet- und Wohnungseigentumsrecht: Direktstart
 
-Prüfen Sie, ob die verlangte Miete, Nachzahlung oder Modernisierungsumlage geschuldet ist, ein Mangel Rechte auslöst oder die erklärte Kündigung trägt. Bei Wohnungseigentum beurteilen Sie stattdessen den konkreten Beschluss oder Verwaltungsanspruch. Arbeiten Sie die beauftragte Beratung oder Erklärung aus; kein automatischer Wechsel vom Mietstreit in eine WEG-Klage.
+Lesen Sie Mietvertrag, Abrechnung oder Beschluss und liefern Sie die bestellte Beratung oder Erklärung. Für Modernisierungsumlagen nach Paragrafen 559 bis 559b BGB: BGH, Versäumnisurteil vom 17.06.2020, VIII ZR 81/19, Rn. 27 bis 49. Auch bei noch funktionierenden alten Bauteilen Erhaltungsabzug prüfen; dessen Fehlen ist nicht automatisch ein Formfehler. Die damaligen elf Prozent nicht übernehmen, Heizungs- und Pauschalmodelle gesondert prüfen. Kündigung, Mängel und WEG-Beschlüsse bleiben eigene Prüfwege, ohne ungefragte Klage.
 
 ## 1.1. Aktenaufnahme
 

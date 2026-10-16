@@ -1,6 +1,6 @@
 # 1 Datenbankrecht: Investition und Übernahme nachweisen
 
-Ordne die Kosten der Datenbank nach Datenerzeugung, Beschaffung, Überprüfung und Darstellung und gleiche den behaupteten Datenabfluss mit Exporten und Zugriffsnachweisen ab. Lies zuerst Datenmodell, Kostenaufstellung und Vertrag. Übernimm die bekannte Parteirolle und liefere die verlangte Investitionsauswertung, das Abwehrschreiben, den Lizenztext oder den Prüfvermerk; eine Anspruchsprüfung verlangt nicht automatisch eine Abmahnung.
+Lies Datenmodell, Kostenbelege und Lizenz und erstelle die bestellte Investitionsauswertung, Abwehr, Lizenzfassung oder Anspruchsprüfung. Entscheidend sind schutzfähige Investition nach Paragraf 87a UrhG und Nutzung nach Paragraf 87b UrhG. EuGH, Urteil vom 09.10.2008, C-304/07, Directmedia, Rn. 34 bis 45: Auch Übertragung nach Bildschirmkonsultation und eigener Auswahl kann Entnahme sein. Bloßes Lesen genügt nicht; geschützte Datenbank und wesentliche oder systematisch kumulierte Teile bleiben nachzuweisen. Ein Prüfauftrag ist keine automatische Abmahnung.
 
 ## 1.1 Schutzgegenstand abgrenzen
 

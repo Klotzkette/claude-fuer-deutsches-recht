@@ -31,27 +31,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt vollständig erneut gelesen: drei fachliche Einstiege, Missionsänderung und Ersatzstartentscheidung führen unmittelbar zum geänderten Dokument. Vorhandene Vertrags- und Rechtsprechungsgrenzen erhalten; keine Live-Ausführung.",
+    "reason": "Kurzprompt vollständig erneut gelesen: drei fachliche Einstiege, Missionsänderung und Ersatzstartentscheidung führen unmittelbar zum geänderten Dokument. Vorhandene Vertrags- und Rechtsprechungsgrenzen erhalten; keine Live-Ausführung. Redaktionelle Einstiegsprüfung 16.10.2026: Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Leere Eingabe führt zu Behördenschreiben, Startvertragsänderung oder Haftungsvermerk; Dateien ohne Aufgabe werden still gelesen.",
       "Startplatzwechsel und Ersatzstart oder Rückzahlung verändern Staatenprüfung, Klauseln und Anlagen.",
-      "Allgemeine Wiederholungen gekürzt; Eutelsat, Staatenrollen und besondere Missionsabgrenzungen erhalten."
+      "Allgemeine Wiederholungen gekürzt; Eutelsat, Staatenrollen und besondere Missionsabgrenzungen erhalten.",
+      "Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung."
     ],
-    "sha256": "5a86866d7c210cd684a39ab968ee23e917189909218d5f3d7d0f6f88f134ba23",
+    "sha256": "cfd03ed2c4f3167aef0a1891e5cd615065af00e1800dafb73040016bc83a2a18",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen und um konkrete Missionsänderungen, Startverschiebung sowie Schadensmeldung erweitert. Fristauslöser anhand amtlichen UN-Vertragstexts geprüft; vorhandene Entscheidungen nicht als erneut vollverifiziert ausgegeben.",
+    "reason": "Werkstatt vollständig erneut gelesen und um konkrete Missionsänderungen, Startverschiebung sowie Schadensmeldung erweitert. Fristauslöser anhand amtlichen UN-Vertragstexts geprüft; vorhandene Entscheidungen nicht als erneut vollverifiziert ausgegeben. Redaktionelle Einstiegsprüfung 16.10.2026: Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Konfigurationswechsel bis zum geänderten Behördenschreiben und zur Vertragsanlage ausgearbeitet.",
       "Verzögerungsursache, belastende Mitwirkungstatsachen und wirtschaftliche Wahl zwischen Ersatzstart und Rückzahlung verknüpft.",
-      "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg."
+      "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg.",
+      "Missionszweck vor erste Arbeitsüberschrift gestellt. C-515/19 früh auf tatsächlichen notwendigen Satellitenbeitrag begrenzt, ohne allgemeinen Anspruch auf Startgenehmigung."
     ],
-    "sha256": "92375761ce2c8d3da9d68ea5a11aa0b39637222ac3454b2feec41d2eef19644a",
+    "sha256": "1445553b086027ca4dfb9f310c638b9019b7961f6342eddcd1276f9f7dce870f",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

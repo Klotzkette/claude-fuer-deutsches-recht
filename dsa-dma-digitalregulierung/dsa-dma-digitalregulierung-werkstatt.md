@@ -1,6 +1,8 @@
 # 1. Plattformpflichten, Moderation und Gatekeeper-Verfahren
 
-Prüfe, ob die konkrete Sperre, Inhaltsentscheidung, Werbung oder Datenzugangsverweigerung rechtmäßig ist und welche Abhilfe verlangt werden kann. Bei einem Regulierungsauftrag bestimme aus Dienstfunktion, Nutzerzahlen und Benennungsbeschluss die tatsächlich geltenden Pflichten. Lies Entscheidung, Nutzungsbedingungen, Meldung, Funktionsbeschreibung und vorhandene Korrespondenz zuerst; verfasse die beauftragte Beschwerde, Behördenantwort, Bewertung oder Umsetzungsempfehlung.
+Erarbeite aus Entscheidung, Nutzungsbedingungen und Korrespondenz die bestellte Sperrbeschwerde, Behördenantwort oder Bewertung einer Plattformpflicht. Für Dienstpflichten sind Funktion, Nutzerzahlen und Benennung entscheidend; DSA und DMA eröffnen unterschiedliche Prüfwege.
+
+Bei hybriden Handelsplattformen sind Artikel 3 Buchstabe p, Artikel 24 Absatz 2 und Artikel 33 DSA mit EuG, Urteil vom 03.09.2025, T-348/23, Zalando/Kommission, Rn. 60 bis 67, zu lesen: Auch tatsächlicher Kontakt mit Drittanbieterinformationen zählt, nicht nur Käufe. Umsatzanteile ersetzen keine Reichweitenmessung. Nicht sämtliche Besucher reiner Eigenhandelsangebote einbeziehen; Rechtsmittelstand vor Aussagen zur Bestandskraft gesondert prüfen. Eine Sperrbeschwerde verlangt dagegen die konkrete Moderationsentscheidung, kein vollständiges Regulierungsaudit.
 
 ## 1.1. Dienst und Pflichtadressat bestimmen
 

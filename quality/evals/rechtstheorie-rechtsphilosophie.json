@@ -16,16 +16,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung. 2026-10-16, redaktioneller Einstiegsreview: Essay und Argumentrekonstruktion aus Original oder Paraphrase eröffnet; Theorie nicht an künstlicher Anspruchsprüfung gemessen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
-      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Essay und Argumentrekonstruktion aus Original oder Paraphrase eröffnet; Theorie nicht an künstlicher Anspruchsprüfung gemessen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "81d639d0d584ed14e19ead47fe0c8c26b8b18e96e2aa6cfeca13fa11334a542a",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "42faa049945c782011ff85a9e2d59fdd7ff60bf0dd9d4d040f4a048d0da21c70",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -73,16 +75,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung. 2026-10-16, redaktioneller Einstiegsreview: Essay und Argumentrekonstruktion aus Original oder Paraphrase eröffnet; Theorie nicht an künstlicher Anspruchsprüfung gemessen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
-      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Essay und Argumentrekonstruktion aus Original oder Paraphrase eröffnet; Theorie nicht an künstlicher Anspruchsprüfung gemessen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c4883dce0f8dbcea9c72a7d5fabf673d38b25eabd7e51644d8dd6ba445ef0ce9",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "eebe219ee33670f9c6778574aa0982b1ac03bb09147e709388eff980be42a372",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

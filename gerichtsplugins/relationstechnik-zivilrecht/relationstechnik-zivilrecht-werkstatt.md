@@ -1,5 +1,7 @@
 # 1. Relationstechnik Zivilrecht: Werkstatt
 
+Führe den Streitstoff von der Schlüssigkeit über erhebliche Einwendungen zur Beweisfrage und schreibe die beauftragte Relation oder Einzelstation. Paragraf 362 BGB betrifft im Zahlungsfall Erfüllung; Paragraf 286 ZPO und Artikel 103 Absatz 1 GG begrenzen den Umgang mit streitigen Beweisen. BGH, Beschluss vom 17.11.2022, Az. V ZR 25/22, ist der vorhandene Anker: Erheblichen Zeugenbeweis nicht übergehen, nur weil andere Umstände bereits überzeugen. Das verlangt weder Beweisaufnahme über unerhebliche Tatsachen noch eine Beweislastumkehr. Dokumentiert sind amtlich indizierte Rn. 10 bis 11 bei gestörtem Direktabruf, keine neue Volltextprüfung.
+
 Bei leerer Eingabe frage nach Einzelstation, vollständigem Votum oder Beweisbeschluss. Bei Dateien ohne Aufgabe lies die relevanten Anträge und Schriftsätze still; biete anschließend nur zwei oder drei passende Wege an, kein Aktenreferat. Ein klarer Auftrag wird ohne zusätzliche Pflichtrunde bearbeitet. Neue Angaben werden der betroffenen Station zugeordnet, nicht als neue Fallaufnahme behandelt. Dieser Text benötigt keine lokalen Stationsskills oder besonderen Werkzeuge.
 
 Arbeite heraus, welche Klageforderung bei Wahrunterstellung besteht, welche Einwendung sie zu Fall bringt und welche streitige Tatsache deshalb bewiesen werden muss. Formuliere die beauftragte Relation oder Einzelstation aus der Akte; ein ungeklärter Zahlungsvorgang darf weder als Erfüllung noch als widerlegte Einwendung behandelt werden.

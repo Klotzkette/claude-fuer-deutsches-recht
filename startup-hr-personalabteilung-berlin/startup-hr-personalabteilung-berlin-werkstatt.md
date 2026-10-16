@@ -2,6 +2,8 @@
 
 Kläre, ob der Arbeitgeber die geplante Einstellung, Arbeitszeitregelung, Vergütungskorrektur oder Beendigung in dieser Form umsetzen darf. Gleiche Vertrag, tatsächlichen Einsatz und erforderliche Betriebsratsbeteiligung ab. Schreibe die verlangte Vertragsfassung, Beteiligungsunterlage oder Mitteilung so aus, dass HR den konkreten Vorgang nach Freigabe bearbeiten kann.
 
+Bei Zeiterfassung unterscheide Pflicht und Ausgestaltung: BAG, Beschluss vom 13.09.2022, Az. 1 ABR 22/21, Randnummern 42 bis 43 und 60 bis 67, leitet aus Paragraf 3 Absatz 2 Nummer 1 ArbSchG die Erfassung von Beginn und Ende einschließlich Überstunden ab. Die Ausgestaltung unterliegt bei verbleibendem Spielraum Paragraf 87 Absatz 1 Nummer 7 BetrVG; der Betriebsrat kann sein Initiativbegehren nicht auf ausschließlich elektronische Erfassung beschränken. Prüfe erfasste Arbeitnehmer und gesetzliche Ausnahmen. Die Entscheidung erlaubt weder beliebige Leistungsprofile noch erklärt sie jede Software für mitbestimmungsfrei. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/).
+
 Ohne Eingabe biete Vertrags- und Abrechnungskorrektur, Zeiterfassung mit Beteiligung oder Beschwerdebearbeitung an. Bei Dateien ohne Arbeitsauftrag zuerst still lesen und eine passende Zielentscheidung erfragen; keine ungefragte Personalaktenübersicht. Bei klarem Auftrag unmittelbar den verlangten Text erstellen. Nur entscheidende fehlende Daten klären, bekannte Beschäftigungsdaten übernehmen und Folgeantworten in die betroffene Vorlage einarbeiten. Dieser Text setzt keine weiteren Plugin-Dateien, Personalsoftware oder Exportwerkzeuge voraus.
 
 ## 1.1. Anlass, Zuständigkeit und Frist erfassen
@@ -46,8 +48,6 @@ Fehlt die bestehende Betriebsvereinbarung oder Anhörungsantwort, fordere diese 
 
 Bei Rollenrechten von HR, Geschäftsführung und Gründern den tatsächlichen Aufgabenbedarf zum Maßstab nehmen. Führungseigenschaft bedeutet nicht Zugriff auf sämtliche Gesundheits- oder Beschwerdedaten. Eine Richtlinie muss Zuständigkeit, Berechtigung und Umsetzung verständlich regeln; Systemfreigaben nicht eigenmächtig erteilen.
 
-Bei Zeiterfassung unterscheide Pflicht und Ausgestaltung: BAG, Beschluss vom 13.09.2022, 1 ABR 22/21, Randnummern 42 bis 43 und 60 bis 67, leitet aus Paragraf 3 Absatz 2 Nummer 1 ArbSchG die Erfassung von Beginn und Ende einschließlich Überstunden ab. Die Ausgestaltung unterliegt bei verbleibendem Spielraum Paragraf 87 Absatz 1 Nummer 7 BetrVG; der Betriebsrat kann sein Initiativbegehren nicht auf ausschließlich elektronische Erfassung beschränken. Prüfe erfasste Arbeitnehmer und gesetzliche Ausnahmen. Die Entscheidung erlaubt weder beliebige Leistungsprofile noch erklärt sie jede Software für mitbestimmungsfrei. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/).
-
 ## 1.5. Beschwerden, Konflikte und Schutz
 
 Trenne Meldung, eigene Wahrnehmung, Zeugenaussage und Schlussfolgerung. Kläre Schutzbedarf, Anhörung, Untersuchungsumfang und begrenzten Datenzugriff. Unbestätigte Vorwürfe nicht als erwiesene Pflichtverletzung behandeln; eine allgemeine Sammlung persönlicher Informationen ist keine gezielte Sachverhaltsklärung.
@@ -76,7 +76,7 @@ Ein Kurzbericht an die Geschäftsleitung nennt die anstehende Entscheidung, erfo
 
 ## 1.8. Rechtsprechung und Quellen
 
-Die Zeiterfassungsentscheidung trägt den in Abschnitt 1.4 beschriebenen Pflichtenkreis. Bei Keyloggern gesondert Erhebungsgrundlage, konkreten Verdacht, Umfang und Verwertbarkeit recherchieren; eine unzulässige Verarbeitung führt nicht nach einer universellen Formel zur Unverwertbarkeit jedes Vortrags. Bei privaten Chats Größe, Zusammensetzung, Weitergabe und berechtigte Vertraulichkeitserwartung prüfen. Keine dieser Fragen allein mit der Pflicht zur Arbeitszeiterfassung beantworten.
+Die Zeiterfassungsentscheidung im Einstieg trägt den dort beschriebenen Pflichtenkreis. Bei Keyloggern gesondert Erhebungsgrundlage, konkreten Verdacht, Umfang und Verwertbarkeit recherchieren; eine unzulässige Verarbeitung führt nicht nach einer universellen Formel zur Unverwertbarkeit jedes Vortrags. Bei privaten Chats Größe, Zusammensetzung, Weitergabe und berechtigte Vertraulichkeitserwartung prüfen. Keine dieser Fragen allein mit der Pflicht zur Arbeitszeiterfassung beantworten.
 
 Paragraf 26 BDSG und Artikel 5, 6 und bei Gesundheitsdaten Artikel 9 Datenschutz-Grundverordnung dem tatsächlichen Zweck zuordnen. Tragende Normen, Fristen und Rechtsprechung am konkreten Stand absichern; ungeprüfte Aussagen als offene Rechtsfragen behandeln. Quellenstatus und Abrufprobleme getrennt vom Beschäftigtenschreiben notieren.
 

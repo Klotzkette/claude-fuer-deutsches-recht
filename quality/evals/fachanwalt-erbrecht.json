@@ -1,4 +1,36 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument.",
+    "norms_or_source_basis": "Paragraf 1933 BGB im Mini; Paragrafen 2303 und 2314 BGB in der Werkstatt",
+    "selected_anchor_identifiers": [
+      "IV ZB 7/25",
+      "IV ZR 193/19"
+    ],
+    "application_limit": "Nachbesserung eines unvollständigen notariellen Verzeichnisses ist kein Anspruch auf stets neue Aufnahme; Wert und Versicherung an Eides statt gesondert.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "437d25fb12d701aa6483d0bdc9622f37300077fbe5358baf00d083aee9052517",
+      "characters": 7357,
+      "utf8_bytes": 7474,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "7ec3b67bbebcc32164ea0f4bb86ce8b77b74de208ceae7f3ca359189da766f4f",
+      "characters": 38588,
+      "utf8_bytes": 39100,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-erbrecht",
   "reviewed_on": "2026-09-23",
@@ -87,15 +119,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet. Kein neuer Live-Modelltest.",
+    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Bankermittlung und Mitwirkung anhand IV ZR 193/19 operativ eingebaut; bloße Zweifel nicht mit Neuerstellungsanspruch gleichgesetzt.",
       "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Ehegattenstatus vor Quote. Wiederholte Fortsetzungsanweisung verdichtet; alle fachlichen Belegbeispiele erhalten. Redaktionelle Verdichtung ohne Wegfall eines Fachzweigs.",
-      "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet."
+      "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "44691f1c2775a82c5bd942a9f35be0afc2ac5e3650d7f635a0a592321edf68ce",
+    "sha256": "437d25fb12d701aa6483d0bdc9622f37300077fbe5358baf00d083aee9052517",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -227,16 +260,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell bearbeitet; Crossreview um drei amtlich geprüfte jüngere Entscheidungen zu Vaterschaft, Arztvermächtnis und steuerlicher Erbquote ergänzt. Kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Werkstatt vollständig individuell bearbeitet; Crossreview um drei amtlich geprüfte jüngere Entscheidungen zu Vaterschaft, Arztvermächtnis und steuerlicher Erbquote ergänzt. Kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Notarielle Eigenrecherche und verweigerte Bankzustimmung in konkrete Ergänzungsanforderung überführt.",
       "Erbvertrag von wechselbezüglichem Testament, Ausschlagung und Pflichtteil sowie Testierverbote und Zukunftsvorhaben genauer abgegrenzt.",
       "Detaillierte Nachlass-, Steuer-, Digital- und Unternehmensrouten erhalten; keine automatische Klage.",
       "IV ZR 88/24, IV ZR 93/24 und II B 68/25 mit konkretem Prüfauftrag und Grenzen wieder integriert; aktuelle Absatznummer 1600d Absatz 5 BGB korrigiert.",
       "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: ruhendes Scheidungsverfahren und gesetzliches Ehegattenerbrecht."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: ruhendes Scheidungsverfahren und gesetzliches Ehegattenerbrecht.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b4d764e63dfe5fb8c6d3c9b497b9c3707df588b42b2612dd0c262f6e9afe5afb",
+    "sha256": "7ec3b67bbebcc32164ea0f4bb86ce8b77b74de208ceae7f3ca359189da766f4f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -256,21 +256,21 @@
   ],
   "mini_review": {
     "verdict": "retained",
-    "reason": "Eigenständiger Ablauf vom konkreten Bestand über Rollen und Risiko zur kontrollierten Dateifortschreibung.",
+    "reason": "Eigenständiger Ablauf vom konkreten Bestand über Rollen und Risiko zur kontrollierten Dateifortschreibung. Redaktioneller Nachtrag 16.10.2026: Artikel 30 und konkretes Registerprodukt früh benannt; vorhandenen Fachquellenmaßstab zur Angemessenheit von Schutzmaßnahmen eingebaut. VVT ersetzt weder DSFA noch Konformitätsprüfung. Nur doppelte Aufnahme-, Export- und Schlussanweisungen im Mini gestrafft; Rollen und Dateikonfliktregeln erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Rollenfelder, Planungsstatus und Grenzen des tatsächlichen Helfers mit den Referenzen abgeglichen.",
       "Technische Feldprüfung nicht als vollständige Prüfung gesetzlicher Mindestangaben bezeichnet."
     ],
-    "sha256": "fc4836ce2fe74b2596f79b50d454628fe83efa209c248b457e78aaa86ca3b605"
+    "sha256": "8e9de691b4852811dfe145bafa0358ef3a19bf2587a122c95ef443e4a98bfbe3"
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Eigenständiger Ablauf vom konkreten Bestand über Rollen und Risiko zur kontrollierten Dateifortschreibung.",
+    "reason": "Eigenständiger Ablauf vom konkreten Bestand über Rollen und Risiko zur kontrollierten Dateifortschreibung. Redaktioneller Nachtrag 16.10.2026: Artikel 30 und konkretes Registerprodukt früh benannt; vorhandenen Fachquellenmaßstab zur Angemessenheit von Schutzmaßnahmen eingebaut. VVT ersetzt weder DSFA noch Konformitätsprüfung. Nur doppelte Aufnahme-, Export- und Schlussanweisungen im Mini gestrafft; Rollen und Dateikonfliktregeln erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Rollenfelder, Planungsstatus und Grenzen des tatsächlichen Helfers mit den Referenzen abgeglichen.",
       "Technische Entwertung jeder Sachänderung von verhältnismäßiger fachlicher Wiederprüfung unterschieden; vier Statuswerte erklärt."
     ],
-    "sha256": "46b28a12e128f7e8eefec3927f05b607e002c0fac475fc524155921b845cf074"
+    "sha256": "5e122f9af0536caf979dee65f2da5114fdfa09cbae59ff919e186ef15da41c27"
   },
   "focus_review": {
     "method": "desk_review",

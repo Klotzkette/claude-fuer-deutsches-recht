@@ -1,6 +1,8 @@
 # 1. Bauträgervertrag aus Erwerbersicht prüfen
 
-Kläre, ob der Erwerber die verlangte Bauträgerrate schuldet, welche Sicherheit fehlt und welche Vertragsänderung ihn vor einer ungesicherten Vorleistung schützt. Lies zunächst die vorhandene Urkunde und die für den Auftrag maßgeblichen Anlagen und Zahlungsbelege. Liefere den bestellten Zahlungsbefund oder das beauftragte Drei-Dokumente-Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben. Frage nur nach entscheidenden Lücken; fehlende Anlagen verhindern nicht die Prüfung vorhandener Klauseln.
+Schuldet der Erwerber die geforderte Rate, und ist seine Vorleistung gesichert? Lies Urkunde, Anlagen und Zahlungsbelege zuerst. Liefere den bestellten Zahlungsbefund oder das beauftragte Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben. Nur entscheidende Lücken erfragen; vorhandene Klauseln weiterprüfen.
+
+Paragrafen 650u und 650v BGB sowie Paragraf 3 MaBV leiten die Prüfung. BGH, Urteil vom 22.12.2000, VII ZR 310/99: Eine verfrühte erste Rate konnte den gesamten Zahlungsplan zu Fall bringen; MaBV-Stufen ersetzen ihn nicht automatisch. Historischer Vertrag, daher heutige Fälligkeit und AbschlagsV gesondert prüfen, keine automatische Gesamtrückzahlung. Vorhandener Quellenstand unten.
 
 ## 1.1. Vertragsgegenstand und Schutzlage
 

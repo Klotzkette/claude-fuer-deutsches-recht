@@ -1,8 +1,12 @@
-# 1. Grundbuchamt – große Werkstatt
+# Grundbuchvorgang bis zum fertigen Antrag bearbeiten
+
+## 1. Auftrag, Arbeitsweise und Quellen
 
 ### 1.1. Arbeitsauftrag und Gebrauch
 
-Sie bearbeiten einen konkreten Grundbuchvorgang bis zum beauftragten, ausformulierten Ergebnis. Diese Werkstatt ist ein eigenständiger Arbeitsauftrag für ein KI-System. Sie funktioniert mit vorgelegten Unterlagen auch ohne Installation des Plugins. Sie ist kein Zugang zum Grundbuch und keine Ermächtigung zur Abgabe öffentlicher Erklärungen. Nutzen Sie nur die für das Mandat erforderlichen Abschnitte; tragen Sie nicht alle Prüffragen als Interview vor.
+Erstellen Sie aus Grundbuchauszug, Urkunden und Gerichtsschreiben den bestellten Antrag, die Beschwerde, Notaranweisung oder Beratung. Zugang, materielles Recht und grundbuchtauglicher Nachweis sind getrennt zu prüfen. Paragrafen 12, 29 und 35 GBO geben dafür den Ausgangspunkt; dieser Text eröffnet keinen Registerzugang und ermächtigt nicht zur Abgabe öffentlicher Erklärungen.
+
+Beim Erbnachweis hilft der BGH-Beschluss vom 20.11.2025, V ZB 40/24: Bei öffentlicher Verfügung können Personenstandsurkunden unbenannte Abkömmlinge identifizieren; negative Tatsachen können durch einfache Erklärungen in der Form des Paragrafen 29 GBO nachgewiesen werden. Konkrete Zweifel bleiben entscheidend. Keine formlose E-Mail, keine eidesstattliche Versicherung als gesetzliches Ersatzmittel und keine pauschale Erbscheinbefreiung daraus ableiten. Nur die zum Auftrag passenden Abschnitte nutzen.
 
 Lesen Sie vorliegende Auszüge, Urkunden und Gerichtsschreiben zuerst. Nennen Sie knapp, welches Dokument jetzt sinnvoll und bereits bearbeitbar ist. Wenn die Eigentümerin den Verlust eines Briefs schildert und alle Unterlagen vorhanden sind, beginnen Sie mit Verlustchronologie und Antragstellerfrage; erklären Sie nicht zunächst das gesamte Grundpfandrecht. Wenn die Bank einen konkreten Nachweis anfordert, beantworten Sie diese Anforderung. Das Ergebnis kann ein Einsichtsantrag, ein Beschaffungsschreiben, ein Berichtigungsantrag, eine Stellungnahme, eine Beschwerde, eine Notaranweisung oder ein Abschlussbericht sein.
 
@@ -68,7 +72,7 @@ Wenn die Bearbeitungsfrist knapp wird, entwerfen Sie rechtzeitig eine begründet
 
 ## 3. Einsicht und Datenzugang
 
-### 3.1. Berechtigtes Interesse nach § 12 GBO
+### 3.1. Berechtigtes Interesse nach Paragraf 12 GBO
 
 Prüfen Sie nicht nur das Schlagwort „berechtigtes Interesse“, sondern den nachvollziehbaren Grund und den notwendigen Umfang. Eine dinglich berechtigte Person, ein mit einer Grundstücksforderung befasster Gläubiger oder ein Nachbar mit einer konkreten Grenz- oder Dienstbarkeitsfrage können unterschiedliche Nachweise brauchen. Das Interesse muss aus der Sachlage verständlich sein und bloße Neugier ausschließen. Maßgeblich sind Antrag, Belege und verlangte Daten im Einzelfall.
 
@@ -78,7 +82,7 @@ Fragen Sie: „Welche konkrete Rechtsposition oder Entscheidung hängt von der K
 
 ### 3.2. Umfang: Blatt, Bezugsurkunde und unerledigter Antrag
 
-§ 12 GBO umfasst bei entsprechendem Interesse auch Urkunden, auf die zur Ergänzung einer Eintragung Bezug genommen wird, und noch nicht erledigte Eintragungsanträge. Das macht die gesamte Grundakte nicht pauschal zu einer frei verfügbaren Informationssammlung. Bezeichnen Sie die gesuchte Bewilligung und erläutern Sie, welche Frage sich aus dem Blatt allein nicht beantworten lässt.
+Paragraf 12 GBO umfasst bei entsprechendem Interesse auch Urkunden, auf die zur Ergänzung einer Eintragung Bezug genommen wird, und noch nicht erledigte Eintragungsanträge. Das macht die gesamte Grundakte nicht pauschal zu einer frei verfügbaren Informationssammlung. Bezeichnen Sie die gesuchte Bewilligung und erläutern Sie, welche Frage sich aus dem Blatt allein nicht beantworten lässt.
 
 Bei einem Wegerecht sind Verlauf, berechtigte Nutzung, Unterhalt und mögliche Ausbaupflichten häufig in der Urkunde genauer geregelt. Für eine bloße Rangprüfung kann dagegen ein aktueller vollständiger Auszug genügen. Eine Vollzugssache kann unerledigte Anträge relevant machen, weil diese die bevorstehende Ranglage verändern. Ordnen Sie den Umfang am Mandatsziel aus und vermeiden Sie die Sammlung nicht benötigter personenbezogener Daten.
 
@@ -86,19 +90,19 @@ Klären Sie, ob eine einfache oder beglaubigte Abschrift benötigt wird. Die blo
 
 ### 3.3. Versteigerungsakte als eigener Einsichtsweg
 
-BGH, Beschl. v. 21.05.2026 – Az. V ZB 90/25, Rn. 8–14, behandelt § 42 ZVG. In einer konkreten Zwangsversteigerung stehen die dort genannten Unterlagen grundsätzlich jedem zur Einsicht offen; für diesen Umfang wird kein besonderes Interesse verlangt. Dazu gehören insbesondere die Mitteilungen des Grundbuchamts und erfasste Nachweisungen, nicht automatisch alle Aktenteile. Für die übrige Akte ist insbesondere § 299 Absatz 2 ZPO zu prüfen.
+BGH, Beschl. v. 21.05.2026 – Az. V ZB 90/25, Rn. 8–14, behandelt Paragraf 42 ZVG. In einer konkreten Zwangsversteigerung stehen die dort genannten Unterlagen grundsätzlich jedem zur Einsicht offen; für diesen Umfang wird kein besonderes Interesse verlangt. Dazu gehören insbesondere die Mitteilungen des Grundbuchamts und erfasste Nachweisungen, nicht automatisch alle Aktenteile. Für die übrige Akte ist insbesondere Paragraf 299 Absatz 2 ZPO zu prüfen.
 
-Die Entscheidung erlaubt bei den erfassten Teilen die Einsicht ohne vorherige Schwärzung personenbezogener Daten. Daraus folgt kein Recht, Daten im Internet zu veröffentlichen, ein Interessentenverzeichnis zu verkaufen oder eine allgemeine Eigentümerdatenbank zu bauen. Rn. 32 verweist auf das Verbot öffentlicher Verbreitung und verfahrensfremder Weitergabe nach § 299 Absatz 4 Satz 2 ZPO in Verbindung mit § 869 ZPO.
+Die Entscheidung erlaubt bei den erfassten Teilen die Einsicht ohne vorherige Schwärzung personenbezogener Daten. Daraus folgt kein Recht, Daten im Internet zu veröffentlichen, ein Interessentenverzeichnis zu verkaufen oder eine allgemeine Eigentümerdatenbank zu bauen. Rn. 32 verweist auf das Verbot öffentlicher Verbreitung und verfahrensfremder Weitergabe nach Paragraf 299 Absatz 4 Satz 2 ZPO in Verbindung mit Paragraf 869 ZPO.
 
-Fragen Sie nach Gericht, Aktenzeichen, Gegenstand und gewünschter Unterlage. Richten Sie den Antrag an das Vollstreckungsgericht, wenn dieser Einsichtsweg einschlägig ist. Kopieren Sie nicht den §-12-GBO-Antrag mit bloß ausgewechselter Norm. Erläutern Sie dem Nutzer die konkrete zulässige Verwendung der erhaltenen Daten; die Sicherung eines Dokuments im Mandat ist von seiner Veröffentlichung zu trennen.
+Fragen Sie nach Gericht, Aktenzeichen, Gegenstand und gewünschter Unterlage. Richten Sie den Antrag an das Vollstreckungsgericht, wenn dieser Einsichtsweg einschlägig ist. Kopieren Sie nicht den Antrag nach Paragraf 12 GBO mit bloß ausgewechselter Norm. Erläutern Sie dem Nutzer die konkrete zulässige Verwendung der erhaltenen Daten; die Sicherung eines Dokuments im Mandat ist von seiner Veröffentlichung zu trennen.
 
 ### 3.4. Ablehnung der Einsicht und Protokoll
 
 Legen Sie die Ablehnung neben den ursprünglichen Antrag. Oft fehlt nicht das Interesse selbst, sondern dessen Darstellung oder der zugehörige Nachweis. Prüfen Sie, ob eine ergänzende Sachverhaltsdarstellung die konkrete Beanstandung ausräumt. Wenn die Behörde ein nicht vorhandenes Interesse voraussetzt, erfinden Sie keine Belege. Wenn die Ablehnung nur einen Teil betrifft, begrenzen Sie die Antwort entsprechend.
 
-Nach OLG München, Beschl. v. 18.02.2026 – Az. 34 Wx 36/26 e, Rn. 7, ist bei einer durch die Rechtspflegerin bestätigten Einsichtsversagung die Beschwerde nach § 12c Absatz 4 Satz 2, § 71 Absatz 1 GBO zu beachten. Ermitteln Sie daher, wer die Ausgangsentscheidung getroffen hat. Der informelle Ausdruck „Einspruch“ in einer Mandantenmail legt den statthaften Rechtsbehelf nicht fest.
+Nach OLG München, Beschl. v. 18.02.2026 – Az. 34 Wx 36/26 e, Rn. 7, ist bei einer durch die Rechtspflegerin bestätigten Einsichtsversagung die Beschwerde nach Paragraf 12c Absatz 4 Satz 2, Paragraf 71 Absatz 1 GBO zu beachten. Ermitteln Sie daher, wer die Ausgangsentscheidung getroffen hat. Der informelle Ausdruck „Einspruch“ in einer Mandantenmail legt den statthaften Rechtsbehelf nicht fest.
 
-§ 12 Absatz 4 GBO regelt die Protokollierung und unter Voraussetzungen die Auskunft daraus. Das ist kein allgemeiner Anspruch auf jede interne Bearbeitungsnotiz. Prüfen Sie, wer die Protokollauskunft verlangt und ob der gesetzliche Berechtigtenkreis eröffnet ist. Ein privat erstellter Abrufnachweis ersetzt das gerichtliche Protokoll nicht. Halten Sie eigene Abrufzwecke ebenfalls nachvollziehbar fest, ohne damit einen amtlichen Nachweis zu simulieren.
+Paragraf 12 Absatz 4 GBO regelt die Protokollierung und unter Voraussetzungen die Auskunft daraus. Das ist kein allgemeiner Anspruch auf jede interne Bearbeitungsnotiz. Prüfen Sie, wer die Protokollauskunft verlangt und ob der gesetzliche Berechtigtenkreis eröffnet ist. Ein privat erstellter Abrufnachweis ersetzt das gerichtliche Protokoll nicht. Halten Sie eigene Abrufzwecke ebenfalls nachvollziehbar fest, ohne damit einen amtlichen Nachweis zu simulieren.
 
 ## 4. Grundbuch und materielle Lage
 
@@ -120,17 +124,17 @@ Bei Löschungsvermerken ist der amtliche Text maßgeblich. Unterschiedliche Scan
 
 ### 4.3. Rang nicht nur aus Nummern ablesen
 
-Erfassen Sie für jedes relevante Recht Eintragungszeitpunkt, Abteilung, ausdrückliche Rangvermerke und nachträgliche Änderungen. § 879 BGB und die Eintragungsregeln sind für die konkrete Konstellation anzuwenden; die laufende Nummer allein beantwortet nicht das Verhältnis aller Rechte. Bei abteilungsübergreifenden Rechten sind Eintragungsdaten und Sondervermerke besonders wichtig. Mehrere Anträge können mit Verknüpfungen gestellt sein.
+Erfassen Sie für jedes relevante Recht Eintragungszeitpunkt, Abteilung, ausdrückliche Rangvermerke und nachträgliche Änderungen. Paragraf 879 BGB und die Eintragungsregeln sind für die konkrete Konstellation anzuwenden; die laufende Nummer allein beantwortet nicht das Verhältnis aller Rechte. Bei abteilungsübergreifenden Rechten sind Eintragungsdaten und Sondervermerke besonders wichtig. Mehrere Anträge können mit Verknüpfungen gestellt sein.
 
 Ein Bankformular „erster Rang“ muss deshalb in ein bestimmtes Rangziel übersetzt werden: vor welchen Rechten, in welchem Betrag, unter Einbeziehung welcher Zinsen und Nebenleistungen? Eine nur teilweise vorrangige Grundschuld und eine Dienstbarkeit mit vorbehaltenem Rang können wirtschaftlich völlig andere Risiken erzeugen als ein uneingeschränkter erster Rang. Rechnen Sie nicht nur Kapitalbeträge zusammen, wenn der gewünschte Ranginhalt auch Nebenleistungen betrifft.
 
-Entwerfen Sie eine Rangmatrix mit heutigem Zustand, beantragter Änderung und Endzustand. Für jedes betroffene Recht benennen Sie die benötigte Einigung, Bewilligung, Zustimmung und den jeweiligen Nachweis. Bei § 880 BGB sind die Rechte der dazwischenstehenden Berechtigten und die erforderliche Eigentümerzustimmung fallbezogen zu prüfen. Ein entworfenes Bankzustimmungsschreiben ist noch keine rangändernde Eintragung.
+Entwerfen Sie eine Rangmatrix mit heutigem Zustand, beantragter Änderung und Endzustand. Für jedes betroffene Recht benennen Sie die benötigte Einigung, Bewilligung, Zustimmung und den jeweiligen Nachweis. Bei Paragraf 880 BGB sind die Rechte der dazwischenstehenden Berechtigten und die erforderliche Eigentümerzustimmung fallbezogen zu prüfen. Ein entworfenes Bankzustimmungsschreiben ist noch keine rangändernde Eintragung.
 
 ## 5. Antrag, Form und Vertretung
 
 ### 5.1. Vier Ebenen in einem Vorgang
 
-Unterscheiden Sie konsequent Antrag, Eintragungsbewilligung, materielle Erklärung und Beweisform. Der Antrag setzt das Grundbuchverfahren in Gang. Die Bewilligung nach § 19 GBO betrifft die von der Eintragung betroffene Person. Die materielle Rechtsänderung folgt dem einschlägigen Sachrecht und bei Eigentumsübertragung insbesondere der Auflassung. Die Nachweisform richtet sich insbesondere nach § 29 GBO. Das Vorhandensein einer Ebene ersetzt die übrigen nicht.
+Unterscheiden Sie konsequent Antrag, Eintragungsbewilligung, materielle Erklärung und Beweisform. Der Antrag setzt das Grundbuchverfahren in Gang. Die Bewilligung nach Paragraf 19 GBO betrifft die von der Eintragung betroffene Person. Die materielle Rechtsänderung folgt dem einschlägigen Sachrecht und bei Eigentumsübertragung insbesondere der Auflassung. Die Nachweisform richtet sich insbesondere nach Paragraf 29 GBO. Das Vorhandensein einer Ebene ersetzt die übrigen nicht.
 
 Ein selbst unterschriebener Antrag kann im geeigneten Fall zulässig sein, obwohl die einzureichende Bewilligung öffentlich beglaubigt sein muss. Umgekehrt wird eine notarielle Unterschriftsbeglaubigung nicht zur Beurkundung des gesamten Rechtsgeschäfts. Die Grundbuchberichtigung nach Erbfolge bestätigt eine bereits außerhalb des Grundbuchs eingetretene Rechtsänderung; sie ist nicht dieselbe Situation wie ein Verkauf des Grundstücks.
 
@@ -138,15 +142,15 @@ Fassen Sie den geplanten Vorgang in vier vollständigen Sätzen zusammen: Wer be
 
 ### 5.2. Notarielle Einreichung und Prüfung konkret benennen
 
-Nach § 13 Absatz 1 Satz 3 GBO soll in den Fällen des § 20 GBO die Eintragung nur erfolgen, wenn ein Notar den Antrag im Namen eines Antragsberechtigten eingereicht hat. Prüfen Sie diese Vorschrift in ihrer aktuellen Fassung. Ein früheres Muster, das eine private direkte Einreichung der Auflassung vorsieht, wird nicht ungeprüft weiterverwendet. Fragen Sie nach dem beurkundenden Notar und dem vorgesehenen Vollzug.
+Nach Paragraf 13 Absatz 1 Satz 3 GBO soll in den Fällen des Paragrafen 20 GBO die Eintragung nur erfolgen, wenn ein Notar den Antrag im Namen eines Antragsberechtigten eingereicht hat. Prüfen Sie diese Vorschrift in ihrer aktuellen Fassung. Ein früheres Muster, das eine private direkte Einreichung der Auflassung vorsieht, wird nicht ungeprüft weiterverwendet. Fragen Sie nach dem beurkundenden Notar und dem vorgesehenen Vollzug.
 
-§ 15 Absatz 3 GBO verlangt die notarielle Prüfung der zu einer Eintragung erforderlichen Erklärungen auf Eintragungsfähigkeit, mit der dort bezeichneten Ausnahme für behördliche Erklärungen. Beachten Sie § 151 GBO: Für bis einschließlich 08.06.2017 beurkundete oder beglaubigte Erklärungen gilt § 15 Absatz 3 GBO nicht. Das beseitigt nicht sonstige Form- oder Nachweisanforderungen. Beschreiben Sie die noch erforderliche Prüfung genau. Daraus folgt kein Satz „Jeder Kontakt mit dem Grundbuchamt geht nur über einen Notar“. Einsicht, Informationsbeschaffung und bestimmte Berichtigungsanträge sind anders zu behandeln als notarielle Formhandlungen.
+Paragraf 15 Absatz 3 GBO verlangt die notarielle Prüfung der zu einer Eintragung erforderlichen Erklärungen auf Eintragungsfähigkeit, mit der dort bezeichneten Ausnahme für behördliche Erklärungen. Beachten Sie Paragraf 151 GBO: Für bis einschließlich 08.06.2017 beurkundete oder beglaubigte Erklärungen gilt Paragraf 15 Absatz 3 GBO nicht. Das beseitigt nicht sonstige Form- oder Nachweisanforderungen. Beschreiben Sie die noch erforderliche Prüfung genau. Daraus folgt kein Satz „Jeder Kontakt mit dem Grundbuchamt geht nur über einen Notar“. Einsicht, Informationsbeschaffung und bestimmte Berichtigungsanträge sind anders zu behandeln als notarielle Formhandlungen.
 
 Wenn der Nutzer möchte, dass das System im persönlichen Notariatszugang arbeitet, klären Sie die Notareigenschaft und die konkrete Befugnis. Die Frage lautet zweckmäßig: „Sind Sie Notarin oder Notar, liegt die amtliche Zuständigkeit für diesen Vorgang vor und haben Sie den entsprechenden Zugang?“ Selbst bei bejahter Antwort bleibt die persönliche Urkunds- und Signaturhandlung bei der berechtigten Person. Das System kann einen vorbereiteten Übermittlungsstand zur Prüfung zeigen.
 
 ### 5.3. Öffentliche Urkunde, Beglaubigung und elektronisches Dokument
 
-Prüfen Sie für jede Anlage, was tatsächlich vorliegt. Eine Originalurkunde, eine Ausfertigung, eine beglaubigte Abschrift, ein einfacher Scan und eine Bilddatei sind keine austauschbaren Kategorien. Der Inhalt einer E-Mail kann einen Sachverhalt erläutern, erfüllt aber nicht schon die Form des § 29 GBO. Bei elektronischen Urkunden sind insbesondere §§ 135–137 GBO und die einschlägigen Landesvorgaben zu beachten.
+Prüfen Sie für jede Anlage, was tatsächlich vorliegt. Eine Originalurkunde, eine Ausfertigung, eine beglaubigte Abschrift, ein einfacher Scan und eine Bilddatei sind keine austauschbaren Kategorien. Der Inhalt einer E-Mail kann einen Sachverhalt erläutern, erfüllt aber nicht schon die Form des Paragrafen 29 GBO. Bei elektronischen Urkunden sind insbesondere Paragrafen 135–137 GBO und die einschlägigen Landesvorgaben zu beachten.
 
 Übernehmen Sie keine pauschalen Aussagen, wonach ein bestimmtes Uploadformat immer ausreiche. Ein PDF kann einen zulässigen elektronischen Urkundenstand enthalten oder lediglich ein Foto darstellen. Entscheidend sind die formgerechte Erstellung, Signatur, Beglaubigung und Übermittlung im konkreten Verfahren. Der Agent darf ein eingescanntes Dokument nicht mit einem selbst erfundenen Beglaubigungsvermerk versehen.
 
@@ -154,11 +158,11 @@ Fragen Sie bei einer Nachweislücke nicht allgemein nach „besseren Unterlagen�
 
 ### 5.4. Vollmacht und Fortgeltung nach dem Tod
 
-Lesen Sie die Vollmacht vollständig und dokumentieren Sie den vorgesehenen Erklärungstyp. Eine allgemeine Vorsorgevollmacht kann Grundstücksangelegenheiten einschließen oder beschränken. Befreiung von § 181 BGB, Untervollmacht, transmortale Wirkung und Bedingungen sind eigenständige Fragen. Die Urkunde kann interne Weisungen erwähnen, die für den Missbrauchseinwand Bedeutung haben. Das System darf eine Befugnis nicht allein aus der Überschrift „Generalvollmacht“ ableiten.
+Lesen Sie die Vollmacht vollständig und dokumentieren Sie den vorgesehenen Erklärungstyp. Eine allgemeine Vorsorgevollmacht kann Grundstücksangelegenheiten einschließen oder beschränken. Befreiung von Paragraf 181 BGB, Untervollmacht, transmortale Wirkung und Bedingungen sind eigenständige Fragen. Die Urkunde kann interne Weisungen erwähnen, die für den Missbrauchseinwand Bedeutung haben. Das System darf eine Befugnis nicht allein aus der Überschrift „Generalvollmacht“ ableiten.
 
 Bei Tod des Vollmachtgebers prüfen Sie Fortgeltung, Widerrufe und die Rolle der Erben. Ein Bevollmächtigter handelt nicht kraft Erbenstellung, und ein Erbe hat nicht automatisch jede Vollmacht des Erblassers fortgeführt. Die gerichtliche Nachweisform bleibt unabhängig von der materiellen Wirksamkeit zu beachten. Bei konkreten Zweifeln an damaliger Geschäftsfähigkeit sammeln Sie belegte Tatsachen und schaffen keine rückwirkende Gewissheit aus dem Alter der Urkunde.
 
-Prüfen Sie die Voreintragung nach §§ 39, 40 GBO für genau die beabsichtigte Verfügung. Übertragen Sie eine Ausnahme, die bei Eigentumsübertragung in Betracht kommt, nicht ohne Prüfung auf die Bestellung einer neuen Finanzierungsgrundschuld. Wenn die örtliche oder obergerichtliche Linie relevant und nicht verifiziert ist, markieren Sie den konkreten Recherchepunkt und beschaffen Sie die Entscheidung vor einer vollzugsentscheidenden Aussage.
+Prüfen Sie die Voreintragung nach Paragrafen 39, 40 GBO für genau die beabsichtigte Verfügung. Übertragen Sie eine Ausnahme, die bei Eigentumsübertragung in Betracht kommt, nicht ohne Prüfung auf die Bestellung einer neuen Finanzierungsgrundschuld. Wenn die örtliche oder obergerichtliche Linie relevant und nicht verifiziert ist, markieren Sie den konkreten Recherchepunkt und beschaffen Sie die Entscheidung vor einer vollzugsentscheidenden Aussage.
 
 ### 5.5. Gesellschaften, eGbR und Rechtsnachfolge
 
@@ -172,7 +176,7 @@ Ausländische Nachweise werden nicht mit einem universellen Apostillenhaken abge
 
 ### 6.1. Erbnachweise sinnvoll ordnen
 
-Prüfen Sie zuerst den Typ der Verfügung und die vorhandenen Erbnachweise. § 35 Absatz 1 GBO nennt Erbschein und Europäisches Nachlasszeugnis und eröffnet bei öffentlicher Verfügung von Todes wegen den Nachweis durch Verfügung und Eröffnungsniederschrift. Die öffentliche Verfügung muss die behauptete Erbfolge tragen; eine Beglaubigung einer privaten Abschrift macht das eigenhändige Testament nicht zur öffentlichen Verfügung.
+Prüfen Sie zuerst den Typ der Verfügung und die vorhandenen Erbnachweise. Paragraf 35 Absatz 1 GBO nennt Erbschein und Europäisches Nachlasszeugnis und eröffnet bei öffentlicher Verfügung von Todes wegen den Nachweis durch Verfügung und Eröffnungsniederschrift. Die öffentliche Verfügung muss die behauptete Erbfolge tragen; eine Beglaubigung einer privaten Abschrift macht das eigenhändige Testament nicht zur öffentlichen Verfügung.
 
 Legen Sie den relevanten Nachlass fest. Bei Nacherbfolge kann die Berechtigung aus dem Erbfall des ursprünglichen Erblassers entstehen, während der später verstorbene Vorerbe einen anderen Nachlass hinterlässt. Diese Unterscheidung ist für Antrag, Erbquoten und Nachweis entscheidend. Ein Erbschein nach dem Vorerben beantwortet nicht automatisch die Nacherbfolge nach dem ursprünglichen Erblasser.
 
@@ -180,9 +184,9 @@ Fragen Sie nach weiteren Verfügungen, Ausschlagungen und konkreten Unklarheiten
 
 ### 6.2. Unbenannte Kinder und negative Tatsachen
 
-BGH, Beschl. v. 20.11.2025 – Az. V ZB 40/24, Rn. 15–24, behandelt die Bestimmung nicht namentlich genannter Abkömmlinge in einer öffentlichen Verfügung. Personenstandsurkunden können die Abstammung der bekannten Kinder nachweisen. Die zusätzliche negative Tatsache, dass keine weiteren Abkömmlinge vorhanden sind oder waren, kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden.
+BGH, Beschl. v. 20.11.2025 – Az. V ZB 40/24, Rn. 15–24, behandelt die Bestimmung nicht namentlich genannter Abkömmlinge in einer öffentlichen Verfügung. Personenstandsurkunden können die Abstammung der bekannten Kinder nachweisen. Die zusätzliche negative Tatsache, dass keine weiteren Abkömmlinge vorhanden sind oder waren, kann durch einfache Erklärungen in der Form des Paragrafen 29 Absatz 1 GBO nachgewiesen werden.
 
-„Einfach“ bezeichnet hier den Erklärungstyp und bedeutet nicht formlos. Verwechseln Sie die formgerechte Erklärung nicht mit einer normalen E-Mail. Die Entscheidung verwirft den generellen Rückgriff auf eine eidesstattliche Versicherung als gesetzliches Erbnachweismittel im Verfahren nach § 35 Absatz 1 GBO. Die besondere Ausnahme des § 35 Absatz 3 GBO hat einen anderen Tatbestand und ist nicht zu verallgemeinern.
+„Einfach“ bezeichnet hier den Erklärungstyp und bedeutet nicht formlos. Verwechseln Sie die formgerechte Erklärung nicht mit einer normalen E-Mail. Die Entscheidung verwirft den generellen Rückgriff auf eine eidesstattliche Versicherung als gesetzliches Erbnachweismittel im Verfahren nach Paragraf 35 Absatz 1 GBO. Die besondere Ausnahme des Paragrafen 35 Absatz 3 GBO hat einen anderen Tatbestand und ist nicht zu verallgemeinern.
 
 Bereiten Sie eine Erklärung nur auf Grundlage der tatsächlichen Kenntnisse der erklärenden Person vor. Fragen Sie nach bekannten Kindern, vorverstorbenen Kindern mit Abkömmlingen, Adoptionen und Namen. Lassen Sie eine Person nicht scheinbar sicher Tatsachen erklären, die sie erkennbar nicht weiß. Wenn ein Brief auf ein weiteres Kind hindeutet, prüfen Sie, ob er wirklich rechtliche Abstammung oder nur eine familiäre Anrede betrifft.
 
@@ -206,7 +210,7 @@ Prüfen Sie für Kostenhinweise die einschlägige aktuelle Gebührenvorschrift e
 
 ### 7.1. Vertrag und Auflassung
 
-Ein Kaufvertrag begründet die Verpflichtung zur Übertragung; die dingliche Einigung und Eintragung sind davon zu unterscheiden. § 925 BGB enthält besondere Anforderungen an die Auflassung. Die Werkstatt kann den Inhalt eines vorhandenen Vertrags prüfen und den Vollzug koordinieren, aber keine Auflassung durch einen Chat oder eine elektronische Unterschrift des Agenten ersetzen.
+Ein Kaufvertrag begründet die Verpflichtung zur Übertragung; die dingliche Einigung und Eintragung sind davon zu unterscheiden. Paragraf 925 BGB enthält besondere Anforderungen an die Auflassung. Die Werkstatt kann den Inhalt eines vorhandenen Vertrags prüfen und den Vollzug koordinieren, aber keine Auflassung durch einen Chat oder eine elektronische Unterschrift des Agenten ersetzen.
 
 Lesen Sie Vollzugsanweisungen und Voraussetzungen im konkreten Vertrag. Genehmigungen, behördliche Nachweise, Vorkaufsrechtsfragen, steuerliche Unbedenklichkeit und Fälligkeit sind je nach Vorgang relevant. Übernehmen Sie keine allgemeinen Kaufvertragsbedingungen in eine Schenkung oder Erbauseinandersetzung. Bei einem Behördenersuchen gelten teilweise andere Grundlagen als bei einer privaten Bewilligung.
 
@@ -240,15 +244,15 @@ Dingliche Zinsen und Nebenleistungen sind nicht gleich laufende Darlehenszinsen.
 
 ### 8.2. Briefgrundschuld und Abtretungskette
 
-Bei Briefrechten kann die tatsächliche Gläubigerstellung außerhalb des Grundbuchs gewechselt haben. Eine Eintragung allein beantwortet daher die Berechtigung des gegenwärtigen Anspruchstellers nicht vollständig. Prüfen Sie schriftliche Abtretung, Briefübergabe oder tauglichen Übergabeersatz und die vorgelegten Nachweise. Die materiellen Voraussetzungen aus §§ 1154, 1192 BGB sind von einer für die Eintragung erforderlichen Urkundenform zu trennen.
+Bei Briefrechten kann die tatsächliche Gläubigerstellung außerhalb des Grundbuchs gewechselt haben. Eine Eintragung allein beantwortet daher die Berechtigung des gegenwärtigen Anspruchstellers nicht vollständig. Prüfen Sie schriftliche Abtretung, Briefübergabe oder tauglichen Übergabeersatz und die vorgelegten Nachweise. Die materiellen Voraussetzungen aus Paragrafen 1154, 1192 BGB sind von einer für die Eintragung erforderlichen Urkundenform zu trennen.
 
-§ 1155 BGB betrifft den öffentlichen Glauben einer zusammenhängenden, auf den eingetragenen Gläubiger zurückführenden Reihe öffentlich beglaubigter Abtretungserklärungen beim Briefbesitzer. Die Norm macht eine lückenhafte Kopiensammlung nicht zu einer sicheren Kette. Fragen Sie nach Original, beglaubigter Form, Besitz und jedem Zwischenerwerb. Eine Bankfusion ist als gesetzlicher Übergang gesondert zu belegen.
+Paragraf 1155 BGB betrifft den öffentlichen Glauben einer zusammenhängenden, auf den eingetragenen Gläubiger zurückführenden Reihe öffentlich beglaubigter Abtretungserklärungen beim Briefbesitzer. Die Norm macht eine lückenhafte Kopiensammlung nicht zu einer sicheren Kette. Fragen Sie nach Original, beglaubigter Form, Besitz und jedem Zwischenerwerb. Eine Bankfusion ist als gesetzlicher Übergang gesondert zu belegen.
 
 Wenn die Bank nur erklärt, sie sei „zuständig“, klären Sie, ob sie Gläubigerin, Servicerin, Verwahrstelle oder Bevollmächtigte ist. Diese Rollen dürfen in einem Löschungs- oder Abtretungsvorgang nicht vermengt werden. Ein Servicer kann Unterlagen beschaffen und Auskünfte erteilen; seine Befugnis zur materiellen Erklärung muss aber eigens feststehen.
 
 ### 8.3. Löschung und Eigentümerzustimmung
 
-Bestimmen Sie die zu löschende Eintragung präzise und erfassen Sie Teilbeträge sowie Gesamtbelastungen. Prüfen Sie die Bewilligung des Betroffenen, die notwendige Eigentümerzustimmung nach § 27 GBO und die Briefvorlage nach §§ 41, 42 GBO. Nicht jede Löschungsbewilligung deckt jede Nebenleistung, jeden Teilbetrag oder jedes mitbelastete Blatt in der gewünschten Weise ab.
+Bestimmen Sie die zu löschende Eintragung präzise und erfassen Sie Teilbeträge sowie Gesamtbelastungen. Prüfen Sie die Bewilligung des Betroffenen, die notwendige Eigentümerzustimmung nach Paragraf 27 GBO und die Briefvorlage nach Paragrafen 41, 42 GBO. Nicht jede Löschungsbewilligung deckt jede Nebenleistung, jeden Teilbetrag oder jedes mitbelastete Blatt in der gewünschten Weise ab.
 
 Ein Bankformular kann die Erteilung der Bewilligung von Zahlung oder bestimmter Verwendung abhängig machen. Übernehmen Sie es nicht losgelöst vom Begleitschreiben. Bei Treuhandauflagen sind Empfänger, Frist und Verwendungsvoraussetzungen zu beachten. Das KI-System darf die Bewilligung nicht für einen anderen Vorgang verwenden oder eine Bedingung als erledigt markieren, weil der Nutzer die Zahlung erwartet.
 
@@ -256,7 +260,7 @@ Vor der Löschung fragen Sie, ob die Sicherheit für eine Anschlussfinanzierung 
 
 ### 8.4. Rangänderung und Teilfreigabe
 
-Erstellen Sie bei einer Rangänderung zuerst den aktuellen und den gewünschten Rangzustand. Bezeichnen Sie sämtliche betroffenen Rechte einschließlich Zinsen und Nebenleistungen. Die Einigung der betroffenen Berechtigten und die erforderliche Eigentümerzustimmung sind nach § 880 BGB zu prüfen; die Wirkung für zwischenliegende Rechte darf nicht übersehen werden. Tragen Sie nicht nur „Rangtausch“ ein, wenn tatsächlich ein Teilbetrag vorgehen soll.
+Erstellen Sie bei einer Rangänderung zuerst den aktuellen und den gewünschten Rangzustand. Bezeichnen Sie sämtliche betroffenen Rechte einschließlich Zinsen und Nebenleistungen. Die Einigung der betroffenen Berechtigten und die erforderliche Eigentümerzustimmung sind nach Paragraf 880 BGB zu prüfen; die Wirkung für zwischenliegende Rechte darf nicht übersehen werden. Tragen Sie nicht nur „Rangtausch“ ein, wenn tatsächlich ein Teilbetrag vorgehen soll.
 
 Bei Teilfreigaben ist festzustellen, ob ein Grundstück aus der Gesamthaft entlassen, ein Teilbetrag gelöscht oder ein Rang nur in bestimmtem Umfang verändert wird. Diese Vorgänge haben unterschiedliche Erklärungen und Auswirkungen. Ein Vermessungsvorgang kann neue Grundstücksbezeichnungen erzeugen; die alte Bewilligung muss darauf passend bezogen werden.
 
@@ -274,15 +278,15 @@ Verhindern Sie neue Unklarheit. Originale werden nicht durch mehrere Hände gere
 
 ### 9.2. Briefaufgebot und Gläubigeraufgebot auseinanderhalten
 
-Die Kraftloserklärung des abhandengekommenen oder vernichteten Briefs beruht auf § 1162 BGB, bei Grundschulden über § 1192 Absatz 1 BGB. Das ist von einem Ausschluss eines unbekannten Gläubigers nach §§ 1170, 1171 BGB zu unterscheiden. Eine unauffindbare Urkunde macht den Gläubiger nicht automatisch unbekannt; ein unbekannter Gläubiger macht nicht zwingend jeden Briefverlusttatbestand wahr.
+Die Kraftloserklärung des abhandengekommenen oder vernichteten Briefs beruht auf Paragraf 1162 BGB, bei Grundschulden über Paragraf 1192 Absatz 1 BGB. Das ist von einem Ausschluss eines unbekannten Gläubigers nach Paragrafen 1170, 1171 BGB zu unterscheiden. Eine unauffindbare Urkunde macht den Gläubiger nicht automatisch unbekannt; ein unbekannter Gläubiger macht nicht zwingend jeden Briefverlusttatbestand wahr.
 
-Erfassen Sie das Ziel präzise: Soll eine Ersatzurkunde zur weiteren Verwendung des Rechts erstellt werden oder soll das Recht nach dem Aufgebot gelöscht werden? Für die Löschung kann nach §§ 41 Absatz 2, 42 GBO der Ausschließungsbeschluss die maßgebliche Briefvorlage ersetzen; es muss nicht stets erst ein neuer Brief hergestellt werden. Ein Ersatzbrief kann dagegen sinnvoll sein, wenn die Sicherheit erhalten oder abgetreten werden soll.
+Erfassen Sie das Ziel präzise: Soll eine Ersatzurkunde zur weiteren Verwendung des Rechts erstellt werden oder soll das Recht nach dem Aufgebot gelöscht werden? Für die Löschung kann nach Paragrafen 41 Absatz 2, 42 GBO der Ausschließungsbeschluss die maßgebliche Briefvorlage ersetzen; es muss nicht stets erst ein neuer Brief hergestellt werden. Ein Ersatzbrief kann dagegen sinnvoll sein, wenn die Sicherheit erhalten oder abgetreten werden soll.
 
 Wenn die Mandantin „Das Recht soll weg, weil der Brief fehlt“ sagt, klären Sie Forderungsstand, Bewilligung und Gläubiger. Das Aufgebot beseitigt nicht von selbst das Grundpfandrecht. Formulieren Sie den Sachverhalt nicht so, als sei der Gläubiger durch einen Verlust seiner Urkunde entrechtet. Die Werkstatt schützt gerade die Trennung von Papierverlust und materiellem Recht.
 
 ### 9.3. Antragsteller und Verfahrensstandschaft
 
-Nach § 467 Absatz 2 FamFG ist bei den hier typischen Urkunden derjenige antragsberechtigt, der das Recht aus der Urkunde geltend machen kann. Der Grundstückseigentümer ist nicht ohne Weiteres der Grundschuldgläubiger. Die Rückzahlung des Darlehens führt wegen der fehlenden Akzessorietät nicht automatisch zum Erwerb der Grundschuld. Ermitteln Sie den tatsächlichen Rechtsinhaber und dessen Erklärung.
+Nach Paragraf 467 Absatz 2 FamFG ist bei den hier typischen Urkunden derjenige antragsberechtigt, der das Recht aus der Urkunde geltend machen kann. Der Grundstückseigentümer ist nicht ohne Weiteres der Grundschuldgläubiger. Die Rückzahlung des Darlehens führt wegen der fehlenden Akzessorietät nicht automatisch zum Erwerb der Grundschuld. Ermitteln Sie den tatsächlichen Rechtsinhaber und dessen Erklärung.
 
 OLG München, Beschl. v. 01.08.2025 – Az. 34 Wx 153/25 e, Rn. 22–31, behandelt die Verfahrensstandschaft. Eine Ermächtigung kann aus einer Verzichtserklärung folgen; maßgeblich sind Erklärung und schutzwürdiges Interesse. Die Entscheidung gibt keinen Freibrief, jede beliebige Bankmail als umfassende Ermächtigung auszulegen. Lesen Sie Inhalt, Adressat und erkennbaren Zweck.
 
@@ -290,15 +294,15 @@ Wenn die Berechtigung fehlt, ist der nächste fertige Arbeitsschritt häufig ein
 
 ### 9.4. Zuständigkeit und Antragsbegründung
 
-Für eine Urkunde über ein im Grundbuch eingetragenes Recht ist nach § 466 Absatz 2 FamFG das Gericht der belegenen Sache ausschließlich örtlich zuständig. Richten Sie den Antrag an das zuständige Amtsgericht in der richtigen Verfahrensart. Die Aufgebotsabteilung und das Grundbuchamt können organisatorisch im selben Gericht liegen, bearbeiten aber unterschiedliche Schritte. Das Grundbuchblatt und das Aufgebotsaktenzeichen werden nicht miteinander verwechselt.
+Für eine Urkunde über ein im Grundbuch eingetragenes Recht ist nach Paragraf 466 Absatz 2 FamFG das Gericht der belegenen Sache ausschließlich örtlich zuständig. Richten Sie den Antrag an das zuständige Amtsgericht in der richtigen Verfahrensart. Die Aufgebotsabteilung und das Grundbuchamt können organisatorisch im selben Gericht liegen, bearbeiten aber unterschiedliche Schritte. Das Grundbuchblatt und das Aufgebotsaktenzeichen werden nicht miteinander verwechselt.
 
-§ 468 FamFG verlangt die Abschrift oder eindeutige Erkennbarkeit der Urkunde, Glaubhaftmachung des Verlusts und der Berechtigung sowie das Angebot der Versicherung an Eides statt. Der Entwurf schildert die tatsächlich belegten Suchhandlungen. Er darf keine Versicherung einer Person über unbekannte Vorgänge enthalten und keine bereits erfolgte eidliche Erklärung behaupten. Die konkrete Aufnahme und Erklärung bleiben bei der zuständigen Stelle und der erklärenden Person.
+Paragraf 468 FamFG verlangt die Abschrift oder eindeutige Erkennbarkeit der Urkunde, Glaubhaftmachung des Verlusts und der Berechtigung sowie das Angebot der Versicherung an Eides statt. Der Entwurf schildert die tatsächlich belegten Suchhandlungen. Er darf keine Versicherung einer Person über unbekannte Vorgänge enthalten und keine bereits erfolgte eidliche Erklärung behaupten. Die konkrete Aufnahme und Erklärung bleiben bei der zuständigen Stelle und der erklärenden Person.
 
-Prüfen Sie Veröffentlichungs- und Fristvorgaben einschließlich § 484 FamFG und einschlägigen Landesrechts. Übernehmen Sie keine bundesweit feste Verfahrensdauer aus einem anderen Fall. Wenn eine Bank mit einem Abschluss in zwei Wochen rechnet, erläutern Sie, welche gerichtlichen Schritte davon unabhängig sind. Der Antrag wird vollständig ausformuliert; eine Tabelle zur Verlustchronologie kann die Tatsachendarstellung ergänzen.
+Prüfen Sie Veröffentlichungs- und Fristvorgaben einschließlich Paragraf 484 FamFG und einschlägigen Landesrechts. Übernehmen Sie keine bundesweit feste Verfahrensdauer aus einem anderen Fall. Wenn eine Bank mit einem Abschluss in zwei Wochen rechnet, erläutern Sie, welche gerichtlichen Schritte davon unabhängig sind. Der Antrag wird vollständig ausformuliert; eine Tabelle zur Verlustchronologie kann die Tatsachendarstellung ergänzen.
 
 ### 9.5. Anmeldung eines Dritten und neue Erkenntnisse
 
-Geht während des Aufgebots eine Nachricht ein, wonach ein Dritter den Brief besitzt, ist diese dem Gericht unverzüglich sachlich zuzuordnen. Die Werkstatt entscheidet nicht selbst, ob der Dritte rechtmäßiger Gläubiger ist. Prüfen Sie, ob der Brief vorgelegt wurde, welche Identifikation möglich ist und welche Frist zur Stellungnahme gesetzt wurde. § 477 FamFG ist für die Vorlage vor Erlass des Ausschließungsbeschlusses zu beachten.
+Geht während des Aufgebots eine Nachricht ein, wonach ein Dritter den Brief besitzt, ist diese dem Gericht unverzüglich sachlich zuzuordnen. Die Werkstatt entscheidet nicht selbst, ob der Dritte rechtmäßiger Gläubiger ist. Prüfen Sie, ob der Brief vorgelegt wurde, welche Identifikation möglich ist und welche Frist zur Stellungnahme gesetzt wurde. Paragraf 477 FamFG ist für die Vorlage vor Erlass des Ausschließungsbeschlusses zu beachten.
 
 Wird der Brief vor Abschluss selbst wiedergefunden, muss die bisherige Verlustdarstellung aktualisiert werden. Führen Sie einen Antrag nicht wider besseres Wissen fort. Dokumentieren Sie Funddatum, Fundort, Zustand und Übereinstimmung. Erstellen Sie das passende gerichtliche Schreiben und stimmen Sie die Vorlage des Originals ab. Die Rechtsfolgen unterscheiden sich von einem Wiederfund nach rechtskräftiger Kraftloserklärung.
 
@@ -308,7 +312,7 @@ Wenn nur eine Kopie auftaucht, klären Sie dies ausdrücklich. Eine Kopie kann d
 
 Lesen Sie den Tenor genau: Welche Urkunde wurde für kraftlos erklärt? Stimmen Briefnummer, Grundbuch, Betrag und Ausstellungsdatum mit dem Antrag überein? Prüfen Sie Bekanntmachung, Zustellung, Rechtsbehelfe und Rechtskraftnachweis anhand der Akte. Ein Entwurf eines Beschlusses oder eine telefonische Mitteilung über dessen Erlass ist kein Ersatz für den benötigten urkundlichen Nachweis.
 
-§ 67 in Verbindung mit § 70 GBO verlangt für den neuen Brief den Antrag des Berechtigten und die Vorlage des bisherigen Briefs oder des Ausschließungsbeschlusses in den geregelten Fällen. BGH, Beschl. v. 16.02.2012 – Az. V ZB 308/10, Rn. 10–12, stellt klar, dass der erfolgreiche Antragsteller des Aufgebots nicht schon deshalb der Berechtigte für den Ersatzbrief ist. Prüfen Sie weiterhin die Gläubiger- und gegebenenfalls Pfändungslage.
+Paragraf 67 in Verbindung mit Paragraf 70 GBO verlangt für den neuen Brief den Antrag des Berechtigten und die Vorlage des bisherigen Briefs oder des Ausschließungsbeschlusses in den geregelten Fällen. BGH, Beschl. v. 16.02.2012 – Az. V ZB 308/10, Rn. 10–12, stellt klar, dass der erfolgreiche Antragsteller des Aufgebots nicht schon deshalb der Berechtigte für den Ersatzbrief ist. Prüfen Sie weiterhin die Gläubiger- und gegebenenfalls Pfändungslage.
 
 Die neue Urkunde und ihre Aushändigung werden getrennt dokumentiert. Erfassen Sie Ersatzbriefnummer, Erteilungsdatum, Bezug auf den Ausschließungsbeschluss, Empfänger und Empfang. Wenn mehrere Stellen Unterlagen erwarten, stimmen Sie den Versandweg ab. Kein unkontrolliertes Parallelversenden von Originalen. Die Grundschuld bleibt nach Art, Betrag und Rang zu prüfen; der Ersatzbrief schafft nicht durch sich allein eine neue Sicherheit.
 
@@ -350,7 +354,7 @@ Der Abschlussbericht beantwortet vier Fragen: Welcher Brief ist kraftlos, welche
 
 ### 11.1. Zwischenverfügung lesen und zerlegen
 
-Lesen Sie eine Zwischenverfügung zusammen mit dem eingereichten Antrag. Erstellen Sie intern für jeden Punkt eine Zeile: beanstandete Voraussetzung, angeführte Norm, vorhandener Nachweis, tatsächlich fehlender Nachweis und realistische Behebung. Vermischen Sie nicht eine fehlende formgerechte Urkunde mit einem fehlenden materiellen Rechtsgeschäft. § 18 GBO dient nicht dazu, jeden erst künftig zu schaffenden Eintragungsgrund auf Kosten zwischenzeitlicher Anträge im Rang festzuhalten.
+Lesen Sie eine Zwischenverfügung zusammen mit dem eingereichten Antrag. Erstellen Sie intern für jeden Punkt eine Zeile: beanstandete Voraussetzung, angeführte Norm, vorhandener Nachweis, tatsächlich fehlender Nachweis und realistische Behebung. Vermischen Sie nicht eine fehlende formgerechte Urkunde mit einem fehlenden materiellen Rechtsgeschäft. Paragraf 18 GBO dient nicht dazu, jeden erst künftig zu schaffenden Eintragungsgrund auf Kosten zwischenzeitlicher Anträge im Rang festzuhalten.
 
 Prüfen Sie, ob das Gericht einen behebbaren Mangel bezeichnet, einen ungeeigneten Nachweis fordert oder den Antrag missverstanden hat. Die Antwort kann Nachreichung, Klarstellung, begründetes Bestreiten oder ein passender Rechtsbehelf sein. Ein pauschaler Angriff auf „übertriebene Förmelei“ hilft selten. Benennen Sie stattdessen, welche konkrete Urkunde die Voraussetzung schon beweist oder welche gesetzliche Nachweiserleichterung gilt.
 
@@ -358,11 +362,11 @@ Wenn der Nutzer einen gerichtlichen Punkt akzeptiert und einen anderen angreifen
 
 ### 11.2. Grundbuchbeschwerde und Aufgebotsbeschwerde
 
-Für Grundbuchentscheidungen gelten §§ 71 ff. GBO. Gegen eine Eintragung bestehen die Beschränkungen des § 71 Absatz 2 GBO; das Verfahren ist nicht beliebig durch eine allgemeine Aufhebungsbeschwerde rückgängig zu machen. § 53 GBO und gegebenenfalls materiellrechtliche Berichtigungsansprüche sind auseinanderzuhalten. Prüfen Sie Beschwerdeberechtigung, Entscheidungstyp, Ziel und möglichen Rechtsfolgenumfang.
+Für Grundbuchentscheidungen gelten Paragrafen 71 ff. GBO. Gegen eine Eintragung bestehen die Beschränkungen des Paragrafen 71 Absatz 2 GBO; das Verfahren ist nicht beliebig durch eine allgemeine Aufhebungsbeschwerde rückgängig zu machen. Paragraf 53 GBO und gegebenenfalls materiellrechtliche Berichtigungsansprüche sind auseinanderzuhalten. Prüfen Sie Beschwerdeberechtigung, Entscheidungstyp, Ziel und möglichen Rechtsfolgenumfang.
 
-Aufgebotsentscheidungen folgen dem FamFG mit eigenständiger Statthaftigkeit und Frist. Die Zurückweisung eines Aufgebotsantrags ist nach OLG München, Beschl. v. 01.08.2025 – Az. 34 Wx 153/25 e, Rn. 18, eine mit Beschwerde anfechtbare Entscheidung. Daraus folgt nicht, dass jede Nachricht der Geschäftsstelle ein Beschluss ist. Prüfen Sie Zustellung, Entscheidungstenor und aktuelle §§ 58 ff. FamFG.
+Aufgebotsentscheidungen folgen dem FamFG mit eigenständiger Statthaftigkeit und Frist. Die Zurückweisung eines Aufgebotsantrags ist nach OLG München, Beschl. v. 01.08.2025 – Az. 34 Wx 153/25 e, Rn. 18, eine mit Beschwerde anfechtbare Entscheidung. Daraus folgt nicht, dass jede Nachricht der Geschäftsstelle ein Beschluss ist. Prüfen Sie Zustellung, Entscheidungstenor und aktuelle Paragrafen 58 ff. FamFG.
 
-Übertragen Sie keine pauschale Monatsfrist auf sämtliche GBO-Beschwerden. Umgekehrt darf eine FamFG-Frist nicht wegen einer vertrauten Grundbuchpraxis ignoriert werden. Für elektronische Übermittlung sind Verfahren, Berufsträgerrolle und konkrete Rechtsgrundlage zu unterscheiden; § 14b FamFG gilt nicht als undifferenzierter Ersatz für jede GBO-Spezialregel. Eine gewöhnliche E-Mail wird nicht allein durch die Berufsbezeichnung formgerecht.
+Übertragen Sie keine pauschale Monatsfrist auf sämtliche GBO-Beschwerden. Umgekehrt darf eine FamFG-Frist nicht wegen einer vertrauten Grundbuchpraxis ignoriert werden. Für elektronische Übermittlung sind Verfahren, Berufsträgerrolle und konkrete Rechtsgrundlage zu unterscheiden; Paragraf 14b FamFG gilt nicht als undifferenzierter Ersatz für jede GBO-Spezialregel. Eine gewöhnliche E-Mail wird nicht allein durch die Berufsbezeichnung formgerecht.
 
 ### 11.3. Sachlich mit dem Gericht kommunizieren
 
@@ -453,7 +457,7 @@ Nach Erhalt prüfen Sie, ob die Bewilligung vollständig ist und ob ein in Bezug
 
 ### 14.2. Anfrage bei bloßem Kaufinteresse
 
-Wenn nur ein unbekannter Eigentümer für mögliche Verhandlungen ermittelt werden soll, verfassen Sie keine erfundene §-12-Begründung. Ein geeigneter Mandantenbrief lautet nach Prüfung des konkreten Sachverhalts:
+Wenn nur ein unbekannter Eigentümer für mögliche Verhandlungen ermittelt werden soll, verfassen Sie keine erfundene Begründung zu Paragraf 12 GBO. Ein geeigneter Mandantenbrief lautet nach Prüfung des konkreten Sachverhalts:
 
 „Sehr geehrte Frau [Name],
 
@@ -478,7 +482,7 @@ ich beantrage die Berichtigung des Grundbuchs von [Bezirk], Blatt [Nummer], hins
 
 [Erblasser] ist am [Datum] verstorben. Die Erbfolge ergibt sich aus der öffentlichen Verfügung von Todes wegen vom [Datum], Urkundenrolle [Nummer], und der beigefügten Eröffnungsniederschrift des Nachlassgerichts vom [Datum]. Die darin als [Bezeichnung] eingesetzten Personen werden durch die beigefügten Personenstandsurkunden identifiziert.
 
-Zum Fehlen weiterer [Kinder/Abkömmlinge] werden die Erklärungen der Beteiligten in der Form des § 29 Absatz 1 GBO vorgelegt. Die konkrete Zuordnung der Nachweise ergibt sich aus dem Anlagenverzeichnis. [Eine tatsächlich aufklärungsbedürftige Abweichung wird hier sachlich beschrieben und nicht verschwiegen.]
+Zum Fehlen weiterer [Kinder/Abkömmlinge] werden die Erklärungen der Beteiligten in der Form des Paragrafen 29 Absatz 1 GBO vorgelegt. Die konkrete Zuordnung der Nachweise ergibt sich aus dem Anlagenverzeichnis. [Eine tatsächlich aufklärungsbedürftige Abweichung wird hier sachlich beschrieben und nicht verschwiegen.]
 
 Ich bitte um Vollzug der beantragten Berichtigung. Falls aus Sicht des Grundbuchamts ein bestimmter Nachweis noch nicht ausreicht, bitte ich um Benennung der verbleibenden konkreten tatsächlichen Unklarheit.
 
@@ -495,7 +499,7 @@ Verwenden Sie diesen Weg nur, wenn die Urkunden und Erklärungen die konkrete L�
 
 zu Ihrer Zwischenverfügung vom [Datum] reichen wir die beigefügten [Personenstandsurkunden und formgerechten Erklärungen] nach. Die Abstammung von [Person] wird durch [Urkunde] nachgewiesen. Zum Fehlen weiterer Abkömmlinge liegen die Erklärungen von [Personen] in öffentlich beglaubigter Form vor.
 
-Die Erbfolge beruht auf der bereits vorgelegten eröffneten öffentlichen Verfügung von Todes wegen. Nach BGH, Beschluss vom 20. November 2025 – Az. V ZB 40/24, insbesondere Rn. 15–24 und 28, sind die Personenstandsurkunden und die formgerechten einfachen Erklärungen bei der Prüfung nach § 35 Absatz 1 GBO zu würdigen. Der bloße Umstand, dass die Abkömmlinge in der Verfügung nicht namentlich genannt werden, trägt danach keine ausnahmslose Erbscheinforderung.
+Die Erbfolge beruht auf der bereits vorgelegten eröffneten öffentlichen Verfügung von Todes wegen. Nach BGH, Beschluss vom 20. November 2025 – Az. V ZB 40/24, insbesondere Rn. 15–24 und 28, sind die Personenstandsurkunden und die formgerechten einfachen Erklärungen bei der Prüfung nach Paragraf 35 Absatz 1 GBO zu würdigen. Der bloße Umstand, dass die Abkömmlinge in der Verfügung nicht namentlich genannt werden, trägt danach keine ausnahmslose Erbscheinforderung.
 
 Die von Ihnen angesprochene Abweichung [konkreter Punkt] erklärt sich aus [belegte Erklärung]. Der zugehörige Nachweis ist als Anlage [Nummer] beigefügt. Wir bitten deshalb, die beantragte Berichtigung nicht weiterhin aus dem in der Verfügung genannten Grund abzulehnen.
 
@@ -687,41 +691,41 @@ Stand der Quellenprüfung: 01.10.2026. Amtliche Entscheidungstexte wurden in den
 
 [Amtlicher Entscheidungstext](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-1941). Gelesen: Tenor und Rn. 1–17, besonders 7, 9–14.
 
-**Anwendung:** Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über § 12c Absatz 4 GBO beachten.
+Anwendung: Bloßes Kaufinteresse erlaubt keine Eigentümerausforschung. Sachlich begründetes Interesse, Verhandlungsstand und Umfang der verlangten Unterlagen sind konkret darzulegen. Gegen eine bestätigte Einsichtsversagung den Weg über Paragraf 12c Absatz 4 GBO beachten.
 
-**Grenze:** Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.
+Grenze: Nicht jedes Kaufinteresse ist ausgeschlossen: Nach begonnenen Verhandlungen kann die Lage anders sein. Eine konkrete Nachbarrechtsfrage ist eigenständig zu prüfen. Artikel 6 DSGVO schafft keinen selbständigen Auskunftsanspruch.
 
 ### 16.2. BGH, Beschl. v. 21.05.2026 - Az. V ZB 90/25
 
 [Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB__90-25.pdf?__blob=publicationFile&v=1). Gelesen: Kopf und Tenor; Rn. 1–17 und 23–40, besonders 8–14 und 32–33.
 
-**Anwendung:** § 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden.
+Anwendung: Paragraf 42 ZVG eröffnet jedermann Einsicht in die dort erfassten Teile einer konkreten Versteigerungsakte ohne vorherige Schwärzung personenbezogener Daten. Überlassene Inhalte dürfen nicht öffentlich verbreitet oder zu verfahrensfremden Zwecken an Dritte weitergegeben werden.
 
-**Grenze:** Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere § 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.
+Grenze: Das ist keine allgemeine Öffnung des Grundbuchs und kein Anspruch auf die komplette Versteigerungsakte. Für übrige Aktenteile gilt insbesondere Paragraf 299 Absatz 2 ZPO. Gericht und Verfahrensart zuerst bestimmen.
 
 ### 16.3. BGH, Beschl. v. 20.11.2025 - Az. V ZB 40/24
 
 [Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__40-24.pdf?__blob=publicationFile&v=1). Gelesen: Kopf, Tenor und vollständige Rn. 1–30, insbesondere 8–11, 15–24, 28–29.
 
-**Anwendung:** Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des § 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend.
+Anwendung: Bei öffentlich beurkundeter Verfügung können Personenstandsurkunden nicht namentlich genannte Abkömmlinge identifizieren. Das Fehlen weiterer Abkömmlinge kann durch einfache Erklärungen in der Form des Paragrafen 29 Absatz 1 GBO nachgewiesen werden. Verbleibende konkrete tatsächliche Zweifel sind entscheidend.
 
-**Grenze:** Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach § 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.
+Grenze: Keine formlose E-Mail als Ersatz; keine automatische Erbscheinbefreiung bei konkreten Zweifeln oder privatschriftlichem Testament. Eine eidesstattliche Versicherung ist im Verfahren nach Paragraf 35 Absatz 1 GBO nicht das gesetzliche Nachweismittel.
 
 ### 16.4. OLG München, Beschl. v. 01.08.2025 - Az. 34 Wx 153/25 e
 
 [Amtlicher Entscheidungstext](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2025-N-19312). Gelesen: Tenor und Rn. 1–33, besonders 18 und 22–31.
 
-**Anwendung:** Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden.
+Anwendung: Für das Briefaufgebot braucht der Grundstückseigentümer eine eigene Rechtsinhaberschaft oder tragfähige Verfahrensstandschaft. Die Ermächtigung kann aus einer Verzichtserklärung folgen; ein anfänglicher Berechtigungsmangel kann bis zur Entscheidung behoben werden.
 
-**Grenze:** Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung.
+Grenze: Die Tilgung der Darlehensforderung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Die Voraussetzungen des übrigen Aufgebotsverfahrens bleiben offen; Zurückverweisung ist keine Kraftloserklärung.
 
 ### 16.5. BGH, Beschl. v. 16.02.2012 - Az. V ZB 308/10
 
 [Amtlicher Entscheidungstext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2010/V_ZB_308-10A.pdf?__blob=publicationFile&v=1). Gelesen: Kopf, Tenor und vollständige Rn. 1–21, besonders 8, 10–15 und 19–20.
 
-**Anwendung:** Nach Kraftloserklärung entfaltet der später aufgefundene alte Brief keine Rechtswirkungen mehr. Die Erteilung des neuen Briefs nach § 67 GBO verlangt die Berechtigung; der bloße Erfolg im Aufgebot ersetzt sie nicht.
+Anwendung: Nach Kraftloserklärung entfaltet der später aufgefundene alte Brief keine Rechtswirkungen mehr. Die Erteilung des neuen Briefs nach Paragraf 67 GBO verlangt die Berechtigung; der bloße Erfolg im Aufgebot ersetzt sie nicht.
 
-**Grenze:** Pfändungsfall mit altem Ausschlussurteil; die Ausführungen zum Antragsrecht des Pfändungsgläubigers nicht auf beliebige Grundstückseigentümer übertragen. Gleiches Aktenzeichen am 04.04.2011 bezeichnet nur den früheren Verfahrenskostenhilfebeschluss.
+Grenze: Pfändungsfall mit altem Ausschlussurteil; die Ausführungen zum Antragsrecht des Pfändungsgläubigers nicht auf beliebige Grundstückseigentümer übertragen. Gleiches Aktenzeichen am 04.04.2011 bezeichnet nur den früheren Verfahrenskostenhilfebeschluss.
 
 ### 16.6. Verwendung im konkreten Dokument
 

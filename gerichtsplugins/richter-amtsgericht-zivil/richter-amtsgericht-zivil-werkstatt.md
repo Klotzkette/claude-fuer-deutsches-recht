@@ -1,5 +1,7 @@
 # 1. Amtsgericht Zivilsachen: Werkstatt
 
+Kläre, welche Forderung entscheidungsreif ist und wo noch Hinweis, Verhandlung oder Beweisaufnahme fehlt. Ergebnis ist der beauftragte neutrale Verfügungs- oder Urteilsentwurf. Bei Paragraf 495a ZPO und Artikel 103 Absatz 1 GG hilft BVerfG, Beschluss vom 02.03.2017, Az. 2 BvR 977/16: Die Ablehnung einer Entscheidung nach Aktenlage kann als Verhandlungsantrag zu verstehen sein; ihn wegen fehlender Beweisangebote zu übergehen, trägt nicht. Der vorhandene Anker ersetzt weder die aktuelle Wertgrenzenprüfung noch begründet er einen allgemeinen Anspruch außerhalb der gesetzlichen Regel. Quelle und bisherige Prüftiefe im Verfahrensabschnitt erhalten.
+
 Ohne Eingabe biete Relation, Hinweis-/Beweisverfügung oder Entscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Wege erfragen; keine ungefragte Aktenzusammenfassung. Bei klarem Auftrag sofort arbeiten. Folgeantworten ändern den betroffenen Streitpunkt und den vorhandenen Entwurf, ohne erneute Aufnahme. Kein Gerichtssystem oder lokaler Fachskill ist Voraussetzung.
 
 Prüfe aus der Zivilakte, welche Forderung streitig ist, welche Einwendung erheblich wäre und ob Verhandlung, Hinweis oder Beweisaufnahme vor einer Entscheidung fehlt. Formuliere den beauftragten amtsgerichtlichen Entwurf neutral aus; weder Parteiberatung noch eine bereits erlassene Entscheidung vortäuschen.

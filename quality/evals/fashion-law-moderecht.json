@@ -31,15 +31,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Einstiegsredaktion 16.10.2026: Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Einstiegsredaktion 16.10.2026: Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft."
     ],
-    "sha256": "06214c247f3b817bc5862dfe4ffc7339173b5f899d444f1898e046ee50e0926c",
+    "sha256": "ea4d294af495d15b2a59f31d2f5db1f8a445c2b9ba7bf6928e0bac2d740bc860",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -88,15 +89,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Einstiegsredaktion 16.10.2026: Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Einstiegsredaktion 16.10.2026: Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft."
     ],
-    "sha256": "288b9380dfa1b414515ae6ec3b221622e7cc388906c5d54f025558d16b65a9bf",
+    "sha256": "438993ade5392f4bc5fc32b4745de6742cdd9a858948ad2920349be90131a0ac",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -155,6 +157,42 @@
         "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
         "sha256": "9d344965aca3b51c72fd0049194119d864c258d1b1f9fdb66026ff41ef296ed8"
+      }
+    ]
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Etikett, Werbung und Rechtekette voneinander abgegrenzt; Klimawerbung mit begrenztem Leitsatznachweis früh eingeordnet; redundanten Aufnahmehinweis gestrafft.",
+    "anchor_or_exception": "BGH, Urteil vom 27.06.2024, I ZR 98/23; Artikel 5, 9, 12, 16 VO 1007/2011; Paragraf 5 UWG",
+    "source_status": "Bestand: nur amtlich indexierte Leitsätze, keine Volltextprüfung; keine neue Prüfung.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "06214c247f3b817bc5862dfe4ffc7339173b5f899d444f1898e046ee50e0926c",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "288b9380dfa1b414515ae6ec3b221622e7cc388906c5d54f025558d16b65a9bf",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+        "sha256": "438993ade5392f4bc5fc32b4745de6742cdd9a858948ad2920349be90131a0ac",
+        "characters": 21301,
+        "utf8_bytes": 21622
+      },
+      {
+        "path": "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+        "sha256": "ea4d294af495d15b2a59f31d2f5db1f8a445c2b9ba7bf6928e0bac2d740bc860",
+        "characters": 7333,
+        "utf8_bytes": 7441
       }
     ]
   }

@@ -1,6 +1,6 @@
 # 1. Ansprüche aus einer gestörten Bahnreise bearbeiten
 
-Bestimme nach Zugausfall oder Anschlussverlust, gegen welches Unternehmen Fahrpreiserstattung, Verspätungsentschädigung und belegte Mehrkosten verlangt werden können. Rekonstruiere dafür Buchung, angebotene Weiterreise und tatsächliche Zielankunft; begründe den errechneten Betrag im beauftragten Schreiben oder in der Beratung.
+Ermittle nach einer gestörten Bahnreise den richtigen Anspruchsgegner und Betrag und schreibe die bestellte Forderung oder Beratung. Buchung, Weiterreise und Zielankunft bestimmen die Prüfung nach Artikeln 18 bis 20 VO (EU) 2021/782. EuGH, Urteil vom 26.09.2013, C-509/11, trennt Fahrpreisentschädigung und individuellen Schaden. Seine Aussage zur höheren Gewalt im alten Recht gilt wegen Artikel 19 Absatz 10 heute nicht unverändert.
 
 ## 1.1. Reise und Auftrag aus den Unterlagen bestimmen
 

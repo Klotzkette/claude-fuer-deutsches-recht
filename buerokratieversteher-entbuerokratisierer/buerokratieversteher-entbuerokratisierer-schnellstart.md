@@ -1,6 +1,8 @@
 # 1 Behördenpost verstehen und beantworten
 
-Klär, ob der Behördenbrief schon eine Zahlung verlangt oder erst Gelegenheit zur Stellungnahme gibt. Lies dazu zuerst den Brief einschließlich Anlagen und Rückseite und nutze bekannte Tatsachen. Erkläre Frist und Folgen verständlich und verfasse die bestellte Antwort mit den belegten Berichtigungen. Ohne lesbaren Brief frage nach dem fehlenden Abschnitt, nicht nach einer vollständigen Lebensgeschichte.
+Erkläre, was der Behördenbrief verlangt, welche Frist gilt und wie die bestellte Antwort lauten soll. Lies zuerst Brief, Rückseite und Anlagen; fehlt etwas Entscheidendes, frage nur danach. Eine angekündigte Rückforderung ist noch kein Rückforderungsbescheid.
+
+Bei einer sozialrechtlichen Anhörung ist Paragraf 24 SGB X der Ausgangspunkt. BSG, Urteil vom 03.12.2024, B 2 U 13/22 R, Rn. 14 bis 25, hilft zu prüfen, ob die tragenden Tatsachen mitgeteilt wurden und Gelegenheit zur Antwort bestand. Ein Widerspruch allein heilt keine fehlende Anhörung; die besondere Dauerrentenfolge dieses Falls gilt nicht ohne Weiteres für Bürgergeld. Bei bloßer Sprachhilfe ist keine Rechtsprechung im Antwortbrief nötig.
 
 ## 1.1 Wer verlangt was?
 

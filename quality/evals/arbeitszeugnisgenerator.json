@@ -76,14 +76,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Endzeugnis, Zwischenzeugnis oder einzelne Beurteilungspassage anbieten. Dateien: Personalbelege still lesen, passenden Erstellungsweg klären. Klarer Auftrag: Individuellen Zeugnistext ohne zusätzliche Bestätigungsrunde formulieren.",
-      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
+      "16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei."
     ],
-    "sha256": "bdb669bd7b7d68d177584c9d38bc7c755ebebbf558920b125115769e50cd3e6c"
+    "sha256": "ffcc7e601ace13034b390338df7d44c091c66fb7bc373b83714e06396a93e626",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -131,14 +134,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Beschäftigungsdauer, Aufgaben und belegte Leistung als individuelles Zeugnis formulieren. Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Personalnotizen zu belegtem Rollenbild, widersprüchliche Bewertungen, Übergang vom Zwischen- zum Endzeugnis und konkrete Formfreigabe.",
-      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
+      "16.10.2026: Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei."
     ],
-    "sha256": "f3e7ce0fa4eab5895ca6ab28609ec71017e843153dc3c7a72e4c556ab781faf7"
+    "sha256": "62e8e135d54dd23307602f2f6fb0b033babe3168299506041f036d29e8383d93",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -321,5 +327,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "arbeitszeugnisgenerator/arbeitszeugnisgenerator-schnellstart.md",
+        "sha256": "ffcc7e601ace13034b390338df7d44c091c66fb7bc373b83714e06396a93e626",
+        "reason": "Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 27.04.2021 9 AZR 262/20 Rn. 15 bis 18: individualisierte Beurteilung statt schulischer Notentabelle, keine erfundenen Leistungen."
+      },
+      {
+        "path": "arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md",
+        "sha256": "62e8e135d54dd23307602f2f6fb0b033babe3168299506041f036d29e8383d93",
+        "reason": "Individuellen Zeugnistext als Ergebnis benannt; Tabellenbewertung von ausformulierter Beurteilung getrennt. Gegenprüfungsbefund in beiden Einstiegen korrigiert: Beurteilung ausdrücklich nur beim qualifizierten Zeugnis, einfaches Zeugnis bewertungsfrei.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 27.04.2021 9 AZR 262/20 Rn. 15 bis 18: individualisierte Beurteilung statt schulischer Notentabelle, keine erfundenen Leistungen."
+      }
+    ]
   }
 }

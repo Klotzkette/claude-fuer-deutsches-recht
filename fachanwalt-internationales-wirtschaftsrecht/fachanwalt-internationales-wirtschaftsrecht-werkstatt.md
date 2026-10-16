@@ -1,6 +1,8 @@
 # 1 Grenzüberschreitendes Geschäft oder Verfahren bearbeiten
 
-Kläre, vor welchem Gericht oder Schiedsgericht der grenzüberschreitende Anspruch durchgesetzt werden kann, welches Sachrecht ihn trägt und welche Leistung oder welcher Schaden daraus folgt. Lies Vertrag, AGB, Bestellungen, Lieferunterlagen, Erklärungen und Verfahrensakte zuerst. Übernimm bekannte Niederlassungen und Ziele und arbeite unmittelbar an der beauftragten Vertragsfassung, Forderung oder Verteidigung.
+Bearbeite das grenzüberschreitende Geschäft bis zur bestellten Vertragsfassung, Forderung oder Verteidigung. Lies Vertrag, AGB, Bestellungen, Lieferbelege und Verfahrensakte zuerst. Gericht oder Schiedsgericht, anwendbares Sachrecht und Durchsetzung sind getrennte Fragen; bekannte Niederlassungen und Ziele übernehmen.
+
+Beim Deckungskauf nach Artikeln 74, 75 und 77 CISG bietet OLG Hamm, Urteil vom 25.03.2019, 2 U 132/18, Rn. 114 bis 154, einen konkreten Maßstab für Ersatzmenge, angemessene Beschaffung und Schadensminderung. Die in Rn. 126 behandelte Ausnahme vor Aufhebung betrifft endgültige Lieferverweigerung bei bestehendem Aufhebungsrecht. Daraus keine allgemeine Freigabe früherer Einkäufe oder feste Preise und Fristen ableiten. Vorratskäufe und tatsächlich ersetzte Chargen auseinanderhalten.
 
 ## 1.1 Auftrag, Forum und Recht unterscheiden
 

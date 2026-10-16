@@ -46,15 +46,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut im Desk Review gelesen; drei Planrechtsschutz-Einstiege und konkrete Korrektur eines durch die Abwägung widerlegten Vorwurfs ergänzt. Bisherige Rüge- und Fristgrenzen erhalten.",
+    "reason": "Mini vollständig erneut im Desk Review gelesen; drei Planrechtsschutz-Einstiege und konkrete Korrektur eines durch die Abwägung widerlegten Vorwurfs ergänzt. Bisherige Rüge- und Fristgrenzen erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Gerichtlicher Antrag und konkrete Gemeinderüge bereits im Einstieg getrennt.",
     "changes": [
       "BVerwG 4 CN 7.19 Rn. 25 in beiden Prompts mit Tatsachengehalt und begrenzter Auslegung der Rüge verknüpft.",
       "Paragraf 13b anhand BVerwG 4 CN 3.22 ersetzt, Paragraf 215a nicht als neuer Beschleunigungsweg 2026 dargestellt.",
       "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
       "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
-      "Dateien ohne Aufgabe still lesen, klare Aufträge direkt bearbeiten; Gegenbeleg aus der Abwägung ändert den vorhandenen Rügetext."
+      "Dateien ohne Aufgabe still lesen, klare Aufträge direkt bearbeiten; Gegenbeleg aus der Abwägung ändert den vorhandenen Rügetext.",
+      "Redaktion 16.10.2026: Gerichtlicher Antrag und konkrete Gemeinderüge bereits im Einstieg getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "382c8b4c64c95a0ae2ad26debc0c2289a539fa7e67e5ef07009806bc58a05080"
+    "sha256": "8f7883ef24f23aa1d0ab951879931fa642f698f50ed5a093fd1cc12a7296ff67"
   },
   "selection": {
     "positive": [
@@ -102,16 +103,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Abschnitte erneut individuell gelesen und um Planversionen, Mandantenpositionen, Einwendungsinhalt, Gutachtenannahmen und Vollzugsbelege vertieft. Desk Review ohne Einreichung oder Mandatsausführung.",
+    "reason": "Alle Abschnitte erneut individuell gelesen und um Planversionen, Mandantenpositionen, Einwendungsinhalt, Gutachtenannahmen und Vollzugsbelege vertieft. Desk Review ohne Einreichung oder Mandatsausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Gerichtlicher Antrag und konkrete Gemeinderüge bereits im Einstieg getrennt.",
     "changes": [
       "BVerwG 4 CN 7.19 Rn. 25 in beiden Prompts mit Tatsachengehalt und begrenzter Auslegung der Rüge verknüpft.",
       "Paragraf 13b anhand BVerwG 4 CN 3.22 ersetzt, Paragraf 215a nicht als neuer Beschleunigungsweg 2026 dargestellt.",
       "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
       "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
       "Planstände und ergänzendes Verfahren, Plannachbar gegenüber unmittelbar betroffenem Eigentümer sowie mehrere Antragsteller unterschieden.",
-      "Vorhandene Einwendungen, gegenläufige Abwägungsbelege, abweichende Gutachtenvarianten und konkreter Vollzug in Rüge- und Antragstext überführt."
+      "Vorhandene Einwendungen, gegenläufige Abwägungsbelege, abweichende Gutachtenvarianten und konkreter Vollzug in Rüge- und Antragstext überführt.",
+      "Redaktion 16.10.2026: Gerichtlicher Antrag und konkrete Gemeinderüge bereits im Einstieg getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "a018c6c1e7d31e41e0acbe9e372a9ff16c26e82a4ca5c4d73325fcae2d6c7d20"
+    "sha256": "108acd2d02e97dadf67e8ffd9f05d9a27bfd4aa9acaed4dbedab45bbe421483c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

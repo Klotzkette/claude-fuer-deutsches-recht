@@ -21,25 +21,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kurzprompt erklärt am Beteiligungsfall, weshalb Cap Table, vollständig verwässerte Quote und Gesellschafterliste unterschiedliche Aussagen treffen; II ZR 12/17 trägt die rechtliche Abgrenzung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Kurzprompt erklärt am Beteiligungsfall, weshalb Cap Table, vollständig verwässerte Quote und Gesellschafterliste unterschiedliche Aussagen treffen; II ZR 12/17 trägt die rechtliche Abgrenzung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
       "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
       "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben."
     ],
-    "sha256": "a1d43c9e66e45bffd30730c0c0e64c3c6094d5728c59e3c92d673493ff38b889"
+    "sha256": "addb88f3b1d22d32d100319aff1329a0c44e89994d916de9a1406c0aada25e15"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt wurde aus langen schematischen Wiederholungen in zwölf eigenständige Arbeitsrouten überführt, mit konkreten englischen Empfängerformulierungen, Klauselauslegung und deutschen Formgrenzen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt wurde aus langen schematischen Wiederholungen in zwölf eigenständige Arbeitsrouten überführt, mit konkreten englischen Empfängerformulierungen, Klauselauslegung und deutschen Formgrenzen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
       "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
       "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
-      "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss."
+      "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss.",
+      "Einstiegsredaktion 16.10.2026: Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "9cdcfc6c913794e5b03e03dfcef4bccd9ff9ff53da895af271b5ea261babc1fd"
+    "sha256": "f8006309af2d54c72a58045cda7e4d9c1de722015cb350e10f2d9323a0184797"
   },
   "selection": {
     "positive": [
@@ -127,5 +130,42 @@
     "continuation": "Neue Definition -> konsistente Klauselbegriffe; anderer Beteiligungsnenner -> Beteiligungserläuterung; Sprachvorrang -> Schlussklausel ändern.",
     "enrichment": "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Übersetzung, Investoren-Erklärung und Sprachübung als Ergebnisse präzisiert; bewusst kein obligatorischer Urteilsvorspann für Sprachaufgaben. Werkstatt auf einen Dokumenttitel und nachgeordnete dezimale H2/H3-Gliederung korrigiert.",
+    "anchor_or_exception": "Ausnahme: sprachliches Werkzeug; Originalklausel, Definitionen, Rechtswahl und Paragrafen 15, 16, 40 GmbHG; bestehender BGH-Anker nur bei Listenfrage",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "exception": "Rechtsprechung nicht für reine Übersetzung oder Sprachübung erzwungen.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "a1d43c9e66e45bffd30730c0c0e64c3c6094d5728c59e3c92d673493ff38b889",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "9cdcfc6c913794e5b03e03dfcef4bccd9ff9ff53da895af271b5ea261babc1fd",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-schnellstart.md",
+        "sha256": "addb88f3b1d22d32d100319aff1329a0c44e89994d916de9a1406c0aada25e15",
+        "characters": 6380,
+        "utf8_bytes": 6461
+      },
+      {
+        "path": "gesellschaftsrecht-legal-english/gesellschaftsrecht-legal-english-werkstatt.md",
+        "sha256": "f8006309af2d54c72a58045cda7e4d9c1de722015cb350e10f2d9323a0184797",
+        "characters": 18437,
+        "utf8_bytes": 18787
+      }
+    ]
   }
 }

@@ -446,18 +446,45 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Kurzauftrag mit Bauvergaberecht 2026, Entscheidungen, technischem Rollenbezug und konkretem Dokumentenergebnis.",
+    "reason": "Eigenständiger Kurzauftrag mit Bauvergaberecht 2026, Entscheidungen, technischem Rollenbezug und konkretem Dokumentenergebnis. Redaktionelle Anschlussprüfung 16.10.2026: Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Schnellstart in vollständigen Sätzen unter 7500 Zeichen und UTF-8-Bytes redigiert; MD und TXT bytegleich."
+      "Schnellstart in vollständigen Sätzen unter 7500 Zeichen und UTF-8-Bytes redigiert; MD und TXT bytegleich.",
+      "16.10.2026: Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen."
     ],
-    "sha256": "afa1adac5b007be9cab8932af0f9533ffaf69ba2355bf99cb060c4521cf6e55b"
+    "sha256": "e01448ba2d967b4cb43700ccdef2396873852f13cf01e57d2b3addad6c3de2a2",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständige substanzielle Bauwerkstatt mit zehn fachlichen Kapiteln und spezifischen Entscheidungswegen.",
+    "reason": "Eigenständige substanzielle Bauwerkstatt mit zehn fachlichen Kapiteln und spezifischen Entscheidungswegen. Redaktionelle Anschlussprüfung 16.10.2026: Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Unterlagen beziehungsweise Verfahren vollständig neu auf Bauvergaben entwickelt; Losgrundsatz und VOB/A-Änderungen 2026 amtlich geprüft."
+      "Unterlagen beziehungsweise Verfahren vollständig neu auf Bauvergaben entwickelt; Losgrundsatz und VOB/A-Änderungen 2026 amtlich geprüft.",
+      "16.10.2026: Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen."
     ],
-    "sha256": "9e9af3d7ac4c7719f0eee77bfc1199bd82a52bcd61058b7b80b1c063b7b4f098"
+    "sha256": "050461bff70ee92f0812d3888a5f88d6b78f869a0325c028464970d1230e9fa6",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen.",
+    "source_status": "Vorhandene amtliche Indexpassagen, kein neuer vollständiger Entscheidungsabruf.",
+    "files": [
+      {
+        "path": "bauvergabe/bauvergabe-verfahren/bauvergabe-verfahren-schnellstart.md",
+        "sha256": "e01448ba2d967b4cb43700ccdef2396873852f13cf01e57d2b3addad6c3de2a2",
+        "reason": "Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen.",
+        "anchor_or_exception": "Paragraf 16a EU VOB/A; EuGH 29.03.2012 C-599/10 SAG ELV: Aufklärung darf kein neues Angebot ermöglichen, ersetzt nicht heutige Nachforderungsregeln."
+      },
+      {
+        "path": "bauvergabe/bauvergabe-verfahren/bauvergabe-verfahren-werkstatt.md",
+        "sha256": "050461bff70ee92f0812d3888a5f88d6b78f869a0325c028464970d1230e9fa6",
+        "reason": "Verfahrensentscheidung und beauftragtes Dokument zuerst; vorhandenen Quellenabsatz statt zusätzlicher Mini-Dopplung vorgezogen.",
+        "anchor_or_exception": "Paragraf 16a EU VOB/A; EuGH 29.03.2012 C-599/10 SAG ELV: Aufklärung darf kein neues Angebot ermöglichen, ersetzt nicht heutige Nachforderungsregeln."
+      }
+    ]
   }
 }

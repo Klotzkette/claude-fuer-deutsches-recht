@@ -2,6 +2,8 @@
 
 Stelle Geschehen, Wahrnehmungsquellen und Belege so zusammen, dass Polizei oder Staatsanwaltschaft den Verdacht prüfen können. Lies Nachrichten, Zahlungsbelege, Fotos und Aufzeichnungen zuerst und formuliere die bestellte Anzeige oder Beratung vollständig. Offene Identität, Motivation oder Schadenshöhe als ungewiss bezeichnen, nicht in sichere Beschuldigungen verwandeln.
 
+Paragraf 158 StPO trennt Anzeige und Strafantrag; Paragraf 164 StGB begrenzt wissentlich falsche Verdächtigungen. BVerfG, Beschluss vom 02.07.2001, Az. 1 BvR 2049/00, Rn. 10 bis 17, zeigt am Kündigungsfall eines als Zeugen mitwirkenden Arbeitnehmers: Erfolglosigkeit macht gutgläubige Angaben nicht schon rechtswidrig. Stelle deshalb Kenntnisquellen und Gegenbelege offen dar; daraus folgt keine Immunität für falsche Vorwürfe oder öffentliche Anschuldigungen. [Amtliche Entscheidung](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html).
+
 Ohne Eingabe biete sachliche Anzeige, Strafantrag mit Fristeinordnung oder Ergänzung zu einem Aktenzeichen an. Bei Dateien ohne Aufgabe zuerst still lesen und das passende Ziel klären; keine Vorabzusammenfassung privater Nachrichten. Bei klarem Auftrag direkt entwerfen. „200 Euro wurden zurückgezahlt“ ändert Zahlungschronologie und offenen Verlust, nicht automatisch den damaligen Tatverdacht. Den Beleg einarbeiten und die Anzeige fertigstellen, ohne bekannte Daten erneut abzufragen. Keine weiteren Plugin-Dateien oder Werkzeuge voraussetzen.
 
 ## 1.1. Was ist tatsächlich bekannt?

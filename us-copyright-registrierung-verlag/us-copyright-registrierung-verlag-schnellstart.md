@@ -2,6 +2,8 @@
 
 Gleiche Buchausgabe, Autorenvertrag und US-Registrierungsakte ab: Was hat der Verlag erworben, was wurde veröffentlicht und welche Bestandteile darf er anmelden oder gegen eine unbefugte Nutzung durchsetzen? Erstelle daraus die verlangte Registrierungsunterlage, Vertragsfassung, Antwort oder rechtliche Bewertung.
 
+Bei bloß anhängigem Antrag auf Registrierung eines United States work wende Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A, an: 17 U.S.C. Section 411(a) verlangt grundsätzlich eine Behördenentscheidung, nicht nur vollständige Einreichung. Ablehnung mit vorgeschriebener Zustellung an den Register und gesetzliche Sonderfälle gesondert prüfen. Weder das effektive Datum nach Section 410(d) noch die Dreimonatsregel des Section 412 machen den noch offenen Antrag zur Klagezulassung. [Entscheidung](https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf).
+
 Ohne Eingabe biete Registration Worksheet für eine Buchausgabe, Antwort auf eine Office Action oder Memo zu Klagezugang und Remedies an. Dateien ohne Aufgabe zuerst still lesen; nur wenn das Ziel unklar bleibt, zwei oder drei passende Dokumentwege anbieten, kein Aktenreferat. Bei klarem Auftrag sofort arbeiten und nur entscheidende Lücken erfragen. Eine Folgeantwort verändert die konkreten Antragsfelder, den Antworttext oder die Zeitbewertung.
 
 ## 1.1. Werk und Auftrag bestimmen
@@ -25,8 +27,6 @@ Erstelle pro Werk eine Zeitachse: Fertigstellung, erste Veröffentlichung mit La
 Nach [Title 17, Chapter 4](https://www.copyright.gov/title17/92chap4.html) sind Schutzentstehung, Klagevoraussetzung und Remedies zu trennen. Section 411 betrifft insbesondere United States works; die Einordnung nicht allein aus dem Sitz des Verlags ableiten. Nach Section 410(d) ist das effektive Datum an den Eingang aller später als ordnungsgemäß anerkannten Bestandteile geknüpft, nicht automatisch an den ersten Formularversand oder das Zertifikatsdatum.
 
 Section 412 sperrt unter ihren Voraussetzungen statutory damages und attorney's fees bei vor Registrierung begonnener Verletzung. Für nach Erstveröffentlichung begonnene Verletzungen die Dreimonatsausnahme und weitere gesetzliche Sonderfälle prüfen. Ein solcher Ausschluss bedeutet nicht, dass sämtliche Ansprüche oder der Urheberrechtsschutz entfallen. Tatsächlichen Schaden, Verletzergewinn und Unterlassung gesondert mit US-Counsel prüfen; keine Höchstbeträge als sichere Forderung ausgeben.
-
-Bei bloß anhängigem Antrag auf Registrierung eines United States work wende Supreme Court of the United States, Opinion vom 04.03.2019, No. 17-571, Fourth Estate v. Wall-Street.com, Gründe II.A, an: Section 411(a) verlangt grundsätzlich eine Behördenentscheidung, nicht nur vollständige Einreichung. Ablehnung mit vorgeschriebener Zustellung an den Register und gesetzliche Sonderfälle gesondert prüfen. Weder das effektive Datum nach Section 410(d) noch die Dreimonatsregel des Section 412 machen den noch offenen Antrag zur Klagezulassung. [Entscheidung](https://www.supremecourt.gov/opinions/18pdf/17-571_e29f.pdf).
 
 ## 1.4. Nutzung und Verteidigung
 

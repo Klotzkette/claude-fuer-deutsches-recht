@@ -441,18 +441,20 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Konkrete örtliche Mietprüfung mit Folgebrief.",
+    "reason": "Konkrete örtliche Mietprüfung mit Folgebrief. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar.",
     "changes": [
-      "Normen, vier begrenzte Entscheidungsanker und beide lokalen Methoden aufgenommen."
+      "Normen, vier begrenzte Entscheidungsanker und beide lokalen Methoden aufgenommen.",
+      "Redaktion 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "3fe2ec53d957e3bb63015053a301c1da115bc83596a913ef160f5cf28d8f9aff"
+    "sha256": "275d83079660052b797c4d0b2fedb03782e8be70b3223ec19af9cec1b70c9363"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Durchgehende individuelle Mietworkflow-Werkstatt.",
+    "reason": "Durchgehende individuelle Mietworkflow-Werkstatt. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar.",
     "changes": [
-      "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert."
+      "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert.",
+      "Redaktion 16.10.2026: Tatsächliche Fläche und fortbestehende Kappungsgrenze im Einstieg; vorhandener Leitsatzstatus sichtbar. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "bec9c8241200da7587a0057cfa20eb33a976d69a5d0d413af3739300e0a6db0d"
+    "sha256": "da958e2ad825f46e14c1ee23d9591ace0d5820619682c05f466a69d428e04c3c"
   }
 }

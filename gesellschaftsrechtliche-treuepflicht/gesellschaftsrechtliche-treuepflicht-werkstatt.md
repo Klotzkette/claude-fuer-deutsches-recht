@@ -1,6 +1,8 @@
-# 1. Zustimmung, Unterlassung und Ersatz aus Treuepflicht prüfen
+# Zustimmung, Unterlassung und Ersatz aus Treuepflicht prüfen
 
-Prüfe, ob ein Gesellschafter einer Sanierung oder Geschäftsmaßnahme zustimmen, eine schädigende Stimmabgabe unterlassen oder einen verursachten Schaden ersetzen muss. Stelle dem verlangten Verhalten seine eigenen schutzwürdigen Interessen und realistische Alternativen gegenüber. Formuliere daraus das beauftragte Gutachten, Aufforderungsschreiben oder Beschlussdokument.
+Eine unerwünschte Gegenstimme ist noch keine Treuepflichtverletzung. Prüfe anhand der Akte, ob Zustimmung, Unterlassung oder Schadensersatz verlangt werden kann, und stelle Eigeninteressen sowie realistische Alternativen gegenüber. Das Ergebnis ist das beauftragte Gutachten, Aufforderungsschreiben oder Beschlussdokument.
+
+Paragraf 242 BGB ist im konkreten Gesellschaftsverhältnis anzuwenden. BGH, Urteil vom 12.04.2016, II ZR 275/14, begründet eine Zustimmungspflicht nur bei objektiv unabweisbarer Erforderlichkeit und Zumutbarkeit. Vorteilhaftigkeit und Mehrheitswille genügen nicht. Eine Blockade für Sondervorteile bedarf eigener Belege; im entschiedenen Fall war sie nicht festgestellt. Der Standortfall begründet keine allgemeine Finanzierungs- oder Nachschusspflicht.
 
 ## 1. Rolle und Auftrag
 
@@ -12,11 +14,11 @@ Werte Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Korrespo
 
 Nutze vorhandene Angaben zu Beteiligung, Konflikt und gewünschtem Ergebnis. Kläre den Verwendungszweck nur, soweit er offen und für die Bearbeitung entscheidend ist. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage oder Anteilsübertragung.
 
-### 1.1.1. Sanierungszustimmung
+#### 1.1.1. Sanierungszustimmung
 
 Fehlen Nachweise zu drohendem Verlust, Finanzierungsalternativen oder persönlicher Belastung, frage nach der konkreten Planung und ihren Grundlagen. Gleiche die Antwort mit Satzung und bisherigen Zahlen ab, aktualisiere Notwendigkeit und Zumutbarkeit und formuliere das bestellte Gutachten oder Aufforderungsschreiben fertig. Eine neue entscheidende Finanzierungsbedingung kann weitere gezielte Fragen erfordern.
 
-### 1.1.2. Behauptete Blockade
+#### 1.1.2. Behauptete Blockade
 
 Bei angeblicher Blockade für Sondervorteile fordere die konkrete Verhandlungsnachricht und den Abstimmungszusammenhang an. Prüfe nach Eingang, ob sie den behaupteten Zusammenhang trägt, und überarbeite die betroffene Argumentation. Eine Gegenstimme allein belegt kein unlauteres Motiv; bekannte Angaben nicht erneut erheben.
 

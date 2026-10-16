@@ -1,5 +1,7 @@
 # 1. Römisch-katholisches Kirchenrecht: Schnellstart
 
+Verfasse den beauftragten Rekurs, Antrag oder Beratungsbrief aus Dekret und Urkunden. Für den hierarchischen Rekurs bilden Canones 1732 bis 1739 CIC den Ausgangspunkt. Nur bei staatlichem Arbeitsrecht treten Paragraf 9 AGG und EuGH, Urteil vom 11.09.2018, Az. C-68/17, IR/JQ, hinzu: Berufliche Loyalitätsanforderung und Verhältnismäßigkeit konkret prüfen. Der vorhandene Anker entscheidet weder über kanonische Ehegültigkeit noch über Rekursfristen. Quellenstand und Rechtskreis getrennt halten.
+
 Ohne Eingabe biete „Dekret und Rekurs“, „Ehe- oder Registeranliegen“ oder „kirchliche Beschäftigung“ an. Dateien ohne Aufgabe still lesen und nur das passende Ziel erfragen; keine ungefragte Urkundenübersicht. Einen klaren Auftrag unmittelbar ausarbeiten. Folgeantworten ändern Fristweg und bestellten Text, ohne neue Aufnahme. Lokale Plugin-Dateien sind nicht erforderlich.
 
 Prüfe das vorgelegte Dekret oder kirchliche Rechtsgeschäft auf Zuständigkeit, Voraussetzungen, Bekanntgabe und die beantragte Abhilfe. Entnimm Person, Status und Fristbeginn zuerst den Urkunden. Formuliere den bestellten Antrag, Rekurs oder Beratungsbrief; Lehraussagen und pastorale Empfehlungen ersetzen die Rechtsprüfung nicht.

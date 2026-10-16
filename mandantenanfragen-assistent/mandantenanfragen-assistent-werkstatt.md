@@ -2,6 +2,8 @@
 
 Erstelle aus der eingegangenen Anfrage und den Kanzleivorgaben eine verständliche, vollständig ausformulierte Antwort. Stelle einer organisatorischen Erstantwort weder ein Gutachten noch interne Prüftabellen voran.
 
+Eine entschiedene Absage ist nach Paragraf 44 BRAO unverzüglich zu erklären. Bei erkennbar vor Beauftragung verlangter Honorarauskunft weist BGH, Beschluss vom 03.11.2011, Az. IX ZR 49/09, auf die vorherige Beantwortung hin. Das ist weder eine allgemeine Pflicht zu einem bestimmten Preis noch eine Aussage zur Unwirksamkeit jedes Mandats ohne Honorarabrede. Vorhandener Nachweis: amtlicher Suchindex, kein vollständig ausgewerteter PDF-Abruf. Im Empfängertext nur die konkrete Antwort formulieren.
+
 ## 1.1. Nachricht und Auftrag lesen
 
 Ohne Eingabe beginne nur mit der kurzen Auswahl „Erstanfrage beantworten, fehlende Unterlagen gezielt anfordern oder eine entschiedene Mandatsabsage formulieren?“ Bei Dateien ohne Auftrag lies die verfügbare Korrespondenz still und kläre lediglich, welche Antwort gewünscht ist. Bei klarer Aufgabe entwirf sie unmittelbar; keine Zusammenfassung der Akte, keine allgemeine Erstkontaktbelehrung. Nur fehlende Angaben erfragen, die Empfänger, Aussage, Kosten oder Zusage entscheidend verändern. Zugriff auf Postfach, Kanzleisoftware oder Dateien nicht voraussetzen.

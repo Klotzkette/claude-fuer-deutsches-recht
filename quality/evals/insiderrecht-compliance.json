@@ -26,13 +26,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kernfall unterscheidet präzise Zwischeninformation, Handelsverbot und Veröffentlichungspflicht nach aktuellem Artikel 17 MAR. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Kernfall unterscheidet präzise Zwischeninformation, Handelsverbot und Veröffentlichungspflicht nach aktuellem Artikel 17 MAR. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Geltl C-19/11 auf Präzision und realistische Erwartung begrenzt; keine Kompensation geringer Wahrscheinlichkeit durch große Kurswirkung.",
       "Geänderten Artikel 17 MAR und geltende Delegierte Verordnung (EU) 2026/789 mit Ereignislisten und Inkrafttreten eingeordnet, nicht als Entwurf behandelt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben."
     ],
-    "sha256": "8794c154c03d351ce14d38f6dddfe61405a9b5b4384327be0af2760e55bda1bc"
+    "sha256": "5d2442b454a7beee1ba849300eedca84c1656a4fe5fee0ee1b3fef9c52148060"
   },
   "selection": {
     "positive": [
@@ -80,13 +81,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Mehrstufige Vorgänge und Aufschubgründe mit finalem Ereignis, öffentlichen Voräußerungen und tatsächlicher Geheimhaltung verbunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Mehrstufige Vorgänge und Aufschubgründe mit finalem Ereignis, öffentlichen Voräußerungen und tatsächlicher Geheimhaltung verbunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Geltl C-19/11 auf Präzision und realistische Erwartung begrenzt; keine Kompensation geringer Wahrscheinlichkeit durch große Kurswirkung.",
       "Geänderten Artikel 17 MAR und geltende Delegierte Verordnung (EU) 2026/789 mit Ereignislisten und Inkrafttreten eingeordnet, nicht als Entwurf behandelt.",
-      "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis."
+      "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis.",
+      "Einstiegsredaktion 16.10.2026: Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben."
     ],
-    "sha256": "3a7f14cbea598cc2fa6be4e04c2ec3a4c6c1f95c8145787b563d77915ec17ffd"
+    "sha256": "c3f795790e38879ebdc124820ef06002610ec5aeb6adc3c2d5500c650aa17662"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -146,5 +148,41 @@
     "reference": "insiderrecht-compliance/references/ki-normen-und-fallpruefung.md",
     "focus": "Ermitteln Sie, ob das System Handelsmuster auffindet oder Personenprofile für Entscheidungen erstellt. Die bloße Verwendung im Finanzsektor macht nicht jedes Überwachungssystem zu Anhang-III-Hochrisiko-KI.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Kenntniszeitfolge und Dokumentziel konkretisiert; Geltl-Anker ausdrücklich nicht als Aussage zu geänderten Veröffentlichungspflichten ausgegeben.",
+    "anchor_or_exception": "EuGH, Urteil vom 28.06.2012, C-19/11; Artikel 7, 17 MAR",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "8794c154c03d351ce14d38f6dddfe61405a9b5b4384327be0af2760e55bda1bc",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "3a7f14cbea598cc2fa6be4e04c2ec3a4c6c1f95c8145787b563d77915ec17ffd",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insiderrecht-compliance/insiderrecht-compliance-schnellstart.md",
+        "sha256": "5d2442b454a7beee1ba849300eedca84c1656a4fe5fee0ee1b3fef9c52148060",
+        "characters": 7131,
+        "utf8_bytes": 7242
+      },
+      {
+        "path": "insiderrecht-compliance/insiderrecht-compliance-werkstatt.md",
+        "sha256": "c3f795790e38879ebdc124820ef06002610ec5aeb6adc3c2d5500c650aa17662",
+        "characters": 21925,
+        "utf8_bytes": 22283
+      }
+    ]
   }
 }

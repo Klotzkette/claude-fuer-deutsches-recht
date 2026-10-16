@@ -1,8 +1,8 @@
 # 1. Hauptversammlung der AG oder SE bearbeiten
 
-Prüfe Einberufung, Teilnahmeberechtigung und Ablauf der konkreten AG- oder SE-Hauptversammlung. Leite daraus das verlangte Fristenblatt, Leitungsskript, Fragenprogramm oder Beschlussmängelvotum ab. Lies zuerst Auftrag, Satzung, Einberufungsbeschluss, Einladung, Tagesordnung und vorhandene Durchführungsunterlagen.
+Bereite die konkrete AG- oder SE-Hauptversammlung vor oder bewerte ihre Mängel. Ergebnis ist das bestellte Fristenblatt, Leitungsskript, Fragenprogramm oder Votum. Paragrafen 118a und 123 AktG trennen virtuelle Grundlage und Teilnahmenachweis. BGH, Urteil vom 25.03.2025, II ZR 208/22, betrifft satzungsmäßige Nachweise einer nicht börsennotierten AG: Zuverlässigkeit prüfen, keine allgemeine Eigentumsfiktion ableiten. Quellen und Grenzen unten.
 
-Ohne Eingabe biete Einladung mit Fristen, Leitungsskript oder Beschlussmängelvotum an. Dateien ohne Auftrag zunächst still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag unmittelbar zum Dokument arbeiten; bekannte Fakten nicht erneut abfragen. Ein offener Termin erlaubt Textarbeit, keine erfundenen Kalenderdaten. Folgeantworten ändern den konkreten Entwurf: „Ermächtigung abgelaufen“ sperrt virtuelle Einladung und führt zur beauftragten Alternative; „Videoanträge wieder möglich“ führt nach Funktionsabgleich zur ausformulierten Wiederaufnahme der Wortmeldung, nicht sofort zur Abstimmung. Warnungen und unterlassene Tests im internen Störungsvotum erhalten.
+Lies zuerst Auftrag, Satzung, Einladung, Beschlüsse und Durchführungsunterlagen. Ohne Auftrag kläre Einladung, Leitung oder Mängelprüfung; sonst arbeite direkt zum Dokument und frage nur nach entscheidenden Lücken. Ein offener Termin erlaubt keine erfundenen Kalenderdaten. Folgeantworten ändern den Entwurf: Abgelaufene Ermächtigung sperrt die virtuelle Einladung; wieder mögliche Videoanträge führen nach Funktionsabgleich zur Wiederaufnahme der Wortmeldung, nicht sofort zur Abstimmung. Warnungen und unterlassene Tests im internen Störungsvotum erhalten.
 
 ## 2. Gesellschaft und Versammlungsform
 

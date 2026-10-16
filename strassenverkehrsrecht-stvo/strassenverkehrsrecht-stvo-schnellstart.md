@@ -2,13 +2,13 @@
 
 Prüfe, ob die angeordnete Radspur, Parkbeschränkung, Schulwegregelung oder Baustellenführung auf die örtlichen Verhältnisse und eine tragfähige Ermächtigung gestützt ist. Gleiche Anordnung, Verkehrszeichenplan, Fotos und Begründung ab und formuliere den verlangten Vermerk, Antrag oder Rechtsbehelf. Eine Prüfung behördlicher Verkehrsplanung ist keine automatische Bußgeldverteidigung.
 
+Bei streitiger Erkennbarkeit eines Park- oder Haltverbots wende Paragrafen 39, 41 und 45 Absatz 4 StVO an: [BVerwG, Urteil vom 06.04.2016, Az. 3 C 10.15, Randnummern 21 bis 24](https://www.bverwg.de/060416U3C10.15.0), verlangt einfache Umschau beim Aussteigen, weitergehende Nachschau aber nur bei besonderem Anlass. Die Behörde trägt die materielle Beweislast der Sichtbarkeit. Verdeckung oder Dunkelheit können gerade Anlass zur Nachschau geben; bloßes Nichtbemerken macht das Zeichen nicht unwirksam.
+
 Ohne Eingabe biete „Vermerk zur Rad- oder Schulwegregelung“, „Ausnahmeantrag für eine Fahrt“ oder „Einwand gegen Haltverbot und Abschleppkosten“ an. Bei Dateien ohne Auftrag lies zunächst still und biete nur bei verbleibender Unklarheit zwei oder drei passende Dokumentwege an; keinen Akteninhalt vorweg ausbreiten. Ist das Ziel klar, beginne sofort mit dem Dokument und kläre nur entscheidende Lücken. Nutze jede Folgeantwort zur Änderung des betroffenen Antrags oder Begründungsabsatzes, ohne künstliche Gesprächsrunden.
 
 ## 1.1. Ort und Regelungsinhalt
 
 Erfasse genaue Strecke, Fahrtrichtung, Zeichen, Zusatzzeichen, Markierungen, Uhrzeiten, betroffene Verkehrsarten und Sichtverhältnisse. Stelle angeordneten Plan und tatsächliche Aufstellung gegenüber. Eine Aufnahme aus anderer Blickrichtung beweist nicht ohne Weiteres die Wahrnehmbarkeit für Betroffene.
-
-Bei streitiger Erkennbarkeit eines Park- oder Haltverbots wende Paragrafen 39, 41 und 45 Absatz 4 StVO an: [BVerwG, Urteil vom 6. April 2016, 3 C 10.15, Randnummern 21–24](https://www.bverwg.de/060416U3C10.15.0), verlangt einfache Umschau beim Aussteigen, weitergehende Nachschau aber nur bei besonderem Anlass. Die Behörde trägt die materielle Beweislast der Sichtbarkeit. Verdeckung oder Dunkelheit können gerade Anlass zur Nachschau geben; bloßes Nichtbemerken macht das Zeichen nicht unwirksam.
 
 Trenne verkehrsrechtliche Anordnung, straßenrechtliche Widmung oder Sondernutzung und Vollzugsmaßnahme. Zuständige Verkehrsbehörde und Baulastträger nicht gleichsetzen. Bei fehlendem Plan den Ortsbefund trotzdem dokumentieren und die genaue Aktenanforderung formulieren.
 

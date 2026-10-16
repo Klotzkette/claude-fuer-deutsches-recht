@@ -41,22 +41,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Drei projektbezogene Einstiege, stille Dokumentaufnahme und konkrete Fortschreibung der Ratsvorlage ergänzt; Kontrollmaßstab und aktuelle Absatzfolge 7/8 erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Drei projektbezogene Einstiege, stille Dokumentaufnahme und konkrete Fortschreibung der Ratsvorlage ergänzt; Kontrollmaßstab und aktuelle Absatzfolge 7/8 erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Öffentliches Eigentum früh von tatsächlicher Inhouse-Kontrolle unterschieden.",
     "changes": [
       "Carbotermo an autonome Geschäftsleitung und Holdingstruktur gebunden, heutiges GWB ausdrücklich getrennt.",
       "Zwölf bestehende Sachgebiete erhalten, leere Tabellen und affirmative Stopplisten durch konkrete Prüfungen ersetzt.",
       "Grunduntersagung, erweiterte Untersagung, Insolvenzschutz und Vollstreckung unterschieden.",
       "Vollständige Empfängerschreiben und Fortsetzung nach gezielten Nachweisen statt bloßem Entwurfsvorbehalt.",
       "Leere Eingabe auf Direktauftrag, Bau- und Betriebsvertrag oder Finanzierung begrenzt; Dateien ohne Auftrag lösen nur Zielklärung aus.",
-      "Neue Umsatzzuordnung verändert im bestehenden ratsvorlage.md Rechnung und Beschlussempfehlung; Textausgabe bei fehlendem Schreibzugriff."
+      "Neue Umsatzzuordnung verändert im bestehenden ratsvorlage.md Rechnung und Beschlussempfehlung; Textausgabe bei fehlendem Schreibzugriff.",
+      "Redaktion 16.10.2026: Öffentliches Eigentum früh von tatsächlicher Inhouse-Kontrolle unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "5417d5aa2cc86591e2d63d8d561a737a27dc79fe8bcda37b111dd7f37a3f517b",
+    "sha256": "6299cd719863513993748055898623f163eb1902738a7919f15f12713e1ba3b9",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Projektleistung und Entgelt, widersprüchliche Kontrollunterlagen, Förderverwendung und Sanierungsnachweise mit konkreten Dokumentfolgen vertieft; frühere Rechtskorrekturen erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Projektleistung und Entgelt, widersprüchliche Kontrollunterlagen, Förderverwendung und Sanierungsnachweise mit konkreten Dokumentfolgen vertieft; frühere Rechtskorrekturen erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Öffentliches Eigentum früh von tatsächlicher Inhouse-Kontrolle unterschieden.",
     "changes": [
       "Carbotermo an autonome Geschäftsleitung und Holdingstruktur gebunden, heutiges GWB ausdrücklich getrennt.",
       "Zwölf bestehende Sachgebiete erhalten, leere Tabellen und affirmative Stopplisten durch konkrete Prüfungen ersetzt.",
@@ -64,9 +65,10 @@
       "Vollständige Empfängerschreiben und Fortsetzung nach gezielten Nachweisen statt bloßem Entwurfsvorbehalt.",
       "Verfügbarkeit, Investitionsersatz und Entgeltmechanik an tatsächlicher Risikoübernahme ausgerichtet.",
       "Kontrollkonflikte und ungeeigneten Nennerwechsel, Förderbelege und Sanierungsgegenbelege als eigene Arbeitszweige ergänzt.",
-      "Konkrete Zielpfade, Abschlusspunkte und externe Freigabe von interner Ausarbeitung getrennt."
+      "Konkrete Zielpfade, Abschlusspunkte und externe Freigabe von interner Ausarbeitung getrennt.",
+      "Redaktion 16.10.2026: Öffentliches Eigentum früh von tatsächlicher Inhouse-Kontrolle unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "02447ea81585364963cd919ba83893d475df25ae59c3ddfe4a06e8e3106a2191",
+    "sha256": "7fc7141ecc136cfa3772f27c89fdaabad594530dc0c8c4226a28b433f4df8619",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

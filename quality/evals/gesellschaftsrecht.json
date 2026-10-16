@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Listenstand und negative Entlastungsfassung werden nicht mehr nur als Schlagworte behandelt: II ZR 12/17 begründet die separate Prüfung von Legitimation und Stimmverbot. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Listenstand und negative Entlastungsfassung werden nicht mehr nur als Schlagworte behandelt: II ZR 12/17 begründet die separate Prüfung von Legitimation und Stimmverbot. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
-      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt."
     ],
-    "sha256": "a47b1f2b9f51edf1e529f81a2820b4d07b6a63f9d7a67f9496c0a62f6cd3ee2a"
+    "sha256": "8444f6e53ebf0f3c9da7e8e7e538c52d6d1145a71d2e4113d5293c1986914e28"
   },
   "selection": {
     "positive": [
@@ -81,14 +82,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt berechnet Beschlüsse gegenstandsbezogen, behandelt die Grenzen einer Rüge der Versammlungsleitung und ersetzt doppelte Normlisten durch konkrete Kapital- und Haftungsfolgen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt berechnet Beschlüsse gegenstandsbezogen, behandelt die Grenzen einer Rüge der Versammlungsleitung und ersetzt doppelte Normlisten durch konkrete Kapital- und Haftungsfolgen. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
-      "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt."
+      "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt."
     ],
-    "sha256": "deb5156fc1542a27c10076e82606afa5b7e768e780ff9d6fc67f74eb85fd9e31"
+    "sha256": "ef21bd3051d7a5ef469f3693331fba91f3e630e2f46ad4177ed2fe2035a47fa5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -170,5 +172,41 @@
       "gesellschaftsrecht/skills/gesellschafterliste-registerstreit-legitimationswirkung/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt.",
+    "anchor_or_exception": "BGH, Urteil vom 20.11.2018, II ZR 12/17; Paragrafen 16, 47 Absatz 4 GmbHG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "a47b1f2b9f51edf1e529f81a2820b4d07b6a63f9d7a67f9496c0a62f6cd3ee2a",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "deb5156fc1542a27c10076e82606afa5b7e768e780ff9d6fc67f74eb85fd9e31",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+        "sha256": "ef21bd3051d7a5ef469f3693331fba91f3e630e2f46ad4177ed2fe2035a47fa5",
+        "characters": 20896,
+        "utf8_bytes": 21186
+      },
+      {
+        "path": "gesellschaftsrecht/gesellschaftsrecht-schnellstart.md",
+        "sha256": "8444f6e53ebf0f3c9da7e8e7e538c52d6d1145a71d2e4113d5293c1986914e28",
+        "characters": 7344,
+        "utf8_bytes": 7442
+      }
+    ]
   }
 }

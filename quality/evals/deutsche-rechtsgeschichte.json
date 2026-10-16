@@ -1,4 +1,33 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall.",
+    "norms_or_source_basis": "Konkrete historische Normfassung, Edition und archivalischer Textzeuge",
+    "selected_anchor_identifiers": [],
+    "application_limit": "Historische Quellen bleiben auftragsabhängig; keine neue Quellenautopsie behauptet.",
+    "anchor_exception": "Kein allgemeiner heutiger Rechtsprechungsanker für historische Quellenarbeit; vorhandener Spezialanker zu staatlichem Unrecht bleibt erhalten.",
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-schnellstart.md",
+      "status": "changed",
+      "sha256": "83f691e8085157351957597f06c37c98bb98e78f40c95fb7023408238fb1a051",
+      "characters": 6132,
+      "utf8_bytes": 6222,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/deutsche-rechtsgeschichte/deutsche-rechtsgeschichte-werkstatt.md",
+      "status": "changed",
+      "sha256": "46f6592cfb21c0c376289c534e2e35c02bb4c1c314a8a5e8a58b97e3162c1953",
+      "characters": 16276,
+      "utf8_bytes": 16534,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "deutsche-rechtsgeschichte",
   "reviewed_on": "2026-09-23",
@@ -11,13 +40,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Quelle ist eine spätere Abschrift oder enthält eine unsichere Negation -> Quellenbezeichnung, Lesung, Beweiswert und historische These ändern, nicht nur Literaturangabe.",
+    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Quelle ist eine spätere Abschrift oder enthält eine unsichere Negation -> Quellenbezeichnung, Lesung, Beweiswert und historische These ändern, nicht nur Literaturangabe. Einstiegsredaktion 16.10.2026, Batch 2: Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
       "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "fba89d8a732b996848924f9e6e2d822e17bebf35209b36e7c478efa9484ae5b3"
+    "sha256": "83f691e8085157351957597f06c37c98bb98e78f40c95fb7023408238fb1a051"
   },
   "selection": {
     "positive": [
@@ -65,13 +95,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
+    "reason": "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht. Workflow-Ergänzung einzeln geprüft: Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original. Einstiegsredaktion 16.10.2026, Batch 2: Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
       "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
-      "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original."
+      "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Historische Frage und nachweisbarer Textzeuge bestimmen den Einstieg; Edition, Archiv, Zeit und Ort ersetzen einen sachfremden modernen Leitfall. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b50081d14c51786b9b9c6f6cf8464c91bc98fccea4125b1b3509d53f69b63ef3"
+    "sha256": "46f6592cfb21c0c376289c534e2e35c02bb4c1c314a8a5e8a58b97e3162c1953"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

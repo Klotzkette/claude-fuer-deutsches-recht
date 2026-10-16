@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus.",
+    "norms_or_source_basis": "Paragrafen 87a und 87b UrhG",
+    "selected_anchor_identifiers": [
+      "C-304/07"
+    ],
+    "application_limit": "Bloße Konsultation reicht nicht; Schutzfähigkeit und wesentliche oder systematisch kumulierte Teile bleiben nachzuweisen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/datenbankrecht/datenbankrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "5711a5d953ae316f8ea72dfa9e128537d14d7e279888c05b06f2c8e3e552c917",
+      "characters": 6837,
+      "utf8_bytes": 6944,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/datenbankrecht/datenbankrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "98b6072a8c2117382fe0b407a2f2c3738816aeeca5793951a700bf924108aff6",
+      "characters": 15972,
+      "utf8_bytes": 16222,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "datenbankrecht",
   "reviewed_on": "2026-09-23",
@@ -50,15 +81,16 @@
     }
   ],
   "mini_review": {
-    "sha256": "ae86b5591d0133cc49fe25149800a732f783d1adee5abc949a2bddcaaef788f7",
+    "sha256": "5711a5d953ae316f8ea72dfa9e128537d14d7e279888c05b06f2c8e3e552c917",
     "verdict": "revised",
-    "reason": "Kostenarten und konkrete Übernahme werden getrennt geprüft; visuelle Auswahl ist nicht allein wegen fehlenden Kopiervorgangs erlaubnisfrei. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Kostenarten und konkrete Übernahme werden getrennt geprüft; visuelle Auswahl ist nicht allein wegen fehlenden Kopiervorgangs erlaubnisfrei. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Einstiegsredaktion 16.10.2026, Batch 2: Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Beschaffungs-, Prüfungs- und Darstellungskosten von Datenerzeugung abgegrenzt",
       "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
       "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
       "Leer: Investitionsnachweis, Übernahmeprüfung oder API-Lizenz. Dateien: still lesen und konkreten Anspruchs- oder Lizenzweg anbieten. Klar: direkt bestellten Brief, Vermerk oder Vertrag ausarbeiten.",
-      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ]
   },
   "selection": {
@@ -114,15 +146,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "API-Vertrag, Investitionsschutz, Mitarbeiterexport und Sensor-/Trainingsdaten behalten eigene Voraussetzungen; bloße Fallnamen durch anwendbare Entnahmeprüfung ersetzt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "API-Vertrag, Investitionsschutz, Mitarbeiterexport und Sensor-/Trainingsdaten behalten eigene Voraussetzungen; bloße Fallnamen durch anwendbare Entnahmeprüfung ersetzt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Einstiegsredaktion 16.10.2026, Batch 2: Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Beschaffungs-, Prüfungs- und Darstellungskosten von Datenerzeugung abgegrenzt",
       "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
       "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
       "Mischkosten, Herstellerzuordnung, Übernahme ohne falsche Addition, Lizenzzählgrößen, Schutzdauer und begrenzte Unterlassungsfassung vertieft.",
-      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Geschützte Investition und konkrete Nutzung führen zu Rechteprüfung oder fertigem Schreiben; Directmedia erklärt Entnahme ohne Kopierautomatismus. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "e8f984e98ba7c0e585634da5234f5181a37dfbcbfaee61eb763a6c18199c8570"
+    "sha256": "98b6072a8c2117382fe0b407a2f2c3738816aeeca5793951a700bf924108aff6"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

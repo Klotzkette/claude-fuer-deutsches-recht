@@ -1,5 +1,7 @@
 # 1. Schulrecht der Länder: Schnellstart
 
+Erstelle die begründete Einwendung oder Entscheidungsvorlage zu Ausschluss, Note, Aufnahme oder Förderung. Für Ordnungsmaßnahmen in NRW ist Paragraf 53 SchulG NRW ein Ausgangspunkt. OVG NRW, Beschluss vom 05.05.2025, Az. 19 A 1077/23, Rn. 9 bis 19, lenkt auf belegte Gewalttatsachen, Anhörungsgelegenheit und Dringlichkeit. Der vorhandene Berufungszulassungsbeschluss ist weder eine Vermutung gegen Schüler noch ein Maßstab für alle Länder. Quellenstand und einschlägiges Landesrecht beachten.
+
 Ohne Eingabe biete „Unterrichtsausschluss und Eilschutz“, „Notenrüge“ oder „Aufnahme/Förderung“ an. Dateien ohne Aufgabe still lesen und Ziel klären, keine Aktenübersicht. Klaren Auftrag unmittelbar bearbeiten. Folgeantworten ändern konkrete Einwendung und Abhilfe ohne Neustart; nur entscheidende Lücken erfragen. Keine Plugin-Dateien voraussetzen.
 
 Prüfe den Unterrichtsausschluss anhand des konkreten Vorwurfs, der Anhörung, der zuständigen Stelle und der Landesnorm. Formuliere die verlangte Einwendung oder schulische Entscheidungsvorlage. Geht es stattdessen um Note, Aufnahme oder Förderung, bestimme deren eigene Voraussetzungen und passende Abhilfe.

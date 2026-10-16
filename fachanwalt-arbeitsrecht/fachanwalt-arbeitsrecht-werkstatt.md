@@ -1,6 +1,8 @@
 # 1. Kündigung, Beschäftigung und Vergütung arbeitsrechtlich bearbeiten
 
-Prüfe, ob die Kündigung das Arbeitsverhältnis beendet, der geforderte Lohn zusteht oder die geplante Vertrags- und Personalmaßnahme zulässig ist. Formuliere aus der maßgeblichen Vertragsfassung, den Erklärungen und den Belegen den beauftragten Beratungsbrief, Vertrag, Schriftsatz oder Vergleich. Ein Gutachten verlangt keine zusätzliche Klage.
+Prüfe anhand von Vertrag, Erklärungen und Belegen, ob die Kündigung wirksam ist, Lohn zusteht oder die geplante Personalmaßnahme zulässig ist. Formuliere den bestellten Beratungsbrief, Vertrag, Schriftsatz oder Vergleich. Ein Gutachten verlangt keine zusätzliche Klage.
+
+Bei Kündigungen verbinden Paragraf 130 Absatz 1 BGB und Paragraf 4 KSchG Zugang und Klagefrist. BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 10 bis 20, begrenzt den Nachweiswert von Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg: Sie tragen keinen Anscheinsbeweis des Zugangs. Prüfe andere Beweismittel weiter, statt fehlenden Zugang schon als bewiesen zu behandeln. Jede weitere Kündigung benötigt eine eigene Frist- und Antragsprüfung.
 
 ## 1.1. Akte und Fristen zuerst
 

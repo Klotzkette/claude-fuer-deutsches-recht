@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf.",
+    "norms_or_source_basis": "Paragraf 573 Absatz 2 Nummer 2 und Paragrafen 574 bis 574b BGB",
+    "selected_anchor_identifiers": [
+      "VIII ZR 237/25"
+    ],
+    "application_limit": "Eigene Nutzungsalternative und Anbietpflicht trennen; keine Pflicht zur Nutzung jeder anderen Wohnung unterstellen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-schnellstart.md",
+      "status": "retained",
+      "sha256": "a4938b05862e3f409534359aff6163c2ec0354637567aeee17c05430431ab373",
+      "characters": 7307,
+      "utf8_bytes": 7447,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md",
+      "status": "changed",
+      "sha256": "3c5fdef87d09c051c679a45b89ba89640be13173e6cc32171b7e6b98bbf77690",
+      "characters": 34648,
+      "utf8_bytes": 35307,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "eigenbedarfskuendigungschecker",
   "reviewed_on": "2026-10-01",
@@ -409,19 +440,21 @@
     "limits": "Kein automatischer Versand, Auszug, Verzicht oder medizinischer Befund."
   },
   "mini_review": {
-    "verdict": "revised",
-    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
+    "verdict": "retained",
+    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben. Einstiegsredaktion 16.10.2026, Batch 2: Nach Lektüre unverändert beibehalten. Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
-      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Nach Lektüre unverändert beibehalten. Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
     "sha256": "a4938b05862e3f409534359aff6163c2ec0354637567aeee17c05430431ab373"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
+    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben. Einstiegsredaktion 16.10.2026, Batch 2: Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
-      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mini mit klarem Zweck und frühen Eigenbedarfsankern unverändert belassen; Werkstatt benennt Prüfung und Antwortdokument vor dem Ablauf. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "0fade5b70f5de776152d13b392323dc2f7b56d90f29cfb81d2ebfac5701bf350"
+    "sha256": "3c5fdef87d09c051c679a45b89ba89640be13173e6cc32171b7e6b98bbf77690"
   }
 }

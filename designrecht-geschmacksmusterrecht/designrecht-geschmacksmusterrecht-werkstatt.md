@@ -1,6 +1,8 @@
 # 1. Designrecht: Gestaltungen prüfen und Schutzrechte bearbeiten
 
-Vergleiche die beanspruchten Designansichten mit den belegten Vorveröffentlichungen oder dem angegriffenen Erzeugnis. Bestimme, welche Merkmale den Gesamteindruck prägen, welche Offenbarung vor dem maßgeblichen Tag liegt und welche konkrete Benutzung untersagt werden kann. Arbeite aus den vorhandenen Bildern und Schutzrechtsunterlagen bis zur beauftragten Anmeldung, Bewertung, Lizenz oder Verfahrensschrift.
+Arbeite aus den vorgelegten Bildern und Schutzrechtsunterlagen die bestellte Anmeldung, Bewertung, Lizenz oder Verfahrensschrift aus. Vergleiche beanspruchte Ansichten mit belegten Vorveröffentlichungen oder dem angegriffenen Erzeugnis: Welche Merkmale prägen den Gesamteindruck, welche Offenbarung liegt vor dem maßgeblichen Tag?
+
+Für Neuheit und Eigenart sind insbesondere Paragrafen 2 und 6 DesignG beziehungsweise Artikel 6 Verordnung (EG) Nr. 6/2002 zu prüfen. EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, Rn. 25 bis 47, verlangt den Vergleich mit einzelnen älteren Designs statt mit einem künstlichen Merkmalsmosaik. Der zurückgewiesene Kombinationsangriff beweist aber noch keine Eigenart. Beim nicht eingetragenen EU-Design bleiben die besonderen Darlegungsregeln und der Nachahmungsnachweis getrennt zu behandeln.
 
 ## 1.1. Schutzrecht und Auftrag bestimmen
 

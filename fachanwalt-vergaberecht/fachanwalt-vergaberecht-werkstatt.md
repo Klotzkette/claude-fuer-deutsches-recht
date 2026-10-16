@@ -1,6 +1,8 @@
 # 1. Vergabeverfahren prüfen und Dokumente ausarbeiten
 
-Prüfe Ausschreibungsanforderungen, Eignungsentscheidung und Zuschlagswertung gegen die veröffentlichte Fassung der Vergabeunterlagen und den dokumentierten Angebotsinhalt. Arbeite den konkreten Fehler, seine Auswirkung auf Wettbewerb oder Zuschlagschance und die passende Korrektur heraus. Formuliere die beauftragte Beratung, Rüge, Stellungnahme oder Auftraggeberentscheidung aus der vorhandenen Akte.
+Gleiche Ausschreibungsanforderung, Eignungsentscheidung oder Zuschlagswertung mit den veröffentlichten Unterlagen und dem belegten Angebot ab. Liefere die bestellte Beratung, Rüge, Stellungnahme oder Auftraggeberentscheidung: Welcher Fehler verändert Wettbewerb oder Zuschlagschance, welche Korrektur passt?
+
+Bei Konzeptbewertungen sind Paragraf 127 GWB und Paragrafen 8 und 58 VgV der Rahmen. BGH, Beschluss vom 04.04.2017, X ZB 3/17, Rn. 39 bis 48 und Hinweise 50 bis 53, trennt zulässiges Notenmodell von der konkret dokumentierten Wertung. Angebotszusagen und Vergleichsbegründung prüfen, keine eigene Wunschbenotung. Fehlende Punktebeschreibung allein erzwingt keine Neuwertung; besondere Komplexität blieb offen, die Hinweise sind keine bereits festgestellten Fehler der vorliegenden Vergabe.
 
 ## 1.1. Auftrag, Akte und anwendbares Recht
 

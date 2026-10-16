@@ -800,25 +800,31 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern.",
+    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern. Redaktionelle Anschlussprüfung 16.10.2026: Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
       "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
       "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
-      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen.",
+      "16.10.2026: Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen."
     ],
-    "sha256": "ada29b5d936f5c65b9cd105cc945fe5ca9b88c6d2d18194da7c690e4923b7f5b"
+    "sha256": "65c4b566675287c0c57dae6e97a11c2a7d95da4b22afe684269ead9170aff0dd",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern.",
+    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern. Redaktionelle Anschlussprüfung 16.10.2026: Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
       "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
       "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
-      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen.",
+      "16.10.2026: Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen."
     ],
-    "sha256": "695a3d66b30dc740ca4a911f292a5927c4b26c81a3b9025b267e8419aa73b6b6"
+    "sha256": "899c996f49a841af80922d90edb668dbb7ca8340105df9fb65856f4fea7e329b",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "verdict": "revised",
@@ -835,5 +841,26 @@
     "skill_path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-hauptproblem-zum-ergebnis-fuehren/SKILL.md",
     "prompt_sha256": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb",
     "skill_sha256": "ef3582f6a3815a719f5977fb13373051a9bd5936f3e60fcddadc69c347c3a6f3"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-schnellstart.md",
+        "sha256": "65c4b566675287c0c57dae6e97a11c2a7d95da4b22afe684269ead9170aff0dd",
+        "reason": "Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen.",
+        "anchor_or_exception": "Berliner Ladenöffnungsgesetz; BVerwG 16.03.2022 8 C 6.21: anlassbezogene Sonntagsöffnung prüfen, kein allgemeiner Ladenöffnungsanspruch."
+      },
+      {
+        "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+        "sha256": "899c996f49a841af80922d90edb668dbb7ca8340105df9fb65856f4fea7e329b",
+        "reason": "Betriebsentscheidung und Behördenantwort vor allgemeiner Gewerbeaufsicht; vorhandenen Sonntagsanker vorgezogen.",
+        "anchor_or_exception": "Berliner Ladenöffnungsgesetz; BVerwG 16.03.2022 8 C 6.21: anlassbezogene Sonntagsöffnung prüfen, kein allgemeiner Ladenöffnungsanspruch."
+      }
+    ]
   }
 }

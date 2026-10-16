@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt.",
+    "norms_or_source_basis": "Paragrafen 9 und 9a ErbbauRG",
+    "selected_anchor_identifiers": [
+      "V ZR 110/09"
+    ],
+    "application_limit": "Keine universelle Anpassungsformel; Wohnzweck, Dreijahresgrenze und Vertragsfassung bleiben eigenständig.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/erbbaurecht-praxis/erbbaurecht-praxis-schnellstart.md",
+      "status": "changed",
+      "sha256": "b69822ec4b5236c437bdeb47aca8303a05325e3a3ad0ec6d147ce7766f4dffb9",
+      "characters": 6613,
+      "utf8_bytes": 6711,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md",
+      "status": "changed",
+      "sha256": "77daf53701465589774a3946550936a23f84443e5ebe02b71acf6f0c84a214b1",
+      "characters": 16166,
+      "utf8_bytes": 16397,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "erbbaurecht-praxis",
   "reviewed_on": "2026-09-23",
@@ -36,14 +67,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alle acht Abschnitte gelesen; starre Fünf-Dateien-Grenze und allgemeine Grundbuchschablone durch auftragsbezogenen Erbbaurechtsabgleich ersetzt. Zinsanpassung mit wirklicher Auslegungsfolge und gesetzlicher Grenze verbunden. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtrag ändert Indexbasis oder Wohnnutzung -> Erbbauzinsrechnung und Anpassungsschreiben ändern; zusätzliche Bankbelastung -> Zustimmungs- und Rangregelung gesondert prüfen.",
+    "reason": "Alle acht Abschnitte gelesen; starre Fünf-Dateien-Grenze und allgemeine Grundbuchschablone durch auftragsbezogenen Erbbaurechtsabgleich ersetzt. Zinsanpassung mit wirklicher Auslegungsfolge und gesetzlicher Grenze verbunden. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Nachtrag ändert Indexbasis oder Wohnnutzung -> Erbbauzinsrechnung und Anpassungsschreiben ändern; zusätzliche Bankbelastung -> Zustimmungs- und Rangregelung gesondert prüfen. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
       "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
       "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b16bcd34f66ed9c057ec49973f6c4f01911b8f24782e0bebf80cce87a2da77cc"
+    "sha256": "b69822ec4b5236c437bdeb47aca8303a05325e3a3ad0ec6d147ce7766f4dffb9"
   },
   "selection": {
     "positive": [
@@ -91,14 +123,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich acht Fachzweigen gelesen. Formularhafter Normanhang und Entwurfsbeschränkung entfernt; notarielle Verpflichtung, dingliche Übertragung, Anpassungsmaßstab und Vollzugsnachweis getrennt präzisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
+    "reason": "Gesamte Werkstatt einschließlich acht Fachzweigen gelesen. Formularhafter Normanhang und Entwurfsbeschränkung entfernt; notarielle Verpflichtung, dingliche Übertragung, Anpassungsmaßstab und Vollzugsnachweis getrennt präzisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
       "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
       "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
-      "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe."
+      "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Grundbuch und gewünschte Erklärung führen unmittelbar zur Bearbeitung; Zinsanpassung wird von bloß nicht geltend gemachten Erhöhungen getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "257d5ed854413fb683bda7edc4b44c7b23e8ba7d32b056cc916a88ca0a86b321"
+    "sha256": "77daf53701465589774a3946550936a23f84443e5ebe02b71acf6f0c84a214b1"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

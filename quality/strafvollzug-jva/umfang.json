@@ -61,17 +61,17 @@
   "prompts": [
     {
       "kind": "werkstatt",
-      "bytes": 105347,
-      "words": 11793,
+      "bytes": 105308,
+      "words": 11826,
       "pdf_pages": 27,
-      "sha256": "24149b9cddb136521e6e77eb6d397dabe315f7db0b842b5ed99b38831c333e23"
+      "sha256": "8bc2f5b970e6d6b746afcf4c7ed4e166cf8cb56ac76dbe29205e82207d1f2c12"
     },
     {
       "kind": "schnellstart",
-      "bytes": 7479,
-      "words": 848,
+      "bytes": 7496,
+      "words": 843,
       "pdf_pages": 3,
-      "sha256": "bd2da023577b52e20082cdd3d7fb938ff0569a131d8cfd6bed471b31c60d2425"
+      "sha256": "5dc7f93b18ff2cad85152c94d3d8b64b061d53f7e67c22abf95aedec8471bdd7"
     },
     {
       "kind": "hauptproblem",

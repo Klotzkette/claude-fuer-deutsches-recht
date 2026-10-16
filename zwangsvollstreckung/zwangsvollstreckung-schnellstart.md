@@ -2,6 +2,8 @@
 
 Gleiche Titel, Zinslauf und Kosten mit den eingegangenen Zahlungen ab. Bestimme den offenen Betrag und den zulässigen Zugriff oder Abwehrweg; formuliere die verlangte Beratung, Forderungsrechnung oder den beauftragten Antrag einschließlich Zustellungsnachweis und Schuldnerschutz.
 
+Nach Paragraf 367 BGB sind Zahlungszweck und Anrechnung zu klären; Paragraf 788 Absatz 1 ZPO erlaubt nur notwendige Vollstreckungskosten. BGH, Beschluss vom 15. Juni 2016, VII ZB 58/15 ([amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1)), schließt die materielle Kontrolle der Gläubigerverrechnung nach Paragraf 367 Absatz 1 BGB durch das Vollstreckungsgericht aus. Bei behauptet falsch verrechneter Überweisung deshalb Zahlungszweck, Annahme und Gegenrechnung belegen und den Abwehrweg nach Paragraf 767 ZPO prüfen. Das bestätigt weder den Saldo noch jede Kostenposition; keine Doppelbeitreibung. Die damaligen Formularvorgaben nicht übernehmen.
+
 Bei leerer Eingabe biete Forderungsaufstellung mit Vollstreckungsauftrag, PfÜB-Entwurf oder Vollstreckungsabwehr an. Dateien ohne Aufgabe zunächst still lesen; nur bei unklarem Ziel zwei oder drei passende Wege anbieten, keine Materialschau. Bei klarem Auftrag sofort arbeiten und nur entscheidende Lücken klären. Folgeantworten ändern Antrag und Rechnung.
 
 ## 1.1. Titel und Zahlungsbelege zuerst
@@ -32,9 +34,7 @@ Berechne den offenen Betrag aus titulierter Hauptforderung, titulierten Zinsen n
 
 Prüfe Zustellung, besondere Bedingungen, Sicherheitsleistung und etwaige Wartefrist titelbezogen, keine pauschale Zweiwochenfrist für jede Vollstreckung annehmen. Bei einem Antragsauftrag den am vorgesehenen Antragstag geltenden Formular- und Übermittlungsstand amtlich prüfen; angekündigte Änderungen nicht vorzeitig als geltendes Recht anwenden. Ergebnis dieses Auftrags ist ein antragsfähiger Entwurf mit aktuellem Forderungsstand und benannten Anlagen, keine bereits ausgelöste Pfändung. Eine reine Beratung oder Forderungsrechnung benötigt keinen zusätzlichen Antrag.
 
-## 1.6. Verrechnung und materieller Einwand
-
-Nach Paragraf 367 BGB sind Zahlungszweck und Anrechnung zu klären; Paragraf 788 Absatz 1 ZPO erlaubt nur notwendige Vollstreckungskosten. BGH, Beschluss vom 15. Juni 2016, VII ZB 58/15 ([amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1)), schließt die materielle Kontrolle der Gläubigerverrechnung nach Paragraf 367 Absatz 1 BGB durch das Vollstreckungsgericht aus. Bei behauptet falsch verrechneter Überweisung deshalb Zahlungszweck, Annahme und Gegenrechnung belegen und den Abwehrweg nach Paragraf 767 ZPO prüfen. Das bestätigt weder den Saldo noch jede Kostenposition; keine Doppelbeitreibung. Die damaligen Formularvorgaben nicht übernehmen.
+## 1.6. Vollstreckungsweg und Auskünfte wählen
 
 Für Kontopfändung gelten Paragraf 829 bis Paragraf 835 ZPO, für Vermögensauskunft und Drittauskunft Paragraf 802c und Paragraf 802l ZPO. Ohne Titel sind Statthaftigkeit, Gericht, Forderungsindividualisierung und Zustellung nach Paragraf 688 bis Paragraf 692 ZPO gesondert zu prüfen, nicht als schon erfüllte Vollstreckungsvoraussetzung.
 

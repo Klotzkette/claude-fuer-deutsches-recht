@@ -13,6 +13,12 @@ on:
       - 'scripts/validate-manufacturer-plugins.py'
       - 'scripts/scoped-release-assets.json'
       - 'quality/evals/**'
+      - 'scripts/test-prompt-openings.py'
+      - 'scripts/test-prompt-routing-scope.py'
+      - 'scripts/audit-prompt-profile-routing.py'
+      - 'scripts/themen_profile.py'
+      - '**/*-werkstatt.md'
+      - '**/*-schnellstart.md'
   push:
     tags: ['kompatibilitaet-v*']
   workflow_dispatch:
@@ -54,6 +60,7 @@ jobs:
           python3 scripts/validate-yaml-frontmatter.py
           python3 scripts/validate-runtime-performance.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/audit-prompt-profile-routing.py
           python3 scripts/validate-manufacturer-plugins.py
       - name: Regressionen prüfen
         run: |
@@ -66,6 +73,8 @@ jobs:
           python3 scripts/test-app-only-integration.py
           python3 scripts/test-readme-navigation.py
           python3 scripts/test-portable-starts.py
+          python3 scripts/test-prompt-openings.py
+          python3 scripts/test-prompt-routing-scope.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

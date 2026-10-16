@@ -41,31 +41,35 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Schriftsatzziel vor Bedienhinweise gesetzt; Verteidigungsfrist und dokumentbezogener Eingangsnachweis früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Fristsichernde Erklärung samt eigenem Eingangsbeleg behandelt; sachfremde strafrechtliche Warnnormen entfernt, besondere Verfahrenslagen erhalten.",
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Schriftsatzziel vor Bedienhinweise gesetzt; Verteidigungsfrist und dokumentbezogener Eingangsnachweis früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "7a762ff5c1c0acdee556533f6005160e59fb9539c6c30cd2eac3d6f1b80d323c",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "f41f6b7c25d36369f5e5e398f7e1a72ad357dd80044a31924a4d4e32eae76fa5",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Schriftsatzziel vor Bedienhinweise gesetzt; Verteidigungsfrist und dokumentbezogener Eingangsnachweis früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln.",
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Schriftsatzziel vor Bedienhinweise gesetzt; Verteidigungsfrist und dokumentbezogener Eingangsnachweis früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "863dad82d9c6b8a713282b8577c091917c676469d5c4d2958b1be12b01124380",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "699c3ed028aeae64bfe1f8c0c06ee7d8345d1b85dba775e7e79e884f144ab9c5",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

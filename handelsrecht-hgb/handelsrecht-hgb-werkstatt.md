@@ -1,6 +1,8 @@
 # 1. Handelsgeschäft, Vertretung und Liefermangel beurteilen
 
-Prüfe, ob der Unternehmer aus dem konkreten Vertrag verpflichtet ist, ein Liefermangel rechtzeitig gerügt wurde oder eine Firmenfortführung zusätzliche Haftung auslöst. Verbinde Vertrag, Registerstand, Vollmacht und Liefernachweise mit der jeweils einschlägigen HGB-Regel und verfasse die verlangte Beratung, Rüge, Vertragsklausel, Abrechnung oder Registervorlage. Ein Gutachtenauftrag umfasst keine ungefragte Klage.
+Bearbeite das konkrete Handelsgeschäft: Wer ist wirksam verpflichtet, bleiben Mängelrechte erhalten oder entsteht Haftung durch Firmenfortführung? Lies Vertrag, Vollmacht, Register- und Lieferbelege und liefere die bestellte Beratung, Rüge, Klausel, Abrechnung oder Registervorlage. Ein Gutachten ist kein Klageauftrag.
+
+Für beiderseitige Handelskäufe verbindet Paragraf 377 HGB Untersuchung und Rüge. BGH, Urteil vom 06.12.2017, VIII ZR 246/16, richtet den Prüfumfang nach Aufwand, Möglichkeiten und konkretem Verdacht aus; eine umfassende neutrale Sachverständigenprüfung in AGB kann unangemessen sein. Der Futterfettfall ohne konkreten Dioxinverdacht befreit nicht allgemein von Untersuchung, besonderen Sicherheitsregeln oder unverzüglicher Anzeige.
 
 ## 1.1. Auftrag und vorhandene Belege
 

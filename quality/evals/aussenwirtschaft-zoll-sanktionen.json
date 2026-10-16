@@ -26,27 +26,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Elektronischer Download und fehlender direkter Namenstreffer beenden die Export- beziehungsweise Sanktionsprüfung nicht. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Elektronischer Download und fehlender direkter Namenstreffer beenden die Export- beziehungsweise Sanktionsprüfung nicht. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Dual-Use-Verweis auf amtlichen Stand 21.09.2026 aktualisiert; Artikel 2 Nummer 2 Buchstabe d und Artikel 3 konkretisiert",
       "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
       "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
       "Leerstart: Güterklassifizierung, Sanktionen oder Zollrechtsbehelf anbieten. Dateien: Transaktionsunterlagen still lesen und konkreten Prüfweg klären. Klarer Auftrag: Transaktionsbezogenen Vermerk, Antrag oder Einspruch direkt erstellen.",
-      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
+      "16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen."
     ],
-    "sha256": "f09d22dddcb2009abb092c0802691f81113d9445c1309074d6b7f78484a84f35"
+    "sha256": "e05480b1d2322fed259b8f82bb4e4b8b040693a332a6abf326f98ea61cedb718",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Technische Listenprüfung und mittelbare Bereitstellung konkretisiert; ungesicherte Regime- und Meldenormzuordnungen entfernt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Technische Listenprüfung und mittelbare Bereitstellung konkretisiert; ungesicherte Regime- und Meldenormzuordnungen entfernt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Dual-Use-Verweis auf amtlichen Stand 21.09.2026 aktualisiert; Artikel 2 Nummer 2 Buchstabe d und Artikel 3 konkretisiert",
       "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
       "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
       "Versionsbezogene Softwareklassifizierung, Namensverwechslung versus Kontrolle, Zollbescheid und Monatsfrist mit begrenzter Vollzugsfreigabe.",
-      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
+      "16.10.2026: Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen."
     ],
-    "sha256": "e674704fbc78e73e21f387018988bbece34c65a21e4e29fd06975859e694b9ea"
+    "sha256": "fc942f440d892015acf4046f18e70d164996b6557fce01f76dc37031a6dc7a50",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -142,5 +148,26 @@
       "search_2026": "Amtliche Presseinformation 73/26 vom 21.05.2026 zu C-483/23, C-428/24 und C-476/24 gefunden; nur Presseinformation gelesen, keine neue Ratio in den Workflow übernommen. Schlussanträge C-530/25 P ausdrücklich nicht als Urteil behandelt.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md",
+        "sha256": "e05480b1d2322fed259b8f82bb4e4b8b040693a332a6abf326f98ea61cedb718",
+        "reason": "Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen.",
+        "anchor_or_exception": "Artikel 2 bis 4 Verordnung (EU) 2021/821; EuGH 21.12.2011 C-72/11 Afrasiabi: kontrollierte Zwischenempfänger und Endnutzen; historischer Iran-Fall ersetzt keine aktuelle Verbotsnorm oder Listung."
+      },
+      {
+        "path": "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md",
+        "sha256": "fc942f440d892015acf4046f18e70d164996b6557fce01f76dc37031a6dc7a50",
+        "reason": "Lieferbarkeit und konkretes Behördenprodukt als Zweck; Unterpunkte der vorhandenen Dezimalhierarchie angeglichen.",
+        "anchor_or_exception": "Artikel 2 bis 4 Verordnung (EU) 2021/821; EuGH 21.12.2011 C-72/11 Afrasiabi: kontrollierte Zwischenempfänger und Endnutzen; historischer Iran-Fall ersetzt keine aktuelle Verbotsnorm oder Listung."
+      }
+    ]
   }
 }

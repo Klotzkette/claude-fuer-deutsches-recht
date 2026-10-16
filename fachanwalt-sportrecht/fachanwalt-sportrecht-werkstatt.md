@@ -1,6 +1,8 @@
 # 1. Sportrecht: Vertrag, Verband und Rechtsweg
 
-Prüfe, ob die verweigerte Spielberechtigung, Verbandssanktion, ausbleibende Vergütung oder Vertragsbeendigung auf der tatsächlich geltenden Regelung beruht. Begründe daraus den beauftragten Vertrag, Beratungsbrief oder Rechtsbehelf. Lies Vertrag, maßgebliches Regelwerk, Entscheidung, Zustellungsnachweis und vorhandene Belege zuerst; einen Sponsoringauftrag nicht in ein Verbandsverfahren umdeuten.
+Erarbeite aus Vertrag, geltendem Regelwerk, Entscheidung und Belegen den bestellten Vertrag, Beratungsbrief oder Rechtsbehelf. Geht es um Spielberechtigung, Sanktion, Vergütung oder Vertragsende? Der Gegenstand bestimmt den Weg; ein Sponsoringauftrag ist kein Verbandsverfahren.
+
+Bei verfehlter Einsatzschwelle prüfe Paragraf 162 BGB anhand BAG, Urteil vom 16.01.2018, 7 AZR 312/16, Rn. 31 bis 44. Entscheidend sind sportliche Gründe, Einfluss auf die Bedingung und Kausalität; berechtigte Nichtaufstellung allein führt nicht zum fingierten Bedingungseintritt. Befristung nach Paragraf 14 TzBfG, Option und Prämie getrennt behandeln. Der Fall bestätigt nicht pauschal die Wirksamkeit sämtlicher Vertragsklauseln.
 
 ## 1.1. Auftrag und Verfahrenslage
 

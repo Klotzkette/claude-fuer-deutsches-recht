@@ -41,7 +41,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Fortnahme und Vollzug früh getrennt; fehlender Abholvermerk beweist nicht allein Rechtswidrigkeit. Eng begrenzte Ausnahme bei völlig unversorgten Tieren in der Werkstatt erhalten, keine Ausweitung auf jeden Eilfall. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Stille Dateilektüre, unmittelbarer Dokumentbeginn und konkrete Fortsetzung bei Nachbefund oder bereits abgelaufenem Anhörungstermin ergänzt.",
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
@@ -49,12 +49,12 @@
       "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
       "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
     ],
-    "sha256": "63a16a2acb71c8431da88ca3d061ba153f6e0846c14ce3f4b846c5582ccf10ca",
+    "sha256": "1ff15efc3bccb3823b7e20bda29289d31b734870a7c285c07de384d11afc627d",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Fortnahme und Vollzug früh getrennt; fehlender Abholvermerk beweist nicht allein Rechtswidrigkeit. Eng begrenzte Ausnahme bei völlig unversorgten Tieren in der Werkstatt erhalten, keine Ausweitung auf jeden Eilfall. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Substantielle Anhörungs-, Rückgabe- und Gegenbefundzweige ergänzt; Ein-/Auslieferungsdaten ändern Kostenpositionen, Bekanntgabe und Verfahrensstand den Rechtsbehelf.",
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
@@ -62,7 +62,7 @@
       "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
       "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
     ],
-    "sha256": "2f5c8f18bb1cd402595f359493a7193d0141b3afcc639018554251fd88abfdf8",
+    "sha256": "53b0d47b640f2995d2c3e1f0bd9a356762b2d64aeec54a957bbdb18f2b144d09",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

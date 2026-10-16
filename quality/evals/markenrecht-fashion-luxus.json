@@ -41,14 +41,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Einstieg für Anmeldung, Zeichenkonflikt und Originalware; neue Herkunftsbelege ändern das konkrete Dokument. Die frühere Abgrenzung von Lizenzverstoß, Zustimmung und Imageschaden bleibt erhalten. Individuelle Desk-Prüfung.",
+    "reason": "Eigenständiger Einstieg für Anmeldung, Zeichenkonflikt und Originalware; neue Herkunftsbelege ändern das konkrete Dokument. Die frühere Abgrenzung von Lizenzverstoß, Zustimmung und Imageschaden bleibt erhalten. Individuelle Desk-Prüfung. Redaktionelle Einstiegslektüre am 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft.",
     "changes": [
       "Copad in Lizenzbruch und Erschöpfungsprüfung integriert",
       "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
       "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
-      "Drei Eingangsmodi, konkreter Dokumentpfad und Gegenmeldung zu Echtheit gegenüber Erschöpfung ergänzt."
+      "Drei Eingangsmodi, konkreter Dokumentpfad und Gegenmeldung zu Echtheit gegenüber Erschöpfung ergänzt.",
+      "Redaktion 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "594975fc2d26c7e461798e86513dbb7a5bac7a8823c3fe23eec96e10c9215b3c"
+    "sha256": "3117d681ae7dbeee543369d360d4645f93e6f89149b9d95b9b1cb570c047926d"
   },
   "selection": {
     "positive": [
@@ -96,15 +97,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig individuell geprüfte Werkstatt um Zeichenwahl, produktbezogenen Benutzungsnachweis, gemischte Chargen, Testkauf und Lizenzabverkauf vertieft. Anmeldung, Zoll, US-Verfahren und bestehende rechtliche Abgrenzungen erhalten; kein Live-Test.",
+    "reason": "Vollständig individuell geprüfte Werkstatt um Zeichenwahl, produktbezogenen Benutzungsnachweis, gemischte Chargen, Testkauf und Lizenzabverkauf vertieft. Anmeldung, Zoll, US-Verfahren und bestehende rechtliche Abgrenzungen erhalten; kein Live-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft.",
     "changes": [
       "Copad in Lizenzbruch und Erschöpfungsprüfung integriert",
       "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
       "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
       "Ungünstige Benutzungsbelege, stückbezogene Herkunftszuordnung und Korrektur widerlegter Plattformvorwürfe ergänzt.",
-      "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt."
+      "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt.",
+      "Redaktion 16.10.2026: Erschöpfung und Lizenznehmervertrieb vor der Arbeitsnavigation mit enger Copad-Grenze verknüpft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "ec6447b28e87a5ddf0e7bc2c572dcd3b3759d43adfa3b58db8a651f4016854ab"
+    "sha256": "5646f93932edc0b8572cea6c822f533ac8177f97b8a3b9838fd5628076adeb16"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -21,25 +21,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gesamten Mini von allgemeinen Vertragsstationen auf Systemleistung, Kosten, Kartellgrenzen und Kundenausgleich neu gefasst; gezielte Rückfragen und Fortsetzung erhalten. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Gesamten Mini von allgemeinen Vertragsstationen auf Systemleistung, Kosten, Kartellgrenzen und Kundenausgleich neu gefasst; gezielte Rückfragen und Fortsetzung erhalten. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VII ZR 109/13 mit anonymem Kundenstamm, Ladenrückgabe und offener allgemeiner Analogiefrage eingebaut.",
       "Jahresfrist nach Paragraf 89b als Geltendmachung statt Verjährung erklärt.",
       "Franchisegebühren, Preisbindung, digitale Gebiete, CRM, Branche, Eilverfahren und Beschäftigungsstatus konkret geprüft.",
-      "Handbuchgebühren, Preisbindung oder Ausstieg wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Handbuchgebühren, Preisbindung oder Ausstieg wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet."
     ],
-    "sha256": "c6d0c3b58f38a90e0d6025bbf38c743d35ba61f12569275da346798ef53b9f7f"
+    "sha256": "e51a4ccaa5b3ff19a036e8facf753965718d84ecaf2fdd7afc04abe99c70c694"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt individuell neu geordnet; alle zwölf alten Spezialthemen in konkreten Abschnitten erhalten. Unbrauchbare Muster- und Normduplikate, automatische Kündigungspriorität, GeschGehG-Anmeldung und falsche Statuszuordnung korrigiert. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Vollständige Werkstatt individuell neu geordnet; alle zwölf alten Spezialthemen in konkreten Abschnitten erhalten. Unbrauchbare Muster- und Normduplikate, automatische Kündigungspriorität, GeschGehG-Anmeldung und falsche Statuszuordnung korrigiert. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VII ZR 109/13 mit anonymem Kundenstamm, Ladenrückgabe und offener allgemeiner Analogiefrage eingebaut.",
       "Jahresfrist nach Paragraf 89b als Geltendmachung statt Verjährung erklärt.",
       "Franchisegebühren, Preisbindung, digitale Gebiete, CRM, Branche, Eilverfahren und Beschäftigungsstatus konkret geprüft.",
-      "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt."
+      "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet."
     ],
-    "sha256": "86d1fa67233ed2cf3000fc99cc470a0d6f937b697fe531bf0b9abfdbd3983b08"
+    "sha256": "2821c1c41967f1b5ee161e00da8cbc407129f76a6313c7e2c873c0e66be928df"
   },
   "selection": {
     "positive": [
@@ -131,5 +133,41 @@
     "continuation": "Kostenbeteiligung -> Investitionsregel; Rabattbonus -> gesamte Preisregel; identifizierbare Stammkunden -> andere Ausgleichsprüfung.",
     "enrichment": "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Leistung, Gebühren und Vertragsende zusammengeführt; Kundenstammausgleich mit Grenze des anonymen Massengeschäfts eingeordnet.",
+    "anchor_or_exception": "BGH, Urteil vom 05.02.2015, VII ZR 109/13; Paragraf 89b HGB; Artikel 101 AEUV",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c6d0c3b58f38a90e0d6025bbf38c743d35ba61f12569275da346798ef53b9f7f",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "86d1fa67233ed2cf3000fc99cc470a0d6f937b697fe531bf0b9abfdbd3983b08",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "franchiserecht-praxis/franchiserecht-praxis-schnellstart.md",
+        "sha256": "e51a4ccaa5b3ff19a036e8facf753965718d84ecaf2fdd7afc04abe99c70c694",
+        "characters": 6029,
+        "utf8_bytes": 6139
+      },
+      {
+        "path": "franchiserecht-praxis/franchiserecht-praxis-werkstatt.md",
+        "sha256": "2821c1c41967f1b5ee161e00da8cbc407129f76a6313c7e2c873c0e66be928df",
+        "characters": 18731,
+        "utf8_bytes": 19069
+      }
+    ]
   }
 }

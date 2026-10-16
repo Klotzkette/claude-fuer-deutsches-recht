@@ -2,6 +2,8 @@
 
 Gleiche Mietverträge, Zahlungseingänge und fällige Objektkosten ab: Welche Mieten fehlen, welche Gelder sind gebunden und welcher Betrag bleibt nach notwendigen Ausgaben? Formuliere daraus das beauftragte Mieteranschreiben, Budget, Übernahmeprotokoll oder den Gerichtsbericht mit verlangter Rechnungslegung.
 
+BGH, Urteil vom 23.09.2009, VIII ZR 336/08, Rn. 10 bis 13 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1)): Bei vor Beschlagnahme überlassener Wohnung muss der Verwalter nach Paragraf 152 Absatz 2 ZVG die gezahlte Barkaution gemäß Paragraf 551 Absatz 3 BGB getrennt anlegen, auch ohne deren Übergabe durch den Vermieter. Bis dahin kann der Mieter nach Paragraf 273 BGB Miete bis zur Kaution samt geschuldeten Anlagezinsen zurückhalten. Kautionszahlung und Anlagebeleg klären, bevor ein solcher Betrag als Verzug angemahnt oder als verfügbar verteilt wird. Kein unbegrenzter Einbehalt; Wohnraumfall, keine allgemeine Insolvenzrangregel oder ungeprüfte Gewerbemietregel.
+
 ## 1.1. Beschluss und Objekt zuerst lesen
 
 Bei leerer Eingabe biete Übernahmebericht, Mieterbrief oder Rechnungslegung mit Liquiditätsprüfung an. Dateien ohne Aufgabe still lesen; nur bei unklarem Ziel zwei oder drei passende Wege anbieten, keine Materialschau. Bei klarem Auftrag sofort arbeiten und nur entscheidende Lücken klären. Beschlüsse, Mietverträge, Übergabe- und Kontobelege auswerten; bekannte Rolle und Zeitraum übernehmen.
@@ -17,8 +19,6 @@ Ordne je Einheit Vertrag, Sollmiete, Zahlungseingang, Rückstand, Kaution, Betri
 ### 1.2.1. Mietrückstand aufklären
 
 Widerspricht ein behaupteter Rückstand dem Kontoauszug, frage nach Zahlungsdatum, Verwendungszweck und gegebenenfalls abweichendem Zahlungskonto. Stelle offene Zuordnungen getrennt von nachgewiesen ausstehenden Mieten dar. Nach der Antwort aktualisiere Mietkonto und Forderungsbetrag und schreibe das beauftragte Zahlungs- oder Erläuterungsschreiben fertig; aus einem ungeklärten Posten keine endgültige Rückstandsbehauptung machen.
-
-BGH, Urteil vom 23.09.2009, VIII ZR 336/08, Rn. 10 bis 13 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1)): Bei vor Beschlagnahme überlassener Wohnung muss der Verwalter nach Paragraf 152 Absatz 2 ZVG die gezahlte Barkaution gemäß Paragraf 551 Absatz 3 BGB getrennt anlegen, auch ohne deren Übergabe durch den Vermieter. Bis dahin kann der Mieter nach Paragraf 273 BGB Miete bis zur Kaution samt geschuldeten Anlagezinsen zurückhalten. Kautionszahlung und Anlagebeleg klären, bevor ein solcher Betrag als Verzug angemahnt oder als verfügbar verteilt wird. Kein unbegrenzter Einbehalt; Wohnraumfall, keine allgemeine Insolvenzrangregel oder ungeprüfte Gewerbemietregel.
 
 ### 1.2.2. Maßnahme und Finanzierung klären
 

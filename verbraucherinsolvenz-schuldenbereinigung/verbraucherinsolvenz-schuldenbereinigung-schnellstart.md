@@ -1,6 +1,8 @@
 # 1. Verbraucherinsolvenz und Schuldenbereinigung: Schnellstart
 
-Bereinige die Gläubigerliste, kläre den Zugang zur Verbraucherinsolvenz und berechne, welches Schuldenbereinigungsangebot Einkommen und Vermögen tatsächlich tragen. Sichere bei laufender Pfändung zuerst den notwendigen Lebensunterhalt. Geschäftsleiterhaftung und Unternehmens-Fortbestehensprognose gehören nicht zur allgemeinen privaten Schuldenberatung.
+Bereinige die Gläubigerliste, kläre den Zugang zur Verbraucherinsolvenz und berechne, welches Schuldenbereinigungsangebot Einkommen und Vermögen tatsächlich tragen. Formuliere den bestellten Plan oder Beratungsbrief. Sichere bei laufender Pfändung zuerst den notwendigen Lebensunterhalt. Geschäftsleiterhaftung und Unternehmens-Fortbestehensprognose gehören nicht zur allgemeinen privaten Schuldenberatung.
+
+BGH, Beschluss vom 22.09.2005, Az. IX ZB 55/04, [Gründe II.1 und II.2](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB__55-04.pdf?__blob=publicationFile&v=1): Ein geschäftsführender Alleingesellschafter war selbstständig; beim früheren Unternehmer zählen Gläubiger, nicht Forderungspositionen. Offene Lohnsteuer und Sozialversicherungsbeiträge aus Beschäftigungsverhältnissen können den Verbraucherweg nach Paragraf 304 InsO auch bei persönlicher Inanspruchnahme für GmbH-Schulden ausschließen. Prüfe deshalb den konkreten Haftungs- und Beschäftigungsbezug. Nicht jede Steuerschuld oder eigene Krankenversicherung ist eine Arbeitnehmerschuld; der Beschluss entscheidet nicht pauschal über jeden Fremdgeschäftsführer und schließt Restschuldbefreiung im Regelverfahren nicht aus.
 
 ## 1.1. Zugang und akute Lage
 
@@ -9,8 +11,6 @@ Ohne Eingabe biete „Gläubigerliste mit Zugangseinschätzung“, „außergeri
 Nach [Paragraf 304 InsO](https://www.gesetze-im-internet.de/inso/__304.html) unterscheide Personen ohne jemals ausgeübte Selbstständigkeit, ehemals Selbstständige und aktuell Selbstständige. Bei früherer Selbstständigkeit setzt der Verbraucherweg überschaubare Vermögensverhältnisse und das Fehlen von Forderungen aus Arbeitsverhältnissen voraus. Überschaubar bedeutet weniger als 20 Gläubiger bei Antragstellung, nicht höchstens 20. Zähle Gläubiger, nicht Briefe, Rechnungen oder Inkassobeauftragte. Eine andere Verfahrensart bedeutet nicht automatisch, dass Restschuldbefreiung ausgeschlossen ist; deren Voraussetzungen getrennt prüfen.
 
 ## 1.2. Schuldenbestand bereinigen
-
-BGH, Beschluss vom 22.09.2005, IX ZB 55/04, [Gründe II.1 und II.2](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB__55-04.pdf?__blob=publicationFile&v=1): Ein geschäftsführender Alleingesellschafter war selbstständig; beim früheren Unternehmer zählen Gläubiger, nicht Forderungspositionen. Offene Lohnsteuer und Sozialversicherungsbeiträge aus Beschäftigungsverhältnissen können den Verbraucherweg nach Paragraf 304 InsO auch bei persönlicher Inanspruchnahme für GmbH-Schulden ausschließen. Prüfe deshalb den konkreten Haftungs- und Beschäftigungsbezug. Nicht jede Steuerschuld oder eigene Krankenversicherung ist eine Arbeitnehmerschuld; der Beschluss entscheidet nicht pauschal über jeden Fremdgeschäftsführer und schließt Restschuldbefreiung im Regelverfahren nicht aus.
 
 Erstelle je Forderung: aktueller Gläubiger, Vertreter, Aktenzeichen, Rechtsgrund, Hauptsumme, Zinsen, Kosten, Zahlungen, Sicherheit, Titel und Stichtagsrest. Abtretung und bloße Beauftragung auseinanderhalten. Dieselbe Bankforderung nicht nochmals beim Inkassobüro zählen. Bestrittene Forderungen aufführen und kennzeichnen, nicht still löschen. Bei Arbeitgeber-, Steuer- oder Sozialversicherungsschulden Entstehungsgrund und Personenbezug klären.
 

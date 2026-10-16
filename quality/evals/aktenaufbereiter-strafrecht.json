@@ -25,32 +25,36 @@
     }
   ],
   "mini_review": {
-    "sha256": "5575f8a039ddf834783ff608f06cd3b75f53103cf9f29951b76fce7c25ea0597",
+    "sha256": "cea7c2177c03919db5fffb87fe278d19844881433ef0973c7ce2c07e362e518c",
     "verdict": "revised",
-    "reason": "Sechs Tabellen bleiben der Kern; Verständigungsgespräche werden mit Initiator, Beiträgen, Mitteilung und Protokoll erfasst, ohne eine Rechtsmittelprüfung zu erzwingen. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Sechs Tabellen bleiben der Kern; Verständigungsgespräche werden mit Initiator, Beiträgen, Mitteilung und Protokoll erfasst, ohne eine Rechtsmittelprüfung zu erzwingen. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Konkrete Verknüpfungsaufgabe statt allgemeiner Aktenaufbereitung im Einstieg.",
       "Erfolglose verständigungsbezogene Gespräche und reine Terminabsprachen anhand amtlicher Gründe unterschieden; Protokolllücke nicht als Beweis fehlender Gespräche behandelt.",
       "Sechs Übersichten, OCR-Kontrolle, Teilauftrag, Nachlieferungen und Exportersatz erhalten.",
       "Leerstart: Gesamtaufbereitung, Aussageabgleich oder Nachlieferung anbieten. Dateien: Strafakten still sichten und passenden Erfassungsumfang klären, keine sechs Tabellen ungefragt. Klarer Auftrag: Bestellte Übersichten unmittelbar mit Fundstellen erstellen.",
-      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie."
+      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie.",
+      "16.10.2026: Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig."
     ],
-    "reviewed_on": "2026-09-22",
-    "method": "desk_review"
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Erfassungsrolle durchgehend nachgeschärft: Aktenzitat und eigene Prüfung getrennt, belegte Verständigungsanforderungen in die Datenerfassung übersetzt und unspezifische Zitatliste durch konkrete Erfassungsfragen ersetzt. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Erfassungsrolle durchgehend nachgeschärft: Aktenzitat und eigene Prüfung getrennt, belegte Verständigungsanforderungen in die Datenerfassung übersetzt und unspezifische Zitatliste durch konkrete Erfassungsfragen ersetzt. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Konkrete Verknüpfungsaufgabe statt allgemeiner Aktenaufbereitung im Einstieg.",
       "Erfolglose verständigungsbezogene Gespräche und reine Terminabsprachen anhand amtlicher Gründe unterschieden; Protokolllücke nicht als Beweis fehlender Gespräche behandelt.",
       "Sechs Übersichten, OCR-Kontrolle, Teilauftrag, Nachlieferungen und Exportersatz erhalten.",
       "Aussageherkunft, Chatidentität und Zeitnormalisierung, Strafbefehlsfrist und begrenzte Nachforderung ohne Schuld- oder Rechtsmittelentscheidung.",
-      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie."
+      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie.",
+      "16.10.2026: Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig."
     ],
-    "sha256": "f274e1b4af7ea5aa73d45a13e2e1d7f16d7397e51468e5fb24371a0212d7d2ae",
-    "reviewed_on": "2026-09-22",
-    "method": "desk_review"
+    "sha256": "a9bf0e18446dcdc7ef2f8be6bea6317e9bf8a011eb6b4804057bda9132eb7804",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -132,6 +136,27 @@
       "Der Entscheidungsanker steuert die Extraktion; keine eigene Schuld-, Verwertungs- oder Revisionsentscheidung.",
       "Weitere aktenkundige Rechtsauffassungen nicht vollumfänglich verifiziert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-schnellstart.md",
+        "sha256": "cea7c2177c03919db5fffb87fe278d19844881433ef0973c7ce2c07e362e518c",
+        "reason": "Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig.",
+        "anchor_or_exception": "Paragrafen 243 Absatz 4, 273 Absatz 1a StPO; BVerfG 19.03.2013 2 BvR 2628/10 Rn. 84 bis 86: Verständigungsgespräche auch ohne Einigung erfassen, bloße Terminabsprachen abgrenzen."
+      },
+      {
+        "path": "aktenaufbereiter-strafrecht/aktenaufbereiter-strafrecht-werkstatt.md",
+        "sha256": "a9bf0e18446dcdc7ef2f8be6bea6317e9bf8a011eb6b4804057bda9132eb7804",
+        "reason": "Verteidigungsfähige Aktenübersichten und Fundstellen als Ergebnis erläutert; Verständigung als belegabhängiger Zweig.",
+        "anchor_or_exception": "Paragrafen 243 Absatz 4, 273 Absatz 1a StPO; BVerfG 19.03.2013 2 BvR 2628/10 Rn. 84 bis 86: Verständigungsgespräche auch ohne Einigung erfassen, bloße Terminabsprachen abgrenzen."
+      }
     ]
   }
 }

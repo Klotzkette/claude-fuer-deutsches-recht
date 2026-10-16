@@ -20,15 +20,18 @@
     }
   ],
   "mini_review": {
-    "sha256": "449b0dd78f6a45bd2b7f45f821bfd4f4fdc0b5e2cf59dea6b8a4f734de215a10",
+    "sha256": "99b23405f1f3ad9c510d98cb6f58dd327c54060d32def0a2659925793173bf37",
     "verdict": "revised",
-    "reason": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Elektronischen Eingang der konkreten Schriftsatzfassung zuordnen; offene Zuordnung nicht als festgestellte Fristversäumung behandeln.",
       "Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten.",
       "Leerstart: Übergabeauszug, Antragsvergleich oder Terminfortschreibung anbieten. Dateien: Schriftsätze still lesen; noch keine Gesamtzusammenfassung ohne Umfangsentscheidung. Klarer Auftrag: Neutralen Gesamt- oder Teilauszug direkt ausarbeiten.",
-      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus."
-    ]
+      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus.",
+      "16.10.2026: Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -76,14 +79,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Elektronischen Eingang der konkreten Schriftsatzfassung zuordnen; offene Zuordnung nicht als festgestellte Fristversäumung behandeln. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Elektronischen Eingang der konkreten Schriftsatzfassung zuordnen; offene Zuordnung nicht als festgestellte Fristversäumung behandeln. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Aktuelle Anträge, wechselnden Vortrag und tatsächlichen Beweisstand mit Verfahrensnachweisen rekonstruieren.",
       "Eingangsbestätigung und sinnvoller Dateiname müssen zum behaupteten fristgebundenen Schriftsatz passen; für den Auszug den belegten Eingang statt nur die Versandabsicht berichten.",
       "Zahlung versus Antragsänderung, Privatgutachten versus gerichtlicher Beweis, elektronische Eingangszuordnung und empfängerbezogener Abschluss.",
-      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus."
+      "Nachgereichte Antragserklärung verändert Einleitung und Verfahrenschronologie; Vernehmungsprotokoll verändert nur belegten Beweisstatus.",
+      "16.10.2026: Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt."
     ],
-    "sha256": "d0d449df232f3025fbc0934afec2478a2fb1d7bc117cb494dc3c67d8670cac47"
+    "sha256": "79e1db178d27ff9c30c3e06916582f40b88745af77453ff84e29859958c1b0aa",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -134,6 +140,27 @@
         "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
+      }
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt.",
+    "source_status": "Ausdrücklich nur vorhandener amtlicher Leitsatz; keine neu gelesenen Entscheidungsgründe.",
+    "files": [
+      {
+        "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md",
+        "sha256": "99b23405f1f3ad9c510d98cb6f58dd327c54060d32def0a2659925793173bf37",
+        "reason": "Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt.",
+        "anchor_or_exception": "Paragraf 130a Absatz 5 ZPO; BGH 21.03.2023 VIII ZB 80/22: Dateiname und Eingangsbestätigung, keine allgemeine Beweisregel für jede Anlage."
+      },
+      {
+        "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
+        "sha256": "79e1db178d27ff9c30c3e06916582f40b88745af77453ff84e29859958c1b0aa",
+        "reason": "Neutralen Aktenauszug und konkreten Nachweiszweck vor die Bestandsaufnahme gesetzt.",
+        "anchor_or_exception": "Paragraf 130a Absatz 5 ZPO; BGH 21.03.2023 VIII ZB 80/22: Dateiname und Eingangsbestätigung, keine allgemeine Beweisregel für jede Anlage."
       }
     ]
   }

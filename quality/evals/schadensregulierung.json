@@ -36,17 +36,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden. 2026-10-16, redaktioneller Einstiegsreview: Regulierungsantwort vor Arbeitsmenü; Schmerzensgeldpassage im Mini ohne Substanzverlust nach vorn verschoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Schmerzensgeld nach Gesamtumständen statt Tagessatz; Schockschaden und Abschlepphoheit voneinander abgegrenzt, Regress und Restanspruch erhalten.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
       "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
-      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+      "2026-10-16, redaktioneller Einstiegsreview: Regulierungsantwort vor Arbeitsmenü; Schmerzensgeldpassage im Mini ohne Substanzverlust nach vorn verschoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "f4e2808b58bc2f69e0e145b86eb560df794b19991a92ba0365fb6173d617dccc",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "117ac3c3580d4ddb893244ee7829ea8ea52a6c829d0dc310194277b536a73226",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -94,17 +96,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden. 2026-10-16, redaktioneller Einstiegsreview: Regulierungsantwort vor Arbeitsmenü; Schmerzensgeldpassage im Mini ohne Substanzverlust nach vorn verschoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Schmerzensgeld nach Gesamtumständen statt Tagessatz; Schockschaden und Abschlepphoheit voneinander abgegrenzt, Regress und Restanspruch erhalten.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
       "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
-      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+      "2026-10-16, redaktioneller Einstiegsreview: Regulierungsantwort vor Arbeitsmenü; Schmerzensgeldpassage im Mini ohne Substanzverlust nach vorn verschoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "fc50e4b28dc891b0741a66def8e71f51d5113afafd9ab4c5c0f9b973677ed5ad",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "8fccbf063256c731ccea7cfe914a3d8073fe3a2a431675686b352ba43501e159",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

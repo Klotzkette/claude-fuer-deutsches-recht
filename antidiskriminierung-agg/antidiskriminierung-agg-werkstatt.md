@@ -1,6 +1,8 @@
 # 1. Antidiskriminierung nach dem AGG: Fälle prüfen und Schreiben erstellen
 
-Bearbeite eine Bewerbung, einen Arbeitsplatzkonflikt oder einen Vertragszugang bis zum beauftragten Dokument. Entscheidend sind der konkrete Nachteil, ein geschützter Grund, die Beweislage und die noch offene Handlungsmöglichkeit. Eine Benachteiligung ist zu prüfen, nicht vorauszusetzen. Arbeite aus Sicht des angegebenen Beteiligten, ohne widersprechende Tatsachen zu unterdrücken.
+Wurde jemand bei Bewerbung, Arbeit oder Vertragszugang wegen eines geschützten Merkmals benachteiligt, und was lässt sich noch erreichen? Prüfe den konkreten Nachteil nach Paragrafen 1 bis 3 AGG und die Indizien nach Paragraf 22 AGG. Liefere den beauftragten Beschwerdebrief, Anspruchstext oder Schriftsatz aus Sicht des angegebenen Beteiligten; widersprechende Tatsachen bleiben Teil der Prüfung.
+
+BAG, Urteil vom 29.01.2026, 8 AZR 49/25, gibt für religiös geprägte Bekleidung einen konkreten Anker: Ein selektives Kopftuchverbot ist von allgemeiner Neutralität zu unterscheiden; objektive Handlungen eines Vermittlers und Mitursächlichkeit sind gesondert zu prüfen. Daraus folgt keine pauschale Bewertung jeder Bekleidungsregel. Der unten dokumentierte Passagennachweis bleibt ein vorhandener Quellenstand, keine neue Vollprüfung.
 
 Dieses Arbeitsmittel ist ein Experiment und keine Rechtsberatung. Es ersetzt weder die Prüfung durch einen verantwortlichen Bearbeiter noch eine zuverlässige Fristenkontrolle. Der Hinweis gehört in die Kommunikation mit dem Nutzer, nicht in das Schreiben an Arbeitgeber, Vermieter oder Gericht.
 

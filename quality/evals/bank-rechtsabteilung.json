@@ -41,14 +41,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Zahlungsreklamation beginnt bei Buchung und Freigabeinhalt; der technische Erfolgsnachweis wird nicht mit Zustimmung oder grober Fahrlässigkeit gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Die Zahlungsreklamation beginnt bei Buchung und Freigabeinhalt; der technische Erfolgsnachweis wird nicht mit Zustimmung oder grober Fahrlässigkeit gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten. Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag. Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten.",
-      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
+      "16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung."
     ],
-    "sha256": "26a361098d6ba8096ff1d05b2c0f4057c94cc26c6d27d0bd3c73c6d12b4ae7bc"
+    "sha256": "3e6e0fbc0d2ce8fd8f8cf277618e136869a780191aa6465af41907072191b0ad",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -96,14 +99,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die getrennten Wege für Zahlungsdienste, Kredit, Aufsicht und IKT-Verträge bleiben erhalten; der Entscheidungsanker führt zur konkret anzufordernden Beweiskette. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Die getrennten Wege für Zahlungsdienste, Kredit, Aufsicht und IKT-Verträge bleiben erhalten; der Entscheidungsanker führt zur konkret anzufordernden Beweiskette. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
-      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
+      "16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung."
     ],
-    "sha256": "d0affa2ad5374fd5ced9aa45f8149e36872a93635c3f416f8f6020b5d9729fc8"
+    "sha256": "d7829c7e694889e1862934f749165310ab9e4f10d1202316cf6c5f6206ce9ef5",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -161,5 +167,26 @@
       "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "3e6e0fbc0d2ce8fd8f8cf277618e136869a780191aa6465af41907072191b0ad",
+        "reason": "Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung.",
+        "anchor_or_exception": "Paragraf 675w BGB; BGH 26.01.2016 XI ZR 91/14: Authentifizierung nicht gleich grobe Fahrlässigkeit; Entscheidung unter früherem Zahlungsdiensterecht nicht mit alten Absatzfassungen übertragen."
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "d7829c7e694889e1862934f749165310ab9e4f10d1202316cf6c5f6206ce9ef5",
+        "reason": "Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung.",
+        "anchor_or_exception": "Paragraf 675w BGB; BGH 26.01.2016 XI ZR 91/14: Authentifizierung nicht gleich grobe Fahrlässigkeit; Entscheidung unter früherem Zahlungsdiensterecht nicht mit alten Absatzfassungen übertragen."
+      }
+    ]
   }
 }

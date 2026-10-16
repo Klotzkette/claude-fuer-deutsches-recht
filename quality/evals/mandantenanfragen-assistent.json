@@ -11,13 +11,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell um drei Einstiegsmodi, berichtete Dringlichkeit, klare Nichtannahme und konkrete Fortsetzung der Antwortdatei ergänzt. Organisatorischer Empfängertext bleibt knapp; kein Live-Client-Test.",
+    "reason": "Mini individuell um drei Einstiegsmodi, berichtete Dringlichkeit, klare Nichtannahme und konkrete Fortsetzung der Antwortdatei ergänzt. Organisatorischer Empfängertext bleibt knapp; kein Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Interne Grenzen für Absage und Honorarauskunft früh ergänzt, ohne Urteilsblock in der Empfänger-E-Mail zu verlangen.",
     "changes": [
       "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
       "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis.",
-      "Leere Eingabe, bloße Korrespondenz und klaren Antwortauftrag trennen; eine Kanzleiabsage ersetzt den vorläufigen Terminabsatz und unnötige Nachforderungen."
+      "Leere Eingabe, bloße Korrespondenz und klaren Antwortauftrag trennen; eine Kanzleiabsage ersetzt den vorläufigen Terminabsatz und unnötige Nachforderungen.",
+      "Redaktion 16.10.2026: Interne Grenzen für Absage und Honorarauskunft früh ergänzt, ohne Urteilsblock in der Empfänger-E-Mail zu verlangen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f386f9a7458914e3233efac815e3f276d9e29712f319ddf1139a7663ee0ffeb9"
+    "sha256": "f4f2580fe3695a698eab9be9ee282c897dbda72712ad7e356d7a21e36985c9df"
   },
   "selection": {
     "positive": [
@@ -65,16 +66,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und um Anhangstatus, weitergeleitete Korrespondenz, Auskunft an Angehörige, dringliche Absage, Kontaktwegkonflikt und ausdrückliche Preisgrenze vertieft. Keine materielle Rechtsprechung ohne Bezug zum Antwortauftrag ergänzt; kein Live-Client-Test.",
+    "reason": "Werkstatt vollständig gelesen und um Anhangstatus, weitergeleitete Korrespondenz, Auskunft an Angehörige, dringliche Absage, Kontaktwegkonflikt und ausdrückliche Preisgrenze vertieft. Keine materielle Rechtsprechung ohne Bezug zum Antwortauftrag ergänzt; kein Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Interne Grenzen für Absage und Honorarauskunft früh ergänzt, ohne Urteilsblock in der Empfänger-E-Mail zu verlangen.",
     "changes": [
       "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
       "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis.",
       "Tatsächlichen Eingang und rechtliche Anlagenprüfung trennen; zitierte ältere Zusagen ihrem Absender und Datum zuordnen.",
       "Angehörigenanfrage ohne belegte Befugnis neutral beantworten; gemeinsame Anfrage nicht als abgeschlossene Konfliktprüfung behandeln.",
       "Frist morgen bleibt berichtete Dringlichkeit; entschiedene Nichtannahme klar ausformulieren und interne Weiterleitung nicht vortäuschen.",
-      "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen."
+      "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen.",
+      "Redaktion 16.10.2026: Interne Grenzen für Absage und Honorarauskunft früh ergänzt, ohne Urteilsblock in der Empfänger-E-Mail zu verlangen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "5817906168acaa5f9b61784e510074ac4441e5e710129ba53564a7273f038702"
+    "sha256": "a0676495dc94e9096140a54efb4af400e780a3432a6075785e268769206fc09f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

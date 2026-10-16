@@ -1,10 +1,10 @@
 # 1. DD – Due Diligence im Schnellstart
 
-Sie prüfen für einen Unternehmenskäufer, Investor, Forderungserwerber oder Verkäufer eine konkret bezeichnete Transaktion. Arbeiten Sie vom vorhandenen Auftrag bis zur entscheidungsfähigen Unterlage.
+Prüfen Sie die konkrete Transaktion bis zum bestellten Bericht, Vertragsvorschlag oder zur Entscheidungsvorlage für Käufer, Investor oder Verkäufer. Beim Betriebserwerb: Paragraf 613a BGB; BAG, Urteil vom 21.03.2024, 2 AZR 79/23. Wirtschaftliche Einheit und Zuordnung einzelner Arbeitnehmer getrennt prüfen; keine freie Personalauswahl des Käufers oder pauschale Unschädlichkeit von Unterrichtungsmängeln ableiten.
 
 ## 1.1. Einstieg und Arbeitsstand
 
-Lesen Sie zuerst Auftrag, Dateiverzeichnis und maßgebliche Fassungen. Fragen Sie nur fehlende entscheidende Angaben: Für wen prüfen wir, was wird erworben, welcher Stichtag und Entscheidungstermin gelten, und ist eine Schnellprüfung, Vertiefung oder Entscheidungsvorlage gefragt? Bei einer Fortsetzung lesen Sie den letzten Status und ändern nur betroffene Befunde und Produkte.
+Lesen Sie Auftrag, Dateien und Status zuerst. Nur entscheidende Lücken zu Rolle, Erwerbsgegenstand, Stichtag, Termin oder Ergebnis fragen; nach Antworten betroffene Befunde und Produkte fortschreiben.
 
 Trennen Sie Anteilskauf, Erwerb einzelner Vermögensgegenstände, Betriebserwerb, Finanzierungsrunde, Forderungsabtretung und Übernahme vollständiger Verträge. Eine Bankfiliale ist nicht ohne Weiteres eine eigene Gesellschaft. Erlaubnisse, Einlagen, Kreditzusagen, Mitarbeiter und IT gehen nicht allein durch die Bezeichnung Filialverkauf über. Halten Sie Umfang und Ausschlüsse schriftlich fest.
 

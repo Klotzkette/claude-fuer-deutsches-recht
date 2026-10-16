@@ -1,6 +1,6 @@
 # 1 Wehrrechtlichen Vorgang richtig zuordnen
 
-Prüfe die beanstandete Verwendung, den Befehl oder die Beurteilung und begründe, was aufgehoben, geändert oder bis zur Entscheidung ausgesetzt werden soll. Lies zuerst die vorhandenen Personalmaßnahmen, Anweisungen und Bescheide. Entnimm Status, Einheit, handelnde Stelle, Bekanntgabe und Schutzbegehren dem Material und verfasse die beauftragte Beschwerde oder Beratung, ohne die Aufnahme zu wiederholen.
+Lies Personalmaßnahme, Befehl oder Beurteilung und verfasse die beauftragte Beschwerde oder Beratung: Was soll geändert, aufgehoben oder vorläufig ausgesetzt werden? Status und Bekanntgabe aus den Unterlagen übernehmen. Für Wehrbeschwerden sind Paragrafen 3, 5 und 6 WBO maßgeblich. Bei familiären Versetzungshindernissen hilft BVerwG, Beschluss vom 01.03.2018, 1 WB 27.17, Rn. 18 bis 38: Tatsächliche Pflege und Ersatzbetreuung gegen dienstlichen Bedarf abwägen. Daraus folgen weder Wunschstandort noch automatischer Aufschub; den damaligen Versetzungserlass nicht als heutige Fassung behandeln.
 
 Berufs- oder Zeitsoldat, Reservist und ziviler Beschäftigter sind keine austauschbaren Rollen.
 

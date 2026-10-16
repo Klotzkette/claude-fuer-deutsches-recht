@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet.",
+    "norms_or_source_basis": "Paragraf 162 BGB; Paragraf 14 TzBfG",
+    "selected_anchor_identifiers": [
+      "7 AZR 312/16"
+    ],
+    "application_limit": "Keine fingierte Bedingung bei gerechtfertigter Nichtaufstellung; daraus folgt nicht die Wirksamkeit jeder Verlängerungsoption.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-sportrecht/fachanwalt-sportrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "c36e66ae693cac15714b4e646241e01cfc9a960f23d50f5e0eac281c5d7a644b",
+      "characters": 6751,
+      "utf8_bytes": 6850,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-sportrecht/fachanwalt-sportrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "e3f097ae8eac6278d6a6822a5c33c544ab6f2de0651f805eeb0c4d4aede2a292",
+      "characters": 21765,
+      "utf8_bytes": 22098,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-sportrecht",
   "reviewed_on": "2026-09-23",
@@ -57,14 +88,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Spielbericht erhöht 44 auf 45 Einsätze oder ein Spiel wurde abgebrochen -> Prämienrechnung, Optionsschwelle und hypothetische Einsatzkausalität getrennt ändern. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "a71ad71358c87b2dcceb6ca1cd7f3e01326a76c037f3b500704ace10eca22686",
+    "sha256": "c36e66ae693cac15714b4e646241e01cfc9a960f23d50f5e0eac281c5d7a644b",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -137,14 +169,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Einsätze, Optionsschwelle und Prämien aus Vertrag und Spielberichten abgleichen. Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
-      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Vertrag, Startrecht oder Verbandsentscheidung führen zum passenden Text; Einsatzbedingungen werden anhand sportlicher Gründe und Kausalität eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "ebaa2985325c05e066f2dfcb3953fa4b0e0fe20956eddffa133a596b9df34fb0",
+    "sha256": "e3f097ae8eac6278d6a6822a5c33c544ab6f2de0651f805eeb0c4d4aede2a292",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

@@ -57,7 +57,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen und unter 7500 Bytes/Zeichen verdichtet: drei fachliche Einstiege sowie eine tatsächlich unveränderte Digitalversion verändern den konkreten Entwurf. Sofatutor, Paragraf 327r und die Widerrufsfunktion bleiben in ihren unterschiedlichen Anwendungsbereichen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen und unter 7500 Bytes/Zeichen verdichtet: drei fachliche Einstiege sowie eine tatsächlich unveränderte Digitalversion verändern den konkreten Entwurf. Sofatutor, Paragraf 327r und die Widerrufsfunktion bleiben in ihren unterschiedlichen Anwendungsbereichen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktioneller Nachtrag 16.10.2026: Probeabo-Entscheidung samt Ausnahme fehlender Preistransparenz vorgezogen. Bindenden Vertrag vorausgesetzt, nationale Tatsachenfeststellung und Grenze gegenüber Funktionsentzug erhalten. Widerrufsfunktion und Kündigungsbutton weiterhin getrennt; Paragrafenzeichen ausgeschrieben. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Drei Startmodi und Prüfung einer nachgereichten unveränderten Digitalversion ergänzt; allgemeine Doppelabläufe zugunsten konkreter Fortsetzung gekürzt.",
       "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
@@ -65,12 +65,12 @@
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
       "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "4602c4b74bb2cb4d28301bdd2b8cb16e818fb77230f7896f093b01fbd8692b77",
+    "sha256": "2619b4bb4dba8b42f1f5a59b1b55f711ac167ecab48d37d544421ec1e69d9e02",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Probeabofassung, Digitalfunktion, Gegenangebot und Verkäuferreaktion führen zu unterschiedlichen, vollständig beschriebenen Erklärungswegen. Vergangene und zukünftige Zahlungszeiträume sowie Ersatzklauseln werden konkret bearbeitet; sämtliche Spezialzweige und bisherigen Entscheidungsgrenzen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Probeabofassung, Digitalfunktion, Gegenangebot und Verkäuferreaktion führen zu unterschiedlichen, vollständig beschriebenen Erklärungswegen. Vergangene und zukünftige Zahlungszeiträume sowie Ersatzklauseln werden konkret bearbeitet; sämtliche Spezialzweige und bisherigen Entscheidungsgrenzen erhalten. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktioneller Nachtrag 16.10.2026: Probeabo-Entscheidung samt Ausnahme fehlender Preistransparenz vorgezogen. Bindenden Vertrag vorausgesetzt, nationale Tatsachenfeststellung und Grenze gegenüber Funktionsentzug erhalten. Widerrufsfunktion und Kündigungsbutton weiterhin getrennt; Paragrafenzeichen ausgeschrieben. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Bestellnachweis und Sofatutor-Anwendung bis zu Bestreiten, hilfsweiser Erklärung und bezifferter Rückforderung ausgearbeitet.",
       "Digitaländerung mit Gegenangebot, Fristkorrektur und zeitbezogenen Zahlungsfolgen sowie Kaufmangel mit Gegenbefund und Verkäuferreaktion ergänzt.",
@@ -79,7 +79,7 @@
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
       "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "8a3ab1c76f26bcdf553ccc33a6e2ed5f1a09e6c50b5369a09bc8590c314bc188",
+    "sha256": "17850972d7a562553e24938b5519c7bc6557e483baf746af128002a6700a5d52",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {

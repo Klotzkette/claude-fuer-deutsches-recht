@@ -36,7 +36,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztextreview: drei echte Dokumentwege bei leerem Einstieg, stilles Lesen und unmittelbare klare Aufträge; dauerhafter Zufahrtsverlust und neue Kostenpositionen ändern die konkrete Fassung. Vorherige Zuständigkeits- und Fallabgrenzungen erhalten.",
+    "reason": "Individueller Ganztextreview: drei echte Dokumentwege bei leerem Einstieg, stilles Lesen und unmittelbare klare Aufträge; dauerhafter Zufahrtsverlust und neue Kostenpositionen ändern die konkrete Fassung. Vorherige Zuständigkeits- und Fallabgrenzungen erhalten. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Bauzaunanker nach vorn gestellt; erforderliche Ausnahme von bereits erteilter Ausnahme unterschieden. Kein Zuständigkeitsübertrag von Niedersachsen auf Bundesfernstraßen; Zufahrts- und Folgekostenprüfung erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerwG 3 C 6.13 auf Konzentration begrenzt und NStrG vom FStrG getrennt.",
       "BVerwG 9 B 6.14 gegen Anspruch auf unveränderte günstige Anbindung, zugleich Abwägungspflicht.",
@@ -44,13 +44,13 @@
       "Gezielte Nachforderung von Widmung/Aufmaß, Fortsetzung und vollständige Endfassung erhalten.",
       "Zwei konkrete Antwortbeispiele führen zu Ersatzbegehren beziehungsweise geänderter Kostenklausel; beide 7500-Grenzen eingehalten."
     ],
-    "sha256": "ed1177a42f50424261a034d3871d035fb2a712d3e947eefe452641897123597d",
+    "sha256": "c317cc16ec781e1796e70436d8ccff5f4bb90fa0fdcf81b46448592f87a2442b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztextreview: Zugangsverlust und Betriebsfortführung, Bühnenaufstellung, Planänderungen sowie prüffähige Kostenvereinbarung wesentlich mit Gegenbefunden, Antwortfolgen und vollständigen Dokumentzielen ausgebaut; vorhandene Fachabgrenzungen erhalten.",
+    "reason": "Individueller Ganztextreview: Zugangsverlust und Betriebsfortführung, Bühnenaufstellung, Planänderungen sowie prüffähige Kostenvereinbarung wesentlich mit Gegenbefunden, Antwortfolgen und vollständigen Dokumentzielen ausgebaut; vorhandene Fachabgrenzungen erhalten. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Bauzaunanker nach vorn gestellt; erforderliche Ausnahme von bereits erteilter Ausnahme unterschieden. Kein Zuständigkeitsübertrag von Niedersachsen auf Bundesfernstraßen; Zufahrts- und Folgekostenprüfung erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerwG 3 C 6.13 auf Konzentration begrenzt und NStrG vom FStrG getrennt.",
       "BVerwG 9 B 6.14 gegen Anspruch auf unveränderte günstige Anbindung, zugleich Abwägungspflicht.",
@@ -59,7 +59,7 @@
       "Betriebsfortführungsnachweis statt Umsatzautomatismus; Ersatz vor Geld im Anwendungsbereich des Paragrafen 8a Absatz 4.",
       "Geänderte Pläne verändern konkrete Einwendungen, gemischte Rechnungen die Kostenmasse und nicht nur die Summe; Fristauslöser und Freigaben getrennt."
     ],
-    "sha256": "cfc562d30be0fde4166e5ecc6d1d28b94637cf82e0e573d0b3ec074caf565c5e",
+    "sha256": "43c0de87f37b6b062ec63c2d0eba20f357e94b7e99f66e7a43ebf39c0f7288d0",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

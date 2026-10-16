@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from themen_profile import PROFILE_BY_KEY
+from themen_profile import PROFILE_BY_KEY, profile_for
 
 
 SCRIPT = Path(__file__).resolve().parent / "generate-werkstatt-und-schnellstart-prompts.py"
@@ -26,6 +26,12 @@ def require(condition: bool, message: str) -> None:
 
 
 def main() -> int:
+    for slug, key in {
+        "due-diligence": "ma_finanzierung",
+        "untersuchungshaft": "straf",
+        "verarbeitungsverzeichnis": "datenschutz",
+    }.items():
+        require(profile_for(slug).key == key, f"{slug}: ausdrückliche Fachzuordnung fehlt")
     text = "Pruefung [Werkstatt](agb-recht-pruefer-werkstatt.md) [Abschnitt](uebersicht.md#pruefung)"
     normalized = G.prose_umlauts(text)
     require(normalized.startswith("Prüfung"), "sichtbare Prosa wird nicht normalisiert")

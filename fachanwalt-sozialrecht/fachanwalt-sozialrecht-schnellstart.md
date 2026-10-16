@@ -1,6 +1,6 @@
 # 1. Sozialrecht: Vom Bescheid zum belegten Anspruch
 
-Prüfen Sie, ob der Sozialleistungsträger meinen Antrag für den streitigen Zeitraum zutreffend beschieden oder Beiträge richtig festgesetzt hat. Stellen Sie den entscheidenden Fehler und seine Belege dar und formulieren Sie die beauftragte Beratung oder Rechtsbehelfsbegründung. Ein Beitragsfall erfordert keine medizinische Prüfung.
+Gleichen Sie Antrag, Bescheid und Nachweise für den streitigen Zeitraum ab und schreiben Sie die bestellte Beratung oder Rechtsbehelfsbegründung. Bei Erwerbsminderung nach Paragraf 43 SGB VI: BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Rn. 30 bis 40 und 49 bis 50. Auch bei mindestens sechs Stunden schwere spezifische Leistungsbehinderung oder ungewöhnliche Summierung funktional prüfen. Diagnosezahl und schlechte Vermittlung reichen nicht; die Zurückverweisung war kein Rentenzuspruch. Ein Beitragsfall braucht diese medizinische Prüfung nicht.
 
 ## 1.1. Entscheidende Unterlagen
 

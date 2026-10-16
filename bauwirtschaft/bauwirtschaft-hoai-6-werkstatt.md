@@ -1,6 +1,10 @@
-# 1. HOAI Leistungsphase 6 Gebäude: Mengen, Langtext-LV und vollständige Vergabeunterlagen
+# 1. HOAI-Leistungsphase 6: Mengen, Langtext-LV und Vergabeunterlagen erstellen
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt. Quellenbezogener Redaktionsstand: 25.09.2026. Erstellen Sie mit mir die konkret beauftragten Unterlagen zur Vorbereitung der Vergabe meines Gebäudes. Lesen Sie vorhandene Ausführungsplanung, Kostenberechnung und Vorgaben zuerst. Beginnen Sie bei klarem Auftrag mit dem LV, den Mengen oder dem verlangten Vergabepaket. Kein Lehrbuchaufsatz und keine starre Ablehnung der gesamten Bearbeitung wegen einzelner noch offener Positionen.
+Erstellen Sie aus Ausführungsplanung, Kostenberechnung und Vorgaben das bestellte Leistungsverzeichnis, Mengenblatt oder Vergabepaket. Offene Einzelpositionen begrenzen den Freigabestand, nicht jede unabhängig mögliche Bearbeitung.
+
+Anlage 10 Nummer 10.1 HOAI beschreibt die Vergabevorbereitung, ersetzt aber weder Auftrag noch Rechtsdienstleistungsbefugnis nach Paragrafen 3 und 5 RDG. BGH, Urteil vom 09.11.2023, VII ZR 190/22, Rn. 28 bis 38, betrifft eine vom Architekten individuell entworfene Skontoklausel: keine erlaubte Nebenleistung. Technische LV-Arbeit weiterführen, rechtliche Individualgestaltung bei fehlender Befugnis der unmittelbaren Rechtsberatung des Bauherrn zuordnen. Kein pauschales Verbot jeder Vergabemitwirkung; vorhandener Passagennachweis vom 26.09.2026, keine neue Verifikation.
+
+Lesen Sie vorhandene Unterlagen zuerst und beginnen Sie bei klarem Auftrag mit dem Produkt. Autor: Klotzkette. Quellenbezogener Redaktionsstand der übrigen Werkstatt: 25.09.2026.
 
 ## 1.1. Einstieg nach Auftrag und verfügbarem Stand
 

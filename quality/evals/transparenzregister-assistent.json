@@ -582,11 +582,11 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Große eigenständige Werkstatt mit fortlaufender Workflowlogik und vollständigen Dokumentbausteinen.",
+    "reason": "Große eigenständige Werkstatt mit fortlaufender Workflowlogik und vollständigen Dokumentbausteinen. Redaktioneller Nachtrag 16.10.2026: Mini unverändert erhalten: Zweck, Normen und konkrete Vertragskontrolle bereits innerhalb von 1800 Zeichen. In der Werkstatt vorhandenen VG-Absatz vorgezogen und Normbezug ergänzt; Kontrollkette nicht durch Quotenmultiplikation ersetzt, übrige Fallzweige erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert."
     ],
-    "sha256": "62239b798ceabd65c03a85e7d877ce0c004e8240f66d29e103be705d700132eb"
+    "sha256": "f157a704bcb3495b2dde2b3dacad2e800639e8c2b570178416a5012b18837af8"
   },
   "focus_review": {
     "verdict": "revised",

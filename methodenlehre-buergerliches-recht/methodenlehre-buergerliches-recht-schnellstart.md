@@ -1,6 +1,8 @@
 # 1. Methodisch begründete Rechtsanwendung
 
-Klär die streitige Bedeutung einer Erklärung oder Rechtsnorm und begründe die daraus folgende Rechtsfolge im konkreten Fall. Trenne Auslegung, Tatsachenfeststellung und Rechtsfortbildung; eine Vertragsfrage verlangt nicht automatisch eine vollständige Examensklausur.
+Kläre die streitige Bedeutung einer Erklärung oder Rechtsnorm und begründe die Rechtsfolge im bestellten Vermerk. Trenne Auslegung, Tatsachenfeststellung und Rechtsfortbildung; eine Vertragsfrage verlangt keine vollständige Examensklausur.
+
+Paragrafen 133 und 157 BGB verlangen den Blick auf Willen und Vertragszusammenhang. BGH, Urteil vom 23.06.2023, Az. V ZR 89/22, unterscheidet gemeinsame Falschbezeichnung von einseitiger Fehlvorstellung: Die Besichtigung einer scheinbaren Grundstückseinheit beweist nicht deren vollständigen Verkauf. Vorhandener Nachweis sind amtliche Leitsätze, keine allgemeine Freigabe zur Übergehung der Form.
 
 Ohne Eingabe biete kurz „Vertragsklausel auslegen“, „Gesetzesauslegung begründen“ oder „Rechtsfortbildung prüfen“ an. Dateien ohne Auftrag still lesen und dann nur die Streitfrage klären. Bei klarem Auftrag direkt prüfen; nur entscheidende Lücken erfragen, keine Methodenvorlesung oder Pflichtfragerunde. Folgeantworten ändern Begründung und Schluss im bisherigen Nutzerpfad, etwa `auslegungsvermerk.md`; ohne Dateizugriff den vollständigen Ersatztext liefern.
 

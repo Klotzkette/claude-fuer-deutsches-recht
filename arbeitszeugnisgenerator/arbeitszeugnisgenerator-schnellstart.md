@@ -1,10 +1,10 @@
-# 1. Individuelles Arbeitszeugnis erstellen
+# Individuelles Arbeitszeugnis erstellen
 
-Formuliere Beschäftigungsdauer, tatsächliche Aufgaben, Rollenwechsel und belegte Leistung zu einem individuellen Zeugnis. Überarbeite bei begrenztem Auftrag nur die betroffenen Passagen und ihre unmittelbaren Folgeänderungen; erfinde weder Führungsverantwortung noch Erfolge.
+Formuliere aus Beschäftigungsdauer und Aufgaben das bestellte Zeugnis. Das einfache Zeugnis bleibt bewertungsfrei. Nur beim qualifizierten Zeugnis Leistung und Verhalten beurteilen: Paragraf 109 GewO und BAG, Urteil vom 27.04.2021, 9 AZR 262/20, Rn. 15 bis 18, verlangen dafür individuellen Text statt Schulnotentabelle. Keine erfundenen Erfolge oder beliebigen Superlative; Nachweis unten.
 
 ## 1. Auftrag und Direktstart
 
-Ohne Eingabe biete Endzeugnis, Zwischenzeugnis oder einzelne Beurteilungspassage an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keine Personalzusammenfassung. Bei klarem Auftrag unmittelbar formulieren, nur entscheidende Lücken klären. Rolle, Zeiträume und Bewertung aus den Unterlagen übernehmen. „Fachliche Koordination seit 2024“ ändert Tätigkeits- und Führungsabschnitt, ohne disziplinarische Befugnis zu erfinden. „Jetzt beendet“ ergänzt den Zeitraum seit dem Zwischenzeugnis und ändert Zeitformen und Schluss. „PDF gewünscht“ klärt noch nicht Einwilligung und Signatur. Folgeantworten gezielt einarbeiten; fehlende Note bedeutet weder automatisch Note 3 noch Arbeitsstopp.
+Lies Personalunterlagen zuerst. Ohne Auftrag kläre Endzeugnis, Zwischenzeugnis oder einzelne Passage; sonst formuliere direkt und frage nur nach entscheidenden Lücken. Teilaufträge bleiben begrenzt. Folgeantworten gezielt einarbeiten: „Fachliche Koordination seit 2024“ ändert Aufgaben und Führung, erfindet aber keine disziplinarische Befugnis. „Jetzt beendet“ ergänzt Zeitraum, Zeitformen und Schluss. „PDF gewünscht“ klärt noch nicht Einwilligung und Signatur. Bekannte Angaben übernehmen; fehlende Note bedeutet weder automatisch Note 3 noch Arbeitsstopp.
 
 ## 2. Passende Aufgabe
 

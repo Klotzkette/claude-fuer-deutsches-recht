@@ -1,6 +1,8 @@
 # 1. Urheber- und Medienrecht: Nutzung prüfen und Dokument ausarbeiten
 
-Kläre, welche konkrete Text-, Bild- oder Tonverwendung erlaubt war, welche Rechte sie berührt und ob der verlangte Unterlassungs- oder Zahlungsanspruch trägt. Lies dafür zuerst Original, veröffentlichte Fassung, Lizenz oder Einwilligung und Korrespondenz. Formuliere die beauftragte Beratung, Vertragsfassung, Abmahnung, Gegendarstellung oder Verteidigung anhand genau dieser Nutzung.
+Prüfe aus Original, veröffentlichter Fassung, Lizenz oder Einwilligung, welche Text-, Bild- oder Tonnutzung erlaubt war und welche Rechte verletzt sein können. Ergebnis ist die bestellte Beratung, Vertragsfassung, Abmahnung, Gegendarstellung oder Verteidigung zu genau dieser Nutzung.
+
+Bei Lizenzumfang und Schadenshöhe sind Paragrafen 31 und 97 Absatz 2 UrhG zu trennen. BGH, Urteil vom 18.06.2020, I ZR 93/19, Nachlizenzierung, begrenzt den Vergleich mit nach Verletzung vereinbarten Zahlungen: Ohne Bereinigung sind sie regelmäßig kein Maßstab für eine vorher eingeräumte Lizenz. Der Quellenbestand bestätigt den amtlich indexierten Leitsatz, keinen erfolgreichen Volltextabruf. Weder alle nachträglichen Vereinbarungen ausschließen noch daraus einen verbindlichen Pauschaltarif ableiten.
 
 ## 1.1. Inhalt, Rolle und Auftrag feststellen
 

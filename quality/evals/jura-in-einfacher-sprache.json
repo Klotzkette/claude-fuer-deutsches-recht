@@ -395,21 +395,23 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständige fünf Sprachwege einschließlich Rückübertragung mit Bedeutungsschutz.",
+    "reason": "Eigenständige fünf Sprachwege einschließlich Rückübertragung mit Bedeutungsschutz. Einstiegsredaktion 16.10.2026: Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Form, Modalität, Fristen und Aussageart ausdrücklich erhalten.",
-      "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert."
+      "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert.",
+      "Einstiegsredaktion 16.10.2026: Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt."
     ],
-    "sha256": "1d41884347a5d85f27ed43630096ad37e128cb832600987d30ca271b1c3b703d"
+    "sha256": "536cb6069136f47699acaddff8426c5b977a32a3e2a4339e426dfe75eaba2fd4"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführliche originale Anleitung für verständliche rechtliche Kommunikation.",
+    "reason": "Ausführliche originale Anleitung für verständliche rechtliche Kommunikation. Einstiegsredaktion 16.10.2026: Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Mehrdeutigkeit, Rückfragen, Übersetzungsgrenzen und unabhängige Endprüfung.",
-      "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern."
+      "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern.",
+      "Einstiegsredaktion 16.10.2026: Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt."
     ],
-    "sha256": "ac1c63ca315b00435316dd504923e6fec7bb5f2970cea73c57588a84bcbee883"
+    "sha256": "ea338863910f518f2a1c185eea8b389a5718364f3ab1889ececabc36b2ad5e45"
   },
   "source_audit_2026_10_01": {
     "checked_on": "2026-10-01",
@@ -430,5 +432,42 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Lesefassung, Erklärung und Brief klar unterschieden; belegte Ausgangsaussage statt zusätzlicher Rechtsbehauptung als Maßstab gesetzt.",
+    "anchor_or_exception": "Ausnahme: Sprachübertragung; Ausgangstext und seine belegten Rechtsquellen",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "exception": "Zusätzlicher Rechtsprechungsanker bei reiner Sprachübertragung würde Auftrag und Inhalt verändern.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "1d41884347a5d85f27ed43630096ad37e128cb832600987d30ca271b1c3b703d",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "ac1c63ca315b00435316dd504923e6fec7bb5f2970cea73c57588a84bcbee883",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "jura-in-einfacher-sprache/jura-in-einfacher-sprache-schnellstart.md",
+        "sha256": "536cb6069136f47699acaddff8426c5b977a32a3e2a4339e426dfe75eaba2fd4",
+        "characters": 7205,
+        "utf8_bytes": 7441
+      },
+      {
+        "path": "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md",
+        "sha256": "ea338863910f518f2a1c185eea8b389a5718364f3ab1889ececabc36b2ad5e45",
+        "characters": 31842,
+        "utf8_bytes": 32694
+      }
+    ]
   }
 }

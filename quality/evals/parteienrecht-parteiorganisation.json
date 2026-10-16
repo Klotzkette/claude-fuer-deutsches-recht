@@ -36,17 +36,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Kurze Wahl zwischen Parteitag, Wahlfehler und Mitgliedsmaßnahme; nachgereichte Anwesenheitsangaben verändern Berechnung und Protokoll konkret. Bestehende gesetzliche Differenzierungen erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Kurze Wahl zwischen Parteitag, Wahlfehler und Mitgliedsmaßnahme; nachgereichte Anwesenheitsangaben verändern Berechnung und Protokoll konkret. Bestehende gesetzliche Differenzierungen erhalten. 2026-10-16, redaktioneller Einstiegsreview: Wahl und Ausschluss früh anhand PartG getrennt; staatliche Kontrolle nicht mit politischer Zweckmäßigkeit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Tatsächlichen Einladungs-, Wahl- und Mitgliederrechtsvorgang am zuständigen Organ prüfen.",
       "Ausschlusstatbestände, schwerer Schaden und vorläufige Rechtebeschränkung exakt getrennt.",
       "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
       "Dateien ohne Auftrag führen nach stillem Lesen nur zur Zielklärung; klarer Auftrag führt unmittelbar zum Dokument.",
-      "Wahlgangbezogene Anwesenheitsänderung korrigiert wahlpruefung.md und nur belegte Tatsachen in protokollentwurf.md."
+      "Wahlgangbezogene Anwesenheitsänderung korrigiert wahlpruefung.md und nur belegte Tatsachen in protokollentwurf.md.",
+      "2026-10-16, redaktioneller Einstiegsreview: Wahl und Ausschluss früh anhand PartG getrennt; staatliche Kontrolle nicht mit politischer Zweckmäßigkeit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "ac9e46836d55c7b2217ced5985272ffba2cfc47dfde31cd2d63d17da1a017eae",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "f8b08ba2ca7ea27221369bacaad97439c5e30b8ef536314ba859755f3c35a7c4",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -94,17 +96,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Einladung und Satzungswechsel, Stimmzettelabgleich, elektronische Wahl, Vorwurf und Schaden sowie Zahlungszuordnung bis zum verwendbaren Dokument vertieft. Spezialgebiete vollständig erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Einladung und Satzungswechsel, Stimmzettelabgleich, elektronische Wahl, Vorwurf und Schaden sowie Zahlungszuordnung bis zum verwendbaren Dokument vertieft. Spezialgebiete vollständig erhalten. 2026-10-16, redaktioneller Einstiegsreview: Wahl und Ausschluss früh anhand PartG getrennt; staatliche Kontrolle nicht mit politischer Zweckmäßigkeit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Ausschlusstatbestände, schwerer Schaden und vorläufige Rechtebeschränkung exakt getrennt.",
       "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
       "Tagesordnung bei Satzungsänderung und Wahl, Versandlücken sowie Differenzen zwischen ausgegebenen und abgegebenen Stimmen konkret bearbeitet.",
       "Ausschlussvorwurf mit Urheberschaft, Kontext, Gegenbelegen, schwerem Schaden und konkretem Eilbedarf verbunden.",
-      "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt."
+      "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Wahl und Ausschluss früh anhand PartG getrennt; staatliche Kontrolle nicht mit politischer Zweckmäßigkeit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "9ac902465d082b3f4ee4b1bdd31cd5aaf13262c6a7851cfd54fd4887de3e2e8c",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "cdd1c86cb7a698bf936366511d66e4ae5bd5f42519f634d938e5acf9e0a41629",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

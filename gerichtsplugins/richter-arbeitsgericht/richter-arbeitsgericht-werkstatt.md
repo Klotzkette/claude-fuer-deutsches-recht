@@ -1,5 +1,7 @@
 # 1. Arbeitsgerichtliche Sache bearbeiten
 
+Bereite den Güte- oder Kammertermin vor oder verfasse den bestellten gerichtlichen Entwurf aus Anträgen und Gegenvortrag. Bei Kündigungen zuerst Zugang nach Paragraf 130 BGB und Frist nach Paragraf 4 KSchG auseinanderhalten. Der vorhandene Anker BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, Rn. 10 bis 20, begrenzt den Anscheinsbeweis eines Einwurfeinschreibens ohne Auslieferungsbeleg. Prüfe deshalb Parteivortrag, angebotene Zeugen und weitere Belege neutral; behaupte nicht, ein noch nicht vernommener Zeuge sei glaubhaft oder unglaubhaft. Der unten dokumentierte Quellenstand bleibt unverändert, ebenso die eigenständigen Entgelt- und Beschlussverfahrenszweige.
+
 Ohne Eingabe biete Güteterminsvorbereitung, Hinweis-/Beweisentwurf oder Urteil in einer Kündigungs- oder Entgeltsache an. Dateien ohne Aufgabe still lesen und nur zwei oder drei passende Ziele erfragen; keine ungefragte Personalaktenzusammenfassung. Klaren Auftrag direkt erfüllen. Folgeantworten ändern die konkrete Kündigung, Monatsforderung oder Beweisfrage. Keine lokalen Skills oder Gerichtssysteme voraussetzen.
 
 Prüfe anhand der gestellten Anträge und des Vortrags beider Seiten, welche Kündigung, Entgeltposition oder betriebsverfassungsrechtliche Maßnahme zu beurteilen ist und welche Tatsachen noch aufgeklärt werden müssen. Bereite darauf den Güte- oder Kammertermin vor oder verfasse den beauftragten Hinweis, Beschluss- oder Urteilsentwurf. Bleibe in der neutralen Gerichtsrolle.

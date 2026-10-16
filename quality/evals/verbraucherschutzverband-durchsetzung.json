@@ -46,15 +46,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: selbständige Einstiegswege für Unterlassung, Abhilfeentscheidung und Verbraucherinformation; nachgereichte Erstattungen ändern Gruppe, Summe und Antrag. Bisherigen Datenschutzanker begrenzt erhalten, kein Live-Client-Test.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: selbständige Einstiegswege für Unterlassung, Abhilfeentscheidung und Verbraucherinformation; nachgereichte Erstattungen ändern Gruppe, Summe und Antrag. Bisherigen Datenschutzanker begrenzt erhalten, kein Live-Client-Test. Redaktionelle Einstiegsprüfung 16.10.2026: Verbandsrechtlichen Zweck vor die Aufnahme gestellt; C-757/22 mit konkreter Verarbeitung und Grenze gegenüber kollektiven Zahlungsansprüchen vorgezogen. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Drei Startmodi und konkrete Fortsetzung nach Erstattungen oder neuer Vertragsfassung ergänzt.",
       "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
       "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
-      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt."
+      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt.",
+      "Verbandsrechtlichen Zweck vor die Aufnahme gestellt; C-757/22 mit konkreter Verarbeitung und Grenze gegenüber kollektiven Zahlungsansprüchen vorgezogen."
     ],
-    "sha256": "5b199d101b856c73399df2cb5d5c0902863f6ec787d928e4211c88830d714df4"
+    "sha256": "b140ffb0dcfad506db5a6904d6e26392953358eb397e010e4dd276316a1c972e",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -114,16 +116,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Datenschutzvortrag, Gruppenabgrenzung, konkrete Rechenmethode, Gegenäußerung, Finanzierungsänderung und Registerfrist führen zu überarbeiteten Anträgen und Verbrauchertexten. Vorhandene Serienfallgruppen und Entscheidungslimits bleiben erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Datenschutzvortrag, Gruppenabgrenzung, konkrete Rechenmethode, Gegenäußerung, Finanzierungsänderung und Registerfrist führen zu überarbeiteten Anträgen und Verbrauchertexten. Vorhandene Serienfallgruppen und Entscheidungslimits bleiben erhalten. Redaktionelle Einstiegsprüfung 16.10.2026: Verbandsrechtlichen Zweck vor die Aufnahme gestellt; C-757/22 mit konkreter Verarbeitung und Grenze gegenüber kollektiven Zahlungsansprüchen vorgezogen. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Anspruchsgruppen und kollektiver Gesamtbetrag anhand von Dubletten, Erstattungen und Vertragsabweichungen ausgearbeitet.",
       "Finanzierungsverbote und Offenlegung sowie Dreiwochenfrist ab Verhandlungsschluss ohne Paragraf-193-Verschiebung aus aktuellen amtlichen Texten integriert.",
       "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
       "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
-      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet."
+      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
+      "Verbandsrechtlichen Zweck vor die Aufnahme gestellt; C-757/22 mit konkreter Verarbeitung und Grenze gegenüber kollektiven Zahlungsansprüchen vorgezogen."
     ],
-    "sha256": "7bd8a6f707321ca4902c8cc6427159bd5a51120743282db8829f5fd3cbb33b22"
+    "sha256": "358d60d113e6d6c650ccb7bfed1809677f10152137764aabac8e0f8350411c7c",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

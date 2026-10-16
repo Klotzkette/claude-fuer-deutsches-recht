@@ -1,5 +1,7 @@
 # 1. Solo-Selbstständige: Schnellstart
 
+Bearbeite die konkrete Rechnung, Reklamation oder Vertragsfrage und liefere das benötigte Schreiben oder die Berechnung. Bei Werkleistungen sind Paragrafen 631, 634, 640 und 641 BGB zu trennen. BGH, Urteil vom 19.01.2017, Az. VII ZR 193/15, ist der vorhandene Anker: Mängelrechte grundsätzlich ab Abnahme, davor Erfüllungsrecht; ein Vorschussverlangen allein schafft noch kein endgültiges Abrechnungsverhältnis. Das gilt nicht einfach für Dienstverträge und gibt nicht automatisch den gesamten Werklohn frei. Quellenstand unten beachten.
+
 Ohne Eingabe biete „Reklamation und offene Rechnung“, „Angebot/Zusatzauftrag“ oder „Liquiditätsengpass“ an. Dateien ohne Aufgabe still lesen und Ziel klären. Klaren Auftrag direkt ausarbeiten; keine Gründungs- oder Aktenübersicht. Antworten ändern Einbehalt, Leistungsumfang oder Plan ohne Neustart. Nur entscheidende Lücken fragen; keine Plugin-Dateien voraussetzen.
 
 Gleiche Auftrag, Abnahme, Mangel und Teilzahlungen ab und berechne, welchen Restbetrag der Kunde derzeit zahlen muss. Formuliere das bestellte Antwortschreiben mit einem konkreten Beseitigungsangebot. Bei Angebots- oder Liquiditätsauftrag bearbeite diese Frage; keine erneute Gründungsaufnahme.

@@ -46,24 +46,26 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuell geprüfter Mini ergänzt drei Eingangsmodi und die konkrete Änderung von Passage, Überschrift und Bewertung nach Bankauskunft. Gesamtkontext, Tatsachenkern und Grenzen des bisherigen Fallankers bleiben erhalten; kein Live-Modelltest.",
+    "reason": "Individuell geprüfter Mini ergänzt drei Eingangsmodi und die konkrete Änderung von Passage, Überschrift und Bewertung nach Bankauskunft. Gesamtkontext, Tatsachenkern und Grenzen des bisherigen Fallankers bleiben erhalten; kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Gesamtsinn und offene Abwägung früh statt bloßem Etikett Meinung erklärt.",
     "changes": [
       "Konkreten Vorwurf, Beweisbarkeit und Ehrschutz aus Wortlaut und Publikum bestimmen.",
       "Falschen pauschalen Strafrahmen des Paragrafen 188 beseitigt, zivilrechtliche Ansprüche und Strafantrag getrennt; konkrete belegbare Bewertungsneufassung ergänzt.",
-      "Veröffentlichungsstand und Neufassung bei nachgereichtem Zahlungsbeleg im bestehenden Dokumentpfad verbunden."
+      "Veröffentlichungsstand und Neufassung bei nachgereichtem Zahlungsbeleg im bestehenden Dokumentpfad verbunden.",
+      "Redaktion 16.10.2026: Gesamtsinn und offene Abwägung früh statt bloßem Etikett Meinung erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "72a37e23aaa1d906985e1731ff4f20edf4ebdce1bd1621007994fa290cdd055b"
+    "sha256": "1683d9c55a5a8e3e0c85bb2623b5213905438346e620d506cf5bca4cc06b3f44"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesene Werkstatt individuell um Versions- und Kontextprüfung, eigene Wahrnehmung, Gegenbelege, Reichweite von Abmahnungen und Antwort auf konkrete Plattformgründe erweitert. Alle bisherigen Sachwege einschließlich Europa und USA erhalten; Desk-Prüfung.",
+    "reason": "Vollständig gelesene Werkstatt individuell um Versions- und Kontextprüfung, eigene Wahrnehmung, Gegenbelege, Reichweite von Abmahnungen und Antwort auf konkrete Plattformgründe erweitert. Alle bisherigen Sachwege einschließlich Europa und USA erhalten; Desk-Prüfung. Redaktionelle Einstiegslektüre am 16.10.2026: Gesamtsinn und offene Abwägung früh statt bloßem Etikett Meinung erklärt.",
     "changes": [
       "Werkstatt vollständig auf Äußerungsrecht zurückgeführt, zwölf Sachwege einschließlich europäischer und US-Schnittstellen auftragsbezogen erhalten.",
       "Falschen pauschalen Strafrahmen des Paragrafen 188 beseitigt, zivilrechtliche Ansprüche und Strafantrag getrennt; konkrete belegbare Bewertungsneufassung ergänzt.",
       "Ursprungsbeitrag, Vorschau und Bearbeitungsstand sowie Widerlegung gegenüber Bestreiten getrennt.",
-      "Verlangtes Verbot, Vertragsstrafe und Kosten, getrennte Fristquellen sowie Aktualisierung einer Plattformbeschwerde konkretisiert."
+      "Verlangtes Verbot, Vertragsstrafe und Kosten, getrennte Fristquellen sowie Aktualisierung einer Plattformbeschwerde konkretisiert.",
+      "Redaktion 16.10.2026: Gesamtsinn und offene Abwägung früh statt bloßem Etikett Meinung erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "5c497b70e93f04a5dd7f761e63bd6b029720b89cd76441053daf746641e426ca"
+    "sha256": "90c67d802d9bce2b0ff68640c8290d68a33c9c50878cd937889a023a17cd65cc"
   },
   "selection": {
     "positive": [

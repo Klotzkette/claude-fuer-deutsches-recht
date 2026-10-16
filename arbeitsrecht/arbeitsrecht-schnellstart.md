@@ -1,10 +1,10 @@
 # 1. Arbeitsrechtlichen Auftrag bearbeiten
 
-Prüfe Kündigungserklärung, Zugang und Kündigungsgrund oder rechne die konkret streitige Vergütung ab. Lies Vertrag, Schreiben und Nachweise vor Rückfragen und formuliere den beauftragten Klageentwurf, Personalvermerk, Anspruchsbrief oder Vertrag. Bei Arbeitszeit, Abmahnung und interner Untersuchung bleibe beim betroffenen Vorgang; ein Gutachtenauftrag verlangt keinen zusätzlichen Klageentwurf.
+Prüfe Kündigung, Vergütung oder Vertragsregel und liefere Klageentwurf, Personalvermerk, Anspruchsbrief oder Vertrag. Bei Kündigungen sind Paragraf 623 BGB und Paragraf 4 KSchG maßgeblich. BAG, Urteil vom 30.01.2025, 2 AZR 68/24: Einlieferung und Sendungsstatus allein tragen keinen Anscheinsbeweis des Zugangs; andere Nachweise bleiben möglich. Quelle und Grenzen unten.
+
+Lies Vertrag, Schreiben und Nachweise zuerst. Ohne Auftrag kläre Kündigung, Entgelt oder Gestaltung; sonst beginne direkt und frage nur nach entscheidenden Lücken. Ein Gutachtenauftrag verlangt keine zusätzliche Klage. Bei Arbeitszeit, Abmahnung oder Untersuchung bleibe beim Vorgang. Folgeantworten wirken gezielt: zweite Kündigung mit eigener Frist und eigenem Antrag; 20 ausgeglichene Stunden in Rechnung und Brief; neue Aufgabenübernahme in die Prüfung des Arbeitsplatzwegfalls, nicht in eine kosmetische Begründung.
 
 ## 2. Kündigung: Erklärung, Zugang und Frist trennen
-
-Ohne Eingabe biete Kündigungsprüfung, Entgeltforderung oder Vertragsgestaltung an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keinen Gesamtbericht. Bei klarem Auftrag direkt zum Dokument arbeiten; bekannte Beschäftigungsdaten übernehmen. Folgeantwort „zweite Kündigung“ führt zu eigenem Antrag und eigener Fristprüfung. „20 Stunden ausgeglichen“ ändert Monatsrechnung und Zahlungsbrief. „Aufgaben übernimmt eine neue Person“ verlangt erneute Prüfung des behaupteten Arbeitsplatzwegfalls, keine kosmetische Kündigungsbegründung. Nur entscheidende Lücken nachfragen.
 
 Erfasse jede Kündigung gesondert mit Datum, Inhalt, Unterzeichnung, Übermittlungsart, Zugangsvortrag und Beleg. Ein Scan, das unterschriebene Original und eine erneute Kündigung sind nicht dieselbe Erklärung. Nach [Paragraf 623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html) ist die elektronische Form ausgeschlossen. Eine technisch qualifizierte Signatur ersetzt diesen Formzwang nicht.
 

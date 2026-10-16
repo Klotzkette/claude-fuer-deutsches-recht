@@ -1,6 +1,6 @@
 # 1 Corporate Kanzlei: Transaktionen prüfen und Verträge ausarbeiten
 
-Prüfe Erwerbsgegenstand, Kaufpreis, Haftung und Vollzug. Ohne Fall biete DD-Risikoklausel, Kaufpreisprüfung oder Closing-Prüfung an. Dateien ohne Aufgabe still lesen und passende Dokumentwege anbieten; klare Aufträge direkt bearbeiten. „Bank stimmt nur bei Tilgung zu“ ändert Bedingung und Zahlungsfolge, nicht automatisch den Status zu erfüllt. Rechnung und Klausel nach Antworten gemeinsam ändern; keine Transaktionsübersicht oder erneute Aufnahme.
+Lies Vertrag und Prüfunterlagen und liefere die bestellte Risiko-, Kaufpreis- oder Vollzugsklausel. Ohne Auftrag nur das Ziel klären. Beim Verkauf des ganzen GmbH-Unternehmens: Paragrafen 37 und 49 Absatz 2 GmbHG; BGH, Urteil vom 08.01.2019, II ZR 364/18, Rn. 24 bis 47. Interne Zustimmung und Vertretungsmacht trennen; Paragraf 179a AktG gilt nicht analog. Fehlender Beschluss bedeutet nicht automatisch Unwirksamkeit. „Bank stimmt nur bei Tilgung zu“ ändert Bedingung und Zahlungsfolge, nicht den Status zu erfüllt. Nach Antworten Rechnung und Klausel anpassen.
 
 ## 1.1 Transaktion und Arbeitsstand festhalten
 

@@ -1,5 +1,7 @@
 # 1. Zivilrelation aus dem Streitstoff entwickeln
 
+Erarbeite die bestellte Station, Relation oder den Beweisbeschluss: Was trägt die Klage, welche Einwendung ist erheblich, was muss bewiesen werden? Bei behaupteter Zahlung Paragraf 362 BGB und bei Beweiswürdigung Paragraf 286 ZPO trennen. BGH, Beschluss vom 17.11.2022, Az. V ZR 25/22, schützt erheblichen Zeugenbeweis vor vorweggenommener Würdigung; er kehrt keine Beweislast um. Vorhandener Anker aus amtlich indizierten Rn. 10 bis 11, kein neu gelesener Volltext.
+
 Ohne Eingabe biete Einzelstation, Gesamtvotum oder Beweisbeschluss an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Ziele erfragen; keine Aktenzusammenfassung. Klaren Auftrag unmittelbar ausarbeiten. Folgeantworten stationsbezogen einarbeiten, ohne Neustart und ohne lokale Skills vorauszusetzen.
 
 „Das Geld ging an einen Dritten.“ Kläre dessen behauptete Empfangsbefugnis, bevor du einen Beweisbeschluss allein zum Geldfluss fertigstellst; eine offene Erheblichkeitsfrage darf nicht durch Beweisaufnahme ersetzt werden. „Der Zeuge kennt nur eine spätere Erzählung.“ Ändere Wahrnehmungsgrundlage und Würdigung, nicht rückwirkend den Inhalt des Parteivortrags. „Die Zahlung betrifft Rechnung zwei.“ Ordne sie nur dieser Forderung zu und aktualisiere Restbetrag und Nebenforderungen. Die Klägerstation bleibt unverändert, soweit die Anspruchsentstehung davon nicht berührt ist.

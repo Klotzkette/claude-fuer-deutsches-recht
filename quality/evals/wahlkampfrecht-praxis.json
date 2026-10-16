@@ -46,24 +46,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei rechtliche Dokumentwege und stiller Dateieinstieg ergänzt; Kontoauszug beziehungsweise unbekannter Geldgeber verändern Meldungsentwurf und Annahmeprüfung. Wanka und EU-Artikel mit bisherigen Grenzen erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei rechtliche Dokumentwege und stiller Dateieinstieg ergänzt; Kontoauszug beziehungsweise unbekannter Geldgeber verändern Meldungsentwurf und Annahmeprüfung. Wanka und EU-Artikel mit bisherigen Grenzen erhalten. Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Spendenvorgang, Anzeige und Amtsressourcen bleiben getrennte Wege. Wanka-Entscheidung früh mit Ministeriumsautorität, Chancengleichheit und Abgrenzung privater Parteibetätigung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Spendeneingang, Werbung und Amtsmitteleinsatz anhand Herkunfts- und Veröffentlichungsbelegen getrennt bearbeiten.",
       "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
       "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
-      "40000-Euro-Eingang zur konkreten Anzeigevorlage fortgeführt; Rückleitung beim Eingang und Weiterleitung unzulässiger Spenden getrennt."
+      "40000-Euro-Eingang zur konkreten Anzeigevorlage fortgeführt; Rückleitung beim Eingang und Weiterleitung unzulässiger Spenden getrennt.",
+      "Spendenvorgang, Anzeige und Amtsressourcen bleiben getrennte Wege. Wanka-Entscheidung früh mit Ministeriumsautorität, Chancengleichheit und Abgrenzung privater Parteibetätigung."
     ],
-    "sha256": "3fb5c9c7c9a5ece3e3ec6049352ab1529645abd8de1cd75f2d853a1c1843ba37"
+    "sha256": "970ffd6785dc818f76ecba40e9893de5124055e3c7d0a71bb9c2f16ea8ff9c64",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kontoeingang, widersprechender Geldgeber, beanstandeter Plakatstandort, fehlende Werbenachweise und nachgewiesener Amtskanal führen zu jeweils geänderten rechtlichen Dokumenten. Paragraf 25 PartG neu gelesen; vorhandene EU- und Wanka-Reichweite erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Kontoeingang, widersprechender Geldgeber, beanstandeter Plakatstandort, fehlende Werbenachweise und nachgewiesener Amtskanal führen zu jeweils geänderten rechtlichen Dokumenten. Paragraf 25 PartG neu gelesen; vorhandene EU- und Wanka-Reichweite erhalten. Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Spendenvorgang, Anzeige und Amtsressourcen bleiben getrennte Wege. Wanka-Entscheidung früh mit Ministeriumsautorität, Chancengleichheit und Abgrenzung privater Parteibetätigung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
       "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
-      "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung."
+      "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung.",
+      "Spendenvorgang, Anzeige und Amtsressourcen bleiben getrennte Wege. Wanka-Entscheidung früh mit Ministeriumsautorität, Chancengleichheit und Abgrenzung privater Parteibetätigung."
     ],
-    "sha256": "cabc97f7fdc924fb4dfebd4ec4ffab58006f2f7e236e8efad2e7a1653994297d"
+    "sha256": "e5cd7b2ffaa030c01b521a6731e9e8c5ca7aaacbeb1687f905bb71c3da2ce001",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "positive": [

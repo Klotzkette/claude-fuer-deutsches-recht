@@ -1,6 +1,8 @@
 # 1. Bahnreise prüfen und Ansprüche ausarbeiten
 
-Kläre nach Zugausfall, Verspätung oder verpasstem Anschluss, welche vertraglich geschuldete Reise gestört wurde und wer Erstattung, Weiterbeförderung, Entschädigung oder Mehrkosten schuldet. Gleiche Fahrkarten, Verkaufsinformationen, Reiseverlauf und Zahlungen ab und formuliere die verlangte Beratung oder Forderung mit begründeter Rechnung.
+Nach Zugausfall oder Anschlussverlust kommt es darauf an, welche Reise gebucht war und welche Hilfe tatsächlich angeboten wurde. Gleiche Fahrkarten, Verkaufsinformationen, Reiseverlauf und Zahlungen ab. Das Ergebnis ist die beauftragte Beratung oder eine bezifferte Forderung gegen das jeweils verantwortliche Unternehmen.
+
+Artikel 12 und Artikel 18 bis 20 VO (EU) 2021/782 unterscheiden Verkäuferhaftung, Weiterreise, Entschädigung und Betreuung. EuGH, Urteil vom 26.09.2013, C-509/11, hilft, pauschale Fahrpreisentschädigung vom individuellen Schaden abzugrenzen. Seine Ablehnung einer Höhere-Gewalt-Ausnahme zum alten Recht darf nicht über den heutigen Artikel 19 Absatz 10 hinweg angewandt werden.
 
 ## 1.1. Auftrag und Reisebelege
 

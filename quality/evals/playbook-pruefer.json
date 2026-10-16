@@ -233,20 +233,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs.",
+    "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Konkreten BGH-Anker für die B2B-AGB-Vertragsstrafe ergänzt; Gutscheinfall und fehlende allgemeine NDA-Eurogrenze ausdrücklich unterschieden.",
-      "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen."
+      "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd"
+    "sha256": "8473c6118ebdd6fcb02484606e7b4ea5e474502b726a40ec21d2258c0e93ef07",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest.",
+    "verdict": "revised",
+    "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest. 2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert."
+      "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert.",
+      "2026-10-16, redaktioneller Einstiegsreview: Prüfbericht und Vertragsänderung als Ziel; bestehenden Vertragsstrafenanker im Mini vorgezogen, Rechtswirksamkeit von Playbooktreue getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1241488e23cfdd6051d107d07af916c2d6f688cb1aa7034dc9a716899db2ff8b"
+    "sha256": "50ed3d9d93e6d20af51a931a7a53bda7025192c6405d626a026dd8e13355aad4",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "focus_review": {
     "method": "desk_review",

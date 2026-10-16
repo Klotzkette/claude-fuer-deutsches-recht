@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten.",
+    "norms_or_source_basis": "Paragrafen 1375 Absatz 2 und 1379 BGB",
+    "selected_anchor_identifiers": [
+      "XII ZB 558/23"
+    ],
+    "application_limit": "Stichtag und Darlegungslast begründen weder automatische Bankbelegpflicht noch die Illoyalität jeder Vermögensminderung.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "3df3847c61505003974447e5461bc0c109457babc2c2ccb2360129654f84dedd",
+      "characters": 7368,
+      "utf8_bytes": 7461,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "7e2b06152125265ea8792d83a922ddfbbfa816110de8ccc112fb3946a715bb4b",
+      "characters": 42205,
+      "utf8_bytes": 42810,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-familienrecht",
   "reviewed_on": "2026-09-30",
@@ -82,15 +113,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest.",
+    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "XII ZB 558/23 samt amtlichem Link und Grenzen unmittelbar in die Zugewinnprüfung eingebunden.",
       "Doppelte Start- und Abschlussformulierungen gekürzt; Unterhalt, Versorgungsausgleich, Sorge und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "04a3e48d6fa3b1bbc357481cf743ac53091de215c4272a2791a603e1f0a6aaa0",
+    "sha256": "3df3847c61505003974447e5461bc0c109457babc2c2ccb2360129654f84dedd",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -225,16 +257,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest.",
+    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Konkrete Erfüllungsprüfung nach Paragraf 1375 Absatz 2 Satz 2 BGB ergänzt.",
       "Belegter Verbrauch ist nicht stets illoyal; bloßer anderer Trennungstag beseitigt Beweislastfolge nicht.",
       "Verfahrensüberschrift fachüblich umbenannt; keine zusätzliche Pflichtkaskade.",
       "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "d721136bcb574448ed83e96ebb069f5eaed41c3479ad6f89e276e3461cc69304",
+    "sha256": "7e2b06152125265ea8792d83a922ddfbbfa816110de8ccc112fb3946a715bb4b",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

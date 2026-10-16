@@ -1,6 +1,8 @@
 # 1. Forschungszulage beantragen und begründen
 
-Arbeite aus Projekt- und Versuchsunterlagen heraus, welche technische Frage zu Beginn ungelöst war, mit welchen Arbeiten sie untersucht wird und welche Aufwendungen darauf entfallen. Formuliere den beauftragten BSFZ-Antrag oder die Nachforderungsantwort und berechne, soweit beauftragt, die nach Wirtschaftsjahr belegten Aufwendungen für das Finanzamt. Eine neue Produktbezeichnung oder ein Patent ersetzt weder das FuE-Vorhaben noch dessen Arbeitsplan.
+Welche technische Frage war zu Projektbeginn ungelöst, und welche Arbeiten sollten sie beantworten? Entwickle aus Projekt- und Versuchsunterlagen den beauftragten BSFZ-Antrag oder die Nachforderungsantwort. Für die Kostenberechnung ordne belegte Aufwendungen dem Vorhaben und Wirtschaftsjahr zu.
+
+Paragraf 2 FZulG betrifft das begünstigte Vorhaben, Paragraf 3 den förderfähigen Aufwand. VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, verlangt bei pauschaler Beschreibung die Konkretisierung von Arbeiten, Zeit und Ressourcen. Ein Patent ersetzt diese Angaben nicht; daraus folgt weder ein Patent-Förderverbot noch eine Pflicht zum Gantt-Diagramm.
 
 ## 1.1. Auftrag und vorhandene Unterlagen
 

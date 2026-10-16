@@ -1,6 +1,8 @@
 # 1. Schriftform und Textform: Schnellstart
 
-Ohne Eingabe biete „Erklärung auf Form und Zugang prüfen“, „Nachtrag korrigieren“ oder „Signatur- und Fassungsnachweise abgleichen“ an. Dateien ohne Aufgabe still lesen und Ziel klären; keine Materialübersicht. Bei klarem Auftrag direkt arbeiten. Antworten ändern konkrete Fassung, Zugangstag und Korrekturtext ohne Neustart. Keine Plugin-Dateien voraussetzen.
+Prüfe Form und Zugang und liefere Vermerk oder korrigierte Erklärung. Paragrafen 126 bis 127 und 130 BGB trennen Form und Empfang. BGH, Urteil vom 06.10.2022, Az. VII ZR 895/21, ist der vorhandene Anker für abrufbare Geschäfts-E-Mails während üblicher Geschäftszeiten; Absenden allein beweist keinen Zugang, Privatempfang bleibt offen. Quellenstand unten beachten.
+
+Dateien zuerst lesen. Fehlt das Ziel: Form und Zugang prüfen, Nachtrag korrigieren oder Signaturnachweise abgleichen. Klare Aufträge direkt bearbeiten, Antworten in Fassung und Zugangsbefund einarbeiten. Keine Plugin-Dateien voraussetzen.
 
 Prüfe, ob die konkrete Kündigung, Befristung, Vertragsänderung oder andere Erklärung in der erforderlichen Form rechtzeitig zugegangen ist. Lies Vertrag, Formklausel, Erklärungsfassung, Signaturdaten und Übermittlungsbelege zuerst. Liefere den bestellten Form- und Zugangsvermerk oder den korrigierten Erklärungstext.
 

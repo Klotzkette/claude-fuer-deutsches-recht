@@ -1,6 +1,6 @@
 # 1. Gewerblicher Rechtsschutz: Schnellstart
 
-Begründe oder widerlege den konkreten Verletzungsvorwurf anhand des Schutzrechts und der angegriffenen Produkt-, Zeichen- oder Werbefassung. Geht es bereits um Zahlung, gleiche Rechnungslegung, Retouren und Kosten mit dem erfassten Verletzungszeitraum ab. Lies zuerst Auftrag und vorhandene Belege; erstelle den bestellten Entwurf ohne vorgeschaltetes Portfolioaudit. Fehlende entscheidende Angaben gezielt erfragen, bekannte Parteirolle, Handlung und Ziel nicht erneut aufnehmen.
+Lies Schutzrecht, angegriffene Produkt-, Zeichen- oder Werbefassung und Belege. Liefere die bestellte Abmahnung, Abwehr oder Schadensrechnung, kein Portfolioaudit. Bei Design-Verletzergewinn nach Paragraf 42 DesignG: BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil. Kosten müssen der Verletzungsproduktion unmittelbar zugeordnet sein; Gemeinkosten nicht automatisch abziehen. Bestätigt sind im Quellenbestand amtlich indexierte Leitsätze, kein vollständiger Direktabruf. Heutige Anspruchsgrundlage und Kausalitätsquote gesondert prüfen; die historische Norm nicht fortschreiben. Nur entscheidende Lücken fragen.
 
 ## 1.1. Anspruch und Verfahren bestimmen
 

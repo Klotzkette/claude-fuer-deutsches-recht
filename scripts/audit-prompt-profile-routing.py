@@ -105,7 +105,6 @@ REVIEWED_BRAND_PARAGRAPHS: dict[str, dict[str, str]] = {
         "a5e073ae0661ab6463f15d003640673f216c667c54964f2b3b36db42ae6e8455": "Verlinkte Anbieterdokumentation zu Computer Use und Browsergrenzen.",
     },
     "ki-verordnung-verbotene-praktiken/ki-verordnung-verbotene-praktiken-werkstatt.md": {
-        "903f12f54a66574e00d1ad80566848e48e490616efc50cadc83acda9dc4da589": "Verwendbare Umgebungen und tatsächliche Datei- und Browserfunktionen.",
         "9931ab7883264f1c1f5435a20a1a763932c6b4df9b7510d2aaa5b4298d25c24f": "Die Bezeichnung Copilot ersetzt keine Prüfung der gesetzlichen Ausnahme.",
     },
 }

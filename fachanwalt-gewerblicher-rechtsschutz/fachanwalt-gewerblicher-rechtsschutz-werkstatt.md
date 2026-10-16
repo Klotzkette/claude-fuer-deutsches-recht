@@ -1,6 +1,8 @@
 # 1. Schutzrechtsverletzung, Abmahnung und Abwehr bearbeiten
 
-Prüfe, ob das beanstandete Produkt, Zeichen oder Werbemittel das bezeichnete Recht verletzt und welches konkrete Verbot oder welcher Zahlungsanspruch daraus folgt. Lies zuerst Schutzrechtsunterlagen, angegriffene Fassung, Abmahnung, Titel und Korrespondenz. Begründe die beauftragte Abmahnung, Erwiderung, Berechnung oder Beratung; ein Einzelstreit verlangt kein vorgeschaltetes Portfolioaudit und ein Gutachten keine zusätzliche Klage.
+Prüfe anhand von Schutzrecht, angegriffener Fassung, Abmahnung und Titel den konkreten Verletzungsvorwurf. Liefere die bestellte Abmahnung, Erwiderung, Berechnung oder Beratung; Einzelstreit und Gutachten lösen weder Portfolioaudit noch zusätzliche Klage aus.
+
+Für eine Design-Verletzergewinnrechnung sind Paragraf 42 DesignG und Paragraf 287 ZPO zuzuordnen. BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil, verlangt unmittelbare Zuordnung der abgezogenen Kosten zur Verletzungsproduktion. Gemeinkosten sind kein automatischer Abzug; die Kausalitätsquote bleibt gesondert zu prüfen. Der vorhandene Nachweis bestätigt amtlich indexierte Leitsätze, nicht die vollständigen Gründe. Die damalige Anspruchsnorm nicht als heutige Grundlage ausgeben.
 
 ## 1.1. Streitgegenstand und Nachweise festlegen
 

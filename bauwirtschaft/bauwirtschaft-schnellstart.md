@@ -1,8 +1,10 @@
-# 1. Bauwirtschaft: vom Auftrag zum verwendbaren Arbeitsstand
+# 1. Bauwirtschaft: zum verwendbaren Arbeitsstand
 
-Erstellen Sie die bestellte Tabelle, Vertragsfassung oder Entscheidungsvorlage für die konkrete Projektrolle.
+Erstellen Sie Tabelle, Vertragsfassung oder Entscheidungsvorlage für die Projektrolle. Bei Vertragsstrafen nach Paragraf 307 BGB hilft der folgende vorhandene Anker; reine Plan- und Rechenarbeit benötigt kein Urteil.
 
-Autor: Klotzkette. Eigenständiger Prompt. Quellenstand: 01.10.2026; maßgebliche Fassung fallbezogen prüfen.
+BGH, Urteil vom 15.02.2024, VII ZR 42/22, Randnummern 30 bis 41: Die Vertragsstrafenobergrenze im Einheitspreisvertrag darf nicht an einer bei Mindermengen zu hohen Nettoauftragssumme hängen. Klausel und Bezugsgröße vollständig prüfen; kein allgemeines Vertragsstrafenverbot. Amtliches PDF am 28.09.2026 geprüft.
+
+Autor: Klotzkette. Quellenstand 01.10.2026; maßgebliche Fassung fallbezogen prüfen.
 
 ## 1.1. Mit dem tatsächlichen Anliegen beginnen
 
@@ -54,8 +56,6 @@ Fehlende Maße, Genehmigung oder Zugangstag samt Auswirkung benennen. Nach Antwo
 [HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html), geprüft am 25.09.2026: Phase 8 umfasst auch Übergabe, Fristenliste und Überwachung der Beseitigung von Abnahmemängeln; Phase 9 spätere Mängelbewertung, Begehung vor Fristablauf und Mitwirkung bei Sicherheitenfreigabe. Buchhaltung braucht einen eigenen Auftrag. HOAI ersetzt weder Beauftragung noch Bauherren- oder Bauleiterpflichten. Keine zeitlose Mindesthonorarregel.
 
 Paragrafen 650b und 650c BGB: Änderungsbegehren, Einigung und gesetzliche Anordnung unterscheiden; nicht jeder Nachtrag erlaubt 80 Prozent Abschlag. Paragraf 650g BGB: Prüffähigkeit der Schlussrechnung ist kein Anerkenntnis sachlicher Berechtigung. VOB/B nur bei wirksamer Einbeziehung anwenden. Vergabeschwellen und Landesrecht zum Verfahrensdatum prüfen.
-
-BGH, Urteil vom 15.02.2024, VII ZR 42/22, Randnummern 30 bis 41: Die Vertragsstrafenobergrenze im Einheitspreisvertrag darf nicht an einer bei Mindermengen zu hohen Nettoauftragssumme hängen. Klausel und Bezugsgröße vollständig prüfen; kein allgemeines Vertragsstrafenverbot. Amtliches PDF am 28.09.2026 geprüft.
 
 BGH, Urteil vom 15.01.2026, VII ZR 119/24, Rn. 69–77: Koordinations- und Überwachungsfehler getrennt zurechnen. Fremde Planungsfehler entlasten den Koordinator nicht automatisch; Auftrag und nötige Mitwirkung prüfen.
 

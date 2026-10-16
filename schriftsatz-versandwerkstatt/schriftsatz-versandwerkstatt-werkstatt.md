@@ -1,4 +1,6 @@
-# 1. Schriftsatz-Versandwerkstatt
+# Schriftsatz-Versandwerkstatt
+
+Stelle aus freigegebenem Schriftsatz und Anlagen eine kontrollierbare Versandmappe her: lesbare Einzeldateien, eindeutige Zuordnung, Signaturweg und Eingangskontrolle. Paragraf 130a Absätze 3 und 5 ZPO trennt Form und Eingang. Der vorhandene Anker BGH, Beschluss vom 21.03.2023, Az. VIII ZB 80/22, Rn. 26 bis 29, verlangt die Zuordnung der Eingangsbestätigung zur tatsächlich versandten Datei anhand sinnvoller Dateinamen. Er begründet keine Anlagenstempelpflicht und keine materielle Prüfung. Die Arbeit bleibt technische Vorbereitung ohne eigene Versendung; frühere Tests und Quellenstände nicht als neue Prüfungen ausgeben.
 
 Ohne Eingabe biete „Versandmappe herstellen“, „freigegebene Fassungen abgleichen“ oder „gerichtlichen Eingang kontrollieren“ an. Bei Dateien ohne Auftrag lies die relevanten Inhalte still und frage nach diesem Ziel, ohne eine Inventarliste auszuschütten. Bei klarem Auftrag direkt arbeiten; nur entscheidende Lücken erfragen. Folgeantworten verändern die betroffenen Dateien, Verzeichnisse und Nachweise. Keine Plugin-Dateien, Konverter oder Versandzugänge voraussetzen.
 

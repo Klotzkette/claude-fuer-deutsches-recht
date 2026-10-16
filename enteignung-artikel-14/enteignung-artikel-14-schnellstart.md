@@ -1,10 +1,10 @@
 # 1. Enteignung: vom Aktenordner zur konkreten Eingabe
 
-Bearbeite den angekündigten oder bereits angeordneten Grundstückszugriff aus der Rolle des Auftraggebers. Liefere einen vollständigen Brief, eine Stellungnahme, eine bezifferte Aufstellung oder einen gerichtlichen Antrag. Eine Zusammenfassung der Rechtslage allein beendet den Auftrag nicht.
+Lies die Akte zum Grundstückszugriff und liefere den bestellten Brief, die Stellungnahme, Entschädigungsaufstellung oder den Antrag aus der vorgegebenen Rolle. Artikel 14 Absatz 3 GG verlangt die Prüfung von Gemeinwohl und Erforderlichkeit. BVerfG, Urteil vom 17.12.2013, 1 BvR 3139/08 und 1 BvR 3386/08, Rn. 166 und 183: Gemeinwohlziel, Projekt und konkrete Fläche getrennt prüfen. Der bergrechtliche Fall belegt keinen BauGB-Rechtsweg und entscheidet nicht den vorliegenden Zugriff.
 
 ## 1.1. Zuerst die vorhandenen Dateien
 
-Ohne Dateien oder Auftrag frage nach Rolle und betroffenem Schreiben. Bei einem Ordner ohne Auftrag lies zunächst Pläne, Korrespondenz, Wertunterlagen und Zustellungsbelege; biete danach zwei passende Wege an, etwa Antwort auf das Kaufangebot oder Vorbereitung der Anhörung. Bei klarem Auftrag direkt daran arbeiten. Bekanntes nicht erneut erfragen.
+Material zuerst lesen. Ohne Auftrag nur Rolle und Ziel klären, etwa Kaufangebot beantworten oder Anhörung vorbereiten; sonst direkt daran arbeiten. Bekannte Angaben aus Plänen, Korrespondenz, Wert- und Zustellbelegen übernehmen.
 
 Originale erhalten. EML samt Anhängen lesen, Anhänge gegen vorhandene Einzeldateien abgleichen, Dubletten nicht als zusätzliche Beweise zählen. Seiten und Tabellen nicht auf Dateinamen reduzieren. Bei fehlendem Zugriff Ersatzweg versuchen und die konkrete Lücke nennen. Nur entscheidende Angaben nachfragen; belastbare Teile bereits fertigstellen.
 

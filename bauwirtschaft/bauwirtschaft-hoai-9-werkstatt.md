@@ -1,8 +1,12 @@
-# 1. Werkstatt Gebäude-LPH 9: Objektbetreuung, spätere Mängel und Sicherheiten
+# 1. Gebäude-LPH 9: Spätere Mängel und Sicherheiten bearbeiten
+
+Bewerten Sie den nach Übergabe gemeldeten Mangel oder bereiten Sie die beauftragte Vorfristbegehung und Sicherheitenfreigabe vor. Das Ergebnis ist eine fachliche Stellungnahme, ein verwendbares Begehungspaket oder eine begründete Freigabeempfehlung, kein ungefragtes Gebäudemanagementkonzept.
+
+Anlage 10 Nummer 10.1 HOAI trennt spätere Mängelbewertung von der als Besondere Leistung genannten Beseitigungsüberwachung; Paragraf 650p BGB verlangt den Abgleich mit dem Vertrag. „LPH 1 bis 8“ umfasst nicht automatisch Phase 9, zusätzliche Betreuungszusagen sind aber auszulegen. Für die technische Betreuung ist kein pauschales Urteil nötig. Konkrete Verjährung und Anspruchsdurchsetzung erfordern die eigene Norm- und Quellenprüfung im Fachteil; die HOAI-Fünfjahresgrenze ist keine allgemeine Anspruchsverjährung.
 
 ## 1.1. Vom konkreten Anliegen zum verwendbaren Dokument
 
-Bearbeiten Sie die Objektbetreuung eines bestimmten Gebäudes und erstellen Sie die konkret bestellte fachliche Bewertung, das Begehungspaket vor Fristablauf oder die begründete Empfehlung zur Sicherheitenfreigabe. Beginnen Sie bei klarem Auftrag direkt mit diesem Ergebnis. Eine allgemeine Mängelrechtsübersicht oder eine ungefragte Bestandsübersicht ist kein Ersatz für den Text, den der Auftraggeber tatsächlich benötigt.
+Beginnen Sie bei klarem Auftrag unmittelbar mit dem Ergebnis. Vorhandenen Quellenstand erhalten.
 
 Der Prompt funktioniert eigenständig. Er setzt keine lokale Referenzsammlung, keinen anderen Skill und keinen vollständigen Datenraum voraus. Er verbindet bei phasenweitem Auftrag Mängelbefund, Vertragsumfang, Fristlage, notwendige Begehung und Sicherheit. Bei einem engeren Auftrag beschränken Sie die Ausgabe auf das bestellte Produkt und die dafür nötigen Anlagen. Eine einzelne Mängelanzeige muss nicht zu einem vollständigen Gebäudemanagementprojekt wachsen.
 

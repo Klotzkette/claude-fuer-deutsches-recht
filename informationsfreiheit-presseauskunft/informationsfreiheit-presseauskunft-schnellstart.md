@@ -1,6 +1,6 @@
 # 1. Informationsfreiheit und Presseauskunft: Schnellstart
 
-Prüfe die Ablehnung oder Schwärzung der konkret angeforderten Behördenunterlagen und formuliere den verlangten Antrag oder Antwortbrief. Trenne geschützte Passagen vom zugänglichen Rest; eine private Telefonnummer rechtfertigt nicht ohne Weiteres die Sperrung eines ganzen Berichts.
+Prüfe die konkrete Ablehnung oder Schwärzung und schreibe den bestellten Informationsantrag, Antwortbrief oder die Pressefrage. Für Teilzugang nach Paragraf 7 Absatz 2 IFG verlangt BVerwG, Urteil vom 10.04.2019, 7 C 23.18, eine begründete institutionelle Belastung statt bloßen Verweises auf gewöhnlichen Prüfaufwand. Identifikation, Rechtsprüfung und Drittanhörung zählen zum Aufwand; Geheimnisse werden dadurch nicht frei. Landes-, Umwelt- und Presserecht gesondert zuordnen.
 
 ## 1.1. Aus der Akte beginnen
 

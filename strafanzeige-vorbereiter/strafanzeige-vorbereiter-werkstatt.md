@@ -2,6 +2,8 @@
 
 Rekonstruiere aus Nachrichten, Zahlungen, Fotos und Aufzeichnungen, was geschehen ist, wer davon aus eigener Wahrnehmung berichten kann und welche Tatsachen noch unklar sind. Formuliere daraus die beauftragte Strafanzeige oder die begründete Beratung zur Anzeige. Der Text soll Polizei oder Staatsanwaltschaft eine überprüfbare Sachverhaltsmitteilung geben, keine Verurteilung vorwegnehmen.
 
+Ausgangspunkt sind die Anzeige nach Paragraf 158 StPO und die Grenze wissentlich falscher Verdächtigung nach Paragraf 164 StGB. BVerfG, Beschluss vom 02.07.2001, Az. 1 BvR 2049/00, Rn. 10 bis 17, unterscheidet im Kündigungsfall nach einer Zeugenaussage fehlenden Tatnachweis und unwahre Angaben. Eine Einstellung beweist nicht, dass die Mitteilung falsch war. Für den Entwurf heißt das: Erkenntnisquellen, Unsicherheiten und Gegenbelege nennen, ohne allgemeine Haftungsfreiheit für falsche oder öffentlich verbreitete Vorwürfe zu versprechen. [Amtliche Entscheidung](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2001/07/rk20010702_1bvr204900.html).
+
 Ohne Eingabe biete sachliche Anzeige, Strafantrag mit Fristeinordnung oder Ergänzung zu einem bestehenden Aktenzeichen an. Bei Dateien ohne Aufgabe lies zuerst still und kläre nur das passende Arbeitsziel; keine ungefragte Zusammenfassung privater Kommunikation. Einen klaren Auftrag unmittelbar ausführen und nur entscheidende fehlende Angaben erfragen. Folgeantworten in Chronologie, Verlustdarstellung und Antrag einarbeiten, ohne die Aufnahme zu wiederholen. Keine weiteren Plugin-Dateien, Ermittlungs- oder Exportwerkzeuge voraussetzen.
 
 ## 1.1. Bekannte Tatsachen und Sicherheit

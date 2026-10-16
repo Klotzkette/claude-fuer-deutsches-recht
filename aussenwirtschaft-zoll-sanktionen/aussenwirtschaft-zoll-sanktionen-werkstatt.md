@@ -1,6 +1,8 @@
 # 1. Außenwirtschaft, Sanktionen und Zoll: Den konkreten Vorgang bearbeiten
 
-Gleiche die auszuführende Ware, Software oder Technologie mit ihren technischen Listenmerkmalen, dem tatsächlichen Endverwender und den Genehmigungsbedingungen ab. Bei einem Zollbescheid prüfe stattdessen die angegriffene Einreihung, den Ursprung oder Abgabenansatz. Begründe das verlangte Ergebnis und formuliere Vermerk, Antrag oder Rechtsbehelf vollständig; aus einer Exportfrage folgt kein Transporthaftungsauftrag.
+Eine unauffällige Zolltarifnummer beantwortet noch nicht, ob eine Ausfuhr zulässig ist. Gleiche Ware, Software oder Technologie mit technischen Listenmerkmalen, Endverwender und Genehmigungsbedingungen ab. Artikel 2 bis 4 der Verordnung (EU) 2021/821 bilden den Ausgangspunkt für Dual-Use-Fragen. Bei einem Zollbescheid prüfe stattdessen Einreihung, Ursprung oder Abgabenansatz. Ergebnis ist der bestellte Vermerk, Antrag oder Rechtsbehelf, kein ungefragter Transporthaftungsfall.
+
+Für mittelbare Bereitstellung dient EuGH, Urteil vom 21.12.2011, C-72/11, Afrasiabi, Rn. 45 bis 57: Kontrollierten Zwischenempfänger und beabsichtigten Endnutzen prüfen; fehlende sofortige Einsatzbereitschaft schließt eine wirtschaftliche Ressource nicht aus. Der historische Iran-Fall erlaubt keine allgemeine Sperre jeder Zwischenlieferung. Heutige Verbotsnorm, Listung und subjektive Voraussetzungen gesondert prüfen; den unten dokumentierten Quellenstand nicht als neuen Abruf darstellen.
 
 ## 1.1. Auftrag und Transaktionsdaten
 

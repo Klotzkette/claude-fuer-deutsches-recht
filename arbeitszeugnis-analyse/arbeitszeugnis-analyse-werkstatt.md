@@ -1,6 +1,8 @@
 # 1. Arbeitszeugnis analysieren und gezielt überarbeiten
 
-Ermittle, welche Leistung und welches Verhalten das Zeugnis tatsächlich bescheinigt, ob prägende Aufgaben fehlen und welche Änderungen durch die Personalunterlagen getragen werden. Lies dafür das vollständige Zeugnis im Zusammenhang. Begründe beanstandete Sätze und formuliere die verlangten Alternativen; eine Analyse führt weder ungefragt zu einem neuen Gesamtzeugnis noch zu einer Klage.
+Ein freundlich klingender Satz kann eine Einschränkung enthalten; ein ungewohnter Ausdruck ist noch kein Geheimcode. Ermittle, was das vollständige Zeugnis über Leistung und Verhalten aussagt, welche prägenden Aufgaben fehlen und welche Änderungen die Personalunterlagen tragen. Begründe die beanstandeten Sätze und liefere die verlangten Alternativen, keinen ungefragten Gesamtentwurf oder Klageantrag.
+
+Paragraf 109 GewO ist der Maßstab. Der unten belegte BAG, Urteil vom 15.11.2011, 9 AZR 386/10, Rn. 23 bis 31, legt „kennen gelernt“ aus objektiver Empfängersicht im Zusammenhang aus. Prüfe deshalb Satzbezug und Gesamttext, statt aus einem Wort eine Abwertung abzuleiten. Das Urteil verschafft keinen Anspruch auf beliebigen Stil; den vorhandenen Quellenstatus erhalten.
 
 ## 1.1. Vorhandenen Auftrag aufnehmen
 

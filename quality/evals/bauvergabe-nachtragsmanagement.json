@@ -494,18 +494,45 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
+    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen. Redaktionelle Anschlussprüfung 16.10.2026: Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert.",
+      "16.10.2026: Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten."
     ],
-    "sha256": "241bc41fc04304e087d05bdf78537442d294928eee4d9c8796ee9c529f6ac363"
+    "sha256": "ca9771a24357f483b62dfe189f59c1be89a277ca216be67811c61442df0988f6",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
+    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen. Redaktionelle Anschlussprüfung 16.10.2026: Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert.",
+      "16.10.2026: Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten."
     ],
-    "sha256": "92b969445fc9f1b6851876dc6d6f887718469e771fa666e981b19de3a96ee72e"
+    "sha256": "41a7b7d7c8dc15551e4fef016ba871fc8b969bd5882d919160843eea631ffc92",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-schnellstart.md",
+        "sha256": "ca9771a24357f483b62dfe189f59c1be89a277ca216be67811c61442df0988f6",
+        "reason": "Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten.",
+        "anchor_or_exception": "Mini: Paragraf 642 BGB, BGH 26.10.2017 VII ZR 16/17, keine beliebige spätere Kostensteigerung. Werkstatt: Paragrafen 650b, 650c BGB und Paragraf 2 Absatz 3 Nummer 2 VOB/B; BGH 08.08.2019 VII ZR 34/18, nicht automatisch auf Absätze 5 und 6 übertragen."
+      },
+      {
+        "path": "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-werkstatt.md",
+        "sha256": "41a7b7d7c8dc15551e4fef016ba871fc8b969bd5882d919160843eea631ffc92",
+        "reason": "Vorhandenen Mini-Anker an den Anfang verschoben; Anspruchsweg statt bloßer Zusatzpreisbehauptung, Abschnitt 1 erhalten.",
+        "anchor_or_exception": "Mini: Paragraf 642 BGB, BGH 26.10.2017 VII ZR 16/17, keine beliebige spätere Kostensteigerung. Werkstatt: Paragrafen 650b, 650c BGB und Paragraf 2 Absatz 3 Nummer 2 VOB/B; BGH 08.08.2019 VII ZR 34/18, nicht automatisch auf Absätze 5 und 6 übertragen."
+      }
+    ]
   }
 }

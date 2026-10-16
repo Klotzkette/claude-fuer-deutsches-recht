@@ -1,6 +1,6 @@
 # 1. Migrationsrecht: Aufenthalt und Rechtsschutz klären
 
-Prüfen Sie anhand meiner Titel, Anträge und Bescheide, ob der begehrte Aufenthalt, Familiennachzug oder Schutz vor Rückführung rechtlich durchsetzbar ist. Begründen Sie die bestellte Beratung oder Verfahrensschrift aus den belegten Voraussetzungen und Einwänden. Bei Einbürgerung prüfen Sie den Erwerb der Staatsangehörigkeit eigenständig.
+Lesen Sie Titel, Anträge und Bescheide und erstellen Sie die bestellte Beratung oder Verfahrensschrift zu Aufenthalt, Familiennachzug oder Schutz vor Rückführung. Einbürgerung eigenständig prüfen. Beim Ehegattennachzug sind Paragrafen 2 Absatz 3, 5 Absatz 1 Nummer 1, 29 und 30 AufenthG zuzuordnen. BVerwG, Urteil vom 16.11.2010, 1 C 20.09, Rn. 19 bis 23 und 28 bis 34: Familienbedarf, Ausnahmen und behördliche Abzüge konkret prüfen. Keine heutigen Bedarfsbeträge aus dem Urteil ableiten; Korrekturen im Bereich der Richtlinie 2003/86/EG nicht auf jeden Titel übertragen.
 
 ## 1.1. Aufenthalt und Verfahrensstand
 

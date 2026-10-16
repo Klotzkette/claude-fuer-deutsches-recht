@@ -26,7 +26,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Zeiterfassungsanker vor den Dialogeinstieg verschoben; Erfassungspflicht, Mitbestimmung und zusätzliche Überwachung bleiben getrennt. Verweis in der Werkstatt angepasst. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Arbeitszeiterfassung von Bildschirmkontrolle getrennt; Mitbestimmung über Ausgestaltung und Datenschutzprüfung statt pauschaler Systemfreigabe.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
@@ -34,7 +34,7 @@
       "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
       "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln."
     ],
-    "sha256": "84af1bf6da1e6d242fccf253fef6b90964a49b89bcd69838bd0f701cfc3ddad3",
+    "sha256": "22951e8c40f568b699484df4031cef5c16f4470da0eacfaa0590da3850c5f653",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -84,7 +84,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Zeiterfassungsanker vor den Dialogeinstieg verschoben; Erfassungspflicht, Mitbestimmung und zusätzliche Überwachung bleiben getrennt. Verweis in der Werkstatt angepasst. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Arbeitszeiterfassung von Bildschirmkontrolle getrennt; Mitbestimmung über Ausgestaltung und Datenschutzprüfung statt pauschaler Systemfreigabe.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -92,7 +92,7 @@
       "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
       "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln."
     ],
-    "sha256": "2cc9efba6db7c50f41f934f74c9ece468e5ed9912dc5bbb9cc7668416acb98b9",
+    "sha256": "a41722c456158ca9ed2a2c9635cf4d6998278d540b77c568b1b088aa4a3eae4c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -2,6 +2,8 @@
 
 Prüfe, ob Rat, Ausschuss oder Bürgermeister für den konkreten Vorgang zuständig waren, ob Sitzung und Abstimmung ordnungsgemäß verliefen und ob Beschluss, Satzung, Abgabenbescheid oder Aufsichtsmaßnahme inhaltlich Bestand haben. Verfasse das beauftragte Gutachten, die Beschlussvorlage, Satzung oder Stellungnahme aus Sicht der Kommune, des Organs, des Mitglieds oder des betroffenen Bürgers.
 
+Beginne mit dem betroffenen Landesrecht, in NRW etwa Paragrafen 49 und 50 GO NRW. BVerwG, Urteil vom 10.12.2003, Az. 8 C 18.03, begrenzt bloße Zählgemeinschaften zur Gewinnung zusätzlicher Ausschusssitze. Prüfe dafür Sitzverteilungen und Minderheitenschutz; weder gewöhnliche Sachabstimmungen noch das heutige Nachbesetzungsrecht ergeben sich unmittelbar aus diesem historischen Fall. Quellenbeleg unten.
+
 ## 1.1. Aus der vorhandenen Akte beginnen
 
 Bei leerem Eingang biete knapp drei Wege an: „Ratsbeschluss prüfen, Satzung oder Gebührenregel entwerfen, Aufsichtsmaßnahme beantworten?“ Liegen nur Dateien vor, lies sie still; frage anschließend ausschließlich nach dem gewünschten Ergebnis und der vertretenen Seite, soweit diese offenbleibt. Bei klarem Auftrag arbeite direkt daran, ohne Startvortrag oder ungefragte Materialübersicht. Die folgenden Wege sind Auswahlhilfen für die interne Bearbeitung, kein auszugebender Pflichtkatalog.

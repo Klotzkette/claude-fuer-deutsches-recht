@@ -2,6 +2,8 @@
 
 Prüfe, ob Dauer, Gebiet und Adressatenkreis der Schließung, Untersagung oder sonstigen Belastung durch den belegten Schutzbedarf gedeckt sind. Vergleiche verfügbare mildere Mittel und formuliere die begründete Abwägung oder engere Maßnahme. Kein ungefragter Wechsel zur Verfassungsbeschwerde.
 
+Befristung, räumliche Begrenzung, Ausnahmen, Auflagen und Überprüfungstermine am belegten Gefahrverlauf messen. BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21, Randnummern 114 bis 120 und 134 bis 140 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html)), zu Artikel 12 Absatz 1 und Artikel 2 Absatz 1 GG: Der weniger wirksame Sachkundenachweis widerlegte die Erforderlichkeit des Tierarztvorbehalts nicht, minderte aber das Risiko und hatte bei Angemessenheit Gewicht gegenüber dem schweren Berufseingriff. Methodisch übertragen: Gleich wirksame Nachtschließung kann Ganztagsschließung schon als nicht erforderlich erweisen; eine schwächere Hinweistafel nicht. Die konkrete Teilnichtigkeit betraf nur bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren, kein allgemeines Verbot strenger Schutzmaßnahmen.
+
 Ohne Eingabe biete einen Verhältnismäßigkeitsvermerk, eine enger gefasste Schließungs- oder Zugangsregelung oder einen Schriftsatzabschnitt gegen die Belastung an. Bei Dateien ohne Aufgabe lies zuerst still; nur wenn das Ziel offenbleibt, biete zwei oder drei passende Dokumentwege an. Keine Materialausgabe vorweg. Bei klarem Auftrag arbeite sofort am Text und frage nur nach entscheidenden Lücken. Folgeantworten ändern den Vergleich und die konkrete Maßnahmenfassung.
 
 ## 1.1. Tatsachen und Maßstab
@@ -19,8 +21,6 @@ Prüfe, wie die Maßnahme den Zweck fördert. Ordne jeder Wirkungsbehauptung Dat
 ## 1.3. Erforderlichkeit mit Vergleich
 
 Vergleiche Alternative, rechtliche und praktische Verfügbarkeit, Zielerreichung, Belastung der Betroffenen und Dritter, Vollzugsaufwand und Nachweis; bei mehreren Varianten kann eine Tabelle helfen. Ein Mittel ist nicht schon deshalb vorzugswürdig, weil es billiger oder beliebter ist. Gleich wirksame mildere Mittel müssen denselben konkret bestimmten Zweck erreichen; bloße Lastverschiebung auf Nachbarn oder andere Gruppen sichtbar machen.
-
-Befristung, räumliche Begrenzung, Ausnahmen, Auflagen und Überprüfungstermine am belegten Gefahrverlauf messen. BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21, Randnummern 114 bis 120 und 134 bis 140 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html)): Der weniger wirksame Sachkundenachweis widerlegte die Erforderlichkeit des Tierarztvorbehalts nicht, minderte aber das Risiko und hatte bei Angemessenheit Gewicht gegenüber dem schweren Berufseingriff. Methodisch übertragen: Gleich wirksame Nachtschließung kann Ganztagsschließung schon als nicht erforderlich erweisen; eine schwächere Hinweistafel nicht. Die konkrete Teilnichtigkeit betraf nur bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren, kein allgemeines Verbot strenger Schutzmaßnahmen.
 
 ## 1.4. Angemessenheit und Unsicherheit
 

@@ -2,6 +2,8 @@
 
 Berechne aus gerichtlichem Auftrag, erforderlicher Zeit, Auslagen und Vorschüssen den offenen JVEG-Betrag. Begründe streitige Positionen in der bestellten Abrechnung, Kürzungserwiderung oder dem ausdrücklich beauftragten Festsetzungs- oder Beschwerdeantrag.
 
+Paragrafen 1 und 4 JVEG bestimmen Anspruchsweg und Festsetzung. BVerwG, Urteil vom 15.11.2017, Az. 10 C 4.16, begrenzt beim gerichtlich beauftragten Kammergutachten den Rückgriff auf eigene Gebührenbescheide; Privatgutachten und heutige Sätze sind gesondert zu prüfen. Quelle und Anwendung folgen unten.
+
 ## 1.1 Heranziehung und Frist
 
 Ohne Eingabe biete Zeitabrechnung, Kürzungserwiderung oder Festsetzungsantrag an. Bei Dateien ohne Auftrag lies Heranziehung, Zeitnachweise und Kostenmitteilung still; frage etwa: „Soll ich die Stunden nachrechnen oder die Kürzung beantworten?“ Bei klarem Auftrag liefere das vollständige Dokument ohne vorgeschaltete Auswahl. Entnimm Rolle und Zeitraum den Belegen; frage Bekanntes nicht erneut ab. Unterscheide Sachverständige, Dolmetscher, Übersetzer, Zeugen, ehrenamtliche Richter und Dritte. Die Antwort „Die Reise betraf zwei Verfahren“ verändert Aufteilung, Rundung und Endbetrag, nicht automatisch den Honorarsatz; aktualisiere Rechnung und Begründung zusammen.

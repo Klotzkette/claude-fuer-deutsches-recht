@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gegenleistungszuordnung und heutige Vermutungsregel werden von historischer Influencer-Rechtsprechung getrennt.",
+    "reason": "Gegenleistungszuordnung und heutige Vermutungsregel werden von historischer Influencer-Rechtsprechung getrennt. Einstiegsredaktion 16.10.2026: Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Influencer I auf bezahlten Beitrag statt pauschal auf jede Verlinkung bezogen",
       "Paragraf 5a Absatz 4 UWG nach heutiger Fassung berücksichtigt",
       "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert."
     ],
-    "sha256": "c701a5d07fc0b239d60491e8b64e2d1ca888f8b8893d37016d0002d72d0b5903"
+    "sha256": "2ffbe9ace02d5d527d7e40316d536d754ae3e66c817575ded22f7130d843ddaf"
   },
   "selection": {
     "positive": [
@@ -81,14 +82,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Kampagnenkennzeichnung, Kooperation, Accountsperre und Gesundheit bleiben getrennte Prüfungen; das Werbelabel heilt weder Lizenzmangel noch unbelegten Claim.",
+    "reason": "Kampagnenkennzeichnung, Kooperation, Accountsperre und Gesundheit bleiben getrennte Prüfungen; das Werbelabel heilt weder Lizenzmangel noch unbelegten Claim. Einstiegsredaktion 16.10.2026: Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Influencer I auf bezahlten Beitrag statt pauschal auf jede Verlinkung bezogen",
       "Paragraf 5a Absatz 4 UWG nach heutiger Fassung berücksichtigt",
       "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
-      "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext."
+      "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext.",
+      "Einstiegsredaktion 16.10.2026: Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert."
     ],
-    "sha256": "ad01a3fd416aac50bd4784642441b4a1b620fe788aad27ddb85091fa48e192d5"
+    "sha256": "95ca7dd139bc5499dd41697a52d175c1c9cdbba5d753bcea7000f42200e5d3ab"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -149,5 +151,41 @@
     "reference": "influencer-recht/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie, ob Bild, Stimme oder Text synthetisch erzeugt oder verändert wurden und in welcher Rolle der Auftraggeber veröffentlicht. Werbekennzeichnung und KI-Offenlegung erfüllen unterschiedliche Zwecke.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Beitrag, Gegenleistung und Lizenz als getrennte Prüfungen; Influencer-I-Leitsatz nicht auf heutige unbezahlte Fremdwerbung verallgemeinert.",
+    "anchor_or_exception": "BGH, Urteil vom 09.09.2021, I ZR 90/20; Paragraf 5a Absatz 4 UWG",
+    "source_status": "Bestand: amtlich indexierter Leitsatz; Volltext nicht neu gelesen/nicht abrufbar; keine neue Prüfung.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c701a5d07fc0b239d60491e8b64e2d1ca888f8b8893d37016d0002d72d0b5903",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "ad01a3fd416aac50bd4784642441b4a1b620fe788aad27ddb85091fa48e192d5",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "influencer-recht/influencer-recht-schnellstart.md",
+        "sha256": "2ffbe9ace02d5d527d7e40316d536d754ae3e66c817575ded22f7130d843ddaf",
+        "characters": 7099,
+        "utf8_bytes": 7195
+      },
+      {
+        "path": "influencer-recht/influencer-recht-werkstatt.md",
+        "sha256": "95ca7dd139bc5499dd41697a52d175c1c9cdbba5d753bcea7000f42200e5d3ab",
+        "characters": 22026,
+        "utf8_bytes": 22319
+      }
+    ]
   }
 }

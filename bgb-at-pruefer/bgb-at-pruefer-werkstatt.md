@@ -1,6 +1,8 @@
 # 1. Erklärungen und Wirksamkeit im BGB AT prüfen
 
-Entscheide aus Vertragswortlaut, Zugang und Vertretungsverhältnissen, ob das behauptete Rechtsgeschäft den Anspruch trägt oder an fehlendem Konsens, Zustimmung, Form oder wirksamer Anfechtung scheitert. Ordne jeder streitigen Erklärung ihren Urheber, Empfänger und rechtlichen Effekt zu und arbeite diese Begründung in das bestellte Gutachten, die Vertragsüberarbeitung oder das Schreiben ein.
+Entscheide aus Vertragswortlaut, Zugang und Vertretungsverhältnissen, ob das behauptete Rechtsgeschäft den Anspruch trägt oder an fehlendem Konsens, Zustimmung, Form oder wirksamer Anfechtung scheitert. Ordne jeder streitigen Erklärung ihren Urheber, Empfänger und rechtlichen Effekt zu. Ergebnis ist das bestellte Gutachten, die Vertragsüberarbeitung oder das Schreiben, nicht eine abstrakte Sammlung von Wirksamkeitshindernissen.
+
+Ein fremdes Nutzerkonto ersetzt keine Vollmacht: BGH, Urteil vom 11.05.2011, VIII ZR 289/09, Rn. 12–19, wendet Paragrafen 164 und 177 BGB entsprechend an. Prüfe Genehmigung oder konkrete Tatsachen eines zurechenbaren Rechtsscheins; fehlender Passwortschutz allein genügt nicht. Der historische Plattformfall entscheidet weder jede heutige Authentifizierungstechnik noch allgemein die deliktische Haftung. Der bereits dokumentierte Quellenumfang bleibt unten erhalten.
 
 ## 1.1. Anspruchsziel und Erklärungskette
 

@@ -2,6 +2,8 @@
 
 Prüfe Wandelereignis, wandelbares Kapital und Zinsen, Preisdefinition und noch fehlenden Beteiligungsvollzug der GmbH oder UG. Bei Rückzahlung auch die Rangabrede berücksichtigen. Liefere die beauftragte Vertragsfassung, Rechnung oder Vollzugsunterlage; eine Rechenfrage verlangt kein vollständiges Transaktionspaket.
 
+Bei Rückzahlungsverlangen nach BGB Paragraf 488 die Rangabrede zuerst lesen: [BGH, Urteil vom 5. März 2015, IX ZR 133/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1), Randnummern 15 bis 19, 22 bis 34 und 42, erkennt beim qualifizierten Rangrücktritt eine vorinsolvenzliche Zahlungssperre an. Für InsO Paragrafen 19 Absatz 2 Satz 2 und 39 Absatz 2 reichen bloßes Insolvenzrang-Etikett oder Stundung nicht; Rangtiefe, Sperre und Nebenforderungen prüfen. Eine trotz Sperre geleistete Zahlung kann nach BGB Paragraf 812 zurückzufordern sein; Paragraf 814 und Insolvenzanfechtung gesondert prüfen. Nach Insolvenzreife keine freie zweiseitige Aufhebung unterstellen. Die Mezzanine-Entscheidung ist keine Formfreigabe für Wandlung; Nachrang bedeutet weder Erlass noch werthaltige Einlage.
+
 Ohne Eingabe biete Wandeldarlehensentwurf, Wandlungsrechnung zur Finanzierungsrunde oder Beschluss- und Notariatsvorlage zum Vollzug an. Bei Dateien ohne Aufgabe lies sie zuerst still; nur bei weiter offenem Ziel biete zwei oder drei passende Dokumentwege an. Bei klarem Auftrag sofort arbeiten und nur entscheidende Unbekannte erfragen; keine feste Fragerunde oder allgemeine Transaktionscheckliste. Antworten verändern Rechnung und betroffenen Dokumenttext.
 
 ## 1.1. Vertrag und Ereignis
@@ -9,8 +11,6 @@ Ohne Eingabe biete Wandeldarlehensentwurf, Wandlungsrechnung zur Finanzierungsru
 Lies Darlehensvertrag mit Nachträgen, Zahlungsbeleg, aktuelle Beteiligungsübersicht und Unterlagen des möglichen Wandelereignisses. Erfasse Darlehensbetrag, Auszahlung, Zinssatz, Zinstagekonvention, Fälligkeit, Rang, Wandlungsrecht oder Wandlungspflicht, Finanzierungsdefinition, Mindestvolumen und ausgeschlossene Zahlungen. Ein unterschriebenes Term Sheet ist nicht ohne Vertragsprüfung eine abgeschlossene qualifizierte Finanzierungsrunde.
 
 Trenne Finanzierung, Laufzeitende, Verkauf und Liquidation. Stelle für das tatsächlich eingetretene Ereignis Voraussetzungen, Belege, Erklärungen und offene Bedingungen zusammen. Bestehen mehrere Darlehen, jedes zuerst nach seinem Vertrag prüfen. Keine einheitliche Cap- oder Zinsregel aus einer anderen Tranche übernehmen.
-
-Bei Rückzahlungsverlangen nach BGB Paragraf 488 die Rangabrede zuerst lesen: [BGH, Urteil vom 5. März 2015, IX ZR 133/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1), Randnummern 15 bis 19, 22 bis 34 und 42, erkennt beim qualifizierten Rangrücktritt eine vorinsolvenzliche Zahlungssperre an. Für InsO Paragrafen 19 Absatz 2 Satz 2 und 39 Absatz 2 reichen bloßes Insolvenzrang-Etikett oder Stundung nicht; Rangtiefe, Sperre und Nebenforderungen prüfen. Eine trotz Sperre geleistete Zahlung kann nach BGB Paragraf 812 zurückzufordern sein; Paragraf 814 und Insolvenzanfechtung gesondert prüfen. Nach Insolvenzreife keine freie zweiseitige Aufhebung unterstellen. Die Mezzanine-Entscheidung ist keine Formfreigabe für Wandlung; Nachrang bedeutet weder Erlass noch werthaltige Einlage.
 
 ## 1.2. Wandlungsbetrag
 

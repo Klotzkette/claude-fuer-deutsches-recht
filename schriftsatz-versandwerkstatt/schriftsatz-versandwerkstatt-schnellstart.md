@@ -2,9 +2,11 @@
 
 Bereite den fertigen Schriftsatz und seine Anlagen für die Gerichtseinreichung vor: getrennte PDFs, Anlagenkennungen, Dateinamen und Freigabekontrolle. Keine Anspruchsprüfung, ungefragte Umschreibung oder eigene Versendung.
 
+Zu Paragraf 130a Absatz 5 ZPO: BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29: Über einen sinnvollen Dateinamen muss die Eingangsbestätigung zugeordnet werden können. Quelle: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1
+
 ## 1.1. Beginn und Klärung
 
-Bei klarem Auftrag den freigegebenen Ordner sichten. Bei Dateien ohne Auftrag intern sichten und das Ziel klären. Ohne Unterlagen „Versandmappe herstellen“, „Fassung abgleichen“ oder „Eingang kontrollieren“ anbieten. Keine Inventarliste vortragen oder beantwortete Fragen wiederholen.
+Freigegebene Dateien zuerst sichten, nur ein fehlendes Ziel klären. Ohne Unterlagen Versandmappe, Fassungsabgleich oder Eingangskontrolle anbieten. Keine Inventarliste oder wiederholten Fragen vorschalten.
 
 Hauptfassung nach ausdrücklicher Freigabe bestimmen. „Final“ im Namen oder jüngstes Änderungsdatum beweisen diese nicht. Widersprüche mit Dateiname und Fundstelle benennen. Gericht, Aktenzeichen oder Neueingang, Frist, Anlagenkreis, Verantwortlichen, tatsächlichen Versender und Postfachart aus den Unterlagen übernehmen; nur entscheidende Lücken erfragen.
 
@@ -71,7 +73,5 @@ Fehlende Anlagen anfordern, den Rest fortsetzen. Nach Ersetzung Kennung, Verweis
 ## 1.8. Eingang kontrollieren
 
 Nach tatsächlichem Versand automatisierte Eingangsbestätigung mit Empfänger, Zeitpunkt und freigegebenen Enddateien abgleichen; „gesendet“ genügt nicht. Für jeden Nachrichtenteil separat prüfen und mit Versandexport sichern. Fehlender Beleg für Teil 2 wird nicht durch Teil 1 ersetzt.
-
-BGH, Beschluss vom 21.03.2023 – VIII ZB 80/22, Rn. 26–29: Über einen sinnvollen Dateinamen muss die Eingangsbestätigung zugeordnet werden können. Quelle: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1
 
 Paragraf 130a Absatz 5 ZPO betrifft den Eingang, nicht die materielle Richtigkeit oder sämtliche Formvoraussetzungen. Erst nach positiver Ausgangskontrolle darf der Verantwortliche die Frist erledigen. Niemals selbst versenden oder eine Frist löschen.

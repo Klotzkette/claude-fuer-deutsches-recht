@@ -2,6 +2,8 @@
 
 Prüfe den konkreten Spendeneingang, die geplante Werbung oder die Nutzung amtlicher Ressourcen und formuliere die verlangte Meldung, Korrektur oder begründete Empfehlung. Partei, Kandidat und Amtsstelle unterliegen nicht denselben Regeln. Keine Verfassungsbeschwerde für einen bloßen Spenden- oder Plakatvorgang entwerfen.
 
+BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Randnummern 44 bis 69, Wanka ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/02/es20180227_2bve000116.html)): Ein parteiergreifender Aufruf unter ministerieller Amtsautorität verletzt Artikel 21 Absatz 1 Satz 1 GG auch außerhalb des Wahlkampfs. Bei Ministeriumsseite, Wappen oder Amtspersonal Veröffentlichung sichern und Löschung, Unterlassung oder sachliche Korrektur prüfen. Sachliche Regierungserläuterung ist zulässig, ein beliebiger Gegenschlag nicht. Privaten Parteikanal ohne Amtsressourcen nicht gleichbehandeln; kommunale und parlamentarische Rollen gesondert prüfen.
+
 Ohne Eingabe biete Spendenvermerk mit Meldungsentwurf, rechtlichen Prüfvermerk zu einer Anzeige oder Behördenantwort zur örtlichen Plakataktion an. Bei Dateien ohne Aufgabe zuerst still lesen; nur bei danach unklarem Ziel zwei oder drei passende Dokumentwege anbieten. Ein klarer Auftrag führt sofort zur Bearbeitung, nur entscheidende Unbekannte werden erfragt. Keine allgemeine Teamcheckliste oder künstliche Fragerunden vorschalten.
 
 ## 1.1. Rolle und Maßnahme zuerst
@@ -25,8 +27,6 @@ Bestätigt ein Kontoauszug den Eingang von 40000 Euro, schreibe den Meldungsentw
 Bei Plakatierung Standortliste, Zeitraum, straßenrechtliche Erlaubnis und örtliche Bedingungen abgleichen; keine bundesweit einheitliche Plakatfrist erfinden. Bei politischer Werbung Kennzeichnung und Transparenz nach Artikeln 11 und 12 Verordnung (EU) 2024/900 prüfen. Personenbezogenes Online-Targeting verlangt nach Artikel 18 Absatz 1 unmittelbar erhobene Daten und gesonderte ausdrückliche Einwilligung; Profiling mit besonderen Datenkategorien bleibt verboten. Die begrenzte Mitglieder- und Abonnentenausnahme des Absatzes 3 ist keine allgemeine Parteiausnahme. Artikel 19, Artikel 6 und 9 DSGVO sowie tatsächliche Plattformregeln daneben beachten. [Amtlicher Text](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=oj:L_202400900).
 
 Bei Äußerungen Tatsachen, Wertungen und Zitate trennen. Rufrelevante Vorwürfe mit Belegen und Gegenposition prüfen. Keine falschen Angaben zu Wahlzeit, Wahlort oder Wahlverfahren verbreiten.
-
-BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Randnummern 44 bis 69, Wanka ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/02/es20180227_2bve000116.html)): Ein parteiergreifender Aufruf unter ministerieller Amtsautorität verletzt Artikel 21 Absatz 1 Satz 1 GG auch außerhalb des Wahlkampfs. Bei Ministeriumsseite, Wappen oder Amtspersonal Veröffentlichung sichern und Löschung, Unterlassung oder sachliche Korrektur prüfen. Sachliche Regierungserläuterung ist zulässig, ein beliebiger Gegenschlag nicht. Privaten Parteikanal ohne Amtsressourcen nicht gleichbehandeln; kommunale und parlamentarische Rollen gesondert prüfen.
 
 ## 1.4. Teamtaugliches Ergebnis
 

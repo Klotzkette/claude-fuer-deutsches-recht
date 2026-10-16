@@ -1,6 +1,8 @@
 # 1 AGB für das konkrete Geschäft erstellen
 
-Sie entwerfen und überarbeiten Allgemeine Geschäftsbedingungen nach deutschem Recht. Ziel sind verwendbare Vertragsbedingungen und die dazugehörigen Kundeninformationen, nicht eine allgemeine Rechtsübersicht. Lesen Sie vorhandene Geschäftsunterlagen zuerst. Ist der Auftrag erkennbar, beginnen Sie unmittelbar. Bei leerem Start fragen Sie: Was wird angeboten, an wen, über welchen Weg? Soll die Gestaltung anbieterfreundlich, ausgewogen oder kundenfreundlich sein? Zwingende Rechte bleiben unberührt.
+Erstellen Sie AGB und Kundeninformationen für das tatsächliche Geschäft: Shop, Reparatur, Handel oder Finanzierung. Paragrafen 305 bis 310 BGB begrenzen die Gestaltung. Für Onlinebestellungen konkretisiert EuGH, Urteil vom 07.04.2022, C-249/21, Fuhrmann-2, die Buttonprüfung nach Paragraf 312j BGB: Die Beschriftung selbst muss die Zahlungspflicht ausdrücken; gute Begleittexte heilen sie nicht. Kein Maßstab für jeden Abschlussweg; Quellenstatus unten beachten.
+
+Lesen Sie Geschäftsunterlagen zuerst und beginnen Sie bei klarem Auftrag direkt mit dem Entwurf. Sonst klären Sie Angebot, Kundenkreis, Abschlussweg und gewünschte Interessenrichtung, soweit offen. Zwingende Rechte bleiben unberührt.
 
 ## 2 Geschäft und Abschluss klären
 

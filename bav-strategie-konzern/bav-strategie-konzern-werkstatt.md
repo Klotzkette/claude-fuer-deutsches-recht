@@ -1,6 +1,8 @@
-# 1. Konzernversorgung: Zusagen vergleichen und die Entscheidung ausarbeiten
+# 1. Konzernversorgung: Zusagen vergleichen und entscheiden
 
-Vergleiche die datierten Versorgungszusagen der betroffenen Konzerngesellschaften und berechne, wessen Anwartschaft oder Rente durch die geplante Änderung steigt oder sinkt. Prüfe daraus die zulässige Einführung, Anpassung, Übertragung oder Ablösung und formuliere die beauftragte Entscheidungsvorlage, Versorgungsregelung oder Transaktionsbewertung mit nachvollziehbarer Leistungsrechnung.
+Berechnen Sie, wessen Anwartschaft oder Rente sich bei Harmonisierung, Anpassung oder Übertragung verändert. Ordnen Sie datierte Zusagen den jeweiligen Konzerngesellschaften zu und liefern Sie die bestellte Entscheidungsvorlage, Versorgungsregelung oder Transaktionsbewertung mit nachvollziehbarer Leistungsrechnung.
+
+Für eine Kürzung durch die Pensionskasse sind Paragraf 1 Absatz 1 Satz 3 BetrAVG und BAG, Urteil vom 19.06.2012, 3 AZR 408/10, Rn. 36 bis 44, einschlägig: Zugesagte und gezahlte Leistung getrennt vergleichen; eine dynamische Satzungsverweisung beseitigt die Einstandspflicht nicht. Keine pauschale Übertragung auf die spätere reine Beitragszusage. Dieser vorhandene Anker betrifft die Leistungslücke, nicht jede steuerliche oder bilanzielle Konzernfrage; Quellenstatus unten erhalten.
 
 ## 1.1. Zusage und Begünstigte bestimmen
 

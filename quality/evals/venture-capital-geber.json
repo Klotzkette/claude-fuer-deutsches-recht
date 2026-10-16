@@ -26,14 +26,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Bei blockiertem Follow-on wird ein Zustimmungsanspruch nicht aus wirtschaftlicher Nützlichkeit abgeleitet; II ZR 275/14 verlangt Unabweisbarkeit und Zumutbarkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: drei Dokumenteinstiege und vollständiges Poolbeispiel ergänzt, pauschale Aufnahmefragen ersetzt; unter 7500 Bytes und Zeichen.",
+    "reason": "Bei blockiertem Follow-on wird ein Zustimmungsanspruch nicht aus wirtschaftlicher Nützlichkeit abgeleitet; II ZR 275/14 verlangt Unabweisbarkeit und Zumutbarkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: drei Dokumenteinstiege und vollständiges Poolbeispiel ergänzt, pauschale Aufnahmefragen ersetzt; unter 7500 Bytes und Zeichen. Redaktioneller Nachtrag 16.10.2026: Enge Zustimmungspflicht bei blockierter Runde vorgezogen; keine Nachschuss- oder Zeichnungspflicht aus wirtschaftlicher Zweckmäßigkeit. Verweis unter 1.9 angepasst; Pool-, Wandlungs-, IP- und Aufsichtswege erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Standortentscheidung nur begründet auf die Blockadeprüfung übertragen, nicht als VC-Finanzierungsurteil ausgegeben.",
       "Alternative Finanzierung, konkrete drohende Nachteile und Belastung des Investors prüfen.",
       "Gesellschaftsrechtliche Mehrheit und Zustimmung zu erhöhten Leistungspflichten auseinandergehalten.",
       "Pooldefinition führt zur korrigierten Beteiligungsrechnung und Klausel; wirtschaftliche Recheneinheiten bleiben vom GmbH-Nennkapital getrennt."
     ],
-    "sha256": "3304e432ed52b508eca455f27b1407bde981beddcd390763bb6e6e85c92f98e5"
+    "sha256": "61f433ecec895a648d1a6a837ae74bba25804295b417c7c71b3c06b998355e14"
   },
   "selection": {
     "positive": [
@@ -81,7 +81,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt bindet den Treuepflichtmaßstab in Down-Round- und Follow-on-Entscheidungen ein und unterscheidet bestehende Mitwirkungspflichten von neuer Kapitalbereitstellung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: Pool, Primär-/Secondary-Geldfluss, Erlösverteilung, Follow-on-Alternativen und IP-Closing-Bedingung als konkrete Antwortpfade ausgebaut.",
+    "reason": "Die Werkstatt bindet den Treuepflichtmaßstab in Down-Round- und Follow-on-Entscheidungen ein und unterscheidet bestehende Mitwirkungspflichten von neuer Kapitalbereitstellung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: Pool, Primär-/Secondary-Geldfluss, Erlösverteilung, Follow-on-Alternativen und IP-Closing-Bedingung als konkrete Antwortpfade ausgebaut. Redaktioneller Nachtrag 16.10.2026: Enge Zustimmungspflicht bei blockierter Runde vorgezogen; keine Nachschuss- oder Zeichnungspflicht aus wirtschaftlicher Zweckmäßigkeit. Verweis unter 1.9 angepasst; Pool-, Wandlungs-, IP- und Aufsichtswege erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Standortentscheidung nur begründet auf die Blockadeprüfung übertragen, nicht als VC-Finanzierungsurteil ausgegeben.",
       "Alternative Finanzierung, konkrete drohende Nachteile und Belastung des Investors prüfen.",
@@ -89,7 +89,7 @@
       "Abweichende Poolbasis und Sekundärkaufpreis verändern Cap Table, Liquiditätsreichweite und Term-Sheet-Definition.",
       "Finanzierungsalternative verändert begrenzte Treuepflichtbewertung; IP-Vertrag oder Nutzungsbeanstandung verändert Offenlegung, Absicherung und konkrete Closing-Bedingung."
     ],
-    "sha256": "e6241384de08bcddf5b2a74196f7f66c66441b42566b5ad430c216668acbe6e8"
+    "sha256": "7c1308b46f39db47aa4fa784d364436b02c4ac64ab8526aefa6403b37b753a7e"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

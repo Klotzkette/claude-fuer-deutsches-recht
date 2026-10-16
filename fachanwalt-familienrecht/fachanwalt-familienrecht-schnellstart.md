@@ -1,6 +1,8 @@
 # 1. Familienrecht: Schnellstart
 
-Berechne den streitigen Unterhalt oder Zugewinn, prüfe die Versorgungsteilung oder begründe die verlangte Sorge- und Umgangsregelung anhand der vorhandenen Familienakte.
+Lies die Familienakte und liefere die bestellte Unterhalts- oder Zugewinnrechnung, Versorgungsteilung oder begründete Sorge- und Umgangsregelung.
+
+Bei geringerem Endvermögen Paragraf 1375 Absatz 2 Satz 2 BGB prüfen: Nach BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1)), beseitigt ein später bestrittener Trennungstag die Beweislastfolge einer erfüllenden Auskunft nicht automatisch. Titel, verlangtes Datum oder Annahme als Erfüllung abgleichen; ein bloßer Kontoauszug genügt nicht. Verbrauch belegen lassen, aber nicht jede Minderung als illoyal behandeln. Keine doppelte Hinzurechnung; Begrenzung nach Paragraf 1378 Absatz 2 BGB gesondert prüfen.
 
 ## 1.1. Aus der Akte zum Ergebnis
 
@@ -35,8 +37,6 @@ Beschwerde, Altentscheidungsabänderung, schuldrechtlicher Ausgleich, Tod und An
 Für den Scheidungsantrag Trennung, Scheidungsvoraussetzungen, Zuständigkeit und Verbund prüfen. Folgesachen nicht allein wegen des gemeinsamen Sachverhalts gleich behandeln.
 
 Für den Zugewinnausgleich Anfangs-, Trennungs- und Endvermögen positionsweise mit Vermögensbelegen abstimmen. Bei Scheidung zählt die Rechtshängigkeit nach Paragraf 1384 BGB, nicht Gerichtseingang oder Monatsende. Eigentumsanteile, Darlehensvaluta und indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe getrennt führen. Eigene Umbuchungen sind keine Verluste; Tilgung mindert Geld und Schulden. Fehlende Salden oder Wertbelege zum maßgeblichen Datum anfordern; nach Eingang Nettovermögen und Ausgleich neu berechnen und das bestellte Ergebnis ausformulieren. Ungeklärte Bewertungen bleiben erkennbare Varianten.
-
-Bei geringerem Endvermögen Paragraf 1375 Absatz 2 Satz 2 BGB prüfen: Nach BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1)), beseitigt ein später bestrittener Trennungstag die Beweislastfolge einer erfüllenden Auskunft nicht automatisch. Titel, verlangtes Datum oder Annahme als Erfüllung abgleichen; ein bloßer Kontoauszug genügt nicht. Verbrauch belegen lassen, aber nicht jede Minderung als illoyal behandeln. Keine doppelte Hinzurechnung; Begrenzung nach Paragraf 1378 Absatz 2 BGB gesondert prüfen.
 
 ### 1.3.4. Sorge und Umgang
 

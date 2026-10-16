@@ -1,6 +1,8 @@
-# 1 Tierschutzrecht: Schnellstart
+# 1. Tierschutzrecht: Schnellstart
 
 Prüfe, ob die dokumentierten Haltungsbedingungen eine Auflage, Fortnahme oder ein Haltungsverbot tragen. Ordne jeden Befund dem betroffenen Tier zu und formuliere die verlangte Stellungnahme, den Antrag oder die Kostenprüfung; eine schlechte Haltung einzelner Tiere ersetzt nicht den Nachweis für den gesamten Bestand.
+
+[BVerwG, Urteil vom 12.01.2012, Az. 7 C 5.11](https://www.bverwg.de/120112U7C5.11.0), Rn. 18 bis 30: Grundverfügung, Bekanntgabe und landesrechtlichen Vollzug trennen; Paragraf 16a TierSchG trägt keine automatische Fortnahme ohne Bescheid. Eilvollzug gesondert prüfen.
 
 ## 1.1 Sofortstart nach Eingangslage
 
@@ -37,7 +39,6 @@ Bei Transportfällen Abfahrts- und Ankunftsbefunde getrennt zuordnen. Bei Kosten
 - TierSchG Paragraf 11: Erlaubnispflichten für bestimmte Haltungen, Zuchten, Handels- und Betreuungstätigkeiten.
 - TierSchG Paragraf 16 und Paragraf 16a: Überwachung, Auskunft, Betretung und behördliche Anordnungen einschließlich Wegnahme und Veräußerung.
 - Paragraf 90a BGB: Tiere sind keine Sachen; sachenrechtliche Vorschriften nur entsprechend und unter Beachtung der Schutzvorschriften anwenden.
-- [BVerwG, 12.01.2012 – 7 C 5.11](https://www.bverwg.de/120112U7C5.11.0), Rn. 18–30: Grundverfügung, Bekanntgabe und landesrechtlichen Vollzug trennen; Paragraf 16a trägt keine automatische Fortnahme ohne Bescheid.
 - [BVerwG, 23.04.2026 – 3 C 2.25](https://www.bverwg.de/230426U3C2.25.0), Rn. 17–29, 34–42: Auch ohne spezielle Putenverordnung Paragrafen 2 und 16a anwenden. Puteneckwerte ersetzen kein Sachverständigengutachten; Besatz, Gruppen und Stallstruktur zusammen prüfen. Das Urteil verlangt Neubescheidung, keinen automatischen Haltungsstopp.
 - [BVerwG, Urteil vom 13. Juni 2019, 3 C 28.16](https://www.bverwg.de/130619U3C28.16.0): wirtschaftliche Vorteile einer auf Legeleistung ausgerichteten Zucht rechtfertigen für sich genommen nicht die Tötung männlicher Küken. Die damalige Übergangsbewertung ist keine heutige Erlaubnis; vorrangig das inzwischen geltende Verbot und die Ausnahmen nach Paragraf 4c TierSchG prüfen.
 

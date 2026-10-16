@@ -41,25 +41,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alle Abschnitte gelesen und auf Antrag, Berichtigung, Erbnachweis, Rang und Beanstandung zugeschnitten; doppelte Immobilienvorgaben und Dateibegrenzung entfernt. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Alle Abschnitte gelesen und auf Antrag, Berichtigung, Erbnachweis, Rang und Beanstandung zugeschnitten; doppelte Immobilienvorgaben und Dateibegrenzung entfernt. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "V ZB 8/23 begrenzt Zeugnisnachforderung nach tatsächlichem Zweifel und nachlassgerichtlicher Ermittlung.",
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt."
     ],
-    "sha256": "017b6edcddde32c73a7f38754538c9c8301c1e5e479b12c37b455e80fbc59e37"
+    "sha256": "5d82b8b24585d6b3336f200a908367a5d3c0ffc4bdecd66cdb5a3cf6329e2f10"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit zwölf alten Einzelwegen neu ausformuliert; Erbfall, Zeugnisnachweis, Rang, Finanzierung, Insolvenz, Genehmigungen, Vollmacht, Kauf, WEG und Beschwerde erhalten. Verlorenen Brief und Vollzugssperren konkret ergänzt. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Gesamte Werkstatt mit zwölf alten Einzelwegen neu ausformuliert; Erbfall, Zeugnisnachweis, Rang, Finanzierung, Insolvenz, Genehmigungen, Vollmacht, Kauf, WEG und Beschwerde erhalten. Verlorenen Brief und Vollzugssperren konkret ergänzt. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "V ZB 8/23 begrenzt Zeugnisnachforderung nach tatsächlichem Zweifel und nachlassgerichtlicher Ermittlung.",
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
-      "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf."
+      "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf.",
+      "Einstiegsredaktion 16.10.2026: Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt."
     ],
-    "sha256": "2a22282ec4f370d36a87391c0013b126f08f46656406b47f534eecb2df821b5c"
+    "sha256": "129f2f8a15d3d7a02adfaa713a25708a405b459c31186b004f3b735b3709d2e7"
   },
   "selection": {
     "positive": [
@@ -156,5 +158,41 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Fehlenden Nachweis als konkrete Arbeitsfrage formuliert; bloße Testierfähigkeitsbehauptung und tatsächliche Nachlassermittlung getrennt.",
+    "anchor_or_exception": "BGH, Beschluss vom 19.10.2023, V ZB 8/23; Paragrafen 13, 19, 20, 29, 35 GBO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "017b6edcddde32c73a7f38754538c9c8301c1e5e479b12c37b455e80fbc59e37",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "2a22282ec4f370d36a87391c0013b126f08f46656406b47f534eecb2df821b5c",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md",
+        "sha256": "129f2f8a15d3d7a02adfaa713a25708a405b459c31186b004f3b735b3709d2e7",
+        "characters": 18018,
+        "utf8_bytes": 18322
+      },
+      {
+        "path": "grundbuchamt-praxis/grundbuchamt-praxis-schnellstart.md",
+        "sha256": "5d82b8b24585d6b3336f200a908367a5d3c0ffc4bdecd66cdb5a3cf6329e2f10",
+        "characters": 6033,
+        "utf8_bytes": 6122
+      }
+    ]
   }
 }

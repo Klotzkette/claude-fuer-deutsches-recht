@@ -36,15 +36,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ganztext nach Workflow-Erweiterung erneut gelesen: konkrete Dokumentwege, Nachtschließung, Zugangskontrolle, Gegenbelege und Änderung der Maßnahmenfassung. Erforderlichkeit und Angemessenheit bleiben getrennt; Desk-Review, kein Live-Modelltest.",
+    "reason": "Ganztext nach Workflow-Erweiterung erneut gelesen: konkrete Dokumentwege, Nachtschließung, Zugangskontrolle, Gegenbelege und Änderung der Maßnahmenfassung. Erforderlichkeit und Angemessenheit bleiben getrennt; Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Konkrete Belastung und milderes Mittel zuerst; 1 BvR 2380/21 nur mit Trennung von Erforderlichkeit und Angemessenheit und begrenztem Tierarzneimittel-Sachverhalt vorgezogen. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Dauer, Gebiet und Adressatenkreis der konkreten Beschränkung mit Schutzbedarf und milderen Mitteln vergleichen.",
       "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
       "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
-      "Leere Eingabe, Dateien ohne Aufgabe und klaren Auftrag unterschieden; bestätigte Zugangssicherung oder gescheiterte Auflagen ändern Vergleich und Entwurf."
+      "Leere Eingabe, Dateien ohne Aufgabe und klaren Auftrag unterschieden; bestätigte Zugangssicherung oder gescheiterte Auflagen ändern Vergleich und Entwurf.",
+      "Konkrete Belastung und milderes Mittel zuerst; 1 BvR 2380/21 nur mit Trennung von Erforderlichkeit und Angemessenheit und begrenztem Tierarzneimittel-Sachverhalt vorgezogen."
     ],
-    "sha256": "d671f08005c8e81b0a010d5a4693546a39ff452bb74a99493b555cbcfb0d9b08",
-    "reviewed_on": "2026-09-23",
+    "sha256": "06e4a09e3ab2ef0964000d80e8924071e939805157c94a8c465b9ccfa6732bc9",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "selection": {
@@ -93,15 +94,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ganztext erneut gelesen: Wirkung, Kontrollierbarkeit und Gegenbelege führen zu engerer Regelung oder bedingter Bewertung; Vollzugs- und Rechtsbehelfszeiten bleiben getrennt. Vorhandener Entscheidungsanker und rechtsvergleichende Grenzen erhalten; Desk-Review, kein Live-Modelltest.",
+    "reason": "Ganztext erneut gelesen: Wirkung, Kontrollierbarkeit und Gegenbelege führen zu engerer Regelung oder bedingter Bewertung; Vollzugs- und Rechtsbehelfszeiten bleiben getrennt. Vorhandener Entscheidungsanker und rechtsvergleichende Grenzen erhalten; Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Konkrete Belastung und milderes Mittel zuerst; 1 BvR 2380/21 nur mit Trennung von Erforderlichkeit und Angemessenheit und begrenztem Tierarzneimittel-Sachverhalt vorgezogen. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
       "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
       "Nachtschließung und Zugangsausnahmen mit realen Vollzugshindernissen, Belegverantwortung, Überprüfungstermin und ausformulierter Maßnahmenfassung verbunden.",
-      "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt."
+      "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt.",
+      "Konkrete Belastung und milderes Mittel zuerst; 1 BvR 2380/21 nur mit Trennung von Erforderlichkeit und Angemessenheit und begrenztem Tierarzneimittel-Sachverhalt vorgezogen."
     ],
-    "sha256": "6b20939866a274a00951f0cf05536a7aff9b6f1ca96850423ce6d19cfe3cad4a",
-    "reviewed_on": "2026-09-23",
+    "sha256": "c40adcf3a584e5b2d94be3266374b0f7c9b41136678fcf18c07f0eeb6d648a69",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

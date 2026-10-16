@@ -1,6 +1,8 @@
 # 1 Eigentums- und Zuordnungsfrage aus den Akten bearbeiten
 
-Kläre, wem das bezeichnete Grundstück oder der frühere volkseigene Vermögenswert heute zusteht und ob eine rechtzeitige Anmeldung gerade dieses Objekt erfasst. Rekonstruiere dafür Entziehung, Rechtsträgerschaft, Übertragung und Rechtsnachfolge aus DDR-, Übergangs- und heutigen Akten. Liefere die beauftragte Bewertung, Archivanfrage oder Behörden- beziehungsweise Grundbuchunterlage; ein Prüfauftrag verlangt keinen zusätzlichen Antrag und keine Klage.
+Rekonstruiere aus DDR-, Übergangs- und heutigen Akten die Rechtsfolge für das bezeichnete Grundstück oder den früher volkseigenen Vermögenswert. Trenne Entziehung, Rechtsträgerschaft, Eigentum und späteren Erwerb. Ergebnis ist die bestellte Bewertung, Archivanfrage oder Behörden- beziehungsweise Grundbuchunterlage, nicht automatisch Antrag oder Klage.
+
+Bei der Reichweite eines Altantrags führen Paragrafen 30, 30a und 31 Absatz 1b VermG zur Frage, ob gerade dieses Objekt rechtzeitig erfasst war. BVerwG, Urteil vom 27.11.2019, 8 C 13.18, Rn. 24 bis 31, verlangt konkrete Ermittlungsansätze und trennt zulässige Präzisierung von Austausch oder Neuanmeldung. Die Rückgabe von Büchern nach AusglLeistG ist kein Grundstücksfall; Sonderfrist und Anspruchsgrund nicht übertragen.
 
 ## 1.1 Objekt und Auftrag bestimmen
 

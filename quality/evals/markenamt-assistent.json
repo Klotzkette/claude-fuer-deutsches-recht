@@ -483,25 +483,27 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger kompakter Amtsworkflow mit fünf begrenzten 2026-Ankern.",
+    "reason": "Eigenständiger kompakter Amtsworkflow mit fünf begrenzten 2026-Ankern. Redaktionelle Einstiegslektüre am 16.10.2026: Konkretes Amtsdokument vor Ablaufkürzeln; Farbmarkenanker mit Altantragsgrenze, Paragrafenzeichen bereinigt.",
     "changes": [
       "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
       "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
       "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
-      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "Redaktion 16.10.2026: Konkretes Amtsdokument vor Ablaufkürzeln; Farbmarkenanker mit Altantragsgrenze, Paragrafenzeichen bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "74fa8d3110b2022137b641a767f7ac1ac30e6da7306ca64a73a8bd6db4067377"
+    "sha256": "b0195a9d90e57814c7d60a13c47f63e79200de659a9681f72fdcf2bb1e0faaa2"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführlicher Workflow für Recherche, Anmeldung, Streitverfahren und Bestand.",
+    "reason": "Ausführlicher Workflow für Recherche, Anmeldung, Streitverfahren und Bestand. Redaktionelle Einstiegslektüre am 16.10.2026: Konkretes Amtsdokument vor Ablaufkürzeln; Farbmarkenanker mit Altantragsgrenze, Paragrafenzeichen bereinigt.",
     "changes": [
       "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
       "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
       "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
-      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "Redaktion 16.10.2026: Konkretes Amtsdokument vor Ablaufkürzeln; Farbmarkenanker mit Altantragsgrenze, Paragrafenzeichen bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "83fcce41a2dc5697ee5596ac271d2d7d3f4976f011b0dde4de983dfbbbeeab83"
+    "sha256": "163ac3949c08e5ff85b6e1bbae97a3c3d1a7e869dad3b3b1121b2a9c051d9da3"
   },
   "focus_review": {
     "verdict": "revised",

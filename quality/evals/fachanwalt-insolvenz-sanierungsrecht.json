@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden.",
+    "norms_or_source_basis": "Paragrafen 15a, 15b, 17 und 19 InsO",
+    "selected_anchor_identifiers": [
+      "II ZR 319/15"
+    ],
+    "application_limit": "Altrechtlicher Paragraf 64 GmbHG ersetzt nicht die heutige Prüfung nach Paragraf 15b InsO; Dienste und Anfechtungschancen nicht pauschal saldieren.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "80f1d91b052b9338ea1367d27d159ad2caa1008aa3153a56d8242927a2a2c003",
+      "characters": 7028,
+      "utf8_bytes": 7128,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "d2e9d07c834738b1a4e0bf5c479f0ded7fd1c297636fd89b6ef50c21c10c1578",
+      "characters": 19266,
+      "utf8_bytes": 19555,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-insolvenz-sanierungsrecht",
   "reviewed_on": "2026-09-23",
@@ -51,25 +82,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kernfall verbindet Organzahlung und Massegegenwert mit der zeitlich zutreffenden Haftungsnorm. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Journalzeile ist eine Umbuchung zwischen eigenen Konten -> Vorgang verknüpfen, doppelte Masseabflussrechnung beseitigen und Haftungstext korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert.",
+    "reason": "Der Kernfall verbindet Organzahlung und Massegegenwert mit der zeitlich zutreffenden Haftungsnorm. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Journalzeile ist eine Umbuchung zwischen eigenen Konten -> Vorgang verknüpfen, doppelte Masseabflussrechnung beseitigen und Haftungstext korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert. Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert."
+      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "fdc60222f42843d9d6a0c794c08454291014c39f9dddc8c1b42bc9adf8d89122"
+    "sha256": "80f1d91b052b9338ea1367d27d159ad2caa1008aa3153a56d8242927a2a2c003"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die breiten Sanierungswege bleiben erhalten, während der Zahlungsabgleich wirtschaftliche Zuordnung, Verwertbarkeit und tatsächlich zurückgewährte Werte verlangt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert.",
+    "reason": "Die breiten Sanierungswege bleiben erhalten, während der Zahlungsabgleich wirtschaftliche Zuordnung, Verwertbarkeit und tatsächlich zurückgewährte Werte verlangt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Entscheidungen tragen die vorgelagerte Insolvenzreifeprüfung auch im Organhaftungs-Hauptproblem/Fokusskill. Sorgfalt und geringerer Gläubigerschaden weiterhin gesondert. Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung.",
-      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert."
+      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Liquiditätslage, Haftung und beauftragte Sanierungsentscheidung werden vor dem Ablauf benannt; Zahlungsabfluss und verwertbarer Gegenwert bleiben verbunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b50204cde4c61141aa67cceba687cf387d2c2f83403a4895be2f6bd0800e4c49"
+    "sha256": "d2e9d07c834738b1a4e0bf5c479f0ded7fd1c297636fd89b6ef50c21c10c1578"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",

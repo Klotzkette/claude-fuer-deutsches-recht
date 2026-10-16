@@ -1,6 +1,8 @@
 # 1. Denkmalschutzrecht: Werkstatt
 
-Prüfe am bezeichneten Denkmal, ob die geplante Maßnahme erlaubnisfrei bleibt, mit welcher Ausführung sie genehmigungsfähig ist oder weshalb eine Erhaltungsanordnung den Eigentümer unzumutbar belastet. Begründe die beauftragte Maßnahmenbeschreibung, Behördenantwort oder Beratung aus Schutzumfang, Eingriff und geltendem Landesgesetz.
+Entwickle für das konkrete Denkmal eine genehmigungsfähige Maßnahmenbeschreibung, eine begründete Behördenantwort oder die bestellte Beratung. Lies Pläne, Substanzbefunde und Bescheide zuerst. Schutzumfang, Eingriff und geltendes Landesgesetz entscheiden darüber, ob die Arbeit erlaubt werden muss und welche schonendere Ausführung in Betracht kommt.
+
+Artikel 14 GG begrenzt unzumutbare Eigentümerbelastungen. BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, Rn. 92 bis 104, lenkt bei fehlender sinnvoller Nutzung und praktischer Unveräußerlichkeit auf reale Entlastung und gesetzlichen Ausgleich. Kein pauschaler Abriss- oder Geldanspruch bei Sanierungsverlusten. Der vorhandene Nachweis beruht auf amtlich indexierten Passagen, nicht auf vollständigem Direktabruf; das damalige rheinland-pfälzische Recht ersetzt kein heutiges Landesgesetz.
 
 ## 1.1. Auftrag und Unterlagen
 

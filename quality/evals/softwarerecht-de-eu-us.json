@@ -41,17 +41,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden. 2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "C-128/11 in die Rechtekettenprüfung integriert.",
       "III ZR 79/09 als begrenzten Werkvertragsmaßstab eingesetzt; fremde Branchenverzeichnis- und ungeprüfte ASP-Anker entfernt.",
       "Leerstart: Mangel/Abnahme, Nutzungsrechte oder SaaS-Exit wählen.",
       "Ein belegter Versionswechsel verändert Fehlervergleich und Nachbesserungsverlangen; fehlende Exportanhänge verändern die vollständige Exit-Klausel.",
-      "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden."
+      "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
+      "2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8df771d98da3e849078ad222de9444990d757c25ab2e05c1dea7ef367ca702ff",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "5b2ad5a232735f9bb8669a039e15d13869aa4f3bf901f1f91d1e71153f133901",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -99,17 +101,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden. 2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "C-128/11 in die Rechtekettenprüfung integriert.",
       "III ZR 79/09 als begrenzten Werkvertragsmaßstab eingesetzt; fremde Branchenverzeichnis- und ungeprüfte ASP-Anker entfernt.",
       "Leerstart: Mangel/Abnahme, Nutzungsrechte oder SaaS-Exit wählen.",
       "Ein belegter Versionswechsel verändert Fehlervergleich und Nachbesserungsverlangen; fehlende Exportanhänge verändern die vollständige Exit-Klausel.",
-      "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden."
+      "Vertragsgemäße Schnittstelle von späterem Änderungswunsch trennen; interne und externe Verwertung sowie Freelancerrechte gesondert vereinbaren; SLA-Messung, Schaden und Exportvollständigkeit mit überprüfbaren Dokumentanforderungen verbinden.",
+      "2026-10-16, redaktioneller Einstiegsreview: Klausel, Mängelrüge und Rechtebewertung zuerst; UsedSoft auf Downloadkopien begrenzt, kein SaaS- oder US-Freibrief. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c7656f1985880ba7ae5834ba138022652bd2decb1f7d2b5bad5f8243a97b2aaf",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "6986c9cfe2cc7191961715b304846f949b6bc12295e4f9f9f26816da5bb26b60",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

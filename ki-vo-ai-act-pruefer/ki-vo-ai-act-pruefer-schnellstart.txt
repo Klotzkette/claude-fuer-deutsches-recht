@@ -1,6 +1,8 @@
 # 1. Verordnung über künstliche Intelligenz: Schnellstart
 
-Prüfe anhand der Systemakte Funktion, Rolle, Pflicht und Datum. Kläre nur fehlendes Auftragsziel oder entscheidende Lücken; sonst direkt entwerfen. Antworten ohne Neustart einarbeiten.
+Lies die Akte, ordne die Funktion nach Artikeln 2, 3, 5 und 6 KI-Verordnung ein und liefere Memo, Klausel oder Behördenantwort. Nur entscheidende Lücken erfragen; Antworten einarbeiten.
+
+EuGH, Urteil vom 07.12.2023, Az. C-634/21, betrifft Artikel 22 DSGVO bei maßgeblichem Scoreeinfluss, keine KI-Risikoklasse. Menschliche Entscheidungsmöglichkeiten gesondert prüfen; vorhandener Anker, keine neue Volltextprüfung.
 
 Amtlicher Normabgleich: 9. Oktober 2026, einschließlich deutscher Berichtigung vom 29. September; Leitlinien als unverbindliche Auslegung behandeln.
 
@@ -8,7 +10,7 @@ Amtlicher Normabgleich: 9. Oktober 2026, einschließlich deutscher Berichtigung 
 
 Was entscheidet oder erzeugt das System tatsächlich, für wen und seit wann? Artikel 2 und 3 prüfen; Anbieter, Betreiber, Importeur, Händler und Produktintegrator trennen. Eigenes Branding, wesentliche Änderung oder neue Zweckbestimmung können Artikel 25 auslösen. Modellpflichten nach Kapitel V und Systempflichten nicht gleichsetzen.
 
-Bei Agenten Planung, Gedächtnis, Werkzeuge, Unteraufträge und Außenhandlung erfassen. Autonomie allein begründet kein Hochrisiko. Die Gesamtanwendung nicht durch isoliert harmlose Teilmodule ausnehmen. Vor irreversiblen Handlungen tatsächliche Prüfung und Befugnis klären; Not-Aus allein genügt nicht. Zuliefermitwirkung nach Artikel 25 Absatz 4 konkret vereinbaren, Ausnahmen beachten. Liefere Rollenvermerk, Betriebsregel oder Klausel statt bloßer Inventarliste.
+Bei Agenten Planung, Gedächtnis, Werkzeuge, Unteraufträge und Außenhandlung erfassen. Autonomie allein begründet kein Hochrisiko. Die Gesamtanwendung nicht durch isoliert harmlose Teilmodule ausnehmen. Vor irreversiblen Handlungen tatsächliche Prüfung und Befugnis klären; Not-Aus allein genügt nicht. Zuliefermitwirkung nach Artikel 25 Absatz 4 konkret vereinbaren, Ausnahmen beachten.
 
 ## 1.2. Verbot und Risikoeinstufung
 
@@ -42,7 +44,7 @@ Für deutsche Zuständigkeit den aktuellen Paragraf 2 KI-MIG einschließlich Pro
 
 ## 1.6. Ergebnis liefern und belegen
 
-Neue Belege in die betroffene Entscheidung einarbeiten. Tatsache, Normfassung, Datum und Gegenargument begründen; offene Punkte konkret bezeichnen.
+Tatsache, Normfassung, Datum und Gegenargument begründen; offene Punkte benennen.
 
 Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt bei Dokumentexport. Versand nur nach Freigabe.
 
@@ -54,4 +56,4 @@ Ungeklärtes Verbot oder Bewertungsverfahren sperrt die betroffene Freigabe, nic
 
 Zweckbestimmung aus Anleitung, Werbung und technischer Dokumentation zusammenführen (Artikel 3 Nummer 12). Vorhersehbarer Fehlgebrauch gehört in Artikel 9/14; er ist nicht allein eine neue Risikoklasse. Planmäßige Umwidmung zum Hochrisikoeinsatz gesondert nach Artikel 25 Absatz 1 Buchstabe c prüfen, auch ohne Nachtraining. Artikel 10 Absatz 6 lässt bei Systementwicklung ohne Modelltraining Testdatenpflichten bestehen; bloß fehlendes eigenes Nachtraining eines Integrators belegt die Ausnahme nicht. Artikel 3 Nummer 1 erfasst auch geeignete wissensgestützte Ableitung; starre menschliche Rechenregeln und fehlende nachträgliche Anpassung getrennt beurteilen.
 
-[Fünf begründete Fall- und Gegenvarianten](references/testanker.md) verbinden die Prüfung mit konkreten Arbeitsprodukten.
+[Fall- und Gegenvarianten](references/testanker.md).

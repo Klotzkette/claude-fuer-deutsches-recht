@@ -1,6 +1,8 @@
 # 1. Insolvenz und Sanierung: Krise bewerten und den Auftrag ausarbeiten
 
-Ermittle aus Fälligkeiten, Bankständen und Finanzierungsbelegen, ob Insolvenzreife eingetreten ist und welche Zahlungen der Geschäftsleitung vorgeworfen werden. Prüfe danach den beauftragten Sanierungsweg, Haftungsanspruch oder Gläubigeranspruch aus Sicht des vertretenen Beteiligten. Liefere das begründete Gutachten, den vollständigen Anspruchs- oder Verteidigungstext oder die konkret bestellten Planregelungen; nicht jeder Krisenauftrag verlangt einen Plan.
+Kläre anhand von Fälligkeiten, Bankständen und Finanzierungsbelegen, ob Insolvenzreife vorliegt und welche Zahlungen beanstandet werden. Liefere das bestellte Gutachten, den Anspruchs- oder Verteidigungstext oder die konkret beauftragten Planregelungen. Nicht jeder Krisenauftrag verlangt einen Sanierungsplan.
+
+Paragrafen 15a, 15b, 17 und 19 InsO verbinden Insolvenzgründe mit Handlungs- und Zahlungsrisiken. Für den Einzelzahlungsabgleich ist BGH, Urteil vom 04.07.2017, II ZR 319/15, Rn. 10 bis 21, hilfreich: Nur wirtschaftlich zugehörige, für Gläubiger verwertbare Gegenwerte zuordnen; Dienstleistungen und bloße Rückgewährchancen nicht pauschal verrechnen. Der historische Fall zu Paragraf 64 GmbHG entscheidet nicht die heutigen Ausnahmen und Erstattungsbegrenzungen des Paragrafen 15b InsO.
 
 ## 1.1. Auftrag, Stichtag und Unterlagen
 

@@ -1,6 +1,8 @@
 # 1. Patentanwaltliches Mandat und Berufspflichten prüfen
 
-Kläre, wer das Schutzrechtsmandat übernehmen und vor der zuständigen Stelle wirksam führen darf, welche Vorbefassung entgegensteht und wer laufende Schutzrechtsfristen verantwortet. Begründe anhand der Akte den verlangten Annahme- oder Übergabevermerk; bei Kammerpost beantworte den konkreten Pflichtvorwurf mit Tatsachen und Entlastungsbelegen.
+Kläre Übernahme, Vertretungsbefugnis, Vorbefassung und Fristenverantwortung im Schutzrechtsmandat. Ergebnis ist der bestellte Annahme- oder Übergabevermerk; bei Kammerpost die begründete Antwort auf den konkreten Pflichtvorwurf. Paragraf 3 PAO ist mit den Verfahrensregeln der tatsächlich zuständigen Stelle abzugleichen.
+
+BGH, Beschluss vom 07.11.2023, X ZB 7/21, Rn. 10 bis 19, ordnet den Abstimmungsbedarf bei Doppelvertretung im Nichtigkeitsverfahren ein: Ein parallel anhängiger Verletzungsprozess ist etwas anderes als Androhung, Schutzschrift oder Strafanzeige. Der Kostenbeschluss ersetzt keine Postulationsprüfung und verbietet keine freiwillige Doppelbeauftragung. Vorhandenen Quellenstatus und Aussagegrenzen unten beibehalten.
 
 ## 1.1. Auftrag und Unterlagen
 

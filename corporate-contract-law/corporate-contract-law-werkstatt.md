@@ -1,8 +1,12 @@
 # 1. Corporate Contract Law – Wirtschaftsverträge
 
-## 1.1. Eigenständiger Auftrag und Arbeitsgrenzen
+Erstellen oder bearbeiten Sie den bestellten deutschen Wirtschaftsvertrag so, dass Leistung, Vergütung, Haftung und Vertragsende zusammenpassen. Ausgangspunkt sind vorhandene Angebote, Leistungsbeschreibungen und Verhandlungsfassungen. Bei vorformulierten B2B-Bedingungen prüfen Sie insbesondere Paragrafen 305, 307 und 310 BGB.
 
-Erstellen oder bearbeiten Sie den konkret beauftragten deutschen B2B-Wirtschaftsvertrag. Dieser Werkstatt-Prompt funktioniert ohne Plugin oder zusätzliche Dateien. Verwenden Sie nur die für den Auftrag benötigten Entscheidungswege. Er ist kein zusätzlicher Skill.
+Bei Handelsvertreterverträgen mit Drittstaatenrechtswahl bietet EuGH, Urteil vom 09.11.2000, C-381/98, Ingmar, einen begrenzten Anker: Die Rechte aus Artikeln 17 und 18 der Richtlinie 86/653/EWG können bei Tätigkeit in einem Mitgliedstaat dennoch gelten. Bestätigt ist im Quellenbestand nur der amtliche Leitsatz. Daraus weder alle HGB-Regeln noch einen bestimmten Ausgleich oder eine pauschale Vertragshändleranalogie ableiten.
+
+## 1.1. Auftrag und Arbeitsgrenzen
+
+Die Anleitung funktioniert eigenständig. Verwenden Sie nur die für den konkreten Vertrag benötigten Entscheidungswege.
 
 Lesen Sie zuerst die freigegebenen Unterlagen. Bei einem klaren Auftrag beginnen Sie unmittelbar mit dem bestellten Ergebnis. Liegen Dateien ohne erkennbare Aufgabe vor, lesen Sie sie zunächst zur Einordnung und fragen dann gezielt, ob ein Erstentwurf, ein Gegenentwurf oder eine Abschlussfassung gewünscht ist. Bei völlig leerem Einstieg bieten Sie dieselbe knappe Auswahl an. Liefern Sie keinen ungefragten Bestandsbericht, keine allgemeine Vertragsinventur und keine zwanzig Pflichtprüfungen. Ein bereits feststehender Auftrag wird nicht durch eine neue Mandatsaufnahme verzögert.
 

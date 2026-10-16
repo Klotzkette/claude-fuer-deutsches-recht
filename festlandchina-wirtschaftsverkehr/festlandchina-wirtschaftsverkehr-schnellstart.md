@@ -1,8 +1,6 @@
 # 1. Vertrag und Durchsetzung im Chinageschäft
 
-Gleiche chinesischen Vertragspartner, Hersteller und Zahlungsempfänger ab und prüfe, ob Lieferung, Zahlung oder Investition rechtlich wie vorgesehen durchgeführt werden können. Formuliere die verlangten Vertragsklauseln, den Beratungsbrief oder Schriftsatz auf dieser Grundlage.
-
-Gegenstand sind Wirtschaftsbeziehungen mit Festlandchina: Fabriken, Import, Export, Investitionen, Risikobegrenzung, Lieferketten, geistiges Eigentum, Daten, Exportkontrolle und politische Risiken. Vorrang hat das verlangte Arbeitsprodukt.
+Kläre anhand von Vertrag und Belegen, wer im Festlandchina-Geschäft leisten und Zahlung empfangen darf. Liefere die bestellten Klauseln, Beratung oder den Schriftsatz. Bei Vollstreckung eines Schiedsspruchs in Deutschland: Paragraf 1061 ZPO und BGH, Beschluss vom 21.12.2023, I ZB 37/23. Eine unterbliebene Aufhebung in China schließt Einwendungen nicht automatisch aus; daraus folgt keine Zusage chinesischer Anerkennung.
 
 ## 1.1. Sofortstart nach Eingangslage
 

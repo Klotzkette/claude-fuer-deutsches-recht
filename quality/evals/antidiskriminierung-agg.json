@@ -472,19 +472,25 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger konkreter AGG-Ablauf.",
+    "reason": "Eigenständiger konkreter AGG-Ablauf. Redaktionelle Anschlussprüfung 16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Frist, Beweislage und Schreiben statt allgemeiner Analyse."
+      "Frist, Beweislage und Schreiben statt allgemeiner Analyse.",
+      "16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung."
     ],
-    "sha256": "5189a51199bbac53fb4932c519105da9d13880b290c14cda4efdae35c7f3809e"
+    "sha256": "4174325b63c2573c4acd6ec02fd0dd5d2d75556a138287512a477600a0e11bde",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Verzweigungen und ausformulierte Arbeitsprodukte.",
+    "reason": "Individuelle Verzweigungen und ausformulierte Arbeitsprodukte. Redaktionelle Anschlussprüfung 16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme."
+      "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme.",
+      "16.10.2026: Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung."
     ],
-    "sha256": "8960d08eaad198f60a3dede64378834361d9a8d27204280365464d1e716a1acc"
+    "sha256": "58280fd117ef3cc67d364baaab3c697b5341a9ff266508545ccbdb26ce81c157",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",
@@ -513,5 +519,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "antidiskriminierung-agg/antidiskriminierung-agg-schnellstart.md",
+        "sha256": "4174325b63c2573c4acd6ec02fd0dd5d2d75556a138287512a477600a0e11bde",
+        "reason": "Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
+        "anchor_or_exception": "Paragrafen 1 bis 3 und 22 AGG; BAG 29.01.2026 8 AZR 49/25: selektives Kopftuchverbot und behauptete Neutralität konkret abgleichen, kein pauschales Urteil über Bekleidung."
+      },
+      {
+        "path": "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md",
+        "sha256": "58280fd117ef3cc67d364baaab3c697b5341a9ff266508545ccbdb26ce81c157",
+        "reason": "Benachteiligung, Nachweise und fertiges Schreiben statt abstrakter AGG-Aufzählung.",
+        "anchor_or_exception": "Paragrafen 1 bis 3 und 22 AGG; BAG 29.01.2026 8 AZR 49/25: selektives Kopftuchverbot und behauptete Neutralität konkret abgleichen, kein pauschales Urteil über Bekleidung."
+      }
+    ]
   }
 }

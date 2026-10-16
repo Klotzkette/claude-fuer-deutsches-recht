@@ -1,10 +1,10 @@
-# 1 KI-Vertrag gegen den Mandatsdatenweg prüfen
+# 1 KI-Vertrag am Mandatsdatenweg prüfen
 
-Lies Vertrag und Mandatsdatenweg zuerst. Ohne Auftrag Zweckbindung, Support oder Pilotfreigabe klären; sonst Klausel oder Einsatzvotum ausarbeiten. Nur entscheidende Lücken fragen und Antworten im Entwurf einarbeiten. No-Training klärt keine eigene Qualitätsnutzung.
+Liefere die bestellte Ersatzklausel oder Einsatzbewertung aus Vertrag und Datenweg. Paragraf 43e BRAO betrifft Geheimniszugang, Artikel 46 DSGVO den Transfer. EuGH, Urteil vom 16.07.2020, C-311/18, Rn. 125 bis 135: Bei Standardklauseln Empfängerrecht und Zusatzmaßnahmen prüfen; kein allgemeines Cloud-Verbot oder Urteil über Berufsrecht. Quellenstatus unten.
 
 ## 1.1 Tatsächliche Nutzung und Berufsrolle
 
-Trenne Berufsrollen auch innerhalb derselben Kanzlei. Ordne Eingabe, Upload, Modellverarbeitung, Suchindex, Protokolle, Support, Export und Löschung jeweils Zweck, Beteiligtem, Zugriffsort und Dauer zu. Unterscheide belegte Eigenschaft, Vertragszusage, Option und offene Frage.
+Unterlagen zuerst lesen; ohne Auftrag Zweckbindung, Support oder Pilot klären, sonst direkt arbeiten. Nur entscheidende Lücken fragen, Antworten einarbeiten. No-Training klärt keine eigene Qualitätsnutzung. Berufsrollen trennen; Eingabe, Upload, Verarbeitung, Suchindex, Protokolle, Support, Export und Löschung nach Zweck, Beteiligtem, Zugriffsort und Dauer zuordnen. Beleg, Zusage, Option und Lücke auseinanderhalten.
 
 Für anwaltliche Dienstleister ist [Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/__43e.html) konkret zu prüfen: erforderlicher Geheimniszugang, sorgfältige Auswahl, Bindung in Textform einschließlich Verschwiegenheit und weiterer eingesetzter Personen sowie Schutz bei Auslandsleistungen. Bei unmittelbar einem einzelnen Mandat dienenden Leistungen ist die Einwilligungsfrage gesondert zu bearbeiten. Datenschutz bleibt eigenständig; ein Auftragsverarbeitungsvertrag allein ersetzt die berufsrechtliche Prüfung nicht. Für andere Berufsrollen die entsprechende aktuelle amtliche Norm heranziehen, nicht die anwaltliche Regel einfach umbenennen.
 

@@ -2,6 +2,8 @@
 
 Prüfe die vorgelegte Urkunde oder Fallfrage am örtlich und zeitlich einschlägigen Allgemeinen Landrecht. Bestimme Teil, Titel und Paragraf, lies benachbarte Ausnahmen mit und begründe die historische Rechtsfolge. Eine heutige Fortgeltungsbehauptung getrennt von der damaligen Regel und Praxis untersuchen.
 
+Ergebnis ist die bestellte Normkarte, Textgegenüberstellung oder historische Fallbewertung. Quellenbasis sind der maßgebliche Druck und etwa bei Aufopferung die Einleitung, Paragrafen 74 und 75 PrALR. Die vorhandene private Webtranskription ersetzt kein Faksimile. Für eine rein historische Frage ist heutige Rechtsprechung kein notwendiger Anker: Sie belegt weder damalige örtliche Geltung noch Gerichtspraxis.
+
 ## 1.1. Mit der konkreten Frage beginnen
 
 Ohne Eingabe frage kurz: „Textstelle lesen und vergleichen, damaligen Fall lösen oder heutige Wirkung eines Altrechts prüfen?“ Bei Scans oder Akten ohne Aufgabe lies still und kläre nur das Erkenntnisziel. Bei klarem Auftrag arbeite direkt an Normkarte, Synopse oder Fallbewertung; frage nur entscheidende Lücken zu Ort, Stichtag oder Text nach. Keine Materialzusammenfassung und keine feste Rückfragerunde vorschalten.

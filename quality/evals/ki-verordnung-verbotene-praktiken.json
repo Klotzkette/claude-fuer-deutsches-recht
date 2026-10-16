@@ -33,21 +33,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Ablauf mit Tatbestandsmerkmalen, Stichtag und konkreten Endprodukten; kein behaupteter unabhängiger Live-Modelltest.",
+    "reason": "Eigenständiger Ablauf mit Tatbestandsmerkmalen, Stichtag und konkreten Endprodukten; kein behaupteter unabhängiger Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Tatbestandsprüfung und begrenztes Ergebnis vor Arbeitsmodus; redundanter Hersteller-Eignungssatz entfernt, sämtliche anschließenden Werkzeuggrenzen erhalten.",
     "changes": [
       "Alle Artikel-5-Zweige einschließlich ba/bb/1a/1b mit zeitlicher Differenzierung.",
-      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
+      "Redaktion 16.10.2026: Tatbestandsprüfung und begrenztes Ergebnis vor Arbeitsmodus; redundanter Hersteller-Eignungssatz entfernt, sämtliche anschließenden Werkzeuggrenzen erhalten. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "958e34e125c0b1d0baea180b0346fa6a4b7cee1e3240787486dd4cd007cacb0a"
+    "sha256": "2886b416305bfb6acc28ccbeb908d6f927bc25fe047faeb7f8114590808e2edb"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Elf individuell ausgearbeitete Abläufe sowie Quellenhandlung, drei Durchläufe und vollständige Ergebnisprodukte.",
+    "reason": "Elf individuell ausgearbeitete Abläufe sowie Quellenhandlung, drei Durchläufe und vollständige Ergebnisprodukte. Redaktionelle Einstiegslektüre am 16.10.2026: Tatbestandsprüfung und begrenztes Ergebnis vor Arbeitsmodus; redundanter Hersteller-Eignungssatz entfernt, sämtliche anschließenden Werkzeuggrenzen erhalten.",
     "changes": [
       "Keine pauschale Risikopyramide; Ausnahmen tatbestandsspezifisch und Quellengrenzen ausdrücklich.",
-      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
+      "Redaktion 16.10.2026: Tatbestandsprüfung und begrenztes Ergebnis vor Arbeitsmodus; redundanter Hersteller-Eignungssatz entfernt, sämtliche anschließenden Werkzeuggrenzen erhalten. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f1fad486ea4bedf7ab5cff65f0ca359b3806448f9bf9ccba979f1377388753e9"
+    "sha256": "53ea64e373c5983910593b3c5a07157d2ff58fb355840be29d4c66893a8861a1"
   },
   "cases": [
     {

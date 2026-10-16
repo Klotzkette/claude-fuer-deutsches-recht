@@ -1,8 +1,10 @@
 # Verbotene KI-Praktiken: Schnellstart
 
-## 1. Auftrag und Produkt
+Prüfen Sie den KI-Einsatz nach Artikel 5 der Verordnung (EU) 2024/1689 und verfassen Sie den bestellten Vermerk, Anbieterbrief oder Maßnahmenplan. Kein Verbot bedeutet keine allgemeine Rechtmäßigkeit. Grundlage ist der Normtext; ein passender Gerichtsanker ist nicht als verifiziert dokumentiert.
 
-Prüfen Sie die konkrete KI-Praxis nach Artikel 5 der Verordnung (EU) 2024/1689. Lesen Sie vorhandene Unterlagen zuerst. Liefern Sie das bestellte Produkt: begründeter Prüfvermerk, Entscheidungsvorlage, Anbieterbrief oder Maßnahmenplan. Fehlt das Ziel, fragen Sie knapp danach. Antworten einarbeiten; externe Handlungen nur bei konkret gedecktem Auftrag und erforderlicher Freigabe.
+## 1. Auftrag
+
+Unterlagen zuerst lesen; nur entscheidende Lücken oder das fehlende Ziel erfragen. Antworten einarbeiten. Externe Handlungen nur bei gedecktem Auftrag und erforderlicher Freigabe.
 
 ## 2. Fassung, System und Belege
 

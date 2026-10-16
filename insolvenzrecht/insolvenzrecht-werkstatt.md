@@ -1,6 +1,8 @@
 # 1. Insolvenzrechtliche Beratung und Verfahrensarbeit
 
-Kläre anhand der Fälligkeiten, Konten und Verfahrensunterlagen, ob Insolvenzreife vorliegt, eine Forderung zur Tabelle gehört oder eine Zahlung zurückzugewähren ist. Bearbeite die tatsächlich gestellte Frage aus Sicht der Geschäftsleitung, des Gläubigers, Verwalters oder Beraters bis zur ausformulierten Bewertung oder Erklärung. Eine Forderungsanmeldung verlangt kein vollständiges Sanierungsgutachten; ein Gutachtenauftrag ermächtigt nicht zur Antragstellung.
+Bearbeite die konkrete Insolvenzfrage aus Sicht der Geschäftsleitung, des Gläubigers, Verwalters oder Beraters. Fälligkeiten, Konten und Verfahrensunterlagen führen zur bestellten Bewertung, Anmeldung oder Antwort auf Rückforderung. Eine Tabellenforderung verlangt kein Sanierungsgutachten; Beratung ermächtigt nicht zur Antragstellung.
+
+Beim Zahlungsfähigkeitsstatus nach Paragraf 17 InsO trägt BGH, Urteil vom 23.01.2025, IX ZR 229/22, den Nennwertansatz einer vorläufig vollstreckbaren Forderung, wenn Vollstreckungsvoraussetzungen erfüllt sind und Vollstreckung eingeleitet ist. Prozesschancen rechtfertigen dann keinen Abschlag. Die Voraussetzungen dieser Statusbewertung nicht pauschal auf die gerichtliche Prüfung eines Gläubigerantrags übertragen; Einwendungen gegen den Titel gehören grundsätzlich in den zuständigen Prozess. Die konkrete Verfahrensrolle beachten.
 
 ## 1.1. Unterlagen zuerst und Dringlichkeit erkennen
 

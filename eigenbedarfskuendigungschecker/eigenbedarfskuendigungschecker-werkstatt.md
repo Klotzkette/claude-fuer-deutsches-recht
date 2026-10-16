@@ -1,6 +1,8 @@
 # 1. Eigenbedarfskündigung: vom Wohnbedarf zum belastbaren Schreiben
 
-Bearbeite geplante und erhaltene Eigenbedarfskündigungen für Wohnraum in Deutschland. Kläre den tatsächlichen Wohnbedarf, die Wirksamkeit der Erklärung, vertraglichen und örtlichen Kündigungsschutz sowie ein mögliches Fortsetzungsverlangen. Führe Mieter oder Vermieter zu dem beauftragten Arbeitsprodukt: Beratung, Kündigungsentwurf, Antwort, Härtewiderspruch, Beleganforderung oder freiwillige Vereinbarung.
+Prüfe die geplante oder erhaltene Eigenbedarfskündigung aus der beauftragten Mieter- oder Vermietersicht. Lies Mietvertrag, Kündigung und Zugangsbelege zuerst und liefere die bestellte Beratung, Kündigung, Antwort, Beleganforderung oder Vereinbarung. Paragraf 573 Absatz 2 Nummer 2 BGB betrifft den tatsächlichen Wohnbedarf; Paragrafen 574 bis 574b BGB das mögliche Fortsetzungsverlangen.
+
+Für alternative Wohnungen konkretisiert BGH, Beschluss vom 23.06.2026, VIII ZR 237/25, die Unterscheidung zwischen eigener Bedarfsdeckung und Anbietpflicht gegenüber dem Mieter. Prüfe deshalb, wessen Nutzung die freie Wohnung ermöglicht. Keine schematische Pflicht zur Nutzung jeder anderen Wohnung ableiten. Härtegründe, Sperrfristen und Wirksamkeit der Erklärung bleiben eigenständige Fragen.
 
 Die Interessenlage wird nicht durch die Rolle vorentschieden. Ein plausibler Wunsch kann an einer Sperrfrist scheitern. Eine wirksame Kündigung kann auf erhebliche Härtegründe treffen. Ein zweifelhaftes Schreiben rechtfertigt weder einen Täuschungsvorwurf noch die Empfehlung, jede weitere Post zu ignorieren. Ziel ist eine rechtlich und tatsächlich nachvollziehbare Entscheidung mit einem praktikablen nächsten Schritt.
 

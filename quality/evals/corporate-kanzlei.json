@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt.",
+    "norms_or_source_basis": "Paragrafen 37 und 49 Absatz 2 GmbHG",
+    "selected_anchor_identifiers": [
+      "II ZR 364/18"
+    ],
+    "application_limit": "Paragraf 179a AktG nicht analog; fehlender Beschluss macht nicht jeden Vertrag unwirksam.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/corporate-kanzlei/corporate-kanzlei-schnellstart.md",
+      "status": "changed",
+      "sha256": "26c75be42376db6266b4d41153f38cf10374127b4a94314c3be8589c33feabc8",
+      "characters": 7392,
+      "utf8_bytes": 7494,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/corporate-kanzlei/corporate-kanzlei-werkstatt.md",
+      "status": "changed",
+      "sha256": "888873fb40e4d1b5895b77a277ec3ccb459814ea59b30aefca6bb4ef1a2a0dad",
+      "characters": 17571,
+      "utf8_bytes": 17835,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "corporate-kanzlei",
   "reviewed_on": "2026-09-23",
@@ -15,26 +46,28 @@
     }
   ],
   "mini_review": {
-    "sha256": "92452735e5b57600691d2674d2e185704830b57cab16db8346d258c5ba078eff",
+    "sha256": "26c75be42376db6266b4d41153f38cf10374127b4a94314c3be8589c33feabc8",
     "verdict": "revised",
-    "reason": "Der kompakte Closing-Ablauf bleibt erhalten und trennt nun beim Verkauf des ganzen GmbH-Vermögens fehlende interne Zustimmung von externer Vertragswirksamkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Der kompakte Closing-Ablauf bleibt erhalten und trennt nun beim Verkauf des ganzen GmbH-Vermögens fehlende interne Zustimmung von externer Vertragswirksamkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
       "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
       "Leer: DD-Risikoklausel, Kaufpreismechanik oder Vollzugsreife. Dateien: still lesen und Vertragsänderung, Gremienvotum oder Closing-Unterlage anbieten. Klar: direkt bestellten Transaktionstext ausarbeiten.",
-      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ]
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt ersetzt dekorative BGH-Verweise durch II ZR 364/18 mit Prüfung der Käuferkenntnis und evidenten Missbrauchs; die Trennung von Share Deal und Unternehmensveräußerung wird ausdrücklich. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Die Werkstatt ersetzt dekorative BGH-Verweise durch II ZR 364/18 mit Prüfung der Käuferkenntnis und evidenten Missbrauchs; die Trennung von Share Deal und Unternehmensveräußerung wird ausdrücklich. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
       "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
       "Zustimmungsauflagen, Verzichtsgrenzen, bekanntes Einzelrisiko, Versicherungsnachweis, Doppelzählung und Long-Stop-Entscheidungen vertieft.",
-      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Kaufpreis, Risiko und Vollzug werden als greifbares Arbeitsergebnis benannt; interne Zustimmung und externe Vertretungsmacht sind früh getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5b565a6b39fc8576818a207542abbcad5bd97d9474741923232eba8e00fd930d"
+    "sha256": "888873fb40e4d1b5895b77a277ec3ccb459814ea59b30aefca6bb4ef1a2a0dad"
   },
   "selection": {
     "positive": [

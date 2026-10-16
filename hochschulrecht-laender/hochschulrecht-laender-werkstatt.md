@@ -1,6 +1,8 @@
 # 1. Hochschulrecht der Länder: Werkstatt
 
-Prüfe, ob die Hochschule über Zulassung, Prüfung, Promotion oder Berufung auf der richtigen gesetzlichen und satzungsrechtlichen Grundlage entschieden hat. Bei Gremienfragen kläre Zuständigkeit, Besetzung und wirksame Beschlussfassung; bei Forschungsvorhaben die konkreten Rechte und Pflichten aus Bewilligung oder Vertrag. Liefere die bestellte Beratung, Vorlage, Vertragsfassung oder Antragsbegründung aus der vorhandenen Akte.
+Trägt die richtige Landesnorm und Hochschulordnung die Entscheidung über Zulassung, Prüfung, Promotion oder Berufung? Lies Akte und Ordnungsfassung und erarbeite die bestellte Beratung, Vorlage, Vertragsfassung oder Antragsbegründung. Gremienbeschlüsse und Forschungsvorhaben erhalten ihren eigenen Prüfweg.
+
+Für wissenschaftsrelevante Gremien ist Artikel 5 Absatz 3 GG der verfassungsrechtliche Bezug. Der BVerfG-Beschluss vom 30.09.2025, 1 BvR 1141/19, betrifft Wissenschaftsnähe und Stimmgewicht der Gruppe Technik/Verwaltung. Die Thüringer Regeln wurden für unvereinbar erklärt, mit Fortgeltung bis zur Neuregelung, längstens 31.03.2027. Daraus weder sofortige Nichtigkeit aller Beschlüsse noch eine bundesweite Stimmenquote ableiten; konkrete Ordnung und Übergangsstand prüfen.
 
 ## 1.1. Ausgangslage und Frist
 

@@ -1,6 +1,8 @@
 # 1. Wehrrechtlichen Auftrag bearbeiten
 
-Prüfe, ob Befehl, Verwendung oder Beurteilung den Soldaten rechtswidrig belastet und welcher Schutz bis zur Entscheidung erforderlich ist. Bei Status- oder Leistungsstreitigkeiten kläre stattdessen Entlassungsgrund, Dienstfähigkeit oder konkrete Zahlung. Lies zuerst die tragenden Anweisungen, Personalunterlagen und Bescheide und verfasse die beauftragte Beschwerde, Einlassung, Versorgungseingabe oder begründete Beratung.
+Arbeite aus Befehl, Personalmaßnahme oder Bescheid heraus, welche konkrete Belastung angegriffen werden soll und welcher vorläufige Schutz nötig ist. Liefere die bestellte Beschwerde, Einlassung, Versorgungseingabe oder Beratung. Bei Status- und Leistungsfragen geht es stattdessen um Entlassungsgrund, Dienstfähigkeit oder Zahlung; die vorhandenen Unterlagen bestimmen den Weg.
+
+Wehrbeschwerden richten sich insbesondere nach Paragrafen 3, 5 und 6 WBO. Für Pflegebelastungen bei Versetzung konkretisiert BVerwG, Beschluss vom 01.03.2018, 1 WB 27.17, Rn. 18 bis 38, die Abwägung mit dienstlichem Bedarf: tatsächliche Pflege und Ersatzbetreuung belegen. Artikel 6 Absatz 1 GG und Paragraf 31 SG begründen keinen pauschalen Wunschstandortanspruch. Automatischen Aufschub oder heutige Geltung des damaligen Versetzungserlasses nicht unterstellen.
 
 Bestimme Status, Einheit, Verwendung, handelnde Stelle, Bekanntgabe und konkretes Ziel aus den Unterlagen; eine bereits geklärte Aufnahme nicht wiederholen.
 

@@ -1,6 +1,8 @@
-# 1. Arbeitszeugnis aus Tätigkeits- und Leistungsnachweisen formulieren
+# Arbeitszeugnis aus Tätigkeits- und Leistungsnachweisen formulieren
 
-Formuliere aus belegten Beschäftigungszeiten, Aufgaben, Verantwortung und Beurteilungen ein individuelles Arbeitszeugnis. Stelle Rollenwechsel zeitlich richtig dar und begründe die Leistungsbewertung gegenüber dem Auftraggeber, nicht im Zeugnistext. Bei Berichtigungsauftrag ändere die beanstandeten Passagen; bei ausdrücklich verlangter Durchsetzung formuliere den passenden Antrag. Nutze vorhandene Personalunterlagen und bisherige Antworten, statt die Aufnahme neu zu beginnen.
+Erstelle das bestellte Arbeitszeugnis aus Beschäftigungszeiten, Aufgaben und Verantwortung. Das einfache Zeugnis bleibt bewertungsfrei; nur beim qualifizierten Zeugnis kommen Leistung und Verhalten hinzu. Stelle Rollenwechsel zeitlich richtig dar; eine Bewertungsbegründung gehört an den Auftraggeber, nicht in den Zeugnistext. Ein Berichtigungsauftrag betrifft die beanstandeten Passagen, ein ausdrücklich erteilter Durchsetzungsauftrag den passenden Antrag.
+
+Für das qualifizierte Zeugnis geben Paragraf 109 GewO und BAG, Urteil vom 27.04.2021, 9 AZR 262/20, Rn. 15 bis 18, die Richtung vor: Eine schulzeugnisartige Notentabelle ersetzt regelmäßig keine individuelle Leistungs- und Verhaltensbeurteilung. Schreibe konkrete Sätze aus den vorhandenen Nachweisen; der Anker rechtfertigt weder Superlative noch erfundene Erfolge. Quellenstand unten beachten. Nutze Personalunterlagen und bisherige Antworten, statt die Aufnahme neu zu beginnen.
 
 ## 1. Arbeitsauftrag und Ergebnis
 
@@ -133,7 +135,6 @@ Ohne Kennzahlen lassen sich Tätigkeiten dennoch individuell beschreiben: Art de
 Verlangt der Auftrag nur die Korrektur eines Aufgabensatzes, liefere dessen Ersatzfassung und prüfe die unmittelbaren Auswirkungen auf Einleitung, Zeitform und Bewertung. Eine bestätigte Schlussformel oder Leistungsstufe bleibt dabei unangetastet, sofern kein konkreter Widerspruch entsteht. Bei mehreren Änderungsrunden kennzeichne die maßgebliche Ausgangsfassung und unterscheide bereits akzeptierte Änderungen von weiterhin streitigen Punkten.
 
 Für die Endkontrolle lies den Text aus Sicht eines unbefangenen zukünftigen Arbeitgebers: Ist erkennbar, was der Arbeitnehmer tatsächlich getan hat, welche Verantwortung er trug und worauf sich die Beurteilung bezieht? Die Kontrolle untersucht den Gesamttext. Sie darf keine geheimen Bedeutungen einzelner Wörter oder eine schematische Gleichsetzung von sprachlicher Wärme und Note erfinden.
-
 
 ## 8. Technische Grenzen
 

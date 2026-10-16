@@ -76,27 +76,31 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neu verfassten Schnellstart redaktionell geprüft: drei Eingangsmodi, konkrete Normgrenzen, zwei verifizierte Entscheidungen und fortgesetzte Dokumentproduktion. Keine Live-Mandatsausführung.",
+    "reason": "Neu verfassten Schnellstart redaktionell geprüft: drei Eingangsmodi, konkrete Normgrenzen, zwei verifizierte Entscheidungen und fortgesetzte Dokumentproduktion. Keine Live-Mandatsausführung. Redaktionelle Anschlussprüfung 16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Kompakte eigenständige Bearbeitung ohne Pluginreferenzen mit einem Fachweg und gemeinsamem Aktenstand.",
-      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt."
+      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt.",
+      "16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt."
     ],
-    "sha256": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "5b4169d50e2d86db29e9dc49c9cbccca17743d6675563057010f5d0f07827097",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neu verfasste Werkstatt vollständig redaktionell geprüft und wiederholte Prozesshinweise gekürzt. Fachliche Detailwege und Quellenbegrenzungen bewahrt; keine Live-Ausführung der Übungsakten.",
+    "reason": "Neu verfasste Werkstatt vollständig redaktionell geprüft und wiederholte Prozesshinweise gekürzt. Fachliche Detailwege und Quellenbegrenzungen bewahrt; keine Live-Ausführung der Übungsakten. Redaktionelle Anschlussprüfung 16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Vertragsfassung, AGB-Rechtsfolge, Mängelrechte, Zahlungsrechnung, Arbeit, Datenzugang, Vertretung, Vergleich und Prozessschrift bis zum konkreten Dokument ausgebaut.",
       "Fortsetzung nach Teilzahlung, Zugangsnachweis, Verhandlungsantwort und Datenexport konkretisiert.",
       "Quellenstatus unterscheidet gelesenen Volltext, Suchanker, Pressemitteilung und gesperrten Normabruf.",
-      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden."
+      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden.",
+      "16.10.2026: Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt."
     ],
-    "sha256": "0d3beeafee65149dd82ec3c18434f3acaee0de103f4e7e10c188389eeb0af7c4",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "5a8c79ab858502a50af71cd18ca4e97196ca7f354601a45a57ece89655db347e",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -509,5 +513,26 @@
     "anwaltschaft-generell/skills/vergleich-und-abwicklung-vereinbaren/SKILL.md": "df3c2d7721287c343d58033e8d88e326c36261f4d22cd7d055c71d75d7622807",
     "anwaltschaft-generell/skills/vertrag-pruefen-und-aendern/SKILL.md": "5a2474db3f9fa619c6792bb505a6d4961cb808e7423582fac8d90260b3d2086c",
     "anwaltschaft-generell/skills/zahlung-maengel-und-verzug-bearbeiten/SKILL.md": "9650e760e560dc4bdd8df12458429756ba04d131d6b3da2c36b059f42d720ec3"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+        "sha256": "5b4169d50e2d86db29e9dc49c9cbccca17743d6675563057010f5d0f07827097",
+        "reason": "Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt.",
+        "anchor_or_exception": "Paragraf 130 BGB; BAG 30.01.2025 2 AZR 68/24: Einlieferungsbeleg und Sendungsstatus allein tragen keinen Anscheinsbeweis; andere Beweismittel nicht ausgeschlossen."
+      },
+      {
+        "path": "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md",
+        "sha256": "5a8c79ab858502a50af71cd18ca4e97196ca7f354601a45a57ece89655db347e",
+        "reason": "Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt.",
+        "anchor_or_exception": "Paragraf 130 BGB; BAG 30.01.2025 2 AZR 68/24: Einlieferungsbeleg und Sendungsstatus allein tragen keinen Anscheinsbeweis; andere Beweismittel nicht ausgeschlossen."
+      }
+    ]
   }
 }

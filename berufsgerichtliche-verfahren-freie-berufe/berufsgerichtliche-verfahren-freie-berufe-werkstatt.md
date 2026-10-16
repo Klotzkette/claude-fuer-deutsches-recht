@@ -1,6 +1,8 @@
 # 1. Berufsrechtlichen Vorwurf prüfen und Verteidigung ausarbeiten
 
-Prüfe, ob die beanstandete Mandatsführung, Äußerung oder Amtsausübung eine persönlich vorwerfbare Berufspflichtverletzung trägt und welcher Rechtsschutz im erreichten Verfahrensstadium offensteht. Arbeite aus Vorwurf, Aktenbelegen und Entlastung die beauftragte Einlassung, den Rechtsbehelf oder das Verteidigungsgutachten aus; übernimm die Wertung der Aufsicht nicht als feststehenden Sachverhalt.
+Trägt der belegte Vorgang eine persönlich vorwerfbare Berufspflichtverletzung, und welcher Rechtsschutz ist noch offen? Verfasse aus Vorwurf, Aktenbelegen und Entlastung die bestellte Einlassung, den Rechtsbehelf oder das Gutachten. Die Wertung der Aufsicht ist kein feststehender Sachverhalt.
+
+Bei anwaltlichen Äußerungen sind Paragraf 43a Absatz 3 BRAO und Artikel 5 Absatz 1 GG zusammen zu prüfen. BVerfG, Beschluss vom 02.07.2013, 1 BvR 1751/12, Rn. 15 bis 21, verlangt die Einordnung von Sachbezug, Anlass und Empfängerkreis sowie enge Bestimmung der Schmähkritik. Der zivilrechtliche Unterlassungsfall wurde zurückverwiesen; er hebt nicht automatisch eine Kammerrüge auf und erlaubt keine bewusst falschen Tatsachen. Quellenstatus unten erhalten, andere Berufsordnungen gesondert bestimmen.
 
 ## 1.1. Berufsgruppe und Verfahrensstufe
 

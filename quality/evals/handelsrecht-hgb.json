@@ -31,25 +31,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Lieferchronologie bleibt erhalten; Prüfaufwand und AGB-Klausel werden vor einer Genehmigungsfolge beurteilt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Lieferchronologie bleibt erhalten; Prüfaufwand und AGB-Klausel werden vor einer Genehmigungsfolge beurteilt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
       "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
       "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht."
     ],
-    "sha256": "626cd0ab83e7a0b88af43cbadd752c8e7e44ed204196830edb8893fd2f9ed808"
+    "sha256": "0bcbb637e50ca093478af7d2fa8efb51597e4ec26fa97f549a662415934ff63e"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständige Werkstatt von schematischen Mehrfachtabellen und affirmativem Fehlerrest befreit; alle zwölf Fachthemen in konkrete Tatbestands- und Nachweisfragen überführt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Die vollständige Werkstatt von schematischen Mehrfachtabellen und affirmativem Fehlerrest befreit; alle zwölf Fachthemen in konkrete Tatbestands- und Nachweisfragen überführt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
       "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
       "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
-      "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung."
+      "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung.",
+      "Einstiegsredaktion 16.10.2026: Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht."
     ],
-    "sha256": "bc0f0f484d1974eef2a12a47a8c69e280c273017b9d684026ab9a9040134aff2"
+    "sha256": "0fb5d76ac8272d97d73108f85cf58f8d5e818654814a0ca3686c5ba41a961624"
   },
   "selection": {
     "positive": [
@@ -136,5 +138,41 @@
     "continuation": "Versandlog -> Rechtzeitigkeitsbegründung; früherer QS-Vermerk -> Entdeckungsdatum; Vollmacht -> Bindung; Haftungsmitteilung -> Anspruchsgegner ändern.",
     "enrichment": "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Chargenbezogene Untersuchung und Rüge als konkrete Frage vorangestellt; Sachverständigenprüfung nicht zur Universalpflicht oder Universalbefreiung gemacht.",
+    "anchor_or_exception": "BGH, Urteil vom 06.12.2017, VIII ZR 246/16; Paragraf 377 HGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "626cd0ab83e7a0b88af43cbadd752c8e7e44ed204196830edb8893fd2f9ed808",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "bc0f0f484d1974eef2a12a47a8c69e280c273017b9d684026ab9a9040134aff2",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "handelsrecht-hgb/handelsrecht-hgb-werkstatt.md",
+        "sha256": "0fb5d76ac8272d97d73108f85cf58f8d5e818654814a0ca3686c5ba41a961624",
+        "characters": 18547,
+        "utf8_bytes": 18869
+      },
+      {
+        "path": "handelsrecht-hgb/handelsrecht-hgb-schnellstart.md",
+        "sha256": "0bcbb637e50ca093478af7d2fa8efb51597e4ec26fa97f549a662415934ff63e",
+        "characters": 5567,
+        "utf8_bytes": 5666
+      }
+    ]
   }
 }

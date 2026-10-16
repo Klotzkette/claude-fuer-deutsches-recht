@@ -207,25 +207,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Redaktionelle individuelle Überarbeitung und Lektüre am 02.10.2026; Gegenlese zu Mietrecht und Datenschutz gesondert im Quellenbericht. Dieses Feld dokumentiert keine Modellprüfung und keine Garantie für spätere Einzelfälle.",
+    "reason": "Redaktionelle individuelle Überarbeitung und Lektüre am 02.10.2026; Gegenlese zu Mietrecht und Datenschutz gesondert im Quellenbericht. Dieses Feld dokumentiert keine Modellprüfung und keine Garantie für spätere Einzelfälle. Redaktionelle Einstiegsprüfung 16.10.2026: Abrechnung, Beschluss und Eigentümerbrief als Endprodukte. V ZR 195/23 früh mit konkreter Auswirkung eines Zahlenfehlers auf die Zahlungspflicht; andere Beschlussmängel bleiben eigenständig. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Belege, Bankbewegungen, Sollvorschüsse, Istzahlungen, Rücklage und Abrechnungsspitze bis zur Einzelabrechnung und Eigentümerantwort verknüpft.",
       "WEG-Zahlung, mietrechtliche Umlage, Schadenersatz und Versicherungszahlung getrennt; Diebstahl, Kamera und Bettwanzen mit konkreten Fortsetzungswegen.",
-      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet."
+      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
+      "Abrechnung, Beschluss und Eigentümerbrief als Endprodukte. V ZR 195/23 früh mit konkreter Auswirkung eines Zahlenfehlers auf die Zahlungspflicht; andere Beschlussmängel bleiben eigenständig."
     ],
-    "sha256": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
-    "reviewed_on": "2026-10-02"
+    "sha256": "ff35569ec0c996c05a7d144e1e3d1fe9774344ac3c9afc388874f89515a141f4",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Redaktionelle individuelle Überarbeitung und Lektüre am 02.10.2026; Gegenlese zu Mietrecht und Datenschutz gesondert im Quellenbericht. Dieses Feld dokumentiert keine Modellprüfung und keine Garantie für spätere Einzelfälle.",
+    "reason": "Redaktionelle individuelle Überarbeitung und Lektüre am 02.10.2026; Gegenlese zu Mietrecht und Datenschutz gesondert im Quellenbericht. Dieses Feld dokumentiert keine Modellprüfung und keine Garantie für spätere Einzelfälle. Redaktionelle Einstiegsprüfung 16.10.2026: Abrechnung, Beschluss und Eigentümerbrief als Endprodukte. V ZR 195/23 früh mit konkreter Auswirkung eines Zahlenfehlers auf die Zahlungspflicht; andere Beschlussmängel bleiben eigenständig. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Belege, Bankbewegungen, Sollvorschüsse, Istzahlungen, Rücklage und Abrechnungsspitze bis zur Einzelabrechnung und Eigentümerantwort verknüpft.",
       "WEG-Zahlung, mietrechtliche Umlage, Schadenersatz und Versicherungszahlung getrennt; Diebstahl, Kamera und Bettwanzen mit konkreten Fortsetzungswegen.",
-      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet."
+      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
+      "Abrechnung, Beschluss und Eigentümerbrief als Endprodukte. V ZR 195/23 früh mit konkreter Auswirkung eines Zahlenfehlers auf die Zahlungspflicht; andere Beschlussmängel bleiben eigenständig."
     ],
-    "sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
-    "reviewed_on": "2026-10-02"
+    "sha256": "8eb6f90399f851223cdb4a32c5912f2fef1ca799c1967e2ff66c5c37c8809cf9",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "positive": [

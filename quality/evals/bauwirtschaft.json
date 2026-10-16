@@ -297,10 +297,10 @@
     "Keine beobachtete automatische Skill-Auswahl und keine vollständige fachliche Modellbewertung aller 29 Skills oder zugeordneten Testakten. Zwei separat dokumentierte manuelle Verhaltenstests mit je einer Erst- und Folgeantwort sind hiervon getrennt (quality/hildesheim-lebensakte/verhaltenstest.md)."
   ],
   "mini_review": {
-    "reviewed_on": "2026-10-01",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Kompakten Prompt erneut vollständig gelesen: unmittelbares Arbeitsprodukt, belegte Fortsetzung und gezielte Rückfragen bleiben erhalten. Den zuvor begrenzten Vertragsstrafenanker nach Prüfung des amtlichen Volltexts aktualisiert; Zeichen- und Bytebudget eingehalten. Kein vollständiger Lauf aller enthaltenen Arbeitsstationen.",
+    "reason": "Kompakten Prompt erneut vollständig gelesen: unmittelbares Arbeitsprodukt, belegte Fortsetzung und gezielte Rückfragen bleiben erhalten. Den zuvor begrenzten Vertragsstrafenanker nach Prüfung des amtlichen Volltexts aktualisiert; Zeichen- und Bytebudget eingehalten. Kein vollständiger Lauf aller enthaltenen Arbeitsstationen. Redaktionelle Anschlussprüfung 16.10.2026: Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Paragrafen 650b, 650c und 650g BGB mit konkreten Anwendungsgrenzen ergänzt.",
       "BGH VII ZR 42/22 nur als amtlich indexierten Leitsatz ohne Volltextprüfung aufgenommen.",
@@ -308,15 +308,17 @@
       "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt.",
       "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten.",
       "Am 28.09.2026 VII ZR 42/22 anhand der amtlichen PDF und Randnummern 30 bis 41 präzisiert; frühere Leitsatzgrenze überholt.",
-      "VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet."
+      "VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet.",
+      "16.10.2026: Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert."
     ],
-    "sha256": "a31cdb871e7a7d1cbca55bb939ab843def7c123821081ad6bc19dd4e0d0e5a93"
+    "sha256": "f59ac87084f6a249d83067b1af0313207fd52365c8c6467a9a68fbc3b1f7234a",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "reviewed_on": "2026-09-28",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "100 zusammenhängende Arbeitsstationen in 15 gezielt ladbaren Modulen redaktionell geprüft. Die 100-seitige Word-/PDF-Fassung wurde vollständig visuell geprüft; 1192 Textblöcke zwischen Quelle, Word und jeweiliger PDF-Seite abgeglichen. Zustände, fallabhängige Rückfragen und Rückkehrwege sind explizit. Detailnachweise einschließlich Quellenmanifest unter quality/hildesheim-lebensakte/werkstatt-pruefung.json. Keine pauschale Modellbewertung aller Arbeitsstationen.",
+    "reason": "100 zusammenhängende Arbeitsstationen in 15 gezielt ladbaren Modulen redaktionell geprüft. Die 100-seitige Word-/PDF-Fassung wurde vollständig visuell geprüft; 1192 Textblöcke zwischen Quelle, Word und jeweiliger PDF-Seite abgeglichen. Zustände, fallabhängige Rückfragen und Rückkehrwege sind explizit. Detailnachweise einschließlich Quellenmanifest unter quality/hildesheim-lebensakte/werkstatt-pruefung.json. Keine pauschale Modellbewertung aller Arbeitsstationen. Redaktionelle Anschlussprüfung 16.10.2026: Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "100 auftragsabhängige Stationen statt linearer Pflichtbefragung; vorhandenen Projektstand und Antworten fortführen.",
       "Alle neun HOAI-Phasen mit klaren Eingängen, Arbeitsprodukten, Folgefragen und Übergängen.",
@@ -324,9 +326,11 @@
       "20 amtlich geprüfte Entscheidungsanker mit gelesener Passage und Übertragungsgrenze.",
       "Unbeschlossene Verkaufsoption bleibt vom Vermietungsprojekt, Rechnungseingang und Zahlungsjournal getrennt.",
       "Vollständige 100-seitige Word-/PDF-Fassung; 29 vorhandene Skills erhalten aufgabengerechte Referenzpfade.",
-      "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden."
+      "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden.",
+      "16.10.2026: Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert."
     ],
-    "sha256": "404744e75bd9bc0884ec6070b9fd482983dfaaf0be0b7cdae5d6c5b8a49ef253"
+    "sha256": "cbcfcd199f47b2f152e1f41f11fc79f6fa1369edacf5090c359fee2a517deb92",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "reviewed_on": "2026-09-28",
@@ -2217,83 +2221,92 @@
     {
       "phase": 1,
       "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
-      "sha256": "9be926eb143d3066b5951bd74493777b9423ccc1ddec2daec048c9c513a5e101",
-      "reviewed_on": "2026-09-25",
+      "sha256": "41b96a7fe60ddebef37dfd4b345370774b8bc1745944fdcf382a0d7a8fb997b9",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung.",
-      "runtime_status": "not_run"
+      "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung. Redaktionelle Anschlussprüfung 16.10.2026: Grundlagenbericht aus Bedarf und Ortsbefund; Bedarfsplanung und Raumprogramm nicht stillschweigend mitbeauftragt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 2,
       "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
-      "sha256": "8b4af684dd5399b45b78a4d318efc4c168ab737a6bf26e30561f538ab014ba0e",
-      "reviewed_on": "2026-09-25",
+      "sha256": "0299754ecea70e8ca6ced96afa2680380ab04bdf87d8f487a644660bed156f93",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden.",
-      "runtime_status": "not_run"
+      "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden. Redaktionelle Anschlussprüfung 16.10.2026: Vergleichbare Varianten und Kostenschätzung als tatsächliches Ergebnis; keine bloße Beschreibung des Arbeitswegs. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 3,
       "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
-      "sha256": "354b9303770f9760c6de81796cc487205d99eacdb8b0d5bf73d20391d399b8ce",
-      "reviewed_on": "2026-09-25",
+      "sha256": "d2c25a9a82ec0d774fa8721e04214922d77718fde760373c8d6380b5ee1ac920",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen.",
-      "runtime_status": "not_run"
+      "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen. Redaktionelle Anschlussprüfung 16.10.2026: Integrierter Gebäudeentwurf, Fachbeiträge und Kostenberechnung zuerst; Bericht ersetzt keine bestellte Zeichnung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 4,
       "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
-      "sha256": "5b085ebd5c3793ed828a228b5922827ae5e780ec717c2780e87ba8458209acf4",
-      "reviewed_on": "2026-09-25",
+      "sha256": "bca785943d250b7280d40ab1fdb5430483d4836a5bd329a6a1dc9bb96200e042",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz.",
-      "runtime_status": "not_run"
+      "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz. Redaktionelle Anschlussprüfung 16.10.2026: Bauantrag und Nachreichungspaket nach Behördenforderung eröffnet; keine zusätzliche vollständige Projektaufnahme. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 5,
       "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
-      "sha256": "860337cce4825b93169f6ae7ad7b54a874756d34cfb7143b9f8c72a18f0f509c",
-      "reviewed_on": "2026-10-01",
+      "sha256": "928169acce18e3ff8a658f50941d6187686cc2aec1bc64152ca911a3bdb01789",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
-      "runtime_status": "not_run"
+      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen. Redaktionelle Anschlussprüfung 16.10.2026: Ausführungsdetail, Kollisionsklärung und Revisionspaket zuerst; Vertragsumfang und Änderung nicht vermischen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 6,
       "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
-      "sha256": "8c43d5bec522fe85fd6276ab7a3150234d2db8bd0c287e7570f7ed88f9cabef7",
-      "reviewed_on": "2026-09-26",
+      "sha256": "6fa735e8109f34dfcbba4d1f82c417d01f34117d212a657d699e43971b4deb2a",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
-      "runtime_status": "not_run"
+      "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Redaktionelle Anschlussprüfung 16.10.2026: Mengen, Langtext-LV und Vergabepaket als Ergebnis; RDG-Grenze früh, unabhängig mögliche technische Arbeit weiterführen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 7,
       "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
-      "sha256": "ef29d629a180d8bfb2bf922322793696c4396c367c6257ed6f08084ee9c2b13f",
-      "reviewed_on": "2026-09-26",
+      "sha256": "54a832a22ca5f963078e22aff9186743109ed6411acadde22969dc2a6923c8d2",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
-      "runtime_status": "not_run"
+      "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung. Redaktionelle Anschlussprüfung 16.10.2026: Angebotsvergleich, Aufklärung und Vergabevorschlag konkret; technische Wertung von individueller Rechtsgestaltung getrennt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 8,
       "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
-      "sha256": "bb2ca716fbf4927696357e1fea4f99edffc46f96d5b4dd7dd801f6f4aed9715c",
-      "reviewed_on": "2026-10-01",
+      "sha256": "71c48a7fbe3eb33989dd8b219d59f38b168720fa9788c18ed1bcea0f9a9645ec",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
-      "runtime_status": "not_run"
+      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen. Redaktionelle Anschlussprüfung 16.10.2026: Belegter Soll-Ist-Abgleich und fertiges Überwachungs-/Übergabeprodukt; keine fingierte eigene Ortskontrolle. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     },
     {
       "phase": 9,
       "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
-      "sha256": "f997dee4d25b4f1e64c58d071437fd042c44f4b14430a7c11bc1fea3c7c8df0f",
-      "reviewed_on": "2026-09-25",
+      "sha256": "2f514fec030c5504478e82c736661a5788c67740a10b7ac8e6cc172685558f19",
+      "reviewed_on": "2026-10-16",
       "method": "desk_review",
-      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",
-      "runtime_status": "not_run"
+      "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung. Redaktionelle Anschlussprüfung 16.10.2026: Späterer Mangel, Vorfristbegehung und Sicherheitenfreigabe auf konkreten Auftrag begrenzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+      "runtime_status": "not_run",
+      "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
     }
   ],
   "source_audit_2026_10_01_breit": {
@@ -2344,5 +2357,80 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
+        "sha256": "41b96a7fe60ddebef37dfd4b345370774b8bc1745944fdcf382a0d7a8fb997b9",
+        "reason": "Grundlagenbericht aus Bedarf und Ortsbefund; Bedarfsplanung und Raumprogramm nicht stillschweigend mitbeauftragt.",
+        "anchor_or_exception": "Paragraf 650p BGB; Paragraf 34 und Anlage 10 Nummer 10.1 HOAI. Technische Grundlagenarbeit ohne konkreten Streit benötigt keinen Rechtsprechungsanker."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
+        "sha256": "0299754ecea70e8ca6ced96afa2680380ab04bdf87d8f487a644660bed156f93",
+        "reason": "Vergleichbare Varianten und Kostenschätzung als tatsächliches Ergebnis; keine bloße Beschreibung des Arbeitswegs.",
+        "anchor_or_exception": "Paragraf 650p BGB; Paragraf 34 und Anlage 10 Nummer 10.1 HOAI. Variantenvergleich aus Plan- und Kostennachweisen, keine Kostenschätzung als spätere Kostenberechnung."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
+        "sha256": "d2c25a9a82ec0d774fa8721e04214922d77718fde760373c8d6380b5ee1ac920",
+        "reason": "Integrierter Gebäudeentwurf, Fachbeiträge und Kostenberechnung zuerst; Bericht ersetzt keine bestellte Zeichnung.",
+        "anchor_or_exception": "Paragraf 650p BGB; Paragraf 34 und Anlage 10 Nummer 10.1 HOAI. Technischer Entwurfsabgleich ohne erzwungenes Urteil; Leistungsbild ersetzt keine Beauftragung."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
+        "sha256": "bca785943d250b7280d40ab1fdb5430483d4836a5bd329a6a1dc9bb96200e042",
+        "reason": "Bauantrag und Nachreichungspaket nach Behördenforderung eröffnet; keine zusätzliche vollständige Projektaufnahme.",
+        "anchor_or_exception": "Paragraf 650p BGB und Anlage 10 Nummer 10.1 HOAI; standortabhängiges Bauordnungsrecht gesondert. Technische Zusammenstellung ersetzt keine Genehmigung und braucht keinen pauschalen Gerichtsanker."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+        "sha256": "928169acce18e3ff8a658f50941d6187686cc2aec1bc64152ca911a3bdb01789",
+        "reason": "Ausführungsdetail, Kollisionsklärung und Revisionspaket zuerst; Vertragsumfang und Änderung nicht vermischen.",
+        "anchor_or_exception": "Paragraf 650p BGB und Anlage 10 Nummer 10.1 HOAI. Technischer Planabgleich; Detailarbeit nicht automatisch Zusatzleistung, geänderte Nutzung nicht automatisch umfasst. Bestehender späterer Gerichtsanker bleibt erhalten."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
+        "sha256": "6fa735e8109f34dfcbba4d1f82c417d01f34117d212a657d699e43971b4deb2a",
+        "reason": "Mengen, Langtext-LV und Vergabepaket als Ergebnis; RDG-Grenze früh, unabhängig mögliche technische Arbeit weiterführen.",
+        "anchor_or_exception": "Paragrafen 3 und 5 RDG, Anlage 10 Nummer 10.1 HOAI; BGH 09.11.2023 VII ZR 190/22 Rn. 28 bis 38: individuelle Skontoklausel nicht erlaubte Nebenleistung; kein pauschales Verbot der Vergabemitwirkung."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
+        "sha256": "54a832a22ca5f963078e22aff9186743109ed6411acadde22969dc2a6923c8d2",
+        "reason": "Angebotsvergleich, Aufklärung und Vergabevorschlag konkret; technische Wertung von individueller Rechtsgestaltung getrennt.",
+        "anchor_or_exception": "Paragraf 34 HOAI, Anlage 10 Nummer 10.1, Paragrafen 3 und 5 RDG; BGH 09.11.2023 VII ZR 190/22 Rn. 28 bis 38 zur individuellen Skontoklausel, kein allgemeines Verbot rechtlicher Nebenleistung."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+        "sha256": "71c48a7fbe3eb33989dd8b219d59f38b168720fa9788c18ed1bcea0f9a9645ec",
+        "reason": "Belegter Soll-Ist-Abgleich und fertiges Überwachungs-/Übergabeprodukt; keine fingierte eigene Ortskontrolle.",
+        "anchor_or_exception": "Paragraf 650p BGB, Anlage 10 Nummer 10.1 HOAI; BGH 15.01.2026 VII ZR 119/24 Rn. 69 bis 77: Koordinations-/Überwachungsfehler, fremde Planung entlastet nicht automatisch; keine Haftungsquote übertragen."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
+        "sha256": "2f514fec030c5504478e82c736661a5788c67740a10b7ac8e6cc172685558f19",
+        "reason": "Späterer Mangel, Vorfristbegehung und Sicherheitenfreigabe auf konkreten Auftrag begrenzt.",
+        "anchor_or_exception": "Paragraf 650p BGB, Anlage 10 Nummer 10.1 HOAI. Technische Mängelbetreuung ohne pauschales Urteil; Besondere Leistung und Vertragsumfang prüfen, HOAI-Fünfjahresgrenze ist keine allgemeine Anspruchsverjährung."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-schnellstart.md",
+        "sha256": "f59ac87084f6a249d83067b1af0313207fd52365c8c6467a9a68fbc3b1f7234a",
+        "reason": "Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert.",
+        "anchor_or_exception": "Hauptwerkstatt: Paragraf 650p BGB, HOAI, Paragrafen 3 und 5 RDG; BGH 09.11.2023 VII ZR 190/22 zur individuellen Skontoklausel, kein Verbot technischer Mitwirkung. Mini: Paragraf 307 BGB; BGH 15.02.2024 VII ZR 42/22 zur Vertragsstrafenobergrenze."
+      },
+      {
+        "path": "bauwirtschaft/bauwirtschaft-werkstatt.md",
+        "sha256": "cbcfcd199f47b2f152e1f41f11fc79f6fa1369edacf5090c359fee2a517deb92",
+        "reason": "Hauptwerkstatt vom Projektprodukt her eröffnet; Mini-Vertragsstrafenanker vorgezogen. Alle neun HOAI-Werkstätten einzeln nach Leistungsphase formuliert.",
+        "anchor_or_exception": "Hauptwerkstatt: Paragraf 650p BGB, HOAI, Paragrafen 3 und 5 RDG; BGH 09.11.2023 VII ZR 190/22 zur individuellen Skontoklausel, kein Verbot technischer Mitwirkung. Mini: Paragraf 307 BGB; BGH 15.02.2024 VII ZR 42/22 zur Vertragsstrafenobergrenze."
+      }
+    ]
   }
 }

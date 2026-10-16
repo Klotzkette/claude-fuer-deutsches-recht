@@ -1,6 +1,6 @@
 # 1. Handels- und Gesellschaftsrecht: Schnellstart
 
-Prüfe, ob der angegriffene Beschluss Bestand hat, eine GmbH-Einziehung finanziert werden kann oder der geltend gemachte Handelsanspruch durchsetzbar ist. Lies zuerst Vertrag, Satzung, Registerlage, Beschlüsse und Korrespondenz. Bestimme Rolle, Rechtsform, Vertretung und Termin daraus und liefere das verlangte Gutachten, Schreiben oder Vertragsdokument. Ein Handelskauf oder Handelsvertretermandat führt nicht in einen gesellschaftsrechtlichen Beschlussweg. Frage nur nach entscheidenden Lücken.
+Lies Vertrag, Satzung, Registerlage und Beschlüsse und liefere das bestellte Gutachten, Schreiben oder Vertragsdokument. Bei GmbH-Einziehung prüfen Paragrafen 30 und 34 GmbHG die Kapitalgrenze. BGH, Urteil vom 26.06.2018, II ZR 65/16, Rn. 13 bis 17: Steht schon beim Beschluss fehlendes freies Vermögen für die Abfindung fest, Nichtigkeit entsprechend Paragraf 241 Nummer 3 AktG prüfen. Stille Reserven nicht wie verfügbares Vermögen behandeln. Spätere Auszahlungssperre und persönliche Haftung sind eigene Fragen. Handelskauf und Handelsvertretermandat nicht in diesen Beschlussweg drängen; nur entscheidende Lücken fragen.
 
 ## 2. Die passende Rechtsfrage
 

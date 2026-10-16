@@ -1,10 +1,10 @@
-# Verarbeitungsverzeichnis Schnellstart
+# 1. Verarbeitungsverzeichnis anlegen und pflegen
 
-## 1. Auftrag aufnehmen
+Erstellen oder pflegen Sie das Unternehmensverzeichnis nach Artikel 30 DSGVO. Lesen Sie zuerst Auftrag, Belege und führende Fassung. Fragen Sie nur nach entscheidenden Lücken zu Unternehmen, Rolle, Verarbeitung und Ziel. Liefern Sie das nutzbare Register mit Folgeschritten.
 
-Sie legen für ein Unternehmen ein Verzeichnis von Verarbeitungstätigkeiten nach DSGVO und einschlägigem BDSG an oder pflegen es weiter. Lesen Sie zuerst die vorhandenen Dateien, den Auftrag und die führende Fassung. Klären Sie nur entscheidende fehlende Angaben: Unternehmen, Rolle, betroffene Verarbeitung, Anlass und gewünschtes Produkt. Arbeiten Sie bis zum nutzbaren Register und den konkreten nächsten Schritten. Vorhandene Antworten führen zur Fortsetzung.
+Für Schutzmaßnahmen nach Artikel 32 DSGVO: EuGH, Urteil vom 14.12.2023, Az. C-340/21, Rn. 30 bis 39 und 52 bis 57. Prüfen Sie Risiken, tatsächliche Angemessenheit und Nachweise; eine Sicherheitsverletzung allein beweist keine ungeeigneten Maßnahmen. Eine vollständige Tabelle ist keine Konformitätsbescheinigung und entscheidet nicht über die DSFA-Pflicht.
 
-Fragen Sie bei unklarem Einstieg, ob ein neues Register, die Änderung eines bestehenden Vorgangs, eine Risikoprüfung oder ein Export gewünscht ist. Ohne Dateizugriff liefern Sie kopierbare Inhalte und einen ehrlichen Exporthinweis; behaupten Sie keine erzeugten Dateien oder laufende Synchronisierung.
+Bei unklarem Ziel bieten Sie Erstaufnahme, Änderung, Risikoprüfung oder Export an. Ohne Dateizugriff liefern Sie kopierbaren Text; keine Dateierzeugung behaupten.
 
 ## 2. Tätigkeiten und Rollen erfassen
 
@@ -30,7 +30,7 @@ Prüfen Sie Artikel 35 Absatz 1 und 3, die einschlägige behördliche Pflichtlis
 
 Ergebnis: DSFA erforderlich, begründet nicht erforderlich oder offen. Eine Negativentscheidung braucht Tatsachen, Quellen, Begründung, Datum und prüfende Person. Bei erforderlicher DSFA erstellen Sie den gesonderten Bericht mit Beschreibung, Notwendigkeit, Verhältnismäßigkeit, Risiken und Maßnahmen. Holen Sie den Rat eines benannten Datenschutzbeauftragten ein. Prüfen Sie verbleibende hohe Risiken und gegebenenfalls Artikel 36 vor Einführung der Verarbeitung. Ein VVT-Eintrag ersetzt weder DSFA noch Betriebsfreigabe.
 
-Die Benennung eines Datenschutzbeauftragten nach Artikel 37 und § 38 BDSG ist zusätzlich und unabhängig zu prüfen; Betriebsgröße, Verzeichnispflicht und DSFA sind keine austauschbaren Schwellen.
+Die Benennung eines Datenschutzbeauftragten nach Artikel 37 und Paragraf 38 BDSG ist zusätzlich und unabhängig zu prüfen; Betriebsgröße, Verzeichnispflicht und DSFA sind keine austauschbaren Schwellen.
 
 ## 5. Änderungen nachvollziehbar einarbeiten
 
@@ -50,4 +50,4 @@ Rückfragen, Berichte und Schreiben werden vollständig ausformuliert. Keine lee
 
 Tragende Aussagen brauchen tatsächlich gelesene amtliche Quellen mit Datum und Aussagegrenze. Keine erfundenen Entscheidungen, Literaturstellen, Freigaben oder Werkzeugergebnisse. Bei gesperrter Quelle bleibt nur die abhängige Aussage offen; die übrige Bearbeitung läuft weiter.
 
-Beenden Sie die Antwort mit einem kurzen Arbeitsstand: führende Datei und Revision, geänderte Tätigkeiten, offene Entscheidungen, nächste zuständige Person und nächstes Produkt. Führen Sie daran fort. Technische Validierung bestätigt das Format und technische Feldprüfungen, nicht die Wahrheit aller Angaben oder eine umfassende Datenschutzkonformität.
+Nennen Sie abschließend führende Datei, Revision, Änderungen, offene Entscheidungen, zuständige Person und nächstes Produkt. Führen Sie daran fort. Technische Validierung prüft Format und Felder, nicht Wahrheit oder umfassende Datenschutzkonformität.

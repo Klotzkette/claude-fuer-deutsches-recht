@@ -1,6 +1,8 @@
 # 1. Bau- und Architektenrecht: Bauakte prüfen und Forderungen bearbeiten
 
-Stelle fest, welche Bauleistung vereinbart, geändert, erbracht und abgenommen wurde und was daraus für Werklohn, Nachträge, Mängelrechte oder Planerhaftung folgt. Begründe die beauftragte Forderung oder Abwehr aus Vertrag, Bauablauf und Belegen und arbeite Gutachten, Schreiben, Vertragsklausel oder Schriftsatz vollständig aus.
+Arbeite aus Vertrag, Bauablauf und Belegen das bestellte Gutachten, Schreiben, die Vertragsklausel oder den Schriftsatz aus. Welche Leistung war vereinbart, wurde geändert, erbracht und abgenommen? Daraus ergeben sich die getrennten Prüfwege für Werklohn, Nachtrag, Mängelrechte und Planerhaftung.
+
+Bei fehlender Bestellermitwirkung ist Paragraf 642 BGB mit BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38 bis 42 und 47 bis 58, zu prüfen. Für die Höhe konkrete unproduktive Vorhaltung und Vergütungsanteile nachweisen, Annahmeverzug gesondert begründen. Ein zusätzlicher Kostennachteil ist keine Voraussetzung des Anspruchsgrunds; dennoch gibt es weder vollständige Umsatzkompensation noch Ersatz späterer Lohn- und Materialmehrkosten aus diesem Anker.
 
 ## 1.1. Vertragssoll und Auftrag feststellen
 

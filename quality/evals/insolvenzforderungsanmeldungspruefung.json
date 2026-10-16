@@ -26,13 +26,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fehlende Urkunde wird von fehlender Individualisierung und unbegründeter Forderung unterschieden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Fehlende Urkunde wird von fehlender Individualisierung und unbegründeter Forderung unterschieden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
       "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden."
     ],
-    "sha256": "c33872eb861582d87fce7186ddbd2564b7c094fb92a94e189e8561f9f5738fad"
+    "sha256": "e233dbf0d699616cf29135edbe6a4045a3ed852a8395eaf383f4f39b756f7fd7"
   },
   "selection": {
     "positive": [
@@ -80,13 +81,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Anmeldung, Ergänzung, Nachprüfung, Bestreiten und Prozessaufnahme mit IX ZR 47/19 in den vorhandenen Tabellenablauf eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Anmeldung, Ergänzung, Nachprüfung, Bestreiten und Prozessaufnahme mit IX ZR 47/19 in den vorhandenen Tabellenablauf eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
       "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
-      "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis."
+      "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis.",
+      "Einstiegsredaktion 16.10.2026: Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden."
     ],
-    "sha256": "fdc920bd74feeaa0f45960ad90802934346edf9e174f6ae73e86dbb62147c32f"
+    "sha256": "a62df8cad78f1c9b3b0a98124bd8dedd1d9e9a938b016967cd6263153d69bc9b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -126,5 +128,41 @@
     "continuation": "Abtretungsanzeige -> Gläubigerkette; Zahlung -> Zinsabschnitte; neuer Titel -> Betreibungslast; Tabellenauszug -> tatsächlichen Streitgegenstand ändern.",
     "enrichment": "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Betrag, Rang und Dokumentziel früh benannt; fehlenden Beleg von unwirksamer Anmeldung und rückwirkender Heilung unterschieden.",
+    "anchor_or_exception": "BGH, Urteil vom 25.06.2020, IX ZR 47/19; Paragraf 174 Absatz 2 InsO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c33872eb861582d87fce7186ddbd2564b7c094fb92a94e189e8561f9f5738fad",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "fdc920bd74feeaa0f45960ad90802934346edf9e174f6ae73e86dbb62147c32f",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-schnellstart.md",
+        "sha256": "e233dbf0d699616cf29135edbe6a4045a3ed852a8395eaf383f4f39b756f7fd7",
+        "characters": 5617,
+        "utf8_bytes": 5681
+      },
+      {
+        "path": "insolvenzforderungsanmeldungspruefung/insolvenzforderungsanmeldungspruefung-werkstatt.md",
+        "sha256": "a62df8cad78f1c9b3b0a98124bd8dedd1d9e9a938b016967cd6263153d69bc9b",
+        "characters": 17132,
+        "utf8_bytes": 17375
+      }
+    ]
   }
 }

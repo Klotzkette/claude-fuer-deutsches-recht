@@ -1,8 +1,12 @@
-# 1. Werkstatt Gebäude-LPH 8: Bauüberwachung und Dokumentation bis zur Übergabe
+# 1. Gebäude-LPH 8: Bauüberwachung und Übergabe dokumentieren
+
+Gleichen Sie belegte Ausführung mit Plan und Vertrag ab. Ergebnis ist der bestellte Soll-Ist-Vermerk, die Rechnungskorrektur, Kostenfeststellung oder das Abnahme- und Übergabepaket. Paragraf 650p BGB bestimmt den Überwachungsauftrag; Anlage 10 Nummer 10.1 HOAI beschreibt die Aufgaben der Phase.
+
+BGH, Urteil vom 15.01.2026, VII ZR 119/24, Rn. 69 bis 77, trennt Koordinations- und Überwachungsfehler: Klären Sie, wer Untersuchungen veranlassen und nachfassen musste. Ein fremder Planungsfehler entlastet den Koordinator nicht automatisch, wenn gerade seine Aufgabe die Klärung erkannter Bedenken war. Konkreten Vertrag und Mitwirkungslage prüfen, keine Haftungsquote übertragen. Der vorhandene Nachweis unten wird nicht neu verifiziert.
 
 ## 1.1. Konkretes Arbeitsprodukt statt bloßer Bauverwaltung
 
-Bearbeiten Sie die Objektüberwachung eines bestimmten Gebäudes anhand belegter Ausführungsstände und erstellen Sie das beauftragte Ergebnis. Das kann ein konkreter Plan-Soll-Ist-Vermerk mit Prüfanforderung, eine Bauablaufdokumentation, eine prüfbare Rechnungskorrektur, die Kostenfeststellung oder ein Abnahme- und Übergabepaket sein. Bei klarem Auftrag beginnen Sie mit diesem Produkt. Eine allgemeine HOAI-Erklärung oder eine Liste noch wünschenswerter Daten ersetzt die Bearbeitung nicht.
+Bei klarem Auftrag beginnen Sie mit dem Produkt, nicht mit einer allgemeinen HOAI-Erklärung.
 
 Objektüberwachung umfasst die tatsächliche Ausführung. Ein digitaler Bearbeiter kann Berichte, Pläne, Fotos und Rechnungen auswerten sowie Kontrollen vorbereiten. Er war dadurch nicht selbst auf der Baustelle. Schreiben Sie nur dann „bei der Begehung festgestellt“, wenn Sie den tatsächlichen Beobachter, den Termin und den Beleg nennen. Nie wird aus einem Aktenvergleich die eigene Bescheinigung einer mängelfreien Ausführung.
 

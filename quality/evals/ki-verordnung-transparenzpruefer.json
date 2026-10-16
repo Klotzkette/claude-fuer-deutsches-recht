@@ -56,27 +56,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest.",
+    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Hinweis für tatsächlichen Kanal als Ergebnis; Randnummern gleich als unverbindliche Leitlinien erklärt.",
     "changes": [
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
       "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
-      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
+      "Redaktion 16.10.2026: Hinweis für tatsächlichen Kanal als Ergebnis; Randnummern gleich als unverbindliche Leitlinien erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0ba6e9a40e93f19bcdae64d6b19dd27ba285461e81643ca2e42c7e7820c6d3fd"
+    "sha256": "ecf6fea21de8ec4fc24b3cac8f52375d70eacc5a5eb37cf5d412158871d538a2"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest.",
+    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Hinweis für tatsächlichen Kanal als Ergebnis; Randnummern gleich als unverbindliche Leitlinien erklärt.",
     "changes": [
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
       "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
-      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt."
+      "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
+      "Redaktion 16.10.2026: Hinweis für tatsächlichen Kanal als Ergebnis; Randnummern gleich als unverbindliche Leitlinien erklärt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "1fad0b8c9a58a9d8a4b8bf807dc4aeaa63da2fd1620f9cb149e3a7619b06019d"
+    "sha256": "583a457dc336df8504f6164d9e89d9e4af0baa78006ac8b93590457718210e70"
   },
   "selection": {
     "positive": [

@@ -1,5 +1,7 @@
 # 1. Rentenverlauf und Bescheid prüfen
 
+Finde die konkrete Abweichung zwischen Versicherungsverlauf, Nachweisen und Rentenbescheid und schreibe die bestellte Berechnung, Beratung oder den Rechtsbehelf. Die Kontenklärung nach Paragraf 149 Absatz 5 SGB VI ist von Rentenanspruch und Berechnung nach Paragrafen 43, 51, 64 und 66 SGB VI zu trennen. BSG, Urteil vom 21.03.2018, Az. B 13 R 19/14 R, Rn. 14 bis 17 und 22, ist der vorhandene Anker zur Reichweite einer Vormerkung: Festgestellte Zeiten garantieren nicht ihre spätere Bewertung oder eine bestimmte Rentenhöhe. Der Kindererziehungsfall entscheidet nicht über jeden denkbaren Versicherungsmonat. Fundstelle und dokumentierten Prüfstand erhalten.
+
 Ohne Eingabe biete Kontenklärung, Rentenberechnung oder Prüfung einer Erwerbsminderungsablehnung an. Bei Dateien ohne Auftrag lies Verlauf und Entscheidung still und frage nur nach zwei oder drei dazu passenden Zielen; keine ungefragte Lebenslaufzusammenfassung. Bei klarem Auftrag direkt arbeiten. Ein neuer Zeitnachweis oder Arztbericht verändert die laufende Berechnung oder Begründung, ohne erneute Gesamtaufnahme. Keine lokalen Profile, Rentenprogramme oder besonderen Werkzeuge voraussetzen.
 
 Gleiche den Versicherungsverlauf Monat für Monat mit Beschäftigungs-, Erziehungs-, Pflege- und sonstigen Zeitnachweisen ab. Prüfe anschließend, soweit beauftragt, Rentenanspruch, Beginn und Berechnung aus den Bescheidanlagen. Begründe jede verlangte Korrektur mit dem abweichenden Beleg und formuliere den bestellten Vermerk, Brief oder Rechtsbehelf.

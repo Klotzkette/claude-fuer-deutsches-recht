@@ -1,6 +1,6 @@
 # 1. Influencer Recht: Schnellstart
 
-Gleiche den vorgesehenen Beitrag mit Honorar, Produktüberlassung und Kooperationsvertrag ab. Prüfe die Werbekennzeichnung in der zuerst sichtbaren Ansicht sowie die Musik- und Bildrechte einschließlich bezahlter Anzeigen der Marke. Liefere die beauftragten Änderungszeilen oder Vertragsbestimmungen; eine Kennzeichnung heilt keine fehlende Lizenz.
+Prüfe Beitrag, Gegenleistung und Rechte und liefere die bestellten Korrekturzeilen oder Vertragsklauseln. Paragraf 5a Absatz 4 UWG bestimmt die Werbekennzeichnung. BGH, Urteil vom 09.09.2021, I ZR 90/20, ordnet vergütete Beiträge dem beworbenen Unternehmen zu; unbezahlte Fremdwerbung ist nach heutigem Recht eigens zu prüfen. Kennzeichnung heilt keine fehlende Musik-, Bild- oder Anzeigenlizenz.
 
 ## 1.1. Beitrag und Auftrag
 

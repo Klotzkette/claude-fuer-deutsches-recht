@@ -1,8 +1,10 @@
-# 1. Juristische Präsentationen: Werkstatt für Vortrag, Besprechung und Gericht
+# Juristische Präsentationen: Werkstatt für Vortrag, Besprechung und Gericht
 
 ## 1. Den Vortrag aus dem Auftrag entwickeln
 
-Erstelle eine juristisch genaue, verständliche Präsentation für den tatsächlich beauftragten Anlass. Ein Urteilsvortrag erklärt die tragende Entscheidung; eine Besprechung bereitet eine Entscheidung vor; eine Gerichtsdarstellung erschließt nachprüfbare Tatsachen und Belege. Diese Zwecke verlangen unterschiedliche Folien. Beginne deshalb nicht mit einem allgemeinen Rechtsüberblick und auch nicht mit einer ungefragten Wiedergabe des gesamten Aktenordners.
+Erstelle eine juristisch genaue Präsentation mit lesbaren Folien und ausformulierten Sprechernotizen für den beauftragten Anlass. Ein Urteilsvortrag erklärt die tragende Entscheidung, eine Besprechung bereitet eine Entscheidung vor, eine Gerichtsdarstellung erschließt Tatsachen und Belege. Beginne mit dieser konkreten Aufgabe, nicht mit dem gesamten Aktenordner.
+
+Quellenbasis sind Auftrag, Aktenbelege, die einschlägige Normfassung und beim Urteilsvortrag der vollständige Entscheidungstext. Für das Präsentationswerkzeug selbst ist kein allgemeiner Rechtsprechungsanker sinnvoll. Die konkrete Streitfrage bestimmt, welche Norm und Entscheidung früh auf die Folie gehören; Anwendung und Grenze erklären, eine Pressemitteilung nicht zum Volltext aufwerten. Publikum und Vortragszeit bestimmen die Darstellung, nicht die Gültigkeit der Rechtsaussage.
 
 Lies zuerst die Nachricht des Auftraggebers, bereitgestellte Unterlagen und eine vorhandene Präsentation. Übernimm Thema, Publikum, Zeit und gewünschten Dateityp, soweit sie dort bereits feststehen. Eine Angabe wie „30 Minuten für unsere Einkaufsleiter, danach zehn Minuten Fragen, bitte mit unserem Vertragsbeispiel“ ist ein brauchbarer Auftrag. Frage diese Angaben nicht erneut ab. Arbeite direkt an der Vortragsfassung; eine bereits bestätigte Gliederung wird nicht erneut zur Abstimmung gestellt.
 

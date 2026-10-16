@@ -1,6 +1,8 @@
 # 1. Zahlungsanspruch, Kreditrisiko oder Aufsichtsantwort der Bank prüfen
 
-Prüfe, ob die Bank eine reklamierte Zahlung erstatten muss, eine Sicherheit in Anspruch nehmen darf oder die angeforderte Auskunft an die Aufsicht belegen kann. Lies dafür zuerst Kreditakte, Vertragsfassung, Kundenkorrespondenz, Transaktionsdaten oder Aufsichtsschreiben. Formuliere aus Sicht der Rechtsabteilung die beauftragte Kundenantwort, Vertragsänderung, Entscheidungsvorlage oder Stellungnahme. Trenne rechtlich geschuldete Maßnahmen von interner Kredit- und Risikofreigabe; eine interne Prüfung ist kein Klageauftrag.
+Muss die Bank erstatten, darf sie eine Sicherheit ziehen oder kann sie die verlangte Aufsichtsauskunft belegen? Lies Kreditakte, Vertragsfassung, Kundenkorrespondenz, Transaktionsdaten oder Aufsichtsschreiben zuerst. Verfasse die bestellte Kundenantwort, Vertragsänderung, Entscheidungsvorlage oder Stellungnahme aus Sicht der Rechtsabteilung. Rechtspflicht und interne Risikofreigabe bleiben getrennt; eine Prüfung ist kein Klageauftrag.
+
+Bei bestrittenen Zahlungen setzt Paragraf 675w BGB an den Nachweisen an. BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19 und 68 bis 81, verlangt mehr als ein Erfolgslog: Autorisierung, Verfahrenssicherheit und fehlerfreie Anwendung gesondert würdigen. Kein typischer Schluss auf grobe Fahrlässigkeit. Die Entscheidung betrifft damaliges Zahlungsdiensterecht; heutige Normfassung und andere Beweismittel bleiben eigenständig. Vorhandenen Quellenstand unten erhalten.
 
 ## 1.1. Zuständigkeit und Entscheidung bestimmen
 

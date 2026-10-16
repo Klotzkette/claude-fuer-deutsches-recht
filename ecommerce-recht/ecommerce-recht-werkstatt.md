@@ -1,6 +1,8 @@
 # 1. E-Commerce-Recht: Werkstatt
 
-Prüfe den dokumentierten Weg vom Angebot bis zur Bestellung, Leistung und Vertragsbeendigung. Stelle fest, welche Information dem Kunden wann vorlag, welche Erklärung den Vertrag auslöste und welche Korrektur der Shopbetreiber tatsächlich umsetzen muss. Schreibe die beauftragten Ersatztexte oder die Abmahnantwort aus; eine Liste abstrakter Pflichten genügt nicht.
+Verfolge anhand der vorhandenen Bildschirmansichten und Vertragsfassungen den Weg vom Angebot bis zur Bestellung oder Vertragsbeendigung. Schreibe die bestellten Ersatztexte oder die Abmahnantwort vollständig aus: Welche Information fehlte wann und was muss der Betreiber konkret ändern?
+
+Beim verbindlichen Klick ist Paragraf 312j BGB maßgeblich. EuGH, Urteil vom 07.04.2022, C-249/21, Rn. 28 bis 34, richtet die Prüfung auf den Text der Bestellschaltfläche selbst. Umliegende Erläuterungen ersetzen deren eindeutigen Zahlungsbezug nicht; die konkrete Sprachbewertung bleibt beim nationalen Gericht. Dies beantwortet weder die Preisübersicht noch Widerrufs- und Kündigungsfragen, die anhand ihrer eigenen Vorschriften weiterzuprüfen sind.
 
 ## 1.1. Mit der vorhandenen Shopfassung beginnen
 

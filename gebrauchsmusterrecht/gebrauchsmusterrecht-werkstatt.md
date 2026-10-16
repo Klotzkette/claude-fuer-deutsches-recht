@@ -1,6 +1,8 @@
 # 1. Gebrauchsmuster anmelden, abzweigen oder angreifen
 
-Leite aus Beschreibung und Zeichnungen einen zulässigen technischen Sachanspruch ab oder prüfe den bestehenden Anspruch gegen datierte Vorveröffentlichungen und die angegriffene Ausführung. Bei einer Abzweigung ordne jedes Merkmal der ursprünglichen Patentanmeldung zu und berechne die Frist aus den amtlichen Verfahrensdaten. Liefere die beauftragte Anmeldung, Bestandsbewertung oder Verfahrensschrift.
+Erarbeite aus Beschreibung und Zeichnungen die beauftragte Anmeldung, Bestandsbewertung oder Verfahrensschrift. Vergleiche Anspruchsmerkmale mit datierten Vorveröffentlichungen oder der angegriffenen Ausführung; bei einer Abzweigung müssen Merkmale und Frist durch die ursprüngliche Patentanmeldung und amtliche Daten getragen sein.
+
+Paragrafen 2, 3 und 12a GebrMG trennen zulässigen Gegenstand, Schutzfähigkeit und Schutzbereich. BGH, Beschluss vom 20.06.2006, X ZB 27/05, Demonstrationsschrank, verbietet eine pauschal geringere Erfindungshöhe. Der besondere Stand der Technik des Gebrauchsmusterrechts bleibt aber maßgeblich; die Schonfrist schützt keine unabhängige Wettbewerberoffenbarung.
 
 ## 1.1. Rolle und Auftrag
 

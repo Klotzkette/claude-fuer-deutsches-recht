@@ -26,18 +26,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen und um drei Einstiegsmodi, Reichweite eines Auskunftsersuchens, Agenturkette und konkrete Feldfortschreibung ergänzt. Bestehende Fristen und Kammerabgrenzung erhalten; kein Live-Modelltest.",
+    "reason": "Mini vollständig gelesen und um drei Einstiegsmodi, Reichweite eines Auskunftsersuchens, Agenturkette und konkrete Feldfortschreibung ergänzt. Bestehende Fristen und Kammerabgrenzung erhalten; kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Zweck und Bundesnorm vor Startauswahl gestellt; Handwerkskammerfall auf bayerische Tätigkeit begrenzt.",
     "changes": [
       "Öffentliche Aufgaben einer Kammer von privater Verbandsarbeit abgegrenzt.",
       "Aktuelle fachgerichtliche Entscheidung mit ausdrücklicher Beschränkung auf bayerisches Registerrecht eingesetzt.",
       "Vorhandene Aktualisierungstakte, Nachforderung und fertige Feldtexte erhalten.",
-      "Neuer Nachweis einer Hauptagentur ändert bezeichnete Registerdatei und Personenzuordnung; übermittelte Stellungnahme und bereinigte öffentliche Fassung getrennt prüfen."
+      "Neuer Nachweis einer Hauptagentur ändert bezeichnete Registerdatei und Personenzuordnung; übermittelte Stellungnahme und bereinigte öffentliche Fassung getrennt prüfen.",
+      "Redaktion 16.10.2026: Zweck und Bundesnorm vor Startauswahl gestellt; Handwerkskammerfall auf bayerische Tätigkeit begrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "1272e1e9f91c75d2f66182cdbf0a7e1652a2d8ce01382f1a64d19a7a402e1643"
+    "sha256": "79e7b54a3ea616458ca8f7072ee43a807c824bc22fcebe48845c28aa47df2998"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell um gemischte Tätigkeiten, adressatenabhängige Ausnahmen, Agenturketten, Finanzzuordnung, zusammentreffende Meldetermine und öffentliche Dokumentfassungen vertieft. Kein Live-Portal- oder Modelltest.",
+    "reason": "Werkstatt individuell um gemischte Tätigkeiten, adressatenabhängige Ausnahmen, Agenturketten, Finanzzuordnung, zusammentreffende Meldetermine und öffentliche Dokumentfassungen vertieft. Kein Live-Portal- oder Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Zweck und Bundesnorm vor Startauswahl gestellt; Handwerkskammerfall auf bayerische Tätigkeit begrenzt.",
     "changes": [
       "Öffentliche Aufgaben einer Kammer von privater Verbandsarbeit abgegrenzt.",
       "Aktuelle fachgerichtliche Entscheidung mit ausdrücklicher Beschränkung auf bayerisches Registerrecht eingesetzt.",
@@ -45,9 +46,10 @@
       "Individuelles Auskunftsersuchen gegen eigenen Änderungswunsch abgrenzen; lokale Bundestagsausnahme nicht auf Regierungskontakte übertragen.",
       "Rahmenvertrag, unmittelbaren Auftraggeber, Hauptagentur, Unterauftragnehmer und eingesetzte Personen konsistent zuordnen.",
       "Finanzmittel und Aufwendungen getrennt abstimmen; September-Beispiel trennt unverzügliche Änderung, Quartalsende und Geschäftsjahresfrist einschließlich fehlendem Abschluss.",
-      "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten."
+      "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten.",
+      "Redaktion 16.10.2026: Zweck und Bundesnorm vor Startauswahl gestellt; Handwerkskammerfall auf bayerische Tätigkeit begrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "abb5eb52b20cc277241d901a476f6a2a4af148cd1898a11cb043b784f0ac6d60"
+    "sha256": "098bf0409a971c546e18b85907d3aebd90839f05c579e9f7c7eed688a742bd4b"
   },
   "selection": {
     "positive": [

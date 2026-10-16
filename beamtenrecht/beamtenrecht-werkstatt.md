@@ -1,6 +1,8 @@
-# 1. Beamtenrechtlichen Auftrag bearbeiten
+# 1. Beamtenrecht: Auswahl, Status und Bezüge prüfen
 
-Prüfe, ob eine Auswahlentscheidung den Bewerber rechtswidrig übergeht, eine Beurteilung auf einem falschen Maßstab beruht oder eine status- oder geldbezogene Entscheidung korrigiert werden muss. Bei Gesundheits- und Disziplinarfragen trenne dienstliche Anforderungen, festgestellte Tatsachen und zulässige Rechtsfolge. Lies Ernennungsurkunde, Bescheid, Beurteilung, Gutachten und Korrespondenz zuerst; verfasse das beauftragte Gutachten oder Schreiben, einen gerichtlichen Antrag nur auf Auftrag.
+Ist die Auswahlentscheidung fehlerhaft, muss eine Beurteilung korrigiert werden oder trägt der Status- beziehungsweise Bezügebescheid? Prüfe den belegten Vorgang und verfasse das beauftragte Gutachten oder Schreiben; einen gerichtlichen Antrag nur auf Auftrag. Bei Gesundheit und Disziplin trenne dienstliche Anforderungen, Tatsachen und zulässige Rechtsfolge. Urkunde, Bescheid, Beurteilung, Gutachten und Korrespondenz zuerst lesen.
+
+Für die Eilsicherung einer Auswahl sind Artikel 33 Absatz 2 GG und Paragraf 123 VwGO einschlägig. BVerwG, Beschluss vom 03.03.2025, 2 VR 4.24, Rn. 46 bis 49 und 60 bis 68, verlangt die Prüfung einer realen Auswahlchance auch bei unterstelltem Beurteilungsfehler. Bei fiktiver Fortschreibung Vergleichsgruppe und Beförderungen untersuchen; keine Note frei verbessern oder damaliges Übergangsrecht verallgemeinern. Vorhandenen Quellenstatus unten erhalten.
 
 ## 1.1. Rechtskreis und Verfahrensstand
 

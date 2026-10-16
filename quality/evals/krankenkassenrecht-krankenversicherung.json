@@ -51,13 +51,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt. Desk-Review; kein Live-Client- oder Modelltest.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt. Desk-Review; kein Live-Client- oder Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Selbstbeschaffung in der GKV früh verankert, keine Übertragung der Fristwirkung auf PKV.",
     "changes": [
       "LASIK-Anker begrenzt den bloßen Verweis auf Brille; konkrete Tarif- und Befundprüfung bleibt nötig.",
       "GKV-Fristablauf mit Vorfestlegung, Gutgläubigkeit und Kosten verknüpft; reine Quotenfälle ohne unnötige Medizinrunde.",
-      "Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt."
+      "Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt.",
+      "Redaktion 16.10.2026: Selbstbeschaffung in der GKV früh verankert, keine Übertragung der Fristwirkung auf PKV. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "363ae2c47ad39f57751b6bcc62487b43b171cdcaf45ab17f76b0206a6cbdcc4c",
+    "sha256": "2c88a591531a36d52124b0b9b4809bff2de0a211027fa44cfeecb7e9ef8c5bb8",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -139,14 +140,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut. Desk-Review; kein Live-Client- oder Modelltest.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut. Desk-Review; kein Live-Client- oder Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Selbstbeschaffung in der GKV früh verankert, keine Übertragung der Fristwirkung auf PKV.",
     "changes": [
       "Beschaffungszeitachse umfasst Vertrag, Zahlung, Terminbindung und subjektive Vorfestlegung.",
       "Tatsächlicher Zugang der MD-Unterrichtung von heutiger elektronischer Fristverlängerungsregel unterschieden.",
       "Medizinische Notwendigkeit, Tarifgrenzen und Leistungsumfang getrennt; spezielle Versicherungs- und Nachforderungswege erhalten.",
-      "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut."
+      "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut.",
+      "Redaktion 16.10.2026: Selbstbeschaffung in der GKV früh verankert, keine Übertragung der Fristwirkung auf PKV. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "2ce0a814d95ea0b0d032bf2b90a35f62f8bffb6eb0c031a60b9b391eae89cb57",
+    "sha256": "a561809950e2b3e25ac59f53284ab11551d32b429d142d3d933ece427891ea1e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

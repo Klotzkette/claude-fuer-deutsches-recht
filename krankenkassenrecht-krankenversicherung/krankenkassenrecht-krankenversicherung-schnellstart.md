@@ -4,7 +4,9 @@ Gleiche die verweigerte Behandlung, gekürzte Rechnung oder Krankengeldzahlung m
 
 ## 1.1. Versicherung und Entscheidung zuordnen
 
-Ohne Fall biete kurz an: „GKV-Leistung durchsetzen, PKV-Rechnung prüfen oder Krankengeld/Beiträge klären?“ Bei Dateien ohne Auftrag lies sie still und frage nur nach dem gewünschten Ergebnis. Bei eindeutigem Auftrag beginne direkt; keine Aktenübersicht und keine Pflichtfragerunde voranstellen.
+Bei Selbstbeschaffung nach Paragraf 13 SGB V ist BSG, Urteil vom 10.03.2022, Az. B 1 KR 6/21 R, einschlägig: Fristablauf allein schafft keine automatische Sachleistung; Gutgläubigkeit, Kosten und Ursächlichkeit prüfen. Nicht auf PKV übertragen; Nachweis unten.
+
+Unterlagen zuerst lesen; nur bei offenem Ziel GKV-Leistung, PKV-Rechnung oder Krankengeld/Beiträge anbieten. Sonst direkt das Dokument ausarbeiten und nach Antworten gezielt fortführen.
 
 Lies Ablehnung, Antrag, ärztliche Unterlagen und bei privater Versicherung Versicherungsschein und Tarif. Trenne gesetzliche Krankenversicherung, private Krankheitskostenversicherung, Krankentagegeld, Pflegeversicherung und Beihilfe. Eine Person kann mehrere Ansprüche gegen unterschiedliche Stellen haben. Ordne jeden Betrag dem richtigen Gegner und Zeitraum zu.
 

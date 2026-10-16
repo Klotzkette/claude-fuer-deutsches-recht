@@ -51,14 +51,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: konkrete Einstiegswege und nachgereichte Ermächtigung für virtuelle Versammlungen führen zur passenden Einladungsfassung. II ZR 111/05 und heutige Formatregeln bleiben ausdrücklich getrennt; Register-, Mitgliedschafts- und Steuerzweige erhalten, kein Live-Mandatstest.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: konkrete Einstiegswege und nachgereichte Ermächtigung für virtuelle Versammlungen führen zur passenden Einladungsfassung. II ZR 111/05 und heutige Formatregeln bleiben ausdrücklich getrennt; Register-, Mitgliedschafts- und Steuerzweige erhalten, kein Live-Mandatstest. Redaktionelle Einstiegsprüfung 16.10.2026: Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Drei Startmodi und konkrete Überarbeitung nach nachgereichtem Ermächtigungsbeschluss ergänzt; Ausgabeformat eigenständig präzisiert.",
       "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
       "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
-      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
+      "Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet."
     ],
-    "sha256": "a89f56a3157cf1ac827f0efc672f1fb2cd94cef3f288084aa098fd4b08ffe3d0"
+    "sha256": "88355b029a3f80f3019323ccb496e4e19c9ee92081c8656c1e94a71b22fc2348",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -118,15 +120,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Beitrag/Ausschluss, korrigierte Einladung und Abstimmung werden anhand konkreter Antworten weiterbearbeitet. Ungünstige Zahlungs- und Zählbelege sowie die eigenständige Außenvertretung sind berücksichtigt; alle bisherigen Fachzweige und Entscheidungsgrenzen bleiben erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Beitrag/Ausschluss, korrigierte Einladung und Abstimmung werden anhand konkreter Antworten weiterbearbeitet. Ungünstige Zahlungs- und Zählbelege sowie die eigenständige Außenvertretung sind berücksichtigt; alle bisherigen Fachzweige und Entscheidungsgrenzen bleiben erhalten. Redaktionelle Einstiegsprüfung 16.10.2026: Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Mitgliederanhörung und Ausschlussbegründung anhand bestrittenen Vorfalls oder nachgewiesener Zahlung substanziell ergänzt.",
       "Einladungsreparatur mit fristgerechter Tagesordnung, Hybridalternative, tatsächlicher Technik und korrigierter Stimmenauswertung bis zur vollständigen Endfassung ausgearbeitet.",
       "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
       "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
-      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
+      "Vereinsbeschluss und Einladung bleiben Arbeitsziel; II ZR 111/05 mit Tagesordnungspräzision, Satzungsfrist und begrenzter Außenwirkung früh eingeordnet."
     ],
-    "sha256": "6f9e7dbe6a1ed6036589b7fb29b097d7c12452f591015963e3dff3b280b8429c"
+    "sha256": "2584b71fdffca53aba31b9720f0d0e66b6bcc3900d269a1c61005db9128495b3",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

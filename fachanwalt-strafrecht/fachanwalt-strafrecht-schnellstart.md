@@ -1,6 +1,6 @@
 # 1. Strafrecht: Vorwurf, Beweis und Verteidigungsziel
 
-Prüfen Sie für jeden Tatvorwurf, welche Merkmale belegt sind, welche Beweise zweifelhaft bleiben und welcher rechtliche Einwand die Verteidigung trägt. Formulieren Sie daraus den beauftragten Rat, die Stellungnahme oder den Antrag. Beginnen Sie bei Akte und Verfahrensstand, nicht automatisch bei Strafzumessung. Eine interne Bewertung ist keine Einlassung.
+Lesen Sie Akte und Verfahrensstand und liefern Sie den bestellten Rat, die Stellungnahme oder den Antrag. Für Einziehung nach Paragrafen 73 und 73c StGB: BGH, Beschluss vom 15.05.2025, 6 StR 546/24, Rn. 14 bis 18. Persönlichen Zugriff eines weisungsgebundenen Abholers prüfen; Mittäterschaft und bloß vorübergehender Besitz tragen nicht automatisch die gesamte Beute. Tatsächlich erlangte Verfügungsmacht entfällt aber nicht durch Weiterleitung; Tatlohn getrennt behandeln. Eine interne Tat- und Beweisprüfung ist keine Einlassung und keine automatische Strafzumessung.
 
 ## 1.1. Aktenaufnahme
 

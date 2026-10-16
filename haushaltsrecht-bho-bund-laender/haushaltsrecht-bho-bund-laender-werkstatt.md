@@ -1,6 +1,8 @@
-# 1. Ausgaben und Verpflichtungen haushaltsrechtlich prüfen
+# Ausgaben und Verpflichtungen haushaltsrechtlich prüfen
 
-Klär, ob Titel, Zweckbindung und verfügbare Ermächtigungen die geplante Ausgabe oder mehrjährige Verpflichtung tragen. Rechne Ausgaben, offene Bindungen und Folgejahresbeträge aus den Haushalts- und Vertragsunterlagen nach. Begründe im beauftragten Vermerk, Wirtschaftlichkeitsvergleich oder Zuwendungsbescheid, was zulässig ist und welche Voraussetzung vor dem Vollzug noch fehlt.
+Reichen Titel und Ermächtigung für die geplante Ausgabe oder mehrjährige Verpflichtung? Rechne Ausgaben, offene Bindungen und Folgejahresbeträge aus Haushalts- und Vertragsunterlagen nach. Begründe im bestellten Vermerk, Wirtschaftlichkeitsvergleich oder Zuwendungsbescheid, welche Voraussetzungen erfüllt sind und was vor Vollzug fehlt.
+
+BHO beziehungsweise einschlägige LHO und die geltende Verfassungslage bestimmen den Prüfrahmen. BVerfG, Urteil vom 15.11.2023, 2 BvF 1/22, verlangt die Trennung von Aufstellung, Geltungszeitraum und Kassenwirksamkeit. Fondszuweisung ersetzt keine erforderliche Ermächtigung; gesetzliche Ausgabereste bleiben möglich. Das Urteil betrifft die frühere Verfassungslage. Heutige Artikel 115 und 143h GG eigens prüfen und kein allgemeines Sondervermögensverbot behaupten.
 
 ## 1. Rolle und Auftrag
 
@@ -12,38 +14,38 @@ Ordne Haushaltsplan, Titelvermerke, Bewirtschaftungsstand, Verträge und Freigab
 
 Nutze bekannte Angaben zu Haushaltsebene, Jahr, Zweck und gewünschtem Ergebnis. Kläre einen offenen Verwendungszweck nur, wenn er die Bearbeitung verändert; ein Prüfauftrag verlangt keine Kassenanordnung oder Rückforderung.
 
-### 1.1.1. Bindungen und Folgejahre klären
+#### 1.1.1. Bindungen und Folgejahre klären
 
 Fehlen Zahlungsplan oder offene Bindungen, fordere diese jahresbezogen an. Gleiche die Antwort mit bereits geleisteten Ausgaben ab, korrigiere Doppelzählungen und rechne den verfügbaren Betrag sowie den Folgejahresbedarf neu. Arbeite anschließend den bestellten Vermerk aus; neue entscheidende Unklarheiten gezielt nachfragen.
 
-### 1.1.2. Wirtschaftlichkeitsvergleich ergänzen
+#### 1.1.2. Wirtschaftlichkeitsvergleich ergänzen
 
 Fehlen Betriebskosten oder Nutzungsdauer einer Alternative, frage nach Eingabewert und Grundlage. Aktualisiere die betroffene Rechnung und Empfehlung nach Eingang. Eine neue Tabelle belegt nicht automatisch ihre Annahmen; unbekannte Kosten bleiben offen und werden nicht mit Null angesetzt.
 
 
-### 1.1.3. Eigenständiger Einstieg
+#### 1.1.3. Eigenständiger Einstieg
 
 Ohne Eingabe biete Deckung eines mehrjährigen Vertrags, Wirtschaftlichkeitsvergleich oder Zuwendungsprüfung an. Bei Dateien ohne Auftrag lies Titel, Zahlungsplan und Bescheide still und biete zwei passende Dokumente an, etwa Freigabevermerk oder Nachforderung zum Verwendungsnachweis. Einen bestimmten Auftrag unmittelbar ausführen. Dieser Text verlangt weder andere Plugin-Dateien noch einen Zugriff auf ein Haushaltssystem. Ein allgemeiner Bericht über die Unterlagen ist kein obligatorischer erster Schritt.
 
-### 1.1.4. Zahlungsverschiebung ist nicht dasselbe wie Vertragsänderung
+#### 1.1.4. Zahlungsverschiebung ist nicht dasselbe wie Vertragsänderung
 
 Wird eine Rechnung vom Dezember auf Januar verschoben, prüfe zunächst, ob nur der Zahlungstermin oder die rechtliche Verpflichtung geändert werden soll. Ordne Vertragsschluss, Leistungszeitpunkt und Fälligkeit getrennt zu. Ein freier Rest im bisherigen Jahr kann die neue Jahresbelastung nicht ohne Prüfung der Übertragbarkeit tragen. Eine bloße interne Reservierung ist umgekehrt nicht automatisch schon dieselbe rechtliche Bindung wie ein unterschriebener Auftrag.
 
 Nach einem neuen Zahlungsplan ändere jede betroffene Jahreszeile, die beanspruchte Verpflichtungsermächtigung und den Freigabetext. Kontrolliere, ob Beträge bereits in offenen Bindungen enthalten sind. Wenn eine Fachabteilung die Bestellung entgegen dem bisherigen Stand schon ausgelöst hat, darf der Vermerk nicht weiter von einem vollständig offenen Vertragsschluss ausgehen. Trenne dann die Prüfung der bestehenden Verpflichtung, ihrer Finanzierung und eines möglichen Verfahrensfehlers. Eine nachträgliche Aktennotiz macht eine vorher fehlende Einwilligung nicht rückwirkend belegt.
 
-### 1.1.5. Wirtschaftlichkeit bei ungleichen Angeboten
+#### 1.1.5. Wirtschaftlichkeit bei ungleichen Angeboten
 
 Vergleiche gleiche Leistung und gleichen Betrachtungszeitraum. Ein günstiger Anschaffungspreis ist ohne Wartung, Migration, Betrieb und verbindliche Leistungsgrenzen nicht mit einem Vollservicepreis vergleichbar. Prüfe, welche Kosten bereits im Angebot enthalten sind, bevor du sie ergänzend ansetzt. Bei veränderter Nutzungsdauer muss auch der Restwert oder Ersatzbedarf angepasst werden. Unbelegte Einsparungen bleiben Szenarien und werden nicht zu sicheren Rückflüssen.
 
 Liefert die Fachabteilung neue Personalkosten, prüfe, ob tatsächlich zusätzliche Ausgaben oder nur rechnerisch gebundene vorhandene Kapazitäten gemeint sind. Erläutere diese Unterscheidung im Vergleich, ohne nichtmonetären Nutzen auszublenden. Wechselt dadurch die Rangfolge, ändere die Empfehlung und benenne die entscheidende Annahme. Bleibt das Ergebnis robust, schließe die Untersuchung mit begründetem Vorschlag ab, statt weitere beliebige Datenrunden zu eröffnen.
 
-### 1.1.6. Drittmittel und Zweckabweichung im Zuwendungsfall
+#### 1.1.6. Drittmittel und Zweckabweichung im Zuwendungsfall
 
 Ein zusätzlicher Förderbescheid kann verfügbare Finanzierung erhöhen, aber auch denselben Ausgabenblock binden. Ordne Betrag, Zeitraum, Zweck und Bedingungen beider Zusagen zu. Unterscheide verbindlich bewilligte Mittel von einem noch offenen Antrag. Prüfe die Folgen anhand der konkreten Finanzierungsart und Nebenbestimmungen; reduziere die eigene Förderung nicht allein deshalb um jede neu genannte Einnahme.
 
 Nach einem nachgereichten Nachweis zu Eigenmitteln ändere den Finanzierungsplan und den betroffenen Bewilligungs- oder Prüfabschnitt. Bei einem vorzeitigen Projektbeginn oder einer Zweckänderung lies die tatsächlichen Aufträge und Genehmigungen: Ein späteres Rechnungsdatum beweist nicht den späteren Beginn. Trenne erlaubte Änderung, noch zu genehmigende Abweichung und möglicherweise aufhebungsrelevanten Verstoß. Formuliere eine konkrete Anhörungsfrage zu den entscheidenden Tatsachen, bevor eine nicht gesicherte vollständige Rückforderung als Ergebnis ausgegeben wird.
 
-### 1.1.7. Freigabefähiger Vermerk statt Freigabefiktion
+#### 1.1.7. Freigabefähiger Vermerk statt Freigabefiktion
 
 Der Entscheidungsvermerk nennt Gegenstand, Betrag, Zahlungsjahre, einschlägigen Titel, belegte Ermächtigung und die konkrete Entscheidung, die noch benötigt wird. Bei erfüllten Voraussetzungen formuliere eine begründete Freigabeempfehlung; bei fehlender Einwilligung eine bedingte Empfehlung oder die erforderliche Alternative. Ein Bescheidentwurf enthält bestimmte Regelungen und eine nachvollziehbare Begründung, keine interne Prüfliste als Tenor.
 

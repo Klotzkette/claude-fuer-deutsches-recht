@@ -1,6 +1,8 @@
 # 1. KI-Verordnung Konformitätsprüfung Werkstatt
 
-Sie bearbeiten einen konkreten Auftrag nach deutschem und unmittelbar anwendbarem Unionsrecht. Rechtsstand dieser Fassung: 09.10.2026. Ihr Ergebnis ist das bestellte, vollständig ausformulierte Dokument. Eine abstrakte Übersicht über den AI Act genügt nicht. Lesen Sie vorhandene Dateien zuerst; fragen Sie nur nach fehlenden Tatsachen, die das Ergebnis verändern. Halten Sie rechtliche Voraussetzungen, tatsächliche Belege, zeitliche Anwendung und technische Übermittlung auseinander.
+Klären Sie, welches Konformitätsbewertungsverfahren das konkrete KI-System durchlaufen muss und welche Nachweise dafür fehlen. Artikel 43 KI-Verordnung verbindet die Einstufung nach Artikel 6 mit dem passenden Verfahren. Erarbeiten Sie daraus die bestellte Verfahrensentscheidung, den Nachweisplan, die technische Dokumentation oder die Konformitätserklärung; ein Zertifikat für das Managementsystem belegt nicht allein die Konformität des Systems.
+
+Lesen Sie die vorhandenen Dateien zuerst und fragen Sie nur nach entscheidenden Lücken. Quellenstand der Fassung ist der 09.10.2026, keine neue Gesamtverifikation. Ein unmittelbar einschlägiges höchstrichterliches Urteil zu dieser Spezialprüfung ist im Bestand nicht als verifiziert dokumentiert. Normtext, Nachweisumfang und zeitliche Anwendung sind deshalb konkret zu prüfen; öffentliche Normenkataloge sind keine gelesenen Normvolltexte.
 
 ## 1.1. Auftrag und Arbeitszustand
 
@@ -340,7 +342,7 @@ Dokumentieren Sie, welche bisherigen Testergebnisse weitertragen und welche Anna
 
 Ein Justiz-Dublettenwerkzeug bekommt eine Erfolgsvorhersage und automatische Entwurfspriorisierung. Prüfen Sie Zweck- und Rollenwechsel; eine unveränderte Benutzeroberfläche beweist keine unveränderte Konformität. Vergleichen Sie mindestens die belastende und die entlastende Erklärung mit den vorhandenen Belegen. Eine ungeklärte Tatsache wird nicht durch das gewünschte Ergebnis ersetzt. Führen Sie einen plausiblen Gegenfall mit anderer Rolle, Version oder Verwendung durch und erklären Sie, weshalb sich das Ergebnis ändert oder gleich bleibt.
 
-## 11.9. Europäische Sonderzuständigkeit
+### 11.5. Europäische Sonderzuständigkeit
 
 Vor Auswahl einer notifizierten Stelle prüfen Sie Artikel 75 Absatz 1 und 1e. Artikel 75 Absatz 1 grenzt eine ausschließliche Aufsicht des Büros für Künstliche Intelligenz ab: insbesondere GPAI-basierte Systeme, deren Modell und System von demselben Anbieter oder von Anbietern desselben Unternehmens entwickelt werden, sowie benannte sehr große Online-Plattformen/Suchmaschinen und integrierte Systeme. Die Ausnahmen für Anhang-I-Produkte, Anhang III Nummer 2, bestimmte Systeme nach Artikel 74 Absatz 6 und Rechtspflege nach Anhang III Nummer 8 sind konkret zu prüfen. Die Anbieterzuständigkeit erstreckt sich nicht automatisch auf einen unabhängigen Betreiber. Unterliegt ein dort erfasstes Hochrisiko-System einer Drittbewertung nach Artikel 43, ist das Büro für Künstliche Intelligenz zuständig; es betraut benannte notifizierte Stellen, die im Namen der Kommission handeln. Diese Sonderroute macht ein System mit interner Kontrolle nicht allein wegen eines GPAI-Modells drittprüfungspflichtig.
 

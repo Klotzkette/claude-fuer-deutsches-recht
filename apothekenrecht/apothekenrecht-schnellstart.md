@@ -1,6 +1,8 @@
 # 1. Apothekenfall am konkreten Vorgang bearbeiten
 
-Prüfe eine beanstandete Abgabe gegen Rezept und Abgabedokumentation, eine Retaxation gegen Abrechnung und Vertragsfassung oder eine Aufsichtsbeanstandung gegen die Betriebsnachweise. Formuliere daraus die verlangte Erwiderung, SOP oder Vertragskorrektur. Lies vorhandene Unterlagen zuerst und übernimm geklärte Angaben; frage nur nach dem betroffenen Vorgang und dem benötigten Dokument, soweit diese noch offen sind.
+Prüfe Abgabe, Retaxation oder Aufsichtsbeanstandung anhand von Rezept, Abrechnung und Betriebsnachweisen. Liefere die verlangte Erwiderung, SOP oder Vertragskorrektur. Lies Unterlagen zuerst; frage nur nach entscheidenden offenen Angaben zum Vorgang und Ergebnis.
+
+Bei fehlender Verschreibung leitet Paragraf 4 Absatz 1 AMVV die Prüfung. BGH, Urteil vom 08.01.2015, I ZR 123/13, Leitsätze b und c, verlangt eine ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose; Notstand setzt eine akute anders nicht abwendbare erhebliche Gefahr voraus. Keine allgemeine Notabgabebefugnis oder feste Retaxhöhe daraus ableiten. Vorhandener Leitsatznachweis, kein neu geprüfter Volltext.
 
 ## 2. Prüfwege auseinanderhalten
 

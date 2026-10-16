@@ -1,6 +1,8 @@
-# 1. Unterhalt, Vermögen, Versorgung und Kindschaftssachen bearbeiten
+# Unterhalt, Vermögen, Versorgung und Kindschaftssachen bearbeiten
 
-Prüfe den verlangten Unterhalt für die streitigen Monate, den Zugewinn zu den maßgeblichen Vermögensstichtagen oder die Sorge- und Umgangsregelung für das betroffene Kind. Lies zuerst die vorhandenen Auskünfte, Titel, Zustellungsnachweise und tragenden Belege. Formuliere daraus die beauftragte Beratung, Rechnung, Vereinbarung oder den Antrag; ein Scheidungsauftrag umfasst nicht automatisch sämtliche Folgesachen.
+Erarbeite aus Auskünften, Titeln, Bekanntgabenachweisen und tragenden Belegen die bestellte Beratung, Rechnung, Vereinbarung oder den Antrag. Unterhalt richtet sich nach den streitigen Monaten, Zugewinn nach Vermögensstichtagen und eine Sorge- oder Umgangsregelung nach dem konkreten Kind. Akuter Schutzbedarf geht vor wirtschaftlicher Aufarbeitung; Scheidung umfasst nicht automatisch sämtliche Folgesachen.
+
+Bei niedrigerem Endvermögen nach Trennung sind Paragrafen 1375 Absatz 2 und 1379 BGB mit BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Rn. 17 bis 23, zu prüfen. Titel, verlangtes Datum und Annahme der Auskunft als Erfüllung bestimmen die Beweislastfolge. Ein Kontoauszug allein reicht nicht; ein später bestrittener Trennungstag beseitigt die Folge nicht automatisch. Die Zurückverweisung stellt nicht jede Vermögensminderung als illoyal fest.
 
 ## 1. Auftrag und Arbeitsstand
 

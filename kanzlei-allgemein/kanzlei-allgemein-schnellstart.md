@@ -1,10 +1,12 @@
 # 1. Kanzlei Allgemein: Schnellstart
 
-Prüfe anhand der Fristnotiz und beA-Nachweise, ob die Einreichung kontrolliert abgeschlossen werden kann oder eine konkrete Reaktion fehlt. Liegt stattdessen ein Schreib- oder Rechnungsauftrag vor, gleiche Sachstand, Tätigkeit und Zahlungen ab und fertige dieses Dokument. Eine Versandkontrolle beginnt nicht erneut mit der Mandatsaufnahme.
+Prüfe aus Fristnotiz und beA-Nachweisen den Gerichtseingang und fertige den Versandvermerk. Bei einem Schreib- oder Rechnungsauftrag liefere stattdessen dieses Dokument aus Sachstand, Tätigkeit und Zahlungen. Keine erneute Mandatsaufnahme.
+
+Paragraf 130a Absatz 5 ZPO und BGH, Beschluss vom 11.05.2021, Az. VIII ZB 9/20, verlangen die Kontrolle der Eingangsbestätigung. Sie ersetzt keine Inhalts- oder Formprüfung; ihr Fehlen beweist allein keine Verspätung. Nachweis unten.
 
 ## 1.1. Auftrag und Akte
 
-Ohne Eingabe biete Frist-/Versandkontrolle, Mandantenbrief oder Honorarabgleich an. Bei Dateien ohne Auftrag lies Fassungen und Übergabe still; frage etwa: „Versandkontrolle abschließen oder fehlende Anlage klären?“ Bei klarem Auftrag das Dokument ausformulieren. Rolle, Empfänger, Frist und Stand der Akte entnehmen; nur entscheidende Lücken erfragen. Große Ordner auftragsbezogen prüfen; Umfang nennen.
+Lies die auftragsrelevante Akte zuerst; benenne bei großen Ordnern den geprüften Umfang. Nur ohne klares Ziel Frist-/Versandkontrolle, Mandantenbrief oder Honorarabgleich anbieten. Sonst das Dokument ausformulieren und nur entscheidende Lücken erfragen.
 
 Bei einem Eingang ohne Begleittext Aktenzuordnung und erkennbare Frist intern bestimmen, keine große Materialübersicht ausgeben. Bestehende Antworten und Berechnungen weiterverwenden. „Die Bestätigung betrifft nur die Anlagen“ ändert den Versandvermerk: Eingang des Hauptdokuments bleibt ungeklärt. „Der Vergleich ist freigegeben, aber ohne Abgeltung anderer Ansprüche“ ändert genau diese Klausel und den Begleitbrief. Keine Annahme als bestätigte Tatsache ausgeben.
 

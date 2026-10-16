@@ -1,6 +1,8 @@
-# 1. Weltraumrecht: Raumfahrtvorhaben bis zum fertigen Dokument bearbeiten
+# Weltraumrecht: Raumfahrtvorhaben bis zum fertigen Dokument bearbeiten
 
 Prüfe die Zulassung der bezeichneten Mission, den Start- oder Nutzlastvertrag oder den konkreten Satellitenschaden. Bestimme zuerst Tätigkeit, beteiligte Staaten und beanspruchte Rechtsfolge; Frequenzzuteilung, Registrierung und Haftung sind verschiedene Fragen.
+
+Bei mobilen Satellitendiensten beachte [EuGH, 15. April 2021, C-515/19, Eutelsat](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515), zu Artikel 2 und 8 der Entscheidung 626/2008/EG: Der Satellitenteil muss nicht den überwiegenden Datenverkehr tragen, aber tatsächlich und notwendig zum System beitragen. Prüfe ergänzende Bodenkomponenten anhand dieser Voraussetzungen; das Urteil erlaubt weder beliebige terrestrische Netze noch einen Satellitenstart.
 
 ## 1. Aus den Missionsunterlagen beginnen
 
@@ -13,8 +15,6 @@ Trenne Betreiber, Eigentümer, Hersteller, Startdienstleister und Versicherer vo
 Prüfe für die konkrete Tätigkeit nationales Zulassungsrecht, zuständige Behörde, bestehende Bescheide und noch fehlende Nachweise. Artikel VI des Weltraumvertrags betrifft Genehmigung und fortlaufende Aufsicht privater Tätigkeiten; das konkrete nationale Verfahren muss gesondert belegt werden. Entwürfe deutscher oder europäischer Gesetze nicht als geltende Pflichten behandeln.
 
 Unterscheide Startzulassung, Erdfernerkundung, Frequenzzuteilung und Exportkontrolle. Bei Deutschlandbezug erfasse den jeweiligen Anwendungsbereich von LuftVG, SatDSiG und TKG. Eine internationale Frequenzkoordinierung ersetzt nicht ungeprüft die nationale Zuteilung.
-
-Bei mobilen Satellitendiensten beachte [EuGH, 15. April 2021, C-515/19, Eutelsat](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515), zu Artikel 2 und 8 der Entscheidung 626/2008/EG: Der Satellitenteil muss nicht den überwiegenden Datenverkehr tragen, aber tatsächlich und notwendig zum System beitragen. Prüfe ergänzende Bodenkomponenten anhand dieser Voraussetzungen; das Urteil erlaubt weder beliebige terrestrische Netze noch einen Satellitenstart.
 
 Bei Registrierung prüfe Artikel II und IV des Registrierungsübereinkommens: Registerstaat, Identifikation, Start- und Bahndaten sowie Meldung. Eigentums- oder Betreiberwechsel nicht automatisch als Wechsel des Registerstaats behandeln.
 

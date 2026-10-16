@@ -1,10 +1,14 @@
 # 1. HOAI-Leistungsphase 1: Grundlagen und Planungsauftrag klären
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt für Gebäude. Quellenbezogener Redaktionsstand: 25.09.2026.
+Klären Sie, welches Gebäude für welchen Bedarf geplant werden soll und welche Untersuchungen dafür fehlen. Ergebnis ist die bestellte Planungsgrundlage, Zielklärung oder Untersuchungsempfehlung mit belegtem Ortsbefund und abgegrenztem Auftrag.
+
+Paragraf 650p BGB bindet die Leistung an vereinbarte Planungsziele; Paragraf 34 und Anlage 10 Nummer 10.1 HOAI beschreiben das Gebäudeleistungsbild. Bedarfsplanung und vollständige Raumprogramme sind nicht allein durch das Etikett „LPH 1“ mitbeauftragt. Für diese technische Grundlagenarbeit ist kein Urteil erforderlich; Vertragsauslegung und konkrete Streitfragen bleiben gesondert zu prüfen. Vorhandener Quellenstand: 25.09.2026, keine neue Quellenprüfung.
+
+Autor: Klotzkette. Eigenständig nutzbare Gebäude-Werkstatt.
 
 ## 1.1. Arbeitsauftrag und unmittelbarer Einstieg
 
-Sie bearbeiten die Grundlagenermittlung eines konkreten Gebäudevorhabens. Ihr Ergebnis ist eine verwendbare Planungsgrundlage mit geklärtem Auftragsrahmen, belegten Bedarfsangaben, ausgewertetem Ortsbefund und begründeter Entscheidung über Untersuchungen und weitere fachlich Beteiligte. Sie produzieren das bestellte Dokument, nicht einen Vortrag über Leistungsphasen. Beginnen Sie bei klarem Auftrag mit dem ersten belastbaren Entwurf. Eine vollständige Akteninventur ist keine vorgeschaltete Pflichtübung.
+Beginnen Sie bei klarem Auftrag mit dem belastbaren Entwurf. Eine vollständige Akteninventur ist keine vorgeschaltete Pflichtübung.
 
 Wenn bereits Unterlagen vorliegen, lesen Sie zunächst diejenigen, die die Entscheidung tragen: Auftrag, Nutzerangaben, Ortsprotokoll, Bestandszeichnung und gegebenenfalls Beschluss. Fragen Sie nicht erneut nach Informationen, die daraus eindeutig hervorgehen. Bei widersprüchlichen Angaben benennen Sie den Unterschied konkret. „Sind 120 Sitzplätze oder 160 Stehplätze die verbindliche Betriebsannahme?“ ist eine brauchbare Frage; „Bitte alle Projektdaten übermitteln“ nicht.
 

@@ -125,15 +125,23 @@
   ],
   "mini_review": {
     "verdict": "retained",
-    "reason": "Verbraucher- und Händlergeschäft, konkrete Entwürfe, begrenzte Recherche und Fortsetzung werden eigenständig statt durch Standardfloskeln gesteuert.",
-    "changes": [],
-    "sha256": "c0ceab09d6434784c73deeef2ac01606f0b85495370fb4f948c5da08cc807b98"
+    "reason": "Verbraucher- und Händlergeschäft, konkrete Entwürfe, begrenzte Recherche und Fortsetzung werden eigenständig statt durch Standardfloskeln gesteuert. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung."
+    ],
+    "sha256": "8257bd4012bc53806b67a5b0585d50524ed89b42c08edc21eb9df0ab18acc227",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Die vorhandenen zwölf Fachstationen verbinden Vertragsablauf, Klauselkontrolle und Einführung; Quellenhindernisse sperren nur abhängige Teile.",
-    "changes": [],
-    "sha256": "e3b58738c54c26fd8ec687392e279d7d99237b58e13ef996698c4e71338f6952"
+    "reason": "Die vorhandenen zwölf Fachstationen verbinden Vertragsablauf, Klauselkontrolle und Einführung; Quellenhindernisse sperren nur abhängige Teile. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung."
+    ],
+    "sha256": "034b82b56b9d719806ee26dd07d07782d3128f54643e24a0c35cfae84e8fcfd6",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "method": "desk_review",
@@ -182,6 +190,27 @@
     "remaining_limits": [
       "Quellenprüfung betrifft die hier dokumentierten Kriterien, nicht jede Entscheidung im Plugin.",
       "Ergebnisqualität der drei Prüffälle muss in echten Modellläufen separat bewertet werden."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung.",
+    "source_status": "Vorhandene Entscheidungsnachweise einschließlich amtlicher Index-/Passagennachweise wiederverwendet; kein neuer Volltextabruf.",
+    "files": [
+      {
+        "path": "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "sha256": "8257bd4012bc53806b67a5b0585d50524ed89b42c08edc21eb9df0ab18acc227",
+        "reason": "Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung.",
+        "anchor_or_exception": "Paragrafen 305 bis 310 und 312j BGB; EuGH 07.04.2022 C-249/21 Fuhrmann-2: Beschriftung der Bestellschaltfläche, keine Freigabe aller Abschlusswege."
+      },
+      {
+        "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "sha256": "034b82b56b9d719806ee26dd07d07782d3128f54643e24a0c35cfae84e8fcfd6",
+        "reason": "Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung.",
+        "anchor_or_exception": "Paragrafen 305 bis 310 und 312j BGB; EuGH 07.04.2022 C-249/21 Fuhrmann-2: Beschriftung der Bestellschaltfläche, keine Freigabe aller Abschlusswege."
+      }
     ]
   }
 }

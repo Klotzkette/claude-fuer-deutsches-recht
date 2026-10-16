@@ -804,29 +804,33 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neues fachlich eigenständiges Berliner ASOG-Plugin mit aktuellen Norm- und Entscheidungsankern und vollständiger Ergebnisführung.",
+    "reason": "Neues fachlich eigenständiges Berliner ASOG-Plugin mit aktuellen Norm- und Entscheidungsankern und vollständiger Ergebnisführung. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Aktuellen ZustV-Gesamtkatalog und Spezialrechtswege getrennt eingeordnet.",
       "Datenzweck, Empfänger, heutige Kostenabsätze und konkrete Verfahrensstände differenziert.",
-      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch."
+      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch.",
+      "16.10.2026: Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt."
     ],
     "method": "desk_review",
-    "reviewed_on": "2026-10-02",
+    "reviewed_on": "2026-10-16",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md",
-    "sha256": "7f823b062280e7f8dfdbcfd52a4d960c287cdfde8949d4411a5324eb32bcdb08"
+    "sha256": "61a04511e60125ffbf59112d5b6b0a799081b1213c665724063364e0a4de0965",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neues fachlich eigenständiges Berliner ASOG-Plugin mit aktuellen Norm- und Entscheidungsankern und vollständiger Ergebnisführung.",
+    "reason": "Neues fachlich eigenständiges Berliner ASOG-Plugin mit aktuellen Norm- und Entscheidungsankern und vollständiger Ergebnisführung. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Aktuellen ZustV-Gesamtkatalog und Spezialrechtswege getrennt eingeordnet.",
       "Datenzweck, Empfänger, heutige Kostenabsätze und konkrete Verfahrensstände differenziert.",
-      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch."
+      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch.",
+      "16.10.2026: Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt."
     ],
     "method": "desk_review",
-    "reviewed_on": "2026-10-02",
+    "reviewed_on": "2026-10-16",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
-    "sha256": "b6dce7f60d82b8f023c72f8b6512f2aecad634b72a76d18d9ae4d417833d0249"
+    "sha256": "f318cc7390dd9003611126c28e725e61d8629970b33b0e2f0ab5796b84938d6f",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "verdict": "revised",
@@ -843,5 +847,26 @@
     "skill_path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
     "prompt_sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
     "skill_sha256": "43afdfc4a33b73f3c1cd5284b69de55806b7f999e35173deae464e034c1ecba6"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md",
+        "sha256": "61a04511e60125ffbf59112d5b6b0a799081b1213c665724063364e0a4de0965",
+        "reason": "Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt.",
+        "anchor_or_exception": "Paragraf 36 ASOG Berlin; BVerfG 30.09.2025 2 BvR 460/25: Durchsuchungszweck konkret bestimmen, ausländerrechtlicher Fall liefert keine ASOG-Eingriffsbefugnis."
+      },
+      {
+        "path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+        "sha256": "f318cc7390dd9003611126c28e725e61d8629970b33b0e2f0ab5796b84938d6f",
+        "reason": "Konkrete Eingriffsprüfung und Rechtsbehelfsprodukt vor umfangreichem Normkatalog; trailing whitespace entfernt.",
+        "anchor_or_exception": "Paragraf 36 ASOG Berlin; BVerfG 30.09.2025 2 BvR 460/25: Durchsuchungszweck konkret bestimmen, ausländerrechtlicher Fall liefert keine ASOG-Eingriffsbefugnis."
+      }
+    ]
   }
 }

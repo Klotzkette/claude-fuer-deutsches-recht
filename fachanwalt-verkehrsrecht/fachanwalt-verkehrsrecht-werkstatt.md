@@ -1,6 +1,8 @@
 # 1. Verkehrsrecht: Regulierung, Verteidigung und Fahrerlaubnis
 
-Ermittle aus Unfallhergang, Haftungsgrund und Schadensbelegen die begründete Forderung; prüfe bei einem Bußgeld-, Straf- oder Fahrerlaubnisauftrag stattdessen Tatnachweis, Verfahrensfehler und mögliche Rechtsfolgen. Formuliere das beauftragte Regulierungsschreiben, Gutachten, den Einspruch, Antrag oder Mandantenbrief. Lies Unfallunterlagen, Bescheide, Zustellungsnachweise, Rechnungen und Antworten zuerst.
+Entwickle aus Unfallhergang, Haftungsgrund und Schadensbelegen die begründete Forderung. Beim Bußgeld-, Straf- oder Fahrerlaubnisauftrag stattdessen Vorwurf, Verfahren und Rechtsfolgen prüfen. Lies die jeweils tragenden Unterlagen zuerst und liefere das bestellte Regulierungsschreiben, Gutachten, den Einspruch, Antrag oder Mandantenbrief.
+
+Zum Werkstattrisiko bei Paragraf 249 BGB: BGH, Urteil vom 16.01.2024, VI ZR 253/22, Rn. 14 bis 20 und 25 bis 28. Bei unbezahlter Unfallreparatur Zahlung an die Werkstatt Zug um Zug gegen entsprechende Werkstattansprüche prüfen. Unfallbezug sowie fehlendes Auswahl- und Überwachungsverschulden bleiben erforderlich; bei Zahlung an sich oder Freistellung objektiven Nachweis prüfen. Die Entscheidung ist keine allgemeine Regel für Zessionare, Kasko oder Totalschaden.
 
 ## 1.1. Verfahren und dringende Fragen
 

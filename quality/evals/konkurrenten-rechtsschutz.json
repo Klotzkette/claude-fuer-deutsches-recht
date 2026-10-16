@@ -6,16 +6,20 @@
   "runtime_status": "not_run",
   "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Kammer- oder Mandantenlaeufe. Alle Fallangaben sind kuenstlich und in den Arbeitsauftraegen enthalten; keine importierte Musterloesung oder Rubrik als Eingabe. Keine globale Rechtspruefung.",
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Original-Mini und kanonischer Schnellstart setzen bei Angriffsziel, roter Frist, Beleg und eigener Zuschlagschance an. Der gesonderte Eilpfad und Herkunftszonen fuer Systembelege sind fuer Konkurrenten geeignet. Beibehalten im begrenzten Desk-Review; keine erprobte Fristsicherung oder erfolgreiche Rechtsbehelfseinlegung behauptet.",
-    "changes": [],
-    "sha256": "6d9df6a934855ccc13d0f3e11583e760686d10dd5ee43335f86db39d72f13335"
+    "verdict": "revised",
+    "reason": "Original-Mini und kanonischer Schnellstart setzen bei Angriffsziel, roter Frist, Beleg und eigener Zuschlagschance an. Der gesonderte Eilpfad und Herkunftszonen fuer Systembelege sind fuer Konkurrenten geeignet. Beibehalten im begrenzten Desk-Review; keine erprobte Fristsicherung oder erfolgreiche Rechtsbehelfseinlegung behauptet. Redaktionelle Einstiegslektüre am 16.10.2026: Routingtabellen ans Ende verlagert; Pflicht-Dashboard und Fallkartenausgabe durch auftragsbezogenen internen Abgleich ersetzt; dezimal neu geordnet.",
+    "changes": [
+      "Redaktion 16.10.2026: Routingtabellen ans Ende verlagert; Pflicht-Dashboard und Fallkartenausgabe durch auftragsbezogenen internen Abgleich ersetzt; dezimal neu geordnet. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+    ],
+    "sha256": "53450b9e24c39b3592cfa10a27f26858549958baf20fa13c748882a935b5c939"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Original-Arbeitsprompt und kanonische Werkstatt trennen Zulassung, Angriffskern, Akteneinsicht, Beweiskette und Eilrechtsschutz. Die Fachskills begrenzen den Zuschlagsstopp auf den richtigen Verfahrensakt und unterscheiden Tatsachen, Indizien und Einsichtsluecken. Keine Textaenderung und kein Test einer realen Zustellung oder Kammerreaktion.",
-    "changes": [],
-    "sha256": "b5e5875c240c962cda5c06ace4e1d9ccd1b2eec18222bf6a4ad712bf02b69502"
+    "verdict": "revised",
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt trennen Zulassung, Angriffskern, Akteneinsicht, Beweiskette und Eilrechtsschutz. Die Fachskills begrenzen den Zuschlagsstopp auf den richtigen Verfahrensakt und unterscheiden Tatsachen, Indizien und Einsichtsluecken. Keine Textaenderung und kein Test einer realen Zustellung oder Kammerreaktion. Redaktionelle Einstiegslektüre am 16.10.2026: Routingtabellen ans Ende verlagert; Pflicht-Dashboard und Fallkartenausgabe durch auftragsbezogenen internen Abgleich ersetzt; dezimal neu geordnet.",
+    "changes": [
+      "Redaktion 16.10.2026: Routingtabellen ans Ende verlagert; Pflicht-Dashboard und Fallkartenausgabe durch auftragsbezogenen internen Abgleich ersetzt; dezimal neu geordnet. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+    ],
+    "sha256": "b0a4af8891e622cdf44df8ce40a3caaf6867038cc8f2de165ec2151a7f9c20b0"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",

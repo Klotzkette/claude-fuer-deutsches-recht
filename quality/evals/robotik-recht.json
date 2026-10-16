@@ -31,29 +31,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Robotervorfall und Arbeitsprodukt statt Startmenü eröffnet; vorhandenen frühen Sicherheitsanker im Mini erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
       "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
-      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Robotervorfall und Arbeitsprodukt statt Startmenü eröffnet; vorhandenen frühen Sicherheitsanker im Mini erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "097c93b5409377228832558897fbae5f9ffc4c6986da166f0c774a988dabbf7b",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "3ff23297831ff5372c36829d6ae23fcb3cfb9b1b7e9c53ab99dccc00fe543fd7",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Robotervorfall und Arbeitsprodukt statt Startmenü eröffnet; vorhandenen frühen Sicherheitsanker im Mini erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
       "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
-      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Robotervorfall und Arbeitsprodukt statt Startmenü eröffnet; vorhandenen frühen Sicherheitsanker im Mini erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "94af78c9597706c8aa9ccbd363a9827b1e122dc9ec978988bad8a2ee0cc23e90",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "c39e062d14acb2e2c581b47b2cec30f679325401022cdfc6370eea6b10de3b87",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

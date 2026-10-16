@@ -1,6 +1,8 @@
-# 1. Anbietervertrag für den konkreten Kanzleieinsatz prüfen
+# 1. KI-Vertrag für den konkreten Kanzleieinsatz prüfen
 
-Prüfe, ob der Anbieter Mandatsinhalte nur zur beauftragten Verarbeitung verwenden darf und ob Support, Protokolle und Unterauftragnehmer einen unzulässigen Geheimniszugang eröffnen. Lies dazu Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Unterauftragnehmerliste, Konfiguration und bisherige Antworten. Formuliere die erforderlichen Klauseländerungen oder das bestellte Einsatzgutachten; ein Beschaffungsauftrag führt nicht ungefragt zu einem Aufsichtsverfahren.
+Darf der Anbieter Mandatsinhalte für die vereinbarte Verarbeitung nutzen, und wer erhält über Support, Protokolle oder Unterauftragnehmer Zugang? Lies Vertrag, Leistungsbeschreibung, Datenschutzvereinbarung, Konfiguration und bisherige Antworten. Liefere Klauseländerungen oder das bestellte Einsatzgutachten; kein ungefragtes Aufsichtsverfahren.
+
+Paragraf 43e BRAO verlangt die eigenständige Prüfung des Geheimniszugangs. Bei Drittlandtransfer über Standarddatenschutzklauseln kommt Artikel 46 DSGVO hinzu. EuGH, Urteil vom 16.07.2020, C-311/18, Rn. 125 bis 135, verlangt den Abgleich von Empfängerrecht und zusätzlichen Maßnahmen; unzureichend geschützte Übermittlung ist auszusetzen oder zu beenden. Kein allgemeines Cloud-Verbot, keine Entscheidung über Paragraf 43e BRAO oder spätere Angemessenheitsbeschlüsse. Den vorhandenen Passagennachweis unten nicht zur neuen Vollprüfung erklären.
 
 ## 1.1. Berufsrolle und Datenweg
 

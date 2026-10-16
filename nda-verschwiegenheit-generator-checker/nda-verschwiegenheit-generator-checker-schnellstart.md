@@ -2,6 +2,8 @@
 
 Entwirf oder prüfe die Verschwiegenheitsvereinbarung: Welche Informationen darf der Empfänger zu welchem Zweck nutzen, wem darf er sie zugänglich machen und was gilt nach Ende des Austauschs? Eine NDA zur Prüfung einer Kooperation regelt nicht ohne Auftrag bereits deren Durchführung.
 
+Paragraf 2 GeschGehG verlangt tatsächliche angemessene Geheimhaltungsmaßnahmen. BAG, Urteil vom 17.10.2024, Az. 8 AZR 172/23, begrenzt umfassende nachvertragliche Mitarbeiter-Schweigepflichten. Schutzgegenstand und Dauer konkret regeln; kein pauschales Verbot langfristiger Unternehmens-NDAs daraus ableiten. Vertraglicher Schutz kann weiter reichen als der gesetzliche Geheimnisbegriff; Quelle unten.
+
 Ohne Eingabe biete kurz an: „Neue NDA entwerfen, fremde Verschwiegenheitsklauseln prüfen oder auf eine konkrete Weitergabe reagieren?“ Bei Dateien ohne Aufgabe lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag direkt entwerfen oder prüfen, ohne Materialreferat und ohne Pflichtfolge mehrerer Gesprächsrunden. Nur entscheidende Lücken erfragen; bereitgestellter Text genügt auch ohne Datei- und Werkzeugzugriff.
 
 Lies Sachverhalt, vorhandenen Entwurf und Informationsbeschreibung zuerst. Bestimme einseitigen oder gegenseitigen Austausch, Rollen, Länder und Zweck aus diesen Unterlagen. Offene Parteienangaben als Platzhalter kennzeichnen, nicht erfinden.

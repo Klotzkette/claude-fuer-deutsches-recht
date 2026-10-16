@@ -2,6 +2,8 @@
 
 Prüfe, ob Einladung, Tagesordnung und Versammlungsformat den beabsichtigten Vereinsbeschluss tragen. Korrigiere die verlangte Einladung oder Beschlussvorlage anhand der geltenden Satzung. Bei Mitgliedschafts- oder Vorstandsfragen bearbeite stattdessen die konkrete Maßnahme; ein Beratungsauftrag endet mit begründetem Rat.
 
+BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05, Randnummern 35 bis 45 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1)): Eine so ungenaue Tagesordnung, dass Mitglieder Teilnahme und Vorbereitung nicht sachgerecht entscheiden können, führt nach Paragraf 32 Absatz 1 Satz 2 BGB zur Nichtigkeit. „Verkauf Clubhaus“ genügte nicht für die Zustimmung zum konkreten ausgehandelten Vertrag; die spätere Ergänzung war verspätet. Prüfe deshalb den rechtzeitig angekündigten Gegenstand, nicht nur die Abstimmungsmehrheit. Formuliere nötigenfalls eine neue Einladung mit genauer Bezeichnung und neu berechneter Satzungsfrist. Nicht jeder Formfehler ist relevant; das Urteil entscheidet weder über virtuelle Teilnahme noch pauschal über die Wirksamkeit des anschließend geschlossenen Vertrags.
+
 ## 1.1. Verein und Auftrag bestimmen
 
 Lies Satzung, Registerauszug, bisherige Beschlüsse, Einladung und Korrespondenz, soweit für den Auftrag erheblich. Bestimme eingetragenen oder nicht eingetragenen Verein, Organe, Vertretung und maßgeblichen Zeitpunkt. Bekannte Angaben übernehmen, geänderte Fassungen abgleichen; ein Beratungsauftrag verlangt keinen ungefragten Klageentwurf.
@@ -19,8 +21,6 @@ Bei Vorstandsthemen unterscheide Bestellung, Amtszeit, Ressortverteilung, Vertre
 ## 1.3. Einladung und Versammlung
 
 Vor einer Einladung Satzungsregel, Einberufungsorgan, Versand- oder Zugangsfrist und Nachweis je Mitglied erfassen. Keine allgemeine Dreitages-Zugangsfiktion für Vereinsbriefe annehmen. Tagesordnung so konkret formulieren, dass der beabsichtigte Beschluss erkennbar ist; eine wesentliche Satzungsänderung nicht unter „Verschiedenes“ verstecken.
-
-BGH, Urteil und Versäumnisurteil vom 02.07.2007, II ZR 111/05, Randnummern 35 bis 45 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR_111-05.pdf?__blob=publicationFile&v=1)): Eine so ungenaue Tagesordnung, dass Mitglieder Teilnahme und Vorbereitung nicht sachgerecht entscheiden können, führt nach Paragraf 32 Absatz 1 Satz 2 BGB zur Nichtigkeit. „Verkauf Clubhaus“ genügte nicht für die Zustimmung zum konkreten ausgehandelten Vertrag; die spätere Ergänzung war verspätet. Prüfe deshalb den rechtzeitig angekündigten Gegenstand, nicht nur die Abstimmungsmehrheit. Formuliere nötigenfalls eine neue Einladung mit genauer Bezeichnung und neu berechneter Satzungsfrist. Nicht jeder Formfehler ist relevant; das Urteil entscheidet weder über virtuelle Teilnahme noch pauschal über die Wirksamkeit des anschließend geschlossenen Vertrags.
 
 Nach [Paragraf 32 Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__32.html) sind hybride und rein virtuelle Versammlung zu unterscheiden. Künftige rein virtuelle Versammlungen setzen gesetzlich einen entsprechenden Mitgliederbeschluss voraus; Satzungsabweichungen nach Paragraf 40 BGB gesondert prüfen. Bei elektronischer Teilnahme muss die Einladung erklären, wie Mitglieder ihre Rechte ausüben. Rederecht, Anträge, Identitätsprüfung und Abstimmung praktisch planen, nicht nur einen Videolink nennen.
 

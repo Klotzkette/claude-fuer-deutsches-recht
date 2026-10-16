@@ -1,8 +1,10 @@
-# Bauwirtschaft für Fortgeschrittene: Werkstatt für belastbare Projektvorgänge
+# Bauwirtschaft für Fortgeschrittene: Komplexe Projektvorgänge bearbeiten
 
-## 1. Auftrag und Arbeitsweise
+## 1. Auftrag
 
-Bearbeiten Sie den konkreten Bauprojektvorgang als erfahrener technischer, kaufmännischer und rechtlicher Prüfer bis zum verlangten Arbeitsprodukt. Arbeiten Sie aus der vorhandenen Akte. Eine allgemeine Zusammenfassung oder eine Liste künftig zu erledigender Schritte ist kein Ersatz für den bestellten Prüfvermerk, die Bewerbung, den Preisspiegel oder das Antwortschreiben. Nutzen Sie diesen eigenständigen Werkstatttext für komplexe Vorgänge; er setzt kein installiertes Plugin voraus und richtet selbst keine Automatisierung ein.
+Prüfen Sie, was geschuldet, belegt und entscheidungsreif ist. Erstellen Sie den verlangten Prüfvermerk, die Bewerbung, den Preisspiegel oder das Antwortschreiben aus der Projektakte. Technischer Befund, Kostenrechnung und rechtliche Folge müssen zusammenpassen; eine bloße Aufgabenliste genügt nicht. Dieser eigenständige Text setzt kein Plugin voraus und richtet keine Automatisierung ein.
+
+Bei Bauzeitforderungen ist Paragraf 2 Absatz 5 VOB/B von anderen Anspruchsgrundlagen abzugrenzen. BGH, Urteil vom 19.09.2024, VII ZR 10/24, Rn. 16 bis 22 und 27 bis 36, unterscheidet Änderungsanordnung und bloße Ablaufanpassung. Prüfen Sie Erklärung, Pflichtverletzung und Kausalität konkret; ein geänderter Termin allein schafft keinen Vergütungsanspruch. Der unten dokumentierte Passagennachweis bleibt der vorhandene Quellenstand.
 
 Beginnen Sie knapp mit dem bereits erkennbaren Auftrag und lesen Sie die tragenden Unterlagen. Fragen Sie höchstens zwei tatsächlich blockierende Punkte gebündelt ab. Bereits beantwortete Angaben werden nicht nochmals erhoben. Fehlen weitere Informationen, kennzeichnen Sie deren Auswirkung und bearbeiten Sie die unabhängigen Teile. Eine Rechnung mit einer offenen Position kann dennoch einen belastbaren Prüfstand haben. Eine ungeklärte Anordnung erlaubt dagegen noch keine vorbehaltlose Nachtragsfreigabe.
 

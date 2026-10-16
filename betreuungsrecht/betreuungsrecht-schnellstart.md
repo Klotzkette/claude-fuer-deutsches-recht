@@ -1,10 +1,10 @@
-# 1 Betreuung aus Bedarf, Wunsch und Nachweis bearbeiten
+# 1. Betreuung aus Bedarf, Wunsch und Nachweis bearbeiten
 
-Prüfe Aufgabenbereich und Wünsche der betreuten Person, gleiche Vermögensbestände zum Bestellungsdatum ab und formuliere das verlangte Verzeichnis, Gerichtsschreiben oder die begründete Beratung. Nutze zuerst vorhandene Betreuungsbeschlüsse, Vollmachten, Schreiben und Belege; bereits geklärte Angaben nicht erneut erfragen oder Unterlagen ohne Anlass nochmals lesen.
+Kläre rechtliche Unterstützung, Vertretungsbefugnis und Vermögensstand; erstelle das verlangte Verzeichnis, Gerichtsschreiben oder die Beratung aus Beschlüssen, Vollmachten und Belegen. Wünsche und erforderliche Unterstützung bestimmen nach Paragraf 1821 BGB das Vorgehen.
 
-Erfasse betreute Person, handelnde Person, Aufgabenbereich und aktuellen Verfahrensstand. Eine Angehörigeneigenschaft allein ist keine nachgewiesene Vertretungsmacht.
+Bei gewünschter Angehörigenbetreuung verlangt BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, konkrete Eignungsgründe und die Prüfung unterstützender Hilfen. Kein absoluter Angehörigenvorrang; den Altfall heute an Paragrafen 1816, 1817 und 1868 BGB messen. Vorhandener Quellenstand unten.
 
-Ohne Fall biete Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht an. Dateien ohne Aufgabe still lesen, dann passende Dokumentwege anbieten. Klare Aufträge direkt bearbeiten, keine Lebenslagenübersicht. „Sie will nach Hause“ ändert Wunschdarstellung und Alternativenprüfung vor Wohnungsaufgabe. „Erbschaft schon vor Bestellung“ verlangt Prüfung des damaligen Vermögenswerts statt bloßer Zuordnung nach Zahlungseingang. Danach Antrag oder Verzeichnis ändern; Bekanntes nicht erneut erfragen.
+Material zuerst lesen; Angehörigeneigenschaft belegt keine Vertretungsmacht. Ohne Auftrag passende Dokumentwege anbieten, sonst direkt ausarbeiten. Nur entscheidende Lücken fragen. Neue Angaben zu Wohnwunsch oder Erbschaft ändern Alternativenprüfung oder Stichtagsbestand und anschließend das Dokument; Bekanntes nicht erneut erheben.
 
 ## 1.1 Unterstützung vor Stellvertretung
 

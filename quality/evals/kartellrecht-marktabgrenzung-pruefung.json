@@ -31,14 +31,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini prüft Wechselhindernisse zertifizierter Anwendungen anhand tatsächlicher Nachfragesubstitution und vermeidet eine bloße Produktähnlichkeitsprüfung. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Neue Zertifizierung mit Datum und Verwendungsbereich -> Kundengruppe, zeitlichen Nenner, Marktanteil und Behörden-/Memotext gemeinsam ändern.",
+    "reason": "Der Mini prüft Wechselhindernisse zertifizierter Anwendungen anhand tatsächlicher Nachfragesubstitution und vermeidet eine bloße Produktähnlichkeitsprüfung. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Neue Zertifizierung mit Datum und Verwendungsbereich -> Kundengruppe, zeitlichen Nenner, Marktanteil und Behörden-/Memotext gemeinsam ändern. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen.",
     "changes": [
       "27/76 mit Produktmerkmalen und nachgewiesener begrenzter Substitution operationalisiert.",
       "Keinen festen Markt oder erfundene SSNIP-Grenze aus der Entscheidung abgeleitet.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "Redaktion 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "a516cf7cfa45bbba097a96ef5714714fd132ada1f14b7ecb028f504764417c3a"
+    "sha256": "c3127538ccedfd1cd0f43d0d20514b5fec14391140a678e6f671cb5972ac0999"
   },
   "selection": {
     "positive": [
@@ -86,13 +87,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verwendet United Brands als methodischen Maßstab und begrenzt die Übertragung vom Bananenmarkt auf technische Produkte ausdrücklich. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
+    "reason": "Die Werkstatt verwendet United Brands als methodischen Maßstab und begrenzt die Übertragung vom Bananenmarkt auf technische Produkte ausdrücklich. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort. Redaktionelle Einstiegslektüre am 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen.",
     "changes": [
       "27/76 mit Produktmerkmalen und nachgewiesener begrenzter Substitution operationalisiert.",
       "Keinen festen Markt oder erfundene SSNIP-Grenze aus der Entscheidung abgeleitet.",
-      "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort."
+      "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
+      "Redaktion 16.10.2026: Tatsächliche Austauschbarkeit vor methodischer Navigation verankert; historischen Produktmarkt nicht übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "7282d4bbecf671eec823abfc16ffd2db497ec9f1e47034a1ce68dc2ad1c59f08"
+    "sha256": "ba4ff39028268860d84cfe0355ba3f48daa0b8a6444c700cac05964a515afc40"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

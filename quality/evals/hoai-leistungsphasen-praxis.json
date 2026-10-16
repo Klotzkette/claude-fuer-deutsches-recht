@@ -31,14 +31,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen; Stufen-, Leistungs- und Rechnungsabgleich erhalten. Honorarvereinbarung und Verbraucherhinweis sowie historische Mindestsatzgrenze konkretisiert. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Vollständig gelesen; Stufen-, Leistungs- und Rechnungsabgleich erhalten. Honorarvereinbarung und Verbraucherhinweis sowie historische Mindestsatzgrenze konkretisiert. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VII ZR 174/19 mit Inland-/Privatparteigrenze und konkretem Vertrauensschutz angewandt.",
       "Paragraf 7 HOAI: fehlender Verbraucherhinweis senkt höheres, erhöht aber kein niedriger vereinbartes Honorar.",
       "Paragraf 8 und Stufenabruf bleiben getrennt von Mangelrechten; Überschriften dezimal vereinheitlicht.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt."
     ],
-    "sha256": "75aaae3e69ec64088342d3c50a8e5af4bce33c6b73aa9581a03878b0703da4e9"
+    "sha256": "de84ddecf91af69ca7cf4cabf96c846bf39bacb56ba4fe338a2f33cf14f34881"
   },
   "selection": {
     "positive": [
@@ -86,14 +87,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Leistungsphasen, Honorar-, Haftungs- und Förderzweige gelesen und erhalten. Aktuelles Preisrecht von verifiziertem Altvertragsurteil getrennt; EuGH-Hinweise als nicht eigenständig verifiziert ausgewiesen. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Alle Leistungsphasen, Honorar-, Haftungs- und Förderzweige gelesen und erhalten. Aktuelles Preisrecht von verifiziertem Altvertragsurteil getrennt; EuGH-Hinweise als nicht eigenständig verifiziert ausgewiesen. Individuelle redaktionelle Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VII ZR 174/19 mit Inland-/Privatparteigrenze und konkretem Vertrauensschutz angewandt.",
       "Paragraf 7 HOAI: fehlender Verbraucherhinweis senkt höheres, erhöht aber kein niedriger vereinbartes Honorar.",
       "Paragraf 8 und Stufenabruf bleiben getrennt von Mangelrechten; Überschriften dezimal vereinheitlicht.",
-      "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile."
+      "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile.",
+      "Einstiegsredaktion 16.10.2026: Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt."
     ],
-    "sha256": "9bb861034099b8134e633b48410202fa3635dd133eb43dd331f13de1cf08e46e"
+    "sha256": "db7a53ac51027a872b6fd44d6108d94ec56dc2089f1515a677ceeef5dfa82545"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -146,5 +148,41 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Abruf, Leistung und Honorar früh getrennt; Altvertrags-Mindestsatzentscheidung zeitlich und personell begrenzt.",
+    "anchor_or_exception": "BGH, Urteil vom 02.06.2022, VII ZR 174/19; Paragrafen 650p bis 650t BGB, einschlägige HOAI-Fassung",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "75aaae3e69ec64088342d3c50a8e5af4bce33c6b73aa9581a03878b0703da4e9",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "9bb861034099b8134e633b48410202fa3635dd133eb43dd331f13de1cf08e46e",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md",
+        "sha256": "de84ddecf91af69ca7cf4cabf96c846bf39bacb56ba4fe338a2f33cf14f34881",
+        "characters": 7085,
+        "utf8_bytes": 7178
+      },
+      {
+        "path": "hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md",
+        "sha256": "db7a53ac51027a872b6fd44d6108d94ec56dc2089f1515a677ceeef5dfa82545",
+        "characters": 19999,
+        "utf8_bytes": 20338
+      }
+    ]
   }
 }

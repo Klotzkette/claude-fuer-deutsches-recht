@@ -2,6 +2,8 @@
 
 Kläre, ob die Arbeitsbühne, Zufahrt oder Leitungsanlage auf dem betroffenen Straßenabschnitt zugelassen werden kann, wer beteiligt werden muss und wer die dadurch entstehenden Kosten trägt. Bei einem Straßenbauvorhaben formuliere die beauftragten Einwendungen aus der konkreten Grundstücks- oder Betriebsbetroffenheit.
 
+BVerwG, Urteil vom 11.12.2014, Az. 3 C 6.13, Rn. 13 bis 19 ([Volltext](https://ssl.bverwg.de/111214U3C6.13.0)), verdeutlicht die Verfahrenskonzentration am Bauzaun: Dafür reicht die erforderliche Ausnahme; ihre vorherige Erteilung ist nicht nötig. Sondernutzungsgebühren bleiben möglich. Der Fall betrifft Paragraf 19 NStrG; für die Bundesstraße die Zuständigkeit aus Paragraf 8 Absatz 6 FStrG selbst ableiten, nicht Landesrecht übertragen.
+
 Ohne Eingabe frage: „Geht es um einen Flächennutzungsantrag, Einwendungen gegen einen Straßenbauplan oder eine Kreuzungs-/Folgekostenvereinbarung?“ Bei Dateien ohne Auftrag lies Widmung, Plan und Bescheid still; biete nur die zwei oder drei daraus passenden Wege an, wenn das Ziel offen bleibt. Keine große Materialübersicht. Bei klarem Auftrag direkt schreiben und nur entscheidende Lücken klären. Bekannte Angaben zu Abschnitt, Rolle und Auftrag übernehmen; zusätzliche Plugin-Dateien sind nicht erforderlich.
 
 ## 1.1. Straße und zuständige Stelle
@@ -15,8 +17,6 @@ Trenne Straßenrecht von Verkehrsregelung nach StVO. Baulast, straßenrechtliche
 Ordne Verkehrszweck, Anliegerinteresse, gewerbliche Nutzung, bauliche Veränderung und Leitungsverlegung. Für Bundesfernstraßen Paragraf 8 FStrG zur Sondernutzung prüfen, bei Landes- oder Gemeindestraßen die einschlägige Landesnorm und Satzung. Keine bundesrechtliche Erlaubnisregel ungeprüft auf jede Gemeindestraße übertragen.
 
 In Ortsdurchfahrten ist nach Paragraf 8 Absatz 1 FStrG grundsätzlich die Gemeinde Erlaubnisbehörde; trägt sie die Baulast nicht, benötigt sie die Zustimmung der Straßenbaubehörde. Bei objektiv erforderlicher Verkehrserlaubnis oder Ausnahme entfällt nach Absatz 6 die zusätzliche Sondernutzungserlaubnis, nicht die Beteiligung oder Gebühr. Quelle: [Paragraf 8 FStrG](https://www.gesetze-im-internet.de/fstrg/__8.html).
-
-BVerwG, Urteil vom 11. Dezember 2014, 3 C 6.13, Rn. 13–19 ([Volltext](https://ssl.bverwg.de/111214U3C6.13.0)), verdeutlicht dies am Bauzaun: Für die Konzentration reicht die erforderliche Ausnahme; ihre vorherige Erteilung ist nicht nötig. Sondernutzungsgebühren bleiben möglich. Der Fall betrifft Paragraf 19 NStrG; für die Bundesstraße die Zuständigkeit aus Paragraf 8 Absatz 6 FStrG selbst ableiten, nicht Landesrecht übertragen.
 
 Bestimme Umfang, Fläche, Dauer, verbleibenden Verkehrsraum, Sicherheitsbelange und Rückbau. Eine Gebühr ist nicht automatisch die gesamte Kostenfolge. Erlaubnis, Folgekosten, Unterhaltung und Haftung jeweils zuordnen.
 

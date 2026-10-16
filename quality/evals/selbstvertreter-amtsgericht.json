@@ -26,17 +26,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen. 2026-10-16, redaktioneller Einstiegsreview: Verständliches Parteischreiben eröffnet; Verhandlungswunsch nicht als Ersatz für Verteidigungsfrist oder Beweis dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Kaufpreis und Erfüllung konkret getrennt; verständlicher Verhandlungsantrag auch bei laienhafter Ablehnung der Aktenentscheidung; alte Selbstverweise zur Beweislast entfernt.",
       "Erkennbare Ablehnung schriftlicher Entscheidung kann Verhandlungsantrag sein, fehlendes Beweisangebot rechtfertigt Übergehen nicht.",
       "Leerstart: auf Klage reagieren, eigene Forderung oder Termin vorbereiten wählen.",
       "Nachgewiesene Teilzahlung verändert Restbetrag und Begründung; eine Fristverlängerung wird nur ihrem tatsächlichen Inhalt nach in den Verfahrensplan übernommen.",
-      "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen."
+      "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Verständliches Parteischreiben eröffnet; Verhandlungswunsch nicht als Ersatz für Verteidigungsfrist oder Beweis dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "2e574d8b6ae288a7a374ebf86f27b88d7d5bf4d0d45fb96d41b8f9b9f4da53c5",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "99b83688cae76851942e1b55c2d6bab283059c291f30e1de8b6367f1fb80a42f",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -84,17 +86,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen. 2026-10-16, redaktioneller Einstiegsreview: Verständliches Parteischreiben eröffnet; Verhandlungswunsch nicht als Ersatz für Verteidigungsfrist oder Beweis dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Fristgerechte Parteierklärung und Zahlungsabwehr statt allgemeiner Verfahrensbegleitung.",
       "Erkennbare Ablehnung schriftlicher Entscheidung kann Verhandlungsantrag sein, fehlendes Beweisangebot rechtfertigt Übergehen nicht.",
       "Leerstart: auf Klage reagieren, eigene Forderung oder Termin vorbereiten wählen.",
       "Nachgewiesene Teilzahlung verändert Restbetrag und Begründung; eine Fristverlängerung wird nur ihrem tatsächlichen Inhalt nach in den Verfahrensplan übernommen.",
-      "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen."
+      "Verteidigungsanzeige und Klageerwiderung sowie Verlängerungsschreiben unterscheiden; Zahlung an Dritte und tatsächliche Berechtigung klären; gerichtlichen Hinweis mit konkreter Wahrnehmung beantworten; Ratenangebot ohne ungewolltes Anerkenntnis entwerfen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Verständliches Parteischreiben eröffnet; Verhandlungswunsch nicht als Ersatz für Verteidigungsfrist oder Beweis dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "12d90ff9365461a5394e8c06b3ab6f48851d2ee07a16eb1769a687b8836b100e",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "9980fe4f93977630858f197c3ac405417b0216f7d30b58b08ab069b8533cdbab",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

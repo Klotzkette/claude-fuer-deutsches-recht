@@ -669,25 +669,27 @@
     "verdict": "revised",
     "method": "desk_review",
     "reviewed_on": "2026-10-09",
-    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten.",
+    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten. Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
       "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
-      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist."
+      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist.",
+      "Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt."
     ],
-    "sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7"
+    "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a"
   },
   "workshop_review": {
     "verdict": "revised",
     "method": "desk_review",
     "reviewed_on": "2026-10-09",
-    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten.",
+    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten. Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
       "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
-      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist."
+      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist.",
+      "Einstiegsredaktion 16.10.2026: Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt."
     ],
-    "sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a"
+    "sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6"
   },
   "focus_review": {
     "method": "desk_review",
@@ -2108,5 +2110,53 @@
       "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V10_Rabenstein_Entwurfsrueckmeldung.eml": "ef611774a6cf049a2f507616b5f18d0baa5dde59709bdcb18b581b5c51c18366",
       "testakten/gesellschafterstreit-klageerwiderung-berlin/Vergleich_2026-10-09/V11_Heller_Protokoll_und_Korrekturen.eml": "5cfbb03bf415265190247260fb7ac220b306ad0e36189dae2602c95005f120e1"
     }
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Brief, Beschluss, Vergleich und Schriftsatz als konkrete Ergebnisse benannt; Listenlegitimation, Mitgliedschaftsklage und fehlende Registersperre früh getrennt.",
+    "anchor_or_exception": "BGH, Urteil vom 21.04.2026, II ZR 50/25; Paragraf 16 GmbHG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschafterstreit/gesellschafterstreit-schnellstart.txt",
+        "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+        "characters": 7209,
+        "utf8_bytes": 7321
+      },
+      {
+        "path": "gesellschafterstreit/gesellschafterstreit-werkstatt.txt",
+        "sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6",
+        "characters": 101440,
+        "utf8_bytes": 103261
+      },
+      {
+        "path": "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
+        "sha256": "e0327128174afef67b5e3a53ad98a90abaaccc9da55ebfc22659339e32ee627a",
+        "characters": 7209,
+        "utf8_bytes": 7321
+      },
+      {
+        "path": "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+        "sha256": "4e892d66c2eb0370349bf423156279fb136c3d5feb62914b3f97145bc973bce6",
+        "characters": 101440,
+        "utf8_bytes": 103261
+      }
+    ]
   }
 }

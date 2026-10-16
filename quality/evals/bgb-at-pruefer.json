@@ -51,27 +51,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gesamten eigenständigen Mini gelesen; Vertragsbindung und konkrete Erklärung ersetzen abstrakten AT-Einstieg. Vertreterzurechnung und Anfechtungsfristen sind mit klaren gesetzlichen Voraussetzungen beschrieben. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Gesamten eigenständigen Mini gelesen; Vertragsbindung und konkrete Erklärung ersetzen abstrakten AT-Einstieg. Vertreterzurechnung und Anfechtungsfristen sind mit klaren gesetzlichen Voraussetzungen beschrieben. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "VIII ZR 289/09 auf Vollmacht, Genehmigung und konkreten Rechtsschein bezogen.",
       "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
       "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
       "Leer: Vertragsschluss, Vollmacht oder Anfechtung. Dateien: still lesen und Wirksamkeitsgutachten oder Erklärungstext anbieten. Klar: direkt bestelltes Gutachten oder Schreiben erstellen.",
-      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung.",
+      "16.10.2026: Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette."
     ],
-    "sha256": "319a40a62b4e2aec4e5f026702e8ce04bf437f5e6db1ffec0c96a7c286c4d2ce"
+    "sha256": "52fe9a04cbbb05b237bae459d4327b307cd8b37ef9e3c6739b65ebbb6633a1f9",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Personen-, Vertrags-, Form-, Anfechtungs- und Anschlussabschnitte gelesen. Fremde Kontonutzung mit tatsächlichen Rechtsscheinmerkmalen geprüft; pauschaler Gegensatz zwischen Prozessübermittlung und materieller Form um die aktuelle Formfiktion ergänzt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle Personen-, Vertrags-, Form-, Anfechtungs- und Anschlussabschnitte gelesen. Fremde Kontonutzung mit tatsächlichen Rechtsscheinmerkmalen geprüft; pauschaler Gegensatz zwischen Prozessübermittlung und materieller Form um die aktuelle Formfiktion ergänzt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "VIII ZR 289/09 auf Vollmacht, Genehmigung und konkreten Rechtsschein bezogen.",
       "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
       "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
       "Geänderte Annahme, Genehmigungsaufforderung, Irrtum/Täuschung, gerichtlicher Formweg und Minderjährigenzahlung vertieft.",
-      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung.",
+      "16.10.2026: Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette."
     ],
-    "sha256": "5cc10d67abd92b7a39692963399b2ddc0992dcb6049ddd5b3948edfc9f3abab3"
+    "sha256": "9f9276a2e44409c4f2c8ac1815ca05ca037ddc3249951e6ef8088709c30f4b58",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -157,6 +163,27 @@
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Aktuelle Spezialnormen zu digitalen Reparaturrechten nicht insgesamt neu geprüft; keine Aussage, dass jedes elektronisch übersandte Dokument formgerecht sei.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 177 BGB im Anschlussabruf nicht erreichbar; vorhandener verifizierter Prüfstand zur Genehmigung bleibt erhalten. Paragrafen 121 und 124 über amtliche Suchtreffer gelesen."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bgb-at-pruefer/bgb-at-pruefer-schnellstart.md",
+        "sha256": "52fe9a04cbbb05b237bae459d4327b307cd8b37ef9e3c6739b65ebbb6633a1f9",
+        "reason": "Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette.",
+        "anchor_or_exception": "Paragrafen 164 und 177 BGB entsprechend; BGH 11.05.2011 VIII ZR 289/09 Rn. 12 bis 19: Vollmacht, Genehmigung oder zurechenbarer Rechtsschein, Passwortmangel allein reicht nicht; Vertragszurechnung nicht allgemeine Deliktshaftung."
+      },
+      {
+        "path": "bgb-at-pruefer/bgb-at-pruefer-werkstatt.md",
+        "sha256": "9f9276a2e44409c4f2c8ac1815ca05ca037ddc3249951e6ef8088709c30f4b58",
+        "reason": "Bindende Erklärung, richtige Person und verlangtes Gutachten/Schreiben vor abstrakter Erklärungskette.",
+        "anchor_or_exception": "Paragrafen 164 und 177 BGB entsprechend; BGH 11.05.2011 VIII ZR 289/09 Rn. 12 bis 19: Vollmacht, Genehmigung oder zurechenbarer Rechtsschein, Passwortmangel allein reicht nicht; Vertragszurechnung nicht allgemeine Deliktshaftung."
+      }
     ]
   }
 }

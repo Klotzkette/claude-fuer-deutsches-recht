@@ -31,25 +31,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kauf- und Zahlungsfall konkretisiert; operative CIETAC-Rechtsprechung mit Grenzen der deutschen Kontrolle statt Fallkarte.",
+    "reason": "Kauf- und Zahlungsfall konkretisiert; operative CIETAC-Rechtsprechung mit Grenzen der deutschen Kontrolle statt Fallkarte. Einstiegsredaktion 16.10.2026: Konkrete Liefer- und Zahlungskette ersetzt allgemeine Themenaufzählung; deutsche Schiedsspruchanerkennung klar von chinesischer Anerkennung getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Unterbliebene Aufhebung in China von unterlassener Rüge im Schiedsverfahren getrennt.",
       "Exportkontrolle, Investitionsprüfung, Devisen, Korruption, Produktsicherheit und Daten fachlich zugeordnet.",
       "Zahlungsempfänger, Sprachkonflikte und gezielte Fortsetzung bis zur Endfassung erhalten.",
-      "Liefervertrag, Zahlungsempfänger oder Streit wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Liefervertrag, Zahlungsempfänger oder Streit wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Liefer- und Zahlungskette ersetzt allgemeine Themenaufzählung; deutsche Schiedsspruchanerkennung klar von chinesischer Anerkennung getrennt."
     ],
-    "sha256": "3f4c211fe8a4cc8517c33e7933f7f6377ff895ca0c9926092752a337bf43509e"
+    "sha256": "e4f5ae137dd921d15df8f6672d86497b69973e911f7bdd8a6a9ff8342c0157c8"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Zwölf Geschäftsfelder einzeln redigiert: falsche AWG-Universalverweise, Beweislastschablonen, Entwurfsbeschränkung und Wiederholungstabellen entfernt.",
+    "reason": "Zwölf Geschäftsfelder einzeln redigiert: falsche AWG-Universalverweise, Beweislastschablonen, Entwurfsbeschränkung und Wiederholungstabellen entfernt. Einstiegsredaktion 16.10.2026: Konkrete Liefer- und Zahlungskette ersetzt allgemeine Themenaufzählung; deutsche Schiedsspruchanerkennung klar von chinesischer Anerkennung getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Unterbliebene Aufhebung in China von unterlassener Rüge im Schiedsverfahren getrennt.",
       "Exportkontrolle, Investitionsprüfung, Devisen, Korruption, Produktsicherheit und Daten fachlich zugeordnet.",
       "Zahlungsempfänger, Sprachkonflikte und gezielte Fortsetzung bis zur Endfassung erhalten.",
-      "Kontowechsel und Erfüllungswirkung, technische Sollbeschaffenheit, Gegenbeweise und CIETAC-Verteidigungsweg konkretisiert."
+      "Kontowechsel und Erfüllungswirkung, technische Sollbeschaffenheit, Gegenbeweise und CIETAC-Verteidigungsweg konkretisiert.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Liefer- und Zahlungskette ersetzt allgemeine Themenaufzählung; deutsche Schiedsspruchanerkennung klar von chinesischer Anerkennung getrennt."
     ],
-    "sha256": "77e59b1d78a79655c40f87529583be1332cd95a8127fee4d7308acedf8dd1bd8"
+    "sha256": "6a9fa96daca790bde576bf000a82b713fd5c06d1dc3034c0c1b9a17c64e294e6"
   },
   "selection": {
     "positive": [
@@ -139,5 +141,41 @@
     "continuation": "Belegte Inkassovollmacht -> Erfüllungsklausel und Zahlungsempfänger; neue Zeichnung -> Rügegrundlage; fehlende Rüge -> deutsche Vollstreckungserwiderung ändern.",
     "enrichment": "Kontowechsel und Erfüllungswirkung, technische Sollbeschaffenheit, Gegenbeweise und CIETAC-Verteidigungsweg konkretisiert.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Konkrete Liefer- und Zahlungskette ersetzt allgemeine Themenaufzählung; deutsche Schiedsspruchanerkennung klar von chinesischer Anerkennung getrennt.",
+    "anchor_or_exception": "BGH, Beschluss vom 21.12.2023, I ZB 37/23; Paragraf 1061 ZPO; Artikel 6 Brüssel-Ia-VO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "3f4c211fe8a4cc8517c33e7933f7f6377ff895ca0c9926092752a337bf43509e",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "77e59b1d78a79655c40f87529583be1332cd95a8127fee4d7308acedf8dd1bd8",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-werkstatt.md",
+        "sha256": "6a9fa96daca790bde576bf000a82b713fd5c06d1dc3034c0c1b9a17c64e294e6",
+        "characters": 20595,
+        "utf8_bytes": 20962
+      },
+      {
+        "path": "festlandchina-wirtschaftsverkehr/festlandchina-wirtschaftsverkehr-schnellstart.md",
+        "sha256": "e4f5ae137dd921d15df8f6672d86497b69973e911f7bdd8a6a9ff8342c0157c8",
+        "characters": 7180,
+        "utf8_bytes": 7295
+      }
+    ]
   }
 }

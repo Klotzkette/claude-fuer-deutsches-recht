@@ -71,27 +71,30 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Titel werden nicht nach Berufungschancen abgezinst; Zuflüsse und neue Fälligkeiten fließen symmetrisch in die Dreiwochenbetrachtung ein. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "c1ee1e44c4d6a726d45ea9cf4db1a92d7a838fc94b837ac12c036f0e09460791"
+    "sha256": "405768541ce1131327b38864dd4e8254c110e4fa5c932990fe9922323aed027f"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Eröffnungsgrund, Organzahlung, Anmeldung, Anfechtung und Sanierung bleiben getrennte Aufträge; alte Vorsatzanfechtung nicht mechanisch auf heutiges Recht übertragen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 229/22 und II ZR 88/16 aus amtlichen entscheidenden Gründen in alle drei Promptvarianten eingebunden.",
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Einstiegsredaktion 16.10.2026: Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt."
     ],
-    "sha256": "bab5ee4fd49d4b46978068bdaac4b6ebfd3db493caa31ab3641d817fb939217c"
+    "sha256": "6606e4e857cee07efb0f673b1b9d0cf6773fdcec82dc7e49fb5a9da1327a9e5a"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -231,5 +234,41 @@
       "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Auftragsabhängige Krisenbewertung, Anmeldung und Rückforderungsantwort getrennt; Nennwertansatz auf Voraussetzungen der Schuldnerstatusprüfung begrenzt. Mini auf einen Dokumenttitel und nachgeordnete dezimale Gliederung korrigiert.",
+    "anchor_or_exception": "BGH, Urteil vom 23.01.2025, IX ZR 229/22; Paragraf 17 InsO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c1ee1e44c4d6a726d45ea9cf4db1a92d7a838fc94b837ac12c036f0e09460791",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "bab5ee4fd49d4b46978068bdaac4b6ebfd3db493caa31ab3641d817fb939217c",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insolvenzrecht/insolvenzrecht-werkstatt.md",
+        "sha256": "6606e4e857cee07efb0f673b1b9d0cf6773fdcec82dc7e49fb5a9da1327a9e5a",
+        "characters": 23439,
+        "utf8_bytes": 23797
+      },
+      {
+        "path": "insolvenzrecht/insolvenzrecht-schnellstart.md",
+        "sha256": "405768541ce1131327b38864dd4e8254c110e4fa5c932990fe9922323aed027f",
+        "characters": 6913,
+        "utf8_bytes": 7018
+      }
+    ]
   }
 }

@@ -1,4 +1,33 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung.",
+    "norms_or_source_basis": "Originaltext und Zielgruppe; Paragraf 11 BGG nur in seinem Anwendungsbereich",
+    "selected_anchor_identifiers": [],
+    "application_limit": "Keine Zertifizierung oder allgemeine Geltung des BGG behauptet.",
+    "anchor_exception": "Kein materiell-rechtlicher Leitfall für reine Sprachüberarbeitung; vorhandener Sleutjes-Spezialfall zur amtlichen Übersetzung bleibt erhalten.",
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md",
+      "status": "changed",
+      "sha256": "c7b793c3897f4e6ded65cd7d6030fa28d2edfd039dd9805781130d8a22b71909",
+      "characters": 6063,
+      "utf8_bytes": 6179,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md",
+      "status": "changed",
+      "sha256": "f9e21ba84e73305bba0d4f445ce4f3a01361c5b50fbf879621f1970151f6fe96",
+      "characters": 14369,
+      "utf8_bytes": 14672,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "einfache-leichte-sprache-jura",
   "reviewed_on": "2026-09-23",
@@ -36,23 +65,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Leser verwechselt Bedingung und bereits eingetretene Pflicht -> Satzfolge, Voraussetzung und Handlung im Erklärungstext ändern; Monatsfrist nicht als vier Wochen umschreiben.",
+    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Leser verwechselt Bedingung und bereits eingetretene Pflicht -> Satzfolge, Voraussetzung und Handlung im Erklärungstext ändern; Monatsfrist nicht als vier Wochen umschreiben. Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "582900fc8adf16a81110570b9044d533dab46b7e22ae3567c4176c61c8b8d82f"
+    "sha256": "c7b793c3897f4e6ded65cd7d6030fa28d2edfd039dd9805781130d8a22b71909"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
+    "reason": "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt. Workflow-Ergänzung einzeln geprüft: Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache. Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache."
+      "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Ausgangstext, Zielgruppe und verständliche Neufassung sind sofort erkennbar; sprachliche Bearbeitung wird nicht zur ungefragten materiellen Rechtsprüfung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b211ef82ae9af28276c4c47c09d3e67eeee758b14be9f3099a5dfad80f570fa3"
+    "sha256": "f9e21ba84e73305bba0d4f445ce4f3a01361c5b50fbf879621f1970151f6fe96"
   },
   "selection": {
     "positive": [

@@ -36,16 +36,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig nachgelesen: Anzeige, Schutzkonzept und Eilantrag haben konkrete Startwege; neue Gewaltbelege, ausgefallene Ordner und verstrichene Termine ändern das Dokument. Vorhandene Fallgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
+    "reason": "Mini vollständig nachgelesen: Anzeige, Schutzkonzept und Eilantrag haben konkrete Startwege; neue Gewaltbelege, ausgefallene Ordner und verstrichene Termine ändern das Dokument. Vorhandene Fallgrenzen erhalten; Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Anzeige, Routenalternative und Eilrechtsschutz als Arbeitswege; 1 BvR 2211/15 früh mit Schutz gegen Drittstörer, Polizeinotstand und ausdrücklich fehlender Durchführungsgarantie. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Routen- und Zeitbeschränkung gegen Gefahrenbelege und praktisch verfügbares Schutzkonzept prüfen.",
       "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
       "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
       "Stilles Lesen bei Dateien ohne Aufgabe, unmittelbarer Entwurf bei klarem Auftrag und konkrete Fortsetzung bei neuen Plan- oder Personalangaben ergänzt.",
-      "Organisatorischen Zeitdruck vom Rechtsbehelfsbeginn getrennt; keine Rückdatierung oder erfundene Spontaneität."
+      "Organisatorischen Zeitdruck vom Rechtsbehelfsbeginn getrennt; keine Rückdatierung oder erfundene Spontaneität.",
+      "Anzeige, Routenalternative und Eilrechtsschutz als Arbeitswege; 1 BvR 2211/15 früh mit Schutz gegen Drittstörer, Polizeinotstand und ausdrücklich fehlender Durchführungsgarantie."
     ],
-    "sha256": "29126dd1853601bdffebcc57519d58b08179da8391d6f346b2c34fb4e9cd5195",
-    "reviewed_on": "2026-09-23",
+    "sha256": "267ac1a895a284ec07fadd530bbb1a44583cd7fc48b9ca411fc968c34a7b4076",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "selection": {
@@ -94,15 +95,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig nachgelesen: örtlich und zeitlich konkrete Alternativen, Ressourcenabgleich, nachgereichte Gewaltbelege und Bekanntgabeablauf führen zu fertiger Behördenantwort oder Eilantrag. Polizeiaufgaben und Veranstalterzusagen bleiben getrennt; Desk-Review, kein Live-Modelltest.",
+    "reason": "Werkstatt vollständig nachgelesen: örtlich und zeitlich konkrete Alternativen, Ressourcenabgleich, nachgereichte Gewaltbelege und Bekanntgabeablauf führen zu fertiger Behördenantwort oder Eilantrag. Polizeiaufgaben und Veranstalterzusagen bleiben getrennt; Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Anzeige, Routenalternative und Eilrechtsschutz als Arbeitswege; 1 BvR 2211/15 früh mit Schutz gegen Drittstörer, Polizeinotstand und ausdrücklich fehlender Durchführungsgarantie. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
       "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
       "Routenalternative mit Engpass, Anreise, Sicht- und Hörbezug, Personal und tatsächlichem Kooperationsstand ausgearbeitet.",
-      "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt."
+      "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt.",
+      "Anzeige, Routenalternative und Eilrechtsschutz als Arbeitswege; 1 BvR 2211/15 früh mit Schutz gegen Drittstörer, Polizeinotstand und ausdrücklich fehlender Durchführungsgarantie."
     ],
-    "sha256": "825314cc504e34c8d5b94759e5bf5b47bea3f4afbd7ccce739d91dc1819b59e9",
-    "reviewed_on": "2026-09-23",
+    "sha256": "aec0d452ccc2409b0a4ddddeafd2f16335f30a72f07d7f479111154443e83113",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

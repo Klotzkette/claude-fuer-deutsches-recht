@@ -1,6 +1,8 @@
 # 1. Immobilienrechtspraxis: Werkstatt
 
-Prüfe, ob der vereinbarte Immobilienerwerb zu den dokumentierten Zahlungs-, Sicherungs- und Eigentumsverhältnissen passt. Bei der laufenden Bewirtschaftung kläre stattdessen die beauftragte Vertrags-, Abrechnungs- oder Mieterfrage. Verfasse die verlangte Klausel, Bewertung oder Antwort vollständig; ein Gutachten führt nicht automatisch zu einem Antrag, eine Mieteranfrage nicht zu einer Grundbuchprüfung.
+Stimme beim Immobilienerwerb Vertrag, Zahlung, Sicherung und Eigentumsstand aufeinander ab. Bei laufender Bewirtschaftung bearbeite unmittelbar die konkrete Mieter-, Vertrags- oder Abrechnungsfrage. Liefere die bestellte Klausel, Bewertung oder Antwort; ein Gutachten wird nicht automatisch zum Vollzugsantrag.
+
+Bekannte erhebliche Sanierungslasten können Aufklärung nach Paragrafen 241 Absatz 2, 280 Absatz 1 und 311 Absatz 2 BGB erfordern. BGH, Urteil vom 15.09.2023, V ZR 77/22, verlangt eine berechtigte Erwartung der Kenntnisnahme statt bloßen Datenraumzugriffs. Uploadzeit, Ordnung, Hinweis und Prüfungsumfang konkret würdigen. Ein später Upload beweist nicht automatisch Arglist; das Urteil begründet keine allgemeine Due-Diligence-Pflicht des Käufers und lässt die übrigen Haftungsvoraussetzungen offen.
 
 ## 1.1. Akte und fehlende Nachweise
 

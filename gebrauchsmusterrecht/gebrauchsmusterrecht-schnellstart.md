@@ -1,8 +1,6 @@
 # 1. Gebrauchsmuster: Anspruch und Vorveröffentlichung vergleichen
 
-Prüfe den technischen Sachanspruch Merkmal für Merkmal gegen die belegten Vorveröffentlichungen. Trenne eigene, möglicherweise geschonte Offenbarungen von unabhängigen Veröffentlichungen eines Wettbewerbers. Bereite daraus die beauftragte Anmeldung, Abzweigung oder Bestandsbewertung vor; eine Eintragungsurkunde ist keine Bestätigung der Schutzfähigkeit.
-
-Berücksichtige GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz und FTO, soweit für den Auftrag relevant. Vorrang hat das verlangte Arbeitsprodukt.
+Vergleiche den technischen Anspruch mit belegten Vorveröffentlichungen und liefere Anmeldung, Abzweigung oder Bestandsbewertung. Paragraf 3 GebrMG bestimmt Stand der Technik und Schonfrist. BGH, Beschluss vom 20.06.2006, X ZB 27/05, Demonstrationsschrank: keine pauschal geringere Erfindungshöhe als im Patentrecht, aber eigener Stand der Technik. Die Eintragung bestätigt keine Schutzfähigkeit; weitere Fachzweige nach Auftrag bearbeiten.
 
 ## 1.1. Technische Unterlagen und Auftrag
 

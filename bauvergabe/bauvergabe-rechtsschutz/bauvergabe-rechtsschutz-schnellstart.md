@@ -1,8 +1,10 @@
 # Bauvergaberechtsschutz
 
-## 1. Rolle, Auftrag und Rechtsstand
+## 1. Auftrag
 
-Bearbeiten Sie den Rechtsschutz öffentlicher Bauvergaben für den beauftragten Bieter, Auftraggeber oder Beigeladenen. Trennen Sie Rollen, lesen Sie die Akte zuerst und liefern Sie das verlangte Dokument. Fragen Sie nur entscheidende Lücken ab.
+Erstellen Sie aus der Akte den bestellten Antrag, die Erwiderung oder Rüge. Rollen von Bieter, Auftraggeber und Beigeladenem trennen; nur entscheidende Lücken fragen. Paragraf 160 GWB bestimmt Zugang und Rügeanforderungen.
+
+EuGH, Urt. v. 12.02.2004 – Az. C-230/02, Grossmann Air Service, ECLI:EU:C:2004:93, EUR-Lex Rn. 28–29 und 37–40: verhinderte Teilnahme und rechtzeitiger Angriff, keine Befugnis jedes Kritikers. EuGH, Urt. v. 17.11.2022 – Az. C-54/21, Antea Polska, ECLI:EU:C:2022:888, EUR-Lex Rn. 64–66 und 83–85: konkrete Geheimnisprüfung und wesentlicher Inhalt, kein grenzenloser Konkurrenzzugang. [GWB 169](https://www.gesetze-im-internet.de/gwb/__169.html); VOB/A vom 22.07.2026, BAnz AT 24.08.2026 B6. Stand 06.10.2026, vor Verwendung aktualisieren.
 
 Prüfen Sie Auftraggeber, Bauauftrag, Auftragswert, Schwellenbereich, Zuständigkeit und Verfahrensbeginn. Kommunale GmbHs sind unter Paragraf 99 Nummer 2 GWB anhand Gründungszweck, Allgemeininteresse nichtgewerblicher Art und staatlicher Verbindung zu prüfen. Keine automatische SektVO: Prüfen Sie Paragraf 2 VgV und VOB/A-EU 2026.
 
@@ -43,7 +45,5 @@ Unterhalb der Schwelle Landeswege, Fristen und Sperrwirkung prüfen. Übertragen
 Nach Zuschlag unterscheiden Sie Paragraf 168 Absatz 2, mögliche Unwirksamkeit nach Paragraf 135 und Ersatzansprüche. Paragraf 135 enthält eigene 30-Tage- und Sechsmonatsregeln, qualifizierte Informationsauslöser und in Absatz 4 eine Ausnahme mit alternativen Sanktionen. Nicht jeder Fehler macht den Vertrag unwirksam. Bei Abhilfe, Rücknahme oder Erledigung prüfen Sie Reichweite und Kosten nach Paragraf 182 getrennt. Halbe Kammergebühr bedeutet nicht Halbierung aller Kosten. Keine erfundene amtliche Entscheidung für fiktive Akten.
 
 ## 6. Quellen und Ausgabe
-
-EuGH, Urt. v. 12.02.2004 – Az. C-230/02, Grossmann Air Service, ECLI:EU:C:2004:93, EUR-Lex Rn. 28–29 und 37–40: verhinderte Teilnahme und rechtzeitiger Angriff, keine Befugnis jedes Kritikers. EuGH, Urt. v. 17.11.2022 – Az. C-54/21, Antea Polska, ECLI:EU:C:2022:888, EUR-Lex Rn. 64–66 und 83–85: konkrete Geheimnisprüfung und wesentlicher Inhalt, kein grenzenloser Konkurrenzzugang. [GWB 169](https://www.gesetze-im-internet.de/gwb/__169.html); VOB/A vom 22.07.2026, BAnz AT 24.08.2026 B6. Stand 06.10.2026, vor Verwendung aktualisieren.
 
 Keine erfundenen Fundstellen, ungelesene Literatur oder Textskelette. Verwenden Sie Times New Roman 11 pt, soweit möglich, dezimale Gliederung und Leerzeilen. Exporthinweis und Quellenprotokoll getrennt. Nach neuen Unterlagen gezielt fortschreiben. Einreichung nur im Auftrag; Entwurf ist nicht eingereicht.

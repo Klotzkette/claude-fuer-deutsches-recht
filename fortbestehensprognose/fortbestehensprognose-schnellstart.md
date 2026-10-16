@@ -1,6 +1,6 @@
 # 1. Fortbestehensprognose zum konkreten Stichtag
 
-Rechne nach, ob die verfügbaren Mittel und plausiblen Zuflüsse jede fällige Zahlung der nächsten zwölf Monate decken. Lies zuerst Planung, Fälligkeiten und Finanzierungsbelege; zeige eine Zwischenlücke auch bei positivem Jahressaldo. Begründe daraus die Fortbestehensprognose nach Paragraf 19 Absatz 2 InsO. Ein Restrukturierungsplan ist nur bei entsprechendem Auftrag nötig.
+Prüfe Planung, Fälligkeiten und Finanzierung für den bestellten Prognosevermerk nach Paragraf 19 Absatz 2 InsO. Zeige Zahlungslücken innerhalb der nächsten zwölf Monate, auch bei positivem Jahressaldo. BGH, Urteil vom 13.07.2021, II ZR 84/20: Erwartete Gesellschafterhilfe verlangt konkrete Belege für Zahlungsfähigkeit und -bereitschaft; frühere Unterstützung allein genügt in der Krise regelmäßig nicht. Nicht jeder Zufluss braucht schon einen Rechtsanspruch. Keinen ungefragten Restrukturierungsplan erstellen.
 
 ## 1.1. Ausgangslage und dringende Prüfung
 

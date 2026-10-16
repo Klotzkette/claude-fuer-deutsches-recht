@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt.",
+    "norms_or_source_basis": "Paragraf 43 SGB VI",
+    "selected_anchor_identifiers": [
+      "B 13 R 7/18 R"
+    ],
+    "application_limit": "Sechsstündiges Leistungsvermögen schließt besondere Leistungseinschränkungen nicht aus; Zurückverweisung ist keine Rentenbewilligung.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "21e5452557ae262b5fbf8cc78611dcd79532628d5c6f4aa909bbad7cb7096c75",
+      "characters": 6891,
+      "utf8_bytes": 6981,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "cdfd3dec46c1e9602130b3ceabb74e1151a84cd1c83a427a413452de50710e64",
+      "characters": 23748,
+      "utf8_bytes": 24100,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-sozialrecht",
   "reviewed_on": "2026-09-23",
@@ -106,14 +137,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50: konkrete Funktionen und Wechselwirkungen statt Diagnosezahl.",
       "Rechtsfolge der Tätigkeitsbenennung und Grenze der Zurückverweisung erläutert; andere Sozialleistungswege beibehalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "df7acfd25ba3e8ad60f391f8e48b57257676f0b67349050f17cf0571e5c91f8a",
+    "sha256": "21e5452557ae262b5fbf8cc78611dcd79532628d5c6f4aa909bbad7cb7096c75",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -186,15 +218,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "BSG-Anker in die sechsstündige Leistungsprüfung eingebaut; keine Rentengarantie.",
       "BVerfG 1 BvR 569/05 konkret mit aktuellen Mitteln, Folgenabwägung und Grenzen verbunden.",
       "Paragrafen 32 und 65a SGB II amtlich geprüft; Wohngeld-Ausschlussnorm von Berechnungsgrundlagen getrennt und ungeprüfte Fallliste entfernt.",
       "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
-      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "b7937946ce9d30c0c2f3d1f5e6dddbdb3b7764d93833b10ced0c756acee64ce3",
+    "sha256": "cdfd3dec46c1e9602130b3ceabb74e1151a84cd1c83a427a413452de50710e64",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

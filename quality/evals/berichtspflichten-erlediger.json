@@ -21,25 +21,31 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini behandelt die Pflicht zur einzelnen Statistikmeldung und trennt übermäßige Heranziehungsbelastung von bloßem Wunsch nach optimaler Stichprobe. Individueller Text- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Der Mini behandelt die Pflicht zur einzelnen Statistikmeldung und trennt übermäßige Heranziehungsbelastung von bloßem Wunsch nach optimaler Stichprobe. Individueller Text- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "BStatG Paragraf 15 Absätze 1, 5 und 7 in Frist- und Meldungsarbeit eingebunden.",
       "BVerwG 8 C 9.16 mit historischem Regelungsbereich und fortbestehender Meldepflicht verknüpft.",
       "Leerstart: Meldung, Berichtigung oder Heranziehung anbieten. Dateien: Aufforderung und Rohdaten still lesen; kein Melderegister ohne Auftrag. Klarer Auftrag: Bestellte Feldwerte oder Behördenantwort direkt erstellen.",
-      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe."
+      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe.",
+      "16.10.2026: Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen."
     ],
-    "sha256": "8e3b479161211976bc8ffd714a974c0fd5159236ca870a7f1a36d48a1f75a96d"
+    "sha256": "d58e8768be95bfa204005448b4215a96705ffc0bd48713f38de0b24e09b249b1",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt ergänzt die Auskunfts- und Freigabearbeit um überprüfbare Auswahl- und Rotationseinwände und die Grenzen einer Befreiung. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Die Werkstatt ergänzt die Auskunfts- und Freigabearbeit um überprüfbare Auswahl- und Rotationseinwände und die Grenzen einer Befreiung. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "BStatG Paragraf 15 Absätze 1, 5 und 7 in Frist- und Meldungsarbeit eingebunden.",
       "BVerwG 8 C 9.16 mit historischem Regelungsbereich und fortbestehender Meldepflicht verknüpft.",
       "Rechtsträgerabgrenzung, negative Buchungen, tatsächlicher Empfängerbestand, historische Auswahlprüfung und technischer Empfangsnachweis.",
-      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe."
+      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe.",
+      "16.10.2026: Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen."
     ],
-    "sha256": "e43817aea8312425998e6e8adff8a08e282845b145d4578dd81a73744dcfc0ab"
+    "sha256": "985e29a95981b3a0b8e36cca9af9ae7e282f1bf15c627928f1bcafedaeded7b1",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -142,5 +148,26 @@
     "reference": "berichtspflichten-erlediger/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie die Übernahme von Lohnzahlen von einer Bewertung der Arbeitsleistung. Ein Bericht an die Finanzverwaltung wird nicht allein durch Automatisierung zu einem System für Personalentscheidungen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md",
+        "sha256": "d58e8768be95bfa204005448b4215a96705ffc0bd48713f38de0b24e09b249b1",
+        "reason": "Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen.",
+        "anchor_or_exception": "Paragraf 15 BStatG; BVerwG 15.03.2017 8 C 9.16: Verhältnismäßigkeit statistischer Heranziehung und Rotation; historische Belastung allein befreit nicht heute."
+      },
+      {
+        "path": "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md",
+        "sha256": "985e29a95981b3a0b8e36cca9af9ae7e282f1bf15c627928f1bcafedaeded7b1",
+        "reason": "Fertige Meldung oder Behördenantwort aus vorhandenen Daten als Einstieg; technische Feldzuordnung nicht zur Rechtsberatung aufblasen.",
+        "anchor_or_exception": "Paragraf 15 BStatG; BVerwG 15.03.2017 8 C 9.16: Verhältnismäßigkeit statistischer Heranziehung und Rotation; historische Belastung allein befreit nicht heute."
+      }
+    ]
   }
 }

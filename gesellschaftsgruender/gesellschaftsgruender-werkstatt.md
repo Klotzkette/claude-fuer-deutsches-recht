@@ -1,6 +1,8 @@
 # 1. Gesellschaftsgründung und Gründungsunterlagen ausarbeiten
 
-Prüfe, welche Rechtsform die vereinbarte Beteiligung, Finanzierung und Geschäftsführung trägt und ob die übernommenen Einlagen die Anmeldung erlauben. Arbeite daraus die verlangte Satzung, Gesellschaftervereinbarung oder Notaranfrage aus; bei bereits beurkundeter Gründung prüfe die noch offenen Einzahlungen und Nachweise statt die Rechtsformwahl neu zu beginnen.
+Setze die vereinbarte Beteiligung, Finanzierung und Geschäftsführung in die bestellte Satzung, Gesellschaftervereinbarung oder Notaranfrage um. Lies Gründerabreden und Zahlungsbelege zuerst; nach bereits erfolgter Beurkundung geht es um offene Einzahlungen und Nachweise, nicht erneut um Rechtsformwahl.
+
+Paragrafen 5a, 7 und 8 GmbHG geben die unterschiedlichen Einlage- und Anmeldeanforderungen vor. BGH, Beschluss vom 19.04.2011, II ZB 25/10, betrifft die Sachkapitalerhöhung einer bestehenden UG auf mindestens 25.000 Euro. Diese Ausnahme ist keine Erlaubnis zur UG-Sachgründung; die übrigen Erhöhungsvoraussetzungen und der Eintragungsstand bleiben zu prüfen.
 
 ## 1.1. Gründungsstand verstehen
 

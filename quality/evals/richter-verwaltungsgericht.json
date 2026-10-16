@@ -41,31 +41,35 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Zeitkritisches Informationsbegehren nach Anspruch und Eilgrund getrennt; Paragraf 44a ergänzt, Pressemaßstab ausdrücklich nicht pauschal auf Akteneinsicht übertragen; alte ungeprüfte Aktenzeichen entfernt.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
       "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
       "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4b01c76e1ef2fce919e30946952a2b51124d579da4d75294e0ee32592c5a19ba",
-    "reviewed_on": "2026-09-30",
-    "method": "desk_review"
+    "sha256": "aee1b1719ffb3cac6a7c43fe02062cfd9937566990ed52e12e1924ee5986491c",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
       "Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen.",
       "Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "5f3530e7bd12a79a737e346a0b6347ea497af02b393476e3c34bd7d2c5b86535",
-    "reviewed_on": "2026-09-30",
-    "method": "desk_review"
+    "sha256": "ad4db2960c7d2a3e9c58a54cf6325a9352470dec9d763f7ff7df6b48ca559928",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

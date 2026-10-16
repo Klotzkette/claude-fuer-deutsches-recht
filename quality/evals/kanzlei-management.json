@@ -26,15 +26,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Liquiditätsrechnung wird um die konkrete rechtliche Grenze zur Fremdgeldfinanzierung ergänzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Belegte Zahlungszusage -> betroffene Wochen und Folgesalden neu rechnen; fehlender Vertretungszugriff -> Zugriffs- und Ausfallregel statt Vollneustart ändern.",
+    "reason": "Liquiditätsrechnung wird um die konkrete rechtliche Grenze zur Fremdgeldfinanzierung ergänzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Belegte Zahlungszusage -> betroffene Wochen und Folgesalden neu rechnen; fehlender Vertretungszugriff -> Zugriffs- und Ausfallregel statt Vollneustart ändern. Redaktionelle Einstiegslektüre am 16.10.2026: Fremdgeldabgrenzung samt Grenze strafrechtlicher Schlüsse früh erklärt; doppelte Hauptnummer entfernt.",
     "changes": [
       "Aktueller Paragraf 43a Absatz 7 BRAO in beiden Prompts.",
       "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
       "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "Redaktion 16.10.2026: Fremdgeldabgrenzung samt Grenze strafrechtlicher Schlüsse früh erklärt; doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "235251a6cf34c7101fbb9dccf0226f00ed0f809f00ce18816a12cc1c22c355d5"
+    "sha256": "33e1d0ade01b79b297b28dc1200326e5d41a37e319d49e5423c417caee55be54"
   },
   "selection": {
     "positive": [
@@ -82,14 +83,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Leere Quellenrubrik durch fallbezogenen Maßstab zu Fremdgeldauskehr und strafrechtlicher Prüfung ersetzt; betriebliche Fachzweige erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
+    "reason": "Leere Quellenrubrik durch fallbezogenen Maßstab zu Fremdgeldauskehr und strafrechtlicher Prüfung ersetzt; betriebliche Fachzweige erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung. Redaktionelle Einstiegslektüre am 16.10.2026: Fremdgeldabgrenzung samt Grenze strafrechtlicher Schlüsse früh erklärt; doppelte Hauptnummer entfernt.",
     "changes": [
       "Aktueller Paragraf 43a Absatz 7 BRAO in beiden Prompts.",
       "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
       "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
-      "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung."
+      "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
+      "Redaktion 16.10.2026: Fremdgeldabgrenzung samt Grenze strafrechtlicher Schlüsse früh erklärt; doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "4e2f56debd2a7faf0a415e908421d18979d5bd161a655983ff3fac16fdcc04ff"
+    "sha256": "8c1f52e8ad17c935c9cabaafcb334f205be0c1d6af3e6a6f0f20cc102c35772a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

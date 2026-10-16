@@ -51,13 +51,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen: selbstständiger Einstieg und konkrete Nachfragen zu Mangel, Kündigungskenntnis, Leistungserfolg und Schadensbeleg führen zur überarbeiteten Passage. Vorhandener Schätzungsanker samt Grenzen erhalten.",
+    "reason": "Mini vollständig erneut gelesen: selbstständiger Einstieg und konkrete Nachfragen zu Mangel, Kündigungskenntnis, Leistungserfolg und Schadensbeleg führen zur überarbeiteten Passage. Vorhandener Schätzungsanker samt Grenzen erhalten. Redaktioneller Nachtrag 16.10.2026: Schätzungsfall als ausdrücklich begrenztes Beispiel für die Prüfung von Fehlschlüssen vorangestellt. Weder Wunschbetrag noch automatische Nullbewertung; Gebrauchsvorteile nicht mit Reparaturkosten gleichgesetzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Drei Einstiegsmodi sowie kurze Arbeitswege zu Erheblichkeit, Kündigungsfrist, Teilzahlung und überschneidenden Reparaturbelegen ergänzt.",
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
       "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
     ],
-    "sha256": "146516c1c1078b70f72448ae6b615f56eb68edc0a995b07b3bb339c3bcce22c7"
+    "sha256": "7ac0519ce72913ef8cfa927e97b20b2ac783bb2a0e91b31e824376888de1e3ef"
   },
   "selection": {
     "positive": [
@@ -137,13 +137,13 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt erneut gelesen: Rücktrittsmerkmal, Kündigungsabwägung und Kenntnisfrist, Erfüllungseinwand sowie nachgereichte Schätzungsgrundlagen in eigenständigen Dialogzweigen bis zur korrigierten Fassung ausgearbeitet. Keine Live-Mandantenbearbeitung.",
+    "reason": "Gesamte Werkstatt erneut gelesen: Rücktrittsmerkmal, Kündigungsabwägung und Kenntnisfrist, Erfüllungseinwand sowie nachgereichte Schätzungsgrundlagen in eigenständigen Dialogzweigen bis zur korrigierten Fassung ausgearbeitet. Keine Live-Mandantenbearbeitung. Redaktioneller Nachtrag 16.10.2026: Schätzungsfall als ausdrücklich begrenztes Beispiel für die Prüfung von Fehlschlüssen vorangestellt. Weder Wunschbetrag noch automatische Nullbewertung; Gebrauchsvorteile nicht mit Reparaturkosten gleichgesetzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Vier konkrete Arbeitswege mit entgegenstehenden Tatsachen, begrenztem Auftrag und Änderung von Schlussfolgerung beziehungsweise Rechnung ergänzt.",
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
       "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
     ],
-    "sha256": "d85b651f9f4b5f7b1a96d7bd429ff5782d175a28140f6bb80b9b43f8ffdc02a1"
+    "sha256": "aea5cb1e3bca6f132cbfa2e415c4130c871b59e2528fc40deb4561d18afb2744"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -1,6 +1,6 @@
 # 1. Urheber- und Medienrecht: Inhalte prüfen und Schreiben ausarbeiten
 
-Gleiche die beanstandete Veröffentlichung mit Original, Lizenz oder Einwilligung ab und begründe, welche Nutzung untersagt oder vergütet werden kann. Bei einer Fotoforderung ordne jedes Bild dem Nutzungszeitraum und einem belastbaren Vergleichspreis zu. Bei Äußerungen prüfe den konkreten Wortlaut im Kontext. Formuliere daraus das beauftragte Schreiben oder Gutachten.
+Lies Original, Veröffentlichung, Lizenz oder Einwilligung und liefere das bestellte Schreiben oder Gutachten zu Unterlassung, Vergütung oder Äußerungsabwehr. Bei Lizenzschaden nach Paragraf 97 Absatz 2 UrhG: BGH, Urteil vom 18.06.2020, I ZR 93/19, Nachlizenzierung. Nach einer Verletzung vereinbarte Zahlungen nicht ohne Bereinigung als Preis einer vorher eingeräumten Lizenz verwenden. Bestätigt ist der amtlich indexierte Leitsatz, kein neuer Volltextabruf. Kein kategorisches Verbot nachträglicher Vereinbarungen und keine Pauschaltariftabelle; je Bild Nutzung und Vergleichspreis, bei Äußerungen Wortlaut und Kontext prüfen.
 
 ## 1.1. Sachverhalt und erste Unterlagen
 

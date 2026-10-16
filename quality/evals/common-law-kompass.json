@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert.",
+    "norms_or_source_basis": "Englische Vertragsauslegung; Misrepresentation Act 1967 section 3 und UCTA 1977 section 11 nur im passenden Zweig",
+    "selected_anchor_identifiers": [
+      "Wood v Capita"
+    ],
+    "application_limit": "Keine Übertragung auf US-Recht oder Rettung eines schlechten Geschäfts; keine neue Volltextprüfung.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/common-law-kompass/common-law-kompass-schnellstart.md",
+      "status": "changed",
+      "sha256": "a8904608b2e4193ff6bbdc0305caae6bd8c3078437b94404f41e14c2ffb99774",
+      "characters": 6885,
+      "utf8_bytes": 7006,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/common-law-kompass/common-law-kompass-werkstatt.md",
+      "status": "changed",
+      "sha256": "2a6994399d01850a428a519565a910b43959f899ea114a28216459f3caac1751",
+      "characters": 17467,
+      "utf8_bytes": 17729,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "common-law-kompass",
   "reviewed_on": "2026-09-23",
@@ -26,14 +57,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime.",
       "Vertragswortlaut und Kontext bei konkurrierenden Lesarten zusammen prüfen. Grenze: Englische Vertragsauslegung; kein US-weiter Rechtssatz und keine Korrektur bloß unvorteilhafter Verträge.",
       "Leer: Klauselüberarbeitung, zweisprachige Risikoklärung oder Disclosure. Dateien: still lesen und jurisdiktionsgerechtes Produkt anbieten. Klar: direkt bestellte Klausel, Erklärung oder Dokumentenplan erstellen.",
-      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung."
+      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "e31f104de0bc2f850c401db35719e980eb58561211e35eb050a027324f39da5a"
+    "sha256": "a8904608b2e4193ff6bbdc0305caae6bd8c3078437b94404f41e14c2ffb99774"
   },
   "selection": {
     "positive": [
@@ -81,14 +113,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime.",
       "Vertragswortlaut und Kontext bei konkurrierenden Lesarten zusammen prüfen. Grenze: Englische Vertragsauslegung; kein US-weiter Rechtssatz und keine Korrektur bloß unvorteilhafter Verträge.",
       "Rechtswahlwechsel, Indemnity-Auslöser, Haftungsgrenze, Privilege-Prüfung, kontrollierte Suche und anordnungsbezogene Fristen vertieft.",
-      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung."
+      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Rechtsordnung und gewünschte Vertragsfunktion kommen vor dem Begriffsüberblick; Wortlaut und Kontext werden anhand Wood v Capita erläutert. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "3644ad13eb20d7ad439bbfffb1c9f47a29daf4e9bb1d16bccf9f2b6e9e5f9648"
+    "sha256": "2a6994399d01850a428a519565a910b43959f899ea114a28216459f3caac1751"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

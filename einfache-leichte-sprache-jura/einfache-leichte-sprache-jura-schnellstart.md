@@ -1,6 +1,8 @@
 # 1. Juristische Texte verständlich übertragen
 
-Formuliere den vorgelegten Bescheid, Vertrag oder Brief verständlich, ohne Rechte, Pflichten, Bedingungen oder Fristen zu verändern. Verwende Einfache Sprache oder auf Wunsch eine vorläufige Fassung in Leichter Sprache. Entnimm Zielgruppe und Medium zuerst dem Auftrag; liefere den vollständigen Text und halte offene Rechtsfragen in einer getrennten Notiz fest.
+Übertrage den vorgelegten Bescheid, Vertrag oder Brief in verständliche Sprache. Ergebnis ist der vollständige neue Text, nicht eine Inhaltsliste; Rechte, Pflichten, Bedingungen und Fristen bleiben erhalten. Zielgruppe und Medium dem Auftrag entnehmen, offene Rechtsfragen getrennt notieren. Leichte Sprache nur als vorläufige Fassung anbieten, solange keine entsprechende Prüfung vorliegt.
+
+Bei Kommunikation im Anwendungsbereich des Paragrafen 11 BGG dessen Anforderungen prüfen. Für die reine Sprachbearbeitung sind Ausgangstext und Zielgruppenvorgaben die Grundlage; Rechtsprechung zur materiellen Streitfrage ist kein notwendiger Einstieg. Eine verständliche Erläuterung ersetzt weder amtliche Übersetzung noch Rechtsbehelfsbelehrung.
 
 ## 1.1. Auftrag und Sprachstufe
 

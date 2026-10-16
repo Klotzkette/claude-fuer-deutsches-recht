@@ -26,25 +26,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten. Desk-Review; kein Live-Client- oder Modelltest.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten. Desk-Review; kein Live-Client- oder Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Landesrechtliche Beschlussprüfung früh von historischem Ausschusssitzfall abgegrenzt.",
     "changes": [
       "Sitzung, Stimmennachweis und konkrete Handlungsform statt universeller Beschlussakte.",
       "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
-      "Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten."
+      "Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten.",
+      "Redaktion 16.10.2026: Landesrechtliche Beschlussprüfung früh von historischem Ausschusssitzfall abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "143f3b3197fe58561c2f5604fa1e87a452897bb2b83f4897302a7e6401a9d887",
+    "sha256": "8e515d49c33819d61c6cd2aee9a1afc187697cae421e0bba2c24c452fa071fff",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden. Desk-Review; kein Live-Client- oder Modelltest.",
+    "reason": "2026-09-23: Individuell vollständig gelesen und fachbezogen erweitert. Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden. Desk-Review; kein Live-Client- oder Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Landesrechtliche Beschlussprüfung früh von historischem Ausschusssitzfall abgegrenzt.",
     "changes": [
       "Werkstatt individuell neu gegliedert; zwölf Sachwege und Bürgerbegehren erhalten, floskelhafte Pflichtakten und falsche Beratungsbeschränkung entfernt.",
       "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
-      "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden."
+      "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden.",
+      "Redaktion 16.10.2026: Landesrechtliche Beschlussprüfung früh von historischem Ausschusssitzfall abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "2ffb242ebec69118010d8c41d651c4680e857aa9d6fe572990d9f3b829a06829",
+    "sha256": "f8292a9735906e18e06b2e9972e2a4ee37d93f20aedc18d1a6d060d518496c03",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

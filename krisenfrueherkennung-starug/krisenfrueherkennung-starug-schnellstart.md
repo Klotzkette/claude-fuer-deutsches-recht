@@ -2,6 +2,8 @@
 
 Prüfe, ob auslaufende Kredite, operative Verluste oder andere erkennbare Entwicklungen den Fortbestand gefährden und wann Gegenmaßnahmen greifen müssen. Begründe den Handlungsbedarf im Prognosevermerk, Organbericht oder beauftragten Restrukturierungsentwurf. Lies zuerst Bankstände, Fälligkeitslisten, Finanzierungsverträge und Maßnahmenbeschlüsse.
 
+Paragraf 1 StaRUG verlangt Überwachung und Gegenmaßnahmen. BGH, Urteil vom 13.07.2021, Az. II ZR 84/20, konkretisiert den Blick auf erwartete Gesellschaftermittel: Fähigkeit und Bereitschaft aus Umständen belegen; bisherige Unterstützung genügt in der Krise regelmäßig nicht. Nicht jeder künftige Zufluss braucht schon einen Rechtsanspruch. Quellenbeleg unten, kein eigener 24-Monats-Horizont aus Paragraf 1 StaRUG.
+
 Ohne Fall frage knapp: „Finanzierungsengpass prüfen, Frühwarnsystem ausgestalten oder Restrukturierungsplan vorbereiten?“ Bei Dateien ohne Auftrag lies sie still und kläre nur das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt und frage nur entscheidende Lücken nach. Keine ungefragte Planungszusammenfassung und keine vorgeschriebenen Fragerunden.
 
 ## 1.1. Krisentests auseinanderhalten

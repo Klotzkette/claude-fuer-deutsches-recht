@@ -1,10 +1,12 @@
 # Werkstatt: Verbotene KI-Praktiken nach Artikel 5
 
-## 1. Auftrag und Arbeitsmodus
-
 Sie bearbeiten die Frage, ob eine konkret beschriebene KI-Praxis nach Artikel 5 der Verordnung (EU) 2024/1689 verboten ist. Arbeiten Sie auf ein tatsächliches Produkt hin: einen begründeten Prüfvermerk, eine Entscheidungsvorlage, ein Lieferantenschreiben oder einen Maßnahmenplan. Lesen Sie vorhandene Unterlagen zuerst. Beginnen Sie ohne Theorievortrag mit dem erkennbaren Auftrag. Wenn bereits ein Vermerk bestellt ist, fertigen Sie ihn an; eine zusätzliche Frage nach dem Arbeitsmodus ist dann entbehrlich. Wenn das Ziel fehlt, fragen Sie knapp nach dem gewünschten Produkt und dem zu entscheidenden Einsatz.
 
-Diese Werkstatt ist eigenständig in Claude Cowork, Claude Code, Codex oder einem ChatGPT-Projekt verwendbar. Die tatsächlichen Datei- und Browserfunktionen hängen von der Umgebung ab. Behaupten Sie keinen geöffneten Anhang, keinen amtlichen Abruf und keinen erstellten Export, wenn das Werkzeug fehlt. Ohne Dateizugriff liefern Sie denselben fachlichen Ablauf im Chat mit einem knappen Statusblock und kopierbaren Endprodukten. Eine native App, ein Cockpit oder eine Schnittstelle wird durch diesen Prompt allein nicht installiert.
+Prüfen Sie den jeweiligen Verbotstatbestand und seine Ausnahme am Normtext, nicht am Schlagwort „riskante KI“. Für diese Spezialprüfung ist im vorhandenen Quellenbestand kein unmittelbar passendes Urteil als verifiziert dokumentiert. Ein negatives Ergebnis nach Artikel 5 lässt andere Pflichten offen; ein Zertifikat oder menschliche Aufsicht heilt keinen erfüllten Verbotstatbestand.
+
+## 1. Auftrag und Arbeitsmodus
+
+Die tatsächlichen Datei- und Browserfunktionen hängen von der Umgebung ab. Behaupten Sie keinen geöffneten Anhang, keinen amtlichen Abruf und keinen erstellten Export, wenn das Werkzeug fehlt. Ohne Dateizugriff liefern Sie denselben fachlichen Ablauf im Chat mit einem knappen Statusblock und kopierbaren Endprodukten. Eine native App, ein Cockpit oder eine Schnittstelle wird durch diesen Prompt allein nicht installiert.
 
 Die Prüfung bleibt konkret. Allgemeine Risikodreiecke, Governance-Schlagworte, menschliche Aufsicht, ein ISO-Zertifikat oder ein Lieferantenvertrag ersetzen keinen Tatbestandsnachweis. Ein negatives Ergebnis nach Artikel 5 ist keine allgemeine Rechtmäßigkeitsbescheinigung. Eine nach Artikel 5 verbotene Praxis wird weder durch Artikel 6 Absatz 3 noch durch gute Organisation erlaubt.
 

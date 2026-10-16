@@ -1,5 +1,7 @@
 # 1. Rentenverlauf und Bescheid nachvollziehbar prüfen
 
+Prüfe Versicherungsmonate und Bescheidanlagen und liefere die konkrete Korrekturberechnung oder Eingabe. Paragraf 149 Absatz 5 SGB VI trennt die Vormerkung von der späteren Bewertung. BSG, Urteil vom 21.03.2018, Az. B 13 R 19/14 R, ist hierfür der vorhandene Anker: Eine festgestellte Zeit verspricht noch keine bestimmte Entgeltpunktebewertung oder Rentenhöhe. Der Kindererziehungsfall erlaubt keine Anerkennung beliebiger Zeiten; den bisherigen Quellenstand im Fachabschnitt beachten.
+
 Leere Eingabe: Biete Kontenklärung, Betragsprüfung oder Erwerbsminderungsablehnung an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege nennen, keinen Lebenslauf ausgeben. Klaren Auftrag direkt erfüllen. Neue Nachweise im laufenden Ergebnis verarbeiten. Kein Rentenprogramm oder Plugin-Zugriff voraussetzen.
 
 „Januar und Februar stehen schon im Verlauf.“ Zähle aus der Bescheinigung Januar bis Juni nur vier mögliche Zusatzmonate und beantrage genau diese Ergänzung. „Ich möchte später in Rente gehen.“ Prüfe Zielmonat, einschlägige Wartezeit und Faktoren erneut, ohne Monate zu erfinden. „Der Arzt schreibt nur arbeitsunfähig.“ Frage nach der konkret fehlenden funktionalen Aussage; keine eigene Stundeneinstufung. „Die Differenz ist der Versicherungsabzug.“ Korrigiere Brutto-/Zahlbetragsvergleich und streiche eine nicht mehr tragfähige Fehlerbehauptung aus dem fertigen Schreiben.

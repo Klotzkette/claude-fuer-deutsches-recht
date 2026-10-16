@@ -51,19 +51,20 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell um fachbezogene Einstiegswahl, Zulassungskette, gegenläufige Lärmfakten und konkrete Fortschreibung der Einwendung ergänzt. Nachtrandstunden- und Eilrechtsschutzabgrenzung erhalten; kein Live-Modelltest.",
+    "reason": "Mini individuell um fachbezogene Einstiegswahl, Zulassungskette, gegenläufige Lärmfakten und konkrete Fortschreibung der Einwendung ergänzt. Nachtrandstunden- und Eilrechtsschutzabgrenzung erhalten; kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Flugplatzentscheidung vor Startauswahl, Nachtlärmanker ohne bundesweiten Grenzwert vorangestellt.",
     "changes": [
       "BVerwG 4 C 8.09 Rn. 372 bis 378 mit Betriebszeit, Nachtflugbedarf, Belastungsspitzen und nicht übertragbarem Frankfurter Kontingent verknüpft.",
       "Luftaufsicht nach Paragraf 29 LuftVG, Gefahrgut-Erlaubnis nach Paragraf 27 und Luftsicherheit sauber getrennt; keine pauschale Gefahrgutbeauftragtenpflicht.",
       "Vollstreckung nach Paragraf 99 LuftFzgG und Paragrafen 171a ff. ZVG statt pauschaler Sachpfändung; Insolvenzantrag von Eröffnung getrennt.",
       "Konkrete EU-Artikel für Zulassung, Slots, Drohnen, ACC3 und Instandhaltung ergänzt; Dokument-first, Folgeantworten und fertiges Auftragsdokument erhalten.",
-      "Drei Einstiegswege; neuer Prognoseanhang ersetzt die überholte Fehlstellenrüge im bezeichneten Einwendungspfad."
+      "Drei Einstiegswege; neuer Prognoseanhang ersetzt die überholte Fehlstellenrüge im bezeichneten Einwendungspfad.",
+      "Redaktion 16.10.2026: Flugplatzentscheidung vor Startauswahl, Nachtlärmanker ohne bundesweiten Grenzwert vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "27d6769a1d82d2532832be357692e450e1d6bd1e0e44943e100f7820b622f0f3"
+    "sha256": "3ad35a1ec994339dec0de637c3df83b178ae4cc5310343be8caebed0c48d5a96"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und bei erhaltenen zwölf Fallbereichen um Bescheidketten, kombinierte Bau-/Betriebsänderungen, Prognosegegenargumente, Sicherheitsnachweise, Triebwerksrechte und dringlichen Arrestsachverhalt vertieft. Desk-Review ohne Live-Ausführung.",
+    "reason": "Werkstatt vollständig gelesen und bei erhaltenen zwölf Fallbereichen um Bescheidketten, kombinierte Bau-/Betriebsänderungen, Prognosegegenargumente, Sicherheitsnachweise, Triebwerksrechte und dringlichen Arrestsachverhalt vertieft. Desk-Review ohne Live-Ausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Flugplatzentscheidung vor Startauswahl, Nachtlärmanker ohne bundesweiten Grenzwert vorangestellt.",
     "changes": [
       "BVerwG 4 C 8.09 Rn. 372 bis 378 mit Betriebszeit, Nachtflugbedarf, Belastungsspitzen und nicht übertragbarem Frankfurter Kontingent verknüpft.",
       "Luftaufsicht nach Paragraf 29 LuftVG, Gefahrgut-Erlaubnis nach Paragraf 27 und Luftsicherheit sauber getrennt; keine pauschale Gefahrgutbeauftragtenpflicht.",
@@ -72,9 +73,10 @@
       "Bestandsbescheide und fortgeltende Anlagen gegen bloßen Flugplan abgleichen; Bau- und Betriebsanteile einer kombinierten Änderung bestimmen.",
       "Leisere Flotte und zeitliche Häufung als gegenläufige Tatsachen prüfen; entkräftete Prognoserügen in der Folgefassung ersetzen.",
       "Behördlich akzeptierte Sicherheitsabhilfe von interner Maßnahmenliste trennen; Slot-Saison und finanzielle gegenüber technischer Airline-Zulassung abgrenzen.",
-      "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten."
+      "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten.",
+      "Redaktion 16.10.2026: Flugplatzentscheidung vor Startauswahl, Nachtlärmanker ohne bundesweiten Grenzwert vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "9bb9ced78c2376f191094744a1365c042656bd19e795dde408cd342295c63090"
+    "sha256": "54fb5b4b9a733309c3ad53cabec5b3dd112f9b532a8c01a642ca6800bbbb81d1"
   },
   "selection": {
     "positive": [

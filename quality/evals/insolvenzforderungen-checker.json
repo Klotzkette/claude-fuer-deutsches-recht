@@ -436,18 +436,56 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet.",
+    "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
-      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt."
+      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt.",
+      "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
     ],
-    "sha256": "2aedcf957b23d085c4b8785e9fc1b8a57276899ba549d6e33fee14e2f81f7667"
+    "sha256": "9de64ada4147e5fe9791bc18b27e2f128237f88ad82fd633a070578490b84d6d"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe.",
+    "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
-      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten."
+      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten.",
+      "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
     ],
-    "sha256": "79b444915a6762c27323ac0c0770c6a232c736ef747055163f7e4c89441162e0"
+    "sha256": "243e03b9e17b9fe844689e1e9ce16cf12301782da4b9d4b3c65dc2389b45f440"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert.",
+    "anchor_or_exception": "BGH, Urteil vom 25.06.2020, IX ZR 47/19; zusätzliche bestehende Mini-Anker IX ZR 114/23 und IX ZR 195/01; Paragraf 174 InsO",
+    "source_status": "Vorhandenes references/rechtsstand-und-entscheidungen.md mit Anwendung und Grenzen gelesen; Bestandsprüfung, keine heutige Primärverifikation.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "2aedcf957b23d085c4b8785e9fc1b8a57276899ba549d6e33fee14e2f81f7667",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "79b444915a6762c27323ac0c0770c6a232c736ef747055163f7e4c89441162e0",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
+        "sha256": "243e03b9e17b9fe844689e1e9ce16cf12301782da4b9d4b3c65dc2389b45f440",
+        "characters": 44979,
+        "utf8_bytes": 45727
+      },
+      {
+        "path": "insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md",
+        "sha256": "9de64ada4147e5fe9791bc18b27e2f128237f88ad82fd633a070578490b84d6d",
+        "characters": 7336,
+        "utf8_bytes": 7445
+      }
+    ]
   }
 }

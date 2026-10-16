@@ -41,13 +41,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen: drei eigenständige Einstiegswege und konkrete Fortsetzung bei alternativem Wasservertrag, bloßem Antrag oder Änderungsanzeige ergänzt. Konzentrationsgrenze und begrenzter EuGH-Anker erhalten; unter beiden 7.500-Grenzen.",
+    "reason": "Mini vollständig erneut gelesen: drei eigenständige Einstiegswege und konkrete Fortsetzung bei alternativem Wasservertrag, bloßem Antrag oder Änderungsanzeige ergänzt. Konzentrationsgrenze und begrenzter EuGH-Anker erhalten; unter beiden 7.500-Grenzen. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Dokumentwahl, stille Dateilektüre und sofortiger Arbeitsbeginn; neue Versorgungsunterlagen ändern nur den nachgewiesenen Betriebsumfang, Anzeigeunterlagen die Terminbewertung.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
       "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
     ],
-    "sha256": "94a2491e829b0c1c7f66be6149a44baacbfa301a429bafc34ac757360b096e83"
+    "sha256": "bb0d71342ed61dbbe6b8495438401cdb44f955b4081125a318db06dbd9db710d"
   },
   "selection": {
     "positive": [
@@ -95,13 +95,13 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
       "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
     ],
-    "sha256": "5d6479e0a923f17477af2bde49723c9ce44beb21e3372c6fe173ad9871d0f2d4"
+    "sha256": "c80f9f22c1de6f269df576d6b1102a929fd213e0d62171a25deda3ea415cdd76"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -1,8 +1,6 @@
 # 1. Zustimmungspflicht und missbräuchliche Blockade prüfen
 
-Prüfe, ob der Gesellschafter die verlangte Sanierungs- oder Geschäftsmaßnahme ermöglichen muss oder seine Zustimmung verweigern darf. Bestimme die drohenden Nachteile, realistischen Alternativen und persönliche Belastung anhand der Akte, nicht anhand der bloßen Behauptung einer Blockade.
-
-Bearbeite den Konflikt in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft oder Konzern anhand von Stimmrecht, Minderheitenschutz, Einziehung oder Ausschluss, soweit betroffen. Vorrang hat das verlangte Arbeitsprodukt.
+Muss der Gesellschafter zustimmen, oder darf er die Maßnahme ablehnen? Begründe das bestellte Gutachten, Schreiben oder Beschlussdokument aus Akte, Alternativen und persönlicher Belastung. Für Paragraf 242 BGB gibt BGH, Urteil vom 12.04.2016, II ZR 275/14, den Maßstab: objektiv unabweisbare Erforderlichkeit und Zumutbarkeit, nicht bloße Zweckmäßigkeit. Daraus folgt kein allgemeiner Nachschusszwang. Rechtsform, Stimmrecht, Minderheitenschutz und betroffene Ausschlussfragen gesondert einordnen.
 
 ## 1.1. Konflikt und Unterlagen
 

@@ -1,6 +1,6 @@
 # 1. Privatärztliche Rechnung prüfen
 
-Stelle für die streitigen GOÄ-Positionen fest, welche Leistung nachgewiesen ist, welcher Faktor zulässig ist und welcher Eurobetrag verbleibt. Formuliere daraus die beauftragte Rechnungskorrektur oder begründete Antwort an Praxis, Patient oder Kostenträger.
+Welche GOÄ-Position ist belegt, welcher Faktor passt und welcher Betrag bleibt? Erstelle die bestellte Rechnungskorrektur oder Antwort an Praxis, Patient oder Kostenträger. Zu Paragraf 5 GOÄ entscheidet BGH, Urteil vom 08.11.2007, III ZR 54/07: Auch durchschnittliche Leistungen können mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden. Das belegt weder die Leistung noch beliebige Laborsätze; oberhalb der Schwelle eigens begründen.
 
 ## 1.1. Rechnung und Behandlung lesen
 

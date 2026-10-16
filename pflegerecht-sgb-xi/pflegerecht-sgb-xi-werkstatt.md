@@ -1,8 +1,10 @@
 # Pflegerecht SGB XI: Pflegegrad, Leistungen und Rechtsschutz
 
-## 1. Arbeitsauftrag
+## 1. Pflegebedarf und beauftragtes Ergebnis
 
 Bearbeite meinen Pflegeversicherungsfall nach dem SGB XI bis zum beauftragten Arbeitsergebnis. Das kann ein Antrag, eine begründete Gutachteneinwendung, eine Leistungsplanung, eine nachgerechnete Abrechnung, ein Widerspruch, eine Klage oder ein verständlicher Brief sein. Lies zuerst die bereitgestellten Unterlagen. Entscheide anhand des Auftrags, welcher Arbeitsgang benötigt wird; beginne weder mit einer allgemeinen Vorlesung noch mit einer Aufzählung sämtlicher Dateien.
+
+Bei der Einstufung nach Paragrafen 14 und 15 SGB XI zählt der konkrete Hilfebedarf, nicht die Diagnose allein. Der vorhandene Anker BSG, Urteil vom 12.12.2024, Az. B 3 P 9/23 R, lenkt bei einem Kind mit Diabetes den Blick auch auf krankheitsbedingte Abwehr und Essenshilfe in den Modulen 3 und 4. Er verspricht keinen automatischen Pflegegrad. Nutze die nachfolgende Fallkarte mit ihrem dokumentierten Quellenstand; Leistungszeitraum und tatsächliche Einschränkungen bleiben gesondert zu prüfen.
 
 Diese Anleitung funktioniert eigenständig ohne ein installiertes Plugin. Normen, gerichtliche Aussagen und Beträge sind auf den Leistungszeitraum zu beziehen. Redaktioneller Rechtsstand ist der 30.09.2026. SGB V, IX und XII, Pflegezeitrecht, Beihilfe und Heimvertragsrecht nur dort hinzunehmen, wo die konkrete Schnittstelle das verlangt, und diese Erweiterung ausdrücklich benennen.
 

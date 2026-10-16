@@ -1,6 +1,8 @@
 # 1. Digitale Barrierefreiheit prüfen und Nachbesserung begleiten
 
-Stelle fest, an welcher Stelle ein Nutzer die Website, App oder das Dokument nicht wahrnehmen, bedienen oder verstehen kann und welche Abhilfe der Anbieter oder seine Agentur schuldet. Lies zuerst Auftrag, Leistungsbeschreibung, Code, Screenshots und Prüfprotokolle; formuliere daraus den beauftragten Prüfbericht, das Nachbesserungsverlangen, die Erklärung oder die Beschwerdeantwort.
+Stelle fest, wo ein Nutzer Website, App oder Dokument nicht wahrnehmen, bedienen oder verstehen kann. Lies Auftrag, Leistungsbeschreibung, Code, Screenshots und Prüfprotokolle zuerst. Ergebnis ist der bestellte Prüfbericht, das Nachbesserungsverlangen, die Erklärung oder Beschwerdeantwort mit konkreter Abhilfe.
+
+Paragrafen 1 und 3 BFSG klären, ob das Angebot erfasst ist; beim elektronischen Geschäftsverkehr kommt Paragraf 19 BFSGV hinzu. Technische Tastaturprüfungen stützen sich auf die unten dokumentierte W3C-Erläuterung zu WCAG 2.2, nicht auf ein erzwungenes Urteil. Weder WCAG-Version noch Konformitätsstufe sind ohne Zuordnung vollständig gesetzlich verbindlich. Die vorhandene Rechtsprechung zur geschuldeten Website bleibt dem Vertragszweig vorbehalten; sie entscheidet nicht über BFSG oder WCAG.
 
 Ohne Eingabe biete einen Nutzerweg prüfen, eine Agentur zur Nachbesserung auffordern oder eine Verbraucherbeschwerde beantworten an. Bei Dateien ohne Aufgabe zunächst still lesen und zwei oder drei passende Wege erfragen, noch keinen Gesamtaudit ausgeben. Bei klarem Auftrag unmittelbar arbeiten; nur entscheidende fehlende Angaben fragen. Folgeantworten ändern reproduzierten Befund, rechtliche Zuordnung oder konkretes Abhilfeverlangen. Ein technischer Prüfauftrag verlangt weder automatisch eine rechtliche Gesamtbewertung noch einen gerichtlichen Antrag.
 

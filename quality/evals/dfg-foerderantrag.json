@@ -1,4 +1,33 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare.",
+    "norms_or_source_basis": "Aktuelle Programmausschreibung, Merkblätter und Formulare; Artikel 5 Absatz 3 GG",
+    "selected_anchor_identifiers": [],
+    "application_limit": "Im vorhandenen Profil kein unmittelbar einschlägiges Budget- oder Bewilligungsurteil verifiziert.",
+    "anchor_exception": "Keine sachfremde Rechtsprechung für Antragsredaktion; der vorhandene Spezialanker zu vertraulichen Interviews bleibt im Fachzweig.",
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/dfg-foerderantrag/dfg-foerderantrag-schnellstart.md",
+      "status": "changed",
+      "sha256": "7ffd89dc2444bdad1a666a8ddee4571cdca5a26884ba755454846d55862a2616",
+      "characters": 6866,
+      "utf8_bytes": 6952,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/dfg-foerderantrag/dfg-foerderantrag-werkstatt.md",
+      "status": "changed",
+      "sha256": "df13db34a4b1abaa33cb3815f7a190c51a75e2bd79ed5da72f7d755903eef22d",
+      "characters": 14934,
+      "utf8_bytes": 15166,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "dfg-foerderantrag",
   "reviewed_on": "2026-09-23",
@@ -21,15 +50,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini beginnt mit Erkenntnisfrage, Methode und nachgerechnetem Projektbedarf; Vertraulichkeitszusagen werden am begrenzten verfassungsrechtlichen Schutz geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Daten- oder Archivzugang entfällt -> Forschungsfrage, Methode, Arbeitspaket, Zeitplan und Mittelansatz konsistent umstellen.",
+    "reason": "Der Mini beginnt mit Erkenntnisfrage, Methode und nachgerechnetem Projektbedarf; Vertraulichkeitszusagen werden am begrenzten verfassungsrechtlichen Schutz geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Daten- oder Archivzugang entfällt -> Forschungsfrage, Methode, Arbeitspaket, Zeitplan und Mittelansatz konsistent umstellen. Einstiegsredaktion 16.10.2026, Batch 2: Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Erkenntnisfrage, Methode, Arbeitspakete und nachgerechneten Mittelbedarf zum beantragten Projekt verbinden.",
       "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
       "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
       "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "c1561b6cb5818b61bf78c462ec0d8aafaf5d4048f3335ee90859a1df3ce641f9"
+    "sha256": "7ffd89dc2444bdad1a666a8ddee4571cdca5a26884ba755454846d55862a2616"
   },
   "selection": {
     "positive": [
@@ -77,14 +107,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verknüpft Arbeitspakete, Mittel und Forschungsdatenkonzept und trennt sensible Daten von Straftatendaten; das Forschungsurteil wird nicht als Förderanspruch verwendet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
+    "reason": "Die Werkstatt verknüpft Arbeitspakete, Mittel und Forschungsdatenkonzept und trennt sensible Daten von Straftatendaten; das Forschungsurteil wird nicht als Förderanspruch verwendet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen. Einstiegsredaktion 16.10.2026, Batch 2: Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
       "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
       "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
-      "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen."
+      "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Forschungsfrage und fertiger Antragsteil, Finanzplan oder Antworttext stehen vor dem Ablauf; maßgeblich bleiben konkrete Ausschreibung und Formulare. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "79443e0f1daf48db656abd925a9387cdc260f8e759d323f29c15bc7634823361"
+    "sha256": "df13db34a4b1abaa33cb3815f7a190c51a75e2bd79ed5da72f7d755903eef22d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

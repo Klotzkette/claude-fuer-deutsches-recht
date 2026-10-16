@@ -31,29 +31,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet. 2026-10-16, redaktioneller Einstiegsreview: Neutralen gerichtlichen Entwurf vor Aufnahme gesetzt; Zugang, Klagefrist und Beweislücke beim Einwurfeinschreiben getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
-      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+      "2026-10-16, redaktioneller Einstiegsreview: Neutralen gerichtlichen Entwurf vor Aufnahme gesetzt; Zugang, Klagefrist und Beweislücke beim Einwurfeinschreiben getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8bbe18f3b51baf0f24345b54a1a303c5b34888169d30072e16889527edf39dce",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "5545e2fc4fd985b99164e0128ae0ef8c0527de43f18a9343815391ff206ac4df",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet. 2026-10-16, redaktioneller Einstiegsreview: Neutralen gerichtlichen Entwurf vor Aufnahme gesetzt; Zugang, Klagefrist und Beweislücke beim Einwurfeinschreiben getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
-      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+      "2026-10-16, redaktioneller Einstiegsreview: Neutralen gerichtlichen Entwurf vor Aufnahme gesetzt; Zugang, Klagefrist und Beweislücke beim Einwurfeinschreiben getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "a87cc60cbf2076ccf46b5dd9f9f96eeec52ba8ecb8fe57c5379ba26ebc384c75",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "20ced3292e00ac926315e8246caabd5279ac00e8cef4c52b588ff1e73b54f6a2",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

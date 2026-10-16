@@ -1,6 +1,8 @@
 # 1. Vertragstyp und konkrete Rechtsfolge bearbeiten
 
-Prüfe die verlangte Nachbesserung, Rückzahlung oder Ersatzleistung nach dem tatsächlich vereinbarten Vertragstyp. Lies zuerst Vertrag, Leistungsnachweise, Mängelanzeigen und bisherige Reaktionen. Bestimme, ob der Gläubiger noch Erfüllung verlangen kann, eine Frist setzen muss oder bereits zur konkret gewünschten Rechtsfolge übergehen darf, und formuliere das bestellte Schreiben oder Gutachten.
+Prüfe Nachbesserung, Rückzahlung oder Ersatz nach der tatsächlich vereinbarten Leistung. Lies Vertrag, Leistungsnachweise, Mängelanzeigen und Reaktionen zuerst; formuliere daraus das beauftragte Schreiben oder Gutachten.
+
+Beim behaltenen mangelhaften Werk trenne Schadensersatz von Vorschuss nach Paragrafen 634 Nummer 2 und 637 BGB. BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54, schließt fiktive Beseitigungskosten als kleinen Schadensersatz aus, lässt bei geplanter Beseitigung aber einen zweckgebundenen, abzurechnenden Vorschuss zu. Das ist kein allgemeines Verbot fiktiver Kosten im Kauf- oder Deliktsrecht. Vorhandener Nachweis unten.
 
 ## 1.1. Leistungspflicht richtig einordnen
 

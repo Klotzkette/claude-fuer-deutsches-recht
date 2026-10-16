@@ -31,25 +31,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mahnung und Klage beginnen mit einer bereinigten Forderungsrechnung; ein Rechnungsdatum wird nicht ohne Rechtsgrund zum Verzugseintritt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Mahnung und Klage beginnen mit einer bereinigten Forderungsrechnung; ein Rechnungsdatum wird nicht ohne Rechtsgrund zum Verzugseintritt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
       "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
       "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
-      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden."
     ],
-    "sha256": "a2209d60489e73448f08a2b61b34475f703ca84f84b44623c9361bf0f6ff9906"
+    "sha256": "d2a8fca7521edb9eec70616fba5f23c02eead2c55aff3cc271089e49c93a309d"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt für Mahnung, Klage, Mietforderung, Erledigung, Titel und Vollstreckung neu formuliert, ohne diese Wege als Pflichtkaskade auszugeben. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt für Mahnung, Klage, Mietforderung, Erledigung, Titel und Vollstreckung neu formuliert, ohne diese Wege als Pflichtkaskade auszugeben. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
       "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
       "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
-      "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt."
+      "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden."
     ],
-    "sha256": "15532f30f85908e42c9b683e4da0915c4404abf1de55fc774077d94637bb3c38"
+    "sha256": "b8d5a295316925eeb811876de84c7dccfeac0e44c84cf8a0dfa581d7c3d91798"
   },
   "selection": {
     "positive": [
@@ -141,5 +143,41 @@
     "continuation": "Tilgungszweck -> Saldo und Zinsantrag; Zustellung nach Zahlung -> Rücknahme-/Kostenweg statt schematischer Erledigung.",
     "enrichment": "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Offenen Saldo als Ergebnis konkretisiert; Verzug und Kosten mit einseitigem Rechnungsziel und dessen Ausnahmen früh verbunden.",
+    "anchor_or_exception": "BGH, Urteil vom 25.10.2007, III ZR 91/07; Paragraf 286 BGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "a2209d60489e73448f08a2b61b34475f703ca84f84b44623c9361bf0f6ff9906",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "15532f30f85908e42c9b683e4da0915c4404abf1de55fc774077d94637bb3c38",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-schnellstart.md",
+        "sha256": "d2a8fca7521edb9eec70616fba5f23c02eead2c55aff3cc271089e49c93a309d",
+        "characters": 6679,
+        "utf8_bytes": 6771
+      },
+      {
+        "path": "forderungsmanagement-klagewerkstatt/forderungsmanagement-klagewerkstatt-werkstatt.md",
+        "sha256": "b8d5a295316925eeb811876de84c7dccfeac0e44c84cf8a0dfa581d7c3d91798",
+        "characters": 19272,
+        "utf8_bytes": 19562
+      }
+    ]
   }
 }

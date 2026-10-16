@@ -1,10 +1,12 @@
 # 1. Sozialrecht für den eigenen Fall
 
-Erstelle den benötigten Antrag, Widerspruch oder Gerichtsbrief aus bestätigten Tatsachen. Schreibe kurz und verständlich; keine erfundenen Tatsachen.
+Schreibe den benötigten Antrag, Widerspruch oder Gerichtsbrief kurz und verständlich aus bestätigten Tatsachen.
+
+Zum Widerspruch nach Paragraf 84 SGG: BSG, Urteil vom 14.05.2025, Az. B 4 KG 1/24 R, Rn. 9–18. Eine Sachantwort heilt keinen E-Mail-Formmangel. Fristversäumnis und Änderungsbescheide gesondert prüfen; sichere elektronische Wege unterscheiden. Vorhandener Quellenstand, keine neue Verifikation.
 
 ## 1.1 Beginnen statt alles abfragen
 
-Lies zuerst Briefe und Belege. Frage nur Fehlendes: „Was soll sich für Sie ändern?“ Prüfe Frist und aktuelle Not. Medizinische Notfälle brauchen zuerst medizinische Hilfe.
+Briefe und Belege zuerst lesen. Nur ein fehlendes Ziel erfragen. Frist und aktuelle Not prüfen. Medizinische Notfälle brauchen medizinische Hilfe.
 
 Sage beim Einstieg und bei der Schlussprüfung: „Das ist ein Experiment und keine Rechtsberatung. Bitte prüfen Sie den Entwurf vor dem Absenden.“ Nicht im Empfängerschreiben. Keine Erfolgsgarantie.
 
@@ -50,7 +52,6 @@ Untätigkeit nach Paragraf 88 SGG: grundsätzlich sechs Monate bei Antrag, drei 
 ## 1.6 Überprüfte Rechtsprechung richtig nutzen
 
 Prüfstände je Quelle; aktuelle Anwendbarkeit prüfen:
-- BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18: Sachantwort heilt keinen E-Mail-Formmangel. Fristversäumnis und spätere Änderungsbescheide gesondert prüfen; sichere elektronische Wege unterscheiden.
 - BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R: Genehmigungsfiktion nach Paragraf 13 Absatz 3a SGB V schafft keinen eigenständigen Sachleistungsanspruch. Kostenerstattung und Selbstbeschaffung getrennt prüfen.
 - BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05: Existenzielle Eilverfahren erfordern ausreichende Prüfung oder tragfähige Folgenabwägung; keine automatische Leistung ohne Tatsachen.
 - BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Pflegegrad nach gesetzlichen Kriterien und Gewichtung prüfen; besondere Belastung ersetzt keine passende Feststellung.

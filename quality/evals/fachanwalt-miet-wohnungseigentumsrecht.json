@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar.",
+    "norms_or_source_basis": "Paragrafen 559 bis 559b BGB",
+    "selected_anchor_identifiers": [
+      "VIII ZR 81/19"
+    ],
+    "application_limit": "Versäumnisurteil und historischen Rechtsstand beachten; keine alte Elf-Prozent-Quote oder pauschale Heizungsformel übernehmen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "67d096df08aca798c9423d7ca5efe26d9ade533fd5fd5ac52a68da61a8d617d7",
+      "characters": 6956,
+      "utf8_bytes": 7062,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "f3caa3dced1140c51456877b2f3bd017632de482b759523703924e42bd6ada04",
+      "characters": 25308,
+      "utf8_bytes": 25703,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
   "reviewed_on": "2026-10-01",
@@ -124,16 +155,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest.",
+    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
-      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt."
+      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "1e7966d6b00355b7e54a839dca0b78e1fa236868b781268acd9b44a28bdc96d5",
+    "sha256": "67d096df08aca798c9423d7ca5efe26d9ade533fd5fd5ac52a68da61a8d617d7",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -207,7 +239,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest.",
+    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
@@ -215,9 +247,10 @@
       "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
       "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
-      "Absätze zu Mietpreisbremse und WEG-Erhaltung den jeweiligen Fachabschnitten zugeordnet."
+      "Absätze zu Mietpreisbremse und WEG-Erhaltung den jeweiligen Fachabschnitten zugeordnet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "1421990d6f9b75e594f91ea8047d8356c0322a81edbc4f388139ab39cfad3715",
+    "sha256": "f3caa3dced1140c51456877b2f3bd017632de482b759523703924e42bd6ada04",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

@@ -1,6 +1,8 @@
 # 1. Handelsvertreterrecht: Werkstatt
 
-Gleiche vermittelte oder dem Bezirk zugeordnete Geschäfte mit Provisionsabrechnungen ab, ermittle fehlende Ausführungs- und Stornodaten und begründe die offenen Ansprüche. Bei Vertragsende prüfe Kündigung, nachvertragliche Provision und Ausgleich getrennt. Verfasse für den Handelsvertreter oder Unternehmer die verlangte Beratung, Berechnung, Vertragsregelung oder Erklärung aus den vorhandenen Belegen.
+Welche Geschäfte fehlen in der Abrechnung, und trägt der angegebene Stornogrund den Provisionsabzug? Gleiche Vertrag, Geschäfts- und Ausführungsdaten ab und liefere die bestellte Berechnung, Auskunftsanforderung, Beratung oder Vertragsregelung. Bei Vertragsende Kündigung, nachvertragliche Provision und Ausgleich getrennt behandeln.
+
+Paragraf 87c HGB sichert die Informationsgrundlage. BGH, Urteil vom 20.09.2006, VIII ZR 100/05, unterscheidet flüchtigen Systemzugang und geordneten Buchauszug. Schweigen ersetzt zwingende Informationsrechte nicht durch eine Genehmigungsfiktion. Der Versicherungsvertreterfall verbietet keine elektronischen Auszüge; eindeutige tatsächliche Abrechnungseinigung und einzelne Zahlungsansprüche bleiben gesondert zu prüfen.
 
 ## 1.1. Auftrag aus der Akte bestimmen
 

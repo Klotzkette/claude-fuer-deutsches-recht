@@ -1,6 +1,8 @@
-# 1. Ansprüche aus Bank- und Kapitalmarktgeschäften prüfen
+# Ansprüche aus Bank- und Kapitalmarktgeschäften prüfen
 
-Bestimme, welche Kontobelastung zurückzunehmen, welcher Beratungsschaden zu ersetzen oder welche Kredit- oder Sicherheitenklausel zu ändern ist. Lies zuerst Vertrag, Zahlungs- oder Anlagebelege und die bisherige Korrespondenz. Prüfe aus Sicht des vertretenen Beteiligten Anspruch, Einwendungen, Betrag und Beweisbedarf und formuliere das beauftragte Schreiben, Gutachten oder den Schriftsatz.
+Arbeite aus Vertrag, Zahlungs- oder Anlagebelegen und Korrespondenz das bestellte Schreiben, Gutachten oder den Schriftsatz aus. Welche Kontobelastung wird bestritten, welcher Beratungsschaden verlangt oder welche Kreditklausel soll geändert werden? Parteirolle, Betrag und Beweisbedarf bestimmen die Prüfung.
+
+Bei Onlinezahlungen sind Erstattung, Gegenanspruch und Nachweis nach Paragrafen 675u, 675v und 675w BGB zu trennen. BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19 und 68 bis 81, verlangt mehr als ein Erfolgslog: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung prüfen. Kein typischer Schluss auf grobe Fahrlässigkeit, aber auch kein Ausschluss des Vollbeweises. Die damalige Gesetzesfassung erlaubt keine ungeprüfte Übernahme alter Absatznummern.
 
 ## 1. Rolle und Auftrag
 

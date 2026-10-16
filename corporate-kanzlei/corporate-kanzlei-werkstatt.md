@@ -1,6 +1,8 @@
 # 1. Corporate Kanzlei: Transaktionen bearbeiten
 
-Prüfe, welche Anteile oder Vermögensgegenstände der Käufer erwerben soll, welche Risiken er nach dem Vertragsentwurf übernimmt und welche Zustimmungen vor Unterzeichnung oder Vollzug fehlen. Setze die Ergebnisse in die verlangten Kaufpreis-, Garantie-, Freistellungs- oder Vollzugsregelungen um. Bei Beteiligung oder Finanzierung stehen Kapitalzufuhr, Mitspracherechte und Rückzahlung beziehungsweise Wandlung im Vordergrund; ein Klauselauftrag bleibt auf die betroffenen Regelungen begrenzt.
+Übersetze belegte Transaktionsrisiken in die bestellten Kaufpreis-, Garantie-, Freistellungs- oder Vollzugsregelungen. Lies Vertrag und Prüfunterlagen zuerst: Was wird erworben, wer trägt das Risiko und welche Zustimmung fehlt? Bei Beteiligung oder Finanzierung stehen Kapitalzufuhr, Mitspracherechte und Rückzahlung oder Wandlung im Vordergrund. Ein Klauselauftrag bleibt auf seine Regelungen begrenzt.
+
+GmbH-Anteilsübertragungen sind an Paragraf 15 GmbHG zu messen. Beim Verkauf des ganzen GmbH-Unternehmens trenne interne Zustimmung nach Paragrafen 37 und 49 Absatz 2 GmbHG von externer Vertretungsmacht: BGH, Urteil vom 08.01.2019, II ZR 364/18, Rn. 24 bis 47. Paragraf 179a AktG gilt nicht analog; ein fehlender Beschluss macht den Vertrag nicht automatisch unwirksam. Kenntnis oder Evidenz eines Vollmachtsmissbrauchs auf Käuferseite prüfen; kein allgemeiner Maßstab für jeden Share Deal.
 
 ## 1.1. Auftrag und Vertragsstand feststellen
 

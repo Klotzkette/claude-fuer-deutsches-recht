@@ -474,18 +474,26 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakter vollständiger Beschaffungs- und Verfahrensablauf statt generischer Checkliste.",
+    "reason": "Kompakter vollständiger Beschaffungs- und Verfahrensablauf statt generischer Checkliste. 2026-10-16, redaktioneller Einstiegsreview: Vergabedokumente und Sektorenbezug zuerst; Pegaso-Passage im Mini vorgezogen, Postfall nicht pauschal auf U-Bahn-Bestände übertragen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Reinigungsmengen, Normen, sechs Entscheidungsanker, Fristen und Rückwege eigenständig formuliert."
+      "Reinigungsmengen, Normen, sechs Entscheidungsanker, Fristen und Rückwege eigenständig formuliert.",
+      "2026-10-16, redaktioneller Einstiegsreview: Vergabedokumente und Sektorenbezug zuerst; Pegaso-Passage im Mini vorgezogen, Postfall nicht pauschal auf U-Bahn-Bestände übertragen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "bedca77b568cf621fc51c75c85d7bbdf8ce6cc7b2e16caf0ffca3341905c904e"
+    "sha256": "acbb76dc36f179c44476ff89017b0ab4738ebc0a5aaadaa169e145d3abb7f3e5",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Unterlagenerstellung und Verfahrensführung anhand konkreter Reinigungsrisiken verbunden.",
+    "reason": "Unterlagenerstellung und Verfahrensführung anhand konkreter Reinigungsrisiken verbunden. 2026-10-16, redaktioneller Einstiegsreview: Vergabedokumente und Sektorenbezug zuerst; Pegaso-Passage im Mini vorgezogen, Postfall nicht pauschal auf U-Bahn-Bestände übertragen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Leistungs-, Mengen-, Wertungs- und Fristarbeit bis zu vollständigen Dokumenten und rechtmäßiger Fortsetzung vertieft."
+      "Leistungs-, Mengen-, Wertungs- und Fristarbeit bis zu vollständigen Dokumenten und rechtmäßiger Fortsetzung vertieft.",
+      "2026-10-16, redaktioneller Einstiegsreview: Vergabedokumente und Sektorenbezug zuerst; Pegaso-Passage im Mini vorgezogen, Postfall nicht pauschal auf U-Bahn-Bestände übertragen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "f6e13d0983ffeaf2efd6f0a309061e46c2369cd87f23891734843bfcc180f12f"
+    "sha256": "6becec23a2a033a71e2cc8c711a6bbefe4a53b71313f42d2415cb3634a33bb38",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   }
 }

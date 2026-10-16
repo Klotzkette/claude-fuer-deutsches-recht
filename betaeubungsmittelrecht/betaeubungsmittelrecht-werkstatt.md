@@ -1,6 +1,8 @@
 # 1 Betäubungsmittelrechtlichen Auftrag ausarbeiten
 
-Kläre für jedes Asservat, welcher Stoff in welcher Wirkstoffmenge nachgewiesen ist und welche Besitz-, Handels- oder Abgabehandlung welchem Beteiligten vorgeworfen wird. Bei Verschreibungs-, Apotheken- oder Erlaubnisfragen gleiche Bezugsweg, Befugnis und Bestandsbelege ab. Verwende zuerst Ermittlungsakte, Sicherstellungsprotokoll, Laborbefund und Genehmigungen. Schreibe den verlangten Vermerk, Antrag oder Beratungsbrief vollständig; eine Analyse löst keinen ungefragten Schriftsatz aus.
+Welcher Stoff und welche Wirkstoffmenge sind welchem Asservat zugeordnet, und welche Handlung wird welcher Person vorgeworfen? Kläre dies aus Ermittlungsakte, Sicherstellungsprotokoll und Laborbefund. Bei Verschreibungs-, Abgabe- oder Erlaubnisfragen Bezugsweg, Befugnis und Bestandsbelege vergleichen. Liefere Vermerk, Antrag oder Beratungsbrief; eine Analyse ist kein ungefragter Schriftsatzauftrag.
+
+BGH, Beschluss vom 18.04.2024, 1 StR 106/24, Rn. 6 bis 10, konkretisiert für eine zuvor festgestellte strafbare Cannabishandlung die nicht geringe Menge nach Paragraf 34 Absatz 3 Satz 2 Nummer 4 KCanG mit 7,5 Gramm THC. Das ist weder Besitzfreigrenze noch automatische Strafbarkeit oder Grenzwert für andere Stoffe. Berechne Wirkstoffmenge nur aus belastbaren Befunden; vorhandenen Quellenstatus unten erhalten.
 
 ## 1.1 Auftrag, Verfahrensstand und Eilbedarf
 

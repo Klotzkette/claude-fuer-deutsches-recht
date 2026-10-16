@@ -41,14 +41,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Stellungnahme muss im Bericht sichtbar werden; bloße Anfrage und eine laufende Ermittlung tragen keine Freigabe.",
+    "reason": "Stellungnahme muss im Bericht sichtbar werden; bloße Anfrage und eine laufende Ermittlung tragen keine Freigabe. Redaktionelle Einstiegslektüre am 16.10.2026: Verdachtsbericht mit Beweistatsachen und sichtbarer Gegenposition vor den Arbeitslisten verankert; Quellenstart in Fließtext.",
     "changes": [
       "BGH zur sichtbaren Gegenposition in beide Prompts integriert",
       "BVerfG zur Gesamtschau statt strafprozessualer Verdachtsstufe begrenzt angewandt",
       "Nachtrag bei später ausgeräumtem Verdacht und Aufnahmegrenzen präzisiert",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Redaktion 16.10.2026: Verdachtsbericht mit Beweistatsachen und sichtbarer Gegenposition vor den Arbeitslisten verankert; Quellenstart in Fließtext. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "70adbe3190e385c5845e0a8b70ed7334bec5a7d0467b2c90772f9f1f6c79f763"
+    "sha256": "f654e73f4168e23a227a0717abe54617355dbee15f60b4e5805593459139fb2e"
   },
   "selection": {
     "positive": [
@@ -96,14 +97,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Entscheidungsmeldung, Verdachtsbericht, Bild, Liveblog und Nachtrag am jeweiligen Quellenstand ausgerichtet; spätere Entlastung nicht mit anfänglichem Fehler gleichgesetzt.",
+    "reason": "Entscheidungsmeldung, Verdachtsbericht, Bild, Liveblog und Nachtrag am jeweiligen Quellenstand ausgerichtet; spätere Entlastung nicht mit anfänglichem Fehler gleichgesetzt. Redaktionelle Einstiegslektüre am 16.10.2026: Verdachtsbericht mit Beweistatsachen und sichtbarer Gegenposition vor den Arbeitslisten verankert; Quellenstart in Fließtext.",
     "changes": [
       "BGH zur sichtbaren Gegenposition in beide Prompts integriert",
       "BVerfG zur Gesamtschau statt strafprozessualer Verdachtsstufe begrenzt angewandt",
       "Nachtrag bei später ausgeräumtem Verdacht und Aufnahmegrenzen präzisiert",
-      "Quellen- und Verfahrensstufen, tragende Aussage statt bloßem Zitat, konkrete Konfrontation mit Antwortfrist, indirekte Identifizierbarkeit sowie konsistente Artikel-, Überschriften- und Begleittexte vertieft."
+      "Quellen- und Verfahrensstufen, tragende Aussage statt bloßem Zitat, konkrete Konfrontation mit Antwortfrist, indirekte Identifizierbarkeit sowie konsistente Artikel-, Überschriften- und Begleittexte vertieft.",
+      "Redaktion 16.10.2026: Verdachtsbericht mit Beweistatsachen und sichtbarer Gegenposition vor den Arbeitslisten verankert; Quellenstart in Fließtext. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "8fe91c98832808872dbb9daf174081838cd8328f48b9b07e61fa8d66318df4f7"
+    "sha256": "9dfdd6236c5852bb6d717b32497336d1d24e0460240bb2aa106b0d5bda6ea70f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

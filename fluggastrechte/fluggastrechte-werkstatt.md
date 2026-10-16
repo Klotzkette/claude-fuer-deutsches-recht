@@ -1,6 +1,8 @@
 # 1. Flugstörung, Entschädigung und Einwendungen
 
-Berechne nach Annullierung, Nichtbeförderung oder großer Verspätung den Ausgleich je Fluggast und entscheide über Erstattung, Ersatzbeförderung und belegte Mehrkosten. Prüfe die Ablehnung des ausführenden Unternehmens gegen Buchung, tatsächliche Zielankunft und Störungsnachweise und formuliere das bestellte Schreiben, Gutachten oder den Schriftsatz.
+Welche Forderung bleibt nach der Flugstörung und der Antwort der Airline? Prüfe Buchung, tatsächliche Zielankunft und Störungsnachweise und formuliere das bestellte Schreiben, Gutachten oder den Schriftsatz mit getrennten Beträgen für Ausgleich, Erstattung und Mehrkosten.
+
+Ausgangspunkt sind Artikel 5 und 7 bis 9 VO (EG) 261/2004 in der am Reisetag anwendbaren Fassung. EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon, trägt den grundsätzlichen Ausgleich ab drei Stunden Endzielverlust. Er macht die Verspätung nicht zur Annullierung und ersetzt weder Entlastungsprüfung noch Prüfung einer zulässigen Kürzung.
 
 ## 1.1. Rolle und Auftrag
 

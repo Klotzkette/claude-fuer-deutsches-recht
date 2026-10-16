@@ -66,14 +66,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Beide Zahlungs- und Anfechtungswege vollständig gelesen. Der Einstieg trennt eigene Fehlzahlung von Gläubigerzugriff; Kenntnisprüfung und Unentgeltlichkeit sind jetzt aus amtlichen Gründen anwendbar, nicht nur Schlagworte. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Beide Zahlungs- und Anfechtungswege vollständig gelesen. Der Einstieg trennt eigene Fehlzahlung von Gläubigerzugriff; Kenntnisprüfung und Unentgeltlichkeit sind jetzt aus amtlichen Gründen anwendbar, nicht nur Schlagworte. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Positive Kenntnis nach Paragraf 814 BGB mit Beweislast und tatsächlichem Zahlungswissen verbunden.",
       "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
       "Leerstart: Fehlzahlung, Abwehr oder Gläubigeranfechtung anbieten. Dateien: Zahlungsbeziehungen still rekonstruieren und passenden Anspruchsweg klären. Klarer Auftrag: Rückforderung, Antwort oder Antrag direkt formulieren.",
-      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
+      "16.10.2026: Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette."
     ],
-    "sha256": "3d6afdf75d675406e13ac3c30d34287038553ce14289deca704d8e457a58a24a"
+    "sha256": "25192d1e057d2e0b33f9a33f9f3d373e3b93ceb5157e86947823fc17000c7053",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -121,15 +124,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt einschließlich altem Normanhang gelesen. Falsche Zuordnung von Paragraf 15 AnfG und pauschale Vollstreckungsverweise entfernt; konkrete Fristwahrung, Rechtsnachfolge und begrenzter Befriedigungszugriff ersetzen den unverbindlichen Katalog. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Gesamte Werkstatt einschließlich altem Normanhang gelesen. Falsche Zuordnung von Paragraf 15 AnfG und pauschale Vollstreckungsverweise entfernt; konkrete Fristwahrung, Rechtsnachfolge und begrenzter Befriedigungszugriff ersetzen den unverbindlichen Katalog. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Positive Kenntnis nach Paragraf 814 BGB mit Beweislast und tatsächlichem Zahlungswissen verbunden.",
       "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
       "AnfG-Fristrückrechnung, Rechtsnachfolgerzugriff, Zinsen und Verjährungsverzicht fachlich korrigiert.",
       "Doppelzahlung und Anweisung, konkrete Verbrauchs- und Kenntniseinwände, Grundstückszugriff und getrennte Fristen.",
-      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
+      "16.10.2026: Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette."
     ],
-    "sha256": "e306c764e0c38fd6c3281f78ee26cd304bd033db97d128ac3a83ec677e4138fc"
+    "sha256": "8a509e57d78808329a259815de8056d3464b5c62615db9c0e675d25263094520",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -176,6 +182,27 @@
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Entscheidende Randnummern, nicht sämtliche Genussrechts- oder Bilanzierungsfragen in IX ZR 247/19 neu geprüft; optionale Alt-Skills unverändert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-schnellstart.md",
+        "sha256": "25192d1e057d2e0b33f9a33f9f3d373e3b93ceb5157e86947823fc17000c7053",
+        "reason": "Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette.",
+        "anchor_or_exception": "Paragrafen 812 und 814 BGB; BGH Hinweisbeschluss 04.09.2018 VIII ZR 100/18: Kenntnis der Nichtschuld und Beweislast des Empfängers; mietrechtlicher Fall mit späterer Rechtsmittelrücknahme, keine pauschale Rückforderung."
+      },
+      {
+        "path": "bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md",
+        "sha256": "8a509e57d78808329a259815de8056d3464b5c62615db9c0e675d25263094520",
+        "reason": "Rückforderung und Einwand aus konkretem Zahlungsvorgang statt abstrakter Bereicherungskette.",
+        "anchor_or_exception": "Paragrafen 812 und 814 BGB; BGH Hinweisbeschluss 04.09.2018 VIII ZR 100/18: Kenntnis der Nichtschuld und Beweislast des Empfängers; mietrechtlicher Fall mit späterer Rechtsmittelrücknahme, keine pauschale Rückforderung."
+      }
     ]
   }
 }

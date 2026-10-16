@@ -46,33 +46,37 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen. 2026-10-16, redaktioneller Einstiegsreview: Rekurs und Urkunden als Ausgang; kanonischen Rechtskreis vom staatlichen Loyalitätsmaßstab getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
       "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle. Grenze: Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist.",
       "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
       "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
       "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
-      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Rekurs und Urkunden als Ausgang; kanonischen Rechtskreis vom staatlichen Loyalitätsmaßstab getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c86d72a0a046253c92daae132dde37cd63bc4b3f4674c7d33df2e3c225a25731",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "7a7d7edfe5ba3cfe04b03e7e57c96654f4f02dc82a7bf37582fc1072bee051d8",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen. 2026-10-16, redaktioneller Einstiegsreview: Rekurs und Urkunden als Ausgang; kanonischen Rechtskreis vom staatlichen Loyalitätsmaßstab getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
       "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle. Grenze: Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist.",
       "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
       "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
       "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
-      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Rekurs und Urkunden als Ausgang; kanonischen Rechtskreis vom staatlichen Loyalitätsmaßstab getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8373b8681edb0f2ddb969a6b39ed476f90edb8b126ba0b3ae2f5cd4630f97b51",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "de29a6370b61967d4ba15ffc4997fb5dfa2e1cc19f2a4f4fe3b2c20fb75af6ce",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

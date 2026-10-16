@@ -1,4 +1,8 @@
-# Bauvergabe – Nachtragsmanagement: Werkstatt-Megaprompt
+# Bauvergabe: Nachtragsmanagement
+
+Was wurde zusätzlich gefordert, was kostet es und welche Bauzeitfolge ist belegt? Erstellen Sie aus Auftragnehmersicht das verlangte Nachtragsangebot, die Anzeige, Rechnung oder Anspruchsbegründung. Paragrafen 650b und 650c BGB und die jeweils einschlägige VOB/B-Regel sind zu trennen; eine öffentliche Auftragsänderung nach Paragraf 132 GWB schafft keinen eigenen Vergütungsanspruch.
+
+BGH, Urteil vom 08.08.2019, VII ZR 34/18, Rn. 17 bis 20 und 27 bis 29, betrifft qualitativ unveränderte Mehrmengen nach Paragraf 2 Absatz 3 Nummer 2 VOB/B: Ohne andere Preisabrede sind tatsächlich erforderliche Kosten maßgeblich. Keine pauschale Übertragung auf geänderte oder zusätzliche Leistungen nach Absätzen 5 und 6. Den unten belegten Quellenstand erhalten; keine neue Vollprüfung behaupten.
 
 ## 1. Auftrag und Arbeitsweise
 

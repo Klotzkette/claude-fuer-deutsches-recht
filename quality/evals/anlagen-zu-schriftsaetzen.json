@@ -50,30 +50,34 @@
     }
   ],
   "mini_review": {
-    "sha256": "8c7b8279cfbd4253434d0af947f57247c099e2044e27fd3954b0e899aa532ed7",
+    "sha256": "2415a7eda28646ca218c051742eb980bf260caf3cecf7192861447f9cddbc9ca",
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Anschlussprüfung 16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt.",
       "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
       "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten. Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag. Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen.",
       "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten."
     ],
-    "reviewed_on": "2026-10-01"
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Anschlussprüfung 16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen.",
       "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
       "Belegkonflikt, neue Datei nach Signatur, Nummernkollision, Nachreichung, Schwärzungen und tabellarische Ausschnitte ohne materielle Beweisentscheidung.",
       "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "16.10.2026: Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten."
     ],
-    "sha256": "4b34543337fbbe32c0d951763deb8afe599dcbeea4ae50fcf5e302622067a860",
-    "reviewed_on": "2026-10-01"
+    "sha256": "8482012553673ac0623e9888e94e6b0284ad28c1a9e578f50631604691983ff8",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -181,6 +185,27 @@
         "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
+      }
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+        "sha256": "2415a7eda28646ca218c051742eb980bf260caf3cecf7192861447f9cddbc9ca",
+        "reason": "Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten.",
+        "anchor_or_exception": "Paragraf 130a Absätze 3 und 5 ZPO; BAG 22.01.2025 7 ABR 23/23 Rn. 33 bis 36: qualifizierte Signatur bei delegierter Übermittlung; arbeitsgerichtlicher Kontext, gewöhnliche Anlagen gesondert."
+      },
+      {
+        "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+        "sha256": "8482012553673ac0623e9888e94e6b0284ad28c1a9e578f50631604691983ff8",
+        "reason": "Gerichtsversand als Produktionsauftrag mit Signaturgrenze lesbar vorangestellt; Fachfolge erhalten.",
+        "anchor_or_exception": "Paragraf 130a Absätze 3 und 5 ZPO; BAG 22.01.2025 7 ABR 23/23 Rn. 33 bis 36: qualifizierte Signatur bei delegierter Übermittlung; arbeitsgerichtlicher Kontext, gewöhnliche Anlagen gesondert."
       }
     ]
   }

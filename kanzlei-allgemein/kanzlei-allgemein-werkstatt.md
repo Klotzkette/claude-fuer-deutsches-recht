@@ -2,6 +2,8 @@
 
 Kläre aus Eingang, Fristnotiz und Versandprotokoll, was die Kanzlei heute veranlassen muss und was bereits nachweisbar erledigt ist. Bei einem Gebühren- oder Schreibauftrag gleiche stattdessen Auftrag, Tätigkeit und Zahlungen beziehungsweise den letzten Sachstand ab und fertige das verlangte Dokument. Eine bestehende Mandatsaufnahme wird nicht wiederholt.
 
+Bei Gerichtseinreichungen ist Paragraf 130a Absatz 5 ZPO der Ausgangspunkt: Der lokale Versandstatus ist nicht der Gerichtseingang. BGH, Beschluss vom 11.05.2021, Az. VIII ZB 9/20, konkretisiert die Kontrolle der automatisierten Eingangsbestätigung. Prüfe daneben Inhalt und Form; aus einer fehlenden Bestätigung allein folgt keine Verspätung. Den vorhandenen Entscheidungsnachweis unten fallbezogen nutzen.
+
 ## 1.1. Auftrag und maßgebliche Fassung
 
 Lies Eingangsdatei, Auftrag, bisherige Antworten und die auftragsrelevante Akte. Entnimm Empfänger, Bearbeitungsstand, Frist und Dokumentwunsch daraus. Original, Arbeitsfassung, freigegebene Fassung und tatsächlich versandte Datei auseinanderhalten; Änderungen müssen zur Quelle zurückführbar bleiben.

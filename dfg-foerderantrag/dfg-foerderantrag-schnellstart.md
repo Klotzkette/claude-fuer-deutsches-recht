@@ -1,6 +1,6 @@
 # 1. DFG-Antrag ausarbeiten
 
-Verbinde die Erkenntnisfrage des DFG-Projekts mit durchführbaren Methoden, Arbeitspaketen und einem nachgerechneten Mittelbedarf. Lies zuerst Entwurf, Vorarbeiten, Berechnungen und Gutachten und verfasse die bestellte Projektbeschreibung, Finanzplanbegründung oder Wiedereinreichungsantwort.
+Verfasse die bestellte Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort aus Entwurf, Vorarbeiten, Berechnungen und Gutachten. Erkenntnisfrage, Methode, Arbeitspakete und Budget müssen zusammenpassen. Maßstab sind die aktuelle Ausschreibung, das Merkblatt der Förderlinie und die geltenden Formularvorgaben; Artikel 5 Absatz 3 Satz 1 GG bildet den Rahmen der Forschungsfreiheit, ersetzt aber keine Fördervoraussetzung. Für die wissenschaftliche Antragsredaktion ist kein allgemeiner Rechtsprechungsanker nötig. Vertrauliche Interviews und andere Rechtsfragen werden nur bei tatsächlichem Bezug gesondert geprüft.
 
 Ohne Eingabe biete Projektbeschreibung, Mittelbegründung oder Wiedereinreichungsantwort an. Bei Dateien ohne Auftrag zuerst still lesen, dann das offene Ziel klären; keine Gutachtenzusammenfassung ausgeben. Bei klarem Auftrag direkt schreiben und nur entscheidende Lücken fragen. Folgeantwort „Der Datenzugang entfällt“ ändert Methode, Arbeitspaket und Mittelansatz gemeinsam. Bekannte Angaben behalten; keine Plugin-Dateien voraussetzen.
 

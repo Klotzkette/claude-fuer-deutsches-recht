@@ -61,7 +61,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung.",
+    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung. 2026-10-16, redaktioneller Einstiegsreview: Versandmappe als technisches Ergebnis; vorhandenen Eingangsanker nach vorn verschoben, keine materielle Prüfung oder eigene Versendung. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Pauschales Rechtsprechungsverbot durch begrenzten Form- und Eingangsmaßstab ersetzt; konkrete Endfassung statt bloßem Nachrichtenstatus zuordnen, Inhaltsprüfung außerhalb des Auftrags belassen.",
       "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
@@ -69,15 +69,17 @@
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
       "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
       "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung.",
-      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt."
+      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Versandmappe als technisches Ergebnis; vorhandenen Eingangsanker nach vorn verschoben, keine materielle Prüfung oder eigene Versendung. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "929a09f2ab87f3e96e157da4650a5831286a8b7d86f15da20d4ef240827d4ab1",
-    "reviewed_on": "2026-09-28",
-    "method": "desk_review"
+    "sha256": "a1aeb8377727f388794f23c08204cbe0ac9004e1f5e2af82e0cb0bb698f916aa",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung.",
+    "reason": "Versandvorbereitung aus gemischten Originaldateien einzeln nachgeprüft: eindeutige Anlagenzuordnung, Schutz signierter Quellen, berechtigter Personalversand, nachträgliche Freigabe derselben Dateifassung und Rückkehr in die Produktion nach Klärung. 2026-10-16, redaktioneller Einstiegsreview: Versandmappe als technisches Ergebnis; vorhandenen Eingangsanker nach vorn verschoben, keine materielle Prüfung oder eigene Versendung. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren.",
       "Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen.",
@@ -85,11 +87,13 @@
       "Eine ersetzte Anlage B3 verändert Fassungsbezug, Verweise und erneute Prüfungen; ein Teil-Eingangsbeleg lässt die übrigen Teile ausdrücklich offen.",
       "Freigegebene, signierte und nachträglich geänderte Fassungen trennen; Ersatzeinreichung nach Paragraf 130d und Nachreichung nach Paragraf 130a Absatz 6 ZPO nicht vermengen; Eingangsbelege jeder tatsächlich gesendeten Teilsendung zuordnen.",
       "Anlagenplan statt Umbenennung; E-Mail-Anhänge und mehrseitige Scans vollständig zuordnen. Signaturausnahme eingrenzen, persönliche und qualifiziert signierte Route trennen. Keine Neuproduktion allein zur Bestätigung einer Sichtprüfung.",
-      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt."
+      "Quellenabgleich 30.09.2026: VIII ZB 80/22 im amtlichen Volltext, Rn. 26–29, für die konkrete Dateizuordnung ergänzt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Versandmappe als technisches Ergebnis; vorhandenen Eingangsanker nach vorn verschoben, keine materielle Prüfung oder eigene Versendung. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "957e1e18fb1e8ac75b301b04dc900ee5ae2932f604632fbb6160159784630ed4",
-    "reviewed_on": "2026-09-28",
-    "method": "desk_review"
+    "sha256": "a90235a267af6c793368eaaad41d41d19c9431d0345e7d6e415fa598de7c60c0",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

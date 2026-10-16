@@ -1,6 +1,8 @@
 # 1. Influencer-Beiträge, Kooperation und Plattformkonflikt
 
-Prüfe am vorgesehenen Reel, Beitrag oder Vertrag, wer welche Gegenleistung erhält, ob der Werbezweck beim ersten Kontakt erkennbar ist und welche Bild-, Musik- und Anzeigenrechte tatsächlich eingeräumt wurden. Bei einer Sperre lies stattdessen zuerst die betroffene Veröffentlichung und Plattformmitteilung. Formuliere die beauftragten Korrekturzeilen, Vertragsklauseln oder die konkrete Beschwerde.
+Prüfe am Reel, Beitrag oder Vertrag, welche Gegenleistung vereinbart ist, ob Werbung beim ersten Kontakt erkennbar wird und welche Nutzungsrechte bestehen. Erstelle die bestellten Korrekturzeilen oder Vertragsklauseln; bei einer Sperre die konkrete Beschwerde aus Veröffentlichung und Plattformmitteilung.
+
+Paragraf 5a Absatz 4 UWG verlangt die heutige Kennzeichnungsprüfung. BGH, Urteil vom 09.09.2021, I ZR 90/20, Influencer I, ordnet den vergüteten Beitrag als geschäftliche Handlung für das beworbene Unternehmen ein. Er erging zum früheren Recht; bei unbezahlter Fremdwerbung die heutige Gegenleistungsvermutung und Widerlegung prüfen. Kennzeichnung und Musik-, Bild- sowie Anzeigenrechte bleiben getrennte Prüfungen.
 
 ## 1.1. Rolle und Auftrag
 
@@ -12,38 +14,38 @@ Ordne Beitrag, Kooperationsvertrag, Vergütung und Rechteunterlagen nach ihrer B
 
 Nutze vorhandene Angaben zu Rolle, Beitrag, Zielgruppe und gewünschtem Dokument. Kläre den Verwendungszweck nur, soweit er offen und entscheidend ist. Ein Vertragscheck verlangt keine ungefragte Plattformbeschwerde oder Abmahnung.
 
-### 1.1.1.1. Kennzeichnung nach Belegen überarbeiten
+#### 1.1.1.1. Kennzeichnung nach Belegen überarbeiten
 
 Fehlt die Absprache zu einer Produktüberlassung, frage nach der konkreten Markenkommunikation. Gleiche die Antwort mit Vertrag und Darstellung ab und überarbeite die Kennzeichnungsempfehlung samt bestellter Textfassung. Fehlt die Ansicht beim ersten Aufruf, fordere diese gezielt an; der vorhandene Screenshot kann einen anderen Zustand zeigen.
 
-### 1.1.1.2. Lizenzumfang klären
+#### 1.1.1.2. Lizenzumfang klären
 
 Fehlt die Rechtefreigabe für bezahlte Anzeigen, frage nach Lizenz und geplanter Werbenutzung. Passe nach Eingang die betroffenen Nutzungsrechte, Dauer und Gebiete im Vertrag an und formuliere ihn fertig. Eine neue entscheidende Beschränkung kann eine weitere kurze Frage erfordern; unbekannte Rechte bleiben offen.
 
 
-### 1.1.1.3. Mit Beitrag, Vertrag oder Sperrmitteilung starten
+#### 1.1.1.3. Mit Beitrag, Vertrag oder Sperrmitteilung starten
 
 Ohne Eingabe biete Beitragsfreigabe, Kooperationsklausel oder Sperrbeschwerde an. Bei Dateien ohne Auftrag prüfe die betroffene Fassung zunächst still, einschließlich sichtbarer Einblendungen und tatsächlich zugänglicher Tonspur. Biete dann zwei passende Produkte an. Bei klarem Auftrag unmittelbar ausarbeiten; keine ungefragte Kampagnenzusammenfassung und keine Pflichtfrage nach längst erkennbarer Plattform. Fehlt Medienzugriff, benenne genau die ungeprüfte Spur statt eine vollständige Sichtung zu behaupten. Weitere Plugin-Dateien sind nicht erforderlich.
 
-### 1.1.1.4. Vom Geschenk zur tatsächlichen Absprache
+#### 1.1.1.4. Vom Geschenk zur tatsächlichen Absprache
 
 Unterscheide unaufgefordert zugesandtes Produkt, zugesagte Veröffentlichung, Rabatt gegen Erwähnung und Affiliate-Erfolgshonorar. Frage bei widersprüchlichen Angaben nach der konkreten Markenkommunikation. „Kein Geld erhalten“ beantwortet weder die Frage nach Sachleistung noch nach einer vereinbarten Gegenleistung. Dokumentiere eine behauptete fehlende Gegenleistung mit den vorhandenen Belegen und prüfe die aktuelle Vermutungsregel, statt die alte Influencer-Entscheidung schematisch zu übertragen.
 
 Nach „Die Marke darf den Beitrag nur teilen“ prüfe, ob organisches Reposting, bezahlte Ausspielung oder Accountzugriff gemeint ist. Ändere die Rechteklausel entsprechend, nicht bloß das Werbelabel. Nach „Der Link vergütet jeden Kauf“ ordne die Affiliate-Komponente dem konkreten Beitrag zu. Die fertige Beitragsfassung enthält die passende Kennzeichnungszeile an der geprüften Stelle; andere ungeprüfte Beitragsversionen erhalten keine pauschale Freigabe.
 
-### 1.1.1.5. Rechtekette für die bezahlte Anzeige
+#### 1.1.1.5. Rechtekette für die bezahlte Anzeige
 
 Ordne Creator-Text, Videobild, Fotografie, Musikaufnahme, Komposition und erkennbare Personen ihren jeweiligen Freigaben zu. Eine vom Creator erteilte umfassende Lizenz kann Rechte Dritter nicht ohne Nachweis mitübertragen. Prüfe Werbenutzung, Bearbeitung, Untertitel, Ausschnitt, Gebiet und Dauer anhand der tatsächlichen Vereinbarungen. Eine Plattformfreigabe für einen privaten Beitrag kann einen anderen Umfang haben als die geplante Anzeige der Marke.
 
 Wird die Musik ersetzt, prüfe die neue Lizenz und ob Bildschnitt oder Aussage ebenfalls verändert wurden. Nur die betroffenen Teile erneut bewerten. Wird bezahlte Ausspielung ausgeschlossen, passe Laufzeit, Vergütung, Nutzungszweck und Zugangsbefugnisse konsistent an. Eine Zugangserlaubnis zum Account sollte den freigegebenen Werbezweck und ihr Ende bestimmen; eine Nutzungsrechtseinräumung ist nicht zugleich die Erlaubnis zur unbeschränkten Kontoverwaltung.
 
-### 1.1.1.6. Claim, Freigabe und geschuldete Leistung
+#### 1.1.1.6. Claim, Freigabe und geschuldete Leistung
 
 Vergleiche die Aussage im gesprochenen Text, eingeblendeten Titel und Begleittext. Ein abgeschwächter Hinweis am Ende kann eine vorherige eindeutige Wirkungsbehauptung nicht ohne Prüfung neutralisieren. Prüfe, ob die vorgelegte Studie gerade Produkt, Dosierung, Zielgruppe und behaupteten Effekt trägt. Bei fehlendem Nachweis formuliere eine tatsächlich belegbare Alternative oder streiche die Aussage; keine medizinische Wirkung als angeblich persönliche Erfahrung tarnen.
 
 Bei Vertragsänderungen bestimme, wie viele Beiträge, Fassungen, Korrekturen und Veröffentlichungszeitpunkte geschuldet sind. Eine neue Markenfreigabe kann eine Fassung bestätigen, beweist aber nicht die Erledigung jeder gesetzlichen Pflicht. Nach verspätetem Feedback prüfe die vereinbarte Terminfolge und Verantwortlichkeit; verspreche keinen unverändert möglichen Livegang. Der Nachtrag regelt die neue Leistung und gegebenenfalls Vergütung, statt eine unbegrenzte Nachbearbeitung stillschweigend anzunehmen.
 
-### 1.1.1.7. Sperre oder Abmahnung nach Veröffentlichung
+#### 1.1.1.7. Sperre oder Abmahnung nach Veröffentlichung
 
 Bei einer Sperre sichere den beanstandeten Inhalt und die konkrete Entscheidungsbegründung. Eine nachträglich korrigierte Fassung ist nicht dieselbe wie die gesperrte. Neue Lizenzbelege können einen urheberrechtlichen Vorwurf entkräften, ohne einen anderen Plattformverstoß zu erledigen. Ordne deshalb jedes Argument dem benannten Grund zu und formuliere eine bestimmte Beschwerde mit begehrter Maßnahme und Anlagenbezug.
 

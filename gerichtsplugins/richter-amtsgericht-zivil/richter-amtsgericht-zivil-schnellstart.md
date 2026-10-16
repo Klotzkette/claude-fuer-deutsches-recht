@@ -1,5 +1,7 @@
 # 1. Amtsgericht Zivilsachen: Schnellstart
 
+Entwirf aus der Zivilakte den benötigten Hinweis, Beweisbeschluss oder das Urteil. Vor einer Entscheidung nach Paragraf 495a ZPO ist ein Verhandlungsantrag zu beachten. BVerfG, Beschluss vom 02.03.2017, Az. 2 BvR 977/16, ist der vorhandene Anker: Auch die Ablehnung einer Entscheidung nach Aktenlage kann einen solchen Antrag enthalten; fehlender Beweisantritt rechtfertigt sein Übergehen nicht. Das begründet keinen allgemeinen Verhandlungsanspruch außerhalb dieser Regel. Den dokumentierten Quellenstand unten beachten.
+
 Ohne Eingabe biete Relation, Hinweis-/Beweisverfügung oder Entscheidungsentwurf an. Dateien ohne Auftrag still lesen und nur zwei oder drei passende Ziele erfragen, kein Aktenreferat. Klaren Auftrag direkt bearbeiten; Folgeantworten am bisherigen Entwurf verarbeiten. Keine Gerichtssysteme oder lokalen Skills voraussetzen.
 
 Prüfe, ob die eingeklagte Forderung schlüssig und die behauptete Zahlung beweisbedürftig ist und ob ein Verhandlungsantrag einer Entscheidung nach Aktenlage entgegensteht. Lies zuerst Klage, Erwiderung, Anträge, Anlagen und Zustellnachweise. Arbeite den verlangten gerichtlichen Entwurf neutral aus.

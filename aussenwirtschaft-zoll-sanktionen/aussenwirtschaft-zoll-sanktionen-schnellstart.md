@@ -1,6 +1,8 @@
 # 1. Außenwirtschaftlichen Vorgang prüfen
 
-Prüfe, ob die konkret beschriebene Ware oder Software an den vorgesehenen Endverwender ausgeführt werden darf und welche Genehmigung oder technische Angabe dafür fehlt. Lies Datenblatt, Bestellung, Lieferkette, Endverbleibserklärung und vorhandene Bescheide zuerst. Formuliere den beauftragten Klassifizierungsvermerk, Antrag oder Zollrechtsbehelf; eine Prüfbitte verlangt weder ein zusätzliches Haftungsverfahren noch eine Lieferfreigabe.
+Darf Ware, Software oder Technologie an den vorgesehenen Endverwender gelangen? Prüfe Listenmerkmale und Genehmigungen nach Artikeln 2 bis 4 der Verordnung (EU) 2021/821 sowie einschlägige Sanktionen. Liefere Klassifizierungsvermerk, Antrag oder Zollrechtsbehelf, keine ungefragte Lieferfreigabe oder Transporthaftungsprüfung.
+
+EuGH, Urteil vom 21.12.2011, C-72/11, Afrasiabi, verlangt den Blick auf kontrollierte Zwischenempfänger und Endnutzen. Der historische Iran-Fall ersetzt weder heutige Verbotsnorm noch aktuelle Listung oder subjektive Voraussetzungen. Quellenstand unten; Datenblatt, Bestellung, Lieferkette, Endverbleib und Bescheide zuerst lesen.
 
 ## 1.1. Beteiligte und Übertragungsweg
 
@@ -10,13 +12,13 @@ Erfasse Ausführer oder Einführer, Käufer, Empfänger, Endverwender, Vermittle
 
 ## 1.2. Güter, Sanktionen, Verwendung und Zoll
 
-3.1. Güter: Technische Merkmale mit der maßgeblichen Listenposition und ihren Anmerkungen vergleichen. Datenblattstand, Modell, Leistungsparameter und Konfiguration festhalten. Eine Zolltarifnummer ist kein technischer Befund zu allen Listenmerkmalen. Bei fehlendem Parameter keine abschließende Nichtlistung bescheinigen. Artikel 3 der Dual-Use-Verordnung betrifft die Ausfuhr gelisteter Güter; für nicht gelistete Güter die konkret einschlägigen verwendungsbezogenen Kontrollen gesondert prüfen.
+1.2.1. Güter: Technische Merkmale mit der maßgeblichen Listenposition und ihren Anmerkungen vergleichen. Datenblattstand, Modell, Leistungsparameter und Konfiguration festhalten. Eine Zolltarifnummer ist kein technischer Befund zu allen Listenmerkmalen. Bei fehlendem Parameter keine abschließende Nichtlistung bescheinigen. Artikel 3 der Dual-Use-Verordnung betrifft die Ausfuhr gelisteter Güter; für nicht gelistete Güter die konkret einschlägigen verwendungsbezogenen Kontrollen gesondert prüfen.
 
-3.2. Personen und Länder: Treffer anhand Identität, Anschrift, Registerdaten sowie Eigentums- und Kontrollbeziehungen abklären. Ein ähnlicher Name ist kein gesicherter Treffer; ein fehlender Namenstreffer ist keine vollständige Transaktionsfreigabe. Die konkret einschlägige Sanktionsverordnung einschließlich Güter-, Dienstleistungs- und Bereitstellungsbeschränkungen in aktueller amtlicher Fassung prüfen. Ein älteres Screening mit Datum dokumentieren, nicht als gegenwärtige Listenprüfung ausgeben.
+1.2.2. Personen und Länder: Treffer anhand Identität, Anschrift, Registerdaten sowie Eigentums- und Kontrollbeziehungen abklären. Ein ähnlicher Name ist kein gesicherter Treffer; ein fehlender Namenstreffer ist keine vollständige Transaktionsfreigabe. Die konkret einschlägige Sanktionsverordnung einschließlich Güter-, Dienstleistungs- und Bereitstellungsbeschränkungen in aktueller amtlicher Fassung prüfen. Ein älteres Screening mit Datum dokumentieren, nicht als gegenwärtige Listenprüfung ausgeben.
 
-3.3. Verwendung und Umleitung: Endverwendungsangaben mit Produkt, Geschäftstätigkeit, Menge, Lieferweg und Zwischenhändler abgleichen. Widersprüche als konkrete Klärungsfragen formulieren. Eine zivile Bestellererklärung nicht ohne technische und verwendungsbezogene Prüfung als Ausnahme behandeln. Allgemeine oder individuelle Genehmigung nur nach Abgleich von Gut, Land, Endverwender, Nebenbestimmungen, Zeitraum und Nutzungsvoraussetzungen heranziehen.
+1.2.3. Verwendung und Umleitung: Endverwendungsangaben mit Produkt, Geschäftstätigkeit, Menge, Lieferweg und Zwischenhändler abgleichen. Widersprüche als konkrete Klärungsfragen formulieren. Eine zivile Bestellererklärung nicht ohne technische und verwendungsbezogene Prüfung als Ausnahme behandeln. Allgemeine oder individuelle Genehmigung nur nach Abgleich von Gut, Land, Endverwender, Nebenbestimmungen, Zeitraum und Nutzungsvoraussetzungen heranziehen.
 
-3.4. Zoll und Abgaben: Warennummer, Ursprung, Präferenznachweis, Zollwert, Verfahren, Anmelder und Vertretungsart aus Belegen ableiten. Vertragsbezeichnung und Lieferklausel nicht als vollständige Zollwertberechnung behandeln. Bei Bescheiden Bekanntgabe, Rechtsbehelf und Vollziehung getrennt prüfen. CBAM oder Verbrauchsteuer nur bei passendem Waren- und Zeitbezug vertiefen; aktuelle Schwellen und Übergangsregeln nicht aus alten Quartalsvorlagen übernehmen.
+1.2.4. Zoll und Abgaben: Warennummer, Ursprung, Präferenznachweis, Zollwert, Verfahren, Anmelder und Vertretungsart aus Belegen ableiten. Vertragsbezeichnung und Lieferklausel nicht als vollständige Zollwertberechnung behandeln. Bei Bescheiden Bekanntgabe, Rechtsbehelf und Vollziehung getrennt prüfen. CBAM oder Verbrauchsteuer nur bei passendem Waren- und Zeitbezug vertiefen; aktuelle Schwellen und Übergangsregeln nicht aus alten Quartalsvorlagen übernehmen.
 
 ## 1.3. Genehmigungsbedarf und offene Nachweise
 

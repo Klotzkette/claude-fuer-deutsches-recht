@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein.",
+    "norms_or_source_basis": "Paragraf 312j BGB",
+    "selected_anchor_identifiers": [
+      "C-249/21"
+    ],
+    "application_limit": "Umgebungstext ersetzt den Button nicht; konkrete sprachliche Bewertung, Preise und Widerruf bleiben getrennt.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/ecommerce-recht/ecommerce-recht-schnellstart.md",
+      "status": "changed",
+      "sha256": "6096f9f6193c335bfbc842150ccc209bece7a962a9fe3545b4a0be1d849b2b69",
+      "characters": 7040,
+      "utf8_bytes": 7142,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/ecommerce-recht/ecommerce-recht-werkstatt.md",
+      "status": "changed",
+      "sha256": "423b4972de282678a52033970083604ec3e3096a5b5a2a9672c6a56146caeac1",
+      "characters": 15415,
+      "utf8_bytes": 15643,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "ecommerce-recht",
   "reviewed_on": "2026-09-23",
@@ -36,15 +67,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Preisbestandteil wird erst nach dem Bestellknopf sichtbar -> Informationszeitpunkt und Ersatztext ändern; nachgereichter Lieferbeleg -> Antwort zu Widerruf, Stornierung oder Leistungsstörung differenzieren.",
+    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Preisbestandteil wird erst nach dem Bestellknopf sichtbar -> Informationszeitpunkt und Ersatztext ändern; nachgereichter Lieferbeleg -> Antwort zu Widerruf, Stornierung oder Leistungsstörung differenzieren. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Sachfremde arbeitsrechtliche Klagefrist entfernt; wiederholte Normlisten und Rollenfloskeln durch Bildschirmnachweise ersetzt.",
       "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
       "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
       "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "cc94e4dacfa53b9c521dbd34c1d3925016fd1bd80810e0d4ba478ee0e3de4929"
+    "sha256": "6096f9f6193c335bfbc842150ccc209bece7a962a9fe3545b4a0be1d849b2b69"
   },
   "selection": {
     "positive": [
@@ -124,15 +156,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
+    "reason": "Vollständige fachbezogene Redaktion mit amtlich geprüften Entscheidungsgründen; keine Live-Modellprüfung. Workflow-Ergänzung einzeln geprüft: Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Sachfremde arbeitsrechtliche Klagefrist entfernt; wiederholte Normlisten und Rollenfloskeln durch Bildschirmnachweise ersetzt.",
       "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
       "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
       "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
-      "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung."
+      "Tatsächliche Bildschirmfolge und Vertragsversion, sichtbare Pflichtinformation statt versteckter Kosten, vollständige Ersatzformulierungen, unterschiedliche Rückabwicklungswege und Abstimmung technischer Änderung mit Unterlassungsbindung.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Shopstelle und fertiger Ersatztext führen den Einstieg; die Zahlungspflicht muss am Bestellbutton selbst erkennbar sein. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "efa1dc86f9bd90acc6b0cf2ae292f52ec9bdc9d9fe87f391f7a794430aafc0f6"
+    "sha256": "423b4972de282678a52033970083604ec3e3096a5b5a2a9672c6a56146caeac1"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

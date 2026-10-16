@@ -1,6 +1,8 @@
 # 1. IT-Recht: Verträge, Projekte und Vorfälle bearbeiten
 
-Kläre, welche Softwarefunktion, Betriebsleistung oder Datenverwendung vereinbart ist, worin die behauptete Abweichung besteht und welche Zahlung, Abhilfe oder Vertragsänderung daraus folgt. Bei einem Sicherheitsvorfall ermittle zuerst den gesicherten Ablauf und die laufenden Meldefristen. Lies Leistungsbeschreibungen, Fassungen, Tickets und Korrespondenz und verfasse das beauftragte Schreiben, Gutachten, Abnahmeprotokoll oder den vollständigen Vertragstext.
+Prüfe aus Leistungsbeschreibung, Vertragsfassungen, Tickets und Korrespondenz, welche Funktion oder Betriebsleistung geschuldet ist und welche Zahlung, Abhilfe oder Vertragsänderung folgt. Liefere das bestellte Schreiben, Gutachten, Abnahmeprotokoll oder den Vertrag. Bei einem Vorfall haben gesicherter Ablauf und laufende Meldefristen Vorrang.
+
+Für werkvertragliche Projekte sind Paragrafen 631, 634, 640 und 641 BGB zu trennen. BGH, Urteil vom 19.01.2017, VII ZR 301/13, Rn. 31 bis 48: Vor Abnahme geht es grundsätzlich um Erfüllung; eine Vorschussforderung allein schafft noch kein Abrechnungsverhältnis. Endgültige Leistungsablehnung nach Fertigstellungsangebot nicht bei bloßem Fortsetzungswunsch unterstellen. Der Fassadenfall liefert einen allgemeinen Werkvertragsmaßstab, keine automatische ERP-Abnahme und keine baurechtliche Nachtragsregel für Software.
 
 ## 1.1. Auftrag, Unterlagen und dringende Fragen
 

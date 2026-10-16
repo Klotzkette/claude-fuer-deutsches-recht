@@ -1,6 +1,6 @@
 # 1. Internationales Wirtschaftsrecht: Schnellstart
 
-Kläre Forum und Sachrecht des grenzüberschreitenden Anspruchs und rechne bei Lieferausfall die tatsächlich ersetzten Chargen ab. Lies Vertrag, AGB, Niederlassungen, Leistungsorte, Erklärungen und Verfahrensunterlagen. Übernimm bekannte Parteirolle, Ziele und Termine und formuliere die beauftragte Forderung, Verteidigung oder Vertragsklausel.
+Lies Vertrag, AGB, Liefer- und Verfahrensunterlagen und liefere die bestellte Forderung, Verteidigung oder Klausel. Forum und Sachrecht getrennt klären. Bei Lieferausfall sind Artikel 74, 75 und 77 CISG mit OLG Hamm, Urteil vom 25.03.2019, 2 U 132/18, Rn. 114 bis 154, zu prüfen: tatsächliche Ersatzmengen, angemessene Beschaffung und Schadensminderung belegen. Die Ausnahme für einen Kauf vor Aufhebung betrifft endgültige Lieferverweigerung bei bestehendem Aufhebungsrecht, nicht beliebige frühere Einkäufe. Bekannte Rolle und Termine übernehmen.
 
 ## 1.1. Drei Ebenen trennen
 

@@ -2,6 +2,8 @@
 
 Gleiche Flurstück, Miteigentumsanteil, Fläche und Bewertung mit Wert-, Mess- und Jahressteuerbescheid ab. Ordne Fehler der Bescheidstufe zu und verfasse Berechnung, Änderungsantrag oder Mandantenbrief nach Auftrag.
 
+Bei Lageeinwänden: [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/), Rn. 31–34, erlaubt grundsätzlich die Übernahme des Bodenrichtwerts ohne weitere Ermittlungen. Benenne konkrete Fehler nach Paragraf 247 BewG, Paragraf 196 BauGB oder ImmoWertV samt fehlendem Beleg. Niedrige Ist-Miete oder Bahntrasse allein genügen nicht. Gesonderten Gemeinwertnachweis prüfen; keine Bestätigung jedes Bescheids oder aller Landesmodelle.
+
 ## 1.1. Aus Unterlagen sofort zum Ergebnis
 
 Ohne Eingabe: Bescheidzuordnung, Flächenkorrektur oder Zahlungsfrage anbieten. Dateien ohne Auftrag still lesen, zwei passende Wege nennen. Klaren Auftrag direkt bearbeiten. Neue Teilungserklärung: betroffenen Flächenansatz und Antrag ändern; Bekanntes nicht erfragen.
@@ -44,8 +46,6 @@ Niedrigerer gemeiner Wert: Paragraf 220 Absatz 2 BewG verlangt im Bundesmodell g
 Einspruch stoppt keine Zahlung. Finanzamt: Paragraf 361 AO und Paragraf 69 FGO samt Zugangsvoraussetzungen und Ausnahmen. Kommunale Jahressteuer: Landesrecht und Paragraf 80 VwGO prüfen. Ruhen nach Paragraf 363 AO ist keine Aussetzung. Zahlungsnot, Rechtmäßigkeitszweifel und Stundung getrennt halten; Vollstreckungsgefahr zuerst bearbeiten.
 
 ## 1.6. Bodenrichtwert konkret angreifen
-
-Bei Lageeinwänden: [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/), Rn. 31–34, erlaubt grundsätzlich die Übernahme des Bodenrichtwerts ohne weitere Ermittlungen. Benenne konkrete Fehler nach Paragraf 247 BewG, Paragraf 196 BauGB oder ImmoWertV samt fehlendem Beleg. Niedrige Ist-Miete oder Bahntrasse allein genügen nicht. Gesonderten Gemeinwertnachweis prüfen; keine Bestätigung jedes Bescheids oder aller Landesmodelle.
 
 Historisch: BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV), ließ substantiiert desolaten Gebäudezustand als Anlass für einen niedrigeren Wert der gesamten Einheit genügen. Zustandsbelege verlangen; summarische Prüfung vor Paragraf 220 Absatz 2 BewG, kein endgültiger Wertnachweis oder Reformstopp.
 

@@ -1,6 +1,8 @@
-# 1. Insolvenzrecht: Krisenfrage und Rolle bestimmen
+# Insolvenzrecht: Krisenfrage und Rolle bestimmen
 
-Prüfe, ob die belegten Zahlungspflichten am maßgeblichen Stichtag gedeckt sind und welche insolvenzrechtliche Handlung daraus für meinen Mandanten folgt. Betrifft der Auftrag stattdessen eine Anmeldung oder Rückforderung, beginne mit der konkreten Forderung beziehungsweise Zahlung. Unterscheide Geschäftsleitung, Gläubiger, Verwalter und Berater; nicht jedes Krisenmandat verlangt eine Anfechtungsprüfung.
+## 1. Auftrag und Perspektive
+
+Erstelle die bestellte Krisenbewertung, Forderungsanmeldung oder Anfechtungsantwort aus der maßgeblichen Mandantenrolle. Für den Status nach Paragraf 17 InsO ist BGH, Urteil vom 23.01.2025, IX ZR 229/22, einschlägig: Bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung titulierte Forderung zum Nennwert, nicht nach Prozesschancen ansetzen. Diese Statusregel nicht pauschal auf die gerichtliche Gläubigerantragsprüfung übertragen. Anmeldung oder Rückforderung brauchen keinen ungefragten Gesamtkrisencheck.
 
 ## 2. Sachverhalt und Belege
 

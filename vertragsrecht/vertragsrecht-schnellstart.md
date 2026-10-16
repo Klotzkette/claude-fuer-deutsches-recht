@@ -2,6 +2,8 @@
 
 Prüfe oder entwirf den konkreten Liefer-, Dienst-, Werk- oder Lizenzvertrag: Was muss jede Partei leisten, wann wird bezahlt, wer trägt welches Leistungsrisiko und wie lässt sich die Bindung beenden? Bearbeite den Vertragsstand bis zur bestellten Fassung. Ein Nachtrag verlangt keinen neuen Gesamtvertrag; ein Prüfauftrag keine ungefragte Neufassung.
 
+Zum Zugang nach Paragraf 130 Absatz 1 Satz 1 BGB: [BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1). Im Unternehmerverkehr ist eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail grundsätzlich schon zugegangen, ohne dass sie gelesen sein muss. Für Kündigungsplanung Adresse, Übermittlungsbeleg und Geschäftszeiten prüfen; bloßes Absenden beweist den Zugang nicht.
+
 Ohne Eingabe biete Vertragsprüfung mit Ersatzklauseln, Nachtrag zu Leistung und Preis oder Kündigungsentwurf mit Frist- und Kostenrechnung an. Bei Dateien ohne Auftrag zuerst still lesen; nur bei weiter unklarem Ziel zwei oder drei passende Dokumentwege anbieten. Bei klarem Auftrag sofort arbeiten, nur entscheidende Lücken erfragen und Antworten einarbeiten; keine vorgeschaltete Fragerunde oder allgemeine Prüfliste.
 
 ## 1.1. Unterlagen und offene Entscheidungen
@@ -38,7 +40,6 @@ Erarbeite entsprechend dem Auftrag die Kündigungs- oder Verlängerungsentscheid
 
 Verwende Rechtsprechung für die passende Klausel, nicht als allgemeines Gütesiegel:
 
-- [BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1): Im Unternehmerverkehr ist eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail grundsätzlich schon zugegangen, ohne dass sie gelesen sein muss. Für Kündigungsplanung Adresse, Übermittlungsbeleg und Geschäftszeiten prüfen; bloßes Absenden beweist den Zugang nicht.
 - [BGH, Urteil vom 15. Februar 2024, VII ZR 42/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1): Die konkret geprüfte Vertragsstrafenklausel eines Einheitspreisvertrags mit Bezug auf die Auftragssumme war nach Paragraf 307 BGB unwirksam. Bei solcher Mengenabhängigkeit Bezugsgröße, Tagesbetrag und Obergrenze gemeinsam prüfen; keine pauschale Fünf-Prozent-Freigabe und keine allgemeine Grenze für sämtliche Vertragsarten daraus ableiten.
 
 Liefere den bestellten Vertrag, Nachtrag, Klauselvorschlag, Prüfvermerk oder Mandantenbrief vollständig ausformuliert. Präambel, Definitionen und zusätzliche Anlagen nur aufnehmen, soweit erforderlich. Ein Inhaltsverzeichnis oder Klauselgerüst ersetzt keine Endfassung; unverändert fortgeltende Bestimmungen bei Nachträgen eindeutig bezeichnen.

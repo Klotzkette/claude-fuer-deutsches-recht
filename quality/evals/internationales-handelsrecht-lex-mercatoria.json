@@ -31,13 +31,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "CISG-Klauselauslegung nach vollständigem OGH-Grund statt verkürztem Leitsatz; Untersuchung, Aufhebung und Verjährung getrennt.",
+    "reason": "CISG-Klauselauslegung nach vollständigem OGH-Grund statt verkürztem Leitsatz; Untersuchung, Aufhebung und Verjährung getrennt. Einstiegsredaktion 16.10.2026: Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "OGH 2 Ob 95/06v tatsächlich angewendet: nationale Gewährleistungsverweise können CISG jedenfalls teilweise ausschließen; kein Automatismus oder deutsche Präjudizienbindung.",
       "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt."
     ],
-    "sha256": "f9457168774732f06b942003ec6d2a2479c6351dd828943e13fefd5d712e9d36"
+    "sha256": "61df8a42548f63090b12cb9fbc7a80f496ea71c9bded5717376c9b16096b7f4e"
   },
   "selection": {
     "positive": [
@@ -85,15 +86,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Handels-, Finanzierungs- und Transportabschnitte gelesen; nationale Rechtswahl, private Regelwerke und Transportrollen fachlich präzisiert.",
+    "reason": "Alle Handels-, Finanzierungs- und Transportabschnitte gelesen; nationale Rechtswahl, private Regelwerke und Transportrollen fachlich präzisiert. Einstiegsredaktion 16.10.2026: Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "OGH 2 Ob 95/06v tatsächlich angewendet: nationale Gewährleistungsverweise können CISG jedenfalls teilweise ausschließen; kein Automatismus oder deutsche Präjudizienbindung.",
       "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
       "Paragraf 458 HGB Selbsteintritt von Paragraf 459 HGB Fixkostenspedition abgegrenzt; UNIDROIT vor staatlichem Gericht und Schiedsgericht getrennt.",
       "Unpräzise EU-Verweise und alte Redaktionshinweise zu eUCP, Digitalrichtlinie und ESG bereinigt.",
-      "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit."
+      "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit.",
+      "Einstiegsredaktion 16.10.2026: Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt."
     ],
-    "sha256": "108f0244b670b6704851b9379939e418e32284c5118a9efac1a36ebac668846c"
+    "sha256": "36e03d7b5f4abaca9b56494323314d9bcf68a026c0608405380a53aaeec6b1cc"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -147,5 +149,41 @@
     "reference": "internationales-handelsrecht-lex-mercatoria/references/ki-normen-und-fallpruefung.md",
     "focus": "Ordnen Sie den in der Union vorgesehenen Einsatz, die Lieferkette und die konkrete Systemverantwortung zu. Vertragliche Rechtswahl ersetzt keine Prüfung des räumlichen KI-VO-Anwendungsbereichs.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Warenvertrag und konkrete Anspruchs-/Klauselarbeit verbunden; österreichischen Ausschlussfall nicht als allgemeine CISG-Abwahl dargestellt.",
+    "anchor_or_exception": "OGH, Urteil und Beschluss vom 04.07.2007, 2 Ob 95/06v; Artikel 1 bis 3, 6 CISG; Artikel 3, 4 Rom-I-VO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "f9457168774732f06b942003ec6d2a2479c6351dd828943e13fefd5d712e9d36",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "108f0244b670b6704851b9379939e418e32284c5118a9efac1a36ebac668846c",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-werkstatt.md",
+        "sha256": "36e03d7b5f4abaca9b56494323314d9bcf68a026c0608405380a53aaeec6b1cc",
+        "characters": 20220,
+        "utf8_bytes": 20521
+      },
+      {
+        "path": "internationales-handelsrecht-lex-mercatoria/internationales-handelsrecht-lex-mercatoria-schnellstart.md",
+        "sha256": "61df8a42548f63090b12cb9fbc7a80f496ea71c9bded5717376c9b16096b7f4e",
+        "characters": 5908,
+        "utf8_bytes": 6004
+      }
+    ]
   }
 }

@@ -2,6 +2,8 @@
 
 Prüfe Bindung an Bestellung/Abonnement sowie Ansprüche bei Mängeln oder entfallenen Digitalfunktionen. Vergleiche Leistung, Belehrung und Ablauf; verfasse die bestellte Beratung, Klauselprüfung oder Erklärung. Keine automatische Klage oder Widerrufserklärung.
 
+Bei einem Probeabo prüfe den damaligen Gesamtpreis- und Laufzeithinweis nach Paragrafen 312c, 312d, 312j, 355 und 356 BGB. Nach [EuGH, Urteil vom 05.10.2023, Az. C-565/22, Sofatutor, Rn. 43 bis 50](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565), besteht nach Artikel 9 Absatz 1 der Richtlinie 2011/83/EU bei transparent vereinbartem Übergang von kostenlos zu kostenpflichtig und automatischer Verlängerung grundsätzlich nur einmal ein Widerrufsrecht. Fehlt die klare Information über den späteren Gesamtpreis, kommt nach der Testphase ein neues Widerrufsrecht in Betracht, sofern überhaupt ein bindender Vertrag besteht. Prüfe den damaligen Bestellvorgang; das Urteil entscheidet nicht über späteren Funktionsentzug nach Paragraf 327r BGB.
+
 ## 1.1. Vertrag und damaliges Angebot lesen
 
 Lies Vertrag, damalige Angebotsfassung, Belehrung, Bestätigung, Zahlungsbelege und Korrespondenz. Entnimm ihnen Vertragspartner, Vertriebsweg, Rolle, Ziel und Zeitpunkte; frage bekannte Angaben nicht erneut ab. Ordne den Vertrag dem konkreten Bereich wie Warenkauf, digitale Leistung, Reise, Finanzen, Energie, Gesundheit oder Pflege zu.
@@ -32,9 +34,7 @@ Bei „Die alte Version gibt es doch noch“ kläre, ob die zugesagte Funktion o
 
 ## 1.6. Probeabo, Widerruf und Vertragsklauseln
 
-Bei einem Probeabo prüfe den damaligen Gesamtpreis- und Laufzeithinweis nach Paragrafen 312c, 312d, 312j, 355 und 356 BGB. Nach [EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565), besteht nach Artikel 9 Absatz 1 der Richtlinie 2011/83/EU bei transparent vereinbartem Übergang von kostenlos zu kostenpflichtig und automatischer Verlängerung grundsätzlich nur einmal ein Widerrufsrecht. Fehlt die klare Information über den späteren Gesamtpreis, kommt nach der Testphase ein neues Widerrufsrecht in Betracht, sofern überhaupt ein bindender Vertrag besteht. Prüfe den damaligen Bestellvorgang; das Urteil entscheidet nicht über späteren Funktionsentzug nach Paragraf 327r BGB.
-
-Widerrufsfunktion (§ 356a BGB) und Kündigungsbutton (§ 312k BGB) trennen. Beim Online-Widerruf Name, Vertrag und Kommunikationsweg erfassen, bestätigen und Eingangsbestätigung mit Inhalt, Datum/Uhrzeit dauerhaft sichern. Absatz 5 schützt rechtzeitigen Versand. Bei Ausfall andere Erklärung nach § 355 prüfen. Erlöschen: § 356 Absatz 5 für Dienstleistungen, Absatz 6 für digitale Inhalte.
+Widerrufsfunktion (Paragraf 356a BGB) und Kündigungsbutton (Paragraf 312k BGB) trennen. Beim Online-Widerruf Name, Vertrag und Kommunikationsweg erfassen, bestätigen und Eingangsbestätigung mit Inhalt, Datum/Uhrzeit dauerhaft sichern. Absatz 5 schützt rechtzeitigen Versand. Bei Ausfall andere Erklärung nach Paragraf 355 prüfen. Erlöschen: Paragraf 356 Absatz 5 für Dienstleistungen, Absatz 6 für digitale Inhalte.
 
 [BGH, 16.07.2026 – I ZR 200/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1), Rn. 16–36: Auf der Bestätigungsseite des Kündigungsbuttons keine Rückgewinnungs-/Pausenangebote. Beide Seiten sichern; Angebote vor dem ersten Klick gesondert prüfen. Kein automatisch bestimmter individueller Vertragsendtermin.
 

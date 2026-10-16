@@ -52,16 +52,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: leere Eingabe und Dateien führen zu passenden Vertrags-, Nachtrags- oder Kündigungsdokumenten; Lieferverzögerung und nachgereichte Mitwirkung ändern die konkrete Aufforderung. Vorhandene Rechtsprechungsgrenzen erhalten. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: leere Eingabe und Dateien führen zu passenden Vertrags-, Nachtrags- oder Kündigungsdokumenten; Lieferverzögerung und nachgereichte Mitwirkung ändern die konkrete Aufforderung. Vorhandene Rechtsprechungsgrenzen erhalten. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktionelle Einstiegsprüfung 16.10.2026: Vertragsfassung, Nachtrag und Kündigung als unterschiedliche Aufträge erhalten. VII ZR 895/21 zum E-Mail-Zugang früh, ohne bloßes Absenden zum Nachweis zu erklären. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
       "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt.",
-      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt.",
+      "Vertragsfassung, Nachtrag und Kündigung als unterschiedliche Aufträge erhalten. VII ZR 895/21 zum E-Mail-Zugang früh, ohne bloßes Absenden zum Nachweis zu erklären."
     ],
-    "sha256": "70b1f57200a4537d5627fee0f37da44ebe5971126ca1a2a30451950fbdb923ca",
-    "reviewed_on": "2026-09-30"
+    "sha256": "053ea08bf2f17dcf064770c58f672474f680aa35a99cb9d96095f4b6172a6293",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "positive": [
@@ -109,16 +110,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Leistungsanlage als Ergebnis- oder Stundenauftrag konkretisiert, Leistungsaufforderung von Rücktritt und Schadensersatz getrennt und Kündigungszugang mit Frist-/Kostenfolge fortgeschrieben. Neue Normen amtlich gelesen; vorhandene Leitsatzgrenzen nicht erweitert. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Leistungsanlage als Ergebnis- oder Stundenauftrag konkretisiert, Leistungsaufforderung von Rücktritt und Schadensersatz getrennt und Kündigungszugang mit Frist-/Kostenfolge fortgeschrieben. Neue Normen amtlich gelesen; vorhandene Leitsatzgrenzen nicht erweitert. Desk-Review, keine Live-Modellprüfung. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktionelle Einstiegsprüfung 16.10.2026: Vertragsfassung, Nachtrag und Kündigung als unterschiedliche Aufträge erhalten. VII ZR 895/21 zum E-Mail-Zugang früh, ohne bloßes Absenden zum Nachweis zu erklären. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Vertragsstrafe nach Bezugsgröße und Vertragsart statt pauschaler Prozent-Freigabe eingeordnet.",
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
       "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung.",
-      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt.",
+      "Vertragsfassung, Nachtrag und Kündigung als unterschiedliche Aufträge erhalten. VII ZR 895/21 zum E-Mail-Zugang früh, ohne bloßes Absenden zum Nachweis zu erklären."
     ],
-    "sha256": "87c0638dd1e79b2bc7ebb7d0244fd40d8acafa956953adf10a293a390130b27e",
-    "reviewed_on": "2026-09-30"
+    "sha256": "5fb8e0840b49c2e59ae0b8df634928e58d2769423d3c19a8989d2a88f04fc342",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -40,18 +40,20 @@
     }
   ],
   "mini_review": {
-    "sha256": "0834eaa77482b37cd1908980b4219db2d3705097eda07ad223647afd0a390e85",
+    "sha256": "f09b5e0c15d37e52ef6f0ec6f90f6f0bd0e1a54df749e7f0a71868bfa9db9c8c",
     "verdict": "revised",
-    "reason": "Wirkstoffrechnung um eine tatsächlich geprüfte Cannabisentscheidung ergänzt; Kern bleibt beweisgestützte Mengen- und Tatzuordnung, keine erfundene Reinheit. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Wirkstoffrechnung um eine tatsächlich geprüfte Cannabisentscheidung ergänzt; Kern bleibt beweisgestützte Mengen- und Tatzuordnung, keine erfundene Reinheit. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "7,5 Gramm THC aus 1 StR 106/24 erst nach Tatbestand nach Paragraf 34 Absatz 1 KCanG anwenden.",
       "Beispiel 80 Gramm Trockenmasse bei 10 Prozent THC mit belegabhängiger Rechnung; keine Brutto- oder Kokainübertragung.",
       "Tatzeitrecht, mildestes Gesetz und unterschiedliche medizinische sowie betriebliche Aufgaben präzisiert.",
       "Leer: Mengenprüfung, Verteidigung/Therapie oder Bestandsklärung. Dateien: still lesen und asservat- oder betriebsbezogene Dokumentwege anbieten. Klar: direkt bestellten Vermerk oder Antrag bearbeiten.",
-      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag."
+      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag.",
+      "16.10.2026: Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung."
     ],
-    "reviewed_on": "2026-09-22",
-    "method": "desk_review"
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -99,17 +101,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Cannabis-Regelbeispiel, erlaubter Besitz und Straftat getrennt; konkrete Rechenprobe und Grenzen gegenüber Kokain ergänzt. Ärztliche, Apotheken-, Erlaubnis-, Einfuhr- und Therapieaufträge erhalten. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Cannabis-Regelbeispiel, erlaubter Besitz und Straftat getrennt; konkrete Rechenprobe und Grenzen gegenüber Kokain ergänzt. Ärztliche, Apotheken-, Erlaubnis-, Einfuhr- und Therapieaufträge erhalten. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "7,5 Gramm THC aus 1 StR 106/24 erst nach Tatbestand nach Paragraf 34 Absatz 1 KCanG anwenden.",
       "Beispiel 80 Gramm Trockenmasse bei 10 Prozent THC mit belegabhängiger Rechnung; keine Brutto- oder Kokainübertragung.",
       "Tatzeitrecht, mildestes Gesetz und unterschiedliche medizinische sowie betriebliche Aufgaben präzisiert.",
       "Probenrepräsentativität, individuelle Zurechnung, Doppelzählungsvermeidung, Therapieaufnahme und dokumentierte Bestandsklärung ausgearbeitet.",
-      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag."
+      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag.",
+      "16.10.2026: Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung."
     ],
-    "sha256": "a1b8b0bd2bbd3729b46997a6147cd7bbfaeb04c9b56ddf0144b40c9328437318",
-    "reviewed_on": "2026-09-22",
-    "method": "desk_review"
+    "sha256": "1db3505b80dcc0d9a0ffa7a50877206ea04ce7f44d341b023c682f138e204283",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -149,6 +153,27 @@
       "Geprüfter Mengenanker betrifft Cannabis, nicht stoffbezogene Grenzwerte sämtlicher BtM.",
       "Keine Vollverifikation aller BtMVV-, MedCanG-, Therapie- und Betriebserlaubnisfragen.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "betaeubungsmittelrecht/betaeubungsmittelrecht-schnellstart.md",
+        "sha256": "f09b5e0c15d37e52ef6f0ec6f90f6f0bd0e1a54df749e7f0a71868bfa9db9c8c",
+        "reason": "Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung.",
+        "anchor_or_exception": "Paragraf 34 Absatz 3 Satz 2 Nummer 4 KCanG; BGH 18.04.2024 1 StR 106/24: 7,5 Gramm THC erst bei strafbarem Verhalten relevant, keine freie Besitzgrenze oder Übertragung auf andere Stoffe."
+      },
+      {
+        "path": "betaeubungsmittelrecht/betaeubungsmittelrecht-werkstatt.md",
+        "sha256": "1db3505b80dcc0d9a0ffa7a50877206ea04ce7f44d341b023c682f138e204283",
+        "reason": "Stoff, strafbare Handlung und Verteidigungsprodukt vor allgemeiner Einordnung.",
+        "anchor_or_exception": "Paragraf 34 Absatz 3 Satz 2 Nummer 4 KCanG; BGH 18.04.2024 1 StR 106/24: 7,5 Gramm THC erst bei strafbarem Verhalten relevant, keine freie Besitzgrenze oder Übertragung auf andere Stoffe."
+      }
     ]
   }
 }

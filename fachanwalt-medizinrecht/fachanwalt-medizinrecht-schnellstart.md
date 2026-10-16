@@ -1,6 +1,6 @@
 # 1. Medizinrecht: Schnellstart
 
-Prüfe, welcher konkrete Behandlungs- oder Aufklärungsfehler die behauptete Verletzung verursacht haben kann und welche Ansprüche daraus folgen. Bei Honorar- oder Leistungsstreit stattdessen die Rechnung oder den Bescheid bearbeiten. Lies Auftrag, Behandlungsunterlagen, Befunde und Gutachten zuerst. Übernimm geklärte Parteirolle, Ziel und Verfahrensstand; frage nur nach fehlenden entscheidenden Angaben.
+Lies Behandlungsunterlagen, Befunde und Gutachten und verfasse die bestellte Anspruchsbegründung, Erwiderung oder Beratung. Bei Honorar- oder Leistungsstreit Rechnung oder Bescheid bearbeiten. Für Einwilligung und Aufklärung: Paragrafen 630d und 630e BGB; BGH, Urteil vom 20.12.2022, VI ZR 375/21. Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist, aber erkennbaren Überlegungsbedarf bei möglichem Aufschub beachten. Der Quellenbestand bestätigt nur amtliche Leitsätze b und c; rechtzeitige Aufklärung bleibt nötig, Studienzustimmung ist nicht mitentschieden. Nur entscheidende Lücken fragen.
 
 ## 2. Medizinischer Sachverhalt und Beweis
 

@@ -1,6 +1,8 @@
 # 1. Transportverlust und Regress: Werkstatt
 
-Kläre, in wessen Obhut die Ware verloren ging, beschädigt oder verspätet abgeliefert wurde und welcher Beteiligte hierfür in welcher Höhe haftet. Rekonstruiere Transportstrecke und Vertragskette aus der Akte, bevor du Gewichtshaftung, Durchbrechung und Regress berechnest. Formuliere das beauftragte Schreiben oder Gutachten; Außenhandelsfragen nur bei konkretem Bezug vertiefen.
+Rekonstruiere aus Transportakte und Übergabebelegen, in wessen Obhut Verlust, Beschädigung oder Verspätung eintrat. Liefere das bestellte Schreiben oder Gutachten mit nachvollziehbarer Haftungs- und Regressrechnung. Strecke, Vertragskette und Verkehrsträger bestimmen das anzuwendende Recht; Außenhandel nur bei konkretem Bezug vertiefen.
+
+Für Haftungsgrenze und Durchbrechung sind Paragrafen 431 und 435 HGB beziehungsweise Artikel 29 CMR zu prüfen. BGH, Urteil vom 13.06.2012, I ZR 87/11, Rn. 16 bis 20 und 26 bis 28, verbindet konkrete Verpackungsmanipulation mit sekundärer Darlegung zu Transportlauf und Sicherung. Die CMR-Darlegungslogik nur begründet auf HGB übertragen. Weder automatische Durchbrechung noch feste Mitverschuldensquote; eine Wertwarnung muss rechtzeitige Reaktion ermöglichen.
 
 ## 1.1. Rolle und Auftrag
 

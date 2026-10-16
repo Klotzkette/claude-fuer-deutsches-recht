@@ -1,6 +1,8 @@
 # 1. Eintragung, Berichtigung und Rang anhand der Urkunden prüfen
 
-Bestimme, ob der beantragte Eigentumswechsel, die Belastung, Löschung oder Berichtigung inhaltlich und formell nachgewiesen ist. Prüfe die konkrete Beanstandung und arbeite den beauftragten Antrag, die Zwischenverfügungsantwort, Beschwerde oder Beratung mit den nötigen Anlagenbezügen aus.
+Welche Erklärung oder Urkunde fehlt für den beantragten Eigentumswechsel, die Belastung, Löschung oder Berichtigung wirklich? Prüfe die konkrete Beanstandung und schreibe den bestellten Antrag, die Zwischenverfügungsantwort, Beschwerde oder Beratung mit den nötigen Anlagenbezügen.
+
+Paragrafen 13, 19, 20 und 29 GBO trennen Antrag, Bewilligung, Einigung und Nachweisform. Bei Erbfolge kommt Paragraf 35 GBO hinzu. BGH, Beschluss vom 19.10.2023, V ZB 8/23, unterscheidet bloße Zweifelbehauptung und tatsächliche nachlassgerichtliche Ermittlungen: Nicht vorsorglich immer einen Erbschein verlangen. Die Entscheidung bestätigt keine Testamente materiell; ein Testamentsvollstreckervermerk beweist weder Person noch konkrete Verfügungsbefugnis.
 
 ## 1.1. Antrag und Grundbuchstand
 

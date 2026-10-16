@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kurzprompt trennt eine fehlende Abschrift des Bestellungsbeschlusses von einer gerichtlichen Rücknahmeaufforderung wegen verneinter Eintragungsfähigkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Kurzprompt trennt eine fehlende Abschrift des Bestellungsbeschlusses von einer gerichtlichen Rücknahmeaufforderung wegen verneinter Eintragungsfähigkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
       "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
       "Entscheidungsform Beschluss präzisiert.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt."
     ],
-    "sha256": "df95ca20e288c0e4c0e660bf1e97660fa55ec05392cdd9151787c73eefdad7c6"
+    "sha256": "fe24ce4082db502b945c973f03fd99f544c10609c3364f31552108e4f9457548"
   },
   "selection": {
     "positive": [
@@ -81,14 +82,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt ergänzt zur Beanstandungsantwort den zulässigen Gegenstand der Zwischenverfügung und deren Beschwerdefolge anhand von II ZB 15/22. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt ergänzt zur Beanstandungsantwort den zulässigen Gegenstand der Zwischenverfügung und deren Beschwerdefolge anhand von II ZB 15/22. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
       "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
       "Entscheidungsform Beschluss präzisiert.",
-      "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform."
+      "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform.",
+      "Einstiegsredaktion 16.10.2026: Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt."
     ],
-    "sha256": "c1cb837c98bba2e2eda4ebd2c8f02c9e908b238563f8dd34aea53730b1246065"
+    "sha256": "d55d249b1e772182d9e2f52c74e76e43bb15b50ece236320b77acdc6f4f545bb"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -157,5 +159,41 @@
       "handelsregister-praxis/skills/registergericht-und-datenschutz/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Beanstandung in Nachweis, neue Erklärung oder rechtliche Antwort aufgeteilt; unzulässige Zwischenverfügung nicht mit Eintragungsanspruch gleichgesetzt.",
+    "anchor_or_exception": "BGH, Beschluss vom 19.09.2023, II ZB 15/22; Paragraf 382 Absätze 3, 4 FamFG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "df95ca20e288c0e4c0e660bf1e97660fa55ec05392cdd9151787c73eefdad7c6",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "c1cb837c98bba2e2eda4ebd2c8f02c9e908b238563f8dd34aea53730b1246065",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+        "sha256": "d55d249b1e772182d9e2f52c74e76e43bb15b50ece236320b77acdc6f4f545bb",
+        "characters": 20361,
+        "utf8_bytes": 20673
+      },
+      {
+        "path": "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+        "sha256": "fe24ce4082db502b945c973f03fd99f544c10609c3364f31552108e4f9457548",
+        "characters": 6834,
+        "utf8_bytes": 6942
+      }
+    ]
   }
 }

@@ -1,6 +1,8 @@
-# 1. Betriebskosten vom Rechnungsbeleg bis zur Abrechnung
+# Betriebskosten vom Rechnungsbeleg bis zur Abrechnung
 
-Ermittle die umlagefähigen Jahreskosten, verteile sie nach dem geltenden Mietschlüssel und rechne die tatsächlichen Vorauszahlungen bis zum Guthaben oder zur Nachforderung ab. Bei vermieteter Eigentumswohnung überführe die WEG-Kosten in eine eigenständige Mietabrechnung. Jede Kostenzeile muss auf Belege zurückführen; das Ergebnis ist die bestellte Abrechnung oder die begründete Antwort auf konkrete Einwendungen. Prüfstand ist der 22.09.2026; für 2025 gilt das damals anwendbare Recht.
+Ermittle die umlagefähigen Jahreskosten, verteile sie nach dem geltenden Mietschlüssel und rechne die tatsächlichen Vorauszahlungen bis zum Guthaben oder zur Nachforderung ab. Bei vermieteter Eigentumswohnung entsteht aus den WEG-Belegen eine eigenständige Mietabrechnung. Ergebnis ist die bestellte Abrechnung oder die begründete Antwort auf konkrete Einwendungen, mit Rückweg jeder Kostenzeile zum Beleg.
+
+Für Heizkosten führt Paragraf 7 Absatz 2 HeizkostenV zum Periodenverbrauch: BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14, lässt bloße Jahreszahlungen nicht genügen. Eine Kürzung um 15 Prozent heilt diesen Fehler nicht; eine allgemeine FIFO-Pflicht folgt daraus ebenfalls nicht. Rekonstruiere zunächst Verbrauch und Kosten, bevor du verteilst. Vorhandener Prüfstand: 22.09.2026; für 2025 gilt das damals anwendbare Recht. Die Quellenangaben unten bleiben maßgeblich.
 
 ## 1. Beginne mit dem vorhandenen Vorgang
 

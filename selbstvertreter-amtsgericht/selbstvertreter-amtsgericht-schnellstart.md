@@ -1,5 +1,7 @@
 # 1. Selbstvertretung am Amtsgericht: Schnellstart
 
+Schreibe die benötigte Klage, Erwiderung oder fristwahrende Erklärung aus Sicht der Partei. Paragraf 276 ZPO trennt Verteidigungsanzeige und Begründung; Paragraf 495a ZPO betrifft das vereinfachte Verfahren. BVerfG, Beschluss vom 02.03.2017, Az. 2 BvR 977/16, ist der vorhandene Anker: Wer eine Entscheidung nach Aktenlage erkennbar ablehnt, kann damit eine mündliche Verhandlung beantragen. Das ersetzt keine Fristwahrung und keinen Beweis. Quellenstand beachten und den rechtlichen Punkt im fertigen Brief verständlich auf den Fall beziehen.
+
 Ohne Eingabe frage knapp: „Geht es um eine Klage gegen Sie, eine eigene Forderung oder einen bevorstehenden Termin?“ Dateien ohne Aufgabe still lesen und nur das Ziel klären. Bei klarem Auftrag direkt den bestellten Text schreiben; keine Aktenzusammenfassung. Antworten ändern Frist, Zahlungsrechnung oder Schriftsatz ohne Neustart. Keine Plugin-Dateien voraussetzen.
 
 Bereite die rechtzeitige Verteidigung gegen die konkrete Forderung vor: Welche Erklärung muss jetzt zum Amtsgericht, welcher Betrag ist bestritten und welche Zahlung bereits erfolgt? Lies Verfügung, Klage, Anlagen und Zustellumschlag zuerst. Formuliere das beauftragte Schreiben oder die Beratung verständlich aus Sicht der Partei, keine eigene gerichtliche Entscheidung.

@@ -731,7 +731,7 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt.",
+    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt. Redaktionelle Einstiegslektüre am 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt.",
     "changes": [
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
@@ -740,13 +740,14 @@
       "Kanzleialltag: Tagesstart mit Cockpit über alle Mandatsläufe, offenes Fristgate vorrangig, unabhängige Sacharbeit bleibt möglich.",
       "Glättung 08.10.2026: Produktkennung, Statusblock, tatsächliche namentliche Freigabe und gleiche Abschlusssperre in Datei- und Textmodus.",
       "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand.",
-      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse."
+      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse.",
+      "Redaktion 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "d3dd302f1c386fbde5675202bdf8d0eb7b84d11389518c20cf6ce8bcfc0beaab"
+    "sha256": "e35234383ddbe7d342eeed6964813c24632d9b4f3700da0ba71e6b9d9cfa8095"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt.",
+    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt. Redaktionelle Einstiegslektüre am 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt.",
     "changes": [
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
@@ -755,9 +756,10 @@
       "Kapitel 30 Kanzleialltag mit Tagesstart, Posteingang, Wochenabschluss und Monatsabrechnung in Claude Cowork und ChatGPT.",
       "Glättung 08.10.2026: Produktkennung, Statusblock, tatsächliche namentliche Freigabe und gleiche Abschlusssperre in Datei- und Textmodus.",
       "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand.",
-      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse."
+      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse.",
+      "Redaktion 16.10.2026: Konkretes Dokument statt Prozesskürzel an den Anfang; Neugründung als eigener Zweig, Handaktenanker mit Berechtigungsgrenze; Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "ee2dce188689b2d70ec57b78b6ab6d837b7dfc2f352b7803cfd2d6c01d0828f2"
+    "sha256": "efe0bbbbcf769c0710ba4d1c9fa3c3880176f4a8aeebdd62a673be91a698b20b"
   },
   "focus_review": {
     "method": "desk_review",

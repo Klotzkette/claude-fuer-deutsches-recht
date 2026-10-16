@@ -7,15 +7,23 @@
   "limits": "Redaktionelle Prüfung und statische Strukturkontrolle, keine Live-Modellläufe. Die fünf Übungsakten lagen bei Erstellung dieser Evaluation noch nicht als Dateien vor. Ihre Kennungen werden nur auf Aufgabenebene zugeordnet; keine Inhalte oder Musterlösungen werden behauptet. Die folgenden Testannahmen sind ausdrücklich eigenständige künstliche Eingaben und keine Behauptungen über diese Akten.",
   "mini_review": {
     "verdict": "retained",
-    "reason": "Der abschließend gekürzte Schnellstart wurde erneut redaktionell geprüft: vorhandene Unterlagen zuerst, höchstens zwei blockierende Einstiegsfragen, fünf unterscheidbare Fachwege und ausformuliertes Arbeitsprodukt. Einbeziehung der VOB/B, Abnahmezweig, aktueller Bau-/Planungsvergabepfad, Fachprüfung und Versandgrenze bleiben trotz der Kürzung erhalten. 7413 UTF-8-Bytes; keine Modellausführung.",
-    "changes": [],
-    "sha256": "ebd08918667e46890406eb9525dbd288727328ac32595e82010048729580067f"
+    "reason": "Der abschließend gekürzte Schnellstart wurde erneut redaktionell geprüft: vorhandene Unterlagen zuerst, höchstens zwei blockierende Einstiegsfragen, fünf unterscheidbare Fachwege und ausformuliertes Arbeitsprodukt. Einbeziehung der VOB/B, Abnahmezweig, aktueller Bau-/Planungsvergabepfad, Fachprüfung und Versandgrenze bleiben trotz der Kürzung erhalten. 7413 UTF-8-Bytes; keine Modellausführung. Redaktionelle Anschlussprüfung 16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben."
+    ],
+    "sha256": "c62e53d484991ac118cc261252db1d0cbdbf9d85ef34e98b390dbba58ed1fc07",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Die eigenständige Werkstatt wurde im finalen Stand redaktionell geprüft. Die Fachwege führen zu Protokoll, Abgleich, Bieterantwort, Anzeige oder Anforderungsliste mit Fachanfrage. Die Abschnitte unterscheiden Vertrags-/Abnahmestatus, Veröffentlichung/Änderung, belegte Behinderung und räumliche Gutachtengeltung. Die Bausteinübung trennt geplante Tests von beobachteten Ergebnissen. 28567 UTF-8-Bytes; keine Modellausführung.",
-    "changes": [],
-    "sha256": "5ded155f26702c78426e56622c8c093e6bf1eb95ac4dbcf927d57ad120be7829"
+    "reason": "Die eigenständige Werkstatt wurde im finalen Stand redaktionell geprüft. Die Fachwege führen zu Protokoll, Abgleich, Bieterantwort, Anzeige oder Anforderungsliste mit Fachanfrage. Die Abschnitte unterscheiden Vertrags-/Abnahmestatus, Veröffentlichung/Änderung, belegte Behinderung und räumliche Gutachtengeltung. Die Bausteinübung trennt geplante Tests von beobachteten Ergebnissen. 28567 UTF-8-Bytes; keine Modellausführung. Redaktionelle Anschlussprüfung 16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben."
+    ],
+    "sha256": "83188fe19a2aeaadf256148bc53e2190e4584d7bf00b790748405ae10423ccba",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_editorial_review": {
     "date": "2026-10-06",
@@ -407,5 +415,26 @@
     "reference": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie, ob die Anwendung nur Belege ordnet oder selbst Bau-Sicherheitsfunktionen übernimmt. Belegen Sie den vorgesehenen Arbeitsablauf mit Anleitung und Angebot; eine Schulungsbescheinigung ersetzt keine Prüfung der freigegebenen Verwendung.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-schnellstart.md",
+        "sha256": "c62e53d484991ac118cc261252db1d0cbdbf9d85ef34e98b390dbba58ed1fc07",
+        "reason": "Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben.",
+        "anchor_or_exception": "Technische Ausnahme: Projektunterlagen und bei belegter Einbeziehung Paragraf 6 Absatz 1 VOB/B; Anzeige aus tatsächlicher Behinderung, keine VOB/B-Geltung allein aus Vergabe und kein allgemeines Urteil für Protokollarbeit."
+      },
+      {
+        "path": "bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md",
+        "sha256": "83188fe19a2aeaadf256148bc53e2190e4584d7bf00b790748405ae10423ccba",
+        "reason": "Begehungsprotokoll, LV-Abgleich und Schreiben als konkrete Ergebnisse; frühe Mini-Tabelle vollständig ans Ende verschoben.",
+        "anchor_or_exception": "Technische Ausnahme: Projektunterlagen und bei belegter Einbeziehung Paragraf 6 Absatz 1 VOB/B; Anzeige aus tatsächlicher Behinderung, keine VOB/B-Geltung allein aus Vergabe und kein allgemeines Urteil für Protokollarbeit."
+      }
+    ]
   }
 }

@@ -1,5 +1,7 @@
 # 1. Insolvenzantrag und gerichtlichen Handlungsbedarf prüfen
 
+Entwirf aus Antrag, Liquiditätsbelegen und Gutachten die gerichtliche Verfügung oder Entscheidung nach Paragrafen 14, 17 und 21 InsO. Vorhandener Anker: BGH, Urteil vom 23.01.2025, Az. IX ZR 229/22. Eine vorläufig vollstreckbare Forderung bei erfüllten Vollstreckungsvoraussetzungen und eingeleiteter Vollstreckung im Status nicht nach Prozesschancen abwerten. Das ersetzt keine Zulässigkeitsprüfung des Gläubigerantrags; Quellenstand unten beachten.
+
 Ohne Eingabe biete Eröffnungsprüfung, vorläufige Sicherung oder ein bestimmtes StaRUG-Instrument an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen; kein Aktenreferat. Klaren Auftrag direkt erfüllen, Folgeantworten im bestehenden Entwurf verarbeiten. Keine Gerichtssysteme oder lokalen Skills voraussetzen.
 
 „Die Antragstellerforderung ist bezahlt.“ Prüfe Zahlung und fortbestehenden Antrag, dann die weiteren Vollstreckungen und aktuelle Liquidität; keine automatische Zurückweisung. „Das Darlehen ist nur zugesagt.“ Trenne Finanzierungsaussicht und verfügbares Geld und ändere den Gutachtenergänzungsauftrag. „Die Maschine soll morgen verkauft werden.“ Kläre Gegenstand, Erlös und Abflussrisiko und entwirf nur die hierfür erforderliche Sicherung. Eine neue Zahl verändert Rechnung und Entscheidungsgründe gemeinsam, nicht nur den Ergebnisbetrag.

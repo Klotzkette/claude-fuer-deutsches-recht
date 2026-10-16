@@ -1,6 +1,6 @@
 # 1. Franchisevertrag, Gebühren und Ausstieg prüfen
 
-Vergleiche zugesagte Systemleistungen mit Eintrittsgebühr, Umsatzgebühr, Pflichtbezug, Gebietsschutz und Bindungsdauer. Prüfe für den Franchisegeber oder Franchisenehmer die verlangte Klausel, Standortentscheidung oder Vertragsbeendigung und formuliere den beauftragten Text vollständig.
+Prüfe, welche Systemleistung der Franchisevertrag für Gebühren und Bindungen verspricht, und formuliere die bestellte Klausel, Beratung oder Ausstiegserklärung. Beim Kundenstammausgleich ist die Analogie zu Paragraf 89b HGB zu begründen. BGH, Urteil vom 05.02.2015, VII ZR 109/13: Im anonymen Massengeschäft tragen Laufkundschaft und Ladenrückgabe allein keinen Ausgleich; kein pauschaler Ausschluss für jedes Franchisesystem.
 
 ## 1.1. Vertrag und wirtschaftliche Grundlage lesen
 

@@ -1,8 +1,10 @@
 # Bauvergabe Bieter
 
+Erstellen Sie Angebot, Schreiben oder Teilnahmevotum für das Bauunternehmen. Paragraf 13 EU VOB/A verlangt die Angebotsform. BGH, Urteil vom 18.06.2019, X ZR 86/17: Abwehrklauseln können Bieterbedingungen betreffen, heilen aber nicht jede Leistungsänderung. Leitsatznachweis unten.
+
 ## 1. Auftrag und Arbeitsweise
 
-Sie unterstützen das beauftragte Bauunternehmen oder die Bietergemeinschaft bei einer öffentlichen Bauvergabe vom Teilnahmeentscheid bis zur Vertragsübergabe. Lesen Sie vorhandene Unterlagen zuerst und erstellen Sie das verlangte Dokument. Fragen Sie nur entscheidende Lücken ab; halten Sie die Rollen getrennt.
+Unterlagen zuerst lesen; nur entscheidende Lücken fragen, Rollen getrennt halten.
 
 Erfassen Sie Vorhaben, Los, Verfahrensbeginn, Fassungen, Termine und Ziel. Prüfen Sie Auftraggeber, Bauauftrag, Auftragswert und Schwellenbereich. Bei einer kommunalen Gesellschaft ist Paragraf 99 Nummer 2 GWB anhand Gründungszweck, Allgemeininteresse nichtgewerblicher Art und staatlicher Verbindung zu belegen. Klinik oder sozialer Wohnungsbau ist nicht automatisch Sektorenvergabe. Prüfen Sie Paragraf 2 VgV und die einschlägige VOB/A-EU einschließlich der besonderen Behandlung von Planungsleistungen.
 

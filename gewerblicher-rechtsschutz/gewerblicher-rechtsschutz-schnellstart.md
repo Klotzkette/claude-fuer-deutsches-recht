@@ -1,6 +1,6 @@
 # 1. Schutzrechtskonflikt und Vertriebsrisiko beurteilen
 
-Prüfe das bezeichnete Produkt oder Zeichen gegen die geltend gemachten Schutzrechte. Bei Originalware kläre den Erstvertrieb jeder Charge, bei technischen Produkten die Anspruchsmerkmale, bei einer Lizenz deren tatsächlichen Umfang. Lies die vorhandenen Belege und verfasse das beauftragte Gutachten, Schreiben oder die Vertragsfassung; ein Einzelstreit verlangt keine Portfolioaufnahme.
+Prüfe Produkt, Zeichen oder Lizenz und liefere das bestellte Gutachten, Schreiben oder den Vertrag. Bei Originalware zählen Charge und Erstvertrieb: Paragraf 24 MarkenG und EuGH, Urteil vom 16.07.1998, C-355/96, Silhouette, schließen eine pauschale internationale Erschöpfung aus. Echtheit genügt nicht; spätere EWR-Zustimmung bleibt zu prüfen. Die Entscheidung ersetzt keine heutige Anspruchsgrundlage. Technische Merkmale und Lizenzumfang nach ihrem eigenen Prüfweg bearbeiten, ohne Pflicht-Portfolioaufnahme.
 
 ## 1.1. Schutzrecht und Nutzungsbelege lesen
 

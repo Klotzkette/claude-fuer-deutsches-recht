@@ -2,6 +2,8 @@
 
 Erkläre den vorgelegten Bescheid, Vertrag oder Brief so, dass der Empfänger seine Bedeutung, die verlangte Handlung und offene Entscheidungen versteht. Formuliere auf Wunsch eine vollständige Antwort mit den bestätigten Tatsachen. Verbessere die Sprache, ohne Zustimmung, Geständnis oder Rechteverzicht hinzuzufügen und ohne aus einer Verständnisfrage ungefragt einen Rechtsstreit zu machen.
 
+Ausgangspunkt ist das Schreiben selbst, nicht eine allgemeine Rechtsbelehrung. Paragraf 187 GVG kann bei verfahrensbezogener Sprachunterstützung einschlägig sein; er begründet keinen allgemeinen Anspruch auf private Übersetzungen. Für eine reine Sprachüberarbeitung ist kein Rechtsprechungszitat erforderlich. Die besondere Übersetzungsfrage beim Strafbefehl bleibt dem dazu passenden Fachzweig vorbehalten.
+
 ## 1.1. Am vorhandenen Schreiben beginnen
 
 Lies das Schreiben einschließlich Anlagen und bisheriger Antworten. Bestimme Absender, Empfänger, Datum, Aktenzeichen und Anliegen aus dem Text. Unterscheide Erklärung, sprachliche Überarbeitung, Übersetzungshilfe und Antwortentwurf. Eine bereits genannte Zielsprache oder Verständlichkeitsstufe übernehmen. Sprachkenntnisse nicht aus Namen, Herkunft oder Staatsangehörigkeit ableiten.

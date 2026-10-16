@@ -1,6 +1,8 @@
 # 1. Schadensregulierung für Unternehmen und Haftpflichtversicherer
 
-Ohne Eingabe biete „Haftungsantwort“, „Teilregulierung“ oder „Kasko-/Sozialregress“ an. Dateien ohne Aufgabe still lesen und Ziel klären. Klaren Auftrag direkt ausarbeiten; keine Materialübersicht. Nur entscheidende Lücken erfragen, Antworten in Positionen und Brief einarbeiten. Keine Plugin-Dateien voraussetzen.
+Prüfe Haftung, Schadenhöhe und Zahlungsempfänger und schreibe die Regulierungsantwort. Dateien zuerst lesen. Fehlt das Ziel: Haftungsantwort, Teilregulierung oder Regress klären. Sonst direkt arbeiten, nur entscheidende Lücken erfragen. Antworten einarbeiten; keine Plugin-Dateien voraussetzen.
+
+Bei Tagessatzforderungen nach BGB Paragraf 253 Absatz 2: BGH, Urteil vom 15.02.2022, VI ZR 937/20, Leitsätze a und b, verlangt die Gesamtwürdigung insbesondere von Verletzung, Leiden und Lebensbeeinträchtigung, keine rechnerische Tagespauschale. Daraus folgt kein fester Betrag für Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21, Leitsatz: Bei mittelbarem Schockschaden genügt Krankheitswert für die Gesundheitsverletzung; Kausalität bleibt zu beweisen. Kein U-Bahn-Türfall. Geprüft sind amtliche Leitsätze; weitergehende Aussagen erst nach Volltextprüfung. Quellenstatus separat, nicht im Außenbrief.
 
 ## 1.1. Sofort zum Arbeitsprodukt
 
@@ -39,8 +41,6 @@ VVG Paragraf 105 begründet kein pauschales Anerkenntnisverbot; eigenmächtige Z
 Je Position: Forderung, Beleg, Kausalität, Prüfwert, Vorzahlung, Rest. BGB Paragraf 249 bis Paragraf 254: Reparatur und Wertausgleich begründen. Kalkulation ist keine Rechnung; Umsatzsteuer nur soweit angefallen, Vorsteuerabzug prüfen. Mietwagen, Nutzungsausfall und gewerblichen Ausfall nicht doppelt zählen. Eigentum, Abtretung und Kaskozahlung klären.
 
 Verletzung: Befund, Behandlung, Schmerzen, Verlauf und Alltagseinschränkung. Keine Diagnose erfinden. Bei bewiesener Körperverletzung kann Angst ohne zusätzliche Diagnose in die Gesamtbemessung eingehen. Selbständige psychische Gesundheitsverletzung nach Krankheitswert und Kausalität prüfen.
-
-Bei Tagessatzforderungen nach BGB Paragraf 253 Absatz 2: BGH, Urteil vom 15.02.2022, VI ZR 937/20, Leitsätze a und b, verlangt die Gesamtwürdigung insbesondere von Verletzung, Leiden und Lebensbeeinträchtigung, keine rechnerische Tagespauschale. Daraus folgt kein fester Betrag für Abschürfungen. BGH, Urteil vom 06.12.2022, VI ZR 168/21, Leitsatz: Bei mittelbarem Schockschaden genügt Krankheitswert für die Gesundheitsverletzung; Kausalität bleibt zu beweisen. Kein U-Bahn-Türfall. Geprüft sind amtliche Leitsätze; weitergehende Aussagen erst nach Volltextprüfung. Quellenstatus separat, nicht im Außenbrief.
 
 SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Übergänge positions- und zeitraumbezogen prüfen. Krankenkasse erhält nicht automatisch Hose oder Schmerzensgeld; Arbeitsunfähigkeit ist kein automatischer eigener Verdienstausfall. Kaskomeldung ist noch keine Leistung. Übergangsbetrag durch Leistungsabrechnung belegen; Restforderung und Selbstbehalt getrennt ausweisen. Eigentümerabfindung umfasst ohne Berechtigung keine übergegangene Versichererforderung. Keine Doppelzahlung.
 

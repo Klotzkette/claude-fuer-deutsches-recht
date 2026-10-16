@@ -4,25 +4,29 @@
   "reviewed_on": "2026-09-30",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständig handverfasster Kurzauftrag mit Ordnerstart, konkreter Antwortfortsetzung und hessischem Netzbezug; redaktionelle Prüfung, kein Live-Modelllauf.",
+    "reason": "Eigenständig handverfasster Kurzauftrag mit Ordnerstart, konkreter Antwortfortsetzung und hessischem Netzbezug; redaktionelle Prüfung, kein Live-Modelllauf. Redaktionelle Einstiegsprüfung 16.10.2026: Gesetz, Vermögenswerte und Gemeinwirtschaft vor die Dateiaufnahme gestellt. Atomausstiegsurteil ausdrücklich nur zur Güterbeschaffungsabgrenzung, nicht als Entscheidung über Artikel 15 GG. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Gegenstand, Gesetzesstand und Mandatsrolle vor der Rechtsfolge bestimmen.",
       "Landesgrundrechte, historischer Artikel 41 und aktuelle Rechtsschutzwege ausdrücklich getrennt.",
       "Kein fachfremder Reformexkurs; Betriebsübergang bleibt fallbezogen.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "Gesetz, Vermögenswerte und Gemeinwirtschaft vor die Dateiaufnahme gestellt. Atomausstiegsurteil ausdrücklich nur zur Güterbeschaffungsabgrenzung, nicht als Entscheidung über Artikel 15 GG."
     ],
-    "sha256": "444957bfeb86f961081dbdea1fce5014b369263a70c269cac3a4f679cd6b56bc"
+    "sha256": "8a8995f98863bbfac75f3c3e17cc78cb8282bdc3cfb6ccbccd7883baab8bc2dd",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Artikel-15-Werkstatt mit drei Einstiegen und ausgearbeiteten Bearbeitungswegen statt generischem Skillwrapper. Rechtsbehauptungen anhand amtlicher Quellen redaktionell geprüft.",
+    "reason": "Individuelle Artikel-15-Werkstatt mit drei Einstiegen und ausgearbeiteten Bearbeitungswegen statt generischem Skillwrapper. Rechtsbehauptungen anhand amtlicher Quellen redaktionell geprüft. Redaktionelle Einstiegsprüfung 16.10.2026: Gesetz, Vermögenswerte und Gemeinwirtschaft vor die Dateiaufnahme gestellt. Atomausstiegsurteil ausdrücklich nur zur Güterbeschaffungsabgrenzung, nicht als Entscheidung über Artikel 15 GG. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Eigenständige Behandlung von Anteilen, Gemeinwirtschaft, Kompetenz und Landesverfassung.",
       "Anlagen- und Eigenkapitalbewertung sowie Finanzierungsbedingungen auseinandergehalten.",
       "Nach Antworten konkrete Gesetzes-, Beratungs- oder Stellungnahmefassung fertigstellen.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "Gesetz, Vermögenswerte und Gemeinwirtschaft vor die Dateiaufnahme gestellt. Atomausstiegsurteil ausdrücklich nur zur Güterbeschaffungsabgrenzung, nicht als Entscheidung über Artikel 15 GG."
     ],
-    "sha256": "ff7a2e6c4e66dac44fae87847b0b7676433994aa8af6123e38453928626a819e"
+    "sha256": "66bf76c25234711e4965ff1cc92d73c01b5f53b5b1c61968d6647c00bee13c11",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "target_skill": "vergesellschaftungsvorhaben-einordnen",

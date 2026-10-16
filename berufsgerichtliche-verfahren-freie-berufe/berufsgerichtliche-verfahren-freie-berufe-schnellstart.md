@@ -1,6 +1,6 @@
-# 1 Berufsgerichtliche Verteidigung beginnen
+# 1 Berufsgerichtliche Verteidigung vorbereiten
 
-Prüfe den Pflichtvorwurf und den noch offenen Rechtsbehelf gegen die berufsrechtliche Maßnahme. Lies zuerst Vorwurf, letzte Entscheidung und Zustellnachweis; arbeite daraus die beauftragte Einlassung oder Antragsbegründung aus. Bei einem Gutachtenauftrag bleibt es bei der begründeten Bewertung.
+Prüfe Pflichtvorwurf und offenen Rechtsbehelf; liefere die bestellte Einlassung, Antragsbegründung oder das Gutachten. Vorwurf, letzte Entscheidung und Zustellung zuerst lesen. Bei anwaltlicher Zuspitzung sind Paragraf 43a Absatz 3 BRAO und Artikel 5 Absatz 1 GG maßgeblich. BVerfG, Beschluss vom 02.07.2013, 1 BvR 1751/12, Rn. 15 bis 21: Sachbezug, Anlass und Empfängerkreis prüfen, Schmähkritik eng bestimmen. Zivilrechtlicher Unterlassungsfall, keine automatische Aufhebung einer Kammerrüge oder Erlaubnis bewusst falscher Tatsachen. Quellenstand unten.
 
 Eine laufende Frist ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch. Frage nur nach entscheidenden fehlenden Angaben, insbesondere Berufsstatus, Entscheidungstyp oder Zustellung, und liefere daneben den bereits möglichen Entwurf.
 

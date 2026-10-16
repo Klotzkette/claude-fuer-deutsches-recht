@@ -41,17 +41,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage. 2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Ergebnis und Eintragungshindernis früh erklärt; Rücknahmehinweis nicht zur Zwischenverfügung umgedeutet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Behebbarkeit des Hindernisses an Paragraf 382 Absatz 4 FamFG geprüft.",
       "Endgültig verneinte Eintragungsfähigkeit dem Beschluss nach Absatz 3 zugeordnet.",
       "Sparkassenkonstellation und Verfahrensfolge getrennt; gerichtliche Letztentscheidung nicht automatisiert.",
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
-      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
+      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+      "2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Ergebnis und Eintragungshindernis früh erklärt; Rücknahmehinweis nicht zur Zwischenverfügung umgedeutet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "b8f3ef914ee0fa673399735496da0665ff75a0cef8467d71ec272fc9ca2b6f53",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "7faa52f93a395530776b3e34fa6c2ea6e99fd4c68886bf99e96512df3fa36cef",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -99,17 +101,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage. 2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Ergebnis und Eintragungshindernis früh erklärt; Rücknahmehinweis nicht zur Zwischenverfügung umgedeutet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Behebbarkeit des Hindernisses an Paragraf 382 Absatz 4 FamFG geprüft.",
       "Endgültig verneinte Eintragungsfähigkeit dem Beschluss nach Absatz 3 zugeordnet.",
       "Sparkassenkonstellation und Verfahrensfolge getrennt; gerichtliche Letztentscheidung nicht automatisiert.",
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
-      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
+      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+      "2026-10-16, redaktioneller Einstiegsreview: Gerichtliches Ergebnis und Eintragungshindernis früh erklärt; Rücknahmehinweis nicht zur Zwischenverfügung umgedeutet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "5a3319c65a4f16df065f819bc591835c791221822101a35c7e2e8100ab725723",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "42f3417b808e84f5d81bc3b3b6988e1123cd3f2b2821cf8a43c8b8d358102301",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

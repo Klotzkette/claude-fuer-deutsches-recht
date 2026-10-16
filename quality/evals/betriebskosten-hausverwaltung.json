@@ -96,26 +96,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alle sechs Abschnitte und Rechenbeispiele gelesen. Bereits präzisen Workflow erhalten; Auftakt auf umlagefähigen Mietersaldo ausgerichtet und Verbrauchsurteil um Randnummern, Norm und Grenze zur Vorratsbewertung ergänzt. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Alle sechs Abschnitte und Rechenbeispiele gelesen. Bereits präzisen Workflow erhalten; Auftakt auf umlagefähigen Mietersaldo ausgerichtet und Verbrauchsurteil um Randnummern, Norm und Grenze zur Vorratsbewertung ergänzt. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Ergebnisbezogener Einstieg mit Kostenbasis, Mietschlüssel und Ist-Vorauszahlungen.",
       "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
       "Leer: Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort. Dateien: still lesen und materialgerechten Abrechnungsweg anbieten. Klar: unmittelbar rechnen und bestellte Empfängerfassung erstellen.",
-      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
+      "16.10.2026: Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen."
     ],
-    "sha256": "f96a8d9ae1572dc494dedbebdfa60ccc721e39b9e28a18860daf83d1339f067e"
+    "sha256": "d5fb6d1fd6326b336b232a37118ebb178de29bb64349d2d21d4bd1db407383c4",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle 16 Abschnitte einschließlich CO2-Lieferanteilen, WEG-Überleitung und Einwendungen gelesen. Gerichtliche Folgen stehen jetzt an den Rechenschritten statt nur im Schlussregister; missverständliche berechtigt verweigerte Einsicht korrigiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle 16 Abschnitte einschließlich CO2-Lieferanteilen, WEG-Überleitung und Einwendungen gelesen. Gerichtliche Folgen stehen jetzt an den Rechenschritten statt nur im Schlussregister; missverständliche berechtigt verweigerte Einsicht korrigiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Ergebnisbezogener Einstieg mit Kostenbasis, Mietschlüssel und Ist-Vorauszahlungen.",
       "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
       "WEG-Fristurteil und Zahlungsbelegeinsicht mit Entlastungsnachweis beziehungsweise zeitweiliger Rechtsfolge im Hauptteil verankert.",
       "Gutschrift und Zahlungsverrechnung, konsistenter Flächennenner, Messdienst-CO2-Abgleich, Ölbestand und Fristkorrekturen vertieft.",
-      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
+      "16.10.2026: Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen."
     ],
-    "sha256": "e137cf7cbed108ea499a830bb32b7e54d14c3d5566c55c249eedf64401bc46d5"
+    "sha256": "84e2fa51b65beeb88578014c9170814e04daf2529802e28b7b591f049ea382f4",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "target_skill": "belege-bis-zur-abrechnung",
@@ -541,5 +547,26 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-schnellstart.md",
+        "sha256": "d5fb6d1fd6326b336b232a37118ebb178de29bb64349d2d21d4bd1db407383c4",
+        "reason": "Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen.",
+        "anchor_or_exception": "Paragraf 7 Absatz 2 HeizkostenV; BGH 01.02.2012 VIII ZR 156/11 Rn. 10 bis 14: Periodenverbrauch statt Jahreszahlungen; keine allgemeine FIFO-Pflicht, 15-Prozent-Kürzung heilt den falschen Ansatz nicht."
+      },
+      {
+        "path": "betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md",
+        "sha256": "84e2fa51b65beeb88578014c9170814e04daf2529802e28b7b591f049ea382f4",
+        "reason": "Mietersaldo und fertige Abrechnung vor Belegsystematik; vorhandenen Heizkostenanker im Mini vorgezogen.",
+        "anchor_or_exception": "Paragraf 7 Absatz 2 HeizkostenV; BGH 01.02.2012 VIII ZR 156/11 Rn. 10 bis 14: Periodenverbrauch statt Jahreszahlungen; keine allgemeine FIFO-Pflicht, 15-Prozent-Kürzung heilt den falschen Ansatz nicht."
+      }
+    ]
   }
 }

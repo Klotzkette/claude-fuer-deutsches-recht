@@ -69,29 +69,35 @@
     }
   ],
   "mini_review": {
-    "sha256": "d1dce793ada55f4ad9bb2340f44b2665704f3e60b3e15c9ac0c0e6ced3c8f41f",
+    "sha256": "3b84a1430ddb66e0ac3334a5f3ed098bbc91c4436c20da00612c4b360f832b6e",
     "verdict": "revised",
-    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert. Redaktionelle Anschlussprüfung 16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
-      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
-    ]
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "2f453dd41d11c38f05c60248c45ea8b9b625521456f69b406760ff04f27917ed",
+    "sha256": "4b890cf9dece7585bc4b4ac396a2d4634b81f4f717807f092152112eb2188222",
     "verdict": "revised",
-    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert. Redaktionelle Anschlussprüfung 16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Arbeitnehmerklage, Arbeitgeberanhörung, nachweisbezogene Überstundenforderung und Wechsel zur Vergleichslösung mit ungünstigen Tatsachen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
       "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt.",
-      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
-    ]
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -237,5 +243,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+        "sha256": "3b84a1430ddb66e0ac3334a5f3ed098bbc91c4436c20da00612c4b360f832b6e",
+        "reason": "Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+        "anchor_or_exception": "Paragraf 623 BGB, Paragraf 4 KSchG; BAG 30.01.2025 2 AZR 68/24: eingeschränkter Beweiswert von Einlieferung und Sendungsstatus, kein genereller Ausschluss anderer Zugangsnachweise."
+      },
+      {
+        "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+        "sha256": "4b890cf9dece7585bc4b4ac396a2d4634b81f4f717807f092152112eb2188222",
+        "reason": "Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+        "anchor_or_exception": "Paragraf 623 BGB, Paragraf 4 KSchG; BAG 30.01.2025 2 AZR 68/24: eingeschränkter Beweiswert von Einlieferung und Sendungsstatus, kein genereller Ausschluss anderer Zugangsnachweise."
+      }
+    ]
   }
 }

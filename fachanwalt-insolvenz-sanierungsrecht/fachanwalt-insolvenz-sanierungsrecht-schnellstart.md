@@ -1,6 +1,6 @@
 # 1. Insolvenz- und Sanierungsrecht: Schnellstart
 
-Prüfe Insolvenzreife und die daraus folgende Handlungs- oder Zahlungshaftung anhand von Bankmitteln, Fälligkeiten und Einzelbuchungen. Im Haftungsmandat bestimme, welche Abflüsse dem Organ zuzurechnen und welche Entlastungen belegt sind. Formuliere die beauftragte Bewertung oder Anspruchs- beziehungsweise Verteidigungsfassung; Sanierungsplan, Anfechtung und Tabellenforderung bleiben eigenständige Aufträge.
+Ermittle aus Bankmitteln, Fälligkeiten und Einzelbuchungen die Insolvenzreife und erstelle die bestellte Bewertung, Forderung oder Verteidigung. Paragrafen 17 und 19 InsO betreffen Insolvenzgründe, Paragrafen 15a und 15b Antragspflicht und Zahlungen. BGH, Urteil vom 04.07.2017, II ZR 319/15, Rn. 10 bis 21: Abfluss und wirtschaftlich zugehörigen verwertbaren Gegenwert einzeln prüfen, Dienstleistungen oder Anfechtungschancen nicht pauschal verrechnen. Der Fall zu Paragraf 64 GmbHG alter Fassung ersetzt nicht heutige Ausnahmen und Erstattungsgrenzen. Sanierungsplan und Gläubigerforderung bleiben eigene Aufträge.
 
 ## 1.1. Auftrag und Unterlagen
 

@@ -56,18 +56,20 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen. 2026-10-16, redaktioneller Einstiegsreview: Sitzungsfrage und Kontaktmitteilung als Ergebnis; Selbstanzeige von gesetzlichem Ausschluss und Handelsrichterverfahren getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Kontakt, Nähe und Kenntniszeit statt bloßer Selbsteinschätzung mitteilen.",
       "Ablehnung/Selbstanzeige und gesetzlichen Ausschluss trennen; Entscheidung bleibt zuständigem Gericht vorbehalten.",
       "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
       "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
       "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
-      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Sitzungsfrage und Kontaktmitteilung als Ergebnis; Selbstanzeige von gesetzlichem Ausschluss und Handelsrichterverfahren getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "45512776c9dec7a0d3bbabfe8ca58d03de789372710d3d5011e8774ca8ca14bd",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "5dea3a23bf3f3a1795e774d132962e7cf95683bd2e75e37ce243a309f2400ab7",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -115,18 +117,20 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen. 2026-10-16, redaktioneller Einstiegsreview: Sitzungsfrage und Kontaktmitteilung als Ergebnis; Selbstanzeige von gesetzlichem Ausschluss und Handelsrichterverfahren getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Kontakt, Nähe und Kenntniszeit statt bloßer Selbsteinschätzung mitteilen.",
       "Ablehnung/Selbstanzeige und gesetzlichen Ausschluss trennen; Entscheidung bleibt zuständigem Gericht vorbehalten.",
       "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
       "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
       "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
-      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Sitzungsfrage und Kontaktmitteilung als Ergebnis; Selbstanzeige von gesetzlichem Ausschluss und Handelsrichterverfahren getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "e3155a4587122707499e3030cf6b18e155cecd5c41ad94575be1346904557d73",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "46595080b0105f9aaa86b346e80a8a988a44a975965a469905a68c0f5c927e26",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

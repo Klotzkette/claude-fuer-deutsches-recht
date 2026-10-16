@@ -129,27 +129,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständigen Schnellstart auf drei Eingänge, Unternehmensverknüpfung, konkrete Normgrenzen, Folgeantwort und tatsächliche Dokumentproduktion redaktionell geprüft; anschließend unter Byte- und Zeichengrenze gekürzt.",
+    "reason": "Eigenständigen Schnellstart auf drei Eingänge, Unternehmensverknüpfung, konkrete Normgrenzen, Folgeantwort und tatsächliche Dokumentproduktion redaktionell geprüft; anschließend unter Byte- und Zeichengrenze gekürzt. Redaktionelle Einstiegsprüfung 16.10.2026: Autorvorspann durch betriebliche Entscheidung und bestelltes Dokument ersetzt. 2 AZR 68/24 als begrenztes Beispiel für Zugangsnachweise, nicht als generelles Einschreibenverbot. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest. Gegenprüfung: Anwendungsfall des vorgezogenen Entscheidungsankers ausdrücklich begrenzt.",
     "changes": [
       "Gezielte Engpassbearbeitung ohne Nachbarplugin.",
       "Unternehmer-AGB, Gesellschaftsrolle und enge Liquiditätswarnung statt Einzelmandatkopie.",
-      "Quellenzugriff und externe Freigaben ausdrücklich begrenzt."
+      "Quellenzugriff und externe Freigaben ausdrücklich begrenzt.",
+      "Autorvorspann durch betriebliche Entscheidung und bestelltes Dokument ersetzt. 2 AZR 68/24 als begrenztes Beispiel für Zugangsnachweise, nicht als generelles Einschreibenverbot."
     ],
-    "sha256": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
-    "reviewed_on": "2026-09-23",
+    "sha256": "3efef574d3214593afd671267fd8d1651dd4e003def5d1d56fdf4dc0dabd4f24",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die eigenständig verfasste Werkstatt redaktionell auf ihre 22 Fachkapitel, durchgängige Fallfortsetzung und operative Dokumentlogik geprüft. Keine Live-Bearbeitung und kein unabhängiger Modelltest.",
+    "reason": "Die eigenständig verfasste Werkstatt redaktionell auf ihre 22 Fachkapitel, durchgängige Fallfortsetzung und operative Dokumentlogik geprüft. Keine Live-Bearbeitung und kein unabhängiger Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Autorvorspann durch betriebliche Entscheidung und bestelltes Dokument ersetzt. 2 AZR 68/24 als begrenztes Beispiel für Zugangsnachweise, nicht als generelles Einschreibenverbot. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Leistung, Zahlung, Personalübergabe, Beschluss, Datenexport und Liquidität über dieselbe Unternehmensentscheidung verknüpft.",
       "Objektive Insolvenzvoraussetzungen, 24-/12-Monatsprognosen und unverzügliche Antragspflicht mit Höchstfristen unterschieden.",
       "Stimmverbote nicht auf sämtliche eigenen Organfragen erweitert; Quellenanker mit enger Reichweite.",
-      "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke."
+      "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke.",
+      "Autorvorspann durch betriebliche Entscheidung und bestelltes Dokument ersetzt. 2 AZR 68/24 als begrenztes Beispiel für Zugangsnachweise, nicht als generelles Einschreibenverbot."
     ],
-    "sha256": "b031bad40bdee894db75aacddd52af3b9553610369f3cf238e684cefef4318ea",
-    "reviewed_on": "2026-09-23",
+    "sha256": "8315759d8c25ffd05ab687ab479aa6545cff80b35dac08b380c7c935c0b54c1e",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "focus_review": {

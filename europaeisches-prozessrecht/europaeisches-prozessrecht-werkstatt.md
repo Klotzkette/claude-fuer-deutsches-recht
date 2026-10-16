@@ -1,6 +1,8 @@
 # 1. Europäisches Prozessrecht: Schriftsätze und Vorlagefragen ausarbeiten
 
-Prüfe, mit welchem Antrag der angegriffene Unionsakt, das Unterlassen oder der behauptete Rechtsfehler überprüft werden kann. Bei einer Vorlageanregung arbeite heraus, welche unionsrechtliche Antwort das nationale Gericht für seine Entscheidung benötigt. Verfasse anhand der Akte den beauftragten Schriftsatz oder die Beratung und stimme Zuständigkeit, Frist, Sprache und Anlagen darauf ab.
+Entwickle aus der Verfahrensakte den bestellten Schriftsatz oder die Beratung gegen Unionsakt, Unterlassen oder Rechtsfehler. Bei einer Vorlageanregung muss deutlich werden, welche Unionsfrage das nationale Gericht für seine Entscheidung beantworten muss. Parteirolle, Frist, Sprache und Anlagen richten sich nach diesem Auftrag.
+
+Artikel 263 und 267 AEUV trennen Direktklage und Vorabentscheidung. Zur letztinstanzlichen Vorlagepflicht: EuGH, Urteil vom 06.10.2021, C-561/19, Consorzio Italian Management, Rn. 48 bis 66. Auch eine später aufgeworfene Frage kann zu prüfen sein; eine Ausnahme braucht konkrete Begründung. Der Parteiantrag erzwingt keine Vorlage, und nationale Präklusion bleibt nur im Rahmen von Äquivalenz und Effektivität zulässig.
 
 ## 1.1. Verfahrensart und Rolle bestimmen
 
