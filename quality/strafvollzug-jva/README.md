@@ -1,6 +1,6 @@
 # Strafvollzug in der JVA: Prüfbericht
 
-Die Abschnitte 1 bis 6 dokumentieren die Erstabnahme der Fassung 1.0.0. Die Überarbeitung der Prompts für Fassung 1.0.1 ist im anschließenden Abschnitt 7 dokumentiert.
+Die Abschnitte 1 bis 6 dokumentieren die Erstabnahme der Fassung 1.0.0. Die Überarbeitung der Prompts für Fassung 1.0.1 ist in Abschnitt 7 dokumentiert, die Erweiterung auf sechs Akten in Fassung 1.1.0 in Abschnitt 8.
 
 ## 1. Umfang und Abgrenzung
 
@@ -71,3 +71,33 @@ Das unabhängige [Gegenlesen mit vier konkreten Fallwegen](prompt-redaktionsprue
 Die Lesefassungen wurden mit Times New Roman 11 pt gesetzt. Alle Werkstattseiten wurden visuell kontrolliert, der Mini-Prompt vollständig in Seitenansicht gelesen und die von der Schlusskorrektur betroffenen Seiten erneut angesehen. Die Text- und Glyphenprüfung findet keinen Inhaltsverlust; die Koordinatenprüfung findet keinen Text außerhalb der Seitenränder. Die [abschließende Paketprüfung](prompt-paket-tests-1.0.1.txt) besteht mit zehn von zehn Tests, einschließlich Quellenidentität, allen 24 Assets, Prüfsummen und den unveränderten Testakten. Die Arbeitsdokumente der vier Testakten sind unverändert. Parallel auf main ergänzte Navigationslinks in den Übersichten wurden übernommen. Die Paketprüfung erkannte dabei relative Rückverweise, die im eigenständig entpackten Plugin ins Leere führen würden; diese wurden auf vollständige Repository-Links umgestellt. Beide Plugin-ZIPs und ihre Prüfsummen wurden anschließend neu gebaut und alle zehn Pakettests nochmals erfolgreich ausgeführt.
 
 Manifest-, Marketplace-, Frontmatter-, Aktivierungs-, Markdown-, Übersichts-, Download- und Qualitätsprüfungen wurden durchgeführt. Die elf Tests zur gezielten Release-Zuordnung bestehen. Die Komponentenversion beträgt einheitlich 1.0.1; Pluginziele werden aktualisiert, die bisherigen Aktenziele bleiben erhalten. Das Gesamtrelease v445.35.3 bleibt unverändert.
+
+## 8. Zwei zusätzliche Alltagsakten und Landesrecht in 1.1.0
+
+Prüfstand 16.10.2026. Die Akten Hagedorn in Hessen und Finkbeiner in Baden-Württemberg enthalten jeweils 34 Originaldateien: acht DOCX, zwölf PDF, zwölf EML und zwei XLSX. Mit den vier erhaltenen Akten umfasst das Angebot 132 Originaldateien und 170 Gesamt-PDF-Seiten. Die beiden zusätzlichen Gesamtakten haben 45 und 46 Seiten. Die Originaldateien und Gesamt-PDFs der vier bisherigen Fälle sind gegenüber der Ausgangsfassung unverändert.
+
+Hagedorn verbindet längere Absonderung, widersprüchliche Dienstberichte, behauptete körperliche Übergriffe, medizinische Dokumentationslücken und einen unzureichenden früheren Antrag. Finkbeiner verbindet erforderlichen Schutz bei Suizidgefahr mit der gesonderten Prüfung seiner Durchführung, wechselnder Mehrfachbelegung und abweichenden Raumangaben. Frühere anwaltliche Eingaben und knappe gerichtliche Entscheidungen sind kritisch auszuwerten. Die jeweiligen Fortführungsentwürfe sind ausgearbeitet, enthalten aber ausdrücklich offene Tatsachen- und Antragsfelder. Es gibt keine als bearbeitbare Akte getarnte Musterlösung. Anlagen A1 bis A12 sind mit den tatsächlichen Dateien und Excel-Listen abgeglichen.
+
+### 8.1. Fachliche Prüfung und Grenzen
+
+Der [Quellenbericht](erweiterung-1.1.0-quellen.md) dokumentiert neun zusätzlich gelesene amtliche Entscheidungen, Randnummern, Aussagegrenzen und Abrufhashes. Die Referenzen enthalten zusammen 27 Entscheidungsanker. Die Werkstatt integriert 26 Anker unmittelbar in ihre Prüfwege; die bisherigen 17 bleiben erhalten. Drei der neuen Entscheidungen wurden zusätzlich anhand der gesicherten amtlichen Randnummern unabhängig gegengelesen: 2 BvR 1111/13, Rn. 29–36; 2 BvR 1763/16, Rn. 39–43; 2 BvR 116/23, Rn. 20–24.
+
+Hessens und Baden-Württembergs aktuelle Gesetzestexte wurden zu den konkret einschlägigen Vorschriften gelesen. Die unterschiedlichen Zustimmungsschwellen, ärztlichen Beteiligungen und Belegungsregeln bleiben getrennt. Echte HVV- und VV-JVollzGB-Nachweise sind mit ihrem historischen Prüfstand versehen; ihre vollständige unveränderte Geltung 2026 wird nicht behauptet. Der Wegweiser benennt die Gesetze aller 16 Länder, unterscheidet aber die sechs vertieft geprüften Länder von den zehn Rechercheeinstiegen.
+
+Die [redaktionelle Durchlaufprüfung](fachredaktion-selbsttest-1.1.0.md) arbeitet beide Akten mit Mandatsauftrag, Vorantrag und Folgeentwurf durch. Ein unabhängiges Gegenlesen der neuen rechtlichen Aussagen in den beiden Entwürfen, elf Skills und drei Prompts ergab keine konkrete Überdehnung. Untersuchungshaft, Maßregelvollzug und Amtshaftung bleiben bei ihren jeweiligen Ankern erkennbar. Dies ist eine redaktionelle Anwendungsprüfung; ein autonomer Modelllauf, Live-Import oder eine Gerichtsübermittlung wird nicht behauptet. Das Prüfprofil enthält sieben Szenarien mit 33 konkreten Kriterien.
+
+### 8.2. Dokumente, Tabellen und Lesefassungen
+
+Die [native Aktenprüfung](erweiterungsakten-pruefung.json) erfasst 44 Darstellungen mit 67 Seiten: 24 Original-PDFs, 16 Word-Lesefassungen und vier Excel-Lesefassungen. Alle Seiten wurden visuell kontrolliert. Die vier zusätzlichen Arbeitsmappen enthalten 16 Blätter mit sichtbaren Erläuterungen, echten Datumswerten, berechneten Formeln und geprüften Ergebnissen nach einer Eingabeänderung. Lücken werden nicht als Nullwerte ausgegeben.
+
+Die 24 zusätzlichen [E-Mail-PDF-Seiten](email-sichtpruefung-1.1.0.json) wurden gesondert gerendert und visuell geprüft; die Koordinatenprüfung fand keine Randverletzung. Die MIME-Anhänge entsprechen bytegenau den jeweiligen Aktenstücken. Die Gesamt-PDFs bestehen aus genau den veröffentlichten Einzel-PDF-Seiten, ohne zusätzliche Warnseite; die zweisprachigen Hinweise stehen bei den Downloads und in den ZIP-README-Dateien.
+
+Die Werkstatt umfasst 11.793 Wörter und 27 Seiten. Mini und Hauptproblem haben jeweils drei Seiten und 7.479 beziehungsweise 7.489 UTF-8-Bytes. Alle drei MD/TXT-Paare sind byteidentisch. Times New Roman 11 pt wird in den Prompt-Lesefassungen verwendet. Die unabhängige [Sichtprüfung aller 33 Promptseiten](prompt-sichtpruefung-1.1.0.json) ergab keine abgeschnittenen Inhalte, verwaisten Überschriften oder leeren Seiten. [Umfang und Hashes](umfang.json) halten den endgültigen Stand fest.
+
+### 8.3. Paketprüfung und Downloadkontinuität
+
+Die [Paketprüfung](paket-tests-1.1.0.txt) besteht mit 13 von 13 Tests. Sie prüft 30 Release-Dateien, Prüfsummen, Quellenidentität beider Pluginpakete, sämtliche Originaldateien, MIME-Anhänge, Formelergebnisse und die exakte Seitenidentität zwischen Einzel- und Gesamt-PDFs. Die zusätzliche Zahlenprüfung berücksichtigt das in Excel tatsächlich gewählte Anzeigeformat, damit ein binärer Rechenrest wie 8.709999999999999 bei einer zweistelligen Anzeige korrekt gegen 8.71 geprüft wird. Ein Negativtest stellt sicher, dass ein abweichender sichtbarer Wert weiterhin erkannt wird.
+
+Eine letzte redaktionelle Präzisierung wurde durch den Paketvergleich als veralteter ZIP-Inhalt erkannt; beide Pluginpakete und Prüfsummen wurden danach erneuert. Relative Rückverweise auf außerhalb des Pluginpakets liegende Akten wurden durch vollständige Repository-Links ersetzt. Die abschließende Paketprüfung bestätigt die korrigierten Fassungen.
+
+Alle 1.052 vorherigen Akten-ZIP-Ziele der zentralen Übersicht bleiben erhalten. Zwei durch die wachsende alphabetische Aktenliste sonst verschobene Fälle wurden nach Abgleich mit den tatsächlich veröffentlichten Assets auf ihre bestehenden Release-Adressen festgelegt. Vier zusätzliche Akten-ZIP-Ziele führen zu 1.1.0. Die 47 Navigationstests und elf Tests zur Release-Zuordnung bestehen. Frontmatter-, Aktivierungs-, Markdown-, Plugin-, Marketplace-, Übersichts-, Download- und Qualitätsprüfungen werden mit dem finalen Bestand ausgeführt. Das Komponentenrelease ersetzt keine früheren Archive und ändert nicht das Gesamtrelease v445.35.3.

@@ -1,0 +1,177 @@
+{
+  "checked_on": "2026-10-16",
+  "component_version": "1.1.0",
+  "method": "Alle 24 E-Mail-PDF-Seiten mit Poppler gerendert und in sechs Kontaktbögen visuell angesehen; zusätzliche Koordinatenprüfung mit pdfplumber. Kein eigenständiger fachlicher Quellenabgleich durch diese Darstellungsprüfung.",
+  "pages": 24,
+  "visual_findings": [],
+  "files": [
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "21_Unterlagen_meines_Bruders.pdf",
+      "sha256": "7215831badad636f557e5e3e320a9c5df34ebad9d6e631dd1dfd453c6985468c",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "22_Beschluss_im_vorlaeufigen_Verfahren.pdf",
+      "sha256": "e4ee41cfebfbc4c3825f28d14c738652a0129596da14f5b25838b8ac673e5818",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "23_Fortdauer_und_fehlender_Empfangseintrag.pdf",
+      "sha256": "baa2fe90d0d098b428346dcdcee727551db54810f844164747f9543725fe3110",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "24_Teilakte_und_gesonderte_Einwilligung.pdf",
+      "sha256": "15a17d230dfd0403c2572c59ed5fa3e10f4022822a8e9f3ec54af32dcb78ce7a",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "25_Kontaktangebot_ausserhalb_der_bisherigen_Gruppe.pdf",
+      "sha256": "e0a96cd8a287c0a390006614e8f9e48fb424e8e2b700f0b3bc7020a08626ab9b",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "26_Raumblatt_S_4.pdf",
+      "sha256": "d5884b81acbbba4418826883da2640d1952014577c4b663f61ede9c3071e5662",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "27_Ergaenzung_zur_Uebergabe_vom_September.pdf",
+      "sha256": "e2d121b8d751cddcf05c90ed4f4a296d68158c46f5074fdbfba4b5c64037333c",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "28_Bitte_um_Sicherung_der_vorhandenen_Unterlagen.pdf",
+      "sha256": "7e26e8c261581924c710c01a5fa03359e089eea8f0a1ea790c70492915891f09",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "29_Eingang_Ihrer_Sicherungsbitte.pdf",
+      "sha256": "f3cde7be62d0516d68b25d70306d7ff50815e7b7836678ae08d26e7ea36b1299",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "30_Vollmacht_und_Termin_mit_Herrn_Hagedorn.pdf",
+      "sha256": "df5474e217cd421a82e8cd96d0f0e706b24922afb2780d5fa5614e17ff8da2eb",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "31_Korrektur_zu_unserem_Telefonat.pdf",
+      "sha256": "2d8e8d362f4a228c07e8fe0054e0a3d6c69d5a5b5f07780106d801c40c8802ca",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-hessen-absonderung-hagedorn",
+      "file": "32_Uebergabe_und_ergaenzende_Dateiliste.pdf",
+      "sha256": "d830a28e8dd6845ffd667add5ded2d7937eab978b14d7ad66cd9276d7fae8906",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "21_Bitte_um_Hilfe_fuer_meine_Frau.pdf",
+      "sha256": "7f3018634bf6d00830cc5da64279a48f7b2da0801be23a3913577ba2556a25e7",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "22_Aufmass_B_12_und_aelterer_Planstand.pdf",
+      "sha256": "aeb7b377b5488ab91551694df00908fd060c95b2629906107f89bef59ad70423",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "23_Zeitweilige_dritte_Belegung.pdf",
+      "sha256": "28e46d46ca24e8ab3bb08a0e69caecb4309e06d6422e44d96ad5e2558ee30ef5",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "24_Mitteilung_und_vollstaendige_Behandlungsunterlagen.pdf",
+      "sha256": "467eb969d27ac1fc7520799892599fcb3ea88186845c6ea1747249521d1333a4",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "25_Entscheidung_zum_Eilverfahren.pdf",
+      "sha256": "d97bf8fa0428e01815e9723d14928ab60f7695dae89b1136eed9f6a046c946d2",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "26_Meine_Schaetzung_war_keine_Messung.pdf",
+      "sha256": "acc056a44826cd02abf2149b463d4c12fce3ceee6457d38282cec7dad5f571db",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "27_Ausgabe_von_Ersatzmaterial.pdf",
+      "sha256": "a87b887896be64d35caf4d184c90d3654c6159ef344c117f851c0e65cb44afbf",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "28_Konkrete_Unterlagen_und_aktueller_Stand.pdf",
+      "sha256": "4646ded750456a5297988e73351ce3099f09968d5684029e9a6bfb78c88cb459",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "29_Zwischennachricht_zu_Ihrer_Anfrage.pdf",
+      "sha256": "5d6d6d816538f168648515edb2c894e8cef4d77d9cf108c2215253f508743f57",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "30_Vollmacht_und_noch_offene_Rueckfragen.pdf",
+      "sha256": "aba4f51a173feb9ffe3ea478435fb94d293a2a99ca4d6ed07624d1bc2eda087e",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "31_Arbeitsuebersicht_Belegung_und_Oeffnungszeiten.pdf",
+      "sha256": "c4b5d76490db6d53dd582f21961421b88d888fbb75016db010170db7e9209116",
+      "pages": 1,
+      "outside_page_margin": []
+    },
+    {
+      "case": "jva-bw-schutzmassnahmen-finkbeiner",
+      "file": "32_Aktenwechsel_und_chronologische_Uebersicht.pdf",
+      "sha256": "3ed308755c604dc01a8d49c56ba7df566f5e1f94ad11cbee25bc5c10d1050f3e",
+      "pages": 1,
+      "outside_page_margin": []
+    }
+  ]
+}

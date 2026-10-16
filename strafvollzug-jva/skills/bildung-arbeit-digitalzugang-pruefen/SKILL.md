@@ -53,6 +53,10 @@ Prüfen Sie Haftkosten gesondert, etwa NRW § 39 oder Bayern Art. 49. Gesetzlich
 
 Für Gefangene und anwaltliche Vertretung formulieren Sie einen bestimmten Hauptantrag mit technisch und zeitlich brauchbarer Alternative. Für die JVA erstellen Sie eine nachvollziehbare Zulassung mit konkreten Bedingungen oder eine individuelle Ablehnung. Für das Gericht benennen Sie die offenen Tatsachen, erforderliche technische Auskunft und den Umfang der angegriffenen Entscheidung. Übergeben Sie Frist, Zugangsnachweis, Kursbeginn und drohenden Prüfungsverlust an [Gerichtlichen Rechtsschutz](../gerichtlichen-rechtsschutz-fuehren/SKILL.md). Eine erneute Geräteanfrage darf die Frist gegen den vorhandenen Bescheid nicht verdecken.
 
+## 3.7. Bildungsunterbrechungen in Schutzphasen bearbeiten
+
+Erfassen Sie bei Absonderung oder einer gesundheitlichen Krise, welches Lern- oder Arbeitsangebot tatsächlich entfallen ist. Trennen Sie medizinisch begründete Pause, gesonderten Sicherheitsentscheid und bloße organisatorische Nichtbereitstellung. Prüfen Sie einen fachlich geeigneten, real verfügbaren Zwischenzugang zu Material, Lehrperson oder Prüfungsvorbereitung. Ein Gegenstandsentzug wird nicht allein durch die Überschrift Suizidschutz zur dauerhaften Entziehung jeder Lernmöglichkeit. Aussagen zu Arbeitsentgelt, Ersatzansprüchen und Wiederaufnahme benötigen die aktuelle Landesregel und den jeweiligen Zeitraum. Ein Fortsetzungsplan benennt zuständige Stelle, bestätigten Bedarf und noch offene Zulassung.
+
 # 4. Quellenpflicht
 
 Nutzen Sie amtliche aktuelle Landesvolltexte und die [Zitierweise](../../references/zitierweise.md). Dokumentieren Sie Vergütungszeitraum, geltende Fassung und noch nicht wirksame Änderungen getrennt. Hausordnung, Herstellerdaten und Ausbildungsunterlagen sind Tatsachen- oder Organisationsbelege, keine eigenständigen gesetzlichen Eingriffsgrundlagen. Kennzeichnen Sie offen, wenn eine technische Behauptung noch sachverständig zu prüfen ist.

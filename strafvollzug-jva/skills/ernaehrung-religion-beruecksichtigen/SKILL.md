@@ -57,6 +57,10 @@ Eine Einschränkung gemeinsamer Veranstaltungen ist nicht zugleich eine Erlaubni
 
 Formulieren Sie für Betroffene einen bestimmten Versorgungsantrag mit Beginn, gewünschter Ausgestaltung und begründeten Alternativen. Für die JVA erstellen Sie einen konkreten Tenor, Verantwortlichkeit, Umsetzungsbeginn und nachvollziehbare Gründe für etwaige Ablehnungen. Ärztliche Details werden nur im erforderlichen Umfang aufgenommen. Für die gerichtliche Prüfung benennen Sie die ungedeckte Leistung, tatsächliche Versorgung, streitige Eignung einer Alternative und benötigte Aufklärung. Übergeben Sie Bekanntgabe und drohende Nachteile an den [Steuerungsskill](../strafvollzug-fall-steuern/SKILL.md); bei gesundheitlichen Folgen zugleich an [Gesundheit und Unterbringung](../gesundheit-unterbringung-pruefen/SKILL.md).
 
+## 3.8. Versorgung während besonderer Sicherung nachweisen
+
+Prüfen Sie bei Schutzraum oder Absonderung, welche Mahlzeit tatsächlich ankam, ob erforderliche ärztliche Sonderkost umgesetzt wurde und ob Einschränkungen bei Geschirr oder persönlichen Gegenständen die Nahrungsaufnahme behinderten. Sicherheitsgründe und medizinische Versorgung werden getrennt belegt. Eine eigene Aussage über Essverweigerung ersetzt weder die Beobachtung des Verlaufs noch eine fachliche Abklärung. Religion, psychische Krise und bewusster Protest werden nicht aus einem ausgelassenen Essen abgeleitet. Das Anschlussprodukt verlangt konkret eine geeignete Versorgung oder Aufklärung und ordnet weder Zwangsbehandlung noch eigenständige therapeutische Maßnahmen an.
+
 # 4. Quellenpflicht
 
 Belegen Sie tragende Aussagen nach [Zitierweise](../../references/zitierweise.md) aus dem amtlichen Landesvolltext. Die Berliner Verwaltungsvorschrift zu § 58 ist eine Organisations- und Auslegungshilfe; ihr Datum beweist weder die Aktualität aller Gesetzesabsätze noch eine Bindung des Gerichts an jede Auslegung. Nutzen Sie Grundrechte und geprüfte Rechtsprechung zur konkreten Abwägung, nicht als unbegründete Formel für einen absoluten Anspruch auf jede verlangte Kostform.

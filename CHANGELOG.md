@@ -1,3 +1,9 @@
+# strafvollzug-jva-v1.1.0 – 2026-10-16
+
+Zwei lebensnahe Akten aus Hessen und Baden-Württemberg ergänzen den Bestand um 68 Originaldateien. Sie verbinden Absonderung, streitige Gewaltvorwürfe, Suizidprävention, Schutzmaterial, Raum- und Belegungsdaten mit früheren anwaltlichen Anträgen, gerichtlichen Beschlüssen und bearbeitbaren Folgeentwürfen. Die vier bisherigen Akten bleiben erhalten.
+
+Elf Skills, Werkstatt und kompakte Prompts vertiefen die Prüfung von Landesrecht, Fortdauer, Beweisen und gerichtlicher Aufklärung. Der Landeswegweiser trennt amtlich gelesene aktuelle Normen, Rechercheeinstiege und historische Verwaltungsvorschriften. Zusätzliche Entscheidungsanker erläutern ihre konkrete Tragweite und Grenze. Sechs Akten, 132 Originaldateien und 30 Release-Dateien werden mit Quellen, Anhängen, Tabellen und Lesefassungen abgestimmt.
+
 # untersuchungshaft-v1.1.0 – 2026-10-16
 
 Werkstatt-Prompt mit dreizehn eingeordneten Entscheidungen, konkreten Rückfragen und Folgeanträgen vertieft. Elf amtliche BVerfG-Originale und zwei sekundär abgeglichene BGH-Beschlüsse bleiben im Quellenstatus unterscheidbar. Nichtannahme, verspätete Haftprüfung und offengelassene Auflagenfragen werden nicht in automatische Entlassungsansprüche umgedeutet.

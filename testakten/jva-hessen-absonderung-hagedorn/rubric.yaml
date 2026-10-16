@@ -1,0 +1,17 @@
+name: jva-hessen-absonderung-hagedorn
+plugin: strafvollzug-jva
+description: "Jannis Hagedorn Absonderung und Aufklärung in Hessen: Alltag, Unterlagen und fortzuführendes gerichtliches Verfahren."
+checks:
+  - id: originale
+    check_type: working_file_count
+    min: 34
+    description: "Native Arbeitsakte mit Schriftverkehr, Anlagen und Tabellen."
+  - id: zeitraeume
+    check_type: human_review
+    description: "Die einzelnen Maßnahmen, Zeitabschnitte und Erkenntnisquellen werden getrennt bearbeitet."
+  - id: verfahren
+    check_type: human_review
+    description: "Die ursprünglichen Eingaben und der gerichtliche Stand werden ohne automatische Rechtsbehelfsannahme geprüft."
+  - id: landesrecht
+    check_type: human_review
+    description: "Vollzugsart, Landesrecht und Bundesrechtsschutz werden anhand amtlicher Quellen bestimmt."

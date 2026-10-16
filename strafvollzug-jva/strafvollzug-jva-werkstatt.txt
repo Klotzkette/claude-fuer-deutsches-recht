@@ -32,6 +32,14 @@ Unterscheiden Sie Strafvollzug und Strafvollstreckung. Eine Besuchsbeschränkung
 
 Für das materielle Strafvollzugsrecht sind die geltenden Landesvorschriften zu ermitteln. Das Bundes-Strafvollzugsgesetz ist kein unverändert bundesweit anwendbarer Anspruchskatalog für alle Alltagsfragen. Die bundesrechtlichen Verfahrensregelungen sind davon zu unterscheiden. Prüfen Sie bei jeder Quelle Gesetzestitel, konkrete Vorschrift, Fassung, Anwendungszeitpunkt und Zusammenhang mit landesrechtlichen Verweisungen.
 
+### 2.1. Landesgesetz, Verordnung und Verwaltungsvorschrift einordnen
+
+Erstellen Sie eine Rechtskarte für den konkreten Zeitraum. Sie enthält Landesgesetz und einschlägigen Teil, Änderung beziehungsweise Inkrafttreten, die tatsächlich anwendbare Rechtsverordnung oder Verwaltungsvorschrift und die verwendete Hausregel. Jede Quelle erhält ihren Rechtsrang. Eine Dienstanweisung kann Abläufe und Zuständigkeiten konkretisieren; sie schafft keine fehlende gesetzliche Befugnis zum Entzug von Rechten. Eine Rechtsverordnung ist nur mit passendem Geltungsbereich und gesetzlicher Ermächtigung heranzuziehen. Erfinden Sie keine allgemeine „Durchführungsverordnung zum Strafvollzugsgesetz“, wenn für den Streitpunkt nur ein Gesetz und besondere Ausführungsvorschriften existieren.
+
+Beachten Sie insbesondere die Trennung zwischen Erwachsenenstrafhaft und Jugend-, Untersuchungs- oder Maßregelvollzug. Ein Dokument über alle Anstalten kann nur eine organisatorische Frage regeln, während die Befugnis für die konkrete Maßnahme weiterhin aus dem einschlägigen Landesgesetz stammen muss. Verwaltungsvorschriften eines anderen Landes sind kein Ersatz für den fehlenden eigenen Normtext. Ist ein Erlass nicht zugänglich, kennzeichnen Sie diese Lücke und verlangen genau diesen Text; verzichten Sie auf die davon abhängige Detailbehauptung.
+
+Bei einer Verlegung oder einem älteren Belegungsabschnitt führen Sie getrennte Rechtskarten. Prüfen Sie, ob eine Maßnahme neu angeordnet, lediglich fortgeführt oder rechtlich anders eingeordnet wurde. Die günstigste Regel eines fremden Landes wird nicht ohne Rechtsgrundlage in den Fall importiert. Umgekehrt verhindert eine Landesabweichung nicht die gemeinsame Prüfung von Grundrechten und Menschenwürde.
+
 ## 3. Rollenklarheit herstellen
 
 Aus Gefangenen- oder Anwaltssicht werden tatsächliches Begehren, erreichbares Ziel und belegte Gründe herausgearbeitet. Erklären Sie Fachbegriffe verständlich, ohne die Rechtsposition abzuschwächen. Bieten Sie bei Bedarf einen kurzen Antrag in einfacher Sprache und daneben die fachliche Begründung an. Angehörige können Tatsachen beitragen; daraus entsteht weder automatisch Vertretungsmacht noch ein eigener Rechtsbehelf gegen jede Maßnahme.
@@ -59,6 +67,14 @@ Bei Excel-Ausgaben erläutern Sie die Blätter, Datumsfelder und Statuswerte. Ve
 Lesen Sie bei einem ablehnenden Bescheid zunächst den Antrag, auf den er antwortet. Prüfen Sie, ob der Antrag später geändert wurde und ob die Ablehnung überhaupt das zuletzt verlangte Ziel betrifft. Erfassen Sie jede tragende Tatsachenbehauptung in der Form: „Am [Datum] geschah [Vorgang]; hierzu nennt [Person] die Anlage [Kennung, Seite]; die Gegenseite bestreitet [konkreter Punkt].“ Die interne Tabelle darf knapp sein, der fertige Antrag muss den Zusammenhang ausformulieren.
 
 Bei längeren Akten dienen vier getrennte Tabellenblätter: Vorgänge, Belege, Fristen und offene Aufgaben. Die Fristenliste enthält Rechtsgrundlage und Zugangsnachweis; die Aufgabenliste enthält eine zuständige Person und den nächsten Nachweis. Eine Erinnerungsfrist ist sichtbar von einer gesetzlichen Frist zu unterscheiden. Exportieren Sie nur tatsächlich vorhandene Anlagen. Wenn ein Dokument angekündigt, aber nicht beigefügt ist, lautet der Status „angefordert“ und nicht „Anlage vorhanden“.
+
+### 4.2. Schlechte Voranträge als Beweismittel und Verfahrenshandlung behandeln
+
+Lesen Sie einen früheren Anwaltsschriftsatz in zwei Funktionen: Was behauptet er über den Sachverhalt, und welche Erklärung wurde damit gegenüber welcher Stelle abgegeben? Prüfen Sie die tatsächlich versandte Fassung samt Anlagen und Eingang. Ein unsignierter Entwurf im Ordner beweist keine Antragstellung. Ein anwaltlicher Satz beweist weder die behauptete Raumgröße noch eine erfolgte ärztliche Untersuchung. Bewahren Sie das Original unverändert; eine neue Arbeitsfassung bekommt einen anderen Namen.
+
+Erstellen Sie eine Korrekturmatrix mit höchstens vier Spalten: bisherige Aussage, maßgeblicher Originalbeleg, Fehler oder offene Frage, nötige nächste Erklärung. Typische Fehler sind ein falsches Landesgesetz, ungeprüfte Übertragung von Maßregelrecht, unklare Maßnahme, nicht beigefügte Belege, falsche Belegungszahl oder die Annahme einer Fristhemmung durch eine Aufsichtseingabe. Prüfen Sie auch, ob ein missverständlicher Antrag anhand der gesamten Erklärung ausgelegt werden kann, statt ihm allein wegen schlechter Überschrift jede Wirkung abzusprechen.
+
+Das Folgeprodukt ist eine fristbewusste Klarstellung, Ergänzung oder ein gesonderter passender Antrag. Es ist keine pauschale Abrechnung mit dem Vorgänger. Verfahrenswirkungen einer Rücknahme, Änderung oder Erledigung werden vor der entsprechenden Erklärung geprüft. Ein Beratungsfehler begründet weder automatisch Wiedereinsetzung noch eine feststehende Haftung. Erläutern Sie offen, welche Wirkung noch geklärt werden muss, und bearbeiten Sie den gegenwärtigen Schutzbedarf sofort weiter.
 
 ## 5. Frist und Dringlichkeit zuerst sichern
 
@@ -178,6 +194,36 @@ Als Folgeprodukte kommen ein kurzfristiger Untersuchungsantrag, eine Umsetzungse
 
 Erfassen Sie Empfänger, Inhalt, Zweck und Anlass der Mitteilung. Trennen Sie den Versorgungsantrag vom Rechtsschutz gegen eine Datenweitergabe. Der Entwurf erläutert, welche rechtliche oder tatsächliche Frage noch aufzuklären ist. Eine Inhaftierung führt nicht automatisch zur Bewilligung von Prozesskostenhilfe; deren persönliche und rechtliche Voraussetzungen bleiben zu prüfen.
 
+### 11.3. Suizidschutz als zeitabhängige Schutz- und Versorgungsaufgabe prüfen
+
+Aus Aktenhinweisen auf Selbstgefährdung folgt zunächst der Auftrag, erreichbare fachliche Hilfe und aktuelle Versorgung zu klären. Leiten Sie daraus keine Krise des Nutzers ab, wenn lediglich eine Übungsakte bearbeitet wird. Der rechtliche Arbeitsauftrag entscheidet nicht selbst über Behandlung, Entzug, Beobachtungsintensität oder Rückgabe. Gefragt wird, wer auf welcher tatsächlichen Grundlage zuständig entschieden hat, welche medizinische Beteiligung gesetzlich erforderlich war und was tatsächlich erfolgte.
+
+Erfassen Sie für Gürtel, Bettlaken, Kleidung, Gegenstände und Kontakte jeweils gesondert Anlass, Beginn, Anordnende, fachliche Einschätzung, bereitgestellte Alternative, Überprüfung und Ende. Ein dokumentierter Gefahrenhinweis ist ernst zu nehmen; er rechtfertigt nicht ohne weitere Prüfung jede Kombination von Maßnahmen für beliebige Dauer. „Arzt informiert“, „Arzt hat untersucht“ und „Arzt hat die Fortdauer fachlich beurteilt“ sind verschiedene Aussagen. Die Akte muss zeigen, welche davon belegt ist.
+
+Prüfen Sie den tatsächlich nutzbaren Schutz: menschlicher Kontakt, erreichbare Hilfe, Wärme, Schlafmöglichkeit, Sichtschutz und Versorgung. Eine Alternative darf nur vorgeschlagen werden, wenn deren fachliche Eignung geklärt oder ausdrücklich zur Klärung gestellt wird. Machen Sie keine Anleitung zur Selbstgefährdung und keine Vorschläge zur Umgehung notwendiger Sicherung. Das konkrete Schreiben verlangt aktuelle fachliche Beurteilung, rechtmäßige Ausstattung und eine nachvollziehbare Entscheidung über Fortdauer oder Abmilderung; es fordert nicht reflexhaft die sofortige ersatzlose Rückgabe aller Gegenstände.
+
+### 11.4. Misshandlungsvorwürfe ohne Vorverurteilung bearbeiten
+
+Führen Sie Ereignisprotokoll, zeitnahe Beschwerde, Verletzungsbefund, Zeugenaussage und spätere Bewertung getrennt. Fragen Sie nach Ort, Zeit und Wahrnehmungsmöglichkeit. Wer hat den Vorgang selbst gesehen, wer nur Geräusche gehört und wer lediglich später eine Verletzung bemerkt? Eine ärztlich festgestellte Verletzung beweist nicht allein ihren Urheber. Ein fehlender späterer Befund widerlegt nicht zwingend einen früheren Vorfall. Die Diagnose einer Person ist kein pauschales Glaubwürdigkeitsurteil.
+
+Sichern Sie rechtmäßig vorhandene Belege mit Herkunft und Datum: Einsatzbericht, Übergabeprotokoll, gezielte Gesundheitsunterlagen, vorhandene Aufzeichnung, Beschwerdeeingang und Angaben erreichbarer Zeugen. Verlangen Sie bei erkennbarer Verlustgefahr zeitnah die Sicherung genau bestimmter Daten; erfinden Sie keine allgemeine Löschungsfrist. Verändern Sie Originaldateien nicht. Erlauben die Unterlagen nur eine Verdachtsdarstellung, bleibt sie als solche kenntlich.
+
+Trennen Sie die nächsten Produkte. Versorgung und Schutz vor einer fortdauernden Belastung können unmittelbar erforderlich sein. Gerichtliche Kontrolle der Vollzugsmaßnahme folgt ihrem eigenen Weg. Eine strafrechtliche Prüfung, ein Ermittlungsanstoß, Aufsicht und mögliche Ersatzansprüche sind andere Aufträge mit eigenen Zuständigkeiten. Keine dieser Eingaben ersetzt automatisch die anderen oder wahrt deren Fristen. Benennen Sie eine sichere, berechtigte Kommunikationsmöglichkeit zur Vertretung; vertrauliche Gesundheitsdaten gehen nur an erforderliche Empfänger.
+
+### 11.5. Drei Entscheidungsanker für Schutz und Aufklärung
+
+**BVerfG, Beschluss vom 18.03.2015, Az. 2 BvR 1111/13, Rn. 29–36:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/03/rk20150318_2bvr111113.html). **Trägt:** Jede kumulierte Sicherungsmaßnahme benötigt eine eigenständige Begründung. Eine pauschal aus randalierendem Verhalten abgeleitete Selbstgefährdung rechtfertigte im damaligen Fall nicht vollständige Entkleidung und dauernde Beobachtung; Ersatzbekleidung und Intimsphäre waren gesondert zu beachten. **Trägt nicht:** Ein generelles Verbot notwendiger Gegenstandswegnahme oder eine medizinische Aussage zur sicheren Verwendung normaler Bettwäsche. Der damalige § 88 Bundes-StVollzG ist keine aktuelle Ermächtigung in Hessen oder Baden-Württemberg.
+
+Verwenden Sie den Anker bei Finkbeiner für getrennte Fragen nach Gürtelentzug, Bettlakenentzug, Ersatzversorgung und Fortdauer. Ein Formular für eine Maßnahme beweist weder die Notwendigkeit noch die rechtmäßige Durchführung aller weiteren Beschränkungen. Der Antrag verlangt für die offen gebliebenen Teile eine konkrete fachliche und rechtliche Entscheidung.
+
+**BVerfG, Beschluss vom 24.01.2008, Az. 2 BvR 1661/06, Rn. 34–43:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/01/rk20080124_2bvr166106.html). **Trägt:** Gerichtliche Kontrolle verlangt belastbare Feststellungen zur Gefahr, zeitnahe fachliche Untersuchung und Prüfung weniger belastender Alternativen. Der Hinweis auf übliche Ausstattung eines Sicherungsraums ersetzt die konkrete Prüfung nicht. **Trägt nicht:** Übernahme damaligen Untersuchungshaftrechts als heutige Landesbefugnis oder eine aktuelle medizinische Entwarnung aufgrund einer früheren Empfehlung.
+
+Fragen Sie, welche Alternative für diese Person zu diesem Zeitpunkt fachlich erwogen wurde. Bezeichnen Sie eine lediglich denkbare Ausstattung nicht als tatsächlich verfügbar oder medizinisch geeignet. Bei einer fehlenden persönlichen Untersuchung entsteht zunächst ein gezieltes Abklärungsbegehren; die KI stellt keinen eigenen Befund her.
+
+**BVerfG, Beschluss vom 15.01.2020, Az. 2 BvR 1763/16, Rn. 34–43:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/01/rk20200115_2bvr176316.html). **Trägt:** Gewichtigen Vorwürfen gegen Amtsträger im staatlichen Gewahrsam kommt im Rahmen effektiver strafrechtlicher Sachaufklärung besonderes Gewicht zu; Rn. 40 nennt ausdrücklich den Strafvollzug. **Trägt nicht:** Schuldvermutung gegen Beschäftigte, Anspruch auf bestimmte Verurteilung oder automatisch zulässige Klageerzwingung. Der Ausgangsfall betraf psychiatrische Fixierung.
+
+Für Hagedorn werden daraus konkrete Ermittlungsfragen zu zeitnahen Verletzungsbefunden, Einsatzunterlagen, Zeugen, abweichenden Darstellungen und vorhandenen Aufzeichnungen. Trennen Sie dieses Ermittlungsbegehren vom gerichtlichen Antrag gegen die fortdauernde Absonderung. Weder die Einleitung eines Ermittlungsverfahrens noch dessen Ausbleiben entscheidet allein über die Rechtmäßigkeit der aktuellen Sicherung.
+
 ## 12. Haftraum, Hygiene und Aufenthalt im Freien
 
 Dokumentieren Sie Fläche, Belegung, Sanitärbereich, Sichtschutz, Belüftung, Tageslicht, Temperatur, Feuchtigkeit und tatsächliche Einschlusszeiten, soweit entscheidungserheblich. Halten Sie Maße und Messmethode nachvollziehbar fest. Ein Foto ist nicht automatisch ein Beweis für die Dauer eines Zustands. Eine aus einem anderen Urteil übernommene Quadratmeterzahl wird nicht als universelle Freigrenze ausgegeben.
@@ -197,6 +243,34 @@ Trennen Sie den Antrag auf aktuelle Abhilfe von einer rückblickenden Feststellu
 ### 12.2. Entscheidungsanker zur Aufklärung von Haftbedingungen
 
 **BVerfG, Beschluss vom 22.03.2016, Az. 2 BvR 566/15, Rn. 17–24:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/03/rk20160322_2bvr056615.html). Trägt: belastbare Sachaufklärung bei substantiiert streitigen Haftraumbedingungen. Trägt nicht: eine universelle Flächenfreigrenze oder sichere Entschädigung allein aus einer übernommenen Raumzahl. Pläne, tatsächliche Maße, Belegung, Sanitärschutz und Tagesablauf gehören zusammen in die Beweisprüfung.
+
+### 12.3. Eine belastbare Raum- und Belegungsrechnung aufstellen
+
+Legen Sie für jeden Zeitraum ein Raumblatt an. Nennen Sie Innenmaße, Berechnung, Messquelle, Sanitärfläche, Personenzahl, Schlafplätze, Möbelanordnung und Datum. Ein historischer Plan vor dem Einbau der Nasszelle ist nicht ohne Anpassung verwendbar. Zeigen Sie Unterschiede zwischen Bruttofläche, Fläche ohne Sanitärbereich und Bewegungsmöglichkeiten. Ein auf eine Person umgerechneter Wert darf nicht unbemerkt auf einer anderen Personenzahl beruhen als die Belegungsliste.
+
+Verbinden Sie die Rechnung mit den tatsächlichen Bedingungen: Einschluss und Aufschluss, erreichbarer Hofgang, Lüftung, Licht, Toilette, Geruch, Geräusche, Schlaf und gesundheitliche Besonderheiten. Eine Hausordnung beweist den vorgesehenen Ablauf; tatsächliche Ausfälle benötigen eigene Belege. Prüfen Sie, ob die geschilderte Wahl einer Gemeinschaftszelle wirklich frei war und was als Alternative angeboten wurde. Eine Erklärung zur Zustimmung legitimiert keine menschenunwürdigen Bedingungen.
+
+Stellen Sie für jede streitige Größe den Aufklärungsantrag präzise: aktueller bemaßter Grundriss, Belegungsliste für den betroffenen Zeitraum, tatsächliche Aufschlussdokumentation oder Angaben zur Toilettenabtrennung. Eine pauschale Bitte, „die JVA zu überprüfen“, lässt den entscheidenden Widerspruch offen. Aus Sicht des Gerichts benennen Sie, welche Tatsache für den Maßstab erheblich ist und weshalb die vorhandene Akte noch keine tragfähige Feststellung erlaubt.
+
+### 12.4. Drei Raumanker mit unterschiedlichen Funktionen
+
+**EGMR, Große Kammer, Urteil vom 20.10.2016, Beschwerde Nr. 7334/13, Muršić gegen Kroatien, Rn. 114 und 136–140:** [amtlicher Volltext](https://hudoc.echr.coe.int/app/conversion/docx/pdf?filename=CASE+OF+MUR%C5%A0I%C4%86+v.+CROATIA.pdf&id=001-167483&library=ECHR&logEvent=False). **Trägt:** Bei Mehrfachbelegung ist die Sanitärfläche für diese Berechnung abzuziehen; Möbelfläche wird grundsätzlich einbezogen, die reale Bewegungsmöglichkeit bleibt erheblich. Unter drei Quadratmetern persönlicher Fläche besteht eine starke Vermutung eines Verstoßes gegen Artikel 3 EMRK. Deren Widerlegung verlangt normalerweise kumulativ kurze, gelegentliche und geringfügige Unterschreitungen, ausreichende Bewegung und Aktivitäten außerhalb sowie ansonsten geeignete Haftbedingungen. Zwischen drei und vier Quadratmetern erhalten weitere Belastungen besonderes Gewicht; auch darüber bleiben sie relevant. **Trägt nicht:** Eine zulässige deutsche Standardzellengröße von drei Quadratmetern, eine Berechnung allein aus Bruttofläche oder eine undifferenzierte Anwendung auf Einzelhafträume.
+
+Rechnen Sie in der Mehrfachbelegungsakte offen vor und ordnen Sie jeden Belegungsabschnitt zu. Vermeiden Sie eine Durchschnittsrechnung über Tage mit verschiedenen Personenzahlen. Neben dem europäischen Maßstab bleibt die nationale Grundrechtsprüfung erforderlich. Ein rechnerisch günstigerer Wert beantwortet weder Sanitärschutz noch eine tatsächlich ungewöhnlich lange Einschlussdauer.
+
+**BVerfG, Beschluss vom 08.12.2020, Az. 1 BvR 117/16, Rn. 13–19:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/12/rk20201208_1bvr011716.html). **Trägt:** In der dortigen Amtshaftungssache war es willkürlich, erheblichen Vortrag und angebotene Beweise zu Raumgröße, Doppelbelegung und Toilettenabtrennung ohne tragfähige Auseinandersetzung zu übergehen. **Trägt nicht:** Gleichsetzung jedes Rechtsfehlers mit Willkür, universelle Flächengrenze oder automatische Geldentschädigung.
+
+Der Arbeitsauftrag lautet deshalb: die tatsächlich übergangene Stelle benennen, den dazu angebotenen Beweis zuordnen und ihre Bedeutung erläutern. Beschreiben Sie nicht allein, dass ein Beschluss sehr kurz sei. Ein Gericht kann knapp begründen und dennoch den entscheidenden Widerspruch beantworten; umgekehrt wird eine lange Normwiedergabe durch Länge nicht zu Sachaufklärung.
+
+**BVerfG, Beschluss vom 07.11.2012, Az. 2 BvR 1567/11, Rn. 1–5:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/11/rk20121107_2bvr156711.html). **Trägt:** Im konkreten hessischen Einzelhaftraumfall waren Raumgröße am unteren Rand und erhebliche Aufenthaltsmöglichkeiten außerhalb gemeinsam zu betrachten. Tatsachen zur Bewegungsfläche und Fenstersituation mussten bereits fachgerichtlich vorgetragen werden. **Trägt nicht:** Einen allgemeinen Freibrief bei sechs Quadratmetern, insbesondere nicht bei Mehrfachbelegung oder langdauernder Isolation. In der Entscheidung referierte ältere Standards sind keine aktuellen Landesbauvorschriften.
+
+Korrigieren Sie deshalb einen schwachen Vorantrag frühzeitig mit konkretem Raumblatt, Belegungszeitraum und tatsächlichem Tagesregime. Versprechen Sie keine spätere Heilung aller Versäumnisse durch eine Verfassungsbeschwerde. Die fehlende vollständige Sachverhaltsermittlung ist eine Arbeitsaufgabe im laufenden Verfahren.
+
+### 12.5. Fehlender Verlegungsantrag bedeutet keinen pauschalen Rechtsverzicht
+
+**BVerfG, Beschluss vom 07.11.2011, Az. 1 BvR 1403/09, Rn. 40–43 und 46–50:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/11/rk20111107_1bvr140309.html). **Trägt:** In der Prozesskostenhilfeprüfung einer Amtshaftungssache durften eine bloße Sichtschutzwand und das Fehlen eines förmlichen Verlegungsantrags die Würdeprüfung nicht ersetzen. Ob unterlassene Rechtsbehelfe den Schaden verhindert hätten, war tatsächlich und zeitlich aufzuklären. **Trägt nicht:** Garantierte Entschädigung oder die Befreiung von erforderlichen Rechtsbehelfen. Die Entscheidung ersetzt keine abschließende Beweisaufnahme.
+
+Erfassen Sie daher Beschwerden, Anträge, erkennbare Reaktionen und möglichen Abhilfezeitpunkt. Prüfen Sie eine angebliche Zustimmung anhand ihres Inhalts und der tatsächlich verfügbaren Wahl. Der Arbeitsgang sichert gegenwärtigen Rechtsschutz; er erklärt nicht rückwirkend jedes Unterlassen für folgenlos.
 
 ## 13. Arbeit, Ausbildung und Weiterbildung
 
@@ -310,6 +384,22 @@ Ermitteln Sie Art, tatsächliche Wirkung, Beginn, Ende und absehbare Dauer der M
 
 Die Entscheidung betrifft den psychiatrischen Maßregelvollzug in Bremen und unzureichend substantiierten Verfassungsvortrag. Sie schafft keine neue bundesweite Regel für Erwachsenenstrafhaft. Klären Sie zunächst den Vollzugsstatus. Übernehmen Sie in einen JVA-Fall nur begründet vergleichbare verfassungsrechtliche Erwägungen; lesen Sie die dortige Landesbefugnis gesondert. Setzen Sie sich mit den tragenden Sicherheitsgründen auseinander und dokumentieren Sie reale Reduktionsmöglichkeiten. Zitierte EGMR-Entscheidungen aus dem Volltext gelten ohne eigenes Lesen nicht als zusätzlich verifizierte Quellen.
 
+### 17.6. Die tatsächliche Isolation statt ihrer Bezeichnung prüfen
+
+Unterscheiden Sie reguläre Einzelunterbringung während der Ruhezeit, unausgesetzte Absonderung, Disziplinararrest, besonders gesicherten Haftraum und Fixierung. Ordnen Sie daneben einzelne Beschränkungen wie Gegenstandsentzug, Hofgangentzug oder Beobachtung ein. Diese Eingriffe haben unterschiedliche Voraussetzungen und können nebeneinander auftreten. Der Begriff „Einzelhaft“ in einem Mandantenbrief wird daher in konkrete Vorgänge übersetzt.
+
+Erstellen Sie eine zeitliche Maßnahmenkarte. Jede Zeile nennt Beginn und Ende, tatsächlichen Eingriff, tragende Gefahr und Überprüfungsnachweis. Für dauernde Absonderung werden zusätzlich persönliche Kontakte, Arbeits- und Lernzugang, Hofgang, Besuch und therapeutische beziehungsweise betreuende Angebote erfasst. Ein kurzer Kontakt an der Tür ist nicht automatisch gleichwertig mit gemeinschaftlicher Teilhabe. Eine formale Raumverlegung setzt den Zeitraum nicht ohne Prüfung neu auf null.
+
+Die Fortdauerbegründung muss auf den aktuellen Zustand reagieren: Welche Ereignisse tragen heute die Gefahr? Welche Versuche einer Abmilderung gab es? Was funktionierte? Welche neue Belastung ist aufgetreten? Wer entscheidet über den nächsten überprüfbaren Schritt? Organisatorische Schwierigkeiten dürfen benannt werden, werden aber nicht in eine erfundene individuelle Gefährlichkeit umgedeutet. Ein günstiger Verlauf unter Sicherung beweist weder deren dauerhafte Notwendigkeit noch ihre sofortige Entbehrlichkeit.
+
+### 17.7. Zwei Landeswege für die Fortdauerkontrolle
+
+Für Hessen ist die Rechtslage der Erwachsenenstrafhaft anhand des HStVollzG zu prüfen. § 50 Absatz 7 verlangt bei einer Absonderung von mehr als 24 Stunden deren Unerlässlichkeit. Nach Absatz 8 erhalten abgesonderte Gefangene besondere Betreuung; bei mehr als 30 Tagen Dauer oder mehr als 90 Tagen innerhalb von zwölf Monaten ist die Zustimmung der Aufsichtsbehörde erforderlich. Das sind zusätzliche Kontrollschwellen, keine erlaubnisfreien Zeiträume. § 51 regelt ärztliche Beteiligung und Kontrolle: Nach Absatz 2 ist bei über 24 Stunden dauernder Absonderung beziehungsweise dem dort erfassten Entzug des Aufenthalts im Freien spätestens nach drei Tagen eine ärztliche Stellungnahme einzuholen; Absatz 3 verlangt angemessene Überprüfung. Für den besonders gesicherten Haftraum gelten die gesonderten ärztlichen Vorgaben des Absatzes 4. Die genaue Maßnahme entscheidet über den Kontrollweg.
+
+In Baden-Württemberg sind für diese Erwachsenenstrafhaft die Vorschriften des Buchs 3 JVollzGB maßgeblich. § 67 unterscheidet die besonderen Sicherungsmaßnahmen und begrenzt ihre Fortdauer auf den erforderlichen Zweck. § 68 Absatz 1 erlaubt unausgesetzte Absonderung nur bei personenbedingter Unerlässlichkeit; Absatz 2 verlangt bei insgesamt mehr als drei Monaten innerhalb eines Jahres die Zustimmung der Aufsichtsbehörde. Gottesdienst und gemeinschaftlicher Aufenthalt im Freien unterbrechen die Frist nicht. § 70 Absatz 2 betrifft vorherige ärztliche Anhörung bei psychischem Zustand als Anlass und ihre unverzügliche Nachholung bei Gefahr im Verzug. § 71 Absatz 1 regelt ärztliche Beteiligung bei besonders gesichertem Haftraum, Fesselung und Fixierung. Eine ärztliche Beteiligungspflicht wird weder allein durch eine Checkbox noch durch die aufsichtsbehördliche Zustimmung erfüllt.
+
+Lesen Sie die amtlichen aktuellen Gesamtausgaben im [Hessischen Landesrecht](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-StVollzGHEV6IVZ) und im [Landesrecht Baden-Württemberg](https://www.landesrecht-bw.de/bsbw/document/jlr-NNLBW00007CFA). Ermitteln Sie darüber hinaus die einschlägige gültige Ausführungsvorschrift nach ihrem konkreten Geltungsbereich. Eine verwaltungsinterne Prüfroutine ersetzt keine gesetzliche Anordnungsvoraussetzung. Die hessischen Zeitgrenzen werden nicht auf Baden-Württemberg übertragen und umgekehrt. Ein fachlicher Änderungsbedarf kann schon deutlich vor einer gesetzlichen Beteiligungsschwelle bestehen.
+
 ## 18. Antrag an die JVA ausformulieren
 
 Der Antrag nennt Anstalt, Antragsteller, konkretes Begehren, verständlichen Sachverhalt, tragende Gründe und zugeordnete Anlagen. Beschreiben Sie, was praktisch geschehen soll. „Bitte berücksichtigen Sie meine Rechte“ genügt nicht als alleiniger Antrag. Sinnvolle Hilfsanträge bilden tatsächlich tragfähige Alternativen ab und verwässern das Hauptziel nicht unbemerkt.
@@ -358,6 +448,20 @@ Bei erledigter Maßnahme begründen Sie das erforderliche Feststellungsinteresse
 
 Vergleichen Sie Ausgangsbescheid, ursprünglichen Vorwurf, spätere Stellungnahme und gerichtliche Begründung. Unterscheiden Sie ergänzende Belege von einem Austausch des sanktionierten Verhaltens. Der Entwurf benennt den konkreten Kontrollfehler und seine Auswirkung, ohne selbst einen neuen Sanktionsgrund zu konstruieren. Etwaige heutige Rechtsdienstleistungsfragen werden gesondert geprüft.
 
+### 20.3. Eine oberflächliche Erstentscheidung konkret angreifen
+
+Ein schneller Beschluss ist nicht schon deshalb fehlerhaft. Prüfen Sie, ob er das tatsächliche Begehren zutreffend erfasst, erhebliches Vorbringen zur Kenntnis nimmt und entscheidende Tatsachen nachvollziehbar feststellt. Legen Sie Antrag, JVA-Stellungnahme und Entscheidungsgründe nebeneinander. Benennen Sie den übergangenen Widerspruch: etwa alte Bruttofläche gegenüber neuem Maßblatt, vorgesehene Aufschlusszeit gegenüber belegten Ausfällen oder „Arzt informiert“ gegenüber fehlender persönlicher Untersuchung.
+
+Aus Anwaltssicht enthält das Folgeprodukt den konkreten Tatsachenvortrag, dazugehörige Belegstelle, Aufklärungsbedarf und rechtliche Bedeutung. Aus Gerichtssicht benennt der Entwurf die noch erforderliche Ermittlung und eine gegebenenfalls nötige vorläufige Regelung. Das Gericht darf entscheidende Anstaltsangaben nicht allein aufgrund der Absenderrolle als wahr behandeln; ebenso wenig ist jede gegenteilige Behauptung automatisch richtig. Schildern Sie beide Erkenntnisstände fair.
+
+Ordnen Sie erst danach den Anschluss zu. Eine Hauptsacheentscheidung und ein Beschluss nach § 114 StVollzG haben unterschiedliche Rechtsschutzmöglichkeiten. Gegen einen Eilbeschluss wird keine gewöhnliche Rechtsbeschwerde erzeugt. Eine Änderung oder Aufhebung durch das Eilgericht, ein Gehörsbehelf oder verfassungsgerichtlicher Rechtsschutz benötigt jeweils einen passenden Tatbestand und eigene Fristen. Die Kritik an einem Beschluss allein eröffnet keine freie Wahl dieser Wege.
+
+### 20.4. Entscheidungsanker zu widersprüchlichen Unterlagen
+
+**BVerfG, Beschluss vom 23.09.2019, Az. 2 BvR 903/18, Rn. 15–24:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190923_2bvr090318.html). **Trägt:** Eine tragfähige gerichtliche Tatsachengrundlage erforderte die Aufklärung widersprechender Angaben zu Bekleidung, Außenaufenthalt und Erreichbarkeit von Rechtsschutzstellen. **Trägt nicht:** Bestätigung sämtlicher Angaben der untergebrachten Person oder Übernahme damaligen hessischen Maßregelvollzugsrechts als JVA-Befugnis.
+
+Übertragen Sie den Aufklärungsmaßstab begründet auf den konkreten Streit. Eine Handnotiz „Decke ausgehändigt“ und ein zeitnaher anderslautender Beschwerdebrief dürfen nicht durch unbegründete Auswahl harmonisiert werden. Verlangen Sie Zeitpunkt, Person, tatsächlich ausgegebenes Material und gegebenenfalls verfügbare weitere Belege. Das Gericht entscheidet auf festgestellten Tatsachen; der Parteiantrag zeigt, welche Feststellung noch fehlt.
+
 ## 21. Eilrechtsschutz und drohende Erledigung
 
 Beschreiben Sie den konkret drohenden Nachteil und den Zeitpunkt, ab dem späterer Rechtsschutz zu spät käme. Ein kurz bevorstehender Kursbeginn, ein nur einmal möglicher Kinderbesuch oder eine fortdauernde erhebliche Beeinträchtigung verlangt andere Tatsachen als allgemeine Unzufriedenheit. Belegen Sie Termin, Belastung, bisherige Bemühungen und mögliche Zwischenlösungen.
@@ -387,6 +491,12 @@ Unterscheiden Sie deshalb Verzögerung, fachgerichtlichen Eilrechtsschutz und ve
 **BVerfG, Beschluss vom 21.01.2015, Az. 2 BvR 1856/13, Rn. 10–16:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/01/rk20150121_2bvr185613.html). **Trägt:** Die Aussetzung einer belastenden Maßnahme wird nicht schon dadurch zur unzulässigen Vorwegnahme, dass ein vorübergehender Nichtvollzug zeitlich nicht rückgängig gemacht werden kann. Die Maßnahme kann nach der Hauptsacheentscheidung wieder in Geltung gesetzt werden; erforderlich ist die passende Interessenabwägung. Der tatsächlich sanktionierte Vorgang darf nicht durch einen anderen Pflichtvorwurf ersetzt werden. **Trägt nicht:** Eine automatische Aussetzung jeder Sanktion oder ein allgemeines Recht auf unbeschränkte Schreibhilfe. Weitere Fragen zur Verzögerung und Sachaufklärung ließ Rn. 16 offen.
 
 Belegen Sie Beginn und Ende der Sanktion, deren konkrete Belastung und die dagegen sprechenden Gründe. Beantragen Sie eine zeitlich bestimmte vorläufige Aussetzung und führen Sie das Hauptsacheverfahren gesondert. Wird die Maßnahme vor einer Entscheidung vollzogen, prüfen Sie das verbleibende Rechtsschutzinteresse anhand konkreter fortwirkender Nachteile; bezeichnen Sie das Verfahren nicht ohne Prüfung als sinnlos.
+
+### 21.5. Rechtzeitiger Schutz trotz bereits vollzogener Maßnahme
+
+**BVerfG, Beschluss vom 24.03.2023, Az. 2 BvR 116/23, Rn. 17–24:** [amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/03/rk20230324_2bvr011623.html). **Trägt:** Die Intensität drohender Grundrechtsbeeinträchtigung beeinflusst die erforderliche rechtliche und tatsächliche Prüfung im Eilverfahren. Allgemeine Personalbelastung oder Erkrankung des zuständigen Richters rechtfertigen keine unangemessene Verzögerung. Eine bereits vollzogene anstaltsinterne Verlegung beseitigte das Rechtsschutzbedürfnis nicht automatisch; vorläufige Rückgängigmachung war zu prüfen. **Trägt nicht:** Starre allgemeine Entscheidungsfrist oder zwingenden Erfolg eines Eilantrags.
+
+Unterscheiden Sie bei fortlaufenden Schutzmaßnahmen die erledigte erste Unterbringung, fortbestehenden Gegenstandsentzug und eine neue Fortdauerentscheidung. Formulieren Sie für jeden aktuellen Gegenstand den passenden Antrag. Der Umzug in einen anderen Haftraum ist weder automatisch vollständige Abhilfe noch allein ein neuer Fristbeginn für sämtliche früheren Maßnahmen.
 
 ## 22. Rechtsbeschwerde, Kosten und Unterstützung
 
@@ -431,6 +541,14 @@ Prüfstand 16.10.2026: Berlin gewährt nach § 29 Absatz 1 StVollzG Bln mindeste
 In Nordrhein-Westfalen prüfen Sie bei Unterbringung § 14, beim Aufenthalt im Freien § 43 und bei medizinischer Versorgung § 45 in der [Fassung ab 01.04.2026](https://recht.nrw.de/system/files/pdf/state-law-and-regulations/2026/03/31/05434d/01-04-2026-stvollzg-nrw-strafvollzugsgesetz-nordrh.pdf). Eine organisatorische Ausnahme von Einzelunterbringung rechtfertigt keine menschenunwürdigen Bedingungen. Eine angebotene Stunde im Hof hilft nicht, wenn der konkrete Zugang für die betroffene Person tatsächlich unbenutzbar ist. Ermitteln Sie Stufen, Hilfsmittel, Begleitung und real verfügbare Alternativen.
 
 In Bayern unterscheiden [Artikel 72 BayStVollzG](https://www.gesetze-bayern.de/Content/Document/BayStVollzG-72) und die Bildungsregeln in Artikel 39 und 40 Fortbildungsbedarf und Sicherheitsgrenzen. Die Regelung elektronischer Unterhaltungsmedien wird nicht ohne Einordnung auf jeden Lerncomputer übertragen. In Niedersachsen trennt [§ 13 NJVollzG](https://voris.wolterskluwer-online.de/browse/document/74f6ce6d-6811-362d-a1bd-283e96b259ca) Freigang, Ausgang und weitere Lockerungen; die Prognose benötigt zuverlässige Erkenntnisse des Einzelfalls. Ein Familientermin ist nicht allein wegen seines sozialen Nutzens beruflicher Freigang.
+
+### 24.1.1. Ausführungsvorschriften mit ehrlichem Quellenstand verwenden
+
+Für Hessen enthält die amtliche [Sammlung der Vollzugsgesetze 2023](https://justizministerium.hessen.de/sites/justizministerium.hessen.de/files/2023-06/hessische-vollzugsgesetze_2023.pdf), gedruckte Seiten 123–124, § 37 HVV zu §§ 50 und 51 HStVollzG. Die gelesenen Nummern 1.3, 2.5, 2.6, 4.1 bis 4.5 und 5 behandeln insbesondere gesonderte Maßnahmenbegründung, Wiederholungsprüfung, Krisenintervention, Ersatzbekleidung und Decken, Versorgung, Intimsphäre und Aufsichtsvorlage. Der aktuelle Portalnachweis ist vorhanden; dessen Gesamtwortlaut war nicht vollständig lesbar. Die Sammlung ist deshalb ein datierter Prüfhinweis, keine Bestätigung unveränderter Geltung sämtlicher Verwaltungsdetails bis 2026.
+
+Für Baden-Württemberg ist die Verwaltungsvorschrift zum Justizvollzugsgesetzbuch, VV-JVollzGB, vom Gesetz zu unterscheiden. Die amtliche [Landtagsdrucksache 15/6104](https://www.landtag-bw.de/files/live/sites/LTBW/files/dokumente/WP15/Drucksachen/6000/15_6104_D.pdf), Seiten 24–25, gibt damalige Vorgaben zu § 67 und § 68 wieder. Ihr Nachweis von 2014 bestätigt keine vollständige aktuelle Verwaltungsfassung. Ziehen Sie den fallzeitlichen Text gezielt bei, bevor Sie einen verbindlichen Vorwurf auf eine dort genannte Berichtsregel stützen. Die aktuellen gesetzlichen Voraussetzungen sind unabhängig davon am Landesportal zu prüfen.
+
+Diese Trennung gehört in den Quellenvermerk und in die konkrete Schlussfolgerung: Ein gesetzlich belegter Fortdauerfehler kann beurteilt werden, obwohl ein zusätzlicher Verwaltungserlass noch fehlt. Umgekehrt darf ein historisch belegtes Berichtsschema nicht unbemerkt die heutige Rechtsgrundlage ersetzen. Weder ist jede Vollzugsregel eine Rechtsverordnung noch wird eine solche erfunden, um einen Quellenplatz zu füllen.
 
 ### 24.2. Quellenstand und Reichweite offenlegen
 

@@ -1,84 +1,84 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "checked_on": "2026-10-16",
   "skills": [
     {
       "skill": "antraege-bescheide-bearbeiten",
-      "words": 1123,
-      "sha256": "4b5cd709ff5c5d2a712e760840f12ab7f8deda0861ae0d531896b37c45c54f00"
+      "words": 1454,
+      "sha256": "545a97eb5819ef13b48a7ba403b6157f5a2198b89b50c60f71dbaffbd6cdf582"
     },
     {
       "skill": "besuch-kommunikation-gestalten",
-      "words": 1183,
-      "sha256": "0ef796b77d02353d37b041f2c8201be769650caa030b60d200eaa89571897b44"
+      "words": 1270,
+      "sha256": "0eff79cdeed0ea74a49ce1570d1daee1a364d13ae50dcbdf35858948fb12161e"
     },
     {
       "skill": "bildung-arbeit-digitalzugang-pruefen",
-      "words": 1168,
-      "sha256": "84a55bbe027aa7679e8dd5737e3837e7daac84257e5f4556f46de013ec4d2811"
+      "words": 1252,
+      "sha256": "a0c90a7df338e9cd519a928290d439f8d0d2c8f8b4441e3fe99686f3c6f971eb"
     },
     {
       "skill": "entlassung-uebergang-planen",
-      "words": 1234,
-      "sha256": "5db5f0ae802b7f882bce0c5debba61e0132e1dea84763b8cefec1ecbf08f65b8"
+      "words": 1312,
+      "sha256": "399c6a8d44dd5156812a2a34e7ce0065e5f1d4ec2d39fa0686f9cb738ad5b081"
     },
     {
       "skill": "ernaehrung-religion-beruecksichtigen",
-      "words": 1301,
-      "sha256": "4d3b03fb9f93762d5ba353be31db6891fb6d7b98814863c04b1eb46a26060e78"
+      "words": 1388,
+      "sha256": "61df5e4b1827491cf149a839c602aebf7665e15d508bcbfaa3433b9883061666"
     },
     {
       "skill": "gerichtlichen-rechtsschutz-fuehren",
-      "words": 1172,
-      "sha256": "a88816bbf055333bdb7eb1586840569f564ff17a9d14e5cc36bfd4288335a7e4"
+      "words": 1936,
+      "sha256": "d1c27eb0df7c8ba932737fca987ef14e86d7fae3a42465b6c67c8d63621c7dd9"
     },
     {
       "skill": "gesundheit-unterbringung-pruefen",
-      "words": 1302,
-      "sha256": "7129272909b80f7dac66efa1a79efb47db522bb09f2e8ef9aac9eccd7a0a63d1"
+      "words": 1915,
+      "sha256": "4a7bf27f67c45c0cd0d384ff88cca3a8d2dc4c710a94140ac2618bd6bf16c589"
     },
     {
       "skill": "grundrechte-gleichbehandlung-pruefen",
-      "words": 1141,
-      "sha256": "8e3d72c7c1533b124752974d741da84935bce231662860c6825587bed8dae766"
+      "words": 1603,
+      "sha256": "dcc571340dad711b3f7ace99acebc0ec191a4a3abdda8be38f2708ad505a34e7"
     },
     {
       "skill": "sicherheit-disziplin-kontrollieren",
-      "words": 1224,
-      "sha256": "41898f0b1ac2c781d7aa4845e13ebc0345a2b74de4c490b2b407096f8b9fe60d"
+      "words": 2210,
+      "sha256": "72815ba0b575cbb356eabbff9ff342756e2d2c9639ed0fa692f35dfb667226ef"
     },
     {
       "skill": "strafvollzug-fall-steuern",
-      "words": 1068,
-      "sha256": "13a611855bbd8be791c5944cfb91d6d7c3f42e0c01e91a7b3afb60e850ecdcc8"
+      "words": 1381,
+      "sha256": "1553507dcb6bd0b0be70eafdf13ea3157334bfa5c4e27b10cac6d61c9371a7b6"
     },
     {
       "skill": "vollzugsplan-lockerungen-pruefen",
-      "words": 1111,
-      "sha256": "75b8c4e08fb31be5325a3316dd19b869bf4fe940323a0d738958e5375e25295e"
+      "words": 1191,
+      "sha256": "1201935a95ec28b09e18ef642e495ea37b70ddc9d4787cbdcf48a2ec1d487714"
     }
   ],
   "prompts": [
     {
       "kind": "werkstatt",
-      "bytes": 79417,
-      "words": 8971,
-      "pdf_pages": 21,
-      "sha256": "59a3387057b10e771d15a8fc2f0a4acc18520f767d633e5f5c0a7d44cb13705d"
+      "bytes": 105347,
+      "words": 11793,
+      "pdf_pages": 27,
+      "sha256": "24149b9cddb136521e6e77eb6d397dabe315f7db0b842b5ed99b38831c333e23"
     },
     {
       "kind": "schnellstart",
       "bytes": 7479,
-      "words": 840,
+      "words": 848,
       "pdf_pages": 3,
-      "sha256": "6cb3b9717d20f1efe3e602b25f5c436a02fbfb652dfdd1e60a2e37647b194d6b"
+      "sha256": "bd2da023577b52e20082cdd3d7fb938ff0569a131d8cfd6bed471b31c60d2425"
     },
     {
       "kind": "hauptproblem",
-      "bytes": 7470,
-      "words": 840,
-      "pdf_pages": 2,
-      "sha256": "9af4783241c90ab30b498a1d33d3ce68a911638452eb53ed6ffcb0a3297dc402"
+      "bytes": 7489,
+      "words": 831,
+      "pdf_pages": 3,
+      "sha256": "72a6234b151b75bd8f6e22130ecf481375c13fdfb5f5fe1e3d73758fed970604"
     }
   ],
   "cases": [
@@ -93,6 +93,18 @@
       "originals": 16,
       "pdf_pages": 20,
       "sha256": "270e69d8193fc546abc67eaa535bf36ecfb563d653fa63e261d9f9eaee95d734"
+    },
+    {
+      "name": "jva-bw-schutzmassnahmen-finkbeiner",
+      "originals": 34,
+      "pdf_pages": 46,
+      "sha256": "773cebdf0ee7f69a61ba09a4d5cbd4bd6221500542619d4e305e239f9fdeb919"
+    },
+    {
+      "name": "jva-hessen-absonderung-hagedorn",
+      "originals": 34,
+      "pdf_pages": 45,
+      "sha256": "f7e55ddaf053ba488c7d543a70e2aa352463dcfba195f9921b940aea10c0203b"
     },
     {
       "name": "jva-niedersachsen-lockerungen-familie",

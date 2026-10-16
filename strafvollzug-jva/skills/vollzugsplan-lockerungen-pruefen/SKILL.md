@@ -55,6 +55,10 @@ Ein Antrag benennt Maßnahme, Haupt- und Hilfsbegehren, Ziel, Tatsachen, Nachwei
 
 Bei gerichtlichem Vorgehen übergeben Sie die genaue angegriffene Passage, Bekanntgaben, Planfassungen und Anlagen an [gerichtlichen Rechtsschutz](../gerichtlichen-rechtsschutz-fuehren/SKILL.md). Prüfen Sie Verpflichtung oder Neubescheidung nach § 115 Absatz 4 StVollzG. Bei nicht abgeschlossenem Verfahren und bald verfallendem Termin ist der [Antrags- und Bescheidskill](../antraege-bescheide-bearbeiten/SKILL.md) mit einem konkret begründeten Eilprodukt zu verbinden. Eine Dienstaufsichtsbeschwerde wahrt die gerichtliche Frist nicht automatisch.
 
+### 3.7. Krisenverlauf in aktuelle Planung übersetzen
+
+Eine frühere Absonderung, ein ungeklärter Disziplinarvorwurf oder eine psychische Krise wird nicht ungeprüft zum zeitlosen Ausschlussgrund für jede vollzugsöffnende Maßnahme. Prüfen Sie gesicherte Tatsachen, aktuelle fachliche Einschätzung und zwischenzeitliche Entwicklung. Ein anhängiger Misshandlungsvorwurf belegt weder fehlende Mitwirkung noch eine wahrheitswidrige Beschuldigung. Der Plan benennt konkrete Unterstützungs- und Erprobungsschritte, soweit diese nach aktuellem Landesrecht und gesicherter Gefahrenlage möglich sind. Vergleichen Sie Begründung und Originalakten, bevor Sie eine belastende Angabe aus einem früheren Antrag übernehmen.
+
 ## 4. Quellenpflicht
 
 Lesen Sie [Rechtsprechung](../../references/rechtsprechung.md), [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md) und [Zitierweise](../../references/zitierweise.md). Landesnormen, Verfahrensrecht und konkrete Prognosebelege werden getrennt nachgewiesen. BVerfG, Urt. v. 20.06.2023 – Az. 2 BvR 166/16 und 2 BvR 1683/17, Rn. 154–164, erklärt den Resozialisierungsauftrag; daraus wird keine feste Zahl von Ausführungen abgeleitet. Keine unkontrollierte Übertragung materieller Bundesnormen auf sämtliche Länder.

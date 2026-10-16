@@ -225,3 +225,7 @@ Die Auswahl ist thematisch geordnet und bleibt begrenzt. Entscheidungen aus 2025
 Im fertigen Schriftsatz nur die tragende Passage mit Gericht, Entscheidungsart, Datum, Aktenzeichen und gelesener Randnummer zitieren. Die Tatsachen des Ausgangsfalls werden von den rechtlichen Erwägungen des Gerichts unterschieden. Anträge und Vorbringen der Beteiligten innerhalb eines Volltexts sind nicht die Entscheidung des Gerichts. Die hier angegebenen Reichweitengrenzen bleiben auch bei knappen Prompts erhalten.
 
 Eine neue Landesfassung, neue Technik oder anderer Vollzugsstatus löst gezielte Nachrecherche aus. Literaturstellen, die der Volltext selbst nennt, werden nicht als selbst gelesene Literatur ausgegeben. Siehe [Zitierweise](zitierweise.md) und [Bundesrecht und Rechtsschutz](bundesrecht-rechtsschutz.md).
+
+# 21. Vertiefung zu Absonderung, Suizidschutz und Haftbedingungen
+
+Neun weitere am amtlichen Volltext gelesene Entscheidungen stehen mit konkreten Arbeitsfolgen und Aussagegrenzen in [Haftbedingungen und Schutzmaßnahmen](haftbedingungen-und-schutzmassnahmen.md). Die Referenz verbindet kumulierte Sicherung, fachliche Abklärung, Misshandlungsvorwürfe, gerichtliche Sachaufklärung, Raumgröße und Mehrfachbelegung mit den aktuellen Landesgesetzen Hessens und Baden-Württembergs. Die dort datierten älteren Verwaltungsvorschriften werden nicht als bestätigter vollständiger Stand von 2026 behandelt. Die achtzehn bisherigen Entscheidungsanker bleiben eigenständig verwendbar.

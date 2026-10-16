@@ -1,0 +1,1372 @@
+{
+  "schema_version": 1,
+  "stand": "2026-10-16",
+  "plugin": "strafvollzug-jva",
+  "component_version": "1.1.0",
+  "cases": [
+    {
+      "slug": "jva-hessen-absonderung-hagedorn",
+      "original_count": 34,
+      "counts": {
+        "docx": 8,
+        "pdf": 12,
+        "eml": 12,
+        "xlsx": 2
+      },
+      "files": [
+        {
+          "file": "01_Mandatsauftrag_16_Oktober.docx",
+          "type": "docx",
+          "sha256": "eeed40f28a0b350c7c67fbaf7e33250e5923e466f3555d84a27f7c044f288916",
+          "bytes": 38768
+        },
+        {
+          "file": "02_Vollmacht_und_Kontaktwunsch.docx",
+          "type": "docx",
+          "sha256": "0f4c399a43d2de10dc18199441614c595814a3e0347aecff5cb1539704a09c22",
+          "bytes": 38302
+        },
+        {
+          "file": "03_Eingabe_an_die_Anstaltsleitung.docx",
+          "type": "docx",
+          "sha256": "1dca33770001cbcef35baf41e8284e58581fc4501a5f2b67894c713e233e8c27",
+          "bytes": 38323
+        },
+        {
+          "file": "04_Gespraech_in_der_JVA_15_Oktober.docx",
+          "type": "docx",
+          "sha256": "35d248fb025aaa8cafc4257d2746417b7c0e617e16bf7890d428a170b3fa3fce",
+          "bytes": 38529
+        },
+        {
+          "file": "05_Schreiben_Kanzlei_Brack_21_September.docx",
+          "type": "docx",
+          "sha256": "1d9cc439e1b396fff32c33e84502a4ab3597cf89b49be1902415bdf0f87ce23a",
+          "bytes": 38147
+        },
+        {
+          "file": "06_Gerichtsantrag_22_September.docx",
+          "type": "docx",
+          "sha256": "bf9f618c4f309fe0c3ac68bc3bb78b040d2faac0d052d02598fe73d784310ecd",
+          "bytes": 38286
+        },
+        {
+          "file": "07_Uebergabe_der_Vorakte.docx",
+          "type": "docx",
+          "sha256": "548d8a32d620ad8c96bcd2a787ccd27b1d5c1a77562d37bc556dfaae183c3b09",
+          "bytes": 38248
+        },
+        {
+          "file": "08_Fortfuehrung_des_Verfahrens_Entwurf.docx",
+          "type": "docx",
+          "sha256": "5a3f2c4d776163948fc9c83bcc1ad7ceb2376dce31d44ea31df83729c6857178",
+          "bytes": 40771
+        },
+        {
+          "file": "09_Anordnung_09_September.pdf",
+          "type": "pdf",
+          "sha256": "18a976b56a0f2876ae0e4410e69d3b1bd211aca48ed14417473c9e6560dc95f9",
+          "bytes": 84540,
+          "pages": 1
+        },
+        {
+          "file": "10_Bekanntgabe_und_Postlauf.pdf",
+          "type": "pdf",
+          "sha256": "ac48c2d4be9edee7872728a725dfda9daba720159b617f310ce92a1ec652a74f",
+          "bytes": 83925,
+          "pages": 1
+        },
+        {
+          "file": "11_Dienstbericht_Fruehdienst.pdf",
+          "type": "pdf",
+          "sha256": "e5496ee93c6e71abe425d80fbbcd2e6b8b17ff43bf820ca4fb3ab77edb6a7d62",
+          "bytes": 84543,
+          "pages": 1
+        },
+        {
+          "file": "12_Dienstbericht_Spaetdienst.pdf",
+          "type": "pdf",
+          "sha256": "ddb49134521bb80f237256b2c2218ade816eb27c516024c1d24c19486b991342",
+          "bytes": 84537,
+          "pages": 1
+        },
+        {
+          "file": "13_Mitteilung_medizinischer_Dienst.pdf",
+          "type": "pdf",
+          "sha256": "943c96f625a1602f479bae3240cc5a7768127e0b05b77eb8b31f73a0ccf13dee",
+          "bytes": 84665,
+          "pages": 1
+        },
+        {
+          "file": "14_Brief_Marlene_Hagedorn.pdf",
+          "type": "pdf",
+          "sha256": "7fe584c9c6350541b70df90c1106fc0034519d7691c2aee672012894fa9806c8",
+          "bytes": 83779,
+          "pages": 1
+        },
+        {
+          "file": "15_Fortdauerentscheidung_09_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "fab214a6eb27020ffe0a19707c0ebb08a75d624b74873f4aacbebbbc921b6c2f",
+          "bytes": 84494,
+          "pages": 1
+        },
+        {
+          "file": "16_Beschluss_24_September.pdf",
+          "type": "pdf",
+          "sha256": "6b7b78333d5eb20956a0e513d365c5cb8e27542fdd51967a37b7584c1ab86d74",
+          "bytes": 84945,
+          "pages": 1
+        },
+        {
+          "file": "17_Gerichtspost_Eingangsnachweise.pdf",
+          "type": "pdf",
+          "sha256": "2d011cf999cbf3ed7f09ef028ca43829f5411be5f5be2b11a6e6c9a569bf5b8e",
+          "bytes": 83963,
+          "pages": 1
+        },
+        {
+          "file": "18_Hausordnung_und_Kontaktangebot.pdf",
+          "type": "pdf",
+          "sha256": "86af9c5db1e3b67340ee08a920b2f81100faf64af1dbb57bd838eb14daa640b9",
+          "bytes": 84028,
+          "pages": 1
+        },
+        {
+          "file": "19_Rechnung_und_Zahlungsnotiz.pdf",
+          "type": "pdf",
+          "sha256": "5d996370b83fc9bf5e8ed8205dd16cb49894e00beeb263f466d7377bbed50390",
+          "bytes": 83914,
+          "pages": 1
+        },
+        {
+          "file": "20_Raumblatt_und_Uebergaben.pdf",
+          "type": "pdf",
+          "sha256": "d10a0f63cacd0ce2106fd4795835842d9f0750a946a3ab33e14e193cd980577e",
+          "bytes": 84354,
+          "pages": 1
+        },
+        {
+          "file": "21_Unterlagen_meines_Bruders.eml",
+          "type": "eml",
+          "sha256": "1d91f80e1950b61db052ff04c7a52233668414afa84c7df1ef4dae639a08bfa6",
+          "bytes": 117292
+        },
+        {
+          "file": "22_Beschluss_im_vorlaeufigen_Verfahren.eml",
+          "type": "eml",
+          "sha256": "5d69d27ef7f691abc6d1501fd989370b9f66f71f1a0b659c7e2b7b44e8755290",
+          "bytes": 117832
+        },
+        {
+          "file": "23_Fortdauer_und_fehlender_Empfangseintrag.eml",
+          "type": "eml",
+          "sha256": "71d642e26729d446fef779baa1cb02356ae6b37d4e858b39dfeae1b1bc749776",
+          "bytes": 117163
+        },
+        {
+          "file": "24_Teilakte_und_gesonderte_Einwilligung.eml",
+          "type": "eml",
+          "sha256": "39ec650fcd59baee372955b5130e7a3c989c1182bb722102d013d9cfd1f3e317",
+          "bytes": 117412
+        },
+        {
+          "file": "25_Kontaktangebot_ausserhalb_der_bisherigen_Gruppe.eml",
+          "type": "eml",
+          "sha256": "62d8102550e2cf9a5049290df974e5d2669d1c400d2114ca42372101fef477dc",
+          "bytes": 1257
+        },
+        {
+          "file": "26_Raumblatt_S_4.eml",
+          "type": "eml",
+          "sha256": "b7f1681b458845a78812b13c37efe137b511da58922328275588e3d13bdb360b",
+          "bytes": 116904
+        },
+        {
+          "file": "27_Ergaenzung_zur_Uebergabe_vom_September.eml",
+          "type": "eml",
+          "sha256": "d47f9790c7ac591f2a91d8a84900a47dda084c11e5dd9ce30f1847411dcde7b6",
+          "bytes": 117254
+        },
+        {
+          "file": "28_Bitte_um_Sicherung_der_vorhandenen_Unterlagen.eml",
+          "type": "eml",
+          "sha256": "fa6ba035b6cd16bf3f0063791d35463551e58735f78cd5bf02b976f35911fe51",
+          "bytes": 1286
+        },
+        {
+          "file": "29_Eingang_Ihrer_Sicherungsbitte.eml",
+          "type": "eml",
+          "sha256": "cb6a69d4f9384b7a94f24205aeaec26dbc20eae33d30873e80be021c8d620b65",
+          "bytes": 1196
+        },
+        {
+          "file": "30_Vollmacht_und_Termin_mit_Herrn_Hagedorn.eml",
+          "type": "eml",
+          "sha256": "54c8b76e344d1a55ae8715bf91e16decea598698f2c224cd534ba8c8134981d1",
+          "bytes": 53925
+        },
+        {
+          "file": "31_Korrektur_zu_unserem_Telefonat.eml",
+          "type": "eml",
+          "sha256": "750da23df4cc8d6f83631f4c453de3af68b392034693eaf3df699a4e80acbdc0",
+          "bytes": 116100
+        },
+        {
+          "file": "32_Uebergabe_und_ergaenzende_Dateiliste.eml",
+          "type": "eml",
+          "sha256": "877453edc7ee2b76bc5f471f64b73c42a73a648256630edae218a0f82686ad78",
+          "bytes": 66741
+        },
+        {
+          "file": "33_Chronologie_und_Anlagen.xlsx",
+          "type": "xlsx",
+          "sha256": "22cadeb4f7daece4f26c4c1fb5539e02efdc11f2f2722c24bfe9a0a34b6abdab",
+          "bytes": 9134
+        },
+        {
+          "file": "34_Unterbringung_und_Kontakte.xlsx",
+          "type": "xlsx",
+          "sha256": "5de8335bd33b0b127cde7e83ec732135fa72ac1d8c87fb09497ab6ae0f2848d2",
+          "bytes": 8206
+        }
+      ],
+      "mails": [
+        {
+          "file": "21_Unterlagen_meines_Bruders.eml",
+          "attachments": [
+            {
+              "filename": "09_Anordnung_09_September.pdf",
+              "sha256": "18a976b56a0f2876ae0e4410e69d3b1bd211aca48ed14417473c9e6560dc95f9"
+            }
+          ]
+        },
+        {
+          "file": "22_Beschluss_im_vorlaeufigen_Verfahren.eml",
+          "attachments": [
+            {
+              "filename": "16_Beschluss_24_September.pdf",
+              "sha256": "6b7b78333d5eb20956a0e513d365c5cb8e27542fdd51967a37b7584c1ab86d74"
+            }
+          ]
+        },
+        {
+          "file": "23_Fortdauer_und_fehlender_Empfangseintrag.eml",
+          "attachments": [
+            {
+              "filename": "15_Fortdauerentscheidung_09_Oktober.pdf",
+              "sha256": "fab214a6eb27020ffe0a19707c0ebb08a75d624b74873f4aacbebbbc921b6c2f"
+            }
+          ]
+        },
+        {
+          "file": "24_Teilakte_und_gesonderte_Einwilligung.eml",
+          "attachments": [
+            {
+              "filename": "13_Mitteilung_medizinischer_Dienst.pdf",
+              "sha256": "943c96f625a1602f479bae3240cc5a7768127e0b05b77eb8b31f73a0ccf13dee"
+            }
+          ]
+        },
+        {
+          "file": "25_Kontaktangebot_ausserhalb_der_bisherigen_Gruppe.eml",
+          "attachments": []
+        },
+        {
+          "file": "26_Raumblatt_S_4.eml",
+          "attachments": [
+            {
+              "filename": "20_Raumblatt_und_Uebergaben.pdf",
+              "sha256": "d10a0f63cacd0ce2106fd4795835842d9f0750a946a3ab33e14e193cd980577e"
+            }
+          ]
+        },
+        {
+          "file": "27_Ergaenzung_zur_Uebergabe_vom_September.eml",
+          "attachments": [
+            {
+              "filename": "11_Dienstbericht_Fruehdienst.pdf",
+              "sha256": "e5496ee93c6e71abe425d80fbbcd2e6b8b17ff43bf820ca4fb3ab77edb6a7d62"
+            }
+          ]
+        },
+        {
+          "file": "28_Bitte_um_Sicherung_der_vorhandenen_Unterlagen.eml",
+          "attachments": []
+        },
+        {
+          "file": "29_Eingang_Ihrer_Sicherungsbitte.eml",
+          "attachments": []
+        },
+        {
+          "file": "30_Vollmacht_und_Termin_mit_Herrn_Hagedorn.eml",
+          "attachments": [
+            {
+              "filename": "02_Vollmacht_und_Kontaktwunsch.docx",
+              "sha256": "0f4c399a43d2de10dc18199441614c595814a3e0347aecff5cb1539704a09c22"
+            }
+          ]
+        },
+        {
+          "file": "31_Korrektur_zu_unserem_Telefonat.eml",
+          "attachments": [
+            {
+              "filename": "14_Brief_Marlene_Hagedorn.pdf",
+              "sha256": "7fe584c9c6350541b70df90c1106fc0034519d7691c2aee672012894fa9806c8"
+            }
+          ]
+        },
+        {
+          "file": "32_Uebergabe_und_ergaenzende_Dateiliste.eml",
+          "attachments": [
+            {
+              "filename": "07_Uebergabe_der_Vorakte.docx",
+              "sha256": "548d8a32d620ad8c96bcd2a787ccd27b1d5c1a77562d37bc556dfaae183c3b09"
+            },
+            {
+              "filename": "33_Chronologie_und_Anlagen.xlsx",
+              "sha256": "22cadeb4f7daece4f26c4c1fb5539e02efdc11f2f2722c24bfe9a0a34b6abdab"
+            }
+          ]
+        }
+      ],
+      "workbooks": [
+        {
+          "slug": "jva-hessen-absonderung-hagedorn",
+          "file": "33_Chronologie_und_Anlagen.xlsx",
+          "sheets": [
+            {
+              "name": "Chronologie",
+              "range": "A1:D18"
+            },
+            {
+              "name": "Anlagen",
+              "range": "A1:D17"
+            },
+            {
+              "name": "Datumsabstand",
+              "range": "A1:D18"
+            },
+            {
+              "name": "Erläuterung",
+              "range": "A1:B10"
+            }
+          ],
+          "formula_checks": [
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C6",
+              "expected": 37,
+              "actual": 37
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C7",
+              "expected": 37,
+              "actual": 37
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C8",
+              "expected": 36,
+              "actual": 36
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C9",
+              "expected": 28,
+              "actual": 28
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C10",
+              "expected": 24,
+              "actual": 24
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C11",
+              "expected": 22,
+              "actual": 22
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C12",
+              "expected": 21,
+              "actual": 21
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C13",
+              "expected": 18,
+              "actual": 18
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C14",
+              "expected": 17,
+              "actual": 17
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C15",
+              "expected": 8,
+              "actual": 8
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C16",
+              "expected": 7,
+              "actual": 7
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C17",
+              "expected": 1,
+              "actual": 1
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C18",
+              "expected": 0,
+              "actual": 0
+            }
+          ],
+          "input_change_test": {
+            "cell": "B3",
+            "before": 37,
+            "after": 38,
+            "restored": true
+          },
+          "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+        },
+        {
+          "slug": "jva-hessen-absonderung-hagedorn",
+          "file": "34_Unterbringung_und_Kontakte.xlsx",
+          "sheets": [
+            {
+              "name": "Raumwerte",
+              "range": "A1:F9"
+            },
+            {
+              "name": "Zeiträume",
+              "range": "A1:D6"
+            },
+            {
+              "name": "Kontakte",
+              "range": "A1:D26"
+            },
+            {
+              "name": "Erläuterung",
+              "range": "A1:B10"
+            }
+          ],
+          "formula_checks": [
+            {
+              "sheet": "Raumwerte",
+              "cell": "E6",
+              "expected": 8.709999999999999,
+              "actual": 8.709999999999999
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "F6",
+              "expected": 8.709999999999999,
+              "actual": 8.709999999999999
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "B25",
+              "expected": 178,
+              "actual": 178
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "C25",
+              "expected": 690,
+              "actual": 690
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "B26",
+              "expected": 4,
+              "actual": 4
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "C26",
+              "expected": 3,
+              "actual": 3
+            }
+          ],
+          "input_change_test": {
+            "cell": "D6",
+            "before": 8.709999999999999,
+            "after": 4.3549999999999995,
+            "restored": true
+          },
+          "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+        }
+      ],
+      "draft": "08_Fortfuehrung_des_Verfahrens_Entwurf.docx",
+      "attachment_map": {
+        "A1": "09_Anordnung_09_September.pdf",
+        "A2": "10_Bekanntgabe_und_Postlauf.pdf",
+        "A3": "03_Eingabe_an_die_Anstaltsleitung.docx",
+        "A4": "06_Gerichtsantrag_22_September.docx",
+        "A5": "16_Beschluss_24_September.pdf",
+        "A6": "15_Fortdauerentscheidung_09_Oktober.pdf",
+        "A7": "25_Kontaktangebot_ausserhalb_der_bisherigen_Gruppe.eml",
+        "A8": "11_Dienstbericht_Fruehdienst.pdf",
+        "A9": "12_Dienstbericht_Spaetdienst.pdf",
+        "A10": "13_Mitteilung_medizinischer_Dienst.pdf",
+        "A11": "04_Gespraech_in_der_JVA_15_Oktober.docx",
+        "A12": "02_Vollmacht_und_Kontaktwunsch.docx"
+      }
+    },
+    {
+      "slug": "jva-bw-schutzmassnahmen-finkbeiner",
+      "original_count": 34,
+      "counts": {
+        "docx": 8,
+        "pdf": 12,
+        "eml": 12,
+        "xlsx": 2
+      },
+      "files": [
+        {
+          "file": "01_Mandatsauftrag_16_Oktober.docx",
+          "type": "docx",
+          "sha256": "80bc492ea1d9573e056c9a74d7e839563d4e822aced828a0518933dc96f9c4d9",
+          "bytes": 38838
+        },
+        {
+          "file": "02_Vollmacht_und_Vertraulichkeit.docx",
+          "type": "docx",
+          "sha256": "2193d87d16afee9403112e0fd0ce7aa40f344b8a1038909d237867e9be6d0a29",
+          "bytes": 38293
+        },
+        {
+          "file": "03_Eingabe_30_September.docx",
+          "type": "docx",
+          "sha256": "16eb4a67e83a1ea130ebb2cbb1bf498786372f0f9a970697fa34e0ab7063d99e",
+          "bytes": 38199
+        },
+        {
+          "file": "04_Anwaltliches_Gespraech_15_Oktober.docx",
+          "type": "docx",
+          "sha256": "22c8bd3e569c043a09376a5020e3c949aab15121fa7981898387e4740956e672",
+          "bytes": 38565
+        },
+        {
+          "file": "05_Kanzleischreiben_01_Oktober.docx",
+          "type": "docx",
+          "sha256": "5dab1021e693d4812cab42f83230cf53a0e6ebdaa638f53520f388f13c2cb4c6",
+          "bytes": 38310
+        },
+        {
+          "file": "06_Beschwerdeschrift_02_Oktober.docx",
+          "type": "docx",
+          "sha256": "a777b50417e0636fac22e6119582b4cd1b4fe70b557f97e95b68c586e85ad400",
+          "bytes": 38402
+        },
+        {
+          "file": "07_Aktenuebergabe_Kappel.docx",
+          "type": "docx",
+          "sha256": "f3b9ef2029937a5e8307740f12f4628f7dd53474aec53bfbf275156cef963575",
+          "bytes": 38294
+        },
+        {
+          "file": "08_Ergaenzung_und_Rechtsschutz_Entwurf.docx",
+          "type": "docx",
+          "sha256": "913f49d6b1eccf77539a6ad8c1627efc1aec0064b11d904449a13c8fd32d3b01",
+          "bytes": 40825
+        },
+        {
+          "file": "09_Schutzanordnung_28_September.pdf",
+          "type": "pdf",
+          "sha256": "d11acc45c7f1d4b58f8b1721c2a830437fef8b91666f0f8cc528eadb3a736feb",
+          "bytes": 84907,
+          "pages": 1
+        },
+        {
+          "file": "10_Bekanntgabe_und_Verwahrung.pdf",
+          "type": "pdf",
+          "sha256": "9ebd884f7fd3e94a4ce7999c035255bbe6df88b9e92c1a1cbc08eb2b3a91f332",
+          "bytes": 84056,
+          "pages": 1
+        },
+        {
+          "file": "11_Beobachtungsnotiz_29_September.pdf",
+          "type": "pdf",
+          "sha256": "42d3ae01c45c88beca6a693797b680040237b2c2b3fa8b9228d84cc5148f7d22",
+          "bytes": 84406,
+          "pages": 1
+        },
+        {
+          "file": "12_Belegungsmitteilung_06_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "6ed9edd2a620934d6f4a4c7f6f9be6aa87428336d2e8ed8644823ace2521666d",
+          "bytes": 84623,
+          "pages": 1
+        },
+        {
+          "file": "13_Aerztliche_Mitteilung_14_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "ec4eaddfe26ff529150362cf07b60cb18bb035206d979d2679dc3c14ea3af2f7",
+          "bytes": 84381,
+          "pages": 1
+        },
+        {
+          "file": "14_Brief_Idris_Finkbeiner.pdf",
+          "type": "pdf",
+          "sha256": "4001595268ab8cbad09e34602878476badcdd9a8097aabd9d55759f5d7ebcf5c",
+          "bytes": 84087,
+          "pages": 1
+        },
+        {
+          "file": "15_Folgeverfuegung_01_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "1ab601caa10cadcffcc274d7c1364f3f70724051eb8acb34c4a99cfc6b9c99d2",
+          "bytes": 84329,
+          "pages": 1
+        },
+        {
+          "file": "16_Beschluss_09_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "a6b94cf3f3bd64b4264f044d4eeba1fcce8b8b1ae032ecaa570a37ae3315983b",
+          "bytes": 84535,
+          "pages": 1
+        },
+        {
+          "file": "17_Postjournal_und_Empfang.pdf",
+          "type": "pdf",
+          "sha256": "89fdf3d65cef48ae44278d4539c3920aac6b8ff57fec7f11fd3e0309b1648a71",
+          "bytes": 84060,
+          "pages": 1
+        },
+        {
+          "file": "18_Interner_Ablauf_Schutzbereich.pdf",
+          "type": "pdf",
+          "sha256": "8c14dee2536ed4db7b62b31e717d148ebd6d925e7b0a4719448a190049046441",
+          "bytes": 84695,
+          "pages": 1
+        },
+        {
+          "file": "19_Rechnung_Kappel_10_Oktober.pdf",
+          "type": "pdf",
+          "sha256": "50ea94bcc999bf7917aa1a538428b5a242fa0d5a78230873e4f57c0d0420763e",
+          "bytes": 83914,
+          "pages": 1
+        },
+        {
+          "file": "20_Raumblatt_B12_und_Aufmass.pdf",
+          "type": "pdf",
+          "sha256": "0c4d77bd6983651f162c2fa9f7b96005e843168b605835be0b95e589ad14f0f3",
+          "bytes": 86475,
+          "pages": 2
+        },
+        {
+          "file": "21_Bitte_um_Hilfe_fuer_meine_Frau.eml",
+          "type": "eml",
+          "sha256": "c8bc3416f0ff35f2d733bf24491a950dd945ffb8b61c4775f2da9e508006cfd5",
+          "bytes": 1109
+        },
+        {
+          "file": "22_Aufmass_B_12_und_aelterer_Planstand.eml",
+          "type": "eml",
+          "sha256": "5c2994385f200fd404dba8d913f9c43d738e69ca21b6e470b1870fafdc4129ed",
+          "bytes": 119860
+        },
+        {
+          "file": "23_Zeitweilige_dritte_Belegung.eml",
+          "type": "eml",
+          "sha256": "0bfc6686a766f36b194642b001a166023d4f659f843d72c0ff3e1d502aaed306",
+          "bytes": 117330
+        },
+        {
+          "file": "24_Mitteilung_und_vollstaendige_Behandlungsunterlagen.eml",
+          "type": "eml",
+          "sha256": "fc96838096dbc0c3f907b46fc10ae9ce6d4657ef1c77905d5644d40b885d95ca",
+          "bytes": 117072
+        },
+        {
+          "file": "25_Entscheidung_zum_Eilverfahren.eml",
+          "type": "eml",
+          "sha256": "e6c8b1953a5266cc40fb3165d08d91f3b28b925419f312c47816dd95ebf76717",
+          "bytes": 117155
+        },
+        {
+          "file": "26_Meine_Schaetzung_war_keine_Messung.eml",
+          "type": "eml",
+          "sha256": "38ae00e34dec903b7dcf044bcd6c7b517d9cab7b4606637d3639fb06ff0312c0",
+          "bytes": 116617
+        },
+        {
+          "file": "27_Ausgabe_von_Ersatzmaterial.eml",
+          "type": "eml",
+          "sha256": "9fcb75aa9b26f2ef6bba5ff6f098298b9994f6499bd7fa7f2d4d6bf11b3b523d",
+          "bytes": 117044
+        },
+        {
+          "file": "28_Konkrete_Unterlagen_und_aktueller_Stand.eml",
+          "type": "eml",
+          "sha256": "89219e3d16e2055975c556f7d001decde23744b1b0e7ba281892f4bc25327084",
+          "bytes": 1200
+        },
+        {
+          "file": "29_Zwischennachricht_zu_Ihrer_Anfrage.eml",
+          "type": "eml",
+          "sha256": "4ed02ba7aa82d6cec7dc9e40bcee9ec88c97ee935730aed1964009e8b8467073",
+          "bytes": 116963
+        },
+        {
+          "file": "30_Vollmacht_und_noch_offene_Rueckfragen.eml",
+          "type": "eml",
+          "sha256": "9b8017e2b98fed6bf5d15b265b09397511b2b9ca1a06875582f6881faf2222f2",
+          "bytes": 53971
+        },
+        {
+          "file": "31_Arbeitsuebersicht_Belegung_und_Oeffnungszeiten.eml",
+          "type": "eml",
+          "sha256": "10fe6d7e485d00119d6ead63a237ae9f82b5646397bec771bc4b2329570b2016",
+          "bytes": 13082
+        },
+        {
+          "file": "32_Aktenwechsel_und_chronologische_Uebersicht.eml",
+          "type": "eml",
+          "sha256": "b16cda0f60bc6367c287993bb56a11905ad9b8ee33f58b3cde7cdbf990f4294a",
+          "bytes": 67077
+        },
+        {
+          "file": "33_Chronologie_und_Anlagen.xlsx",
+          "type": "xlsx",
+          "sha256": "d459e8049c57c06997b658fb1c7076250e756be8b72567d8732fbfacb22f35f4",
+          "bytes": 9385
+        },
+        {
+          "file": "34_Unterbringung_und_Kontakte.xlsx",
+          "type": "xlsx",
+          "sha256": "92c329c778c619aa829dc2e721f5452565e63e60ef7014c0d99f48692027b48b",
+          "bytes": 8352
+        }
+      ],
+      "mails": [
+        {
+          "file": "21_Bitte_um_Hilfe_fuer_meine_Frau.eml",
+          "attachments": []
+        },
+        {
+          "file": "22_Aufmass_B_12_und_aelterer_Planstand.eml",
+          "attachments": [
+            {
+              "filename": "20_Raumblatt_B12_und_Aufmass.pdf",
+              "sha256": "0c4d77bd6983651f162c2fa9f7b96005e843168b605835be0b95e589ad14f0f3"
+            }
+          ]
+        },
+        {
+          "file": "23_Zeitweilige_dritte_Belegung.eml",
+          "attachments": [
+            {
+              "filename": "12_Belegungsmitteilung_06_Oktober.pdf",
+              "sha256": "6ed9edd2a620934d6f4a4c7f6f9be6aa87428336d2e8ed8644823ace2521666d"
+            }
+          ]
+        },
+        {
+          "file": "24_Mitteilung_und_vollstaendige_Behandlungsunterlagen.eml",
+          "attachments": [
+            {
+              "filename": "13_Aerztliche_Mitteilung_14_Oktober.pdf",
+              "sha256": "ec4eaddfe26ff529150362cf07b60cb18bb035206d979d2679dc3c14ea3af2f7"
+            }
+          ]
+        },
+        {
+          "file": "25_Entscheidung_zum_Eilverfahren.eml",
+          "attachments": [
+            {
+              "filename": "16_Beschluss_09_Oktober.pdf",
+              "sha256": "a6b94cf3f3bd64b4264f044d4eeba1fcce8b8b1ae032ecaa570a37ae3315983b"
+            }
+          ]
+        },
+        {
+          "file": "26_Meine_Schaetzung_war_keine_Messung.eml",
+          "attachments": [
+            {
+              "filename": "14_Brief_Idris_Finkbeiner.pdf",
+              "sha256": "4001595268ab8cbad09e34602878476badcdd9a8097aabd9d55759f5d7ebcf5c"
+            }
+          ]
+        },
+        {
+          "file": "27_Ausgabe_von_Ersatzmaterial.eml",
+          "attachments": [
+            {
+              "filename": "11_Beobachtungsnotiz_29_September.pdf",
+              "sha256": "42d3ae01c45c88beca6a693797b680040237b2c2b3fa8b9228d84cc5148f7d22"
+            }
+          ]
+        },
+        {
+          "file": "28_Konkrete_Unterlagen_und_aktueller_Stand.eml",
+          "attachments": []
+        },
+        {
+          "file": "29_Zwischennachricht_zu_Ihrer_Anfrage.eml",
+          "attachments": [
+            {
+              "filename": "15_Folgeverfuegung_01_Oktober.pdf",
+              "sha256": "1ab601caa10cadcffcc274d7c1364f3f70724051eb8acb34c4a99cfc6b9c99d2"
+            }
+          ]
+        },
+        {
+          "file": "30_Vollmacht_und_noch_offene_Rueckfragen.eml",
+          "attachments": [
+            {
+              "filename": "02_Vollmacht_und_Vertraulichkeit.docx",
+              "sha256": "2193d87d16afee9403112e0fd0ce7aa40f344b8a1038909d237867e9be6d0a29"
+            }
+          ]
+        },
+        {
+          "file": "31_Arbeitsuebersicht_Belegung_und_Oeffnungszeiten.eml",
+          "attachments": [
+            {
+              "filename": "34_Unterbringung_und_Kontakte.xlsx",
+              "sha256": "92c329c778c619aa829dc2e721f5452565e63e60ef7014c0d99f48692027b48b"
+            }
+          ]
+        },
+        {
+          "file": "32_Aktenwechsel_und_chronologische_Uebersicht.eml",
+          "attachments": [
+            {
+              "filename": "07_Aktenuebergabe_Kappel.docx",
+              "sha256": "f3b9ef2029937a5e8307740f12f4628f7dd53474aec53bfbf275156cef963575"
+            },
+            {
+              "filename": "33_Chronologie_und_Anlagen.xlsx",
+              "sha256": "d459e8049c57c06997b658fb1c7076250e756be8b72567d8732fbfacb22f35f4"
+            }
+          ]
+        }
+      ],
+      "workbooks": [
+        {
+          "slug": "jva-bw-schutzmassnahmen-finkbeiner",
+          "file": "33_Chronologie_und_Anlagen.xlsx",
+          "sheets": [
+            {
+              "name": "Chronologie",
+              "range": "A1:D21"
+            },
+            {
+              "name": "Anlagen",
+              "range": "A1:D17"
+            },
+            {
+              "name": "Datumsabstand",
+              "range": "A1:D21"
+            },
+            {
+              "name": "Erläuterung",
+              "range": "A1:B10"
+            }
+          ],
+          "formula_checks": [
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C6",
+              "expected": 18,
+              "actual": 18
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C7",
+              "expected": 17,
+              "actual": 17
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C8",
+              "expected": 17,
+              "actual": 17
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C9",
+              "expected": 16,
+              "actual": 16
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C10",
+              "expected": 15,
+              "actual": 15
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C11",
+              "expected": 14,
+              "actual": 14
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C12",
+              "expected": 13,
+              "actual": 13
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C13",
+              "expected": 12,
+              "actual": 12
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C14",
+              "expected": 10,
+              "actual": 10
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C15",
+              "expected": 9,
+              "actual": 9
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C16",
+              "expected": 7,
+              "actual": 7
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C17",
+              "expected": 4,
+              "actual": 4
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C18",
+              "expected": 3,
+              "actual": 3
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C19",
+              "expected": 2,
+              "actual": 2
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C20",
+              "expected": 1,
+              "actual": 1
+            },
+            {
+              "sheet": "Datumsabstand",
+              "cell": "C21",
+              "expected": 0,
+              "actual": 0
+            }
+          ],
+          "input_change_test": {
+            "cell": "B3",
+            "before": 18,
+            "after": 19,
+            "restored": true
+          },
+          "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+        },
+        {
+          "slug": "jva-bw-schutzmassnahmen-finkbeiner",
+          "file": "34_Unterbringung_und_Kontakte.xlsx",
+          "sheets": [
+            {
+              "name": "Raumwerte",
+              "range": "A1:F11"
+            },
+            {
+              "name": "Zeiträume",
+              "range": "A1:D9"
+            },
+            {
+              "name": "Kontakte",
+              "range": "A1:D24"
+            },
+            {
+              "name": "Erläuterung",
+              "range": "A1:B10"
+            }
+          ],
+          "formula_checks": [
+            {
+              "sheet": "Raumwerte",
+              "cell": "E6",
+              "expected": 12.399999999999999,
+              "actual": 12.399999999999999
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "F6",
+              "expected": 6.199999999999999,
+              "actual": 6.199999999999999
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "E7",
+              "expected": 11.94,
+              "actual": 11.94
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "F7",
+              "expected": 5.97,
+              "actual": 5.97
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "E8",
+              "expected": 11.94,
+              "actual": 11.94
+            },
+            {
+              "sheet": "Raumwerte",
+              "cell": "F8",
+              "expected": 3.98,
+              "actual": 3.98
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "B23",
+              "expected": 407,
+              "actual": 407
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "C23",
+              "expected": 1035,
+              "actual": 1035
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "B24",
+              "expected": 2,
+              "actual": 2
+            },
+            {
+              "sheet": "Kontakte",
+              "cell": "C24",
+              "expected": 2,
+              "actual": 2
+            }
+          ],
+          "input_change_test": {
+            "cell": "D6",
+            "before": 6.199999999999999,
+            "after": 4.133333333333333,
+            "restored": true
+          },
+          "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+        }
+      ],
+      "draft": "08_Ergaenzung_und_Rechtsschutz_Entwurf.docx",
+      "attachment_map": {
+        "A1": "09_Schutzanordnung_28_September.pdf",
+        "A2": "10_Bekanntgabe_und_Verwahrung.pdf",
+        "A3": "11_Beobachtungsnotiz_29_September.pdf",
+        "A4": "13_Aerztliche_Mitteilung_14_Oktober.pdf",
+        "A5": "20_Raumblatt_B12_und_Aufmass.pdf",
+        "A6": "12_Belegungsmitteilung_06_Oktober.pdf",
+        "A7": "03_Eingabe_30_September.docx",
+        "A8": "06_Beschwerdeschrift_02_Oktober.docx",
+        "A9": "16_Beschluss_09_Oktober.pdf",
+        "A10": "17_Postjournal_und_Empfang.pdf",
+        "A11": "04_Anwaltliches_Gespraech_15_Oktober.docx",
+        "A12": "02_Vollmacht_und_Vertraulichkeit.docx"
+      }
+    }
+  ],
+  "limits": [
+    "Rechenprüfung und redaktionelle Inhaltsprüfung sind kein Live-Modelltest.",
+    "Original-PDF-Seiten werden geprüft; native Office- und Gesamt-PDF-Seiten prüft zusätzlich der Releasebuilder."
+  ],
+  "layout_review": {
+    "checked_at": "2026-10-16",
+    "method": "Alle Original-PDFs sowie native Word- und Excel-PDFs gerendert und visuell durchgesehen. Seitenränder zusätzlich anhand extrahierter Wortboxen geprüft.",
+    "visual_review": "bestanden",
+    "bounds_defects": [],
+    "files": [
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/01_Mandatsauftrag_16_Oktober.docx",
+        "source_sha256": "eeed40f28a0b350c7c67fbaf7e33250e5923e466f3555d84a27f7c044f288916",
+        "native_pdf_sha256": "dd590760da05ba6775f082beb6eb446bb96fa06d36b1d6656a973ce8f90eaaf7",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/02_Vollmacht_und_Kontaktwunsch.docx",
+        "source_sha256": "0f4c399a43d2de10dc18199441614c595814a3e0347aecff5cb1539704a09c22",
+        "native_pdf_sha256": "9787f5fb8ac1456aced79cd41d41a8818799dbbf8b2cae7315b669e8d0370078",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/03_Eingabe_an_die_Anstaltsleitung.docx",
+        "source_sha256": "1dca33770001cbcef35baf41e8284e58581fc4501a5f2b67894c713e233e8c27",
+        "native_pdf_sha256": "3ff05593c579e3b9024f6b6c556f1c07e86dfd7f6297f6a0774a7fa2c5c3429c",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/04_Gespraech_in_der_JVA_15_Oktober.docx",
+        "source_sha256": "35d248fb025aaa8cafc4257d2746417b7c0e617e16bf7890d428a170b3fa3fce",
+        "native_pdf_sha256": "3be30c22db1ae5d474e20d45995c6f5437ce7913233090db9869bb3c7622031c",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/05_Schreiben_Kanzlei_Brack_21_September.docx",
+        "source_sha256": "1d9cc439e1b396fff32c33e84502a4ab3597cf89b49be1902415bdf0f87ce23a",
+        "native_pdf_sha256": "e06e12fa8299b2883a7630b91e0a9a23064e437f6dd2b642c3da60755059e657",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/06_Gerichtsantrag_22_September.docx",
+        "source_sha256": "bf9f618c4f309fe0c3ac68bc3bb78b040d2faac0d052d02598fe73d784310ecd",
+        "native_pdf_sha256": "e9905ee0f43bcf19c2f6d89311c1d3051c8b826e5c38afa3601b4a6f30ea48db",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/07_Uebergabe_der_Vorakte.docx",
+        "source_sha256": "548d8a32d620ad8c96bcd2a787ccd27b1d5c1a77562d37bc556dfaae183c3b09",
+        "native_pdf_sha256": "e9dec333cf4048cc7f3da5efdedb8c8ec86f0bd8987b881e8f5f1193c83d6525",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/08_Fortfuehrung_des_Verfahrens_Entwurf.docx",
+        "source_sha256": "5a3f2c4d776163948fc9c83bcc1ad7ceb2376dce31d44ea31df83729c6857178",
+        "native_pdf_sha256": "f83766df4ce7730e225a0a54821817cac6c2d7a786ec8d4027607094867fad49",
+        "pages": 2
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/09_Anordnung_09_September.pdf",
+        "source_sha256": "18a976b56a0f2876ae0e4410e69d3b1bd211aca48ed14417473c9e6560dc95f9",
+        "native_pdf_sha256": "18a976b56a0f2876ae0e4410e69d3b1bd211aca48ed14417473c9e6560dc95f9",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/10_Bekanntgabe_und_Postlauf.pdf",
+        "source_sha256": "ac48c2d4be9edee7872728a725dfda9daba720159b617f310ce92a1ec652a74f",
+        "native_pdf_sha256": "ac48c2d4be9edee7872728a725dfda9daba720159b617f310ce92a1ec652a74f",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/11_Dienstbericht_Fruehdienst.pdf",
+        "source_sha256": "e5496ee93c6e71abe425d80fbbcd2e6b8b17ff43bf820ca4fb3ab77edb6a7d62",
+        "native_pdf_sha256": "e5496ee93c6e71abe425d80fbbcd2e6b8b17ff43bf820ca4fb3ab77edb6a7d62",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/12_Dienstbericht_Spaetdienst.pdf",
+        "source_sha256": "ddb49134521bb80f237256b2c2218ade816eb27c516024c1d24c19486b991342",
+        "native_pdf_sha256": "ddb49134521bb80f237256b2c2218ade816eb27c516024c1d24c19486b991342",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/13_Mitteilung_medizinischer_Dienst.pdf",
+        "source_sha256": "943c96f625a1602f479bae3240cc5a7768127e0b05b77eb8b31f73a0ccf13dee",
+        "native_pdf_sha256": "943c96f625a1602f479bae3240cc5a7768127e0b05b77eb8b31f73a0ccf13dee",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/14_Brief_Marlene_Hagedorn.pdf",
+        "source_sha256": "7fe584c9c6350541b70df90c1106fc0034519d7691c2aee672012894fa9806c8",
+        "native_pdf_sha256": "7fe584c9c6350541b70df90c1106fc0034519d7691c2aee672012894fa9806c8",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/15_Fortdauerentscheidung_09_Oktober.pdf",
+        "source_sha256": "fab214a6eb27020ffe0a19707c0ebb08a75d624b74873f4aacbebbbc921b6c2f",
+        "native_pdf_sha256": "fab214a6eb27020ffe0a19707c0ebb08a75d624b74873f4aacbebbbc921b6c2f",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/16_Beschluss_24_September.pdf",
+        "source_sha256": "6b7b78333d5eb20956a0e513d365c5cb8e27542fdd51967a37b7584c1ab86d74",
+        "native_pdf_sha256": "6b7b78333d5eb20956a0e513d365c5cb8e27542fdd51967a37b7584c1ab86d74",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/17_Gerichtspost_Eingangsnachweise.pdf",
+        "source_sha256": "2d011cf999cbf3ed7f09ef028ca43829f5411be5f5be2b11a6e6c9a569bf5b8e",
+        "native_pdf_sha256": "2d011cf999cbf3ed7f09ef028ca43829f5411be5f5be2b11a6e6c9a569bf5b8e",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/18_Hausordnung_und_Kontaktangebot.pdf",
+        "source_sha256": "86af9c5db1e3b67340ee08a920b2f81100faf64af1dbb57bd838eb14daa640b9",
+        "native_pdf_sha256": "86af9c5db1e3b67340ee08a920b2f81100faf64af1dbb57bd838eb14daa640b9",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/19_Rechnung_und_Zahlungsnotiz.pdf",
+        "source_sha256": "5d996370b83fc9bf5e8ed8205dd16cb49894e00beeb263f466d7377bbed50390",
+        "native_pdf_sha256": "5d996370b83fc9bf5e8ed8205dd16cb49894e00beeb263f466d7377bbed50390",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/20_Raumblatt_und_Uebergaben.pdf",
+        "source_sha256": "d10a0f63cacd0ce2106fd4795835842d9f0750a946a3ab33e14e193cd980577e",
+        "native_pdf_sha256": "d10a0f63cacd0ce2106fd4795835842d9f0750a946a3ab33e14e193cd980577e",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/33_Chronologie_und_Anlagen.xlsx",
+        "source_sha256": "22cadeb4f7daece4f26c4c1fb5539e02efdc11f2f2722c24bfe9a0a34b6abdab",
+        "native_pdf_sha256": "e440d94cfc86a4b689c5e9312e6af1df01dd70d24d4da312bc9d85f4cee2b379",
+        "pages": 7
+      },
+      {
+        "source": "testakten/jva-hessen-absonderung-hagedorn/34_Unterbringung_und_Kontakte.xlsx",
+        "source_sha256": "5de8335bd33b0b127cde7e83ec732135fa72ac1d8c87fb09497ab6ae0f2848d2",
+        "native_pdf_sha256": "fd9ab14141594bd3b600231ed353ecfd108b62677f5178a3e27d5898d6e19c94",
+        "pages": 5
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/01_Mandatsauftrag_16_Oktober.docx",
+        "source_sha256": "80bc492ea1d9573e056c9a74d7e839563d4e822aced828a0518933dc96f9c4d9",
+        "native_pdf_sha256": "83f772ab445bb66049962a34b2350876290fc4bd194d5ba6eded24ecd4899d97",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/02_Vollmacht_und_Vertraulichkeit.docx",
+        "source_sha256": "2193d87d16afee9403112e0fd0ce7aa40f344b8a1038909d237867e9be6d0a29",
+        "native_pdf_sha256": "8a4b18b66cd71f218c491d3430965da8ed8e0d5f38f59c34b96cb371a589d726",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/03_Eingabe_30_September.docx",
+        "source_sha256": "16eb4a67e83a1ea130ebb2cbb1bf498786372f0f9a970697fa34e0ab7063d99e",
+        "native_pdf_sha256": "e3ad23b23eb07516f2c8df2099cc958232d33329a21692bedff8b9b1842213b0",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/04_Anwaltliches_Gespraech_15_Oktober.docx",
+        "source_sha256": "22c8bd3e569c043a09376a5020e3c949aab15121fa7981898387e4740956e672",
+        "native_pdf_sha256": "a33b83d5da1b2ab4396b885613154b5b94902c2815327c03de967c8fc294813e",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/05_Kanzleischreiben_01_Oktober.docx",
+        "source_sha256": "5dab1021e693d4812cab42f83230cf53a0e6ebdaa638f53520f388f13c2cb4c6",
+        "native_pdf_sha256": "84e2ea944f6142322c1e51394addb14308d5c6cb7827b7f8f9da0807e7c92cba",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/06_Beschwerdeschrift_02_Oktober.docx",
+        "source_sha256": "a777b50417e0636fac22e6119582b4cd1b4fe70b557f97e95b68c586e85ad400",
+        "native_pdf_sha256": "9aa5fc63fa5bc83588955b3960fff8be9c1302db248bfb3d05ea389288753598",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/07_Aktenuebergabe_Kappel.docx",
+        "source_sha256": "f3b9ef2029937a5e8307740f12f4628f7dd53474aec53bfbf275156cef963575",
+        "native_pdf_sha256": "068fa5442402896b2e1d38847a561b0de26c8244c3cd1e1d0bff26e923cdb70c",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/08_Ergaenzung_und_Rechtsschutz_Entwurf.docx",
+        "source_sha256": "913f49d6b1eccf77539a6ad8c1627efc1aec0064b11d904449a13c8fd32d3b01",
+        "native_pdf_sha256": "6885147bdd487926c789536ab6aef2d00fc5a25535352164b1c66bb97afeea1f",
+        "pages": 2
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/09_Schutzanordnung_28_September.pdf",
+        "source_sha256": "d11acc45c7f1d4b58f8b1721c2a830437fef8b91666f0f8cc528eadb3a736feb",
+        "native_pdf_sha256": "d11acc45c7f1d4b58f8b1721c2a830437fef8b91666f0f8cc528eadb3a736feb",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/10_Bekanntgabe_und_Verwahrung.pdf",
+        "source_sha256": "9ebd884f7fd3e94a4ce7999c035255bbe6df88b9e92c1a1cbc08eb2b3a91f332",
+        "native_pdf_sha256": "9ebd884f7fd3e94a4ce7999c035255bbe6df88b9e92c1a1cbc08eb2b3a91f332",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/11_Beobachtungsnotiz_29_September.pdf",
+        "source_sha256": "42d3ae01c45c88beca6a693797b680040237b2c2b3fa8b9228d84cc5148f7d22",
+        "native_pdf_sha256": "42d3ae01c45c88beca6a693797b680040237b2c2b3fa8b9228d84cc5148f7d22",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/12_Belegungsmitteilung_06_Oktober.pdf",
+        "source_sha256": "6ed9edd2a620934d6f4a4c7f6f9be6aa87428336d2e8ed8644823ace2521666d",
+        "native_pdf_sha256": "6ed9edd2a620934d6f4a4c7f6f9be6aa87428336d2e8ed8644823ace2521666d",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/13_Aerztliche_Mitteilung_14_Oktober.pdf",
+        "source_sha256": "ec4eaddfe26ff529150362cf07b60cb18bb035206d979d2679dc3c14ea3af2f7",
+        "native_pdf_sha256": "ec4eaddfe26ff529150362cf07b60cb18bb035206d979d2679dc3c14ea3af2f7",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/14_Brief_Idris_Finkbeiner.pdf",
+        "source_sha256": "4001595268ab8cbad09e34602878476badcdd9a8097aabd9d55759f5d7ebcf5c",
+        "native_pdf_sha256": "4001595268ab8cbad09e34602878476badcdd9a8097aabd9d55759f5d7ebcf5c",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/15_Folgeverfuegung_01_Oktober.pdf",
+        "source_sha256": "1ab601caa10cadcffcc274d7c1364f3f70724051eb8acb34c4a99cfc6b9c99d2",
+        "native_pdf_sha256": "1ab601caa10cadcffcc274d7c1364f3f70724051eb8acb34c4a99cfc6b9c99d2",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/16_Beschluss_09_Oktober.pdf",
+        "source_sha256": "a6b94cf3f3bd64b4264f044d4eeba1fcce8b8b1ae032ecaa570a37ae3315983b",
+        "native_pdf_sha256": "a6b94cf3f3bd64b4264f044d4eeba1fcce8b8b1ae032ecaa570a37ae3315983b",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/17_Postjournal_und_Empfang.pdf",
+        "source_sha256": "89fdf3d65cef48ae44278d4539c3920aac6b8ff57fec7f11fd3e0309b1648a71",
+        "native_pdf_sha256": "89fdf3d65cef48ae44278d4539c3920aac6b8ff57fec7f11fd3e0309b1648a71",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/18_Interner_Ablauf_Schutzbereich.pdf",
+        "source_sha256": "8c14dee2536ed4db7b62b31e717d148ebd6d925e7b0a4719448a190049046441",
+        "native_pdf_sha256": "8c14dee2536ed4db7b62b31e717d148ebd6d925e7b0a4719448a190049046441",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/19_Rechnung_Kappel_10_Oktober.pdf",
+        "source_sha256": "50ea94bcc999bf7917aa1a538428b5a242fa0d5a78230873e4f57c0d0420763e",
+        "native_pdf_sha256": "50ea94bcc999bf7917aa1a538428b5a242fa0d5a78230873e4f57c0d0420763e",
+        "pages": 1
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/20_Raumblatt_B12_und_Aufmass.pdf",
+        "source_sha256": "0c4d77bd6983651f162c2fa9f7b96005e843168b605835be0b95e589ad14f0f3",
+        "native_pdf_sha256": "0c4d77bd6983651f162c2fa9f7b96005e843168b605835be0b95e589ad14f0f3",
+        "pages": 2
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/33_Chronologie_und_Anlagen.xlsx",
+        "source_sha256": "d459e8049c57c06997b658fb1c7076250e756be8b72567d8732fbfacb22f35f4",
+        "native_pdf_sha256": "e366dae33e71cf961568dbc546a4a9410fbba3e5bf0654af989f1be2b80b4b2c",
+        "pages": 7
+      },
+      {
+        "source": "testakten/jva-bw-schutzmassnahmen-finkbeiner/34_Unterbringung_und_Kontakte.xlsx",
+        "source_sha256": "92c329c778c619aa829dc2e721f5452565e63e60ef7014c0d99f48692027b48b",
+        "native_pdf_sha256": "6e593ade14898aa4572bbc0330fef4dcdc0cb16998f01dbbc407d824c84aa3d0",
+        "pages": 5
+      }
+    ],
+    "total_pages": 67
+  }
+}

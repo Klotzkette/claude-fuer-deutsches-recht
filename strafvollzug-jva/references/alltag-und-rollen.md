@@ -42,7 +42,7 @@ Berücksichtigen Sie den gesetzlichen Umfang gerichtlicher Kontrolle und untersc
 | Sicherheit und Disziplin | Konkrete Gefahr oder Pflichtverletzung, genaue Zeitachse, mildere Versuche, Anhörung, ärztliche Beteiligung, Anordnungen, Gerichtskontakt und Überprüfung der Fortdauer. | Gefahrenabwehr und Strafe seien austauschbar; vergangene Gefahr rechtfertige jede spätere Fortdauer. |
 | Entlassung | Sicherer und möglicher Termin, bestätigte Unterkunft, Arbeit, Dokumente, Mittel, medizinische Übergabe, Versicherungsklärung, Bezugspersonen und erreichbare Termine. | Eine bloße Adressliste sei abgeschlossene Hilfe; Mutter oder Vater könne automatisch bei der Familie wohnen. |
 
-# 4. Vier Fallwege für die Übungsakten
+# 4. Fallwege für die Übungsakten
 
 ## 4.1. Berlin: Yusuf, Besuch und Ernährung
 
@@ -60,10 +60,32 @@ Bestimmen Sie Kurs und benötigte Anwendungen. Stellen Sie den beschriebenen Rec
 
 Trennen Sie regelmäßige externe Beschäftigung, einen konkreten Familienausgang und Entlassungsurlaub. Belegen Sie Arbeitszeiten, Fahrt, Betreuung und Rückkehr. Prüfen Sie aktuelle Prognosegründe und mögliche Weisungen. Ein funktionierender Kontakt zur Familie ist ein individueller Umstand, keine geschlechtsbezogene Vermutung mangelnder oder besonderer Eignung. Der [Entlassungsskill](../skills/entlassung-uebergang-planen/SKILL.md) verbindet die Anträge mit Unterkunft, Versorgung und Verantwortlichkeiten für den Übergang.
 
+## 4.5. Hessen: Jannis Hagedorn, Absonderung und ungeklärter Einsatz
+
+Die Akte [Hagedorn](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-hessen-absonderung-hagedorn/README.md) verbindet fortdauernde Absonderung mit einem bestrittenen Misshandlungsvorwurf. Der schwache Vorantrag ersetzt eine genaue Maßnahmen- und Belegchronologie nicht. Prüfen Sie Ausgangsanordnung, aktuelle Fortdauer, wirkliche Kontakte und Betreuung sowie die nach §§ 50 und 51 HStVollzG erforderliche Beteiligung. Die fehlende Aktenkopie einer Zustimmung oder Untersuchung beweist zunächst eine Lücke; die tatsächliche Durchführung wird gezielt aufgeklärt.
+
+Eine ablehnende schnelle Eilentscheidung erledigt weder die offene Hauptsache noch automatisch den später veränderten Sachverhalt. Der neue Entwurf benennt übergangene Belege, den aktuellen Schutzbedarf und den tatsächlich eröffneten gerichtlichen Weg. Die Aufklärung des behaupteten Übergriffs erhält einen getrennten Auftrag und darf nicht mit dem Antrag gegen weitere Isolation vermengt werden. Verwenden Sie [Sicherheit](../skills/sicherheit-disziplin-kontrollieren/SKILL.md), [Rechtsschutz](../skills/gerichtlichen-rechtsschutz-fuehren/SKILL.md) und die [Landes- und Entscheidungsanker](haftbedingungen-und-schutzmassnahmen.md).
+
+## 4.6. Baden-Württemberg: Amira Finkbeiner, Schutz und Haftraum
+
+Die Akte [Finkbeiner](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-bw-schutzmassnahmen-finkbeiner/README.md) trennt die erste Krisensicherung, späteren Gegenstandsentzug und zeitweise wechselnde Mehrfachbelegung. Prüfen Sie Gürtel, Bettlaken, Ersatzmaterial, persönliche Versorgung und ärztliche Beteiligung einzeln nach Buch 3 JVollzGB. Eine beendete Unterbringung im besonders gesicherten Haftraum beweist nicht, dass jede weitere Beschränkung ebenfalls aufgehoben wurde.
+
+Der frühere Antrag enthält eine starre Flächenbehauptung und eine unpassende Rechtsbehelfsbezeichnung. Bewahren Sie ihn unverändert und erarbeiten Sie eine konkrete Korrektur mit Messquelle, Sanitärfläche, Belegungszeiträumen und tatsächlichem Tagesregime. Die derzeitige Gefährdung wird fachlich geklärt; der neue Antrag verlangt nicht pauschal sofortige Rückgabe aller Gegenstände. Raumaufklärung und Schutzmaßnahmen erhalten getrennte, aber aufeinander abgestimmte Begehren. Verwenden Sie [Gesundheit und Unterbringung](../skills/gesundheit-unterbringung-pruefen/SKILL.md), [Anträge](../skills/antraege-bescheide-bearbeiten/SKILL.md) und [Schutzmaßnahmen](haftbedingungen-und-schutzmassnahmen.md).
+
 # 5. Dokumentation, Verständlichkeit und Übergabe
 
-Führen Sie für jede wesentliche Angabe Quelle, Datum und Status: belegt, bestritten oder offen. Eine ärztliche Feststellung, die Erzählung einer betroffenen Person und eine rechtliche Schlussfolgerung sind getrennte Ebenen. Kopieren Sie Gesundheits- oder Familiendaten nicht unnötig in technische Sicherheitsunterlagen. Kennzeichnen Sie die vier Übungsakten als fiktiv und schließen Sie aus ihnen nicht auf echte Zuständigkeiten, reale Bedienstete oder tatsächliche Anstaltspraktiken.
+Führen Sie für jede wesentliche Angabe Quelle, Datum und Status: belegt, bestritten oder offen. Eine ärztliche Feststellung, die Erzählung einer betroffenen Person und eine rechtliche Schlussfolgerung sind getrennte Ebenen. Kopieren Sie Gesundheits- oder Familiendaten nicht unnötig in technische Sicherheitsunterlagen. Kennzeichnen Sie sämtliche Übungsakten als fiktiv und schließen Sie aus ihnen nicht auf echte Zuständigkeiten, reale Bedienstete oder tatsächliche Anstaltspraktiken.
 
 Sprechen Sie die nutzende Person respektvoll mit Sie an. Erläutern Sie Fachbegriffe, wenn die Ausgabe an Gefangene oder Angehörige geht; gerichtliche und anwaltliche Produkte dürfen die erforderliche Fachsprache verwenden. Ermitteln Sie bei Bedarf Sprachmittlung oder zugängliche Dokumentform. Behinderung wird nicht durch eine zusätzliche Formalhürde „berücksichtigt“, sondern durch die Prüfung tatsächlich erreichbarer Kommunikation und Leistung.
 
 Das Endprodukt besteht aus vollständigen Sätzen und einer rechtlich brauchbaren Begründung. Tabellen unterstützen die Darstellung, ersetzen jedoch keinen Antrag oder Bescheid. Verwenden Sie dezimale Gliederung und bei einem Export Times New Roman 11 pt. Jede Übergabe an einen weiteren Skill nennt Ziel, feststehende Tatsachen, offene Punkte, Quelle, Frist und konkret verlangtes Anschlussprodukt. Reale Nachrichten, Einreichungen und Buchungen werden nur bei entsprechender ausdrücklicher Beauftragung ausgeführt.
+
+# 6. Aktenübernahme, Schutz und Aufklärung zusammen organisieren
+
+Ein schwacher Vorantrag bleibt als Original erhalten. Prüfen Sie, welche Fassung tatsächlich einging, welche Anlagen dabei waren und ob eine Entscheidung vorliegt. Eine Korrekturliste nennt Aussage, Beleg, Rechtsfehler und nötige neue Erklärung. Zuerst werden laufende Fristen und gegenwärtige Belastungen gesichert; die Bewertung des früheren anwaltlichen Vorgehens darf diese Arbeit nicht verdrängen. Die neue Vertretung übernimmt keine ungesicherten Tatsachen allein deshalb, weil sie bereits anwaltlich behauptet wurden.
+
+Bei einer Krise laufen Versorgung, Schutzmaßnahmen und rechtliche Kontrolle parallel. Medizinische Beurteilungen bleiben beim zuständigen Fachpersonal. Ein Gürtel- oder Bettlakenentzug, eine Absonderung, ein Arrest und die Unterbringung im besonders gesicherten Haftraum sind jeweils eigene Maßnahmen. Ihre tatsächliche Durchführung, Dauer und Überprüfung werden getrennt nachgewiesen. Eine reguläre Einzelzelle ist kein Beweis sozialer Isolation; vorhandene Türkontakte sind umgekehrt nicht automatisch ein ausreichender menschlicher Austausch.
+
+Bei Misshandlungsvorwürfen erhalten Ereignis, zeitnahe Beschwerde, Befund und mögliche Zeugen getrennte Belegkennungen. Die fiktive Akte enthält widersprechende Angaben, damit eine ernsthafte Aufklärung notwendig bleibt. Die rechtliche Bearbeitung verlangt konkrete Sicherung vorhandener Beweismittel, erreichbaren Schutz und das passende Verfahren. Sie erfindet weder eine erwiesene Täterschaft noch eine medizinische Erklärung. Strafrechtliche Aufklärung und vollzugsgerichtlicher Rechtsschutz ersetzen einander nicht.
+
+Ein erstinstanzlicher Beschluss wird nicht wegen seines kurzen Umfangs oder schneller Bearbeitung verworfen. Entscheidend ist, ob Streitgegenstand, rechtliches Gehör, erhebliche Beweise und zeitlicher Schutzbedarf behandelt wurden. Eine neue Fassung des Antrags benennt genau, welche Aussage übergangen wurde und welches Produkt jetzt benötigt wird. Die fehlende Anfechtbarkeit eines Eilbeschlusses nach § 114 StVollzG wird dabei nicht durch eine erfundene Standardbeschwerde umgangen.

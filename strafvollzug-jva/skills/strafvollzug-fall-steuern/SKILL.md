@@ -60,9 +60,23 @@ Ein Antrag erhält bestimmtes Begehren, Tatsachen, Rechtsbegründung und Belege.
 
 Übergeben Sie an den nächsten Skill die Fallkennung, Rolle, Landesfassung, streitige Maßnahme, Fristobjekte, führende Fassung, Anlagen und offenen Fragen. Neue Antworten werden an derselben Stelle eingearbeitet. Erledigte Maßnahmen, neue Bescheide und Ortswechsel können den Verfahrensgegenstand verändern und verlangen eine neue Zuordnung. Eine Rechtsbeschwerde wird nur nach Prüfung ihrer besonderen Zulässigkeit vorbereitet.
 
+### 3.6. Komplexe Schutzfälle als verbundenen Arbeitslauf führen
+
+Bei Absonderung, möglicher Misshandlung oder Suizidschutz öffnen Sie drei miteinander abgestimmte Arbeitsstränge: tatsächliche Versorgung und erreichbarer Schutz, Kontrolle der konkreten Vollzugsmaßnahme sowie Sicherung und Aufklärung der Belege. Bestimmen Sie für jeden Strang zuständige Person, aktuelles Produkt und nächsten Nachweis. Ein strafrechtlicher Auftrag wird getrennt erteilt; seine Einleitung erledigt keinen vollzugsgerichtlichen Eilantrag. Gesundheitsversorgung und akute Hilfe warten nicht auf eine vollständige Rechtsakte.
+
+Die Maßnahmenkarte unterscheidet Einzelunterbringung, Absonderung, Arrest, besonders gesicherten Haftraum, Gegenstandsentzug und Fixierung. Sie führt Beginn, Änderungen und fortdauernde Belastungen einzeln auf. Bei gleichzeitigem Raumproblem bearbeiten Gesundheit und Grundrechte die tatsächliche Belegung, Sanitärsituation und Dauer; Sicherheit prüft den behaupteten Schutzgrund; Gericht prüft Abhilfe, Fristen und Spezialzuständigkeit. Eine pauschale Bezeichnung wie „Einzelhaft“ ist ein Anlass zur Klärung, kein fertiger Streitgegenstand.
+
+### 3.7. Aktenübernahme ohne Übernahme alter Fehler abschließen
+
+Prüfen Sie bei einem früheren Anwaltsschreiben, ob es nur Entwurf blieb, tatsächlich versandt oder bereits beschieden wurde. Originalbelege und neue Arbeitsfassungen erhalten getrennte Kennungen. Lassen Sie den Antrags- und Rechtsschutzskill das Begehren aus der gesamten Akte ermitteln, Form und Frist sichern und eine nötige Klarstellung ausformulieren. Ein schlecht formulierter Vorantrag ist keine automatische Fristverlängerung, Wiedereinsetzung oder feststehende Anwaltshaftung.
+
+Das Endprodukt nennt die richtige Landesfassung und ordnet die tatsächlich einschlägige Ausführungsvorschrift nach Rechtsrang ein. Bei Länderwechseln oder früheren Belegungsabschnitten erhalten die Zeiträume getrennte Rechtskarten. Die Übernahme endet mit einem aktualisierten Antrag, einem belastbaren Belegverzeichnis und einem konkreten nächsten Schritt; ein bloßer Mängelbericht über den Vorgänger reicht nicht.
+
 ## 4. Quellenpflicht
 
 Verwenden Sie [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Materielle Landesvorschriften werden für Stichtag und Vollzugsart tatsächlich geöffnet. Die thematisch zugeordneten Entscheidungsanker liefern begrenzte Maßstäbe; nicht jeder Fall benötigt sämtliche Zitate. Keine Literaturfundstellen oder vermeintlich aktuellen Urteile erfinden. Normtext, behördliche Praxis und Tatsachenbeleg bleiben erkennbar getrennt.
+
+Die [Referenz zu Haftbedingungen und Schutzmaßnahmen](../../references/haftbedingungen-und-schutzmassnahmen.md) verknüpft aktuelle Landesgesetze, datierte Verwaltungsvorschriften und die zusätzlichen Entscheidungsanker. Ältere Verwaltungstexte werden nicht als vollständig bestätigte aktuelle Fassung ausgegeben.
 
 ## 5. Ausgabeformat
 
@@ -75,3 +89,5 @@ Die interne Übersicht enthält höchstens vier Spalten je Tabelle und nennt nä
 Eine Berliner Gefangene legt eine schriftliche Besuchsablehnung vor. Sie sichern zuerst den Bekanntgabetag, trennen ihre eigenen Rechte von den Interessen des Kindes und lassen den Kommunikationsskill einen konkreten beaufsichtigten Alternativtermin prüfen. Anschließend entsteht der fristgerechte Antrag mit Besuchsnachweisen.
 
 Ein niedersächsischer Gefangener begehrt „Lockerung vor Entlassung“. Sie konkretisieren Termin, Zweck, Begleitung und Unterkunft. Eine frühere Ablehnung wegen unklarer Anschrift wird gegen inzwischen vorgelegte Wohnungsunterlagen geprüft. Ergebnis ist ein neuer begründeter Antrag, ohne eine offene Entlassungsentscheidung als bereits bewilligt darzustellen.
+
+Sie übernehmen Jannis Hagedorns Akte mit älterem Eilantrag und neuer Fortdauer. Statt den ganzen Fall neu aufzunehmen, sichern Sie Bekanntgaben und aktuelle Belastung, teilen Sicherheit, Gesundheit und Rechtsschutz konkrete Produkte zu und führen die Ergebnisse in einem ergänzten gerichtlichen Antrag zusammen. Strafrechtliche Ermittlungsfragen erhalten einen getrennten Auftrag.

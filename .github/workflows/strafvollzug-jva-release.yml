@@ -1,12 +1,12 @@
-name: Strafvollzug JVA mit vier Testakten
+name: Strafvollzug JVA mit sechs Testakten
 
 on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag strafvollzug-jva-v1.0.1
+        description: Komponententag strafvollzug-jva-v1.1.0
         required: true
-        default: strafvollzug-jva-v1.0.1
+        default: strafvollzug-jva-v1.1.0
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -40,7 +40,7 @@ jobs:
           fc-cache -f
       - name: Quellen und Testakten prüfen
         run: |
-          test "$TAG" = 'strafvollzug-jva-v1.0.1'
+          test "$TAG" = 'strafvollzug-jva-v1.1.0'
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
@@ -95,7 +95,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder verweist auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Strafvollzug in der JVA 1.0.1',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Strafvollzug in der JVA 1.1.0',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           for delay in (0, 2, 4, 8, 16):
               if delay:
@@ -114,9 +114,9 @@ jobs:
               raise RuntimeError('Tagzuordnung hat sich verändert.')
           gh('release', 'edit', tag, '--draft=false', '--latest=false')
           published = json.loads(gh('api', f'repos/{repo}/releases/tags/{tag}'))
-          if published['draft'] or published['prerelease'] or len(published['assets']) != 24:
+          if published['draft'] or published['prerelease'] or len(published['assets']) != 30:
               raise RuntimeError('Öffentlicher Releasestatus oder Assetumfang weicht ab.')
           if json.loads(gh('api', f'repos/{repo}/releases/latest'))['tag_name'] != previous_latest:
               raise RuntimeError('Der Komponentenrelease darf das neueste Gesamtrelease nicht ersetzen.')
-          print(f'{tag}: 24 Assets bytegenau bestätigt, Tag {sha}, Gesamtrelease unverändert.')
+          print(f'{tag}: 30 Assets bytegenau bestätigt, Tag {sha}, Gesamtrelease unverändert.')
           PY

@@ -1,81 +1,80 @@
 # Strafvollzug in der JVA: Schnellstart
 
-## 1. Auftrag klären
+## 1. Auftrag und Rolle
 
-Lesen Sie Auftrag und Unterlagen. Arbeiten Sie bis zum gewünschten ausformulierten Produkt weiter. Klären Sie nur Fehlendes: Rolle, Bundesland, Anstalt, Haftart, Ziel und Dringlichkeit. Bearbeitbare Teile ausarbeiten; entscheidende Lücken offenlegen.
+Lesen Sie die Akte. Arbeiten Sie bis zum bestellten Produkt. Klären Sie nur fehlende Rolle, Land, Haftart, Zeitraum, Ziel und Dringlichkeit. Gefangene bleiben Grundrechtsträger; das besondere Gewaltverhältnis ist keine Eingriffsbefugnis.
 
-Gefangene und Anwälte vertreten ein Begehren; Angehörige brauchen Befugnisse für fremde Rechte. Die Anstalt ermittelt und entscheidet, das Gericht prüft unabhängig. Rollen getrennt halten. Gefangene bleiben Grundrechtsträger; das besondere Gewaltverhältnis ist keine Eingriffsgrundlage.
-
-Kern ist rechtskräftige Erwachsenenstrafhaft. Untersuchungshaft, Jugendvollzug, Sicherungsverwahrung, Maßregelvollzug und Abschiebungshaft brauchen gesonderte Regeln. Vollzugsalltag und Strafvollstreckung unterscheiden.
+Vertretung, JVA und Gericht haben getrennte Aufgaben; ein Perspektivwechsel wird benannt. Angehörige benötigen Befugnisse für fremde Rechte. Kern ist Erwachsenenstrafhaft. Untersuchungshaft, Jugendvollzug, Sicherungsverwahrung, Maßregel- und Abschiebungshaft brauchen eigene Regeln. Vollzug und Strafvollstreckung unterscheiden.
 
 ## 2. Landesrecht auswählen
 
-Prüfen Sie die geltende Landesfassung. Das Bundes-StVollzG ist kein einheitlicher Alltagsanspruchskatalog. Gerichtlichen Rechtsschutz nach §§ 109 ff. StVollzG getrennt behandeln. Gesetz, Verwaltungsvorschrift, Hausordnung und Praxis unterscheiden. Altes und künftiges Recht kennzeichnen; Zahlen, Fristen und Absatzangaben amtlich prüfen.
+Prüfen Sie die amtliche Fassung für Haftart und Zeitraum. Landesgesetz, Rechtsverordnung, Verwaltungsvorschrift und Hausordnung sind verschiedene Ebenen. Keine erfundene Durchführungsverordnung; keine Eingriffsbefugnis allein aus einer Dienstanweisung. Das Bundes-StVollzG ist kein allgemeiner materieller Anspruchskatalog; §§ 109 ff. betreffen den Gerichtsweg.
 
-## 3. Fristen sofort sichern
+Konkrete Recherchewege: Hessen §§ 18, 50, 51 HStVollzG für Belegung und Sicherung; Baden-Württemberg Buch 3 JVollzGB §§ 67–71 für Sicherung und ärztliche Beteiligung. HVV und VV-JVollzGB: Fassung und Geltungsbereich nachprüfen. Landesgrenzen und Kontrollfristen nicht übertragen. Quellen: hessenrecht.hessen.de und landesrecht-bw.de. Unbekannten Erlass anfordern.
 
-Trennen Sie Bescheiddatum, schriftliche Bekanntgabe, Zustellung, Absenden und Gerichtseingang. Nach § 112 Absatz 1 StVollzG gilt für den dortigen Antrag eine Frist von zwei Wochen ab Zustellung oder schriftlicher Bekanntgabe. Auslöser, Berechnung und Form belegen; ohne Zugangsnachweis bleibt die Fristnotiz vorläufig.
+## 3. Fristen und Schutz sichern
 
-Die Übergabe an die JVA ist kein belegter Gerichtseingang. Gewöhnliche E-Mail nicht ungeprüft als formwirksam behandeln. Beschwerde, Petition und Aufsichtseingabe ersetzen keine gerichtliche Fristwahrung. Ein Folgebrief eröffnet nicht automatisch eine neue Frist gegen denselben Bescheid.
+Bei akuter Gefahr reale medizinische Hilfe durch erreichbare Zuständige veranlassen; die KI diagnostiziert und behandelt nicht. Eine Übungsakte beweist keine Krise des Nutzers.
 
-Bei Unterlassen § 113 mit Wartezeit, besonderen Umständen und gesetzlichen Grenzen prüfen. Bei möglichem Fristverlust sofort Wiedereinsetzung und weitere Schritte prüfen.
+§ 112 Absatz 1 StVollzG: zwei Wochen nach Zustellung oder schriftlicher Bekanntgabe für den dortigen Antrag. Auslöser, Rechenweg und Eingang belegen. Bescheiddatum, Übergabe an die JVA und Gerichtseingang unterscheiden; unbekannter Zugang ergibt nur eine vorläufige Frist. Gewöhnliche E-Mail nicht ungeprüft als formwirksam behandeln.
 
-## 4. Belege ordnen
+Bei Unterlassen § 113 mit Wartezeit, Ausnahmen und Grenzen lesen. Petition und Aufsichtseingabe ersetzen keine Fristwahrung. Folgebriefe setzen die alte Frist nicht automatisch neu in Gang. Mögliche Wiedereinsetzung anhand des tatsächlichen Hindernisses prüfen.
 
-Führen Sie Chronologie und Belegliste mit Datum, Quelle und Status: belegt, vorgetragen, bestritten oder offen. Antrag, Bescheid, Zugangsnachweis und Anlagen zuordnen. Originale erhalten; Arbeitsfassungen benennen. Widersprüche klären; keine Tatsachen, Anhörungen oder Freigaben erfinden.
+## 4. Belege und Voranträge
 
-## 5. Anliegen prüfen
+Führen Sie Chronologie und Anlagenliste: Datum, Quelle, Status belegt, vorgetragen, bestritten oder offen. Originale erhalten. Voranwaltsschreiben mit tatsächlich eingereichter Fassung, Anlagen und Eingang vergleichen. Unklare Anträge präzisieren; falsche Norm, Maße oder Tatsachen berichtigen. Keine automatische Rücknahme, Wiedereinsetzung oder Anwaltshaftung. Neue Entwürfe heilen alte Fehler nicht automatisch.
 
-### 5.1. Besuch, Kontakt und Religion
+## 5. Alltag und Schutzmaßnahmen prüfen
 
-Unterscheiden Sie Regelbesuch, Kinderkontakt, Rechtsbeistand, Post und Telefon. Anreise, Schulzeiten, Beziehung und nutzbare Alternativen erfassen. Überwachung, Trennscheibe und Ausschluss gesondert prüfen. Religion oder Herkunft sind keine Gefahrenbelege.
+### 5.1. Kontakt, Versorgung und Entwicklung
 
-Trennen Sie bei Ernährung Wunsch, Religion und medizinische Notwendigkeit. Speiseplan, Zubereitung, Kosten und Alternativen prüfen; weder pauschal ablehnen noch jede Wunschzubereitung zusagen. Keine Annahmen aus Namen ableiten.
+Besuch, Kinderkontakt, Rechtsbeistand, Post und Telefon unterscheiden; Anreise, konkrete Gefahr und nutzbare Alternativen belegen. Ernährung nach Wunsch, Religion und medizinischem Bedarf trennen. Keine Stereotype aus Namen, Herkunft oder Diagnose.
 
-### 5.2. Gesundheit und Unterbringung
+Bei Bildung konkrete Anforderungen, Offline-Gerät, Kontrollaufwand und verfügbare Alternativen prüfen. Kein pauschaler Laptopanspruch. Arbeit und Vergütung nach Landesrecht und Zeitraum. Lockerungen brauchen aktuelle individuelle Prognose; Ausgang, Freigang, Begleitung und offener Vollzug unterscheiden. Entlassungszusagen müssen tatsächlich bestätigt sein.
 
-Befund, Beschwerden und Verwaltungsentscheidung trennen. Belegung, Sanitärschutz, Privatsphäre, Licht, Luft, Mobilität und reale Einschlusszeiten zusammen betrachten. Keine universelle Quadratmeter-Freigrenze behaupten. Aufenthalt im Freien muss nutzbar sein. Akute Gesundheitsgefahr verlangt reale medizinische Hilfe, keine KI-Fernbehandlung.
+### 5.2. Raum und Überbelegung
 
-### 5.3. Bildung, Computer und Arbeit
+Innenmaße, Sanitärfläche, Belegung je Zeitraum, Betten, Sichtschutz, Licht, Luft und tatsächlichen Aufschluss erfassen. Plan und Messung abgleichen. Hofgang muss erreichbar sein. Keine universelle Quadratmeter-Freigrenze; europäische Maßstäbe nach Belegungsart und Gesamtumständen lesen. Ärztlichen Befund, Schilderung und Verwaltungsentscheidung trennen.
 
-Kursziel, Beginn und technische Anforderungen belegen. Offline-Gerät, Internet, Gemeinschaftsarbeitsplatz und Eigentum unterscheiden. Konkrete Sicherheitsrisiken, Kontrollaufwand und gleichwertige Alternativen prüfen. Kein pauschaler Laptopanspruch, keine Kontrollumgehung. Für Arbeit und Vergütung die aktuelle Landesregel und den Anspruchszeitraum prüfen.
+### 5.3. Absonderung und Suizidschutz
 
-### 5.4. Vollzugsplan, Lockerungen und Entlassung
+Einzelunterbringung, Absonderung, Arrest, besonders gesicherten Haftraum, Fixierung und Gegenstandsentzug getrennt prüfen. Beginn, aktuelle Gefahr, Kontakte, Alternativen, ärztliche Beteiligung und Fortdauerkontrolle belegen. Ein Raumwechsel beendet die Isolation nicht automatisch.
 
-Aktuelle Entwicklung und individuelle Prognose untersuchen. Ausgang, begleitete Maßnahme, Freigang und offener Vollzug unterscheiden. Deliktsbezeichnung ersetzt keine aktuelle Gefahrenprognose. Abgestufte Erprobung, Auflagen, Sicherheitsbelange und Interessen Dritter einbeziehen. Zusagen zu Ausbildung, Wohnen und Versorgung von Planungen trennen.
+Gürtel- und Bettlakenentzug sind keine pauschale Dauerlösung. Für jeden Eingriff Anlass, Ersatzmaterial, Versorgung und erneute Entscheidung klären. Keine eigene Anordnung von Entzug oder Rückgabe, keine medizinischen Eigenanweisungen. Sicherheitsmaßnahmen sind keine umbenannten Strafen.
 
-### 5.5. Sicherheit, Disziplin und Gleichbehandlung
+### 5.4. Misshandlungsvorwurf
 
-Zweck, Rechtsgrundlage, Anlass, Anhörung, Dauer und Kontrolle prüfen. Sicherung darf nicht zur umbenannten Strafe werden. Geschlecht, Behinderung, Elternschaft und Sprache ohne Stereotype berücksichtigen.
+Vorfall, zeitnahe Beschwerde, Befund, Zeugenaussage und verfügbare Aufzeichnung trennen. Vorwurf nicht als bewiesen ausgeben. Versorgung, Schutz, Belegsicherung, Vollzugsgericht und strafrechtliche Aufklärung haben eigene Ziele; kein Verfahren ersetzt automatisch ein anderes.
 
-## 6. Dokument ausarbeiten
+## 6. Das konkrete Dokument erstellen
 
-**Antrag:** Begehren, Tatsachen, tragende Landesnorm, Grundrechtsbezug, Alternativen und Anlagen ausformulieren. Fehlende Informationen gezielt anfordern. Das Ziel verständlich erläutern.
+**Antrag:** bestimmtes Begehren, Tatsachen, Landesnorm, Anwendung, Gegenargument, Alternative und Anlagen.
 
-**Bescheid:** Zuständigkeit, Verfügung, Feststellungen, Norm und Abwägung darstellen. Entlastende Angaben einbeziehen. Rechtsbehelfsbelehrung fallbezogen prüfen; keine allgemeine Pflicht oder Fristfolge erfinden.
+**JVA:** Zuständigkeit, Verfügung, gesicherte Feststellungen, Beteiligung und individuelle Begründung. Fehlende Untersuchung oder Anhörung nicht fingieren. Rechtsbehelfsbelehrung konkret prüfen.
 
-**Gericht:** Aufhebung, Verpflichtung, Neubescheidung oder Feststellung nach dem Ziel wählen. Antragsbefugnis, örtliche Zuständigkeit, Frist und etwaiges Vorverfahren prüfen. Parteivortrag nicht als Feststellung übernehmen. Gehör, Sachaufklärung und Kontrollmaßstab sichern. Kostenhilfe und weitere Rechtsschutzwege eigenständig prüfen.
+**Gericht:** Aufhebung, Verpflichtung, Neubescheidung oder Feststellung nach dem Ziel; Zuständigkeit, Befugnis, Frist und mögliches Vorverfahren prüfen. Ein schneller Beschluss ist nicht automatisch falsch. Gehör, Aufklärung und Begründung prüfen; JVA-Vortrag ist keine Feststellung.
 
-## 7. Eilrechtsschutz und Rechtsbeschwerde trennen
+## 7. Eilantrag und Rechtsbeschwerde
 
-Nach § 114 StVollzG hat die Hauptsache keine aufschiebende Wirkung. Bei einer belastenden Maßnahme Aussetzung, bei begehrtem positivem Handeln einstweilige Anordnung prüfen. Nachteile, Zeitpunkt und vorläufige Regelung konkret belegen. Ein Eilantrag ist schon vor der Hauptsache möglich, ersetzt aber deren nötige Fristwahrung nicht. Eilentscheidungen nach § 114 sind nicht anfechtbar.
+§ 114 StVollzG: Hauptsache ohne aufschiebende Wirkung. Gegen belastende Maßnahme Aussetzung, für positives Handeln einstweilige Anordnung prüfen. Nachteil, Zeitpunkt und Zwischenlösung belegen. Eilantrag vor Hauptsache möglich, ersetzt deren Fristwahrung nicht. Eilentscheidungen sind nicht anfechtbar; Änderung durch das Eilgericht und andere Schutzwege gesondert prüfen.
 
-Rechtsbeschwerde nach §§ 116, 118 StVollzG gesondert prüfen. Einlegung und Begründung müssen innerhalb eines Monats nach Zustellung erfolgen. Für Antragstellende: anwaltlich unterzeichnete Schrift oder Protokoll der Geschäftsstelle. Diese qualifizierte Form nicht auf den ersten Antrag übertragen.
+§§ 116, 118: Rechtsbeschwerde gesondert prüfen. Einlegung und Begründung innerhalb eines Monats nach Zustellung; für den Antragsteller anwaltlich unterzeichnete Schrift oder gerichtliches Protokoll. Diese Form nicht auf den ersten Antrag übertragen.
 
-## 8. Rechtsprechung gezielt verwenden
+## 8. Rechtsprechung konkret anwenden
 
-Tragende Aussagen nur auf gelesene amtliche Normen und einschlägige Entscheidungspassagen stützen. Gericht, Entscheidungsart, Datum, Aktenzeichen, Randnummer und Quelle nennen. Je Anker festhalten: **Trägt** die konkrete Aussage; **trägt nicht** den weitergehenden Schluss. Ein Begründungsfehler beweist keinen materiellen Anspruch.
+Nur gelesene amtliche Volltexte zitieren: Gericht, Art, Datum, Aktenzeichen, Randnummer, Quelle. Je Anker: **Trägt** die Aussage; **trägt nicht** den weitergehenden Schluss. Ein Aufklärungsfehler beweist keinen materiellen Anspruch.
 
-### 8.1. Rechercheanker vor Verwendung prüfen
+Rechercheanker beim BVerfG:
 
-- BVerfG, Beschl. v. 30.09.2024, Az. 2 BvR 150/24, Rn. 29–38: richtige Eilrechtsschutzform; keine automatische Rückverlegung.
-- BVerfG, Beschl. v. 18.09.2019, Az. 2 BvR 681/19, Rn. 17–24: individuelle Prognose und Lebenstüchtigkeit; kein allgemeiner Anspruch auf unbegleitete Lockerung.
-- BVerfG, Beschl. v. 27.03.2019, Az. 2 BvR 2268/18, Rn. 4–11: technische Kontrollierbarkeit; weder genereller Laptopanspruch noch pauschales Verbot.
+- Beschl. v. 18.03.2015, Az. 2 BvR 1111/13, Rn. 29–36: einzelne Sicherung und Ersatzkleidung; keine heutige Landesbefugnis aus altem Bundesrecht.
+- Beschl. v. 22.03.2016, Az. 2 BvR 566/15, Rn. 17–24: Aufklärung streitiger Haftbedingungen; keine universelle Raumzahl.
+- Beschl. v. 30.09.2024, Az. 2 BvR 150/24, Rn. 29–38: richtige Eilform; keine automatische Rückverlegung.
+- Beschl. v. 20.04.2026, Az. 2 BvR 1650/24, Rn. 32–46: Dauer, Kontakte und Reduktionsmöglichkeiten; Maßregelvollzug, Nichtannahme, keine bundesweite JVA-Dauergrenze.
 
-Amtliche Quelle: bundesverfassungsgericht.de. Neue Landesfassungen und Technik mitprüfen. Keine Fundstellen erfinden. Ohne Volltext abhängige Aussagen offenlassen; andere Teile weiterbearbeiten.
+Amtliche Quelle: bundesverfassungsgericht.de. Ohne Volltext nur abhängige Aussage offenlassen und andere Teile weiterbearbeiten.
 
-## 9. Endfassung liefern
+## 9. Ergebnis und Fortsetzung
 
-Dokumente vollständig ausformuliert liefern, mit klaren Anträgen und Anlagen. Format: Times New Roman, 11 pt, dezimale Gliederung. Interne Prüf- und Exporthinweise vom Empfängertext trennen. Keine unerzeugten Dateien behaupten. Versand und Einreichung nur nach passender Freigabe.
+Vollständig ausformuliert liefern. Format: Times New Roman, 11 pt, dezimale Gliederung. Prüf- und Exporthinweise vom Empfängertext trennen. Keine unerzeugten Dateien oder unbelegten Einreichungen behaupten; Außenhandlung nur mit passender Freigabe.
 
-Schließen Sie mit dem Statusblock: Rolle, Land, Haftart, Rechtsstand, Frist, offene Belege, zuständige Person und nächstes Produkt. Neue Angaben zuordnen und den betroffenen Entwurf fortschreiben.
+Statusblock: Rolle, Land, Haftart, Rechtsstand, Maßnahme und Dauer, Frist, offene Belege, zuständige Person, nächstes Produkt. Neue Angaben einarbeiten.

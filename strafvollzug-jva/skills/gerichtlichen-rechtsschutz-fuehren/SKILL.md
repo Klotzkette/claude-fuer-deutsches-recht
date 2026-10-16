@@ -55,9 +55,41 @@ Subsumieren Sie die konkrete Landesbefugnis und die Grundrechte. Ermessens- und 
 
 Prüfen Sie Prozesskostenhilfe nach § 120 Absatz 2 und den entsprechenden ZPO-Regeln sowie Beiordnung gesondert. Ein bloßer PKH-Antrag wird nicht als automatische Fristhemmung behandelt. Bei elektronischem Versand gelten die konkret einschlägigen Form- und Übermittlungsanforderungen. Kontrollieren Sie Empfänger, signierte Fassung, Anlagen und tatsächlichen Eingang. Externe Einreichung erfolgt nur durch die hierzu berechtigte Person im passenden Auftrag.
 
+### 3.7. Zu schnelle Entscheidungen anhand konkreter Aufklärungslücken prüfen
+
+Eine kurze Bearbeitungsdauer ist weder ein Rechtsfehler noch ein Gütesiegel. Prüfen Sie, ob vor der Entscheidung erheblicher Vortrag überhaupt vorlag, die Gegenseite darauf reagieren konnte und das Gericht die entscheidenden Widersprüche bearbeitet hat. Stellen Sie Behauptung, Gegendarstellung, Beweisangebot und Beschlussbegründung unmittelbar gegenüber. Ein Raumplan, ein Einsatzbericht oder eine ärztliche Notiz muss danach gewürdigt werden, was er tatsächlich belegt. Wiederholt das Gericht lediglich die Anstaltsangabe, benennt die Rüge die konkrete übergangene Gegenangabe und deren mögliche Auswirkung.
+
+Bei Eilbeschlüssen fragen Sie zusätzlich, ob die vorläufig begehrte Regelung richtig erfasst wurde und eine summarische Prüfung oder Folgenbetrachtung der tatsächlichen Dringlichkeit gerecht wird. Eine gegenwärtige erhebliche Beeinträchtigung wird nicht allein mit dem Hinweis auf ein irgendwann abgeschlossenes Hauptsacheverfahren beantwortet. Stellen Sie dar, welche Abhilfe vorläufig möglich wäre und welche Sicherheitsinteressen dagegenstehen. Wählen Sie nach Entscheidungsart den tatsächlich eröffneten Weg: § 114-Entscheidung nicht mit einer gewöhnlichen Rechtsbeschwerde angreifen. Eine Änderung oder Aufhebung durch das Eilgericht, Gehörsbehelfe und verfassungsgerichtlicher Rechtsschutz haben jeweils eigene Voraussetzungen. Keine davon wird als frei wählbare Ersatzberufung angeboten.
+
+#### 3.7.1. Zwei ergänzende Kontrollanker anwenden
+
+**BVerfG, Beschl. v. 23.09.2019, Az. 2 BvR 903/18, Rn. 15–24:** Trägt die Aufklärung widersprüchlicher Angaben zu Bekleidung, Außenaufenthalt und Kontakt zu Rechtsschutzstellen. Trägt nicht die Übernahme damaligen hessischen Maßregelrechts als heutige JVA-Befugnis oder die ungeprüfte Bestätigung aller Betroffenenangaben. Setzen Sie den Anker bei einer konkret bezeichneten Beweislücke ein.
+
+**BVerfG, Beschl. v. 24.03.2023, Az. 2 BvR 116/23, Rn. 17–24:** Trägt zeitgerechten wirksamen Eilrechtsschutz entsprechend der Eingriffsintensität. Vollzug einer anstaltsinternen Verlegung beseitigt Rechtsschutzbedarf nicht automatisch; Personalbelastung oder Erkrankung rechtfertigen keine unangemessene Verzögerung. Trägt nicht eine feste Bearbeitungsfrist oder zwingenden Antragserfolg. Volltexte und Reichweitengrenzen enthält [Schutz und Aufklärung](../../references/haftbedingungen-und-schutzmassnahmen.md).
+
+### 3.8. Fehlerhafte Voranträge bei Mandatsübernahme korrigieren
+
+Lesen Sie Originalantrag, vollständigen gerichtlichen Vorgang, Übermittlungsnachweise und Vollmacht, bevor Sie das frühere Vorgehen bewerten. Unterscheiden Sie einen schlechten Entwurf, einen tatsächlich eingereichten unklaren Antrag und eine bereits beschiedene Angelegenheit. Ein Schriftsatz des früheren Anwalts ist eine Erklärung mit möglicher Verfahrenswirkung, kein verbindlicher Tatsachenbefund. Sichern Sie zuerst die noch laufenden Fristen und das aktuelle Schutzbegehren; eine interne Fehleranalyse darf diese Schritte nicht verzögern.
+
+Erstellen Sie eine knappe Korrekturmatrix: bisherige Aussage, Originalbeleg, zutreffende Einordnung, konkrete berichtigende Erklärung. Typische Fehler sind ein falsches Bundesland, Verwechslung von Strafhaft und Maßregel, Anwendung des Bundes-StVollzG als materieller Generalkatalog, unbestimmte Anträge, nicht beigefügte Anlagen, ein Verzicht ohne gesicherte Grundlage oder die Annahme, eine Aufsichtseingabe wahre die Gerichtsfrist. Prüfen Sie die tatsächliche Reichweite der Erklärung und eine rechtlich mögliche Präzisierung. Erklären Sie keine Rücknahme, Erledigung oder neuen Sachantrag automatisch.
+
+Eine nachträgliche Ergänzung heilt weder jeden ursprünglichen Frist- noch jeden Formmangel. Ein Voranwaltsfehler begründet nicht automatisch Wiedereinsetzung oder einen feststehenden Haftungsanspruch. Prüfen Sie beide Fragen getrennt anhand des einschlägigen Verfahrensrechts und des belegten Ablaufs; behaupten Sie keine allgemeine Zurechnungsregel ohne Quelle. Bei der Rechtsbeschwerde bleibt die qualifizierte Form des § 118 Absatz 3 für den Antragsteller maßgeblich. Für den ersten Antrag wird sie nicht nachträglich erfunden.
+
+#### 3.8.1. Belege früh fachgerichtlich vortragen
+
+**BVerfG, Beschl. v. 07.11.2012, Az. 2 BvR 1567/11, Rn. 1–5:** Trägt die gemeinsame Betrachtung von Raummaß und tatsächlichem Tagesregime sowie die Notwendigkeit rechtzeitigen fachgerichtlichen Tatsachenvortrags. Trägt nicht einen allgemeinen Freibrief bei sechs Quadratmetern oder die Zusage späterer Heilung jedes Vortragsmangels. Der damalige Fall betraf einen hessischen Einzelhaftraum; Mehrfachbelegung und Isolation verlangen ihren eigenen Vergleich. Bei einem schwachen Vorantrag ergänzen Sie deshalb konkrete Belegungszeiträume, Aufschlussausfälle und Messbelege frühzeitig statt erstmals in einer Verfassungsbeschwerde.
+
+### 3.9. Schutzbegehren und Aufklärung nach behaupteter Misshandlung trennen
+
+Ein Vorwurf körperlicher Gewalt führt zu mehreren möglichen Produkten: Schutzantrag gegen eine fortdauernde Belastung, Antrag auf gerichtliche Kontrolle der konkreten Vollzugsmaßnahme, Sicherungs- oder Auskunftsersuchen zu vorhandenen Belegen und gegebenenfalls ein gesonderter strafrechtlicher Auftrag. Benennen Sie Empfänger und Ziel jeweils getrennt. Die Strafvollstreckungskammer wird nicht zur Staatsanwaltschaft; eine Aufsichtsbeschwerde ist kein Ersatz für strafrechtliche Ermittlungen oder gerichtliche Fristwahrung.
+
+Erfassen Sie belastende und entlastende Umstände. Der Vermerk stellt klar, ob die Person den Einsatz unmittelbar erlebt hat, ein Zeuge nur die spätere Verletzung sah oder ein Protokoll erst nachträglich erstellt wurde. Der Antrag darf entschiedene Aufklärung verlangen, ohne eine noch ungeklärte Täterschaft als bewiesen darzustellen. Nach Erledigung der eigentlichen Sicherung prüfen Sie das verbleibende Feststellungsinteresse und fortbestehende Schutzbedürfnisse gesondert.
+
 ## 4. Quellenpflicht
 
 Die Einzelheiten stehen in [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md), die gelesenen Anker in [Rechtsprechung](../../references/rechtsprechung.md). Beachten Sie [Zitierweise](../../references/zitierweise.md). Eine passende Normfassung und tatsächlich gelesene Randnummer sind erforderlich. Nicht jede Verfassungsbeschwerdeentscheidung ist eine Sachentscheidung zugunsten der Gefangenen. Neuere Entscheidungen aus anderen Haftarten werden nicht ohne Prüfung übertragen. Literaturzitate aus Modellwissen bleiben ausgeschlossen.
+
+Die [Referenz zu Haftbedingungen und Schutzmaßnahmen](../../references/haftbedingungen-und-schutzmassnahmen.md) verknüpft aktuelle Landesgesetze, datierte Verwaltungsvorschriften und die zusätzlichen Entscheidungsanker. Ältere Verwaltungstexte werden nicht als vollständig bestätigte aktuelle Fassung ausgegeben.
 
 ## 5. Ausgabeformat
 
@@ -70,3 +102,5 @@ Die getrennte interne Kontrollnotiz nennt Frist, Auslöser, sicheren Einreichung
 Ein Bescheid wurde nachweislich erstmals am Montag, 05.10.2026, schriftlich bekanntgegeben. Die Zweiwochenfrist endet grundsätzlich am Montag, 19.10.2026. Am 16.10.2026 bereiten Sie den Hauptsacheantrag und bei drohendem Kursverlust zusätzlich den passenden Eilantrag vor; weitere Sachverhaltsaufklärung darf die Fristsicherung nicht verdrängen.
 
 Nach einem ablehnenden Hauptsachebeschluss prüfen Sie, ob eine tragfähige Rechtsbeschwerdefrage vorliegt und die Monatsfrist gewahrt werden kann. Betrifft die Ablehnung hingegen nur den Eilantrag nach § 114 Absatz 2, erzeugen Sie keine formularmäßige Rechtsbeschwerde, sondern bestimmen den tatsächlich eröffneten nächsten Schritt.
+
+In Hagedorns Akte hat der frühere Anwalt einen Eilantrag ohne belastbare Chronologie gestellt. Nach Ablehnung bleibt die Hauptsache offen, später kommt eine Fortdauerentscheidung hinzu. Sie sichern deren Bekanntgabe, präzisieren aktuelle Begehren und ergänzen konkrete Belege. Sie erzeugen keine gewöhnliche Rechtsbeschwerde gegen den Eilbeschluss und nehmen dessen Begründung nicht als abschließende Feststellung aller Tatsachen hin.

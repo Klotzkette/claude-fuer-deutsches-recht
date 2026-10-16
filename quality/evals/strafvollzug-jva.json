@@ -117,6 +117,51 @@
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/rk20260420_2bvr165024.html",
       "checked_on": "2026-10-16",
       "supports": "BVerfG, Beschl. v. 20.04.2026 – Az. 2 BvR 1650/24, Rn. 32–46. Mit zunehmender Dauer wachsen Eingriffsgewicht und Anforderungen an Verhältnismäßigkeit und Rechtsschutz. Gesundheitsfolgen, tatsächliche Kontakte, Schutz Dritter, konkrete Gefahren, alternative Maßnahmen und laufende Überprüfung gehören in die Gesamtbetrachtung. Rn. 46 verlangt trotz Nichtannahme, jede Möglichkeit zur Reduzierung der Gefährlichkeit zu ergreifen; dazu können alternative diagnostische und therapeutische Ansätze gehören. Ein Rechtsbehelf muss sich mit den tragenden Sicherheitsgründen auseinandersetzen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/03/rk20150318_2bvr111113.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 18.03.2015 – Az. 2 BvR 1111/13, Rn. 29–36; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/01/rk20080124_2bvr166106.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 24.01.2008 – Az. 2 BvR 1661/06, Rn. 34–43; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/01/rk20200115_2bvr176316.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 15.01.2020 – Az. 2 BvR 1763/16, Rn. 34–43; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190923_2bvr090318.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 23.09.2019 – Az. 2 BvR 903/18, Rn. 15–24; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/03/rk20230324_2bvr011623.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 24.03.2023 – Az. 2 BvR 116/23, Rn. 17–24; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/12/rk20201208_1bvr011716.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 08.12.2020 – Az. 1 BvR 117/16, Rn. 13–19; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/11/rk20121107_2bvr156711.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 07.11.2012 – Az. 2 BvR 1567/11, Rn. 1–5; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/11/rk20111107_1bvr140309.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 07.11.2011 – Az. 1 BvR 1403/09, Rn. 40–43 und 46–50; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
+    },
+    {
+      "url": "https://hudoc.echr.coe.int/app/conversion/docx/pdf?filename=CASE+OF+MUR%C5%A0I%C4%86+v.+CROATIA.pdf&id=001-167483&library=ECHR&logEvent=False",
+      "checked_on": "2026-10-16",
+      "supports": "EGMR (Große Kammer), Urt. v. 20.10.2016 – Beschwerde Nr. 7334/13, Muršić gegen Kroatien, Rn. 114 und 136–140; amtlicher Volltext gelesen; Tragweite und Grenze in der Referenz Haftbedingungen und Schutzmaßnahmen."
     }
   ],
   "selection": {
@@ -332,6 +377,112 @@
           ]
         }
       ]
+    },
+    {
+      "id": "hessen-absonderung-vorakte",
+      "target_skill": "sicherheit-disziplin-kontrollieren",
+      "request": "Jannis Hagedorn wird in Hessen seit längerer Zeit getrennt untergebracht. Dienstberichte widersprechen sich, eine körperliche Misshandlung wird behauptet, medizinische Unterlagen fehlen teilweise. Der bisherige Anwalt hat einen pauschalen Antrag gestellt; ein vorläufiger Gerichtsbeschluss übernimmt die Anstaltsdarstellung. Prüfen Sie die gesamte Vorakte und erstellen Sie eine begründete Fortführung mit passenden Anlagen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Einzelbelegung, Absonderung, Disziplinarrest und besondere Sicherungsmaßnahmen nach Maßnahme, Zeitraum und aktueller hessischer Befugnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft bei längerer Absonderung die konkret einschlägige hessische Aufsichtsschwelle, deren Erreichen und dokumentierte Zustimmung; verwechselt Zustimmung nicht mit umfassender materieller Rechtmäßigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Misshandlung als streitigen Vorwurf und sichert unterschiedliche Wahrnehmungen und fehlende medizinische Dokumentation; stellt keinen Schuldnachweis allein aus einer Lücke her.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Prüft den älteren Schriftsatz nach Begehren, Tatsachen, Bekanntgabe, Eingang, Verfahrensstand und Anlagen und korrigiert ihn ohne einen automatischen Fristneubeginn zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Unterscheidet Hauptsache und vorläufigen Beschluss; formuliert konkrete Aufklärungs- und Eilbegehren, ohne eine unzulässige Beschwerde routinemäßig fortzuführen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Verwendet die Maßregelvollzugsentscheidung von 2026 nur mit ihrer tatsächlichen Übertragungsgrenze und liefert einen ausformulierten bearbeitbaren Schriftsatz mit benannten Lücken.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bw-schutz-haftraum-vorakte",
+      "target_skill": "gesundheit-unterbringung-pruefen",
+      "request": "Amira Finkbeiner befindet sich in baden-württembergischer Erwachsenenstrafhaft. Wegen dokumentierter Suizidgefahr wurden Gürtel und Bettlaken entzogen. Der Verlauf und die Ausgabe geeigneter Ersatzmaterialien sind unklar. Während eines Bauabschnitts lebt sie in einem eng belegten Haftraum mit widersprüchlichen Raumangaben. Ein älterer Antrag nennt pauschal eine Quadratmetergrenze, das Gericht hat knapp entschieden. Erstellen Sie eine sichere, belegte rechtliche Fortführung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Priorisiert reale medizinische Abklärung bei aktueller Gefahr; ordnet nicht selbst die unkontrollierte Rückgabe von Gegenständen an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Gefahrenanlass, einzelne Schutzmaßnahmen, menschenwürdige Durchführung, geeignetes Ersatzmaterial, ärztliche Befassung und dokumentierte Fortdauerprüfung nach baden-württembergischem Recht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Rechnet die widersprüchlichen Raumvarianten transparent, behandelt Sanitärfläche, Belegung, Einschlussdauer und tatsächliche Ausgleichsmöglichkeiten gesondert und macht aus einer Flächenzahl keine pauschale Zulässigkeitsregel.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Behandelt das Gericht nicht als gebunden an ungeprüfte Anstaltsangaben und fordert die entscheidenden Belege und Gehörsschritte konkret an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Erkennt rechtliche und tatsächliche Schwächen der Vorakte, prüft Zustellung an die Vertretung getrennt von Ausgabe an die Mandantin und bestimmt den statthaften nächsten Schritt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Liefert einen ausformulierten Antrag mit erreichbarem Schutzkonzept, Anlagenbezug, offenen Angaben und ausdrücklicher menschlicher Freigabe vor Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
@@ -341,7 +492,7 @@
       "Lesbare Zwischenüberschriften und eigenständiger Einstieg ohne lange Textblöcke.",
       "Rollen, Landesrecht und Haftart, Frist und gerichtlicher Eingang sowie passende Eilformen bleiben getrennt."
     ],
-    "sha256": "6cb3b9717d20f1efe3e602b25f5c436a02fbfb652dfdd1e60a2e37647b194d6b"
+    "sha256": "bd2da023577b52e20082cdd3d7fb938ff0569a131d8cfd6bed471b31c60d2425"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -350,20 +501,21 @@
       "Vertiefter fortsetzbarer Ablauf für jeden Vollzugsanlass; kein Quellenanhang als Ersatz der Subsumtion.",
       "Zusätzliche amtliche Volltexte mit tatsächlich gelesenen Randnummern und ausdrücklichen Übertragungsgrenzen."
     ],
-    "sha256": "59a3387057b10e771d15a8fc2f0a4acc18520f767d633e5f5c0a7d44cb13705d"
+    "sha256": "24149b9cddb136521e6e77eb6d397dabe315f7db0b842b5ed99b38831c333e23"
   },
   "focus_review": {
     "method": "desk_review",
     "reviewed_on": "2026-10-16",
-    "verdict": "retained",
+    "verdict": "revised",
     "reason": "Führt vom konkreten Begehren bis zum ausformulierten Arbeitsprodukt.",
     "changes": [
-      "Rolle und Landesrecht vor Anspruchsprüfung; bearbeitbare Teile ohne unnötiges Vollinterview ausarbeiten."
+      "Rolle und Landesrecht vor Anspruchsprüfung; bearbeitbare Teile ohne unnötiges Vollinterview ausarbeiten.",
+      "Maßnahmenzeiträume, Schutzdurchführung und Reparatur früherer Anträge konkret in den Ablauf integriert."
     ],
     "prompt_path": "strafvollzug-jva/strafvollzug-jva-hauptproblem.md",
     "skill_path": "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
-    "prompt_sha256": "9af4783241c90ab30b498a1d33d3ce68a911638452eb53ed6ffcb0a3297dc402",
-    "skill_sha256": "13a611855bbd8be791c5944cfb91d6d7c3f42e0c01e91a7b3afb60e850ecdcc8"
+    "prompt_sha256": "72a6234b151b75bd8f6e22130ecf481375c13fdfb5f5fe1e3d73758fed970604",
+    "skill_sha256": "1553507dcb6bd0b0be70eafdf13ea3157334bfa5c4e27b10cac6d61c9371a7b6"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",
@@ -374,7 +526,7 @@
       "Fortsetzung aktualisiert nur betroffene Produkte."
     ],
     "continuation": "Offene Belege und Quellen bleiben sichtbar; unabhängige Arbeiten und gezielte Rückfragen werden ausformuliert.",
-    "enrichment": "Vier vollständige Testakten und fünf fachlich konkrete Prüfszenarien mit21Kriterien.",
+    "enrichment": "Sechs vollständige Testakten und sieben fachlich konkrete Prüfszenarien mit 33 Kriterien; zwei vertiefte Fälle zu Absonderung, Schutzmaßnahmen, Vorakten und gerichtlicher Aufklärung.",
     "limits": "Redaktionelle Fachprüfung; tatsächliche Anwendungsproben werden gesondert protokolliert. Kein beobachteter Live-Import in Claude oder ChatGPT."
   },
   "prompt_editorial_review": {
@@ -498,6 +650,60 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/rk20260420_2bvr165024.html",
         "application": "Mit zunehmender Dauer wachsen Eingriffsgewicht und Anforderungen an Verhältnismäßigkeit und Rechtsschutz. Gesundheitsfolgen, tatsächliche Kontakte, Schutz Dritter, konkrete Gefahren, alternative Maßnahmen und laufende Überprüfung gehören in die Gesamtbetrachtung. Rn. 46 verlangt trotz Nichtannahme, jede Möglichkeit zur Reduzierung der Gefährlichkeit zu ergreifen; dazu können alternative diagnostische und therapeutische Ansätze gehören. Ein Rechtsbehelf muss sich mit den tragenden Sicherheitsgründen auseinandersetzen.",
         "limit": "Weder Billigung beliebiger jahrelanger Einzelhaft noch pauschaler Anspruch auf sofortige Aufhebung jeder Isolation. Keine Übertragung des bremischen Psychiatriegesetzes auf eine JVA. Die im Beschluss zitierten EGMR-Entscheidungen sind hier nicht selbst am Original geprüft und dürfen nicht als eigenständig verifizierte Zusatzanker erscheinen."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 18.03.2015 – Az. 2 BvR 1111/13, Rn. 29–36",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/03/rk20150318_2bvr111113.html",
+        "application": "Im damaligen hessischen Strafhaftfall genügte eine allgemein aus randalierendem Verhalten abgeleitete Selbstgefährdung nicht für vollständige Entkleidung und dauernde Beobachtung. Die Notwendigkeit jeder kumulierten Maßnahme musste einzeln begründet werden. Ersatzbekleidung und Intimsphäre waren gesondert zu berücksichtigen. Für Finkbeiner: Entscheidung über Gürtel und Bettlaken, tatsächliche Ersatzversorgung, konkrete Gefahreneinschätzung und Fortdauer nicht in einer pauschalen Sammelbegründung verschmelzen.",
+        "limit": "Kein pauschales Verbot gefahrenbezogener Wegnahme und keine medizinische Zusage, gewöhnliche Bettwäsche sei sicher. Der damalige § 88 Bundes-StVollzG ist nicht die aktuelle Ermächtigung in Hessen oder Baden-Württemberg. Unterschiedliche Materialbeschreibungen in Rechtsprechung und Verwaltungstexten sind keine allgemeine Beschaffungsempfehlung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 24.01.2008 – Az. 2 BvR 1661/06, Rn. 34–43",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2008/01/rk20080124_2bvr166106.html",
+        "application": "Tatsächliche Gefahr, zeitnahe fachliche Untersuchung und weniger belastende Alternativen sind aufzuklären. Gerichtliche Kontrolle darf nicht an einer ungesicherten Tatsachengrundlage scheitern. Der Beschluss verlangt fallbezogene Betrachtung unter anderem von Spezialtextilien, fachlich vorgeschlagener Betreuung und Beobachtungsalternativen; der Verweis auf die übliche Ausstattung einer Sicherungszelle genügt nicht.",
+        "limit": "Der Ausgangsfall betraf Untersuchungshaft und damaliges Recht. Weder seine Ermächtigungsgrundlage noch jede medizinische Alternative ist unverändert auf heutigen Erwachsenenstrafvollzug übertragbar. Aus einer früheren Empfehlung folgt keine aktuelle Entwarnung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 15.01.2020 – Az. 2 BvR 1763/16, Rn. 34–43",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/01/rk20200115_2bvr176316.html",
+        "application": "Bei gewichtigen Vorwürfen gegen Amtsträger und struktureller Unterlegenheit im staatlichen Gewahrsam kommt effektiver strafrechtlicher Sachaufklärung besonderes Gewicht zu. Rn. 40 nennt ausdrücklich den Strafvollzug. Für Hagedorn: zeitnahe Verletzungsbefunde, Videoverfügbarkeit, Einsatzunterlagen, Zeugen und abweichende Darstellungen sichern und die beantragten Ermittlungen konkret benennen.",
+        "limit": "Keine Schuldvermutung gegen Beschäftigte, kein Anspruch auf bestimmte Verurteilung und keine automatisch zulässige Klageerzwingung. Der Ausgangsfall betraf psychiatrische Fixierung. Strafrechtliche Ermittlungen und vollzugsgerichtliche Überprüfung bleiben getrennte Verfahren."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 23.09.2019 – Az. 2 BvR 903/18, Rn. 15–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190923_2bvr090318.html",
+        "application": "Die gerichtliche Tatsachengrundlage muss tragfähig sein. Widersprechende Angaben zu Kleidung und Außenaufenthalt sowie zur Erreichbarkeit von Gericht oder Staatsanwaltschaft durften nicht ungeklärt bleiben. Trennen Sie in der Akte beobachtete Tatsachen, Mitteilungen der Einrichtung und Schlussfolgerungen; jede wesentliche Abweichung bekommt eine konkrete Aufklärungsfrage.",
+        "limit": "Das damals geprüfte hessische Maßregelvollzugsrecht ist keine JVA-Ermächtigung. Der Beschluss bestätigt nicht alle Behauptungen der untergebrachten Person und ersetzt keinen Nachweis der konkreten heutigen Beschränkung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 24.03.2023 – Az. 2 BvR 116/23, Rn. 17–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/03/rk20230324_2bvr011623.html",
+        "application": "Die Intensität drohender Grundrechtsbeeinträchtigung beeinflusst die erforderliche rechtliche und tatsächliche Prüfung im Eilverfahren. Allgemeine Personalbelastung oder Erkrankung des zuständigen Richters rechtfertigen keine unangemessene Verzögerung. Die bereits vollzogene anstaltsinterne Verlegung beseitigte das Rechtsschutzbedürfnis nicht automatisch; vorläufige Rückgängigmachung musste geprüft werden.",
+        "limit": "Keine allgemeine starre Entscheidungsfrist und kein stets erfolgreicher Eilantrag. Eine erledigte Einzelmaßnahme, eine fortwirkende Verlegung und eine neue Fortdauerentscheidung sind auseinanderzuhalten; der passende Antrag folgt daraus und nicht aus einem kopierten Voranwaltsmuster."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 08.12.2020 – Az. 1 BvR 117/16, Rn. 13–19",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/12/rk20201208_1bvr011716.html",
+        "application": "In der dortigen Amtshaftungssache war es willkürlich, erheblichen Vortrag und angebotenen Beweis zu Raumgröße, Doppelbelegung und Toilettenabtrennung ohne tragfähige Auseinandersetzung zu übergehen und aufgehobene Erwägungen zu wiederholen. Für die Testakte sind Grundriss, Messmethode, Raumwechsel, Belegungsdauer und Sanitärsituation deshalb einzeln nachzuweisen.",
+        "limit": "Nicht jeder Rechtsfehler ist Willkür. Der Beschluss schafft weder eine bundeseinheitliche Quadratmeterzahl noch automatische Entschädigung. Die geforderte Auseinandersetzung mit einschlägigen Argumenten wird nicht als allgemeine Präjudizienbindung formuliert."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 07.11.2012 – Az. 2 BvR 1567/11, Rn. 1–5",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2012/11/rk20121107_2bvr156711.html",
+        "application": "Im konkreten hessischen Einzelhaftraumfall waren die Größe am unteren Rand und die erheblichen Aufenthaltsmöglichkeiten außerhalb der Zelle zusammen zu betrachten. Neue Tatsachen zur Bewegungsfläche und Fenstersituation mussten bereits fachgerichtlich vorgebracht werden. Einen mangelhaften Voranwaltsantrag daher früh durch zeitlich und räumlich bestimmtes Vorbringen mit Beweismitteln ergänzen.",
+        "limit": "Sechs Quadratmeter sind kein allgemeiner Freibrief, erst recht nicht für Mehrfachbelegung oder langdauernde Isolation. Historische, in der Entscheidung referierte Standards werden nicht als aktuelle Landesbauvorschrift ausgegeben. Versäumter Tatsachenvortrag ist nicht stets nachträglich heilbar."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 07.11.2011 – Az. 1 BvR 1403/09, Rn. 40–43 und 46–50",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/11/rk20111107_1bvr140309.html",
+        "application": "Bei der Prozesskostenhilfeprüfung einer Amtshaftungssache durften eine bloße Sichtschutzwand und fehlender förmlicher Verlegungsantrag die Auseinandersetzung mit menschenwürdiger Unterbringung nicht ersetzen. Ob unterlassene Rechtsbehelfe Schäden verhindert hätten, war tatsächlich und zeitlich aufzuklären. Erfassen Sie deshalb Beschwerden, Anträge, Reaktionen und den frühestmöglichen Abhilfezeitpunkt.",
+        "limit": "Keine garantierte Geldentschädigung, keine Befreiung von erforderlichen Rechtsbehelfen und keine pauschale Feststellung einer wirksamen oder unwirksamen Einwilligung. Das Prozesskostenhilfeverfahren ersetzt nicht die abschließende Beweisaufnahme."
+      },
+      {
+        "citation": "EGMR (Große Kammer), Urt. v. 20.10.2016 – Beschwerde Nr. 7334/13, Muršić gegen Kroatien, Rn. 114 und 136–140",
+        "url": "https://hudoc.echr.coe.int/app/conversion/docx/pdf?filename=CASE+OF+MUR%C5%A0I%C4%86+v.+CROATIA.pdf&id=001-167483&library=ECHR&logEvent=False",
+        "application": "Bei Mehrfachbelegung wird die Sanitärfläche für diese Berechnung abgezogen, Möbelfläche grundsätzlich einbezogen; tatsächliche Bewegungsmöglichkeit bleibt erheblich. Unter drei Quadratmetern persönlicher Fläche besteht eine starke Vermutung einer Verletzung von Art. 3 EMRK. Eine Widerlegung setzt normalerweise kumulativ kurze, gelegentliche und geringfügige Unterschreitungen, ausreichende Bewegung/Aktivitäten außerhalb und ansonsten geeignete Bedingungen voraus. Zwischen drei und vier Quadratmetern sind zusätzliche Belastungen besonders zu prüfen; auch darüber bleiben andere Haftbedingungen relevant.",
+        "limit": "Keine zulässige deutsche Standardzellengröße von drei Quadratmetern, keine Rechnung allein aus Bruttofläche und keine Übertragung des Mehrfachbelegungsmaßstabs auf sämtliche Einzelhafträume. Nationale Grundrechtsanforderungen sind daneben zu prüfen. Die vorbeugenden CPT-Maßstäbe sind keine Landesgesetze."
       }
     ],
     "remaining_limits": [

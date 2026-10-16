@@ -35,10 +35,12 @@ ROOT = Path(__file__).resolve().parents[1]
 NAME = "strafvollzug-jva"
 PLUGIN = ROOT / NAME
 DIST = None
-CASES = (
+LEGACY_CASES = (
     "jva-berlin-besuch-ernaehrung", "jva-nrw-unterbringung-gesundheit",
     "jva-bayern-bildung-computer", "jva-niedersachsen-lockerungen-familie",
 )
+EXTRA_CASES = ("jva-hessen-absonderung-hagedorn", "jva-bw-schutzmassnahmen-finkbeiner")
+CASES = LEGACY_CASES + EXTRA_CASES
 FILES = {
     "auftrag": "01_Auftrag_und_Verfahrensstand.docx",
     "antrag": "02_Antrag_an_die_JVA.docx",
@@ -61,7 +63,7 @@ ANNEXES = dict(zip((f"A{i}" for i in range(1, 9)),
                   (FILES[k] for k in ("antrag", "bescheid", "bekanntgabe", "hausordnung",
                                       "beleg1", "beleg2", "gespraech", "plan"))))
 KINDS = ("werkstatt", "schnellstart", "hauptproblem")
-EXPECTED_DAYS = dict(zip(CASES, ([3, 8], [4], [14, 28], [10, 17, 35, 94])))
+EXPECTED_DAYS = dict(zip(LEGACY_CASES, ([3, 8], [4], [14, 28], [10, 17, 35, 94])))
 
 
 def module(filename):
@@ -131,6 +133,16 @@ def compact(text):
     return re.sub(r"\s+", "", text)
 
 
+def printed_cell_value(cell):
+    """Prüft den sichtbaren Zahlenwert, nicht binäre Gleitkomma-Artefakte."""
+    value = cell.value
+    if isinstance(value, datetime):
+        return value.strftime("%Y-%m-%d")
+    if isinstance(value, (int, float)) and cell.number_format == "0.00":
+        return f"{value:.2f}"
+    return str(value)
+
+
 def assets():
     result = {f"{NAME}.zip", f"{NAME}-portable.zip", "checksums-sha256.txt"}
     result.update(f"{NAME}-{kind}.{suffix}" for kind in KINDS for suffix in ("md", "txt", "pdf"))
@@ -152,7 +164,7 @@ class JVAComponentTests(unittest.TestCase):
     def test_manifests_skills_commands_and_local_links(self):
         for rel in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
             obj = json.loads((PLUGIN / rel).read_text())
-            self.assertEqual((obj["name"], obj["version"]), (NAME, "1.0.1"))
+            self.assertEqual((obj["name"], obj["version"]), (NAME, "1.1.0"))
         catalog = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = [p for p in catalog["plugins"] if p["name"] == NAME]
         self.assertEqual(len(entries), 1)
@@ -196,7 +208,7 @@ class JVAComponentTests(unittest.TestCase):
                          sha(PLUGIN / "skills/strafvollzug-fall-steuern/SKILL.md"))
 
     def test_original_inventory_and_court_annexes(self):
-        self.assertEqual([c["slug"] for c in self.cases], list(CASES))
+        self.assertEqual([c["slug"] for c in self.cases], list(LEGACY_CASES))
         total = 0
         for c in self.cases:
             folder = ROOT / "testakten" / c["slug"]
@@ -311,9 +323,9 @@ class JVAComponentTests(unittest.TestCase):
 
     def test_download_notices_links_and_component_routes(self):
         readme = (PLUGIN / "README.md").read_text()
-        release = "/strafvollzug-jva-v1.0.0/"
-        self.assertIn("/strafvollzug-jva-v1.0.1/", plugin_asset_url(NAME))
+        self.assertIn("/strafvollzug-jva-v1.1.0/", plugin_asset_url(NAME))
         for c in CASES:
+            release = "/strafvollzug-jva-v1.0.0/" if c in LEGACY_CASES else "/strafvollzug-jva-v1.1.0/"
             text = (ROOT / "testakten" / c / "README.md").read_text()
             self.assertIn(NOTICE_MARKDOWN, text)
             for suffix in ("", "-einzelpdfs"):
@@ -325,6 +337,93 @@ class JVAComponentTests(unittest.TestCase):
         for kind in KINDS:
             for suffix in ("md", "txt", "pdf"):
                 self.assertIn(f"{NAME}-{kind}.{suffix}", readme)
+
+    def test_extended_case_inventory_annexes_and_native_formats(self):
+        report = json.loads((ROOT / "quality/strafvollzug-jva/erweiterungsakten-pruefung.json").read_text())
+        self.assertEqual({c["slug"] for c in report["cases"]}, set(EXTRA_CASES))
+        for case in report["cases"]:
+            folder = ROOT / "testakten" / case["slug"]
+            actual = {p.name: p for p, _ in working_dump_archive_pairs(folder, include_gesamt_pdf=False)}
+            self.assertEqual(set(actual), {f["file"] for f in case["files"]})
+            self.assertEqual(len(actual), 34)
+            self.assertEqual(Counter(p.suffix for p in actual.values()),
+                             {".docx": 8, ".pdf": 12, ".eml": 12, ".xlsx": 2})
+            for item in case["files"]:
+                path = actual[item["file"]]
+                self.assertFalse(path.is_symlink())
+                self.assertEqual(sha(path), item["sha256"], str(path))
+                self.assertEqual(path.stat().st_size, item["bytes"])
+                if path.suffix in {".docx", ".xlsx"}:
+                    with zipfile.ZipFile(path) as archive:
+                        self.assertIsNone(archive.testzip())
+                        self.assertIn("[Content_Types].xml", archive.namelist())
+                elif path.suffix == ".pdf":
+                    self.assertFalse(pdf_content_errors(path.read_bytes()), path.name)
+                    self.assertGreater(len(pdf_text(path.read_bytes()).split()), 60, path.name)
+            draft = docx_text(actual[case["draft"]])
+            self.assertGreater(len(draft.split()), 650)
+            self.assertEqual(set(re.findall(r"\bA\d+\b", draft)), set(case["attachment_map"]))
+            self.assertEqual(set(case["attachment_map"]), {f"A{i}" for i in range(1, 13)})
+            book = load_workbook(actual["33_Chronologie_und_Anlagen.xlsx"], data_only=True)
+            rows = list(book["Anlagen"].iter_rows(min_row=6, max_row=17, values_only=True))
+            self.assertEqual({r[0]: r[1] for r in rows}, case["attachment_map"])
+            for filename in case["attachment_map"].values():
+                self.assertIn(filename, actual)
+
+    def test_extended_emails_and_calculated_workbooks(self):
+        report = json.loads((ROOT / "quality/strafvollzug-jva/erweiterungsakten-pruefung.json").read_text())
+        ids = {str(BytesParser(policy=policy.default).parsebytes(p.read_bytes())["Message-ID"])
+               for c in LEGACY_CASES for p in (ROOT / "testakten" / c).glob("*.eml")}
+        attachments = Counter()
+        for case in report["cases"]:
+            folder = ROOT / "testakten" / case["slug"]
+            self.assertEqual(len(case["mails"]), 12)
+            for item in case["mails"]:
+                msg = BytesParser(policy=policy.default).parsebytes((folder / item["file"]).read_bytes())
+                for part in msg.walk():
+                    self.assertFalse(part.defects)
+                for header in ("From", "To", "Date", "Subject", "Message-ID", "MIME-Version"):
+                    self.assertEqual(len(msg.get_all(header, [])), 1)
+                for _, address in getaddresses([str(msg["From"]), str(msg["To"])]):
+                    self.assertRegex(address, r"^[^@\s]+@[^@\s]+\.example$")
+                self.assertNotIn(str(msg["Message-ID"]), ids)
+                ids.add(str(msg["Message-ID"]))
+                when = parsedate_to_datetime(str(msg["Date"]))
+                self.assertIsNotNone(when.utcoffset())
+                self.assertLessEqual(when.date(), date(2026, 10, 16))
+                self.assertGreater(len(msg.get_body(preferencelist=("plain",)).get_content().split()), 45)
+                attached = list(msg.iter_attachments())
+                self.assertEqual([p.get_filename() for p in attached], [p["filename"] for p in item["attachments"]])
+                for part, proof in zip(attached, item["attachments"]):
+                    original = folder / proof["filename"]
+                    self.assertEqual(part.get_payload(decode=True), original.read_bytes())
+                    self.assertEqual(sha(original), proof["sha256"])
+                    attachments[original.suffix] += 1
+            self.assertEqual(len(case["workbooks"]), 2)
+            for item in case["workbooks"]:
+                path = folder / item["file"]
+                formulas, values = load_workbook(path, data_only=False), load_workbook(path, data_only=True)
+                self.assertEqual(values.sheetnames, [s["name"] for s in item["sheets"]])
+                self.assertEqual(len(values.sheetnames), 4)
+                checks = {(c["sheet"], c["cell"]): c["expected"] for c in item["formula_checks"]}
+                self.assertTrue(checks)
+                seen = set()
+                for sheet in formulas:
+                    for row in sheet:
+                        for cell in row:
+                            cached = values[sheet.title][cell.coordinate]
+                            self.assertNotEqual(cached.data_type, "e")
+                            if cell.data_type == "f":
+                                key = (sheet.title, cell.coordinate)
+                                self.assertIn(key, checks)
+                                self.assertAlmostEqual(cached.value, checks[key], places=7)
+                                seen.add(key)
+                self.assertEqual(seen, set(checks))
+                self.assertTrue(item["input_change_test"]["restored"])
+                self.assertNotEqual(item["input_change_test"]["before"], item["input_change_test"]["after"])
+        self.assertEqual(len(ids), 44)
+        for suffix in (".pdf", ".docx", ".xlsx"):
+            self.assertGreaterEqual(attachments[suffix], 2)
 
     def test_layout_word_joining_preserves_document_identifiers(self):
         self.assertEqual(words("LB- 2048/26"), words("LB-2048/26"))
@@ -340,10 +439,23 @@ class JVAComponentTests(unittest.TestCase):
         left, right = prompt_urls_and_prose(source, rendered.replace("maßgeblich", ""))
         self.assertTrue(words(left) - words(right))
 
+    def test_printed_decimal_values_respect_cell_precision(self):
+        from openpyxl import Workbook
+        cell = Workbook().active["A1"]
+        cell.number_format = "0.00"
+        cell.value = 10.26 - 1.55
+        self.assertEqual(printed_cell_value(cell), "8.71")
+        cell.value = 8.72
+        self.assertNotEqual(printed_cell_value(cell), "8.71")
+        cell.value = 14.2
+        self.assertEqual(printed_cell_value(cell), "14.20")
+        cell.number_format = "General"
+        self.assertEqual(printed_cell_value(cell), "14.2")
+
     def test_dist_inventory_checksums_and_plugin_source_bytes(self):
         self.require_dist()
         expected = assets()
-        self.assertEqual(len(expected), 24)
+        self.assertEqual(len(expected), 30)
         self.assertEqual({p.name for p in DIST.iterdir()}, expected)
         checksums = {}
         for line in (DIST / "checksums-sha256.txt").read_text().splitlines():
@@ -386,9 +498,10 @@ class JVAComponentTests(unittest.TestCase):
             with zipfile.ZipFile(original) as archive:
                 self.assertEqual(archive.namelist()[0], "README.txt")
                 self.assertEqual(archive.read("README.txt"), NOTICE_BYTES)
-                self.assertEqual(len(archive.namelist()), 18)
-                for filename in FILES.values():
-                    self.assertEqual(archive.read(filename), (folder / filename).read_bytes(), f"{case}/{filename}")
+                originals = list(working_dump_archive_pairs(folder, include_gesamt_pdf=False))
+                self.assertEqual(len(archive.namelist()), len(originals) + 2)
+                for original_path, filename in originals:
+                    self.assertEqual(archive.read(filename), original_path.read_bytes(), f"{case}/{filename}")
                     total += 1
                 combined_data = (DIST / f"{case}_gesamt.pdf").read_bytes()
                 self.assertEqual(archive.read(f"{case}_gesamt.pdf"), combined_data)
@@ -398,7 +511,7 @@ class JVAComponentTests(unittest.TestCase):
             with zipfile.ZipFile(single) as archive:
                 self.assertEqual(archive.namelist()[0], "README.txt")
                 self.assertEqual(archive.read("README.txt"), NOTICE_BYTES)
-                self.assertEqual(len(archive.namelist()), 17)
+                self.assertEqual(len(archive.namelist()), len(document_arcname_pairs(folder)) + 1)
                 for path, name in document_arcname_pairs(folder):
                     data = archive.read(name)
                     if path.suffix == ".pdf":
@@ -418,7 +531,7 @@ class JVAComponentTests(unittest.TestCase):
                                 for cell in row:
                                     if cell.value is None:
                                         continue
-                                    value = cell.value.strftime("%Y-%m-%d") if isinstance(cell.value, datetime) else str(cell.value)
+                                    value = printed_cell_value(cell)
                                     self.assertIn(compact(value), compact(text), f"{case}/{sheet.title}!{cell.coordinate}")
                     for page in PdfReader(io.BytesIO(data)).pages:
                         actual = combined.pages[page_number]
@@ -427,7 +540,7 @@ class JVAComponentTests(unittest.TestCase):
                         self.assertEqual(page.extract_text(), actual.extract_text())
                         page_number += 1
             self.assertEqual(page_number, len(combined.pages))
-        self.assertEqual(total, 64)
+        self.assertEqual(total, sum(len(working_dump_archive_pairs(ROOT / "testakten" / c, include_gesamt_pdf=False)) for c in CASES))
 
     def test_dist_prompt_pdf_full_text_and_source_identity(self):
         self.require_dist()

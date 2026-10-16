@@ -88,7 +88,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Werkstatt-Prompts** | 300 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 299 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 525 zentral / 536 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 527 zentral / 538 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23299 Skills benutzbar bleibt.
 
@@ -129,14 +129,14 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 302 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 23299: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 525 zentral / 536 gesamt |
+| **Testakten** | 527 zentral / 538 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
 
-Die folgenden Sammelarchive enthalten den geprüften Stand vom **9. Oktober 2026 mit 297 Plugins**. [Due Diligence 1.0.1](./due-diligence/README.md), [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis 1.0.0](./verarbeitungsverzeichnis/README.md) und [Strafvollzug in der JVA 1.0.1](./strafvollzug-jva/README.md) ergänzen den aktuellen Repository-Bestand über eigene Komponentenreleases. Sie sind noch nicht in den unveränderten Sammelarchiven v445.35.3 enthalten.
+Die folgenden Sammelarchive enthalten den geprüften Stand vom **9. Oktober 2026 mit 297 Plugins**. [Due Diligence 1.0.1](./due-diligence/README.md), [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis 1.0.0](./verarbeitungsverzeichnis/README.md) und [Strafvollzug in der JVA 1.1.0](./strafvollzug-jva/README.md) ergänzen den aktuellen Repository-Bestand über eigene Komponentenreleases. Sie sind noch nicht in den unveränderten Sammelarchiven v445.35.3 enthalten.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

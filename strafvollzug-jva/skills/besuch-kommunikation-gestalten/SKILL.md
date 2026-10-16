@@ -49,6 +49,10 @@ Für Gefangene und anwaltliche Vertretung formulieren Sie einen bestimmten Antra
 
 Übergeben Sie bei Ablehnung oder Untätigkeit Antrag, Zugang, Entscheidung, Bekanntgabedatum und Dringlichkeitsbelege an den [Steuerungsskill](../strafvollzug-fall-steuern/SKILL.md) und den [Rechtsschutzweg](../../references/bundesrecht-rechtsschutz.md). Eine interne Beschwerde wahrt die gerichtliche Frist nicht automatisch. Bei einer anhaltenden Gefährdung durch Kontrollen oder Isolation verwenden Sie zusätzlich [Sicherheit und Disziplin](../sicherheit-disziplin-kontrollieren/SKILL.md).
 
+## 3.7. Kontakte bei Absonderung und Schutzmaßnahmen erhalten
+
+Eine Absonderung beantwortet Besuch, Telefon und vertrauliche anwaltliche Kommunikation nicht automatisch. Erfassen Sie, welche Kontakte tatsächlich ausfallen und ob hierfür eine besondere Entscheidung mit gesetzlicher Grundlage vorliegt. Prüfen Sie real verfügbare persönliche, begleitete oder anderweitig geschützte Kontakte, ohne jede Videoverbindung als gleichwertigen Ersatz zu behandeln. Bei Misshandlungsvorwürfen ist ein sicherer, berechtigter Kontakt zur Vertretung von allgemeiner sozialer Kommunikation zu unterscheiden. Übergeben Sie die konkrete Einschränkung mit Datum und Belegen an den Sicherheitsskill; eine Diagnose allein begründet keinen pauschalen Kommunikationsausschluss.
+
 # 4. Quellenpflicht
 
 Prüfen Sie die tragenden Landesvorschriften im amtlichen Volltext und dokumentieren Sie Fassung sowie Abrufdatum nach [Zitierweise](../../references/zitierweise.md). Verwenden Sie den Wegweiser für die konkreten Berliner Änderungsbelege. Hausordnungen, Verwaltungsvorschriften und Terminportale konkretisieren die Organisation; sie ersetzen keine gesetzliche Eingriffsgrundlage. Zitieren Sie gerichtliche Aussagen nur mit geprüfter Fundstelle und passendem Sachverhalt.

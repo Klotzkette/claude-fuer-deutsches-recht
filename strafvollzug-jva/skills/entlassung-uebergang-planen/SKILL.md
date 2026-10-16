@@ -55,6 +55,10 @@ Für Gefangene und anwaltliche Vertretung formulieren Sie den konkreten Antrag m
 
 Eine Ablehnung kurz vor einem irreversibel verlorenen Termin verlangt eine rechtzeitige Prüfung des Eilrechtsschutzes. Übergeben Sie Bescheid, schriftliche Bekanntgabe, Zugangsnachweis und Terminnachweise an [Gerichtlichen Rechtsschutz](../gerichtlichen-rechtsschutz-fuehren/SKILL.md). Gerichtliche Strafrestaussetzung nach dem Strafgesetzbuch und dem strafprozessualen Verfahren ist dort gesondert zuzuordnen. Eine Beschwerde an den Sozialdienst wahrt die gerichtliche Frist gegen eine Lockerungsablehnung nicht automatisch.
 
+## 3.7. Übergang nach Absonderung oder Krise absichern
+
+Bei Entlassung oder Verlegung nach längerer Absonderung prüfen Sie den tatsächlich erreichten Kontakt- und Versorgungsstand. Eine Adressliste ersetzt keine bestätigte medizinische Übergabe oder vereinbarte Aufnahme. Gesundheitsdaten werden nur auf der passenden rechtlichen Grundlage und im erforderlichen Umfang weitergegeben. Offene Verfahren wegen Unterbringungsbedingungen, Misshandlungsvorwürfen oder Disziplin werden mit Aktenzeichen, maßgeblicher Frist und gewünschtem Folgeprodukt übergeben. Die Verlegung oder Entlassung beendet nicht automatisch jedes Rechtsschutzinteresse; die weitere gerichtliche Einordnung übernimmt der Rechtsschutzskill.
+
 # 4. Quellenpflicht
 
 Prüfen Sie geltendes Landesrecht und die einschlägige Vollzugsart anhand amtlicher Volltexte. Verwenden Sie die [Zitierweise](../../references/zitierweise.md). Tatsächliche Zusagen müssen aktuell und belegbar sein; eine alte Adressliste ist kein Nachweis verfügbarer Unterkunft. Sozialleistungs-, Aufenthalts- und Familienrechtsfragen erfordern eigene aktuelle Quellen, sobald sie für das Ergebnis tragend werden. Kennzeichnen Sie solche offenen Schnittstellen und bearbeiten Sie die bereits entscheidungsreifen Schritte weiter.

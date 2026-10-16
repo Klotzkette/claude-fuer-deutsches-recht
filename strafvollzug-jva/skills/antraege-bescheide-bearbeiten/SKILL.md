@@ -55,9 +55,23 @@ Bei Unterlassen erfassen Sie ursprünglichen Antrag, Eingang, Erinnerungen, fehl
 
 Übergeben Sie den fertigen Entwurf mit Fristobjekt und Anlagen an [Fallsteuerung](../strafvollzug-fall-steuern/SKILL.md). Erhalten Sie nach Versand den tatsächlichen Nachweis; erst dieser trägt den Status „übermittelt“. Nach einer Entscheidung vergleichen Sie gewährten Umfang mit dem Antrag. Teilabhilfe, neue Nebenbestimmungen und spätere Termine können einen weiteren Prüfbedarf auslösen. Rücknahme oder Erledigung werden nicht automatisch erklärt, nur weil irgendeine Antwort einging.
 
+### 3.7. Voranträge bewahren und zielgenau berichtigen
+
+Übernehmen Sie eine Akte mit einem schwachen Antrag des früheren Anwalts, bewahren Sie dessen Wortlaut und tatsächlichen Versandnachweis unverändert. Markieren Sie, welche Tatsachen unbelegt, welche Anlagen falsch bezeichnet und welche Anträge unklar sind. Eine neue Fassung ersetzt das Original nicht rückwirkend. Formulieren Sie ein getrenntes Klarstellungsschreiben, das konkret erklärt, welches Begehren aufrechterhalten, präzisiert oder zusätzlich verfolgt werden soll. Verfahrenswirkungen einer Änderung oder Rücknahme prüfen Sie vor einer entsprechenden Erklärung mit [gerichtlichem Rechtsschutz](../gerichtlichen-rechtsschutz-fuehren/SKILL.md).
+
+Ein pauschaler Antrag „keine Einzelhaft mehr“ wird nach tatsächlichen Maßnahmen aufgeschlüsselt: Ende der Absonderung, Überprüfung eines konkreten Gegenstandsentzugs, medizinische Abklärung oder Ermöglichung persönlicher Kontakte. Eine beantragte sofortige Schutzlösung muss real durchführbar und mit erforderlicher fachlicher Entscheidung vereinbar sein. Fordern Sie keine bedingungslose Rückgabe sämtlicher Gegenstände ohne Prüfung einer belegten aktuellen Gefahr. Benennen Sie fachlich zu klärende Alternativen, ohne selbst Behandlung oder Sicherung zu bestimmen.
+
+### 3.8. Begründungen mit Fortdauer und tatsächlicher Durchführung verbinden
+
+Ein Bescheid zu langdauernder Sicherung nennt Anlass, aktuelle Erkenntnisse, Dauer, bereits versuchte Abmilderung, persönliche Betreuung und nächsten Prüfbedarf. Ein identischer Formulartext ersetzt keine neue Tatsachenbewertung. Trennen Sie Anordnung, tatsächliche Durchführung und späteren Änderungsbescheid; jede Ebene kann einen eigenen Fehler enthalten. Das aktuelle Landesgesetz wird mit der anwendbaren Ausführungsvorschrift verglichen. Eine Hausregel darf den gesetzlichen Eingriffskatalog nicht erweitern.
+
+Bei Haftraumbedingungen stellen Sie Messung, Belegung, Sanitärschutz und reale Aufschlusszeiten den bestrittenen Angaben gegenüber. Eine behauptete Misshandlung wird weder als sicher bewiesene Tatsache noch als erledigte Beschwerde ohne Ermittlung behandelt. Fordern Sie genau bezeichnete Unterlagen und eine nachvollziehbare Entscheidung zu dem jeweiligen Schutz- oder Abhilfebegehren. Der Endtext enthält konkrete Antragssätze und benannte Anlagen, keinen pauschalen Vorwurfskatalog.
+
 ## 4. Quellenpflicht
 
 Nutzen Sie [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Rechtsprechungsanker enthalten Anwendungsgrenzen. Die im Urteil wiedergegebene Behauptung einer Partei ist nicht automatisch der gerichtliche Rechtssatz. Belegen Sie neue Fristen, Formvorgaben und landesrechtliche Anforderungen am tatsächlich geöffneten Text. Ungeprüfte Gerichts- oder Literaturfundstellen bleiben aus dem Endprodukt heraus.
+
+Die [Referenz zu Haftbedingungen und Schutzmaßnahmen](../../references/haftbedingungen-und-schutzmassnahmen.md) verknüpft aktuelle Landesgesetze, datierte Verwaltungsvorschriften und die zusätzlichen Entscheidungsanker. Ältere Verwaltungstexte werden nicht als vollständig bestätigte aktuelle Fassung ausgegeben.
 
 ## 5. Ausgabeformat
 
@@ -70,3 +84,5 @@ Fügen Sie getrennt einen kurzen Prüfvermerk hinzu: offene Tatsachen, bekannte 
 Für eine Berliner Gefangene wird eine religiös begründete Verpflegungsanpassung beantragt. Sie benennen die konkrete Anforderung, vorhandene Angebote, zumutbare Alternativen und den Zeitpunkt. Der Text behauptet keine Unverträglichkeit, für die kein Befund existiert, und trennt den religiösen vom medizinischen Grund.
 
 Ein Kursantrag wurde am 05.10.2026 erstmals schriftlich abgelehnt. Eine erneute Bitte am 12.10.2026 beantwortet die JVA noch nicht. Sie sichern die aus der Ablehnung laufende Frist gesondert, statt auf die neue Antwort zu warten. Neue technische Nachweise zum Kurs werden als Ergänzung kenntlich beigefügt.
+
+Finkbeiners früherer Antrag behauptet eine allgemeine Mindestfläche ohne passende Quelle. Sie berichtigen diese Behauptung in einem neuen Schriftsatz, ordnen Grundriss, Messung und Belegungszeiten zu und formulieren konkrete Abhilfe- und Aufklärungsanträge. Das Original wird nicht überschrieben; die gewählte Verfahrensart wird gesondert geprüft.

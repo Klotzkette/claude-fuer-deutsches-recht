@@ -55,9 +55,29 @@ Benennen Sie tragfähige Hauptbegründung, stärkstes Gegenargument und die noch
 
 Für eine JVA-Vorlage prüfen Sie auch belastende Tatsachen zugunsten der Gefangenen. Für einen anwaltlichen Antrag lassen Sie erkennbare tatsächliche Schwächen nicht verschwinden. Eine neutrale richterliche Vorlage kennzeichnet, welche Angaben lediglich Beteiligtenvortrag sind. Der juristische Maßstab bleibt über alle Rollen hinweg derselbe, das konkrete Produkt und die Darstellung unterscheiden sich.
 
+### 3.7. Schutzbedürftigkeit und kumulative Belastung bewerten
+
+Prüfen Sie eine Kombination von Überbelegung, langer Absonderung, fehlendem Sichtschutz, entzogenen Gegenständen und eingeschränktem Kontakt als tatsächliche Gesamtsituation. Rechtliche Anforderungen an die Einzelmaßnahme bleiben daneben bestehen. Eine Einzelzelle während der Ruhezeit ist nicht gleichbedeutend mit sozialer Isolation. Eine begründete Schutzmaßnahme kann bei unveränderter Fortschreibung, verschlechtertem Zustand oder zusätzlichen Beschränkungen eine neue Bewertung verlangen. Erfassen Sie die Belastung deshalb zeitabschnittsbezogen.
+
+Der Schutz vor Selbstgefährdung dient dem Leben der konkreten Person. Er legitimiert nicht ohne Weiteres jede besonders entwürdigende Ausgestaltung. Verlangen Sie eine individuelle fachliche Einschätzung, geeignete Betreuung, Prüfung weniger belastender Alternativen und eine dokumentierte Entscheidung über Fortdauer. Die Rechtmäßigkeitsprüfung darf umgekehrt eine aktuell erforderliche Versorgung nicht zugunsten eines abstrakten Autonomiearguments verdrängen. Weder ordnet die KI Gegenstandsentzug an noch erklärt sie aus Aktenferne eine Person für ungefährdet.
+
+Bei Misshandlungsvorwürfen trennen Sie das materielle Verbot von Gewalt oder erniedrigender Behandlung und die Anforderungen an eine wirksame Aufklärung. Ein behaupteter Vorfall bleibt bis zur Klärung eine Behauptung; gerade das kann die nachvollziehbare Sicherung von Spuren und Zeugenaussagen erforderlich machen. Die rechtliche Würdigung darf nicht von der vermeintlichen moralischen Würdigkeit des Gefangenen abhängen. Personalmangel, Etiketten wie „schwierig“ oder die Schwere der Ausgangstat ersetzen keine Eingriffsbefugnis.
+
+#### 3.7.1. Fehlender Antrag ist kein stillschweigender Würdeverzicht
+
+**BVerfG, Beschl. v. 07.11.2011, Az. 1 BvR 1403/09, Rn. 40–43 und 46–50:** Trägt in der dortigen Prozesskostenhilfe- und Amtshaftungssache die tatsächliche Prüfung von Sanitärschutz und möglicher Abhilfe; fehlender förmlicher Verlegungsantrag erledigte die Würdeprüfung nicht. Trägt nicht garantierte Entschädigung oder eine Befreiung von erforderlichen Rechtsbehelfen. Prüfen Sie Beschwerden, Reaktion und frühestmögliche Abhilfe konkret. Der [amtliche Anker](../../references/haftbedingungen-und-schutzmassnahmen.md) ersetzt nicht die abschließende Beweisaufnahme und nicht die Prüfung des heutigen gerichtlichen Wegs.
+
+### 3.8. Ländermaßstab und europäische Orientierung sauber zuordnen
+
+Unterscheiden Sie verbindliches Landesgesetz, Rechtsverordnung, Verwaltungsvorschrift und bloße Hausregel. Prüfen Sie Erlassgeber, Ermächtigung, Geltungsbereich, Fassung und die konkret betroffene Haftart. Eine landesweite Ausführungsvorschrift für Erwachsenenstrafhaft gilt nicht kraft ähnlichen Titels im Jugend- oder Untersuchungshaftvollzug. Eine organisatorische Verwaltungsvorgabe schafft keine zusätzliche belastende Befugnis gegen Gefangene. Das Fehlen einer speziellen Verordnung ist offen zu dokumentieren und nicht durch eine erfundene „Durchführungsverordnung zum StVollzG“ zu füllen.
+
+Ein europäischer Flächen- oder Isolationsmaßstab ist nach Belegungsform, Dauer und Gesamtumständen auszulegen. Die einschlägige Entscheidung kann eine gewichtige Orientierung liefern; sie wird nicht zu einem in jedem deutschen Land unmittelbar wortgleichen Vollzugsgesetz. Für jede im Antrag verwendete Zahl benötigen Sie Originalquelle und Anwendungsbedingung. Eine rechnerische Überschreitung eines Orientierungswerts beantwortet die Würdefrage nicht allein.
+
 ## 4. Quellenpflicht
 
 Maßgeblich sind [Bundesrecht](../../references/bundesrecht-rechtsschutz.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Gelesene Grundrechte werden durch die konkrete Landesnorm ergänzt. BVerfG, Urt. v. 20.06.2023 – Az. 2 BvR 166/16 und 2 BvR 1683/17, Rn. 154–164, trägt die Resozialisierungsausrichtung und gesetzgeberische Verantwortung, nicht einen unbegrenzten Einzelanspruch. Neue einschlägige Entscheidungen benötigen tatsächlich gelesene Originalpassagen; Literatur und Gerichtsrandnummern werden nicht geraten.
+
+Die [Referenz zu Haftbedingungen und Schutzmaßnahmen](../../references/haftbedingungen-und-schutzmassnahmen.md) verknüpft aktuelle Landesgesetze, datierte Verwaltungsvorschriften und die zusätzlichen Entscheidungsanker. Ältere Verwaltungstexte werden nicht als vollständig bestätigte aktuelle Fassung ausgegeben.
 
 ## 5. Ausgabeformat
 
@@ -70,3 +90,5 @@ Trennen Sie Anlagen mit Gesundheits- oder Familiendaten vom allgemeinen Kurzberi
 Eine Gefangene erhält nach eigener Darstellung weniger Zugang zu einem Kurs als männliche Gefangene. Sie klären Landesregel, Anstalt, Unterrichtsinhalt, Plätze und tatsächliche Vergleichbarkeit. Ein sachlich nicht erklärter Ausschluss wird anders begründet als eine belegte, nur vorübergehende organisatorische Grenze mit gleichwertigem Ersatz.
 
 Ein Vater darf sein Kind nur hinter einer Trennscheibe sehen. Sie prüfen konkrete Gefahren, bisherige Vorfälle und mögliche Aufsicht. Der Entwurf erklärt, weshalb die jeweilige Alternative geeignet ist; er verspricht keinen ausnahmslosen Kontakt ohne Sicherheitsvorkehrungen.
+
+Bei Finkbeiner werden fehlendes Bettlaken, Schutzbekleidung, Toilettenprivatsphäre und wechselnde Belegung getrennt dokumentiert und im Zusammenhang bewertet. Ein Schutzanlass darf nicht aus der Würdeprüfung verschwinden; umgekehrt wird eine nachvollziehbare Gefahr nicht aus der Akte gestrichen, um den Antrag einfacher zu machen.

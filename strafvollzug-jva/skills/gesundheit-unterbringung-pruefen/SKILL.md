@@ -57,9 +57,33 @@ Bei Hygiene erfassen Sie Zugang zu Wasser, Toilettenpapier, Menstruations- und I
 
 Für Betroffene formulieren Sie die konkrete Leistung und eine zeitlich begründete Zwischenlösung. Für die JVA erstellen Sie eine Entscheidung, die Befunde, organisatorische Möglichkeiten und Gegenargumente behandelt, ohne medizinische Entscheidungsbefugnisse an einen juristischen Text zu verlagern. Für das Gericht benennen Sie die aufzuklärenden Tatsachen und gegebenenfalls benötigten fachlichen Unterlagen. Begründen Sie bei Eilbedürftigkeit den bis zur Hauptsache drohenden Nachteil. Übergeben Sie Fristen, Zugang und Antragsziel an den [Steuerungsskill](../strafvollzug-fall-steuern/SKILL.md) sowie den [Rechtsschutzweg](../../references/bundesrecht-rechtsschutz.md). Entschädigung für Vergangenes ist ein gesonderter Anspruchs- und Verfahrensgegenstand.
 
+## 3.8. Belegtes Raummaß und tatsächliche Überbelegung rekonstruieren
+
+Erstellen Sie für jeden Belegungszeitraum ein eigenes Raumblatt. Es enthält Grundrissquelle, Messdatum, Innenmaße, Sanitärfläche, Personenzahl, Bettplätze und die belegte Dauer. Trennen Sie Bruttofläche, Fläche ohne Sanitärbereich und tatsächlich verbleibende Bewegungsmöglichkeiten. Rechnen Sie nur mit transparent bezeichneten Größen. Eine ältere Bauzeichnung kann von einer später eingebauten Toilette oder Trennwand überholt sein; ein Foto ohne Raumzuordnung beweist kein bestimmtes Maß.
+
+Ergänzen Sie Aufschluss- und Hofgangnachweise, Zugang zu Dusche und Wasser, Schlafmöglichkeiten, Sichtschutz und persönliche Belastungen. Ein vorgesehener Tagesablauf belegt noch keine tatsächlich gewährte Bewegung. Unterschiedliche Belegungszahlen an einzelnen Tagen dürfen nicht in einen günstigen Durchschnitt verschwinden. Vergleichsmaßstäbe des EGMR sind nach ihrem sachlichen Anwendungsbereich zu lesen; sie werden nicht zur pauschalen deutschen Erlaubnisgrenze oder zur individuellen Entschädigungstabelle. BVerfG, Beschl. v. 22.03.2016, Az. 2 BvR 566/15, Rn. 17–24, trägt die erforderliche Sachaufklärung und nicht eine universelle Mindestfläche.
+
+Formulieren Sie aus dem Befund ein konkretes Produkt: sofort nutzbarer anderer Raum, Wiederherstellung des Sanitärschutzes, medizinische Untersuchung, Ergänzung der tatsächlichen Aufschlussmöglichkeiten oder gerichtliche Aufklärung genau benannter Widersprüche. Behaupten Sie keine freie Zelle oder bereits zugesagte Verlegung, wenn diese nicht belegt ist. Bei einer JVA-Vorlage müssen auch fehlende kurzfristige Ausweichräume wahrheitsgemäß dokumentiert werden; menschenunwürdige Bedingungen werden hierdurch nicht gerechtfertigt.
+
+### 3.8.1. Europäische Flächenberechnung und nationale Aufklärung
+
+**EGMR, Große Kammer, Urt. v. 20.10.2016, Beschwerde Nr. 7334/13, Muršić gegen Kroatien, Rn. 114 und 136–140:** Trägt bei Mehrfachbelegung eine Berechnung ohne Sanitärfläche und grundsätzlich unter Einschluss der Möbelfläche; tatsächliche Bewegungsmöglichkeit bleibt erheblich. Unter drei Quadratmetern persönlicher Fläche besteht eine starke Vermutung einer Verletzung von Artikel 3 EMRK. Die im Volltext genannten Voraussetzungen einer Widerlegung sind kumulativ zu prüfen. Trägt nicht eine erlaubte deutsche Standardzellengröße oder die Übertragung auf jeden Einzelhaftraum. Zwischen drei und vier Quadratmetern sind weitere Belastungen besonders relevant, darüber bleiben sie ebenfalls erheblich. Rechenweg und Grenzen stehen mit dem amtlichen Volltext in [Haftbedingungen](../../references/haftbedingungen-und-schutzmassnahmen.md).
+
+**BVerfG, Beschl. v. 08.12.2020, Az. 1 BvR 117/16, Rn. 13–19:** Trägt die Auseinandersetzung mit erheblichem Vortrag und Beweisen zu Raumgröße, Belegung und Toilettenabtrennung. Trägt nicht automatische Entschädigung oder die Gleichsetzung jedes Fehlers mit Willkür. Der Ausgangspunkt war Amtshaftung. Benennen Sie die konkrete Aufklärungslücke im heutigen Verfahren, statt aus dem früheren Erfolg bereits einen eigenen Zahlungsanspruch abzuleiten.
+
+Hessen § 18 und Baden-Württemberg Buch 3 § 13 regeln gemeinsame Unterbringung unterschiedlich. Hessens zahlen- und zeitbezogene Ausnahmen werden nicht in den baden-württembergischen Tatbestand hineingelesen. Die jeweilige Belegungserlaubnis ersetzt keine Gesamtprüfung der Menschenwürde.
+
+## 3.9. Krise, Schutz und Verletzungsdokumentation zusammenführen
+
+Bei behaupteter Misshandlung sind zeitnahe Untersuchung, datenschutzgerechte Befundsicherung und ein erforderliches Schutzbegehren eigenständige Arbeitsaufträge. Ein blauer Fleck beweist ohne weitere Aufklärung nicht dessen Urheber; ein unauffälliger späterer Befund widerlegt nicht jeden früheren Übergriff. Notieren Sie, wer wann welche Beschwerden berichtet hat und welche Untersuchungsfrage offenblieb. Verwechseln Sie körperliche Untersuchung, psychologisches Gespräch und reine telefonische Rückmeldung nicht.
+
+Bei behaupteter Suizidgefahr erfassen Sie aktuelle fachliche Einschätzung und die tatsächliche Versorgung. Der Hinweis „Sichtkontrolle“ lässt offen, ob direkter persönlicher Kontakt, bloßer Blick durch die Tür oder Kameraüberwachung gemeint ist. Prüfen Sie das jeweils gesetzlich verlangte Verfahren, persönliche Betreuung und Schutz der Intimsphäre. Ein Entzug von Bettlaken oder Gürtel ist keine medizinische Standardantwort und kein Dauerzustand kraft Diagnose. Übergeben Sie die rechtliche Befugnis- und Fortdauerprüfung an [Sicherheit und Disziplin](../sicherheit-disziplin-kontrollieren/SKILL.md); das eigene Produkt bleibt die konkrete Versorgungs- und Abklärungsanforderung. Medizinische Hilfe wird nicht bis zur Fertigstellung eines Rechtsmittels aufgeschoben.
+
 # 4. Quellenpflicht
 
 Verwenden Sie [Zitierweise](../../references/zitierweise.md), die gelesenen Landesnormen und die gesondert verifizierten Rechtsprechungsanker. Übertragen Sie Entscheidungen zu konkreter Zellenbelegung oder Behandlung nicht als starre Universaltabelle. Kennzeichnen Sie eine medizinische Aussage mit ihrer fachlichen Quelle und unterscheiden Sie Empfehlung, Anordnung und tatsächlich erfolgte Maßnahme. Bei neuen Richtlinien oder Leistungsfragen ist ein aktueller amtlicher Abgleich nötig.
+
+Die [Referenz zu Haftbedingungen und Schutzmaßnahmen](../../references/haftbedingungen-und-schutzmassnahmen.md) verknüpft aktuelle Landesgesetze, datierte Verwaltungsvorschriften und die zusätzlichen Entscheidungsanker. Ältere Verwaltungstexte werden nicht als vollständig bestätigte aktuelle Fassung ausgegeben.
 
 # 5. Ausgabeformat
 
@@ -70,3 +94,5 @@ Liefern Sie vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine
 Eine Frau in NRW ist seit Monaten gemeinsam untergebracht, berichtet über eine unzureichend abgeschirmte Toilette und ausgefallene Facharzttermine. Erstellen Sie zwei konkrete Abhilfegegenstände: geeignete Unterbringung und Durchführung beziehungsweise fachliche Neubewertung der Behandlung. Prüfen Sie Dauer, Maße und Terminbelege, ohne eine Diagnose oder einen pauschalen Entschädigungsbetrag zu erfinden.
 
 Ein älterer Mann in Bayern erreicht mit seinem Hilfsmittel den Hof nicht. Prüfen Sie den tatsächlich nutzbaren Aufenthalt im Freien und die erforderliche organisatorische Unterstützung. Ein Angebot, das er faktisch nicht wahrnehmen kann, darf nicht ungeprüft als erfüllte Leistung verbucht werden.
+
+Bei Amira Finkbeiner in Baden-Württemberg endet der besonders gesicherte Haftraum früher als einzelne Gegenstandsbeschränkungen. Später schwankt die Belegung. Sie erstellen getrennte Maßnahmen- und Raumblätter, rechnen jeden Belegungszeitraum und klären fachlich die aktuelle Versorgung. Eine alte Bruttoflächenangabe und ein pauschaler Vorantrag ersetzen weder Messung noch Aufklärung.
