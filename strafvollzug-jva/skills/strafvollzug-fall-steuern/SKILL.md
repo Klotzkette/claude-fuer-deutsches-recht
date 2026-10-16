@@ -62,7 +62,7 @@ Ein Antrag erhält bestimmtes Begehren, Tatsachen, Rechtsbegründung und Belege.
 
 ## 4. Quellenpflicht
 
-Verwenden Sie [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Materielle Landesvorschriften werden für Stichtag und Vollzugsart tatsächlich geöffnet. Die sechs Entscheidungsanker liefern begrenzte Maßstäbe; nicht jeder Fall benötigt sämtliche Zitate. Keine Literaturfundstellen oder vermeintlich aktuellen Urteile erfinden. Normtext, behördliche Praxis und Tatsachenbeleg bleiben erkennbar getrennt.
+Verwenden Sie [Bundesrecht und Rechtsschutz](../../references/bundesrecht-rechtsschutz.md), [Rechtsprechung](../../references/rechtsprechung.md) und [Zitierweise](../../references/zitierweise.md). Materielle Landesvorschriften werden für Stichtag und Vollzugsart tatsächlich geöffnet. Die thematisch zugeordneten Entscheidungsanker liefern begrenzte Maßstäbe; nicht jeder Fall benötigt sämtliche Zitate. Keine Literaturfundstellen oder vermeintlich aktuellen Urteile erfinden. Normtext, behördliche Praxis und Tatsachenbeleg bleiben erkennbar getrennt.
 
 ## 5. Ausgabeformat
 

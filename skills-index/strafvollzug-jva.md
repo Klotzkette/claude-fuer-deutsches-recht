@@ -1,6 +1,6 @@
 # strafvollzug-jva
 
-**11 Skills** · Stand `v1.0.0`
+**11 Skills** · Stand `v1.0.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../strafvollzug-jva/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`strafvollzug-jva-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`strafvollzug-jva-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [strafvollzug-jva.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva.zip) |
+| **Plugin (installierbar)** | ZIP | [strafvollzug-jva.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,5 +1,7 @@
 # Strafvollzug in der JVA: Prüfbericht
 
+Die Abschnitte 1 bis 6 dokumentieren die Erstabnahme der Fassung 1.0.0. Die Überarbeitung der Prompts für Fassung 1.0.1 ist im anschließenden Abschnitt 7 dokumentiert.
+
 ## 1. Umfang und Abgrenzung
 
 Prüfstand 16.10.2026, Komponentenfassung 1.0.0. Zehn Fachskills und ein Hauptskill, fünf Befehle, drei eigenständige Prompts und vier vollständige Übungsakten für Erwachsenenstrafhaft. Die Perspektiven Gefangene, anwaltliche Vertretung, Anstalt und Gericht werden ausdrücklich getrennt.
@@ -55,3 +57,17 @@ Der globale Bestand umfasst 301 Plugins und 23.289 Skills. Alle 1.036 bisherigen
 ## 6. Veröffentlichung
 
 Eigenständiges Komponentenrelease mit 24 Dateien. Die Gesamtversion 445.35.3 und alle früher veröffentlichten Archive bleiben unverändert. Paketinhalt, Prüfsummen und Downloadziele werden vor der Veröffentlichung abgeglichen. Ein echter Import in Claude Cowork, Codex oder ChatGPT wird nicht als getestet behauptet.
+
+## 7. Vertiefung von Werkstatt und Mini-Prompt in 1.0.1
+
+Am 16.10.2026 wurde die Werkstatt von 4.182 auf 8.971 Wörter erweitert. Sie umfasst 24 Hauptkapitel, 40 Unterabschnitte und 21 PDF-Seiten. 17 tatsächlich gelesene Entscheidungsanker stehen unmittelbar bei den jeweiligen Prüfungen; die gemeinsame Referenz enthält 18 Anker. Die zwölf zusätzlichen Entscheidungen und ihre gelesenen Randnummern sind im [Quellenprotokoll](prompt-vertiefung-quellen.md) mit amtlicher URL und Abrufhash dokumentiert.
+
+Jeder Themenweg verbindet entscheidende Tatsachen und Belege mit der aktuellen Landesnorm, der tragenden Entscheidungsaussage, einem ernsthaften Gegenargument, praktikablen Alternativen und dem nächsten ausformulierten Produkt. Die Ernährungsentscheidung des BayObLG von 2025 bleibt ausdrücklich eine Kostenentscheidung nach Erledigung. Die Fixierungsentscheidung von 2018 und der Beschluss zur Absonderung von 2026 bleiben als andere Unterbringungsformen abgegrenzt. Ihre Aussagen werden nicht zu pauschalen Ansprüchen für alle Strafgefangenen erweitert.
+
+Der Mini-Prompt enthält neun Hauptabschnitte und sechs kurze Unterabschnitte, darunter drei konkrete Rechercheanker. Er umfasst 7.479 UTF-8-Bytes und drei gut lesbare PDF-Seiten. Die amtlichen Vorschriften zu Frist, Eilrechtsschutz und Rechtsbeschwerde wurden für die Kurzfassung nochmals gelesen. Markdown und Text sind bei allen drei Prompts byteidentisch; ihre Prüfsummen sind im Prüfprofil aktualisiert.
+
+Das unabhängige [Gegenlesen mit vier konkreten Fallwegen](prompt-redaktionspruefung.md) prüft Quellenzuordnung, Aussagegrenzen, Rollen und Fortsetzung. Dabei wurden die Zitate um „Az.“ vereinheitlicht und die besondere Form des § 118 Absatz 3 StVollzG ausdrücklich auf den Antragsteller als Beschwerdeführer bezogen. Eine am PDF-Seitenende abgetrennte Einleitung der Mini-Rechercheanker wurde durch eine mit dem ersten Anker zusammengehaltene Unterüberschrift ersetzt. Dies ist eine dokumentierte redaktionelle Prüfung, kein behaupteter Live-Import oder autonomer Modelltest.
+
+Die Lesefassungen wurden mit Times New Roman 11 pt gesetzt. Alle Werkstattseiten wurden visuell kontrolliert, der Mini-Prompt vollständig in Seitenansicht gelesen und die von der Schlusskorrektur betroffenen Seiten erneut angesehen. Die Text- und Glyphenprüfung findet keinen Inhaltsverlust; die Koordinatenprüfung findet keinen Text außerhalb der Seitenränder. Die [abschließende Paketprüfung](prompt-paket-tests-1.0.1.txt) besteht mit zehn von zehn Tests, einschließlich Quellenidentität, allen 24 Assets, Prüfsummen und den unveränderten Testakten. Die vier Testakten sind im Git-Vergleich unverändert.
+
+Manifest-, Marketplace-, Frontmatter-, Aktivierungs-, Markdown-, Übersichts-, Download- und Qualitätsprüfungen wurden durchgeführt. Die elf Tests zur gezielten Release-Zuordnung bestehen. Die Komponentenversion beträgt einheitlich 1.0.1; Pluginziele werden aktualisiert, die bisherigen Aktenziele bleiben erhalten. Das Gesamtrelease v445.35.3 bleibt unverändert.

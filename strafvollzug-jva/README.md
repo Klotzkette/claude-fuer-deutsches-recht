@@ -1,14 +1,14 @@
 # Strafvollzug in der JVA
 
-**Version 1.0.0 · fachlicher Prüfstand 16.10.2026 · zehn Fachskills und ein Hauptskill.**
-
 Das Plugin bearbeitet konkrete Anliegen im Strafvollzug aus der jeweils gewählten Perspektive: Gefangene, Angehörige mit eigener Berechtigung oder Vertretungsmacht, Rechtsanwälte, Justiziar einer Anstalt oder Gericht. Es führt von vorhandenen Unterlagen über Landesrecht, Beweise und Fristen zu einem ausformulierten Antrag, Bescheidentwurf, gerichtlichen Antrag oder Entscheidungsentwurf. Menschenwürde, individuelle Lebenslagen und belastbar begründete Sicherheitsbelange werden zusammen geprüft.
 
 Gefangene bleiben Grundrechtsträger. Das historische „besondere Gewaltverhältnis“ ist keine heutige Grundlage für Grundrechtsbeschränkungen. Ein Gerichtsentwurf wird nicht als erlassene Entscheidung ausgegeben; eine Anstaltsstellungnahme bleibt Parteivortrag, solange das Gericht sie nicht geprüft hat.
 
+**Version 1.0.1 · fachlicher Prüfstand 16.10.2026 · zehn Fachskills und ein Hauptskill.**
+
 ## 1. Installieren und sofort beginnen
 
-[Claude-Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva-portable.zip)
+[Claude-Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva-portable.zip)
 
 Claude Code und kompatible Claude-Cowork-Umgebungen können das Pluginpaket mit Skills und Befehlen verwenden. Codex erhält zusätzlich ein eigenes Manifest sowie das portable Manifest. In ChatGPT lässt sich der Schnellstart als Projektanweisung mit Werkstatt und Referenzen als Projektdateien verwenden. Import, Dateizugriff und Darstellung der Befehle hängen von der jeweiligen Umgebung ab; ein plattformübergreifender Live-Import ist damit nicht behauptet.
 
@@ -46,9 +46,11 @@ Interne Beschwerde, Aufsichtseingabe und gerichtlicher Antrag werden getrennt be
 
 Die drei Prompts sind eigenständig nutzbar. Mini und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes. Markdown und Text sind inhalts- und byteidentisch; die PDFs sind Lesefassungen. Formatstandard für erzeugte Schriftsätze: Times New Roman 11 pt.
 
-- **Große Werkstatt mit 24 Kapiteln:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva-werkstatt.pdf)
-- **Mini-Prompt:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva-schnellstart.pdf)
-- **Hauptproblem-Prompt:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/strafvollzug-jva-hauptproblem.pdf)
+- **Große Werkstatt mit 24 Kapiteln und thematischen Entscheidungsankern:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva-werkstatt.pdf)
+- **Mini-Prompt in neun klaren Arbeitsschritten:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva-schnellstart.pdf)
+- **Hauptproblem-Prompt:** [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/strafvollzug-jva-hauptproblem.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva-hauptproblem.pdf)
+
+Die Werkstatt verbindet die Rechtsprechung mit Tatsachenfragen, Belegprüfung, Gegenargumenten, milderen Mitteln und dem nächsten ausformulierten Arbeitsprodukt. Der Mini-Prompt trennt Auftrag, Landesrecht, Fristen, Belege, Anliegen, Dokument, Eilrechtsschutz, Quellen und Endfassung in kurze lesbare Schritte.
 
 Befehle: `/jva-fall`, `/jva-antrag`, `/jva-bescheid`, `/jva-eilrechtsschutz` und `/jva-pruefung`. Sie führen zum jeweils passenden Skill; sie ersetzen keine konkrete Rollenklärung.
 
@@ -67,7 +69,7 @@ Alle Personen, Einrichtungen und Fallumstände sind erfunden. Die Akten geben ke
 
 Der Schwerpunkt liegt auf rechtskräftiger Erwachsenenstrafhaft. Untersuchungshaft, Jugendvollzug, Sicherungsverwahrung, Maßregelvollzug und Abschiebungshaft verlangen eine gesonderte Einordnung. Die Auswahl eines Landes ist verpflichtend: Das Bundes-StVollzG ist kein bundesweiter aktueller Katalog für den gesamten Vollzugsalltag.
 
-Vertieft geprüft wurden die fallrelevanten aktuellen Normen in Berlin, Nordrhein-Westfalen, Bayern und Niedersachsen sowie der bundesrechtliche gerichtliche Rechtsschutz. Der Landeswegweiser eröffnet die Recherche in allen 16 Ländern; er behauptet keine vollständige Durchprüfung aller Landesgesetze. In Berlin werden insbesondere die Änderungen vom Juni 2026 und später in Kraft tretende Teile unterschieden. Die Referenzen enthalten sechs tatsächlich geöffnete amtliche Entscheidungsanker, darunter Entscheidungen von 2024 und 2025. Eine passende Entscheidung von 2026 wird nicht erfunden.
+Vertieft geprüft wurden die fallrelevanten aktuellen Normen in Berlin, Nordrhein-Westfalen, Bayern und Niedersachsen sowie der bundesrechtliche gerichtliche Rechtsschutz. Der Landeswegweiser eröffnet die Recherche in allen 16 Ländern; er behauptet keine vollständige Durchprüfung aller Landesgesetze. In Berlin werden insbesondere die Änderungen vom Juni 2026 und später in Kraft tretende Teile unterschieden. Die Referenzen enthalten 18 tatsächlich geöffnete amtliche Entscheidungsanker mit gelesenen Randnummern, konkreter Tragweite und ausdrücklichen Grenzen. Dazu gehören Entscheidungen aus 2024 und 2025. Ein Beschluss von 2026 betrifft den Maßregelvollzug und ist ausdrücklich als begrenzt übertragbarer Schnittstellenanker gekennzeichnet; er wird nicht als allgemeine JVA-Regel ausgegeben.
 
 - [Landesrecht und geprüfte Fassungen](references/landesrecht-wegweiser.md)
 - [Bundesrecht und Rechtsschutz](references/bundesrecht-rechtsschutz.md)
@@ -79,7 +81,7 @@ Akute Gesundheitsprobleme benötigen reale medizinische Hilfe. Das Plugin erstel
 
 ## 7. Komponentenrelease
 
-[Version 1.0.0 mit 24 Download-Dateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/strafvollzug-jva-v1.0.0) · [Prüfsummen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/checksums-sha256.txt)
+[Version 1.0.1 mit 24 Download-Dateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/strafvollzug-jva-v1.0.1) · [Prüfsummen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/checksums-sha256.txt)
 
 Das Komponentenrelease ergänzt den aktuellen Repositorybestand. Das unveränderliche ältere Gesamtarchiv v445.35.3 wird nicht nachträglich überschrieben.
 

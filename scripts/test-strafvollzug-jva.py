@@ -152,7 +152,7 @@ class JVAComponentTests(unittest.TestCase):
     def test_manifests_skills_commands_and_local_links(self):
         for rel in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
             obj = json.loads((PLUGIN / rel).read_text())
-            self.assertEqual((obj["name"], obj["version"]), (NAME, "1.0.0"))
+            self.assertEqual((obj["name"], obj["version"]), (NAME, "1.0.1"))
         catalog = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = [p for p in catalog["plugins"] if p["name"] == NAME]
         self.assertEqual(len(entries), 1)
@@ -312,7 +312,7 @@ class JVAComponentTests(unittest.TestCase):
     def test_download_notices_links_and_component_routes(self):
         readme = (PLUGIN / "README.md").read_text()
         release = "/strafvollzug-jva-v1.0.0/"
-        self.assertIn(release, plugin_asset_url(NAME))
+        self.assertIn("/strafvollzug-jva-v1.0.1/", plugin_asset_url(NAME))
         for c in CASES:
             text = (ROOT / "testakten" / c / "README.md").read_text()
             self.assertIn(NOTICE_MARKDOWN, text)

@@ -1,3 +1,7 @@
+# strafvollzug-jva-v1.0.1 – 2026-10-16
+
+Der Werkstatt-Prompt erhält vertiefte thematische Prüfabläufe und zusätzliche amtlich gelesene Rechtsprechungsanker mit konkreter Tragweite und Aussagegrenze. Der Mini-Prompt wird in kurze verständliche Arbeitsschritte gegliedert. Lesefassungen, Prüfnachweise und aktive Pluginverweise werden gemeinsam fortgeschrieben; elf Skills und vier Testakten bleiben erhalten.
+
 # gvb-reinigungsvergabe-v1.0.0 – 2026-10-10
 
 Neues Plugin mit genau zehn Fachskills für die Berliner Reinigungsvergabe: fünf Schritte zur Unterlagenerstellung und fünf zur Verfahrensführung. Ausführlicher Werkstatt-Prompt und kompakter Schnellstart sind getrennt herunterladbar. Zehn individuelle Prüffälle sichern die fachlichen Übergaben, Rückfragen, Dokumentausgaben und Grenzen externer Freigaben.

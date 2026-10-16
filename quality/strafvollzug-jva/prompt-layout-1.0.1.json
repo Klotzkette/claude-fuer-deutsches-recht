@@ -1,0 +1,17 @@
+{
+  "werkstatt": {
+    "pages": 21,
+    "out_of_page_words": [],
+    "sha256": "f6f4f61f0798ea20056a751c1c8499bf22a046bf72fafadb6ae936fab318d05a"
+  },
+  "schnellstart": {
+    "pages": 3,
+    "out_of_page_words": [],
+    "sha256": "b68310bb14d015a9a0cd526fce5a84e650bf32b892dbfea9efacd65eab635cb9"
+  },
+  "hauptproblem": {
+    "pages": 2,
+    "out_of_page_words": [],
+    "sha256": "4350f5cd6894776ec607ff75996e923496e1ae3d66356ebd9b403aa9cfb6f561"
+  }
+}

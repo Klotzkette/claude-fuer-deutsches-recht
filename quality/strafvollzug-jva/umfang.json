@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "checked_on": "2026-10-16",
   "skills": [
     {
@@ -49,8 +49,8 @@
     },
     {
       "skill": "strafvollzug-fall-steuern",
-      "words": 1067,
-      "sha256": "4d488006ced0c552888a88c202e35434d1b1d03732d0d7360ec6b6e72c42b622"
+      "words": 1068,
+      "sha256": "13a611855bbd8be791c5944cfb91d6d7c3f42e0c01e91a7b3afb60e850ecdcc8"
     },
     {
       "skill": "vollzugsplan-lockerungen-pruefen",
@@ -61,17 +61,17 @@
   "prompts": [
     {
       "kind": "werkstatt",
-      "bytes": 37800,
-      "words": 4182,
-      "pdf_pages": 10,
-      "sha256": "c751ee69b0a9b8ce489b4686d1842d97222b84e9c8b9fcfeebf219a7adafeec8"
+      "bytes": 79417,
+      "words": 8971,
+      "pdf_pages": 21,
+      "sha256": "59a3387057b10e771d15a8fc2f0a4acc18520f767d633e5f5c0a7d44cb13705d"
     },
     {
       "kind": "schnellstart",
-      "bytes": 7461,
-      "words": 807,
-      "pdf_pages": 2,
-      "sha256": "7963883b7ff83d814ad6e93f7502f12b0996a22ede041034173d46e07c94e566"
+      "bytes": 7479,
+      "words": 840,
+      "pdf_pages": 3,
+      "sha256": "6cb3b9717d20f1efe3e602b25f5c436a02fbfb652dfdd1e60a2e37647b194d6b"
     },
     {
       "kind": "hauptproblem",

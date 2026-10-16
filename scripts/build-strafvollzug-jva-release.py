@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Baut Strafvollzug JVA 1.0.0 aus elf Skills, Prompts und Testakten.
+"""Baut Strafvollzug JVA 1.0.1 aus elf Skills, Prompts und Testakten.
 
 Word-Unterlagen werden nativ mit LibreOffice gerendert. Die Arbeitsmappen werden mit ihren Druckbereichen nativ gerendert. Das Gesamt-PDF entsteht aus genau den Einzel-PDFs; Originaldateien
 bleiben unverändert.
@@ -28,7 +28,7 @@ from testakte_office_pdf import office_binary, valid_office_container
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = 'strafvollzug-jva'
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 CASES = ('jva-berlin-besuch-ernaehrung', 'jva-nrw-unterbringung-gesundheit', 'jva-bayern-bildung-computer', 'jva-niedersachsen-lockerungen-familie')
 KINDS = ('werkstatt', 'schnellstart', 'hauptproblem')
 
@@ -89,7 +89,7 @@ def render_prompt(source, target):
     flow = render.md_to_flowables(markdown)
     def footer(canvas, document):
         canvas.setFont('JVA-Prompt-Regular', 8)
-        canvas.drawString(55, 27, f'Strafvollzug in der JVA 1.0.0 | {font_label} 11 pt')
+        canvas.drawString(55, 27, f'Strafvollzug in der JVA 1.0.1 | {font_label} 11 pt')
         canvas.drawRightString(A4[0] - 55, 27, str(document.page))
     doc = SimpleDocTemplate(str(target), pagesize=A4, leftMargin=55, rightMargin=55,
                            topMargin=50, bottomMargin=50, invariant=1,

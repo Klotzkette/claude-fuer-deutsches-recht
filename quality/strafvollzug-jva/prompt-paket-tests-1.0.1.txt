@@ -1,0 +1,8 @@
+Strafvollzug in der JVA 1.0.1
+Befehl: python3 scripts/test-strafvollzug-jva.py --dist /tmp/jva-release-1.0.1
+
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 1.782s
+
+OK
