@@ -1,0 +1,54 @@
+{
+  "checked_on": "2026-10-16",
+  "method": "Tatsächlicher amtlicher Volltextabruf; gelesene Normen und Randnummern in den Pluginreferenzen.",
+  "sources": [
+    {
+      "name": "stvollzg",
+      "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+      "bytes": 337350,
+      "sha256": "6475615c4eb0b1e89d0f2acd3a61bd0b9474511bb0a57893b045e884247b151f"
+    },
+    {
+      "name": "gg",
+      "url": "https://www.gesetze-im-internet.de/gg/BJNR000010949.html",
+      "bytes": 305445,
+      "sha256": "8df99989fc820e2d3f6c11be5a208fc84dc8edb79b60fd53826ab83fac8a7eca"
+    },
+    {
+      "name": "eil2024",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/09/rk20240930_2bvr015024.html",
+      "bytes": 141482,
+      "sha256": "34d0c6ff7df4eebc9fd0cda2fa1e8431ed50b5d9175ec3635d74388527773c7f"
+    },
+    {
+      "name": "lockerung2019",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190918_2bvr068119.html",
+      "bytes": 144093,
+      "sha256": "3742859d37555d3aed934b5a888e2d15c6cc967f20a151d62d7034d612201862"
+    },
+    {
+      "name": "raum2016",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/03/rk20160322_2bvr056615.html",
+      "bytes": 155190,
+      "sha256": "e19a6383ae170ffb734bd7ef20e5a7eacae1b656c4208139b76d65abb8d2a68f"
+    },
+    {
+      "name": "arbeit2023",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rs20230620_2bvr016616.html",
+      "bytes": 332757,
+      "sha256": "39b4785e7d1278ef2eb782246cfabc81a071a6f5ddaf205dc309ad5abdd89dce"
+    },
+    {
+      "name": "gesundheit2025",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/01/rk20250131_2bvr129024.html",
+      "bytes": 132019,
+      "sha256": "5573bb705ba211a721afd11f580bb55fc2498066d7d6298baf5fd535aa77bb88"
+    },
+    {
+      "name": "pc2019",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/03/rk20190327_2bvr226818.html",
+      "bytes": 121085,
+      "sha256": "83e31d49613b1654a0ab31fe9c0b871a9a6f8f653e4b5d24c0afe0312d036cb6"
+    }
+  ]
+}

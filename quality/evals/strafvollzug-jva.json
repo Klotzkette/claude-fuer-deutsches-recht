@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "plugin": "strafvollzug-jva",
+  "reviewed_on": "2026-10-16",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+      "checked_on": "2026-10-16",
+      "supports": "Tatsächlich gelesene aktuelle §§109–121b: Antragsarten, Frist, Untätigkeit, Eilrechtsschutz, Rechtsbeschwerde und Kosten."
+    },
+    {
+      "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/gvbl/g26200433.pdf",
+      "checked_on": "2026-10-16",
+      "supports": "Berliner Änderung2026: Kinderbesuchszeiten, Verfahren und unterschiedliches Inkrafttreten."
+    },
+    {
+      "url": "https://recht.nrw.de/system/files/pdf/state-law-and-regulations/2026/03/31/05434d/01-04-2026-stvollzg-nrw-strafvollzugsgesetz-nordrh.pdf",
+      "checked_on": "2026-10-16",
+      "supports": "Aktuelle NRW-Fassung: Würde, Unterbringung, Hofgang, Versorgung, Arbeit, Beschwerde und Bundesrechtsschutz."
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG/true",
+      "checked_on": "2026-10-16",
+      "supports": "Aktuelle Fassung ab15.09.2026; Bildung, Besitz, Kommunikation, Vergütung und Sicherheit."
+    },
+    {
+      "url": "https://voris.wolterskluwer-online.de/browse/document/74f6ce6d-6811-362d-a1bd-283e96b259ca",
+      "checked_on": "2026-10-16",
+      "supports": "Niedersachsen §13: Lockerungsarten und individuelle Prognose; weitere geöffnete Einzelvorschriften im Landeswegweiser."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/01/rk20250131_2bvr129024.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 31.01.2025 – Az. 2 BvR 1290/24, Rn. 15–28; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/09/rk20240930_2bvr015024.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 30.09.2024 – Az. 2 BvR 150/24, Rn. 29–38; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rs20230620_2bvr016616.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Urt. v. 20.06.2023 – Az. 2 BvR 166/16 und 2 BvR 1683/17, Rn. 153–164 sowie 183–184; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190918_2bvr068119.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 18.09.2019 – Az. 2 BvR 681/19, Rn. 17–24; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/03/rk20190327_2bvr226818.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 27.03.2019 – Az. 2 BvR 2268/18, Rn. 4–11; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/03/rk20160322_2bvr056615.html",
+      "checked_on": "2026-10-16",
+      "supports": "BVerfG, Beschl. v. 22.03.2016 – Az. 2 BvR 566/15, Rn. 17–24; Volltext gelesen, Reichweite in Entscheidungsreferenz."
+    }
+  ],
+  "selection": {
+    "target_skill": "strafvollzug-fall-steuern",
+    "positive": [
+      "Prüfen Sie diesen Berliner JVA-Bescheid und erstellen Sie meinen gerichtlichen Antrag.",
+      "Ich bin Justiziar einer JVA und brauche einen begründeten Bescheidentwurf zur Besuchsregelung."
+    ],
+    "negative": [
+      "Prüfen Sie eine GmbH-Kapitalerhöhung.",
+      "Legen Sie ein Verzeichnis der Verarbeitungstätigkeiten an."
+    ]
+  },
+  "cases": [
+    {
+      "id": "berlin-kinderbesuch-2026",
+      "target_skill": "strafvollzug-fall-steuern",
+      "request": "Ein Berliner Bescheid vom Oktober 2026 behauptet, für Kinder gebe es neben dem Grundbesuch nur eine zusätzliche Stunde. Der Vater möchte den Schulweg und eine verlässliche Beziehung zu seinen beiden minderjährigen Kindern berücksichtigen. Erstellen Sie den Antrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft die Änderung vom Juni 2026: zwei zusätzliche Stunden neben mindestens zwei Grundstunden; übernimmt die alte Stundenangabe nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ermittelt konkrete Beziehung, Schulzeit, Besuchsbelege und geeignete Ausgestaltung statt Herkunft oder Religion als Gefahrenbeleg zu behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen vollständigen sachlichen Antrag mit praktischen Alternativen und Anlagenbezug.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Behandelt fehlende Rechtsbehelfsbelehrung unter aktuellem Berliner Recht nicht als automatische Aufhebung jeder Frist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nrw-rollator-hofgang",
+      "target_skill": "gesundheit-unterbringung-pruefen",
+      "request": "Mara Wendel benutzt einen Rollator. Der Plan bezeichnet die Zelle mit 8 Quadratmetern; die nutzbare Fläche ist streitig. Die Toilette hat nur einen Vorhang. Der Weg zum Hof ist nicht ohne Stufen erreichbar. Prüfen Sie aus Gerichtssicht und erstellen Sie einen Aufklärungsvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Klärt konkrete Maße, Sanitärschutz, Belegung, Dauer, Einschluss und tatsächlich nutzbaren Hofgang; setzt acht Quadratmeter nicht als Unbedenklichkeitsgrenze ein.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt behauptete Verwaltungsangaben nicht als erwiesene Tatsachen und benennt Beweisfragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft individuelle Behinderung und zumutbare konkrete Abhilfe; behauptet keine medizinische Diagnose.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert ausformulierten Vermerk mit Gehör, nächsten Aufklärungsmaßnahmen und klarer Rollenbindung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bayern-offline-lernrechner",
+      "target_skill": "bildung-arbeit-digitalzugang-pruefen",
+      "request": "Korbinian Seidel benötigt für einen bestätigten Kurs einen Offline-Computer. Ein alter Ablehnungsbescheid zitiert allgemeine Missbrauchsgefahr. Der Lieferant bietet versiegelte Ports; die JVA nennt begrenzte Kontrollkapazität. Erstellen Sie einen begründeten Antrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Lerngegenstand, elektronisches Unterhaltungsmedium und Telekommunikationszugang nach aktueller bayerischer Fassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft konkret Kursbedarf, Schnittstellen, tatsächlichen Kontrollaufwand und erreichbare Alternativen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Legt BVerfG 2 BvR 2268/18 nicht als pauschalen Laptopanspruch oder allgemeines Verbot aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert ausformulierten Antrag mit praktikablen Auflagen, Belegen und offenen technischen Rückfragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niedersachsen-freigang-familie",
+      "target_skill": "vollzugsplan-lockerungen-pruefen",
+      "request": "Samira Hartung hat eine Ausbildungszusage und möchte zusätzlich einen Termin mit ihrem Kind. Die JVA verweist auf einen älteren Regelverstoß. Erstellen Sie aus Anstaltssicht eine begründete Entscheidungsgrundlage mit abgestufter Erprobung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt beschäftigungsbezogenen Freigang, familienbezogenen Ausgang, offener Vollzug und Entlassungsvorbereitung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft aktuelle individuelle Flucht- und Missbrauchsprognose, verlässliche Erkenntnisse und konkrete Weisungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erklärt den alten Regelverstoß weder automatisch für bedeutungslos noch zu einem dauerhaften Ausschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert ausformulierte Entscheidungsgrundlage mit offenem Ermittlungsbedarf und realen Zusagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechtsschutz-frist-und-form",
+      "target_skill": "gerichtlichen-rechtsschutz-fuehren",
+      "request": "Ein Bescheid wurde am Montag, 05.10.2026 schriftlich bekanntgegeben. Heute ist der 16.10.2026. Eine interne Beschwerde läuft. Der Betroffene möchte dringende Abhilfe und glaubt, er könne gegen jeden Eilbeschluss Rechtsbeschwerde einlegen. Erstellen Sie Hauptsache- und Eilantrag als Entwürfe.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet bei diesen belegten Annahmen den Montag,19.10.2026, als Ende der Zweiwochenfrist und trennt Gerichtseingang von Briefabgabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die interne Beschwerde und Eilantrag nicht als automatische Fristwahrung der Hauptsache.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Aussetzung belastender Maßnahme und positive vorläufige Regelung; belegt drohenden Nachteil.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Beachtet Unanfechtbarkeit des §114-Eilbeschlusses und verwechselt §118-Monatsfrist und qualifizierte Form nicht mit dem ersten Antrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert vollständige Entwürfe; keine tatsächliche Einreichung oder ungeprüfte gerichtliche Zuständigkeit behauptet.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Eigenständiger produktorientierter Ablauf mit Rollenwahl, Landesrecht und konkreter Fortsetzung.",
+    "changes": [
+      "Bekanntgabe, gerichtlicher Eingang und Eilrechtsschutz getrennt.",
+      "Keine pauschale Berliner Belehrungspflicht; Quelle und Landesfassung bleiben prüfbar."
+    ],
+    "sha256": "7963883b7ff83d814ad6e93f7502f12b0996a22ede041034173d46e07c94e566"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Eigenständiger produktorientierter Ablauf mit Rollenwahl, Landesrecht und konkreter Fortsetzung.",
+    "changes": [
+      "Bekanntgabe, gerichtlicher Eingang und Eilrechtsschutz getrennt.",
+      "Keine pauschale Berliner Belehrungspflicht; Quelle und Landesfassung bleiben prüfbar."
+    ],
+    "sha256": "c751ee69b0a9b8ce489b4686d1842d97222b84e9c8b9fcfeebf219a7adafeec8"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-16",
+    "verdict": "retained",
+    "reason": "Führt vom konkreten Begehren bis zum ausformulierten Arbeitsprodukt.",
+    "changes": [
+      "Rolle und Landesrecht vor Anspruchsprüfung; bearbeitbare Teile ohne unnötiges Vollinterview ausarbeiten."
+    ],
+    "prompt_path": "strafvollzug-jva/strafvollzug-jva-hauptproblem.md",
+    "skill_path": "strafvollzug-jva/skills/strafvollzug-fall-steuern/SKILL.md",
+    "prompt_sha256": "9af4783241c90ab30b498a1d33d3ce68a911638452eb53ed6ffcb0a3297dc402",
+    "skill_sha256": "4d488006ced0c552888a88c202e35434d1b1d03732d0d7360ec6b6e72c42b622"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-16",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerer Start klärt Rolle, Land, Haftart und gewünschtes Produkt.",
+      "Unterlagenstart liest Bescheid, Bekanntgabe und vorhandene Anlagen.",
+      "Fortsetzung aktualisiert nur betroffene Produkte."
+    ],
+    "continuation": "Offene Belege und Quellen bleiben sichtbar; unabhängige Arbeiten und gezielte Rückfragen werden ausformuliert.",
+    "enrichment": "Vier vollständige Testakten und fünf fachlich konkrete Prüfszenarien mit21Kriterien.",
+    "limits": "Redaktionelle Fachprüfung; tatsächliche Anwendungsproben werden gesondert protokolliert. Kein beobachteter Live-Import in Claude oder ChatGPT."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-16",
+    "method": "desk_review",
+    "files": [
+      "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+      "strafvollzug-jva/strafvollzug-jva-schnellstart.md",
+      "strafvollzug-jva/strafvollzug-jva-hauptproblem.md"
+    ],
+    "opening_change": "Konkretes Produkt zuerst, vorhandene Akte lesen, nur entscheidende Lücken erfragen.",
+    "norms": [
+      "Geltendes Landesrecht für Vollzugsalltag; Bundesrecht §§109ff.StVollzG für gerichtlichen Rechtsschutz.",
+      "Menschenwürde, Gleichbehandlung und Resozialisierung mit individuellen Tatsachen verbinden."
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschl. v. 31.01.2025 – Az. 2 BvR 1290/24, Rn. 15–28",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/01/rk20250131_2bvr129024.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 30.09.2024 – Az. 2 BvR 150/24, Rn. 29–38",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/09/rk20240930_2bvr015024.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      },
+      {
+        "citation": "BVerfG, Urt. v. 20.06.2023 – Az. 2 BvR 166/16 und 2 BvR 1683/17, Rn. 153–164 sowie 183–184",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/06/rs20230620_2bvr016616.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 18.09.2019 – Az. 2 BvR 681/19, Rn. 17–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190918_2bvr068119.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 27.03.2019 – Az. 2 BvR 2268/18, Rn. 4–11",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/03/rk20190327_2bvr226818.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      },
+      {
+        "citation": "BVerfG, Beschl. v. 22.03.2016 – Az. 2 BvR 566/15, Rn. 17–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/03/rk20160322_2bvr056615.html",
+        "application": "Fallbezogene Aussage und gelesene Randnummern in der Entscheidungsreferenz.",
+        "limit": "Trägt und Trägt nicht aus der Referenz erhalten; keine pauschale Übertragung."
+      }
+    ],
+    "remaining_limits": [
+      "Vier Länder vertieft; übrige Länder nur amtliche Rechercheeinstiege.",
+      "Keine tatsächliche Gerichtsübermittlung, medizinische Untersuchung oder automatische Entscheidung."
+    ]
+  }
+}

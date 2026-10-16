@@ -1,0 +1,17 @@
+name: jva-bayern-bildung-computer
+plugin: strafvollzug-jva
+description: "Korbinian Seidel Fernkurs und Offlinecomputer in Bayern: individuelle Vollzugsentscheidung mit Belegen und Parteientwurf."
+checks:
+  - id: originale
+    check_type: working_file_count
+    min: 16
+    description: "Sechzehn native Aktenstücke liegen vor."
+  - id: bekanntgabe
+    check_type: human_review
+    description: "Bescheiddatum, Bekanntgabe, Einreichung und Organisationsfristen werden getrennt."
+  - id: gegenargumente
+    check_type: human_review
+    description: "Sicherheitsbelange, praktische Alternativen und Beleglücken werden individuell geprüft."
+  - id: rechtsweg
+    check_type: human_review
+    description: "Landesrecht und gerichtlicher Rechtsschutz werden anhand des tatsächlichen Vollzugsstatus geprüft."

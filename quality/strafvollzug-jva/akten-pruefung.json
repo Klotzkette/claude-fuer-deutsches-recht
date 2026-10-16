@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-16",
+  "status": "passed",
+  "original_files": 64,
+  "native_pdf_pages": 25,
+  "word_pages_rendered": 22,
+  "word_files_rendered": 16,
+  "xlsx_sheets_rendered": 12,
+  "mime_attachments_byte_identical": 8,
+  "visual_review": {
+    "docx": "Alle 22 Seiten mit render_docx.py und gebündeltem LibreOffice gerendert und als Seitenbilder geprüft. Keine abgeschnittenen Texte oder Überlappungen.",
+    "pdf": "Alle 25 Seiten gerendert und visuell geprüft. Berliner Bescheid: Schlussabschnitt und Unterschrift zusammengehalten. Zeichenkoordinaten innerhalb der Seiten.",
+    "xlsx": "Alle zwölf Blätter mit Artifact Tool gerendert und visuell geprüft. Datumszellen, Quellen, Erläuterungen und Tagesdifferenzen lesbar."
+  },
+  "case_boundaries": [
+    "Alle Personen, Institutionen und Adressen fiktiv; keine echte Justizvollzugsanstalt behauptet.",
+    "Gerichtsort vor Einreichung zuzuordnen; keine tatsächliche Einreichung behauptet.",
+    "Parteientwürfe sind keine Musterlösungen. Sicherheitsargumente und noch offene Tatsachen werden sichtbar gehalten.",
+    "Keine medizinische Diagnose oder Therapieempfehlung.",
+    "Keine direkten privaten Gefangenen-E-Mails behauptet."
+  ],
+  "weekday_check": {
+    "2026-10-05": "Montag",
+    "2026-10-16": "Freitag",
+    "2026-10-19": "Montag"
+  },
+  "case_details": [
+    {
+      "slug": "jva-berlin-besuch-ernaehrung",
+      "originals": 16,
+      "counts": {
+        "docx": 4,
+        "pdf": 6,
+        "eml": 5,
+        "xlsx": 1
+      },
+      "files": [
+        {
+          "file": "01_Auftrag_und_Verfahrensstand.docx",
+          "bytes": 38329,
+          "sha256": "bf047d8c84b57fcac20de3b776e501a5f897526804fa523f80bcbf2f83645c8c"
+        },
+        {
+          "file": "02_Antrag_an_die_JVA.docx",
+          "bytes": 38632,
+          "sha256": "39c36ffc8af955da5c6a9065bb784cfced44bcfd0eb697d3985ac153d56466ba"
+        },
+        {
+          "file": "03_Bescheid.pdf",
+          "bytes": 85976,
+          "sha256": "a7eec282c579fcc19645c5f93bfe480f041a5dc8ea4bc7d626e4556ce2f35700"
+        },
+        {
+          "file": "04_Bekanntgabevermerk.pdf",
+          "bytes": 84028,
+          "sha256": "371726ac3d25cd89563e35e38200be720469603d878888453b102c19424663d3"
+        },
+        {
+          "file": "05_Hausordnung_Auszug.pdf",
+          "bytes": 83946,
+          "sha256": "7301ead8b20f96b913a49f54a393ff229f0f7169042f3fa35a12c8ac0d0dfe8c"
+        },
+        {
+          "file": "06_Sachbeleg.pdf",
+          "bytes": 83746,
+          "sha256": "c51bc403c0f61b5bcd5fb84f89ad527eb31a1009bca600f8cd617d2d751e6936"
+        },
+        {
+          "file": "07_Ergaenzende_Auskunft.pdf",
+          "bytes": 84074,
+          "sha256": "37036683545c8fbe847faacaf99f35bc1f5845e6a54b52a26f28ca1f9ae436a8"
+        },
+        {
+          "file": "08_Gespraechsvermerk.docx",
+          "bytes": 37933,
+          "sha256": "0156deeef11e4f81b4a3dcb9c83189730fd08c379739e6d210614ddeb9715018"
+        },
+        {
+          "file": "09_Gerichtsantrag_Entwurf.docx",
+          "bytes": 40436,
+          "sha256": "d79994efd4eb2decbf349c49299b05f2b60d07b5301c66e32883c31413ec3f1f"
+        },
+        {
+          "file": "10_Kontaktaufnahme.eml",
+          "bytes": 1155,
+          "sha256": "fe4c275ccd04f733af5aeeafb75e9093abadd28c3f7c7cecf9618bb0f785023e"
+        },
+        {
+          "file": "11_Auskunft_der_JVA.eml",
+          "bytes": 116535,
+          "sha256": "ffcbe13ac7e325df20351af54203a3ab1a7eda14cf3435313b8f65749da8c9fd"
+        },
+        {
+          "file": "12_Externe_Auskunft.eml",
+          "bytes": 116263,
+          "sha256": "f8347d2da7a76574e1a142c9e2e256d84b50237c3aad7cfad969624365014c6e"
+        },
+        {
+          "file": "13_Rueckfrage.eml",
+          "bytes": 1574,
+          "sha256": "d99d852ef8eba81551f7c4b2d7f37ff1aa96d630155660344131b6be625d205a"
+        },
+        {
+          "file": "14_Chronologie_Belege_Termine.xlsx",
+          "bytes": 8147,
+          "sha256": "1b7c8890704d56892803c07de306fe707698a026128dc5fa7744a6f1a45feb71"
+        },
+        {
+          "file": "15_Nachricht_zum_Sachstand.eml",
+          "bytes": 1277,
+          "sha256": "cfb283eb5380b532f58985d968dc78ba59438669777ba0bb1f3b8953762d71be"
+        },
+        {
+          "file": "16_Vollzugsplan_Auszug.pdf",
+          "bytes": 83793,
+          "sha256": "1cd9f563125cf475bb7c4f3d4d94977d8a5f117b2134399271ac4b9891f41b9d"
+        }
+      ],
+      "pdf_pages": 7,
+      "mime_attachments": 2,
+      "verified_law_sources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stpo/__43.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.berlin.de/justizvollzug/_assets/senjustv/gesetze/stvollzg-bln/berliner-strafvollzugsgesetz-gesetzestext-fuer-internet.pdf",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/gvbl/g26200433.pdf",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        }
+      ],
+      "xlsx": {
+        "sheets": [
+          "Chronologie",
+          "Belege",
+          "Termine"
+        ],
+        "native_dates": true,
+        "formula_days": [
+          3,
+          8
+        ],
+        "cached_results_match": true,
+        "artifact_tool_authored_and_rendered": true
+      }
+    },
+    {
+      "slug": "jva-nrw-unterbringung-gesundheit",
+      "originals": 16,
+      "counts": {
+        "docx": 4,
+        "pdf": 6,
+        "eml": 5,
+        "xlsx": 1
+      },
+      "files": [
+        {
+          "file": "01_Auftrag_und_Verfahrensstand.docx",
+          "bytes": 38263,
+          "sha256": "3f14f94610fc34ed7441c802af2c778caaec42dd0dc686e2a4cbbd64b5cd9245"
+        },
+        {
+          "file": "02_Antrag_an_die_JVA.docx",
+          "bytes": 38401,
+          "sha256": "3d80ba2a2d95f4438f82c39644c4c9e924259fbba247578795691883a64c10f4"
+        },
+        {
+          "file": "03_Bescheid.pdf",
+          "bytes": 85264,
+          "sha256": "827436adbfa2e5dcf576d0bfb013a8003e323431cdf7c156dc3a31dbec9bc0fb"
+        },
+        {
+          "file": "04_Bekanntgabevermerk.pdf",
+          "bytes": 84033,
+          "sha256": "6be6a6dd561c7696b6a8dae2bfae335fa8a4cdbac0b8c62df37faa3e100996dc"
+        },
+        {
+          "file": "05_Hausordnung_Auszug.pdf",
+          "bytes": 83429,
+          "sha256": "c7fa1a0e5011a023bc1660834d24c7fed41fb8961db34f30b953e0e5d6dabff5"
+        },
+        {
+          "file": "06_Sachbeleg.pdf",
+          "bytes": 83926,
+          "sha256": "2453407fc41802166d62538c9aab355ef062820d80a2723dbaf1e69324b32cdb"
+        },
+        {
+          "file": "07_Ergaenzende_Auskunft.pdf",
+          "bytes": 83775,
+          "sha256": "1c35af2e1c74e76a92893f179c91c53af06fc207a5696fd1067c31dad00cef95"
+        },
+        {
+          "file": "08_Gespraechsvermerk.docx",
+          "bytes": 37953,
+          "sha256": "e3e1a5295952c840d24e800d0ce0ad8c9b63b924006537396b66aee1e11df683"
+        },
+        {
+          "file": "09_Gerichtsantrag_Entwurf.docx",
+          "bytes": 40653,
+          "sha256": "00f19bf37d6d13d977ee740d8ca66703fa9b2850f84f852e0e329d2a125fa4a4"
+        },
+        {
+          "file": "10_Kontaktaufnahme.eml",
+          "bytes": 1194,
+          "sha256": "3d6e3f85dd537a9bf50e6a9e7c010d3e95bcef61b0bedd08fdfca92e42268829"
+        },
+        {
+          "file": "11_Auskunft_der_JVA.eml",
+          "bytes": 115832,
+          "sha256": "1ca3ab01ef03bba754dc99e49ba50ef71e1fbb4d1bd5f2511146e4b1dcc0a796"
+        },
+        {
+          "file": "12_Externe_Auskunft.eml",
+          "bytes": 116502,
+          "sha256": "c54e18b7cbb49126b75b8bb0ff5a0870e4f88eb3803689291788f5774a0696f2"
+        },
+        {
+          "file": "13_Rueckfrage.eml",
+          "bytes": 1560,
+          "sha256": "795712613154556a967369ca1fc0e737752472fce0a8aa9a2a567ed53571471a"
+        },
+        {
+          "file": "14_Chronologie_Belege_Termine.xlsx",
+          "bytes": 8097,
+          "sha256": "82d12ad0297d2f121f1e0ccbb3c7e59104772200d8d510752cfe296f9e056459"
+        },
+        {
+          "file": "15_Nachricht_zum_Sachstand.eml",
+          "bytes": 1278,
+          "sha256": "3a3a8c4e977baa9f77358d8c28ec6e5d6f81d38393356164281f4a0bdc616d82"
+        },
+        {
+          "file": "16_Vollzugsplan_Auszug.pdf",
+          "bytes": 83398,
+          "sha256": "36db9e55b8af7f62ef936966387cd98e2e782f6fd3b9a55887f1b29bd82b67ca"
+        }
+      ],
+      "pdf_pages": 6,
+      "mime_attachments": 2,
+      "verified_law_sources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stpo/__43.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://recht.nrw.de/system/files/pdf/state-law-and-regulations/2026/03/31/05434d/01-04-2026-stvollzg-nrw-strafvollzugsgesetz-nordrh.pdf",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/03/rk20160322_2bvr056615.html",
+          "read_by": "Fachagent rechtsprechung",
+          "read_date": "2026-10-16"
+        }
+      ],
+      "xlsx": {
+        "sheets": [
+          "Chronologie",
+          "Belege",
+          "Termine"
+        ],
+        "native_dates": true,
+        "formula_days": [
+          4
+        ],
+        "cached_results_match": true,
+        "artifact_tool_authored_and_rendered": true
+      }
+    },
+    {
+      "slug": "jva-bayern-bildung-computer",
+      "originals": 16,
+      "counts": {
+        "docx": 4,
+        "pdf": 6,
+        "eml": 5,
+        "xlsx": 1
+      },
+      "files": [
+        {
+          "file": "01_Auftrag_und_Verfahrensstand.docx",
+          "bytes": 38258,
+          "sha256": "d5aa56e7045abbfea2a71a06b7335ce442b341e874315b5fdeecb2717e6094ee"
+        },
+        {
+          "file": "02_Antrag_an_die_JVA.docx",
+          "bytes": 38466,
+          "sha256": "b0f44ae5dbd617f3b8d4170044e1cad3aeb02fd25f062e1f0fe1ed1ba82a9bb4"
+        },
+        {
+          "file": "03_Bescheid.pdf",
+          "bytes": 85322,
+          "sha256": "412b56ea5132939e6aafd94858b7ad4f9b31276fdf9aa40f6e24019d185dc629"
+        },
+        {
+          "file": "04_Bekanntgabevermerk.pdf",
+          "bytes": 84040,
+          "sha256": "5e3a1543c18871517155f4956db4658b52e23f89559e63d487f7bb8b75572bac"
+        },
+        {
+          "file": "05_Hausordnung_Auszug.pdf",
+          "bytes": 83478,
+          "sha256": "e168ccc3608a92f5aeeca6733e3a346a3dcb3c94cfad0dd3e3b6f1ccbed42019"
+        },
+        {
+          "file": "06_Sachbeleg.pdf",
+          "bytes": 83912,
+          "sha256": "5994d242c44d846a3728e0cd9dadb5d9f2881e78bf7ac64e611bd1ab43688154"
+        },
+        {
+          "file": "07_Ergaenzende_Auskunft.pdf",
+          "bytes": 84253,
+          "sha256": "59d01081920ef0e589f68c954d3892dea1c7d169a1acc589fb41abf4657d65c9"
+        },
+        {
+          "file": "08_Gespraechsvermerk.docx",
+          "bytes": 37971,
+          "sha256": "9b8d2229aed12356f45afc9e58db64f9a7cdec110872d36f4f4a8f3371a0ff3a"
+        },
+        {
+          "file": "09_Gerichtsantrag_Entwurf.docx",
+          "bytes": 40580,
+          "sha256": "9ff2eda55a6518b1c280ed80edd0f4f0e4dd9b7fe3d98afde934c6529b18ce9a"
+        },
+        {
+          "file": "10_Kontaktaufnahme.eml",
+          "bytes": 1193,
+          "sha256": "7f185e7aa3da85160fba74a22aec5bc7ab839e94091c72600249ad0d69d403b7"
+        },
+        {
+          "file": "11_Auskunft_der_JVA.eml",
+          "bytes": 115908,
+          "sha256": "65be72a5e8e3371da3705c0cebf7584083764580a0cd73233343a7834b5db837"
+        },
+        {
+          "file": "12_Externe_Auskunft.eml",
+          "bytes": 116515,
+          "sha256": "c82369016b03d39b5e14bf49e372b9ae7bd383d4be8939bfd943e1340dcc8443"
+        },
+        {
+          "file": "13_Rueckfrage.eml",
+          "bytes": 1578,
+          "sha256": "84782e2465ca15b67168d9d4c33b5d4e0f7c525f9c7fd1896e827af03ea05b46"
+        },
+        {
+          "file": "14_Chronologie_Belege_Termine.xlsx",
+          "bytes": 8172,
+          "sha256": "5db1e32369cb504757ee37954d310b8e3a82587391b053ee803d74a42b1cc394"
+        },
+        {
+          "file": "15_Nachricht_zum_Sachstand.eml",
+          "bytes": 1290,
+          "sha256": "94c7974370f94089295c8d377ed3e1017b951ab04205bbb05533b811ab66d30f"
+        },
+        {
+          "file": "16_Vollzugsplan_Auszug.pdf",
+          "bytes": 83731,
+          "sha256": "def01218f70dfa1b13a0a11606b7962a0b0a1ebdead48b5caac192c7ae7afc78"
+        }
+      ],
+      "pdf_pages": 6,
+      "mime_attachments": 2,
+      "verified_law_sources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stpo/__43.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG-39",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG-40",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG-72",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-bayern.de/Content/Document/BayStVollzG-35",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/03/rk20190327_2bvr226818.html",
+          "read_by": "Fachagent rechtsprechung",
+          "read_date": "2026-10-16"
+        }
+      ],
+      "xlsx": {
+        "sheets": [
+          "Chronologie",
+          "Belege",
+          "Termine"
+        ],
+        "native_dates": true,
+        "formula_days": [
+          14,
+          28
+        ],
+        "cached_results_match": true,
+        "artifact_tool_authored_and_rendered": true
+      }
+    },
+    {
+      "slug": "jva-niedersachsen-lockerungen-familie",
+      "originals": 16,
+      "counts": {
+        "docx": 4,
+        "pdf": 6,
+        "eml": 5,
+        "xlsx": 1
+      },
+      "files": [
+        {
+          "file": "01_Auftrag_und_Verfahrensstand.docx",
+          "bytes": 38261,
+          "sha256": "4c849025de60222d5eee61841cab742020467ead837b88edaa8ea04c7c14d282"
+        },
+        {
+          "file": "02_Antrag_an_die_JVA.docx",
+          "bytes": 38420,
+          "sha256": "bbfee074225db3d9e3aaa20979140b4f92d923861323fb9b574f9882680b4b63"
+        },
+        {
+          "file": "03_Bescheid.pdf",
+          "bytes": 85239,
+          "sha256": "b784e5c92204c70157585a0c1413f916ef9da4902822b9e00808aeac40532433"
+        },
+        {
+          "file": "04_Bekanntgabevermerk.pdf",
+          "bytes": 84041,
+          "sha256": "cfd28a6759a142137b6da0ef6461d97ea8f64c32076dd9ba13d64545c437c5d2"
+        },
+        {
+          "file": "05_Hausordnung_Auszug.pdf",
+          "bytes": 83806,
+          "sha256": "3da3513e8f1fa166d5a013959eeac2309fac9b0494fcd132a18a69033983a829"
+        },
+        {
+          "file": "06_Sachbeleg.pdf",
+          "bytes": 83942,
+          "sha256": "6d54138069a743e09460e77997c96bc51d9601b70b8a09c6bd94f6d2893dd1d4"
+        },
+        {
+          "file": "07_Ergaenzende_Auskunft.pdf",
+          "bytes": 84158,
+          "sha256": "ddcef6cf9d0f57eee304ea7e83c1279a622536233097d3f910ee3677c1cc42c6"
+        },
+        {
+          "file": "08_Gespraechsvermerk.docx",
+          "bytes": 37984,
+          "sha256": "1ce38a0f78da688a6f39af5e3a4c4688a00dca9dce71d2f48f0ae7f833823fd7"
+        },
+        {
+          "file": "09_Gerichtsantrag_Entwurf.docx",
+          "bytes": 40491,
+          "sha256": "9e8019c2047dc2c0a5a700bd16bbd1b486386e01888408978c34a0a7a29ff5fe"
+        },
+        {
+          "file": "10_Kontaktaufnahme.eml",
+          "bytes": 1205,
+          "sha256": "b55af10fb7f64c032369d85018e98d63fa10779d2ec59e393068a953c0d9b67c"
+        },
+        {
+          "file": "11_Auskunft_der_JVA.eml",
+          "bytes": 116352,
+          "sha256": "c34c5e9994a67948f311e65fd2772faab8778585fc00085c43cfbb40cccbe699"
+        },
+        {
+          "file": "12_Externe_Auskunft.eml",
+          "bytes": 116547,
+          "sha256": "451aa4cbed22936960c818860974e3955296db6ff5d227cdbffcf6ef2fb76138"
+        },
+        {
+          "file": "13_Rueckfrage.eml",
+          "bytes": 1591,
+          "sha256": "bcffcaa7686afd378e5fc0854acaaf8c6e2c8f43202da0492f0ec3d026119f72"
+        },
+        {
+          "file": "14_Chronologie_Belege_Termine.xlsx",
+          "bytes": 8314,
+          "sha256": "3c9110f886cb6e13c2ae1c16f4aa7a2b56ef2c46564a794e7164fcd46254e511"
+        },
+        {
+          "file": "15_Nachricht_zum_Sachstand.eml",
+          "bytes": 1282,
+          "sha256": "f09b51e8ff68b1df4590f9fe9eacce8f1ea2961101eac77675634e290e38d261"
+        },
+        {
+          "file": "16_Vollzugsplan_Auszug.pdf",
+          "bytes": 83792,
+          "sha256": "7b37c6f61c44a231561aa0042c6e60a8c7c05aa4cc7ee05e4a62df5d8f1db8bf"
+        }
+      ],
+      "pdf_pages": 6,
+      "mime_attachments": 2,
+      "verified_law_sources": [
+        {
+          "url": "https://www.gesetze-im-internet.de/stvollzg/BJNR005810976.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.gesetze-im-internet.de/stpo/__43.html",
+          "read_by": "Fachagent bundesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://voris.wolterskluwer-online.de/browse/document/ff92b490-6bb7-31b4-9f05-bfa9055feb2b",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://voris.wolterskluwer-online.de/browse/document/74f6ce6d-6811-362d-a1bd-283e96b259ca",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://voris.wolterskluwer-online.de/browse/document/113ae5e6-b507-3142-add4-53390575eeec",
+          "read_by": "Fachagent landesrecht",
+          "read_date": "2026-10-16"
+        },
+        {
+          "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2019/09/rk20190918_2bvr068119.html",
+          "read_by": "Fachagent rechtsprechung",
+          "read_date": "2026-10-16"
+        }
+      ],
+      "xlsx": {
+        "sheets": [
+          "Chronologie",
+          "Belege",
+          "Termine"
+        ],
+        "native_dates": true,
+        "formula_days": [
+          10,
+          17,
+          35,
+          94
+        ],
+        "cached_results_match": true,
+        "artifact_tool_authored_and_rendered": true
+      }
+    }
+  ],
+  "issues": []
+}

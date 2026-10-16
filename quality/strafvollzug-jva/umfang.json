@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "checked_on": "2026-10-16",
+  "skills": [
+    {
+      "skill": "antraege-bescheide-bearbeiten",
+      "words": 1123,
+      "sha256": "4b5cd709ff5c5d2a712e760840f12ab7f8deda0861ae0d531896b37c45c54f00"
+    },
+    {
+      "skill": "besuch-kommunikation-gestalten",
+      "words": 1183,
+      "sha256": "0ef796b77d02353d37b041f2c8201be769650caa030b60d200eaa89571897b44"
+    },
+    {
+      "skill": "bildung-arbeit-digitalzugang-pruefen",
+      "words": 1168,
+      "sha256": "84a55bbe027aa7679e8dd5737e3837e7daac84257e5f4556f46de013ec4d2811"
+    },
+    {
+      "skill": "entlassung-uebergang-planen",
+      "words": 1234,
+      "sha256": "5db5f0ae802b7f882bce0c5debba61e0132e1dea84763b8cefec1ecbf08f65b8"
+    },
+    {
+      "skill": "ernaehrung-religion-beruecksichtigen",
+      "words": 1301,
+      "sha256": "4d3b03fb9f93762d5ba353be31db6891fb6d7b98814863c04b1eb46a26060e78"
+    },
+    {
+      "skill": "gerichtlichen-rechtsschutz-fuehren",
+      "words": 1172,
+      "sha256": "a88816bbf055333bdb7eb1586840569f564ff17a9d14e5cc36bfd4288335a7e4"
+    },
+    {
+      "skill": "gesundheit-unterbringung-pruefen",
+      "words": 1302,
+      "sha256": "7129272909b80f7dac66efa1a79efb47db522bb09f2e8ef9aac9eccd7a0a63d1"
+    },
+    {
+      "skill": "grundrechte-gleichbehandlung-pruefen",
+      "words": 1141,
+      "sha256": "8e3d72c7c1533b124752974d741da84935bce231662860c6825587bed8dae766"
+    },
+    {
+      "skill": "sicherheit-disziplin-kontrollieren",
+      "words": 1224,
+      "sha256": "41898f0b1ac2c781d7aa4845e13ebc0345a2b74de4c490b2b407096f8b9fe60d"
+    },
+    {
+      "skill": "strafvollzug-fall-steuern",
+      "words": 1067,
+      "sha256": "4d488006ced0c552888a88c202e35434d1b1d03732d0d7360ec6b6e72c42b622"
+    },
+    {
+      "skill": "vollzugsplan-lockerungen-pruefen",
+      "words": 1111,
+      "sha256": "75b8c4e08fb31be5325a3316dd19b869bf4fe940323a0d738958e5375e25295e"
+    }
+  ],
+  "prompts": [
+    {
+      "kind": "werkstatt",
+      "bytes": 37800,
+      "words": 4182,
+      "pdf_pages": 10,
+      "sha256": "c751ee69b0a9b8ce489b4686d1842d97222b84e9c8b9fcfeebf219a7adafeec8"
+    },
+    {
+      "kind": "schnellstart",
+      "bytes": 7461,
+      "words": 807,
+      "pdf_pages": 2,
+      "sha256": "7963883b7ff83d814ad6e93f7502f12b0996a22ede041034173d46e07c94e566"
+    },
+    {
+      "kind": "hauptproblem",
+      "bytes": 7470,
+      "words": 840,
+      "pdf_pages": 2,
+      "sha256": "9af4783241c90ab30b498a1d33d3ce68a911638452eb53ed6ffcb0a3297dc402"
+    }
+  ],
+  "cases": [
+    {
+      "name": "jva-bayern-bildung-computer",
+      "originals": 16,
+      "pdf_pages": 20,
+      "sha256": "2474b33920998aa1a29fece2277c6f970a1df2e80638327678eb6a7ba5f42490"
+    },
+    {
+      "name": "jva-berlin-besuch-ernaehrung",
+      "originals": 16,
+      "pdf_pages": 20,
+      "sha256": "270e69d8193fc546abc67eaa535bf36ecfb563d653fa63e261d9f9eaee95d734"
+    },
+    {
+      "name": "jva-niedersachsen-lockerungen-familie",
+      "originals": 16,
+      "pdf_pages": 19,
+      "sha256": "ff735236bc269f0d2b4a6d1173160a2c30acfec61f999777ea81eff780f3a370"
+    },
+    {
+      "name": "jva-nrw-unterbringung-gesundheit",
+      "originals": 16,
+      "pdf_pages": 20,
+      "sha256": "9e8fdb0c1930a29cba4b2171c830137567b732d4fbec4f5b1f1e8de491ee8908"
+    }
+  ]
+}

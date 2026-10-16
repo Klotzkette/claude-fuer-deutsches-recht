@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-10-16",
+  "files": [
+    {
+      "file": "Antrag.md",
+      "original_sha256": "77ad4359e08e01d4643545a44bb0540cc3a9ff5204ff9567e9e51a6c4a603e52",
+      "archived_sha256": "13934e9f7a7c58bf3941b8290ea3129e4ba13fd5361fc9164a6922633051bcfb"
+    },
+    {
+      "file": "Fristnotiz-und-Eilpruefung.md",
+      "original_sha256": "5e773b7e481b5b63adbc7687adc4bf2f911f73f99f877f3dd27d92e2742f7646",
+      "archived_sha256": "5e773b7e481b5b63adbc7687adc4bf2f911f73f99f877f3dd27d92e2742f7646"
+    },
+    {
+      "file": "Leseprotokoll.md",
+      "original_sha256": "232452eff14c8ab0911429d3a4ed4ce5fbea9ad31428719a1605faef46d4bb3f",
+      "archived_sha256": "d3d732086809b3d2ef97755b4bc549a1eb00c9cc65cc45e9ddfa6096684bea6b"
+    }
+  ],
+  "source_archive_sha256": "de8b0787bb4b216e477c98b931fd86d486f0a26c0b7a3fea59504292207975ea"
+}

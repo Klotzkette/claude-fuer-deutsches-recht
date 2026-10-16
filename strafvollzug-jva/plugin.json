@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "strafvollzug-jva",
+  "version": "1.0.0",
+  "description": "Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Strafvollzug in der JVA",
+        "shortDescription": "Rechte im Vollzug prüfen und wirksam geltend machen",
+        "longDescription": "Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen.",
+        "developerName": "Klotzkette",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Lesen Sie meine Unterlagen. Klären Sie Bundesland, Haftart, Rolle, konkrete Maßnahme und Bekanntgabe. Prüfen Sie das einschlägige Recht und erstellen Sie den passenden ausformulierten Antrag, Bescheid oder gerichtlichen Entwurf. Halten Sie offene Belege, Eilbedarf und Fristen getrennt fest."
+      }
+    }
+  }
+}

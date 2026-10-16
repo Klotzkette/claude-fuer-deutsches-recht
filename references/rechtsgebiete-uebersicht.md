@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 300 Plugins, 23278 Skills.
+Stand v445.35.3: 301 Plugins, 23289 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -263,6 +263,7 @@ Stand v445.35.3: 300 Plugins, 23278 Skills.
 | [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater/) | Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. | `445.35.2` | 238 |
 | [`strafanzeige-vorbereiter`](../strafanzeige-vorbereiter/) | Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige. | `445.35.2` | 57 |
 | [`strafbefehl-verteidiger`](../strafbefehl-verteidiger/) | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. | `445.35.3` | 61 |
+| [`strafvollzug-jva`](../strafvollzug-jva/) | Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen. | `1.0.0` | 11 |
 | [`strafzumessung`](../strafzumessung/) | Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. Paragraf 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewährung Paragraf 56 Paragraf 49 Regelbeispiele besonders schwerer Fall Verständigung Paragraf 257c StPO TOA Paragraf 46a Gesamtstrafe Paragraf 55 JGG. | `445.35.3` | 60 |
 | [`strassennutzung-genehmigungen`](../strassennutzung-genehmigungen/) | Öffentliches Straßen- und Straßenverkehrsverwaltungsrecht: zehn Skills für Zufahrt, Parken, Laden, Poller, Schulstraßen, Fahrräder, Sondernutzung, Ausnahmen und Rechtsschutz. | `445.35.3` | 10 |
 | [`strassenrecht-infrastruktur`](../strassenrecht-infrastruktur/) | Straßenrecht-Plugin für Bundesfernstraßen, Landesstraßen, Gemeindestraßen, Widmung, Planfeststellung, Sondernutzung, Baulast und Erhaltung. | `445.35.3` | 127 |

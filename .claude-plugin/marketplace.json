@@ -2626,6 +2626,16 @@
       }
     },
     {
+      "name": "strafvollzug-jva",
+      "version": "1.0.0",
+      "description": "Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./strafvollzug-jva"
+    },
+    {
       "name": "strafzumessung",
       "source": "./strafzumessung",
       "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verständigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
