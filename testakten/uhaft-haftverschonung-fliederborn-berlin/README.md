@@ -6,6 +6,8 @@ Lagerdiebstahl, Reisebuchung und nachgereichte Wohn- und Arbeitsnachweise. Die H
 
 Stand 2026-10-16. Neun eigenständige Unterlagen: fünf Word-Dokumente, zwei E-Mails, eine Tabelle und eine Textdatei. Beginnen Sie mit der ersten gerichtlichen oder polizeilichen Unterlage und wählen Sie Ihre Rolle. Die vorhandenen Schreiben sind Verfahrensmaterial, keine vorweggenommene Lösung. Eine Entscheidung über den nächsten Antrag ist nicht beigelegt.
 
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+
 ## 1.2. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -16,7 +18,9 @@ Stand 2026-10-16. Neun eigenständige Unterlagen: fünf Word-Dokumente, zwei E-M
 | --- | --- |
 | Gesamt-PDF mit Lesezeichen | [Gesamtakte](gesamt-pdf/uhaft-haftverschonung-fliederborn-berlin_gesamt.pdf) |
 | Jede Unterlage als eigenes PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin-einzelpdfs.zip) |
-| Word, E-Mails, Tabelle und Text | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) |
+| Word, E-Mails, Tabelle und Text | [Akten-ZIP mit Originalunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/testakte-uhaft-haftverschonung-fliederborn-berlin.zip) |
+
+<!-- END gesamt-pdf-section (autogen) -->
 
 Beide ZIPs sind flach und enthalten den zweisprachigen Hinweis in README.txt. Das Originalformat-ZIP enthält zusätzlich das Gesamt-PDF, aber kein Markdown. Die PDF-Sammlung enthält genau ein PDF je Originalunterlage. Mehrseitige Unterlagen bleiben jeweils zusammen; verschiedene Originale werden nicht zu einem Einzel-PDF vermischt.
 

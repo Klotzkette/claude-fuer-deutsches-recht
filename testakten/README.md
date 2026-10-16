@@ -1,61 +1,83 @@
 # Testakten zum Ausprobieren
 
-Zusätzliche Sammlung: Die sieben [Akten der Vergaberecht-Werkstatt](../vergaberecht-werkstatt/testakten/README.md) liegen bewusst separat bei ihren drei Rollen-Plugins. Dort stehen Reinigung, Laptopbeschaffung, Bauleistung, IT-Beratung, Auftragnehmerwechsel, Rechenzentrum und ein IT-Nachprüfungsverfahren mit eigenen Downloads bereit. Sie sind nicht in den älteren zentralen Sammel-ZIPs enthalten.
+Diese Sammlung bietet künstlich erzeugte Übungsakten für die juristische Arbeit mit KI. Sie können damit Unterlagen auswerten, Sachverhalte ordnen und Schriftsätze, Verträge oder Schreiben bearbeiten. Es handelt sich um erfundene Fälle, nicht um anonymisierte Originalmandate.
 
-[Repository-Start](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Download-Index](../ASSET_INDEX.md) · [Qualitätsstandard](./QUALITAETSSTANDARD.md)
+**[So benutzen Sie die Akten](#1-so-benutzen-sie-die-testakten) · [Nach Thema finden](#2-testakten-nach-thema-finden) · [Alle Akten von A bis Z](#verfügbare-akten) · [Vier JVA-Testakten](../strafvollzug-jva/README.md#1-vier-jva-testakten)**
 
-Komponentenstand: [KI-native Kanzlei](../ki-native-kanzlei/README.md) enthält 30 Skills, 24 Kurzfälle und drei Produktionsakten. Die Einzel-Downloads sind aktuell; ältere allgemeine Sammel-ZIPs enthalten die Erweiterung noch nicht.
+## 1. So benutzen Sie die Testakten
 
-Neu: [Geldwäschebeauftragter](../geldwaeschebeauftragter/README.md) mit drei Akten und 75 Originaldateien; ausgeliefert im eigenen Komponentenrelease, nicht in den älteren Sammel-ZIPs.
+1. **Fall auswählen:** Nutzen Sie die Themenauswahl unten oder suchen Sie einen Aktennamen in der alphabetischen Liste. Öffnen Sie die Fallseite und lesen Sie den Arbeitsauftrag.
+2. **Eine Fassung herunterladen:** Wählen Sie anhand der folgenden Tabelle das passende Format. Entpacken Sie ein ZIP vor der Bearbeitung, sofern Ihre KI-Umgebung keine Archive einlesen kann.
+3. **Auftrag erteilen:** Laden Sie die benötigten Unterlagen in Ihre Arbeitsumgebung. Ergänzen Sie bei Bedarf den Mini-Prompt oder Werkstatt-Prompt des passenden Plugins. Benennen Sie Ihre Rolle und das gewünschte Ergebnis.
+4. **Ergebnis prüfen und weiterarbeiten:** Vergleichen Sie Aussagen und Anlagen mit den Aktenstücken. Bearbeiten Sie offene Fragen und lassen Sie den Entwurf anhand Ihrer Ergänzungen überarbeiten.
 
-Dieser Ordner enthält künstlich erzeugte Übungsakten, keine anonymisierten Originalmandate. Sie bilden typische Eingänge einer Kanzlei mit Schriftverkehr, Tabellen, Belegen und unvollständigen Angaben ab. Die Akten gehören nicht zur Plugin-Installation: Wähle einen passenden Fall und lade nur die für deinen Übungslauf benötigte Fassung herunter.
-
-Stand v445.35.3: 525 zentrale Testakten im aktuellen Repository einschließlich separat veröffentlichter Ergänzungen plus 2 Hilfsmaterialsammlungen. Jede Akte steht in drei Fassungen bereit: als durchsuchbares Gesamt-PDF, als Einzel-PDF-ZIP und als Akten-ZIP mit den nativen Originalformaten DOCX, XLSX, PDF, JPEG, CSV, EML und weiteren Alltagsdateien. Die ZIPs sind im Regelfall flach. Die ausdrücklich strukturierten Akten Hildesheimer Lebensakte, FinTech-Darlehensverfahren Bremen und die beiden Bauvergabeakten erhalten ihre Unterordner in beiden Fassungen. Originalformat-ZIPs enthalten kein Markdown. Schriftsätze und Gutachten sind vollständig ausgearbeitet, Tabellen behalten Rohdaten und offene Positionen, Korrespondenz enthält realistische Header und Bezüge.
-
-Der unveränderte zweisprachige Warnhinweis steht unmittelbar vor den PDF-/ZIP-Downloadgruppen auf den README-Seiten. Gesamt-PDF und Einzel-PDFs enthalten weder eine Hinweisseite noch diesen Warntext. Beide ZIP-Varianten und Sammelpakete mit Testakten enthalten auf der Wurzelebene eine `README.txt`, die mit dem Hinweis beginnt. Die Release-Prüfungen erzwingen Wortlaut und Position auch für alle künftig hinzukommenden Akten.
-
-Der verbindliche Aktenstandard steht in [`QUALITAETSSTANDARD.md`](./QUALITAETSSTANDARD.md): Die Originaldateien bleiben als heterogener Datenraum erhalten; Gesamt-PDF und Einzel-PDF-ZIP ermöglichen parallel die fortlaufende oder dokumentweise Durchsicht.
-
-Die neue [Klinikakte Auenhöhe](./krankenhaus-it-ki-auenhoehe-thueringen/README.md) ist im [Krankenhaus-IT-Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/krankenhaus-it-ki-v445.33.1) direkt verfügbar. Die vorhandenen Sammel-ZIPs enthalten sie noch nicht; ihre Aufnahme erfolgt erst mit einem neuen Komplettrelease.
-
-Neu in der KI-Fachvertiefung: fünf vollständige Akten zu verbotenen Praktiken, Bewerberauswahl, Medien, Sozialverwaltung und Logistik. Originalformate und PDF-Fassungen stehen im Komponentenrelease 445.35.1.
-
-Die drei [DD-Akten](../due-diligence/README.md) zu 50 Arbeitsverträgen, Projekt Silberfalke und dem Verkauf einer englischen Bankfiliale werden im Komponentenrelease Due Diligence 1.0.1 ausgeliefert. Die Sammel-ZIPs v445.35.3 vom 9. Oktober 2026 enthalten den damaligen Bestand; die drei neuen DD-Akten sind dort noch nicht enthalten.
-
-Die drei [VVT-Akten](../verarbeitungsverzeichnis/README.md) zu Handwerksbetrieb, Cloudservice und Arztpraxis gehören zum Komponentenrelease Verarbeitungsverzeichnis 1.0.0. Sie begleiten die Anlage und laufende Pflege des Verzeichnisses einschließlich Rollenabgrenzung, Änderungsmeldungen und DSFA-Prüfung; die Sammel-ZIPs v445.35.3 enthalten sie noch nicht.
-
-Die vier [JVA-Akten](../strafvollzug-jva/README.md) behandeln Besuch und Ernährung in Berlin, Unterbringung und Gesundheit in Nordrhein-Westfalen, Bildung und Offlinecomputer in Bayern sowie Lockerungen und Familie in Niedersachsen. Ihre Originaldateien und PDF-Fassungen gehören zum Komponentenrelease Strafvollzug in der JVA 1.0.0; die Sammelarchive v445.35.3 enthalten diese Ergänzung noch nicht.
-
-## So findest du die passende Akte
-
-| Ausgangspunkt | Schnellster Weg |
+| Fassung | Wofür eignet sie sich? |
 | --- | --- |
-| Ein bestimmtes Rechtsgebiet oder Plugin | In der jeweiligen Plugin-README den Abschnitt `Zugeordnete Testakten` öffnen; dort stehen nur die fachlich passenden Akten. |
-| Ein bekannter Aktenname | In der alphabetisch nach Ordnerslug sortierten Tabelle unten mit der Seitensuche suchen. |
-| Ein schneller Download ohne Einzelwahl | Eines der drei Sammelpakete unterhalb dieser Tabelle verwenden. |
-| Prüfung der Dateiformate und Qualitätsregeln | Den [Qualitätsstandard](./QUALITAETSSTANDARD.md) öffnen. |
+| **Gesamt-PDF** | Den Fall fortlaufend lesen oder als zusammenhängende Datei auswerten. |
+| **Einzel-PDF-ZIP** | Die Dokumente getrennt prüfen und gezielt einzelne Aktenstücke auswählen. |
+| **Akten-ZIP mit Originalformaten** | Word-Entwürfe bearbeiten, Excel-Tabellen prüfen sowie E-Mails, Bilder und weitere Originaldateien auswerten. Die enthaltenen Formate stehen auf der jeweiligen Fallseite. |
 
-Jede Tabellenzeile führt zuerst zur Akten-README und danach getrennt zum Gesamt-PDF, zum ZIP mit Originalformaten und zum ZIP mit Einzel-PDFs. Die Hildesheimer Lebensakte bildet zusätzlich eine gegliederte Projektablage ab.
+Verwenden Sie für einen Übungslauf nur eine Fassung desselben Falls. Andernfalls könnten dieselben Belege mehrfach ausgewertet werden. Die Testakten werden separat geladen; sie sind kein Bestandteil der Plugin-Installation.
 
-Wähle das Gesamt-PDF zur fortlaufenden Lektüre, das Einzel-PDF-ZIP für eine dokumentweise Prüfung oder das Akten-ZIP zum Arbeiten mit Tabellen, E-Mails und weiteren Originalformaten. Lade nicht alle drei Fassungen zugleich in denselben Arbeitsordner: Sie enthalten denselben Fall und würden sonst doppelt ausgewertet. Die Sammelpakete unten enthalten ihrerseits mehrere Akten-ZIPs; die jeweilige Ablagestruktur gilt innerhalb der einzelnen Akte.
+Ein möglicher Einstieg: „Ich vertrete die antragstellende Person. Lesen Sie die Akte, benennen Sie entscheidende Beleglücken und überarbeiten Sie den vorhandenen Antragsentwurf mit passenden Anlagen.“ Sie können stattdessen eine andere Rolle oder ein anderes Arbeitsprodukt vorgeben.
 
-English: This is the alphabetical practice-case index. Each row links to a case guide and its three formats: combined PDF, individual-document PDF ZIP and original-format ZIP. Use one format per working folder to avoid duplicate documents. Collection downloads contain the individual case archives. Cases are experimental generated material, not real client files, and are never installed with a plugin.
+## 2. Testakten nach Thema finden
+
+Die Links führen zu den fachlich zugeordneten Akten der jeweiligen Plugins. Dort wählen Sie den konkreten Fall aus. Die vollständige [alphabetische Liste](#verfügbare-akten) darunter enthält zusätzlich Kurzbeschreibungen und die Spalte „Passt zu“. Mit der Seitensuche Ihres Browsers finden Sie dort auch speziellere Themen, Ortsnamen und Aktennamen.
+
+| Rechtsgebiet oder Arbeitsaufgabe | Passende Akten |
+| --- | --- |
+| Agrarrecht | [Landwirtschaft und Agrarbetriebe](../fachanwalt-agrarrecht/README.md#zugeordnete-testakten) |
+| Arbeitsrecht und Personal | [Arbeitsverträge, Kündigung und Vergütung](../fachanwalt-arbeitsrecht/README.md#zugeordnete-testakten) |
+| Bank- und Kapitalmarktrecht | [Kredit, Anlage und Bankgeschäfte](../fachanwalt-bank-kapitalmarktrecht/README.md#zugeordnete-testakten) |
+| Bauen und Architektur | [Bau- und Architektenrecht](../fachanwalt-bau-architektenrecht/README.md#zugeordnete-testakten) · [Bauwirtschaft und HOAI](../bauwirtschaft/README.md#zugeordnete-testakten) |
+| Betreuungsrecht | [Betreuung und Vermögensprüfung](../betreuungsrecht/README.md#zugeordnete-testakten) |
+| Datenschutz | [Datenschutzfälle](../datenschutzrecht/README.md#zugeordnete-testakten) · [Verarbeitungsverzeichnis](../verarbeitungsverzeichnis/README.md#15-drei-testakten) |
+| Due Diligence | [Arbeitsverträge, Unternehmenskauf und Darlehensbestand](../due-diligence/README.md#14-drei-testakten) |
+| Erbrecht | [Nachlass und Erbstreit](../fachanwalt-erbrecht/README.md#zugeordnete-testakten) |
+| Familienrecht | [Trennung, Sorge und Umgang](../fachanwalt-familienrecht/README.md#zugeordnete-testakten) |
+| Geldwäscheprävention | [Geldwäschebeauftragter](../geldwaeschebeauftragter/README.md#zugeordnete-testakten) |
+| Gesellschaftsrecht und Gründung | [Handels- und Gesellschaftsrecht](../fachanwalt-handels-gesellschaftsrecht/README.md#zugeordnete-testakten) · [Gründung](../gesellschaftsgruender/README.md#zugeordnete-testakten) · [Gesellschafterstreit](../gesellschafterstreit/README.md#zugeordnete-testakten) |
+| Gewerblicher Rechtsschutz | [Marken, Patente und Wettbewerb](../fachanwalt-gewerblicher-rechtsschutz/README.md#zugeordnete-testakten) |
+| Insolvenz und Sanierung | [Insolvenz- und Sanierungsrecht](../fachanwalt-insolvenz-sanierungsrecht/README.md#zugeordnete-testakten) |
+| Internationales Wirtschaftsrecht | [Grenzüberschreitende Geschäfte](../fachanwalt-internationales-wirtschaftsrecht/README.md#zugeordnete-testakten) |
+| IT-Recht | [Software, IT-Verträge und digitale Dienste](../fachanwalt-it-recht/README.md#zugeordnete-testakten) |
+| Kanzleialltag | [24 Kurzfälle](../ki-native-kanzlei/README.md#7-die-24-kurzfälle) · [Drei Produktionsakten](../ki-native-kanzlei/README.md#8-drei-produktionsakten) |
+| KI-Verordnung und Krankenhaus-IT | [KI-Verordnung](../ki-vo-ai-act-pruefer/README.md#zugeordnete-testakten) · [Krankenhaus-IT](../krankenhaus-it-ki/README.md#zugeordnete-testakten) |
+| Kommunale Haftpflicht | [Kommunale Schäden und Klageentwürfe](../kommunale-haftpflicht/README.md#zugeordnete-testakten) |
+| Medizinrecht | [Behandlung, Haftung und ärztliche Tätigkeit](../fachanwalt-medizinrecht/README.md#zugeordnete-testakten) |
+| Mietrecht und Wohnungseigentum | [Miet- und Wohnungseigentumsrecht](../fachanwalt-miet-wohnungseigentumsrecht/README.md#zugeordnete-testakten) · [Hausverwaltung](../weg-hausverwaltung/README.md#zugeordnete-testakten) |
+| Migrationsrecht | [Aufenthalt, Asyl und Einbürgerung](../fachanwalt-migrationsrecht/README.md#zugeordnete-testakten) |
+| Sozialrecht | [Leistungen und Sozialversicherung](../fachanwalt-sozialrecht/README.md#zugeordnete-testakten) · [Status und Sozialversicherungspflicht](../sozialversicherungspflicht-pruefer/README.md#zugeordnete-testakten) |
+| Sportrecht | [Verein, Sportbetrieb und Verträge](../fachanwalt-sportrecht/README.md#zugeordnete-testakten) |
+| Steuerrecht | [Steuerliche Beratung und Verfahren](../steuerrecht-anwalt-und-berater/README.md#zugeordnete-testakten) |
+| Strafrecht | [Ermittlung, Verteidigung und Strafverfahren](../fachanwalt-strafrecht/README.md#zugeordnete-testakten) |
+| Strafvollzug in der JVA | [Vier Fälle aus Berlin, NRW, Bayern und Niedersachsen](../strafvollzug-jva/README.md#1-vier-jva-testakten) |
+| Transport- und Speditionsrecht | [Transport, Fracht und Logistik](../fachanwalt-transport-speditionsrecht/README.md#zugeordnete-testakten) |
+| Untersuchungshaft | [Vier Fälle zu Haftprüfung und Haftbedingungen](../untersuchungshaft/README.md#14-vier-akten-zum-ausprobieren--four-practice-cases) |
+| Urheber- und Medienrecht | [Werke, Veröffentlichungen und Medien](../fachanwalt-urheber-medienrecht/README.md#zugeordnete-testakten) |
+| Vergaberecht | [Vergaberechtliche Fälle](../fachanwalt-vergaberecht/README.md#zugeordnete-testakten) · [Vergaberecht-Werkstatt](../vergaberecht-werkstatt/testakten/README.md) · [Bauvergabe](../bauvergabe/bauvergabe-unterlagen/README.md#zugeordnete-testakten) |
+| Verkehrsrecht | [Verkehrsunfall und Verkehrsverfahren](../fachanwalt-verkehrsrecht/README.md#zugeordnete-testakten) |
+| Versicherungsrecht | [Deckung und Versicherungsleistungen](../fachanwalt-versicherungsrecht/README.md#zugeordnete-testakten) |
+| Verwaltungsrecht | [Behördenentscheidungen und Rechtsschutz](../fachanwalt-verwaltungsrecht/README.md#zugeordnete-testakten) |
+
+Weitere Spezialgebiete finden Sie über den [Plugin-Katalog](../README.md#was-ist-drin). Für die praktische Arbeit mit den Dateien gibt es den [Qualitätsstandard](./QUALITAETSSTANDARD.md).
+
+## 3. Sammelpakete verwenden
+
+Für mehrere Übungen können Sie ein Sammelpaket herunterladen. Es enthält den Bestand seines Veröffentlichungsdatums und gegebenenfalls weitere Akten-ZIPs, die separat entpackt werden müssen. Für eine bestimmte Akte verwenden Sie die Einzel-Downloads auf ihrer Fallseite; diese können einen anderen Veröffentlichungsstand haben.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-<p>
-  <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip"><strong>Alle Testakten als ZIP herunterladen</strong></a>
-  <br>
-  <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip"><strong>Alle Testakten als Einzel-PDF-ZIP herunterladen</strong></a>
-  <br>
-  <a href="https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip"><strong>Alles komplett als ZIP herunterladen</strong></a>
-</p>
-
-> **Grundregel Dateiformate:** Aktenstücke liegen als lebensechter Formatemix vor (DOCX mit Briefkopf, PDF, XLSX, EML, JPG, TXT). Originalformat-ZIPs enthalten kein Markdown; beide ZIP-Varianten sind grundsätzlich flach. Die Hildesheimer Lebensakte, das FinTech-Darlehensverfahren Bremen und die beiden Bauvergabeakten behalten ausdrücklich ihre Unterordner. In jedem ZIP kommt die verpflichtende `README.txt` mit dem zweisprachigen Hinweis hinzu. Details und Werkzeuge stehen im [Qualitätsstandard](./QUALITAETSSTANDARD.md).
+- [Sammelpaket mit Originalformaten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip)
+- [Sammelpaket mit Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip)
+- [Komplettpaket mit Plugins und Testakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip)
 
 ## Verfügbare Akten
+
+Stand v445.35.3: 525 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Die Liste ist alphabetisch nach Aktenordner sortiert. Klicken Sie auf den Aktennamen für Fallbeschreibung und Arbeitsauftrag oder wählen Sie direkt eine der drei Downloadfassungen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

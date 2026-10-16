@@ -69,9 +69,9 @@ Ein Lagerdiebstahlsvorwurf, eine Reisebuchung und nachgereichte Wohn- und Arbeit
 
 Berlin: an existing detention order, disputed evidence and subsequent housing and employment documents. Use the file to prepare the next application without assuming its outcome.
 
-Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
-
-This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Download |
 | --- | --- |
@@ -85,9 +85,9 @@ Gerichtlicher Besuchsvorbehalt, Anstaltsantwort zur Kleidung und ärztlicher Ter
 
 Cologne: judicial contact restrictions, a prison clothing decision and a medical appointment request. Identify the decision-maker and requested remedy for each issue.
 
-Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
-
-This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Download |
 | --- | --- |
@@ -101,9 +101,9 @@ Brandermittlung mit Gutachterauftrag, Gutachten, Anklage und Terminverfügung. V
 
 Dresden: a pending six-month review with expert evidence, scheduling correspondence and documented referral. Distinguish elapsed time from actual procedural progress.
 
-Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
-
-This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Download |
 | --- | --- |
@@ -117,9 +117,9 @@ Ein 15-Jähriger vor der Haftentscheidung: Festnahmebericht und Haftantrag treff
 
 Bremen: a 15-year-old awaiting a detention decision, with family and school records and a proposed supervised placement. Check the actual evidence and availability of the alternative.
 
-Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
-
-This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Format | Download |
 | --- | --- |

@@ -1,14 +1,39 @@
 # Strafvollzug in der JVA
 
-[Hauptübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Alle Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Skills dieses Plugins](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/skills-index/strafvollzug-jva.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) · [Testakten](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md) · [Plugin-Dateien](.)
-
 Das Plugin bearbeitet konkrete Anliegen im Strafvollzug aus der jeweils gewählten Perspektive: Gefangene, Angehörige mit eigener Berechtigung oder Vertretungsmacht, Rechtsanwälte, Justiziar einer Anstalt oder Gericht. Es führt von vorhandenen Unterlagen über Landesrecht, Beweise und Fristen zu einem ausformulierten Antrag, Bescheidentwurf, gerichtlichen Antrag oder Entscheidungsentwurf. Menschenwürde, individuelle Lebenslagen und belastbar begründete Sicherheitsbelange werden zusammen geprüft.
+
+**[Hier finden Sie die vier JVA-Testakten mit direkten Downloads.](#1-vier-jva-testakten)**
+
+[Hauptübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/README.md) · [Alle Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/SKILLS.md) · [Skills dieses Plugins](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/skills-index/strafvollzug-jva.md) · [Download-Index](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ASSET_INDEX.md) · [Testakten aller Themen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md) · [Plugin-Dateien](.)
 
 Gefangene bleiben Grundrechtsträger. Das historische „besondere Gewaltverhältnis“ ist keine heutige Grundlage für Grundrechtsbeschränkungen. Ein Gerichtsentwurf wird nicht als erlassene Entscheidung ausgegeben; eine Anstaltsstellungnahme bleibt Parteivortrag, solange das Gericht sie nicht geprüft hat.
 
 **Version 1.0.1 · fachlicher Prüfstand 16.10.2026 · zehn Fachskills und ein Hauptskill.**
 
-## 1. Installieren und sofort beginnen
+## 1. Vier JVA-Testakten
+
+Wählen Sie einen Fall nach Bundesland und Anliegen. Das **Gesamt-PDF** dient zum Lesen und Hochladen der vollständigen Akte. Das **Original-ZIP** enthält die bearbeitbaren Word- und Excel-Dateien sowie PDFs und E-Mails. Über den Namen der Akte gelangen Sie zur Fallbeschreibung und zusätzlich zum ZIP mit Einzel-PDFs.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Testakte und Fallbeschreibung | Übungsthema | Original-ZIP | Gesamt-PDF |
+| --- | --- | --- | --- |
+| [Berlin: Yusuf Bender](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-berlin-besuch-ernaehrung/README.md) | Kinderbesuch und passende Ernährung | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/testakte-jva-berlin-besuch-ernaehrung.zip) | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/jva-berlin-besuch-ernaehrung_gesamt.pdf) |
+| [Nordrhein-Westfalen: Mara Wendel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-nrw-unterbringung-gesundheit/README.md) | Rollator, Privatsphäre und nutzbarer Hofgang | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/testakte-jva-nrw-unterbringung-gesundheit.zip) | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/jva-nrw-unterbringung-gesundheit_gesamt.pdf) |
+| [Bayern: Korbinian Seidel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-bayern-bildung-computer/README.md) | Weiterbildung mit einem kontrollierbaren Offline-Computer | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/testakte-jva-bayern-bildung-computer.zip) | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/jva-bayern-bildung-computer_gesamt.pdf) |
+| [Niedersachsen: Samira Hartung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-niedersachsen-lockerungen-familie/README.md) | Ausbildung, Familie und abgestufte Lockerungen | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/testakte-jva-niedersachsen-lockerungen-familie.zip) | [Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.0/jva-niedersachsen-lockerungen-familie_gesamt.pdf) |
+
+**So beginnen Sie:** Laden Sie eine Akte und den Mini-Prompt oder die Werkstatt in Ihre Arbeitsumgebung. Geben Sie Ihre Rolle und das gewünschte Ergebnis an, etwa: „Ich vertrete Yusuf Bender. Prüfen Sie den Ablehnungsbescheid zum Kinderbesuch und überarbeiten Sie den gerichtlichen Antragsentwurf mit passenden Anlagen.“ Für eine Anstalts- oder Gerichtsperspektive benennen Sie stattdessen diese Rolle und das zu erstellende Dokument.
+
+Jede Akte enthält 16 einzeln bearbeitbare Originale: vier Word-Dokumente, sechs PDFs, fünf E-Mail-Dateien und eine Excel-Arbeitsmappe. Die vier Fälle ergeben 64 Arbeitsdateien. Enthalten sind persönliche Anliegen, Belege, nachvollziehbare Gegenpositionen der Anstalt und ein ausführlicher gerichtlicher Parteientwurf mit Anlagen. Die Arbeitsmappen erklären Chronologie, Belege und Datumsabstände. E-Mails stammen von den jeweils tatsächlich kommunizierenden Personen; ein allgemeiner freier E-Mail-Zugang für Gefangene wird nicht vorausgesetzt.
+
+Alle Personen, Einrichtungen und Fallumstände sind erfunden. Die Akten geben keine realen Vorwürfe gegen tatsächliche Justizvollzugsanstalten wieder. Die Übungsannahmen zur gerichtlichen Zuständigkeit ersetzen keine Prüfung der realen Anstalt und Abteilung.
+
+Fälle zu anderen Rechtsgebieten finden Sie in der [gesamten Testaktenübersicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/README.md).
+
+## 2. Installieren und sofort beginnen
 
 [Claude-Plugin herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva.zip) · [Portables Paket herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/strafvollzug-jva-v1.0.1/strafvollzug-jva-portable.zip)
 
@@ -16,7 +41,7 @@ Claude Code und kompatible Claude-Cowork-Umgebungen können das Pluginpaket mit 
 
 Ein geeigneter Einstieg lautet: „Ich vertrete die gefangene Person. Prüfen Sie diesen Ablehnungsbescheid und erstellen Sie den passenden Antrag mit Anlagen. Das ist Erwachsenenstrafhaft in Berlin.“ Vorhandene Angaben werden übernommen; nur entscheidende Lücken werden nachgefragt. Alternativ genügt zunächst die Bitte um eine verständliche Erklärung des Bescheids.
 
-## 2. Durchgehender Arbeitsablauf
+## 3. Durchgehender Arbeitsablauf
 
 1. Auftrag, Rolle, Vollzugsart, Bundesland und gewünschtes Produkt bestimmen.
 2. Entscheidung, schriftliche Bekanntgabe, tatsächliche Unterbringung und Anlagen lesen.
@@ -28,7 +53,7 @@ Ein geeigneter Einstieg lautet: „Ich vertrete die gefangene Person. Prüfen Si
 
 Interne Beschwerde, Aufsichtseingabe und gerichtlicher Antrag werden getrennt behandelt. Die Zweiwochenfrist des ersten Antrags, die besonderen Regeln bei Unterlassen und die Monatsfrist samt qualifizierter Form der Rechtsbeschwerde werden nicht verwechselt. Die tatsächliche Gerichtsübermittlung bleibt nachzuweisen. Das Plugin versendet keine Nachrichten und reicht keine Anträge von sich aus ein.
 
-## 3. Elf Skills
+## 4. Elf Skills
 
 | Skill | Arbeitsprodukt |
 |---|---|
@@ -44,7 +69,7 @@ Interne Beschwerde, Aufsichtseingabe und gerichtlicher Antrag werden getrennt be
 | [Gerichtlicher Rechtsschutz und Eilverfahren](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/gerichtlichen-rechtsschutz-fuehren/SKILL.md) | Hauptsache- und gegebenenfalls Eilantrag |
 | [Entlassung und Übergang](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafvollzug-jva/skills/entlassung-uebergang-planen/SKILL.md) | Übergangsplan mit tatsächlichen Zusagen |
 
-## 4. Werkstatt, Mini-Prompt und Hauptproblem
+## 5. Werkstatt, Mini-Prompt und Hauptproblem
 
 Die drei Prompts sind eigenständig nutzbar. Mini und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes. Markdown und Text sind inhalts- und byteidentisch; die PDFs sind Lesefassungen. Formatstandard für erzeugte Schriftsätze: Times New Roman 11 pt.
 
@@ -55,17 +80,6 @@ Die drei Prompts sind eigenständig nutzbar. Mini und Hauptproblem bleiben jewei
 Die Werkstatt verbindet die Rechtsprechung mit Tatsachenfragen, Belegprüfung, Gegenargumenten, milderen Mitteln und dem nächsten ausformulierten Arbeitsprodukt. Der Mini-Prompt trennt Auftrag, Landesrecht, Fristen, Belege, Anliegen, Dokument, Eilrechtsschutz, Quellen und Endfassung in kurze lesbare Schritte.
 
 Befehle: `/jva-fall`, `/jva-antrag`, `/jva-bescheid`, `/jva-eilrechtsschutz` und `/jva-pruefung`. Sie führen zum jeweils passenden Skill; sie ersetzen keine konkrete Rollenklärung.
-
-## 5. Vier lebensnahe Testakten
-
-Jede Akte enthält 16 einzeln bearbeitbare Originale: vier Word-Dokumente, sechs PDFs, fünf E-Mail-Dateien und eine Excel-Arbeitsmappe. Die vier Fälle ergeben 64 Arbeitsdateien. Enthalten sind persönliche Anliegen, Belege, nachvollziehbare Gegenpositionen der Anstalt und ein ausführlicher gerichtlicher Parteientwurf mit Anlagen. Die Arbeitsmappen erklären Chronologie, Belege und Datumsabstände. E-Mails stammen von den jeweils tatsächlich kommunizierenden Personen; ein allgemeiner freier E-Mail-Zugang für Gefangene wird nicht vorausgesetzt.
-
-Alle Personen, Einrichtungen und Fallumstände sind erfunden. Die Akten geben keine realen Vorwürfe gegen tatsächliche Justizvollzugsanstalten wieder. Die Übungsannahmen zur gerichtlichen Zuständigkeit ersetzen keine Prüfung der realen Anstalt und Abteilung.
-
-- [Yusuf Bender: Kinderbesuch und passende Ernährung in Berlin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-berlin-besuch-ernaehrung/README.md): Originaldateien, Einzel-PDFs und zusammenhängende PDF-Akte.
-- [Mara Wendel: Rollator, Privatsphäre und nutzbarer Hofgang in Nordrhein-Westfalen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-nrw-unterbringung-gesundheit/README.md): Originaldateien, Einzel-PDFs und zusammenhängende PDF-Akte.
-- [Korbinian Seidel: Weiterbildung mit einem kontrollierbaren Offline-Computer in Bayern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-bayern-bildung-computer/README.md): Originaldateien, Einzel-PDFs und zusammenhängende PDF-Akte.
-- [Samira Hartung: Ausbildung, Familie und abgestufte Lockerungen in Niedersachsen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/jva-niedersachsen-lockerungen-familie/README.md): Originaldateien, Einzel-PDFs und zusammenhängende PDF-Akte.
 
 ## 6. Rechtsquellen und Grenzen
 
