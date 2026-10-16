@@ -1,5 +1,7 @@
 # 1. DD – Due Diligence
 
+[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/due-diligence.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+
 DD prüft Unternehmen, Beteiligungen, Personal und Kreditportfolios aus Sicht des Käufers oder Investors und unterstützt ebenso die vorbereitende Verkäuferprüfung. Zehn Fachskills und ein steuernder Hauptskill führen von der belegten Schnellprüfung über Excel-Auswertung und Rückfragen bis zur Entscheidungsvorlage, Kaufpreisüberleitung und konkreten Vertragsregelung.
 
 Das Ziel lautet: Was wird tatsächlich übernommen, welche Belastungen sind belegt, welche Zahlen stimmen und was muss vor dem Erwerb noch geklärt oder abgesichert werden? Ein Datenraumbericht wird nicht mit einer geprüften Bilanz, einem vollständigen Rechtsgutachten zu jedem Nebengebiet oder einer automatischen Kaufentscheidung gleichgesetzt.

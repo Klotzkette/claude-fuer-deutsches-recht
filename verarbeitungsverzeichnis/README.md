@@ -1,5 +1,7 @@
 # 1. Verarbeitungsverzeichnis
 
+[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/verarbeitungsverzeichnis.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+
 Dieses Plugin hilft kleinen und mittleren Unternehmen, ihr Verzeichnis von Verarbeitungstätigkeiten anzulegen, zu prüfen und im Alltag weiterzuführen. Acht abgestimmte Skills verbinden Aufnahme, Rechtsgrundlagen, Löschung, Dienstleister, technische Maßnahmen, Risikoprüfung und Datenschutz-Folgenabschätzung mit einer tatsächlich bearbeitbaren Dateiablage.
 
 Sie können mit vorhandenen Verträgen, Prozessbeschreibungen und Tabellen beginnen oder einen neuen Bestand aufbauen. Eine neue E-Mail, ein Cloud-Dienst, eine geänderte Löschfrist oder ein weiterer Datenempfänger wird dem bestehenden Vorgang zugeordnet. Das Ergebnis sind ein aktualisiertes Register, nachvollziehbare Änderungen und konkrete offene Aufgaben.

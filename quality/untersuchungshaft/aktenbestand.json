@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "uhaft-haftverschonung-fliederborn-berlin",
+    "documents": 9,
+    "pages": 9,
+    "originals": {
+      "01_Haftbefehl.docx": "6849f858d2ba54a093e5e898ee1599f03a0f774ae7876b88b1dc112cd7eeb6a2",
+      "02_Vernehmung_Lagermeister.docx": "b5ba296c39ffe2d6bb4431439685ea22f81c008ccd574fb43ac16a9b76156650",
+      "03_Arbeitgeberzusage.docx": "1b0c67e68920434d571caff717fb32d7462ae45a5dbdcfe5270d4565edee9ed1",
+      "04_Wohnraumzusage.docx": "e531179a131abaf3b0605f851b0cc0ef0b07687abba166e45c99d8df70e44de4",
+      "05_Vermieterzustimmung.docx": "398544e81170123b235d5ba7e128569c671db4c3120b9ae7440a712b9edc568f",
+      "06_Verteidiger_an_Staatsanwaltschaft.eml": "38b4d3a023ea27ee4870d65f1aa839227a32728ccbf1a6fc1d8d9a0ae02c40d1",
+      "07_Staatsanwaltschaft_Zwischenstand.eml": "4040e0690310d83cd23003d05efbcf93cfe0caef328e14861989d851242a1786",
+      "08_Reisebuchung.csv": "809679915d2231d33b1fbaf543074e92c05954c101f23807dc59221429e92809",
+      "09_Telefonnotiz.txt": "c26df7260e3d03638d97ef236328c63390870c356ebe2cc268ebab7a8bd83ddb"
+    }
+  },
+  {
+    "slug": "uhaft-vollzug-falkenried-koeln",
+    "documents": 9,
+    "pages": 9,
+    "originals": {
+      "01_Haft_und_Kontaktbeschluss.docx": "7a579d1757bbc3390ba592af01370c09866939635bc4d48bfcb662e3e7492454",
+      "02_Besuchsantrag.docx": "c21288d06635461b54ca49bc4de1a9c99f4e752ed34640193fc99281fa8960ea",
+      "03_Besuchsantwort.docx": "a3a850e15a29db7ed1340d60421c39bcd7bf6f2489a3a2810c0de5ea401c41f4",
+      "04_Kleidung_Anstaltsantwort.docx": "13ce2d3d6890b08e6936286fdaa01cac5d687b48a69f944d369538f26559c9cc",
+      "05_Aerztlicher_Befund.docx": "e49b2f0c35d68a7be46ed0cf40593050851128d80c1c6af5408a44de1ef2c4f3",
+      "06_Vater_Besuchsbereitschaft.eml": "813ae95f5eca56a3d0c67097578f2a71aba662a42a4203e0e2f197b547b2c92d",
+      "07_Fachpraxis_Rueckmeldung.eml": "e1c41bfaae99329cbe7ee8005f6b610b63a42f962a02cc4c8da2e374bb61281a",
+      "08_Eingangsregister.csv": "4ea79a57432ba4c8bc79793925bdaac5410edfb6a100bbb0ecb258154f91cf17",
+      "09_Brief_der_Grossmutter.txt": "a2f36293d26b8406e6812e1192598cd9eadde8fb289262d73fa042898d79c5a3"
+    }
+  },
+  {
+    "slug": "uhaft-sechsmonate-kornfeld-dresden",
+    "documents": 9,
+    "pages": 9,
+    "originals": {
+      "01_Haftbefehl.docx": "bc4dd0aa2031c9e531aa0dd05e4c7378da8ebd367c9ac35388625f9161189ca8",
+      "02_Gutachterauftrag.docx": "11f71b112bde37b9f6ff0b3977168a553a207d40ee151678b3215d178d98eb7a",
+      "03_Gutachten_Brandspuren.docx": "05aea34966abf46f3d74f774ae3c1cbc3861dde2f737fff35d335b95999552c0",
+      "04_Anklageschrift.docx": "1f88ebe8b99fefc4f46f84abf6dd232aefc13767a165e896fe9dff123dcab27b",
+      "05_Terminverfuegung.docx": "3bd81284bf3106c252586803048dedda744c611f94165d623bc66c219eb8a0e5",
+      "06_Verteidigung_Termine.eml": "91c0cf31462ea95756cf6d891a42e85f55801c5c41d7d2b6b6a9c2d154d3e5a3",
+      "07_Vorlagebestaetigung.eml": "784f165893cb151ffc9be0cc32f219de8d0af373a7fa1d5882ce018a33dce457",
+      "08_Verfahrensjournal.csv": "3380a8c0847789ef916f25c7175365d193ff01b065c97f5d3c17ad6398b7e5ef",
+      "09_Bearbeitungsvermerk.txt": "68468b265a806d54d8bbbd404f93623fb0e2165a1ef328930209cf08b4a4c9ff"
+    }
+  },
+  {
+    "slug": "uhaft-jugend-wolkensteg-bremen",
+    "documents": 9,
+    "pages": 9,
+    "originals": {
+      "01_Festnahmebericht.docx": "a8bb4633f9ec1daaa06ea076defdf6735fbe792a4cbe55698cd94d975188705f",
+      "02_Haftantrag.docx": "7c08859e3895567e2046d57eb2a4f65c7b4d5c3a5f7d2da5ae3a2909e6f4f82e",
+      "03_Onkel_Erklaerung.docx": "e212e3a5ad64ef576b8e7057e87484281714243e1446352527d48d5b3863b9b6",
+      "04_Schulbescheinigung.docx": "fd7ce87ffd502244a649e69583fb2917f0f37b670f67286cefe8117bd5383e8a",
+      "05_Jugendhilfe_Stellungnahme.docx": "d3bbd13ec29c5ac52b6d8aaca519f08ddcd8c94b6a3806ba18af4e9176b32df1",
+      "06_Wohngruppe_Zusage.eml": "7ed1df6ecb2e0c5006ccb72617199e6a9115f17d69c7f0423ab1878e4f9e34b7",
+      "07_Verteidigung_Termin.eml": "c46229a4a4237c2342ec703972f6cd6586aa43bce2d916645abaca9f1746382c",
+      "08_Kontaktjournal.csv": "222dfba46010709ddabe914f83a9daaf226a2dfbe4ed24099bd26ef603d60234",
+      "09_Nachrichten_Mutter_Onkel.txt": "e006fbe5f4088ca3b71608287fb0d3a27e7ee546678c479f0c367ea6e44b1b64"
+    }
+  }
+]

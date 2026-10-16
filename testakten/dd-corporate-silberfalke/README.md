@@ -1,5 +1,7 @@
 # 1. Due Diligence: Unternehmenskauf Silberfalke
 
+[Alle Testakten](../README.md) · [Hauptübersicht](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 Die Käuferseite prüft die Übernahme der Sparte Precision Drive Systems der Solaris-Gruppe. Beteiligungsstruktur, Ausgliederung, Vertragsbindungen, finanzielle Daten und Kaufvertragsmechanik müssen zu einer nachvollziehbaren Erwerbsentscheidung zusammengeführt werden. Die Verkäuferseite kann denselben Bestand für die Offenlegung, Belegnachforderungen und Verhandlungspositionen verwenden.
 
 ## 1.1. Verwendung

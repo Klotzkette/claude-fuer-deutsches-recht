@@ -1,5 +1,7 @@
 # 1. Due Diligence: Arbeitsverträge der Innovation Systems GmbH
 
+[Alle Testakten](../README.md) · [Hauptübersicht](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 Die Käuferseite prüft einen noch nicht vollzogenen Asset Deal aus der Insolvenz der Berliner Innovation Systems GmbH. Die Akte enthält genau 50 Arbeitsverträge und zwei gesonderte Geschäftsführeranstellungen, ergänzt durch Nachträge, Personal- und Zahlungsunterlagen. Verkäuferseite und Insolvenzverwaltung können denselben Bestand für eine belastbare Offenlegung und die Beantwortung der Käuferfragen aufbereiten.
 
 ## 1.1. Verwendung

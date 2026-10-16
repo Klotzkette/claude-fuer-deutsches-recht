@@ -2,6 +2,12 @@
 
 Der Werkstatt-Prompt erhält vertiefte thematische Prüfabläufe und zusätzliche amtlich gelesene Rechtsprechungsanker mit konkreter Tragweite und Aussagegrenze. Der Mini-Prompt wird in kurze verständliche Arbeitsschritte gegliedert. Lesefassungen, Prüfnachweise und aktive Pluginverweise werden gemeinsam fortgeschrieben; elf Skills und vier Testakten bleiben erhalten.
 
+# untersuchungshaft-v1.0.0 – 2026-10-16
+
+Zehn Fachskills für Haftanordnung, Verteidigung, Haftverschonung, Haftprüfung, Beschwerde, Haftdauer, Vollzugsrechte und Jugendhaft. Gericht, Staatsanwaltschaft, Verteidigung und Betroffene erhalten unterschiedliche, ausformulierte Arbeitsprodukte. Werkstatt und Schnellstart bleiben eigenständige Downloads.
+
+Vier Akten aus Berlin, Köln, Dresden und Bremen enthalten 36 Originalunterlagen: Word-Schreiben, E-Mails mit tatsächlichen Anlagen, Tabellen und Notizen. Gesamt-PDFs und flache Einzel-PDF- sowie Originalformat-ZIPs sind aufeinander abgestimmt. Rechtsstand, Quellenstatus und Grenzen notwendiger Verteidigung sind ausdrücklich berücksichtigt. Bestehende Akten-Downloads bleiben auf ihren bestätigten Release-Adressen.
+
 # gvb-reinigungsvergabe-v1.0.0 – 2026-10-10
 
 Neues Plugin mit genau zehn Fachskills für die Berliner Reinigungsvergabe: fünf Schritte zur Unterlagenerstellung und fünf zur Verfahrensführung. Ausführlicher Werkstatt-Prompt und kompakter Schnellstart sind getrennt herunterladbar. Zehn individuelle Prüffälle sichern die fachlichen Übergaben, Rückfragen, Dokumentausgaben und Grenzen externer Freigaben.

@@ -1,5 +1,7 @@
 # Due Diligence einer Erfurter Bankfiliale
 
+[Alle Testakten](../README.md) · [Hauptübersicht](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
+
 Die Akte begleitet den beabsichtigten Erwerb von 1.000 Verbraucherdarlehensforderungen einer fiktiven englischen Bank. Sie eignet sich für Käuferprüfung, Verkäuferaufbereitung, Kaufpreisabgleich und die Bearbeitung des Forderungskaufvertrags. Ausgangspunkt ist ein Forderungskauf mit gesonderter Serviceüberleitung; Einlagen, vollständige Kundenverträge und Betriebsteile sind keine stillschweigend mitverkauften Gegenstände.
 
 ## 1 Benutzung

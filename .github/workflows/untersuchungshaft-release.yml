@@ -1,0 +1,65 @@
+name: Untersuchungshaft und vier Haftakten
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag untersuchungshaft-v1.0.0
+        required: true
+        default: untersuchungshaft-v1.0.0
+
+permissions:
+  contents: write
+
+concurrency:
+  group: untersuchungshaft-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TAG: ${{ inputs.tag }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Abhängigkeiten
+        run: python3 -m pip install -r requirements.txt
+      - name: Quellen und Pakete prüfen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('untersuchungshaft/.claude-plugin/plugin.json'))['version'])")
+          test "untersuchungshaft-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/test-untersuchungshaft.py
+          python3 scripts/build-untersuchungshaft-release.py --dist "$RUNNER_TEMP/uhaft-dist"
+          python3 scripts/test-untersuchungshaft.py --dist "$RUNNER_TEMP/uhaft-dist"
+      - name: Diagnose bei Fehler sichern
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: untersuchungshaft-diagnose
+          path: ${{ runner.temp }}/uhaft-dist
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert; kein Überschreiben."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert; keine Verschiebung."
+            exit 1
+          fi
+          gh release create "$TAG" --target "$(git rev-parse HEAD)" --draft --title "Untersuchungshaft 1.0.0" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" "$RUNNER_TEMP"/uhaft-dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/uhaft-dist"
+          gh release edit "$TAG" --draft=false --latest=false
