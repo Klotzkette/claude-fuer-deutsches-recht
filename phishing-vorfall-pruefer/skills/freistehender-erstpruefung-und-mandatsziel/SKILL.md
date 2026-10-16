@@ -50,7 +50,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Zahlungsmodalität:** push-TAN, smsTAN, photoTAN, App-TAN, mTAN, ChipTAN — Beweislast und SCA-Bewertung variieren.
 3. **Autorisierung:** Nicht autorisiert (Konto übernommen, kein Wissen Kunde) — § 675u BGB; vs. autorisiert unter Täuschung (Kunde gibt TAN frei) — § 675j BGB.
 4. **Frist Anzeige Bank:** § 676b Abs. 2 BGB — 13 Monate ab Belastung als Ausschlussfrist; sehr ernst nehmen.
-5. **Mitverschulden:** § 675v BGB — bei grober Fahrlässigkeit (Beweislast Bank!) volle Haftung; bei normaler Fahrlässigkeit Bank trägt; bei starker Kundenauthentifizierung nicht durchgesetzt: Bank trägt (§ 675v Abs. 4).
+5. **Spätere Verlusttragung:** Paragraf 675v BGB als möglichen eigenständigen Ersatzanspruch prüfen: Grundhaftung bis 50 Euro nach Absatz 1, Ausnahmen nach Absatz 2, voller Schaden unter den Voraussetzungen des Absatzes 3 sowie eigenständige Ausschlüsse nach Absätzen 4 und 5. Grobe Fahrlässigkeit muss die Bank beweisen und sperrt die unverzügliche Erstattung nicht (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).
 6. **Mandatsziel:** Rückerstattung von Bank? Schlichtung? Strafanzeige? Cyberversicherung?
 
 ## Trade-off

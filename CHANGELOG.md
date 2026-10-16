@@ -1,3 +1,9 @@
+# phishing-v445.35.4 – 2026-10-16
+
+EuGH C-70/25 wird anhand des amtlichen Volltexts in sieben fachlich passenden Plugins eingeordnet. Phishing-Skills, Werkstatt, Mini, Vorlagen und Offline-Hilfe trennen unverzügliche Erstattung und späteren Rückgriff. Elf Regressionen sichern die wesentlichen Entscheidungswege und Eingabegrenzen.
+
+Die deutsche Akte Rabenstein ergänzt den Bestand um 28 Originaldateien mit E-Mails, Anhängen, Word-Entwürfen, PDF-Belegen und Excel-Auswertung. Die bisherige Akte Mayer und ihre Downloads bleiben erhalten. Einzelpakete, Quellen- und Prüfnachweise werden als eigenständige Komponente veröffentlicht; das allgemeine Sammelrelease bleibt unverändert.
+
 # Qualitätsprüfung des Quellstands – 2026-10-16
 
 Die READMEs der 302 Plugins und die zugehörigen Prompt-Einstiege wurden fachgebietsweise auf Verständlichkeit, passende Arbeitsprodukte, Rückfragen und Fortsetzung geprüft. Unnötige Pflichtinterviews, unpassende Startanweisungen und widersprüchliche Angaben werden konkret korrigiert; die bewährten eigenständigen Arbeitsabläufe bleiben erhalten. Der Prüfbericht unter `quality/qualitaetsrunde-2026-10-16/` trennt individuelle Textprüfung, technische Bestandsprüfung und gezielte neue Quellenabgleiche.

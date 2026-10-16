@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "phishing-vorfall-pruefer",
-  "reviewed_on": "2026-10-01",
+  "reviewed_on": "2026-10-16",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
@@ -72,27 +72,73 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Im parallelen Wirtschaftsprüfstrang Kopf/Tatbestand Rn. 1–15 und Gründe Rn. 16–35 gelesen; Übernahme des dokumentierten Prüfbefunds. Fehlender Empfängername auf manuellem chipTAN-Generator schließt starke Authentifizierung hier nicht aus; IBAN/Betragsbindung und Onlinebanking-Anzeige berücksichtigen. Grenze: Rn27 und31 lassen weitergehende Grundsatzfragen zur dynamischen Verknüpfung bzw. genereller Namensanzeige offen; kein pauschaler Beweis grober Fahrlässigkeit."
+    },
+    {
+      "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852. Amtlicher deutscher Volltext über InfoCuria, Dokument 328145, Rn. 1–53 gelesen; Rn. 31–34, 38–42, 45–47 und 52 gesondert gegengelesen. Trägt: unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; eng begrenzte Ausnahme bei begründetem Verdacht eines vom Zahler begangenen Betrugs mit schriftlicher Behördenmitteilung; spätere endgültige Verlusttragung gesondert. Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "does_not_support": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "source_status": "amtlicher Urteilsvolltext; Pressemitteilung nicht als Urteilsbeleg verwendet"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675j.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Zustimmung zur konkreten Zahlung und deren vereinbarte Form; Anmeldung und Gerätebindung sind nicht automatisch Zahlungszustimmung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Unverzügliche Erstattung und Kontowiederherstellung spätestens bis Ende des folgenden Geschäftstags; Kenntnis oder Anzeige sowie begründeter Zahlerbetrugsverdacht mit schriftlicher Behördenmitteilung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Gegenanspruch, schadensursächliche qualifizierte Pflichtverletzung und Haftungsausschlüsse prüfen. Bei Absätzen 4 und 5 ist grobe Fahrlässigkeit kein Ersatz für die dortige Ausnahme betrügerischer Absicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Banknachweise für Authentifizierung, Aufzeichnung, Verbuchung und Störungsfreiheit; Nutzung allein beweist nicht notwendig Zustimmung oder grobe Fahrlässigkeit. Unterstützende Beweismittel sind erforderlich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__676b.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Unverzügliche Unterrichtung nach Feststellung, Ausschlussfrist und deren Informationsvoraussetzungen getrennt prüfen; keine allgemeine dreizehnmonatige Bedenkzeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675e.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Tatsächliche zulässige Vertragsabweichungen prüfen. Absatz 4 nennt Paragraf 675u nicht; ein Geschäftskonto beseitigt dessen Erstattungsrecht nicht pauschal."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 2026-10-16: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
     "changes": [
       "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
       "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
       "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
       "2026-09-23: Leere Eingabe, Dateien ohne Auftrag und klare Aufgabe ausdrücklich getrennt; Anzeigeart und weitere Gutschrift als konkrete Fortsetzungsfälle.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "2026-10-16: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "ff691cb2fcc1f7dc8468c40f04eafa33545b40e1134568221a0f1c7f714a8436",
+    "sha256": "658734dd11cdb8dc120769b5a48624b0b6413746642a2a34d63b857b6a34c2ad",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Fachliche Änderung zu C-70/25 und zugehörige Norm- und Übergangsstellen; vorbestehende Fachgebiete nur auf Widersprüche zur Ergänzung geprüft. Hash bezeichnet die gesamte aktuelle Datei, keinen Nachweis ihrer vollständigen Neuverifikation.",
+    "previous_reviews": [
+      {
+        "sha256": "ff691cb2fcc1f7dc8468c40f04eafa33545b40e1134568221a0f1c7f714a8436",
+        "reviewed_on": "2026-10-16",
+        "method": "desk_review",
+        "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+      }
+    ]
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 2026-10-16: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
     "changes": [
       "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
       "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
@@ -100,12 +146,21 @@
       "2026-09-23: Sitzungszuordnung, abgebrochene Versuche und nachträgliche Umsatzanzeigen von Freigabedialogen getrennt; Meldung und Instrumentverwendung zeitlich zugeordnet.",
       "2026-09-23: Vorläufige Gutschrift, belastungsbedingte Kontofolgen, zielgerichtete Ablehnungserwiderung und vollständige Fortsetzung in bankreklamation.md beziehungsweise Nutzerpfad ergänzt.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Zahlungsfreigabe, Erstattung und Bankmitverschulden früh verbunden; Login und Zahlungsbestätigung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "2026-10-16: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "948f969d9892e3caefffaf220ca4e8326d14a179969a51560e9600d35c61b210",
+    "sha256": "c8256a592aae933612e04a6aae7d45ddb1cb96ca5f752b9749e7f825e7909282",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Fachliche Änderung zu C-70/25 und zugehörige Norm- und Übergangsstellen; vorbestehende Fachgebiete nur auf Widersprüche zur Ergänzung geprüft. Hash bezeichnet die gesamte aktuelle Datei, keinen Nachweis ihrer vollständigen Neuverifikation.",
+    "previous_reviews": [
+      {
+        "sha256": "948f969d9892e3caefffaf220ca4e8326d14a179969a51560e9600d35c61b210",
+        "reviewed_on": "2026-10-16",
+        "method": "desk_review",
+        "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+      }
+    ]
   },
   "selection": {
     "positive": [
@@ -149,6 +204,236 @@
         }
       ],
       "target_skill": "phishing-tan"
+    },
+    {
+      "id": "tukowiecka-rabenstein-erstattung-vor-regress",
+      "request": "Erstellen Sie am 16. Oktober 2026 ergebnis.md als anwaltlichen Brief an die fiktive Saalebank AG für Kunigunde Rabenstein aus Halle. Nach einem Link eines angeblichen Kaufinteressenten gab sie auf einer nachgeahmten Bankseite Zugangsdaten und einen SMS-Code ein. Ein Dritter überwies am 12. Oktober 700 Euro. Kunigunde hat der Zahlung nicht zugestimmt; auch die Bank legt in ihrer Antwort einen nicht autorisierten Vorgang zugrunde. Den ursprünglichen SMS-Text kann sie nicht mehr vorlegen. Am 13. Oktober entdeckte sie die Zahlung; um 09:10 Uhr erhielt die Bank ihre Meldung nachweislich. Der 13. und 14. Oktober waren nach der vorliegenden Kontovereinbarung einschlägige Geschäftstage. Die Bank lehnte am 14. Oktober allein wegen grob fahrlässiger Preisgabe der Zugangsdaten ab und verwies auf eine noch laufende technische Untersuchung. Eine eigene Strafanzeige der Kundin liegt vor. Einen Betrugsverdacht gegen Kunigunde oder eine Behördenmitteilung der Bank gibt es nach dem bekannten Aktenstand nicht. Es gab keine Rückzahlung. Setzen Sie fehlende Anschriften als Platzhalter; verlangen Sie keine erneute vollständige Mandatsaufnahme und behaupten Sie keine eigene Einsicht in nicht angehängte Belege.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fordert 700 Euro und geschuldete Kontowiederherstellung anhand der unterstellten nicht autorisierten Zahlung, ohne den polnischen Ausgangsbetrag von 3000 PLN oder etwa 705 Euro in den deutschen Fall zu übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erklärt anhand §675u BGB und EuGH15.10.2026 C-70/25, dass der Vorwurf grober Fahrlässigkeit die unverzügliche Erstattung nicht verdrängt; ein möglicher späterer Regress bleibt gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bestimmt auf Grundlage der ausdrücklich mitgeteilten Geschäftstage den Ablauf des 14.Oktober als spätesten Erfüllungszeitpunkt; eine zusätzliche gewünschte Antwortfrist verschiebt diese Pflicht nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Unterscheidet den Drittbetrug und die Kundinnen-Strafanzeige von begründetem Zahlerbetrugsverdacht mit schriftlicher Behördenmitteilung; erfindet weder eine solche Mitteilung noch endgültige Haftungsfreiheit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert einen vollständigen Brief, lässt SMS-Wortlaut und unbekannte Anschriften offen und ergänzt weder automatische Zinsen noch unbelegte Rechtsanwaltskosten oder einen ungefragten Klageentwurf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "phishing-bgb-675u-haftung"
+    },
+    {
+      "id": "zahlerbetrugsverdacht-objektive-gruende-und-mitteilung",
+      "request": "Verfassen Sie ergebnis.md als internen Vermerk für die Bearbeiterin einer Zahlungsreklamation. Die Bank bezeichnet eine 700-Euro-Zahlung als nicht autorisiert, erhebt nun aber einen bestrittenen Verdacht, die Kontoinhaberin habe mit dem Empfänger zusammengewirkt. Dafür nennt sie eine angeblich gemeinsame Meldeanschrift, legt den zugrunde liegenden Beleg jedoch nicht vor. Als Behördenmitteilung übersendet sie lediglich die Strafanzeigenbestätigung, die die Kundin selbst zuvor gegen einen unbekannten Täter erhielt. Es gibt keinen Nachweis einer schriftlichen Mitteilung der Bank an eine zuständige Behörde. Die Bank verlangt weitere 30 Tage für ihre Ermittlungen. Bewerten Sie nur diese behauptete Ausnahme, benennen Sie die gezielt benötigten Nachweise und formulieren Sie eine kurze verwendbare Antwortpassage. Unterstellen Sie weder Kundenbetrug noch sichere Widerlegung des Vorwurfs.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft objektiv berechtigte Gründe eines vom Zahler begangenen Betrugs und schriftliche Mitteilung dieser Gründe an die zuständige Behörde getrennt; die Bankbehauptung gilt nicht als feststehende Tatsache.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die eigene Strafanzeigenbestätigung der Kundin nicht als ausreichenden Nachweis einer Behördenmitteilung der Bank und benennt Absender, Inhalt, Empfänger, Datum sowie Zuständigkeit als konkrete Prüfgegenstände.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Lehnt eine frei gewählte pauschale 30-Tage-Ermittlungsfrist als Ersatz für die gesetzliche Erstattungszeit ab; erklärt die Ausnahme auf der vorhandenen Grundlage als nicht hinreichend belegt, ohne einen tatsächlich unbekannten Verfahrensstand zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Fordert den Anschrifts-/Zusammenwirkungsbeleg gezielt an und lässt die rechtliche Berechtigung eines später vollständig belegten Verdachts offen; setzt weder bloße grobe Fahrlässigkeit noch Drittbetrug mit Kundenbetrug gleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert internen Vermerk und ausformulierte Antwortpassage, ohne Freigabe, Versand, Rückzahlung oder Behördenkontakt als erfolgt zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "phishing-bgb-675u-haftung"
+    },
+    {
+      "id": "bankaufrechnung-ist-kein-pauschaler-standardausweg",
+      "request": "Erstellen Sie ergebnis.md als anwaltlichen internen Vermerk und Antwortentwurf. Die Bank hat eine zugestandenermaßen nicht autorisierte Zahlung über 700 Euro noch nicht erstattet. Nach Zugang der Reklamation erklärt sie: Wir rechnen schon jetzt mit unserem Schadensersatzanspruch von 700 Euro wegen grober Fahrlässigkeit auf; daher zahlen wir nichts. Sie verweist nur auf die erfolgreiche SMS-Code-Nutzung und legt keine weiteren Belege vor. Kundenbetrug behauptet sie nicht. Ein Mitarbeiter möchte erwidern, der EuGH habe in C-70/25 jede prozessuale Aufrechnung ausnahmslos verboten. Prüfen und korrigieren Sie diese Formulierung; bewerten Sie den konkreten Bankvortrag anhand der gebotenen unverzüglichen Erstattung und eines eigenständig zu begründenden Gegenanspruchs. Es soll noch keine Klage erhoben werden.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Übernimmt das behauptete allgemeine Aufrechnungsverbot nicht als ausdrücklichen EuGH-Tenor und unterscheidet Urteilaussage von einer eigenen deutschen verfahrens- oder materiellrechtlichen Schlussfolgerung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt, dass eine bloß umbenannte Erstattungsverweigerung wegen behaupteter grober Fahrlässigkeit die praktische Wirksamkeit der gebotenen unverzüglichen Erstattung nicht ohne weitere Prüfung beseitigen darf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft den Gegenanspruch hinsichtlich konkreter Pflichtverletzung, Verschuldensgrad, Kausalität, Haftungsgrenzen und Banknachweisen; eine bloße erfolgreiche SMS-Code-Nutzung ersetzt unterstützende Beweise nicht automatisch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Führt Erstattungsbegehren, erklärte Aufrechnung und eventuellen späteren Rückgriff getrennt und begründet die fallbezogene Antwort, ohne aus der technischen Nutzung sichere Autorisierung oder sichere grobe Fahrlässigkeit abzuleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert internen Vermerk und vollständige Antwortpassage mit erkennbarer Prüfgrenze; keine ungefragte Klage, endgültige Erfolgszusage oder freie Aufrechnungsquote.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "phishing-bgb-675u-haftung"
+    },
+    {
+      "id": "endgueltige-gutschrift-und-spaeterer-regress",
+      "request": "Aktualisieren Sie ergebnis.md für das Mandat Kunigunde Rabenstein. Ausgangsbelastung war eine nicht autorisierte Zahlung von 700 Euro. Im bisherigen Bankbrief wurden nach einer bereits endgültig erfolgten Rückholung von 200 Euro noch 500 Euro verlangt. Nun liegt ein Buchungsnachweis vor: Die Bank hat zusätzlich genau diese 500 Euro endgültig gutgeschrieben. Gleichzeitig fordert sie mit separatem Schreiben 700 Euro Schadensersatz nach §675v BGB zurück und legt einen SMS-Text mit Betrag und Empfänger sowie einen Vertragstext als Belege vor. Die Kundin bestreitet, den Vorgang als Zahlungsfreigabe verstanden zu haben. Prüfen Sie nun den Rückgriff, passen Sie den bisherigen Rechenstand und die Antwort an und fordern Sie nur noch entscheidende fehlende Angaben an. Die mitgeteilte Gutschrift selbst wird nicht bestritten; weitere Schäden wurden nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet 700 Euro ursprüngliche Belastung minus 200 Euro endgültige Rückholung minus 500 Euro endgültige Erstattung gleich 0 Euro noch offene ursprüngliche Erstattung; verlangt diese700 Euro nicht erneut.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Führt die behauptete Gegenforderung von 700 Euro als gesonderte streitige Position, nicht als automatisch feststehende Schuld. Prüft insbesondere, wie die endgültige Rückholung von 200 Euro den tatsächlich ersatzfähigen Bankverlust mindert; übernimmt die ursprüngliche Belastung nicht ungeprüft als Regressbetrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Leitet aus der endgültigen Gutschrift keinen automatischen Erlass sämtlicher Rückgriffsansprüche ab; ebenso wenig ergibt sich aus dem Forderungsschreiben bereits eine Pflicht der Kundin zur Zahlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Würdigt den neu vorliegenden SMS-Text und die bestrittene Wahrnehmung konkret, einschließlich Pflichtinhalt, qualifiziertem Verschulden, Kausalität, Haftungsausschlüssen und Beweislast der Bank; belastende Belege werden nicht verschwiegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Ändert den vorhandenen Entwurf und die Rechenbegründung, statt die Mandatsaufnahme neu zu beginnen; liefert die bestellte Antwort ohne ungefragte Zahlung, Anerkenntnis oder Vergleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "phishing-bgb-675v-grobfahrlaessig"
+    },
+    {
+      "id": "selbst-autorisierter-kauf-ist-nicht-tukowiecka",
+      "request": "Schreiben Sie ergebnis.md als kurze begründete Beratung für Albrecht Hummel. Er hat selbst in seiner echten Banking-App eine Überweisung von 700 Euro an den dort zutreffend angezeigten Empfänger für eine Kamera ausgelöst und Betrag sowie Empfänger bewusst bestätigt. Niemand erlangte seine Zugangsdaten oder löste eine andere Zahlung aus. Die Kamera wurde nicht geliefert; der Verkäufer ist verschwunden. Albrecht hat gelesen, seit EuGH C-70/25 müsse jede Bank jeden Betrugsbetrag sofort zurückzahlen. Anhaltspunkte für eine konkrete eigene Pflichtverletzung seiner Bank sind bislang nicht bekannt. Prüfen Sie diese Erwartung anhand der beschriebenen Zustimmung und benennen Sie die sachgerechten nächsten Möglichkeiten, ohne ein Erstattungsrecht oder einen Regressgrund zu erfinden. Versand oder Einreichung sind nicht beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt die ausdrücklich mitgeteilte bewusste Zahlungsautorisierung und wendet §675u BGB nicht allein wegen des betrügerischen Grundgeschäfts an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Begrenzt C-70/25 auf die unverzügliche Erstattung nicht autorisierter Zahlungen und behauptet keine allgemeine Bankgarantie für ausbleibende Warenlieferungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Rückholversuch, Verkäufer-/Täteransprüche und mögliche konkrete Bankpflichtverletzung als getrennte Wege, ohne mangels Anhaltspunkten schon eine Bankpflichtverletzung oder erfolgreichen Rückruf festzustellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Verwendet §675v BGB nicht als allgemeines Mitverschuldensregime für die selbst autorisierte Zahlung und fordert keine pauschale Quote.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert eine verständliche Beratung zum vorhandenen Sachverhalt; verlangt weder PIN/TAN noch eine erneute Bankanmeldung und löst keine Außenhandlung aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "pruefen"
     }
   ],
   "prompt_editorial_review": {
@@ -183,13 +468,23 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
         "application": "Fehlender Empfängername auf manuellem chipTAN-Generator schließt starke Authentifizierung hier nicht aus; IBAN/Betragsbindung und Onlinebanking-Anzeige berücksichtigen.",
         "limit": "Rn27 und31 lassen weitergehende Grundsatzfragen zur dynamischen Verknüpfung bzw. genereller Namensanzeige offen; kein pauschaler Beweis grober Fahrlässigkeit."
+      },
+      {
+        "citation": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52",
+        "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+        "application": "Trägt: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen.",
+        "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+        "checked_on": "2026-10-16",
+        "source_status": "amtlicher deutscher Volltext gelesen; Einzelfallübertragung gesondert geprüft"
       }
     ],
     "remaining_limits": [
       "Kein allgemeiner Fahrlässigkeitsmaßstab für jede TAN-Variante; konkrete Protokolle, aktuelle Authentifizierungstechnik und Kundenverhalten bleiben beweisbedürftig.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
-      "2026-09-23: Frühere Quellenprüfung vom 2026-09-22 bleibt historischer Record. Beide BGH-Direktlinks erneut versucht, HTTP 403; XI ZR 107/24 über das amtliche Curia-PDF erneut gelesen, XI ZR 91/14 heute nicht erneut im Volltext verifiziert. BGB Paragrafen 675u, 675v, 675w und 676b erneut gelesen; keine neue Vollprüfung der Nebenmaterien."
-    ]
+      "2026-09-23: Frühere Quellenprüfung vom 2026-09-22 bleibt historischer Record. Beide BGH-Direktlinks erneut versucht, HTTP 403; XI ZR 107/24 über das amtliche Curia-PDF erneut gelesen, XI ZR 91/14 heute nicht erneut im Volltext verifiziert. BGB Paragrafen 675u, 675v, 675w und 676b erneut gelesen; keine neue Vollprüfung der Nebenmaterien.",
+      "2026-10-16: C-70/25 und die ausdrücklich neu datierten BGB-Einzelnormen gezielt geprüft. Kein erneuter Volltextcheck sämtlicher früherer Anker, kein Live-Modelltest."
+    ],
+    "c70_25_followup_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -202,5 +497,33 @@
     "continuation": "Neue endgültige Gutschrift 500 Euro: Forderung 4000 auf 3500 Euro, Rechenbegründung und Zahlungsbegehren im Nutzerpfad beziehungsweise bankreklamation.md ändern; neues Freigabeprotokoll verändert dort Tatsachenvortrag und Beweisbewertung.",
     "enrichment": "Sitzungs- und Vorgangszuordnung, widersprechende Erinnerungen, Fernzugriff, Anzeige versus Verwendung, vorläufige Gutschriften und Kontofolgen; Bankablehnung nach ihrem konkreten Grund beantworten und das bestellte Schreiben abschließen.",
     "limits": "desk review; no live client execution"
+  },
+  "c70_25_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_sources_and_text_desk_review",
+    "scope": "Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen.",
+    "source_status": "C-70/25 amtlich im Volltext gelesen; neue Normnachweise nur für tatsächlich geöffnete Einzelnormtexte. Historische Quellenbefunde und Einschränkungen bleiben erhalten.",
+    "application": "Trägt: unverzügliche Erstattung und spätere Verlusttragung getrennt; konkrete Anwendung: Den konkreten Bankbrief aus Zahlung, Zustimmung, Anzeige und Ablehnung fertigstellen; sofortige Erstattung, enge Zahlerbetrugsverdachtsausnahme und späteren Rückgriff getrennt führen. Deutsche Übungsakte Rabenstein und Gegenfälle ergänzen.",
+    "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+    "files": [
+      {
+        "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md",
+        "sha256": "658734dd11cdb8dc120769b5a48624b0b6413746642a2a34d63b857b6a34c2ad"
+      },
+      {
+        "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md",
+        "sha256": "c8256a592aae933612e04a6aae7d45ddb1cb96ca5f752b9749e7f825e7909282"
+      }
+    ],
+    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
+    "new_eval_cases": [
+      "tukowiecka-rabenstein-erstattung-vor-regress",
+      "zahlerbetrugsverdacht-objektive-gruende-und-mitteilung",
+      "bankaufrechnung-ist-kein-pauschaler-standardausweg",
+      "endgueltige-gutschrift-und-spaeterer-regress",
+      "selbst-autorisierter-kauf-ist-nicht-tukowiecka"
+    ],
+    "eval_status": "Fünf neue kontrastierende Ergebnisfälle redaktionell angelegt und strukturell validiert; keine Modellausführung und keine bestandene Modellprüfung behauptet.",
+    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
   }
 }

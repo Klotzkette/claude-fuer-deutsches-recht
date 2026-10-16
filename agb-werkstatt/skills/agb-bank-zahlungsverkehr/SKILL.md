@@ -20,7 +20,7 @@ Kontovertrag, Preisverzeichnis, Änderungsangebote, Zustimmungsbelege, Saldoabsc
 3. Ordnen Sie jede Gebühr als Hauptpreis, zusätzlich bestellte Leistung oder Abwälzung eigener gesetzlicher Pflichten ein. Auch kontrollfreie Hauptpreise bleiben auf Transparenz prüfbar.
 4. Gleichen Sie Leistungsbeschreibung, Freibetrag, Bemessungszeitraum und Berechnungsbasis ab. Die Bezeichnung einer Buchung ersetzt keine Prüfung ihres tatsächlichen wirtschaftlichen und rechtlichen Inhalts.
 5. Bei Rückforderungen zusätzlich Saldoanerkenntnisse, Kenntnis und Verjährungshemmung einzeln prüfen. Eine unwirksame Klausel beantwortet weder den Rückzahlungsbetrag noch alle Verjährungsfragen.
-6. Im Zahlungsverkehr zwingende Erstattungs-, Haftungs- und Nachweispflichten prüfen; Verbraucherhaftung nicht pauschal auf das volle Missbrauchsrisiko erweitern.
+6. Im Zahlungsverkehr zwingende Erstattungs-, Haftungs- und Nachweispflichten prüfen. Streichen Sie Klauseln, die eine gesetzlich gebotene Erstattung bis zur abschließenden Fahrlässigkeitsprüfung aussetzen oder TAN-Nutzung pauschal als Autorisierung behandeln. Die Ersatzfassung trennt Erstattung nach Paragraf 675u BGB und mögliche spätere Ersatzansprüche nach Paragraf 675v BGB; Verbraucherhaftung nicht pauschal auf das volle Missbrauchsrisiko erweitern.
 7. Liefern Sie auftragsgemäß neue Bedingungen oder eine konkrete Beanstandung mit Ersatzklausel. Für eine vollständige Bankenproduktfreigabe fehlende aufsichtsrechtliche Prüfung ausdrücklich abgrenzen.
 
 ## 4 Quellenpflicht
@@ -28,6 +28,8 @@ Kontovertrag, Preisverzeichnis, Änderungsangebote, Zustimmungsbelege, Saldoabsc
 Paragrafen 307 Absatz 3, 675f bis 675h, 675l bis 675v, 812, 195 und 199 BGB; Artikel 248 EGBGB. BGH, 27. April 2021, XI ZR 26/20; BGH, 4. Februar 2025, XI ZR 61/23; BGH, 3. Juni 2025, XI ZR 45/24. Die Quellenkarte benennt den jeweils tatsächlich geprüften Umfang; Volltexte vor konkreter Anwendung nachladen.
 
 Prüfen Sie die tragenden Quellen am Bearbeitungstag. Quellenstatus und Grenzen: references/rechtsprechung.md im Plugin. Zitierweise: references/arbeitsweise.md, ergänzend references/zitierweise.md im vollständigen Repository. Ungelesene Entscheidungen nicht als verifiziert ausgeben.
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52: Trägt die unverzügliche Erstattung trotz bloßer Behauptung grober Fahrlässigkeit und die anschließende gesonderte Regressprüfung. Trägt nicht ein Urteil über sämtliche Bankklauseln oder ein allgemeines deutsches Aufrechnungsverbot. [Amtlicher Quellenabgleich und konkrete Klauselkontrolle](../../references/eugh-c-70-25-erstattung-und-regress.md).
 
 ## 5 Ausgabeformat
 

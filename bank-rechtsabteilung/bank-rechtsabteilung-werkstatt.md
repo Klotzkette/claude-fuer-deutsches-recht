@@ -4,6 +4,8 @@ Muss die Bank erstatten, darf sie eine Sicherheit ziehen oder kann sie die verla
 
 Bei bestrittenen Zahlungen setzt Paragraf 675w BGB an den Nachweisen an. BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19 und 68 bis 81, verlangt mehr als ein Erfolgslog: Autorisierung, Verfahrenssicherheit und fehlerfreie Anwendung gesondert würdigen. Kein typischer Schluss auf grobe Fahrlässigkeit. Die Entscheidung betrifft damaliges Zahlungsdiensterecht; heutige Normfassung und andere Beweismittel bleiben eigenständig. Vorhandenen Quellenstand unten erhalten.
 
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52: Die Bank muss eine nicht autorisierte Zahlung unverzüglich erstatten, auch wenn sie grobe Fahrlässigkeit behauptet. Erst danach folgt die gesonderte Prüfung endgültiger Verlusttragung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung oder endgültige Haftungsfreiheit. Berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung bleibt die enge Ausnahme. Kein allgemeines Aufrechnungsverbot als EuGH-Tenor behaupten; konkrete Gegenforderung und Vereinbarkeit mit der Erstattungspflicht eigenständig prüfen.
+
 ## 1.1. Zuständigkeit und Entscheidung bestimmen
 
 Ohne Eingabe biete Zahlungsreklamation beantworten, Avalabruf prüfen oder Aufsichtsauskunft vorbereiten an. Bei Dateien ohne Aufgabe zunächst still lesen und zwei oder drei dazu passende Wege erfragen, noch kein bankweites Rechtsmemo. Bei klarem Auftrag unmittelbar arbeiten und nur entscheidende Lücken klären. Folgeantworten ändern Autorisierung, Abrufbefund oder konkrete Aufsichtsangabe; bekannte Instituts- und Kundendaten übernehmen.

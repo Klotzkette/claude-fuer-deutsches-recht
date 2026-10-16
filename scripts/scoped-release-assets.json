@@ -3,8 +3,8 @@
   "assets": {
     "testakte-vw-ea189-hoffmann-verjaehrung-restschaden.zip": "akten-v445.35.3",
     "testakte-vw-ea189-hoffmann-verjaehrung-restschaden-einzelpdfs.zip": "akten-v445.35.3",
-    "agb-werkstatt.zip": "agb-werkstatt-v1.0.0",
-    "agb-werkstatt-portable.zip": "agb-werkstatt-v1.0.0",
+    "agb-werkstatt.zip": "phishing-v445.35.4",
+    "agb-werkstatt-portable.zip": "phishing-v445.35.4",
     "testakte-agb-webshop-funkwerk-berlin.zip": "agb-werkstatt-v1.0.0",
     "testakte-agb-webshop-funkwerk-berlin-einzelpdfs.zip": "agb-werkstatt-v1.0.0",
     "testakte-agb-fahrradwerkstatt-kettenglueck-leipzig.zip": "agb-werkstatt-v1.0.0",
@@ -14,7 +14,7 @@
     "kanzlei-website-redaktion.zip": "ki-verordnung-v445.35.2",
     "kanzlei-website-redaktion-portable.zip": "kanzlei-website-redaktion-v1.0.0",
     "arbeitszeugnispruefer.zip": "ki-verordnung-v445.35.2",
-    "betreuungsrecht.zip": "betreuungsrecht-v445.33.3",
+    "betreuungsrecht.zip": "phishing-v445.35.4",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip": "betreuungsrecht-v445.33.3",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung-einzelpdfs.zip": "betreuungsrecht-v445.33.3",
     "rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip": "kompatibilitaet-v445.35.1",
@@ -313,6 +313,21 @@
     "testakte-vollstreckung-vw-richter-titel.zip": "akten-v445.35.3",
     "testakte-vollstreckung-vw-richter-titel-einzelpdfs.zip": "akten-v445.35.3",
     "testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip": "akten-v445.35.3",
-    "testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein-einzelpdfs.zip": "akten-v445.35.3"
+    "testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein-einzelpdfs.zip": "akten-v445.35.3",
+    "phishing-vorfall-pruefer.zip": "phishing-v445.35.4",
+    "phishing-vorfall-pruefer-portable.zip": "phishing-v445.35.4",
+    "bank-rechtsabteilung.zip": "phishing-v445.35.4",
+    "bank-rechtsabteilung-portable.zip": "phishing-v445.35.4",
+    "fachanwalt-bank-kapitalmarktrecht.zip": "phishing-v445.35.4",
+    "fachanwalt-bank-kapitalmarktrecht-portable.zip": "phishing-v445.35.4",
+    "bgb-bt-pruefer.zip": "phishing-v445.35.4",
+    "bgb-bt-pruefer-portable.zip": "phishing-v445.35.4",
+    "betreuungsrecht-portable.zip": "phishing-v445.35.4",
+    "commercial-courts-deutschland.zip": "phishing-v445.35.4",
+    "commercial-courts-deutschland-portable.zip": "phishing-v445.35.4",
+    "testakte-phishing-kleinanzeigen-rabenstein-halle.zip": "phishing-v445.35.4",
+    "testakte-phishing-kleinanzeigen-rabenstein-halle-einzelpdfs.zip": "phishing-v445.35.4",
+    "testakte-vertragserstellung-wartungsvertrag-druckerei-kassel.zip": "akten-v445.35.3",
+    "testakte-vertragserstellung-wartungsvertrag-druckerei-kassel-einzelpdfs.zip": "akten-v445.35.3"
   }
 }

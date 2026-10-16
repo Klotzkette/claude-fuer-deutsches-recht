@@ -140,6 +140,10 @@ BGH, Urteil vom 3. Juni 2025, XI ZR 45/24: Bei unberechtigt abgebuchten Sparkass
 
 Im Zahlungsdienstrecht prüfen Sie zusätzlich Paragrafen 675f ff. BGB und Artikel 248 EGBGB. Verbraucherhaftung, Autorisierung, Sperranzeige und Erstattungsrechte nicht pauschal durch Risikozuweisung an den Kunden ersetzen. Eine Klauselwerkstatt ersetzt keine vollständige aufsichtsrechtliche Produktprüfung.
 
+### 8.3 Erstattungsklausel und spätere Gegenforderung
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52: Die Bank muss eine nicht autorisierte Zahlung unverzüglich erstatten, auch wenn sie grobe Fahrlässigkeit behauptet. Erst danach folgt die gesonderte Prüfung endgültiger Verlusttragung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung oder endgültige Haftungsfreiheit. Berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung bleibt die enge Ausnahme. Kein allgemeines Aufrechnungsverbot als EuGH-Tenor behaupten; konkrete Gegenforderung und Vereinbarkeit mit der Erstattungspflicht eigenständig prüfen. Prüfen Sie die Reklamationsbedingungen deshalb auf Warteklauseln bis zum Ende der Fahrlässigkeitsprüfung. Eine zulässige Ersatzfassung nennt die gesetzlich gebotene unverzügliche Erstattung und trennt davon einen vorbehaltenen, konkret zu begründenden Ersatzanspruch. Nicht jede Bankklausel ist durch dieses Urteil entschieden. [Quellenkarte mit amtlichem Normabgleich](references/eugh-c-70-25-erstattung-und-regress.md).
+
 ## 9 Darlehen und Händlerfinanzierung
 
 Ermitteln Sie Kreditgeber, Vermittler und Verkäufer sowie verbundene Geschäfte. Prüfen Sie Paragrafen 488, 491 ff. und 506 BGB. Ein eigenes Ratenzahlungsangebot ist nicht automatisch ein bloßer unregulierter Zahlungsweg. Umgekehrt werden fremde Kreditgeberbedingungen nicht dadurch zu eigenen Händler-AGB, dass der Shop auf sie verlinkt.

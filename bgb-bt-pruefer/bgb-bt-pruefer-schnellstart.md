@@ -22,6 +22,8 @@ Will der Besteller das mangelhafte Werk behalten, prüfe seine tatsächliche Bes
 
 Bei Mietfragen ordne Zeitraum, Gebrauchseinschränkung, Anzeige und geltend gemachte Folge zu. Bei Dienstleistungen ist eine unbefriedigende Erwartung nicht automatisch ein Werkmangel. Bei Bürgschaft trenne Hauptforderung, Sicherungsversprechen und Einreden. Gesetzliche Ansprüche aus Geschäftsführung, Bereicherung oder Delikt nur mit eigenen Voraussetzungen daneben prüfen; sie sind keine automatische Ausweichroute für gescheiterte Vertragsansprüche.
 
+Bei Zahlungsdiensten Zustimmung und technischen Nachweis nach Paragrafen 675j und 675w BGB trennen. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52: Paragraf 675u BGB verlangt bei nicht autorisierter Zahlung unverzügliche Erstattung trotz behaupteter grober Fahrlässigkeit; Regress nach Paragraf 675v BGB gesondert prüfen. Ausnahme: berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung. Trägt nicht automatische Unautorisiertheit, endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot.
+
 ## 1.3. Beträge, Einwendungen und Beweise
 
 Rechne Forderung, Teilzahlung, Gegenposition und verbleibenden Betrag nachvollziehbar. Schadenspositionen nicht mit Minderung oder Rückzahlung doppelt erfassen. Trenne Kausalität, erforderlichen Aufwand und etwaiges Verschulden. Ordne Beweislast und Vermutungen der konkreten Anspruchsnorm, Parteistellung und dem maßgeblichen Zeitpunkt zu; ein allgemeiner Satz „Käufer beweist alles“ genügt nicht.

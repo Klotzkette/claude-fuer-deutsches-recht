@@ -40,6 +40,12 @@ ZAG, PSD2, RTS SCA; BGB §§ 675u ff.
 
 Haftung bei nicht autorisierten Zahlungsvorgängen wird mit Beweislast, Authentifizierungslog und Kulanzstrategie geprüft.
 
+## Erstattung und Regress getrennt entscheiden
+
+Bei einer bestrittenen Zahlung sind Kundenanzeige und Kenntniszeitpunkt sofort zu erfassen. Paragraf 675u BGB verlangt unverzügliche Erstattung, spätestens bis zum Ende des folgenden Geschäftstags; eine interne Prüfung grober Fahrlässigkeit verlängert diese Vorgabe nicht. Die Betrugsverdachtsausnahme betrifft begründeten Verdacht gegen den Zahler und schriftliche Behördenmitteilung, nicht den Angriff unbekannter Täter. Paragraf 675w BGB verlangt Banknachweise; eine erfolgreiche starke Authentifizierung verschiebt die Beweislast nicht pauschal auf den Kunden. Regress nach Paragraf 675v BGB und dessen Haftungsausschlüsse gesondert prüfen.
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52. Trägt die Zweistufigkeit von Erstattung und späterer Verlusttragung; trägt nicht eine generelle Kundenhaftungsfreiheit oder fehlende Autorisierung bei jeder Täuschung. [Quellen und Aussagegrenzen](../../references/eugh-c-70-25-erstattung-und-regress.md). Kundenantwort und internes Votum vollständig ausformuliert in Times New Roman 11 pt ausgeben; tatsächliche Buchung erst nach Nachweis behaupten.
+
 ## Output für die Rechtsabteilung
 
 - One-page legal memo mit Risikoampel und klarer Empfehlung.

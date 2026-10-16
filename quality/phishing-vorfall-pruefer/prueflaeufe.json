@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-16",
+  "component": "445.35.4",
+  "checks": [
+    {
+      "command": "scripts/validate-plugin-structure.mjs",
+      "exit_code": 0,
+      "seconds": 9.6,
+      "log_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714",
+      "result_tail": "validate-plugin-structure OK\n"
+    },
+    {
+      "command": "scripts/validate-marketplace-import.mjs",
+      "exit_code": 0,
+      "seconds": 3.5,
+      "log_sha256": "2aa65f967a8c6d4c5e41edd2a4013e74cac9b0d98d675daf357be99f7e56d559",
+      "result_tail": "Marketplace-Importprüfung: 302 Plugins, 23299 Skills, 302 README-Dateien\nOK\n"
+    },
+    {
+      "command": "scripts/validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "seconds": 1.5,
+      "log_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2",
+      "result_tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+    },
+    {
+      "command": "scripts/audit-skill-activation.py",
+      "exit_code": 0,
+      "seconds": 2.3,
+      "log_sha256": "5f1788911e0aa13d2a739978ac0bb4e7ac01d90d2540bb8780fa3cca583cfba9",
+      "result_tail": "Skill-Dateien: 23299\n\nBeispiele:\n\nOK: Skill-Beschreibungen haben ausreichende Auswahlsignale.\n"
+    },
+    {
+      "command": "scripts/validate-markdown-structure.py",
+      "exit_code": 0,
+      "seconds": 6.8,
+      "log_sha256": "7f0a4d782c168e29811591507026fa21ae233578b8fce9b9796e29af460af34e",
+      "result_tail": "validate-markdown-structure OK (30894 Dateien)\n"
+    },
+    {
+      "command": "scripts/validate-root-readme-overview.py",
+      "exit_code": 0,
+      "seconds": 1.9,
+      "log_sha256": "e585edcd50b0337163f545dac680f95460ba873c008c42d681efa20d31964a78",
+      "result_tail": "validate-root-readme-overview OK (302 Plugins, 23299 Skills, 300 Werkstatt-Prompts, 299 Schnellstart-Prompts, 528 zentrale / 539 Testakten gesamt, Stand v445.35.3)\n"
+    },
+    {
+      "command": "scripts/validate-testakten-readme-downloads.py",
+      "exit_code": 0,
+      "seconds": 34.8,
+      "log_sha256": "c984d6c65a8a0c58cc2b2f0d47c7f0fa8eff3f9f1b33957e77d051598f6dbeca",
+      "result_tail": "validate-testakten-readme-downloads OK (528 Akten, 4752 Treffer, 339 weitere Downloadgruppen, 27 HTML-Seiten)\n"
+    },
+    {
+      "command": "scripts/validate-readme-navigation.py",
+      "exit_code": 0,
+      "seconds": 149.3,
+      "log_sha256": "3339d502a5e6fc3c9d530e86140bd28119358ddda6b8a1ac607d65c04ba30b04",
+      "result_tail": "validate-readme-navigation OK (302 Plugins, 23299 Skills, 530 Aktenseiten, 43414 lokale Links, 2204 Anker, 112990 echte Markdown-Downloads)\n"
+    },
+    {
+      "command": "scripts/audit-prompt-profile-routing.py",
+      "exit_code": 0,
+      "seconds": 9.5,
+      "log_sha256": "fe4225c36900ebaba3bae2c58d70aefd7c13c729126b67115d388ac13f8d61a5",
+      "result_tail": "1, ehrenamtliche_richter=1, einigungsvertrag=1, energie=1, erbrecht=1, eu_prozess=1, eu_recht=1, fahrgast=1, famil=2, finanzgericht=1, fluggast=1, foerderantrag=1, forderung=3, forschungszulage=1, gebrauchsmuster=1, geldwaesche=3, gesellschaft=14, gewerblicher_rechtsschutz=3, goae=1, grundsteuerrecht=1, handelsrecht=2, haushalt=1, hinweisgeber=1, hoai=1, hr=1, immobilien=4, influencer=1, informationszugang=1, insolvenz=6, international=2, investigations=1, it=2, juristische-praesentationen=1, justiz_zivil=4, jveg=1, kanzleibetrieb=6, kapitalmarkt=1, kartell=1, kirchenrecht=1, kommunal=1, krankenhaus=1, liquiditaet=1, lizenz=1, lobbyregister=1, luftrecht=1, ma_finanzierung=7, marke=2, medizin=1, methodik=7, miet=4, migration=1, nachbar=1, nkr=1, normsetzung=1, notariat=1, owi_praxis=1, parteienrecht=1, patent=2, phishing=1, pralr=1, presse=2, produkt=3, rechtsgeschichte=1, regulierung=2, renten=1, reporting=1, roemisch=1, sanierung=4, schadensregulierung=2, selbststaendige=1, sozial=6, sozialstatus=1, sport=1, steuer=1, straf=7, strafjustiz=6, strassennutzung-genehmigungen=1, strassenrecht=1, stvo=1, technikregulierung=6, telekom=1, tierschutz=1, transport_handel=4, umweltplanung=2, umweltverband=1, urheber=2, us_copyright=1, us_insolvency=1, verbraucher=4, verein=1, verfass=7, vergabe=10, verkehr=1, verlag=1, versammlung=1, versicherung=3, vertragserstellung=1, vertragsgestaltung=7, verwaltung=5, verwaltungsgericht=1, vollstreckung=1, weg=1, wehr=1, weltraum=1, wirtschaftsanwalt=1, wirtschaftsverwaltung=1, zeugnis=3, zivilprozess=4, zugewinnausgleich=1, zwangsverwaltung=1)\n"
+    },
+    {
+      "command": "scripts/test-prompt-openings.py",
+      "exit_code": 0,
+      "seconds": 0.4,
+      "log_sha256": "ef2e95f822decc6c6a85d2066df58ed4740df4a1f53a5a77e4fa7a28024fea64",
+      "result_tail": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.331s\n\nOK\n"
+    },
+    {
+      "command": "scripts/test-prompt-routing-scope.py",
+      "exit_code": 0,
+      "seconds": 0.8,
+      "log_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee",
+      "result_tail": "test-prompt-routing-scope OK\n"
+    },
+    {
+      "command": "scripts/quality-lab.py audit --require-editorial --require-workflow",
+      "exit_code": 0,
+      "seconds": 0.8,
+      "log_sha256": "5de26931e04cad1ad63e604776049f4ce021ebe4ecc406f521e6f44420ba4807",
+      "result_tail": "302 Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n"
+    },
+    {
+      "command": "scripts/test-scoped-release-routing.py",
+      "exit_code": 0,
+      "seconds": 0.1,
+      "log_sha256": "588ca9b54347f483de815e6714c84bdaaa9b93c4094dd97192aa6dde4b344a9a",
+      "result_tail": "...........\n----------------------------------------------------------------------\nRan 11 tests in 0.020s\n\nOK\n"
+    },
+    {
+      "command": "scripts/test-phishing-release.py --dist <release-dir>",
+      "exit_code": 0,
+      "result": "39 Assets mit Quellen, Hashes, 28 Originalen und 33 Gesamtseiten abgeglichen; 11 Helferregressionen bestanden."
+    },
+    {
+      "command": "Workflow YAML und eingebettetes Python parsen",
+      "exit_code": 0,
+      "result": "Alle drei geänderten Workflows syntaktisch gültig."
+    }
+  ],
+  "limits": "Struktur- und Regressionstests sowie lokale Paketprüfung, kein neuer Modelllauf und keine umfassende Neuprüfung historischer Rechtsquellen."
+}

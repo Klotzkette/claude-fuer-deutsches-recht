@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "agb-werkstatt",
-  "reviewed_on": "2026-10-09",
+  "reviewed_on": "2026-10-16",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
@@ -12,6 +12,43 @@
       "url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1",
       "checked_on": "2026-10-09",
       "supports": "Amtlicher Entscheidungsnachweis und indexierter Entscheidungstext zur Bestellschaltfläche; kein vollständiger Rechtsstandsabgleich sämtlicher Klauseln."
+    },
+    {
+      "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852. Amtlicher deutscher Volltext über InfoCuria, Dokument 328145, Rn. 1–53 gelesen; Rn. 31–34, 38–42, 45–47 und 52 gesondert gegengelesen. Trägt: unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; eng begrenzte Ausnahme bei begründetem Verdacht eines vom Zahler begangenen Betrugs mit schriftlicher Behördenmitteilung; spätere endgültige Verlusttragung gesondert. Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "does_not_support": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "source_status": "amtlicher Urteilsvolltext; Pressemitteilung nicht als Urteilsbeleg verwendet"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675j.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Zustimmung zur konkreten Zahlung und deren vereinbarte Form; Anmeldung und Gerätebindung sind nicht automatisch Zahlungszustimmung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Unverzügliche Erstattung und Kontowiederherstellung spätestens bis Ende des folgenden Geschäftstags; Kenntnis oder Anzeige sowie begründeter Zahlerbetrugsverdacht mit schriftlicher Behördenmitteilung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Gegenanspruch, schadensursächliche qualifizierte Pflichtverletzung und Haftungsausschlüsse prüfen. Bei Absätzen 4 und 5 ist grobe Fahrlässigkeit kein Ersatz für die dortige Ausnahme betrügerischer Absicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Banknachweise für Authentifizierung, Aufzeichnung, Verbuchung und Störungsfreiheit; Nutzung allein beweist nicht notwendig Zustimmung oder grobe Fahrlässigkeit. Unterstützende Beweismittel sind erforderlich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__676b.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Unverzügliche Unterrichtung nach Feststellung, Ausschlussfrist und deren Informationsvoraussetzungen getrennt prüfen; keine allgemeine dreizehnmonatige Bedenkzeit."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675e.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Tatsächliche zulässige Vertragsabweichungen prüfen. Absatz 4 nennt Paragraf 675u nicht; ein Geschäftskonto beseitigt dessen Erstattungsrecht nicht pauschal."
     }
   ],
   "selection": {
@@ -124,24 +161,44 @@
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Verbraucher- und Händlergeschäft, konkrete Entwürfe, begrenzte Recherche und Fortsetzung werden eigenständig statt durch Standardfloskeln gesteuert. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "verdict": "revised",
+    "reason": "Verbraucher- und Händlergeschäft, konkrete Entwürfe, begrenzte Recherche und Fortsetzung werden eigenständig statt durch Standardfloskeln gesteuert. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
     "changes": [
-      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung."
+      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung.",
+      "2026-10-16: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "8257bd4012bc53806b67a5b0585d50524ed89b42c08edc21eb9df0ab18acc227",
+    "sha256": "41cbc3ec69a8bdd9c774300be8be43f95ceb4f2b6cf78503d620ae5a55631605",
     "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "previous_reviews": [
+      {
+        "sha256": "8257bd4012bc53806b67a5b0585d50524ed89b42c08edc21eb9df0ab18acc227",
+        "reviewed_on": "2026-10-16",
+        "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+      }
+    ],
+    "method": "desk_review",
+    "review_scope": "Fachliche Änderung zu C-70/25 und zugehörige Norm- und Übergangsstellen; vorbestehende Fachgebiete nur auf Widersprüche zur Ergänzung geprüft. Hash bezeichnet die gesamte aktuelle Datei, keinen Nachweis ihrer vollständigen Neuverifikation."
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Die vorhandenen zwölf Fachstationen verbinden Vertragsablauf, Klauselkontrolle und Einführung; Quellenhindernisse sperren nur abhängige Teile. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "verdict": "revised",
+    "reason": "Die vorhandenen zwölf Fachstationen verbinden Vertragsablauf, Klauselkontrolle und Einführung; Quellenhindernisse sperren nur abhängige Teile. Redaktionelle Anschlussprüfung 16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
     "changes": [
-      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung."
+      "16.10.2026: Geschäftsmodell und verwendbarer AGB-Entwurf vor abstrakter Methodik; Bestellweg als konkrete Verzweigung.",
+      "2026-10-16: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
     ],
-    "sha256": "034b82b56b9d719806ee26dd07d07782d3128f54643e24a0c35cfae84e8fcfd6",
+    "sha256": "d3a22442089b341c23d77dcab6f32bb0c667e4e564fe8f7d128e52186f9fa2a0",
     "reviewed_on": "2026-10-16",
-    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "previous_reviews": [
+      {
+        "sha256": "034b82b56b9d719806ee26dd07d07782d3128f54643e24a0c35cfae84e8fcfd6",
+        "reviewed_on": "2026-10-16",
+        "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+      }
+    ],
+    "method": "desk_review",
+    "review_scope": "Fachliche Änderung zu C-70/25 und zugehörige Norm- und Übergangsstellen; vorbestehende Fachgebiete nur auf Widersprüche zur Ergänzung geprüft. Hash bezeichnet die gesamte aktuelle Datei, keinen Nachweis ihrer vollständigen Neuverifikation."
   },
   "focus_review": {
     "method": "desk_review",
@@ -185,12 +242,22 @@
         "url": "https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?language=en&num=C-249%252F21&page=1",
         "application": "Zahlungspflicht anhand des Schaltflächentextes prüfen.",
         "limit": "Keine allgemeine Freigabe der übrigen Shopbedingungen; konkreter Abschlussweg bleibt zu prüfen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52",
+        "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+        "application": "Trägt: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten.",
+        "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+        "checked_on": "2026-10-16",
+        "source_status": "amtlicher deutscher Volltext gelesen; Einzelfallübertragung gesondert geprüft"
       }
     ],
     "remaining_limits": [
       "Quellenprüfung betrifft die hier dokumentierten Kriterien, nicht jede Entscheidung im Plugin.",
-      "Ergebnisqualität der drei Prüffälle muss in echten Modellläufen separat bewertet werden."
-    ]
+      "Ergebnisqualität der drei Prüffälle muss in echten Modellläufen separat bewertet werden.",
+      "2026-10-16: C-70/25 und die ausdrücklich neu datierten BGB-Einzelnormen gezielt geprüft. Kein erneuter Volltextcheck sämtlicher früherer Anker, kein Live-Modelltest."
+    ],
+    "c70_25_followup_on": "2026-10-16"
   },
   "prompt_opening_review_2026_10_16": {
     "batch": 1,
@@ -212,5 +279,33 @@
         "anchor_or_exception": "Paragrafen 305 bis 310 und 312j BGB; EuGH 07.04.2022 C-249/21 Fuhrmann-2: Beschriftung der Bestellschaltfläche, keine Freigabe aller Abschlusswege."
       }
     ]
+  },
+  "c70_25_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_sources_and_text_desk_review",
+    "scope": "Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten.",
+    "source_status": "C-70/25 amtlich im Volltext gelesen; neue Normnachweise nur für tatsächlich geöffnete Einzelnormtexte. Historische Quellenbefunde und Einschränkungen bleiben erhalten.",
+    "application": "Trägt: unverzügliche Erstattung und spätere Verlusttragung getrennt; konkrete Anwendung: Erstattungsklauseln und Reklamationsbedingungen auf unzulässige Wartebedingungen bis zur abgeschlossenen Fahrlässigkeitsprüfung kontrollieren; spätere Ersatzansprüche getrennt gestalten.",
+    "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+    "files": [
+      {
+        "path": "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "sha256": "41cbc3ec69a8bdd9c774300be8be43f95ceb4f2b6cf78503d620ae5a55631605"
+      },
+      {
+        "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "sha256": "d3a22442089b341c23d77dcab6f32bb0c667e4e564fe8f7d128e52186f9fa2a0"
+      },
+      {
+        "path": "agb-werkstatt/agb-werkstatt-hauptproblem.md",
+        "sha256": "086b03889752a7dffbe8b277b7c18fa39d9331d52c8a2a04fcdf4fad716d6db6"
+      },
+      {
+        "path": "agb-werkstatt/skills/agb-hauptproblem-loesen/SKILL.md",
+        "sha256": "501e370a8a8d16032e6309755a19032fa6268753ee02b948aa25cba3daa91271"
+      }
+    ],
+    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
+    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
   }
 }

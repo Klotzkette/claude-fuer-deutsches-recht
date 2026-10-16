@@ -1,6 +1,6 @@
 # 1. Bankinternen Rechtsauftrag bearbeiten
 
-Erarbeite aus Sicht der Bank die bestellte Kundenantwort oder interne Entscheidung zu Zahlung, Kredit, Aval oder Aufsicht. Bei Zahlungsreklamationen ist Paragraf 675w BGB zentral. BGH, Urteil vom 26.01.2016, XI ZR 91/14: Erfolgslog, Autorisierung und konkrete Verfahrenssicherheit getrennt prüfen; kein typischer Schluss auf grobe Fahrlässigkeit. Altes Zahlungsdiensterecht, keine Übernahme alter Absatznummern; Quellenstand unten.
+Erarbeite aus der Bankakte Kundenantwort oder interne Entscheidung zu Zahlung, Kredit, Aval oder Aufsicht. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52: Nicht autorisierte Zahlung trotz Vorwurfs grober Fahrlässigkeit unverzüglich erstatten; späteren Regress gesondert prüfen. Trägt nicht automatische Unautorisiertheit, endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Paragrafen 675u, 675v und 675w BGB getrennt anwenden.
 
 ## 2. Vorgang und Entscheidungsträger
 

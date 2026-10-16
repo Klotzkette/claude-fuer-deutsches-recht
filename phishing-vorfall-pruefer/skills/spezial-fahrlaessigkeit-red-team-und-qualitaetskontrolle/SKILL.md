@@ -36,7 +36,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Definition grobe Fahrlässigkeit
-Grob fahrlässig handelt, wer **die im Verkehr erforderliche Sorgfalt in besonders schwerem Maße verletzt**, also einfachste Überlegungen nicht angestellt und nicht beachtet hat, was im konkreten Fall jedem hätte einleuchten müssen (st. Rspr., u. a. BGH X ZR 110/96; § 277 BGB analog für Vertragspflichten).
+Prüfen Sie die behauptete besonders schwerwiegende Sorgfaltspflichtverletzung anhand der konkreten Pflichten, Warnungen, persönlichen Umstände und Handlungen. Eine nicht geöffnete Entscheidung zu einem anderen Vertragstyp oder eine pauschale Analogie zu Paragraf 277 BGB ersetzt diese Prüfung nicht. Für den späteren Ersatzanspruch nach Paragraf 675v BGB trägt die Bank den Nachweis grober Fahrlässigkeit; C-70/25 Rn. 40 bestätigt dies. Der Erstattungsvorrang bleibt davon getrennt (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).
 
 ## Red-Team-Test: Argumente der Bank gegen den Kunden
 - **"Phishing-Mail ist offensichtlich erkennbar"** — Gegen-Check: Wie professionell war Layout, Absender, Domain? Wurde Markenidentität täuschend ähnlich nachgebaut? Plausibler Anlass (z. B. angekündigte Sicherheitsumstellung)?
@@ -51,7 +51,7 @@ Grob fahrlässig handelt, wer **die im Verkehr erforderliche Sorgfalt in besonde
 ## Red-Team-Test: Kunden-Argumente gegen die Bank
 - **Pflichtverletzung "Starke Kundenauthentifizierung"** (§ 55 ZAG): bei rein TAN-basierter Abwehr ohne dynamische Verknüpfung zu Empfänger/Betrag.
 - **Fehlende Anomalie-Erkennung**: ungewöhnlicher Empfänger, ungewöhnliches Volumen, ungewöhnliche Tageszeit — kommerzielle Anti-Fraud-Systeme sind Standard; Untätigkeit ist auffällig.
-- **Verspätete Rückabwicklung**: § 675u BGB verlangt unverzügliche Erstattung; verzögerte Reaktion verletzt Verzugsrecht.
+- **Verspätete Erstattung:** Paragraf 675u BGB verlangt unverzügliche Erstattung unter seinen Voraussetzungen. Einen Verzug und daraus folgende Nebenansprüche anhand der zusätzlichen gesetzlichen Voraussetzungen und konkreten Zeitpunkte prüfen; nicht jede unklare Bankreaktion automatisch als bereits feststehenden Verzug behandeln.
 
 ## Trade-off
 Eine pauschale "Es war nicht meine Schuld"-Argumentation reicht nicht. Wirksam ist die Kombination aus dokumentierter Phishing-Reproduktion (Screenshots, Aufzeichnungen) + bankseitiger Pflichtverletzung (fehlende Anomalie-Erkennung, schwache Authentifizierung). Die zweite Schiene gewinnt Schlichtungsfälle oft auch dann, wenn die erste angreifbar bleibt.

@@ -35,16 +35,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## § 675v BGB im Überblick
-- **Abs. 1**: Haftung des Zahlers bei Verlust, Diebstahl oder sonstigem Abhandenkommen begrenzt auf **50 EUR**.
-- **Abs. 2**: Bei **grober Fahrlässigkeit** oder **Vorsatz** Vollhaftung des Zahlers, wenn die Pflicht aus § 675l BGB (Sicherheitsobliegenheiten) verletzt wurde.
-- **Abs. 3**: Befreiung des Zahlers, wenn der Zahlungsdienstleister starke Kundenauthentifizierung nach § 55 ZAG (PSD2-Umsetzung) nicht verlangt hat — wichtiger Hebel zugunsten Geschädigter.
-- **Abs. 4**: Haftungsbegrenzung 50 EUR entfällt nicht, wenn der Zahler weder vorsätzlich noch grob fahrlässig gehandelt hat.
+## Paragraf 675v BGB im Überblick
 
-## Schlüssel-Rechtsprechung zu grober Fahrlässigkeit
-- **BGH XI ZR 91/14** (Urteil vom 26.01.2016): Ein Anscheinsbeweis für Autorisierung setzt ein praktisch unüberwindbares, konkret ordnungsgemäß angewandtes und fehlerfrei funktionierendes Sicherungsverfahren voraus; aus einer protokollierten Nutzung folgt kein allgemeiner Anscheinsbeweis grober Fahrlässigkeit.
-- **BGH XI ZR 96/11** (Urteil vom 24.04.2012): Anscheinsbeweis grober Fahrlässigkeit durch erfolgreichen Einsatz des Sicherungsverfahrens widerlegbar bei plausibler Phishing-Erklärung.
-- Verifizierung aktueller Rechtsprechung über CURIA / openJur / Rechtsprechung-im-Internet.de unter den genannten Aktenzeichen.
+- Absatz 1 enthält eine Grundhaftung bis 50 Euro bei den dort bezeichneten nicht autorisierten Zahlungsvorgängen einschließlich sonstiger missbräuchlicher Verwendung des Zahlungsinstruments.
+- Absatz 2 regelt Ausnahmen hiervon, insbesondere fehlende Bemerkbarkeit vor der Zahlung und bestimmte Verursachungsbeiträge im Bereich des Zahlungsdienstleisters.
+- Absatz 3 kann bei betrügerischer Absicht oder kausaler vorsätzlicher oder grob fahrlässiger Pflichtverletzung den gesamten Schaden erfassen.
+- Absatz 4 enthält den eigenständigen Ausschluss bei nicht verlangter oder nicht akzeptierter starker Kundenauthentifizierung. Seine Durchbrechung setzt betrügerische Absicht voraus; grobe Fahrlässigkeit genügt nicht.
+- Absatz 5 regelt Nutzung nach Anzeige und fehlende Anzeigemöglichkeit mit unterschiedlichen Satzvoraussetzungen; den genauen Anwendungsumfang am Wortlaut prüfen.
+
+## Verifizierter Entscheidungsanker
+
+EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42 und 45–47. Trägt: unverzügliche Erstattung trotz bloßen Grobfahrlässigkeitsvorwurfs, Bankbeweislast und gesonderte spätere Verlusttragung. Trägt nicht: endgültige Kundenhaftungsfreiheit, automatische Nichtautorisierung jeder Täuschungszahlung oder ein ausdrücklich entschiedener allgemeiner Aufrechnungsausschluss. [Gelesener Volltext, Normenpfad und Grenzen](../../references/eugh-c-70-25-tukowiecka.md).
+
+Weitere BGH- oder OLG-Entscheidungen nur nach Öffnung des Volltextes und Prüfung des konkreten Sicherungsverfahrens, des Entscheidungszeitraums und der tragenden Randnummer verwenden. Ein Urteil zu historischem Zahlungsdiensterecht nicht ohne Fassungsabgleich auf den heutigen Erstattungsmechanismus übertragen.
 
 ## Live-Quellen
 - **Rechtsprechung-im-Internet.de** (Bundesministerium der Justiz): kostenfrei, Entscheidungen mit Aktenzeichen.
@@ -53,16 +56,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Bundesbank**-Schlichtungsstelle Zahlungsverkehr.
 
 ## Methodik für Phishing-Vorfälle
-1. Klassische Phishing-E-Mail / SMS / Anruf — niedriges grobes Fahrlässigkeitsrisiko bei unauffälliger Aufmachung; je perfekter die Täuschung, desto eher Bankhaftung.
-2. Telefon-/Call-ID-Spoofing — Kammergerichte erkennen oft, dass die Verschleierung gegen Bankenhaftung wirkt; aktuelle OLG-Linien (z. B. OLG Frankfurt, OLG Köln) regelmäßig live recherchieren.
-3. Konkrete Pflichtenverletzung des Kunden (Weitergabe nach mehrfacher Warnung in App) — Indiz für grobe Fahrlässigkeit.
 
-## Trade-off
-Banken berufen sich oft formelhaft auf grobe Fahrlässigkeit; die Beweislast trägt nach § 675w BGB **die Bank**. Akute Live-Recherche zu aktuellen OLG-Urteilen lohnt sich, da die Linien sich seit PSD2-Umsetzung verschieben — bislang zugunsten der Bankkunden, wenn das pushTAN-Verfahren manipulationsanfällig erscheint.
+1. Zustimmung zur konkreten Zahlung anhand eigener Erklärung, sichtbarer Anzeige und technischer Abläufe prüfen. Eine täuschend echte Nachricht allein beweist weder grobe Fahrlässigkeit noch ihr Fehlen.
+2. Das Erstattungsverlangen anhand von Zahlung und Anzeige ausarbeiten; vollständige Logdaten und die abschließende Verschuldensprüfung nicht allgemein vorschalten.
+3. Für den späteren Ersatzanspruch konkrete Pflicht, Verletzung, Verschulden, Kausalität, Bankbeweise und Ausschlüsse subsumieren. Erkannte Warnungen und entlastende Täuschungsumstände gleichermaßen berücksichtigen.
+4. Gegenposition und Aussagegrenze mitführen. Keine unbelegten Trends über eine angeblich allgemein kunden- oder bankenfreundlicher werdende Rechtsprechung ausgeben.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Prüfmatrix:** Streitpunkt; Norm/Quelle; Tatsache und Beleg; Bewertung und nächste Handlung.
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 

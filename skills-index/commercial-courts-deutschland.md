@@ -1,6 +1,6 @@
 # commercial-courts-deutschland
 
-**59 Skills** · Stand `v445.35.3`
+**59 Skills** · Stand `v445.35.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../commercial-courts-deutschland/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`commercial-courts-deutschland-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`commercial-courts-deutschland-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=commercial-courts-deutschland/commercial-courts-deutschland-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [commercial-courts-deutschland.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/commercial-courts-deutschland.zip) |
+| **Plugin (installierbar)** | ZIP | [commercial-courts-deutschland.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/phishing-v445.35.4/commercial-courts-deutschland.zip) |
 
 ## So benutzt man einen Skill
 

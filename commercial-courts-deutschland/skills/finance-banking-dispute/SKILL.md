@@ -53,7 +53,13 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 | MiCAR (Krypto) | EU-VO 2023/1114, geltend seit 30.12.2024 |
 | MaRisk | BaFin-Rundschreiben; relevant für Klagen wegen Aufsichtsverstößen |
 | Bankgeheimnis | Vertragliche Schweigepflicht; § 383 ZPO Zeugnisverweigerung |
-| § 675u BGB (Phishing) | Haftung Bank bei nicht autorisierter Zahlung; Grenzen § 675v BGB (grobe Fahrlässigkeit Kunde) |
+| § 675u BGB (Phishing) | Zuerst unverzügliche Erstattung nach § 675u BGB; mögliche spätere Verlusttragung nach § 675v BGB getrennt prüfen. Grobe Fahrlässigkeit allein erlaubt kein Zurückhalten der sofortigen Erstattung. |
+
+### Erstattungsstreit von der späteren Verlusttragung trennen
+
+EuGH, Urteil vom 15.10.2026, C-70/25 (Tukowiecka), ECLI:EU:C:2026:852, Rn. 31–34, 38–42, 46 und 52 ([amtlicher Volltext](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE)): **Trägt:** Bei einem nicht autorisierten Zahlungsvorgang steht die unverzügliche Erstattung am Anfang; die Bank darf den Kunden nicht allein wegen behaupteter grober Fahrlässigkeit zunächst auf eine Klage verweisen. Begründeten Betrugsverdacht gegen den Zahler und die erforderliche schriftliche Behördenmitteilung gesondert prüfen. **Trägt nicht:** endgültige Haftungsfreiheit, die Nichtautorisierung einer vom Kunden selbst veranlassten Zahlung, ein allgemeines Aufrechnungsverbot oder die Zuständigkeit eines Commercial Court.
+
+Im Arbeitsprodukt Autorisierung, Erstattungsfälligkeit, konkrete Ausnahme und späteren Gegenanspruch in getrennten Absätzen mit Belegen darstellen. Bei Unternehmenskonten die vertraglichen Abweichungen nach § 675e Abs. 4 BGB konkret prüfen; die dortige Liste gestattet keinen pauschalen Ausschluss des § 675u BGB. Forum und Verfahrenswahl bleiben eine eigene Prüfung.
 
 ### Beweissicherung
 

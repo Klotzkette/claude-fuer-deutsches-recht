@@ -21,7 +21,7 @@
       "name": "agb-werkstatt",
       "source": "./agb-werkstatt",
       "description": "AGB fuer Shop, Werkstatt, Handel, Banken und Darlehen entwerfen und pruefen. Zehn Fachskills und ein Hauptskill verbinden aktuelle Quellen, Interessenlage, vollstaendige Klauseln und konkrete Einfuehrung.",
-      "version": "1.0.0",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -161,7 +161,7 @@
       "name": "bank-rechtsabteilung",
       "source": "./bank-rechtsabteilung",
       "description": "Rechtsabteilung einer mittelgroßen deutschen Bank: Aufsicht, Kredit, Avale, Bürgschaft, Garantien, Trade Finance, ZAG/PSD2, PSD3/PSR-Vorschau, eWpG, MiCAR, Tokenisierung, BaFin, Vorstand, HV und Kanzleisteuerung.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -461,7 +461,7 @@
       "name": "betreuungsrecht",
       "source": "./betreuungsrecht",
       "description": "Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.",
-      "version": "445.33.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -491,7 +491,7 @@
       "name": "bgb-bt-pruefer",
       "source": "./bgb-bt-pruefer",
       "description": "Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -541,7 +541,7 @@
       "name": "commercial-courts-deutschland",
       "source": "./commercial-courts-deutschland",
       "description": "Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -801,7 +801,7 @@
       "name": "fachanwalt-bank-kapitalmarktrecht",
       "source": "./fachanwalt-bank-kapitalmarktrecht",
       "description": "Plugin Fachanwalt für Bank- und Kapitalmarktrecht. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR Verbraucherkredit Bürgschaft Aval Bankgarantie Vermögensanlage Beratungshaftung. Schnittstellen Plugin gesellschaftsrecht regulatorisches-recht.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -2051,7 +2051,7 @@
       "name": "phishing-vorfall-pruefer",
       "source": "./phishing-vorfall-pruefer",
       "description": "Freistehender Phishing-Vorfall-Prüfer für Online-Banking: BGB § 675u, § 675v, § 675w, pushTAN, Call-ID-Spoofing, grobe Fahrlässigkeit, Beweislast, Bankpflichten, Schlichtung und Klage.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

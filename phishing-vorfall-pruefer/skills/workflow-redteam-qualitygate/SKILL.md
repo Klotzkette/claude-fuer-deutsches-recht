@@ -38,7 +38,7 @@ Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **phishing-vorfall-
 2. **Beweislast:** Bank trägt Beweislast für Autorisierung und ordnungsgemäße Aufzeichnung nach § 675w BGB — wurde das im Schreiben adressiert?
 3. **Gegenanspruch:** Wurde BGB Paragraf 675v sauber abgegrenzt? Aus der technisch beanstandungsfrei aufgezeichneten Nutzung folgt nach BGH XI ZR 91/14 kein Erfahrungssatz grober Fahrlässigkeit; die konkrete Pflichtverletzung und ihr Verschuldensgrad bleiben gesondert festzustellen.
 4. **Frist § 676b Abs. 2 BGB:** 13-Monats-Frist gegenüber Bank, sonst Ausschluss — gewahrt?
-5. **Starke Kundenauthentifizierung:** § 1 Abs. 24 ZAG geprüft? PSD2 Art. 97; bei Verstoß § 675v Abs. 4 BGB: Kunde haftet **nicht**.
+5. **Starke Kundenauthentifizierung:** Liegen die konkreten Voraussetzungen von Paragraf 675v Absatz 4 BGB vor? Seine gesetzliche Durchbrechung bei betrügerischer Absicht beachten; grobe Fahrlässigkeit ist keine zusätzliche Ausnahme. Eine offene Regressfrage blockiert die unverzügliche Erstattung nicht (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).
 6. **Strafanzeige:** §§ 263a, 269, 202c StGB richtig benannt, ggf. § 202a (Ausspähen Daten), § 269 (Fälschung beweiserheblicher Daten).
 7. **Halluzinations-Check:** Keine erfundenen BGH-Az.; verbreitete Az. sorgfältig prüfen (z. B. BGH XI ZR 91/14 - Phishing).
 

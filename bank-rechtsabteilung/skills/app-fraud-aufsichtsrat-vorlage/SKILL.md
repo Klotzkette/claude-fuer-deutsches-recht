@@ -88,11 +88,15 @@ Baue das Ergebnis mit diesen Elementen:
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
 ## APP-Fraud-Spezifika
-- Autorisierte vs. nicht autorisierte Zahlung: § 675u BGB (nicht autorisiert, Bank haftet) vs. § 675v BGB (Mitverschulden bei autorisierter Zahlung). Bei APP-Fraud regelmäßig "autorisiert" — Erstattung nur nach AGB oder ex gratia.
+- Autorisierung zur konkreten Zahlung nach Paragraf 675j BGB feststellen, nicht aus der Bezeichnung APP-Fraud ableiten. Paragraf 675v BGB betrifft den Gegenanspruch bei nicht autorisierten Zahlungen; er ist kein Mitverschuldensregime für autorisierte Zahlungen. Bei wirksamer Zustimmung den gesonderten Haftungsgrund prüfen, statt pauschal nur Kulanz zuzulassen. Bei fehlender Zustimmung Erstattung nach Paragraf 675u BGB von späterer Verlusttragung trennen.
 - Warnpflichten: Risikohinweise bei verdächtigem Empfänger/Betrag/Verhalten; nach PSD3/PSR-Entwurf ggf. erweiterte Refund-Pflichten — als Roadmap-Risiko markieren.
 - SCA-Befreiung: keine Erleichterung, wenn Kunde aktiv getäuscht wurde; SCA-Logs trotzdem zu Beweiszwecken vorhalten (Art. 97 PSD2 iVm RTS 2018/389).
 - Recall/SEPA Recall: über RTS SEPA Credit Transfer Recall Request — sofortige Anfrage Empfängerbank, Frist regelmäßig 10 Bankarbeitstage; Mitwirkungsklausel in AGB nutzen.
 - Praktiker-Tipp: APP-Fraud-Playbook mit Eingangsmeldung (Hotline, App-Reporting), Polizeianzeige, Recall innerhalb 24 h, parallel BaFin-Meldung bei Massenfall (MaRisk AT 7.2, BAIT, ggf. § 24 KWG); Schadensquote und Refund-Politik dokumentieren — wird bei BaFin-Prüfungen abgefragt.
+
+## Entscheidungsgrundlage für die Gremienvorlage
+
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52. Trägt: Bei nicht autorisierter Zahlung rechtfertigt grobe Fahrlässigkeit allein kein Aufschieben der Erstattung. Trägt nicht: die automatische Einordnung einer vom Kunden selbst angewiesenen Überweisung als nicht autorisiert. Die Vorlage weist Erstattungsverpflichtung, tatsächlich erfolgte Gutschrift und beweisabhängigen Regress getrennt aus; kein „Kulanzbudget“ anstelle eines gesetzlichen Anspruchs. Die [Quellenkarte](../../references/eugh-c-70-25-erstattung-und-regress.md) erläutert die Betrugsverdachtsausnahme und deutschen Nachweise. Vollständig ausformulierte Vorlage in Times New Roman 11 pt, dezimal gegliedert; Quellen- und Exportnotizen getrennt.
 
 ## Qualitätsgate
 

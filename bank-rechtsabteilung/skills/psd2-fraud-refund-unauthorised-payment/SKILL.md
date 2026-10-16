@@ -1,98 +1,36 @@
 ---
 name: psd2-fraud-refund-unauthorised-payment
-description: "Für Unautorisierte Zahlung und Fraud: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Bearbeitet Reklamationen nicht autorisierter Zahlungen aus Sicht der Bank. Trennt unverzügliche Erstattung, Autorisierungsnachweis und späteren Regress; erstellt Kundenantwort und interne Entscheidung mit Belegen und Zuständigkeiten."
 ---
 
-# Unautorisierte Zahlung und Fraud
+# 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Bearbeiten Sie eine bestrittene Kontobelastung bis zur bestellten Kundenantwort und internen Entscheidung. Die Bank muss erkennen, welche Erstattung jetzt geschuldet sein kann und welche Gegenforderung erst gesondert zu begründen ist. Interne Risikofreigaben, technische Ermittlungen und Kulanz sind keine Ersatzmaßstäbe für gesetzliche Pflichten.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+# 2. Eingaben
 
-## Fachkern: Unautorisierte Zahlung und Fraud
-- **Normen-/Quellenanker:** KWG, ZAG, WpHG, WpIG, MaRisk/BAIT-DORA-Schnittstellen, BGB/AGB, HGB, GwG, BaFin-Praxis, Sanierung/InsO/StaRUG.
-- **Entscheidende Weiche:** Bankgeschäft, Erlaubnis, Vorstandsvorlage, Risikoappetit, Kundenschutz, Sicherheiten, Aufsichtskommunikation und externe Kanzleisteuerung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Lesen Sie Kontovertrag, Kundenstatus, Belastungen, Reklamationseingang, Bankantwort, Sperranzeige und vorhandene Logs. Je Zahlung Betrag, Empfänger, angezeigten Freigabetext, handelnde Person, Zeitpunkt und Rückflüsse erfassen. Fragen Sie nur entscheidende Lücken nach; verlangen Sie keine PIN, TAN oder erneute Bankanmeldung.
 
-## Schnellmodus
+# 3. Ablauf und Checkliste
 
-1. **Eilpunkt erkennen:** Fristen, Anzeigewege, Launch-Termine, Register-/Portal-Einreichung, Aufsichtskontakt, Kundenkommunikation und irreversible Vollzugsschritte zuerst markieren.
-2. **Regime sauber trennen:** Geltendes Recht, Verwaltungspraxis, EU-Entwurf/Vorschau und reine Produktidee nicht vermischen. Bei PSD3/PSR oder Roadmap-Themen ausdrücklich als Monitoring oder Gap-Vorschau kennzeichnen.
-3. **Tatbestand vor Meinung:** Erst Geschäftsmodell, Zahlungsfluss, Tokenrecht, Organrolle oder Registerfunktion sauber beschreiben, dann rechtlich einordnen.
-4. **Quellenhygiene:** Gesetze, BaFin, Bundesbank, EBA, EZB und EUR-Lex bevorzugen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier oder amtlicher Quelle.
-5. **Bankrealität:** Nicht nur sagen, ob etwas erlaubt ist. Immer mitliefern: wer entscheidet, welche Unterlagen fehlen, welcher Fachbereich Owner ist und wie die Bank das dokumentiert.
+1. Trennen Sie Anmeldung, Geräteaktivierung und Zustimmung zur einzelnen Zahlung nach Paragraf 675j BGB. Eine vom Kunden bewusst selbst veranlasste Zahlung kann trotz Täuschung autorisiert sein; weder Betrugsanzeige noch erfolgreiche TAN-Prüfung beantworten die Zustimmung allein.
+2. Erfassen Sie den Zeitpunkt, zu dem die Bank von der nicht autorisierten Zahlung erfahren hat. Nach Paragraf 675u BGB Erstattung und Kontowiederherstellung unverzüglich, spätestens bis zum Ende des folgenden Geschäftstags bearbeiten. Der Vorwurf grober Fahrlässigkeit verschiebt diese Pflicht nicht. Unverzügliche Kundenanzeige und Ausschlussfrist nach Paragraf 676b BGB getrennt prüfen.
+3. Beruft sich ein Fachbereich auf die Betrugsverdachtsausnahme, verlangen Sie konkrete Gründe für einen Betrug des Zahlers sowie den Nachweis schriftlicher Mitteilung an die zuständige Behörde. Ein Strafverfahren gegen unbekannte Phishing-Täter genügt nicht. Bestätigt sich der Verdacht gegen den Zahler nicht, Verpflichtung unverzüglich prüfen und erfüllen.
+4. Werten Sie nach Paragraf 675w BGB Authentifizierung, Aufzeichnung, Verbuchung, Störungen und unterstützende Beweismittel aus. Fehlende Unterlagen konkret anfordern, aber keine allgemeine Ermittlungsfrist statt gesetzlicher Erstattungszeit einführen. Eine automatische Ablehnung „TAN benutzt“ verwerfen.
+5. Prüfen Sie den möglichen Regress nach Paragraf 675v BGB gesondert anhand Pflicht, Handlung, Vorwerfbarkeit, Kausalität und Betrag. Haftungsausschlüsse, insbesondere fehlende starke Kundenauthentifizierung und Schäden nach Sperranzeige, vor dem Haftungsbetrag prüfen. Eine tatsächliche Erstattung erlässt nicht von sich aus einen späteren begründeten Gegenanspruch. Umgekehrt ist der bloße Hinweis auf eine mögliche Gegenforderung keine ausreichende Begründung für das Zurückhalten der Erstattung.
+6. Erstellen Sie ein internes Votum mit verantwortlicher Person, Betrag, Zeitpunkt, Nachweisen und konkreter Maßnahme. Führen Sie Rückholung, endgültige Gutschrift, vorläufige Buchung und Gegenforderung getrennt; nichts doppelt anrechnen. Zahlungsanweisungen, Meldungen und Kundenversand nur nach Freigabe.
+7. Nach einer Bankantwort oder neuem Log die betroffene Tatsachenfrage neu bewerten, Berechnung und Kundenbrief anpassen und bis zum bestellten Ergebnis fortsetzen. Nur tatsächlich bestätigte Buchungen als ausgeführt bezeichnen. Keine erneute allgemeine Aufnahme des bekannten Falls.
 
-## Intake
+# 4. Quellenpflicht
 
-Frage nur nach, wenn ohne Antwort ein falscher nächster Schritt droht. Andernfalls mit Annahmen arbeiten und sie sichtbar markieren.
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Randnummern 31 bis 42, 45 bis 47 und 52, amtlicher Volltext am 16. Oktober 2026 gelesen. Trägt: unverzügliche Erstattung trotz bloßen Vorwurfs grober Fahrlässigkeit und gesonderte spätere Verlustzuordnung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung, endgültige Haftungsfreiheit oder ein allgemeines deutsches Aufrechnungsverbot.
 
-- **Kerninformationen:** Zahlungen, Authentifizierung, Kundenvortrag, Warnhinweise, Logs, Gerät, Bankkommunikation, Anzeige.
-- **Institut und Rolle:** Bank, Zahlungsinstitut, E-Geld-Institut, Wertpapierinstitut, CRR-Kreditinstitut, FinTech-Tochter, Vermittler, Agent, Registerführer, CASP, Emittent oder Dienstleister.
-- **Produkt oder Vorgang:** Zahlungsdienst, E-Geld, Kredit, Wertpapier, Token, Register, Organwechsel, Auslagerung, Betrugsfall, Trade Finance oder Kooperation.
-- **Aufsicht und Einreichweg:** BaFin, Bundesbank, EZB/SSM, EBA, FIU, Register, MVP, IMAS, Bundesanzeiger, Handelsregister oder interner Ausschuss.
-- **Dokumente:** Produktbeschreibung, Flow-of-Funds, Vertragsentwurf, API-Doku, Token Terms, Organ-CV, Eignungsmatrix, Registerauszug, Kundenkommunikation, Logs oder Vorstandsvorlage.
+Die [Quellenkarte](../../references/eugh-c-70-25-erstattung-und-regress.md) dokumentiert den amtlichen Normabgleich zu Paragrafen 675j, 675u, 675v, 675w, 675e und 676b BGB sowie die Aussagegrenzen. Im konkreten Fall aktuellen Rechtsstand und Kontovertrag prüfen; keine Literaturfundstellen aus Erinnerung einsetzen.
 
-## Prüfaufbau
+# 5. Ausgabeformat
 
-### 1. Kurzbild
+Liefern Sie die bestellte Kundenantwort vollständig ausformuliert; daneben nur den erforderlichen internen Entscheidungsvermerk mit Betrag, Erfüllungszeitpunkt, Verantwortlichem und offener Regressfrage. Kein bloßes Aufgabenraster als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung; bei Chat-Ausgabe gesonderten Exporthinweis nennen. Technische Prüfgrenzen und Quellenprotokoll gehören nicht in den versandfertigen Brief.
 
-| Punkt | Klärung |
-| --- | --- |
-| Ergebnisbedarf | Vermerk, Freigabe, BaFin-Anfrage, Vertrag, Vorstandsvorlage oder Prozessstrategie |
-| Rechtsregime | KWG, ZAG, WpHG, WpIG, eWpG, MiCAR, DORA, GwG, BGB, HGB, AktG, SEPA-/EU-Regime oder Entwurf |
-| Risiko | Aufsicht, Bußgeld, Zivilhaftung, Organhaftung, Kundenstreit, AML, Datenschutz, IT oder Reputation |
-| Frist | Anzeige, Launch, Antwort, Rückgabe, Register, Gremium oder Verjährung |
-| Entscheidung | Go, Go mit Auflagen, Stop, BaFin-Vorabklärung oder externe Spezialprüfung |
+# 6. Beispiel
 
-### 2. Subsumtion und Geschäftsmodell
-
-Arbeite in dieser Reihenfolge:
-
-1. Lebenssachverhalt und Rollen in einfachen Sätzen festhalten.
-2. Geld-, Daten-, Wertpapier- oder Tokenfluss als Tabelle beschreiben.
-3. Tatbestandsmerkmale einzeln prüfen.
-4. Ausnahmen, Privilegierungen, Bestandsschutz, Übergangsregeln oder Entwurfsstand gesondert behandeln.
-5. Gegenargumente und Red-Team-Sicht der Aufsicht formulieren.
-6. Praktische Auflagen für Launch, Fortführung, Korrektur oder Ablehnung schreiben.
-
-### 3. Beleg- und Unterlagenliste
-
-| Frage | Beleg | Fehlt | Owner | Wirkung |
-| --- | --- | --- | --- | --- |
-| Wer erbringt welche Leistung? | Vertrag, Produktbild, Prozess | ... | Legal/Produkt | Regimewahl |
-| Fließen Kundengelder oder Kryptowerte? | Flow-of-Funds, Wallet-/Kontoauszug | ... | Operations/Risk | Erlaubnis/Haftung |
-| Gibt es Aufsichtskontakt? | Schreiben, Ticket, Portalnachweis | ... | Legal/Compliance | Frist/Strategie |
-| Sind Kunden betroffen? | AGB, FAQ, Beschwerde, Marketing | ... | Vertrieb/Legal | Transparenz/Haftung |
-
-### 4. Ergebnis
-
-Liefer Anspruchsprüfung, Beweislastmatrix, Kundenantwort, Prozessrisiko und Vergleichskorridor.
-
-Baue das Ergebnis mit diesen Elementen:
-
-- **Entscheidungssatz:** Ein Satz, der intern zitiert werden kann.
-- **Risikoampel:** Rot/Gelb/Grün mit kurzer Begründung.
-- **Auflagen:** Welche Bedingungen müssen vor Go-Live oder vor Antwort erfüllt sein?
-- **Offene Punkte:** konkrete Rückfragen statt allgemeiner Rechercheaufträge.
-- **Anschluss-Skills:** passende Skills aus `bank-rechtsabteilung` nennen, insbesondere `bafin-kommunikation-und-anhoerung`, `bankaufsichtsrecht-kwg-marisk-triage`, `dora-ict-vertraege-vorfall`, `gwg-aml-kyc-verdachtsmeldung`, `vorstandsvorlage-gutachten` oder `produktfreigabe-new-product-process`.
-
-## Spezialhinweise
-
-- **PSD3/PSR:** Als EU-Gesetzgebungsvorschau behandeln, bis finaler Text und nationale Umsetzung/Anpassung greifbar sind. Keine Scheingeltung behaupten.
-- **eWpG/MiCAR:** Immer zuerst trennen, ob der Token ein Finanzinstrument, elektronisches Wertpapier, Kryptowert, E-Geld-Token, vermögenswertreferenzierter Token oder etwas anderes ist.
-- **ZAG:** Zahlungsfluss und Besitz an Kundengeldern sind zentral. Grafische Flow-of-Funds-Logik in Worte übersetzen.
-- **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
-- **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Steht klar da, was geltendes Recht ist und was Entwurf/Monitoring ist?
-- Sind BaFin-/EBA-/EUR-Lex-Quellen als Live-Check markiert, wenn sie tragen?
-- Gibt es eine konkrete Unterlagenliste?
-- Ist die Bankentscheidung dokumentationsfest?
-- Sind keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate enthalten?
+Eine Kundin wollte auf einer Verkaufsplattform nur einen Kaufpreis erhalten; über eine nachgeahmte Bankseite wurden Zugangsdaten abgegriffen und 700 EUR überwiesen. Die Bank erhält am Folgetag die Anzeige. Klären Sie die Zustimmung zur Zahlung und den Eingang. Ein Ablehnungsentwurf wegen grober Fahrlässigkeit wird in eine zutreffende Erstattungsentscheidung mit getrennter Prüfung möglicher Ersatzansprüche überführt. Ob ein solcher Anspruch tatsächlich besteht, bleibt beweisabhängig.

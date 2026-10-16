@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-16",
+  "scope": "Unabhängige Sichtprüfung aller zehn Seiten der beiden finalen Prompt-Lesefassungen; keine inhaltliche Neubewertung.",
+  "method": "Poppler pdftoppm, PNG mit 110 dpi; jede Seite einzeln visuell gelesen; ergänzend Zeichenpositionen und extrahierte Zeichen geprüft.",
+  "documents": [
+    {
+      "file": "phishing-vorfall-pruefer-werkstatt.pdf",
+      "sha256": "c0f26b87d87b1c0c2c77ae2d0ad98056427ec16459c4cb4136f70a07aa38f1de",
+      "bytes": 106779,
+      "pages": 7,
+      "fonts": [
+        "AAAAAA+TimesNewRomanPS-BoldMT",
+        "AAAAAA+TimesNewRomanPSMT",
+        "Courier"
+      ],
+      "font_standard": "Times New Roman, Fließtext 11 pt; separate Monospace-Schrift nur für Dateinamen",
+      "out_of_page_characters": [],
+      "replacement_characters": [],
+      "visual_pages": [
+        {
+          "page": 1,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 2,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 3,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 4,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 5,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 6,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 7,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        }
+      ],
+      "result": "bestanden"
+    },
+    {
+      "file": "phishing-vorfall-pruefer-schnellstart.pdf",
+      "sha256": "62b56f095f11b52dda0c3d9c900577cf8dc5856d8e04098a27f5a5b6a83e0a87",
+      "bytes": 90637,
+      "pages": 3,
+      "fonts": [
+        "AAAAAA+TimesNewRomanPS-BoldMT",
+        "AAAAAA+TimesNewRomanPSMT"
+      ],
+      "font_standard": "Times New Roman, Fließtext 11 pt; separate Monospace-Schrift nur für Dateinamen",
+      "out_of_page_characters": [],
+      "replacement_characters": [],
+      "visual_pages": [
+        {
+          "page": 1,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 2,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        },
+        {
+          "page": 3,
+          "visually_reviewed": true,
+          "readable": true,
+          "missing_glyphs": false,
+          "overlap_or_clipping": false,
+          "tables_or_urls_clipped": false
+        }
+      ],
+      "result": "bestanden"
+    }
+  ],
+  "result": "bestanden",
+  "findings": []
+}

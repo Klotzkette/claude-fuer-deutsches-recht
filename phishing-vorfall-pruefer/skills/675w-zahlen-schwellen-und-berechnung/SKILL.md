@@ -33,13 +33,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Zahlen, Schwellen und Berechnung Phishing-Vorfall
-- **§ 675u BGB:** Erstattungsanspruch — unverzüglich, spätestens am nächsten Geschäftstag nach Anzeige.
-- **§ 675v Abs. 3 BGB:** bei grober Fahrlässigkeit Kunde haftet voll (vorher Begrenzung auf 50 EUR nach altem Recht abgeschafft seit 2018).
-- **§ 675v Abs. 4 BGB:** Haftung Kunde **0 EUR**, wenn starke Kundenauthentifizierung nach § 1 Abs. 24 ZAG nicht durchgesetzt wurde (Ausnahme: arglistig oder grob fahrlässig).
+- **Paragraf 675u BGB:** unverzügliche Erstattung, spätestens bis zum Ende des Geschäftstags nach Kenntnis oder Anzeige bei der Bank. Zugang und Bankgeschäftstage belegen. Ein Vorwurf grober Fahrlässigkeit schiebt diesen Schritt nicht auf; späteren Ersatz getrennt berechnen (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–34, 38–42; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).
+- **Paragraf 675v Absätze 1 bis 3 BGB:** Absatz 1 enthält unter seinen Voraussetzungen weiterhin eine Grundhaftung bis 50 Euro; Absatz 2 regelt Ausnahmen. Absatz 3 kann bei betrügerischer Absicht oder kausaler vorsätzlicher oder grob fahrlässiger Pflichtverletzung den gesamten Schaden erfassen. Die Haftungsstufe wird begründet, nicht automatisch aus einer Codeeingabe abgeleitet.
+- **Paragraf 675v Absätze 4 und 5 BGB:** Nicht verlangte oder nicht akzeptierte starke Kundenauthentifizierung sowie Nutzung nach Anzeige und fehlende Anzeigemöglichkeit nach dem jeweiligen Normwortlaut prüfen. Die gesetzlichen Durchbrechungen betreffen betrügerische Absicht, nicht schon grobe Fahrlässigkeit. Den danach begründeten Ersatzbetrag separat ausweisen.
 - **§ 675w BGB Beweislast:** **Bank** muss Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung beweisen.
-- **§ 676b Abs. 2 BGB:** Anzeigefrist **13 Monate** nach Belastung (Ausschlussfrist).
-- **Schlichtungswert Verbraucherschlichtungsstelle Bank**: bis 10.000 EUR (Bankenschlichter), höher zivilrechtlich.
+- **Paragraf 676b BGB:** unverzügliche Anzeige nach Feststellung und gesonderte 13-Monats-Ausschlussfrist prüfen. Der Beginn hängt von der gesetzlich verlangten Unterrichtung ab; Sonderregeln für weitere Ansprüche und Zahlungsauslösedienste beachten.
+- **Schlichtung:** Zuständigkeit, Betragsgrenzen und Bindungswirkung anhand der tatsächlich einschlägigen aktuellen Verfahrensordnung ermitteln; keine einheitliche Grenze für alle Bankgruppen annehmen.
 - **Verjährung Schadensersatz**: Regelfrist 3 Jahre § 195 BGB.
 
 ## Praxis-Tipp
-Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" zu bezichtigen. Die Beweislast für **starke Kundenauthentifizierung** (§ 1 Abs. 24 ZAG: Wissen + Besitz + Inhärenz) trägt die Bank — wenn diese den Authentifizierungsnachweis nicht klar führen kann, gewinnt der Kunde § 675u BGB.
+Erstattungsbetrag, tatsächliche Gutschriften und möglicher späterer Ersatz sind in getrennten Spalten zu führen. Aus einer unklaren technischen Beweislage folgt kein automatisch sicherer Prozesserfolg. Paragraf 675w BGB verlangt eine konkrete Beweiswürdigung; starke Kundenauthentifizierung nicht als zwingende Kombination sämtlicher drei Kategorien Wissen, Besitz und Inhärenz beschreiben. Das tatsächlich verwendete Verfahren am maßgeblichen Normtext prüfen.

@@ -45,4 +45,4 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Zivilgericht: Amtsgericht bis einschließlich 10.000 Euro, Landgericht darüber; örtliche Zuständigkeit insbesondere nach Paragrafen 12 ff. ZPO und einen möglichen Verbrauchergerichtsstand gesondert prüfen.
 
 ## Praxis-Tipp
-Schlichtungsverfahren laufen oft schnell (3-6 Monate), sind regelmäßig kostenfrei für Verbraucher und werden von Banken ernst genommen — auch ohne Vergleichsdruck steigt die Erstattungsquote. Bei klarer Sachlage (nicht autorisiert, SCA-Mangel) ist Schlichtung der pragmatische Erstweg vor Klage.
+Dauer, Kosten, Zuständigkeit und Bindungswirkung einer Schlichtung anhand der konkreten Verfahrensordnung ermitteln; keine unbelegte Erstattungsquote oder einheitliche Dauer behaupten. Eine Schlichtung ist keine allgemeine Vorbedingung der unverzüglichen Erstattung. Der Vorwurf grober Fahrlässigkeit rechtfertigt allein kein Abwarten ihres Ausgangs (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 50–52; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).

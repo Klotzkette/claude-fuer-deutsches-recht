@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "agb-werkstatt",
-  "version": "1.0.0",
+  "version": "445.35.4",
   "description": "AGB fuer Shop, Werkstatt, Handel, Banken und Darlehen entwerfen und pruefen. Zehn Fachskills und ein Hauptskill verbinden aktuelle Quellen, Interessenlage, vollstaendige Klauseln und konkrete Einfuehrung.",
   "author": {
     "name": "Klotzkette",

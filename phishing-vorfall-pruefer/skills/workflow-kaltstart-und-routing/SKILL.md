@@ -23,15 +23,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
 ## Routing-Diagnose Phishing-Vorfall
-- **"Kunde hat überwiesen aufgrund Phishing-Mail / SMS"** → Rückbuchung § 675u BGB (nicht autorisierte Zahlung), Schadensersatz Bank ggü. Kunde, Mitverschulden § 675v BGB.
-- **"Kunde hat freigegeben unter Täuschung (Authorized Push Payment)"** → autorisierter Zahlungsauftrag; Anspruch nur bei grober Fahrlässigkeit der Bank oder besonderen Sorgfaltspflichtverletzungen — schwierige Beweislage; PSD2 Art. 74.
-- **"Konto wurde übernommen / Online-Banking-Login gestohlen"** → § 675u BGB, ggf. § 675v BGB (Sorgfaltspflichten Kunde); BGH XI ZR 91/14 (Phishing-Beweislast).
-- **"Unternehmen / Kanzlei Opfer (CEO-Fraud, Rechnungsmanipulation)"** → Innenhaftung Geschäftsleitung, ggf. Versicherung; bei personenbezogenen Daten Art. 33 DSGVO.
-- **"Strafanzeige?"** → §§ 263a (Computerbetrug), 269 (Fälschung beweiserheblicher Daten), 202c StGB (Vorbereiten Phishing).
-- **"Datenpanne durch Phishing"** → Art. 33 DSGVO (72 Std), Art. 34 (Betroffene), ggf. NIS2-Meldung § 32 BSIG.
+
+- **Zahlung nach einer Phishing-Nachricht:** Zuerst klären, wer welchen Auftrag erteilte und welche Zustimmung nach Paragraf 675j BGB vorliegt. Der Kontaktkanal entscheidet die Autorisierung nicht.
+- **Bewusst selbst beauftragte Zahlung aufgrund Täuschung:** Nicht automatisch als nicht autorisiert behandeln. Vertragliche oder sonstige Ansprüche nach den konkreten Pflichten und deren Voraussetzungen prüfen. Artikel 74 PSD2 ist keine allgemeine Anspruchsgrundlage für autorisierte Betrugszahlungen; ein Anspruch gegen die Bank setzt nicht stets grobe Fahrlässigkeit der Bank voraus.
+- **Fremdausgelöste Zahlung nach Kontenübernahme:** Erstattung nach Paragraf 675u BGB und Beweis nach Paragraf 675w BGB bearbeiten. Ein späterer Ersatzanspruch nach Paragraf 675v BGB ist ein eigener Prüfstrang.
+- **Vorwurf grober Fahrlässigkeit:** Das Erstattungsverlangen nicht bis zum Abschluss dieser Prüfung aufschieben. EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46, trägt den Erstattungsvorrang, aber keine endgültige Haftungsfreiheit. [Quellenkarte](../../references/eugh-c-70-25-tukowiecka.md).
+- **Unternehmen oder Kanzlei als Opfer:** Kontovertrag, Vertretung, Innenhaftung und Versicherung sachverhaltsbezogen anschließen. Datenpannen- oder IT-Meldepflichten nur bei tatsächlichem Anwendungsbereich und einschlägiger Rolle prüfen.
+- **Strafanzeige oder Datenschutzmeldung:** Den belegten Sachverhalt an den passenden Fachskill übergeben; Straftatbestand, zuständige Stelle und konkrete Fristen nicht allein aus dem Schlagwort Phishing bestimmen.
 
 ## Praxis-Tipp
-Im Banking-Recht ist der Unterschied "nicht autorisierter" vs. "autorisierter unter Täuschung" Zahlung entscheidend. Bei "autorisiert" gilt § 675j BGB — Rückgriff auf Bank nur über §§ 280, 311 BGB, sehr restriktiv. Bei "nicht autorisiert" trifft die Bank die Beweislast für Autorisierung (§ 675w BGB) und das Mitverschulden des Kunden (§ 675v).
+
+Erstattung, spätere Bankgegenforderung und andere Ansprüche im selben Vorgang getrennt halten. Die technische Authentifizierung allein beweist nicht notwendigerweise die Zustimmung oder das Verschulden des Kunden. Stellen Sie die entscheidende Rückfrage zum tatsächlich sichtbaren Freigabetext und beabsichtigten Vorgang; bereits bearbeitbare Sicherung und Erstattungskorrespondenz fortsetzen.
 
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.

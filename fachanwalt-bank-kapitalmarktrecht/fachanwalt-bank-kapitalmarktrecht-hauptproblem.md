@@ -26,6 +26,8 @@ Wird zusätzlich Schadensersatz nach Artikel 82 Absatz 1 der Datenschutz-Grundve
 
 Aus XI ZR 91/14 folgt bei bloßen Statuscodes konkret: Die Bank muss für einen Anscheinsbeweis Sicherheit und fehlerfreie Anwendung des Verfahrens darlegen; der Kunde muss zur Erschütterung keinen gelungenen technischen Angriff beweisen. Fordere daher die fehlende Anzeige und Vorgangszuordnung an. Korrekte Aufzeichnung ist kein Anscheinsbeweis grober Fahrlässigkeit; ein anderweitiger Vollbeweis der Zustimmung bleibt möglich. Maßgeblich sind Randnummern 18, 19, 68 bis 75 und 79 bis 81 des unten verlinkten Urteils, nicht eine pauschale Beweislastumkehr.
 
+[EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52: Nicht autorisierte Zahlung trotz behaupteter grober Fahrlässigkeit unverzüglich erstatten; späteren Regress gesondert prüfen. Ausnahme: berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung. Trägt nicht automatische Unautorisiertheit, endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot.
+
 ## 1.3. Normen und Rechtsprechung
 
 Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfundenen Fundstellen oder Literaturzitate.

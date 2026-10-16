@@ -1,65 +1,52 @@
 ---
 name: bankpflichten-beweislast-bgb
-description: "Für Bankpflichten: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
+description: "Erstellt eine fallbezogene Beweislast- und Substantiierungsmatrix. Trennt Zustimmung, technische Authentifizierung, Meldenachweise, Kundenbetrugsverdacht und Beweise für einen möglichen Bankregress."
 ---
 
-# Bankpflichten: Beweislast, Darlegungslast und Substantiierung
+# Bankbeweise und Kundenvortrag prüfen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ordnen Sie die konkreten Bankprotokolle und Mandantenangaben einer beweisbaren Rechtsfrage zu. Ergebnis sind eine belastbare Matrix und das dazu passende Nachforderungsschreiben oder ein ausformulierter gerichtlicher Vortrag. Ein technischer Erfolgsstatus darf nicht unbemerkt zur Zustimmung oder zum Verschuldensnachweis werden.
 
-## Spezialwissen: Bankpflichten: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** BGB §§ 675u, 675v, 675w, 280; ZAG/PSD2, künftig PSD3/PSR beobachten; DSGVO Art. 33, 34; StGB §§ 263, 263a, 202a, 269; Bank-AGB, Authentifizierungsprotokolle und Ombudsmannregeln.
+EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 40–42, trägt die Bankbeweislast für grobe Fahrlässigkeit und die Trennung von sofortiger Erstattung und späterer Haftung. Der Anker trägt keine Pflicht der Kundin, zuerst ihre Schuldlosigkeit vollständig zu beweisen.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+## 2. Eingaben
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+Lesen Sie Kontoauszug, Freigabetexte, SMS oder App-Anzeigen, Gerätebindungen, vorhandene Logexporte, Zeitangaben, Warnungen, Bankmeldung und Bankantwort. Erfassen Sie die Herkunft eines Dokuments: Originalexport, Screenshot, Zusammenfassung durch die Bank oder spätere Erinnerung. Verlangen Sie keine aktuellen Zugangsdaten. Fehlende Protokolle konkret bezeichnen, statt ihre Existenz oder ihren Inhalt zu unterstellen.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bankpflichten** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## 3. Ablauf und Checkliste
 
-## Beweislastverteilung im Phishing-Fall
-- **§ 675w S. 1 BGB**: Wurde die Authentifizierung mittels eines Zahlungsinstruments aufgezeichnet, muss der Zahlungsdienstleister bei Streit über die Authentizität nachweisen, dass die Zahlung **authentifiziert, ordnungsgemäß aufgezeichnet, verbucht und nicht durch eine Störung beeinträchtigt** war.
-- **§ 675w S. 3 BGB**: Die Nutzung des Zahlungsinstruments reicht **nicht** als Anscheinsbeweis dafür, dass der Zahler die Zahlung autorisiert oder grob fahrlässig gehandelt hat.
+### 3.1 Rechtsfragen trennen
 
-## Sekundäre Darlegungslast Kunde
-Der Zahler muss substantiiert vortragen:
-- Vorgang der Phishing-Attacke (Mail, SMS, Anruf, App-Manipulation)
-- Eigene Wahrnehmung und Reaktion (Zeitachse)
-- Erkennbarkeit der Täuschung im konkreten Fall
-- Pflichten gemäß § 675l BGB (Bewahrung Sicherungsverfahren, unverzügliche Anzeige bei Verdacht)
+Prüfen Sie zuerst, ob die Kundin gerade dem konkreten Zahlungsvorgang nach Paragraf 675j BGB zugestimmt hat. Stellen Sie daneben die technische Authentifizierung nach Paragraf 675w BGB. Bei bestrittener Autorisierung muss die Bank Authentifizierung, ordnungsgemäße Aufzeichnung, Verbuchung und Störungsfreiheit nachweisen. Die bloße Aufzeichnung der Nutzung genügt nicht notwendigerweise zum Nachweis von Zustimmung, Betrug, Vorsatz oder grober Fahrlässigkeit. Formulieren Sie daraus weder eine automatische Beweislastumkehr noch ein generelles Verbot jeder Indizienwürdigung.
 
-## Pflichten der Bank
-- **§ 55 ZAG** (PSD2-Umsetzung): Starke Kundenauthentifizierung mit mindestens zwei unabhängigen Elementen (Wissen, Besitz, Inhärenz).
-- **Art. 97 PSD2** i. V. m. Delegierter VO (EU) 2018/389: dynamische Verknüpfung der Authentifizierung mit Betrag und Empfänger.
-- **§ 675l BGB** Spiegelpflicht: Bank muss Sicherheitsmerkmale für unverzügliche Sperre verfügbar halten.
-- **§ 675k BGB**: Sperrmöglichkeit, Sperrmeldung, Wiedereinrichtung.
+### 3.2 Kundenvortrag konkretisieren
 
-## Substantiierung Bankhaftung
-- **Logfiles** der Authentifizierungsschritte
-- **Geräte-Fingerprint** des Auftraggebers (Bank hat dies regelmäßig)
-- **Risk-Score** der Transaktion (Empfängerkonto neu, ungewöhnlicher Betrag)
-- **Telefon-Anrufeingang**: Bei Call-ID-Spoofing TKG-Provider einbeziehen, soweit verfügbar.
+Erarbeiten Sie, was die Person gesehen, eingegeben, beabsichtigt und verstanden hat. Unterschiede zwischen Verkaufsbestätigung, Kontozugang, Gerätefreischaltung und Überweisung sind entscheidend. Fehlende Erinnerungen offen als solche behandeln. Die beweisrechtlichen Anforderungen des konkreten Verfahrens prüfen; nicht jede fehlende technische Erklärung als pauschale „sekundäre Darlegungslast“ mit Anspruchsverlust versehen. Die Bankbeweislast für das behauptete Verschulden bleibt erhalten.
 
-## Substantiierung Kundenseite
-- **Screenshot** der Phishing-Nachricht
-- **Anrufaufzeichnung / Notiz** mit Datum, Uhrzeit, Nummer, Inhalt
-- **Anzeige bei Polizei** (Strafanzeige nach § 263a StGB Computerbetrug)
-- **Anzeige bei Bank**: Bestätigung mit Datum
+### 3.3 Unterstützende Beweismittel zuordnen
 
-## Trade-off
-Die Beweislastverteilung ist gesetzlich verbraucherfreundlich. In der Praxis schiebt die Bank die "grobe Fahrlässigkeit" trotzdem oft als Verteidigung vor; Schlichtungsstellen verlangen meist konkrete Tatsachen statt pauschaler Behauptungen. Substantiierter Anfangsvortrag öffnet die Tür zur Erstattung.
+Ordnen Sie jedem Protokoll einen Zweck zu. Eine SMS-Versandbestätigung belegt zunächst Versand, nicht ohne Weiteres Lesbarkeit oder Verständnis beim Empfänger. Ein Gerätekennzeichen kann eine Sitzung zuordnen, beweist aber nicht automatisch die handelnde Person. Eine Freigabeanzeige kann Betrag und Empfänger belegen; ihre tatsächliche Darstellung und den Zusammenhang mit einer späteren Zahlung prüfen. Zuverlässigkeit, Vollständigkeit, Zeitzone und Systemwechsel dokumentieren. Kein Gerätekennzeichen oder Risikowert erfinden, nur weil solche Daten technisch denkbar sind.
+
+### 3.4 Melde- und Ausnahmebeweis
+
+Trennen Sie die Kundenanzeige an die Bank, die Strafanzeige gegen den Täter und eine schriftliche Behördenmitteilung der Bank über einen Verdacht gegen den Zahler. Nur die letzte kann zusammen mit berechtigten objektiven Gründen den behandelten Ausnahmefall nach Paragraf 675u Satz 4 BGB betreffen. Nach Paragraf 675m Absatz 1 BGB sind die dort geregelten Anzeige-, Sperr- und Nachweispflichten der Bank eigenständig zu prüfen; sie stehen nicht in Paragraf 675l BGB.
+
+### 3.5 Zwei Produkte gleichzeitig führen
+
+Der erste Vermerk bewertet die Durchsetzung der unverzüglichen Erstattung. Der zweite prüft einen möglichen Ersatzanspruch: konkrete Schutzpflicht, Verletzung, Vorsatz oder grobe Fahrlässigkeit, Kausalität, unterstützende Beweise und Ausschlüsse nach Paragraf 675v Absätzen 4 und 5 BGB. Das Fehlen abschließender Logdaten ist als Beweislücke festzuhalten und parallel zu bearbeiten, nicht als generelle Wartepflicht für das Erstattungsverlangen. An [Bankstrategie](../phishing-bank-strategie/SKILL.md) den belegten Zahlungs- und Meldungsstand übergeben.
+
+## 4. Quellenpflicht
+
+Prüfen Sie [Paragraf 675m BGB](https://www.gesetze-im-internet.de/bgb/__675m.html) und die [Quellenkarte zu C-70/25 und Paragrafen 675j, 675u, 675v, 675w und 676b BGB](../../references/eugh-c-70-25-tukowiecka.md). Zusätzliche technische Pflichten aus ZAG oder technischen Regulierungsstandards am konkreten Verfahren und amtlichen Normtext prüfen, bevor sie als festgestellter Verstoß ausgegeben werden. Keine nicht gelesene BGH-Entscheidung als pauschalen Ausschluss eines Anscheinsbeweises zitieren.
+
+## 5. Ausgabeformat
+
+Liefern Sie eine Matrix mit höchstens vier Spalten: Streitfrage; Beweislast und Norm; vorhandener Beleg mit Fundstelle; Lücke und nächste Handlung. Ergänzen Sie ein ausformuliertes Nachforderungsschreiben oder den bestellten Schriftsatzabschnitt. Keine Stichwortskelette als Endprodukt. Times New Roman, 11 pt, dezimale Gliederung. Besondere Unsicherheiten gehören in einen getrennten internen Vermerk. Jede reale Übermittlung bedarf menschlicher Freigabe.
+
+## 6. Beispiele
+
+Ein Bankexport weist „SMS erfolgreich“ aus; die Kundin erklärt, nur einen Verkauf bestätigt zu haben. Die Matrix behandelt SMS-Versand, technische Freigabe und Zustimmung zu Betrag und Empfänger getrennt. Sie fordert den tatsächlichen Freigabetext an und setzt das Erstattungsverlangen fort.
+
+Die Bank legt einen belastbaren eigenen Schadensersatzvortrag vor. Dessen Belege werden geprüft, statt sie mit dem Hinweis auf Erstattungsvorrang unbeachtet zu lassen. Dieser Vorrang entscheidet die endgültige Verlusttragung nicht.

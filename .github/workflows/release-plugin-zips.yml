@@ -156,6 +156,7 @@ jobs:
           python3 scripts/test-fachpruefer-integration.py
           python3 scripts/test-juristische-praesentationen.py
           python3 scripts/test-geldwaeschepraevention.py
+          python3 scripts/test-phishing-release.py
           python3 scripts/test-arbeitsrecht-asset-deal.py
           python3 scripts/test-betriebskosten-hausverwaltung.py
           python3 scripts/test-rechtsabteilung-immobilien.py

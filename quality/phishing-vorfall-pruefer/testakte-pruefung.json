@@ -1,0 +1,998 @@
+{
+  "slug": "phishing-kleinanzeigen-rabenstein-halle",
+  "stand": "2026-10-16",
+  "files": [
+    {
+      "file": "01_Mandatsauftrag_16_Oktober.docx",
+      "type": "docx",
+      "bytes": 38788,
+      "sha256": "38a9548c2b5f9f0b4441e0a6b7f1ab68284d16ee7ffa586fec9cd5fad24636dc"
+    },
+    {
+      "file": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+      "type": "docx",
+      "bytes": 38945,
+      "sha256": "15f8790d28396e562b749b6d6d44c9d77eee79391e55b39bd4dbff7ef4fd6b5c"
+    },
+    {
+      "file": "03_Telefonnotiz_Bankkontakt.docx",
+      "type": "docx",
+      "bytes": 38376,
+      "sha256": "652e221d814ecc356075fdfd1060f274f7d4e5088d9873aa2b812ec53bc77c62"
+    },
+    {
+      "file": "04_Erstattungsschreiben_Entwurf.docx",
+      "type": "docx",
+      "bytes": 39242,
+      "sha256": "fd0b5235fe591fdcbd3948e3652922043a293c176e01124ac7c57e8dacff180b"
+    },
+    {
+      "file": "05_Klageschrift_Entwurf.docx",
+      "type": "docx",
+      "bytes": 40344,
+      "sha256": "49209f4a187d01e249e939ba8e397b0adb2b2c28a33ff2241c8712cb42cb367d"
+    },
+    {
+      "file": "06_Vollmacht_Rabenstein.docx",
+      "type": "docx",
+      "bytes": 38122,
+      "sha256": "65d6ff8d874ab3d32d80297e0edc62aa5e1505e89f784e59ad452f818cd8a2ce"
+    },
+    {
+      "file": "07_Belastungsbeleg_12_Oktober.pdf",
+      "type": "pdf",
+      "bytes": 83793,
+      "sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc",
+      "pages": 1
+    },
+    {
+      "file": "08_Inserat_Hofmarkt.pdf",
+      "type": "pdf",
+      "bytes": 84345,
+      "sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef",
+      "pages": 1
+    },
+    {
+      "file": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+      "type": "pdf",
+      "bytes": 84142,
+      "sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9",
+      "pages": 1
+    },
+    {
+      "file": "10_Eingang_Bank_und_Sperrung.pdf",
+      "type": "pdf",
+      "bytes": 84051,
+      "sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3",
+      "pages": 1
+    },
+    {
+      "file": "11_Ablehnung_Saaleufer_Bank.pdf",
+      "type": "pdf",
+      "bytes": 84142,
+      "sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808",
+      "pages": 1
+    },
+    {
+      "file": "12_Folgeauszug_bis_16_Oktober.pdf",
+      "type": "pdf",
+      "bytes": 83861,
+      "sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f",
+      "pages": 1
+    },
+    {
+      "file": "13_Plattformantwort_15_Oktober.pdf",
+      "type": "pdf",
+      "bytes": 84443,
+      "sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8",
+      "pages": 1
+    },
+    {
+      "file": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+      "type": "pdf",
+      "bytes": 84901,
+      "sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd",
+      "pages": 1
+    },
+    {
+      "file": "15_Geraet_und_Belegsicherung.pdf",
+      "type": "pdf",
+      "bytes": 84146,
+      "sha256": "07fad54b4d70fbffbf276fce7d1232dca456982f3e01279631a38ee427fbb705",
+      "pages": 1
+    },
+    {
+      "file": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+      "type": "pdf",
+      "bytes": 84158,
+      "sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59",
+      "pages": 1
+    },
+    {
+      "file": "17_Meldung_an_Bank.eml",
+      "type": "eml",
+      "bytes": 115831,
+      "sha256": "99daea0aea0b484b5c902b40ffa73de99d4a227848414c578ae783deadde68a3"
+    },
+    {
+      "file": "18_Bank_Eingangsbestätigung.eml",
+      "type": "eml",
+      "bytes": 116189,
+      "sha256": "7a3efaf32818bbb92734de560ece89b91a8c6e62f087170abd4d5511841e54a6"
+    },
+    {
+      "file": "19_Kundin_an_Plattform.eml",
+      "type": "eml",
+      "bytes": 231969,
+      "sha256": "1ccdea59259d77859d4eb4f33eedba09f9d74bd0a2d6f453541a8fb58a938dd9"
+    },
+    {
+      "file": "20_Bank_Ablehnung_per_Mail.eml",
+      "type": "eml",
+      "bytes": 116317,
+      "sha256": "7965eb7e3abdaf6795a38bcb05fbb4aacaa476b86f6514cc0a8eedc189d555cd"
+    },
+    {
+      "file": "21_Mandatsanfrage.eml",
+      "type": "eml",
+      "bytes": 116424,
+      "sha256": "60a02352782effea11a55fe1c3a9e452402e226fce068073efd5b7c14552fe90"
+    },
+    {
+      "file": "22_Hofmarkt_Antwort.eml",
+      "type": "eml",
+      "bytes": 116655,
+      "sha256": "0ed7ba56501a8476c3874b152815a6d72fe3f79cb892661b645013c95cf3cb35"
+    },
+    {
+      "file": "23_Erinnerung_und_Datum.eml",
+      "type": "eml",
+      "bytes": 171027,
+      "sha256": "1ee15f6bad25bebd78e734b1142113f7fe4152a73c2d0c10f7bfb21daae051eb"
+    },
+    {
+      "file": "24_Aktueller_Kontoauszug.eml",
+      "type": "eml",
+      "bytes": 115888,
+      "sha256": "233c878e73d4a55af609086dc5f7f47346e68f80074688fa88c0f4bcfb217487"
+    },
+    {
+      "file": "25_Rueckrufstatus_Bank.eml",
+      "type": "eml",
+      "bytes": 116284,
+      "sha256": "4a38a4a81db64e22fbf1d2afea3b8a03322dca1bf0f8bfa213f2c127d62bf62a"
+    },
+    {
+      "file": "26_Entwuerfe_zur_Ruecksprache.eml",
+      "type": "eml",
+      "bytes": 64658,
+      "sha256": "665221b16e22a5df6f67e6809521c5a90a057cf2191eb58ef1f1cd08a60a20c4"
+    },
+    {
+      "file": "27_Chronologie_und_Anlagen.xlsx",
+      "type": "xlsx",
+      "bytes": 6998,
+      "sha256": "d7ed920512c962f893314466d14ef14f871ad7121f9cb2792f341c6292028b8c"
+    },
+    {
+      "file": "28_Betragsrechnung_und_Status.xlsx",
+      "type": "xlsx",
+      "bytes": 6719,
+      "sha256": "94677d364037d49789441798716d27f014651ad89262c181f2f5045af8b3b3be"
+    }
+  ],
+  "mails": [
+    {
+      "file": "17_Meldung_an_Bank.eml",
+      "message_id": "<rabenstein-17-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "07_Belastungsbeleg_12_Oktober.pdf",
+          "sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc"
+        }
+      ]
+    },
+    {
+      "file": "18_Bank_Eingangsbestätigung.eml",
+      "message_id": "<rabenstein-18-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "10_Eingang_Bank_und_Sperrung.pdf",
+          "sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3"
+        }
+      ]
+    },
+    {
+      "file": "19_Kundin_an_Plattform.eml",
+      "message_id": "<rabenstein-19-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "08_Inserat_Hofmarkt.pdf",
+          "sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef"
+        },
+        {
+          "file": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+          "sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9"
+        }
+      ]
+    },
+    {
+      "file": "20_Bank_Ablehnung_per_Mail.eml",
+      "message_id": "<rabenstein-20-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "11_Ablehnung_Saaleufer_Bank.pdf",
+          "sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808"
+        }
+      ]
+    },
+    {
+      "file": "21_Mandatsanfrage.eml",
+      "message_id": "<rabenstein-21-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "11_Ablehnung_Saaleufer_Bank.pdf",
+          "sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808"
+        }
+      ]
+    },
+    {
+      "file": "22_Hofmarkt_Antwort.eml",
+      "message_id": "<rabenstein-22-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "13_Plattformantwort_15_Oktober.pdf",
+          "sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8"
+        }
+      ]
+    },
+    {
+      "file": "23_Erinnerung_und_Datum.eml",
+      "message_id": "<rabenstein-23-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+          "sha256": "15f8790d28396e562b749b6d6d44c9d77eee79391e55b39bd4dbff7ef4fd6b5c"
+        },
+        {
+          "file": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+          "sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd"
+        }
+      ]
+    },
+    {
+      "file": "24_Aktueller_Kontoauszug.eml",
+      "message_id": "<rabenstein-24-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "12_Folgeauszug_bis_16_Oktober.pdf",
+          "sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f"
+        }
+      ]
+    },
+    {
+      "file": "25_Rueckrufstatus_Bank.eml",
+      "message_id": "<rabenstein-25-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+          "sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59"
+        }
+      ]
+    },
+    {
+      "file": "26_Entwuerfe_zur_Ruecksprache.eml",
+      "message_id": "<rabenstein-26-20261016@akten.example>",
+      "attachments": [
+        {
+          "file": "04_Erstattungsschreiben_Entwurf.docx",
+          "sha256": "fd0b5235fe591fdcbd3948e3652922043a293c176e01124ac7c57e8dacff180b"
+        },
+        {
+          "file": "28_Betragsrechnung_und_Status.xlsx",
+          "sha256": "94677d364037d49789441798716d27f014651ad89262c181f2f5045af8b3b3be"
+        }
+      ]
+    }
+  ],
+  "workbooks": [
+    {
+      "file": "27_Chronologie_und_Anlagen.xlsx",
+      "sheets": [
+        {
+          "name": "Chronologie",
+          "range": "A1:D15"
+        },
+        {
+          "name": "Anlagen",
+          "range": "A1:D15"
+        },
+        {
+          "name": "Zeitabstand",
+          "range": "A1:C10"
+        }
+      ],
+      "formula_checks": [
+        {
+          "sheet": "Zeitabstand",
+          "cell": "B8",
+          "expected": 3,
+          "actual": 3
+        }
+      ],
+      "input_change_test": {
+        "cell": "B6",
+        "changed": 4,
+        "restored": true
+      },
+      "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+    },
+    {
+      "file": "28_Betragsrechnung_und_Status.xlsx",
+      "sheets": [
+        {
+          "name": "Betragsstand",
+          "range": "A1:C12"
+        },
+        {
+          "name": "Kontoumsaetze",
+          "range": "A1:D10"
+        },
+        {
+          "name": "Bearbeitung",
+          "range": "A1:C12"
+        }
+      ],
+      "formula_checks": [
+        {
+          "sheet": "Betragsstand",
+          "cell": "B8",
+          "expected": 700,
+          "actual": 700
+        },
+        {
+          "sheet": "Kontoumsaetze",
+          "cell": "D10",
+          "expected": 1369.73,
+          "actual": 1369.73
+        }
+      ],
+      "input_change_test": {
+        "cell": "B7",
+        "changed": 699,
+        "restored": true
+      },
+      "errors": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+    }
+  ],
+  "annex_map": {
+    "K1": "07_Belastungsbeleg_12_Oktober.pdf",
+    "K2": "08_Inserat_Hofmarkt.pdf",
+    "K3": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+    "K4": "10_Eingang_Bank_und_Sperrung.pdf",
+    "K5": "11_Ablehnung_Saaleufer_Bank.pdf",
+    "K6": "12_Folgeauszug_bis_16_Oktober.pdf",
+    "K7": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+    "K8": "06_Vollmacht_Rabenstein.docx"
+  },
+  "layout_review": {
+    "date": "2026-10-16",
+    "documents": [
+      {
+        "source": "01_Mandatsauftrag_16_Oktober.docx",
+        "source_sha256": "38a9548c2b5f9f0b4441e0a6b7f1ab68284d16ee7ffa586fec9cd5fad24636dc",
+        "render_sha256": "d03a269ed39a7d78625471e8df7a3009fd2214b3a55f34b78ba80de3ab0fd010",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+        "source_sha256": "15f8790d28396e562b749b6d6d44c9d77eee79391e55b39bd4dbff7ef4fd6b5c",
+        "render_sha256": "81104f1eb2b37a9ac92a2f8134ea5f51e4898cfacdc82f06ee32f93d58ddb13e",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "03_Telefonnotiz_Bankkontakt.docx",
+        "source_sha256": "652e221d814ecc356075fdfd1060f274f7d4e5088d9873aa2b812ec53bc77c62",
+        "render_sha256": "35b7101d2c6cfd8d04ceb6f2611bc848ae17717e64bccd34205b54b3a03bcea9",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "04_Erstattungsschreiben_Entwurf.docx",
+        "source_sha256": "fd0b5235fe591fdcbd3948e3652922043a293c176e01124ac7c57e8dacff180b",
+        "render_sha256": "8ea6557577c228c64e11801551cccba93632a324b97193ae3a7b7ff9958a7385",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "05_Klageschrift_Entwurf.docx",
+        "source_sha256": "49209f4a187d01e249e939ba8e397b0adb2b2c28a33ff2241c8712cb42cb367d",
+        "render_sha256": "08fa6a0addd4e49753539c45bb75057949111c2985593cefa6b58516c4f28efe",
+        "pages": 2,
+        "visually_reviewed_pages": [
+          1,
+          2
+        ]
+      },
+      {
+        "source": "06_Vollmacht_Rabenstein.docx",
+        "source_sha256": "65d6ff8d874ab3d32d80297e0edc62aa5e1505e89f784e59ad452f818cd8a2ce",
+        "render_sha256": "27de35e2598f5f5bf5a5c1e2b71329c33ba85adc4bf6234dced7ea9c8a3577d0",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "07_Belastungsbeleg_12_Oktober.pdf",
+        "source_sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc",
+        "render_sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "08_Inserat_Hofmarkt.pdf",
+        "source_sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef",
+        "render_sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+        "source_sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9",
+        "render_sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "10_Eingang_Bank_und_Sperrung.pdf",
+        "source_sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3",
+        "render_sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "11_Ablehnung_Saaleufer_Bank.pdf",
+        "source_sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808",
+        "render_sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "12_Folgeauszug_bis_16_Oktober.pdf",
+        "source_sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f",
+        "render_sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "13_Plattformantwort_15_Oktober.pdf",
+        "source_sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8",
+        "render_sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+        "source_sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd",
+        "render_sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "15_Geraet_und_Belegsicherung.pdf",
+        "source_sha256": "07fad54b4d70fbffbf276fce7d1232dca456982f3e01279631a38ee427fbb705",
+        "render_sha256": "07fad54b4d70fbffbf276fce7d1232dca456982f3e01279631a38ee427fbb705",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      },
+      {
+        "source": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+        "source_sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59",
+        "render_sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59",
+        "pages": 1,
+        "visually_reviewed_pages": [
+          1
+        ]
+      }
+    ],
+    "pages_total": 17,
+    "out_of_page_glyphs": [],
+    "spreadsheet_sheets_reviewed": 6,
+    "notes": "Alle 17 DOCX-/PDF-Seiten und alle sechs Excel-Blätter als Bilder angesehen; keine abgeschnittenen Texte, defekten Zeichen oder Überlagerungen. Original-DOCX in Times New Roman 11 pt, PDF ebenfalls Times New Roman; Tabelle im Kontoauszug lesbar."
+  },
+  "factual_checks": {
+    "originals": 28,
+    "sms_code_in_core_documents": true,
+    "police_report_next_day_private_copy": true,
+    "no_customer_authorization_invented": true,
+    "sca_details_unresolved": true,
+    "calendar_dates_checked": true,
+    "account_balance": 1369.73,
+    "disputed_amount": 700,
+    "unrelated_credit": 12.8,
+    "annexes_k1_to_k8_resolve": true,
+    "email_attachments_match_originals": true
+  },
+  "legal_sources_read": [
+    {
+      "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "date": "2026-10-16"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
+      "date": "2026-10-16"
+    }
+  ],
+  "packages": {
+    "date": "2026-10-16",
+    "original_sources": 28,
+    "individual_pdfs": 28,
+    "aggregate_pages": 33,
+    "page_map": [
+      {
+        "source": "01_Mandatsauftrag_16_Oktober.docx",
+        "pdf": "01_Mandatsauftrag_16_Oktober.pdf",
+        "source_sha256": "38a9548c2b5f9f0b4441e0a6b7f1ab68284d16ee7ffa586fec9cd5fad24636dc",
+        "pdf_sha256": "8a08d1e8ca57df27e554eea4092cf843694fdd805784909a8b3d8c8a9fe69163",
+        "pages": 1,
+        "first_page": 1,
+        "last_page": 1
+      },
+      {
+        "source": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+        "pdf": "02_Gedaechtnisprotokoll_Rabenstein.pdf",
+        "source_sha256": "15f8790d28396e562b749b6d6d44c9d77eee79391e55b39bd4dbff7ef4fd6b5c",
+        "pdf_sha256": "81d4e6d18503321552f07d0ce778a3ce3aed7f5778d7e79e42243f2b38671b06",
+        "pages": 1,
+        "first_page": 2,
+        "last_page": 2
+      },
+      {
+        "source": "03_Telefonnotiz_Bankkontakt.docx",
+        "pdf": "03_Telefonnotiz_Bankkontakt.pdf",
+        "source_sha256": "652e221d814ecc356075fdfd1060f274f7d4e5088d9873aa2b812ec53bc77c62",
+        "pdf_sha256": "b5299009edb7edd4a91ec40a8af39ddcbcd5b7587131d524549a67f256e1a695",
+        "pages": 1,
+        "first_page": 3,
+        "last_page": 3
+      },
+      {
+        "source": "04_Erstattungsschreiben_Entwurf.docx",
+        "pdf": "04_Erstattungsschreiben_Entwurf.pdf",
+        "source_sha256": "fd0b5235fe591fdcbd3948e3652922043a293c176e01124ac7c57e8dacff180b",
+        "pdf_sha256": "5b551ec73bcc4b6a53b8cd44b5555175fe7e273d6a49dbd936ba45953662b8c9",
+        "pages": 1,
+        "first_page": 4,
+        "last_page": 4
+      },
+      {
+        "source": "05_Klageschrift_Entwurf.docx",
+        "pdf": "05_Klageschrift_Entwurf.pdf",
+        "source_sha256": "49209f4a187d01e249e939ba8e397b0adb2b2c28a33ff2241c8712cb42cb367d",
+        "pdf_sha256": "11e2fd47dc323c0b73156a9194ae9a0425b6071b6b80c8eecea68bf55891c75c",
+        "pages": 2,
+        "first_page": 5,
+        "last_page": 6
+      },
+      {
+        "source": "06_Vollmacht_Rabenstein.docx",
+        "pdf": "06_Vollmacht_Rabenstein.pdf",
+        "source_sha256": "65d6ff8d874ab3d32d80297e0edc62aa5e1505e89f784e59ad452f818cd8a2ce",
+        "pdf_sha256": "6ebb045dff6c1d2d3cec827cb00289b8c15b460857e2e52c3d971e18de51e688",
+        "pages": 1,
+        "first_page": 7,
+        "last_page": 7
+      },
+      {
+        "source": "07_Belastungsbeleg_12_Oktober.pdf",
+        "pdf": "07_Belastungsbeleg_12_Oktober.pdf",
+        "source_sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc",
+        "pdf_sha256": "ca36deaa2fb473dcb1bb3d84ca5e67dfa86e071d3a16ea70e2fbfa34b7d010fc",
+        "pages": 1,
+        "first_page": 8,
+        "last_page": 8
+      },
+      {
+        "source": "08_Inserat_Hofmarkt.pdf",
+        "pdf": "08_Inserat_Hofmarkt.pdf",
+        "source_sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef",
+        "pdf_sha256": "6f69407f4ef1e0c7f6a1d9ac9fa0848282a649979ed71fc74611fc3fe8c7eaef",
+        "pages": 1,
+        "first_page": 9,
+        "last_page": 9
+      },
+      {
+        "source": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+        "pdf": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+        "source_sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9",
+        "pdf_sha256": "77da666ebd6b639841fa99ad6d36fe8c53eb19d240eb46db01118d46ac3430b9",
+        "pages": 1,
+        "first_page": 10,
+        "last_page": 10
+      },
+      {
+        "source": "10_Eingang_Bank_und_Sperrung.pdf",
+        "pdf": "10_Eingang_Bank_und_Sperrung.pdf",
+        "source_sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3",
+        "pdf_sha256": "70bf7b0f940c83cb45b1e2893e41f733ddad7274197fe9cdf2717079044d89b3",
+        "pages": 1,
+        "first_page": 11,
+        "last_page": 11
+      },
+      {
+        "source": "11_Ablehnung_Saaleufer_Bank.pdf",
+        "pdf": "11_Ablehnung_Saaleufer_Bank.pdf",
+        "source_sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808",
+        "pdf_sha256": "6e6d8771afddf76c97d7d1086c7b887d6a2e39a7c5f596768736453d573aa808",
+        "pages": 1,
+        "first_page": 12,
+        "last_page": 12
+      },
+      {
+        "source": "12_Folgeauszug_bis_16_Oktober.pdf",
+        "pdf": "12_Folgeauszug_bis_16_Oktober.pdf",
+        "source_sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f",
+        "pdf_sha256": "65fdbc2c94e288d346f9205daccdbcb0a33e5dbfcd0d49ea0da428810645019f",
+        "pages": 1,
+        "first_page": 13,
+        "last_page": 13
+      },
+      {
+        "source": "13_Plattformantwort_15_Oktober.pdf",
+        "pdf": "13_Plattformantwort_15_Oktober.pdf",
+        "source_sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8",
+        "pdf_sha256": "7e3dac7bcd6e914e39d7feef8595d631536c31f9d08ea92daabd64074edfdcf8",
+        "pages": 1,
+        "first_page": 14,
+        "last_page": 14
+      },
+      {
+        "source": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+        "pdf": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+        "source_sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd",
+        "pdf_sha256": "2a99cebf46d687436bb4c1d616f17217eecfa6093292eee100c58cd452aaaadd",
+        "pages": 1,
+        "first_page": 15,
+        "last_page": 15
+      },
+      {
+        "source": "15_Geraet_und_Belegsicherung.pdf",
+        "pdf": "15_Geraet_und_Belegsicherung.pdf",
+        "source_sha256": "07fad54b4d70fbffbf276fce7d1232dca456982f3e01279631a38ee427fbb705",
+        "pdf_sha256": "07fad54b4d70fbffbf276fce7d1232dca456982f3e01279631a38ee427fbb705",
+        "pages": 1,
+        "first_page": 16,
+        "last_page": 16
+      },
+      {
+        "source": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+        "pdf": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+        "source_sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59",
+        "pdf_sha256": "cc44acb37bb8de7c76e2a9fec08ca579277c369d987a76bf9ac8139d4caafc59",
+        "pages": 1,
+        "first_page": 17,
+        "last_page": 17
+      },
+      {
+        "source": "17_Meldung_an_Bank.eml",
+        "pdf": "17_Meldung_an_Bank.pdf",
+        "source_sha256": "99daea0aea0b484b5c902b40ffa73de99d4a227848414c578ae783deadde68a3",
+        "pdf_sha256": "ee44cc659b9c96a5365246df81b0481cd642a9beb242a776928a7b5af49519b8",
+        "pages": 1,
+        "first_page": 18,
+        "last_page": 18
+      },
+      {
+        "source": "18_Bank_Eingangsbestätigung.eml",
+        "pdf": "18_Bank_Eingangsbestätigung.pdf",
+        "source_sha256": "7a3efaf32818bbb92734de560ece89b91a8c6e62f087170abd4d5511841e54a6",
+        "pdf_sha256": "0dc3dcb68913d2c5bdfa236335658087bf6ce8aef59be3c880548fc1a46438b9",
+        "pages": 1,
+        "first_page": 19,
+        "last_page": 19
+      },
+      {
+        "source": "19_Kundin_an_Plattform.eml",
+        "pdf": "19_Kundin_an_Plattform.pdf",
+        "source_sha256": "1ccdea59259d77859d4eb4f33eedba09f9d74bd0a2d6f453541a8fb58a938dd9",
+        "pdf_sha256": "5044b27402d7e0a2ea66e9939ee511a800f25ed78af145fb64fc785d2934c8eb",
+        "pages": 1,
+        "first_page": 20,
+        "last_page": 20
+      },
+      {
+        "source": "20_Bank_Ablehnung_per_Mail.eml",
+        "pdf": "20_Bank_Ablehnung_per_Mail.pdf",
+        "source_sha256": "7965eb7e3abdaf6795a38bcb05fbb4aacaa476b86f6514cc0a8eedc189d555cd",
+        "pdf_sha256": "884f458c99e310846f85a11870aeddc97bc009ee66280fe6afaa9e118bcff9e9",
+        "pages": 1,
+        "first_page": 21,
+        "last_page": 21
+      },
+      {
+        "source": "21_Mandatsanfrage.eml",
+        "pdf": "21_Mandatsanfrage.pdf",
+        "source_sha256": "60a02352782effea11a55fe1c3a9e452402e226fce068073efd5b7c14552fe90",
+        "pdf_sha256": "24e5cb21a28718f1a16ff3a4066934ba8ec8e03df26406fe64b645773ea4db6e",
+        "pages": 1,
+        "first_page": 22,
+        "last_page": 22
+      },
+      {
+        "source": "22_Hofmarkt_Antwort.eml",
+        "pdf": "22_Hofmarkt_Antwort.pdf",
+        "source_sha256": "0ed7ba56501a8476c3874b152815a6d72fe3f79cb892661b645013c95cf3cb35",
+        "pdf_sha256": "ef155ec5971dbf0cf4bf40de6324ccd721eaf2db1fec78e9f9a507dae926a7f9",
+        "pages": 1,
+        "first_page": 23,
+        "last_page": 23
+      },
+      {
+        "source": "23_Erinnerung_und_Datum.eml",
+        "pdf": "23_Erinnerung_und_Datum.pdf",
+        "source_sha256": "1ee15f6bad25bebd78e734b1142113f7fe4152a73c2d0c10f7bfb21daae051eb",
+        "pdf_sha256": "7b112afaa954669322f9ac45d1f2761637eec3f88771116f95201d2059902c63",
+        "pages": 1,
+        "first_page": 24,
+        "last_page": 24
+      },
+      {
+        "source": "24_Aktueller_Kontoauszug.eml",
+        "pdf": "24_Aktueller_Kontoauszug.pdf",
+        "source_sha256": "233c878e73d4a55af609086dc5f7f47346e68f80074688fa88c0f4bcfb217487",
+        "pdf_sha256": "6fdc0ae39137adaa83ca11a3b1cce317fe05c120d1940f9ddc09ce85047b1b02",
+        "pages": 1,
+        "first_page": 25,
+        "last_page": 25
+      },
+      {
+        "source": "25_Rueckrufstatus_Bank.eml",
+        "pdf": "25_Rueckrufstatus_Bank.pdf",
+        "source_sha256": "4a38a4a81db64e22fbf1d2afea3b8a03322dca1bf0f8bfa213f2c127d62bf62a",
+        "pdf_sha256": "c43821a52d26a3f507bad4477115c46634f8c9b3a7e045bb9dfb2dd4d5d76737",
+        "pages": 1,
+        "first_page": 26,
+        "last_page": 26
+      },
+      {
+        "source": "26_Entwuerfe_zur_Ruecksprache.eml",
+        "pdf": "26_Entwuerfe_zur_Ruecksprache.pdf",
+        "source_sha256": "665221b16e22a5df6f67e6809521c5a90a057cf2191eb58ef1f1cd08a60a20c4",
+        "pdf_sha256": "4577c4546c9b0526640bb0e20ca8ceb244fe30e8ea7b5f13f1f708d9aa99eb5c",
+        "pages": 1,
+        "first_page": 27,
+        "last_page": 27
+      },
+      {
+        "source": "27_Chronologie_und_Anlagen.xlsx",
+        "pdf": "27_Chronologie_und_Anlagen.pdf",
+        "source_sha256": "d7ed920512c962f893314466d14ef14f871ad7121f9cb2792f341c6292028b8c",
+        "pdf_sha256": "1462ac6f9a00a850be7559027a74b39e3c4680f750275f6aad11774ce0e8971e",
+        "pages": 3,
+        "first_page": 28,
+        "last_page": 30
+      },
+      {
+        "source": "28_Betragsrechnung_und_Status.xlsx",
+        "pdf": "28_Betragsrechnung_und_Status.pdf",
+        "source_sha256": "94677d364037d49789441798716d27f014651ad89262c181f2f5045af8b3b3be",
+        "pdf_sha256": "34e347bd2707ad587f10b96dd9146fe954713e2f56fef1d0d10566e537a00d61",
+        "pages": 3,
+        "first_page": 31,
+        "last_page": 33
+      }
+    ],
+    "original_bytes_match": true,
+    "individual_and_aggregate_pages_match": true,
+    "email_attachments_match": true,
+    "archive_notices_valid": true,
+    "pdfs_contain_no_warning": true,
+    "artifacts": [
+      {
+        "file": "testakte-phishing-kleinanzeigen-rabenstein-halle.zip",
+        "sha256": "46c8eef83228d5c2d3f2d3d08218b161e2dcf5b4c2279bbe9156129325f51e84",
+        "bytes": 3051874
+      },
+      {
+        "file": "testakte-phishing-kleinanzeigen-rabenstein-halle-einzelpdfs.zip",
+        "sha256": "890c2b0e6890eafb076ccacbcb2f39e6c1aabd63724050b3a8aee8027874296d",
+        "bytes": 1082954
+      },
+      {
+        "file": "phishing-kleinanzeigen-rabenstein-halle_gesamt.pdf",
+        "sha256": "4915f43508e921d18c20a565ccf991ce52ad88dfa9cd6ed99818127c1e0b0e18",
+        "bytes": 1114908
+      }
+    ],
+    "visual_review": {
+      "date": "2026-10-16",
+      "email_pdfs_reviewed": 10,
+      "xlsx_pages_reviewed": 6,
+      "total_pages": 33,
+      "all_individual_pages_raster_equal_to_aggregate": true,
+      "out_of_page_glyphs": [],
+      "checks": [
+        {
+          "source": "01_Mandatsauftrag_16_Oktober.docx",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "02_Gedaechtnisprotokoll_Rabenstein.docx",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "03_Telefonnotiz_Bankkontakt.docx",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "04_Erstattungsschreiben_Entwurf.docx",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "05_Klageschrift_Entwurf.docx",
+          "pages": 2,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "06_Vollmacht_Rabenstein.docx",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "07_Belastungsbeleg_12_Oktober.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "08_Inserat_Hofmarkt.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "09_Nachrichtenverlauf_Hofmarkt.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "10_Eingang_Bank_und_Sperrung.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "11_Ablehnung_Saaleufer_Bank.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "12_Folgeauszug_bis_16_Oktober.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "13_Plattformantwort_15_Oktober.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "14_Strafanzeige_Sachverhalt_13_Oktober.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "15_Geraet_und_Belegsicherung.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "16_Rueckrufstatus_und_Bankbedingungen.pdf",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "17_Meldung_an_Bank.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "18_Bank_Eingangsbestätigung.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "19_Kundin_an_Plattform.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "20_Bank_Ablehnung_per_Mail.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "21_Mandatsanfrage.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "22_Hofmarkt_Antwort.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "23_Erinnerung_und_Datum.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "24_Aktueller_Kontoauszug.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "25_Rueckrufstatus_Bank.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "26_Entwuerfe_zur_Ruecksprache.eml",
+          "pages": 1,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "27_Chronologie_und_Anlagen.xlsx",
+          "pages": 3,
+          "raster_equal_to_aggregate": true
+        },
+        {
+          "source": "28_Betragsrechnung_und_Status.xlsx",
+          "pages": 3,
+          "raster_equal_to_aggregate": true
+        }
+      ],
+      "notes": "Zehn E-Mail-PDFs und alle sechs nativen Excel-Blätter visuell geprüft. Druckkopie im Querformat mit reduzierter Zeilenhöhe; Original-XLSX unverändert. Alle 33 zusammengeführten Seiten pixelgleich mit den geprüften Einzel-PDF-Seiten."
+    },
+    "central_single_archive_validators_passed": true,
+    "validator_scope": "Zentrale zip_entries/expected_entries/assert_same auf den beiden Einzelakten-Archiven; kein unvollständiges Gesamtarchiv simuliert."
+  }
+}

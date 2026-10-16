@@ -55,7 +55,7 @@ Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, G
 4.2. KWG Paragraf 25a: ordnungsgemäße Geschäftsorganisation und Risikomanagement.
 4.3. WpHG Paragraf 63: Wohlverhaltenspflichten im Wertpapierdienstleistungsgeschäft.
 4.4. BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
-4.5. BGB Paragraf 675u und Paragraf 675v: Haftung bei nicht autorisierten Zahlungsvorgängen.
+4.5. BGB Paragraf 675u und Paragraf 675v: unverzügliche Erstattung und eigenständigen Gegenanspruch trennen. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, trägt die Erstattung trotz bloß behaupteter grober Fahrlässigkeit; trägt nicht endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Betrugsverdachtsausnahme gegen den Zahler und Behördenmitteilung gesondert belegen. [Geprüfte Quellen und Anwendungsgrenzen](../../references/eugh-c-70-25-erstattung-und-regress.md).
 4.6. BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
 
 Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkrete Merkmal, das er im Fall steuert, und die Rechtsfolge, die daraus folgen kann.

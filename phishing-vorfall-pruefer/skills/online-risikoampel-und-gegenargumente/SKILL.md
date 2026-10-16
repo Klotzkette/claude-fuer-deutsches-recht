@@ -55,5 +55,5 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Verteidigungslinien Kunde
 - Konzentration auf Beweislast-Umkehr § 675w BGB.
-- SCA-Mangel als Trumpfkarte: bei fehlender starker Authentifizierung greift § 675v Abs. 4 — Haftung Kunde **0 EUR** (außer Vorsatz/grobe Fahrlässigkeit).
+- Starke Kundenauthentifizierung: Voraussetzungen von Paragraf 675v Absatz 4 BGB prüfen. Seine Durchbrechung betrifft betrügerische Absicht, nicht schon Vorsatz hinsichtlich einer Pflichtverletzung oder grobe Fahrlässigkeit. Ein konkreter Fahrlässigkeitsvorwurf wird als späteres Regressrisiko behandelt und sperrt die unverzügliche Erstattung nicht (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).
 - BGH-Rspr. mit Datum und Az. konkret zitieren, nicht pauschal.

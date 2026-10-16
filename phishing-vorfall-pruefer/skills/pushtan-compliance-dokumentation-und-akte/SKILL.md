@@ -62,4 +62,4 @@ pushTAN ist ein App-basiertes Authentifizierungsverfahren der Sparkassen / Volks
 - Konkretisierungsempfehlung Klage/Schlichtung.
 
 ## Trade-off
-pushTAN ist faktisch mehrheitlich Same-Device — Banken werden in Verfahren regelmäßig zur Erstattung verurteilt, wenn Anomalie-Erkennung schwach und Visualisierung manipulierbar war. Live-Recherche aktueller OLG-Linien lohnt sich.
+Dokumentieren Sie das tatsächlich verwendete Geräte- und Freigabeverfahren; aus dem Produktnamen pushTAN folgt keine bestimmte Geräteverteilung. Schwächen in Anzeige oder Monitoring erfordern einen konkreten Tatsachen- und Normnachweis. Keine regelmäßige Verurteilung von Banken ohne belastbare Entscheidungsgrundlage behaupten. Die Protokollauswertung läuft parallel zum Erstattungsverlangen; die spätere Haftungsprüfung ersetzt den Erstattungsvorrang nicht (EuGH, Urt. v. 15.10.2026 – Az. C-70/25, Rn. 31–42 und 46; [Quelle und Grenzen](../../references/eugh-c-70-25-tukowiecka.md)).

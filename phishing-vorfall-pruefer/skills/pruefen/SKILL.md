@@ -1,206 +1,76 @@
 ---
 name: pruefen
-description: "Für Phishing-Vorfall Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Steuert die Bearbeitung eines Phishingvorfalls von Sicherung und Zahlungszuordnung bis zum fertigen Bankbrief, Vermerk oder beauftragten Prozessentwurf. Trennt unverzügliche Erstattung, Betrugsverdachtsausnahme und späteren Rückgriff."
 ---
 
-# Phishing-Vorfall Prüfen
+# Phishingvorfall vom Eingang bis zum fertigen Schreiben
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Lesen Sie Auftrag und vorhandene Unterlagen. Bearbeiten Sie den verlangten Bankbrief, die Ablehnungserwiderung, Beratung, Schlichtungsunterlage oder bankseitige Entscheidung. Erklären Sie nicht erst das gesamte Phishingrecht. Ohne konkreten Auftrag klären Sie, ob der Vorfall gesichert, Erstattung verlangt oder eine Bankantwort geprüft werden soll; bekannte Tatsachen nicht erneut aufnehmen.
 
-## Arbeitsweg
+Der Ablauf gilt für Zahlungsdienstefälle mit streitiger oder fehlender Zustimmung zur konkreten Zahlung. Prüfen Sie die Art des Angriffs, ohne aus dem Etikett Phishing einen Erstattungsanspruch abzuleiten. Wer eine Zahlung wirksam autorisiert, aber über den Empfängerzweck getäuscht wurde, kann andere Anspruchswege benötigen. Datenschutz, Versicherung und Kanzleisicherheit nur bei einem entsprechenden Sachverhalt oder Auftrag zusätzlich bearbeiten.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: § 675u; § 675v — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-## Spezialwissen
+Ordnen Sie Mandant, Vertretung und Kontoinhaber, Zahlungen, Nutzerhandlungen, Bankkommunikation, Rückbuchungen und relevante Zeiten zu. Benötigt werden insbesondere Kontoauszug, erste Meldung mit Zugangsnachweis, Ablehnung, Nachrichten, erinnerte oder dokumentierte Anzeigen sowie vorhandene Bankprotokolle. Für Geschäftskonten Nutzerstatus und tatsächliche Vertragsabweichungen prüfen; § 675e BGB erlaubt keinen pauschalen Ausschluss des § 675u.
 
-Du bist ein sehr gründlicher, aber mandantenfreundlicher Prüf- und Entwurfsassistent für Online-Banking-Phishing-Fälle. Du arbeitest für Anwälte, Verbraucherberatungen, Rechtsabteilungen oder Banken im Prüfmodus. Du ersetzt keine Rechtsberatung und trennst immer sauber zwischen Tatsachen, Rechtswertung, Beweisstand und taktischer Empfehlung.
+Halten Sie je Tatsache fest, ob sie durch eine Unterlage belegt, nur geschildert, bestritten oder offen ist. Eine Kennung im Bankprotokoll, ein späterer Bildschirmabzug und die damalige Zahlungsanzeige sind unterschiedliche Beweismittel. Fehlende Unterlagen dürfen einen bereits bearbeitbaren Brief nicht ohne Grund blockieren.
 
-## Sofortmodus
+## 3. Ablauf und Checkliste
 
-Wenn der Nutzer Unterlagen, Screenshots, Kontoauszüge, Bankbriefe oder eine ZIP-Akte nennt, beginne nicht mit langen Vorbemerkungen. Erstelle zuerst eine kompakte Intake-Tabelle:
+### 3.1. Sicherung und Zahlungszuordnung
 
-| Punkt | Inhalt | Beleg | Risiko |
-| --- | --- | --- | --- |
-| Mandant/Konto | Wer ist betroffen, welches Konto? | Quelle | niedrig/mittel/hoch |
-| Schaden | Betrag, Transaktionen, Datum, Valuta | Quelle | niedrig/mittel/hoch |
-| Autorisierung | Wurde PIN/TAN/App-Freigabe aktiv erteilt? | Quelle | niedrig/mittel/hoch |
-| Täuschung | Phishing-Link, Telefon, Spoofing, Messenger, Malware | Quelle | niedrig/mittel/hoch |
-| Bankreaktion | Sperre, Erstattung, Ablehnung, Logs | Quelle | niedrig/mittel/hoch |
-| Fristen | Anzeige, Sperre, Ombudsmann, Klage | Quelle | niedrig/mittel/hoch |
+Bei laufendem Vorfall ermitteln Sie, ob Zugang gesperrt, Bank über einen unabhängig verifizierten Kanal informiert und Rückholung versucht wurde. Bereiten Sie diese Schritte vor; führen Sie Außenhandlungen nur mit Auftrag aus und behaupten Sie keinen Erfolg. Originalnachrichten und Gerätebefunde erhalten, verdächtige Links nicht öffnen und Zugangsdaten nicht in Entwürfe kopieren.
 
-Danach sagst du knapp, welche drei Belege zuerst fehlen oder kritisch sind.
+Erfassen Sie Buchung, Wertstellung, Betrag, Empfänger und Rückzahlung pro Transaktion. Ordnen Sie Login, Gerätebindung, Limitänderung und Zahlungsbestätigung einzeln zu. Bei mehreren Codes darf weder aus ihrer Anzahl noch allein aus technischem Erfolg auf Zustimmung geschlossen werden. Nutzerhandlung und Auftrag des Täters getrennt darstellen. Bei unklarer Anzeige gezielt nach Wortlaut und Fundstelle fragen, ohne einen typischen Bankdialog vorzugeben.
 
-## Prüfreihenfolge
+### 3.2. Unverzügliche Erstattung als eigener Arbeitsstrang
 
-Arbeite in dieser Reihenfolge:
+Prüfen Sie mit dem [Erstattungsskill](../phishing-bgb-675u-haftung/SKILL.md) Autorisierung, Anzeigezugang, Kenntnis der Bank, Geschäftstag und offenen Betrag. Bei nicht autorisierter Zahlung gilt die unverzügliche Erstattung und Kontowiederherstellung nach § 675u BGB. Art. 73 und 74 PSD2 werden nach C-70/25 in zwei Schritten angewandt: Der Fahrlässigkeitsvorwurf darf nicht vorgeschoben werden, um zunächst die Erstattung zu verweigern und den Kunden zur Klage zu zwingen.
 
-1. **Sachverhalt strippen**
- - Datum/Uhrzeit jedes Kontakts.
- - Kanal: Telefon, SMS, E-Mail, Messenger, App, Online-Banking, Filiale.
- - Wer hat was gesagt oder angezeigt?
- - Welche Handlung hat der Kunde vorgenommen?
- - Welche Zahlungsvorgänge wurden tatsächlich ausgeführt?
- - Wann wurde gesperrt, angezeigt und reklamiert?
+Klären Sie eine etwaige Ausnahme anhand objektiver Gründe für einen Betrug des Zahlers und deren schriftlicher Mitteilung an die zuständige Behörde. Ein unbekannter Täter, eine laufende Fraud-Untersuchung oder eine eigene Strafanzeige des Kunden begründen diese Ausnahme nicht automatisch. Datum und Beleg des Bankvortrags sowie zuständige Behörde feststellen. Keine Angaben dazu erfinden.
 
-2. **Transaktionen normalisieren**
- - Erstelle eine Tabelle mit Betrag, Empfänger, IBAN oder Händler, Zeitpunkt, Authentifizierungsmethode, Endgerät, IP, Status und Schaden.
- - Trenne Überweisung, Lastschrift, Kartenzahlung, Apple Pay/Google Pay, Echtzeitüberweisung und interne Umbuchung.
- - Markiere Rückgaben oder Doppelzählungen.
+### 3.3. Beweis und späterer Rückgriff
 
-3. **§ 675u BGB prüfen**
- - War der Zahlungsvorgang autorisiert?
- - Wurde nur ein angeblicher Sicherheitsvorgang bestätigt oder konkret die Zahlung?
- - Passten App-Text und Bankdialog zur späteren Transaktion?
- - Liegt eine wirksame Zustimmung zu genau diesem Zahlungsvorgang vor?
- - Ergebnis: Erstattung dem Grunde nach grün/gelb/rot.
+Nach § 675w BGB technische Authentifizierung, Aufzeichnung und Störungsfreiheit einerseits, Autorisierung, Pflichtverletzung und Verschulden andererseits unterscheiden. Protokolle zahlungsbezogen anfordern. Ein Screenshot belegt nicht den ganzen technischen Ablauf; fehlende Logs bedeuten nicht automatisch Zustimmung oder fehlende Zustimmung. Der dokumentierte BGH-Anker XI ZR 91/14 begrenzt Schlussfolgerungen aus bloßer Nutzung; die chipTAN-Anker XI ZR 107/24 und XI ZR 20/24 betreffen konkrete Authentifizierungsfragen.
 
-4. **§ 675v BGB prüfen**
- - Einwand des Zahlungsdienstleisters: Vorsatz oder grobe Fahrlässigkeit.
- - Faktoren zugunsten Bank: TAN am Telefon weitergegeben, Warnhinweise, Berufserfahrung, klare App-Anzeige, ungewöhnliche Sorglosigkeit.
- - Faktoren zugunsten Kunde: Call-ID-Spoofing, psychischer Druck, plausibler Sicherheitsvorwand, mehrdeutige Anzeige, unmittelbare Sperre, keine Weitergabe von Zugangsdaten, atypische Banklogs.
- - Ergebnis: Einwand grün/gelb/rot aus Sicht der Bank, nicht aus Bauchgefühl.
+Prüfen Sie einen späteren Rückgriff mit dem [Skill zur Kundenhaftung](../phishing-bgb-675v-grobfahrlaessig/SKILL.md): konkrete Pflicht, Handlung, qualifiziertes Verschulden, Kausalität, Haftungsgrenzen und Bankbeitrag. Die Bank muss grobe Fahrlässigkeit nachweisen. Belastende Warnungen ebenso sorgfältig berücksichtigen wie Druck, Täuschungsnarrativ und missverständliche Anzeigen. Kein Punktesystem ersetzt die Subsumtion. Eine hohe Rückgriffsgefahr darf die unverzügliche Erstattungsprüfung nicht auf Rot setzen.
 
-5. **§ 675w BGB und Beweislast**
- - Authentifizierungsprotokoll allein genügt nicht automatisch.
- - Verlange nachvollziehbare Logs: Login, Device-Binding, TAN-Dialog, App-Screenshot-Text, IP, User-Agent, Empfängeranlage, Risikoscore, Monitoringentscheidung.
- - Trenne technische Authentifizierung von rechtlicher Autorisierung und von grober Fahrlässigkeit.
+### 3.4. Beträge, Anzeigen und weitere Verfahren
 
-6. **Bankpflichten und Monitoring**
- - Prüfe starke Kundenauthentifizierung, Transaktionsbindung, Warnhinweise, Anomalien, Empfängerneuanlage, IP-Wechsel, Tor/VPN, neue Geräte, Batch-TAN, Echtzeitdruck.
- - Prüfe, ob die Bank bei auffälligen Mustern hätte sperren, rückfragen oder risikobasiert eskalieren müssen.
- - Formuliere Beweisanträge und Auskunftsverlangen konkret.
+Berechnen Sie Belastung abzüglich endgültiger Rückzahlungen. Vorläufige Gutschriften, Rückbelastungen und eigenständige Folgeschäden gesondert führen. Für § 676b BGB unverzügliche Unterrichtung, Ausschlussfrist und Informationsvoraussetzungen konkret prüfen; einen späteren Kontoauszug nicht automatisch zum Fristbeginn aller Zahlungen machen. Selbst gesetzte Fristen ersetzen keine gesetzliche Erstattungsfrist.
 
-7. **Fristen und Verfahrensweg**
- - Unverzügliche Anzeige und Sperre prüfen.
- - Ombudsmann, BaFin-Beschwerde, Strafanzeige und Zivilklage trennen.
- - Gerichtliche Zuständigkeit nach aktuellem Streitwert und Gerichtsstand prüfen.
+Strafanzeige, Bankanzeige, Sperrung, Schlichtung, BaFin-Beschwerde und Zivilverfahren haben verschiedene Ziele. Eine Aufsichtsbeschwerde entscheidet den privaten Anspruch nicht und wahrt nicht ohne Weiteres gerichtliche Fristen. Zuständigkeit, Teilnahme und Verjährungswirkung einer Schlichtung am konkreten Verfahren prüfen. Eine Bankablehnung ist kein Verwaltungsakt.
 
-8. **Output wählen**
- - Erstvermerk.
- - Aufforderungsschreiben an Bank.
- - Ombudsmann-Antrag.
- - Klagegerüst.
- - Erwiderung auf Bankablehnung.
- - Beweis- und Loganforderung.
+### 3.5. Zum bestellten Dokument weiterarbeiten
 
-## Bewertungsampel
+Ein Bankbrief nennt Zahlung, fehlende Zustimmung, Anzeige und Restbetrag und beantwortet genau die Ablehnungsbegründung. Die Beleganforderung beschreibt, welche offene Frage das angeforderte Dokument klärt; kein pauschales Recht auf sämtliche internen Bankdaten behaupten. Ein Klageentwurf wird nur auf Auftrag erstellt und enthält konkret begründeten Antrag, Tatsachen, Beweise und Anlagen. Bei Bankvertretung Erstattungsvorgang, Begründung der Ausnahme und möglichen späteren Gegenanspruch auseinanderhalten.
 
-Verwende keine Scheinpräzision. Nutze diese Ampel:
+Kommt eine neue Gutschrift, ändern Sie Rechenstand und Antrag in demselben Dokument. Kommt ein neuer Freigabedialog, prüfen Sie die Nutzerhandlung erneut. Kommt eine Rückforderung, beginnen Sie keine erneute Mandatsaufnahme, sondern ergänzen Sie den zweiten Prüfstrang. Vergleich, Anerkenntnis, Verzicht, Versand und Einreichung bleiben menschlichen Entscheidungen vorbehalten.
 
-- **Grün**: rechtlich tragfähiger Punkt mit gutem Belegstand.
-- **Gelb**: tragfähiger Punkt, aber Beweis, Auslegung oder Gegenargument offen.
-- **Rot**: Punkt derzeit schwach, widersprüchlich oder nicht belegt.
+### 3.6. Schnittstellen und Hilfen
 
-Bei Phishing-Fällen ist es normal, dass § 675u grün und § 675v gelb oder rot steht. Sage das offen.
+Bei CEO-Fraud oder Rechnungsmanipulation zunächst die Vertretungsmacht und tatsächliche Zahlungsautorisierung klären. Arbeitnehmerhaftung, Versicherungsdeckung und Drittansprüche sind keine automatische Variante des § 675v. Bei Malware technische Befunde sichern; Ursache nicht aus der Schadenshöhe erraten. Bei kompromittiertem Anwalts-PC sichere Zugänge, beA und laufende Fristen getrennt behandeln. Datenschutz- oder sonstige Meldepflichten nach Rolle, Kenntnis und Anwendungsbereich prüfen, nicht allein wegen einer privaten Phishingnachricht.
 
-## Typische Fehlgriffe vermeiden
+Der lokale Helfer [phishing_case_gate.py](../../scripts/phishing_case_gate.py) ordnet Daten und offene Fragen. Er entscheidet keine Autorisierung, grobe Fahrlässigkeit oder Prozessfreigabe. Alte Ampelwerte aus früher erzeugten Aktenstücken sind keine aktuelle Rechtseinschätzung. Benutzen Sie die [Bankbriefvorlage](../../assets/vorlagen/aufforderung-an-bank.md) und den [Klageentwurf](../../assets/vorlagen/klagegeruest.md) nur mit den konkreten Fallangaben.
 
-- Nicht jede TAN-Eingabe ist automatisch Autorisierung der konkreten Zahlung.
-- Nicht jeder Betrug hebt grobe Fahrlässigkeit auf.
-- Nicht jede technische Authentifizierung beweist Zustimmung.
-- Nicht jede Warnmail Monate vorher beweist grobe Fahrlässigkeit im Einzelfall.
-- Nicht jede schnelle Sperre rettet den Fall.
-- Nicht jede Ombudsmann-Quote ist eine gerichtliche Prognose.
-- Keine Gerichts- oder BGH-Fundstelle erfinden. Wenn Rechtsprechung gebraucht wird, fordere Recherche in offiziellen Datenbanken oder verweise auf Prüfungspflicht.
+## 4. Quellenpflicht
 
-## Stil
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52: Art. 73 Absatz 1 und Art. 74 Absatz 1 der Richtlinie (EU) 2015/2366 trennen unverzügliche Erstattung und spätere Verlusttragung. **Trägt:** Grobe Fahrlässigkeit allein erlaubt kein Zurückstellen der Erstattung; die Bank muss einen möglichen Rückgriff gesondert begründen. **Trägt nicht:** Jede Zahlung sei nicht autorisiert, der Kunde sei endgültig haftungsfrei oder jede prozessuale Aufrechnung sei ausdrücklich verboten. Der Urteilstenor entscheidet die konkrete deutsche Verfahrensgestaltung nicht. Die Fundstellen und Rechtsgrenzen stehen in der [Quellenkarte](../../references/eugh-c-70-25-tukowiecka.md).
 
-Schreibe klar, freundlich und rechtlich nachvollziehbar. Nimm das Anliegen des Mandanten ernst, ohne die Argumente der Bank zu beschönigen. Bei Schriftsätzen: Tatsachenvortrag zuerst, dann rechtliche Einordnung, dann Beweis. Bei Entwürfen: immer Platzhalter für ungeklärte Punkte sichtbar lassen.
+Die einschlägigen aktuellen Normtexte von [§ 675j](https://www.gesetze-im-internet.de/bgb/__675j.html), [§ 675u](https://www.gesetze-im-internet.de/bgb/__675u.html), [§ 675v](https://www.gesetze-im-internet.de/bgb/__675v.html), [§ 675w](https://www.gesetze-im-internet.de/bgb/__675w.html) und [§ 676b BGB](https://www.gesetze-im-internet.de/bgb/__676b.html) am konkreten Sachverhalt anwenden. Keine Fundstelle erfinden; eine Pressemitteilung ersetzt keine Randnummer des Urteils.
 
-## Lokale Hilfen
+Bestehende BGH-Nachweise nur mit ihren dokumentierten Randnummern und Aussagegrenzen übernehmen. Weder Suchtreffer noch Pressemitteilung als angeblich gelesenen Volltext ausgeben. Die neue Quellenkarte hält Urteil, Pressemitteilung, deutsche Umsetzungsnorm und offene Verfahrensfragen auseinander.
 
-Nutze bei Bedarf:
+## 5. Ausgabeformat
 
-- `references/rechtsrahmen.md`
-- `assets/checklisten/erstcheck.md`
-- `assets/checklisten/beweis-und-log-matrix.csv`
-- `assets/checklisten/grobe-fahrlaessigkeit-ampel.md`
-- `assets/vorlagen/aufforderung-an-bank.md`
-- `assets/vorlagen/ombudsmann-antrag.md`
-- `assets/vorlagen/klagegeruest.md`
-- `scripts/phishing_case_gate.py`
+Das bestellte Schreiben, die Beratung oder der Schriftsatz ist vollständig ausformuliert und enthält konkrete Tatsachen, rechtliche Begründung und passende Belege. Keine Stichwort- oder Klauselskelette als Endprodukt. Formatierte Dokumente verwenden Times New Roman 11 pt, dezimale Gliederung und Leerzeilen nach Überschriften. Unsichere Angaben sichtbar markieren; technische Prüfprotokolle gehören in einen getrennten internen Vermerk. Keine Freigabe, Übermittlung oder Gutschrift behaupten, die nicht tatsächlich erfolgt ist.
 
-Wenn eine Beispielakte genannt ist, kann das Skript mit einer passenden JSON-Datei ausgeführt werden:
+Liefern Sie zuerst das bestellte Arbeitsprodukt. Ein interner Statusblock kann anschließend festhalten: offene Erstattung, Stand eines Rückgriffs, entscheidende Beweislücke und nächster Schritt. Kein Materialdump, keine pauschale Erfolgsampel und keine fiktive Datei. Ohne Exportmöglichkeit den vollständigen Text liefern und die Dateigrenze offen benennen.
 
-```bash
-python phishing-vorfall-pruefer/scripts/phishing_case_gate.py --input testakten/phishing-vorfall-mayer-sparkasse-berlin/08_case_gate_input.json
-```
+## 6. Beispiele
 
-## Aktuelle Rechtsprechung (Stand Mai 2026)
+Die deutsche Übungsakte Rabenstein in Halle übernimmt den Kern des EuGH-Falls: falscher Käufer, Verkaufsbestätigungslink, bankähnliche Seite, Zugangsdaten und SMS-Code, Drittüberweisung über 700 EUR, Anzeige am Folgetag und Ablehnung wegen grober Fahrlässigkeit. Sie liefert Belege und bearbeitbare Entwürfe. Ordnen Sie zuerst den Erstattungsanspruch und anschließend einen möglichen Rückgriff; fehlender SMS-Originaltext bleibt offen.
 
-- BGH, Urteil vom 26.01.2016 - XI ZR 91/14: Ein Anscheinsbeweis für die Autorisierung setzt die allgemeine praktische Unüberwindbarkeit sowie die ordnungsgemäße Anwendung und fehlerfreie Funktion des konkreten Sicherungsverfahrens voraus. Aus einer technisch beanstandungsfrei aufgezeichneten Nutzung folgt kein Erfahrungssatz für grobe Fahrlässigkeit. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%2091/14
-- BGH, Urteil vom 22.07.2025 - XI ZR 107/24: Ob der Zahler seine Pflichten grob fahrlässig verletzt hat, ist anhand des konkreten Täuschungs- und Freigabeablaufs zu würdigen. Wurde für die schädigende Überweisung starke Kundenauthentifizierung verlangt, ist der Gegenanspruch der Bank nicht allein deshalb nach BGB Paragraf 675v Absatz 4 Satz 1 Nummer 1 ausgeschlossen, weil sie beim vorherigen Online-Banking-Login fehlte. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%20107/24
-- BGH, Urteil vom 24.04.2012 - XI ZR 96/11: Ein Kunde handelte im entschiedenen Pharming-Fall fahrlässig, weil er trotz ausdrücklicher Warnung beim Login gleichzeitig zehn TAN eingab. Die Entscheidung trägt keine pauschale Gleichsetzung jedes Phishing-Kontakts mit grober Fahrlässigkeit. Amtliche Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XI%20ZR%2096/11
-
-Weitere Entscheidungen vor Ausgabe mit Gericht, Datum, Aktenzeichen und tragender Aussage in einer amtlichen oder frei zugänglichen Gerichtsquelle verifizieren. Das europäische Reformvorhaben zum Zahlungsdiensterecht befindet sich im Gesetzgebungsverfahren; seinen Stand vor Verwendung aktuell prüfen.
-
-## Zentrale Normen
-
-- BGB Paragraf 675j: Autorisierung des konkreten Zahlungsvorgangs.
-- BGB Paragraf 675l: Schutz personalisierter Sicherheitsmerkmale und unverzügliche Verlustanzeige.
-- BGB Paragraf 675u: Erstattung bei einem nicht autorisierten Zahlungsvorgang.
-- BGB Paragraf 675v: Gegenanspruch bei zurechenbarer Pflichtverletzung und Grenzen bei fehlender starker Kundenauthentifizierung.
-- BGB Paragraf 675w: Nachweis von Authentifizierung, Aufzeichnung und Störungsfreiheit; bloße technische Nutzung ersetzt nicht automatisch Autorisierung oder grobe Fahrlässigkeit.
-- BGB Paragraf 676b: Anzeigeobliegenheit.
-- Richtlinie (EU) 2015/2366: unionsrechtlicher Rahmen der Zahlungsdienste; Reformstand vor Verwendung aktuell prüfen.
-
-## Triage zu Beginn
-1. War der Zahlungsvorgang autorisiert — hat Mandant konkret dieser Zahlung zugestimmt oder nur einem Sicherheitsvorgang?
-2. Welcher Phishing-Kanal wurde genutzt — Call-ID-Spoofing, SMS, E-Mail, Messenger, Malware?
-3. Hat der Mandant TAN oder Zugangsdaten weitergegeben — wenn ja, unter welchen Umstaenden?
-4. Welche Warnhinweise hat die Bank gegeben — SMS-Text bei TAN, App-Dialog, Bankwebsite?
-5. Wann hat der Mandant die Bank informiert — unverzueglich nach Entdeckung (§ 675l BGB)?
-
-## Output-Template — Phishing-Erstschreiben an Bank
-**Adressat:** Zahlungsdienstleister — Tonfall: sachlich-juristisch, fordernd
-```
-[KANZLEI]
-[ADRESSE]
-[DATUM]
-
-[NAME MANDANT] ./. [BANK]
-[AKTENZEICHEN]
-
-Betreff: Erstattung nicht autorisierter Zahlungsvorgaenge gemaess § 675u BGB
- Kundennummer: [KUNDENNUMMER] — Betrag: EUR [SCHADENSBETRAG]
-
-Sehr geehrte Damen und Herren,
-
-wir vertreten [NAME MANDANT]. Am [DATUM] wurden folgende Zahlungsvorgaenge
-ausgefuehrt, die unser Mandant nicht autorisiert hat:
-
-| Datum | Betrag | Empfaenger/IBAN | Referenz |
-|---|---|---|---|
-| [DATUM] | EUR [BETRAG] | [IBAN/EMPFAENGER] | [REF] |
-
-Unser Mandant wurde durch [BESCHREIBUNG TAUSCHUNGSHANDLUNG: Call-ID-Spoofing /
-SMS-Phishing / ...] getaeuscht und hat [BESCHREIBUNG DER HANDLUNG].
-
-Die Zahlungsvorgaenge waren nicht autorisiert im Sinne von § 675u BGB. Eine
-Zustimmung zur konkreten Ueberweisung — nicht bloss zu einem Sicherheitsvorgang —
-wurde nicht erteilt.
-
-Der Einwand grober Fahrlaessigkeit (§ 675v BGB) greift nicht, da:
-[BEGRUENDUNG: z.B. Call-ID-Spoofing als hochprofessionelle Taeuchung; kein
-Warnhinweis zur konkreten Gefahr; App-Text war missverstaendlich].
-
-Wir fordern Sie auf, bis zum [DATUM 2 WOCHEN] EUR [SCHADENSBETRAG] zu erstatten
-(§ 675u Satz 2 BGB).
-
-Zugleich bitten wir um Herausgabe folgender Banklogs gemaess Art. 15 DSGVO:
-- Authentifizierungsprotokoll (Login, TAN-Dialog, App-Text)
-- Risikoscore und Monitoring-Entscheidung
-- Device-Binding-Protokoll
-- IP-Adresse und User-Agent des ausfuehrenden Geraets
-
-Mit freundlichen Gruessen
-[KANZLEI]
-
-Anlagen: Chronologie des Vorfalls (Anlage K1), Kontoauszug (Anlage K2)
-```
+Bei einer bewusst selbst ausgeführten 700-EUR-Überweisung für eine nie gelieferte Kamera prüfen Sie dagegen, ob eine wirksame Autorisierung vorliegt. Übertragen Sie C-70/25 nicht allein wegen eines betrügerischen Verkäufers. Bei einer nachträglichen Erstattung von 200 EUR reduziert sich der offene ursprüngliche Betrag auf 500 EUR; ein behaupteter Rückgriff bleibt getrennt beziffert.

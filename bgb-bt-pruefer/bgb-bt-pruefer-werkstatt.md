@@ -92,6 +92,10 @@ Nach Paragrafen 652 folgende BGB Vereinbarung, Nachweis oder Vermittlung, Hauptv
 
 Pflichtenkreis, Produkt oder Gefahrenquelle, Pflichtverletzung, Zurechnung, Kausalität und Schaden getrennt untersuchen. Mitverantwortung, Verjährung und Versicherung nur nach tatsächlichem Fallbezug ergänzen. Beweislast und mögliche Erleichterungen anspruchsbezogen bestimmen, nicht pauschal jede Voraussetzung dem Geschädigten zuweisen. Nach technischen Belegen den betroffenen Haftungsvorwurf und die bezifferte Forderung überarbeiten.
 
+### 7.13. Nicht autorisierte Zahlung
+
+Zustimmung nach Paragraf 675j BGB und Nachweise nach Paragraf 675w BGB vor der Haftungsfolge bestimmen. [EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52: Die Bank muss eine nicht autorisierte Zahlung unverzüglich erstatten, auch wenn sie grobe Fahrlässigkeit behauptet. Erst danach folgt die gesonderte Prüfung endgültiger Verlusttragung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung oder endgültige Haftungsfreiheit. Berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung bleibt die enge Ausnahme. Kein allgemeines Aufrechnungsverbot als EuGH-Tenor behaupten; konkrete Gegenforderung und Vereinbarkeit mit der Erstattungspflicht eigenständig prüfen. Bei deutschem Konto Paragrafen 675u, 675v und 676b BGB anwenden: Kenntniszeitpunkt, Bankanzeige, Erstattung, Rückflüsse und Gegenforderung auseinanderhalten. Das bestellte Bankanschreiben beziffert den offenen Betrag; eine bloße Phishing-Meldung ersetzt den Nachweis fehlender Zustimmung nicht. [Amtlich geprüfte Quellen](references/eugh-c-70-25-erstattung-und-regress.md).
+
 ## 8. Technische Grenzen
 
 Ohne weitere Skills hier weiterarbeiten; ohne Export den Text liefern. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und den ungeprüften Teil benennen, keine vollständige Akten- oder Quellenprüfung behaupten. Neue Fassungen und widersprechende Belege erneut prüfen. Versand, Einreichung und rechtsgestaltende Erklärungen nur nach Freigabe ausführen.

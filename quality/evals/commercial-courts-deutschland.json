@@ -54,7 +54,7 @@
   },
   "schema_version": 1,
   "plugin": "commercial-courts-deutschland",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-16",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/gvg/__119b.html",
@@ -100,6 +100,23 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
       "checked_on": "2026-09-23",
       "supports": "Bestimmter Geheimnisschutz im Zivilprozess mit konkreter Schutzbegründung; Schwärzung ist keine bereits angeordnete Zugangsbeschränkung."
+    },
+    {
+      "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852. Amtlicher deutscher Volltext über InfoCuria, Dokument 328145, Rn. 1–53 gelesen; Rn. 31–34, 38–42, 45–47 und 52 gesondert gegengelesen. Trägt: unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; eng begrenzte Ausnahme bei begründetem Verdacht eines vom Zahler begangenen Betrugs mit schriftlicher Behördenmitteilung; spätere endgültige Verlusttragung gesondert. Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "does_not_support": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+      "source_status": "amtlicher Urteilsvolltext; Pressemitteilung nicht als Urteilsbeleg verwendet"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Unverzügliche Erstattung und Kontowiederherstellung spätestens bis Ende des folgenden Geschäftstags; Kenntnis oder Anzeige sowie begründeter Zahlerbetrugsverdacht mit schriftlicher Behördenmitteilung gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__675v.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Gegenanspruch, schadensursächliche qualifizierte Pflichtverletzung und Haftungsausschlüsse prüfen. Bei Absätzen 4 und 5 ist grobe Fahrlässigkeit kein Ersatz für die dortige Ausnahme betrügerischer Absicht."
     }
   ],
   "mini_review": {
@@ -202,13 +219,47 @@
         "url": "https://eur-lex.europa.eu/legal-content/de/ALL/?uri=CELEX%3A62022CJ0566",
         "application": "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
         "limit": "Volltext Rn. 23 bis 25 und 39 gelesen; nationale Sachgebiets- und Wertgrenzen sowie Landesverordnung und Sprachvereinbarung nicht ersetzt."
+      },
+      {
+        "citation": "EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852, Rn. 31–42, 45–47, 52",
+        "url": "https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE",
+        "application": "Trägt: Im Finance-Banking-Skill die sofortige Erstattung von der späteren Verlusttragung trennen; aus C-70/25 weder Commercial-Court-Zuständigkeit noch eine Verbraucherzuständigkeit ableiten.",
+        "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+        "checked_on": "2026-10-16",
+        "source_status": "amtlicher deutscher Volltext gelesen; Einzelfallübertragung gesondert geprüft"
       }
     ],
     "remaining_limits": [
       "Volltext Rn. 23 bis 25 und 39 gelesen; nationale Sachgebiets- und Wertgrenzen sowie Landesverordnung und Sprachvereinbarung nicht ersetzt.",
       "Landesverordnungen und tatsächliche Einrichtung einzelner Spruchkörper sind fallbezogen erneut zu prüfen; keine bundesweite Standortprüfung.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
-      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 612 ZPO im Anschlussabruf nicht erreichbar; bisherige Quellenprüfung bleibt datiert. Aktuelle Landeszuständigkeit und technische Protokollumsetzung weiterhin fallbezogen zu sichern."
-    ]
+      "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 612 ZPO im Anschlussabruf nicht erreichbar; bisherige Quellenprüfung bleibt datiert. Aktuelle Landeszuständigkeit und technische Protokollumsetzung weiterhin fallbezogen zu sichern.",
+      "2026-10-16: C-70/25 und die ausdrücklich neu datierten BGB-Einzelnormen gezielt geprüft. Kein erneuter Volltextcheck sämtlicher früherer Anker, kein Live-Modelltest."
+    ],
+    "c70_25_followup_on": "2026-10-16"
+  },
+  "c70_25_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_sources_and_text_desk_review",
+    "scope": "Im Finance-Banking-Skill die sofortige Erstattung von der späteren Verlusttragung trennen; aus C-70/25 weder Commercial-Court-Zuständigkeit noch eine Verbraucherzuständigkeit ableiten.",
+    "source_status": "C-70/25 amtlich im Volltext gelesen; neue Normnachweise nur für tatsächlich geöffnete Einzelnormtexte. Historische Quellenbefunde und Einschränkungen bleiben erhalten.",
+    "application": "Trägt: unverzügliche Erstattung und spätere Verlusttragung getrennt; konkrete Anwendung: Im Finance-Banking-Skill die sofortige Erstattung von der späteren Verlusttragung trennen; aus C-70/25 weder Commercial-Court-Zuständigkeit noch eine Verbraucherzuständigkeit ableiten.",
+    "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
+    "files": [
+      {
+        "path": "commercial-courts-deutschland/commercial-courts-deutschland-schnellstart.md",
+        "sha256": "3a7c596759c16e1639997054f9883c6cfa2a614fa88b494c20fc404682561a44"
+      },
+      {
+        "path": "commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md",
+        "sha256": "462e561aa4afc47d769c3274cebf2a8ab1dc1804b4c111c9ec908810d183cdf8"
+      },
+      {
+        "path": "commercial-courts-deutschland/skills/finance-banking-dispute/SKILL.md",
+        "sha256": "f07e0754f9d8a90243880f737c97caf0a7cd439036f665ba6e3143e4ab31333c"
+      }
+    ],
+    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
+    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
   }
 }

@@ -8,6 +8,8 @@ on:
       - '**/.codex-plugin/**'
       - '.github/workflows/compatibility-release.yml'
       - 'scripts/*compatibility*'
+      - 'scripts/*phishing*'
+      - 'phishing-vorfall-pruefer/scripts/**'
       - 'scripts/*runtime-performance*'
       - 'scripts/*quickstart-usability*'
       - 'scripts/*readme*'
@@ -73,6 +75,7 @@ jobs:
           python3 scripts/test-runtime-performance.py
           python3 scripts/test-compatibility-release.py
           python3 scripts/test-scoped-release-routing.py
+          python3 scripts/test-phishing-release.py
           python3 scripts/test-bauvergabe.py
           python3 scripts/test-rechtsabteilung-immobilien.py
           python3 scripts/test-vergaberecht-import.py

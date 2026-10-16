@@ -1,6 +1,6 @@
 # 1. Fachanwalt Bank- und Kapitalmarktrecht: Schnellstart
 
-Lies Vertrag, Kontobelege und Bankantwort und verfasse die bestellte Reklamation, Erwiderung oder Bewertung. Bei bestrittenen Zahlungen Paragrafen 675u, 675v und 675w BGB trennen. BGH, Urteil vom 26.01.2016, XI ZR 91/14, Rn. 18, 19 und 68 bis 81: Ein Erfolgslog ersetzt nicht die Prüfung von Autorisierung, Verfahrenssicherheit und fehlerfreier Anwendung. Kein typischer Schluss auf grobe Fahrlässigkeit; Vollbeweis bleibt möglich. Damalige Absatznummern nicht auf heutiges Zahlungsdiensterecht übertragen. Beratungs-, Kredit- und Aufsichtsaufträge eigenständig bearbeiten.
+Lies Vertrag, Kontobelege und Bankantwort und verfasse Reklamation, Erwiderung oder Bewertung. [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52: Nicht autorisierte Zahlung trotz behaupteter grober Fahrlässigkeit unverzüglich erstatten; späteren Regress gesondert prüfen. Trägt nicht automatische Unautorisiertheit, endgültige Kundenhaftungsfreiheit oder ein allgemeines Aufrechnungsverbot. Paragrafen 675u, 675v und 675w BGB trennen. Ausnahme: berechtigter Betrugsverdacht gegen den Zahler mit schriftlicher Behördenmitteilung. Beratungs-, Kredit- und Aufsichtsaufträge eigenständig bearbeiten.
 
 ## 1.1. Sofortstart nach Eingangslage
 

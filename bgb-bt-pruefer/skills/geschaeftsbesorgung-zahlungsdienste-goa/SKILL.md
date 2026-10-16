@@ -1,75 +1,36 @@
 ---
 name: geschaeftsbesorgung-zahlungsdienste-goa
-description: "Für Geschäftsbesorgung und Zahlungsdienste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: geschaeftsbesorgung-zahlungsdienste-goa."
+description: "Ordnet Geschäftsbesorgung, Auftrag, Geschäftsführung ohne Auftrag und Zahlungsdienste dem passenden Anspruch zu. Erstellt ein fallbezogenes Gutachten oder Schreiben; trennt bei nicht autorisierten Zahlungen die sofortige Erstattung vom späteren Ersatzanspruch."
 ---
 
-# Geschäftsbesorgung und Zahlungsdienste
+# 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Ordnen Sie zunächst Auftrag, Geschäftsbesorgung, Zahlungsdienst und mögliche Geschäftsführung ohne Auftrag der konkret beanstandeten Handlung zu. Für eine nicht autorisierte Kontobelastung vorrangig die besondere Zahlungsdiensteregel prüfen; allgemeine Geschäftsführung oder Bereicherung ersetzt deren Voraussetzungen nicht.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 535-577a, BetrKV, WEG §§ 24, 25, 27, BGB §§ 558, 558a, 558b, 573, 573c — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+# 2. Eingaben
 
-## Fachkern: Geschäftsbesorgung und Zahlungsdienste
-- **Normen-/Quellenanker:** BGB Besonderer Teil: Kaufrecht, Werk-/Dienstvertrag, Auftrag/Geschäftsbesorgung, Miet-/Leasingnähe, GoA, Bereicherung, Delikt, Verjährung und AGB-Schnittstellen.
-- **Entscheidende Weiche:** Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+Lesen Sie Vertrag, Kundenstatus, Belastungsnachweis, Kundendarstellung, Reklamation, Bankantwort, Sperranzeige und vorhandene Freigabeinformationen. Erfassen Sie je Zahlung Betrag, Empfänger, Zeit, Zustimmungshandlung, Kenntnis der Bank und Rückflüsse. Keine PIN oder TAN verlangen. Nur Angaben nachfordern, die die konkrete Anspruchsprüfung oder das bestellte Schreiben verändern.
 
-## Normanker
+# 3. Ablauf und Checkliste
 
-- §§ 675c–676c BGB: Zahlungsdienstrecht (Umsetzung der PSD2)
-- § 675j BGB: Autorisierung von Zahlungsvorgängen
-- § 675u BGB: Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang
-- § 675v BGB: Haftung des Zahlungsdienstnutzers bei unautorisierten Zahlungen
-- § 675w BGB: Nachweis der Autorisierung
-- § 676a BGB: Ausführungsfrist
-- ZAG: Zahlungsdiensteaufsichtsgesetz als öffentlich-rechtlicher Rahmen
+1. Bestimmen Sie die betroffene Leistung und den vereinbarten Zahlungsweg. Bei nicht zahlungsdienstlicher Geschäftsbesorgung deren Vertragspflichten eigenständig prüfen. Kein Mietrechtsraster auf eine Bankreklamation übertragen.
+2. Prüfen Sie Zustimmung nach Paragraf 675j BGB: Anmeldung, Geräteaktivierung und einzelne Zahlungsfreigabe sind verschiedene Vorgänge. Eine bewusst selbst veranlasste Zahlung ist nicht allein wegen Täuschung nicht autorisiert.
+3. Bei nicht autorisierter Zahlung Erstattung und Kontowiederherstellung nach Paragraf 675u BGB unverzüglich, spätestens bis zum Ende des auf Kenntnis oder Anzeige folgenden Geschäftstags prüfen. Angeblich grobe Fahrlässigkeit ist kein selbständiger Ausschluss dieser Pflicht. Die Ausnahme betrifft berechtigten Verdacht betrügerischen Verhaltens des Zahlers mit schriftlicher Mitteilung an die zuständige Behörde.
+4. Nach Paragraf 675w BGB Authentifizierung, Aufzeichnung, Verbuchung, Störungen und unterstützende Bankbeweise prüfen. Ein Erfolgslog allein beweist weder notwendig Zustimmung noch grobe Fahrlässigkeit. Fehlt ein konkreter Freigabetext, genau ihn anfordern und die offenen Tatsachen kenntlich machen.
+5. Einen Schadensersatzanspruch der Bank nach Paragraf 675v BGB gesondert prüfen: Pflicht, Verletzung, subjektiver Vorwurf, Kausalität und Schaden. Haftungsausschlüsse, insbesondere fehlende starke Kundenauthentifizierung und Schäden nach Sperranzeige, vor Betrag und Vergleichsquote behandeln. Keine automatische Verrechnung wegen bloßer Fahrlässigkeitsbehauptung. Eine konkrete Aufrechnung eigenständig prüfen; der EuGH-Tenor enthält kein allgemeines Aufrechnungsverbot.
+6. Nach Paragraf 676b BGB unverzügliche Anzeige nach Feststellung von der Ausschlussfrist unterscheiden. Die 13-Monatsgrenze ist keine Bedenkzeit; ordnungsgemäße Unterrichtung und tatsächlichen Fristbeginn prüfen. Unternehmerabreden nach Paragraf 675e BGB konkret lesen; Absatz 4 nimmt Paragraf 675u nicht allgemein aus. Bei bloß verspäteter Ausführung Paragraf 675s BGB gesondert prüfen, nicht Paragraf 676a als Ausführungsfrist zitieren.
+7. Belastung, endgültige Rückflüsse, vorläufige Gutschriften und Gegenforderungen getrennt rechnen. Bei neuen Belegen Berechnung und rechtliche Begründung im selben Entwurf fortführen. Erstattung nicht als endgültigen Erlass jedes Bankregresses darstellen. Versand und Einreichung nur nach Freigabe.
 
-## Intake
+# 4. Quellenpflicht
 
-- Wurde ein Zahlungsvorgang ohne Autorisierung des Zahlers ausgeführt?
-- Hat der Zahlungsdienstleister die Transaktion ordnungsgemäß ausgeführt?
-- Liegt ein Betrugsfall (Phishing, SIM-Swap) oder ein technischer Fehler vor?
-- Wann wurde der nicht autorisierte Zahlungsvorgang bemerkt und gemeldet?
-- Hat der Zahlungsnutzer grob fahrlässig oder vorsätzlich gehandelt?
+[EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, ECLI:EU:C:2026:852](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47 und 52, amtlicher Volltext am 16. Oktober 2026 gelesen. Trägt: Zweistufigkeit von unverzüglicher Erstattung und nachfolgender endgültiger Verlusttragung. Trägt nicht: automatische Unautorisiertheit jeder Täuschung, genereller Forderungserlass oder ein allgemeines deutsches Aufrechnungsverbot.
 
-## Prüfraster
+[Quellenkarte mit amtlichem Normabgleich](../../references/eugh-c-70-25-erstattung-und-regress.md); [Paragraf 675s BGB](https://www.gesetze-im-internet.de/bgb/__675s.html), am 16. Oktober 2026 geöffnet und gelesen. Weitere Vertrags- und Verjährungsfragen nur anhand konkret einschlägiger, verifizierter Normen beurteilen. Keine Literaturfundstellen aus Modellwissen.
 
-1. Autorisierung nach § 675j BGB: hat der Zahler zugestimmt (ausdrücklich oder konkludent)?
-2. Nicht autorisierter Zahlungsvorgang: Erstattungsanspruch nach § 675u BGB
-3. Haftungsverteilung nach § 675v BGB: grobe Fahrlässigkeit oder Vorsatz des Nutzers?
-4. Nachweis der Autorisierung nach § 675w BGB: beweisrechtliche Stellung des Zahlungsdienstleisters
-5. Korrekte Ausführung: hat Bank richtige IBAN und richtigen Betrag ausgeführt?
-6. Fehlüberweisung: Rückrufverfahren und Schadensersatz
-7. Meldefrist für nicht autorisierte Zahlungen: 13 Monate nach Belastung
-8. Verjährung: § 195 BGB
+# 5. Ausgabeformat
 
-## Fallstricke
+Liefern Sie das verlangte Schreiben oder Gutachten vollständig ausformuliert mit Partei, Zahlung, Rechtsfolge und tragenden Tatsachen; keine bloße Normensammlung oder leeren Klauselrümpfe. Ergänzen Sie nur die erforderliche Zahlungsrechnung und interne Belegnotiz. Formatstandard Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Chat-Ausgabe separaten Exporthinweis verwenden. Nicht autorisierte Zahlung und Bankgegenanspruch müssen im Ergebnis unterscheidbar bleiben.
 
-- Bank muss bei Erstattungsanspruch nach § 675u BGB sofort erstatten, sofern kein Betrugsnachweis.
-- Grobe Fahrlässigkeit des Nutzers (PIN-Weitergabe) schließt Erstattungsanspruch nach § 675v Abs. 3 BGB aus.
-- Nachweis der Autorisierung liegt nach § 675w BGB beim Zahlungsdienstleister.
-- Fehlüberweisung auf falsche IBAN: Bank haftet nur bei eigener Pflichtverletzung.
+# 6. Beispiele
 
-## Stoppschilder
-
-- Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate.
-- Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden.
-- Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-
-## Anschluss-Skills
-
-- geschaeftsbesorgung-auftrag-mandat
-- darlehen-und-finanzierung
-- schnittstelle-bgb-at-methodenlehre-agb
-- workflow-livequellen-rechtsstand
-
-## Quellen
-
-- https://www.gesetze-im-internet.de/bgb/__675.html
-- https://www.gesetze-im-internet.de/bgb/__675c.html
-- https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2366
+Eine Kundin meldet eine von einem Dritten ausgelöste Überweisung. Die Bank hält ihr vor, Zugangsdaten über einen Verkaufslink eingegeben zu haben. Prüfen Sie die unverzügliche Erstattung und anschließend den beweisabhängigen Regress. Behauptet die Bank dagegen, die Kundin habe Betrag und Empfänger bewusst selbst freigegeben, klären Sie diese vorgelagerte Autorisierungsfrage anhand der konkreten Anzeige und Erklärungen; keine der Varianten einfach als bewiesen behandeln.

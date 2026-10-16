@@ -1,33 +1,23 @@
-# Aufforderungsschreiben an die Bank
+# 1. Erstattungsverlangen an den Zahlungsdienstleister
 
-**Betreff:** Nicht autorisierte Zahlungsvorgänge vom [Datum] / Konto [IBAN] / Kunde [Name]
+Arbeitsvorlage: Nur belegte Fallangaben einsetzen; die anwaltliche Vertretung und fehlende Zustimmung nicht ungeprüft behaupten. Formatierter Export: Times New Roman 11 pt. Dieser Hinweis gehört nicht in den versandfertigen Brief.
+
+**Betreff: Nicht autorisierte Zahlung vom [Datum] über [Betrag] EUR – Konto [Kennung]**
 
 Sehr geehrte Damen und Herren,
 
-wir zeigen die anwaltliche Vertretung von [Name] an. Vollmacht wird anwaltlich versichert.
+wir vertreten [Name und Anschrift] in dieser Angelegenheit aufgrund [Vollmachtsnachweis]. Am [Datum] wurde das bezeichnete Konto mit [Betrag] EUR zugunsten von [Empfänger oder gesicherte Kontokennung] belastet. Die Buchung ergibt sich aus Anlage K1. Unser Mandant hat dieser Zahlung nicht zugestimmt. Seine tatsächliche Handlung bestand nach [Beleg oder ausdrücklich gekennzeichneter Schilderung] in [konkreter Handlung]; eine Freigabe der genannten Zahlung wird bestritten.
 
-Am [Datum] wurden zulasten des Kontos unseres Mandanten folgende Zahlungsvorgänge ausgeführt:
+Unser Mandant stellte den Vorgang am [Datum, Uhrzeit] fest und informierte Sie am [Datum, Uhrzeit, Kanal]. Der Zugang ist durch [Nachweis] belegt (Anlage K2). Von der Belastung sind bislang [Betrag] EUR endgültig zurückgezahlt; offen bleiben [Betrag] EUR. Wir verlangen die unverzügliche Erstattung dieses Restbetrags und die geschuldete Wiederherstellung des Kontostands nach § 675u BGB.
 
-| Zeitpunkt | Zahlungsart | Empfänger/Händler | Betrag | Beleg |
-| --- | --- | --- | ---: | --- |
-| [hh:mm] | [Überweisung/Karte/Wallet] | [Name] | [Betrag] | [Anlage] |
+Ihre Ablehnung vom [Datum] stützt sich auf [konkreten Ablehnungsgrund] (Anlage K3). Soweit Sie allein grobe Fahrlässigkeit geltend machen, rechtfertigt dies nicht das Zurückhalten der unverzüglichen Erstattung. Nach EuGH, Urteil vom 15.10.2026, C-70/25, Tukowiecka, Rn. 31–42, 45–47 und 52, sind die sofortige Erstattung und die mögliche spätere Verlusttragung getrennt zu behandeln. Ein etwaiger Rückgriff bedarf eigener Begründung und Prüfung. Ein begründeter Verdacht eines Betrugs unseres Mandanten samt schriftlicher Mitteilung der Gründe an die zuständige Behörde ist nach den vorliegenden Unterlagen [konkreter belegter Stand; nicht pauschal verneinen].
 
-Unser Mandant hat diese Zahlungsvorgänge nicht autorisiert. Er wurde durch [Telefon/SMS/E-Mail/App/sonstiges] unter dem Vorwand [Sicherheitsvorwand] getäuscht. Eine Zustimmung zu den konkreten Zahlungsvorgängen mit den genannten Empfängern und Beträgen lag nicht vor.
+Der gesetzliche Erstattungszeitpunkt richtet sich nach Ihrer Kenntnis beziehungsweise dem Zugang der Anzeige und dem folgenden Geschäftstag. [Konkrete belegte Zeitfolge und gegebenenfalls bereits eingetretene Überschreitung ausformulieren.] Ein erbetener schriftlicher Bearbeitungsstand bis [Datum] verschiebt diese Pflicht nicht.
 
-Wir fordern Sie daher auf, den belasteten Betrag von **[Betrag] EUR** bis zum **[Datum]** zu erstatten.
+Zur Klärung der bestrittenen Autorisierung bitten wir Sie außerdem um [konkret bezeichnetes Zahlungs- oder Anzeigeprotokoll] zur Frage, [welche konkrete Frage es klären soll]. Für Ihre Behauptung [genauer Bankvortrag] benötigen wir [passenden Nachweis]. Technische Nutzung und rechtliche Autorisierung sind nach § 675w BGB zu unterscheiden. Diese Beleganforderung ist keine Zustimmung zu einem Aufschub der Erstattung.
 
-Zugleich fordern wir zur Prüfung Ihrer Einwendungen und zur Vermeidung einer gerichtlichen Auseinandersetzung folgende Unterlagen und Informationen an:
-
-1. vollständige Authentifizierungs- und Autorisierungslogs,
-2. exakter Wortlaut und Layout des Freigabedialogs,
-3. Device-ID, App-Version, Betriebssystem, IP-Adresse und User-Agent,
-4. Empfängeranlage, Limitänderungen und etwaige Sammelfreigaben,
-5. Risikoscore, Monitoringentscheidung und Schwellenwerte,
-6. Nachweis konkreter Sicherheitswarnungen, die unserem Mandanten vorlagen,
-7. Sperr- und Rückholungsprotokolle.
-
-Vorsorglich weisen wir darauf hin, dass der Nachweis einer technischen Authentifizierung nicht ohne Weiteres die rechtliche Autorisierung des konkreten Zahlungsvorgangs oder grobe Fahrlässigkeit belegt.
+Bitte bestätigen Sie den tatsächlichen Erstattungsvorgang und teilen Sie mit, welche belegte Kontokorrektur erfolgt ist.
 
 Mit freundlichen Grüßen
 
-[Kanzlei]
+[Name und Berufsbezeichnung]

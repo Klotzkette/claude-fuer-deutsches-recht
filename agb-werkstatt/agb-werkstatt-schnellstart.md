@@ -1,12 +1,12 @@
 # 1 AGB für das konkrete Geschäft erstellen
 
-Erstellen Sie AGB und Kundeninformationen für das tatsächliche Geschäft: Shop, Reparatur, Handel oder Finanzierung. Paragrafen 305 bis 310 BGB begrenzen die Gestaltung. Für Onlinebestellungen konkretisiert EuGH, Urteil vom 07.04.2022, C-249/21, Fuhrmann-2, die Buttonprüfung nach Paragraf 312j BGB: Die Beschriftung selbst muss die Zahlungspflicht ausdrücken; gute Begleittexte heilen sie nicht. Kein Maßstab für jeden Abschlussweg; Quellenstatus unten beachten.
+Erstellen Sie AGB und Kundeninformationen für Shop, Reparatur, Handel oder Finanzierung nach Paragrafen 305 bis 310 BGB. EuGH, 07.04.2022, C-249/21, Fuhrmann-2: Bei Onlinebestellungen muss der Button selbst die Zahlungspflicht ausdrücken; kein Maßstab für jeden Abschlussweg. Quellenstatus unten.
 
-Lesen Sie Geschäftsunterlagen zuerst und beginnen Sie bei klarem Auftrag direkt mit dem Entwurf. Sonst klären Sie Angebot, Kundenkreis, Abschlussweg und gewünschte Interessenrichtung, soweit offen. Zwingende Rechte bleiben unberührt.
+Lesen Sie Unterlagen zuerst und beginnen Sie bei klarem Auftrag mit dem Entwurf. Sonst nur offene Angaben zu Angebot, Kundenkreis, Abschlussweg und Interessenrichtung klären. Zwingende Rechte wahren.
 
 ## 2 Geschäft und Abschluss klären
 
-Ermitteln Sie Anbieter, Leistung, Kundenkreis, Absatzländer, Vertragsdatum, Preislogik und tatsächlichen Annahmezeitpunkt aus Belegen. Verbraucherstatus richtet sich nicht allein nach einer Checkbox. Trennen Sie B2C und B2B sowie neue und bestehende Verträge. Fragen Sie gezielt nach einer entscheidenden Lücke; bereits geklärte Angaben nicht erneut verlangen. Bieten Sie bei einer echten Wahl zwei konkrete Fassungen mit Folgen an.
+Ermitteln Sie Anbieter, Leistung, Kundenkreis, Absatzländer, Vertragsdatum, Preislogik und tatsächlichen Annahmezeitpunkt aus Belegen. Verbraucherstatus richtet sich nicht allein nach einer Checkbox. Trennen Sie B2C und B2B sowie neue und bestehende Verträge. Nur entscheidende Lücken fragen; Bekanntes übernehmen. Bieten Sie bei einer echten Wahl zwei konkrete Fassungen mit Folgen an.
 
 Paragrafen 305 bis 310 BGB: AGB-Eigenschaft, Einbeziehung vor Vertragsschluss, Vorrang ausgehandelter Abreden, überraschende Klauseln, Transparenz und Inhaltskontrolle. Unterschrift macht einen Formulartext nicht ausgehandelt. Bei B2B Paragraf 310 Absatz 1 beachten. Keine geltungserhaltende Reduktion unwirksamer Bedingungen.
 
@@ -22,11 +22,13 @@ Laden und Händlergeschäft: Freiwilligen Umtausch von Widerruf und Mängelrecht
 
 Bank und Kredit: Giro, Sparen, Zahlungsdienst und Darlehen auseinanderhalten. Entgelt für Hauptleistung, echte Zusatzleistung und eigenen Bearbeitungsaufwand getrennt prüfen. Änderungsangebot und tatsächliche Zustimmung belegen. Bei Erstattung Saldoanerkenntnisse, Kenntnis und Verjährung einzeln untersuchen. Bei Darlehen Rollen, Zins, Gebühren, Pflichtinformationen, Widerruf, Sicherheiten und vorzeitige Rückzahlung nach Paragrafen 488, 491 ff., 502, 506 BGB und Artikel 247 EGBGB abstimmen. Händlerfinanzierung und fremden Kreditvertrag nicht vermischen.
 
+Zahlungsbedingungen: [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52, trägt unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; späteren Regress trennen. Keine Warteklausel bis zur Fahrlässigkeitsprüfung. Trägt nicht ein Urteil über sämtliche Bankklauseln oder ein allgemeines Aufrechnungsverbot.
+
 Haftung: Personenschäden, Vorsatz, grobes Verschulden und zwingende Produkthaftung nicht pauschal ausschließen. Wesentliche Vertragspflichten und vorhersehbare Schäden konkret einordnen. Gewährleistung, Garantie und Verjährung trennen; Paragraf 476 BGB verlangt gegebenenfalls besondere Information und gesonderte Vereinbarung.
 
 ## 4 Rechtsprechung konkret einsetzen
 
-Prüfen Sie die folgenden Ausgangsanker und spätere Entscheidungen anhand zugänglicher Volltexte. Vertragsart und Klauselwortlaut müssen passen. Ausgangsstand: 9. Oktober 2026, kein Vollständigkeitsversprechen.
+Prüfen Sie Anker und Folgeentscheidungen im zugänglichen Volltext; Vertragsart und Klauselwortlaut müssen passen. Ausgangsstand: 9. Oktober 2026, kein Vollständigkeitsversprechen.
 
 1. EuGH, 7. April 2022, C-249/21, Fuhrmann-2: Die Zahlungspflicht muss sich eindeutig aus der Buttonbeschriftung ergeben, nicht erst aus Umgebungstext. Amtlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0249
 2. BGH, 27. April 2021, XI ZR 26/20: Unbeschränkte Bank-Änderungsfiktion unwirksam; keine pauschale Heilung durch Schweigen. BGH, 3. Juni 2025, XI ZR 45/24: Saldoanerkenntnis und Kenntnis für individuelle Rückforderungen und Verjährung gesondert prüfen.
@@ -41,6 +43,6 @@ Prüfen Sie die folgenden Ausgangsanker und spätere Entscheidungen anhand zugä
 
 Erstellen Sie vollständige AGB, gesonderte Pflichtinformationen und die nötigen Bestell-, Auftrags- oder Einführungstexte. Prüfen Sie laufende Verträge zusätzlich auf Preisänderung, Paragraf 309 Nummer 9 BGB und Kündigung. Unzulässige Mandantenwünsche kurz erklären und eine konkrete zulässige Alternative liefern.
 
-Nach Antworten die betroffenen Klauseln überarbeiten, nicht erneut bei null anfangen. Fehlende Belege nicht erfinden; andere Teile fertigstellen und die verbleibende Sperre genau benennen. Scheitert eine Recherche, nach einem alternativen Zugriff den benötigten Nachweis anfordern, statt endlos zu wiederholen. Quellenstatus ehrlich als Volltext, Leitsatz, Pressemitteilung oder ungeprüft kennzeichnen. Keine erfundenen Fundstellen.
+Nach Antworten betroffene Klauseln überarbeiten; nicht neu beginnen. Fehlende Belege nicht erfinden; andere Teile fertigstellen und die verbleibende Sperre genau benennen. Scheitert eine Recherche, nach einem alternativen Zugriff den benötigten Nachweis anfordern, statt endlos zu wiederholen. Quellenstatus ehrlich als Volltext, Leitsatz, Pressemitteilung oder ungeprüft kennzeichnen. Keine erfundenen Fundstellen.
 
 Kundentext und internen Prüfvermerk trennen. Vollständige Sätze, dezimale Gliederung, bei formatierten Dokumenten Times New Roman 11 pt. Abschließend auf widersprechende Fristen, Preise, Definitionen und Einbeziehungswege prüfen. Keine Garantie „rechtssicher“. Veröffentlichung und Versand nur nach konkreter Freigabe und mit tatsächlich vorhandenem Zugang.
