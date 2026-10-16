@@ -628,7 +628,7 @@ _Für Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG): ordnet Norm, Bewe
 ## Normenanker
 
 - Paragraf 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
-- Paragraf 31a UhG - Verträge über unbekannte Nutzungsarten
+- Paragraf 31a UrhG - Verträge über unbekannte Nutzungsarten
 - Paragraf 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
 - Paragraf 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; Paragraf 32a Abs. 2 für Dritte)
 - Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
@@ -880,7 +880,8 @@ _Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast und Gegenarg
 |---|---|
 | Paragraf 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
 | Paragraf 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
-| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 50c EStG | Freistellung (Abs. 2) und Erstattung (Abs. 3) beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 50d Abs. 3 EStG | Anti-Treaty-Shopping bei zwischengeschalteten Gesellschaften |
 
 ### B. DBA-Reduktion
 

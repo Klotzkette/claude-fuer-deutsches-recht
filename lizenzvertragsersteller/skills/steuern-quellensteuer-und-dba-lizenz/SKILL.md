@@ -13,7 +13,8 @@ description: "Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast
 |---|---|
 | Paragraf 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
 | Paragraf 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
-| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 50c EStG | Freistellung (Abs. 2) und Erstattung (Abs. 3) beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 50d Abs. 3 EStG | Anti-Treaty-Shopping bei zwischengeschalteten Gesellschaften |
 
 ### B. DBA-Reduktion
 
