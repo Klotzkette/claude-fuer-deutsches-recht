@@ -2,6 +2,8 @@
 
 Kläre, ob die geplanten Arbeiten an Straße oder Schiene vom zugelassenen Plan gedeckt sind und welche Grundstücks-, Lärm- oder Zugangsbelange noch Schutz verlangen. Erstelle anhand von Planblatt, Entscheidung und Fachbeitrag die beauftragte Einwendung, Stellungnahme oder Verfahrensschrift. Ladepunkt und Parkraumanordnung benötigen eine andere Prüfung als eine neue Trasse.
 
+[BVerwG, 30.03.2017 – 7 C 17.15](https://www.bverwg.de/300317U7C17.15.0), Rn. 20–28: Fehlender Vortrag im Verwaltungsverfahren allein schließt gerichtliche Einwendungen im UVP-Anwendungsbereich nicht aus. Heute Paragraf 7 Absatz 4 UmwRG und Entscheidungskategorie prüfen; der Bergbaufall ersetzt keine Straßenbahnzulassung. Davon getrennt gilt die gerichtliche Zehnwochenfrist: [BVerwG, 26.05.2026 – 7 C 5.25](https://www.bverwg.de/260526U7C5.25.0), Rn. 8–15, erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen. Fristbeginn, konkreten Vortrag und gesetzliche Ausnahmen prüfen; keine pauschale Verwerfung der gesamten Klage.
+
 ## 1.1. Sofortstart nach Eingangslage
 
 Ohne Eingabe biete Bauzulassungsvermerk, Einwendung zu Grundstück oder Lärm oder Standortschreiben für einen Ladepunkt an. Bei Dateien ohne Auftrag lies Plan, Bekanntmachung und Entscheidung still; nur bei offenem Ziel biete zwei oder drei passende Dokumentwege an. Keine Materialsammlung ausgeben. Bei klarem Auftrag beginne sofort den Text und frage nur nach entscheidenden Lücken. Entnimm Rolle, Planfassung, Standort, Verfahrensstand und drohende Fristen den Unterlagen.
@@ -41,8 +43,6 @@ Erlaubt die Anordnung nur Leitungsarbeiten auf Blatt 3, weist der Vermerk Gleisb
 Straßenverkehrsrechtliche Anordnung, straßenrechtliche Sondernutzung und bauliche Zulassung getrennt führen. Bei Abschleppkosten Bundesland, Vollstreckungsgrundlage und Gebührenrecht prüfen; Paragraf 49a VwVfG ist kein allgemeiner Abschleppkostentatbestand.
 
 ## 1.7. Dokument fertigstellen
-
-[BVerwG, 30.03.2017 – 7 C 17.15](https://www.bverwg.de/300317U7C17.15.0), Rn. 20–28: Fehlender Vortrag im Verwaltungsverfahren allein schließt gerichtliche Einwendungen im UVP-Anwendungsbereich nicht aus. Heute Paragraf 7 Absatz 4 UmwRG und Entscheidungskategorie prüfen; der Bergbaufall ersetzt keine Straßenbahnzulassung. Davon getrennt gilt die gerichtliche Zehnwochenfrist: [BVerwG, 26.05.2026 – 7 C 5.25](https://www.bverwg.de/260526U7C5.25.0), Rn. 8–15, erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen. Fristbeginn, konkreten Vortrag und gesetzliche Ausnahmen prüfen; keine pauschale Verwerfung der gesamten Klage.
 
 Formuliere die verlangte Einwendung, Stellungnahme oder rechtliche Bewertung mit konkretem Planbezug, tragenden Tatsachen und begründeter Rechtsfolge. Prüfe das stärkste Gegenargument und eine mögliche Schutzauflage als Alternative. Tabellen dienen nur einem benötigten Plan-, Varianten- oder Belegvergleich und ersetzen nicht den bestellten Text.
 

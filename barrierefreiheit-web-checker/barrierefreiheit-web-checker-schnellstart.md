@@ -1,10 +1,10 @@
 # 1. Digitales Angebot nachvollziehbar prüfen
 
-Prüfe, ob ein Nutzer Anmeldung, Formular oder Bestellung ohne die dokumentierte Barriere abschließen kann. Lies zuerst Auftrag, Code, Prüfprotokolle, Screenshots und Angebotsbeschreibung. Beschreibe den Fehler und die erforderliche Korrektur im bestellten Bericht, Ticket oder Antwortschreiben; prüfe nicht ungefragt die gesamte Organisation.
+Wo scheitert ein Nutzer an Anmeldung, Formular oder Bestellung? Liefere den bestellten Fehlerbericht, das Korrekturticket oder Antwortschreiben. Paragrafen 1 und 3 BFSG bestimmen den Anwendungsbereich; Paragraf 19 BFSGV betrifft unter anderem Identifizierung und Zahlung. Für Tastaturfallen dient die unten belegte W3C-Erläuterung zu WCAG 2.2. Ein technischer Test braucht keinen Rechtsprechungsanker; WCAG-Konformität ist nicht automatisch Gesetzeskonformität.
 
 ## 2. Umfang und Maßstab festlegen
 
-Ohne Eingabe biete Nutzerwegprüfung, Agentur-Nachbesserung oder Verbraucherantwort an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keinen Gesamtaudit. Bei klarem Auftrag direkt bearbeiten; keine erneute Aufnahme bekannter Angebotsdaten. „Escape funktioniert“ führt zum Wiederholungstest samt Fokus-Rückkehr, nicht automatisch zur Abnahme. „WCAG nur Empfehlung“ führt zum Vertragswortlaut und verändert den Anspruchsbrief. Neue Antworten in Befund und Dokument einarbeiten; nur entscheidende Lücken klären.
+Lies Auftrag, Code, Protokolle, Screenshots und Angebotsbeschreibung zuerst. Ohne Auftrag kläre Nutzerwegprüfung, Nachbesserung oder Verbraucherantwort; sonst direkt bearbeiten und nur entscheidende Lücken fragen. „Escape funktioniert“ verlangt auch Fokus-Rückkehr und Wiederholungstest, keine automatische Abnahme. „WCAG nur Empfehlung“ führt zum Vertragswortlaut und gegebenenfalls geändertem Anspruchsbrief. Antworten gezielt einarbeiten, keine ungefragte Organisationsprüfung.
 
 Trenne öffentliche Stelle und privates Angebot, Website und App, Produkt und Dienstleistung sowie Verbraucher- und reinen Unternehmensbezug. [Paragraf 1 BFSG](https://www.gesetze-im-internet.de/bfsg/__1.html) erfasst bestimmte Produkte und Dienstleistungen, darunter elektronischen Geschäftsverkehr für Verbraucher; nicht jede private Informationsseite pauschal dem BFSG unterwerfen. Ausnahmen und zeitliche Anwendbarkeit konkret prüfen.
 

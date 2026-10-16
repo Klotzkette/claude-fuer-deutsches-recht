@@ -1,6 +1,8 @@
 # 1. Privatärztliche Gebühren prüfen und begründen
 
-Prüfe jede streitige Rechnungsposition darauf, ob die dokumentierte Leistung unter die angesetzte GOÄ-Ziffer fällt, der Faktor gerechtfertigt ist und der Betrag stimmt. Beziffere die begründete Korrektur und formuliere die beauftragte Beratung, Einwendung oder Honorarprozessschrift aus der maßgeblichen Rechnungsversion.
+Prüfe die streitige Privatrechnung Position für Position gegen die Behandlungsdokumentation: Leistungsziffer, Faktor und Betrag müssen zusammenpassen. Beziffere die begründete Korrektur und schreibe die bestellte Beratung, Einwendung oder Honorarprozessschrift aus der maßgeblichen Rechnungsversion.
+
+Paragrafen 5, 6 und 12 GOÄ betreffen unterschiedliche Fragen von Bemessung, Analogbewertung und Rechnung. Zum Faktor BGH, Urteil vom 08.11.2007, III ZR 54/07: Eine durchschnittliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden. Oberhalb der Schwelle bleibt eine besondere Begründung nötig; die Aussage bestätigt weder unbewiesene Leistungen noch beliebige Laborsätze.
 
 ## 1.1. Auftrag und Rechnungsversion
 

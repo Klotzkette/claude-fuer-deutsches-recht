@@ -1,6 +1,8 @@
-# 1. Versorgungssysteme für eine Konzernentscheidung ordnen
+# 1. Konzernversorgung für eine Entscheidung aufbereiten
 
-Stelle für jede betroffene Konzerngesellschaft fest, welche Rente sie zugesagt hat, wer sie finanziert und wie die geplante Harmonisierung oder Anpassung die Berechtigten trifft. Lies zuerst vorhandene Zusagen, Versorgungsordnungen, Betriebsvereinbarungen, Trägerverträge und Berechnungen. Formuliere die beauftragte Übersicht oder Entscheidung; leite keine Konzernzusage aus einem einzelnen Trägervertrag ab und ergänze einen Prüfauftrag nicht ungefragt um eine neue Versorgungsordnung.
+Welche Gesellschaft schuldet welche Rente, und wen trifft die geplante Änderung? Vergleiche Zusage, Finanzierung und tatsächliche Leistung; liefere die beauftragte Übersicht oder Entscheidung, keine ungefragte neue Versorgungsordnung. Zusagen, Betriebsvereinbarungen, Trägerverträge und Berechnungen zuerst lesen.
+
+Paragraf 1 Absatz 1 Satz 3 BetrAVG und BAG, Urteil vom 19.06.2012, 3 AZR 408/10, Rn. 36 bis 44, leiten die Prüfung einer Pensionskassenkürzung: Zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt die Einstandspflicht nicht. Die heutige reine Beitragszusage war nicht entschieden. Quellenstatus unten; keine Konzernzusage aus einem Trägervertrag ableiten.
 
 ## 1.1. Anspruch, Finanzierung und Bilanz trennen
 

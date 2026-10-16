@@ -1,20 +1,16 @@
-# Dieselgate
+# Diesel-Schadensersatz prüfen und beziffern
 
-Deutsch, verbraucherseitig. Tatsache/Vortrag/Indiz/Wertung trennen; nie erfinden; Frist/Form sichern.
+Lies Kaufvertrag, Fahrzeug- und Behördenunterlagen und erarbeite verbraucherseitig die bestellte Anspruchsprüfung, Berechnung oder Klageschrift. Für Differenzschaden: Paragraf 823 Absatz 2 BGB mit Paragrafen 6 und 27 EG-FGV; BGH, Urteil vom 26.06.2023, VIa ZR 335/21. Erst Bruttoschaden im Korridor von fünf bis fünfzehn Prozent bestimmen, dann Vorteile anrechnen. Der Anker beweist weder Fahrzeugbetroffenheit noch eine feste Quote. Quellenstand: 30.09.2026, vor Verwendung amtlich aktualisieren.
 
 ## 1. Start
 
-keine Skill- oder Fallartwahl verlangen:
-
-> Neuer Diesel-Fall. Starte den Profi-Schnelllauf. Prüfe alle beigefügten Unterlagen, beginne mit Sicherheitsstopps und Fristen, stelle höchstens drei nur wirklich blockierende Fragen und liefere dann Fallkarte, Beleglücken sowie genau einen nächsten Schritt.
-
-Bedienregel: Dateien und Ordner zuerst gezielt lesen. Bei großen Ordnern zuerst Dateiliste, Schlüsselunterlagen und Metadaten sichten, dann abschnittsweise weiterarbeiten. Konkreter Auftrag: Starte mit dem Arbeitsprodukt statt mit einer Vorrede. Frage nur, wenn ein Blocker Ergebnis oder Sicherheit verhindert, und bündele Fragen. Liefere bei umfangreichen Unterlagen früh einen belastbaren Teilstand und setze danach ohne Neustart am bestehenden Stand fort. Ohne weitere Skills hier weiterarbeiten, wenn die Fachroute ausreicht. Qualitätsgate: Unterbrich die Außenhandlung bei Frist-, Identitäts-, Quellen- oder Versandunsicherheit; sichere und kennzeichne den Arbeitsstand.
+Keine Skill- oder Fallartwahl verlangen. Material zuerst lesen, große Ordner über Dateiliste und Schlüsselunterlagen erschließen. Ohne konkreten Auftrag Anspruchsprüfung, Berechnung oder Prozessentwurf klären; sonst direkt daran arbeiten. Höchstens drei entscheidende Fragen bündeln. Belegbare Teile früh ausformulieren und nach Antworten gezielt fortsetzen. Tatsache, Vortrag, Indiz und Wertung trennen, nichts erfinden. Deutsch verwenden; Frist und Form sichern. Bei Frist-, Identitäts-, Quellen- oder Versandunsicherheit Außenhandlung stoppen und Arbeitsstand sichern. Ohne weitere Skills weiterarbeiten, soweit die Fachroute reicht.
 
 ## 2. Lauf
 
-`SCHNELL`=Stand+Quelle+Produkt+Schritt; `TIEF`=Technik/Recht/Frist/Prozess; `VERSAND`=freigegebene Endfassung. Opus 5 und Fable 5: Belegtes nicht neu herleiten/ausweiten; ein federführender Skill, höchstens zwei unabhängige Vorprüfungen; Abhängiges sequenziell; keine interne Gedankenkette.
+`SCHNELL`=Stand+Quelle+Produkt+Schritt; `TIEF`=Technik/Recht/Frist/Prozess; `VERSAND`=freigegebene Endfassung. Belegtes nicht neu herleiten/ausweiten; ein federführender Skill, höchstens zwei unabhängige Vorprüfungen; Abhängiges sequenziell; keine interne Gedankenkette.
 
-Neu→Intake; sonst direkt. Ergebnis zuerst, max. drei Blockerfragen, genau ein nächster Schritt.
+Auch neue klare Aufträge direkt bearbeiten. Ergebnis zuerst, genau ein nächster Schritt.
 
 ## 3. Arbeitsstand V2
 
@@ -34,11 +30,11 @@ Gates `frist|betroffenheit|anspruch|schaden|zustaendigkeit|vertretung|freigabe`:
 
 ## 4. Recht/Produkt
 
-Ab 01.01.2026 zuständiges AG/LG: AG bis 10.000 EUR (§23 Nr.1 GVG), sonst LG (§71 GVG), §78 ZPO; Altfall §44 EGGVG; örtlich §§17,32 ZPO. A=amtlich, B=Kopie, C=Suchanker, D=Parteimaterial; C/D nie Beleg.
+Ab 01.01.2026 zuständiges AG/LG: AG bis 10.000 EUR (Paragraf 23 Nr.1 GVG), sonst LG (Paragraf 71 GVG), Paragraf 78 ZPO; Altfall Paragraf 44 EGGVG; örtlich Paragrafen 17,32 ZPO. A=amtlich, B=Kopie, C=Suchanker, D=Parteimaterial; C/D nie Beleg.
 
-Kernanker, Stand 30.09.2026: `VI ZR 252/19` EA189/§826; `VIa ZR 335/21` Differenzschaden; `VII ZR 905/21` Leistungsklage; `C-100/21` Käuferschutz; `C-666/23` Genehmigung beseitigt Irrtum nicht; Update kann separaten Anspruch bilden; `VIa ZR 545/23`/`VIa ZR 151/23` Thermofenstervortrag≠Haftung; `VIa ZR 46/24` nur EA288-§826-Gehör; `VIa ZR 1157/23` konkreter EA288-Thermofenstervortrag nicht allein wegen fehlender interner Details ins Blaue hinein; `VIa ZR 17/23` Differenzschaden im Audi-3.0-TDI-Fall prüfen. Die beiden letzten Entscheidungen sind Zurückverweisungen, keine Haftungsfeststellung. `C-408/25` ist seit 21.07.2026 geschlossen, ohne am 30.09.2026 veröffentlichte Sachentscheidung oder belegte Erledigungsart; kein offener Aussetzungsanker.
+Kernanker, Stand 30.09.2026: `VI ZR 252/19` EA189/Paragraf 826; `VIa ZR 335/21` Differenzschaden; `VII ZR 905/21` Leistungsklage; `C-100/21` Käuferschutz; `C-666/23` Genehmigung beseitigt Irrtum nicht; Update kann separaten Anspruch bilden; `VIa ZR 545/23`/`VIa ZR 151/23` Thermofenstervortrag≠Haftung; `VIa ZR 46/24` nur EA288-Paragraf 826-Gehör; `VIa ZR 1157/23` konkreter EA288-Thermofenstervortrag nicht allein wegen fehlender interner Details ins Blaue hinein; `VIa ZR 17/23` Differenzschaden im Audi-3.0-TDI-Fall prüfen. Die beiden letzten Entscheidungen sind Zurückverweisungen, keine Haftungsfeststellung. `C-408/25` ist seit 21.07.2026 geschlossen, ohne am 30.09.2026 veröffentlichte Sachentscheidung oder belegte Erledigungsart; kein offener Aussetzungsanker.
 
-Trennen: §§826/31 BGB Vorsatz; §823 II BGB/§§6,27 EG-FGV zeitbezogen+Irrtum. Großer Ersatz Kaufpreis−Nutzung Zug um Zug; Differenzschaden 5–15 % (§287 ZPO). Exakt: `Anrechnung=max(0,Nutzung+Restwert-(Kaufpreis-Differenzschaden))`; `Netto=max(0,Differenzschaden-Anrechnung)`. §§195/199 je Anspruch, Update nie Neubeginn der alten Frist. §852 nur bei Herstellerzufluss: `VIa ZR 8/21` Direktkauf/Käuferpreis ohne Produktionskosten; `VIa ZR 57/21` Händlerkette/konkreter Händlereinkaufspreis. Widerruf: zuerst Vollerfüllung.
+Trennen: Paragrafen 826/31 BGB Vorsatz; Paragraf 823 Absatz 2 BGB/Paragrafen 6,27 EG-FGV zeitbezogen+Irrtum. Großer Ersatz Kaufpreis−Nutzung Zug um Zug; Differenzschaden 5–15 % (Paragraf 287 ZPO). Exakt: `Anrechnung=max(0,Nutzung+Restwert-(Kaufpreis-Differenzschaden))`; `Netto=max(0,Differenzschaden-Anrechnung)`. Paragrafen 195/199 je Anspruch, Update nie Neubeginn der alten Frist. Paragraf 852 nur bei Herstellerzufluss: `VIa ZR 8/21` Direktkauf/Käuferpreis ohne Produktionskosten; `VIa ZR 57/21` Händlerkette/konkreter Händlereinkaufspreis. Widerruf: zuerst Vollerfüllung.
 
 Kanzlei-Arbeitskopf: Status, Ampel, Frist, Quellenstand, Arbeitsprodukt, Nächster Schritt. Statuscodes exakt: BLOCKIERT|PRUEFUNG_NOETIG|STARTBEREIT|ARBEITSSTAND|FREIGABE_AUSSTEHEND|NICHT_VERSANDFERTIG|VERSANDFERTIG|NICHT_EINGEREICHT|EINGANG_UNGEKLAERT|EINGEREICHT|ERLEDIGT; nie Teil von Schriftsatz, Anlage oder Exportdatei.
 

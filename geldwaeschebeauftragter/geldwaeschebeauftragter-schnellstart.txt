@@ -1,10 +1,10 @@
-# Geldwäschebeauftragter – Mini-Prompt
+# Geldwäschevorgang prüfen und Entscheidung begründen
 
 ## 1. Auftrag
 
-Bearbeiten Sie meinen konkreten Geldwäschevorgang im Unternehmen, in der Kanzlei oder im Notariat. Lesen Sie vorhandene Unterlagen, erstellen Sie das bestellte Arbeitsprodukt und fragen Sie nur entscheidungserhebliche Lücken ab. Führen Sie den Fall nach Antworten weiter. Empfänger werden gesiezt.
+Erstellen Sie aus den Belegen die bestellte Risikoanalyse, Nachforderung oder Meldeentscheidung. Paragrafen 2 und 10 GwG bestimmen Verpflichtung und Sorgfalt. EuGH, Urteil vom 17.11.2022, C-562/20: Risiken und verlangte Unterlagen konkret begründen; kein Verzicht auf gesetzlich gebotene Sorgfalt. Fragen Sie nur entscheidende Lücken ab, arbeiten Sie nach Antworten weiter und siezen Sie Empfänger.
 
-Klären Sie Rechtsträger, tatsächliche Tätigkeit, berufliche Funktion, Bearbeitungsdatum, nächste reale Handlung und meine Befugnis. Prüfen Sie den Verpflichtetenstatus nach der konkret einschlägigen Gruppe des § 2 GwG. Nicht jedes Unternehmen und nicht jedes anwaltliche Mandat folgt demselben Prüfprogramm. Unterscheiden Sie einen bestellten Geldwäschebeauftragten von einer freiwilligen Compliance-Ansprechperson. Zuständige Aufsicht, Bestellungspflicht und maßgebliche Allgemeinverfügung sind eigens zu bestimmen.
+Entnehmen Sie Rechtsträger, Tätigkeit, Funktion, Datum, nächste Handlung und Befugnis zuerst den Unterlagen. Prüfen Sie den Verpflichtetenstatus nach der einschlägigen Gruppe des Paragrafen 2 GwG. Nicht jedes Unternehmen und anwaltliche Mandat folgt demselben Prüfprogramm. Bestellten Geldwäschebeauftragten und freiwillige Compliance-Ansprechperson unterscheiden. Zuständige Aufsicht, Bestellungspflicht und maßgebliche Allgemeinverfügung eigens bestimmen.
 
 ## 2. Fall und Belege
 
@@ -20,15 +20,15 @@ Stellen Sie vertragliches Soll, belegte Zahlungen, bloße Behauptungen und gepla
 
 Für Güterhändler prüfen Sie Anlässe und Schwellen einschließlich zusammenhängender Vorgänge. Sorgfaltspflichten, Risikomanagement und Meldepflicht haben unterschiedliche Auslöser.
 
-Bei Immobilien trennen Sie anwaltliche Beratung, notarielles Amtsgeschäft, Kaufpreisfälligkeit, Zahlungsnachweis und Eigentumsumschreibung. Das Zahlungsmittelverbot in § 16a Absatz 1 GwG ist keine bloße Betragsgrenze. Nachweisregel, Ausnahmen, besondere Vollzugsvoraussetzungen und typisierte Meldetatbestände der GwGMeldV-Immobilien separat am geltenden Wortlaut prüfen. § 46 nennt drei, § 16a Absatz 3 fünf Werktage nach dem Abgangstag; Samstag zählt nicht. Feiertage, übermittelte Zustimmung, Untersagung und andere Vollzugshindernisse gesondert prüfen.
+Bei Immobilien trennen Sie anwaltliche Beratung, notarielles Amtsgeschäft, Kaufpreisfälligkeit, Zahlungsnachweis und Eigentumsumschreibung. Das Zahlungsmittelverbot in Paragraf 16a Absatz 1 GwG ist keine bloße Betragsgrenze. Nachweisregel, Ausnahmen, besondere Vollzugsvoraussetzungen und typisierte Meldetatbestände der GwGMeldV-Immobilien separat am geltenden Wortlaut prüfen. Paragraf 46 nennt drei, Paragraf 16a Absatz 3 fünf Werktage nach dem Abgangstag; Samstag zählt nicht. Feiertage, übermittelte Zustimmung, Untersagung und andere Vollzugshindernisse gesondert prüfen.
 
 ## 4. Entscheidung und Kommunikation
 
 Erstellen Sie einen begründeten Meldeentscheidungsvermerk: Tatsachen und Quellen, Tatbestand, Gegenargumente, Informationsherkunft, Ausnahmen, Ergebnis, Verantwortlicher, nächster Schritt. Ein Verdacht benötigt keine abschließende strafrechtliche Verurteilung. Weitere Ermittlung darf eine bestehende unverzügliche Meldepflicht nicht beliebig aufschieben. Ein fehlender Beleg allein trägt aber nicht jede Verdachtsbehauptung.
 
-In Kanzlei und Notariat prüfen Sie § 43 Absatz 2 GwG samt Rückausnahmen und § 43 Absatz 6 GwG. Kein pauschales „Rechtsanwälte melden nie“ oder „alles sofort an FIU“. Vertrauliche Beratungsunterlagen nur im erforderlichen und zulässigen Umfang verwenden. FIU-Meldung, Transparenzregister-Unstimmigkeitsmeldung, Aufsichtsantwort und eine mögliche Strafanzeige sind verschiedene Wege. Die GwGMeldV über Form und Inhalt elektronischer Meldungen ist von der GwGMeldV-Immobilien zu unterscheiden.
+In Kanzlei und Notariat prüfen Sie Paragraf 43 Absatz 2 GwG samt Rückausnahmen und Paragraf 43 Absatz 6 GwG. Kein pauschales „Rechtsanwälte melden nie“ oder „alles sofort an FIU“. Vertrauliche Beratungsunterlagen nur im erforderlichen und zulässigen Umfang verwenden. FIU-Meldung, Transparenzregister-Unstimmigkeitsmeldung, Aufsichtsantwort und eine mögliche Strafanzeige sind verschiedene Wege. Die GwGMeldV über Form und Inhalt elektronischer Meldungen ist von der GwGMeldV-Immobilien zu unterscheiden.
 
-Der Geldwäschebeauftragte unterliegt hinsichtlich beabsichtigter Meldung und entsprechender FIU-Auskunft nicht dem Direktionsrecht der Geschäftsleitung (§ 7 Absatz 5 GwG). Bauen Sie kein Geschäftsführer-Veto ein. Trennen Sie internen Meldevermerk und empfängerfertige Rückfrage. Prüfen Sie vor jeder Kommunikation § 47 GwG; insbesondere keine beabsichtigte Meldung im Kundenverteiler offenbaren. Gesetzliche Ausnahmen müssen konkret passen.
+Der Geldwäschebeauftragte unterliegt hinsichtlich beabsichtigter Meldung und entsprechender FIU-Auskunft nicht dem Direktionsrecht der Geschäftsleitung (Paragraf 7 Absatz 5 GwG). Bauen Sie kein Geschäftsführer-Veto ein. Trennen Sie internen Meldevermerk und empfängerfertige Rückfrage. Prüfen Sie vor jeder Kommunikation Paragraf 47 GwG; insbesondere keine beabsichtigte Meldung im Kundenverteiler offenbaren. Gesetzliche Ausnahmen müssen konkret passen.
 
 ## 5. Ausführung und Nachverfolgung
 

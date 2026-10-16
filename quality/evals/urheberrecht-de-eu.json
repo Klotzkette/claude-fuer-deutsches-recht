@@ -41,7 +41,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktioneller Nachtrag 16.10.2026: Zitatmaßstab vorgezogen und an Paragraf 51 angeknüpft: eigene Auseinandersetzung und benötigter Umfang statt bloßer Quellenangabe. Nur doppelte Dokumentauswahl im Mini gekürzt. USM-Haller- und Pelham-Grenzen unverändert erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
@@ -49,12 +49,12 @@
       "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "8fb3e13068eb60672b941b2e1284072188da5b25f27fb1c39260cacde9297ed3",
+    "sha256": "4809cd2030da3b4cc7677301661bcfa44e3a54220fb3ce0958cc4c7d40340c21",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktioneller Nachtrag 16.10.2026: Zitatmaßstab vorgezogen und an Paragraf 51 angeknüpft: eigene Auseinandersetzung und benötigter Umfang statt bloßer Quellenangabe. Nur doppelte Dokumentauswahl im Mini gekürzt. USM-Haller- und Pelham-Grenzen unverändert erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
@@ -62,7 +62,7 @@
       "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "6e506530964559bbb1568f3b7a57ce519f87feb55404dac722b0812c971eeb3c",
+    "sha256": "d1298ef0eaa9088694f16875221660b44d60ba908dde82cf1bf94f086304f6a9",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

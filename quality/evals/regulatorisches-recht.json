@@ -31,29 +31,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe. 2026-10-16, redaktioneller Einstiegsreview: Aufsichtsantwort und IKT-Klausel als Ergebnis; Vorfallhilfe von dokumentbezogenem Geheimnisschutz getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "C-15/16 mit Paragraf 21 WpHG und Paragraf 3 Nummer 4 IFG verknüpft.",
       "Eröffnung auf Datenreichweite, richtige Konzerneinheit und konkreten Vertragsinhalt zugeschnitten.",
       "Nachgereichte Preisliste -> Einbeziehung, Leistungsumfang und Vorrangklausel statt pauschaler Lückenbefund.",
-      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe."
+      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+      "2026-10-16, redaktioneller Einstiegsreview: Aufsichtsantwort und IKT-Klausel als Ergebnis; Vorfallhilfe von dokumentbezogenem Geheimnisschutz getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4798152d46333cc10358f2ecd269fe2eb61142deecfe0c96bfdf45b9932ae114",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "8810bf5121d45180b188e3184543d011a34ffb6d3aaad88b960ff518a14cfdc9",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe. 2026-10-16, redaktioneller Einstiegsreview: Aufsichtsantwort und IKT-Klausel als Ergebnis; Vorfallhilfe von dokumentbezogenem Geheimnisschutz getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "C-15/16 mit Paragraf 21 WpHG und Paragraf 3 Nummer 4 IFG verknüpft.",
       "Eröffnung auf Datenreichweite, richtige Konzerneinheit und konkreten Vertragsinhalt zugeschnitten.",
       "Nachgereichte Preisliste -> Einbeziehung, Leistungsumfang und Vorrangklausel statt pauschaler Lückenbefund.",
-      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe."
+      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+      "2026-10-16, redaktioneller Einstiegsreview: Aufsichtsantwort und IKT-Klausel als Ergebnis; Vorfallhilfe von dokumentbezogenem Geheimnisschutz getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "aad2ad4821bf4971cc4d907579a6946ea81733d56a7eb2512fe94ef010cffd80",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "c694d04073863feeacd997461b36f5f705d8b7ac9051622f1f33d30b7d545c4c",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

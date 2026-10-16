@@ -61,25 +61,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Dokumentwege, stiller Dateieinstieg und unmittelbare Weiterrechnung nach Pool- oder Zuflussangabe ergänzt. Historischen Ranganker sowie Trennung von Rechnung und Beteiligung erhalten. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Dokumentwege, stiller Dateieinstieg und unmittelbare Weiterrechnung nach Pool- oder Zuflussangabe ergänzt. Historischen Ranganker sowie Trennung von Rechnung und Beteiligung erhalten. Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Wandelereignis, Preis und Vollzug klar vorangestellt. IX ZR 133/14 zur Zahlungssperre vor Insolvenzeröffnung; kein Erlass, keine Formfreigabe für die Wandlung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
       "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
       "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
-      "Antwort zur Pooldefinition führt zu geändertem Cap-Preis, Anteilszahl und Quote; neuer Rundenzufluss zuerst auf Bedeutung für das Wandelereignis geprüft."
+      "Antwort zur Pooldefinition führt zu geändertem Cap-Preis, Anteilszahl und Quote; neuer Rundenzufluss zuerst auf Bedeutung für das Wandelereignis geprüft.",
+      "Wandelereignis, Preis und Vollzug klar vorangestellt. IX ZR 133/14 zur Zahlungssperre vor Insolvenzeröffnung; kein Erlass, keine Formfreigabe für die Wandlung."
     ],
-    "sha256": "2a81dbb4cc50e15f136e5156ae845eadf2f5c42911a1d9ff3bf71f4315fac13b"
+    "sha256": "349ba34b8214acb69c50fc43548b1363c04ec6733c66b6db3252cda270573c4a",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: angekündigtes Rundenvolumen gegen vertraglich erfasste Zuflüsse geprüft, Ereignis-/Mitteilungs-/Ausübungsdaten getrennt und Preis-/Restentscheidung bis zur notariellen Vorlage fortgeführt. Kapitalmaßnahme und Forderungswerthaltigkeit bleiben eigenständige Prüfungen. Desk-Review, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: angekündigtes Rundenvolumen gegen vertraglich erfasste Zuflüsse geprüft, Ereignis-/Mitteilungs-/Ausübungsdaten getrennt und Preis-/Restentscheidung bis zur notariellen Vorlage fortgeführt. Kapitalmaßnahme und Forderungswerthaltigkeit bleiben eigenständige Prüfungen. Desk-Review, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Wandelereignis, Preis und Vollzug klar vorangestellt. IX ZR 133/14 zur Zahlungssperre vor Insolvenzeröffnung; kein Erlass, keine Formfreigabe für die Wandlung. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
       "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
       "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
-      "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG."
+      "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG.",
+      "Wandelereignis, Preis und Vollzug klar vorangestellt. IX ZR 133/14 zur Zahlungssperre vor Insolvenzeröffnung; kein Erlass, keine Formfreigabe für die Wandlung."
     ],
-    "sha256": "180e4d2f9799dfbb0d8508e95d7a080bb2f0d1d8232f1bf07e2100d24c674d15"
+    "sha256": "c9d4731eda53d4c23e7736772f3b8baeb160ec0e25f919e1bb40069be7eac401",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "positive": [

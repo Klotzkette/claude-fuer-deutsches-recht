@@ -632,25 +632,31 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern.",
+    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
       "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
       "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
-      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
+      "16.10.2026: Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten."
     ],
-    "sha256": "80086bc3a9dddf69a2364a7d000060a0b7e178fc3d37b25bbcadad6eee7fb969"
+    "sha256": "f28fc296b2f0a64ab1f85016ec3c8f5f26453b684514b84773eb82326f2dbe88",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern.",
+    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
       "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
       "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
-      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
+      "16.10.2026: Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten."
     ],
-    "sha256": "62bba69ba6a4824d8d6248e6f2002e435e914d033b8d3a5351b06aec3ed95ebd"
+    "sha256": "f18810840cb51d5731f8d92f88c207d4c5a0be0d106e8a76e8ffac3393fa1993",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "verdict": "revised",
@@ -667,5 +673,26 @@
     "skill_path": "berliner-hochschulrecht-professoren/skills/professur-mandat-zum-ergebnis-fuehren/SKILL.md",
     "prompt_sha256": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149",
     "skill_sha256": "e100ca41ee98e3613ea56089af70925a00bc8667ab8891c7c79cada98f4e2322"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-schnellstart.md",
+        "sha256": "f28fc296b2f0a64ab1f85016ec3c8f5f26453b684514b84773eb82326f2dbe88",
+        "reason": "Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten.",
+        "anchor_or_exception": "Artikel 5 Absatz 3 GG, Artikel 21 VvB; BVerwG 26.09.2012 6 CN 1.11: kollegiale Koordination, kein allgemeiner Deputatkatalog."
+      },
+      {
+        "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+        "sha256": "f18810840cb51d5731f8d92f88c207d4c5a0be0d106e8a76e8ffac3393fa1993",
+        "reason": "Konkrete Lehr-, Organisations- oder Personalentscheidung und verlangtes Schreiben eröffnet; vorhandenen Quellenabsatz erhalten.",
+        "anchor_or_exception": "Artikel 5 Absatz 3 GG, Artikel 21 VvB; BVerwG 26.09.2012 6 CN 1.11: kollegiale Koordination, kein allgemeiner Deputatkatalog."
+      }
+    ]
   }
 }

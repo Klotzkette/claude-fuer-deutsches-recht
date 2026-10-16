@@ -1,8 +1,8 @@
 # 1. Denkmalschutzrecht: Schnellstart
 
-Prüfe, ob die geplante Arbeit am Denkmal erlaubnisfrei bleibt, welche substanzschonende Ausführung genehmigungsfähig ist oder ob eine Erhaltungsforderung den Eigentümer unzumutbar belastet. Begründe die beauftragte Maßnahmenbeschreibung, Behördenantwort oder Beratung aus dem konkreten Befund.
+Prüfe anhand von Plänen, Befunden und Bescheid, ob der Umbau erlaubt werden kann oder die Erhaltungsforderung unzumutbar ist. Liefere die bestellte Maßnahmenbeschreibung, Behördenantwort oder Beratung. Maßgeblich ist das Landesgesetz im Rahmen von Artikeln 14 und 70 GG.
 
-Lies vorhandene Pläne, Befunde, Bescheide und Korrespondenz und schreibe die beauftragte Maßnahmenbeschreibung, Behördenantwort oder rechtliche Bewertung. Artikel 14 und Artikel 70 GG bilden den bundesstaatlichen Rahmen; maßgeblich bleibt das jeweilige Landesgesetz.
+Bei fehlender sinnvoller Nutzung und praktischer Unveräußerlichkeit: BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, Rn. 92 bis 104. Reale Entlastung und gesetzlich vorgesehenen Ausgleich prüfen; weder jeder Sanierungsverlust noch die Entscheidung selbst begründet einen Abriss- oder Geldanspruch. Der Quellenstand erfasst amtlich indexierte Passagen zum früheren rheinland-pfälzischen Recht, keinen vollständig direkt abgerufenen Text.
 
 ## 1.1. Sofortstart nach Eingangslage
 

@@ -36,24 +36,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Bei vorinsolvenzlicher Sachentziehung unterscheidet der Kernfall Behalten, neue Verfügung und Zahlungsdruck. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: drei konkrete Einstiege und Forderungsdifferenz zu den Schedules ergänzt; allgemeine Fortsetzungsanweisungen verdichtet, unter 7500 Bytes und Zeichen.",
+    "reason": "Bei vorinsolvenzlicher Sachentziehung unterscheidet der Kernfall Behalten, neue Verfügung und Zahlungsdruck. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: drei konkrete Einstiege und Forderungsdifferenz zu den Schedules ergänzt; allgemeine Fortsetzungsanweisungen verdichtet, unter 7500 Bytes und Zeichen. Redaktioneller Nachtrag 16.10.2026: Fulton-Absätze nach vorn verschoben: fortdauernden Besitz von neuer Verwertung und Zahlungsdruck getrennt; andere Stay-Tatbestände, Turnover und deutsche Anerkennung bleiben offen zu prüfen. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
       "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
       "Rechnung über 80.000 USD gegen Schedule-Eintrag von 50.000 USD: gezielte Zahlungsfrage und Änderung des Anmeldungsentwurfs statt Übernahme der Schuldnerzahl."
     ],
-    "sha256": "f30dfdc59e9b0fb36a7aec46614a178cd663be3d11acd9ca7f0952417a91f3b1"
+    "sha256": "fb4cf3c05ab049073502dbe4bfcad2c229c87f53adc09291f3e463742f580742"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "US-Verfahrenswege bleiben erhalten; Fulton wird als begrenzte Auslegung von 362(a)(3) in die Stay- und Turnover-Prüfung eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: konkrete Order-Reichweite, Schedules-Abweichung und überarbeitete Verkaufs- beziehungsweise Finanzierungsorder als Dokumentverzweigungen ausgearbeitet.",
+    "reason": "US-Verfahrenswege bleiben erhalten; Fulton wird als begrenzte Auslegung von 362(a)(3) in die Stay- und Turnover-Prüfung eingebunden. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Am 23. September vollständig erneut gelesen: konkrete Order-Reichweite, Schedules-Abweichung und überarbeitete Verkaufs- beziehungsweise Finanzierungsorder als Dokumentverzweigungen ausgearbeitet. Redaktioneller Nachtrag 16.10.2026: Fulton-Absätze nach vorn verschoben: fortdauernden Besitz von neuer Verwertung und Zahlungsdruck getrennt; andere Stay-Tatbestände, Turnover und deutsche Anerkennung bleiben offen zu prüfen. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
       "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
       "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
       "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
     ],
-    "sha256": "44d41689f1542443d71c9b92de3e1b1c23335bd6d058340c500320a64e9036e9"
+    "sha256": "15561ffe2cce6b30c901c8d3d81fae082f9d3d6be95ff8e8fe33207d0b4e7a4c"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

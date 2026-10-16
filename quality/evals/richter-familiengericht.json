@@ -36,30 +36,34 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Vollziehbaren Beschluss als Ziel; Zugewinnanker von Kindschaftsverfahren und allgemeiner Amtsermittlung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Paragrafen 1375 und 1384 BGB mit XII ZB 558/23 in den Vermögensabgleich integriert.",
       "Erforderlicher Hinweis und rechtliches Gehör statt pauschaler Amtsermittlung oder automatischer Illoyalitätsfeststellung.",
       "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
-      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
+      "2026-10-16, redaktioneller Einstiegsreview: Vollziehbaren Beschluss als Ziel; Zugewinnanker von Kindschaftsverfahren und allgemeiner Amtsermittlung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "98deea6193bbf3ac6cbb7eee180b21522dd4b0081284e3c1b6d2db638ccde834",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "d9e9a4c6384e6878db85f5f36de28aed3a625fabfb665675612ef69089e9830c",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Vollziehbaren Beschluss als Ziel; Zugewinnanker von Kindschaftsverfahren und allgemeiner Amtsermittlung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Titel, Auskunftsverlangen und Erfüllungsannahme als Auslöser der Beweislastfolge aufgenommen.",
       "Neutrale Hinweise nach Paragraf 139 ZPO mit Paragraf 113 FamFG verbunden.",
       "Ungeprüfte Aktenzeichen entfernt; europäische Zuständigkeitsprüfung auf genaue Artikel verwiesen.",
       "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
-      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
+      "2026-10-16, redaktioneller Einstiegsreview: Vollziehbaren Beschluss als Ziel; Zugewinnanker von Kindschaftsverfahren und allgemeiner Amtsermittlung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "880f5e947598b66bbbba0cb8d75d9563b02daa67e37bcb96112f2a5d2473aca8",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "d610e5cbe8827f24c57e4457aaec138029f26bf91007f46a458a43fae4a00f16",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

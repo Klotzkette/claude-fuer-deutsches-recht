@@ -403,25 +403,27 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Krankenhaus-Kurzworkflow mit getrennten Datenzwecken, Landesrecht, C5-Ausnahme, Transfer, DSFA und Produktrecht. Art.-50-Bestandsausnahme und überprüfte Entscheidungsanker sind konkret enthalten. Redaktioneller Textreview, kein beobachteter Modelllauf.",
+    "reason": "Eigenständiger Krankenhaus-Kurzworkflow mit getrennten Datenzwecken, Landesrecht, C5-Ausnahme, Transfer, DSFA und Produktrecht. Art.-50-Bestandsausnahme und überprüfte Entscheidungsanker sind konkret enthalten. Redaktioneller Textreview, kein beobachteter Modelllauf. Redaktionelle Einstiegslektüre am 16.10.2026: Bestellte Datenschutzdokumente und Gesundheitsdatenbegriff früh benannt; Rollen und klinische Fachzweige erhalten, Typografie bereinigt.",
     "changes": [
       "Konkrete Dokumentenaufträge werden vor allgemeinen Rückfragen bearbeitet; administrative, medizinische und wissenschaftliche Nutzung getrennt.",
       "Aktuelle Hochrisiko-Anwendungsdaten und eng begrenzte C5-Typ1-Ausnahme aufgenommen; Datenschutzhinweis, AVV und Einwilligung nicht verwechselt.",
-      "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt."
+      "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt.",
+      "Redaktion 16.10.2026: Bestellte Datenschutzdokumente und Gesundheitsdatenbegriff früh benannt; Rollen und klinische Fachzweige erhalten, Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "47a262303edb1f9866356341126f2ce27dffa4c1ae2cc677b82a0ebebdea983d"
+    "sha256": "2107b577294dbe5a5d451ab2e23945671f31fab7b2359de3c09b6aee9b6a601e"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausformulierter fachlicher Workflow mit Mustern für Patienteninformation, Lieferantenklauseln, TIA, DSFA, Konformitätsbetrachtung, Forschung und Pilotbetrieb. Acht amtlich geprüfte Entscheidungsanker und die Grenze der ThürKHG-Primärquellenprüfung sind eingebettet. Redaktioneller Review, keine klinische oder technische Betriebsprüfung. Ergänzung vom 9. Oktober 2026: KI-Verordnungs-Passage nach amtlichem konsolidiertem Wortlaut berichtigt; keine erneute Gesamtprüfung sämtlicher Krankenhausrechtsfragen behauptet.",
+    "reason": "Ausformulierter fachlicher Workflow mit Mustern für Patienteninformation, Lieferantenklauseln, TIA, DSFA, Konformitätsbetrachtung, Forschung und Pilotbetrieb. Acht amtlich geprüfte Entscheidungsanker und die Grenze der ThürKHG-Primärquellenprüfung sind eingebettet. Redaktioneller Review, keine klinische oder technische Betriebsprüfung. Ergänzung vom 9. Oktober 2026: KI-Verordnungs-Passage nach amtlichem konsolidiertem Wortlaut berichtigt; keine erneute Gesamtprüfung sämtlicher Krankenhausrechtsfragen behauptet. Redaktionelle Einstiegslektüre am 16.10.2026: Bestellte Datenschutzdokumente und Gesundheitsdatenbegriff früh benannt; Rollen und klinische Fachzweige erhalten, Typografie bereinigt.",
     "changes": [
       "Behandlung, eigene Forschung, externe Forschung und Herstellertraining mit je eigener Grundlage und Empfängerprüfung verknüpft.",
       "Thüringer Auftragsverarbeitungsanzeige, ministerielle Forschungsfeststellung und GDNG-Datenschutzaufsichtszustimmung klar getrennt.",
       "Drittlandprüfung nach tatsächlichem Empfänger, DPF-Deckung oder SCC mit wirksamen Zusatzmaßnahmen; §393SGBV daneben.",
       "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen.",
-      "Konkrete AI-Act-Fassung, Einstufungs- und Zeitpfade nach Fachabgleich aktualisiert."
+      "Konkrete AI-Act-Fassung, Einstufungs- und Zeitpfade nach Fachabgleich aktualisiert.",
+      "Redaktion 16.10.2026: Bestellte Datenschutzdokumente und Gesundheitsdatenbegriff früh benannt; Rollen und klinische Fachzweige erhalten, Typografie bereinigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f4aff3a04d39b3803c0b9f8be6226c2d8f2e26f045a38e5a26f9d93803631e81"
+    "sha256": "2e3510f088f39f5c9392924595f93db01d43ca15afd8347b712c799688f70157"
   },
   "focus_review": {
     "method": "desk_review",

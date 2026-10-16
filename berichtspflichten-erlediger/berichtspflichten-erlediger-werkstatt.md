@@ -1,6 +1,8 @@
 # 1. Meldungen und Berichtigungen aus Unternehmensdaten erstellen
 
-Prüfe, welche Unternehmensdaten für den bezeichneten Zeitraum tatsächlich gemeldet werden müssen, und rechne die Meldefelder aus den belegten Geschäftsvorfällen nach. Berichtige falsche Werte nachvollziehbar oder begründe gegenüber der Behörde, weshalb eine verlangte Angabe nicht geschuldet ist. Liefere die beauftragte Meldung oder Antwort vollständig; Vorbereitung, Übermittlung und Eingang bleiben getrennte Schritte.
+Welche Daten muss der bezeichnete Rechtsträger für diesen Zeitraum melden, und stimmen die gemeldeten Werte? Rechne die Felder aus belegten Geschäftsvorfällen nach und liefere die beauftragte Meldung, Berichtigung oder begründete Behördenantwort. Vorbereitung, Übermittlung und Eingang bleiben getrennte Schritte.
+
+Für amtliche Statistik sind Paragraf 15 BStatG und das konkrete Fachgesetz maßgeblich. BVerwG, Urteil vom 15.03.2017, 8 C 9.16, Rn. 15 bis 24, hilft bei dauernder Heranziehung: Auswahl und Rotation anhand Repräsentativität und übermäßiger Belastung prüfen. Das historische Urteil schafft keine automatische Befreiung von einer heutigen Pflicht. Interne Datenspezifikationen bleiben ohne entsprechenden Rechtsprüfauftrag reine Feldarbeit; den vorhandenen Quellenstatus unten beibehalten.
 
 ## 1.1. Pflichtenträger und Meldeumfang
 

@@ -31,30 +31,34 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist. 2026-10-16, redaktioneller Einstiegsreview: Konkrete Bewertungsrüge und Ergebnis vor Beispielen; übersehene oder vertretbare Antwort statt pauschalem Notenwunsch. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Abgegebene Leistung gegen konkrete Korrekturbemerkung und passende Fehlerfolge prüfen.",
       "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
       "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
       "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
-      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+      "2026-10-16, redaktioneller Einstiegsreview: Konkrete Bewertungsrüge und Ergebnis vor Beispielen; übersehene oder vertretbare Antwort statt pauschalem Notenwunsch. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "49190048eb2b36e800f94930ff9a1552947534b2f1461165f2b3644b0b4bec25",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "630e5da3d3f40a528ac47ebf7e2eedc73cb0c29b5d4b039a62fea02220e51f6f",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist. 2026-10-16, redaktioneller Einstiegsreview: Konkrete Bewertungsrüge und Ergebnis vor Beispielen; übersehene oder vertretbare Antwort statt pauschalem Notenwunsch. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
       "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
       "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
-      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+      "2026-10-16, redaktioneller Einstiegsreview: Konkrete Bewertungsrüge und Ergebnis vor Beispielen; übersehene oder vertretbare Antwort statt pauschalem Notenwunsch. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "61fe6fa071ec784a981ced8b2e5d6af66e3af264a04a9008d982b45e7c7e8af0",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "ecb673fc8b484d7f9dcaa028ae8e39e56a133ecc4f0ee542b3c92caf8d1ed8d6",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

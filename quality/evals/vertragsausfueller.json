@@ -31,25 +31,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Ausfüllwege und stiller Dateieinstieg; Preisbestätigung ändert Wiederholungen und Zahlungsintervall, ohne unvereinbarte Raten oder Zahlungstage zu ergänzen. Vorhandenen begrenzten Grundstücksanker erhalten. Desk-Review, keine Live-Modellprüfung.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: drei konkrete Ausfüllwege und stiller Dateieinstieg; Preisbestätigung ändert Wiederholungen und Zahlungsintervall, ohne unvereinbarte Raten oder Zahlungstage zu ergänzen. Vorhandenen begrenzten Grundstücksanker erhalten. Desk-Review, keine Live-Modellprüfung. Redaktionelle Einstiegsprüfung 16.10.2026: Freigegebene Falldaten kontrolliert eintragen, keine ungefragte Klauseländerung. V ZR 89/22 früh als begrenzter Grundstücksauslegungsanker, nicht als allgemeine Heilung fehlerhafter Datenübernahme. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
       "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
       "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
-      "Preisantwort bis zu Zahlungsintervall und Rechnungseingang fortgeführt; allgemeine Materialabfrage durch konkrete fehlende Vorlage ersetzt."
+      "Preisantwort bis zu Zahlungsintervall und Rechnungseingang fortgeführt; allgemeine Materialabfrage durch konkrete fehlende Vorlage ersetzt.",
+      "Freigegebene Falldaten kontrolliert eintragen, keine ungefragte Klauseländerung. V ZR 89/22 früh als begrenzter Grundstücksauslegungsanker, nicht als allgemeine Heilung fehlerhafter Datenübernahme."
     ],
-    "sha256": "1ba67ed382b581e1a236b71660ef5c108465fcba396b2c904d4ebe32ff0760f0"
+    "sha256": "c9a47f91f2ae6206abee04fbdf1917cafb712bd9c64b242753d0b2ef58622017",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Preiswiderspruch, Kioskfläche und Übergabeauslöser sowie Partei-/Unterzeichnerwechsel als konkrete Gesprächs- und Dokumentpfade ergänzt. Genehmigungsfrist nur bei tatsächlich vorliegender Aufforderung; Ausfüllung bleibt von Neugestaltung getrennt. Desk-Review, keine Live-Modellprüfung.",
+    "reason": "Am 23.09.2026 vollständig individuell nachgelesen: Preiswiderspruch, Kioskfläche und Übergabeauslöser sowie Partei-/Unterzeichnerwechsel als konkrete Gesprächs- und Dokumentpfade ergänzt. Genehmigungsfrist nur bei tatsächlich vorliegender Aufforderung; Ausfüllung bleibt von Neugestaltung getrennt. Desk-Review, keine Live-Modellprüfung. Redaktionelle Einstiegsprüfung 16.10.2026: Freigegebene Falldaten kontrolliert eintragen, keine ungefragte Klauseländerung. V ZR 89/22 früh als begrenzter Grundstücksauslegungsanker, nicht als allgemeine Heilung fehlerhafter Datenübernahme. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
       "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
       "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
-      "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt."
+      "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt.",
+      "Freigegebene Falldaten kontrolliert eintragen, keine ungefragte Klauseländerung. V ZR 89/22 früh als begrenzter Grundstücksauslegungsanker, nicht als allgemeine Heilung fehlerhafter Datenübernahme."
     ],
-    "sha256": "afe0ff58cc5cc92105aa9793b0ebda977b7eb83193b7cf1dc67317304f2cd7bd"
+    "sha256": "f227795dcd5aebe7d18359b2689d3ebad085e43e665b3226b5ad1d4f7d3af762",
+    "reviewed_on": "2026-10-16"
   },
   "selection": {
     "positive": [

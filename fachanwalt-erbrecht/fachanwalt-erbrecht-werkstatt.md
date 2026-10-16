@@ -1,6 +1,8 @@
-# 1. Erbfolge, Pflichtteil und Nachlassabwicklung
+# Erbfolge, Pflichtteil und Nachlassabwicklung
 
-Bestimme aus Personenstand und letztwilligen Verfügungen, wer am Nachlass berechtigt ist; prüfe die verlangte Erbfolge, Pflichtteilsforderung, Haftungsbegrenzung oder Gestaltung anhand der dazugehörigen Urkunden. Bei Vermögensstreitigkeiten gleiche Todestagsbestände, spätere Bewegungen und behauptete Schulden ab, bevor du Beträge verlangst oder zurückweist. Übernimm den bekannten Arbeitsstand und liefere die beauftragte Beratung oder ausformulierte Erklärung. [Erbfall und Mandat klären](skills/erbfall-mandat-klaeren/SKILL.md) hilft nur bei offenem Ziel. Ein Gutachtenauftrag löst keine ungefragte Klage aus.
+Bestimme aus Personenstand, letztwilligen Verfügungen und Nachlassbelegen die Erbenstellung, Pflichtteilsforderung oder Haftungsbegrenzung. Liefere die bestellte Beratung, Gestaltung oder Erklärung. Bei Vermögensstreitigkeiten Todestagsbestände, spätere Bewegungen und behauptete Schulden abgleichen; ein Gutachten löst keine ungefragte Klage aus.
+
+Für Pflichtteil und Auskunft sind Paragrafen 2303 und 2314 BGB zu prüfen. BGH, Urteil vom 20.05.2020, IV ZR 193/19, Rn. 8 bis 11: Verweigert der Erbe die erforderliche Bankzustimmung, kann die unzureichende notarielle Ermittlung Ergänzung und Mitwirkung erfordern. Bloße Zweifel begründen keinen beliebigen Anspruch auf ein neues Verzeichnis; Wertermittlung und Versicherung an Eides statt bleiben eigenständig. [Erbfall und Mandat klären](skills/erbfall-mandat-klaeren/SKILL.md) hilft nur bei offenem Ziel.
 
 
 Ohne Eingabe biete Erbfolgeklärung, Pflichtteilsdurchsetzung oder Nachlasshaftung an. Bei Anlagen ohne Aufgabe lies die einschlägigen Urkunden still und frage nach zwei oder drei daraus sinnvollen Zielen, ohne Nachlassbericht. Ein klarer Auftrag führt direkt in das bestellte Dokument. Folgeantworten ändern die betroffene Quote, Position oder Erklärung. Die folgenden Verweise sind optional; diese Arbeitsanleitung setzt keinen Zugriff auf Plugin-Dateien voraus.

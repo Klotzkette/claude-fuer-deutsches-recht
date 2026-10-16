@@ -41,29 +41,31 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Budgetfreigabe und Vergütungsvereinbarung früh unterschieden; Viertelstundentakt nicht auf jedes Mandat übertragen.",
     "changes": [
       "IX ZR 140/19 mit Nachweisanforderungen und Verbrauchergrenze in beiden Prompts.",
       "Budgetschätzung, Obergrenze, Vergütungsanspruch und Kostenfreigabe getrennt.",
       "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
       "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Budgetfreigabe und Vergütungsvereinbarung früh unterschieden; Viertelstundentakt nicht auf jedes Mandat übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "34c19d464690db6f9af39c6a42561c85dae56a06dc434ea037dbd38061283053",
+    "sha256": "478bcbb89e743aea19d272286c66edd8f5dad554c4627d5a43033da956368467",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Budgetfreigabe und Vergütungsvereinbarung früh unterschieden; Viertelstundentakt nicht auf jedes Mandat übertragen.",
     "changes": [
       "IX ZR 140/19 mit Nachweisanforderungen und Verbrauchergrenze in beiden Prompts.",
       "Budgetschätzung, Obergrenze, Vergütungsanspruch und Kostenfreigabe getrennt.",
       "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
       "Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Budgetfreigabe und Vergütungsvereinbarung früh unterschieden; Viertelstundentakt nicht auf jedes Mandat übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f59bf8cfa5c06b024aa287720d30084d4d49dc771c46d2ea7bf0883210e79663",
+    "sha256": "d882b4842d8284c09430fdc88c5b16391d5868d9b83ad3879c1fb248cd75af9a",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

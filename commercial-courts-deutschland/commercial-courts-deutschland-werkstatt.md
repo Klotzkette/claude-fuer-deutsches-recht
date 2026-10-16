@@ -1,6 +1,8 @@
 # 1. Wirtschaftsverfahren vor Commercial Courts bearbeiten
 
-Prüfe, ob die Vertragsklausel den konkreten Wirtschaftsstreit vor den vorgesehenen deutschen Spruchkörper führt, und arbeite die maßgeblichen Anträge, Einwendungen und Beweise aus. Stehen Gericht und Sprache bereits fest, bereite den verlangten Schriftsatz oder Organisationstermin auf diesem Stand vor, ohne die Forumwahl erneut aufzurollen.
+Führe die Vertrags- und Prozessunterlagen zum beauftragten Forumvotum, Schriftsatz oder Organisationstermin. Prüfe nur offene Fragen dazu, ob der Wirtschaftsstreit vor den vorgesehenen Spruchkörper gehört; stehen Gericht und Sprache fest, arbeite an Anträgen, Einwendungen und Beweisen weiter.
+
+Paragrafen 119b und 184a GVG trennen die Voraussetzungen für Commercial Court und englische Verfahrenssprache. Für internationale Gerichtsstandsvereinbarungen nach Artikel 25 Brüssel-Ia-Verordnung ist EuGH, Urteil vom 08.02.2024, C-566/22, Inkreal, Rn. 23 bis 25 und 39, einschlägig: Die Wahl deutscher Gerichte kann bei Parteien aus demselben anderen Mitgliedstaat den Auslandsbezug herstellen. Sie ersetzt weder die Landesverordnung und Sachzuständigkeit noch die erforderliche Sprachvereinbarung.
 
 ## 1.1. Verfahrensstand und fehlende Nachweise
 

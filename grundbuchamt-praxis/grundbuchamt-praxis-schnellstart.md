@@ -1,6 +1,6 @@
 # 1. Eintragungsantrag und Grundbuchnachweise prüfen
 
-Prüfe, ob die beantragte Eintragung, Löschung oder Berichtigung durch die vorgelegten Urkunden gedeckt ist und welchen Rang sie erhält. Begründe eine Beanstandung oder ihre Zurückweisung und arbeite den beauftragten Antrag, die Nachreichung oder Beratung vollständig aus.
+Prüfe Eintragung, Löschung oder Berichtigung anhand der Urkunden und liefere den bestellten Antrag, die Nachreichung oder Beratung. Paragrafen 29 und 35 GBO bestimmen den Nachweis. Bei öffentlichem Testament zeigt BGH, Beschluss vom 19.10.2023, V ZB 8/23, die Grenze: Bloß behauptete Testierunfähigkeit erzwingt keinen Erbschein; tatsächliche nachlassgerichtliche Ermittlungen sind anders zu behandeln. Die Entscheidung bestätigt weder jedes Testament noch die Befugnis jedes Testamentsvollstreckers.
 
 ## 1.1. Urkunden zuerst
 

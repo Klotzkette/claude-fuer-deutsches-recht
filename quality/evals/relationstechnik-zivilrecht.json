@@ -36,29 +36,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen. 2026-10-16, redaktioneller Einstiegsreview: Relation aus Schlüssigkeit, Erheblichkeit und Beweisfrage eröffnet; Zeugenbeweis nicht durch vorweggenommene Würdigung ersetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Fehlende Quittung von vorweggenommener Beweiswürdigung abgegrenzt; erheblicher Zeugenbeweis bleibt vor non liquet zu erheben.",
       "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
       "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
-      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Relation aus Schlüssigkeit, Erheblichkeit und Beweisfrage eröffnet; Zeugenbeweis nicht durch vorweggenommene Würdigung ersetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1537ccd63312c434f7b822315c7c69f99e2f968a5ce16743944398b91103d3ec",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "6c83b45cf1e31c8c3d1cd89fa277a7ad50d4043dbc7c7b660d0a09af4da65de7",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen. 2026-10-16, redaktioneller Einstiegsreview: Relation aus Schlüssigkeit, Erheblichkeit und Beweisfrage eröffnet; Zeugenbeweis nicht durch vorweggenommene Würdigung ersetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Zahlungsanspruch, Erfüllungseinwendung und beweisbedürftigen Übergabevorgang stationsbezogen prüfen.",
       "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
       "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
-      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Relation aus Schlüssigkeit, Erheblichkeit und Beweisfrage eröffnet; Zeugenbeweis nicht durch vorweggenommene Würdigung ersetzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "72979173aa04cc992305210bf34878c9984dd2e4c2f408a12aca2b58b1e5ecfb",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "fb868351aa04a9b6927835cdbb54f5507203a3a8073c5f6eedd7e8be0ed95c39",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

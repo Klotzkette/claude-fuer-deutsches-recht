@@ -151,25 +151,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen. Fachliche Einstiegswege und die Folgen von Angehörigenzahlung oder aufgefundenem Tagesgeld konkretisiert; bestehende BGH-Abgrenzungen und Rechenregeln bewahrt. Keine erneute BGH-Volltextprüfung oder Live-Ausführung.",
+    "reason": "Mini vollständig erneut gelesen. Fachliche Einstiegswege und die Folgen von Angehörigenzahlung oder aufgefundenem Tagesgeld konkretisiert; bestehende BGH-Abgrenzungen und Rechenregeln bewahrt. Keine erneute BGH-Volltextprüfung oder Live-Ausführung. Redaktionelle Einstiegsprüfung 16.10.2026: Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Leerer Einstieg führt zu Auskunft, Berechnung oder Erwiderung; Dateien ohne Aufgabe werden still gelesen.",
-      "Darlehen, Schenkung und vorhandener Bestand ändern konkrete Positionen und die Gesamtforderung; allgemeine Ausgabehinweise für Bytegrenze gekürzt."
+      "Darlehen, Schenkung und vorhandener Bestand ändern konkrete Positionen und die Gesamtforderung; allgemeine Ausgabehinweise für Bytegrenze gekürzt.",
+      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt."
     ],
-    "sha256": "a3a98743f8117eba927d8eb498bcfeff6c137ee952c5f5456d1ac4060d71b75b",
-    "reviewed_on": "2026-09-23",
+    "sha256": "41c6612e5057af88e08ffa09cf31b0af13e2783ad3da7f42989126b8be9953dd",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen. Detailtiefe zu Indexierung, Praxiswert, Gesamtschuld und Nießbrauch erhalten; konkrete Auskunfts-, Bewertungs- und Vergleichsentscheidungen einschließlich Fristauslöser ergänzt. Desk-Review ohne Mandatsausführung.",
+    "reason": "Werkstatt vollständig erneut gelesen. Detailtiefe zu Indexierung, Praxiswert, Gesamtschuld und Nießbrauch erhalten; konkrete Auskunfts-, Bewertungs- und Vergleichsentscheidungen einschließlich Fristauslöser ergänzt. Desk-Review ohne Mandatsausführung. Redaktionelle Einstiegsprüfung 16.10.2026: Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Erwerbswert oder späterer Verkaufserlös sowie Darlehen oder Schenkung als entscheidende Rückfragen bis zur korrigierten Rechnung ausgebaut.",
       "Erfüllungsannahme, belastende Verbrauchsbelege und wiedergefundenes Tagesgeld verändern Beweislastabschnitt und Hinzurechnung.",
-      "Gutachterergänzung, Verbundtermin und formbewusste Vergleichsregelung bis zum konkreten Dokument fortgeführt."
+      "Gutachterergänzung, Verbundtermin und formbewusste Vergleichsregelung bis zum konkreten Dokument fortgeführt.",
+      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt."
     ],
-    "sha256": "0daa56b8c64d819c086de3556000b604942476d3c20c03c12bd749aa081d5e0e",
-    "reviewed_on": "2026-09-23",
+    "sha256": "d95ac79d8db96e90b27d6b44d7eeb904c8f5c486b44a19e212a0e3de82d04f6f",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

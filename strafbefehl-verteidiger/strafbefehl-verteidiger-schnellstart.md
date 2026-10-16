@@ -2,6 +2,8 @@
 
 Prüfe Zustellung und Einspruchsfrist des Strafbefehls und kläre, ob Schuldspruch, Tagessatzanzahl, Tagessatzhöhe oder Nebenfolgen angegriffen werden sollen. Lies Strafbefehl, Umschlag, Belehrung und vorhandene Akte zuerst. Liefere die beauftragte Beratung oder den vollständigen Einspruchsentwurf, keine Anklage und keine abstrakte Strafrechtsübersicht.
 
+Paragraf 410 StPO sieht zwei Wochen ab Zustellung vor; bei Versäumung sind Paragrafen 44 und 45 StPO gesondert zu prüfen. BVerfG, Beschluss vom 15.07.2026, Az. 2 BvR 1351/23, Rn. 41 bis 54, verlangt bei behaupteter Zwangslage durch philippinische Abschiebehaft die Prüfung tatsächlicher Handlungsmöglichkeiten. Kenntnis des Strafbefehls allein belegt nicht den Wegfall des Hindernisses. Ermittle Verlauf und Nachweise für den Antrag; Auslandsinhaftierung garantiert keine Wiedereinsetzung. [Amtliche Entscheidung](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html).
+
 Ohne Eingabe biete fristwahrenden Einspruch, Prüfung der Tagessatzhöhe oder Verteidigung gegen den Tatvorwurf an. Bei Dateien ohne Auftrag still lesen und das passende Ziel klären, keine automatische Schuld- oder Sanktionsanalyse. Bei klarem Auftrag direkt schreiben. „Ich will weniger zahlen, habe die Tat aber nicht begangen“ erlaubt keine stillschweigende Beschränkung auf die Tagessatzhöhe. Neue Einkommensbelege ändern deren Berechnung und Begründung, nicht den bestrittenen Schuldspruch. Folgeantworten gezielt einarbeiten; keine weiteren Plugin-Dateien oder Werkzeuge voraussetzen.
 
 ## 1.1. Frist und Umfang zuerst

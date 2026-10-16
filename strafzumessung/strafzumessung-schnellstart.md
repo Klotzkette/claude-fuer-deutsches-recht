@@ -2,6 +2,8 @@
 
 Leite aus festgestellter Tat und belegten persönlichen Umständen Strafrahmen und Einzelstrafe ab; prüfe Vorverurteilungen anhand von Tatzeiten, Entscheidungen und Vollstreckungsnachweisen auf Gesamtstrafenfähigkeit. Liefere den beauftragten Strafzumessungsvermerk, das Plädoyer oder die Urteilsgründe in der genannten Rolle. Kein Anklagesatz und keine bloße Strafpunkteliste als Ersatz.
 
+Zum Doppelverwertungsverbot nach Paragraf 46 Absatz 3 StGB: BGH, Beschluss vom 24.02.2026, Az. 5 StR 623/25, Rn. 4 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Bloße Mittäterschaft nicht nochmals als gemeinschaftliche Begehung strafschärfend verwerten. Den konkreten Satz von zusätzlichen Ausführungsmerkmalen unterscheiden; der Fehler begründet keinen festen Strafabschlag.
+
 Bei leerer Eingabe frage knapp: „Möchten Sie ein Strafmaßplädoyer vorbereiten, eine Gesamtstrafe aus Vorurteilen prüfen oder Strafzumessungsgründe auf Rechtsfehler untersuchen?“ Bei Dateien ohne Auftrag lies sie zunächst still; frage anschließend nur nach dem daraus noch nicht erkennbaren Ziel, etwa Plädoyer zur neuen Tat oder Antrag auf nachträgliche Gesamtstrafe. Keine Aktenzusammenfassung als Startantwort. Bei klarem Auftrag sofort den Text bearbeiten und nur entscheidende Lücken erfragen. Dieses Dokument funktioniert ohne weitere Plugin-Dateien oder besondere Werkzeuge.
 
 ## 1.1. Tatsachenbasis und Strafrahmen
@@ -9,8 +11,6 @@ Bei leerer Eingabe frage knapp: „Möchten Sie ein Strafmaßplädoyer vorbereit
 Trenne erwiesene Tatsachen, unterstellte Szenarien und offene Schuldfragen. Strafzumessung kann einen fehlenden Tatnachweis nicht ersetzen. Bestimme Delikt, Konkurrenzverhältnis, einschlägige Fassung, Strafrahmen, Regelbeispiel und mögliche Milderungsgründe in nachvollziehbarer Reihenfolge.
 
 Nach Paragraf 46 StGB die schuldbezogenen Umstände und Wirkungen auf das künftige Leben gewichten. Tatbestandsmerkmale nicht nochmals als selbstständigen Erschwerungsgrund verwerten. Geständnis, Wiedergutmachung, Vorstrafen und Tatfolgen konkret belegen; keine automatischen Prozentabschläge oder Strafpunktekataloge.
-
-BGH, Beschluss vom 24.02.2026 – 5 StR 623/25, Rn. 4 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Bloße Mittäterschaft nicht nochmals als gemeinschaftliche Begehung strafschärfend verwerten. Den konkreten Satz von zusätzlichen Ausführungsmerkmalen unterscheiden; der Fehler begründet keinen festen Strafabschlag.
 
 ## 1.2. Einzelstrafe und Gesamtstrafe
 

@@ -1,8 +1,10 @@
 # 1. Luftrechtliche Entscheidung aus der konkreten Akte
 
-Ohne Eingabe frage kurz: „Flugplatzänderung und Lärm, betriebliche Zulassung und Sicherheit oder Rechte am Luftfahrzeug?“ Bei Dateien ohne Aufgabe lies zunächst still und kläre nur das Ziel. Bei klarem Auftrag arbeite direkt am bestellten Ergebnis; keine fachübergreifende Startübersicht. Nur entscheidende Lücken nachfragen. Register, Portale und Dateibearbeitung nicht voraussetzen.
-
 Vergleiche genehmigten Flugplatzbetrieb und beantragte Änderung. Kläre, welche Zulassung benötigt wird, welche zusätzlichen Lärmauswirkungen belegt sind und welchen Schutz oder welche Betriebsregelung der vertretene Beteiligte verlangen kann. Verfasse daraus die bestellte Stellungnahme, Einwendung oder Beratung.
+
+Paragrafen 6 und 8 LuftVG bestimmen den Zulassungsweg; Paragraf 29b schützt die Nachtruhe. BVerwG, Urteil vom 04.04.2012, Az. 4 C 8.09, verlangt auch in Nachtrandstunden wirksame Begrenzung tagähnlicher Spitzen. Das Frankfurter Kontingent ist kein bundesweiter Grenzwert und kein allgemeines Nachtflugverbot; Nachweis unten.
+
+Nur bei offenem Ziel Flugplatzänderung, betriebliche Zulassung oder Rechte am Luftfahrzeug anbieten. Sonst das Dokument ausarbeiten, entscheidende Lücken erfragen und Antworten gezielt einarbeiten. Register- oder Portalzugriff nicht voraussetzen.
 
 Lies Sachverhalt, Genehmigung, Planentscheidung, Auflagen und angegriffene Maßnahme vor jeder Rückfrage. Bestimme Objekt und Rolle aus den Unterlagen: Flugplatzträger, Luftfahrtunternehmen, Halter, Eigentümer oder betroffene Nachbarschaft. Ein Flugplatzverfahren benötigt nicht automatisch Pfandrechtsregister oder Leasingverträge; wähle nur entscheidungserhebliche Unterlagen.
 

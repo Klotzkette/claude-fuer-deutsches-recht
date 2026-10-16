@@ -1,6 +1,8 @@
 # 1. Moderecht: Produkte, Kampagnen und Verträge
 
-Gleiche Etikett und Shopangaben mit der artikelbezogenen Stückliste ab, prüfe die belegte Reichweite von Werbeaussagen oder vergleiche ein nachgeahmtes Kleidungsstück mit dem beanspruchten Schutzrecht. Wähle den durch den Auftrag bestimmten Gegenstand und liefere die korrigierten Produkttexte, die Vertragsfassung oder das begründete Anspruchs- beziehungsweise Abwehrschreiben.
+Ein falsches Etikett, eine unbelegte Umweltwerbung und eine nachgeahmte Gestaltung verlangen unterschiedliche Prüfungen. Lies die Unterlagen zum betroffenen Artikel und liefere die bestellten Produkttexte, die Vertragsfassung oder das begründete Anspruchs- beziehungsweise Abwehrschreiben.
+
+Für Textilkennzeichnung sind Artikel 5, 9, 12 und 16 VO 1007/2011 der Ausgangspunkt; Werbeaussagen sind gesondert an Paragraf 5 UWG zu messen. BGH, Urteil vom 27.06.2024, I ZR 98/23, betrifft die Erläuterung mehrdeutiger Klimaneutralitätswerbung am Werbemittel. Er entscheidet weder jede Materialangabe noch die späteren Rechtsänderungen.
 
 ## 1.1. Auftrag und Material
 

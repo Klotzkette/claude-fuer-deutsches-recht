@@ -1,6 +1,6 @@
 # 1. HOAI: Leistungsumfang und Honorar prüfen
 
-Gleiche die Architekten- oder Ingenieurrechnung mit tatsächlich abgerufenen Stufen, geschuldeter Planung und nachgewiesenen Leistungen ab. Bestimme, welcher Honoraransatz trägt, welche Zusatzleistung gesondert beauftragt wurde und welche fehlende Leistung eine Einwendung begründet. Formuliere die beauftragte Prüfung, den Nachtrag oder Brief vollständig.
+Gleiche Honorarrechnung, Stufenabruf und Leistungsnachweis ab und schreibe die bestellte Prüfung, den Nachtrag oder Brief. Paragrafen 650p bis 650t BGB und die zeitlich passende HOAI bilden den Rahmen. BGH, Urteil vom 02.06.2022, VII ZR 174/19, betrifft die Mindestsatzaufstockung im privaten HOAI-2013-Altvertrag: nicht allein wegen Richtlinienverstoßes ablehnen, aber Ausnahmen und Vertrauensschutz prüfen. Kein Beleg für HOAI 2021, öffentliche Auftraggeber oder einen fehlenden Abruf.
 
 ## 1.1. Vertrag und Auftrag feststellen
 

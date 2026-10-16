@@ -129,9 +129,9 @@
     }
   ],
   "mini_review": {
-    "sha256": "de026bb29a09b5edd84d7c0e32c9b648e77bfc9d958a420c1ba875dc501436c6",
+    "sha256": "624fa59204c00a730d6a5f333501bc9cdee7a5a7744df38e97d076adad486f9b",
     "verdict": "revised",
-    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
+    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe. Redaktionelle Anschlussprüfung 16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Interaktiver Chat als Standard mit Warten auf echte Antworten und weiteren Fragerunden bei entscheidenden Restlücken oder neuen Widersprüchen.",
       "Vollständiger Arbeitnehmerauftrag umfasst ausführliche Analyse, Ersatzsätze, ein Mandantenschreiben mit Zielumfang 120 bis 180 Wörter und das fachlich angezeigte Arbeitgeberschreiben.",
@@ -142,13 +142,16 @@
       "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
       "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
       "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
-      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen."
-    ]
+      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
+      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "f249a6d13102c1e6edca874aefa4de90cf0dcf1e000bd59859db95b748ce3d89",
+    "sha256": "949bbc86581f66add05622f76b05a3ce42813694d64dfe07e17fb24f15862552",
     "verdict": "revised",
-    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
+    "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe. Redaktionelle Anschlussprüfung 16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Materielle Rückfragen führen zu echtem Warten; gesicherte Teile dürfen vorläufig bleiben, endgültige Empfängerschreiben folgen nach der Antwort.",
       "Streitstellenmatrix verbindet Originaltext, Wirkung, Beleg, Rechtsregel, Ersatzfassung, Gegenposition und Risiko.",
@@ -166,8 +169,11 @@
       "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
       "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
       "Am 08.10.2026 redaktionell geprüft: verständlicher Einstieg, vollständige Handbuchkapitel 20 bis 23 mit differenzierten Entscheidungsbefunden, Quellenstatus und eigenen Anwendungen; Verfahrensausgang 9 AZR 12/03 nach unabhängigem Gegencheck berichtigt.",
-      "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet."
-    ]
+      "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet.",
+      "16.10.2026: Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -986,5 +992,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md",
+        "sha256": "624fa59204c00a730d6a5f333501bc9cdee7a5a7744df38e97d076adad486f9b",
+        "reason": "Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 18.11.2014 9 AZR 584/13: Tatsachen für überdurchschnittliche Bewertung, keine Beweislastübertragung auf Formfehler."
+      },
+      {
+        "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+        "sha256": "949bbc86581f66add05622f76b05a3ce42813694d64dfe07e17fb24f15862552",
+        "reason": "Analyse, Ersatzformulierungen und benötigte Schreiben früh konkretisiert; Darlegung für überdurchschnittliche Note nicht auf Formmängel übertragen.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 18.11.2014 9 AZR 584/13: Tatsachen für überdurchschnittliche Bewertung, keine Beweislastübertragung auf Formfehler."
+      }
+    ]
   }
 }

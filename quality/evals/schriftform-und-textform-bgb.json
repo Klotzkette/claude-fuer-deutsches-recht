@@ -66,33 +66,37 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen. 2026-10-16, redaktioneller Einstiegsreview: Form-/Zugangsvermerk als Zweck; geschäftlichen E-Mail-Zugang nicht als Formheilung oder Absendenachweis behandelt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Aktuelle Textform und ausgelaufene Gewerbemiet-Übergangsfrist ausdrücklich eingeordnet.",
       "Formfiktion im gerichtlichen Schriftsatz von direkter E-Mail und bloßer Einreichung unterschieden.",
       "E-Mail-Zugang und Makler-Anwendungsbereich durch amtliche Entscheidungsanker konkretisiert.",
       "Leerstart: Form und Zugang, Nachtragskorrektur oder Signatur-/Fassungsabgleich wählen.",
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
-      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
+      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Form-/Zugangsvermerk als Zweck; geschäftlichen E-Mail-Zugang nicht als Formheilung oder Absendenachweis behandelt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "0c73f2f650caa4898ea5f7207190ee7303d6a2e0b73f57b3b5951b9f119307b2",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "0f03cfb2ac18b3c1df2c06915df564825af226646c4b228c29e674a741848278",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen. 2026-10-16, redaktioneller Einstiegsreview: Form-/Zugangsvermerk als Zweck; geschäftlichen E-Mail-Zugang nicht als Formheilung oder Absendenachweis behandelt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Aktuelle Textform und ausgelaufene Gewerbemiet-Übergangsfrist ausdrücklich eingeordnet.",
       "Formfiktion im gerichtlichen Schriftsatz von direkter E-Mail und bloßer Einreichung unterschieden.",
       "E-Mail-Zugang und Makler-Anwendungsbereich durch amtliche Entscheidungsanker konkretisiert.",
       "Leerstart: Form und Zugang, Nachtragskorrektur oder Signatur-/Fassungsabgleich wählen.",
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
-      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
+      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Form-/Zugangsvermerk als Zweck; geschäftlichen E-Mail-Zugang nicht als Formheilung oder Absendenachweis behandelt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "e93b3b55ae777154c7780922ea22e57cf3818a88839cb2aae95137b8645eddd0",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "95c5dd5caf03a51d8b039094646fb2fe537996a75f6c9387689e37f36077e8e0",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

@@ -1,6 +1,8 @@
 # 1. Transportverlust, Haftungsgrenze und Regress
 
-Prüfen Sie Obhut, Schaden und Haftungsgrenze an Übergaben und Belegen; begründen Sie Forderung, Erwiderung oder Regressbewertung.
+Lesen Sie Transport- und Übergabebelege und liefern Sie die bestellte Forderung, Erwiderung oder Regressbewertung mit belegter Obhut, Schaden und Haftungsgrenze.
+
+BGH, Urteil vom 13.06.2012 – Az. I ZR 87/11, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Rn. 16–20: Konkrete Indizien für Öffnung, Entnahme und Wiederverschluss während der Obhut können sekundäre Darlegung zu Transportlauf und Sicherung auslösen; ursprüngliche Beweislast bleibt. Die Darlegungslogik aus Artikel 29 CMR begründet auf Paragraf 435 HGB übertragen, nicht das Regime. Rn. 26–28: Wertwarnung muss rechtzeitige Reaktion im Geschäftsgang erlauben, nicht zwingend vor Vertragsschluss; keine feste Kürzungsquote.
 
 ## 1.1. Transportakte
 
@@ -28,8 +30,6 @@ Bei Verladung [BGH, Urteil vom 18.06.2026 – Az. I ZR 125/25](https://www.bunde
 Im HGB-Verlustfall bedeutet fehlende rechtzeitige Anzeige nach [Paragraf 438 HGB](https://www.gesetze-im-internet.de/hgb/__438.html) eine Vermutung, nicht automatisch Anspruchsuntergang. Die 21-Tage-Regel bei Lieferfristüberschreitung hat eine andere Rechtsfolge. [Paragraf 439 HGB](https://www.gesetze-im-internet.de/hgb/__439.html) regelt Verjährung und Anspruchserhebung gesondert. Keine Übertragung dieser Fristen auf andere Regime ohne Normprüfung.
 
 Prüfen Sie [Paragraf 431 HGB](https://www.gesetze-im-internet.de/hgb/__431.html) und [Paragraf 435 HGB](https://www.gesetze-im-internet.de/hgb/__435.html) für Grenze und Durchbrechung. Vorsatz ist eine eigenständige Alternative zu Leichtfertigkeit mit Schadensbewusstsein. Bei nachgewiesener Entwendung durch eine nach Paragraf 428 HGB zurechenbare Transportperson kein weiteres Organisationsverschulden verlangen. Bei einem außenstehenden Dieb reicht dessen Vorsatz nicht: Den zurechenbaren Beitrag des Frachtführers samt Verschuldensmaß prüfen; so die Unterscheidung in BGH I ZR 87/11, Randnummer 19, im dortigen CMR-Fall. Benennen Sie ursprüngliche Beweislast, konkrete Anhaltspunkte und erst danach mögliche sekundäre Darlegungslast.
-
-BGH, Urteil vom 13.06.2012 – Az. I ZR 87/11, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__87-11.pdf?__blob=publicationFile&v=1), Rn. 16–20: Konkrete Indizien für Öffnung, Entnahme und Wiederverschluss während der Obhut können sekundäre Darlegung zu Transportlauf und Sicherung auslösen; ursprüngliche Beweislast bleibt. Die Darlegungslogik aus Artikel 29 CMR begründet auf Paragraf 435 HGB übertragen, nicht das Regime. Rn. 26–28: Wertwarnung muss rechtzeitige Reaktion im Geschäftsgang erlauben, nicht zwingend vor Vertragsschluss; keine feste Kürzungsquote.
 
 Bei Schadensersatz nach Paragraf 435 HGB in Verbindung mit Paragrafen 249 und 252 BGB Kosten und Folgeschaden eigenständig nachweisen. Wer stattdessen Wertersatz nach Paragraf 429 HGB verlangt, unterliegt dessen Begrenzungen; keine Mischrechnung. Diesen Unterschied bestätigt BGH, Urteil vom 02.07.2026, Az. I ZR 134/25, Randnummern 19 bis 20 ([amtlicher Text](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_134-25.pdf?__blob=publicationFile&v=1)). Der dortige Aufliegerschaden beweist kein qualifiziertes Verschulden bei Ihrer Sendung.
 

@@ -26,29 +26,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite. 2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Verhandlungsantrag funktional auslegen und schriftliche Entscheidung rechtzeitig ankündigen; ungeprüfte Aktenzeichen durch konkrete Verfahrensfragen ersetzt.",
       "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
       "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
-      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+      "2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4cee218762f4e8bee4a8e51946fe5c7ad3c909f1a96a8282e2ddd0a936a8a1a9",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "dc0ff418507d972f20badd00d8167aed470bc5a3f89b061e6dbfb2c1adec68fb",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite. 2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Forderung, erhebliche Einwendung und Verhandlungsbedarf aus der Zivilakte bestimmen.",
       "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
       "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
-      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+      "2026-10-16, redaktioneller Einstiegsreview: Hinweis, Beweis oder Urteil als Ausgang; Verhandlungsantrag im vereinfachten Verfahren früh sichtbar. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "adfec4089497fe739657c241ae7b024092d6f6c6386d95125662ec38e165ab7c",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "cea112e7dc1eed657c39760dc43db7996a52634764845d117e0e0f5a7d52f280",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

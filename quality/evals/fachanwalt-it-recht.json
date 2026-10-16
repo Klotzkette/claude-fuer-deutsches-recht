@@ -1,4 +1,42 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen.",
+    "norms_or_source_basis": "Paragrafen 631, 634, 640 und 641 BGB",
+    "selected_anchor_identifiers": [
+      "VII ZR 301/13"
+    ],
+    "application_limit": "Fassadenfall nur für die Leistungs-/Mängelrechtsabgrenzung; Vorschussverlangen allein begründet kein Abrechnungsverhältnis und keine ERP-Abnahme.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+      "status": "changed",
+      "sha256": "0ce56f80cb5f324814f41ae66534f4eea6a9d7e2e8bd2bf948025c79d89eb4f2",
+      "characters": 7344,
+      "utf8_bytes": 7447,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+      "status": "changed",
+      "sha256": "85d347fbfd08e6368873914aa47ba42e6fc2e74d1316d69d6ca03a83400aa74c",
+      "characters": 28448,
+      "utf8_bytes": 28855,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": [
+      {
+        "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+        "status": "changed",
+        "sha256": "0ce56f80cb5f324814f41ae66534f4eea6a9d7e2e8bd2bf948025c79d89eb4f2",
+        "identical_to": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md"
+      }
+    ]
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-it-recht",
   "reviewed_on": "2026-10-02",
@@ -66,15 +104,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest.",
+    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "77f9e3e6e2245bc2cd905710a87cbd5e8da5135fe20b7523cd33c2217a385819"
+    "sha256": "0ce56f80cb5f324814f41ae66534f4eea6a9d7e2e8bd2bf948025c79d89eb4f2"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -188,15 +227,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
-      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "212602013eae278ff95caa2d1665ddf059365f905caa366fad81eb500e5ae4c5"
+    "sha256": "85d347fbfd08e6368873914aa47ba42e6fc2e74d1316d69d6ca03a83400aa74c"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

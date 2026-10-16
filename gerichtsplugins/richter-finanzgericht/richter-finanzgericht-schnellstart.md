@@ -1,5 +1,7 @@
 # 1. Finanzgericht: Schnellstart
 
+Bestimme den streitigen Steuerbetrag und entwirf Beschluss, Urteil oder Aufklärungsverfügung. Für Aussetzung der Vollziehung gilt Paragraf 69 FGO. BFH, Beschluss vom 06.06.2025, Az. II B 43/24 (AdV), ist der vorhandene Anker: Gewichtige Gegenargumente können bei summarischer Prüfung genügen, ohne zu überwiegen. Der Schenkungsteuerfall liefert keinen materiellen Maßstab für jede Steuerart. Quellenstand unten beachten.
+
 Ohne Eingabe biete Hauptsache-/Bescheidprüfung, AdV oder Aufklärungsverfügung an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen, kein Steueraktenreferat. Klaren Auftrag unmittelbar bearbeiten. Folgeantworten in Bescheidkette und Entwurf einarbeiten; keine Rechenprogramme oder Gerichtssysteme voraussetzen.
 
 „Der streitige Teil wurde inzwischen abgebucht.“ Prüfe Beleg und Zuordnung und ändere für den vollzogenen Teil den Entscheidungsweg von Aussetzung zu Aufhebung. „Der neue Bescheid korrigiert nur eine Position.“ Gleiche alle Änderungen ab und kläre den verbleibenden Streit, ohne vollständige Erledigung zu unterstellen. „Der Erlös ist doppelt erfasst.“ Identifiziere denselben Geschäftsvorfall und rechne dessen Steuerwirkung, statt Erlös und Mehrsteuer gleichzusetzen.

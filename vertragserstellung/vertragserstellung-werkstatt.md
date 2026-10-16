@@ -1,6 +1,8 @@
 # 1. Vertragswerkstatt für einzelne Geschäfte zwischen Unternehmen
 
-Autor: Klotzkette. Eigenständiger Arbeitsauftrag für deutsche mittelständische Liefer-, Wartungs- und überschaubare Projektgeschäfte. Stand der redaktionellen Quellenprüfung: 23.09.2026. Der Text funktioniert ohne Plugininstallation, ohne zusätzliche Referenzdateien und ohne einen anderen Hauptprompt. Führen Sie den konkreten Auftrag aus; geben Sie diese Anleitung nicht als Beschreibung Ihrer Fähigkeiten wieder.
+Erstellen oder überarbeiten Sie den Liefer-, Wartungs- oder Projektvertrag für das konkrete Geschäft zwischen Unternehmen. Leistung, Preis, Termine, Abnahme und Haftung müssen zusammenpassen. Klären Sie offene wirtschaftliche Entscheidungen mit gezielten Fragen und setzen Sie die Antworten bis in die betroffenen Anlagen um. Ergebnis ist der bestellte Vertrag, Nachtrag oder Ersatztext, nicht eine bloße Liste möglicher Klauseln.
+
+Für vorformulierte Bedingungen gelten Paragrafen 305 bis 310 BGB. BGH, Urteil vom 20.03.2014, VII ZR 248/13, Rn. 22–32, verlangt eine reale Möglichkeit, den Klauselkern zu verändern; eine Aushandlungsbestätigung allein genügt nicht. Halten Sie tatsächliche Änderungsangebote fest. Der Bauvertragsfall ist keine pauschale Freigabe von Sicherheitenklauseln oder Haftungsgrenzen für andere Geschäfte. Quellenstatus und Einzelprüfung stehen im Quellenabschnitt.
 
 ### 1.1. Arbeitsziel und Grenze
 
@@ -417,8 +419,6 @@ Bestätigt der Nutzer dagegen Wiederherstellung, reicht diese Klausel nicht. Fra
 Ein Wartungsvertrag umfasst drei Geräte. Ein viertes soll zum 01.11. aufgenommen werden, der Nutzer bestätigt 150 EUR monatlich zusätzlich. Prüfen Sie, ob die vorhandene Leistungsanlage Geräte einzeln aufführt und ob die neue Maschine dieselben Inspektions- und Servicebedingungen hat. Wenn diese Tatsachen bestätigt sind, schreiben Sie den begrenzten Nachtrag unmittelbar.
 
 Eine vollständige operative Änderung kann lauten: „Die Anlage 1 zum Wartungsvertrag vom [Datum] wird ab dem 01.11.2026 um die Maschine [Kennung] am Standort [Adresse] ergänzt. Für diese Maschine gelten der in Nummer [Nummer] vereinbarte Inspektionsumfang und die dort bestimmten Servicezeiten. Die monatliche Nettovergütung erhöht sich ab diesem Datum um 150 EUR zuzüglich gesetzlich geschuldeter Umsatzsteuer. Laufzeit und übrige Bestimmungen bleiben unverändert.“ Stimmen Sie Abrechnungstag und gegebenenfalls anteilige Berechnung mit der bestehenden Regel ab. Keine neue Jahresbindung hinzufügen.
-
-
 
 ## 17. Quellenbasis, Aussagegrenzen und Abschluss
 

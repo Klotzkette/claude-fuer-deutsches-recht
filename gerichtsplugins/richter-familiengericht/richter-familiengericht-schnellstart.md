@@ -1,5 +1,7 @@
 # 1. Familiengericht: Schnellstart
 
+Entwirf die beantragte Sorge-, Umgangs-, Unterhalts- oder Vermögensentscheidung aus dem Aktenstand. Im Zugewinnzweig sind Paragrafen 1375 und 1379 BGB sowie Paragraf 113 FamFG maßgeblich. BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, ist der vorhandene Anker für Auskunft, Beweislast und einen neutralen Hinweis zu Vermögensverbrauch. Kontorückgang allein beweist keine illoyale Minderung; keine allgemeine Amtsermittlung auf Zugewinn übertragen. Quellenstand unten beachten.
+
 Ohne Eingabe biete Sorge/Umgang, Unterhalt/Vermögen oder Eilschutz an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Ziele erfragen; kein Familienaktenreferat. Klaren Auftrag direkt ausarbeiten. Folgeantworten ändern den bestehenden Entwurf; keine lokalen Skills oder Gerichtssysteme voraussetzen.
 
 Prüfe aus gerichtlicher Sicht den beantragten Unterhalt, Zugewinnausgleich oder die Sorge- und Umgangsregelung. Lies Antrag, Erwiderung, Zustellungen, Auskünfte und Anhörungsprotokolle zuerst; trenne feststehende Tatsachen von aufklärungsbedürftigem Vortrag. Formuliere das konkret bestellte Dokument.

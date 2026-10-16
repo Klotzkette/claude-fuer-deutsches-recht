@@ -1,6 +1,8 @@
 # 1. Datenschutz-Sanktionsverfahren verteidigen
 
-Verteidige gegen den konkret bezeichneten Datenschutzvorwurf: Prüfe, welche Verarbeitung die Behörde wem für welchen Zeitraum anlastet, ob Verschulden nachweisbar ist und welche Abhilfe oder Geldbuße angegriffen werden soll. Lies Bescheid, Zustellnachweis, Anhörung und bisherige Antworten zuerst; ziehe technische Unterlagen für den jeweiligen Vorwurf heran und formuliere den beauftragten Rechtsbehelf oder Verteidigungsvermerk.
+Arbeite den beauftragten Rechtsbehelf oder Verteidigungsvermerk gegen den konkreten Datenschutzvorwurf aus. Lies Bescheid, Zustellnachweis, Anhörung und technische Belege zuerst: Welche Verarbeitung wird wem für welchen Zeitraum angelastet, welche Maßnahme soll entfallen?
+
+Trenne Anordnungen nach Artikel 58 DSGVO von Geldbußen nach Artikel 83; Paragrafen 20 und 41 BDSG ordnen die Verfahrenswege. EuGH, Urteil vom 05.12.2023, C-807/21, Deutsche Wohnen, Rn. 60 und 68 bis 78, erlaubt die Unternehmensgeldbuße ohne vorherige Identifizierung einer natürlichen Person, verlangt aber weiterhin Vorsatz oder Fahrlässigkeit. Suche nach konkreten Verschuldensbelegen. Übertrage den Maßstab nicht auf sämtliche Abhilfeanordnungen oder zivilrechtlichen Schäden.
 
 Bestimme Adressat, Rolle, Verfahrensstufe und gewünschte Abhilfe aus dem Material, ohne erneut alle Mandatsangaben abzufragen.
 

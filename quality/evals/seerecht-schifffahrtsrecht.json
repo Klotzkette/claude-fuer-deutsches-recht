@@ -66,7 +66,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären. 2026-10-16, redaktioneller Einstiegsreview: Ladungsschaden, Übergabe und Arrest als Ergebnis; Containerumschlag nach Tätigkeit und Obhut statt nur Hafenort eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "BGH-Hafenumschlag mit Obhutsbezug und ausdrücklicher Grenze zum alten Seefrachtrecht/ADSp 2003.",
       "1.333,34 gegenüber 400 SZR am konkreten Teilverlust gerechnet.",
@@ -74,11 +74,13 @@
       "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
       "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
       "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
-      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+      "2026-10-16, redaktioneller Einstiegsreview: Ladungsschaden, Übergabe und Arrest als Ergebnis; Containerumschlag nach Tätigkeit und Obhut statt nur Hafenort eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "d0aef60f2f9e43cd9a39dfb12b12f76c455c5f750279e2d9c71a858102e5fc3b",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "1ee47e88ab4cf80a19de986495bddc9726b16d3f5365ecbea7378468ae3632d3",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -126,7 +128,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären. 2026-10-16, redaktioneller Einstiegsreview: Ladungsschaden, Übergabe und Arrest als Ergebnis; Containerumschlag nach Tätigkeit und Obhut statt nur Hafenort eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "BGH-Hafenumschlag mit Obhutsbezug und ausdrücklicher Grenze zum alten Seefrachtrecht/ADSp 2003.",
       "1.333,34 gegenüber 400 SZR am konkreten Teilverlust gerechnet.",
@@ -134,11 +136,13 @@
       "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
       "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
       "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
-      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+      "2026-10-16, redaktioneller Einstiegsreview: Ladungsschaden, Übergabe und Arrest als Ergebnis; Containerumschlag nach Tätigkeit und Obhut statt nur Hafenort eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "3f3e81109d674a33e2b3641ebc671b7e19a4f8735ce744798891cb4479aedec6",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "8ce554f7d2c9475619b26e69a0825a1b859ab916657ed1f2b317b1978e0c6a99",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

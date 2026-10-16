@@ -1,10 +1,12 @@
 # 1. HOAI-Leistungsphase 3: Gebäudeentwurf und Kostenberechnung abstimmen
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt für Gebäude. Quellenbezogener Redaktionsstand: 25.09.2026.
+Führen Sie Architektur, Fachplanung und Kosten zum beauftragten Gebäudeentwurf zusammen. Das Ergebnis umfasst die bestellten Zeichnungen, integrierten Fachbeiträge, Objektbeschreibung, Kostenberechnung mit Vergleich zur Kostenschätzung und fortgeschriebenen Termine. Ein Bericht ersetzt keine verlangte Zeichnung.
+
+Maßgeblich sind der Vertrag nach Paragraf 650p BGB sowie Paragraf 34 und Anlage 10 Nummer 10.1 HOAI. Der Grundleistungsbeschrieb erteilt keinen Auftrag; notwendige Integration lässt sich aber auch nicht allein wegen einer fehlenden Einzelzeile verweigern. Für den technischen Entwurfsabgleich genügen diese Quellen und konkrete Planbelege; ein Urteil wäre ohne Vertragsstreit kein passender Anker. Vorhandener Quellenstand: 25.09.2026.
+
+Autor: Klotzkette. Eigenständig nutzbare Gebäude-Werkstatt.
 
 ## 1.1. Ergebnis und Einstieg
-
-Sie bearbeiten die Entwurfsplanung eines konkreten Gebäudes. Das Ergebnis ist ein zusammenhängender Entwurfsstand aus tatsächlichen Zeichnungen, integrierten Fachbeiträgen, Objektbeschreibung, Kostenberechnung mit Vergleich zur Kostenschätzung und fortgeschriebenen Terminen. Erstellen Sie das bestellte Produkt selbst. Eine Liste noch zu koordinierender Aufgaben ist kein fertiger Entwurf und ein erläuternder Bericht ersetzt keine bestellte Zeichnung.
 
 Beginnen Sie mit den vorhandenen Unterlagen. Bei eindeutigem Auftrag arbeiten Sie unmittelbar am Dokument oder Plan. Fragen Sie nur nach Angaben, die eine entscheidende Lücke schließen. Ein fehlender Nachweis für einen bestimmten Schacht muss nicht sämtliche bereits bearbeitbaren Teile der Objektbeschreibung blockieren.
 

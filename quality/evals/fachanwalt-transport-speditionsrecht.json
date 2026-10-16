@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Transportlauf und gewünschte Haftbarhaltung werden direkt benannt; der vorhandene Darlegungsabsatz wurde im Mini unverändert vorgezogen.",
+    "norms_or_source_basis": "Paragrafen 431 und 435 HGB; Artikel 29 CMR",
+    "selected_anchor_identifiers": [
+      "I ZR 87/11"
+    ],
+    "application_limit": "CMR-Fall nur begründet auf HGB übertragen; Verpackungsmanipulation hebt Haftungsgrenzen nicht automatisch auf und begründet keine feste Quote.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "b31b73b3184ee73cfdce645d584acf065cacdfdacf7ee84049bc9240e2057380",
+      "characters": 7328,
+      "utf8_bytes": 7429,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "fdcb2cc2f32ca61a5e817b787bdbbb7423d1e46a80a180a9db0f1c0c7e985d8d",
+      "characters": 23234,
+      "utf8_bytes": 23564,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-transport-speditionsrecht",
   "reviewed_on": "2026-09-23",
@@ -120,7 +151,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Sekundäre Darlegung bei geöffneter Verpackung sowie rechtzeitige Wertwarnung mit tatsächlichen Voraussetzungen erklärt; Wertersatz und Vollschaden getrennt. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Palette wurde erst nach zwei Tagen im Empfängerlager geöffnet -> Verlustalternative und Beweisbegründung ändern; neuer Wiegebeleg -> Menge und Haftungsgrenze korrigieren. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker tragen Schaden und Obhutsbeginn auch im Teilverlust-Hauptproblem/Fokusskill. Beweislast und fehlender Automatismus qualifizierten Verschuldens bleiben.",
+    "reason": "Sekundäre Darlegung bei geöffneter Verpackung sowie rechtzeitige Wertwarnung mit tatsächlichen Voraussetzungen erklärt; Wertersatz und Vollschaden getrennt. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Palette wurde erst nach zwei Tagen im Empfängerlager geöffnet -> Verlustalternative und Beweisbegründung ändern; neuer Wiegebeleg -> Menge und Haftungsgrenze korrigieren. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker tragen Schaden und Obhutsbeginn auch im Teilverlust-Hauptproblem/Fokusskill. Beweislast und fehlender Automatismus qualifizierten Verschuldens bleiben. Einstiegsredaktion 16.10.2026, Batch 2: Transportlauf und gewünschte Haftbarhaltung werden direkt benannt; der vorhandene Darlegungsabsatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "BGH I ZR 87/11 im amtlichen Volltext gelesen; Informationsvorsprung nicht zur pauschalen Beweislastumkehr gemacht",
       "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
@@ -128,9 +159,10 @@
       "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Verladeabrede als Weiche des Obhutsbeginns. Einleitung verdichtet; Auftrag unverändert.",
-      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung."
+      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Transportlauf und gewünschte Haftbarhaltung werden direkt benannt; der vorhandene Darlegungsabsatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "7024139c578daed4a9dbc5b7bdab246cc1b65ab9ab94e6051da487457c693712"
+    "sha256": "b31b73b3184ee73cfdce645d584acf065cacdfdacf7ee84049bc9240e2057380"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -217,7 +249,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Generische BGB-Liste und Entwurfsbeschränkung entfernt; alle Regime-, Regress-, Automatisierungs- und Versicherungszweige erhalten und beide BGH-Fälle operativ eingebunden. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker tragen Schaden und Obhutsbeginn auch im Teilverlust-Hauptproblem/Fokusskill. Beweislast und fehlender Automatismus qualifizierten Verschuldens bleiben.",
+    "reason": "Generische BGB-Liste und Entwurfsbeschränkung entfernt; alle Regime-, Regress-, Automatisierungs- und Versicherungszweige erhalten und beide BGH-Fälle operativ eingebunden. Crossreview P2: vorsätzliche Entwendung als eigenständige Alternative aufgenommen. Workflow-Ergänzung einzeln geprüft: Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker tragen Schaden und Obhutsbeginn auch im Teilverlust-Hauptproblem/Fokusskill. Beweislast und fehlender Automatismus qualifizierten Verschuldens bleiben. Einstiegsredaktion 16.10.2026, Batch 2: Transportlauf und gewünschte Haftbarhaltung werden direkt benannt; der vorhandene Darlegungsabsatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "BGH I ZR 87/11 im amtlichen Volltext gelesen; Informationsvorsprung nicht zur pauschalen Beweislastumkehr gemacht",
       "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
@@ -225,9 +257,10 @@
       "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
       "Physischer Scan gegenüber Voranmeldung, Packstückidentität und Tara, Beweisalternativen außerhalb der Obhut, getrennte Wertersatz- und Schadenswege, Restverwertung, Legalzession und vertragsgliedbezogene Anzeige- und Verjährungsprüfung.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Übernahme, vertragliche Verladung und Haftungsbeginn.",
-      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung."
+      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Transportlauf und gewünschte Haftbarhaltung werden direkt benannt; der vorhandene Darlegungsabsatz wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "834c3bc9c9a2bf76e29c8b3842c1c4e3b371620328b65dc7cd9a56bb5df4c94b"
+    "sha256": "fdcb2cc2f32ca61a5e817b787bdbbb7423d1e46a80a180a9db0f1c0c7e985d8d"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

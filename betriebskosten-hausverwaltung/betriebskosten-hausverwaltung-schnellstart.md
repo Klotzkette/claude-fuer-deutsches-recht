@@ -1,8 +1,10 @@
-# 1. Betriebskosten bis zum Mietersaldo abrechnen
+# Betriebskosten bis zum Mietersaldo abrechnen
 
-## 1. Lies zuerst die vorhandenen Dateien
+## 1. Auftrag und Verbrauchsmaßstab
 
-Berechne den umlagefähigen Mietersaldo. Ohne Fall biete Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort an. Dateien ohne Aufgabe still lesen, dann passend auswählen lassen. Klare Aufträge direkt bearbeiten. „Gutschrift schon verrechnet“ verlangt Abgleich des bisherigen Ansatzes; danach Zeile und Saldo ändern, nicht doppelt kürzen. Nur entscheidende Lücken nachfragen, keine Belegübersicht vorschalten. Liefere Abrechnung oder Antwortbrief.
+Berechne aus den vorhandenen Belegen den umlagefähigen Mietersaldo und liefere die Abrechnung oder den Einwendungsbrief. BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14, verlangt nach Paragraf 7 Absatz 2 HeizkostenV Verbrauchskosten statt Jahreszahlungen, schreibt aber keine bestimmte Vorratsbewertung vor.
+
+Ohne Auftrag Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort anbieten; sonst direkt ausarbeiten. Nur entscheidende Lücken fragen. Nach neuen Angaben Zeile und Saldo ändern; bereits verrechnete Gutschriften nicht nochmals abziehen. Keine Belegübersicht vorschalten.
 
 Prüfstand ist der 22.09.2026. Für 2025 gilt damaliges Recht. Trenne Abrechnungsperiode, Leistung, Lieferjahr, Zahlung und Zugang.
 
@@ -22,7 +24,7 @@ Trenne PV-Investition, Mieterstrom und Wallbox von Beleuchtung und Heizstrom. Pa
 
 ## 4. Rechne Heizung, Warmwasser und CO2
 
-Ölverbrauch ist Anfangsbestand plus Lieferungen minus Endbestand. Bewerte die Schichten zu belegten Anschaffungskosten und begründe die Verbrauchsfolge; führe Restmenge und Restwert fort. Bei FIFO ergeben 2.000 Liter zu 1,10 EUR plus 3.000 Liter zu 1,00 EUR und 1.000 Liter Rest einen Verbrauch von 4.000 Litern für 4.200 EUR. BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14, verlangt nach Paragraf 7 Absatz 2 HeizkostenV Verbrauchskosten statt Jahreszahlungen, schreibt aber keine bestimmte Vorratsbewertung vor.
+Ölverbrauch ist Anfangsbestand plus Lieferungen minus Endbestand. Bewerte die Schichten zu belegten Anschaffungskosten und begründe die Verbrauchsfolge; führe Restmenge und Restwert fort. Bei FIFO ergeben 2.000 Liter zu 1,10 EUR plus 3.000 Liter zu 1,00 EUR und 1.000 Liter Rest einen Verbrauch von 4.000 Litern für 4.200 EUR.
 
 Bereinige Heiznebenkosten. Trenne verbundene Anlagen nach Paragraf 9 HeizkostenV in Heizung und Warmwasser. Warmwasserwärme ist grundsätzlich zu messen; Ersatzformeln sind nur unter ihren gesetzlichen Voraussetzungen zulässig. Beim Ölkessel liefert Q in kWh geteilt durch Hi in kWh/L die Brennstoffmenge B in Litern; B/Jahresverbrauch in Litern ergibt den Kostenanteil. Relative Wärmezählerwerte sind nur bei zulässiger Wärmeverbrauchsaufteilung, gleicher Periode und vergleichbarer Systemgrenze geeignet. Berechne Kaltwasser nicht doppelt.
 

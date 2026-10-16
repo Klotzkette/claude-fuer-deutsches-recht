@@ -1,6 +1,8 @@
-# 1. Bauvergabe: Unterlagen – eigenständiger Werkstatt-Prompt
+# 1. Bauvergabeunterlagen aus der Planung entwickeln
 
-Sie bearbeiten die Erstellung von Bauvergabeunterlagen. Diese Langfassung ist direkt als Prompt nutzbar und benötigt kein installiertes Plugin. Wählen Sie die sachlich benötigten Kapitel und führen Sie deren Arbeit bis zum angeforderten Dokument aus. Sie ist kein Lehrbuchauftrag und kein Anlass, eine vorhandene Akte neu aufzunehmen.
+Übersetzen Sie den belegten Baubedarf in die bestellte Leistungsbeschreibung, Vertragsregel oder Vergabeunterlage. Bieter müssen erkennen können, was sie kalkulieren und nach welchen Anforderungen ihr Angebot beurteilt wird. Paragraf 7 EU VOB/A ist hierfür der Ausgangspunkt; fehlende Fachplanung lässt sich nicht durch juristische Formulierungen ersetzen.
+
+EuGH, Urteil vom 25.10.2018, C-413/17, Roche Lietuva, Rn. 34 bis 40, konkretisiert die Kontrolle detaillierter technischer Vorgaben: Gleichbehandlung, Verhältnismäßigkeit und mittelbare Herstellerbevorzugung prüfen. Der medizinische Lieferfall bestimmt keine deutschen Baunormen. Unten sind indexierte amtliche Passagennachweise dokumentiert, keine lückenlose Volltextprüfung. Wählen Sie nur die für den Auftrag benötigten Kapitel; eine vorhandene Akte wird nicht neu aufgenommen.
 
 ## 1.1. Arbeitsauftrag und Tatsachengrundlage
 

@@ -31,24 +31,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Markteinführung, Sicherheitsvorfall und Haftung als kurze Startauswahl; neue Charge, Rückläufer und Updatefassung ändern gezielt den bestehenden Rückruf- und Maßnahmenentwurf. Vorhandene rechtliche Grenzen erhalten.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Markteinführung, Sicherheitsvorfall und Haftung als kurze Startauswahl; neue Charge, Rückläufer und Updatefassung ändern gezielt den bestehenden Rückruf- und Maßnahmenentwurf. Vorhandene rechtliche Grenzen erhalten. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
-      "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt."
+      "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "d96ad19740b1e3461d8a5cc457040efe12c70c7fa9a26bbeca660d83efa9854d"
+    "sha256": "e76fcd215bb253ecc93ec83d45f193f9646304e921735e49ee1a637a06bb788b",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung.",
+    "reason": "Am 2026-09-23 vollständig gelesen und fachlich vertieft: Aussagekraft von Prüfmustern, Feldfehler und Fehlanwendung, erreichbare Updategruppen, Mengenabgleich, Abhilfeauswahl und Rückrufwirksamkeit. Technische Hypothesen und Sicherheitsfreigabe bleiben nachweisgebunden; keine Live-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
       "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
-      "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden."
+      "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
+      "2026-10-16, redaktioneller Einstiegsreview: Produktfehler, Sicherheitsmaßnahmen und Ergebnis früh getrennt; verfügbare sichere Alternative statt bloßer Branchenüblichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4cfc3ebe17020b71d7e982551c36d4ca72c3840f33881d8e8b877435f873be62"
+    "sha256": "34cd644cad702a37b030ca4194c0af9e4e8cf466263dea0cc358e0be9c391b3e",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

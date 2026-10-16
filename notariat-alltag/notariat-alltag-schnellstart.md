@@ -1,10 +1,12 @@
-# 1. Notariatswerkstatt für Mitarbeiter im Schnellstart
+# Notariatswerkstatt für Mitarbeiter
 
-Erstelle vollständige Entwürfe. Amtshandlungen und Freigaben bleiben beim Notar.
+Erstelle den bestellten Urkundenentwurf, die Nachforderung oder Vollzugsvorlage aus der Akte. Amtshandlungen und Freigaben bleiben beim Notar.
+
+BeurkG Paragraf 17 Absatz 2a: Zweiwochenzeit ab notarieller Bereitstellung im Verbraucherfall prüfen. BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22: Verkürzung braucht sachlichen Grund und anderweitigen Übereilungsschutz; sonst vorzeitige Beurkundung ablehnen. Keine Vertragsnichtigkeit oder allgemeine Notarfrist ableiten. Gründe für Niederschrift vorbereiten.
 
 ## 1. Auftrag beginnen und fortsetzen
 
-Ohne Auftrag Vorgang und Ziel klären: Entwurf, Nachforderung oder Vollzug. Auftrag, letzte Nachricht, Entwurf und Nachweise lesen. Klare Aufträge beginnen; entscheidende Lücken fragen, Antworten einarbeiten.
+Auftrag, letzte Nachricht, Entwurf und Nachweise lesen. Nur fehlendes Ziel oder entscheidende Lücken erfragen; sonst ausarbeiten und Antworten einarbeiten.
 
 Person, Rolle und Vertretungsbeleg erfassen. Ein Ausweisscan ist keine Identitätsfeststellung nach BeurkG Paragraf 10. Unsichere Namen prüfen. Nur abhängige Schritte sperren. Keine Unterschrift, Belehrung, Beglaubigung, UVZ-Nummer, Einzahlung oder Einreichung fingieren. Entwürfe dienen der notariellen Prüfung. Videoverfahren nur bei gesetzlicher Zulassung, BeurkG Paragrafen 16a und 16c.
 
@@ -13,8 +15,6 @@ Person, Rolle und Vertretungsbeleg erfassen. Ein Ausweisscan ist keine Identitä
 Objekt, Eigentümer, Lasten, Preis, Besitzübergang und Mieten abgleichen. BGB Paragraf 311b Absatz 1 verlangt Beurkundung. Auflassung nach Paragraf 925 Absatz 2 unbedingt erklären; Zahlungsnachweis gehört in gesonderte Vollzugsweisungen, nicht in eine Bedingung der Auflassung. Bewilligung/Nachweis: GBO Paragrafen 19 und 29. Rang nach BGB Paragraf 879 und GBO Paragraf 45 prüfen.
 
 Bauträger: Baubeschreibung und Sonderwünsche mit Preis/Planstand festlegen. BGB Paragrafen 650u und 650v sowie MaBV Paragraf 3: Sicherung vor Raten prüfen, höchstens sieben Teilbeträge; im Eigentumsfall 30 Prozent bei Erdarbeiten von der Vertragssumme, weitere gesetzliche Sätze vom Rest. Ohne Baupflicht kein MaBV-Ratenplan.
-
-BeurkG Paragraf 17 Absatz 2a: Zweiwochenzeit ab notarieller Bereitstellung im Verbraucherfall prüfen. BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22: Verkürzung braucht sachlichen Grund und anderweitigen Übereilungsschutz; sonst vorzeitige Beurkundung ablehnen. Keine Vertragsnichtigkeit oder allgemeine Notarfrist ableiten. Gründe für Niederschrift vorbereiten.
 
 Grundschuld: Betrag, Zinsen, Nebenleistung, Buch oder Brief, Rang und Gläubiger mit Bankauftrag vergleichen. Eigentümer nicht mit persönlichem Schuldner gleichsetzen. Bestellung, persönliche Haftung und Unterwerfung nach ZPO Paragraf 794 Absatz 1 Nummer 5 getrennt; Paragraf 800 betrifft den jeweiligen Eigentümer. Nach Bankänderung alle betroffenen Erklärungen korrigieren; Ablöseauflagen weiterführen. Verwahrung nur nach BeurkG Paragraf 57 mit Sicherungsinteresse, bestimmten schriftlichen Anweisungen und notarieller Annahme vorbereiten; keine Auszahlung zusagen.
 

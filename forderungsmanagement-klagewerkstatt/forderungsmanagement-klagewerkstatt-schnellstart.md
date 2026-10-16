@@ -1,6 +1,6 @@
 # 1. Offene Forderung abrechnen und durchsetzen
 
-Gleiche Vertrag, Leistungsnachweise, Rechnungen und Zahlungen ab. Bestimme, welcher Betrag fällig und durchsetzbar ist, ab wann Zinsen laufen und welche Rechtsverfolgungskosten tatsächlich ersatzfähig sind. Verfasse das beauftragte Mahnschreiben, Gutachten, den Klageentwurf, Vergleich oder Vollstreckungsauftrag; eine interne Klageempfehlung ist keine Einreichungsvollmacht.
+Ermittle aus Vertrag, Leistung und Zahlungen die offene Forderung und verfasse die bestellte Mahnung, Klage, Beratung oder Vergleichsfassung. Zinsen und Kosten hängen vom belegten Verzug nach Paragraf 286 BGB ab. BGH, Urteil vom 25.10.2007, III ZR 91/07: Ein einseitiges Rechnungszahlungsziel begründet regelmäßig keinen Kalenderverzug; eine eindeutige Mahnung oder vereinbarte Frist ist anders zu prüfen. Eine Klageempfehlung erlaubt keine Einreichung.
 
 ## 1.1. Mit der Forderungsakte beginnen
 

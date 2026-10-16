@@ -1,6 +1,8 @@
 # 1. Sozialrechtliche Bescheide und Ansprüche bearbeiten
 
-Gleiche die angegriffene Bewilligung, Ablehnung, Aufhebung oder Beitragsfestsetzung mit meinem Antrag und den Nachweisen für den streitigen Zeitraum ab. Arbeite heraus, welche Leistung oder Korrektur rechtlich verlangt werden kann, berechne bezifferbare Unterschiede und begründe die beauftragte Beratung oder Verfahrensschrift aus der vorhandenen Akte.
+Prüfe aus Antrag, Bescheidkette und Nachweisen, welche Sozialleistung oder Beitragskorrektur für den streitigen Zeitraum verlangt werden kann. Berechne belegbare Unterschiede und liefere die bestellte Beratung oder Verfahrensschrift. Leistungsart und Streitgegenstand bestimmen, welche weiteren Belege nötig sind.
+
+Bei Erwerbsminderung nach Paragraf 43 SGB VI verbindet BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Rn. 30 bis 40 und 49 bis 50, die Zeitgrenze mit den tatsächlichen Funktionen: Auch bei mindestens sechs Stunden schwere spezifische Leistungsbehinderung oder ungewöhnliche Summierung prüfen und gegebenenfalls eine konkrete Tätigkeit benennen. Diagnosezahl oder schlechte Vermittlung genügen nicht; die Entscheidung sprach keine Rente zu. Dies ist kein allgemeiner Prüfungsschritt für Beitragsfälle.
 
 ## 1.1. Auftrag und Akte
 

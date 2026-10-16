@@ -7,15 +7,23 @@
   "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Portal- oder Mandantenlaeufe. Die drei kuenstlichen Eingaben sind eigenstaendige Testszenarien, keine Ergebnisse aus den importierten Testakten. Keine globale Rechtspruefung des Rollenbestands.",
   "mini_review": {
     "verdict": "retained",
-    "reason": "Der kanonische Schnellstart wurde mit dem Original-Mini abgeglichen. Einstieg ueber Angebotslage, Abgabefrist, veroeffentlichte Kriterien und Formatweg ist bieterspezifisch. Die Fuenf-Zeilen-Lage und hoechstens drei nachgelagerte Blockerfragen erlauben einen ersten Arbeitsstand ohne Skillwahl. In diesem Auftrag keine Prompt-Aenderung; keine Laufpruefung.",
-    "changes": [],
-    "sha256": "1a579bcf9791d17a17b56b2dfd40953aeb85f8512789e9da528ad845232c4610"
+    "reason": "Der kanonische Schnellstart wurde mit dem Original-Mini abgeglichen. Einstieg ueber Angebotslage, Abgabefrist, veroeffentlichte Kriterien und Formatweg ist bieterspezifisch. Die Fuenf-Zeilen-Lage und hoechstens drei nachgelagerte Blockerfragen erlauben einen ersten Arbeitsstand ohne Skillwahl. In diesem Auftrag keine Prompt-Aenderung; keine Laufpruefung. Redaktionelle Anschlussprüfung 16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten."
+    ],
+    "sha256": "70d7729a906a029be37be2b32f0f8d80a7b13ba62ef4e0cf93b07fb43c7ce6f7",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Punktebruecke, Kostenbeleg, Angebotsfreeze und Rechtsschutzreserve. Die gelesenen Fachskills begrenzen Qualitaetsargumente auf die veroeffentlichte Matrix und verlangen feste Abgabedateien statt veraenderlicher Links. Redaktionell beibehalten; native Dateiintegritaet, Fristberechnung und Toolausfuehrung sind damit nicht getestet.",
-    "changes": [],
-    "sha256": "5fcea18bafd9d2705f3c469046bc7178fecc861734953a2c6a9d3721ce033251"
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Punktebruecke, Kostenbeleg, Angebotsfreeze und Rechtsschutzreserve. Die gelesenen Fachskills begrenzen Qualitaetsargumente auf die veroeffentlichte Matrix und verlangen feste Abgabedateien statt veraenderlicher Links. Redaktionell beibehalten; native Dateiintegritaet, Fristberechnung und Toolausfuehrung sind damit nicht getestet. Redaktionelle Anschlussprüfung 16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "16.10.2026: Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten."
+    ],
+    "sha256": "617a1083cd5f9394dcd83ad380c7226c96fc25895d3399ff32696d30e11da5e5",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",
@@ -99,11 +107,34 @@
       "target_skill": "qualitaetsvorsprung-nachweisen",
       "request": "Kuenstliche Testeingabe: Wir erstellen ein Angebot fuer einen VgV-Dienstleistungsauftrag. Die veroeffentlichte Matrix vergibt 50 Preispunkte nach 50 mal niedrigster Preis geteilt durch Angebotspreis und 50 Qualitaetspunkte. Fuer eine interne Simulation sind 800000 EUR mit 25 Qualitaetspunkten und unser Preis von 1000000 EUR mit 45 Punkten angesetzt. Unsere 45 Punkte sind nur eine noch zu belegende Selbsteinschaetzung. Lebenszykluskosten sind kein weiteres Kriterium. Erstelle eine Punktebruecke und einen Konzeptentwurf mit offenen Nachweisen; versprich keinen Zuschlag.",
       "input_files": [],
-      "deliverables": ["punktebruecke.md", "konzeptentwurf.md"],
+      "deliverables": [
+        "punktebruecke.md",
+        "konzeptentwurf.md"
+      ],
       "criteria": [
-        {"id": "Q01", "text": "Berechnet im vorgegebenen Szenario 50 plus 25 gleich 75 und 40 plus 45 gleich 85 Punkte; kennzeichnet die Qualitaetsannahmen als Simulation und nicht als bekannte Fremdwertung.", "deliverables": ["punktebruecke.md"]},
-        {"id": "Q02", "text": "Ordnet jede beanspruchte Qualitaetsstufe einem veroeffentlichten Kriterium und einem erforderlichen Angebotsbeleg zu; erfindet weder Unterkriterien noch einen Lebenszykluskostenbonus oder vorhandene Referenzen.", "deliverables": ["punktebruecke.md", "konzeptentwurf.md"]},
-        {"id": "Q03", "text": "Liefert einen nutzbaren vorlaeufigen Konzepttext und interne Beleganforderungen; zeigt die Empfindlichkeit gegen geringere eigene Qualitaetspunkte, statt den simulierten Vorsprung als garantierten Zuschlag darzustellen.", "deliverables": ["konzeptentwurf.md", "punktebruecke.md"]}
+        {
+          "id": "Q01",
+          "text": "Berechnet im vorgegebenen Szenario 50 plus 25 gleich 75 und 40 plus 45 gleich 85 Punkte; kennzeichnet die Qualitaetsannahmen als Simulation und nicht als bekannte Fremdwertung.",
+          "deliverables": [
+            "punktebruecke.md"
+          ]
+        },
+        {
+          "id": "Q02",
+          "text": "Ordnet jede beanspruchte Qualitaetsstufe einem veroeffentlichten Kriterium und einem erforderlichen Angebotsbeleg zu; erfindet weder Unterkriterien noch einen Lebenszykluskostenbonus oder vorhandene Referenzen.",
+          "deliverables": [
+            "punktebruecke.md",
+            "konzeptentwurf.md"
+          ]
+        },
+        {
+          "id": "Q03",
+          "text": "Liefert einen nutzbaren vorlaeufigen Konzepttext und interne Beleganforderungen; zeigt die Empfindlichkeit gegen geringere eigene Qualitaetspunkte, statt den simulierten Vorsprung als garantierten Zuschlag darzustellen.",
+          "deliverables": [
+            "konzeptentwurf.md",
+            "punktebruecke.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     },
@@ -112,11 +143,33 @@
       "target_skill": "angebot-in-vorgegebenem-format-erstellen",
       "request": "Kuenstliche Testeingabe: Das Portal verlangt ein unveraendert strukturiertes XLSX-Preisblatt, ein unterschriebenes PDF und eine native GAEB-Angebotsdatei. Unser uebermittelter Inventartext nennt Preisblatt v3, Konzept als veraenderlichen Cloud-Link und GAEB v2. Die vorliegende textliche Quittung nennt nur Preisblatt v2 und ein PDF; Serverzeit und Hashes fehlen. Binaerdateien und Portalzugriff stehen nicht zur Verfuegung. Die Abgabefrist ist heute 14 Uhr, aktuelle Serverzeit unbekannt. Erstelle ein Freeze-Manifest und eine interne Freigabenotiz mit konkreten Nachforderungen. Lade nichts hoch.",
       "input_files": [],
-      "deliverables": ["freeze-manifest.csv", "freigabenotiz.md"],
+      "deliverables": [
+        "freeze-manifest.csv",
+        "freigabenotiz.md"
+      ],
       "criteria": [
-        {"id": "F01", "text": "Manifest unterscheidet gefordertes Format, lokalen Inventarstand und quittierten Stand; weist Preisblatt v3 gegen v2, fehlenden GAEB-Empfang und den nicht eingefrorenen Konzeptlink als offene Punkte aus.", "deliverables": ["freeze-manifest.csv"]},
-        {"id": "F02", "text": "Erfindet keine Hashes, Signaturpruefung, nativen Dateien oder erfolgreiche Formatvalidierung; verlangt Originale und bewahrt als Pruefvorgabe Blattstruktur, Formeln, Positionen und Mengen.", "deliverables": ["freeze-manifest.csv", "freigabenotiz.md"]},
-        {"id": "F03", "text": "Verweigert eine vorbehaltlose Abgabefreigabe, benennt den sofortigen Serverzeit-/Quittungsabgleich und verantwortliche Pruefschritte. Behauptet weder Upload noch fristgerechten Eingang aus der unvollstaendigen Quittung.", "deliverables": ["freigabenotiz.md"]}
+        {
+          "id": "F01",
+          "text": "Manifest unterscheidet gefordertes Format, lokalen Inventarstand und quittierten Stand; weist Preisblatt v3 gegen v2, fehlenden GAEB-Empfang und den nicht eingefrorenen Konzeptlink als offene Punkte aus.",
+          "deliverables": [
+            "freeze-manifest.csv"
+          ]
+        },
+        {
+          "id": "F02",
+          "text": "Erfindet keine Hashes, Signaturpruefung, nativen Dateien oder erfolgreiche Formatvalidierung; verlangt Originale und bewahrt als Pruefvorgabe Blattstruktur, Formeln, Positionen und Mengen.",
+          "deliverables": [
+            "freeze-manifest.csv",
+            "freigabenotiz.md"
+          ]
+        },
+        {
+          "id": "F03",
+          "text": "Verweigert eine vorbehaltlose Abgabefreigabe, benennt den sofortigen Serverzeit-/Quittungsabgleich und verantwortliche Pruefschritte. Behauptet weder Upload noch fristgerechten Eingang aus der unvollstaendigen Quittung.",
+          "deliverables": [
+            "freigabenotiz.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     },
@@ -125,13 +178,57 @@
       "target_skill": "18-aufklaerung-niedriges-angebot-paragraf-60",
       "request": "Kuenstliche Testeingabe: Die Vergabestelle verlangt nach Paragraf 60 VgV Erklaerung unseres unveraenderlichen Gesamtpreises von 720000 EUR netto. Unsere interne Kostenbruecke nennt Personal einschliesslich behaupteter Sozialabgaben 500000 EUR, Material 90000 EUR, Gemeinkosten 60000 EUR sowie Risiko und Gewinn 70000 EUR. Der Sozialabgabennachweis fehlt. Der Vertrieb nennt zusaetzlich 40000 EUR Einkaufsrabatt, hat aber weder Zusage noch nachvollziehbare Zuordnung zur bereits vorgelegten Materialposition. Erstelle einen vorlaeufigen Antwortentwurf und eine interne Beleglueckenliste. Keine tatsaechlichen Lohn- oder Lieferantenbelege sind beigefuegt.",
       "input_files": [],
-      "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"],
+      "deliverables": [
+        "preisantwort-entwurf.md",
+        "belegluecken.md"
+      ],
       "criteria": [
-        {"id": "P01", "text": "Fuehrt die vier Kostenbloecke rechnerisch auf 720000 EUR zurueck und behandelt den unbelegten Rabatt nicht als zusaetzlich nachgewiesene Ersparnis oder neuen Angebotspreis.", "deliverables": ["preisantwort-entwurf.md"]},
-        {"id": "P02", "text": "Fordert gezielt Sozialabgaben- und Rabattbelege mit Zuordnung zur Kalkulation an; kennzeichnet die Erklaerung als vorlaeufig und bestaetigt weder Rechtskonformitaet noch Auskoemmlichkeit ohne Nachweise.", "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"]},
-        {"id": "P03", "text": "Trennt interne Unsicherheiten und vertrauliche Kalkulationsanlagen vom Empfaengertext; unterscheidet unzureichende Aufklaerung von nachgewiesener Missachtung gesetzlicher Pflichten, ohne Ausschluss oder Versand als erfolgt zu behaupten.", "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"]}
+        {
+          "id": "P01",
+          "text": "Fuehrt die vier Kostenbloecke rechnerisch auf 720000 EUR zurueck und behandelt den unbelegten Rabatt nicht als zusaetzlich nachgewiesene Ersparnis oder neuen Angebotspreis.",
+          "deliverables": [
+            "preisantwort-entwurf.md"
+          ]
+        },
+        {
+          "id": "P02",
+          "text": "Fordert gezielt Sozialabgaben- und Rabattbelege mit Zuordnung zur Kalkulation an; kennzeichnet die Erklaerung als vorlaeufig und bestaetigt weder Rechtskonformitaet noch Auskoemmlichkeit ohne Nachweise.",
+          "deliverables": [
+            "preisantwort-entwurf.md",
+            "belegluecken.md"
+          ]
+        },
+        {
+          "id": "P03",
+          "text": "Trennt interne Unsicherheiten und vertrauliche Kalkulationsanlagen vom Empfaengertext; unterscheidet unzureichende Aufklaerung von nachgewiesener Missachtung gesetzlicher Pflichten, ohne Ausschluss oder Versand als erfolgt zu behaupten.",
+          "deliverables": [
+            "preisantwort-entwurf.md",
+            "belegluecken.md"
+          ]
+        }
       ],
       "runtime_status": "not_run"
     }
-  ]
+  ],
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten.",
+    "source_status": "Stand 08.10.2026: nur amtlich indexierte Leitsätze, damaliger direkter Volltextabruf gescheitert; kein neuer Abruf.",
+    "files": [
+      {
+        "path": "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md",
+        "sha256": "70d7729a906a029be37be2b32f0f8d80a7b13ba62ef4e0cf93b07fb43c7ce6f7",
+        "reason": "Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten.",
+        "anchor_or_exception": "Paragrafen 127 GWB und 60 VgV; BGH 31.01.2017 X ZB 10/16: Aufklärungsanlass und Geheimnisabwägung, kein automatischer Ausschluss oder vollständige Kalkulationsoffenlegung."
+      },
+      {
+        "path": "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md",
+        "sha256": "617a1083cd5f9394dcd83ad380c7226c96fc25895d3399ff32696d30e11da5e5",
+        "reason": "Angebot und Rechtsschutz vor Skill-Routing gestellt; Routingtabellen vollständig ans Ende verschoben. Verpflichtende Startkarten durch auftragsbezogene interne Prüfhilfen ersetzt, Fachzweige erhalten.",
+        "anchor_or_exception": "Paragrafen 127 GWB und 60 VgV; BGH 31.01.2017 X ZB 10/16: Aufklärungsanlass und Geheimnisabwägung, kein automatischer Ausschluss oder vollständige Kalkulationsoffenlegung."
+      }
+    ]
+  }
 }

@@ -1,8 +1,8 @@
 # 1. Berufliche E-Mail sachlich umformulieren
 
-Formuliere den Zahlungswiderspruch, die Nachweisanforderung oder die Kritik an der Mandatsbearbeitung so um, dass der konkrete Vorwurf verständlich bleibt, persönliche Angriffe entfallen und weder Anerkenntnis noch Vergleichsangebot entstehen. Lies Original und relevanten Gesprächsverlauf zuerst.
+Überarbeite den Zahlungswiderspruch, die Nachweisanforderung oder die Kritik an der Mandatsbearbeitung zu einer versandfähigen E-Mail. Lies Original und Gesprächsverlauf zuerst. Der Sachvorwurf bleibt verständlich, persönliche Angriffe entfallen; Anerkenntnis oder Vergleichsangebot dürfen nicht durch die Tonkorrektur entstehen. Beträge, Fristen und Vorbehalte erhalten.
 
-Erhalte Auftrag, Rechtsstandpunkt, Beträge, Fristen und Vorbehalte. Liefere die überarbeitete E-Mail, nicht ungefragt ein Berufsrechtsgutachten oder eine Kammerstellungnahme.
+Bei anwaltlicher Zuspitzung begrenzen Paragraf 43a Absatz 3 BRAO und Artikel 5 Absatz 1 GG die Bearbeitung. BVerfG, Beschluss vom 02.07.2013, 1 BvR 1751/12, Rn. 15 bis 21, fordert die Würdigung von Sachbezug, Anlass und Empfängerkreis statt vorschneller Einordnung als Schmähkritik. Die Aufhebung zivilrechtlicher Unterlassungsurteile bedeutet weder automatische Aufhebung einer Kammerrüge noch Erlaubnis bewusster Falschbehauptungen. Liefere die E-Mail, nicht ungefragt ein Berufsrechtsgutachten.
 
 ## 1.1. Aussage und Empfänger bestimmen
 

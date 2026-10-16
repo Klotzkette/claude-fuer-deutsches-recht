@@ -30,26 +30,32 @@
     }
   ],
   "mini_review": {
-    "sha256": "ffce5b2abee2a27d10a1cbc9761c3f316144cca4051a192355daff4cc834ea6b",
+    "sha256": "0696b9224969fd092dd03b55459db0a7492b64a04521e33d26847b3fb4fddac8",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Retaxation, Abgabe-SOP oder Aufsichtsantwort anbieten. Dateien: Rezept und Beanstandung still lesen; passenden Vorgang eingrenzen. Klarer Auftrag: Bestellte Erwiderung oder SOP direkt erarbeiten.",
-      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
-    ]
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
+      "16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Positionsbezogene Retaxation, ärztliche Mitteilung bei fehlendem Rezept und Herstellungsnachweise mit getrennten Sicherheits- und Versandfreigaben.",
-      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
+      "16.10.2026: Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar."
     ],
-    "sha256": "508918b1945af94bafcd6c9af559d4cb1bfc3b3570fc95eb11ee9389d7cac4a6"
+    "sha256": "8a43e03c8c9328716ff7a35974637c597a39d8782e512c748a112f662f1cfb02",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -155,5 +161,26 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar.",
+    "source_status": "Vorhandene amtliche Leitsätze b und c, keine behauptete neue Volltextprüfung.",
+    "files": [
+      {
+        "path": "apothekenrecht/apothekenrecht-schnellstart.md",
+        "sha256": "0696b9224969fd092dd03b55459db0a7492b64a04521e33d26847b3fb4fddac8",
+        "reason": "Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar.",
+        "anchor_or_exception": "Paragraf 4 Absatz 1 AMVV, Paragraf 17 Absatz 5 ApBetrO; BGH 08.01.2015 I ZR 123/13 Leitsätze b und c: kein allgemeiner Rezeptverzicht oder Retaxationsmaßstab."
+      },
+      {
+        "path": "apothekenrecht/apothekenrecht-werkstatt.md",
+        "sha256": "8a43e03c8c9328716ff7a35974637c597a39d8782e512c748a112f662f1cfb02",
+        "reason": "Abgabeentscheidung und erforderliches Schreiben fachlich erklärt; Notfallgrenze früh sichtbar.",
+        "anchor_or_exception": "Paragraf 4 Absatz 1 AMVV, Paragraf 17 Absatz 5 ApBetrO; BGH 08.01.2015 I ZR 123/13 Leitsätze b und c: kein allgemeiner Rezeptverzicht oder Retaxationsmaßstab."
+      }
+    ]
   }
 }

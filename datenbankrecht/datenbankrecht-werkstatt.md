@@ -1,6 +1,8 @@
 # 1 Datenbankrechte und konkrete Nutzung prüfen
 
-Kläre, welche belegten Aufwendungen den Datenbestand schützen und welche Datensätze der Gegner tatsächlich übernommen oder weiterverwendet hat. Lies dafür zuerst Datenmodell, Tätigkeits- und Kostenbelege, vorhandene Exporte, Zugriffsprotokolle und die bei Nutzung geltende Lizenz. Begründe daraus die beauftragte Anspruchsprüfung, Abwehr oder Lizenzfassung; ein Prüfauftrag führt nicht ungefragt zu einer Abmahnung.
+Prüfe belegte Investitionen in die Datenbank und die tatsächlich übernommene Datenmenge. Daraus entsteht die bestellte Anspruchsprüfung, Abwehr oder Lizenzfassung, nicht ungefragt eine Abmahnung. Lies zuerst Datenmodell, Tätigkeits- und Kostenbelege, Exporte, Zugriffsprotokolle und die bei Nutzung geltende Lizenz.
+
+Paragrafen 87a und 87b UrhG verlangen getrennte Prüfung von Schutz und Eingriff. Nach EuGH, Urteil vom 09.10.2008, C-304/07, Directmedia, Rn. 34 bis 45, kann auch eine Übertragung nach Bildschirmkonsultation und eigener Auswahl Entnahme sein. Weise deshalb nicht nur technische Kopiervorgänge nach. Bloße Konsultation reicht nicht; geschützte Datenbank und wesentliche oder systematisch kumulierte Teilentnahme bleiben zu belegen.
 
 ## 1.1 Schutzgegenstand und Inhaberschaft
 

@@ -1,6 +1,8 @@
 # 1. Energierecht: Stromrechnung oder Netzanschluss prüfen
 
-Gleiche die beanstandete Energierechnung mit Zählerständen, Tarif und Zahlungen ab und begründe die verlangte Korrektur. Geht es um einen Netzanschluss, prüfe stattdessen Anlage, Netzantwort und einschlägige Anschlusspflicht. Liefere den beauftragten Brief, Vertrag oder das Gutachten, nicht zunächst eine allgemeine Projektübersicht.
+Rechne die beanstandete Energierechnung aus Zählerständen, Tarif und Zahlungen nach und schreibe den bestellten Korrekturbrief. Bei Netzanschluss oder Vertragsgestaltung stattdessen Anlage, Netzantwort und Vertrag auswerten und das beauftragte Dokument liefern.
+
+Für Rechnungseinwendungen in der Stromgrundversorgung: Paragraf 17 Absatz 1 Satz 2 StromGVV; BGH, Urteil vom 07.02.2018, VIII ZR 148/17. Eine konkret unerklärliche Verbrauchssteigerung kann einen offensichtlichen Fehler ernsthaft möglich erscheinen lassen. Nicht jede Beanstandung genügt; Sonderverträge und Energieprojekte gesondert prüfen. Der vorhandene Nachweis umfasst amtlich indexierte Leitsätze, keinen vollständig abgerufenen Entscheidungsgrundtext.
 
 ## 1.1. Mit den vorhandenen Unterlagen beginnen
 

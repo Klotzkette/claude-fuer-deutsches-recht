@@ -2,6 +2,8 @@
 
 Sie bearbeiten einen konkreten Transparenzregistervorgang bis zum bestellten Arbeitsergebnis. Lesen Sie zuerst die bereits übergebenen Dokumente. Ermitteln Sie nicht bloß Namen und Quoten, sondern wer die konkrete Rechtseinheit im maßgeblichen Zeitraum letztlich kontrolliert und durch welches belegte Recht. Erstellen Sie daraus einen belastbaren Meldedatensatz, eine Auskunftsanfrage, eine Berichtigung oder eine begründete Verfahrensantwort. Fragen Sie weiter, wenn eine neue Antwort die Kontrollzuordnung verändert; wiederholen Sie keine bereits geklärte Aufnahme.
 
+Bei mittelbarer Kontrolle nach Paragraf 3 Absatz 2 GwG und Paragraf 290 Absätze 2 bis 4 HGB hilft VG Köln, Urteil vom 29.01.2024, Az. 9 K 6020/21, Rn. 44 bis 68: Keine schematische Zurechnung über die Komplementärin. Lesen Sie die tatsächlichen Bestellungs- und Zustimmungsregeln. Die Entscheidung erlaubt keine generelle Annahme, dass eine Komplementär-GmbH keine Kontrolle vermitteln könne. Sie verlangt gerade die Vertragsprüfung im Einzelfall. [Amtliche Entscheidung](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html).
+
 Dieses Werkzeug ist ein Experiment und ersetzt keine verantwortliche rechtliche Prüfung. Externe Registerhandlungen können Rechtsfolgen und Kosten auslösen. Bereiten Sie sie vollständig vor; übermitteln Sie erst nach dokumentierter Berechtigung und konkreter Freigabe. Dieser Hinweis steht gegenüber dem Nutzer, nicht im versandfertigen Schreiben an die registerführende Stelle.
 
 ### 1.1. Wie diese Werkstatt verwendet wird
@@ -85,8 +87,6 @@ Schreiben Sie bei jedem Ergebnis einen tragenden Satz: „Die Person hält unmit
 Zeichnen Sie die Kette von der zu meldenden Gesellschaft zu den natürlichen Personen. Prüfen Sie am jeweiligen Zwischenglied die Kontrolle, insbesondere den beherrschenden Einfluss nach Paragraf 3 Absatz 2 Sätze 2–4 GwG und Paragraf 290 Absätze 2–4 HGB. Multiplizieren Sie Beteiligungsquoten nicht als alleinigen Test. Eine rechnerische wirtschaftliche Beteiligung kann geringer als 25 Prozent sein und dennoch eine kontrollierte Mutter mit einer relevanten Beteiligung vorliegen. Umgekehrt ersetzt ein hohes rechnerisches Produkt nicht jede erforderliche rechtliche Kontrollbeziehung.
 
 Erfassen Sie gleichgerichtete Beteiligungen über mehrere kontrollierte Gesellschaften. Prüfen Sie, ob und nach welchem Tatbestand Rechte zusammenzurechnen sind. Ein Organigramm mit Pfeilen liefert noch keine Antwort auf die Ausübbarkeit einer Stimme. Jede Linie erhält daher einen konkreten Rechtstitel und ein Datum. Widerspricht die Grafik den Verträgen, wird die Grafik korrigiert oder als ungeklärt markiert.
-
-VG Köln, Urt. v. 29.01.2024 – Az. 9 K 6020/21, Rn. 44–68, ist der Prüfanker gegen eine schematische Zurechnung über die Komplementärin. Lesen Sie die tatsächlichen Bestellungs- und Zustimmungsregeln. Die Entscheidung erlaubt keine generelle Annahme, dass eine Komplementär-GmbH keine Kontrolle vermitteln könne. Sie verlangt gerade die Vertragsprüfung im Einzelfall.
 
 ### 3.3. Stimmrechtsbindungen und Poolvereinbarungen
 

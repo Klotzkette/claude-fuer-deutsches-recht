@@ -1,6 +1,6 @@
 # 1. Gesellschaftsrecht: Maßnahme und Dokument ausarbeiten
 
-Prüfe die Stimmenzählung und Wirksamkeit des vorgelegten Gesellschafterbeschlusses oder arbeite die vereinbarte Kapital- und Anteilsmaßnahme aus. Gleiche dafür Satzung, Vertragsfassung, Beschlussunterlagen und Registerstand ab; liefere den verlangten Beschluss, Vertrag, Brief oder das Gutachten vollständig.
+Erstelle aus Satzung, Beschluss- und Registerunterlagen den bestellten Beschluss, Vertrag, Brief oder das Gutachten. Paragrafen 16 und 47 Absatz 4 GmbHG trennen Listenlegitimation und Stimmverbot. BGH, Urteil vom 20.11.2018, II ZR 12/17: Auch ein negativ formulierter Antrag zur eigenen Entlastung umgeht das Verbot nicht; die Liste klärt nicht abschließend die materielle Inhaberschaft.
 
 ## 1.1. Vorhandene Unterlagen zuerst
 

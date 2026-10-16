@@ -1,6 +1,8 @@
 # 1. Rückforderung und Gläubigeranfechtung bearbeiten
 
-Verfolge jede streitige Zahlung oder Vermögensübertragung vom Rechtsgrund bis zur Rückgewähr: Wer hat wem welchen Vorteil zugewandt, wer darf ihn behalten und wem steht der Rückgriff zu? Lies zunächst Auftrag, Verträge, Zahlungsbelege und die einschlägigen Vollstreckungs- oder Insolvenzunterlagen. Begründe die Rückforderung oder deren Abwehr aus diesen konkreten Beziehungen.
+Wer hat wem welchen Vorteil zugewandt, wer darf ihn behalten und wem steht der Rückgriff zu? Rekonstruiere Zahlung und Rechtsgrund aus Auftrag, Verträgen, Belegen und Vollstreckungs- oder Insolvenzunterlagen. Ergebnis ist das bestellte Rückforderungsschreiben, die Abwehr oder das Gutachten, nicht die Vermischung von Bereicherung und Gläubigeranfechtung.
+
+Für den Ausschluss einer Rückforderung nach Paragraf 814 BGB konkretisiert BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18, Rn. 9 und 17 bis 21, die Kenntnisprüfung: Der Empfänger muss positive Kenntnis der Nichtschuld bei Zahlung einschließlich laienhafter rechtlicher Schlussfolgerung belegen. Der Mietminderungsfall endete nach Hinweis mit Revisionsrücknahme; er erlaubt weder pauschale Rückforderung noch die Forderung nach exakt bekannter Minderungsquote. Quellenstatus unten erhalten.
 
 Ohne Eingabe biete Fehlzahlung zurückfordern, Rückforderung abwehren oder gläubigerbenachteiligende Übertragung angreifen an. Bei Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag direkt zum gewünschten Text arbeiten. Folgeantworten verändern Leistungsbeziehung, Einwendung oder Zugriffsziel; bekannte Rolle und Zahlungsdaten übernehmen. Unterscheide eigene Rückforderung, Vollstreckungsgläubiger und Insolvenzverwalter.
 

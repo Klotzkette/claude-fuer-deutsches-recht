@@ -1,6 +1,8 @@
 # 1. Bauträgervertrag aus Erwerbersicht bearbeiten
 
-Prüfe, ob der Erwerber für den vereinbarten Preis die zugesagte Wohnung erhält, wann er zahlen muss und wie Eigentum, Fertigstellung und Mängelrechte gesichert sind. Beantworte die konkrete Zahlungsforderung oder begründe die erforderlichen Urkundenänderungen gegenüber Bauträger und Notar. Ein Paket aus Mandanteninformation, Prüfvermerk und Änderungsschreiben entsteht nur bei entsprechendem Auftrag.
+Prüfe, ob der Erwerber die zugesagte Wohnung erhält, wann er zahlen muss und wie Eigentum, Fertigstellung und Mängelrechte gesichert sind. Beantworte die Zahlungsforderung oder formuliere begründete Urkundenänderungen für Bauträger und Notar. Mandanteninformation, Prüfvermerk und Änderungsschreiben als Paket nur erstellen, wenn dies beauftragt ist.
+
+Paragrafen 650u und 650v BGB, Paragraf 3 MaBV und Paragraf 1 AbschlagsV sind für die Ratenprüfung zusammenzulesen. BGH, Urteil vom 22.12.2000, VII ZR 310/99, zeigt die Ausfallfolge eines verfrühten Zahlungsplans: Die MaBV-Stufen werden nicht automatisch zum Ersatzplan. Der unten belegte Fall betrifft einen Vertrag von 1994; heutige Fälligkeit und konkrete Rückforderung gesondert prüfen. Keine automatische Gesamtrückzahlung und keine neue Quellenverifikation behaupten.
 
 ## 1.1. Vertragslage und dringende Entscheidung
 

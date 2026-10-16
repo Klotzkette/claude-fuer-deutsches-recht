@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt.",
+    "norms_or_source_basis": "Paragrafen 675u, 675v und 675w BGB",
+    "selected_anchor_identifiers": [
+      "XI ZR 91/14"
+    ],
+    "application_limit": "Sicherheit und ordnungsgemäßer Ablauf bleiben zu belegen; historische Normnummern und heutige Fassung auseinanderhalten.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "27d3b9a9e56d45e4a300417a187608fa81834a020fd0fea7aff9d611190b1405",
+      "characters": 7208,
+      "utf8_bytes": 7308,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff",
+      "characters": 20533,
+      "utf8_bytes": 20833,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-bank-kapitalmarktrecht",
   "reviewed_on": "2026-09-23",
@@ -61,15 +92,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
+    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert."
+      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "65402c34852275202261d2be644b801968aaf3687aba41e14f6908b38d8b21a6"
+    "sha256": "27d3b9a9e56d45e4a300417a187608fa81834a020fd0fea7aff9d611190b1405"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -155,15 +187,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill.",
+    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
       "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
-      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert."
+      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "ea4e9c1457a1bd8604a68ec6f7b6dbaad07878facc61c05d94f36b329837d14f"
+    "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

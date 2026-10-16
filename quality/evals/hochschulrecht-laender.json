@@ -21,16 +21,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test. Einstiegsredaktion 16.10.2026: Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Zulassung, Prüfung, Promotion und Gremienentscheidung an konkreter Normfassung, Zuständigkeit und Beschlussgrundlage prüfen.",
       "Gremienprüfung um Wissenschaftsrelevanz und substanzielle Gruppenrechte ergänzt.",
       "Fortgeltung und konkrete Landesnorm vor Unwirksamkeitsaussage gestellt.",
       "Unverifizierte alte Entscheidungsnummern durch auftragsbezogene Recherchefragen ersetzt; übrige differenzierte Fachzweige erhalten.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt."
+      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet."
     ],
-    "sha256": "55c0d407c68df53fd268119824fc2d671592a3f45423bdb174403350e0fadab4",
+    "sha256": "e0c557ec5fb402a00111c57951be74b69dad0ff07b1f800696a64512b835ca64",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -79,15 +80,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test. Einstiegsredaktion 16.10.2026: Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Gremienprüfung um Wissenschaftsrelevanz und substanzielle Gruppenrechte ergänzt.",
       "Fortgeltung und konkrete Landesnorm vor Unwirksamkeitsaussage gestellt.",
       "Unverifizierte alte Entscheidungsnummern durch auftragsbezogene Recherchefragen ersetzt; übrige differenzierte Fachzweige erhalten.",
       "Tatsächlich erbrachte Prüfungsargumente, technische Störung, funktionale Nachteilsausgleichsnachweise, Übergangsoption und punktbezogene Gremienabstimmung.",
-      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt."
+      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet."
     ],
-    "sha256": "3cdc82ec8ad020f3becae1a04ca64a67829fc5f9cd5f460157fb7a39281de0f8",
+    "sha256": "db47321c0a333a40f20b9c845254f14c3d2aa38fef74a793c1a15f538e0e4421",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
@@ -150,5 +152,41 @@
     "continuation": "Prüferantwort -> konkreten Bewertungsangriff; Optionserklärung -> geltende Ordnung; Anwesenheitsliste -> Mehrheit und Vorlage ändern.",
     "enrichment": "Tatsächlich erbrachte Prüfungsargumente, technische Störung, funktionale Nachteilsausgleichsnachweise, Übergangsoption und punktbezogene Gremienabstimmung.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Landesnorm und Hochschulordnung als konkrete Grundlage vorangestellt; Gremienanker ohne bundesweite Quote oder sofortige Nichtigkeit eingeordnet.",
+    "anchor_or_exception": "BVerfG, Beschluss vom 30.09.2025, 1 BvR 1141/19; Artikel 5 Absatz 3 GG und einschlägige Landesnorm",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "55c0d407c68df53fd268119824fc2d671592a3f45423bdb174403350e0fadab4",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "3cdc82ec8ad020f3becae1a04ca64a67829fc5f9cd5f460157fb7a39281de0f8",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
+        "sha256": "e0c557ec5fb402a00111c57951be74b69dad0ff07b1f800696a64512b835ca64",
+        "characters": 6932,
+        "utf8_bytes": 7020
+      },
+      {
+        "path": "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
+        "sha256": "db47321c0a333a40f20b9c845254f14c3d2aa38fef74a793c1a15f538e0e4421",
+        "characters": 18252,
+        "utf8_bytes": 18525
+      }
+    ]
   }
 }

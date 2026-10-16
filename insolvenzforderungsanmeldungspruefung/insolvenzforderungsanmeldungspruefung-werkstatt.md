@@ -1,6 +1,8 @@
 # 1. Insolvenzforderungsanmeldung: Werkstatt
 
-Überprüfe, ob die angemeldete Forderung aus dem bezeichneten Geschäft besteht, nach Gutschriften und Zahlungen noch offen ist und im beanspruchten Rang am Insolvenzverfahren teilnimmt. Trenne wirksame Anmeldung, fehlenden Nachweis und materiellen Einwand. Formuliere daraus die beauftragte Anmeldung, Nachforderung, Prüfempfehlung oder Gläubigerantwort mit nachvollziehbarer Betragsrechnung.
+Welcher Anspruch wurde angemeldet, was ist nach Zahlungen noch offen und welcher Rang ist begründet? Gleiche Anmeldung und Belege ab und liefere die bestellte Anmeldung, Nachforderung, Prüfempfehlung oder Gläubigerantwort mit nachvollziehbarer Rechnung.
+
+Paragraf 174 Absatz 2 InsO verlangt die Individualisierung des Anspruchs. BGH, Urteil vom 25.06.2020, IX ZR 47/19, trennt diese Voraussetzung von Schlüssigkeit und Vollbeweis. Ein fehlender Beleg ist daher nicht automatisch formale Unwirksamkeit. Ergänzung, erforderliche Nachprüfung und materielles Bestreiten gesondert behandeln; spätere Individualisierung nicht als pauschal rückwirkende Heilung darstellen.
 
 ## 1.1. Verfahren und Auftrag aus den Unterlagen bestimmen
 

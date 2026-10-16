@@ -56,25 +56,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompetenzabschnitt mit einschlägigem gerichtlichem Quellenfehlerfall verbunden, ohne den alten Beschluss als Rechtsprechung zur Reform auszugeben. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Supportzugriff trotz Trainingssperre -> Daten-/Dienstleisterregel ändern; reine Anlagenzuordnung -> Übung und Kontrolle auf diese Rolle begrenzen.",
+    "reason": "Kompetenzabschnitt mit einschlägigem gerichtlichem Quellenfehlerfall verbunden, ohne den alten Beschluss als Rechtsprechung zur Reform auszugeben. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Supportzugriff trotz Trainingssperre -> Daten-/Dienstleisterregel ändern; reine Anlagenzuordnung -> Übung und Kontrolle auf diese Rolle begrenzen. Redaktionelle Einstiegslektüre am 16.10.2026: Mandatsdaten und Originalkontrolle früh berufsrechtlich eingeordnet; Fundstellenfall nicht als allgemeines KI-Verbot.",
     "changes": [
       "AG Köln 312 F 130/25 als begrenzten Quellenkontrollanker angewendet.",
       "Veröffentlichung, Syndikusrolle, Anonymisierung und autonome Außenhandlungen präzisiert.",
       "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
-      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
+      "Redaktion 16.10.2026: Mandatsdaten und Originalkontrolle früh berufsrechtlich eingeordnet; Fundstellenfall nicht als allgemeines KI-Verbot. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "7f801252cfb14736d2119d28103d9f93fbfe1821e3c3cd374433f8c6b288a65f"
+    "sha256": "4359e4c5dacd892a5a6a5f57ab881cf82a26c365e8b7e15508b9dfddd7856078"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig von wiederholten Produktionsrastern befreit; zwölf konkrete Regelungsfelder sowie bestehende Reformwege erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
+    "reason": "Werkstatt vollständig von wiederholten Produktionsrastern befreit; zwölf konkrete Regelungsfelder sowie bestehende Reformwege erhalten. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand. Redaktionelle Einstiegslektüre am 16.10.2026: Mandatsdaten und Originalkontrolle früh berufsrechtlich eingeordnet; Fundstellenfall nicht als allgemeines KI-Verbot.",
     "changes": [
       "AG Köln 312 F 130/25 als begrenzten Quellenkontrollanker angewendet.",
       "Veröffentlichung, Syndikusrolle, Anonymisierung und autonome Außenhandlungen präzisiert.",
       "Artikel 4, 4a, 111 und 113 der Änderungsverordnung sowie offenes Datenschutzverfahren amtlich gegengeprüft.",
-      "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand."
+      "Operative Datenerlaubnis, Pseudonymisierungsvorbehalt, Originalkontrollübung, unterschiedliche Assistenz-/Rechercheübungen und Korrekturpfad vor bzw. nach Versand.",
+      "Redaktion 16.10.2026: Mandatsdaten und Originalkontrolle früh berufsrechtlich eingeordnet; Fundstellenfall nicht als allgemeines KI-Verbot. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "2de39605e1dce29989c9757ab84599a8a93f71f3608f251855c0f05dde95e577"
+    "sha256": "f9696fa5e6fec0c898bac16ca028523689c7db728fc9ccb8b216bf7792629369"
   },
   "selection": {
     "positive": [

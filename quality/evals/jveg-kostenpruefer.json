@@ -46,13 +46,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis.",
+    "reason": "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Redaktionelle Einstiegslektüre am 16.10.2026: Heranziehung und Festsetzungsweg früh mit Kammergutachten verbunden; keine historischen Honorarsätze übertragen.",
     "changes": [
       "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt.",
       "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Redaktion 16.10.2026: Heranziehung und Festsetzungsweg früh mit Kammergutachten verbunden; keine historischen Honorarsätze übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "42cfb09a4bf1a5f507ce9f626a34f8d83e449c58f30280345d4c66aa9665a86f"
+    "sha256": "1086511f7c8cfe51dea491a479e2e20c45855e40d62507631c8ab78cdb33cd20"
   },
   "selection": {
     "positive": [
@@ -132,13 +133,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen.",
+    "reason": "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Redaktionelle Einstiegslektüre am 16.10.2026: Heranziehung und Festsetzungsweg früh mit Kammergutachten verbunden; keine historischen Honorarsätze übertragen.",
     "changes": [
       "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen.",
       "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
-      "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt."
+      "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt.",
+      "Redaktion 16.10.2026: Heranziehung und Festsetzungsweg früh mit Kammergutachten verbunden; keine historischen Honorarsätze übertragen. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "381e23ce59b94ed795289425401d1d4aa7e90ea36005ee6f60d8de89cdca80f8"
+    "sha256": "e10b89bb310d831796f4176222178b1998de05856b6e095359d7bf03be75c023"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -21,25 +21,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Teilzugang bleibt bei begrenzten schutzwürdigen Passagen prüfbar; bloßer Verwaltungsaufwand sperrt nicht automatisch die ganze Akte.",
+    "reason": "Teilzugang bleibt bei begrenzten schutzwürdigen Passagen prüfbar; bloßer Verwaltungsaufwand sperrt nicht automatisch die ganze Akte. Einstiegsredaktion 16.10.2026: Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
       "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
       "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert."
     ],
-    "sha256": "4e3f82536b7fc3ee7bdf791fc68880a6fc1850ef38495a90ea207ffa7317f668"
+    "sha256": "dc363cbeff2899c91211b68e2fd4e33739a91412e864ecd6977ee3a194bc38f2"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "IFG, UIG, VIG, Archiv und Presseauskunft erhalten eigene Anspruchswege; Drittbeteiligung, Gebühren und Eilbedarf sind keine zwingende Prozesskaskade.",
+    "reason": "IFG, UIG, VIG, Archiv und Presseauskunft erhalten eigene Anspruchswege; Drittbeteiligung, Gebühren und Eilbedarf sind keine zwingende Prozesskaskade. Einstiegsredaktion 16.10.2026: Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
       "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
       "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
-      "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage."
+      "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage.",
+      "Einstiegsredaktion 16.10.2026: Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert."
     ],
-    "sha256": "3e27661ae998bb3ff69978ff9c9d7b1097f9ca1d2f4542cc38c93537ebd5dd70"
+    "sha256": "71cf0ee6dada388c56f29c3a15e5f1cc54c5992e8c0de1f8d2d8e3f9793bfca3"
   },
   "selection": {
     "positive": [
@@ -136,5 +138,41 @@
     "continuation": "Aktenzeichen -> Suchgegenstand; veröffentlichte Einzelangabe -> Schutzgrund; Aufwandsschätzung -> begrenzten Antrag; Redaktionsfrist -> Eilbegründung ändern.",
     "enrichment": "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Passagenbezogenen Zugang und konkrete Empfängertexte vorangestellt; institutionellen Aufwand und fortbestehenden Geheimnisschutz zusammen erläutert.",
+    "anchor_or_exception": "BVerwG, Urteil vom 10.04.2019, 7 C 23.18; Paragraf 7 Absatz 2 IFG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "4e3f82536b7fc3ee7bdf791fc68880a6fc1850ef38495a90ea207ffa7317f668",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "3e27661ae998bb3ff69978ff9c9d7b1097f9ca1d2f4542cc38c93537ebd5dd70",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md",
+        "sha256": "dc363cbeff2899c91211b68e2fd4e33739a91412e864ecd6977ee3a194bc38f2",
+        "characters": 5764,
+        "utf8_bytes": 5850
+      },
+      {
+        "path": "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md",
+        "sha256": "71cf0ee6dada388c56f29c3a15e5f1cc54c5992e8c0de1f8d2d8e3f9793bfca3",
+        "characters": 15001,
+        "utf8_bytes": 15267
+      }
+    ]
   }
 }

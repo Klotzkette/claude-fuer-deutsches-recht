@@ -31,15 +31,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini führt Titel, Jahresdeckung und Folgejahresbindung konkret zusammen; Fondszuweisung ersetzt keine erforderliche Ermächtigung. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Mini führt Titel, Jahresdeckung und Folgejahresbindung konkret zusammen; Fondszuweisung ersetzt keine erforderliche Ermächtigung. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Jahresdeckung, offene Bindungen und Folgejahresermächtigung aus Vertrag und Titel nachrechnen.",
       "Doppelte Normenliste durch funktionsbezogene Prüfung von Ausgabe, Verpflichtung und Zuwendung ersetzt.",
       "Interne Überschriften und redundante Mini-Einstiegsanweisungen entfernt.",
       "Fehlende hoheitliche Entscheidungsbefugnis nicht mehr mit Unmöglichkeit abschließender Beratung verwechselt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt."
     ],
-    "sha256": "666ee6404fd1851b85eb8dee05c5b52cc009d758b0b0733f043544ef8204cc13"
+    "sha256": "d0467d61dfaf022827fa1e490ebefdb75d0400c91fe6a944a826014eafed2a29"
   },
   "selection": {
     "positive": [
@@ -87,14 +88,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt trennt Ausgabe, Verpflichtung und Zuwendung, beseitigt doppelte Normenlisten und berücksichtigt die Reichweite des Haushaltsurteils gegenüber den geänderten Verfassungsnormen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt trennt Ausgabe, Verpflichtung und Zuwendung, beseitigt doppelte Normenlisten und berücksichtigt die Reichweite des Haushaltsurteils gegenüber den geänderten Verfassungsnormen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Doppelte Normenliste durch funktionsbezogene Prüfung von Ausgabe, Verpflichtung und Zuwendung ersetzt.",
       "Interne Überschriften und redundante Mini-Einstiegsanweisungen entfernt.",
       "Fehlende hoheitliche Entscheidungsbefugnis nicht mehr mit Unmöglichkeit abschließender Beratung verwechselt.",
-      "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung."
+      "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung.",
+      "Einstiegsredaktion 16.10.2026: Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt."
     ],
-    "sha256": "cbfa40b2672b6589272a07a333b335bd567008292bd44816dfd5c2458b6b2bbc"
+    "sha256": "60626fb67f00df72fe840734bcbf106a21b74cac9e84734e82ae84d5c87e9be4"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -148,5 +150,41 @@
     "continuation": "Neuer Zahlungsplan -> Jahresbindung und VE; Drittmittelzusage -> Finanzierungsart und Bescheid; Einwilligung -> nur gedeckten Freigabepunkt schließen.",
     "enrichment": "Zahlungsverschiebung versus Verpflichtung, vergleichbare Lebenszykluskosten, doppelt gebundene Drittmittel, Zweckabweichung und begrenzte Einwilligung.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Jahresdeckung und mehrjährige Ermächtigung im Einstieg getrennt; Verfassungsurteil ausdrücklich auf damalige Rechtslage begrenzt.",
+    "anchor_or_exception": "BVerfG, Urteil vom 15.11.2023, 2 BvF 1/22; BHO/LHO und heutige Artikel 115, 143h GG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "666ee6404fd1851b85eb8dee05c5b52cc009d758b0b0733f043544ef8204cc13",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "cbfa40b2672b6589272a07a333b335bd567008292bd44816dfd5c2458b6b2bbc",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md",
+        "sha256": "60626fb67f00df72fe840734bcbf106a21b74cac9e84734e82ae84d5c87e9be4",
+        "characters": 17772,
+        "utf8_bytes": 18027
+      },
+      {
+        "path": "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md",
+        "sha256": "d0467d61dfaf022827fa1e490ebefdb75d0400c91fe6a944a826014eafed2a29",
+        "characters": 6587,
+        "utf8_bytes": 6674
+      }
+    ]
   }
 }

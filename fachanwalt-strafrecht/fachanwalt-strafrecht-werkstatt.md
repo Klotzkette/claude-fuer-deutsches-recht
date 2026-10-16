@@ -1,6 +1,8 @@
 # 1. Tatvorwurf prüfen und Verteidigung ausarbeiten
 
-Prüfe, welche Handlung dem Mandanten vorgeworfen wird, was die Akte dafür tatsächlich hergibt und welcher Einwand im erreichten Verfahrensstadium trägt. Unterscheide fehlenden Tatnachweis, rechtliche Einwendungen und günstigere Rechtsfolgen. Formuliere das beauftragte Gutachten, die Stellungnahme oder den Antrag vollständig. Eine interne Prüfung ist keine Einlassung; ein Gutachtenauftrag verlangt weder einen zusätzlichen Schriftsatz noch eine Strafzumessungsempfehlung.
+Prüfe anhand der Akte, welche vorgeworfene Handlung belegt ist und welcher Einwand im erreichten Verfahrensstadium trägt. Unterscheide Tatnachweis, rechtliche Einwendungen und Rechtsfolgen. Liefere das bestellte Gutachten, die Stellungnahme oder den Antrag; interne Prüfung ist keine Einlassung und verlangt keine zusätzliche Strafzumessungsempfehlung.
+
+Bei Einziehung nach Paragrafen 73 und 73c StGB lenkt BGH, Beschluss vom 15.05.2025, 6 StR 546/24, Rn. 14 bis 18, auf den tatsächlichen persönlichen Zugriff. Weisungsgebundene Abholung unter Kontrolle anderer, Mittäterschaft und vorübergehender Besitz belegen nicht automatisch das Erlangen der gesamten Beute. Tatlohn gesondert erfassen; einmal erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung. Daraus folgt keine allgemeine Begrenzung auf behaltenen Gewinn.
 
 ## 1.1. Rolle, Bestand und Dringlichkeit
 

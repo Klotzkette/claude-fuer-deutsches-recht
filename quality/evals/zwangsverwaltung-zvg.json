@@ -66,26 +66,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt vollständig erneut gelesen. Drei Einstiegswege und konkrete Folgen von Kautionsnachweis sowie Reparaturmehrkosten für Schreiben und Budget ergänzt; vorhandene Wohnraumgrenzen erhalten.",
+    "reason": "Kurzprompt vollständig erneut gelesen. Drei Einstiegswege und konkrete Folgen von Kautionsnachweis sowie Reparaturmehrkosten für Schreiben und Budget ergänzt; vorhandene Wohnraumgrenzen erhalten. Redaktionelle Einstiegsprüfung 16.10.2026: Mieten, gebundene Gelder und Rechnungslegung als Arbeitsgegenstand. VIII ZR 336/08 früh für die Wohnraumbarkaution, mit betragsbegrenztem Zurückbehaltungsrecht und ohne allgemeinen Insolvenzrang. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Übernahmebericht, Mieterbrief oder Rechnungslegung als konkrete Wege bei leerer Eingabe; Dateien ohne Aufgabe still lesen.",
-      "Nachgewiesene Kautionsanlage verändert Einwand und Brief; geänderte Reparaturkosten verändern Budget, Vorschuss und Verteilungsempfehlung."
+      "Nachgewiesene Kautionsanlage verändert Einwand und Brief; geänderte Reparaturkosten verändern Budget, Vorschuss und Verteilungsempfehlung.",
+      "Mieten, gebundene Gelder und Rechnungslegung als Arbeitsgegenstand. VIII ZR 336/08 früh für die Wohnraumbarkaution, mit betragsbegrenztem Zurückbehaltungsrecht und ohne allgemeinen Insolvenzrang."
     ],
-    "sha256": "5e317110184cd939c30de2bb753a4c789b72a1e6d5d4f7bc15c5de2e17eacb23",
+    "sha256": "dd99af4b645987962e6454a4a9fbfa85828c6c1c3fa669d0d3bd8dbadcfa93c3",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen. Übernahme mit Unterlagenlücken, Kautionseinwand, dringende Versorgung und Abschlussabrechnung konkret ausgebaut; neue Berichts- und Rechnungsnormen amtlich geprüft, keine Live-Verwaltung.",
+    "reason": "Werkstatt vollständig erneut gelesen. Übernahme mit Unterlagenlücken, Kautionseinwand, dringende Versorgung und Abschlussabrechnung konkret ausgebaut; neue Berichts- und Rechnungsnormen amtlich geprüft, keine Live-Verwaltung. Redaktionelle Einstiegsprüfung 16.10.2026: Mieten, gebundene Gelder und Rechnungslegung als Arbeitsgegenstand. VIII ZR 336/08 früh für die Wohnraumbarkaution, mit betragsbegrenztem Zurückbehaltungsrecht und ohne allgemeinen Insolvenzrang. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Überlassungszeitpunkt und ungeklärte Besitzverhältnisse verändern Bericht und Mieterinformation.",
       "Kautionsbelege, tatsächlicher Zahlungseingang und höhere Reparaturkosten bis zur aktualisierten Vorschussbegründung verfolgen.",
-      "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen."
+      "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen.",
+      "Mieten, gebundene Gelder und Rechnungslegung als Arbeitsgegenstand. VIII ZR 336/08 früh für die Wohnraumbarkaution, mit betragsbegrenztem Zurückbehaltungsrecht und ohne allgemeinen Insolvenzrang."
     ],
-    "sha256": "1a449d56159247f1184d2e59a03c002e0e6cadf3436768628cf2c910bbca7342",
+    "sha256": "490a56e795c521381724149879f823b4fa9110e7a23a67a69a5cecd95c35bb83",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

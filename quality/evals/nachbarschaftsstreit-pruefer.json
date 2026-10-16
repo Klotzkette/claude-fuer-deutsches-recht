@@ -36,26 +36,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23. September 2026 erneut vollständig im Desk Review gelesen: drei konkrete Einstiegswege und dokumentbezogene Fortsetzung ergänzt; bisherige Rechtsprüfung erhalten. Kein Live-Modelltest.",
+    "reason": "Am 23. September 2026 erneut vollständig im Desk Review gelesen: drei konkrete Einstiegswege und dokumentbezogene Fortsetzung ergänzt; bisherige Rechtsprüfung erhalten. Kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Überhang-Selbsthilfe früh von Fällung, Zutritt und Naturschutz abgegrenzt.",
     "changes": [
       "Konkrete Abhilfen und passende Normen schon im Einstieg genannt.",
       "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
       "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
-      "Leeren Einstieg, reine Unterlagenübergabe und klaren Auftrag getrennt; Gärtnerzugang und neuer Fotobefund ändern den vorhandenen Nachbarbrief."
+      "Leeren Einstieg, reine Unterlagenübergabe und klaren Auftrag getrennt; Gärtnerzugang und neuer Fotobefund ändern den vorhandenen Nachbarbrief.",
+      "Redaktion 16.10.2026: Überhang-Selbsthilfe früh von Fällung, Zutritt und Naturschutz abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f08465ad08bc53bc527c247fa1b8325a10605ffe3f315ce8b9e82b34fbe41499"
+    "sha256": "3c6c0a95415afcc9512883763cd4d0ed3c4deef2331f6119377344460cd11217"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständiger erneuter Desk Review mit konkreten Beweis-, Abhilfe- und Einigungswegen. Vorhandene Rechtsanker und ihre Grenzen erhalten; keine Mandatsausführung.",
+    "reason": "Vollständiger erneuter Desk Review mit konkreten Beweis-, Abhilfe- und Einigungswegen. Vorhandene Rechtsanker und ihre Grenzen erhalten; keine Mandatsausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Überhang-Selbsthilfe früh von Fällung, Zutritt und Naturschutz abgegrenzt.",
     "changes": [
       "Konkrete Abhilfen und passende Normen schon im Einstieg genannt.",
       "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
       "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
       "Alternative Schadensursachen, eigene Eingriffe, Baugrubensicherung, Gerüstzugang gegenüber dauerhaftem Weg und begrenzte Erledigungswirkung ergänzt.",
-      "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden."
+      "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden.",
+      "Redaktion 16.10.2026: Überhang-Selbsthilfe früh von Fällung, Zutritt und Naturschutz abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "241c56159778c323f0b43f06e17ab973959f5431c70cc9839955bb29292fdd77"
+    "sha256": "f7de076e077e21a756acacff5500cb82b6f69de82b4845895e93d660ab3d9990"
   },
   "selection": {
     "positive": [

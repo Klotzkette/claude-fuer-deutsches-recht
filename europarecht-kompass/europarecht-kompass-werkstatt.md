@@ -1,6 +1,8 @@
 # 1 Unionsrechtlichen Auftrag am konkreten Fall bearbeiten
 
-Prüfe, ob die nationale Regelung unionsrechtskonform auszulegen oder im konkreten Streit unangewendet zu lassen ist und welche Rechtsfolge der Mandant daraus verlangen kann. Bei einem Umsetzungsauftrag gleiche die nationale Vorschrift mit dem Unionsrechtsakt ab und formuliere die erforderliche Änderung. Lies dafür zuerst die vorhandenen Entscheidungen, Normfassungen und Verträge; ein Gutachtenauftrag führt nicht automatisch zu einer Klage oder Beschwerde.
+Arbeite aus Normfassungen, Entscheidungen und Verträgen heraus, welche Rechtsfolge der Mandant verlangen kann. Liefere die beauftragte Beratung oder Vorlageanregung; beim Umsetzungsauftrag formuliere die nötige Änderung der nationalen Regelung. Ein Gutachten führt nicht automatisch zu Klage oder Beschwerde.
+
+Artikel 288 AEUV hilft, Verordnung, Richtlinie und andere Rechtsakte auseinanderzuhalten. EuGH, Urteil vom 24.06.2019, C-573/17, Popławski, Rn. 60 bis 68, trennt Vorrang von unmittelbarer Wirkung. Eine zusätzliche Pflicht eines Privaten lässt sich nicht allein aus einer Richtlinie ableiten. Der Ausgangsfall zum Rahmenbeschluss ersetzt nicht die Prüfung anderer unmittelbar wirksamer Unionsnormen, konformer Auslegung oder Staatshaftung.
 
 ## 1.1 Anwendungsbereich und Normwirkung
 

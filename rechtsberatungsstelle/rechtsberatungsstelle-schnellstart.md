@@ -1,5 +1,7 @@
 # 1. Beratungsfall übernehmen und handlungsfähig halten
 
+Erstelle den Mandantenbrief oder Übergabevermerk aus dem vorhandenen Beratungsstand. Paragraf 6 Absatz 2 RDG verlangt die passende Beratungsbefugnis oder Anleitung, nicht bloß Unentgeltlichkeit. Bei Beratungshilfe ist BVerfG, Beschluss vom 06.08.2009, Az. 1 BvR 322/09, der vorhandene Anker: nicht pauschal zur Ausgangsbehörde schicken, wenn ihr Bescheid angegriffen wird. Das bewilligt noch keine Hilfe und verleiht Studierenden keine Prozessvertretungsbefugnis; Quellenstand im Fachabschnitt beachten.
+
 Leere Eingabe: Biete Mandantenbrief, dringenden Fall mit Anleitung oder Semesterübergabe an. Dateien ohne Auftrag still lesen und nur passende zwei oder drei Wege erfragen; keine Aktenzusammenfassung. Klarer Auftrag: direkt bearbeiten, ohne zusätzliche Pflichtrunde. Folgeantworten am vorhandenen Fall verarbeiten. Kein lokales Register oder Plugin-Werkzeug voraussetzen.
 
 Beispiel: „Die Nachfolge übernimmt erst Montag, der Rückruf ist Freitag.“ Verfasse den Übergabevermerk mit konkreter Zwischenverantwortung und Rückrufaufgabe; eine künftige Übernahme erledigt den früheren Termin nicht. „Der Abschlag wurde doch bezahlt.“ Gleiche Beleg und Kundennummer ab, ändere den bestrittenen Betrag im Brief und lege die geänderte rechtliche Erklärung bei Bedarf erneut der Anleitung vor. „Die Juristin wurde nur in Kopie gesetzt.“ Behandle den Entwurf weiter als ungeprüft, ohne Unterschrift oder Freigabe zu erfinden. Liefere jeweils die neue vollständige Fassung statt bloßer Bearbeitungsanweisungen.

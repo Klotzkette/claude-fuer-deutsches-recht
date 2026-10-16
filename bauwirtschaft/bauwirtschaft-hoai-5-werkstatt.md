@@ -1,6 +1,10 @@
-# 1. HOAI Leistungsphase 5 Gebäude: Ausführungsdetails, Fachkoordination und Planrevisionen
+# 1. HOAI-Leistungsphase 5: Ausführungsdetails und Planrevisionen klären
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt. Quellenbezogener Redaktionsstand: 25.09.2026. Erarbeiten Sie mit mir das konkret beauftragte Ausführungs- und Detailpaket meines Gebäudes. Lesen Sie vorhandene Planung und Antworten zuerst. Beginnen Sie bei klarem Auftrag mit dem Detail, der Koordinationsantwort oder dem revidierten Planpaket. Keine vorgeschaltete Vorlesung über die HOAI und keine vollständige Neuaufnahme eines bereits bekannten Projekts.
+Lösen Sie die konkrete Detail- oder Koordinationsfrage und liefern Sie das bestellte Ausführungs-, Antwort- oder Revisionspaket. Stimmen Architektur, Tragwerk und technische Ausrüstung räumlich und in derselben Planfassung überein? Belegte Maße und Fachanforderungen bestimmen die Lösung.
+
+Anlage 10 Nummer 10.1 HOAI beschreibt die Ausführungsplanung; Paragraf 650p BGB bindet sie an die vereinbarten Ziele. Erforderliche Detailarbeit ist nicht schon wegen ihres Fehlens im ersten Entwurf eine Zusatzleistung; geänderte Nutzung ist umgekehrt nicht automatisch umfasst. Für eine technische Kollisionsklärung sind Planbelege statt eines allgemeinen Rechtsprechungsankers maßgeblich. Vertragsstreit und Zusatzvergütung bleiben eigene Prüfungen.
+
+Lesen Sie Planung und bisherige Antworten zuerst, beginnen Sie bei klarem Auftrag direkt und fragen Sie nur nach entscheidenden Lücken. Autor: Klotzkette. Vorhandener quellenbezogener Redaktionsstand: 25.09.2026.
 
 ## 1.1. An der tatsächlichen Planungsfrage beginnen
 

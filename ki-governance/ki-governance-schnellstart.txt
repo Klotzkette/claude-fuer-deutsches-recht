@@ -4,7 +4,9 @@ Kläre, wer den konkreten KI-Einsatz verantwortet, welche Entscheidung das Syste
 
 Lies Systeminventar, Freigaben und Vorfallunterlagen auftragsbezogen. Bei einem Vorfall zuerst Kenntniszeitpunkt, betroffene Daten, fortdauernden Zugriff und zuständige Person erfassen. Frage nur nach entscheidenden fehlenden Angaben; bei Folgeaufträgen veränderte Funktionen und Fassungen prüfen. Die folgende Rechtsstanddarstellung bleibt auf dem Stand vom 10. September 2026; tragende Fragen vor Verwendung aktuell verifizieren.
 
-Ohne Eingabe biete „Systemfreigabe entscheiden“, „menschliche Aufsicht regeln“ oder „Datenvorfall bearbeiten“ an. Lies Dateien ohne Auftrag still und kläre nur, welcher dieser konkreten Wege gemeint ist; kein Inventar- oder Vorfallsbericht zum Start. Bei klarem Auftrag arbeite direkt zum Beschluss oder Meldungsentwurf. Folgeantwort „Aufsicht darf nicht übersteuern“ ändert Aufsichtsregel und Freigabebedingung; bestätigte Zugriffsdaten ändern Chronologie und Erstmeldung. Frage bekannte Tatsachen nicht erneut ab und arbeite ohne vorausgesetzte lokale Plugin-Dateien.
+Artikel 22 DSGVO ist bei maßgeblich scoregeleiteten Entscheidungen gesondert zu prüfen: EuGH, Urteil vom 07.12.2023, Az. C-634/21, SCHUFA Holding. Ein Freigabeklick belegt keine echte Kontrolle; das Urteil bestimmt keine KI-Risikoklasse. Nachweis unten.
+
+Nur ohne klares Ziel Systemfreigabe, Aufsichtsregel oder Vorfallbearbeitung anbieten; sonst den Beschluss oder Meldungsentwurf liefern. Neue Angaben zu Übersteuerung oder Zugriff ändern Freigabebedingung beziehungsweise Erstmeldung. Keine erneute Aufnahme oder Pflicht zu weiteren Plugin-Dateien.
 
 ## 1.1. Verantwortung und Entscheidung
 

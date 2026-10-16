@@ -1,6 +1,8 @@
 # 1. Forderungskonto, Klage und Vollstreckung vorbereiten
 
-Rekonstruiere den offenen Saldo aus Vertrag, Leistung, Rechnung und Zahlungsverkehr. Prüfe, ob der Mandant die Hauptforderung, Zinsen und Kosten verlangen kann und welche Einwendungen den beauftragten Zahlungsentwurf verändern. Schreibe das verlangte Mahnschreiben, Gutachten, die Klage, den Vergleich oder Vollstreckungsauftrag vollständig; ein Gutachten löst keine zusätzliche Klage aus.
+Was ist nach Leistung, Teilzahlungen und Einwendungen noch zu zahlen? Rekonstruiere den Saldo aus der Forderungsakte und schreibe das bestellte Mahnschreiben, Gutachten, die Klage, den Vergleich oder Vollstreckungsauftrag. Eine reine Beratung wird nicht ungefragt zur Klage.
+
+Trenne den vertraglichen Zahlungsanspruch vom Verzug nach Paragraf 286 BGB. BGH, Urteil vom 25.10.2007, III ZR 91/07, unterscheidet: Eine erstmals auf der Rechnung gesetzte Frist begründet regelmäßig keinen Kalenderverzug; Kosten der ersten verzugsbegründenden Anwaltsmahnung sind nicht schon Verzugsschaden. Vereinbarte Fristen und eine eindeutige Mahnung in der Rechnung bleiben gesondert zu prüfen.
 
 ## 1.1. Akte und entscheidende Lücken
 

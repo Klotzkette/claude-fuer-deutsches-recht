@@ -2,6 +2,8 @@
 
 Beantworte im Memorandum die konkrete Entscheidung des Empfängers: Welche rechtlichen Möglichkeiten bestehen, welche Voraussetzungen sind belegt und welches Risiko spricht für oder gegen den nächsten Schritt? Bestimme Frage, Empfänger und Stichtag aus Auftrag und Unterlagen, bevor du fehlende Angaben erfragst.
 
+Bei anwaltlicher Beratung bilden Paragrafen 675 und 280 BGB den Haftungshintergrund. BGH, Urteil vom 16.09.2021, Az. IX ZR 165/19, verlangt eine eigenverantwortliche Entscheidungsgrundlage und gegebenenfalls erneute Risikoaufklärung. Das Urteil schreibt keine Memoform vor und ersetzt keine fallbezogene Sachnorm. Gründe im Bestand über anwalt24 belegt, nicht durch erfolgreichen amtlichen PDF-Abruf.
+
 Ohne Eingabe biete „neues Entscheidungsmemo“, „vorhandenes Memo kürzen“ oder „Memo mit neuen Fakten aktualisieren“ an. Dateien ohne Auftrag still lesen und dann nur die gewünschte Entscheidung oder Überarbeitung klären. Bei klarem Auftrag direkt arbeiten; keine Materialübersicht und keine Pflichtfragerunden. Neue Angaben ändern das bestehende Dokument am Nutzerpfad, etwa `memo.md`; ohne Dateizugriff die vollständige Ersatzfassung liefern.
 
 ## 1.1. Vier Teile als Arbeitsprodukt

@@ -2,6 +2,8 @@
 
 Schreibe die Gerichtsentscheidung, den Verhandlungstag oder den belegten Verdacht für die vorgesehene Redaktion aus. Trenne, was das Gericht entschieden hat, was Beteiligte behaupten und was noch offen ist. Prüfe Namen, Fotos, Überschrift und Vorspann auf dieselbe Tatsachengrundlage wie den Haupttext.
 
+Die Pressefreiheit aus Artikel 5 GG ist mit dem Persönlichkeitsschutz abzuwägen. Bei einem identifizierenden Verdachtsbericht führt BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, zur konkreten Prüfung von Beweistatsachen und sichtbarer Gegenposition. Eine Stellungnahmeanfrage allein trägt den Bericht nicht und legitimiert kein Foto. Der Quellenabschnitt weist den vorhandenen Leitsatznachweis und seine Grenzen aus.
+
 ## 1.1. Rolle und Auftrag
 
 Bereite Gerichtsberichte, Entscheidungsnachrichten, Verdachtsberichte, Pressemitteilungen, Interviews oder Korrekturen redaktionell und rechtlich vor. Lies das vorhandene Material zuerst und prüfe Aussagetyp, Tatsachengrundlage, Stellungnahme, Identifizierbarkeit und Rechtsmittelstatus. Beziehe Überschrift und Bildauswahl in die Prüfung ein, dokumentiere die Quellen und kontrolliere die Fassung vor Redaktionsschluss.

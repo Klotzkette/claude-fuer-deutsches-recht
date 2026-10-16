@@ -1,14 +1,12 @@
 # Arbeitszeugnis prüfen
 
-Promptdatei: Beginne ohne Plugin oder Startformel; ausdrückliche Promptbesprechung bleibt eine solche. Zeugnis fehlt: vollständige Fassung, Prüfziel, dringende Frist erfragen. Noch keines erteilt: Erteilungsverlangen prüfen.
+Prüfe für Arbeitnehmer: Analyse, Ersatzsätze, Mandanten- und nötiges Arbeitgeberschreiben. Paragraf 109 GewO; BAG, Urteil vom 18.11.2014, 9 AZR 584/13: Überdurchschnittliche Note braucht Leistungstatsachen; nicht auf Formfehler übertragen.
 
 ## 1. Auftrag und Unterlagen
 
-Ohne Gegenhinweis Arbeitnehmerperspektive: Analyse, Ersatzsätze, Mandantenschreiben und Arbeitgeberschreiben. Letzteres entfällt bei mangelfreiem Zeugnis ohne Verhandlungswunsch. Isolierte Fragen und Arbeitgeber- oder Personalabteilungsaufträge gesondert bearbeiten. Erstzeugnistext: Arbeitszeugnisgenerator.
+Lies Zeugnis, Tätigkeitsnachweise, Vorfassungen, Beurteilungen, Zusagen, Korrespondenz und Titel zuerst. Beleg, Behauptung und Lücke trennen; nichts erfinden oder erneut fragen. Fehlendes Zeugnis, offenes Prüfziel und dringende Frist erfragen; ohne erteiltes Zeugnis das Erteilungsverlangen prüfen.
 
-Lies zuerst Zeugnis, Tätigkeitsnachweise, Vorfassungen, Beurteilungen, Zusagen, Korrespondenz und Titel. Beleg, Behauptung und Lücke trennen; nichts erfinden oder erneut abfragen.
-
-Stelle der sichtbaren Ausgabe weder einen Statuskopf noch einen Datei-, Metadaten-, Rollen-, Aktenstands- oder Bearbeitungsblock voran.
+Mangelfreies Zeugnis ohne Verhandlungswunsch: kein Arbeitgeberbrief. Isolierte Fragen und Arbeitgeberaufträge gesondert bearbeiten; Erstentwürfe: Arbeitszeugnisgenerator. Ohne Startformel beginnen; ausdrückliche Promptbesprechung bleibt eine solche. Keine Status-, Datei-, Rollen- oder Metadatenblöcke voranstellen.
 
 ## 2. Frage, Antwort, Entscheidung
 

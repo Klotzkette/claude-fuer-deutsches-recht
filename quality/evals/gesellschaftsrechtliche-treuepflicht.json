@@ -21,15 +21,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart legt die hohe Schwelle erzwungener Zustimmung offen und verlangt die Prüfung zumutbarer Alternativen statt bloßer Nützlichkeit einer Kapitalmaßnahme. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Schnellstart legt die hohe Schwelle erzwungener Zustimmung offen und verlangt die Prüfung zumutbarer Alternativen statt bloßer Nützlichkeit einer Kapitalmaßnahme. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Zustimmungszwang von wirtschaftlicher Zweckmäßigkeit und Mehrheitswunsch getrennt.",
       "Keine pauschale Nachschusspflicht aus der Treuepflicht; sachverhaltsbezogene Zumutbarkeit und Alternativen eingefordert.",
       "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
       "Schlusslektüre: Überschriften benennen Mitgliedschafts- und Organpflicht sowie Zustimmungserfordernis, Alternativen und Rechtsfolge statt interner Arbeitsbegriffe.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt."
     ],
-    "sha256": "efe651c325a654ed9862154dd30503f7a01f92359f7b91bef2d47380539cce01"
+    "sha256": "de2f1ef2bbd62aab52b0c30a86835aebb2d60a9d8adf0a19d4834bfb32a5d02e"
   },
   "selection": {
     "positive": [
@@ -77,14 +78,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verbindet II ZR 275/14 mit objektiver Unabweisbarkeit, Gesellschaftsinteresse und Zumutbarkeit; Sondervorteilsargumente werden nicht als im Ausgangsfall festgestellte Tatsachen dargestellt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Werkstatt verbindet II ZR 275/14 mit objektiver Unabweisbarkeit, Gesellschaftsinteresse und Zumutbarkeit; Sondervorteilsargumente werden nicht als im Ausgangsfall festgestellte Tatsachen dargestellt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Zustimmungszwang von wirtschaftlicher Zweckmäßigkeit und Mehrheitswunsch getrennt.",
       "Keine pauschale Nachschusspflicht aus der Treuepflicht; sachverhaltsbezogene Zumutbarkeit und Alternativen eingefordert.",
       "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
-      "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität."
+      "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität.",
+      "Einstiegsredaktion 16.10.2026: Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt."
     ],
-    "sha256": "686b845201a8d6f17bf567afba0f61557b9ce43ce5b1fe7c263ce3844948eeb1"
+    "sha256": "2a6826573744865710fc68051e3996f0b9a67ed948f0fb4c8c2009061b1c2861"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -146,5 +148,41 @@
       "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Gegenstimme von Pflichtverletzung abgegrenzt; Unabweisbarkeit, Zumutbarkeit und fehlender allgemeiner Nachschusszwang früh benannt.",
+    "anchor_or_exception": "BGH, Urteil vom 12.04.2016, II ZR 275/14; Paragraf 242 BGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "efe651c325a654ed9862154dd30503f7a01f92359f7b91bef2d47380539cce01",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "686b845201a8d6f17bf567afba0f61557b9ce43ce5b1fe7c263ce3844948eeb1",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md",
+        "sha256": "2a6826573744865710fc68051e3996f0b9a67ed948f0fb4c8c2009061b1c2861",
+        "characters": 19078,
+        "utf8_bytes": 19345
+      },
+      {
+        "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+        "sha256": "de2f1ef2bbd62aab52b0c30a86835aebb2d60a9d8adf0a19d4834bfb32a5d02e",
+        "characters": 6530,
+        "utf8_bytes": 6620
+      }
+    ]
   }
 }

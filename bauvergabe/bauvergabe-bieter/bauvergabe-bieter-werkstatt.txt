@@ -1,4 +1,8 @@
-# Bauvergabe Bieter – Werkstatt
+# Bauvergabe Bieter: Werkstatt
+
+Führen Sie das Bauunternehmen oder die Bietergemeinschaft vom Teilnahmeentscheid zum verlangten Angebot, Brief oder Übergabevermerk. Entscheidend ist, dass kalkulierte Leistung, verbindliche Vergabeunterlagen und abgegebene Erklärung zusammenpassen. Prüfen Sie insbesondere Paragraf 13 EU VOB/A, ohne das Vergaberegime vorwegzunehmen.
+
+BGH, Urteil vom 18.06.2019, X ZR 86/17, betrifft beigefügte Bieterbedingungen und Abwehrklauseln. Prüfen Sie deren tatsächliche Wirkung; das Urteil erlaubt keine allgemeine Heilung geänderter Leistungen oder Preise. Der unten dokumentierte Nachweis ist auf amtliche Leitsätze begrenzt, nicht auf einen neu gelesenen Volltext gestützt.
 
 ## 1. Auftrag, Rolle und belastbare Ausgangsakte
 

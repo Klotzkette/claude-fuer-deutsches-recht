@@ -41,14 +41,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Buchauszugsanforderung erhält einen gerichtlich geprüften Maßstab für Systemdaten und Genehmigungsfiktionen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Buchauszugsanforderung erhält einen gerichtlich geprüften Maßstab für Systemdaten und Genehmigungsfiktionen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VIII ZR 100/05 auf zeitbezogenen Datenbestand und tatsächliche Abrechnungseinigung bezogen.",
       "Paragraf 88 HGB nicht länger als offener möglicher Anspruch; Zweiwochenfrist ausdrücklich verworfen.",
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt."
     ],
-    "sha256": "219d4e3dfbe31cc8f327a97d9ba7abde2684bebda7209b613c85567329d592c2"
+    "sha256": "a1024b66a62f1f3b29c8e4c903fe65907db7a2dd9074ff7fba5e53a92a634b70"
   },
   "selection": {
     "positive": [
@@ -96,14 +97,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neben dem operativen Buchauszuganker wurden weggefallene Herausgabenorm, falsche Fristzuordnung und Ausgleichshöchstbetrag fachlich bereinigt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Neben dem operativen Buchauszuganker wurden weggefallene Herausgabenorm, falsche Fristzuordnung und Ausgleichshöchstbetrag fachlich bereinigt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "VIII ZR 100/05 auf zeitbezogenen Datenbestand und tatsächliche Abrechnungseinigung bezogen.",
       "Paragraf 88 HGB nicht länger als offener möglicher Anspruch; Zweiwochenfrist ausdrücklich verworfen.",
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
-      "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung."
+      "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung.",
+      "Einstiegsredaktion 16.10.2026: Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt."
     ],
-    "sha256": "d2c4c4f0fb9eb7a5ec4889b5b8ef6207c86e8153959ad5e87980e9b9fcb7ed65"
+    "sha256": "1cb063a8f2b0793c8c84a91a17009ce7c1eeb0659170d884ea1108c64766947f"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -167,5 +169,41 @@
       "handelsvertreterrecht/skills/vergleich/SKILL.md"
     ],
     "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Fehlende Provision und Buchauszug konkretisiert; flüchtigen Systemzugang von zulässigem elektronischem Auszug getrennt.",
+    "anchor_or_exception": "BGH, Urteil vom 20.09.2006, VIII ZR 100/05; Paragraf 87c HGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "219d4e3dfbe31cc8f327a97d9ba7abde2684bebda7209b613c85567329d592c2",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "d2c4c4f0fb9eb7a5ec4889b5b8ef6207c86e8153959ad5e87980e9b9fcb7ed65",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+        "sha256": "1cb063a8f2b0793c8c84a91a17009ce7c1eeb0659170d884ea1108c64766947f",
+        "characters": 19135,
+        "utf8_bytes": 19458
+      },
+      {
+        "path": "handelsvertreterrecht/handelsvertreterrecht-schnellstart.md",
+        "sha256": "a1024b66a62f1f3b29c8e4c903fe65907db7a2dd9074ff7fba5e53a92a634b70",
+        "characters": 7051,
+        "utf8_bytes": 7160
+      }
+    ]
   }
 }

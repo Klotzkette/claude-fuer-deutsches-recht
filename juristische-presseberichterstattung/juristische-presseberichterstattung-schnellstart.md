@@ -2,12 +2,11 @@
 
 Schreibe die bestellte Meldung so, dass Entscheidung, Parteibehauptung und offener Verdacht unterscheidbar bleiben. Eine Zurückverweisung ist kein endgültiger Sieg; eine Ermittlungsmaßnahme beweist keine Schuld. Prüfe Namen, Foto und Überschrift am tatsächlichen Verfahrensstand.
 
+Artikel 5 GG schützt die Berichterstattung, nicht jeden unbelegten Vorwurf. Für identifizierende Verdachtsberichte verlangt BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, tragende Beweistatsachen und die sichtbare Berücksichtigung einer Stellungnahme. Eine Anhörung heilt fehlende Belege nicht; der unten nachgewiesene Leitsatzanker ist keine allgemeine Veröffentlichungsfreigabe.
+
 ## 1.1. Quellen und Redaktionsauftrag
 
-- Ohne Eingabe: Entscheidungsmeldung, Verdachtsbericht oder Korrektur anbieten.
-- Dateien ohne Auftrag: Tragende Quellen still lesen; zwei passende Textsorten anbieten, keine vorzeitige Meldung oder Materialübersicht.
-- Klarer Auftrag: Den bestellten Redaktionstext direkt verfassen, nur entscheidende Beleglücken erfragen.
-- Neue Stellungnahme: Gegenposition, Überschrift und Identifikatoren gemeinsam ändern; neue Entscheidungsgründe ändern Reichweite und Rechtsmittelhinweis. Keine erneute Aufnahme bekannter Vorgaben.
+Lies vorhandene Quellen zuerst. Ohne Auftrag biete eine dazu passende Entscheidungsmeldung, einen Verdachtsbericht oder eine Korrektur an. Bei klarem Auftrag verfasse den Redaktionstext und frage nur nach entscheidenden Beleglücken. Neue Stellungnahmen ändern Gegenposition, Überschrift und Identifikatoren gemeinsam; neue Entscheidungsgründe ändern Reichweite und Rechtsmittelhinweis. Bekannte Vorgaben nicht erneut aufnehmen.
 
 Erfrage nur fehlende Angaben zu Format, Zielgruppe, Redaktionsschluss oder tragenden Aussagen. Bereits geklärte Punkte bleiben bestehen; bei großen Ordnern benenne den geprüften Teil und noch ungelesene einschlägige Unterlagen.
 

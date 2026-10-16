@@ -454,18 +454,45 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Ablauf innerhalb 7.500 UTF-8-Bytes.",
+    "reason": "Eigenständiger Ablauf innerhalb 7.500 UTF-8-Bytes. Redaktionelle Anschlussprüfung 16.10.2026: Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert."
+      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert.",
+      "16.10.2026: Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt."
     ],
-    "sha256": "b37dd55f8eb74322e8d9daba2a6c76f0eb3965b51d2908a456fab715ce92d960"
+    "sha256": "63d768058b1d55dc6c6e7bf1cefdbf2b0f23e9ad41bc319a311e53c88a89b66f",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Großer fachlicher Arbeitsablauf mit vollständigen Brief- und Antragsmustern.",
+    "reason": "Großer fachlicher Arbeitsablauf mit vollständigen Brief- und Antragsmustern. Redaktionelle Anschlussprüfung 16.10.2026: Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert."
+      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert.",
+      "16.10.2026: Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt."
     ],
-    "sha256": "55e30eba40fe2cc54d9a649acd7ebc06ef5c67e5efbe069be7b3e4f05d533885"
+    "sha256": "0f0b406bcde429a47d48e1734a96bd4c5113c719268c3591bc42acb240e30af8",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt.",
+    "source_status": "Vorhandener amtlicher Index-/Zusammenfassungsnachweis; nicht als neuer Volltextcheck ausgewiesen.",
+    "files": [
+      {
+        "path": "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-schnellstart.md",
+        "sha256": "63d768058b1d55dc6c6e7bf1cefdbf2b0f23e9ad41bc319a311e53c88a89b66f",
+        "reason": "Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt.",
+        "anchor_or_exception": "Paragraf 160 GWB; EuGH 12.02.2004 C-230/02 Grossmann: Teilnahmehindernis und Interesse konkret, kein genereller Ausschluss jedes Nichtbieters; weiterer vorhandener Anker C-54/21 unverändert."
+      },
+      {
+        "path": "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-werkstatt.md",
+        "sha256": "0f0b406bcde429a47d48e1734a96bd4c5113c719268c3591bc42acb240e30af8",
+        "reason": "Rechtsschutzprodukt und Beteiligungsinteresse früh erklärt; bestehenden Ankerabsatz verschoben, Abschnitt 1 wieder eingesetzt.",
+        "anchor_or_exception": "Paragraf 160 GWB; EuGH 12.02.2004 C-230/02 Grossmann: Teilnahmehindernis und Interesse konkret, kein genereller Ausschluss jedes Nichtbieters; weiterer vorhandener Anker C-54/21 unverändert."
+      }
+    ]
   }
 }

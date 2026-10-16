@@ -41,18 +41,19 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell um drei Einstiegsmodi, zusammengesetzte Rechte, Exklusivitätsfolgen und konkrete Änderung der Vertragsdatei ergänzt; M2Trade-Abgrenzung erhalten. Desk-Review ohne Live-Ausführung.",
+    "reason": "Mini individuell um drei Einstiegsmodi, zusammengesetzte Rechte, Exklusivitätsfolgen und konkrete Änderung der Vertragsdatei ergänzt; M2Trade-Abgrenzung erhalten. Desk-Review ohne Live-Ausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Rechtebestand, Vergütung und Fortbestand wirksamer Unterlizenzen am Anfang verbunden.",
     "changes": [
       "M2Trade für wirksame Unterlizenzen und Rückfall der Hauptrechte integriert",
       "Escrow nicht als fehlende Rechte ersetzende Insolvenzsicherung behandelt",
       "TTBER 2026 mit Übergang statt abgelaufener Pauschalfreistellung berücksichtigt",
-      "Neue Freigabe mit Bearbeitungsausschluss führt zu abgestimmter Rechteanlage, Unterlizenzklausel und Anpassung entgegenstehender Leistungszusagen."
+      "Neue Freigabe mit Bearbeitungsausschluss führt zu abgestimmter Rechteanlage, Unterlizenzklausel und Anpassung entgegenstehender Leistungszusagen.",
+      "Redaktion 16.10.2026: Rechtebestand, Vergütung und Fortbestand wirksamer Unterlizenzen am Anfang verbunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "4e5dc0ccf31c7012f800d6b32c96dcd8054d3bb78ac065ab80ac32ca1054d449"
+    "sha256": "3bf50b25744fe0ec6369c0623f640dce8714697f528d33cd6a6c096959069d05"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und um Rechtepakete, konkrete Vertriebswege, Exklusivitätsgegenleistung, Folgejahresretouren, Vertragsendbestände und technische Escrow-Prüfung vertieft. Bestehende TTBER- und Insolvenzgrenzen erhalten; kein Live-Vertragstest.",
+    "reason": "Werkstatt vollständig gelesen und um Rechtepakete, konkrete Vertriebswege, Exklusivitätsgegenleistung, Folgejahresretouren, Vertragsendbestände und technische Escrow-Prüfung vertieft. Bestehende TTBER- und Insolvenzgrenzen erhalten; kein Live-Vertragstest. Redaktionelle Einstiegslektüre am 16.10.2026: Rechtebestand, Vergütung und Fortbestand wirksamer Unterlizenzen am Anfang verbunden.",
     "changes": [
       "M2Trade für wirksame Unterlizenzen und Rückfall der Hauptrechte integriert",
       "Escrow nicht als fehlende Rechte ersetzende Insolvenzsicherung behandelt",
@@ -60,9 +61,10 @@
       "Weitere Beteiligung nach Erlösstufe und unmittelbarem Anspruchsgegner konkretisiert.",
       "Kombinierte Software-, Bild- und Musikbeiträge getrennt zuordnen; Freistellung nicht als Ersatz fehlender Rechte verwenden.",
       "Auftragsfertiger, Vertriebspartner und Endkundenlizenz unterscheiden; Mindestleistung und Folge einer verfehlten Exklusivitätsgegenleistung ausformulieren.",
-      "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen."
+      "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen.",
+      "Redaktion 16.10.2026: Rechtebestand, Vergütung und Fortbestand wirksamer Unterlizenzen am Anfang verbunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "be1a6aa9999e4ebe04a0a4eccb90ad5596f007865ddfbc8f12136b5585519149"
+    "sha256": "cc6a4ba85df63e05f5306bdb876b1f17ce0078c1785c917ff1553e03881c5405"
   },
   "selection": {
     "positive": [

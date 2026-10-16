@@ -446,18 +446,45 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Kurzauftrag mit Bauvergaberecht 2026, Entscheidungen, technischem Rollenbezug und konkretem Dokumentenergebnis.",
+    "reason": "Eigenständiger Kurzauftrag mit Bauvergaberecht 2026, Entscheidungen, technischem Rollenbezug und konkretem Dokumentenergebnis. Redaktionelle Anschlussprüfung 16.10.2026: Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Schnellstart in vollständigen Sätzen unter 7500 Zeichen und UTF-8-Bytes redigiert; MD und TXT bytegleich."
+      "Schnellstart in vollständigen Sätzen unter 7500 Zeichen und UTF-8-Bytes redigiert; MD und TXT bytegleich.",
+      "16.10.2026: Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten."
     ],
-    "sha256": "8692e0c3d62316ca0ef53d34091f5df588d14c7d09ef63f99b916fb64ddfe486"
+    "sha256": "6a9a149a8d576f702957605679c35759280ce0bb59e79cb1bee8d95cfc44702b",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständige substanzielle Bauwerkstatt mit zehn fachlichen Kapiteln und spezifischen Entscheidungswegen.",
+    "reason": "Eigenständige substanzielle Bauwerkstatt mit zehn fachlichen Kapiteln und spezifischen Entscheidungswegen. Redaktionelle Anschlussprüfung 16.10.2026: Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
-      "Unterlagen beziehungsweise Verfahren vollständig neu auf Bauvergaben entwickelt; Losgrundsatz und VOB/A-Änderungen 2026 amtlich geprüft."
+      "Unterlagen beziehungsweise Verfahren vollständig neu auf Bauvergaben entwickelt; Losgrundsatz und VOB/A-Änderungen 2026 amtlich geprüft.",
+      "16.10.2026: Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten."
     ],
-    "sha256": "5702c34aeae5ec878eaffeccaa1c4eb48859da28d5ac3fc0739c3e972c93da6c"
+    "sha256": "9d78116c550a4c0b358314b7ffaca5be2549d432ae4f75c87f120275e6556eb9",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten.",
+    "source_status": "Vorhandene amtliche Indexpassagen, kein neuer vollständiger Entscheidungsabruf.",
+    "files": [
+      {
+        "path": "bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.md",
+        "sha256": "6a9a149a8d576f702957605679c35759280ce0bb59e79cb1bee8d95cfc44702b",
+        "reason": "Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten.",
+        "anchor_or_exception": "Paragraf 7 EU VOB/A; EuGH 25.10.2018 C-413/17 Roche Lietuva: Bezug zur Beschaffung und Wettbewerb; Medizinproduktfall nicht als fertiger Baumaßstab übertragen. Vorhandener Borta-Anker erhalten."
+      },
+      {
+        "path": "bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-werkstatt.md",
+        "sha256": "9d78116c550a4c0b358314b7ffaca5be2549d432ae4f75c87f120275e6556eb9",
+        "reason": "Veröffentlichungsfähige Vergabeunterlagen und Leistungsanforderungen vor Prozessmetadaten.",
+        "anchor_or_exception": "Paragraf 7 EU VOB/A; EuGH 25.10.2018 C-413/17 Roche Lietuva: Bezug zur Beschaffung und Wettbewerb; Medizinproduktfall nicht als fertiger Baumaßstab übertragen. Vorhandener Borta-Anker erhalten."
+      }
+    ]
   }
 }

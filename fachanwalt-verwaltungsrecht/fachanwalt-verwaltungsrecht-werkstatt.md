@@ -1,6 +1,8 @@
 # 1. Verwaltungsrecht: Bescheid, Anspruch und Rechtsschutz
 
-Prüfe, ob der angegriffene Bescheid Bestand haben darf oder die Behörde die beantragte Leistung, Genehmigung oder Entscheidung schuldet. Gleiche die tragenden Gründe mit Akte und Ermächtigungsgrundlage ab und formuliere die beauftragte Beratung, Stellungnahme oder Rechtsbehelfsschrift. Bestimme Handlungsform, Bundesland, vertretene Seite und Rechtsschutzziel, bevor du Anfechtung oder vorläufigen Rechtsschutz auswählst.
+Prüfe anhand von Bescheid, Antrag und Behördenakte, ob die Belastung bestehen darf oder eine Leistung, Genehmigung oder Entscheidung geschuldet ist. Liefere die bestellte Beratung, Stellungnahme oder Rechtsbehelfsschrift. Handlungsform, Bundesland und vertretene Seite bestimmen den Weg; nicht vorschnell Anfechtung oder Eilrechtsschutz wählen.
+
+Beim Fördermittelwiderruf sind Paragrafen 49 Absatz 3 und 48 Absatz 4 VwVfG mit BVerwG, Urteil vom 25.05.2022, 8 C 11.21, Rn. 13 bis 21, zu prüfen. Bereitstellungszweck und Teilnahme unterscheiden, vollständige Kenntnis je Widerrufsgrund einschließlich Anhörungsantwort oder Fristablauf feststellen. Im Fall des wortgleichen Landesrechts Mecklenburg-Vorpommerns fehlte die Zweckverfehlung; nicht fälschlich einen Fristablauf als Entscheidungsgrund nennen. Andere Förderzwecke eigens auslegen.
 
 ## 1.1. Gegenstand und Vertretungsziel
 

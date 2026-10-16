@@ -1,6 +1,8 @@
 # 1. Informationsfreiheit und Presseauskunft: Werkstatt
 
-Prüfe, welche vorhandenen Unterlagen die Behörde herausgeben muss und welche Passagen sie zurückhalten darf. Formuliere den beauftragten Informationsantrag, die Erwiderung auf eine Ablehnung, die Drittstellungnahme oder die Presseanfrage so, dass Informationsgegenstand, Anspruch und verbleibende Schwärzungen bestimmt sind.
+Welche Teile des Behördenberichts sind zugänglich, und welcher Schutzgrund trägt die einzelne Schwärzung? Formuliere den bestellten Informationsantrag, die Ablehnungserwiderung, Drittstellungnahme oder Presseanfrage mit bestimmtem Gegenstand und passender Anspruchsgrundlage.
+
+Beim Bundes-IFG sind Paragrafen 1 und 3 bis 7 zusammen zu lesen. BVerwG, Urteil vom 10.04.2019, 7 C 23.18, zur Grenze unverhältnismäßigen Verwaltungsaufwands: Institutionelle Belastung konkret begründen, Teilzugang nicht allein wegen gewöhnlichen Prüfaufwands verweigern. Identifikation, Rechtsprüfung und Drittanhörung gehören zur Belastung; materielle Geheimhaltungsgründe entfallen nicht. Dieser IFG-Maßstab ersetzt keine eigenständige Presse-, Umwelt- oder Landesrechtsprüfung.
 
 ## 1.1. Antrag und Aktenbestand abgleichen
 

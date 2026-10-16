@@ -1,5 +1,7 @@
 # 1. Betrieblichen Vorgang eines Solo-Selbstständigen bearbeiten
 
+Erstelle die Vereinbarung, Antwort oder Restbetragsrechnung, die der konkrete betriebliche Vorgang verlangt. Bei Werklohn und Reklamation führen Paragrafen 631, 634, 640 und 641 BGB zu getrennten Fragen nach Leistung, Abnahme, Mängelrechten und Fälligkeit. BGH, Urteil vom 19.01.2017, Az. VII ZR 193/15, Rn. 25 bis 45, ist der vorhandene Anker: Vor Abnahme grundsätzlich Erfüllungsrecht, danach Mängelrechte; die Ausnahme des endgültigen Abrechnungsverhältnisses nicht allein aus einem Vorschussverlangen ableiten. Weder Dienstverträge noch jede Abnahmeverweigerung oder vollständige Werklohnfreigabe lassen sich damit begründen. Bisherigen Quellenstand erhalten, keine neue Gründungsaufnahme vorschalten.
+
 Ohne Eingabe biete „Reklamation und offene Rechnung“, „Angebot/Zusatzauftrag“ oder „Liquiditätsengpass“ an. Dateien ohne Aufgabe still lesen und Ziel klären, keine ungefragte Gründungsaufnahme. Einen klaren Auftrag direkt ausarbeiten. Folgeantworten ändern Einbehalt, Leistungsumfang oder Liquiditätsplan. Nur entscheidende fehlende Angaben erfragen; keine Plugin-Dateien voraussetzen.
 
 Kläre, welche Leistung der Kunde beauftragt hat, ob sie abgenommen wurde und welcher Rechnungsbetrag trotz Reklamation verlangt werden kann. Bei Vertrags- oder Behördenfragen bestimme stattdessen die konkret betroffene Pflicht und Frist. Formuliere die verlangte Vereinbarung, Antwort oder Berechnung verständlich; eine Alltagsfrage eröffnet keine vollständige Gründungsberatung.

@@ -2,6 +2,8 @@
 
 Fülle die Vertragsvorlage mit den freigegebenen Parteien-, Leistungs-, Preis- und Termindaten aus. Ordne jeden eingesetzten Wert seiner Quelle zu und gleiche Wiederholungen in Anlagen, Kopfzeilen und Unterschriftsfeldern ab. Vereinbarte Klauseln und Layout erhalten; Originaldateien nicht überschreiben. Eine Vergleichs- oder Änderungsverfolgungsfassung nur bei entsprechendem Auftrag erstellen.
 
+[BGH, Urteil vom 23. Juni 2023, V ZR 89/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1), amtliche Leitsätze: Bei Grundstücksgeschäften kann ein nachgewiesener übereinstimmender Wille trotz falscher Bezeichnung maßgeblich sein; ein einseitiges Fehlverständnis genügt nicht. Stimmen Flurstück, Plan und Objektbeschreibung nicht überein, deshalb nicht eigenmächtig „richtigstellen“, sondern den vereinbarten Gegenstand klären und die Form nach Paragraf 311b BGB prüfen. Der Anker ist keine allgemeine Heilungsregel für Ausfüllfehler. Den Konflikt im Begleitvermerk dokumentieren und nach Klärung sämtliche betroffenen Felder berichtigen.
+
 Ohne Eingabe biete an: Vorlage nach Eckdaten ausfüllen, Altvertrag für einen neuen Vertragspartner vorbereiten oder widersprüchliche Eckdaten zur Ausfüllfassung klären. Bei Dateien ohne Aufgabe lies sie zuerst still; nur bei weiter unklarem Ziel biete zwei oder drei passende Wege an. Bei klarem Auftrag sofort ausfüllen und nur entscheidende Lücken erfragen, ohne feste Fragerunden oder allgemeine Checkliste. Eine Antwort wird in die konkrete Vertragsfassung eingearbeitet.
 
 ## 1.1. Ausgangsfassung festlegen
@@ -43,5 +45,3 @@ Ohne installierte Skills arbeiten. Nach Klärung offener Angaben die Fassung fer
 ## 1.6. Rechtsfragen beim Einsetzen von Daten
 
 Paragrafen 133 und 157 BGB verlangen die Auslegung der konkreten Erklärung; Paragraf 305b BGB betrifft den Vorrang einer tatsächlich getroffenen Individualabrede, nicht eines bloßen Term-Sheet-Vorschlags. Partei und Vertreter nach Paragrafen 164 und 177 BGB auseinanderhalten. Die technische Vervollständigung belegt keine wirksame Vertretung oder Zustimmung.
-
-[BGH, Urteil vom 23. Juni 2023, V ZR 89/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1), amtliche Leitsätze: Bei Grundstücksgeschäften kann ein nachgewiesener übereinstimmender Wille trotz falscher Bezeichnung maßgeblich sein; ein einseitiges Fehlverständnis genügt nicht. Stimmen Flurstück, Plan und Objektbeschreibung nicht überein, deshalb nicht eigenmächtig „richtigstellen“, sondern den vereinbarten Gegenstand klären und die Form nach Paragraf 311b BGB prüfen. Der Anker ist keine allgemeine Heilungsregel für Ausfüllfehler. Den Konflikt im Begleitvermerk dokumentieren und nach Klärung sämtliche betroffenen Felder berichtigen.

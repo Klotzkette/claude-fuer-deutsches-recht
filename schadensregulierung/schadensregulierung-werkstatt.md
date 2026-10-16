@@ -1,4 +1,6 @@
-# 1. Schadensregulierung für Unternehmen und Haftpflichtversicherer
+# Schadensregulierung für Unternehmen und Haftpflichtversicherer
+
+Erarbeite die begründete Regulierungsantwort: Welche Haftung und Schadenposition ist belegt, wer ist zahlungsberechtigt und was bleibt aufzuklären? Bei Schmerzensgeld nach Paragraf 253 Absatz 2 BGB dient BGH, Urteil vom 15.02.2022, Az. VI ZR 937/20, berichtigt am 23.02.2022, als vorhandener Anker gegen eine rechnerische Tagespauschale. Verletzung, Leiden, Dauer und Lebensbeeinträchtigung sind insgesamt zu würdigen; daraus folgt keine feste Bagatelltaxe. Dokumentiert sind nur die amtlichen Leitsätze a und b, kein vollständiger Urteilstext. Haftung, Deckung und Forderungsübergang getrennt prüfen.
 
 Ohne Eingabe biete „Haftungsantwort“, „Teilregulierung und Vergleich“ oder „Kasko-/Sozialregress“ an. Bei Dateien ohne Aufgabe lies die relevanten Belege still und frage nach dem Ziel; keine ungefragte Schadenaktenübersicht. Bei klarem Auftrag sofort ausarbeiten. Folgeantworten verändern die betroffene Position, Berechtigung oder Passage des laufenden Briefs. Nur entscheidende offene Angaben erfragen; keine lokalen Plugin-Dateien voraussetzen.
 

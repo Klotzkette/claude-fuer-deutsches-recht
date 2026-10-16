@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet.",
+    "norms_or_source_basis": "Paragrafen 30 und 34 GmbHG",
+    "selected_anchor_identifiers": [
+      "II ZR 65/16"
+    ],
+    "application_limit": "Stille Reserven sind nicht automatisch freies Vermögen; spätere Auszahlungssperre und persönliche Haftung getrennt prüfen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "d5608bf2ba8ce6fa754f9083218349a31a796f8bb01bcda8fcb55069da4fa8c3",
+      "characters": 7075,
+      "utf8_bytes": 7175,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "27abf2ff30955ba600d7f3ca807dfbe6e26ced065546b6ea77bf3967630d324f",
+      "characters": 25188,
+      "utf8_bytes": 25541,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-handels-gesellschaftsrecht",
   "reviewed_on": "2026-09-23",
@@ -51,15 +82,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Kurzprompt unterscheidet jetzt anfänglich nicht finanzierbare Einziehung und spätere Abfindungssperre mit zwei amtlich gelesenen Entscheidungen; die kaufmännische Rüge stellt auf rechtzeitige Absendung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
+    "reason": "Der Kurzprompt unterscheidet jetzt anfänglich nicht finanzierbare Einziehung und spätere Abfindungssperre mit zwei amtlich gelesenen Entscheidungen; die kaufmännische Rüge stellt auf rechtzeitige Absendung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Finanzierung ist ein rückzahlbares Darlehen statt Zuschuss -> Liquidität und freies Vermögen unterscheiden; Einziehungsbewertung und Finanzierungsklausel ändern. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend. Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
       "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
       "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden."
+      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "6405b2054c40076571001a69b471e9aa78320c5fdc5bd0fd0d0a7f2761a3809d"
+    "sha256": "d5608bf2ba8ce6fa754f9083218349a31a796f8bb01bcda8fcb55069da4fa8c3"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -130,16 +162,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Fachanwaltsüberblick ersetzt pauschale Normreihen durch rechtsformbezogene Prüfung und trennt Nichtigkeit der Einziehung, Zahlungssperre und persönliche Mitgesellschafterhaftung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Schlusslektüre hat die noch allgemeinen Holding- und Tokenisierungsabschnitte konkretisiert; vollständige Fachwege bleiben erhalten. Workflow-Ergänzung einzeln geprüft: Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend.",
+    "reason": "Der Fachanwaltsüberblick ersetzt pauschale Normreihen durch rechtsformbezogene Prüfung und trennt Nichtigkeit der Einziehung, Zahlungssperre und persönliche Mitgesellschafterhaftung. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Schlusslektüre hat die noch allgemeinen Holding- und Tokenisierungsabschnitte konkretisiert; vollständige Fachwege bleiben erhalten. Workflow-Ergänzung einzeln geprüft: Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem/Fokusskill zur Einziehungsfinanzierung erhalten II ZR50/25 als Mitgliedschaftsvorfrage. Managerbeteiligungsentscheidung bleibt im breiten Gesellschaftsstreit; ältere Kapitalerhaltungs-/Abfindungsanker bleiben tragend. Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit unterschiedlichen Zeitpunkten und Rechtsfolgen in beide Prompts, Hauptproblem und Fokus-Skill integriert.",
       "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
       "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
       "Schlusslektüre: Holding- und Tokenisierungsabschnitte mit konkreten Rechts-, Zustimmungs-, Form- und Nachweisfragen statt allgemeiner Bearbeitungsformeln ausgearbeitet.",
       "Tatsächliche Stimmen und Protokoll, spätere Wiederholung gegenüber Heilung, Zahlungsrollen bei Abfindung, aktuelle Verluste, Mängelentdeckung und Rügeabsendung sowie Provisionskonto gegenüber Ausgleichsanspruch.",
-      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden."
+      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beschluss, Abfindung oder Handelsvertrag führen zum konkreten Ergebnis; freies Vermögen bei Einziehung wird zeitlich eingeordnet. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "0bb1ae2a6674ebab2c4c9913cc4fe4897aac9707985494dd4626704ec4e36018"
+    "sha256": "27abf2ff30955ba600d7f3ca807dfbe6e26ced065546b6ea77bf3967630d324f"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

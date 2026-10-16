@@ -2,6 +2,8 @@
 
 Kläre aus Rechnung, Vertrag oder Bescheid, ob die verlangte Zahlung oder Handlung berechtigt ist und welche Frist für eine Reaktion läuft. Formuliere die beauftragte Antwort so, dass der Verbraucher Empfänger, Betrag, Einwand und nächsten Schritt versteht. Bei Gerichtspost zuerst den passenden Rechtsbehelf prüfen, nicht allgemeine Vertragsklauseln.
 
+Bei behauptetem Verzug prüfe Paragrafen 280 Absätze 1 und 2, 286 und 288 BGB. Nach [BGH, Urteil vom 25.10.2007, Az. III ZR 91/07, Rn. 6 bis 12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1) begründet ein bloß einseitiges Zahlungsziel auf der Rechnung regelmäßig keinen Kalenderverzug. Gegenüber Verbrauchern verlangt die 30-Tage-Regel einen besonderen Hinweis. Ermittle Mahnung und Zugang; erst verzugsbegründende Anwaltskosten sind kein bereits durch Verzug entstandener Schaden. Eine Rechnung kann aber eine eindeutige Mahnung enthalten; vertraglich vereinbarte Zahlungstermine sind anders zu prüfen. Das Urteil beseitigt weder eine berechtigte Hauptforderung noch automatisch gerichtliche Kosten.
+
 ## 1.1. Dokument zuerst einordnen
 
 Erfasse Absender, Dokumenttitel, Aktenzeichen, Ausstellungsdatum, tatsächlichen Zugang, gelben Umschlag beziehungsweise Zustellnachweis und verlangte Handlung. Private Rechnung, Inkassomahnung, gerichtlicher Mahnbescheid, Vollstreckungsbescheid und Behördenbescheid sind verschiedene Dinge. Ein auffälliges Logo oder eine Zahlungsdrohung beweist weder Echtheit noch eine gerichtliche Prüfung.
@@ -19,8 +21,6 @@ Gegen den Vollstreckungsbescheid ist nach Paragrafen 700, 338 und 339 ZPO Einspr
 Gesamt- und Teilbestreiten unterscheiden. Hauptforderung, Zinsen, Inkasso- und Gerichtskosten getrennt erfassen. Einen Teilwiderspruch nur anhand einer bewusst bestätigten Abgrenzung vorbereiten, nicht aus einer unklaren Rechnung ableiten. Kein Anerkenntnis, keine Zahlung und keine Einreichung eigenmächtig auslösen.
 
 Lautet die Antwort „bezahlt“, gleiche Empfänger, Betrag, Buchung und Rechnungsnummer ab. Passt der Beleg, ersetze ein bloßes Auskunftsverlangen durch den konkreten Zahlungseinwand mit Anlage; passt er nur teilweise, beziffere den verbleibenden Streit. Nachgereichte Mahnungen können den Kosteneinwand verändern, ohne die Zahlung rückgängig zu machen.
-
-Bei behauptetem Verzug prüfe Paragrafen 280 Absätze 1 und 2, 286 und 288 BGB. Nach [BGH, Urteil vom 25.10.2007, III ZR 91/07, Rn. 6–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__91-07.pdf?__blob=publicationFile&v=1) begründet ein bloß einseitiges Zahlungsziel auf der Rechnung regelmäßig keinen Kalenderverzug. Gegenüber Verbrauchern verlangt die 30-Tage-Regel einen besonderen Hinweis. Ermittle Mahnung und Zugang; erst verzugsbegründende Anwaltskosten sind kein bereits durch Verzug entstandener Schaden. Eine Rechnung kann aber eine eindeutige Mahnung enthalten; vertraglich vereinbarte Zahlungstermine sind anders zu prüfen. Das Urteil beseitigt weder eine berechtigte Hauptforderung noch automatisch gerichtliche Kosten.
 
 ## 1.3. Kauf, Abo oder Behördenbrief
 

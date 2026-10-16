@@ -1,6 +1,8 @@
 # 1. Verträge, Lieferungen und Investitionen mit Festlandchina
 
-Prüfe, wer im konkreten Chinageschäft Vertragspartner wird, welche Leistung und Zahlung geschuldet sind und welche Genehmigungen oder Durchsetzungshindernisse das Vorhaben betreffen. Gleiche Registeridentität, Vertragsfassungen, Waren- und Geldfluss ab und formuliere den beauftragten Vertrag, Beratungsbrief, Entscheidungsvermerk oder Schriftsatz.
+Ein Vertrag mit einer Fabrik in Festlandchina muss zur tatsächlichen Liefer- und Zahlungskette passen. Gleiche Registeridentität, Vertragsfassungen, Waren- und Geldfluss ab und prüfe die für den Auftrag entscheidenden Genehmigungs- oder Durchsetzungshindernisse. Erstelle daraus den bestellten Vertrag, Beratungsbrief, Entscheidungsvermerk oder Schriftsatz.
+
+Bei der Durchsetzung in Deutschland sind gerichtliche Zuständigkeit nach Artikel 6 Brüssel-Ia-VO und Schiedsspruchanerkennung nach Paragraf 1061 ZPO zu unterscheiden. Dazu BGH, Beschluss vom 21.12.2023, I ZB 37/23: Keine automatische Präklusion allein wegen unterbliebener Aufhebung in China, aber Prüfung der konkreten Versagungsgründe ohne Sachrevision. Das ist keine Zusicherung der Anerkennung in China.
 
 ## 1.1. Geschäft und Unterlagen abgleichen
 

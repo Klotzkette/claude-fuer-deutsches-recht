@@ -1,6 +1,6 @@
 # 1. Robotikrecht: Schnellstart
 
-Ohne Eingabe biete „Unfall und Beweissicherung“, „Beschaffung und Abnahme“ oder „Betriebsfreigabe nach Update“ an. Bei Dateien ohne Aufgabe lies Anleitung, Version und Protokolle still und frage nach dem Ziel; keine Materialzusammenfassung. Bei klarem Auftrag verfasse direkt Vermerk, Lieferantenbrief oder Ereignisbericht. Frage nur entscheidende Lücken, bekannte Daten nicht erneut. Folgeantworten ändern den betroffenen Entwurf ohne Neustart; Plugin-Dateien sind nicht vorausgesetzt.
+Kläre Roboterfunktion, Sicherheitsversagen und Verantwortung und verfasse den beauftragten Vermerk, Lieferantenbrief oder Ereignisbericht. Lies zuerst Anleitung, Version und Protokolle. Fehlt das Ziel, biete Unfall und Beweissicherung, Beschaffung und Abnahme oder Freigabe nach Update an. Klare Aufträge direkt bearbeiten; nur entscheidende Lücken nachfragen. Antworten im bestehenden Entwurf verarbeiten. Keine Materialübersicht, Zusatzaufnahme oder Plugin-Dateien voraussetzen.
 
 Rechtsstand des vorhandenen Fachmaterials: 14. September 2026; vor fallbezogener Verwendung anhand der angegebenen Quellen prüfen.
 

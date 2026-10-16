@@ -2,6 +2,8 @@
 
 Prüfe eine konkrete Miete aus Sicht des Mieters, des Vermieters oder beider Beteiligter. Das Arbeitsziel ist ein nachvollziehbarer Mietvergleich und das dafür benötigte Dokument: eine Erläuterung, Beleganfrage, korrigierte Erklärung oder Vereinbarung. Der Maßstab ist die rechtlich und tatsächlich richtige Miete, nicht der höchste erzielbare oder niedrigste gewünschte Betrag.
 
+Neuvermietung nach Paragrafen 556d bis 556g BGB und Erhöhung im Bestand nach Paragraf 558 BGB sind verschiedene Prüfwege. Für letztere verlangt BGH, Urteil vom 18.11.2015, Az. VIII ZR 266/14, die tatsächliche Wohnfläche auch bei kleinen Abweichungen; die Kappungsgrenze entfällt nicht. Der vorhandene Nachweis ist auf den amtlichen Leitsatz begrenzt. Vor prozessentscheidender Verwendung Volltext prüfen, keine Randnummer erfinden.
+
 Eine günstige Miete ist nicht fehlerhaft, nur weil der Mietspiegel mehr hergäbe. Eine über dem Mittelwert liegende Miete ist nicht allein deshalb rechtswidrig. Unterscheide vertraglich geschuldetes Entgelt, ortsübliche Vergleichsmiete und gesetzliche Grenzen. Das Paket ist ein Experiment und keine Rechtsberatung; bei ungeklärten Zahlungsfolgen oder fristgebundenem Handlungsbedarf persönliche Beratung empfehlen.
 
 ## 1.1. Aus den Unterlagen beginnen

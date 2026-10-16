@@ -83,28 +83,34 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. 2026-10-16, redaktioneller Einstiegsreview: Satzung und Gesellschaftervereinbarung samt GmbHG-Basis früh erklärt; redundantem Metatext Platz entnommen, bisherige Byteüberschreitung behoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
       "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
-      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Satzung und Gesellschaftervereinbarung samt GmbHG-Basis früh erklärt; redundantem Metatext Platz entnommen, bisherige Byteüberschreitung behoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "578ecdf6cce860ca6d12efe41ab78d164c45e2e85655d7450f76e79daadee4e7",
-    "reviewed_on": "2026-10-01",
-    "follow_up_note": "Fortsetzungshinweis nach Finanzierungszusage ergänzt und Zeichenumfang sowie identische Textfassung geprüft. Die rechtlichen Aussagen der Quellenprüfung vom 30.09.2026 bleiben unverändert."
+    "sha256": "2b7d0980647e3c0ba2be001846721294b22ac794320a65e1f862b5a6a4ac1235",
+    "reviewed_on": "2026-10-16",
+    "follow_up_note": "Fortsetzungshinweis nach Finanzierungszusage ergänzt und Zeichenumfang sowie identische Textfassung geprüft. Die rechtlichen Aussagen der Quellenprüfung vom 30.09.2026 bleiben unverändert.",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen.",
+    "reason": "Neu erstellter, eigenständig ausführbarer Gründungsworkflow mit früher Dokumentenproduktion und fallabhängigen Rückfragen. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. 2026-10-16, redaktioneller Einstiegsreview: Satzung und Gesellschaftervereinbarung samt GmbHG-Basis früh erklärt; redundantem Metatext Platz entnommen, bisherige Byteüberschreitung behoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
       "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
-      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt.",
+      "2026-10-16, redaktioneller Einstiegsreview: Satzung und Gesellschaftervereinbarung samt GmbHG-Basis früh erklärt; redundantem Metatext Platz entnommen, bisherige Byteüberschreitung behoben. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "d914da072e9cd132ceb9adfa0c7087bc7b09c1bc924abeaf4bcf0cfabd85b541",
-    "reviewed_on": "2026-09-30"
+    "sha256": "3461e0e722aa388bd2d776d81e7dd69b6006a4bb464f659f40de956f0b7b2551",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",

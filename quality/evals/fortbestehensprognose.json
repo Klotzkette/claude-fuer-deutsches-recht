@@ -21,13 +21,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der zwölfmonatige Prognosefall verlangt konkrete Finanzierung statt bloßer Konzernzugehörigkeit oder Zusageetiketten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Der zwölfmonatige Prognosefall verlangt konkrete Finanzierung statt bloßer Konzernzugehörigkeit oder Zusageetiketten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "II ZR 84/20 differenziert harte und weiche Unterstützung, ohne jeden künftigen Zufluss vom Bestehen eines Rechtsanspruchs abhängig zu machen.",
       "Paragraf 19 Absatz 2 InsO mit zwölf Monaten von HGB-Fortführung und längerem Planungsbedarf getrennt.",
-      "Zwölfmonatsplanung, Finanzierungszusage oder Prognosevermerk wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Zwölfmonatsplanung, Finanzierungszusage oder Prognosevermerk wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen."
     ],
-    "sha256": "c65eedb97e482ee6f96d0615f8473b11b821d01557944da5fbce51e8ad819c7a"
+    "sha256": "69588462b45415227504e15add4e5744078fdc2dac195be4ff7380b1d510c35c"
   },
   "selection": {
     "positive": [
@@ -75,13 +76,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Patronat, fortlaufende Verluste, Zahlungsbereitschaft und Überwachung werden in den bestehenden Szenario- und Berichtspfad eingeordnet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Patronat, fortlaufende Verluste, Zahlungsbereitschaft und Überwachung werden in den bestehenden Szenario- und Berichtspfad eingeordnet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "II ZR 84/20 differenziert harte und weiche Unterstützung, ohne jeden künftigen Zufluss vom Bestehen eines Rechtsanspruchs abhängig zu machen.",
       "Paragraf 19 Absatz 2 InsO mit zwölf Monaten von HGB-Fortführung und längerem Planungsbedarf getrennt.",
-      "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt."
+      "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen."
     ],
-    "sha256": "79ab31c4d1cb96ca2273b9b2c592145cdf5e20371475ea3215b98c2a43c58eb3"
+    "sha256": "6b82b7ffadda0a863ae7c006feea705d8628307066b224a6b2f4390e5cf79488"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -122,5 +124,41 @@
     "continuation": "Auszahlung erst nach erster Unterdeckung -> Zwischenbedarf bleibt; belegte Stundung -> konkrete Fälligkeiten und Prognose ändern.",
     "enrichment": "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Zwischenlücke und konkreter Prognosevermerk vorangestellt; erwartete Gesellschafterhilfe weder pauschal anerkannt noch allein mangels Rechtsanspruch verworfen.",
+    "anchor_or_exception": "BGH, Urteil vom 13.07.2021, II ZR 84/20; Paragraf 19 Absatz 2 InsO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c65eedb97e482ee6f96d0615f8473b11b821d01557944da5fbce51e8ad819c7a",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "79ab31c4d1cb96ca2273b9b2c592145cdf5e20371475ea3215b98c2a43c58eb3",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "fortbestehensprognose/fortbestehensprognose-werkstatt.md",
+        "sha256": "6b82b7ffadda0a863ae7c006feea705d8628307066b224a6b2f4390e5cf79488",
+        "characters": 17469,
+        "utf8_bytes": 17743
+      },
+      {
+        "path": "fortbestehensprognose/fortbestehensprognose-schnellstart.md",
+        "sha256": "69588462b45415227504e15add4e5744078fdc2dac195be4ff7380b1d510c35c",
+        "characters": 6567,
+        "utf8_bytes": 6684
+      }
+    ]
   }
 }

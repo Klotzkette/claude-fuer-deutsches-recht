@@ -1,6 +1,8 @@
 # 1 Historische Rechtsquelle und ihre Wirkung erschließen
 
-Untersuche, welche Regel im bezeichneten Gebiet und Zeitraum galt und was die überlieferte Quelle über ihre Anwendung belegt. Gehe vom vorgelegten Gesetzestext, Urteil oder Aktenstück aus; eine spätere Edition oder heutige Deutung ist nicht die damalige Rechtspraxis. Verfasse die beauftragte Quellenanalyse, historische Falluntersuchung oder Rezeptionsdarstellung und trenne historische Aussage und heutige Bewertung.
+Erschließe die vorgelegte Rechtsquelle in ihrem Gebiet und Zeitraum und verfasse die bestellte Quellenanalyse, historische Falluntersuchung oder Rezeptionsdarstellung. Ausgangspunkt ist der tatsächlich gelesene Textzeuge mit Edition, Archivsignatur oder Blattangabe. Eine spätere Deutung ist kein Beleg damaliger Rechtspraxis; eine moderne Übersetzung kein historischer Wortlaut.
+
+Ein heutiger Rechtsprechungsanker ist für diese historische Arbeit nicht allgemein sinnvoll. Maßgeblich sind überlieferte Normfassung und belegte Anwendung. Nur wenn der Auftrag nach heutiger rechtlicher Bewertung fragt, tritt die dafür einschlägige geltende Norm hinzu. Historische Aussage, Rezeptionsgeschichte und gegenwärtige Bewertung bleiben getrennt; der spätere Fallanker zu staatlichem Unrecht ist keine allgemeine Rückwirkung heutiger Maßstäbe.
 
 ## 1.1 Text und Fragestellung bestimmen
 

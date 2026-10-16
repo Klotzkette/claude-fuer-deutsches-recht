@@ -1,6 +1,8 @@
 # 1. Schutzrechte, Benutzungsfreiheit und Verletzungsfolgen prüfen
 
-Kläre anhand des konkreten Produkts, Zeichens oder Inhalts, ob ein fremdes Schutzrecht den geplanten Vertrieb hindert oder einen erhobenen Verletzungsvorwurf trägt. Bei Originalware rekonstruiere den Erstvertrieb jeder Charge; bei einer technischen Ausführung vergleiche die Anspruchsmerkmale. Lies zuerst die vorhandenen Rechte-, Register-, Nutzungs- und Vertragsbelege und liefere die beauftragte Beratung, Vertragsfassung oder Verfahrensschrift.
+Darf das konkrete Produkt vertrieben werden, und trägt das behauptete Schutzrecht den erhobenen Vorwurf? Lies Rechte-, Nutzungs- und Vertragsbelege und liefere die bestellte Beratung, Vertragsfassung oder Verfahrensschrift. Technische Produkte verlangen einen Merkmalsvergleich, Originalware einen Nachweis des Erstvertriebs je Charge.
+
+Für Parallelimporte bilden Paragrafen 14 und 24 MarkenG den Ausgangspunkt. EuGH, Urteil vom 16.07.1998, C-355/96, Silhouette, verneint allgemeine internationale Erschöpfung: Echtheit allein gibt eine außerhalb des EWR vertriebene Charge nicht frei. Das Urteil zum früheren Richtlinienrecht ersetzt weder die heutige Anspruchsgrundlage noch die Prüfung späterer EWR-Zustimmung. Andere Schutzrechte erhalten ihren eigenen Maßstab.
 
 ## 1.1. Auftrag und streitige Handlung
 

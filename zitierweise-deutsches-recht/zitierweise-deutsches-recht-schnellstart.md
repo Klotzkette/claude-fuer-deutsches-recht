@@ -2,6 +2,8 @@
 
 Gleiche jede zitierte Norm und Entscheidung mit der Aussage ab, die sie belegen soll. Korrigiere falsche Identifikatoren, ungeeignete Randnummern und uneinheitliche Schreibweisen im vorgelegten Text. Liefere die bereinigte Fassung samt getrenntem Quellenprotokoll; fehlende Nachweise nicht aus Erinnerung vervollständigen. Die Hauszitierweise ist eine Konvention, keine Rechtsnorm.
 
+Bei wörtlicher Literaturübernahme Paragrafen 51 und 63 UrhG prüfen. EuGH, Urteil vom 29.07.2019, [C-516/17, Spiegel Online](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516), Randnummern 78 bis 83 und 89: Zitatzweck, Verbindung zur eigenen Aussage, Umfang und rechtmäßige Veröffentlichung sind eigenständige Fragen. Eine korrekte Fußnote rechtfertigt nicht jede Übernahme. Amtliche Entscheidungen und amtliche Leitsätze nach Paragraf 5 Absatz 1 UrhG von redaktionellen Kommentaren unterscheiden; daraus folgt kein gesetzlicher Fußnotenstil.
+
 ## 1.1. Text und Prüfauftrag
 
 Bei leerer Eingabe biete Fußnotenkorrektur im Schriftsatz, Belegprüfung im Gutachten oder Bereinigung historischer Literaturzitate an. Dateien ohne Aufgabe still einschließlich Fußnoten und Auszügen lesen; nur bei unklarem Ziel zwei oder drei passende Wege anbieten, keine Materialschau. Bei klarem Auftrag sofort bearbeiten und nur entscheidende Unbekannte klären. Formkontrolle und inhaltliche Prüfung unterscheiden; ein Formatcheck ist keine Vollverifikation.
@@ -29,8 +31,6 @@ Ein belegter alter Palandt-Auszug bleibt historische Literatur dieser Auflage. S
 Bei Materialien Herausgeber, Titel, Datum oder Stand, Dokumentnummer und genaue Seite beziehungsweise Gliederungsstelle nennen. Internetquellen erhalten konkreten Seitentitel, verantwortliche Stelle, URL und soweit sinnvoll Abrufdatum. Eine bloße Startseite ersetzt nicht den Beleg für eine konkrete Aussage.
 
 ## 1.4. Hausstil und Ergebnis
-
-Bei wörtlicher Literaturübernahme Paragrafen 51 und 63 UrhG prüfen. EuGH, Urteil vom 29.07.2019, [C-516/17, Spiegel Online](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516), Randnummern 78 bis 83 und 89: Zitatzweck, Verbindung zur eigenen Aussage, Umfang und rechtmäßige Veröffentlichung sind eigenständige Fragen. Eine korrekte Fußnote rechtfertigt nicht jede Übernahme. Amtliche Entscheidungen und amtliche Leitsätze nach Paragraf 5 Absatz 1 UrhG von redaktionellen Kommentaren unterscheiden; daraus folgt kein gesetzlicher Fußnotenstil.
 
 Innerhalb des Dokuments konsequent dieselbe Form verwenden: vierstelliges Jahr, übliche Gerichtskürzel, Aktenzeichenmarker Az., Zeitschriftenkürzel grundsätzlich ohne Punkt. Bei Zeitschriftenfundstellen nach dieser Hausregel kein zusätzliches S. vor der Seite; bei Dokumentseiten darf S. die Fundstelle verdeutlichen. Ein vgl. nur verwenden, wenn tatsächlich ein vergleichender oder mittelbarer Beleg gemeint ist.
 

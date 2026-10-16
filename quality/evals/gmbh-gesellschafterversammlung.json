@@ -297,22 +297,60 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen.",
+    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen. Einstiegsredaktion 16.10.2026: Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
       "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
-      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen.",
+      "Einstiegsredaktion 16.10.2026: Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft."
     ],
-    "sha256": "ddf7abc1ba74864e321fa006f438c4a495974e37f21e3c9f69b62e9476c1e6f3"
+    "sha256": "87b196962d6814d4d7d4fb2c093981fbcaae9a5ba7bb312f637296e220e1c46f"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen.",
+    "reason": "Eigenständig ausformulierter Arbeitsablauf für GmbH/UG; Quellenabgleich und redaktionelle Prüfung mit Trennung von Planung und tatsächlichen Beschlüssen. Einstiegsredaktion 16.10.2026: Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
       "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
-      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen.",
+      "Einstiegsredaktion 16.10.2026: Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft."
     ],
-    "sha256": "b125377b17d3a72271c8b2091417a42306e74fba7ab4b59e4ba5b3d358037f7e"
+    "sha256": "5ad35e9ae6e9143e17ce0d6e1d09a2ff0454fadb59974f67f83bec54dd1abba2"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Einladung, Beschlussvorlage und tatsächliches Protokoll klar benannt; richtige Ladungsadressatin und Grenze des Nachtrags vorgezogen, redundante Abschlussmeta gestrafft.",
+    "anchor_or_exception": "BGH, Urteil vom 05.05.2026, II ZR 2/25; Paragrafen 45 bis 51 GmbHG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "ddf7abc1ba74864e321fa006f438c4a495974e37f21e3c9f69b62e9476c1e6f3",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "b125377b17d3a72271c8b2091417a42306e74fba7ab4b59e4ba5b3d358037f7e",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-schnellstart.md",
+        "sha256": "87b196962d6814d4d7d4fb2c093981fbcaae9a5ba7bb312f637296e220e1c46f",
+        "characters": 7296,
+        "utf8_bytes": 7433
+      },
+      {
+        "path": "gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md",
+        "sha256": "5ad35e9ae6e9143e17ce0d6e1d09a2ff0454fadb59974f67f83bec54dd1abba2",
+        "characters": 38285,
+        "utf8_bytes": 38979
+      }
+    ]
   }
 }

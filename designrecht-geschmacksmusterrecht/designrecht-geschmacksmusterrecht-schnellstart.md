@@ -1,10 +1,12 @@
 # 1. Designrecht: Anmeldung, Rechtsbestand und Verletzung
 
-Vergleiche Designansichten, ältere Katalogbilder und angegriffenes Produkt. Belege Offenbarungszeitpunkt und Gesamteindruck; erstelle die beauftragte Anmeldung, Beratung, Lizenz oder Verfahrensschrift.
+Vergleiche vorgelegte Designansichten, ältere Bilder und Konkurrenzprodukt. Liefere die bestellte Anmeldung, Bewertung, Lizenz oder Verfahrensschrift mit belegter Offenbarung und begründetem Gesamteindruck.
+
+Stützt der Gegner fehlende Eigenart auf Merkmale aus verschiedenen Katalogen, wende [EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, Randnummern 25 bis 35](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013), zu Artikel 6 Verordnung (EG) Nr. 6/2002 an: Der Vergleich erfolgt mit einzelnen bestimmten Designs, nicht mit einem Merkmalsmosaik. Das beseitigt diesen Kombinationsangriff, bestätigt aber noch keine Eigenart. Beim nicht eingetragenen EU-Design verlangt die Bestandsvermutung nach Artikel 85 Absatz 2 den Nachweis nach Artikel 11 und die Angabe der eigenartbegründenden Merkmale, nicht deren zusätzlichen Vollbeweis (Randnummern 36 bis 47); Nachahmung nach Artikel 19 Absatz 2 bleibt gesondert zu prüfen. Tragende Normen in der zeitlich maßgeblichen Fassung verwenden, weitere Entscheidungen amtlich verifizieren.
 
 ## 1.1. Auftrag und Bildgrundlage
 
-Ohne Eingabe biete Anmeldung, Produktvergleich oder Lizenzentwurf an. Bei Dateien ohne Auftrag Bilder und Registerunterlagen still lesen, dann das Ziel klären. Bei klarem Auftrag direkt entwerfen, ohne Bildkatalog oder Aufnahmebogen vorab. Folgeantwort „Das ältere Bild zeigt auch die Rückseite“ führt zum neuen Einzelvergleich und zur Korrektur des Angriffs, nicht zum Neustart. Kein Plugin-Zugriff erforderlich.
+Ohne Auftrag Bilder und Registerunterlagen lesen und Anmeldung, Produktvergleich oder Lizenz klären; sonst direkt entwerfen. „Das ältere Bild zeigt auch die Rückseite“ führt zum neuen Einzelvergleich und zur Korrektur des Angriffs, nicht zum Neustart. Kein Plugin-Zugriff erforderlich.
 
 Trenne deutsches Design, eingetragenes und nicht eingetragenes EU-Design sowie eine internationale Registrierung. Ordne Ansichten, Anmelde-, Prioritäts- und Offenbarungsdaten dem konkreten Recht zu. Prüfe die für den maßgeblichen Zeitpunkt geltende Rechtsfassung einschließlich EU-Reform und Übergangsvorschriften; eine Eintragung ist kein materielles Bestandsurteil.
 
@@ -37,8 +39,6 @@ Bei einer Lizenz bezeichne Designs und Ansichten eindeutig und formuliere Rechte
 ## 1.5. Rechtsgrundlagen und Quellen
 
 Prüfe für deutsches Designrecht Paragrafen 1 und 2 DesignG zu Designbegriff, Neuheit und Eigenart, [Paragrafen 5 und 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html) zu Offenbarung und Schonfrist, Paragraf 33 zur Nichtigkeit sowie Paragraf 38 zum Schutzumfang. Für EU-Designs sind die entsprechenden unionsrechtlichen Voraussetzungen eigenständig zu prüfen.
-
-Stützt der Gegner fehlende Eigenart auf Merkmale aus verschiedenen Katalogen, wende [EuGH, Urteil vom 19.06.2014, C-345/13, Karen Millen, Randnummern 25 bis 35](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013), zu Artikel 6 Verordnung (EG) Nr. 6/2002 an: Der Vergleich erfolgt mit einzelnen bestimmten Designs, nicht mit einem Merkmalsmosaik. Das beseitigt diesen Kombinationsangriff, bestätigt aber noch keine Eigenart. Beim nicht eingetragenen EU-Design verlangt die Bestandsvermutung nach Artikel 85 Absatz 2 den Nachweis nach Artikel 11 und die Angabe der eigenartbegründenden Merkmale, nicht deren zusätzlichen Vollbeweis (Randnummern 36 bis 47); Nachahmung nach Artikel 19 Absatz 2 bleibt gesondert zu prüfen. Tragende Normen in der zeitlich maßgeblichen Fassung verwenden, weitere Entscheidungen amtlich verifizieren.
 
 [BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4): Originalität objektiv am Werk, ohne erhöhte Schwelle für angewandte Kunst. Design-Eigenart getrennt prüfen. Urheberrechtsverletzung nach wiedererkennbaren kreativen Elementen beurteilen, dabei neue Gestaltung insgesamt betrachten; kein eigenständiger Gesamteindruckstest. Urheberrechtsschutz im konkreten Fall noch nicht abschließend festgestellt.
 

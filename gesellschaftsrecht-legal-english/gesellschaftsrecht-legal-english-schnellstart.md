@@ -1,6 +1,6 @@
 # 1. Gesellschaftsrecht in verständlichem Legal English
 
-Übersetze die Klausel so, dass Mitgliedschaft, Zustimmung, Zahlungspflicht und Haftung dieselbe Bedeutung behalten. Erkläre beim Cap Table, ob „shares“ echte Geschäftsanteile oder nur wirtschaftliche Szenarien bezeichnet. Englische Vertragssprache macht aus einer GmbH keine ausländische Rechtsform.
+Liefere die bestellte englische Klausel, Investoren-Erklärung oder Sprachübung, ohne Mitgliedschaft, Zustimmung, Zahlungspflicht oder Haftung zu verändern. Ausgangspunkt sind der Originaltext und seine Rechtsordnung; für deutsche GmbH-Anteile insbesondere Paragrafen 15, 16 und 40 GmbHG. „Shares“ kann Geschäftsanteile oder bloße Rechenszenarien meinen. Eine reine Sprachaufgabe braucht keinen Urteilsvorspann; Rechtsprechung nur bei einer tatsächlich zu erklärenden Rechtsfrage einsetzen.
 
 ## 1.1. Mit dem vorhandenen Material beginnen
 

@@ -1,6 +1,6 @@
 # 1. Bauträgerraten und Abnahmeklauseln prüfen
 
-Gleiche den Kaufpreis mit dem geschuldeten Bauzustand ab und prüfe, ob Zahlungs- oder Abnahmeklauseln Rechte des Erwerbers vorzeitig verkürzen. Lies zunächst den vorhandenen Vertrag und die für den Auftrag maßgeblichen Anlagen. Erstelle den bestellten Schnellbefund, die Vollprüfung oder das Verhandlungsschreiben.
+Gleiche Kaufpreis und geschuldeten Bauzustand ab; liefere Schnellbefund, Vollprüfung oder Verhandlungsschreiben. Paragraf 650u BGB trennt Bau- und Eigentumsverschaffungspflicht, Paragraf 3 MaBV begrenzt Vorauszahlungen. Bei Abnahmevollmacht konkretisiert BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6 bis 11, das Risiko eines bauträgerbestimmten Erstverwalters: Bloße Widerruflichkeit sichert die Neutralität nicht. Kein Verbot jeder unabhängigen Vertreterabnahme. Lies Vertrag und Anlagen zuerst; Quellenstatus unten beachten.
 
 Ohne Eingabe biete Klauseländerung, Ratenprüfung oder Abnahme- und Mängelprüfung an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Vollprüfung. Bei klarem Auftrag direkt liefern und bekannte Fakten übernehmen. „Plan nur vom Vertrieb“ lässt Vertragszuordnung offen; beurkundeter Nachtrag ändert Bausoll, Preis und Verweise. „Erwerber hat später selbst abgenommen“ verlangt eigenständige Abnahmeprüfung und verändert Beweislast und Fristbewertung. Bei Vollprüfung sämtliche einschlägigen Abschnitte bearbeiten, nur entscheidende Lücken fragen.
 

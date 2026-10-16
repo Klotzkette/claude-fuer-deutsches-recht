@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen.",
+    "norms_or_source_basis": "Paragraf 823 Absatz 2 BGB; Paragrafen 6 und 27 EG-FGV",
+    "selected_anchor_identifiers": [
+      "VIa ZR 335/21"
+    ],
+    "application_limit": "Dokumentierter Profilstand wiederverwendet; Bruttokorridor von fünf bis fünfzehn Prozent ist kein Betroffenheitsbeweis und keine feste Quote.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/diesel-schadensersatz/diesel-schadensersatz-schnellstart.md",
+      "status": "changed",
+      "sha256": "9d83444466fc9907f51b4be432e0a3d90c1de73e63a0cbfe4a58461d7a8618e3",
+      "characters": 7303,
+      "utf8_bytes": 7360,
+      "previous_verdict": "retained"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/diesel-schadensersatz/diesel-schadensersatz-werkstatt.md",
+      "status": "changed",
+      "sha256": "bb4a683fb3ee50ad838a62a29fb5d0f8542c7b65c098582905a48d868d80ae06",
+      "characters": 23953,
+      "utf8_bytes": 24264,
+      "previous_verdict": "retained"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "diesel-schadensersatz",
   "reviewed_on": "2026-09-30",
@@ -225,16 +256,20 @@
     ]
   },
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Der Schnellstart wurde individuell gegen Betroffenheit, Anspruchstrennung, Verjährung, die exakte Differenzschadensformel, Kreditvollerfüllung, den amtlich geprüften EuGH-Verfahrensstatus vom 30.09.2026 und das Versandgate geprüft. Er liefert Ergebnis, Beleggrenzen und genau einen nächsten Schritt, ohne Sachantworten aus bloßen Vorlagen oder Versand aus bloßer Paketierung abzuleiten.",
-    "changes": [],
-    "sha256": "68cc59c5c8924fb85386c4b6ae0d516dc544dcd694233ee286464abcd9899a5e"
+    "verdict": "revised",
+    "reason": "Der Schnellstart wurde individuell gegen Betroffenheit, Anspruchstrennung, Verjährung, die exakte Differenzschadensformel, Kreditvollerfüllung, den amtlich geprüften EuGH-Verfahrensstatus vom 30.09.2026 und das Versandgate geprüft. Er liefert Ergebnis, Beleggrenzen und genau einen nächsten Schritt, ohne Sachantworten aus bloßen Vorlagen oder Versand aus bloßer Paketierung abzuleiten. Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "changes": [
+      "Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+    ],
+    "sha256": "9d83444466fc9907f51b4be432e0a3d90c1de73e63a0cbfe4a58461d7a8618e3"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Der Werkstattprompt wurde als vollständiger Dieselworkflow fachlich gelesen. Fahrzeugbezug, Anspruch, Frist, Schaden, Finanzierung, Prozess und beA bleiben getrennt; die Anker stehen auf 30.09.2026, die neuen BGH-Zurückverweisungen bleiben in ihrer Aussage begrenzt und geschlossene, gestrichene oder anhängige EuGH-Verfahren können nicht als Sachrechtsprechung in ein Ergebnis gelangen.",
-    "changes": [],
-    "sha256": "9c5a98d58b8d153c4c81c2d029d6acd19cdb82a133b6d10be6f217176560aa47"
+    "verdict": "revised",
+    "reason": "Der Werkstattprompt wurde als vollständiger Dieselworkflow fachlich gelesen. Fahrzeugbezug, Anspruch, Frist, Schaden, Finanzierung, Prozess und beA bleiben getrennt; die Anker stehen auf 30.09.2026, die neuen BGH-Zurückverweisungen bleiben in ihrer Aussage begrenzt und geschlossene, gestrichene oder anhängige EuGH-Verfahren können nicht als Sachrechtsprechung in ein Ergebnis gelangen. Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "changes": [
+      "Einstiegsredaktion 16.10.2026, Batch 2: Fahrzeugbezogener Anspruch und gewünschtes Schreiben eröffnen den Prompt; redundante Modusaufnahme wurde entschärft, Sicherheits- und Fachzweige bleiben bestehen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+    ],
+    "sha256": "bb4a683fb3ee50ad838a62a29fb5d0f8542c7b65c098582905a48d868d80ae06"
   },
   "prompt_editorial_review": {
     "date": "2026-09-30",

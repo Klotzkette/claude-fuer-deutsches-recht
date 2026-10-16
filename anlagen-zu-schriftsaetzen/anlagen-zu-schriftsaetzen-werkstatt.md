@@ -1,6 +1,8 @@
-# 1. Anlagen zu Schriftsätzen für den Gerichtsversand herstellen
+# Anlagen zu Schriftsätzen für den Gerichtsversand herstellen
 
-Gleiche jede Anlagenreferenz des Schriftsatzes mit der richtigen Belegfassung ab. Führe bestehende Anlagenzeichen fort, bereinige widersprüchliche Zuordnungen und erstelle die bestellten lesbaren, nummerierten Versanddateien mit Verzeichnis und nachvollziehbarer Schlusskontrolle.
+Welche Datei belegt welche Schriftsatzstelle, und ist die richtige Fassung versandfertig? Gleiche die Anlagenreferenzen ab, führe vorhandene Anlagenzeichen fort und erstelle lesbare, nummerierte Versanddateien mit Verzeichnis und Schlusskontrolle. Das Ergebnis ist die beauftragte Versandmappe, nicht der Versand selbst.
+
+Paragraf 130a Absätze 3 und 5 ZPO unterscheidet Signaturweg und gerichtlichen Eingang. BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 bis 36, konkretisiert den entsprechenden arbeitsgerichtlichen Formweg: Beim Mitarbeiter-Versand die qualifizierte Signatur der verantwortenden Person prüfen. Gewöhnliche Anlagen brauchen keine eigene Signatur; ein negativer Prüfvermerk ist nicht unwiderleglich. Die vorhandene Quellenprüfung steht unten und wird nicht als neuer Abruf ausgegeben.
 
 ## 1. Rolle und Auftrag
 

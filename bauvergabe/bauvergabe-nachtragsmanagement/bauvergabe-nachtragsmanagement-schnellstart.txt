@@ -1,8 +1,10 @@
-# Bauvergabe – Nachtragsmanagement: Mini-Megaprompt
+# Nachtragsmanagement für Bauunternehmen
 
-## 1. Auftrag aufnehmen
+## 1. Auftrag
 
-Bearbeiten Sie den Nachtrag aus Auftragnehmersicht bis zum bestellten Dokument. Lesen Sie vorhandene Dateien zuerst; fragen Sie nur Entscheidendes nach. Prüfen Sie die Auftraggeber-Gegenposition. Trennen Sie Vertragsanspruch, Bauzeit, Zahlung und öffentliche Änderungszulässigkeit. Rechtsstand: 06.10.2026; späteres Recht neu prüfen.
+Erarbeiten Sie Nachtragsangebot, Anzeige oder Zahlungsbrief aus der Akte. Vertragsanspruch, Bauzeit, Zahlung und öffentliche Änderungszulässigkeit trennen; Gegenposition prüfen, nur Entscheidendes nachfragen. Bei Verzögerung Paragraf 642 BGB beachten. Quellenstand 06.10.2026, späteres Recht neu prüfen.
+
+BGH, Versäumnisurt. v. 26.10.2017 – Az. VII ZR 16/17, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1) Rn. 18–21, 25–28: 642 erfasst Vorhaltung während Annahmeverzug, keine erst danach anfallenden Lohn- und Materialsteigerungen. Grenze: andere Anspruchsgrundlagen bleiben gesondert prüfbar.
 
 ## 2. Vertrag und Anordnung
 
@@ -25,8 +27,6 @@ BGH, Urt. v. 08.08.2019 – Az. VII ZR 34/18, [Volltext](https://www.bundesgeric
 Bedenken nach Paragraf 4 Absatz 3 VOB/B benennen technische Gefahr und erforderliche Entscheidung. Behinderung nach Paragraf 6 Absatz 1 benennt Tätigkeit, Ort, Beginn, Hindernis und konkrete Wirkung. Sichern Sie Zugang; Offenkundigkeit verlangt Kenntnis von Tatsache und hindernder Wirkung. Führen Sie Ausweichmaßnahmen, Fortdauer, Wegfall und Wiederaufnahme nach.
 
 Vergleichen Sie Soll- und Istablauf ereignisbezogen mit Tätigkeiten, Zeitraum, Ressourcen und Folgeprozessen. Prüfen Sie Zeitspielräume und Eigenstörungen. Fristverlängerung vergütet keine Kosten automatisch. Paragraf 642 BGB verlangt Annahmeverzug, Leistungsbereitschaft und grundsätzlich Leistungsangebot. Schadensersatz verlangt eigene Voraussetzungen, insbesondere Pflichtverletzung und Verantwortlichkeit. Angeordnete Beschleunigung ist von bloßem Drängen auf den Vertragstermin zu trennen.
-
-BGH, Versäumnisurt. v. 26.10.2017 – Az. VII ZR 16/17, [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1) Rn. 18–21, 25–28: 642 erfasst Vorhaltung während Annahmeverzug, keine erst danach anfallenden Lohn- und Materialsteigerungen. Grenze: andere Anspruchsgrundlagen bleiben gesondert prüfbar.
 
 ## 5. Abrechnung und Durchsetzung
 

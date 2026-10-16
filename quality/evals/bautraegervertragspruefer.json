@@ -74,26 +74,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Urkundenbezogenen Mini vollständig gelesen und die verkürzende Abnahmeklausel als eigenständigen Schwerpunkt bearbeitet; Ratenrechenweg, Anlagenwidersprüche und Fortsetzung bleiben erhalten. Kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Urkundenbezogenen Mini vollständig gelesen und die verkürzende Abnahmeklausel als eigenständigen Schwerpunkt bearbeitet; Ratenrechenweg, Anlagenwidersprüche und Fortsetzung bleiben erhalten. Kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Bauzustand, Zahlungspflicht und noch durchsetzbare Erwerberrechte im Auftakt zusammengeführt.",
       "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
       "Leerstart: Klauseln, Rate oder Abnahme und Mängel anbieten. Dateien: Urkunde still lesen; passenden Prüf- oder Durchsetzungsumfang klären. Klarer Auftrag: Gewünschtes Schreiben, Votum oder Antrag direkt ausarbeiten.",
-      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
+      "16.10.2026: Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt."
     ],
-    "sha256": "97917f2f28008a2e8a8f870628ba172679f05fb8ece30fcbff9f0b6af8e17242"
+    "sha256": "8e0a217d89e5384c917ec02bd0d0910022e479b1d9a593905895e6a5546a0792",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle zehn Abschnitte bis zur Gemeinschaftsbeschluss- und Mängelbearbeitung gelesen. Ausschlüsse des Paragrafen 650u Absatz 2 BGB genau bezeichnet und vertretungsbedingte Abnahmerisiken aus amtlichen Gründen entwickelt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle zehn Abschnitte bis zur Gemeinschaftsbeschluss- und Mängelbearbeitung gelesen. Ausschlüsse des Paragrafen 650u Absatz 2 BGB genau bezeichnet und vertretungsbedingte Abnahmerisiken aus amtlichen Gründen entwickelt. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Bauzustand, Zahlungspflicht und noch durchsetzbare Erwerberrechte im Auftakt zusammengeführt.",
       "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
       "650m Absatz 2 und 3 über AbschlagsV erhalten; historisches Zahlungsplanurteil nicht als heutige Pauschallösung verwendet.",
       "Zweistufige Rate, Sonderwunschfolgen, unabhängige Erwerberabnahme und Gemeinschaftsauftrag mit getrennten WEG-Anfechtungsfristen.",
-      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
+      "16.10.2026: Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt."
     ],
-    "sha256": "1860ab0211e15d153b558c6b15f3d0ae708721a4b0b72ea69e7574877349b8ed"
+    "sha256": "2086548750796cdf4f8267cac0142f9efefa51f758ad39c96ad6a880fdd97542",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -214,5 +220,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bautraegervertragspruefer/bautraegervertragspruefer-schnellstart.md",
+        "sha256": "8e0a217d89e5384c917ec02bd0d0910022e479b1d9a593905895e6a5546a0792",
+        "reason": "Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt.",
+        "anchor_or_exception": "Paragraf 650u BGB, Paragraf 3 MaBV; BGH 12.09.2013 VII ZR 308/12: Erstverwalter-Abnahme und Neutralität, Widerruflichkeit heilt nicht automatisch; kein Verbot jeder Vertretung."
+      },
+      {
+        "path": "bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md",
+        "sha256": "2086548750796cdf4f8267cac0142f9efefa51f758ad39c96ad6a880fdd97542",
+        "reason": "Abnahmeregel und konkreten Änderungsbedarf als Einstieg gewählt.",
+        "anchor_or_exception": "Paragraf 650u BGB, Paragraf 3 MaBV; BGH 12.09.2013 VII ZR 308/12: Erstverwalter-Abnahme und Neutralität, Widerruflichkeit heilt nicht automatisch; kein Verbot jeder Vertretung."
+      }
+    ]
   }
 }

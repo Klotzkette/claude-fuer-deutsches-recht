@@ -36,13 +36,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuell um drei Einstiegsmodi, Fassungsabgleich und konkrete Fortschreibung des Übergangsrechts ergänzt; bestehende Rückwirkungsabgrenzung erhalten. Desk-Review ohne Live-Ausführung.",
+    "reason": "Individuell um drei Einstiegsmodi, Fassungsabgleich und konkrete Fortschreibung des Übergangsrechts ergänzt; bestehende Rückwirkungsabgrenzung erhalten. Desk-Review ohne Live-Ausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Rechtsaktart und Rückwirkung früh an den konkreten Normtextentwurf angebunden.",
     "changes": [
       "Regelungsziel in Tatbestand, Rechtsfolge, Zuständigkeit und Änderungsbefehle übersetzen.",
       "Beide Einstiege auf konkrete Normgestaltung ausgerichtet; zeitliche Prüfung materiell um Vertrauensschutz ergänzt.",
-      "Leere Eingabe, bloße Dateien und klaren Entwurfsauftrag getrennt; neue Altantragsentscheidung verändert die bezeichnete Übergangsrechtsdatei und Begründung."
+      "Leere Eingabe, bloße Dateien und klaren Entwurfsauftrag getrennt; neue Altantragsentscheidung verändert die bezeichnete Übergangsrechtsdatei und Begründung.",
+      "Redaktion 16.10.2026: Rechtsaktart und Rückwirkung früh an den konkreten Normtextentwurf angebunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "83b1b9451faf89bf51d07b1882cf191bd566420e0279d2b4c00ded9c524a4dcf"
+    "sha256": "a4b76a0617739dec75a36c72dcb68ad4994a21262a8b65d612dbf2e7bdf51d34"
   },
   "selection": {
     "positive": [
@@ -90,15 +91,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und um Fassungsabhängigkeiten, digitale Grenzfälle, Vollzugstest, gegenläufige Anhörungseinwände und Aufwandseffekte vertieft. Zehn Fachmaterien und vorhandene Rechtsgrenzen bleiben erhalten; kein Live-Modelltest.",
+    "reason": "Werkstatt vollständig gelesen und um Fassungsabhängigkeiten, digitale Grenzfälle, Vollzugstest, gegenläufige Anhörungseinwände und Aufwandseffekte vertieft. Zehn Fachmaterien und vorhandene Rechtsgrenzen bleiben erhalten; kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Rechtsaktart und Rückwirkung früh an den konkreten Normtextentwurf angebunden.",
     "changes": [
       "Beide Einstiege auf konkrete Normgestaltung ausgerichtet; zeitliche Prüfung materiell um Vertrauensschutz ergänzt.",
       "Werkstatt unterscheidet bedarfsabhängige EU-Notifizierung und konkrete Artikel; vorhandene zehn Fachmaterien und Beteiligungswege erhalten.",
       "Zwischenfassungen zeitversetzter Änderungen und unbeabsichtigte Begriffserweiterungen konkret prüfen.",
       "Papieranträge, Nachreichung, Neuantrag und Portalausfall als Gestaltungsfälle; neue Entscheidung führt zu Normtext und Einzelbegründung.",
-      "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten."
+      "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten.",
+      "Redaktion 16.10.2026: Rechtsaktart und Rückwirkung früh an den konkreten Normtextentwurf angebunden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "f0fb89d5aebb830d523b970e178b13bfdaad458268303a2ea01c9d9a3651a8d3"
+    "sha256": "7b958efc135041274462650a6ddc997242e60efeba0c355c6595992e1a7a89bf"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

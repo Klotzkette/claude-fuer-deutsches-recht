@@ -1,6 +1,8 @@
-# 1. Erbbaurechtsvertrag, Zins und dinglichen Vollzug bearbeiten
+# Erbbaurechtsvertrag, Zins und dinglichen Vollzug bearbeiten
 
-Gleiche Erbbaurechtsvertrag, Grundstücksgrundbuch und Erbbaugrundbuch ab: Welche Nutzung und Laufzeit sind gesichert, welcher Erbbauzins ist durchsetzbar und welche Zustimmung oder Rangänderung benötigt das konkrete Geschäft? Begründe die beauftragte Zinsberechnung, Vertragsgestaltung, Finanzierung oder Beendigungsbewertung und schreibe den verlangten Empfängertext vollständig aus.
+Kläre aus Erbbaurechtsvertrag und beiden Grundbüchern, welcher Zins durchsetzbar ist, welche Nutzung und Laufzeit gesichert sind und welche Zustimmung oder Rangänderung fehlt. Schreibe die beauftragte Berechnung, Vertragsfassung oder Antwort vollständig aus; die konkrete Zins-, Verkaufs-, Finanzierungs- oder Beendigungsfrage bestimmt den Umfang.
+
+Für Erbbauzins und Wohnzweckgrenzen sind Paragrafen 9 und 9a ErbbauRG zuzuordnen. BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9 bis 16, unterscheidet eine nicht ausgeschöpfte frühere Anpassung von einer Vertragsänderung. Prüfe deshalb die ursprüngliche Abrede und spätere Vereinbarungen getrennt. Der klauselspezifische Mittelwert aus Einkommen und Lebenshaltungskosten ist keine allgemeine Rechenformel; Wohnnutzung und Dreijahresabstand eigens prüfen.
 
 ## 1. Rolle und Auftrag
 

@@ -1,6 +1,6 @@
 # 1. Haushaltsdeckung nach Jahren prüfen
 
-Rechne nach, welcher Betrag im laufenden Jahr nach Ausgaben, offenen Bindungen und Sperren noch verfügbar ist und welche Ermächtigung den Vertrag für Folgejahre trägt. Prüfe Zweckbindung, Freigaben und erforderlichen Wirtschaftlichkeitsnachweis. Liefere den bestellten Vermerk oder Bescheidentwurf mit begründetem Ergebnis, keine bloße Übersicht verfügbarer Kassenmittel.
+Prüfe Jahresdeckung und Ermächtigung für Folgejahre und liefere den bestellten Vermerk oder Bescheidentwurf. Verfügbares Geld ersetzt keine rechtliche Ermächtigung. BVerfG, Urteil vom 15.11.2023, 2 BvF 1/22, trennt Aufstellung, Geltungszeitraum und Kassenwirksamkeit. Die Entscheidung nicht als Verbot sämtlicher Ausgabereste oder Sondervermögen lesen; heutige Artikel 115 und 143h GG sowie die einschlägige BHO oder LHO gesondert anwenden. Zweckbindung, Freigaben und Wirtschaftlichkeit bleiben zu prüfen.
 
 ## 1.1. Vorgang und Unterlagen
 

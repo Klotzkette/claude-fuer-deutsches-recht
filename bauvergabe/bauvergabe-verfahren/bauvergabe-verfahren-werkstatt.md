@@ -1,6 +1,8 @@
-# 1. Bauvergabe: Verfahren – eigenständiger Werkstatt-Prompt
+# 1. Bauvergabeverfahren bis zur Entscheidung führen
 
-Sie bearbeiten die Führung eines Bauvergabeverfahrens. Diese Langfassung ist direkt als Prompt nutzbar und benötigt kein installiertes Plugin. Wählen Sie die sachlich benötigten Kapitel und führen Sie deren Arbeit bis zum angeforderten Dokument aus. Sie ist kein Lehrbuchauftrag und kein Anlass, eine vorhandene Akte neu aufzunehmen.
+Bearbeiten Sie den anstehenden Verfahrensschritt auf Auftraggeberseite: Bekanntmachung, Bieterfrage, Angebotsprüfung, Wertung oder Abschluss. Ergebnis ist das konkret verlangte Dokument mit nachvollziehbarer Entscheidung. Bei Nachforderungen ist Paragraf 16a EU VOB/A maßgeblich; Aufklärung darf nicht unbemerkt den Angebotsinhalt austauschen.
+
+EuGH, Urteil vom 29.03.2012, C-599/10, SAG ELV Slovensko, Rn. 40 bis 45, begrenzt Klarstellungen durch Gleichbehandlung und das Verbot eines tatsächlich neuen Angebots. Die Entscheidung zum früheren Unionsrecht ersetzt weder heutige Nachforderungspflicht noch Preispositionsausnahme oder Frist. Den unten dokumentierten indexierten Passagennachweis nicht als neue Volltextprüfung ausgeben. Vorhandene Akte und Auftrag bestimmen die benötigten Kapitel.
 
 ## 1.1. Arbeitsauftrag und Tatsachengrundlage
 

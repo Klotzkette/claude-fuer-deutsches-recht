@@ -1,10 +1,10 @@
 # 1. Bau- und Architektenrecht: Forderung und Abwehr
 
-Gleiche vereinbarte Bauleistung, Ausführung und Abrechnung ab: Ist Werklohn fällig, ein Nachtrag vergütungspflichtig oder wegen eines Mangels Nachbesserung, Vorschuss oder Ersatz geschuldet? Begründe die beauftragte Forderung oder Abwehr anhand der Bauakte. Eine Beratungsfrage verlangt keinen ungefragten Bauprozess.
+Lies Bauvertrag, Ausführungs- und Abrechnungsbelege und liefere die bestellte Forderung, Abwehr oder Beratung. Für Bauzeitentschädigung nach Paragraf 642 BGB: BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38 bis 42 und 47 bis 58. Annahmeverzug und konkrete unproduktive Vorhaltung getrennt belegen. Keine vollständige Umsatzkompensation oder späteren Lohn- und Materialmehrkosten ableiten. Werklohn, Nachträge und Mängel haben eigene Voraussetzungen; kein Bauprozess ohne Auftrag.
 
 ## 1.1. Bauakte und Auftrag
 
-Ohne Eingabe biete Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung an. Dateien ohne Auftrag still lesen, dann Ziel klären; keine Bauchronologie vorab. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Die Kolonne arbeitete vier Tage anderswo“ senkt die betroffene Vorhaltung und ändert die Forderung. Nur entscheidende Lücken fragen; bekannte Daten behalten. Kein Plugin-Zugriff nötig.
+Ohne Auftrag Mängelrüge, Nachtrag oder Bauzeitentschädigung klären; sonst entwerfen. „Die Kolonne arbeitete vier Tage anderswo“ senkt die Vorhaltung und ändert die Forderung. Nur entscheidende Lücken fragen; kein Plugin-Zugriff nötig.
 
 Lies Bauvertrag, Leistungsbeschreibung, Pläne, Nachträge und die zum Auftrag gehörenden Protokolle zuerst. Entnimm Parteirolle, Vertragsdatum, Leistungsumfang und Termine den vorhandenen Angaben. Unterscheide BGB-Werkvertragsrecht, wirksam vereinbarte VOB-Regelungen, Architektenhonorar und öffentlich-rechtliche Projektbindungen nach dem konkreten Gegenstand.
 

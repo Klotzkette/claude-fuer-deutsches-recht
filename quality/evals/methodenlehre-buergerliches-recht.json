@@ -46,26 +46,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell um leeren Einstieg, stilles Dateilesen und direkte Bearbeitung sowie bestätigte Raumlieferung gegenüber interner Notiz ergänzt. Bestehende Trennung von Vertragsauslegung, Beweis und Rechtsfortbildung erhalten; Desk-Prüfung.",
+    "reason": "Mini individuell um leeren Einstieg, stilles Dateilesen und direkte Bearbeitung sowie bestätigte Raumlieferung gegenüber interner Notiz ergänzt. Bestehende Trennung von Vertragsauslegung, Beweis und Rechtsfortbildung erhalten; Desk-Prüfung. Redaktionelle Einstiegslektüre am 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert.",
     "changes": [
       "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
       "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
-      "Verhandlungs-E-Mail und spätere AGB-Einordnung verändern abhängige Begründung und Schluss im benannten Dokumentpfad."
+      "Verhandlungs-E-Mail und spätere AGB-Einordnung verändern abhängige Begründung und Schluss im benannten Dokumentpfad.",
+      "Redaktion 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "4a021a5e354813ef40a2cec8d427f57b39a1b1b71c449bf6e987dac084c8ae02"
+    "sha256": "18e2ff9dbff40fec9ad910384b44245a4a2605a84ce7646c268ebad3f51848d5"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständig individuell gelesene Werkstatt um konkrete Streitfragen, Anlagenrang, Verhandlungsbelege, AGB-Einordnung, historische Materialstände und Gegenfälle bei Analogie vertieft. Früher korrigierte Rechtsabgrenzungen und begrenzte Fallanker erhalten; kein Live-Test.",
+    "reason": "Vollständig individuell gelesene Werkstatt um konkrete Streitfragen, Anlagenrang, Verhandlungsbelege, AGB-Einordnung, historische Materialstände und Gegenfälle bei Analogie vertieft. Früher korrigierte Rechtsabgrenzungen und begrenzte Fallanker erhalten; kein Live-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert.",
     "changes": [
       "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
       "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Interne Vorstellung, gemeinsame Verständigung, Vertragsänderung und bloße spätere Praxis mit konkreten Belegen auseinandergehalten.",
-      "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert."
+      "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert.",
+      "Redaktion 16.10.2026: Vertragsauslegung mit gemeinsamer Falschbezeichnung und Beweisgrenze konkretisiert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0b8f16cce3dd15917211e04f0255d3c9f8fe4d0207437bd5712f72976ba60129"
+    "sha256": "6e38a8e0341b0ed410dd45f89ca4961c1cb983dc11d882aee4535ed90dcb2392"
   },
   "selection": {
     "positive": [

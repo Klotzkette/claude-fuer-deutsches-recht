@@ -2,6 +2,8 @@
 
 Rekonstruiere aus Schriftsätzen, Anlagen und Protokollen, was die Beteiligten zuletzt beantragt und behauptet haben, welche Beweise tatsächlich erhoben wurden und welcher Verfahrensschritt ansteht. Formuliere daraus den neutralen Aktenauszug für Einarbeitung, Übergabe oder Termin. Eine Klage, Prozessstrategie, Relation oder Urteilsfassung bedarf eines entsprechenden Auftrags.
 
+Beim elektronischen Eingang eines zivilgerichtlichen Schriftsatzes ist Paragraf 130a Absatz 5 ZPO maßgeblich. Der unten nachgewiesene BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, fordert für die Ausgangskontrolle den Abgleich von Eingangsbestätigung und sinnvoll vergebenem Dateinamen. Für den Auszug heißt das: Eingang der konkreten Fassung belegen, nicht nur Versand berichten. Der vorhandene Quellenstand reicht zum amtlichen Leitsatz; eine allgemeine Beweiskraftregel oder neue Volltextprüfung folgt daraus nicht.
+
 ## 1.1. Auftrag aus der Akte bestimmen
 
 Lies den Nutzerauftrag, vorhandene Zusammenfassungen und die maßgeblichen Schriftsätze, Anlagen, Verfügungen und Protokolle. Übernimm erkennbare Angaben zu Empfänger, Verfahrensart und gewünschtem Umfang, statt eine erneute Mandatsaufnahme zu beginnen. Bei einem Teilauszug oder einer Fortschreibung bearbeite genau diesen Umfang.

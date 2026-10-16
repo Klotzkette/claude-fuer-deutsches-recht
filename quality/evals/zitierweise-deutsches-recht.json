@@ -26,26 +26,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt vollständig erneut gelesen. Drei Dokumentwege, sachliche Korrektur nach nachgereichter Passage und historische Auflagenzuordnung konkretisiert; vorhandene Quellen- und EuGH-Grenzen erhalten.",
+    "reason": "Kurzprompt vollständig erneut gelesen. Drei Dokumentwege, sachliche Korrektur nach nachgereichter Passage und historische Auflagenzuordnung konkretisiert; vorhandene Quellen- und EuGH-Grenzen erhalten. Redaktionelle Einstiegsprüfung 16.10.2026: Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Fußnotenkorrektur, Gutachtenbelegprüfung und historischer Literaturapparat als konkrete Einstiegswege.",
-      "Abwägungsanforderung statt pauschaler Zulässigkeit, historische Palandt-Auflage und Folgekorrekturen an Kurzbelegen ausgearbeitet."
+      "Abwägungsanforderung statt pauschaler Zulässigkeit, historische Palandt-Auflage und Folgekorrekturen an Kurzbelegen ausgearbeitet.",
+      "Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme."
     ],
-    "sha256": "d10b621db603890c1aa404f8f2852d236bb6767e3513685ddb789c0fc056456f",
+    "sha256": "10846b0c1b3159f75eb83a8c35feabdc053a2afa88aa684c3ec0bf32433e7777",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen. Aussagekorrektur, historische Norm- und Literaturfassungen, Zugangstiefe und Fertigstellung unter Abgabefrist individuell ausgebaut; keine Live-Manuskriptprüfung.",
+    "reason": "Werkstatt vollständig erneut gelesen. Aussagekorrektur, historische Norm- und Literaturfassungen, Zugangstiefe und Fertigstellung unter Abgabefrist individuell ausgebaut; keine Live-Manuskriptprüfung. Redaktionelle Einstiegsprüfung 16.10.2026: Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Tragende Begründung von referierter Vorinstanz und Zurückverweisung trennen; gegenteilige Einschränkungen in den Satz einarbeiten.",
       "Historische Ausgabe erhalten und aktuellen Nachweis nur für aktuelle Aussagen verlangen.",
-      "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen."
+      "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen.",
+      "Aussagebezug und korrigierte Fassung bleiben der Zweck. C-516/17 zum Zitatzweck früh; Fußnotenstil bleibt Konvention und keine Erlaubnis beliebiger Literaturübernahme."
     ],
-    "sha256": "3686d078c03225584d116cfd77cee90c2f4434590adb54b50cc135bd907579a3",
+    "sha256": "deaf08e53ee35731ad53ac44c52e29f852ff4104b1f26cec807544536012fb26",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

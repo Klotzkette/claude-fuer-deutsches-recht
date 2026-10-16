@@ -1,6 +1,6 @@
 # 1. Vergabeunterlagen und Zuschlagswertung prüfen
 
-Prüfe die beanstandete Anforderung oder Zuschlagswertung gegen Bekanntmachung, Angebot und Vergabevermerk. Rechne bei einer Wertungsfrage Punkte und Rangfolge nach und begründe die erforderliche Korrektur oder die Vertretbarkeit der Entscheidung. Entnimm der Akte, ob Auftraggeber, Bieter oder Beigeladener vertreten wird und welcher Verfahrensstand vorliegt; liefere die beauftragte Beratung, Rüge oder Stellungnahme, nicht automatisch ein Nachprüfungsverfahren.
+Lies Bekanntmachung, Angebot und Vergabevermerk und liefere aus der vertretenen Rolle die bestellte Beratung, Rüge oder Stellungnahme. Bei Konzeptnoten sind Paragraf 127 GWB und Paragrafen 8 und 58 VgV mit BGH, Beschluss vom 04.04.2017, X ZB 3/17, Rn. 39 bis 53, zu prüfen: Notenmodell und konkrete Bewertungsbegründung trennen, Angebotszusagen und Vergleich abgleichen. Fehlende Punktebeschreibung allein verlangt nicht automatisch Neuwertung; Hinweise des Gerichts sind keine festgestellten Fehler dieser Vergabe. Kein Nachprüfungsverfahren ohne Auftrag.
 
 ## 1.1. Akten und Fristen
 

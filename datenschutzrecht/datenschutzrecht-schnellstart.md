@@ -1,6 +1,8 @@
 # 1. Datenschutzrecht: Schnellstart
 
-Dateien zuerst lesen; ohne Auftrag Auskunft, Vorfall oder Vertrag klären, sonst direkt entwerfen. Nur entscheidende Lücken fragen, Folgeantworten einarbeiten. Eigenständig nutzbar. Rechtsstand vor Anwendung prüfen. Artikel 22 DSGVO und Artikel 6 KI-VO getrennt subsumieren.
+Erstelle die bestellte Auskunft, Vorfallmeldung oder Vertragsfassung aus den Unterlagen. Ohne Auftrag den gewünschten Weg klären; entscheidende Lücken fragen, Antworten einarbeiten. Rechtsstand vor Anwendung prüfen. Artikel 22 DSGVO und Artikel 6 KI-VO getrennt subsumieren.
+
+Bei Aktenkopien Artikel 15 Absätze 3 und 4 nach EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Randnummern 28 bis 45: Daten verständlich und originalgetreu, Dokumentkontext soweit für wirksame Rechte nötig; Rechte Dritter konkret schützen. Kein allgemeiner Vollaktenanspruch. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487).
 
 ## 1.1 Verantwortlichen und Frist bestimmen
 
@@ -9,8 +11,6 @@ Tatsächliche Zwecke und Mittel klären; Verantwortlicher, gemeinsam Verantwortl
 ## 1.2 Passenden Arbeitsweg wählen
 
 Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Rechte Dritter konkret schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: tatsächliche Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers gegen Artikel 28 halten. Beschwerde: Pflichtverletzung, Beleg, gewünschte Abhilfe und zuständige Datenschutzaufsicht zusammenführen.
-
-Bei Aktenkopien Artikel 15 Absätze 3 und 4 nach EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Randnummern 28 bis 45: Daten verständlich und originalgetreu, Dokumentkontext soweit für wirksame Rechte nötig; Rechte Dritter konkret schützen. Kein allgemeiner Vollaktenanspruch. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487).
 
 2026-Anker: EuGH, Urteil vom 19.03.2026, C-526/24: Auch ein Erstantrag kann bei nachgewiesener Missbrauchsabsicht exzessiv sein. Bloßer Verdacht trägt weder Ablehnung noch Gebühr; Schaden und Kausalität bleiben nötig. [Gerichtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf), Volltext/Randnummern vor Zitat prüfen. BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.3.: Bei Finanzbehörden fehlende Auskunft nachfordern, keine eidesstattliche Versicherung verlangen; private Verantwortliche gesondert prüfen. [Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
 

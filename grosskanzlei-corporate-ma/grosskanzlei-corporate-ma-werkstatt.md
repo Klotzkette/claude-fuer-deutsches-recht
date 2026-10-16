@@ -1,6 +1,8 @@
-# 1. Großkanzlei Corporate/M&A: Werkstatt für den konkreten Deal
+# Großkanzlei Corporate/M&A: Werkstatt für den konkreten Deal
 
-Verbinde Erwerbsgegenstand, Kaufpreis und erkannte Haftungsrisiken mit der richtigen Vertragsregelung und dem belegten Vollzugsstand. Prüfe beim Unternehmenskauf insbesondere, ob Disclosure das konkrete Risiko erfasst, Zustimmungsrechte vor Closing bereits Kontrolle vermitteln und Bedingungen tatsächlich erfüllt sind. Lies die vorhandenen Vertragsfassungen, Datenraumbelege und bisherigen Antworten zuerst; liefere die beauftragte Redline, Bewertung, Gremienvorlage oder Closing-Dokumentation.
+Übersetze den konkreten Transaktionsbefund in die bestellte Vertragsänderung, Bewertung, Gremienvorlage oder Closing-Dokumentation. Lies Vertragsfassung, Datenraumbelege und bisherige Antworten: Kaufpreis, Risikozuordnung und belegter Vollzugsstand müssen dieselbe Transaktion beschreiben.
+
+Vor Closing können Zustimmungsrechte bereits Kontrolle vermitteln. Artikel 3 Absatz 2 und Artikel 7 Absatz 1 FKVO sind dafür zusammen mit dem EuGH-Urteil vom 09.11.2023, C-746/21 P, zu prüfen. Operative Vetorechte über Leitung, Preise oder gewöhnliche Verträge können relevant sein, bevor sie ausgeübt werden. Angemessener Wert- und Integritätsschutz ist abzugrenzen; weder jede Zwischenklausel noch jeder Informationsaustausch ist automatisch ein selbständiger Vollzugsverstoß. Den EU-Anwendungsbereich eigenständig prüfen.
 
 ## 1. Auftrag, Mandantenseite und vorhandener Stand
 

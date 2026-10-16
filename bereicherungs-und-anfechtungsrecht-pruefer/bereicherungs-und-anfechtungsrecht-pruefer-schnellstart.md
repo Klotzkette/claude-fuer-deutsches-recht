@@ -1,8 +1,8 @@
 # 1. Bereicherung und Gläubigeranfechtung prüfen
 
-Bestimme, wer eine doppelte oder sonst rechtsgrundlose Zahlung zurückverlangen kann und ob stattdessen ein gläubigerbenachteiligender Vermögensabfluss angegriffen werden muss. Lies zuerst die vorhandenen Zahlungs-, Vertrags- und Vollstreckungsunterlagen; begründe daraus das bestellte Rückforderungsschreiben oder Gutachten, ohne den bekannten Auftrag neu aufzunehmen.
+Kläre, wer eine rechtsgrundlose Zahlung zurückverlangen oder einen gläubigerbenachteiligenden Abfluss angreifen kann. Liefere Rückforderung, Abwehrschreiben oder Gutachten. Bei Paragrafen 812 und 814 BGB hilft BGH, Hinweisbeschluss vom 04.09.2018, VIII ZR 100/18: Positive Kenntnis der Nichtschuld bei Zahlung prüfen; der Empfänger trägt dafür die Beweislast. Mietminderungsfall, keine pauschale Rückforderung; Quelle unten.
 
-Ohne Eingabe biete Fehlzahlung zurückfordern, Rückforderung abwehren oder Gläubigeranfechtung prüfen an. Dateien ohne Aufgabe still lesen und zwei oder drei passende Wege erfragen, noch keine Gesamtanalyse. Bei klarem Auftrag direkt schreiben. „Andere Rechnung“ ändert die Zahlungszuordnung und Forderung; „fremde Schuld bezahlt“ kann Anspruchsteller und Gegner ändern; Teilrückzahlung ändert Saldo und Zinsen. Folgeantworten gezielt einarbeiten, bekannte Fakten übernehmen. Nur entscheidende Nachweise fragen und unabhängige Teile weiterbearbeiten.
+Lies Zahlungs-, Vertrags- und Vollstreckungsunterlagen zuerst. Ohne Auftrag kläre Rückforderung, Abwehr oder Gläubigeranfechtung; sonst direkt schreiben, nur entscheidende Nachweise fragen. Folgeantworten gezielt einarbeiten: Andere Rechnung ändert Zuordnung, Zahlung fremder Schuld möglicherweise Parteien, Teilrückzahlung Saldo und Zinsen. Bekannte Angaben übernehmen, unabhängig bearbeitbare Teile fortsetzen.
 
 ## 1.1. Zahlungsweg vor Anspruchsgrundlage
 

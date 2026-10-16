@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden.",
+    "norms_or_source_basis": "Paragraf 42 DesignG; Paragraf 287 ZPO",
+    "selected_anchor_identifiers": [
+      "I ZR 246/98"
+    ],
+    "application_limit": "Nur vorhandener amtlich indexierter Leitsatzstatus; historische Norm und kausaler Gewinnanteil beachten, kein pauschaler Gemeinkostenabzug.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "status": "changed",
+      "sha256": "efc020fa5d09927c71e3b9e7c7d395c6966a571336d1ca608fb773725433cc4d",
+      "characters": 6842,
+      "utf8_bytes": 6934,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "status": "changed",
+      "sha256": "042682834736e393498862fc7fb10b814962c991fb271024a461d4669e8f3941",
+      "characters": 21640,
+      "utf8_bytes": 21934,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-gewerblicher-rechtsschutz",
   "reviewed_on": "2026-10-01",
@@ -66,16 +97,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "d66e3929ba36d6f4d2e64f8f8a6888139e0badbf486cde31c318aaa5353662ac",
+    "sha256": "efc020fa5d09927c71e3b9e7c7d395c6966a571336d1ca608fb773725433cc4d",
     "reviewed_on": "2026-10-01"
   },
   "focus_review": {
@@ -96,16 +128,17 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Hauptproblem und Fokusskill zur isolierten Design-Verletzergewinnrechnung unverändert: Die beiden neuen Schutz-/Verletzungsanker bestimmen weder Kostenabzug noch Gewinnquote. Die breite Werkstatt/Mini und vorhandener Design-Grundlagenskill enthalten beide. Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkrete Verletzungsform und gewünschter Anspruchstext eröffnen den Prompt; Verletzergewinn wird an zurechenbare Kosten gebunden. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "828fcb5bbb64b0f17b3920abefab7a28380475323710362f6f4cad9c3feee1a3",
+    "sha256": "042682834736e393498862fc7fb10b814962c991fb271024a461d4669e8f3941",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

@@ -4,21 +4,23 @@
   "reviewed_on": "2026-10-09",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Fachredaktion am amtlichen Volltext; kein behaupteter Live-Modelltest.",
+    "reason": "Individuelle Fachredaktion am amtlichen Volltext; kein behaupteter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Registerdatensatz und Vorfallmeldung nach Rolle, Anlass und Vollzug getrennt; Nummer 11.9 zu 11.5 berichtigt.",
     "changes": [
       "Eigenständiger Ablauf mit Zeitrecht, Rollen, konkreten Produkten und Versionsfortsetzung.",
-      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt.",
+      "Redaktion 16.10.2026: Registerdatensatz und Vorfallmeldung nach Rolle, Anlass und Vollzug getrennt; Nummer 11.9 zu 11.5 berichtigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "df4c14bd79e5bcc76f33064c564f82c9f6b4e6f87d89be3fc1b03aa2cc7b0c67"
+    "sha256": "224e8cd9f8a4ef52ba734dc26e1e4b62ce944944f4b158e3dfa3078457cab54c"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Zehn individuell ausgearbeitete Prüfabläufe, quellengebundene Entscheidung und vollständige Ergebnisprodukte. Kein tatsächlicher Portalversand getestet.",
+    "reason": "Zehn individuell ausgearbeitete Prüfabläufe, quellengebundene Entscheidung und vollständige Ergebnisprodukte. Kein tatsächlicher Portalversand getestet. Redaktionelle Einstiegslektüre am 16.10.2026: Registerdatensatz und Vorfallmeldung nach Rolle, Anlass und Vollzug getrennt; Nummer 11.9 zu 11.5 berichtigt.",
     "changes": [
       "Normbezogene Abläufe, Gegenfälle und Übergaben statt pauschaler Risikopyramide.",
-      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt."
+      "Technische Normen nach Ausgabe, Gegenstand, tatsächlicher Anwendung und gesetzlicher Aussagegrenze getrennt; konkrete Nachweisprodukte ergänzt.",
+      "Redaktion 16.10.2026: Registerdatensatz und Vorfallmeldung nach Rolle, Anlass und Vollzug getrennt; Nummer 11.9 zu 11.5 berichtigt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "d9d8f16eb502dd1460fac704b6c03bcdfe072584dac51312bcc3969b8bcfb81b"
+    "sha256": "1b1cdd56a77b9688c8202be9aa7d608454819090c5c206c4950dfdaa321f3858"
   },
   "selection": {
     "target_skill": "register-und-meldung-loesen",

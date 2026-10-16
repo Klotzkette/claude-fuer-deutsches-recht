@@ -56,18 +56,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei konkrete Einstiegswege und stille Dateiauswertung führen unmittelbar zum Dokument; Zahlungsbeleg und spätere Mahnung ändern Einwand und Kostenfassung. III ZR 91/07 sowie Mahn-/Vollstreckungsbescheid und Widerrufsfunktion bleiben differenziert erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei konkrete Einstiegswege und stille Dateiauswertung führen unmittelbar zum Dokument; Zahlungsbeleg und spätere Mahnung ändern Einwand und Kostenfassung. III ZR 91/07 sowie Mahn-/Vollstreckungsbescheid und Widerrufsfunktion bleiben differenziert erhalten. Redaktioneller Nachtrag 16.10.2026: Rechnungsziel und Verzug vorgezogen; Mahnung, Verbraucherhinweis, vereinbarter Termin und Kosten zeitlich getrennt. Gerichtliche Mahnpost und behördliche Rechtsbehelfe behalten ihre eigenen Wege. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Leere Eingabe, Dateien ohne Auftrag und klarer Auftrag ausdrücklich unterschieden; konkrete Zahlungseinwand-Fortsetzung ergänzt.",
       "III ZR 91/07 mit tatsächlichem Verzugsauslöser, Verbraucherhinweis und Grenze für Kosten der ersten anwaltlichen Mahnung in beide Prompts integriert.",
       "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
       "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
     ],
-    "sha256": "951b092c5425a480cb8c493aa59989c57f9fb527ef217f4d93412462873cb459"
+    "sha256": "11265aa3c6d2c5b1afd8b9bde47e01c92acd8c1ee9cd31dd2794ed909b74b534"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Zahlungszuordnung, nachgereichte Verzugsbelege, Mängelnachweis und Monatsabgleich bei Familienkassenpost führen zu konkreten Fassungsänderungen. Alle bisherigen Sonderzweige und Entscheidungsgrenzen bleiben erhalten; nur gezielte neue Normprüfung, kein Mandatstest.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: Zahlungszuordnung, nachgereichte Verzugsbelege, Mängelnachweis und Monatsabgleich bei Familienkassenpost führen zu konkreten Fassungsänderungen. Alle bisherigen Sonderzweige und Entscheidungsgrenzen bleiben erhalten; nur gezielte neue Normprüfung, kein Mandatstest. Redaktioneller Nachtrag 16.10.2026: Rechnungsziel und Verzug vorgezogen; Mahnung, Verbraucherhinweis, vereinbarter Termin und Kosten zeitlich getrennt. Gerichtliche Mahnpost und behördliche Rechtsbehelfe behalten ihre eigenen Wege. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Zahlungseinwand mit Gegenbelegen, Rücktritt/Nacherfüllung nach belegter Verkäuferreaktion und bescheidbezogene Monatsdarstellung substanziell ausgearbeitet.",
       "Drei Startmodi, konkreter Dokumentabschluss und Freigabegrenzen mit Frist- und Empfängerbezug ergänzt.",
@@ -75,7 +75,7 @@
       "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
       "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
     ],
-    "sha256": "d91d9599d335075811b56093e0af376608a467e811dbdb59d1bade3aa3b9bab4"
+    "sha256": "2374f16c840c82c6351703e93debf71ba2a27d4addff3525ab940d4accd731ac"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

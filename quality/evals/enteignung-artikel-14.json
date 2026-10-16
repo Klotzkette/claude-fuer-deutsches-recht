@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen.",
+    "norms_or_source_basis": "Artikel 14 Absatz 3 GG",
+    "selected_anchor_identifiers": [
+      "1 BvR 3139/08"
+    ],
+    "application_limit": "Bergrechtlicher Garzweiler-Fall beweist weder BauGB-Zuständigkeit noch einen bestimmten Entschädigungsausgang.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+      "status": "changed",
+      "sha256": "51a42d75a2fc0ad094164909701647ef70f1c888893f83a9e72f53c6190e03dd",
+      "characters": 7312,
+      "utf8_bytes": 7433,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+      "status": "changed",
+      "sha256": "5562a5b643f78eab8361e1040bb73f1e7a3f7879f005c9a5c8a122a79f5e77e0",
+      "characters": 22673,
+      "utf8_bytes": 23062,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "enteignung-artikel-14",
   "reviewed_on": "2026-09-30",
@@ -176,27 +207,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger kurzer Ordnerworkflow mit getrennten Eingriffs-, Besitz- und Rechtsschutzstufen.",
+    "reason": "Eigenständiger kurzer Ordnerworkflow mit getrennten Eingriffs-, Besitz- und Rechtsschutzstufen. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Behördennorm104 von Eingriffsgrundlage getrennt.",
       "Hannover-Konzentration und unterschiedliche Einreichungsstellen ausdrücklich aufgenommen.",
       "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "46f1baf671153c48afccaebaaeb40713d9cfdb8c2d4a257bf9a4953613257c9d",
+    "sha256": "51a42d75a2fc0ad094164909701647ef70f1c888893f83a9e72f53c6190e03dd",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuell ausgearbeitete Werkstatt vom vorhandenen Ordner bis zum fertig formulierten Rechtsprodukt.",
+    "reason": "Individuell ausgearbeitete Werkstatt vom vorhandenen Ordner bis zum fertig formulierten Rechtsprodukt. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Leerer Einstieg, Ordner ohne Auftrag und klare Aufträge unterschiedlich behandelt.",
       "Rechtsverlust, andere Nachteile, Nebenrechte und Kosten getrennt.",
       "112/113/117 sowie eigenständigen Besitzschutz präzisiert.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "6688d7961c9c275dbf313096fd2a8045403d9e2365108c8040d410e937c34fcd",
+    "sha256": "5562a5b643f78eab8361e1040bb73f1e7a3f7879f005c9a5c8a122a79f5e77e0",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },

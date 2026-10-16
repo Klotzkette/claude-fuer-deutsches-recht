@@ -1,6 +1,8 @@
 # 1. Hinweis bearbeiten, Rückmeldung verfassen und Repressalien prüfen
 
-Bestimme aus Meldung und Eingangsbestätigung den nächsten Rückmeldetermin und schreibe, welche Folgemaßnahmen die Meldestelle tatsächlich ergriffen hat oder plant. Prüfe getrennt, wer Identitäten erfahren darf und ob eine Kündigung, Versetzung oder Bonuskürzung mit der Meldung zusammenhängt. Ein noch unbewiesener Verstoß rechtfertigt weder eine Schuldbehauptung noch den Aufschub der fälligen Rückmeldung.
+Schreibe die bestellte Rückmeldung über tatsächlich ergriffene oder geplante Folgemaßnahmen und berechne ihren Termin aus Eingang und Bestätigung. Bei Kündigung, Versetzung oder Bonuskürzung prüfe zusätzlich die konkrete Benachteiligung. Ein ungeklärter Vorwurf rechtfertigt weder Schuldbehauptung noch Aufschub der fälligen Rückmeldung.
+
+Paragrafen 17, 33 und 36 HinSchG geben unterschiedliche Maßstäbe für Rückmeldung, Schutz und Repressalien vor. Der BVerfG-Beschluss vom 02.07.2001, 1 BvR 2049/00, betrifft pflichtgemäße Zeugenaussage und Unterlagenübergabe im Strafverfahren gegen den Arbeitgeber; eine Einstellung bewies keine haltlosen Angaben. Das ist eine historische Grenze der Kündigungsbewertung, keine Auslegung heutiger HinSchG-Beweislast und keine Freigabe wissentlich falscher Angaben oder Presseveröffentlichungen.
 
 ## 1.1. Vorhandene Meldung und konkreten Auftrag auswerten
 

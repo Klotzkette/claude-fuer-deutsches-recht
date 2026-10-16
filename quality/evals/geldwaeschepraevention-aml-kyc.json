@@ -16,25 +16,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Das Beratungsschutzproblem wird jetzt bei gemischtem Mandat nach Informationsherkunft gelöst; EuGH C-305/05 ist mit historischem Richtlinienbezug und begrenztem Grundrechtsmaßstab eingebunden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Das Beratungsschutzproblem wird jetzt bei gemischtem Mandat nach Informationsherkunft gelöst; EuGH C-305/05 ist mit historischem Richtlinienbezug und begrenztem Grundrechtsmaßstab eingebunden. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
-      "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
     ],
-    "sha256": "780fc6a0dea555f5c2ac0516f29cd5a10b5b8ee473bf8a8792fc2b2219b63247"
+    "sha256": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die ausführlichen Branchen-, Melde- und Vollzugsrouten bleiben erhalten. Der bisher pauschale Privilegienverweis wird durch konkrete Trennung von Transaktionsmitwirkung und verfahrensbezogener Beratung ersetzt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die ausführlichen Branchen-, Melde- und Vollzugsrouten bleiben erhalten. Der bisher pauschale Privilegienverweis wird durch konkrete Trennung von Transaktionsmitwirkung und verfahrensbezogener Beratung ersetzt. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
-      "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt."
+      "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
+      "Einstiegsredaktion 16.10.2026: Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht."
     ],
-    "sha256": "9a17bacb4a1965b35e96c381b9178780704f78f25507edfad3171533eeff2efd"
+    "sha256": "b76c1d2b75cd278404383c681f2c8ac23418c08515612e44e37e5dc908b61a49"
   },
   "selection": {
     "positive": [
@@ -121,5 +123,41 @@
     "continuation": "Stimmbindung -> Kontrollkette; entkräftender Bankbeleg -> Meldebegründung; tatsächlicher Abgang -> richtiger Wartefristlauf.",
     "enrichment": "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Verpflichtetenstatus und Beratungsschutz früh verknüpft; Alt-Richtlinienentscheidung nicht zum pauschalen Meldefreibrief gemacht.",
+    "anchor_or_exception": "EuGH, Urteil vom 26.06.2007, C-305/05; Paragrafen 2, 43 Absatz 2 GwG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "780fc6a0dea555f5c2ac0516f29cd5a10b5b8ee473bf8a8792fc2b2219b63247",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "9a17bacb4a1965b35e96c381b9178780704f78f25507edfad3171533eeff2efd",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-schnellstart.md",
+        "sha256": "4369cb30002797b728ec8c3b91e6608e6b1bef7ced478362ecd248e8e8a22b15",
+        "characters": 7352,
+        "utf8_bytes": 7452
+      },
+      {
+        "path": "geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md",
+        "sha256": "b76c1d2b75cd278404383c681f2c8ac23418c08515612e44e37e5dc908b61a49",
+        "characters": 35161,
+        "utf8_bytes": 35730
+      }
+    ]
   }
 }

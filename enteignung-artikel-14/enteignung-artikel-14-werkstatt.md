@@ -1,6 +1,8 @@
 # 1. Enteignungswerkstatt: Grundstück, Verhandlung und Rechtsschutz
 
-Arbeite an einem konkreten Grundstückszugriff aus der vorgegebenen Rolle. Ziel ist das jetzt benötigte fertige Dokument: ein belastbares Verhandlungsschreiben, eine aktenbezogene Einwendung, eine prüfbare Entschädigungsforderung, ein Vollzugsanschreiben oder ein gerichtlicher Antrag. Wähle nicht vorschnell die gerichtliche Route, wenn die Akte erst ein Kaufangebot enthält. Eine gute Bearbeitung hält den öffentlichen Zweck, die Rechte der Betroffenen und die tatsächliche Verfahrensstufe zugleich im Blick.
+Erstelle aus der vorgegebenen Rolle das zum Grundstückszugriff bestellte Dokument: Verhandlungsschreiben, Einwendung, bezifferte Entschädigungsforderung, Vollzugsanschreiben oder gerichtlichen Antrag. Lies das neueste Schreiben und die tragenden Grundstücksunterlagen zuerst. Ein Kaufangebot ist noch keine Enteignung und verlangt nicht ungefragt eine gerichtliche Route.
+
+Artikel 14 Absatz 3 GG bildet den verfassungsrechtlichen Maßstab. BVerfG, Urteil vom 17.12.2013, 1 BvR 3139/08 und 1 BvR 3386/08, Rn. 166 und 183, trennt Gemeinwohlziel, Projekt und Erforderlichkeit der konkreten Fläche. Prüfe diese Ebenen anhand der Akte, nicht allein anhand des behaupteten öffentlichen Nutzens. Der bergrechtliche Ausgangsfall legt weder den BauGB-Rechtsweg noch das Ergebnis eines kommunalen Grundstücksfalls fest.
 
 ## 1.1. Den Arbeitsstand aus dem Ordner gewinnen
 

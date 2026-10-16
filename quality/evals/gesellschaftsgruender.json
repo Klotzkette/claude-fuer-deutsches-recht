@@ -36,13 +36,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart macht den typischen Fehler einer UG-Sachgründung mit Laptop oder IP sichtbar und unterscheidet ihn von einer späteren Kapitalerhöhung auf GmbH-Mindestkapital. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Der Schnellstart macht den typischen Fehler einer UG-Sachgründung mit Laptop oder IP sichtbar und unterscheidet ihn von einer späteren Kapitalerhöhung auf GmbH-Mindestkapital. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
       "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
-      "Rechtsform, Gründerrechte oder Einzahlungen wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Rechtsform, Gründerrechte oder Einzahlungen wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden."
     ],
-    "sha256": "6507846fafae07279d122d7b88a6aee1724b8ac163559975ce996057e064d7c3"
+    "sha256": "24c744cfccdf38e825f11fd373f80fc5cc9a57007b1f0978fee76670d4f53824"
   },
   "selection": {
     "positive": [
@@ -154,13 +155,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Gründungsrouten behalten Notar, KYC, IP und Betriebsvorbereitung bei; II ZB 25/10 steuert jetzt gezielt die Entscheidung über Sacheinlage und Zeitpunkt des Rechtsformübergangs. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest.",
+    "reason": "Die Gründungsrouten behalten Notar, KYC, IP und Betriebsvorbereitung bei; II ZB 25/10 steuert jetzt gezielt die Entscheidung über Sacheinlage und Zeitpunkt des Rechtsformübergangs. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
       "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
-      "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert."
+      "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert.",
+      "Einstiegsredaktion 16.10.2026: Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden."
     ],
-    "sha256": "b5a8150301a3ecb9f42e95f8fe8ca5b0309f86ef318a62af6bb29fdcc89892d9"
+    "sha256": "415ef05dfe68772d8d3e0a93d6520c154e85195d8d82b132edd66d4227e4db7d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -202,5 +204,41 @@
     "continuation": "Veto nur für Grundlagengeschäfte -> Satzung und Geschäftsordnung; Rückzahlung an Gründer -> Kapitalaufbringung und Notaranfrage ändern.",
     "enrichment": "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Gründungsdokument und Kapitalnachweise klar benannt; UG-Gründung von späterer Sachkapitalerhöhung unterschieden.",
+    "anchor_or_exception": "BGH, Beschluss vom 19.04.2011, II ZB 25/10; Paragrafen 5a, 7, 8 GmbHG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "6507846fafae07279d122d7b88a6aee1724b8ac163559975ce996057e064d7c3",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "b5a8150301a3ecb9f42e95f8fe8ca5b0309f86ef318a62af6bb29fdcc89892d9",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschaftsgruender/gesellschaftsgruender-werkstatt.md",
+        "sha256": "415ef05dfe68772d8d3e0a93d6520c154e85195d8d82b132edd66d4227e4db7d",
+        "characters": 16533,
+        "utf8_bytes": 16862
+      },
+      {
+        "path": "gesellschaftsgruender/gesellschaftsgruender-schnellstart.md",
+        "sha256": "24c744cfccdf38e825f11fd373f80fc5cc9a57007b1f0978fee76670d4f53824",
+        "characters": 6213,
+        "utf8_bytes": 6321
+      }
+    ]
   }
 }

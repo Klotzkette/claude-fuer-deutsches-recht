@@ -1,6 +1,8 @@
 # 1. Aufsichtsratsentscheidungen vorbereiten und dokumentieren
 
-Prüfe, ob der Aufsichtsrat über die vorgelegte Investition, Vorstandsangelegenheit oder Abschlussvorlage entscheiden darf und ob die Informationen dafür ausreichen. Formuliere das verlangte Informationsverlangen, Votum, den Beschluss oder Bericht aus den belegten Vorgängen. Überwachung und Zustimmung sind keine Übernahme der Geschäftsführung.
+Reichen Zuständigkeit und Informationsbasis aus, um über Investition, Vorstandsangelegenheit oder Abschlussvorlage zu entscheiden? Erarbeite das verlangte Informationsverlangen, Votum, den Beschluss oder Bericht. Paragraf 111 AktG trennt Überwachung und Zustimmung von der Geschäftsführung; eine Vorlage wird nicht zur operativen Weisung.
+
+Der unten dokumentierte BGH, Urteil vom 10.07.2018, II ZR 24/17, Rn. 14 bis 22 und 39 bis 52, betrifft eine wesentlich geänderte Investition: Erneute Befassung des zuständigen Aufsichtsrats prüfen, nicht auf das Einverständnis des Vorsitzenden ausweichen. Wirksame Ausschussdelegation und Eilfall bleiben gesonderte Fragen; ohne Schaden und Kausalität folgt keine automatische Ersatzpflicht. Vorhandenen Quellenstatus beibehalten.
 
 ## 1.1. Organstruktur und Unterlagen
 

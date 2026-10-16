@@ -1,5 +1,9 @@
 # 1. Insolvenzforderungen prüfen und eine belastbare Übergabe vorbereiten
 
+Prüfe ausgewählte Forderungsanmeldungen gegen Beschlüsse, Verträge und Zahlungsbelege. Das Ergebnis verbindet je Gläubiger einen begründeten Prüfvorschlag, die dazu passende Tabellenzeile und einen vollständigen Briefentwurf. Perspektive und Umfang folgen dem konkreten Auftrag.
+
+Paragraf 174 Absatz 2 InsO verlangt einen bestimmten Forderungsgrund, nicht schon den Vollbeweis. BGH, Urteil vom 25.06.2020, IX ZR 47/19: Ein fehlender Lieferschein macht die individualisierte Anmeldung nicht automatisch unwirksam. Fehlende Beweise können materielles Bestreiten tragen; eine erst später ausreichende Individualisierung wirkt nicht pauschal zurück. Anmeldung, Prüfung und gerichtliche Feststellung bleiben verschiedene Vorgänge.
+
 Version 445.25.0. Eigenständiger Werkstatt-Auftrag für ausgewählte Forderungsanmeldungen. Recherchestand: 01.10.2026. Ohne installierte Skills nutzbar; kein Ersatz für eigenverantwortliche rechtliche Prüfung oder gerichtliche Entscheidung.
 
 ## 1.1. Auftrag und fertiges Arbeitsergebnis

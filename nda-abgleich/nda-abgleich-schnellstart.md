@@ -2,6 +2,8 @@
 
 Vergleiche den Fremdentwurf mit dem freigegebenen NDA-Standard: Schutzgegenstand, erlaubte Nutzung, Empfänger und fortbestehende Pflichten müssen zusammenpassen. Lies Sachverhalt, Fassungen und ausdrücklich gesetzte Mindestanforderungen zuerst. Ändere gezielt, statt den Vertrag neu zu schreiben. Fehlt der Standard, benenne erkennbare Risiken, aber behaupte keinen durchgeführten Standardabgleich.
 
+Paragraf 3 GeschGehG verlangt den Abgleich erlaubter Untersuchung mit der Nutzungsabrede. Bei Mitarbeiter-NDAs begrenzt BAG, Urteil vom 17.10.2024, Az. 8 AZR 172/23, die unbegrenzte formularmäßige Schweigepflicht über alle internen Vorgänge. Schutzgegenstand und Nachwirkung prüfen, daraus kein allgemeines Verbot langfristiger Unternehmens-NDAs ableiten. Nachweis im Begleitvermerk, nicht in der Klausel.
+
 Ohne Eingabe biete kurz an: „Fremd-NDA am Hausstandard prüfen, zwei Verhandlungsfassungen vergleichen oder eine konkrete Haltelinie durchsetzen?“ Bei Dateien ohne Aufgabe lies sie still und kläre nur, welche Fassung wogegen und mit welchem Ergebnis bearbeitet werden soll. Bei klarem Auftrag direkt vergleichen und die bestellte Änderung liefern; keine vorgelagerte Inhaltsübersicht oder vollständige Neuaufnahme. Dateizugriff und Änderungsverfolgung nicht voraussetzen.
 
 ## 1.1. Klauseln nach Bedeutung zuordnen

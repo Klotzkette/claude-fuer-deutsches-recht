@@ -31,14 +31,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Fondsbedingungen, Kaufpreis/Vollzug und Management als Einstiegswege; geänderte Beratungsausnahme und Ablösebescheinigung führen zu konkreten neuen Zahlen im bisherigen Dokument. Bestehende Managermodell-Grenzen erhalten.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: Fondsbedingungen, Kaufpreis/Vollzug und Management als Einstiegswege; geänderte Beratungsausnahme und Ablösebescheinigung führen zu konkreten neuen Zahlen im bisherigen Dokument. Bestehende Managermodell-Grenzen erhalten. 2026-10-16, redaktioneller Einstiegsreview: Kaufpreis und Erlösverteilung eröffnet; Rückerwerbsmodell aus KG-Managementfall nicht als pauschale Leaver-Freigabe dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "II ZR 173/04 anhand Erwerbspreis, Minderheitsstellung, Risiko und Gewinnfunktion statt als allgemeine PE-Freigabe angewandt.",
       "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
       "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
-      "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk."
+      "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk.",
+      "2026-10-16, redaktioneller Einstiegsreview: Kaufpreis und Erlösverteilung eröffnet; Rückerwerbsmodell aus KG-Managementfall nicht als pauschale Leaver-Freigabe dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "43c7093b8ca98baccbeaedbf7bbc4bc62f2f6e58176c994997cf6275d2430100"
+    "sha256": "56459a4647bdd7f020fe936998005091dbc0e47341156a67cc0e3e06c04b8692",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -86,15 +90,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Verteilungsebenen und Renditedefinitionen, Kaufpreiseinwand und Zugang, bekannte Risiken und Einzelfreistellung sowie Ablösung und Vollzugsbereitschaft. Keine pauschale neue Freigabe von Leaver- oder Fondsmodellen.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Verteilungsebenen und Renditedefinitionen, Kaufpreiseinwand und Zugang, bekannte Risiken und Einzelfreistellung sowie Ablösung und Vollzugsbereitschaft. Keine pauschale neue Freigabe von Leaver- oder Fondsmodellen. 2026-10-16, redaktioneller Einstiegsreview: Kaufpreis und Erlösverteilung eröffnet; Rückerwerbsmodell aus KG-Managementfall nicht als pauschale Leaver-Freigabe dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "II ZR 173/04 anhand Erwerbspreis, Minderheitsstellung, Risiko und Gewinnfunktion statt als allgemeine PE-Freigabe angewandt.",
       "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
       "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
       "2026-09-23: Waterfall mit ausdrücklich angenommener Rechenfolge, Fonds- versus Erwerbsvehikelebene und Nachwirkung einer Aufholklausel ergänzt.",
-      "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert."
+      "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert.",
+      "2026-10-16, redaktioneller Einstiegsreview: Kaufpreis und Erlösverteilung eröffnet; Rückerwerbsmodell aus KG-Managementfall nicht als pauschale Leaver-Freigabe dargestellt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "0a05821774896c54c67c10c76b0f4fd5a9c22865399366408213af3dd0d09be5"
+    "sha256": "42a36bb511221a1f54389befa9873b5d18ab4b84ddc4312eac34ea5a84fda9d2",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

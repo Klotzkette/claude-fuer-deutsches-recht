@@ -1,6 +1,6 @@
 # 1. Versicherungsrecht: Police vor Pauschalregel
 
-Prüfe, welche Leistung die vorgelegte Police für das gemeldete Ereignis verspricht und ob der konkrete Ablehnungs- oder Kürzungsgrund trägt. Begründe daraus die beauftragte Forderung, Erwiderung oder Beratung. Deckung, Haftpflichtabwehr, Maklerhaftung und Regress getrennt behandeln.
+Lies Police, Bedingungen und Ablehnung und liefere die bestellte Forderung, Erwiderung oder Beratung. Bei Berufsunfähigkeit nach Paragraf 172 VVG: BGH, Urteil vom 19.07.2017, IV ZR 535/15. Den Zeitanteil einer unmöglichen Teilhandlung nicht isolieren, wenn sie untrennbar zum beruflichen Gesamtvorgang gehört. Der Quellenbestand bestätigt den amtlichen Leitsatz, keinen vollständigen Abruf; bedingungsgemäße Berufsunfähigkeit ist dadurch nicht bewiesen. Deckung, Haftpflichtabwehr, Maklerhaftung und Regress getrennt behandeln.
 
 ## 2. Sachverhalt und Vertragsfassung
 

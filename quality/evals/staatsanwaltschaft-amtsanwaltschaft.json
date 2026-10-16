@@ -61,7 +61,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Objektiven Ermittlungs-/Abschlussauftrag mit vorheriger Verdachtsgrundlage für Durchsuchung verbunden. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
       "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
@@ -69,11 +69,13 @@
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
       "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Objektiven Ermittlungs-/Abschlussauftrag mit vorheriger Verdachtsgrundlage für Durchsuchung verbunden. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "c388fab987e39df6a53dd43e4ec1236204a680f9e0d1d5e8e3a201031d695263",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "09e34438d521a9ba0ed9cbaa6851821d7e9e8f81f64182e913ad52a1d6434a23",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -121,7 +123,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Objektiven Ermittlungs-/Abschlussauftrag mit vorheriger Verdachtsgrundlage für Durchsuchung verbunden. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
       "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
@@ -129,11 +131,13 @@
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
       "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Objektiven Ermittlungs-/Abschlussauftrag mit vorheriger Verdachtsgrundlage für Durchsuchung verbunden. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "2b0a97b93f384cbf0daa340ee1b69fe5ae505c74e15942d6053d276e34c810b1",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "57d537614d7f2048aa8ee8bc6cbd72f7797cd6ae52c54c7c6e2b6889a5cd734d",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

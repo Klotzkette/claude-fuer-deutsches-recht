@@ -26,32 +26,36 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln. 2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Aktuelle Mittel und konkrete Nachteile mit BVerfG 1 BvR 569/05 verbunden.",
       "Erläuterungsauftrag ausdrücklich ohne automatischen Klageentwurf; Anspruchsbelege trotz Eilmaßstab erforderlich.",
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
-      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8bd5c716c14af2ff18cff46a35b988b2de372facdd00082ffe42b8308c7732de",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "d9355cd1f901bbb0d544088506c306c29798a2b909e7173d5f4bb9984d8cc0bf",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln. 2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "BVerfG-Anker in Eilrechtsschutz mit heutiger Bedarfsdeckung und Folgenabwägung integriert.",
       "Beispiel zur fehlenden Unterstützung nur konditional und mit Belegplatzhaltern formuliert.",
       "Unverifizierte Standardfallliste entfernt; vorhandene Leistungswege, Nachfragen und Fertigstellung erhalten.",
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
-      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "f0605fc1953b5444c4eebe3d8137b3872746cb91814de6ba6452ee42f8903edf",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "badf9479301331ad1c701cc9b372db898f419355d3368f7a99bf59d05f61fab7",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

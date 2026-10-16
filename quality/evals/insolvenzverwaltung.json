@@ -36,27 +36,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eine verlustbringende Maßnahme wird aus damaliger Informationslage geprüft, nicht allein wegen ihres späteren Ergebnisses beanstandet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Eine verlustbringende Maßnahme wird aus damaliger Informationslage geprüft, nicht allein wegen ihres späteren Ergebnisses beanstandet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung."
     ],
-    "sha256": "dea74cf6be4b92e311a05c23359103df84db2cd0fd5537e73789e4da9f454242"
+    "sha256": "b0e7561cf957c4fa6dabb1d30f0f25ed862437dbb245e72e143fcfec9028ade8"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Verwaltung, Fortführung, Masseansprüche, Tabelle, Bericht, Verteilung und Planoption vollständig nach Rollen und Beschlussumfang neu gegliedert. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Verwaltung, Fortführung, Masseansprüche, Tabelle, Bericht, Verteilung und Planoption vollständig nach Rollen und Beschlussumfang neu gegliedert. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung."
     ],
-    "sha256": "3225742bf5a1f8ebb68e0289a9a187b1c53d2e7e0800220d689a22a742145779"
+    "sha256": "ce463cb21b27a1e6f3718c9f159e41734773656fd9ce48d96f4b4f74dd4671c2"
   },
   "selection": {
     "positive": [
@@ -147,5 +149,41 @@
     "continuation": "Neuer Eigentumsnachweis -> Zuordnung des konkreten Gegenstands, freie Masse, Verwertungserlös und Entwurf ändern; neuer Beschluss verändert nur die tatsächlich erweiterte Befugnis.",
     "enrichment": "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung.",
+    "anchor_or_exception": "BGH, Urteil vom 12.03.2020, IX ZR 125/17; Paragrafen 22, 80, 60 InsO",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "dea74cf6be4b92e311a05c23359103df84db2cd0fd5537e73789e4da9f454242",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "3225742bf5a1f8ebb68e0289a9a187b1c53d2e7e0800220d689a22a742145779",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "sha256": "b0e7561cf957c4fa6dabb1d30f0f25ed862437dbb245e72e143fcfec9028ade8",
+        "characters": 6501,
+        "utf8_bytes": 6595
+      },
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+        "sha256": "ce463cb21b27a1e6f3718c9f159e41734773656fd9ce48d96f4b4f74dd4671c2",
+        "characters": 20391,
+        "utf8_bytes": 20702
+      }
+    ]
   }
 }

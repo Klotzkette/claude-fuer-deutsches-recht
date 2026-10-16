@@ -1,6 +1,8 @@
 # 1. Behördenpost verstehen und die passende Antwort verfassen
 
-Klär anhand der Behördenpost, ob eine Entscheidung schon gilt, nur eine Stellungnahme verlangt wird oder Unterlagen fehlen. Benenne Frist und Folgen verständlich und berichtige im bestellten Antwortbrief die tatsächlich falschen Angaben. Füge weder Widerspruch noch Anerkenntnis oder Ratenantrag ohne entsprechenden Auftrag hinzu.
+Aus der Behördenpost soll eine verständliche Erklärung oder ein fertiger Antwortbrief werden. Lies zuerst das Schreiben mit seinen Anlagen: Ist schon entschieden, wird eine Stellungnahme erwartet oder fehlt ein Nachweis? Benenne Frist und Folgen und berichtige belegte Fehler. Füge weder Widerspruch noch Anerkenntnis oder Ratenantrag ohne Auftrag hinzu.
+
+Für die sozialrechtliche Anhörung geben Paragrafen 24 und 41 SGB X den Prüfungsrahmen. BSG, Urteil vom 03.12.2024, B 2 U 13/22 R, Rn. 14 bis 25, verlangt wirkliche Gelegenheit zur Äußerung; bloße Widerspruchseinlegung genügt zur Heilung nicht. Prüfe Ausnahmen wie eine vorzeitige abschließende Äußerung gesondert und übertrage die besondere Dauerrentenfolge nicht auf Bürgergeld. Eine reine Verständnishilfe braucht diesen Nachweis nicht im Empfängertext.
 
 ## 1.1. Den vollständigen Brief lesen
 

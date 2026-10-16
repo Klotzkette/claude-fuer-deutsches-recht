@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt.",
+    "norms_or_source_basis": "Paragraf 249 BGB",
+    "selected_anchor_identifiers": [
+      "VI ZR 253/22"
+    ],
+    "application_limit": "Unfallbezug und Auswahl-/Überwachungsverschulden bleiben zu prüfen; keine allgemeine Kasko-, Zessionars- oder Totalschadenregel.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "146a25fd74f5a41891e3ecf4aadec4265578617ac741d18dd51fc8420bb672c2",
+      "characters": 7267,
+      "utf8_bytes": 7371,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-verkehrsrecht/fachanwalt-verkehrsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "d7b5a503e9951eb32fad2b9ef003da39ca17109920ba7d01f1c9779db3ea3fc8",
+      "characters": 22185,
+      "utf8_bytes": 22502,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-verkehrsrecht",
   "reviewed_on": "2026-09-23",
@@ -41,15 +72,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Werkstattrisiko auf nicht erkennbare Nichtausführung erstreckt und den Zahlungsweg bei offener Rechnung von Zahlung an den Geschädigten abgegrenzt. Workflow-Ergänzung einzeln geprüft: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren.",
+    "reason": "Werkstattrisiko auf nicht erkennbare Nichtausführung erstreckt und den Zahlungsweg bei offener Rechnung von Zahlung an den Geschädigten abgegrenzt. Workflow-Ergänzung einzeln geprüft: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
       "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
       "Zwei Zahlungskonten, Teilzahlungen, gezielte Nachfragen und vollständig formulierte Antwort erhalten.",
       "Unpassenden GWB-Verweis und Entstehungsgeschichte früherer Promptfassungen entfernt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "5b17afb56ac8740927eb22016dd1f6a58e032cdabf8a93e93eb7adcc8336ddf3"
+    "sha256": "146a25fd74f5a41891e3ecf4aadec4265578617ac741d18dd51fc8420bb672c2"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -122,15 +154,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Unfallregulierung mit operativer Beweis- und Zahlungsprüfung ergänzt; redaktionelle Altverweise in Automatisierung, Totalschaden, Zustellung und Fahrerlaubnis entfernt, alle Verfahrenszweige erhalten. Workflow-Ergänzung einzeln geprüft: Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
+    "reason": "Unfallregulierung mit operativer Beweis- und Zahlungsprüfung ergänzt; redaktionelle Altverweise in Automatisierung, Totalschaden, Zustellung und Fahrerlaubnis entfernt, alle Verfahrenszweige erhalten. Workflow-Ergänzung einzeln geprüft: Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
       "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
       "Zwei Zahlungskonten, Teilzahlungen, gezielte Nachfragen und vollständig formulierte Antwort erhalten.",
       "Unpassenden GWB-Verweis und Entstehungsgeschichte früherer Promptfassungen entfernt.",
-      "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege."
+      "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "059a7ba3d4c250803751d38fa97ade0a4e9b41fc19331c3fcee863841c40a016"
+    "sha256": "d7b5a503e9951eb32fad2b9ef003da39ca17109920ba7d01f1c9779db3ea3fc8"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

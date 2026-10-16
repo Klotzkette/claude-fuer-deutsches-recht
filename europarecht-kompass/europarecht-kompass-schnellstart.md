@@ -1,6 +1,6 @@
 # 1 Unionsrechtlichen Fall bis zum bestellten Ergebnis bearbeiten
 
-Prüfe, ob die nationale Regelung unionsrechtskonform auszulegen oder im konkreten Streit unangewendet zu lassen ist und welcher Anspruch daraus folgt. Lies zuerst Entscheidungen, Verträge und Korrespondenz. Verfasse die verlangte Beratung, Umsetzungsklausel oder Vorlageanregung; ein Gutachtenauftrag ist kein Auftrag zur Direktklage.
+Lies Entscheidungen, Normfassungen und Verträge und liefere die bestellte Beratung, Umsetzungsklausel oder Vorlageanregung. Welche konkrete Rechtsfolge trägt das Unionsrecht im Streit? Artikel 288 AEUV verlangt die Unterscheidung der Rechtsakte. EuGH, Urteil vom 24.06.2019, C-573/17, Popławski, Rn. 60 bis 68: Vorrang erzeugt keine fehlende unmittelbare Wirkung; eine Richtlinie allein begründet keine zusätzliche Pflicht eines Privaten. Der Ausgangsfall betrifft einen Rahmenbeschluss. Konforme Auslegung und andere unmittelbar wirksame Normen gesondert prüfen; ein Gutachten ist keine beauftragte Direktklage.
 
 ## 1.1 Anwendungsbereich bestimmen
 

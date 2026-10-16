@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme.",
+    "norms_or_source_basis": "Artikel 74, 75 und 77 CISG",
+    "selected_anchor_identifiers": [
+      "2 U 132/18"
+    ],
+    "application_limit": "Endgültige Erfüllungsverweigerung und bestehendes Aufhebungsrecht erforderlich; keine allgemeine Freigabe vorzeitiger Deckungskäufe.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "b4662e242e2bfb1917563b6b3afa7820d5d8fcd7c051f00b407772d5ec16b75e",
+      "characters": 6655,
+      "utf8_bytes": 6760,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "650846c367881502cdda6a8daa5b8c944910c444be07a2abf56426b1663ed066",
+      "characters": 17793,
+      "utf8_bytes": 18082,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-internationales-wirtschaftsrecht",
   "reviewed_on": "2026-09-23",
@@ -66,15 +97,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "OLG-Hamm-Fall wird zur Mengenabgrenzung, Beschaffungsangemessenheit und engen Ausnahme vorgezogener Deckungskäufe genutzt. Workflow-Ergänzung einzeln geprüft: Ersatzware hat höhere Qualität oder eine verspätete Charge wurde doch genutzt -> Mehrpreis, Ausfallzeit und Schadensforderung neu berechnen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Nur C-537/23 ergänzt die Forumsvorfrage des CISG-Hauptproblems/Fokusskills; I ZB107/25 bleibt in breiter Werkstatt/Mini/Zuständigkeitsskill. Materielle Deckungskaufrechnung weiter beim einschlägigen OLG-Anker.",
+    "reason": "OLG-Hamm-Fall wird zur Mengenabgrenzung, Beschaffungsangemessenheit und engen Ausnahme vorgezogener Deckungskäufe genutzt. Workflow-Ergänzung einzeln geprüft: Ersatzware hat höhere Qualität oder eine verspätete Charge wurde doch genutzt -> Mehrpreis, Ausfallzeit und Schadensforderung neu berechnen. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Nur C-537/23 ergänzt die Forumsvorfrage des CISG-Hauptproblems/Fokusskills; I ZB107/25 bleibt in breiter Werkstatt/Mini/Zuständigkeitsskill. Materielle Deckungskaufrechnung weiter beim einschlägigen OLG-Anker. Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
       "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
       "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt."
+      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "452c0214ad81d6bcd7ee691459a11de38ec29ad3500fa64989cde670ae318eba"
+    "sha256": "b4662e242e2bfb1917563b6b3afa7820d5d8fcd7c051f00b407772d5ec16b75e"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -146,15 +178,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Breite Zuständigkeits-, Rechtswahl-, Schieds-, Außenhandels- und Datenschutzarbeit erhalten; Lieferstreit anhand gerichtlicher Subsumtion konkretisiert. Workflow-Ergänzung einzeln geprüft: Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Nur C-537/23 ergänzt die Forumsvorfrage des CISG-Hauptproblems/Fokusskills; I ZB107/25 bleibt in breiter Werkstatt/Mini/Zuständigkeitsskill. Materielle Deckungskaufrechnung weiter beim einschlägigen OLG-Anker.",
+    "reason": "Breite Zuständigkeits-, Rechtswahl-, Schieds-, Außenhandels- und Datenschutzarbeit erhalten; Lieferstreit anhand gerichtlicher Subsumtion konkretisiert. Workflow-Ergänzung einzeln geprüft: Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Nur C-537/23 ergänzt die Forumsvorfrage des CISG-Hauptproblems/Fokusskills; I ZB107/25 bleibt in breiter Werkstatt/Mini/Zuständigkeitsskill. Materielle Deckungskaufrechnung weiter beim einschlägigen OLG-Anker. Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
       "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
       "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
       "Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich.",
-      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt."
+      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Gericht, Vertragsstatut und konkretes Außenhandelsschreiben eröffnen die Bearbeitung; früher Deckungskauf bleibt eine eng begrenzte Ausnahme. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "48793d7605a46a0f9fed172d307fd06b3220ffa0c329e3132586c9e979a31b41"
+    "sha256": "650846c367881502cdda6a8daa5b8c944910c444be07a2abf56426b1663ed066"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

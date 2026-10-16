@@ -51,27 +51,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vergleichsrechnung und versprochene Drittkompensation werden auf volle, sichere Deckung statt nomineller Zusagen geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Vergleichsrechnung und versprochene Drittkompensation werden auf volle, sichere Deckung statt nomineller Zusagen geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
+      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen."
     ],
-    "sha256": "454f56f3f9c7e56d32999496697c0787dfce3f9ca1bd98039d7352393426d79f"
+    "sha256": "8563b827871cf0468d9fe9b189c25865aaa5310d848c174e886865e22bec286c"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die zwölf Planwege eigenständig neu formuliert: Auswahl, Gruppen, Rechte, Finanzierung, Mehrheit, Schutz, Bestätigung und Vollzug bleiben enthalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Die zwölf Planwege eigenständig neu formuliert: Auswahl, Gruppen, Rechte, Finanzierung, Mehrheit, Schutz, Bestätigung und Vollzug bleiben enthalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
+      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen."
     ],
-    "sha256": "6b306fa79e6c41dba816e11c0fbe792654f3c6ac017a006e9841bd836b456065"
+    "sha256": "153c230a0dfe7732d4fbf496c19e9bfe91d7605b587545e43382286082d57b5e"
   },
   "selection": {
     "positive": [
@@ -163,5 +165,41 @@
     "continuation": "Neue Finanzierungsbedingung -> ersten ungedeckten Tag, Finanzplan, Zahlungsbedingung im gestaltenden Teil und Gläubigerbrief gemeinsam ändern.",
     "enrichment": "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen.",
+    "anchor_or_exception": "BGH, Beschluss vom 20.07.2017, IX ZB 13/16; Paragraf 231 InsO, Paragraf 64 StaRUG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "454f56f3f9c7e56d32999496697c0787dfce3f9ca1bd98039d7352393426d79f",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "6b306fa79e6c41dba816e11c0fbe792654f3c6ac017a006e9841bd836b456065",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "sha256": "8563b827871cf0468d9fe9b189c25865aaa5310d848c174e886865e22bec286c",
+        "characters": 7003,
+        "utf8_bytes": 7103
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "sha256": "153c230a0dfe7732d4fbf496c19e9bfe91d7605b587545e43382286082d57b5e",
+        "characters": 20903,
+        "utf8_bytes": 21194
+      }
+    ]
   }
 }

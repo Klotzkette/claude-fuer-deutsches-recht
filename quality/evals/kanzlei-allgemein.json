@@ -51,15 +51,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Gerichtseingang von Versand, Inhalt und Form im Einstieg getrennt; redundante Aufnahmehinweise gestrafft.",
     "changes": [
       "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Gerichtseingang von Versand, Inhalt und Form im Einstieg getrennt; redundante Aufnahmehinweise gestrafft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "e8abe0ff5a61f1ddd99deb9b1eabce72f48bf687c327569dc75855d05e4e36a4",
+    "sha256": "b5a9f180b938f3c1c930ddcb5835888843e387a8e2ed1a56f8e6ac73371718ea",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -108,15 +109,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Gerichtseingang von Versand, Inhalt und Form im Einstieg getrennt; redundante Aufnahmehinweise gestrafft.",
     "changes": [
       "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
       "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Gerichtseingang von Versand, Inhalt und Form im Einstieg getrennt; redundante Aufnahmehinweise gestrafft. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "40c0e2d6bbdfd882f3db8977bbc1782d389965343aae02845b736aba0099f818",
+    "sha256": "3d9cd1a918fa33f745b99b16ed9fc03a79f9ed34027c96180cb97d8a54f8c815",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {

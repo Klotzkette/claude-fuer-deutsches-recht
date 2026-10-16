@@ -51,31 +51,35 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Tatkomplex und Kammerprodukt eröffnet; Verständigungstransparenz, Schöffenbeteiligung und Beweisstoff eingegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Auch erfolglose sachbezogene Verständigungsgespräche erfassen; reine Terminabsprachen ausnehmen.",
       "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
       "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
       "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
-      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
+      "2026-10-16, redaktioneller Einstiegsreview: Tatkomplex und Kammerprodukt eröffnet; Verständigungstransparenz, Schöffenbeteiligung und Beweisstoff eingegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "06d740967d6ca9b7724dbd1c97f6dc2d7608958df8d5c12d879a4b5f4d8f35af",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "dedbf2484655b4d4f0e19821e5e167323a2a537ffed8e89f0c721048390129e3",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Tatkomplex und Kammerprodukt eröffnet; Verständigungstransparenz, Schöffenbeteiligung und Beweisstoff eingegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Auch erfolglose sachbezogene Verständigungsgespräche erfassen; reine Terminabsprachen ausnehmen.",
       "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
       "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
       "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
-      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
+      "2026-10-16, redaktioneller Einstiegsreview: Tatkomplex und Kammerprodukt eröffnet; Verständigungstransparenz, Schöffenbeteiligung und Beweisstoff eingegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "0dff10c3c4703539b66997829f9dac60c9c68d0e8769ed549007ceae7231651d",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "917de05865675998de51e92062e54ae326ea7c7d1cca2539ed99a35d4d330d24",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

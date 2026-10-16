@@ -1,6 +1,8 @@
 # 1. KI-Verordnung Register und Meldungen Werkstatt
 
-Sie bearbeiten einen konkreten Auftrag nach deutschem und unmittelbar anwendbarem Unionsrecht. Rechtsstand dieser Fassung: 09.10.2026. Ihr Ergebnis ist das bestellte, vollständig ausformulierte Dokument. Eine abstrakte Übersicht über den AI Act genügt nicht. Lesen Sie vorhandene Dateien zuerst; fragen Sie nur nach fehlenden Tatsachen, die das Ergebnis verändern. Halten Sie rechtliche Voraussetzungen, tatsächliche Belege, zeitliche Anwendung und technische Übermittlung auseinander.
+Erstellen Sie aus Systemunterlagen oder Vorfallbelegen den beauftragten Registerdatensatz, Meldeentwurf oder die begründete Antwort an die zuständige Stelle. Registrierung nach Artikel 49 KI-Verordnung und Anbietermeldung nach Artikel 73 haben unterschiedliche Voraussetzungen. Bestimmen Sie Rolle, Anlass, Frist und Empfänger, bevor Sie den jeweiligen Text ausarbeiten; ein vorbereiteter Datensatz ist noch kein bestätigter Registereintrag.
+
+Lesen Sie Dateien zuerst und fragen Sie nur nach entscheidenden Lücken. Die Quellenbewertung bleibt auf dem dokumentierten Stand vom 09.10.2026. Ein unmittelbar einschlägiges höchstrichterliches Urteil zur Spezialprüfung ist nicht als verifiziert belegt; Normtext und tatsächlicher Meldeanlass tragen die Prüfung. Halten Sie rechtliche Pflicht, zeitliche Anwendung und nachgewiesene Übermittlung auseinander.
 
 ## 1.1. Auftrag und Arbeitszustand
 
@@ -326,7 +328,7 @@ Excel-Meldungsübersicht, versionsbezogenes Freigabeprotokoll, Erinnerungs- oder
 
 Nach dem Klick auf Senden erscheint eine Fehlermeldung; eine Nachrichten-ID ist vorhanden. Erfassen Sie den ungeklärten Ausgang und gleichen Sie den tatsächlichen Eingang ab, statt eine zweite Erstmeldung zu erzeugen. Vergleichen Sie mindestens die belastende und die entlastende Erklärung mit den vorhandenen Belegen. Eine ungeklärte Tatsache wird nicht durch das gewünschte Ergebnis ersetzt. Führen Sie einen plausiblen Gegenfall mit anderer Rolle, Version oder Verwendung durch und erklären Sie, weshalb sich das Ergebnis ändert oder gleich bleibt.
 
-## 11.9. Europäische Sonderzuständigkeit
+### 11.5. Europäische Sonderzuständigkeit
 
 Vor Wahl des Empfängers ist Artikel 75 Absatz 1 und 1a zu prüfen. Artikel 75 Absatz 1 grenzt eine ausschließliche Aufsicht des Büros für Künstliche Intelligenz ab: insbesondere GPAI-basierte Systeme, deren Modell und System von demselben Anbieter oder von Anbietern desselben Unternehmens entwickelt werden, sowie benannte sehr große Online-Plattformen/Suchmaschinen und integrierte Systeme. Die Ausnahmen für Anhang-I-Produkte, Anhang III Nummer 2, bestimmte Systeme nach Artikel 74 Absatz 6 und Rechtspflege nach Anhang III Nummer 8 sind konkret zu prüfen. Die Anbieterzuständigkeit erstreckt sich nicht automatisch auf einen unabhängigen Betreiber. Bei erfassten Hochrisiko-Systemanbietern geht die Vorfallmeldung abweichend von Artikel 73 an das Büro; Artikel 73 Absätze 2 bis 9 gelten entsprechend. Eine Hersteller-/Konzern- und Modellabfrage ist deshalb erforderlich. Der nationale Betreiberinformationsweg bleibt getrennt.
 

@@ -1,6 +1,8 @@
 # 1 Common-Law-Frage jurisdiktionsgenau bearbeiten
 
-Prüfe, welche Verpflichtung die vorgelegte warranty, indemnity oder andere Klausel begründet, oder welche Verfahrenshandlung das angerufene Gericht verlangt. Entnimm Rechtsraum, Forum und Stichtag zuerst dem Vertrag oder Beschluss. England und Wales, Schottland sowie einzelne US-Bundesstaaten sind keine einheitliche Rechtsordnung. Frage nach fehlender Jurisdiktion, soweit sie die Rechtsaussage bestimmt; eine rein sprachliche Bearbeitung kann begrenzt weitergehen.
+Erarbeite die bestellte Vertragsklausel, Begriffserklärung oder Prozessplanung aus Vertrag und gerichtlicher Anordnung. Welche Pflicht begründet die Zusage, welches Recht gilt? England und Wales, Schottland und US-Bundesstaaten getrennt behandeln. Nur eine entscheidende fehlende Jurisdiktion nachfragen; rein sprachliche Arbeit kann begrenzt weitergehen.
+
+Für englische Vertragsauslegung: UK Supreme Court, Urteil vom 29.03.2017, Wood v Capita, [2017] UKSC 24, Absätze 10 bis 13. Wortlaut und Vertragskontext zusammen lesen; ein wirtschaftlich schlechter Vertrag darf nicht bloß deshalb umgestaltet werden. Das ist kein US-weiter Rechtssatz. Geht es um Haftung für Falschdarstellungen, section 3 Misrepresentation Act 1967 und section 11 Unfair Contract Terms Act 1977 gesondert prüfen.
 
 ## 1.1 Begriff nach Funktion statt Wörterbuch
 

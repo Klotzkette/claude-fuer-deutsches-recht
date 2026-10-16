@@ -120,21 +120,24 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger kurzer Workflow mit drei verifizierten2026-Ankern und Befugnis-/Zugangsfrage. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
+    "reason": "Eigenständiger kurzer Workflow mit drei verifizierten2026-Ankern und Befugnis-/Zugangsfrage. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest. Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
-      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt.",
+      "Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt."
     ],
-    "sha256": "5112dcbe7a21eeef2ec59a3725232803de4bd83607df77e76bebdc3e0d941f71"
+    "sha256": "b5a3c7b103c44f83d25b93293f411112911f329e686fae8d225b59f995577e28"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Große eigenständige Werkstatt mit konkreter Registerlandkarte, zwei Auslandsnachweiswegen und acht ausformulierten Mustern. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
+    "reason": "Große eigenständige Werkstatt mit konkreter Registerlandkarte, zwei Auslandsnachweiswegen und acht ausformulierten Mustern. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest. Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
-      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt.",
+      "Einstiegsredaktion 16.10.2026: Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c"
+    "sha256": "e00a45c506b0bfa82b2745efa64fe085dc40641d221da31d94908dce62e4e806"
   },
   "focus_review": {
     "verdict": "revised",
@@ -395,5 +398,53 @@
         }
       ]
     }
-  ]
+  ],
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Abstrakten Workflowtext durch Registerprodukte und Zwischenverfügungsgrenze ersetzt; Form, Eintragung und Vollzug getrennt. Werkstatt auf einen Dokumenttitel und nachgeordnete dezimale H2/H3-Gliederung korrigiert.",
+    "anchor_or_exception": "BGH, Beschluss vom 19.09.2023, II ZB 15/22; Paragraf 12 HGB, Paragraf 382 FamFG",
+    "source_status": "Bestandsprüfung 01.10.2026 mit dokumentierten Passagen und Quellenhash; keine Aktualisierung dieser Verifikation.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "5112dcbe7a21eeef2ec59a3725232803de4bd83607df77e76bebdc3e0d941f71",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "handelsregister-assistent/handelsregister-assistent-schnellstart.md",
+        "sha256": "b5a3c7b103c44f83d25b93293f411112911f329e686fae8d225b59f995577e28",
+        "characters": 7232,
+        "utf8_bytes": 7354
+      },
+      {
+        "path": "handelsregister-assistent/handelsregister-assistent-schnellstart.txt",
+        "sha256": "b5a3c7b103c44f83d25b93293f411112911f329e686fae8d225b59f995577e28",
+        "characters": 7232,
+        "utf8_bytes": 7354
+      },
+      {
+        "path": "handelsregister-assistent/handelsregister-assistent-werkstatt.md",
+        "sha256": "e00a45c506b0bfa82b2745efa64fe085dc40641d221da31d94908dce62e4e806",
+        "characters": 100386,
+        "utf8_bytes": 102058
+      },
+      {
+        "path": "handelsregister-assistent/handelsregister-assistent-werkstatt.txt",
+        "sha256": "e00a45c506b0bfa82b2745efa64fe085dc40641d221da31d94908dce62e4e806",
+        "characters": 100386,
+        "utf8_bytes": 102058
+      }
+    ]
+  }
 }

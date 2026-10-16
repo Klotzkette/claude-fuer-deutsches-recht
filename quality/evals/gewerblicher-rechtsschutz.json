@@ -31,26 +31,28 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Echtheit und EWR-Erstvertrieb werden getrennt; eine China-Charge wird nicht durch Vertrieb einer anderen Charge in Frankreich frei.",
+    "reason": "Echtheit und EWR-Erstvertrieb werden getrennt; eine China-Charge wird nicht durch Vertrieb einer anderen Charge in Frankreich frei. Einstiegsredaktion 16.10.2026: Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Silhouette in die Erschöpfungsprüfung eingebaut",
       "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
       "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert."
     ],
-    "sha256": "e59b9965a4e770fe76ad74deae0e3a99039b05d2695390c121e996e58a61215a"
+    "sha256": "b202a7d5ea19f20b2f3eab6a7106fe22f09289d7c7d7978edb105ed6909efb3e"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Schutzrechte, Geheimnisse, OSS, Abmahnung, Plattform und Vollstreckung fachbezogen gestrafft; keine Patentanspruchsformulierung außerhalb des Pluginumfangs.",
+    "reason": "Schutzrechte, Geheimnisse, OSS, Abmahnung, Plattform und Vollstreckung fachbezogen gestrafft; keine Patentanspruchsformulierung außerhalb des Pluginumfangs. Einstiegsredaktion 16.10.2026: Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Silhouette in die Erschöpfungsprüfung eingebaut",
       "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
       "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
       "Gegnerische Beweismittel durch bedingte Vorlage- und Besichtigungsprüfung wieder in den Arbeitsablauf aufgenommen.",
-      "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte."
+      "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte.",
+      "Einstiegsredaktion 16.10.2026: Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert."
     ],
-    "sha256": "162e187d7d0694e87fde6effff46a0009dfa600b28ec4a9edcb3fa6c09e9a46c"
+    "sha256": "ceaaf973e7d6d0b60009e4b4af5185cd8fd8357403b43bf13174364ef21d0085"
   },
   "selection": {
     "positive": [
@@ -135,5 +137,41 @@
     "continuation": "Belegte EWR-Erstvermarktung -> chargenbezogene Erschöpfung; verborgenes Merkmal -> Beweisweg; Lizenzumfang -> Unterlassungstext ändern.",
     "enrichment": "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Vertriebsfrage statt Portfolioaufnahme; Originalware, territoriale Erschöpfung und mögliche spätere Zustimmung differenziert.",
+    "anchor_or_exception": "EuGH, Urteil vom 16.07.1998, C-355/96; Paragrafen 14, 24 MarkenG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "e59b9965a4e770fe76ad74deae0e3a99039b05d2695390c121e996e58a61215a",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "162e187d7d0694e87fde6effff46a0009dfa600b28ec4a9edcb3fa6c09e9a46c",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-schnellstart.md",
+        "sha256": "b202a7d5ea19f20b2f3eab6a7106fe22f09289d7c7d7978edb105ed6909efb3e",
+        "characters": 6788,
+        "utf8_bytes": 6874
+      },
+      {
+        "path": "gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md",
+        "sha256": "ceaaf973e7d6d0b60009e4b4af5185cd8fd8357403b43bf13174364ef21d0085",
+        "characters": 19982,
+        "utf8_bytes": 20247
+      }
+    ]
   }
 }

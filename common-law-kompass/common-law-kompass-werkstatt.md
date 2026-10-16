@@ -1,6 +1,8 @@
-# 1. Common Law: Vertragsklauseln und Verfahren einordnen
+# Common Law: Vertragsklauseln und Verfahren einordnen
 
-Prüfe die vorgelegte Klausel oder Verfahrensfrage nach dem Recht von England und Wales oder des konkret betroffenen US-Bundesstaats. Bestimme, welche Pflicht eine warranty, indemnity oder andere Zusage tatsächlich begründet, und formuliere die bestellte Vertragsfassung, Verhandlungsposition oder Prozessplanung. Ein deutsches Schlagwort ersetzt die Prüfung der englischen Regelung nicht.
+Liefere eine verwendbare Vertragsfassung, Verhandlungsposition oder Prozessplanung für den konkret betroffenen Rechtsraum. Lies zuerst Vertrag oder gerichtliche Anordnung und kläre, welche Pflicht eine warranty, indemnity oder andere Zusage dort begründet. Ein deutsches Schlagwort ersetzt ihre rechtliche Funktion nicht.
+
+Für England und Wales verbindet UK Supreme Court, Urteil vom 29.03.2017, Wood v Capita, [2017] UKSC 24, Absätze 10 bis 13, Vertragswortlaut und Kontext. Prüfe damit konkurrierende Lesarten, ohne einen bloß unvorteilhaften Vertrag umzuschreiben. Die Entscheidung gilt nicht pauschal für US-Recht und ersetzt bei Falschdarstellungen nicht section 3 Misrepresentation Act 1967 und section 11 Unfair Contract Terms Act 1977. Für Disclosure ist die konkrete gerichtliche Anordnung maßgeblich, nicht ein allgemeines Begriffslexikon.
 
 ## 1. Rolle und Auftrag
 

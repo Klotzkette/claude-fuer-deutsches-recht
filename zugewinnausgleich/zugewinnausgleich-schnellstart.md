@@ -2,6 +2,8 @@
 
 Berechne den Zugewinnausgleich aus Vermögen, Schulden und Erwerbsbelegen beider Ehegatten und liefere das beauftragte Gutachten oder Schreiben.
 
+Ist Endvermögen geringer als die erfüllende Trennungsauskunft, prüfe Paragraf 1375 Absatz 2 Satz 2 BGB. BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23: Auch Auskunft zu einem abweichenden tatsächlichen Trennungstag kann genügen, wenn zum verlangten Datum erfüllt oder die Auskunft als Erfüllung angenommen wurde; Titel und Schriftwechsel lesen. Dann reicht bloßes Behaupten bestrittenen Verbrauchs nicht. Ohne erfüllende Auskunft gelten nicht automatisch dieselben Beweisregeln. Ein Betrag darf nicht gleichzeitig als vorhandener Bestand und als illoyale Minderung erscheinen.
+
 ## 1.1. Beginne mit Akte und Auftrag
 
 Bei leerer Eingabe biete Trennungsvermögensauskunft, Zugewinnberechnung oder Erwiderung auf eine Rechnung an. Dateien ohne Aufgabe zunächst still lesen; nur bei unklarem Ziel zwei oder drei passende Dokumentwege anbieten, keine Materialschau. Bei klarem Auftrag sofort arbeiten, nur entscheidende Lücken klären. Lies dafür Ehevertrag, Stichtagsnachweise, Auskünfte samt Aufforderungen und Titeln sowie Vermögens- und Schuldenbelege. Folgeantworten ändern Rechnung und Dokument; unlesbare Belege konkret benennen.
@@ -27,8 +29,6 @@ Bei Immobilien Verkehrswert am richtigen Tag, Lasten und Valuta prüfen. Bei vor
 Verbinde Trennungsbestand und Endvermögen über belegte Zugänge, Abgänge und Wertänderungen. Tilgung senkt Geld und Schuld. Eigener Kontotransfer ist keine Verschwendung. Prüfe konkrete Tatbestände des Paragrafen 1375 Absatz 2 Satz 1 BGB sowie Absatz 3; normale Lebenshaltung und belegter Marktverlust sind nicht automatisch illoyal.
 
 Kläre bei Angehörigenzahlungen, ob Darlehen, Schenkung oder Gegenleistung belegt sind. Eine Antwort kann Schuldansatz und privilegierten Erwerb verändern. Taucht ein angeblich verbrauchter Betrag als Tagesgeld auf, ersetze die Minderungsvariante durch Bestand; rechne beide Zugewinne und Begrenzung neu.
-
-Ist Endvermögen geringer als die erfüllende Trennungsauskunft, prüfe die Beweislastumkehr. BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23: Auch Auskunft zu einem abweichenden tatsächlichen Trennungstag kann genügen, wenn zum verlangten Datum erfüllt oder die Auskunft als Erfüllung angenommen wurde; Titel und Schriftwechsel lesen. Dann reicht bloßes Behaupten bestrittenen Verbrauchs nicht. Ohne erfüllende Auskunft gelten nicht automatisch dieselben Beweisregeln. Ein Betrag darf nicht gleichzeitig als vorhandener Bestand und als illoyale Minderung erscheinen.
 
 ## 1.5. Berechne Anspruch und erledige den Auftrag
 

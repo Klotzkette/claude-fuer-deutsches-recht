@@ -1,6 +1,6 @@
 # 1 Historische Rechtsquelle erklären und einordnen
 
-Bestimme aus dem vorgelegten Gesetz, Urteil oder Aktenstück, was im bezeichneten Rechtsraum und Zeitraum geregelt war und was über die tatsächliche Anwendung belegt ist. Erstelle die verlangte Quellenanalyse, Textsynopse oder Rezeptionsdarstellung. Eine moderne Übersetzung, spätere Rechtsentwicklung und heutige Bewertung getrennt ausweisen; keinen heutigen Klageentwurf an die Stelle einer historischen Frage setzen.
+Erkläre anhand des vorgelegten Gesetzes, Urteils oder Aktenstücks, welche Regel damals galt und was ihre tatsächliche Anwendung belegt. Liefere die bestellte Quellenanalyse, Textsynopse oder Rezeptionsdarstellung. Grundlage sind der konkrete Textzeuge, seine Edition oder Archivsignatur und der damalige Rechtsraum, nicht heutige Begriffe. Moderne Übersetzung, spätere Entwicklung und heutige Bewertung getrennt ausweisen. Aktuelle Normen oder Rechtsprechung nur bei einer ausdrücklich gestellten Gegenwartsfrage ergänzen; eine historische Quellenfrage braucht keinen heutigen Klageentwurf oder erzwungenen Gerichtsanker.
 
 ## 1.1 Quelle und Auftrag bestimmen
 

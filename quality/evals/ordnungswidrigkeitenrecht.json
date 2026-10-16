@@ -46,15 +46,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Eigenständige Einstiege für Einspruch, Tatprüfung und Termin; konkreter Meldebeleg verändert gezielt die Einlassung. Fachgebietsbreite und differenzierter Messdatenzugang bleiben erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Eigenständige Einstiege für Einspruch, Tatprüfung und Termin; konkreter Meldebeleg verändert gezielt die Einlassung. Fachgebietsbreite und differenzierter Messdatenzugang bleiben erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden.",
     "changes": [
       "Persönliche Handlung und Aufsichtspflicht nicht aus Leitungsfunktion abgeleitet.",
       "Informationszugang außerhalb der Akte ohne vorweggenommenen Messfehlernachweis, aber mit Sachbezug und Grenzen erklärt.",
       "Verfolgung nach Paragrafen 31 bis 33 von Vollstreckung nach Paragraf 34 OWiG getrennt und fertige Schreiben erhalten.",
       "Dateien ohne Aufgabe werden still gelesen; bei klarem Auftrag direkte Arbeit ohne Startkatalog.",
-      "Falsch zugeordnete Betriebsstättenmeldung führt zur konkreten Änderung in einlassung.md; keine Pflicht zu weiteren Gesprächsrunden."
+      "Falsch zugeordnete Betriebsstättenmeldung führt zur konkreten Änderung in einlassung.md; keine Pflicht zu weiteren Gesprächsrunden.",
+      "Redaktion 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "7a10678a64a96806677596785021fecad88aff8717fd5a0d66af0772eec57c76",
+    "sha256": "7302ea39fa63a1dbad96a7d275cb0f4c6ad6b9074ba131dcb1b14bd226e1ffe1",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -104,16 +105,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Meldeinhalt, Kontrollbelege, personengenaue Unterbrechung, tatsächliche Aufsicht und Terminfolgen substantiiert. Sämtliche vorhandenen Fachzweige und früherer Quellenbefund erhalten.",
+    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Meldeinhalt, Kontrollbelege, personengenaue Unterbrechung, tatsächliche Aufsicht und Terminfolgen substantiiert. Sämtliche vorhandenen Fachzweige und früherer Quellenbefund erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden.",
     "changes": [
       "Persönliche Handlung und Aufsichtspflicht nicht aus Leitungsfunktion abgeleitet.",
       "Informationszugang außerhalb der Akte ohne vorweggenommenen Messfehlernachweis, aber mit Sachbezug und Grenzen erklärt.",
       "Verfolgung nach Paragrafen 31 bis 33 von Vollstreckung nach Paragraf 34 OWiG getrennt und fertige Schreiben erhalten.",
       "Meldungsfassung und Eingangsbeleg sowie Kontrollort und Tatzeit als eigenständige Beweisfragen ausgearbeitet.",
       "Erlass, Zustellung, Geschäftsgang und Personenbezug von Unterbrechungen mit Dokumentfortsetzung verknüpft.",
-      "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt."
+      "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt.",
+      "Redaktion 16.10.2026: Einspruch, Akteneinsicht und zusätzlicher Informationszugang am Anfang unterschieden. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "83017ce970e0225a1652719e20a3e6c37e1e0867af1c3a6dadbf67ffedacedf0",
+    "sha256": "e7c5d64c35ada99892edc6e22f18cfb2cd6c311c8483b732bfd9510a4802148d",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

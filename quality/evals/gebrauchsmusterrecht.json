@@ -31,14 +31,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schonfrist wird nicht auf Wettbewerberveröffentlichung ausgedehnt; erfinderischer Schritt qualitativ statt als kleine Erfindung geprüft.",
+    "reason": "Schonfrist wird nicht auf Wettbewerberveröffentlichung ausgedehnt; erfinderischer Schritt qualitativ statt als kleine Erfindung geprüft. Einstiegsredaktion 16.10.2026: Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Demonstrationsschrank mit abweichendem Stand der Technik verbunden",
       "Verfahrensausschluss und Schutzbereich in den Kernablauf eingefügt",
       "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
-      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Einstiegsredaktion 16.10.2026: Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten."
     ],
-    "sha256": "d78064466c53d7dc0f6df430647255c52b574830a4a2aeccc99719647919a43d"
+    "sha256": "aea59f2af0a5cd3723468ac9d089cf4ab3b25aa31acc528f76cf915379d81c41"
   },
   "selection": {
     "positive": [
@@ -86,14 +87,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Anmeldung, Abzweigung, FTO, Löschung und Durchsetzung behalten ihre eigenständigen Anforderungen; geringerer Erfindungsmaßstab ausgeschlossen.",
+    "reason": "Anmeldung, Abzweigung, FTO, Löschung und Durchsetzung behalten ihre eigenständigen Anforderungen; geringerer Erfindungsmaßstab ausgeschlossen. Einstiegsredaktion 16.10.2026: Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Demonstrationsschrank mit abweichendem Stand der Technik verbunden",
       "Verfahrensausschluss und Schutzbereich in den Kernablauf eingefügt",
       "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
-      "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert."
+      "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert.",
+      "Einstiegsredaktion 16.10.2026: Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten."
     ],
-    "sha256": "a8b711b8aed2f5cc87537e27dea3bb0ee400c15ee745aabcddad7f2331a8a2ab"
+    "sha256": "bd593b465425df0e5b0d1bd64c78107a60409dc98d845669d47248cad1083e7c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -144,6 +146,42 @@
         "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
         "sha256": "568f22ac85ac913232b8d783c4d6e29c0ea8533f96891849e3fd95abdd045865"
+      }
+    ]
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Anspruchsvergleich und Ergebnis vorangestellt; Erfindungshöhe und besonderer Stand der Technik unterschieden, begrenzten Leitsatznachweis in Reviewdaten erhalten.",
+    "anchor_or_exception": "BGH, Beschluss vom 20.06.2006, X ZB 27/05; Paragrafen 2, 3, 12a GebrMG",
+    "source_status": "Bestand: amtliche Leitsätze indexiert, Volltext gesperrt; keine neue Prüfung.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "d78064466c53d7dc0f6df430647255c52b574830a4a2aeccc99719647919a43d",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "a8b711b8aed2f5cc87537e27dea3bb0ee400c15ee745aabcddad7f2331a8a2ab",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md",
+        "sha256": "aea59f2af0a5cd3723468ac9d089cf4ab3b25aa31acc528f76cf915379d81c41",
+        "characters": 7002,
+        "utf8_bytes": 7110
+      },
+      {
+        "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+        "sha256": "bd593b465425df0e5b0d1bd64c78107a60409dc98d845669d47248cad1083e7c",
+        "characters": 19426,
+        "utf8_bytes": 19703
       }
     ]
   }

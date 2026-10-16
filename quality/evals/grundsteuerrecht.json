@@ -36,14 +36,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuell durchgelesener Kurzprompt mit unverändertem fachlichem Bescheid- und Quellenumfang; eigenständige Einstiege und Antwortfortsetzung ergänzt. Aktuelle Prüfung ausschließlich desk_review, keine Live-Ausführung.",
+    "reason": "Individuell durchgelesener Kurzprompt mit unverändertem fachlichem Bescheid- und Quellenumfang; eigenständige Einstiege und Antwortfortsetzung ergänzt. Aktuelle Prüfung ausschließlich desk_review, keine Live-Ausführung. Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand."
     ],
-    "sha256": "21726e9b7270872aa82a18f616bd81719d33ecffb2915f48f06ff7647e1f9c3b"
+    "sha256": "c1f5055beaafe51d591fe273578ddf73e7fb53e85c986021c67375427aa50c83"
   },
   "selection": {
     "positive": [
@@ -91,14 +92,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Grundsteuerwege bleiben erhalten; Richtwertangriff, niedrigerer gemeiner Wert, historisches Eilverfahren und Baden-Württemberg werden rechtlich getrennt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest.",
+    "reason": "Alle Grundsteuerwege bleiben erhalten; Richtwertangriff, niedrigerer gemeiner Wert, historisches Eilverfahren und Baden-Württemberg werden rechtlich getrennt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
-      "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag."
+      "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
+      "Einstiegsredaktion 16.10.2026: Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand."
     ],
-    "sha256": "15c01429aa9f81d91515ee438ebe9dc1926a73a0c5aa66916a609dca38460f33"
+    "sha256": "b3c0f598412b30f3adf0ee7a58e235d7439c12534289faa2dbc2f137b9d28f74"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -177,5 +179,41 @@
     "continuation": "Teilungserklärung -> betroffenen Flächenansatz und Antrag; Aussetzungsbeschluss -> Zahlungsabschnitt; Zugang -> konkrete Frist ändern.",
     "enrichment": "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Mini: vorhandenen vollständigen Bodenrichtwertanker unverändert nach vorn verschoben, ohne Hauptteil zu kürzen; Werkstatt verbindet Bescheidstufe mit konkretem Lageeinwand.",
+    "anchor_or_exception": "BFH, Urteil vom 12.11.2025, II R 3/25; Paragraf 351 Absatz 2 AO, Paragraf 247 BewG, Paragraf 196 BauGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "21726e9b7270872aa82a18f616bd81719d33ecffb2915f48f06ff7647e1f9c3b",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "15c01429aa9f81d91515ee438ebe9dc1926a73a0c5aa66916a609dca38460f33",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "grundsteuerrecht/grundsteuerrecht-werkstatt.md",
+        "sha256": "b3c0f598412b30f3adf0ee7a58e235d7439c12534289faa2dbc2f137b9d28f74",
+        "characters": 36904,
+        "utf8_bytes": 37470
+      },
+      {
+        "path": "grundsteuerrecht/grundsteuerrecht-schnellstart.md",
+        "sha256": "c1f5055beaafe51d591fe273578ddf73e7fb53e85c986021c67375427aa50c83",
+        "characters": 7377,
+        "utf8_bytes": 7479
+      }
+    ]
   }
 }

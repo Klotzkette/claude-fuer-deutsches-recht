@@ -2,13 +2,13 @@
 
 Prüfe Unterlassung und gemeinsame Zahlungs-/Feststellungsklage. Vergleiche Vertragsfassungen und Zahlungsbelege, grenze Anspruchsgruppen ab und schreibe die bestellte Abmahnung oder Klage. Derselbe Anbieter allein verbindet keine unterschiedlichen Ansprüche.
 
+Für datenschutzbezogene Unterlassung: [EuGH, Urteil vom 11. Juli 2024, C-757/22, Rn. 40–44 und 61–65](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757) erfasst auch verletzte Informationsrechte über Zweck und Empfänger einer Datenverarbeitung nach Artikeln 12, 13 und 80 Absatz 2 der Verordnung (EU) 2016/679. Eine konkrete Verarbeitung und mögliche Rechtsbetroffenheit müssen vorgetragen werden. Das ersetzt weder die Verbandsqualifikation noch einen Schadensnachweis für Zahlungsansprüche; keine Übertragung auf jede Abhilfeklage.
+
 ## 1.1. Verband und Ziel
 
 Ohne Eingabe biete „Unterlassungsabmahnung“, „Entscheidungsvorlage zur Abhilfegruppe“ oder „Verbraucherinformation zum Verfahren“ an. Bei Dateien ohne Auftrag lies Qualifikationsnachweis, Klauseln und Beschwerden zunächst still; nur bei offenem Ziel biete zwei oder drei passende Dokumentwege an, keinen Materialbericht. Bei klarem Auftrag arbeite sofort und frage nur nach entscheidenden Lücken. Prüfe repräsentative Fälle und Abweichungen, kennzeichne Stichproben als solche. Folgeantworten ändern konkrete Gruppe, Berechnung oder Antrag ohne feste Fragerunden.
 
 Prüfe die Verbandsqualifikation nach Paragrafen 3 und 4 UKlaG, bei Wettbewerbsverstößen Paragraf 8 Absatz 3 UWG und bei Abhilfe oder Musterfeststellung Paragrafen 2 und 4 VDuG. Finanzierung und Interessenkonflikte gesondert erfassen. Unterlassung beendet eine beanstandete Praxis, Musterfeststellung klärt gemeinsame Voraussetzungen, Abhilfe zielt auf Leistung. Ein Unterlassungsurteil erledigt nicht automatisch individuelle Rückzahlungen. Mögliche Betroffenheit, Beschwerde und wirksame Registeranmeldung unterscheiden.
-
-Für datenschutzbezogene Unterlassung: [EuGH, Urteil vom 11. Juli 2024, C-757/22, Rn. 40–44 und 61–65](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757) erfasst auch verletzte Informationsrechte über Zweck und Empfänger einer Datenverarbeitung nach Artikeln 12, 13 und 80 Absatz 2 der Verordnung (EU) 2016/679. Eine konkrete Verarbeitung und mögliche Rechtsbetroffenheit müssen vorgetragen werden. Das ersetzt weder die Verbandsqualifikation noch einen Schadensnachweis für Zahlungsansprüche; keine Übertragung auf jede Abhilfeklage.
 
 ## 1.2. Anspruchsgruppen statt Beschwerdezähler
 
@@ -20,7 +20,7 @@ Das [Verbraucherquorum nach Paragraf 4 VDuG](https://www.gesetze-im-internet.de/
 
 ## 1.3. Betrag und Beweis
 
-Widerrufsfunktion (§ 356a BGB) und Kündigungsbutton (§ 312k BGB) trennen. Erklärungsstufen, Daten und Bestätigung sichern; Vertrags-/Oberflächenfassung bestimmen den Unterlassungsantrag.
+Widerrufsfunktion (Paragraf 356a BGB) und Kündigungsbutton (Paragraf 312k BGB) trennen. Erklärungsstufen, Daten und Bestätigung sichern; Vertrags-/Oberflächenfassung bestimmen den Unterlassungsantrag.
 
 [BGH, 16.07.2026 – I ZR 200/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1), Rn. 16–36: Auf der Bestätigungsseite des Kündigungsbuttons keine Rückgewinnungs-/Pausenangebote. Beide Seiten sichern; Angebote vor dem ersten Klick gesondert prüfen. Kein automatisch bestimmter individueller Vertragsendtermin.
 

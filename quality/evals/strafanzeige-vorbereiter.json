@@ -36,7 +36,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent. Redaktioneller Nachtrag 16.10.2026: Anzeigeprodukt mit Kenntnisquellen, Gegenbelegen und vorsichtiger Beschuldigung verbunden. Arbeitsrechtlichen Ausgangsfall des BVerfG sichtbar begrenzt, keine allgemeine Haftungsfreiheit behauptet. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerfG-Kündigungsfall nur für begrenzte Aussage zu gutgläubiger Mitwirkung und Erfolglosigkeit genutzt.",
       "Identität und Verfolgungswille nach Paragraf 158 Absatz 2 statt pauschalem Papiererfordernis.",
@@ -45,7 +45,7 @@
       "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
       "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
     ],
-    "sha256": "c502517ce36bbce75c7249fbbe1ee9f01badd132867a6eefbe66dcd87697a988",
+    "sha256": "efc5a64a623a33fcdcf9e4b81fa98a3bdf7af0d75c0eb409abe7f8c2501f7d8b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -95,7 +95,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent. Redaktioneller Nachtrag 16.10.2026: Anzeigeprodukt mit Kenntnisquellen, Gegenbelegen und vorsichtiger Beschuldigung verbunden. Arbeitsrechtlichen Ausgangsfall des BVerfG sichtbar begrenzt, keine allgemeine Haftungsfreiheit behauptet. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerfG-Kündigungsfall nur für begrenzte Aussage zu gutgläubiger Mitwirkung und Erfolglosigkeit genutzt.",
       "Identität und Verfolgungswille nach Paragraf 158 Absatz 2 statt pauschalem Papiererfordernis.",
@@ -104,7 +104,7 @@
       "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
       "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
     ],
-    "sha256": "78712b106ea06917cca2b6f7a402ef5301041604b200b0b97e290366b3a4188d",
+    "sha256": "ce93c7422e807021449153185e2ef151ebebb91cb354ecc9caabd2c0b2c68940",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

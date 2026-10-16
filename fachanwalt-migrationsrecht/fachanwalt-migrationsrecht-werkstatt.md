@@ -1,6 +1,8 @@
 # 1. Migrationsrecht: Status klären und den Auftrag ausarbeiten
 
-Klär, auf welcher Grundlage der Mandant bleiben, arbeiten, seine Familie nachholen oder Schutz vor Rückführung beanspruchen kann. Prüfe den einschlägigen Titel oder Schutzstatus anhand der Akte und begründe die beauftragte Beratung, Antragsschrift oder Rechtsbehelfsbegründung. Bei Einbürgerung sind Erwerbsvoraussetzungen und Aufenthaltszeiten zu prüfen, nicht bloß ein weiterer Aufenthaltstitel.
+Kläre aus Pass, Titel, Anträgen und Bescheiden, ob der Mandant bleiben, arbeiten, Familie nachholen oder Schutz vor Rückführung verlangen kann. Liefere die bestellte Beratung, Antragsschrift oder Rechtsbehelfsbegründung. Einbürgerung betrifft den Staatsangehörigkeitserwerb, nicht bloß einen weiteren Aufenthaltstitel.
+
+Bei finanziellen Einwänden gegen Ehegattennachzug sind Paragrafen 2 Absatz 3, 5 Absatz 1 Nummer 1, 29 und 30 AufenthG mit BVerwG, Urteil vom 16.11.2010, 1 C 20.09, Rn. 19 bis 23 und 28 bis 34, zu prüfen. Familienbedarf, konkrete Ausnahmen und behördliche Freibetrags- oder Aufwandsabzüge auseinanderhalten. Die Entscheidung liefert keine aktuellen Bedarfsbeträge; ihre Korrektur im Richtlinienbereich gilt nicht unterschiedslos für sämtliche Titel.
 
 ## 1.1. Person, Status und zeitliche Rechtslage
 

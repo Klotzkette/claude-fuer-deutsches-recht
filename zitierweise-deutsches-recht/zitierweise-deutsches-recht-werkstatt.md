@@ -2,6 +2,8 @@
 
 Prüfe zu jeder rechtlichen Aussage, ob die angegebene Norm oder Entscheidung sie tatsächlich trägt und ob der Nachweis die maßgebliche Fassung auffindbar macht. Trenne falsche Metadaten, unpassenden Aussagebezug und bloße Stilabweichungen. Liefere den korrigierten Text; ergänze keine Fundstelle nur deshalb, weil das Zitat dadurch vollständiger aussieht.
 
+EuGH, Urteil vom 29.07.2019, [C-516/17, Spiegel Online](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516), Randnummern 78 bis 83 und 89: Eine geschützte Passage muss für den Zitatzweck mit der eigenen Auseinandersetzung verbunden sein; Umfang und rechtmäßige vorherige Veröffentlichung gesondert prüfen. Bei übernommenen Kommentarseiten deshalb nicht nur die Fußnote ergänzen, sondern fragen, welche eigene Aussage die Passage belegt und wie viel davon erforderlich ist. Amtliche Entscheidungen und amtlich verfasste Leitsätze nach Paragraf 5 Absatz 1 UrhG von geschützten redaktionellen Zusätzen unterscheiden. Die Entscheidung legt keinen verbindlichen deutschen Fußnotenstil fest.
+
 ## 1.1. Prüfauftrag und Textgrundlage
 
 Bei leerer Eingabe biete drei Wege an: Fußnoten eines Schriftsatzes berichtigen, Belege eines Gutachtens auf Aussagekraft prüfen oder einen historischen Literaturapparat vereinheitlichen. Dateien ohne Auftrag zunächst still lesen; nur wenn das Ziel danach offen ist, zwei oder drei zum Material passende Bearbeitungen anbieten. Keine ungefragte Quelleninventur ausgeben. Bei klarem Auftrag sofort die beauftragte Korrektur beginnen und nur entscheidende Unklarheiten erfragen. Nach einer Antwort die betroffene Textstelle einschließlich aller abhängigen Mehrfachzitate ändern.
@@ -47,8 +49,6 @@ Verwende innerhalb des Dokuments dieselbe Schreibweise: vierstellige Jahreszahle
 Die Hauszitierweise ist eine Dokumentkonvention, keine allgemeine Rechtsnorm. Wissenschaftliche Vorgaben können ausführlichere Angaben verlangen; eine begründete Vorgabe durchgängig umsetzen. Wörtliche Zitate einschließlich erkennbarer Auslassungen und Ergänzungen vom eigenen Text trennen und nicht durch sprachliche Glättung verändern.
 
 Bei umfangreicher Fremdtextübernahme sind Paragrafen 2 Absatz 1 Nummer 1, 51, 63 und gegebenenfalls 97 UrhG sachbezogen zu prüfen; eine korrekte Quellenangabe macht nicht jede Übernahme zulässig. Artikel 5 Absatz 3 Satz 1 GG ist kein pauschaler Zitierfreibrief. In gerichtlichen Texten können Paragrafen 138, 139, 253, 286 und 313 Absatz 3 ZPO den Tatsachenvortrag oder die Begründung betreffen, begründen aber keinen universellen Zitierstil.
-
-EuGH, Urteil vom 29.07.2019, [C-516/17, Spiegel Online](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62017CJ0516), Randnummern 78 bis 83 und 89: Eine geschützte Passage muss für den Zitatzweck mit der eigenen Auseinandersetzung verbunden sein; Umfang und rechtmäßige vorherige Veröffentlichung gesondert prüfen. Bei übernommenen Kommentarseiten deshalb nicht nur die Fußnote ergänzen, sondern fragen, welche eigene Aussage die Passage belegt und wie viel davon erforderlich ist. Amtliche Entscheidungen und amtlich verfasste Leitsätze nach Paragraf 5 Absatz 1 UrhG von geschützten redaktionellen Zusätzen unterscheiden. Die Entscheidung legt keinen verbindlichen deutschen Fußnotenstil fest.
 
 Artikel 20 Absatz 3 GG sowie Paragrafen 133 und 157 BGB werden nur herangezogen, wenn die zu prüfende Aussage diese Maßstäbe tatsächlich benötigt. Sie sind keine Pflichtbelege für jede Fußnotenkorrektur. Rechtliche Tragfähigkeit und typografische Einheitlichkeit getrennt beurteilen.
 

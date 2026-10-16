@@ -33,12 +33,38 @@
       "target_skill": "grundstuecksrecherche-starten",
       "request": "Starten Sie die Grundstücksrecherche. Eine Stadt wurde noch nicht angegeben. In dieser Arbeitsumgebung sind weder Codeausführung noch Browserzugriff verfügbar. Erläutern Sie den konkreten lokalen Startweg, ohne einen laufenden Server oder eine eingebettete App zu behaupten.",
       "input_files": [],
-      "deliverables": ["startvermerk.md"],
+      "deliverables": [
+        "startvermerk.md"
+      ],
       "criteria": [
-        {"id": "stadt", "text": "Fragt nach der Stadt, ohne Münster oder eine andere Stadt vorauszuwählen.", "deliverables": ["startvermerk.md"]},
-        {"id": "grenze", "text": "Benennt die fehlenden Werkzeuge und behauptet weder Serverstart noch native Einbettung.", "deliverables": ["startvermerk.md"]},
-        {"id": "lokal", "text": "Nennt virtuelle Umgebung, app/requirements.txt und python3 app/server.py --port 8765 mit lokaler Browseradresse.", "deliverables": ["startvermerk.md"]},
-        {"id": "website", "text": "Bietet zusätzlich das Website-ZIP zum Entpacken und Öffnen von index.html an, ohne bei fehlender Ausführung eine bereits erzeugte Datei zu behaupten; grenzt Online-Karten von lokalem Dokumentenexport ab.", "deliverables": ["startvermerk.md"]}
+        {
+          "id": "stadt",
+          "text": "Fragt nach der Stadt, ohne Münster oder eine andere Stadt vorauszuwählen.",
+          "deliverables": [
+            "startvermerk.md"
+          ]
+        },
+        {
+          "id": "grenze",
+          "text": "Benennt die fehlenden Werkzeuge und behauptet weder Serverstart noch native Einbettung.",
+          "deliverables": [
+            "startvermerk.md"
+          ]
+        },
+        {
+          "id": "lokal",
+          "text": "Nennt virtuelle Umgebung, app/requirements.txt und python3 app/server.py --port 8765 mit lokaler Browseradresse.",
+          "deliverables": [
+            "startvermerk.md"
+          ]
+        },
+        {
+          "id": "website",
+          "text": "Bietet zusätzlich das Website-ZIP zum Entpacken und Öffnen von index.html an, ohne bei fehlender Ausführung eine bereits erzeugte Datei zu behaupten; grenzt Online-Karten von lokalem Dokumentenexport ab.",
+          "deliverables": [
+            "startvermerk.md"
+          ]
+        }
       ]
     },
     {
@@ -46,12 +72,46 @@
       "target_skill": "auskunftsentwuerfe-vorbereiten",
       "request": "Zu einem Grundstück in Leipzig liegen nur manuell abgeschriebene Flurstücksangaben vor. Der Kartenabruf ist ausgefallen, ein Eigentümernachweis fehlt. Die Empfänger sind noch nicht bestätigt und es besteht keine Versandfreigabe. Halten Sie fest, welche Angaben vor vier Auskunftsentwürfen zu klären sind; führen Sie keine fremde NRW-Bestätigung an.",
       "input_files": [],
-      "deliverables": ["pruefvermerk.md"],
+      "deliverables": [
+        "pruefvermerk.md"
+      ],
       "criteria": [
-        {"id": "herkunft", "text": "Hält manuelle Angaben ungeprüft und behauptet keine erfolgreichen Katasterabfragen.", "deliverables": ["pruefvermerk.md"]},
-        {"id": "nachweise", "text": "Trennt fehlenden Eigentumsnachweis, konkretes Interesse, Vollmacht und noch zu bestätigende Empfänger.", "deliverables": ["pruefvermerk.md"]},
-        {"id": "entwurf", "text": "Ordnet vier empfängerbezogene Entwürfe zu und veranlasst weder Versand noch parallele Beauftragung; keine nur behaupteten Dateien.", "deliverables": ["pruefvermerk.md"]}
+        {
+          "id": "herkunft",
+          "text": "Hält manuelle Angaben ungeprüft und behauptet keine erfolgreichen Katasterabfragen.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "nachweise",
+          "text": "Trennt fehlenden Eigentumsnachweis, konkretes Interesse, Vollmacht und noch zu bestätigende Empfänger.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        },
+        {
+          "id": "entwurf",
+          "text": "Ordnet vier empfängerbezogene Entwürfe zu und veranlasst weder Versand noch parallele Beauftragung; keine nur behaupteten Dateien.",
+          "deliverables": [
+            "pruefvermerk.md"
+          ]
+        }
       ]
     }
-  ]
+  ],
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "exempt",
+    "method": "inventory_review",
+    "scope": "Dateiinventar und bestehende ausdrückliche Begleitprompt-Ausnahme geprüft; keine Prompts oder Prompt-Hashes erzeugt.",
+    "finding": "Marketplace-Quellverzeichnis vollständig auf Begleitprompts geprüft; keine Werkstatt-/Schnellstartdatei vorhanden. Prüfprofil bestätigt ausdrücklich den Betrieb ohne Begleitprompts. Keine neuen Prompts oder Review-Hashes erfunden.",
+    "anchor_or_exception": "Ausnahme: App-/Skill-Angebot ohne Begleitprompts",
+    "source_status": "Dateiinventar und vorhandenes Prüfprofil gelesen; keine fachliche oder Laufzeitprüfung.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {},
+    "files": []
+  }
 }

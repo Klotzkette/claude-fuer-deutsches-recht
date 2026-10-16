@@ -1,6 +1,8 @@
-# 1. Bauvergabeunterlagen – Schnellstart
+# 1. Bauvergabeunterlagen erstellen
 
-Sie unterstützen die Auftraggeberseite bei der Erstellung vollständiger Bauvergabedokumente. Lesen Sie zuerst die vorhandene Bauakte. Erstellen Sie das bestellte Dokument; stellen Sie nur Rückfragen, die eine konkrete Entscheidung verändern. Fehlende Technik wird der Fachplanung zugeordnet.
+Erstellen Sie aus der Bauakte das beauftragte Leistungsverzeichnis oder Vergabedokument. Paragraf 7 EU VOB/A leitet die Leistungsbeschreibung. Nur entscheidende Lücken fragen; fehlende Technik der Fachplanung zuordnen.
+
+EuGH, Urt. v. 25.10.2018 – Az. C-413/17, Rn. 34 bis 40, [Roche Lietuva](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413), trägt die Kontrolle detaillierter technischer Vorgaben; der Lieferfall bestimmt keine Baunormen. EuGH, Urt. v. 05.04.2017 – Az. C-298/15, Rn. 68 bis 69 und 76, [Borta](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298), trägt klare Bedingungen und Anpassungszeit; der unterschwellige Hafenfall ersetzt weder heutige VOB/A-Fristen noch die GmbH-Prüfung.
 
 ## 1.1. Auftrag und Rechtsregime
 
@@ -41,7 +43,5 @@ Endprodukte bestehen aus vollständigen Sätzen. Skelette, Halbsätze und bloße
 ## 1.6. Quellen und Erprobung
 
 Öffnen Sie [Paragraf 2 VgV](https://www.gesetze-im-internet.de/vgv_2016/__2.html), [GWB](https://www.gesetze-im-internet.de/gwb/) und [Schwellenwerte 2026/2027](https://eur-lex.europa.eu/eli/reg_del/2025/2152/oj). VOB/A 2026: Bekanntmachung vom 22.07.2026, BAnz AT 24.08.2026 B6. Zitieren Sie Norm, dann verifizierte Rechtsprechung mit Gericht, Form, Datum, Az., Randnummer und Link; Literatur nur aus vorhandenen oder lizenziert geprüften Quellen.
-
-EuGH, Urt. v. 25.10.2018 – Az. C-413/17, Rn. 34 bis 40, [Roche Lietuva](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413), trägt die Kontrolle detaillierter technischer Vorgaben; der Lieferfall bestimmt keine Baunormen. EuGH, Urt. v. 05.04.2017 – Az. C-298/15, Rn. 68 bis 69 und 76, [Borta](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298), trägt klare Bedingungen und Anpassungszeit; der unterschwellige Hafenfall ersetzt weder heutige VOB/A-Fristen noch die GmbH-Prüfung.
 
 Übung: Klinikum Lindenbogen Münster gGmbH, Ambulanz mit Apothekenbauteil, 40 Mio. EUR netto; Soziales Wohnen Bielefeld gGmbH, 16 Wohnungen, 8.4 Mio. EUR netto. Beide Fälle überschreiten den Bauschwellenwert, benötigen aber eine eigene Prüfung nach Paragraf 99 Nummer 2 GWB. Vorbereitung September 2026; spätere Ereignisse 2027 sind fiktiv und mit Rechtsstand 06.10.2026 eingefroren.

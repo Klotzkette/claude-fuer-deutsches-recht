@@ -1,5 +1,7 @@
 # 1. Römischen Quellentext oder Fall erschließen
 
+Erschließe den Text und schreibe die bestellte Exegese, historische Falllösung oder den Rezeptionsvergleich. Bei aquilischer Haftung ist D. 9.2.11 pr., der Barbierfall bei Ulpian, eine konkrete Quellenbasis: Zurechnungsansätze auseinanderhalten, keine moderne Mitverschuldensquote hineinlesen. Es handelt sich um einen überlieferten Juristentext, nicht um ein Gerichtsurteil. Die vorhandene digitale Transkription ist keine Handschriftenkollation; heutige Rechtsprechung wird für die antike Falllösung nicht erzwungen.
+
 Ohne Eingabe biete „Fragmentexegese“, „historische Falllösung“ oder „Rezeptionsvergleich“ an. Bei bloßen Textdateien lies diese still und frage nach diesem Ziel, nicht erneut nach sichtbarer Fundstelle. Ein klarer Auftrag führt direkt zur Darstellung; kein ungefragter Quellenkatalog. Folgeantworten verändern Übersetzung, zeitliche Einordnung oder Aktionsprüfung. Keine Plugin-Dateien voraussetzen.
 
 Prüfe am vorgelegten römischen Text die betreffende actio, ihre Voraussetzungen und eine mögliche exceptio. Ordne Personenstatus, Gegenstand und Rechtsgeschäft der belegten Epoche zu. Schreibe daraus die bestellte Exegese oder Falllösung; eine moderne Anspruchsnorm ist kein Ersatz für die antike Quelle.

@@ -2,6 +2,8 @@
 
 Prüfe, welchen Versorgungsumfang der Standort rechtlich beanspruchen kann, welche Investitionsmittel tatsächlich bewilligt sind oder welche konkrete Budget- und Vergütungsposition streitig ist. Gleiche Planbescheid, Vertragsgrundlage, Jahr und Leistungsnachweise ab und formuliere das beauftragte Gutachten, Schreiben oder Verhandlungsdokument. Eine Beratung verlangt kein ungefragtes Gerichtsverfahren.
 
+Für die Planaufnahme ist Paragraf 8 KHG eigenständig neben dem Versorgungsvertrag nach Paragraf 109 SGB V anzuwenden. BVerwG, Urteil vom 14.04.2011, Az. 3 C 17.10, Rn. 12 bis 23, begründet keine automatische Bindung der Planung an den Vertrag. Prüfe den eigenen Aufnahmeanspruch; aus dem unten belegten Fall folgen weder heutige Leistungsgruppen noch eine konkrete Förderhöhe.
+
 ## 1.1. Auftrag, Einrichtung und Fristen
 
 Ohne Angaben biete nur die Auswahl „Planungsentscheidung, Baufinanzierung oder Budget-/Abrechnungsstreit“ an. Bei Unterlagen ohne Auftrag lies sie zunächst still und kläre ausschließlich das gewünschte Ergebnis. Bei klarem Auftrag beginne direkt mit dem bestellten Entwurf oder der Prüfung und frage nur nach entscheidenden fehlenden Angaben. Keine ungefragte Zusammenfassung der Klinikakte und keine vorgeschalteten Pflichtdialoge.

@@ -36,27 +36,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Entscheidungsgrundlage und Aktualisierungspflicht früh vom Sachrecht und vorgeschriebener Memoform abgegrenzt.",
     "changes": [
       "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Entscheidungsgrundlage und Aktualisierungspflicht früh vom Sachrecht und vorgeschriebener Memoform abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "301059dd6a97f71e591bff6ea2eb4079566071ea34eda8ef2df75714800f3a0f",
+    "sha256": "2ff7ae8b6b64bb3b8daa8574d561326bf8c281f62b536ea38b2a500bd9761aa7",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktionelle Einstiegslektüre am 16.10.2026: Entscheidungsgrundlage und Aktualisierungspflicht früh vom Sachrecht und vorgeschriebener Memoform abgegrenzt.",
     "changes": [
       "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Vertragsfassung und Tatsachenbeleg unterscheiden; abhängige Fragen und konkrete Gegenbelege in Kurzantwort und Empfehlung übersetzen.",
       "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "Redaktion 16.10.2026: Entscheidungsgrundlage und Aktualisierungspflicht früh vom Sachrecht und vorgeschriebener Memoform abgegrenzt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "37bdad927c20cd1c8411a768a373fa4b85fce804e1484bd42494f4ac00cf3ef9",
+    "sha256": "9a58db54d43ec3a8b3e90879354ae5255c48b8979a71c3e0738d78b78f156357",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

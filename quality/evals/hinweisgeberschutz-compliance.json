@@ -106,27 +106,29 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Den Kernfall einer laufenden internen Untersuchung mit korrektem Fristbeginn, beschränkter Rückmeldung und tatsächlich verwendbarem Beispielsatz neu gefasst. Schutz nach Paragraf 33 und Beweislast nach Paragraf 36 werden nicht durch bloße Meldung oder zeitliche Nähe ersetzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Den Kernfall einer laufenden internen Untersuchung mit korrektem Fristbeginn, beschränkter Rückmeldung und tatsächlich verwendbarem Beispielsatz neu gefasst. Schutz nach Paragraf 33 und Beweislast nach Paragraf 36 werden nicht durch bloße Meldung oder zeitliche Nähe ersetzt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Fristbeispiel Eingang 1. Juni/Bestätigung 3. Juni/Rückmeldung 3. September, kein Warten auf späteres Interview.",
       "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
       "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
       "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt."
     ],
-    "sha256": "304165608d6650e209d2e31c53cb11335075db857750f5d51b9deefcf73459f8"
+    "sha256": "3f4f9fd71d3f9f09802d7fe90994447039a28fa0dea0e146c173a5bae641411f"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige individuelle Neufassung statt wiederholter Arbeitsprodukt- und Normtabellen; alle zwölf vorhandenen Fachzweige erhalten und um genaue Geheimnisgrenzen, externe Verfahrensabweichung, Rechtsfolgen und gezielten Tatsachenbedarf ausgearbeitet. Die Klausel zur nur entwurfsweisen endgültigen Rechtsentscheidung entfernt; fundierter Rat bleibt Endprodukt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Vollständige individuelle Neufassung statt wiederholter Arbeitsprodukt- und Normtabellen; alle zwölf vorhandenen Fachzweige erhalten und um genaue Geheimnisgrenzen, externe Verfahrensabweichung, Rechtsfolgen und gezielten Tatsachenbedarf ausgearbeitet. Die Klausel zur nur entwurfsweisen endgültigen Rechtsentscheidung entfernt; fundierter Rat bleibt Endprodukt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Fristbeispiel Eingang 1. Juni/Bestätigung 3. Juni/Rückmeldung 3. September, kein Warten auf späteres Interview.",
       "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
       "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
       "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
-      "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss."
+      "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss.",
+      "Einstiegsredaktion 16.10.2026: Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt."
     ],
-    "sha256": "b2b20575d198b1358b9053f15b839b2135172bc05ac992fb4541d043c2992f73"
+    "sha256": "4f3e73552c6d0dfe852225780b127826fc401ed7d961efb5ee4d2c260cda32bf"
   },
   "selection": {
     "positive": [
@@ -215,5 +217,41 @@
     "continuation": "Interviewstand -> zulässigen Rückmeldungstext; Behördenverlangen -> Übermittlungsgrundlage; frühere Leistungsbewertung -> Gegenbeweis bei Repressalie ändern.",
     "enrichment": "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Rückmeldung und Repressalienprüfung verbunden; historischer Zeugenaussageschutz nicht mit heutigen HinSchG-Voraussetzungen oder Presseoffenlegung gleichgesetzt.",
+    "anchor_or_exception": "BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00; Paragrafen 17, 33, 36 HinSchG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "304165608d6650e209d2e31c53cb11335075db857750f5d51b9deefcf73459f8",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "b2b20575d198b1358b9053f15b839b2135172bc05ac992fb4541d043c2992f73",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md",
+        "sha256": "4f3e73552c6d0dfe852225780b127826fc401ed7d961efb5ee4d2c260cda32bf",
+        "characters": 22626,
+        "utf8_bytes": 23025
+      },
+      {
+        "path": "hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-schnellstart.md",
+        "sha256": "3f4f9fd71d3f9f09802d7fe90994447039a28fa0dea0e146c173a5bae641411f",
+        "characters": 7102,
+        "utf8_bytes": 7221
+      }
+    ]
   }
 }

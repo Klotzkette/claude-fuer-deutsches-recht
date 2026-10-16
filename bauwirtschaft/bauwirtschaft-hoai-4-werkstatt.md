@@ -1,6 +1,10 @@
-# 1. HOAI Leistungsphase 4 Gebäude: Bauantrag, Nachforderung und Abweichung bearbeiten
+# 1. HOAI-Leistungsphase 4: Bauantrag, Nachforderung und Abweichung bearbeiten
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt. Quellenbezogener Redaktionsstand: 25.09.2026. Bearbeiten Sie mit mir die Genehmigungsplanung meines Gebäudes bis zum konkret beauftragten Antrags- oder Nachreichungspaket. Nutzen Sie vorhandene Unterlagen zuerst. Wenn Rolle und Auftrag klar sind, beginnen Sie mit dem Arbeitsprodukt; erläutern Sie nur die dafür nötigen Entscheidungen. Stellen Sie keine vollständige neue Projektaufnahme vor jede Antwort.
+Erstellen Sie das konkret beauftragte Antrags- oder Nachreichungspaket für das Gebäude. Ausgangspunkt sind eingereichter Plansatz, Behördenforderung und Vertrag; eine Antwort muss erkennen lassen, welche Unterlagen beigefügt sind und was noch fehlt.
+
+Paragraf 650p BGB bestimmt die vereinbarten Planungsziele, Anlage 10 Nummer 10.1 HOAI beschreibt die Genehmigungsplanung. Bauordnungsrecht und Verfahrensanforderungen sind nach Standort gesondert zu bestimmen; eine HOAI-Zuordnung ersetzt keine Genehmigung. Für die Zusammenstellung des Antrags ist kein allgemeines Urteil erforderlich. Rechtsschutz oder streitige Abweichung verlangt einen eigenen, sachverhaltsbezogenen Quellenabgleich.
+
+Lesen Sie vorhandene Unterlagen zuerst und beginnen Sie bei klarem Auftrag mit dem Arbeitsprodukt. Nur entscheidende Lücken erfragen, keine vollständige neue Projektaufnahme. Autor: Klotzkette. Vorhandener quellenbezogener Redaktionsstand: 25.09.2026.
 
 ## 1.1. Einstieg in den vorliegenden Stand
 

@@ -21,25 +21,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der vollständig gelesene Mini trennt Kaufpreisabwicklung, Eigentum und Grundschuldablöse und prüft bekannte Sanierungslasten mit der tatsächlichen Offenlegung im Datenraum; Musterbindung und Mieterantwort bleiben erhalten.",
+    "reason": "Der vollständig gelesene Mini trennt Kaufpreisabwicklung, Eigentum und Grundschuldablöse und prüft bekannte Sanierungslasten mit der tatsächlichen Offenlegung im Datenraum; Musterbindung und Mieterantwort bleiben erhalten. Einstiegsredaktion 16.10.2026: Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "V ZR 77/22 mit Uploadzeit, Hinweis, Prüfungsumfang, Rechtsfolge und Grenzen in beide Prompts eingearbeitet.",
       "WEG-Nachschuss von Mieterkosten getrennt; Zahlung, Vormerkung und Eigentumswechsel sowie nominale Grundschuld und Ablöse rechnerisch auseinandergehalten.",
       "Alle bisherigen zwölf Sachthemen einschließlich AVV, Sachverhaltsermittlung und geschützter Muster erhalten; Doppelvorspann und interne Standardraster entfernt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt."
     ],
-    "sha256": "1d1739630312dc119bfac695e2878598963d6a3b849e1296f735740450f344e7"
+    "sha256": "7be82c23a8634e457fa7551060ec5543aa03fab8a4afd316ec6e552597dace58"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die vollständig gelesene Werkstatt ersetzte wiederholte abstrakte Grundbuchtabellen und einen falschen Entwurfsvorbehalt durch zwölf sachbezogene Arbeitsfelder einschließlich Mustervertrag, Abrechnung, Projektarbeit und interner Vertragsprüfung.",
+    "reason": "Die vollständig gelesene Werkstatt ersetzte wiederholte abstrakte Grundbuchtabellen und einen falschen Entwurfsvorbehalt durch zwölf sachbezogene Arbeitsfelder einschließlich Mustervertrag, Abrechnung, Projektarbeit und interner Vertragsprüfung. Einstiegsredaktion 16.10.2026: Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "V ZR 77/22 mit Uploadzeit, Hinweis, Prüfungsumfang, Rechtsfolge und Grenzen in beide Prompts eingearbeitet.",
       "WEG-Nachschuss von Mieterkosten getrennt; Zahlung, Vormerkung und Eigentumswechsel sowie nominale Grundschuld und Ablöse rechnerisch auseinandergehalten.",
       "Alle bisherigen zwölf Sachthemen einschließlich AVV, Sachverhaltsermittlung und geschützter Muster erhalten; Doppelvorspann und interne Standardraster entfernt.",
-      "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln."
+      "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln.",
+      "Einstiegsredaktion 16.10.2026: Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt."
     ],
-    "sha256": "d3671a310468362152996813fd5d8f31a91ae932541dbd41b77bb76e37547854"
+    "sha256": "816d5c9853c15d2f3a3558b3f438da7697b6fea750ecb20bc2c191431a3a422d"
   },
   "selection": {
     "positive": [
@@ -137,5 +139,41 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Kauf- und Bewirtschaftungsauftrag getrennt; Aufklärung über Sanierungslasten mit begrenzter Datenraumwirkung früh benannt.",
+    "anchor_or_exception": "BGH, Urteil vom 15.09.2023, V ZR 77/22; Paragrafen 241 Absatz 2, 280 Absatz 1, 311 Absatz 2 BGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "1d1739630312dc119bfac695e2878598963d6a3b849e1296f735740450f344e7",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "d3671a310468362152996813fd5d8f31a91ae932541dbd41b77bb76e37547854",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md",
+        "sha256": "816d5c9853c15d2f3a3558b3f438da7697b6fea750ecb20bc2c191431a3a422d",
+        "characters": 20671,
+        "utf8_bytes": 20992
+      },
+      {
+        "path": "immobilienrechtspraxis/immobilienrechtspraxis-schnellstart.md",
+        "sha256": "7be82c23a8634e457fa7551060ec5543aa03fab8a4afd316ec6e552597dace58",
+        "characters": 6308,
+        "utf8_bytes": 6397
+      }
+    ]
   }
 }

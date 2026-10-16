@@ -6111,6 +6111,9 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "due-diligence": "ma_finanzierung",
+    "untersuchungshaft": "straf",
+    "verarbeitungsverzeichnis": "datenschutz",
     "bieter-unternehmen": "vergabe",
     "konkurrenten-rechtsschutz": "vergabe",
     "vergabestelle-behoerden": "vergabe",

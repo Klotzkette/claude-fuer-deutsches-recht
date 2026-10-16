@@ -1,8 +1,12 @@
-# 1. Gesellschaftsrecht in englischer Vertragssprache
+# Gesellschaftsrecht in englischer Vertragssprache
 
-Übersetze die vorgelegte Klausel so, dass Mitgliedschaft, Zahlungspflicht, Zustimmung und Haftung dieselbe Bedeutung behalten. Erkläre einem ausländischen Investor die deutsche Rechtswirkung hinter „shares“, „board approval“ oder „fully diluted“, statt ein scheinbar gleiches englisches Rechtsinstitut einzusetzen. Eine Beteiligungsrechnung muss den verwendeten Nenner und ihre Annahmen erkennen lassen.
+Die englische Fassung soll dieselbe Vereinbarung ausdrücken wie der Ausgangstext. Erstelle die bestellte Übersetzung, Investoren-Erklärung oder Sprachübung und erhalte Mitgliedschaft, Zahlungspflichten, Zustimmung und Haftung. Erkläre „shares“, „board approval“ oder „fully diluted“ anhand der gemeinten deutschen Rechtswirkung; eine Beteiligungsrechnung muss Nenner und Annahmen erkennen lassen.
 
-## 1.1. Ausgangstext und Auftrag
+Quellenbasis sind die konkrete Klausel, Definitionen und Rechtswahl. Bei GmbH-Anteilen helfen Paragrafen 15, 16 und 40 GmbHG, Übertragung, Listenlegitimation und interne Beteiligungsrechnung nicht zu verwechseln. Für eine reine Übersetzung ist kein Rechtsprechungsanker nötig. Die BGH-Entscheidung zur Listenwirkung nur heranziehen, wenn diese Rechtsfrage Teil des Auftrags ist; englische Sprache allein ändert weder Rechtsform noch anwendbares Recht.
+
+## 1. Sprachauftrag und Bedeutung
+
+### 1.1. Ausgangstext und Auftrag
 
 Lies zuerst die betroffene Passage, ihre Definitionen und die zugehörige Berechnung. Ziehe Satzung, Gesellschaftervereinbarung, Beschluss oder Registerbeleg nur hinzu, soweit sie die Bedeutung bestimmen. Übernimm bekannte Zielgruppe, Rechtswahl, Sprachvorrang und Fassung. Bei Folgewünschen geprüfte Terminologie fortführen; nur geänderte oder widersprüchliche Angaben neu abgleichen.
 
@@ -10,35 +14,35 @@ Fehlt entscheidender Kontext, frage nach genau dieser Definition, Rechtsordnung,
 
 Ungeklärte Form, Vertretung oder Registerlage hindert nur die davon abhängige rechtliche Aussage. Unabhängige Textteile weiterbearbeiten. Keine Unterschrift, Einreichung oder rechtsverbindliche Freigabe vornehmen. Eine Lernfrage verlangt kein Haftungsgutachten und keinen Klageentwurf.
 
-### 1.1.1. Eigenständige Auswahl des Sprachauftrags
+#### 1.1.1. Eigenständige Auswahl des Sprachauftrags
 
 Ohne Eingabe fragen: „Geht es um eine englische Gesellschaftsklausel, eine Investoren-Erklärung oder das Üben von Transaktionsbegriffen?“ Bei Dateien ohne Auftrag relevante Passagen still lesen und nur zwei oder drei passende Ziele anbieten. Keine ungefragte Dokumentübersicht oder abschließende Rechtsanalyse. Bei klarer Übersetzungsbestellung den Zieltext unmittelbar liefern; nur entscheidende Lücken fragen. Keine weiteren Plugin-Dateien voraussetzen. Bei Lernauftrag dagegen eine passende Aufgabe stellen und erst nach Antwort erläutern, sofern der Nutzer nicht ausdrücklich eine vollständige Lösung verlangt.
 
-### 1.1.2. Übersetzung oder neue Risikoverteilung
+#### 1.1.2. Übersetzung oder neue Risikoverteilung
 
 Vor einer Änderung bestimmen, ob wortgetreue Bedeutungswahrung oder rechtliche Neufassung beauftragt ist. „Bitte besseres Englisch“ erlaubt nicht, aus einer Kenntnisqualifikation eine unbedingte Garantie zu machen. Bei unklarer Definition nur deren konkrete Wirkung erfragen: Wessen Kenntnis, tatsächliche Kenntnis oder zugerechnetes Wissen, und zu welchem Stichtag? Liegt die Definition vor, sie selbst auswerten. Danach alle betroffenen Klauseln auf dieselbe Bedeutung abstimmen.
 
 Bei „Der Käufer soll geschützt sein“ nicht wahllos warranty, indemnity und guarantee kumulieren. Den gewollten Anspruch anhand Auslöser, Pflichtverletzung, Verschulden, Schaden, Obergrenze und Ausschluss erklären und eine konkrete Fassung zur Entscheidung stellen. Die Antwort „nur Ersatz der konkret festgesetzten Steuer“ verändert Gegenstand und Umfang einer Freistellung. Eine Übersetzungsfassung darf diese Beschränkung nicht durch allgemeine Schadloshaltung ausweiten. Offene Rechtsfragen im Begleitvermerk von rein sprachlichen Alternativen trennen.
 
-### 1.1.3. Zustimmungsklausel mit richtigem Organ und Fristlauf
+#### 1.1.3. Zustimmungsklausel mit richtigem Organ und Fristlauf
 
 Bei „subject to board approval“ anhand Satzung und Vertrag klären, ob Geschäftsführung, Aufsichtsrat, Beirat oder Gesellschafterversammlung gemeint ist. Eine pauschale Übersetzung als Vorstand wäre bei einer GmbH irreführend. Bereits erteilte Zustimmung, aufschiebende Bedingung und bloße Pflicht zur Einholung nicht gleichsetzen. Die Antwort „Der Beirat soll nur intern zustimmen“ verändert den Erläuterungstext zur Außenwirkung und gegebenenfalls die Bedingungsklausel.
 
 Bei Fristen den auslösenden Zugang, Kalendertage oder Geschäftstage, maßgeblichen Ort und Rechtsfolge des Schweigens erhalten. Ein unklarer business day benötigt die vertragliche Definition, keine erfundene allgemeine Transaktionsregel. Nach Klarstellung alle davon abhängigen Datums- und Vollzugspassagen korrigieren. Eine vertraglich gewählte Reaktionsfrist nicht als gesetzliche Registerfrist bezeichnen. Am Ende vollständige Klausel mit eindeutigen Bezugnahmen liefern, keine Wortliste.
 
-### 1.1.4. Beteiligungsrechnung als verständlichen Empfängertext schreiben
+#### 1.1.4. Beteiligungsrechnung als verständlichen Empfängertext schreiben
 
 Bei fully diluted zunächst reale Anteile, Optionen, Wandelrechte und virtuelle Zahlungsansprüche auseinanderhalten. „Zehn Prozent Pool“ ist ohne Definition weder eindeutig zehn Prozent des bisherigen Kapitals noch zehn Prozent nach Einbeziehung des Pools. Die fehlende Bezugsbasis erfragen und danach Nenner, Rechenweg und englische Erklärung gemeinsam ändern. Nominalbetrag und Unternehmensbewertung nicht in derselben Spalte als gleichartige Größen behandeln.
 
 Ein veränderter Pool kann die wirtschaftliche Quote verändern, ohne aktuelle Mitgliedschaftsrechte zu ändern. Im Empfängertext deshalb etwa zwischen current legal ownership und assumed economic allocation unterscheiden und den deutschen Rechtsbezug erklären. Nicht aus dem Wort issued einen tatsächlich beurkundeten und eingetragenen Kapitalvorgang ableiten. Bei streitiger Liste den vorhandenen BGH-Anker mit seiner Grenze verwenden, nicht eine ausländische Eigentumsregel behaupten. Belastende Abweichungen zwischen Vertrag und Tabelle sichtbar erläutern.
 
-### 1.1.5. Rechtsfolge und Sprachfassung abschließen
+#### 1.1.5. Rechtsfolge und Sprachfassung abschließen
 
 Bei parallel gelieferten deutschen und englischen Fassungen Bedingungen, Ausnahmen, Beträge und definierte Begriffe abschnittsweise abgleichen. Wenn Sprachvorrang fehlt, keine einseitige Priorität einsetzen; bei beauftragter Gestaltung eine ausdrücklich als Vorschlag bezeichnete Vorrangklausel formulieren. Die Klarstellung „Englisch dient nur der Information“ führt zu einer anderen Begleitnotiz als zwei gleichermaßen verbindliche Fassungen. Nur tatsächlich geänderte Passagen neu prüfen, unveränderte Terminologie fortführen.
 
 Ein fertiger Übersetzungsauftrag enthält den vollständigen Zieltext, eine Klauselprüfung zusätzlich die konkrete Ersatzfassung, ein Lernauftrag die vereinbarte Rückmeldung. Bedeutungsrisiken und ungeprüftes ausländisches Recht außerhalb des versandfertigen Texts kennzeichnen. Keine irrelevante Sachentscheidung allein zur Quellenfüllung hinzufügen. Unterschrift, notarielle Beurkundung, Einreichung oder rechtliche Freigabe sind nicht durch eine sprachlich fertige Fassung ersetzt.
 
-## 1.2. Bedeutung vor Wortähnlichkeit
+### 1.2. Bedeutung vor Wortähnlichkeit
 
 Bestimme, ob der Text eine Satzungsregel, schuldrechtliche Vereinbarung, Organentscheidung oder unverbindliche Verhandlungsposition enthält. „Shareholders' agreement“ ist nicht automatisch „articles of association“; ein Geschäftsführer ist nicht schon wegen „director“ Mitglied eines ausländischen unitary board. Benenne das tatsächlich gemeinte Organ und erhalte nötigenfalls den deutschen Begriff in Klammern.
 

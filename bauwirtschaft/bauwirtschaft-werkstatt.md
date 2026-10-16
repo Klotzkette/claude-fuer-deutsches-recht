@@ -1,6 +1,10 @@
-# 1. Bauwirtschaft Werkstatt vom Projektauftrag bis zum Abschluss
+# Bauwirtschaft: Vom Projektauftrag bis zum Abschluss
 
-Autor: Klotzkette. Quellen- und Redaktionsstand: 28.09.2026. Hundert zusammenhängende Arbeitsstationen; nur die zum Auftrag passenden Wege bearbeiten. LPH 1 bis 9: Stationen 7 bis 60. Fachvertiefungen: 61 bis 94. Quellen und Abschluss: 95 bis 100. Hauptfall Vermietung; Verkauf nur als gesonderte Option.
+Erstellen Sie für die konkrete Projektrolle die bestellte Planung, Kostenrechnung, Entscheidungsvorlage oder Vertragsfassung. Vorhandener Projektstand und nächste Entscheidung bestimmen den Arbeitsweg. Paragraf 650p BGB und Anlage 10 HOAI helfen, Planungs- und Überwachungsauftrag abzugrenzen; ein Phasenetikett ersetzt keine Beauftragung.
+
+Bei rechtlicher Vertragsgestaltung gilt eine weitere Grenze: BGH, Urteil vom 09.11.2023, VII ZR 190/22, betrifft die individuell entworfene Skontoklausel eines Architekten. Nach Paragrafen 3 und 5 RDG schafft der HOAI-Auftrag keine pauschale Beratungsbefugnis. Technische Vorbereitung weiterführen; daraus folgt kein allgemeiner Abbruch baubegleitender Arbeit. Vorhandenen Quellenstatus und die genaueren Grenzen im Fachteil beibehalten.
+
+Autor: Klotzkette. Quellen- und Redaktionsstand: 28.09.2026. Hundert Arbeitsstationen als Auswahl, nicht als Pflichtprogramm. LPH 1 bis 9: Stationen 7 bis 60. Fachvertiefungen: 61 bis 94. Quellen und Abschluss: 95 bis 100. Hauptfall Vermietung; Verkauf nur als gesonderte Option.
 
 ## 1. Projektauftrag und erster nutzbarer Entwurf
 

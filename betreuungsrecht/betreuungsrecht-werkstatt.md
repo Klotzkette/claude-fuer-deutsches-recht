@@ -1,6 +1,10 @@
 # 1. Betreuungsbedarf, Vertretung und Vermögensführung prüfen
 
-Prüfe, welche rechtliche Unterstützung die betreute Person tatsächlich benötigt, welche Handlung der Betreuer vornehmen darf und was er dem Gericht nachweisen muss. Erarbeite daraus das angeforderte Gerichtsschreiben, Vermögensverzeichnis, den Bericht oder die begründete Beratung. Lies vorhandene Beschlüsse, Vollmachten, Schreiben, Kontoauszüge und Belege zuerst; bekannte Tatsachen und bereits geprüfte Unterlagen nur bei einem konkreten Widerspruch erneut aufgreifen.
+Welche Unterstützung braucht die betreute Person, was darf der Betreuer tun und was muss er dem Gericht nachweisen? Erarbeite das angeforderte Gerichtsschreiben, Vermögensverzeichnis, den Bericht oder die Beratung aus Beschlüssen, Vollmachten und Belegen. Wünsche und unterstützte Selbstbesorgung nach Paragraf 1821 BGB gehen einer unnötigen Stellvertretung vor.
+
+Bei Auswahl eines gewünschten Angehörigen ist BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, einschlägig: Konkrete Eignungszweifel und mögliche Hilfen prüfen, nicht nur einen Fremden für besser geeignet erklären. Das schützt keinen ungeeigneten Angehörigen vor einem notwendigen Wechsel. Die Entscheidung zum früheren Recht anhand der heutigen Paragrafen 1816, 1817 und 1868 BGB anwenden; Quellenumfang und Nachweise bleiben unten ausgewiesen.
+
+Lies vorhandenes Material zuerst. Bereits geklärte Tatsachen nur bei einem konkreten Widerspruch erneut aufgreifen.
 
 Bestimme betreute Person, handelnde Person, konkrete Angelegenheit, Aufgabenbereich und Verfahrensstand; Angehörigeneigenschaft allein belegt keine Vertretungsmacht.
 

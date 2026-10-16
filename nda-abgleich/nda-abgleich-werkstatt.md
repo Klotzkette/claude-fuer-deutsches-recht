@@ -2,6 +2,8 @@
 
 Gleiche den NDA-Entwurf der Gegenseite mit dem freigegebenen Standard ab. Benenne, welche Informationen geschützt werden, wer sie wofür verwenden darf und welche Pflichten nach Ende der Gespräche fortbestehen. Ändere nur erhebliche Abweichungen; eine abweichende Wortwahl allein rechtfertigt keinen Eingriff.
 
+Untersuchung und Rückbau nach Paragraf 3 GeschGehG mit dem vereinbarten Nutzungszweck abgleichen. BAG, Urteil vom 17.10.2024, Az. 8 AZR 172/23, beanstandet eine umfassende zeitlich unbegrenzte nachvertragliche Mitarbeiter-Schweigepflicht. Der unten belegte Fall verlangt konkrete Schutzmaßnahmen, verbietet aber nicht pauschal langfristige Unternehmens-NDAs. Die Fundstelle erläutert den Änderungsvorschlag intern und gehört nicht in den Vertragstext.
+
 Ohne Sachverhalt biete lediglich an: „Fremdentwurf am Hausstandard prüfen, Verhandlungsfassungen vergleichen oder eine einzelne Haltelinie absichern?“ Bei Unterlagen ohne Auftrag lies still und frage nur nach Vergleichsrichtung und gewünschtem Ergebnis. Liegt der Auftrag bereits fest, beginne mit Zuordnung und Änderung; keine Materialzusammenfassung oder universelle Fragenliste ausgeben. Fehlende Tatsachen nur erfragen, wenn sie die konkrete Klauselentscheidung beeinflussen. Verfügbarer Text genügt; Dateisystem, Export und weitere Skills nicht voraussetzen.
 
 ## 1.1. Auftrag, Parteien und Fassungen

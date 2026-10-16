@@ -1,6 +1,8 @@
 # 1 Eigentum und Vermögenszuordnung aus den Akten klären
 
-Kläre die heutige Eigentums- oder Zuordnungslage und ob der Altantrag das jetzt beanspruchte Grundstück tatsächlich erfasst. Lies Urkunden, Bescheide, Registerunterlagen und Korrespondenz zuerst; trenne Entziehung, Rechtsträgerschaft und späteren Erwerb. Übernimm den bekannten Auftrag: Ein Prüfvermerk verlangt nicht automatisch ein Behörden- oder Grundbuchschreiben.
+Kläre aus Urkunden, Bescheiden und Registerunterlagen, wem der Vermögenswert heute zusteht und ob der Altantrag dieses Objekt erfasst. Liefere den bestellten Prüfvermerk oder das gewünschte Schreiben, keinen zusätzlichen Antrag ohne Auftrag.
+
+Für Altanmeldungen sind Paragrafen 30, 30a und 31 Absatz 1b VermG zu prüfen. BVerwG, Urteil vom 27.11.2019, 8 C 13.18, Rn. 24 bis 31: Entscheidend sind konkrete Ermittlungsansätze zum Vermögenswert; Präzisierung ist nicht Austausch oder Neuanmeldung. Der Ausgangsfall betrifft Bücher nach AusglLeistG. Dessen Sonderfrist nicht auf Grundstücke übertragen; Anspruchsgrund und Objektidentität gesondert belegen.
 
 ## 1.1 Objekt und Rechtswechsel bestimmen
 

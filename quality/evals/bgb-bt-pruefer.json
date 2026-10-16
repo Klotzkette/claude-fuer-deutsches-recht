@@ -31,15 +31,18 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesen und den Werkvorschuss-Kernfall bis zur Beseitigungsabsicht und Abrechnungspflicht präzisiert. Der neue Einstieg fragt nach der konkret erlaubten Rechtsfolge statt nur nach dem gewünschten Produkt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Vollständig gelesen und den Werkvorschuss-Kernfall bis zur Beseitigungsabsicht und Abrechnungspflicht präzisiert. Der neue Einstieg fragt nach der konkret erlaubten Rechtsfolge statt nur nach dem gewünschten Produkt. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "VII ZR 46/17 im Vorschussweg mit Disposition, Zweckbindung und Grenze zum Kaufrecht verankert.",
       "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
       "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
       "Leer: Kaufmängel, Werkvorschuss oder Rückabwicklung. Dateien: still lesen und leistungsbezogene Dokumentwege anbieten. Klar: direkt bestellten Anspruchstext erstellen.",
-      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung.",
+      "16.10.2026: Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt."
     ],
-    "sha256": "039d1c217764b443e863a197de4629e08b76395a6ed58da65e5ce4f68491741e"
+    "sha256": "af4e0ef84bae114d96b119040c6a3de60dd5e977e3ea59e27c6755443babaca1",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -87,15 +90,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle zwölf Vertragsthemen und der alte Hauptteil vollständig gelesen. Affirmative Fehlanweisungen, generischer Normkatalog, reine Entwurfsbeschränkung und obligatorische Anschlussliste entfernt; Miet-, Dienst-, Darlehens-, Bürgschafts- und GoA-Fragen konkretisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle zwölf Vertragsthemen und der alte Hauptteil vollständig gelesen. Affirmative Fehlanweisungen, generischer Normkatalog, reine Entwurfsbeschränkung und obligatorische Anschlussliste entfernt; Miet-, Dienst-, Darlehens-, Bürgschafts- und GoA-Fragen konkretisiert. Individuelle redaktionelle Prüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "VII ZR 46/17 im Vorschussweg mit Disposition, Zweckbindung und Grenze zum Kaufrecht verankert.",
       "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
       "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
       "Nacherfüllungsgelegenheit, Vorschussabrechnung, Teilzahlung, Vergleichsreichweite und Abgrenzung Miet- und Dienstleistung vertieft.",
-      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung.",
+      "16.10.2026: Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt."
     ],
-    "sha256": "0a9a4a2a3be61355b91aab18f521b9d403f2089f71f9f48d6ba8be785045609a"
+    "sha256": "850c825411fd5ef958ef1b0a963dbc16cbc1d6411b23edaeaaaae6ebb48b8eb0",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -139,6 +145,27 @@
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Werkvertragsentscheidung gezielt geprüft; nicht sämtliche Vertragstypen oder zukünftigen Reparaturrechtsänderungen vollständig neu verifiziert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
+    ]
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bgb-bt-pruefer/bgb-bt-pruefer-schnellstart.md",
+        "sha256": "af4e0ef84bae114d96b119040c6a3de60dd5e977e3ea59e27c6755443babaca1",
+        "reason": "Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt.",
+        "anchor_or_exception": "Paragrafen 634 Nummer 2 und 637 BGB; BGH 22.02.2018 VII ZR 46/17 Rn. 31 bis 37, 48 bis 54: kein kleiner Schadensersatz nach fiktiven Reparaturkosten bei behaltenem Werk, zweckgebundener Vorschuss bei Beseitigungsabsicht; nicht auf Kauf oder Delikt verallgemeinern."
+      },
+      {
+        "path": "bgb-bt-pruefer/bgb-bt-pruefer-werkstatt.md",
+        "sha256": "850c825411fd5ef958ef1b0a963dbc16cbc1d6411b23edaeaaaae6ebb48b8eb0",
+        "reason": "Konkrete Leistungsstörung und Rechtsfolge als Einstieg; Vorschuss und fiktiven Schadensersatz früh getrennt.",
+        "anchor_or_exception": "Paragrafen 634 Nummer 2 und 637 BGB; BGH 22.02.2018 VII ZR 46/17 Rn. 31 bis 37, 48 bis 54: kein kleiner Schadensersatz nach fiktiven Reparaturkosten bei behaltenem Werk, zweckgebundener Vorschuss bei Beseitigungsabsicht; nicht auf Kauf oder Delikt verallgemeinern."
+      }
     ]
   }
 }

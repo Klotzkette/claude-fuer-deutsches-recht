@@ -1,6 +1,8 @@
 # 1. Juristische Texte verständlich übertragen
 
-Übertrage den vorgelegten Bescheid, Vertrag oder Brief so, dass der Empfänger seine Rechte, Pflichten und Handlungsmöglichkeiten versteht. Bewahre Bedingungen, Ausnahmen, Fristen und Rechtsfolgen; sprachliche Kürze darf den rechtlichen Inhalt nicht verändern. Liefere die vollständige verständliche Fassung, kein ungefragtes Rechtsgutachten.
+Schreibe den vorgelegten Bescheid, Vertrag oder Brief so um, dass der Empfänger Rechte, Pflichten und Handlungsmöglichkeiten versteht. Liefere die vollständige Zielfassung und bewahre jede entscheidende Bedingung, Ausnahme, Frist und Rechtsfolge. Der Ausgangstext und die tatsächliche Zielgruppe bestimmen die Bearbeitung, nicht ein ungefragtes Rechtsgutachten.
+
+Paragraf 11 BGG ist für die dort erfasste Kommunikation zu prüfen, kein allgemeines Zertifikat für jeden vereinfachten Text. Ein materiell-rechtliches Urteil würde eine reine Sprachübertragung nicht tragen; deshalb keinen Gerichtsanker erzwingen. Der vorhandene Übersetzungsfall ist nur bei amtlicher Übersetzung relevant. Ohne tatsächliche Prüfung keine Normkonformität oder Verständlichkeitsprüfung durch die Zielgruppe behaupten.
 
 ## 1.1. Zielgruppe und Textfunktion
 

@@ -1,14 +1,14 @@
 # 1. Interne Untersuchung vorbereiten und auswerten
 
-Gleiche die verdächtigen Rechnungen, Zahlungen, Freigaben oder Nachrichten mit Gegenbelegen ab und kläre, was den Vorwurf tatsächlich trägt. Begrenze weitere Datenerhebungen und Interviews auf offene Tatsachenfragen. Verfasse den beauftragten Untersuchungsplan, Leitfaden, Bericht oder Behördenbrief innerhalb des zulässigen und freigegebenen Umfangs.
+Gleiche Verdacht und Gegenbelege ab und liefere den bestellten Untersuchungsplan, Interviewleitfaden, Bericht oder Behördenbrief. Bei Beschäftigtendaten Paragraf 26 BDSG prüfen. BAG, Urteil vom 27.07.2017, 2 AZR 681/16, verlangt für eingriffsintensive Vollüberwachung konkrete Verdachtstatsachen; zuerst mildere Rechnungs- und Zahlungsprüfung erwägen. Das Urteil zum früheren Paragrafen 32 BDSG verbietet nicht jede offene Kontrolle und ersetzt weder heutige Rechtsgrundlage noch Verwertbarkeitsprüfung. Freigegebenen Umfang wahren.
 
-## 1.1 Auftrag und Zuständigkeit
+## 1.1. Auftrag und Zuständigkeit
 
 Ohne Eingabe biete Rechnungsabgleich, Interviewleitfaden oder Ergebnisbericht an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt bearbeiten; Mandant, Gremium, Zeitraum und Empfänger aus den Belegen übernehmen. Neue Interviewerklärung ändert Gegenhypothese und Bericht, nicht automatisch den zulässigen Datenzugriff. Bekanntes nicht erneut erfragen.
 
 Prüfe Interessenkonflikte von Untersuchenden, Auftraggebern und Berichtsadressaten. Bestimme, wer den Umfang ändern darf und welche Personen Zugang zu Ergebnissen erhalten sollen. Organpflichten nach Paragraf 93 AktG beziehungsweise Paragraf 43 GmbHG ersetzen nicht die Prüfung der Zulässigkeit jeder einzelnen Erhebungsmaßnahme.
 
-## 1.2 Beweissicherung und Datenzugriff
+## 1.2. Beweissicherung und Datenzugriff
 
 Bei drohender Löschung priorisiere einen rechtlich begrenzten Sicherungsvorschlag. Trenne Sicherung von inhaltlicher Auswertung. Ordne Systeme, Geräte, Konten, Zeitraum, betroffene Dateninhaber, Zugriffsrechte, Filter und forensische Bearbeitung dem konkreten Vorwurf zu. Löse nicht selbst Löschstopp, Kopie oder Datenerhebung aus.
 
@@ -18,7 +18,7 @@ Beachte Artikel 5, 6, 9, 13, 14 und 32 Datenschutz-Grundverordnung sowie die ein
 
 BAG, Urteil vom 27.07.2017, 2 AZR 681/16, Rn. 15 bis 41: Vollständiges Tastatur- und Bildschirmprotokollieren ohne konkret begründeten Verdacht einer Straftat oder schweren Pflichtverletzung war unzulässig; daraus gewonnener Vortrag blieb im Kündigungsprozess außer Betracht. Prüfe vor ähnlich intensiver Überwachung konkrete Anhaltspunkte und mildere Mittel, etwa Zahlungsabgleich. Schweigen auf die Ankündigung ist keine Einwilligung. Grenze den Fall zu Paragraf 32 BDSG alter Fassung von heutigen DSGVO-Grundlagen und weniger intensiven offenen Kontrollen ab. Nicht jeder Datenschutzfehler bewirkt automatisch ein Verwertungsverbot; Datenerhebung und prozessuale Verwendung getrennt beurteilen ([amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-681-16/)).
 
-## 1.3 Beleglücken und weitere Untersuchung
+## 1.3. Beleglücken und weitere Untersuchung
 
 Zerlege den Vorwurf in überprüfbare Tatsachenfragen und suche auch entlastende Erklärungen. Fehlt etwa die Genehmigung einer Zahlung, frage nach dem konkreten Freigabevermerk; fehlt die Herkunft einer Datei, frage nach Sicherungsweg und Originalquelle. Eine Suchwortliste oder einzelne Interviewaussage ist noch kein gesicherter Gesamtbefund.
 
@@ -26,7 +26,7 @@ Nach Eingang gleiche neue Angaben mit den vorhandenen Belegen ab. Aktualisiere d
 
 Neue Personen, Zeiträume oder Datenquellen erfordern gegebenenfalls eine begründete Erweiterung: offene Tatsachenfrage, erwarteter Erkenntnisgewinn, weniger eingriffsintensive Alternative und notwendige Freigabe. Eine Antwort erweitert den Auftrag nicht automatisch. Bearbeite bei fehlender Freigabe den zulässigen Teil vorläufig und benenne genau, was noch benötigt wird; nach Klärung arbeite bis zum bestellten Ergebnis weiter.
 
-## 1.4 Interviews und Bewertung
+## 1.4. Interviews und Bewertung
 
 Bereite Reihenfolge, Unterlagen, Teilnehmer, Rollenklärung, Hinweise und Fragen für das konkrete Interview vor. Prüfe Mitwirkungspflichten und ihre Grenzen, insbesondere mögliche Selbstbelastung und strafprozessuale Rechte. Versprich keine Vertraulichkeit oder Schutzwirkung, die rechtlich nicht gesichert ist.
 
@@ -34,7 +34,7 @@ Trenne eigene Wahrnehmung, Erinnerung, Hörensagen und Schlussfolgerung. Dokumen
 
 Ein anwaltlicher Auftrag oder Vertraulichkeitsstempel garantiert keinen Beschlagnahmeschutz. Prüfe Mandat, Gewahrsam und Verfahren gesondert, insbesondere vor einer Weitergabe an Behörden oder weitere Berater. Eine Empfehlung zur Kooperation ist keine Freigabe zur Übermittlung.
 
-## 1.5 Ergebnis nach Empfänger
+## 1.5. Ergebnis nach Empfänger
 
 Ein Untersuchungsplan benennt Fragen, Umfang, Ausschlüsse, Datenquellen, Zuständigkeiten und rechtliche Grenzen. Ein Interviewleitfaden enthält konkrete, ergebnisoffene Fragen. Ein Ergebnisbericht trennt belegte Feststellungen, widerlegte Vorwürfe und verbleibende Unsicherheit. Eine Vorstandsvorlage ergänzt daraus abgeleitete Entscheidungen und Abhilfemaßnahmen; eine Behördenantwort beantwortet das tatsächliche Ersuchen.
 
@@ -42,7 +42,7 @@ Liefere nur das bestellte Dokument, vollständig ausformuliert. Tabellen sind f�
 
 Vor Abschluss prüfe Quellenherkunft, belastende und entlastende Belege, Bearbeitungsschritte, Zugriffskreis und alle neuen Antworten. Verwende den gewünschten Dateinamen; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatiere mit dezimalen Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
 
-## 1.6 Quellen und Grenzen
+## 1.6. Quellen und Grenzen
 
 Prüfe tragende Rechtsaussagen amtlich und verwende nur verifizierte Entscheidungen. Quellenstatus und technische Recherchegrenzen stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerbrief. Keine eigenmächtige Anzeige, Befragung, Datenerhebung, Kündigung oder Versendung.
 

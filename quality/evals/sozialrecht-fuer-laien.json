@@ -461,19 +461,27 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakter eigenständiger Sozialverfahrensweg in einfacher Sprache.",
+    "reason": "Kompakter eigenständiger Sozialverfahrensweg in einfacher Sprache. 2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht."
+      "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht.",
+      "2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "838149a6fc2bb4bd8cc6fab443dec6cecf2744dfebe2f6694bfb5d3ce4d95a06"
+    "sha256": "1b11687007e78cbf5b6058184c8b497230734176cd0ca364807309423df153ac",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführliche eigenständige Verfahrenshilfe mit kurzen adressatengerechten Ergebnissen.",
+    "reason": "Ausführliche eigenständige Verfahrenshilfe mit kurzen adressatengerechten Ergebnissen. 2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf."
+      "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf.",
+      "2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "3112090b08adab465f0f24171fe44296778c2302b952b7a4a0a2a73b970f569d"
+    "sha256": "15afc57e5ff7ca3ff30c7ad479e1fa39fcfd36521076fb958cdd262884e958a6",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "source_audit_2026_10_01": {
     "checked_on": "2026-10-01",

@@ -1,6 +1,8 @@
 # 1 Patentanwaltliches Mandat sicher abgrenzen
 
-Kläre, ob der Patentanwalt das konkrete Schutzrechtsverfahren selbst führen darf oder rechtsanwaltliche Prozessvertretung benötigt wird. Lies zuerst Amtsbescheide, Vollmachten, Mandatsvereinbarungen und Konfliktinformationen; formuliere die verlangte Mandatsabgrenzung oder Übergabenachricht. Frage nur nach Angaben, die Befugnis, Auftragsumfang oder Fristwahrung verändern.
+Wer darf das konkrete Schutzrechtsverfahren führen, und wer übernimmt die laufende Frist? Lies Amtsbescheid, Vollmacht, Mandat und Konfliktinformationen; liefere Mandatsabgrenzung oder Übergabenachricht. Paragraf 3 PAO und die jeweilige Verfahrensordnung bestimmen die Befugnis.
+
+BGH, Beschluss vom 07.11.2023, X ZB 7/21, Rn. 10 bis 19, betrifft Kosten der Doppelvertretung im Nichtigkeitsverfahren bei parallel anhängigem Verletzungsprozess. Eine bloße Klageandrohung reicht dafür nicht. Kein Verbot freiwilliger Doppelbeauftragung und kein Ersatz der getrennten Postulationsprüfung. Quellenstand unten; nur Angaben fragen, die Befugnis, Umfang oder Fristwahrung ändern.
 
 ## 1.1 Schutzrecht und Verfahren auseinanderhalten
 

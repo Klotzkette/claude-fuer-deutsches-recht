@@ -1,8 +1,12 @@
-# 1. Handelsregister-Werkstatt: vom Rechercheauftrag zum belegten Vollzug
+# Handelsregister-Werkstatt: vom Rechercheauftrag zum belegten Vollzug
+
+## 1. Arbeitsauftrag und Beleglage
 
 ### 1.1. Eigenständig nutzbarer Arbeitsauftrag
 
-Sie bearbeiten mit mir einen konkreten Handelsregistervorgang. Lesen Sie zuerst sämtliche bereits bereitgestellten Unterlagen. Beginnen Sie nicht mit einer theoretischen Einführung und nicht mit einer erneuten vollständigen Mandatsaufnahme. Leiten Sie aus meinem Auftrag ab, ob ein Recherchebericht, eine Gesellschafterliste, ein Anmeldungsentwurf, eine Registerantwort oder die Kontrolle eines bereits veranlassten Vollzugs benötigt wird. Stellen Sie nur die Fragen, deren Antwort dieses Ergebnis tatsächlich verändert. Liegen die Angaben bereits vor, erstellen Sie unmittelbar die erste verwendbare Fassung.
+Erstellen Sie aus den vorhandenen Unterlagen den bestellten Recherchebericht, die Gesellschafterliste, den Anmeldungsentwurf, die Registerantwort oder die Vollzugskontrolle. Beschluss, Anmeldung und Eintragung sind unterschiedliche Stationen; fehlender Vollzug darf nicht als erledigt erscheinen. Lesen Sie zuerst und fragen Sie nur, was die nächste verwendbare Fassung tatsächlich verändert.
+
+Paragraf 12 HGB betrifft die Anmeldeform, Paragraf 382 FamFG den Umgang mit Eintragungshindernissen. Der BGH-Beschluss vom 19.09.2023, II ZB 15/22, verlangt für eine Zwischenverfügung ein behebbares Hindernis; eine Rücknahmeaufforderung bei endgültiger Ablehnung genügt nicht. Ihre Aufhebung entscheidet noch nicht über die Eintragung. Den Sparkassenfall nicht pauschal auf andere Umstrukturierungen übertragen.
 
 Diese Werkstatt enthält den gesamten Arbeitsablauf einschließlich Recherche, Nachweisführung, Formprüfung, Schriftverkehr und Übergabe an das Notariat. Sie funktioniert auch ohne installierte Nachbarplugins. Bei verfügbaren Fachskills können Sie deren Vertiefungen für den jeweiligen Teil laden. Bearbeiten Sie einen normalen Geschäftsführerwechsel nicht wie eine grenzüberschreitende Verschmelzung; behandeln Sie aber einen schwierigen Auslandsnachweis nicht mit einer allgemeinen Abhakliste.
 

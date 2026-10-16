@@ -664,21 +664,25 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
+    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion. Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
-      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege.",
+      "Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "766b566e8aa3d2405f0b3bfae2c23764324c483999ce481992028b669da5e1b1"
+    "sha256": "b61dc1780b32f7aa728ba52046aae88ec4ba1f4596ea88417e0354f9a14fe0f6"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
+    "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion. Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
       "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
-      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege.",
+      "Einstiegsredaktion 16.10.2026: Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "f3e5a4eb382ebb48a8c379fbc8995e2a781d766550455b660563157c827de04b"
+    "sha256": "5eca11575a37435a933ed1b0238547c695a6538dd42fa23333e33de70a93298e"
   },
   "focus_review": {
     "verdict": "revised",
@@ -693,5 +697,53 @@
     "skill_path": "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md",
     "prompt_sha256": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b",
     "skill_sha256": "ee9b3f3e93da18c5693a5c07957d5ab65e5b092953cd4600a023528fa8a574a1"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Abstrakte Systembeschreibung durch konkrete Antragsprodukte ersetzt; Mini behält frühe Einsichtsanker, Werkstatt konkretisiert öffentlichen Erbnachweis. Werkstatt auf einen Dokumenttitel und nachgeordnete dezimale H2/H3-Gliederung korrigiert. Mini auf einen Dokumenttitel und nachgeordnete dezimale Gliederung korrigiert.",
+    "anchor_or_exception": "Mini: BGH, Beschluss vom 21.05.2026, V ZB 90/25; Werkstatt: BGH, Beschluss vom 20.11.2025, V ZB 40/24; Paragrafen 12, 29, 35 GBO",
+    "source_status": "Dokumentierte Entscheidungspassagen aus Bestand 01.10.2026; deren damaliges Kennzeichen frisch ist keine heutige Neuverifikation.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "766b566e8aa3d2405f0b3bfae2c23764324c483999ce481992028b669da5e1b1",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "f3e5a4eb382ebb48a8c379fbc8995e2a781d766550455b660563157c827de04b",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.txt",
+        "sha256": "5eca11575a37435a933ed1b0238547c695a6538dd42fa23333e33de70a93298e",
+        "characters": 97992,
+        "utf8_bytes": 99753
+      },
+      {
+        "path": "grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md",
+        "sha256": "5eca11575a37435a933ed1b0238547c695a6538dd42fa23333e33de70a93298e",
+        "characters": 97992,
+        "utf8_bytes": 99753
+      },
+      {
+        "path": "grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.md",
+        "sha256": "b61dc1780b32f7aa728ba52046aae88ec4ba1f4596ea88417e0354f9a14fe0f6",
+        "characters": 7231,
+        "utf8_bytes": 7349
+      },
+      {
+        "path": "grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.txt",
+        "sha256": "b61dc1780b32f7aa728ba52046aae88ec4ba1f4596ea88417e0354f9a14fe0f6",
+        "characters": 7231,
+        "utf8_bytes": 7349
+      }
+    ]
   }
 }

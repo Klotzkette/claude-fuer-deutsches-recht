@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft.",
+    "norms_or_source_basis": "Paragrafen 2 Absatz 3, 5 Absatz 1 Nummer 1, 29 und 30 AufenthG",
+    "selected_anchor_identifiers": [
+      "1 C 20.09"
+    ],
+    "application_limit": "Besonderheiten der Richtlinie 2003/86 nicht auf alle Titel und keine historischen Beträge auf heutige Berechnungen übertragen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "de7f95a33252af38711b6c72f7d7107d8e9585ea4780803d32a1c3741a3a00a2",
+      "characters": 6791,
+      "utf8_bytes": 6904,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "070e0457e1701a1e0f1495bd4ec2b55135211d3c47885c0b4e1c5545d429ce1d",
+      "characters": 19993,
+      "utf8_bytes": 20349,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-migrationsrecht",
   "reviewed_on": "2026-09-30",
@@ -61,29 +92,31 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini behandelt das konkrete Aufenthaltsbegehren und prüft Haushaltsdeckung mit fallbezogener Freibetragskorrektur statt einer pauschalen Einkommensformel. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
+    "reason": "Der Mini behandelt das konkrete Aufenthaltsbegehren und prüft Haushaltsdeckung mit fallbezogener Freibetragskorrektur statt einer pauschalen Einkommensformel. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Krankenversicherung weist eine Deckungslücke auf oder Überstunden enden -> Haushaltsprognose, Zeitraum und Behördenantwort konkret ändern. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Aufenthalts- und Schutzbegehren aus Titeln und Bescheiden prüfen; Hauptproblem auf nachhaltige Haushaltsdeckung und konkrete Behördenabzüge ausgerichtet.",
       "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "cace19587a9388481f30b77978f87eabdc728af9fcc5a200c3e5fd160d8e2602",
+    "sha256": "de7f95a33252af38711b6c72f7d7107d8e9585ea4780803d32a1c3741a3a00a2",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt erhält die unterschiedlichen aufenthalts- und schutzrechtlichen Wege und konkretisiert den Familiennachzug anhand der zutreffenden Urteilsrandnummern und Richtliniengrenzen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet.",
+    "reason": "Die Werkstatt erhält die unterschiedlichen aufenthalts- und schutzrechtlichen Wege und konkretisiert den Familiennachzug anhand der zutreffenden Urteilsrandnummern und Richtliniengrenzen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Alle drei Einstiege auf das konkrete aufenthaltsrechtliche Begehren beziehungsweise Haushaltsproblem zugeschnitten.",
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
       "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Titel, Behördenentscheidung und beauftragter Antrag eröffnen die Arbeit; Lebensunterhalt wird nach Familienkonstellation und passendem Regelwerk geprüft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "f790edb61bf4d4baf92a7a0ad03ad8d6ba8e733993debcaad2a5b716591aaf11",
+    "sha256": "070e0457e1701a1e0f1495bd4ec2b55135211d3c47885c0b4e1c5545d429ce1d",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {

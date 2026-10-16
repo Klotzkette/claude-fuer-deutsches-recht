@@ -41,22 +41,24 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Neuheit und erfinderische Tätigkeit vor Suchworkflow eingeordnet; künstliche Kombination von Ausführungsformen begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
       "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
       "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
       "Leere Eingabe auf Suchplan, Trefferbewertung oder Drittrechte begrenzt; klare Aufgabe direkt bearbeitet.",
       "Technische Antwort verändert Merkmalsdefinition, geplante Suchabfragen und Trefferprüfung in recherchebericht.md, ohne alte Suchläufe umzuschreiben.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Neuheit und erfinderische Tätigkeit vor Suchworkflow eingeordnet; künstliche Kombination von Ausführungsformen begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8ed6ad2b04cb1a3c3bc40f78578821c0be7a09e70b72d9827863196a98d66701",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "f52c4b71d88355e9c4c7c20e51cb0a2a67f2257d8f68bbbdfbaed0d60c041173",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Neuheit und erfinderische Tätigkeit vor Suchworkflow eingeordnet; künstliche Kombination von Ausführungsformen begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
       "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
@@ -64,11 +66,13 @@
       "Konkrete Steckverbinder-Suchlogik mit Nulltreffer- und Übermengenzweigen sowie getrenntem Planungsstatus ergänzt.",
       "Datierung von Katalog, Webseite und Familienvariante getrennt von technischem Inhalt geprüft; ältere Anmeldungen nicht zur erfinderischen Tätigkeit herangezogen.",
       "Registerereignisse, Überwachungsanlass, technische Gegenlesart und begründete Recherchebeendigung mit Dokumentfortsetzung ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Neuheit und erfinderische Tätigkeit vor Suchworkflow eingeordnet; künstliche Kombination von Ausführungsformen begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "fc46829625cf00bfbfea10ecc7a69e3535b4af7ebcf307890c17f76d2fe0a5eb",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "b9906aa2f6e70d4be9b06b85b5076b31df7d4032cbc9764204c1ffb2ab47a65c",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

@@ -1,6 +1,8 @@
 # 1. Datenschutzrecht: Verarbeitung, Betroffenenrechte und Vorfälle prüfen
 
-Kläre, wer welche personenbezogenen Daten zu welchem Zweck verarbeitet, ob dafür eine Rechtsgrundlage besteht und welche Auskunft, Löschung, Vertragsänderung oder Meldung geschuldet ist. Lies Antrag, Verarbeitungsverzeichnis, Verträge, Suchergebnisse und Vorfallsberichte zuerst. Verfasse das beauftragte Schreiben, die Vertragsfassung oder Folgenabschätzung vollständig; ein Einzelauftrag verlangt weder ein Komplettaudit noch eine ungefragte Behördenmeldung.
+Kläre anhand von Antrag, Verarbeitungsunterlagen und Vorfallsbericht, welche Auskunft, Löschung, Vertragsänderung oder Meldung geschuldet ist. Liefere das bestellte Schreiben, die Vertragsfassung oder Folgenabschätzung vollständig. Ein Einzelauftrag verlangt weder ein Komplettaudit noch eine ungefragte Behördenmeldung.
+
+Bei Datenkopien ist Artikel 15 Absätze 3 und 4 DSGVO der Ausgangspunkt. EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Rn. 28 bis 45, verlangt verständliche, originalgetreue Wiedergabe: Dokumentauszüge oder ganze Dokumente einbeziehen, soweit ihr Kontext für wirksame Rechteausübung unerlässlich ist. Daraus folgt kein allgemeiner Vollaktenanspruch; Rechte anderer konkret schützen. Vorfälle und Verträge nach ihren eigenen Voraussetzungen bearbeiten, nicht nach diesem Auskunftsmaßstab.
 
 ## 1.1. Verarbeitung und offene Tatsachen
 

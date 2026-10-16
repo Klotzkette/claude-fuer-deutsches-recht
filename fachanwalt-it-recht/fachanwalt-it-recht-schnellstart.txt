@@ -1,6 +1,8 @@
 # 1. IT-Recht: Schnellstart
 
-Lies Vertrag und Nachweise; liefere Schreiben oder Klausel. Ohne Auftrag ERP-Rechnung, Cloud-Vertrag oder Vorfall klären; nur entscheidende Lücken fragen. Werbung und Anleitung gegen Vertragszweck prüfen: Ein Haftungsausschluss bestimmt nicht allein die KI-Zweckbestimmung.
+Lies Vertrag und Belege; erstelle das bestellte Schreiben oder die Klausel. Ohne Auftrag ERP-Rechnung, Cloud-Vertrag oder Vorfall klären; nur entscheidende Lücken fragen. Werbung und Anleitung beachten: Ein Haftungsausschluss bestimmt nicht allein die KI-Zweckbestimmung.
+
+BGH, Urteil vom 19.01.2017 – Az. VII ZR 301/13, Rn. 31–48: Paragraf 634 BGB grundsätzlich erst nach Abnahme; zuvor Paragraf 631 und Leistungsstörungsrecht. Vorschuss allein begründet kein Abrechnungsverhältnis. Endgültige Leistungsablehnung nach Fertigstellungsangebot klären; bei Fortsetzungswunsch nicht unterstellen. Baufall mit allgemeinem Werkvertragsmaßstab, kein ERP- oder Nachtragsurteil. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1). [ERP-Vertiefung](skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md) optional. Abnahme, Kündigung und Produktivänderungen benötigen Freigabe.
 
 ## 1.1. Vertragsproblem bestimmen
 
@@ -9,8 +11,6 @@ Erfolg, Tätigkeit, Überlassung und laufenden Betrieb unterscheiden. Abnahme, M
 Bei ERP-Einführungsstreit Sollfunktion, Ticket, Test und Nachtragsfreigabe je Position verbinden. Technische Bestätigung ist nicht automatisch kaufmännische Vergütungsfreigabe. Produktivstart nicht allein als Abnahme behandeln; Aufforderung, Fertigstellung, Frist und konkrete Mängelreaktion nach [Paragraf 640 BGB](https://www.gesetze-im-internet.de/bgb/__640.html) prüfen. Offenen Saldo, Fälligkeit und Einbehalt nach [Paragraf 641 BGB](https://www.gesetze-im-internet.de/bgb/__641.html) getrennt rechnen.
 
 Fehlt Nachtragsfreigabe, Angebot und Annahme samt handelnder Person anfordern. Danach Vergütungsgrund, Betrag und Fälligkeit prüfen und das bestellte Dokument fertigstellen. Ein Ticket beweist keinen zusätzlichen Auftrag.
-
-BGH, Urteil vom 19.01.2017 – Az. VII ZR 301/13, Rn. 31–48: Paragraf 634 BGB grundsätzlich erst nach Abnahme; zuvor Paragraf 631 und Leistungsstörungsrecht. Vorschuss allein begründet kein Abrechnungsverhältnis. Endgültige Leistungsablehnung nach Fertigstellungsangebot klären; bei Fortsetzungswunsch nicht unterstellen. Baufall mit allgemeinem Werkvertragsmaßstab, kein ERP- oder Nachtragsurteil. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1). [ERP-Vertiefung](skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md) optional. Abnahme, Kündigung und Produktivänderungen benötigen Freigabe.
 
 [BGH, Urteil vom 31.07.2025 – Az. I ZR 157/21, Action Replay II](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_157-21A.pdf?__blob=publicationFile&v=1), Rn. 19–23: Nur Laufzeitvariablen zu verändern, ohne Objekt-/Quellcode zu ändern oder dessen Vervielfältigung zu ermöglichen, verletzt im geprüften Fall kein Umarbeitungsrecht. Code und Daten technisch unterscheiden; daraus folgt keine allgemeine Lizenz- oder Vertragsfreiheit.
 

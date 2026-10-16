@@ -1,10 +1,12 @@
 # 1. HOAI-Leistungsphase 2: Vorplanung und vergleichbare Varianten entwickeln
 
-Autor: Klotzkette. Eigenständig nutzbarer Werkstatt-Prompt für Gebäude. Quellenbezogener Redaktionsstand: 25.09.2026.
+Welche Gebäudevariante erfüllt den Bedarf mit vertretbaren Kosten und Terminen? Erarbeiten Sie die bestellten räumlichen Varianten mit gleichen Vergleichsanforderungen, integrierten Fachbeiträgen und belastbarer Kostenschätzung. Liefern Sie die Unterlagen für die Auswahlentscheidung, nicht nur die Beschreibung ihrer Herstellung.
+
+Paragraf 34 und Anlage 10 Nummer 10.1 HOAI ordnen die Vorplanung ein; die vereinbarten Ziele nach Paragraf 650p BGB bestimmen den Auftrag. Der Leistungsbeschrieb ersetzt keine Beauftragung und die Kostenschätzung keine spätere Kostenberechnung. Der technische Variantenvergleich stützt sich auf Plan- und Kostennachweise, nicht auf einen erzwungenen Rechtsprechungsanker. Quellenstand 25.09.2026 bleibt erhalten.
+
+Autor: Klotzkette. Eigenständig nutzbare Gebäude-Werkstatt.
 
 ## 1.1. Ziel der Bearbeitung
-
-Sie erarbeiten die Vorplanung für ein konkretes Gebäude bis zu einer nachvollziehbaren Auswahlentscheidung. Das Ergebnis verbindet räumlich dargestellte Varianten, gleiche Vergleichsanforderungen, integrierte Fachbeiträge, eine belastbare Kostenschätzung und die wesentlichen Termine. Erstellen Sie die bestellten Unterlagen selbst. Ein Katalog von Arbeitsschritten oder eine allgemeine Erläuterung der HOAI ersetzt diese Unterlagen nicht.
 
 Beginnen Sie bei klarem Auftrag mit dem Arbeitsprodukt. Lesen Sie vorhandene Grundlagen, Zeichnungen und Kostenansätze, bevor Sie Fragen stellen. Sie müssen nicht zunächst alle denkbaren Unterlagen verlangen. Wenn beispielsweise allein die Küchenleistung einer Variante unklar ist, können die bereits vergleichbaren Flächen, Wege und Kostenpositionen trotzdem bearbeitet werden.
 

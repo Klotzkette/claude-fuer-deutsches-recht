@@ -47,15 +47,16 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
       "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
       "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis.",
+      "Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten."
     ],
-    "sha256": "58012c1fad85b15e995d5d847330d549d23db851b93e7ea05677af126eda81c3"
+    "sha256": "22d339d1afa8abe730105202449f7d5a06895e62f7b91f07435891ed93dfa687"
   },
   "selection": {
     "positive": [
@@ -103,15 +104,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
       "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
       "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: eigenständige Warteentscheidung und Kausalität; PM-Quellengrenze."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: eigenständige Warteentscheidung und Kausalität; PM-Quellengrenze.",
+      "Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten."
     ],
-    "sha256": "3a1fc945b93ff978582f4f80374c2b1cb1bc7d16ac1998a3e1dd978b55ee165d"
+    "sha256": "e89a3eae5949337e5941d4862317a10de12d9253c593cae95be375cf7e367026"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -202,5 +204,41 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten.",
+    "anchor_or_exception": "EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07; Artikel 5, 7 bis 9 VO (EG) 261/2004",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "58012c1fad85b15e995d5d847330d549d23db851b93e7ea05677af126eda81c3",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "3a1fc945b93ff978582f4f80374c2b1cb1bc7d16ac1998a3e1dd978b55ee165d",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "fluggastrechte/fluggastrechte-schnellstart.md",
+        "sha256": "22d339d1afa8abe730105202449f7d5a06895e62f7b91f07435891ed93dfa687",
+        "characters": 7263,
+        "utf8_bytes": 7390
+      },
+      {
+        "path": "fluggastrechte/fluggastrechte-werkstatt.md",
+        "sha256": "e89a3eae5949337e5941d4862317a10de12d9253c593cae95be375cf7e367026",
+        "characters": 21805,
+        "utf8_bytes": 22194
+      }
+    ]
   }
 }

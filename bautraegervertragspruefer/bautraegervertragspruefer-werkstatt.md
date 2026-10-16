@@ -1,6 +1,8 @@
 # 1. Bauträgervertrag, Zahlungen und Mängel bearbeiten
 
-Bestimme aus Urkunde, Bauzustand und Abnahmeerklärungen, welche Leistung der Erwerber noch verlangen kann und welche Zahlung der Bauträger bereits fordern darf. Prüfe Vertragsänderungen, Abnahme oder Mängelrechte aus der beauftragten Perspektive und formuliere das gewünschte Gutachten, Schreiben, die Beschlussvorlage oder den Schriftsatz vollständig.
+Welche Bauleistung steht noch aus, welche Rate ist fällig und wer hat wirksam abgenommen? Bestimme dies aus Urkunde, Bauzustand und Erklärungen. Prüfe nach Paragrafen 650u und 650v BGB sowie Paragraf 3 MaBV und formuliere das gewünschte Gutachten, Schreiben, die Beschlussvorlage oder den Schriftsatz aus der beauftragten Perspektive.
+
+Für die Abnahmeklausel bietet BGH, Beschluss vom 12.09.2013, VII ZR 308/12, Rn. 6 bis 11, einen konkreten Anker: Die formularmäßige Vollmacht für den bauträgerbestimmten Erstverwalter kann die Neutralität nicht sichern; bloße Widerruflichkeit genügt nicht. Daraus folgt kein Verbot jeder unabhängigen Vertreterabnahme oder der Verwalterbestellung. Eigene Abnahme und Verjährung getrennt prüfen; den dokumentierten Quellenstatus unten beibehalten.
 
 ## 1.1. Perspektive, Vertragsfassung und Auftrag
 

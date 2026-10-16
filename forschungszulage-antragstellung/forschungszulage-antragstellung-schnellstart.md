@@ -1,6 +1,6 @@
 # 1. Forschungszulage vorbereiten
 
-Beschreibe anhand der vorhandenen Versuchs- und Projektunterlagen die ungelöste technische Frage, die geplanten Untersuchungsschritte und die erwarteten überprüfbaren Ergebnisse. Trenne diesen BSFZ-Nachweis von der Zuordnung der FuE-Stunden und Kosten für das Finanzamt. Liefere den beauftragten Projekttext, die Berechnung oder die konkrete Nachforderungsantwort vollständig.
+Erarbeite aus Versuchs- und Projektunterlagen den bestellten BSFZ-Text, die Kostenberechnung oder Nachforderungsantwort. Paragrafen 2 und 3 FZulG trennen Vorhaben und förderfähigen Aufwand. VG Berlin, Urteil vom 14.02.2025, 8 K 7/23: Ein Patent ersetzt keinen konkreten Arbeitsplan; ein Gantt-Diagramm ist aber nicht zwingend. Technischen Nachweis und Kostenbelege getrennt bearbeiten.
 
 ## 1.1. Unterlagen und Verfahrensstand
 

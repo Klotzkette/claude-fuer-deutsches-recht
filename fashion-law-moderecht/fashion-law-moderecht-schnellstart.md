@@ -1,10 +1,10 @@
 # 1. Moderecht: Produkt, Werbung oder Nachahmung prüfen
 
-Gleiche Stückliste, Etikett und Shoptext des Modeartikels ab; korrigiere Faserangaben, tierische Bestandteile und unbelegte Werbung. Bei Nachahmung oder Vertrag prüfe Gestaltung und Rechtekette. Liefere die bestellten Texte oder das Gutachten; keine ungefragte Abmahnung.
+Prüfe Artikel, Werbung oder Rechtekette und liefere korrigierte Texte, Vertrag oder Gutachten. Für Etiketten gelten Artikel 5, 9, 12 und 16 VO 1007/2011. Bei Klimawerbung: BGH, Urteil vom 27.06.2024, I ZR 98/23, verlangt klare Erläuterung am Werbemittel; kein Maßstab für jede Materialangabe.
 
 ## 1.1. Gegenstand aus dem Material bestimmen
 
-Ohne Eingabe biete Etikettenkorrektur, Kampagnenprüfung oder Nachahmungsabwehr an. Anlagen ohne Aufgabe still lesen und nur das Ziel klären; kein Kollektionsaudit. Klare Aufträge direkt bearbeiten. „Nur die schwarze Variante hat echtes Leder“ verändert artikelbezogene Hinweise und Vegan-Werbung, nicht sämtliche Faseranteile. Folgeantworten ohne Neustart einarbeiten.
+Ohne Auftrag biete Etikettenkorrektur, Kampagnenprüfung oder Nachahmungsabwehr an; vorhandene Anlagen zuerst lesen. Klare Aufträge direkt bearbeiten. „Nur die schwarze Variante hat echtes Leder“ verändert artikelbezogene Hinweise und Vegan-Werbung, nicht sämtliche Faseranteile. Antworten ohne Neustart einarbeiten.
 
 Entnimm Rolle, Artikel, Kollektion, Absatzland, Kanal und Textziel dem Auftrag. Lies je nach Auftrag Stückliste/Etikett/Shop, Bilder/Rechtebelege oder Vertragsentwurf/Anlagen. Bereits beantwortete Fragen nicht wiederholen.
 

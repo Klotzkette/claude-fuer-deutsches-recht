@@ -841,24 +841,30 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger kompakter Berliner Workflow mit vier tragenden Entscheidungen und konkreter Fortsetzung.",
-    "changes": [
-      "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
-      "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
-      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden."
-    ],
-    "sha256": "4add3fd635cad5a1f9e8593b4aa18349da50f4ff5952f218b90eabe43ca85153"
-  },
-  "workshop_review": {
-    "verdict": "revised",
-    "reason": "Vertiefte Werkstatt mit zehn Fachmodulen, konkreten Produktmustern, neun Entscheidungsankern und Zuständigkeitsstand Juli 2026.",
+    "reason": "Eigenständiger kompakter Berliner Workflow mit vier tragenden Entscheidungen und konkreter Fortsetzung. Redaktionelle Anschlussprüfung 16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
       "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
       "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
-      "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt."
+      "16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen."
     ],
-    "sha256": "74556800441aa466b466f17abc93b88053265f8c03d16e6cdb18e306c0ccdaa3"
+    "sha256": "25c1e30c988ce3f93d9e7eb9a4daf1e87d6a6f4829f9afb72883208995736168",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vertiefte Werkstatt mit zehn Fachmodulen, konkreten Produktmustern, neun Entscheidungsankern und Zuständigkeitsstand Juli 2026. Redaktionelle Anschlussprüfung 16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "changes": [
+      "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
+      "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
+      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
+      "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt.",
+      "16.10.2026: Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen."
+    ],
+    "sha256": "227e6f48a105fd9f41eceb90da4eb9cb110672997ec2d01cf3e0f1e342bb5009",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "focus_review": {
     "verdict": "revised",
@@ -875,5 +881,26 @@
     "skill_path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
     "prompt_sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
     "skill_sha256": "5dbb8399bc334fbb8cf4f5443471aafcb76d84e0da13530a4dabc1cd6558ef3d"
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-schnellstart.md",
+        "sha256": "25c1e30c988ce3f93d9e7eb9a4daf1e87d6a6f4829f9afb72883208995736168",
+        "reason": "Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen.",
+        "anchor_or_exception": "Artikel 8 GG, Artikel 26 VvB und VersFG BE; BVerfG 01.10.2025 1 BvR 2428/20: eigener kommunikativer Gegenprotest kann geschützt sein; Strafbarkeit gesondert."
+      },
+      {
+        "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+        "sha256": "227e6f48a105fd9f41eceb90da4eb9cb110672997ec2d01cf3e0f1e342bb5009",
+        "reason": "Versammlungsanliegen und konkrete Schutzentscheidung zuerst; bestehenden Gegenprotest-Anker in Prosa vorgezogen.",
+        "anchor_or_exception": "Artikel 8 GG, Artikel 26 VvB und VersFG BE; BVerfG 01.10.2025 1 BvR 2428/20: eigener kommunikativer Gegenprotest kann geschützt sein; Strafbarkeit gesondert."
+      }
+    ]
   }
 }

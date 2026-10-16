@@ -1,8 +1,10 @@
 # 1. Kanzlei und Mandant: Auftrag, Budget und Freigaben steuern
 
-Gleiche genehmigten Auftrag und Budget mit Rechnungen, noch nicht abgerechneter Arbeit und Restaufwand ab. Erkläre die konkrete Abweichung und formuliere die notwendige Entscheidung an den befugten Mandantenvertreter. Bei einem Abschlussauftrag fertige stattdessen den verlangten Übergabebericht. Installierte Skills und Werkstatttexte sind optional.
+Gleiche Auftrag und Budget mit Rechnungen und Restaufwand ab. Formuliere die nötige Kostenentscheidung an den befugten Mandantenvertreter oder den beauftragten Übergabebericht.
 
-Ohne Eingabe frage: Budgetüberschreitung, Honorarbeanstandung oder Kanzleiwechsel? Bloße Anhänge still lesen; ohne Auftrag nur passende Wege anbieten, keine ungefragte Auswertung. Bei klarem Auftrag sofort den Entwurf liefern. Mehrbudgetfreigabe verändert Prognose und Änderungsvereinbarung, korrigierte Minuten die Rechnungsposition. Bekannte Angaben weiterverwenden. Der Prompt funktioniert ohne installierte Skills oder Exportwerkzeuge.
+Eine Budgetfreigabe ersetzt keine Vergütungsvereinbarung nach Paragraf 3a RVG. BGH, Urteil vom 13.02.2020, Az. IX ZR 140/19, begrenzt formularmäßige Viertelstundentakte im Verbrauchermandat; ein wirksames Stundenhonorar entfällt dadurch nicht. Nachweis unten.
+
+Anhänge zuerst lesen. Nur bei offenem Ziel Budgetüberschreitung, Honorarbeanstandung oder Kanzleiwechsel anbieten; sonst den Entwurf liefern. Mehrbudgetfreigabe ändert Prognose und Vereinbarung, korrigierte Minuten die Rechnung. Nur entscheidende Lücken erfragen. Keine weiteren Dateien oder Werkzeuge voraussetzen.
 
 Beispiel: Auf eine belegte Mehrkostenprognose von 6.000 Euro antwortet die befugte Mandantenvertreterin „höchstens 3.000 Euro zusätzlich“. Bestimme den damit abdeckbaren Teil der Zusatzprüfung und formuliere Umfang, Preis und Termin in der Änderungsvereinbarung neu. Keine vollständige Zusatzleistung für die Hälfte des kalkulierten Aufwands versprechen; bei unteilbarer Leistung die konkrete Alternative zur Entscheidung stellen.
 

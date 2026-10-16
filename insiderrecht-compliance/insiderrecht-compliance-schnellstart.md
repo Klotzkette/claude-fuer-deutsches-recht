@@ -1,14 +1,14 @@
 # 1. Insiderrecht: Information und Handlung beurteilen
 
-Kläre, ab welchem Zeitpunkt die geplante Übernahme, Prognoseänderung oder Personalentscheidung eine Insiderinformation war, wer davon wusste und welche Handels- oder Veröffentlichungspflicht daraus folgte. Verfasse den beauftragten Insidervermerk, Ad-hoc-Entwurf, die Aufschubbegründung oder Behördenantwort anhand des damaligen Informationsstands.
+Rekonstruiere Informationsinhalt, Kenntnis und Handlung und schreibe den bestellten Insidervermerk, Ad-hoc-Entwurf oder die Behördenantwort. Artikel 7 und 17 MAR trennen Insiderqualität und Veröffentlichung. EuGH, Urteil vom 28.06.2012, C-19/11, Geltl: Zwischenschritte eigenständig auf Präzision prüfen; große Kurswirkung ersetzt keine realistische Eintrittserwartung. Die Entscheidung zum Vorgängerrecht beantwortet nicht die seit 2026 geänderten Veröffentlichungspflichten. Maßgeblich bleibt der damalige Informationsstand.
 
-## 1.1 Information und Zeitablauf
+## 1.1. Information und Zeitablauf
 
 Ohne Eingabe biete Transaktionsinformation, Prognoseänderung oder Handelswunsch an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten, etwa Insidervermerk oder Ad-hoc-Entwurf. Klaren Auftrag direkt ausarbeiten; bekannte Zeitpunkte übernehmen. Neues präzises Gerücht: Vertraulichkeit und Veröffentlichung neu prüfen; frühere Order: Wissens- und Handlungsfolge ändern, nicht automatisch Handel freigeben.
 
 Bestimme für jeden entscheidenden Zeitpunkt den konkreten Informationsinhalt, seine Präzision, Öffentlichkeit, Quelle und Wissensträger. Begründe Kursrelevanz aus damaliger Sicht eines verständigen Anlegers; spätere Kursbewegungen allein ersetzen diese Prüfung nicht. Verwende keine starren Wahrscheinlichkeitsprozente für Insiderqualität.
 
-## 1.2 Fehlende Nachweise und Fortsetzung
+## 1.2. Fehlende Nachweise und Fortsetzung
 
 Fehlt der Zeitpunkt einer Kenntnisnahme, frage nach der betreffenden Nachricht, Zugriffsaufzeichnung oder Sitzungsunterlage. Fehlt bei einer möglichen Veröffentlichung der Vergleich zur bisherigen Kommunikation, fordere die letzte einschlägige öffentliche Aussage an. Ein Verteiler beweist nicht ohne Weiteres die tatsächliche Kenntnis jedes Empfängers.
 
@@ -16,7 +16,7 @@ Nach Eingang ordne den neuen Beleg zeitlich ein und aktualisiere die betroffene 
 
 Bei offenem Instrumentenbezug oder Informationsinhalt liefere die belegbare zeitliche Darstellung als Teilstand, aber keine ungesicherte Handels- oder Veröffentlichungsfreigabe. Benenne genau die für die Endfassung nötige Ergänzung und setze nach ihrer Lieferung fort.
 
-## 1.3 Insiderqualität, Handlung und Veröffentlichung trennen
+## 1.3. Insiderqualität, Handlung und Veröffentlichung trennen
 
 Prüfe Artikel 7 MAR für die Information und Artikel 8 sowie 14 MAR für Handel, Empfehlung oder Veranlassung. Ordne Offenlegung und Marktsondierung gesondert ein. Besitzzeitpunkt, Order, Änderung oder Stornierung, Ausführung und Kommunikation sind eigenständige Tatsachen.
 
@@ -26,7 +26,7 @@ Prüfe nach Artikel 17 MAR zuerst, ob eine Veröffentlichungspflicht besteht. Un
 
 Seit 5. Juni 2026 nimmt Artikel 17 Absatz 1 MAR qualifizierte Zwischenschritte gestreckter Vorgänge von der Veröffentlichung aus; Absatz 1a verlangt Geheimhaltung, Absatz 7 erfasst deren Verlust. Maßgeblich ist [Verordnung EU 2024/2809](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R2809), Artikel 2 Nummer 6, Artikel 4 Absatz 3. Bei Vereinbarungen nennt [Delegierte Verordnung EU 2026/789](https://eur-lex.europa.eu/eli/reg_del/2026/789/oj/deu), Artikel 1 mit Anhang I Nummer 1, die Unterzeichnung oder gleichwertige verbindliche Handlung als finales Ereignis. Die Liste ist nicht abschließend und ersetzt Artikel 7 nicht. Bei echtem Aufschub nach Artikel 17 Absatz 4 MAR prüfe den Widerspruch zur letzten öffentlichen Kommunikation konkret anhand Artikel 2 und Anhängen II/III der Verordnung 2026/789.
 
-## 1.4 Kontrollen und Meldungen
+## 1.4. Kontrollen und Meldungen
 
 Prüfe Insiderliste und Eigengeschäfte nach Artikeln 18 und 19 MAR getrennt von der Veröffentlichung. Ordne Rolle, betroffene Personen, Geschäftsdatum, Instrument, Handelsverbotszeitraum, Freigabe und Meldevorgang anhand der konkreten Voraussetzungen zu. Eine interne Freigabe ersetzt nicht die Prüfung des gesetzlichen Verbots; eine Liste beweist nicht jede behauptete Handlung.
 
@@ -34,13 +34,13 @@ Bei einem Aufschub kläre Verantwortliche, dokumentierte Gründe, fortlaufende G
 
 Bei personenbezogenen Aufzeichnungen beachte [Artikel 5 Datenschutz-Grundverordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679), insbesondere Datenminimierung. Beschaffe und verbreite keine zusätzlichen personenbezogenen Daten ohne sachlichen Bedarf und zulässige Grundlage.
 
-## 1.5 Ergebnis nach Auftrag
+## 1.5. Ergebnis nach Auftrag
 
 Ein Insidervermerk erläutert den damaligen Informationsstand und die daraus folgende Bewertung. Eine Aufschubbegründung behandelt die konkreten Voraussetzungen und ihre fortlaufende Überwachung. Eine Ad-hoc-Mitteilung enthält die erforderliche sachliche Information, keine interne Prüfliste. Eine Behördenantwort beantwortet das konkrete Auskunftsverlangen und trennt belegte Tatsachen von noch offenen Punkten.
 
 Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Auswahl weiterer Module. Tabellen sind für Ereignis- und Kenntnisvergleiche sinnvoll, aber nicht Pflichtbestandteil jeder Ausgabe. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
 
-## 1.6 Quellen und Grenzen
+## 1.6. Quellen und Grenzen
 
 Prüfe die tragenden Normen und ihre zeitliche Geltung amtlich; Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und verifiziertem Aussagegehalt verwenden. Halte Quellenstatus und Abrufprobleme in einer separaten Arbeitsnotiz fest, nicht im Veröffentlichungsentwurf oder Mandantenbrief. Vor Abschluss kontrolliere Zeitpunkte, öffentliche Gegeninformationen, Entscheidungsträger und die Einarbeitung neuer Antworten.
 

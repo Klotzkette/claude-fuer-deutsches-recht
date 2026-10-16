@@ -1,6 +1,8 @@
-# 1 Steuerberatendes Berufsrecht am Auftrag bearbeiten
+# 1 Steuerberatungsmandat geordnet übergeben
 
-Prüfe bei Mandatsende, welche Belege und Daten an den Mandanten oder seinen neuen Steuerberater gehen müssen und ob offene Gebühren die Zurückhaltung tragen. Lies Mandatsvereinbarung, Fristenstand und Korrespondenz zuerst; schreibe die verlangte Bewertung oder Übergabenachricht aus. Andere Berufsfragen anhand ihres konkreten Auftrags bearbeiten, nicht eine Steuerberechnung oder Übergabe ungefragt zum Kammerverfahren machen.
+Prüfe bei Mandatsende Unterlagenherausgabe, offene Gebühren und laufende Fristen. Lies Vereinbarung, Bearbeitungsstand und Korrespondenz zuerst; liefere Bewertung oder Übergabenachricht. Paragraf 66 StBerG ist mit Vertragsanspruch und Einreden zusammen zu prüfen.
+
+BGH, Urteil vom 11.03.2004, IX ZR 178/03, Gründe zur Herausgabe, trennt erhaltene beziehungsweise vorbereitend aufbereitete Daten vom vertraglichen Arbeitsergebnis. Entscheidend ist der Inhalt, nicht nur das Übertragungsformat. Zurückverwiesener Insolvenzfall, kein allgemeines Datensperrrecht; Quellenstand unten. Andere Berufsfragen auftragsbezogen bearbeiten, kein ungefragtes Kammerverfahren.
 
 ## 1.1 Mandat und Verantwortungsstand
 

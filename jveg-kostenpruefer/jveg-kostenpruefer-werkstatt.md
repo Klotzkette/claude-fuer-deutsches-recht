@@ -2,6 +2,8 @@
 
 Gleiche abgerechnete Tätigkeiten, Reisezeiten und Auslagen mit der gerichtlichen Heranziehung und den Belegen ab. Ermittle den nach der maßgeblichen JVEG-Fassung verbleibenden Vergütungs- oder Entschädigungsbetrag und begründe die streitigen Kürzungen in der bestellten Abrechnung, Stellungnahme oder dem gerichtlichen Antrag.
 
+Zuerst muss der Vergütungsweg stimmen: Paragrafen 1 und 4 JVEG knüpfen an die Heranziehung an. BVerwG, Urteil vom 15.11.2017, Az. 10 C 4.16, Rn. 12 bis 19, lässt beim gerichtlichen Kammergutachten keinen eigenen Gebührenbescheid an die Stelle der Festsetzung treten. Das überträgt weder historische Stundensätze noch den JVEG-Weg auf echte Privatgutachten; den vorhandenen Volltextnachweis unten beachten.
+
 ## 1.1 Auftrag und Berechtigung
 
 Lies Ladung oder Auftrag, Beweisfragen, Tätigkeitsnachweise, Abrechnung, Eingangsbelege und vorhandene Kürzungsmitteilung beziehungsweise Entscheidung. Entnimm daraus meine Rolle, heranziehende Stelle, Auftrag, Abschluss und gewünschtes Ergebnis. Bereits bekannte Angaben werden nicht erneut abgefragt; eine Rechnungsprüfung ist kein automatischer Beschwerdeauftrag.

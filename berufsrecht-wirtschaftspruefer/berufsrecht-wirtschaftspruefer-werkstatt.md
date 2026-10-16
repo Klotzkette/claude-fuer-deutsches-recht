@@ -1,6 +1,8 @@
-# 1. Wirtschaftsprüfer-Berufsrecht: Auftrag, Unabhängigkeit und Aufsicht
+# 1. Wirtschaftsprüfer: Auftrag, Unabhängigkeit und Aufsicht
 
-Kläre, ob der Wirtschaftsprüfer den Abschluss trotz eigener Vorleistungen prüfen darf, welche Arbeitspapiere eine beanstandete Prüfungshandlung belegen und wie der konkrete Aufsichtsvorwurf zu beantworten ist. Verfasse anhand von Auftrag, Unabhängigkeitsangaben und Prüfungsakte das verlangte Annahmevotum, den Qualitätsvermerk, Vertrag oder die Aufsichtsantwort. Eine berufsrechtliche Beurteilung bescheinigt keine tatsächlich nicht durchgeführte Abschlussprüfung.
+Prüfe, ob eigene Vorleistungen die Abschlussprüfung ausschließen, welche Arbeitspapiere die beanstandete Handlung belegen und wie der Aufsichtsvorwurf zu beantworten ist. Liefere das bestellte Annahmevotum, den Qualitätsvermerk, Vertrag oder die Stellungnahme aus Auftrag und Prüfungsakte. Keine tatsächlich nicht durchgeführte Prüfung bescheinigen.
+
+Paragraf 319 HGB bildet den Ausgangspunkt für Ausschlussgründe. BGH, Urteil vom 21.01.2010, Xa ZR 175/07, Rn. 8 bis 24, betrifft wesentliche eigene Erstellung des Anhangs und spätere Selbstprüfung: Anfänglichen Verbotsvertrag und erst späteren Pflichtverstoß samt Vergütungsfolgen trennen. Der Fall betrifft älteres Recht und eine freiwillige Prüfung mit gesetzlich nachgebildetem Vermerk; nicht jede Beratung ist Abschlussaufstellung, nutzbare Teilleistungen gesondert prüfen. Vorhandener Quellenstand unten.
 
 ## 1.1. Prüfungsart und Rolle
 

@@ -36,13 +36,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Antragsbezogene Entscheidungsreife statt allgemeinem Herstellungsauftrag. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Am 23. September vollständig erneut gelesen: Aufnahmeübersichten gekürzt, konkrete Dokumentwege und Kisteninhalt als fortsetzbare Beweisfrage ergänzt; unter 7500 Bytes und Zeichen.",
+    "reason": "Antragsbezogene Entscheidungsreife statt allgemeinem Herstellungsauftrag. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Am 23. September vollständig erneut gelesen: Aufnahmeübersichten gekürzt, konkrete Dokumentwege und Kisteninhalt als fortsetzbare Beweisfrage ergänzt; unter 7500 Bytes und Zeichen. Redaktioneller Nachtrag 16.10.2026: Erheblichen noch nicht erhobenen Zeugenbeweis früh von späterer Gesamtwürdigung getrennt. Lieferbeispiel, offene richterliche Wertung und Nebenentscheidungen bleiben bestehen; kein vorgegebenes Beweisergebnis. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Noch angebotenen Zeugenbeweis von nachträglicher Würdigung getrennt; vorhandene Aussageinhalte werden ausgewertet, fehlender richterlicher Eindruck blockiert nicht sämtliche Rechtsprüfung oder bedingte Gründe.",
       "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
       "Gerichtliche Antwort zum Inhalt der Kiste verändert Beweisabschnitt, Hauptforderung und Kosten; keine erfundene Zuordnung einer Unterschrift."
     ],
-    "sha256": "49b3b7d0733b1a9ec8aa60dc2241733207d1459e87d68114e230746be16bf0fc"
+    "sha256": "b736d7a475ea917f4a1c3d3aa837d13993acf052a432bac30c060f7205da47f1"
   },
   "selection": {
     "positive": [
@@ -90,14 +90,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Noch angebotenen Zeugenbeweis von nachträglicher Würdigung getrennt; vorhandene Aussageinhalte werden ausgewertet, fehlender richterlicher Eindruck blockiert nicht sämtliche Rechtsprüfung oder bedingte Gründe. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Am 23. September erneut vollständig gelesen: konkrete Hinweise, Widerspruchswürdigung und nachträgliche Zahlung mit Folgewirkungen ausgearbeitet.",
+    "reason": "Noch angebotenen Zeugenbeweis von nachträglicher Würdigung getrennt; vorhandene Aussageinhalte werden ausgewertet, fehlender richterlicher Eindruck blockiert nicht sämtliche Rechtsprüfung oder bedingte Gründe. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Am 23. September erneut vollständig gelesen: konkrete Hinweise, Widerspruchswürdigung und nachträgliche Zahlung mit Folgewirkungen ausgearbeitet. Redaktioneller Nachtrag 16.10.2026: Erheblichen noch nicht erhobenen Zeugenbeweis früh von späterer Gesamtwürdigung getrennt. Lieferbeispiel, offene richterliche Wertung und Nebenentscheidungen bleiben bestehen; kein vorgegebenes Beweisergebnis. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Antragsbezogene Entscheidungsreife statt allgemeinem Herstellungsauftrag.",
       "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
       "Fehlender Preisvortrag führt zum bestimmten Hinweis; Antwort verändert Schlüssigkeit und Beweisbedarf. Kistenzuordnung, Inhalt und richterliche Überzeugung getrennt.",
       "Zahlungsbeleg verändert Rechnung und abhängige Nebenentscheidungen, ersetzt aber keine Rücknahme- oder Erledigungserklärung."
     ],
-    "sha256": "385fa9337f945f7a2a9e3978ec0a5e20c5f6d688408789979c99782ffa7f7495"
+    "sha256": "4e55c98e06cd9563ee4c7439425eba9769a5ab26f8bb4dd1ad65480430702d91"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

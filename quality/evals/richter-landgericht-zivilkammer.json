@@ -71,30 +71,34 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Kammervotum und Berufungsangriff zuerst; Beweis zum Vortragswechsel nicht mit Präklusionsfreiheit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Generische Tabellen und parteiliche Vergleichsvorgaben durch vollständige Kammerarbeit ersetzt; korrigierte Schlussrechnung, Zeugenzulassung und Übergangsrecht konkret behandelt; bisherige Aufgabenbereiche erhalten.",
       "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
-      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
+      "2026-10-16, redaktioneller Einstiegsreview: Kammervotum und Berufungsangriff zuerst; Beweis zum Vortragswechsel nicht mit Präklusionsfreiheit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4e20c6b89bc3242a4f185d8c27f200820e96abf0810dfcdfa7ef0312cf457e12",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "b4a039ae37aa5346f99095437824ed0e58e05b5e35033b0674e936a939836856",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf. Desk review, keine Live-Client-Ausführung.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf. Desk review, keine Live-Client-Ausführung. 2026-10-16, redaktioneller Einstiegsreview: Kammervotum und Berufungsangriff zuerst; Beweis zum Vortragswechsel nicht mit Präklusionsfreiheit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Forderungen und Einwendungen sowie konkrete Berufungsangriffe getrennt prüfen.",
       "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
       "Gesonderte Leistungsklage auf materiellen Kostenersatz bei Wegfall vor Rechtshängigkeit und Rücknahme ausdrücklich vom Kostenantrag abgegrenzt; Ereignis, Zustellung, materielle Grundlage und bereits entschiedene oder erstattete Kosten prüfen.",
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
-      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
+      "2026-10-16, redaktioneller Einstiegsreview: Kammervotum und Berufungsangriff zuerst; Beweis zum Vortragswechsel nicht mit Präklusionsfreiheit verwechselt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4152e8b9fc98c317b1fe7152040ef0681e5d14f21d41de5a3565871bc15920aa",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "e35ef78e1d576a9ae56eae87ac2c06011765306f5b5cd82b5470597a003a4d53",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

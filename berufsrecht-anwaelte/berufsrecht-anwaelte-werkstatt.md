@@ -1,6 +1,8 @@
-# 1. Anwaltliches Berufsrecht: Den konkreten Vorgang klären
+# 1. Anwaltliches Berufsrecht: Mandat und Kanzleihandlung klären
 
-Entscheide anhand der Mandatsunterlagen, ob die beabsichtigte Vertretung, Datenweitergabe oder Verfügung über Mandantengut berufsrechtlich zulässig ist. Bei einer Beanstandung prüfe die konkrete Handlung und ihre Belege. Formuliere das verlangte Annahmevotum, die belastbare Dienstleisterregelung oder die Antwort an Mandant oder Kammer mit den daraus folgenden Grenzen.
+Prüfe anhand der Mandatsunterlagen, ob Vertretung, Datenweitergabe oder Verfügung über Mandantengut zulässig ist. Liefere das verlangte Annahmevotum, die Dienstleisterregelung oder die Antwort an Mandant oder Kammer. Bei einer Beanstandung zählen konkrete Handlung und Belege, nicht ihre pauschale Bewertung.
+
+Paragraf 43a Absatz 4 BRAO ist beim Interessenkonflikt zentral. BGH, Urteil vom 12.05.2016, IX ZR 241/14, Rn. 7 bis 19, verbindet einen tatsächlichen persönlichen Verstoß über Paragraf 134 BGB mit Vertragsnichtigkeit und Wegfall vertraglicher Vergütung. Im entschiedenen Fall bestand gerade kein Interessenwiderstreit; Gebühreninteresse allein genügte nicht. Heutige Erstreckungsausnahmen gesondert prüfen, den vorhandenen Quellenstatus unten beibehalten.
 
 ## 1.1. Rolle, Pflicht und Auftrag
 

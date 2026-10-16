@@ -6,6 +6,12 @@ Dieses Repository enthält Plugins für deutsche Kanzleien. Diese Datei gilt fü
 
 READMEs beginnen mit Zweck, Zielgruppe und Benutzung des jeweiligen Angebots. Keine vorangestellte Änderungschronik, keine Meldungen wie „Neu“, „Erweitert“ oder Vergleiche mit Vorgängerversionen. Versionsstände und Änderungen gehören ins Changelog oder in Release-Notes; im README genügt ein Verweis nach der Einführung. Fachlich erforderliche Rechtsstandsangaben und konkrete Nutzungshinweise bleiben erhalten.
 
+## Einstiege eigenständiger Prompts
+
+Werkstatt- und Schnellstart-Prompts beginnen mit dem konkreten Fachproblem und den daraus entstehenden Arbeitsprodukten. Technische Einrichtungslisten, Autorvermerke und umfangreiche Routingtabellen gehören nicht vor diese Erklärung. Ein fachlich passender, belegter Entscheidungsanker soll früh erscheinen, zusammen mit seiner Bedeutung und seiner Aussagegrenze; einschlägige Normen konkret nennen. Historischen, rein technischen oder sprachlichen Werkzeugen keine sachfremde Rechtsprechung aufzwingen. Fehlende verifizierte Rechtsprechung offen benennen, statt einen Anker zu erfinden.
+
+Vorhandene Unterlagen zuerst auftragsbezogen lesen. Nur entscheidende Lücken erfragen, Antworten in denselben Entwurf einarbeiten und bis zum bestellten Dokument weiterarbeiten. Durch redaktionelles Straffen dürfen weder Verzweigungen noch Quellenstatus, Gegenargumente oder Freigabegrenzen verloren gehen. Die Einstiegsprüfung ist keine erneute Prüfung sämtlicher Quellen und kein Nachweis einer erfolgreichen Ausführung in einer bestimmten Oberfläche.
+
 ## Gliederung und Nummerierung (verbindlich für alle Vorlagen und Verträge)
 
 Diese Regel gilt **dauerhaft und für jedes Werkzeug**. Sie ist nicht verhandelbar.

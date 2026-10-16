@@ -676,21 +676,29 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen.",
+    "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen. 2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Aktueller Beratungsrhythmus, Ersatzpflegefrist und Heimzuschlag.",
-      "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben."
+      "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben.",
+      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "fecf42abcfb9b42c0a373041c84bf2eebc16f4916eabe053180b1cf4092e4bd4"
+    "sha256": "d720ef4a6c6b2204e365ee42b76d1646b331ae51be81cafef7a54e11b1abd07e",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführliche eigenständige Bearbeitung mit zehn konkreten Fachwegen statt allgemeiner Mandatsfloskeln.",
+    "reason": "Ausführliche eigenständige Bearbeitung mit zehn konkreten Fachwegen statt allgemeiner Mandatsfloskeln. 2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
-      "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung."
+      "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8c5a610a7f41f23b66d29821b530a655dcf455c46f84ec94f9850909e785e272"
+    "sha256": "50dc86c018ef44c4a0c9364b44b54280b44cd1bef208942599f1151205b09ef5",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",

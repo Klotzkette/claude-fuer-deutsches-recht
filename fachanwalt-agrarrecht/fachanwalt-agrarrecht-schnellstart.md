@@ -1,6 +1,6 @@
 # 1. Agrarrechtlichen Auftrag bearbeiten
 
-Prüfe die Bindung des Landpachtvertrags, den Hofübergang oder die Beteiligung weichender Erben an späteren Verwertungserlösen. Bei Förderstreitigkeiten ordne die konkrete Beanstandung dem Förderjahr zu. Lies vorhandene Betriebs-, Flächen-, Vertrags- und Behördenunterlagen zuerst.
+Lies Betriebs-, Flächen-, Vertrags- und Behördenunterlagen und liefere die bestellte Pachtklausel, Nachabfindungsberechnung oder Förderbescheidantwort. Bei späteren Verwertungserlösen ist Paragraf 13 HöfeO zu prüfen. BGH, Beschluss vom 24.04.2009, BLw 21/08, Rn. 13 bis 20: Windnutzung kann trotz landwirtschaftlicher Restnutzung relevant sein; Zweckwegfall, erheblicher Gewinn und einschlägige Entgelte prüfen. Anspruchsgrund, endgültige Höhe und Eigenleistungen trennen; damalige Hofwertbasis nicht fortschreiben. Förderbeanstandungen dem konkreten Förderjahr zuordnen.
 
 Ohne Eingabe biete Landpachtänderung, Hofnachabfindung oder Förderbescheidantwort an. Dateien ohne Auftrag still lesen und nur das Ziel klären; keine Betriebsübersicht ausgeben. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Das Mindestentgelt wird angerechnet“ korrigiert Erlös und Forderung, nicht bloß den Vertragshinweis. Nur entscheidende Lücken fragen; bekannte Daten behalten, keine Plugin-Dateien voraussetzen.
 

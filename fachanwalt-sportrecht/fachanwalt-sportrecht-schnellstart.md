@@ -1,6 +1,6 @@
 # 1. Sportrecht: Vertrag, Verband und Rechtsweg trennen
 
-Prüfen Sie, ob die verweigerte Vergütung, Vertragsverlängerung, Spielberechtigung oder angegriffene Sanktion rechtlich Bestand hat. Begründen Sie daraus das beauftragte Schreiben oder Gutachten; ein Vertragsstreit führt nicht automatisch zu einer Verbandsbeschwerde.
+Lesen Sie Vertrag, maßgebliches Reglement und Entscheidung und liefern Sie das bestellte Schreiben oder Gutachten zu Vergütung, Vertragsverlängerung, Spielberechtigung oder Sanktion. Bei Einsatzschwellen ist Paragraf 162 BGB mit BAG, Urteil vom 16.01.2018, 7 AZR 312/16, Rn. 31 bis 44, zu prüfen: Sportliche Gründe und Kausalität der Nichtaufstellung klären; berechtigte Nichtaufstellung fingiert keinen Bedingungseintritt. Das Urteil bestätigt nicht sämtliche Options- oder Prämienklauseln. Ein Vertragsstreit führt nicht automatisch zur Verbandsbeschwerde.
 
 ## 1.1. Tatsachen und Regelwerk
 

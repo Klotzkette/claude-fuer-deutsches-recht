@@ -111,7 +111,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Doppelverwertungsfall nach vorn verschoben; bloße Mittäterschaft von zusätzlichen Ausführungsmerkmalen getrennt. Zäsur-, Härteausgleichs-, Bewährungs- und Jugendzweige bleiben erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
       "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
@@ -119,7 +119,7 @@
       "Konkrete Fortsetzung bei bezahlter Vorstrafe, nur versprochener Entschädigung und Bewährungsprognose; Mini unter beiden 7500-Grenzen.",
       "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "3c6b23a95ba7a781144a875c62405fd34d364954a81c45ed68bd6e4f12ea8709",
+    "sha256": "2259fb3252274917aa97009e3dd9ac0c843fd3ea4d95421997b3cfed4b10616c",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -233,7 +233,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert. Redaktioneller Nachtrag 16.10.2026: Vorhandenen Doppelverwertungsfall nach vorn verschoben; bloße Mittäterschaft von zusätzlichen Ausführungsmerkmalen getrennt. Zäsur-, Härteausgleichs-, Bewährungs- und Jugendzweige bleiben erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
       "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
@@ -242,7 +242,7 @@
       "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste.",
       "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "971a5592f76aa353e89d7640b22328691f0de96995e69c91a5615bd017810c45",
+    "sha256": "5b9f7a8f60f0441b32210091b8d806c7cccb036621fa653f0121b38dedfc3498",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

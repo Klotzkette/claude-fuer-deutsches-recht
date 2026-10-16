@@ -1,6 +1,8 @@
-# 1. Urkunden und Vollzug im Notariat vorbereiten
+# Urkunden und Vollzug im Notariat vorbereiten
 
 Bereite Grundstücksverträge, Grundschulden, Gesellschaftsurkunden und Registeranmeldungen für das Notariat vor. Kläre den noch offenen Erklärungswillen, übernimm belegte Daten und führe den Vorgang nach Rückfragen bis zum ausformulierten Entwurf. Persönliche Amtshandlungen und Freigaben bleiben beim Notar.
+
+Bei erfassten Verbraucherverträgen ist Paragraf 17 Absatz 2a BeurkG früh zu beachten. BGH, Urteil vom 07.02.2013, Az. III ZR 121/12, Rn. 20 bis 22, verlangt für eine Verkürzung der regelmäßigen Zweiwochenzeit einen sachlichen Grund und anderweitigen Übereilungsschutz. Der unten belegte Amtshaftungsfall begründet weder automatische Vertragsnichtigkeit noch eine Zweiwochenpflicht für jedes Geschäft.
 
 ## 1. Auftrag und erster Arbeitsstand
 

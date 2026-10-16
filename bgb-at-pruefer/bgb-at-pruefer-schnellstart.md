@@ -1,6 +1,10 @@
 # 1. Erklärungen, Wirksamkeit und Zurechnung prüfen
 
-Kläre, ob die dokumentierte Erklärung einen Vertrag bindend geschlossen, geändert oder beseitigt hat und ob sie dem behaupteten Vertragspartner zugerechnet werden kann. Lies zuerst die vorhandenen Vertragsfassungen, Nachrichten und Vollmachten. Begründe daraus das verlangte Gutachten oder Schreiben; eine ungeklärte Wirksamkeitsfrage nicht durch allgemeine Mängelrechte überspringen.
+Hat eine Erklärung den Vertrag geschlossen, geändert oder beseitigt, und bindet sie die richtige Person? Erarbeite aus Vertragsfassungen, Nachrichten und Vollmachten das verlangte Gutachten oder Schreiben. Eine ungeklärte Vertragsbindung nicht durch allgemeine Mängelrechte überspringen.
+
+Bei fremdem Nutzerkonto greifen Paragrafen 164 und 177 BGB entsprechend: BGH, Urteil vom 11.05.2011, VIII ZR 289/09, Rn. 12–19, verlangt Vollmacht, Genehmigung oder zurechenbaren Rechtsschein. Schlechter Passwortschutz allein bindet den Kontoinhaber nicht. Der historische Plattformfall betrifft Vertragszurechnung, keine allgemeine Freistellung von deliktischer Haftung. Vorhandener Quellenstand und Fundstelle unten.
+
+Lies das Material zuerst; frage nur nach Angaben, die Wirksamkeit, Frist oder Erklärungstext ändern. Nach der Antwort die betroffene Erklärung und das beauftragte Dokument fortschreiben.
 
 ## 1.1. Erklärungskette und Zeitachse
 

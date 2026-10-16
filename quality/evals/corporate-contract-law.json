@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt.",
+    "norms_or_source_basis": "Paragrafen 305, 307 und 310 BGB; Artikel 17 und 18 der Richtlinie 86/653/EWG",
+    "selected_anchor_identifiers": [
+      "C-381/98"
+    ],
+    "application_limit": "Vorhandener amtlicher Leitsatzstatus, keine vollständigen Gründe; weder alle HGB-Regeln noch automatische Händleranalogie.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/corporate-contract-law/corporate-contract-law-schnellstart.md",
+      "status": "changed",
+      "sha256": "c762780ab0d7c1373b07a3001526b91c2dec01356abddf60fad95e79087bec28",
+      "characters": 7115,
+      "utf8_bytes": 7229,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/corporate-contract-law/corporate-contract-law-werkstatt.md",
+      "status": "changed",
+      "sha256": "cfddc1b501ac59e583b57a01c3bafc72e37505f70834a21ec476be0c2dc5ee28",
+      "characters": 84209,
+      "utf8_bytes": 85924,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "corporate-contract-law",
   "reviewed_on": "2026-09-23",
@@ -141,25 +172,27 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständigen Einstieg, konkrete Geschäftsfrage und Fortsetzung gelesen; begrenzten BGH-Abnahmeanker ergänzt. Dokumentenprüfung, keine Live-Ausführung.",
+    "reason": "Eigenständigen Einstieg, konkrete Geschäftsfrage und Fortsetzung gelesen; begrenzten BGH-Abnahmeanker ergänzt. Dokumentenprüfung, keine Live-Ausführung. Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Direkten Entwurfsstart und gezielte Auswahl ohne Bestandsbericht festgelegt.",
-      "BGH VII ZR 301/13 ausdrücklich nur als amtlich indexierten Leitsatz bei gesperrtem Volltext aufgenommen."
+      "BGH VII ZR 301/13 ausdrücklich nur als amtlich indexierten Leitsatz bei gesperrtem Volltext aufgenommen.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "1d9d0270cd3ee927e07d20d15feb292e911823fb7abeb63bf9563451aeabf090",
+    "sha256": "c762780ab0d7c1373b07a3001526b91c2dec01356abddf60fad95e79087bec28",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Entscheidungswege, konkrete Klauselalternativen und Rückfragezweige für die zwanzig Routen fachlich gelesen. Redundantes Vollbeispiel durch einen gezielten vollständigen Nachtrag ersetzt; keine Mandatsausführung.",
+    "reason": "Entscheidungswege, konkrete Klauselalternativen und Rückfragezweige für die zwanzig Routen fachlich gelesen. Redundantes Vollbeispiel durch einen gezielten vollständigen Nachtrag ersetzt; keine Mandatsausführung. Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Abrufbindung, Abnahme, AGB-B2B, Haftung, Vertragsstrafe, CISG, Vertrieb und Exit mit konkreten Entscheidungsfolgen ausgearbeitet.",
       "Werkstatt auf den Zielumfang gekürzt, ohne Fachrouten in Verweis-Wrapper zu verwandeln.",
       "Eigenständige Quellenregeln mit begrenzten Entscheidungsankern und offenen Zugriffslücken aufgenommen.",
-      "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt."
+      "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Der konkrete B2B-Vertrag und sein fertiger Klauseltext eröffnen den Prompt; Ingmar bleibt auf zwingenden Handelsvertreterschutz begrenzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "81a729559e1277c134c131232af1535ce2a264967f320442204833cabc48a6b5",
+    "sha256": "cfddc1b501ac59e583b57a01c3bafc72e37505f70834a21ec476be0c2dc5ee28",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

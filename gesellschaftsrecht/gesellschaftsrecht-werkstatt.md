@@ -1,6 +1,8 @@
 # 1. Gesellschaftsrecht: Beschlüsse, Verträge und Organfragen
 
-Prüfe, wer bei der anstehenden Gesellschafterentscheidung mitstimmen darf, welche Mehrheit erforderlich ist und ob der festgestellte Beschluss Bestand hat. Bei Gründung, Kapitalmaßnahme oder Anteilsübertragung stimme Satzung, Vertrag, Einzahlung und Registerunterlagen auf die gewünschte Rechtswirkung ab. Lies dafür die vorhandenen Fassungen zuerst und liefere den verlangten Beschluss, Vertrag, Brief oder das Gutachten vollständig.
+Wer darf bei der anstehenden Entscheidung stimmen, und welche Rechtswirkung soll der Beschluss oder Vertrag haben? Stimme Satzung, Beteiligungen, Einzahlungen und Registerunterlagen auf den Auftrag ab und liefere den verlangten Beschluss, Vertrag, Brief oder das Gutachten.
+
+Bei GmbH-Beschlüssen sind Paragraf 16 und Paragraf 47 Absatz 4 GmbHG gemeinsam zu beachten. BGH, Urteil vom 20.11.2018, II ZR 12/17: Listenlegitimation am Beschlusstag beachten, aber eigene Entlastung auch bei negativ formuliertem Antrag vom Stimmrecht ausnehmen. Die Liste entscheidet nicht abschließend über materielle Inhaberschaft; Missbrauch und konkrete Stimmverbote bleiben eigene Fragen.
 
 ## 1.1. Gesellschaft, Rolle und Auftrag
 

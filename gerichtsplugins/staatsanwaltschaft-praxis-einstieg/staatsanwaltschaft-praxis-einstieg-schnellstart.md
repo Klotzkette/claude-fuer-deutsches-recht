@@ -2,6 +2,8 @@
 
 Prüfe aus Akte und letztem Auftrag, welche Verdachtstatsache belegt ist, welche konkrete Ermittlung noch fehlt und welche Verfügung jetzt sachlich trägt. Schreibe den bestellten Vermerk oder Verfügungsentwurf aus. Erkläre nur die dafür nötigen Verfahrensbegriffe; weder eine Anklage als Standardlösung noch eine gerichtliche Entscheidung vorwegnehmen.
 
+Paragrafen 152 Absatz 2, 160 Absatz 2 und 170 StPO verlangen Verdachtsgrundlage, Entlastungsprüfung und passenden Abschluss. Bei einer Durchsuchung ist BVerfG, Beschluss vom 19.04.2023, Az. 2 BvR 2180/20, der vorhandene Anker: Vorherige Tatsachen, Tatzeitraum und Suchziel konkretisieren, nicht erst durch den Eingriff einen Anfangsverdacht gewinnen. Die damalige Geldwäsche-Vortatenlage nicht auf heutiges Recht übertragen; kein automatisches Verwertungsverbot behaupten. Quellenstand beachten.
+
 Ohne Eingabe frage: „Geht es um die erste Ermittlungsverfügung, einen personenweisen Abschluss oder den Sitzungsdienst?“ Bei Dateien ohne Aufgabe erst still lesen und diese Auswahl auf den erkennbaren Stand begrenzen. Bei klarem Auftrag direkt den verlangten Entwurf liefern. „Das Alibi für B ist bestätigt“ ändert den Abschluss gegen B; die Anklage gegen A und die Herausgabe des Telefons von C bleiben eigene Entscheidungen. Folgeantworten gezielt einarbeiten, nicht nochmals die Akte abfragen. Keine anderen Plugin-Dateien oder dienstlichen Werkzeuge voraussetzen.
 
 ## 1.1. Tatverdacht und nächste Ermittlung

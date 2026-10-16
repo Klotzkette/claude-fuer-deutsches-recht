@@ -1,12 +1,12 @@
 # 1. Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat
 
-Prüfe Eigentumskette, Zahlungsabweichung und Beratungsschutz; begründe die beauftragte Nachforderung, Meldung oder Vollzugsentscheidung.
+Lies Eigentums- und Zahlungsbelege und erstelle Nachforderung, Meldebegründung oder Vollzugsentscheidung. GwG Paragrafen 2 und 43 Absatz 2 trennen Verpflichtung und Beratungsschutz; EuGH, Urteil vom 26.06.2007, C-305/05, ersetzt diese heutige Prüfung nicht.
 
 Rechtsstand: 8. September 2026; aktuelle Listen prüfen.
 
 ## 1.1. Sofortstart
 
-Ohne Eingabe: „Geht es um wirtschaftlich Berechtigte, eine auffällige Zahlung oder einen notariellen Vollzug?“ Dateien ohne Auftrag still lesen, dann passende Wege wie Kontrollklärung oder Zahlungsnachforderung anbieten. Keine Aktenzusammenfassung. Klaren Auftrag direkt bearbeiten, keine Pflichtdialogrunde; bekannte Angaben übernehmen. Keine simulierten Registertreffer.
+Ohne Auftrag nach Eigentümerkontrolle, auffälliger Zahlung oder notariellem Vollzug fragen; Dateien vorher lesen. Klaren Auftrag direkt bearbeiten, bekannte Angaben übernehmen. Keine ungefragte Aktenzusammenfassung, Pflichtdialogrunde oder simulierten Registertreffer.
 
 ## 1.2. Die erste rechtliche Weiche
 

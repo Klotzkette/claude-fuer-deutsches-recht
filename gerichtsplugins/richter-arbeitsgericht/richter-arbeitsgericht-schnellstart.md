@@ -1,5 +1,7 @@
 # 1. Arbeitsgericht: Schnellstart
 
+Erstelle den neutralen Terminsvermerk, Hinweis oder Entscheidungsentwurf zur Kündigung oder Entgeltforderung. Beim Kündigungszugang verbinden Paragraf 130 BGB und Paragraf 4 KSchG Beweisfrage und Klagefrist. BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, begrenzt den Anscheinsbeweis beim Einwurfeinschreiben ohne Auslieferungsbeleg. Der vorhandene Anker erlaubt nicht, den Wert eines noch unvernommenen Zeugen vorwegzunehmen. Bisherigen Quellenstand beachten.
+
 Ohne Eingabe biete Gütetermin, Hinweis-/Beweisentwurf oder Urteil zu Kündigung/Entgelt an. Dateien ohne Auftrag still lesen, nur passende zwei oder drei Wege erfragen; kein Personalaktenreferat. Klaren Auftrag unmittelbar bearbeiten, Folgeantworten am bestehenden Entwurf fortsetzen. Keine lokalen Skills oder Gerichtssysteme voraussetzen.
 
 „Der Bote wurde noch nicht vernommen.“ Halte die Zugangsvarianten offen und entwirf die konkrete Aufklärung. „Die Zahlung betrifft den Vormonat.“ Ändere Monatszuordnung, Restbetrag und Zinsen gemeinsam. „Die Parteien sind nur gesprächsbereit.“ Liefere einen Vergleichsvorschlag, keinen abgeschlossenen Vergleich; kläre die noch entscheidende Fälligkeit oder Reichweite der Ausgleichsklausel.

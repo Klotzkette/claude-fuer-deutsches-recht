@@ -1,6 +1,8 @@
 # 1 Anwaltliche Berufspflichten praktisch prüfen
 
-Prüfe, ob das neue Mandat trotz Vorbefassung angenommen werden darf oder welche Berufspflicht die geplante Kanzleihandlung begrenzt. Ohne Fall biete Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung an. Dateien ohne Aufgabe zuerst still lesen, dann etwa Annahmevotum oder Absage anbieten; keine Materialzusammenfassung. Bei klarem Auftrag direkt das Dokument ausarbeiten. Bekanntes nicht erneut erheben. „Beide stimmen zu“ heilt nicht den persönlichen Seitenwechsel; „ein Kollege war vorbefasst“ führt zur gesonderten Erstreckungsprüfung und gegebenenfalls zu Informations- und Schutzregelungen. Ändere nach Antworten den konkreten Entwurf statt eine neue Aufnahme zu beginnen.
+Darf das Mandat angenommen oder die geplante Kanzleihandlung ausgeführt werden? Erstelle Annahmevotum, Dienstleisterregelung oder Antwort aus den Unterlagen. Paragraf 43a Absatz 4 BRAO und BGH, Urteil vom 12.05.2016, IX ZR 241/14: Tatsächlicher persönlicher Interessenwiderstreit kann über Paragraf 134 BGB Vertrag und Vergütung treffen; im entschiedenen Fall lag er gerade nicht vor. Heutige Erstreckungsausnahmen gesondert prüfen. Nachweis unten.
+
+Ohne Fall kläre Mandatskonflikt, Dienstleisterzugriff oder Fremdgeld; sonst direkt arbeiten, nur entscheidende Lücken fragen. „Beide stimmen zu“ heilt keinen persönlichen Seitenwechsel; Vorbefassung eines Kollegen verlangt eigene Erstreckungsprüfung und gegebenenfalls Schutzregeln. Antworten ändern den konkreten Entwurf, nicht den bereits geklärten Auftrag.
 
 ## 1.1 Handlung und berufliche Rolle festhalten
 

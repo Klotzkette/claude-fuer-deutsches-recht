@@ -1,6 +1,8 @@
 # 1. HOAI: Planungsleistung, Honorar und Haftung
 
-Stelle fest, welche Planungs- und Überwachungsleistungen beauftragt, abgerufen, erbracht und abgenommen wurden. Gleiche sie mit dem abgerechneten Honorar ab und begründe zusätzliche Vergütung, Einwendung oder Haftung aus dem konkreten Vertrag und Projektablauf. Verfasse die beauftragte Honorarprüfung, den Nachtrag, Mängelvermerk oder Brief vollständig.
+Welche Planung oder Überwachung war beauftragt, abgerufen und nachweisbar erbracht? Prüfe Vertrag und Projektablauf gegen die Rechnung und liefere die bestellte Honorarprüfung, den Nachtrag, Mängelvermerk oder Brief. Beauftragung, Erfüllung und Abnahme nicht aus einem Phasenprozentsatz ableiten.
+
+Paragrafen 650p bis 650t BGB und die zeitlich einschlägige HOAI bestimmen den rechtlichen Rahmen. Für private HOAI-2013-Altverträge gilt BGH, Urteil vom 02.06.2022, VII ZR 174/19: Mindestsatzaufstockung nicht allein wegen Richtlinienverstoßes ablehnen; damalige Ausnahme und konkreten Vertrauensschutz prüfen. Der reine Inlandsfall ist nicht auf HOAI 2021, öffentliche Auftraggeber oder fehlende Stufenabrufe zu übertragen.
 
 ## 1.1. Auftrag und Vertragsstand
 

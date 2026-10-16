@@ -46,7 +46,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Klagebegründungsfrist und Reichweite früh erläutert, Vertiefung, Entschuldigung und geringer Ermittlungsaufwand erhalten. Verspäteter Vortrag wird nicht zur pauschalen Unzulässigkeit der ganzen Klage. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
       "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
@@ -54,7 +54,7 @@
       "Leere Eingabe, stille Dateisichtung und klaren Auftrag ausdrücklich getrennt; Brutstättenbefund verändert Rüge und räumlichen Sicherungsbedarf.",
       "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
     ],
-    "sha256": "03512869a01077641c73650c1a77bcf63ad921823283833e159ad3978926ee4f",
+    "sha256": "75c088f79ba917210d4c54f2e7976037358f92519b7377f814d0a22b7426b515",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -110,7 +110,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Klagebegründungsfrist und Reichweite früh erläutert, Vertiefung, Entschuldigung und geringer Ermittlungsaufwand erhalten. Verspäteter Vortrag wird nicht zur pauschalen Unzulässigkeit der ganzen Klage. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
       "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
@@ -119,7 +119,7 @@
       "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet.",
       "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
     ],
-    "sha256": "9a95f188efc53ddac74028e831bf5b0bd3c30ac089d033c09d2a4152b02b1ff6",
+    "sha256": "9600c3613797a2ef43f150b25192510e56f5e4be316921393d4e7ce2ac2d5384",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

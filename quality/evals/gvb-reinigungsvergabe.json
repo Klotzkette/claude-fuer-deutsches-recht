@@ -354,19 +354,23 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fünf vorbereitende und fünf verfahrensführende Schritte mit konkreten Reinigungsfragen und abgegrenzten Rechtsankern.",
+    "reason": "Fünf vorbereitende und fünf verfahrensführende Schritte mit konkreten Reinigungsfragen und abgegrenzten Rechtsankern. Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
-      "Eigenständiger kompakter Vergabeablauf mit kontrollierter Rückfrage und Fortsetzung."
+      "Eigenständiger kompakter Vergabeablauf mit kontrollierter Rückfrage und Fortsetzung.",
+      "Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "c27c9b14e5eadac5e195719a35948cc5d57815801fcf052412f9029089bf98b3"
+    "sha256": "87e680e41129d23a6dfbab1077cfd838ac8c903a8d3c0ef9276a7b6bec8ae58c"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausgearbeitete Stationsreinigung, Kalkulation, Vertrag, Verhandlung und Nachprüfung statt abstrakter Dokumentenanalyse.",
+    "reason": "Ausgearbeitete Stationsreinigung, Kalkulation, Vertrag, Verhandlung und Nachprüfung statt abstrakter Dokumentenanalyse. Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
     "changes": [
-      "Jeder Schritt liefert bestimmte Dokumente; Rücksprünge erhalten Los und Fassung."
+      "Jeder Schritt liefert bestimmte Dokumente; Rücksprünge erhalten Los und Fassung.",
+      "Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
     ],
-    "sha256": "132535f0f5bc75d4281ca2d6f7760f1c49e669d57aa77e70b169ae8083a20260"
+    "sha256": "f78cc5e08fbfa4c65485c1f556d81149b96918afd89770231482ea1aff5f5f06"
   },
   "prompt_workflow_review": {
     "date": "2026-10-10",
@@ -404,6 +408,42 @@
     "remaining_limits": [
       "Berliner Beschlüsse sind bei nicht erreichbarem Original offene Suchhinweise.",
       "Konkrete Rechtslage und externe Modellleistung bleiben fallbezogen zu prüfen."
+    ]
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert. Werkstatt auf einen Dokumenttitel und nachgeordnete dezimale H2/H3-Gliederung korrigiert. Mini auf einen Dokumenttitel und nachgeordnete dezimale Gliederung korrigiert.",
+    "anchor_or_exception": "EuGH, Urteil vom 28.10.2020, C-521/18; Paragrafen 137, 142 GWB, Paragraf 1 SektVO",
+    "source_status": "Vorhandener Werkstatt-Rechercheanker gelesen; sources dokumentieren keine gesonderte Pegaso-Volltextprüfung. Originalprüfung vor konkreter Verwendung ausdrücklich erhalten.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "c27c9b14e5eadac5e195719a35948cc5d57815801fcf052412f9029089bf98b3",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "132535f0f5bc75d4281ca2d6f7760f1c49e669d57aa77e70b169ae8083a20260",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+        "sha256": "f78cc5e08fbfa4c65485c1f556d81149b96918afd89770231482ea1aff5f5f06",
+        "characters": 32860,
+        "utf8_bytes": 33414
+      },
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+        "sha256": "87e680e41129d23a6dfbab1077cfd838ac8c903a8d3c0ef9276a7b6bec8ae58c",
+        "characters": 7369,
+        "utf8_bytes": 7484
+      }
     ]
   }
 }

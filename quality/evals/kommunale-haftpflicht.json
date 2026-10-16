@@ -691,20 +691,21 @@
     "method": "author_desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Vollständige Autorgegenlektüre der kompakten eigenständigen Fassung einschließlich der letzten Kürzungen. Alle drei Ereignisarten, aktuelle Anker mit Grenzen, Drei-Ebenen-Prüfung, Anspruchsübergänge, Datenverarbeitung und tatsächliches Endprodukt sind enthalten. Rein redaktionelle Desk-Review; kein Modelllauf.",
+    "reason": "Vollständige Autorgegenlektüre der kompakten eigenständigen Fassung einschließlich der letzten Kürzungen. Alle drei Ereignisarten, aktuelle Anker mit Grenzen, Drei-Ebenen-Prüfung, Anspruchsübergänge, Datenverarbeitung und tatsächliches Endprodukt sind enthalten. Rein redaktionelle Desk-Review; kein Modelllauf. Redaktionelle Einstiegslektüre am 16.10.2026: Haftungsvermerk und Schadenberechnung vor Arbeitsrubriken; Glätteanker nach vorn verlagert, Typografie vereinheitlicht.",
     "changes": [
       "Kommunales Eigentum von Amtshaftung trennen, kein pauschales Mitverschulden beim Gebäudesturz.",
       "§10 HaftPflG mit 300.000 EUR, Grundstücksausnahme und §12-Konkurrenzprüfung; kein Deckungslimit daraus.",
       "Gespannanker 2026 nur bei passender Konstellation; §17 StVG nicht aus bloßer Schadenmehrheit ableiten.",
-      "Kürzung auf 7.471 UTF-8-Bytes ohne Auslagerung in notwendige Zusatzdateien; drei direkte amtliche Entscheidungen bleiben enthalten."
+      "Kürzung auf 7.471 UTF-8-Bytes ohne Auslagerung in notwendige Zusatzdateien; drei direkte amtliche Entscheidungen bleiben enthalten.",
+      "Redaktion 16.10.2026: Haftungsvermerk und Schadenberechnung vor Arbeitsrubriken; Glätteanker nach vorn verlagert, Typografie vereinheitlicht. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "e17172e67c50447cdc284d8b034f16ad604ee1df634d9d968d87c20520819c95"
+    "sha256": "96267b2246b1f2f20379cde382b5e366402900e63389a4d8f0d0ed73afe42c25"
   },
   "workshop_review": {
     "method": "author_desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Die Erstprüfung der Abschnitte 1.1–1.38 bleibt als vorheriger Prüfstand erhalten; diese Abschnitte wurden inhaltlich nicht geändert. Ergänzung 1.39 wurde gegen die gesonderten Primärquellen und den konkreten Geburtsschadenfall gelesen, einschließlich Elternvertretung, Pflege-/Erwerbsprognose, Kapitalabfindung und Brutto-/Nettoausgleich. Autoren-Desk-Review mit unabhängiger juristischer Gegenlektüre der Erweiterung; kein behaupteter Werkstatt-Modelltest. Abschnitt 1.40 ergänzt acht konkrete Alltagsrouten und elf amtlich gelesene Entscheidungsanker; Anspruchsrichtung, Schadensrechnung und zeitlicher Normstand wurden gezielt gegengeprüft. Die bisherigen Abschnitte 1.1–1.39 und die kompakten Prompts bleiben unverändert.",
+    "reason": "Die Erstprüfung der Abschnitte 1.1–1.38 bleibt als vorheriger Prüfstand erhalten; diese Abschnitte wurden inhaltlich nicht geändert. Ergänzung 1.39 wurde gegen die gesonderten Primärquellen und den konkreten Geburtsschadenfall gelesen, einschließlich Elternvertretung, Pflege-/Erwerbsprognose, Kapitalabfindung und Brutto-/Nettoausgleich. Autoren-Desk-Review mit unabhängiger juristischer Gegenlektüre der Erweiterung; kein behaupteter Werkstatt-Modelltest. Abschnitt 1.40 ergänzt acht konkrete Alltagsrouten und elf amtlich gelesene Entscheidungsanker; Anspruchsrichtung, Schadensrechnung und zeitlicher Normstand wurden gezielt gegengeprüft. Die bisherigen Abschnitte 1.1–1.39 und die kompakten Prompts bleiben unverändert. Redaktionelle Einstiegslektüre am 16.10.2026: Haftungsvermerk und Schadenberechnung vor Arbeitsrubriken; Glätteanker nach vorn verlagert, Typografie vereinheitlicht.",
     "changes": [
       "Haushaltsführungsschaden nach Tätigkeiten und Zeiträumen, nachvollziehbarer Nettoersatzkraftansatz, Schmerzensgeld ohne Tagesformel.",
       "Sozialregress mit frühem Übergang und Kongruenz; EFZG/VVG nicht pauschal denselben Übergangszeitpunkt unterstellen.",
@@ -713,9 +714,10 @@
       "AKHA-Kontext ohne fiktive Mitgliedschaft oder Bedingungen; echte Rückversicherung unter §209 VVG gesondert.",
       "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag.",
       "Abschnitt 1.39: kommunaler Klinikfall, BGH VI ZR 186/08 Rn. 18–21 und VI ZR 377/17 Rn. 14, § 1643 Abs. 5 BGB sowie getrennte Lasten- und Zahlungsrechnung.",
-      "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen."
+      "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen.",
+      "Redaktion 16.10.2026: Haftungsvermerk und Schadenberechnung vor Arbeitsrubriken; Glätteanker nach vorn verlagert, Typografie vereinheitlicht. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "20b15a830e2e234ce03a4c529a56bfd5a97218194ea3749221cde8c55a8fa7b3"
+    "sha256": "5cb0f45da653de4846413271acc86ea866ba3016be8b33748370660d7dc77114"
   },
   "focus_review": {
     "method": "desk_review",

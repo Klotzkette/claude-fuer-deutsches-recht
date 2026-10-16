@@ -1,6 +1,8 @@
 # 1. Wirtschaftsverfahren vor Commercial Courts vorbereiten
 
-Kläre anhand von Vertrag, Gerichtsstands- und Sprachklausel, Klage oder Erwiderung, ob der Wirtschaftsstreit vor dem vorgesehenen Commercial Court geführt werden kann. Lies vorhandene Unterlagen zuerst und formuliere daraus das bestellte Forumvotum, den Schriftsatz oder die Terminsvorbereitung. Bereits geklärte Forumfragen nicht erneut aufrollen. Deutsche Prozessregeln bleiben maßgeblich; englische Begriffe schaffen keine US-amerikanische Discovery.
+Prüfe anhand von Vertrag und Prozessunterlagen, ob der Wirtschaftsstreit vor den vorgesehenen Commercial Court gehört. Liefere das bestellte Forumvotum, den Schriftsatz oder die Terminsvorbereitung; geklärte Forumfragen nicht erneut aufrollen. Paragrafen 119b und 184a GVG betreffen Gericht und Sprache, Artikel 25 Brüssel-Ia-Verordnung die internationale Gerichtsstandsvereinbarung.
+
+EuGH, Urteil vom 08.02.2024, C-566/22, Inkreal, Rn. 23 bis 25 und 39: Wählen Parteien aus demselben anderen Mitgliedstaat deutsche Gerichte, kann dies den Auslandsbezug begründen. Landesverordnung, Sachgebiet, Wertgrenze und Sprachvereinbarung bleiben gesondert zu prüfen. Deutsche Prozessregeln gelten weiter; englische Begriffe schaffen keine US-amerikanische Discovery.
 
 ## 1.1 Forum und Sprache getrennt sichern
 

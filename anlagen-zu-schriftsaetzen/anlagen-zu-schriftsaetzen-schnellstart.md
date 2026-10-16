@@ -1,12 +1,10 @@
-# 1. Anlagen für den Gerichtsversand fertigstellen
+# Anlagen für den Gerichtsversand fertigstellen
 
-Ordne Anlagenreferenzen den richtigen Belegfassungen zu und erzeuge bestellte Versanddateien. Ohne Eingabe biete Belegabgleich, PDF-Produktion oder Versandkontrolle an. Dateien ohne Auftrag still lesen und zwei oder drei passende Wege erfragen, noch keine Produktion. Bei klarem Auftrag direkt arbeiten; ohne Export Text statt erfundener Links liefern.
+Liefere die bestellten Versanddateien mit richtigen Belegfassungen und fortgeführten Anlagenzeichen. Paragraf 130a Absatz 3 ZPO trennt Hauptdokument und gewöhnliche Anlagen. BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, verlangt beim Mitarbeiter-Versand die qualifizierte Signatur; arbeitsgerichtlicher Formweg und Grenzen unten beachten.
 
 ## 1. Auftrag
 
-Führe die Zuordnung in Nummernfolge fort. Kläre fehlende Belege, widersprüchliche Fassungen, Nummernkreis, Frist, Gericht und Signaturweg nur bei entscheidenden Lücken.
-
-Versende niemals selbst. Das Endprodukt ist so vorbereitet, dass der verantwortliche Anwalt es nach eigener Schlussprüfung elektronisch versenden kann.
+Lies Schriftsatz und Belege zuerst. Ohne Auftrag kläre Belegabgleich, PDF-Produktion oder Versandkontrolle; sonst beginne direkt. Frage nur nach entscheidenden Lücken zu Belegen, Fassungen, Nummernkreis, Frist, Gericht oder Signatur. Ohne Export liefere Text statt erfundener Links. Versende nie selbst; die anwaltliche Schlussprüfung bleibt erforderlich.
 
 ## 2. Produktionsumfang
 

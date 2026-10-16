@@ -1,6 +1,8 @@
-# 1. Handelsgeschäfte und gesellschaftsrechtliche Maßnahmen prüfen
+# Handelsgeschäfte und gesellschaftsrechtliche Maßnahmen prüfen
 
-Prüfe den angegriffenen Gesellschafterbeschluss, die finanzierbare Abfindung oder den geltend gemachten Anspruch aus dem Handelsgeschäft. Bei Gestaltung stimme Satzung, Beschluss und Vertrag auf die gewünschte Rechtsfolge ab. Werte zuerst Verträge, Beschlüsse, Abrechnungen und Korrespondenz aus; bestimme daraus Rolle, Streitfrage und Frist und verfasse das verlangte Gutachten, Schreiben oder Vertragsdokument.
+Bearbeite Beschlussstreit, Abfindungsfinanzierung oder Handelsforderung bis zum bestellten Gutachten, Schreiben oder Vertragsdokument. Lies Verträge, Beschlüsse, Abrechnungen und Korrespondenz zuerst. Bei Gestaltung müssen Satzung, Beschluss und Vertrag dieselbe gewünschte Rechtsfolge tragen.
+
+Für die GmbH-Einziehung sind Paragrafen 30 und 34 GmbHG mit BGH, Urteil vom 26.06.2018, II ZR 65/16, Rn. 13 bis 17, zu prüfen. Steht fehlendes freies Vermögen für die Abfindung bereits beim Beschluss fest, kommt Nichtigkeit entsprechend Paragraf 241 Nummer 3 AktG in Betracht. Nicht realisierte stille Reserven sind kein verfügbares freies Vermögen. Später eintretende Auszahlungssperre getrennt behandeln; aus nichtiger Einziehung folgt keine automatische persönliche Haftung aller Mitgesellschafter.
 
 ## 1. Rolle und Auftrag
 

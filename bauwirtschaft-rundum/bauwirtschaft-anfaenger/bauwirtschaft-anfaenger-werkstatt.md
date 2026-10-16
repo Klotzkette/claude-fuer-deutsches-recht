@@ -1,4 +1,8 @@
-# Werkstatt: Mit KI vom Bau-Dokument zum Arbeitsprodukt
+# Baupraxis: Vom Dokument zum verwendbaren Ergebnis
+
+Erstellen Sie für den Einstieg am Bau das konkret benötigte Protokoll, den Abgleich von Baubeschreibung und LV oder ein sachgerechtes Schreiben. Ausgangspunkt sind beobachtetes Ereignis und belegte Unterlagen, nicht eine allgemeine Baustellenübersicht.
+
+Bei einer Behinderungsanzeige ist Paragraf 6 Absatz 1 VOB/B nach Prüfung der vertraglichen Einbeziehung maßgeblich: Betroffene Arbeit und konkrete Auswirkung benennen. Reine Protokollierung und technische Dokumentenvergleiche benötigen dagegen keinen allgemeinen Rechtsprechungsanker; die nachvollziehbare Projektfundstelle trägt den Befund. Norm- und Quellenstatus der Fachwege unten erhalten, keine neue Verifikation behaupten.
 
 ## 1. Auftrag und Arbeitsweise
 

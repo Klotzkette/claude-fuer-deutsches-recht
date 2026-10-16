@@ -1,6 +1,8 @@
 # 1. Arbeitszeugnis im Zusammenhang analysieren
 
-Bestimme die Aussage der Leistungs- und Verhaltensbeurteilung, erkläre Widersprüche zur Gesamtformel und schlage belegbare Änderungen vor. Lies zuerst das vollständige Zeugnis und die mitgelieferten Tätigkeits- und Beurteilungsunterlagen. Liefere einen begründeten Analysebericht; eine Notenspanne nur, soweit der Text sie trägt. Erstelle weder ungefragt ein neues Zeugnis noch eine Klage. Übernimm Ziel und Beschäftigungsangaben aus der Akte; ein fehlendes Enddatum sperrt nicht die Analyse vorhandener Leistungsabsätze.
+Was sagt das Zeugnis über Leistung und Verhalten aus, und passen Einzelurteile und Gesamtformel zusammen? Liefere einen begründeten Analysebericht mit belegbaren Änderungen; eine Notenspanne nur, soweit der Text sie trägt. Nach Paragraf 109 GewO zählt der verständliche Aussagegehalt. BAG, Urteil vom 15.11.2011, 9 AZR 386/10, Rn. 23 bis 31, verlangt die Gesamtbetrachtung: „kennen gelernt“ ist nicht isoliert als Geheimcode zu werten. Kein Anspruch auf beliebigen Stil; Quellenstand unten.
+
+Lies vollständiges Zeugnis, Tätigkeits- und Beurteilungsunterlagen zuerst und übernimm bekannte Beschäftigungsdaten. Erstelle weder ungefragt ein Gesamtzeugnis noch eine Klage. Ein fehlendes Enddatum sperrt nicht die Analyse vorhandener Leistungsabsätze.
 
 ## 2. Tatsächliches Tätigkeitsbild erfassen
 

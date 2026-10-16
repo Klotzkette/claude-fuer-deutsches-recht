@@ -81,20 +81,28 @@
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Quellprompt vollständig übernommen, unternehmensneutral benannt. Budget und Autarkie geprüft; kein neuer juristischer Liveabgleich.",
+    "verdict": "revised",
+    "reason": "Quellprompt vollständig übernommen, unternehmensneutral benannt. Budget und Autarkie geprüft; kein neuer juristischer Liveabgleich. 2026-10-16, redaktioneller Einstiegsreview: Interne Mietforderung und fertiger Außenentwurf zuerst; zusätzliche Vollaufnahme bei klarem Auftrag ausgeschlossen, SAP-Buchung abgegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Produktname an das Zielrepository angepasst."
+      "Produktname an das Zielrepository angepasst.",
+      "2026-10-16, redaktioneller Einstiegsreview: Interne Mietforderung und fertiger Außenentwurf zuerst; zusätzliche Vollaufnahme bei klarem Auftrag ausgeschlossen, SAP-Buchung abgegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1d8258c1fa87cf26d67a9679f05a1b6575c10937320be669510803d638172305"
+    "sha256": "5351a44b27f7660c07aef038b32880eecc92d218b367b01185ace0b171ae1ac9",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollworkflow erhalten und um die konkrete Inhouse-Rolle ohne unterstellte Konzernidentität ergänzt. Keine Erweiterung der rechtlichen Befugnisse.",
+    "reason": "Vollworkflow erhalten und um die konkrete Inhouse-Rolle ohne unterstellte Konzernidentität ergänzt. Keine Erweiterung der rechtlichen Befugnisse. 2026-10-16, redaktioneller Einstiegsreview: Interne Mietforderung und fertiger Außenentwurf zuerst; zusätzliche Vollaufnahme bei klarem Auftrag ausgeschlossen, SAP-Buchung abgegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
-      "Unternehmen und Vertretung ausdrücklich aus der Akte statt aus dem Produktnamen ableiten."
+      "Unternehmen und Vertretung ausdrücklich aus der Akte statt aus dem Produktnamen ableiten.",
+      "2026-10-16, redaktioneller Einstiegsreview: Interne Mietforderung und fertiger Außenentwurf zuerst; zusätzliche Vollaufnahme bei klarem Auftrag ausgeschlossen, SAP-Buchung abgegrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "6c3fd2d6458d5c10e8baff2cfe33c49dc1d3f648343e656fe0a83f415cd7f742"
+    "sha256": "a871839d2b51b4a460f318d72f6de0fe5688150243e39d8eda5ab4e2dab6f8b8",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_workflow_review": {
     "date": "2026-10-07",

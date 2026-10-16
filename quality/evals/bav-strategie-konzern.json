@@ -37,28 +37,34 @@
     }
   ],
   "mini_review": {
-    "sha256": "7d23ce9ec55bd1b0279e669eaaebb9f55d5781c3faedf6b0fd442ce4aa9f2a33",
+    "sha256": "4db503b4d7afc5409f853288ccf089eb39c5a1aeeac4666d62fb4772ffc06f61",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Redaktionelle Anschlussprüfung 16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten. Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären. Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen.",
       "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten."
-    ]
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten.",
+      "16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "17f8777de02168622c8eec53ddd9cbacb13096e5a101b2857a69b31f8c59c539",
+    "sha256": "9aea4d401d6a438bc197dbd43b76f2117162e8c195b44c410b684d37c0ef8d70",
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Redaktionelle Anschlussprüfung 16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
       "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert."
-    ]
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert.",
+      "16.10.2026: Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -176,5 +182,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+        "sha256": "4db503b4d7afc5409f853288ccf089eb39c5a1aeeac4666d62fb4772ffc06f61",
+        "reason": "Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet.",
+        "anchor_or_exception": "Paragraf 1 Absatz 1 Satz 3 BetrAVG; BAG 19.06.2012 3 AZR 408/10: Versorgungskassenkürzung und Einstandspflicht, keine Aussage zur heutigen reinen Beitragszusage."
+      },
+      {
+        "path": "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+        "sha256": "9aea4d401d6a438bc197dbd43b76f2117162e8c195b44c410b684d37c0ef8d70",
+        "reason": "Konzernversorgung als konkrete Entscheidungs- und Umsetzungsvorlage eröffnet.",
+        "anchor_or_exception": "Paragraf 1 Absatz 1 Satz 3 BetrAVG; BAG 19.06.2012 3 AZR 408/10: Versorgungskassenkürzung und Einstandspflicht, keine Aussage zur heutigen reinen Beitragszusage."
+      }
+    ]
   }
 }

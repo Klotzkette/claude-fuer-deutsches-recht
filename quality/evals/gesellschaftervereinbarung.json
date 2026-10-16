@@ -124,16 +124,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Individuelle GmbH-Finanzierungsfragen, Fortsetzung und vollständige Vertragsprodukte statt allgemeiner Analyse.",
-    "changes": [],
-    "sha256": "7da4111be0d11709c0b9f3cbbf65108141638682669c97d435bc7599758542b9"
+    "verdict": "revised",
+    "reason": "Individuelle GmbH-Finanzierungsfragen, Fortsetzung und vollständige Vertragsprodukte statt allgemeiner Analyse. Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
+    "changes": [
+      "Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt.",
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
+    ],
+    "sha256": "dc322594a533acd15523df29905f4a59af27e6a710672a81b9c9aead81e40b9e"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Vierzehn Gestaltungsstationen mit konkreten Abzweigungen, Rechenkontrollen, Quellenbegrenzung und Notarauftrag.",
-    "changes": [],
-    "sha256": "e282d822200d12d1e59c70c0a4082677ab12c26a3c508898d495bccd9edf404b"
+    "verdict": "revised",
+    "reason": "Vierzehn Gestaltungsstationen mit konkreten Abzweigungen, Rechenkontrollen, Quellenbegrenzung und Notarauftrag. Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "changes": [
+      "Einstiegsredaktion 16.10.2026: Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt."
+    ],
+    "sha256": "cf1e2a99bbcb6a9b32c156d270492b1f6aa590e5831a6f42a0c0c67db260412e"
   },
   "focus_review": {
     "method": "desk_review",
@@ -183,6 +188,42 @@
     "remaining_limits": [
       "Weitere Normen und ältere Entscheidungen sind nach dem differenzierten Quellenregister im Einzelfall zu prüfen.",
       "Ergebnisqualität muss in realen Modellläufen gesondert beurteilt werden."
+    ]
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Vertragsziel mit Anteilsform und individueller Leaver-Grenze verbunden; KG-Managementmodell nicht als Gründer-Vesting-Freigabe dargestellt. Mini auf einen Dokumenttitel und nachgeordnete dezimale Gliederung korrigiert.",
+    "anchor_or_exception": "BGH, Urteil vom 10.02.2026, II ZR 71/24; Paragraf 15 Absätze 3, 4 GmbHG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "7da4111be0d11709c0b9f3cbbf65108141638682669c97d435bc7599758542b9",
+        "verdict": "retained"
+      },
+      "workshop_review": {
+        "sha256": "e282d822200d12d1e59c70c0a4082677ab12c26a3c508898d495bccd9edf404b",
+        "verdict": "retained"
+      }
+    },
+    "files": [
+      {
+        "path": "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",
+        "sha256": "cf1e2a99bbcb6a9b32c156d270492b1f6aa590e5831a6f42a0c0c67db260412e",
+        "characters": 27667,
+        "utf8_bytes": 28127
+      },
+      {
+        "path": "gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md",
+        "sha256": "dc322594a533acd15523df29905f4a59af27e6a710672a81b9c9aead81e40b9e",
+        "characters": 6100,
+        "utf8_bytes": 6188
+      }
     ]
   }
 }

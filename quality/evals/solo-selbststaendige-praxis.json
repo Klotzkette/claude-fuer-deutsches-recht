@@ -36,33 +36,37 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen. 2026-10-16, redaktioneller Einstiegsreview: Konkrete Rechnung und Antwort vor Gründungsaufnahme; Abnahme und Mängelrechte samt Abrechnungsverhältnis getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Auftrag, Abnahme und tatsächliche Zahlungsposition eröffnen beide Prompts.",
       "VII ZR 193/15 steuert die gezielte Nachfrage nach Abnahme und endgültiger Erfüllungsablehnung.",
       "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
       "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
       "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
-      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Konkrete Rechnung und Antwort vor Gründungsaufnahme; Abnahme und Mängelrechte samt Abrechnungsverhältnis getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "feb2c83e933b806adaf1fad5a63293ccc6a253e90fad5fdb38c0fc685d8e23a8",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "44428bf5152eb4f3ebc5df2aebf2ab0252dd563ef6b885c8d5ddda7ceb716c79",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen. 2026-10-16, redaktioneller Einstiegsreview: Konkrete Rechnung und Antwort vor Gründungsaufnahme; Abnahme und Mängelrechte samt Abrechnungsverhältnis getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Auftrag, Abnahme und tatsächliche Zahlungsposition eröffnen beide Prompts.",
       "VII ZR 193/15 steuert die gezielte Nachfrage nach Abnahme und endgültiger Erfüllungsablehnung.",
       "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
       "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
       "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
-      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Konkrete Rechnung und Antwort vor Gründungsaufnahme; Abnahme und Mängelrechte samt Abrechnungsverhältnis getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "4f19b50828d9d397e983d72d31f935cb7ec287d20bd75a5a4179df90d7798a20",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "17deafd487b49ac99f88eda7256f3872418c77da70cc171b7b123cdaae02daa1",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

@@ -51,16 +51,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig nachgelesen: Rechteantwort, Rücksendungsabgleich und Kennzeichnung führen zu konkreten Änderungen von Klausel, Rechnung und Preisvermerk. Fehlernachweis und Preisaufhebung bleiben getrennt; Desk-Review, kein Live-Ergebnistest.",
+    "reason": "Mini vollständig nachgelesen: Rechteantwort, Rücksendungsabgleich und Kennzeichnung führen zu konkreten Änderungen von Klausel, Rechnung und Preisvermerk. Fehlernachweis und Preisaufhebung bleiben getrennt; Desk-Review, kein Live-Ergebnistest. Redaktionelle Einstiegsprüfung 16.10.2026: Rechte und Buchzustand statt allgemeiner Vertriebsprüfung; 11 U 41/06 mit fehlendem Beweiswert eines bloßen Mängelstempels und Ausnahme tatsächlicher Mängel früh erklärt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "OLG Frankfurt mit fehlendem Anscheinsbeweis des Mängelstempels eingebunden",
       "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
       "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
       "Drei fachliche Einstiegswege und sofortige Bearbeitung klarer Aufträge ergänzt; doppelte Remissionsabzüge und stillschweigende Erweiterung von Audio-Rechten verhindert.",
-      "Rabattbewertung ausdrücklich als internen Vermerk statt technischer Verkaufssperre gefasst."
+      "Rabattbewertung ausdrücklich als internen Vermerk statt technischer Verkaufssperre gefasst.",
+      "Rechte und Buchzustand statt allgemeiner Vertriebsprüfung; 11 U 41/06 mit fehlendem Beweiswert eines bloßen Mängelstempels und Ausnahme tatsächlicher Mängel früh erklärt."
     ],
-    "sha256": "000dee288aa184e3ce41694ef1c9ac4f7160770980d2e985493aa74195e049a4",
-    "reviewed_on": "2026-09-23",
+    "sha256": "4396122e3f988e73f38f103da58b90bff4b9d4907d0d9ed06baa2cce10777a6c",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "selection": {
@@ -148,16 +149,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig nachgelesen: konkret begrenzte Audio- und Übersetzungsrechte, Nettoabsatzabgleich und gemischte Chargen werden bis zum fertigen Nachtrag, Abrechnungsbrief oder Preisvermerk verarbeitet. Vorherige Spezialmaterien und Fallgrenzen erhalten; Desk-Review, kein Live-Ergebnistest.",
+    "reason": "Werkstatt vollständig nachgelesen: konkret begrenzte Audio- und Übersetzungsrechte, Nettoabsatzabgleich und gemischte Chargen werden bis zum fertigen Nachtrag, Abrechnungsbrief oder Preisvermerk verarbeitet. Vorherige Spezialmaterien und Fallgrenzen erhalten; Desk-Review, kein Live-Ergebnistest. Redaktionelle Einstiegsprüfung 16.10.2026: Rechte und Buchzustand statt allgemeiner Vertriebsprüfung; 11 U 41/06 mit fehlendem Beweiswert eines bloßen Mängelstempels und Ausnahme tatsächlicher Mängel früh erklärt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "OLG Frankfurt mit fehlendem Anscheinsbeweis des Mängelstempels eingebunden",
       "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
       "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
       "Formatnachtrag bei Vorlizenzkonflikt, Honorarfortsetzung nach geklärter Remission und vier Zustandsgruppen für Rücksendungen ausgearbeitet.",
-      "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen."
+      "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen.",
+      "Rechte und Buchzustand statt allgemeiner Vertriebsprüfung; 11 U 41/06 mit fehlendem Beweiswert eines bloßen Mängelstempels und Ausnahme tatsächlicher Mängel früh erklärt."
     ],
-    "sha256": "e01f6627761c3ad42d86861ace3bc2201552f0e887a7bd2206aa7d6301538f63",
-    "reviewed_on": "2026-09-23",
+    "sha256": "70b89f3792bb9dd0d9addd6245613430369b81cda9bd2baf32ba5ae9c30e253e",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

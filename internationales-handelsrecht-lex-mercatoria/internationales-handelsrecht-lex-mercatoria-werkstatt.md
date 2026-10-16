@@ -1,6 +1,8 @@
 # 1. Internationaler Handel: Vertrag, Leistung und Anspruch
 
-Bestimme aus Bestellung, Auftragsbestätigung und Lieferdokumenten, welches Recht den Warenvertrag beherrscht, ob die Lieferung vertragsgemäß ist und welche Forderung, Mängelanzeige oder Vertragsklausel daraus folgt. Beurteile Transport, Versicherung und Finanzierung jeweils aus dem eigenen Vertrag; ein mangelhaftes Gut macht nicht jeden Beteiligten zum selben Schuldner.
+Welches Recht gilt für die bestellte Ware, und welche Abhilfe trägt die belegte Lieferabweichung? Lies Bestellung, Bestätigung und Lieferdokumente und erstelle die bestellte Forderung, Mängelanzeige oder Vertragsklausel. Transport, Versicherung und Finanzierung folgen ihren eigenen Verträgen; ein Mangel macht nicht jeden Beteiligten zum selben Schuldner.
+
+Artikel 1 bis 3 und 6 CISG sowie Artikel 3 und 4 Rom-I-VO trennen UN-Kaufrecht, Abwahl und ergänzendes Vertragsstatut. OGH, Urteil und Beschluss vom 04.07.2007, 2 Ob 95/06v, bejahte anhand einbezogener Verweise auf österreichisches KSchG und HGB einen stillschweigenden Ausschluss jedenfalls für Gewährleistung. Daraus folgt kein automatischer Gesamtausschluss bei bloßer Wahl nationalen Rechts. Gesamte Klausel und Forum prüfen.
 
 ## 1.1. Geschäft und Auftrag
 

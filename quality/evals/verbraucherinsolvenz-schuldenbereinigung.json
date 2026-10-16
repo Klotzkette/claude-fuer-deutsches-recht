@@ -46,13 +46,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: eigenständige Einstiegswege für Schuldenbild, Ratenplan und Pfändungsschutz; eine Drittzusage verändert Zahlungsbeginn, Bedingung und Quote im Plan. IX ZB 55/04 mit begrenztem Beschäftigungs- und Haftungsbezug bleibt erhalten; keine Live-Ausführung.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: eigenständige Einstiegswege für Schuldenbild, Ratenplan und Pfändungsschutz; eine Drittzusage verändert Zahlungsbeginn, Bedingung und Quote im Plan. IX ZB 55/04 mit begrenztem Beschäftigungs- und Haftungsbezug bleibt erhalten; keine Live-Ausführung. Redaktioneller Nachtrag 16.10.2026: Zugangsentscheidung früh mit Haftungs- und Beschäftigungsbezug verknüpft, Mini-Produkt ausdrücklich benannt. Gläubiger statt Positionen zählen; kein pauschaler Ausschluss jeder Steuerschuld und keine Gleichsetzung von Regelverfahren mit versagter Restschuldbefreiung. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Drei Startmodi und bedingte Drittzahlung als konkrete Fortsetzung bis zum neu gerechneten Plan ergänzt.",
       "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
       "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "66e8dc90891cbf702c2ec03bfd473af26bcf5fd143c936940da1f227d6ee51f8"
+    "sha256": "f890452c2a7c9d7169e21af94f45b78e3bfea94592309e3b952aef72c2f738f7"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -112,14 +112,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: aus widersprüchlichen Salden, Drittzusagen und Gegenforderungen entstehen konkrete Verzeichnis-, Plan- und Antragsänderungen. Kopf-/Summenmehrheit, Rücknahmefiktion und Ausnahmen der Restschuldbefreiung gezielt normbezogen ergänzt; bisherige Verfahrensabgrenzungen erhalten.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: aus widersprüchlichen Salden, Drittzusagen und Gegenforderungen entstehen konkrete Verzeichnis-, Plan- und Antragsänderungen. Kopf-/Summenmehrheit, Rücknahmefiktion und Ausnahmen der Restschuldbefreiung gezielt normbezogen ergänzt; bisherige Verfahrensabgrenzungen erhalten. Redaktioneller Nachtrag 16.10.2026: Zugangsentscheidung früh mit Haftungs- und Beschäftigungsbezug verknüpft, Mini-Produkt ausdrücklich benannt. Gläubiger statt Positionen zählen; kein pauschaler Ausschluss jeder Steuerschuld und keine Gleichsetzung von Regelverfahren mit versagter Restschuldbefreiung. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Forderungsanforderung, Teilabtretung und Rate/Quote samt vollständigen Angebotsbedingungen und Gegenbelegen ergänzt.",
       "Paragrafen 305 Absatz 3, 309 und 302 InsO in auslöserbezogene Frist-, Mehrheits- und Einwandsarbeit umgesetzt.",
       "IX ZB 55/04 auf ehemaligen Alleingesellschafter-Geschäftsführer und beschäftigungsbezogene Haftungsschulden begrenzt.",
       "Gläubiger statt Forderungspositionen gezählt; Regelinsolvenz nicht mit fehlender Restschuldbefreiung gleichgesetzt."
     ],
-    "sha256": "6481af0eb8ab46e51de8fd99e4cf1efb006f18141a18f10c202709c196b62894"
+    "sha256": "a7213415aebeb058461ebaba183f07b16004dafe9e6c2ec9888fed4d6e088106"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

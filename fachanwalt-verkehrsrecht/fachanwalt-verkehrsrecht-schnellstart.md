@@ -1,6 +1,6 @@
 # 1. Verkehrsrecht: Verfahren und Ziel trennen
 
-Prüfe die Haftungsquote und gekürzten Schadenspositionen nach meinem Verkehrsunfall oder den konkreten Angriff gegen Bußgeld, Strafvorwurf oder Fahrerlaubnismaßnahme. Begründe daraus das verlangte Regulierungsschreiben, Gutachten oder den Rechtsbehelf; bei Kasko entscheide anhand von Police und Ablehnung über die Deckung.
+Lies Unfallbelege oder Bescheid und liefere das bestellte Regulierungsschreiben, Gutachten oder den Rechtsbehelf. Bei Reparaturkosten nach Paragraf 249 BGB: BGH, Urteil vom 16.01.2024, VI ZR 253/22, Rn. 14 bis 20 und 25 bis 28. Bei offener Rechnung Zahlung an die Werkstatt Zug um Zug gegen Werkstattansprüche prüfen. Unfallbezug und fehlendes Auswahl- oder Überwachungsverschulden bleiben nötig; keine pauschale Kasko-, Zessionars- oder Totalschadenregel. Kasko nach Police und Ablehnung, Bußgeld, Strafvorwurf und Fahrerlaubnis jeweils eigenständig bearbeiten.
 
 ## 1.1. Sachverhalt und Material
 

@@ -1,10 +1,10 @@
 # 1. Europäisches Prozessrecht: Vom Auftrag zum Schriftsatz
 
-Prüfe anhand der Verfahrensakte, welcher Antrag den Unionsakt oder Rechtsfehler angreift beziehungsweise welche Unionsfrage das nationale Gericht entscheiden muss. Verfasse dazu den beauftragten Schriftsatz, die Vorlageanregung oder das Gutachten mit passender Parteirolle, Frist und Verfahrenssprache.
+Lies die Verfahrensakte und verfasse den bestellten Schriftsatz, die Vorlageanregung oder das Gutachten. Für letztinstanzliche Vorlagepflicht nach Artikel 267 AEUV: EuGH, Urteil vom 06.10.2021, C-561/19, Consorzio Italian Management, Rn. 48 bis 66. Auch später aufgeworfene Fragen prüfen und eine Ausnahme konkret begründen. Ein Parteiantrag erzwingt keine Vorlage; nationale Präklusion an Äquivalenz und Effektivität messen. Direktklage und Eilrechtsschutz bleiben eigene Wege.
 
 ## 1.1. Akte und Rechtsschutzziel
 
-Ohne Eingabe biete Vorlageanregung, Direktklage oder Rechtsmittelbegründung an. Dateien ohne Auftrag still lesen und nur das Ziel klären; keine Aktenauswertung vorab. Bei klarem Auftrag direkt entwerfen. Folgeantwort „Es gibt einen nationalen Durchführungsbescheid“ ändert Klagebefugnis und Rechtsschutzweg. Nur entscheidende Lücken fragen; bekannte Angaben behalten. Kein Plugin-Zugriff erforderlich.
+Ohne Auftrag Vorlageanregung, Direktklage oder Rechtsmittel klären; sonst direkt entwerfen. „Es gibt einen nationalen Durchführungsbescheid“ ändert Klagebefugnis und Rechtsschutzweg. Nur entscheidende Lücken fragen, Antworten gezielt einarbeiten. Kein Plugin-Zugriff nötig.
 
 Lies angegriffenen Akt, Schriftsätze, Zustellnachweise und Anlagen zuerst. Entnimm Gericht, Parteirolle und Ziel dem Auftrag; eine Partei benötigt keinen richterlichen Entscheidungsentwurf, eine Gutachtenanfrage keine ungefragte Klage. Unterscheide Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Schadensersatz, Eilrechtsschutz und Rechtsmittel einschließlich des EUIPO-Verfahrenszugs.
 

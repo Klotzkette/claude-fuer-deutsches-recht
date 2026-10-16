@@ -1,6 +1,8 @@
-# 1. Grundbuchamt – Mini-Prompt
+# Grundbuchvorgang und benötigte Urkunden klären
 
-Führe den konkreten Grundbuchvorgang zum beauftragten Ergebnis. Lies zuerst Auszug, Urkunden und Gerichtsschreiben. Antworte kurz, nenne den nächsten bearbeitbaren Schritt und frage nur nach Angaben, die dafür wirklich fehlen. Ohne Unterlagen kläre Grundstück, Rolle, Ziel und eine laufende Frist. Das Plugin hat zehn Fachskills und diesen elften Hauptproblem-Skill; es ersetzt weder Notar noch Grundbuchamt.
+## 1. Auftrag
+
+Lies Auszug, Urkunden und Gerichtsschreiben und erstelle den bestellten Einsichts- oder Berichtigungsantrag, die Beschwerde, Notaranfrage oder Beratung. Nur entscheidende Lücken zu Grundstück, Rolle, Ziel und Frist erfragen; nach Antworten denselben Vorgang fortsetzen. Die unten erläuterten Paragrafen 12 und 29 GBO trennen Zugang und Nachweisform. Kein Zugang zum Grundbuch und kein Ersatz für Notar oder Grundbuchamt.
 
 ## 2. Eingaben
 
@@ -10,9 +12,9 @@ Grundbuchbezirk und Blatt, Eigentümer und betroffene Rechte, aktueller Auszug, 
 
 ### 3.1. Richtigen Weg bestimmen
 
-Einsicht nach § 12 GBO braucht dargelegtes berechtigtes Interesse. Bloßes Kaufinteresse zur Ermittlung eines unbekannten Eigentümers reicht nach OLG München, Beschl. v. 18.02.2026 – Az. 34 Wx 36/26 e, Rn. 9–14, nicht. § 42 ZVG betrifft dagegen bezeichnete Teile einer konkreten Versteigerungsakte: BGH, Beschl. v. 21.05.2026 – Az. V ZB 90/25, Rn. 8–14, 32. Kein allgemeiner Grundbuchzugang; keine Veröffentlichung oder verfahrensfremde Weitergabe der erhaltenen Daten.
+Einsicht nach Paragraf 12 GBO braucht dargelegtes berechtigtes Interesse. Bloßes Kaufinteresse zur Ermittlung eines unbekannten Eigentümers reicht nach OLG München, Beschl. v. 18.02.2026 – Az. 34 Wx 36/26 e, Rn. 9–14, nicht. Paragraf 42 ZVG betrifft dagegen bezeichnete Teile einer konkreten Versteigerungsakte: BGH, Beschl. v. 21.05.2026 – Az. V ZB 90/25, Rn. 8–14, 32. Kein allgemeiner Grundbuchzugang; keine Veröffentlichung oder verfahrensfremde Weitergabe der erhaltenen Daten.
 
-Trenne Antrag, Betroffenenbewilligung, materielles Rechtsgeschäft und Nachweisform. Bei § 20 GBO ist der notarielle Einreichungsweg nach § 13 Absatz 1 Satz 3 GBO erforderlich. § 15 Absatz 3 GBO verlangt die notarielle Prüfung der einzutragenden Erklärungen, mit Ausnahmen für Behörden und Alturkunden (§ 151 GBO); § 29 GBO regelt die Form. Nicht jede Einsicht oder Berichtigung bedarf einer Beurkundung. Erstelle eine auf diesen Vorgang bezogene Form- und Nachweisliste.
+Trenne Antrag, Betroffenenbewilligung, materielles Rechtsgeschäft und Nachweisform. Bei Paragraf 20 GBO ist der notarielle Einreichungsweg nach Paragraf 13 Absatz 1 Satz 3 GBO erforderlich. Paragraf 15 Absatz 3 GBO verlangt die notarielle Prüfung der einzutragenden Erklärungen, mit Ausnahmen für Behörden und Alturkunden (Paragraf 151 GBO); Paragraf 29 GBO regelt die Form. Nicht jede Einsicht oder Berichtigung bedarf einer Beurkundung. Erstelle eine auf diesen Vorgang bezogene Form- und Nachweisliste.
 
 ### 3.2. Fachfrage bearbeiten
 
@@ -31,9 +33,9 @@ Nutze nach Bedarf die zehn vorhandenen Fachskills:
 
 Die Arbeit darf nicht stehenbleiben, wenn die automatische Skillauswahl oder ein Hilfslink fehlt: bearbeite den Schritt anhand der hier und in der Werkstatt beschriebenen Regeln selbst.
 
-Bei eröffnetem öffentlichem Testament und unbenannten Abkömmlingen trenne Personenstandsurkunden und negative Tatsachen. BGH, Beschl. v. 20.11.2025 – Az. V ZB 40/24, Rn. 15–24, erlaubt einfache Erklärungen in §-29-Form; konkrete verbleibende Zweifel können einen Erbschein nötig machen. Keine formlose Versicherung und kein allgemeiner Erbscheinzwang.
+Bei eröffnetem öffentlichem Testament und unbenannten Abkömmlingen trenne Personenstandsurkunden und negative Tatsachen. BGH, Beschl. v. 20.11.2025 – Az. V ZB 40/24, Rn. 15–24, erlaubt einfache Erklärungen in der Form des Paragrafen 29 GBO; konkrete verbleibende Zweifel können einen Erbschein nötig machen. Keine formlose Versicherung und kein allgemeiner Erbscheinzwang.
 
-Bei verlorenem Brief gelten §§ 1162, 1192 BGB, §§ 466–484 FamFG. Antragsteller, tatsächlichen Gläubiger und Verfahrensstandschaft feststellen. OLG München, Beschl. v. 01.08.2025 – Az. 34 Wx 153/25 e, Rn. 22–31, behandelt die Ermächtigung; Tilgung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Ein neuer Brief nach §§ 67, 70 GBO setzt die Berechtigung und den Ausschließungsbeschluss voraus. Für bloße Löschung kann der Ersatzbrief entbehrlich sein (§§ 41 Absatz 2, 42 GBO).
+Bei verlorenem Brief gelten Paragrafen 1162, 1192 BGB, Paragrafen 466–484 FamFG. Antragsteller, tatsächlichen Gläubiger und Verfahrensstandschaft feststellen. OLG München, Beschl. v. 01.08.2025 – Az. 34 Wx 153/25 e, Rn. 22–31, behandelt die Ermächtigung; Tilgung macht den Eigentümer nicht automatisch zum Grundschuldgläubiger. Ein neuer Brief nach Paragrafen 67, 70 GBO setzt die Berechtigung und den Ausschließungsbeschluss voraus. Für bloße Löschung kann der Ersatzbrief entbehrlich sein (Paragrafen 41 Absatz 2, 42 GBO).
 
 Taucht der alte Brief nach wirksamer Kraftloserklärung auf, sichere ihn unverändert und getrennt vom Ersatzbrief; gleiche Identität, Beschluss und Rechtskraft ab. Nach BGH, Beschl. v. 16.02.2012 – Az. V ZB 308/10, Rn. 10–15, lebt seine Rechtswirkung nicht wieder auf. Keine Weiterverwendung, private Vernichtung oder automatische Löschung der Grundschuld. Formuliere die Mitteilung und stimme eine nachweisbare Übergabe mit Gericht, Notar und berechtigter Bank ab.
 
@@ -41,7 +43,7 @@ Taucht der alte Brief nach wirksamer Kraftloserklärung auf, sichere ihn unverä
 
 Frage etwa: „Soll die Sicherheit gelöscht oder für eine Anschlussfinanzierung erhalten werden?“ oder „Welche konkrete tatsächliche Unklarheit bleibt nach den Personenstandsurkunden?“ Verwende Antworten im selben Entwurf. Der richtige nächste Schritt kann zuerst ein Urkundenanforderungsschreiben sein. Eine Analyse allein genügt nicht, wenn ein Antrag bestellt wurde.
 
-Bei Zwischenverfügung sichere Zugang und Bearbeitungsfrist; beachte §§ 18, 71 ff. GBO. Für Aufgebotsbeschwerden §§ 58 ff. FamFG getrennt anwenden. Keine pauschale Monatsfrist auf jede Grundbuchbeschwerde übertragen. Ein Weiterleitungs- oder Fristverlängerungswunsch ersetzt keinen Nachweis fristgerechten Eingangs.
+Bei Zwischenverfügung sichere Zugang und Bearbeitungsfrist; beachte Paragrafen 18, 71 ff. GBO. Für Aufgebotsbeschwerden Paragrafen 58 ff. FamFG getrennt anwenden. Keine pauschale Monatsfrist auf jede Grundbuchbeschwerde übertragen. Ein Weiterleitungs- oder Fristverlängerungswunsch ersetzt keinen Nachweis fristgerechten Eingangs.
 
 ### 3.4. Zugang und externe Handlung
 

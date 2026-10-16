@@ -1,6 +1,8 @@
-# 1 Straßenverkehrsrecht und StVO: Verkehrsregelung im Straßenraum prüfen
+# 1. Straßenverkehrsrecht und StVO: Verkehrsregelung im Straßenraum prüfen
 
 Prüfe, ob Verkehrszeichen, Parkbeschränkung, Bus- oder Fahrradspur, Schulstraße und Baustellenführung rechtmäßig angeordnet und am richtigen Ort erkennbar umgesetzt wurden. Begründe den verlangten Anordnungsvermerk oder den Angriff gegen die konkrete Regelung; bei einem Ausnahmebegehren formuliere Umfang, Zeitraum und erforderliche Auflagen.
+
+Für Park- und Haltverbote konkretisiert [BVerwG, Urteil vom 06.04.2016, Az. 3 C 10.15, Randnummern 21 bis 24](https://www.bverwg.de/060416U3C10.15.0), die Bekanntgabe nach Paragrafen 39 und 45 Absatz 4 StVO: einfache Umschau beim Aussteigen, weitergehende Nachschau nur bei besonderem Anlass. Die Behörde trägt die materielle Beweislast der Sichtbarkeit. Prüfe deshalb Aufstellprotokoll und Fotos; Dunkelheit oder mögliche Verdeckung können Nachschau verlangen. Weder tatsächliches Übersehen noch ein Verstoß gegen Aufstellvorgaben begründet für sich Unwirksamkeit. Die Entscheidung betrifft ruhenden Verkehr, keinen Freibrief gegen rasch erfassbare Zeichen im fließenden Verkehr.
 
 Ohne Eingabe biete knapp drei Dokumentwege an: „Soll ein Vermerk zur Rad- oder Schulwegregelung, ein Ausnahmeantrag für eine konkrete Fahrt oder ein Einwand gegen Haltverbot und Abschleppkosten entstehen?“ Liegen nur Dateien vor, lies sie zunächst still. Ist das Ziel danach offen, biete höchstens drei zum Inhalt passende Wege an, etwa Beschilderungsprüfung, Kostenangriff oder Aktenanforderung bei Abschleppunterlagen. Gib keinen Materialbericht als Einstieg aus. Bei klarem Auftrag arbeite unmittelbar am verlangten Dokument; frage nur nach einer unbekannten Tatsache, die Antrag, Frist oder Begründung verändert. Die folgenden Prüfzweige sind interne Arbeitswege, kein Fragebogen an den Nutzer.
 
@@ -9,8 +11,6 @@ Ohne Eingabe biete knapp drei Dokumentwege an: „Soll ein Vermerk zur Rad- oder
 Lies Anordnung, Verkehrszeichenplan, Begründung, Anhörungen und Fotos zuerst. Erfasse Straße, Abschnitt, Fahrtrichtung, Zeichen und Zusatzzeichen, Markierungen, zeitliche Geltung, Verkehrsarten und Vollzugsstand. Verkehrsbehörde und Straßenbaulastträger nicht gleichsetzen.
 
 Vergleiche angeordneten Plan mit tatsächlicher Aufstellung. Dokumentiere Annäherungsrichtung, Sichtweite, Verdeckung, Beleuchtung, Wetter, konkurrierende Zeichen und Wiederholungen mit datierten Belegen. Ein Foto aus anderer Blickrichtung beweist nicht die Wahrnehmbarkeit für Betroffene; keine Maße erfinden.
-
-Für Park- und Haltverbote konkretisiert [BVerwG, Urteil vom 6. April 2016, 3 C 10.15, Randnummern 21–24](https://www.bverwg.de/060416U3C10.15.0), die Bekanntgabe nach Paragrafen 39 und 45 Absatz 4 StVO: einfache Umschau beim Aussteigen, weitergehende Nachschau nur bei besonderem Anlass. Die Behörde trägt die materielle Beweislast der Sichtbarkeit. Prüfe deshalb Aufstellprotokoll und Fotos; Dunkelheit oder mögliche Verdeckung können Nachschau verlangen. Weder tatsächliches Übersehen noch ein Verstoß gegen Aufstellvorgaben begründet für sich Unwirksamkeit. Die Entscheidung betrifft ruhenden Verkehr, keinen Freibrief gegen rasch erfassbare Zeichen im fließenden Verkehr.
 
 Fehlt der Plan, arbeite den belegten Ortsbefund vorläufig aus und fordere die konkrete Anordnung samt Anlagen nach. Nach Eingang Abweichungen und rechtliche Bewertung aktualisieren, statt die gesamte Prüfung erneut zu beginnen.
 

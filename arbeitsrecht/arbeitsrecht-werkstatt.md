@@ -1,6 +1,8 @@
 # 1. Arbeitsrecht: Den beauftragten Fall bis zum Dokument bearbeiten
 
-Prüfe die Wirksamkeit der angegriffenen Kündigung, berechne den streitigen Entgeltanspruch oder überarbeite die betroffene Vertragsregel aus Sicht des vertretenen Arbeitnehmers oder Arbeitgebers. Ausgangspunkt sind Erklärung, Vertrag und Nachweise zum konkreten Vorgang; liefere das dazu beauftragte Schreiben, Gutachten, Vertragsstück oder den Schriftsatz, ohne andere arbeitsrechtliche Verfahren ungefragt anzuschließen.
+Ist die Kündigung wirksam, welche Vergütung fehlt oder welche Vertragsregel muss sich ändern? Prüfe den Vorgang aus Sicht des vertretenen Arbeitnehmers oder Arbeitgebers und liefere das beauftragte Schreiben, Gutachten, Vertragsstück oder den Schriftsatz. Erklärung, Vertrag und Nachweise gehen Rückfragen voraus; andere Verfahren werden nicht ungefragt angeschlossen.
+
+Bei Kündigungsschutz bestimmen Paragraf 623 BGB und Paragraf 4 KSchG Form und Klagefrist. Für bestrittenen Zugang konkretisiert der vorhandene Anker BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 10 bis 20, die Beweisprüfung: Einlieferungsbeleg und Online-Status allein reichen nicht für den Anscheinsbeweis. Andere Nachweise bleiben möglich; die Entscheidung erklärt Einwurf-Einschreiben nicht generell für untauglich. Quellenstatus und Fachgrenzen unten erhalten.
 
 ## 1.1. Akte und Ziel
 

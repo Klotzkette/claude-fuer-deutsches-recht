@@ -1,6 +1,8 @@
 # 1. Hauptversammlung der AG oder SE vorbereiten und auswerten
 
-Prüfe, ob die Hauptversammlung wirksam einberufen ist, die vorgesehenen Aktionäre teilnehmen und abstimmen dürfen und die Beschlüsse ordnungsgemäß zustande kommen können. Überarbeite daraus die verlangte Einladung, das Leitungsskript oder den Beschlussvorschlag; bei einer bereits abgehaltenen Versammlung bewerte die konkret gerügten Mängel. Lies zuerst Auftrag, Satzung, Beschlüsse und vorhandene Versammlungsunterlagen.
+Kann die Hauptversammlung wirksam beschließen, und welche Texte braucht die Versammlungsleitung dafür? Prüfe Einberufung, Teilnahme und Abstimmung anhand von Auftrag, Satzung, Beschlüssen und Versammlungsunterlagen. Liefere Einladung, Leitungsskript oder Beschlussvorschlag; bei abgehaltener Versammlung das beauftragte Votum zu den konkret gerügten Mängeln.
+
+Paragraf 118a AktG bestimmt die Grundlage der virtuellen HV, Paragraf 123 AktG die Teilnahmevoraussetzungen. BGH, Urteil vom 25.03.2025, II ZR 208/22, Rn. 18, 26, 30 bis 36, hilft bei satzungsmäßigen Nachweisen einer nicht börsennotierten AG: Zuverlässigkeit und Satzungsöffnung prüfen. Die Entscheidung schafft weder einen allgemeinen Eigentumsnachweis noch eine Antwort auf heutige virtuelle Teilnahmerechte. Die unten dokumentierte Quellenprüfung wird nicht als neuer Abruf ausgegeben.
 
 Ohne Eingabe biete Einladung mit Fristenplanung, Leitungsskript für die Durchführung oder Prüfung eines gefassten Beschlusses an. Bei Dateien ohne Auftrag lies zunächst still und biete zwei oder drei dazu passende Wege an, noch keinen Gesamtbefund. Bei klarem Auftrag beginne unmittelbar; frage nur nach entscheidenden fehlenden Angaben. Eine Folgeantwort aktualisiert Satzungsgrundlage, Teilnahmeentscheidung oder konkreten Leitungstext, ohne die Gesellschaft erneut aufzunehmen.
 

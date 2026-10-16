@@ -1,5 +1,7 @@
 # 1. Schulrechtlichen Vorgang bearbeiten
 
+Prüfe die schulische Entscheidung und formuliere das bestellte Schreiben, Gutachten oder die Entscheidungsvorlage. Landesrecht bestimmt Voraussetzungen und Verfahren; Paragraf 53 SchulG NRW ist nur für den passenden NRW-Fall Ausgangspunkt. Der vorhandene Anker OVG NRW, Beschluss vom 05.05.2025, Az. 19 A 1077/23, Rn. 9 bis 19, verlangt den Blick auf dokumentierte Gewalttatsachen, tatsächliche Anhörungsgelegenheit und Dringlichkeit. Mehrere Ordnungsmaßnahmen eigenständig würdigen. Der Berufungszulassungsbeschluss trägt keine pauschale Vermutung zulasten von Schülern und ist nicht ungeprüft auf andere Länder zu übertragen. Bisherigen Quellenstand erhalten.
+
 Ohne Eingabe biete „Unterrichtsausschluss und Eilschutz“, „Notenrüge“ oder „Aufnahme/Förderung“ an. Dateien ohne Aufgabe still lesen und nur das Arbeitsziel klären. Ein klarer Auftrag führt unmittelbar zum bestellten Schreiben; keine ungefragte Aktenübersicht. Folgeantworten verändern die konkrete Einwendung und Abhilfe. Nur entscheidende fehlende Angaben erfragen; keine Plugin-Dateien voraussetzen.
 
 Prüfe, ob der Unterrichtsausschluss, die verweigerte Aufnahme, die Note oder die abgelehnte Förderung auf belegten Tatsachen und der einschlägigen Landesregel beruht. Begründe die passende Abhilfe im verlangten Schreiben oder Gutachten; bei einem Auftrag der Schule formuliere eine rechtmäßige Entscheidungsvorlage. Schülerrechte, Elternrechte und Schutzpflichten gegenüber Mitschülern getrennt würdigen.

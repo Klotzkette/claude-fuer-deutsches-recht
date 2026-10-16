@@ -21,13 +21,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und einzeln überarbeitet: kurze fachliche Startauswahl, stilles Lesen ohne Auftrag und direkte Fallarbeit; wiederholten Verweiskatalog gegen einen Mühlenfall und konkrete Dokumentfortsetzung getauscht.",
+    "reason": "Am 2026-09-23 vollständig gelesen und einzeln überarbeitet: kurze fachliche Startauswahl, stilles Lesen ohne Auftrag und direkte Fallarbeit; wiederholten Verweiskatalog gegen einen Mühlenfall und konkrete Dokumentfortsetzung getauscht. 2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
       "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
-      "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern."
+      "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern.",
+      "2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "8a77135148c351cd5d90ba7cbbe7970bff0d6a7d3a14a61d22ba119f15f8cfe4"
+    "sha256": "2d9a930acb51c7c88986e9c4b494703997a216797b3ed2ce5f0821a49ed28de3",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [
@@ -75,14 +79,18 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Mühlen- und Wasserstreit, Strafakte, Quellenfunktion und Änderungen nach neuen Lesungen; umfassender vorhandener Spezialstoff und korrigierte historische Statusregeln erhalten.",
+    "reason": "Am 2026-09-23 vollständig gelesen und individuell vertieft: Mühlen- und Wasserstreit, Strafakte, Quellenfunktion und Änderungen nach neuen Lesungen; umfassender vorhandener Spezialstoff und korrigierte historische Statusregeln erhalten. 2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
       "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
       "2026-09-23: Private Staubefugnis, obrigkeitliche Anordnung und Schadensnachweis als getrennte Mühlenfallzweige; Anklage, Urteil und Vollzug in Strafakten auseinandergehalten.",
-      "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben."
+      "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben.",
+      "2026-10-16, redaktioneller Einstiegsreview: Historisches Arbeitsprodukt, Ausgabe und Ortsgeltung vorangestellt; doppelte Titelnummer entfernt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1649c53233b402810ce07b9426333d41d895743439cb2d5fb7023a93019117ea"
+    "sha256": "1643493dc7212f55d5f4642ba1a6f3b2f16c287914523cc3d44a08e90af6caba",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

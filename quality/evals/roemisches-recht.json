@@ -21,31 +21,35 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten. 2026-10-16, redaktioneller Einstiegsreview: Exegese und actio/exceptio aus belegter Zeitstufe eröffnet; Barbierfall als Juristentext statt Gerichtsurteil eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Actio, exceptio, Personenstatus und zeitlich passende Prozessform statt allgemeiner Analyseaufforderung.",
       "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
       "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
       "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
-      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+      "2026-10-16, redaktioneller Einstiegsreview: Exegese und actio/exceptio aus belegter Zeitstufe eröffnet; Barbierfall als Juristentext statt Gerichtsurteil eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "391763523fddd251dba10715f5a53d9364cd153291bd681d034135ddf7ab689b",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "2dc92c2b95e6556d362541d045ee48956f9149d9556c1cce723988fc66fce265",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten. 2026-10-16, redaktioneller Einstiegsreview: Exegese und actio/exceptio aus belegter Zeitstufe eröffnet; Barbierfall als Juristentext statt Gerichtsurteil eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Actio, exceptio, Personenstatus und zeitlich passende Prozessform statt allgemeiner Analyseaufforderung.",
       "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
       "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
       "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
-      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+      "2026-10-16, redaktioneller Einstiegsreview: Exegese und actio/exceptio aus belegter Zeitstufe eröffnet; Barbierfall als Juristentext statt Gerichtsurteil eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "025d33882c3078ca6c8f285e4232f544c6a44ba48e1cf0eb262b176b52a34c76",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "7e1d494c6653e5e8ca6fa2b3b8d06ed0e936714aaf207b89e1517cb08b295b62",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

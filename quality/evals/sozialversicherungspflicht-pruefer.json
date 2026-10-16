@@ -414,23 +414,31 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung.",
+    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Status von Zweigen, Befreiung und Beitrag getrennt.",
       "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "89dc7a3cdf09e58b785775366ef0b942bd6b0293a5a839ebffe7f9eb6e15b442"
+    "sha256": "88d2f7a781ea161a98c437e74cb0d10f9adf20a258454caf261d42613f114bf6",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung.",
+    "reason": "Eigenständiger deutscher Prüfablauf mit konkreten Fachverzweigungen und verifizierter aktueller Quellentrennung. 2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Status von Zweigen, Befreiung und Beitrag getrennt.",
       "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Status, Zweige und fertiges Dokument zuerst; 50/50-Stichentscheid mit ehrlicher Terminberichtsgrenze früh eingeordnet. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "83d1bc30282c30ae151001145c45ded9793023942c3582db280b1fdac0c843e3"
+    "sha256": "35dded930300c3e28177a717603f6c231ea5392d3afa6fa21f352b03522909c2",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",

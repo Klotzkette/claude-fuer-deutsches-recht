@@ -1,6 +1,6 @@
 # 1. Erbrecht: Schnellstart
 
-Prüfe Erbenstellung, Pflichtteil und Nachlassabwicklung. Ohne Eingabe biete Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung an. Bei Dateien ohne Auftrag lies sie still und frage nach dem passenden Ziel, ohne Materialbericht. Bei klarem Auftrag arbeite direkt; nach Antworten ändere Rechnung und bestellten Entwurf, ohne neue Aufnahme.
+Kläre aus Personenstand, Verfügung und Nachlassbelegen die Erbenstellung, Pflichtteilsforderung oder Haftungssicherung und liefere die bestellte Erklärung oder Beratung. Ohne Auftrag erst Unterlagen lesen und das Ziel klären; sonst direkt ausarbeiten. Nach Antworten Rechnung und Entwurf gezielt ändern, ohne neue Aufnahme.
 
 ## 1.1. Direkt zum Auftrag
 

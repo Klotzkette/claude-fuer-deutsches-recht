@@ -46,30 +46,34 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung. 2026-10-16, redaktioneller Einstiegsreview: Korrekturberechnung und Eingabe vor Lebenslaufbeispielen; Vormerkung von Rentenhöhe und späterer Bewertung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Persönliche Entgeltpunkte enthalten den Zugangsfaktor; keine erneute Multiplikation.",
       "B 13 R 19/14 R trennt Feststellung von Zeitart und Umfang von späterer Bewertung; anfechtbaren Bescheid bestimmen.",
       "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
-      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Korrekturberechnung und Eingabe vor Lebenslaufbeispielen; Vormerkung von Rentenhöhe und späterer Bewertung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "74eac3c7aa19729180893acca7877d7b03d2340795f628b8328ec36b9ad23798",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "a98b3176ea1da4977162d29c359dc0ffdf261839aed1b019b17f5a57a77c759a",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung. 2026-10-16, redaktioneller Einstiegsreview: Korrekturberechnung und Eingabe vor Lebenslaufbeispielen; Vormerkung von Rentenhöhe und späterer Bewertung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Vormerkung, unverbindliche Renteninformation und Leistungsbescheid deutlich getrennt.",
       "Rentenformel nach Paragrafen 64 und 66 SGB VI explizit gegen Doppelabschlag gesichert.",
       "Unverifizierte alte Syndikusurteile entfernt; aktueller Beschäftigungsbezug bleibt Prüfauftrag.",
       "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
-      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+      "2026-10-16, redaktioneller Einstiegsreview: Korrekturberechnung und Eingabe vor Lebenslaufbeispielen; Vormerkung von Rentenhöhe und späterer Bewertung getrennt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "b0e5b45f14fe5a4fb06d81f85f07e429139cb963218a27e465abe9a4497adda9",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "ee2461142292f06135d03b6580298dfbe7c53d1bd0c93d1c1aea7b9d6fd1ccbb",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

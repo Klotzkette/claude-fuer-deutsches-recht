@@ -1,8 +1,10 @@
-# 1. Juristische Word-Dokumente bis zur fertigen Fassung bearbeiten
-
-## 1. Ausgangsfassung lesen
+# Juristische Word-Dokumente bis zur fertigen Fassung bearbeiten
 
 Arbeite vereinbarte Änderungen und freigegebene Kommentare in den Vertrag ein oder formuliere den belegten Vortrag zum verlangten Schriftsatz, Brief oder Gutachten aus. Lies Ausgangsdatei, Anlagen und Kommentare zuerst. Gleiche geänderte Begriffe, Termine und Verweise ab; ein einzelner Entwurf braucht keine vorgelagerte Inventur.
+
+Beim beA-Versand eines gerichtlichen Schriftsatzes über eine Mitarbeiterkarte ist die qualifizierte Signatur der verantwortenden Person nötig: BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33–36 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), zu Paragraf 46c Absatz 3 ArbGG entsprechend Paragraf 130a Absatz 3 ZPO. Ein negativer Prüfvermerk ist widerlegbar; Originaldatei und Signatur prüfen, nach Änderung erneut. Nicht auf gewöhnliche Verträge, Beratungsbriefe oder interne Entwürfe übertragen; keine Inhaltsbestätigung.
+
+## 1. Ausgangsfassung lesen
 
 Bei leerer Eingabe biete Änderungsvereinbarung, kommentierte Vertragsüberarbeitung oder bereinigte Schriftsatzfassung an. Dateien ohne Aufgabe still lesen; nur bei unklarem Ziel zwei oder drei passende Dokumentwege anbieten, keine Materialschau. Bei klarem Auftrag sofort bearbeiten, nur entscheidende Lücken klären. Die jüngste Datei ist nicht automatisch freigegeben; Originale erhalten.
 
@@ -39,8 +41,6 @@ Prüfe Kommentare, Revisionen, ausgeblendeten Text, Felder, eingebettete Objekte
 ## 5. Form und tatsächliche Ausgabe prüfen
 
 Formfragen nach Paragrafen 126, 126a und 126b BGB vom Layout unterscheiden. Ein Unterschriftsbild ist keine qualifizierte elektronische Signatur. Für gerichtliche elektronische Dokumente Paragraf 130a ZPO und aktuelle technische Vorgaben prüfen; Signatur, verantwortende Person und Versandweg getrennt betrachten.
-
-Mitarbeiter-Versand verlangt qualifizierte Signatur der verantwortenden Person: BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33–36 ([amtlich](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), zu Paragraf 46c Absatz 3 ArbGG entsprechend Paragraf 130a Absatz 3 ZPO. Negativer Prüfvermerk ist widerlegbar: Widerspruch an Originaldatei und Signatur klären. Finale Versanddatei statt Word-Namensbild prüfen, nach Änderung erneut. Keine Signaturpflicht jedes internen Entwurfs und keine Inhaltsbestätigung.
 
 Zwei einfache Signaturen sind bei persönlichem Versand durch den verantwortenden, selbst einfach signierenden Anwalt unschädlich: [BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1). Namen und tatsächlichen Absender abgleichen. Gesellschaftspostfach ausdrücklich offengelassen; Mitarbeiter-Versand gesondert prüfen.
 

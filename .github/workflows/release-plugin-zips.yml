@@ -202,6 +202,7 @@ jobs:
           python3 scripts/test-prompt-generator-excerpts.py
           python3 scripts/test-prompt-routing-scope.py
           python3 scripts/test-prompt-workflow-preservation.py
+          python3 scripts/test-prompt-openings.py
           python3 scripts/test-prompt-hygiene-links.py
           python3 scripts/test-portable-starts.py
           python3 scripts/test-generate-megaprompt.py

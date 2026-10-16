@@ -31,23 +31,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der kompakte Zahlungsfall trennt Kaufpreis des Factors und Zahlung des Debitors statt beide als Tilgung derselben Schuld zu behandeln. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Debitor hat vor Kenntnis an den Anschlusskunden bezahlt oder Einzelankauf war abgelehnt -> Erwerbszuordnung, Debitorensaldo und internen Rückgriff getrennt ändern.",
+    "reason": "Der kompakte Zahlungsfall trennt Kaufpreis des Factors und Zahlung des Debitors statt beide als Tilgung derselben Schuld zu behandeln. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Debitor hat vor Kenntnis an den Anschlusskunden bezahlt oder Einzelankauf war abgelehnt -> Erwerbszuordnung, Debitorensaldo und internen Rückgriff getrennt ändern. Einstiegsredaktion 16.10.2026: Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
       "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt."
     ],
-    "sha256": "4dbf9af360a3ce4ed4ecf750bc8cdeaec986e60ec61112b6e8d9a4c8fdb8dcac"
+    "sha256": "500933953b7e08fd3a86a1e04d3061068b93e8e64712a8d2d6d82d772c3156db"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Echtes Factoring, Abtretung und Warenrechte werden mit ihrer jeweiligen Insolvenzfolge verbunden; Aussonderung nicht pauschal als Absonderung bezeichnet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
+    "reason": "Echtes Factoring, Abtretung und Warenrechte werden mit ihrer jeweiligen Insolvenzfolge verbunden; Aussonderung nicht pauschal als Absonderung bezeichnet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe. Einstiegsredaktion 16.10.2026: Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
       "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
-      "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe."
+      "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
+      "Einstiegsredaktion 16.10.2026: Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt."
     ],
-    "sha256": "c9190c2d08ccb75741b9a261e9354fcb6bf1029d565ef31259fcc85965d47693"
+    "sha256": "7f1c1da7161fa3fe1ce05172a14366cc55013e14494bbe940f33803ecc41a240"
   },
   "selection": {
     "positive": [
@@ -131,5 +133,41 @@
     "continuation": "Debitor hat vor Kenntnis an den Anschlusskunden bezahlt oder Einzelankauf war abgelehnt -> Erwerbszuordnung, Debitorensaldo und internen Rückgriff getrennt ändern.",
     "enrichment": "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Erwerb und Debitorenschutz vorgezogen; eigene Kaufpreisschuld des Factors früh gegen doppelte Zahlungsanrechnung abgegrenzt.",
+    "anchor_or_exception": "BGH, Urteil vom 08.05.2014, IX ZR 128/12; Paragrafen 398, 407 BGB",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "4dbf9af360a3ce4ed4ecf750bc8cdeaec986e60ec61112b6e8d9a4c8fdb8dcac",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "c9190c2d08ccb75741b9a261e9354fcb6bf1029d565ef31259fcc85965d47693",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "factoring-recht/factoring-recht-werkstatt.md",
+        "sha256": "7f1c1da7161fa3fe1ce05172a14366cc55013e14494bbe940f33803ecc41a240",
+        "characters": 16499,
+        "utf8_bytes": 16763
+      },
+      {
+        "path": "factoring-recht/factoring-recht-schnellstart.md",
+        "sha256": "500933953b7e08fd3a86a1e04d3061068b93e8e64712a8d2d6d82d772c3156db",
+        "characters": 7247,
+        "utf8_bytes": 7346
+      }
+    ]
   }
 }

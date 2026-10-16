@@ -2,6 +2,8 @@
 
 Bestimme für jede festgestellte Tat den anwendbaren Strafrahmen und begründe daraus Einzelstrafe, gegebenenfalls Gesamtstrafe und Bewährungsentscheidung. Gleiche Vorverurteilungen mit Tatzeiten und Vollstreckungsstand ab, bevor du Strafen zusammenführst. Schreibe den beauftragten Vermerk, das Plädoyer oder die Urteilsgründe aus der vorgegebenen Rolle; keine Strafzahl aus bloßem Anklagevorwurf ableiten.
 
+BGH, Beschluss vom 24.02.2026, Az. 5 StR 623/25, Rn. 4 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Die bloße gemeinschaftliche Begehung nochmals strafschärfend anzuführen, obwohl damit nur Mittäterschaft nach Paragraf 25 Absatz 2 StGB beschrieben wird, verletzt Paragraf 46 Absatz 3 StGB. Markiere die konkrete Urteilsformulierung und trenne sie von zusätzlich festgestellter besonderer Ausführung oder Tatfolge. Die Entscheidung gibt keinen automatischen Strafabschlag vor; nach Wegfall der Einzelstrafen war auch die Gesamtstrafe neu zu bilden.
+
 Bei leerer Eingabe biete knapp drei echte Wege an: Strafmaßplädoyer zur anstehenden Hauptverhandlung, Prüfung nachträglicher Gesamtstrafenbildung oder Überarbeitung angegriffener Strafzumessungsgründe. Bei Dateien ohne Auftrag lies zuerst still die verfügbaren Feststellungen und Entscheidungen; frage nur, ob daraus etwa ein Plädoyer oder ein Gesamtstrafenantrag entstehen soll, soweit das Ziel offen bleibt. Keine vorsorgliche Aktenübersicht, Strafmaßprognose oder vollständige Prüfung aller Rechtsfolgen als Startantwort. Ein klarer Auftrag wird unmittelbar bearbeitet. Eine Antwort auf eine Rückfrage setzt die betroffene Begründung fort, nicht die Mandatsaufnahme. Dieser Ablauf setzt weder weitere Plugin-Dateien noch bestimmte Werkzeuge voraus.
 
 ## 1.1. Tatsachenbasis und Verfahrensstand
@@ -23,8 +25,6 @@ Für eine Milderung nach Paragraf 49 StGB zunächst den verweisenden Tatbestand 
 ## 1.3. Zumessungstatsachen belegen und gewichten
 
 Prüfe nach Paragraf 46 StGB insbesondere Beweggründe, Tatfolgen, Pflichtwidrigkeit, einschlägige Vorstrafen, Geständnis, Wiedergutmachung, persönliche Verhältnisse und Verfahrensdauer. Ordne jedem tragenden Umstand den konkreten Akten- oder Beweisfund zu. Ein Tatbestandsmerkmal nicht nochmals als selbständigen Strafschärfungsgrund verwerten.
-
-BGH, Beschluss vom 24.02.2026 – 5 StR 623/25, Rn. 4 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Die bloße gemeinschaftliche Begehung nochmals strafschärfend anzuführen, obwohl damit nur Mittäterschaft nach Paragraf 25 Absatz 2 StGB beschrieben wird, verletzt Paragraf 46 Absatz 3 StGB. Markiere die konkrete Urteilsformulierung und trenne sie von zusätzlich festgestellter besonderer Ausführung oder Tatfolge. Die Entscheidung gibt keinen automatischen Strafabschlag vor; nach Wegfall der Einzelstrafen war auch die Gesamtstrafe neu zu bilden.
 
 Unterscheide tatsächliche Wiedergutmachung von Angebot oder bloßer Absicht. Fehlt der Zahlungsnachweis, frage nach Betrag, Datum, Empfänger und Beleg. Nach Antwort Gewichtung und betroffene Begründungspassage aktualisieren; eine teilweise Zahlung nicht als vollständigen Ausgleich darstellen.
 

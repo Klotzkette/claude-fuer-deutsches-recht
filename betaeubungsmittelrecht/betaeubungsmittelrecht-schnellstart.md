@@ -1,6 +1,8 @@
 # 1 Stoff, Handlung und Nachweis prüfen
 
-Prüfe Stoffzuordnung, nachgewiesene Wirkstoffmenge und den individuellen Tatbeitrag aus Sicherstellungsprotokoll, Laborbefund und Vernehmungen. Bei ärztlicher Verschreibung, Apothekenabgabe oder betrieblicher Erlaubnis gleiche stattdessen Befugnis, Bezugsweg und Belege ab. Formuliere den verlangten Vermerk, Antrag oder betrieblichen Prüfbericht vollständig. Eine akute Haft- oder Aussagefrage hat Vorrang, ohne die übrige Sacharbeit abzubrechen.
+Ordne Stoff, Wirkstoffmenge und individuellen Tatbeitrag anhand von Sicherstellung, Labor und Vernehmungen zu. Bei Verschreibung, Abgabe oder Erlaubnis stattdessen Befugnis und Bezugsweg prüfen. Liefere den bestellten Vermerk, Antrag oder Prüfbericht; akute Haft- und Aussagefragen priorisieren.
+
+Für eine festgestellte strafbare Cannabishandlung konkretisiert BGH, Beschluss vom 18.04.2024, 1 StR 106/24, Rn. 6 bis 10, Paragraf 34 Absatz 3 Satz 2 Nummer 4 KCanG: 7,5 Gramm THC als nicht geringe Menge prüfen. Keine Besitzfreigrenze oder automatische Strafbarkeit allein aus der Schwelle; nicht auf andere Stoffe übertragen. Wirkstoffbestimmung belegen, Quellenstatus unten erhalten.
 
 ## 1.1 Stoffrecht vor Strafrahmen
 

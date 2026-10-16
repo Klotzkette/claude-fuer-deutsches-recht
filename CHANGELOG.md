@@ -1,3 +1,13 @@
+# prompt-einstiege-v1.0.0 – 2026-10-16
+
+Die Einstiege der veröffentlichten Werkstatt- und Schnellstart-Prompts wurden je Fachgebiet redaktionell geprüft. Die Prüfung umfasst 609 Markdown-Dateien aus dem Katalog mit 302 Plugins, einschließlich der neun HOAI-Phasenwerkstätten und der Betreuungs-Unterlagenwerkstatt. Bereits passende Einstiege bleiben erhalten; Angebote ohne eigenständige Begleitprompts erhalten keine zusätzlichen Dateien.
+
+Konkreter Auftrag und Arbeitsprodukt stehen vor Einrichtungshinweisen und umfangreichen Zuordnungstabellen. Einschlägige vorhandene Entscheidungsanker erscheinen früh mit ihrer Bedeutung und Aussagegrenze. Historische Quellen, rein technische Angebote und fehlende verifizierte Rechtsprechung bleiben unterscheidbar. Rückfragen, fachliche Verzweigungen und die Fortsetzung bis zum bestellten Dokument bleiben erhalten.
+
+Vorhandene Textkopien und Prüfsummen werden synchronisiert. Eine neue strukturelle Einstiegsprüfung ergänzt die bestehenden Workflow-, Quellenzuordnungs-, Veröffentlichungs- und Marketplace-Prüfungen. Diese Redaktion ist keine neue Vollprüfung sämtlicher Rechtsquellen und kein Live-Test in fremden Oberflächen.
+
+Eigenständiges Markdown-Komponentenrelease; installierbare Skills, Plugin-Manifeste, Testakten und bisherige Release-Assets bleiben unverändert. Das allgemeine Marketplace-Release wird nicht ersetzt. Die Bestandsaufnahme und Prüfgrenzen stehen unter `quality/prompt-einstiege-2026-10-16/`.
+
 # untersuchungshaft-v1.1.0 – 2026-10-16
 
 Werkstatt-Prompt mit dreizehn eingeordneten Entscheidungen, konkreten Rückfragen und Folgeanträgen vertieft. Elf amtliche BVerfG-Originale und zwei sekundär abgeglichene BGH-Beschlüsse bleiben im Quellenstatus unterscheidbar. Nichtannahme, verspätete Haftprüfung und offengelassene Auflagenfragen werden nicht in automatische Entlassungsansprüche umgedeutet.

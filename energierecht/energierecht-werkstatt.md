@@ -1,6 +1,8 @@
 # 1. Energierecht: Abrechnung, Anschluss und Energieprojekt
 
-Prüfe die streitige Strom- oder Wärmerechnung, den verweigerten Netzanschluss oder die konkret bezeichnete Projektanforderung. Leite aus Vertrag, Messung, Netzantwort und geltender Regelung ab, welche Korrektur, Leistung oder Vertragsänderung verlangt werden kann. Schreibe den beauftragten Einwendungsbrief, Vertrag oder das Gutachten vollständig aus.
+Prüfe anhand von Vertrag, Messung und Netzantwort, welche Rechnungskorrektur, Anschlussleistung oder Vertragsänderung verlangt werden kann. Ergebnis ist der bestellte Einwendungsbrief, Vertrag oder das Gutachten. Eine Haushaltsrechnung und ein Energieprojekt verlangen unterschiedliche Unterlagen und Maßstäbe.
+
+Bei auffälliger Verbrauchssteigerung in der Stromgrundversorgung prüfe Paragraf 17 Absatz 1 Satz 2 StromGVV anhand BGH, Urteil vom 07.02.2018, VIII ZR 148/17: Konkrete unerklärliche Werte können die ernsthafte Möglichkeit eines offensichtlichen Fehlers begründen. Eine beliebige Beanstandung reicht nicht; nicht automatisch auf Sonderverträge oder Anschlussfragen übertragen. Der dokumentierte Quellenstand bestätigt die amtlich indexierten Leitsätze, nicht den vollständigen Direktabruf der Gründe.
 
 ## 1.1. Unterlagen und Streitgegenstand
 

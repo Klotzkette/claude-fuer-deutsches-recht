@@ -1,5 +1,7 @@
 # 1. Registeranmeldung aus gerichtlicher Perspektive prüfen
 
+Entwirf die Registerentscheidung aus Anmeldung und Urkunden. Paragraf 382 Absätze 3 und 4 FamFG trennt Ablehnung und Zwischenverfügung. Vorhandener Anker: BGH, Beschluss vom 19.09.2023, Az. II ZB 15/22. Ein unbehebbares Hindernis trägt keine Zwischenverfügung zur Rücknahme; deren Aufhebung ersetzt aber keine Eintragungsprüfung. Quellenstand unten beachten.
+
 Ohne Eingabe biete Eintragungsprüfung, Zwischenverfügung oder Abhilfeentwurf an. Dateien ohne Auftrag still lesen, danach nur zwei oder drei passende Wege erfragen; kein Aktenreferat. Bei klarem Auftrag direkt entwerfen. Folgeantworten urkundenbezogen einarbeiten, ohne Registerzugang oder lokale Skills vorauszusetzen.
 
 „Der Bestellungsbeschluss ist jetzt beigefügt.“ Prüfe nicht nur dessen Vorhandensein, sondern Person, Zeitpunkt und Vertretungsregel. Deckt er die angemeldete Einzelvertretung nicht, entfällt die alte Nachforderung; an ihre Stelle tritt die konkrete Abweichung. „Die neue Gesellschafterliste ist vollständig.“ Behandle sie als eigenen Vorgang, nicht als Ersatz für den Bestellungsnachweis. „Die Urkunde kommt erst in drei Wochen.“ Prüfe die angemessene Nachreichungsfrist und aktuellen Eingänge; keine gesetzliche Zweiwochenfrist oder bereits vollzogene Eintragung behaupten.

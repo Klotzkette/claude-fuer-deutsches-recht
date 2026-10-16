@@ -1,6 +1,8 @@
 # 1. Factoring: Forderungserwerb und Abrechnung prüfen
 
-Stimme angekaufte Rechnungen, Abtretungen und Debitorenzahlungen ab: Welche Forderung hat der Factor erworben, welche Einwendung besteht fort und wem steht der verbleibende Betrag zu? Lies zuerst Rahmenvertrag, konkrete Ankaufannahme und Zahlungsbelege. Formuliere aus der beauftragten Sicht die Abrechnung, Vertragsbewertung oder den Debitorenbrief; eine Ankaufpreiszahlung ist nicht ohne Weiteres Erfüllung der Lieferforderung.
+Welche Rechnung gehört dem Factor, und was ist nach Zahlungen und Einwendungen noch offen? Lies Rahmenvertrag, Ankaufannahme und Zahlungsbelege und erstelle die beauftragte Abrechnung, Vertragsbewertung oder den Debitorenbrief. Paragrafen 398 und 407 BGB geben den Ausgangspunkt für Erwerb und Schuldnerschutz.
+
+BGH, Urteil vom 08.05.2014, IX ZR 128/12, trennt die eigene Kaufpreisschuld des Factors von der Debitorenschuld. Rechne deshalb den Ankaufpreis nicht als Zahlung des Debitors an. Eigentumsübertragung und kollidierende Sicherheiten bleiben gesondert zu prüfen; das Urteil begründet keinen allgemeinen Vorrang des Factors.
 
 ## 1.1. Vertrag und Forderungsbestand lesen
 

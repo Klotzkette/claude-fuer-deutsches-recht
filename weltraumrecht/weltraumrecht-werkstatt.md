@@ -1,8 +1,10 @@
-# 1. Weltraumrecht: Werkstatt für Raumfahrtvorhaben, Verträge und Schadensfälle
-
-## 1. Auftrag und vorhandene Missionsunterlagen
+# Weltraumrecht: Werkstatt für Raumfahrtvorhaben, Verträge und Schadensfälle
 
 Prüfe die Zulassung der bezeichneten Mission, den Start- oder Nutzlastvertrag oder die Haftung nach dem konkreten Satellitenschaden. Stelle Tätigkeit, beteiligte Staaten und verlangte Rechtsfolge fest und erarbeite daraus die beauftragte Stellungnahme, das Behördenschreiben oder die Vertragsfassung. Frequenzzuteilung, Registrierung und Haftung beantworten unterschiedliche Fragen; eine gemeinsame Übersicht ersetzt ihre rechtliche Prüfung nicht.
+
+Für mobile Satellitendienste konkretisiert [EuGH, Urteil vom 15. April 2021, C-515/19, Eutelsat](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515), Artikel 2 Absatz 2 und Artikel 8 der Entscheidung 626/2008/EG: Der Satellitenteil muss nicht den überwiegenden Datenverkehr bewältigen, aber einen tatsächlichen und notwendigen Beitrag leisten. Lass dir bei ergänzenden Bodenkomponenten Netzarchitektur, Verfügbarkeit und Aufgabenverteilung vorlegen. Prüfe die besonderen Genehmigungsbedingungen, statt aus einer großen terrestrischen Kapazität allein die Unzulässigkeit oder aus einem vorhandenen Satelliten allein die Zulässigkeit abzuleiten. Das Urteil betrifft keinen allgemeinen Startgenehmigungsanspruch.
+
+## 1. Auftrag und vorhandene Missionsunterlagen
 
 Lies zuerst die bezeichneten Unterlagen. Missionsbeschreibung, Betreiberstruktur, Startvertrag, Genehmigungsbescheid und technische Schnittstellenbeschreibung sind regelmäßig aussagekräftiger als eine allgemeine Unternehmenspräsentation. Verwende bereits geklärte Angaben weiter. Bei umfangreichen Datenräumen beginne mit den für die konkrete Frage maßgeblichen Dateien und ziehe weitere Belege gezielt hinzu.
 
@@ -36,8 +38,6 @@ Prüfe den geltenden Gesetzesstand zum maßgeblichen Zeitpunkt. Behandle ein deu
 Für Starts mit Deutschlandbezug ist der Anwendungsbereich des LuftVG gesondert zu untersuchen. Paragraf 1 Absatz 2 LuftVG erfasst Raumfahrzeuge, Raketen und ähnliche Flugkörper während ihres Aufenthalts im Luftraum; daraus folgt keine lückenlose Regelung sämtlicher Tätigkeiten im Orbit. Ordne gegebenenfalls Luftverkehr, Standortzulassung, Immissionen und weitere Sicherheitsanforderungen getrennt zu.
 
 Bei hochauflösender Erdfernerkundung prüfe das SatDSiG anhand von System, Betreiber und Datenverbreitung. Bei Frequenzen unterscheide internationale Koordinierung und Notifizierung von nationaler Zuteilung; ein ITU-Verfahren ersetzt nicht ohne Prüfung die erforderliche nationale Berechtigung. Verlange nur die Frequenz- und Stationsdaten, die für diesen Prüfungsschritt fehlen.
-
-Für mobile Satellitendienste konkretisiert [EuGH, Urteil vom 15. April 2021, C-515/19, Eutelsat](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515), Artikel 2 Absatz 2 und Artikel 8 der Entscheidung 626/2008/EG: Der Satellitenteil muss nicht den überwiegenden Datenverkehr bewältigen, aber einen tatsächlichen und notwendigen Beitrag leisten. Lass dir bei ergänzenden Bodenkomponenten Netzarchitektur, Verfügbarkeit und Aufgabenverteilung vorlegen. Prüfe die besonderen Genehmigungsbedingungen, statt aus einer großen terrestrischen Kapazität allein die Unzulässigkeit oder aus einem vorhandenen Satelliten allein die Zulässigkeit abzuleiten. Das Urteil betrifft keinen allgemeinen Startgenehmigungsanspruch.
 
 ### 2.2. Registrierung und Änderungen im Betrieb
 

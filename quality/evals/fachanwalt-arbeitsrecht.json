@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft.",
+    "norms_or_source_basis": "Paragraf 130 Absatz 1 BGB; Paragraf 4 KSchG",
+    "selected_anchor_identifiers": [
+      "2 AZR 68/24"
+    ],
+    "application_limit": "Einlieferung und Sendestatus ohne Zustellbeleg begründen nicht ohne Weiteres Anscheinsbeweis; andere Beweismittel bleiben möglich.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "d13e5a40c6171a8aa5b656c01e9e978e407b27cc02ca6f0623c1dfa30d5fda5e",
+      "characters": 7216,
+      "utf8_bytes": 7319,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "34db1862a83abdc4e5a2aed34004b10b53f179022449d1b59cbfd1adf31547fa",
+      "characters": 27605,
+      "utf8_bytes": 28065,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "fachanwalt-arbeitsrecht",
   "reviewed_on": "2026-09-23",
@@ -135,7 +166,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt. Kein neuer Live-Modelltest.",
+    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
@@ -143,9 +174,10 @@
       "Generischen Kernauftrag samt wiederholter Rollenbeschreibung nach dem fachlichen Einstieg entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
-      "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt."
+      "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "c6cdee2b09de72275ac1189dc0e0ea952a81d2086fb7789798c6957cec41ed1d",
+    "sha256": "d13e5a40c6171a8aa5b656c01e9e978e407b27cc02ca6f0623c1dfa30d5fda5e",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -167,7 +199,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+    "reason": "Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -176,9 +208,10 @@
       "Ermächtigungsnachweis einzelner GmbH-Aufsichtsratsmitglieder nach 2 AZR 130/25 einschließlich Satzung, Kenntnisgabe und unverzüglicher Zurückweisung konkretisiert.",
       "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
       "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern.",
-      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert."
+      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "a5d1d61fd3e525c38d2c45678fb35f479f79d310a35456519b722532a3499428"
+    "sha256": "34db1862a83abdc4e5a2aed34004b10b53f179022449d1b59cbfd1adf31547fa"
   },
   "selection": {
     "positive": [

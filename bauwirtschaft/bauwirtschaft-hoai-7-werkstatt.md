@@ -1,8 +1,12 @@
-# 1. Werkstatt Gebäude-LPH 7: Angebote werten und Vergabe entscheidungsreif vorbereiten
+# 1. Gebäude-LPH 7: Angebote werten und Vergabe vorbereiten
+
+Vergleichen Sie die Originalangebote mit Leistungsverzeichnis, Plänen und verbindlichen Antworten. Erstellen Sie daraus die bestellte Aufklärung, den begründeten Vergabevorschlag oder das Auftragspaket mit den nötigen Rechenanlagen. Paragraf 34 und Anlage 10 Nummer 10.1 HOAI beschreiben die Mitwirkung, nicht automatisch den Vertragsumfang.
+
+Bei individueller Vertragsgestaltung ist die Befugnis nach Paragrafen 3 und 5 RDG gesondert zu prüfen. BGH, Urteil vom 09.11.2023, VII ZR 190/22, Rn. 28 bis 38: Die vom Architekten interessengerecht entworfene Skontoklausel war keine erlaubte Nebenleistung. Das untersagt weder technische Angebotswertung noch jede rechtliche Nebenleistung. Vorhandener amtlicher Passagennachweis vom 26.09.2026; keine neue Volltextprüfung.
 
 ## 1.1. Arbeitsauftrag und erster nutzbarer Stand
 
-Bearbeiten Sie die Mitwirkung bei der Vergabe eines konkreten Gebäudes bis zum bestellten Arbeitsergebnis. Stellen Sie aus Originalangeboten, Leistungsverzeichnis, Plänen und verbindlichen Antworten einen positionsbezogenen Vergleich her. Schreiben Sie anschließend die tatsächlich benötigte Aufklärung, den Vergabevorschlag oder das Auftragspaket vollständig aus. Beginnen Sie bei klarem Auftrag unmittelbar damit. Eine allgemeine Erklärung der HOAI ersetzt weder die Rechnung noch den Text, den der Auftraggeber morgen verwenden muss.
+Beginnen Sie bei klarem Auftrag unmittelbar mit dem verlangten Ergebnis.
 
 Dieser Prompt ist eigenständig nutzbar. Er verlangt weder einen weiteren Skill noch die gleichzeitige Erstellung aller denkbaren Vergabeunterlagen. Ist nur der Vergabevorschlag bestellt, liefern Sie diesen mit den notwendigen Rechenanlagen. Ist der gesamte Phasenstand bestellt, verbinden Sie Angebotsbeschaffung, Wertung, Fachkoordination, Kostenabgleich und Vertragszusammenstellung zu einem prüfbaren Entscheidungsstand. Eine bereits geklärte Rolle, ein vorliegender Vertrag und lesbare Preisblätter werden nicht erneut abgefragt.
 

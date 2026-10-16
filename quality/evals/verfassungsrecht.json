@@ -66,27 +66,30 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei verfahrensbezogene Einstiegswege und konkrete Fortsetzung bei behauptetem Übergehen von Vortrag; Nummerierung von Artikel 94 GG und Paragraf 13 BVerfGG präzise getrennt. Vorhandene Verfahrensanker und Grenzen erhalten, kein Live-Modelltest.",
+    "reason": "Am 23.09.2026 vollständig erneut gelesen: drei verfahrensbezogene Einstiegswege und konkrete Fortsetzung bei behauptetem Übergehen von Vortrag; Nummerierung von Artikel 94 GG und Paragraf 13 BVerfGG präzise getrennt. Vorhandene Verfahrensanker und Grenzen erhalten, kein Live-Modelltest. Redaktionelle Einstiegsprüfung 16.10.2026: Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Drei Startmodi und belegabhängige Änderung der konkreten Rüge ergänzt; Zuständigkeitsnummern im aktuellen Paragraf 13 BVerfGG verifiziert.",
       "Spezifischen Grundrechtsfehler und passende Verfahrensfolge statt generischer Fallkarte ausarbeiten.",
       "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
-      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt."
+      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt.",
+      "Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe."
     ],
-    "sha256": "904fb0201dd3c6bd40f93590a756d1cb8a479882e416f3f3769386eb76a28e0a"
+    "sha256": "8ec0279d5c5ff49c025f2415b7e19a6f2c211fbdc84bbf69edcdb3d7de688710",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktionelle Einstiegsprüfung 16.10.2026: Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Fristauslöser und Wiedereinsetzung, Belegabgleich jeder tragenden Rüge und nachteiliger Kontext bis zum Beschwerdetext ausgearbeitet.",
       "Beteiligungsnachteil im Organstreit, neue Gesetzesfassung und veränderter Vollzug im Eilantrag mit konkreten Dokumentfolgen ergänzt.",
       "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
       "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt.",
-      "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt."
+      "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt.",
+      "Verfassungsfehler statt bloßer Grundrechtsliste als Aufgabe; 2 BvR 625/25 früh und ausdrücklich nur als Darlegungsmaßstab, nicht als allgemeine Datenfreigabe."
     ],
-    "sha256": "a9bbb87cb868c64e3dd8ab82526389268fd561016b7105d87349a53fa6674d02",
-    "reviewed_on": "2026-10-01"
+    "sha256": "2098a3a6b5bc1b5d677d485e514b818180a591dc1bf53e223d87610bc6aad2c4",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

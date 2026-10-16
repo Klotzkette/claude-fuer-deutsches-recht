@@ -26,14 +26,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der begrenzte Untersuchungsauftrag erhält einen passenden Maßstab gegen anlasslose Vollüberwachung. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Der begrenzte Untersuchungsauftrag erhält einen passenden Maßstab gegen anlasslose Vollüberwachung. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "BAG-Keyloggerfall als Eingriffsschranke statt pauschalem Verwertungsverbot integriert.",
       "Konkreter Belegabgleich und Entlastungshypothesen schon im Auftakt.",
       "Kollektivvereinbarungen und besondere Datenkategorien präzisiert; vollständige Berichtswege erhalten.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt."
     ],
-    "sha256": "da8640380ff4916674e5ccb693f2c7ec388aecd96f32d74a73df3e4946c582ab"
+    "sha256": "cd2f699cbaddc6965e2d63fc337a0eb8f586c0172bec61307076f022c893d953"
   },
   "selection": {
     "positive": [
@@ -81,14 +82,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Datenerhebung, heutige unionsrechtliche Grundlage und spätere Verwertung werden ausdrücklich getrennt, ohne die spezialisierten Untersuchungsfelder zu verkürzen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Datenerhebung, heutige unionsrechtliche Grundlage und spätere Verwertung werden ausdrücklich getrennt, ohne die spezialisierten Untersuchungsfelder zu verkürzen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Einstiegsredaktion 16.10.2026: Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "BAG-Keyloggerfall als Eingriffsschranke statt pauschalem Verwertungsverbot integriert.",
       "Konkreter Belegabgleich und Entlastungshypothesen schon im Auftakt.",
       "Kollektivvereinbarungen und besondere Datenkategorien präzisiert; vollständige Berichtswege erhalten.",
-      "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen."
+      "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen.",
+      "Einstiegsredaktion 16.10.2026: Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt."
     ],
-    "sha256": "b88d8f407b3b7418412ede42b1beeea290ad2e9b4ff7f0e79892d72740a8d8aa"
+    "sha256": "cd1e63eae816b950619f9ea54bf18039e8f625a98da68f03c255273dbbc3b7d6"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -129,5 +131,41 @@
     "continuation": "Neue Interviewantwort -> Hypothese und gezielte Gegenprüfung anpassen, nicht automatisch alle Postfächer durchsuchen; bestätigte, widerlegte und offene Feststellungen im Bericht fortschreiben.",
     "enrichment": "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen.",
     "limits": "desk review; no live client execution"
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Verdacht, Gegenbelege und konkretes Untersuchungsprodukt vorangestellt; Überwachungsanker auf Eingriffsintensität und historische Rechtsgrundlage begrenzt.",
+    "anchor_or_exception": "BAG, Urteil vom 27.07.2017, 2 AZR 681/16; Paragraf 26 BDSG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "da8640380ff4916674e5ccb693f2c7ec388aecd96f32d74a73df3e4946c582ab",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "b88d8f407b3b7418412ede42b1beeea290ad2e9b4ff7f0e79892d72740a8d8aa",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "internal-investigations-praxis/internal-investigations-praxis-werkstatt.md",
+        "sha256": "cd1e63eae816b950619f9ea54bf18039e8f625a98da68f03c255273dbbc3b7d6",
+        "characters": 22618,
+        "utf8_bytes": 22972
+      },
+      {
+        "path": "internal-investigations-praxis/internal-investigations-praxis-schnellstart.md",
+        "sha256": "cd2f699cbaddc6965e2d63fc337a0eb8f586c0172bec61307076f022c893d953",
+        "characters": 7174,
+        "utf8_bytes": 7271
+      }
+    ]
   }
 }

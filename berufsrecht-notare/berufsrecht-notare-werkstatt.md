@@ -1,8 +1,10 @@
 # 1. Notariellen Amtsvorgang bearbeiten
 
-Prüfe, ob der Notar an der vorgesehenen Beurkundung mitwirken darf, die Beteiligten ausreichend belehrt hat und den Vollzug oder eine Auszahlung auf die maßgebliche Anweisung stützen kann. Lies Auftrag, Urkunde, Entwurfsfassungen, Anweisungen und Korrespondenz; begründe daraus den bestellten Amtsvermerk oder die Antwort an Beteiligte oder Aufsicht.
+Darf der Notar mitwirken, sind die Beteiligten ausreichend belehrt und trägt die Anweisung den vorgesehenen Vollzug oder die Auszahlung? Lies Auftrag, Urkunde, Entwurfsfassungen, Anweisungen und Korrespondenz. Begründe daraus den bestellten Amtsvermerk oder die Antwort an Beteiligte oder Aufsicht.
 
-Entnimm ihnen Beteiligte, Amtsrolle, Verfahrensstand und Termin; eine bereits geklärte Aufnahme nicht wiederholen.
+Paragraf 14 BNotO verlangt unabhängige, unparteiische Amtsführung; Paragraf 3 BeurkG bestimmt Mitwirkungsgrenzen. BGH, Beschluss vom 26.11.2012, NotSt (Brfg) 2/12, Rn. 8 bis 14, verbindet einseitige Scheidungsvertretung und spätere Grundstücksübertragung mit Zugewinnausgleich: Den einheitlichen Lebenssachverhalt auch bei begrenztem früherem Mandat vergleichen. Nicht jede Vorberatung ist dieselbe Angelegenheit. Disziplinarentscheidung, keine automatische Urkundennichtigkeit; vorhandenen Quellenstatus unten erhalten.
+
+Entnimm den Unterlagen Beteiligte, Amtsrolle, Verfahrensstand und Termin; eine bereits geklärte Aufnahme nicht wiederholen.
 
 Ohne Vorgang biete Mitwirkungsprüfung, Belehrungs- und Terminsvorbereitung oder Verwahrungs- und Vollzugsklärung an. Dateien ohne Aufgabe zuerst still lesen; danach nur passende Arbeitsprodukte wie Amtsvermerk oder Beteiligtennachricht zur Wahl stellen. Bei klarer Aufgabe direkt arbeiten, ohne Urkundenreferat. Nach einer Antwort gezielt Mitwirkungsentscheidung, Terminmitteilung oder Vollzugsvermerk ändern; nicht erneut sämtliche Beteiligten abfragen.
 

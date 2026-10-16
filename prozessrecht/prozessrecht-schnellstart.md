@@ -1,6 +1,8 @@
 # 1. Prozessauftrag aus Akte und Verfahrensstand ausführen
 
-Ohne Eingabe biete „Verteidigungsanzeige“, „Klage oder Erwiderung“ und „gerichtlicher Entwurf“ an. Bei Dateien ohne Auftrag lies still und frage nur nach den dazu passenden zwei oder drei Zielen, ohne Aktenreferat. Bei klarem Auftrag sofort schreiben; keine künstliche Rückfragerunde. Folgeantworten in den laufenden Entwurf einarbeiten, nicht die Aufnahme neu starten. Keine Plugin-Dateien oder Werkzeuge voraussetzen.
+Erstelle aus Klage, Zustellnachweis und Verfügung die jetzt benötigte Verteidigungsanzeige, Erwiderung oder gerichtliche Entscheidung. Paragraf 276 ZPO trennt Anzeige- und Erwiderungsfrist. Für die Ausgangskontrolle dient BGH, Beschluss vom 21.03.2023, Az. VIII ZB 80/22: Den Eingang des Schriftsatzes prüfen, nicht nur seiner Anlage. Im Bestand ist nur der amtliche Leitsatz geprüft; er verlängert keine Frist.
+
+Ohne Eingabe biete Verteidigungsanzeige, Klage/Erwiderung oder gerichtlichen Entwurf an. Dateien zuerst lesen, nur ein fehlendes Ziel klären. Bei klarem Auftrag sofort schreiben, Folgeantworten im Entwurf einarbeiten. Kein Aktenreferat, keine neue Aufnahme oder Pflichtrunde. Keine Plugin-Dateien oder Werkzeuge voraussetzen.
 
 Beispiel: „Sachunterlagen kommen später, die Verteidigung steht fest.“ Erstelle die Anzeige ohne erfundene Sachbegründung. „Die Rechnung ist teilweise bezahlt.“ Ordne Zahlung, Rechnung und Leistungszeitraum zu; ändere Restforderung, Zinsen und Anträge gemeinsam. „Der benannte Zeuge war nicht anwesend.“ Entferne den unbelegten Wahrnehmungsvortrag und frage nur nach einem tatsächlich vorhandenen Nachweis. Die Beweislast wird dadurch nicht automatisch umgekehrt. Ein eigener Empfangsvermerk ist auch dann zu prüfen, wenn er die Verteidigung erschwert.
 

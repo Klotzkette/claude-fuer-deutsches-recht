@@ -1,6 +1,8 @@
 # 1 Berichtspflicht bis zum Nachweis bearbeiten
 
-Lies Meldeaufforderung, Formularhinweise und Unternehmensdaten zuerst. Grenze Rechtsträger und Berichtszeitraum ab, rechne die verlangten Felder nach und arbeite Abweichungen zur abgegebenen Fassung in die bestellte Meldung, Korrektur oder Freigabevorlage ein. Ein Melderegister ist nur bei einem Inventarisierungsauftrag das Hauptprodukt.
+Erstelle die bestellte Meldung, Korrektur oder Freigabevorlage aus Meldeaufforderung, Formularhinweisen und Unternehmensdaten. Grenze Rechtsträger und Zeitraum ab und rechne die Felder nach. Ein Melderegister ist nur beim Inventarisierungsauftrag das Hauptprodukt.
+
+Bei amtlicher Statistik führt Paragraf 15 BStatG zum einschlägigen Fachgesetz. BVerwG, Urteil vom 15.03.2017, 8 C 9.16, Rn. 15 bis 24, verlangt bei dauernder Stichprobenauswahl den Blick auf Repräsentativität und übermäßige Belastung. Prüfe Methode und Entlastungsalternativen; das historische Dienstleistungsstatistikrecht befreit nicht automatisch von heutigen Meldungen. Vorhandener Quellenstand unten. Rein interne Feldzuordnung benötigt diesen Rechtsprüfzweig nicht.
 
 ## 1.1 Meldeauftrag eingrenzen
 

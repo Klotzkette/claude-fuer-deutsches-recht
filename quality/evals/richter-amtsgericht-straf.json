@@ -51,31 +51,35 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis. 2026-10-16, redaktioneller Einstiegsreview: Beschluss oder Urteil vor Bedienhinweisen; Verdachtsmaßstab und Überzeugung getrennt, Formalgeständnis begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Formalgeständnis und Nichtbestreiten nicht als ausreichende Wahrheitsermittlung behandelt.",
       "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
       "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
       "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
-      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+      "2026-10-16, redaktioneller Einstiegsreview: Beschluss oder Urteil vor Bedienhinweisen; Verdachtsmaßstab und Überzeugung getrennt, Formalgeständnis begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "1e664b992a7dbc61203f1d51035999d366dc99dd6dc3b6b0f0f0514f43833739",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "d2fa0fa01cc31f6654c5300e8cc49b28b2036d401257142fa200f28a417eed2f",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis. 2026-10-16, redaktioneller Einstiegsreview: Beschluss oder Urteil vor Bedienhinweisen; Verdachtsmaßstab und Überzeugung getrennt, Formalgeständnis begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Formalgeständnis und Nichtbestreiten nicht als ausreichende Wahrheitsermittlung behandelt.",
       "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
       "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
       "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
-      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+      "2026-10-16, redaktioneller Einstiegsreview: Beschluss oder Urteil vor Bedienhinweisen; Verdachtsmaßstab und Überzeugung getrennt, Formalgeständnis begrenzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "de6bb320968238cf2e33923fad0e3ac717e6aa179bcae7f9bef470004c612eb2",
-    "reviewed_on": "2026-09-23",
-    "method": "desk_review"
+    "sha256": "32a936539ba337e77d0c2f82a69acb0c230f57c84c43229614e770a7f6fa2251",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

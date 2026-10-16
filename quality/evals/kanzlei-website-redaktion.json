@@ -124,17 +124,21 @@
     }
   ],
   "mini_review": {
-    "verdict": "retained",
-    "reason": "Konkrete Redaktionszweige, werkzeugabhängige Übergabe und Wiederaufnahme nach unklarem Schreibstatus sind ohne Standardfloskeln beschrieben.",
-    "changes": [],
-    "sha256": "2cd5635ec2c2d02fdab0212ffae07253d4fe750c5a265f992c36938b31ffafed",
+    "verdict": "revised",
+    "reason": "Konkrete Redaktionszweige, werkzeugabhängige Übergabe und Wiederaufnahme nach unklarem Schreibstatus sind ohne Standardfloskeln beschrieben. Redaktionelle Einstiegslektüre am 16.10.2026: Konkrete Website-Fassung vor Arbeitsüberschriften gestellt; Spezialistenbezeichnung nur mit enger Quellenreichweite.",
+    "changes": [
+      "Redaktion 16.10.2026: Konkrete Website-Fassung vor Arbeitsüberschriften gestellt; Spezialistenbezeichnung nur mit enger Quellenreichweite. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+    ],
+    "sha256": "fe5612ab339d25fa9e16b7df791e0eca48465a1e8c24add66778c84b4e6973a3",
     "reviewed_on": "2026-10-09"
   },
   "workshop_review": {
-    "verdict": "retained",
-    "reason": "Auftragskennung, Basisrevision, tatsächliche Inhaltsprüfung und Freigabe steuern den Weg zur Veröffentlichung oder ehrlichen Übergabe.",
-    "changes": [],
-    "sha256": "422daddc9611b4a1a4e5040e52587e13b5490cf793c78222ec319697a9d0b1c5",
+    "verdict": "revised",
+    "reason": "Auftragskennung, Basisrevision, tatsächliche Inhaltsprüfung und Freigabe steuern den Weg zur Veröffentlichung oder ehrlichen Übergabe. Redaktionelle Einstiegslektüre am 16.10.2026: Konkrete Website-Fassung vor Arbeitsüberschriften gestellt; Spezialistenbezeichnung nur mit enger Quellenreichweite.",
+    "changes": [
+      "Redaktion 16.10.2026: Konkrete Website-Fassung vor Arbeitsüberschriften gestellt; Spezialistenbezeichnung nur mit enger Quellenreichweite. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+    ],
+    "sha256": "a5cca4326aa655346b4d6e7d33b3329628855020ef69d8eb9226884687b2724d",
     "reviewed_on": "2026-10-09"
   },
   "prompt_workflow_review": {

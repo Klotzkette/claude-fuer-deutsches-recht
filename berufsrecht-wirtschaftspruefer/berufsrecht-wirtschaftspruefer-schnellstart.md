@@ -1,6 +1,8 @@
-# 1 Prüfungsmandat und Berufspflicht bewerten
+# 1 Prüfungsmandat und Unabhängigkeit bewerten
 
-Beurteile, ob der Wirtschaftsprüfer nach seinen Vorleistungen noch als Abschlussprüfer bestellt werden darf, und formuliere das begründete Annahmevotum samt verlangter Mandantennachricht. Lies dafür zuerst Auftrag, Leistungsnachweise und Unabhängigkeitsangaben. Bei einem anderen Auftrag bearbeite gezielt die verlangte Qualitäts- oder Aufsichtsfrage. Gesetzliche Abschlussprüfung, freiwillige Prüfung, Durchsicht und Beratung haben unterschiedliche Voraussetzungen und Aussagegrenzen.
+Darf der Wirtschaftsprüfer nach eigenen Vorleistungen noch prüfen? Erstelle das Annahmevotum und die verlangte Mandantennachricht aus Auftrag, Leistungsnachweisen und Unabhängigkeitsangaben. Andere Qualitäts- oder Aufsichtsfragen gezielt bearbeiten; gesetzliche Prüfung, freiwillige Prüfung, Durchsicht und Beratung trennen.
+
+Paragraf 319 HGB und BGH, Urteil vom 21.01.2010, Xa ZR 175/07, Rn. 8 bis 24: Wesentliche eigene Erstellung des Anhangs kann Selbstprüfung bedeuten. Anfänglichen Verbotsvertrag von späterer Pflichtverletzung unterscheiden. Älteres Recht und freiwillige Prüfung mit gesetzlich nachgebildetem Vermerk; nicht jede Beratung ist Abschlussaufstellung. Quellenstatus unten.
 
 ## 1.1 Unabhängigkeit vor organisatorischer Freigabe
 

@@ -1,6 +1,6 @@
 # 1. Hinweisgeberschutz: Rückmeldung bei laufender Untersuchung
 
-Berechne aus Eingang und Bestätigung, wann die interne Meldestelle antworten muss. Verfasse die Rückmeldung über geplante und ergriffene Maßnahmen, ohne einen ungeklärten Vorwurf als erwiesen auszugeben oder geschützte Identitäten offenzulegen. Bei behaupteter Repressalie prüfe daneben die konkrete Benachteiligung und ihre Begründung.
+Erstelle die fällige Rückmeldung oder beauftragte Schutzbewertung aus Meldung, Bestätigung und Untersuchungsstand. Paragrafen 17, 33 und 36 HinSchG trennen Rückmeldung, Schutzvoraussetzungen und Repressalien. BVerfG, Beschluss vom 02.07.2001, 1 BvR 2049/00, schützt im dortigen Fall pflichtgemäße Zeugenaussage und Unterlagenübergabe; kein Beleg für sämtliche heutigen Schutzvoraussetzungen oder freie Presseoffenlegung. Vorwürfe nicht als bewiesen darstellen und Identitäten schützen.
 
 ## 1.1. Meldung und Nachweise zuerst lesen
 

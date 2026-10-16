@@ -1,8 +1,8 @@
 # 1. Insolvenzplan und Restrukturierungsplan: Zahlen und Wirkung
 
-Prüfe, welche Forderungen und Sicherheiten der Plan verändert, ob die Finanzierung seine Zahlungsversprechen trägt und welche Gruppenmehrheiten tatsächlich erreicht werden. Rechne Plan und begründete Alternative vergleichbar durch und formuliere das bestellte Planmodul. Insolvenzplan und StaRUG-Plan getrennt behandeln; die Unternehmenskrise nicht ungefragt vollständig neu aufnehmen.
+Rechne Plan und Alternative vergleichbar durch und formuliere das bestellte Planmodul mit belegter Finanzierung. Bei Drittkompensation hilft BGH, Beschluss vom 20.07.2017, IX ZB 13/16: volle und sichere Deckung statt bloßer Nennbeträge prüfen. Der Fall betrifft die Vorprüfung nach Paragraf 231 InsO, keinen unmittelbaren StaRUG-Maßstab; Paragraf 64 StaRUG gesondert anwenden. Forderungen, Sicherheiten und Gruppenmehrheiten abgleichen, ohne die Krise ungefragt neu aufzunehmen.
 
-## 1.1 Verfahren und Datenbasis
+## 1.1. Verfahren und Datenbasis
 
 Ohne Eingabe biete Gruppen-/Mehrheitsprüfung, Vergleichsrechnung oder gestaltende Planklausel an. Dateien ohne Auftrag still lesen und zwei passende Wege anbieten. Klaren Auftrag direkt ausarbeiten. Neue Finanzierungsbedingung verändert Zahlungstag und Planregelung; neuer Sicherheitenwert verändert Ausfall, Vergleich und gegebenenfalls Stimmrecht. Bekannte Verfahrensdaten nicht erneut abfragen.
 
@@ -10,19 +10,19 @@ Erfasse Schuldner, Verfahrensart, Verfahrensstand, Stichtag, Ziel, verfügbare L
 
 Fehlt eine Finanzierungszusage oder weicht die Forderungsliste vom Stimmrechtsverzeichnis ab, frage nach dem konkreten Nachweis und dem maßgeblichen Stand. Nach Eingang aktualisiere betroffene Zahlungszeitpunkte, Quoten, Gruppenzuordnungen und Planformulierungen. Neue entscheidende Widersprüche kläre gezielt in einer weiteren Runde; frage bereits geklärte Beträge und Verfahrensdaten nicht erneut ab.
 
-BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Bei Insolvenzreife im anhängigen StaRUG-Verfahren Anzeige nach § 32 Absatz 3 und regelhafte Aufhebung nach § 33 Absatz 2 prüfen. Ausnahmen begründen gerichtliches Ermessen; eine unsichere Ein-Prozent-Quote oder ungesicherte freiwillige Drittmittel reichen nicht automatisch. Finanzierung, Zeitpunkt und überwiegende Wahrscheinlichkeit des Restrukturierungsziels konkret nachweisen. Keine Aussage zur Zulässigkeit der Gruppenbildung ableiten (Rn. 24). Schutzschirmzugang nach § 270d InsO nur ohne bereits eingetretene Zahlungsunfähigkeit.
+BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Bei Insolvenzreife im anhängigen StaRUG-Verfahren Anzeige nach Paragraf 32 Absatz 3 und regelhafte Aufhebung nach Paragraf 33 Absatz 2 prüfen. Ausnahmen begründen gerichtliches Ermessen; eine unsichere Ein-Prozent-Quote oder ungesicherte freiwillige Drittmittel reichen nicht automatisch. Finanzierung, Zeitpunkt und überwiegende Wahrscheinlichkeit des Restrukturierungsziels konkret nachweisen. Keine Aussage zur Zulässigkeit der Gruppenbildung ableiten (Rn. 24). Schutzschirmzugang nach Paragraf 270d InsO nur ohne bereits eingetretene Zahlungsunfähigkeit.
 
-Während der Rechtshängigkeit ruht die Antragspflicht nach [§ 42 Absatz 1 StaRUG](https://www.gesetze-im-internet.de/starug/__42.html); stattdessen Eintritt der Insolvenzreife ohne schuldhaftes Zögern anzeigen. Bei Wirkungsverlust der Anzeige lebt sie nach Absatz 4 wieder auf. Verfahrensstand und Zeitpunkt belegen.
+Während der Rechtshängigkeit ruht die Antragspflicht nach [Paragraf 42 Absatz 1 StaRUG](https://www.gesetze-im-internet.de/starug/__42.html); stattdessen Eintritt der Insolvenzreife ohne schuldhaftes Zögern anzeigen. Bei Wirkungsverlust der Anzeige lebt sie nach Absatz 4 wieder auf. Verfahrensstand und Zeitpunkt belegen.
 
-## 1.2 Planarchitektur prüfen
+## 1.2. Planarchitektur prüfen
 
 Trenne darstellenden Teil, gestaltenden Teil und Anlagen. Erfasse für jede betroffene Rechtsposition Inhaber, Betrag, Rang, Sicherheit, geplanten Eingriff, Gruppe und wirtschaftliche Begründung der Zuordnung. Prüfe die rechtliche Gestaltbarkeit im gewählten Verfahren, bevor du einen Eingriff formulierst. Erfinde keine universelle Regel, nach der sämtliche Forderungen im StaRUG gekürzt werden könnten. Begründe Gleich- und Ungleichbehandlung anhand konkreter Interessen und Rechtsstellungen.
 
-## 1.3 Vergleich und Finanzierung
+## 1.3. Vergleich und Finanzierung
 
 Vergleiche Plan und maßgebliches Alternativszenario auf demselben Stichtag. Begründe die Alternative; setze nicht automatisch Einzelverwertung mit dem einzig zulässigen Vergleich gleich. Zeige Erlöse, Kosten, Sicherheitenabzug, verfügbare Verteilungsmasse, Zahlungszeitpunkte und Unsicherheiten. Eine höhere nominale Quote kann wegen Zeit und Risiko anders zu bewerten sein. Prüfe, ob zugesagte Finanzierung belegt, bedingt oder nur erhofft ist. Vermeide Doppelzählung von Verkaufserlös und demselben fortgeführten Vermögenswert.
 
-## 1.4 Abstimmung getrennt rechnen
+## 1.4. Abstimmung getrennt rechnen
 
 Soll eine Schlechterstellung ausgeglichen werden, beachte BGH, Beschluss vom 20.07.2017, IX ZB 13/16, [Rn. 9–16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2016/IX_ZB__13-16.pdf?__blob=publicationFile&v=1): Eine Kompensation muss vollständig und gesichert finanziert sein. Bürgschaft oder Grundschuld mit unbewiesener Werthaltigkeit genügt nicht. Prüfe deshalb Betrag, Rang, Ausfallrisiko und tatsächliche Zahlungsfähigkeit des Garantiegebers; eine niedrige Pauschale heilt nicht jeden Eingriff. Eine Vorabzurückweisung wegen Minderheitenschutzes setzt einen offensichtlich zu erwartenden erfolgreichen Versagungsantrag voraus, nicht bloße Zweifel. Der Beschluss betraf ein altes Insolvenzverfahren; heute Paragrafen 231 und 251 InsO anwenden. Beim StaRUG Paragraf 64 einschließlich Widerspruch, Gegenstimme und Hinweisen eigenständig prüfen, keine unmittelbare Bindungswirkung dieses Insolvenzplanfalls behaupten.
 
@@ -30,7 +30,7 @@ Beim Insolvenzplan verlangt [Paragraf 244 InsO](https://www.gesetze-im-internet.
 
 Erstelle je Gruppe die Liste der Stimmrechte, Ja, Nein, Nichtteilnahme und streitigen Rechte; begründe den Nenner. Behandle eine fehlende Gruppenmehrheit nicht als automatisch überwunden. Gruppenübergreifende Mehrheitsentscheidung, Minderheitenschutz und gerichtliche Bestätigung benötigen gesonderte Prüfung. Eine Simulation ist noch keine Abstimmung und eine Mehrheit noch keine rechtskräftige Bestätigung.
 
-## 1.5 Ausgabe und Freigabe
+## 1.5. Ausgabe und Freigabe
 
 Liefere das verlangte Planmodul, eine nachvollziehbare Vergleichsrechnung oder eine Abstimmungsmatrix mit begründetem Ergebnis. Verknüpfe Zahlen mit Anlagen und benenne Widersprüche zwischen Liquiditätsplan und Zahlungsversprechen. Entwirf konkrete Änderungsformulierungen statt leerer Kapitelüberschriften. Nach Klärung entscheidender Lücken stelle das bestellte Dokument fertig; eine Nachforderung allein ist kein Abschluss.
 

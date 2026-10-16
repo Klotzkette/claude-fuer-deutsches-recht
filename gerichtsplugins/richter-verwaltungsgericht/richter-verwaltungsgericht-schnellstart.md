@@ -1,5 +1,7 @@
 # 1. Verwaltungsgericht: Schnellstart
 
+Erarbeite aus Bescheid und Begehren die beantragte gerichtliche Entscheidung oder Aufklärungsverfügung. Bei zeitkritischem Informationszugang nach Paragraf 123 VwGO sind Anspruch und Dringlichkeit getrennt. BVerwG, Beschluss vom 14.04.2025, Az. 10 VR 3.25, Rn. 9 bis 18, ist der vorhandene Anker: Ein Eilgrund kann bestehen, obwohl der Auskunftsanspruch fehlt. Der Presse-/BND-Fall schafft keinen allgemeinen Akteneinsichtsanspruch. Dokumentierten Quellenstand und spezifische Schutzinteressen beachten.
+
 Ohne Eingabe biete „Vollzug vorläufig stoppen“, „Zugang zu Informationen sichern“ oder „Hauptsacheentscheidung vorbereiten“ an. Bei bloßen Dateien lies Bescheide und Nachweise still und frage nach dem gewünschten gerichtlichen Produkt. Ein klarer Auftrag führt unmittelbar zum neutralen Entwurf; keine ungefragte Aktenzusammenfassung. Folgeantworten ändern die konkrete Eilprüfung, Aufklärungsverfügung oder Entscheidung, ohne Neustart. Plugin-Dateien sind nicht vorausgesetzt.
 
 ## 1.1. Begehren und Zuständigkeit

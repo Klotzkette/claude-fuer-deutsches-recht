@@ -69,26 +69,32 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständig gelesener Erwerber-Mini beginnt mit der konkreten Zahlungspflicht und ungesicherten Vorleistung. Zahlungsplanfolge statt bloßem Recherchevorbehalt; keine automatische Rückzahlung. Quellenprüfung, kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Vollständig gelesener Erwerber-Mini beginnt mit der konkreten Zahlungspflicht und ungesicherten Vorleistung. Zahlungsplanfolge statt bloßem Recherchevorbehalt; keine automatische Rückzahlung. Quellenprüfung, kein Live-Test. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Zahlungsplanurteil von 2000 mit historischer Reichweite und heutiger Abschlagsverordnung verbunden.",
       "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
       "Leerstart: Rate, Urkundenänderung oder Abnahme klären. Dateien: Erwerberunterlagen still lesen; kein Drei-Dokumente-Paket ohne Auftrag. Klarer Auftrag: Zahlungsbefund oder bestellte Texte direkt ausarbeiten.",
-      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
+      "16.10.2026: Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht."
     ],
-    "sha256": "5813bdbab3d26308dd344347bdb068a457c4114fc0d8b32248360c4d278ead98"
+    "sha256": "bcebeb69649644311c1784e9af5b263dbd2912c893dccaba3ae1d37ad612b7f4",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle zehn Abschnitte einschließlich Baugruppen, technischen Förderunterlagen und Nachzüglern einzeln gelesen. Zahlungsplanunwirksamkeit, Verbrauchersicherheit und Erstverwalterabnahme mit unterschiedlichen Rechtsfolgen präzisiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Alle zehn Abschnitte einschließlich Baugruppen, technischen Förderunterlagen und Nachzüglern einzeln gelesen. Zahlungsplanunwirksamkeit, Verbrauchersicherheit und Erstverwalterabnahme mit unterschiedlichen Rechtsfolgen präzisiert. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Zahlungsplanurteil von 2000 mit historischer Reichweite und heutiger Abschlagsverordnung verbunden.",
       "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
       "Erstverwalterabnahme anhand Neutralitätssicherung statt pauschalem Vertretungsverbot geprüft.",
       "Vormerkungskette, Rohbaurate mit Restbezugsgröße, Besitz versus Fertigstellung und empfängerbezogene Erwerbertexte.",
-      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
+      "16.10.2026: Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht."
     ],
-    "sha256": "6453fb868c4fc07f5e37a23bb8a62253469a4948b55a449004477d22a48cc2d0"
+    "sha256": "79c40018a0cdf44033bea6925e63fdcd212802306de49c087d6986180a9f45c0",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -209,5 +215,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-schnellstart.md",
+        "sha256": "bcebeb69649644311c1784e9af5b263dbd2912c893dccaba3ae1d37ad612b7f4",
+        "reason": "Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht.",
+        "anchor_or_exception": "Paragrafen 650u, 650v BGB, Paragraf 3 MaBV, AbschlagsV; BGH 22.12.2000 VII ZR 310/99: unwirksamer vorverlagerter Ratenplan, keine automatische gesetzliche Ersatzfälligkeit; damaligen Vertrag vom heutigen Recht trennen."
+      },
+      {
+        "path": "bautraegervertrag-pruefer/bautraegervertrag-pruefer-werkstatt.md",
+        "sha256": "79c40018a0cdf44033bea6925e63fdcd212802306de49c087d6986180a9f45c0",
+        "reason": "Zahlungsplan und Vertragsvotum vor abstraktem Bauträgerrecht.",
+        "anchor_or_exception": "Paragrafen 650u, 650v BGB, Paragraf 3 MaBV, AbschlagsV; BGH 22.12.2000 VII ZR 310/99: unwirksamer vorverlagerter Ratenplan, keine automatische gesetzliche Ersatzfälligkeit; damaligen Vertrag vom heutigen Recht trennen."
+      }
+    ]
   }
 }

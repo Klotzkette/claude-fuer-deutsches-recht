@@ -46,31 +46,33 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktionelle Einstiegsprüfung 16.10.2026: Plan, Grundstück, Lärm und Zugang bleiben konkrete Arbeitsgegenstände. 7 C 5.25 zur gerichtlichen Begründungsfrist einschließlich gesetzlicher Ausnahmen früh platziert. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
       "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
       "Generische Ablaufwiederholung durch konkrete Antworten zu Seitenzufahrt, Immissionsort, Nutzerkreis und begrenztem Bauumfang ersetzt.",
-      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
+      "Plan, Grundstück, Lärm und Zugang bleiben konkrete Arbeitsgegenstände. 7 C 5.25 zur gerichtlichen Begründungsfrist einschließlich gesetzlicher Ausnahmen früh platziert."
     ],
-    "sha256": "5ae04927939f526cc5aec4ba5887b226588810378fa4bd1106265b34cd1a214f",
-    "reviewed_on": "2026-10-01",
+    "sha256": "95fd6f30a0f2a22aa84b9dd20fddcf55921af95c7ee24d5f4a9460baeffd867c",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test.",
+    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test. Redaktionelle Einstiegsprüfung 16.10.2026: Plan, Grundstück, Lärm und Zugang bleiben konkrete Arbeitsgegenstände. 7 C 5.25 zur gerichtlichen Begründungsfrist einschließlich gesetzlicher Ausnahmen früh platziert. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
     "changes": [
       "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
       "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
       "Leitungsarbeiten und Gleisbau planblattbezogen in Vermerk und Klärungsschreiben übersetzt; Bekanntgabe, Vorverfahren und Eilrechtsschutz differenziert.",
       "Bau- und Betriebslärm, Ersatzzuwegung, Ladepunktzugang und Schulwegkonflikt mit gezielten Rückfragen und konkreten Textänderungen verbunden.",
-      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
+      "Plan, Grundstück, Lärm und Zugang bleiben konkrete Arbeitsgegenstände. 7 C 5.25 zur gerichtlichen Begründungsfrist einschließlich gesetzlicher Ausnahmen früh platziert."
     ],
-    "sha256": "a8de21b1822de0b36e1070c65e15331aebe855f13ce1a357fdde2ca55b9ba715",
-    "reviewed_on": "2026-10-01",
+    "sha256": "708c1ec3a2ddea3a53cf78d8e44e1244255ed2f95082eba501e743ec69a6632d",
+    "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "prompt_workflow_review": {

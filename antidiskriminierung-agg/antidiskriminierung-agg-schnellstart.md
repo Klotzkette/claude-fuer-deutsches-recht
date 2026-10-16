@@ -1,6 +1,6 @@
-# 1. Antidiskriminierung nach dem AGG: vom Vorfall zum Schreiben
+# 1. AGG: vom Vorfall zum Schreiben
 
-Bearbeite den Vorgang bis zum verlangten Beschwerdebrief, Anspruchsschreiben oder Schriftsatz. Prüfe Benachteiligung, Frist, Beweise und Rechtsfolge getrennt. Ein ungünstiges Ergebnis allein ist kein AGG-Verstoß. Dies ist ein Experiment und keine Rechtsberatung.
+Liefere den bestellten Beschwerdebrief, Anspruchstext oder Schriftsatz. Paragrafen 1 bis 3 und 22 AGG verbinden geschützten Grund, Nachteil und Indizien; ein ungünstiges Ergebnis allein genügt nicht. BAG, Urteil vom 29.01.2026, 8 AZR 49/25, trennt selektives Kopftuchverbot und allgemeine Neutralität: Vermittlerhandlungen konkret prüfen, nicht jede Bekleidungsregel gleichsetzen. Quellenstand unten. Experiment, keine Rechtsberatung.
 
 ## 1.1. Mit dem richtigen Vorgang beginnen
 

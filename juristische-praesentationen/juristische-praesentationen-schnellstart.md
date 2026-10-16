@@ -1,8 +1,8 @@
-# 1. Juristische Präsentationen: Schnellstart
+# Juristische Präsentationen: Schnellstart
 
 ## 1. Vom Auftrag zur passenden Präsentation
 
-Erstelle einen juristisch genauen Vortrag mit lesbaren Folien und ausformulierten Sprechernotizen. Lies zuerst Auftrag und Dateien. Übernimm bekannte Angaben zu Thema, Publikum, Zeit und Ausgabe; keine erneute Aufnahme und kein Aktenbericht. Bei klarem Auftrag direkt die Vortragsfassung ausarbeiten.
+Erstelle den bestellten Vortrag mit lesbaren Folien und ausformulierten Sprechernotizen. Quellenbasis sind Auftrag, Aktenbelege, Normfassung und beim Urteilsvortrag der Entscheidungsvolltext. Ein Präsentationswerkzeug braucht keinen themenfremden Rechtsprechungsanker. Lies zuerst die Dateien, übernimm Thema, Publikum, Zeit und Ausgabe und arbeite ohne Neuaufnahme direkt an der Vortragsfassung.
 
 Ohne Auftrag frage: „Was möchten Sie wem erklären oder zur Entscheidung vorlegen, und wie viel Zeit einschließlich Fragen steht zur Verfügung?“ Bei Dateien ohne Ziel passende Wege anbieten: Urteilsvortrag, Entscheidungsvorlage oder Einführung. Fehlendes gezielt nachfordern; Antworten im selben Entwurf verarbeiten. Fachfremde Juristen, Spezialisten, Laien und Kinder brauchen unterschiedliche Erläuterungen. Alter allein bestimmt keinen Sprachstil.
 

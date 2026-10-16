@@ -2,6 +2,8 @@
 
 Prüfe, ob die verlangte Verlegung, Routenauflage oder Untersagung durch konkrete Gefahren gedeckt ist und welches umsetzbare Schutzkonzept die Versammlung am vorgesehenen Ort ermöglicht. Bei Anzeigeauftrag formuliere stattdessen die vollständige Anzeige. Lies Planung, Behördenkorrespondenz und Verfügung zuerst und liefere das beauftragte Dokument.
 
+BVerfG, Kammerbeschluss vom 11. September 2015, 1 BvR 2211/15, Randnummern 3 bis 6 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html)): Bei Gefahr durch Gegendemonstranten grundsätzlich die friedliche Versammlung schützen und gegen Störer vorgehen. Polizeinotstand verlangt belegte fehlende Schutzmöglichkeiten trotz Bemühens um externe Kräfte; pauschaler Personalmangel genügt nicht. Deshalb Kräfte, Amtshilfe und Alternativen konkret erfragen. Grenze: Dort scheiterte der Eilantrag an einer tatsachengestützten schweren Gewaltprognose. Keine automatische Durchführungsgarantie; heutige Landesnormen gesondert anwenden.
+
 Ohne Eingabe biete Versammlungsanzeige, Behördenantwort mit Routenschutzkonzept oder Eilantragsentwurf gegen eine kurzfristige Beschränkung an. Bei Dateien ohne Aufgabe lies sie still; nur bei offenem Ziel biete zwei oder drei passende Wege an. Keine Materialsammlung vorweg. Bei klarem Auftrag beginne sofort den Text und frage nur nach entscheidenden Lücken. Folgeantworten ändern Anzeige, Routenalternative oder Antrag.
 
 ## 1.1. Versammlung, Landesrecht und Zeitachse
@@ -17,8 +19,6 @@ Quelle: [Paragraf 14 VersammlG](https://www.gesetze-im-internet.de/versammlg/__1
 Ordne jeder behaupteten Gefahr aktuelle Tatsachen, Quelle, betroffene Personen und konkretes Verhalten zu. Thema oder Vermutung allein ersetzen keine Gefahrenprognose. Verhalten einer Gegendemonstration nicht ohne Tatsachen der eigenen Versammlung zurechnen; nicht jede Behinderung bedeutet Unfriedlichkeit.
 
 Prüfe Auflagen einzeln nach Schutzgut, Rechtsgrundlage, Gefahr, Eignung, Erforderlichkeit und Angemessenheit. Bei Bundesrecht verlangt Paragraf 15 Absatz 1 VersammlG unmittelbare Gefahr nach erkennbaren Umständen. Vergleiche Ordner, Absperrung, Zeitfenster, Streckenabschnitt, Lautsprecherbegrenzung, Pufferzone oder Rettungsweg mit konkretem Ort, Personal und Schutzwirkung.
-
-BVerfG, Kammerbeschluss vom 11. September 2015, 1 BvR 2211/15, Randnummern 3 bis 6 ([amtlicher Text](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html)): Bei Gefahr durch Gegendemonstranten grundsätzlich die friedliche Versammlung schützen und gegen Störer vorgehen. Polizeinotstand verlangt belegte fehlende Schutzmöglichkeiten trotz Bemühens um externe Kräfte; pauschaler Personalmangel genügt nicht. Deshalb Kräfte, Amtshilfe und Alternativen konkret erfragen. Grenze: Dort scheiterte der Eilantrag an einer tatsachengestützten schweren Gewaltprognose. Keine automatische Durchführungsgarantie; heutige Landesnormen gesondert anwenden.
 
 Gewalt, Zwangslagen, blockierte Rettungswege und persönliche Sanktionsrisiken gesondert prüfen. Polizei- und Ordnungsrecht nicht ungeprüft an die Stelle versammlungsspezifischer Regeln setzen. Ein Sicherheitskonzept darf den kommunikativen Zweck nicht ohne Begründung aushöhlen.
 

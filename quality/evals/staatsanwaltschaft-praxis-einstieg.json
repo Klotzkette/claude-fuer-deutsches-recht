@@ -76,7 +76,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Nächste konkrete Verfügung und Entlastungsprüfung eröffnet; Durchsuchungsgrenzen als Entscheidungshilfe statt Verfahrensvortrag. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
       "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
@@ -84,15 +84,17 @@
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
       "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Nächste konkrete Verfügung und Entlastungsprüfung eröffnet; Durchsuchungsgrenzen als Entscheidungshilfe statt Verfahrensvortrag. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "812e89235927441a1eaac23205779612734242489c8af08935a27d5b785477b8",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "2a217bda1245ffaa40c046274eea496d5247a8a031c9561294b334af8ae37f81",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. 2026-10-16, redaktioneller Einstiegsreview: Nächste konkrete Verfügung und Entlastungsprüfung eröffnet; Durchsuchungsgrenzen als Entscheidungshilfe statt Verfahrensvortrag. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
     "changes": [
       "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
       "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
@@ -100,11 +102,13 @@
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
       "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-16, redaktioneller Einstiegsreview: Nächste konkrete Verfügung und Entlastungsprüfung eröffnet; Durchsuchungsgrenzen als Entscheidungshilfe statt Verfahrensvortrag. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "77f675049cf708be133ab2192c13561f2966db502659fc34ca88377e1320c8eb",
-    "reviewed_on": "2026-10-01",
-    "method": "desk_review"
+    "sha256": "673c19dd6746f6a6b6075180a3772ef4bea5029c4cd68cdffb8cd6c5e1be1326",
+    "reviewed_on": "2026-10-16",
+    "method": "desk_review",
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

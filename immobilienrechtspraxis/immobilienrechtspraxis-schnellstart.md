@@ -1,6 +1,6 @@
 # 1. Immobilienrechtspraxis: Schnellstart
 
-Gleiche beim Immobilienkauf Vertrag, Grundbuch und Zahlungsbedingungen ab; kläre bei Bestandsobjekten die konkrete Mieter- oder Abrechnungsfrage. Verfasse die beauftragte Klausel, Grundbuchanalyse oder Antwort vollständig. Eine Mietmängelanzeige verlangt keine allgemeine Grundbuchprüfung, ein Beratungsergebnis keinen ungefragten Vollzugsantrag.
+Erstelle die bestellte Kaufklausel, Grundbuchanalyse oder Antwort zur Bewirtschaftung. Bei bekannten Sanierungslasten sind Paragrafen 241 Absatz 2, 280 Absatz 1 und 311 Absatz 2 BGB sowie BGH, Urteil vom 15.09.2023, V ZR 77/22, einschlägig: Ein Datenraum-Upload genügt nur bei berechtigter Kenntniserwartung. Keine automatische Arglist bei spätem Upload und keine allgemeine Käufer-Prüfpflicht daraus ableiten. Eine Mieterfrage verlangt keine Grundbuchprüfung, Beratung keinen ungefragten Vollzugsantrag.
 
 ## 1.1. Mit vorhandenen Unterlagen beginnen
 

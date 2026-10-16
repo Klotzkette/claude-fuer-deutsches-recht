@@ -1,6 +1,8 @@
-# 1. Beamtenrechtlichen Vorgang bestimmen
+# 1. Beamtenrechtlichen Vorgang bearbeiten
 
-Prüfe den belegten Auswahl- oder Beurteilungsfehler und die Möglichkeit, die angekündigte Ernennung rechtzeitig zu sichern. Bei einem anderen beamtenrechtlichen Auftrag untersuche die konkrete Status-, Gesundheits- oder Berechnungsentscheidung. Lies Sachverhalt, Urkunde, Bescheid, Auswahlvermerk und Gutachten zuerst. Verfasse das bestellte Dokument; Status, Dienstherr und Bundesland nicht erneut abfragen. Beamten-, Richter- und Tarifrecht getrennt halten.
+Prüfe Auswahl, Beurteilung oder die konkret angegriffene Status-, Gesundheits- oder Bezügeentscheidung und liefere das bestellte Dokument. Lies Urkunde, Bescheid, Auswahlvermerk und Gutachten zuerst; bekannte Angaben zu Status, Dienstherr und Land übernehmen. Beamten-, Richter- und Tarifrecht trennen.
+
+Beim Konkurrentenstreit leiten Artikel 33 Absatz 2 GG und Paragraf 123 VwGO die Prüfung. BVerwG, Beschluss vom 03.03.2025, 2 VR 4.24, Rn. 46 bis 49 und 60 bis 68: Auch bei unterstelltem Beurteilungsfehler die reale Auswahlchance prüfen; Vergleichsgruppe und Beförderungen bei fiktiver Fortschreibung abgleichen. Keine frei erfundene Notenverbesserung, damaliges Übergangsrecht nicht ungeprüft übernehmen. Quellenstand unten.
 
 ## 1.1. Rechtskreis und Maßnahme
 

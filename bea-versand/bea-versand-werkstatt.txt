@@ -1,8 +1,10 @@
-# beA-Versand – Werkstatt-Prompt
+# beA-Versand: Dateien für den Upload vorbereiten
+
+Bereite Hauptdokument und zugehörige Anlagen als tatsächlich erzeugte, kontrollierte PDF-Dateien vor. Hauptdokument kann Schriftsatz, Antrag, Stellungnahme, Anschreiben, Gutachten, Bericht, Vertrag oder sonstige Erklärung sein. Dokumentart allein bestimmt weder Anlagenpräfix noch Übermittlungsweg.
+
+Paragraf 2 ERVV und die ERVB bestimmen technische Anforderungen; im Zivilverfahren trennt Paragraf 130a ZPO Dateivorbereitung, Formweg und Eingang. BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, Rn. 26 bis 29, verlangt die Zuordnung des tatsächlich übermittelten Dokuments anhand des Dateinamens, nicht nur einer frei eingetragenen Bezeichnung. Daraus folgt weder eine Pflicht zum Anlagenstempel noch ein Nachweis richtiger Signatur oder richtigen Inhalts. Vorhandenen Quellenstand unten beibehalten.
 
 ## 1. Zweck und Anwendungsfall
-
-Bereite das vorhandene Hauptdokument und seine Anlagen als tatsächlich erzeugte, kontrollierte PDF-Dateien für den beA-Upload vor. Hauptdokument kann jedes beauftragte Dokument sein: Schriftsatz, Antrag, Stellungnahme, Anschreiben, Gutachten, Bericht, Vertrag oder sonstige Erklärung. Die Dokumentart bestimmt nicht automatisch die Anlagenpräfixe oder den Übermittlungsweg.
 
 Lies zunächst die vorhandenen Unterlagen. Führe eindeutige Zuordnungen und die Dateiproduktion direkt aus. Frage nur nach einer entscheidenden Lücke, die sich auch nach Sichtung nicht auflösen lässt, und bearbeite die davon unabhängigen Teile weiter. Eine bereits geklärte Auswahl wird nicht erneut abgefragt. Dieser Auftrag umfasst die Versandvorbereitung; er erteilt keinen Auftrag zum Absenden, Signieren, Einreichen oder zur inhaltlichen Neufassung des Hauptdokuments.
 
@@ -60,7 +62,7 @@ Bei einer Umsetzung mit `pypdf` und `reportlab` muss das Overlay zur sichtbaren 
 
 ### 3.6. Dateien eindeutig für den beA-Upload benennen
 
-Prüfe die aktuellen Regeln anhand der Quellen in Abschnitt 4. Für die hier erzeugten normalen PDF-Anhänge gilt als Uploadgrenze höchstens **84 Zeichen einschließlich `.pdf`**. Die technische ERVB-Obergrenze von 90 Zeichen ist davon zu unterscheiden; das beA-Handbuch lässt die zusätzlichen Zeichen für Signaturdateien zu.
+Prüfe die aktuellen Regeln anhand der Quellen in Abschnitt 4. Für die hier erzeugten normalen PDF-Anhänge gilt als Uploadgrenze höchstens 84 Zeichen einschließlich `.pdf`. Die technische ERVB-Obergrenze von 90 Zeichen ist davon zu unterscheiden; das beA-Handbuch lässt die zusätzlichen Zeichen für Signaturdateien zu.
 
 Für den Namensstamm sind A–Z, a–z, Ä, Ö, Ü, ä, ö, ü, ß, Ziffern, Unterstrich und Bindestrich zugelassen. Verwende keine Leerzeichen, Pfadtrenner, Klammern oder sonstigen Sonderzeichen. Der einzige Punkt einer erzeugten PDF steht unmittelbar vor `pdf`. Umlaute sind zulässig und werden standardmäßig erhalten; eine strengere ausdrücklich gewünschte oder gerichtlich vorgegebene ASCII-Konvention darf umgesetzt werden, wird aber nicht als allgemeines gesetzliches Verbot von Umlauten bezeichnet. Die Regeln für gesonderte Signaturdateien mit verketteten Endungen sind nicht mit der PDF-Namensprüfung gleichzusetzen.
 
@@ -84,12 +86,12 @@ Wenn der Nutzer eine fehlende Anlage nachreicht oder eine Zuordnung korrigiert, 
 
 Prüfe vor der Ausgabe die für den Einsatzzeitpunkt einschlägige technische Bekanntmachung und die beA-Uploadregeln. Die folgenden Primärquellen sind die Sucheinstiege; eine spätere Änderung geht den hier beschriebenen Ausgangswerten vor:
 
-- [ERVV § 2 – Anforderungen an elektronische Dokumente](https://www.gesetze-im-internet.de/ervv/__2.html).
+- [ERVV Paragraf 2 – Anforderungen an elektronische Dokumente](https://www.gesetze-im-internet.de/ervv/__2.html).
 - [Justizportal – elektronischer Rechtsverkehr und technische Bekanntmachungen](https://justiz.de/laender-bund-europa/elektronische_kommunikation/index.php).
 - [ERVB 2025 vom 16.07.2025, BAnz AT 29.07.2025 B2, gültig seit 30.07.2025](https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf).
 - [BRAK-beA-Handbuch – Anhänge hochladen](https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/erstellen-und-senden/anhaenge-hochladen).
 - [BRAK-beA-Handbuch – Prüfung einer qualifizierten elektronischen Signatur](https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/oeffnen-und-anzeigen/pruefen-einer-qualifizierten-elektronischen-signatur-qes).
-- [ZPO § 130a – elektronisches Dokument](https://www.gesetze-im-internet.de/zpo/__130a.html), soweit das konkrete Verfahren der ZPO unterliegt. Andere Verfahren verlangen ihre eigenen Formvorschriften.
+- [ZPO Paragraf 130a – elektronisches Dokument](https://www.gesetze-im-internet.de/zpo/__130a.html), soweit das konkrete Verfahren der ZPO unterliegt. Andere Verfahren verlangen ihre eigenen Formvorschriften.
 
 Ausgangsstand dieser Fassung: 28.09.2026. Arial 30 pt, eingebettete Stempelschrift und OCR sind die gewählten Arbeits- beziehungsweise Qualitätsstandards; sie werden nicht als allgemeine gesetzliche Mussvorgaben bezeichnet. Aus einer Abweichung von einem Dateinamensstandard folgt nicht automatisch die Unwirksamkeit einer Einreichung.
 

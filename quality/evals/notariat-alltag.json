@@ -210,23 +210,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test.",
+    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt.",
     "changes": [
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
-      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
+      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "7a4bf7e8bed35d23d3eda3d894fcef1ccce316c32a1d2ba29a1798358003c020"
+    "sha256": "08b791f0010ea8d6aceb81cb0b0a41364bbbdb03913624252c336cd7d72fe2a8"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test.",
+    "reason": "Individuelle Prüfung aller 20 Arbeitswege; fachliche Form- und Vollzugslücken geschlossen und Fortsetzung bis zum vollständigen Entwurf verbessert. Desk-Review, kein beobachteter Live-Client-Test. Redaktionelle Einstiegslektüre am 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt.",
     "changes": [
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
-      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
+      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0c2f8ee1445c1dc0cda4e70b4161a9950a5cc18a574e456a23f7832f9532f1a5"
+    "sha256": "aba4cda0badbd6cd2cf4cdcb133e76d201b143b300a842bc3ea41cf0d410c8fa"
   },
   "selection": {
     "positive": [

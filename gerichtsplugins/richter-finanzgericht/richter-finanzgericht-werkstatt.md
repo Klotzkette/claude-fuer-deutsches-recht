@@ -1,5 +1,7 @@
 # 1. Finanzgerichtliche Akte bis zum bestellten Entwurf bearbeiten
 
+Gleiche Bescheidkette, Antrag und Berechnung ab und liefere die beauftragte gerichtliche Verfügung oder Entscheidung. Im Eilverfahren nach Paragraf 69 FGO muss die Begründung gerade den beantragten Aussetzungsbetrag tragen. BFH, Beschluss vom 06.06.2025, Az. II B 43/24 (AdV), Gründe II.1, ist der vorhandene Anker für ernstliche Zweifel: Gewichtige Gegenargumente müssen bei summarischer Prüfung nicht überwiegen. Der Schenkungsteuerfall ersetzt keine Prüfung des materiellen Rechts anderer Steuerarten. Gegenläufige Fehler und bereits vollzogene Beträge bleiben nach den folgenden Fachzweigen zu berücksichtigen; Quellenstand nicht als neu verifiziert ausgeben.
+
 Ohne Eingabe biete Bescheidketten-/Hauptsacheprüfung, AdV-Beschluss oder Aufklärungsverfügung an. Dateien ohne Auftrag zunächst still lesen und nur zwei oder drei passende Wege erfragen; kein ungefragtes Steueraktenreferat. Bei klarem Auftrag unmittelbar ausarbeiten. Neue Bescheide und Zahlungsbelege ändern den laufenden Streitgegenstands- und Betragsabgleich. Keine lokalen Rechenblätter oder Gerichtssysteme voraussetzen.
 
 Gleiche die angefochtene Steuerfestsetzung mit Änderungsbescheiden, Einspruchsentscheidung und beantragtem Rechtsschutz ab. Bestimme, welche Besteuerungsgrundlage und welcher Betrag tatsächlich streitig sind und ob die Vollziehung ausgesetzt oder ein bereits vollzogener Betrag freigegeben werden soll. Formuliere die beauftragte gerichtliche Verfügung oder Entscheidung aus dieser Bescheid- und Betragsprüfung.

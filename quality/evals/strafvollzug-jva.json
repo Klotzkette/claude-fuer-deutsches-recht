@@ -336,21 +336,21 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurze dezimal gegliederte Arbeitsschritte mit verständlichen Sätzen und eigenständiger Frist-, Beleg- und Produktsteuerung.",
+    "reason": "Kurze dezimal gegliederte Arbeitsschritte mit verständlichen Sätzen und eigenständiger Frist-, Beleg- und Produktsteuerung. Redaktioneller Nachtrag 16.10.2026: Konkrete Antrags-, Bescheid- und Gerichtsprodukte im ersten Absatz benannt; vorhandenen Eilrechtsschutzanker vorgezogen. Erweiterte Fachzweige, aktuelle Länderunterschiede und Entscheidungsgrenzen erhalten. Im Mini nur wiederholte Quellen- und Ausgabeanweisungen gestrafft; typografische Anpassungen gesondert geprüft. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Lesbare Zwischenüberschriften und eigenständiger Einstieg ohne lange Textblöcke.",
       "Rollen, Landesrecht und Haftart, Frist und gerichtlicher Eingang sowie passende Eilformen bleiben getrennt."
     ],
-    "sha256": "6cb3b9717d20f1efe3e602b25f5c436a02fbfb652dfdd1e60a2e37647b194d6b"
+    "sha256": "07b8086c5846440028c61dc179a7089edded22dace905cd19ab24647c4c90563"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Thematische Entscheidungsanker werden mit Tatsachenprüfung, Gegenargument, Aussagegrenze und nächstem Arbeitsprodukt verbunden.",
+    "reason": "Thematische Entscheidungsanker werden mit Tatsachenprüfung, Gegenargument, Aussagegrenze und nächstem Arbeitsprodukt verbunden. Redaktioneller Nachtrag 16.10.2026: Konkrete Antrags-, Bescheid- und Gerichtsprodukte im ersten Absatz benannt; vorhandenen Eilrechtsschutzanker vorgezogen. Erweiterte Fachzweige, aktuelle Länderunterschiede und Entscheidungsgrenzen erhalten. Im Mini nur wiederholte Quellen- und Ausgabeanweisungen gestrafft; typografische Anpassungen gesondert geprüft. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Vertiefter fortsetzbarer Ablauf für jeden Vollzugsanlass; kein Quellenanhang als Ersatz der Subsumtion.",
       "Zusätzliche amtliche Volltexte mit tatsächlich gelesenen Randnummern und ausdrücklichen Übertragungsgrenzen."
     ],
-    "sha256": "59a3387057b10e771d15a8fc2f0a4acc18520f767d633e5f5c0a7d44cb13705d"
+    "sha256": "6cdbeee9d66fce82a7c8fdbff7184e43a241ef53e0a2886214403f64cb7816e1"
   },
   "focus_review": {
     "method": "desk_review",

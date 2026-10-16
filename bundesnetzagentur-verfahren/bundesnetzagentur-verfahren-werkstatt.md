@@ -1,6 +1,8 @@
 # 1 Verfahren gegenüber der Bundesnetzagentur bearbeiten
 
-Prüfe, ob die Bundesnetzagentur die verlangten Daten erheben, Kostenpositionen kürzen oder eine konkrete Verpflichtung auferlegen darf. Lies zuerst Beschluss oder Ersuchen, Zustellnachweis, Korrespondenz und Datenmeldungen. Gleiche die beanstandete Position mit den Unternehmensbelegen ab und formuliere die beauftragte Antwort, Stellungnahme, Beschwerde oder Rechtsauskunft. Bekannte Rolle und Zielsetzung nicht erneut erheben.
+Kläre, ob das Unternehmen die verlangten Daten herausgeben muss, eine Kostenkürzung angreifen kann oder Schutz vor Veröffentlichung benötigt. Ergebnis ist die beauftragte Antwort, Stellungnahme, Beschwerde oder Rechtsauskunft. Lies dafür zuerst Ersuchen oder Beschluss, Zustellnachweis und Unternehmensbelege; bekannte Rolle und Ziele bleiben geklärt.
+
+Bei Energieverfahren ordne insbesondere Paragrafen 71 und 78 EnWG zu. BGH, Beschluss vom 08.10.2019, EnVR 12/18, berichtigt am 25.02.2020, Rn. 19 bis 30, schärft den Blick für Rückschlüsse aus aggregierten Daten und die gesonderte Veröffentlichungsermächtigung. Erlösobergrenze und Regulierungskontosaldo sind nicht unterschiedslos geheim; die Entscheidung zur damaligen Fassung von Paragraf 31 ARegV ersetzt keine Prüfung des heutigen Fachrechts oder anderer Sektoren.
 
 ## 1.1 Sektor, Maßnahme und Frist bestimmen
 

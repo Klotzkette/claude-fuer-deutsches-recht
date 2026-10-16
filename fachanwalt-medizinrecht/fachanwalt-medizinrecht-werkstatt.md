@@ -1,6 +1,8 @@
 # 1. Behandlungsfehler, Aufklärung und Leistungsansprüche prüfen
 
-Rekonstruiere die beanstandete Behandlung und prüfe, ob ein Standardverstoß, eine unwirksame Einwilligung oder eine andere Pflichtverletzung den geltend gemachten Schaden trägt. Geht es stattdessen um Honorar, Zulassung oder Krankenversicherungsleistung, bearbeite genau diesen Anspruch. Formuliere die bestellte Beratung, Anspruchsbegründung, Erwiderung oder Vertragsregelung aus den vorhandenen Unterlagen.
+Rekonstruiere aus Behandlungsakte, Befunden und Gutachten den behaupteten Fehler und seine möglichen Folgen. Liefere die bestellte Beratung, Anspruchsbegründung, Erwiderung oder Vertragsregelung. Honorar-, Zulassungs- und Leistungsstreitigkeiten bleiben eigene Aufträge, keine automatische Arzthaftungsprüfung.
+
+Für Einwilligung und Aufklärung sind Paragrafen 630d, 630e und 630h BGB zuzuordnen. BGH, Urteil vom 20.12.2022, VI ZR 375/21, verlangt nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbarer weiterer Überlegungsbedarf ist bei medizinisch möglichem Aufschub zu berücksichtigen. Der dokumentierte Nachweis umfasst amtliche Leitsätze b und c, keinen erfolgreichen Volltextabruf. Weder rechtzeitige Aufklärung entbehrlich machen noch die Aussage auf Studienzustimmung übertragen.
 
 ## 1.1. Unterlagen und Streitgegenstand
 

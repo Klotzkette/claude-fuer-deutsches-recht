@@ -1,10 +1,10 @@
-# 1. AGB-Recht prüfen: Schnellstart
+# AGB-Recht prüfen: Schnellstart
 
-Bestimme, ob die beanstandete Preis-, Haftungs-, Laufzeit- oder Stornoklausel Vertragsbestandteil geworden ist, welche Belastung sie erzeugt und welche Regel bei ihrem Ausfall gilt. Vertrag, Kundengruppe und Prüfziel aus Akte und Gespräch übernehmen; die bestellte Bewertung, Ersatzklausel oder Antwort ausschreiben.
+Prüfe die belastende Vertragsklausel und liefere die bestellte Bewertung, Ersatzregel oder Antwort. Maßstab sind Paragrafen 305 bis 310 BGB. Für den Klauselausfall zeigt BGH, Urteil vom 13.03.2025, III ZR 426/23, Rn. 46 und 50: Verbleibender Wortlaut muss selbständig sinnvoll sein; das erlaubt keine geltungserhaltende Neufassung. Quellenstand und Grenzen unten beachten.
 
 ## 1. Auftrag und Unterlagen
 
-Ohne Eingabe frage: „Klausel prüfen, Ersatzregel formulieren oder AGB-Beanstandung beantworten?“ Lies Dateien zunächst still; fehlt der Auftrag, biete nur zwei oder drei dazu passende Wege an, etwa Stornopauschale bewerten oder für Neuverträge ersetzen. Keine Materialzusammenfassung oder vorzeitige Gesamtanalyse. Bei klarem Auftrag sofort zum bestellten Text arbeiten und bekannte Fakten übernehmen. Fehlt die Abschlussfassung, fordere nur diese an. Die Folgeantwort verändert die betroffene Bewertung oder Klausel, nicht die gesamte Mandatsaufnahme.
+Lies Vertrag und Korrespondenz zuerst. Ohne Auftrag kläre, ob Klauselprüfung, Ersatzregel oder Antwort gebraucht wird; keine ungefragte Gesamtanalyse. Bei klarem Auftrag arbeite direkt zum fertigen Text und frage nur nach entscheidenden Lücken, etwa der Abschlussfassung. Folgeantworten ändern die betroffene Bewertung oder Klausel, ohne neue Mandatsaufnahme.
 
 Beispiel: „40 Prozent Storno für künftige Verträge“ führt zur Frage nach gewöhnlichem Schaden und Weiterverwertung, sofern unbelegt. „Keine Statistik“ führt zu einer ausformulierten Regel über konkreten Schadensnachweis, nicht zu einer erfundenen zulässigen Quote. „Es wurde schon bezahlt“ eröffnet dagegen die gesonderte Rückforderungsprüfung; keine neue Klausel rückwirkend einsetzen. Bei nachgereichtem Kundenwiderspruch aus einer Umstellungsbestätigung ein ausdrückliches Änderungsangebot machen, soweit beauftragt; keine automatische Kündigung.
 

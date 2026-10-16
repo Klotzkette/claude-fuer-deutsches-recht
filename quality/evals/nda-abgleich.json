@@ -21,24 +21,26 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Erneuter vollständiger Desk Review am 23. September 2026: NDA-spezifische Startmodi und Klauselfortsetzung ergänzt, bestehende Normen und Rechtsprechungsgrenzen bewahrt. Kein Live-Modelltest.",
+    "reason": "Erneuter vollständiger Desk Review am 23. September 2026: NDA-spezifische Startmodi und Klauselfortsetzung ergänzt, bestehende Normen und Rechtsprechungsgrenzen bewahrt. Kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Nutzungsabrede und Mitarbeiter-NDA-Grenze früh eingebracht; Standardabgleich bleibt gezielte Änderung.",
     "changes": [
       "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
       "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
-      "Vergleichsroute bei leerem Einstieg und stille Sichtung bei Dateien; Berater- und Backupantwort am vorhandenen Entwurf umgesetzt."
+      "Vergleichsroute bei leerem Einstieg und stille Sichtung bei Dateien; Berater- und Backupantwort am vorhandenen Entwurf umgesetzt.",
+      "Redaktion 16.10.2026: Nutzungsabrede und Mitarbeiter-NDA-Grenze früh eingebracht; Standardabgleich bleibt gezielte Änderung. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "303014cbcab904cf89cde44be7ea77d918260dd261d175f3d8c86975f1dba8e8"
+    "sha256": "fc88c49c185db121e5adc38e5b651b4d81314aaddc3cea1fa9ff79e2407f2004"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständiger individueller Desk Review mit vertieftem Bedeutungsvergleich, versteckten Definitionsabweichungen und umsetzbaren Klauselentscheidungen; keine technische DOCX- oder Mandatsausführung.",
+    "reason": "Vollständiger individueller Desk Review mit vertieftem Bedeutungsvergleich, versteckten Definitionsabweichungen und umsetzbaren Klauselentscheidungen; keine technische DOCX- oder Mandatsausführung. Redaktionelle Einstiegslektüre am 16.10.2026: Nutzungsabrede und Mitarbeiter-NDA-Grenze früh eingebracht; Standardabgleich bleibt gezielte Änderung.",
     "changes": [
       "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
       "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
       "Sollvergleich gegenüber Versionsvergleich, Anlagenrangfolge, uneinheitliche Altstandards und gegenläufige Zugriffsinteressen ergänzt.",
-      "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet."
+      "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet.",
+      "Redaktion 16.10.2026: Nutzungsabrede und Mitarbeiter-NDA-Grenze früh eingebracht; Standardabgleich bleibt gezielte Änderung. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "0411d0e5dab6acf505d20c9d8fe08f5b08680ce87273f059088da18b81c8fdf2"
+    "sha256": "3a41c77cc90d635e786e051d971688a55da4effaaaab9e7d67ba1f948a98433d"
   },
   "selection": {
     "positive": [

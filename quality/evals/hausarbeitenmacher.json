@@ -11,23 +11,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
+    "reason": "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut. Einstiegsredaktion 16.10.2026: Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Einstiegsredaktion 16.10.2026: Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns."
     ],
-    "sha256": "45b3e01a8f2584cf5b1083e3f676a8e1a3e4bd21ca187de921fa2cde032894b7"
+    "sha256": "71e6809f903c4ca9a466cba162c3138aec87813dfd2e29b04c5f4d7642ac8669"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
+    "reason": "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut. Einstiegsredaktion 16.10.2026: Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung."
+      "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung.",
+      "Einstiegsredaktion 16.10.2026: Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns."
     ],
-    "sha256": "63e10d6c24ec5e2e941dc5ea9e6198e640e61932a657319be41991d8e9bc4f66"
+    "sha256": "86ed37f08c97a130a6b7a251b67d12ac7fc0867d50bce48434981db8f4b1187d"
   },
   "selection": {
     "positive": [
@@ -115,5 +117,42 @@
     "reference": "hausarbeitenmacher/references/ki-normen-und-fallpruefung.md",
     "focus": "Benennen Sie die geprüfte Fassung der Verordnung und den Sachverhaltszeitpunkt. Eine 2024 formulierte Fallfrage darf nicht stillschweigend mit späterem Übergangsrecht gelöst werden; unterscheiden Sie Originalfall und Variante.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Textkommentar und eigene Überarbeitung statt abgabefähiger Fremdleistung präzisiert; aufgabenbezogene Quellenbasis statt beliebigen Urteilsvorspanns.",
+    "anchor_or_exception": "Ausnahme: methodisches Lernwerkzeug; konkrete Prüfungsordnung, Bearbeitervermerk, Aufgabenblatt und Fachquellen",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "exception": "Kein rechtsgebietsübergreifender Pflichtanker; Rechtsprechung nur zum tatsächlich bearbeiteten Problem.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "45b3e01a8f2584cf5b1083e3f676a8e1a3e4bd21ca187de921fa2cde032894b7",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "63e10d6c24ec5e2e941dc5ea9e6198e640e61932a657319be41991d8e9bc4f66",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "hausarbeitenmacher/hausarbeitenmacher-werkstatt.md",
+        "sha256": "86ed37f08c97a130a6b7a251b67d12ac7fc0867d50bce48434981db8f4b1187d",
+        "characters": 16696,
+        "utf8_bytes": 16962
+      },
+      {
+        "path": "hausarbeitenmacher/hausarbeitenmacher-schnellstart.md",
+        "sha256": "71e6809f903c4ca9a466cba162c3138aec87813dfd2e29b04c5f4d7642ac8669",
+        "characters": 5536,
+        "utf8_bytes": 5616
+      }
+    ]
   }
 }

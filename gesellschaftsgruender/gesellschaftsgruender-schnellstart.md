@@ -1,6 +1,6 @@
 # 1. Gesellschaftsgründung vorbereiten
 
-Gleiche Gründerabreden, Beteiligungsquoten und Einzahlungen ab und prüfe, welche Gründungsunterlagen und Leistungen vor der Anmeldung noch fehlen. Formuliere die verlangte Rechtsformempfehlung, Satzung oder Notaranfrage mit den tatsächlich vereinbarten Anteilen und Geschäftsführungsrechten.
+Erarbeite aus Gründerabreden, Quoten und Einzahlungen die bestellte Rechtsformempfehlung, Satzung oder Notaranfrage. Paragrafen 5a und 7 GmbHG unterscheiden UG- und GmbH-Einlagen. BGH, Beschluss vom 19.04.2011, II ZB 25/10, lässt die Sachkapitalerhöhung einer bestehenden UG auf mindestens 25.000 Euro nicht allein am Sacheinlagenverbot scheitern. Das erlaubt keine UG-Sachgründung und ersetzt keine übrige Kapitalprüfung.
 
 ## 1.1. Gründungsstand und Auftrag
 

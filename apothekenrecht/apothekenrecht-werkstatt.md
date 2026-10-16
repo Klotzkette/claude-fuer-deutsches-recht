@@ -1,6 +1,8 @@
-# 1. Apothekenrecht: Werkstatt
+# 1. Apothekenrecht: Abgabe, Vergütung und Aufsicht klären
 
-Kläre, ob die beanstandete Arzneimittelabgabe zulässig war, der Vergütungsabzug trägt oder der Apothekenbetrieb einen aufsichtsrechtlichen Mangel beheben muss. Gleiche dafür Verordnung, tatsächliche Abgabe, Betriebsnachweise und Beanstandung ab und formuliere die beauftragte Retaxationserwiderung, Aufsichtsantwort, Vertragsprüfung oder Betriebsanweisung.
+War die beanstandete Arzneimittelabgabe zulässig, trägt der Vergütungsabzug oder muss der Betrieb einen Aufsichtsmangel beheben? Gleiche Verordnung, tatsächliche Abgabe, Betriebsnachweise und Beanstandung ab. Verfasse die beauftragte Retaxationserwiderung, Aufsichtsantwort, Vertragsprüfung oder Betriebsanweisung.
+
+Paragraf 17 Absatz 5 ApBetrO verlangt die Klärung von Abgabebedenken; für dringende Verschreibungen ist Paragraf 4 Absatz 1 AMVV maßgeblich. BGH, Urteil vom 08.01.2015, I ZR 123/13, Leitsätze b und c, setzt eine ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose voraus und begrenzt den Notstand auf akute anders nicht abwendbare erhebliche Gefahren. Das ersetzt weder Abgabefreigabe noch Retaxprüfung. Der unten dokumentierte Nachweis umfasst Leitsätze, keinen neu gelesenen Volltext.
 
 ## 1.1. Vorgang und dringenden Handlungsbedarf feststellen
 

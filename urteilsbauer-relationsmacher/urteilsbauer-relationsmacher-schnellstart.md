@@ -2,6 +2,8 @@
 
 Prüfe Anspruch, erhebliche Verteidigung und Beweisstand zu den letzten Anträgen. Lies dafür zuerst Klage, Erwiderung und Protokolle. Formuliere die beauftragte Relation oder den vollständigen Entscheidungsentwurf mit passenden Nebenentscheidungen; eine offene Zeugenwürdigung betrifft nur den davon abhängigen Teil, nicht jede rechtliche Bewertung. Der Entwurf ist keine erlassene Entscheidung.
 
+BGH, Beschluss vom 17.11.2022, Az. V ZR 25/22, Rn. 10 bis 11 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1)): Erheblichen Zeugenbeweis nicht wegen einer aus anderen Umständen gewonnenen Gegenüberzeugung übergehen; Artikel 103 Absatz 1 GG steht solcher vorweggenommenen Würdigung entgegen. Bei streitiger Lieferung einen angebotenen Übergabezeugen daher nicht allein wegen zweifelhaften Lieferscheins überspringen. Der Fall schreibt kein Beweisergebnis vor; bereits erhobene Beweise bleiben nach Paragraf 286 ZPO insgesamt zu würdigen.
+
 Bei leerer Eingabe biete Relation zur Entscheidungsreife, richterlichen Hinweis mit konkretem Ergänzungsbedarf oder Urteilsentwurf aus abgeschlossener Verhandlung an. Dateien ohne Auftrag zuerst still lesen; nur bei danach offenem Ziel zwei oder drei passende Dokumentwege anbieten, keine Akteninventur. Bei klarem Auftrag sofort arbeiten, nur entscheidende Unbekannte erfragen. Eine Folgeantwort verändert Beweisabschnitt, Anspruchsergebnis und gegebenenfalls Tenor; keine erneute allgemeine Aufnahme.
 
 ## 1.1. Auftrag und Entscheidungsstand
@@ -34,8 +36,6 @@ Entscheidungsart aus dem Auftrag bestimmen: streitiges Urteil, Versäumnis- oder
 - Rechtsprechung nur fallbezogen und nach Live-Verifikation an amtlicher oder frei zugänglicher Quelle; nicht verifizierte Aktenzeichen weglassen.
 
 ## 1.6. Beweiswürdigung begründen
-
-BGH, Beschluss vom 17.11.2022, V ZR 25/22, Rn. 10 bis 11 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1)): Erheblichen Zeugenbeweis nicht wegen einer aus anderen Umständen gewonnenen Gegenüberzeugung übergehen; Artikel 103 Absatz 1 GG steht solcher vorweggenommenen Würdigung entgegen. Bei streitiger Lieferung einen angebotenen Übergabezeugen daher nicht allein wegen zweifelhaften Lieferscheins überspringen. Der Fall schreibt kein Beweisergebnis vor; bereits erhobene Beweise bleiben nach Paragraf 286 ZPO insgesamt zu würdigen.
 
 Liefere das angeforderte Produkt in ganzen Sätzen. Nach [Paragraf 286 ZPO](https://www.gesetze-im-internet.de/zpo/__286.html) muss die Begründung den gesamten relevanten Verhandlungs- und Beweisstoff berücksichtigen. Ein widersprechender Zeuge darf nicht durch ein allgemeines Glaubwürdigkeitslob verdrängt werden. Richterlich mitgeteilte Wahrnehmung, protokollierte Aussage und eigene Schlussfolgerung trennen. Ohne mitgeteilte Überzeugung keinen persönlichen Eindruck oder sicheren Beweisausgang erfinden. Offene Punkte als [Lücke: …] oder [Wertung durch das Gericht: …] markieren; hilfsweise klar bedingte Varianten liefern.
 

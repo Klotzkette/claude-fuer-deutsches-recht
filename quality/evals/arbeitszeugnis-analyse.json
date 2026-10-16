@@ -53,16 +53,19 @@
     }
   ],
   "mini_review": {
-    "sha256": "ea939307690054c3294f043f1c80ebbe74f123db9dbee19fd4dd804c5c68e0f4",
+    "sha256": "683dc597fd526a5cee0c7bda0f409a473318a6fbd29df447bed5967edc3a9d0c",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Schlusslektüre: Aussagegehalt und Berichtigungsbedarf vorangestellt; farbliche Orientierung ausschließlich auf Nutzerwunsch.",
       "Leerstart: Aussageanalyse, Fassungsvergleich oder Änderungsvorschläge anbieten. Dateien: Zeugnis still im Zusammenhang lesen, noch keinen Notenbericht ausgeben. Klarer Auftrag: Analyse oder ausdrücklich bestellten Brief direkt liefern.",
-      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
-    ]
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur.",
+      "16.10.2026: Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet."
+    ],
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "selection": {
     "positive": [
@@ -110,14 +113,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
     "changes": [
       "Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Wissen versus Gesamtleistung, Eigenanteil an Erfolgen, Führung versus Vertretung und Fassungsstatus statt Geheimcodeautomatismus.",
-      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur.",
+      "16.10.2026: Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet."
     ],
-    "sha256": "c2011062bbb83667f26baf97643780199294bd892c38b07940162170d743d7a2"
+    "sha256": "2855348ea5f07fb16c334b524c6054d1604dc55b345523fdc2b00dadb61cddda",
+    "reviewed_on": "2026-10-16",
+    "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -207,5 +213,26 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "prompt_opening_review_2026_10_16": {
+    "batch": 1,
+    "date": "2026-10-16",
+    "scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
+    "reason": "Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet.",
+    "source_status": "Aus vorhandenen Prompt-/Eval-Nachweisen übernommen; Quellenstatus und Quellenprüfdaten unverändert.",
+    "files": [
+      {
+        "path": "arbeitszeugnis-analyse/arbeitszeugnis-analyse-schnellstart.md",
+        "sha256": "683dc597fd526a5cee0c7bda0f409a473318a6fbd29df447bed5967edc3a9d0c",
+        "reason": "Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 15.11.2011 9 AZR 386/10: Formulierung 'kennen gelernt' im Gesamtzusammenhang, kein starrer Geheimcode."
+      },
+      {
+        "path": "arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md",
+        "sha256": "2855348ea5f07fb16c334b524c6054d1604dc55b345523fdc2b00dadb61cddda",
+        "reason": "Zeugnisanalyse auf Tätigkeitsbild und konkrete Sprachwirkung ausgerichtet.",
+        "anchor_or_exception": "Paragraf 109 GewO; BAG 15.11.2011 9 AZR 386/10: Formulierung 'kennen gelernt' im Gesamtzusammenhang, kein starrer Geheimcode."
+      }
+    ]
   }
 }

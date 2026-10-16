@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt.",
+    "norms_or_source_basis": "Paragrafen 30, 30a und 31 Absatz 1b VermG",
+    "selected_anchor_identifiers": [
+      "8 C 13.18"
+    ],
+    "application_limit": "Besondere Bücherfrist des Ausgleichsleistungsrechts nicht auf Grundstücke übertragen.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md",
+      "status": "changed",
+      "sha256": "059fa4ea9b38cb4f8012f27b182e4f000d81853a53fa5bba3f0aea320f5b2bc9",
+      "characters": 6662,
+      "utf8_bytes": 6786,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md",
+      "status": "changed",
+      "sha256": "5237ca7b727adc81ea3e5532a69ebd60e9e83781e577c594aa55162c1d0c1a3a",
+      "characters": 13300,
+      "utf8_bytes": 13558,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "einigungsvertrag-vermoegensrecht",
   "reviewed_on": "2026-09-23",
@@ -31,14 +62,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Archivfund dem angemeldeten Objekt zuordnen; Nachbargrundstück und nachträglicher Objektaustausch bleiben eigenständige Fristfragen. Workflow-Ergänzung einzeln geprüft: Altes Flurstück wurde geteilt -> Identitätskette, Umfang des Altantrags und heutige Bezeichnung berichtigen, keinen neuen Vermögenswert stillschweigend einbeziehen.",
+    "reason": "Archivfund dem angemeldeten Objekt zuordnen; Nachbargrundstück und nachträglicher Objektaustausch bleiben eigenständige Fristfragen. Workflow-Ergänzung einzeln geprüft: Altes Flurstück wurde geteilt -> Identitätskette, Umfang des Altantrags und heutige Bezeichnung berichtigen, keinen neuen Vermögenswert stillschweigend einbeziehen. Einstiegsredaktion 16.10.2026, Batch 2: Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "BVerwG 8 C 13.18 in beiden Prompts auf konkrete Anhaltspunkte im fristgerechten Antrag angewendet",
       "Bücher-/Ausgleichsleistungsfall von Grundstücksfristen ausdrücklich abgegrenzt",
       "Keine automatische Behörden- oder Prozesskaskade; vollständige Dokumente und gezielte Urkundennachforderung erhalten",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "407a7950ec168f202290c7fbbdd35a52fac3d75fecdb6e5c857d7e52e7ec46c0"
+    "sha256": "059fa4ea9b38cb4f8012f27b182e4f000d81853a53fa5bba3f0aea320f5b2bc9"
   },
   "selection": {
     "positive": [
@@ -86,14 +118,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Bereits tragfähige Urkunden- und Zuordnungsarbeit erhalten, Individualisierbarkeit und behördliche Präzisierungspflicht rechtlich konkretisiert. Workflow-Ergänzung einzeln geprüft: Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen.",
+    "reason": "Bereits tragfähige Urkunden- und Zuordnungsarbeit erhalten, Individualisierbarkeit und behördliche Präzisierungspflicht rechtlich konkretisiert. Workflow-Ergänzung einzeln geprüft: Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen. Einstiegsredaktion 16.10.2026, Batch 2: Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "BVerwG 8 C 13.18 in beiden Prompts auf konkrete Anhaltspunkte im fristgerechten Antrag angewendet",
       "Bücher-/Ausgleichsleistungsfall von Grundstücksfristen ausdrücklich abgegrenzt",
       "Keine automatische Behörden- oder Prozesskaskade; vollständige Dokumente und gezielte Urkundennachforderung erhalten",
-      "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen."
+      "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Anspruch, Vermögensobjekt und bestelltes Schreiben werden vor den Verfahrensschritten geklärt; Konkretisierung wird von Neuanmeldung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "65187690d2ae7f4aa7d642c46f6bb2c0ccda75b6b2c719c6d90e0f5c2a7a335c"
+    "sha256": "5237ca7b727adc81ea3e5532a69ebd60e9e83781e577c594aa55162c1d0c1a3a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

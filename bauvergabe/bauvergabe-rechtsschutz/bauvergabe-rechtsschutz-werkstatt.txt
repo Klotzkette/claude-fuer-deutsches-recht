@@ -1,4 +1,8 @@
-# Bauvergaberechtsschutz – Werkstatt
+# Bauvergaberechtsschutz: Rüge, Antrag oder Erwiderung
+
+Sichern oder verteidigen Sie die konkrete Rechtsposition in einer öffentlichen Bauvergabe. Das Ergebnis ist das beauftragte Schreiben, der Antrag, die Erwiderung oder der Entscheidungsvermerk, abgestimmt auf Zuschlagsstatus und Frist. Paragraf 160 GWB verlangt eigenen Zugang zum Rechtsschutz und eine gesonderte Rügeprüfung; Projektkritik allein genügt nicht.
+
+EuGH, Urteil vom 12.02.2004, C-230/02, Grossmann Air Service, betrifft diskriminierungsbedingt unterbliebene Teilnahme und den rechtzeitigen Angriff. Prüfen Sie, ob gerade die Vorgabe die Teilnahme verhindert hat; weder jeden Nichtbieter ausschließen noch jedem Kritiker Antragsbefugnis zusprechen. Vorhandener Nachweis: amtliche Entscheidungsdaten und Zusammenfassung mit Randnummernverweisen, keine neue Volltextprüfung. Heutige Rüge- und Schadensprüfung bleiben erforderlich.
 
 ## 1. Auftrag, Rolle und sofort nutzbares Ergebnis
 

@@ -202,23 +202,25 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen.",
+    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen. Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Unternehmen, Anwaltskanzlei und Notariat getrennt.",
       "Zahlungsnachweis, Verdachtsmeldung und Vollzugsaufschub getrennt.",
-      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto."
+      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden."
     ],
-    "sha256": "ce9d62f9f61748779c40241a7ef21dca13023f71b70cd2457cc663f92043c477"
+    "sha256": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen.",
+    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen. Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
     "changes": [
       "Unternehmen, Anwaltskanzlei und Notariat getrennt.",
       "Zahlungsnachweis, Verdachtsmeldung und Vollzugsaufschub getrennt.",
-      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto."
+      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto.",
+      "Einstiegsredaktion 16.10.2026: Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden."
     ],
-    "sha256": "57a22bcd02124dc77ccbbb5238f7e5b7e10ce515532636b0dc132b5da09a05ab"
+    "sha256": "67d583b421eaeadb7ea7c39a5194cbff9ae04b5c3a19f7b528b3139a3a8c896f"
   },
   "focus_review": {
     "method": "desk_review",
@@ -468,5 +470,53 @@
         }
       ]
     }
-  ]
+  ],
+  "prompt_opening_review": {
+    "date": "2026-10-16",
+    "batch": 3,
+    "status": "changed",
+    "method": "individual_editorial_reading",
+    "scope": "Individuelle Lektüre und Redaktion der Einstiege samt Workflowanschluss; bestehender substantieller Hauptteil erhalten, nicht fachlich vollumfänglich neu geprüft. Redaktionelle Herkunftshinweise aus dem Anwender-Einstieg entfernt.",
+    "finding": "Konkrete Risiko-, Nachforderungs- und Meldeprodukte vorangestellt; verhältnismäßige Unterlagenanforderung mit Rodl-Anker verbunden und erneute Pflichtaufnahme vermieden.",
+    "anchor_or_exception": "EuGH, Urteil vom 17.11.2022, C-562/20; Paragrafen 2, 5, 10 GwG",
+    "source_status": "Vorhandene Fach- und Quellenangaben im Prüfprofil gelesen und redaktionell übernommen. Keine neue Online-Verifikation; bisherige Prüfdaten und fachliche Grenzen bleiben unverändert.",
+    "live_model_test": false,
+    "full_legal_review": false,
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "sha256": "ce9d62f9f61748779c40241a7ef21dca13023f71b70cd2457cc663f92043c477",
+        "verdict": "revised"
+      },
+      "workshop_review": {
+        "sha256": "57a22bcd02124dc77ccbbb5238f7e5b7e10ce515532636b0dc132b5da09a05ab",
+        "verdict": "revised"
+      }
+    },
+    "files": [
+      {
+        "path": "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",
+        "sha256": "67d583b421eaeadb7ea7c39a5194cbff9ae04b5c3a19f7b528b3139a3a8c896f",
+        "characters": 41673,
+        "utf8_bytes": 42442
+      },
+      {
+        "path": "geldwaeschebeauftragter/geldwaeschebeauftragter-schnellstart.txt",
+        "sha256": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0",
+        "characters": 7029,
+        "utf8_bytes": 7160
+      },
+      {
+        "path": "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.txt",
+        "sha256": "67d583b421eaeadb7ea7c39a5194cbff9ae04b5c3a19f7b528b3139a3a8c896f",
+        "characters": 41673,
+        "utf8_bytes": 42442
+      },
+      {
+        "path": "geldwaeschebeauftragter/geldwaeschebeauftragter-schnellstart.md",
+        "sha256": "b0e1448fd7bcc377a44c154957229c36b7910bf87f198562cb814806ddc6c9a0",
+        "characters": 7029,
+        "utf8_bytes": 7160
+      }
+    ]
+  }
 }

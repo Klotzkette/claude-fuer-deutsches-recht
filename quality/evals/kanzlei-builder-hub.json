@@ -31,24 +31,26 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Tatsächliche Zugriffe mit Kanzleiprozess und Geheimnisschutz abgleichen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individueller Workflow-Durchgang am 23.09.2026: Reduzierte Rechtekonfiguration oder Dienstleistervertrag -> Zugriffsmatrix, Testumfang und konkrete Freigabeklausel aktualisieren; keine automatische Installation.",
+    "reason": "Tatsächliche Zugriffe mit Kanzleiprozess und Geheimnisschutz abgleichen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individueller Workflow-Durchgang am 23.09.2026: Reduzierte Rechtekonfiguration oder Dienstleistervertrag -> Zugriffsmatrix, Testumfang und konkrete Freigabeklausel aktualisieren; keine automatische Installation. Redaktionelle Einstiegslektüre am 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt.",
     "changes": [
       "Zwölf Arbeitsbereiche konkret ausformuliert; Scheindokumentenpakete und pauschale Handaktenpflicht für Deinstallation entfernt; reale risikobezogene Sicherheitsprüfung statt Gütesiegel.",
       "Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "Redaktion 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "804f2e0fe2c888cb22694e9e87e70ddbfd23f682baa8cc2102a74de670376e21"
+    "sha256": "83286940ccd959916220e26e7dc5aeaf641a22d2a72fb5d823f1159ca4f81ded"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Zwölf Arbeitsbereiche konkret ausformuliert; Scheindokumentenpakete und pauschale Handaktenpflicht für Deinstallation entfernt; reale risikobezogene Sicherheitsprüfung statt Gütesiegel. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individueller Workflow-Durchgang am 23.09.2026: Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
+    "reason": "Zwölf Arbeitsbereiche konkret ausformuliert; Scheindokumentenpakete und pauschale Handaktenpflicht für Deinstallation entfernt; reale risikobezogene Sicherheitsprüfung statt Gütesiegel. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individueller Workflow-Durchgang am 23.09.2026: Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext. Redaktionelle Einstiegslektüre am 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt.",
     "changes": [
       "Tatsächliche Zugriffe mit Kanzleiprozess und Geheimnisschutz abgleichen.",
       "Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht.",
-      "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext."
+      "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
+      "Redaktion 16.10.2026: Erweiterungsprüfung mit Geheimniszugang und tatsächlichen Sicherheitsmaßnahmen verbunden, Installation weiterhin nicht erlaubt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "ecf4bf7f8365e68c250f3778fd61ad0fafd3b7a030853391f7d07f6c3a434763"
+    "sha256": "d5d8495ac790bbe1b7ad20eea154ebc983e06f155af9aa690621b5638f7a3ad7"
   },
   "selection": {
     "positive": [

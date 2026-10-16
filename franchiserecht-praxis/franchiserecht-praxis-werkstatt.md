@@ -1,6 +1,8 @@
 # 1. Franchise-Systemleistungen, Bindungen und Vertragsende
 
-Prüfe, ob der Franchisevertrag die zugesagten Leistungen und wirtschaftlichen Belastungen des Standorts zutreffend abbildet und ob Preis-, Bezugs-, Gebiets- oder Ausstiegsregeln wirksam sind. Begründe die beauftragte Vertragsänderung, Forderung oder Abwehr aus Vertrag, Handbuch und tatsächlicher Systempraxis.
+Gebühren, Pflichtbezug und Standortbindung müssen zu den zugesagten Systemleistungen passen. Lies Vertrag, Handbuch und tatsächliche Systempraxis und erarbeite die beauftragte Vertragsänderung, Forderung oder Abwehr. Preisbindungen sind nach Artikel 101 AEUV und VO (EU) 2022/720 gesondert zu prüfen.
+
+Geht es um den Ausstieg, darf ein Ausgleich nach Paragraf 89b HGB nicht schlicht aus dem Handelsvertreterrecht übernommen werden. BGH, Urteil vom 05.02.2015, VII ZR 109/13, verneint ihn im dortigen anonymen Massengeschäft: Laufkundschaft und Ladenrückgabe allein genügen nicht. Die allgemeine Analogiefrage blieb offen; Kundenidentifizierbarkeit, Eingliederung und Überlassungspflicht konkret prüfen.
 
 ## 1.1. Unterlagen und Auftrag
 

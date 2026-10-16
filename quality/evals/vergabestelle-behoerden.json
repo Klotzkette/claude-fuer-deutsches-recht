@@ -7,15 +7,21 @@
   "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Portal- oder Behoerdenlaeufe. Drei eigenstaendige kuenstliche Eingaben ohne Mandantendaten oder Rubrikdateien. Keine globale Rechtspruefung oder behoerdliche Freigabe.",
   "mini_review": {
     "verdict": "retained",
-    "reason": "Original-Mini und kanonischer Schnellstart fuehren von Aktenlage und Frist zum konkreten Behoerdenoutput. Die Trennung von vorab festgelegter Bestwertungsmatrix, spaeterer Wertung und Rechtsschutzantwort passt zur Auftraggeberrolle. In diesem Auftrag unveraendert beibehalten; keine reale Vergabehandlung oder Modellleistung nachgewiesen.",
-    "changes": [],
-    "sha256": "d13161a823ab6c75494971cffd236150675ceef514e3a9dc1efe4b4b376c60d1"
+    "reason": "Original-Mini und kanonischer Schnellstart fuehren von Aktenlage und Frist zum konkreten Behoerdenoutput. Die Trennung von vorab festgelegter Bestwertungsmatrix, spaeterer Wertung und Rechtsschutzantwort passt zur Auftraggeberrolle. In diesem Auftrag unveraendert beibehalten; keine reale Vergabehandlung oder Modellleistung nachgewiesen. Redaktionelle Einstiegsprüfung 16.10.2026: Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
+    "changes": [
+      "Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft."
+    ],
+    "sha256": "d968fcf9a60093480cb32be239eee4cb954cee16216a8206b53101753360394d",
+    "reviewed_on": "2026-10-16"
   },
   "workshop_review": {
     "verdict": "retained",
-    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Bedarf, Kriterien, Wertungsvermerk und Kammerakte. Die Fachskills verlangen Preisaufklaerung statt Prozent-Automatismus und eine begruendete Schwaerzungsliste statt pauschaler Geheimhaltung. Beibehalten als Textbefund, nicht als bestaetigte Verfahrens- oder Rechtskonformitaet.",
-    "changes": [],
-    "sha256": "907a53b32a97d7b97e9e6df692ce0d83c52f3bca2c38451f27debdad1d44b6be"
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Bedarf, Kriterien, Wertungsvermerk und Kammerakte. Die Fachskills verlangen Preisaufklaerung statt Prozent-Automatismus und eine begruendete Schwaerzungsliste statt pauschaler Geheimhaltung. Beibehalten als Textbefund, nicht als bestaetigte Verfahrens- oder Rechtskonformitaet. Redaktionelle Einstiegsprüfung 16.10.2026: Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest. Gegenprüfung: spätere obligatorische Vorabausgaben auf interne Prüfung oder tatsächlich erforderliche Entscheidungsvorlagen begrenzt; direkten Dokumentstart konsistent fortgeführt.",
+    "changes": [
+      "Generische Eigenbeschreibung und vorgeschaltete Slug-Tabelle ersetzt. Unterlagen, Wertung und Rüge sind die Einstiegswege; X ZB 10/16 begrenzt auf Preisaufklärung. Optionale Skill-Tabelle ans Ende verschoben, doppelte Mini-Abschnitte gestrafft."
+    ],
+    "sha256": "e7b5c175dd13c89bf259699528dfd7f52d0af9ad6901b8896dfe94d80779d241",
+    "reviewed_on": "2026-10-16"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",

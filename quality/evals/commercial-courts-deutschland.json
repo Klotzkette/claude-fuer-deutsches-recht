@@ -1,4 +1,35 @@
 {
+  "prompt_opening_review_2026_10_16": {
+    "date": "2026-10-16",
+    "batch": 2,
+    "method": "editorial_desk_review",
+    "reading_scope": "Einstiege einzeln redaktionell gelesen; einschlägige Quellenprofil-Passagen und Fortsetzungs-/Abschlussregeln gelesen. Hauptteil nach den ersten 1800 Zeichen zusätzlich mechanisch auf Erhalt geprüft, keine vollständige fachliche Neulektüre behauptet.",
+    "finding": "Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt.",
+    "norms_or_source_basis": "Paragrafen 119b und 184a GVG; Artikel 25 Brüssel-Ia-Verordnung",
+    "selected_anchor_identifiers": [
+      "C-566/22"
+    ],
+    "application_limit": "Nationale Zuständigkeit, Landesverordnung und Sprachvereinbarung bleiben gesondert.",
+    "anchor_exception": null,
+    "source_status": "Vorhandene gelesene Prompt- und Quellenprofile wiederverwendet. Keine neue Online-Verifikation, fachliche Vollprüfung oder Live-Modelltests; frühere Prüfzeitpunkte und Abrufgrenzen gelten unverändert.",
+    "mini": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/commercial-courts-deutschland/commercial-courts-deutschland-schnellstart.md",
+      "status": "changed",
+      "sha256": "3a7c596759c16e1639997054f9883c6cfa2a614fa88b494c20fc404682561a44",
+      "characters": 6203,
+      "utf8_bytes": 6294,
+      "previous_verdict": "revised"
+    },
+    "workshop": {
+      "path": "/Users/klotzkette/Desktop/Codex Projects/legal-work/agenten-digitalrecht/commercial-courts-deutschland/commercial-courts-deutschland-werkstatt.md",
+      "status": "changed",
+      "sha256": "462e561aa4afc47d769c3274cebf2a8ab1dc1804b4c111c9ec908810d183cdf8",
+      "characters": 14099,
+      "utf8_bytes": 14346,
+      "previous_verdict": "revised"
+    },
+    "txt_copies": []
+  },
   "schema_version": 1,
   "plugin": "commercial-courts-deutschland",
   "reviewed_on": "2026-09-23",
@@ -50,26 +81,28 @@
     }
   ],
   "mini_review": {
-    "sha256": "35cafffe21fed99ec35d06c5027adf6eedcdd2b880e56a08db747afdb5311574",
+    "sha256": "3a7c596759c16e1639997054f9883c6cfa2a614fa88b494c20fc404682561a44",
     "verdict": "revised",
-    "reason": "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert.",
       "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
       "Leer: Forumklausel, Organisationstermin oder Geheimnisschutz. Dateien: still lesen und konkretes Verfahrensprodukt anbieten. Klar: unmittelbar bestellten Text erstellen, geklärtes Forum übernehmen.",
-      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ]
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
     "changes": [
       "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen.",
       "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
       "Klauselnachtrag, gemischter Streitgegenstand, Beweisabhängigkeiten, Schutzumfang, Protokollzustimmung und Sprachkonsistenz vertieft.",
-      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
+      "Einstiegsredaktion 16.10.2026, Batch 2: Gerichtswahl, Sprache und beauftragtes Prozessdokument ersetzen abstrakte Produktbeschreibung; Inkreal wird nur für den Auslandsbezug eingesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "6679722d533e7be224ff961ac55c6e28b7d9662543c0af9e9438e3c927ba49ff"
+    "sha256": "462e561aa4afc47d769c3274cebf2a8ab1dc1804b4c111c9ec908810d183cdf8"
   },
   "selection": {
     "positive": [

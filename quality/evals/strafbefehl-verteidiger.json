@@ -81,7 +81,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert. Redaktioneller Nachtrag 16.10.2026: Zweiwochenfrist und Wiedereinsetzung vorangestellt; tatsächliche Handlungsmöglichkeiten in ausländischer Haft statt bloßer Dokumentkenntnis. Keine automatische Wiedereinsetzung; Verzichtsvollmacht und Berichtigungsgrenzen im Hauptteil erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
       "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
@@ -92,13 +92,13 @@
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
       "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "c5d52c75889264377326eb4769dff4dbf855282e4f4f492e02e30bfb735fa770",
+    "sha256": "f6682e73a39b454115b5f2d0b04aac60dddafdbd82f17147fc9ec46f5a0ed4a5",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert. Redaktioneller Nachtrag 16.10.2026: Zweiwochenfrist und Wiedereinsetzung vorangestellt; tatsächliche Handlungsmöglichkeiten in ausländischer Haft statt bloßer Dokumentkenntnis. Keine automatische Wiedereinsetzung; Verzichtsvollmacht und Berichtigungsgrenzen im Hauptteil erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
     "changes": [
       "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
       "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
@@ -109,7 +109,7 @@
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
       "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "ae8bf5dd95ed6568ac39e1ec039777e8d80c108d43768368b243e5b5bb42c6bd",
+    "sha256": "1124a8f493046e5f56390f57b2b1e6737029369aff6c5ef0988c19983d7b11b5",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
