@@ -1,3 +1,9 @@
+# prompt-einstiege-v1.0.1 – 2026-10-16
+
+Der Synchronisierer der eingebundenen Vergaberecht-Werkstatt erhält die sechs individuell redigierten veröffentlichten Rollenprompts, sofern deren bestehende dateigebundene Qualitätsnachweise gültig sind. Fehlender oder abweichender Nachweis führt zum Fehler, nicht zum Überschreiben durch ältere Generatorquellen. Importregressionen prüfen Abgleich und Manipulationserkennung bereits außerhalb des Komponentenworkflows. Der vollständige Schnelltest der Komponente ergänzt die abschließenden lokalen Prüfläufe.
+
+Das Markdown-Komponentenrelease veröffentlicht die überarbeiteten Einstiege einschließlich dieser Integrationskorrektur. Der vorausgehende Prüftag bleibt unverändert; bestehende Plugin- und Aktenpakete werden nicht ersetzt.
+
 # prompt-einstiege-v1.0.0 – 2026-10-16
 
 Die Einstiege der veröffentlichten Werkstatt- und Schnellstart-Prompts wurden je Fachgebiet redaktionell geprüft. Die Prüfung umfasst 609 Markdown-Dateien aus dem Katalog mit 302 Plugins, einschließlich der neun HOAI-Phasenwerkstätten und der Betreuungs-Unterlagenwerkstatt. Bereits passende Einstiege bleiben erhalten; Angebote ohne eigenständige Begleitprompts erhalten keine zusätzlichen Dateien.

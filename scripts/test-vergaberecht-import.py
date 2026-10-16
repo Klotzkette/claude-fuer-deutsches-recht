@@ -2,10 +2,14 @@
 """Prüft Integration, Installationsgrenzen und veröffentlichte Paketverweise."""
 
 import argparse
+import importlib.util
 import json
 from pathlib import Path
 import re
+import subprocess
+import sys
 import unittest
+from tempfile import TemporaryDirectory
 import zipfile
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
@@ -18,6 +22,39 @@ DIST = None
 
 
 class ImportTests(unittest.TestCase):
+    def test_review_guard_rejects_changed_or_unreviewed_prompt(self):
+        spec = importlib.util.spec_from_file_location(
+            "nested_public_release", COMPONENT / "scripts/public_release.py"
+        )
+        module = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(module)
+        name = "vergabestelle-behoerden"
+        original = COMPONENT / name / f"{name}-schnellstart.md"
+        review = json.loads((ROOT / "quality/evals" / f"{name}.json").read_text())["mini_review"]
+        with TemporaryDirectory() as folder:
+            target = Path(folder) / "prompt.md"
+            target.write_bytes(original.read_bytes())
+            self.assertEqual(module.reviewed_prompt(target, review), original.read_text())
+            with self.assertRaises(ValueError):
+                module.reviewed_prompt(target, None)
+            target.write_bytes(target.read_bytes() + b"\n")
+            with self.assertRaises(ValueError):
+                module.reviewed_prompt(target, review)
+
+    def test_role_prompt_sources_remain_synchronized(self):
+        result = subprocess.run(
+            [sys.executable, str(COMPONENT / "scripts/sync-public-entrypoints.py"), "--check"],
+            cwd=COMPONENT, capture_output=True, text=True, timeout=60,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_public_integration_accepts_reviewed_role_prompts(self):
+        result = subprocess.run(
+            [sys.executable, str(COMPONENT / "scripts/validate-public-integration.py")],
+            cwd=COMPONENT, capture_output=True, text=True, timeout=60,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
     def test_registered_roles(self):
         marketplace = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
         entries = {p["name"]: p for p in marketplace["plugins"]}

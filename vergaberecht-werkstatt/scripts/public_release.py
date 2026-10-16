@@ -26,6 +26,30 @@ PROMPT_SUFFIXES = {
 
 sys.path.append(str(ROOT.parent / "scripts"))
 from release_routing import plugin_asset_url, validate_plugin_version
+from quality_lab import validate_prompt_review
+
+
+def reviewed_prompt(path: Path, review: dict) -> str:
+    """Erhält die redigierte Fassung nur bei gültigem dateigebundenem Prüfnachweis."""
+    validate_prompt_review(review, "Rollenprompt-Prüfung", path)
+    return path.read_text(encoding="utf-8")
+
+
+def expected_role_prompt(role: str, kind: str) -> str:
+    """Verwendet geprüfte Einzelfassungen, sonst die bisherige Generatorquelle."""
+    if role not in PROMPT_SUFFIXES or kind not in {"werkstatt", "schnellstart"}:
+        raise ValueError("Unbekannte Rollenprompt-Zuordnung")
+    profile = ROOT.parent / "quality" / "evals" / f"{role}.json"
+    if profile.is_file():
+        review = json.loads(profile.read_text(encoding="utf-8"))
+        key = "workshop_review" if kind == "werkstatt" else "mini_review"
+        target = ROOT / role / f"{role}-{kind}.md"
+        return reviewed_prompt(target, review.get(key))
+    source = (
+        ROOT / f"vergaberecht-arbeitsprompt-{PROMPT_SUFFIXES[role]}.md"
+        if kind == "werkstatt" else ROOT / "unified-mini-prompts" / f"{role}.md"
+    )
+    return canonical_prompt(source.read_text(encoding="utf-8"), mini=kind == "schnellstart")
 
 
 def plugin_download(name: str) -> str:

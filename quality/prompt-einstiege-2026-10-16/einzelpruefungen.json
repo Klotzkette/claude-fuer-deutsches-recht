@@ -1,6 +1,6 @@
 {
   "reviewed_on": "2026-10-16",
-  "component_version": "prompt-einstiege-v1.0.0",
+  "component_version": "prompt-einstiege-v1.0.1",
   "scope": "Individuelle redaktionelle Einstiegslektüre mit auftragsbezogenem Abgleich der Anschluss-, Quellen- und Workflowabschnitte. Keine erneute Vollprüfung aller Rechtsquellen, keine Live-Modelltests.",
   "coverage": {
     "marketplace_plugins": 302,

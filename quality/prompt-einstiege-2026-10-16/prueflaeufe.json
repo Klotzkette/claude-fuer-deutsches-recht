@@ -5,181 +5,187 @@
     {
       "command": "node scripts/validate-plugin-structure.mjs",
       "exit_code": 0,
-      "seconds": 13.36,
+      "seconds": 6.52,
       "log_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714"
     },
     {
       "command": "node scripts/validate-marketplace-import.mjs",
       "exit_code": 0,
-      "seconds": 3.99,
+      "seconds": 2.08,
       "log_sha256": "2aa65f967a8c6d4c5e41edd2a4013e74cac9b0d98d675daf357be99f7e56d559"
     },
     {
       "command": "python3 scripts/validate-yaml-frontmatter.py",
       "exit_code": 0,
-      "seconds": 2.56,
+      "seconds": 1.33,
       "log_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2"
     },
     {
       "command": "python3 scripts/validate-runtime-performance.py",
       "exit_code": 0,
-      "seconds": 4.5,
+      "seconds": 3.7,
       "log_sha256": "01713aad9c272205f91fb3e03c468ea87e2746541f25dcead39720c23415daca"
     },
     {
       "command": "python3 scripts/quality_lab.py audit --require-editorial --require-workflow",
       "exit_code": 0,
-      "seconds": 0.83,
+      "seconds": 0.49,
       "log_sha256": "5de26931e04cad1ad63e604776049f4ce021ebe4ecc406f521e6f44420ba4807"
     },
     {
       "command": "python3 scripts/audit-prompt-profile-routing.py",
       "exit_code": 0,
-      "seconds": 19.25,
+      "seconds": 7.14,
       "log_sha256": "fe4225c36900ebaba3bae2c58d70aefd7c13c729126b67115d388ac13f8d61a5"
     },
     {
       "command": "python3 scripts/audit-generated-prompt-hygiene.py",
       "exit_code": 0,
-      "seconds": 4.71,
+      "seconds": 3.74,
       "log_sha256": "9140e3ece0562817650cb47da287d1d266c589051f1e2992e88500916ff900aa"
     },
     {
       "command": "python3 scripts/validate-manufacturer-plugins.py",
       "exit_code": 0,
-      "seconds": 70.77,
+      "seconds": 61.26,
       "log_sha256": "488a64067cb1e469dfccc7b206f73f1e916c184c4ac363133246065d7c6645bb"
     },
     {
       "command": "python3 scripts/test-prompt-openings.py",
       "exit_code": 0,
-      "seconds": 0.46,
-      "log_sha256": "51071327423c5cf2d483ccb1a916611d1add3a20e65b9b6d29fbb6649c2b8817"
+      "seconds": 0.25,
+      "log_sha256": "27979bc2fd02680779242d369f174232aca6d8bf9dd93e1dd08b3dced2023fb0"
     },
     {
       "command": "python3 scripts/test-prompt-workflow-preservation.py",
       "exit_code": 0,
-      "seconds": 3.59,
-      "log_sha256": "fa2e86c7e1b716afa9d41236afccf8522f2a1a1021edcfae9924b1a4f4d08813"
+      "seconds": 1.42,
+      "log_sha256": "05fa7954438c695614f49b68219fa7294da829b82bf81ccbe73bf9949d1731c2"
     },
     {
       "command": "python3 scripts/test-portable-starts.py",
       "exit_code": 0,
-      "seconds": 6.31,
-      "log_sha256": "70462a29602ff6cdf082a52602901efc3ba070286fedf66b774057e5d16b942c"
+      "seconds": 2.9,
+      "log_sha256": "ac6fbf9abc481ab551abf7541620c516b599e90ce1bf2d6bd20b3477e016d44e"
     },
     {
       "command": "python3 scripts/test-prompt-hygiene-links.py",
       "exit_code": 0,
-      "seconds": 0.21,
-      "log_sha256": "0b5fc56e2fb64db2274a2cd7f8b41864b19bc56c2ac645fed28afe9af2b7479c"
+      "seconds": 0.11,
+      "log_sha256": "4f46f56bd7ffafd80559d18675e7376e6ef1426caf0f1b104463f68e61170d26"
     },
     {
       "command": "python3 scripts/test-prompt-routing-scope.py",
       "exit_code": 0,
-      "seconds": 1.12,
+      "seconds": 0.5,
       "log_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee"
     },
     {
       "command": "python3 scripts/test-prompt-publication-profiles.py",
       "exit_code": 0,
-      "seconds": 0.3,
-      "log_sha256": "a6e63d0943e8bea12a8329e3812f8011912860fd0129106f2ffc046f8ba52c96"
+      "seconds": 0.14,
+      "log_sha256": "7ada9f6e6f2e49ce5d47796c9c2d5a0ee664b54f48cfb456ce70c3ea2aba1686"
     },
     {
       "command": "python3 scripts/test-prompt-generator-excerpts.py",
       "exit_code": 0,
-      "seconds": 0.09,
+      "seconds": 0.06,
       "log_sha256": "2205485a1265c499fb0d78eaf8a34848a106fd2ea0b8034542483273d3ec72a0"
     },
     {
       "command": "python3 scripts/test-prompt-profile-app-boundary.py",
       "exit_code": 0,
-      "seconds": 0.09,
-      "log_sha256": "2c37d50a88147ca2ebd5197d74ee37d462dab650d793512e849814c28d5a38f0"
+      "seconds": 0.06,
+      "log_sha256": "199ba496f288116d36c62f29346d4fbf0bd75745a1c893abfcbdaa4c6d5b1033"
     },
     {
       "command": "python3 scripts/test-readme-navigation.py",
       "exit_code": 0,
-      "seconds": 8.04,
-      "log_sha256": "ba5f13660622816292ae7417b2775e1d4099589b728d5245926299e017d5a62b"
+      "seconds": 3.63,
+      "log_sha256": "7147120837f9333f0d63fa9d498b4a7cea367f74a300ce061f19d2c124667914"
     },
     {
       "command": "python3 scripts/test-untersuchungshaft.py",
       "exit_code": 0,
-      "seconds": 1.61,
+      "seconds": 0.68,
       "log_sha256": "31a71fcef7620b214f9089f5f2a27b513542cb973ffe4d26e487a7ec3e1e1445"
     },
     {
       "command": "python3 scripts/test-strafvollzug-jva.py",
       "exit_code": 0,
-      "seconds": 0.88,
-      "log_sha256": "69b170a3a36dbb2f5e69f17c25b4c42336f4bfff28388a2d1084737b598dae41"
+      "seconds": 0.46,
+      "log_sha256": "64ee04ea62a4ec966c4ed482d49fdb03556c0a90c814c198205573392bda8f7f"
     },
     {
       "command": "python3 scripts/test-betreuungsrecht-unterlagen.py",
       "exit_code": 0,
-      "seconds": 1.76,
-      "log_sha256": "483fc4d43a25ab7438abfa4212541c0faa0e0e9f596f4588a447fc4939bc389f"
+      "seconds": 0.9,
+      "log_sha256": "ef2fcd664e1af3ec7f30000aba99eca4614d5ad3958762da619863846485a9d5"
     },
     {
       "command": "python3 scripts/test-sektorenvergabe-workflow.py",
       "exit_code": 0,
-      "seconds": 0.1,
-      "log_sha256": "8642a1ac72c63530bbaa2c1f2526767cc3b14a928c117e4bff18cd4c4a88ad42"
+      "seconds": 0.05,
+      "log_sha256": "133449d6f429f0588126e0403937f271f33f90517460d5c4b39d69c2eeda0f25"
     },
     {
       "command": "python3 scripts/test-anwaltschaft-vertragswerkstatt.py",
       "exit_code": 0,
-      "seconds": 2.9,
-      "log_sha256": "834880d8cd267f8ec411afe31fdc75338a895ee837885e0f9775925762ad0546"
+      "seconds": 1.29,
+      "log_sha256": "1decd2567de5d0f5d89405bf4aa90a5dc9728b8da122b523e2d54e35b8d70282"
     },
     {
       "command": "python3 scripts/test-notariatswerkstatt.py",
       "exit_code": 0,
-      "seconds": 11.04,
-      "log_sha256": "f003cbeb9fdf5d30b4af131f069c8056a62b4e66efe13da5873ad80dc9302665"
+      "seconds": 5.16,
+      "log_sha256": "96ddaaaa1be98cbaaf30af5726090857135527f00a3d7d9cee245bbd3c7c3666"
     },
     {
       "command": "python3 scripts/test-agb-werkstatt.py",
       "exit_code": 0,
-      "seconds": 7.32,
-      "log_sha256": "aeed8343d3489729566b718b57ebb9dd7aeec9a7843bcc1cdb2789b642e4e818"
+      "seconds": 3.19,
+      "log_sha256": "0fe040f6f00008f5066af82351559041cc42710f3d2f59f1019161bd24840592"
     },
     {
       "command": "python3 scripts/test-vergaberecht-import.py",
       "exit_code": 0,
-      "seconds": 0.2,
-      "log_sha256": "c37b2de6b884149d6fe4e0170cb0910178da95a08a71b3faa1c69b4a4c5c4c55"
+      "seconds": 0.49,
+      "log_sha256": "ee0f0b5ef5e2202b8069bfbe9629b25e55291516d665780fe8da4270eae236df"
     },
     {
       "command": "python3 scripts/test-quality-lab.py",
       "exit_code": 0,
-      "seconds": 1.34,
-      "log_sha256": "a3599cc71b3320b0190ae9e3d88dc6f2f9b71958b4e8c0c78524b0121ac6c00b"
+      "seconds": 0.46,
+      "log_sha256": "1fe654d0798e43b300ab70df211f7119016a757e4aa5575e7d80804ca35b4ee7"
     },
     {
       "command": "python3 scripts/test-runtime-performance.py",
       "exit_code": 0,
-      "seconds": 0.08,
+      "seconds": 0.03,
       "log_sha256": "888a0c0ed615e57d32cf72be501b0c355f33b8613c81dfdaa99db33d7959487e"
     },
     {
       "command": "python3 scripts/test-compatibility-release.py",
       "exit_code": 0,
-      "seconds": 1.45,
-      "log_sha256": "11475533922e4c5ea4f07ba87ff70f21a6185be94c4961c29869020b35ba3390"
+      "seconds": 0.43,
+      "log_sha256": "92d80cc929458532dda86413b8f4048833c2aec0e3d46079ff4c5624b5fe3933"
     },
     {
       "command": "python3 scripts/test-scoped-release-routing.py",
       "exit_code": 0,
-      "seconds": 0.11,
-      "log_sha256": "293eda1681e8fb9f72107b88b85eb61f4e2e3e338d5c4536b6ccd3315262eb6c"
+      "seconds": 0.04,
+      "log_sha256": "395f4ba177429a162b2f04a7e5dd660a39233158ce91c848b5b64fb547fbd0ed"
+    },
+    {
+      "command": "python3 vergaberecht-werkstatt/scripts/run-smoke-tests.py --quick",
+      "exit_code": 0,
+      "seconds": 5.96,
+      "log_sha256": "ddb770cc942427dd2f04aa98db9c902746ce44fe3f7f5692dd4da9698f9425ab"
     },
     {
       "command": "git diff --check",
       "exit_code": 0,
-      "seconds": 1.04,
+      "seconds": 0.08,
       "log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
