@@ -1,81 +1,74 @@
 {
   "datum": "2026-10-16",
-  "umfang": "36 lokale Prüfaufrufe; keine Live-Modellläufe oder externen Einreichungen.",
+  "umfang": "36 vollständig wiederholte lokale Prüfaufrufe auf dem zusammengeführten Stand; keine Live-Modellläufe oder externen Einreichungen.",
   "ergebnis": "Alle abschließenden Aufrufe erfolgreich.",
   "vorlaeufe": "Bei der Bearbeitung wurden eine README-Wortlautregression der eingebundenen Komponente und die zunächst fehlende Vorfilterergänzung einer neuen Fundstellen-Gegenprobe erkannt und behoben. Negative Gegenproben innerhalb erfolgreicher Tests sind absichtlich fehlerhafte Testdaten.",
   "pruefungen": [
     {
       "command": "node scripts/validate-plugin-structure.mjs",
       "exit_code": 0,
-      "seconds": 6.24,
+      "seconds": 5.1,
       "output_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714"
     },
     {
       "command": "node scripts/validate-marketplace-import.mjs",
       "exit_code": 0,
-      "seconds": 1.75,
+      "seconds": 1.84,
       "output_sha256": "2aa65f967a8c6d4c5e41edd2a4013e74cac9b0d98d675daf357be99f7e56d559"
     },
     {
       "command": "python3 scripts/validate-yaml-frontmatter.py",
       "exit_code": 0,
-      "seconds": 1.01,
+      "seconds": 1.03,
       "output_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2"
     },
     {
       "command": "python3 scripts/validate-runtime-performance.py",
       "exit_code": 0,
-      "seconds": 2.46,
+      "seconds": 2.54,
       "output_sha256": "2449c31dcf266ace3aa6c411d409123813351351313f0129c014d40d05d7a21d"
     },
     {
       "command": "python3 scripts/quality_lab.py audit --require-editorial --require-workflow",
       "exit_code": 0,
-      "seconds": 0.4,
+      "seconds": 0.42,
       "output_sha256": "5de26931e04cad1ad63e604776049f4ce021ebe4ecc406f521e6f44420ba4807"
     },
     {
       "command": "python3 scripts/audit-prompt-profile-routing.py",
       "exit_code": 0,
-      "seconds": 5.92,
+      "seconds": 6.13,
       "output_sha256": "fe4225c36900ebaba3bae2c58d70aefd7c13c729126b67115d388ac13f8d61a5"
     },
     {
       "command": "python3 scripts/audit-generated-prompt-hygiene.py",
       "exit_code": 0,
-      "seconds": 1.93,
+      "seconds": 1.95,
       "output_sha256": "9140e3ece0562817650cb47da287d1d266c589051f1e2992e88500916ff900aa"
     },
     {
       "command": "python3 scripts/validate-current-law-sentinels.py",
       "exit_code": 0,
-      "seconds": 48.97,
-      "previous_attempts": [
-        {
-          "exit_code": 0,
-          "seconds": 49.65
-        }
-      ],
-      "repeat_reason": "Abschließender Stand nach ergänzter Fundstellen-Gegenprobe und Zusammenführung.",
-      "output_sha256": "df9d0f93830e68829548e31cf7a79f55ed4d1f689c9282acff0aae7fa9831336"
+      "seconds": 48.99,
+      "output_sha256": "45a653e424ac40f7ab1e00bfdecdf5baf8dba97597c2f3adadaf1a913859cdcc"
     },
     {
       "command": "python3 scripts/validate-manufacturer-plugins.py",
       "exit_code": 0,
-      "seconds": 52.67,
+      "seconds": 50.04,
       "output_sha256": "488a64067cb1e469dfccc7b206f73f1e916c184c4ac363133246065d7c6645bb"
     },
     {
       "command": "python3 scripts/validate-root-readme-overview.py",
       "exit_code": 0,
-      "seconds": 1.32,
-      "output_sha256": "cf496137a86126fe514da7d47e2439b0792a2e97768c1c009bf0691e55a98f69"
+      "seconds": 1.36,
+      "output_sha256": "18d8f7b0afe34d351d2fe68b84a0d732a867af3cbaaf7be7563b2c205ffe205c"
     },
     {
       "command": "python3 scripts/test-quickstart-usability.py",
       "exit_code": 0,
       "seconds": 0.09,
-      "output_sha256": "6cc5b549f8cc71ccc70253d1bd997485b60bf942c19efd893cad624952beae52"
+      "output_sha256": "201d2b14a4653a455545529c4f88525371103a602e8467e48ab13e0bef680b32"
     },
     {
       "command": "python3 scripts/audit-quickstart-usability.py",
@@ -92,44 +85,37 @@
     {
       "command": "python3 scripts/test-prompt-workflow-preservation.py",
       "exit_code": 0,
-      "seconds": 1.28,
-      "previous_attempts": [
-        {
-          "exit_code": 1,
-          "seconds": 0.07
-        }
-      ],
-      "repeat_reason": "Abschließender Stand nach ergänzter Fundstellen-Gegenprobe und Zusammenführung.",
-      "output_sha256": "0f1f7d896de8648e237ebcda685bdb8f0838db83291033541d5c5a4cd0d0764b"
+      "seconds": 1.25,
+      "output_sha256": "88d15ad5b92bf91280f7699ce1528955f6b5a4d60f83a5fd30acab885c296eef"
     },
     {
       "command": "python3 scripts/test-portable-starts.py",
       "exit_code": 0,
-      "seconds": 2.4,
-      "output_sha256": "00573b9ffbbcf35f457d13bc90f965c034fb53fe544dac5b94dcac7c61edb6f8"
+      "seconds": 2.41,
+      "output_sha256": "24e86344c10f0a423cd4d934e77c1ab620dabe5d01bfd8864339fa5260522e79"
     },
     {
       "command": "python3 scripts/test-prompt-hygiene-links.py",
       "exit_code": 0,
-      "seconds": 0.16,
-      "output_sha256": "f606dbf2ac6ec4c2b914b2633d77a7a0eece5c6926267af51e0d83956687ffa2"
+      "seconds": 0.09,
+      "output_sha256": "912db2c4c468512b5d545936a2581991c1e91b19005970db43ab2abd8ef370cb"
     },
     {
       "command": "python3 scripts/test-prompt-routing-scope.py",
       "exit_code": 0,
-      "seconds": 0.44,
+      "seconds": 0.45,
       "output_sha256": "e06d08d6acdf7d4324092643071f29c40d1507b253be73a7212c572c97198bee"
     },
     {
       "command": "python3 scripts/test-prompt-publication-profiles.py",
       "exit_code": 0,
-      "seconds": 0.16,
-      "output_sha256": "d1a695921180d2a7bcf6bc0ccc995996e16090220b9ec042ff12a1ee40bf771d"
+      "seconds": 0.12,
+      "output_sha256": "f19207a50aa593a6964229ca2186be9c36904ef048369013e957b0da0a202923"
     },
     {
       "command": "python3 scripts/test-prompt-generator-excerpts.py",
       "exit_code": 0,
-      "seconds": 0.06,
+      "seconds": 0.05,
       "output_sha256": "2205485a1265c499fb0d78eaf8a34848a106fd2ea0b8034542483273d3ec72a0"
     },
     {
@@ -141,62 +127,65 @@
     {
       "command": "python3 scripts/test-readme-navigation.py",
       "exit_code": 0,
-      "seconds": 3.32,
-      "output_sha256": "54d284b1fc81b541f46cdd448215ac33d2e4feddbe526d930e48030db2e88bc9"
+      "seconds": 3.31,
+      "output_sha256": "07c0fe416547b848b2f1b4ed628266ef0dba7817340389d7809c30adfcacefbf"
     },
     {
       "command": "python3 scripts/test-untersuchungshaft.py",
       "exit_code": 0,
-      "seconds": 0.91,
+      "seconds": 0.61,
       "output_sha256": "31a71fcef7620b214f9089f5f2a27b513542cb973ffe4d26e487a7ec3e1e1445"
     },
     {
       "command": "python3 scripts/test-strafvollzug-jva.py",
       "exit_code": 0,
-      "seconds": 0.37,
-      "output_sha256": "f781f592d2d9f73f5a9d9d76e361df46bdbff43eb0aa7105804078f155de7f44"
+      "seconds": 0.59,
+      "output_sha256": "b5f76701320361a15bb66d61eabeb53af8d9684bcdf908ece822845fff5e52d3",
+      "übersprungene_release_prüfungen": 3
     },
     {
       "command": "python3 scripts/test-betreuungsrecht-unterlagen.py",
       "exit_code": 0,
-      "seconds": 0.82,
-      "output_sha256": "68de980814e728d88f406f0efac630ac46348d3174af408836320fae36a0c7d8"
+      "seconds": 0.81,
+      "output_sha256": "42b2b788c696dc7c799bc087ebf2bfa155bb746f4a4243550ae19e23990ed646",
+      "übersprungene_release_prüfungen": 1
     },
     {
       "command": "python3 scripts/test-sektorenvergabe-workflow.py",
       "exit_code": 0,
-      "seconds": 0.05,
+      "seconds": 0.04,
       "output_sha256": "133449d6f429f0588126e0403937f271f33f90517460d5c4b39d69c2eeda0f25"
     },
     {
       "command": "python3 scripts/test-anwaltschaft-vertragswerkstatt.py",
       "exit_code": 0,
-      "seconds": 1.25,
-      "output_sha256": "c64ed35f2d309e3ab03bb31da1179e1d80b9410bc5875eab184927e1d402f634"
+      "seconds": 1.15,
+      "output_sha256": "e8cbbbf6f1271db45b0d34289b6347660eab19b376fab17efb9a6b5c38484998"
     },
     {
       "command": "python3 scripts/test-notariatswerkstatt.py",
       "exit_code": 0,
-      "seconds": 5.43,
-      "output_sha256": "99af1365613defd9c635e2c119ad48f1b0007186dd3aefb0255676dfa9d399a4"
+      "seconds": 4.67,
+      "output_sha256": "ff0c6bd4f3973e091b987f39047ebf2dc90e06a8e938f98508e4e07233d10675"
     },
     {
       "command": "python3 scripts/test-agb-werkstatt.py",
       "exit_code": 0,
-      "seconds": 3.12,
-      "output_sha256": "0908c6961b0840e7cc904dbd32717abacbeee5b47346f300d46852b49c6e6f82"
+      "seconds": 2.89,
+      "output_sha256": "95858bf34169fe93469eebeaf62d9b3a382903f03e47312b751556fd1d79ae42"
     },
     {
       "command": "python3 scripts/test-vergaberecht-import.py",
       "exit_code": 0,
       "seconds": 0.45,
-      "output_sha256": "084a71f4193548c735826065b8033948c83aeaaedd92648a1025354ab172a682"
+      "output_sha256": "736d129aa94986c46dcbf15aa6d55d7232304a7da198796bc5ebb955ef8b9086",
+      "übersprungene_release_prüfungen": 3
     },
     {
       "command": "python3 scripts/test-quality-lab.py",
       "exit_code": 0,
       "seconds": 0.42,
-      "output_sha256": "feb9ba760b5a649e5c6181bf378d46d36647d0f4c3ab7c816dae2eaaba5cf156"
+      "output_sha256": "80e48abf8a0b58652bc065a80d2c453355f2c7c0881dcd57566eda951be9e16a"
     },
     {
       "command": "python3 scripts/test-runtime-performance.py",
@@ -207,8 +196,8 @@
     {
       "command": "python3 scripts/test-compatibility-release.py",
       "exit_code": 0,
-      "seconds": 0.4,
-      "output_sha256": "519fccb6144ad67f0ced29023d4a6c0631d59e2dcb8e61e486aa8857d68a3539"
+      "seconds": 0.38,
+      "output_sha256": "c908886c9fddafc5172a29ad1794efd2f1e354e34fc74ce41a3e07b64e15c5bf"
     },
     {
       "command": "python3 scripts/test-scoped-release-routing.py",
@@ -219,34 +208,22 @@
     {
       "command": "python3 vergaberecht-werkstatt/scripts/run-smoke-tests.py --quick",
       "exit_code": 0,
-      "seconds": 4.88,
-      "output_sha256": "1ffb98a15c76cbdc934abbce080983c8e28f2a3dc0df8dd5f349cc613a9c38d6"
+      "seconds": 4.83,
+      "output_sha256": "6abae7aded1b97029c20cde67a87189393249684eddb29ce7516644c49066d19"
     },
     {
       "command": "python3 scripts/validate-readme-navigation.py",
       "exit_code": 0,
-      "seconds": 110.93,
-      "previous_attempts": [
-        {
-          "exit_code": 0,
-          "seconds": 112.83
-        }
-      ],
-      "repeat_reason": "Abschließender Stand nach ergänzter Fundstellen-Gegenprobe und Zusammenführung.",
-      "output_sha256": "1c290e65467a5a42d262664558732859a01abfc73732f7437045519a27a57e28"
+      "seconds": 111.08,
+      "output_sha256": "b8a9b42d3f91672cb03cd000135762dcc6a34b3daac913703a1354e2b24f90d8"
     },
     {
       "command": "git diff --check",
       "exit_code": 0,
-      "seconds": 0.18,
-      "previous_attempts": [
-        {
-          "exit_code": 0,
-          "seconds": 0.18
-        }
-      ],
-      "repeat_reason": "Abschließender Stand nach ergänzter Fundstellen-Gegenprobe und Zusammenführung.",
+      "seconds": 0.07,
       "output_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
-  ]
+  ],
+  "integrierter_hauptstand": "b8c7eab25db5f3cc37f5fc0070adcbef554f84d5",
+  "release_grenze": "Sieben optionale Prüfungen bereits gebauter Release-Artefakte werden ohne --dist übersprungen (JVA drei, Betreuung eine, Vergaberecht-Import drei). Die Quellenprüfungen laufen; keine neue Paketfreigabe behauptet."
 }

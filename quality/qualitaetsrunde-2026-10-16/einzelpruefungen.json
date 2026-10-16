@@ -2,6 +2,8 @@
   "schema_version": 1,
   "datum": "2026-10-16",
   "ausgangscommit": "6db78a3dc2a0755dc3f3119fe962089b0f174ec1",
+  "integrierter_hauptstand": "b8c7eab25db5f3cc37f5fc0070adcbef554f84d5",
+  "statistik_basis": "Änderungen dieser Runde gegenüber dem integrierten Hauptstand; die unabhängig veröffentlichten JVA-Ergänzungen zählen nicht als eigene Korrekturen.",
   "methode": "Sechs disjunkte alphabetische Fachpakete. README-Lektüre und Promptabgleich je Plugin; neue Primärquellenprüfung nur, soweit im Einzelbefund ausdrücklich belegt.",
   "hinweis_prüfsummen": "Die Prüfsummen innerhalb der Einzelbefunde bezeichnen den jeweiligen Lektürestand. abschlussstand_readme bezeichnet die abschließende Datei nach dem zusätzlichen zentralen Katalogabgleich. Daraus folgt keine erneute Prüfung sämtlicher verlinkter Skills.",
   "grenzen": [
@@ -14785,8 +14787,27 @@
       },
       "abschlussstand_readme": {
         "pfad": "strafvollzug-jva/README.md",
-        "sha256": "2ff049a27271e80c983cd17ecb7fd143d5c746efb3df2545526f7bee2dcc2662",
+        "sha256": "7fa16196f9276a45e509ba312d71b73db07bfaa853ee92adc797d8d9aa114944",
         "änderung": "unverändert"
+      },
+      "nachtraeglicher_integrationsabgleich": {
+        "hauptstand": "b8c7eab25db5f3cc37f5fc0070adcbef554f84d5",
+        "umfang": "Die nachträglich auf main veröffentlichten Fassungen 1.1.0 bleiben unverändert. README vollständig, Werkstatt-Einstieg bis Kapitel 4 und Mini-Prompt vollständig erneut gelesen; Fortsetzung, Rollen, Fristenwege und Downloadzuordnung abgeglichen. Zwei neue Akten sowie die geänderten Skills, Referenzen und Qualitätsnachweise übernommen.",
+        "grenze": "Kein erneuter vollständiger amtlicher Quellenabgleich der neuen JVA-Fundstellen; die ursprünglichen Lektüreprüfsummen bleiben als historischer Stand erhalten.",
+        "dateien": [
+          {
+            "pfad": "strafvollzug-jva/README.md",
+            "sha256": "7fa16196f9276a45e509ba312d71b73db07bfaa853ee92adc797d8d9aa114944"
+          },
+          {
+            "pfad": "strafvollzug-jva/strafvollzug-jva-werkstatt.md",
+            "sha256": "8bc2f5b970e6d6b746afcf4c7ed4e166cf8cb56ac76dbe29205e82207d1f2c12"
+          },
+          {
+            "pfad": "strafvollzug-jva/strafvollzug-jva-schnellstart.md",
+            "sha256": "5dc7f93b18ff2cad85152c94d3d8b64b061d53f7e67c22abf95aedec8471bdd7"
+          }
+        ]
       }
     },
     {
