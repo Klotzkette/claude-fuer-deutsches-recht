@@ -1,0 +1,40 @@
+name: Kontakte und Vollzugsalltag Falkenried Köln
+plugin: untersuchungshaft
+stand: '2026-10-16'
+checks:
+- id: dokument-1
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 01_Haft_und_Kontaktbeschluss.docx
+- id: dokument-2
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 02_Besuchsantrag.docx
+- id: dokument-3
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 03_Besuchsantwort.docx
+- id: dokument-4
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 04_Kleidung_Anstaltsantwort.docx
+- id: dokument-5
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 05_Aerztlicher_Befund.docx
+- id: dokument-6
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 06_Vater_Besuchsbereitschaft.eml
+- id: dokument-7
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 07_Fachpraxis_Rueckmeldung.eml
+- id: dokument-8
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 08_Eingangsregister.csv
+- id: dokument-9
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 09_Brief_der_Grossmutter.txt

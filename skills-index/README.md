@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23289 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23299 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -338,6 +338,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 - [umweltrecht](./umweltrecht.md) (59 Skills)
 - [umweltschutzverband-verbandsklage](./umweltschutzverband-verbandsklage.md) (113 Skills)
+- [untersuchungshaft](./untersuchungshaft.md) (10 Skills)
 - [urheberrecht-de-eu](./urheberrecht-de-eu.md) (65 Skills)
 - [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (84 Skills)
 - [us-bankruptcy-code](./us-bankruptcy-code.md) (101 Skills)

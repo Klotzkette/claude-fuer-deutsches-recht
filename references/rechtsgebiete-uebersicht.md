@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 301 Plugins, 23289 Skills.
+Stand v445.35.3: 302 Plugins, 23299 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -275,6 +275,7 @@ Stand v445.35.3: 301 Plugins, 23289 Skills.
 | [`transparenzregister-assistent`](../transparenzregister-assistent/) | Transparenzregister: Kontrollketten ermitteln, Meldungen und Berichtigungen vorbereiten, Einsicht und Unstimmigkeiten bearbeiten sowie optional freigegebene Portalhandlungen begleiten. Zehn Fachskills und ein Hauptproblem-Skill mit drei Akten. | `445.35.3` | 11 |
 | [`umweltrecht`](../umweltrecht/) | Freistehendes Umweltrecht-Plugin für BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Verfahren, Bußgeld, Umwelt-Due-Diligence, Klimaklagen UmwRG, Lieferkettensorgfalt LkSG/CSDDD und ESG-Greenwashing/CSRD. | `445.35.2` | 59 |
 | [`umweltschutzverband-verbandsklage`](../umweltschutzverband-verbandsklage/) | Plugin für Umweltverbände: UmwRG, Aarhus, UIG, UVP, BImSchG, Planfeststellung, Paragraf 47 VwGO, Naturschutz, Klima, Verbandsklage und Eilrechtsschutz. | `445.35.3` | 113 |
+| [`untersuchungshaft`](../untersuchungshaft/) | Untersuchungshaft für Gericht, Staatsanwaltschaft, Verteidigung und Betroffene: zehn Skills zu Haftbefehl, Vorführung, Haftverschonung, Haftprüfung, Beschwerde, Haftdauer, Vollzugsrechten und Jugendhaft. Mit konkreten Anträgen und Entscheidungsvorlagen. | `1.0.0` | 10 |
 | [`urheberrecht-de-eu`](../urheberrecht-de-eu/) | Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing. | `445.35.2` | 65 |
 | [`urteilsbauer-relationsmacher`](../urteilsbauer-relationsmacher/) | Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO. | `445.35.3` | 84 |
 | [`us-bankruptcy-code`](../us-bankruptcy-code/) | US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border. | `445.35.3` | 101 |

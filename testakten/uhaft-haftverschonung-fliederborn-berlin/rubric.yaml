@@ -1,0 +1,40 @@
+name: Haftverschonung Fliederborn Berlin
+plugin: untersuchungshaft
+stand: '2026-10-16'
+checks:
+- id: dokument-1
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 01_Haftbefehl.docx
+- id: dokument-2
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 02_Vernehmung_Lagermeister.docx
+- id: dokument-3
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 03_Arbeitgeberzusage.docx
+- id: dokument-4
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 04_Wohnraumzusage.docx
+- id: dokument-5
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 05_Vermieterzustimmung.docx
+- id: dokument-6
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 06_Verteidiger_an_Staatsanwaltschaft.eml
+- id: dokument-7
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 07_Staatsanwaltschaft_Zwischenstand.eml
+- id: dokument-8
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 08_Reisebuchung.csv
+- id: dokument-9
+  check_type: file_exists
+  description: Eigenständiges Original vorhanden.
+  path: 09_Telefonnotiz.txt

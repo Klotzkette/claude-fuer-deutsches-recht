@@ -2746,6 +2746,16 @@
       }
     },
     {
+      "name": "untersuchungshaft",
+      "source": "./untersuchungshaft",
+      "description": "Untersuchungshaft fuer Gericht, Staatsanwaltschaft, Verteidigung und Betroffene: zehn Skills zu Haftbefehl, Vorfuehrung, Haftverschonung, Haftpruefung, Beschwerde, Haftdauer, Vollzugsrechten und Jugendhaft. Mit konkreten Antraegen und Entscheidungsvorlagen.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "urheberrecht-de-eu",
       "source": "./urheberrecht-de-eu",
       "description": "Deutsches und EU-Urheberrecht für Werkhöhe, Musik, KI, TDM, Software, Lizenzen, Abmahnung, Schranken, Leistungsschutz und Rechteclearing.",

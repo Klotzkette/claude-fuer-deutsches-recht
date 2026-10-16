@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "plugin": "untersuchungshaft",
+  "reviewed_on": "2026-10-16",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__119.html",
+      "checked_on": "2026-10-16",
+      "supports": "Vorläufige Beschränkungen und gerichtliche Vorlage innerhalb von drei Werktagen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__122.html",
+      "checked_on": "2026-10-16",
+      "supports": "Besondere OLG-Haftprüfung, Gehör und Ermessen über mündliche Verhandlung."
+    },
+    {
+      "url": "https://recht.nrw.de/lrgv/gesetz/01042026-untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg-nrw/",
+      "checked_on": "2026-10-16",
+      "supports": "Aktuelle Landesfassung ab April 2026 für Vollzugsbedingungen."
+    }
+  ],
+  "selection": {
+    "target_skill": "uhaft-verfahren-steuern",
+    "positive": [
+      "Prüfe den Haftbefehl und bereite einen Antrag auf Haftverschonung vor.",
+      "Die Haft dauert fast sechs Monate. Bearbeite die OLG-Vorlage mit den Belegen."
+    ],
+    "negative": [
+      "Erstelle eine Nebenkostenabrechnung für eine Mietwohnung.",
+      "Prüfe einen Grundstückskaufvertrag vor Beurkundung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "rollenstart",
+      "target_skill": "uhaft-verfahren-steuern",
+      "request": "Ich bin der Bruder eines seit gestern Inhaftierten. Im Ordner liegen Haftbefehl und Arbeitgebermail. Ich möchte einen Antrag stellen; eine Vollmacht habe ich nicht und über den Verteidiger weiß ich nichts.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Klären, ob eigener Antrag des Betroffenen oder Unterstützung eines bevollmächtigten Verteidigers; keine Vertretungsmacht des Bruders erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Aktuellen Haftbefehl zuerst lesen, notwendige Verteidigung und Eile sichern; nicht mit vollständigem Interview beginnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Konkreten Kontaktentwurf und fehlende Berechtigung benennen; keine erfolgte Einreichung behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verdacht-gegenbeleg",
+      "target_skill": "haftbefehl-voraussetzungen-pruefen",
+      "request": "Der Haftbefehl Fliederborn beruht auf einem Zugangschip und einer Kameraerkennung. Die spätere Zeugenvernehmung relativiert beides. Prüfe für das Gericht den fortbestehenden dringenden Verdacht und erstelle einen Entscheidungsvorschlag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Neue Aussage, Chiprückgabe und nicht abgeschlossenen Seriennummernabgleich getrennt würdigen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Haftgrund und Verhältnismäßigkeit neben dem Tatverdacht prüfen, weder Freispruch noch Haftende aus einer Unsicherheit ableiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Begründeten Beschlussentwurf mit Gegenbelegen und offenen Beweisfragen statt bloßer Ampel erstellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorfuehrung",
+      "target_skill": "vorfuehrung-verteidigung-sichern",
+      "request": "Festnahme Montag 21:10 Uhr; Dienstag 10 Uhr sind Anwalt und Dolmetscher noch nicht erreicht. Die Person versteht die Belehrung nicht sicher. Bereite für den Angehörigen eine sofortige Kontaktanfrage vor, ohne den Tatvorwurf zu erfragen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unverzüglichkeit und äußere Zeitgrenze unterscheiden; nächsten Tag nicht als frei verfügbare Wartezeit verstehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verteidigung vor Haftentscheidung sowie Sprachverständnis sichern und medizinischen Bedarf nicht vertagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nur belegte Zeiten aufnehmen und keinen angeblichen Kontakt oder Richtertermin erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verschonung",
+      "target_skill": "haftverschonung-entlassung-beantragen",
+      "request": "Für Fliederborn sind Wohnung bis März 2027, Beschäftigung und 3500 EUR der Schwester belegt. Noch ist kein Geld eingezahlt. Erstelle als Verteidiger einen Antrag mit geeigneter Alternative, ohne die Sicherheit als bereits bestellt darzustellen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Aufhebung mangels Voraussetzungen von Außervollzugsetzung bei fortbestehendem Haftbefehl trennen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Auflagen, Arbeitszeiten, Finanzierung und begrenzte Aufsicht der Schwester konkret abgleichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ausformulierten Haupt- und gegebenenfalls Hilfsantrag mit erfüllbaren Bedingungen liefern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muendliche-pruefung",
+      "target_skill": "haftpruefung-muendlich-vorbereiten",
+      "request": "Das OLG hat nach sechs Monaten Haftfortdauer angeordnet und die weitere Haftprüfung nicht übertragen. Der Betroffene verlangt einen mündlichen Termin binnen zwei Wochen. Formuliere den passenden Antrag und erkläre die Verfahrensgrenzen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "OLG-Zuständigkeit und Ermessen nach Paragraf 122 Absatz 3 Satz 4 von regulärer Haftprüfung trennen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keinen unbedingten mündlichen Terminanspruch binnen zwei Wochen behaupten; erneute Prüfung und Gehör konkret beantragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Laufende Beschwerde oder Prüfung ermitteln und keinen unzulässigen Parallelweg einleiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beschwerde",
+      "target_skill": "haftbeschwerde-begruenden",
+      "request": "Die Familie erhielt gestern einen Haftfortdauerbeschluss und meint, es bleibe nur eine Woche. Der Verteidiger soll Beschwerde einlegen; beim Ausgangsgericht liegt noch kein Haftprüfungsantrag. Bereite einen begründeten Rechtsbehelf vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine allgemeine Wochenfrist für gewöhnliche Haftbeschwerde erfinden; zuständigen Ausgangsrichter bestimmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Dreitagesvorlagefrist von Einlegungsfrist trennen und Grenzen weiterer Beschwerde erläutern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Tragende Beschlussgründe angreifen, Form der Einreichung prüfen und keine automatische Haftunterbrechung versprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sechsmonate",
+      "target_skill": "haftdauer-beschleunigung-pruefen",
+      "request": "Kornfeld ist seit 20. April in Haft. Die OLG-Vorlage ging am 15. Oktober ein; Hauptverhandlung ist für November geplant. Gutachterauftrag und Zeitjournal liegen vor. Prüfe den tatsächlichen Verlauf und bereite die Stellungnahme vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zeitabschnitte zwischen Beweissicherung, Auftrag, Gutachten und Anklage getrennt belegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fristruhen bei rechtzeitiger Vorlage prüfen; keine automatische Entlassung am 20. Oktober versprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Vermeidbare Verzögerungen konkret bearbeiten, Terminquote nicht schematisch verwenden und Quellenstatus kennzeichnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kontaktvorlage",
+      "target_skill": "beschraenkungen-kontakt-pruefen",
+      "request": "Eine JVA ordnete am Montag wegen nicht erreichbaren Richters vorläufig eine Postkontrolle an und legte sie am Mittwoch vor. Freitag fehlt die gerichtliche Entscheidung. Prüfe für die Verteidigung die Maßnahme und einen Eilantrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Dreiwerktagefrist als Vorlagefrist anwenden, nicht als Frist für gerichtliche Genehmigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zweck, Dringlichkeit, Begründung und betroffene Kommunikation einzeln prüfen; Verteidigerverkehr gesondert behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Statthaften gerichtlichen Rechtsbehelf mit konkreter begehrter Änderung ausformulieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vollzug-koeln",
+      "target_skill": "vollzugsbedingungen-gerichtlich-pruefen",
+      "request": "Falkenried möchte ihre Tochter sehen, Privatkleidung tragen und einen Facharzttermin wahrnehmen. Es gibt gerichtliche Kontaktverbote nur für zwei andere Personen und mehrere Anstaltsantworten. Erstelle die erforderlichen getrennten Anträge.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gerichtliche Haftbeschränkung und vollzugsrechtliche Entscheidung nach NRW-Recht auseinanderhalten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Dreiwochenregel in Paragraf 119a nicht als Ausschlussfrist oder zwingende Wartepflicht bei Eile behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Medizinische Dringlichkeit klären, keine Therapie anordnen; konkrete Besuchs- und Kleidungsnachweise nachfordern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jugend-bremen",
+      "target_skill": "jugendliche-heranwachsende-pruefen",
+      "request": "Wolkensteg ist 15 Jahre alt, war zwei Nächte beim Onkel und kam wieder in die Schule. Eine betreute Wohngruppe bietet bedingte Aufnahme an. Bereite für das Gericht die Alternativenprüfung zur Haftentscheidung vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Besondere Unter-16-Voraussetzungen des Paragrafen 72 Absatz 2 JGG prüfen; Schulabwesenheit nicht mit Flucht gleichsetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Finanzierung, Sorgeberechtigtenzustimmung und Aufnahmezeit verifizieren; bloße Zusage nicht als vollzogene Unterbringung behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verteidigung und Anhörung sichern; Jugendregel nicht pauschal über Paragraf 109 auf jeden Heranwachsenden übertragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter Haftablauf unterscheidet Rechtsbehelfe, Verfahrensrollen und Landesvollzug.",
+    "changes": [
+      "OLG-Ermessen, Vorlagefrist und notwendige Verteidigung präzisiert."
+    ],
+    "sha256": "42df6dd083a79e8e68618a6bb8d717abafb4139c23b614ee29ca7ab34cd8ad56"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollständige Antrags- und Entscheidungswege mit Belegprüfung statt allgemeiner Haftanalyse.",
+    "changes": [
+      "Mildere Maßnahmen, Landesvollzug und Jugendhilfe jeweils mit eigener Rückfrage- und Fortsetzungslogik."
+    ],
+    "sha256": "83b586f3ec7940402f7d9838fcdf33e88643f66ee3930b8307d70bc18dd3e264"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-16",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerer Start klärt Rolle, Haftstand und vorrangiges Anliegen.",
+      "Haftbefehl und Belege liegen vor: unmittelbar passenden Antrag bearbeiten.",
+      "Neue gerichtliche Entscheidung: bisherige Prüfung fortsetzen und Rechtsbehelf neu abgleichen."
+    ],
+    "continuation": "Neue Wohnzusage, Terminsmitteilung oder Anstaltsantwort nur in betroffenen Schritten einarbeiten; offene Nachweise gezielt anfordern.",
+    "enrichment": "Zehn individuelle Fälle prüfen Rollenbefugnis, Beweisänderung, Verteidigung, Auflagen, Rechtsbehelfe, Haftzeit, Kontakt, Vollzug und Alter.",
+    "limits": "Redaktionelle Anweisungsprüfung und technische Tests, keine tatsächlich durchgeführten Modellläufe."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-16",
+    "method": "desk_review",
+    "files": [
+      "untersuchungshaft/untersuchungshaft-werkstatt.md",
+      "untersuchungshaft/untersuchungshaft-schnellstart.md"
+    ],
+    "opening_change": "Freiheitsentzug, Rolle und anstehendes Schriftstück bestimmen den Einstieg.",
+    "norms": [
+      "Paragrafen 112 bis 123 StPO: Haft, Alternativen, Prüfung und Fortdauer.",
+      "Paragrafen 119 und 119a StPO: Beschränkung und Vollzugsrechtsschutz.",
+      "Paragrafen 72 und 109 JGG: unterschiedliche Reichweite der Jugendregeln."
+    ],
+    "decisions": [
+      {
+        "citation": "BVerfG, Beschluss vom 05.02.2025, 2 BvR 24/25 und 2 BvR 69/25",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250206_2bvr002425.html",
+        "application": "Vertiefte individuelle Begründung der Haftfortdauer und tatsächliche Beschleunigung.",
+        "limit": "Keine automatische Entlassungsfolge für andere Verfahren und kein unmittelbares Besuchsrecht aus diesem Beschluss."
+      }
+    ],
+    "remaining_limits": [
+      "BGH StB 46/26 über Sekundärvolltexte abgeglichen, amtlicher Abruf bleibt für Einreichung erforderlich.",
+      "Landesrecht, konkrete Haftakte und Zuständigkeit müssen für jeden Auftrag neu geprüft werden.",
+      "Keine Leistungszusage für fremde Oberflächen oder Modelle."
+    ]
+  }
+}

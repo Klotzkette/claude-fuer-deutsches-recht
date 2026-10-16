@@ -1,0 +1,6 @@
+﻿Datum;Vorgang;Person;Betrag_EUR;Beleg;Status
+18.09.2026;Hinfahrt Berlin Prag 01.10.;Gustav Fliederborn;89.00;SF26091-11;gebucht
+18.09.2026;Rückfahrt Prag Berlin 03.10.;Gustav Fliederborn;79.00;SF26091-12;gebucht
+18.09.2026;Hotel zwei Nächte;Gustav Fliederborn;212.00;SF26091-13;bezahlt
+03.10.2026;Rückfahrtbestätigung Fahrer;Ludger Knall;0.00;Telefonnotiz 08.10.;schriftliche Bestätigung angefordert
+05.10.2026;Reisekostenvorschuss verrechnet;Gustav Fliederborn;120.00;SF26091-14;gebucht

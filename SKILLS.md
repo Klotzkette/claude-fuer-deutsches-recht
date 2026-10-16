@@ -1,6 +1,6 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **23289 Skills** in **301 Plugins**.
+Automatisch generierte Gesamtübersicht aller **23299 Skills** in **302 Plugins**.
 
 Stand: `v445.35.3`.
 
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23289 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23299 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -415,6 +415,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | --- | ---: | --- | --- | --- | --- |
 | **umweltrecht** | 59 | [Skills ansehen](skills-index/umweltrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/umweltrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltrecht/umweltrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/umweltrecht.zip) |
 | **umweltschutzverband-verbandsklage** | 113 | [Skills ansehen](skills-index/umweltschutzverband-verbandsklage.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltschutzverband-verbandsklage.zip) |
+| **untersuchungshaft** | 10 | [Skills ansehen](skills-index/untersuchungshaft.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=untersuchungshaft/untersuchungshaft-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/untersuchungshaft-v1.0.0/untersuchungshaft.zip) |
 | **urheberrecht-de-eu** | 65 | [Skills ansehen](skills-index/urheberrecht-de-eu.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/urheberrecht-de-eu.zip) |
 | **urteilsbauer-relationsmacher** | 84 | [Skills ansehen](skills-index/urteilsbauer-relationsmacher.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/urteilsbauer-relationsmacher.zip) |
 | **us-bankruptcy-code** | 101 | [Skills ansehen](skills-index/us-bankruptcy-code.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-bankruptcy-code/us-bankruptcy-code-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=us-bankruptcy-code/us-bankruptcy-code-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/us-bankruptcy-code.zip) |
