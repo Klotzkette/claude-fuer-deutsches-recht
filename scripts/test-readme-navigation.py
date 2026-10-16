@@ -149,6 +149,74 @@ class CatalogVersionTests(unittest.TestCase):
                 CATALOG.update_testakten_version(text, "444.6.0")
 
 
+class GeneratedNavigationTests(unittest.TestCase):
+    canonical = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/"
+    targets = ("README.md", "SKILLS.md", "skills-index/demo.md", "ASSET_INDEX.md", "testakten/README.md")
+
+    def validate_navigation(self, links):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory).resolve()
+            marketplace = root / ".claude-plugin/marketplace.json"
+            marketplace.parent.mkdir()
+            marketplace.write_text(json.dumps({"plugins": [{"name": "demo", "source": "./demo"}]}))
+            prompt = NAV.markdown_download_url("demo/demo-werkstatt.md")
+            content = "# Demo\n\n" + links + "\n\n[Plugin-Dateien](.)\n\n[Werkstatt](" + prompt + ")\n"
+            files = {
+                "demo/README.md": content,
+                "skills-index/demo.md": "# Skills\n\n[Werkstatt](" + prompt + ")\n",
+                "ASSET_INDEX.md": "# Downloads\n\n[Plugin](demo/README.md) · [Skills](skills-index/demo.md) · [Werkstatt](" + prompt + ")\n",
+                "README.md": "# Start\n\n## Was ist drin\n",
+                "SKILLS.md": "# Alle Skills\n",
+                "testakten/README.md": "# Testakten\n",
+            }
+            for relative, text in files.items():
+                path = root / relative
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text(text, encoding="utf-8")
+            with patch.object(NAV, "REPO", root), patch.object(NAV, "MARKETPLACE", marketplace), patch.object(
+                NAV, "standalone_kinds", return_value=("werkstatt",)
+            ), patch.object(NAV, "formats", return_value=("md",)), patch.object(
+                NAV, "markdown_tokens", wraps=NAV.markdown_tokens
+            ) as parse:
+                errors = []
+                self.assertEqual(NAV.validate_generated_navigation(errors), (1, 0))
+                return errors, parse.call_count
+
+    def links(self, prefix):
+        return " · ".join(f"[Ziel {index}]({prefix}{target})" for index, target in enumerate(self.targets))
+
+    def test_relative_and_canonical_navigation_are_equivalent(self):
+        for prefix in ("../", self.canonical):
+            with self.subTest(prefix=prefix):
+                errors, calls = self.validate_navigation(self.links(prefix))
+                self.assertEqual(errors, [])
+                self.assertEqual(calls, 1, "Plugin-README genau einmal als Markdown parsen")
+
+    def test_canonical_navigation_rejects_wrong_repository_branch_or_path(self):
+        for wrong in (
+            self.canonical.replace("github.com", "github.example"),
+            self.canonical.replace("Klotzkette/claude-fuer-deutsches-recht", "Andere/claude-fuer-deutsches-recht"),
+            self.canonical.replace("/blob/main/", "/blob/anderer-zweig/"),
+            self.canonical + "anderer-ordner/",
+        ):
+            with self.subTest(wrong=wrong):
+                links = self.links("../").replace("../README.md", wrong + "README.md")
+                errors, _ = self.validate_navigation(links)
+                self.assertEqual(errors, ["demo/README.md: Navigationsziel fehlt: ../README.md"])
+
+    def test_navigation_in_code_block_does_not_count(self):
+        links = self.links("../").replace("[Ziel 0](../README.md)", "")
+        links += "\n\n```md\n[Unsichtbare Navigation](../README.md)\n```"
+        errors, _ = self.validate_navigation(links)
+        self.assertEqual(errors, ["demo/README.md: Navigationsziel fehlt: ../README.md"])
+
+    def test_reference_links_and_existing_catalog_fragment_are_supported(self):
+        links = self.links("../").replace("[Ziel 0](../README.md)", "[Start][hauptseite]")
+        links += "\n\n[hauptseite]: " + self.canonical + "README.md#was-ist-drin\n"
+        errors, _ = self.validate_navigation(links)
+        self.assertEqual(errors, [])
+
+
 class DownloadNoticeTests(unittest.TestCase):
     table = (
         "| Format | Download |\n| --- | --- |\n"

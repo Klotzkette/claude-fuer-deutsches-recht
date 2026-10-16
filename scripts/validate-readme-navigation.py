@@ -22,6 +22,7 @@ import yaml
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path="
+CANONICAL_REPO_BLOB_BASE = "https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/"
 MARKDOWN = MarkdownIt("gfm-like")
 
 
@@ -292,6 +293,9 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
             continue
         plugin_count += 1
         readme_text = readme.read_text(encoding="utf-8")
+        readme_destinations = {
+            destination for label, destination in markdown_links(markdown_tokens(readme_text)) if label
+        }
         expected_readme_links = [
             relative_link(directory, REPO / "README.md"),
             relative_link(directory, REPO / "SKILLS.md"),
@@ -301,9 +305,12 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
         if standalone_kinds(name):
             expected_readme_links.append(relative_link(directory, REPO / "testakten" / "README.md"))
         for destination in expected_readme_links:
-            if f"]({destination})" not in readme_text and f"]({destination}#was-ist-drin)" not in readme_text:
+            target = (directory / destination).resolve().relative_to(REPO.resolve()).as_posix()
+            canonical = CANONICAL_REPO_BLOB_BASE + quote(target, safe="/")
+            accepted = {destination, destination + "#was-ist-drin", canonical, canonical + "#was-ist-drin"}
+            if readme_destinations.isdisjoint(accepted):
                 errors.append(f"{repo_relative(readme)}: Navigationsziel fehlt: {destination}")
-        if "](.)" not in readme_text:
+        if "." not in readme_destinations:
             errors.append(f"{repo_relative(readme)}: Link auf die Plugin-Dateien fehlt")
 
         if f"]({source}/README.md)" not in asset_index:
