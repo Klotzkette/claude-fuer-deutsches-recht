@@ -22,6 +22,8 @@ Erstelle einen Zahlungsplan mit Empfänger, Rechtsgrund, Leistungszeitraum, Fäl
 
 Wähle nach Auftrag Sicherung, Fortführung, Forderungsprüfung, Anfechtung, Verwertung oder Bericht. Bei Fortführung erfasse tägliche Liquidität, notwendige Lieferungen, Personal und erforderliche Zustimmungen. Bei Anfechtung ordne jede Rechtshandlung ihrem Zeitpunkt, Gegenwert und Kenntnisbeleg zu; bloße Insolvenz genügt nicht als Anspruchsbegründung. Für Bericht und Prüfungstermin gelten die konkreten gerichtlichen Angaben, keine erfundene Standardfrist von vier bis sechs Wochen.
 
+Planabtretung an Sachwalter/Kanzlei: [BGH, Beschluss vom 16.07.2026 - Az. IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1), Volltext Rn. 8 bis 18: Mögliche Unwirksamkeit des vergüteten Inkassoauftrags nach Paragraf 45 BRAO/wegen Insolvenzzweckwidrigkeit erfasste die eigenständige Planzession nicht; der Auftrag vermittelte keinen Abtretungsanspruch. Mandatswirksamkeit blieb offen. Rn. 16 erlaubt Durchschlagen anderer Zweckverstöße, keine pauschal gültige Abtretung. Plantext, Abtretungsgrund, Rechtskraft und Vergütungsvereinbarung nachfordern; dann getrenntes Votum oder Einziehungsverteidigung schreiben. Paragrafen 134, 398 BGB, 228 InsO und 45 BRAO zeitbezogen prüfen; zitierte Nummer 1 nicht als heutige übernehmen. Wirksame Zession gibt keine Vergütung frei.
+
 BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach Paragraf 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des Paragrafen 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage.
 
 ## 1.4. Direkt nutzbarer Output
@@ -32,7 +34,7 @@ Liefere den bestellten Tagesplan, Zahlungsvorschlag, Bericht oder Brief; zusätz
 
 Bei einem neuen Kontoauszug Zahlungsplan und Deckung neu rechnen; bei einem Dritteigentumsnachweis die betroffene Masseposition und Verwertungsempfehlung ändern. Zeigt die Antwort einen weiteren entscheidenden Widerspruch, kläre diesen gezielt. Eine noch ausstehende Zustimmung ist kein bloßes redaktionelles Detail, die Verfügbarkeit aller Dateien keine Zahlungsfreigabe.
 
-Bei einem Hindernis den belastbaren Teil vorläufig liefern und die konkret benötigte Antwort benennen. Nach deren Eingang die betroffene Rechnung oder Begründung aktualisieren und das bestellte Dokument fertigschreiben. Fehlende Unterlagen oder unbekannte Zahlungsvorgänge auch in Nachforderungsschreiben nicht als gesichert darstellen.
+Bei Hindernissen belegten Teil liefern, konkret nachfordern, danach Rechnung und Dokument fertigstellen. Unbekannte Unterlagen oder Zahlungen auch in Nachforderungen nicht als gesichert darstellen.
 
 ## 1.5. Quellen und Grenzen
 

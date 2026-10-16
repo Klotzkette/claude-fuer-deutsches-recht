@@ -26,27 +26,29 @@ Beim Elternunterhalt [BGH, Beschluss vom 22.01.2025, XII ZB 148/24](https://www.
 
 ### 1.3.2. Versorgungsausgleich
 
-Für die erstmalige Sachentscheidung Ehezeit nach Paragraf 3 VersAusglG bis zum Ende des Monats vor Zustellung bestimmen. Jedes Anrecht einzeln mit Träger, Kennung, Einheit und Ausgleichswert führen.
+Ehezeit nach Paragraf 3 VersAusglG bis Monatsende vor Zustellung bestimmen. Jedes Anrecht mit Träger, Kennung, Einheit und Ausgleichswert führen.
 
-Trägerauskunft und Anrechtswerte abgleichen. Fehlende Rechenerläuterung anfordern; danach Anrecht und Stellungnahme berichtigen. Teilungsordnung, Kosten und Zielversorgung getrennt prüfen; keine gemeinsame Kapitalwertsumme statt Einzelprüfung.
+Trägerwerte abgleichen, fehlende Erläuterung anfordern, danach Stellungnahme berichtigen. Teilungsordnung, Kosten und Zielversorgung einzeln prüfen, keine Sammelkapitalwertsumme.
 
-Beschwerde, Altentscheidungsabänderung, schuldrechtlicher Ausgleich, Tod und Anpassung wegen Unterhalts oder Invalidität bleiben eigene Verfahren. Jeweils Anlass, Zuständigkeit, Zeitbezug und eigene Voraussetzungen prüfen, nicht die erstmalige Teilung wiederholen.
+Bei abgetretener Versicherungsleistung Vertrag, Leistungsform und Gegenleistung prüfen: [BGH, Beschluss vom 11.06.2026, IX ZB 1/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1), Rn. 17–23. Die Vereinbarungsüberschrift ersetzt Paragraf 2 VersAusglG nicht. Zugewinn unterliegt nicht Paragraf 850i ZPO; Paragraf 852 Absatz 2 ZPO gesondert prüfen. Nach Abredeklärung Rechnung und Schutzempfehlung ändern. Zurückverweisung; Schutz echten Versorgungsausgleichs oder seiner Abfindung blieb offen.
+
+Beschwerde, Altentscheidungsabänderung, schuldrechtlicher Ausgleich, Tod sowie Unterhalts- oder Invaliditätsanpassung nach Anlass, Zuständigkeit, Zeitbezug und eigenen Voraussetzungen prüfen; nicht die Erstteilung wiederholen.
 
 ### 1.3.3. Scheidung und Vermögen
 
-Für den Scheidungsantrag Trennung, Scheidungsvoraussetzungen, Zuständigkeit und Verbund prüfen. Folgesachen nicht allein wegen des gemeinsamen Sachverhalts gleich behandeln.
+Scheidung: Trennung, Voraussetzungen, Zuständigkeit und Verbund prüfen. Folgesachen trotz gemeinsamen Sachverhalts unterscheiden.
 
-Für den Zugewinnausgleich Anfangs-, Trennungs- und Endvermögen positionsweise mit Vermögensbelegen abstimmen. Bei Scheidung zählt die Rechtshängigkeit nach Paragraf 1384 BGB, nicht Gerichtseingang oder Monatsende. Eigentumsanteile, Darlehensvaluta und indexiertes Anfangsvermögen einschließlich privilegierter Erwerbe getrennt führen. Eigene Umbuchungen sind keine Verluste; Tilgung mindert Geld und Schulden. Fehlende Salden oder Wertbelege zum maßgeblichen Datum anfordern; nach Eingang Nettovermögen und Ausgleich neu berechnen und das bestellte Ergebnis ausformulieren. Ungeklärte Bewertungen bleiben erkennbare Varianten.
+Anfangs-, Trennungs- und Endvermögen mit Belegen abstimmen. Paragraf 1384 BGB: Rechtshängigkeit, nicht Gerichtseingang oder Monatsende. Eigentum, Valuta und indexiertes Anfangsvermögen samt privilegierten Erwerben trennen. Eigenüberträge sind keine Verluste; Tilgung senkt Geld und Schuld. Fehlende Stichtagsbelege anfordern, danach Rechnung und Dokument aktualisieren. Ungeklärte Werte als Varianten führen.
 
 ### 1.3.4. Sorge und Umgang
 
-Jedes Kind nach Alltag, Bindungen, Wille, Kontinuität, Förderung und Schutzbedarf betrachten. Sorgeentscheidung und konkrete Umgangszeiten gesondert begründen. Ereignisse statt pauschaler Elternbewertungen vortragen.
+Je Kind Alltag, Bindungen, Wille, Kontinuität, Förderung und Schutzbedarf prüfen. Sorge und Umgangszeiten getrennt begründen. Ereignisse statt pauschaler Elternbewertungen vortragen.
 
 Umgangstenor mit Zeiten, Übergabeort, Ferien, Krankheit, Ausfall und Kommunikation vollziehbar formulieren. Bei Einigung Kindeswohlprüfung und gerichtliche Billigung nach Paragraf 156 FamFG beachten. Mediation darf erforderlichen Schutz nicht verzögern.
 
 ### 1.3.5. Fehlende Belege
 
-Bei widersprüchlicher oder unvollständiger Akte jede Lücke einer Anspruchsvoraussetzung oder Rechenzeile zuordnen, dazu Dokumentinhaber, Beschaffungsweg und Termin nennen. Keine allgemeine Anforderung sämtlicher Familienunterlagen.
+Jede Beleglücke Anspruch oder Rechenzeile zuordnen; Inhaber, Beschaffungsweg und Termin nennen. Keine pauschale Anforderung aller Familienunterlagen.
 
 ## 1.4. Ergebnis fertigstellen
 
@@ -56,6 +58,6 @@ Anträge, Briefe und Stellungnahmen vollständig ausformulieren, keine Stichwort
 
 Aktuelle Norm, Gericht, Form, Datum, Aktenzeichen, amtlichen Link und geprüfte Randnummer nennen. Keine Literatur aus Erinnerung. Abruflücken in die Arbeitsnotiz, nicht in den Mandantenbrief. Keine eigenmächtige Einreichung, Versendung oder Erklärung; Paragraf ausschreiben.
 
-Offenes Einkommen, Betreuung, Titelart oder Zustellung können die Endbezifferung sperren. Nachweis konkret benennen, nach Eingang fortsetzen; keine Annahmen als Tatsachen übernehmen.
+Offenes Einkommen, Betreuung, Titelart oder Zustellung können die Endbezifferung sperren. Fehlenden Nachweis benennen, nach Eingang fortsetzen.
 
 Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Dateien und fehlenden Quellenzugriff konkret in der Arbeitsnotiz benennen; keine ungelesenen Anlagen als geprüft ausgeben. Ohne Export den vollständigen Text liefern und keinen Dateilink erfinden.

@@ -125,11 +125,17 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675e.html",
       "checked_on": "2026-10-16",
       "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Tatsächliche zulässige Vertragsabweichungen prüfen. Absatz 4 nennt Paragraf 675u nicht; ein Geschäftskonto beseitigt dessen Erstattungsrecht nicht pauschal."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität. Grenze: Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+      "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+    "reason": "Der Schnellstart trennt Zahlungsautorisierung, Vertragsänderung und Beratungshaftung und bindet den Banknachweis an konkrete Transaktionsdaten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest. Gezielte Quellenvertiefung: Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
@@ -137,9 +143,10 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
+      "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "06092037364daee73ac49ac3f9a5e4dc62c14e782057d1a64152a3840b7ab0e4",
+    "sha256": "ec908da93a0c368f6cfc8221e36803744e15649b8c2444bb93baa6dbc2d6ee1c",
     "previous_reviews": [
       {
         "sha256": "27d3b9a9e56d45e4a300417a187608fa81834a020fd0fea7aff9d611190b1405"
@@ -246,7 +253,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+    "reason": "Doppelte abstrakte Normlisten und die pauschale Beschränkung auf unverbindliche Entwürfe entfernt; die Fachwege vom Darlehen bis zum Akkreditiv bleiben auftragsbezogen nutzbar. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. Beide Anker betreffen die bestrittene Überweisung beziehungsweise einen daneben erhobenen Datenschutzschaden und stehen auch im Hauptproblem/Fokusskill. Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. 2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest. Gezielte Quellenvertiefung: Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen.",
     "changes": [
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
@@ -254,9 +261,10 @@
       "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
       "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unberechtigte Zahlung und konkrete Reklamation werden greifbar; technische Authentifizierung wird nicht mit rechtlicher Autorisierung gleichgesetzt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
+      "2026-10-16: Bankreklamation, Zahlungsrechnung und spätere Gegenanspruchsprüfung anhand der konkreten Freigabe- und Beweiskette fortführen; C-70/25 mit den begrenzten vorhandenen BGH-Ankern verbinden. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "5c967c0d0ac2f42bc06de52d3badc4c619b1c8fc620a6e7c028641c2dc7c7517",
+    "sha256": "41dae4b1c62cae9bbeb196c7321c18f08cf024599a0d3ea46d54c1b009996704",
     "previous_reviews": [
       {
         "sha256": "9875821950e39de2e81437f2e1a821cf2b7c3852eea739b6116cd238ec5946ff"
@@ -274,7 +282,8 @@
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
       "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
       "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
-      "quality/evals/fachanwalt-bank-kapitalmarktrecht.json"
+      "quality/evals/fachanwalt-bank-kapitalmarktrecht.json",
+      "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md"
     ],
     "opening_change": "Konkrete Rücknahme einer Kontobelastung, Ersatz eines Beratungsschadens oder Änderung einer Kreditklausel. Workflow-Ergänzung: Leer: Überweisungsreklamation, Beratungsschaden oder Kreditklausel anbieten. Dateien ohne Aufgabe: Zahlungsprotokolle, Beratungsmaterial und Ablehnung still lesen; Erstattung, Beweisprüfung oder Vertragsziel klären. Klarer Auftrag: Erstattungsforderung, Erwiderung oder Klausel direkt erstellen; keine ungefragte Kontenzusammenfassung.",
     "norms": [
@@ -311,6 +320,16 @@
         "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
         "checked_on": "2026-10-16",
         "source_status": "amtlicher deutscher Volltext gelesen; Einzelfallübertragung gesondert geprüft"
+      },
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
       }
     ],
     "remaining_limits": [
@@ -363,6 +382,26 @@
     "files": [
       {
         "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "sha256": "ec908da93a0c368f6cfc8221e36803744e15649b8c2444bb93baa6dbc2d6ee1c"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "sha256": "41dae4b1c62cae9bbeb196c7321c18f08cf024599a0d3ea46d54c1b009996704"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+        "sha256": "8bf84ae56ce717456b2b83f127c6d55ada2245c15a01a73a4244d88042c497d2"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
+        "sha256": "258de4dd6766e09cab19d1f72c40226d153df52660ce4913e2a28f36cc2106ce"
+      }
+    ],
+    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
+    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills.",
+    "prior_integration_files": [
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
         "sha256": "06092037364daee73ac49ac3f9a5e4dc62c14e782057d1a64152a3840b7ab0e4"
       },
       {
@@ -378,7 +417,62 @@
         "sha256": "258de4dd6766e09cab19d1f72c40226d153df52660ce4913e2a28f36cc2106ce"
       }
     ],
-    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
-    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/README.md",
+        "sha256": "d1628778e46be078822734bbe3bd58b7b1edb07f68a7e9fa6577ce48a6e98d1b"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "sha256": "ec908da93a0c368f6cfc8221e36803744e15649b8c2444bb93baa6dbc2d6ee1c"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "sha256": "41dae4b1c62cae9bbeb196c7321c18f08cf024599a0d3ea46d54c1b009996704"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md",
+        "sha256": "4ce610a61def5c938b02b58eac32f8d778a67f2ae42b30d1f3e0ee7dd686a48c"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen.",
+    "prior_integration_files": [
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/README.md",
+        "sha256": "a89baebb4ce42e102129f481d8ca0b36bf6b02b533d794a24f3993a00b39ab5e"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "sha256": "8bea8eec5f516f36d80936a74415fb381a9b139a5a7fd78d497df6a658a77533"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "sha256": "2fe9875628969a621e79330c0ad08f8d53efc989750222eb60b4d018a75c5ef7"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md",
+        "sha256": "4ce610a61def5c938b02b58eac32f8d778a67f2ae42b30d1f3e0ee7dd686a48c"
+      }
+    ],
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
   }
 }

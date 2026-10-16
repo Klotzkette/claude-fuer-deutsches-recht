@@ -4,7 +4,7 @@ Kläre aus Personenstand, Verfügung und Nachlassbelegen die Erbenstellung, Pfli
 
 ## 1.1. Direkt zum Auftrag
 
-Lies tragende Urkunden samt Anlagen. Frage nur nach entscheidenden Lücken; ein Gutachten verlangt keinen ungefragten Klageentwurf. Optionale Dateien sind nicht vorausgesetzt.
+Lies Urkunden samt Anlagen. Frage nur nach entscheidenden Lücken; ein Gutachten verlangt keine ungefragte Klage. Optionale Dateien sind nicht vorausgesetzt.
 
 ## 1.2. Frist, Rolle und Status
 
@@ -34,9 +34,9 @@ Für den Pflichtteil gesetzliche Quote, Pflichtteilsquote, bereinigten Nachlass 
 
 Vorliegendes Verzeichnis mit Todestagsbelegen abgleichen: Depot und Verkaufserlös nicht doppelt zählen, spätere Kontosalden nur belegt zurückrechnen. Bestandslücke, fehlende Eigenrecherche, Wertfrage und Sorgfaltszweifel trennen. Ergänzung, Wertermittlung und Versicherung sind unterschiedliche Wege; Paragraf 2314 BGB gewährt keinen pauschalen Anspruch auf alle Einzelbelege.
 
-Verhindert der Erbe durch verweigerte Zustimmung eine konkrete Bankermittlung des Notars, begründe die gezielte Ergänzung mit BGH, Urteil vom 20.05.2020 - IV ZR 193/19, Randnummern 8 bis 11 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)). Benenne die ausgelassene Bankverbindung und benötigte Mitwirkung. Bloße Richtigkeitszweifel rechtfertigen kein beliebig neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand/Wert: Paragraf 2311, Quote: Paragraf 2303 BGB. Bei privatem Auskunftstitel Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand belegen: [BGH, Beschluss vom 16.09.2026, IV ZB 4/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1), Rn. 5–12. Die dortigen 600 Euro beruhen auf Übergangsrecht, kein aktueller Pauschalwert.
+Verweigerte Bankzustimmung: Gezielte Ergänzung nach BGH, Urteil vom 20.05.2020, IV ZR 193/19, Rn. 8–11 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2019/IV_ZR_193-19.pdf?__blob=publicationFile&v=1)); Bank und Mitwirkung benennen. Bloße Zweifel tragen kein neues Verzeichnis; Paragraf 260 Absatz 2 BGB gesondert prüfen. Bestand/Wert: Paragraf 2311, Quote: Paragraf 2303 BGB. Private Auskunft: Schuldnerbeschwer nach notwendigem Zeit-/Kostenaufwand, [BGH, Beschluss vom 16.09.2026, IV ZB 4/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2026/IV_ZB___4-26.pdf?__blob=publicationFile&v=1), Rn. 5–12. 600 Euro dort nach Übergangsrecht, keine aktuelle Pauschale.
 
-Für die Ergänzungsrechnung Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage erfassen. Nach sechs vollen Jahren verbleiben bei laufender Frist 40 Prozent. Ehegattenschenkung und vorbehaltenen Genuss gesondert prüfen. Beschenktenhaftung hat eigene Subsidiarität und Verjährung. Bei späterer Vaterschaftsfeststellung Entstehung, Ausübungssperre und Kenntnis trennen.
+Ergänzung: Vollzug, Gegenleistung, Nutzungsrecht und beide Wertstichtage prüfen; nach sechs vollen Jahren laufender Frist 40 Prozent. Ehegattenregel bleibt gesondert. [BGH, Urteil vom 24.06.2026, IV ZR 141/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1), Rn. 10–25: Leibrente samt Reallast hindert den Fristbeginn nicht, anders als fortbestehende Grundstücksherrschaft. Unentgeltlicher Rentenverzicht: eigene Schenkung; Urkunde anfordern, Wert und Frist separat rechnen. Grundstücksbewertungsantrag erfasst nicht automatisch den Verzicht. Beschenktenhaftung: eigene Subsidiarität und Verjährung. Bei späterer Vaterschaft Entstehung, Ausübungssperre und Kenntnis trennen.
 
 ### 1.3.4. Bestand, Verwaltung und Vergleich
 
@@ -46,17 +46,17 @@ Für die Erbengemeinschaft Verwaltungsentscheidung oder vollständigen Teilungsp
 
 ### 1.3.5. Digitales, Unternehmen und Steuer
 
-Digitale Konten erfordern vertraglichen Zugangsanspruch und Sicherung; Kryptowerte zusätzlich technische Zugriffs- und Steuerprüfung. Keine privaten Schlüssel in Chat oder Testament, keine Transaktion ohne Freigabe. Unzugänglichkeit bedeutet nicht automatisch null Wert.
+Digitale Konten: Zugangsanspruch und Sicherung; Krypto zusätzlich Zugriffs- und Steuerprüfung. Keine privaten Schlüssel in Chat oder Testament, Transaktion nur mit Freigabe. Unzugänglich bedeutet nicht wertlos.
 
-Unternehmensnachfolge stimmt Verfügung, Gesellschaftsvertrag, Führung und Liquidität ab. Bei der Erbschaftsteuer Erwerbsanzeige und angeforderte Erklärung trennen. Liegt ein Bescheid vor, unmittelbar den statthaften Angriff prüfen: Grundlagen- und Folgebescheid, Einspruch, Klage, Aussetzung und Ruhen unterscheiden.
+Unternehmensnachfolge: Verfügung, Gesellschaftsvertrag, Führung und Liquidität abstimmen. Steueranzeige und angeforderte Erklärung trennen. Bei Bescheid statthaften Angriff prüfen: Grundlagen-/Folgebescheid, Einspruch, Klage, Aussetzung und Ruhen unterscheiden.
 
 ## 1.4. Beweise und Quellen
 
 Tragende Aussagen mit Normfassung, Aktenfund und Entscheidungsnachweis belegen. Behauptung, Indiz und Schluss trennen; Gegenargument und Nachweislücke benennen. Werte mit Stichtag und Methode belegen.
 
-Todestagssalden, Buchungen oder Nutzungsrechte gezielt nachfordern; danach Rechnung und Entwurf abschließen. Neue Lücken fragen, unabhängige Teile vorläufig liefern.
+Fehlende Salden, Buchungen oder Rechte nachfordern, dann Rechnung und Entwurf abschließen. Neue Lücken klären, unabhängige Teile vorläufig liefern.
 
-Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und Normfassung; keine erfundene Literatur oder Volltextprüfung.
+Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und Normfassung; keine erfundenen Nachweise.
 
 ## 1.5. Dokument und Abschluss
 

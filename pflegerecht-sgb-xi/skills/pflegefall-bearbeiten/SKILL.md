@@ -39,7 +39,7 @@ Lies zuerst Auftrag, Bescheid, Gutachten, Vollmacht und einschlägige Rechnungen
 
 [Zitierweise](../../references/zitierweise.md) und [Rechtsstand](../../references/rechtsstand-und-quellen.md). BSG vom 05.03.2026, B 3 P 5/24 R, nur bei Einstufung verwenden; das Urteil ist kein allgemeiner Leistungsanspruch. Bei Wohnumfeldtechnik BSG vom 30.11.2023, B 3 P 5/22 R, mit seiner Abgrenzung zur Krankenversicherung prüfen.
 
-Aktualitätsstand 30.09.2026: Corona-Erstattungen von Einrichtungen zu B 3 P 1/25 R an den Einrichtungsskill, unbezahlte Ersatzpflege nach Tod zu L 6 P 10/25 an den Ersatzpflegeskill und S1-Sachleistungsaushilfe zu B 3 P 8/23 R an Versicherungs- und häuslichen Leistungsskill geben. Nur die passende Fallkarte lesen. B 3 P 2/25 R und B 3 P 3/25 R sind zum Stichtag angekündigte Verfahren, keine Urteile. Vor späterer Anwendung amtlichen Status prüfen; den vorhandenen Arbeitsstand dabei fortsetzen.
+Quellenstand 30.09.2026 für Corona-Erstattungen zu B 3 P 1/25 R, Ersatzpflege nach Tod zu L 6 P 10/25 und S1-Sachleistungsaushilfe zu B 3 P 8/23 R beibehalten; nur die passende Fallkarte lesen. Ergänzend wurden am 16.10.2026 die amtlichen Terminberichte vom 01.10.2026 gelesen: B 3 P 2/25 R an häuslichen Leistungs- oder Einrichtungsskill für Preisgrenze und gesonderte Investitionskosten; B 3 P 3/25 R an Heimkostenskill für Vertragswechsel und Vorbezugsmonate. Kein geprüfter Urteilsvolltext dieser beiden Verfahren; vorhandenen Arbeitsstand fortsetzen und vor tragender Verwendung nach Gründen suchen.
 
 ## 5. Ausgabeformat
 

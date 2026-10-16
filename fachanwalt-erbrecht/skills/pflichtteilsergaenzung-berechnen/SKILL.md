@@ -17,7 +17,7 @@ Erbfall und Pflichtteilsquote, Nachlassrechnung, Schenkungsverträge und Vollzug
 
 1. Jede Zuwendung mit Vertrags- und Leistungsdatum, Gegenstand, Empfänger und unentgeltlichem Anteil erfassen. Grundstück, Konto, Versicherung und Gesellschaftsanteil benötigen ihren jeweiligen Vollzugsnachweis.
 
-2. Wirtschaftliche Ausgliederung prüfen. Uneingeschränkter Nießbrauch kann den Fristbeginn verhindern; Wohnungsrecht verlangt eine konkrete Prüfung von Umfang und Genussverlust.
+2. Ausgliederung und verbleibende Herrschaft prüfen. Uneingeschränkter Nießbrauch kann den Fristbeginn verhindern; Wohnungsrecht verlangt eine Prüfung von Umfang und Genussverlust. Leibrente samt Reallast nicht damit gleichsetzen: BGH, Urteil vom 24.06.2026, IV ZR 141/25, Rn. 10 bis 25, unterscheidet Zahlungsanspruch und fortbestehende Grundstücksnutzung. Ein späterer unentgeltlicher Rentenverzicht ist eine eigene Schenkung mit eigenem Leistungsdatum, Wert und darauf gerichtetem Wertermittlungsbegehren. Den amtlichen Nachweis und die Grenze des entschiedenen Antrags in der Bewertungsreferenz lesen.
 
 3. Ehegattenregel und vollständig verstrichene Jahresabschnitte anwenden. Keine Kalendermonats- oder Jahreszahldifferenz als Ersatz für Stichtagsrechnung.
 

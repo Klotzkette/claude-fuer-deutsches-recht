@@ -70,9 +70,7 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsreleas
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-<a id="alle-skills-im-überblick"></a>
-
-## 12. Alle Skills im Überblick
+## Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

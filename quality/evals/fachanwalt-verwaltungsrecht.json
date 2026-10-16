@@ -88,20 +88,27 @@
       "url": "https://www.bverwg.de/230226B8B27.25.0",
       "checked_on": "2026-10-01",
       "supports": "Presseförderung nach Inhaltsneutralität und Verlagswettbewerb prüfen; gezielter Eingriff in Drittgrundrechte verlangt spezielle gesetzliche Ermächtigung. Grenze: Nichtzulassungsbeschwerde, kein allgemeiner materieller Freibrief für Subventionen; Grundrechtseingriff und Empfänger-/Konkurrentenrolle fallbezogen."
+    },
+    {
+      "url": "https://www.bverwg.de/280726B4BN36.25.0",
+      "checked_on": "2026-10-16",
+      "supports": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen. Grenze: Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+      "verification_status": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini prüft Bescheid oder Leistungsanspruch; bei Förderung werden Bereitstellungszweck und Jahresfrist einschließlich Anhörungsantwort konkret angewandt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Rechnung betrifft nächsten Förderzeitraum oder Vollzug ist bereits erfolgt -> Kostenzuordnung beziehungsweise Schutzbegehren ändern und Gegenrechnung oder Antrag fortschreiben. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
     "changes": [
       "Bescheidbestand oder geschuldete Behördenentscheidung prüfen; Fördermittel anhand konkreter Kürzung, Zweckbindung und Berechnung verteidigen.",
       "Entscheidung in alle drei Prompts und Fokus-Skill mit tatsächlicher Erfolgsbegründung und genauer Fristauslösung eingebunden.",
       "Kostenkürzung nicht mit stets erforderlichem Teilwiderruf gleichgesetzt; Aussetzungsantrag bei Abgaben um Paragraf 80 Absatz 6 VwGO ergänzt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25"
     ],
-    "sha256": "b3fb4ca5f9a8c3e99c641b0a6fdbdf8b64f4b15d69810ad80c3fd402fbb3c865",
+    "sha256": "5756a02dd177086daf702342f0949184e0bd32621af0e8bfc1f8038daf598fbd",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -174,16 +181,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt beseitigt doppelte Normenlisten und die falsche Beschränkung anwaltlicher Beratung; Fördermittel, Vorverfahren und Aussetzung werden präzisiert, die besonderen Fachwege bleiben erhalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
     "changes": [
       "Werkstatt von doppelten Normenlisten, Aktenzeichenfragment und falscher Beschränkung anwaltlicher Beratung bereinigt; Fachzweige erhalten.",
       "Entscheidung in alle drei Prompts und Fokus-Skill mit tatsächlicher Erfolgsbegründung und genauer Fristauslösung eingebunden.",
       "Kostenkürzung nicht mit stets erforderlichem Teilwiderruf gleichgesetzt; Aussetzungsantrag bei Abgaben um Paragraf 80 Absatz 6 VwGO ergänzt.",
       "Regelung gegenüber Erläuterung, tatsächlicher Vollzug und Zugang, Finanzierungsart und zeitliche Förderklausel, Bereitstellung gegenüber Nutzung, rechnerische Differenz gegenüber Aufhebung sowie spruchreifes Begehren und Vergleichsfolgen.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Antrag und gewünschtes Dokument eröffnen die Arbeit; Förderzweck, Teilnahme und Kenntnis je Widerrufsgrund werden getrennt erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25"
     ],
-    "sha256": "1cc6eff1bd62b9fce53adc159701c1c70272ecfe9131781703b38fac236f02a1",
+    "sha256": "8e6d3cca14a50f4aa0c667f627f1b995b153b7f44c920e793209424fc9f897dc",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
@@ -231,6 +239,18 @@
         "application": "Presseförderung nach Inhaltsneutralität und Verlagswettbewerb prüfen; gezielter Eingriff in Drittgrundrechte verlangt spezielle gesetzliche Ermächtigung.",
         "limit": "Nichtzulassungsbeschwerde, kein allgemeiner materieller Freibrief für Subventionen; Grundrechtseingriff und Empfänger-/Konkurrentenrolle fallbezogen.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25",
+        "url": "https://www.bverwg.de/280726B4BN36.25.0",
+        "application": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen.",
+        "limit": "Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
+        "source_status": "official_full_text",
+        "paragraphs": "5-20"
       }
     ],
     "remaining_limits": [
@@ -286,5 +306,36 @@
     ],
     "focus_scope": "Hauptproblem Zweckwiderruf und Gegenrechnung bleibt bei 8 C 11.21. Gebietsauswahl bei Gewährung sowie Presseförderung ersetzen keinen Widerrufstatbestand.",
     "new_model_tests": false
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25",
+        "url": "https://www.bverwg.de/280726B4BN36.25.0",
+        "application": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen.",
+        "limit": "Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
+        "source_status": "official_full_text",
+        "paragraphs": "5-20"
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+        "sha256": "5756a02dd177086daf702342f0949184e0bd32621af0e8bfc1f8038daf598fbd"
+      },
+      {
+        "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+        "sha256": "8e6d3cca14a50f4aa0c667f627f1b995b153b7f44c920e793209424fc9f897dc"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

@@ -83,26 +83,33 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2016/XI_ZR_309-16.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Kopf, Rn. 1–23; tragend11–20. Umfassendes Bank-Aufrechnungsverbot gegenüber Verbrauchern unwirksam, weil es Widerrufsrückabwicklung erfasst; §309Nr3 genügt nicht allein. Grenze: Konkrete Sparkassenklausel und damaliges Widerrufsrecht; keine pauschale Gleichsetzung aller B2B-Klauseln."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+      "checked_on": "2026-10-16",
+      "supports": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter. Grenze: Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
+      "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakten Klauselauftrag vollständig gelesen und auf Preis-, Haftungs-, Laufzeit- und Stornobelastung konkretisiert. Klauselausfall führt zu Restwortlaut und Ersatzrecht statt automatischer Reparatur. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktionelle Anschlussprüfung 16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Gezielte Quellenvertiefung: Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren.",
     "changes": [
       "Schadenspauschale an gewöhnlichen Schaden und ausdrücklichen Gegenbeweis geknüpft.",
       "III ZR 426/23 mit Teilbarkeitsfolge und Grenzen in den eigenständigen Mini aufgenommen.",
       "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten. Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen. Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten.",
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
       "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
-      "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt."
+      "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
     ],
-    "sha256": "3f4c57753332475fd6e643a12954144af5d1902994b79515fa4125119c6a6f76",
+    "sha256": "cbb273977ebbddf3caaf91be840227ce0d02b874c9adb8b85d538a2e5cef996f",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle 13 Abschnitte einschließlich Einbeziehung, Gestaltung, digitaler Schäden, Vertragsumstellung und Auslandsbezug gelesen. Bereits detaillierte Fachwege erhalten; Transparenz und Teilbarkeit anhand amtlicher Entscheidungsgründe präzisiert. Kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung im zweiten Durchgang am 30.09.2026; keine erneute Vollprüfung aller Altanker. Redaktionelle Anschlussprüfung 16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Gezielte Quellenvertiefung: Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren.",
     "changes": [
       "Konkreter Einstieg mit Vertragsfassung, Kundenbelastung und Ausfallfolge.",
       "Zu weite Randnummernangabe zur Teilbarkeit auf Rn. 46 und 50 korrigiert; offene Vertreterklausel nicht als bestätigt behandelt.",
@@ -110,9 +117,10 @@
       "Storno im Alt- und Neufall, Haftungsdeckel bei Schadenshäufung und widersprochene Vertragsumstellung mit vollständigen Textfolgen.",
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
       "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
-      "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt."
+      "16.10.2026: Klauselbelastung und Ausfallfolge vor die Prüfanweisung gestellt; nur echte doppelte Titelnummer entfernt.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 01.10.2026, III ZR 205/25"
     ],
-    "sha256": "b781ff3f95ad40bdda173ce85ccd8ed1c78b06ef8dc544c111bfbfb4ebe0b5f3",
+    "sha256": "3be923ba1fb4442b0df3e68fa93edab217c1f7d7a3d8a25c5d0d722e1a63b440",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
@@ -178,7 +186,8 @@
       "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
       "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
       "agb-recht-pruefer/README.md",
-      "quality/evals/agb-recht-pruefer.json"
+      "quality/evals/agb-recht-pruefer.json",
+      "agb-recht-pruefer/skills/preisanpassung-klausel/SKILL.md"
     ],
     "opening_change": "Klauselinhalt und konkrete Kundenbelastung vor abstraktem Prüfauftrag; Rechtsfolge des Ausfalls und Altbestand ausdrücklich benannt.",
     "norms": [
@@ -240,6 +249,16 @@
         "limit": "Konkrete Sparkassenklausel und damaliges Widerrufsrecht; keine pauschale Gleichsetzung aller B2B-Klauseln.",
         "checked_on": "2026-10-01",
         "verification": "fresh_primary_passages"
+      },
+      {
+        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+        "application": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+        "limit": "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren."
       }
     ],
     "remaining_limits": [
@@ -279,5 +298,42 @@
         "anchor_or_exception": "Paragrafen 305 bis 310 BGB; BGH 13.03.2025 III ZR 426/23 Rn. 46, 50: selbständigen Restwortlaut prüfen, keine geltungserhaltende Neufassung oder allgemeine Übertragung des Krankenhausfalls."
       }
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+        "application": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+        "limit": "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "agb-recht-pruefer/README.md",
+        "sha256": "64f417c4a59abf1bcc4584368b1222c30872ff50d25164092593b4649ff517ec"
+      },
+      {
+        "path": "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+        "sha256": "cbb273977ebbddf3caaf91be840227ce0d02b874c9adb8b85d538a2e5cef996f"
+      },
+      {
+        "path": "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+        "sha256": "3be923ba1fb4442b0df3e68fa93edab217c1f7d7a3d8a25c5d0d722e1a63b440"
+      },
+      {
+        "path": "agb-recht-pruefer/skills/preisanpassung-klausel/SKILL.md",
+        "sha256": "375903d666fafc31d18b5b7383789dd5f4db11cd4694edc291de3f32fa300535"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

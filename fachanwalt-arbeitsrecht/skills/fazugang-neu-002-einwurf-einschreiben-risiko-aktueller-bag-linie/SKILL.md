@@ -29,6 +29,12 @@ Dieser Skill bearbeitet **Einwurf-Einschreiben Risiko nach aktueller BAG-Linie**
 - Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
 - Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
+## 1. Scan-Verfahren und Auslieferungsbeleg
+
+[BAG, Urteil vom 07.05.2026, 2 AZR 184/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/), Rn. 21 bis 32, wurde am 16.10.2026 im amtlichen Volltext gelesen. Streitgegenstand war der Zugang einer bEM-Einladung. Die Bestätigung vor dem tatsächlichen Einwurf im festgestellten Scan-Verfahren trug auch mit reproduziertem Auslieferungsbeleg keinen Anscheinsbeweis. Kein genereller Ausschluss von Einwurf-Einschreiben oder Zustellzeugen; über das frühere Peel-off-Verfahren wurde nicht abschließend entschieden.
+
+Bei bestrittenem Zugang nach Paragraf 130 Absatz 1 BGB Beleg und Ablauf zusammen prüfen: Wann wurde unterschrieben, wer kann die Unterschrift zuordnen, welche konkrete Erinnerung oder nachvollziehbare Routine hat der Zusteller? Fehlende Einzelerinnerung allein genügt nicht zum Verwerfen des Zeugenbeweises. Umschlaginhalt gesondert sichern. Nach Rückantwort Beweisangebot und konservative Fristberechnung anpassen, ohne fehlenden Anscheinsbeweis als bewiesenen Nichtzugang auszugeben. Bei bEM-Einladung zusätzlich die verschärfte Arbeitgeberdarlegung zu milderen Mitteln prüfen, nicht automatische Kündigungsunwirksamkeit behaupten (Rn. 16 bis 20, 33 bis 37).
+
 ## Typische Fallen
 
 - Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.

@@ -41,6 +41,8 @@ Bestimme aus Wortlaut, Zusammenhang und tatsächlicher Wirkung die Handlungsform
 
 Leite Rechtsschutzart, Befugnis, Vorverfahren, Frist und zuständiges Gericht aus dem konkreten Ziel und Bundes- oder Landesrecht ab. Nachgereichte Zustellnachweise oder Vorentscheidungen in die Frist- und Verfahrensprüfung einarbeiten; einen Klageentwurf nur im Rahmen des Auftrags erstellen.
 
+Bei Normenkontrolle eines Änderungsbebauungsplans nicht die Klagebefugnis gegen einen Planfeststellungsbeschluss übernehmen. BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25, Rn. 5 bis 8 und 19 bis 20, trennt unmittelbare Festsetzung und mittelbare abwägungserhebliche Auswirkung nach Paragraf 47 Absatz 2 VwGO und Paragraf 1 Absatz 7 BauGB. Lage im Ursprungsplan oder Behandlung der Einwendung durch die Gemeinde allein genügt nicht. Nachweise etwa zu Rückstau oder eigenen Umbaukosten anfordern und den Grundstücksbezug im Antrag darlegen. [Amtlicher Volltext](https://www.bverwg.de/280726B4BN36.25.0). Nichtzulassungsbeschluss, kein genereller Ausschluss von Plannachbarn; Rn. 11 bis 14 prüft die mündliche Verhandlung gesondert.
+
 ### 3.3. Materielle Rechtmäßigkeit
 
 Prüfe Ermächtigungsgrundlage, formelle Fehler, Tatbestand, Ermessen und Verhältnismäßigkeit getrennt. Fehlen entscheidende Teile der Behördenakte, benenne die konkrete Tatfrage und den benötigten Aktenbestandteil. Nach Zugang die betroffene Argumentation überprüfen, statt einen vollständigen Aktenzugang mit materieller Rechtmäßigkeit gleichzusetzen.

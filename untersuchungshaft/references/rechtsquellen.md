@@ -48,7 +48,16 @@ Die folgenden neun BVerfG-Beschlüsse wurden am 16.10.2026 im amtlichen Volltext
 
 BGH, Beschluss vom 03.04.2025, StB 8/25, Rn. 4 bis 11: [Volltext bei anwalt24](https://www.anwalt24.de/urteile/bgh/2025-04-03/stb-8_25), [weitere Fassung bei HRRS](https://www.hrr-strafrecht.de/hrr/2/25/stb-8-25.pdf). Der Untersuchungshaftbefehl erledigt sich mit rechtskräftiger Verurteilung auch bei vorheriger Außervollzugsetzung. Die isolierte Fortgeltung von Anweisungen nach Paragraf 116 Absatz 1 ließ der Senat dagegen ausdrücklich offen. Aus diesem Beschluss keine automatische Freigabe von Sicherheit oder Erlaubnis zur Missachtung von Meldeauflagen ableiten.
 
-Quellenstatus: zwei abgeglichene Sekundärvolltexte; der alte amtliche PDF-Link führte beim Abruf auf eine allgemeine Entscheidungsübersicht, nicht auf den Beschluss. Vor tragender Verwendung amtlich anhand ECLI:DE:BGH:2025:030425BSTB8.25.0 nachprüfen. Paragraf 123 StPO, etwaige spätere Änderungen und zuständiges Gericht eigenständig kontrollieren. Insgesamt enthält die Auswahl dreizehn Entscheidungen; die beiden verbundenen Verfahren vom 05.02.2025 zählen als eine Entscheidung.
+Quellenstatus: zwei abgeglichene Sekundärvolltexte; der alte amtliche PDF-Link führte beim Abruf auf eine allgemeine Entscheidungsübersicht, nicht auf den Beschluss. Vor tragender Verwendung amtlich anhand ECLI:DE:BGH:2025:030425BSTB8.25.0 nachprüfen. Paragraf 123 StPO, etwaige spätere Änderungen und zuständiges Gericht eigenständig kontrollieren. Einschließlich der beiden folgenden BGH-Beschlüsse umfasst das Register fünfzehn Entscheidungen; die beiden verbundenen Verfahren vom 05.02.2025 zählen als eine Entscheidung.
+
+### 1.3.3. Zwei zusätzlich amtlich gelesene Haftentscheidungen
+
+Gezielter Volltextabgleich vom 16.10.2026, keine Neudatierung der übrigen Quellen: Beide folgenden Original-PDFs wurden nach fehlgeschlagenem Webabruf unmittelbar vom Bundesgerichtshof geladen und vollständig gelesen, einschließlich Kopf, Tenor und Gründen. Damit umfasst diese Auswahl fünfzehn Entscheidungen.
+
+| Entscheidung und Original | Bedeutung für den Arbeitsweg | Aussagegrenze |
+| --- | --- | --- |
+| [BGH, Beschluss vom 09.09.2026, AK 46/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1), Rn. 6, 10 bis 24 | Eröffnungsreife, Nachermittlungsfristen, angebotene Verteidigertermine, Gerichtsauslastung und mögliche Kompensation prüfen. Trotz unveränderter übriger Haftvoraussetzungen Aufhebung wegen zurechenbarer Verzögerung; Entlassung in dieser Sache. | Einzelfall des Zwischenverfahrens; keine kalendarische Neun- oder Zehnmonatsgrenze, keine bloße Quotenrechnung. Andere Hafttitel gesondert. |
+| [BGH, Beschluss vom 05.02.2026, StB 3/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1), Rn. 8 bis 11 | Ablauf einer Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 StPO getrennt vom Ruhen nach Paragraf 121 Absatz 3 ermitteln. Nach Ablauf Vorlage an das wieder zuständige höhere Gericht. | Bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit des parallelen Aufhebungsantrags während besonderer Prüfung. Nach Fortdauerentscheidung Gegenstandslosigkeit; kein Entlassungstenor. |
 
 ## 1.4. Landesrecht und Vollzug
 

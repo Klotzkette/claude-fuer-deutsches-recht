@@ -1,79 +1,52 @@
 ---
 name: gestaltender-teil
-description: "Für Gestaltender Teil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Formuliert bestimmte Rechtsänderungen im Insolvenz- oder Restrukturierungsplan. Prüft bei Planabtretungen gesondert Übertragungsgrund, Treuhandauftrag und Vergütung sowie die Grenzen möglicher Mandatsnichtigkeit."
 ---
 
-# Gestaltender Teil
+# Gestaltenden Plantext und Forderungsübertragung prüfen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Erstelle oder prüfe den beauftragten gestaltenden Teil. Jede Rechtsänderung braucht betroffene Position, Inhaber, Betrag oder Berechnung, Zeitpunkt, Bedingung und Rechtsfolge. Sanierungsziel und Darstellung ersetzen die operative Planklausel nicht. Insolvenzplan und StaRUG-Plan bleiben unterschiedliche Verfahren.
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gestaltender Teil` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 2. Eingaben
 
-## Startet bei
+Lies Planfassung, Forderungs-/Sicherheitenübersicht, Gruppen, Finanzierung, Vergleichsrechnung und Anlagen. Bei Treuhand oder Forderungseinzug zusätzlich vollständigen Plantext, Bestätigungs- und Rechtskraftnachweis, Abtretungserklärungen samt Rechtsgrund, Treuhand-/Inkassoauftrag und Vergütungsvereinbarung anfordern, soweit sie fehlen. Rolle, Vorbefassung und zeitliche Abfolge von Bestellung, Mandat und Abtretung feststellen.
 
-- neuem Planmandat oder Sanierungsprojekt
-- unvollständiger Datenlage
-- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
-- Prüfung eines vorhandenen Planentwurfs
+## 3. Ablauf
 
-## Geführter Workflow
+### 3.1. Rechtsänderung und Vollzug bestimmen
 
-1. Jede Rechtsänderung je Gruppe, Klasse oder Beteiligtem konkret fassen.
-2. Quoten, Fälligkeiten, Stundungen, Erlasse, Sicherheitenänderungen und Planbedingungen bestimmen.
-3. Dritte, Investoren, Treuhänder, Vollmachten und Umsetzungsakte sauber trennen.
-4. Vollstreckbarkeit, Bestimmtheit und Vermeidung unzulässiger Pauschalklauseln prüfen.
+Verfahrensart und Gestaltbarkeit nach Paragrafen 217 ff. InsO beziehungsweise Paragrafen 2 ff. StaRUG prüfen. Kürzung, Stundung, Erlass, Sicherheitenänderung und Planbedingungen je Rechtsposition formulieren. Gruppen und Gleichbehandlung mit dem tatsächlichen Eingriff abgleichen; keine Eingriffsbefugnis allein aus einer Mehrheitsprognose ableiten.
 
-## Ausgabe
+Drittzusagen, Treuhänder, Vollmachten und notwendige Umsetzungsakte getrennt erfassen. Bestimmtheit, Vollstreckbarkeit und Form prüfen. Zahlen und Zahlungstermine mit Finanzierung und maßgeblicher Vergleichsalternative abstimmen; nicht stets Liquidation als einzige Alternative unterstellen. Bestehende Arbeitsergebnisse verwenden, keine ungefragte neue Krisenaufnahme.
 
-- Gestaltender Teil
-- Klauselmatrix
-- Vollstreckbarkeitscheck
-- Umsetzungsliste
+### 3.2. Planabtretung ist nicht gleich Inkassomandat
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+[BGH, Beschluss vom 16.07.2026 - Az. IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1), amtlicher Volltext Rn. 8 bis 18: Der entgeltliche Einziehungsauftrag an den Sachwalter oder seine Berufsausübungsgesellschaft kann wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit unwirksam sein. Ob dies im Streitfall zutraf, blieb offen. Die dortige Abtretung im gestaltenden Insolvenzplanteil wurde davon nicht erfasst.
 
-## Qualitätsgates
+Entscheidend waren getrennte Grundlagen: Der Auftrag vermittelte keinen Anspruch auf Abtretung; die Zession erfolgte nicht zu dessen Erfüllung. Sie diente der Realisierung von Mitteln für planberechtigte Gläubiger unter einem Besserungsschein und war nicht für sich insolvenzzweckwidrig (Rn. 17 und 18, Paragraf 228 InsO). Eine InsVV-orientierte Vergütung war damit nicht automatisch wirksam.
 
-- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
-- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
-- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
-- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+Prüfe das Gegenbild aus Rn. 16: Eine insolvenzzweckwidrige Verpflichtung kann auch das zu ihrer Erfüllung vorgenommene Verfügungsgeschäft erfassen. Außerdem grenzt Rn. 13 eine auf unerlaubte Rechtsdienstleistung zielende Abtretung ab. Keine allgemeine Aussage „Planabtretungen bleiben immer wirksam“ und kein allgemeines Freistellen anwaltlicher Inkassotreuhand.
 
-## Rückfragen
+### 3.3. Nachforderung verändert das Votum
 
-Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+Fehlt der Übertragungsgrund, frage ausdrücklich, ob die Abtretung aus dem gestaltenden Teil folgt oder einen Anspruch aus der Treuhand-/Vergütungsvereinbarung erfüllt. Nach Eingang genau diese Verknüpfung neu bewerten. Paragrafen 134 und 398 BGB, 228 InsO sowie 45 BRAO jeweils anhand der maßgeblichen Handlung und Normfassung prüfen. Die im Beschluss zitierte Nummer 1 nicht ungeprüft als heutigen Tatbestand verwenden; Vorbefassung, Mandatszeitpunkt, Erstreckung auf die Gesellschaft und Übergangsrecht gesondert bestimmen.
 
-## Arbeitsstil
+Liefere nach Auftrag ein getrenntes Votum zu Forderungsinhaberschaft und Mandats-/Vergütungswirksamkeit, eine abgestimmte Planklausel oder die beauftragte Einziehungsverteidigung. Materielle Forderungseinwendungen gesondert behandeln. Aus dem Beschluss über die Nichtzulassungsbeschwerde keine unmittelbar geltende StaRUG-Regel ableiten. Eine wirksame Abtretung ersetzt keine Vergütungsfreigabe und keine Befugnis zur externen Einziehung.
 
-Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+## 4. Quellenpflicht
 
-## Paragrafenkette (Insolvenzplan / StaRUG)
+Amtlicher Volltext IX ZR 71/25 am 16.10.2026 gelesen, Rn. 8 bis 18; ausdrücklich Beschluss, nicht Urteil. Normen zur konkreten Planwirkung und zum Vollzug prüfen, insbesondere [Paragraf 228 InsO](https://www.gesetze-im-internet.de/inso/__228.html) und [Paragraf 45 BRAO](https://www.gesetze-im-internet.de/brao/__45.html). Der heutige Normtext ist kein Nachweis der damals anwendbaren Fassung.
 
-Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
+[Zitierweise](../../../references/zitierweise.md) beachten. Keine ungelesenen Literaturstellen aus dem Beschluss als eigene Nachweise übernehmen. Quellenstatus, Gegenargument und offene Fassungsprüfung getrennt vom Plan- oder Gläubigertext dokumentieren.
 
-## Triage — Plan-Vorarbeiten
+## 5. Ausgabeformat
 
-Bevor losgelegt wird, klaere:
-1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
-2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
-3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
-4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
-5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
+Vollständig ausformulierter gestaltender Teil oder beauftragtes Wirksamkeitsvotum; eine Klauselmatrix und Umsetzungsliste nur als benötigte Ergänzung. Abtretung, Einziehungsbefugnis, Treuhandpflichten und Vergütung müssen als unterschiedliche Rechtsfragen erkennbar bleiben. Kein leerer Klauselrumpf und keine bloße „rechtssichere Abtretung“ als Ergebnis.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen. Times New Roman 11 pt und ausschließlich dezimale Gliederung bei formatierten Dokumenten; sonst separater Exporthinweis. Planvorlage, Gläubigerzusage, Stimmabgabe, Einziehung und Zahlung erst nach konkreter Freigabe.
+
+## 6. Beispiel
+
+Die Kanzlei des Sachwalters soll nach Planbestätigung Forderungen einziehen und nach InsVV vergütet werden. Der Drittschuldner bestreitet allein wegen Paragraf 45 BRAO die Forderungsinhaberschaft. Lies Plan und Vergütungsvertrag, bevor du antwortest. Zeigt der nachgereichte Auftrag einen eigenständigen Abtretungsanspruch, prüfe gerade den möglichen Unterschied zu Rn. 17; weder pauschal abweisen noch ohne Prüfung bezahlen.

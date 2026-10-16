@@ -59,6 +59,12 @@ class GeldwaescheTests(unittest.TestCase):
         self.assertIn('# 1. 2027 im Überblick', dated)
         literal = '```html\n<!-- decimal-anchor --> <a id="example"></a>\n\n```\n'
         self.assertIn(literal, normalize_decimal_headings(OPT_IN + '\n# Title\n\n' + literal))
+        manual = OPT_IN + '\n# Title\n\n<a id="download"></a>\n\n## Download\n'
+        manual_result = normalize_decimal_headings(manual)
+        self.assertEqual(manual_result.count('<a id="download"></a>'), 1)
+        self.assertEqual(normalize_decimal_headings(manual_result), manual_result)
+        stale = manual_result.replace('## 1.1. Download', '<!-- decimal-anchor --> <a id="download"></a>\n\n## 1.1. Download')
+        self.assertEqual(normalize_decimal_headings(stale), manual_result)
         nav = builder('validate-readme-navigation.py')
         self.assertIn('in-30-sekunden-starten', nav.heading_anchors(PLUGIN / 'README.md'))
         self.assertIn('zugeordnete-testakten', nav.heading_anchors(PLUGIN / 'README.md'))

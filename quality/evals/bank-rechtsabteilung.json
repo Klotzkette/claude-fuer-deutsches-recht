@@ -74,20 +74,27 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675e.html",
       "checked_on": "2026-10-16",
       "supports": "Amtlichen Einzelnormtext geöffnet und gelesen. Tatsächliche zulässige Vertragsabweichungen prüfen. Absatz 4 nennt Paragraf 675u nicht; ein Geschäftskonto beseitigt dessen Erstattungsrecht nicht pauschal."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität. Grenze: Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+      "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Zahlungsreklamation beginnt bei Buchung und Freigabeinhalt; der technische Erfolgsnachweis wird nicht mit Zustimmung oder grober Fahrlässigkeit gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+    "reason": "Die Zahlungsreklamation beginnt bei Buchung und Freigabeinhalt; der technische Erfolgsnachweis wird nicht mit Zustimmung oder grober Fahrlässigkeit gleichgesetzt. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest. Gezielte Quellenvertiefung: Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen.",
     "changes": [
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten. Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag. Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten.",
       "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
       "16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung.",
-      "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
+      "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "6c9bf8918b63aa85f7a01e83b01b8e98560d1c5fc5306ad2891f5aa0c1755d18",
+    "sha256": "9e1a8ebe85afd8bb4f63baac8ed1e7d0e17330a2dc79f9cb9a0ea5408352a4bc",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -146,16 +153,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die getrennten Wege für Zahlungsdienste, Kredit, Aufsicht und IKT-Verträge bleiben erhalten; der Entscheidungsanker führt zur konkret anzufordernden Beweiskette. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+    "reason": "Die getrennten Wege für Zahlungsdienste, Kredit, Aufsicht und IKT-Verträge bleiben erhalten; der Entscheidungsanker führt zur konkret anzufordernden Beweiskette. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Redaktionelle Anschlussprüfung 16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung. Keine neue fachliche Vollprüfung oder Live-Ausführung. 2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest. Gezielte Quellenvertiefung: Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen.",
     "changes": [
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
       "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
       "16.10.2026: Bankinterne Entscheidung und Zahlungsreklamation vor allgemeiner Aufgabensammlung.",
-      "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest."
+      "2026-10-16: Bankseitige Erstattungsentscheidung von späterem Regress und Gremienfreigaben trennen; falsche SCA-Beweislastumkehr und Einordnung des Paragrafen 675v als Mitverschulden bei autorisierten Zahlungen korrigieren. Gezielter amtlicher Quellenabgleich und Änderungsreview, keine erneute Gesamtprüfung aller alten Quellen und kein Live-Modelltest.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 10.03.2026, XI ZR 132/24"
     ],
-    "sha256": "99d5c14514baf8f926edd09f4939662d94442ffa6478ccf3186e3e478028678b",
+    "sha256": "83f5187f577b61be3b1bbc2cb743a7d00ee680d376182e2ee2a4fe80b2d04508",
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest.",
     "previous_reviews": [
@@ -186,7 +194,8 @@
       "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
       "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
       "bank-rechtsabteilung/README.md",
-      "quality/evals/bank-rechtsabteilung.json"
+      "quality/evals/bank-rechtsabteilung.json",
+      "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md"
     ],
     "opening_change": "Kontobelastung, Kreditsicherheit und Aufsichtsantwort statt allgemeiner Rechtsabteilungsorganisation.",
     "norms": [
@@ -215,6 +224,16 @@
         "limit": "Trägt nicht: automatische Unautorisiertheit jeder durch Täuschung veranlassten Zahlung, endgültige Haftungsfreiheit des Kunden oder ein im Tenor ausdrücklich entschiedenes allgemeines deutsches Aufrechnungsverbot. Aufrechnung und Verfahrensgestaltung bleiben eigenständig unter Wahrung der unverzüglichen Erstattung zu prüfen.",
         "checked_on": "2026-10-16",
         "source_status": "amtlicher deutscher Volltext gelesen; Einzelfallübertragung gesondert geprüft"
+      },
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
       }
     ],
     "remaining_limits": [
@@ -266,6 +285,18 @@
     "files": [
       {
         "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "9e1a8ebe85afd8bb4f63baac8ed1e7d0e17330a2dc79f9cb9a0ea5408352a4bc"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "83f5187f577b61be3b1bbc2cb743a7d00ee680d376182e2ee2a4fe80b2d04508"
+      }
+    ],
+    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
+    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills.",
+    "prior_integration_files": [
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
         "sha256": "6c9bf8918b63aa85f7a01e83b01b8e98560d1c5fc5306ad2891f5aa0c1755d18"
       },
       {
@@ -273,7 +304,62 @@
         "sha256": "99d5c14514baf8f926edd09f4939662d94442ffa6478ccf3186e3e478028678b"
       }
     ],
-    "model_execution": "Keine neue Live-Modellprüfung durchgeführt. Eval-Szenarien sind Prüfaufträge und Kriterien, keine bestandenen Modellausgaben.",
-    "hash_scope": "Aktuelle Promptdateien und gegebenenfalls Fokus-/Unterlagenskill; bei Commercial Courts nur der konkret geänderte Finance-Skill zusätzlich. Kein Hashinventar noch in Bearbeitung befindlicher weiterer Phishing-Skills."
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
+      }
+    ],
+    "files": [
+      {
+        "path": "bank-rechtsabteilung/README.md",
+        "sha256": "e4313d2be60359d38a0bbf5de0e0e7a00fb30afe7f8ef61a2c74a07e16b1bbcc"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "9e1a8ebe85afd8bb4f63baac8ed1e7d0e17330a2dc79f9cb9a0ea5408352a4bc"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "83f5187f577b61be3b1bbc2cb743a7d00ee680d376182e2ee2a4fe80b2d04508"
+      },
+      {
+        "path": "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "sha256": "49576976bde5eed6415f061b5da941d2a92e9e43a5d39e65e5931e8162c1a603"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen.",
+    "prior_integration_files": [
+      {
+        "path": "bank-rechtsabteilung/README.md",
+        "sha256": "2d929a4dc28d3d8032f59e218dfcc3a8c59879ad55f81f28875a431140f9ac99"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "1e9e29fa4c5f7124854885de01cb8583ce19c9333a6b88dd4aadd63dd3ff688b"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "3d42329a3393ce53321b4da7d137391b0fa39cecea178ffa3c6c52886ba6cc14"
+      },
+      {
+        "path": "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "sha256": "49576976bde5eed6415f061b5da941d2a92e9e43a5d39e65e5931e8162c1a603"
+      }
+    ],
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
   }
 }

@@ -12,6 +12,8 @@ Lies Bescheid samt Anlagen, Rechtsbehelfsbelehrung, Bekanntgabe- oder Zustellnac
 
 Bestimme Ermächtigungsgrundlage, Zuständigkeit, Verfahren, Tatbestand, Ermessen und Verhältnismäßigkeit. Trenne fehlende Anhörung von fehlender materieller Grundlage; Heilung ist nicht pauschal für alle Fehler möglich. Begründe Klageart, Befugnis, Vorverfahren, Gericht und Frist konkret.
 
+Bei Paragraf 47 Absatz 2 VwGO: BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25, Rn. 5 bis 6. Im Änderungsplan eigene Festsetzung oder mittelbare abwägungserhebliche Nachteile belegen; Lage im Ursprungsplan und gemeindliche Einwendungsbehandlung genügen nicht. Kein genereller Ausschluss von Nachbarn.
+
 Bei Eilrechtsschutz zuerst aufschiebende Wirkung und deren Entfallen prüfen. Anordnung und Wiederherstellung nach Paragraf 80 Absatz 5 VwGO von Paragraf 123 VwGO unterscheiden; Anspruch und Eilgrund mit Tatsachen belegen. Sofortvollzug ist Anlass zur Priorisierung, nicht zum Arbeitsabbruch.
 
 Fehlt ein Nachweis zum drohenden Vollzug, frage gezielt nach Terminankündigung und konkreten Folgen. Prüfe nach Eingang die Dringlichkeit und den passenden Antrag erneut und formuliere den bestellten Eilantrag fertig. Entsteht dadurch eine neue entscheidende Frage, etwa zur bereits erfolgten Umsetzung, kläre diese, ohne bekannte Verfahrensdaten erneut abzufragen.

@@ -20,11 +20,13 @@ Unterscheide Zahlung vor Kündigung, spätere Nachzahlung und Schonfristzahlung.
 
 Eine hilfsweise ordentliche Kündigung eigenständig nach Voraussetzungen, Verschulden und Frist prüfen; ihr Erfolg ist nicht durch das bloße Hinzufügen einer Hilfserklärung gesichert. Form, Parteien, Vertretung, Kündigungsbegründung und Zugang belegen. Keine eigenmächtige Räumung oder Änderung der Schlösser als Durchsetzungsweg vorschlagen.
 
-Nach [BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1), heilt die Schonfristzahlung eine ordentliche Kündigung nach Paragraf 573 Absatz 2 Nummer 1 BGB weder unmittelbar noch analog. Dort war sogar nur ordentlich gekündigt worden. Die übrigen Kündigungsvoraussetzungen waren im Revisionsverfahren lediglich unterstellt; der BGH verwies zurück. Leite daraus keine automatisch wirksame ordentliche Kündigung ab: Prüfe die schuldhafte, nicht unerhebliche Pflichtverletzung gesondert und erläutere dem Mieter, dass die Nachzahlung allein diesen Kündigungsgrund nicht beseitigt.
+Nach [BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1), keine unmittelbare oder analoge Schonfristheilung. Dort nur ordentliche Kündigung; übrige Voraussetzungen unterstellt, Zurückverweisung. Schuldhafte, erhebliche Pflichtverletzung gesondert prüfen und die begrenzte Zahlungswirkung erläutern.
 
-Fehlt die Zuordnung einer Zahlung, frage nach Kontoauszug und Verwendungszweck. Nach Eingang aktualisiere den betroffenen Monat, den Kündigungsrückstand und die darauf beruhende Begründung. Ein nachgereichter Überweisungsauftrag beweist nicht ohne Weiteres den Zahlungseingang.
+Fehlt eine Zahlungszuordnung, fordere Kontoauszug und Verwendungszweck an. Danach Monat, Kündigungsrückstand und Begründung aktualisieren. Ein Überweisungsauftrag beweist nicht den Zahlungseingang.
 
-Beispiel: Nachgereichte Zahlung und Mangelanzeige getrennt einarbeiten. Die Zahlung verändert den Saldo am belegten Eingangstag; die Anzeige erfordert eine Prüfung von Zustand und Zeitraum. Berechne den Rückstand bei Kündigung und den späteren Stand gesondert, damit eine aktuelle Null nicht als Beweis fehlenden ursprünglichen Verzugs erscheint.
+Zahlung nach Eingangstag, Mangel nach Zustand und Zeitraum einarbeiten. Rückstand bei Kündigung und späteren Saldo trennen; eine aktuelle Null widerlegt früheren Verzug nicht.
+
+Bei Eigenbedarf und Gesundheit: [BGH, Beschluss vom 01.09.2026, VIII ZR 16/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1), Rn. 21–42. Paragraf 574 BGB verlangt keine völlige Umzugsunfähigkeit. Bei substantiiertem, bestrittenem Gefahrvortrag regelmäßig Gutachten; Arztzeugen ersetzen keine Zukunftsprognose. Attest und erfolglose Wohnungssuche getrennt auswerten, Beweisangebot und Härteabschnitt fortschreiben. Zurückverweisung, kein Dauerbleiberecht; Hilfen und Fortsetzungsbedingungen nach Paragraf 574a BGB abwägen.
 
 ## 1.3. Andere Streitpunkte und Ausgabe
 

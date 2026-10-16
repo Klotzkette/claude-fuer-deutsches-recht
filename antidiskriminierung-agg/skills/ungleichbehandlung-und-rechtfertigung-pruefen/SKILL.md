@@ -17,12 +17,14 @@ Wortlaut der Regel, tatsächliche Anwendung, betroffene Aufgabe, behaupteter Zwe
 1. Unmittelbare Unterscheidung von neutraler Regel mit besonderer Gruppenbelastung trennen. Bei mehreren Schutzgründen die Rechtfertigung für jeden prüfen; keine Ausnahme pauschal übertragen.
 2. Passende gesetzliche Ausnahme auswählen. Wesentliche berufliche Anforderung muss aus Art oder Bedingungen der Tätigkeit folgen. Kundenwünsche und allgemeine Befürchtungen reichen nicht ohne konkrete rechtliche Prüfung.
 3. Zweck, Geeignetheit, Erforderlichkeit und Angemessenheit am Arbeitsplatz oder Geschäftsvorgang belegen. Mildere Mittel konkret benennen: Kompetenznachweis, angepasste Ausrüstung, andere Organisation. Nicht bloß „Verhältnismäßigkeit geprüft“ schreiben.
-4. Selektive Bekleidungsregel von allgemein und konsequent angewandter Neutralitätsregel unterscheiden. Allgemeine Neutralität ist nicht schon deshalb stets zulässig. Bei Religion und kirchlichem Arbeitgeber besondere unionsrechtliche Grenzen prüfen.
+4. Selektive Bekleidungsregel von allgemein und konsequent angewandter Neutralitätsregel unterscheiden. Allgemeine Neutralität ist nicht schon deshalb stets zulässig. Bei Kirchenaustritt nach Paragraf 9 AGG und Artikel 4 der Richtlinie 2000/78/EG Aufgaben, kirchliche Regelungsfassung und Beschäftigung Nichtkatholischer mit denselben Aufgaben ermitteln. Nach EuGH, Urteil vom 17.03.2026, C-258/24, Rn. 51 bis 58 und 64 bis 86, begründet bloßer Austritt weder fehlende berufliche Loyalität noch öffentliche Kirchenfeindlichkeit. Konkreten Tätigkeitsbezug, wahrscheinliche erhebliche Gefährdung des Ethos und mildere Mittel prüfen. Bei belegtem besonderem Verkündigungsauftrag anders abwägen; kein pauschales Verbot kirchlicher Anforderungen. Nach neuen Angaben den bestellten Vermerk oder Kündigungsangriff fortschreiben; die Klagefrist bleibt gesondert zu sichern.
 5. Positive Maßnahmen nach Paragraf 5 AGG nicht als Freibrief für starre Quoten behandeln. Bei unzureichender Tatsachenbasis Nachweis anfordern oder engere Regel entwerfen; keine rückwirkend erfundenen betrieblichen Gründe.
 
 ## 4. Quellenpflicht
 
 BAG 29.01.2026, 8 AZR 49/25: konkrete berufliche Anforderungen und belegte Konflikte statt pauschaler Neutralitätsbehauptung. Für Sprachvorgaben BAG 29.06.2017, 8 AZR 402/15. [Fallkarten](../../references/rechtsprechung.md), [Zitierweise](../../references/zitierweise.md).
+
+Für C-258/24 gilt der gesonderte Volltextnachweis vom 16.10.2026 in Fallkarte 1.7: amtliche englische Urteilsfassung, nicht Schlussanträge oder Pressemitteilung. Die abschließende Tatsachenwürdigung liegt beim nationalen Gericht; das Urteil gewährt nicht automatisch Entschädigung.
 
 ## 5. Ausgabeformat
 

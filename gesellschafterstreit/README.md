@@ -209,6 +209,8 @@ English: Complete list of all 11 skills in this plugin. Both links in each row d
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
 
+<!-- decimal-anchor --> <a id="lesefassungen-und-prüfbericht"></a>
+
 ## 1.13. Lesefassungen und Prüfbericht
 
 [Handbuch der elf Skills](../docs/handbuecher/gesellschafterstreit-skills-handbuch.pdf) und [Werkstatt als PDF](../docs/handbuecher/gesellschafterstreit-werkstatt-lesefassung.pdf) ergänzen die bearbeitbaren MD-/TXT-Fassungen. Der [Prüfbericht](../quality/gesellschafterstreit/README.md) unterscheidet Quellenabgleich, Dateiprüfung und tatsächlich durchgeführte Anwendungsprobe. Ein statischer Test ersetzt keine Prüfung im konkreten Mandat.

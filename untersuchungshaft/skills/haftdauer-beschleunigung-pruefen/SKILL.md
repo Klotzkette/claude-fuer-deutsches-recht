@@ -21,7 +21,13 @@ Erfasse tatsächlichen Vollzug, Haftunterbrechungen, weitere Haftbefehle, diesel
 4. Erstelle eine knappe Chronologie mit Tätigkeit, Dauer, Beleg, Grund der Pause und Verantwortungsbereich. Prüfe Gutachterauftrag, Datenauswertung, Übersetzung, Terminierung, Ausfälle und mögliche Beschleunigungsmaßnahmen. Ordne jede Verzögerung einzeln zu; Verteidigungsrechte nicht als missbräuchliche Verzögerung etikettieren.
 5. Während der Hauptverhandlung tatsächliche Verhandlungsdichte, Dauer und Verfahrensförderung betrachten, keine starre Entlassungsformel aus einer Zahl von Sitzungstagen ableiten. Belastungen, verbleibende Straferwartung und Alternativen nach Paragraf 116 StPO aktualisieren.
 
+### 1.3.1. Eröffnung und Terminangebote abgleichen
+
+Bei verzögertem Zwischenverfahren Eingang der Anklage, Stellungnahmefrist, Eröffnungsreife und noch erforderliche Ermittlungen belegen. Angeforderte Zuarbeit ohne Frist nicht ungeprüft als Hinderungsgrund übernehmen. Angebotenes Terminraster der Verteidigung mit gerichtlichen Festlegungen vergleichen; eine einzelne Verhinderung erklärt keine monatelange Pause. Künftige Verhandlungsdichte und vorbereitetes Selbstleseverfahren auf tatsächliche Kompensation prüfen. Bei zurechenbarer erheblicher Verzögerung Aufhebung nach Paragraf 120 StPO begründen, nicht allein um schnellere Termine bitten.
+
 ## 1.4. Rechtsprechung
+
+BGH, Beschluss vom 09.09.2026, AK 46/26, Rn. 6 und 10 bis 24: Aufhebung und Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen; unbegründet ausbleibende Eröffnung, ungenutzte Terminangebote und längerfristige Überlastung trugen die Fortdauer nicht. Der amtliche Volltext ist in [Rechtsquellen](../../references/rechtsquellen.md) nachgewiesen. Keine feste Neun- oder Zehnmonatsgrenze und keine Übertragung der konkreten Terminlage auf jede Haftsache.
 
 BVerfG, 05.02.2025, 2 BvR 24/25 und 2 BvR 69/25: steigende Anforderungen an Beschleunigung und Begründung mit zunehmender Haftdauer; strukturelle Überlastung darf nicht ohne Weiteres zulasten des Inhaftierten gehen. BGH, 04.08.2026, StB 46/26, bestätigt die einzelfallbezogene Betrachtung auch tatsächlicher Förderung umfangreicher Hauptverhandlungen. Letzterer ist im Quellenverzeichnis als abgeglichene Sekundärvolltextquelle gekennzeichnet; vor Einreichung Originalfundstelle abrufen. Keine Gleichsetzung des Staatsschutzverfahrens mit einer einfachen Alltagssache.
 

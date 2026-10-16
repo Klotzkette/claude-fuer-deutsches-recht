@@ -38,6 +38,12 @@ Sieben-Fragen-Diagnose:
 
 ## Rechtlicher Rahmen
 
+### 1. Medienprivileg vor einer Ablehnung prüfen
+
+Bei personenbezogen durchsuchbaren Urteilsdatenbanken journalistischen Zweck und nationale Ausnahme nach Artikel 85 DSGVO belegen lassen. [EuGH, Urteil vom 09.07.2026, Az. C-199/24, Legal Newsdesk Sweden](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE), Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind entscheidend; Entgelt oder Strafurteilsbezug allein schließen Journalismus nicht aus. Ein Portal für beliebige zahlende Nutzer wird nicht durch mögliche Nutzung durch Journalisten privilegiert. Erforderliche journalistische Recherche vor Veröffentlichung gesondert berücksichtigen.
+
+Fehlen die Voraussetzungen, die betroffenen Anträge insbesondere nach Artikeln 10 und 17 einschließlich Absatz 3 Buchstabe a weiterprüfen. Sind sie belegt, nur die konkret erforderliche nationale Ausnahme anwenden. Rn. 45 bis 51 sichern die DSGVO-Rechtsbehelfe; nicht allein auf Verleumdungsrecht verweisen. Nach redaktionellen Nachweisen die konkrete Sammelantwort berichtigen, keine neue Mandatsaufnahme. Der schwedische Fall spricht keinen automatischen Löschungs- oder Ersatzanspruch zu. [Prüfumfang und Gegenfälle](../../references/urteilsdatenbanken-medienprivileg.md).
+
 - **Art. 12 DSGVO** Transparenz, Modalitaeten, Fristen.
 - **Art. 13, 14 DSGVO** Informationspflichten (nicht reaktiv, aber ggf. mit zu prüfen).
 - **Art. 15 DSGVO** Auskunft.

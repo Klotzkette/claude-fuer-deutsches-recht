@@ -18,6 +18,12 @@ description: "Für Eignung Referenzen Umsatz Nachunternehmer: ordnet Norm, Bewei
 
 ### Eignung, Referenzen und Eignungsleihe
 
+### 1. Konzernkapazität und fehlende EEE
+
+Nach Paragrafen 47, 50 und 56 VgV rechtliche Identität, tatsächliche Mittelverfügbarkeit und Eignungsnachweise getrennt prüfen. [EuGH, Urteil vom 22.01.2026, Az. C-812/24, LIPOR und PreZero Portugal](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE), Rn. 39 bis 65: Eine hundertprozentige Tochter bleibt bei Eignungsleihe anderes Unternehmen. Konzernzugehörigkeit oder gemeinsame Geschäftsführung ersetzen nicht ihre Eignungs- und Ausschlussprüfung. Bescheinigungen können die Einheitliche Europäische Eigenerklärung (EEE) ersetzen; erst den konkret abgedeckten Inhalt prüfen, dann verbleibende Lücken benennen.
+
+Fehlt die Tochter-EEE weiterhin, ursprüngliche Benennung und vor Angebotsabgabe bestehende Tatsachen feststellen. Unter nationalen Regeln und Gleichbehandlung kann Ergänzung zulässig sein; veröffentlichten Nachforderungsausschluss beachten. Kein automatischer Ausschluss allein wegen des Formulars, aber auch kein bedingungsloser Ergänzungsanspruch oder Freibrief für eine neue Eignungsleihe. Bei Sektorenvergaben Paragrafen 47 und 51 SektVO eigenständig statt VgV anwenden; das Urteil betrifft Richtlinie 2014/24/EU. Liefere den konkreten Nachforderungs- oder Prüfentwurf in vollständigen Sätzen, nach Belegzugang gezielt aktualisiert; formatiert Times New Roman 11 pt und dezimale Gliederung.
+
 ## Sofortmodus
 
 1. Rolle klären: Auftraggeber, Bieter, Beigeladener, Foerdermittelempfaenger, Projektsteuerer oder Kanzlei.

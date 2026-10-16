@@ -1946,6 +1946,18 @@ SENTINELS += (
         "falsch zugeordneter Vorsteueranker V R 20/11",
         re.compile(r"V\s+R\s+20/11.{0,100}Vorsteuerabzug\s+verlangt", re.IGNORECASE),
     ),
+    Sentinel(
+        "nicht existente Regressnorm 199 SGB X",
+        re.compile(r"(?:Paragraf(?:en)?|§§?)\s*(?:116\s*[,;/]?\s*)?199\s+SGB\s+X\b", re.IGNORECASE),
+    ),
+    Sentinel(
+        "pauschale Kostenpflicht für Patientenaktenkopien",
+        re.compile(r"Kopien\s+auf\s+Kosten\s+des\s+Patienten", re.IGNORECASE),
+    ),
+    Sentinel(
+        "Landgericht als Restrukturierungsgericht bezeichnet",
+        re.compile(r"\bLG\s*\(StaRUG-Gerichte\)", re.IGNORECASE),
+    ),
 )
 SENTINEL_HINTS += (
     ("49a",),
@@ -1953,6 +1965,9 @@ SENTINEL_HINTS += (
     ("rabatt",),
     ("153a",),
     ("v r 20/11",),
+    ("199",),
+    ("kopien",),
+    ("starug-gerichte",),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):

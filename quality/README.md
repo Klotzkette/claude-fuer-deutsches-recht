@@ -2,7 +2,7 @@
 
 Das [Prüfverzeichnis](../QUALITY.md) erfasst für jedes Marketplace-Plugin konkrete Auswahlfälle, einen fachlichen Arbeitsauftrag und mindestens drei Ergebniskriterien. Ein vorbereitetes Profil ist kein bestandener Modelltest. Die [Schwerpunkt-Prompts](../SCHWERPUNKTE.md) sind davon getrennte Arbeitsmittel für konkrete Mandatsprobleme.
 
-Die [Fachanwalts-Aktualisierung vom 1. Oktober 2026](source-audits/fachanwaltschaft-2026-10-01/README.md) dokumentiert für alle 24 Fachbereiche jeweils zwei aktuelle höchstgerichtliche Entscheidungen in Werkstatt, Mini und passenden Skills. Die Einzelberichte nennen gelesene Passagen, konkrete Anwendung und Übertragungsgrenzen; dies ist eine Quellen- und Textprüfung, kein neuer Modellbenchmark.
+Quellen- und Textprüfungen sind gesondert dokumentiert: Die [Fachanwalts-Aktualisierung](source-audits/fachanwaltschaft-2026-10-01/README.md) erfasst 24 Fachbereiche; die [repo-weite Qualitätsrunde](qualitaetsrunde-2026-10-16/README.md) prüft Lesbarkeit und Einstieg; die [Rechtsprechungsvertiefung](rechtsprechung-vertiefung-2026-10-16/README.md) ergänzt 21 Entscheidungen in 31 Fachpaketen. Die Einzelberichte nennen gelesene Passagen, Anwendung und Grenzen. Dies sind keine neuen Modellbenchmarks.
 
 ## 1.1. Vier verschiedene Prüfaussagen
 

@@ -124,20 +124,27 @@
       "verification_status": "frisch_amtlicher_volltext_passagen",
       "source_sha256": "d8d0f4e50f5b68a072ddfa207f9a34ad58dede884f2954fa05c4d9ec08e353ea",
       "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich. Grenze: Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+      "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini mit sämtlichen Fachzweigen gelesen; die Trennungsauskunft wird nun nach Titel, verlangtem Stichtag und Erfüllungsannahme beurteilt, nicht nach irgendeinem Bankauszug. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen.",
     "changes": [
       "XII ZB 558/23 samt amtlichem Link und Grenzen unmittelbar in die Zugewinnprüfung eingebunden.",
       "Doppelte Start- und Abschlussformulierungen gekürzt; Unterhalt, Versorgungsausgleich, Sorge und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
       "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "3df3847c61505003974447e5461bc0c109457babc2c2ccb2360129654f84dedd",
+    "sha256": "58d8b48f7b0c2cab6bec6cffea121b7872070ac814d1bdf7b8b97226b97c26ef",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -272,7 +279,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt samt ausführlichem Arbeitsanhang gelesen. Bisher fehlender operativer Entscheidungsanker zur Beweislast in den Vermögensweg aufgenommen, übrige differenzierte Rechen- und Verfahrenswege erhalten. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme. Gezielte Quellen-/Textnachprüfung am 30.09.2026; keine erneute Gesamtprüfung aller Entscheidungen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen.",
     "changes": [
       "Konkrete Erfüllungsprüfung nach Paragraf 1375 Absatz 2 Satz 2 BGB ergänzt.",
       "Belegter Verbrauch ist nicht stets illoyal; bloßer anderer Trennungstag beseitigt Beweislastfolge nicht.",
@@ -280,9 +287,10 @@
       "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
       "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "7e2b06152125265ea8792d83a922ddfbbfa816110de8ccc112fb3946a715bb4b",
+    "sha256": "3f5b278ae7e62cb62d70dbc5920a7f5721bd6f1ee2739554c6f53868643a5217",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -293,7 +301,8 @@
       "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
       "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
       "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
-      "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md"
+      "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md",
+      "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md"
     ],
     "opening_change": "Unterhaltsmonate, Zugewinnstichtage und konkrete Sorge-/Umgangsregelung bestimmen statt allgemeiner Familienunterlagenbearbeitung. Workflow-Ergänzung: Leer: Unterhalt, Zugewinn oder Sorge und Umgang anbieten. Dateien ohne Aufgabe: Vermögensbelege, Betreuungsplan und Schriftverkehr still lesen; gewünschten Zahlungs-, Auskunfts- oder Regelungstext klären. Klarer Auftrag: konkrete Berechnung oder Vereinbarung unmittelbar ausarbeiten; bekannte Familien- und Stichtagsangaben nicht wiederholen.",
     "norms": [
@@ -336,6 +345,16 @@
         "passages_read": "Entscheidungskopf, Rn. 8–14",
         "source_sha256": "d8d0f4e50f5b68a072ddfa207f9a34ad58dede884f2954fa05c4d9ec08e353ea",
         "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-familienrecht.json"
+      },
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
       }
     ],
     "remaining_limits": [
@@ -379,5 +398,38 @@
       "BGH, Beschluss vom 22.01.2025, XII ZB 148/24"
     ],
     "new_model_test": false
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+        "sha256": "58d8b48f7b0c2cab6bec6cffea121b7872070ac814d1bdf7b8b97226b97c26ef"
+      },
+      {
+        "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+        "sha256": "3f5b278ae7e62cb62d70dbc5920a7f5721bd6f1ee2739554c6f53868643a5217"
+      },
+      {
+        "path": "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md",
+        "sha256": "5d4d7f0f31e4c0ac536fd8b8f12b18419512a804fcadb01f7ef89801a3c80a89"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

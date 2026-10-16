@@ -21,6 +21,7 @@ Erfasse Versicherungsart, Antrag, beantragtes Hilfsmittel oder Behandlung, Besch
 4. Bei Pflege prüfe die einschlägigen Module. Diagnose, Alter und Wohnungszustand ersetzen keine Feststellungen zum jeweiligen Kriterium. Verweise für vertiefte Pflegefragen auf die vorhandenen Fachressourcen, ohne fehlende Installation vorzutäuschen.
 5. Warne vor eigenem Kauf oder Behandlungsvertrag in Erwartung späterer Erstattung. Prüfe Paragraf 13 SGB V mit zeitlichem Ablauf und Ablehnungsgrund. Eine verspätete Entscheidung allein sichert die gewünschte Sachleistung nicht.
 6. Erstelle Antragsergänzung oder Widerspruch; bei aktueller Gefahr zusätzlich den Eilweg. Liste nur medizinische Aussagen auf, die tatsächlich belegt sind.
+7. Bei Heimzuschlag Anspruch und Zuschlagsstufe trennen: BSG vom 01.10.2026, B 3 P 3/25 R, laut amtlichem Terminbericht 30/26. Ohne Pflegesatzvereinbarung und bei Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI kein Zuschlag nach Paragraf 43c; nach Wechsel zählen diese früheren Bezugsmonate für die Zuschlagsstufe. Frage: „Seit wann gilt die Vereinbarung des Heims? Welche vollstationären Leistungen hat die Kasse zuvor bezahlt?“ Vorbescheide und Vertragsbeginn abgleichen, dann Korrekturanfrage mit belegter Differenz schreiben. Kein geprüfter Urteilsvolltext; vor tragender Verwendung Gründe suchen. Zuschlag nicht auf Unterkunft, Verpflegung oder Investitionen ausdehnen.
 
 ## 4. Quellenpflicht
 

@@ -203,33 +203,41 @@
       "url": "https://www.gesetze-im-internet.de/woeigg/__1.html",
       "checked_on": "2026-09-30",
       "supports": "Absatz 2: Wohnungseigentum als Sondereigentum verbunden mit Miteigentumsanteil; verkürzte Berichtseinordnung nicht übernommen."
+    },
+    {
+      "url": "https://www.bverwg.de/260326U10C4.25.0",
+      "checked_on": "2026-10-16",
+      "supports": "Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang. Grenze: Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.",
+      "verification_status": "Am 16.10.2026 tatsächlichen amtlichen Urteilsteil auf derselben Seite hinter der Pressemitteilung gelesen: Kopf, Tenor, Sachverhalt und Gründe. Paragrafen 67/68 BNatSchG amtlich abgeglichen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger kurzer Ordnerworkflow mit getrennten Eingriffs-, Besitz- und Rechtsschutzstufen. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
     "changes": [
       "Behördennorm104 von Eingriffsgrundlage getrennt.",
       "Hannover-Konzentration und unterschiedliche Einreichungsstellen ausdrücklich aufgenommen.",
       "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt.",
       "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BVerwG, Urteil vom 26.03.2026, 10 C 4.25"
     ],
-    "sha256": "51a42d75a2fc0ad094164909701647ef70f1c888893f83a9e72f53c6190e03dd",
+    "sha256": "91ab8e9caa8c0f3847fac028ddc7fd071ff400ee25cc9d84a4ed0cb33842ba5e",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuell ausgearbeitete Werkstatt vom vorhandenen Ordner bis zum fertig formulierten Rechtsprodukt. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
     "changes": [
       "Leerer Einstieg, Ordner ohne Auftrag und klare Aufträge unterschiedlich behandelt.",
       "Rechtsverlust, andere Nachteile, Nebenrechte und Kosten getrennt.",
       "112/113/117 sowie eigenständigen Besitzschutz präzisiert.",
       "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Eigentumseingriff und gewünschtes Dokument eröffnen den Prompt; Gemeinwohlziel, Vorhaben und Grundstück bleiben getrennte Ebenen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BVerwG, Urteil vom 26.03.2026, 10 C 4.25"
     ],
-    "sha256": "5562a5b643f78eab8361e1040bb73f1e7a3f7879f005c9a5c8a122a79f5e77e0",
+    "sha256": "f130dd32ef3225449e9f16a875234160b7af3743f2960e789e53de8db2aac58f",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -742,7 +750,8 @@
       "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
       "enteignung-artikel-14/references/rechtsgrundlagen.md",
       "quality/evals/enteignung-artikel-14.json",
-      "enteignung-artikel-14/references/berliner-kommissionsbericht.md"
+      "enteignung-artikel-14/references/berliner-kommissionsbericht.md",
+      "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md"
     ],
     "opening_change": "Ordner, aktuelles Zugriffsschreiben und Rolle bestimmen das Produkt; keine vorgeschaltete allgemeine Eigentumsrechtsvorlesung.",
     "norms": [
@@ -764,6 +773,18 @@
         "application": "Zuordnungsänderung und Güterbeschaffung statt bloßer Belastungsintensität.",
         "limit": "Atomrechtlicher Sachverhalt; keine pauschale Entschädigungsaussage für kommunale Verkehrsflächen.",
         "checked_on": "2026-09-28"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.03.2026, 10 C 4.25",
+        "url": "https://www.bverwg.de/260326U10C4.25.0",
+        "application": "Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang.",
+        "limit": "Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 tatsächlichen amtlichen Urteilsteil auf derselben Seite hinter der Pressemitteilung gelesen: Kopf, Tenor, Sachverhalt und Gründe. Paragrafen 67/68 BNatSchG amtlich abgeglichen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
+        "source_status": "official_full_text",
+        "paragraphs": "18-41"
       }
     ],
     "remaining_limits": [
@@ -787,5 +808,44 @@
       "search_2026": "Keine passende neue 2026-Entscheidung zu Artikel 14 und konkreter Enteignung in den ausgewerteten amtlichen Treffern.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
     }
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 26.03.2026, 10 C 4.25",
+        "url": "https://www.bverwg.de/260326U10C4.25.0",
+        "application": "Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang.",
+        "limit": "Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 tatsächlichen amtlichen Urteilsteil auf derselben Seite hinter der Pressemitteilung gelesen: Kopf, Tenor, Sachverhalt und Gründe. Paragrafen 67/68 BNatSchG amtlich abgeglichen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
+        "source_status": "official_full_text",
+        "paragraphs": "18-41"
+      }
+    ],
+    "files": [
+      {
+        "path": "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+        "sha256": "91ab8e9caa8c0f3847fac028ddc7fd071ff400ee25cc9d84a4ed0cb33842ba5e"
+      },
+      {
+        "path": "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+        "sha256": "f130dd32ef3225449e9f16a875234160b7af3743f2960e789e53de8db2aac58f"
+      },
+      {
+        "path": "enteignung-artikel-14/references/rechtsgrundlagen.md",
+        "sha256": "703e5d949d3937c87d2a4356b336e4c57eda817213e696f3e8411a4d7aa7467d"
+      },
+      {
+        "path": "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md",
+        "sha256": "4f8e76c92e6e0ccb6fa6d908b6645f8037d0212dd9f44e5cf7c0bafe2b6b3470"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

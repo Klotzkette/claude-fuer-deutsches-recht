@@ -37,6 +37,8 @@ Lies vorhandene Verträge und Signaturnachweise zuerst. Die folgenden Punkte sin
 | 7 | Vergütung aus Haushaltsmitteln, die für eine befristete Beschäftigung bestimmt sind |
 | 8 | Gerichtlicher Vergleich |
 
+**Vergleichssachgrund:** [BAG, Urteil vom 04.03.2026, 7 AZR 297/24](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/), Rn. 18 bis 31, verlangt verantwortliche gerichtliche Mitwirkung am Inhalt. Bloße Feststellung der Parteieinigung nach Paragraf 278 Absatz 6 Satz 1 Alternative 1 ZPO genügt regelmäßig nicht; ein gerichtlicher oder zu eigen gemachter Parteivorschlag kann genügen. Frühere abstrakte Anregung ersetzt die Mitwirkung an der konkreten Dauer und Fassung nicht. Vorschläge, Annahmen und Beschluss sichern; vor Abschluss Mitwirkung anregen, nach Abschluss Kontrollfrist nach Paragraf 17 TzBfG prüfen. Freistellung und bloße Zustimmung ersetzen keinen Sachgrund (Rn. 38 bis 49). Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit trennen. Kein pauschales Verwerfen sämtlicher Beschlussvergleiche. Diese amtlichen Urteilspassagen wurden am 16.10.2026 gelesen; andere Quellenstände bleiben unverändert.
+
 ## Prüfschema
 
 ```

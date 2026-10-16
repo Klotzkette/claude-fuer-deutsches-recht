@@ -60,6 +60,12 @@ Sieben-Fragen-Diagnose:
 6. **Als sechstes: Loeschung Rueckgabe.** Was passiert mit Daten nach Vertragsende?
 7. **NICHT** AVV einfach vom IT-Dienstleister einseitig akzeptieren ohne Vergleich mit Mandantenanforderungen.
 
+## 1. Personenbezogene Urteilsdatenbanken beschaffen
+
+Eine Datenlizenz legitimiert nicht jede Verarbeitung. Bei beanspruchtem Medienprivileg [EuGH, Urteil vom 09.07.2026, Az. C-199/24, Legal Newsdesk Sweden](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE), Rn. 61 bis 77, prüfen: Artikel 85 Absatz 2 DSGVO erfordert journalistischen Zweck mit redaktioneller Bearbeitung oder zumindest redaktioneller Linie, Tatsachenprüfung und Berufsethik. Entgelt allein schließt Journalismus nicht aus. Vom Anbieter Nutzerkreis, redaktionelle Belege und konkrete nationale Ausnahme verlangen; reine Softwarebereitstellung von eigener Veröffentlichung trennen.
+
+Bei eigener Nutzung etwa zur Bewerberprüfung Artikel 10 DSGVO und eigene Rechtsgrundlage untersuchen; ein Anbieterprivileg geht nicht auf den Kunden über. Ohne Belege keine Freigabe dieser Nutzung. Zweckgrenzen, Nachweiszugang und Korrektur-/Löschmitwirkung im bestellten Vertrag ausformulieren und nach Antwort gezielt ergänzen. Kein pauschales Verbot von Presseangeboten und kein automatisch feststehender Löschungsanspruch; der EuGH entschied einen schwedischen Strafurteilsdatenbankfall, nicht über jeden deutschen Datenbankvertrag.
+
 ## Trade-off-Matrix
 
 | Konstellation | Empfohlene Vertragsform | Begruendung |

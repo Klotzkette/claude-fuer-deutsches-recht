@@ -74,8 +74,8 @@ def check(dist=None):
     references = (PLUGIN / "references/rechtsquellen.md").read_text()
     profile = json.loads((ROOT / "quality/evals/untersuchungshaft.json").read_text())
     decisions = profile["prompt_editorial_review"]["decisions"]
-    require(len(decisions) == 13, "Dreizehn eingeordnete Entscheidungen")
-    require(sum(d["source_status"] == "official_full_text" for d in decisions) == 11, "Elf amtliche Originalquellen")
+    require(len(decisions) == 15, "Fünfzehn eingeordnete Entscheidungen")
+    require(sum(d["source_status"] == "official_full_text" for d in decisions) == 13, "Dreizehn amtliche Originalquellen")
     for decision in decisions:
         citation = decision["citation"].split(", ", 2)[2]
         for text in (workshop, references):
@@ -84,8 +84,10 @@ def check(dist=None):
         if decision["source_status"] == "two_secondary_full_texts":
             require(decision["comparison_url"] in references, f"Vergleichsquelle fehlt: {citation}")
     mini_anchors = ("2 BvR 2292/00", "2 BvR 988/10", "2 BvR 575/21", "2 BvR 1343/22",
-                    "2 BvR 1756/23", "2 BvR 24/25", "2 BvR 825/23", "2 BvR 1139/22")
+                    "2 BvR 1756/23", "2 BvR 24/25", "2 BvR 825/23", "2 BvR 1139/22", "AK 46/26")
     require(all(c in mini for c in mini_anchors), "Konkrete Mini-Anker fehlen")
+    readme = (PLUGIN / "README.md").read_text()
+    require("fünfzehn" in readme and "neun ausgewählten Entscheidungen" in readme, "README-Ankerzahlen stimmen nicht mit den Prompts überein")
     for kind, body in (("mini", mini), ("workshop", workshop)):
         require(hashlib.sha256(body.encode()).hexdigest() == profile[f"{kind}_review"]["sha256"], "Redaktionelle Prüfung nicht aktuell")
         require("Times New Roman 11 pt" in body and "vollständigen Sätzen" in body, "Enddokumentstandard")
@@ -202,7 +204,7 @@ def check(dist=None):
             for suffix in ("", "-einzelpdfs"):
                 name = f"testakte-{slug}{suffix}.zip"
                 require((dist / name).read_bytes() == (PLUGIN / "testakte/downloads" / name).read_bytes(), "Aktenrelease veraltet")
-    print(f"OK: 10 Skills, 13 Rechtsprechungsanker, lesbarer Mini ({len(mini.encode())} Bytes), 4 Akten, 36 Originale, {total_pages} PDF-Seiten. Technische Regression, keine Modellbewertung.")
+    print(f"OK: 10 Skills, 15 Rechtsprechungsanker, lesbarer Mini ({len(mini.encode())} Bytes), 4 Akten, 36 Originale, {total_pages} PDF-Seiten. Technische Regression, keine Modellbewertung.")
 
 
 if __name__ == "__main__":

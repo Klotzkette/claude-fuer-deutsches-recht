@@ -1,85 +1,50 @@
 ---
 name: eigenverwaltung-sachwaltung
-description: "Für Eigenverwaltung und Sachwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Befugnisse und Kontrollaufgaben in Eigenverwaltung und Sachwaltung. Trennt beim Forderungseinzug nach Insolvenzplan die Planabtretung vom vergüteten Mandat und erstellt Kontrollbericht oder Einziehungsbewertung."
 ---
 
-# Eigenverwaltung und Sachwaltung
+# Sachwaltung und Einziehungsmandat getrennt prüfen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bearbeite den bestellten Sachwalterbericht, Kontrollbefund oder die Wirksamkeitsfrage eines Einziehungsauftrags. Der Schuldner verwaltet in Eigenverwaltung; der Sachwalter erhält nicht allein durch seine Bestellung sämtliche Befugnisse eines Insolvenzverwalters. Anfechtung, Überwachung und besondere Einziehungsbefugnisse anhand der einschlägigen Normen und Beschlüsse bestimmen.
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Eigenverwaltung und Sachwaltung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 2. Eingaben
 
-## Startet bei
+Lies Bestellungs-/Eröffnungsbeschluss, Eigenverwaltungsplanung, Finanzplan, Berichte, Zahlungsläufe und Ausschuss-/Gerichtskommunikation. Bei Planinkasso außerdem gestaltenden Plantext, Bestätigungs- und Rechtskraftnachweis, Abtretung samt Rechtsgrund, Treuhand-/Inkassovertrag und Vergütungsvereinbarung lesen. Fehlende Unterlagen und Vorbefassungs-/Mandatszeitpunkte gezielt erfragen; bekannte Verfahrensdaten nicht erneut aufnehmen.
 
-- Eigenverwaltung angeordnet oder beantragt ist
-- Sachwalterberichte und Kontrollmaßnahmen erforderlich sind
-- Haftung, Anfechtung oder Tabellenprüfung in Eigenverwaltung relevant wird
+## 3. Ablauf
 
-## Eingaben
+### 3.1. Kontrolle nach konkretem Auftrag
 
-- Eigenverwaltungsplanung, Finanzplan, Beschluss
-- Berichte der Schuldnerin, Buchhaltung, Zahlungsläufe
-- Gläubigerausschuss- und Gerichtskommunikation
+Rolle und Befugnisse nach Paragrafen 270 ff. InsO, insbesondere 274 und 280, sowie gerichtlichen Anordnungen prüfen. Finanzplan, Kosten, Rechnungslegung, Zahlungsläufe und Berichte abgleichen. Bei mangelhafter Buchführung, Organhaftungsansprüchen oder falschen Planannahmen den konkreten Befund und erforderliche Entscheidung benennen. Eine Eskalations- oder Aufhebungsnotiz nur auf die tatsächlich einschlägigen Voraussetzungen stützen, nicht aus einem bloßen Verdacht einen erfolgten Verfahrenswechsel machen.
 
-## Workflow
+### 3.2. Abtretung und vergütete Beitreibung
 
-1. **Rolle trennen** - Schuldnerin verwaltet, Sachwalter beaufsichtigt; Befugnisse sauber markieren.
-2. **Plan kontrollieren** - Finanzplan, Kosten, Rechnungslegung, Organtreue und Pflichtverstöße prüfen.
-3. **Masseinteressen** - Anfechtung, Haftung, Forderungsprüfung und Gläubigerinformation verfolgen.
-4. **Bericht erstellen** - Kontrollbefund mit Eskalationsoptionen formulieren.
+[BGH, Beschluss vom 16.07.2026 - Az. IX ZR 71/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1), amtlicher Volltext Rn. 8 bis 18, betrifft die Nichtzulassungsbeschwerde eines Forderungsschuldners. Ob der vergütete Auftrag an die Berufsausübungsgesellschaft des Sachwalters wegen Paragraf 45 BRAO oder Insolvenzzweckwidrigkeit unwirksam war, blieb offen. Eine solche Unwirksamkeit erfasste die dortige eigenständige Planabtretung nicht.
 
-## Ausgabe
+Bestimme die Übertragungsgrundlage vor jeder Einwendung gegen die Aktivlegitimation. Im Fall vermittelte der Auftrag keinen Abtretungsanspruch; die Abtretung im gestaltenden Teil erfolgte nicht zu seiner Erfüllung. Sie sollte Mittel für die Gläubigerbefriedigung aus dem Besserungsschein realisieren (Rn. 17 und 18, Paragraf 228 InsO). Der Forderungsschuldner konnte daher nicht allein aus dem möglichen Tätigkeitsverbot fehlende Forderungsinhaberschaft ableiten. Daraus folgt keine Bestätigung des Honorars.
 
-- Sachwalter-Kontrollbericht
-- Eigenverwaltungs-Ampel
-- Eskalations- und Aufhebungsnotiz
+Das Gegenargument aus Rn. 16 ausdrücklich prüfen: Insolvenzzweckwidrigkeit kann auch das Verfügungsgeschäft erfassen, wenn dieses eine insolvenzzweckwidrige Verpflichtung erfüllt. Rn. 13 grenzt zudem Abtretungen ab, die von vornherein auf eine unerlaubte Rechtsdienstleistung zielen. Kein allgemeiner Bestandsschutz für jede Abtretung, kein generelles Unbedenklichkeitsvotum für den Treuhandauftrag.
 
-## Qualitätsgates
+### 3.3. Tatsachen und Zeitrecht entscheiden den weiteren Text
 
-- Sachwalter handelt nicht wie Insolvenzverwalter
-- § 270f und § 280 InsO geprüft
-- Zahlungsläufe stichprobenvalidiert
+Frage bei fehlender Vertragsanlage nach Plantext, Rechtsgrund der Abtretung und Vergütungsvereinbarung. Begründet der nachgereichte Auftrag einen Übertragungsanspruch, prüfe die Abweichung vom entschiedenen Fall erneut. Vorbefassung, Mandatsannahme, Abtretung und Rechtskraft zeitlich zuordnen. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO samt Übergangsrecht in der jeweils anwendbaren Fassung prüfen; die im Beschluss zitierte Nummer 1 nicht unverändert als heutigen Tatbestand übernehmen.
 
-## Rote Schwellen
+Nach Klärung das bestellte Votum oder die Einziehungsverteidigung ausformulieren. Forderungsinhaberschaft, Mandats-/Vergütungswirksamkeit und sonstige Einwendungen gegen die Forderung getrennt begründen. Keine Vergütung allein wegen wirksamer Zession freigeben. Ein Vergleich, Zahlung oder Versand bleibt eine gesondert freizugebende Handlung.
 
-- mangelhafte Buchführung
-- Haftungsansprüche gegen Organe
-- Plan beruht auf unzutreffenden Tatsachen
+## 4. Quellenpflicht
 
-## Interne Vorlagen
+Volltext IX ZR 71/25 am 16.10.2026 gelesen; Rn. 8 bis 18 tragen die beschriebene Trennung und ihre Grenzen. Entscheidung als Beschluss zitieren. [Paragraf 45 BRAO](https://www.gesetze-im-internet.de/brao/__45.html), [Paragraf 228 InsO](https://www.gesetze-im-internet.de/inso/__228.html) und die konkrete Befugnisnorm amtlich prüfen. Ein heutiger Normabruf ersetzt keine historische Fassungsprüfung.
 
-- assets/templates/eigenverwaltung-sachwalterbericht.md
-- assets/templates/schutzschirm-270d.md
+[Zitierweise](../../../references/zitierweise.md) beachten; keine ungeprüfte Literatur aus dem Beschluss übernehmen. Quellenstatus und offene Tatsachen im internen Vermerk, nicht als technisches Prüfprotokoll im Drittschuldnerbrief.
 
-## Amtliche Erstquellen
+## 5. Ausgabeformat
 
-- §§ 270 ff. InsO
-- § 280 InsO
+Liefere den bestellten Sachwalter-Kontrollbericht, die begründete Eskalationsnotiz oder ein getrenntes Wirksamkeitsvotum samt beauftragter Einziehungsantwort. Nach neuen Belegen die betroffene Forderung, Rechnung und Begründung fortschreiben; eine Nachforderung ist bei weitergehendem Auftrag nur Zwischenschritt.
 
-## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen. Formatierte Dokumente in Times New Roman 11 pt und ausschließlich dezimal gliedern; sonst separater Exporthinweis. Keine bereits erfolgte Einziehung, Zahlung, Freigabe oder Gerichtsanzeige behaupten, wenn nur ein Entwurf vorliegt.
 
- <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
-- Zur Anfechtungsschnittstelle: BGH, Urteil vom 05.12.2024 - IX ZR 122/23, zur Unlauterkeit beim Bargeschäft; BGH, Urteil vom 18.04.2024 - IX ZR 239/22, zu Deckungslücke und Benachteiligungsvorsatz; BGH, Urteil vom 18.04.2024 - IX ZR 129/22, zur Darlegung eines Liquiditätsstatus gegenüber außenstehenden Dritten.
-- Konkrete BGH-Linien zu §§ 270b, 270d InsO (vorläufige Eigenverwaltung, Schutzschirm) und zur Sachwalter-Haftung vor Ausgabe über dejure.org / openjur.de mit Datum und Aktenzeichen verifizieren.
+## 6. Beispiel
 
-## Paragrafenkette Insolvenzverwaltung
-
-§ 56 InsO (Bestellung IV) → § 60 InsO (Haftung) → § 61 InsO (persönliche Haftung Masseglaeubigeransprueche) → § 66 InsO (Rechnungslegung) → § 69 InsO (Ausschuss-Informationspflicht) → § 160 InsO (Zustimmung bei bedeutenden Maßnahmen) → § 208 InsO (Masseunzulaenglichkeit) → §§ 187-216 InsO (Verteilung)
-
-## Triage — Verfahrensstand
-
-Bevor losgelegt wird, klaere:
-1. **Verfahrensstatus?** Vorlaeufige Verwaltung (§ 22 InsO) oder Eroeffnung (§ 27 InsO)?
-2. **Massedeckung?** § 54/55 InsO: Verfahrenskosten gedeckt? Masseunzulaenglichkeit § 208 droht?
-3. **Zustimmungserfordernis § 160 InsO?** Handlung besonders bedeutsam → Gläubigerausschuss oder -versammlung einbeziehen.
-4. **Dokumentation vollstaendig?** Schlussrechnung § 66 InsO vorbereitet?
+Ein Drittschuldner verweigert Zahlung, weil die Kanzlei des Sachwalters zusätzliches Inkassohonorar vereinbart hat. Lies Planabtretung und Auftrag. Besteht die Zession unabhängig vom möglicherweise unwirksamen Mandat, trägt dieser Einwand allein die Zahlungsverweigerung nicht. Ergibt sich dagegen ein möglicherweise insolvenzzweckwidriger Übertragungsanspruch aus dem Auftrag, prüfe das Verfügungsgeschäft eigenständig und formuliere erst danach die beauftragte Antwort.

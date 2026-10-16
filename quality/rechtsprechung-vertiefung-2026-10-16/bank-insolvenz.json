@@ -1,0 +1,178 @@
+{
+  "status": "completed",
+  "checked_at": "2026-10-16",
+  "write_status": "Schreibruhe in allen sechs Plugins; keine weiteren Änderungen vorgesehen.",
+  "changed_repository_files": 18,
+  "committed": false,
+  "pushed": false,
+  "scope": [
+    "agb-werkstatt",
+    "agb-recht-pruefer",
+    "bank-rechtsabteilung",
+    "fachanwalt-bank-kapitalmarktrecht",
+    "insolvenzplan-starug-planwerkstatt",
+    "insolvenzverwaltung"
+  ],
+  "decisions": [
+    {
+      "court": "BGH",
+      "case_number": "XI ZR 132/24",
+      "date": "2026-03-10",
+      "type": "Urteil",
+      "source_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+      "source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+      "sha256": "8491abd98bbac238b8cf4c60d2b44e44ad363e794e64b172926bc9813aec7e4c",
+      "holding": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+      "limits": [
+        "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen.",
+        "Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten.",
+        "Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung.",
+        "Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen."
+      ],
+      "workflow": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen.",
+      "paths": [
+        "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md"
+      ],
+      "whichfiles": [
+        "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md"
+      ],
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1"
+      ],
+      "keyholding": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+      "verificationstatus": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+      "identifier": "XI ZR 132/24"
+    },
+    {
+      "court": "BGH",
+      "case_number": "IX ZR 71/25",
+      "date": "2026-07-16",
+      "type": "Beschluss über eine Nichtzulassungsbeschwerde",
+      "source_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+      "source_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "sha256": "6342369511b8c73f4f683246caa18f6df5f6b859b37e0eeab6f62a1276316d46",
+      "holding": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+      "limits": [
+        "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen.",
+        "Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen.",
+        "Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe.",
+        "Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden.",
+        "Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten."
+      ],
+      "workflow": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern.",
+      "paths": [
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "insolvenzplan-starug-planwerkstatt/skills/gestaltender-teil/SKILL.md",
+        "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+        "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md"
+      ],
+      "whichfiles": [
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "insolvenzplan-starug-planwerkstatt/skills/gestaltender-teil/SKILL.md",
+        "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+        "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md"
+      ],
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1"
+      ],
+      "keyholding": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+      "verificationstatus": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+      "identifier": "IX ZR 71/25"
+    },
+    {
+      "court": "BGH",
+      "case_number": "III ZR 205/25",
+      "date": "2026-10-01",
+      "type": "Urteil; ausschließlich nach amtlicher Pressemitteilung ausgewertet",
+      "source_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+      "source_url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+      "sha256": "6fa7abaddb77cbab10aa0a96db233e32cd6cd81e680ab475af0af0e47e380efc",
+      "holding": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+      "limits": [
+        "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen.",
+        "Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung.",
+        "Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung.",
+        "Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen."
+      ],
+      "workflow": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren.",
+      "paths": [
+        "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "agb-werkstatt/skills/agb-preise-laufzeit-aenderung/SKILL.md",
+        "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+        "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+        "agb-recht-pruefer/skills/preisanpassung-klausel/SKILL.md"
+      ],
+      "whichfiles": [
+        "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "agb-werkstatt/skills/agb-preise-laufzeit-aenderung/SKILL.md",
+        "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+        "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+        "agb-recht-pruefer/skills/preisanpassung-klausel/SKILL.md"
+      ],
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html"
+      ],
+      "keyholding": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+      "verificationstatus": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+      "identifier": "III ZR 205/25"
+    }
+  ],
+  "checks": {
+    "git_diff_check_scoped": "PASS; ausschließlich sechs freigegebene Verzeichnisse",
+    "markdown_structure": "PASS; bestehender Validator inspect auf 18 geänderten Dateien",
+    "yaml_frontmatter": "PASS; bestehender Validator check_one auf sechs Fachskills, keine Warnungen",
+    "skill_structure": "PASS; genau name und description, sechs Fachabschnitte, Ausformulierungspflicht und Formatstandard",
+    "local_markdown_links": "PASS; relative Markdown-Ziele in allen 18 geänderten Dateien vorhanden",
+    "current_law_sentinels": "PASS; bestehender Validator auf die 18 geänderten Dateien begrenzt, 221 Sperrmuster",
+    "mini_maximum_bytes": 7500,
+    "mini_bytes": {
+      "agb-werkstatt/agb-werkstatt-schnellstart.md": 7491,
+      "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md": 7444,
+      "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md": 7301,
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md": 7435,
+      "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md": 7343,
+      "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md": 7325
+    },
+    "behavior_review": "Redaktionell anhand der drei gelesenen Quellen und ihrer Gegenfälle geprüft; kein unabhängiger Modelllauf behauptet.",
+    "running_tests": [],
+    "pending_local_tests": [],
+    "repository_wide_tests": "Nicht ausgeführt; zentrale QA durch Parent."
+  },
+  "additional_statute_check": {
+    "read_live": [
+      "https://www.gesetze-im-internet.de/bgb/__13.html",
+      "https://www.gesetze-im-internet.de/bgb/__494.html",
+      "https://www.gesetze-im-internet.de/bgb/__309.html",
+      "https://www.gesetze-im-internet.de/brao/__45.html",
+      "https://www.gesetze-im-internet.de/inso/__228.html"
+    ],
+    "fetch_failed": [
+      "https://www.gesetze-im-internet.de/bgb/__491.html",
+      "https://www.gesetze-im-internet.de/bgb/__502.html",
+      "https://www.gesetze-im-internet.de/bgb/__307.html"
+    ],
+    "limitation": "Zeitüberschreitungen der ergänzenden Liveabrufe; keine vollständige erneute Normenverifikation behauptet. Historische Fassungen aus XI ZR 132/24 und Transparenzaussage aus Pressemitteilung belegt; fallbezogene Fassungsprüfung ausdrücklich vorgeschrieben. Parent hat Quellenprüfung bereits erledigt."
+  },
+  "parent_handoff": [
+    "Alle sechs Plugins sind für die zentrale QA final; Schreibruhe.",
+    "Zentrale Profile, Quellenübersichten, Derivate, Releasepakete und repo-weite Prüfungen bleiben beim Parent.",
+    "Bestehende Einstiegsanker der Werkstatt-/Mini-Prompts erhalten; nur passende aktuelle Fachzweige ergänzt.",
+    "Keine Commits, kein Push, keine Änderungen an fremden Verzeichnissen durch diesen Bearbeiter."
+  ]
+}

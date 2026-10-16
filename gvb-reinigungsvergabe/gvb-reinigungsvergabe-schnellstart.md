@@ -16,7 +16,7 @@ Lies Auftrag, Unterlagen und letzte Übergabe; übernimm Los, Stand, Frist und D
 
 2.4. LV, Flächenbuch, Preisblatt, Vertrag, Kriterien und Bekanntmachung abgleichen. Zeitfenster und Optionen mit Fundstelle berichtigen. Rechenprobe in einer Kopie; Bieterpreise leer lassen. Veröffentlichte Fassungen nur über Abschnitt 3.2 ändern.
 
-2.5. Bekanntmachungsdaten und vollständige frei zugängliche Unterlagen bereitstellen. Teilnahmeantragsfrist, Angebotsfrist, Verhandlungsrunde und Bindefrist unterscheiden; Rechtsgrund, Ereignis, Nachweis, Fristende und Ortszeit dokumentieren. Ein interner Versandcode ist keine TED-Veröffentlichung. Ohne validierten eForms-Export nur Datenentwurf liefern. Veröffentlichung erst nach ausdrücklicher Freigabe und tatsächlichem Portalzugang.
+2.5. Bekanntmachungsdaten und vollständige frei zugängliche Unterlagen bereitstellen. Teilnahme-, Angebots-, Verhandlungs- und Bindefristen trennen; Rechtsgrund, Ereignis, Nachweis, Ende und Ortszeit dokumentieren. Versandcode ist keine TED-Veröffentlichung. Ohne validierten eForms-Export nur Datenentwurf; Veröffentlichung nur mit ausdrücklicher Freigabe und Portalzugang.
 
 ## 3. Das Verfahren in fünf Schritten führen
 
@@ -32,17 +32,16 @@ Lies Auftrag, Unterlagen und letzte Übergabe; übernimm Los, Stand, Frist und D
 
 ## 4. Tragfähige Quellen statt Zitatdekoration
 
-Prüfe vor Verwendung die maßgebliche Fassung und die tragenden Gründe in den angeschlossenen Datenbanken:
+Prüfe vor Verwendung Fassung und tragende Gründe in den angeschlossenen Datenbanken:
 
-- EuGH, 28.10.2020, C-521/18, Pegaso: funktionaler Sektorenbezug; Postfall, nicht jede Beschaffung erfasst.
-- EuGH, 14.07.2016, C-6/15, TNS Dimarso: Methode darf Kriterien und Gewichte nicht ändern; keine stets gesonderte Veröffentlichungspflicht.
-- EuGH, 11.05.2017, C-131/16, Archus und Gama: Aufklärung ist kein neues Angebot; frühere Sektorenrichtlinie, heute auch Paragraf 51 SektVO.
-- EuGH, 17.11.2022, C-54/21, Antea Polska: Geheimnisse und Rechtsschutz abwägen; Richtlinie 2014/24/EU, keine deutsche Wartefristentscheidung.
+[EuGH, Urteil vom 22.01.2026, Az. C-812/24, LIPOR](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE), Rn. 39 bis 65: Auch die hundertprozentige Reinigungstochter ist bei Eignungsleihe eigenes Unternehmen. Vorhandene Nachweise gegen fehlende EEE abgleichen. War die Tochter benannt und werden bestehende Tatsachen belegt, Nachforderung nach Paragrafen 47/51 SektVO prüfen; Ausschluss der Nachforderung beachten. Kein automatischer Ausschluss oder Ergänzungsanspruch. Richtlinie 2014/24/EU, Sektorenübertragung gesondert begründen.
+
+EuGH-Urteile: 14.07.2016, C-6/15 (keine Kriterienänderung, nicht jede Methode veröffentlichen); 11.05.2017, C-131/16 (kein neues Angebot; alte Sektorenrichtlinie); 17.11.2022, C-54/21 (Geheimschutz/Rechtsschutz; keine deutsche Wartefrist).
 
 Quellen: https://www.gesetze-im-internet.de/sektvo_2016/ , https://www.gesetze-im-internet.de/gwb/ und https://eur-lex.europa.eu/ . Berliner Formulare und Tariftreue einschließlich Novelle ab 16.07.2026: https://www.berlin.de/vergabeservice/aktuelles/artikel.1694823.php . Berliner Beschlüsse erst nach Volltextprüfung zitieren; keine Randnummer erfinden.
 
 ## 5. Liefern und fortsetzen
 
-Vollständige Sätze und Dokumente, keine bloße Analyse. Formatiert: Times New Roman 11 pt, dezimale Gliederung. Internen Vermerk vom Empfängertext trennen. Fehlender Export: kopierbarer Text, keine erfundene Datei. Nach zwei erfolglosen Quellenwegen Grenze nennen und unabhängige Teile weiterbearbeiten.
+Vollständige Dokumente, Times New Roman 11 pt, dezimale Gliederung. Internen Vermerk trennen. Ohne Export fertigen Text; nach zwei erfolglosen Quellenwegen Grenze nennen und unabhängige Teile weiterbearbeiten.
 
-Übergabe: SCHRITT, STATUS, PROJEKT_LOS, FASSUNG_RECHTSSTAND, ERGEBNISSE, FESTLEGUNGEN, OFFEN, FRISTEN, WEITER, FREIGABE. STATUS ist ENTWURF, RUECKFRAGE oder UEBERGABEBEREIT. Bei RUECKFRAGE auf Antwort warten, nicht dieselbe Frage erneut stellen. Nach Antwort betroffene Dokumente aktualisieren. Keine Veröffentlichung, Ablehnung, Einreichung oder Zuschlagserteilung ohne ausdrückliche Freigabe.
+Übergabe: SCHRITT, STATUS, PROJEKT_LOS, FASSUNG_RECHTSSTAND, ERGEBNISSE, FESTLEGUNGEN, OFFEN, FRISTEN, WEITER, FREIGABE. STATUS: ENTWURF, RUECKFRAGE oder UEBERGABEBEREIT. Bei RUECKFRAGE warten, nach Antwort Dokumente aktualisieren. Veröffentlichung, Ablehnung, Einreichung und Zuschlag nur mit ausdrücklicher Freigabe.

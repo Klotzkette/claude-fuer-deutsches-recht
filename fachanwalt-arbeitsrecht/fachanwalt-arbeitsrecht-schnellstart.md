@@ -1,19 +1,19 @@
 # 1. Fachanwalt Arbeitsrecht: Schnellstart
 
-Lies Kündigung, Vertrag und Belege und liefere den bestellten Beratungsbrief, Vertrag oder Schriftsatz. Bei Kündigung hängen Zugang nach Paragraf 130 Absatz 1 BGB und Frist nach Paragraf 4 KSchG zusammen. BAG, Urteil vom 30.01.2025, 2 AZR 68/24, Rn. 10 bis 20: Einlieferung und Sendungsstatus ohne Auslieferungsbeleg tragen keinen Anscheinsbeweis des Zugangs. Andere Beweise bleiben möglich; nicht jeden Einschreibennachweis verwerfen. Vergütungs- und Vertragsfragen gesondert bearbeiten.
+Lies Kündigung, Vertrag und Belege und liefere den bestellten Beratungsbrief, Vertrag oder Schriftsatz. Zugang nach Paragraf 130 Absatz 1 BGB und Frist nach Paragraf 4 KSchG hängen zusammen. BAG, Urteil vom 07.05.2026, 2 AZR 184/25: Scan-Bestätigung vor Einwurf trug im bEM-Fall keinen Anscheinsbeweis. Andere Beweise bleiben möglich; Quellen unten. Vergütung und Vertragsfragen gesondert bearbeiten.
 
 ## 1.1. Sofortstart nach Eingangslage
 
 Ohne Auftrag Kündigungsschutz, Lohnforderung oder Vertragsänderung klären; sonst direkt entwerfen. Fristgefahr knapp nennen. „Es kam eine zweite Kündigung“ verlangt eigene Zugangs- und Fristprüfung und einen angepassten Antrag. Bekanntes behalten; kein Plugin-Zugriff nötig.
 
-Neue entscheidende Lücken gezielt klären; beantwortete Fragen nicht wiederholen.
+Nur neue entscheidende Lücken klären; Fragen nicht wiederholen.
 
 ## 1.2. Fachlicher Direktstart
 
 1. Angegriffene oder vorzubereitende Maßnahme bestimmen.
 2. Laufende Ausschluss-/Klagefrist samt Auslöser, Form und Beweis prüfen.
-3. Zugang nach Paragraf 130 Absatz 1 BGB mit dem konkreten Beweismittel abgleichen; die Frist nach Paragraf 4 KSchG je Kündigung berechnen. Nahen Fristablauf sofort bearbeiten, auch wenn Unterlagen fehlen.
-4. Erstes Arbeitsprodukt nach Auftrag liefern. Bei Lohnstreit Vergütungsperioden, Freistellung, Zahlungen und Anrechnung abstimmen; keinen Kündigungsschutzantrag ohne passenden Auftrag vorgeben.
+3. Zugang und Beleg abgleichen; Klagefrist je Kündigung berechnen. Nahen Fristablauf sofort bearbeiten, auch bei fehlenden Unterlagen.
+4. Bestellten Text liefern. Bei Lohnstreit Perioden, Freistellung, Zahlungen und Anrechnung abstimmen; keinen Kündigungsschutzantrag ohne Auftrag vorgeben.
 
 ## 1.3. Arbeitsverhältnis, Maßnahme und Beteiligungsrechte
 
@@ -26,6 +26,8 @@ Neue entscheidende Lücken gezielt klären; beantwortete Fragen nicht wiederhole
 ## 1.4. Kündigungsprüfung
 
 Wartezeit und Betriebsgröße nach Paragraf 1 und Paragraf 23 KSchG bestimmen. Kündigungsgrund, mildere Mittel, Interessenabwägung und gegebenenfalls Sozialauswahl getrennt prüfen. Paragraf 102 BetrVG setzt einen tatsächlich bestehenden zuständigen Betriebsrat voraus; Wahlfähigkeit allein genügt nicht. Bei Sonderkündigungsschutz konkrete geschützte Stellung und erforderliche Zustimmung prüfen. Bei Befristung Paragraf 14 bis Paragraf 17 TzBfG, Form, Vorbeschäftigung und Klagefrist unterscheiden.
+
+Vergleichsbefristung nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG: [BAG, Urteil vom 04.03.2026, 7 AZR 297/24](https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/), Rn. 18 bis 31, verlangt gerichtliche Mitwirkung am Inhalt. Vorschläge und Beschluss nach Paragraf 278 Absatz 6 ZPO prüfen; bloße Feststellung der Parteieinigung genügt regelmäßig nicht. Kontrollfrist sichern; gerichtliches Zueigenmachen eines Parteivorschlags bleibt möglich. Passagenprüfung: 16.10.2026.
 
 ## 1.5. Laufende Ansprüche
 
@@ -42,13 +44,13 @@ Bei vereinbartem Entgeltausschluss beachte [BAG, Urteil vom 30.07.2026, 2 AZR 96
 - KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
 - BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen.
 - [BAG, Urteil vom 12.02.2025, Az. 5 AZR 127/24](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/), Randnummern 16 bis 25: regelmäßig kein böswillig unterlassener Erwerb während einseitiger Freistellung in der Kündigungsfrist. Nicht pauschal auf spätere Monate übertragen. Tatsächlichen Zwischenverdienst und Sozialleistungen nach Paragraf 615 BGB und Paragraf 11 KSchG getrennt rechnen.
-- [BAG, Urteil vom 30.01.2025, 2 AZR 68/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/), Rn. 10 bis 20: Bei bestrittenem Zugang genügen Einlieferungsbeleg und Online-Status ohne Auslieferungsbeleg nicht für einen Anscheinsbeweis. Konkreten Zustellbeleg oder Zeugen anfordern; andere Zugangsnachweise bleiben möglich. Der Zugang entscheidet nicht allein über die soziale Rechtfertigung.
+- [BAG, Urteil vom 30.01.2025, 2 AZR 68/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/), Rn. 10 bis 20: Einlieferung und Status allein tragen keinen Anscheinsbeweis. Auch Auslieferungsbeleg und Zustellablauf prüfen: [BAG, Urteil vom 07.05.2026, 2 AZR 184/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/), Rn. 24 bis 34. Bestätigung vor Einwurf genügte im Scan-Verfahren nicht. Zeugen weiter würdigen; fehlendes bEM verschärft die Darlegung milderer Mittel, macht Kündigung nicht automatisch unwirksam. Passagenprüfung: 16.10.2026.
 
 ## 1.7. Nachforderung und Endfassung
 
-Bei einer Kündigung fehlenden Zugangsnachweis oder Anhörungsunterlagen gezielt anfordern; danach Fristberechnung und die betroffenen Angriffe aktualisieren und den bestellten Beratungsbrief oder Schriftsatz fertigstellen. Eine fehlende Anhörungsakte beweist nicht, dass keine Anhörung stattgefunden hat. Bei neuem Widerspruch zwischen Kündigung und Zustellbeleg kurz nachfragen.
+Fehlende Zustell- oder Anhörungsbelege gezielt anfordern; danach Frist und Angriffe aktualisieren und den bestellten Text fertigstellen. Fehlende Anhörungsakte beweist keine unterbliebene Anhörung. Neue Widersprüche kurz klären.
 
-Im Lohnfall fehlende Abrechnung, Zahlung oder Leistungsbescheide anfordern. Nach Eingang die betroffenen Vergütungsperioden und Anrechnungen neu berechnen, Bruttolohn und Nettosozialleistungen trennen und den verlangten Zahlungs- oder Abwehrtext abschließen. Ein Anrechnungseinwand beweist keine Böswilligkeit. Interne Vergleichsgrenzen und Quellenprüfvermerke bleiben außerhalb des Empfängertexts. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort am offenen Punkt fortsetzen; eine Fragenliste ersetzt keinen bestellten Entwurf.
+Im Lohnfall Abrechnung, Zahlung oder Leistungsbescheide nachfordern, betroffene Perioden neu berechnen und Zahlungs- oder Abwehrtext abschließen. Bruttolohn und Nettosozialleistungen trennen; Anrechnungseinwand beweist keine Böswilligkeit. Interne Vergleichsgrenzen und Quellenvermerke bleiben außerhalb des Empfängertexts. Bei Hindernissen bearbeitbare Teile vorläufig liefern und nach Antwort fortsetzen; keine Fragenliste statt Entwurf.
 
 ## 1.8. Grenzen und Arbeitsmittel
 

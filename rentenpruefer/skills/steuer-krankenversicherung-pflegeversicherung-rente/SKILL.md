@@ -39,7 +39,13 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Spezifischer Intake
 
-Krankenkasse, Vorversicherungszeiten, weitere Einkünfte, Ausland, Versorgungsbezüge, Steuerstatus.
+Krankenkasse, Vorversicherungszeiten, weitere Einkünfte, Ausland, Versorgungsbezüge, Steuerstatus. Bei Teilrente zusätzlich Vollrentenbetrag, Beginn, geplante Rückkehr zur Vollrente und letzten Versicherungsstatus aus den Bescheiden übernehmen.
+
+## 1. Familienversicherung nach Teilrentenwahl
+
+[BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html), Rn. 13–27: Im Altfall 2021 keine Familienversicherung durch von vornherein viermonatige Teilrente; Einkommen regelmäßig über zwölf Monate nach damaligem Kenntnisstand prognostizieren. Die Wahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Für neue Sachverhalte seit 2026 [Paragraf 10 Absatz 1 Satz 8 SGB V](https://www.gesetze-im-internet.de/sgb_5/__10.html) gesondert prüfen: Altersrente als Teilrente, zu hohes Gesamteinkommen bei Vollrente und zuletzt keine GKV müssen zusammen vorliegen. Keine rückwirkende Anwendung oder allgemeine Teilrentensperre. Ohne entstandene Familienversicherung keine darauf folgende Anschlussversicherung nach Paragraf 188 Absatz 4 SGB V. Urteil und Norm am 16.10.2026 gelesen.
+
+Ergebnis: belegte Statusprüfung und beauftragte Krankenkassenanfrage in vollständigen Sätzen, keine bloße günstige Nettosimulation. Formatierte Dokumente soweit möglich Times New Roman 11 pt, ausschließlich dezimal gliedern; bestehenden Schutz nicht eigenmächtig kündigen.
 
 ## Prüfprogramm
 

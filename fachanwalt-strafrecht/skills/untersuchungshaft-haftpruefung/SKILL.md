@@ -18,11 +18,11 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Untersuchungshaft und Haftprüfung nach §§ 112 ff. StPO: Anwendungsfall Mandant wurde verhaftet und Strafverteidiger muss Haftbefehl anfechten oder Haftprüfungsantrag stellen. §§ 112-113 StPO Haftgründe Fluchtgefahr Verdunkelungsgefahr Wiederholungsgefahr, § 117 StPO Haftprüfung 3-Monats-Frist, § 304 StPO Haftbeschwerde. Prüfraster dringender Tatverdacht prüfen, Haftgrundargumente widerlegen, verhältnismäßige Alternativmassnahmen anbieten. Output Haftbefehlsanfechtung oder Haftprüfungsantrag mit Argumentationsstrategie. Abgrenzung zu Erstgespraeach und zu Hauptverhandlung-Vorbereiten.
+**Fokus:** Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff. StPO: Haftbefehl prüfen, Aufhebung oder Verschonung beantragen. Paragraf 117 erlaubt während vollzogener Haft jederzeit einen Prüfungsantrag, keine Dreimonatswartefrist. Wiederholungsgrenzen der mündlichen Verhandlung und besondere Haftprüfung gesondert behandeln. Haftprüfung und Haftbeschwerde nach Ziel und Verfahrenslage wählen; keine parallele Empfehlung. Ergebnis ist der vollständig begründete Antrag, nicht nur eine Argumentationsliste.
 
 ### Untersuchungshaft Haftprüfung
 
-## 1) Haftgründe § 112 II StPO
+## 1. Haftgründe
 
 ### Fluchtgefahr
 
@@ -41,13 +41,13 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 
 ### Schwerverbrechens-Haft § 112 III StPO
 
-- Bei besonders schweren Delikten ohne weiteren Grund
+- Paragraf 112 Absatz 3 StPO verfassungskonform einschränken; keine voraussetzungslose Haft allein wegen der Tatbezeichnung.
 
-## 2) Voraussetzungen
+## 2. Voraussetzungen
 
 ### Dringender Tatverdacht
 
-- Wahrscheinlichkeit Verurteilung > Freispruch
+- Hohe Wahrscheinlichkeit der Täterschaft anhand des aktuellen Beweisstands; nicht mit hinreichendem Tatverdacht verwechseln.
 - Beweis-Stand
 
 ### Verhältnismaessigkeit
@@ -56,7 +56,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Erwartete Strafe vs. Haft-Dauer
 - Schonungsbedürftige (Kinder, Pflege)
 
-## 3) Haftbefehl § 114 StPO
+## 3. Haftbefehl nach Paragraf 114 StPO
 
 ### Inhalt
 
@@ -69,7 +69,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Sofort bei Verhaftung
 - Anwalts-Information
 
-## 4) Haftprüfung § 117 StPO
+## 4. Haftprüfung nach Paragraf 117 StPO
 
 ### Antrag
 
@@ -78,16 +78,16 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 
 ### Verfahren
 
-- AG-Richter entscheidet
-- Muendliche Anhörung
-- Bei Aufhebung: sofortige Entlassung
+- Gericht nach Paragrafen 126 und 122 StPO bestimmen, nicht stets AG. Übertragungsbeschluss, Enddatum und besondere Prüfung abgleichen; Einzelheiten unter 10.
+- Mündliche Prüfung nach Paragraf 118 mit Wiederholungsgrenzen und Ausnahmen; bei Sonderzuständigkeit Ermessen nach Paragraf 122. Neben dem Prüfungsantrag keine Haftbeschwerde; Beschwerde gegen die Prüfungsentscheidung bleibt möglich.
+- Bei Aufhebung Entlassung in dieser Sache; weitere Hafttitel und tatsächliche Umsetzung prüfen.
 
 ### Frist § 121 StPO
 
-- Nach **6 Monaten** Haft: Prüfung OLG
-- Bei Verlängerung: durch OLG-Beschluss
+- Haft wegen derselben Tat, Urteilsstand, Sechsmonatsvorlage und Ruhen nach Paragraf 121 prüfen; keine automatische Kalenderentlassung.
+- Besondere Prüfung durch OLG, gegebenenfalls BGH; weitere Prüfung spätestens nach drei Monaten. Paragraf 122a bei Wiederholungsgefahr beachten.
 
-## 5) Haftbeschwerde § 304 StPO
+## 5. Haftbeschwerde nach Paragraf 304 StPO
 
 ### Voraussetzungen
 
@@ -96,10 +96,10 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 
 ### Verfahren
 
-- LG-Beschwerdekammer entscheidet
-- Bei Niederlage: weiterer Rechtsweg OLG
+- Beim Ausgangsgericht einlegen; zuständiges Beschwerdegericht nach konkretem Instanzenzug bestimmen, nicht stets LG.
+- Weitere Beschwerde nur nach Paragraf 310 und Sonderregeln des Paragrafen 304; kein automatischer dritter Rechtszug.
 
-## 6) Haftverschont § 116 StPO
+## 6. Haftverschonung nach Paragraf 116 StPO
 
 ### Voraussetzungen
 
@@ -115,7 +115,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Tag-Anwesenheits-Auflage
 - Kontakt-Verbot
 
-## 7) Verteidigung
+## 7. Verteidigung
 
 ### Sofort-Schritte
 
@@ -132,7 +132,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 ### Phase 3
 
 - Bei Niederlage: Beschwerde
-- Bei Erfolg: Verschon-Vereinbarung
+- Bei Erfolg gerichtliche Verschonungsentscheidung, konkrete Auflagen und Sicherheit prüfen; keine private Verschonungsvereinbarung.
 
 ### Phase 4 — Dauer-U-Haft
 
@@ -140,7 +140,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Nach 6 Monaten: OLG-Prüfung
 - Strategie Hauptverhandlungs-Vorbereitung
 
-## 8) Praktische Aspekte
+## 8. Praktische Aspekte
 
 ### Mandanten-Betreuung
 
@@ -150,7 +150,7 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 
 ### Akteneinsicht bei U-Haft
 
-- § 147 II 2 StPO: voller Zugang
+- Paragraf 147 Absatz 2 StPO: wesentliche Haftinformationen für wirksame Anfechtung zugänglich machen; kein pauschaler Anspruch auf vollständige Akteneinsicht in jeder Lage.
 - Schnelles Verfahren
 
 ### Wirtschaftliche Folgen
@@ -159,18 +159,23 @@ description: "Für Untersuchungshaft und Haftprüfung nach Paragrafen 112 ff: or
 - Familien-Belastung
 - Reputations-Schaden
 
-## 9) Typische Fehler
+## 9. Typische Fehler
 
 1. **Pflichtverteidiger ohne Strafrecht-Expertise**
 2. **Haftprüfung zu spaet beantragt**
 3. **Verschon-Alternativen nicht ausgearbeitet**
 4. **Akteneinsicht verzoegert**
 
-## 10) BGH/BVerfG-Linien (Stand Mai 2026)
+## 10. Haftdauer und Zuständigkeit
 
 - Verfassungsrechtliche Maßstaebe der Untersuchungshaft (Verhältnismäßigkeit, Beschleunigungsgebot in Haftsachen): Grundlage BVerfG 17.01.2013 — 2 BvR 2098/12 und BVerfG-Linie zur ueberlangen Haft; Aktualisierungen vor Ausgabe in bverfg.de und dejure.org prüfen. Offene Fundstelle (Verzeichnis): https://dejure.org/dienste/lex/StPO/112/1.html
 - BVerfG, Beschluss vom 23. September 2025, 2 BvR 625/25: Die Verfassungsbeschwerde gegen eine auf ANOM-Daten gestützte Verurteilung wurde nicht zur Entscheidung angenommen; nach dem dortigen Vortrag bestanden keine verfassungsrechtlichen Bedenken gegen die Verwertung. Für die Haftprüfung folgt daraus keine pauschale Verwertbarkeitsregel. Herkunft, Authentizität, konkrete Belastungstatsachen und Einwände gegen die Verwertung im Einzelfall prüfen. Amtliche Quelle: https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html
-- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zu § 112 StPO / Haftpruefung ist Stand Mai 2026 nicht in dejure.org / openjur.de mit Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche unter "§ 112 StPO Haftgrund" durchführen.
+- BGH, Beschluss vom 09.09.2026, AK 46/26, Rn. 6 und 19 bis 24: Eröffnungsreife, Nachermittlungsfristen, angebotene Verteidigertermine und Gerichtsplanung vergleichen. Dauerhafte Überlastung und fehlende Kompensation trugen die Fortdauer nicht; Haftaufhebung trotz unveränderter übriger Haftvoraussetzungen. Vergleichbare Verzögerung konkret begründen; keine feste Zehnmonatsgrenze.
+- BGH, Beschluss vom 05.02.2026, StB 3/26, Rn. 8 bis 11: Nach Ablauf einer Übertragung nach Paragraf 122 Absatz 3 Satz 3 StPO Antrag dem wieder zuständigen höheren Gericht vorlegen; Fristruhen verlängert die Übertragung nicht. Bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit des parallelen Aufhebungsantrags während besonderer Prüfung. Nach besonderer Fortdauerentscheidung mögliche Gegenstandslosigkeit, kein Entlassungserfolg. [Amtliche Volltexte, Normen und Grenzen](../../references/haftrecht-rechtsprechung-2026.md).
+
+## 11. Ausgabe und Fortsetzung
+
+Antrag oder Beschwerde in vollständigen, ausformulierten Sätzen mit Begehren, belegter Zeitfolge, konkreten Einwänden und Anlagen liefern; keine Stichwortskelette als Endprodukt. Dokumente soweit möglich in Times New Roman 11 pt und ausschließlich dezimaler Gliederung, sonst getrennter Exporthinweis. Nach Terminabsagen oder neuen Beschlüssen die betroffenen Anträge aktualisieren. Nach [Zitierweise](../../references/zitierweise.md) nur verifizierte Fundstellen ausgeben. Einreichung oder Rücknahme nur nach Freigabe.
 
 ## Anschluss
 

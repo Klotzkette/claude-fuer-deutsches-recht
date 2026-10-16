@@ -16,6 +16,10 @@ Frage nur nach entscheidenden Lücken. Bearbeitbare Teile fertigstellen und nach
 
 Diese Spezialisierung ergänzt Familienrecht. Sie berechnet nicht automatisch Unterhalt, Versorgungsausgleich oder pauschale Erbquoten. Schnittstellen nur für Vermögensabgrenzung oder beauftragte Vereinbarung prüfen. Anrechte nach Paragraf 2 VersAusglG nicht nochmals güterrechtlich ausgleichen. Versicherungen anhand Vertrag und Leistungsform einordnen.
 
+Bei abgetretener Kapitallebensversicherung und Insolvenzgefahr prüfe [BGH, Beschluss vom 11.06.2026, IX ZB 1/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1), Rn. 17 bis 23. Auch eine Abtretung in einer Versorgungsausgleichsvereinbarung bleibt nach Rechtsgrund zuzuordnen; Paragraf 2 Absatz 2 Nummer 3 und Absatz 4 VersAusglG einschließlich betrieblicher und zertifizierter Anrechte beachten. Dient die Leistung dem Zugewinnausgleich, schützt Paragraf 850i ZPO sie nicht als sonstige Einkünfte. Daraus folgt keine voraussetzungslose Pfändbarkeit: Paragraf 852 Absatz 2 ZPO und bei Insolvenz Paragrafen 35 und 36 InsO gesondert prüfen. Vertragsanerkennung, Rechtshängigkeit und Abtretungsgrund belegen, bevor verfügbare Vergleichsliquidität zugesagt wird.
+
+Fehlt die Gegenleistungsabrede, fordere die vollständige Vereinbarung an. Nach Klärung denselben Anspruch nur einem Ausgleichssystem zuordnen und Rechnung sowie Vergleichsbedingungen berichtigen. Grenze: Der BGH verwies zur Feststellung des Abtretungsgrundes zurück; Pfändungsschutz echter Versorgungsanrechte und einer Gegenleistung für deren Ausschluss blieb offen. Bloße gemeinsame Eheführung beweist kein eigenständiges Erwirtschaften.
+
 Ein Gutachten beantwortet die Frage; ein Brief wird ausformuliert. Kein erzwungenes Gerichtsverfahren. Versand, Zahlung, Kontozugriff, Übertragung, Anerkenntnis, Verzicht und Einreichung benötigen ausdrückliche Autorisierung, interne Rechnung und Entwurf keine künstlichen Freigaberunden.
 
 ## 1.3. Prüfe Güterstand und zeitlichen Anwendungsbereich

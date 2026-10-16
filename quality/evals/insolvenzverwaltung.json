@@ -32,33 +32,41 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-30",
       "supports": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach § 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des § 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein. Grenze: Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+      "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eine verlustbringende Maßnahme wird aus damaliger Informationslage geprüft, nicht allein wegen ihres späteren Ergebnisses beanstandet. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Quellenvertiefung: Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern.",
     "changes": [
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung."
+      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
     ],
-    "sha256": "b0e7561cf957c4fa6dabb1d30f0f25ed862437dbb245e72e143fcfec9028ade8"
+    "sha256": "6d525ddfe679407febdf98da4513b8b1a79c140bcbf16bd135554ebc3aa6c79d"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Verwaltung, Fortführung, Masseansprüche, Tabelle, Bericht, Verteilung und Planoption vollständig nach Rollen und Beschlussumfang neu gegliedert. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Quellenvertiefung: Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern.",
     "changes": [
       "IX ZR 125/17 als Maßstab für vertretbare Kosten-/Risikobewertung nach Paragraf 60 InsO eingebaut; keine aktienrechtliche Business Judgment Rule.",
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
-      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung."
+      "Einstiegsredaktion 16.10.2026: Befugnis aus Beschluss und konkretes Verwaltungsprodukt vorangestellt; damalige Entscheidungsgrundlage statt bloßer Verlustbetrachtung, keine aktienrechtliche Freistellung.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
     ],
-    "sha256": "ce463cb21b27a1e6f3718c9f159e41734773656fd9ce48d96f4b4f74dd4671c2"
+    "sha256": "531b35491a9f5152c089626a0562bdd5a66906cc530d0e6b319704b4d22f4f94"
   },
   "selection": {
     "positive": [
@@ -110,7 +118,8 @@
       "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
       "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
       "insolvenzverwaltung/README.md",
-      "quality/evals/insolvenzverwaltung.json"
+      "quality/evals/insolvenzverwaltung.json",
+      "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md"
     ],
     "opening_change": "Verwalterbefugnis, Massebestand und zulässige Zahlung anhand des Beschlusses und der Konten bestimmen.",
     "norms": [
@@ -129,6 +138,16 @@
         "checked_on": "2026-09-30",
         "application": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Leitsätze und Rn. 36–38: Eine Zahlung zur Erfüllung einer Geldauflage nach § 153a StPO kann als inkongruente Deckung anfechtbar sein. Bei unmittelbarer Zahlung an eine gemeinnützige Einrichtung ist diese Empfängerin, nicht allein wegen der gerichtlichen Anordnung die Landeskasse. Zahlungsweg, tatsächliche Bereicherung und Voraussetzungen des § 131 InsO prüfen; keine automatische Rückforderung jeder Geldauflage.",
         "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
+      },
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
       }
     ],
     "remaining_limits": [
@@ -185,5 +204,42 @@
         "utf8_bytes": 20702
       }
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
+      }
+    ],
+    "files": [
+      {
+        "path": "insolvenzverwaltung/README.md",
+        "sha256": "60faf5db426dde33168608d650f62d22219c9a0755c6a60dd2f0efb677a48abd"
+      },
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "sha256": "6d525ddfe679407febdf98da4513b8b1a79c140bcbf16bd135554ebc3aa6c79d"
+      },
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+        "sha256": "531b35491a9f5152c089626a0562bdd5a66906cc530d0e6b319704b4d22f4f94"
+      },
+      {
+        "path": "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md",
+        "sha256": "0231667ed497a81ff88da4402c297967651994acf5eb933fd401c080de9ed402"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

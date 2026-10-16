@@ -1,0 +1,135 @@
+{
+  "method": "Manuelle Einordnung aller 27 heuristischen Datumswarnungen anhand des angezeigten Satzkontexts; keine neue Volltextverifikation der Altentscheidungen.",
+  "source": "datumspruefung.json",
+  "checked_on": "2026-10-16",
+  "unresolved_date_warnings": 0,
+  "findings": [
+    {
+      "indices": [
+        0
+      ],
+      "reason": "05.09.2026 bezeichnet ausdrücklich die Quellenprüfung, nicht den Entscheidungstag von XI ZR 26/20."
+    },
+    {
+      "indices": [
+        1
+      ],
+      "reason": "16.10.2026 ist das Datum des Volltextnachweises für C-258/24, nicht der Urteilstag."
+    },
+    {
+      "indices": [
+        2,
+        3
+      ],
+      "reason": "17.09.2026 gehört zum LAG-Beschluss 9 Ta 209/26. Der Satz berichtigt ausdrücklich dessen falsche Jahresangabe für BAG 8 AZB 25/25 auf 7. Mai 2026; ausgeschriebene Monatsnamen werden vom Suchmuster nicht erfasst."
+    },
+    {
+      "indices": [
+        4,
+        8
+      ],
+      "reason": "16.10.2026 ist der Lesetag des Volltexts XI ZR 132/24."
+    },
+    {
+      "indices": [
+        5
+      ],
+      "reason": "25.09.2026 und 01.10.2026 bezeichnen Norm- und Passagenprüfungen, nicht den Tag von VII ZR 119/24."
+    },
+    {
+      "indices": [
+        6
+      ],
+      "reason": "Die Tabellenzeile bezeichnet Schlussanträge des Generalanwalts vom 02.06.2022. Schlussanträge und Urteil C-100/21 vom 21.03.2023 sind verschiedene Verfahrensdokumente."
+    },
+    {
+      "indices": [
+        7
+      ],
+      "reason": "Die Daten bezeichnen den Streitvertrag von 2013 und die ausdrücklich erläuterten historischen Normfassungen. Kein abweichender Urteilstag wird behauptet."
+    },
+    {
+      "indices": [
+        9
+      ],
+      "reason": "16.10.2026 ist der Quellen-Nachtrag zu IV ZR 141/25."
+    },
+    {
+      "indices": [
+        10
+      ],
+      "reason": "10.07.2023 gehört zum ausdrücklich benannten Durchführungsbeschluss 2023/1795 zum Datenschutzrahmen, nicht zu Schrems II."
+    },
+    {
+      "indices": [
+        11
+      ],
+      "reason": "16.10.2026 bezeichnet das Lesen der angegebenen Passagen von VI ZR 335/24."
+    },
+    {
+      "indices": [
+        12,
+        13
+      ],
+      "reason": "30.09.2026 und 01.10.2026 bezeichnen getrennte Norm- und Passagenprüfungen zu C-316/25."
+    },
+    {
+      "indices": [
+        14
+      ],
+      "reason": "22.09.2026 bezeichnet den begrenzten Quellencheck; gerade keine Volltextprüfung von IV ZR 535/15 wird behauptet."
+    },
+    {
+      "indices": [
+        15,
+        16
+      ],
+      "reason": "31.01.2023 gehört zum ausdrücklich getrennten Berichtigungsbeschluss II ZR 91/21, nicht zum vorausgehenden Urteil."
+    },
+    {
+      "indices": [
+        17,
+        18
+      ],
+      "reason": "16.10.2026 ist der Lesetag des Beschlusses IX ZR 71/25."
+    },
+    {
+      "indices": [
+        19
+      ],
+      "reason": "24.03.2015 ist ausdrücklich das Datum des Berichtigungsbeschlusses zu IX ZR 133/14, nicht das Datum der materiellen Entscheidung."
+    },
+    {
+      "indices": [
+        20,
+        21
+      ],
+      "reason": "16.10.2026 ist der Abgleich aktueller Normen beziehungsweise des Terminberichts. Die Entscheidungen B 3 P 2/25 R und B 3 P 3/25 R werden dadurch nicht neu datiert."
+    },
+    {
+      "indices": [
+        22
+      ],
+      "reason": "04.09.2026 bezeichnet den Normabgleich zur inzwischen erlaubten elektronischen Belegbereitstellung, nicht VIII ZR 66/20."
+    },
+    {
+      "indices": [
+        23,
+        24
+      ],
+      "reason": "Der Urteilstag ist als 6. Oktober 2022 ausgeschrieben. 01.10.2026 ist ausdrücklich der Lesetag des Volltexts VII ZR 895/21."
+    },
+    {
+      "indices": [
+        25
+      ],
+      "reason": "01.01.2025 bezeichnet den Anwendungsbeginn der Gesetzesänderung zur Belegeinsicht, nicht den Urteilstag VIII ZR 66/20."
+    },
+    {
+      "indices": [
+        26
+      ],
+      "reason": "30.09.2026 ist ausdrücklich der Tag der Rechtsprechungsnachprüfung zu V ZR 102/24."
+    }
+  ]
+}

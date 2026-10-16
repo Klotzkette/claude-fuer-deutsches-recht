@@ -6,7 +6,7 @@ Lesen Sie Unterlagen zuerst und beginnen Sie bei klarem Auftrag mit dem Entwurf.
 
 ## 2 Geschäft und Abschluss klären
 
-Ermitteln Sie Anbieter, Leistung, Kundenkreis, Absatzländer, Vertragsdatum, Preislogik und tatsächlichen Annahmezeitpunkt aus Belegen. Verbraucherstatus richtet sich nicht allein nach einer Checkbox. Trennen Sie B2C und B2B sowie neue und bestehende Verträge. Nur entscheidende Lücken fragen; Bekanntes übernehmen. Bieten Sie bei einer echten Wahl zwei konkrete Fassungen mit Folgen an.
+Ermitteln Sie Anbieter, Leistung, Kundenkreis, Absatzländer, Vertragsdatum, Preislogik und Annahmezeitpunkt aus Belegen. Eine Checkbox bestimmt nicht den Verbraucherstatus. Trennen Sie B2C/B2B und neue/bestehende Verträge. Nur entscheidende Lücken fragen; bei einer echten Wahl zwei Fassungen mit Folgen anbieten.
 
 Paragrafen 305 bis 310 BGB: AGB-Eigenschaft, Einbeziehung vor Vertragsschluss, Vorrang ausgehandelter Abreden, überraschende Klauseln, Transparenz und Inhaltskontrolle. Unterschrift macht einen Formulartext nicht ausgehandelt. Bei B2B Paragraf 310 Absatz 1 beachten. Keine geltungserhaltende Reduktion unwirksamer Bedingungen.
 
@@ -14,13 +14,13 @@ Paragrafen 305 bis 310 BGB: AGB-Eigenschaft, Einbeziehung vor Vertragsschluss, V
 
 Webshop: Vertragsschluss, Liefergebiet, Preise, Versand, Zahlung, Eigentumsvorbehalt und Mängel konkret regeln. Waren mit digitalen Elementen nach Paragrafen 475a ff. von eigenständigen digitalen Produkten nach Paragrafen 327 ff. BGB trennen. Aktualisierung und zugesagte Funktionsdauer nicht als unverbindliche Herstellerleistung abtun. Bestellbestätigung mit AGB und tatsächlicher Zahlungsauslösung abgleichen.
 
-Onlinefunktionen getrennt prüfen: Bestellbutton nach Paragraf 312j, gegebenenfalls Kündigungsbutton nach Paragraf 312k und elektronische Widerrufsfunktion nach Paragraf 356a BGB. Für den Rechtsstand seit 19. Juni 2026 die neue Widerrufsfunktion und Artikel 246a EGBGB berücksichtigen; bei Altverträgen Übergangsrecht prüfen. Widerrufsbelehrung und Musterformular gesondert ausgeben.
+Onlinefunktionen trennen: Bestellbutton nach Paragraf 312j, gegebenenfalls Kündigungsbutton nach Paragraf 312k und Widerrufsfunktion nach Paragraf 356a BGB seit 19.06.2026. Artikel 246a EGBGB und bei Altverträgen Übergangsrecht prüfen. Widerrufsbelehrung und Musterformular gesondert liefern.
 
-Reparatur: Terminreservierung und verbindlichen Auftrag trennen. Diagnose, Kostenvoranschlag und Preisobergrenze nach Paragrafen 631, 632 und 649 BGB klären. Zusatzarbeiten nur mit nachvollziehbarer Freigabe. Abnahme, Fälligkeit, Nacherfüllung, Abholung, Lagerkosten und Pfandrecht nach Paragrafen 634 ff., 640, 641, 647 BGB sachgerecht regeln. Keine automatische Verwertung nicht abgeholter Räder. Bei Fernabsatz vorzeitigem Beginn und Erlöschen des Widerrufsrechts unterschiedliche Voraussetzungen zuordnen.
+Reparatur: Reservierung und Auftrag trennen. Diagnose, Kostenanschlag und Obergrenze nach Paragrafen 631, 632 und 649 BGB klären; Zusatzarbeiten nur nach belegter Freigabe. Abnahme, Fälligkeit, Nacherfüllung, Abholung, Lagerkosten und Pfandrecht nach Paragrafen 634 ff., 640, 641, 647 BGB regeln. Keine automatische Verwertung. Bei Fernabsatz Leistungsbeginn und Widerrufserlöschen getrennt prüfen.
 
-Laden und Händlergeschäft: Freiwilligen Umtausch von Widerruf und Mängelrechten trennen. Einfachen Eigentumsvorbehalt nach Paragraf 449 BGB nicht mit einer ausufernden B2B-Sicherung vermengen. Erweiterte Sicherung nur mit geprüfter Abtretung, Vorrang, Freigabe und Verwertungsgrenzen. Paragraf 377 HGB nicht Verbrauchern auferlegen. Futter, versiegelte Produkte und graviertes Zubehör jeweils nach den konkreten Voraussetzungen des Paragrafen 312g Absatz 2 BGB prüfen.
+Laden und Händlergeschäft: Umtausch, Widerruf und Mängelrechte trennen. Eigentumsvorbehalt nach Paragraf 449 BGB von erweiterter B2B-Sicherung unterscheiden; Abtretung, Vorrang, Freigabe und Verwertung prüfen. Paragraf 377 HGB nicht Verbrauchern auferlegen. Futter, versiegelte und gravierte Ware einzeln nach Paragraf 312g Absatz 2 BGB prüfen.
 
-Bank und Kredit: Giro, Sparen, Zahlungsdienst und Darlehen auseinanderhalten. Entgelt für Hauptleistung, echte Zusatzleistung und eigenen Bearbeitungsaufwand getrennt prüfen. Änderungsangebot und tatsächliche Zustimmung belegen. Bei Erstattung Saldoanerkenntnisse, Kenntnis und Verjährung einzeln untersuchen. Bei Darlehen Rollen, Zins, Gebühren, Pflichtinformationen, Widerruf, Sicherheiten und vorzeitige Rückzahlung nach Paragrafen 488, 491 ff., 502, 506 BGB und Artikel 247 EGBGB abstimmen. Händlerfinanzierung und fremden Kreditvertrag nicht vermischen.
+Bank und Kredit: Giro, Sparen, Zahlungsdienst und Darlehen trennen; Haupt-/Zusatzleistung und Eigenaufwand unterscheiden. Änderungsangebot und Zustimmung belegen; Erstattung, Saldoanerkenntnis, Kenntnis und Verjährung getrennt prüfen. Rollen, Zins, Gebühren, Pflichtangaben, Widerruf, Sicherheiten und Ablösung nach Paragrafen 488, 491 ff., 502, 506 BGB und Artikel 247 EGBGB abstimmen. Händler- und Fremdfinanzierung trennen.
 
 Zahlungsbedingungen: [EuGH, 15.10.2026, C-70/25](https://curia.europa.eu/juris/document.jsf?docid=328145&doclang=DE), Rn. 31–42, 45–47, 52, trägt unverzügliche Erstattung nicht autorisierter Zahlungen trotz Vorwurfs grober Fahrlässigkeit; späteren Regress trennen. Keine Warteklausel bis zur Fahrlässigkeitsprüfung. Trägt nicht ein Urteil über sämtliche Bankklauseln oder ein allgemeines Aufrechnungsverbot.
 
@@ -28,7 +28,7 @@ Haftung: Personenschäden, Vorsatz, grobes Verschulden und zwingende Produkthaft
 
 ## 4 Rechtsprechung konkret einsetzen
 
-Prüfen Sie Anker und Folgeentscheidungen im zugänglichen Volltext; Vertragsart und Klauselwortlaut müssen passen. Ausgangsstand: 9. Oktober 2026, kein Vollständigkeitsversprechen.
+Prüfen Sie Ausgangsanker und spätere Entscheidungen im passenden Vertrags- und Klauselkontext. Ausgangsstand 09.10.2026; Ergänzung 16.10.2026 nur mit ausdrücklich genanntem Quellenstatus. Keine Vollständigkeitszusage.
 
 1. EuGH, 7. April 2022, C-249/21, Fuhrmann-2: Die Zahlungspflicht muss sich eindeutig aus der Buttonbeschriftung ergeben, nicht erst aus Umgebungstext. Amtlich: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0249
 2. BGH, 27. April 2021, XI ZR 26/20: Unbeschränkte Bank-Änderungsfiktion unwirksam; keine pauschale Heilung durch Schweigen. BGH, 3. Juni 2025, XI ZR 45/24: Saldoanerkenntnis und Kenntnis für individuelle Rückforderungen und Verjährung gesondert prüfen.
@@ -41,8 +41,10 @@ Prüfen Sie Anker und Folgeentscheidungen im zugänglichen Volltext; Vertragsart
 
 ## 5 Bis zur verwendbaren Fassung fortsetzen
 
-Erstellen Sie vollständige AGB, gesonderte Pflichtinformationen und die nötigen Bestell-, Auftrags- oder Einführungstexte. Prüfen Sie laufende Verträge zusätzlich auf Preisänderung, Paragraf 309 Nummer 9 BGB und Kündigung. Unzulässige Mandantenwünsche kurz erklären und eine konkrete zulässige Alternative liefern.
+Preisänderung: BGH, Urteil vom 01.10.2026, III ZR 205/25, nur nach [Pressemitteilung 184/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html); kein Volltext, keine Randnummern. Unklar blieb: nur Kündigung oder Widerspruch mit Altpreisfortsetzung bis zur Anbieterkündigung? Intransparenz nach Paragraf 307 Absatz 1 BGB, kein allgemeines Erhöhungsverbot oder Erstattungsurteil. Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln samt Mitteilung lesen, Lücken nachfordern. Vertrags-/Änderungsdatum und Normfassung prüfen. Klauseln und Mitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren. Transparenz allein legitimiert keine Schweigefiktion und heilt Altklauseln nicht rückwirkend.
 
-Nach Antworten betroffene Klauseln überarbeiten; nicht neu beginnen. Fehlende Belege nicht erfinden; andere Teile fertigstellen und die verbleibende Sperre genau benennen. Scheitert eine Recherche, nach einem alternativen Zugriff den benötigten Nachweis anfordern, statt endlos zu wiederholen. Quellenstatus ehrlich als Volltext, Leitsatz, Pressemitteilung oder ungeprüft kennzeichnen. Keine erfundenen Fundstellen.
+Liefern Sie vollständige AGB, Pflichtinformationen und nötige Bestell-, Auftrags- oder Einführungstexte. Laufzeit nach Paragraf 309 Nummer 9 BGB und Kündigung prüfen. Unzulässige Wünsche begründet durch eine konkrete Alternative ersetzen.
 
-Kundentext und internen Prüfvermerk trennen. Vollständige Sätze, dezimale Gliederung, bei formatierten Dokumenten Times New Roman 11 pt. Abschließend auf widersprechende Fristen, Preise, Definitionen und Einbeziehungswege prüfen. Keine Garantie „rechtssicher“. Veröffentlichung und Versand nur nach konkreter Freigabe und mit tatsächlich vorhandenem Zugang.
+Antworten in betroffene Klauseln einarbeiten; fehlende Belege benennen, andere Teile fertigstellen. Bei Recherchefehlern Alternativzugriff versuchen, dann konkret nachfordern. Volltext, Leitsatz, Pressemitteilung und ungeprüfte Quelle unterscheiden; keine Fundstellen erfinden.
+
+Kundentext und Prüfvermerk trennen. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt. Fristen, Preise, Definitionen und Einbeziehung abgleichen. Keine Rechtssicherheitsgarantie; Veröffentlichung/Versand nur nach Freigabe mit vorhandenem Zugang.

@@ -6,22 +6,15 @@ Lies Vertrag, Kontobelege und Bankantwort und verfasse Reklamation, Erwiderung o
 
 Ohne Auftrag Überweisungsreklamation, Beratungsschaden oder Kreditklausel klären; sonst direkt entwerfen. „Die zweite Zahlung erfolgte nach Sperranzeige“ ändert Haftungsprüfung und Briefbegründung für diese Zahlung. Bekannte Daten behalten; kein Plugin-Zugriff nötig.
 
-Frage nach entscheidenden Lücken, auch bei vorhandenen Unterlagen. Bei bestrittenen Überweisungen die konkrete Freigabeanzeige oder den Rückflussnachweis anfordern; bei Beratungsfehlern etwa die damalige Geeignetheitserklärung und Produktinformation. Nach Eingang prüfen, welche Tatsachen tatsächlich belegt sind, und nur die betroffene Rechnung oder Argumentation ändern. Neue entscheidende Widersprüche erlauben weitere kurze Fragen, keine erneute Mandatsaufnahme.
+Frage nach entscheidenden Lücken, auch bei vorhandenen Unterlagen. Bei Überweisungen Freigabeanzeige oder Rückflussbeleg, bei Beratung Geeignetheitserklärung und damalige Produktinformation anfordern. Nach Eingang Beweislage prüfen und betroffene Rechnung oder Argumentation ändern. Neue entscheidende Widersprüche gezielt klären; keine erneute Mandatsaufnahme.
 
-## 1.2. Fachlicher Direktstart
+## 1.2. Produkt und Beweis
 
-1. Leitfrage aus Akte und Auftrag festlegen: Welche Bankleistung oder Kapitalmarktleistung ist betroffen.
-2. Kernprüfung in einem Durchgang: Welche Vertrags-, Aufsichts- oder Wohlverhaltenspflicht trägt den Fall; Welche Dokumentation beweist Beratung, Autorisierung, Warnung oder Zustimmung.
-3. Beweislast anspruchsbezogen prüfen. Bei bestrittenen Zahlungen Zustimmung, technische Authentifizierung und Bankgegenanspruch trennen. Bei Beratungshaftung keine pauschale Beweislast der Bank für jede Aufklärung annehmen.
-4. Erstes Arbeitsprodukt liefern: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
+Rolle und Produkt aus Akte und Auftrag bestimmen: Kredit, Zahlungsdienst, Sicherheit, Wertpapierleistung, Verwahrung oder Token. Einschlägige Vertrags-, Aufsichts- und Wohlverhaltenspflichten samt Beratung, Warnung oder Zustimmung belegen. Beweislast anspruchsbezogen; keine pauschale Bankbeweislast für jede Aufklärung. Pflichtverletzung, Schaden und Kausalität trennen. Nur das bestellte Schreiben, Gutachten oder Prozessdokument ausarbeiten.
 
-## 1.3. Produkt, Vertragsinhalt und Haftung
+## 1.3. Persönliche Anteilsfinanzierung
 
-1. Produkt und Rolle: Bank, Kunde, Anleger, Emittent, Zahlungsdienstleister, Vermittler oder Aufsicht als Arbeitsrolle festlegen.
-2. Vertragskern: Kredit, Zahlungsdienst, Bürgschaft, Garantie, Wertpapierdienstleistung, Verwahrung oder Tokenprodukt abgrenzen.
-3. Pflichten und Aufsicht: Erlaubnis, Organisation, Aufklärung, Dokumentation, Geeignetheit, Autorisierung und Meldepflichten prüfen.
-4. Haftung und Beweis: Beratungsfehler, Rückvergütung, Fehlüberweisung, Missbrauch, Marktinformation und Kausalität belegen.
-5. Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Verteidigungslinie, Fristenblatt oder Entscheidungsvorschlag erstellen.
+[BGH, Urteil vom 10.03.2026 - Az. XI ZR 132/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1), Volltext Rn. 19 bis 32: Eigener Anteilserwerb/Refinanzierung grundsätzlich private Vermögensverwaltung, auch bei beherrschendem Geschäftsführer. Ausnahme: erforderlicher planmäßiger Geschäftsbetrieb der Vermögensverwaltung. Formularstatus nach Paragraf 309 Nummer 12 BGB und Geschäftskonto tragen dort keinen Unternehmerstatus. Erwerbszweck, persönliche Verpflichtung, Alt-/Umschuldungsvertrag, Organisation und Pflichtangaben belegen; nach Nachforderung Status und Abrechnung prüfen, Gutachten oder Einwendung fertigstellen. Vertrag 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014, Paragraf 491 Absatz 1 vom 11.06.2010 bis 12.06.2014; Paragrafen 494 und 502 Absatz 1 Satz 2 vom 30.07.2010 bis 20.03.2016. Eigene Normfassung/Übergangsrecht prüfen; Zurückverweisung, keine automatische Zinsfreiheit oder Erstattung.
 
 ## 1.4. Belege und Vertragsänderung
 

@@ -23,6 +23,12 @@ Lies zunächst den freigegebenen Ordner einschließlich E-Mail-Anhängen und Zus
 
 Wenn der Auftrag den Berliner Kommissionsbericht anführt, nutze die [Abgrenzung und Gegenargumente](../../references/berliner-kommissionsbericht.md). Ein Übergang vieler Grundstücke ist nicht allein wegen seiner Größe Vergesellschaftung; maßgeblich ist auch die gesetzlich gesicherte gemeinwirtschaftliche Wirtschaftsweise. Das Berliner Rahmengesetz von 2026 ist kein vollziehender Enteignungstitel und am 30.09.2026 noch nicht in Kraft. Erläutere im Brief, ob der Auftrag eine Grundstückseingabe oder einen eigenständigen Artikel-15-Prüfweg benötigt. Die Kommissionsmehrheit ersetzt keine gerichtliche Klärung.
 
+### 3.2. Naturschutzrechtliche Nutzungsbeschränkung
+
+Bei aufgegebener rechtmäßiger Forstnutzung wegen naturschutzrechtlicher Verbote nicht in die BauGB-Enteignungsroute wechseln. BVerwG, Urteil vom 26.03.2026, 10 C 4.25, Rn. 18–19 und 23–31, behandelt Paragraf 68 Absatz 1 BNatSchG als Ausgleich einer Inhalts- und Schrankenbestimmung. Zuerst andere Abhilfe, insbesondere Ausnahme oder Befreiung nach Paragraf 67, und deren Verfahrensstand ermitteln. Flächenplan und bisherige rechtmäßige Nutzung sichern. Privatnützigkeit der nicht gänzlich unbedeutenden beeinträchtigten Teilflächen prüfen; die Wirtschaftlichkeit des Gesamtbetriebs ist kein ausreichendes Gegenargument.
+
+Eine behauptete andere Nutzung muss auf diesen Flächen tatsächlich möglich und wirtschaftlich nennenswert sein. Nach neuen Befunden Flächenumfang, Kausalität und verbleibende Nutzung neu bewerten. Rn. 33–41 und Tenor: Zurückverweisung zur Tatsachenklärung, kein zugesprochener Geldbetrag, keine volle Verkehrswertgarantie. Landesrecht, Anspruchsgegner und Rechtsweg eigenständig prüfen. Diese Entscheidung trägt weder einen Artikel-15-Maßstab noch einen pauschalen Anspruch bei jedem Wertverlust; amtlichen Volltext im Quellenregister verwenden.
+
 ## 4. Quellenprüfung
 
 Nutze [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), insbesondere Artikel 14 und 15, BauGB 85, 87, 104 sowie BVerfG vom 06.12.2016, Rn. 243–246. Die atomrechtliche Entscheidung ersetzt keine Prüfung der konkreten Straßenplanung. Beachte die [Zitierweise](../../references/zitierweise.md).

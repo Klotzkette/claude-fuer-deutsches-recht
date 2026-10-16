@@ -114,19 +114,26 @@
       "verification_status": "frisch_amtlicher_volltext_passagen",
       "source_sha256": "efb19a166adc41d857e0aeec4e3b3225cc795cae5f10e443c5b72adc31c112cc",
       "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_335-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Auskunft nach Paragraf 84a AMG verlangt Indiztatsachen und plausible Verursachung, nicht überwiegende Wahrscheinlichkeit. Auskunft nicht allein auf das individuelle Krankheitsbild begrenzen. Eine abstrakte unbekannte Reserveursache genügt nicht zur Beseitigung der Kausalitätsvermutung nach Paragraf 84 Absatz 2 AMG. Grenze: Zurückverweisung; kein Schadensersatz zugesprochen. Auskunft und Haftung bleiben getrennt, ebenso Behandlerhaftung und soziale Entschädigung. Nicht alle 48 Seiten vollständig nachgeprüft.",
+      "verification_status": "Amtliches PDF unmittelbar geladen; Kopf, Leitsätze, Tenor und Rn. 18–37 sowie 63–80 gelesen. Operative Ergänzungen beschränkt auf Rn. 18–24, 27–37 und 65–66."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 09.03.2026, VI ZR 335/24"
     ],
-    "sha256": "3d52f1b8b3cd7ad926081662d73797554c017c8f1682b8abc590a8839a730595",
+    "sha256": "afb67dd2f172b2a96c86e25cb428339baee7ab3e505a292b2cd030dc29b4b32d",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -147,15 +154,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen. Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche. Redaktionelle Quellenprüfung, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage.",
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
       "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Behandlungsanlass und fertiges Schreiben stehen vor dem Fachprogramm; Einwilligung wird ohne starre Bedenkfrist, aber mit erkennbarem Überlegungsbedarf erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BGH, Urteil vom 09.03.2026, VI ZR 335/24"
     ],
-    "sha256": "d12683c4feed7c77f5d2e4faaaf1906bf25bb254e1679b76b8af005dc4f2edbc",
+    "sha256": "87286c5ad5f85b5f07a06259b91b02cdf14a401b2a9a643c9ef62c2377d0208c",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -228,7 +236,9 @@
       "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
       "quality/evals/fachanwalt-medizinrecht.json",
       "fachanwalt-medizinrecht/skills/aufklaerungsfehler-beweisstrategie/SKILL.md",
-      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md"
+      "fachanwalt-medizinrecht/skills/behandlungsfehler-anspruch-pruefen/SKILL.md",
+      "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/SKILL.md",
+      "fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/SKILL.md"
     ],
     "opening_change": "Behandlungsablauf, Aufklärung und belegte Folgen für Haushalt und Pflege rechtlich prüfen Workflow-Ergänzung: Leer: Behandlungsfehlerprüfung, Haushalts-/Pflegeschaden oder Leistungsablehnung anbieten. Dateien ohne Aufgabe: Behandlungsakte, Befunde und Kosten still lesen; Haftungs-, Bezifferungs- oder Widerspruchsziel klären. Klarer Auftrag: konkrete Stellungnahme oder Forderung direkt ausarbeiten, keine ungefragte medizinische Gesamtbewertung.",
     "norms": [
@@ -274,6 +284,16 @@
         "passages_read": "Entscheidungskopf/Leitsatz und Rn. 9–18",
         "source_sha256": "efb19a166adc41d857e0aeec4e3b3225cc795cae5f10e443c5b72adc31c112cc",
         "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-medizinrecht.json"
+      },
+      {
+        "citation": "BGH, Urteil vom 09.03.2026, VI ZR 335/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_335-24.pdf?__blob=publicationFile&v=1",
+        "application": "Auskunft nach Paragraf 84a AMG verlangt Indiztatsachen und plausible Verursachung, nicht überwiegende Wahrscheinlichkeit. Auskunft nicht allein auf das individuelle Krankheitsbild begrenzen. Eine abstrakte unbekannte Reserveursache genügt nicht zur Beseitigung der Kausalitätsvermutung nach Paragraf 84 Absatz 2 AMG.",
+        "limit": "Zurückverweisung; kein Schadensersatz zugesprochen. Auskunft und Haftung bleiben getrennt, ebenso Behandlerhaftung und soziale Entschädigung. Nicht alle 48 Seiten vollständig nachgeprüft.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtliches PDF unmittelbar geladen; Kopf, Leitsätze, Tenor und Rn. 18–37 sowie 63–80 gelesen. Operative Ergänzungen beschränkt auf Rn. 18–24, 27–37 und 65–66.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/medizin-zentral.json",
+        "workflow_effect": "Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage."
       }
     ],
     "remaining_limits": [
@@ -335,5 +355,46 @@
     "reference": "fachanwalt-medizinrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie medizinische Zweckbestimmung und notwendige Drittbewertung getrennt von der bloßen Verwendung im Krankenhaus. Verwaltungssoftware und medizinische Sicherheitskomponente brauchen verschiedene Einstufungen und Vorfallwege.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/medizin-zentral.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 09.03.2026, VI ZR 335/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_335-24.pdf?__blob=publicationFile&v=1",
+        "application": "Auskunft nach Paragraf 84a AMG verlangt Indiztatsachen und plausible Verursachung, nicht überwiegende Wahrscheinlichkeit. Auskunft nicht allein auf das individuelle Krankheitsbild begrenzen. Eine abstrakte unbekannte Reserveursache genügt nicht zur Beseitigung der Kausalitätsvermutung nach Paragraf 84 Absatz 2 AMG.",
+        "limit": "Zurückverweisung; kein Schadensersatz zugesprochen. Auskunft und Haftung bleiben getrennt, ebenso Behandlerhaftung und soziale Entschädigung. Nicht alle 48 Seiten vollständig nachgeprüft.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtliches PDF unmittelbar geladen; Kopf, Leitsätze, Tenor und Rn. 18–37 sowie 63–80 gelesen. Operative Ergänzungen beschränkt auf Rn. 18–24, 27–37 und 65–66.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/medizin-zentral.json",
+        "workflow_effect": "Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-medizinrecht/README.md",
+        "sha256": "94209107aec8ff9b1fc54faf3961e01407a57360d343141715e539f488d3d90c"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+        "sha256": "afb67dd2f172b2a96c86e25cb428339baee7ab3e505a292b2cd030dc29b4b32d"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+        "sha256": "87286c5ad5f85b5f07a06259b91b02cdf14a401b2a9a643c9ef62c2377d0208c"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/SKILL.md",
+        "sha256": "96ceccb74df7527d91c3edbd687acb82433b1839ee9d64fb746f262b8ee7baf0"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/SKILL.md",
+        "sha256": "09c2aed90bcc99371b276155f543bbdbaa40788cb45950059f4bf75c3ab127c1"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

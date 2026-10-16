@@ -62,11 +62,17 @@
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
       "checked_on": "2026-10-01",
       "supports": "Amtlicher Volltext neu: Einleitung der Entscheidungsgründe II / Rn. 31. Bisheriger Nachweis zu Rn. 48–63 aus Vorprüfung übernommen. Im Außenprüfungsskill den Charakter der allgemeinen Richtsatzkritik als nicht tragend klargestellt; Methodenwahl und vorhandene betriebsinterne Daten bleiben tragender Prüfpunkt. Grenze: Kein generelles Richtsatzverbot. Die bereits am 01.10.2026 im vorigen Durchgang geprüfte Folgeentscheidung X R 14/24 wird übernommen, nicht nochmals als frisch gelesener Volltext ausgegeben."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos. Grenze: Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
+      "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Redaktioneller Nachtrag 16.10.2026: Gegenkalkulation früh mit übergangenen Betriebsdaten und Methodenfehler verknüpft; fortbestehende Schätzungsbefugnis und fehlender Anspruch auf Nullzuschätzung ausdrücklich erhalten. Übrige Steuerzweige nicht gekürzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -74,9 +80,10 @@
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25"
     ],
-    "sha256": "ca0787dbfad31b6c46a072f2c46c824c326d443086cc4a42ff5be0c7640e421f",
+    "sha256": "e42e4fe8c6ba4be828eb43ab7c1316d10d20f32b21a0a6dc4b2076e45109dfa4",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -200,7 +207,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Redaktioneller Nachtrag 16.10.2026: Gegenkalkulation früh mit übergangenen Betriebsdaten und Methodenfehler verknüpft; fortbestehende Schätzungsbefugnis und fehlender Anspruch auf Nullzuschätzung ausdrücklich erhalten. Übrige Steuerzweige nicht gekürzt. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -208,9 +215,10 @@
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25"
     ],
-    "sha256": "95cad7972b4e1dac65be59f48f433df4027e961cc97d35fff0a0222ddd9da535",
+    "sha256": "89ab129d30a0a3b695cc08c47819c3fcda5c5aedcc6356e18f6e22f6e9a98876",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -224,7 +232,9 @@
       "steuerrecht-anwalt-und-berater/skills/juristischer-argumentationskern/SKILL.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
-      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"
+      "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+      "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
+      "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md"
     ],
     "opening_change": "Konkrete Abweichung zwischen Erklärung, Bescheid und Prüfungsrechnung untersuchen; im Hauptproblem Waren-Gegenkalkulation aufbauen.",
     "norms": [
@@ -246,6 +256,16 @@
         "application": "Fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs ist Methodenfehler.",
         "limit": "Schätzungsbefugnis bleibt; Hinweise für zweiten Rechtsgang ohne Bindungswirkung, keine Nullzuschätzung.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BFH, Beschluss vom 18.09.2026, X B 121/25",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/",
+        "application": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos.",
+        "limit": "Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden."
       }
     ],
     "remaining_limits": [
@@ -309,5 +329,42 @@
     "reference": "steuerrecht-anwalt-und-berater/references/ki-normen-und-fallpruefung.md",
     "focus": "Trennen Sie Belegsortierung, fachliche Steuerempfehlung und eine eigenständige Personenbewertung. Eine falsche Steuerzahl ist nicht schon ein KI-VO-Vorfall; steuerliche und datenschutzrechtliche Folgen gesondert erfassen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BFH, Beschluss vom 18.09.2026, X B 121/25",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/",
+        "application": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos.",
+        "limit": "Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden."
+      }
+    ],
+    "files": [
+      {
+        "path": "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
+        "sha256": "344797d0f18acc0ef78e8293c512684f0fee55b899bcb44ecfe3a3e34f267ea7"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
+        "sha256": "bdd33f131146df1453ed5a8f7cac91bf5b8033017a9955cef4aa89f584406826"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+        "sha256": "e42e4fe8c6ba4be828eb43ab7c1316d10d20f32b21a0a6dc4b2076e45109dfa4"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+        "sha256": "89ab129d30a0a3b695cc08c47819c3fcda5c5aedcc6356e18f6e22f6e9a98876"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

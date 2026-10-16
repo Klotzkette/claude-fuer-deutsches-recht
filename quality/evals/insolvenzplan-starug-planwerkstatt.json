@@ -47,33 +47,41 @@
       "url": "https://www.gesetze-im-internet.de/starug/__42.html",
       "checked_on": "2026-09-30",
       "supports": "Während Rechtshängigkeit ruhende Antragspflicht, unverzügliche Anzeige der Insolvenzreife und Wiederaufleben nach Wirkungsverlust."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein. Grenze: Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+      "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vergleichsrechnung und versprochene Drittkompensation werden auf volle, sichere Deckung statt nomineller Zusagen geprüft. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Quellenvertiefung: Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern.",
     "changes": [
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
-      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen."
+      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
     ],
-    "sha256": "8563b827871cf0468d9fe9b189c25865aaa5310d848c174e886865e22bec286c"
+    "sha256": "3b9b803d36cada96885f9ac6a6b4d39ff6440ca71ca62e75aa1c39209035ecc1"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die zwölf Planwege eigenständig neu formuliert: Auswahl, Gruppen, Rechte, Finanzierung, Mehrheit, Schutz, Bestätigung und Vollzug bleiben enthalten. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Quellenvertiefung: Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern.",
     "changes": [
       "IX ZB 13/16 führt zu Bonitäts-, Rang- und Wertnachweisen der Kompensation; Vorprüfung von späterem Minderheitenschutz getrennt.",
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
       "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
-      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen."
+      "Einstiegsredaktion 16.10.2026: Planmodul und tragfähige Drittdeckung vorangestellt; alte InsO-Vorprüfung ausdrücklich nicht unmittelbar auf StaRUG übertragen.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 16.07.2026, IX ZR 71/25"
     ],
-    "sha256": "153c230a0dfe7732d4fbf496c19e9bfe91d7605b587545e43382286082d57b5e"
+    "sha256": "fcc57c54006b31db5867f2d9176c89b37d94c7daa1de293a7637816abcf3a319"
   },
   "selection": {
     "positive": [
@@ -125,7 +133,8 @@
       "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
       "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
       "insolvenzplan-starug-planwerkstatt/README.md",
-      "quality/evals/insolvenzplan-starug-planwerkstatt.json"
+      "quality/evals/insolvenzplan-starug-planwerkstatt.json",
+      "insolvenzplan-starug-planwerkstatt/skills/gestaltender-teil/SKILL.md"
     ],
     "opening_change": "Geplanten Forderungseingriff, Finanzierung und Abstimmungsfähigkeit des konkreten Plans prüfen.",
     "norms": [
@@ -145,6 +154,16 @@
         "checked_on": "2026-09-30",
         "application": "Für die bereits anhängige Restrukturierung gilt BGH, Beschluss vom 23.04.2026 – [IX ZB 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__18-25.pdf?__blob=publicationFile&v=1), Rn. 10–23: Nach Anzeige von Zahlungsunfähigkeit oder Überschuldung gemäß § 32 Absatz 3 StaRUG ist die Aufhebung nach § 33 Absatz 2 Satz 1 Nummer 1 StaRUG die Regel. Die Ausnahmen eröffnen gerichtliches Ermessen, keinen automatischen Fortsetzungsanspruch. Bloß fehlende Vorteile eines Insolvenzverfahrens oder eine unsichere Ein-Prozent-Quote beweisen kein offensichtliches Gläubigerinteresse gegen die Eröffnung. Beruht Insolvenzreife auf vorgezogener Fälligkeit einer planbetroffenen Forderung, muss das Restrukturierungsziel überwiegend wahrscheinlich erreichbar sein. Frage nach Stand, Betrag, Bedingungen und Absicherung nötiger Drittbeiträge und aktualisiere Route, Liquiditätsplan und Vermerk. Eine freiwillige, ungesicherte Zusage genügt hierfür nicht ohne weitere tragfähige Umstände. Die Gruppenbildung wurde ausdrücklich offengelassen (Rn. 24). Ein Schutzschirm nach § 270d InsO setzt beim Zugang fehlende Zahlungsunfähigkeit voraus.",
         "limit": "Gezielte Ergänzung; frühere Quellenprüfdaten bleiben erhalten. Keine abschließende Insolvenzfeststellung aus IX ZR 18/25 und keine Gruppenfreigabe aus IX ZB 18/25."
+      },
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
       }
     ],
     "remaining_limits": [
@@ -201,5 +220,42 @@
         "utf8_bytes": 21194
       }
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
+      }
+    ],
+    "files": [
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/README.md",
+        "sha256": "915339eeb1cdf32fdf69892ce2949b164f7769ada9a6934d68e1e846a38f7ccf"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "sha256": "3b9b803d36cada96885f9ac6a6b4d39ff6440ca71ca62e75aa1c39209035ecc1"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "sha256": "fcc57c54006b31db5867f2d9176c89b37d94c7daa1de293a7637816abcf3a319"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/skills/gestaltender-teil/SKILL.md",
+        "sha256": "b6052f0e03a7067d2da67f46f326b4029f1829d2fc957fb2a79887b2cbbb3606"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

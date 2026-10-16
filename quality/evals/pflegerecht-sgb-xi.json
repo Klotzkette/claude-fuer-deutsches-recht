@@ -53,6 +53,18 @@
       "checked_on": "2026-10-01",
       "supports": "Jahresübersicht erneut gelesen: B 3 P 2/25 R und B 3 P 3/25 R zum Abruf weiterhin mit Terminvorschau; kein veröffentlichter Terminbericht 30/26 festgestellt. Keine Sachentscheidung daraus abgeleitet.",
       "verification_status": "frisch_verfahrensuebersicht_keine_urteilspruefung"
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html",
+      "checked_on": "2026-10-16",
+      "supports": "Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos. Grenze: Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.",
+      "verification_status": "16.10.2026: Web-Werkzeug lieferte 403; amtliche HTML-Seite anschließend unmittelbar mit curl erfolgreich abgerufen und Bericht vollständig gelesen. Normen 45b und 82 mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p2-sozial-steuer.html."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+      "checked_on": "2026-10-16",
+      "supports": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich. Grenze: Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+      "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen."
     }
   ],
   "selection": {
@@ -587,7 +599,12 @@
       "pflegerecht-sgb-xi/README.md",
       "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
       "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
-      "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md"
+      "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md",
+      "pflegerecht-sgb-xi/skills/haeusliche-pflegeleistungen-planen/SKILL.md",
+      "pflegerecht-sgb-xi/skills/pflegebescheid-rechtsbehelf-erstellen/SKILL.md",
+      "pflegerecht-sgb-xi/skills/pflegeeinrichtungen-verguetung-qualitaet-pruefen/SKILL.md",
+      "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+      "pflegerecht-sgb-xi/skills/pflegeheimkosten-zuschlag-pruefen/SKILL.md"
     ],
     "opening_change": "Pflegegrad, Versorgung, Kosten und Rechtsbehelf als konkrete Einstiegspfade; vorhandene Belege vor Rückfragen.",
     "norms": [
@@ -652,6 +669,26 @@
         "limit": "Keine Zusage einer Krankenversicherungsleistung; Verzögerungszahlung nach damaliger Fassung.",
         "checked_on": "2026-09-30",
         "verification_status": "wiederverwendete_dokumentierte_fallkarte"
+      },
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 2/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html",
+        "application": "Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos.",
+        "limit": "Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Werkzeug lieferte 403; amtliche HTML-Seite anschließend unmittelbar mit curl erfolgreich abgerufen und Bericht vollständig gelesen. Normen 45b und 82 mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p2-sozial-steuer.html.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten."
+      },
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
       }
     ],
     "remaining_limits": [
@@ -676,26 +713,28 @@
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen. 2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten.; Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht.",
     "changes": [
       "Aktueller Beratungsrhythmus, Ersatzpflegefrist und Heimzuschlag.",
       "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben.",
-      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
     ],
-    "sha256": "d720ef4a6c6b2204e365ee42b76d1646b331ae51be81cafef7a54e11b1abd07e",
+    "sha256": "dc24e57ee56b6c38e5bc9b99e2ab733e1f7976e258fac332ac61e6a358a9dce1",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführliche eigenständige Bearbeitung mit zehn konkreten Fachwegen statt allgemeiner Mandatsfloskeln. 2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten.; Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht.",
     "changes": [
       "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
       "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung.",
-      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Pflegeprodukt und konkrete Lücken statt erneuter Aufnahme; vorhandener früher Pflegegradanker im Mini erhalten, Werkstatt ergänzt. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 2/25 R; BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
     ],
-    "sha256": "50dc86c018ef44c4a0c9364b44b54280b44cd1bef208942599f1151205b09ef5",
+    "sha256": "61ed77d1c44f457634a0af3f99cb7fd08afba5d735776b5593ffe9df2138fbe3",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -707,5 +746,72 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 2/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html",
+        "application": "Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos.",
+        "limit": "Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Werkzeug lieferte 403; amtliche HTML-Seite anschließend unmittelbar mit curl erfolgreich abgerufen und Bericht vollständig gelesen. Normen 45b und 82 mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p2-sozial-steuer.html.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten."
+      },
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
+      }
+    ],
+    "files": [
+      {
+        "path": "pflegerecht-sgb-xi/README.md",
+        "sha256": "664bd8cab69f831296fc218ff993dd8f3f8b3f55b9c114bc92248d7d73d09a92"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
+        "sha256": "dc24e57ee56b6c38e5bc9b99e2ab733e1f7976e258fac332ac61e6a358a9dce1"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+        "sha256": "61ed77d1c44f457634a0af3f99cb7fd08afba5d735776b5593ffe9df2138fbe3"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md",
+        "sha256": "28416c7bbdac8ed214859b264a2e6b7e96a1b6b26a362592a065038922e14cb3"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/haeusliche-pflegeleistungen-planen/SKILL.md",
+        "sha256": "5743e5e8654f305a4802353fc7fce29202c32d226dd08428fe59537f1b4b3c3c"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegebescheid-rechtsbehelf-erstellen/SKILL.md",
+        "sha256": "cada911d685b423f76a39d7397de7eebb4de2962810a2d96dd1177beedc3f66e"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegeeinrichtungen-verguetung-qualitaet-pruefen/SKILL.md",
+        "sha256": "bc4bf69e041830726462a59b7ded0055acbc2d17cba80b9d726e8f4dea055867"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+        "sha256": "44376db370b227441d409230a95cbdd4c23bc4caca98fb0ab1fc4681d615bb8d"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegeheimkosten-zuschlag-pruefen/SKILL.md",
+        "sha256": "f9b45722c863d5d7c432719d3ac477d5af772292a876a21f9a757420bb8b956b"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

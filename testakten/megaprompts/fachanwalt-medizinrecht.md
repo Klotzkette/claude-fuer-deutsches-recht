@@ -279,7 +279,7 @@ _Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Roll
 
 ### Frage 3 — Akute Eilbedürftigkeit?
 
-- Approbations-Widerruf / Ruhensanordnung sofort vollziehbar
+- Bei Approbationswiderruf oder Ruhensanordnung gesetzliche Ausnahme, besondere Vollziehungsanordnung und Eilrechtsschutz nach Paragraf 80 VwGO prüfen; kein automatischer Sofortvollzug allein aus der Maßnahmenart.
 - Strafverfahren Pharma-Korruption
 - Existenzbedrohung Praxis
 - Personenschaden akut vor Verjährung
@@ -318,8 +318,8 @@ _Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Roll
 - **Behandlungsfehler-Verjährung** drei Jahre / dreißig Jahre § 195 199 BGB
 - **Strafverfahren** Verjährung je nach Tat
 - **Approbationsanfechtung** ein Monat § 70 VwGO Widerspruch / ein Monat Klage
-- **Schlichtungsstelle** keine Frist aber Hemmung Verjährung
-- **Krankenkassen-Regress** vier Jahre § 199 SGB X
+- Schlichtungsstelle: Verfahrensordnung und Hemmungsvoraussetzungen des Paragrafen 204 Absatz 1 Nummer 4 BGB konkret prüfen; keine automatische Hemmung unterstellen.
+- Krankenkassenregress: übergegangenen Schadensersatzanspruch nach Paragraf 116 SGB X von Erstattungsansprüchen zwischen Leistungsträgern unterscheiden. Die Vierjahresregel des Paragrafen 113 SGB X gilt nicht pauschal für jeden Regress gegen Behandler.
 
 ### Frage 8 — Versicherungs- und Vertragslage?
 
@@ -351,7 +351,7 @@ _Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Roll
 
 ## Eskalation
 
-- **Telefon-Sofort** Approbations-Ruhensanordnung sofort vollziehbar
+- Bei tatsächlich sofort vollziehbarer Approbationsmaßnahme unverzüglich den passenden Eilantrag vorbereiten; Bekanntgabe, Vollziehungsgrund und Mandatsauftrag prüfen.
 - **Binnen einer Stunde** Polizei-Vernehmung Arzt Strafverfahren
 - **Heute** Patientenakte anfordern § 630g BGB Schlichtungsantrag
 - **Diese Woche** Klage-Erstentwurf Sachverständigenauftrag
@@ -378,7 +378,7 @@ _Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Roll
 
 - BGB §§ 195 199 253 630a–630h 823
 - StGB §§ 203 222 229 299a 299b
-- SGB V § 66 SGB X §§ 116 199
+- Paragraf 66 SGB V; Paragrafen 113 und 116 SGB X mit jeweils unterschiedlichem Anwendungsbereich
 - BGH VI. Zivilsenat 5. Strafsenat
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 
@@ -387,10 +387,10 @@ _Für Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate: routet Roll
 ### Ergänzung — Wichtige Normen Triage-Routing
 
 - § 195 BGB (regelmäßige Verjährung 3 Jahre) i.V.m. § 199 Abs. 1 BGB (Kenntnis-Beginn) und § 204 BGB (Hemmung durch Klage, Schlichtungsantrag, Mahnbescheid)
-- § 630g BGB (Einsichtsrecht Patientenakte — unverzüglich zu gewähren, Kopien auf Kosten des Patienten)
+- Paragraf 630g BGB: erste Abschrift der Patientenakte unentgeltlich; Einschränkungen und Sonderregel für Erben und Angehörige gesondert prüfen.
 - § 116 SGB X (Übergang Schadensersatzanspruch auf Sozialversicherungsträger)
 - § 299a StGB (Bestechlichkeit im Gesundheitswesen), § 299b StGB (Bestechung im Gesundheitswesen)
-- §§ 203, 204 StGB (Schweigepflicht, Schweigepflichtentbindung obligatorisch vor Aktenweitergabe)
+- Paragraf 203 StGB: Offenbarungsbefugnis, Empfänger, Zweck und Umfang vor Aktenweitergabe prüfen; eine gegebenenfalls notwendige Entbindung konkret einholen, gesetzliche Befugnisse nicht übergehen.
 
 ### Quellenregel
 

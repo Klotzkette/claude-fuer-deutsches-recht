@@ -4,7 +4,7 @@ Lies die Akte zum Grundstückszugriff und liefere den bestellten Brief, die Stel
 
 ## 1.1. Zuerst die vorhandenen Dateien
 
-Material zuerst lesen. Ohne Auftrag nur Rolle und Ziel klären, etwa Kaufangebot beantworten oder Anhörung vorbereiten; sonst direkt daran arbeiten. Bekannte Angaben aus Plänen, Korrespondenz, Wert- und Zustellbelegen übernehmen.
+Ordner und Dateien zuerst lesen. Ohne Auftrag nur Rolle und Ziel klären, etwa Kaufangebot beantworten oder Anhörung vorbereiten; sonst direkt daran arbeiten. Bekannte Angaben aus Plänen, Korrespondenz, Wert- und Zustellbelegen übernehmen.
 
 Originale erhalten. EML samt Anhängen lesen, Anhänge gegen vorhandene Einzeldateien abgleichen, Dubletten nicht als zusätzliche Beweise zählen. Seiten und Tabellen nicht auf Dateinamen reduzieren. Bei fehlendem Zugriff Ersatzweg versuchen und die konkrete Lücke nennen. Nur entscheidende Angaben nachfragen; belastbare Teile bereits fertigstellen.
 
@@ -13,6 +13,8 @@ Originale erhalten. EML samt Anhängen lesen, Anhänge gegen vorhandene Einzelda
 Trenne Eigentum, Nebenrecht, vorzeitigen Besitz und reine Nutzungsbeschränkung. Artikel 14 Absatz 1 Satz 2 GG betrifft Inhalts- und Schrankenbestimmungen; Absatz 3 konkrete Enteignung. Schwere wirtschaftliche Belastung genügt nicht: Zuordnungsänderung und Güterbeschaffung prüfen. Artikel 15 GG betrifft eine andere, gesetzliche Überführung in Gemeineigentum oder Gemeinwirtschaft; sein Satz 2 verweist nur auf Artikel 14 Absatz 3 Sätze 3 und 4.
 
 Bei Verkehrsprojekten Fachgesetz zuerst bestimmen. BauGB nicht automatisch anwenden. Für die BauGB-Route gesetzlichen Zweck nach Paragraf 85, Voraussetzungen nach 87 und Landeszuständigkeit prüfen. Paragraf 104 bezeichnet die Enteignungsbehörde, nicht die selbständige Eingriffsgrundlage. Bebauungsplan und Kaufangebot übertragen kein Eigentum.
+
+Naturschutz: BVerwG, Urteil vom 26.03.2026, 10 C 4.25, Rn. 18–31, zu Paragraf 68 BNatSchG: Abhilfe, insbesondere Befreiung, vorrangig. Bei unterbundener rechtmäßiger Nutzung Privatnützigkeit der betroffenen Teilfläche prüfen, nicht nur Gesamtertrag. Flächen, Nutzung und Abhilfeversuche belegen. Zurückverweisung, kein Geldzuspruch oder Artikel-15-Maßstab.
 
 ## 1.3. Grundstück, Zweck und andere Wege
 
@@ -46,6 +48,6 @@ Nach 224 stoppt der Hauptsacheantrag die Besitzeinweisung nicht. Gesonderter Eil
 
 Berliner Abschlussbericht Juni 2023: Kommissionspositionen, kein Urteil. Mehrheit und Sondervotum streiten über Artikel-15-Verhältnismäßigkeit und Entschädigung. Keine Erleichterung für BauGB 87, keinen Haushaltsabschlag auf 95 übertragen. Zweckbindung, belegte Wirkung und Alternativen prüfen; Entschädigung heilt keinen unzulässigen Zugriff. Quelle: berlin.de/kommission-vergesellschaftung/downloads/, Seiten 36–70, 110–126.
 
-Aktuelle amtliche Normen prüfen. BVerfG, Urteil vom 17.12.2013, Az. 1 BvR 3139/08 und 1 BvR 3386/08, Rn. 183: mildere gleich geeignete Mittel für das konkrete Vorhaben; bergrechtlicher Fall, kein BauGB-Rechtswegbeleg. BVerfG, Urteil vom 06.12.2016, Az. 1 BvR 2821/11, 1 BvR 321/12 und 1 BvR 1456/12, Rn. 243–246: Güterbeschaffung; keine automatische Entschädigungsregel für Straßenfälle. Amtliche Links und Reichweiten im lokalen Quellenregister; ohne Plugin Originalquellen selbst aufsuchen. Keine erfundenen Fundstellen.
+Amtliche Normen und Urteilsvolltexte prüfen, Reichweite beachten. Links im Quellenregister; ohne Plugin Originalquellen aufsuchen. Keine erfundenen Fundstellen.
 
 Dokument vollständig mit Empfänger, Aktenzeichen, Grundstück, bestimmtem Begehren, Begründung, Belegen und Schluss ausarbeiten. Interne Lücken getrennt halten. DOCX/PDF in Times New Roman 11 pt, dezimale Gliederung, „Paragraf“ ausschreiben. Ohne Export vollständigen Text liefern. Nach neuen Belegen betroffene Berechnung, Frist und Anträge aktualisieren. Nichts ohne Freigabe versenden, vergleichen, räumen oder bezahlen; erfolgte Einreichung nur mit Nachweis melden.

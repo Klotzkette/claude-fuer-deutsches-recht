@@ -138,6 +138,10 @@ Für jeden Mangel Anforderung und Fundstelle, vorhandenen Beleg, konkrete Lücke
 
 EuGH, 11.05.2017, C-131/16, Archus und Gama: Erläuterung oder begrenzte Berichtigung darf nicht tatsächlich ein neues Angebot schaffen. Der Fall betrifft die frühere Sektorenrichtlinie; die aktuelle nationale Regelung zusätzlich anwenden. Ein vorhandener Versicherungsnachweis ist anders zu behandeln als ein erstmals nachgeschobenes qualitatives Einsatzkonzept.
 
+Stützt sich der Reinigungsbieter auf Geräte oder Referenzen einer hundertprozentigen Tochter, prüfe diese als eigenes Unternehmen nach Paragraf 47 SektVO. [EuGH, Urteil vom 22.01.2026, Az. C-812/24, LIPOR und PreZero Portugal](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE), Rn. 39 bis 65, verneint ein Konzernprivileg. Eine fehlende Tochter-EEE rechtfertigt nicht schon allein den Ausschluss: Vorhandene Nachweise zur Eignung und zu Ausschlussgründen abgleichen, tatsächliche Mittelverfügbarkeit gesondert prüfen. Gleiche Geschäftsführung belegt nicht sämtliche Ausschlussfragen der Tochter.
+
+War die Tochter bereits im Angebot benannt, kann eine zulässige Ergänzung bestehende Tatsachen belegen. Fordere nach Paragraf 51 SektVO nur die konkret fehlenden Angaben an; veröffentlichten Nachforderungsausschluss, Gleichbehandlung und Grenzen für neue Konzepte beachten. Das Urteil zur Richtlinie 2014/24/EU ist kein unmittelbarer SektVO-Fall und begründet keine allgemeine Nachforderungspflicht. Bei erst später benannter Tochter nicht bloß einen Formularmangel annehmen; Austausch-/Nachforderungsgrund gesondert prüfen. Nach Nachweiszugang Eignungsvermerk und Zulassungsentwurf aktualisieren.
+
 Lieferung: Prüfvermerk je Bewerber, zulässige Nachforderungen und Einladungs- oder Ablehnungsentwürfe. Ausschluss bleibt eine freizugebende Entscheidung. Nach Antwort nur die betroffenen Punkte neu prüfen. Offene Nachforderung nicht als endgültige Zulassung ausgeben. Weiter Abschnitt 9, Rügen nach Abschnitt 8, Kammermitteilung nach Abschnitt 11.
 
 ## 8. Fragen, Rügen und Änderungen bearbeiten

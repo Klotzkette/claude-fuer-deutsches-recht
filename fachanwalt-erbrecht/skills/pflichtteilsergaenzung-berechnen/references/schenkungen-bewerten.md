@@ -12,6 +12,10 @@ Ein vorbehaltener umfassender Nießbrauch kann den Beginn hindern. Wohnrechte si
 
 ## 1.3. Abschmelzung und Werte
 
+[BGH, Urteil vom 24.06.2026, IV ZR 141/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1), Rn. 10 bis 22: Eine Leibrente als Gegenleistung verhindert den Fristbeginn nicht allein wegen ihrer Orientierung an bisherigen Mieteinnahmen. Auch die Reallast sichert nur Zahlung und Verwertung, keine Nutzungsmacht. Entscheidend ist die verbleibende Herrschaft über den Gegenstand, nicht ein bloßer Vergleich vorheriger und späterer Geldzuflüsse. Umfang anderer vorbehaltener Rechte und Ehegattenregel weiterhin prüfen. Bei gemischter Schenkung den unentgeltlichen Teil vom kapitalisierten Entgelt trennen; Grundbuchvollzug belegen.
+
+Nach Rn. 24 und 25 kann ein späterer unentgeltlicher Rentenverzicht eine weitere ergänzungspflichtige Schenkung sein. Lege dafür eine eigene Position mit Verzichtsdatum, damaligem Anspruchswert, Leistungsnachweis und eigener Abschmelzung an. Die bereits länger als zehn Jahre zurückliegende Grundstücksleistung wird dadurch nicht wieder ergänzt. Verlange Übertragungs- und Verzichtsurkunde; nach Eingang Rechnung und Wertermittlungsbegehren gegenstandsbezogen berichtigen. Grenze: Der BGH wies die beantragte Grundstücks-/Gegenleistungsbewertung ab. Eine isolierte Bewertung des jüngeren Verzichts war gerade nicht beantragt; dessen Anspruchshöhe wurde nicht zugesprochen. Keine pauschale Abweisung aller Ergänzungspositionen aus der Abweisung dieser ersten Stufe ableiten.
+
 Bei wirksamem Fristbeginn zählen vollständig verstrichene Jahre: weniger als ein Jahr 100 Prozent, ein Jahr 90 Prozent, sechs Jahre 40 Prozent, neun Jahre 10 Prozent, zehn Jahre null. Jahrestage einschließlich Erbfall taggenau nach BGB Paragrafen 187 und 188 bestimmen. „Im fünften Jahr“ bedeutet nicht fünf vollendete Jahre.
 
 Verbrauchbare Sachen mit dem Wert bei Schenkung, andere Gegenstände nach dem Niederstwertprinzip bewerten. Kaufkraftvergleich, vorbehaltene Rechte und Gegenleistungen am jeweils maßgeblichen Stichtag nachvollziehbar berücksichtigen. Einen kapitalisierten Nutzungsvorbehalt nicht ohne Prüfung auf beiden Vergleichsseiten identisch abziehen. Gutachtenauftrag mit beiden Stichtagen, Eigentumszustand, Belastungen und Wertmaßstab formulieren.
@@ -27,3 +31,5 @@ Auskunft, notarielles Verzeichnis und Wertermittlung über den Auskunftsskill be
 ## 1.5. Quellenstand
 
 Amtlicher Gesetzestext und amtlicher Entscheidungsnachweis am 05.09.2026 recherchiert. Der direkte BGH-Volltextabruf war eingeschränkt; Leitsatz und Metadaten sind belegt, Randnummern und fallübergreifende Erweiterungen vor Verwendung am Volltext prüfen.
+
+Begrenzter Nachtrag 16.10.2026: IV ZR 141/25, Kopf, Tenor, Tatbestand und Rn. 9 bis 27 direkt im amtlichen PDF gelesen; Webdarstellung des BGH-PDF war gesperrt. Paragrafen 2314 und 2325 BGB erneut amtlich gelesen. Dieser Nachtrag aktualisiert nicht den Prüfstatus der älteren Nießbrauchs-/Wohnrechtsentscheidungen.

@@ -147,30 +147,38 @@
       "url": "https://www.gesetze-im-internet.de/famfg/__137.html",
       "checked_on": "2026-09-23",
       "supports": "Absatz 2 amtlich gelesen: güterrechtliche Folgesache für den Scheidungsfall spätestens zwei Wochen vor mündlicher Verhandlung im ersten Rechtszug anhängig machen; Auskunftsantwortfrist ersetzt dies nicht."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich. Grenze: Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+      "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen. Fachliche Einstiegswege und die Folgen von Angehörigenzahlung oder aufgefundenem Tagesgeld konkretisiert; bestehende BGH-Abgrenzungen und Rechenregeln bewahrt. Keine erneute BGH-Volltextprüfung oder Live-Ausführung. Redaktionelle Einstiegsprüfung 16.10.2026: Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen.",
     "changes": [
       "Leerer Einstieg führt zu Auskunft, Berechnung oder Erwiderung; Dateien ohne Aufgabe werden still gelesen.",
       "Darlehen, Schenkung und vorhandener Bestand ändern konkrete Positionen und die Gesamtforderung; allgemeine Ausgabehinweise für Bytegrenze gekürzt.",
-      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt."
+      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "41c6612e5057af88e08ffa09cf31b0af13e2783ad3da7f42989126b8be9953dd",
+    "sha256": "b40dd8c1b9352ecd2a708e403c99302538edccbf46b94e4f87313e1008ab2a14",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen. Detailtiefe zu Indexierung, Praxiswert, Gesamtschuld und Nießbrauch erhalten; konkrete Auskunfts-, Bewertungs- und Vergleichsentscheidungen einschließlich Fristauslöser ergänzt. Desk-Review ohne Mandatsausführung. Redaktionelle Einstiegsprüfung 16.10.2026: Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt. Keine erneute Vollprüfung der Altquellen; kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen.",
     "changes": [
       "Erwerbswert oder späterer Verkaufserlös sowie Darlehen oder Schenkung als entscheidende Rückfragen bis zur korrigierten Rechnung ausgebaut.",
       "Erfüllungsannahme, belastende Verbrauchsbelege und wiedergefundenes Tagesgeld verändern Beweislastabschnitt und Hinzurechnung.",
       "Gutachterergänzung, Verbundtermin und formbewusste Vergleichsregelung bis zum konkreten Dokument fortgeführt.",
-      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt."
+      "Vermögensbestände und nachgerechnete Ausgleichsforderung zuerst. XII ZB 558/23 mit erfüllender Trennungsauskunft vorgezogen; losgelösten Absatzverweis durch Paragraf 1375 Absatz 2 Satz 2 BGB ersetzt.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
     ],
-    "sha256": "d95ac79d8db96e90b27d6b44d7eeb904c8f5c486b44a19e212a0e3de82d04f6f",
+    "sha256": "406169921a1f3077ccdd420dc5c8cde6100a920cbe880ff4595fe8f064459e9a",
     "reviewed_on": "2026-10-16",
     "method": "desk_review"
   },
@@ -539,7 +547,9 @@
       "zugewinnausgleich/zugewinnausgleich-hauptproblem.md",
       "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
       "zugewinnausgleich/zugewinnausgleich-schnellstart.md",
-      "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md"
+      "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
+      "zugewinnausgleich/references/zugewinn-quellen.md",
+      "zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md"
     ],
     "opening_change": "Vermögensauskünfte mit Konto-, Wert-, Erwerbs- und Schuldenbelegen nach Stichtagen abstimmen; Differenzen erklären und begrenzte Ausgleichsforderung berechnen.",
     "norms": [
@@ -571,6 +581,16 @@
         "limit": "Kein pauschaler Wegfall jeder Last; bei Wertanstieg beide Stichtagslasten ohne zusätzlichen negativen gleitenden Erwerb.",
         "checked_on": "2026-09-25",
         "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
       }
     ],
     "remaining_limits": [
@@ -587,5 +607,42 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
+      }
+    ],
+    "files": [
+      {
+        "path": "zugewinnausgleich/references/zugewinn-quellen.md",
+        "sha256": "61650138dc5d167ca771b561c8597d5daa4b0255fa8135fa4bb5e344d3247d2a"
+      },
+      {
+        "path": "zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md",
+        "sha256": "f995a1b41bd5248a0d4bc64b746b58f187b27d917695e93f18bdb2b58144dc05"
+      },
+      {
+        "path": "zugewinnausgleich/zugewinnausgleich-schnellstart.md",
+        "sha256": "b40dd8c1b9352ecd2a708e403c99302538edccbf46b94e4f87313e1008ab2a14"
+      },
+      {
+        "path": "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
+        "sha256": "406169921a1f3077ccdd420dc5c8cde6100a920cbe880ff4595fe8f064459e9a"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

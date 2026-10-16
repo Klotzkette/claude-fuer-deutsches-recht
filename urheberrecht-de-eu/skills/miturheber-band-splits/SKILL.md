@@ -42,6 +42,12 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 - Sind Beiträge trennbar oder gemeinsam verwertet?
 - Gibt es Split-Sheets, Chatverläufe, Studiofiles?
 
+### 1. Verletzungsanspruch und gemeinsame Verwertung trennen
+
+Nach [Paragraf 8 Absatz 2 UrhG](https://www.gesetze-im-internet.de/urhg/__8.html) darf jeder Miturheber Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen. Klagebefugnis deshalb nicht von der Zustimmung jedes Bandmitglieds abhängig machen; gemeinsame Lizenzierung, trennbare Werke nach Paragraf 9 und die Rechte an einer Aufnahme gesondert prüfen. Bei Streit um die Urheberschaft bleiben Beiträge und Rechtekette nachzuweisen.
+
+[EuGH, Urteil vom 18.12.2025, Az. C-182/24, SACD u. a.](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE), Rn. 58 bis 78, erlaubt nationale Beteiligungserfordernisse nur innerhalb wirksamen Rechtsschutzes: kein unnötig kompliziertes oder kostspieliges Verfahren, keine unmögliche oder übermäßig erschwerte Verletzungsklage. Bei unbekannten Rechtsnachfolgern Suchversuche, Dauer und Kosten dokumentieren, nationalen Klageweg und Leistungsantrag prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag aktualisieren; keine alleinige Lizenzierungsbefugnis ableiten. Französischer Filmfall, kein pauschaler Wegfall deutscher Beteiligungsregeln. [Quellenprüfung](../../references/miturheber-rechtsschutz.md).
+
 ## Prüflogik
 
 | Schritt | Arbeit |

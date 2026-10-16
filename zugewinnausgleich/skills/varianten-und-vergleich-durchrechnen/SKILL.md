@@ -33,6 +33,8 @@ Vergleiche plausibel belegte Bandbreite, Beschaffungsaufwand entscheidender Bewe
 
 ### 3.5. Begrenze Erledigung und sichere Form.
 
+Bei abgetretener Versicherungsleistung nicht allein aus der Bezeichnung als „Versorgungsausgleich“ auf frei verfügbare Vergleichsliquidität schließen. Vertrag, Leistungsform und Abtretungsgrund lesen. Nach BGH, Beschluss vom 11.06.2026, IX ZB 1/25, Rn. 17 bis 23, schützt Paragraf 850i ZPO eine Zugewinnausgleichsforderung nicht; Paragraf 852 Absatz 2 ZPO sowie im Insolvenzfall Paragrafen 35 und 36 InsO gesondert prüfen. Die Entscheidung ließ den Schutz echter Versorgung und ihrer Gegenleistung offen und verwies zur Tatsachenklärung zurück. Fehlende Abrede anfordern, danach Zuordnung und Zahlungsplan berichtigen; weder Pfändungsschutz noch pauschale Pfändbarkeit zusagen. Amtlicher Nachweis und Grenzen stehen im Quellenregister, Abschnitt 1.8.
+
 Ein Zugewinnvergleich erledigt nicht ohne ausdrückliche Prüfung Unterhalt, Versorgungsausgleich, Miteigentum oder Darlehenshaftung. Benenne Gegenstand, einbezogene Berechnungsstände und verbleibende Ansprüche. Prüfe Paragraf 1378 Absatz 3 BGB, Ehevertragsform und bei Grundstücksübertragung deren zusätzliche Formanforderungen. Kennzeichne einen zur Beurkundung bestimmten Entwurf entsprechend; keine private Unterschrift als sichere Formheilung darstellen. Außenhaftung gegenüber Banken kann nur mit deren erforderlicher Mitwirkung beendet werden. Kein verbindliches Angebot, Anerkenntnis oder Verzicht ohne Auftrag.
 
 ## 4. Quellenpflicht

@@ -14,6 +14,8 @@ Führe für jeden Fehler Kenntnis und Erkennbarkeit, Angebotsfrist, Rüge und Ni
 
 Bei Unterlagenprüfung: Leistungsbeschreibung, Eignung, Ausschlussgründe und Zuschlagskriterien trennen. Bei Wertung: veröffentlichte Formel, Gewichtung, Rohpunkte, Rundung und Rang nachrechnen. Eine Qualitätsnote anhand Angebotsstelle und dokumentierter Begründung prüfen, nicht durch eine eigene Wunschbenotung ersetzen. Fehlende Konkurrenzdaten bleiben offen.
 
+[EuGH, Urteil vom 22.01.2026, Az. C-812/24, LIPOR](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE), Rn. 39 bis 65: Auch hundertprozentige Tochter bei Eignungsleihe separat prüfen. Bescheinigungen können EEE ersetzen. Fehlen Nachweise, ursprüngliche Benennung und bestehende Tatsachen prüfen; Paragrafen 47/56 VgV und Nachforderungsausschluss beachten. Weder automatischer Ausschluss noch unbedingter Ergänzungsanspruch.
+
 Bei Konzeptnoten [BGH, Beschluss vom 04.04.2017 – X ZB 3/17, Rn. 39–53](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1) beachten: Verständliche Kriterien brauchen nicht stets detaillierte Notendefinitionen, konkrete Noten aber nachvollziehbare Gründe und Vergleichskontrolle. Begründung anfordern; keine eigene Wunschbenotung. Besonders komplexe Kriterien blieben offen.
 
 Eine schon fristgerecht angebotene Vertretungszusage ist bei der Neubewertung zu berücksichtigen; eine erst nach Angebotsfrist erfundene Zusage wäre etwas anderes. Paragraf 56 Absatz 3 VgV schließt die Nachforderung wertungsrelevanter leistungsbezogener Unterlagen grundsätzlich aus. Interne Aktennachforderung und Nachbesserung eines Bieterangebots nicht verwechseln.

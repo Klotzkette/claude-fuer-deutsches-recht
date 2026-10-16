@@ -56,5 +56,8 @@ def normalize_decimal_headings(text: str) -> str:
         count = seen.get(base, 0)
         seen[base] = count + 1
         stable = base if count == 0 else f'{base}-{count}'
-        lines.extend([f'{ALIAS} <a id="{stable}"></a>', '', f'{heading.group(1)} {number}. {title}'])
+        previous = next((entry for entry in reversed(lines) if entry.strip()), '')
+        if previous != f'<a id="{stable}"></a>':
+            lines.extend([f'{ALIAS} <a id="{stable}"></a>', ''])
+        lines.append(f'{heading.group(1)} {number}. {title}')
     return '\n'.join(lines) + '\n'

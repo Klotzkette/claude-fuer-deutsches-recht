@@ -10,13 +10,15 @@ Tatsächliche Zwecke und Mittel klären; Verantwortlicher, gemeinsam Verantwortl
 
 ## 1.2 Passenden Arbeitsweg wählen
 
-Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Rechte Dritter konkret schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: tatsächliche Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers gegen Artikel 28 halten. Beschwerde: Pflichtverletzung, Beleg, gewünschte Abhilfe und zuständige Datenschutzaufsicht zusammenführen.
+Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Drittrechte schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers an Artikel 28 messen. Beschwerde: Pflichtverletzung, Beleg, Abhilfe und zuständige Aufsicht verbinden.
 
-2026-Anker: EuGH, Urteil vom 19.03.2026, C-526/24: Auch ein Erstantrag kann bei nachgewiesener Missbrauchsabsicht exzessiv sein. Bloßer Verdacht trägt weder Ablehnung noch Gebühr; Schaden und Kausalität bleiben nötig. [Gerichtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf), Volltext/Randnummern vor Zitat prüfen. BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.3.: Bei Finanzbehörden fehlende Auskunft nachfordern, keine eidesstattliche Versicherung verlangen; private Verantwortliche gesondert prüfen. [Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
+EuGH, Urteil vom 19.03.2026, C-526/24: Erstantrag bei bewiesener Missbrauchsabsicht exzessiv; Verdacht trägt weder Ablehnung noch Gebühr. Schaden/Kausalität bleiben nötig. [Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf), Volltext vor Zitat prüfen. BFH, Urteil vom 30.06.2026, IX R 2/25, II.3.: Finanzbehördliche Auskunft nachfordern, keine eidesstattliche Versicherung; Private gesondert prüfen. [Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
+
+Urteilsdatenbank: [EuGH, Urteil vom 09.07.2026, Az. C-199/24](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE), Rn. 61 bis 77: Artikel 85 DSGVO verlangt journalistischen Zweck mit redaktioneller Linie, Tatsachenprüfung und Berufsethik; Entgelt allein schadet nicht. Belege und nationale Ausnahme prüfen, sonst Artikel 10/17 anwenden. Kein automatischer Löschungsanspruch. DSGVO-Rechtsbehelfe bleiben; Verleumdungsbehelfe ersetzen sie nicht (Rn. 45 bis 51).
 
 Datenpanne: Kenntnis und Meldeentscheidung dokumentieren. Erstmeldung mit Verletzungsart, möglichst Kategorien/Zahlen Betroffener und Datensätze, Kontakt, Folgen und Abhilfe. Schätzungen kennzeichnen, Nachlieferung terminieren. Bei hohem Risiko gesonderte Betroffeneninformation; Empfänger-Löschzusage beweist keine Eindämmung. Auch Nichtmeldung begründen.
 
-Bei Artikel 82 Verletzung, Schaden und Kausalität trennen: EuGH, Urteil vom 04.05.2023, C-300/21, Österreichische Post, Randnummern 32 bis 51 und 58 bis 59, verlangt einen konkreten Nachteil, aber keine zusätzliche Erheblichkeitsschwelle. Frage nach Schaden und Zusammenhang; kein automatischer Pauschalbetrag oder Strafschadensersatz.
+Artikel 82: EuGH, Urteil vom 04.05.2023, C-300/21, Österreichische Post, Rn. 32 bis 51, 58 bis 59: Verstoß, Schaden und Kausalität getrennt belegen; keine Erheblichkeitsschwelle, automatische Pauschale oder Strafentschädigung.
 
 ### 1.2.1 Agenten
 
@@ -42,12 +44,12 @@ Nach KI-MIG ist die Bundesnetzagentur Auffangbehörde für Systemaufsicht. Parag
 
 ## 1.6 Arbeitsprodukt und Quellen
 
-Bei bestätigtem Download Linksperrung nicht als vollständige Eindämmung darstellen; lokale Kopie und Löschbestätigung prüfen, Betroffenenbrief anpassen. Fehlende CRM-Daten gezielt nachfordern; nach Eingang Datenkopie und Antwort vervollständigen.
+Bestätigter Download: Linksperrung genügt nicht; lokale Kopie/Löschbestätigung prüfen, Brief anpassen. Fehlende CRM-Daten nachfordern, danach Datenkopie und Antwort ergänzen.
 
-Quellenstatus separat dokumentieren. Meldung, Löschung oder Datenfreigabe nur mit Freigabe. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten; ungelesenen Umfang benennen.
+Quellenstatus und ungelesenen Umfang separat nennen. Meldung, Löschung und Datenfreigabe nur mit Freigabe; ohne Export fertigen Text, ohne Quellenzugriff keine neue Normfassung behaupten.
 
 [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3). Für den Schadensersatz: [EuGH, Urteil vom 4. Mai 2023, C-300/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Dezimale Gliederung, vollständige Sätze, beim formatierten Export Times New Roman 11 pt.
 
 ## 1.7 Freigabestopp ohne Bearbeitungsstillstand
 
-Stoppe eine endgültige Datenfreigabe, wenn Rechtsgrundlage oder hohes Restrisiko offen ist. Auskunftsentwurf, fristgerechte Erstmeldung und belegte Teilprüfung trotzdem fertigstellen; keine fehlende Forensik als pauschalen Fristaufschub verwenden.
+Bei offener Rechtsgrundlage oder hohem Restrisiko keine endgültige Datenfreigabe. Auskunftsentwurf, Erstmeldung und belegte Teilprüfung fertigstellen; fehlende Forensik verschiebt keine Frist.

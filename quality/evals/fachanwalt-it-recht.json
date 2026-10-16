@@ -100,20 +100,27 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZB__82-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Privatkopien in Cloud können vergütungspflichtig sein; Cloud-Dienstleister sind keine Geräte-/Speichermedien-Abgabenschuldner nach Paragrafen54,54bUrhG. Grenze: Keine Aussage über SaaS-Vertragspreis, allgemeinen kostenlosen Werkkonsum, AVV oder Drittlandtransfer; keine analoge Geräteabgabe mangels planwidriger Lücke."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert. Grenze: Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
+      "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24"
     ],
-    "sha256": "0ce56f80cb5f324814f41ae66534f4eea6a9d7e2e8bd2bf948025c79d89eb4f2"
+    "sha256": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -227,16 +234,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: IT-Projekt und bestellter Vertrags- oder Mangeltext werden früh benannt; der bestehende Abnahmeanker wurde im Mini unverändert vorgezogen. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 09.07.2026, C-199/24"
     ],
-    "sha256": "85d347fbfd08e6368873914aa47ba42e6fc2e74d1316d69d6ca03a83400aa74c"
+    "sha256": "1b979a5c902f8b49b35b58c4a854c0aaf5ca7a27048ad0c84f88debb92dc1b8e"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -249,7 +257,9 @@
       "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
       "fachanwalt-it-recht/skills/it-recht-cloud-vertrag-datenschutz-due-diligence/SKILL.md",
       "fachanwalt-it-recht/skills/lizenz-risikoampel-und-gegenargumente/SKILL.md",
-      "quality/evals/fachanwalt-it-recht.json"
+      "quality/evals/fachanwalt-it-recht.json",
+      "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+      "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md"
     ],
     "opening_change": "ERP-Funktionen, Abnahmebelege, Tickets und Nachtragsabrechnung gegeneinander prüfen. Workflow-Ergänzung: Leer: ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten. Dateien ohne Aufgabe: Abnahmeprotokolle, Nachträge und Vorfallsdaten still lesen; nur das Arbeitsziel klären, kein Komplettaudit. Klarer Auftrag: konkrete Klausel, Rechnungsantwort oder Meldung direkt bearbeiten; Folgeantworten ohne neue Aufnahme.",
     "norms": [
@@ -275,6 +285,16 @@
         "application": "Privatkopien in Cloud können vergütungspflichtig sein; Cloud-Dienstleister sind keine Geräte-/Speichermedien-Abgabenschuldner nach Paragrafen54,54bUrhG.",
         "limit": "Keine Aussage über SaaS-Vertragspreis, allgemeinen kostenlosen Werkkonsum, AVV oder Drittlandtransfer; keine analoge Geräteabgabe mangels planwidriger Lücke.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "EuGH, Urteil vom 09.07.2026, C-199/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE",
+        "application": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert.",
+        "limit": "Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben."
       }
     ],
     "remaining_limits": [
@@ -321,5 +341,42 @@
     "reference": "fachanwalt-it-recht/references/ki-normen-und-fallpruefung.md",
     "focus": "Verknüpfen Sie die vereinbarte Leistung mit produktiver Version, beworbenem Zweck, Testnachweisen und Änderungsverfahren. Eine Garantie für sämtliche KI-Vorschriften ist ohne Rolle, Geltungsdatum und Systemgrenze nicht prüfbar.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 09.07.2026, C-199/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE",
+        "application": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert.",
+        "limit": "Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+        "sha256": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb"
+      },
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+        "sha256": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb"
+      },
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+        "sha256": "1b979a5c902f8b49b35b58c4a854c0aaf5ca7a27048ad0c84f88debb92dc1b8e"
+      },
+      {
+        "path": "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md",
+        "sha256": "9afe5ed8404712c9ea8c594f50c8ce89c9927115eb8229ea980dcbee4c89aee4"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

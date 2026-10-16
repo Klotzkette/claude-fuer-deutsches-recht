@@ -173,11 +173,17 @@
       "verification_status": "frisch_amtlicher_volltext_passagen",
       "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b",
       "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen. Grenze: Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
+      "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Vollständige Lektüre; Einstieg auf Zahlung, Mangel, Erhöhung oder Kündigung konkretisiert und Modernisierungsanker an funktionsfähige alte Bauteile gebunden. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
@@ -185,9 +191,10 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
       "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26"
     ],
-    "sha256": "67d096df08aca798c9423d7ca5efe26d9ade533fd5fd5ac52a68da61a8d617d7",
+    "sha256": "002bfb9a851caa45795ffd27a6317d7983a147ed72fd26cb03e48002402f6b89",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -261,7 +268,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit acht Vertiefungswegen gelesen. Entwurfsbeschränkung, doppelte Normliste und unklarer Quellenstatus korrigiert; Übergangsformrecht und Modernisierungshöhe konkretisiert. Desk- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben.",
     "changes": [
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
@@ -270,9 +277,10 @@
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
       "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
       "Absätze zu Mietpreisbremse und WEG-Erhaltung den jeweiligen Fachabschnitten zugeordnet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26"
     ],
-    "sha256": "f3caa3dced1140c51456877b2f3bd017632de482b759523703924e42bd6ada04",
+    "sha256": "ec73e08a39f25dfa55ca36d0a367ce6559f290569d45e82b3bf5e5f4343e33e0",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -287,7 +295,8 @@
       "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/SKILL.md"
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md"
     ],
     "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
     "norms": [
@@ -338,6 +347,16 @@
         "passages_read": "Entscheidungskopf, Rn. 13–14, 22–23, 25–26 und 29",
         "source_sha256": "fe8f8132fa5b34df5c6ed83cd4f739ea55d1b5b222f22763c2322103d7e0068b",
         "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-miet-wohnungseigentumsrecht.json"
+      },
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+        "application": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen.",
+        "limit": "Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben."
       }
     ],
     "remaining_limits": [
@@ -377,5 +396,38 @@
       "BGH, Urteil vom 24.04.2026, V ZR 102/24"
     ],
     "new_model_test": false
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+        "application": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen.",
+        "limit": "Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+        "sha256": "002bfb9a851caa45795ffd27a6317d7983a147ed72fd26cb03e48002402f6b89"
+      },
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+        "sha256": "ec73e08a39f25dfa55ca36d0a367ce6559f290569d45e82b3bf5e5f4343e33e0"
+      },
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md",
+        "sha256": "641098d894015d11d96166fb4aee0bf87800ddd001142e1e3a60183cec9650ab"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

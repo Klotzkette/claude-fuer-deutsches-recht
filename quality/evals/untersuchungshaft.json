@@ -17,6 +17,18 @@
       "url": "https://recht.nrw.de/lrgv/gesetz/01042026-untersuchungshaftvollzugsgesetz-nordrhein-westfalen-uvollzg-nrw/",
       "checked_on": "2026-10-16",
       "supports": "Aktuelle Landesfassung ab April 2026 für Vollzugsbedingungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte. Grenze: Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+      "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden. Grenze: Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+      "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen."
     }
   ],
   "selection": {
@@ -354,23 +366,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Zehn lesbare Abschnitte führen mit acht eingeordneten Entscheidungen vom konkreten Haftanliegen zum Schreiben. Redaktioneller Nachtrag 16.10.2026: Nur vorhandenen Vorführungsanker nach vorn verschoben und das vom Hygieneprüfer markierte Satzende zur tatsächlichen OLG-Vorlage eindeutig formuliert. Sämtliche erweiterten Haft-, Auflagen-, Beschleunigungs- und Kontaktzweige erhalten; keine TXT-Kopie vorhanden. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
     "changes": [
       "Rollen, Beweisfragen und Rechtsbehelfe in kurze Absätze und getrennte Listen gegliedert.",
       "Rechtsprechung unmittelbar bei Vorführung, Verschonung, Haftkontrolle und Kontakten eingeordnet; einschließlich Nichtannahme und Grenzen der Entlassungsfolge.",
-      "Längenprüfung erfasst UTF-8 und Windows-Zeilenumbrüche; vollständige Enddokumente mit eigenem Exporthinweis."
+      "Längenprüfung erfasst UTF-8 und Windows-Zeilenumbrüche; vollständige Enddokumente mit eigenem Exporthinweis.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "060bf8ec0ed0e42111a1ff76491cb48cce52719343e7405a614210d240a5b152"
+    "sha256": "cbbf1a5cc3b209984c9669b0e936ddd1f215d7d4295b9912f1812c78e46755fc"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Dreizehn Entscheidungen mit Randnummern und Übertragungsgrenzen stützen konkrete Antrags-, Entscheidungs- und Fortsetzungswege. Redaktioneller Nachtrag 16.10.2026: Nur vorhandenen Vorführungsanker nach vorn verschoben und das vom Hygieneprüfer markierte Satzende zur tatsächlichen OLG-Vorlage eindeutig formuliert. Sämtliche erweiterten Haft-, Auflagen-, Beschleunigungs- und Kontaktzweige erhalten; keine TXT-Kopie vorhanden. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
+    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
     "changes": [
       "Wiederinvollzugsetzung, Gehör, Gutachterplanung, OLG-Untätigkeit und Familienkontakte gezielt vertieft.",
       "Erledigter Haftbefehl und ausdrücklich offengelassene Fortgeltung von Verschonungsauflagen getrennt.",
-      "Elf amtliche Originalentscheidungen und zwei sekundär abgeglichene BGH-Beschlüsse transparent unterschieden."
+      "Elf amtliche Originalentscheidungen und zwei sekundär abgeglichene BGH-Beschlüsse transparent unterschieden.",
+      "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "81e02e528e87b0c6bfbf13799d9e1d2eb94d0116d3a53ed2bcd555d52b5561a4"
+    "sha256": "4760dc37244ba04bd84ef67be1cf18cb3e75137b70953602dbeaa504ded1c527"
   },
   "prompt_workflow_review": {
     "date": "2026-10-16",
@@ -389,7 +403,11 @@
     "method": "desk_review",
     "files": [
       "untersuchungshaft/untersuchungshaft-werkstatt.md",
-      "untersuchungshaft/untersuchungshaft-schnellstart.md"
+      "untersuchungshaft/untersuchungshaft-schnellstart.md",
+      "untersuchungshaft/README.md",
+      "untersuchungshaft/references/rechtsquellen.md",
+      "untersuchungshaft/skills/haftdauer-beschleunigung-pruefen/SKILL.md",
+      "untersuchungshaft/skills/haftpruefung-muendlich-vorbereiten/SKILL.md"
     ],
     "opening_change": "Anstehendes Schriftstück bestimmt den Einstieg; zehn kurze Mini-Abschnitte und konkrete Rückfragen ersetzen einen allgemeinen Aktenbericht.",
     "norms": [
@@ -503,6 +521,30 @@
         "source_status": "two_secondary_full_texts",
         "paragraphs": "12-19",
         "comparison_url": "https://www.anwalt24.de/urteile/bgh/2026-08-04/stb-46_26"
+      },
+      {
+        "citation": "BGH, Beschluss vom 09.09.2026, AK 46/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1",
+        "application": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte.",
+        "limit": "Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.",
+        "source_status": "official_full_text",
+        "paragraphs": "19-24"
+      },
+      {
+        "citation": "BGH, Beschluss vom 05.02.2026, StB 3/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1",
+        "application": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden.",
+        "limit": "Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+        "source_status": "official_full_text",
+        "paragraphs": "8-11"
       }
     ],
     "remaining_limits": [
@@ -510,5 +552,64 @@
       "Landesrecht, konkrete Haftakte und Zuständigkeit müssen für jeden Auftrag neu geprüft werden.",
       "Keine Leistungszusage für fremde Oberflächen oder Modelle."
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 09.09.2026, AK 46/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1",
+        "application": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte.",
+        "limit": "Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.",
+        "source_status": "official_full_text",
+        "paragraphs": "19-24"
+      },
+      {
+        "citation": "BGH, Beschluss vom 05.02.2026, StB 3/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1",
+        "application": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden.",
+        "limit": "Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+        "source_status": "official_full_text",
+        "paragraphs": "8-11"
+      }
+    ],
+    "files": [
+      {
+        "path": "untersuchungshaft/README.md",
+        "sha256": "494057c386dfce91cdb691e5b38a9c1052fa7e947ba4383a34077f6af3753b06"
+      },
+      {
+        "path": "untersuchungshaft/references/rechtsquellen.md",
+        "sha256": "dc8e6afc84d53e48d04968d07974a7b3635250220be4bcd521dc885750581565"
+      },
+      {
+        "path": "untersuchungshaft/skills/haftdauer-beschleunigung-pruefen/SKILL.md",
+        "sha256": "95af76f66422df95ac98545fc33f1a8fa25c29dac083ec8271618437402f8531"
+      },
+      {
+        "path": "untersuchungshaft/skills/haftpruefung-muendlich-vorbereiten/SKILL.md",
+        "sha256": "14322ae00b290153be877b3861a062629ffcb5eba54c64aa09c02ada25ab7096"
+      },
+      {
+        "path": "untersuchungshaft/untersuchungshaft-schnellstart.md",
+        "sha256": "cbbf1a5cc3b209984c9669b0e936ddd1f215d7d4295b9912f1812c78e46755fc"
+      },
+      {
+        "path": "untersuchungshaft/untersuchungshaft-werkstatt.md",
+        "sha256": "4760dc37244ba04bd84ef67be1cf18cb3e75137b70953602dbeaa504ded1c527"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

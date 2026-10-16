@@ -221,19 +221,26 @@
       "url": "https://www.gesetze-im-internet.de/sgb_12/__61.html",
       "checked_on": "2026-10-01",
       "supports": "Vollständig gelesen: Hilfe zur Pflege, Pflegebedürftigkeit und Mittel aus Einkommen/Vermögen."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung. Grenze: Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+      "verification_status": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung.",
     "changes": [
       "B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50: konkrete Funktionen und Wechselwirkungen statt Diagnosezahl.",
       "Rechtsfolge der Tätigkeitsbenennung und Grenze der Zurückverweisung erläutert; andere Sozialleistungswege beibehalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R"
     ],
-    "sha256": "21e5452557ae262b5fbf8cc78611dcd79532628d5c6f4aa909bbad7cb7096c75",
+    "sha256": "f0147e61f05d4b8d04fe2050a0ed2d2e3a56e56c29d1651873d7962a2fd1f86d",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -306,16 +313,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert. Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung.",
     "changes": [
       "BSG-Anker in die sechsstündige Leistungsprüfung eingebaut; keine Rentengarantie.",
       "BVerfG 1 BvR 569/05 konkret mit aktuellen Mitteln, Folgenabwägung und Grenzen verbunden.",
       "Paragrafen 32 und 65a SGB II amtlich geprüft; Wohngeld-Ausschlussnorm von Berechnungsgrundlagen getrennt und ungeprüfte Fallliste entfernt.",
       "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Bescheid, Leistungsziel und fertiges Rechtsbehelfsschreiben werden vor dem Ablauf greifbar; Funktionsbeeinträchtigung wird von bloßer Diagnosezahl getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R"
     ],
-    "sha256": "cdfd3dec46c1e9602130b3ceabb74e1151a84cd1c83a427a413452de50710e64",
+    "sha256": "3fa6081900e2d6eedfb5826350f1a29ba42468ed334358c143bd2ab2fca5a698",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -327,7 +335,8 @@
       "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
       "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
       "fachanwalt-sozialrecht/skills/juristischer-argumentationskern/SKILL.md",
-      "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
+      "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md",
+      "fachanwalt-sozialrecht/skills/laienhilfe-krankenversicherungsschutz/SKILL.md"
     ],
     "opening_change": "Angegriffene Bewilligung, Ablehnung, Aufhebung oder Beitragsfestsetzung mit Antrag und zeitbezogenen Nachweisen abgleichen; im Hauptproblem konkrete Befundwidersprüche klären. Workflow-Ergänzung: Leer: Bescheidkorrektur, Erwerbsminderungsbeweis oder akuten Leistungsbedarf anbieten. Dateien ohne Aufgabe: Bescheide, Befunde und Kontoauszüge still lesen; gewünschtes Korrektur- oder Rechtsschutzziel klären, keinen automatischen Bescheidvermerk. Klarer Auftrag: Widerspruch, Eilantrag oder Berechnung unmittelbar erstellen, ohne vollständige Aufnahme zu wiederholen.",
     "norms": [
@@ -368,6 +377,16 @@
         "limit": "Zurückverweisung, kein Anspruch auf Wunschmodell; Sport-/Freizeitinteressen außerhalb der alltäglichen Wege gesondert.",
         "checked_on": "2026-10-01",
         "read_scope": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18."
+      },
+      {
+        "citation": "BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+        "application": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung.",
+        "limit": "Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung."
       }
     ],
     "remaining_limits": [
@@ -437,5 +456,38 @@
     ],
     "focus_scope": "Hauptproblem Erwerbsminderungsrente bleibt bei B 13 R 7/18 R. E-Mail-Form und Hilfsmittelbedarf liefern keinen materiellen Rentenmaßstab; neue Entscheidungen in breiten Prompts und passenden Skills.",
     "new_model_tests": false
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+        "application": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung.",
+        "limit": "Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+        "sha256": "f0147e61f05d4b8d04fe2050a0ed2d2e3a56e56c29d1651873d7962a2fd1f86d"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+        "sha256": "3fa6081900e2d6eedfb5826350f1a29ba42468ed334358c143bd2ab2fca5a698"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/skills/laienhilfe-krankenversicherungsschutz/SKILL.md",
+        "sha256": "97d510df68973527578a0d308820e7c44a70db888167e5586d692dc8acb15b71"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

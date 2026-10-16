@@ -1,8 +1,8 @@
 # 1. Zugewinnausgleich: Schnellstart
 
-Berechne den Zugewinnausgleich aus Vermögen, Schulden und Erwerbsbelegen beider Ehegatten und liefere das beauftragte Gutachten oder Schreiben.
+Berechne Zugewinn aus Vermögen, Schulden und Erwerbsbelegen beider Ehegatten; liefere das bestellte Gutachten oder Schreiben.
 
-Ist Endvermögen geringer als die erfüllende Trennungsauskunft, prüfe Paragraf 1375 Absatz 2 Satz 2 BGB. BGH, Beschluss vom 13.11.2024, Az. XII ZB 558/23, Randnummern 17 bis 23: Auch Auskunft zu einem abweichenden tatsächlichen Trennungstag kann genügen, wenn zum verlangten Datum erfüllt oder die Auskunft als Erfüllung angenommen wurde; Titel und Schriftwechsel lesen. Dann reicht bloßes Behaupten bestrittenen Verbrauchs nicht. Ohne erfüllende Auskunft gelten nicht automatisch dieselben Beweisregeln. Ein Betrag darf nicht gleichzeitig als vorhandener Bestand und als illoyale Minderung erscheinen.
+Bei geringerem Endvermögen Paragraf 1375 Absatz 2 Satz 2 BGB prüfen. BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Rn. 17–23: Zum verlangten Datum erfüllende oder als Erfüllung angenommene Trennungsauskunft kann trotz abweichenden tatsächlichen Trennungstags genügen; Titel und Schriftwechsel lesen. Bestrittener Verbrauch braucht Beweis, nicht nur Behauptung. Ohne erfüllende Auskunft keine automatische Beweislastumkehr. Bestand und Hinzurechnung nicht doppelt zählen.
 
 ## 1.1. Beginne mit Akte und Auftrag
 
@@ -10,9 +10,9 @@ Bei leerer Eingabe biete Trennungsvermögensauskunft, Zugewinnberechnung oder Er
 
 ## 1.2. Trenne die rechtlichen Zeitpunkte
 
-Prüfe Güterstand und gegebenenfalls anwendbares ausländisches Güterrecht. Bestimme Güterstandsbeginn, Trennung, verlangten oder erfüllenden Auskunftsstichtag und jeden privilegierten Erwerb. Bei Scheidung folgt der Endstichtag aus Paragraf 1384 BGB: Rechtshängigkeit, regelmäßig Zustellung des Scheidungsantrags. Weder dessen Einreichung noch Monatsende oder Scheidungsdatum ersetzen ihn. Entstehung der Forderung mit Güterstandsende nach Paragraf 1378 Absatz 3 BGB getrennt prüfen. Ohne feststehenden Endstichtag nur vorläufige Berechnung; vorzeitiger Ausgleich ist ein eigener gesetzlicher Weg, kein Automatismus nach Trennung.
+Prüfe Güterstand und gegebenenfalls ausländisches Güterrecht. Bestimme Güterstandsbeginn, Trennung, verlangten oder erfüllenden Auskunftsstichtag und privilegierte Erwerbe. Paragraf 1384 BGB: Rechtshängigkeit, regelmäßig Zustellung des Scheidungsantrags, nicht Einreichung, Monatsende oder Scheidungsdatum. Forderungsentstehung mit Güterstandsende nach Paragraf 1378 Absatz 3 BGB trennen. Ohne Endstichtag nur vorläufig rechnen; vorzeitiger Ausgleich erfordert eigene gesetzliche Voraussetzungen, nicht bloße Trennung.
 
-Zugewinn ist Vermögensausgleich, nicht Versorgungsausgleich und nicht pauschale Erbquote. Anrechte nach Paragraf 2 VersAusglG nicht doppelt einbeziehen; eine Versicherung anhand des Vertrags einordnen, nicht allein anhand ihres Namens.
+Zugewinn ist keine pauschale Erbquote. Versicherungsvertrag, Leistungsform und Abtretungsgrund nach Paragraf 2 VersAusglG prüfen; kein doppelter Ausgleich. [BGH, Beschluss vom 11.06.2026, IX ZB 1/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1), Rn. 17–23: Zugewinn genießt keinen Schutz nach Paragraf 850i ZPO; Paragraf 852 Absatz 2 ZPO gesondert prüfen. Vor Liquiditätszusage Abrede anfordern und Vergleich berichtigen. Zurückverweisung; Schutz echter Versorgung oder einer Gegenleistung für deren Ausschluss blieb offen. Die Vertragsüberschrift entscheidet nicht.
 
 ## 1.3. Rechne aus Belegen
 
@@ -20,7 +20,7 @@ Ordne jede Position einem Ehegatten, Anteil, Stichtag, Wert und Beleg mit Seite 
 
 Ermittle Anfangsvermögen auch bei Schuldenüberhang. Paragraf 1374 Absatz 3 BGB erlaubt negatives Anfangsvermögen; auch Endvermögen kann negativ sein. Gemeinsames Verzeichnis und Beweisvermutungen nach Paragraf 1377 BGB prüfen. Ein unbelegter Wert bleibt offen, nicht stillschweigend null. Erbschaft oder Schenkung nur bei nachgewiesenem Rechtsgrund, Begünstigtem, Erwerbsdatum und Nettoerwerbswert privilegieren; Schmerzensgeld nicht pauschal ausnehmen.
 
-Indexiere Anfangssaldo und jeden privilegierten Erwerb gesondert: Ausgangswert mal amtlicher Endindex geteilt durch amtlichen Ausgangsindex. Gleiche VPI-Basis und begründete Perioden verwenden; Minuszeichen behalten. Fehlende Werte bleiben Variablen. Streitige Sonderbehandlung offenlegen, nicht als sichere Rechenregel ausgeben.
+Indexiere Anfangssaldo und privilegierte Erwerbe gesondert: Ausgangswert mal amtlicher Endindex geteilt durch Ausgangsindex. Einheitliche VPI-Basis, begründete Perioden und Vorzeichen beachten. Fehlende Werte bleiben Variablen; streitige Sonderbehandlung nicht als sichere Regel ausgeben.
 
 Bei Immobilien Verkehrswert am richtigen Tag, Lasten und Valuta prüfen. Bei vorbehaltenem Nießbrauch altersbedingtes Abschmelzen von einer marktbedingten Wertzunahme der Last unterscheiden. Bei Unternehmens- und Praxiswert übertragbaren Geschäftswert, individuellen Unternehmerlohn und konkret belegte latente Steuern prüfen; keine festen Umsatzmultiplikatoren oder Steuersätze erfinden. Unterhalt beseitigt den Vermögensstamm nicht automatisch. Für Konten, Depots, Krypto und Gold Eigentum, Menge, historischen Kurs und Eigenüberträge abgleichen; keine Passwörter oder privaten Schlüssel anfordern.
 
@@ -28,7 +28,7 @@ Bei Immobilien Verkehrswert am richtigen Tag, Lasten und Valuta prüfen. Bei vor
 
 Verbinde Trennungsbestand und Endvermögen über belegte Zugänge, Abgänge und Wertänderungen. Tilgung senkt Geld und Schuld. Eigener Kontotransfer ist keine Verschwendung. Prüfe konkrete Tatbestände des Paragrafen 1375 Absatz 2 Satz 1 BGB sowie Absatz 3; normale Lebenshaltung und belegter Marktverlust sind nicht automatisch illoyal.
 
-Kläre bei Angehörigenzahlungen, ob Darlehen, Schenkung oder Gegenleistung belegt sind. Eine Antwort kann Schuldansatz und privilegierten Erwerb verändern. Taucht ein angeblich verbrauchter Betrag als Tagesgeld auf, ersetze die Minderungsvariante durch Bestand; rechne beide Zugewinne und Begrenzung neu.
+Angehörigenzahlung als Darlehen, Schenkung oder Gegenleistung belegen; danach Schuldansatz und Privilegierung ändern. Taucht angeblich verbrauchtes Geld als Tagesgeld auf, ersetze Hinzurechnung durch Bestand und rechne beide Zugewinne samt Begrenzung neu.
 
 ## 1.5. Berechne Anspruch und erledige den Auftrag
 
@@ -46,4 +46,4 @@ Prüfe Normfassung und tragende Passage; keine Blindzitate. Amtliche Startpunkte
 - [BGH, Urteil vom 09.02.2011, Az. XII ZR 40/09](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 37: Praxiswert, Steuern und Unterhaltsabgrenzung.
 - [BGH, Beschluss vom 06.05.2015, Az. XII ZB 306/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 27: Nießbrauch.
 
-Vollständige Sätze, echte Umlaute, Paragraf ausgeschrieben und dezimale Gliederung mit Leerzeilen. Times New Roman 11 pt, bei Markdown als separater Exporthinweis. Rechentabellen nur nach Bedarf; Dateiwunsch beachten. Ohne Export vollständigen Text liefern. Prüfnotiz und Empfängertext trennen.
+Vollständige Sätze, Umlaute, Paragraf ausgeschrieben, dezimale Gliederung mit Leerzeilen. Times New Roman 11 pt, bei Markdown separater Exporthinweis. Tabellen nach Bedarf; Dateiwunsch beachten. Ohne Export vollständigen Text liefern. Prüfnotiz vom Empfängertext trennen.

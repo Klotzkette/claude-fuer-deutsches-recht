@@ -1,0 +1,304 @@
+{
+  "reportdate": "2026-10-16",
+  "status": "Abgeschlossen; bereit für zentrale QA und Profil-Hash-Abgleich durch Parent.",
+  "scope": [
+    "mietrecht",
+    "mietchecker",
+    "eigenbedarfskuendigungschecker",
+    "fachanwalt-miet-wohnungseigentumsrecht",
+    "fachanwalt-familienrecht",
+    "fachanwalt-erbrecht",
+    "zugewinnausgleich"
+  ],
+  "summary": {
+    "verified_decisions": 3,
+    "changed_plugins": 5,
+    "changed_files": 17,
+    "approach": "Individuelle Ergänzungen vorhandener Werkstatt-/Mini-Profile und einschlägiger Skills/Referenzen; keine generischen Neufassungen der Einleitungen, keine pauschalen Datumsanhebungen.",
+    "important_distinction": "VIII ZR 16/26 war bereits im Eigenbedarfschecker vorhanden. Dort keine Änderung; Entscheidung erneut am amtlichen Text geprüft und in die beiden breiteren Mietrechtsprofile übertragen. Die beiden anderen Entscheidungen ergänzen bisher fehlende konkrete Prüfzweige."
+  },
+  "decisions": [
+    {
+      "court": "Bundesgerichtshof",
+      "case": "VIII ZR 16/26",
+      "date": "2026-09-01",
+      "type": "Beschluss; amtlicher Entscheidungstext, keine Pressemitteilung",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+        "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE616382026&psml=bsjrsprod.psml&max=true"
+      ],
+      "keyholding": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen.",
+      "limits": [
+        "Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes.",
+        "Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl.",
+        "Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen."
+      ],
+      "workflow": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben.",
+      "norms": [
+        "BGB 574",
+        "BGB 574a",
+        "ZPO 144",
+        "ZPO 414"
+      ],
+      "verificationstatus": {
+        "checked_on": "2026-10-16",
+        "method": "Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.",
+        "read_scope": "Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.",
+        "status": "Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen."
+      },
+      "whichfiles": [
+        "mietrecht/mietrecht-werkstatt.md",
+        "mietrecht/mietrecht-schnellstart.md",
+        "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+        "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+        "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md"
+      ],
+      "unchangedareas": [
+        "Eigenbedarfschecker enthielt diesen Prüfzweig bereits; vollständig unverändert.",
+        "Keine erneute Bewertung sämtlicher älterer Eigenbedarfs-, Kündigungs- und WEG-Entscheidungen."
+      ]
+    },
+    {
+      "court": "Bundesgerichtshof",
+      "case": "IV ZR 141/25",
+      "date": "2026-06-24",
+      "type": "Urteil; amtlicher Entscheidungstext, keine Pressemitteilung",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1"
+      ],
+      "keyholding": "Eine als Gegenleistung vereinbarte Leibrente hindert den Beginn der Zehnjahresfrist nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil ihre Höhe an bisherige Mieteinnahmen anknüpft oder sie durch Reallast gesichert ist. Zahlungsanspruch und fortbestehende Herrschaft über den verschenkten Gegenstand sind zu unterscheiden. Ein späterer unentgeltlicher Rentenverzicht kann eine eigene ergänzungspflichtige Schenkung mit eigenem Datum und Wert sein.",
+      "limits": [
+        "Andere vorbehaltene Nutzungs- und Herrschaftsrechte sowie die Ehegattenregel bleiben gesondert zu prüfen.",
+        "Der spätere Verzicht macht die nach zehn Jahren nicht mehr ergänzungspflichtige Grundstücksleistung nicht erneut ergänzungspflichtig.",
+        "Abgewiesen wurde die konkret beantragte Wertermittlung zu Grundstück und ursprünglicher Gegenleistung. Ein möglicherweise begründetes isoliertes Wertermittlungsbegehren zum jüngeren Rentenverzicht war nicht Streitgegenstand; keine Anspruchshöhe zugesprochen."
+      ],
+      "workflow": "Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten.",
+      "norms": [
+        "BGB 2314",
+        "BGB 2325"
+      ],
+      "verificationstatus": {
+        "checked_on": "2026-10-16",
+        "method": "Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.",
+        "read_scope": "Kopf, Tenor, Tatbestand und Rn. 9 bis 27; kein vollständiges Lesen aller Urteilsgründe behauptet.",
+        "status": "Verwendete Aussagen und Antragsgrenzen am amtlichen Entscheidungstext verifiziert."
+      },
+      "whichfiles": [
+        "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+        "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+        "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/SKILL.md",
+        "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/references/schenkungen-bewerten.md"
+      ],
+      "unchangedareas": [
+        "Ältere Nießbrauchs-/Wohnrechtsentscheidungen nicht erneut als volltextgeprüft ausgegeben.",
+        "Erbschein, Testament, Digitalnachlass und Unternehmensnachfolge nicht inhaltlich neu geprüft; begrenzte Textverdichtung im Mini zur Einhaltung des Größenlimits."
+      ]
+    },
+    {
+      "court": "Bundesgerichtshof",
+      "case": "IX ZB 1/25",
+      "date": "2026-06-11",
+      "type": "Beschluss; amtlicher Entscheidungstext, keine Pressemitteilung",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1"
+      ],
+      "keyholding": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+      "limits": [
+        "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung.",
+        "Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen.",
+        "Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen.",
+        "Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen."
+      ],
+      "workflow": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen.",
+      "norms": [
+        "VersAusglG 2",
+        "ZPO 850i",
+        "ZPO 852 Absatz 2",
+        "InsO 35",
+        "InsO 36"
+      ],
+      "verificationstatus": {
+        "checked_on": "2026-10-16",
+        "method": "Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.",
+        "read_scope": "Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.",
+        "status": "Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt."
+      },
+      "whichfiles": [
+        "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+        "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+        "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md",
+        "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
+        "zugewinnausgleich/zugewinnausgleich-schnellstart.md",
+        "zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md",
+        "zugewinnausgleich/references/zugewinn-quellen.md"
+      ],
+      "unchangedareas": [
+        "Unterhalt, Sorge, Umgang, sonstige Versorgungsausgleichsverfahren und ältere Rechtsprechungsanker nicht neu volltextgeprüft.",
+        "Keine Änderung an Berechnungsprogrammen oder Testakten."
+      ]
+    }
+  ],
+  "normverification": {
+    "date": "2026-10-16",
+    "status": "Folgende Normtexte unmittelbar bei Gesetze im Internet gelesen; bei Webabrufproblemen direkter HTTPS-Abruf.",
+    "sourceURLs": [
+      "https://www.gesetze-im-internet.de/bgb/__574.html",
+      "https://www.gesetze-im-internet.de/bgb/__574a.html",
+      "https://www.gesetze-im-internet.de/bgb/__574b.html",
+      "https://www.gesetze-im-internet.de/zpo/__144.html",
+      "https://www.gesetze-im-internet.de/zpo/__414.html",
+      "https://www.gesetze-im-internet.de/bgb/__2314.html",
+      "https://www.gesetze-im-internet.de/bgb/__2325.html",
+      "https://www.gesetze-im-internet.de/versausglg/__2.html",
+      "https://www.gesetze-im-internet.de/zpo/__850i.html",
+      "https://www.gesetze-im-internet.de/zpo/__852.html",
+      "https://www.gesetze-im-internet.de/inso/__35.html",
+      "https://www.gesetze-im-internet.de/inso/__36.html"
+    ]
+  },
+  "tests": [
+    {
+      "name": "git diff --check innerhalb der sieben zugewiesenen Verzeichnisse",
+      "status": "passed"
+    },
+    {
+      "name": "validate-markdown-structure.inspect auf den 16 geänderten Dateien",
+      "status": "passed",
+      "errors": 0
+    },
+    {
+      "name": "validate-yaml-frontmatter.check_one auf den vier geänderten Skills; Frontmatter zusätzlich mit HEAD verglichen",
+      "status": "passed",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "name": "Zehn Mini-/Werkstattdateien: unveränderte Überschrifteninventare, Leerzeilen nach Überschriften, vollständige Textenden",
+      "status": "passed"
+    },
+    {
+      "name": "32 relative Markdown-Verweise in den geänderten Dateien auf vorhandene Ziele geprüft",
+      "status": "passed"
+    },
+    {
+      "name": "Entscheidungsanker und amtlicher Link in den zehn geänderten Mini-/Werkstattdateien",
+      "status": "passed",
+      "note": "Statische Inhaltsprüfung, kein Modelllauf."
+    },
+    {
+      "name": "mini_within_limits für die fünf geänderten Minis",
+      "status": "passed",
+      "maximum_bytes": 7500
+    },
+    {
+      "name": "scripts/test-eigenbedarfskuendigungschecker.py",
+      "status": "passed",
+      "tests": 7
+    },
+    {
+      "name": "scripts/test-mietchecker.py",
+      "status": "failed_preexisting",
+      "tests": 10,
+      "passed": 9,
+      "failed": 1,
+      "detail": "test_standalone_profiles_and_sources verlangt maximal 7400 Bytes; unveränderte Mini-Datei hat 7466 Bytes. Byteidentität mit HEAD bestätigt. Zentrales konfiguriertes Mini-Limit beträgt 7500 Bytes. Test und Konfiguration unverändert gelassen."
+    },
+    {
+      "name": "Zugewinn: test_plugin_has_ten_real_skills_and_separate_prompts und test_readme_keeps_decimal_sections_and_stable_download_anchors",
+      "status": "passed",
+      "tests": 2,
+      "detail": "Nur diese beiden bestehenden statischen Testmethoden direkt ausgeführt; keine PDF-Neuerzeugung, nicht die gesamte Suite."
+    },
+    {
+      "name": "Nachtrag Textform: eigenbedarfskuendigung-erstellen/SKILL.md",
+      "status": "passed",
+      "detail": "Markdown-Struktur, YAML, unverändertes Frontmatter und Überschrifteninventar, Textform im Prüfpfad und in der Vorlage, erhaltene Schriftform und Unterschriften der Kündigung sowie git diff --check geprüft. Keine repo-weiten Tests."
+    }
+  ],
+  "prompt_snapshots_for_parent": {
+    "mietrecht/mietrecht-schnellstart.md": {
+      "bytes": 7445,
+      "sha256": "b6c8c52b2660315af39aecf114b2fa20d959c9c17875a164d7ac9dbe816d8a3d"
+    },
+    "mietrecht/mietrecht-werkstatt.md": {
+      "bytes": 24070,
+      "sha256": "3731d0cbd904de5d06b01ff0e5e9484daa68383af0d56a438b205ae7b69ff812"
+    },
+    "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md": {
+      "bytes": 7473,
+      "sha256": "002bfb9a851caa45795ffd27a6317d7983a147ed72fd26cb03e48002402f6b89"
+    },
+    "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md": {
+      "bytes": 27268,
+      "sha256": "ec73e08a39f25dfa55ca36d0a367ce6559f290569d45e82b3bf5e5f4343e33e0"
+    },
+    "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md": {
+      "bytes": 7462,
+      "sha256": "58d8b48f7b0c2cab6bec6cffea121b7872070ac814d1bdf7b8b97226b97c26ef"
+    },
+    "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md": {
+      "bytes": 44298,
+      "sha256": "3f5b278ae7e62cb62d70dbc5920a7f5721bd6f1ee2739554c6f53868643a5217"
+    },
+    "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md": {
+      "bytes": 7489,
+      "sha256": "b25be979c283054575d243804c30830bcc0f00758c0bcf59c30e41b493ea9f1a"
+    },
+    "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md": {
+      "bytes": 40637,
+      "sha256": "68ce2f7f680d817a22f8caa2865361ed3a73851750d65742a2406798ec120abe"
+    },
+    "zugewinnausgleich/zugewinnausgleich-schnellstart.md": {
+      "bytes": 7500,
+      "sha256": "b40dd8c1b9352ecd2a708e403c99302538edccbf46b94e4f87313e1008ab2a14"
+    },
+    "zugewinnausgleich/zugewinnausgleich-werkstatt.md": {
+      "bytes": 31074,
+      "sha256": "406169921a1f3077ccdd420dc5c8cde6100a920cbe880ff4595fe8f064459e9a"
+    }
+  },
+  "remaining_findings": [
+    {
+      "file": "scripts/test-mietchecker.py",
+      "line": 94,
+      "finding": "Bestehende 7400-Byte-Assertion widerspricht der bereits 7466 Bytes großen unveränderten Mini-Datei und dem zentralen 7500-Byte-Limit; Parent kann dies in zentraler QA einordnen.",
+      "changed": false
+    }
+  ],
+  "followup_norm_correction": {
+    "date": "2026-10-16",
+    "type": "Eng begrenzte Norm- und Vorlagenkorrektur auf ausdrücklichen Folgeauftrag; keine weitere Entscheidung aufgenommen.",
+    "sourceURLs": [
+      "https://www.gesetze-im-internet.de/bgb/__574b.html"
+    ],
+    "keyholding": "Paragraf 574b Absatz 1 BGB verlangt Textform für den Härtewiderspruch, keine eigenhändige Unterschrift. Die Schriftform der Kündigung ist hiervon zu unterscheiden.",
+    "whichfiles": [
+      "mietrecht/skills/eigenbedarfskuendigung-erstellen/SKILL.md"
+    ],
+    "changes": [
+      "Prüfpfad zur Sozialklausel: Textform mit amtlichem Normlink und Abgrenzung zur eigenhändigen Unterschrift ergänzt.",
+      "Entwurfscheckliste und Paragrafenkette: Textform des Widerspruchs ausdrücklich benannt.",
+      "Kündigungsvorlage: schriftlich durch in Textform erklärt werden ersetzt; Normverweis auf Absatz 1 und 2 berichtigt."
+    ],
+    "verificationstatus": "Amtlichen Normtext erneut mit Webtool gelesen; lokale Struktur- und Inhaltschecks bestanden. Bisheriger Textform-Befund erledigt.",
+    "unchangedareas": [
+      "Keine weitere gleiche eindeutige Formvorgabe für den Härtewiderspruch im Plugin gefunden; keine andere Plugin-Datei in diesem Nachtrag geändert.",
+      "Schriftform und Unterschriftenanforderung der Kündigung unverändert.",
+      "Ältere Rechtsprechungsfundstellen dieses Skills nicht erneut verifiziert oder bearbeitet.",
+      "Mietchecker-Testkorrektur verbleibt beim Parent; zentrale Profile und Prompt-Hashes durch diesen Nachtrag nicht verändert."
+    ]
+  },
+  "unchangedareas": [
+    "mietchecker vollständig unverändert: auf Miethöhe ausgerichtet; kein sachgerechter Zusatz aus den drei ausgewählten Entscheidungen.",
+    "eigenbedarfskuendigungschecker vollständig unverändert: VIII ZR 16/26 bereits ausführlich berücksichtigt.",
+    "Zentrale quality/evals-Profile, globale Konfiguration, zentrale Tests, READMEs, Manifeste, Versionen und Release-Artefakte nicht bearbeitet.",
+    "Keine generischen Generatoren, keine pauschalen Datumsanhebungen, keine Commit-/Push-/Release-Aktion.",
+    "Fremde Änderungen im gemeinsam genutzten Worktree nicht verändert oder zurückgesetzt.",
+    "Keine repo-weite Testsuite und keine Modell-Evaluation durchgeführt; zentrale QA übernimmt Parent."
+  ],
+  "parent_actions": [
+    "Änderungen anhand der 16 whichfiles der Entscheidungen und des einen weiteren Pfads in followup_norm_correction prüfen; insgesamt 17 geänderte Dateien. Quellennachweise, Grenzen und Restbefunde sind oben getrennt dokumentiert.",
+    "Die zehn präzisen Mini-/Werkstatt-Hashes in den zentralen Qualitätsprofilen erst nach eigener Prüfung aktualisieren; Momentaufnahmen oben beigefügt.",
+    "Zentrale QA ausführen; vorbestehende Mietchecker-Testabweichung gesondert behandeln."
+  ]
+}

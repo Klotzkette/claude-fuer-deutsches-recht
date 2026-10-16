@@ -1,0 +1,1317 @@
+[
+  {
+    "plugin": "agb-recht-pruefer",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+        "application": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+        "limit": "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "agb-recht-pruefer/README.md",
+        "sha256": "64f417c4a59abf1bcc4584368b1222c30872ff50d25164092593b4649ff517ec"
+      },
+      {
+        "path": "agb-recht-pruefer/agb-recht-pruefer-schnellstart.md",
+        "sha256": "cbb273977ebbddf3caaf91be840227ce0d02b874c9adb8b85d538a2e5cef996f"
+      },
+      {
+        "path": "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+        "sha256": "3be923ba1fb4442b0df3e68fa93edab217c1f7d7a3d8a25c5d0d722e1a63b440"
+      },
+      {
+        "path": "agb-recht-pruefer/skills/preisanpassung-klausel/SKILL.md",
+        "sha256": "375903d666fafc31d18b5b7383789dd5f4db11cd4694edc291de3f32fa300535"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "agb-werkstatt",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 01.10.2026, III ZR 205/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html",
+        "application": "Nach der Pressemitteilung waren die Preisänderungsbestimmungen wegen Intransparenz nach Paragraf 307 Absatz 1 Satz 1 und 2 BGB unwirksam: Unklar blieb, ob nur Kündigung möglich war oder Widerspruch zur Fortsetzung zum bisherigen Preis führte, vorbehaltlich einer Kündigung durch den Anbieter.",
+        "limit": "Kein allgemeines Preisänderungsverbot und keine Entscheidung über individuelle Rückzahlungen. Keine allgemeine Zulässigkeit von Zustimmungsfiktionen; Transparenz ersetzt keine materielle Wirksamkeitsprüfung. Keine rückwirkende Heilung unwirksamer Altklauseln durch neue Klausel oder Mitteilung. Vertrags- und Änderungsdatum, maßgebliche Normfassung, Übergangs- und Sonderrecht gesondert prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Nur Pressemitteilung 184/2026 selbst gelesen. Urteilsvolltext nicht gelesen; keine Randnummern behauptet.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Gesamte Preis-, Änderungs-, Zustimmungs- und Kündigungsklauseln sowie konkrete Kundenmitteilung lesen, Fehlendes nachfordern. Preisfortsetzung und Vertragsbeendigung auseinanderhalten. Bei Gestaltungsauftrag abgestimmte Klauselgruppe und Kundenmitteilung mit gleichen Fristen und Rechtsfolgen ausformulieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "sha256": "967621e67e705634aea81fc8ea7cfc9d9928c0306f716cd89d81aad7777f6c0a"
+      },
+      {
+        "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "sha256": "0a4495291bd1a02af61c8f9f1957fb8fcf964c0b5506e4ebb2d4075659e51416"
+      },
+      {
+        "path": "agb-werkstatt/skills/agb-preise-laufzeit-aenderung/SKILL.md",
+        "sha256": "8fd036ff9dd6bd8325b5617e97a39f7392d29aaf4f835f70c8138a95f608fd70"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen.",
+    "prior_integration_files": [
+      {
+        "path": "agb-werkstatt/agb-werkstatt-schnellstart.md",
+        "sha256": "e30201097977e3ec27f649f29e5f9740ffb1bf08ef64323c4f7ddf2fbc240319"
+      },
+      {
+        "path": "agb-werkstatt/agb-werkstatt-werkstatt.md",
+        "sha256": "d07aec7a04777f87a237a3fcd32104edac938ec3118ab93b674a7a8a206a1fc3"
+      },
+      {
+        "path": "agb-werkstatt/skills/agb-preise-laufzeit-aenderung/SKILL.md",
+        "sha256": "8fd036ff9dd6bd8325b5617e97a39f7392d29aaf4f835f70c8138a95f608fd70"
+      }
+    ],
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  {
+    "plugin": "antidiskriminierung-agg",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Grosse Kammer, Urteil vom 17.03.2026, C-258/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text=",
+        "application": "Die Anforderung, nicht aus der Kirche auszutreten, braucht einen objektiven Aufgabenbezug sowie wesentliche, rechtmaessige, gerechtfertigte und verhaeltnismaessige Gruende. Gleiche Aufgaben nichtkatholischer Beschaeftigter und fehlende weitere Loyalitaetsverstoesse sprechen gegen eine Rechtfertigung allein durch Austritt. Die vorgeschriebene staatliche Austrittserklaerung ist nicht schon oeffentliche Kirchenfeindlichkeit.",
+        "limit": "Nationale Tatsachenwuerdigung bleibt erforderlich. Kein allgemeines Verbot kirchlicher Anforderungen, keine Gleichsetzung besonderer verkuendigungsnaher Aufgaben und keine automatische Geldentschaedigung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher englischer Urteilstext gelesen. Deutsche Volltextabrufe und gekuerzte Curia-URL technisch nicht auswertbar. Quellenart und Sprachgrenze in Werkstatt/Referenz offengelegt; weder Schlussantraege vom 10.07.2025 noch Pressemitteilung als Urteil ausgegeben.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Taetigkeiten, kirchliche Regelungsfassung, nichtkatholische Vergleichspersonen, behauptete weitere Verstoesse, erhebliche Ethosgefaehrdung und mildere Mittel belegen. Kuendigungsangriff und Rechtfertigung nach Rueckantwort anpassen; Kuendigungsklagefrist gesondert sichern."
+      }
+    ],
+    "files": [
+      {
+        "path": "antidiskriminierung-agg/antidiskriminierung-agg-schnellstart.md",
+        "sha256": "1112be5a234f16900a8e360a71209d2723aa1d64bc844bca71c2acc9a19538e3"
+      },
+      {
+        "path": "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md",
+        "sha256": "e384aab2110bc1c9d12ed37c7cef7f909775074e6162b020b835ea6e85fbaff5"
+      },
+      {
+        "path": "antidiskriminierung-agg/references/rechtsprechung.md",
+        "sha256": "23c41c34db0a6cfee711f8309b7a589b4d927e680bc86c9b8800bf7c647bc3f5"
+      },
+      {
+        "path": "antidiskriminierung-agg/skills/ungleichbehandlung-und-rechtfertigung-pruefen/SKILL.md",
+        "sha256": "9e99a9fd8bbdeb7395d97177aaf57175f24c1f762c6ce5fe838c7a97fc7a95af"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "arbeitsrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 184/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+        "application": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen.",
+        "limit": "bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert."
+      },
+      {
+        "citation": "BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/",
+        "application": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund.",
+        "limit": "Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
+      }
+    ],
+    "files": [
+      {
+        "path": "arbeitsrecht/README.md",
+        "sha256": "cf9eee1ff01555ba3f214774fcc415a176c86fdf1807c8254c0bbf9d3c8cd641"
+      },
+      {
+        "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+        "sha256": "1145e3ec5d220387cf6b276a53a188d0a3148c8a5b05b3748262cf7eba2fd2fe"
+      },
+      {
+        "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+        "sha256": "2745f4a35da55afac6a81df8e2a4fa701ae8ce2648c28db65fc83a9ef74be603"
+      },
+      {
+        "path": "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
+        "sha256": "d00be7d593abda08e5b11586c303f403127fb0b50bc33a513d6dfb88ea970c20"
+      },
+      {
+        "path": "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md",
+        "sha256": "7b3a7b654ed865af96013a03a7a93cb587c5e1f5180df3529ec240e0a41de36c"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "bank-rechtsabteilung",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
+      }
+    ],
+    "files": [
+      {
+        "path": "bank-rechtsabteilung/README.md",
+        "sha256": "e4313d2be60359d38a0bbf5de0e0e7a00fb30afe7f8ef61a2c74a07e16b1bbcc"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "9e1a8ebe85afd8bb4f63baac8ed1e7d0e17330a2dc79f9cb9a0ea5408352a4bc"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "83f5187f577b61be3b1bbc2cb743a7d00ee680d376182e2ee2a4fe80b2d04508"
+      },
+      {
+        "path": "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "sha256": "49576976bde5eed6415f061b5da941d2a92e9e43a5d39e65e5931e8162c1a603"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen.",
+    "prior_integration_files": [
+      {
+        "path": "bank-rechtsabteilung/README.md",
+        "sha256": "2d929a4dc28d3d8032f59e218dfcc3a8c59879ad55f81f28875a431140f9ac99"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+        "sha256": "1e9e29fa4c5f7124854885de01cb8583ce19c9333a6b88dd4aadd63dd3ff688b"
+      },
+      {
+        "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+        "sha256": "3d42329a3393ce53321b4da7d137391b0fa39cecea178ffa3c6c52886ba6cc14"
+      },
+      {
+        "path": "bank-rechtsabteilung/skills/darlehensrecht-verbraucher-unternehmer/SKILL.md",
+        "sha256": "49576976bde5eed6415f061b5da941d2a92e9e43a5d39e65e5931e8162c1a603"
+      }
+    ],
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  {
+    "plugin": "datenschutzrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 09.07.2026, C-199/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE",
+        "application": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert.",
+        "limit": "Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "datenschutzrecht/datenschutzrecht-schnellstart.md",
+        "sha256": "53f8857d30d91b2bbd41be248c8e8d5afa3acb924641193e1ffc47b3fe548b30"
+      },
+      {
+        "path": "datenschutzrecht/datenschutzrecht-schnellstart.txt",
+        "sha256": "53f8857d30d91b2bbd41be248c8e8d5afa3acb924641193e1ffc47b3fe548b30"
+      },
+      {
+        "path": "datenschutzrecht/datenschutzrecht-werkstatt.md",
+        "sha256": "9ba03704d029aa36a2c20c72930daf96881378c2630bbb6c2577be3da689fa59"
+      },
+      {
+        "path": "datenschutzrecht/references/urteilsdatenbanken-medienprivileg.md",
+        "sha256": "1f9d9e9a3726f03d806e22c90ad53d74df60a0856e89eb652cd66f5d20d6fad7"
+      },
+      {
+        "path": "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/SKILL.md",
+        "sha256": "94aefaad75e0e2efad848b9c00aa2396a426eea222e64a0edda737bc1e16fe4b"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "enteignung-artikel-14",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Urteil vom 26.03.2026, 10 C 4.25",
+        "url": "https://www.bverwg.de/260326U10C4.25.0",
+        "application": "Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang.",
+        "limit": "Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 tatsächlichen amtlichen Urteilsteil auf derselben Seite hinter der Pressemitteilung gelesen: Kopf, Tenor, Sachverhalt und Gründe. Paragrafen 67/68 BNatSchG amtlich abgeglichen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
+        "source_status": "official_full_text",
+        "paragraphs": "18-41"
+      }
+    ],
+    "files": [
+      {
+        "path": "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+        "sha256": "91ab8e9caa8c0f3847fac028ddc7fd071ff400ee25cc9d84a4ed0cb33842ba5e"
+      },
+      {
+        "path": "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+        "sha256": "f130dd32ef3225449e9f16a875234160b7af3743f2960e789e53de8db2aac58f"
+      },
+      {
+        "path": "enteignung-artikel-14/references/rechtsgrundlagen.md",
+        "sha256": "703e5d949d3937c87d2a4356b336e4c57eda817213e696f3e8411a4d7aa7467d"
+      },
+      {
+        "path": "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md",
+        "sha256": "4f8e76c92e6e0ccb6fa6d908b6645f8037d0212dd9f44e5cf7c0bafe2b6b3470"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-arbeitsrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 184/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+        "application": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen.",
+        "limit": "bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert."
+      },
+      {
+        "citation": "BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/",
+        "application": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund.",
+        "limit": "Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-arbeitsrecht/README.md",
+        "sha256": "910dd2fc5e2b73c4d83072f33f76fe3265d76c5d3bfa8c5ac632adbc386bff3b"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+        "sha256": "ee74203f4b0d872ccb471d1d5379ead350c92247c7c7ea14361de04a811d2826"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+        "sha256": "0cc3b4d13e16ece58ffa409e78a0901218daa86305a349a723edd3290fe66cc3"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/befristung-tzbfg/SKILL.md",
+        "sha256": "418d6ceb657f2e5b1938e1312872bf441ed0906f5d06581f6ed915d615027f9d"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md",
+        "sha256": "9a1acf469a0d7a79477cd409fe7095ed1a103e55d8e37b7c099578d83c5c8bb9"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md",
+        "sha256": "5c78e010a0b345c8cf20ae791c3256edee592fe8d5361907345ba587ef3d114f"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md",
+        "sha256": "202416ba0b08816fed51259c63ecd7aa921f01115ee32fa2f7a6d43e5165f5a3"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/SKILL.md",
+        "sha256": "99b08f3eee8889f224202018501223e4353596a04aef21368d7c4e328a56cc43"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-bank-kapitalmarktrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 10.03.2026, XI ZR 132/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1",
+        "application": "Persönlicher kreditfinanzierter Erwerb eigener Gesellschaftsanteile und dessen Refinanzierung sind grundsätzlich private Vermögensverwaltung. Geschäftsführung oder beherrschende Beteiligung begründen nicht allein Unternehmerstatus. Formularmäßige Unternehmerbestätigung scheiterte an Paragraf 309 Nummer 12 Halbsatz 1 Buchstabe b BGB; Geschäftskonto war bloße Abwicklungsmodalität.",
+        "limit": "Ausnahme eines wegen des Umfangs der eigenen Vermögensverwaltung erforderlichen planmäßigen Geschäftsbetriebs prüfen. Persönliche Verpflichtung, Vertretung und Finanzierung der Gesellschaft nicht gleichsetzen; eigenständigen privaten Willensentschluss beachten. Zurückverweisung zur Prüfung von Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 BGB; keine automatische Zinsfreiheit oder Erstattung. Vertrag vom 25.01.2013: Paragraf 13 BGB in Fassung 01.01.2002 bis 12.06.2014; Paragraf 491 Absatz 1 in Fassung 11.06.2010 bis 12.06.2014; Paragraf 494 und Paragraf 502 Absatz 1 Satz 2 in Fassung 30.07.2010 bis 20.03.2016. Eigene Normfassung und Übergangsrecht separat prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 19 bis 32.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Erwerbsvertrag, ursprüngliche Finanzierung, Umschuldung, Organisation und Pflichtangaben lesen beziehungsweise gezielt anfordern; danach Statusvotum, konkrete Abrechnung und bestellte Kundenantwort oder Einwendung fertigstellen."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/README.md",
+        "sha256": "d1628778e46be078822734bbe3bd58b7b1edb07f68a7e9fa6577ce48a6e98d1b"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "sha256": "ec908da93a0c368f6cfc8221e36803744e15649b8c2444bb93baa6dbc2d6ee1c"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "sha256": "41dae4b1c62cae9bbeb196c7321c18f08cf024599a0d3ea46d54c1b009996704"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md",
+        "sha256": "4ce610a61def5c938b02b58eac32f8d778a67f2ae42b30d1f3e0ee7dd686a48c"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen.",
+    "prior_integration_files": [
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/README.md",
+        "sha256": "a89baebb4ce42e102129f481d8ca0b36bf6b02b533d794a24f3993a00b39ab5e"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+        "sha256": "8bea8eec5f516f36d80936a74415fb381a9b139a5a7fd78d497df6a658a77533"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+        "sha256": "2fe9875628969a621e79330c0ad08f8d53efc989750222eb60b4d018a75c5ef7"
+      },
+      {
+        "path": "fachanwalt-bank-kapitalmarktrecht/skills/verbraucherkredit-verhandlung-vergleich-und-eskalation/SKILL.md",
+        "sha256": "4ce610a61def5c938b02b58eac32f8d778a67f2ae42b30d1f3e0ee7dd686a48c"
+      }
+    ],
+    "integration_review": "16.10.2026: Beide begrenzten Fachergänzungen nach Zusammenführung redaktionell gegengeprüft. Zahlungsrecht C-70/25 bleibt neben Anteilserwerb beziehungsweise Preisänderung erhalten; keine neue Vollprüfung alter Quellen. Vorherige Dateifassung separat bewahrt."
+  },
+  {
+    "plugin": "fachanwalt-erbrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1",
+        "application": "Eine als Gegenleistung vereinbarte Leibrente hindert den Beginn der Zehnjahresfrist nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil ihre Höhe an bisherige Mieteinnahmen anknüpft oder sie durch Reallast gesichert ist. Zahlungsanspruch und fortbestehende Herrschaft über den verschenkten Gegenstand sind zu unterscheiden. Ein späterer unentgeltlicher Rentenverzicht kann eine eigene ergänzungspflichtige Schenkung mit eigenem Datum und Wert sein.",
+        "limit": "Andere vorbehaltene Nutzungs- und Herrschaftsrechte sowie die Ehegattenregel bleiben gesondert zu prüfen. Der spätere Verzicht macht die nach zehn Jahren nicht mehr ergänzungspflichtige Grundstücksleistung nicht erneut ergänzungspflichtig. Abgewiesen wurde die konkret beantragte Wertermittlung zu Grundstück und ursprünglicher Gegenleistung. Ein möglicherweise begründetes isoliertes Wertermittlungsbegehren zum jüngeren Rentenverzicht war nicht Streitgegenstand; keine Anspruchshöhe zugesprochen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Tatbestand und Rn. 9 bis 27; kein vollständiges Lesen aller Urteilsgründe behauptet.; status: Verwendete Aussagen und Antragsgrenzen am amtlichen Entscheidungstext verifiziert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+        "sha256": "b25be979c283054575d243804c30830bcc0f00758c0bcf59c30e41b493ea9f1a"
+      },
+      {
+        "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+        "sha256": "68ce2f7f680d817a22f8caa2865361ed3a73851750d65742a2406798ec120abe"
+      },
+      {
+        "path": "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/SKILL.md",
+        "sha256": "cc84a084a549374a1ae4219af9c1c0d35d0a66af2c567ed92baa241337dae962"
+      },
+      {
+        "path": "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/references/schenkungen-bewerten.md",
+        "sha256": "873b6eac41156f0f7f804fe9668160cec7f483335b7d8e54da8eaa69d0b9a3f7"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-familienrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-schnellstart.md",
+        "sha256": "58d8b48f7b0c2cab6bec6cffea121b7872070ac814d1bdf7b8b97226b97c26ef"
+      },
+      {
+        "path": "fachanwalt-familienrecht/fachanwalt-familienrecht-werkstatt.md",
+        "sha256": "3f5b278ae7e62cb62d70dbc5920a7f5721bd6f1ee2739554c6f53868643a5217"
+      },
+      {
+        "path": "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md",
+        "sha256": "5d4d7f0f31e4c0ac536fd8b8f12b18419512a804fcadb01f7ef89801a3c80a89"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-it-recht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 09.07.2026, C-199/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE",
+        "application": "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2. Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden. Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert.",
+        "limit": "Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen. Kein automatischer Löschungs- oder Schadensersatzanspruch. Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein. Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung gezielt gelesen; read_scope: Sachverhalt, Rn. 31 bis 78 und Tenor; method: Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.; verified_on: 2026-10-16; opinion_distinction: Schlussanträge vom 04.09.2025 sind nicht das Urteil.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+        "sha256": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb"
+      },
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+        "sha256": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb"
+      },
+      {
+        "path": "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+        "sha256": "1b979a5c902f8b49b35b58c4a854c0aaf5ca7a27048ad0c84f88debb92dc1b8e"
+      },
+      {
+        "path": "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md",
+        "sha256": "9afe5ed8404712c9ea8c594f50c8ce89c9927115eb8229ea980dcbee4c89aee4"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-medizinrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/medizin-zentral.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 09.03.2026, VI ZR 335/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_335-24.pdf?__blob=publicationFile&v=1",
+        "application": "Auskunft nach Paragraf 84a AMG verlangt Indiztatsachen und plausible Verursachung, nicht überwiegende Wahrscheinlichkeit. Auskunft nicht allein auf das individuelle Krankheitsbild begrenzen. Eine abstrakte unbekannte Reserveursache genügt nicht zur Beseitigung der Kausalitätsvermutung nach Paragraf 84 Absatz 2 AMG.",
+        "limit": "Zurückverweisung; kein Schadensersatz zugesprochen. Auskunft und Haftung bleiben getrennt, ebenso Behandlerhaftung und soziale Entschädigung. Nicht alle 48 Seiten vollständig nachgeprüft.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtliches PDF unmittelbar geladen; Kopf, Leitsätze, Tenor und Rn. 18–37 sowie 63–80 gelesen. Operative Ergänzungen beschränkt auf Rn. 18–24, 27–37 und 65–66.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/medizin-zentral.json",
+        "workflow_effect": "Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-medizinrecht/README.md",
+        "sha256": "94209107aec8ff9b1fc54faf3961e01407a57360d343141715e539f488d3d90c"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+        "sha256": "afb67dd2f172b2a96c86e25cb428339baee7ab3e505a292b2cd030dc29b4b32d"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+        "sha256": "87286c5ad5f85b5f07a06259b91b02cdf14a401b2a9a643c9ef62c2377d0208c"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/SKILL.md",
+        "sha256": "96ceccb74df7527d91c3edbd687acb82433b1839ee9d64fb746f262b8ee7baf0"
+      },
+      {
+        "path": "fachanwalt-medizinrecht/skills/mandat-triage-medizinrecht/SKILL.md",
+        "sha256": "09c2aed90bcc99371b276155f543bbdbaa40788cb45950059f4bf75c3ab127c1"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+        "application": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen.",
+        "limit": "Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+        "sha256": "002bfb9a851caa45795ffd27a6317d7983a147ed72fd26cb03e48002402f6b89"
+      },
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+        "sha256": "ec73e08a39f25dfa55ca36d0a367ce6559f290569d45e82b3bf5e5f4343e33e0"
+      },
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md",
+        "sha256": "641098d894015d11d96166fb4aee0bf87800ddd001142e1e3a60183cec9650ab"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-sozialrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+        "application": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung.",
+        "limit": "Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+        "sha256": "f0147e61f05d4b8d04fe2050a0ed2d2e3a56e56c29d1651873d7962a2fd1f86d"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+        "sha256": "3fa6081900e2d6eedfb5826350f1a29ba42468ed334358c143bd2ab2fca5a698"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/skills/laienhilfe-krankenversicherungsschutz/SKILL.md",
+        "sha256": "97d510df68973527578a0d308820e7c44a70db888167e5586d692dc8acb15b71"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-strafrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 09.09.2026, AK 46/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1",
+        "application": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte.",
+        "limit": "Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.",
+        "source_status": "official_full_text",
+        "paragraphs": "19-24"
+      },
+      {
+        "citation": "BGH, Beschluss vom 05.02.2026, StB 3/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1",
+        "application": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden.",
+        "limit": "Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+        "source_status": "official_full_text",
+        "paragraphs": "8-11"
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+        "sha256": "153502ec07ab7062c5e33a202e7966a9c70b72e4e8c6f94bdfec6bc64c138b38"
+      },
+      {
+        "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+        "sha256": "22d0e247682d09e82bef2073d9e4bf2932571fa108ae962fb273f417fb580a01"
+      },
+      {
+        "path": "fachanwalt-strafrecht/references/haftrecht-rechtsprechung-2026.md",
+        "sha256": "ab3bbd6bd287bb193a9c30b8e4c1f281c362d65bb8ab6e1789229fd413e1e11d"
+      },
+      {
+        "path": "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md",
+        "sha256": "103d10826d24d366b0565d28e32a287ef4120351811cd2de470ab7cfbb20ae07"
+      },
+      {
+        "path": "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/SKILL.md",
+        "sha256": "7d373630bcf563ed0f4dcaee5ca6f434ef161485d083521639702f25beddf0b9"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-vergaberecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+        "sha256": "1e8dc447b0902688bf9674b72ec0ca3350ae39029b69a071a94fc3c1af848e54"
+      },
+      {
+        "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+        "sha256": "0be27a5217d28f86e24b99497b3b0868833e85ccbf359c348dc59471b6be8040"
+      },
+      {
+        "path": "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md",
+        "sha256": "41e8aad1bf1fb70eaec30ea398aa0a8f56b1a775e328131e39350c7f95331d80"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "fachanwalt-verwaltungsrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25",
+        "url": "https://www.bverwg.de/280726B4BN36.25.0",
+        "application": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen.",
+        "limit": "Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
+        "source_status": "official_full_text",
+        "paragraphs": "5-20"
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+        "sha256": "5756a02dd177086daf702342f0949184e0bd32621af0e8bfc1f8038daf598fbd"
+      },
+      {
+        "path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+        "sha256": "8e6d3cca14a50f4aa0c667f627f1b995b153b7f44c920e793209424fc9f897dc"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "gvb-reinigungsvergabe",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "gvb-reinigungsvergabe/README.md",
+        "sha256": "4f64b89ef5a3e7f8e74a8c71d6f2a8541110265f8f814e310443591ede00dcc8"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+        "sha256": "533699fd375daaaed7196f48859165d70f02b4b303eb7db9adf6e33531ecfb09"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+        "sha256": "6a9e1c02951648f82a5da5dc82c83c6c6202cb0f8a3208a30952967d979b1cc9"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/references/quellenstand.md",
+        "sha256": "138188f6c40835e36cffb7a88d0fdde8762d769ef429dbaccb12ee20e4af108a"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md",
+        "sha256": "02e89a743845f672ed7eeee33b52508db30dd5a1a04e8249fb129743bc9c8e94"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "insolvenzplan-starug-planwerkstatt",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
+      }
+    ],
+    "files": [
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/README.md",
+        "sha256": "915339eeb1cdf32fdf69892ce2949b164f7769ada9a6934d68e1e846a38f7ccf"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-schnellstart.md",
+        "sha256": "3b9b803d36cada96885f9ac6a6b4d39ff6440ca71ca62e75aa1c39209035ecc1"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/insolvenzplan-starug-planwerkstatt-werkstatt.md",
+        "sha256": "fcc57c54006b31db5867f2d9176c89b37d94c7daa1de293a7637816abcf3a319"
+      },
+      {
+        "path": "insolvenzplan-starug-planwerkstatt/skills/gestaltender-teil/SKILL.md",
+        "sha256": "b6052f0e03a7067d2da67f46f326b4029f1829d2fc957fb2a79887b2cbbb3606"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "insolvenzverwaltung",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 16.07.2026, IX ZR 71/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__71-25.pdf?__blob=publicationFile&v=1",
+        "application": "Mögliche Unwirksamkeit des vergüteten Einziehungsauftrags an Sachwalter oder dessen Berufsausübungsgesellschaft wegen Paragraf 45 BRAO beziehungsweise Insolvenzzweckwidrigkeit erfasste die eigenständige Planabtretung im entschiedenen Fall nicht. Der Auftrag vermittelte keinen Abtretungsanspruch; die Zession diente der Gläubigerbefriedigung unter einem Besserungsschein.",
+        "limit": "Beschluss, nicht Urteil; die Wirksamkeit des Mandats selbst blieb offen. Rn. 16: Andere insolvenzzweckwidrige Verpflichtungen können auf die zu ihrer Erfüllung vorgenommene Verfügung durchschlagen. Keine pauschale Wirksamkeit aller Planabtretungen. Wirksame Abtretung bestätigt weder Honorar noch Vergütungsfreigabe. Paragrafen 134 und 398 BGB, 228 InsO und 45 BRAO anhand der relevanten Handlungen und Normfassungen prüfen. Die im Beschluss zitierte Nummer 1 des Paragrafen 45 BRAO nicht ungeprüft als heutigen Tatbestand verwenden. Keine unmittelbare StaRUG-Regel aus dem Insolvenzplanfall ableiten.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlichen lokalen Volltext selbst gelesen; insbesondere Rn. 8 bis 18 und Deckblatt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/bank-insolvenz.json",
+        "workflow_effect": "Plantext, Bestätigungs-/Rechtskraftnachweis, Abtretungsgrund, Treuhandauftrag, Vergütungsvereinbarung und Vorbefassungsdaten lesen beziehungsweise gezielt nachfordern. Nach Eingang getrenntes Votum zu Abtretung und Mandat, abgestimmte Planklausel oder beauftragte Einziehungsverteidigung liefern."
+      }
+    ],
+    "files": [
+      {
+        "path": "insolvenzverwaltung/README.md",
+        "sha256": "60faf5db426dde33168608d650f62d22219c9a0755c6a60dd2f0efb677a48abd"
+      },
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-schnellstart.md",
+        "sha256": "6d525ddfe679407febdf98da4513b8b1a79c140bcbf16bd135554ebc3aa6c79d"
+      },
+      {
+        "path": "insolvenzverwaltung/insolvenzverwaltung-werkstatt.md",
+        "sha256": "531b35491a9f5152c089626a0562bdd5a66906cc530d0e6b319704b4d22f4f94"
+      },
+      {
+        "path": "insolvenzverwaltung/skills/eigenverwaltung-sachwaltung/SKILL.md",
+        "sha256": "0231667ed497a81ff88da4402c297967651994acf5eb933fd401c080de9ed402"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "mietrecht",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1",
+        "application": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen.",
+        "limit": "Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben."
+      }
+    ],
+    "files": [
+      {
+        "path": "mietrecht/mietrecht-schnellstart.md",
+        "sha256": "b6c8c52b2660315af39aecf114b2fa20d959c9c17875a164d7ac9dbe816d8a3d"
+      },
+      {
+        "path": "mietrecht/mietrecht-werkstatt.md",
+        "sha256": "3731d0cbd904de5d06b01ff0e5e9484daa68383af0d56a438b205ae7b69ff812"
+      },
+      {
+        "path": "mietrecht/skills/eigenbedarfskuendigung-erstellen/SKILL.md",
+        "sha256": "bce0fa299bf1e7d71ea518b1f069395d90ba6630d5123073c0b4fb8b0152f68a"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "normenkontrolle-bauleitplanung",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25",
+        "url": "https://www.bverwg.de/280726B4BN36.25.0",
+        "application": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen.",
+        "limit": "Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
+        "source_status": "official_full_text",
+        "paragraphs": "5-20"
+      }
+    ],
+    "files": [
+      {
+        "path": "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+        "sha256": "592896b9081692572505fdff3a91814677f392de6f0c1d2b37942bc2c2e37a67"
+      },
+      {
+        "path": "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+        "sha256": "bdaf17a753e282ca7af37271c87eea5ed47eb06d4357ea5c9f582c359bae92e6"
+      },
+      {
+        "path": "normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/SKILL.md",
+        "sha256": "865de9b558782096a683ef13722cc33436c150bd72350afa32ac6a83da5a0c11"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "pflegerecht-sgb-xi",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 2/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html",
+        "application": "Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos.",
+        "limit": "Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Werkzeug lieferte 403; amtliche HTML-Seite anschließend unmittelbar mit curl erfolgreich abgerufen und Bericht vollständig gelesen. Normen 45b und 82 mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p2-sozial-steuer.html.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten."
+      },
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
+      }
+    ],
+    "files": [
+      {
+        "path": "pflegerecht-sgb-xi/README.md",
+        "sha256": "664bd8cab69f831296fc218ff993dd8f3f8b3f55b9c114bc92248d7d73d09a92"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
+        "sha256": "dc24e57ee56b6c38e5bc9b99e2ab733e1f7976e258fac332ac61e6a358a9dce1"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+        "sha256": "61ed77d1c44f457634a0af3f99cb7fd08afba5d735776b5593ffe9df2138fbe3"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md",
+        "sha256": "28416c7bbdac8ed214859b264a2e6b7e96a1b6b26a362592a065038922e14cb3"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/haeusliche-pflegeleistungen-planen/SKILL.md",
+        "sha256": "5743e5e8654f305a4802353fc7fce29202c32d226dd08428fe59537f1b4b3c3c"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegebescheid-rechtsbehelf-erstellen/SKILL.md",
+        "sha256": "cada911d685b423f76a39d7397de7eebb4de2962810a2d96dd1177beedc3f66e"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegeeinrichtungen-verguetung-qualitaet-pruefen/SKILL.md",
+        "sha256": "bc4bf69e041830726462a59b7ded0055acbc2d17cba80b9d726e8f4dea055867"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+        "sha256": "44376db370b227441d409230a95cbdd4c23bc4caca98fb0ab1fc4681d615bb8d"
+      },
+      {
+        "path": "pflegerecht-sgb-xi/skills/pflegeheimkosten-zuschlag-pruefen/SKILL.md",
+        "sha256": "f9b45722c863d5d7c432719d3ac477d5af772292a876a21f9a757420bb8b956b"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "rentenpruefer",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 22.01.2026, B 6a/12 KR 14/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+        "application": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung.",
+        "limit": "Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung."
+      }
+    ],
+    "files": [
+      {
+        "path": "rentenpruefer/rentenpruefer-schnellstart.md",
+        "sha256": "69a15b2d61734d260cca48ecb73cc060541f6f749392ce2e51928be3a891c7b7"
+      },
+      {
+        "path": "rentenpruefer/rentenpruefer-werkstatt.md",
+        "sha256": "ffdb1a6098c20314cc33263a0c8ff92f5a82ae8c2a03e2daa45c8243ced81425"
+      },
+      {
+        "path": "rentenpruefer/skills/hinzuverdienst-teilrente-weiterarbeit/SKILL.md",
+        "sha256": "af30bd2bca9bf4fb598039410f118ae1eb0284fc9aab13d44bc084807901d18d"
+      },
+      {
+        "path": "rentenpruefer/skills/steuer-krankenversicherung-pflegeversicherung-rente/SKILL.md",
+        "sha256": "73cfc864d451a03945ef064a0e8737d6c226a066419927383ab86b5d9a0141e1"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "sektorenvergabe-workflow",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md",
+        "sha256": "0ddf88f20d548d0a5817b68aaaa6ad30f0da73672e1bfc34e102b2e6b62ab1af"
+      },
+      {
+        "path": "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md",
+        "sha256": "c32ce02f37ce4f4f3c8ddd9b5034ce23d35718d19f133af022969d9e87dc8a0f"
+      },
+      {
+        "path": "sektorenvergabe-workflow/skills/teilnahmeantraege-und-angebote-pruefen/SKILL.md",
+        "sha256": "2724bd2362d216c77dc099b52f9b8364b8274448027db61315e7d66ecd2a259a"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "sozialrecht-fuer-laien",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
+      }
+    ],
+    "files": [
+      {
+        "path": "sozialrecht-fuer-laien/references/quellen-und-hilfe.md",
+        "sha256": "289e0acce32e50350740c3a00250e8f2a5c5fe5e29e8a709114b41e4473b9e4f"
+      },
+      {
+        "path": "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md",
+        "sha256": "781e0def59658c8f403de402a4512655feb07becf49f6354a937a7ac4d576e47"
+      },
+      {
+        "path": "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+        "sha256": "47ae7ca2ef7cf99f39252ebe9c086a2b7d9d931bd287f143f018745b9c5ce9b8"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "steuerrecht-anwalt-und-berater",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BFH, Beschluss vom 18.09.2026, X B 121/25",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/",
+        "application": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos.",
+        "limit": "Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden."
+      }
+    ],
+    "files": [
+      {
+        "path": "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
+        "sha256": "344797d0f18acc0ef78e8293c512684f0fee55b899bcb44ecfe3a3e34f267ea7"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
+        "sha256": "bdd33f131146df1453ed5a8f7cac91bf5b8033017a9955cef4aa89f584406826"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+        "sha256": "e42e4fe8c6ba4be828eb43ab7c1316d10d20f32b21a0a6dc4b2076e45109dfa4"
+      },
+      {
+        "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+        "sha256": "89ab129d30a0a3b695cc08c47819c3fcda5c5aedcc6356e18f6e22f6e9a98876"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "untersuchungshaft",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 09.09.2026, AK 46/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1",
+        "application": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte.",
+        "limit": "Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.",
+        "source_status": "official_full_text",
+        "paragraphs": "19-24"
+      },
+      {
+        "citation": "BGH, Beschluss vom 05.02.2026, StB 3/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1",
+        "application": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden.",
+        "limit": "Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/oeffentlich-straf.json",
+        "workflow_effect": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+        "source_status": "official_full_text",
+        "paragraphs": "8-11"
+      }
+    ],
+    "files": [
+      {
+        "path": "untersuchungshaft/README.md",
+        "sha256": "494057c386dfce91cdb691e5b38a9c1052fa7e947ba4383a34077f6af3753b06"
+      },
+      {
+        "path": "untersuchungshaft/references/rechtsquellen.md",
+        "sha256": "dc8e6afc84d53e48d04968d07974a7b3635250220be4bcd521dc885750581565"
+      },
+      {
+        "path": "untersuchungshaft/skills/haftdauer-beschleunigung-pruefen/SKILL.md",
+        "sha256": "95af76f66422df95ac98545fc33f1a8fa25c29dac083ec8271618437402f8531"
+      },
+      {
+        "path": "untersuchungshaft/skills/haftpruefung-muendlich-vorbereiten/SKILL.md",
+        "sha256": "14322ae00b290153be877b3861a062629ffcb5eba54c64aa09c02ada25ab7096"
+      },
+      {
+        "path": "untersuchungshaft/untersuchungshaft-schnellstart.md",
+        "sha256": "cbbf1a5cc3b209984c9669b0e936ddd1f215d7d4295b9912f1812c78e46755fc"
+      },
+      {
+        "path": "untersuchungshaft/untersuchungshaft-werkstatt.md",
+        "sha256": "4760dc37244ba04bd84ef67be1cf18cb3e75137b70953602dbeaa504ded1c527"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "urheberrecht-de-eu",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 18.12.2025, C-182/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE",
+        "application": "Rn. 58 bis 78: Nationale Beteiligungserfordernisse sind grundsätzlich möglich, dürfen Verletzungsklagen eines oder mehrerer Miturheber aber nicht unnötig kompliziert/kostspielig, unmöglich oder übermäßig schwierig machen. Rn. 77: Bei nicht möglicher unionsrechtskonformer Auslegung Rechtsschutz aus Artikel 47 GRCh erforderlichenfalls durch Nichtanwendung der entgegenstehenden Regel gewährleisten. Paragraf 8 Absatz 2 UrhG: Jeder Miturheber kann Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen.",
+        "limit": "Französischer Filmfall mit unbekannten Rechtsnachfolgern; keine pauschale Aufhebung deutscher Beteiligungsregeln. Kein Nachweis der Rechtsinhaberschaft ersetzt und keine Aussage über Begründetheit aller Ansprüche. Einzelklagebefugnis ist keine alleinige Lizenzierungsbefugnis. Begrenzte amtliche 2026-Recherche ergab für diese Prozessfrage keinen geeigneteren neuen Anker; kein Anspruch auf erschöpfende Rechtsprechungsrecherche.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung und Paragraf 8 UrhG gelesen; read_scope: Rn. 25 bis 79 und Tenor; aktuelle deutsche Fassung mit Hinweis auf Berichtigungen Rn. 10 und 36; method: Webtool-Recherche, CURIA-Direktabruf nach technisch nicht auswertbarem Webabruf; UrhG 8 im Webtool; verified_on: 2026-10-16; date_distinction: Schlussanträge 10.04.2025 und Amtsblattveröffentlichung 26.05.2026 sind nicht das Urteilsdatum.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten."
+      }
+    ],
+    "files": [
+      {
+        "path": "urheberrecht-de-eu/references/miturheber-rechtsschutz.md",
+        "sha256": "75aaeaca637c725c710a693bb12631ce99693836de1819f30999dd818d7e3de5"
+      },
+      {
+        "path": "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md",
+        "sha256": "c60064520ed556895397ed6eb20dc99d61d880a730557df135ec776b69f6e77b"
+      },
+      {
+        "path": "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+        "sha256": "7f86b3dffe026b70e1ec8d5cc3f61f49cc79ed0ed7c2135206dd414751416e88"
+      },
+      {
+        "path": "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+        "sha256": "3f4602beef7a8d09e1275a219752a093165640dd15e9cdcc77e0f3380feb57b8"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  },
+  {
+    "plugin": "zugewinnausgleich",
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich.",
+        "limit": "Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
+      }
+    ],
+    "files": [
+      {
+        "path": "zugewinnausgleich/references/zugewinn-quellen.md",
+        "sha256": "61650138dc5d167ca771b561c8597d5daa4b0255fa8135fa4bb5e344d3247d2a"
+      },
+      {
+        "path": "zugewinnausgleich/skills/varianten-und-vergleich-durchrechnen/SKILL.md",
+        "sha256": "f995a1b41bd5248a0d4bc64b746b58f187b27d917695e93f18bdb2b58144dc05"
+      },
+      {
+        "path": "zugewinnausgleich/zugewinnausgleich-schnellstart.md",
+        "sha256": "b40dd8c1b9352ecd2a708e403c99302538edccbf46b94e4f87313e1008ab2a14"
+      },
+      {
+        "path": "zugewinnausgleich/zugewinnausgleich-werkstatt.md",
+        "sha256": "406169921a1f3077ccdd420dc5c8cde6100a920cbe880ff4595fe8f064459e9a"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
+  }
+]

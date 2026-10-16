@@ -1,0 +1,150 @@
+{
+  "reportDate": "2026-10-16",
+  "scope": [
+    "fachanwalt-sozialrecht",
+    "pflegerecht-sgb-xi",
+    "rentenpruefer",
+    "sozialrecht-fuer-laien",
+    "steuerrecht-anwalt-und-berater",
+    "grundsteuerrecht"
+  ],
+  "result": "Vier Entscheidungen aus 2026 gezielt eingearbeitet. 23 bestehende Markdown-Dateien in fünf Plugins geändert; Grundsteuerrecht unverändert. Keine generische Neuerstellung von Einstiegen, keine zentralen Profile oder Hashes geändert.",
+  "decisions": [
+    {
+      "court": "BSG",
+      "identifier": "B 3 P 2/25 R",
+      "date": "2026-10-01",
+      "type": "Amtlicher Terminbericht 30/26 zur Revisionsentscheidung; kein geprüfter Urteilsvolltext",
+      "sourceURLs": [
+        "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_02_25_R.html",
+        "https://www.gesetze-im-internet.de/sgb_11/__45b.html",
+        "https://www.gesetze-im-internet.de/sgb_11/__82.html"
+      ],
+      "keyholding": "Die Wahl einer Bezugspflegekraft erlaubt keine Pflegevergütung oberhalb der vereinbarten Preise nach Paragraf 89 SGB XI. Investitionskosten können dem Entlastungsbetrag zugeordnet werden, wenn sie unmittelbar mit der Leistung verbunden, wirksam vereinbart und nach Paragraf 82 Absatz 3 oder 4 gesondert berechnet sind. Im Fall fehlte der Nachweis gesonderter Berechnung; die Revision blieb erfolglos.",
+      "workflowEffect": "Vertrag, Abtretung, Preisvereinbarung, getrennte Rechnungspositionen und Restbudget abgleichen. Fehlende gesonderte Berechnung nachfordern; weder alle Investitionskosten ausschließen noch jeden Bezugspflegeaufschlag erstatten. Landeszustimmung beziehungsweise Mitteilung und öffentliche Förderung nach Paragraf 82 gesondert beachten.",
+      "limits": "Nur amtlicher Entscheidungsbericht vollständig gelesen, keine erfundenen Randnummern. Die Jahresübersicht verlinkte noch keine Urteilsgründe zu diesem Verfahren; daraus wird keine weltweite Nichtverfügbarkeit abgeleitet. Vor tragender Schriftsatzverwendung Gründe nachrecherchieren. Streitzeitraum 2017 mit 125 Euro nicht auf aktuellen Entlastungsbetrag von 131 Euro übertragen.",
+      "verificationstatus": "16.10.2026: Web-Werkzeug lieferte 403; amtliche HTML-Seite anschließend unmittelbar mit curl erfolgreich abgerufen und Bericht vollständig gelesen. Normen 45b und 82 mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p2-sozial-steuer.html.",
+      "whichfiles": [
+        "pflegerecht-sgb-xi/README.md",
+        "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
+        "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+        "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md",
+        "pflegerecht-sgb-xi/skills/haeusliche-pflegeleistungen-planen/SKILL.md",
+        "pflegerecht-sgb-xi/skills/pflegeeinrichtungen-verguetung-qualitaet-pruefen/SKILL.md",
+        "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+        "pflegerecht-sgb-xi/skills/pflegebescheid-rechtsbehelf-erstellen/SKILL.md"
+      ]
+    },
+    {
+      "court": "BSG",
+      "identifier": "B 3 P 3/25 R",
+      "date": "2026-10-01",
+      "type": "Amtlicher Terminbericht 30/26 zur Revisionsentscheidung; kein geprüfter Urteilsvolltext",
+      "sourceURLs": [
+        "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "https://www.gesetze-im-internet.de/sgb_11/__43c.html",
+        "https://www.gesetze-im-internet.de/sgb_11/__91.html"
+      ],
+      "keyholding": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+      "workflowEffect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht.",
+      "limits": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+      "verificationstatus": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+      "whichfiles": [
+        "pflegerecht-sgb-xi/README.md",
+        "pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md",
+        "pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md",
+        "pflegerecht-sgb-xi/references/rechtsstand-und-quellen.md",
+        "pflegerecht-sgb-xi/skills/pflegeheimkosten-zuschlag-pruefen/SKILL.md",
+        "pflegerecht-sgb-xi/skills/pflegefall-bearbeiten/SKILL.md",
+        "pflegerecht-sgb-xi/skills/pflegebescheid-rechtsbehelf-erstellen/SKILL.md",
+        "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+        "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md",
+        "sozialrecht-fuer-laien/references/quellen-und-hilfe.md"
+      ]
+    },
+    {
+      "court": "BSG",
+      "identifier": "B 6a/12 KR 14/24 R",
+      "date": "2026-01-22",
+      "type": "Urteil; amtlicher Volltext und PDF geprüft",
+      "sourceURLs": [
+        "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_01_22_B_06a_12_KR_14_24_R.html",
+        "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2026/2026_01_22_B_06a_12_KR_14_24_R.pdf?__blob=publicationFile&v=2",
+        "https://www.gesetze-im-internet.de/sgb_5/__10.html"
+      ],
+      "keyholding": "Rn. 13 bis 27: Die Teilrentenwahl nach Paragraf 42 SGB VI ist kein Verzicht nach Paragraf 46 SGB I. Eine von Anfang an nur viermonatige Rentenabsenkung führte im Altfall 2021 nicht zur Familienversicherung; das regelmäßige Einkommen ist grundsätzlich über zwölf Monate vorausschauend anhand des damaligen Erkenntnisstands zu beurteilen. Ohne Familienversicherung keine darauf gestützte obligatorische Anschlussversicherung.",
+      "workflowEffect": "Rentenwahl und Krankenversicherungsstatus trennen. Für neue Sachverhalte seit 2026 alle drei kumulativen Merkmale des Paragrafen 10 Absatz 1 Satz 8 SGB V prüfen: Altersrente als Teilrente, bei Vollrente zu hohes Gesamteinkommen und zuletzt keine gesetzliche Krankenversicherung. Rentenbescheide, Wechselplanung, weitere Einkünfte und Vorversicherung belegen; Statusklärung vor Kündigung bestehenden Schutzes oder positiver Nettoempfehlung.",
+      "limits": "Das Urteil entscheidet einen Altfall aus 2021; die seit 2026 geltende Norm darf nicht rückwirkend angewandt werden. Kein generelles Teilrentenverbot. Der neue gesetzliche Ausschluss setzt sämtliche Merkmale voraus; eine längere Teilrentendauer allein umgeht ihn nicht.",
+      "verificationstatus": "16.10.2026: Amtlicher HTML-Volltext nach Web-403 unmittelbar abgerufen; amtliches PDF heruntergeladen und in Text umgewandelt. Randnummern 13 bis 27 am PDF gelesen und abgeglichen. Aktueller Paragraf 10 SGB V mit Web-Werkzeug gelesen. Lokale Belege /tmp/bsg-teilrente-sozial-steuer.html, .pdf und .txt.",
+      "whichfiles": [
+        "rentenpruefer/rentenpruefer-schnellstart.md",
+        "rentenpruefer/rentenpruefer-werkstatt.md",
+        "rentenpruefer/skills/hinzuverdienst-teilrente-weiterarbeit/SKILL.md",
+        "rentenpruefer/skills/steuer-krankenversicherung-pflegeversicherung-rente/SKILL.md",
+        "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+        "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+        "fachanwalt-sozialrecht/skills/laienhilfe-krankenversicherungsschutz/SKILL.md"
+      ]
+    },
+    {
+      "court": "BFH",
+      "identifier": "X B 121/25",
+      "date": "2026-09-18",
+      "publicationDate": "2026-10-08",
+      "type": "Beschluss über Nichtzulassungsbeschwerde, NV; amtlicher Volltext und PDF geprüft",
+      "sourceURLs": [
+        "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/",
+        "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/pdf/STRE202650166?type=1646225765",
+        "https://www.gesetze-im-internet.de/ao_1977/__109.html"
+      ],
+      "keyholding": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos.",
+      "workflowEffect": "Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden.",
+      "limits": "Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
+      "verificationstatus": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt.",
+      "whichfiles": [
+        "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+        "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+        "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
+        "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md"
+      ]
+    }
+  ],
+  "tests": {
+    "command": "/tmp/sozial-steuer-qa-venv/bin/python -B /tmp/check-sozial-steuer.py",
+    "status": "passed",
+    "checks": [
+      "23 geänderte Markdown-Dateien innerhalb der zugewiesenen Plugins; keine Testaktenpfade.",
+      "YAML-Frontmatter aller 10 geänderten Skills geparst, unverändert gegenüber HEAD und nur name/description; Beschreibungslängen und 500-Zeilen-Grenze eingehalten.",
+      "34 lokale Markdown-Verweise der geänderten Dateien mit Markdown-Parser auf Zielpfade geprüft.",
+      "Alle 12 Werkstatt-/Schnellstart-Prompts der sechs Plugins gegen Repo-Längengrenzen geprüft.",
+      "Bestehender Hygieneprüfer auf genau diese 12 Prompts begrenzt ausgeführt: erfolgreich.",
+      "Fünf bestehende Einstiegsregressionen auf diese Prompts begrenzt: erfolgreich; vollständiger repo-weiter Inventartest nicht ausgeführt.",
+      "Bestehende Laufzeitmetriken und Routenprüfungen für die sechs Plugins: erfolgreich.",
+      "Gezielte Inhaltsassertionen zu Quellenstatus, altem Leistungszeitraum, drei Ausschlussmerkmalen, Anschlussversicherung und Fristdarlegung: erfolgreich.",
+      "Neu hinzugefügte Überschriften dezimal; Plugin-Manifeste unverändert; git diff --check im Scope erfolgreich."
+    ],
+    "miniBytes": {
+      "fachanwalt-sozialrecht": 7385,
+      "pflegerecht-sgb-xi": 7471,
+      "rentenpruefer": 7480,
+      "sozialrecht-fuer-laien": 7494,
+      "steuerrecht-anwalt-und-berater": 7226,
+      "grundsteuerrecht": 7479
+    },
+    "limits": "Statische und redaktionelle Gegenprüfung; keine Live-Modelltests, keine rechtliche Vollverifikation aller vorhandenen Aussagen, keine Releasepaketprüfung. Zentral gebundene Profile/Hashes sind nach den Änderungen bewusst nicht aktualisiert und müssen vom Parent präzise fortgeschrieben werden."
+  },
+  "findings": [
+    "Die bislang als offen beschriebenen Pflegeverfahren haben inzwischen konkrete amtliche Ergebnisberichte. Alte offene Varianten wurden durch differenzierte Arbeitszweige mit ausdrücklich begrenztem Quellenstatus ersetzt.",
+    "Teilrentenoptimierung darf die eigenständige Krankenversicherungsprüfung einschließlich der seit 2026 geltenden Ausschlussnorm nicht überspringen.",
+    "Bei steuerlichen Fristverlängerungen genügt pauschale Arbeitsüberlastung nicht; die erforderlichen Belege und deren Bezug zum Fristende sind nun konkret benannt.",
+    "Keine erneute generische Bearbeitung der bereits geprüften Einstiege. Die Kürzungen in Mini-Prompts betreffen doppelte Rechtsprechungserläuterungen beziehungsweise den ersetzten Verfahrensstatus, nicht die fachlichen Grenzen."
+  ],
+  "unchangedareas": [
+    "Grundsteuerrecht: Profil bereits mit BFH II R 26/24 vom 22.04.2026 und konkretem Gutachtenzweig ausgestattet. Aktuelle amtliche Grundsteuerübersicht als Rechercheeinstieg gesichtet; keine zusätzliche neue Sachentscheidung mit geeignetem Mehrwert in diese Vierer-Auswahl aufgenommen. Bestehenden Grundsteueranker nicht erneut als frisch gelesenen Volltext oder durch pauschalen Datumswechsel ausgewiesen.",
+    "Sozialrecht-fuer-laien-Schnellstart unverändert: breit angelegter Kurzprompt liegt bei 7494 von 7500 Bytes. Neue Heimkostenabgrenzung gezielt in Werkstatt, zuständigem Skill und Quellenreferenz aufgenommen; bestehende Pflegegradroute nicht verdrängt.",
+    "Bestehende Erwerbsminderungs-, Kontenklärungs-, Schätzungs-, Pflegegrad-, Leistungsbetrags- und sonstige Quellenstände außerhalb der bezeichneten Änderungen nicht neu verifiziert.",
+    "Zentrale quality-Dateien, Profile, globale Referenzen, Skripte, Testakten, Versionen und Release-Dateien unverändert durch diesen Arbeitsgang. Keine fremden Änderungen zurückgesetzt.",
+    "Keine Commits, kein Push, keine Veröffentlichung und keine externen Mandatshandlungen."
+  ],
+  "parentAction": "Die Vereinigungsmenge der whichfiles enthält genau 23 Pfade. Nur diese betroffenen Prüfprofile mit neuen präzisen Hashes und getrenntem Quellenstatus aktualisieren; dabei die zwei Terminberichte nicht zu Volltextnachweisen aufwerten. Fachfremde bestehende Tabellenangaben im Steuer-Fristenskill wurden nicht insgesamt neu geprüft."
+}

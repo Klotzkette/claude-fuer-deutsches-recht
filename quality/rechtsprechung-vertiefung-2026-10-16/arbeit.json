@@ -1,0 +1,275 @@
+{
+  "date": "2026-10-16",
+  "status": "Vertiefung und angeforderte Altfehlerkorrektur der drei Skills abgeschlossen. Schreibruhe; zentrale QA und finale Profil-Hashes beim Parent.",
+  "scope": [
+    "arbeitsrecht",
+    "fachanwalt-arbeitsrecht",
+    "arbeitszeugnispruefer",
+    "arbeitszeugnisgenerator",
+    "antidiskriminierung-agg"
+  ],
+  "instructionsRead": [
+    "AGENTS.md",
+    "CLAUDE.md",
+    "quality/qualitaetsrunde-2026-10-16/README.md",
+    "Bestehende Qualitaetsprofile der fuenf zugewiesenen Plugins und einschlaegige Prompts/Skills"
+  ],
+  "decisions": [
+    {
+      "court": "BAG",
+      "case": "2 AZR 184/25",
+      "date": "2026-05-07",
+      "type": "Urteil",
+      "sourceURLs": [
+        "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/"
+      ],
+      "keyholding": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen.",
+      "limits": "bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+      "paragraphs": "Rn. 16-20, 21-32, 33-37",
+      "workflow": "Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.",
+      "whichfiles": [
+        "arbeitsrecht/arbeitsrecht-werkstatt.md",
+        "arbeitsrecht/arbeitsrecht-schnellstart.md",
+        "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md",
+        "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+        "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+        "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/SKILL.md",
+        "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md",
+        "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md"
+      ],
+      "verificationstatus": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz.",
+      "unchangedareas": [
+        "Bestehender Anker 2 AZR 68/24 bleibt erhalten",
+        "Sonstige Kuendigungs-, Verguetungs- und Zeugnisfragen"
+      ]
+    },
+    {
+      "court": "BAG",
+      "case": "7 AZR 297/24",
+      "date": "2026-03-04",
+      "type": "Urteil",
+      "sourceURLs": [
+        "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/"
+      ],
+      "keyholding": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund.",
+      "limits": "Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+      "paragraphs": "Rn. 18-31, 38-49",
+      "workflow": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
+      "whichfiles": [
+        "arbeitsrecht/arbeitsrecht-werkstatt.md",
+        "arbeitsrecht/arbeitsrecht-schnellstart.md",
+        "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
+        "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md",
+        "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
+        "fachanwalt-arbeitsrecht/skills/befristung-tzbfg/SKILL.md",
+        "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md"
+      ],
+      "verificationstatus": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
+      "unchangedareas": [
+        "Vorhandene Regelaltersgrenzen-Aenderungen des Parent erhalten",
+        "Sonstige Befristungsgruende und alte Quellenstaende nicht pauschal aktualisiert"
+      ]
+    },
+    {
+      "court": "EuGH, Grosse Kammer",
+      "case": "C-258/24",
+      "ecli": "ECLI:EU:C:2026:211",
+      "date": "2026-03-17",
+      "type": "Urteil",
+      "sourceURLs": [
+        "https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text="
+      ],
+      "keyholding": "Die Anforderung, nicht aus der Kirche auszutreten, braucht einen objektiven Aufgabenbezug sowie wesentliche, rechtmaessige, gerechtfertigte und verhaeltnismaessige Gruende. Gleiche Aufgaben nichtkatholischer Beschaeftigter und fehlende weitere Loyalitaetsverstoesse sprechen gegen eine Rechtfertigung allein durch Austritt. Die vorgeschriebene staatliche Austrittserklaerung ist nicht schon oeffentliche Kirchenfeindlichkeit.",
+      "limits": "Nationale Tatsachenwuerdigung bleibt erforderlich. Kein allgemeines Verbot kirchlicher Anforderungen, keine Gleichsetzung besonderer verkuendigungsnaher Aufgaben und keine automatische Geldentschaedigung.",
+      "paragraphs": "Rn. 51-58, 64-86",
+      "workflow": "Taetigkeiten, kirchliche Regelungsfassung, nichtkatholische Vergleichspersonen, behauptete weitere Verstoesse, erhebliche Ethosgefaehrdung und mildere Mittel belegen. Kuendigungsangriff und Rechtfertigung nach Rueckantwort anpassen; Kuendigungsklagefrist gesondert sichern.",
+      "whichfiles": [
+        "antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md",
+        "antidiskriminierung-agg/antidiskriminierung-agg-schnellstart.md",
+        "antidiskriminierung-agg/references/rechtsprechung.md",
+        "antidiskriminierung-agg/skills/ungleichbehandlung-und-rechtfertigung-pruefen/SKILL.md"
+      ],
+      "verificationstatus": "Amtlicher englischer Urteilstext gelesen. Deutsche Volltextabrufe und gekuerzte Curia-URL technisch nicht auswertbar. Quellenart und Sprachgrenze in Werkstatt/Referenz offengelegt; weder Schlussantraege vom 10.07.2025 noch Pressemitteilung als Urteil ausgegeben.",
+      "unchangedareas": [
+        "Sechs bisherige AGG-Anker behalten ihren bisherigen Quellenstand",
+        "Bestehende Entgelt- und Kopftuchrechtsprechung nicht als neu ausgegeben"
+      ]
+    }
+  ],
+  "normChecks": [
+    {
+      "sourceURL": "https://www.gesetze-im-internet.de/zpo/__278.html",
+      "verificationstatus": "Amtliche Fassung gelesen, Absatz 6 abgeglichen"
+    },
+    {
+      "sourceURL": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+      "verificationstatus": "Amtliches HTML nach Web-Fehler rein lesend per curl abgerufen"
+    },
+    {
+      "sourceURL": "https://www.gesetze-im-internet.de/agg/__9.html",
+      "verificationstatus": "Amtliche Fassung gelesen"
+    },
+    {
+      "sourceURL": "https://www.gesetze-im-internet.de/sgb_9_2018/__167.html",
+      "verificationstatus": "Aktuelle amtliche Fassung gelesen; im beauftragten Nachlauf das historische Normzitat beider BEM-Skills durch aktuelle, zeitlich abgegrenzte Darstellung ersetzt"
+    }
+  ],
+  "verificationstatus": {
+    "changedRepositoryFiles": 15,
+    "gitDiffCheck": "PASS fuer alle fuenf zugewiesenen Verzeichnisse",
+    "existingTests": {
+      "script": "scripts/test-antidiskriminierung-agg.py",
+      "result": "6 ausgewaehlte Tests PASS im abschliessenden Lauf",
+      "tests": [
+        "test_ten_direct_skills_and_navigation",
+        "test_standalone_and_legal_guards",
+        "test_fifteen_separate_native_documents",
+        "test_mail_headers_references_and_dates",
+        "test_csv_and_document_continuity",
+        "test_relative_references_exist"
+      ],
+      "notRun": "test_evaluation_coverage: zentrale Profile und Hashes bleiben bewusst dem Parent vorbehalten",
+      "intermediateFailure": "Mini zunaechst 7501 Byte; gezielt gekuerzt und erfolgreich erneut geprueft"
+    },
+    "localAssertions": "PASS: lokale Markdown-Ziele, dezimale Prompt-Ueberschriften und Leerzeilen, Mini-Bytegrenzen, Skill-Frontmatter-Vorhandensein, neue Quellenanker, Entfernung der bEM-Erfolgsquote und zwingenden schriftlichen Verzichtsbehauptung, keine Zeugnisdatei geaendert",
+    "miniBytes": {
+      "arbeitsrecht": 7474,
+      "fachanwalt-arbeitsrecht": 7492,
+      "antidiskriminierung-agg": 7481
+    },
+    "limits": "Statische Paket-/Inhaltschecks, keine Live-Modellauswertung und keine Vollvalidierung aller Alt-Skills. Keine globale QA ausgefuehrt. Zentralprofile und Hashes nicht geschrieben. Keine Commits, Pushes oder Releases. Fremde Aenderungen nicht zurueckgesetzt."
+  },
+  "unchangedareas": [
+    "arbeitszeugnispruefer und arbeitszeugnisgenerator vollstaendig unveraendert; vorhandene aktuelle Zeugnisanker nicht doppelt ueberarbeitet",
+    "Equal-Pay-, Teilzeit- und Massenentlassungsanker bereits vorhanden; keine generische Wiederholung",
+    "Elternzeitentscheidung 2 AZR 213/25 nur als amtliche Pressemitteilung recherchiert, nicht in diese Vertiefung aufgenommen",
+    "Zentrale quality-Dateien, Profile, globale Konfiguration, README-Dateien, Pfade und Releases unangetastet",
+    "Kein Generator und keine pauschalen Datumsanhebungen; notwendige Verdichtung der Mini-Prompts zur Einhaltung von 7500 Byte"
+  ],
+  "followupCorrection": {
+    "date": "2026-10-16",
+    "authorization": "Ausdruecklicher Folgeauftrag: genau drei bereits beruehrte Skills vollstaendig im bestehenden Themenrahmen fachlich pruefen, Altfehler korrigieren und dezimal gliedern. Anschliessend Schreibruhe.",
+    "whichfiles": [
+      "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md"
+    ],
+    "resolvedFindings": [
+      "Sachgrund-Benennung von Form der Befristungsabrede getrennt: grundsaetzlich kein allgemeines Benennungsgebot, besondere gesetzliche/tarifliche/vertragliche Grenzen und Zweckbestimmung gesondert pruefen.",
+      "Paragraf 17 Satz 2 TzBfG mit Paragrafen 5 bis 7 KSchG: nachtraegliche Zulassung, Zweiwochenfrist ab Hindernisbehebung und Sechsmonatsgrenze, Glaubhaftmachung und Verbindung mit Klage aufgenommen. Fortsetzung nach Vertragsende gesondert erfasst.",
+      "Starren Nr.-1-Nachbesetzungsbaum durch belegte Prognose bei Vertragsschluss und Indizwuerdigung ersetzt; keine starre Identitaet zwischen Vertrags- und Bedarfsdauer.",
+      "Nr. 2 verlangt keine Ausbildung beim selben Arbeitgeber; erster Anschlussvertrag und Zwischenbeschaeftigung sind entscheidend. Kein Neustart durch Arbeitgeberwechsel.",
+      "Sachgrundkatalog als nicht abschliessend, differenzierte Darlegungslast, vollstaendige Voraussetzungen der Haushaltsbefristung und keine automatischen personenbezogenen Sachgruende klargestellt.",
+      "Unbelegte Abfindungsbandbreite und behauptete allgemeine Vergleichsbereitschaft entfernt; Prozessrisiko und Mandatsziel statt Erfolgs- oder Abfindungstarif.",
+      "Feststellung nach Paragraf 152 SGB IX, Gleichstellung nach Paragraf 151 Absatz 2 und Integrationsamtszustimmung nach Paragraf 168 getrennt; falschen aktuellen Paragraf-69-Verweis entfernt.",
+      "Ausnahmen nach Paragraf 173, Soll-Entscheidungsfrist und Kuendigungserklaerungsfrist nach Paragraf 171 sowie eigenstaendige Zweiwochenregeln nach Paragraf 174 unterschieden. Keine generelle Zustimmungsfiktion nach einem Monat.",
+      "BEM gilt nicht nur bei Schwerbehinderung; aktuelle Normfassung, Freiwilligkeit, Datenhinweise und Vertrauensperson beruecksichtigt. Datenschutzunterschrift nicht mit Teilnahmebereitschaft gleichgesetzt.",
+      "Veralteten Paragraf 28 SGB IX durch Paragraf 44 ersetzt; keine uneingeschraenkte Ablehnungsbefugnis bei Wiedereingliederung und keine automatischen Geldleistungszusagen.",
+      "Paragraf 42 Absatz 2 GKG als Hoechstwert des Vierteljahresentgelts statt starrer Dreimonatswert; Abfindung nicht hinzurechnen.",
+      "Alle drei Skills haben sechs dezimal nummerierte Hauptabschnitte und dezimale Unterabschnitte mit Leerzeilen, ausformulierte Ausgabevorgaben und Gegenfaelle. Redundante ungesicherte Altanker und Skelettvorlage entfernt; neue 2026-Anker erhalten."
+    ],
+    "sourceURLs": [
+      "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+      "https://www.gesetze-im-internet.de/tzbfg/__16.html",
+      "https://www.gesetze-im-internet.de/tzbfg/__17.html",
+      "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "https://www.gesetze-im-internet.de/kschg/__5.html",
+      "https://www.gesetze-im-internet.de/bgb/__126.html",
+      "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__167.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__168.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__171.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__173.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__174.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__152.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__151.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__164.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__44.html",
+      "https://www.gesetze-im-internet.de/sgb_5/__74.html",
+      "https://www.gesetze-im-internet.de/sgb_9_2018/__178.html",
+      "https://www.gesetze-im-internet.de/betrvg/__102.html",
+      "https://www.gesetze-im-internet.de/gkg_2004/__42.html"
+    ],
+    "correctiveJudgmentChecks": [
+      {
+        "date": "2013-02-13",
+        "type": "Urteil",
+        "case": "7 AZR 225/11",
+        "sourceURLs": [
+          "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-225-11/"
+        ],
+        "keyholding": "Rn. 15: Sachgrund grundsaetzlich nicht vereinbarungs- oder schriftformbeduerftig; Rn. 16-17: konkrete Haushaltszwecksetzung und entsprechende Beschaeftigung.",
+        "limits": "Keine Beseitigung besonderer Benennungsgebote oder der Form der Befristungsabrede.",
+        "verificationstatus": "Amtliche Metadaten und tragende Passagen gelesen"
+      },
+      {
+        "date": "2014-09-24",
+        "type": "Urteil",
+        "case": "7 AZR 987/12",
+        "sourceURLs": [
+          "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-987-12/"
+        ],
+        "keyholding": "Rn. 15, 18-22: Prognose bei Abschluss, Indizwirkung spaeterer Entwicklung, keine stets erforderliche identische Projekt- und Vertragsdauer.",
+        "limits": "Keine automatische Rechtfertigung durch Projektetikett oder blosse Finanzierungsunsicherheit.",
+        "verificationstatus": "Amtliche Metadaten und tragende Passagen gelesen"
+      },
+      {
+        "date": "2019-01-23",
+        "type": "Urteil",
+        "case": "7 AZR 212/17",
+        "sourceURLs": [
+          "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-212-17/"
+        ],
+        "keyholding": "Rn. 11-17: belastbare Prognose, Zusatzaufgaben und Daueraufgaben unterscheiden.",
+        "limits": "Zurueckverweisung zur Tatsachenaufklaerung, keine generelle Projektfreigabe.",
+        "verificationstatus": "Amtliche Metadaten und tragende Passagen gelesen"
+      },
+      {
+        "date": "2011-08-24",
+        "type": "Urteil",
+        "case": "7 AZR 368/10",
+        "sourceURLs": [
+          "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-368-10/"
+        ],
+        "keyholding": "Rn. 15-18: erster Arbeitsvertrag nach Ausbildungs-/Studienabschluss; Zwischenbeschaeftigung schliesst Anschlussgrund aus.",
+        "limits": "Andere Sachgruende eigenstaendig pruefen; keine Pflicht zur Ausbildung beim selben Arbeitgeber.",
+        "verificationstatus": "Amtliche Metadaten und tragende Passagen gelesen"
+      },
+      {
+        "date": "2022-12-15",
+        "type": "Urteil",
+        "case": "2 AZR 162/22",
+        "sourceURLs": [
+          "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-162-22/"
+        ],
+        "keyholding": "Rn. 14-18, 27-29: Bedeutung konkreter BEM-Fehler, Datenschutzunterschrift keine pauschale Eintrittshuerde, Integrationsamtszustimmung begruendet keine Nutzlosigkeitsvermutung.",
+        "limits": "Keine Erlaubnis zur unbefugten Gesundheitsdatenverarbeitung und keine automatische Kuendigungsunwirksamkeit.",
+        "verificationstatus": "Amtliche Metadaten und tragende Passagen gelesen"
+      }
+    ],
+    "verificationstatus": {
+      "fullSkillReview": "Alle drei Ausgangstexte vollstaendig gelesen und im bestehenden Themenrahmen fachlich durchgeprueft. Benannte Altfehler korrigiert; keine neuen Fachgebiete oder weiteren Dateien einbezogen.",
+      "normRetrieval": "Web-Tool primaer. Nach technischen Abruffehlern amtliches HTML fuer Paragrafen 14 und 17 TzBfG, 168/173/164/151 SGB IX, 74 SGB V, 42 GKG und 4 KSchG rein lesend per curl abgerufen.",
+      "yaml": "PASS: vorhandenen Validator scripts/validate-yaml-frontmatter.py mit check_one nur auf drei Skills angewandt; 0 Fehler, 0 Warnungen.",
+      "localAssertions": "PASS: sechs Hauptabschnitte, dezimale Untergliederung und Leerzeilen, lokale Verweise, Ausgabe-/Formatpflicht, Entfernung der genannten Fehlbehauptungen, Normen/Entscheidungsanker und Pruefzweige, identischer Fachinhalt der beiden BEM-Varianten.",
+      "gitDiffCheck": "PASS fuer die drei Skills",
+      "limits": "Statische und redaktionelle Fachpruefung, keine Live-Modelltests, keine Entscheidung ueber einen konkreten Mandatsfall und keine globale QA. Die fruehere generelle Altbestandseinschraenkung ist fuer die benannten korrigierten Befunde durch diesen Nachlauf ueberholt."
+    },
+    "snapshotHashes": {
+      "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md": "d00be7d593abda08e5b11586c303f403127fb0b50bc33a513d6dfb88ea970c20",
+      "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md": "9a1acf469a0d7a79477cd409fe7095ed1a103e55d8e37b7c099578d83c5c8bb9",
+      "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md": "202416ba0b08816fed51259c63ecd7aa921f01115ee32fa2f7a6d43e5165f5a3"
+    },
+    "unchangedareas": [
+      "Alle anderen Repository-Dateien in diesem Nachlauf unangetastet",
+      "Werkstatt-/Mini-Prompts nicht erneut bearbeitet",
+      "Zentrale Profile, Hashdateien, Releases und Git-Historie nicht geschrieben"
+    ],
+    "writeStatus": "Abgeschlossen. Nach Berichtsvalidierung keine weiteren Schreibzugriffe."
+  },
+  "remainingObservationsForParent": [
+    {
+      "finding": "Die zuvor konkret benannten Altfehler sind im autorisierten Nachlauf behoben. Parent kann die finalen Inhalts-Hashes und zentrale QA auf dem aktuellen Stand durchfuehren."
+    }
+  ]
+}

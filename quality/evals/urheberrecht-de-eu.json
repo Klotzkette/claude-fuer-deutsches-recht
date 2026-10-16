@@ -37,34 +37,42 @@
       "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050de.pdf",
       "checked_on": "2026-10-01",
       "supports": "Gerichtliche Pressemitteilung 50/26 S. 1–2 vollständig; Volltextzugriff gescheitert, keine Randnummernprüfung. Erkennbarer künstlerischer Dialog und wahrnehmbare Unterschiede; Pastiche für Kenner des Ausgangswerks erkennbar, gesonderter Nachweis subjektiver Absicht nicht nötig. Grenze: Pressemitteilung ist kein Urteilsvolltext; keine pauschale Remix-, Stil- oder Plagiatfreigabe. Nationale Entscheidung über konkretes Sampling bleibt gesondert."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 58 bis 78: Nationale Beteiligungserfordernisse sind grundsätzlich möglich, dürfen Verletzungsklagen eines oder mehrerer Miturheber aber nicht unnötig kompliziert/kostspielig, unmöglich oder übermäßig schwierig machen. Rn. 77: Bei nicht möglicher unionsrechtskonformer Auslegung Rechtsschutz aus Artikel 47 GRCh erforderlichenfalls durch Nichtanwendung der entgegenstehenden Regel gewährleisten. Paragraf 8 Absatz 2 UrhG: Jeder Miturheber kann Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen. Grenze: Französischer Filmfall mit unbekannten Rechtsnachfolgern; keine pauschale Aufhebung deutscher Beteiligungsregeln. Kein Nachweis der Rechtsinhaberschaft ersetzt und keine Aussage über Begründetheit aller Ansprüche. Einzelklagebefugnis ist keine alleinige Lizenzierungsbefugnis. Begrenzte amtliche 2026-Recherche ergab für diese Prozessfrage keinen geeigneteren neuen Anker; kein Anspruch auf erschöpfende Rechtsprechungsrecherche.",
+      "verification_status": "status: Amtliche deutsche Urteilsfassung und Paragraf 8 UrhG gelesen; read_scope: Rn. 25 bis 79 und Tenor; aktuelle deutsche Fassung mit Hinweis auf Berichtigungen Rn. 10 und 36; method: Webtool-Recherche, CURIA-Direktabruf nach technisch nicht auswertbarem Webabruf; UrhG 8 im Webtool; verified_on: 2026-10-16; date_distinction: Schlussanträge 10.04.2025 und Amtsblattveröffentlichung 26.05.2026 sind nicht das Urteilsdatum."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktioneller Nachtrag 16.10.2026: Zitatmaßstab vorgezogen und an Paragraf 51 angeknüpft: eigene Auseinandersetzung und benötigter Umfang statt bloßer Quellenangabe. Nur doppelte Dokumentauswahl im Mini gekürzt. USM-Haller- und Pelham-Grenzen unverändert erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Qualitätsfollowup 16.10.2026: C-590/23 nun im amtlichen deutschen Urteilstext einschließlich Tenor und Rn. 1 bis 63 gelesen; Pastiche-Passage auf Rn. 43 bis 57 und 60 bis 62 gestützt. Keine nationale Einzelfallfreigabe, keine erneute Prüfung der übrigen Anker und kein Live-Modelltest. Werkstatt nennt nur den aktuellen Quellenstatus, keine Änderungserzählung.",
+    "reason": "Gezielte Quellenvertiefung: Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
       "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "Pastiche-Beleg von Pressemitteilung auf tatsächlich gelesenen amtlichen Urteilstext umgestellt; Erkennbarkeit und Reichweitengrenze erhalten."
+      "Pastiche-Beleg von Pressemitteilung auf tatsächlich gelesenen amtlichen Urteilstext umgestellt; Erkennbarkeit und Reichweitengrenze erhalten.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 18.12.2025, C-182/24"
     ],
-    "sha256": "d536fdd17eea8f634350c4f20a6bc56986d9cc2401eef7dc71fe8d7f81c039ca",
+    "sha256": "7f86b3dffe026b70e1ec8d5cc3f61f49cc79ed0ed7c2135206dd414751416e88",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten. Redaktioneller Nachtrag 16.10.2026: Zitatmaßstab vorgezogen und an Paragraf 51 angeknüpft: eigene Auseinandersetzung und benötigter Umfang statt bloßer Quellenangabe. Nur doppelte Dokumentauswahl im Mini gekürzt. USM-Haller- und Pelham-Grenzen unverändert erhalten. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Qualitätsfollowup 16.10.2026: C-590/23 nun im amtlichen deutschen Urteilstext einschließlich Tenor und Rn. 1 bis 63 gelesen; Pastiche-Passage auf Rn. 43 bis 57 und 60 bis 62 gestützt. Keine nationale Einzelfallfreigabe, keine erneute Prüfung der übrigen Anker und kein Live-Modelltest. Werkstatt nennt nur den aktuellen Quellenstatus, keine Änderungserzählung.",
+    "reason": "Gezielte Quellenvertiefung: Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
       "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "Pastiche-Beleg von Pressemitteilung auf tatsächlich gelesenen amtlichen Urteilstext umgestellt; Erkennbarkeit und Reichweitengrenze erhalten."
+      "Pastiche-Beleg von Pressemitteilung auf tatsächlich gelesenen amtlichen Urteilstext umgestellt; Erkennbarkeit und Reichweitengrenze erhalten.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 18.12.2025, C-182/24"
     ],
-    "sha256": "290a007b4280912564bafff8c24c27582ef1694f0fe0da73acb1934b96256097",
+    "sha256": "3f4602beef7a8d09e1275a219752a093165640dd15e9cdcc77e0f3380feb57b8",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
@@ -129,7 +137,9 @@
       "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
       "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
       "urheberrecht-de-eu/README.md",
-      "quality/evals/urheberrecht-de-eu.json"
+      "quality/evals/urheberrecht-de-eu.json",
+      "urheberrecht-de-eu/references/miturheber-rechtsschutz.md",
+      "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md"
     ],
     "opening_change": "Original, konkrete Nutzung und eingeräumte Rechte vergleichen; Rezension und dekorative Werbeübernahme unterscheiden.",
     "norms": [
@@ -154,6 +164,16 @@
         "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050de.pdf",
         "application": "Erkennbarer künstlerischer Dialog und wahrnehmbare Unterschiede; Pastiche für Kenner des Ausgangswerks erkennbar, gesonderter Nachweis subjektiver Absicht nicht nötig.",
         "limit": "Pressemitteilung ist kein Urteilsvolltext; keine pauschale Remix-, Stil- oder Plagiatfreigabe. Nationale Entscheidung über konkretes Sampling bleibt gesondert."
+      },
+      {
+        "citation": "EuGH, Urteil vom 18.12.2025, C-182/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE",
+        "application": "Rn. 58 bis 78: Nationale Beteiligungserfordernisse sind grundsätzlich möglich, dürfen Verletzungsklagen eines oder mehrerer Miturheber aber nicht unnötig kompliziert/kostspielig, unmöglich oder übermäßig schwierig machen. Rn. 77: Bei nicht möglicher unionsrechtskonformer Auslegung Rechtsschutz aus Artikel 47 GRCh erforderlichenfalls durch Nichtanwendung der entgegenstehenden Regel gewährleisten. Paragraf 8 Absatz 2 UrhG: Jeder Miturheber kann Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen.",
+        "limit": "Französischer Filmfall mit unbekannten Rechtsnachfolgern; keine pauschale Aufhebung deutscher Beteiligungsregeln. Kein Nachweis der Rechtsinhaberschaft ersetzt und keine Aussage über Begründetheit aller Ansprüche. Einzelklagebefugnis ist keine alleinige Lizenzierungsbefugnis. Begrenzte amtliche 2026-Recherche ergab für diese Prozessfrage keinen geeigneteren neuen Anker; kein Anspruch auf erschöpfende Rechtsprechungsrecherche.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung und Paragraf 8 UrhG gelesen; read_scope: Rn. 25 bis 79 und Tenor; aktuelle deutsche Fassung mit Hinweis auf Berichtigungen Rn. 10 und 36; method: Webtool-Recherche, CURIA-Direktabruf nach technisch nicht auswertbarem Webabruf; UrhG 8 im Webtool; verified_on: 2026-10-16; date_distinction: Schlussanträge 10.04.2025 und Amtsblattveröffentlichung 26.05.2026 sind nicht das Urteilsdatum.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten."
       }
     ],
     "remaining_limits": [
@@ -167,5 +187,42 @@
     "reference": "urheberrecht-de-eu/references/ki-normen-und-fallpruefung.md",
     "focus": "Prüfen Sie Trainingsbezug, Ausgabeinhalt und Veröffentlichung getrennt. Technische Markierung und redaktionelle Verantwortung beantworten nicht automatisch die urheberrechtliche Nutzungsbefugnis.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 18.12.2025, C-182/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE",
+        "application": "Rn. 58 bis 78: Nationale Beteiligungserfordernisse sind grundsätzlich möglich, dürfen Verletzungsklagen eines oder mehrerer Miturheber aber nicht unnötig kompliziert/kostspielig, unmöglich oder übermäßig schwierig machen. Rn. 77: Bei nicht möglicher unionsrechtskonformer Auslegung Rechtsschutz aus Artikel 47 GRCh erforderlichenfalls durch Nichtanwendung der entgegenstehenden Regel gewährleisten. Paragraf 8 Absatz 2 UrhG: Jeder Miturheber kann Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen.",
+        "limit": "Französischer Filmfall mit unbekannten Rechtsnachfolgern; keine pauschale Aufhebung deutscher Beteiligungsregeln. Kein Nachweis der Rechtsinhaberschaft ersetzt und keine Aussage über Begründetheit aller Ansprüche. Einzelklagebefugnis ist keine alleinige Lizenzierungsbefugnis. Begrenzte amtliche 2026-Recherche ergab für diese Prozessfrage keinen geeigneteren neuen Anker; kein Anspruch auf erschöpfende Rechtsprechungsrecherche.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsfassung und Paragraf 8 UrhG gelesen; read_scope: Rn. 25 bis 79 und Tenor; aktuelle deutsche Fassung mit Hinweis auf Berichtigungen Rn. 10 und 36; method: Webtool-Recherche, CURIA-Direktabruf nach technisch nicht auswertbarem Webabruf; UrhG 8 im Webtool; verified_on: 2026-10-16; date_distinction: Schlussanträge 10.04.2025 und Amtsblattveröffentlichung 26.05.2026 sind nicht das Urteilsdatum.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten."
+      }
+    ],
+    "files": [
+      {
+        "path": "urheberrecht-de-eu/references/miturheber-rechtsschutz.md",
+        "sha256": "75aaeaca637c725c710a693bb12631ce99693836de1819f30999dd818d7e3de5"
+      },
+      {
+        "path": "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md",
+        "sha256": "c60064520ed556895397ed6eb20dc99d61d880a730557df135ec776b69f6e77b"
+      },
+      {
+        "path": "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+        "sha256": "7f86b3dffe026b70e1ec8d5cc3f61f49cc79ed0ed7c2135206dd414751416e88"
+      },
+      {
+        "path": "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+        "sha256": "3f4602beef7a8d09e1275a219752a093165640dd15e9cdcc77e0f3380feb57b8"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

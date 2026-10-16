@@ -148,11 +148,17 @@
       "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A62025CO0316",
       "checked_on": "2026-10-01",
       "supports": "Bloßer entgeltlicher Leistungseinkauf keine öffentliche Zusammenarbeit; tatsächliche gemeinsame Beiträge und Ziele verlangen. Grenze: Italienisches Kraftfahrzeugsteuerregister; horizontale Kooperation von vertikaler Inhouse-Vergabe trennen."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen. Grenze: Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+      "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig gelesen; abstrakte Bearbeitungsroute durch anwendungsbezogene Wertungsprüfung ersetzt, BGH-Anker in den Bewertungsablauf eingebunden und Rechtsschutzmechanismen präzisiert. Workflow-Ergänzung einzeln geprüft: Seite mit Zusage war nicht Bestandteil des fristgerechten Angebots -> Tatsachengrundlage, Nachforderungsprüfung und Rüge ändern, nicht einfach höhere Note beanspruchen. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
     "changes": [
       "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
@@ -160,9 +166,10 @@
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
     ],
-    "sha256": "3e0dc628740c52ae05bc45cec1c7c0965dd374e27e2b3736ff78a8bf5efdc39c",
+    "sha256": "1e8dc447b0902688bf9674b72ec0ca3350ae39029b69a071a94fc3c1af848e54",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -236,7 +243,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt mit Eignung, Aufklärung, Wertung, Rechtsschutz, Sondervergaben und Vertragsfolgen gelesen; Nachforderung, dokumentierter Vergleich, aktuelle Rechtsbehelfsfolgen und Vertragsänderungsgrenzen konkretisiert. Workflow-Ergänzung einzeln geprüft: Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
     "changes": [
       "BGH X ZB 3/17 jetzt anhand des vollständigen amtlichen PDFs überprüft; Randnummern 39–48 und Hinweise 50–53 mit Anwendung und offener Komplexitätsgrenze in drei Prompts und Fokus-Skill.",
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
@@ -244,9 +251,10 @@
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
       "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Rüge, Vergabeentscheidung und konkretes Dokument stehen zuerst; zulässiges Notenmodell wird von der begründeten Einzelwertung getrennt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
     ],
-    "sha256": "a70cba5235cd4c32d425bde38b6ab81245223a327177ecf93e38cec5b223b99e",
+    "sha256": "0be27a5217d28f86e24b99497b3b0868833e85ccbf359c348dc59471b6be8040",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {
@@ -261,7 +269,8 @@
       "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
       "fachanwalt-vergaberecht/skills/juristischer-argumentationskern/SKILL.md",
       "fachanwalt-vergaberecht/skills/leistungsbeschreibung-neutralitaet-funktional/SKILL.md",
-      "quality/evals/fachanwalt-vergaberecht.json"
+      "quality/evals/fachanwalt-vergaberecht.json",
+      "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md"
     ],
     "opening_change": "Beanstandete Ausschreibungsanforderung und dokumentierte Zuschlagswertung konkret benannt; Hauptproblem auf Rechen-/Tatsachenfehler gegenüber vertretbarer Bewertung ausgerichtet. Workflow-Ergänzung: Leer: Unterlagenrüge, Wertungsprüfung oder Auftraggeberkorrektur anbieten. Dateien ohne Aufgabe: Kriterienfassungen, Angebot und Wertung still lesen; Rüge-, Nachrechnungs- oder Korrekturziel klären. Klarer Auftrag: bestelltes Dokument unmittelbar bearbeiten; kein automatisches Nachprüfungsverfahren und keine erfundenen Konkurrenzdaten.",
     "norms": [
@@ -289,6 +298,16 @@
         "application": "Technische Anforderungen müssen sachlich verhältnismäßig sein; objektive Rechtfertigung nicht zwingend schon bei Bekanntmachung veröffentlichen. Produkttypbindung ohne Gleichwertigkeitszusatz nur eng bei zwangsläufigem Sachbezug.",
         "limit": "Fehlende Veröffentlichung ist keine materielle Rechtfertigung; keine Befreiung von nationalen Dokumentationspflichten. Nationales Gericht prüft konkrete OP-Räume.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
       }
     ],
     "remaining_limits": [
@@ -355,5 +374,38 @@
     "reference": "fachanwalt-vergaberecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Formulieren Sie überprüfbare Anforderungen an System, Tests, Dokumentation und Änderungen. Verlangen Sie kein beliebiges ISO-Zertifikat als Ersatz für auftragsbezogene gesetzliche Nachweise.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+        "sha256": "1e8dc447b0902688bf9674b72ec0ca3350ae39029b69a071a94fc3c1af848e54"
+      },
+      {
+        "path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+        "sha256": "0be27a5217d28f86e24b99497b3b0868833e85ccbf359c348dc59471b6be8040"
+      },
+      {
+        "path": "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md",
+        "sha256": "41e8aad1bf1fb70eaec30ea398aa0a8f56b1a775e328131e39350c7f95331d80"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

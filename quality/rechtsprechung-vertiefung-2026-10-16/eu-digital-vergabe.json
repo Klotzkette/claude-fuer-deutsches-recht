@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "status": "Gezielte Bearbeitung abgeschlossen; zentrale QA und Profilhash-Aktualisierung durch Parent ausstehend.",
+  "scope": [
+    "datenschutzrecht",
+    "fachanwalt-it-recht",
+    "urheberrecht-de-eu",
+    "sektorenvergabe-workflow",
+    "gvb-reinigungsvergabe",
+    "fachanwalt-vergaberecht"
+  ],
+  "decisions_count": 3,
+  "findings": [
+    "C-199/24: Medienprivileg wird verarbeitungsbezogen und anhand redaktioneller Nachweise geprüft; keine Übernahme des Anbieterprivilegs in die eigene Nutzung einer Datenbank.",
+    "C-812/24: Konzernzugehörigkeit ersetzt weder Eignungs- noch Ausschlussprüfung. Fehlende Tochter-EEE wird von fehlender Eignung und neuer Eignungsleihe getrennt; Sektorenübertragung ausdrücklich begrenzt.",
+    "C-182/24: Wirksamen Rechtsschutz bei fehlenden Miturhebern/Erben sichern; deutsche Einzelklagebefugnis mit Leistung an alle von gemeinsamer Lizenzierung trennen."
+  ],
+  "decisions": [
+    {
+      "case": "C-199/24",
+      "name": "Legal Newsdesk Sweden",
+      "date": "2026-07-09",
+      "type": "EuGH-Urteil",
+      "sourceURLs": [
+        "https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE"
+      ],
+      "additional_sources": [
+        {
+          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260100en.pdf",
+          "type": "Gerichtliche Pressemitteilung",
+          "use": "Nur Rechercheeinstieg; nicht Randnummernnachweis."
+        }
+      ],
+      "keyholding": [
+        "Rn. 31 bis 44: Artikel 85 Absatz 1 DSGVO erlaubt keine zusätzlichen Ausnahmen außerhalb des Rahmens von Absatz 2.",
+        "Rn. 45 bis 51: Rechtsbehelfe aus Artikeln 77 bis 79 und 82 dürfen nicht durch bloße Verleumdungsverfahren ersetzt werden.",
+        "Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest redaktionelle Linie, Tatsachenprüfung und Berufsethik sind für journalistische Zwecke maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus; beliebiger zahlender Nutzerkreis wird durch mögliche Journalistennutzung nicht privilegiert."
+      ],
+      "limits": [
+        "Tatsachenprüfung bleibt dem nationalen Gericht; keine pauschale Entscheidung über sämtliche deutschen Medienausnahmen.",
+        "Kein automatischer Löschungs- oder Schadensersatzanspruch.",
+        "Recherche vor Veröffentlichung einschließlich nicht verwendeten Materials kann erfasst sein.",
+        "Eigene Kundennutzung, etwa Bewerberprüfung, gesondert nach Artikel 10 und eigener Rechtsgrundlage prüfen; Lizenz ersetzt keine datenschutzrechtliche Erlaubnis."
+      ],
+      "workflow_branch": "Redaktionelle Belege und konkrete nationale Ausnahme verlangen; bei Fehlen Betroffenenantrag unter einschlägigen DSGVO-Regeln weiterprüfen. Bei Datenbeschaffung eigene Nutzung, Zweckgrenzen und Löschmitwirkung vertraglich bearbeiten. Nach Antwort nur den betroffenen Entwurf fortschreiben.",
+      "whichfiles": [
+        "datenschutzrecht/datenschutzrecht-schnellstart.md",
+        "datenschutzrecht/datenschutzrecht-werkstatt.md",
+        "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/SKILL.md",
+        "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+        "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+        "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md",
+        "datenschutzrecht/datenschutzrecht-schnellstart.txt",
+        "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+        "datenschutzrecht/references/urteilsdatenbanken-medienprivileg.md"
+      ],
+      "verificationstatus": {
+        "status": "Amtliche deutsche Urteilsfassung gezielt gelesen",
+        "read_scope": "Sachverhalt, Rn. 31 bis 78 und Tenor",
+        "method": "Amtliche Recherche mit Webtool; nach technisch unlesbarem Webabruf öffentlicher CURIA-Direktabruf. Keine Login- oder Zugriffssperre umgangen.",
+        "verified_on": "2026-10-16",
+        "opinion_distinction": "Schlussanträge vom 04.09.2025 sind nicht das Urteil."
+      }
+    },
+    {
+      "case": "C-812/24",
+      "name": "LIPOR und PreZero Portugal",
+      "date": "2026-01-22",
+      "type": "EuGH-Urteil",
+      "ecli": "ECLI:EU:C:2026:38",
+      "sourceURLs": [
+        "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "https://www.gesetze-im-internet.de/sektvo_2016/__47.html",
+        "https://www.gesetze-im-internet.de/sektvo_2016/__51.html",
+        "https://www.gesetze-im-internet.de/vgv_2016/__47.html",
+        "https://www.gesetze-im-internet.de/vgv_2016/__50.html",
+        "https://www.gesetze-im-internet.de/vgv_2016/__56.html"
+      ],
+      "keyholding": [
+        "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar.",
+        "Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen.",
+        "Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen."
+      ],
+      "limits": [
+        "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten.",
+        "Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen.",
+        "Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter.",
+        "Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen.",
+        "Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form."
+      ],
+      "workflow_branch": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
+      "whichfiles": [
+        "sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md",
+        "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md",
+        "sektorenvergabe-workflow/skills/teilnahmeantraege-und-angebote-pruefen/SKILL.md",
+        "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+        "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+        "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+        "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md",
+        "gvb-reinigungsvergabe/references/quellenstand.md"
+      ],
+      "verificationstatus": {
+        "status": "Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen",
+        "read_scope": "Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet",
+        "method": "Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.",
+        "verified_on": "2026-10-16"
+      }
+    },
+    {
+      "case": "C-182/24",
+      "name": "SACD u. a.",
+      "date": "2025-12-18",
+      "type": "EuGH-Urteil",
+      "ecli": "ECLI:EU:C:2025:979",
+      "sourceURLs": [
+        "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307234&doclang=DE",
+        "https://www.gesetze-im-internet.de/urhg/__8.html"
+      ],
+      "keyholding": [
+        "Rn. 58 bis 78: Nationale Beteiligungserfordernisse sind grundsätzlich möglich, dürfen Verletzungsklagen eines oder mehrerer Miturheber aber nicht unnötig kompliziert/kostspielig, unmöglich oder übermäßig schwierig machen.",
+        "Rn. 77: Bei nicht möglicher unionsrechtskonformer Auslegung Rechtsschutz aus Artikel 47 GRCh erforderlichenfalls durch Nichtanwendung der entgegenstehenden Regel gewährleisten.",
+        "Paragraf 8 Absatz 2 UrhG: Jeder Miturheber kann Verletzungsansprüche geltend machen, aber nur Leistung an alle verlangen."
+      ],
+      "limits": [
+        "Französischer Filmfall mit unbekannten Rechtsnachfolgern; keine pauschale Aufhebung deutscher Beteiligungsregeln.",
+        "Kein Nachweis der Rechtsinhaberschaft ersetzt und keine Aussage über Begründetheit aller Ansprüche.",
+        "Einzelklagebefugnis ist keine alleinige Lizenzierungsbefugnis.",
+        "Begrenzte amtliche 2026-Recherche ergab für diese Prozessfrage keinen geeigneteren neuen Anker; kein Anspruch auf erschöpfende Rechtsprechungsrecherche."
+      ],
+      "workflow_branch": "Bei fehlenden Miturhebern/Erben Suchversuche, Dauer und Kosten dokumentieren; nationalen Klageweg, Rechtekette und Leistungsadressat prüfen. Nach Erbnachweis Beteiligtenkarte und Antrag gezielt anpassen; gemeinsame Verwertung getrennt bearbeiten.",
+      "whichfiles": [
+        "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+        "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+        "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md",
+        "urheberrecht-de-eu/references/miturheber-rechtsschutz.md"
+      ],
+      "verificationstatus": {
+        "status": "Amtliche deutsche Urteilsfassung und Paragraf 8 UrhG gelesen",
+        "read_scope": "Rn. 25 bis 79 und Tenor; aktuelle deutsche Fassung mit Hinweis auf Berichtigungen Rn. 10 und 36",
+        "method": "Webtool-Recherche, CURIA-Direktabruf nach technisch nicht auswertbarem Webabruf; UrhG 8 im Webtool",
+        "verified_on": "2026-10-16",
+        "date_distinction": "Schlussanträge 10.04.2025 und Amtsblattveröffentlichung 26.05.2026 sind nicht das Urteilsdatum."
+      }
+    }
+  ],
+  "changed_files": [
+    "datenschutzrecht/datenschutzrecht-schnellstart.md",
+    "datenschutzrecht/datenschutzrecht-werkstatt.md",
+    "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/SKILL.md",
+    "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md",
+    "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md",
+    "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md",
+    "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+    "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+    "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md",
+    "sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md",
+    "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md",
+    "sektorenvergabe-workflow/skills/teilnahmeantraege-und-angebote-pruefen/SKILL.md",
+    "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+    "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+    "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md",
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+    "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+    "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md",
+    "datenschutzrecht/datenschutzrecht-schnellstart.txt",
+    "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt",
+    "datenschutzrecht/references/urteilsdatenbanken-medienprivileg.md",
+    "urheberrecht-de-eu/references/miturheber-rechtsschutz.md",
+    "gvb-reinigungsvergabe/references/quellenstand.md"
+  ],
+  "local_verification": {
+    "tests": [
+      {
+        "name": "Scoped git diff --check",
+        "status": "passed",
+        "command": "git diff --check -- datenschutzrecht fachanwalt-it-recht urheberrecht-de-eu sektorenvergabe-workflow gvb-reinigungsvergabe fachanwalt-vergaberecht"
+      },
+      {
+        "name": "Sektorenvergabe-Regression",
+        "status": "7 von 8 Tests bestanden; 1 erwarteter Fehler wegen unverändertem zentralem Profilhash",
+        "command": "python3 scripts/test-sektorenvergabe-workflow.py",
+        "detail": "test_standalone_prompts_and_editorial_scenarios: quality_lab.LabError: Mini-Prüfung seit individueller Prüfung verändert. Zentrale Profile absichtlich nicht verändert; nachfolgende Assertions dieser Methode wurden nicht erreicht."
+      },
+      {
+        "name": "GVB-Regression",
+        "status": "passed",
+        "command": "python3 scripts/test-gvb-reinigungsvergabe.py",
+        "detail": "48 Originale, 48 Einzel-PDFs, 51 Gesamtseiten; zehn Workflows und zehn Skills; unveränderte Originalassistenten und Verknüpfungen. Erster Versuch mit System-Python scheiterte an fehlendem docx; Wiederholung mit vorhandenem gebündeltem Runtime erfolgreich."
+      },
+      {
+        "name": "Gezielter Metadatencheck",
+        "status": "passed",
+        "detail": "Alle sechs Promptprofile ohne Fehler; alle sechs Minis innerhalb der Limits; beide TXT-Spiegel bytegleich. Sektoren-Mini abschließend ohne Inhaltsverlust von 7503 auf 7489 UTF-8-Byte gekürzt und Länge/Hash erneut geprüft."
+      },
+      {
+        "name": "Zusätzlicher YAML-/Link-/Heading-Sammelcheck",
+        "status": "nicht ausgeführt",
+        "detail": "Vorbereiteter kombinierter Check brach beim Import des YAML-Validators wegen fehlendem PyYAML im gebündelten Runtime ab; keine nachfolgenden Prüfungen als bestanden gewertet. Parent übernimmt zentrale QA."
+      },
+      {
+        "name": "Fachliche Gegenproben",
+        "status": "desk_review",
+        "detail": "Bezahltes redaktionelles Angebot versus allgemeine Urteilsdatenbank; benannte Tochter mit fehlender EEE versus neue Eignungsleihe; Einzelklage mit Leistung an alle versus eigenmächtige Lizenzierung. Keine beobachteten Modell- oder Mandatsläufe."
+      }
+    ],
+    "metadata": {
+      "profile_errors": {
+        "datenschutzrecht": [],
+        "fachanwalt-it-recht": [],
+        "urheberrecht-de-eu": [],
+        "sektorenvergabe-workflow": [],
+        "gvb-reinigungsvergabe": [],
+        "fachanwalt-vergaberecht": []
+      },
+      "mini_sizes": {
+        "datenschutzrecht": {
+          "chars": 7385,
+          "utf8_bytes": 7493,
+          "crlf_chars": 7440,
+          "within_limits": true
+        },
+        "fachanwalt-it-recht": {
+          "chars": 7373,
+          "utf8_bytes": 7476,
+          "crlf_chars": 7430,
+          "within_limits": true
+        },
+        "urheberrecht-de-eu": {
+          "chars": 7363,
+          "utf8_bytes": 7466,
+          "crlf_chars": 7416,
+          "within_limits": true
+        },
+        "sektorenvergabe-workflow": {
+          "chars": 7374,
+          "utf8_bytes": 7489,
+          "crlf_chars": 7419,
+          "within_limits": true
+        },
+        "gvb-reinigungsvergabe": {
+          "chars": 7386,
+          "utf8_bytes": 7497,
+          "crlf_chars": 7433,
+          "within_limits": true
+        },
+        "fachanwalt-vergaberecht": {
+          "chars": 7352,
+          "utf8_bytes": 7485,
+          "crlf_chars": 7399,
+          "within_limits": true
+        }
+      },
+      "sha256": {
+        "datenschutzrecht/datenschutzrecht-schnellstart.md": "53f8857d30d91b2bbd41be248c8e8d5afa3acb924641193e1ffc47b3fe548b30",
+        "datenschutzrecht/datenschutzrecht-werkstatt.md": "9ba03704d029aa36a2c20c72930daf96881378c2630bbb6c2577be3da689fa59",
+        "datenschutzrecht/skills/datenschutz-betroffenenrechte-art-15-22-orchestriert/SKILL.md": "94aefaad75e0e2efad848b9c00aa2396a426eea222e64a0edda737bc1e16fe4b",
+        "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.md": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb",
+        "fachanwalt-it-recht/fachanwalt-it-recht-werkstatt.md": "1b979a5c902f8b49b35b58c4a854c0aaf5ca7a27048ad0c84f88debb92dc1b8e",
+        "fachanwalt-it-recht/skills/it-recht-datenschutz-im-it-vertrag/SKILL.md": "9afe5ed8404712c9ea8c594f50c8ce89c9927115eb8229ea980dcbee4c89aee4",
+        "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md": "7f86b3dffe026b70e1ec8d5cc3f61f49cc79ed0ed7c2135206dd414751416e88",
+        "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md": "3f4602beef7a8d09e1275a219752a093165640dd15e9cdcc77e0f3380feb57b8",
+        "urheberrecht-de-eu/skills/miturheber-band-splits/SKILL.md": "c60064520ed556895397ed6eb20dc99d61d880a730557df135ec776b69f6e77b",
+        "sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md": "0ddf88f20d548d0a5817b68aaaa6ad30f0da73672e1bfc34e102b2e6b62ab1af",
+        "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md": "c32ce02f37ce4f4f3c8ddd9b5034ce23d35718d19f133af022969d9e87dc8a0f",
+        "sektorenvergabe-workflow/skills/teilnahmeantraege-und-angebote-pruefen/SKILL.md": "2724bd2362d216c77dc099b52f9b8364b8274448027db61315e7d66ecd2a259a",
+        "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md": "533699fd375daaaed7196f48859165d70f02b4b303eb7db9adf6e33531ecfb09",
+        "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md": "6a9e1c02951648f82a5da5dc82c83c6c6202cb0f8a3208a30952967d979b1cc9",
+        "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md": "02e89a743845f672ed7eeee33b52508db30dd5a1a04e8249fb129743bc9c8e94",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md": "1e8dc447b0902688bf9674b72ec0ca3350ae39029b69a071a94fc3c1af848e54",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md": "0be27a5217d28f86e24b99497b3b0868833e85ccbf359c348dc59471b6be8040",
+        "fachanwalt-vergaberecht/skills/eignung-referenzen-umsatz-nachunternehmer/SKILL.md": "41e8aad1bf1fb70eaec30ea398aa0a8f56b1a775e328131e39350c7f95331d80",
+        "datenschutzrecht/datenschutzrecht-schnellstart.txt": "53f8857d30d91b2bbd41be248c8e8d5afa3acb924641193e1ffc47b3fe548b30",
+        "fachanwalt-it-recht/fachanwalt-it-recht-schnellstart.txt": "353274893a089af60c219ab73b865f704cdb7d609f13132cf2eb676c610305bb",
+        "datenschutzrecht/references/urteilsdatenbanken-medienprivileg.md": "1f9d9e9a3726f03d806e22c90ad53d74df60a0856e89eb652cd66f5d20d6fad7",
+        "urheberrecht-de-eu/references/miturheber-rechtsschutz.md": "75aaeaca637c725c710a693bb12631ce99693836de1819f30999dd818d7e3de5",
+        "gvb-reinigungsvergabe/references/quellenstand.md": "138188f6c40835e36cffb7a88d0fdde8762d769ef429dbaccb12ee20e4af108a"
+      },
+      "mirrors": {
+        "datenschutzrecht": true,
+        "fachanwalt-it-recht": true
+      }
+    },
+    "pending": [
+      "Zentrale QA einschließlich neuer Profilhashes und abschließender Markdown/YAML-/Linkprüfung durch Parent.",
+      "Keine repo-weiten Tests, keine Releases."
+    ]
+  },
+  "unchangedareas": [
+    "Keine Änderungen an zentralen quality/evals-Profilen, prompt-profiles.json, prompt-limits.json oder globalen Qualitätsdateien.",
+    "Keine generischen Einleitungs-Neufassungen; Kürzungen nur innerhalb enger Mini-Längenbudgets zur Integration konkreter neuer Entscheidungszweige.",
+    "Bestehende dezimale Promptüberschriften und Dateipfade bewahrt; zwei vorhandene Schnellstart-TXT-Spiegel synchronisiert.",
+    "C-590/23 nicht erneut bearbeitet; vorhandene Absätze unverändert.",
+    "Bestehende KI-/AI-Act-/Reformquellen nicht neu verifiziert oder datiert.",
+    "Ältere Rechtsstandsdaten und Rechtsprechungsanker nicht pauschal aktualisiert.",
+    "Keine README-, Manifest-, Versions-, Release- oder zentrale Teständerungen; keine Commits oder Pushes.",
+    "Keine Dateien außerhalb der sechs zugewiesenen Plugins im Repository bearbeitet; Änderungen anderer Agenten nicht zurückgesetzt.",
+    "Keine Vollprüfung weiterer Legacy-Skills: insbesondere alte Lösch-/Aufbewahrungsbausteine und weitere Eignungsprüfungsvarianten bleiben außerhalb dieses Auftrags."
+  ],
+  "parent_handoff": "23 gezielt bearbeitete/neue Dateien. Hashes nur im Bericht, nicht in zentralen Profilen aktualisiert. Parent kann zentrale QA unmittelbar übernehmen."
+}

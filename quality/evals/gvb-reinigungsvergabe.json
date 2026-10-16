@@ -17,6 +17,12 @@
       "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
       "checked_on": "2026-10-10",
       "supports": "Zuschlagssperre und Ende bei Obsiegen nach aktueller Fassung."
+    },
+    {
+      "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+      "checked_on": "2026-10-16",
+      "supports": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen. Grenze: Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+      "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16"
     }
   ],
   "selection": {
@@ -354,23 +360,25 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fünf vorbereitende und fünf verfahrensführende Schritte mit konkreten Reinigungsfragen und abgegrenzten Rechtsankern. Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
+    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
     "changes": [
       "Eigenständiger kompakter Vergabeablauf mit kontrollierter Rückfrage und Fortsetzung.",
       "Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert.",
-      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
     ],
-    "sha256": "87e680e41129d23a6dfbab1077cfd838ac8c903a8d3c0ef9276a7b6bec8ae58c"
+    "sha256": "533699fd375daaaed7196f48859165d70f02b4b303eb7db9adf6e33531ecfb09"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausgearbeitete Stationsreinigung, Kalkulation, Vertrag, Verhandlung und Nachprüfung statt abstrakter Dokumentenanalyse. Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
+    "reason": "Gezielte Quellenvertiefung: Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren.",
     "changes": [
       "Jeder Schritt liefert bestimmte Dokumente; Rücksprünge erhalten Los und Fassung.",
       "Einstiegsredaktion 16.10.2026: Reinigungsunterlagen und konkreter Verfahrensschritt vorangestellt; funktionalen Sektorenbezug mit begrenztem Pegaso-Rechercheanker erläutert.",
-      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung."
+      "Genau ein Dokumenttitel; Haupt- und Unterkapitel darunter mit sinnvoller dezimaler Gliederung.",
+      "Quellenvertiefung 16.10.2026: EuGH, Urteil vom 22.01.2026, C-812/24"
     ],
-    "sha256": "f78cc5e08fbfa4c65485c1f556d81149b96918afd89770231482ea1aff5f5f06"
+    "sha256": "6a9e1c02951648f82a5da5dc82c83c6c6202cb0f8a3208a30952967d979b1cc9"
   },
   "prompt_workflow_review": {
     "date": "2026-10-10",
@@ -389,7 +397,10 @@
     "method": "desk_review",
     "files": [
       "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
-      "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md"
+      "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+      "gvb-reinigungsvergabe/README.md",
+      "gvb-reinigungsvergabe/references/quellenstand.md",
+      "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md"
     ],
     "opening_change": "Konkrete Unterlagen einer Berliner Reinigungsvergabe statt abstrakter Methodenbeschreibung.",
     "norms": [
@@ -403,6 +414,16 @@
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CJ0006",
         "application": "Bewertungsmethode darf Kriterien und Gewichte nicht ändern.",
         "limit": "Andere Richtlinienfassung; keine ausnahmslose Veröffentlichung jeder internen Methode."
+      },
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
       }
     ],
     "remaining_limits": [
@@ -445,5 +466,46 @@
         "utf8_bytes": 7484
       }
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 22.01.2026, C-812/24",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE",
+        "application": "Rn. 39 bis 50: Hundertprozentige Tochter bleibt anderes Unternehmen im Sinne von Artikel 63 Richtlinie 2014/24/EU; kartellrechtlicher Begriff wirtschaftlicher Einheit nicht übertragbar. Rn. 52 bis 60: EEE ist nicht exklusives Nachweismittel; vorhandene Bescheinigungen auf tatsächliche Abdeckung der Eignung und Ausschlussgründe prüfen. Rn. 61 bis 65: Nachreichung kann nach nationalem Recht und unter Gleichbehandlung/Transparenz zulässig sein; Rn. 64 betrifft ursprünglich benannte Tochter und bestehende Tatsachen.",
+        "limit": "Keine allgemeine Nachforderungspflicht und kein bedingungsloser Ergänzungsanspruch; veröffentlichten Nachforderungsausschluss beachten. Keine neue Eignungsleihe als Formularberichtigung zulassen; gegebenenfalls Austauschregel gesondert prüfen. Rn. 59 zu personenidentischer Geschäftsführung deckt nicht alle Ausschlussgründe der Tochter. Urteil zur Richtlinie 2014/24/EU, kein unmittelbarer SektVO-Fall. Paragrafen 47/51 SektVO und Paragraf 142 GWB eigenständig prüfen. Verfügbarkeit der Mittel bleibt gesonderter Prüfungspunkt; Verpflichtungserklärung ist ein möglicher geeigneter Nachweis, nicht zwingend die einzig zulässige Form.",
+        "checked_on": "2026-10-16",
+        "verification_status": "status: Amtliche deutsche Urteilsgründe und genannte Normen gezielt gelesen; read_scope: Relevanter Sachverhalt, Rn. 39 bis 66 und Tenor; keine vollständige Prüfung jeder Sachverhaltspassage behauptet; method: Webtool-Recherche und öffentlicher CURIA-Direktabruf bei technisch unlesbarem Webabruf. VgV 47 direkt abgerufen, übrige genannte Normen im Webtool gelesen.; verified_on: 2026-10-16",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/eu-digital-vergabe.json",
+        "workflow_effect": "Identität, vorhandene Sachnachweise, Mittelverfügbarkeit und verbleibende Formularlücke trennen. Bereits benannte Tochter mit vorhandenen Tatsachen anders behandeln als neue Konzernreferenz nach Fristablauf. Zulässige konkrete Nachforderung oder begründeten Ablehnungsentwurf erstellen; nach Antwort Eignungsvermerk aktualisieren."
+      }
+    ],
+    "files": [
+      {
+        "path": "gvb-reinigungsvergabe/README.md",
+        "sha256": "4f64b89ef5a3e7f8e74a8c71d6f2a8541110265f8f814e310443591ede00dcc8"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-schnellstart.md",
+        "sha256": "533699fd375daaaed7196f48859165d70f02b4b303eb7db9adf6e33531ecfb09"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/gvb-reinigungsvergabe-werkstatt.md",
+        "sha256": "6a9e1c02951648f82a5da5dc82c83c6c6202cb0f8a3208a30952967d979b1cc9"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/references/quellenstand.md",
+        "sha256": "138188f6c40835e36cffb7a88d0fdde8762d769ef429dbaccb12ee20e4af108a"
+      },
+      {
+        "path": "gvb-reinigungsvergabe/skills/b1-bewerbungen-angebote-nachfordern/SKILL.md",
+        "sha256": "02e89a743845f672ed7eeee33b52508db30dd5a1a04e8249fb129743bc9c8e94"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

@@ -18,6 +18,12 @@ description: "Für Lebensversicherung Abgrenzung Zugewinn Va: ordnet Norm, Bewei
 
 ### Lebensversicherung Abgrenzung Zugewinn VA
 
+Lies Versicherungsschein, Leistungsform, Abtretung und Scheidungsfolgenvereinbarung. Paragraf 2 Absatz 2 Nummer 3 VersAusglG verlangt grundsätzlich ein Rentenanrecht; Anrechte nach BetrAVG oder AltZertG sind unabhängig von der Leistungsform zu prüfen. Paragraf 2 Absatz 4 VersAusglG verbietet den zusätzlichen güterrechtlichen Ausgleich desselben Anrechts. Eine private Kapitallebensversicherung wird nicht durch die Vertragsüberschrift „Versorgungsausgleich“ zu einem solchen Anrecht.
+
+[BGH, Beschluss vom 11.06.2026, IX ZB 1/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___1-25.pdf?__blob=publicationFile&v=1), Rn. 17 bis 23: Bei abgetretener Ablaufleistung den zugrunde liegenden Anspruch klären. Eine Zugewinnausgleichsforderung ist kein durch Paragraf 850i ZPO geschütztes sonstiges Einkommen. Paragraf 852 Absatz 2 ZPO und bei Insolvenz Paragrafen 35 und 36 InsO bleiben gesondert zu prüfen. Verlange die fehlende Gegenleistungsklausel; ändere anschließend Zuordnung, Rechnung und Empfehlung zur verfügbaren Liquidität. Bloße Eheführung beweist kein selbst erwirtschaftetes Einkommen.
+
+Grenze: Zurückverweisung wegen ungeklärten Abtretungsgrundes, keine abschließende Einordnung der konkreten Leistung. Pfändungsschutz echter Versorgungsanrechte und einer Gegenleistung für deren Ausschluss ließ der BGH offen. Keine generelle Pfändbarkeit aller Lebensversicherungen behaupten. Amtlichen Beschluss am 16.10.2026 direkt abgerufen und gelesen. Das bestellte Gutachten oder Schreiben vollständig ausformulieren, keine Stichwortskelette; Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen, bei Markdown gesonderter Exporthinweis. Quellen nach [Zitierweise](../../references/zitierweise.md); keine Außenhandlung ohne Auftrag.
+
 ## Fachlicher Kern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Lebensversicherung Abgrenzung Zugewinn VA` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.

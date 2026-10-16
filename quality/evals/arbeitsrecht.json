@@ -66,27 +66,40 @@
       "supports": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26: Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen. Grenze: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze. Gelesener Umfang: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze.",
       "verification_status": "wiederverwendeter_passagennachweis",
       "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+      "checked_on": "2026-10-16",
+      "supports": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen. Grenze: bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+      "verification_status": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/",
+      "checked_on": "2026-10-16",
+      "supports": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund. Grenze: Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+      "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft."
     }
   ],
   "mini_review": {
-    "sha256": "3b84a1430ddb66e0ac3334a5f3ed098bbc91c4436c20da00612c4b360f832b6e",
+    "sha256": "1145e3ec5d220387cf6b276a53a188d0a3148c8a5b05b3748262cf7eba2fd2fe",
     "verdict": "revised",
-    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert. Redaktionelle Anschlussprüfung 16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
       "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
-      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt."
+      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
     ],
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "4b890cf9dece7585bc4b4ac396a2d4634b81f4f717807f092152112eb2188222",
+    "sha256": "2745f4a35da55afac6a81df8e2a4fa701ae8ce2648c28db65fc83a9ef74be603",
     "verdict": "revised",
-    "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert. Redaktionelle Anschlussprüfung 16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt. Keine neue fachliche Vollprüfung oder Live-Ausführung.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
     "changes": [
       "Einlieferungsbeleg und Sendungsstatus ohne Auslieferungsbeleg rechtlich eingeordnet; ungesicherte Überwachungsfundstellen in konkrete Recherchefragen überführt.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -94,7 +107,8 @@
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
       "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt.",
       "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
-      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt."
+      "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
     ],
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
@@ -161,7 +175,9 @@
       "arbeitsrecht/README.md",
       "arbeitsrecht/arbeitsrecht-werkstatt.md",
       "arbeitsrecht/arbeitsrecht-schnellstart.md",
-      "quality/evals/arbeitsrecht.json"
+      "quality/evals/arbeitsrecht.json",
+      "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
+      "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md"
     ],
     "opening_change": "Kündigungszugang und offene Monatsvergütung anhand der vorliegenden Nachweise prüfen",
     "norms": [
@@ -196,6 +212,26 @@
         "verification_status": "wiederverwendeter_passagennachweis",
         "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
         "passages_read": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze."
+      },
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 184/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+        "application": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen.",
+        "limit": "bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert."
+      },
+      {
+        "citation": "BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/",
+        "application": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund.",
+        "limit": "Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
       }
     ],
     "remaining_limits": [
@@ -264,5 +300,56 @@
         "anchor_or_exception": "Paragraf 623 BGB, Paragraf 4 KSchG; BAG 30.01.2025 2 AZR 68/24: eingeschränkter Beweiswert von Einlieferung und Sendungsstatus, kein genereller Ausschluss anderer Zugangsnachweise."
       }
     ]
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 184/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+        "application": "Der festgestellte Scan-Ablauf mit Bestaetigung vor Einwurf traegt auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Fehlendes erforderliches bEM verschaerft die Arbeitgeberdarlegung zu milderen Mitteln; erneute Angebotspflicht kann nach weiteren mehr als sechs Wochen AU innerhalb eines Jahres auch nach Ablehnung oder Schweigen entstehen.",
+        "limit": "bEM-Einladung, nicht Kuendigungszustellung. Kein bewiesener Nichtzugang, kein genereller Ausschluss des Zeugenbeweises oder aller Einwurf-Einschreiben; Peel-off-Verfahren offengelassen. Fehlende Einzelerinnerung allein verwirft Zeugenbeweis nicht. Objektive Nutzlosigkeit des bEM bleibt darlegbar; keine automatische Kuendigungsunwirksamkeit.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext und tragende Passagen mit Web-Tool gelesen. Bereits vorhandene README-Nennung unangetastet; operative Pruefschritte ergaenzt. Keine Pressemitteilung als Urteilsersatz.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert."
+      },
+      {
+        "citation": "BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-azr-297-24/",
+        "application": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund.",
+        "limit": "Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
+        "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
+      }
+    ],
+    "files": [
+      {
+        "path": "arbeitsrecht/README.md",
+        "sha256": "cf9eee1ff01555ba3f214774fcc415a176c86fdf1807c8254c0bbf9d3c8cd641"
+      },
+      {
+        "path": "arbeitsrecht/arbeitsrecht-schnellstart.md",
+        "sha256": "1145e3ec5d220387cf6b276a53a188d0a3148c8a5b05b3748262cf7eba2fd2fe"
+      },
+      {
+        "path": "arbeitsrecht/arbeitsrecht-werkstatt.md",
+        "sha256": "2745f4a35da55afac6a81df8e2a4fa701ae8ce2648c28db65fc83a9ef74be603"
+      },
+      {
+        "path": "arbeitsrecht/skills/entfristung-sachgrund-pruefen-14-abs-1/SKILL.md",
+        "sha256": "d00be7d593abda08e5b11586c303f403127fb0b50bc33a513d6dfb88ea970c20"
+      },
+      {
+        "path": "arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md",
+        "sha256": "7b3a7b654ed865af96013a03a7a93cb587c5e1f5180df3529ec240e0a41de36c"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

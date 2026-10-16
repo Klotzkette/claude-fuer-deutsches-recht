@@ -4,9 +4,9 @@ Erarbeite aus der Bankakte Kundenantwort oder interne Entscheidung zu Zahlung, K
 
 ## 2. Vorgang und Entscheidungsträger
 
-Lies Vertrag, Kundenbericht, Buchungen und Protokolle oder die einschlägige Kredit-, Aval- oder Aufsichtsakte zuerst. Ohne Auftrag kläre Reklamation, Avalabruf oder Aufsichtsantwort; sonst direkt schreiben, nur entscheidende Lücken fragen. Die Bankrolle ist keine Anlegervertretung. Offene Aufsichtsfragen stoppen keine unabhängige Reklamationsbearbeitung. Folgeantworten gezielt abgleichen: Geräteaktivierung ist nicht Zahlungszustimmung; bewusste Empfängerwahl ändert die Autorisierungsprüfung. Avalnachtrag nur nach Urkundenabgleich übernehmen; Tochterzahlen in Antwort und Anhängen gemeinsam ändern.
+Lies Vertrags-, Zahlungs-, Kredit-, Aval- oder Aufsichtsakte zuerst. Ohne Auftrag kläre das benötigte Ergebnis; sonst direkt schreiben, nur entscheidende Lücken fragen. Bankrolle ist keine Anlegervertretung. Unabhängige Reklamationen trotz offener Aufsichtsfragen bearbeiten. Antworten einarbeiten: Geräteaktivierung ist nicht Zahlungszustimmung; bewusste Empfängerwahl neu bewerten. Avalnachtrag belegen; Tochterzahlen auch in Anhängen ändern.
 
-Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und konkreten Entscheidungstermin. Zivilrechtlichen Anspruch, aufsichtsrechtliche Organisationsfrage und interne Risikofreigabe getrennt führen. Bei Produkten Geld- und Rechtsfluss beschreiben: Wer erhält Gelder, wer schuldet Rückzahlung oder Ausführung, wer verwahrt und wer trägt Ausfallrisiken? Technische Bezeichnungen ersetzen keine rechtliche Einordnung.
+Institutstyp, Produkt, Kundengruppe, Fachbereich und Termin bestimmen. Zivilanspruch, Aufsicht und Risikofreigabe trennen. Geldempfang, Rückzahlung, Ausführung, Verwahrung und Ausfallrisiko rechtlich zuordnen, nicht nach Produktnamen.
 
 ## 3. Zahlungsreklamation anhand der Beweise
 
@@ -16,7 +16,7 @@ Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und k
 
 3.3. Bei nicht autorisierter Zahlung Erstattung und Kontowiederherstellung nach [Paragraf 675u BGB](https://www.gesetze-im-internet.de/bgb/__675u.html) samt zeitlicher Vorgabe prüfen. Die gesetzliche Ausnahme bei begründetem Verdacht betrügerischen Verhaltens des Zahlers mit Behördenmitteilung nicht mit einem gewöhnlichen Betrugsverdacht gegen unbekannte Dritte verwechseln. Gegenansprüche und Kundensorgfalt gesondert prüfen; eine noch laufende interne Untersuchung nicht pauschal als Fristverlängerung behandeln.
 
-3.4. Fehlen Freigabeanzeige oder Transaktionsprotokoll, fordere genau diese Daten vom Zahlungsverkehrs- oder IT-Bereich an. Nach Eingang Autorisierung und Haftung erneut prüfen und die bestellte Kundenantwort anpassen. Kundenvortrag nicht allein durch Nachreichung zum Beweis erklären. Kundenantwort, interne Entscheidung und Beweisanforderung auseinanderhalten. Entscheidung enthält Betrag, Rechtsgrund, offene Tatsachen, zuständigen Fachbereich und Termin. Nur ausgeführte Sperren, Rückrufe oder Erstattungen als erfolgt beschreiben.
+3.4. Fehlende Freigabeanzeige oder Protokolle gezielt anfordern; danach Autorisierung, Haftung und Kundenantwort aktualisieren. Nachgereichter Vortrag ist nicht schon bewiesen. Kundenbrief, interne Entscheidung und Beweisanforderung trennen; Betrag, Rechtsgrund, offene Tatsachen, Fachbereich und Termin benennen. Nur ausgeführte Maßnahmen als erfolgt beschreiben.
 
 BGH, 26.01.2016 – XI ZR 91/14, Rn. 18–19, 68–75: TAN-Erfolgslogs beweisen weder Zustimmung noch grobe Fahrlässigkeit. Für einen Anscheinsbeweis Sicherheit und fehlerfreie Anwendung belegen; Freigabeinhalt und Störungen anfordern. Das Urteil zum früheren Recht ersetzt nicht Paragraf 675v Absätze 4 und 5 BGB.
 
@@ -26,18 +26,20 @@ BGH, 26.01.2016 – XI ZR 91/14, Rn. 18–19, 68–75: TAN-Erfolgslogs beweisen 
 
 4.1. Kredit und Sicherheiten: Forderung, Sicherungszweck, Sicherungsgeber, Rang, Umfang, Auslöser und Verwertungsweg zuordnen. Bürgschaft und selbständige Garantie nicht allein nach der Überschrift bestimmen. Abruf, Nachweise und vertragliche Frist an der konkreten Urkunde prüfen.
 
+Bei persönlicher Anteilsfinanzierung: [BGH, Urteil vom 10.03.2026 - Az. XI ZR 132/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_132-24.pdf?__blob=publicationFile&v=1), Volltext Rn. 19 bis 32: Erwerb/Refinanzierung eigener Anteile grundsätzlich private Vermögensverwaltung; beherrschende Stellung und Geschäftskonto genügen nicht für Unternehmerstatus. Ausnahme: erforderlicher planmäßiger Geschäftsbetrieb der Vermögensverwaltung. Formularstatus scheitert dort an Paragraf 309 Nummer 12 BGB. Erwerbszweck, Alt-/Umschuldungsvertrag, Organisation und Pflichtangaben belegen; danach Statusvotum und Abrechnung/Kundenantwort anpassen. Vertrag 25.01.2013: Paragraf 13 in Fassung 01.01.2002 bis 12.06.2014, Paragraf 491 Absatz 1 vom 11.06.2010 bis 12.06.2014; Paragrafen 494 und 502 Absatz 1 Satz 2 vom 30.07.2010 bis 20.03.2016. Eigene Normfassung/Übergangsrecht prüfen. Zurückverweisung, keine automatische Erstattung oder Zinsfreiheit.
+
 4.2. Wertpapiergeschäft: Beratung, beratungsfreies Geschäft, Vermittlung und Ausführung unterscheiden. Kundenprofil, Produktinformationen, Empfehlungen, Kosten und dokumentierte Warnungen prüfen. Dokumentationsmangel und schadensursächliche Pflichtverletzung nicht gleichsetzen; keine globale Beweislastverteilung über alle Produkte behaupten.
 
-4.3. Aufsicht: Schreiben nach Auskunft, Anhörung, Anzeige oder verbindlicher Maßnahme einordnen. Für jedes verlangte Datum Quelle, Fachbereich, Freigabe und Versandstatus festhalten. Fehlt eine Zahl oder Anlage, den benannten Zeitraum und Nachweis beim zuständigen Bereich erfragen. Nach Lieferung mit bisherigen Angaben abgleichen und den Antwortentwurf vervollständigen; offene Werte nicht als bestätigt darstellen. Meldegrund und zuständige Stelle aktuell prüfen, statt Nummernlisten aus früheren KWG-Fassungen zu übernehmen.
+4.3. Aufsicht: Auskunft, Anhörung, Anzeige und Maßnahme trennen. Quelle, Fachbereich, Freigabe und Versandstatus je Angabe festhalten. Fehlende Zahlen/Anlagen gezielt anfordern, nach Eingang abgleichen und Antwort vervollständigen. Offene Werte nicht bestätigen. Meldegrund und Zuständigkeit aktuell prüfen, keine alten KWG-Nummernlisten übernehmen.
 
 4.4. Neue Produkte und Regulierung: Geltendes Recht, bereits beschlossenes Übergangsrecht und bloße Gesetzgebungsvorschau kennzeichnen. Insbesondere Zahlungsdienste- und Tokenregime anhand Veröffentlichungs- und Anwendungsdatum prüfen. Keine Produktfreigabe allein aus einer technischen Funktionsbeschreibung oder einer früheren Roadmap ableiten.
 
 ## 5. Ergebnis und Grenzen
 
-Optional vertieft [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised-payment/SKILL.md) die Reklamation. Ohne Zugriff mit der Beweiskette in Abschnitt 3 weiterarbeiten. Weitere Dateien sind keine Voraussetzung für eine erste belastbare Kundenantwort oder Vorstandsvorlage.
+Optional: [Unautorisierte Zahlung](skills/psd2-fraud-refund-unauthorised-payment/SKILL.md). Ohne Zugriff hier weiterarbeiten; Zusatzdateien sind keine Voraussetzung.
 
 Ergebnis in vollständigen Sätzen liefern: Entscheidung, maßgebliche Tatsachen, amtlich geprüfter Rechtsmaßstab, Gegenargument, verbleibendes Risiko und ausführbare Maßnahme. Keine frei erfundene Aufsichtspraxis oder Rechtsprechung. Normfassung und bei Entscheidungen Gericht, Entscheidungsform, Datum, Aktenzeichen und belegte Randnummer nennen; optional hilft die [Zitierweise](../references/zitierweise.md).
 
-Ergibt eine neue Antwort eine weitere entscheidende Unklarheit, frage kurz nach; bereits Beantwortetes nicht wiederholen. Bei einem Hindernis den belegten Teilstand liefern und nach Klärung Rechnung, Begründung und bestelltes Dokument fortsetzen. Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Interne Quellenprüfung und Recherchegrenzen getrennt vom Kundenbrief dokumentieren.
+Neue entscheidende Unklarheit gezielt klären, Bekanntes behalten. Belegten Teilstand liefern, nach Klärung Rechnung und Dokument fertigstellen. Kein ungefragter Klageentwurf. Quellenprüfung und Recherchegrenzen separat vom Kundenbrief.
 
 Dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt beziehungsweise Exporthinweis verwenden. Ohne Export Text liefern, ohne Logzugriff keine technische Prüfung behaupten. Vertrauliche Kunden- und Bankdaten nicht ungefragt extern übertragen; Zahlung, Meldung oder Kundenkommunikation nur nach ausdrücklicher Freigabe auslösen.

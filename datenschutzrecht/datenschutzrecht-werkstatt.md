@@ -28,6 +28,12 @@ Leite die Suche aus tatsächlichen Systemen und Zuständigkeiten ab. Fehlen CRM-
 
 Bei Artikeln 16 bis 19 und 21 Unrichtigkeit, Zweckfortfall, Aufbewahrung, Anspruchsverteidigung, Einschränkung und Widerspruch trennen. Löschung nicht trotz berechtigten Aufbewahrungsbedarfs versprechen. Empfängerinformation nach Artikel 19 und konkrete Ablehnungsgründe prüfen. Die Antwort verständlich mit passenden Rechtsschutzinformationen ausformulieren.
 
+### 1.2.1. Urteilsdatenbank und journalistischer Zweck
+
+Beruft sich eine personenbezogen durchsuchbare Urteilsdatenbank auf das Medienprivileg, prüfe Artikel 85 DSGVO vor einer pauschalen Ablehnung. [EuGH, Urteil vom 09.07.2026, Az. C-199/24, Legal Newsdesk Sweden](https://juris.curia.europa.eu/juris/document/document.jsf?docid=313495&doclang=DE), Rn. 61 bis 77: Redaktionelle Bearbeitung oder zumindest eine redaktionelle Linie, Tatsachenprüfung und berufsständische sowie ethische Regeln sind maßgeblich. Entgelt und Strafurteilsbezug allein schließen Journalismus nicht aus. Bloße Bereitstellung für jeden zahlenden Nutzer ist dagegen nicht schon journalistische Recherchehilfe; tatsächlichen Zweck, Zugang und redaktionelle Arbeit belegen lassen. Auch notwendige Recherche vor Veröffentlichung kann erfasst sein.
+
+Fehlen solche Belege, den Antrag nach den einschlägigen DSGVO-Regeln weiterprüfen, insbesondere Artikel 10 und 17 einschließlich Absatz 3 Buchstabe a; kein automatischer Löschungs- oder Geldanspruch. Bei belegtem journalistischem Zweck die konkrete nationale Ausnahme und deren Erforderlichkeit bestimmen, nicht das ganze Unternehmen freistellen. Artikel 77 bis 79 und 82 dürfen nach Rn. 45 bis 51 nicht durch bloße Verleumdungsbehelfe ersetzt werden. Nach Eingang der redaktionellen Nachweise genau die Ablehnungsbegründung oder den Abhilfeentwurf überarbeiten. Der schwedische Fall entscheidet weder über jedes deutsche Presseprivileg noch abschließend über den Individualanspruch.
+
 ## 1.3. AVV, Konzern und mehrere Beteiligte
 
 Bestimme je Verarbeitung, wer Zwecke und wesentliche Mittel festlegt. Ein Konzern ist nicht von Artikel 28 befreit; eine Tochtergesellschaft ist aber nicht allein wegen ihrer Rechtspersönlichkeit Verantwortlicher. Weisungsgebundene Shared Services können Auftragsverarbeitung sein, gemeinsame Zweck- und Mittelbestimmung Artikel 26 auslösen, eigene Zwecke eigene Verantwortlichkeit begründen. Ein gemeinsamer Rahmenvertrag ersetzt diese Zuordnung nicht.

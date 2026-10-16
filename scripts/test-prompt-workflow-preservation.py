@@ -40,6 +40,19 @@ S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
 
 
 class ReviewedPromptContextTests(unittest.TestCase):
+    def test_corrected_medical_and_restructuring_rules_cannot_regress(self):
+        cases = (
+            ('nicht existente Regressnorm', 'Paragraf 199 SGB X', 'Paragraf 199 BGB; Paragraf 116 SGB X'),
+            ('nicht existente Regressnorm', 'SGB X Paragrafen 116 199 SGB X', 'Paragraf 113 SGB X: Erstattungsansprüche'),
+            ('pauschale Kostenpflicht', 'Kopien auf Kosten des Patienten', 'Die erste Abschrift ist nach Paragraf 630g BGB unentgeltlich.'),
+            ('Landgericht als Restrukturierungsgericht', 'LG (StaRUG-Gerichte)', 'Amtsgericht nach Paragraf 34 StaRUG; Ansprüche nach Paragraf 71 Absatz 2 Nummer 6 GVG beim Landgericht.'),
+        )
+        for label, invalid, valid in cases:
+            sentinel = next(item for item in S.SENTINELS if label in item.label)
+            with self.subTest(label=label, invalid=invalid):
+                self.assertIsNotNone(sentinel.pattern.search(invalid))
+                self.assertIsNone(sentinel.pattern.search(valid))
+
     def test_bverwg_date_correction_does_not_flag_the_verified_anchor(self):
         sentinel = next(item for item in S.SENTINELS if '4 CN 4.19' in item.label)
         for text in ('BVerwG 14.10.2020, 4 CN 4.19', '4 CN 4/19, Urteil vom 14.10.2020'):

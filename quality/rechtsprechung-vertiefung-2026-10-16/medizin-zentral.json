@@ -1,0 +1,74 @@
+{
+  "reportDate": "2026-10-16",
+  "scope": [
+    "fachanwalt-medizinrecht",
+    "references/leitentscheidungen-anker.md"
+  ],
+  "result": "Medizinrechtliche Mandatsaufnahme und Impfschadensbearbeitung individuell neu gefasst; sechs konkrete Norm-, Kosten-, Rechtsweg- und Fristprobleme korrigiert. Drei zentrale Zuordnungen berichtigt, vier aktuelle Entscheidungsanker ergänzt.",
+  "decisions": [
+    {
+      "citation": "BGH, Urteil vom 09.03.2026, VI ZR 335/24",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_335-24.pdf?__blob=publicationFile&v=1"
+      ],
+      "keyholding": "Auskunft nach Paragraf 84a AMG verlangt Indiztatsachen und plausible Verursachung, nicht überwiegende Wahrscheinlichkeit. Auskunft nicht allein auf das individuelle Krankheitsbild begrenzen. Eine abstrakte unbekannte Reserveursache genügt nicht zur Beseitigung der Kausalitätsvermutung nach Paragraf 84 Absatz 2 AMG.",
+      "workflowEffect": "Befunde und konkrete andere Ursachen erheben, bestimmtes Auskunftsschreiben erstellen und nach Antwort die Haftungsbegründung gesondert ausarbeiten. Keine automatische Schmerzensgeldzusage.",
+      "limits": "Zurückverweisung; kein Schadensersatz zugesprochen. Auskunft und Haftung bleiben getrennt, ebenso Behandlerhaftung und soziale Entschädigung. Nicht alle 48 Seiten vollständig nachgeprüft.",
+      "verificationstatus": "Amtliches PDF unmittelbar geladen; Kopf, Leitsätze, Tenor und Rn. 18–37 sowie 63–80 gelesen. Operative Ergänzungen beschränkt auf Rn. 18–24, 27–37 und 65–66.",
+      "whichfiles": [
+        "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+        "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+        "fachanwalt-medizinrecht/skills/impfschaden-arzthaftung/SKILL.md",
+        "references/leitentscheidungen-anker.md"
+      ]
+    }
+  ],
+  "normChecks": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__630g.html",
+      "finding": "Erste Abschrift unentgeltlich, Sonderregel für Erben und Angehörige und Einschränkungen getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/b_o/__5.html",
+      "finding": "Rücknahme und Widerruf hier; Ruhen nicht mit dieser Norm gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/b_o/__6.html",
+      "finding": "Ruhensanordnung und deren Folgen; kein pauschaler gesetzlicher Sofortvollzug in dieser Vorschrift."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__80.html",
+      "finding": "Aufschiebende Wirkung, Ausnahmen, besondere Vollziehungsanordnung und Eilantrag differenzieren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__113.html",
+      "finding": "Verjährung interbehördlicher Erstattungsansprüche, nicht sämtlicher Krankenkassenregresse."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__116.html",
+      "finding": "Übergang kongruenter zivilrechtlicher Schadensersatzansprüche gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "finding": "Nummer 9: Heilbehandlungsstreitigkeiten unabhängig vom Streitwert beim Landgericht; Nummer 6: Ansprüche aus dem StaRUG von Restrukturierungsverfahren unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/__34.html",
+      "finding": "Restrukturierungsgericht ist grundsätzlich das bezeichnete Amtsgericht; landesrechtliche Konzentration beachten."
+    },
+    {
+      "url": "https://online-forms.e-justice.europa.eu/online-forms/brussels-iib-regulation-matrimonial-matters-and-matters-parental-responsibility-forms_de",
+      "finding": "Offizielle zeitliche Einordnung der Brüssel-IIb-Verordnung; Altverfahren nicht ohne Übergangsprüfung nach neuem Recht behandeln."
+    }
+  ],
+  "otherChanges": [
+    "Starres Acht-Fragen-Interview entfernt; Akte und Auftrag zuerst, konkrete Rückfragen und Fortsetzung im bestellten Entwurf.",
+    "Vorhandene Honorar-, Approbations- und Vertragsarztskills statt nicht vorhandener oder nur angekündigter Verweise zugeordnet.",
+    "Schlichtungshemmung nicht voraussetzungslos; Verjährung nicht pauschal ab Behandlung; gesetzliche Befugnisse und Entbindung getrennt.",
+    "Digitaler Nachlass im zentralen Register von Familienrecht nach Erbrecht eingeordnet; Brüssel-IIb-Übergang und Approbationsnormen korrigiert.",
+    "Zentrales Register um XI ZR 132/24, IX ZR 71/25 und III ZR 205/25 ergänzt; genaue Prüfung im Bericht bank-insolvenz. Die letzte Entscheidung nur nach amtlicher Pressemitteilung.",
+    "Drei präzise Wiederholungsprüfungen zu korrigierten Norm-/Kosten-/Gerichtsfehlern mit Positiv- und Negativtests ergänzt."
+  ],
+  "legacyCorrection": "Die identischen Norm- und Kostenfehler wurden auch im älteren Fachprompt testakten/megaprompts/fachanwalt-medizinrecht.md berichtigt. Keine Tatsachen einer Fallakte und keine Akten-PDFs geändert.",
+  "limits": "Gezielte Rechtsquellen- und Textprüfung. Keine Gesamtfreigabe des Medizinrechtsbestands, keine vollständige Verifikation aller Altanker und keine Live-Ausführung in einem fremden Client."
+}

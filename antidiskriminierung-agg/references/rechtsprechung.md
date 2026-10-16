@@ -38,6 +38,14 @@ BGH, Urteil vom 29.01.2026, I ZR 129/25: Nach der amtlichen Pressemitteilung kan
 
 [Amtliche Pressemitteilung 025/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026025.html)
 
+## 1.7. Kirchenaustritt und konkrete Loyalitätsanforderung
+
+Gesondert geprüft am 16.10.2026: EuGH, Urteil der Großen Kammer vom 17.03.2026, C-258/24, ECLI:EU:C:2026:211, Rn. 51 bis 58 und 64 bis 86. Artikel 4 der Richtlinie 2000/78/EG verlangt einen objektiv überprüfbaren Zusammenhang der Anforderung mit der Tätigkeit sowie deren Wesentlichkeit, Rechtmäßigkeit, Rechtfertigung und Verhältnismäßigkeit. Werden dieselben Beratungsaufgaben Nichtkatholischen übertragen und fehlen zusätzliche kirchenfeindliche Handlungen, rechtfertigt der bloße Austritt nicht ohne diese Prüfung eine Kündigung. Die staatlich vorgeschriebene Austrittserklärung ist nicht schon öffentliche Kirchenfeindlichkeit.
+
+Arbeitsweg: Tätigkeit, geltende kirchliche Regelung, Vergleichspraxis und behauptete Loyalitätsverstöße belegen; konkrete wahrscheinliche erhebliche Gefährdung des Ethos prüfen. Paragraf 9 AGG unionsrechtlich einordnen und Kündigungsklagefrist getrennt sichern. Besondere verkündigungsnahe Aufgaben können anders liegen; kein allgemeines Verbot kirchlicher Anforderungen. Die Tatsachenwürdigung bleibt national, ein Geldanspruch ist nicht zugesprochen.
+
+[Amtlicher englischer Urteilstext](https://juris.curia.europa.eu/juris/document/document_print.jsf?cid=2478990&dir=&docid=309985&doclang=EN&mode=DOC&occ=first&pageIndex=0&part=1&text=). Entscheidungskopf, Sachverhalt, Gründe und Tenor gelesen. Deutsche Curia- und EUR-Lex-Volltextabrufe waren technisch nicht auswertbar; keine deutsche Volltextprüfung behaupten. Die Schlussanträge vom 10.07.2025 und die Pressemitteilung sind andere Dokumentarten. Der Prüfstand der bisherigen Karten bleibt unverändert.
+
 ## 1.7. Normen und Fallgrenzen
 
 [AGG](https://www.gesetze-im-internet.de/agg/): Paragrafen 1 bis 5 für Schutzgrund, Bereich und Benachteiligungsform; Paragrafen 6 bis 18 für Beschäftigung; Paragrafen 19 bis 21 für Zivilverkehr; Paragraf 22 für den Indizienbeweis. Bei mehreren Gründen jeden gesondert prüfen. Paragraf 20 liefert keine allgemeine Rechtfertigung ethnischer Benachteiligung.

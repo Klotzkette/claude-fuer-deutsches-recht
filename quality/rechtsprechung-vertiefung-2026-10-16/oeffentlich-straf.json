@@ -1,0 +1,224 @@
+{
+  "date": "2026-10-16",
+  "status": "completed_write_freeze",
+  "scope": [
+    "untersuchungshaft",
+    "fachanwalt-strafrecht",
+    "fachanwalt-verwaltungsrecht",
+    "normenkontrolle-bauleitplanung",
+    "enteignung-artikel-14",
+    "vergesellschaftung-artikel-15"
+  ],
+  "filePathConvention": "whichfiles are relative to repo",
+  "summary": "Vier neue amtliche Entscheidungen aus 2026 gezielt in fünf Plugins eingearbeitet. 19 Dateien geändert/neu. Keine zentrale Datei, kein Profil, kein Manifest und kein Release durch diesen Beitrag geändert. Ab Berichtserstellung Schreibruhe; keine Tests oder Prozesse laufen noch.",
+  "decisions": [
+    {
+      "court": "BGH",
+      "citation": "BGH, Beschluss vom 09.09.2026, AK 46/26",
+      "date": "2026-09-09",
+      "type": "Beschluss; amtlicher Entscheidungs-Volltext",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/AK__46-26.pdf?__blob=publicationFile&v=1"
+      ],
+      "ecli": "ECLI:DE:BGH:2026:090926BAK46.26.0",
+      "paragraphs": "6, 10-24, insbesondere 19-24",
+      "keyholding": "Haftbefehl wegen vermeidbarer Verzögerung aufgehoben, Entlassung in dieser Sache trotz unveränderter sonstiger Haftvoraussetzungen. Unbegründet verzögerte Eröffnung, fehlende Ermittlungsfristen, ungenutzte Terminangebote und dauerhafte Gerichtsüberlastung; keine hinreichende Kompensation durch künftige Verhandlungsdichte.",
+      "limits": "Konkreter Zwischenverfahrensfall, keine automatische Neun-/Zehnmonatsgrenze und kein starrer Wochenquotient; andere Hafttitel gesondert.",
+      "workflow": "Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.",
+      "whichfiles": [
+        "untersuchungshaft/untersuchungshaft-werkstatt.md",
+        "untersuchungshaft/untersuchungshaft-schnellstart.md",
+        "untersuchungshaft/skills/haftdauer-beschleunigung-pruefen/SKILL.md",
+        "untersuchungshaft/references/rechtsquellen.md",
+        "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+        "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+        "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/SKILL.md",
+        "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md",
+        "fachanwalt-strafrecht/references/haftrecht-rechtsprechung-2026.md"
+      ],
+      "verificationstatus": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Volltextabruf direkt heruntergeladen, vollständig einschließlich Kopf, Tenor und Gründen gelesen (pdftotext). Kein Pressemitteilungsersatz."
+    },
+    {
+      "court": "BGH",
+      "citation": "BGH, Beschluss vom 05.02.2026, StB 3/26",
+      "date": "2026-02-05",
+      "type": "Beschluss; amtlicher Entscheidungs-Volltext",
+      "sourceURLs": [
+        "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2026/StB___3-26.pdf?__blob=publicationFile&v=1"
+      ],
+      "ecli": "ECLI:DE:BGH:2026:050226BSTB3.26.0",
+      "paragraphs": "8-11",
+      "keyholding": "Ruhen nach Paragraf 121 Absatz 3 StPO verlängert eine befristete Zuständigkeitsübertragung nach Paragraf 122 Absatz 3 Satz 3 nicht. Nach Ablauf hätte das OLG den Antrag dem wieder zuständigen BGH vorlegen müssen. Die spätere besondere Fortdauerentscheidung ließ den Antrag gegenstandslos werden.",
+      "limits": "Tenor hebt die prozessuale Verwerfung auf, nicht den Haftbefehl. Rn. 9 enthält den Gegenfall: bei fortbestehender gewöhnlicher Zuständigkeit grundsätzlich Unzulässigkeit eines parallelen Aufhebungsantrags während anhängiger besonderer Haftprüfung.",
+      "workflow": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+      "whichfiles": [
+        "untersuchungshaft/untersuchungshaft-werkstatt.md",
+        "untersuchungshaft/skills/haftpruefung-muendlich-vorbereiten/SKILL.md",
+        "untersuchungshaft/references/rechtsquellen.md",
+        "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+        "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/SKILL.md",
+        "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md",
+        "fachanwalt-strafrecht/references/haftrecht-rechtsprechung-2026.md"
+      ],
+      "verificationstatus": "Am 16.10.2026 amtliches BGH-PDF nach Webrecherche und fehlgeschlagenem Webtool-Abruf direkt heruntergeladen und vollständig einschließlich aller zwölf Randnummern gelesen."
+    },
+    {
+      "court": "BVerwG",
+      "citation": "BVerwG, Beschluss vom 28.07.2026, 4 BN 36.25",
+      "date": "2026-07-28",
+      "type": "Beschluss über Nichtzulassungsbeschwerde; amtlicher Entscheidungs-Volltext",
+      "sourceURLs": [
+        "https://www.bverwg.de/280726B4BN36.25.0"
+      ],
+      "ecli": "ECLI:DE:BVerwG:2026:280726B4BN36.25.0",
+      "paragraphs": "5-8, 11-14, 19-20",
+      "keyholding": "Beim Änderungsbebauungsplan entscheiden dessen eigene Festsetzungen über unmittelbare Betroffenheit. Mittelbare Nachteile benötigen eigene abwägungserhebliche Belange. Lage im ursprünglichen Plangebiet und überobligatorische gemeindliche Einwendungsbehandlung begründen allein keine Antragsbefugnis. Leicht auswertbare Gutachten dürfen fehlende Betroffenheit bereits bei Zulässigkeit zeigen.",
+      "limits": "Erfolglose Nichtzulassungsbeschwerde, kein genereller Ausschluss von Plannachbarn und keine Entscheidung über die materielle Unwirksamkeit des Plans. Mündliche Verhandlung nach Artikel 6 EMRK gesondert; mögliche Abwägungsverletzung allein nicht stets ausreichend. Kein Vollbeweis der Rechtsverletzung auf Zulässigkeitsebene.",
+      "workflow": "Altes/neues Entwässerungskonzept, Rückstau, Aufnahmekapazität und eigene Ertüchtigungskosten mit dem Grundstück verbinden; nach technischem Nachweis konkrete Betroffenheit im Antrag aktualisieren oder widerlegten Einwand aufgeben.",
+      "whichfiles": [
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+        "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+        "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+        "normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/SKILL.md"
+      ],
+      "verificationstatus": "Am 16.10.2026 amtlicher HTML-Volltext mit Tenor und allen Gründen über das Webtool gelesen; Randnummern kontrolliert."
+    },
+    {
+      "court": "BVerwG",
+      "citation": "BVerwG, Urteil vom 26.03.2026, 10 C 4.25",
+      "date": "2026-03-26",
+      "type": "Urteil; amtlicher Entscheidungs-Volltext, nicht nur Pressemitteilung",
+      "sourceURLs": [
+        "https://www.bverwg.de/260326U10C4.25.0"
+      ],
+      "ecli": "ECLI:DE:BVerwG:2026:260326U10C4.25.0",
+      "paragraphs": "18-19, 23-31, 33-41",
+      "keyholding": "Bei naturschutzrechtlich unterbundener zuvor rechtmäßig ausgeübter Nutzung ist für Paragraf 68 Absatz 1 BNatSchG die Privatnützigkeit der nicht gänzlich unbedeutenden betroffenen Teilflächen maßgeblich. Weiterbestehende Rentabilität des Gesamtforstbetriebs genügt nicht. Andere Abhilfe, insbesondere Ausnahme/Befreiung, hat Vorrang.",
+      "limits": "Inhalts- und Schrankenbestimmung nach Artikel 14 Absatz 1 Satz 2 GG; keine Enteignung und keine Artikel-15-Regel. Aufhebung und Zurückverweisung zur Tatsachenklärung, kein Entschädigungszuspruch. Keine feste Flächenschwelle oder Verkehrswert-/Vollentschädigungsgarantie; nur Belastung jenseits der Sozialbindung. Landesrecht und Rechtsweg gesondert.",
+      "workflow": "Flächenumfang, Kausalität, bisher rechtmäßige Nutzung, wirtschaftlich nennenswerte Restnutzung und Abhilfeversuche belegen; dann Anspruchsgegner und Rechtsweg bestimmen.",
+      "whichfiles": [
+        "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+        "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+        "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md",
+        "enteignung-artikel-14/references/rechtsgrundlagen.md"
+      ],
+      "verificationstatus": "Am 16.10.2026 tatsächlichen amtlichen Urteilsteil auf derselben Seite hinter der Pressemitteilung gelesen: Kopf, Tenor, Sachverhalt und Gründe. Paragrafen 67/68 BNatSchG amtlich abgeglichen."
+    }
+  ],
+  "normsChecked": {
+    "sourceURLs": [
+      "https://www.gesetze-im-internet.de/stpo/__117.html",
+      "https://www.gesetze-im-internet.de/stpo/__121.html",
+      "https://www.gesetze-im-internet.de/stpo/__122.html",
+      "https://www.gesetze-im-internet.de/vwgo/__47.html",
+      "https://www.gesetze-im-internet.de/bbaug/__1.html",
+      "https://www.gesetze-im-internet.de/bnatschg_2009/__67.html",
+      "https://www.gesetze-im-internet.de/bnatschg_2009/__68.html"
+    ],
+    "date": "2026-10-16",
+    "verificationstatus": "Amtliche Normtexte im Webtool gelesen; keine pauschale Neuverifikation aller in den Plugins enthaltenen Normen."
+  },
+  "whichfiles": [
+    "untersuchungshaft/untersuchungshaft-werkstatt.md",
+    "untersuchungshaft/untersuchungshaft-schnellstart.md",
+    "untersuchungshaft/skills/haftdauer-beschleunigung-pruefen/SKILL.md",
+    "untersuchungshaft/skills/haftpruefung-muendlich-vorbereiten/SKILL.md",
+    "untersuchungshaft/references/rechtsquellen.md",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+    "fachanwalt-strafrecht/skills/untersuchungshaft-haftpruefung/SKILL.md",
+    "fachanwalt-strafrecht/skills/fachanwalt-strafrecht-untersuchungshaft-haftpruefung/SKILL.md",
+    "fachanwalt-strafrecht/references/haftrecht-rechtsprechung-2026.md",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+    "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md",
+    "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+    "normenkontrolle-bauleitplanung/skills/antragsbefugnis-eigentuemer-nachbar/SKILL.md",
+    "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+    "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+    "enteignung-artikel-14/skills/eingriff-und-verfahrensstand-einordnen/SKILL.md",
+    "enteignung-artikel-14/references/rechtsgrundlagen.md"
+  ],
+  "substantiveCorrections": [
+    "Zwei Strafrecht-Haftskills: falsche Dreimonatswartefrist bei Paragraf 117, voraussetzungslose Schwerverbrechenshaft, stets AG/LG/OLG, pauschal vollständige Akteneinsicht und private Verschonungsvereinbarung gezielt korrigiert. Unzutreffende Behauptung fehlender neuer BGH-Volltexte ersetzt.",
+    "Normenkontrollskill: automatisches Eigentümer-Standing allein wegen Plangebietszugehörigkeit und generellen Mieterausschluss beseitigt; tatsächliche Wirkung und eigenes Abwägungsrecht statt Einwendungsbehandlung. Entwicklungsgebot und FNP-Statthaftigkeit abgegrenzt.",
+    "Keine erneute generische Überarbeitung der Einführungen. In knappen Minis nur Wiederholungen gekürzt; Paragraf 111e StPO und bestehende Schutz-/Ausgaberegeln erhalten."
+  ],
+  "tests": [
+    {
+      "name": "git diff --check, nur sechs zugewiesene Verzeichnisse",
+      "status": "passed",
+      "exitCode": 0
+    },
+    {
+      "name": "Gezielter Aufruf validate-markdown-structure.inspect, validate-yaml-frontmatter.check_one, lokale Linkprüfung und individual_workshop_structure_problems",
+      "status": "passed",
+      "files": 19,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "name": "Längen aller fünf geänderten Minis, Zeichen/UTF-8/CRLF",
+      "status": "passed",
+      "limit": 7500,
+      "crlfBytes": {
+        "untersuchungshaft": 7401,
+        "fachanwalt-strafrecht": 7498,
+        "fachanwalt-verwaltungsrecht": 7452,
+        "normenkontrolle-bauleitplanung": 7121,
+        "enteignung-artikel-14": 7494
+      }
+    },
+    {
+      "name": "scripts/test-enteignung-artikel-14.py",
+      "status": "24_passed_1_expected_profile_error",
+      "tests": 25,
+      "detail": "Einziger verbleibender Fehler: Mini-Prüfung seit individueller Prüfung verändert. Profile per Auftrag unverändert. Ursprünglicher Ordner-Markerfehler im Mini behoben; erneuter Lauf nur Profilfehler. Berliner Abgrenzungsregressionen sämtlich bestanden."
+    },
+    {
+      "name": "scripts/test-untersuchungshaft.py unverändert",
+      "status": "blocked_by_expected_hash_mismatch",
+      "detail": "Abbruch Redaktionelle Prüfung nicht aktuell. Anschließender diagnostischer Lauf protokolliert ausschließlich die zwei bekannten Hashabweichungen statt dort abzubrechen; alle restlichen Originalchecks bestanden (10 Skills, bisherige 13 Profilanker, 4 Akten, 36 Originale, 36 PDF-Seiten). Kein unverändert grüner Gesamttest behauptet; keine Testdatei oder Profil geändert."
+    },
+    {
+      "name": "Testlaufumgebung",
+      "status": "resolved",
+      "detail": "System-Python ohne python-docx; gebündelte Python-Umgebung verwendet. Für Artikel-14-Test vorhandenes PyYAML über sys.path ergänzt, nichts installiert."
+    },
+    {
+      "name": "Zentrale QA/Profil- und Quellenstand-Synchronisation",
+      "status": "pending_parent"
+    },
+    {
+      "name": "Laufende Prozesse",
+      "status": "none"
+    }
+  ],
+  "promptHashes": {
+    "untersuchungshaft/untersuchungshaft-schnellstart.md": "cbbf1a5cc3b209984c9669b0e936ddd1f215d7d4295b9912f1812c78e46755fc",
+    "untersuchungshaft/untersuchungshaft-werkstatt.md": "4760dc37244ba04bd84ef67be1cf18cb3e75137b70953602dbeaa504ded1c527",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md": "153502ec07ab7062c5e33a202e7966a9c70b72e4e8c6f94bdfec6bc64c138b38",
+    "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md": "22d0e247682d09e82bef2073d9e4bf2932571fa108ae962fb273f417fb580a01",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md": "5756a02dd177086daf702342f0949184e0bd32621af0e8bfc1f8038daf598fbd",
+    "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md": "8e6d3cca14a50f4aa0c667f627f1b995b153b7f44c920e793209424fc9f897dc",
+    "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md": "592896b9081692572505fdff3a91814677f392de6f0c1d2b37942bc2c2e37a67",
+    "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md": "bdaf17a753e282ca7af37271c87eea5ed47eb06d4357ea5c9f582c359bae92e6",
+    "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md": "91ab8e9caa8c0f3847fac028ddc7fd071ff400ee25cc9d84a4ed0cb33842ba5e",
+    "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md": "f130dd32ef3225449e9f16a875234160b7af3743f2960e789e53de8db2aac58f"
+  },
+  "parentActions": [
+    "Profile und exakte Promptprüfsummen zentral synchronisieren; obige Hashes sind der letzte lokale Prüfstand.",
+    "Bei Untersuchungshaft die beiden neuen amtlichen BGH-Entscheidungen ergänzen: Quellenregister nun 15 Entscheidungen, davon 13 amtliche Originale und 2 abgeglichene Sekundärvolltexte. Originaltest enthält noch harte Erwartungen 13/11 und entsprechenden Meldungstext; bei zentraler Profilerweiterung mitführen.",
+    "Neue Quellen in zentralen Reviews mit ihren begrenzten Anwendungsbereichen erfassen; ältere Fundstellen nicht als neu verifiziert deklarieren."
+  ],
+  "unchangedareas": [
+    "vergesellschaftung-artikel-15 vollständig unverändert: keine ausreichend einschlägige neu verifizierte 2026-Primärentscheidung für eine tragfähige individuelle Ergänzung ausgewählt. Keine Behauptung, dass keinerlei neue Rechtsprechung existiert.",
+    "strafvollzug-jva/current JVA plugin nicht berührt.",
+    "Zentrale quality/evals-Profile, Qualitätsrunde, globale Referenzen, zentrale Tests, Hashlisten, Versionsdaten, Releases und sonstige Plugins durch diesen Beitrag unverändert.",
+    "Alte Fundstellen, insbesondere vorhandene ANOM-/ältere BVerfG-Bezüge in Strafrecht sowie weitere Verbandsklage-/WEG-Aussagen im Normenkontrollskill, nicht vollständig neu verifiziert. Dieser Bericht bescheinigt nur den abgegrenzten Vier-Entscheidungs-Abgleich.",
+    "Fremde Änderungen im gemeinsamen Worktree weder zurückgesetzt noch bearbeitet; keine Commits oder Pushes.",
+    "Unveränderter Artikel-15-Mini: 7491 UTF-8-Bytes bzw. 7538 CRLF-Bytes gemessen; etwaige zentrale CRLF-Grenze ist Bestandsbefund, nicht durch diese Runde verursacht."
+  ],
+  "verificationstatus": "Lokale Einzelprüfung abgeschlossen, zentrale QA ausstehend. Schreibruhe in allen zugewiesenen Plugins. Keine Modell-Evaluation oder Releaseprüfung durchgeführt."
+}

@@ -4,15 +4,15 @@ Prüfe die belastende Vertragsklausel und liefere die bestellte Bewertung, Ersat
 
 ## 1. Auftrag und Unterlagen
 
-Lies Vertrag und Korrespondenz zuerst. Ohne Auftrag kläre, ob Klauselprüfung, Ersatzregel oder Antwort gebraucht wird; keine ungefragte Gesamtanalyse. Bei klarem Auftrag arbeite direkt zum fertigen Text und frage nur nach entscheidenden Lücken, etwa der Abschlussfassung. Folgeantworten ändern die betroffene Bewertung oder Klausel, ohne neue Mandatsaufnahme.
+Lies Vertrag und Korrespondenz zuerst. Ohne Auftrag kläre Klauselprüfung, Ersatzregel oder Antwort; sonst direkt zum fertigen Text arbeiten. Nur entscheidende Lücken wie die Abschlussfassung fragen. Antworten in betroffene Klauseln einarbeiten, keine erneute Aufnahme.
 
-Beispiel: „40 Prozent Storno für künftige Verträge“ führt zur Frage nach gewöhnlichem Schaden und Weiterverwertung, sofern unbelegt. „Keine Statistik“ führt zu einer ausformulierten Regel über konkreten Schadensnachweis, nicht zu einer erfundenen zulässigen Quote. „Es wurde schon bezahlt“ eröffnet dagegen die gesonderte Rückforderungsprüfung; keine neue Klausel rückwirkend einsetzen. Bei nachgereichtem Kundenwiderspruch aus einer Umstellungsbestätigung ein ausdrückliches Änderungsangebot machen, soweit beauftragt; keine automatische Kündigung.
+Beispiel: Bei künftigen Stornopauschalen gewöhnlichen Schaden und Weiterverwertung klären. Ohne Statistik konkreten Schadensnachweis regeln, keine Quote erfinden. Bereits gezahlte Beträge gesondert prüfen, keine Ersatzklausel rückwirkend einsetzen. Nach Kundenwiderspruch gegebenenfalls Änderungsangebot statt Umstellungsbestätigung; keine automatische Kündigung.
 
 Erfasse Vertragstyp, Parteistatus, Verwender, Vertragsdatum, Fassung, Einbeziehung und Regelungsziel. B2B steht nicht schon durch eine Überschrift fest. Vertragsänderung, Individualabrede und erstmalige Einbeziehung unterscheiden.
 
 ## 2. Passende Aufgabe wählen
 
-Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugriff mit den Prüfstationen in Abschnitt 3 und den Quellen- und Formregeln in Abschnitt 5 weiterarbeiten; keine Zusatzdatei ist Voraussetzung des Klauselbefunds.
+Alle Links sind optional. Ohne Zugriff nach Abschnitt 3 und den Quellen-/Formregeln in Abschnitt 5 weiterarbeiten; keine Zusatzdatei ist erforderlich.
 
 2.1. Unverständliche Begriffe oder Verweisketten: [Klauseltransparenz prüfen](skills/klauseltransparenz-pruefen/SKILL.md).
 
@@ -22,7 +22,7 @@ Alle folgenden Skill- und Referenzlinks sind optionale Vertiefungen. Ohne Zugrif
 
 2.4. Eine Klausel neu schreiben: [Klauselvarianten entwerfen](skills/klauselvarianten-entwerfen/SKILL.md). Risikoprofil und Kundengruppe sind Eingaben, keine gesonderten Aufgaben.
 
-2.5. Haftungsausschluss, wesentliche Pflichten oder Höchstbetrag: [Haftungsbegrenzung prüfen und formulieren](skills/haftungsbegrenzung-pruefen-und-formulieren/SKILL.md). Bei Datenverlust, Modellfehlern oder KI-Leistungen stattdessen [Haftungsdeckel für Daten- und Modelldienste prüfen](skills/haftungsdeckel-fuer-daten-und-modelldienste-pruefen/SKILL.md); dort nur benötigte allgemeine Grundlagen hinzuladen.
+2.5. Haftung: [Haftungsbegrenzung](skills/haftungsbegrenzung-pruefen-und-formulieren/SKILL.md); bei Datenverlust, Modellfehlern oder KI-Leistungen [Daten- und Modelldienste](skills/haftungsdeckel-fuer-daten-und-modelldienste-pruefen/SKILL.md), Grundlagen nur bei Bedarf.
 
 2.6. Schiedsabrede: [Schiedsklausel prüfen und formulieren](skills/schiedsklausel-pruefen-und-formulieren/SKILL.md). Rechtswahl: [Rechtswahl und Vertragsstatut prüfen](skills/rechtswahl-und-vertragsstatut-pruefen/SKILL.md). Gerichtsstand und Vollstreckung bleiben getrennt.
 
@@ -38,6 +38,8 @@ Bei Schadenspauschalen nach Paragraf 309 Nummer 5 BGB gewöhnlichen Schaden und 
 
 BGH, Urteil vom 14.07.2026 – XI ZR 46/25, Rn. 26–32: Kein freies Verbraucherwahlrecht zur Gesamtnichtigkeit nach Paragraf 306 BGB; Ersatzrecht und unzumutbare Härte konkret prüfen.
 
+Preisänderung: BGH, Urteil vom 01.10.2026 - Az. III ZR 205/25, hier nur gelesene [Pressemitteilung 184/2026](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026184.html), Stand 16.10.2026; Volltext nicht gelesen, keine Randnummern. Unklar blieb: nur Kündigung oder Widerspruch mit Fortsetzung zum Altpreis, vorbehaltlich Anbieterkündigung? Intransparenz nach Paragraf 307 Absatz 1 BGB, kein allgemeines Preisänderungsverbot und keine individuelle Rückzahlung entschieden. Gesamte Preis-/Änderungs-/Zustimmungs-/Kündigungsklauseln und Kundenmitteilung lesen, Fehlendes anfordern. Vertrags-/Änderungsdatum und Normfassung prüfen. Bei Gestaltungsauftrag Klauselgruppe und Mitteilung mit gleichen Fristen und Folgen von Schweigen, Widerspruch und Kündigung liefern; Transparenz legitimiert keine Schweigefiktion und heilt den Altbestand nicht.
+
 ## 4. Anschlussaufträge getrennt halten
 
 Rückzahlung: [Rückabwicklung](skills/rechtsfolgen-rueckabwicklung-agb/SKILL.md). Eingegangene Abmahnung: [Abmahnung beantworten](skills/abmahnung-reagieren/SKILL.md). Verbandsunterlassung: [UKlaG-Verfahren](skills/uklag-unterlassung-verbandsklage/SKILL.md). Kollektive Abhilfe: [VDuG-Schnittstelle](skills/vdug-abhilfeklage-agb-schnittstelle/SKILL.md). Diese Aufgaben nicht zusammenlegen oder ungefragt einleiten. Widerruf nur bei entsprechendem Sachverhalt prüfen.
@@ -52,4 +54,4 @@ Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen a
 
 Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.
 
-Quellenabrufe und technische Prüfgrenzen separat vom Mandantenbrief dokumentieren. Ohne Datei- oder Quellenzugriff nur den betroffenen Teil als ungeprüft kennzeichnen; ohne Export den Text liefern. Bei Abruffehlern einen geeigneten Alternativweg versuchen, dann das Hindernis und den nutzbaren Teilstand nennen. Keine Dateierzeugung oder vollständige Aktenprüfung behaupten, die nicht erfolgt ist.
+Quellen- und Zugriffsgrenzen separat vom Brief dokumentieren. Bei Abruffehlern Alternativzugriff versuchen, verbleibende Lücke nennen und unabhängig bearbeitbare Teile liefern. Ohne Export Text statt Dateilink; keine nicht erfolgte Prüfung behaupten.

@@ -1,148 +1,74 @@
 ---
 name: fachanwalt-arbeitsrecht-bem-verfahren
-description: "Für BEM-Verfahren Paragraf 167 II SGB IX: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft BEM-Verfahren nach Paragraf 167 Absatz 2 SGB IX, mildere Mittel und Kündigungsrisiken; liefert Einladung, Stellungnahme oder prozessualen Entwurf mit belegten Fristen."
 ---
 
-# BEM-Verfahren Paragraf 167 II SGB IX
+# Betriebliches Eingliederungsmanagement prüfen
 
-## Zweck
+## 1. Zweck und Anwendungsfall
 
-Das Betriebliche Eingliederungs-Management (BEM) ist Pflicht bei mehr als 6 Wochen AU innerhalb eines Jahres. Versäumnis führt fast immer zu **Unwirksamkeit einer personenbedingten Kündigung** (BAG-Linie).
+Prüfe ein BEM-Angebot, dessen Durchführung oder die Bedeutung eines fehlenden BEM für eine krankheitsbedingte Kündigung. Liefere die bestellte Einladung, Stellungnahme oder den Klage-/Erwiderungsentwurf. Fehlendes erforderliches BEM verschärft die Arbeitgeberdarlegung zu milderen Mitteln, führt aber nicht automatisch zur Unwirksamkeit. Maßgeblicher aktueller Anker ist BAG, Urteil vom 07.05.2026, 2 AZR 184/25; Quelle und Grenzen stehen in Abschnitt 3.3.
 
-## 1) Eingangs-Abfrage
+## 2. Eingaben
 
-1. **AU-Dauer im letzten Jahr**: Summenanalyse > 6 Wochen?
-2. AU-Grund: einmalig (Unfall) oder chronisch (Rueckenleiden, psychisch)?
-3. Schwerbehinderten-Status?
-4. Hat AG **BEM-Einladung** ausgesprochen?
-5. AN reagiert/teilnahme?
-6. Aktueller Zustand: Wiedereingliederung möglich?
+Lies vorhandene Einladung, Zugangsnachweis, Reaktion, Maßnahmenprotokolle und Kündigung zuerst. Erfasse Arbeitsunfähigkeitszeiten im rollierenden Jahreszeitraum, Arbeitszeitmodell, Arbeitsplatzanforderungen, bereits erprobte Hilfen, Beschäftigungsdauer und betriebliche Vertretungen. Bei Schwerbehinderung oder Gleichstellung Bescheide, Anträge, Arbeitgeberkenntnis und Integrationsamtsunterlagen getrennt erfassen. Frage nur nach entscheidenden Lücken; keine vollständige Diagnosehistorie ohne konkreten Bedarf verlangen. Neue Belege in denselben Entwurf einarbeiten.
 
-## 2) Pflicht des Arbeitgebers Paragraf 167 II SGB IX
+## 3. Ablauf und Fachprüfung
 
-> "Sind Beschaeftigte innerhalb eines Jahres laenger als sechs Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen Interessenvertretung im Sinne des Paragraf 176, bei schwerbehinderten Menschen außerdem mit der Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit möglichst überwunden werden und mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches Eingliederungsmanagement)."
+### 3.1. Pflicht, Einladung und Beteiligung
 
-## 3) Wirksamkeit der personenbedingten Kündigung
+[Paragraf 167 Absatz 2 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__167.html) betrifft alle Beschäftigten, nicht nur schwerbehinderte Menschen. Die aktuell abgerufene Fassung nennt mehr als sechs Wochen ununterbrochene oder wiederholte Arbeitsunfähigkeit oder teilweise Arbeitsunfähigkeit innerhalb eines Jahres. Kein Kalenderjahreswechsel und keine starre Wartezeit bis zum nächsten Jahr. Für zurückliegende Vorgänge die damals geltende Fassung prüfen.
 
-### BAG-Linie
+Der Arbeitgeber eröffnet den Suchprozess; die Teilnahme setzt Zustimmung und Beteiligung der betroffenen Person voraus. Vorher Ziele sowie Art und Umfang der erhobenen und verwendeten Daten erklären. Die zuständige Interessenvertretung und gegebenenfalls die Schwerbehindertenvertretung im gesetzlichen Rahmen beteiligen; eine Vertrauensperson eigener Wahl ermöglichen. Soweit erforderlich Betriebsarzt hinzuziehen. Bei möglichen Teilhabeleistungen Rehabilitationsträger beziehungsweise bei schwerbehinderten Beschäftigten das Integrationsamt einbeziehen. Fehlende betriebliche Vertretungen beseitigen die BEM-Pflicht nicht.
 
-- **BAG, Urteil vom 20.11.2014 - 2 AZR 755/13**: Der Arbeitgeber traegt die Initiativlast zur Durchfuehrung des BEM (Paragraf 167 Abs. 2 SGB IX); er muss den Arbeitnehmer ueber Ziele, Art und Umfang der zu erhebenden Daten unterrichten. Quelle: dejure.org-Vernetzung BAG 20.11.2014 - 2 AZR 755/13.
-- **BAG, Urteil vom 10.12.2009 - 2 AZR 400/08**: BEM ist zwar keine formelle Wirksamkeitsvoraussetzung der Kuendigung, aber faktisch entscheidend; Arbeitgeber ohne BEM hat erhebliche Darlegungslast, dass auch ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 10.12.2009 - 2 AZR 400/08.
-- **BAG, Urteil vom 18.11.2021 - 2 AZR 138/21**: Auch nach abgeschlossenem BEM ist grundsaetzlich ein erneutes BEM durchzufuehren, wenn der Arbeitnehmer innerhalb eines Jahres wieder mehr als 6 Wochen arbeitsunfaehig war. Quelle: dejure.org-Vernetzung.
-- **BAG, Urteil vom 15.12.2022 - 2 AZR 162/22**: Die Zustimmung des Integrationsamts zur krankheitsbedingten Kuendigung schwerbehinderter Menschen entbindet den Arbeitgeber nicht von der BEM-Pflicht; sie begruendet auch keine Vermutung, dass ein BEM die Kuendigung nicht haette verhindern koennen. Quelle: dejure.org-Vernetzung BAG 15.12.2022 - 2 AZR 162/22.
+Ein schriftliches Angebot erleichtert den Beweis, ist aber nicht mit einer gesetzlich zwingenden Schriftform jeder Erklärung gleichzusetzen. Inhalt, Zugang und Reaktion dokumentieren. Weder Zustimmung noch Ablehnung dürfen als dauerhafter Verzicht behandelt werden. Verweigert die Person eine vorformulierte Datenschutzunterschrift, nicht ohne Weiteres Teilnahmeverweigerung annehmen: Zunächst Verfahren und berechtigte Vorbehalte klären, ohne Gesundheitsdaten unbefugt zu verarbeiten; BAG, Urteil vom 15.12.2022, 2 AZR 162/22, Rn. 16 bis 18.
 
-### Konsequenz
+### 3.2. Durchführung und Maßnahmen
 
-Ohne BEM = Kündigungsschutzklage **gewinnbar** in 80-90 % der Fälle.
+Arbeitsplatzbelastungen, funktionelle Einschränkungen und realistische Anpassungen offen erörtern. Arbeitsplatzgestaltung, Arbeitsorganisation, Arbeitszeit, anderer geeigneter Arbeitsplatz und Leistungen zur Teilhabe prüfen. Maßnahmen, Zuständigkeiten, Einverständnis, Umsetzung und einen sachgerechten Überprüfungstermin festhalten. Keine starre gesetzliche Evaluation nach drei, sechs oder zwölf Monaten behaupten. Neue erhebliche Fehlzeiten können schon vorher ein erneutes Angebot auslösen.
 
-## 4) Ablauf des BEM
+Die stufenweise Wiedereingliederung ist eine mögliche Maßnahme, nicht das gesamte BEM. Aktuelle Grundlagen sind [Paragraf 74 SGB V](https://www.gesetze-im-internet.de/sgb_5/__74.html) und [Paragraf 44 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__44.html). Ärztlichen Stufenplan, mögliche Tätigkeiten, Belastungsumfang, Prognose und Beteiligung der Leistungsträger prüfen. Kein freies Ablehnungsrecht des Arbeitgebers versprechen: Bei Schwerbehinderung oder Gleichstellung kann sich eine Mitwirkungspflicht aus [Paragraf 164 Absatz 4 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__164.html) ergeben; Zumutbarkeit und entgegenstehende Schutzvorschriften beachten. Entgelt, Krankengeld oder Übergangsgeld nach konkreter Anspruchsgrundlage und Leistungsstand prüfen, weder automatische Krankengeldfortzahlung noch vollständigen Entgeltausschluss behaupten.
 
-### Schritt 1 — Einladung
+### 3.3. Kündigung und Beweislast
 
-- AG schreibt AN **schriftlich** an, dass BEM angeboten wird
-- Hinweis auf **Freiwilligkeit** der Teilnahme
-- Hinweis auf Beteiligung BR/SBV (mit Zustimmung AN)
+Anwendungsbereich des KSchG, negative Gesundheitsprognose, erhebliche betriebliche Beeinträchtigung, mildere Mittel und Interessenabwägung getrennt prüfen. Das BEM ist ein Verfahren zur Ermittlung von Alternativen, keine formelle Wirksamkeitsvoraussetzung jeder Kündigung. Bei Verfahrensfehlern deren möglichen Einfluss auf die Suche nach milderen Mitteln untersuchen; nicht jeder Fehler hat dieselbe kündigungsrechtliche Bedeutung.
 
-### Schritt 2 — Erst-Gespräch
+[BAG, Urteil vom 07.05.2026, 2 AZR 184/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/), Rn. 16 bis 20 und 33 bis 37: Unterbleibt ein erforderliches ordnungsgemäßes Angebot, muss der Arbeitgeber konkret darlegen, weshalb ein BEM keine milderen Mittel hätte aufzeigen können. Objektive Nutzlosigkeit bleibt darlegbar; private Krankheitsursachen allein genügen nicht. Nach erneut mehr als sechs Wochen Arbeitsunfähigkeit innerhalb eines Jahres kann ein neues Angebot nötig sein, auch nach früherer Ablehnung oder Schweigen.
 
-- Mit AG, BR/SBV, AN
-- Vertraulichkeit
-- AN bestimmt, welche AU-Gründe offenbart werden
+Rn. 21 bis 32 betreffen den bestrittenen Zugang einer BEM-Einladung: Im festgestellten Scan-Verfahren trug die Bestätigung vor Einwurf auch mit Auslieferungsbeleg keinen Anscheinsbeweis. Zustellablauf, Unterschrift, Erinnerung oder konkret beschriebene Routine des Zustellers prüfen; Zeugenbeweis bleibt möglich. Fehlender Anscheinsbeweis beweist keinen Nichtzugang; fehlende Einzelerinnerung verwirft Zeugenbeweis nicht generell. Das frühere Peel-off-Verfahren blieb offen.
 
-### Schritt 3 — Maßnahmen-Plan
+[BAG, Urteil vom 15.12.2022, 2 AZR 162/22](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-162-22/), Rn. 14 bis 18 und 27 bis 29: Die Zustimmung des Integrationsamts ersetzt das BEM nicht und begründet keine Vermutung seiner Nutzlosigkeit. Keine pauschalen Erfolgsquoten oder aus dem fehlenden BEM abgeleiteten Abfindungsansprüche nennen. Vergleichsbeträge nur als begründete Verhandlungsposition aus Prozessrisiko und Mandatsziel entwickeln, nicht als typische feste Monatsgehaltsbandbreite.
 
-- Anpassung Arbeitsplatz (Stuhl, Hilfsmittel, Telearbeit)
-- Änderung Arbeitszeit (Teilzeit, Schicht)
-- Versetzung intern
-- Wiedereingliederung **Hamburger Modell** Paragraf 74 SGB V iVm Paragraf 28 SGB IX
+### 3.4. Schwerbehindertenstatus und Integrationsamt
 
-### Schritt 4 — Umsetzung und Evaluation
+Feststellung von Behinderung und Grad erfolgt nach [Paragraf 152 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__152.html) durch die zuständige Feststellungsbehörde. Eine Gleichstellung erfolgt auf Antrag durch die Bundesagentur für Arbeit nach [Paragraf 151 Absatz 2 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__151.html). Beides von der Kündigungszustimmung des Integrationsamts trennen.
 
-- Dokumentation
-- Nach 6-12 Monaten Review
+Die vorherige Zustimmung nach [Paragraf 168 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__168.html) gilt im gesetzlichen Schutzbereich auch für gleichgestellte Beschäftigte. Vor einer Unwirksamkeitsaussage die Ausnahmen nach [Paragraf 173 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__173.html) prüfen, insbesondere ein bei Kündigungszugang noch nicht länger als sechs Monate bestehendes Arbeitsverhältnis. Bei noch laufender Feststellung oder Gleichstellung Antrag, Mitwirkung, Nachweis und einschlägige Rechtsprechung zu Absatz 3 prüfen; aus einem fehlenden Bescheid nicht pauschal Schutzverlust ableiten. Nur wenn erforderliche Zustimmung fehlt, diesen eigenständigen Unwirksamkeitsgrund verfolgen.
 
-## 5) Zustimmung Integrationsamt bei Schwerbehinderten Paragraf 168 SGB IX
+Für die ordentliche Kündigung nach [Paragraf 171 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__171.html) die Soll-Entscheidungsfrist von einem Monat ab Antragseingang von der Kündigungserklärungsfrist von einem Monat nach Zustellung der Zustimmung unterscheiden. Fristablauf bedeutet nicht generell Zustimmung; eine Fiktion greift nur in den gesetzlich geregelten Sonderfällen. Widerspruch und Anfechtungsklage gegen die Zustimmung haben nach Absatz 4 keine aufschiebende Wirkung.
 
-- Bei Schwerbehinderten zwingend **vor Kündigung** Zustimmung Integrationsamt
-- Frist Integrationsamt: 1 Monat (Verlängerung möglich)
-- Bei Verstoß: Kündigung **nichtig**
+Bei außerordentlicher Kündigung gilt [Paragraf 174 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__174.html): Antragseingang grundsätzlich binnen zwei Wochen ab Kenntnis der maßgebenden Tatsachen; Entscheidung binnen zwei Wochen ab Antragseingang, andernfalls gesetzliche Zustimmungsfiktion. Die unverzügliche Kündigung nach Zustimmung gemäß Absatz 5 gesondert prüfen. Keine allgemeine Monatsfrist auf diesen Fall übertragen.
 
-## 6) AN-Strategie bei Kündigung trotz fehlendem BEM
+Beteiligung einer bestehenden Schwerbehindertenvertretung nach [Paragraf 178 Absatz 2 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__178.html) und Anhörung eines bestehenden Betriebsrats nach [Paragraf 102 BetrVG](https://www.gesetze-im-internet.de/betrvg/__102.html) getrennt von BEM und Integrationsamtszustimmung prüfen.
 
-### Schritt 1 — Klage binnen 3 Wochen nach Zugang (Paragraf 4 KSchG)
+### 3.5. Frist, Strategie und Kosten
 
-- Verfahrensvermerk: AG hat BEM nicht durchgeführt
+Bei Kündigung [Paragraf 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html) anwenden: grundsätzlich drei Wochen ab Zugang der schriftlichen Kündigung; bei behördlicher Zustimmung den besonderen Fristbeginn nach Satz 4 gesondert prüfen. Zur Sicherung nicht ungeprüft das Behördenverfahren abwarten. Bei Versäumung die Voraussetzungen und Fristen nach [Paragraf 5 KSchG](https://www.gesetze-im-internet.de/kschg/__5.html) prüfen.
 
-### Schritt 2 — Beweisaufnahme
+Arbeitnehmerseitig fehlendes oder fehlerhaftes Angebot, Zugangsbestreiten und konkrete Beschäftigungsalternativen belegen. Arbeitgeberseitig alle vernünftigerweise in Betracht kommenden Anpassungen und Hilfen prüfen und behauptete Nutzlosigkeit substantiiert begründen. Nach Eingang neuer Unterlagen Frist, Beweisangebot und Entwurf gezielt aktualisieren.
 
-- AG muss darlegen **konkret**, warum BEM aussichtslos war
-- BAG-Linie: nicht ausreichend "BEM hätte nichts gebracht"
+Vergütung der Beratung gesondert vereinbaren beziehungsweise nach den einschlägigen Gebührenregeln prüfen. [Paragraf 42 Absatz 2 GKG](https://www.gesetze-im-internet.de/gkg_2004/__42.html) setzt für Bestandsstreitigkeiten höchstens ein Vierteljahresentgelt an, nicht stets zwingend drei Monatsgehälter; eine Abfindung wird nicht hinzugerechnet. Streitwert, Honorar und Vergleichsbetrag nicht gleichsetzen.
 
-### Schritt 3 — Verhandlungs-Position
+## 4. Quellenpflicht
 
-- Bei fehlendem BEM: Vergleichs-Bereitschaft AG hoch
-- Abfindung typisch 0,75-1,5 Brutto-Monatsgehaelter pro Beschaeftigungsjahr
+Die verlinkten Normen sowie die bezeichneten tragenden Urteilspassagen wurden am 16.10.2026 amtlich abgeglichen. Bei gescheitertem Web-Abruf wurde die amtliche Normseite rein lesend direkt abgerufen. Maßgebliche historische Fassung, neue Tatsachen und spätere Fortentwicklung vor Fallverwendung prüfen. Zitierweise nach [Referenz](../../references/zitierweise.md). Keine erfundenen Fundstellen, Prozentwerte oder vermeintlichen Abfindungstarife; Literatur nur aus bereitgestellter oder zugänglich verifizierter Quelle verwenden.
 
-## 7) AG-Strategie
+## 5. Ausgabeformat
 
-### Saubere Dokumentation
+Liefere die bestellte Einladung, Stellungnahme oder den Schriftsatz in vollständigen, ausformulierten Sätzen. Keine bloße Fragenliste oder Stichwortvorlage als Endprodukt. Benenne erforderliche Maßnahme, Tatsachen und Belege, konkreten Einwand, Frist und nächste Handlung. Offene Angaben nur an der betroffenen Stelle markieren. Zustimmungsantrag, Kündigung und Gerichtseinreichung benötigen jeweils gesonderte Freigabe; keine erfolgte Handlung vortäuschen.
 
-- Einladung schriftlich, Zugangs-Nachweis
-- AN-Ablehnung schriftlich (Verzicht-Erklärung)
-- Bei Teilnahme: Protokoll des Erst-Gesprächs
-- Maßnahmen-Plan schriftlich
-- Evaluation nach 3-6-12 Monaten
+Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Interne Quellen-, Risiko- und Exportvermerke vom Empfängertext trennen. Ohne Export vollständigen Text liefern. Bei Arbeitsauftrag im Kündigungsprozess an den passenden Kündigungsschutzskill anschließen; vereinbarte Trennung und offene Sozialleistungen getrennt weiterbearbeiten.
 
-### Bei AN-Ablehnung
+## 6. Gegenfälle zur Kontrolle
 
-- AN muss **schriftlich** verzichten
-- AG ist von Pflicht entlastet
-- Aber: Pflicht endet nicht bei jedem AU-Fall
-
-## 8) Hamburger Modell — Stufenweise Wiedereingliederung
-
-- Ärztliches Attest mit Stufen-Plan (z.B. 3h, 4h, 6h, 8h)
-- AG entscheidet über Teilnahme — kann auch ablehnen
-- Lohnzahlung während Wiedereingliederung: typisch keine (Krankengeld bleibt)
-- Bei Erfolg: Zurueck zur vollen Arbeitsfähigkeit
-- Bei Misserfolg: BEM-Folge-Termin
-
-## 9) Typische Fehler
-
-1. **AG führt BEM gar nicht durch** — Kündigung waekt unwirksam
-2. **Einladung ohne Hinweis auf Freiwilligkeit** — formale Pflicht
-3. **Bei AN-Ablehnung kein Verzicht-Schriftstück** — Beweisproblem
-4. **Schwerbehinderten-Zustimmung Integrationsamt vergessen** — Kündigung nichtig
-5. **BEM nur einmalig**, nicht bei wiederholten AU-Fällen — Pflicht-Verletzung
-
-## 10) Honorar
-
-- BEM-Begleitung: pauschal oder Stundensatz
-- Kündigungsschutzklage: Paragraf 42 II GKG (3 Brutto-Monatsgehaelter Streitwert)
-- Vergleich oft mit Abfindungs-Quote
-
-## Anschluss
-
-- `fachanwalt-arbeitsrecht-kuendigungsschutzklage` — bei Klage
-- `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` — bei einvernehmlicher Lösung
-- `fachanwalt-sozialrecht-krankengeld-aussteuerung` — bei laufender Krankheit
-
-## Aktuelle Rechtsprechung (Stand Mai 2026)
-
-- BAG, 20.11.2014 - 2 AZR 755/13: Initiativlast und Datenschutz-Unterrichtung. Quelle: dejure.org-Vernetzung.
-- BAG, 10.12.2009 - 2 AZR 400/08: Konkretisierung der Darlegungslast bei fehlendem BEM. Quelle: dejure.org-Vernetzung.
-- BAG, 18.11.2021 - 2 AZR 138/21: Erneutes BEM bei > 6 Wochen AU im Folgejahr. Quelle: dejure.org-Vernetzung.
-- BAG, 15.12.2022 - 2 AZR 162/22: Integrationsamtszustimmung entbindet nicht von BEM-Pflicht; keine Vermutung gegen Verhinderbarkeit. Quelle: dejure.org-Vernetzung.
-- Aktuellere Rechtsprechung (Q4/2025 - Q2/2026) zur BEM-Substantiierung in offenen Quellen vor Schriftsatzverwendung pruefen.
-
-## Paragrafenkette
-
-- Paragraf 167 Abs. 2 SGB IX — BEM-Pflicht ab sechs Wochen AU
-- Paragraf 168 SGB IX — Zustimmung Integrationsamt bei Schwerbehinderten
-- Paragraf 1 Abs. 2 KSchG — personenbedingte Kündigung (Ultima Ratio nach BEM)
-- Paragraf 84 SGB IX a.F. / Paragraf 167 SGB IX n.F. — Wiedereingliederung
-- Paragraf 69 SGB IX — Feststellung Schwerbehinderung
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Ein Beschäftigter ohne Schwerbehinderung kann BEM-berechtigt sein. Eine Zustimmung des Integrationsamts beweist nicht die Nutzlosigkeit eines BEM. Nach früherer Ablehnung können neue Fehlzeiten ein neues Angebot auslösen. In den ersten sechs Beschäftigungsmonaten ist die Ausnahme vom besonderen Zustimmungserfordernis zu prüfen, nicht automatisch ein Zustimmungsfehler zu behaupten. Bloßer Ablauf eines Monats erzeugt bei ordentlicher Kündigung nicht stets eine Zustimmungsfiktion. Eine verweigerte Datenschutzunterschrift ist nicht ohne Weiteres eine verweigerte BEM-Teilnahme.

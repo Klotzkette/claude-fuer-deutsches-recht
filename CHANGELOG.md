@@ -1,3 +1,11 @@
+# Rechtsprechungsvertiefung des Quellstands – 2026-10-16
+
+21 gezielt verifizierte Entscheidungen in 31 Fachpaketen mit konkreten Rückfragen, Prüfwegen und Folgeprodukten eingearbeitet. Schwerpunkt sind Arbeits-, Miet-, Erb-, Familien-, Pflege-, Renten-, Steuer-, Bank-, Insolvenz-, Medizin-, Verwaltungs-, Straf-, Daten-, Urheber- und Vergaberecht. Volltext, ausgewertete Passagen, Pressemitteilung und Terminbericht bleiben im Quellenstatus getrennt; Grenzen und Gegenfälle stehen bei den jeweiligen Aussagen.
+
+Konkrete Altfehler zu Sachgrundbenennung, verspäteter Befristungskontrollklage, BEM, Härtewiderspruch, Patientenaktenkopie, Approbationsmaßnahmen, Regressverjährung und Gerichtszuordnung berichtigt. Neue Regressionen sichern die korrigierten Norm-, Kosten- und Zuständigkeitsaussagen. Die README-Gliederung vermeidet doppelte Sprungziele; Skill-Übersichten und dokumentierte Promptfassungen sind abgeglichen.
+
+Nachweise unter `quality/rechtsprechung-vertiefung-2026-10-16/`. Keine pauschale Neuverifikation aller Altquellen, kein Live-Modelltest und keine Änderung bestehender Fallaktenpakete. Bestehende Versionstags und Release-Archive bleiben unverändert; die Prüfung verbessert den Quellstand.
+
 # phishing-v445.35.4 – 2026-10-16
 
 EuGH C-70/25 wird anhand des amtlichen Volltexts in sieben fachlich passenden Plugins eingeordnet. Phishing-Skills, Werkstatt, Mini, Vorlagen und Offline-Hilfe trennen unverzügliche Erstattung und späteren Rückgriff. Elf Regressionen sichern die wesentlichen Entscheidungswege und Eingabegrenzen.

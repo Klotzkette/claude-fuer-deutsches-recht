@@ -13,6 +13,12 @@ Prüfung am 10.10.2026. Die GVB-Akte beginnt im Juli 2026. Zeitlicher Anwendungs
 
 ## 1.2. Europäische Entscheidungen
 
+Gezielte Ergänzung vom 16.10.2026: [EuGH, Urteil vom 22.01.2026, Az. C-812/24, LIPOR und PreZero Portugal, ECLI:EU:C:2026:38](https://juris.curia.europa.eu/juris/document/document.jsf?docid=307909&doclang=DE), Rn. 39 bis 65 und Tenor im amtlichen deutschen Text gelesen. EUR-Lex und CURIA waren im Webabruf nicht lesbar; der unmittelbare öffentliche CURIA-Abruf lieferte den Urteilstext. Keine bloße Pressemitteilung oder Übernahme eines portugiesischen Folgeurteils.
+
+Auch die hundertprozentige Tochter bleibt bei Eignungsleihe ein anderes Unternehmen. Vorliegende Bescheinigungen können die gesonderte EEE ersetzen; andernfalls ist eine Ergänzung unter den nationalen Regeln und Gleichbehandlung zu prüfen. Rn. 64 setzt bei der dort behandelten Mängelbehebung eine im Angebot benannte Tochter und bereits bestehende Tatsachen voraus. Die punktuelle Aussage zur personenidentischen Geschäftsführung in Rn. 59 ersetzt nicht sämtliche Ausschlussnachweise. Der Fall betrifft Richtlinie 2014/24/EU; die Übertragung auf Reinigung nach SektVO erfolgt nur mit eigenständiger Prüfung von Paragrafen 47 und 51 SektVO sowie Paragraf 142 GWB. Paragrafen 47 und 51 SektVO wurden am 16.10.2026 erneut amtlich gelesen. Kein bedingungsloser Nachforderungsanspruch und keine neue Eignungsleihe unter dem Etikett Formularberichtigung.
+
+Gegenprobe für B1: Benannte Tochter mit vorhandenen Sachnachweisen, aber fehlender EEE, anders behandeln als erstmals nach Fristablauf angebotene Konzernreferenz. Erst die noch ungedeckte Nachweisfrage bestimmen, dann zulässige Nachforderung oder begründeten Ablehnungsentwurf erstellen. Die älteren Quellenstände der folgenden Tabelle bleiben unverändert.
+
 | Anker | Verwendung | Nachweis und Reichweite |
 | --- | --- | --- |
 | EuGH, 28.10.2020, C-521/18, Pegaso | Funktionaler Sektorenbezug | [Amtlicher Nachweis](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0521). Postdienste; kein pauschaler Freibrief für jede Beschaffung. |

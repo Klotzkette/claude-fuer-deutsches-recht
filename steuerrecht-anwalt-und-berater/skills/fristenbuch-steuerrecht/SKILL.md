@@ -90,6 +90,8 @@ description: "Für Fristenbuch Steuerrecht: prüft Frist, Form, Zuständigkeit u
 - **Pflichtveranlagung** sieben Monate nach Ablauf des Kalenderjahrs (§ 149 Abs. 2 AO).
 - **Bei steuerlicher Vertretung** durch Steuerberater Verlängerung bis Ende Februar des übernächsten Jahres (§ 149 Abs. 3 AO).
 
+Jahresbezogene Übergänge nach Artikel 97 Paragraf 36 EGAO und eine Vorabanforderung gesondert prüfen. Für zusätzliche Verlängerung beratener Erklärungsfristen gilt Paragraf 109 Absatz 2 AO: [BFH, Beschluss vom 18.09.2026, X B 121/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/), Rn. 17–22 und 38, verlangt fehlendes Verschulden nach den Wiedereinsetzungsmaßstäben; Verschulden von Vertreter oder Erfüllungsgehilfen ist zurechenbar. Arbeitslast und Rückstände des Finanzamts in anderen Fällen reichen nicht. Ausfallzeit, Gesamtpersonal, zumutbare Abhilfen und konkrete Auswirkungen am Fristende erheben und den Verlängerungsantrag damit begründen. Keine automatische Verlängerung durch Antragstellung eintragen; Entscheidung und Nachweis sichern. Amtlicher Volltext und Paragraf 109 am 16.10.2026 gelesen. Kein generelles Verlängerungsverbot, keine Übertragung auf Einspruchsfristen; die Nichtzulassungsbeschwerde blieb erfolglos.
+
 ### USt-Voranmeldung (§ 18 UStG)
 
 - **Monatlich** wenn Steuer im Vorjahr über 7500 EUR; **vierteljaehrlich** sonst.

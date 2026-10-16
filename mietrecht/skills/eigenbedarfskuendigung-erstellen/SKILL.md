@@ -68,7 +68,7 @@ Der Mieter kann der Kündigung widersprechen wenn:
 
 - Beendigung eine **Härte** bedeutet die auch unter Würdigung der berechtigten Interessen des Vermieters nicht zu rechtfertigen ist.
 - Klassische Härtefälle: hohes Alter Krankheit Schwangerschaft fehlender Ersatzwohnraum.
-- Widerspruch ist spätestens **zwei Monate vor Ende** der Mietzeit zu erklären (§ 574b Abs. 2 BGB).
+- Widerspruch ist in **Textform** spätestens **zwei Monate vor Ende** der Mietzeit zu erklären ([§ 574b Abs. 1 und 2 BGB](https://www.gesetze-im-internet.de/bgb/__574b.html)); keine eigenhändige Unterschrift erforderlich.
 - Rechtsfolge: Fortsetzung des Mietverhältnisses für angemessene Zeit (§ 574a BGB).
 
 Der Vermieter muss im Kündigungsschreiben auf das Widerspruchsrecht hinweisen (§ 568 Abs. 2 BGB) — sonst verlängerte Widerspruchsfrist.
@@ -95,7 +95,7 @@ Erzeuge ein Kündigungsschreiben mit:
 3. Bezugnahme auf den Mietvertrag (Datum Mietsache).
 4. Kündigungserklärung mit konkretem Endtermin.
 5. Begründung nach § 573 Abs. 3 BGB: begünstigte Person Verhältnis Wohnsituation Bedarfslage.
-6. Hinweis auf das Widerspruchsrecht des Mieters nach § 574 BGB und die Widerspruchsfrist nach § 574b Abs. 2 BGB.
+6. Hinweis auf das Widerspruchsrecht des Mieters nach § 574 BGB, die Textform nach § 574b Abs. 1 BGB und die Widerspruchsfrist nach § 574b Abs. 2 BGB.
 7. Eigenhaendige Unterschrift aller Vermieter.
 8. **Disclaimer** — Hinweis dass der Mieter sich beraten lassen sollte (Mieterverein Fachanwalt).
 
@@ -116,7 +116,7 @@ Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de mit Dat
 
 ## Paragrafenkette Eigenbedarfskündigung
 
-§ 573 Abs. 2 Nr. 2 BGB (berechtigtes Interesse Eigenbedarf) → § 573 Abs. 3 BGB (Begründungspflicht) → § 573c BGB (Kündigungsfristen) → § 568 Abs. 1 BGB (Schriftform) → § 568 Abs. 2 BGB (Widerspruchshinweis) → § 574 BGB (Sozialklausel Widerspruch) → § 574b BGB (Widerspruchsfrist 2 Monate) → § 577a BGB (Sperrfrist nach Umwandlung) → § 280 BGB (Schadensersatz bei vorgetäuschtem Eigenbedarf)
+§ 573 Abs. 2 Nr. 2 BGB (berechtigtes Interesse Eigenbedarf) → § 573 Abs. 3 BGB (Begründungspflicht) → § 573c BGB (Kündigungsfristen) → § 568 Abs. 1 BGB (Schriftform) → § 568 Abs. 2 BGB (Widerspruchshinweis) → § 574 BGB (Sozialklausel Widerspruch) → § 574b BGB (Textform des Widerspruchs, Widerspruchsfrist 2 Monate) → § 577a BGB (Sperrfrist nach Umwandlung) → § 280 BGB (Schadensersatz bei vorgetäuschtem Eigenbedarf)
 
 ## Triage vor Erstellung Eigenbedarfskündigung
 
@@ -156,7 +156,7 @@ Die aktuelle Unterkunft ist nicht zumutbar, weil [BEDARFSGRUND: zu klein/zu weit
 Hinweis auf Widerspruchsrecht (§ 574 BGB):
 Sie können der Kündigung widersprechen, wenn die Beendigung des Mietverhältnisses
 für Sie eine unzumutbare Härte bedeutet. Der Widerspruch muss spätestens zwei Monate
-vor Ablauf der Kündigungsfrist schriftlich erfolgen (§ 574b Abs. 2 BGB).
+vor Ablauf der Kündigungsfrist in Textform erklärt werden (§ 574b Abs. 1 und 2 BGB).
 
 Mit freundlichen Grüßen
 [EIGENHAENDIGE UNTERSCHRIFT ALLER VERMIETER]

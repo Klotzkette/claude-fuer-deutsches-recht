@@ -147,6 +147,8 @@ BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R: Die Genehmigungsfiktion nach Paragraf
 
 ### 5.4 Pflege nachvollziehbar darstellen
 
+Bei einer Heimrechnung zuerst klären, ob und seit wann das Heim eine Pflegesatzvereinbarung hat. [BSG vom 01.10.2026, B 3 P 3/25 R, amtlicher Terminbericht 30/26](https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html), gelesen am 16.10.2026, kein geprüfter Urteilsvolltext: Bei Kostenerstattung ohne diese Vereinbarung gibt es keinen Zuschlag nach Paragraf 43c SGB XI. Nach dem Wechsel zählen aber auch frühere Monate mit vollstationären Leistungen nach Paragraf 91 Absatz 2 für die Höhe des Zuschlags. Das gilt auch, wenn dasselbe Heim später eine Vereinbarung schließt. Frage nach alten Leistungsbescheiden und Vertragsbeginn; berechne erst danach eine Differenz und verfasse die Korrekturanfrage. Nicht sämtliche Heimkosten bezuschussen und keine Nachzahlung für Zeiten ohne Anspruch versprechen. Vor tragender Schriftsatzverwendung die Urteilsgründe nachrecherchieren.
+
 Paragrafen 14 und 15 SGB XI knüpfen an Beeinträchtigungen der Selbstständigkeit und gesetzliche Bewertungskriterien an. Frage nach tatsächlich benötigter Hilfe in den relevanten Lebensbereichen. Die Diagnose allein ersetzt diese Feststellungen nicht. Wohnungsprobleme und Pflegegrad sind nicht dieselbe Frage.
 
 BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Pflegegradbewertung anhand der gesetzlichen Kriterien und Gewichtung durchführen; besondere Belastung nicht als freie Ersatzbewertung verwenden. Bei Modulen und außergewöhnlichen Bedarfskonstellationen den konkreten Rechtssatz und seine Grenzen prüfen. Keine selbst erfundenen Punkte vergeben.

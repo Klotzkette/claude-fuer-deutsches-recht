@@ -13,6 +13,7 @@ from zipfile import ZipFile
 from xml.etree import ElementTree as ET
 
 from quality_lab import validate_profile
+from prompt_limits import mini_within_limits
 
 ROOT = Path(__file__).resolve().parent.parent
 PLUGIN = ROOT / "mietchecker"
@@ -91,7 +92,7 @@ class MietcheckerTests(unittest.TestCase):
             path = PLUGIN / f"mietchecker-{kind}.md"
             content = path.read_text()
             if kind == "schnellstart":
-                self.assertLessEqual(len(path.read_bytes()), 7400)
+                self.assertTrue(mini_within_limits("mietchecker", path.read_bytes()))
             else:
                 self.assertGreater(len(path.read_bytes()), 12000)
             for anchor in ("VIII ZR 266/14", "VIII ZR 52/18", "VIII ZR 123/20", "VIII ZR 229/22",

@@ -130,20 +130,27 @@
       "verification_status": "frisch_amtlicher_volltext_passagen",
       "source_sha256": "c46c1e27980a38da883711830056cf38e4d9825457d2dbe7a00179d3bdbadbe1",
       "source_audit": "quality/source-audits/fachanwaltschaft-2026-10-01/fachanwalt-erbrecht.json"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-16",
+      "supports": "Eine als Gegenleistung vereinbarte Leibrente hindert den Beginn der Zehnjahresfrist nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil ihre Höhe an bisherige Mieteinnahmen anknüpft oder sie durch Reallast gesichert ist. Zahlungsanspruch und fortbestehende Herrschaft über den verschenkten Gegenstand sind zu unterscheiden. Ein späterer unentgeltlicher Rentenverzicht kann eine eigene ergänzungspflichtige Schenkung mit eigenem Datum und Wert sein. Grenze: Andere vorbehaltene Nutzungs- und Herrschaftsrechte sowie die Ehegattenregel bleiben gesondert zu prüfen. Der spätere Verzicht macht die nach zehn Jahren nicht mehr ergänzungspflichtige Grundstücksleistung nicht erneut ergänzungspflichtig. Abgewiesen wurde die konkret beantragte Wertermittlung zu Grundstück und ursprünglicher Gegenleistung. Ein möglicherweise begründetes isoliertes Wertermittlungsbegehren zum jüngeren Rentenverzicht war nicht Streitgegenstand; keine Anspruchshöhe zugesprochen.",
+      "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Tatbestand und Rn. 9 bis 27; kein vollständiges Lesen aller Urteilsgründe behauptet.; status: Verwendete Aussagen und Antragsgrenzen am amtlichen Entscheidungstext verifiziert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Schnellstart vollständig gelesen, auf Pflichtteilsberechnung und gezielte Ergänzung eines notariellen Verzeichnisses zugespitzt und unter die Bytegrenze verdichtet. Redaktioneller Desk-Review, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Pflegevergütung wurde bereits bezahlt -> Zahlung und Nachlassschuld nicht doppelt abziehen; Pflichtteilsrechnung und Forderungstext ändern. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Gezielte Fachanwalts-Aktualisierung 01.10.2026: Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet. Kein neuer Live-Modelltest. Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten.",
     "changes": [
       "Bankermittlung und Mitwirkung anhand IV ZR 193/19 operativ eingebaut; bloße Zweifel nicht mit Neuerstellungsanspruch gleichgesetzt.",
       "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Ehegattenstatus vor Quote. Wiederholte Fortsetzungsanweisung verdichtet; alle fachlichen Belegbeispiele erhalten. Redaktionelle Verdichtung ohne Wegfall eines Fachzweigs.",
       "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25"
     ],
-    "sha256": "437d25fb12d701aa6483d0bdc9622f37300077fbe5358baf00d083aee9052517",
+    "sha256": "b25be979c283054575d243804c30830bcc0f00758c0bcf59c30e41b493ea9f1a",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -275,7 +282,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell bearbeitet; Crossreview um drei amtlich geprüfte jüngere Entscheidungen zu Vaterschaft, Arztvermächtnis und steuerlicher Erbquote ergänzt. Kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten.",
     "changes": [
       "Notarielle Eigenrecherche und verweigerte Bankzustimmung in konkrete Ergänzungsanforderung überführt.",
       "Erbvertrag von wechselbezüglichem Testament, Ausschlagung und Pflichtteil sowie Testierverbote und Zukunftsvorhaben genauer abgegrenzt.",
@@ -283,9 +290,10 @@
       "IV ZR 88/24, IV ZR 93/24 und II B 68/25 mit konkretem Prüfauftrag und Grenzen wieder integriert; aktuelle Absatznummer 1600d Absatz 5 BGB korrigiert.",
       "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: ruhendes Scheidungsverfahren und gesetzliches Ehegattenerbrecht.",
-      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
+      "Einstiegsredaktion 16.10.2026, Batch 2: Mini benennt die erbrechtliche Entscheidung klarer und bewahrt seinen vorhandenen frühen Scheidungsanker; Werkstatt führt über Auskunft und Nachlass zu einem fertigen Dokument. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25"
     ],
-    "sha256": "7ec3b67bbebcc32164ea0f4bb86ce8b77b74de208ceae7f3ca359189da766f4f",
+    "sha256": "68ce2f7f680d817a22f8caa2865361ed3a73851750d65742a2406798ec120abe",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -296,7 +304,9 @@
       "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
       "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
       "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
-      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/SKILL.md"
+      "fachanwalt-erbrecht/skills/pflichtteil-auskunft-durchsetzen/SKILL.md",
+      "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/SKILL.md",
+      "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/references/schenkungen-bewerten.md"
     ],
     "opening_change": "Erbenstellung und Pflichtteilsberechtigung aus Status und Verfügungen sowie Todestagsbestand, Werte und Schulden konkret abgleichen. Workflow-Ergänzung: Leer: Erbfolgeklärung, Pflichtteilsforderung oder Haftungssicherung anbieten. Dateien ohne Aufgabe: Verfügungen, Verzeichnis und Zahlungsbelege still lesen; Erbfolge-, Auskunfts- oder Forderungsziel klären. Klarer Auftrag: verlangte Nachforderung, Rechnung oder Regelung unmittelbar erstellen, keine ungefragte vollständige Nachlassanalyse.",
     "norms": [
@@ -374,6 +384,16 @@
           "checked_on": "2026-10-01",
           "verification_status": "frisch_volltextpassagen"
         }
+      },
+      {
+        "citation": "Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1",
+        "application": "Eine als Gegenleistung vereinbarte Leibrente hindert den Beginn der Zehnjahresfrist nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil ihre Höhe an bisherige Mieteinnahmen anknüpft oder sie durch Reallast gesichert ist. Zahlungsanspruch und fortbestehende Herrschaft über den verschenkten Gegenstand sind zu unterscheiden. Ein späterer unentgeltlicher Rentenverzicht kann eine eigene ergänzungspflichtige Schenkung mit eigenem Datum und Wert sein.",
+        "limit": "Andere vorbehaltene Nutzungs- und Herrschaftsrechte sowie die Ehegattenregel bleiben gesondert zu prüfen. Der spätere Verzicht macht die nach zehn Jahren nicht mehr ergänzungspflichtige Grundstücksleistung nicht erneut ergänzungspflichtig. Abgewiesen wurde die konkret beantragte Wertermittlung zu Grundstück und ursprünglicher Gegenleistung. Ein möglicherweise begründetes isoliertes Wertermittlungsbegehren zum jüngeren Rentenverzicht war nicht Streitgegenstand; keine Anspruchshöhe zugesprochen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Tatbestand und Rn. 9 bis 27; kein vollständiges Lesen aller Urteilsgründe behauptet.; status: Verwendete Aussagen und Antragsgrenzen am amtlichen Entscheidungstext verifiziert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten."
       }
     ],
     "remaining_limits": [
@@ -430,5 +450,42 @@
       "BGH, Beschluss vom 16.09.2026, IV ZB 4/26"
     ],
     "new_model_test": false
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json"
+    ],
+    "decisions": [
+      {
+        "citation": "Bundesgerichtshof, Urteil vom 24.06.2026, IV ZR 141/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1",
+        "application": "Eine als Gegenleistung vereinbarte Leibrente hindert den Beginn der Zehnjahresfrist nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil ihre Höhe an bisherige Mieteinnahmen anknüpft oder sie durch Reallast gesichert ist. Zahlungsanspruch und fortbestehende Herrschaft über den verschenkten Gegenstand sind zu unterscheiden. Ein späterer unentgeltlicher Rentenverzicht kann eine eigene ergänzungspflichtige Schenkung mit eigenem Datum und Wert sein.",
+        "limit": "Andere vorbehaltene Nutzungs- und Herrschaftsrechte sowie die Ehegattenregel bleiben gesondert zu prüfen. Der spätere Verzicht macht die nach zehn Jahren nicht mehr ergänzungspflichtige Grundstücksleistung nicht erneut ergänzungspflichtig. Abgewiesen wurde die konkret beantragte Wertermittlung zu Grundstück und ursprünglicher Gegenleistung. Ein möglicherweise begründetes isoliertes Wertermittlungsbegehren zum jüngeren Rentenverzicht war nicht Streitgegenstand; keine Anspruchshöhe zugesprochen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Tatbestand und Rn. 9 bis 27; kein vollständiges Lesen aller Urteilsgründe behauptet.; status: Verwendete Aussagen und Antragsgrenzen am amtlichen Entscheidungstext verifiziert.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
+        "workflow_effect": "Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung lesen bzw. gezielt anfordern. Grundstückszuwendung und unentgeltlichen Rentenverzicht getrennt rechnen; Leistungsdatum, Wert und Abschmelzung je Position bestimmen; Wertermittlungsantrag nach Belegeingang gegenstandsbezogen überarbeiten."
+      }
+    ],
+    "files": [
+      {
+        "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+        "sha256": "b25be979c283054575d243804c30830bcc0f00758c0bcf59c30e41b493ea9f1a"
+      },
+      {
+        "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+        "sha256": "68ce2f7f680d817a22f8caa2865361ed3a73851750d65742a2406798ec120abe"
+      },
+      {
+        "path": "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/SKILL.md",
+        "sha256": "cc84a084a549374a1ae4219af9c1c0d35d0a66af2c567ed92baa241337dae962"
+      },
+      {
+        "path": "fachanwalt-erbrecht/skills/pflichtteilsergaenzung-berechnen/references/schenkungen-bewerten.md",
+        "sha256": "873b6eac41156f0f7f804fe9668160cec7f483335b7d8e54da8eaa69d0b9a3f7"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

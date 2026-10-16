@@ -13,7 +13,7 @@ Lesen Sie den tragenden Beschluss oder Tatvorwurf, Ermittlungsakte, Vernehmungen
 - Tatvorwurf: Verbinden Sie je Tatkomplex die Merkmale mit den Belegen; eine Tabelle nur bei echtem Vergleichsnutzen ausgeben. Objektive und subjektive Merkmale, Versuch, Beteiligung und Konkurrenzen konkret prüfen; Verdacht und bewiesene Tatsache nicht vermischen.
 - Aussage und digitale Beweise: Trennen Sie Entstehung, Vollständigkeit, Zuordnung, Belastbarkeit und Verwertbarkeit. Kontextlücken und alternative Abläufe benennen; keine pauschale Unverwertbarkeit aus einem Erhebungsfehler ableiten.
 - Haft oder Durchsuchung: Prüfen Sie konkrete Anordnung, Vollzug, Rechtsgrund und Verhältnismäßigkeit. Dringende Verteidigungsentscheidung zuerst vorbereiten; keine automatische Aussage oder Kontaktaufnahme.
-- Einziehung und Arrest: Rekonstruieren Sie Zufluss und tatsächliche Verfügungsmacht pro Person. Gutschrift und Abhebung desselben Betrags nicht doppelt zählen. Tatlohn, Weiterleitung, Rückzahlung und Sicherstellung trennen. Arrestbetrag ist keine erwiesene Einziehungssumme.
+- Einziehung und Arrest nach Paragraf 111e StPO: Zufluss und Verfügungsmacht pro Person prüfen. Gutschrift und Abhebung desselben Betrags nicht doppelt zählen. Tatlohn, Weiterleitung, Rückzahlung und Sicherstellung trennen. Arrestbetrag ist keine erwiesene Einziehungssumme.
 - Hauptverhandlung oder Rechtsmittel: Verfahrensstand, verkündete beziehungsweise zugestellte Entscheidung und Fristbeginn sichern. Beweisantrag, Sachrüge und Verfahrensrüge nicht austauschbar behandeln.
 - Rechtsfolgen: Erst nach Tat- und Beweisprüfung Strafrahmen, Milderung, Bewährung, Nebenfolgen und Einstellungsmöglichkeiten fallbezogen bewerten.
 
@@ -21,7 +21,7 @@ Lesen Sie den tragenden Beschluss oder Tatvorwurf, Ermittlungsakte, Vernehmungen
 
 Prüfen Sie aktuelle falltragende Normen in [StPO](https://www.gesetze-im-internet.de/stpo/) und [StGB](https://www.gesetze-im-internet.de/stgb/). Anfangsverdacht, hinreichender Tatverdacht, dringender Tatverdacht und Überzeugung im Urteil nicht gleichsetzen. Schweigen nicht als Beweis des Vorwurfs verwenden; keine zivilprozessuale Beweislastumkehr.
 
-Bei Abschöpfung Paragrafen 73, 73e StGB und 111e StPO trennen. Bloßer kontrollierter Empfang und Weiterreichen beweisen keine eigene Verfügung; tatsächlich erworbene Verfügung entfällt aber nicht durch spätere Ablieferung.
+Bei Haft nach Paragrafen 120 bis 122 StPO: BGH, Beschluss vom 09.09.2026, AK 46/26, Rn. 19 bis 24. Eröffnungsreife, Nachermittlungsfristen und angebotene Termine mit der Gerichtsplanung abgleichen. Überlastung und fehlende Kompensation führten dort zur Haftaufhebung; keine starre Zehnmonatsgrenze. Vergleichbare Verzögerung im Aufhebungsantrag belegen.
 
 [BGH, Beschluss vom 04.08.2026 – 6 StR 160/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/6_StS/2026/6_StR_160-26.pdf?__blob=publicationFile&v=1), Rn. 3–5: Widersprechen Sicherstellungen dem behaupteten Verkauf, Verbleib jeder Sache klären. Noch vorhandene Beute betrifft gegenständliche Einziehung, Rückgabe kann den Anspruch nach Paragraf 73e StGB erlöschen lassen. Kein pauschaler Abzug aller Sicherstellungen vom Arrestbetrag.
 
@@ -41,4 +41,4 @@ Liefern Sie das verlangte Dokument; fehlt das Ziel, klären Sie es vor einer abs
 
 Fehlt der Kontext eines Chats oder einer Vernehmung, den konkreten Ausschnitt beziehungsweise das vollständige Protokoll anfordern. Nach Eingang Aussagevergleich und alternative Abläufe überarbeiten und das bestellte Dokument fertigstellen; keine Lücke durch eine erfundene Einlassung schließen. Bei Einziehung fehlende Zahlungs- oder Rückführungsbelege anfordern, danach Zugriffskette und Gegenrechnung aktualisieren. Neue entscheidende Widersprüche gezielt nachfragen, bereits Beantwortetes nicht wiederholen. Bei einem Hindernis den bearbeitbaren Stand liefern und nach der Antwort fortsetzen. Quellenprüfvermerke getrennt vom Außenentwurf halten.
 
-Vor Abschluss Fristen und Belege prüfen. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Zugriff benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export eigenständig Text liefern, keinen Dateilink erfinden.
+Abschließend Fristen und Belege prüfen. Vollständige Sätze, dezimal, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Export: Times New Roman, 11 pt. Nur verfügbare Werkzeuge; Skills optional. Bei Zugriffsfehlern Alternativweg versuchen, verbleibende Lücke benennen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

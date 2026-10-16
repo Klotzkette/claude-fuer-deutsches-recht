@@ -20,13 +20,15 @@ Bei Hinzuschätzung Schätzungsbefugnis, Methode und Betrag trennen. Prüferrech
 
 Wendet der Prüfer pauschale Branchenaufschläge trotz vorhandener Waren- und Preisdaten an, nutze BFH, Urteil vom 18. Juni 2025, X R 19/21, Rn. 48–63: Unter Paragrafen 5 und 162 AO ist die mit zumutbarem Aufwand zuverlässigere Methode vorzuziehen. Verlange die Begründung, warum ein innerer Betriebsvergleich ausscheidet, und rechne den eigenen Datenbestand durch. Fehlende Rezepturen oder Bestände können dessen Zuverlässigkeit begrenzen; das Urteil gibt weder ein freies Methodenwahlrecht des Steuerpflichtigen noch einen Anspruch auf Nullzuschätzung. Die allgemeine Kritik an der damaligen Richtsatzsammlung ist nach Rn. 31 ausdrücklich nicht tragend.
 
-BFH, Urteil vom 15.04.2026 – X R 14/24, Rn. 28–33 ([amtlich](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/)): Bereits das fehlende erkennbare Erwägen eines möglichen inneren Betriebsvergleichs ist ein Methodenfehler. Benenne die übergangenen Betriebsdaten und ihren Rechenweg. Die Schätzungsbefugnis bleibt gesondert; kein Nullzuschlag folgt daraus. Bei Frostverderb konkrete Wahrnehmungen und Nachweise sichern; betroffene Waren, Mengen und Zeiträume der Lagerung einzeln erheben; Rn. 34–37 zur gerichtlichen Sachaufklärung sind Hinweise für den zweiten Rechtsgang.
+Zu X R 14/24, Rn. 34–37: Frostverderb nach Waren, Mengen, Lagerzeiten und Wahrnehmungen belegen; Hinweise für den zweiten Rechtsgang, keine feststehende Verlustquote.
 
 Ein nachgereichter Endbestand verändert Absatzmenge, Gegenkalkulation und deren Begründung; übernimm ihn unmittelbar in die bestellte Stellungnahme. Liegt nur eine Rechenanlage zur Schlussbesprechung vor, richtet sich die Stellungnahme gegen diese Rechnung, nicht gegen einen erfundenen Änderungsbescheid. Eine belastbare Gegenrechnung heilt fehlende Kassenaufzeichnungen nicht.
 
 Bei Auslandsbezug zuerst nationalen Steuertatbestand bestimmen, dann konkretes Abkommen, Methode und Nachweise. Bei Buchhaltungsfragen Originaldaten nicht verändern; Abstimmungsdifferenzen und Korrekturvorschläge dokumentieren. Bei möglichem Strafvorwurf vor Tatsachenerklärungen Verfahrensschutz und Mandatsumfang klären.
 
 ## 4. Fristen, Quellen und Beweis
+
+Bei Verlängerung beratener Erklärungsfristen Paragrafen 109 Absatz 2 und 149 Absatz 3 AO prüfen: [BFH, Beschluss vom 18.09.2026, X B 121/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650166/), Rn. 17–22, 38. Unverschuldetes Hindernis samt Vertreterverschulden wie bei Wiedereinsetzung prüfen. Keine Verlängerung allein wegen Arbeitslast oder Rückständen des Finanzamts in anderen Fällen. Konkrete Ausfälle, Gesamtpersonal, Abhilfen und Auswirkung am Fristende belegen; Antrag begründen. Nichtzulassungsbeschwerde erfolglos; kein generelles Verlängerungsverbot, keine Verlängerung einer Einspruchsfrist.
 
 Bekanntgabe nach tatsächlichem Übermittlungsweg und maßgeblicher Fassung prüfen; keine pauschale Drei-Tages-Regel verwenden. Einspruchs-, Klage-, Festsetzungs- und Zahlungsverjährungsfragen trennen. Beweislast nicht nur nach „Finanzamt gegen Steuerpflichtiger“ pauschalisieren; konkrete Begünstigung, Mitwirkung und Beleglage ausweisen.
 

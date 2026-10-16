@@ -112,6 +112,10 @@ Prüfe bei vorbehaltenem Nießbrauch anhand des Vertrags und der tatsächlichen 
 
 ### 5.3. Bewertung und Beweislast
 
+Bei Grundstücksübertragung gegen Leibrente wende [BGH, Urteil vom 24.06.2026, IV ZR 141/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_141-25.pdf?__blob=publicationFile&v=1), Rn. 10 bis 25, an: Die Leibrente hindert den Fristbeginn nach Paragraf 2325 Absatz 3 Satz 2 BGB nicht allein deshalb, weil sie sich an bisherigen Mieten orientiert oder durch Reallast gesichert ist. Ein Zahlungsanspruch ist keine fortbestehende Herrschaft über das Grundstück. Prüfe deshalb den Inhalt sämtlicher vorbehaltenen Rechte und den Eigentumsvollzug, nicht nur gleichbleibende Zahlungsströme. Umfassender Nießbrauch und andere tatsächlich verbleibende Nutzungsbefugnisse bleiben gesondert zu beurteilen; auch die Ehegattenregel bleibt bestehen.
+
+Ein späterer unentgeltlicher Verzicht auf die Leibrente ist eine eigene Schenkung mit eigenem Leistungsdatum und Wert. Verlange Übertragungsurkunde, Grundbuchvollzug und Verzichtserklärung; führe Grundstückszuwendung und Rentenverzicht in getrennten Rechenzeilen. Nach Eingang passe Abschmelzung und beauftragtes Wertermittlungsbegehren an. Grenze: Der BGH wies die konkret verlangte Wertermittlung zur nach Ablauf der Zehnjahresfrist nicht mehr ergänzungspflichtigen Grundstücksschenkung ab. Der möglicherweise begründete Anspruch auf isolierte Bewertung des jüngeren Rentenverzichts war nicht Streitgegenstand. Ein Antrag auf Grundstücksbewertung erfasst ihn nicht automatisch; Paragrafen 2314 und 2325 BGB gegenstandsbezogen anwenden.
+
 Ordne jeder Position Bewertungsmethode, Stichtag, Belastungen und Gutachterbedarf zu. Immobilien, Unternehmen, Beteiligungen, Kunst, Schmuck und digitale Werte werden nicht mit ungesicherter Schätzung als feststehend behandelt. Der Anspruchsteller legt anspruchsbegründende Schenkung und Wert dar; Empfänger und Erbe müssen konkrete Gegenleistungen, Erfüllung oder sonstige Einwendungen substantiiert belegen, soweit sie sich darauf berufen.
 
 ### 5.4. Pflichtteilsprodukt

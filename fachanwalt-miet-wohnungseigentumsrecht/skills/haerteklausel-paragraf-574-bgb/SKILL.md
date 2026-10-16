@@ -7,20 +7,13 @@ description: "Für Härteklausel Paragraf 574 BGB: ordnet Norm, Beweislast und G
 
 ## Worum es geht
 
-Prüfe **Haerteklausel § 574 BGB** von der ersten Aktenordnung bis zur belastbaren Empfehlung: Norm, Tatsache, Beleg, Frist und prozessualer nächster Schritt müssen zusammenpassen.
+Prüfe den konkreten Härteeinwand gegen die Wohnraumkündigung und formuliere das bestellte Fortsetzungsverlangen oder die Erwiderung. Vorhandene Atteste und Suchbelege zuerst lesen, nur entscheidende Lücken erfragen. Eine wirksame Eigenbedarfskündigung und ein Fortsetzungsanspruch sind unterschiedliche Fragen.
 
 ## Normenanker
 
-- § 574 BGB
-- § 535 Abs. 1 und 2 BGB
-- § 536 Abs. 1 BGB
-- § 543 Abs. 1 und 2 BGB
-- § 553 Abs. 1 BGB
-- § 556 Abs. 1 bis 3 BGB
-- § 573 Abs. 1 und 2 BGB
-- § 574 Abs. 1 BGB
-- § 18 Abs. 1 WEG
-- § 19 Abs. 2 WEG
+- Paragraf 574 Absätze 1 und 2 BGB: Gesundheitshärte und fehlender zumutbarer Ersatzwohnraum; Ausschluss nach Absatz 1 Satz 2 gesondert prüfen.
+- Paragrafen 574a und 574b BGB: Fortsetzungsbedingungen, Form und Frist des Widerspruchs.
+- Paragrafen 144 und 414 ZPO: Sachverständigengutachten und sachverständiger Zeuge sind unterschiedliche Beweismittel.
 
 ## Prüfpfad
 
@@ -32,11 +25,17 @@ Prüfe **Haerteklausel § 574 BGB** von der ersten Aktenordnung bis zur belastba
 
 ## Entscheidungs- und Quellenhygiene
 
+[BGH, Beschluss vom 01.09.2026, VIII ZR 16/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1), Rn. 21 bis 36: Auch die ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann Härte sein; völlige Umzugsunfähigkeit ist nicht nötig. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren. Verlange vom medizinischen Laien keine erst gutachterlich mögliche Prognose. Bei substantiiert vorgetragenen, bestrittenen Gefahren und fehlender gerichtlicher Sachkunde regelmäßig ein Gutachten vorbereiten, gegebenenfalls nach Paragraf 144 ZPO. Arztzeugen liefern Anknüpfungstatsachen, ersetzen aber nicht die Zukunftsprognose. Beweisfragen müssen Art, Schwere, Wahrscheinlichkeit und mögliche Hilfen betreffen.
+
+Ersatzwohnungssuche eigenständig mit Zeitraum, Anfragen, Absagen und zumutbaren Bedingungen belegen (Rn. 37 bis 42); 400 Anfragen im Fall sind keine Mindestzahl. Wird Härte erst in der Berufung erheblich, den zulässig einbezogenen erstinstanzlichen Vortrag samt Beweisangeboten berücksichtigen. Nach neuen Belegen den bestehenden Entwurf berichtigen. Grenze: Zurückverweisung nur zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Aufhebung des Eigenbedarfsgrundes. Vermieterinteressen, Hilfen sowie Dauer und Bedingungen einer Fortsetzung abwägen (Rn. 48 und 49). Amtlichen Volltext am 16.10.2026 in diesen Passagen gelesen; keine Gesamtneuverifikation älterer Entscheidungen.
+
 - Rechtsprechung nur einsetzen, wenn Gericht, Entscheidungsdatum, Aktenzeichen und eine frei prüfbare Quelle vorliegen.
 - Keine BeckRS-, juris- oder Kommentar-Fundstellen blind übernehmen. Fehlt eine verifizierte Entscheidung, ausdrücklich mit Normtext, Systematik, Beweislast und offenem Recherchepunkt arbeiten.
 - Bei divergierenden Obergerichten die regionale Zuständigkeit, den Instanzenzug und den Stand höchstrichterlicher Klärung kenntlich machen.
 
 ## Arbeitsprodukt
+
+Das bestellte Schreiben oder Gutachten vollständig ausformulieren; keine Stichwortskelette als Endprodukt. Beweis- und Recherchevermerk vom Empfängertext trennen. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown gesonderter Exporthinweis. Kein Versand oder gerichtlicher Antrag ohne Auftrag. Quellen nach [Zitierweise](../../references/zitierweise.md) angeben.
 
 - Kurzvermerk mit Normenanker, Tatsachenmatrix, Fristen, Belegen und Risikoampel.
 - Mandantenfähige Handlungsempfehlung mit nächstem Schritt, benötigten Unterlagen und Eskalationsoption.

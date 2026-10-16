@@ -52,6 +52,12 @@
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
       "checked_on": "2026-09-30",
       "supports": "Bestehender Pflegeanker des Laienprompts. Vorhandenen Primärquellenbeleg aus quality/source-audits/2026-09-30/arbeit-sozial.md übernommen: amtlicher Volltext zu Kriterien/Gewichtung und besonderen Bedarfskonstellationen. Kein Neuabruf im Durchgang 01.10.2026."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+      "checked_on": "2026-10-16",
+      "supports": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich. Grenze: Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+      "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen."
     }
   ],
   "selection": {
@@ -392,7 +398,9 @@
     "method": "desk_review",
     "files": [
       "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
-      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md"
+      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md",
+      "sozialrecht-fuer-laien/references/quellen-und-hilfe.md",
+      "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md"
     ],
     "opening_change": "Eigenes Anliegen, akute Not und Frist vor ausführlicher Aufnahme; Tatsachenfragen mit unmittelbar anschließendem Schreiben.",
     "norms": [
@@ -439,6 +447,16 @@
         "checked_on": "2026-09-30",
         "application": "Bestehende Pflegegradpassage: gesetzliche Kriterien und Gewichtung statt Diagnose oder frei erfundener Ersatzbewertung.",
         "limit": "Historischer Primärquellenbeleg aus dem Audit arbeit-sozial.md vom 30.09.2026; am 01.10.2026 nicht neu abgerufen. Keine automatische Einstufung aus besonderer Belastung."
+      },
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
       }
     ],
     "remaining_limits": [
@@ -473,12 +491,13 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Ausführliche eigenständige Verfahrenshilfe mit kurzen adressatengerechten Ergebnissen. 2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Gezielte Quellenvertiefung: Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht.",
     "changes": [
       "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf.",
-      "2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Verständlichen Gerichtsbrief eröffnet; bestehenden E-Mail-Formanker nach vorn verschoben, Schutz- und Hilferegeln erhalten. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "Quellenvertiefung 16.10.2026: BSG, Urteil vom 01.10.2026, B 3 P 3/25 R"
     ],
-    "sha256": "15afc57e5ff7ca3ff30c7ad479e1fa39fcfd36521076fb958cdd262884e958a6",
+    "sha256": "47ae7ca2ef7cf99f39252ebe9c086a2b7d9d931bd287f143f018745b9c5ce9b8",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -504,5 +523,38 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_followup_2026_10_16": {
+    "method": "scoped_primary_source_and_workflow_desk_review",
+    "reports": [
+      "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json"
+    ],
+    "decisions": [
+      {
+        "citation": "BSG, Urteil vom 01.10.2026, B 3 P 3/25 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Verhandlungen/DE/2026/2026_10_01_B_03_P_03_25_R.html",
+        "application": "Bei aktueller Kostenerstattung nach Paragraf 91 Absatz 2 SGB XI ohne Pflegesatzvereinbarung kein Zuschlag nach Paragraf 43c. Nach Wechsel in das Pflegesatzregime zählen jedoch auch frühere Bezugsmonate vollstationärer Pflege nach Paragraf 91 Absatz 2 für die Zuschlagsstufe; ebenso beim Vertragswechsel desselben Heims. Revision überwiegend erfolgreich.",
+        "limit": "Nur amtlicher Terminbericht vollständig gelesen. Keine Zuschlagszusage für die Zeit ohne Pflegesatzvereinbarung, keine Zuschüsse auf sämtliche Heimkosten, keine Übernahme historischer Prozentsätze. Bericht vor Verwendung als solchen benennen und nach Urteilsgründen suchen.",
+        "checked_on": "2026-10-16",
+        "verification_status": "16.10.2026: Web-Abruf 403, unmittelbarer amtlicher HTML-Abruf erfolgreich. Einzelbericht vollständig gelesen; Normen 43c und 91 aktuell mit Web-Werkzeug gelesen. Lokaler Beleg /tmp/bsg-p3-sozial-steuer.html. Jahresübersicht ebenfalls unmittelbar amtlich gelesen.",
+        "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
+        "workflow_effect": "Anspruch vor dem Vertragswechsel und Prozentsatz danach trennen. Wirksamkeitsbeginn der Vereinbarung einschließlich möglicher Rückwirkung und frühere Leistungsbescheide anfordern; belegte Differenz berechnen und Korrekturschreiben verfassen. Keine pauschale offene Doppelrechnung mehr nach bereits veröffentlichtem Terminbericht."
+      }
+    ],
+    "files": [
+      {
+        "path": "sozialrecht-fuer-laien/references/quellen-und-hilfe.md",
+        "sha256": "289e0acce32e50350740c3a00250e8f2a5c5fe5e29e8a709114b41e4473b9e4f"
+      },
+      {
+        "path": "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md",
+        "sha256": "781e0def59658c8f403de402a4512655feb07becf49f6354a937a7ac4d576e47"
+      },
+      {
+        "path": "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+        "sha256": "47ae7ca2ef7cf99f39252ebe9c086a2b7d9d931bd287f143f018745b9c5ce9b8"
+      }
+    ],
+    "limits": "Nur bezeichnete Entscheidungszweige und konkret korrigierte Nachbarstellen erneut geprüft. Frühere Prüfzeitpunkte bleiben erhalten. Kein Live-Modelltest und keine Vollverifikation sämtlicher Rechtsaussagen."
   }
 }

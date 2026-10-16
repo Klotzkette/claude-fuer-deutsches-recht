@@ -18,7 +18,7 @@ BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Verhaltenshilfebedarf hebt Gewichtung 
 
 Paragrafen 36 bis 38, 41, 45a und 45b. Monatsbeträge 2026 für Pflegegrade 2/3/4/5: Pflegegeld 347/599/800/990 Euro; Sachleistung 796/1497/1859/2299 Euro. Kombination prozentual: 898.20 von 1497 Euro sind 60 Prozent, Restpflegegeld 40 Prozent von 599 = 239.60 Euro. Teilmonate gesondert. Pflegegrad 1 erhält diese regulären Leistungen nicht. Tagespflege nicht pauschal vom Pflegegeld abziehen.
 
-Entlastungsbetrag 131 Euro monatlich zweckgebunden gegen Beleg; Rest bis Ende des folgenden Kalenderhalbjahres. Landesanerkennung prüfen, bei Pflegegraden 2 bis 5 keine ambulante Selbstversorgung darüber abrechnen. Umwandlung nach Paragraf 45a Absatz 4 separat. Beratung nach Paragraf 37 Absatz 3 bei Pflegegeld halbjährlich für Pflegegrade 2 bis 5 verpflichtend, bei 4 und 5 zusätzlich vierteljährlich möglich.
+Entlastungsbetrag: 131 Euro monatlich gegen Beleg, Rest bis Ende des Folgehalbjahres. Landesanerkennung prüfen; bei Pflegegraden 2 bis 5 keine ambulante Selbstversorgung. Umwandlung nach Paragraf 45a Absatz 4 separat. Beratung bei Pflegegeld halbjährlich verpflichtend, bei 4 und 5 zusätzlich vierteljährlich möglich (Paragraf 37 Absatz 3).
 
 BSG, Urteil vom 12.06.2025, B 3 P 8/23 R: S1-Sachleistungsaushilfe begründet kein deutsches Pflegegeldwahlrecht. Rentenstaaten, eigene Versicherung und Artikel 24, 29, 34, 81 der Verordnung (EG) 883/2004 prüfen, nicht Staatsangehörigkeit. Gegebenenfalls Antrag an ausländischen Träger vorbereiten.
 
@@ -32,7 +32,7 @@ Paragraf 40: Verbrauchsmaterial bis 42 Euro monatlich; Wohnumfeld bis 4180 Euro 
 
 ### 2.4 Heim, Pflegeperson und Einrichtung
 
-Paragraf 43c: nur pflegebedingter Eigenanteil, nicht Unterkunft, Verpflegung oder Investitionen. Bis zwölf Bezugsmonate 15 Prozent, mehr als zwölf 30, mehr als 24 50, mehr als 36 75; Teilmonate und Voraufenthalte zählen. Seit 01.07.2026 berechnet die Kasse anhand der Einrichtungsdaten. Rechnung und Zahlung abgleichen; fehlende Pflegesatzvereinbarung gesondert behandeln.
+Paragraf 43c: nur pflegebedingter Eigenanteil, nicht Unterkunft, Verpflegung oder Investitionen. Bis zwölf Bezugsmonate 15 Prozent, mehr als zwölf 30, mehr als 24 50, mehr als 36 75; Teilmonate und Voraufenthalte zählen. Seit 01.07.2026 berechnet die Kasse anhand der Einrichtungsdaten. Rechnung und Zahlung abgleichen.
 
 Paragrafen 19 und 44: Rentenbeiträge grundsätzlich Pflegegrad 2, zehn Wochenstunden an zwei Tagen, höchstens 30 Erwerbsstunden; weitere SGB-VI-Voraussetzungen prüfen. Unfall- und Arbeitslosenversicherung getrennt. Pflegeunterstützungsgeld nach Paragraf 44a ist nicht Pflegegeld. Beiträge nach Paragrafen 55 und 58 einschließlich wirksamer Verordnung, Kinderparametern und Sachsenregel rechnen.
 
@@ -42,7 +42,7 @@ Einrichtung: Verträge nach Paragrafen 72, 75, 82, 85, 89 und Qualität nach Par
 
 Kassenbescheid: tatsächlichen Zugang, Belehrung und grundsätzlich Monatsfrist nach Paragrafen 84, 87 SGG prüfen, Paragraf 66 und Sonderfälle beachten. Einfache E-Mail nicht als sichere Form zusagen. Akteneinsicht und Gutachten anfordern, konkrete Begründung nachreichen. Private Pflegepflichtversicherung: kein automatisches Verwaltungswiderspruchsverfahren, aber Sozialrechtsweg nach Paragraf 51 SGG. Paragraf 18c samt Ausnahmen prüfen; Fristablauf bewilligt keinen Pflegegrad, Verzögerungszahlung nicht für jeden Einzelantrag. Alte Fehlentscheidung nach Paragraf 44 SGB X, Änderung nach Paragraf 48; Eilrechtsschutz nach Paragraf 86b SGG mit belegter Dringlichkeit, Untätigkeit nach Paragraf 88 gesondert.
 
-Stand 30.09.2026: B 3 P 2/25 R zu Bezugspflege-/Investitionskosten im Entlastungsbetrag und B 3 P 3/25 R zum Heimzuschlag bei Paragraf 91 Absatz 2 sind erst für 01.10.2026 angekündigt. Kein Entscheidungsergebnis behaupten. Vor späterer Verwendung amtlichen Stand prüfen; streitige Positionen kennzeichnen, unstreitige Antragsteile fortführen.
+BSG, 01.10.2026, Terminbericht 30/26, kein Volltext: B 3 P 2/25 R: Bezugspflegevergütung höchstens nach Paragraf 89; Investitionskosten nur leistungsbezogen, wirksam vereinbart und nach Paragraf 82 gesondert berechnet. B 3 P 3/25 R: Ohne Pflegesatzvereinbarung kein Zuschlag; nach Wechsel Vorbezug nach Paragraf 91 Absatz 2 mitzählen. Vertrag, Rechnung, Restbudget und Bezugsmonate prüfen; vor Schriftsatz Gründe suchen, keine alten Beträge.
 
 ## 4. Quellen und Dokument
 
