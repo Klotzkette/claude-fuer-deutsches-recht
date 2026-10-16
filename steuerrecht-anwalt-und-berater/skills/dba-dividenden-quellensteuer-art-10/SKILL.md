@@ -101,7 +101,7 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **BZSt-Antragsformular Dividenden-Erstattung**: das Formular für die Erstattung nach § 50c Abs. 3 EStG für ausländische Dividendenempfaenger findet sich im BZSt-Online-Portal (BOP, bzst.de) im Bereich "Kapitalertragsteuer/Solidaritaetszuschlag — Erstattung" (vom Anwender mit aktuellem BZSt-Formularverzeichnis abzugleichen — Bezeichnungen ändern sich periodisch).
-- **Freistellungsbescheinigung BZSt für Schachteldividenden** nach § 43b EStG / MTRL: vorab beantragen mit drei Jahren Geltungsdauer. Empfaengergesellschaft spart Cashflow-Vorfinanzierung.
+- **Freistellungsbescheinigung BZSt für Schachteldividenden** nach § 43b EStG / MTRL: vorab beantragen; Geltungsdauer höchstens fünf Jahre (§ 50c Abs. 2 Satz 4 EStG). Empfaengergesellschaft spart Cashflow-Vorfinanzierung.
 - **Ansaessigkeitsbescheinigung des Heimat-FA mitsenden**: IRS Form 6166 (USA, über Form 8802; Bearbeitung 6-8 Wochen), HMRC Certificate of Residence (UK; 4-6 Wochen), CFR-1 (Polen). Ohne Ansaessigkeitsbescheinigung wird BZSt-Antrag im Erstcheck zurueckgewiesen.
 - **45-Tage-Cum-Cum-Frist § 50j EStG**: in der Praxis Anteils-Stichtag minus 45 Tage und plus 45 Tage festlegen — Stichtagsbuch des Depotverwalters anfordern.
 - **Substanz-Dokumentation aufbauen**: bei Holding/Konzern: Stammbuch Geschäftsführungssitzungen, Personalliste, Mietvertrag, Telefonanlage, Bankvollmachten — § 50d Abs. 3 EStG-Prüfung.
@@ -113,7 +113,7 @@ Dividenden grenzueberschreitend gezahlt: Quellenstaat behaelt Quellensteuer ein 
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab vs. Erstattung nachher | Antrag vor Zahlung — Empfaenger erhaelt brutto, max. 3 Jahre Geltung | Erstattung nach Einbehalt — vier Jahre Antragsfrist | bei regelmäßigen Dividenden Pfad A; bei einmaligen Pfad B |
+| Freistellungsbescheinigung vorab vs. Erstattung nachher | Antrag vor Zahlung — Empfaenger erhaelt brutto, max. 5 Jahre Geltung (§ 50c Abs. 2 Satz 4 EStG) | Erstattung nach Einbehalt — vier Jahre Antragsfrist | bei regelmäßigen Dividenden Pfad A; bei einmaligen Pfad B |
 | MTRL vs. DBA-Hoechstsatz | EU-MTRL 0 Prozent bei 10 Prozent Beteiligung und 12 Monate Halten | DBA-Hoechstsatz 5/15 Prozent | MTRL vorrangig, wenn Voraussetzungen erfuellt — sonst DBA |
 | EU-Holding vs. direkte Beteiligung | Holding in EU-Staat zur MTRL-Nutzung | direkte Beteiligung mit DBA | bei Substanz und Ueberlegungen jenseits Steuer Pfad A; bei reiner Steueroptimierung scheitert Pfad A an § 50d Abs. 3 EStG |
 | § 8b KStG-Befreiung vs. Teileinkuenfteverfahren | Koerperschaft als Empfaenger — 95 Prozent steuerfrei | natuerliche Person — Teileinkuenfteverfahren 40 Prozent | bei groesseren Beteiligungen Koerperschaftsmantel vorteilhaft |

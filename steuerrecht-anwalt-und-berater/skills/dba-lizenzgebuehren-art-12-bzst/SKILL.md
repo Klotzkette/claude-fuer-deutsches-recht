@@ -35,13 +35,13 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 - **§ 50g EStG** — Umsetzung ZinsLizenzRL 2003/49/EG (0 Prozent bei EU-verbundenen Unternehmen).
 - **§ 50d Abs. 3 EStG** — Anti-Treaty-Shopping.
 - **§ 8 ff. AStG** — Hinzurechnungsbesteuerung bei niedrig besteuerten Lizenzeinkuenften.
-- **§ 4j EStG** — Lizenzschranke gegen schaedliche IP-Box-Regelungen.
+- **§ 4j EStG a.F.** — Lizenzschranke; weggefallen und nach § 52 Abs. 8c Satz 3 EStG letztmals für den VZ 2024 anzuwenden. Nur noch für Altjahre bis VZ 2024 prüfen.
 - **DBA** je Vertragsstaat — Hoechstsaetze Art. 12.
 
 ### Leitentscheidungen und BMF-Schreiben
 - Aktuelle BFH-Rechtsprechung zu Lizenzgebuehren-Quellensteuer in freier amtlicher Quelle abrufen.
 - Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in freier amtlicher Quelle abrufen.
-- BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- BMF-Schreiben zu § 4j EStG a.F. (Lizenzschranke) — nur für Altjahre bis VZ 2024 relevant; Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 - BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 
 ## DBA-Hoechstsaetze für Lizenzen (Übersicht — alle Saetze konkret im DBA-Text prüfen)
@@ -83,7 +83,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 ### Phase 4 — Anti-Missbrauch
 1. § 50d Abs. 3 EStG-Substanztest.
 2. PPT-Klausel MLI.
-3. § 4j EStG-Lizenzschranke (schaedliche IP-Box).
+3. Lizenzschranke nach § 4j EStG a.F. nur für Altjahre bis VZ 2024 (§ 52 Abs. 8c Satz 3 EStG); für Lizenzaufwendungen ab VZ 2025 entfällt diese Prüfung.
 
 ### Phase 5 — BZSt-Verfahren
 1. Freistellungsbescheinigung vorab.
@@ -98,7 +98,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 
 - ZinsLizenzRL (0 Prozent) bei verbundenen EU-Unternehmen guenstiger als DBA-Hoechstsatz — Empfaengergunst-Prüfung.
 - Software-Lizenzen: nach OECD-MA-Kommentar Lizenzeinkuenfte (Art. 12); Software-Verkauf (Standardware) Art. 7 — Abgrenzung kritisch.
-- § 4j EStG-Lizenzschranke: bei schaedlicher IP-Box-Regelung in Quellenstaat Betriebsausgabenabzug auf Vergueter-Seite eingeschraenkt.
+- Lizenzschranke nach § 4j EStG a.F. nur für Altjahre bis VZ 2024: Lizenzaufwendungen des deutschen Zahlers sind nur anteilig abziehbar, wenn der Gläubiger eine nahestehende Person ist und seine Einnahmen einer nicht Nexus-konformen Präferenzregelung mit niedriger Besteuerung unterliegen. Ab VZ 2025 nicht mehr anzuwenden (§ 52 Abs. 8c Satz 3 EStG).
 - Substanz § 50d Abs. 3 EStG: Briefkasten-Lizenzgesellschaften scheitern regelmaessig.
 - § 50a-Steuerabzug ist eine Bringschuld des deutschen Vergueterschuldners — bei Pflichtverletzung Haftung.
 - BZSt-Bearbeitungsdauer: Freistellungsbescheinigung vorab.
@@ -108,10 +108,10 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 ## Praktiker-Tipps "Schnell zum Bescheid"
 
 - **§ 50a EStG-Anmeldung des deutschen Vergueterschuldners**: Pflicht zur Quartalsanmeldung (vierteljaehrlich) über BZSt-Online-Portal (BOP); Anmeldung der Steuer Abzug auch bei Freistellung notwendig. Vom Anwender mit aktuellem BZSt-Verfahrensverzeichnis abgleichen.
-- **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt für kuenftige Zahlungen, max. drei Jahre. Vergueterschuldner darf reduziert einbehalten.
+- **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt für kuenftige Zahlungen, höchstens fünf Jahre (§ 50c Abs. 2 Satz 4 EStG). Vergueterschuldner darf reduziert einbehalten.
 - **Ansaessigkeitsbescheinigung des Lizenzempfaengers vorab**: bei IRS Form 6166 (USA), HMRC (UK), CFR-1 (Polen). Bearbeitung im Heimatstaat regelmaessig 4-8 Wochen — Vorlauf einplanen.
 - **Vertrag prüfen, ob Software-Lizenz oder Software-Kauf**: Prüfer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
-- **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags prüfen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste über OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
+- **Lizenzschranke nach § 4j EStG a.F. nur noch bei Altjahren prüfen**: Die Vorschrift ist weggefallen und nach § 52 Abs. 8c Satz 3 EStG letztmals für den VZ 2024 anzuwenden. Für Lizenzaufwendungen ab VZ 2025 entfällt die Prüfung; in Betriebsprüfungen und offenen Veranlagungen bis VZ 2024 bleibt sie relevant.
 - **EU-ZinsLizenzRL: 24-Monatsfrist beachten**: nach § 50g EStG mindestens 24 Monate Verbundenheit vor Zahlung. Bei jungen Konzernstrukturen oft nicht erfuellt — DBA-Hoechstsatz greift.
 - **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Gläubiger.
 - **Bei Online-Antrag DAV-Verfahren** für institutionelle Lizenzgeber möglich — Massen-Erstattung effizienter als Einzelantrag.
@@ -122,15 +122,15 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 |---|---|---|---|
 | Lizenz (Art. 12) vs. Software-Verkauf (Art. 7) | Lizenz: Quellensteuer Art. 12 DBA | Verkauf: kein Quellenstaat-Recht, nur BS | bei Standardsoftware ohne Anpassung Pfad B; bei individueller Anpassung Pfad A |
 | ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei 25 Prozent Beteiligung, 24 Monate | DBA-Hoechstsatz 0-10 Prozent | wenn Voraussetzungen erfuellt: ZinsLizenzRL |
-| Freistellungsbescheinigung vs. Erstattung | Antrag vor Zahlung; reduzierter Einbehalt; max. 3 Jahre | nach Einbehalt rueckwirkend; 4-Jahres-Frist | bei regelmäßigen Lizenzzahlungen Pfad A; einmalig Pfad B |
-| IP-Holding im Niedrigsteuerland vs. operative Gesellschaft | IP-Box Niederlande/Luxemburg/Schweiz | direkte IP-Halterin im Hauptkonzern | § 4j EStG-Lizenzschranke + § 50d Abs. 3 EStG bei Substanzmangel — meist nicht mehr lohnend |
+| Freistellungsbescheinigung vs. Erstattung | Antrag vor Zahlung; reduzierter Einbehalt; max. 5 Jahre (§ 50c Abs. 2 Satz 4 EStG) | nach Einbehalt rueckwirkend; 4-Jahres-Frist | bei regelmäßigen Lizenzzahlungen Pfad A; einmalig Pfad B |
+| IP-Holding im Niedrigsteuerland vs. operative Gesellschaft | IP-Box Niederlande/Luxemburg/Schweiz | direkte IP-Halterin im Hauptkonzern | § 50d Abs. 3 EStG bei Substanzmangel; für Altjahre bis VZ 2024 zusätzlich Lizenzschranke nach § 4j EStG a.F. — meist nicht mehr lohnend |
 | § 50a-Einbehalt akzeptieren vs. anfechten | Vergueterschuldner zahlt mit Vorbehalt; Lizenzgeber holt sich Erstattung | Direktes Anfechtungsverfahren | bei klarer DBA-Lage Pfad A schneller |
 
 ## Was Reviewer/Prüfer triggert
 
 - **Software-Lizenz vs. Software-Verkauf falsch qualifiziert**: BMF-Schreiben zur Abgrenzung (live abrufen) verlangt Vertragsanalyse.
 - **§ 50a-Einbehalt unterlassen**: deutscher Vergueterschuldner zahlt brutto an Auslandsempfaenger, ohne Freistellungsbescheinigung — Haftung § 50a Abs. 5 EStG.
-- **§ 4j EStG-Lizenzschranke ignoriert**: Memo argumentiert Betriebsausgabenabzug der Lizenzgebuehr, ohne IP-Box-Prüfung.
+- **Lizenzschranke nach § 4j EStG a.F. zeitlich falsch angewandt**: Memo kürzt den Betriebsausgabenabzug für Lizenzaufwendungen ab VZ 2025, obwohl die Vorschrift weggefallen ist (§ 52 Abs. 8c Satz 3 EStG), oder übergeht sie bei Altjahren bis VZ 2024.
 - **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschäftstaetigkeit — Entlastung verweigert.
 - **ZinsLizenzRL-Voraussetzungen nicht geprueft**: Beteiligungshoehe (25 Prozent), Haltedauer (24 Monate), EU/EWR-Ansaessigkeit, Empfaengerrechtsform.
 - **Brexit-Wirkung uebersehen**: UK seit 2021 kein ZinsLizenzRL — Memo argumentiert noch mit RL-Vorteil.
@@ -164,11 +164,11 @@ Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50
 | § 50a-Einbehalt absolut | 79.125 EUR |
 | Mit Freistellungsbescheinigung BZSt | 0 EUR |
 | Erstattung nachher: vier Jahre Frist | bis Ende des Kalenderjahres + vier Jahre |
-| § 4j EStG-Lizenzschranke (USA keine IP-Box im Sinne OECD) | regelmaessig nicht einschlaegig |
+| Lizenzschranke nach § 4j EStG a.F. | ab VZ 2025 nicht mehr anwendbar (§ 52 Abs. 8c Satz 3 EStG) |
 | Effektive Empfang US-Empfaenger nach Freistellung | 500.000 EUR brutto |
 
-(**Werte sind Beispiel — DBA-USA-Text, MLI-Status (USA haben MLI nicht ratifiziert), § 4j EStG-OECD-Liste konkret nachpruefen.**)
+(**Werte sind Beispiel — DBA-USA-Text und MLI-Status (USA haben MLI nicht ratifiziert) konkret nachpruefen; bei Altjahren bis VZ 2024 Lizenzschranke nach § 4j EStG a.F. gesondert prüfen.**)
 
 ## Quellen und Updates
 
-Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG. ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze, ZinsLizenzRL-Voraussetzungen und § 4j EStG-Anwendung im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
+Stand: 05/2026. Art. 12 OECD-MA. § 50a, § 50c, § 50d Abs. 3, § 50g EStG. § 4j EStG a.F. weggefallen durch Art. 4 des Gesetzes vom 22.12.2025 (BGBl. 2025 I Nr. 353), letztmals für den VZ 2024 anzuwenden (§ 52 Abs. 8c Satz 3 EStG). ZinsLizenzRL 2003/49/EG. DBA-spezifische Hoechstsaetze und ZinsLizenzRL-Voraussetzungen im BMF-Veroeffentlichungsverzeichnis und freier amtlicher Quelle abrufen.
