@@ -5,7 +5,7 @@
 
 Eigenständiges Plugin für deutsches und europäisches Designrecht: DesignG, EU-Design, DPMA, EUIPO, WIPO-Hague, Neuheit, Eigenart, Anmeldung, Nichtigkeit, Verletzung, Eilrechtsschutz, Zoll, Plattformen und Designverträge.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`designrecht-geschmacksmusterrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,7 +72,7 @@ Dieses Plugin führt durch das Designrecht, also das frühere Geschmacksmusterre
 
 ## Arbeitsmodus
 
-Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloße Stichworte reichen. Das Plugin fragt zuerst nach den wenigen Punkten, die wirklich entscheiden: Frist, Produkt, Territorium, Registerstand, Veröffentlichungsdatum, Vertrag und gewünschter Output. Danach schlägt es passende Spezialskills aus diesem Plugin und angrenzenden Plugins vor.
+Uploads, Bilder, Verträge oder bloße Stichworte reichen für den Einstieg. Das Plugin wertet vorhandenes Material zuerst aus und fragt nur nach entscheidenden Lücken bei Frist, Produkt, Territorium, Registerstand oder Offenbarung. Bei klarem Auftrag erstellt es unmittelbar die verlangte Prüfung, Erwiderung oder Vertragsfassung. Nur wenn der Bearbeitungsweg offen ist, schlägt es passende Spezialskills vor; nach einer Antwort setzt es am offenen Punkt fort.
 
 ## Praxisblöcke
 

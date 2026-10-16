@@ -8,7 +8,7 @@ description: "Für Mandantenanfragen-Assistent — Allgemein: prüft Frist, Form
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: BRAO § 44 unverzügliche Annahme/Ablehnung, RVG § 34 Erstberatung max. 190 EUR (Verbraucher), DSGVO Art. 13 Information bei Erhebung.
+- Fristen und Eilrisiken zuerst markieren: Paragraf 44 BRAO: unverzügliche Erklärung einer gewollten Ablehnung, Paragraf 34 Absatz 1 RVG: ohne Gebührenvereinbarung höchstens 190 EUR für das erste Beratungsgespräch mit einem Verbraucher, zuzüglich Umsatzsteuer soweit anfallend; Auslagen gesondert prüfen, DSGVO Art. 13 Information bei Erhebung.
 - Tragende Normen verifizieren: BRAO §§ 43a, 44, 49b, BORA §§ 2, 11, BGB §§ 145 ff., 280, 627, 675, GwG §§ 10, 11, RVG §§ 1, 4, 34 (Erstberatung), DSGVO Art. 6, 13 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anfragender (Interessent), Anwalt, Sekretariat, Compliance-Beauftragter, Mandantenbetreuer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Erstkontaktformular, Konfliktscreening, Mandatsvertrag, Vollmacht, Honorarvereinbarung, Mandantendossier, Datenschutzhinweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
@@ -175,7 +175,7 @@ Das Plugin ersetzt kein eigentliches Mandat. Es schafft einen effizienten, beruf
 - **Anrede prazise uebernehmen**: Fehler bei akademischen Titeln (Dr., Prof.) oder Doppelnamen sind der haeufigste Grund für unprofessionellen Ersteindruck.
 - **DSGVO-Pflichten beim Transkriptionsservice**: Ohne Einwilligung und Datenschutzhinweis ist die Transkription eines Telefonats nicht rechtsgemaess; die Einwilligung muss für den konkreten Zweck erteilt werden.
 - **Interessenkonflikt-Zeitpunkt**: Der Check muss vor jeder Terminvergabe erfolgen — nicht erst bei Mandatsannahme.
-- **Schweigepflicht gilt nicht ab Erstanfrage**: Sekretariatsmitarbeiter müssen wissen, dass die Verschwiegenheitspflicht erst nach Mandatsbeginn gilt, vorher aber allgemeine Diskretionspflichten bestehen.
+- Vertraulichkeit beim Erstkontakt: Beruflich bekannt gewordene Informationen sind nach Paragraf 43a Absatz 2 BRAO nicht erst mit Mandatsbeginn geschützt. Die Frage der Mandatsannahme ist hiervon getrennt zu behandeln; Quellenabgleich vom 16.10.2026 siehe `vertraulichkeit-erinnerung`.
 
 ## Typische Fehler
 

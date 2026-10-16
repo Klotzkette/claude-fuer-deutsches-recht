@@ -5,7 +5,7 @@
 
 Plugin Zwangsvollstreckung Paragrafen 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, Paragraf 802l Kontensuche, Vermögensauskunft, Räumung, Paragraf 800 ZPO Notar, Paragraf 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, Paragraf 765a Härtefall, Schuldnerschutz.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`zwangsvollstreckung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=zwangsvollstreckung/zwangsvollstreckung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,14 +73,14 @@ Freistehendes Cowork-Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO a
 
 ## Wofür das Plugin gedacht ist
 
-- Vollstreckung aus allen Titelarten nach § 794 ZPO: Urteil, Versäumnisurteil, Anerkenntnisurteil, Vollstreckungsbescheid, Prozessvergleich, notarielle Unterwerfungsurkunde § 794 Abs. 1 Nr. 5 ZPO, Anwaltsvergleich, Kostenfestsetzungsbeschluss und Tabellenauszug § 201 InsO.
+- Vollstreckung aus rechtskräftigen oder vorläufig vollstreckbaren Endurteilen nach Paragraf 704 ZPO, einschließlich Versäumnis- und Anerkenntnisurteilen; daneben weitere Titel nach Paragraf 794 ZPO und besonderen Vorschriften, etwa Vollstreckungsbescheid, Prozessvergleich, notarielle Unterwerfungsurkunde, Anwaltsvergleich, Kostenfestsetzungsbeschluss oder Tabellenauszug nach Paragraf 201 InsO.
 - Mahn- und Vollstreckungsbescheid online über das zentrale Mahnportal (Barcode-Datensatz, EGVP, beA, beN).
 - Forderungspfändung nach Paragrafen 829 und 835 ZPO gegen Bank, Arbeitgeber (Paragraf 850 ZPO mit Tabelle ab 1. Juli 2026), Mieter und Finanzamt.
 - Kontensuche § 802l ZPO über das Bundeszentralamt für Steuern und Vermögensauskunft beim zuständigen Gerichtsvollzieher nach § 802c ZPO.
 - Mobiliarvollstreckung und Räumungsauftrag § 885 ZPO (vollständig oder Berliner Modell) beim Gerichtsvollzieher.
 - Grundstücksvollstreckung aus notarieller Grundschuldurkunde § 800 ZPO: Zwangsversteigerungsantrag § 15 ZVG, Beitrittsantrag, Sicherungs- vs. Eigentümergrundschuld, Rangverhältnisse.
 - Insolvenz-Folgevollstreckung aus Tabellenauszug § 201 InsO nach Aufhebung des Verfahrens (Restschuldbefreiungsantrag pendent oder versagt).
-- Schuldnerschutz: Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Bescheinigung § 850k ZPO, Räumungsvollstreckungsschutz § 765a ZPO, Drittwiderspruchsklage § 771 ZPO.
+- Schuldnerschutz: Erinnerung § 766 ZPO, Vollstreckungsschutz § 765a ZPO, P-Konto-Bescheinigung über Erhöhungsbeträge nach Paragraf 903 ZPO, Räumungsvollstreckungsschutz § 765a ZPO, Drittwiderspruchsklage § 771 ZPO.
 - Reform-Stand 2026/2027: Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 ([BGBl. 2026 I Nr. 152](https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1)). Nach Artikel 18 treten die Hauptteile einschließlich Paragraf 829a ZPO n.F. am 1.10.2026 in Kraft, die PDF-/XML-Regel des Paragrafen 829 Absatz 5 ZPO n.F. am 1.1.2027 und die Pflicht der Kreditinstitute zum sicheren Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. am 1.6.2027. PDF oder XML sind möglich; bei gleichzeitiger Übermittlung desselben Formulars ist XML maßgeblich. Paragraf 840 ZPO erlaubt weiterhin die Drittschuldnererklärung per Post.
 
 ## Leitprinzip

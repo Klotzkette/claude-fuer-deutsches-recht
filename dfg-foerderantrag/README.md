@@ -5,7 +5,7 @@
 
 DFG-Förderantragssteller für Sachbeihilfe, adaptive Anfänger-/Profi-Führung, kleine schnelle Anträge, große Koselleck-Strategien, elan-Formalia, Finanzplan, Reviewer-Red-Team, Forschungsdaten, KI-/Ethik-Check und Wiedereinreichung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,19 +54,21 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`dfg-foerderantrag-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=dfg-foerderantrag/dfg-foerderantrag-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die praktische Antragstellung bei der Deutschen Forschungsgemeinschaft: Sachbeihilfe, elan-Formalia, Projektbeschreibung, Finanzplan, Forschungsdaten, Ethik-/KI-Check, Reviewer-Perspektive, Wiedereinreichung und strategische Entscheidung zwischen kleinem schnellen Antrag und großem Prestigeprojekt.
 
-Der Stil ist bewusst nicht bürokratisch. Das Plugin fragt zuerst: Was ist wissenschaftlich stark, was ist realistisch förderbar, was kann schneller entschieden werden und wo ist der große Antrag zwar verführerisch, aber prozessual zäher? Es arbeitet adaptiv: Anfänger bekommen eine geführte Mini-Roadmap; erfahrene Antragsteller bekommen direkt Red-Team, Kürzungsrisiko und Programmstrategie.
+Das Plugin liest zuerst vorhandene Projektskizzen, Arbeitsprogramme und Förderbedingungen. Es prüft wissenschaftliche Stärke, Programmpassung und realistischen Umfang; eine schnellere Entscheidung wird nicht versprochen. Anfänger erhalten bei Bedarf eine geführte Mini-Roadmap, erfahrene Antragsteller direkt die beauftragte Überarbeitung, Gegenprüfung oder Programmstrategie. Nachgefragt wird nur, was hierfür noch entscheidend fehlt.
 
 ## Quellen-Gate
 
+Am 16.10.2026 gezielt auf den DFG-Seiten geprüft: [Sachbeihilfe](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe) bestätigt die Soll-Vorlaufzeit für Fortsetzungen. Die [FAQ zur Begutachtung](https://www.dfg.de/de/foerderung/antrag-foerderprozess/entscheidungsverfahren/einzelfoerderung/faq-begutachtung) nennen grundsätzlich zwei unabhängige Gutachten und ausnahmsweise ein Gutachten bei Anträgen bis 200.000 Euro; daraus folgt kein Anspruch auf beschleunigte Entscheidung. Bei [Reinhart-Koselleck-Projekten](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/reinhart-koselleck-projekte) wurden fünf Jahre Laufzeit und 500.000 bis 1,25 Millionen Euro in Schritten von 250.000 Euro bestätigt. Die Nachprüfung umfasst nicht sämtliche Merkblätter, Ausschreibungen oder die Förderfähigkeit eines bestimmten Vorhabens.
+
 Vor jeder belastbaren Ausgabe aktuelle DFG-Seiten prüfen:
 
-- DFG Sachbeihilfe: themenoffene Einzelförderung, Neuanträge jederzeit, Fortsetzungsanträge spätestens 6 Monate vor Mittelverbrauch.
+- DFG Sachbeihilfe: themenoffene Einzelförderung, Neuanträge jederzeit. Fortsetzungsanträge sollen nach der Programmseite spätestens sechs Monate vor Verbrauch der bewilligten Mittel gestellt werden; dies ist keine dort ausgewiesene gesetzliche Ausschlussfrist.
 - DFG Begutachtung: grundsätzlich zwei Gutachten; bei Anträgen bis 200.000 Euro kann ausnahmsweise ein aussagekräftiges externes Gutachten reichen.
 - Reinhart-Koselleck-Projekte: 500.000 bis 1,25 Mio. Euro für fünf Jahre in Stufen von 250.000 Euro; nur für herausragende, besonders innovative oder risikobehaftete Projekte, die nicht in normale Verfahren passen.
 - DFG-Merkblätter, elan-Vorlagen, fachzuständige Ansprechpersonen und aktuelle Vordruckstände immer live gegen `dfg.de` prüfen.

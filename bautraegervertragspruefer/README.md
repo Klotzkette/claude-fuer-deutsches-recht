@@ -5,7 +5,7 @@
 
 Prüft deutsche Bauträgerverträge: MaBV-Ratenplan und Sicherheiten, Paragrafen 650u und 650v BGB, AGB-Kontrolle, Baubeschreibung, Abnahme Gemeinschaftseigentum, Bauzeit, Preisanpassung, Teilungserklärung. Liefert Mandantengutachten und Aufforderungsschreiben an Bauträger und Notar.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`bautraegervertragspruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bautraegervertragspruefer/bautraegervertragspruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -96,23 +96,25 @@ Drei Modi zur Wahl:
 
 ## Was dich aufhält
 
-- **MaBV-Ratenplan**: Überhöhte Vorleistungen, falsche Verteilung der Raten auf Bauabschnitte, fehlende Sicherheit nach Paragraf 7 MaBV.
-- **Verbraucherbauvertrag**: Paragrafen 650u und 650v BGB, Baubeschreibung als Pflichtinhalt, verbindliche Angabe zum Bauzeitende.
+- **MaBV-Ratenplan**: Überhöhte Vorleistungen, falsche Verteilung der Raten auf Bauabschnitte, fehlende Voraussetzungen des Zahlungsmodells; eine Sicherheit nach Paragraf 7 MaBV nur beim entsprechenden Ausnahmemodell verlangen.
+- Bauträgervertrag: Paragraf 650u BGB bestimmt das anwendbare Recht, Paragraf 650v die Abschlagszahlungen. Baubeschreibung und Bauzeit nach den jeweils anwendbaren Informations- und Vertragsregeln gesondert prüfen.
 - **AGB-Kontrolle**: Notarielle Beurkundung schliesst AGB-Kontrolle nicht aus; geltungserhaltende Reduktion findet bei unwirksamen Verbraucher-AGB nicht statt.
 - **Abnahme Gemeinschaftseigentum**: Verklammerung der Abnahme mit der Schlussrate gefährdet die werthaltige Sicherung.
 - **Baubeschreibung**: Pauschale Verweise auf anerkannte Regeln der Technik ohne konkrete Spezifikation lassen das Bausoll offen.
 
 ## Rechtlicher Anker
 
-- Paragrafen 650u und 650v BGB (Bauträgervertrag, Baubeschreibung)
+- Paragrafen 650u und 650v BGB (Bauträgervertrag und Abschlagszahlungen); Baubeschreibung nach Paragraf 650j BGB und Artikel 249 EGBGB unter Beachtung von Paragraf 650u Absatz 2 BGB
 - Paragrafen 305 bis 310 BGB (AGB-Kontrolle)
 - Makler- und Bauträgerverordnung (MaBV), insbesondere Paragrafen 3, 7
-- Paragraf 14 BNotO (Belehrungspflichten Notar)
+- Paragraf 14 BNotO (allgemeine Amtspflichten des Notars)
 - Wohnungseigentumsgesetz (Teilungserklärung, Abnahme Gemeinschaftseigentum)
 - HOAI (Leistungsphasen Objektüberwachung)
 - BGH-Leitentscheidungen zu Bauträgervertrag, MaBV und Abnahmeklauseln (im Werkstatt-Prompt ausführlich)
 
 ## Hinweise
+
+Gezielter Normcheck am 16.10.2026: [650u BGB](https://www.gesetze-im-internet.de/bgb/__650u.html), [650v BGB](https://www.gesetze-im-internet.de/bgb/__650v.html), [650j BGB](https://www.gesetze-im-internet.de/bgb/__650j.html) und [7 MaBV](https://www.gesetze-im-internet.de/gewo_34cdv/__7.html) gelesen. Die Normen trennen Vertragsregime, Abschlagszahlung, Verbraucherinformation und Sicherungsalternative. Daraus folgt weder eine zusätzliche Bürgschaftspflicht in jedem Ratenmodell noch die vollständige Übernahme des Verbraucherbauvertragsrechts. Übriger Prüfstand unverändert, keine neue Vollprüfung der Rechtsprechung.
 
 Generischer Prüfstand, alle Angaben ohne Gewähr. Jede Nutzerin und jeder Nutzer prüft den Prüfbericht auf Plausibilität und Eignung im konkreten Einzelfall. Keine Rechtsberatung. Keine Garantie für Vollständigkeit oder Aktualität der Rechtsprechung. Bei streitigen Fällen Fachanwalt für Bau- und Architektenrecht oder Notar hinzuziehen.
 

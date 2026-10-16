@@ -5,7 +5,7 @@
 
 Eigenständiges Plugin für deutsches Gebrauchsmusterrecht: GebrMG, DPMA-Anmeldung, Recherche nach Paragraf 7 GebrMG, Abzweigung, Neuheitsschonfrist, Verletzung, Löschung, BPatG-Beschwerde, Lizenz, FTO und Schnellschutz für technische Produkte.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gebrauchsmusterrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,7 +72,7 @@ Dieses Plugin behandelt das deutsche Gebrauchsmuster als schnelles, ungeprüft e
 
 ## Arbeitsmodus
 
-Der Einstieg ist bewusst niedrigschwellig: Uploads, Bilder, Verträge oder bloße Stichworte reichen. Das Plugin fragt zuerst nach den wenigen Punkten, die wirklich entscheiden: Frist, Produkt, Territorium, Registerstand, Veröffentlichungsdatum, Vertrag und gewünschter Output. Danach schlägt es passende Spezialskills aus diesem Plugin und angrenzenden Plugins vor.
+Aus Gebrauchsmusterschrift, Registerauszug, Produktunterlagen und bekanntem Stand der Technik wird zuerst die konkrete Aufgabe bestimmt: Anmeldung, Rechtsbestandsprüfung, Löschung oder Verletzung. Nur entscheidende fehlende Angaben zu Schutzanspruch, Priorität, Offenbarung oder angegriffenem Produkt werden nachgefragt. Bei klarem Auftrag beginnt unmittelbar der verlangte Entwurf; nachgereichte Belege werden an der betroffenen Anspruchs- oder Merkmalsprüfung eingearbeitet. Die Eintragung ersetzt keine Prüfung der Schutzfähigkeit.
 
 ## Praxisblöcke
 

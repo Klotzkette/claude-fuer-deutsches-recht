@@ -5,7 +5,7 @@
 
 Gesellschaftsrecht für GmbH, AG und Personengesellschaften: Beschlüsse, Gesellschafterliste, Satzung, Organhaftung, Streit, Kapitalerhaltung, Umwandlung, Register und Transaktionen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/gesellschaftsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [11 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -78,7 +78,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du Gesellschaftsrecht für GmbH, AG oder Personengesellschaft bearbeiten: Beschluss, Satzung, Gesellschafterliste, Organhaftung, Streit, Kapital, Umwandlung oder Register.
-Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsabteilungen: M&A-Transaktionen, Organe und Protokollwesen, Gesellschafts-Compliance und Unternehmensführung. Aktiviere nur die Module, die für deine Praxis relevant sind. Das Kaltstart-Interview ist modular – es stellt gezielte Fragen je aktivem Bereich und schreibt nur die entsprechenden Abschnitte in dein Praxisprofil.
+Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsabteilungen: M&A-Transaktionen, Organe und Protokollwesen, Gesellschafts-Compliance und Unternehmensführung. Aktiviere nur die Module, die für deine Praxis relevant sind. Ein Praxisprofil kann die wiederkehrende Arbeit unterstützen. Ein klarer Auftrag mit Satzung, Beschlussunterlagen oder Datenraum wird jedoch direkt bearbeitet; nur entscheidende fehlende Angaben werden nachgefragt und Antworten im begonnenen Dokument umgesetzt.
 
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Überprüfung – zitiert, markiert und gesperrt – kein Rechtsgutachten.** Das Plugin übernimmt die Arbeit: liest Dokumente, wendet dein Playbook an, findet die Issues, erstellt den Bericht. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Zitate sind mit Quellen gekennzeichnet, damit klar ist, welche aus einem Recherchetool stammen und welche noch zu prüfen sind. Mandantengeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gewahrt. Folgenreiche Handlungen – Einreichung, Versendung, Beurkundung – werden durch ausdrückliche Bestätigung gesperrt.
 
@@ -99,7 +99,7 @@ Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsa
 /gesellschaftsrecht:kaltstart-interview
 ```
 
-Führt durch die Modulauswahl und ein kurzes Zielinterview je aktivem Bereich. Schreibt ein modulares Praxisprofil nach:
+Optional für die Einrichtung wiederkehrender Mandate; kein Pflichtschritt vor einem konkreten Dokumentauftrag. Schreibt bei gewünschter Einrichtung ein modulares Praxisprofil nach:
 `~/.claude/plugins/config/claude-fuer-deutsches-recht/gesellschaftsrecht/CLAUDE.md`
 
 Deine Konfiguration bleibt dort und übersteht Plugin-Updates.
@@ -143,7 +143,7 @@ MCP-Server konfigurieren unter `.mcp.json` auf Repo- oder Benutzerebene. Skills 
 | **wesentliche-verträge-anlage** | M&A | Disclosure Schedule gemäß SPA-Definition |
 | **vollzugs-checkliste** | M&A | Selbstaktualisierend: nimmt Einträge aus DD und Schedule-Builds auf |
 | **ki-werkzeug-übergabe** | M&A | Luminance/Kira-Integration – Massenextraktion + QA-Schicht |
-| **aufsichtsrat-protokoll** | Organe & Protokoll | Kalendererkennung für Sitzungen → Protokollentwurf im Hausformat (AG: § 107 AktG; GmbH: § 48 GmbHG) |
+| **aufsichtsrat-protokoll** | Organe & Protokoll | Kalendererkennung für Sitzungen → Protokollentwurf im Hausformat (AG-Aufsichtsrat: Paragraf 107 AktG; GmbH-Aufsichtsrat: Paragraf 52 GmbHG und Satzung, nicht die Gesellschafterversammlung nach Paragraf 48 GmbHG) |
 | **gesellschafterbeschluss** | Organe & Protokoll | Beschlüsse im schriftlichen Verfahren § 48 II GmbHG mit Mustersuche aus dem Beschluss-Repository; Hinweis bei wesentlichen Einzelmaßnahmen |
 | **gesellschafts-compliance** | Gesellschafts-Compliance | Compliance-Kalender-Tracker (YAML); Einreichungsfristen nach Rechtsträger; Bilanzpublizität § 325 HGB; Transparenzregister § 20 GwG; Gesundheitsaudit; CSV-Export |
 | **post-merger-integration** | M&A | Post-Closing-Integrationsplan; phasenweiser Arbeitsplan (Tag 1/30/90/180); Zustimmungsregister mit SPA-Fristen; Vertragsübertragung; Wochenstatusberichte |
@@ -154,7 +154,7 @@ MCP-Server konfigurieren unter `.mcp.json` auf Repo- oder Benutzerebene. Skills 
 
 ## Interaktive Befehle vs. geplante Agenten
 
-Die Befehle oben laufen, wenn du sie aufrufst – für das aktive Mandat. Die Agenten unten laufen nach Zeitplan – für das, was sich bewegt, während du nicht hinschaust:
+Die Befehle laufen auf deinen Auftrag für das aktive Mandat. Eine wiederkehrende Überwachung setzt eine ausdrücklich beauftragte und tatsächlich eingerichtete Zeitplanung sowie erreichbare Datenquellen voraus. Die Installation allein startet keinen Hintergrundlauf:
 
 | Agent | Modul | Was er beobachtet | Standard-Rhythmus |
 |---|---|---|---|
@@ -164,7 +164,7 @@ Die Befehle oben laufen, wenn du sie aufrufst – für das aktive Mandat. Die Ag
 
 **Verbinde zuerst ein Recherchetool – die Zitier-Absicherung hängt davon ab.** Ohne eines wird jedes Zitat mit `[prüfen]` markiert und der Prüfer-Hinweis über jedem Ergebnis vermerkt, dass Quellen nicht verifiziert wurden. Skills funktionieren in beiden Fällen; ein Recherchetool (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Westlaw DE) verlagert Verifikationsarbeit aus deiner Hand.
 
-Mitgeliefert wird:
+Als mögliche externe Anbindungen beschrieben, nicht als mitgelieferte Dienste oder erteilte Zugriffsrechte:
 
 - **Slack** – Nachrichten suchen, Kanäle lesen, Diskussionen finden
 - **Google Drive** – Dokumente suchen, lesen und abrufen
@@ -185,7 +185,7 @@ Maßgebliche Gesetze dieses Plugins:
 - **WEG** – Wohnungseigentumsgesetz (soweit gesellschaftsrechtlich relevant)
 - **GwG** – Geldwäschegesetz (Transparenzregister § 20 GwG)
 
-Zitierweise nach `../references/zitierweise.md` (BGH-Stil).
+Zitierweise nach `../references/zitierweise.md` (BGH-Stil). Punktuell am 16.10.2026 zusätzlich [Paragraf 52 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__52.html) gelesen: Für den GmbH-Aufsichtsrat sind dessen Verweisungen und die Satzung maßgeblich, nicht pauschal das Recht der Gesellschafterversammlung. Zusätzlich wurden am 16.10.2026 [Paragraf 110 AktG](https://www.gesetze-im-internet.de/aktg/__110.html), [Paragraf 130 AktG](https://www.gesetze-im-internet.de/aktg/__130.html) und [Paragraf 48 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__48.html) vollständig gelesen: keine allgemeine 14-Tage-Mindestladung aus Paragraf 110, begrenzte Ausnahme zur notariellen Niederschrift in Paragraf 130 Absatz 1 Satz 3 und unterschriebene Niederschrift der Einpersonengesellschaft nach Paragraf 48 Absatz 3. Die entsprechenden Prüf- und Musterstellen im Protokoll-Skill sind korrigiert; seine übrigen aktienrechtlichen Detailregeln wurden nicht vollständig neu verifiziert.
 
 ## Lernen
 
@@ -195,7 +195,7 @@ Dein Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/ge
 
 - Die Issue-Extraktion wendet Wesentlichkeitsschwellen an – nicht jedes Dokument wird gelesen, wenn die Schwelle Top-N nach Wert vorschreibt.
 - Käufer- und Verkäuferseite werden beide unterstützt. Das Praxisprofil erfasst, welche Seite für dieses Mandat gilt; Skills passen ihre Haltung entsprechend an.
-- **Due Diligence:** DD läuft über Q&A-Prozess, Datenraum (VDR), Disclosure Letter und gesetzliche Auskunftsansprüche (§§ 242, 259, 666 BGB; Art. 15 DSGVO). Auskunftsansprüche im Streitfall: §§ 142, 144 ZPO; § 254 ZPO (Stufenklage).
+- Due Diligence nutzt insbesondere Datenraum, Fragen und Antworten sowie die Offenlegungserklärung. Materielle Auskunfts- oder Einsichtsansprüche benötigen eine eigene Grundlage, etwa bei Vorliegen der Voraussetzungen des Paragrafen 810 BGB. Paragraf 142 und 144 ZPO betreffen gerichtliche Anordnungen im Prozess; das selbständige Beweisverfahren nach Paragraf 485 ff. ZPO ist ein eigener, voraussetzungsgebundener Weg. Die Stufenklage nach Paragraf 254 ZPO schafft keinen materiellen Auskunftsanspruch. Den punktuellen amtlichen Normabgleich vom 16.10.2026 mit Quellen und Grenzen dokumentiert der [DD-Fachskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/dd-findings-extraktion/SKILL.md).
 - KI-Tool-Übergabe (Luminance/Kira) ist optional. Wenn das Praxisprofil kein Tool angibt, läuft alle Extraktion über den direkten Skill.
 - Die Vollzugscheckliste wird aus dem SPA initialisiert und aktualisiert sich selbst, wenn die DD Zustimmungserfordernisse aufdeckt.
 
@@ -236,7 +236,7 @@ English: Complete list of all 118 skills in this plugin. Both links in each row 
 | [`anpassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/anpassen/SKILL.md) | Für Praxisprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/anpassen/SKILL.md) |
 | [`anschluss`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/anschluss/SKILL.md) | Für Gesellschaftsrecht — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/anschluss/SKILL.md) |
 | [`arbeitsbereich-mandantenentscheidung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/arbeitsbereich-mandantenentscheidung/SKILL.md) | Für Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/arbeitsbereich-mandantenentscheidung/SKILL.md) |
-| [`aufsichtsrat-protokoll`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/aufsichtsrat-protokoll/SKILL.md) | Für Vorstands- und Aufsichtsratsprotokoll (AG: Paragraf 107 AktG; GmbH: Paragraf 48 GmbHG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/aufsichtsrat-protokoll/SKILL.md) |
+| [`aufsichtsrat-protokoll`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/aufsichtsrat-protokoll/SKILL.md) | Für Organprotokolle: AG-Aufsichtsrat, Vorstand, Hauptversammlung und GmbH-Gesellschafterversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/aufsichtsrat-protokoll/SKILL.md) |
 | [`beirat-abgrenzung-aufsichtsrat`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-abgrenzung-aufsichtsrat/SKILL.md) | Für Beirat Abgrenzung Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-abgrenzung-aufsichtsrat/SKILL.md) |
 | [`beirat-amtszeit-und-rotation`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-amtszeit-und-rotation/SKILL.md) | Für Beirat Amtszeit und Rotation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-amtszeit-und-rotation/SKILL.md) |
 | [`beirat-bank-und-sanierung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-bank-und-sanierung/SKILL.md) | Für Beirat Bank und Sanierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrecht/skills/beirat-bank-und-sanierung/SKILL.md) |

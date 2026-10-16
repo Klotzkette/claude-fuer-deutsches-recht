@@ -5,7 +5,7 @@
 
 Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`solo-selbststaendige-praxis-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=solo-selbststaendige-praxis/solo-selbststaendige-praxis-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,11 +72,11 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Ein Alltags-Cockpit für Menschen, die alleine selbstständig arbeiten und trotzdem mit Finanzamt, Kunden, Krankenkasse, DRV, KSK, Datenschutz, Verträgen, Rechnungen, Mahnungen und dem eigenen Kontostand klarkommen müssen.
 
-Das Plugin ist bewusst praktisch: Es fragt zuerst, ob die Person Anfängerin/Anfänger ist, ob es Haupt- oder Nebenerwerb ist, ob Gewerbe oder Freiberuf in Betracht kommt, ob gerade eine Frist läuft und ob ein Dokument vorliegt. Danach erzeugt es keine Wolke aus Ratschlägen, sondern ein konkretes Ergebnis: Mail, Checkliste, Rechnungstext, Vertragsbaustein, Statusmatrix, Fristenlog oder Entscheidungsmemo.
+Das Plugin arbeitet zuerst mit dem konkreten Auftrag und vorhandenen Dokumenten. Haupt- oder Nebenerwerb, Gewerbe oder Freiberuf sowie eine laufende Frist werden nur nachgefragt, soweit die Antwort für den nächsten Schritt fehlt. Ergebnis ist beispielsweise eine Mail, ein Rechnungstext, ein Vertragsbaustein, eine Statusprüfung oder ein Entscheidungsmemo.
 
 ## Kaltstart
 
-Starte mit `solo-allgemeiner-kaltstart`. Lade, wenn vorhanden, Behördenbriefe, Rechnungen, Vertragsentwürfe, E-Mails, Screenshots von Plattformen, ELSTER-/KSK-/DRV-Schreiben und eine einfache Umsatz-/Kostenübersicht hoch. Das Plugin sortiert erst die Lage und schlägt dann die passenden Spezialskills vor.
+Für eine offene Ausgangslage starte mit `kaltstart-routing`. Liegt der Auftrag schon fest, wähle direkt den passenden Fachskill und gib die verfügbaren Briefe, Rechnungen oder Verträge dazu. Fehlende Angaben werden gezielt ergänzt; Antworten führen denselben Entwurf fort, statt die Aufnahme neu zu beginnen.
 
 ## Typische Fragen
 
@@ -90,6 +90,8 @@ Starte mit `solo-allgemeiner-kaltstart`. Lade, wenn vorhanden, Behördenbriefe, 
 - Wie organisiere ich Datenschutz, Website, Newsletter und KI-Tools klein, aber ordentlich?
 
 ## Amtliche Startquellen
+
+Gezielte Aktualitätsprüfung am 16.10.2026 für Lehrtätigkeiten: [Paragraf 127 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__127.html) wurde vollständig gelesen. Die Übergangsregel bis Ende 2027 setzt insbesondere die gemeinsame Annahme der Selbständigkeit und die erforderliche Zustimmung voraus. Sie erklärt Unterricht nicht generell zur selbständigen Tätigkeit und beseitigt nicht sämtliche Rentenversicherungs- oder KSVG-Pflichten. Andere Steuergrenzen, Förderbedingungen und Berufsgruppen wurden dabei nicht neu verifiziert.
 
 - GewO § 14 Gewerbeanzeige
 - ELSTER Fragebogen steuerliche Erfassung Einzelunternehmen

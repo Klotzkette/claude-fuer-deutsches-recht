@@ -5,7 +5,7 @@
 
 Mechanisches Durchprüfen von Bereicherungsrecht Paragrafen 812 ff. BGB, AnfG und Insolvenzanfechtung Paragrafen 129-147 InsO. Mit KI-Screening von Schuldnerakten, Paragraf 135 Gesellschafterdarlehen, Bargeschäft Paragraf 142 und Verteidigung des Anfechtungsgegners. Keine Rechtsberatung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bereicherungs-und-anfechtungsrecht-pruefer/bereicherungs-und-anfechtungsrecht-pruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,7 +72,7 @@ Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägig
 Generisches Mechanik-Prüfungs-Plugin zum interaktiven Durchprüfen aller Tatbestandsmerkmale von:
 
 - **Bereicherungsrecht** §§ 812 ff. BGB (Herausgabe ohne Rechtsgrund Erlangtes)
-- **Anfechtungsgesetz** (AnfG) — Rückgewähr trotz Rechtsgrund durch benachteiligten Vollstreckungsgläubiger
+- **Anfechtungsgesetz** (AnfG) — Anfechtung gläubigerbenachteiligender Rechtshandlungen außerhalb des Insolvenzverfahrens
 - **Insolvenzanfechtung** §§ 129–147 InsO — Rückgewähr zur Insolvenzmasse
 
 Kein Rechtsberatungs-Tool. Mechanische Tatbestandsprüfung mit ständigen Warnhinweisen.
@@ -99,16 +99,16 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Kern-Workflow
 
-1. **Triage**: Was ist passiert? Vermögensverschiebung mit oder ohne Rechtsgrund? Insolvenzverfahren eröffnet? Vollstreckungstitel vorhanden?
+1. Zahlungs-, Vertrags- und Vollstreckungsunterlagen zuerst lesen. Bekannte Rolle und Ziel übernehmen, nur entscheidende Lücken erfragen und Antworten im bestehenden Entwurf fortführen.
 2. **Weichenstellung**:
    - Kein Rechtsgrund → Bereicherungsrecht (Leistungs- oder Nichtleistungskondiktion)
-   - Rechtsgrund + außerhalb Insolvenz + Vollstreckungsgläubiger benachteiligt → AnfG
-   - Rechtsgrund + Insolvenzverfahren → InsO-Anfechtung
-   - Kombinationen und Konkurrenzen werden gesondert geprüft
+   - Gläubigerbenachteiligende Rechtshandlung außerhalb Insolvenz → AnfG einschließlich Berechtigung nach Paragraf 2 prüfen
+   - Eröffnetes Insolvenzverfahren und gläubigerbenachteiligende Rechtshandlung → InsO-Anfechtung prüfen; ein bloßer Eröffnungsantrag genügt nicht
+   - Ein wirksamer Rechtsgrund ist keine allgemeine Voraussetzung der Gläubigeranfechtung; mögliche Bereicherungsansprüche und Konkurrenzen gesondert prüfen
 3. **Bereicherungsrechtliche Feinsortierung**: Vermögensvorteil, Leistungszweck, Rechtsgrund, Behaltensgrund, Mehrpersonenverhältnis, Saldo, § 818 BGB
 4. **Tatbestandsmerkmale pro Pfad**: Definitionen, Belegbedarf, Subsumtion im Vier-Schritt-Schema (Obersatz, Definition, Untersatz, Ergebnis)
 5. **Rechtsfolgen, Konkurrenzen, Verjährung, Einreden**
-6. **Output**: Klageschrift Bereicherungsklage, Anfechtungsklage (AnfG), Anfechtungsanzeige des Insolvenzverwalters
+6. Das bestellte Rückforderungs- oder Abwehrschreiben beziehungsweise Gutachten fertigstellen; eine Klage nur bei entsprechendem Auftrag.
 
 ---
 
@@ -450,3 +450,7 @@ English: Complete list of all 139 skills in this plugin. Both links in each row 
 | [`zweckverfehlung-und-kondiktionszweck`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bereicherungs-und-anfechtungsrecht-pruefer/skills/zweckverfehlung-und-kondiktionszweck/SKILL.md) | Für Zweckverfehlung und Kondiktionszweck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bereicherungs-und-anfechtungsrecht-pruefer/skills/zweckverfehlung-und-kondiktionszweck/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## Gezielter Quellenabgleich
+
+Am 16.10.2026 [Paragraf 129 InsO](https://www.gesetze-im-internet.de/inso/__129.html), [Paragraf 1 AnfG](https://www.gesetze-im-internet.de/anfg_1999/__1.html) und Paragraf 2 in der [amtlichen AnfG-Gesamtausgabe](https://www.gesetze-im-internet.de/anfg_1999/BJNR291110994.html) gelesen. Ein wirksamer Rechtsgrund ist kein allgemeines Eingangskriterium der Anfechtung. Paragraf 2 AnfG erfordert Titel, Fälligkeit und tatsächliche oder voraussichtliche unvollständige Befriedigung; ein bereits gescheiterter Vollstreckungsversuch ist nicht stets nötig. Einzelne Anfechtungstatbestände, Fristen und Insolvenzfolgen wurden nicht vollständig neu geprüft.

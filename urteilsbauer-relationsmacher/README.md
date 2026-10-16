@@ -3,9 +3,9 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.
+Werkstatt für Richter und Rechtspfleger: Gerichtsakten erschließen, eine Relation erstellen und Urteile oder Beschlüsse anhand belegter Feststellungen entwerfen. Entscheidungsart und Verfahrensordnung bestimmen Aufbau und Form. DOCX-Ausgabe nur bei verfügbarer Dateierzeugung, sonst vollständiger Text mit getrenntem Exporthinweis.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`urteilsbauer-relationsmacher-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -68,10 +68,10 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du eine Gerichtsakte blitzschnell in ihre Bestandteile zergliedern und daraus einen Urteils- oder Beschlussentwurf nach Paragraf 313 ZPO bauen.
+Hier arbeiten Sie aus einer Gerichtsakte eine Relation und den beauftragten Urteils- oder Beschlussentwurf aus. Paragraf 313 ZPO betrifft den Aufbau des Zivilurteils, nicht pauschal jede Beschlussart; die einschlägigen Formvorschriften sind anhand des konkreten Verfahrens zu bestimmen.
 Technischer Plugin-Name: `urteilsbauer-relationsmacher`.
 
-Freistehendes Plugin für **Amts-, Land- und Familienrichter sowie Rechtspfleger**. Begleitet von der Aktenintake über die Relation und die Beweiswürdigung mit Richter-Input bis zum fertigen Urteil oder Beschluss inklusive Tenor, Tatbestand, Entscheidungsgründen, Kosten- und Rechtsmittelbelehrung. Erzeugt am Ende ein DOCX nach § 313 ZPO.
+Freistehendes Plugin für Amts-, Land- und Familienrichter sowie Rechtspfleger. Es begleitet die Aktenauswertung, Relation und Beweiswürdigung mit richterlichen Vorgaben bis zum fertigen Entscheidungsentwurf. Tenor, Darstellung des Sachverhalts, Gründe, Kostenentscheidung und Rechtsmittelbelehrung werden entsprechend der Entscheidungsart ausgearbeitet. Fehlt ein Dateiexport, wird der Text geliefert, nicht die Erzeugung einer DOCX-Datei behauptet.
 
 ## Installation
 

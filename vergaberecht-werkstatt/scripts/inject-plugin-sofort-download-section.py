@@ -204,13 +204,26 @@ def build_section(plugin_name: str, akten_slugs: list[str]) -> str:
     lines.append("")
     lines.append(f"> {quickstart['starter']}")
     lines.append("")
-    lines.append(
-        f"Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das "
-        f"Plugin antwortet sofort in fünf Zeilen mit `Lage | Rot | "
-        f"{quickstart['result']} | Rechtsweiche | Jetzt`, verarbeitet den Fall "
-        "danach selbstständig und stellt am Ende höchstens drei echte "
-        "Blockerfragen. Bereits sichtbare Angaben werden nicht erneut erfragt."
-    )
+    if plugin_name == "vergabestelle-behoerden":
+        lines.append(
+            "Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. "
+            "Das Plugin bearbeitet den Auftrag eigenständig. Bei einem offenen "
+            "Ordnerauftrag kann es mit `Lage | Rot | Akte | Rechtsweiche | Jetzt` "
+            "orientieren. Ist ein bestimmtes Dokument bestellt, beginnt es nach "
+            "der Unterlagensichtung unmittelbar damit. Pro Rückfragerunde werden "
+            "höchstens drei echte, entscheidende Lücken gebündelt erfragt; "
+            "bereits sichtbare Angaben werden nicht erneut erfragt. Antworten "
+            "werden im selben Entwurf verarbeitet. Weitere Rückfragen folgen "
+            "nur bei neuen entscheidenden Lücken, bis das bestellte Dokument vorliegt."
+        )
+    else:
+        lines.append(
+            f"Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das "
+            f"Plugin antwortet sofort in fünf Zeilen mit `Lage | Rot | "
+            f"{quickstart['result']} | Rechtsweiche | Jetzt`, verarbeitet den Fall "
+            "danach selbstständig und stellt am Ende höchstens drei echte "
+            "Blockerfragen. Bereits sichtbare Angaben werden nicht erneut erfragt."
+        )
     lines.append("")
     lines.append("<details>")
     lines.append("<summary><strong>Weitere Prompt- und Skill-Downloads anzeigen</strong></summary>")

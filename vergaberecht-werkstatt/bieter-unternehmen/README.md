@@ -88,8 +88,8 @@ Für neue Vergaben genügt der Unterlagenordner und dieser Satz: `Neue Bewerbung
 - Im verlangten Format liefern: bepreistes LV, Teilnahmeantrag oder Angebot als GAEB/XML/Excel/PDF/ZIP oder Portalformular vorbereiten; native Abgabedateien nur nach Format- und Roundtrip-Prüfung.
 - Eignung zuerst prüfen: kein Angebot ohne ESPD-Tauglichkeit, Eigenerklärung, Präqualifikation.
 - Form vor Inhalt: formgerechte Abgabe, eSignatur, fristgerechte Einreichung — Verstöße führen regelmäßig zum Ausschluss (§ 57 VgV / § 16 EU VOB/A).
-- Rügeobliegenheit beachten: Verstoß innerhalb von 10 Kalendertagen ab Kenntnis rügen (§ 160 Abs. 3 GWB), sonst Präklusion.
-- Nachprüfungsantrag rechtzeitig: Frist 15 Kalendertage nach Nichtabhilfe der Rüge; Aussetzung des Zuschlags nur durch Antrag (§ 169 GWB).
+- Rügeobliegenheit nach Paragraf 160 Absatz 3 GWB fallbezogen prüfen: erkannte Verstöße grundsätzlich binnen zehn Kalendertagen; aus Bekanntmachung oder Vergabeunterlagen erkennbare Verstöße spätestens bis zur jeweiligen Bewerbungs- oder Angebotsfrist. Ausnahmen gesondert prüfen.
+- Nachprüfungsantrag rechtzeitig vorbereiten: grundsätzlich 15 Kalendertage ab Eingang der Nichtabhilfemitteilung. Der Antrag allein löst die Sperre nach Paragraf 169 Absatz 1 GWB nicht aus; die gesetzlich vorgesehene Unterrichtung des Auftraggebers durch die Vergabekammer ist nachzuweisen.
 
 ## Skills
 
@@ -118,6 +118,8 @@ Für neue Vergaben genügt der Unterlagenordner und dieser Satz: `Neue Bewerbung
 - VK-Termin, Vergleich oder Mehrparteienlage: `vergabekammer-termin-simulation`, `vergleichsverhandlung-strategie`, `verg-mehrparteien-konflikt-und-interessen`.
 
 ## Anker-Rechtsprechung
+
+Begrenzter Normabgleich am 16.10.2026: [160 GWB](https://www.gesetze-im-internet.de/gwb/__160.html), Absatz 3, und [169 GWB](https://www.gesetze-im-internet.de/gwb/__169.html), Absatz 1, gelesen. Rügefristen nach Kenntnis und Erkennbarkeit trennen; Antragstellung und Sperrbeginn nicht gleichsetzen. Bei Obsiegen des Auftraggebers endet die Sperre nach aktueller Fassung bereits mit Bekanntgabe der Kammerentscheidung; zeitliche Anwendbarkeit und weitere Rechtsschutzwege gesondert prüfen. Keine Vollprüfung der Vergabereform oder neue Verifikation sämtlicher nachfolgender Entscheidungen.
 
 - EuGH 28.10.1999 — C-81/98 "Alcatel Austria" — Vorabinformation.
 - EuGH 02.06.2016 — C-27/15 "Pizzo" — keine überraschenden Ausschlussgründe.

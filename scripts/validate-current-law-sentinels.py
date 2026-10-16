@@ -106,6 +106,14 @@ SENTINELS = (
         ),
     ),
     Sentinel(
+        "falsches Datum zum BVerwG-Anker 4 CN 4.19",
+        re.compile(
+            r"(?:14[.]10[.]2020[^\n]{0,80}4\s+CN\s+4[./]19|"
+            r"4\s+CN\s+4[./]19[^\n]{0,80}14[.]10[.]2020)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
         "veralteter und fachfremder AGB-Sammelanker",
         re.compile(
             r"AGBG\s*\(alt\).{0,120}C-26/13.{0,80}C-186/16",
@@ -1707,6 +1715,7 @@ SENTINEL_HINTS = (
     ("normenradar:",),
     ("ix r 28/14",),
     ("c-307/22",),
+    ("14.10.2020",),
     ("agbg",),
     ("b 12 ba 3/23",),
     ("ix zr 211/02",),

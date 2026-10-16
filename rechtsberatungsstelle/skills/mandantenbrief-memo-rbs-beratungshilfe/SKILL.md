@@ -34,13 +34,13 @@ description: "Für /mandantenbrief: erstellt Entwurf mit Antrag, Beweis und Anla
 ## Zentrale Normen
 - BORA § 11 — Mitteilungspflicht: Mandant ist über wesentliche Verfahrensschritte zu informieren
 - § 43a Abs. 2 BRAO — Verschwiegenheit: Mandantenbrief darf keine Drittinformationen offenbaren
-- § 6 Abs. 2 Nr. 2 RDG — Anleitungspflicht: Mandantenbrief von Studentenn erfordert Anleiterpruefung und -freigabe
+- Paragraf 6 Absatz 2 RDG — Anleitungspflicht: Mandantenbrief von Studentenn erfordert Anleiterpruefung und -freigabe
 - Art. 5 Abs. 1 lit. c DSGVO — Datensparsamkeit: nur für Mandanten bestimmte Informationen im Brief
 
 ## BORA-Pflichten bei Mandantenmitteilungen
 
 - BORA § 11 (Handakten / Mitteilungspflichten): Der Anwalt (hier: der Anleiter) hat den Mandanten über wesentliche Verfahrensschritte zu informieren.
-- BORA § 14: Rücksendung von Unterlagen und Abrechnung (hier: da unentgeltlich, primär Aktenführung).
+- Rückgabe von Unterlagen und Aktenführung anhand des konkreten Beratungsauftrags und der für den Träger geltenden Regeln prüfen; Paragraf 14 BORA nicht als pauschale Rückgabenorm verwenden.
 - § 43a Abs. 2 BRAO: Keine Informationen über Dritte im Brief an den Mandanten preisgeben.
 - Datenschutz: Im Brief nur Informationen, die für den Mandanten bestimmt sind. Keine internen Bewertungen, keine Drittdaten.
 
@@ -50,7 +50,7 @@ description: "Für /mandantenbrief: erstellt Entwurf mit Antrag, Beweis und Anla
 
 | Regel | Schlecht | Besser |
 |---|---|---|
-| Kurze Sätze (max. 15 Wörter) | "Die Frist zur Einlegung des Widerspruchs beträgt nach § 84 SGG einen Monat ab Bekanntgabe des Bescheids." | "Sie haben einen Monat Zeit, um Widerspruch einzulegen. Die Frist beginnt mit dem Datum auf dem Bescheid." |
+| Kurze Sätze | "Die Frist zur Einlegung des Widerspruchs beträgt nach § 84 SGG einen Monat ab Bekanntgabe des Bescheids." | "Für den Widerspruch haben Sie grundsätzlich einen Monat Zeit. Entscheidend ist die Bekanntgabe, nicht nur das Briefdatum. Wir prüfen den genauen letzten Tag." |
 | Aktiv statt Passiv | "Der Widerspruch wird eingelegt." | "Wir legen Widerspruch ein." |
 | Bekannte Wörter | "Klagefrist", "Begründetheit", "Subsumtion" | "Frist", "Grund für den Widerspruch" |
 | Keine Abkürzungen ohne Erklärung | "SGB II § 22" | "Bürgergeld-Gesetz (Abschnitt über Wohnen)" |
@@ -116,7 +116,9 @@ Mit freundlichen Grüßen
 > "Wir haben Ihrem Vermieter am [Datum] geschrieben, dass die Wohnung [Mangel] hat. Wir haben ihn aufgefordert, das bis zum [Datum] zu reparieren. Wenn er das nicht tut, können Sie die Miete mindern. Das bedeutet: Sie zahlen weniger Miete, weil die Wohnung nicht in Ordnung ist. Wie viel weniger – das besprechen wir mit Ihnen."
 
 ### BAMF-Klage eingereicht
-> "Wir haben fristgerecht Klage gegen den Bescheid des BAMF vom [Datum] eingereicht. Das Verwaltungsgericht [Ort] prüft jetzt Ihren Fall. Das Aktenzeichen der Klage ist: [AZ]. Der Aufenthalt ist während des Klageverfahrens sichergestellt (§ 81 Abs. 3 AufenthG). Bitte informieren Sie uns sofort, wenn Sie Post vom Gericht oder der Ausländerbehörde bekommen."
+> "Wir haben am [belegtes Datum] Klage gegen den Bescheid des BAMF vom [Datum] eingereicht. Das Aktenzeichen lautet: [belegtes Aktenzeichen]. Ob Sie während des Verfahrens bleiben dürfen und ob ein Eilantrag nötig ist, prüfen wir gesondert. Bitte geben Sie uns neue Post vom Gericht oder der Ausländerbehörde sofort weiter."
+
+Eine tatsächliche Einreichung nur bei Nachweis behaupten. Keine pauschale Aufenthaltsgarantie aus der Klageerhebung oder Paragraf 81 Absatz 3 AufenthG ableiten. Gezielte Quellen und Prüfgrenzen: [Vermerk vom 16.10.2026](../../references/gezielter-quellenabgleich-2026-10-16.md).
 
 ### Termin-Erinnerung
 > "Ihr nächster Termin bei uns ist: [Datum], [Uhrzeit], [Adresse, Raum]. Bitte bringen Sie mit: [Aufzählung der Unterlagen]. Wenn Sie nicht kommen können: Bitte rufen Sie uns vorher an unter [Nummer]."

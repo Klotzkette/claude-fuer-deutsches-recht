@@ -5,7 +5,7 @@
 
 Allgemeiner NDA-Ersteller und NDA-Prüfer für deutsche und internationale Verschwiegenheitsvereinbarungen: Entwurf, Redline, GeschGehG, HinSchG, AGB, Arbeitsrecht, M&A, Forschung, Software, Datenraum und Verletzungsreaktion.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`nda-verschwiegenheit-generator-checker-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nda-verschwiegenheit-generator-checker/nda-verschwiegenheit-generator-checker-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -62,13 +62,15 @@ Dieses Plugin ist der allgemeine Verschwiegenheitsvereinbarungs-Generator und Ch
 
 ## Startworkflow
 
-1. **Rolle und Ziel klären:** Wer fragt, wer entscheidet, wer trägt Risiko?
-2. **Unterlagen einsammeln:** Entwurf, Satzung, Geschäftsordnung, Beschluss, Term Sheet, Vertrag, Organunterlagen, E-Mail, Datenraum, Registerauszug.
-3. **Weiche wählen:** Entwerfen, prüfen, verhandeln, durchführen, protokollieren, eskalieren oder prozessfest dokumentieren.
-4. **Spezialskills ziehen:** Das Plugin schlägt nach dem Kaltstart die passenden Vertiefungen vor und stoppt nicht bei einer Scheinlösung.
-5. **Output liefern:** Matrix, Entwurf, Redline-Hinweise, Beschlussvorschlag, Protokollbaustein, Memo oder To-do-Liste.
+1. Vorhandene NDA-Fassung, Austauschzweck und Korrespondenz lesen. Bei einem klaren Änderungsauftrag direkt an den betroffenen Klauseln arbeiten.
+2. Nur fehlende Angaben zu Offenleger, Empfänger, geschützten Informationen, Empfängerkreis oder Dauer nachfragen, soweit sie die Fassung verändern.
+3. Arbeitsverhältnis, Unternehmenskooperation und Datenraum getrennt behandeln; gesetzlich zulässige Offenlegungen und Hinweisgeberschutz nicht vertraglich ausschließen.
+4. Die beauftragte NDA, konkrete Ersatzklauseln oder begründete Verhandlungsantwort vollständig liefern. Eine allgemeine Risikomatrix ersetzt keinen bestellten Vertragstext.
+5. Nach einem Gegenentwurf oder neuen Angaben die vorhandene Fassung gezielt fortschreiben und verbleibende Einigungspunkte benennen.
 
 ## Quellenhygiene
+
+Am 16.10.2026 im amtlichen Volltext nachgelesen: [BAG, Urteil vom 17.10.2024, 8 AZR 172/23, Randnummern 24 bis 39](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/). Eine zeitlich unbegrenzte nachvertragliche Schweigepflicht über sämtliche internen Vorgänge benachteiligt Arbeitnehmer unangemessen nach Paragraf 307 BGB. Die Prüfung verlangt konkrete Geheimnisse und belegbare Schutzmaßnahmen; sie erklärt weder jede nachvertragliche Geheimhaltung noch jede Unternehmens-NDA für unwirksam. Der Abgleich betrifft diesen arbeitsrechtlichen Fall, keine Vollprüfung aller Vertragsvarianten.
 
 - Aktuelle Normen aus Gesetze-im-Internet, EUR-Lex und amtlichen Registern live prüfen, wenn sie tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle zitieren.

@@ -14,7 +14,7 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Prüfraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untätigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Prüfprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht.
+Fokus: Bekanntgabe, förmliche Zustellung und Widerspruchsfrist getrennt prüfen. Paragraf 37 SGB X regelt die Bekanntgabe, nicht sämtliche Zustellungswege. Für Widerspruch und Wiedereinsetzung gelten Paragrafen 84 und 67 SGG; bei Untätigkeit sind Antrag und Widerspruch nach Paragraf 88 SGG zu unterscheiden. Ergebnis ist eine belegte Fristberechnung mit dem beauftragten Rechtsbehelf. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht.
 
 ### Widerspruchsfrist und Zustellung im Sozialrecht
 
@@ -37,32 +37,31 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 
 ### Standard
 
-- **Schriftlicher Bescheid bei Versand mit einfachem Brief** gilt als bekannt gegeben **am dritten Tag nach Aufgabe zur Post** § 37 Abs. 2 Satz 1 SGB X
-- Bei Auslandszustellung **sieben Tage**
+- Einfacher Brief im Inland: Bekanntgabe grundsätzlich am vierten Tag nach Aufgabe zur Post nach Paragraf 37 Absatz 2 SGB X; fehlenden oder späteren Zugang gesondert prüfen. Früherer tatsächlicher Zugang verkürzt die Fiktion nicht. Altfälle vor 2025 nach damaliger Fassung behandeln.
+- Die Inlandsfiktion gilt nicht pauschal für einen Brief ins Ausland. Übermittlungsweg, Bekanntgabenachweis und gegebenenfalls einschlägiges Zustellungsrecht einzeln feststellen; keine allgemeine Siebentagefrist ansetzen.
 
 ### Beweispflicht
 
 - Bei Bestreiten: Behörde muss Bekanntgabe nachweisen
 - Bei Postlaufzeit-Verzögerung Anhaltspunkte
 
-### Heilung Zustellungsmängel § 9 VwZG / § 65 SGB X
+### Heilung förmlicher Zustellungsmängel
 
-- Bei tatsächlichem Zugang
-- Heilung tritt mit nachweislicher Kenntnisnahme ein
+- Soweit das VwZG anwendbar ist, regelt Paragraf 8 die Heilung durch tatsächlichen Zugang beim Empfangsberechtigten; den Sonderfall des elektronischen Empfangsbekenntnisses gesondert prüfen.
+- Bloße Kenntnis vom Inhalt und nachgewiesenen Zugang des Dokuments nicht gleichsetzen. Bei Landeszustellung zunächst das anwendbare Landesrecht bestimmen.
 
 ## Schritt 2 — Widerspruchsfrist § 84 SGG
 
-- **Ein Monat** ab Bekanntgabe
+- Ein Monat ab Bekanntgabe; bei Bekanntgabe im Ausland drei Monate nach Paragraf 84 Absatz 1 SGG
 - Bei fehlender / fehlerhafter Rechtsbehelfsbelehrung **ein Jahr** § 66 Abs. 2 SGG
-- Wochenende / Feiertag verschiebt § 26 Abs. 3 SGB X iVm § 188 BGB analog
+- Fristberechnung und Verschiebung bei Wochenende oder Feiertag nach Paragraf 64 SGG prüfen; Paragraf 26 SGB X für die verwaltungsverfahrensrechtliche Berechnung getrennt berücksichtigen.
 
 ### Fristberechnung Beispiel
 
-- Bescheid datiert 12.05.2026
-- Aufgabe zur Post 12.05.2026
-- Bekanntgabe-Fiktion 15.05.2026 (Freitag)
-- Widerspruchsfrist endet 15.06.2026 (Montag)
-- **Bei Eingang Mandant Widerspruch 16.06.2026** verfristet — Wiedereinsetzung prüfen
+- Bescheid und belegte Aufgabe zur Post: 12.03.2026
+- Bekanntgabe-Fiktion bei einfachem Inlandsbrief: 16.03.2026 (Montag), sofern kein fehlender oder späterer Zugang
+- Bei ordnungsgemäßer Belehrung endet die Widerspruchsfrist am 16.04.2026 (Donnerstag).
+- Maßgeblich ist der rechtzeitige Eingang des Widerspruchs bei einer empfangszuständigen Stelle, nicht seine Absendung durch den Mandanten.
 
 ## Schritt 3 — Rechtsbehelfsbelehrung-Fehler
 
@@ -80,7 +79,7 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 - Beginnt mit Bekanntgabe wie sonst
 - Bei vollständig fehlender Belehrung läuft Jahres-Frist
 
-## Schritt 4 — Wiedereinsetzung § 27 SGB X
+## Schritt 4: Wiedereinsetzung nach Paragraf 67 SGG
 
 ### Voraussetzungen
 
@@ -100,7 +99,7 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 
 ### Nicht ausreichend
 
-- Anwalts-Fehler (zurechenbar nach § 27 Abs. 2 Satz 2 SGB X analog § 85 Abs. 2 ZPO)
+- Zurechenbares Verschulden des Bevollmächtigten; Zurechnungsgrundlage und konkrete Kanzleiorganisation prüfen, nicht pauschal auf Paragraf 27 SGB X verweisen
 - Urlaub außer in zwingenden Fällen
 - Geschäftsschluss / Zeitdruck
 
@@ -121,15 +120,16 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 
 ## Schritt 6 — Untätigkeitsklage § 88 SGG
 
-- **Nach sechs Monaten** ohne Bescheidung über Widerspruch / Antrag
-- **Nach drei Monaten** in Eilfällen mit besonderem Grund
+- Antrag ohne Sachentscheidung: grundsätzlich nicht vor Ablauf von sechs Monaten nach Paragraf 88 Absatz 1 SGG
+- Widerspruch ohne Entscheidung: grundsätzlich drei Monate nach Paragraf 88 Absatz 2 SGG; dies ist keine besondere Eilfallfrist
+- Zureichenden Grund für die Verzögerung prüfen; bei Eilbedürftigkeit den eigenständigen Rechtsschutz nach Paragraf 86b SGG beurteilen
 - Klage auf Bescheidung — Behörde muss entscheiden
 - Erfolg führt nicht zur Sach-Entscheidung, aber zur Pflicht zur Bescheidung
 
 ## Schritt 7 — Aussetzung der Vollziehung § 86a SGG
 
-- Im Sozialrecht **aufschiebende Wirkung** Widerspruch nicht automatisch
-- Bei sofortiger Vollziehung Antrag auf Aussetzung beim SG § 86b SGG
+- Widerspruch und Anfechtungsklage haben nach Paragraf 86a Absatz 1 SGG grundsätzlich aufschiebende Wirkung; Ausnahmen nach Absatz 2 und besonderem Bundesrecht einzeln prüfen.
+- Behördliche Aussetzung nach Paragraf 86a Absatz 3 SGG und gerichtlichen Antrag nach Paragraf 86b Absatz 1 SGG von einer Regelungsanordnung nach Absatz 2 unterscheiden.
 
 ## Schritt 8 — Eilantrag § 86b SGG
 
@@ -147,8 +147,7 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 
 ### Schwerbehinderten-Bescheid GdB-Feststellung
 
-- Widerspruch zwei Monate bei länder-spezifischer Regelung — prüfen
-- Bei Standard ein Monat
+- Widerspruch nach Paragraf 84 SGG: grundsätzlich ein Monat, bei Bekanntgabe im Ausland drei Monate; fehlerhafte Belehrung gesondert prüfen. Keine unbelegte landesspezifische Zweimonatsfrist ansetzen.
 
 ### Asylbewerberleistungsrecht AsylbLG
 
@@ -165,6 +164,10 @@ description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zus
 
 - Widerspruch ein Monat
 - Eilantrag bei medizinisch dringend
+
+## Quellenstand der Verfahrensprüfung
+
+Gezielter Abgleich am 16.10.2026: [Paragraf 37 SGB X](https://www.gesetze-im-internet.de/sgb_10/__37.html), [Paragraf 8 VwZG](https://www.gesetze-im-internet.de/vwzg_2005/__8.html), [Paragraf 84 SGG](https://www.gesetze-im-internet.de/sgg/__84.html), [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html), [Paragraf 88 SGG](https://www.gesetze-im-internet.de/sgg/__88.html) und [Paragraf 86a SGG](https://www.gesetze-im-internet.de/sgg/__86a.html). Die Nachprüfung betrifft die bezeichneten Verfahrensregeln, keine vollständige Prüfung von Landeszustellungsrecht oder sämtlichen Leistungsausschlüssen.
 
 ## Ausgabe
 

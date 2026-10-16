@@ -5,7 +5,7 @@
 
 Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`startup-hr-personalabteilung-berlin-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=startup-hr-personalabteilung-berlin/startup-hr-personalabteilung-berlin-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -64,7 +64,7 @@ Das Plugin ist bewusst praktisch: Arbeitsverträge, Onboarding, DATEV-/Lohnbüro
 
 ## Datenschutz zuerst
 
-Personalakten sind kein Material zum Herumreichen. Das Plugin soll vor jeder Ausgabe klären:
+Personalakten sind vertraulich. Das Plugin prüft anhand des Auftrags und der vorhandenen Unterlagen intern:
 
 - Welche Daten werden wirklich gebraucht?
 - Wer darf diese Daten sehen?
@@ -75,6 +75,8 @@ Personalakten sind kein Material zum Herumreichen. Das Plugin soll vor jeder Aus
 Chef- oder Founder-Briefings sollen deshalb nicht einfach Rohlisten mit Diagnosen, Konflikten, Gehältern und privaten Details erzeugen, sondern eine entscheidungsfähige, datensparsame Fassung: Ampel, Risiko, Handlungsoption, notwendige Details, klare Eskalation.
 
 ## Typischer Kaltstart
+
+Legen Sie zunächst die auftragsbezogenen, erforderlichen Unterlagen vor. Die folgenden Punkte helfen bei einem offenen HR-Auftrag; bereits erkennbare Angaben werden nicht erneut abgefragt. Bei einer konkreten Bestellung arbeitet das Plugin unmittelbar am Brief, Vertrag oder Briefing und fragt nur nach entscheidenden Lücken. Antworten werden in denselben Entwurf eingearbeitet.
 
 1. Wie viele Beschäftigte, welche Standorte, welche Remote-/Workation-Praxis?
 2. Gibt es Betriebsrat, Schwerbehindertenvertretung, Datenschutzbeauftragte, Lohnbüro, DATEV, HRIS?

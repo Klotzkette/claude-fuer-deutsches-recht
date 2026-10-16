@@ -5,7 +5,7 @@
 
 Hinweisgeberschutzgesetz in der Praxis: interne/externe Meldestelle, NDA-Konflikte, Repressalien, Untersuchungen, Datenschutz und Governance.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`hinweisgeberschutz-compliance-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hinweisgeberschutz-compliance/hinweisgeberschutz-compliance-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,7 +73,7 @@ Dieses Plugin führt Unternehmen, Kanzleien und Rechtsabteilungen durch den ganz
 
 ## Wofür dieses Plugin da ist
 
-Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
+Eine vorhandene Meldung, Eingangsbestätigung oder Untersuchungsunterlage wird zuerst gelesen. Der Auftrag bestimmt, ob eine Rückmeldung, ein Untersuchungsplan oder ein Abschlussvermerk benötigt wird. Nur entscheidende Lücken zu Meldeweg, Verfahrensstand oder Frist werden nachgefragt; zusätzliche Identitätsdaten werden nicht allein für eine allgemeine Aufnahme verlangt. Antworten werden im begonnenen Dokument verarbeitet.
 
 ## Typischer Workflow
 
@@ -89,7 +89,7 @@ Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behö
 
 ## Arbeitsstil
 
-- Erst Scope und Ziel klären.
+- Untersuchungsumfang und Ziel aus Auftrag und Meldung entnehmen; nur entscheidende Unklarheiten nachfragen.
 - Keine pauschale Compliance-Folklore.
 - Fristen, Schwellen, Zuständigkeiten und technische Tatsachen gegen Originalquellen prüfen.
 - Am Ende immer ein verwertbares Dokument, eine Matrix, eine Entscheidungsvorlage oder einen nächsten konkreten Schritt liefern.

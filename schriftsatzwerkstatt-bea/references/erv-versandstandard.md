@@ -27,7 +27,9 @@ Stand: 09.08.2026. Die ERVV ist in der zuletzt durch Gesetz vom 22.06.2026 geän
 2. **Einfache Signatur und sicherer Übermittlungsweg:** Unter dem Schriftsatz steht der Name der verantwortlichen Person. Genau diese Person löst den Versand persönlich über ihren sicheren Übermittlungsweg aus.
 3. **Abweichende Person:** Soll eine andere Person den Versand auslösen, bleibt das Paket rot, bis eine wirksame qeS der verantwortlichen Person vorliegt oder der Versandweg anwaltlich anders freigegeben ist.
 4. **Anlagen:** Anlagen zum formgerechten Schriftsatz benötigen keine eigene Signatur. Vorhandene elektronische Signaturen in Beweisdateien dürfen durch Konvertierung oder Stempelung nicht unbemerkt zerstört werden.
-5. **Unterschriftsbild:** Eine eingescannte oder eingefügte Unterschriftsgrafik wird nicht automatisch als einfache Signatur behandelt. Die Werkstatt verlangt eine lesbare Namenswiedergabe am Dokumentende und eine eindeutige Zuordnung zur verantwortlichen Person; eine qeS ersetzt die Grafik nicht.
+5. **Unterschriftsbild:** Eine eingescannte oder eingefügte Unterschriftsgrafik wird nicht automatisch als einfache Signatur behandelt. Für die Route ohne qeS verlangt die Werkstatt eine lesbare Namenswiedergabe am Dokumentende und eine eindeutige Zuordnung zur verantwortlichen Person. Eine wirksame qeS dieser Person ist die gesetzliche Alternative und erfordert keine zusätzliche Unterschriftsgrafik.
+
+Gezielt abgeglichen am 16.10.2026: [Paragraf 130a Absatz 3 ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html). Dieser Abgleich betrifft die Signaturalternativen, keine vollständige technische Neuprüfung.
 
 Der sichere Übermittlungsweg ersetzt nur die qeS-Alternative. Er beseitigt nicht die Pflicht zur einfachen Signatur durch lesbare Namenswiedergabe der verantwortlichen Person.
 

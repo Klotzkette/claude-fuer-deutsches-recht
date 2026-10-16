@@ -17,7 +17,7 @@ description: "Für /mandant-aufnahme: ordnet Norm, Beweislast und Gegenargument;
 
 ## RDG-Besonderheiten beim Intake
 
-- § 6 Abs. 2 Nr. 2 RDG: Das Intake-Gespräch ist eine Rechtsdienstleistung – es darf nur unentgeltlich und unter Anleitungsstruktur stattfinden.
+- Paragraf 6 RDG: Bei einer konkreten rechtlichen Prüfung im Aufnahmegespräch die unentgeltliche Beratung und tatsächliche Anleitung sichern. Reine organisatorische Datenerfassung ist davon zu unterscheiden.
 - § 43a Abs. 4 BRAO / BORA § 3: **Vor jedem Intake Interessenkonflikt prüfen.** Hat die Beratungsstelle oder der Anleiter bereits die Gegenseite vertreten?
 - § 203 StGB: Alles, was im Intake erfährt wird, ist Mandantengeheimnis – ab dem ersten Wort des Gesprächs.
 - DSGVO Art. 13: Der Mandant ist zu Beginn über die Verarbeitung seiner Daten zu informieren (Name, Zweck, Speicherdauer, Rechte).
@@ -29,13 +29,15 @@ Bevor das Gespräch beginnt:
 2. Gegen bestehende Mandate und Mandantenregister abgleichen.
 3. Wenn Konflikt erkannt: Intake sofort stoppen; Mandant höflich über Hindernis informieren; keine Rechtsauskünfte mehr erteilen; an alternative Beratungsstelle verweisen.
 
-> Prüffrage: "Hat unsere Beratungsstelle oder unser Anleiter je die Gegenseite dieses Verfahrens beraten?" – wenn ja: Konflikt.
+> Prüffrage: "Gab es eine Beratung der Gegenseite oder andere mögliche Interessenkonflikte?" Ein Treffer erfordert die Prüfung des konkreten Zusammenhangs durch den Anleiter; nicht jede frühere Beratung ist automatisch ein Vertretungsverbot.
 
 ## Datenschutz-Hinweis zu Beginn (Pflicht)
 
 Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 
-> "Wir sind eine studentische Rechtsberatungsstelle. Ihre Daten werden nur für Ihre Beratung genutzt und nach Abschluss des Mandats mindestens 5 Jahre aufbewahrt (§ 50 BRAO). Sie können jederzeit Auskunft, Berichtigung oder Löschung verlangen (DSGVO Art. 15–17). Ihre Angaben sind vertraulich (§ 203 StGB)."
+> "Wir sind eine studentische Rechtsberatungsstelle. Verantwortlich für Ihre Daten ist [Träger/Kontakt]. Wir erklären Ihnen, wofür die Angaben benötigt werden, wer darauf zugreifen darf und wie lange sie aufbewahrt werden. Ihre Rechte und die Kontaktstelle finden Sie in unserem Datenschutzhinweis."
+
+Den aktuellen, vom Träger freigegebenen Datenschutzhinweis verwenden. Keine pauschale Aufbewahrungsfrist oder automatische Anwendbarkeit anwaltlicher Vorschriften auf jede Beratungsstelle behaupten.
 
 ## Fachbereichsspezifisches Intake
 
@@ -43,9 +45,9 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 - **Personalien:** Vollständiger Name (mit Schreibweise lt. Reisepass/Ausweis), Geburtsdatum, Staatsangehörigkeit.
 - **Status:** Aktueller aufenthaltsrechtlicher Status (Asylantragsteller, GFK-Schutz, subsidiärer Schutz, Duldung, humanitärer Aufenthaltstitel § 25 AufenthG)?
 - **Verfahrensstand:** BAMF-Bescheid erhalten? Datum der Zustellung? → **Fristencheck sofort!** Bei § 36-Bescheid: Klage binnen 1 Woche (§ 74 Abs. 1 i. V. m. § 36 AsylG)!
-- **Einreise:** Datum und Einreiseweg (relevant für Dublin III, Jahresfrist § 74 AsylG).
+- **Einreise:** Datum, Einreiseweg und frühere Verfahren aufnehmen, soweit für den Auftrag nötig; das zeitlich anwendbare europäische und nationale Verfahrensrecht gesondert prüfen. Paragraf 74 AsylG enthält keine an die Einreise anknüpfende Jahresfrist.
 - **Vorverfahren:** Frühere Asylanträge, Abschiebungen, EURODAC-Treffer?
-- **Vulnerabilität:** Minderjährigkeit (§ 12 AsylG: Bestellung Vormund), Schwangerschaft, Trauma, Behinderung (→ § 76b SGB IX prüfen).
+- **Vulnerabilität:** Minderjährigkeit und gesicherte Vertretung, Schwangerschaft, Trauma, Behinderung; bei Eingliederungshilfe Aufenthaltsstatus und Paragraf 100 SGB IX einschließlich AsylbLG-Abgrenzung prüfen.
 - **Familie:** Familienangehörige, deren Status, Familiennachzug?
 - **Strafrecht:** Vorstrafen (§ 3 Abs. 2 AsylG Ausschluss, § 25 Abs. 3 AufenthG Sperrung)?
 - **Sprache:** Welche Sprachen spricht der Mandant? Dolmetscher notwendig?
@@ -81,7 +83,7 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 ### Familienrecht / SGB IX
 - **Thema:** Unterhalt (§§ 1601 ff. BGB), Sorgerecht (§§ 1626 ff. BGB), Trennungsunterhalt (§ 1361 BGB), Gewalt (Gewaltschutzgesetz §§ 1–2 GewSchG)?
 - **Kinder:** Minderjährige Kinder, Umgangsregelung, Kindeswohlgefährdung (§ 8a SGB VIII – Meldepflichten prüfen)?
-- **SGB IX:** Eingliederungshilfe nach § 76b SGB IX (bes. für Geflüchtete mit Behinderung)?
+- **SGB IX:** Welche Teilhabeleistung wird benötigt? Bei ausländischen Personen die Voraussetzungen und Grenzen des Paragrafen 100 SGB IX prüfen, keinen pauschalen Anspruch unterstellen.
 
 ## Triage-Klassifikation
 
@@ -124,10 +126,12 @@ Vor Beginn des Gesprächs vorlesen oder übersetzen (ggf. mit Dolmetscher):
 
 ## Risiken / typische Fehler
 
-- **Fristvergessenheit:** Datum der Zustellung sofort prüfen – nicht erst beim nächsten Termin. Bei § 36-Bescheid AsylG 1 Woche, bei § 74 AsylG sonst 2 Wochen oder 1 Monat – immer konkret berechnen.
+- **Fristvergessenheit:** Zustellung, Bescheidart und anwendbare Fassung sofort prüfen. Klageerhebung und Begründung nach Paragraf 74 AsylG sind verschiedene Fristen; eine Monatsfrist für Begründung darf nicht als Klagefrist verwendet werden. Eilrechtsschutz gesondert und sofort klären.
 - **Fehlende Konfliktprüfung:** Ohne Check kann § 43a Abs. 4 BRAO verletzt sein. Dann keine weiteren Informationen mehr entgegennehmen.
 - **Sprachbarriere nicht dokumentiert:** Wenn der Mandant die Erläuterungen nicht verstanden hat, ist die Aufklärungspflicht nicht erfüllt.
 - **Falsche Rechtsbereichszuordnung:** Asylmandat schlägt fast immer auf SGB II durch (§ 7 Abs. 1 Satz 2 SGB II: Leistungsausschluss für bestimmte Ausländer – prüfen!).
-- **Entgeltlichkeit:** Kein Entgelt entgegennehmen – auch kein "freiwilliges Geschenk". Verletzt § 6 Abs. 2 Nr. 2 RDG (Unentgeltlichkeitspflicht) und ist bußgeldbewehrt (§ 20 RDG).
+- **Entgeltlichkeit:** Keine Vergütung oder verdeckte Gegenleistung im unentgeltlichen Beratungsmodell entgegennehmen. Geschenke, Spenden und Verbindungen zu entgeltlichen Tätigkeiten vor Annahme durch den Träger prüfen lassen; aus der Bezeichnung allein weder Zulässigkeit noch einen Bußgeldtatbestand ableiten.
+
+Gezielter Abgleich und Aussagegrenzen: [Quellenvermerk vom 16.10.2026](../../references/gezielter-quellenabgleich-2026-10-16.md). Die übrigen Fachzweige wurden nicht vollständig neu verifiziert.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

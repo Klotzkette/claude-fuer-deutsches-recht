@@ -1,0 +1,257 @@
+{
+  "baseline_commit": "6db78a3dc2a0755dc3f3119fe962089b0f174ec1",
+  "checked_on": "2026-10-16",
+  "method": "Kontextprüfung der heuristisch gemeldeten Datumsabweichungen, keine neue Volltextverifikation",
+  "inventory": {
+    "method": "heuristic_full_specialist_markdown_crosscheck_not_legal_verification",
+    "plugin_count": 302,
+    "files_scanned": 25630,
+    "docket_occurrences": 13227,
+    "occurrences_with_existing_profile_anchor": 5851,
+    "unique_dockets_outside_profiles": 1552,
+    "possible_date_conflicts": 17
+  },
+  "findings": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "path": "agb-recht-pruefer/skills/vertragsaenderung-durch-zustimmung-pruefen/references/bankbedingungen.md",
+      "line": 27,
+      "docket": "XI ZR 26/20",
+      "observed_dates": [
+        "2026-09-05"
+      ],
+      "profile_dates": [
+        "2021-04-27"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum bezeichnet die Quellenprüfung, nicht das Urteil."
+    },
+    {
+      "plugin": "arbeitszeugnispruefer",
+      "path": "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md",
+      "line": 1443,
+      "docket": "8 AZB 25/25",
+      "observed_dates": [
+        "2026-09-17"
+      ],
+      "profile_dates": [
+        "2026-05-07"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum gehört zur LAG-Anwendung; der Absatz unterscheidet das BAG-Original ausdrücklich."
+    },
+    {
+      "plugin": "arbeitszeugnispruefer",
+      "path": "arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md",
+      "line": 1094,
+      "docket": "8 AZB 25/25",
+      "observed_dates": [
+        "2026-09-17"
+      ],
+      "profile_dates": [
+        "2026-05-07"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum gehört zur LAG-Anwendung; der Absatz unterscheidet das BAG-Original ausdrücklich."
+    },
+    {
+      "plugin": "bauwirtschaft",
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "line": 205,
+      "docket": "VII ZR 119/24",
+      "observed_dates": [
+        "2026-09-25",
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2026-01-15"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Die erkannten Daten bezeichnen Normabruf und Nachprüfung, nicht die Entscheidung."
+    },
+    {
+      "plugin": "diesel-schadensersatz",
+      "path": "diesel-schadensersatz/references/ea288-rechtsprechung-instanzen.md",
+      "line": 40,
+      "docket": "C-100/21",
+      "observed_dates": [
+        "2022-06-02"
+      ],
+      "profile_dates": [
+        "2023-03-21"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Schlussanträge des Generalanwalts und späteres Urteil sind verschiedene Dokumente desselben Verfahrens."
+    },
+    {
+      "plugin": "fachanwalt-it-recht",
+      "path": "fachanwalt-it-recht/skills/it-recht-saas-avv-und-tia-bundle/SKILL.md",
+      "line": 17,
+      "docket": "C-311/18",
+      "observed_dates": [
+        "2023-07-10"
+      ],
+      "profile_dates": [
+        "2020-07-16"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das Datum gehört zum Angemessenheitsbeschluss und nicht zum Schrems-II-Urteil."
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Normabruf und Quellenprüfung sind vom Entscheidungsdatum zu trennen."
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30",
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Normabruf und Quellenprüfung sind vom Entscheidungsdatum zu trennen."
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+      "line": 29,
+      "docket": "IV ZR 535/15",
+      "observed_dates": [
+        "2026-09-22"
+      ],
+      "profile_dates": [
+        "2017-07-19"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum bezeichnet die Nachprüfung und nicht das Urteil."
+    },
+    {
+      "plugin": "gesellschafterstreit",
+      "path": "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+      "line": 374,
+      "docket": "II ZR 91/21",
+      "observed_dates": [
+        "2023-01-31"
+      ],
+      "profile_dates": [
+        "2022-11-08"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Ein gesonderter Berichtigungsbeschluss wird ausdrücklich vom Urteil unterschieden."
+    },
+    {
+      "plugin": "gesellschafterstreit",
+      "path": "gesellschafterstreit/references/rechtsprechungsanker.md",
+      "line": 65,
+      "docket": "II ZR 91/21",
+      "observed_dates": [
+        "2023-01-31"
+      ],
+      "profile_dates": [
+        "2022-11-08"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Ein gesonderter Berichtigungsbeschluss wird ausdrücklich vom Urteil unterschieden."
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "path": "liquiditaetsplanung/references/rechtsprechung/INDEX.md",
+      "line": 23,
+      "docket": "IX ZR 133/14",
+      "observed_dates": [
+        "2015-03-24"
+      ],
+      "profile_dates": [
+        "2015-03-05"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Gesonderter Berichtigungsbeschluss; keine zweite materielle Entscheidung behauptet."
+    },
+    {
+      "plugin": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "path": "rechtsabteilung-forderungsmanagement-immobilienunternehmen/references/rechtsstand-2026-verfahren-vollstreckung.md",
+      "line": 5,
+      "docket": "VIII ZR 66/20",
+      "observed_dates": [
+        "2026-09-04"
+      ],
+      "profile_dates": [
+        "2021-12-15"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum bezeichnet den Normabgleich; die frühere Entscheidung wird davon abgegrenzt."
+    },
+    {
+      "plugin": "schriftform-und-textform-bgb",
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "line": 50,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das Urteil ist mit ausgeschriebenem Monatsnamen datiert; der Treffer betrifft die Volltextlesung."
+    },
+    {
+      "plugin": "vertragsrecht",
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "line": 5,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das Urteil ist mit ausgeschriebenem Monatsnamen datiert; der Treffer betrifft die Volltextlesung."
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "path": "weg-hausverwaltung/references/miete-befall-datenschutz-oktober-2026.md",
+      "line": 83,
+      "docket": "VIII ZR 66/20",
+      "observed_dates": [
+        "2025-01-01"
+      ],
+      "profile_dates": [
+        "2021-12-15"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum bezeichnet eine spätere Rechtsänderung und nicht das Urteil."
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "path": "weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md",
+      "line": 18,
+      "docket": "V ZR 102/24",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-04-24"
+      ],
+      "assessment": "kein_entscheidungsdatumsfehler_aus_diesem_treffer",
+      "reason": "Das erkannte Datum bezeichnet ausdrücklich eine Rechtsprechungsnachprüfung."
+    }
+  ]
+}

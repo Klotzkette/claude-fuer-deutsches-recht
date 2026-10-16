@@ -5,7 +5,7 @@
 
 Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`selbstvertreter-amtsgericht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=selbstvertreter-amtsgericht/selbstvertreter-amtsgericht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -70,9 +70,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 ## Für wen?
 
-- Sie wollen eine Geldforderung bis zur Wertgrenze des § 23 Nr. 1 GVG einklagen (seit 01.01.2026: **10.000 EUR**, Anhebung von 5.000 EUR durch das Justizstandort-Stärkungsgesetz).
+- Sie wollen eine Geldforderung bis zur Wertgrenze des Paragrafen 23 Nummer 1 GVG einklagen (seit 01.01.2026: 10.000 EUR). Besondere Zuständigkeiten bleiben gesondert zu prüfen.
 - Sie sind verklagt worden und wollen sich selbst verteidigen.
-- Sie wollen Mietsachen, Reisemängel, Familienunterhalt oder andere AG-typische Streitigkeiten betreiben.
+- Sie wollen eine Wohnraummietsache, Reisemängel oder einen anderen Zivilstreit bearbeiten. Familienunterhalt ist dagegen eine Familiensache: Dort gelten eigene Verfahrensregeln und grundsätzlich Anwaltszwang nach Paragraf 114 FamFG; Ausnahmen müssen konkret geprüft werden.
 - Sie wollen vor einer möglichen Mandatierung verstehen, was rechtlich passiert.
 
 ## Was kann das Plugin?
@@ -103,13 +103,15 @@ Es liefert Skills zu:
 - Direkte Schritt-für-Schritt-Anleitungen.
 - Ehrlicher Hinweis, wo verifiziert werden muss (Reform-Lage, Aktenzeichen, Fundstellen).
 
-## Was das Plugin **nicht** macht
+## Was das Plugin nicht macht
 
 - Keine Garantie, dass Sie gewinnen.
 - Keine anwaltliche Mandatsführung. Bei komplexen Fällen, hohem Risiko, Landgericht, Familiengericht, Berufung oder unklarer Zustellung empfiehlt das Plugin deutlich Rechtsantragsstelle, Beratungshilfe, PKH oder Anwalt — siehe Skill `wann-doch-anwalt-grenzfaelle`.
 - Keine Zwangsvollstreckung. Dafür existiert ein separater Substitutionsagent.
 
 ## Einstieg
+
+Gezielter Quellenabgleich vom 16.10.2026: [Paragraf 23 GVG](https://www.gesetze-im-internet.de/gvg/__23.html) zur Zuständigkeit, [Paragraf 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) zur Berufungsbeschwer über 1.000 EUR oder Zulassung und [Paragraf 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html) zum Übergangsrecht wurden gelesen. Die Beschwer ist nicht mit dem Streitwert gleichzusetzen. Für Familienunterhalt wurden [Paragrafen 112 und 114 FamFG](https://www.gesetze-im-internet.de/famfg/BJNR258700008.html) einschließlich der Vertretungsausnahmen abgeglichen. Das ist keine vollständige Prüfung aller Fristen oder Skills.
 
 Starten Sie mit `anfaenger-workflow-amtsgericht`, wenn Sie geführt werden möchten. Nutzen Sie `orientierung-selbstvertreter-amtsgericht`, wenn Sie nur eine schnelle Triage wollen, und `sanity-check-selbstvertretung-amtsgericht`, bevor etwas an das Gericht geht.
 

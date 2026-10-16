@@ -26,9 +26,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Tatbestand § 203 StGB (Auszug)
 - **§ 203 Abs. 1 Nr. 3 StGB**: Offenbaren eines Geheimnisses, das einem als Anwalt, Steuerberater, Wirtschaftsprüfer u. a. anvertraut oder bekannt geworden ist — Freiheitsstrafe bis 1 Jahr oder Geldstrafe.
-- **§ 203 Abs. 4 StGB** (Privilegierung Mitwirkende seit 2017): Mitwirkende Personen (Sekretariat, IT-Dienstleister) werden ausdrücklich erfasst; Offenbaren ist tatbestandsmäßig.
-- **§ 203 Abs. 4 S. 2 Nr. 1 StGB**: Rechtfertigung, wenn der Berufsträger die mitwirkenden Personen sorgfältig ausgewählt und auf die Schweigepflicht **förmlich verpflichtet** hat (analog § 1 VerpflG-Form).
-- **§ 203 Abs. 4 S. 2 Nr. 2**: bei Erbringung von Tätigkeiten außerhalb der EU/EWR ist die Vertraulichkeit gleichwertig sicherzustellen.
+- Paragraf 203 Absatz 3 StGB unterscheidet berufsmäßige Gehilfen von sonstigen mitwirkenden Personen; bei Letzteren ist der erforderliche Geheimniszugang zu prüfen.
+- Absatz 4 Satz 1 erfasst die unbefugte Offenbarung durch mitwirkende Personen. Satz 2 Nummer 1 betrifft die fehlende Sorge des Berufsträgers für die Verpflichtung; zusätzlich muss die bezeichnete mitwirkende Person das Geheimnis unbefugt offenbaren. Keine allgemeine Rechtfertigung durch eine förmliche Verpflichtung nach dem Verpflichtungsgesetz ableiten.
+- Absatz 4 Satz 2 Nummer 2 betrifft die Weiterbeauftragung einer weiteren mitwirkenden Person, nicht den Auslandszugriff. Berufsrechtliche Auslandsregeln gesondert prüfen.
+
+Normcheck am 16.10.2026: [Paragraf 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html), Absätze 3 und 4, gelesen. Keine neue Vollprüfung des gesamten Datenschutz- oder Berufsrechts.
 
 ## Tatbestandsmerkmal "Offenbaren"
 Offenbaren ist jede Form der Kenntnisverschaffung Dritter. Bei KI-Tools relevant:

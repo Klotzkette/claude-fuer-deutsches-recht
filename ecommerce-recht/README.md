@@ -5,7 +5,7 @@
 
 Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ecommerce-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,17 +73,19 @@ Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbrauch
 ## Wofür dieses Plugin da ist
 E-Commerce-Recht mit Fernabsatz, Widerruf, Preisangaben, Impressum, Datenschutz, UWG, DSA, Plattformpflichten, Produktsicherheit, BFSG und internationalem Verbraucherschutz.
 
-Das Plugin ist als Arbeitswerkzeug gedacht: Es startet mit einem Kaltstart-Interview, sortiert Unterlagen, prüft Fristen und routet dann in Spezial-Skills. Es soll Anfänger an die Hand nehmen und Profis schnell zu belastbaren Outputs bringen.
+Das Plugin prüft Shoptexte, Bestellabläufe und konkrete Kunden- oder Wettbewerberanfragen. Es beginnt mit den vorliegenden Seiten, Screenshots, Verträgen und Nachrichten. Ergebnis ist je nach Auftrag die überarbeitete Klausel, eine begründete Antwort oder ein umsetzbarer Prüfvermerk; eine zusätzliche Erstaufnahme ist bei klarem Auftrag nicht nötig.
 
 ## Typischer Workflow
-1. **Allgemein-Skill starten:** Rolle, Ziel, Frist, Unterlagen und gewünschtes Ergebnis klären.
-2. **Dokumente einlesen:** Verträge, Bescheide, Rechnungen, Tabellen, Registerdaten, Behördenpost oder Screenshots strukturieren.
+1. Vorhandene Shopseiten, Bestellstrecke, Vertragsunterlagen und Korrespondenz prüfen; konkrete Beanstandung und Frist festhalten.
+2. Nur offene Angaben zu Produkt, Kundengruppe, Absatzgebiet oder Vertragsschluss nachfordern, wenn sie das angefragte Ergebnis verändern.
 3. **Spezial-Skill wählen:** Das Plugin schlägt den passenden Skill vor und erklärt, welches Ergebnis damit entsteht.
 4. **Live-Quellen prüfen:** Normtext, Behördenseite, EU-Text, Formular oder frei zugängliche Rechtsprechung aktualisieren.
 5. **Output erzeugen:** Memo, Antrag, Stellungnahme, Vertragsklausel, Berechnung, Checkliste oder Mandantenbrief.
 6. **Red-Team:** Fristen, Zuständigkeit, Zahlen, Quellen und Gegenargumente kontrollieren.
 
 ## Quellenanker
+
+Gezielte Nachprüfung vom 16.10.2026: [Paragraf 356a BGB](https://www.gesetze-im-internet.de/bgb/__356a.html) regelt die elektronische Widerrufsfunktion für über eine Online-Benutzeroberfläche geschlossene Fernabsatzverträge. Geprüft wurden Verfügbarkeit während der Widerrufsfrist, Bestätigungsschritt und unverzügliche Eingangsbestätigung auf einem dauerhaften Datenträger. Die Funktion ist vom Kündigungsbutton zu unterscheiden. Ob ein konkreter Vertrag ein Widerrufsrecht eröffnet und welche zeitliche Übergangsregel greift, ist damit nicht mitgeprüft.
 - Amtliche Gesetzestexte: gesetze-im-internet.de.
 - EU-Recht: EUR-Lex und amtliche Kommissionsseiten.
 - Behördenpraxis: zuständige Bundes-/Landesbehörden, Bundesnetzagentur, BaFin, BfArM, G-BA, BKartA oder Länderstellen je nach Thema.

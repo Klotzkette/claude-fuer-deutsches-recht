@@ -1,4 +1,38 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Sechsmonatige DFG-Vorlaufzeit als Soll-Empfehlung statt Ausschlussfrist erklärt; Begutachtungsausnahme und Koselleck-Rahmen begrenzt nachgeprüft; kein Tempo-Versprechen.",
+    "files": [
+      {
+        "path": "dfg-foerderantrag/README.md",
+        "sha256": "fd9c68ec45fba65462f32a1add012b8c26251bd7d6d4f899a889fb8a5bacf627"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/sachbeihilfe",
+        "accessed_on": "2026-10-16",
+        "statement": "Neuanträge jederzeit; Fortsetzungen sollen sechs Monate vor Mittelverbrauch eingereicht werden.",
+        "limit": "Programmempfehlung, keine gesetzliche Ausschlussfrist; nicht alle Merkblätter geprüft."
+      },
+      {
+        "url": "https://www.dfg.de/de/foerderung/antrag-foerderprozess/entscheidungsverfahren/einzelfoerderung/faq-begutachtung",
+        "accessed_on": "2026-10-16",
+        "statement": "Grundsätzlich zwei Gutachten, ausnahmsweise eines bei bis200.000 Euro; teilweise mehr Gutachten.",
+        "limit": "Keine Zusage verkürzter Verfahrensdauer."
+      },
+      {
+        "url": "https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/einzelfoerderung/reinhart-koselleck-projekte",
+        "accessed_on": "2026-10-16",
+        "statement": "Fünf Jahre und 500.000 bis1,25Mio Euro in250.000-Euro-Schritten; besondere Innovation/Risiko.",
+        "limit": "Kein Vorhaben auf tatsächliche Förderfähigkeit geprüft."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

@@ -5,7 +5,7 @@
 
 Erstellt, prüft und berichtigt einfache, qualifizierte, Zwischen- und Ausbildungszeugnisse aus vorhandenen Unterlagen. Verknüpft Tätigkeitsbild, Tatsachenbelege, Beweislast, klare Formulierungen, Vergleich und Vollstreckung zu einem verwendbaren Arbeitsprodukt.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitszeugnisgenerator-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnisgenerator/arbeitszeugnisgenerator-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -67,7 +67,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis Schritt für Schritt erstellen — rechtssicher, mit korrekter Zeugnissprache, in der gewünschten Notenstufe.
+Aus Personalunterlagen entsteht ein deutsches Arbeitszeugnis mit zutreffenden Tätigkeiten und klarer Sprache. Bei einem qualifizierten Zeugnis muss die gewünschte Bewertung durch Tatsachen getragen sein; ein einfaches Zeugnis bleibt bewertungsfrei.
 
 ## Wenn du das brauchst
 
@@ -78,18 +78,18 @@ Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis Schritt für S
 
 ## Was du am Ende in der Hand hast
 
-Ein vollständiges einfaches, qualifiziertes, Zwischen- oder Ausbildungszeugnis mit belegten Kopfdaten, individuellem Tätigkeitsbild sowie einer wahrheitsgemäßen Leistungs- und Verhaltensbeurteilung. Alternativ erhältst du eine Berichtigungsmatrix, ein Aufforderungsschreiben, einen bestimmten Klageantrag oder eine vollstreckbare Vergleichsklausel. Beendigungsgrund und Schlussformel werden nur aufgenommen, wenn sie sachlich passen.
+Ein vollständiges einfaches, qualifiziertes, Zwischen- oder Ausbildungszeugnis mit belegten Kopfdaten und individuellem Tätigkeitsbild. Leistungs- und Verhaltensbeurteilungen gehören nur in den dafür vorgesehenen qualifizierten Zeugniszweig; beim Ausbildungszeugnis werden sie auf Verlangen aufgenommen. Alternativ erhältst du eine Berichtigungsmatrix, ein Aufforderungsschreiben, einen bestimmten Klageantrag oder eine vollstreckbare Vergleichsklausel. Beendigungsgrund und Schlussformel werden nur aufgenommen, wenn sie sachlich passen.
 
 ## Der Weg dorthin
 
-Vorhandene Unterlagen lesen → Rolle und Zeugnisart bestimmen → Rollen- und Tätigkeitsverlauf belegen → Leistungs- und Verhaltensaussagen mit Tatsachen verbinden → Gesamtformel und Beweislast prüfen → Form, freiwillige Angaben und Aussteller kontrollieren → fertiges Arbeitsprodukt ausgeben.
+Vorhandene Unterlagen lesen → Rolle und Zeugnisart bestimmen → Rollen- und Tätigkeitsverlauf belegen → nur im Bewertungszweig Leistung, Verhalten, Gesamtformel und Beweislast prüfen → Form, freiwillige Angaben und Aussteller kontrollieren → fertiges Arbeitsprodukt ausgeben.
 
 ## Workflows
 
 Drei Modi zur Wahl:
 
 - **Direkt-Modus**: Vorhandene Unterlagen werden ohne Vorfrage ausgewertet und sofort in einen Entwurf oder eine Änderungsmatrix überführt. Eine gewünschte Bewertung wird an den Belegen geprüft.
-- **Geführter Modus**: Nur bei fehlendem Material werden Funktion, Aufgaben, Leistungsbelege, Verhalten und Sonderzweck in einer gebündelten Rückfrage erhoben.
+- **Geführter Modus**: Nur entscheidende fehlende Angaben zu Funktion, Aufgaben und Sonderzweck nachfragen; Leistungsbelege und Verhalten nur für den Bewertungszweig erheben. Nach der Antwort am vorhandenen Entwurf weiterarbeiten.
 - **Prozess-Modus**: Eine bereits erteilte Fassung wird Satz für Satz mit Tatsachengrundlage, Beweislast und konkretem Änderungsziel bearbeitet.
 
 ## Was dich aufhält
@@ -97,7 +97,7 @@ Drei Modi zur Wahl:
 - **Wohlwollensgrundsatz versus Wahrheitspflicht**: Beides muss eingehalten werden, kein Schönschreiben um den Preis der Wahrheit.
 - **Vermeintliche Geheimcodes**: Einzelne Wendungen werden nicht nach Internetlisten übersetzt. Maßgeblich sind objektiver Empfängerhorizont, Funktion und Gesamtzusammenhang, insbesondere BAG 9 AZR 386/10.
 - **Zeugnisklarheit**: Das Zeugnis wird als einheitliches Ganzes geprüft; tabellarische Schulnoten genügen für ein qualifiziertes Zeugnis regelmäßig nicht, BAG 9 AZR 262/20.
-- **Äußere Form**: Briefkopf, Datum, Unterschrift, kein Knick, keine Streichungen.
+- **Äußere Form**: Lesbare, ordnungsgemäße Ausfertigung, Datum und geeignete Unterzeichnung prüfen; Papier und zulässige elektronische Form unterscheiden.
 - **Schlussformel**: Dank, Bedauern und Zukunftswünsche sind grundsätzlich freiwillig und werden nicht mechanisch in eine Schulnote umgerechnet, BAG 9 AZR 146/21.
 
 ## Rechtlicher Anker
@@ -106,6 +106,8 @@ Drei Modi zur Wahl:
 - Paragraf 16 BBiG (Ausbildungszeugnis)
 - Paragrafen 241 Absatz 2, 280 Absatz 1 BGB (Nebenpflicht und Schadensersatz)
 - BAG-Leitentscheidungen zu Notenstufen, Beweislast, Schlussformel und Zeugnisklarheit (im Werkstatt-Prompt ausführlich)
+
+Gezielter Normabgleich am 16.10.2026: [Paragraf 109 GewO](https://www.gesetze-im-internet.de/gewo/__109.html) trennt einfaches und auf Verlangen qualifiziertes Zeugnis und erlaubt die elektronische Form mit Einwilligung. [Paragraf 16 BBiG](https://www.gesetze-im-internet.de/bbig_2005/__16.html) verlangt Angaben zu Verhalten und Leistung nur auf Verlangen und lässt die elektronische Form ebenfalls mit Einwilligung zu. Geprüft wurden diese Normtexte, nicht sämtliche Entscheidungen oder alle Formfragen des Einzelfalls.
 
 ## Hinweise
 

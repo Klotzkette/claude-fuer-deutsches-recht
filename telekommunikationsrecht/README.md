@@ -5,7 +5,7 @@
 
 Großes Telekommunikationsrecht-Plugin für TKG, Bundesnetzagentur, Internetanschlüsse, Anbieterwechsel, Kundenschutz, Netzregulierung, Frequenzen, Nummerierung, Sonderkartellrecht, Datenschutz und Sicherheitsanforderungen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`telekommunikationsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=telekommunikationsrecht/telekommunikationsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -69,7 +69,7 @@ Großes Arbeitsplugin für Telekommunikationsrecht: vom defekten Internetanschlu
 
 ## Startlogik
 
-Beginne mit `tk-allgemeiner-kaltstart`. Der Skill trennt Verbraucherstreit, Geschäftskunden-SLA, Netzbetrieb, Frequenz, Nummerierung, Marktmacht, Infrastruktur, Datenschutz/Sicherheit und BNetzA-Verfahren. Danach wird nur gezielt in Spezial-Skills verzweigt.
+Starten Sie mit `kaltstart-routing` und den vorliegenden Vertrags-, Störungs- oder Behördenunterlagen. Der Skill trennt Verbraucherstreit, Geschäftskunden-SLA, Netzbetrieb, Frequenz, Nummerierung, Marktmacht, Infrastruktur, Datenschutz/Sicherheit und BNetzA-Verfahren. Nur entscheidende Lücken werden erfragt; der passende Fachweg führt zum beauftragten Schreiben, Antrag oder Prüfvermerk.
 
 ## Rechtsweg-Kompass
 
@@ -77,7 +77,7 @@ Telekommunikationsrecht ist gemischt: Vertragliche Ansprüche laufen regelmäßi
 
 ## Quellenhygiene
 
-TKG, Nebengesetze, EU Electronic Communications Code, BNetzA-Verfügungen und Verwaltungspraxis werden live geprüft. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+Tragende Aussagen zu TKG, Nebengesetzen, EU Electronic Communications Code und BNetzA-Verfügungen erfordern eine passende aktuelle Quelle. Ist der Zugriff nicht möglich, wird die konkrete Prüfgrenze benannt; eine erfolgte Liveprüfung wird nicht behauptet. Rechtsprechung nur mit verifiziertem Inhalt, Gericht, Datum, Aktenzeichen und zugänglicher Quelle verwenden.
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 

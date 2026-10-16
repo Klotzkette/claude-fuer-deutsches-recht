@@ -8,7 +8,7 @@
 | Steuerberater | § 57 Abs. 1 StBerG | § 62a StBerG | § 56 StBerG | Abs. 1 Nr. 3 |
 | Wirtschaftsprüfer | § 43 WPO | § 50a WPO | § 59c WPO | Abs. 1 Nr. 3 |
 | Patentanwalt | § 39a Abs. 2 PAO | § 39c PAO | § 71 PAO | Abs. 1 Nr. 3 |
-| Notar | § 18 BNotO | § 26a BNotO | (keine BG) | Abs. 1 Nr. 1 |
+| Notar | § 18 BNotO | § 26a BNotO | (keine BG) | Abs. 1 Nr. 3 |
 
 ## Struktur der Dienstleisterregelungen
 
@@ -48,14 +48,16 @@ Bei Berufsausübungsgesellschaften gilt zusätzlich § 59c WPO (Wirtschaftsprüf
 
 ## § 203 StGB — Aufbau
 
-- **Abs. 1**: Berufsgruppen-Katalog, Nr. 1-8
-  - Nr. 1: Arzt, Zahnarzt, Tierarzt, Apotheker, Hebamme, Psychotherapeut etc. — und Notar
-  - Nr. 3: Rechtsanwalt, Patentanwalt, Notar (alternativ), Verteidiger, Wirtschaftsprüfer, Steuerberater etc.
+Gezielter Normcheck am 16.10.2026: [amtlicher Text](https://www.gesetze-im-internet.de/stgb/__203.html), Absätze 1, 3, 4 und 6, gelesen. Die folgende Strafrechtszuordnung wurde berichtigt; die übrigen Berufs- und Verfahrensnormen dieser Tabelle sind dadurch nicht neu verifiziert.
+
+- **Abs. 1**: Berufsgruppen-Katalog, Nummern 1 bis 7 einschließlich Nummer 3a
+  - Nr. 1: Heilberufe mit den gesetzlichen Qualifikationsvoraussetzungen; keine Zuordnung des Notars
+  - Nr. 3: Rechtsanwalt, Patentanwalt, Notar, Verteidiger, Wirtschaftsprüfer, Steuerberater etc.
 - **Abs. 2**: Amtsträger und ähnliche
 - **Abs. 3 Satz 2**: Befugnisnorm für mitwirkende Personen
 - **Abs. 4 Satz 1**: Strafbarkeit der mitwirkenden Personen
-- **Abs. 4 Satz 2 Nr. 1**: Sekundärpflicht der Berufsträger — Verletzung macht selbst strafbar
-- **Abs. 6**: gewerbsmäßig — höhere Strafandrohung
+- **Abs. 4 Satz 2 Nr. 1**: fehlende Sorge für die Geheimhaltungsverpflichtung; zusätzlich unbefugte Offenbarung durch die bezeichnete mitwirkende Person erforderlich
+- **Abs. 6**: Handeln gegen Entgelt oder in Bereicherungs- beziehungsweise Schädigungsabsicht; höhere Strafandrohung
 
 ## Strafprozessrecht
 

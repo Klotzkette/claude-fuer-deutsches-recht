@@ -41,6 +41,25 @@ OVERVIEWS = load_script("validate-root-readme-overview.py")
 
 
 class ReadmeIntroductionTests(unittest.TestCase):
+    def test_installation_steps_use_individual_package_index(self):
+        for filename, heading in (
+            ("QUICKSTART.md", "## 3. Ein einzelnes Plugin installieren"),
+            ("INSTALLATION_EINFACH.md", "## 1. Einzelnes Plugin installieren"),
+            ("README.md", "**Schritt 2: Plugin-ZIP herunterladen**"),
+        ):
+            with self.subTest(filename=filename):
+                text = (ROOT / filename).read_text(encoding="utf-8")
+                first_step = text.split(heading, 1)[1].split("\n2.", 1)[0]
+                self.assertIn("./ASSET_INDEX.md", first_step)
+                self.assertNotIn("releases/latest", first_step)
+
+    def test_quickstart_distinguishes_workspace_imports(self):
+        text = (ROOT / "QUICKSTART.md").read_text(encoding="utf-8")
+        section = text.split("## 4. Den Marketplace einbinden", 1)[1].split("## 5.", 1)[0]
+        self.assertIn("./README.md#chatgpt-und-die-chatgpt-app", section)
+        self.assertIn("Admin > Plugins > Add > Import marketplace", section)
+        self.assertNotIn("Nur im Kommandozeilen-Client", section)
+
     def test_root_starts_with_purpose_instead_of_release_news(self):
         text = (ROOT / "README.md").read_text(encoding="utf-8")
         intro = text.split('<a id="chatgpt-und-die-chatgpt-app"></a>', 1)[0]
@@ -64,6 +83,18 @@ class ReadmeIntroductionTests(unittest.TestCase):
 
 
 class CatalogVersionTests(unittest.TestCase):
+    def test_generated_marketplace_note_tracks_current_count(self):
+        body = "Dieses Plugin gehört zum Marketplace mit 302 Plugins."
+        text = PLUGINS.BEGIN + "\n" + body + "\n" + PLUGINS.END
+        self.assertEqual(NAV.marketplace_note_errors(text, 302), [])
+        self.assertEqual(len(NAV.marketplace_note_errors(text, 303)), 1)
+        self.assertEqual(NAV.marketplace_note_errors(body, 303), [])
+
+    def test_archive_note_does_not_promise_unpublished_plugins(self):
+        text = PLUGINS.BEGIN + "\nWer alle Plugins auf einmal will, nimmt das Archiv.\n" + PLUGINS.END
+        self.assertEqual(len(NAV.marketplace_note_errors(text, 302)), 1)
+        self.assertEqual(NAV.marketplace_note_errors(text.replace("Wer alle Plugins auf einmal will", "Veröffentlichter Sammelstand"), 302), [])
+
     def test_description_count_uses_source_without_changing_other_numbers(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)

@@ -1,4 +1,46 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Kompetenzrahmen von Artikel 73 auf Artikel 70 GG berichtigt; in Grundlagen Paragraf 11b EStG von selbstgenutztem Denkmal nach Paragraf 10f EStG getrennt.",
+    "files": [
+      {
+        "path": "denkmalschutzrecht/README.md",
+        "sha256": "8a6cd0add3f95a61d44fda514aecc46bd790080248b89478afb13af3f9f2cddf"
+      },
+      {
+        "path": "denkmalschutzrecht/skills/grundbegriffe-und-rechtsquellen/SKILL.md",
+        "sha256": "cbdad8b29d3436fab1b0d25d3bf71954561c956d0fb2625f40a4a9b4df114497"
+      },
+      {
+        "path": "denkmalschutzrecht/skills/juristischer-argumentationskern/SKILL.md",
+        "sha256": "62532e68f0a90ef914617849b61b0b730699851e5a9c079a87732625f568694a"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/gg/art_70.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Kompetenzgrundregel der Länder, soweit das GG dem Bund keine Befugnis zuweist.",
+        "limit": "Keine vollständige Landesgesetzprüfung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/estg/__10f.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Begünstigung zu eigenen Wohnzwecken genutzter Gebäude und Abzug wie Sonderausgaben.",
+        "limit": "Keine individuelle steuerliche Förderfähigkeit oder Übergangsprüfung."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/estg/__11b.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Verteilung begünstigten Erhaltungsaufwands bei Baudenkmalen, nicht selbständiger Sonderausgabenabzug für Selbstnutzung.",
+        "limit": "Amtlichen HTML-Text per curl gelesen, nachdem Browserabruf scheiterte; keine vollständige Steuerprüfung."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

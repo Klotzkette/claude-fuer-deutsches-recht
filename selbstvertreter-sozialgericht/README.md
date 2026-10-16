@@ -5,7 +5,7 @@
 
 Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`selbstvertreter-sozialgericht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=selbstvertreter-sozialgericht/selbstvertreter-sozialgericht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -97,7 +97,7 @@ Jede Skill hat einen extra Block "In einfacher Sprache". Dort stehen ganz kurze 
 ## Wichtig vorweg
 
 - Vor dem Sozialgericht und dem Landessozialgericht brauchen Sie keinen Anwalt (Paragraf 73 SGG).
-- Das Verfahren ist für Versicherte und Leistungsempfänger kostenfrei (Paragraf 183 SGG).
+- Für Versicherte und Leistungsempfänger ist das Gerichtsverfahren in dieser Eigenschaft grundsätzlich gerichtskostenfrei (Paragraf 183 SGG). Eigene Aufwendungen und gesetzliche Ausnahmen müssen trotzdem geprüft werden.
 - Das Gericht ermittelt die Wahrheit selbst (Amtsermittlung Paragraf 103 SGG). Das hilft Laien.
 - Sie können die Klage auf der Geschäftsstelle des Sozialgerichts diktieren (Paragraf 90 SGG).
 
@@ -105,7 +105,7 @@ Jede Skill hat einen extra Block "In einfacher Sprache". Dort stehen ganz kurze 
 
 - Keine richtige Rechtsberatung. Bei kniffligen Fällen brauchen Sie eine Anwältin oder einen Anwalt.
 - Keine Garantie, dass Sie gewinnen.
-- Keine Prüfung Ihres Bescheids im Einzelnen.
+- Die Bescheidanalyse und Schreiben sind überprüfbare Entwürfe, keine verbindliche Entscheidung oder anwaltliche Vertretung.
 
 Bei Unsicherheit: Wenden Sie sich an eine Beratungsstelle (Sozialverband VdK, SoVD, Diakonie, Caritas) oder beantragen Sie Beratungshilfe. Bei BSG-Verfahren besteht Vertretungszwang; bei schwierigen medizinischen Gutachten ist anwaltliche oder verbandliche Hilfe oft sinnvoll.
 
@@ -125,6 +125,8 @@ Bei Unsicherheit: Wenden Sie sich an eine Beratungsstelle (Sozialverband VdK, So
 ## Stand
 
 Mai 2026. Hinweise zu Reformen sind eingebaut. Bei Unsicherheit prüfen Sie unter www.sozialgerichtsbarkeit.de oder im aktuellen Gesetz.
+
+Gezielter Abgleich vom 16.10.2026: [Paragraf 183 SGG](https://www.gesetze-im-internet.de/sgg/__183.html) wurde hinsichtlich des begünstigten Personenkreises, der Beteiligung in dieser Eigenschaft und der gesetzlichen Ausnahmen geprüft. Daraus folgt keine allgemeine Zusage eines vollständig kostenfreien Verfahrens. Der übrige Quellenstand wurde nicht pauschal aktualisiert.
 
 ## Lizenz
 

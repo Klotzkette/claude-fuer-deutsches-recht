@@ -5,7 +5,7 @@
 
 NIS-2, BSIG 2025, BSI, IT-Grundschutz, Cloud, Incident Response und technische Security-Compliance für Geschäftsleitung, CISO und Legal.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`nis2-cybersecurity-compliance-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nis2-cybersecurity-compliance/nis2-cybersecurity-compliance-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,11 +72,11 @@ Dieses Plugin ist der tägliche Cyber-Compliance-Begleiter für Geschäftsführu
 
 ## Wofür dieses Plugin da ist
 
-Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, dann ein verwertbares Arbeitsprodukt bauen. Die Skills sollen Nutzer nicht kleinhalten, sondern sie in der jeweiligen Materie schneller, präziser und beweissicherer machen.
+Lies vorhandene Systemübersichten, Vorfallmeldungen und Prüfberichte zuerst. Bei einem laufenden Vorfall haben belegter Kenntniszeitpunkt, mögliche Erheblichkeit und offene Meldefristen Vorrang vor einer allgemeinen Organisationsaufnahme. Frage nur fehlende Schwellen-, Zuständigkeits- oder Vorfalldaten nach und arbeite am beauftragten Meldeentwurf oder Runbook weiter.
 
 ## Typischer Workflow
 
-1. Scope und Betroffenheit klären: Sektor, Größenklasse, kritische Dienste, Konzern und Lieferkette.
+1. Sektor, Größenklasse, kritische Dienste, Konzern und Lieferkette aus dem Material bestimmen; nur entscheidende Lücken zur Betroffenheit klären.
 2. Technische Realität aufnehmen: Assets, Cloud, SaaS, OT, MDM, Zertifikate, Logs, Backups und Lieferanten.
 3. Rechtliche Pflichten routen: NIS-2/BSIG, BSI-Grundschutz, DSGVO, DORA, CRA, Data Act, Arbeitsrecht und Organpflichten.
 4. Echte Maßnahmen bauen: Risiko, Verantwortliche, Budget, Nachweis, Termin, Test und Eskalation.
@@ -86,12 +86,14 @@ Es ist als Arbeitsbegleiter gedacht: erst fragen, dann sortieren, dann prüfen, 
 
 Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Konkrete Normen, Behördenhinweise und Rechtsprechung immer live prüfen. Keine BeckRS-, Juris-, Kommentar- oder Aufsatz-Blindzitate.
 
+Fristenabgleich vom 16.10.2026 anhand des gelesenen amtlichen [Paragrafen 32 BSIG](https://www.gesetze-im-internet.de/bsig_2025/__32.html): Die frühe Erstmeldung ist unverzüglich, spätestens binnen 24 Stunden nach Kenntnis eines erheblichen Sicherheitsvorfalls abzugeben; auch die 72-Stunden-Meldung rechnet ab dieser Kenntnis. Die Monatsfrist für die Abschlussmeldung läuft dagegen ab der Meldung nach Absatz 1 Nummer 2. Dauert der Vorfall an, gelten Fortschritts- und spätere Abschlussberichterstattung nach Absatz 2. Diese Prüfung betrifft die Fristmechanik, nicht automatisch die Betroffenheit jeder Einrichtung, die Erheblichkeit jedes Vorfalls oder parallele Meldepflichten.
+
 ## Arbeitsstil
 
-- Erst Scope und Ziel klären.
+- Vorhandene Scope-Feststellungen nutzen; neue Antworten gezielt in das laufende Dokument einarbeiten.
 - Keine pauschale Compliance-Folklore.
 - Fristen, Schwellen, Zuständigkeiten und technische Tatsachen gegen Originalquellen prüfen.
-- Am Ende immer ein verwertbares Dokument, eine Matrix, eine Entscheidungsvorlage oder einen nächsten konkreten Schritt liefern.
+- Das beauftragte Dokument fertig ausarbeiten; eine Maßnahmenliste oder ein nächster Schritt ersetzt keinen fertigstellbaren Meldeentwurf.
 
 ## Lizenz
 

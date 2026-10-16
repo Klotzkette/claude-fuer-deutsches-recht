@@ -5,7 +5,7 @@
 
 Robotik-Recht Deutschland/EU: Maschinenverordnung, KI-VO, Produkthaftung, ProdSG, Datenschutz, CRA, Data Act, CE, Marktüberwachung, Unfälle, Rückruf, Verträge und Robotik-Testakte.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`robotik-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=robotik-recht/robotik-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -89,7 +89,7 @@ Typische Fälle:
 
 ## Arbeitsstil
 
-Der Einstiegsskill `robotik-recht-allgemein` fragt nicht abstrakt nach allem, sondern baut sofort eine Arbeitskarte:
+Bei einem noch offenen Anliegen ordnet `kaltstart-triage` zunächst vorhandenes Material in einer Arbeitskarte. Ein klarer Prüfauftrag geht direkt in den passenden Fachschritt; Rückfragen betreffen nur entscheidende Lücken:
 
 1. Rolle und Produkt.
 2. Zweckbestimmung und tatsächliche Nutzung.
@@ -99,7 +99,7 @@ Der Einstiegsskill `robotik-recht-allgemein` fragt nicht abstrakt nach allem, so
 6. Fristen, Behörden, Unfall oder Rückruf.
 7. Zieloutput.
 
-Danach werden die passenden Spezialskills vorgeschlagen. Das Plugin ist bewusst erweiternd: Es hilft Ingenieurinnen, Inhouse-Teams und Anwältinnen, die richtige Tiefe zu finden, ohne sie in ein starres Formular zu sperren.
+Aus der Arbeitskarte folgt der passende Spezialschritt bis zum beauftragten Ergebnis, etwa eine Sicherheitsbewertung oder Rückrufvorlage. Nachgereichte Angaben ergänzen den laufenden Vorgang. Die sieben Punkte sind Prüfaspekte, kein zwingend vollständig abzufragendes Erstformular.
 
 ## Quellenhygiene
 

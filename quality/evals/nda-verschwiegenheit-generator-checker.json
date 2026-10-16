@@ -4,6 +4,11 @@
   "reviewed_on": "2026-09-23",
   "sources": [
     {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlicher Volltext BAG 17.10.2024, 8 AZR 172/23, insbesondere Rn. 24–39 gelesen: angemessene Geheimhaltungsmaßnahmen und Unwirksamkeit zeitlich unbegrenzter arbeitsvertraglicher Catch-all-Klausel nach § 307 BGB. Keine pauschale Übertragung auf Unternehmens-NDAs."
+    },
+    {
       "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
       "checked_on": "2026-09-14",
       "supports": "Angemessene Geheimhaltungsmaßnahmen als Merkmal des gesetzlichen Geschäftsgeheimnisses."

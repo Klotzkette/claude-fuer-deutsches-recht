@@ -2,7 +2,7 @@
 
 Untersuchungshaft anordnen, überprüfen oder beenden und Rechte während des Vollzugs klären: Dieses Plugin unterstützt Gericht, Staatsanwaltschaft, Verteidigung und Betroffene mit genau zehn Skills. Aus Haftbefehl, Beschlüssen und Belegen entstehen konkrete Anträge, Stellungnahmen oder Entscheidungsentwürfe. Der nächste Verfahrensschritt bestimmt die Bearbeitung, nicht ein vollständiges Interview bei jedem Start.
 
-[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/untersuchungshaft.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.) · [English guide](#2-english-guide)
+[Hauptübersicht](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/untersuchungshaft.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.) · [English guide](#16-english-guide)
 
 ## 1.1. Mit der anstehenden Entscheidung beginnen
 
@@ -137,17 +137,17 @@ Das Qualitätsprofil enthält zehn individuelle Prüffälle, einen je Skill. Es 
 
 Dieses Angebot ist ein experimentelles Arbeitsmittel, keine Rechtsberatung und keine Zusage eines bestimmten Haftausgangs. Es ersetzt weder einen Verteidiger noch die verantwortliche gerichtliche oder staatsanwaltschaftliche Entscheidung. Fehler und unvollständige Quellen sind möglich; vor Verwendung eines Entwurfs müssen Zuständigkeit, Form, Tatsachen, Recht und notwendige Freigaben geprüft werden.
 
-# 2. English Guide
+## 1.6. English Guide
 
 This plugin supports German pretrial-detention work for courts, prosecutors, defence counsel and affected individuals. It contains exactly ten skills, including the coordinating skill `uhaft-verfahren-steuern`. It prepares applications, submissions and draft decisions; it does not decide cases or operate court systems.
 
-## 2.1. Start with the current task
+### 1.6.1. Start with the current task
 
 Use the installation or Markdown links in section 1.2. Supply your role, the current detention order or decision, and the document you need. If the procedural route is unclear, start with the coordinating skill. Otherwise use the matching specialist skill from section 1.3. Existing documents are read before questions are asked; only missing information that matters to the next step should be requested.
 
 For example: “Act for defence counsel. Read the detention order, housing confirmation and employer's email. Draft an application for suspension of detention and ask only for the remaining essential evidence.” A court user should instead request an impartial draft addressing both inculpatory and exculpatory material. After a reply or a new decision arrives, continue the same task rather than restarting the intake.
 
-## 2.2. Choose the right route and format
+### 1.6.2. Choose the right route and format
 
 The skills distinguish arrest and initial judicial appearance, detention grounds, release or suspension, judicial detention review, complaint proceedings, prolonged detention, judicial contact restrictions, prison conditions and young defendants. A prison measure is not automatically the same procedural issue as the detention order. The applicable German state law must be checked for prison conditions.
 
@@ -155,7 +155,7 @@ The detailed workshop and compact quick-start files are standalone alternatives,
 
 The workshop integrates thirteen decisions with pinpoint references and limits of application. Eleven were checked against official full texts; two federal criminal-court decisions remain marked as secondary-source cross-checks. The quick-start follows ten short sections and uses eight selected decisions. Its size stays below 7,500 characters and UTF-8 bytes, including spaces and Windows line endings. Neither version treats a procedural rejection or an unresolved issue as a successful release ruling.
 
-## 2.3. Use the cases and retain human control
+### 1.6.3. Use the cases and retain human control
 
 Section 1.4 provides four independent cases in three formats each: combined PDF, flat individual-PDF ZIP and flat native-document ZIP. Both ZIP variants carry the bilingual warning in a root-level `README.txt`. Individual documents contain factual accounts, evidence and procedural correspondence, not a prescribed answer.
 

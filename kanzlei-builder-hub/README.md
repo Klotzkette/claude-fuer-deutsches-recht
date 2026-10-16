@@ -5,7 +5,7 @@
 
 Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`kanzlei-builder-hub-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-builder-hub/kanzlei-builder-hub-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -68,7 +68,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Community-Skills für Kanzleien: Entdecken, prüfen und installieren. Durchsucht GitHub-Registries (kanzlei-skills und weitere, die über `/kanzlei-builder-hub:verzeichnis-durchsuchen` ergänzt werden können), installiert und aktualisiert Skills automatisch (mit Diff-Review), und zeigt in anderen Kanzlei-Plugins verwandte Community-Skills an. Das Erstgespräch-Interview (`kanzlei-builder-hub-kaltstart-interview`) ist gleichzeitig der Starter-Pack-Empfehlungsassistent — es fragt nach Kanzleityp und Tätigkeitsschwerpunkt und empfiehlt passende Skills zur Installation.
+Community-Skills für Kanzleien finden, im Rohtext prüfen und eine begründete Installations- oder Updateentscheidung vorbereiten. Der Hub kann freigegebene Registries durchsuchen, sofern die Umgebung den Zugriff ermöglicht. Schreiben und Installieren setzen verfügbare Werkzeuge sowie die unten beschriebene ausdrückliche Genehmigung voraus. Ein Prüfauftrag für einen bereits benannten Skill beginnt unmittelbar mit dessen Dateien und Änderungen; ein Kanzleiprofil ist dafür keine Pflichtaufnahme.
 
 **Jeder Community-Skill wird vor der Installation im Rohformat angezeigt, auf Prompt-Injection-Muster gescannt und gegen das Kanzlei-Skill-Design-Framework geprüft. Sicherheits- und Berufsrechtsprüfung (DSGVO, BRAO/BORA, Mandantengeheimnis) erfolgen vor jeder Installation. Der Hub hilft beim Finden und Bewerten — die Entscheidung, was vertraut wird, liegt beim Anwender.**
 
@@ -82,7 +82,7 @@ Für alle, die die anderen Kanzlei-Plugins nutzen. Dies ist der App-Store.
 
 ## Erster Start: Kaltstart-Interview
 
-Das Interview fragt nach Kanzleityp, Rechtsgebiet, Teamgröße und technischer Vertrautheit. Es empfiehlt ein Starter-Paket passender Community-Skills und installiert die ausgewählten.
+Für eine noch offene Auswahl kann das Interview Kanzleityp, Rechtsgebiet, Teamgröße und technische Voraussetzungen klären und ein Starter-Paket empfehlen. Die Installation bleibt ein eigener freizugebender Schritt; Empfehlungen belegen weder technische Verfügbarkeit noch bereits erfolgte Installation.
 
 ```
 /kanzlei-builder-hub:kaltstart-interview
@@ -162,7 +162,7 @@ Bei Problemen nach der Installation: `/kanzlei-builder-hub:deaktivieren [skill]`
 
 ## Interaktive Befehle vs. geplante Agenten
 
-Die obigen Befehle werden bei Aufruf ausgeführt — für die aktive Mandatsarbeit. Die folgenden Agenten laufen planmäßig im Hintergrund:
+Die obigen Befehle beschreiben aufgerufene Arbeitsabläufe. Die folgende Kadenz ist nur ein Vorschlag: Eine Hintergrundprüfung läuft erst, wenn eine tatsächlich verfügbare Zeitplanung eingerichtet und bestätigt wurde. Die bloße Plugin-Installation startet keinen dauerhaften Überwachungsdienst.
 
 | Agent | Was er beobachtet | Standard-Kadenz |
 |---|---|---|

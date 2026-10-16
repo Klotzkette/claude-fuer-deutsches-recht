@@ -5,7 +5,7 @@
 
 Großes Haushaltsrecht-Plugin für BHO, HGrG, Bundeshaushalt, Länderhaushalte, Titelanalyse, Umschichtung, Sondervermögen, Szenarien und Dashboard.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`haushaltsrecht-bho-bund-laender-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,7 +72,7 @@ Dieses Plugin macht Haushaltsrecht verständlich und bedienbar: vom ersten Blick
 
 ## Start
 
-Beginne mit `haushaltsrecht-bho-bund-laender-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Beginne mit Haushaltsansatz, Bewirtschaftungsvermerk oder Zuwendungsunterlagen und dem konkreten Auftrag. Haushaltsjahr, Bund oder Land, Titel und Entscheidungszuständigkeit werden soweit möglich daraus entnommen. Nur entscheidende fehlende Angaben werden nachgefragt. Der verlangte Haushaltsvermerk, die Wirtschaftlichkeitsprüfung oder Entscheidungsvorlage wird unmittelbar ausgearbeitet und nach Antworten gezielt fortgeführt.
 
 ## Arbeitsweise
 
@@ -83,7 +83,7 @@ Beginne mit `haushaltsrecht-bho-bund-laender-allgemein`. Das Plugin fragt zuerst
 
 ## Typische Outputs
 
-- Kaltstart-Interview und Aktenlandkarte
+- Einordnung eines noch offenen Haushaltsanliegens; kein Pflichtinterview vor einem konkreten Vermerk
 - Behörden-, Gerichts- oder Gegneranschreiben
 - Widerspruchs-/Klage-/Eilantragsbausteine
 - Kosten-, Fristen- und Zuständigkeitsmatrix

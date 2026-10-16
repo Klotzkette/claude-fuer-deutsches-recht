@@ -5,7 +5,7 @@
 
 Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`produktrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=produktrecht/produktrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -92,7 +92,7 @@ Es trennt sauber zwischen Produktsicherheit/Behördenpflichten, verschuldensunab
 
 ## Erster Start: das Kaltstart-Interview
 
-Verbindet sich mit Ihrem Launch-Tracker (Jira/Linear), liest zehn vergangene Launch-Reviews, lernt was Sie tatsächlich blockieren vs. durchwinken. Erstellt eine Risikokalibrierungstabelle, auf die jeder andere Skill zurückgreift.
+Das optionale Interview richtet ein Praxisprofil für wiederkehrende Produktprüfungen ein. Vorhandene Launch-Reviews können dafür ausgewertet werden, wenn sie bereitgestellt wurden oder der Zugriff auf einen verbundenen Tracker erlaubt ist. Bei einem konkreten Prüfauftrag beginnt die Arbeit direkt mit dem Produktmaterial; ein Profil, zehn frühere Reviews oder eine neue Verbindung sind keine Voraussetzung.
 
 Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates.
 
@@ -128,7 +128,7 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 
 ## Interaktive Befehle vs. geplante Agenten
 
-Die obigen Befehle laufen bei Aufruf – für laufende Arbeit an einem Mandat. Die Agenten unten laufen auf einem Zeitplan – für das, was sich bewegt während Sie nicht hinschauen:
+Die obigen Befehle laufen bei Aufruf. Eine wiederkehrende Überwachung setzt dagegen einen gesondert eingerichteten und freigegebenen Zeitplan sowie tatsächlich verfügbare Datenzugriffe voraus; die Installation allein startet keinen Hintergrundlauf. Die folgende Tabelle beschreibt den vorgesehenen Einsatz:
 
 | Agent | Was wird überwacht | Standard-Takt |
 |---|---|---|
@@ -136,7 +136,7 @@ Die obigen Befehle laufen bei Aufruf – für laufende Arbeit an einem Mandat. D
 
 ## Integrationen
 
-**Verbinden Sie zuerst ein Recherche-Tool – die Zitatschranken hängen davon ab.** Ohne eines wird jede Quellenangabe als `[prüfen]` markiert und der Prüfvermerk über jeder Ausgabe hält fest, dass Quellen nicht verifiziert wurden. Skills arbeiten beides; ein Recherche-Tool verschiebt Verifikationsarbeit von Ihrer Schulter.
+Maßgeblich ist die tatsächlich gelesene Quelle, nicht die bloße Verbindung eines Recherchewerkzeugs. Bereitgestellte Originaltexte können ebenso geprüft werden wie abrufbare amtliche Quellen. Modellwissen, Suchtreffer und ungelesene Fundstellen bleiben `[prüfen]`; der Prüfvermerk nennt Abruf, gelesene Passage und Grenzen. Fehlender Recherchezugang verhindert nicht die Arbeit am vorhandenen Produktmaterial.
 
 Ausgeliefert mit in `.mcp.json` konfigurierten Konnektoren:
 
@@ -146,9 +146,11 @@ Ausgeliefert mit in `.mcp.json` konfigurierten Konnektoren:
 - **Atlassian** – Jira-Issues und Confluence-Seiten
 - **Asana** – Aufgaben und Projekt-Tracking
 
-Mit verbundenem Tracker: Kaltstart liest Launch-Historie, launch-prüfung liest Ticket-Kontext, markteinführungs-monitor-Agent überwacht den Kalender.
+Ein freigegebener Tracker kann Launch-Historie und Ticket-Kontext liefern. Kalenderüberwachung braucht zusätzlich einen eingerichteten Zeitplan; ohne Zugriff wird mit bereitgestelltem Material gearbeitet.
 
 ## Schnellstart
+
+Die Profilerstellung ist optional. Für eine konkrete Frage oder einen vorhandenen Prüfauftrag kann unmittelbar einer der nachfolgenden Fachbefehle gewählt werden.
 
 ```
 /produktrecht:kaltstart-interview
@@ -177,7 +179,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/pro
 - **UWG** (§§ 3, 5, 5a, 5b, 7 – unlautere Werbung, Irreführung, Belästigung)
 - **PAngV 2022** (Preisangabenpflichten, Grundpreis § 4, Streichpreise § 11)
 - **BGB §§ 305 ff.** (AGB-Kontrolle, Einbeziehung, Inhaltskontrolle)
-- **DDG** (vormals TMG – Impressumspflicht §§ 5, 6, Haftung §§ 7 ff.)
+- **DDG** (Informationspflichten für digitale Dienste; eine frühere TMG-Haftungsprüfung nicht allein durch Austausch der Gesetzesabkürzung fortschreiben)
 - **TDDDG** (Cookie-Einwilligung, § 25 TDDDG)
 - **ProdHaftG / § 823 BGB** (verschuldensunabhängige Produkthaftung und deliktische Produzentenhaftung)
 - **ProdSG / GPSR VO (EU) 2023/988** (Produktsicherheit, Marktüberwachung, Rückverfolgbarkeit, Safety Business Gateway)

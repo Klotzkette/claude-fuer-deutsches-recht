@@ -1,4 +1,26 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Shopmaterial vor Pflichtaufnahme; Paragraf 356a BGB zur Widerrufsfunktion gezielt bestätigt und vom Kündigungsbutton getrennt, ohne Übergangsrecht pauschal mitzubelegen.",
+    "files": [
+      {
+        "path": "ecommerce-recht/README.md",
+        "sha256": "12a0bf40d3ea3a60846bd8d9934a4166341a07496b1920d3f4195d6c240b6449"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Widerrufsfunktion bei über Online-Benutzeroberfläche geschlossenen Fernabsatzverträgen; Bestätigung und dauerhafte Eingangsbestätigung.",
+        "limit": "Kein pauschaler Nachweis des Widerrufsrechts im Einzelfall oder sämtlicher Übergangsfristen."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

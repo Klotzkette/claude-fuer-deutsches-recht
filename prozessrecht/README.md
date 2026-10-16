@@ -5,7 +5,7 @@
 
 Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`prozessrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=prozessrecht/prozessrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -111,19 +111,15 @@ Das Plugin deckt das **deutsche Zivilprozessrecht (ZPO)** als Kernbereich ab und
 
 Für harte ZPO-Fakten gibt es den Spezialskill `amtlicher-zpo-verfahrenscheck`. Er nutzt den aktuellen amtlichen ZPO-Normkern und trennt Zuständigkeit, Form, Zustellung, Fristen, Klage, Beweis, Mahnverfahren, Vollstreckung, Arrest und einstweilige Verfügung.
 
-## Vorprozessuale Beweiserhebung im deutschen Recht
+## Informationsbeschaffung und Beweissicherung
 
-Informationsbeschaffung erfolgt durch:
-- §§ 142, 144 ZPO (gerichtliche Urkundenvorlegung und Augenschein)
-- § 810 BGB (Einsichtnahme in Urkunden)
-- §§ 242, 259, 260, 666 BGB (Auskunftsansprüche)
-- Art. 15 DSGVO (Auskunftsrecht)
-- § 254 ZPO (Stufenklage)
-- §§ 485 ff. ZPO (Selbständiges Beweisverfahren)
+Vor einer Klage kommen je nach Rechtsverhältnis materielle Einsichts- und Auskunftsansprüche in Betracht, etwa nach Paragraf 810 BGB, aus Paragraf 242 BGB oder nach Paragraf 666 BGB. Paragrafen 259 und 260 BGB regeln den Umfang bestimmter Rechenschafts- und Auskunftspflichten, begründen aber keinen allgemeinen Ausforschungsanspruch. Art. 15 DSGVO betrifft personenbezogene Daten, nicht unterschiedslos sämtliche Prozessunterlagen.
+
+Das selbständige Beweisverfahren nach Paragrafen 485 ff. ZPO kann unter seinen gesetzlichen Voraussetzungen bereits vor einem Hauptsacheverfahren der Beweissicherung oder Streitvermeidung dienen. Davon zu unterscheiden sind gerichtliche Anordnungen nach Paragrafen 142 und 144 ZPO zur Urkundenvorlage, zum Augenschein oder zur Begutachtung im Verfahren. Die Stufenklage nach Paragraf 254 ZPO ist eine Klageform zur Verbindung eines Auskunfts- oder Rechnungslegungsbegehrens mit dem noch zu beziffernden Leistungsbegehren, keine vorgerichtliche Ermittlungsbefugnis.
 
 Zum Schutz anwaltlicher Unterlagen: § 43a Abs. 2 BRAO, § 203 StGB; Zeugnisverweigerungsrecht § 383 Abs. 1 Nr. 6 ZPO; Beschlagnahmefreiheit §§ 97, 53 StPO; Editionsverweigerung §§ 142, 383 ZPO.
 
-Urteile sind nicht bindend (außer § 31 BVerfGG). Literatur und Kommentare sind tragende Argumentationsquellen.
+Gerichtsentscheidungen begründen grundsätzlich keine allgemeine Präzedenzbindung für jeden späteren Fall. Davon zu trennen sind die materielle Rechtskraft nach Paragraf 322 ZPO, gesetzliche Bindungen im konkreten Verfahren und die besondere Bindungswirkung nach Paragraf 31 BVerfGG. Einschlägige Rechtsprechung ist mit tragendem Rechtssatz, Sachverhaltsvergleich und Übertragungsgrenze auszuwerten; Literatur und Kommentare ergänzen diese Prüfung.
 
 ## Rechtsgebiete und Verfahrensordnungen
 

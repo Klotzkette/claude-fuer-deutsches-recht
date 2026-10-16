@@ -5,7 +5,7 @@
 
 Methodenlehre und Rechtsanwendung im deutschen bürgerlichen Recht aus Anwaltsperspektive: Anspruchsaufbau, Auslegung, Abwägung, Präzedenzarbeit, Rechtsfortbildung, Methodenwahl, EU-Methodik und methodenehrliche Begründungskontrolle.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`methodenlehre-buergerliches-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=methodenlehre-buergerliches-recht/methodenlehre-buergerliches-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -82,7 +82,7 @@ Neu stärker ausgebaut ist die rechtsstaatliche Qualitätskontrolle juristischer
 Das Plugin liefert die **methodische Klammer** für jede zivilrechtliche Bewertung im Repo — also den Rahmen, in dem alle Rechtsgebiet-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, `kindeswohlgefaehrdung-eilantrag`, `arbeitsrecht`, `gesellschaftsrecht-legal-english`, `kanzlei-allgemein` etc.) arbeiten sollen. Konkret leistet es Folgendes:
 
 - **Anspruchsgrundlagen-Reihenfolge** strukturiert: Vertrag → c.i.c. → GoA → dingliche Ansprüche → Delikt → Gefährdungshaftung → Bereicherung. Sammelbegriffe wie „vertragsähnlich" oder „quasivertraglich" werden vermieden, weil sie in der Lehre uneinheitlich besetzt sind.
-- **Vier Auslegungskanones** pragmatisch geführt: grammatikalisch (Wortlautgrenze), systematisch, historisch, teleologisch. **Keine starre Rangfolge** — in der anwaltlichen Praxis dominiert die Teleologie, weil Gerichte über die ratio legis Einzelfallgerechtigkeit begründen. Wer im Schriftsatz nur historisch argumentiert, redet am Senat vorbei.
+- Vier Auslegungskanones nachvollziehbar abgleichen: Wortlaut, Systematik, Entstehungsgeschichte und Normzweck. Keine pauschale Vorrangregel zugunsten der Teleologie verwenden; das Gewicht eines Arguments muss aus der konkreten Norm und den belegten Materialien hervorgehen. Gegenargumente ausdrücklich bearbeiten.
 - **Querschnittskanones**: verfassungskonforme und unionsrechtskonforme Auslegung. Bei Normen unionsrechtlichen Ursprungs autonome Auslegung; Erwägungsgründe als Auslegungshilfe, nicht als Auslegungssubstitut; keine horizontale Direktwirkung von Richtlinien zwischen Privaten.
 - **Lückenfüllung als reales Werkzeug**: Analogie (planwidrige Regelungslücke + vergleichbare Interessenlage), teleologische Reduktion, Erst-Recht-Schluss, Umkehrschluss. Mit konkreten Praxisbeispielen aus der BGH-Rechtsfortbildung (Vertrag mit Schutzwirkung zugunsten Dritter, Drittschadensliquidation, c.i.c. vor Schuldrechtsreform).
 - **Generalklauseln** als Auffangargument, nicht als Hauptargument: § 138, § 242, § 826 BGB greifen erst, wenn keine speziellere Norm passt. Konkretisierung über Grundrechte und Unionsrecht, nicht über gefühlte „Wertvorstellungen der Gemeinschaft".
@@ -91,7 +91,7 @@ Das Plugin liefert die **methodische Klammer** für jede zivilrechtliche Bewertu
 - **Memo-Standardstruktur**: Sachverhalt → Frage(n) → Kurzantwort → rechtliche Bewertung → Gesamtergebnis → Risiken → Quellenverzeichnis nach Hauszitierweise.
 - **Selbstprüfungs-Checkliste vor jeder Ausgabe**: acht Fragen, mit denen jede zivilrechtliche Antwort durchläuft, bevor sie ausgeliefert wird.
 
-Das Plugin verzichtet bewusst darauf, eine methodendebatten-getriebene Position zu beziehen. Es nimmt die Warnung vor zu freier Teleologie, Scheinobjektivität und verdeckter richterlicher Normsetzung ernst, bildet aber zugleich ab, was Senate des BGH und Berufungsinstanzen **tatsächlich** tun, nicht was die Methodenlehre als Idealtypus fordert.
+Das Plugin soll die Begründung an der konkreten Norm und Entscheidung kontrollierbar machen. Eine Beschreibung vermeintlich typischer Gerichtspraxis ersetzt weder die Auswertung der tragenden Gründe noch die Prüfung methodischer Grenzen. Die lokale Methodik-Referenz trennt allgemeine Präzedenzwirkung von Rechtskraft und besonderen gesetzlichen Bindungen.
 
 
 ## Perspektiv-Skills: freiheitlich, konservativ, postfaktisch-resistent
@@ -103,6 +103,10 @@ Neu hinzugekommen sind kontrollierte Perspektiv-Skills, die bewusst **keine Ideo
 - **postfaktisch-resistent:** Narrative, Anekdoten, erfundene Marktüblichkeit und Scheinempirie erkennen; Tatsache, Wertung, Normzweck und Beweis strikt trennen.
 
 Der Zweck ist nicht, ein gewünschtes Ergebnis zu produzieren, sondern eine zivilrechtliche Lösung methodisch ehrlicher, belastbarer und angreifbarer zu machen.
+
+## Quellen und Bindungsgrenzen
+
+Die lokale [Methodik-Referenz](references/methodik-buergerliches-recht.md) wurde am 16.10.2026 an die präzisierte Stammfassung angeglichen: Keine allgemeine Präzedenzbindung bedeutet nicht fehlende Rechtskraft oder fehlende besondere Bindung. [Paragraf 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html) wurde dabei im amtlichen Text gelesen. Der erneute Abruf von Paragraf 322 ZPO war technisch nicht auswertbar; seine Einordnung stammt aus der übernommenen Stammfassung, nicht aus einer hier behaupteten neuen Volltextprüfung. Andere methodische Aussagen und Entscheidungsanker sind damit nicht vollständig neu verifiziert.
 
 ## Installation in der Plugin-Umgebung
 

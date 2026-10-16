@@ -15,6 +15,8 @@ description: "Für Strafrechtliche Belehrung prüfen: ordnet Norm, Beweislast un
 
 ## Norm
 
+Gezielt am 16.10.2026 [Paragraf 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html), Absätze 1, 3, 4 und 6, gelesen: Berufsgruppen, Offenbarungsbefugnis und Strafbarkeit getrennt. Keine neue Vollprüfung der einzelnen berufsrechtlichen Belehrungsnormen.
+
 Absatz 3 Satz 2 Nr. 1 der jeweiligen Dienstleisterregelung verlangt die Verpflichtung des Dienstleisters "unter Belehrung über die strafrechtlichen Folgen einer Pflichtverletzung". Diese Folgen ergeben sich aus § 203 StGB und § 204 StGB.
 
 Pro Beruf identische Anforderung in:
@@ -29,7 +31,7 @@ Pro Beruf identische Anforderung in:
 
 ### Abs. 1 — Strafbarkeit der Berufsgeheimnisträger
 
-Wer ein fremdes Geheimnis offenbart, das ihm in seiner Eigenschaft als Angehöriger der dort genannten Berufsgruppen anvertraut oder bekanntgeworden ist. Nr. 1 erfasst unter anderem Notare; Nr. 3 erfasst Rechtsanwälte, Patentanwälte, Notare (alternativ), Steuerberater, Wirtschaftsprüfer und vergleichbare Berufsgruppen.
+Wer ein fremdes Geheimnis offenbart, das ihm in seiner Eigenschaft als Angehöriger der dort genannten Berufsgruppen anvertraut oder bekanntgeworden ist. Nummer 1 betrifft Heilberufe; Nummer 3 erfasst unter anderem Rechtsanwälte, Patentanwälte, Notare, Steuerberater und Wirtschaftsprüfer.
 
 ### Abs. 3 Satz 2 — Befugnisnorm
 
@@ -39,11 +41,11 @@ Die in Abs. 1 Genannten dürfen fremde Geheimnisse gegenüber sonstigen mitwirke
 
 **Abs. 4 Satz 1**: Die strafrechtliche Verantwortlichkeit erstreckt sich auch auf die "sonstigen mitwirkenden Personen", wenn sie das Geheimnis unbefugt offenbaren.
 
-**Abs. 4 Satz 2 Nr. 1**: Sekundärpflicht der Berufsgeheimnisträger — sie haben die mitwirkenden Personen vertraglich zur Geheimhaltung zu verpflichten. Wer dies unterlässt, macht sich nach § 203 Abs. 4 Satz 2 Nr. 1 StGB selbst strafbar. Das ist der zentrale strafrechtliche Druckpunkt für die Sorgfalt bei der Vertragsgestaltung.
+**Abs. 4 Satz 2 Nr. 1**: Sekundärpflicht der Berufsgeheimnisträger — sie haben die mitwirkenden Personen vertraglich zur Geheimhaltung zu verpflichten. Die fehlende Verpflichtung allein begründet noch keine Strafbarkeit nach dieser Vorschrift; erforderlich ist zusätzlich die dort beschriebene unbefugte Offenbarung durch die mitwirkende Person.
 
-### Abs. 6 — gewerbsmäßig
+### Abs. 6: Entgelt oder besondere Absicht
 
-Gewerbsmäßiges Handeln führt zu erhöhter Strafandrohung. Relevant insbesondere für den Dienstleister selbst, der eine Datenverwertung betreibt.
+Absatz 6 erfasst Handeln gegen Entgelt oder in Bereicherungs- beziehungsweise Schädigungsabsicht. Das ist nicht mit Gewerbsmäßigkeit oder dem bloßen Betrieb eines entgeltlichen Dienstes gleichzusetzen.
 
 ## § 204 StGB
 
@@ -53,7 +55,7 @@ Verwertung fremder Geheimnisse zu eigenen Zwecken. Konkurrenznorm zu § 203 StGB
 
 - Ausdrücklicher Verweis auf § 203 StGB und § 204 StGB im Vertrag
 - Hinweis auf Strafandrohung Freiheitsstrafe bis zu einem Jahr oder Geldstrafe (Grundtatbestand)
-- Hinweis auf gewerbsmäßige Variante (höhere Strafandrohung)
+- Hinweis auf Qualifikation nach Absatz 6 (höhere Strafandrohung)
 - Normtext idealerweise als Vertragsanlage
 - Empfänger der Belehrung: der Dienstleister selbst und alle sonstigen mitwirkenden Personen (die der Dienstleister einbindet)
 
@@ -90,7 +92,7 @@ Im Skill `klauselvorschlaege` befindet sich ein Mustertext der Anlage Normtext �
 2. Ist die Belehrung in Textform (§ 126b BGB) dokumentiert?
 3. Wurde der Normtext der §§ 203/204 StGB als Anlage beigefügt?
 4. Verpflichtet der Vertrag den Dienstleister, seine Subunternehmer ebenso zu belehren?
-5. Erfasst die Belehrung § 203 Abs. 6 StGB (gewerbsmäßige Variante)?
+5. Erfasst die Belehrung § 203 Abs. 6 StGB (Qualifikation nach Absatz 6)?
 
 ## Output-Template — Belehrungsprüfvermerk
 

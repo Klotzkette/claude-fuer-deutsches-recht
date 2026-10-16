@@ -14,7 +14,7 @@ description: "Für Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung).
+Fokus: Fristen in Sozialrechtsverfahren erfassen und überwachen. Widerspruch, Klage und Beschwerde haben unterschiedliche Auslöser und Sonderregeln; bei Untätigkeit gelten nach Paragraf 88 SGG grundsätzlich sechs Monate für den Antrag und drei Monate für den Widerspruch. Bekanntgabe nach Paragraf 37 SGB X und förmliche Zustellung getrennt feststellen. Ergebnis ist ein Fristenbucheintrag mit belegtem Auslöser, Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung).
 
 ### Fristenbuch Sozialrecht
 
@@ -53,27 +53,27 @@ Pro Eintrag:
 |---|---|---|
 | Widerspruchsfrist | § 84 Abs. 1 SGG | ein Monat ab Bekanntgabe; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 66 Abs. 2 SGG |
 | Klagefrist nach Widerspruchsbescheid | § 87 Abs. 1 SGG | ein Monat |
-| Untätigkeitsklage | § 88 SGG | drei Monate Untätigkeit der Behörde |
+| Untätigkeitsklage | Paragraf 88 SGG | grundsätzlich sechs Monate nach Antrag, drei Monate nach Widerspruch; zureichenden Grund prüfen |
 | Beschwerde gegen Beschlüsse des SG | § 173 SGG | ein Monat |
 | Berufung gegen Urteile des SG | § 151 SGG | ein Monat |
 | Revisionsfrist | § 164 SGG | ein Monat |
-| Wiedereinsetzung | § 67 SGG | zwei Wochen ab Wegfall des Hindernisses |
+| Wiedereinsetzung | Paragraf 67 SGG | ein Monat ab Wegfall des Hindernisses |
 
 ### SGB X / SGB V
 
 | Frist | Norm | Bedeutung |
 |---|---|---|
-| Vier-Tages-Fiktion Zustellung (seit 1.1.2025) | § 37 Abs. 2 SGB X n.F. | Bekanntgabe vier Tage nach Aufgabe zur Post (PostModG; bis 31.12.2024: drei Tage) |
+| Vier-Tages-Fiktion der Bekanntgabe (seit 1.1.2025) | Paragraf 37 Absatz 2 SGB X | einfacher Brief im Inland: vierter Tag nach Aufgabe zur Post; fehlenden oder späteren Zugang gesondert prüfen |
 | Genehmigungsfiktion Krankenkasse | § 13 Abs. 3a SGB V | drei Wochen (fünf Wochen bei MDK) |
 | Entscheidungsfrist Reha-Antrag | § 18 SGB IX | zwei Monate |
 | Überprüfungsantrag | § 44 SGB X | keine eigentliche Frist aber Wirkung nur für Vergangenheit |
 
 ## Berechnung Fristbeginn
 
-- **Postzustellung** vier Tage nach Aufgabe (§ 37 Abs. 2 SGB X n.F., seit 1.1.2025 PostModG). Wenn nachweislich früherer Zugang: Zugang maßgeblich. Für Verwaltungsakte mit Aufgabe zur Post vor dem 1.1.2025 gilt die alte Drei-Tages-Frist.
-- **EGVP / beA** Tag der erfolgreichen Übertragung.
+- Einfacher Brief im Inland: Bekanntgabe am vierten Tag nach Aufgabe zur Post nach Paragraf 37 Absatz 2 SGB X. Früherer tatsächlicher Zugang verkürzt die Fiktion nicht. Fehlenden oder späteren Zugang gesondert prüfen; im Zweifel muss die Behörde Zugang und Zeitpunkt nachweisen. Altfälle vor 2025 nach damaligem Recht beurteilen.
+- Elektronische Übermittlung, Bereitstellung zum Abruf und förmliche Zustellung unterscheiden. Bei Paragraf 37 Absatz 2 beziehungsweise 2a SGB X gelten die jeweiligen Bekanntgaberegeln; ein technischer Übertragungsnachweis allein ersetzt keinen Zustellnachweis.
 - **Bekanntgabe durch Aushaendigung** Tag der Aushaendigung.
-- **Fristberechnung** § 26 SGB X iVm §§ 187 ff. BGB — Beginn des Folgetages; Ende mit Ablauf des entsprechenden Tages des letzten Monats; bei Wochenende / Feiertag auf nächsten Werktag.
+- Widerspruchs- und Klagefristen nach Paragraf 64 SGG berechnen: Beginn grundsätzlich am Folgetag, Monatsende nach dem entsprechenden Tag beziehungsweise dem letzten Tag des Monats; Wochenende und gesetzlichen Feiertag nach Absatz 3 berücksichtigen. Paragraf 26 SGB X für verwaltungsverfahrensrechtliche Fristen getrennt prüfen.
 
 ## Vorfristen
 
@@ -85,7 +85,7 @@ Pro Eintrag:
 
 - Bei Eingang Bescheid: sofort Eintrag im Fristenbuch.
 - Bei Eingang Widerspruchsbescheid: Eintrag Klagefrist.
-- Bei Untätigkeit der Behörde: Eintrag Drei-Monats-Frist Untätigkeitsklage.
+- Bei Untätigkeit: Antrag und Widerspruch trennen; sechs beziehungsweise drei Monate nach Paragraf 88 SGG als frühesten regulären Klagezeitpunkt erfassen, ohne damit einen Erfolg zu garantieren.
 - Bei Bewilligung mit Änderungsvorbehalt: ggf. Wiedervorlage.
 
 ## Ausgabe
@@ -110,12 +110,14 @@ Pro Eintrag:
 
 ## Triage — kläre bei jedem neuen Fristeneintrag
 
-1. Versanddatum des Bescheids auf dem Dokument angegeben? — Vier-Tages-Fiktion § 37 Abs. 2 SGB X n.F. ab Aufgabedatum
-2. Nachweislich früherer Zugang beim Mandanten? — dann Zugangsdatum maßgeblich, Fiktion weicht zurück
+1. Aufgabe zur Post belegt? Bescheiddatum und tatsächlichen Versand nicht gleichsetzen; Bekanntgabefiktion ab dem belegten Aufgabedatum berechnen.
+2. Fehlender oder späterer Zugang vorgetragen? Beleglage und behördliche Nachweispflicht prüfen; früherer Zugang verkürzt die Fiktion nicht.
 3. Rechtsbehelfsbelehrung vorhanden und korrekt? — bei Fehler Jahresfrist § 66 Abs. 2 SGG
-4. Feiertag oder Wochenende am Fristende? — Verlängerung auf nächsten Werktag § 26 SGB X iVm § 193 BGB analog
+4. Feiertag oder Wochenende am Ende einer SGG-Frist? Verschiebung nach Paragraf 64 Absatz 3 SGG prüfen; keine pauschale Vermischung mit Paragraf 26 SGB X.
 5. Sekretariat und verantwortlicher Anwalt im Fristenbuch eingetragen? — Vier-Augen-Prinzip für Kanzleisicherung
 
 ## Aktuelle Rechtsprechung
+
+Normabgleich vom 16.10.2026: [Paragraf 37 SGB X](https://www.gesetze-im-internet.de/sgb_10/__37.html), [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) und [Paragraf 88 SGG](https://www.gesetze-im-internet.de/sgg/__88.html). Geprüft wurden Bekanntgabe, Wiedereinsetzungsfrist und Untätigkeit; keine neue Vollprüfung sämtlicher Fristen oder Leistungsgebiete.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

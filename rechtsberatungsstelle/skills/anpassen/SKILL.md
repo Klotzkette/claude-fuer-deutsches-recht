@@ -31,7 +31,7 @@ description: "Für /anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebni
 4. Soll gleichzeitig ein Fachbereichsleitfaden angepasst werden oder nur das Hauptprofil?
 
 ## Zentrale Normen
-- § 6 Abs. 2 Nr. 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
+- Paragraf 6 Absatz 2 RDG — Anleitungsstruktur muss aktuell und wirksam sein; Semesterwechsel erfordert Profil-Update
 - Art. 30 DSGVO — Verarbeitungsverzeichnis: bei Änderung des Verarbeitungsumfangs zu aktualisieren
 - §§ 43, 43a BRAO — Berufspflichten des Anleiters: kontinuierliche Aktualitaet der Organisationsunterlagen
 - § 203 Abs. 4 StGB — Einbeziehung Dritter: bei Wechsel von Studentenn neue Verschwiegenheitsvereinbarungen prüfen
@@ -56,7 +56,7 @@ Fachbereich in `CLAUDE.md` unter `Fachbereiche` ergänzen. Dann sofort:
 
 > Welche Gates sollen geändert werden? Verschärfen oder lockern?
 
-Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studentenn. § 6 Abs. 2 Nr. 2 RDG verlangt tatsächliche Anleitung.
+Tabelle in `CLAUDE.md` → `Aufsichtsmodell` anpassen. Hinweis: Lockerung nur bei nachgewiesener Erfahrung der Studentenn. Paragraf 6 Absatz 2 RDG verlangt tatsächliche Anleitung.
 
 ### 4. Gesetzesänderungen einpflegen
 
@@ -105,7 +105,7 @@ Am Ende der `CLAUDE.md` einen Änderungseintrag hinzufügen:
 ```
 
 ## Änderungshistorie
-- [Datum] Abschnitt [B] geändert: SGB IX / § 76b hinzugefügt. [Kürzel Anleiter]
+- [Datum] Abschnitt [B] geändert: Eingliederungshilfe und Aufenthaltsstatus getrennt erfasst. [Kürzel Anleiter]
 - [Datum] Abschnitt [H] geändert: Semesterwechsel SS 2025. [Kürzel Anleiter]
 ```
 

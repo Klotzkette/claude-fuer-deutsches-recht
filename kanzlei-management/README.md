@@ -5,7 +5,7 @@
 
 Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`kanzlei-management-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kanzlei-management/kanzlei-management-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -77,7 +77,7 @@ Es geht um das ganze schöne, anstrengende Betriebsleben: Partnerkreis, Praxisgr
 1. Rolle und Steuerungsauftrag klären: Managing Partner, MC, COO, CFO, Praxisgruppenleitung oder externer Kanzleiberater.
 2. Kanzleiprofil erfassen: Berufsträger/FTE, Equity-/Salary-Partner, Associates, Assistenz, Umsatz, Praxisgruppen, Standorte, IT, Mandantenmix.
 3. Akute Lage bestimmen: Wachstum, Cash-Druck, WIP-Stau, Associate-Flucht, Partnerkonflikt, Pricing-Chaos, Nachfolge, Mandantenverlust oder Tech-Investition.
-4. Dashboard wählen: Executive Cockpit, Cash/WIP/AR, Utilization, UBT, Practice Group, Partner Scorecard, Associate Health, Pipeline oder Crisis Board.
+4. Nur bei passendem Auftrag ein Dashboard wählen: Executive Cockpit, Cash/WIP/AR, Utilization, UBT, Practice Group, Partner Scorecard, Associate Health, Pipeline oder Crisis Board. Eine bestellte Entscheidungsvorlage wird direkt aus vorhandenen Zahlen und Unterlagen ausgearbeitet; fehlende entscheidende Annahmen gezielt klären.
 5. Entscheidung erzeugen: Der Output muss in eine echte Managemententscheidung münden: Beschlussvorlage, Gesprächsleitfaden, Maßnahmenplan, Zahlenpaket oder Eskalationsnotiz.
 
 ## Kern-Dashboards

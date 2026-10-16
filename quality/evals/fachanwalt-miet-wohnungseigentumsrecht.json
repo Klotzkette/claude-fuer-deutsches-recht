@@ -1,4 +1,26 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Anfechtung und Nichtigkeit nicht mehr unter gemeinsamer Monatsfrist zusammengefasst; Ein-/Zweimonatsfrist nach Paragraf 45 WEG belegt, materialbasierter Einstieg ergänzt.",
+    "files": [
+      {
+        "path": "fachanwalt-miet-wohnungseigentumsrecht/README.md",
+        "sha256": "6fcc515cc89c06dcb4b0140a046470bab12a555e871e3bfcb5a1d1cfd63e3fd5"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Paragraf44 unterscheidet Beschlussklagen, Paragraf45 ordnet ein/zwei Monate ab Beschluss für die Anfechtung an.",
+        "limit": "Gezielt Abschnitte44/45 im amtlich indexierten Volltext gelesen; keine neuen BGH-Nachweise."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

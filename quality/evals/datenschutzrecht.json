@@ -1,4 +1,19 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Praxisprofil als optional statt Pflichtinterview mit drei Pflichtunterlagen erklärt; Modellwissen nicht als Entscheidungsbeleg; Behördenzuständigkeit und Untergliederung präzisiert.",
+    "files": [
+      {
+        "path": "datenschutzrecht/README.md",
+        "sha256": "7d4d49f87f67ecc5d4fb8c59c5ac21d0de23b9da8efba78357dcbaee99412bf6"
+      }
+    ],
+    "primary_sources_read": [],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

@@ -1,5 +1,7 @@
 # Quellenanker Sozialversicherungsstatus / DRV-Statusfeststellung
 
+Gezielter Normabgleich am 16.10.2026: [Paragraf 127 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__127.html) wurde einschließlich aller Absätze gelesen. Für Lehrtätigkeiten ist der Übergang bis Ende 2027 beziehungsweise der Versicherungsbeginn 01.01.2028 nur bei erfüllten Voraussetzungen anzusetzen. Zustimmung und ursprüngliche gemeinsame Statusannahme ersetzen keine Statusprüfung; eigenständige Lehrer-Rentenversicherung und KSVG bleiben zu prüfen. Keine neue Vollprüfung der BSG-Rechtsprechung oder der übrigen Berufsgruppen.
+
 Vor jeder konkreten Ausgabe aktuelle Fassung prüfen. Das Plugin zitiert keine Rechtsprechung aus Modellwissen und keine BeckRS-/Juris-/Kommentarstellen ohne Nutzerquelle.
 
 ## Normen und Behördenquellen

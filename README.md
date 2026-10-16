@@ -24,7 +24,7 @@ Versionsstände und Änderungen stehen im [Changelog](./CHANGELOG.md) und in den
 
 <a id="chatgpt-und-die-chatgpt-app"></a>
 
-## 1. ChatGPT und die ChatGPT-App
+## ChatGPT und die ChatGPT-App
 
 Stand: 2. Oktober 2026. ChatGPT unterstützt das hier verwendete Marketplace-Format `.claude-plugin/marketplace.json` und die zugehörigen Plugin-Manifeste. Es geht also nicht nur um das Kopieren von Prompttexten. Die Importwege sind in der [offiziellen Marketplace-Hilfe](https://learn.chatgpt.com/docs/enterprise/plugin-management) beschrieben.
 
@@ -136,7 +136,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 ### Sammel-Downloads
 
-Die folgenden Sammelarchive enthalten den geprüften Stand vom **9. Oktober 2026 mit 297 Plugins**. [Due Diligence 1.0.1](./due-diligence/README.md), [GVB-Reinigungsvergabe 1.0.0](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis 1.0.0](./verarbeitungsverzeichnis/README.md) und [Strafvollzug in der JVA 1.1.0](./strafvollzug-jva/README.md) ergänzen den aktuellen Repository-Bestand über eigene Komponentenreleases. Sie sind noch nicht in den unveränderten Sammelarchiven v445.35.3 enthalten.
+Die folgenden Sammelarchive enthalten den geprüften Stand vom 9. Oktober 2026 mit 297 Plugins. Die später ergänzten Plugins [Due Diligence](./due-diligence/README.md), [GVB-Reinigungsvergabe](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis](./verarbeitungsverzeichnis/README.md), [Strafvollzug in der JVA](./strafvollzug-jva/README.md) und [Untersuchungshaft](./untersuchungshaft/README.md) haben eigene Komponentenreleases. Auch Überarbeitungen bestehender Pakete können separat veröffentlicht sein. Für den jeweiligen Einzelstand deshalb den [Download-Index](./ASSET_INDEX.md) oder die Plugin-README verwenden; die Sammelarchive v445.35.3 bleiben unverändert.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -178,13 +178,13 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 | Ich will ... | Schnellster Weg |
 | --- | --- |
 | sofort mit einem Fall beginnen | Plugin im [Katalog](#was-ist-drin) öffnen, Schnellstart-Markdown laden und mit den Unterlagen verwenden |
-| ein Rechtsgebiet dauerhaft nutzen | `<plugin>.zip` aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) unter **Customize → Plugins** hochladen |
-| viele Rechtsgebiete zentral bereitstellen | Marketplace aus einer privaten oder internen Organisations-Spiegelung dieses Repositorys synchronisieren |
+| ein Rechtsgebiet dauerhaft nutzen | das Einzel-ZIP über die Plugin-README oder den [Download-Index](./ASSET_INDEX.md) wählen; den Importweg der verwendeten Anwendung beachten |
+| viele Rechtsgebiete zentral bereitstellen | [ChatGPT-Workspace-Import](#chatgpt-und-die-chatgpt-app) oder [Cowork-Organisations-Marketplace](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation) einrichten |
 | einen komplexen Vorgang vertieft bearbeiten | Werkstatt-Markdown aus der jeweiligen Plugin-README laden |
 
 Jede Plugin-README erklärt zunächst den Zweck und die Bestandteile. Die Abschnitte zum Einstieg und zu den Downloads führen zum Einzel-ZIP, den für das Paket vorgesehenen eigenständigen Prompts und passenden Testakten. Die vollständige Skill-Liste ist von dort direkt erreichbar.
 
-Für den Organisations-Sync verlangt die aktuelle Oberfläche ein privates oder internes Repository. Das öffentliche Original wird dafür in ein Organisationsrepository gespiegelt; der manuelle Marketplace nimmt einzelne Plugin-ZIPs, nicht das Manifest entgegen. Einrichtung, aktuelle Grenzen und Updatekontrolle stehen in [Installation in einfach](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation).
+Für den Cowork-Organisations-Sync wird ein privates oder internes Repository benötigt. Das öffentliche Original wird dafür in ein Organisationsrepository gespiegelt; dessen manueller Marketplace nimmt einzelne Plugin-ZIPs, nicht das Manifest entgegen. Diese Spiegelung ist beim ChatGPT-Workspace-Import nicht erforderlich. Einrichtung, Grenzen und Updatekontrolle stehen in [Installation in einfach](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation) und im [ChatGPT-Abschnitt](#chatgpt-und-die-chatgpt-app).
 
 > Lies die für meinen Auftrag maßgeblichen Unterlagen zuerst, ohne einen ungefragten Ordnerbericht auszugeben. Beginne bei klarem Auftrag mit dem verlangten Dokument. Wenn ich nur den Prompt starte, frage nach dem konkreten Anliegen und biete passende fachliche Wege an. Frage fehlende entscheidende Angaben gezielt nach; führe nach meiner Antwort den Entwurf ohne erneute Aufnahme weiter. Lies zusätzliche Unterlagen, soweit der nächste fachliche Schritt sie benötigt.
 
@@ -717,7 +717,9 @@ Die kompakte Anleitung mit den drei Nutzungswegen steht im [Schnellstart](./QUIC
 
 ## Repo-interner Release-Check
 
-Der [breite Rechtsprechungsabgleich vom 1. Oktober 2026](./quality/source-audits/2026-10-01-breit/README.md) dokumentiert alle 259 Plugins, konkrete Fachkorrekturen, neue 2026-Quellen und die Grenzen der Prüfung.
+Die [Qualitätsprüfung vom 16. Oktober 2026](./quality/qualitaetsrunde-2026-10-16/README.md) dokumentiert die repo-weite Struktur- und Einstiegsprüfung, konkrete Korrekturen und gezielte neue Quellenabgleiche. Sie unterscheidet vollständige Bestandsprüfungen von risikoorientierter Rechtsrecherche und nicht erneut geprüften Quellen.
+
+Der [breite Rechtsprechungsabgleich vom 1. Oktober 2026](./quality/source-audits/2026-10-01-breit/README.md) dokumentiert die damals vorhandenen 259 Plugins, konkrete Fachkorrekturen, neue 2026-Quellen und die Grenzen der damaligen Prüfung. Er ist keine Aktualitätsbestätigung für später ergänzte Inhalte.
 
 Vor einem Release sollten mindestens diese Prüfungen grün sein:
 
@@ -729,14 +731,14 @@ python3 scripts/validate-yaml-frontmatter.py
 
 ## Schwerpunkte für die deutsche Praxis
 
-Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise deutscher Kanzleien zugeschnitten:
+Der Schwerpunkt liegt auf deutschem Recht und der Arbeitsweise deutscher Kanzleien. Europäische, ausländische und rechtshistorische Fachpakete haben einen gesonderten Anwendungsbereich. Für die deutsche Praxis sind insbesondere diese Abgrenzungen wichtig:
 
-- Urteile sind nicht bindend; Ausnahme: § 31 BVerfGG.
-- Vorprozessuale Beweiserhebung ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144 ZPO; § 810 BGB; § 242 BGB; Art. 15 DSGVO; Auskunfts- und Stufenklage (§ 254 ZPO).
+- Präzedenzwirkung und Rechtskraft unterscheiden: Aus einem Urteil folgt keine allgemeine Bindung aller Gerichte in anderen Fällen. Die Rechtskraft im entschiedenen Rechtsstreit und besondere gesetzliche Bindungswirkungen bleiben bestehen, insbesondere nach [Paragraf 322 ZPO](https://www.gesetze-im-internet.de/zpo/__322.html) und [Paragraf 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html).
+- Vorprozessuale Aufklärung und gerichtliche Beweiserhebung trennen: Außerhalb eines Rechtsstreits kommen etwa das selbständige Beweisverfahren nach [Paragrafen 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) sowie einschlägige Auskunfts- und Einsichtsansprüche in Betracht. Paragrafen 142 und 144 ZPO betreffen gerichtliche Anordnungen im Prozess; eine Stufenklage nach Paragraf 254 ZPO ist selbst ein gerichtliches Verfahren, kein allgemeines vorprozessuales Offenlegungsrecht.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle zitieren; BeckRS-, Kommentar- und Aufsatz-Blindzitate sind gesperrt.
 - Zitierweise und Quellenprüfung: verbindlich in der [Referenz zur Zitierweise](./references/zitierweise.md).
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
-- Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
+- Allgemeiner Kündigungsschutz: Wartezeit von länger als sechs Monaten nach [Paragraf 1 KSchG](https://www.gesetze-im-internet.de/kschg/__1.html) und betrieblicher Geltungsbereich nach [Paragraf 23 KSchG](https://www.gesetze-im-internet.de/kschg/__23.html) getrennt prüfen. Regelmäßige Beschäftigtenzahl, Teilzeitgewichtung und Altfallregelung beachten; außerhalb dieses Schutzes können weitere Kündigungsverbote bestehen.
 
 ### Materielle Rechtsgebiete
 
@@ -770,7 +772,7 @@ Die vollständige, mit dem Marketplace abgeglichene Übersicht steht im [Plugin-
 
 ## Verbindliche Zitierweise
 
-Jeder Skill verweist auf die [verbindliche Zitierweise](./references/zitierweise.md). Die Kernregeln in Kurzfassung:
+Für die juristische Verwendung gilt die [verbindliche Zitierweise](./references/zitierweise.md). Die Kernregeln in Kurzfassung:
 
 - Rechtsprechung: Vor Ausgabe über eine amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage prüfen.
 - **Kostenlose Quelle:** Wo möglich Link zu offizieller Datenbank oder frei zugänglichem Volltext ergänzen; Datenbankkürzel wie BeckRS nicht ausdenken.
@@ -780,7 +782,7 @@ Pflicht: Datum + Aktenzeichen + verifizierbare Fundstelle + Randnummer bei Recht
 
 ### Methodenlehre und Zitierweise als zuschaltbare Plugins
 
-Die Inhalte aus [references/methodik-buergerliches-recht.md](./references/methodik-buergerliches-recht.md) und [references/zitierweise.md](./references/zitierweise.md) liegen zusätzlich als zwei eigenständige, einzeln aktivierbare Plugins im Marketplace:
+Methodik, Rechtstheorie und Zitierweise stehen als drei eigenständige, einzeln aktivierbare Plugins im Marketplace bereit. Die zentralen Referenzen [Methodik des Bürgerlichen Rechts](./references/methodik-buergerliches-recht.md) und [Zitierweise](./references/zitierweise.md) dienen zusätzlich als Nachschlagegrundlage:
 
 - [methodenlehre-buergerliches-recht](./methodenlehre-buergerliches-recht) — Gutachtenstil, Anspruchsgrundlagen-Reihenfolge, Auslegungskanones, Abwägung, Präzedenzarbeit, Generalklauseln und Rechtsfortbildung als reale Werkzeuge.
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie) — Rechtsbegriff, Kelsen-orientierte Normgeltung, Kompetenzketten, Gesetzesbindung, Demokratie, Systemkritik, Verwaltungsrealismus, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung und anti-dezisionistische Machtkritik.
@@ -794,9 +796,11 @@ Aktivierung in Cowork: zuerst den Cowork-Bereich öffnen, dann `Customize → Pl
 
 ### Was brauche ich?
 
+Dieser Abschnitt beschreibt die Cowork-Installation. Für ChatGPT gelten die [eigenen Importwege](#chatgpt-und-die-chatgpt-app).
+
 1. **Einen kostenpflichtigen Claude-Plan** für Plugins; die reinen Markdown-Schnellstarts funktionieren auch ohne Plugin-Installation.
 2. **Claude im Web, Claude Desktop oder Cowork**; für die Kommandozeilen-Installation Claude Code.
-3. **Für die Einzelinstallation:** ein Plugin-ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). **Für Entwickler:** dieses Repository mit Git klonen.
+3. Für die Einzelinstallation: ein Plugin-ZIP über die Plugin-README oder den [Download-Index](./ASSET_INDEX.md). Für Entwickler: dieses Repository mit Git klonen.
 
 ### Einzelinstallation in Claude Desktop oder Cowork
 
@@ -808,7 +812,7 @@ Aktivierung in Cowork: zuerst den Cowork-Bereich öffnen, dann `Customize → Pl
 
 **Schritt 2: Plugin-ZIP herunterladen**
 
-1. Öffne den [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
+1. Öffne die gewünschte Plugin-README über den [Katalog](#was-ist-drin) oder den [Download-Index](./ASSET_INDEX.md).
 2. Lade **ein einzelnes Plugin-ZIP** herunter, z. B. `arbeitsrecht.zip`, `vertragsrecht.zip` oder `liquiditaetsplanung.zip`.
 3. Auf dem Mac darauf achten: die ZIP nicht entpacken; falls Safari sie automatisch entpackt, erneut als ZIP laden oder die Safari-Auto-Entpackung deaktivieren.
 
@@ -918,6 +922,8 @@ The collection can also be used in ChatGPT and the ChatGPT app where plugins and
 
 Start with one legal field, not the entire collection. Open its plugin README, choose either the installable plugin ZIP or one standalone prompt, and provide the relevant documents with a concrete task. The source material is mainly German; this English guide explains how to find and use it, not a separate English-language edition.
 
+Use the plugin README or the [asset index](./ASSET_INDEX.md) for the matching download. Aggregate archives remain tied to their published version; a newer or additional plugin can have a separate release. The private-repository requirement in the Cowork organisation guide does not apply to the public ChatGPT workspace import. Check the import report in the application you actually use.
+
 ### What is what?
 
 | Component | Meaning | Best use | Location |
@@ -938,7 +944,7 @@ Use a standalone prompt as an instruction, not merely as another document to sea
 
 For a practice case, choose one format: the combined PDF for reading, the individual-PDF ZIP for document-by-document review, or the original-format ZIP for working with spreadsheets, emails and other files. Case archives are separate from plugin installation. Their bilingual warning identifies them as generated experimental material, not real client files.
 
-All five complete indexes are alphabetically sorted and provide a short description for every plugin, skill, workshop prompt, quick-start prompt or practice file. Start with the [five A-to-Z indexes](#alle-vollständigen-listen-von-a-bis-z), the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), the [practice-file index](./testakten/README.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
+All five complete indexes are alphabetically sorted and provide a short description for every plugin, skill, workshop prompt, quick-start prompt or practice file. Start with the [five A-to-Z indexes](#alle-vollständigen-listen-von-a-bis-z), the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), the [practice-file index](./testakten/README.md), or the [download index](./ASSET_INDEX.md).
 
 The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless the technical setup, professional duties and data-protection framework permit it.
 

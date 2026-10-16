@@ -5,7 +5,7 @@
 
 Plugin Fachanwalt für Sozialrecht nach FAO Paragraf 11. SGB I-XII und Sozialgerichtsbarkeit SGG. Widerspruch Paragraf 84 SGG Klage Paragraf 87 SGG Eilantrag Paragraf 86b SGG. Bürgergeld Erwerbsminderung GdB Pflegegrad Hilfsmittel Eingliederungshilfe. Bescheidanalyse Akteneinsicht PKH Fristenbuch.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md" download>fachanwalt-sozialrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [29 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -104,6 +104,10 @@ Für Erwerbsminderungsrenten mit widersprüchlichen Gutachten: medizinische Zeit
 [Schwerpunkt-Skill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md" download>Eigenständigen Schwerpunkt-Prompt als Markdown herunterladen</a>. Der Prompt benötigt keine installierten Skills.
 Wenn du das hier öffnest, willst du einen Sozialleistungsbescheid angreifen und den Anspruch durchsetzen.
 Vollumfängliches Plugin für Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt für Sozialrecht nach FAO Paragraf 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
+
+## Quellenstand der Fristenprüfung
+
+Am 16.10.2026 gezielt abgeglichen: [Paragraf 37 SGB X](https://www.gesetze-im-internet.de/sgb_10/__37.html) zur Bekanntgabe einschließlich elektronischem Abruf, [Paragraf 84 SGG](https://www.gesetze-im-internet.de/sgg/__84.html) zur Widerspruchsfrist, [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) zur einmonatigen Wiedereinsetzungsfrist und [Paragraf 88 SGG](https://www.gesetze-im-internet.de/sgg/__88.html) zu sechs Monaten bei unerledigtem Antrag beziehungsweise drei Monaten bei unerledigtem Widerspruch. Ergänzend wurden [Paragraf 8 VwZG](https://www.gesetze-im-internet.de/vwzg_2005/__8.html) zur Heilung förmlicher Zustellung und [Paragraf 86a SGG](https://www.gesetze-im-internet.de/sgg/__86a.html) zur grundsätzlich aufschiebenden Wirkung samt Ausnahmen gelesen. Die drei Fristen-Skills wurden punktuell berichtigt. Landeszustellungsrecht, alle leistungsrechtlichen Sonderfristen und sämtliche vorhandenen Gerichtsentscheidungen sind damit nicht vollverifiziert.
 
 ## Installation in der Plugin-Umgebung
 

@@ -5,7 +5,7 @@
 
 Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`wandeldarlehen-lebenszyklus-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=wandeldarlehen-lebenszyklus/wandeldarlehen-lebenszyklus-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -102,7 +102,7 @@ Phase D — Gesellschafterbeschluss und Notar
 
 | Slug | Beschreibung |
 |---|---|
-| `mandat-triage-wandeldarlehen` | Erstgespräch: Rechtsform, Beteiligte, Wandelereignisse, Sprachen-Stack |
+| `mandat-triage-mehrere-parallel` | Vorliegende Darlehen, Beteiligte und konkurrierende Wandelereignisse einordnen. |
 | `parteien-erfassen` | Gesellschaft, Gesellschafterinnen, Darlehensgeber, KYC, Vertretungsmacht |
 | `darlehenshoehe-konditionen` | Darlehensbetrag, Laufzeit, Zinssatz, Auszahlung, Bankverbindung |
 | `wandlungsmechanik-konzipieren` | Cap, Discount, Trigger-Logik, Wandlungsformel, MFN, Pro-rata |
@@ -118,7 +118,7 @@ Phase D — Gesellschafterbeschluss und Notar
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `textform-vs-schriftform-vs-notariell` | § 126b/§ 126/§ 128 BGB, Formstufen, DocuSign-Praxis |
 | `formfehler-heilungs-timeline` | Form-Stufen § 126b/§ 126/§ 128 BGB, Heilung durch nachfolgende Beurkundung § 15 Abs. 4 S. 2 GmbHG, Insolvenz-Risiko-Fenster |
-| `unterzeichnung-elektronisch-docusign` | Authentifizierung, Audit Trail, zehn Jahre Archivierung § 147 AO |
+| `unterzeichnung-elektronisch-docusign` | Form und Authentifizierung prüfen, Signaturnachweise sichern; steuerliche Aufbewahrungsfrist nach Unterlagenart gemäß Paragraf 147 Absatz 3 AO bestimmen, nicht pauschal zehn Jahre. |
 | `gesellschafterbeschluss-vorbereiten` | Grundsatzbeschluss Kapitalerhöhungsbereitschaft, § 51 GmbHG |
 | `kyc-aml-geldwaesche` | GwG KYC, wirtschaftlich Berechtigte, PEP, Sanktionslisten EU/OFAC/UN |
 
@@ -131,7 +131,7 @@ Phase D — Gesellschafterbeschluss und Notar
 | `wandlungspruefung-trigger-qualified-financing` | Schwellentest, MIN-Methode Cap/Discount/Rundenpreis |
 | `wandlungspruefung-trigger-maturity` | Laufzeitablauf, Fall-back-Bewertung, Wahlrecht Lender |
 | `wandlungspruefung-trigger-liquidation` | Exit/Trade Sale/IPO, Liquidationspräferenz, Wahlrecht |
-| `wandlungspreis-berechnung` | Vollständige Formel, Aufrundung § 5 GmbHG, Kapitalrücklage § 272 HGB |
+| `wandlungspreis-berechnung` | Wandlungsformel, vertragliche Rundungsregel und Behandlung von Restbeträgen prüfen; gesellschaftsrechtliche Zulässigkeit und Kapitalrücklage gesondert beurteilen. |
 | `cap-table-update-pre-post` | Pre-Money und Post-Money Cap-Table, Verwässerungsdarstellung |
 | `dokumenten-upload-extraktion` | Term Sheet, SPA, IRA: relevante Zahlen extrahieren |
 | `wandlungsausschluss-pruefung` | Verfristung, Verjährung, Verwirkung, Verzicht |
@@ -148,7 +148,7 @@ Phase D — Gesellschafterbeschluss und Notar
 | `notar-paket-uebermittlung` | Vollständigkeitscheckliste, Notar-Briefing, § 57 GmbHG-Anmeldung |
 | `gesellschafterliste-aktualisieren` | § 40 GmbHG, Gutglaubenswirkung § 16 GmbHG, Transparenzregister |
 | `handelsregisteranmeldung-kapitalerhoehung` | § 57 GmbHG, Bearbeitungsdauer, Beanstandungsgründe, § 19 GwG |
-| `post-eintragung-checkliste` | Bestätigung, Steuer (§ 20 UmwStG), Sperrfrist § 22 UmwStG, Abschluss-Memo |
+| `post-eintragung-checkliste` | Eintragung bestätigen und steuerliche Behandlung prüfen; Einbringungs- und Sperrfristregeln nicht ohne Prüfung ihrer Voraussetzungen auf jede Darlehenswandlung übertragen. Abschluss-Memo erstellen. |
 
 ## Rechtsgrundlagen
 
@@ -169,7 +169,7 @@ Phase D — Gesellschafterbeschluss und Notar
 
 > "Ich möchte ein Wandeldarlehen aufsetzen — was brauchst du von mir?"
 
-Das Plugin startet mit `mandat-triage-wandeldarlehen` und führt durch:
+Das Plugin startet mit `mandat-triage-mehrere-parallel`, wertet vorhandene Unterlagen zuerst aus und führt auftragsbezogen durch:
 1. Rechtsform und Parteien klären
 2. Konditionen und Wandlungsmechanik festlegen
 3. Vertrag erstellen (bilingual DE/EN oder nur DE)

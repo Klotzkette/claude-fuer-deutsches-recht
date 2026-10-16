@@ -5,7 +5,7 @@
 
 Gigantischer AGB-Rechtsprüfer und Klausel-Entwerfer für deutsches Recht: Paragrafen 305 bis 310 BGB, UKlaG, B2C/B2B, Branchen-AGB, Redlining, Klauselrisiko und rechtssichere Entwurfsworkflows.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`agb-recht-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-recht-pruefer/agb-recht-pruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -83,11 +83,7 @@ Das Plugin ist bewusst zweigleisig gebaut:
 
 ## Start
 
-```text
-/agb-recht-prüfer:allgemein
-```
-
-Der Einstieg fragt zuerst nicht zwanzig Dinge ab, sondern klärt die wichtigste Weiche: **prüfen oder entwerfen?** Danach routet er in passende Spezialskills, etwa Verbraucher-AGB, B2B-AGB, Online-Checkout, Preisanpassung, Haftung, Laufzeit, UKlaG, Redline oder konkrete Branchenbedingungen.
+Bei einem offenen Anliegen hilft der vorhandene [Einstiegsskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=agb-recht-pruefer/skills/kaltstart-triage/SKILL.md). Ist bereits eine Prüfung, Neufassung oder Antwort beauftragt, beginnt die Arbeit unmittelbar an den vorliegenden Klauseln und Geschäftsunterlagen. Die Frage „prüfen oder entwerfen?“ wird nur gestellt, wenn das Ziel daraus nicht hervorgeht. Verbraucher-AGB, B2B-AGB, Online-Checkout, Preisanpassung, Haftung, Laufzeit und Streitverteidigung werden nach dem konkreten Fall vertieft.
 
 ## Arbeitsweise
 
@@ -96,12 +92,12 @@ Der Einstieg fragt zuerst nicht zwanzig Dinge ab, sondern klärt die wichtigste 
 3. Überraschung, Mehrdeutigkeit und Transparenz klären.
 4. Inhaltskontrolle nach Paragrafen  307 bis 309 BGB und Besonderheiten nach Paragraf  310 BGB.
 5. Rechtsfolge, Rückabwicklung, UKlaG-/Prozessrisiko prüfen.
-6. Bessere Klausel entwerfen: sicher, balanced oder aggressiv mit Warnlabel.
+6. Eine rechtlich vertretbare Klausel nach der gewünschten Interessenlage entwerfen; zwingende Grenzen bleiben auch bei verwenderfreundlichen Varianten bestehen.
 7. Rollout, Versionierung, Nachweisbarkeit und Fachbereichskommunikation erledigen.
 
 ## Live-Quellen
 
-Das Plugin soll bei tragenden Aussagen immer die aktülle amtliche Fassung auf **Gesetze im Internet** prüfen, insbesondere BGB Paragrafen  305 bis 310 und UKlaG. Siehe [`references/QUELLEN.md`](./references/QUELLEN.md).
+Das Plugin soll bei tragenden Aussagen die aktuelle amtliche Fassung auf Gesetze im Internet prüfen, insbesondere Paragrafen 305 bis 310 BGB und UKlaG. Siehe [`references/QUELLEN.md`](./references/QUELLEN.md). Ein nicht erreichbarer Primärtext wird als Prüfgrenze genannt, nicht als verifiziert behandelt.
 
 ## Typische Ergebnisse
 

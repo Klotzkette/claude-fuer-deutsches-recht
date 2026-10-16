@@ -5,7 +5,7 @@
 
 Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 36 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`status-navigator-step-plan-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=status-navigator-step-plan/status-navigator-step-plan-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -67,14 +67,13 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-**Status-Navigator und Step-Plan-Macher**.
+Der Status-Navigator ordnet Ihre Unterlagen und erstellt daraus eine belegte Statusübersicht mit Beschaffungs- und Arbeitsschritten.
 
 ## Was dieses Plugin ist — und was es ausdrücklich nicht ist
 
-Dies ist ein Plugin reiner **Dokumentenverarbeitung**. Es enthält — bewusst und als einzige Ausnahme im Repo — **keine Normen- und Rechtsprechungs-Anker** in den Skills. Der Grund: der Status-Navigator strukturiert chaotische Dokumentenlagen, beantwortet die Fragen "Was haben wir?", "Was fehlt?", "Was muss geschehen?" — er bewertet jedoch nichts rechtlich. Die rechtliche Prüfung bleibt anwaltliche Aufgabe.
+Der Schwerpunkt ist Dokumentenverarbeitung: Was liegt vor, was fehlt und welcher Arbeitsschritt folgt? Das Ordnen einer Akte bestätigt weder die Wirksamkeit eines Vertrags noch den Zugang einer Erklärung. Die Prompts erläutern diese Grenze auch an einem rechtlichen Zugangsbeispiel; daraus wird keine automatische Rechtsprüfung jedes Dokuments.
 
-Alle übrigen Plugins des Repos arbeiten mit verifizierten Norm- und Rechtsprechungs-Zitaten. Dieses Plugin tut das ausdrücklich nicht. Es liefert Reiter, Spalten, Workflow-Schritte und Status-Notes — keine Subsumtion.
+Eine zusätzlich beauftragte Rechtsprüfung ist von der Statusübersicht zu trennen und mit eigenen Belegen, offenen Tatsachen und fachlicher Kontrolle zu versehen. Der technische Ordnungsworkflow benötigt keinen beliebigen Rechtsprechungsanker; über die Quellenprüfung anderer Plugins trifft diese Beschreibung keine Aussage.
 
 ## Worum es geht
 
@@ -87,7 +86,7 @@ Der Status-Navigator beantwortet beide — und macht aus einer statischen Bestan
 
 ## Die Vier-Reiter-Struktur
 
-Das Herzstück ist eine mehrseitige Excel-Arbeitsmappe (nicht eine Chatfenster-Tabelle), bestehend aus mindestens vier Reitern:
+Für eine beauftragte Excel-Ausgabe ist eine Arbeitsmappe mit den folgenden vier Reitern vorgesehen. Ohne Dateierzeugung liefert das Plugin die vollständig ausgearbeiteten Tabellen zum Übernehmen und benennt die Exportgrenze; es behauptet keine nicht erzeugte Arbeitsmappe.
 
 | Reiter | Inhalt |
 | --- | --- |

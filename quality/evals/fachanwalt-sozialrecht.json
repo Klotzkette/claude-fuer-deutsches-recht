@@ -1,4 +1,92 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Drei Fristen-Skills punktuell korrigiert: vierter Tag, kein früherer Zugang zulasten des Empfängers, Abrufbekanntgabe, einmonatige Wiedereinsetzung, Untätigkeit sechs/drei Monate, Heilung nach Paragraf 8 VwZG, Grundsatz aufschiebender Wirkung. Abschließende Gegenprüfung eingearbeitet: Vertreterverschulden grundsätzlich zurechenbar, fehlende Belege nicht mit ausgeschlossenem Wiedereinsetzungsgrund gleichsetzen, kein vorschneller Rechtsbehelfsverzicht; Widerspruchsberechnung nach Paragraf 64 SGG.",
+    "files": [
+      {
+        "path": "fachanwalt-sozialrecht/README.md",
+        "sha256": "29671960a4427fb25db395917333f1d1cebc749903cc7eb5f8967887f7c4a71f"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/skills/fristenbuch-sozialrecht/SKILL.md",
+        "sha256": "6a473d96dc8b3d02844424963b97426981108a9f391be4626326e3596ed9be37"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/skills/bescheid-frist-quick-check/SKILL.md",
+        "sha256": "2a3ad40f9431b031af3c4dbe7e0b2494df45225c344072dbec77ab66ef381156"
+      },
+      {
+        "path": "fachanwalt-sozialrecht/skills/widerspruchsfrist-und-zustellung-sgb/SKILL.md",
+        "sha256": "862e31233047919d1d2cea93924fbc78ecd46c406f714f7f832f714d64fa037a"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/sgb_10/__37.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Vierter Tag für Inlandsbrief/elektronische Übermittlung, gesonderte Abrufbekanntgabe nach Absatz2a; fehlender/späterer Zugang und Beweislast.",
+        "limit": "Keine pauschale Übertragung auf förmliche Zustellung oder Landesrecht."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__67.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Wiedereinsetzungsantrag binnen eines Monats nach Hinderniswegfall und Nachholung innerhalb dieser Frist.",
+        "limit": "Konkretes Verschulden nicht beurteilt."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__88.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Sechs Monate bei unerledigtem Antrag, drei bei unerledigtem Widerspruch; zureichender Grund bleibt relevant.",
+        "limit": "Kein Anspruch auf automatische Sachbewilligung oder Erfolgsgarantie."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__84.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Ein Monat bei Inlandsbekanntgabe, drei Monate im Ausland; Form und empfangszuständige Stellen.",
+        "limit": "Keine Vollprüfung elektronischer Einreichungswege."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/vwzg_2005/__8.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Heilung bei tatsächlichem Zugang des Dokuments mit Sonderfall Empfangsbekenntnis.",
+        "limit": "Geltung des VwZG im Einzelfall gesondert feststellen; Landesrecht nicht geprüft."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__86a.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Grundsätzlich aufschiebende Wirkung von Widerspruch/Anfechtung, Ausnahmen Absatz2 und behördliche Aussetzung Absatz3.",
+        "limit": "Nicht sämtliche besonderen Leistungsgesetze geprüft."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__64.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Beginn, Ende und Wochenend-/Feiertagsverschiebung gerichtlicher Verfahrensfristen.",
+        "limit": "Keine Sonderfrist ungeprüft darauf übertragen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgb_10/__26.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Verwaltungsverfahrensrechtliche Fristberechnung mit eigenständigen Termin-/Leistungszeitraumregeln.",
+        "limit": "Nicht mit sämtlichen SGG-Fristen gleichsetzen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/zpo/__85.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Zurechnung des Verschuldens des Bevollmächtigten.",
+        "limit": "Zurechnung ist von der tatsächlichen Feststellung eines Verschuldens zu trennen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgg/__73.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Absatz6 verweist auf Paragrafen81,83bis86ZPO und damit die Zurechnung nach85Absatz2ZPO.",
+        "limit": "Amtlicher HTML-Text per curl gelesen; keine fallbezogene Prüfung des Verschuldens."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

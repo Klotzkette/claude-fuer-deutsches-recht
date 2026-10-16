@@ -26,7 +26,8 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 
 | Common-Law-Begriff | Klingt wie | Tatsaechliche Bedeutung |
 |---|---|---|
-| **Discovery** | Beweisermittlung | Vorprozessuale Beweis- und Tatsachenausforschung mit Zwangsmitteln (FRCP 26-37; in DE nur eng beschraenkt §§ 142, 144, 421-432 ZPO; § 810 BGB; § 242 BGB; Art. 15 DSGVO) |
+| Discovery im US-Bundesprozess | Vorprozessuale Ausforschung | Beweiserhebung typischerweise im bereits anhängigen Verfahren vor dem Trial; FRCP 26(d) regelt den Beginn und Ausnahmen. Beweissicherung vor Klage nach Rule 27 ist ein gesonderter, begrenzter Weg. Nicht pauschal auf einzelstaatliches US-Recht oder England übertragen. |
+| Gerichtliche Vorlage und Beweisanordnung in Deutschland | Deutsche Discovery | Paragrafen 142 und 144 ZPO regeln gerichtliche Anordnungen im Verfahren, keinen allgemeinen vorprozessualen Discovery-Anspruch. Materiell-rechtliche Auskunfts- oder Einsichtsansprüche sind nach ihren eigenen Voraussetzungen zu prüfen. |
 | **Consideration** | Erwaegung, Ueberlegung | Gegenleistung als Wirksamkeitsvoraussetzung des contract; deutsches Recht kennt keine consideration |
 | **Indemnity** | Entschaedigung, Versicherung | Freistellungsvertrag, oft verschuldensunabhaengig und primaer; nicht identisch mit § 257 BGB |
 | **Warranty** | Garantie | Vertragliche Zusicherung mit Schadensersatzfolge bei Verletzung; nicht ident mit § 443 BGB Garantie |
@@ -40,6 +41,10 @@ Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn M
 | **Privity of contract** | Vertraulichkeit | Vertragsbindung nur für Parteien; UK seit 1999 Contracts (Rights of Third Parties) Act gelockert |
 | **Statute of limitations** | Limitierung | Verjährung; abweichend vom deutschen 3-Jahres-Regel (§ 195 BGB) je nach Staat unterschiedlich |
 | **Punitive / exemplary damages** | Punktive Schaeden | Strafschadensersatz; nicht im deutschen Recht; nicht vollstreckbar wegen ordre public § 328 I Nr. 4 ZPO |
+
+## Quellenstand zur Discovery-Abgrenzung
+
+Gezielter Quellenabgleich am 16.10.2026: [Paragraf 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html), [Paragraf 144 ZPO](https://www.gesetze-im-internet.de/zpo/__144.html) und [amtliche Federal Rules of Civil Procedure, Fassung 01.12.2025](https://www.uscourts.gov/sites/default/files/document/federal-rules-of-civil-procedure.pdf), Rule 26(d) auf Druckseite 45 sowie Rule 27(a) auf Druckseite 47. Nur die zeitliche und verfahrensrechtliche Einordnung von Discovery wurde neu geprüft, nicht sämtliche Tabellenbegriffe, US-Einzelstaaten oder englische Disclosure-Regeln.
 
 ## Struktur für englische Mandantennotiz
 

@@ -5,7 +5,7 @@
 
 Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`rechtsberatungsstelle-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsberatungsstelle/rechtsberatungsstelle-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -79,14 +79,14 @@ Ein Plugin für Einrichtungen, in denen Studenten – unter Anleitung zur Anleit
 
 ## Wichtiger Hinweis: Rechtliche Grenzen nach dem RDG
 
-> **Diese Beratungsstelle erbringt Rechtsdienstleistungen ausschließlich im Rahmen von § 6 Abs. 2 Nr. 2 RDG (unentgeltliche Rechtsdienstleistungen durch Volljuristen anleitungsberechtigt) oder § 8 RDG (Verbraucherzentralen, Sozialberatung). Jede entgeltliche Rechtsdienstleistung durch Nicht-Zugelassene ist nach § 3 RDG untersagt und nach § 20 RDG bußgeldbewehrt.**
+Für eine unentgeltliche studentische Beratung außerhalb persönlicher Nähebeziehungen ist Paragraf 6 Absatz 2 RDG maßgeblich. Er verlangt eine entsprechend befugte oder zum Richteramt befähigte Person oder deren tatsächliche Anleitung. Eine Nummer 2 enthält dieser Absatz nicht. Andere Träger können im Rahmen der Paragrafen 7 oder 8 RDG befugt sein; das muss für Träger, Person und Aufgabe konkret feststehen. Das Plugin selbst vermittelt keine Beratungsbefugnis.
 
 **Für Studenten gilt:**
-- Rechtliche Auskünfte dürfen nur unter Anleitung und Aufsicht eines zur Anleitung berechtigten Volljuristen erteilt werden (§ 6 Abs. 2 Nr. 2 RDG).
+- Dieses studentische Beratungsmodell verlangt tatsächliche Anleitung nach Paragraf 6 Absatz 2 RDG: Einweisung, Fortbildung und erforderlichenfalls Mitwirkung im Einzelfall.
 - Schriftsätze, Stellungnahmen und Widersprüche sind **Entwürfe** – keine fertigen, abzusendenden Dokumente.
 - Jede strategische Entscheidung (Klage ja/nein, Rücknahme, Vergleich) liegt beim anleitenden Anwalt.
-- Das Mandat liegt formal beim Anleiter, nicht beim Studentenn.
-- Verschwiegenheit nach § 43a Abs. 2 BRAO analog, § 203 StGB – auch nach Semesterende.
+- Wer den Beratungsauftrag übernimmt und wer freigibt, muss aus der konkreten Träger- und Anleitungsorganisation hervorgehen; das ist nicht automatisch dieselbe Person.
+- Vertraulichkeit auch nach Semesterende sichern. Anwaltliche Berufspflichten und strafrechtlicher Geheimnisschutz richten sich nach der tatsächlichen Rolle und Einbindung, nicht allein nach der Bezeichnung als studentische Beratung.
 
 ---
 
@@ -132,11 +132,11 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 Hochschulverankerte Kliniken wie die **Refugee Law Clinic Berlin** (HU Berlin/FU Berlin), die **Refugee Law Clinic Bremen** (Universität Bremen) oder die **Refugee Law Clinic Köln** (Universität zu Köln) beraten Asylsuchende und Geduldete zu Fragen des AsylG, AufenthG und SGB II. Besonderheiten:
 - Kurze Fristen (§§ 36, 74 AsylG): Klagen gegen BAMF-Bescheide oft binnen 1–2 Wochen nach Zustellung.
 - Sprachbarrieren: Dolmetscher-Koordination ist Teil des Intakes.
-- Schnittstellen zu § 76b SGB IX (Eingliederungshilfe für Geflüchtete).
+- Bei Behinderung die Eingliederungshilfe und Paragraf 100 SGB IX prüfen. Aufenthaltsstatus und insbesondere ein Bezug zum AsylbLG sind entscheidend; es besteht kein pauschaler Anspruch aller Geflüchteten.
 
-### Studentische Rechtsberatung nach § 6 Abs. 2 Nr. 2 RDG
+### Studentische Rechtsberatung nach Paragraf 6 Absatz 2 RDG
 
-Allgemeine studentische Beratungsstellen an Universitäten (oft "JuRI", "Jura hilft" o. ä.). Fokus: SGB II (Bürgergeld), Mietrecht, Verbraucherrecht, Familienrecht. Betrieb ausschließlich unter Aufsicht zugelassener Anwälte oder habilitierter Volljuristen.
+Allgemeine studentische Beratungsstellen an Universitäten (oft "JuRI", "Jura hilft" o. ä.). Fokus: SGB II, Mietrecht, Verbraucherrecht, Familienrecht. Die Anleitung erfolgt durch eine zur entgeltlichen Erbringung dieser Rechtsdienstleistung befugte oder zum Richteramt befähigte Person. Eine Habilitation ist keine Voraussetzung des Paragrafen 6 Absatz 2 RDG.
 
 ### AnwVer/DAV Pro-Bono-Initiativen
 
@@ -148,7 +148,7 @@ Verbraucherzentralen besitzen eine Sondererlaubnis nach § 8 Abs. 1 Nr. 4 RDG. D
 
 ### Sozialberatung
 
-Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeiten nach § 8 Abs. 1 Nr. 4 RDG. Schwerpunkte: SGB II, SGB XII, SGB IX, Rentenrecht (§ 109 SGB VI), Pflegegeld (§ 76b SGB IX).
+Verbände der freien Wohlfahrtspflege und ihre Untergliederungen können innerhalb ihres Aufgabenbereichs nach Paragraf 8 Absatz 1 Nummer 5 RDG beraten; die organisatorischen Anforderungen sind zusätzlich zu prüfen. Schwerpunkte sind SGB II, SGB XII, Eingliederungshilfe, Rentenrecht und Pflegeleistungen. Pflegegeld für selbst beschaffte Pflegehilfen gehört zu Paragraf 37 SGB XI, nicht zu einem Paragrafen 76b SGB IX.
 
 ---
 
@@ -156,13 +156,13 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 
 | Initiative | Ort | Schwerpunkt | Rechtsgrundlage |
 |---|---|---|---|
-| Refugee Law Clinic Berlin (HU/FU) | Berlin | AsylG, AufenthG, SGB II | § 6 II Nr. 2 RDG |
+| Refugee Law Clinic Berlin (HU/FU) | Berlin | AsylG, AufenthG, SGB II | Paragraf 6 Absatz 2 RDG |
 | Pro Bono Berlin e. V. | Berlin | Zivilrecht, Mietrecht, Familienrecht | Zugelassene Anwälte |
-| Berliner Mieterverein – Rechtsberatung | Berlin | Mietrecht | § 8 I Nr. 3 RDG (Verband) |
-| Refugee Law Clinic Bremen | Bremen | AsylG, AufenthG | § 6 II Nr. 2 RDG |
+| Berliner Mieterverein – Rechtsberatung | Berlin | Mietrecht | Paragraf 7 Absatz 1 Nummer 1 RDG: Mitgliederberatung innerhalb des Satzungszwecks; Voraussetzungen konkret prüfen |
+| Refugee Law Clinic Bremen | Bremen | AsylG, AufenthG | Paragraf 6 Absatz 2 RDG |
 | Verbraucherzentrale Bremen | Bremen | Verbraucherrecht, Mietrecht | § 8 I Nr. 4 RDG |
-| JuRI – Juristische Interessenvertretung (Uni Bremen) | Bremen | SGB II, allg. Zivilrecht | § 6 II Nr. 2 RDG |
-| Caritas Berlin – Migrationsberatung | Berlin | AufenthG, SGB II | § 8 I Nr. 4 RDG |
+| JuRI – Juristische Interessenvertretung (Uni Bremen) | Bremen | SGB II, allg. Zivilrecht | Paragraf 6 Absatz 2 RDG |
+| Caritas Berlin – Migrationsberatung | Berlin | AufenthG, SGB II | Paragraf 8 Absatz 1 Nummer 5 RDG, innerhalb des Aufgabenbereichs |
 
 ---
 
@@ -172,7 +172,7 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 |---|---|---|
 | `leitfaden-erstellen` | Leitfaden zum Aufbau einer Beratungsstelle | RDG, BRAO |
 | `mandanten-kommunikations-log` | Mandantenkommunikations-Logbuch | § 43a BRAO, § 203 StGB |
-| `mandant-aufnahme` | Intake mit RDG-Konfliktprüfung | § 6 II Nr. 2 RDG |
+| `mandant-aufnahme` | Intake mit RDG-Konfliktprüfung | Paragraf 6 Absatz 2 RDG |
 | `mandantenbrief` | Mandantenbrief in einfacher Sprache | BORA |
 | `rechtsberatungsstelle-kaltstart-interview` | Ersteinrichtung der Beratungsstelle | RDG, BRAO |
 | `rechtsberatungsstelle-anpassen` | Beratungsstellenprofil anpassen | – |
@@ -181,15 +181,17 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 | `formular-erzeugung` | Formularerstellung (PKH, BerHG, KSchG) | §§ 114 ff. ZPO, BerHG |
 | `memo` | Memo im Gutachtenstil | – |
 | `einfache-sprache-briefe` | Einfache Sprache | BORA |
-| `einarbeitung` | Einarbeitung Studenten | § 6 II Nr. 2 RDG |
+| `einarbeitung` | Einarbeitung Studenten | Paragraf 6 Absatz 2 RDG |
 | `recherche-start` | Rechercheeinstieg | juris, Beck-Online, gesetze-im-internet.de |
 | `semester-uebergabe` | Semesterübergabe | – |
 | `status` | Statusbericht | – |
-| `anleiter-pruefwarteschlange` | Aufsichts-Reviewqueue | § 6 II Nr. 2 RDG, § 43a BRAO |
+| `anleiter-pruefwarteschlange` | Aufsichts-Reviewqueue | Paragraf 6 Absatz 2 RDG, § 43a BRAO |
 
 ---
 
 ## Qualitätssicherung
+
+Gezielter Quellenabgleich am 16.10.2026: [Paragraf 6 RDG](https://www.gesetze-im-internet.de/rdg/__6.html), [Paragraf 7 RDG](https://www.gesetze-im-internet.de/rdg/__7.html) und [Paragraf 8 RDG](https://www.gesetze-im-internet.de/rdg/__8.html) wurden zu Unentgeltlichkeit, Anleitung und Trägerbefugnissen gelesen. [Paragraf 100 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__100.html) begrenzt Eingliederungshilfe für ausländische Personen; [Paragraf 37 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__37.html) betrifft Pflegegeld. Kein Nachweis der heutigen Organisation oder individuellen Befugnis der beispielhaft genannten Einrichtungen und keine vollständige Berufsrechtsprüfung. Weitere gezielte Korrekturen und Grenzen stehen im [Quellenvermerk](references/gezielter-quellenabgleich-2026-10-16.md).
 
 Alle studentischen Outputs tragen den Vermerk:
 

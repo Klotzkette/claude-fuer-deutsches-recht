@@ -5,7 +5,7 @@
 
 Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach Paragraf 13 BVerfGG, Verfassungsbeschwerde, Paragraf 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`verfassungsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verfassungsrecht/verfassungsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -114,11 +114,13 @@ Verfassungsrecht ist ein hochspezialisiertes Rechtsgebiet mit existentiellen Fol
 3. **Ersatzweise:** [servat.unibe.ch/dfr/](https://servat.unibe.ch/dfr/) (DFR-Volltextsammlung BVerfGE), [opinioiuris.de](https://opinioiuris.de), [dejure.org](https://dejure.org) — nur wenn auf bundesverfassungsgericht.de nicht greifbar.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
-Jede verfassungsrechtliche Aussage benötigt eine BVerfG-Pinpoint-Quelle (Az. + Rn.). Modellwissen ohne Quelle wird als `[zu verifizieren auf bundesverfassungsgericht.de]` markiert.
+Tragende Aussagen benötigen eine passende Normgrundlage und, soweit für die Aussage erforderlich, verifizierte Rechtsprechung mit Aktenzeichen und Randnummer. Nicht jeder unmittelbar aus dem Grundgesetz folgende Satz benötigt ein zusätzliches Urteil. Nicht geprüfte Rechtsprechungsbehauptungen bleiben ausdrücklich als Recherchebedarf erkennbar.
 
 ## Hinweis zum berufsrechtlichen Rahmen (Stand Mai 2026)
 
-Anwälte sind nach **§ 203 StGB** (Verletzung von Privatgeheimnissen) und **§ 43a BRAO** (anwaltliche Verschwiegenheitspflicht) zur Verschwiegenheit verpflichtet. Eine unmittelbare Weitergabe mandatsbezogener Daten an außereuropäische KI-Anbieter ohne datenschutzkonformes Setup ist berufsrechtlich riskant und kann strafrechtliche Folgen haben. Deshalb empfiehlt sich der Betrieb über einen **deutschen Zwischenanbieter** (z. B. § 203-konformes Cowork-Setup; siehe [Setup-Guide im EU-Gateway-Plugin](../0_setup-cowork3p-eu-gateway/README.md)), der als Auftragsverarbeiter nach Art. 28 DSGVO eingebunden ist und die Weiterleitung an den KI-Anbieter pseudonymisiert/anonymisiert handhabt.
+Mandatsbezogene Daten unterliegen der Verschwiegenheit nach Paragraf 43a Absatz 2 BRAO und Paragraf 203 StGB. Dienstleisterzugang nach Paragraf 43e BRAO, Datenschutzrolle und mögliche Drittlandübermittlung sind getrennt zu prüfen. Ein deutscher Zwischenanbieter oder eine Vereinbarung nach Artikel 28 DSGVO allein gewährleistet keine zulässige Verarbeitung. Der [Setup-Guide](../0_setup-cowork3p-eu-gateway/README.md) ist eine technische Orientierung, keine Freigabe eines konkreten Anbieters.
+
+Quellenstichprobe 16.10.2026: Der amtlich indexierte [Text von Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017100000) wurde für Erforderlichkeit, Dienstleisterauswahl und vertragliche Verschwiegenheit ausgewertet; der direkte Einzelnormabruf scheiterte. Keine neue Gesamtprüfung des Datenschutz- oder Berufsrechts und keine Prüfung eines konkreten Dienstleistervertrags.
 
 **Disclaimer:** technische, **keine juristische** Auskunft; die Tool-Landschaft entwickelt sich seit Frühjahr 2026 sehr dynamisch. Die berufsrechtlichen Pflichten nach § 203 StGB und § 43a BRAO bleiben in jedem Fall in der Verantwortung der jeweiligen Anwältin / des jeweiligen Anwalts.
 

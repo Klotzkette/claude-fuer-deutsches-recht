@@ -5,7 +5,7 @@
 
 Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`diesel-schadensersatz-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [9 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -193,9 +193,9 @@ Die Phasen sind eine Fachlandkarte, keine zwingende lineare Promptkette. Verbind
 1. Vorhandene Falldateien anhängen; die Akte darf unvollständig sein.
 2. Diesen Auftrag senden:
 
-> Neuer Diesel-Fall. Starte den Profi-Schnelllauf. Prüfe alle beigefügten Unterlagen, beginne mit Sicherheitsstopps und Fristen, stelle höchstens drei nur wirklich blockierende Fragen und liefere dann Fallkarte, Beleglücken sowie genau einen nächsten Schritt.
+> Prüfe die beigefügten Diesel-Unterlagen einschließlich Sicherheitsstopps und Fristen. Stelle nur Fragen, deren Antwort die Bearbeitung tatsächlich verändert. Ist bereits eine Klage, Erwiderung, Vergleichsbewertung oder Mandanteninformation beauftragt, liefere dieses Dokument ausformuliert. Bei noch offenem Auftrag erstelle eine Fallkarte mit Beleglücken und einer begründeten Empfehlung für den nächsten Schritt. Arbeite meine Antwort anschließend gezielt ein.
 
-3. Mit dem genau einen empfohlenen Schritt fortfahren. Fallart, Klageform und Skillnummer müssen nicht vorab gewählt werden.
+3. Den Entwurf anhand weiterer Antworten oder Belege fortführen; nur bei offenem Ziel zunächst den empfohlenen Bearbeitungsweg wählen. Fallart, Klageform und Skillnummer müssen nicht vorab festgelegt werden.
 
 Der [eigenständige Schnellstart](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-schnellstart.md) enthält zusätzlich die Wege für beliebige Chatbots, kurze Folgeaufträge und die sichere Wiederaufnahme eines Arbeitsstands. Die [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=diesel-schadensersatz/diesel-schadensersatz-werkstatt.md) führt durch die vollständige mehrstufige Bearbeitung. Bei einer neuen oder ungeordneten Akte startet das Plugin intern mit `01-kaltstart-aktenaufnahme`; dieser Skill erzeugt Startkarte, Dokumenteninventar, Fristenhinweise, Beweiswert, Lückenliste und die nächste Route. Liegt bereits ein valider Arbeitsstand vor, beginnt der verlangte Fachskill direkt.
 
@@ -360,6 +360,8 @@ Für Schulungen ist das Einzel-PDF-ZIP besonders nützlich, weil es die typische
 Die Akten sind nicht glattgebügelt: E-Mail-Nachträge, Dublettenhinweise, Rückrufnotizen, unscharfe Zahlungsbehauptungen und angekündigte fehlende Anlagen bilden einen realistischen Akteneingang ab. Sie enthalten keine vorweggenommene Lösung oder Freigabeentscheidung; Sachverhalt, Beweiswert, Lücken, Anspruchsweg und nächster Schritt sind eigenständig zu erarbeiten. `01-kaltstart-aktenaufnahme` erstellt bei ungeordnetem Eingang das Dokumenteninventar; `02-kaufvertrag-zahlungen-belege` und `03-chronologie-rueckruf-fristen` werden nur bei entsprechender Beleg- oder Zeitachsenlücke ergänzt. Sobald der Arbeitsstand belastbar ist, kann `06-anspruchstriage-fallstrategie` oder der konkret verlangte Fachskill direkt übernehmen.
 
 ## Quellen und Konsistenz
+
+Die lokale Methodik unterscheidet allgemeine Präzedenzwirkung von Rechtskraft und gesetzlicher Bindung. Hierzu wurden am 16.10.2026 [Paragraf 322 ZPO](https://www.gesetze-im-internet.de/zpo/__322.html) und [Paragraf 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html) gezielt abgeglichen und die lokale Passage an die zentrale Methodik angeglichen. Das ist keine erneute Verifikation der vorhandenen Diesel-Rechtsprechung.
 
 Das Dieselgate-Plugin ist vollständiger Bestandteil von [`claude-fuer-deutsches-recht`](../README.md) und folgt dessen Qualitätsstandards:
 

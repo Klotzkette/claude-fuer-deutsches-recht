@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from markdown_it import MarkdownIt
+
 from prompt_profiles import enabled
 
 from quality_lab import load, validate_profile
@@ -44,6 +46,19 @@ def plugin_entries() -> list[tuple[str, Path]]:
 def has_all(text: str, alternatives: tuple[str, ...]) -> bool:
     lowered = text.casefold()
     return any(part.casefold() in lowered for part in alternatives)
+
+
+def has_complete_ending(text: str) -> bool:
+    stripped = text.rstrip()
+    if not stripped:
+        return False
+    if stripped[-1] in ".!?`)]":
+        return True
+    # Eine vollständige Routingtabelle endet mit einer Zelle, nicht mit Satzzeichen.
+    if stripped.endswith("|"):
+        tokens = MarkdownIt("commonmark").enable("table").parse(stripped)
+        return bool(tokens and tokens[-1].type == "table_close")
+    return False
 
 
 def decimal_paragraph_errors(text: str) -> list[str]:
@@ -165,7 +180,7 @@ def main() -> int:
             else:
                 problems.extend(f"{rel}: {error}" for error in decimal_paragraph_errors(text))
         stripped = text.rstrip()
-        if not stripped or stripped[-1] not in ".!?`)]":
+        if not has_complete_ending(text):
             problems.append(f"{rel}: Dateiende wirkt abgeschnitten")
         if re.search(r"\b(?:Paragraf|Artikel|Absatz|Satz|Nummer)\s*$", stripped):
             problems.append(f"{rel}: Dateiende bricht in einem Rechtsanker ab")

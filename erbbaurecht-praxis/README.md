@@ -5,7 +5,7 @@
 
 Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`erbbaurecht-praxis-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=erbbaurecht-praxis/erbbaurecht-praxis-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,11 +72,11 @@ Ein Spezialplugin für das Recht des Erbbaurechts: vom ersten Vertragsentwurf ü
 
 ## Wofür dieses Plugin da ist
 
-Dieses Plugin ist ein Praxiswerkzeug. Es fragt zuerst die Lage ab, baut dann eine Dokumenten- und Vollzugsmatrix und erzeugt schließlich das konkrete Arbeitsprodukt: Nachreichung, Beanstandungsantwort, Beschwerdegerüst, Mandantenbrief, Checkliste, Fristenlog oder Vertrags-/Urkundenreview. Es ersetzt keine Berufsträgerentscheidung, aber es verhindert, dass ein formeller Nachweis, ein Rang, eine Abteilung-II-Belastung oder eine Registerfolge in der Hektik untergeht.
+Dieses Plugin prüft vorhandene Grundbuchunterlagen, Erbbaurechtsverträge und gerichtliche Beanstandungen. Daraus erstellt es die beauftragte Nachreichung, Beanstandungsantwort, Beschwerde, Mandanteninformation oder Vertragsprüfung. Nur entscheidende fehlende Nachweise werden nachgefordert. Rang, Belastungen und Vollzugshindernisse bleiben im Arbeitsstand sichtbar; die abschließende Berufsträgerentscheidung wird nicht ersetzt.
 
 ## Kaltstart
 
-Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danach möglichst den aktuellen Register- oder Grundbuchauszug, das Gerichtsschreiben, die Anmeldung/Bewilligung, den Vertragsentwurf und vorhandene Anlagen hoch. Das Plugin sortiert erst, dann prüft es.
+Stelle zunächst die verfügbaren Grundbuchauszüge, Gerichtsschreiben, Bewilligungen, Vertragsentwürfe und Anlagen bereit. Bei offenem Ziel hilft `erbbaurecht-allgemeiner-kaltstart` bei der Einordnung. Bei klarem Auftrag beginnt direkt die fachliche Bearbeitung; nachgereichte Angaben werden in den begonnenen Entwurf eingearbeitet.
 
 ## Quellen- und Halluzinationsschutz
 
@@ -98,7 +98,7 @@ Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danac
 - Entwurf für Nachreichung oder Antwort an das Gericht/Amt
 - Mandantenbrief in normalem Deutsch
 - Fristen- und Ranglog
-- Beschwerde- oder Eilrechtsschutz-Skizze
+- Ausformulierter Beschwerde- oder Eilrechtsschutzentwurf, wenn beauftragt; offene Nachweise werden ausdrücklich bezeichnet
 - Liste fehlender Originale, Nachweise und Formmängel
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->

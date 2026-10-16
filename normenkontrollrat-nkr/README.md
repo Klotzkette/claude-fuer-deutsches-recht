@@ -5,7 +5,7 @@
 
 Plugin für den Nationalen Normenkontrollrat (NKR): Prüfung von Referentenentwürfen Formulierungshilfen und Gesetzentwürfen auf Erfüllungsaufwand Erforderlichkeit Verhältnismäßigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilitaet im Vollzug.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`normenkontrollrat-nkr-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -76,7 +76,7 @@ Es bildet den vollständigen Prüfzyklus eines Vorhabens ab: von der **Eingangst
 
 Das Plugin schreibt aus der Sicht des **NKR-Prüfers**, nicht aus Ressortsicht. Es geht **nicht** darum, einen Entwurf zu verteidigen, sondern darum, ihn nach den NKR-Kriterien zu prüfen und ggf. **kritisch zu kommentieren**.
 
-Leitsatz: *"Wenn nicht nötig, dann nicht regeln; wenn nötig, dann so einfach, so digital, so mittelstandsfreundlich und so evaluationsfest wie möglich."*
+Die Prüfung betrifft nachvollziehbar ermittelten Erfüllungsaufwand und methodisch tragfähige Alternativen der Umsetzung. Politische Ziele und Zwecke einer Regelung sind nach Paragraf 1 Absatz 4 NKRG nicht Gegenstand der NKR-Prüfung. Eine Erforderlichkeits- oder Alternativenprüfung darf deshalb nicht als politisches Veto oder umfassende verfassungsrechtliche Freigabe ausgegeben werden.
 
 ## Aufbau
 
@@ -134,7 +134,7 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
 ## Methodische Grundlagen (Pflicht-Bezugnahmen)
 
 - **NKRG** vom 14.08.2006 (BGBl. I S. 1866) in der jeweils geltenden Fassung
-- **GGO** insbesondere § 44 (Prüfung der Gesetzesfolgen) und § 45 (Erfüllungsaufwand-Darstellung)
+- GGO insbesondere Paragraf 44 Absatz 4 (Ermittlung und Darstellung des Erfüllungsaufwands) und Paragraf 45 (Beteiligungen innerhalb der Bundesregierung)
 - **Handbuch der Rechtsförmlichkeit (HdR)** als Drafting-Grundlage
 - **Leitfaden zur Ermittlung und Darstellung des Erfüllungsaufwands** (BMI / NKR)
 - **Standardkostenmodell (SKM)** als NKR-Methodik
@@ -147,11 +147,13 @@ Die folgenden fünf Gruppen zeigen eine Auswahl typischer Prüfaufgaben. Der vol
 
 Zu diesem Plugin existiert eine vollständige Beispielakte unter [`nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/`](../testakten/nkr-elektronische-erreichbarkeit-handelsregister-gesellschaften-2026/).
 
-**Sachverhalt**: Referentenentwurf des BMJ vom 14.04.2026 zur Verbesserung der elektronischen Erreichbarkeit im Handelsregister eingetragener Gesellschaften (**ElErrHandRegG**). NKR-Prüfung ergibt: Regelung ist erforderlich, Ausgestaltung jedoch zu komplex; geschätzter Erfüllungsaufwand 320 Mio EUR jährlich für die Wirtschaft. Stellungnahme weist die Notwendigkeit positiv aus, kritisiert die konkrete Ausgestaltung und schlägt eine zentrale Lösung vor.
+Fiktives Übungsszenario: Referentenentwurf des BMJ vom 14.04.2026 zur Verbesserung der elektronischen Erreichbarkeit im Handelsregister eingetragener Gesellschaften (ElErrHandRegG). Die Akte setzt einen geschätzten Erfüllungsaufwand von 320 Mio EUR jährlich für die Wirtschaft an. Zu prüfen sind Berechnung und einfachere Umsetzung, nicht die politische Zweckmäßigkeit des Regelungsziels. Die Angaben sind Übungsmaterial, kein Nachweis eines wirklichen Gesetzgebungsvorhabens oder einer amtlichen NKR-Stellungnahme.
 
 Die Akte zeigt sowohl die **mahnende** als auch die **konstruktive** Funktion des NKR.
 
 ## Quellenhygiene
+
+Am 16.10.2026 gelesen: [Paragraf 1 Absätze 3 und 4 NKRG](https://www.gesetze-im-internet.de/nkrg/__1.html) zur methodischen Prüfung und zur Grenze politischer Ziele sowie [GGO, Paragrafen 44 Absatz 4 und 45](https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_21072009_O11313012.htm) zur Aufwandsdarstellung und Ressortbeteiligung. Der Abgleich korrigiert diese Zuständigkeits- und Normzuordnung; er bestätigt nicht pauschal sämtliche Methodenleitfäden, Zeitwerte oder sonstigen Prüfraster.
 
 - Keine erfundenen NKR-Stellungnahme-Aktenzeichen oder Berichte aus Modellwissen.
 - NKRG und methodische Grundlagen werden mit Norm und Stand zitiert; NKR-Jahresberichte allgemein als "NKR-Jahresbericht <Jahr>".
@@ -166,7 +168,7 @@ Die Akte zeigt sowohl die **mahnende** als auch die **konstruktive** Funktion de
 
 ## Konversationsstil
 
-Erste Antwort knapp. Maximal eine gezielte Rückfrage zur Mandatsaufnahme. Sofort in den Prüfraster-Modus übergehen und einen ersten Stellungnahme-Entwurf liefern, sobald Eckdaten vorliegen. Subsumtion und ausführliche Begründung nur dort, wo der Skill dies ausdrücklich vorsieht (Erforderlichkeit, Verhältnismäßigkeit, Alternativenprüfung).
+Lies Entwurf, Vorblatt und Aufwandsschätzung zuerst. Frage nur nach Angaben, die die beauftragte Stellungnahme oder Berechnung tatsächlich verändern; ein klarer Prüfauftrag benötigt keine erneute Mandatsaufnahme. Liefere das fertige Prüfprodukt mit nachvollziehbarer Begründung. Ergänzte Fallzahlen oder Ressortantworten werden darin verarbeitet; nur neue entscheidende Lücken rechtfertigen weitere Fragen.
 
 ## Verwandte Plugins
 

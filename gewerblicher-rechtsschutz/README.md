@@ -5,7 +5,7 @@
 
 Gewerblicher Rechtsschutz – DPMA/EUIPO-Markenrecherche und -anmeldung, Freedom-to-Operate, Patentscreening, UWG- und Urheberrechts-Abmahnung (Versand und Reaktion), Open-Source-Compliance, IP-Klausel-Review, Schutzrechts-Fristen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gewerblicher-rechtsschutz-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gewerblicher-rechtsschutz/gewerblicher-rechtsschutz-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,7 +73,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Gewerblicher Rechtsschutz und Urheberrecht für die deutsche und europäische Rechtspraxis: Markenrecht (MarkenG, UMV), Designrecht (DesignG, GGV), Patentrecht (PatG, GebrMG, EPÜ), Urheberrecht (UrhG), Wettbewerbsrecht (UWG), Geschäftsgeheimnisschutz (GeschGehG) sowie Open-Source-Compliance. Das Plugin erstellt und triagiert Abmahnungen, führt Marken- und FTO-Recherchen durch, überprüft IP-Klauseln in Verträgen, verwaltet Schutzrechtsfristen und prüft Open-Source-Lizenzen auf Pflichten und Kompatibilität. Grundlage ist ein Kanzleiprofil, das beim Erststart durch ein Interview befüllt wird – das Plugin lernt Ihre Durchsetzungsstrategie, Ihr Portfolio und Ihre Genehmigungsmatrix, nicht eine generische Vorlage.
+Gewerblicher Rechtsschutz und Urheberrecht für die deutsche und europäische Rechtspraxis: Markenrecht (MarkenG, UMV), Designrecht (DesignG, GGV), Patentrecht (PatG, GebrMG, EPÜ), Urheberrecht (UrhG), Wettbewerbsrecht (UWG), Geschäftsgeheimnisschutz (GeschGehG) sowie Open-Source-Compliance. Das Plugin erstellt und triagiert Abmahnungen, führt Marken- und FTO-Recherchen durch, überprüft IP-Klauseln in Verträgen, verwaltet Schutzrechtsfristen und prüft Open-Source-Lizenzen auf Pflichten und Kompatibilität. Ein vorhandenes Kanzleiprofil kann Durchsetzungsstrategie, Portfolio und Genehmigungen ergänzen. Es ist keine Voraussetzung für die Bearbeitung einer konkreten Abmahnung, Recherchefrage oder Vertragsklausel.
 
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und gesperrt – keine Rechtsauskunft.** Das Plugin übernimmt die Arbeit: Dokumente lesen, Prüfschema anwenden, Probleme identifizieren, Memo entworten. Ein Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Quelle gekennzeichnet. Privilegierungsvermerke werden konservativ gesetzt, damit keine Mandatsgeheimnisverletzung riskiert wird. Folgenreiche Handlungen – Abmahnungen versenden, Anmeldungen einreichen – sind durch explizite Freigabe gesperrt.
 
@@ -90,9 +90,9 @@ Gewerblicher Rechtsschutz und Urheberrecht für die deutsche und europäische Re
 
 Dieses Plugin **formuliert keine Patentansprüche**. Patentprosekution mit Anspruchsstrategie erfordert einen zugelassenen Patentanwalt und sollte nicht an ein allgemeines Werkzeug delegiert werden. Patentarbeit beschränkt sich hier auf FTO-Triage (Ist dieses Produkt durch ein fremdes Patent gesperrt?), Klauselprüfung in Verträgen, Portfolioverlängerungsverwaltung und Verletzungstriage.
 
-## Erststart: das Ersteinrichtungsinterview
+## Direktauftrag und optionale Einrichtung
 
-Beim ersten Aufruf führt das Plugin ein Interview durch – zehn bis fünfzehn Minuten, gesprächsorientiert – um zu erfahren, wie Ihre Kanzlei tatsächlich arbeitet. Es fragt nach Ihrem Rechtsgebiets-Mix, Ihrer Jurisdiktion, Ihrer Durchsetzungsstrategie, Ihrer Genehmigungsmatrix und Ihren Eskalationsauslösern. Dann bittet es um Ihr Schutzrechtsverzeichnis, Markenrichtlinien, Abmahnvorlagen, Durchsetzungs-Vorgehensleitfaden und OSS-Richtlinie.
+Einzelaufträge beginnen mit der Abmahnung, Schutzrechtsunterlage oder Vertragsfassung und dem gewünschten Ergebnis. Fehlende entscheidende Angaben zu Gebiet, Frist oder Position werden gezielt nachgefragt; das beauftragte Dokument wird direkt ausgearbeitet und nach Antworten fortgeführt. Für wiederkehrende Mandate kann auf Wunsch zusätzlich ein Kanzleiprofil aus Portfolio, Durchsetzungsstrategie und Freigabewegen eingerichtet werden.
 
 Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md` gespeichert – ein Klartext-Dokument über Ihre Kanzlei, das jeder andere Skill vor dem Start liest.
 
@@ -138,7 +138,7 @@ Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewer
 
 ## Interaktive Befehle und geplante Agenten
 
-Die obigen Befehle werden bei Aufruf ausgeführt. Der nachstehende Agent läuft planmäßig:
+Die obigen Befehle werden bei Aufruf ausgeführt. Eine regelmäßige Schutzrechtsüberwachung läuft nur bei ausdrücklichem Auftrag, tatsächlich eingerichteter Zeitplanung und verfügbarem Datenzugriff. Die Installation allein startet keinen Hintergrundlauf; der folgende Takt ist ein Einrichtungsvorschlag:
 
 | Agent | Was er überwacht | Standard-Takt |
 |---|---|---|
@@ -173,13 +173,13 @@ Empfohlene Datenbanken für deutsches IP-Recht:
 
 ## Schnellstart
 
-### 1. Interview durchführen
+### 1. Auftrag direkt bearbeiten oder Profil optional einrichten
 
 ```
 /gewerblicher-rechtsschutz:kaltstart-interview
 ```
 
-Zehn bis fünfzehn Minuten. Halten Sie Ihr Schutzrechtsverzeichnis, Markenrichtlinien (falls vorhanden), eine Abmahnvorlage (falls vorhanden) und Ihre OSS-Richtlinie (falls vorhanden) bereit.
+Der obige Einrichtungsaufruf ist optional. Für einen konkreten Auftrag genügen die einschlägigen Unterlagen und das gewünschte Dokument; ein vollständiges Schutzrechtsverzeichnis oder eine OSS-Richtlinie wird nur bei sachlichem Bedarf benötigt.
 
 ### 2. Markenrecherche
 
@@ -236,7 +236,7 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 
 ## Hinweise
 
-- Jeder Skill liest zuerst das Kanzleiprofil. Findet er Platzhalter, stoppt er und fordert Sie auf, `/gewerblicher-rechtsschutz:kaltstart-interview` auszuführen. Es gibt keinen generischen Fallback – eine generische IP-Strategie ist schlechter als gar keine.
+- Ein vorhandenes Kanzleiprofil wird berücksichtigt. Leere Profilfelder stoppen einen klaren Einzelauftrag nicht. Nur eine für die konkrete Anspruchsprüfung oder Strategie entscheidende Lücke wird nachgefragt; fehlende Portfolioangaben werden nicht erfunden. Versand und andere folgenreiche Handlungen behalten ihre Freigabegrenzen.
 - Das Versenden einer Abmahnung eröffnet einen Konflikt. Der `/gewerblicher-rechtsschutz:abmahnung-urheberrecht`-Skill sendet nichts selbst; er entwirft, zeigt den Genehmigungsmatrixeintrag an und wartet auf den Genehmiger.
 - `/gewerblicher-rechtsschutz:markenrecherche` und `/gewerblicher-rechtsschutz:fto-triage` sind **erste Triage-Schritte**. Das Ergebnis ist ein Recherchepaket für einen Anwalt, kein Freigabegutachten. Der Skill gibt dies bei jedem Durchlauf an.
 - `/gewerblicher-rechtsschutz:open-source-pruefung` kennzeichnet Lizenzpflichten und -inkompatibilitäten. Er erteilt keine Genehmigung für eine kommerzielle Nutzungsentscheidung – das entscheiden Engineering und Recht gemeinsam.

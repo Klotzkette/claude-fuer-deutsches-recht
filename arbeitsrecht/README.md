@@ -5,7 +5,7 @@
 
 Arbeitsrechtliche Workflows für Kündigung, Befristung, Urlaub, AGG, Aufhebungsvertrag, Betriebsrat, Arbeitszeit, Lohn und Expansion. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und verifizierbarer Quelle verwendet.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/arbeitsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [10 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -76,10 +76,10 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder aussprechen und die Klagefrist sichern.
+Bearbeite den konkreten arbeitsrechtlichen Auftrag: Kündigung, Vergütung, Vertrag oder Personalmaßnahme. Bei einer Kündigung sind Form, Zugang und Klagefrist besonders dringlich; nicht jeder Auftrag verlangt eine Kündigungsschutzprüfung.
 Arbeitsrechtliche Abläufe für Personalabteilungen und Arbeitsrechtler: Einstellungsprüfung, Kündigungsprüfung, Richtlinienerstellung, Personalhandbuch-Updates, Lohn-und-Arbeitszeitfragen sowie Statusfeststellung – auf das deutsche Arbeitsrecht (KSchG, BetrVG, BGB, AGG, ArbZG, MiLoG, MuSchG, BEEG, TzBfG, BUrlG, EFZG, SGB IV) zugeschnitten.
 
-**Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, mit Prüfhinweisen versehen und gegen unbeabsichtigte Weitergabe gesichert. Das Plugin erledigt die Recherchearbeit: Es liest Dokumente, wendet Ihre Prüfschemata an, benennt Risiken und erstellt Entwürfe. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt oder Syndikusrechtsanwalt.** Zitate werden nach ihrer Quelle gekennzeichnet, damit klar ist, welche überprüft werden müssen. Vertraulichkeitsvermerke werden zurückhaltend gesetzt. Folgenreiche Handlungen – Einreichen, Versenden, Vollziehen – erfordern ausdrückliche Freigabe.
+**Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – mit belegten Zitaten und gesonderten Prüfhinweisen. Ein Entwurfshinweis garantiert keinen technischen Schutz vor Weitergabe. Das Plugin erledigt die Recherchearbeit: Es liest Dokumente, wendet Ihre Prüfschemata an, benennt Risiken und erstellt Entwürfe. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt oder Syndikusrechtsanwalt.** Zitate werden nach ihrer Quelle gekennzeichnet, damit klar ist, welche überprüft werden müssen. Vertraulichkeitsvermerke werden zurückhaltend gesetzt. Folgenreiche Handlungen – Einreichen, Versenden, Vollziehen – erfordern ausdrückliche Freigabe.
 
 ## Für wen ist das Plugin
 
@@ -92,7 +92,7 @@ Arbeitsrechtliche Abläufe für Personalabteilungen und Arbeitsrechtler: Einstel
 
 ## Ersteinrichtung: Kaltstart
 
-Fragt ab, in welchen Bundesländern und Ländern Mitarbeiter beschäftigt sind, liest Ihr Personalhandbuch und drei aktuelle Kündigungsunterlagen, erstellt eine standortbezogene Eskalationstabelle und speichert die Kanzlei- oder Unternehmenskonfiguration.
+Die Einrichtung eines Kanzlei- oder Unternehmensprofils ist optional und setzt einen entsprechenden Auftrag voraus. Für einen konkreten Fall zuerst die vorliegenden Unterlagen auswerten und direkt den bestellten Entwurf bearbeiten; weder ein Personalhandbuch noch drei weitere Kündigungsakten sind dafür zwingend. Nur entscheidende Angaben nachfragen und nach Antworten am bestehenden Ergebnis weiterarbeiten. Speicherung und zusätzliche Unterlagen richten sich nach dem ausdrücklich beauftragten Einrichtungsumfang.
 
 ```
 /arbeitsrecht:kaltstart-interview
@@ -138,6 +138,8 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:arbeitsrecht-anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
 ### Aktuelle verifizierte Rechtsprechung 2025/2026
+
+Gezielter Nachcheck am 16.10.2026: [BAG, Urteil vom 07.05.2026, 2 AZR 184/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/), Rn. 24 bis 31 und 33 bis 34, gelesen. Die Bestätigung am Scanner vor Einwurf begründet im entschiedenen Zustellablauf keinen Anscheinsbeweis; andere Beweismittel bleiben möglich. Der Fall betraf den Zugang einer bEM-Einladung. Ein unterbliebenes bEM macht eine Kündigung nicht automatisch unwirksam, verschärft aber die Darlegungslast zu milderen Mitteln. Keine pauschale Aussage über alle Einwurf-Einschreiben und keine Vollaktualisierung der übrigen Rechtsprechung.
 
 | Skill | Funktion |
 |---|---|

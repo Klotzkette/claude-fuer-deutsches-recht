@@ -2,6 +2,8 @@
 
 ## 1.1. Rechercheumfang
 
+Gezielter Wiederabgleich vom 16.10.2026: [Paragraf 173 GWB](https://www.gesetze-im-internet.de/gwb/__173.html) und [Paragraf 187 GWB](https://www.gesetze-im-internet.de/gwb/__187.html) wurden vollständig gelesen. Nach neuem Recht hat die sofortige Beschwerde gegen die Ablehnung des Nachprüfungsantrags keine automatische aufschiebende Wirkung; gerichtlicher Eilrechtsschutz ist gesondert zu prüfen. Vor dem 01.07.2026 begonnene Vergabeverfahren einschließlich anschließender Nachprüfung sowie damals anhängige Nachprüfungen richten sich nach dem bei ihrer Einleitung geltenden Recht. Paragraf 169 GWB und die unten aufgeführten EuGH-Entscheidungen wurden dabei nicht erneut verifiziert; ihr ausgewiesener Quellenstatus bleibt bestehen.
+
 Prüfstand 02.10.2026. Die nachstehend genannten deutschen Einzelnormen wurden im amtlichen Angebot gelesen. Bei europäischen Entscheidungen sind Volltext, amtlicher Tenor und amtlich indexierte Passagen ausdrücklich getrennt. Das ist eine redaktionelle Quellenprüfung, kein bestandener Test in einem bestimmten Client und keine Garantie unveränderter Rechtslage. Vor einer tatsächlichen Veröffentlichung, Rügeentscheidung oder Zuschlagserteilung sind maßgebliche Fassung und Übergangsrecht erneut zu prüfen.
 
 ## 1.2. Normen nach Verfahrensschritt

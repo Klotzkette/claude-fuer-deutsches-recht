@@ -5,7 +5,7 @@
 
 Finanzgericht: Sachprüfung Anfechtungsklage Verpflichtungsklage Aussetzung der Vollziehung Paragraf 69 FGO Beweiswürdigung im Amtsermittlungsgrundsatz und Urteilsentwurf mit Tenorvorschlag
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,10 +54,10 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`richter-finanzgericht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
-Wenn du das hier öffnest, willst du einen Steuerbescheid prüfen und Einspruch oder Klage tragfähig begründen.
+Das Plugin bereitet die finanzgerichtliche Entscheidung über eine Klage oder einen Antrag auf Aussetzung der Vollziehung vor. Es wertet Steuerbescheid, Einspruchsentscheidung, Parteivortrag und Belege aus und erstellt den beauftragten Urteils- oder Beschlussentwurf, ohne die Rolle des Klägervertreters zu übernehmen.
 > **Experimentelles Plugin im Ordner `gerichtsplugins/`** — siehe Vorspruch unten.
 
 > **Hochrisiko-Prüfung vor Justizeinsatz:** Artikel 6 Absatz 2 mit Anhang III Nummer 8 Buchstabe a anhand der konkreten Zweckbestimmung prüfen; nicht jede Verwaltungs- oder Recherchefunktion einer Justizbehörde ist automatisch erfasst. Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. Artikel 113 Buchstabe c erfasst Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: bei Anhang III ab 02.12.2027, bei Anhang I ab 02.08.2028. Artikel 111 und die Zeitverschränkung mit anderen Abschnitten gesondert prüfen; keine pauschale Verschiebung sämtlicher Pflichten. Datenschutzrechtliche Grenzen automatisierter Entscheidungen sind gesondert nach dem anwendbaren Regime zu prüfen. Die richterliche Entscheidung bleibt dem zuständigen Menschen vorbehalten. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)

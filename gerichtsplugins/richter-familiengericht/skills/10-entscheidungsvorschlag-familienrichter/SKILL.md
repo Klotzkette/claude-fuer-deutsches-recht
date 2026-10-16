@@ -16,7 +16,7 @@ Werkstatt-Assistent für den Familienrichter am Amtsgericht (Paragraf 23b GVG, P
 
 ## Rechtsrahmen
 
-FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, KSchG (Kindschaftsrecht), UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
+FamFG, BGB (Familienrecht), ZPO (subsidiaer), VersAusglG, GewSchG, Kindschaftssachen nach Paragrafen 151 ff. FamFG, UnterhaltsR (Paragrafen 1601 ff. BGB), FamGKG, RVG, Haager Kinderschutzübereinkommen, EuEheVO, Bruessel IIb
 
 ## Pflichtschritte
 

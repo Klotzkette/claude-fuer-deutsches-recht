@@ -72,7 +72,7 @@ Der Mandant (Steuerpflichtiger, Geschäftsführer oder steuerlicher Berater) ist
 | 10 | § 257c StPO-Verständigung | Geständnis; Strafrahmen vereinbaren; Belehrung § 257c Abs. 5 StPO; Aktennotiz | Schriftlich dokumentieren |
 | 11 | Selbstanzeige § 371 AO parallel | Sperrwirkung § 371 Abs. 2 AO prüfen; nur für weitere VZ/Steuerarten außerhalb laufender Verfahren | Synergie nutzen |
 | 12 | Beweisanträge HV | Schätzungsmängel § 162 AO; Verfahrensverletzung Steufa; SV-Gutachten Steuerberechnung | Bei streitiger HV |
-| 13 | Verjährung prüfen | § 376 AO: 10 Jahre (normal), 15 Jahre (§ 370 Abs. 3 AO); Beginn bei Beendigung | Verjährungseinrede |
+| 13 | Verjährung prüfen | Regelmäßig fünf Jahre nach Paragraf 78 Absatz 3 Nummer 4 StGB bei Paragraf 370 Absatz 1 AO; 15 Jahre nach Paragraf 376 Absatz 1 AO nur für die dort genannten Fälle des Paragrafen 370 Absatz 3 Satz 2 Nummern 1 bis 6. Tatbeendigung, Unterbrechung, Ruhen und zeitliche Anwendbarkeit gesondert prüfen. | Verjährungsvermerk; nicht mit steuerlicher Festsetzungsverjährung verwechseln. |
 | 14 | Mandantenbelehrung | Vor Geständnis/Verständigung schriftliche Belehrung über § 257c Abs. 5 StPO; Risiken | Dokumentation |
 | 15 | Abschluss und Dokumentation | Ergebnis; Zahlungsnachweis; Einstellungsbeschluss; Akte schließen | Mandatsabschluss |
 

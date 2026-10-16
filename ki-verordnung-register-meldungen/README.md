@@ -40,11 +40,15 @@ This test case file was generated with AI and is an experiment. Use at your own 
 - [Fuldatal Sozialhilfe und Registerwechsel](../testakten/ki-register-fuldatal-sozialhilfe/README.md)
 - [Mainbogen Notruf und gestaffelte Vorfallkenntnis](../testakten/ki-meldung-mainbogen-notruf/README.md)
 
-## 9. PDF-Lesefassungen und Prüfbericht
+<a id="9-pdf-lesefassungen-und-prüfbericht"></a>
+
+## 1.5. PDF-Lesefassungen und Prüfbericht
 
 [Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-register-meldungen-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-register-meldungen-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
-## 10. Textfassungen
+<a id="10-textfassungen"></a>
+
+## 1.6. Textfassungen
 
 [ki-verordnung-register-meldungen: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-werkstatt.txt) · [ki-verordnung-register-meldungen: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-schnellstart.txt) · [ki-verordnung-register-meldungen: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-register-meldungen/ki-verordnung-register-meldungen-hauptproblem.txt)
 
@@ -52,7 +56,9 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsreleas
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 11. Neue vollständige Übungsakten
+<a id="11-neue-vollständige-übungsakten"></a>
+
+## 1.7. Neue vollständige Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

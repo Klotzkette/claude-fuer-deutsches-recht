@@ -5,7 +5,7 @@
 
 Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung.
 
-Dieses Plugin gehört zum Marketplace mit 291 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -123,6 +123,8 @@ Die Fälle haben jeweils E-Mails mit echten Datei-Anhängen, PDF-Belege, bearbei
 | [Würzburg: Kaufpreis im Notariat](../testakten/aml-notariat-kaufpreis-wuerzburg/README.md) | Eigentumsumschreibung wird verlangt | Bankabgänge, Drittzahlerin und widersprüchliche angebliche Barquittung |
 
 ## 6. Quellen und Prüfgrenzen
+
+Punktuelle Aktualitätsprüfung am 16.10.2026: [Artikel 90 VO (EU) 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/eng/pdf), amtlich indexierte Anwendungsvorschrift gelesen. Grundsätzlich gilt der 10.07.2027, für die Verpflichteten nach Artikel 3 Nummer 3 Buchstaben n und o der 10.07.2029. Der direkte Volltextabruf war zugangsbeschränkt. Dies erneuert weder die Prüfung der GwGMeldV noch die unten dokumentierten Sanktionsentscheidungen.
 
 Rechtsstand der Erstellung: **08.10.2026**. Die Quellenreferenzen dokumentieren tatsächlich gelesene amtliche Normtexte und gerichtliche Randnummern: [Organisation, KYC und Sanktionen](references/organisation-quellen.md) sowie [Meldung, Immobilien und Notariat](references/meldung-notariat-quellen.md). Darunter sind die EuGH-Entscheidungen vom 12.03.2026, C-84/24, und vom 21.05.2026, C-483/23, zur Sanktionskontrolle. Ihre Reichweite wird ausdrücklich von der Ermittlung wirtschaftlich Berechtigter nach dem GwG getrennt.
 

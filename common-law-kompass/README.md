@@ -5,7 +5,7 @@
 
 Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`common-law-kompass-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=common-law-kompass/common-law-kompass-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -119,6 +119,8 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - `assets/templates/uk-us-drafting-styleguide.md`
 
 ## Offizielle Startquellen
+
+Gezielter Abgleich vom 16.10.2026 für die Mandantenübersicht: [Paragraf 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html) und [Paragraf 144 ZPO](https://www.gesetze-im-internet.de/zpo/__144.html) betreffen gerichtliche Vorlage- und Beweisanordnungen, keine allgemeine vorprozessuale Discovery. Im [amtlichen FRCP-Text vom 01.12.2025](https://www.uscourts.gov/sites/default/files/document/federal-rules-of-civil-procedure.pdf) wurden Rule 26(d) und Rule 27(a) gelesen: Discovery im anhängigen Bundesprozess vor dem Trial ist von begrenzter Beweissicherung vor Klage zu unterscheiden. Das ist keine US-Vollrecherche; einzelstaatliches Recht, englische Disclosure-Regeln und andere Vergleichsbegriffe wurden nicht neu verifiziert.
 
 - UK Supreme Court
 - Arnold v Britton, UKSC contract interpretation

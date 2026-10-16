@@ -8,12 +8,14 @@ Diese Anleitung führt ohne Umweg zum ersten verwertbaren Arbeitsprodukt. Für e
 
 | Bedarf | Weg | Zeit bis zum Start |
 | --- | --- | --- |
-| Ein Rechtsgebiet, dauerhaft nutzbar | einzelnes Plugin-ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) | wenige Minuten |
-| Viele Rechtsgebiete in einer Organisation | Marketplace aus einer privaten oder internen Spiegelung dieses Repositorys synchronisieren | einmalige Einrichtung |
+| Ein Rechtsgebiet, dauerhaft nutzbar | Einzel-ZIP über die Plugin-README oder den [Download-Index](./ASSET_INDEX.md) wählen | wenige Minuten |
+| Viele Rechtsgebiete in einer Organisation | den für die Anwendung vorgesehenen Marketplace-Import verwenden, siehe Abschnitt 4 | einmalige Einrichtung |
 | Sofort arbeiten, nichts installieren | Schnellstart-Markdown aus der README des gewünschten Plugins laden | sofort |
 | Umfangreicher oder mehrstufiger Vorgang | Werkstatt-Markdown des gewünschten Plugins laden | sofort |
 
 Der [Plugin-Katalog](./README.md#was-ist-drin) führt zu jeder Plugin-README. Dort stehen der Plugin-Download, die vorgesehenen eigenständigen Prompts, der Einstieg und gegebenenfalls passende Testakten. [beA-Versand](./bea-versand/README.md) hat bewusst nur die Werkstatt, keinen separaten Mini-Prompt.
+
+Die folgenden ZIP-Schritte gelten für Cowork. Für ChatGPT gelten die [gesonderten Importwege](./README.md#chatgpt-und-die-chatgpt-app). Die Sammelarchive sind ein festgehaltener Veröffentlichungsstand; später ergänzte oder überarbeitete Einzelpakete können in eigenen Releases liegen. Deshalb den Download des konkreten Plugins wählen, nicht auf der allgemeinen Release-Seite nach einem fehlenden ZIP suchen.
 
 ## 2. Sofort ohne Installation arbeiten
 
@@ -28,7 +30,7 @@ Für einen Folgewunsch genügt die gewünschte Änderung, etwa „Rechne zusätz
 
 ## 3. Ein einzelnes Plugin installieren
 
-1. Den [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) öffnen.
+1. Das Plugin im [Download-Index](./ASSET_INDEX.md) oder im [Plugin-Katalog](./README.md#was-ist-drin) öffnen.
 2. Das gewünschte `<plugin>.zip` laden, beispielsweise `liquiditaetsplanung.zip`.
 3. In der Anwendung **Customize → Plugins** öffnen und das eigene Plugin-ZIP hochladen. In Cowork zuerst den Cowork-Bereich öffnen. Die Bezeichnung des Upload-Schalters kann je nach Oberfläche leicht abweichen.
 4. Eine neue Aufgabe öffnen. Den passenden Skill über `/` oder `+` auswählen oder den Auftrag unmittelbar mit dem Arbeitsordner stellen.
@@ -37,13 +39,13 @@ Nicht das Repository-ZIP aus **Code → Download ZIP** verwenden. Das installier
 
 ## 4. Den Marketplace einbinden
 
-Der organisationsweite Marketplace steht Team- und Enterprise-Organisationen zur Verfügung. Cowork und Skills müssen freigeschaltet sein; die Einrichtung erfolgt durch einen Owner unter **Organization settings → Plugins & skills → Marketplaces**.
+In Cowork steht der organisationsweite Marketplace Team- und Enterprise-Organisationen zur Verfügung. Cowork und Skills müssen freigeschaltet sein; die Einrichtung erfolgt durch einen Owner unter **Organization settings → Plugins & skills → Marketplaces**. Die folgenden Spiegelungsregeln betreffen diesen Importweg, nicht den ChatGPT-Workspace-Import.
 
 Für die GitHub-Synchronisierung muss das verbundene Repository derzeit **privat oder intern** sein. Das öffentliche Original kann daher nicht unmittelbar als Organisations-Marketplace verbunden werden. Für den vollständigen Katalog wird sein Inhalt in ein privates oder internes Spiegelrepository übernommen; dort bleibt die relative Struktur aus [`marketplace.json`](./.claude-plugin/marketplace.json) unverändert. Danach den Dialog **Sync from GitHub** öffnen, das Spiegelrepository im Format `owner/repo` angeben und den ersten Sync abwarten.
 
 Der manuelle Organisationsweg lädt einzelne Plugin-ZIPs hoch, nicht `marketplace.json`. Aktuelle Größen- und Mengenlimits sowie Hinweise zur automatischen Aktualisierung stehen zentral in [Installation in einfach, Abschnitt 4](./INSTALLATION_EINFACH.md#4-marketplace-für-eine-organisation). Nach jedem Update den erfolgreichen Sync und die angezeigte Version prüfen; bei Bedarf **Update** in der Marketplace-Verwaltung auslösen.
 
-Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar als Marketplace hinzugefügt werden:
+Im zugehörigen Kommandozeilen-Client kann das öffentliche Repository unmittelbar als Marketplace hinzugefügt werden:
 
 ```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
@@ -51,6 +53,8 @@ Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar als Ma
 ```
 
 Der erste Repository-Sync ist deutlich größer als die Installation eines einzelnen Plugin-ZIPs. Bei nur einem Rechtsgebiet ist deshalb das Einzel-ZIP schneller.
+
+Im ChatGPT-Workspace importiert ein Administrator das öffentliche Repository unter `Admin > Plugins > Add > Import marketplace`; das Pfadfeld bleibt leer. Der erste Import eines großen Repositorys kann laut [Herstelleranleitung](https://learn.chatgpt.com/docs/enterprise/plugin-management) bis zu einer Stunde dauern. Diese Dauer und die dortige Aktualisierungsfunktion sind nicht mit der Cowork-Synchronisierung gleichzusetzen. Einzelheiten und weitere Wege stehen im [Haupt-README](./README.md#chatgpt-und-die-chatgpt-app).
 
 Aktuelle Oberflächen- und Planvorgaben: [Plugins verwenden](https://support.claude.com/en/articles/13837440-use-plugins-in-claude), [Organisations-Marketplaces verwalten](https://support.claude.com/en/articles/13837433-manage-plugins-for-your-organization) und [Skills verwenden](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
@@ -95,8 +99,8 @@ Der erste Antwortblock soll bereits Ergebnisrichtung, Fundstelle, Frist oder Ris
 | Plugin erscheint nach dem Upload nicht | neue Aufgabe öffnen, Pluginverwaltung neu laden und prüfen, ob wirklich das Einzel-ZIP gewählt wurde |
 | ZIP wurde automatisch entpackt | die ZIP erneut laden und das automatische Öffnen von Downloads vorübergehend ausschalten |
 | Skill wird nicht vorgeschlagen | Plugin aktivieren und den Skill einmal über `/` oder `+` wählen |
-| Öffentliches Repository wird beim Organisations-Sync abgelehnt | privates oder internes Spiegelrepository verbinden; das öffentliche Original ist nur der Quellstand |
-| Marketplace-Sync dauert lange | bis zu 30 Minuten abwarten; für den sofortigen Start ein einzelnes Plugin-ZIP oder den Schnellstart verwenden |
+| Öffentliches Repository wird beim Cowork-Organisations-Sync abgelehnt | privates oder internes Spiegelrepository verbinden; beim ChatGPT-Workspace-Import ist dieser Spiegel nicht erforderlich |
+| Marketplace-Sync dauert lange | Anwendung und Importbericht prüfen: Cowork nennt 30 Minuten als Timeout, ChatGPT bis zu einer Stunde für den Erstimport; für den sofortigen Start einen eigenständigen Prompt verwenden |
 | Lauf mit Microsoft 365 bleibt bei der Suche lange offen | Ablageort, Zeitraum, Absender, Dateityp und Suchbegriff eingrenzen; zuerst höchstens 20 Treffer und fünf Kerndokumente öffnen |
 | Antwort wird nach mehreren Schritten langsamer | neue Aufgabe mit dem bisherigen Ergebnisstand beginnen und nur die benötigten Plugins aktiv lassen |
 | Antwort fragt vorhandene Angaben erneut ab | auf den Arbeitsordner verweisen und „Dateien zuerst, dann Erstprodukt“ ergänzen |

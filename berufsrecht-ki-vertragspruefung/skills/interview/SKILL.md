@@ -23,7 +23,7 @@ Welche Berufsgruppe nutzt das Tool?
 - Steuerberater oder Steuerbevollmächtigter — Norm: § 62a StBerG i.V.m. § 57 Abs. 1 StBerG und § 203 Abs. 1 Nr. 3 StGB
 - Wirtschaftsprüfer oder vereidigter Buchprüfer — Norm: § 50a WPO i.V.m. § 43 WPO und § 203 Abs. 1 Nr. 3 StGB (bei Wirtschaftsprüfungsgesellschaft zusätzlich § 59c WPO)
 - Patentanwalt — Norm: § 39c PAO i.V.m. § 39a Abs. 2 PAO und § 203 Abs. 1 Nr. 3 StGB
-- Notar — Norm: § 26a BNotO i.V.m. § 18 BNotO und § 203 Abs. 1 Nr. 1 StGB
+- Notar — Norm: § 26a BNotO i.V.m. § 18 BNotO und Paragraf 203 Absatz 1 Nummer 3 StGB
 
 Sind mehrere Berufsgruppen in einer Sozietät gemischt vertreten (Anwalts-Steuerberater-Gesellschaft, multidisziplinäre Praxis), gelten die strengsten Anforderungen kumulativ. Beim Notar besonders auf § 26a Abs. 4 BNotO achten — bei Dienstleistungen für ein einzelnes Amtsgeschäft ist die Einwilligung des Beteiligten erforderlich.
 

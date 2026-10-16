@@ -5,7 +5,7 @@
 
 Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB Paragrafen 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`vertragsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vertragsrecht/vertragsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [8 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -75,7 +75,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
-Arbeitsabläufe für innerbetriebliche Rechtsabteilungen und Kanzleien im deutschen Vertragsrecht: Lieferanten- und Dienstleisterverträge, NDA-/Geheimhaltungsvereinbarungen, SaaS-/MSA-Prüfungen, Vertragsfristen-Tracking, Eskalationssteuerung und mandantengerechte Zusammenfassungen. Das Plugin erlernt den **eigenen Vorgehensleitfaden** der Rechtsabteilung durch ein einmaliges Ersteinrichtungs-Interview – keine Standardlösung von der Stange.
+Arbeitsabläufe für innerbetriebliche Rechtsabteilungen und Kanzleien im deutschen Vertragsrecht: Lieferanten- und Dienstleisterverträge, NDA-/Geheimhaltungsvereinbarungen, SaaS-/MSA-Prüfungen, Vertragsfristen-Tracking, Eskalationssteuerung und mandantengerechte Zusammenfassungen. Ein vorhandener Vorgehensleitfaden wird berücksichtigt; seine Einrichtung ist optional und keine Voraussetzung für die Prüfung eines vorgelegten Vertrags.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und abgestuft – keine abschließende Rechtsberatung.** Das Plugin liest die Dokumente, wendet den Vorgehensleitfaden an, identifiziert Abweichungen und erstellt das Prüfvermerk. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Quellen werden nach Herkunft gekennzeichnet, damit der Prüfer weiß, welche Zitate aus einem Recherche-Tool stammen und welche zu prüfen sind. Vertraulichkeitshinweise werden konservativ gesetzt, damit keine unbeabsichtigte Preisgabe erfolgt. Folgenreiche Handlungen – Einreichung, Versand, Unterzeichnung – stehen unter ausdrücklichem Bestätigungsvorbehalt.
 
@@ -90,9 +90,9 @@ Arbeitsabläufe für innerbetriebliche Rechtsabteilungen und Kanzleien im deutsc
 
 ## Erste Nutzung: das Ersteinrichtungs-Interview
 
-Bei der ersten Nutzung führt das Plugin ein ca. zehnminütiges Gespräch, um zu erfahren, wie die Rechtsabteilung tatsächlich arbeitet. Es fragt nach den Positionen im Vorgehensleitfaden, Eskalationsregeln und den typischen Problemen im Tagesgeschäft. Anschließend werden 5–10 bereits unterzeichnete Verträge erbeten (mehr ist besser; 20 Verträge ergeben ein klareres Muster), um die eigenen Positionen in der Praxis zu erkennen.
+Bei einem konkreten Auftrag liest das Plugin zuerst Vertrag, Nachträge und verfügbare Vorgaben und fragt nur nach entscheidenden Lücken. Wer zusätzlich einen dauerhaften Vorgehensleitfaden aufbauen möchte, kann mit `kaltstart-interview` die eigenen Positionen und Eskalationsregeln festhalten. Dafür genügen gezielt ausgewählte, erforderliche und berechtigt bereitgestellte Beispiele; eine Sammlung von fünf bis zwanzig Mandatsverträgen ist keine Startbedingung.
 
-Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` gespeichert – ein Klartextdokument über die Rechtsabteilung, das jede Funktion liest, bevor sie tätig wird. Das Dokument wird direkt bearbeitet, keine Konfigurationsdatei.
+Eine ausdrücklich gewünschte dauerhafte Ablage kann bei vorhandenem Schreibzugriff in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` erfolgen. Ohne Zugriff liefert das Plugin den Leitfaden als Text und verwendet die verfügbaren Vorgaben im laufenden Auftrag; es behauptet weder eine Speicherung noch die automatische Verfügbarkeit in späteren Sitzungen.
 
 ```
 /vertragsrecht:kaltstart-interview
@@ -118,9 +118,9 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 |---|---|
 | **ersteinrichtung** | Interview, das `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` schreibt |
 | **lieferantenvertrag-prüfung** | Vollständige Abweichungsanalyse gegen den Vorgehensleitfaden mit Klausel-Redlines (§§ 631, 611 BGB; LkSG) |
-| **nda-prüfung** | Schnelle GRÜN/GELB/ROT-Triage (§§ 17 ff. GeschGehG, § 241 II BGB) |
+| **nda-prüfung** | Geheimnisbegriff und Schutzmaßnahmen nach Paragraf 2 sowie Nutzungs- und Offenlegungsverbote nach Paragraf 4 GeschGehG; vertragliche Pflichten gesondert prüfen. |
 | **saas-msa-prüfung** | SaaS-/MSA-spezifische Prüfung: AGB, Datenschutz Art. 28 DSGVO, Haftung, Preiseskalation |
-| **vertragsverlängerungs-monitor** | Register der Kündigungsfristen; zeigt Fristen gemäß § 309 Nr. 9 BGB |
+| **vertragsverlängerungs-monitor** | Vertragliche Fristen erfassen und AGB-Kontrolle trennen: Paragraf 309 Nummer 9 BGB im einschlägigen Verbrauchervertrag; im Unternehmerverkehr Paragrafen 307 und 310 Absatz 1 BGB, keine automatische Übertragung. |
 | **eskalation** | Eskalationsmatrix aus dem Vorgehensleitfaden, Vorlage für Genehmigungsanfrage |
 | **stakeholder-zusammenfassung** | Zweisprachige Nicht-Juristen-Fassung eines Rechtsgutachtens |
 | **änderungs-historie** | Änderungen über Basisvertrag und Nachträge zusammenfassen oder Klausel zurückverfolgen |
@@ -128,7 +128,7 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 
 ## Befehle vs. terminierte Agenten
 
-Die obigen Befehle werden auf Abruf ausgeführt – für die aktive Bearbeitung eines Vorgangs. Die Agenten laufen planmäßig im Hintergrund.
+Die obigen Befehle bearbeiten einen Vorgang auf Abruf. Die folgenden Takte sind Einrichtungsvorschläge: Hintergrundläufe setzen eine verfügbare Terminierungsfunktion und einen ausdrücklichen Auftrag voraus. Die Plugin-Installation allein richtet keine Überwachung ein; ohne Terminierung ist der jeweilige Prüflauf manuell auszulösen.
 
 | Agent | Beobachtet | Standard-Takt |
 |---|---|---|

@@ -1,4 +1,19 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Kaltstartzwang beseitigt; Befehl, Personalentscheidung und Disziplinarakte bestimmen zuerst den passenden Beschwerde- oder Verfahrensweg.",
+    "files": [
+      {
+        "path": "bundeswehrrecht-wehrrecht/README.md",
+        "sha256": "5afce6646da1b3f0e0dfad99a05b8b6b7e0d3a98ce6daa392077da1ad66cf05f"
+      }
+    ],
+    "primary_sources_read": [],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

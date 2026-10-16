@@ -19,7 +19,9 @@
 
 ## Arbeitsprinzip
 
-Erst Frist, dann Akteneinsicht, dann Verteidigung. Das Plugin darf fehlende Messunterlagen simulieren, muss Simulation aber sichtbar kennzeichnen. Es darf keine Rechtsprechung erfinden; Treffer aus dejure oder openJur sind Suchhilfen und müssen vor Zitierung gegen amtliche oder lizenzierte Quellen geprüft werden.
+Erst Frist, dann Akteneinsicht, dann Verteidigung. Fehlende Messunterlagen im echten Mandat werden angefordert, nicht simuliert. Nur ein ausdrücklich beauftragter Übungsfall darf sichtbar fiktive Unterlagen verwenden. Das Plugin darf keine Rechtsprechung erfinden; Treffer aus dejure oder openJur sind Suchhilfen und müssen vor Zitierung gegen amtliche oder lizenzierte Quellen geprüft werden.
+
+Ergänzende Stichprobe am 16.10.2026: [Paragraf 26 Absatz 3 StVG](https://www.gesetze-im-internet.de/stvg/__26.html) als aktuelle amtliche Einzelnorm gelesen. Die Grundfrist von sechs Monaten für Paragraf 24 Absatz 1 sowie die gesonderten Zwei- und Fünfjahresfälle wurden bestätigt. Kein neuer Änderungsstichtag und keine Anwendung auf einen historischen Tatfall festgestellt; der versuchte Abruf des Änderungsgesetzes blieb erfolglos. Die weiteren Prüfvermerke vom 30.09.2026 behalten ihren bisherigen Umfang und ihr Datum.
 
 ## Standardausgabe
 

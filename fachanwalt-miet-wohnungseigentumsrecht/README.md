@@ -5,7 +5,7 @@
 
 Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit 253 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG, Beweise, Fristen und Workflows.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md" download>fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -82,10 +82,7 @@ Wenn du das hier öffnest, willst du eine fristlose Kündigung wegen Zahlungsver
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
-Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
-Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
-klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
+Mietvertrag, Kündigung, Abrechnung oder Versammlungsprotokoll werden vor Rückfragen gelesen. Mietrechtliche Ansprüche und WEG-Beschlussklagen bleiben getrennte Bearbeitungswege. Bei klarem Auftrag entsteht direkt das verlangte Schreiben oder der Klageentwurf; nur entscheidende Lücken etwa zu Zugang, Beschlussdatum oder Abrechnungsgrundlage werden geklärt und anschließend gezielt eingearbeitet.
 
 - Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
 - Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
@@ -109,9 +106,11 @@ Plugin Fachanwalt für Miet- und Wohnungseigentumsrecht nach FAO § 14e, jetzt a
 | `fachanwalt-miet-wohnungseigentumsrecht-orientierung` | Orientierung im Miet- und WEG-Recht. FAO § 14e Voraussetzungen Normen typische Mandate Fristen Quellenprüfung. |
 | `fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung` | Mieterhöhung bis zur ortsüblichen Vergleichsmiete §§ 558 ff. BGB. Mietspiegel Kappungsgrenze Modernisierungsumlage § 559. |
 | `fachanwalt-miet-wohnungseigentumsrecht-kuendigung` | Kündigung Wohnraummietverhältnis ordentlich § 573 außerordentlich §§ 543 569 BGB. Eigenbedarf Zahlungsverzug. |
-| `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Beschlussanfechtung in der WEG-Versammlung § 44 WEG. Monatsfrist Anfechtungs- und Nichtigkeitsgründe. |
+| `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Beschlussklagen nach Paragraf 44 WEG. Für die Anfechtung gelten nach Paragraf 45 WEG ein Monat zur Klageerhebung und zwei Monate zur Begründung ab Beschlussfassung; nicht mit der Nichtigkeitsklage gleichsetzen. |
 
 ## Zitierweise
+
+Am 16.10.2026 wurden [Paragrafen 44 und 45 WEG im amtlichen Gesetzestext](https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html) gezielt gelesen. Die Einmonatsfrist für die Erhebung und Zweimonatsfrist für die Begründung betreffen die Anfechtungsklage und beginnen mit der Beschlussfassung. Sie dürfen nicht pauschal auf die Nichtigkeitsklage übertragen werden. Dieser Abgleich verifiziert keine weiteren miet- oder wohnungseigentumsrechtlichen Entscheidungen neu.
 
 Folgt `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie Bundesgerichte vor Instanzgerichten).
 

@@ -2,7 +2,9 @@
 
 [Repository-Start](../README.md) · [Alle Skills](../SKILLS.md) · [Skill-Detailseite](../skills-index/ki-verordnung-hochrisiko-pruefer.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
 
-Version 445.35.2, Rechtsabgleich vom 9. Oktober 2026. Zehn Fachskills und ein elfter Hauptproblem-Skill prüfen die konkrete Funktion einer KI nach Artikel 6. Der vorhandene Recruiting-Schwerpunkt bleibt erhalten; Justizassistenz und Medizinprodukt ergänzen ihn um zwei eigenständige Fallakten.
+Ist die konkret eingesetzte KI hochriskant, und welche Belege tragen diese Einstufung? Das Plugin prüft Artikel 6 nach Funktion, Zweckbestimmung und tatsächlicher Nutzung und erstellt den beauftragten Einstufungsvermerk, das Anbieteranschreiben oder die Einführungsvorlage. Es richtet sich an Verantwortliche für Beschaffung, Betrieb und rechtliche Prüfung, unter anderem bei Recruiting, Justizassistenz und Medizinprodukten.
+
+Version 445.35.2, dokumentierter Rechtsabgleich vom 9. Oktober 2026. Zehn Fachskills und ein Hauptproblem-Skill führen durch die jeweiligen Prüfwege.
 
 ## 2 Einstieg und Arbeitsweise
 
@@ -42,6 +44,8 @@ Mini und Hauptproblem passen jeweils in 7.500 UTF-8-Bytes. Alle drei MD/TXT-Paar
 
 ## 5 Fachlicher Stand und konkrete Grenzen
 
+Begrenzter Aktualitätsabgleich vom 16.10.2026: Die amtliche [Kommissionsmitteilung zum Inkrafttreten des AI Omnibus](https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force) bestätigt die Zeitachsen 2. Dezember 2027 für Anhang III und 2. August 2028 für den Produktpfad. Sie ersetzt nicht die genaue Reichweite des geänderten Artikels 113. Der erneute EUR-Lex-Volltextabruf war wegen einer technischen Zugriffssperre nicht auswertbar; der nachfolgend dokumentierte Volltextstand vom 9. Oktober wird deshalb nicht pauschal neu datiert.
+
 Gelesen wurden die amtliche konsolidierte KI-Verordnung in der Fassung vom 27. Juli 2026 und die deutsche Berichtigung vom 29. September 2026. Artikel 6 Absatz 1b gilt **ungeachtet** des Absatzes 1a: Eine bloße Bezeichnung als Komfortfunktion entkräftet mögliche gesundheits- oder sicherheitsgefährdende Ausfallfolgen nicht. Die vier Alternativen des Absatzes 3 betreffen den Anhang-III-Pfad; sie befreien keinen Produktpfad nach Absatz 1. Profiling natürlicher Personen sperrt die Ausnahme innerhalb des Anhang-III-Pfads.
 
 Die Registrierung der dokumentierten Ausnahme nach Artikel 6 Absatz 4 und Artikel 49 Absatz 2 ist vereinfacht, nicht abgeschafft. Artikel 113 verschiebt die bezeichneten Abschnitte 1 bis 3 des Kapitels III, nicht pauschal jeden Artikel der Verordnung. Die konkrete Verzahnung mit Bestandsschutz, Konformität, Registrierung und Meldung muss begründet werden. [Quellen, Rechtsstand und Reichweite](references/rechtsstand-und-quellen.md) sowie [vollständiger Einstufungskatalog](references/artikel-6-und-anhang-iii.md) erläutern dies.
@@ -66,7 +70,9 @@ This test case file was generated with AI and is an experiment. Use at your own 
 
 Das [Prüfprofil](../quality/evals/ki-verordnung-hochrisiko-pruefer.json) enthält positive und negative Einstufungsfälle, Dokumentaufträge und getrennte Bewertungskriterien. Der [Fach- und Dateiprüfbericht](../quality/ki-verordnung-2026-10-09/hochrisiko/README.md) dokumentiert Quellenlesung, Hashes, native Dateiprüfung und visuelle Kontrolle. Redaktionelle Prüfung und lokale Regressionen sind keine Aussage über eine erfolgreiche Live-Ausführung in einem bestimmten Client. Nur tatsächlich verfügbare Werkzeuge verwenden und keine Freigabe, Zertifizierung oder Registrierung behaupten, die nicht erfolgt ist.
 
-## 9. PDF-Lesefassungen und Prüfbericht
+<a id="9-pdf-lesefassungen-und-prüfbericht"></a>
+
+## 8. PDF-Lesefassungen und Prüfbericht
 
 [Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-hochrisiko-pruefer-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
@@ -74,7 +80,9 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsreleas
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 10. Neue vollständige Übungsakten
+<a id="10-neue-vollständige-übungsakten"></a>
+
+## 9. Neue vollständige Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

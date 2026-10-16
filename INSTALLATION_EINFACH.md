@@ -8,13 +8,15 @@ Der robusteste Weg für einen einzelnen Nutzer ist: **ein Plugin-ZIP laden, in d
 
 ## 1. Einzelnes Plugin installieren
 
-1. Den [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) öffnen.
+1. Das Plugin im [Download-Index](./ASSET_INDEX.md) oder im [Plugin-Katalog](./README.md#was-ist-drin) öffnen.
 2. Das gewünschte Einzel-ZIP laden, beispielsweise `fachanwalt-sozialrecht.zip`, `rentenpruefer.zip` oder `schriftsatz-versandwerkstatt.zip`.
 3. In der Anwendung **Customize → Plugins** öffnen.
 4. **Plugin hochladen**, **Upload plugin** oder den entsprechenden Plus-Schalter wählen und das ZIP auswählen.
 5. Nach erfolgreichem Upload eine neue Aufgabe öffnen und den Skill über `/` oder `+` auswählen.
 
 Die Schalterbezeichnung kann je nach Oberfläche abweichen. Entscheidend ist der Dialog für ein eigenes Plugin-ZIP, nicht der Dialog für einen Repository- oder Marketplace-Pfad.
+
+Die Plugin-Seite verlinkt das zugehörige Release-Paket. Das allgemeine Sammelrelease enthält nicht zwingend später ergänzte Plugins oder deren neueste Fassung. Fehlt dort ein Name, nicht das Repository-ZIP als Ersatz installieren, sondern den Download-Index verwenden.
 
 ## 2. Diese Dateien haben einen anderen Zweck
 
@@ -36,7 +38,7 @@ Ein korrektes Plugin-ZIP enthält `.claude-plugin/plugin.json` und `skills/` dir
 2. Prüfen, ob die Datei vollständig lokal liegt. Bei einem Cloud-Platzhalter zuerst den Download abschließen.
 3. Sicherstellen, dass der Dateiname nicht versehentlich auf `.zip.zip` endet.
 4. Das Einzel-ZIP statt `alle-plugins-megazip.zip` auswählen.
-5. Die Datei gegebenenfalls erneut aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) laden.
+5. Die Datei gegebenenfalls erneut über den Plugin-Eintrag im [Download-Index](./ASSET_INDEX.md) laden.
 
 Wer den Inhalt technisch prüfen möchte, kann ausführen:
 
@@ -49,7 +51,7 @@ Die Auflistung muss `.claude-plugin/plugin.json` und einen `skills/`-Ordner zeig
 
 ## 4. Marketplace für eine Organisation
 
-Der Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins & skills → Marketplaces** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein. Quellenstand für Oberfläche und Grenzen: 30. September 2026; maßgeblich bleibt die unten verlinkte Herstellerhilfe.
+Der Cowork-Organisations-Marketplace ist für Team und Enterprise vorgesehen und wird von einem Owner unter **Organization settings → Plugins & skills → Marketplaces** eingerichtet. Vorher müssen Cowork und Skills für die Organisation aktiviert sein. Quellenstand für diesen Organisationsimport und seine Grenzen: 16. Oktober 2026; maßgeblich bleibt die unten verlinkte Herstellerhilfe.
 
 Die GitHub-Synchronisierung akzeptiert derzeit nur private oder interne Repositorys. Deshalb den aktuellen Inhalt dieses öffentlichen Projekts zuerst in ein privates oder internes Spiegelrepository der Organisation übernehmen. Anschließend **Add → Sync from GitHub** wählen, das Spiegelrepository als `owner/repo` eintragen und den ersten Sync abwarten. Die Claude GitHub App muss auf dieses Repository zugreifen können. Die relative Plugin-Struktur und die Datei [`marketplace.json`](./.claude-plugin/marketplace.json) bleiben dabei unverändert.
 
@@ -104,7 +106,7 @@ Die Treffer- und Dokumentzahlen sind ein Budget für die erste Sichtung, keine G
 
 | Symptom | Ursache | Lösung |
 | --- | --- | --- |
-| Upload wird sofort abgelehnt | falsches ZIP oder Repository-ZIP | Einzel-ZIP aus dem Release laden |
+| Upload wird sofort abgelehnt | falsches ZIP oder Repository-ZIP | Einzel-ZIP über die Plugin-Seite im Download-Index laden |
 | Im Auswahldialog liegt nur ein Ordner | ZIP wurde automatisch entpackt | ZIP erneut laden und automatisches Öffnen ausschalten |
 | Plugin ist installiert, Skill fehlt | alte Aufgabe oder Plugin nicht aktiv | neue Aufgabe öffnen und Aktivierung prüfen |
 | Öffentliches Repository wird abgelehnt | Organisations-Sync verlangt ein privates oder internes Repository | privaten oder internen Spiegel verbinden |

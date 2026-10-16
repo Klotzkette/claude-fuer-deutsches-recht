@@ -155,14 +155,12 @@ description: "Für Planerhaltung — Paragraf 214/215 BauGB: ordnet Norm, Beweis
 - BVerwG, Urteil vom 9.4.2008 – 4 CN 1.07 (Abwägungsvorgang)
 - BVerwG, Urteil vom 27.10.1999 – 11 A 31.98 (Offensichtlichkeit)
 
-## Aktuelle Rechtsprechung (Stand 05/2026, verifiziert bverwg.de)
+## Ergänzende Rechtsprechungshinweise (bisheriger Stand 05/2026)
 
 - BVerwG 23.06.2020, 9 A 22.19 — Klimaschutz als Abwaegungsbelang; uebertragbar auf Bauleitplanung (bverwg.de)
-- BVerwG 11.04.2024, 4 BN 50.23 — Klimaschutz § 1 Abs. 5 S. 2 BauGB Abwaegungsmaengel (bverwg.de)
-- BVerwG 04.05.2022, 4 CN 2.21 — Konzentrationszonen-Planung Wind/Solar (bverwg.de)
 - BVerwG 17.06.2020, 4 CN 6.18 — Bekanntmachung B-Plan und Anstossfunktion (bverwg.de)
 
-Weitere Aktenzeichen vor Ausgabe per bverwg.de und OVG/VGH-Datenbanken verifizieren.
+Die verbleibenden Zuordnungen wurden bei der gezielten Gegenprüfung am 16.10.2026 nicht neu verifiziert. Konkrete Entscheidungen vor Verwendung im amtlichen Volltext prüfen.
 
 ## Paragrafenkette Planerhaltung
 

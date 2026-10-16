@@ -5,7 +5,7 @@
 
 DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`datenschutzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=datenschutzrecht/datenschutzrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [19 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -91,7 +91,7 @@ English: The updated workflows distinguish enacted law, future application dates
 Wenn du das hier öffnest, willst du einen Datenschutzverstoss bewerten und die richtige Reaktion gegenüber Aufsicht und Betroffenen aufsetzen.
 Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte: AVV-Prüfung, Betroffenenauskunft, Datenschutz-Folgenabschätzung, Drittlandstransfer-Prüfung, US-Transfer mit DPF/SCC/TIA, Behördenpaket, regulatorische Lückenanalyse und Richtlinien-Monitoring. Vollständig ausgerichtet auf DSGVO, BDSG, TDDDG und KUG. Entwickelt für deutsche und EU-ansässige Verantwortliche und Auftragsverarbeiter.
 
-**Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, gekennzeichnet und freigabepflichtig, keine abschließende Rechtsauskunft.** Das Plugin übernimmt die Arbeit: es liest Dokumente, wendet Ihr Praxisprofil an, findet Schwachstellen und verfasst Memos. Der Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Herkunft gekennzeichnet (Modellwissen vs. abgerufen). Mandatsgeheimnisschutz (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gehandhabt. Folgenreiche Maßnahmen – Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben, Vertragsunterzeichnung – werden erst nach ausdrücklicher Bestätigung durchgeführt.
+Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung, keine abschließende Rechtsauskunft. Das Plugin liest Dokumente, berücksichtigt ein vorhandenes Praxisprofil, findet Schwachstellen und verfasst das beauftragte Arbeitsprodukt. Der Anwalt prüft, verifiziert und entscheidet. Tatsächlich abgerufene Quellen und noch offene Recherchepunkte werden getrennt; Modellwissen allein trägt kein Entscheidungszitat. Mandatsgeheimnisschutz nach Paragraf 43a Absatz 2 BRAO und Paragraf 203 StGB wird konservativ gehandhabt. Folgenreiche Maßnahmen wie Übermittlung an Aufsichtsbehörden, Versand von Betroffenenschreiben oder Vertragsunterzeichnung werden erst nach ausdrücklicher Bestätigung durchgeführt.
 
 ## Zielgruppe
 
@@ -103,9 +103,9 @@ Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte:
 | **Produktverantwortliche / Entwickler** | DSFA-Einstieg, Rechtsgrundlagen-Triage, Einwilligungsgestaltung |
 | **Sachbearbeitung / Support** | Betroffenenanfragen-Erstbearbeitung (mit Eskalation) |
 
-## Ersteinrichtung: Kaltstart-Interview
+## Optionales Praxisprofil
 
-Das Plugin befragt Sie zur Identifikation Ihrer Organisation: Verantwortlicher oder Auftragsverarbeiter? Welche Verarbeitungstätigkeiten? Zuständige Aufsichtsbehörde (BfDI oder zuständiger LfDI)? Interner oder externer DSB? Anschließend liest es drei Ausgangsdokumente – Datenschutzerklärung, AVV-Vorlage, eine abgeschlossene DSFA – und erlernt Ihre Positionen und Ihren Kanzleistil.
+Ein konkreter Prüf- oder Schreibauftrag kann ohne Ersteinrichtung beginnen. Das Plugin liest zunächst die vorhandenen Unterlagen und fragt nur nach entscheidenden Lücken, etwa zur Rolle als Verantwortlicher oder Auftragsverarbeiter. Für wiederkehrende Mandate kann zusätzlich ein Praxisprofil aus verfügbaren Mustern und ausdrücklich bestätigten Vorgaben eingerichtet werden. Datenschutzerklärung, AVV-Vorlage und eine vorhandene DSFA sind mögliche Grundlagen, keine drei Pflichtdokumente.
 
 Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` und bleibt bei Plugin-Updates erhalten.
 
@@ -130,7 +130,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 | `/datenschutzrecht:richtlinien-monitor` | Wöchentlicher Drift-Scan der Datenschutzerklärung und Richtlinien |
 | `/datenschutzrecht:mandat-arbeitsbereich` | Mandate verwalten: neu, liste, wechsle, schließe |
 
-## Skills (21)
+## Ausgewählte Fachabläufe
 
 | Skill | Funktion |
 |---|---|
@@ -185,7 +185,7 @@ Ergebnis: Richtung automatisch erkannt, Klausel-für-Klausel-Vergleich mit Ihrem
 
 Ergebnis: Angemessenheitsbeschluss-Check, SCC-Modul-Empfehlung, TIA-Checkliste, Risikoampel.
 
-### 4a. US-Transfer behördenfest dokumentieren
+### 4.1. US-Transfer behördenfest dokumentieren
 
 ```
 /datenschutzrecht:us-transfer-tia-dokumentation "US-SaaS mit Supportzugriff, DPF behauptet"
@@ -257,7 +257,7 @@ datenschutzrecht/
 - **DSFA-Format:** Das Format richtet sich nach Ihrer Referenz-DSFA. Wurde keine angegeben, wird die DSFA-Methodik der Artikel-29-Gruppe / des EDSA genutzt – erneutes Setup mit einer Referenz-DSFA verbessert die Passgenauigkeit.
 - **Lückenanalyse vs. Policy-Monitor:** `regulierungs-luecken-analyse` analysiert eingehende neue Anforderungen (neue EDSA-Leitlinie, Gesetzesänderung). `richtlinien-monitor` überwacht internen Praxis-Drift. Zwei unterschiedliche Werkzeuge für zwei Richtungen der Veränderung.
 - **Drittlandstransfer:** `drittlandstransfer-pruefung` deckt den allgemeinen Prüfpfad nach Kapitel V DSGVO ab. Für US-Fälle vertieft `us-transfer-tia-dokumentation` DPF, Schrems I/II, SCC/BCR und TIA; `standardvertragsklauseln-scc-paket` baut die SCC-Anlagen; `drittlandtransfer-behoerdenpaket-output` macht daraus ein Behördenpaket.
-- **Aufsichtsbehörden:** Das Plugin kennt BfDI (Bundesebene) und alle 16 LfDI (Länderebene). Die zuständige Behörde wird aus der Organisationshauptschaft und dem Verarbeitungskontext bestimmt.
+- Aufsichtsbehörde: Die Zuständigkeit wird anhand der Organisation und des konkreten Verarbeitungskontexts geprüft. Eine pauschale Zuordnung allein nach dem Bundesland reicht nicht; eine ungeprüfte Behördenadresse wird nicht als gesichert ausgegeben.
 - **Zitierweise:** Verbindlich nach `../references/zitierweise.md` (BGH-Stil). Alle normativen Verweise folgen dem dortigen Schema.
 
 ## Changelog

@@ -5,7 +5,7 @@
 
 Staatsanwaltschaft und Amtsanwaltschaft: Ermittlungsführung, Durchsuchung, Haft, Einstellung, Strafbefehl, Anklage, Einziehung, Plädoyer, Rechtsmittel und Vollstreckung.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`staatsanwaltschaft-amtsanwaltschaft-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du einen Vorgang aus Sicht der Staatsanwaltschaft oder Amtsanwaltschaft bearbeiten: Tatverdacht, Ermittlungsmaßnahmen, Verfahrensabschluss, Anklage, Strafbefehl, Einstellung und Sitzungsvertretung.
@@ -91,11 +91,11 @@ Die [vollständige alphabetische Skill-Liste](../../skills-index/staatsanwaltsch
 - **Justiz und alternative Streitbeilegung:** Anhang III Nummer 8 Buchstabe a anhand des vorgesehenen Einsatzes durch oder im Auftrag der zuständigen Stelle subsumieren; anschließend Artikel 6 Absatz 3 prüfen. Interne Bürotätigkeit oder anwaltliche Beratung allein erfüllt diesen Tatbestand nicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Ausnahme nach Artikel 6 Absatz 3:** Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Registrierung und Rollen:** Artikel 6 Absatz 4 und Artikel 49 Absatz 2 richten die Dokumentations- und Registrierungspflicht bei der Ausnahme an Anbieter beziehungsweise gegebenenfalls deren Bevollmächtigte. Öffentliche Betreiber prüfen daneben Artikel 49 Absatz 3. Registrierung in der vorgesehenen Datenbank und Notifizierung einer Konformitätsbewertungsstelle sind unterschiedliche Vorgänge. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
-- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Antragsvorschläge produziert, die Subsumtion vornimmt oder die staatsanwaltschaftliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
+- Konkrete Antragsvorschläge oder eine automatisierte Würdigung erfordern die Prüfung des vorgesehenen Einsatzes anhand der genannten Tatbestände und Ausnahmevoraussetzungen. Weder die Bezeichnung „Unterstützung“ noch das Wort „Subsumtion“ ersetzt diese Einordnung. Eine menschliche Schlussprüfung allein schließt die Hochrisiko-Einstufung nicht aus.
 
-### Art. 22 DSGVO — Verbot ausschliesslich automatisierter Entscheidung
+### Verantwortliche Verfahrensentscheidung
 
-Die staatsanwaltschaftliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine erhebt Anklage, beantragt Haft oder stellt ein.** Diese Skills sind ausschliesslich **Unterstützung** der staatsanwaltschaftlichen Arbeit, niemals deren Ersatz. Der Dezernent prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschläge.
+Dieses Plugin bereitet Anklage, Haftantrag oder Einstellung nur als Entwurf vor. Der zuständige Dezernent prüft die Belege, würdigt den Sachverhalt und entscheidet selbst. Vor der Datenverarbeitung ist das für die konkrete Strafverfolgungsaufgabe geltende Datenschutzregime zu bestimmen; Artikel 22 DSGVO nicht pauschal als Rechtsgrundlage oder vollständigen Prüfmaßstab einsetzen.
 
 ### Objektivitätspflicht
 

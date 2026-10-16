@@ -5,7 +5,7 @@
 
 Word Legal AI for German Lawyers: Kaltstart, Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Redlines, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -89,7 +89,7 @@ Juristisches Drafting ist Handwerk. Es lebt von wiederkehrenden Mustern, saubere
 
 Das Plugin enthält bewusst **keinen** Makro-, VBA- oder Word-Automatisierungs-Skill. Es soll beim Schreiben, Prüfen und Finalisieren helfen, nicht zur Office-Programmierung abbiegen.
 
-Das Plugin verzichtet bewusst auf eine fertige Testakte. Es ist ein Werkzeug zum **Üben, Strukturieren und Generieren** – nicht zum Abarbeiten eines vorgegebenen Mandats.
+Das Plugin arbeitet mit Ihren auftragsbezogenen Dokumenten oder den oben verlinkten Übungsakten. Die Übungen sind optional; ein konkreter Schreibauftrag wird nicht durch ein vorgegebenes Testmandat ersetzt.
 
 ## Adressat
 
@@ -175,7 +175,9 @@ Das Plugin gliedert sich in acht Skill-Blöcke:
 - **Standardstil:** Urteilsstil für operative Klauseln und Schriftsätze; Gutachtenstil ausschließlich in internen Memos und Gutachten.
 - **Sprache:** Deutsch, Sie-Form. Englische Begriffe nur, wenn etabliert (Letter of Intent, Term Sheet, Due Diligence, Discovery) und kurz erklärt.
 - **Quellen:** Belegpflicht nach `references/zitierweise.md`. Keine Präjudizienbindungs-Argumentation. Rechtsprechung mit Gericht, Datum, Aktenzeichen, Fundstelle.
-- **Mandantengeheimnis:** § 43a II BRAO, § 203 StGB. Keine Mandantendaten in Tools ohne Auftragsverarbeitungsvertrag.
+- **Mandantengeheimnis:** Paragraf 43a Absatz 2 BRAO und Paragraf 203 StGB beachten. Dienstleisterzugang nach Paragraf 43e BRAO und Datenschutzrolle getrennt prüfen; ein Auftragsverarbeitungsvertrag ist bei Auftragsverarbeitung erforderlich, aber allein keine Freigabe für Geheimniszugang oder Drittlandtransfer.
+
+Quellenstichprobe 16.10.2026: Der amtlich indexierte [Text von Paragraf 43e BRAO](https://www.gesetze-im-internet.de/brao/BJNR005650959.html#BJNR005650959BJNE017100000) bestätigt die eigenständigen Anforderungen an Erforderlichkeit, Auswahl und vertragliche Verschwiegenheit. Der direkte Einzelnormabruf scheiterte; kein konkreter Anbieter und kein vollständiger Datenschutzfall wurden neu geprüft.
 
 ## Installation
 
@@ -193,7 +195,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 ## Verwendung
 
-Aktivieren Sie das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` in Plugin-Umgebung oder Cowork. Die Skills sind über ihre Namen direkt ansprechbar (zum Beispiel `definitionen-klauseln-stringent`). Beginnen Sie bei diffusen Schreibaufträgen mit `kaltstart-drafting-kommandocenter`; bei bereits erkennbarem Dokumenttyp mit `orientierung-drafting-triage`. Beide Skills leiten in die passenden Spezial-Skills weiter.
+Aktivieren Sie das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` in Plugin-Umgebung oder Cowork. Die Skills sind über ihre Namen direkt ansprechbar (zum Beispiel `definitionen-klauseln-stringent`). Beginnen Sie bei diffusen Schreibaufträgen mit `kaltstart-drafting-kommandocenter`; bei bereits erkennbarem Dokumenttyp mit `orientierung-drafting-partner-kommentar`. Bereits vorliegende Unterlagen werden zuerst ausgewertet; die Fachschritte führen zum bestellten Text, nicht zu einer erneuten allgemeinen Mandatsaufnahme.
 
 ## Lizenz
 

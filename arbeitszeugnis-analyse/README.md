@@ -3,9 +3,9 @@
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
-Analyse deutscher Arbeitszeugnisse nach Ampelsystem. Prüft Geheimcodes, Schaufenster-Drift, negative Codeworte, Steigerungsadverbien, Satznoten und Gesamtnotenspanne. Führt vom Erstgespräch über Mandantenbericht und Aufforderungsschreiben bis zur Klagestrategie.
+Analyse deutscher Arbeitszeugnisse im Gesamtzusammenhang. Prüft Tätigkeitsbild, Leistungs- und Verhaltensaussagen sowie Widersprüche und liefert den beauftragten Bericht oder begründete Ersatzformulierungen. Aufforderungsschreiben und Klagestrategie folgen nur bei entsprechendem Auftrag.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitszeugnis-analyse-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnis-analyse/arbeitszeugnis-analyse-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -69,7 +69,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Wenn du das hier öffnest, willst du ein deutsches Arbeitszeugnis nach dem Ampelsystem decodieren, die versteckte Gesamtnote bestimmen und entscheiden, ob sich ein Berichtigungsverlangen oder eine Zeugnisklage lohnt.
 
-Dieses Plugin analysiert deutsche Arbeitszeugnisse nach dem Ampelsystem (Rot/Orange/Grün). Es decodiert den Geheimcode der deutschen Zeugnissprache, identifiziert notenrelevante Sätze und klassifiziert sie mit vollständiger Interpretation der versteckten Bewertung.
+Dieses Plugin erläutert den Aussagegehalt deutscher Arbeitszeugnisse. Die Ampel kennzeichnet Prüfbedarf, nicht eine verbindliche Note oder eine nachgewiesene verdeckte Absicht. Ungewohnte Wörter, Reihenfolge und Schlussformel werden im Zusammenhang beurteilt; sie erlauben keine automatische Abwertung. Maßgeblich bleibt die im Werkstatt-Prompt erläuterte Gesamtbetrachtung nach BAG, Urteil vom 15.11.2011, 9 AZR 386/10, ohne hier eine neue Quellenprüfung zu behaupten.
 
 Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder verbessern wollen, an Rechtsanwälte, die Zeugnisstreitigkeiten begleiten, und an Personalverantwortliche, die Zeugnisse professionell ausstellen oder prüfen möchten.
 
@@ -79,11 +79,11 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 Das Ampelsystem klassifiziert jeden notenrelevanten Satz in drei Kategorien:
 
-| Ampel | Bedeutung | Notentendenz |
+| Ampel | Bedeutung | Prüfbedarf |
 |---|---|---|
-| **Grün** | Starke positive Formulierung, entspricht dem Geheimcode für Note 1 oder Note 2 | Note 1-2 |
-| **Orange** | Schwache positive Formulierung, Note 3, oft durch fehlende Steigerungsadverbien oder Einschränkungen | Note 3 |
-| **Rot** | Kodierte Negativaussage, entspricht Note 4 oder Note 5, oft scheinbar positiv formuliert | Note 4-5 |
+| Grün | Aussage passt zum Gesamttext und den belegten Aufgaben | Kein konkreter Änderungsbedarf erkannt |
+| Orange | Einschränkung, Lücke oder mehrdeutige Aussage | Kontext und Beurteilungsgrundlage klären |
+| Rot | Konkret begründeter Widerspruch oder Mangel | Passage mit Beleg und Ersatzvorschlag bearbeiten |
 
 Rote Signale entstehen durch: das Wort "bemüht", Einschränkungen wie "im Wesentlichen", fehlende positionsnahe Erwartungsbausteine wie Integritäts- oder Führungsverhalten, falsche Reihenfolge bei Personengruppen in der Verhaltensbeurteilung oder eine auffällig kühle Schlussformel. Bei der Schlussformel ist strikt zu trennen: starke Signalwirkung im Bewerbungsverkehr, aber kein automatischer einklagbarer Anspruch auf Dank, Bedauern und Wünsche.
 
@@ -138,27 +138,27 @@ Bitte analysiere das folgende Arbeitszeugnis und identifiziere alle notenrelevan
 [Zeugnis hier einfügen]
 ```
 
-Für den vollständigen Mandatsablauf empfiehlt sich die Reihenfolge:
+Die folgende Auswahl beschreibt einen umfassenden Prüfauftrag, keinen Pflichtdurchlauf. Zuerst vorhandenes Zeugnis und Auftrag lesen; nur entscheidende Lücken erfragen und Antworten im bestehenden Bericht verarbeiten. Beim einfachen Zeugnis entfallen Leistungsnoten und Verhaltensbewertung. Einzelaufträge enden mit dem bestellten Ergebnis, nicht automatisch mit Aufforderung oder Klage.
 1. `erstgespraech-und-mandatsannahme` — Eingangsbestätigung, Unterlagenanforderung, Erstgespräch
 2. `zeugnis-ueberblick-extraktion` — Kopfdaten prüfen
 3. `zeugnisart-erkennung` — Zeugnistyp bestimmen
 4. `notenrelevante-saetze-identifizieren` — Sätze kategorisieren
 5. `steigerungsadverbien-katalog` — Adverbien tabellieren und Notenwirkung bestimmen
-6. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
+6. `satzweise-notenmatrix` — Aussage je Themenbereich einordnen; Notentendenz nur bei tragfähigem Kontext
 7. `zufriedenheitsformel-decodierung` — Kernformel decodieren
 8. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
 9. `schlussformel-bewertung` — Schlussformel als Signal und als Rechtsproblem getrennt bewerten
 10. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
-11. `negative-codeworte-katalog` — Geheimcodes für Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität prüfen
+11. `negative-codeworte-katalog` — Auffällige Formulierungen prüfen, ohne aus einzelnen Wörtern Krankheit oder Fehlverhalten zu unterstellen
 12. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
 13. `widerspruechliche-bewertungen` — Block-Widersprüche prüfen
 14. `ampelsystem-tabellenausgabe` — Gesamttabelle
-15. `gesamtnoten-aggregation` — Gesamtnote berechnen, inkl. Drift-Penalty
+15. `gesamtnoten-aggregation` — Gesamtbewertung begründen, keine rechnerische Note aus Satzmittelwerten oder automatischem Abschlag bilden
 16. `verbesserungsvorschlaege-formulieren` — Aufwertungs-Rewrites pro Satz
 17. `rechtliche-bewertung-bag-rechtsprechung` — rechtliche Einordnung der Befunde
 18. `mandantenbericht-zeugnisanalyse` — Ergebnisbericht an den Mandanten mit drei Handlungsoptionen
 19. `aufforderungsschreiben-arbeitgeber` — außergerichtliches Berichtigungsverlangen
-20. `klage-strategie-zeugnisberichtigung` — bei fruchtlosem Fristablauf zur Klage
+20. `klage-strategie-zeugnisberichtigung` — bei gesondertem Durchsetzungsauftrag Erfolgsaussicht, Belege und Klageweg prüfen
 
 ## Rechtsgrundlagen
 

@@ -277,6 +277,22 @@ def validate_markdown_downloads(errors: list[str]) -> int:
     return count
 
 
+def marketplace_note_errors(text: str, expected_count: int) -> list[str]:
+    block = re.search(
+        r"<!-- BEGIN direkt-loslegen \(autogen\) -->(.*?)<!-- END direkt-loslegen \(autogen\) -->",
+        text, flags=re.S,
+    )
+    if not block:
+        return []
+    errors = []
+    for count in re.findall(r"Marketplace mit (\d+) Plugins", block[1]):
+        if int(count) != expected_count:
+            errors.append(f"Marketplace-Hinweis nennt {count} statt {expected_count} Plugins")
+    if "Wer alle Plugins auf einmal will" in block[1]:
+        errors.append("Sammelpaket wird ohne Abgrenzung zum veröffentlichten Stand angeboten")
+    return errors
+
+
 def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
     marketplace = json.loads(MARKETPLACE.read_text(encoding="utf-8"))
     asset_index = (REPO / "ASSET_INDEX.md").read_text(encoding="utf-8")
@@ -293,6 +309,10 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
             continue
         plugin_count += 1
         readme_text = readme.read_text(encoding="utf-8")
+        errors.extend(
+            f"{repo_relative(readme)}: {message}"
+            for message in marketplace_note_errors(readme_text, len(marketplace["plugins"]))
+        )
         readme_destinations = {
             destination for label, destination in markdown_links(markdown_tokens(readme_text)) if label
         }

@@ -197,7 +197,6 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 - BauGB §§ 11, 12, 30
 - **BVerwG 18.09.2003, 4 CN 3.02** — VEP § 12 BauGB; Drei-Saeulen-Konstruktion (bverwg.de)
 - **BVerwG 06.06.2019, 4 CN 7.18** — Anforderungen an Konkretisierung Vorhaben im VEP (bverwg.de)
-- **BVerwG 04.05.2022, 4 CN 2.21** — Konzentrationszonenplanung Wind/Solar (bverwg.de)
 - Konkrete weitere Aktenzeichen vor Ausgabe per bverwg.de mit Datum verifizieren
 - Battis/Krautzberger/Löhr BauGB
 - Ernst/Zinkahn/Bielenberg BauGB
@@ -205,5 +204,4 @@ Die Antragsbefugnis nach § 47 Abs. 2 VwGO ist beim VEP häufig erleichtert:
 ## Ergänzende Rechtsprechung
 
 - BVerwG 06.06.2019, 4 CN 7.18 — VEP-Konkretisierung (bverwg.de)
-- BVerwG 11.04.2024, 4 BN 50.23 — Klimaschutz § 1 Abs. 5 S. 2 BauGB Abwaegungsmaengel (bverwg.de)
 - Weitere Aktenzeichen vor Ausgabe per bverwg.de verifizieren

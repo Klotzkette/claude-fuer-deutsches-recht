@@ -40,11 +40,15 @@ This test case file was generated with AI and is an experiment. Use at your own 
 - [Isarblick Personal und das falsche Zertifikat](../testakten/ki-konformitaet-isarblick-personal/README.md)
 - [SaaleVis Biometrie und die unvollständige Normenabdeckung](../testakten/ki-konformitaet-saalevis-biometrie/README.md)
 
-## 9. PDF-Lesefassungen und Prüfbericht
+<a id="9-pdf-lesefassungen-und-prüfbericht"></a>
+
+## 1.5. PDF-Lesefassungen und Prüfbericht
 
 [Skills-Handbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet-skills-handbuch.pdf) · [Werkstatt-Lesefassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ki-verordnung-konformitaet-werkstatt-lesefassung.pdf) · [Prüfbericht](../quality/ki-verordnung-2026-10-09/README.md)
 
-## 10. Textfassungen
+<a id="10-textfassungen"></a>
+
+## 1.6. Textfassungen
 
 [ki-verordnung-konformitaet: werkstatt als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-werkstatt.txt) · [ki-verordnung-konformitaet: schnellstart als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-schnellstart.txt) · [ki-verordnung-konformitaet: hauptproblem als TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-konformitaet/ki-verordnung-konformitaet-hauptproblem.txt)
 
@@ -52,7 +56,9 @@ Aktuelle KI-Fachvertiefung: Komponentenfassung 445.35.2 im [KI-Verordnungsreleas
 
 <a id="neue-vollständige-übungsakten"></a>
 
-## 11. Neue vollständige Übungsakten
+<a id="11-neue-vollständige-übungsakten"></a>
+
+## 1.7. Neue vollständige Übungsakten
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

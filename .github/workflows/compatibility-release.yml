@@ -9,6 +9,8 @@ on:
       - '.github/workflows/compatibility-release.yml'
       - 'scripts/*compatibility*'
       - 'scripts/*runtime-performance*'
+      - 'scripts/*quickstart-usability*'
+      - 'scripts/*readme*'
       - 'scripts/*release-zips*'
       - 'scripts/validate-manufacturer-plugins.py'
       - 'scripts/scoped-release-assets.json'
@@ -19,6 +21,10 @@ on:
       - 'scripts/themen_profile.py'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
+      - '**/README.md'
+      - 'README.md'
+      - 'QUICKSTART.md'
+      - 'INSTALLATION_EINFACH.md'
   push:
     tags: ['kompatibilitaet-v*']
   workflow_dispatch:
@@ -72,6 +78,10 @@ jobs:
           python3 scripts/test-vergaberecht-import.py
           python3 scripts/test-app-only-integration.py
           python3 scripts/test-readme-navigation.py
+          python3 scripts/validate-root-readme-overview.py
+          python3 scripts/validate-readme-navigation.py
+          python3 scripts/test-quickstart-usability.py
+          python3 scripts/audit-quickstart-usability.py
           python3 scripts/test-portable-starts.py
           python3 scripts/test-prompt-openings.py
           python3 scripts/test-prompt-routing-scope.py

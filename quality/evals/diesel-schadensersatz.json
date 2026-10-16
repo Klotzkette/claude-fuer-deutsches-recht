@@ -1,4 +1,36 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Starrer Drei-Fragen-/Ein-Schritt-Schnellstart zugunsten beauftragtem Dokument korrigiert; lokale Methodik zu Präzedenz, Rechtskraft und gesetzlicher Bindung mit Root-Passage angeglichen.",
+    "files": [
+      {
+        "path": "diesel-schadensersatz/README.md",
+        "sha256": "149776818a8af1be5ac1b92c1280d92b3f11bd669506f1eb5594bd1a8c08a18d"
+      },
+      {
+        "path": "diesel-schadensersatz/references/methodik-buergerliches-recht.md",
+        "sha256": "8dcc7ebf83ed9c52193b65f521c23b9e08c1bd639e9def4b571236f7092d2b07"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/zpo/__322.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Materielle Rechtskraft hinsichtlich des entschiedenen Anspruchs.",
+        "limit": "Amtlichen HTML-Text per curl gelesen; keine neue Prüfung der Diesel-Leitentscheidungen."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bverfgg/__31.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Besondere Bindungswirkung der Entscheidungen des BVerfG.",
+        "limit": "Keine vollständige Übersicht aller gesetzlichen Verfahrensbindungen."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

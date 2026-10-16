@@ -5,7 +5,7 @@
 
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung Paragrafen 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md" download>fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [20 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -92,10 +92,7 @@ Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose 
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
-Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
-Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
-klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
+Liquiditätsunterlagen, Beschlüsse und Gläubigerschreiben werden zuerst gelesen; erkennbare Antragspflichten und Eilrisiken haben Vorrang. Der konkrete Auftrag führt zum ausgearbeiteten Vermerk, Antrag oder Vertragsentwurf. Nur entscheidende fehlende Zahlen, Stichtage oder Verfahrensangaben werden nachgefragt. Neue Antworten setzen die laufende Prüfung fort, ohne eine zusätzliche Pflichtaufnahme auszulösen.
 
 - Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
 - Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
@@ -106,6 +103,8 @@ Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 (idF nach A
 
 ## InsO-Paragraphen-Navigator
 
+Gezielter Quellenabgleich vom 16.10.2026: [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) verlangt den Antrag ohne schuldhaftes Zögern, spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit beziehungsweise sechs Wochen nach Eintritt der Überschuldung. Die Höchstfristen sind keine voraussetzungslose Wartezeit. Verpflichteter Personenkreis und gesetzliche Ausnahmen sind fallbezogen zu prüfen. Nicht neu geprüft wurden die tatsächliche Insolvenzreife eines Unternehmens, sämtliche Sanierungswege oder die vorhandenen Rechtsprechungsanker.
+
 Der Skill `inso-normenbibliothek` erschließt jeden aktuell im amtlichen InsO-Wortlaut geführten Paragrafen. Er bestimmt über einen Index genau den einschlägigen Normbereich, liest darin nur die benötigte Normkarte und übergibt anschließend an den passenden Fachworkflow. So bleiben Rolle, Verfahrensstand, Belege, Fristen, Rechtsfolge, Gegenargumente und das nächste verwertbare Arbeitsergebnis normbezogen, ohne dass hunderte Einzelnormen gleichzeitig um die Auswahl konkurrieren.
 
 Besonders hilfreich ist das bei Akten, in denen viele Ebenen gleichzeitig laufen: Eröffnungsantrag, Sicherungsmaßnahmen, Massezuordnung, Anfechtung, Forderungsprüfung, Insolvenzplan, Eigenverwaltung, Verbraucherinsolvenz, Nachlassinsolvenz oder internationales Insolvenzrecht. Weggefallene Vorschriften sind bewusst als Altfassungs- und Übergangsrechtsanker enthalten, damit alte Akten und ältere Rechtsprechung nicht versehentlich auf heutige Fälle übertragen werden.
@@ -114,7 +113,7 @@ Vor verbindlichen Aussagen prüft der jeweilige Skill den aktuellen Gesetzeswort
 
 ## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
 
-Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als sofort einsetzbares Template zum Direkt-Download bereit:
+Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als Übungsentwurf zum Direkt-Download bereit. Er ist kein ungeprüft einsetzbarer Vertrag für ein reales Mandat:
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -124,7 +123,7 @@ Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures
 | --- | --- |
 | **Word (DOCX, Times New Roman, 12 pt)** | [asset-purchase-agreement-chaincortex-voracis.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/docx/asset-purchase-agreement-chaincortex-voracis.docx) |
 | **PDF (Times Roman, A4)** | [asset-purchase-agreement-chaincortex-voracis.pdf](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/pdfs/asset-purchase-agreement-chaincortex-voracis.pdf) |
-| Markdown-Volltext (zum Lesen auf GitHub) | [09_asset-purchase-agreement-text.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx) |
+| Weiterer Word-Volltext (DOCX) | [09_asset-purchase-agreement-text.docx](../testakten/insolvenz-asset-deal-chaincortex-ai-berlin/09_asset-purchase-agreement-text.docx) |
 | Gesamte Testakte als ZIP | [testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenz-asset-deal-chaincortex-ai-berlin.zip) |
 
 Das Template umfasst 11 Paragraphen: Präambel, Vertragsgegenstand mit Datenschutz- und Betriebsübergangsbausteinen, Kaufpreis, Vollzugsvoraussetzungen, Signaturklausel, Haftungsregeln, Compliance-Klausel und Schlussbestimmungen plus Anlagen. Vor Verwendung im Mandat: Anpassung an konkrete Parteien, IP-Liste, Arbeitnehmerübergang, Kundendaten und Kaufpreis erforderlich.

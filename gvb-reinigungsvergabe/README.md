@@ -62,6 +62,8 @@ Die Akte bleibt nur einmal im [eigenständigen Projekt](../weitere-unterlagen/se
 
 ## 1.5. Rechtsstand und Grenzen
 
+Punktuell amtlich gelesen am 16.10.2026: [Paragraf 169 GWB](https://www.gesetze-im-internet.de/gwb/__169.html), [Paragraf 173 GWB](https://www.gesetze-im-internet.de/gwb/__173.html) und [Paragraf 187 Absatz 2 GWB](https://www.gesetze-im-internet.de/gwb/__187.html). Nach neuem Recht endet bei Zurückweisung durch die Vergabekammer das Zuschlagsverbot mit Bekanntgabe; die sofortige Beschwerde hemmt dann nicht automatisch. Für vor dem 01.07.2026 begonnene Vergabe- und erfasste Nachprüfungsverfahren bleibt das Übergangsrecht entscheidend. Kein neuer Vollabgleich Berliner Formulare oder sämtlicher Rechtsprechungsanker.
+
 Ausgangsstand Oktober 2026; Verfahrensbeginn, GWB-Übergangsrecht und Berliner Formularfassung werden gesondert geprüft. Normen und europäische Anker stehen in den Skills. Berliner Entscheidungen sind nur mit überprüftem Volltext tragend zu verwenden. [Quellenstand und Abrufgrenzen](references/quellenstand.md).
 
 Das Plugin bereitet Unterlagen und Entscheidungen vor. Es besitzt keinen eingebauten Zugang zur Vergabeplattform, keine Veröffentlichungsbefugnis und keinen automatischen Zugriff auf lizenzierte Rechtsdatenbanken. Struktur- und Paketprüfungen ersetzen keinen Live-Test in einer fremden Oberfläche und keine fachliche Einzelfallprüfung.

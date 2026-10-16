@@ -5,7 +5,7 @@
 
 IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`informationsfreiheit-presseauskunft-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -73,7 +73,7 @@ Dieses Plugin ist das Cockpit für Menschen, Journalistinnen, Kanzleien, NGOs un
 
 ## Start
 
-Beginne mit `informationsfreiheit-presseauskunft-allgemein`. Das Plugin fragt zuerst nach Rolle, Ziel, Frist, Behörde/Gericht/Register, vorhandenen Unterlagen und gewünschtem Output. Danach schlägt es die passenden Spezialskills aus diesem Plugin vor.
+Ein vorhandener Antrag, Ablehnungsbescheid oder Schriftwechsel ist der Ausgangspunkt. Daraus werden Informationsziel, Behörde, Frist und der passende Weg nach IFG, UIG, VIG oder Presserecht bestimmt. Nur entscheidende Lücken, etwa Bundesland oder Pressebezug, werden nachgefragt. Ein klar beauftragter Antrag oder Rechtsbehelf wird direkt ausgearbeitet; Antworten ändern gezielt diesen Entwurf.
 
 ## Arbeitsweise
 
@@ -84,7 +84,7 @@ Beginne mit `informationsfreiheit-presseauskunft-allgemein`. Das Plugin fragt zu
 
 ## Typische Outputs
 
-- Kaltstart-Interview und Aktenlandkarte
+- Orientierung zum Auskunftsweg bei offenem Anliegen; keine Pflichtaufnahme vor einem konkreten Antrag
 - Behörden-, Gerichts- oder Gegneranschreiben
 - Widerspruchs-/Klage-/Eilantragsbausteine
 - Kosten-, Fristen- und Zuständigkeitsmatrix

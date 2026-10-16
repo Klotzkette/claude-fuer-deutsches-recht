@@ -5,7 +5,7 @@
 
 Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzrecht/insolvenzrecht-hauptproblem.md" download>insolvenzrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [28 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -107,7 +107,7 @@ Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, C
 
 ## Vorlage Asset-Purchase-Agreement (Insolvenz-Asset-Deal)
 
-Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als sofort einsetzbares Template zum Direkt-Download bereit:
+Der ausgefüllte Mustervertrag ChainCortex AI GmbH (i. Ins.) -> Voracis Ventures GmbH steht als ausgefüllte Übungsvorlage zum Direkt-Download bereit:
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -143,11 +143,13 @@ Dieses Plugin `insolvenzrecht` ist **gerichtsfähig-formal** ausgerichtet: Es li
 - **InsO**: §§ 14, 15, 15a, 16, 17, 18, 19, 130, 131, 133, 142
 - **StaRUG**: §§ 29 ff. (Restrukturierungsverfahren), § 102 (Hinweispflicht)
 - **GmbHG**: § 64 a.F. (ersetzt durch § 15b InsO), § 30 (Auszahlungsverbot)
-- **AktG**: § 92 Abs. 2 (Anzeigepflichten), § 93 (Sorgfaltspflicht)
+- AktG: Paragraf 92 Absatz 1 (Einberufung und Anzeige bei Verlust der Hälfte des Grundkapitals), Paragraf 93 (Sorgfaltspflicht); Paragraf 92 Absatz 2 ist weggefallen.
 - **HGB**: § 252 Abs. 1 Nr. 2 (going concern)
 - **StGB**: §§ 283–283d (Bankrott, Verletzung der Buchführungspflicht), § 266a (Vorenthalten Arbeitsentgelt)
 
 ## Quellenregel
+
+Punktuell amtlich geprüft am 16.10.2026: [Paragraf 92 AktG](https://www.gesetze-im-internet.de/aktg/__92.html) trennt die Verlustanzeige nach Absatz 1 vom weggefallenen Absatz 2. Die Antragspflicht ist eigenständig nach [Paragraf 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html) zu prüfen; dessen Höchstfristen beseitigen das Gebot eines Antrags ohne schuldhaftes Zögern nicht. Keine neue Vollprüfung der übrigen insolvenz- und steuerrechtlichen Quellen.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 ## Lizenz

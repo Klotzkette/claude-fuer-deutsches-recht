@@ -1,13 +1,13 @@
 ---
 name: begrenzte-dienstfaehigkeit-27-bbg
-description: "Für Begrenzte Dienstfähigkeit nach Paragraf 27 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Begrenzte Dienstfähigkeit nach Paragraf 45 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Begrenzte Dienstfaehigkeit nach § 27 BBG
+# Begrenzte Dienstfähigkeit nach Paragraf 45 BBG
 
 ## Arbeitsbereich
 
-Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Prüfung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Prüfraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Skill zur begrenzten Dienstfähigkeit nach Paragraf 45 BBG bzw. § 27 BeamtStG. Klärt die Voraussetzungen für die Reduzierung der Arbeitszeit anstelle der Versetzung in den Ruhestand, das Verhältnis zur Dienstunfähigkeit nach Paragraf 44 BBG, die Bezügehöhe bei begrenzter Dienstfähigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen: amtsärztliches Gutachten, Prüfung anderweitiger Verwendung und Berücksichtigung der Belange des Beamten. Liefert Prüfraster und Schriftsatzbausteine. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -19,56 +19,58 @@ Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für Beamte, deren Dienstfaehigkeit eingeschraenkt, aber nicht vollstaendig verloren ist. Anwendung als milderer Eingriff im Verhältnis zur Versetzung in den Ruhestand nach § 26 BBG.
+Skill für Beamte, deren Dienstfähigkeit eingeschränkt, aber nicht vollständig verloren ist. Anwendung als milderer Eingriff im Verhältnis zur Versetzung in den Ruhestand nach Paragraf 44 BBG.
 
 ## 2. Eingaben
 
-- Amtsaerztliches Gutachten
+- Amtsärztliches Gutachten
 - Dienstpostenbeschreibung
 - Vorgesehene Verwendung (anderer Dienstposten?)
 - Stellungnahme des Mandanten
 
 ## 3. Ablauf / Checkliste
 
-### a) Voraussetzungen § 27 BBG
-- Beamter ist nicht vollstaendig dienstunfaehig.
+### 3.1. Voraussetzungen Paragraf 45 BBG
+- Beamter ist nicht vollständig dienstunfähig.
 - Restliche Dienstleistung ist mit mindestens 50 v. H. der Arbeitszeit möglich.
-- Andersweitige Verwendung im Sinne § 26 Abs. 2 BBG ist zu prüfen.
+- Anderweitige Verwendung im Sinne von Paragraf 44 Absatz 2 BBG ist zu prüfen.
 
-### b) Verhältnis zu § 26 BBG
-- § 27 BBG ist die mildere Maszahme; Vorrang vor Versetzung in den Ruhestand.
-- Dienstherr ist verpflichtet, die Moeglichkeit der begrenzten Dienstfaehigkeit zu prüfen.
+### 3.2. Verhältnis zu Paragraf 44 BBG
+- Paragraf 45 BBG ist die mildere Maßnahme; Vorrang vor Versetzung in den Ruhestand.
+- Dienstherr ist verpflichtet, die Möglichkeit der begrenzten Dienstfähigkeit zu prüfen.
 
-### c) Bezuege
-- Bezuege werden anteilig der herabgesetzten Arbeitszeit gezahlt; ggf. Ausgleichszahlung nach den landesrechtlichen Vorschriften.
+### 3.3. Bezüge
+- Bezüge werden anteilig der herabgesetzten Arbeitszeit gezahlt; ggf. Ausgleichszahlung nach den landesrechtlichen Vorschriften.
 
-### d) Versorgungsanwartschaft
-- Die Zeit der begrenzten Dienstfaehigkeit ist anteilig ruhegehaltfaehig.
-- Sondervorschriften zur Hochrechnung bei spaeterer Versetzung in den Ruhestand.
+### 3.4. Versorgungsanwartschaft
+- Die Zeit der begrenzten Dienstfähigkeit ist anteilig ruhegehaltfähig.
+- Sondervorschriften zur Hochrechnung bei späterer Versetzung in den Ruhestand.
 
-### e) Verfahrensschritte
-- Amtsaerztliches Gutachten.
+### 3.5. Verfahrensschritte
+- Amtsärztliches Gutachten.
 - Anhörung Mandant.
 - Bescheid; Rechtsschutz Widerspruch und Klage.
 
 ## 4. Quellenpflicht
 
-- Normen: § 27 BBG; § 27 BeamtStG i.V.m. Landesrecht; § 26 BBG.
-- Rspr.: BVerwG zur begrenzten Dienstfaehigkeit — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
+- Normen: Paragraf 45 BBG; § 27 BeamtStG i.V.m. Landesrecht; Paragraf 44 BBG.
+- Rspr.: BVerwG zur begrenzten Dienstfähigkeit — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
 ## 5. Ausgabeformat
 
 - Antrag oder Widerspruch.
-- Berechnung der reduzierten Bezuege und Versorgungsfolgen.
+- Berechnung der reduzierten Bezüge und Versorgungsfolgen.
 
-## 6. Verifizierte Quellenanker
+## 6. Quellenanker
 
-- § 45 BBG (begrenzte Dienstfaehigkeit Bund); § 27 BeamtStG i.V.m. Landesrecht.
-- § 44 BBG (Dienstunfaehigkeit) als Vergleichsmassstab; § 6 BeamtVG (anteilige Ruhegehaltfaehigkeit).
-- Vorrang der milderen Maßnahme: anderweitige Verwendung und begrenzte Dienstfaehigkeit vor Ruhestandsversetzung.
-- BVerwG zur begrenzten Dienstfaehigkeit und zur Prüfungspflicht anderweitiger Verwendung — Datum und Az vor Zitat live verifizieren.
+Gezielt am 16.10.2026 gelesen: [44 BBG](https://www.gesetze-im-internet.de/bbg_2009/__44.html) und [45 BBG](https://www.gesetze-im-internet.de/bbg_2009/__45.html). Prüfe die begrenzte Dienstfähigkeit im Bundespfad nach Paragraf 45 BBG und ihr Verhältnis zur Dienstunfähigkeit nach Paragraf 44 BBG. Landesrecht, Besoldungs- und Versorgungsberechnung benötigen einen eigenen Abgleich. Keine neue Rechtsprechungsprüfung.
+
+- § 45 BBG (begrenzte Dienstfähigkeit Bund); § 27 BeamtStG i.V.m. Landesrecht.
+- § 44 BBG (Dienstunfähigkeit) als Vergleichsmaßstab; § 6 BeamtVG (anteilige Ruhegehaltfähigkeit).
+- Vorrang der milderen Maßnahme: anderweitige Verwendung und begrenzte Dienstfähigkeit vor Ruhestandsversetzung.
+- BVerwG zur begrenzten Dienstfähigkeit und zur Prüfungspflicht anderweitiger Verwendung — Datum und Az vor Zitat live verifizieren.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandantin Polizeikommissarin mit Bandscheibenleiden, Innen- statt Streifendienst denkbar. Dienstherr will Ruhestand verfuegen. Skill liefert Antrag auf begrenzte Dienstfaehigkeit und Prüfraster anderweitiger Verwendung.
+Mandantin Polizeikommissarin mit Bandscheibenleiden, Innen- statt Streifendienst denkbar. Dienstherr will Ruhestand verfügen. Skill liefert Antrag auf begrenzte Dienstfähigkeit und Prüfraster anderweitiger Verwendung.

@@ -5,7 +5,7 @@
 
 Baukastensystem für IP-Lizenzverträge deutsches und internationales Recht. 33 Skills: Urheber Patent Marken Design Gebrauchsmuster Geschäftsgeheimnis Know-how; Klausel-Bausteine, Quellcode-Escrow, Insolvenz-Klausel, Sicherungslizenz, TT-GVO, DSGVO, Quellensteuer, Output DE EN bilingual.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`lizenzvertragsersteller-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=lizenzvertragsersteller/lizenzvertragsersteller-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -110,11 +110,13 @@ Baukastensystem für IP-Lizenzverträge nach deutschem und internationalem Recht
 - Steuern + Quellensteuer + DBA
 
 ### Output-Module
-- Vertrag DE (Fertigentwurf, 20 Paragraphen, Anlagen A-E)
+- Vertrag DE (vollständiger Fertigentwurf im beauftragten Umfang mit den tatsächlich benötigten Anlagen)
 - Vertrag EN (Licence Agreement, English Law oder German Law)
 - Bilingual DE/EN (side-by-side + Massgeb-Klausel)
 
 ## Workflow
+
+Die Übersicht ist eine Auswahl von Arbeitsschritten, kein Pflichtdurchlauf aller neun Stationen. Lies vorhandenen Vertrag, Rechtebestand und Verhandlungsstand zuerst. Ein klarer Auftrag für Lizenzklausel, Vertragsänderung oder Gesamtvertrag beginnt beim passenden Baustein; nur entscheidende Lücken zu Rechten, Rolle und Nutzungsumfang werden nachgefragt. Nach Antworten wird derselbe Entwurf vervollständigt, nicht erneut ein Dashboard aufgebaut.
 
 ```
 1. einstieg-routing                          (Dashboard, Sofort-Triage)

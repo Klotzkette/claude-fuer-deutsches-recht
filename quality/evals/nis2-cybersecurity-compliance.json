@@ -5,6 +5,11 @@
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlicher Normtext gelesen: 24/72 Stunden ab Kenntnis eines erheblichen Sicherheitsvorfalls; Monatsfrist ab Meldung nach Absatz 1 Nummer 2; laufender Vorfall nach Absatz 2 getrennt. Keine Vollprüfung von Betroffenheit, Erheblichkeit und parallelen Meldepflichten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
       "checked_on": "2026-09-14",
       "supports": "Meldekaskade und unterschiedliche zeitliche Anknüpfungen."
     },

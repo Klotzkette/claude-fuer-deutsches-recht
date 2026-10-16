@@ -66,6 +66,23 @@ class ReviewedQuickstartTests(unittest.TestCase):
         self.assert_valid("## 1. Auftrag\n\nBearbeiten.\n\n## 2. Ergebnis\n\nAusformulieren.")
         self.assert_valid("## 1 Auftrag\n\nBearbeiten.\n\n## 1.1 Belege\n\nLesen.\n\n## 2 Ergebnis\n\nAusformulieren.")
 
+    def test_complete_routing_table_is_a_valid_ending(self):
+        self.assert_valid("## 1. Fachwege\n\n| Auftrag | Weg |\n| --- | --- |\n| Beleg prüfen | `beleg-pruefen` |")
+
+    def test_pipe_does_not_hide_truncated_prose(self):
+        for ending in ("Hier fehlt noch |", "| Keine Tabelle |", "| Auftrag | Weg |\n| Beleg prüfen |"):
+            with self.subTest(ending=ending):
+                self.assert_invalid("## 1. Auftrag\n\n" + ending)
+
+    def test_empty_or_cut_off_ending_remains_invalid(self):
+        for text in ("", "\n  ", "Die Rechtsfolge ergibt sich aus Paragraf"):
+            with self.subTest(text=text):
+                self.assertFalse(AUDIT.has_complete_ending(text))
+
+    def test_non_table_paragraph_after_table_is_not_ignored(self):
+        table = "| Auftrag | Weg |\n| --- | --- |\n| Beleg prüfen | `beleg-pruefen` |"
+        self.assertFalse(AUDIT.has_complete_ending(table + "\n\nDie weitere Frage |"))
+
     def test_absent_structure_is_invalid(self):
         self.assert_invalid("Ein weiterer unnummerierter Absatz ohne Abschnittsstruktur.")
 

@@ -17,9 +17,9 @@ Wer im Denkmalschutzrecht arbeitet, muss zuerst die Begriffe und die Rechtsquell
 ## Rechtlicher Rahmen
 
 - **Landesrecht** ist die maßgebliche Rechtsschicht für die materielle Schutzentscheidung: Eintragung, erlaubnispflichtige Maßnahmen, Bußgeldtatbestände, Enteignung, Förderzusagen des Landes.
-- **Art. 73, 74 GG** weisen den Denkmalschutz ausdrücklich nicht der konkurrierenden Bundesgesetzgebung zu; Zuständigkeit liegt nach Art. 70 GG bei den Ländern.
+- Artikel 70 GG bildet den Ausgangspunkt der Länderkompetenz für den Denkmalschutz. Bundesrechtliche Schnittstellen sind nach ihrem jeweiligen Kompetenztitel gesondert zu prüfen; Artikel 73 GG ist keine allgemeine Denkmalschutzkompetenz.
 - **Art. 14 GG** rahmt die Eigentumsgarantie ein: Inhalts- und Schrankenbestimmung durch das Landesgesetz, ggf. Ausgleichspflicht oder Enteignung gegen Entschädigung nach Art. 14 Abs. 3 GG.
-- **Paragraf 7i EStG** erlaubt die erhöhte Absetzung von Herstellungskosten bei Baudenkmälern (Vermietung); **Paragraf 11b EStG** gilt für Sonderausgaben bei selbstgenutzten Baudenkmälern; **Paragrafen 10f, 10g EStG** ergänzen den Rahmen.
+- Paragraf 7i EStG betrifft erhöhte Absetzungen bei Baudenkmälern. Paragraf 11b EStG regelt die Verteilung begünstigten Erhaltungsaufwands. Der Abzug wie Sonderausgaben bei Nutzung zu eigenen Wohnzwecken ist in Paragraf 10f EStG geregelt; Paragraf 10g EStG ist für seinen eigenen Anwendungsbereich getrennt zu prüfen.
 - **UNESCO-Welterbekonvention 1972**, Bundesgesetzblatt 1977 II Seite 213, durch Deutschland 1976 ratifiziert; **Granada-Konvention 1985** (Schutz des architektonischen Erbes Europas) ergänzt den Rahmen.
 
 ## Ablauf / Checkliste
@@ -30,6 +30,8 @@ Wer im Denkmalschutzrecht arbeitet, muss zuerst die Begriffe und die Rechtsquell
 4. Bei Welterbestätten zusätzlich Pufferzone, Managementplan und Berichtspflicht beachten.
 
 ## Quellenpflicht
+
+Gezielt abgeglichen am 16.10.2026: [Artikel 70 GG](https://www.gesetze-im-internet.de/gg/art_70.html), [Paragraf 10f EStG](https://www.gesetze-im-internet.de/estg/__10f.html) und [Paragraf 11b EStG](https://www.gesetze-im-internet.de/estg/__11b.html). Diese Nachprüfung betrifft nur Kompetenzgrundregel und die bezeichnete steuerliche Abgrenzung, nicht sämtliche Fördervoraussetzungen oder Landesgesetze.
 
 Begriffsdefinitionen aus dem konkret anwendbaren Landesgesetz zitieren. EStG-Paragrafen aus gesetze-im-internet.de. Konventionstexte aus der amtlichen Bundesgesetzblatt-Fundstelle. Siehe references/zitierweise.md.
 

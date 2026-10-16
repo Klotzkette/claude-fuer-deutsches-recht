@@ -1,4 +1,42 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Pflicht-Triage beseitigt; Textform für Regelaltersgrenzenvereinbarung nach Paragraf 41 Absatz 3 SGB VI neben Paragraf 14 Absatz 4 TzBfG präzisiert; BAG-Zugangsbeweis begrenzt nachgelesen.",
+    "files": [
+      {
+        "path": "fachanwalt-arbeitsrecht/README.md",
+        "sha256": "8a45386ab110563050b14a01508188a015a5bd83800850e34b4e4ae7911a23fe"
+      },
+      {
+        "path": "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md",
+        "sha256": "e1983cba9c97c74435b095316e7cd689f4698d06bafc1890cd4ef156d5663ccb"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Schriftform der Befristung nach Absatz4 und sonstige Befristungsgründe im Normtext.",
+        "limit": "Keine vollständige Rechtsprechungsprüfung aller Sachgründe."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/sgb_6/__41.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Absatz3: Textform für Beendigung mit Regelaltersgrenze; Absatz2: begrenzte Ausnahme vom Vorbeschäftigungsverbot.",
+        "limit": "Amtlichen HTML-Text per curl gelesen; nicht sämtliche Hinausschiebe-/Altfallvarianten geprüft."
+      },
+      {
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "accessed_on": "2026-10-16",
+        "statement": "BAG30.01.2025, Rn10-21: Einlieferungsbeleg und Online-Status ohne Auslieferungsbeleg tragen dort keinen Anscheinsbeweis des Zugangs.",
+        "limit": "Andere Zugangsbeweise nicht ausgeschlossen; keine neue Verifikation aller Arbeitsrechtsanker."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

@@ -5,7 +5,7 @@
 
 Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`regulatorisches-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=regulatorisches-recht/regulatorisches-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -82,7 +82,7 @@ Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägig
 
 ## Erster Start: Kaltstart
 
-Fragt ab, welche Behörden Sie beobachten, verbindet Ihren Richtlinienordner und erlernt, was "wesentlich" bedeutet. Erstellt eine Beobachtungsliste und indiziert Ihre Richtlinienbibliothek.
+Der optionale Kaltstart richtet eine Beobachtungsliste und die Kriterien für wesentliche Änderungen ein. Vorhandene Richtlinien werden zuerst ausgewertet; ein Ordnerzugriff setzt eine verfügbare und freigegebene Verbindung voraus. Bei einem klaren Auftrag, etwa dem Vergleich einer neuen Norm mit einer vorgelegten Richtlinie, beginnt unmittelbar der Fachschritt. Nur entscheidende Lücken werden nachgefragt, danach wird der Vergleich oder Richtlinienentwurf fertiggestellt.
 
 ```
 /regulatorisches-recht:kaltstart-interview
@@ -103,7 +103,7 @@ Fragt ab, welche Behörden Sie beobachten, verbindet Ihren Richtlinienordner und
 
 ## Interaktive Skills vs. geplante Agenten
 
-Die obigen Skills werden bei Aufruf ausgeführt – für die aktive Arbeit an einem Mandat. Die folgenden Agenten laufen planmäßig – für das, was sich bewegt, wenn Sie nicht hinsehen:
+Die obigen Skills werden bei Aufruf ausgeführt. Wiederkehrende Beobachtung erfordert einen gesondert eingerichteten und freigegebenen Zeitplan mit verfügbaren Quellenzugriffen. Die Installation allein startet keinen Hintergrundlauf; die folgende Tabelle beschreibt den vorgesehenen Einsatz:
 
 | Agent | Was er beobachtet | Standardrhythmus |
 |---|---|---|
@@ -111,9 +111,9 @@ Die obigen Skills werden bei Aufruf ausgeführt – für die aktive Arbeit an ei
 
 ## Konnektoren und Zitatverifizierung
 
-**Zuerst ein Recherchewerkzeug verbinden – die Zitier-Schutzregeln bauen darauf auf.** Ohne eines wird jedes Zitat mit `[prüfen]` versehen und die Prüfernotiz über jedem Ergebnis hält fest, dass Quellen nicht verifiziert wurden. Das Plugin arbeitet in beiden Fällen; es übernimmt nur mehr der Verifizierung, wenn ein Recherchewerkzeug verbunden ist.
+Die Prüfernotiz richtet sich nach dem tatsächlich gelesenen Material. Auch ein bereitgestellter amtlicher Originaltext kann geprüft werden; eine Werkzeugverbindung allein verifiziert dagegen kein Zitat. Nicht gelesene Fundstellen bleiben `[prüfen]`. Quelle, Fassungsdatum, gelesene Passage und verbleibende Grenzen sind getrennt auszuweisen.
 
-Die Rechtsrecherche-Konnektoren in diesem Plugin sind nicht nur Datenquellen – sie sind der Unterschied zwischen einem verifizierten Zitat und einem, das Sie prüfen müssen. Ein über einen verbundenen Recherche-Konnektor abgerufenes Zitat ist mit seiner Quelle markiert und rückverfolgbar. Zitate aus Modellwissen oder bloßer Web-Suche werden nicht als zitierfähige Fundstelle ausgegeben, bis Norm, Entscheidung, Randnummer oder Seite gegen eine Primärquelle geprüft sind.
+Ein Recherchezugang erleichtert den Abruf von Primärquellen. Entscheidend bleibt die inhaltliche Prüfung von Norm, Entscheidung und konkreter Fundstelle; Modellwissen oder ein Suchtreffer reichen dafür nicht. Ohne aktuellen Zugriff wird am vorhandenen Material weitergearbeitet und die offene Aktualitätsprüfung benannt, nicht ein neuer Aufnahmeprozess erzwungen.
 
 ## Integrationsmöglichkeiten
 

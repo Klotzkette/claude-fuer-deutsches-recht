@@ -5,7 +5,7 @@
 
 Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`strafbefehl-verteidiger-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -71,19 +71,19 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 Wenn du das hier öffnest, willst du einen Strafbefehl verteidigen: Einspruchsfrist, Beschränkung, Akteneinsicht, Tagessätze, Fahrverbot, Nebenfolgen, Beweisrisiko und Hauptverhandlungstaktik.
 Ein freistehender Strafbefehls-Assistent für Kanzleien: vom Fristnotruf über Akteneinsicht und Einspruch bis zur beschränkten Rechtsfolgenstrategie oder Hauptverhandlung.
 
-Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn Register, Kanzleisoftware, beA, E-Mail, Datenraum oder Aktenexport fehlen, arbeitet es mit manuellen Uploads oder mit einem klar gekennzeichneten Simulationsmodus.
+Dieses Plugin benötigt keine anderen Plugins. Ohne Anschluss an Register oder Kanzleisoftware werden bereitgestellte Unterlagen ausgewertet und fehlende Aktenbestandteile gezielt angefordert. Ein ausdrücklich bestellter Übungsmodus verwendet erkennbar fiktive Daten; diese ersetzen niemals Belege im echten Mandat.
 
 ## Schnellstart
 
 1. Plugin aktivieren oder die ZIP aus dem Release installieren.
-2. Mit `strafbefehl-kommandocenter` starten.
+2. Mit `strafbefehl-quality-gate-akteneinsicht`, dem Einstieg in die Mandatssteuerung, starten.
 3. Frist, Zustellung, Aktenzeichen, vorhandene Unterlagen und Mandantenziel nennen.
-4. Fehlende Unterlagen nicht raten lassen, sondern mit der passenden Vorlage nachfordern oder Simulation ausdrücklich aktivieren.
+4. Fehlende Unterlagen nachfordern und fristbezogene Entwürfe auf belegter Grundlage weiterbearbeiten. Simulation nur für einen getrennten, ausdrücklich beauftragten Übungsfall verwenden.
 5. Vor Versand oder Termin immer das Qualitätstor laufen lassen.
 
 ## Enthaltene Skills
 
-- `strafbefehl-kommandocenter` - Strafbefehl-Kommandocenter
+- `strafbefehl-quality-gate-akteneinsicht` - Strafbefehl-Kommandocenter
 - `strafbefehl-aktenanlage` - Aktenanlage Strafbefehl
 - `strafbefehl-fristen-einspruch` - Frist und Einspruch nach § 410 StPO
 - `strafbefehl-akteneinsicht-147` - Akteneinsicht

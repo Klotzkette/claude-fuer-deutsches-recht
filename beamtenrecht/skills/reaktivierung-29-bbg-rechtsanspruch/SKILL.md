@@ -1,9 +1,9 @@
 ---
 name: reaktivierung-29-bbg-rechtsanspruch
-description: "Für Reaktivierung nach Paragraf 29 BBG — Rückkehr aus dem Ruhestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
+description: "Für Reaktivierung nach Paragraf 46 BBG — Rückkehr aus dem Ruhestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
-# Reaktivierung nach § 29 BBG — Rueckkehr aus dem Ruhestand
+# Reaktivierung nach Paragraf 46 BBG — Rückkehr aus dem Ruhestand
 
 ## Arbeitsweg
 
@@ -15,39 +15,39 @@ description: "Für Reaktivierung nach Paragraf 29 BBG — Rückkehr aus dem Ruhe
 
 ## 1. Zweck und Anwendungsfall
 
-Skill für ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, die ihre Dienstfaehigkeit wiedererlangt haben und Reaktivierung anstreben — oder die gegen eine Reaktivierung durch den Dienstherrn Rechtsschutz suchen.
+Skill für ehemals wegen Dienstunfähigkeit in den Ruhestand versetzte Beamte, die ihre Dienstfähigkeit wiedererlangt haben und Reaktivierung anstreben — oder die gegen eine Reaktivierung durch den Dienstherrn Rechtsschutz suchen.
 
 ## 2. Eingaben
 
 - Ruhestandsbescheid und Datum
-- Aktuelles amtsaerztliches Gutachten
+- Aktuelles amtsärztliches Gutachten
 - Dienstherr
 - Lebensalter und Regelaltersgrenze
 - Dienstposten in Aussicht
 
 ## 3. Ablauf / Checkliste
 
-### a) Voraussetzung
-- § 29 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht.
-- Wiederhergestellte Dienstfaehigkeit muss amtsaerztlich attestiert sein.
+### 3.1. Voraussetzung
+- Paragraf 46 BBG bzw. § 29 BeamtStG i.V.m. Landesrecht.
+- Wiederhergestellte Dienstfähigkeit muss amtsärztlich attestiert sein.
 - Reaktivierung scheidet aus, wenn das 67. Lebensjahr (bzw. die Regelaltersgrenze) erreicht ist.
 
-### b) Antragsanspruch
-- Reaktivierung auf Antrag des Beamten: Anspruch besteht, wenn Dienstfaehigkeit wieder vorliegt und keine zwingenden dienstlichen Belange entgegenstehen.
+### 3.2. Antragsanspruch
+- Reaktivierung auf Antrag des Beamten: Anspruch besteht, wenn Dienstfähigkeit wieder vorliegt und keine zwingenden dienstlichen Belange entgegenstehen.
 
-### c) Anordnung durch Dienstherrn
-- Reaktivierung von Amts wegen unter den gleichen Voraussetzungen möglich; insbesondere bei wiederhergestellter Dienstfaehigkeit innerhalb von zehn Jahren nach Ruhestandsversetzung.
+### 3.3. Anordnung durch Dienstherrn
+- Reaktivierung von Amts wegen nach Paragraf 46 Absätze 1 bis 3 und 6 BBG beziehungsweise Paragraf 29 Absätze 2 und 3 BeamtStG gesondert prüfen. Die höchstens zehnjährige Antragsfrist nach Paragraf 29 Absatz 1 BeamtStG ist keine allgemeine Frist für eine Reaktivierung von Amts wegen und gilt nicht als BBG-Frist.
 
-### d) Folgen
-- Wiederherstellung des aktiven Beamtenverhaeltnisses; Bezuege statt Versorgungsbezuege.
-- Statusamt grundsätzlich unveraendert.
+### 3.4. Folgen
+- Wiederherstellung des aktiven Beamtenverhältnisses; Bezüge statt Versorgungsbezüge.
+- Statusamt grundsätzlich unverändert.
 
-### e) Rechtsschutz
+### 3.5. Rechtsschutz
 - Widerspruch gegen Bescheid; Klage zum VG; ggf. einstweilige Anordnung.
 
 ## 4. Quellenpflicht
 
-- Normen: § 29 BBG; § 29 BeamtStG i.V.m. Landesrecht.
+- Normen: Paragraf 46 BBG; § 29 BeamtStG i.V.m. Landesrecht.
 - Rspr.: BVerwG zur Reaktivierung und zum Anspruch auf Wiedereingliederung — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
 - Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 
@@ -56,13 +56,15 @@ Skill für ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, d
 - Antrag auf Reaktivierung.
 - Widerspruchsschrift gegen Reaktivierungsanordnung.
 
-## 6. Verifizierte Quellenanker
+## 6. Quellenanker
 
-- § 46 BBG (Wiederherstellung der Dienstfaehigkeit, Reaktivierung Bund); § 29 BeamtStG i.V.m. Landesrecht.
-- Voraussetzung amtsaerztlich attestierte Wiederherstellung der Dienstfaehigkeit; Zehn-Jahres-Frist nach Ruhestandsversetzung als Regelgrenze.
+Gezielt am 16.10.2026 gelesen: [46 BBG](https://www.gesetze-im-internet.de/bbg_2009/__46.html) und [29 BeamtStG](https://www.gesetze-im-internet.de/beamtstg/__29.html). Prüfe die Reaktivierung im Bundespfad nach Paragraf 46 BBG und im Landespfad nach Paragraf 29 BeamtStG mit dem einschlägigen Landesrecht. Trenne jeweils Antrag und dienstherrenseitige Reaktivierung. Kein neuer Vollcheck von Landesrecht oder Rechtsprechung.
+
+- § 46 BBG (Wiederherstellung der Dienstfähigkeit, Reaktivierung Bund); § 29 BeamtStG i.V.m. Landesrecht.
+- Gesundheitliche Eignung und Untersuchungsgrundlage prüfen. Beim Antrag nach Paragraf 29 Absatz 1 BeamtStG die landesrechtlich bestimmte Frist, spätestens zehn Jahre nach Ruhestandsversetzung, ermitteln; Paragraf 46 Absatz 5 BBG enthält diese Frist nicht.
 - BVerwG zum Reaktivierungsanspruch und zu dienstlichen Belangen — Datum und Az vor Zitat live verifizieren.
 - Altersgrenze Regelaltersgrenze als absolute Schranke; nach Erreichen keine Reaktivierung mehr.
 
 ## 7. Beispiel (Kurzfassung)
 
-Mandant wurde 2019 wegen depressiver Episode in den Ruhestand versetzt; nunmehr stabilisiert. Skill liefert Reaktivierungsantrag mit amtsaerztlichem Gutachten und Hinweis auf Anspruch.
+Mandant wurde 2019 wegen depressiver Episode in den Ruhestand versetzt; nunmehr stabilisiert. Skill liefert Reaktivierungsantrag mit amtsärztlichem Gutachten und Hinweis auf Anspruch.

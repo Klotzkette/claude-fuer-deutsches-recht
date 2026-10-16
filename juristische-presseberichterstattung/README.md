@@ -5,7 +5,7 @@
 
 Plugin für juristische Presseberichterstattung: Gerichtsbericht, Entscheidungsnews, Verdachtsbericht, Pressemitteilung, Headline, Bildprüfung, Quellenmatrix und Redaktionsschluss-Qualitygate.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`juristische-presseberichterstattung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -72,6 +72,8 @@ Wenn du dieses Plugin öffnest, willst du aus juristischem Material schnell eine
 Das Plugin arbeitet mit Quellenmatrix, Statussprache und Veröffentlichungsrisiko. Es trennt Tatsachen, Verdacht, Verfahrensstand, Zitat, Bewertung, Bildfrage und Gegendarstellung, damit der Text zügig erscheint und trotzdem belastbar bleibt.
 
 ## Kaltstart
+
+Lies Entscheidung, Terminsnotizen oder Redaktionsentwurf zuerst. Die folgenden Fragen dienen der internen Einordnung; frage nur nach fehlenden Angaben, die den bestellten Text verändern. Ein klarer Redaktionsauftrag führt direkt zur vollständigen Meldung oder Korrektur. Eine nachgereichte Stellungnahme wird im bestehenden Text samt Überschrift verarbeitet.
 
 1. Welches Format: Meldung, Bericht, Analyse, Pressemitteilung, FAQ, Liveblog oder Social-Thread?
 2. Welcher Status: Ermittlungsverfahren, Anklage, Hauptverhandlung, Urteil, Beschluss, Vergleich, Behördenentscheidung oder Gesetzgebung?

@@ -5,7 +5,7 @@
 
 Pflegeversicherung nach SGB XI: Pflegegrad, Begutachtung, häusliche Leistungen, Ersatzpflege, Wohnumfeld, Heimkosten, Pflegepersonen, Beiträge und Rechtsbehelfe. Zehn spezialisierte Skills vom Beleg zum Antrag oder Schriftsatz.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`pflegerecht-sgb-xi-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -98,6 +98,8 @@ Rechtsstand der Quellenprüfung: 30.09.2026. Die [Quellenübersicht](references/
 Die Verfahren B 3 P 2/25 R und B 3 P 3/25 R sind zum Prüfdatum erst für 01.10.2026 angekündigt. Sie betreffen zusätzliche Entlastungskosten und den Heimzuschlag ohne Pflegesatzvereinbarung. Skills und eigenständige Prompts kennzeichnen diese Fragen ausdrücklich als offen und verlangen vor späterer Verwendung die Prüfung des amtlichen Ergebnisses. Eine Terminvorschau wird nicht als Urteil ausgegeben; die LSG-Pressemitteilung nicht als gelesener Volltext.
 
 Pflegeversicherung ist keine Vollkostenversicherung. Krankenbehandlung, Eingliederungshilfe, Hilfe zur Pflege, arbeitsrechtliche Freistellung und Heimvertragsrecht werden nur als abgegrenzte Schnittstellen behandelt. Medizinische und pflegefachliche Feststellungen bleiben bei den zuständigen Fachleuten. Versand, Einreichung und verbindliche Erklärungen erfolgen nicht automatisch.
+
+Gezielter Fristenabgleich vom 16.10.2026: [Paragraf 18c SGB XI](https://www.gesetze-im-internet.de/sgb_11/__18c.html) wurde zu Bescheidfrist, Verzögerungszahlung und Ausnahmen gelesen. Die regelmäßige Frist beträgt 25 Arbeitstage; eine Überschreitung bewilligt nicht automatisch den beantragten Pflegegrad. Die Zahlung von 70 EUR je begonnener Verzögerungswoche setzt die gesetzlichen Voraussetzungen voraus. Kein neuer Volltextnachweis für die zuvor angekündigten BSG-Termine B 3 P 2/25 R und B 3 P 3/25 R; aus dem erfolglosen Abruf folgt weder ein bestätigtes Ergebnis noch ein noch ausstehender Termin.
 
 Die Struktur- und Inhaltsprüfungen sichern Dateiformat, Verweise und fachliche Leitplanken. Sie sind kein Nachweis bestandener Modelltests in jeder Oberfläche und keine Garantie für ein bestimmtes Ergebnis im Einzelfall.
 

@@ -44,7 +44,7 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 3.1.1. Widerspruch Klage Vwgo: Bearbeite den Fachpunkt im Skill widerspruch-klage-vwgo und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
 3.1.2. Besold Besoldungswiderspruch Zeitnahe Geltendmachung: Bearbeite den Fachpunkt im Skill besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
-3.1.3. Reaktivierung nach Paragraf 29 BBG — Rückkehr aus dem Ruhestand: Bearbeite den Fachpunkt im Skill reaktivierung-29-bbg-rechtsanspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
+3.1.3. Reaktivierung nach Paragraf 46 BBG — Rückkehr aus dem Ruhestand: Bearbeite den Fachpunkt im Skill reaktivierung-29-bbg-rechtsanspruch und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
 3.1.4. Fristen Und Sofortmaßnahmen: Bearbeite den Fachpunkt im Skill fristen-und-sofortmassnahmen und führe dessen Norm, Aktenfund, Beweislast, Gegenposition und Rechtsfolge in den Argumentationskern zurück.
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.

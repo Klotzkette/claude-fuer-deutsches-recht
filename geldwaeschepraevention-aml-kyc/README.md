@@ -9,7 +9,7 @@
 
 Geldwäscheprüfung in Kanzlei, Unternehmen und Notariat: 20 Fachabläufe für Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`geldwaeschepraevention-aml-kyc-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/geldwaeschepraevention-aml-kyc-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [5 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -110,6 +110,8 @@ Die vollständige alphabetische Liste mit Beschreibungen und Markdown-Downloads 
 <!-- decimal-anchor --> <a id="rechtsstand-und-grenzen"></a>
 
 ## 1.7. Rechtsstand und Grenzen
+
+Am 16.10.2026 wurde der Übergang gezielt mit [Artikel 90 VO (EU) 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/eng/pdf) abgeglichen: allgemeine Anwendung ab 10.07.2027; für Artikel 3 Nummer 3 Buchstaben n und o erst ab 10.07.2029. Grundlage war die amtlich indexierte Vorschrift bei zugangsbeschränktem direktem Volltextabruf. Die übrige Quellenkarte behält ihren bisherigen Prüfstand; insbesondere wurden Meldeformate und aktuelle Sanktionslisten nicht neu vollständig geprüft.
 
 Prüfstand: 8. September 2026. Die [Quellenkarte herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=geldwaeschepraevention-aml-kyc/references/rechtsstand-2026-und-eu-uebergang.md).
 

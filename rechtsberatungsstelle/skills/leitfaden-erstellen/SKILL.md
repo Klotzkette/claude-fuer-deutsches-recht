@@ -33,19 +33,19 @@ description: "Für /leitfaden-erstellen: ordnet Norm, Beweislast und Gegenargume
 4. Welche spezifischen Prüfungsgates und RDG-Grenzen sollen für diesen Fachbereich konfiguriert werden?
 
 ## Zentrale Normen
-- § 6 Abs. 2 Nr. 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
+- Paragraf 6 Absatz 2 RDG — Erlaubnisfreie Rechtsberatung in Beratungsstellen unter Anleitung eines Volljuristen; Leitfaden konfiguriert den Anleitungsrahmen
 - § 43a Abs. 2 BRAO — Verschwiegenheitspflicht des anleitenden Anwalts: gilt auch für Leitfaden-Inhalte und Mandatsdaten
 - § 203 Abs. 4 StGB — Einbeziehung Dritter (Studenten) erfordert vertragliche Absicherung der Verschwiegenheit
 - § 43a Abs. 4 BRAO i.V.m. § 3 BORA — Interessenkonflikt-Regeln müssen im Leitfaden für jeden Fachbereich verankert sein
 
 ## Berufsrechtlicher Rahmen
 
-Dieser Leitfaden ist ein internes Konfigurationsdokument. Er legt fest, wie die Beratungsstelle nach § 6 Abs. 2 Nr. 2 RDG betrieben wird:
+Dieser Leitfaden ist ein internes Konfigurationsdokument. Er legt fest, wie die Beratungsstelle nach Paragraf 6 Absatz 2 RDG betrieben wird:
 
-- **§ 6 Abs. 2 Nr. 2 RDG:** Unentgeltlichkeit und Anleiterpflicht sind in jedem Leitfaden zu verankern.
+- **Paragraf 6 Absatz 2 RDG:** Unentgeltlichkeit und Anleiterpflicht sind in jedem Leitfaden zu verankern.
 - **§ 43a Abs. 2 BRAO:** Verschwiegenheit des Anleiters erstreckt sich auf alle im Rahmen der Beratungsstelle erlangten Informationen.
 - **§ 43a Abs. 4 BRAO / BORA § 3:** Der Leitfaden muss Konfliktprüfungsregeln für den Fachbereich enthalten.
-- **Krenzler, in: Krenzler (Hrsg.), RDG, 2. Aufl. 2021, § 6 Rn. 44–52:** Anforderungen an die Anleitungsorganisation.
+- Anforderungen an die Anleitungsorganisation aus dem gelesenen Normtext ableiten. Literaturfundstellen nur mit tatsächlich verfügbarer Nutzerquelle oder lizenziertem Zugriff verwenden.
 
 ## Schlüsselinhalte des Leitfadens
 
@@ -85,13 +85,13 @@ Falls ein Leitfaden für diesen Bereich bereits existiert: "Möchten Sie (a) abs
 Fachbereichs-Defaults (wenn keine Angaben vorhanden):
 
 **Asyl/Aufenthaltsrecht:**
-- Aktueller Status und Einreisezeitpunkt (Datum für Jahresfrist § 74 AsylG wichtig!)
+- Aktueller Status, Einreisezeitpunkt und Verfahrensbeginn; keine angebliche einreiseabhängige Jahresfrist aus Paragraf 74 AsylG ableiten.
 - Laufende Verfahren: BAMF-Bescheid erhalten? Klage eingereicht?
-- Besondere Vulnerabilität: Minderjährigkeit, Traumatisierung, Behinderung (§ 76b SGB IX)
+- Besondere Vulnerabilität: Minderjährigkeit, Traumatisierung, Behinderung; Eingliederungshilfe für ausländische Personen nach Paragraf 100 SGB IX und die AsylbLG-Abgrenzung prüfen.
 - Familienangehörige und deren Status
 - Vorstrafen (mit Sensibilität erfragen – § 3 AsylG, § 60 AufenthG prüfen)
 - Sprachkenntnisse / Dolmetscherbedarf
-- Dringlichkeit: Zustellungsdatum des Bescheids? Klagefrist (§ 74 AsylG: 2 Wochen bei § 36-Bescheid!)?
+- Dringlichkeit: Bescheidart, Zustellung und anwendbare Fassung sichern. Klagefrist und Eilantragsfrist gesondert prüfen; eine verkürzte Wochenfrist darf nicht durch eine pauschale Zweiwochenfrist ersetzt werden.
 
 **SGB II / Bürgergeld:**
 - Aktueller Leistungsbezug / zuletzt erhaltener Bescheid
@@ -165,7 +165,9 @@ Ausgabe: `guides/<fachbereich>.md` mit den Sektionen:
 
 ## Risiken / typische Fehler
 
-- **Fristenversäumnis:** Der Leitfaden muss für jeden Fachbereich die kritischsten Fristen explizit benennen. Besonders gefährlich: § 36 AsylG (1 Woche), § 74 AsylG (2 Wochen bei beschleunigtem Verfahren), § 4 KSchG (3 Wochen).
+- **Fristenversäumnis:** Der Leitfaden muss die im konkreten Fachbereich geprüften Fristen nennen. Bei Asylbescheiden Klageerhebung, Begründung und Eilantrag nach der anwendbaren Fassung getrennt bestimmen; keine Frist aus einem anderen Verfahrenszweig übernehmen.
+
+Gezielter Abgleich und Aussagegrenzen: [Quellenvermerk vom 16.10.2026](../../references/gezielter-quellenabgleich-2026-10-16.md). Keine vollständige Neuprüfung der örtlichen Beispiele oder übrigen Fachzweige.
 - **RDG-Grenzen nicht klar kommuniziert:** Studenten ohne klare Anleitungsstruktur überschreiten versehentlich § 3 RDG.
 - **Fehlende Konfliktprüfung:** Ohne explizite Gate-Regel übersehen Studenten, wann sie den Anleiter einschalten müssen.
 - **Sprachbarrieren bei Geflüchteten:** Leitfaden sollte Dolmetscherressourcen und Sprach-Level-Anforderungen an Mandantenbriefe festlegen.

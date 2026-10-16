@@ -31,3 +31,9 @@ Diese Datei ist ein Arbeitsanker für Livechecks. Für belastbare Ausgaben werde
 ## Arbeitsregel
 
 Keine Fundstelle aus geschlossenen Datenbanken verwenden, wenn sie nicht vom Nutzer geliefert wurde. Keine Literaturzitate ohne Nutzerquelle. Bei Musik und KI immer zusätzlich technische Beweise und Rechtekette verlangen.
+
+## Ergänzende Primärquellenprüfung vom 16.10.2026
+
+EuGH, Urteil vom 14.04.2026, C-590/23, ECLI:EU:C:2026:290: [amtlicher deutscher Urteilstext](https://juris.curia.europa.eu/juris/document/document.jsf?docid=310626&doclang=DE), abgerufen und gelesen am 16.10.2026 einschließlich Tenor und Rn. 1 bis 63. Für den Pastiche tragen insbesondere Rn. 43 bis 57 und 60 bis 62 die Abgrenzung: kein allgemeiner Auffangtatbestand; erkennbare Übernahme, wahrnehmbare Unterschiede und erkennbarer kreativer oder künstlerischer Dialog. Eine zusätzliche subjektive Absicht muss nicht gesondert nachgewiesen werden. Sampling kann unter diesen Voraussetzungen erfasst sein, nicht allein wegen seiner Kürze oder der Bezeichnung als Remix.
+
+Die frühere Zugriffsgrenze auf die Pressemitteilung ist nur für diese Entscheidung behoben. Die Entscheidung legt Unionsrecht aus; sie ersetzt weder den Vergleich der konkreten Aufnahmen noch die nationale Einzelfallentscheidung. Andere Leitentscheidungen und nationale Folgeentscheidungen wurden in dieser Ergänzung nicht neu geprüft.

@@ -5,7 +5,7 @@
 
 Fahrgastrechte im Eisenbahnverkehr nach VO (EU) 2021/782 und EVO 2023: Verspätung/Ausfall einordnen, Entschädigung berechnen (25/50 Prozent), Forderung an die DB, Widerspruch, Schlichtung und Klage zum AG. Katalog DB-Ablehnungsgründe.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`fahrgastrechte-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fahrgastrechte/fahrgastrechte-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -70,7 +70,7 @@ Fahrgastrechte im Eisenbahnverkehr selber geltend machen — VO (EU) 2021/782 pl
 
 ## Worum geht es?
 
-Wer mit der Bahn unterwegs ist und eine Verspätung von mehr als einer Stunde oder einen Zugausfall erleidet, hat einen Entschädigungsanspruch nach Art. 19 VO (EU) 2021/782: 25 Prozent des Fahrpreises ab 60 Minuten Verspätung am Zielort, 50 Prozent ab 120 Minuten. Dieses Plugin deckt den vollständigen Mandatsablauf ab: vom Erfassen der Ticket- und Reisedaten über die Berechnung des Anspruchs, das Forderungsschreiben, den Widerspruch gegen eine Ablehnung, die Schlichtung bis zur Klage vor dem Amtsgericht.
+Aus Ticket, Reiseverlauf und Kostenbelegen entsteht eine bezifferte Forderung oder eine Antwort auf die Ablehnung der Bahn. Artikel 19 VO (EU) 2021/782 sieht grundsätzlich 25 Prozent des maßgeblichen Fahrpreises bei 60 bis 119 Minuten und 50 Prozent ab 120 Minuten Zielverspätung vor. Ein Zugausfall allein begründet noch keinen solchen Anspruch: Fahrpreiserstattung nach Artikel 18 und die Ausnahmen in Artikel 19 Absatz 9 und 10 sind gesondert zu prüfen. Das Plugin begleitet den beauftragten Weg vom Forderungsschreiben über Schlichtung bis zur Klage; vorhandene Reisedaten werden nicht erneut abgefragt.
 
 Das Plugin richtet sich an Verbraucher, die ihre Ansprüche selbst durchsetzen wollen, sowie an Anwälte, die Fahrgäste vertreten.
 
@@ -80,7 +80,9 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Quellen-Disclaimer
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. EuGH-, BGH- und AG-Entscheidungen werden vor jedem Versand über curia.europa.eu, bundesgerichtshof.de oder gesetze-im-internet.de verifiziert.
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Entscheidungen sind vor tragender Verwendung anhand des zugänglichen gerichtlichen Volltexts zu prüfen; fehlender Zugriff bleibt sichtbar. Gesetze-im-Internet ist eine Normquelle, keine Datenbank für Amtsgerichtsurteile.
+
+Punktueller Quellenabgleich am 16.10.2026: [VO (EU) 2021/782, Artikel 18 bis 20](https://eur-lex.europa.eu/eli/reg/2021/782/oj/deu), amtlich indexierte Textpassagen zu Anspruchstrennung und Entschädigungsausnahmen gelesen. Der direkte Seitenabruf war zugangsbeschränkt. Keine neue Vollprüfung der Verordnung, Unternehmensbedingungen oder historischen EuGH-Entscheidung.
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 

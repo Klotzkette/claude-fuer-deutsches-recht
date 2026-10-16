@@ -4,6 +4,27 @@
   "reviewed_on": "2026-09-23",
   "sources": [
     {
+      "url": "https://www.bverwg.de/de/270820U4CN4.19.0",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Volltext gelesen: BVerwG, Urteil vom 27.08.2020, 4 CN 4.19, Rn. 9 bis 10 trägt die Antragsbefugnis eines Eigentümers gegen unmittelbar sein Grundstück im Plangebiet betreffende Festsetzungen. Kein allgemeiner Nachweis für außenstehende Nachbarn oder jeden Abwägungsbelang; kein Beleg eines Abwägungsfehlers. Rn. 30: Zurückverweisung zur weiteren Sachprüfung.",
+      "countercheck": "Datum 14.10.2020 und zu weite Aussage im Statthaftigkeits-Skill korrigiert. Die nicht belegten Zuordnungen 04.05.2022 / 4 CN 2.21 zu Wind/Solar und 11.04.2024 / 4 BN 50.23 zu Klimaschutz aus statthaftigkeit-47-vwgo, vorhabenbezogener-bebauungsplan-12-baugb, planerhaltung-214-215-baugb und abwaegungsgebot-1-abs-7-baugb entfernt, insgesamt acht Fundstellen. Kein Ersatz durch 4 BN 2.20; dessen Volltext hier nicht neu geprüft. Übrige historische Zuordnungen nicht vollverifiziert. Standalone-Prompts und bestehende dateigebundene Prüfprofile unverändert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__47.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Normtext zu Antragsgegenstand und Zulässigkeit gelesen. Keine allgemeine unmittelbare Anfechtbarkeit von FNP oder städtebaulichem Vertrag."
+    },
+    {
+      "url": "https://www.bverwg.de/310113U4CN1.12.0",
+      "checked_on": "2026-10-16",
+      "supports": "Amtliche Entscheidung vom 31.01.2013, 4 CN 1.12, insbesondere Leitsätze und Rn. 9–10 gelesen: analoge Kontrolle der Ausschlussentscheidung, nicht sämtlicher innergebietlicher Darstellungen. Aktuelles Windenergie-Übergangsrecht nicht vollständig geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bbaug/__8.html",
+      "checked_on": "2026-10-16",
+      "supports": "Absatz 2 amtlich gelesen: Bebauungsplan aus FNP entwickeln; Entwicklungsgebot, nicht Anpassungsgebot."
+    },
+    {
       "url": "https://www.gesetze-im-internet.de/vwgo/__47.html",
       "checked_on": "2026-09-14",
       "supports": "Gerichtlicher Normenkontrollantrag, Jahresfrist und Eilrechtsschutz."

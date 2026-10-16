@@ -93,4 +93,4 @@ Empfehlung: Erst niedrigwertige Belege (Wohnflächenberechnung, Bodenrichtwertau
 ## Typische Fehler
 
 - Einspruch trifft den falschen Bescheid: Hebesatz angegriffen, obwohl der Wertfehler im Grundlagenbescheid (Finanzamt) sitzt. § 351 Abs. 2 AO sperrt den Folgebescheid.
-- Einspruchsfrist von einem Monat wird übersehen, weil der Bescheid an die ELSTER-Postfachadresse zugestellt und nicht abgerufen wurde; § 122 Abs. 2a AO regelt elektronische Bekanntgabe nach drei Tagen.
+- Einspruchsfrist von einem Monat wird übersehen, weil ein bereitgestellter Bescheid nicht abgerufen wurde. Elektronische Übermittlung nach Paragraf 122 Absatz 2a AO und Bereitstellung zum Datenabruf nach Paragraf 122a AO unterscheiden. Die aktuell veröffentlichten Texte knüpfen grundsätzlich an den vierten Tag nach Absendung beziehungsweise Bereitstellung an, nicht an einen beliebig späteren tatsächlichen Abruf. Bekanntgabeart, Nachweise und für den konkreten Zeitpunkt geltendes Übergangsrecht prüfen; keine pauschale Dreitagesrechnung.

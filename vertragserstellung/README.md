@@ -9,7 +9,7 @@
 
 Kompakte Vertragswerkstatt für einzelne Geschäfte zwischen Unternehmen. Zehn Skills erstellen Verträge, Klauseln und Nachträge bis zur abgestimmten Endfassung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vertragserstellung/vertragserstellung-hauptproblem.md" download>vertragserstellung-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [7 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -165,9 +165,9 @@ The complete table above lists all seven files with their three download formats
 
 ## 1.10. Quellen und Grenzen / Sources and Limits
 
-[Fachquellen](references/fachquellen.md) dokumentieren Normbasis, Reichweite und Zugriffslücken; die [Zitierweise](references/zitierweise.md) folgt der zentralen Referenz. BGH VII ZR 301/13 und VII ZR 248/13 sind nur anhand amtlich indexierter Leitsätze erschlossen, nicht als gelesene Volltexte. Artikel 28 DSGVO wurde ergänzend in einer amtlichen BMF-Ausgabe gelesen; der eingeschränkte EUR-Lex-Direktabruf bleibt dokumentiert.
+[Fachquellen](references/fachquellen.md) dokumentieren Normbasis, Reichweite und Zugriffslücken; die [Zitierweise](references/zitierweise.md) folgt der zentralen Referenz. Nach dem dortigen Prüfprotokoll wurden am 01.10.2026 zu BGH VII ZR 301/13 der amtliche PDF-Kopf und Rn. 31 bis 51, zu VII ZR 248/13 der PDF-Kopf und Rn. 22 bis 32 gelesen. Die frühere Abrufgrenze ist für diese Passagen behoben, nicht als Vollprüfung aller Entscheidungen. Diese README-Korrektur behauptet keinen erneuten Abruf. Artikel 28 DSGVO wurde ergänzend in einer amtlichen BMF-Ausgabe gelesen; der eingeschränkte EUR-Lex-Direktabruf bleibt dokumentiert.
 
-The source reference records the statutory basis, scope and unavailable access. The two BGH cases are limited to indexed official headnotes, not verified full judgments. Article 28 GDPR was also read in an official BMF edition; restricted direct EUR-Lex access remains documented.
+The existing source record documents reading the official PDF headings and paragraphs 31 to 51 of VII ZR 301/13 and 22 to 32 of VII ZR 248/13 on 1 October 2026. This resolves the earlier access limitation for those passages only; this README correction does not claim a new retrieval or review of every judgment. Article 28 GDPR was also read in an official BMF edition; restricted direct EUR-Lex access remains documented.
 
 Das [Qualitätsprofil](../quality/evals/vertragserstellung.json) enthält zehn individuelle Ergebnisfälle und dokumentiert eine Textprüfung (`desk_review`), keine ausgeführten Live-Modelltests, Erfolgsquote oder Freigabe eines konkreten Mandats.
 

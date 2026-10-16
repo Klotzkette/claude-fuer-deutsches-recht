@@ -5,7 +5,7 @@
 
 Assistent für Anwaltskanzleien zur Erstantwort auf Mandantenanfragen per E-Mail: dankt förmlich übernimmt die Anrede aus der eingehenden E-Mail nennt die telefonische Terminvergabe bittet um Sachverhalt per E-Mail oder bietet eine Telefon-Transkription mit DSGVO-Einwilligungshinweis an.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`mandantenanfragen-assistent-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=mandantenanfragen-assistent/mandantenanfragen-assistent-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -74,7 +74,9 @@ Paketstand: siehe [aktuellen Release](https://github.com/Klotzkette/claude-fuer-
 
 ---
 
-Assistent für Anwaltskanzleien zur automatisierten Erstantwort auf eingehende Mandantenanfragen per E-Mail. Das Plugin dankt formell für die Anfrage, übernimmt die exakte Anrede aus der eingehenden Mail, weist auf die telefonische Terminvergabe hin und bittet um eine Sachverhaltszusammenfassung per E-Mail. Für Personen, die nicht schreiben können oder möchten, bietet es einen automatisierten Transkriptionsservice an — mit DSGVO-konformem Einwilligungshinweis.
+Der Assistent entwirft für Anwaltskanzleien vollständige Erstantworten auf eingehende E-Mails. Er liest die Anfrage und vorhandene Anlagen zuerst, spricht die anfragende Person an und übernimmt nicht versehentlich den Namen der angeschriebenen Kanzleiperson. Er fragt nur fehlende Unterlagen nach, berücksichtigt berichtete Dringlichkeit und setzt eine bereits beschlossene Mandatsabsage direkt um. Terminvergabe, Mandatsannahme, Fristübernahme und Versand werden nicht durch den Entwurf bewirkt.
+
+Ein Transkriptionsangebot erscheint nur, wenn die Kanzlei diesen Dienst tatsächlich eingerichtet und für den konkreten Einsatz freigegeben hat. Das Plugin stellt keinen Telefondienst bereit; ein Einwilligungstext allein belegt auch keine datenschutzrechtliche Zulässigkeit.
 
 ---
 
@@ -97,13 +99,13 @@ Die Auswahl zeigt typische Mandantenanfragen. Alle Skills mit Kurzbeschreibungen
 | # | Skill-Name | Beschreibung | Lade-Trigger (Beispiele) |
 |---|---|---|---|
 | 1 | `anfrage-eingang-parser` | Extrahiert aus der Eingangsmail: Anrede, Name, E-Mail, Kontaktdaten, Sachverhaltsfetzen, Dringlichkeitssignale | "Anfrage auswerten", "E-Mail analysieren", "Kontaktdaten extrahieren" |
-| 2 | `anrede-uebernehmen` | Übernimmt die EXAKTE Anrede aus der Eingangsmail; Heuristiken für Titel, Doppelnamen, Adelsprädikat, kirchliche Titel, Ehepaar | "Anrede übernehmen", "formelle Anrede", "Titel erkennen" |
+| 2 | `anrede-uebernehmen` | Bildet die passende Antwortanrede aus belegtem Absender, Namen und Titel; verwechselt Absender und angeschriebene Kanzleiperson nicht | "Anrede übernehmen", "formelle Anrede", "Titel erkennen" |
 | 3 | `erstantwort-generator` | Hauptskill: erstellt die vollständige formelle Erstantwort-Mail mit allen Bausteinen | "Erstantwort schreiben", "Antwortmail erstellen", "Eingangsbestätigung" |
 | 4 | `telefon-konfiguration` | Verwaltet Kanzlei-Kontaktdaten (Sekretariat + Transkriptionsservice) aus `kanzlei.json` und setzt sie in Templates ein | "Telefonnummer konfigurieren", "kanzlei.json bearbeiten" |
 | 5 | `transkriptionsdienst-erklaerung` | Formuliert den Hinweis auf den automatisierten Transkriptionsservice: Ablauf, Datenschutz, Einwilligungserfordernis | "Transkriptionsservice erklären", "kann nicht schreiben" |
 | 6 | `einwilligung-hinweis-datenschutz` | DSGVO-konforme Einwilligungsklausel für die Sprachaufnahme (Art. 6 Abs. 1 lit. a DSGVO, Art. 13 DSGVO) | "DSGVO Einwilligung formulieren", "Datenschutz Transkription" |
-| 7 | `mandatsverhaeltnis-hinweis` | Formuliert den Disclaimer: kein Mandatsverhältnis, keine Rechtsberatung, keine Pflichten der Kanzlei | "kein Mandat Hinweis", "Disclaimer Erstanfrage" |
-| 8 | `vertraulichkeit-erinnerung` | Hinweis auf anwaltliche Schweigepflicht § 43a Abs. 2 BRAO — gilt erst ab Mandatsbegründung | "Schweigepflicht Anwalt", "wann gilt Verschwiegenheit" |
+| 7 | `mandatsverhaeltnis-hinweis` | Grenzt Eingangsbestätigung, Mandatsannahme und Fristübernahme ab; kein pauschaler Ausschluss gesetzlicher Pflichten | "kein Mandat Hinweis", "Disclaimer Erstanfrage" |
+| 8 | `vertraulichkeit-erinnerung` | Verschwiegenheit nach Paragraf 43a Absatz 2 BRAO knüpft an die Berufsausübung an, nicht erst an den Mandatsvertrag | "Schweigepflicht Anwalt", "wann gilt Verschwiegenheit" |
 | 9 | `folgekorrespondenz-vorbereiten` | Erstellt Skeleton-Eintrag für CRM/Akte: Name, Mail, Telefon, Anliegen, Dringlichkeit, Konfliktcheck-Status | "CRM Eintrag erstellen", "Akte anlegen" |
 | 10 | `spam-und-massen-anfrage-filter` | Erkennt Spam-Muster: 419-Scams, Massen-Anfragen, Phishing, Recruiter-Mails; kennzeichnet zur Aussortierung | "Spam prüfen", "verdächtige Anfrage", "Scam-Mail" |
 | 11 | `dringlichkeitsmarker` | Erkennt Fristen und Eile-Signale; setzt Stufe HOCH/MITTEL/NIEDRIG; bei HOCH: Sofortanruf des Anwalts erforderlich | "Dringlichkeit prüfen", "Frist erkannt", "Eilbedarf" |
@@ -174,6 +176,10 @@ Dieses Plugin ist ein Hilfswerkzeug für Anwaltskanzleien. Es ersetzt nicht die 
 Das Plugin enthält keine Rechtsberatung. Alle Musterschreiben sind unverbindliche Formulierungshilfen.
 
 Berufsrechtliche Grundlagen: §§ 43 ff. BRAO, §§ 1 ff. BORA, RVG, DSGVO.
+
+Gebührenabgleich vom 16.10.2026: [Paragraf 34 Absatz 1 RVG](https://www.gesetze-im-internet.de/rvg/__34.html) und [Nummer 7008 VV RVG](https://www.gesetze-im-internet.de/rvg/anlage_1.html) wurden amtlich gelesen. Die 190-EUR-Grenze betrifft das erste Beratungsgespräch mit einem Verbraucher ohne Gebührenvereinbarung; sie ist weder ein stets geschuldeter Pauschalpreis noch ein Bruttopreis. Umsatzsteuer soweit anfallend und erstattungsfähige Auslagen sind getrennt zu prüfen. Diese Qualifikation gilt auch für die kurzen Normhinweise in den Fachskills.
+
+Quellenabgleich vom 16.10.2026: [Paragraf 43a Absatz 2 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html) erfasst beruflich bekannt gewordene Informationen und setzt keinen bereits geschlossenen Mandatsvertrag voraus. Vertraulichkeit bei beruflichen Erstanfragen ist deshalb nicht bloß freiwillige Diskretion. [Paragraf 44 BRAO](https://www.gesetze-im-internet.de/brao/__44.html) verlangt die unverzügliche Erklärung einer gewollten Ablehnung; er verpflichtet nicht zur unverzüglichen Annahme. Beide amtlichen Normtexte wurden gelesen. Damit sind weder sämtliche Pflichten im Einzelfall noch die übrigen Berufsrechts- und Datenschutzangaben neu verifiziert.
 
 ---
 

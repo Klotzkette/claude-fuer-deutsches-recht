@@ -5,7 +5,7 @@
 
 Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-verordnung-transparenzpruefer/ki-verordnung-transparenzpruefer-hauptproblem.md" download>ki-verordnung-transparenzpruefer-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -71,7 +71,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 <a id="fachstand-445351-vom-9-oktober-2026"></a>
 
-## 1. Fachstand 445.35.2 vom 9. Oktober 2026
+<a id="1-fachstand-445352-vom-9-oktober-2026"></a>
+
+## Fachstand 445.35.2 vom 9. Oktober 2026
 
 Die amtliche konsolidierte KI-Verordnung einschließlich Änderungsverordnung 2026/1744 und deutscher Berichtigung vom 29. September wurde für die beschriebenen Korrekturen geöffnet. [Rechtsstand und Quellen](references/rechtsstand-2026-10-09.md). Systemrisikomanagement nach Artikel 9, Anbieter-Qualitätsmanagement nach Artikel 17 und Grundrechte-Folgenabschätzung bestimmter Betreiber nach Artikel 27 sind getrennte Prüfungen. ISO-Zertifikat, Risikoregister und Nachtraining unter einem Drittel ersetzen keine konkrete Systemeinstufung oder Konformitätsprüfung.
 

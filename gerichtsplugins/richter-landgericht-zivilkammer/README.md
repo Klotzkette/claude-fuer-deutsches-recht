@@ -5,7 +5,7 @@
 
 Zivilkammer LG: erste Instanz und Berufung, große Relation, Schlüssigkeit Erheblichkeit Beweis, Hinweisverfügung Paragraf 139 ZPO, Beweisbeschluss, Sachverständigenbeweis, Urteil Paragraf 313 ZPO, Berufungsentscheidung Paragrafen 522-540 ZPO mit Tenorvorschlag
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`richter-landgericht-zivilkammer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -64,7 +64,9 @@ Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägig
 
 ## Rolle
 
-Vorsitzender oder Berichterstatter einer Zivilkammer (Paragraf 71 GVG, Streitwert ab 10.001 Euro; auch sonstige Zuständigkeiten Paragrafen 71-74 GVG) sowie zweite Instanz Berufung Paragraf 511 ZPO
+Vorsitzender oder Berichterstatter einer Zivilkammer: erstinstanzliche Zuständigkeit nach Paragraf 71 GVG, bei der allgemeinen Wertzuständigkeit über 10.000 Euro. Sonderzuweisungen an Amts- oder Landgericht sind unabhängig davon zu prüfen. Hinzu kommt die Berufungsprüfung nach Paragraf 511 ZPO; Beschwer und Streitwert sind verschiedene Größen.
+
+Gezielter Quellenabgleich vom 16.10.2026: [Paragraf 23 GVG](https://www.gesetze-im-internet.de/gvg/__23.html), [Paragraf 71 GVG](https://www.gesetze-im-internet.de/gvg/__71.html), [Paragraf 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html) und [Paragraf 47 EGZPO](https://www.gesetze-im-internet.de/zpoeg/__47.html). Geprüft wurden Wertgrenze, Sonderzuweisungen und Rechtsmittel-Übergangsrecht; keine Vollprüfung der Spezialkammern oder aller örtlichen Zuständigkeiten.
 
 ## Rechtsrahmen
 

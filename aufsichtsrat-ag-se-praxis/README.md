@@ -5,7 +5,7 @@
 
 Praxisplugin für Aufsichtsräte in AG und SE: Überwachung, Informationsrechte, Vorstand bestellen/abberufen, Vergütung, Ausschüsse, Protokoll, Business Judgment, Haftungsvermeidung, Börse, SE und Mitbestimmung.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`aufsichtsrat-ag-se-praxis-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=aufsichtsrat-ag-se-praxis/aufsichtsrat-ag-se-praxis-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
@@ -62,11 +62,11 @@ Dieses Plugin ist der ruhige, präzise Copilot für Aufsichtsräte: Es fragt nac
 
 ## Startworkflow
 
-1. **Rolle und Ziel klären:** Wer fragt, wer entscheidet, wer trägt Risiko?
-2. **Unterlagen einsammeln:** Entwurf, Satzung, Geschäftsordnung, Beschluss, Term Sheet, Vertrag, Organunterlagen, E-Mail, Datenraum, Registerauszug.
-3. **Weiche wählen:** Entwerfen, prüfen, verhandeln, durchführen, protokollieren, eskalieren oder prozessfest dokumentieren.
-4. **Spezialskills ziehen:** Das Plugin schlägt nach dem Kaltstart die passenden Vertiefungen vor und stoppt nicht bei einer Scheinlösung.
-5. **Output liefern:** Matrix, Entwurf, Redline-Hinweise, Beschlussvorschlag, Protokollbaustein, Memo oder To-do-Liste.
+1. Vorstandsvorlage, Satzung, Geschäftsordnung und vorhandene Beschlüsse lesen; den konkreten Überwachungs- oder Entscheidungsauftrag daraus erfassen.
+2. Nur entscheidende Lücken zu Informationsstand, Organrolle, Interessenkonflikt oder Zuständigkeit nachfragen. Eine bereits klare Einzelprüfung braucht kein neues Kaltstart-Interview.
+3. Je nach Auftrag eine Informationsanforderung, Beschlussvorlage, Haftungsprüfung oder Dokumentation bearbeiten und dafür die passenden Fachskills nutzen.
+4. Tatsächliche Antworten und neue Vorlagen gezielt in denselben Arbeitsstand einarbeiten; offene Annahmen von belegten Entscheidungsgrundlagen trennen.
+5. Das vollständige bestellte Memo, Schreiben oder Beschlussdokument liefern. Die Organentscheidung und ihre Umsetzung bleiben bei den zuständigen Personen.
 
 ## Quellenhygiene
 

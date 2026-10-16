@@ -7,6 +7,8 @@ description: "Für Befristung nach TzBfG (Teilzeit- und Befristungsgesetz): prü
 
 ## Kaltstart-Rückfragen
 
+Lies vorhandene Verträge und Signaturnachweise zuerst. Die folgenden Punkte sind nur nachzufragen, soweit entscheidende Angaben fehlen; ein klarer Prüf- oder Klageauftrag wird unmittelbar bearbeitet.
+
 1. Liegt schriftlicher Arbeitsvertrag mit Befristung **vor** Beschäftigungsbeginn vor?
 2. Sachgrundbefristung (Paragraf 14 Abs. 1 TzBfG) oder sachgrundlos (Paragraf 14 Abs. 2 TzBfG)?
 3. Bei sachgrundloser Befristung: Vorbeschäftigung bei diesem Arbeitgeber?
@@ -17,7 +19,7 @@ description: "Für Befristung nach TzBfG (Teilzeit- und Befristungsgesetz): prü
 
 - **Sachgrundbefristung:** Paragraf 14 Abs. 1 TzBfG, sachliche Gründe in S. 2 Nr. 1 bis 8.
 - **Sachgrundlos:** Paragraf 14 Abs. 2 TzBfG — bis zu zwei Jahre, höchstens dreimalige Verlängerung in dieser Zeit.
-- **Form der Befristungsabrede:** Paragraf 14 Abs. 4 TzBfG verlangt weiterhin Schriftform. Zulässig sind Papieroriginal mit eigenhändiger Unterschrift beider Parteien (Paragraf 126 BGB) oder echte qES beider Parteien (Paragraf 126a BGB). Textform, E-Mail, PDF-Scan, einfache Signatur und fortgeschrittene Signatur ohne qualifiziertes Zertifikat genügen nicht.
+- Form der Befristungsabrede: Paragraf 14 Absatz 4 TzBfG verlangt Schriftform; Papieroriginal mit eigenhändiger Unterschrift beider Parteien oder echte qES nach Paragraf 126a BGB. Textform, E-Mail, Scan und einfache Signatur genügen hierfür nicht. Davon zu trennen ist die Vereinbarung über eine Beendigung mit Erreichen der Regelaltersgrenze nach Paragraf 41 Absatz 3 SGB VI: Für sie genügt Textform, Paragraf 14 Absatz 4 TzBfG gilt nicht.
 - **Befristungskontrollklage:** Paragraf 17 TzBfG — drei Wochen nach vereinbartem Ende; Versäumung führt zur Fiktion der Wirksamkeit (Paragraf 17 S. 2 iVm Paragraf 7 KSchG).
 - **Neueinstellung Älterer:** Paragraf 14 Abs. 3 TzBfG — sachgrundlose Befristung bis fünf Jahre, wenn der Arbeitnehmer bei Beginn des befristeten Arbeitsverhältnisses das 52. Lebensjahr vollendet hat **und** unmittelbar vor Beginn des Arbeitsverhältnisses **mindestens vier Monate** beschäftigungslos war (Paragraf 138 SGB III), Transferkurzarbeitergeld bezog oder an einer Maßnahme nach SGB II/III teilgenommen hat. Mehrfachverlaengerung innerhalb der Gesamtdauer von fünf Jahren zulaessig.
 - **Wissenschaftszeitvertragsgesetz (WissZeitVG):** Sondergesetz für Wissenschaft.
@@ -38,13 +40,15 @@ description: "Für Befristung nach TzBfG (Teilzeit- und Befristungsgesetz): prü
 ## Prüfschema
 
 ```
-1. Schriftform Paragraf 14 Abs. 4 TzBfG
+1. Form und einschlägige Sonderregel bestimmen
+   - Regelaltersgrenzenvereinbarung: Textform nach Paragraf 41 Absatz 3 SGB VI; nicht mit gewöhnlicher Befristung gleichsetzen.
+   - Sonst Schriftform nach Paragraf 14 Absatz 4 TzBfG prüfen.
    - Papieroriginal mit eigenhändiger Unterschrift beider Parteien oder echte qES beider Parteien vor Beschäftigungsbeginn?
    - Bei Plattformsignatur: qualifiziertes Zertifikat, Identifizierung, Zeitstempel, Dokumentbezug und Prüfprotokoll sichern; Standard-DocuSign/Adobe-Sign ohne qES-Stufe genügt nicht.
 2. Verlängerungen oder Neubefristung?
    - Verlängerung iSd Paragraf 14 Abs. 2 S. 1 Hs. 2 TzBfG ist nur die nahtlose Anschluss-Befristung ohne inhaltliche Änderung.
 3. Sachgrund oder sachgrundlos?
-   - Bei sachgrundlos: Vorbeschäftigung prüfen (BAG-Linie post-BVerfG).
+   - Bei sachgrundlos: Vorbeschäftigung prüfen (BAG-Linie post-BVerfG); bei Erreichen der Regelaltersgrenze die begrenzte Ausnahme des Paragrafen 41 Absatz 2 SGB VI gesondert prüfen.
    - Bei Sachgrund: Stichhaltigkeit der konkreten Gründe.
 4. Höchstdauer
    - Paragraf 14 Abs. 2 TzBfG zwei Jahre / drei Verlängerungen.
@@ -89,7 +93,7 @@ Rechtliche Bewertung:
 ## Übergabe
 
 - Klagefrist Paragraf 17 TzBfG **ab vereinbartem Ende** — anders als Paragraf 4 KSchG (ab Zugang).
-- Bei einvernehmlicher Verlängerung Schriftform peinlich genau wahren (Originale, Unterschriften vor Beginn).
+- Bei Verlängerung einer Befristung nach Paragraf 14 TzBfG die erforderliche Form und rechtzeitige Unterzeichnung prüfen; Regelaltersgrenzenvereinbarung und Hinausschieben des Beendigungszeitpunkts nicht ungeprüft gleichbehandeln.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0.
 
 ## Aktuelle Rechtsprechung (Stand Mai 2026)
@@ -111,6 +115,8 @@ Rechtliche Bewertung:
 - Paragraf 16 TzBfG — Rechtsfolge Unwirksamkeit: Arbeitsverhältnis gilt als unbefristet geschlossen
 
 ## Quellenregel
+
+Am 16.10.2026 wurden [Paragraf 14 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__14.html) und [Paragraf 41 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__41.html) gezielt abgeglichen. Absatz 2 des Paragrafen 41 enthält eine begrenzte Ausnahme vom Vorbeschäftigungsverbot, Absatz 3 die Textform für Regelaltersgrenzenvereinbarungen. Die vorhandenen Gerichtsentscheidungen wurden dadurch nicht erneut verifiziert.
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 

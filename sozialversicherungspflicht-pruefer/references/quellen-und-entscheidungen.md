@@ -1,5 +1,7 @@
 # Quellen und Entscheidungsanker
 
+Punktueller Wiederabgleich am 16.10.2026: [Paragraf 127 SGB IV](https://www.gesetze-im-internet.de/sgb_4/__127.html) wurde vollständig gelesen. Die Übergangsregel reicht unter ihren Voraussetzungen bis 31.12.2027 beziehungsweise verschiebt den beschäftigungsbedingten Versicherungsbeginn auf 01.01.2028. Gemeinsame Annahme der Selbständigkeit und Zustimmung müssen vorliegen; Lehrer-Rentenversicherung und KSVG bleiben eigene Prüfungen. Dieser Abgleich bestätigt den bestehenden Lehrkräftezweig, nicht sämtliche Entscheidungen und Normen dieses Verzeichnisses.
+
 ## 1. Stand und Verwendung
 
 Prüfstand 30. September 2026. Die nachstehenden Volltexte beziehungsweise ausdrücklich als solche bezeichneten amtlichen Terminberichte wurden für die genannten Aussagen gelesen. Der Abruf allein ist kein Nachweis sämtlicher Aussagen eines Dokuments. Normfassung, Tätigkeitszeitraum und konkrete Vergleichbarkeit werden bei jedem neuen Vorgang erneut geprüft. Keine automatische rechtliche Freigabe aus dem Quellenverzeichnis ableiten.

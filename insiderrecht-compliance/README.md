@@ -5,7 +5,7 @@
 
 Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`insiderrecht-compliance-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insiderrecht-compliance/insiderrecht-compliance-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -71,6 +71,8 @@ Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägig
 Dieses Plugin hilft Unternehmen, Kanzleien, Vorständen, Aufsichtsräten, Investor-Relations-Teams und Beratern bei Insiderrecht, Ad-hoc-Publizität und Marktmissbrauchsrisiken. Es fragt zuerst: Liegt eine Insiderinformation vor, wer weiß was, darf gehandelt werden, muss veröffentlicht werden, darf aufgeschoben werden, wer steht auf der Insiderliste, und welche Beweise braucht man später?
 
 ## Quellenanker
+
+Punktuell recherchiert am 16.10.2026: [VO (EU) 2024/2809, Artikel 4](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32024R2809), amtlich indexierte Anwendungsvorschrift gelesen. Die dort genannten Änderungen in Artikel 2 Nummer 6 Buchstaben a, b, c und e sind ab 05.06.2026 anzuwenden. Dieser Datumsabgleich ersetzt keine vollständige Prüfung der materiellen Ad-hoc-Regeln. Der direkte Volltextzugriff und ein belastbarer erneuter Abgleich des im Quellenbestand genannten delegierten Rechtsakts 2026/789 gelangen nicht; hierzu wird kein neuer Verifikationsstand behauptet.
 
 - Marktmissbrauchsverordnung (EU) Nr. 596/2014 (MAR), insbesondere Art. 7, 8, 10, 14, 17, 18 und 19.
 - Wertpapierhandelsgesetz (WpHG), insbesondere Sanktions- und Zuständigkeitsregeln live im amtlichen Text prüfen.

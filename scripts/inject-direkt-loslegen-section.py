@@ -676,7 +676,7 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
 | Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
 {focus_download}| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`]({RELEASE_BASE}/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index]({assets}); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.{testakten_block}
 {END}""")
     if not enabled(plugin_name, "schnellstart"):
         result = "\n".join(line for line in result.split("\n") if not line.startswith(("| Schnellstart / Mini-Prompt |", "| Kompakter Prompt (Schnellstart) |")))

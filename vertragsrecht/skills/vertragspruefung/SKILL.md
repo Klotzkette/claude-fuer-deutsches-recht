@@ -252,8 +252,7 @@ dass sie für einen redlich und verständig denkenden Kaufmann inakzeptabel wär
 
 **Laufzeit und Kündigung:**
 - Ordentliche Kündigung: zulässig oder nur fristgebundene außerordentliche?
-- Automatische Verlängerung: Ankündigungsfrist? Bei Verbrauchern
- § 309 Nr. 9 BGB beachten (max. 3 Monate Ankündigungsfrist)
+- Automatische Verlängerung: Vertragsdatum, AGB-Charakter und Anwendungsbereich prüfen. Nach der aktuellen Fassung von Paragraf 309 Nummer 9 BGB darf die Kündigungsfrist vor Ablauf der anfänglichen Laufzeit höchstens einen Monat betragen; eine stillschweigende Verlängerung ist nur auf unbestimmte Zeit mit jederzeitiger Kündigung innerhalb höchstens eines Monats zulässig. Gesetzliche Ausnahmen und das für Altverträge geltende Übergangsrecht gesondert prüfen. Im Unternehmerverkehr nicht unmittelbar anwenden, sondern Paragrafen 307 und 310 Absatz 1 BGB prüfen.
 - Vertragsstrafe (§ 339 BGB): angemessen? Herabsetzungsrecht nach
  § 343 BGB anwendbar?
 

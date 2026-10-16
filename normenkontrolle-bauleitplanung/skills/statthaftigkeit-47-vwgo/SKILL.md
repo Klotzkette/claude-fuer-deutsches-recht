@@ -65,14 +65,13 @@ description: "Für Statthaftigkeit Paragraf 47 VwGO: ordnet Norm, Beweislast und
 - BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (st. Rspr.)
 - Normenkontrolle gegen FNP regelmäßig unstatthaft
 
-### Ausnahme Außenwirkung
-- FNP-Darstellungen mit gesteigerter Außenwirkung sind statthaft
-- Konzentrationsflächen für Windenergie § 35 Abs. 3 S. 3 BauGB
-- BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Wendepunkt)
-- Hier ist Normenkontrolle gegen FNP statthaft
+### Begrenzte Ausnahme für die Ausschlussentscheidung
+- Bei einer Ausschlusswirkung nach Paragraf 35 Absatz 3 Satz 3 BauGB kann gerade diese planerische Entscheidung analog Paragraf 47 Absatz 1 Nummer 1 VwGO angreifbar sein.
+- BVerwG, Urteil vom 31.01.2013, 4 CN 1.12, Leitsätze und Randnummern 9 bis 10: Daraus folgt keine allgemeine Kontrolle der FNP-Darstellungen innerhalb der Konzentrationsfläche, etwa einer Höhenbegrenzung.
+- Für heutige Windenergieplanungen zunächst prüfen, ob diese Ausschlusswirkung und das einschlägige Übergangsrecht im konkreten Plan noch maßgeblich sind; den historischen Fall nicht pauschal übertragen.
 
 ### Inzident-Kontrolle
-- Wenn FNP nicht direkt angegriffen werden kann, gelegentlich Inzident-Kontrolle im Rahmen B-Plan-Normenkontrolle möglich (Anpassungsgebot § 8 Abs. 2 BauGB)
+- Wenn der FNP nicht direkt angegriffen werden kann, seine Bedeutung im Rahmen einer B-Plan-Normenkontrolle gesondert prüfen (Entwicklungsgebot nach Paragraf 8 Absatz 2 BauGB).
 
 ## Schritt 5 — Inkrafttreten der Norm
 
@@ -116,6 +115,10 @@ description: "Für Statthaftigkeit Paragraf 47 VwGO: ordnet Norm, Beweislast und
 
 ## Quellen
 
+[Paragraf 8 Absatz 2 BauGB](https://www.gesetze-im-internet.de/bbaug/__8.html), amtlich gelesen am 16.10.2026, trägt die Bezeichnung Entwicklungsgebot; daraus folgt keine allgemeine unmittelbare Anfechtbarkeit des FNP.
+
+Gezielter Abgleich am 16.10.2026: [Paragraf 47 VwGO](https://www.gesetze-im-internet.de/vwgo/__47.html) und [BVerwG 31.01.2013, 4 CN 1.12](https://www.bverwg.de/310113U4CN1.12.0) im amtlichen Text gelesen. Belegt ist die begrenzte FNP-Ausnahme, keine Vollprüfung der nachfolgenden historischen Entscheidungszuordnungen oder des aktuellen Windenergie-Übergangsrechts.
+
 - VwGO § 47 Abs. 1, Abs. 2, Abs. 6
 - BauGB §§ 8 10 11 12 13 13a 30 35 246
 - BayAGVwGO Art. 5
@@ -124,10 +127,8 @@ description: "Für Statthaftigkeit Paragraf 47 VwGO: ordnet Norm, Beweislast und
 - BVerwG, Urteil vom 18.11.2010 – 4 CN 3.10 (Präklusion)
 - BVerwG, Beschluss vom 31.1.2017 – 4 BN 28.16 (Antragsbefugnis Nachbar)
 
-## Ergänzende Rechtsprechung (Stand 05/2026, verifiziert bverwg.de)
+## Antragsbefugnis unmittelbar betroffener Grundstückseigentümer
 
-- **BVerwG 14.10.2020, 4 CN 4.19**: Antragsbefugnis im Normenkontrollverfahren — § 47 Abs. 2 VwGO setzt Geltendmachung einer moeglichen Rechtsverletzung voraus; abwaegungsfehlerhafte Plaene begruenden Antragsbefugnis, wenn der Antragsteller einen abwaegungserheblichen Belang geltend macht. Quelle: bverwg.de.
-- **BVerwG 04.05.2022, 4 CN 2.21**: Konzentrationszonen-Bauleitplanung (Wind/Solar) — Anforderungen an Statthaftigkeit und Antragsbefugnis von Nachbarn ausserhalb der Konzentrationszone. Quelle: bverwg.de.
-- **BVerwG 11.04.2024, 4 BN 50.23**: Klimaschutz als Abwaegungs- und ggf. Antragsbefugnis-relevanter Belang. Quelle: bverwg.de.
+[BVerwG, Urteil vom 27.08.2020, 4 CN 4.19, Randnummern 9 bis 10](https://www.bverwg.de/de/270820U4CN4.19.0), amtlicher Volltext gelesen am 16.10.2026: Greift ein Eigentümer eine Festsetzung an, die sein im Plangebiet gelegenes Grundstück unmittelbar betrifft, ist seine Antragsbefugnis wegen möglicher Eigentumsverletzung grundsätzlich gegeben. Maßgeblich sind Paragraf 47 Absatz 2 Satz 1 VwGO und Artikel 14 Absatz 1 Satz 2 GG.
 
-Konkrete Aktenzeichen vor Ausgabe per bverwg.de verifizieren.
+Diese Passage trägt keine allgemeine Aussage zur Antragsbefugnis außenstehender Nachbarn oder zu jedem abwägungserheblichen Belang. Sie belegt auch keinen Abwägungsfehler des Plans; die Sache wurde zur weiteren Sachprüfung zurückverwiesen. Andere Entscheidungszuordnungen dieses Skills wurden bei dieser gezielten Gegenprüfung nicht erneut verifiziert.

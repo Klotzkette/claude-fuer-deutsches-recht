@@ -30,7 +30,7 @@ Die folgenden Klauselvorschläge sind modular. Sie können einzeln oder als Pake
 
 ## Baustein 2 — Strafrechtliche Belehrung
 
-> Der Anbieter ist über die strafrechtlichen Folgen einer Verletzung der Verschwiegenheitspflicht nach § 203 Abs. 4 StGB und § 204 StGB belehrt. Der Anbieter verpflichtet seine eigenen Mitarbeiter und alle eingebundenen Subunternehmer in Textform (§ 126b BGB) zur Verschwiegenheit und belehrt sie ebenfalls über §§ 203, 204 StGB. Die Belehrung umfasst auch die gewerbsmäßige Variante nach § 203 Abs. 6 StGB. Der Normtext der §§ 203, 204 StGB ist als Anlage 1 Bestandteil dieses Vertrags.
+> Der Anbieter ist über die strafrechtlichen Folgen einer Verletzung der Verschwiegenheitspflicht nach § 203 Abs. 4 StGB und § 204 StGB belehrt. Der Anbieter verpflichtet seine eigenen Mitarbeiter und alle eingebundenen Subunternehmer in Textform (§ 126b BGB) zur Verschwiegenheit und belehrt sie ebenfalls über §§ 203, 204 StGB. Die Belehrung umfasst auch die höhere Strafandrohung bei Handeln gegen Entgelt oder in Bereicherungs- beziehungsweise Schädigungsabsicht nach Paragraf 203 Absatz 6 StGB. Der Normtext der §§ 203, 204 StGB ist als Anlage 1 Bestandteil dieses Vertrags.
 
 ## Baustein 3 — Erforderlichkeitsschwelle Kenntnis
 
@@ -109,10 +109,12 @@ Anlage 1 zum Vertrag — Strafrechtliche Belehrung
 
 ## Zentrale Normen (Paragrafenkette)
 
+Gezielter Normcheck am 16.10.2026: [Paragraf 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html), Absätze 4 und 6, gelesen. Nur Strafrechtszuordnung und Belehrungsbaustein abgeglichen; keine neue Vollprüfung der übrigen Vertragsklauseln.
+
 - §§ 305–310 BGB — AGB-Kontrolle; § 307 BGB (Unangemessene Benachteiligung)
 - § 126b BGB — Textform für Verpflichtungserklärungen
 - §§ 43e Abs. 3, 62a Abs. 3, 50a Abs. 3, 39c Abs. 3, 26a Abs. 3 — Vertragsinhalt Dienstleisterregelung
-- § 203 Abs. 4 Satz 2 Nr. 1 StGB — Sekundärpflicht des Dienstleisters
+- Paragraf 203 Absatz 4 Satz 2 Nummer 2 StGB: Weiterbeauftragung einer weiteren mitwirkenden Person; fehlende Sorge für deren Verpflichtung allein genügt nicht, erforderlich ist die dort beschriebene unbefugte Offenbarung.
 
 ## Triage zu Beginn
 

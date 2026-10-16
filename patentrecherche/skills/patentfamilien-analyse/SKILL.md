@@ -17,7 +17,7 @@ description: "Für patentfamilien-analyse: ordnet Norm, Beweislast und Gegenargu
 
 ### INPADOC-Familie
 
-Definition über den **Prioritätstag**. Alle Anmeldungen weltweit, die direkt oder indirekt auf dieselbe Erstanmeldung priorisieren (Pariser Verbandsübereinkunft, Art. 4 PVÜ — 12 Monate Prioritätsfrist).
+Eine erweiterte INPADOC-Familie verbindet Patentdokumente über Prioritätsansprüche: Jedes Mitglied teilt direkt oder über weitere Mitglieder mindestens eine Priorität. Ein gleicher Prioritätstag allein genügt nicht; technischer Inhalt und beanspruchte Prioritäten müssen nicht bei allen Mitgliedern identisch sein. Die Datenbankzuordnung ist keine Entscheidung über die rechtliche Wirksamkeit einer Priorität.
 
 - Eine Erstanmeldung in DE am 15.03.2018.
 - Innerhalb 12 Monaten Nachanmeldungen in EP, US, JP, CN, KR mit Priorität DE 15.03.2018.
@@ -82,7 +82,7 @@ Familientabelle als strukturiertes YAML/JSON an `freedom-to-operate-recherche` o
 ## Hinweise
 
 - **Datenlücken.** Nicht alle Ämter melden vollständig an INPADOC. Bei JP-, CN-, KR-Patenten kann die Familie unvollständig erfasst sein. Bei kritischen Mandaten: amtliche Direktrecherche im Zielland.
-- **Späte Nachanmeldungen** außerhalb der 12-Monats-Prioritätsfrist sind keine echte Familie, sondern eigenständige Anmeldungen mit eigenem Stand der Technik.
+- Familienzuordnung und wirksame Inanspruchnahme einer Priorität getrennt prüfen. Eine Zeitspanne von mehr als zwölf Monaten allein erlaubt keinen Ausschluss aus einer erweiterten INPADOC-Familie; maßgeblich sind die dokumentierten Prioritätsverbindungen und der jeweilige Anmeldungsweg.
 - **EP-Patente mit Einheitlichem Patent (UP).** Seit Juni 2023 gibt es das Einheitliche Patent. Erfasst alle Teilnehmer-Staaten als ein einziges Schutzrecht; in der Familienliste oft als "European patent with unitary effect" gekennzeichnet.
 - **PCT-Anmeldungen** (WO …) sind keine eigentlichen Patente, sondern Anmeldewege. Erst durch nationale Phasen entstehen die einzelnen Patente.
 - **Anmelderwechsel.** Familienmitglieder können verschiedene Anmelder haben (Anmelderwechsel, Konzernverschiebung). Bei FTO immer auf den **aktuellen** eingetragenen Inhaber im jeweiligen Register prüfen.
@@ -102,6 +102,8 @@ Bevor die Familienanalyse begonnen wird, klaere:
 ## Aktuelle Rechtsprechung
 
 
-> **EPA, Erweiterte Beschwerdekammer, G 2/10 (Teilanmeldung):** Eine EP-Teilanmeldung kann nur Gegenstande umfassen, die in der Stammanmeldung zum Zeitpunkt der Einreichung der Teilanmeldung offenbart waren; neue Merkmale können nicht nachtraeglich in eine Teilanmeldung eingefuehrt werden.
+EPA, Erweiterte Beschwerdekammer, Entscheidung vom 30.08.2011, G 2/10, Leitsatz 1a und 1b: Bei einem Disclaimer zu ursprünglich offenbartem Gegenstand ist nach Art. 123 Abs. 2 EPÜ zu prüfen, ob der verbleibende Anspruchsgegenstand unmittelbar und eindeutig aus der ursprünglichen Anmeldung hervorgeht. Das ist kein Anker für die Definition einer Patentfamilie und keine pauschale Entscheidung über die Zulässigkeit von Teilanmeldungen.
+
+Gezielte Primärquellenprüfung am 16.10.2026: [EPA-Familiendefinition](https://www.epo.org/de/searching-for-patents/helpful-resources/first-time-here/patent-families/inpadoc) und [G 2/10, amtlicher Leitsatz](https://www.epo.org/en/legal/official-journal/2012/06/p376). Geprüft wurden diese Zuordnungen, nicht sämtliche nationalen Anmeldungswege oder Registerstände.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

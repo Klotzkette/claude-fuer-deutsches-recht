@@ -1,5 +1,7 @@
 # konkurrenten-rechtsschutz
 
+Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/konkurrenten-rechtsschutz.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
 
@@ -73,7 +75,7 @@ Plugin für Konkurrenten, Wettbewerber und unterlegene Bieter im deutschen und e
 
 ## Dashboard-Arbeitsweise
 
-Das Plugin startet bei Streitfällen mit einem Konkurrenten-Dashboard: Rolle, Verfahrensstand, roter Fristenblock, Angriffsziel, Belege, Anträge, Kostenrisiko und nächster Output. Es trennt drei Lagen:
+Ein Konkurrenten-Dashboard kann komplexe Streitfälle begleiten: Rolle, Verfahrensstand, Fristen, Angriffsziel, Belege, Anträge und Kostenrisiko. Es ist eine optionale Übersicht, kein Pflichtvorspann vor dem bestellten Rechtsbehelf. Die Prüfung trennt drei Lagen:
 
 - Vor Angebotsabgabe: Bekanntmachung, Unterlagen, LV/GAEB/XML/Excel/PDF, Produktneutralität, Mindestanforderungen, Fristen und Bieterfragen prüfen; bei Fehlern Rüge und Berichtigung verlangen.
 - Nach Angebotsabgabe vor Zuschlag: Ausschluss, Aufklärung, Wertung, Eignung des Zuschlagsprätendenten, § 134 GWB-Schreiben, Zuschlagssperre und Akteneinsicht vorbereiten.
@@ -81,7 +83,7 @@ Das Plugin startet bei Streitfällen mit einem Konkurrenten-Dashboard: Rolle, Ve
 
 ## Ordnerfall ohne Skillwahl
 
-Für neue Streitfälle genügt der Aktenordner und dieser Satz: `Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.` Das Plugin startet selbstständig über `konkurrenzrechtsschutz-orchestrator`, liest sichtbare Angaben aus, liefert sofort die fünf Zeilen Lage, Rot, Angriff, Rechtsweiche und Jetzt und stellt erst danach höchstens drei echte Blockerfragen gesammelt. Die technischen Skill-Slugs bleiben stabil; ihre Auswahl erfolgt intern.
+Für neue Streitfälle genügt der Aktenordner mit dem gewünschten Ziel, etwa: `Prüfe den Ausschluss anhand dieser Unterlagen und formuliere eine fristgerechte Rüge.` Der `konkurrenzrechtsschutz-orchestrator` wertet die tragenden Dokumente aus und klärt nur fehlende Angaben, die Frist, Zulässigkeit oder Angriff ändern. Ein schon bestimmter Rechtsbehelf wird vollständig ausgearbeitet; bei noch offener Strategie wird die passende Rechtsweiche begründet. Nach Nichtabhilfe oder neuen Wertungsunterlagen setzt die Bearbeitung am betroffenen Dokument fort. Vorbereitung bedeutet keine erfolgte Einreichung oder gesicherte Fristwahrung.
 
 ## Skills
 

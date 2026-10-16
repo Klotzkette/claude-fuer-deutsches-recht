@@ -1,3 +1,11 @@
+# Qualitätsprüfung des Quellstands – 2026-10-16
+
+Die READMEs der 302 Plugins und die zugehörigen Prompt-Einstiege wurden fachgebietsweise auf Verständlichkeit, passende Arbeitsprodukte, Rückfragen und Fortsetzung geprüft. Unnötige Pflichtinterviews, unpassende Startanweisungen und widersprüchliche Angaben werden konkret korrigiert; die bewährten eigenständigen Arbeitsabläufe bleiben erhalten. Der Prüfbericht unter `quality/qualitaetsrunde-2026-10-16/` trennt individuelle Textprüfung, technische Bestandsprüfung und gezielte neue Quellenabgleiche.
+
+Amtliche Nachprüfungen berichtigen unter anderem sozialrechtliche Fristen, beamtenrechtliche Normzuordnungen, berufsrechtliche Geheimhaltungsregeln und unzutreffend eingeordnete Entscheidungsanker. Für den Pastiche-Anker ist der inzwischen gelesene amtliche Urteilstext statt allein der Pressemitteilung dokumentiert. Die übrigen Quellenstände werden nicht pauschal neu datiert; daraus folgt keine rechtliche Gesamtfreigabe sämtlicher Skills.
+
+Installation, Einzelpakete und Sammelstände werden deutlicher getrennt. Katalogzahlen und Einzelübersichten sind abgeglichen. Zusätzliche Regressionen erkennen veraltete Marketplace-Hinweise und unterscheiden vollständige Tabellen am Promptende von abgebrochenem Text. Bestehende Testakten, Versionstags und Release-Archive bleiben unverändert; diese Runde verbessert den Quellstand und ersetzt kein bereits veröffentlichtes Installationspaket.
+
 # strafvollzug-jva-v1.1.0 – 2026-10-16
 
 Zwei lebensnahe Akten aus Hessen und Baden-Württemberg ergänzen den Bestand um 68 Originaldateien. Sie verbinden Absonderung, streitige Gewaltvorwürfe, Suizidprävention, Schutzmaterial, Raum- und Belegungsdaten mit früheren anwaltlichen Anträgen, gerichtlichen Beschlüssen und bearbeitbaren Folgeentwürfen. Die vier bisherigen Akten bleiben erhalten.

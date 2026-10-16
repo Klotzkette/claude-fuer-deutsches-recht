@@ -4,6 +4,46 @@
   "reviewed_on": "2026-09-23",
   "sources": [
     {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-10-16",
+      "supports": "Absätze 2 und 4: Verschwiegenheit im beruflichen Erstkontakt und Vorbefassung in derselben Rechtssache; kein Mandatsvertrag als pauschale Schutzvoraussetzung. Amtlichen Normtext gelesen, keine vollständige Neuprüfung sämtlicher Konfliktregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__44.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlicher Normtext gelesen: unverzügliche Erklärung einer gewollten Ablehnung, keine unverzügliche Annahmepflicht. Gleichlautende falsche Normkurzform im Plugin korrigiert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__14.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Katalog gelesen: kein allgemeiner Widerrufstatbestand für jede schwere Berufsrechtsverletzung. Keine abschließende Sanktionenprüfung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__49b.html",
+      "checked_on": "2026-10-16",
+      "supports": "Absatz 5 gelesen: Hinweis auf Gegenstandswertabrechnung vor Übernahme, nicht pauschale Bezifferung aller Kosten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__151.html",
+      "checked_on": "2026-10-16",
+      "supports": "Amtlichen Normtext gelesen: Annahme kann unter den dortigen Voraussetzungen ohne Erklärung gegenüber dem Antragenden erfolgen. Kein Beleg für automatische Mandatsannahme jeder Erstanfrage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__311.html",
+      "checked_on": "2026-10-16",
+      "supports": "Absatz 2 gelesen: vorvertragliche Schutzpflichten können ohne Mandatsvertrag bestehen; pauschale Freizeichnung in Mustern beseitigt diese nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__34.html",
+      "checked_on": "2026-10-16",
+      "supports": "Absatz 1 gelesen: ohne Gebührenvereinbarung höchstens 190 EUR Gebühr für ein erstes Beratungsgespräch mit einem Verbraucher, kein allgemeiner Pauschalpreis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/anlage_1.html",
+      "checked_on": "2026-10-16",
+      "supports": "Gezielt Nummer 7008 gelesen: Umsatzsteuer auf Vergütung soweit anfallend; 190-EUR-Gebühr ist kein Bruttopreis. Keine Vollprüfung des gesamten Vergütungsverzeichnisses."
+    },
+    {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis. Identität und entscheidende Passage im amtlichen Suchindex geprüft; direkter PDF-Abruf nicht auswertbar, keine vollständige Neuprüfung aller übrigen Normen behauptet."

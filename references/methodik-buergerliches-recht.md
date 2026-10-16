@@ -120,7 +120,7 @@ Wer Rechtsfortbildung betreibt oder vorträgt, sollte sie **offen kennzeichnen**
 ## 6. Stellenwert der Quellen
 
 - **Gesetz** ist Ausgangspunkt jeder Argumentation.
-- **Rechtsprechung** ist nicht bindend (außer § 31 BVerfGG, Bindung an BVerfG-Entscheidungen), aber in der Praxis **gewichtig** — insbesondere BGH-Senatsentscheidungen mit Pinpoint-Randnummer.
+- Rechtsprechung trägt die Argumentation, begründet aber keine allgemeine Präzedenzbindung anderer Gerichte. Davon zu trennen sind die Rechtskraft im entschiedenen Streit nach [Paragraf 322 ZPO](https://www.gesetze-im-internet.de/zpo/__322.html), die besondere Bindung nach [Paragraf 31 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__31.html) und weitere gesetzliche Bindungen im konkreten Verfahren. Eine einschlägige höchstrichterliche Entscheidung anhand ihrer tragenden Randnummern und tatsächlichen Voraussetzungen auswerten, nicht allein wegen ihres Gerichtsnamens übertragen.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - **Herrschende Meinung** ist kein Selbstbeleg — sie muss mit konkreten Belegen unterlegt werden.
 

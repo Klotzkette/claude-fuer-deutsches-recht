@@ -9,7 +9,7 @@
 
 Grundsteuer von der Immobilie bis zum richtigen Rechtsbehelf: zehn Arbeitswege zu Lage, Landesmodell, Wert, Messbetrag, Hebesatz, Einspruch und Eilrechtsschutz mit nachrechenbaren Ergebnissen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -60,7 +60,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`grundsteuerrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/grundsteuerrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -144,6 +144,8 @@ Der Vergleich des niedrigeren Werts prüft ausschließlich die Rechnung für das
 <!-- decimal-anchor --> <a id="quellen-und-grenzen"></a>
 
 ## 1.10. Quellen und Grenzen
+
+Gezielter Entscheidungsabgleich am 16.10.2026: [BFH, Urteil vom 12.11.2025, II R 3/25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202620006/), Leitsätze und einschlägige Gründe zum Bundesmodell-Ertragswertverfahren sowie zur Kontrolle von Bodenrichtwerten gelesen. Die Entscheidung betrifft nicht sämtliche Ländermodelle; konkrete substantiierte Einwendungen gegen die Ermittlung eines Bodenrichtwerts bleiben relevant. Kein vollständiger neuer Abgleich der übrigen Entscheidungen oder anhängigen Verfassungsverfahren.
 
 Die [Fachquellen als Markdown-Download](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundsteuerrecht/references/grundsteuer-quellen.md) unterscheiden Normtext, Entscheidung und anhängiges Verfahren. Verifiziert sind insbesondere BFH II B 78/23 (AdV), II R 3/25 und II R 26/24. Das eine ist ein Eilbeschluss, das andere betrifft das Bundesmodell, das dritte Baden-Württemberg. Keine dieser Entscheidungen beseitigt die Prüfung des konkreten Bescheids. Prüfstand: 10. September 2026; vor einer rechtlichen Freigabe ist die einschlägige Fortentwicklung zu prüfen.
 

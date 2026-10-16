@@ -5,7 +5,7 @@
 
 Praxisplugin für neue Staatsanwaelte: Aktenstart, Anfangsverdacht, Ermittlungsauftrag, Eingriffe, Anklage, Strafbefehl, Einstellung, Sitzungsdienst, Rechtsmittel und OWiG.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`staatsanwaltschaft-praxis-einstieg-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [9 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -109,11 +109,11 @@ Für Ordnungswidrigkeiten arbeitet das Plugin bewusst mit anderer Sprache: kein 
 - **Art. 6 Abs. 2 i.V.m. Anhang III Nr. 8 lit. a KI-VO**: KI-Systeme, die von einer Justizbehörde oder in deren Auftrag bei der **Recherche und Auslegung von Sachverhalten und Rechtsvorschriften** sowie bei der **Anwendung des Rechts auf konkrete Sachverhalte** verwendet werden, sind grundsätzlich **Hochrisiko-KI**.
 - **Ausnahme nach Artikel 6 Absatz 3:** Artikel 6 Absatz 3 gilt nur im Anhang-III-Pfad: kein erhebliches Risiko für Gesundheit, Sicherheit oder Grundrechte, einschließlich keiner wesentlichen Beeinflussung des Entscheidungsergebnisses, und mindestens eine Fallgruppe nach Buchstaben a bis d belegen. Profiling natürlicher Personen schließt die Ausnahme aus. Anbieter dokumentieren nach Absatz 4 und registrieren nach Artikel 49 Absatz 2; menschliche Schlusskontrolle oder die Bezeichnung „vorbereitend“ allein genügen nicht. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
 - **Registrierung und Rollen:** Artikel 6 Absatz 4 und Artikel 49 Absatz 2 richten die Dokumentations- und Registrierungspflicht bei der Ausnahme an Anbieter beziehungsweise gegebenenfalls deren Bevollmächtigte. Öffentliche Betreiber prüfen daneben Artikel 49 Absatz 3. Registrierung in der vorgesehenen Datenbank und Notifizierung einer Konformitätsbewertungsstelle sind unterschiedliche Vorgänge. [amtlicher Text, Prüfstand 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
-- Die Einordnung ist im Einzelfall zu prüfen. Sobald das System konkrete Entscheidungsvorschläge produziert, die Subsumtion vornimmt oder die staatsanwaltschaftliche Würdigung ersetzt, wird die Schwelle zur Hochrisiko-KI überschritten.
+- Entscheidungsvorschläge und automatisierte Würdigung anhand des konkreten vorgesehenen Einsatzes, der genannten Anhangstatbestände und der Ausnahmevoraussetzungen beurteilen. Nicht allein aus der Bezeichnung „Subsumtion“ auf Hochrisiko schließen; umgekehrt genügt menschliche Schlusskontrolle allein nicht, um die Einstufung auszuschließen.
 
-### Art. 22 DSGVO — Verbot ausschließlich automatisierter Entscheidung
+### Verantwortliche Verfahrensentscheidung
 
-Die staatsanwaltschaftliche Letztentscheidung muss zwingend bei einem Menschen liegen. **Keine Maschine erhebt Anklage, stellt ein oder beantragt Untersuchungshaft.** Diese Skills sind ausschließlich **Unterstützung** der staatsanwaltschaftlichen Arbeit, niemals deren Ersatz. Der Staatsanwalt prüft, gewichtet, entscheidet — die KI bereitet vor und macht Vorschläge.
+Das Plugin erstellt Entwürfe, keine eigenständigen Anklage-, Einstellungs- oder Haftentscheidungen. Der zuständige Staatsanwalt prüft, gewichtet und entscheidet selbst. Für Strafverfolgungsdaten ist das einschlägige Datenschutzregime zu bestimmen; Artikel 22 DSGVO ist dafür kein pauschaler Ersatz. Ein vollständiger Entwurf bleibt bis zur verantwortlichen Prüfung und Freigabe ein Entwurf.
 
 ### Aktengeheimnis und Datenschutz
 

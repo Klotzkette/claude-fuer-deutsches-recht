@@ -1,4 +1,42 @@
 {
+  "readme_quality_followup_2026_10_16": {
+    "reviewed_on": "2026-10-16",
+    "method": "scoped_readme_and_workflow_desk_review",
+    "verdict": "revised",
+    "reason": "Parent-Treffer korrigiert: deutsche gerichtliche Vorlage und US-Bundesprozess-Discovery getrennt; vor dem Trial bedeutet nicht generell vor Klage. Begrenzte Primärprüfung dokumentiert.",
+    "files": [
+      {
+        "path": "common-law-kompass/README.md",
+        "sha256": "74300738f15eb078042fea1f2c4b0f46c9d3b367dca0ffb9a55378d8403b4738"
+      },
+      {
+        "path": "common-law-kompass/skills/cl-mandantenuebersicht-cl-prozesskostenrisiko/SKILL.md",
+        "sha256": "93d0182f685d2f59f080469fcc807fa9c3d6cf0062555751ae95334082d73ea9"
+      }
+    ],
+    "primary_sources_read": [
+      {
+        "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Gerichtliche Anordnung der Urkundenvorlegung; kein allgemeiner vorprozessualer Discovery-Anspruch.",
+        "limit": "Keine vollständige Prüfung materieller Auskunftsansprüche."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/zpo/__144.html",
+        "accessed_on": "2026-10-16",
+        "statement": "Gerichtliche Anordnung von Augenschein/Sachverständigen und darauf bezogener Vorlage/Duldung.",
+        "limit": "Keine vollständige Prüfung selbständiger Beweisverfahren."
+      },
+      {
+        "url": "https://www.uscourts.gov/sites/default/files/document/federal-rules-of-civil-procedure.pdf",
+        "accessed_on": "2026-10-16",
+        "statement": "Fassung 01.12.2025; Rule 26(d), Druckseite45, Timing nach Konferenz mit Ausnahmen; Rule27(a), Druckseite47, gesonderte Beweissicherung vor Klage.",
+        "limit": "Nur diese Passagen gelesen; keine US-Vollrecherche, keine State Rules oder englischen Disclosure-Regeln."
+      }
+    ],
+    "limits": "Gezielte Qualitäts-Folgerunde. Keine fachliche Vollverifikation, keine Live-Modelltests. Werkstatt, Mini und Fokus-Reviews unverändert, da deren gebundene Dateien nicht geändert wurden. Historische Quellen- und Releaseangaben nicht pauschal aktualisiert.",
+    "hash_scope": "Dateiprüfsummen bezeichnen den Lektürestand. Der nachfolgende zentrale Abgleich der Katalogzahl und des Sammelpakethinweises ist mit dem abschließenden README-Hash in quality/qualitaetsrunde-2026-10-16/einzelpruefungen.json dokumentiert."
+  },
   "prompt_opening_review_2026_10_16": {
     "date": "2026-10-16",
     "batch": 2,

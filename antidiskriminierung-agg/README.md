@@ -9,7 +9,7 @@
 
 Antidiskriminierung nach dem AGG: Bewerbungen, Arbeitsbedingungen, Beschwerden, Wohnraum und Dienstleistungen prüfen. Zehn Workflows verbinden Fristen, Indizien, Rechtfertigung und konkrete Schreiben mit kultursensibler Sachverhaltsaufnahme.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -54,7 +54,7 @@ Der Arbeitsweg trennt Bewerbung, Arbeitsplatz und Zivilverkehr. Vorhandene Angab
 | Großer Prompt (Werkstatt) | Markdown | [`antidiskriminierung-agg-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=antidiskriminierung-agg/antidiskriminierung-agg-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -104,6 +104,8 @@ Genau zehn Skills sind enthalten. Werkstatt und Schnellstart sind eigenständige
 <!-- decimal-anchor --> <a id="grenzen-und-respektvolle-bearbeitung"></a>
 
 ## 1.8. Grenzen und respektvolle Bearbeitung
+
+Gezielter Rechtsprechungsabgleich am 16.10.2026: [BAG, Urteil vom 29.01.2026, 8 AZR 49/25](https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/), insbesondere Rn. 19 bis 26 und 31 bis 38, gelesen. Selektives Kopftuchverbot und allgemeine Neutralitätsregel unterscheiden; objektive Vermittlerhandlungen und konkrete Rechtfertigung prüfen. Der Fall entscheidet nicht pauschal über jede Bekleidungsvorschrift. Der vorhandene Prompt-Anker bleibt bestehen; keine neue Vollverifikation aller AGG-Fälle.
 
 Eine Ungerechtigkeit ist nicht automatisch ein AGG-Verstoß. Das Paket trennt nachgewiesene Tatsachen, Angaben der Beteiligten und noch offene Fragen. Herkunft, Religion oder Sprachkenntnisse werden nicht aus Namen oder Aussehen abgeleitet. Es gibt keine Listen mit Beschimpfungen. Für den Fall wichtige Aussagen werden sachlich beschrieben; Originalbelege werden unverändert gesichert.
 

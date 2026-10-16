@@ -5,7 +5,7 @@
 
 Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`schriftform-und-textform-bgb-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -94,7 +94,7 @@ Die Befristungsabrede nach § 14 Abs. 4 TzBfG bleibt ein strenger Schriftformfal
 
 Der Formmangel führt nicht nur zu einem Beweisproblem, sondern materiell zu § 16 Satz 1 TzBfG: Die Befristung ist unwirksam und der Arbeitsvertrag gilt als unbefristet. Die gerichtliche Kontrolle läuft über § 17 TzBfG. Leitanker für die Skillarbeit sind ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20, LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21, und ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23.
 
-### Leitentscheidungen
+### Prozessuale Formfiktion
 
 - **§ 130e ZPO und § 46h ArbGG seit 17.07.2024** — Formfiktion für klar erkennbare Willenserklärungen in elektronischen vorbereitenden Schriftsätzen, auch wenn elektronische Form materiell eigentlich ausgeschlossen ist.
 
@@ -147,6 +147,8 @@ Der Formmangel führt nicht nur zu einem Beweisproblem, sondern materiell zu § 
 | `mandantenkorrespondenz-form-und-zugang-templates` | Mandantenbriefe, Checklisten, Warnmemos |
 
 ## Hinweis
+
+Gezielter Quellenabgleich vom 16.10.2026: [Paragraf 578 BGB](https://www.gesetze-im-internet.de/bgb/__578.html) und [Artikel 229 Paragraf 70 EGBGB](https://www.gesetze-im-internet.de/bgbeg/art_229__70.html) wurden für langfristige Grundstücks- und Gewerberaummiete sowie das Übergangsrecht gelesen. Für Altverträge endete die unveränderte Übergangsphase mit Ablauf des 01.01.2026; bei Landpacht mit Ablauf des 01.07.2026. Frühere Vertragsänderungen können den Wechsel bereits ausgelöst haben. Textformmängel bedeuten bei erfassten Mietverträgen grundsätzlich unbestimmte Laufzeit, nicht automatisch Vertragsnichtigkeit. Keine neue Prüfung aller arbeitsrechtlichen Sonderformen oder hier aufgeführten Gerichtsentscheidungen.
 
 Alle Skills sind kanzleitauglich formuliert und enthalten vollständige Klauseltexte, Mandantenmemos und Querverweise auf aktuelle BGH-Rechtsprechung. Das Plugin ersetzt keine individuelle Rechtsberatung.
 

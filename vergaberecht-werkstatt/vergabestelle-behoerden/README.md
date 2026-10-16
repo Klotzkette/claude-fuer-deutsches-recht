@@ -1,5 +1,7 @@
 # vergabestelle-behoerden
 
+Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/vergabestelle-behoerden.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
 
@@ -26,7 +28,7 @@ Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installatio
 
 > Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.
 
-Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das Plugin antwortet sofort in fünf Zeilen mit `Lage | Rot | Akte | Rechtsweiche | Jetzt`, verarbeitet den Fall danach selbstständig und stellt am Ende höchstens drei echte Blockerfragen. Bereits sichtbare Angaben werden nicht erneut erfragt.
+Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das Plugin bearbeitet den Auftrag eigenständig. Bei einem offenen Ordnerauftrag kann es mit `Lage | Rot | Akte | Rechtsweiche | Jetzt` orientieren. Ist ein bestimmtes Dokument bestellt, beginnt es nach der Unterlagensichtung unmittelbar damit. Pro Rückfragerunde werden höchstens drei echte, entscheidende Lücken gebündelt erfragt; bereits sichtbare Angaben werden nicht erneut erfragt. Antworten werden im selben Entwurf verarbeitet. Weitere Rückfragen folgen nur bei neuen entscheidenden Lücken, bis das bestellte Dokument vorliegt.
 
 <details>
 <summary><strong>Weitere Prompt- und Skill-Downloads anzeigen</strong></summary>
@@ -78,13 +80,13 @@ Bei komplexen Vergaben oder Rügen startet das Plugin mit einem Vergabestellen-D
 
 ## Ordnerfall ohne Skillwahl
 
-Für neue Verfahren genügt der Fallordner und dieser Satz: `Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.` Das Plugin startet selbstständig über `vergabe-os-master-orchestrator`, liest sichtbare Angaben aus, liefert sofort die fünf Zeilen Lage, Rot, Akte, Rechtsweiche und Jetzt und stellt erst danach höchstens drei echte Blockerfragen gesammelt. Die technischen Skill-Slugs bleiben stabil; ihre Auswahl erfolgt intern.
+Für neue Verfahren genügt der Fallordner und dieser Satz: `Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.` Das Plugin startet über `vergabe-os-master-orchestrator` und wertet die Unterlagen aus. Ein kurzer Lageüberblick hilft bei offenem Auftrag, ist aber keine Pflichtvorstufe eines bereits bestellten Dokuments. Neue Antworten führen zur gezielten Fortsetzung bis zum Entwurf; nur für externe Handlungen bleibt eine ausdrückliche Freigabe erforderlich.
 
 ## Rechtsregime
 
 - Oberhalb EU-Schwellenwert: GWB Teil 4 (§§ 97 ff.), VgV / SektVO / KonzVgV / VSVgV. Nachprüfung vor Vergabekammer und OLG.
 - Unterhalb EU-Schwellenwert: BHO/LHO § 55, UVgO (Bund) und landesrechtliche Vergaberegeln. Kein GWB-Nachprüfungsautomatismus; landesrechtliche Prüfstellen, Informations- und Wartepflichten, gerichtlicher Eilrechtsschutz, Aufsicht, Fördermittelkontrolle und Schadensersatz fallbezogen prüfen.
-- Bauleistungen: VOB/A — Abschnitt 1 (Unterschwelle), Abschnitt 2 (ab EU-Schwellenwert), Abschnitt 3 (Sektoren-Bau).
+- Bauleistungen: VOB/A Abschnitt 1 für die Unterschwelle nach anwendbarem Haushaltsrecht, Abschnitt 2 für den allgemeinen Oberschwellenbereich und Abschnitt 3 für verteidigungs- oder sicherheitsspezifische Bauaufträge nach Paragraf 2 Absatz 2 VSVgV. Sektorenbeschaffungen nach Paragraf 1 SektVO sind nicht mit VOB/A Abschnitt 3 gleichzusetzen.
 - Bund-Länder-Reform 2026: Vergabebeschleunigungsgesetz, Direktauftragsgrenzen, Landeswertgrenzen, Verkündung, Stichtag, Fördermittel, Binnenmarktrelevanz und kommunale Satzung vor jeder Unterschwellenentscheidung live prüfen.
 
 ## Skills

@@ -48,8 +48,8 @@ Für jede Testakte gilt der unveränderte zweisprachige Hinweis aus [`AGENTS.md`
 
 ## Verboten
 
-- Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).
-- Vorprozessuale Beweiserhebung im deutschen Recht ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144, 421–432 ZPO, § 810 BGB, § 242 BGB, Art. 15 DSGVO, Auskunfts- und Stufenklage (§ 254 ZPO).
+- Aus einem Präzedenzfall ohne Rechtsgrundlage eine allgemeine Bindung anderer Gerichte ableiten. Rechtskraft und besondere gesetzliche Bindungswirkungen sind davon zu unterscheiden, insbesondere Paragraf 322 ZPO und Paragraf 31 BVerfGG; die Bindung im konkreten Verfahren gesondert prüfen.
+- Prozessuale Instrumente als allgemeine vorprozessuale Offenlegungsrechte darstellen. Paragrafen 142, 144 und 421 bis 432 ZPO betreffen Beweiserhebung im gerichtlichen Verfahren. Vorprozessual kommen das selbständige Beweisverfahren nach Paragrafen 485 ff. ZPO sowie einschlägige Auskunfts- oder Einsichtsansprüche in Betracht, etwa nach Paragraf 810 BGB, Paragraf 242 BGB oder Artikel 15 DSGVO unter ihren jeweiligen Voraussetzungen. Eine Stufenklage nach Paragraf 254 ZPO ist selbst ein gerichtliches Verfahren.
 - Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang empfehlen.
 - Verletzung der anwaltlichen Verschwiegenheit (Paragraf 43a Absatz 2 BRAO, Paragraf 203 StGB). Dienstleisterzugang nach Paragraf 43e BRAO und Datenschutzrolle getrennt prüfen. Bei Auftragsverarbeitung ist eine Vereinbarung nach Artikel 28 DSGVO erforderlich; sie allein legitimiert weder Geheimniszugang noch Drittlandtransfer. Andere Rollen nicht durch die Überschrift AVV ersetzen.
 

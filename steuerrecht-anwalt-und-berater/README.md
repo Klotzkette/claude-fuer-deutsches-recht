@@ -5,7 +5,7 @@
 
 Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md" download>steuerrecht-anwalt-und-berater-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [21 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -167,15 +167,15 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 | `/steuerrecht-anwalt-und-berater:anw-verbindliche-auskunft` | Verbindliche Auskunft § 89 Abs. 2 AO |
 | `/steuerrecht-anwalt-und-berater:anw-fristenbuch-steuerrecht` | Fristenbuch: Einspruchsfrist, Klagefrist, Vorfristen |
 | `/steuerrecht-anwalt-und-berater:anw-betriebsausgaben-werbungskosten-pruefraster` | Prüfraster Betriebsausgaben/Werbungskosten § 4 Abs. 4 / § 9 EStG |
-| `/steuerrecht-anwalt-und-berater:anw-umsatzsteuer-vorsteuerabzug-pruefen` | Vorsteuerabzug § 15 UStG — Prüfraster, eRechnung-Pflicht ab 1.1.2025 |
+| `/steuerrecht-anwalt-und-berater:anw-umsatzsteuer-vorsteuerabzug-pruefen` | Vorsteuerabzug § 15 UStG; bei E-Rechnungen Empfang und Ausstellung trennen und Übergänge nach Paragraf 27 Absatz 38 UStG prüfen. |
 
 ### Ersteinrichtung
 
 ```
-/steuerrecht-anwalt-und-berater:anw-kaltstart-interview
+/steuerrecht-anwalt-und-berater:kaltstart-interview-anwalt
 ```
 
-Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` gespeichert.
+Eine gewünschte dauerhafte Konfiguration kann bei vorhandenem Schreibzugriff unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md` gespeichert werden. Ohne diesen Zugriff bleiben die Vorgaben im aktuellen Auftrag; eine Speicherung wird nicht behauptet. Für einen konkreten Bescheid oder Entwurf ist keine vorgelagerte Ersteinrichtung erforderlich.
 
 ---
 
@@ -242,7 +242,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
             ↓  bei Signing/Closing, Anzeige oder Bescheidstreit
   [anw-grest-signing-closing-doppelfestsetzung] + [anw-grest-anzeige-19-closing-check] + [anw-grest-bescheid-einspruch-adv-16]
             ↓  bei Konzern ≥ 750 Mio. EUR Konzernumsatz
-  [anw-minbestg-pillar2-konzernbesteuerung]   — Pillar 2 / MinBestG, GIR-Erstabgabe 18 Monate (§ 95 Abs. 1 MinStG)
+  [anw-minbestg-pillar2-konzernbesteuerung]   — Pillar 2 / MinStG: Mindeststeuer-Bericht grundsätzlich 15 Monate; erstes berichtspflichtiges Gruppenjahr 18 Monate (Paragraf 75 Absatz 3 Sätze 1 und 2 MinStG). Steuererklärung nach Paragraf 95 gesondert prüfen.
             ↓  bei grenzüberschreitenden Konstellationen
   Plugin [`aussenwirtschaft-zoll-sanktionen`](../aussenwirtschaft-zoll-sanktionen/)   — DBA-Klauseln, APAs, Verrechnungspreise, Sanktionscompliance
 ```

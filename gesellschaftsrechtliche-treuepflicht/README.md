@@ -5,7 +5,7 @@
 
 Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung, Treuepflichtverletzung und Rechtsfolgen.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gesellschaftsrechtliche-treuepflicht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -68,15 +68,15 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du eine gesellschaftsrechtliche Treuepflicht prüfen: Stimmverhalten, Informationsnutzung, Wettbewerb, Blockade, Minderheitenschutz, Organpflichten und Rechtsfolgen.
-Dieses Plugin prüft gesellschaftsrechtliche Treuepflicht nicht als wolkiges Gerechtigkeitsgefühl, sondern als präzise Interessen-, Rollen- und Rechtsfolgenprüfung. Es hilft, aus Konfliktstoff gerichtsfeste Argumente, Verteidigungslinien und Vergleichsoptionen zu bauen.
+Dieses Plugin prüft gesellschaftsrechtliche Treuepflicht nicht als wolkiges Gerechtigkeitsgefühl, sondern als präzise Interessen-, Rollen- und Rechtsfolgenprüfung. Es hilft, aus Konfliktstoff belegte Argumente, Verteidigungslinien und Vergleichsoptionen zu bauen.
 
 ## Startworkflow
 
-1. **Rolle und Ziel klären:** Wer fragt, wer entscheidet, wer trägt Risiko?
-2. **Unterlagen einsammeln:** Entwurf, Satzung, Geschäftsordnung, Beschluss, Term Sheet, Vertrag, Organunterlagen, E-Mail, Datenraum, Registerauszug.
+1. Auftrag und Konfliktunterlagen lesen: Aus Satzung, Beschluss, Vertragsentwurf und Korrespondenz Rolle, Interessen und gewünschte Rechtsfolge bestimmen.
+2. Nur entscheidende Lücken klären: Fehlen etwa Beschlusswortlaut, Abstimmungsverhalten oder Zweck der Maßnahme, gezielt nachfragen; unabhängige Teile des Entwurfs weiterbearbeiten.
 3. **Weiche wählen:** Entwerfen, prüfen, verhandeln, durchführen, protokollieren, eskalieren oder prozessfest dokumentieren.
-4. **Spezialskills ziehen:** Das Plugin schlägt nach dem Kaltstart die passenden Vertiefungen vor und stoppt nicht bei einer Scheinlösung.
-5. **Output liefern:** Matrix, Entwurf, Redline-Hinweise, Beschlussvorschlag, Protokollbaustein, Memo oder To-do-Liste.
+4. Passenden Fachweg unmittelbar bearbeiten: Kein Pflicht-Kaltstart vor einem klaren Auftrag; nur konkrete Interessen-, Zustimmungs- oder Haftungsfragen vertiefen.
+5. Das beauftragte Dokument fertig ausarbeiten: etwa Beschlussvorschlag, Erwiderung oder Vergleichstext mit belegter Abwägung. Folgeantworten an der betroffenen Begründung oder Klausel umsetzen.
 
 ## Quellenhygiene
 

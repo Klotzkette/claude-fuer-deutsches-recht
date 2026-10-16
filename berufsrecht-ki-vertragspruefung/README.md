@@ -5,7 +5,7 @@
 
 Berufsrechtliche und strafrechtliche Vorprüfung von Verträgen mit Legal-AI-Anbietern: Paragraf 43e BRAO, Paragraf 203 StGB, Consumer-Tool-Abgrenzung, No-Training, Telemetrie, Drittstaat, KI-VO-Rollen, Art.-50-Transparenz, Schatten-KI und Klauselvorschläge.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`berufsrecht-ki-vertragspruefung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=berufsrecht-ki-vertragspruefung/berufsrecht-ki-vertragspruefung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -93,7 +93,7 @@ Arbeitslinie: KI-Outsourcing kann berufsrechtlich möglich sein, wenn der Dienst
 | Steuerberater | § 57 Abs. 1 StBerG | § 62a StBerG | Abs. 1 Nr. 3 |
 | Wirtschaftsprüfer | § 43 WPO | § 50a WPO (§ 59c bei BG) | Abs. 1 Nr. 3 |
 | Patentanwalt | § 39a Abs. 2 PAO | § 39c PAO | Abs. 1 Nr. 3 |
-| Notar | § 18 BNotO | § 26a BNotO | Abs. 1 Nr. 1 |
+| Notar | § 18 BNotO | § 26a BNotO | Abs. 1 Nr. 3 |
 
 Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrahiert die gemeinsame Prüfung und stellt pro Beruf eine Norm-Adapter-Tabelle bereit.
 
@@ -135,6 +135,8 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 **Diese Vorprüfung ist ausdrücklich keine Rechtsberatung.** Sie ist eine strukturierte Argumentationshilfe für das Anbietergespräch. Die berufsrechtliche und strafrechtliche Beurteilung des konkreten Einzelfalls bleibt der nutzenden Kanzlei (interne Compliance) bzw. einer beauftragten Spezialkanzlei vorbehalten.
 
 ## Quellenpolitik
+
+Gezielter Normcheck am 16.10.2026: [Paragraf 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html), Absätze 1, 3, 4 und 6, gelesen. Notare gehören zu Absatz 1 Nummer 3. Absatz 3 begrenzt den zulässigen Geheimniszugang; Absatz 4 regelt Strafbarkeit, keine allgemeine Rechtfertigung durch förmliche Verpflichtung. Die fehlende Verpflichtung allein erfüllt Absatz 4 Satz 2 Nummer 1 nicht: Hinzukommen muss die dort beschriebene unbefugte Offenbarung durch die mitwirkende Person. Absatz 6 nennt Entgelt sowie Bereicherungs- oder Schädigungsabsicht, nicht Gewerbsmäßigkeit. Die übrigen Berufsordnungen und Anbieterbedingungen wurden nicht vollständig neu verifiziert.
 
 - Gesetze zuerst: § 43e BRAO, § 43a Abs. 2 BRAO, § 2 BORA, § 203 StGB, Parallelnormen der anderen Berufsgeheimnisträger, DSGVO, KI-Verordnung
 - BT-Drs. 18/12940 für die Genese der Dienstleisterregelungen

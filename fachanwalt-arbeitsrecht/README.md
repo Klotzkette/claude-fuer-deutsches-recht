@@ -5,7 +5,7 @@
 
 Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md" download>fachanwalt-arbeitsrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -83,10 +83,7 @@ Wenn du das hier öffnest, willst du eine Kündigung rechtssicher angreifen oder
 ## Anwalts-Dashboard für den Schnelleinstieg
 
 Der Skill `einstieg-routing` ist das Anwalts-Dashboard zu diesem Plugin:
-Sofort-Triage als Tabelle (Rolle, Verfahrensstand, Eilfrist, Hauptanspruch,
-Zuständigkeit), Risiko-Ampel, Anschluss-Skill-Router mit echten Slugs,
-Norm-Radar, Leitentscheidungs-Anker und genau eine Rückfrage - bei
-klarer Faktenlage sofort zum Spezial-Skill. Der Anwalt bleibt im Driver Seat.
+Kündigung, Vertrag und Zugangsnachweise werden zuerst gelesen. Ein klarer Auftrag führt unmittelbar zum Klageentwurf, zur Vertragsprüfung oder zur Mandanteninformation. Nur offene Angaben, die Frist, Anspruch oder Verteidigung verändern, werden nachgefragt. Nachgereichte Belege fließen in den laufenden Entwurf ein; eine Fallübersicht dient der Orientierung, nicht als vorgeschaltetes Pflichtprodukt.
 
 - Konvention: [`references/anwalts-dashboard-konvention.md`](../references/anwalts-dashboard-konvention.md)
 - Quellen-Anker: [`references/leitentscheidungen-anker.md`](../references/leitentscheidungen-anker.md)
@@ -97,7 +94,9 @@ Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungssch
 
 ## Befristung: Schriftform, qES und Entfristungsrisiko
 
-Bei jeder Befristungsabrede ist § 14 Abs. 4 TzBfG als harter Form-Stop vor alle Sachgrund- und Vorbeschäftigungsfragen zu ziehen. Zulässig sind nur Papieroriginale mit eigenhändiger Unterschrift beider Vertragsparteien oder die elektronische Form mit echter qualifizierter elektronischer Signatur beider Parteien nach § 126a BGB. Eine E-Mail, ein Scan, ein Unterschriftsbild, eine einfache elektronische Signatur, eine fortgeschrittene Signatur ohne qualifiziertes Zertifikat oder ein Standard-Signaturportal ohne qES-Stufe wahrt die Form nicht.
+Gezielte Nachprüfung vom 16.10.2026: [Paragraf 14 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__14.html) und [Paragraf 41 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__41.html) wurden hinsichtlich Form und Regelaltersgrenze abgeglichen. Zusätzlich wurde [BAG, Urteil vom 30.01.2025, 2 AZR 68/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/), insbesondere Rn. 10 bis 21, zum Zugang gelesen: Einlieferungsbeleg und Online-Sendungsstatus ohne Auslieferungsbeleg genügten dort nicht für den Anscheinsbeweis. Das schließt andere Zugangsbeweise nicht aus. Die übrigen Rechtsprechungsanker behalten ihren bisherigen Prüfstatus.
+
+Für Befristungsabreden nach Paragraf 14 Absatz 4 TzBfG ist die Schriftform gesondert zu prüfen: Papieroriginale mit eigenhändiger Unterschrift beider Parteien oder elektronische Form mit echter qualifizierter elektronischer Signatur nach Paragraf 126a BGB. E-Mail, Scan oder einfache Signatur genügen hierfür nicht. Die Sonderregel für Vereinbarungen über die Beendigung mit Erreichen der Regelaltersgrenze steht dagegen in Paragraf 41 Absatz 3 SGB VI: Dort genügt Textform, und Paragraf 14 Absatz 4 TzBfG gilt nicht. Diese Ausnahme darf nicht auf gewöhnliche Befristungen übertragen werden.
 
 Fehlt die Form, gilt der Arbeitsvertrag nach § 16 Satz 1 TzBfG als unbefristet. Für Arbeitnehmer läuft die Befristungskontrollklage nach § 17 TzBfG drei Wochen ab dem vereinbarten Befristungsende. Arbeitsvertragsmuster und Mandantenmemos müssen diese Rechtsfolge ausdrücklich nennen und die Signaturdokumentation als Belegposition abfragen.
 

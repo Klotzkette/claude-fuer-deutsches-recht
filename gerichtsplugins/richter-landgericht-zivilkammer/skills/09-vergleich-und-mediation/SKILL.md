@@ -12,7 +12,7 @@ Vergleichsgespraech leiten Paragraf 278 ZPO, Mediation Paragraf 278a ZPO, Prozes
 ## Rolle
 
 
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: bei allgemeiner Wertzuständigkeit erstinstanzlich über 10.000 Euro Streitwert, Sonderzuweisungen gesondert prüfen, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
 
 ## Rechtsrahmen
 
@@ -20,7 +20,7 @@ ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
 
 ## Pflichtschritte
 
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+1. Wertzuständigkeit über 10.000 Euro, Sonderzuweisungen und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
 2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
 3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
 4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.

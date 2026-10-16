@@ -1,11 +1,13 @@
 # KI-Governance-Plugin
 
+Prüfe einen konkreten KI-Anwendungsfall, einen Anbieterentwurf oder eine bestehende Richtlinie. Für Datenschutz, Rechtsabteilung und Einkauf entstehen daraus die beauftragte Folgenabschätzung, Vertragsänderung oder Entscheidungsvorlage mit belegten Freigabebedingungen. Vorhandene Unterlagen bestimmen den Einstieg, nicht ein vorgeschaltetes Standardinterview.
+
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
 
-Dieses Plugin gehört zum Marketplace mit 296 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ki-governance-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-governance/ki-governance-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [10 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 296 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -87,7 +89,7 @@ einschlägige deutschsprachige Rechtsgrundlagen (ProdHaftG, GeschGehG, UrhG, § 
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – mit Fundstellen, Markierungen und
 Kontrollgates versehen; kein Rechtsgutachten.** Das Plugin erledigt die Vorarbeit: Dokumente
-lesen, Prüfrahmen anwenden, Probleme aufdecken, Memo entwerten. Der Anwalt prüft, verifiziert
+lesen, Prüfrahmen anwenden, Probleme aufdecken, Memo entwerfen. Der Anwalt prüft, verifiziert
 und entscheidet. Quellenangaben sind nach Herkunft gekennzeichnet. Berufsrechtliche Markierungen
 (§ 203 StGB, § 43a Abs. 2 BRAO) werden konservativ gesetzt. Folgenreiche Handlungen
 (Einreichen, Versenden, Ausführen) werden vor Umsetzung explizit bestätigt.
@@ -103,10 +105,10 @@ und entscheidet. Quellenangaben sind nach Herkunft gekennzeichnet. Berufsrechtli
 
 ## Erster Start: das Kaltstart-Interview
 
-Das Plugin befragt Sie, um zu erfahren: Sind Sie Anbieter, Betreiber oder beides? Welche
-Regelwerke greifen konkret? Wo sind die roten Linien? Wie sieht eine interne Folgenabschätzung
-bei Ihnen aus? Danach liest es Ihre Seed-Dokumente und lernt Ihre tatsächlichen Positionen
-und Ihren Haustil.
+Das optionale Interview richtet ein wiederverwendbares Praxisprofil ein. Zuerst werden die
+vorhandenen Richtlinien, Verträge und früheren Prüfungen gelesen. Nur offene Rollen,
+Entscheidungen oder Hausvorgaben werden erfragt. Bei einem konkreten Anwendungsfall oder
+Dokumentauftrag beginnt die Facharbeit direkt; neue Antworten ergänzen den laufenden Entwurf.
 
 ```
 /ki-governance:kaltstart-interview
@@ -133,7 +135,7 @@ und Ihren Haustil.
 | **kaltstart-interview** | Schreibt `~/.claude/plugins/config/claude-fuer-deutsches-recht/ki-governance/CLAUDE.md` aus Interview + Seed-Dokumente |
 | **ki-inventar** | Internes Organisationsverzeichnis mit Rollen, Funktionen, parallelen Pflichten und Quellen; von gesetzlichen Datenbankeinträgen nach Artikel 49 und 71 zu unterscheiden |
 | **anwendungsfall-triage** | Prüft Anwendungsfälle gegen das Register; meldet fehlende Folgenabschätzungen |
-| **ki-folgenabschätzung** | KI-Folgenabschätzung im Hausformat (FRIA + DSFA) |
+| **ki-folgenabschätzung** | Auslöser für FRIA und DSFA getrennt prüfen; nur die jeweils erforderliche Prüfung im Hausformat ausarbeiten |
 | **ki-anbieter-prüfung** | KI-spezifischer Vertragsreview gegen Governance-Positionen (Art. 11 KI-VO, Art. 28 DSGVO) |
 | **regulierungs-luecken-analyse** | Neuer Rechtsakt/Leitlinie vs. Ist-Stand, Remediation-Plan |
 | **richtlinien-monitor** | Prüft Ausgaben auf Praxisdrift; entwirft KI-Richtlinien-Updates |
@@ -142,7 +144,7 @@ und Ihren Haustil.
 
 ## Schnellstart
 
-### 1. Einrichtung
+### 1. Optionale Einrichtung
 
 ```
 /ki-governance:kaltstart-interview
@@ -170,8 +172,8 @@ Folgenabschätzung erforderlich oder nicht.
 /ki-governance:ki-folgenabschaetzung "KI-gestützte Lebenslauf-Analyse für HR"
 ```
 
-Aufnahme-Fragen → Folgenabschätzung im Hausformat → Richtlinien-Konsistenzprüfung →
-Mitigationsbedingungen.
+Vorhandene System- und Einsatzunterlagen → entscheidende Lücken klären → ausgelöste
+Folgenabschätzung im Hausformat → Richtlinienabgleich und konkrete Schutzbedingungen.
 
 ### 4. Vendor-KI-Vertrag prüfen
 

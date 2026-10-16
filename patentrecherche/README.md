@@ -5,7 +5,7 @@
 
 Patentrecherche für Patentanwälte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO USPTO. Stand der Technik Neuheit Paragraf 3 PatG Art. 54 EPÜ erfinderische Tätigkeit Paragraf 4 PatG Art. 56 EPÜ Problem-Solution-Approach FTO CPC IPC INPADOC Recherchebericht.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`patentrecherche-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecherche/patentrecherche-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -92,7 +92,7 @@ Die folgende Auswahl zeigt die Kernaufgaben der Recherche; die [vollständige Sk
 | `neuheit-pruefen` | § 3 PatG / Art. 54 EPÜ — Einzeldokument-Vorwegnahme aller Merkmale |
 | `erfinderische-taetigkeit-pruefen` | § 4 PatG / Art. 56 EPÜ — Problem-Solution-Approach (EPA-Beschwerdekammern) |
 | `freedom-to-operate-recherche` | FTO — Patentverletzungsrisiko aus Drittpatenten vor Markteintritt |
-| `patentfamilien-analyse` | INPADOC-Familie — weltweite Patente mit gleichem Prioritätstag |
+| `patentfamilien-analyse` | Erweiterte INPADOC-Familie anhand direkter oder indirekter Prioritätsverbindungen abgrenzen; Rechtsstand jedes Mitglieds gesondert prüfen |
 | `rechtsstand-pruefen` | Anmeldetag, Erteilung, Erlöschen, Einspruch, Nichtigkeit |
 | `ueberwachung-konkurrenten` | Monitoring neuer Anmeldungen bestimmter Anmelder oder Klassen |
 | `pruefungsbescheid-vorbereiten` | EPA- oder DPMA-Bescheid systematisch entgegnen, Stand-der-Technik-Entgegenhaltungen einordnen |
@@ -107,7 +107,11 @@ Die folgende Auswahl zeigt die Kernaufgaben der Recherche; die [vollständige Sk
 
 ## Setup
 
-Nach Aktivierung des Plugins wird beim ersten Lauf von `patentrecherche-kaltstart-interview` ein Profil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` angelegt (Kanzlei, Patentanwälte, Schwerpunktklassen, typische Mandantenstruktur).
+Ein Kanzleiprofil kann bei Bedarf mit `kaltstart-interview` eingerichtet werden. Ein konkreter Rechercheauftrag beginnt dagegen mit dem vorhandenen technischen Material; ein vollständiges Kanzleiinterview ist keine Voraussetzung. Die vorgesehene Profildatei liegt unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` und wird nur bei tatsächlich verfügbarem Schreibzugriff angelegt.
+
+## Gezielte Quellenprüfung
+
+Am 16.10.2026 wurde die [EPA-Definition der erweiterten INPADOC-Patentfamilie](https://www.epo.org/de/searching-for-patents/helpful-resources/first-time-here/patent-families/inpadoc) geprüft: Entscheidend sind verknüpfte Prioritätsansprüche, nicht bloß gleiche Kalendertage. Die Datenbankzuordnung belegt weder identischen Schutzumfang noch wirksame Priorität oder aktuelle nationale Schutzrechte. Keine Vollprüfung sämtlicher Recherche- und Registerangaben.
 
 ## Pflichtdisclaimer
 

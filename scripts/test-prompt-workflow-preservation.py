@@ -40,6 +40,13 @@ S = module("workflow_law_sentinels", "validate-current-law-sentinels.py")
 
 
 class ReviewedPromptContextTests(unittest.TestCase):
+    def test_bverwg_date_correction_does_not_flag_the_verified_anchor(self):
+        sentinel = next(item for item in S.SENTINELS if '4 CN 4.19' in item.label)
+        for text in ('BVerwG 14.10.2020, 4 CN 4.19', '4 CN 4/19, Urteil vom 14.10.2020'):
+            self.assertIsNotNone(sentinel.pattern.search(text))
+        self.assertIsNone(sentinel.pattern.search('BVerwG, Urteil vom 27.08.2020, 4 CN 4.19'))
+        self.assertIsNone(sentinel.pattern.search('14.10.2020\nEine andere Entscheidung: 4 CN 4.19'))
+
     def test_documented_removal_of_wrong_case_anchor_is_not_operative_guidance(self):
         relative = 'docs/experimentell/vorlagensammlung-recht/CHANGELOG.md'
         text = (SCRIPTS.parent / relative).read_text(encoding='utf-8')

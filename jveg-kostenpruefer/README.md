@@ -5,7 +5,7 @@
 
 Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`jveg-kostenpruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=jveg-kostenpruefer/jveg-kostenpruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -87,15 +87,17 @@ Die Beispielakte enthält den Fall der Zeugin Sophia Berger vor dem Landgericht 
 
 ## Grundworkflow
 
-1. Akte hochladen: Ladung, Antrag, Gerichtsschreiben, Belege, Rechnung oder Schriftsatz.
+1. Vorhandene Ladung, Antrag, Gerichtsschreiben, Belege, Rechnung oder Schriftsatz lesen; bereits verfügbare Unterlagen nicht erneut anfordern.
 2. Rolle bestimmen: Zeuge, Sachverständiger, Dolmetscher, Übersetzer, Dritter oder ehrenamtlicher Richter.
 3. Frist und Belehrung prüfen.
 4. Jede Kostenposition mit Norm, Beleg und Rechenweg erfassen.
 5. Kappungen und Doppelposten prüfen.
-6. Beleglücken freundlich als Rückfragen ausgeben.
-7. Rechenblatt, Prüfbericht und passendes Gerichtsschreiben erzeugen.
+6. Nur ergebnisrelevante Beleglücken nachfragen; nachgereichte Belege in derselben Berechnung verarbeiten.
+7. Das beauftragte Gerichtsschreiben oder den Prüfbericht fertig ausarbeiten; ein Rechenblatt beifügen, soweit für den Auftrag nötig.
 
 ## Enthaltene Skills
+
+Die folgende Tabelle beschreibt Fachaufgaben mit historischen Kurzbezeichnungen. Für tatsächlich auswählbare Skill-Namen und Downloads ist die vollständige alphabetische Skill-Liste weiter unten maßgeblich.
 
 | Skill | Zweck |
 | --- | --- |
@@ -117,6 +119,10 @@ Die Beispielakte enthält den Fall der Zeugin Sophia Berger vor dem Landgericht 
 | jveg-antragsgenerator | Erzeugt Vorschuss-, Nachzahlungs-, Festsetzungs- und Ergänzungsschreiben mit Anlagen- und Belegliste. |
 | jveg-festsetzung-beschwerde | Führt durch gerichtliche Festsetzung, Erinnerung/Beschwerdeprüfung, Beschwer, Frist und knappe Angriffsmittel. |
 | jveg-quality-gate | Letzte Prüfung vor Versand: Normstand, Mathematik, Belege, keine Doppelposten, Fristen, Ton und eindeutiger Antrag. |
+
+## Quellen und Fristgrenzen
+
+Am 16.10.2026 wurde [Paragraf 2 JVEG](https://www.gesetze-im-internet.de/jveg/__2.html) im amtlichen Text gelesen. Die dreimonatige Geltendmachungsfrist hat je nach herangezogener Person und Leistung einen anderen Beginn, etwa Eingang des schriftlichen Gutachtens oder Beendigung der Zeugenvernehmung. Eine fehlende Belehrung verlängert die Frist nicht automatisch; sie begründet die gesetzliche Vermutung fehlenden Verschuldens bei der Wiedereinsetzung. Deren Zweiwochenfrist, Nachholung und Jahresgrenze sind gesondert zu prüfen. Die dreijährige Verjährung ist keine Ersatzfrist für die versäumte Geltendmachung. Dieser Abgleich bestätigt keine sämtlichen Vergütungssätze oder Einzelfallberechnungen.
 
 ## Beispiel Berger
 

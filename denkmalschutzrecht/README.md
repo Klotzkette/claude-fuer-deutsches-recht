@@ -5,7 +5,7 @@
 
 Denkmalschutzrecht in Deutschland: Art. 14 und Art. 70 GG als bundesstaatlicher Rahmen plus alle sechzehn Landesgesetze. Skills für Eintragung Erlaubnis Bußgeld steuerliche Förderung nach Paragraf 7i EStG und Welterbestätten — länderübergreifende Grundlagen und Landesrecht klar getrennt.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,13 +54,13 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`denkmalschutzrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=denkmalschutzrecht/denkmalschutzrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Wenn du das hier öffnest, willst du deinen Fall strukturieren, die einschlägigen Normen prüfen und ein verwertbares Arbeitsprodukt erhalten.
 Plugin für die anwaltliche Bearbeitung von Mandaten im deutschen Denkmalschutzrecht. Strukturiert in drei Schichten:
 
-1. **Allgemeiner Teil** — bundesstaatlicher Rahmen (Art. 73 GG, Art. 14 GG, Verwaltungsverfahrensrecht, Welterbe).
+1. Allgemeiner Teil: bundesstaatlicher Rahmen (Art. 70 GG, Art. 14 GG, Verwaltungsverfahrensrecht, Welterbe).
 2. **Querschnittsskills** — Denkmaleigenschaft, Eintragung, Erlaubnis, Förderung, Enteignung und Entschädigung; sie greifen unabhängig vom Bundesland.
 3. **Sechzehn Bundesländer-Skills** — je ein eigener Skill pro Landesgesetz, mit Gesetzesbezeichnung, zuständigen Behörden und den landestypischen Verfahrensbesonderheiten.
 
@@ -69,6 +69,8 @@ Plugin für die anwaltliche Bearbeitung von Mandaten im deutschen Denkmalschutzr
 Die Allgemein-Skills helfen, einen Fall zu sortieren und ihn vom GG- und EU-Rahmen aus zu erden. Sobald klar ist, in welchem Bundesland das Objekt belegen ist, wird der landesspezifische Skill (`denkmalschutz-<bundesland>-<gesetzkuerzel>`) zugeschaltet — er enthält die konkreten Norm-Anker des jeweiligen Landesgesetzes und die zuständige Behördenkette.
 
 ## Quellenhygiene
+
+Gezielte Normprüfung vom 16.10.2026: [Artikel 70 GG](https://www.gesetze-im-internet.de/gg/art_70.html) ist der Ausgangspunkt der Gesetzgebungskompetenz der Länder; Artikel 73 GG ist keine allgemeine Ermächtigung für den Denkmalschutz. In den steuerlichen Grundlagen wurden außerdem [Paragraf 10f EStG](https://www.gesetze-im-internet.de/estg/__10f.html) für zu eigenen Wohnzwecken genutzte Gebäude und [Paragraf 11b EStG](https://www.gesetze-im-internet.de/estg/__11b.html) für die Verteilung begünstigten Erhaltungsaufwands abgeglichen. Damit ist weder ein einzelnes Landesgesetz noch die steuerliche Förderfähigkeit einer konkreten Maßnahme vollständig geprüft.
 
 Konkrete Paragrafenzitate, Aktenzeichen und Fundstellen werden ausnahmslos in den amtlichen Landesgesetzes-Datenbanken (typischerweise unter `landesrecht.<land>.de` oder `gesetze-im-internet.de` für Bundesrecht) live verifiziert; das Plugin nennt die Gesetzesabkürzungen und das verbindliche Suchregime, nicht aber halluzinierte Randnummern oder Fundstellen aus Modellwissen.
 

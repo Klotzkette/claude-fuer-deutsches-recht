@@ -5,7 +5,7 @@
 
 Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht.
 
-Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 302 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`bgb-at-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-at-pruefer/bgb-at-pruefer-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [6 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 302 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -81,7 +81,7 @@ Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und 
 
 /plugin install bgb-at-prüfer@claude-für-deutsches-recht
 
-Starte mit dem Skill [Kaltstart-Triage](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-at-pruefer/skills/kaltstart-triage/SKILL.md). Der Einstieg fragt den Fall in einer kompakten Reihenfolge ab, baut eine Themenkarte und schlägt danach die passenden Spezial-Skills vor.
+Starte mit dem Skill [Kaltstart-Triage](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bgb-at-pruefer/skills/kaltstart-triage/SKILL.md). Lies zuerst Erklärungen und Auftrag. Bei einer klaren Zugangs-, Form- oder Vollmachtsfrage direkt zur Prüfung und zum bestellten Text arbeiten; keine vorgeschaltete Themenkarte verlangen. Nur entscheidende Lücken klären und Antworten in den bestehenden Entwurf einarbeiten.
 
 ## Was das Plugin besonders gut kann
 
@@ -100,8 +100,8 @@ Starte mit dem Skill [Kaltstart-Triage](https://klotzkette.github.io/claude-fuer
 1. Fallfrage festnageln: Wer will was von wem, und auf welcher Anspruchsebene liegt das Problem?
 2. Erklärungskette bauen: Jede Erklärung mit Datum, Kanal, Absender, Empfänger, Zugang und Inhalt erfassen.
 3. BGB-AT-Themenkarte erstellen: Geschäftsfähigkeit, Willenserklärung, Vertragsschluss, Auslegung, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen.
-4. Spezial-Skills laden: Der Allgemein-Skill schlägt zwei bis fünf passende Folge-Skills vor.
-5. Arbeitsprodukt wählen: Klausurlösung, Memo, Schriftsatzbaustein, Fristenvermerk oder Training.
+4. Nur den zur offenen Rechtsfrage passenden Spezial-Skill heranziehen und bekannte Angaben weiterverwenden.
+5. Das beauftragte Arbeitsprodukt fertigstellen: Klausurlösung, Memo, Schriftsatzbaustein oder Fristenvermerk. Ausgabeform nur bei offenem Auftrag klären; Training nicht ungefragt anschließen.
 
 ## Skill-Auswahl
 
