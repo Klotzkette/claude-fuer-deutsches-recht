@@ -586,7 +586,7 @@ Prüfsummen: [SHA-256 `akten-v445.35.3`](https://github.com/Klotzkette/claude-fu
 | --- | --- |
 | <a href="https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/docs/anbieterneutrale-schnittstelle-kanzlei.odt" download><code>anbieterneutrale-schnittstelle-kanzlei.odt</code></a> | Anbieterneutrale Einrichtung, technischer Dummy-Test, Fachabnahme und Freigabevermerk für kleine Kanzleien. |
 
-## Plugin-Assets (303 Stück)
+## Plugin-Assets (304 Stück)
 
 Alle Plugins sind alphabetisch sortiert. Werkstatt- und Schnellstart-Prompts werden über die statische Downloadseite als Markdown-Dateien gespeichert, statt in einer Quelltextvorschau geöffnet zu werden. Es gibt dafür keine eigenen ZIP-Assets im Release.
 

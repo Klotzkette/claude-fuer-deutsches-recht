@@ -12,7 +12,7 @@ English: Available formats vary by package. beA-Versand has a workshop but no se
 
 [Werkstatt-Prompts](#werkstatt-prompts) · [HOAI-Phasen-Werkstätten](#hoai-phasen-werkstätten) · [Schnellstart-Prompts](#schnellstart-prompts)
 
-Vollständigkeit: **303 von 303 Plugins**, also 100.0 Prozent.
+Vollständigkeit: **304 von 304 Plugins**, also 100.0 Prozent.
 
 ## Werkstatt-Prompts
 
