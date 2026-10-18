@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "skills": {
+    "amtliche-quellen-erschliessen": 971,
+    "aussagen-am-volltext-pruefen": 1027,
+    "entscheidungsidentitaet-abgleichen": 947,
+    "fundstellen-inventarisieren": 905,
+    "halluzinationspruefung-steuern": 1129,
+    "literatur-materialien-und-standards-pruefen": 1040,
+    "nachpruefung-und-qualitaetskontrolle": 1055,
+    "normfassungen-und-zeitbezug-pruefen": 988,
+    "pruefbericht-und-korrekturfassung-erstellen": 1023,
+    "uebertragbarkeit-und-gegenargumente-pruefen": 1002,
+    "zitate-und-randnummern-pruefen": 960
+  },
+  "summe_woerter": 11047,
+  "werkstatt_woerter": 4705,
+  "mini_bytes_lf": 7390,
+  "mini_bytes_crlf": 7443,
+  "pdf_seiten": {
+    "werkstatt": 11,
+    "schnellstart": 3,
+    "hauptproblem": 2
+  }
+}

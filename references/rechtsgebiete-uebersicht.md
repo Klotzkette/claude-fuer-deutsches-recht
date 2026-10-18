@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 302 Plugins, 23299 Skills.
+Stand v445.35.3: 303 Plugins, 23310 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -168,6 +168,7 @@ Stand v445.35.3: 302 Plugins, 23299 Skills.
 | [`kanzlei-website-redaktion`](../kanzlei-website-redaktion/) | Kanzlei-Website mit zehn Skills betreiben: Blog, Rechtsprechungsnews, Teamprofile, Fotos, Kontakte und Quellenbeobachtung. Mit Vorschau, Artikel-50-Prüfung, konkreten Freigaben und kontrollierter Veröffentlichung. | `445.35.2` | 10 |
 | [`kartellrecht-marktabgrenzung-pruefung`](../kartellrecht-marktabgrenzung-pruefung/) | Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. | `445.35.3` | 181 |
 | [`ki-governance`](../ki-governance/) | EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie. | `445.35.2` | 60 |
+| [`ki-halluzinationsreduzierer`](../ki-halluzinationsreduzierer/) | Juristische Fundstellen am zugänglichen Originalvolltext prüfen: Existenz, Identität, Fundpunkt, Aussagekraft und Fallübertragbarkeit getrennt belegen. Zehn Fachskills und ein Hauptskill liefern Prüfbericht, offene Befunde und nachvollziehbare Korrekturfassung. | `1.0.0` | 11 |
 | [`ki-native-kanzlei`](../ki-native-kanzlei/) | Kanzleibetrieb mit 30 Skills: Posteingang, Fristen, Rechtsarbeit, Dokumentenproduktion, Beweise, Vergleich, Kosten und Vollstreckung. Kontrollierter Computerlauf mit konkreten Freigaben. Mit 24 Kurzfällen und drei vertieften Produktionsakten. | `445.35.2` | 30 |
 | [`ki-richtlinie-kanzleien`](../ki-richtlinie-kanzleien/) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen. | `445.35.2` | 60 |
 | [`ki-verordnung-hochrisiko-pruefer`](../ki-verordnung-hochrisiko-pruefer/) | Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt. | `445.35.2` | 11 |

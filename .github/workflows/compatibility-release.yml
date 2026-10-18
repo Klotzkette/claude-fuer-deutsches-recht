@@ -9,6 +9,8 @@ on:
       - '.github/workflows/compatibility-release.yml'
       - 'scripts/*compatibility*'
       - 'scripts/*phishing*'
+      - 'scripts/*ki-halluzinationsreduzierer*'
+      - 'ki-halluzinationsreduzierer/**'
       - 'phishing-vorfall-pruefer/scripts/**'
       - 'scripts/*runtime-performance*'
       - 'scripts/*quickstart-usability*'
@@ -59,7 +61,7 @@ jobs:
           node-version: '22'
       - name: Prüfwerkzeuge installieren
         run: |
-          python3 -m pip install PyYAML jsonschema 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3' openpyxl pypdf reportlab -r grundstuecksrecherche/app/requirements.txt
+          python3 -m pip install PyYAML jsonschema 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3' openpyxl pypdf pdfplumber reportlab -r grundstuecksrecherche/app/requirements.txt
           npm install --global @anthropic-ai/claude-code@2.1.168
       - name: Struktur, Katalog und Qualitätsprofile prüfen
         run: |
@@ -76,6 +78,7 @@ jobs:
           python3 scripts/test-compatibility-release.py
           python3 scripts/test-scoped-release-routing.py
           python3 scripts/test-phishing-release.py
+          python3 scripts/test-ki-halluzinationsreduzierer.py
           python3 scripts/test-bauvergabe.py
           python3 scripts/test-rechtsabteilung-immobilien.py
           python3 scripts/test-vergaberecht-import.py

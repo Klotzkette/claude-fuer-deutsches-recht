@@ -6107,10 +6107,31 @@ PROFILE += (
     ),
 )
 
+# Eigenständiges methodisches Quellenwerkzeug: keine sachfremden Rechtsanker.
+PROFILE += (
+    ThemenProfil(
+        key="fundstellenverifikation",
+        label="Juristische Fundstellen am Originalvolltext prüfen",
+        rolle="Fundstellen, konkrete Aussagen und Fallübertragbarkeit getrennt prüfen; fehlenden Originalzugang ausdrücklich offenhalten.",
+        normen=(
+            "Normidentität, maßgebliche Fassung und Übergangsrecht erst am konkret einschlägigen amtlichen Volltext prüfen; keine abstrakte Rechtsgrundlage für eine Quellenbestätigung erfinden.",
+        ),
+        entscheidungen=(
+            "Methodischer Quellenanker, keine Gerichtsentscheidung: Rechtsprechung im Internet beschreibt seinen Bestand als ausgewählte Entscheidungen. Eine erfolglose Suche beweist deshalb keine Nichtexistenz. Keine einzelne Entscheidung ist durch diesen Portalhinweis verifiziert.",
+        ),
+        stationen=("Ausgangstext und sämtliche Vorkommen erfassen", "Originalquelle und tatsächlich lesbaren Volltext erschließen", "Identität und Fundpunkt getrennt prüfen", "Aussagekraft, Zeitbezug und Fallübertragbarkeit begründen", "Prüfbericht und getrennte Korrekturfassung nachprüfen"),
+        pruefraster=("Existenzbeleg und Zugang", "Gericht, Form, Datum, Aktenzeichen, ECLI und Parallelfundstelle", "Fundpunkt, Sprecher, Negation und Kontext", "Trägt und trägt nicht", "Fallunterschiede und tatsächlicher Rechercheumfang"),
+        stop=("Kein Inhalt bestätigt ohne gelesene Originalpassage", "Kein Nichtexistenzschluss aus fehlendem Treffer", "Keine stille Ersetzung der falschen Fundstelle", "Keine positive Gesamtbestätigung bei offenem Pflichtpunkt"),
+        skelette=("Ausformulierter Prüfbericht mit F-/A-/Q-Kennungen", "Quellenprotokoll mit tatsächlichem Zugang", "Getrennte Korrekturfassung mit Änderungsgrund"),
+        oeffnungssatz="Lesen Sie den vorhandenen Text und prüfen Sie jede Fundstellenverwendung bis zum begründeten Befund; fehlender Originalvolltext bleibt unverifiziert.",
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "ki-halluzinationsreduzierer": "fundstellenverifikation",
     "due-diligence": "ma_finanzierung",
     "untersuchungshaft": "straf",
     "verarbeitungsverzeichnis": "datenschutz",

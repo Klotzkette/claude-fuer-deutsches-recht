@@ -328,6 +328,8 @@
     "testakte-phishing-kleinanzeigen-rabenstein-halle.zip": "phishing-v445.35.4",
     "testakte-phishing-kleinanzeigen-rabenstein-halle-einzelpdfs.zip": "phishing-v445.35.4",
     "testakte-vertragserstellung-wartungsvertrag-druckerei-kassel.zip": "akten-v445.35.3",
-    "testakte-vertragserstellung-wartungsvertrag-druckerei-kassel-einzelpdfs.zip": "akten-v445.35.3"
+    "testakte-vertragserstellung-wartungsvertrag-druckerei-kassel-einzelpdfs.zip": "akten-v445.35.3",
+    "ki-halluzinationsreduzierer.zip": "ki-halluzinationsreduzierer-v1.0.0",
+    "ki-halluzinationsreduzierer-portable.zip": "ki-halluzinationsreduzierer-v1.0.0"
   }
 }

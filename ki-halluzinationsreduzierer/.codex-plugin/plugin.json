@@ -1,0 +1,19 @@
+{
+  "name": "ki-halluzinationsreduzierer",
+  "version": "1.0.0",
+  "description": "Juristische Fundstellen am zugänglichen Originalvolltext prüfen: Existenz, Identität, Fundpunkt, Aussagekraft und Fallübertragbarkeit getrennt belegen. Zehn Fachskills und ein Hauptskill liefern Prüfbericht, offene Befunde und nachvollziehbare Korrekturfassung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "KI-Halluzinationsreduzierer",
+    "shortDescription": "Juristische Quellen prüfen und falsche Sicherheit vermeiden",
+    "longDescription": "Juristische Fundstellen am zugänglichen Originalvolltext prüfen: Existenz, Identität, Fundpunkt, Aussagekraft und Fallübertragbarkeit getrennt belegen. Zehn Fachskills und ein Hauptskill liefern Prüfbericht, offene Befunde und nachvollziehbare Korrekturfassung.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Prüfen Sie sämtliche Fundstellen dieses Textes am tatsächlich zugänglichen amtlichen Originalvolltext. Trennen Sie Existenz, Identität, Fundpunkt, Aussagekraft und Übertragbarkeit. Erstellen Sie einen ausformulierten Prüfbericht und eine getrennte Korrekturfassung. Ohne Zugang bleibt der Befund ausdrücklich unverifiziert."
+  }
+}

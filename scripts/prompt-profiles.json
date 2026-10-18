@@ -631,6 +631,19 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "ki-halluzinationsreduzierer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }
