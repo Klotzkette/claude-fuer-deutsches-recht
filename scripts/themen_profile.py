@@ -6132,6 +6132,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
     "ki-halluzinationsreduzierer": "fundstellenverifikation",
+    "un-kaufrecht-cisg": "transport_handel",
     "due-diligence": "ma_finanzierung",
     "untersuchungshaft": "straf",
     "verarbeitungsverzeichnis": "datenschutz",

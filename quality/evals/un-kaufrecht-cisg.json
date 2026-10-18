@@ -1,0 +1,514 @@
+{
+  "schema_version": 1,
+  "plugin": "un-kaufrecht-cisg",
+  "reviewed_on": "2026-10-18",
+  "sources": [
+    {
+      "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201489/volume-1489-I-25567-English.pdf",
+      "checked_on": "2026-10-18",
+      "supports": "Authentischer CISG-Vertragstext; nicht mit einer aktuellen Staaten- und Vorbehaltstabelle gleichzusetzen."
+    },
+    {
+      "url": "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg/status",
+      "checked_on": "2026-10-18",
+      "supports": "Vertragsstaaten und Erklärungen für Deutschland, Frankreich, Italien und Tschechien; historische Anwendung bleibt gesondert zu prüfen."
+    },
+    {
+      "url": "https://treaties.un.org/doc/Publication/CTC/Ch_XI_B_11.pdf",
+      "checked_on": "2026-10-18",
+      "supports": "CMR-Vertragstext für Transportanwendungsbereich, Obhut, Beweislast, Vorbehalte und Verjährung; ursprüngliche Goldfrankenregel nicht als aktuelle SZR-Grenze verwenden."
+    },
+    {
+      "url": "https://www.unidroit.org/instruments/transport/cmr-1956/",
+      "checked_on": "2026-10-18",
+      "supports": "Zusätzlicher Originaltextabgleich zu Artikel 17, 18, 30 und 32 CMR; Schadensvorbehalt und Verspätungsschaden unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/unwavtr_bkg/art_3.html",
+      "checked_on": "2026-10-18",
+      "supports": "Ergänzende deutsche Verjährungsregel; keine allgemeine vierjährige CISG-Verjährung."
+    }
+  ],
+  "selection": {
+    "target_skill": "cisg-kaufmandat-steuern",
+    "positive": [
+      "Wir liefern Pumpen nach Frankreich. Die Bestellung widerspricht unserer CISG-Abwahl. Bitte prüfe die unterschriebene Bestätigung und formuliere die Antwort auf die Reklamation.",
+      "Unsere in Italien gekauften Sensoren kamen beschädigt an. Kläre Kaufvertrag und Frachtansprüche und führe uns bis zu den getrennten Reklamationsschreiben."
+    ],
+    "negative": [
+      "Ich habe als Privatperson im deutschen Elektronikladen einen defekten Kopfhörer gekauft. Bitte prüfe meinen Widerruf.",
+      "Wir benötigen eine Einkommensteuererklärung für einen ausschließlich deutschen Handwerksbetrieb ohne Warenexport."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vertragschronologie-zum-antwortschreiben",
+      "target_skill": "cisg-kaufmandat-steuern",
+      "request": "Wir vertreten den Bremer Pumpenverkäufer. Sein Angebot schließt CISG aus, die spätere beiderseits unterzeichnete Bestätigung vereinbart es ausdrücklich. Der Käufer reklamiert nach dem Produktlauf. Lesen Sie den Bestand und erstellen Sie eine begründete Antwort, ohne zuerst sämtliche Unterlagen nur zusammenzufassen.",
+      "input_files": [],
+      "deliverables": [
+        "antwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "chronologie",
+          "text": "Spätere ausdrückliche Einigung wird vor einer abstrakten AGB-Kollisionsregel geprüft; Unterschrift und Vertretung werden nicht erfunden.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "rollenprodukt",
+          "text": "Verkäuferbezogene ausformulierte Antwort statt Käuferstandardtext; fehlende technische Angaben führen zu gezielten Fragen und fortsetzbarem Entwurf.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        },
+        {
+          "id": "freigabe",
+          "text": "Kein selbständiger Versand, kein Anerkenntnis und kein automatischer Wechsel in einen Prozessauftrag.",
+          "deliverables": [
+            "antwort.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechtswahl-ist-keine-abwahl",
+      "target_skill": "cisg-anwendung-rechtswahl-pruefen",
+      "request": "Eine deutsche GmbH kauft bei einer französischen Gesellschaft Waren zur Weiterverarbeitung. Der beiderseits unterschriebene Vertrag sagt nur deutsches Recht. Der Einkauf meint, deshalb gelte ausschließlich BGB. Prüfen Sie die Aussage und formulieren Sie eine klare, tatsächlich gewünschte Rechtswahlalternative.",
+      "input_files": [],
+      "deliverables": [
+        "rechtswahl.md"
+      ],
+      "criteria": [
+        {
+          "id": "anwendung",
+          "text": "Artikel 1 und 6 CISG, Niederlassungen und Warenkauf werden geprüft; deutsches Recht wird nicht automatisch als Ausschluss behandelt.",
+          "deliverables": [
+            "rechtswahl.md"
+          ]
+        },
+        {
+          "id": "abgrenzung",
+          "text": "Gültigkeit, Stellvertretung und Eigentum werden nicht pauschal dem CISG unterstellt.",
+          "deliverables": [
+            "rechtswahl.md"
+          ]
+        },
+        {
+          "id": "alternativen",
+          "text": "Explizite Beibehaltung und Ausschluss werden unterschieden und erst nach Mandantenentscheidung als gewollte Vertragsfassung festgelegt.",
+          "deliverables": [
+            "rechtswahl.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nicht-gelesene-agb-und-spaeterer-vertrag",
+      "target_skill": "cisg-vertrag-agb-klauselkollision-klaeren",
+      "request": "Im Angebot steht ein nicht funktionierender AGB-Link. Die Bestellung enthält die Käuferbedingungen als Anhang. Später wurde eine Kaufbestätigung mit eigener Rangfolge unterschrieben. Der Vertrieb beruft sich allein auf die letzte E-Mail. Erstellen Sie einen Vorschlag zur Vertragsbereinigung und nennen Sie nur entscheidende Beleglücken.",
+      "input_files": [],
+      "deliverables": [
+        "nachtrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "einbeziehung",
+          "text": "Zugang, Sprache und konkrete Fassung prüfen; VIII ZR 60/01 nicht als generelles Linkverbot verstehen.",
+          "deliverables": [
+            "nachtrag.md"
+          ]
+        },
+        {
+          "id": "rangfolge",
+          "text": "Unterzeichnete Individualregelung von echter Restkollision abgrenzen; kein pauschales Last-shot-Ergebnis und kein Herausgreifen nur günstiger Klauseln.",
+          "deliverables": [
+            "nachtrag.md"
+          ]
+        },
+        {
+          "id": "bereinigung",
+          "text": "Ausformulierter Nachtrag benennt ersetzte Klauseln, Fortgeltendes und ergänzendes Recht; Inhaltswirksamkeit bleibt eigene Prüfung.",
+          "deliverables": [
+            "nachtrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "messwerte-und-vertragszweck",
+      "target_skill": "cisg-lieferung-vertragsmaessigkeit-pruefen",
+      "request": "Sechs Pumpen erreichen mit Wasser den Werksprüfwert. Beim Käufer werden dickflüssigeres Medium und ein anderer Saugfilter verwendet. Für zwei Viskositätsbereiche sind unterschiedliche Leistungen schriftlich vereinbart. Erstellen Sie die technische Beleganforderung und eine vorläufige rechtliche Antwort ohne Ursache vorwegzunehmen.",
+      "input_files": [],
+      "deliverables": [
+        "leistung.md"
+      ],
+      "criteria": [
+        {
+          "id": "soll-ist",
+          "text": "Artikel 35 und 36 CISG werden an konkreter Spezifikation, vereinbartem Zweck und Zustand bei Gefahrübergang geprüft.",
+          "deliverables": [
+            "leistung.md"
+          ]
+        },
+        {
+          "id": "beweise",
+          "text": "Werkstest ersetzt Produktlauf nicht; Viskosität, Saugdruck, Filter und Zeitpunkt des Mangels werden belegt statt geschätzt.",
+          "deliverables": [
+            "leistung.md"
+          ]
+        },
+        {
+          "id": "produkt",
+          "text": "Empfängerfähige Anforderung mit Messmethode und Termin; keine pauschale Schuldzuweisung an Bedienung oder Hersteller.",
+          "deliverables": [
+            "leistung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anzeige-und-aufhebungsfrist-trennen",
+      "target_skill": "cisg-untersuchung-maengelruege-sichern",
+      "request": "Die Käuferin meldet zehn Tage nach einem Laborbericht nur per Mail, die Ware sei schlecht. Seriennummern und Prüfwerte liegen intern vor. Sie will sich auf eine angebliche feste Sechswochenfrist des BGH aus März 2026 verlassen. Formulieren Sie eine präzisierte Anzeige und prüfen Sie getrennt den Fristenstand.",
+      "input_files": [],
+      "deliverables": [
+        "anzeige.md"
+      ],
+      "criteria": [
+        {
+          "id": "konkret",
+          "text": "Artikel 38/39 CISG mit Art des Mangels, Kenntnis, Untersuchungsmöglichkeit und Übermittlungsbeleg anwenden.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        },
+        {
+          "id": "kein-fristmythos",
+          "text": "VIII ZR 23/25 betrifft Aufhebung im Einzelfall, nicht eine feste Anzeige- oder Aufhebungsfrist; spätere Präzisierung heilt Verspätung nicht automatisch.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        },
+        {
+          "id": "ausnahmen",
+          "text": "Artikel 40/44 nur bei belegten Voraussetzungen berücksichtigen; Zweijahresgrenze nicht mit Verjährung gleichsetzen.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reparierbare-maschine-und-deckungskauf",
+      "target_skill": "cisg-nacherfuellung-aufhebung-waehlen",
+      "request": "Die Maschine läuft unter vereinbarter Leistung. Der Verkäufer bietet einen dokumentierten Teiletausch in sieben Tagen an. Der Käufer möchte sofort aufheben und eine andere Maschine kaufen; Ausfallkosten und Produktionsreserve sind unklar. Verfassen Sie den jetzt tragfähigen Brief und die entscheidenden Rückfragen.",
+      "input_files": [],
+      "deliverables": [
+        "abhilfe.md"
+      ],
+      "criteria": [
+        {
+          "id": "wesentlichkeit",
+          "text": "Artikel 25, 46, 47, 48 und 49 CISG unterscheiden; bloßer Ablauf einer Nachfrist bei mangelhafter Lieferung ist kein automatischer Aufhebungsgrund.",
+          "deliverables": [
+            "abhilfe.md"
+          ]
+        },
+        {
+          "id": "heilung",
+          "text": "Konkrete Abhilfemöglichkeit, Zumutbarkeit, Produktionszweck und Käuferinteresse prüfen; kein blindes Erzwingen oder pauschales Verwerfen der Reparatur.",
+          "deliverables": [
+            "abhilfe.md"
+          ]
+        },
+        {
+          "id": "erklaerung",
+          "text": "Artikel 26 und 49 Absatz 2 mit gesonderter Erklärung und angemessener Frist; keine vorweggenommene Aufhebung ohne Tatsachengrundlage.",
+          "deliverables": [
+            "abhilfe.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restkaufpreis-und-abnahmebegriffe",
+      "target_skill": "cisg-kaufpreis-abnahme-durchsetzen",
+      "request": "Nach Lieferung wurden 90 Prozent gezahlt. Die restlichen zehn Prozent sind nach einem Funktionslauf, spätestens bei allein käuferbedingter Verschiebung zum 1. September fällig. Der Käufer reklamiert zwei von sechs Pumpen. Erstellen Sie eine nachvollziehbare Zahlungsforderung, ohne sämtliche Einwendungen wegzuwischen.",
+      "input_files": [],
+      "deliverables": [
+        "zahlung.md"
+      ],
+      "criteria": [
+        {
+          "id": "faelligkeit",
+          "text": "Vereinbarte Fälligkeit und Artikel 53, 58/59 sowie 62 CISG prüfen; letzte Rate nicht unabhängig von der Bedingung fällig stellen.",
+          "deliverables": [
+            "zahlung.md"
+          ]
+        },
+        {
+          "id": "abnahme",
+          "text": "Abnahme im Sinne Artikel 60 CISG nicht mit einer werkvertraglichen technischen Billigung verwechseln.",
+          "deliverables": [
+            "zahlung.md"
+          ]
+        },
+        {
+          "id": "einwendungen",
+          "text": "Zahlungen und betroffene Positionen beziffern, konkrete Einwendungen prüfen und fertiges Forderungsschreiben ohne erfundenen Zinssatz liefern.",
+          "deliverables": [
+            "zahlung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fca-und-verdeckter-transportschaden",
+      "target_skill": "cisg-gefahr-transport-abgrenzen",
+      "request": "Sensoren reisen FCA Werk Turin nach Ulm. Bei Ankunft bleibt die Verpackung äußerlich unauffällig; am Folgetag wird ein innerer Schaden festgestellt. Ein Stoßlogger und Unterlagen zur Verpackung liegen vor. Käufer und Verkäufer streiten über die Zuständigkeit. Erstellen Sie getrennte Anspruchs- und Sicherungsschreiben.",
+      "input_files": [],
+      "deliverables": [
+        "transport.md"
+      ],
+      "criteria": [
+        {
+          "id": "zwei-vertraege",
+          "text": "Artikel 35/36 und 66 bis 70 CISG, vereinbarte Incoterms-Fassung und CMR-Obhut trennen; Gefahrübergang heilt ursprünglichen Verpackungsmangel nicht.",
+          "deliverables": [
+            "transport.md"
+          ]
+        },
+        {
+          "id": "cmr-vorbehalt",
+          "text": "Artikel 30 CMR: sieben Tage ohne Sonn-/Feiertage bei verdecktem Schaden, grundsätzlich Beweisvermutung; gemeinsame Zustandsfeststellung und 21-Tage-Regel für Verspätung gesondert behandeln.",
+          "deliverables": [
+            "transport.md"
+          ]
+        },
+        {
+          "id": "adressat",
+          "text": "Kaufanzeige, Frachtreklamation und Versicherermeldung an richtige Beteiligte mit Belegen; keine automatische Deckungszusage oder doppelte Entschädigung.",
+          "deliverables": [
+            "transport.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ratenlieferung-und-konkrete-leistungsgefahr",
+      "target_skill": "cisg-leistungsgefahr-ratenlieferung-steuern",
+      "request": "Ein Lieferant kündigt für die zweite von sechs Monatslieferungen eine Verzögerung an. Es kursiert ein unbestätigtes Insolvenzgerücht. Der Käufer will alle weiteren Zahlungen stoppen und den gesamten Vertrag aufheben. Formulieren Sie einen belegten Sicherungsbrief und unterscheiden Sie Voraussetzungen und Reichweite.",
+      "input_files": [],
+      "deliverables": [
+        "sicherung.md"
+      ],
+      "criteria": [
+        {
+          "id": "stufen",
+          "text": "Artikel 71, 72 und 73 CISG nicht gleichsetzen; Leistungsunsicherheit, klare künftige wesentliche Verletzung und Ratenbezug unterscheiden.",
+          "deliverables": [
+            "sicherung.md"
+          ]
+        },
+        {
+          "id": "anzeige",
+          "text": "Benachrichtigung, mögliche Sicherheit und Wiederaufnahme beachten; bloßes Gerücht trägt keine endgültige Aufhebung.",
+          "deliverables": [
+            "sicherung.md"
+          ]
+        },
+        {
+          "id": "begrenzung",
+          "text": "Konkrete betroffene Raten, Beleganforderung und Frist benennen statt pauschalem Gesamtzahlungsstopp.",
+          "deliverables": [
+            "sicherung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mehrpreis-ist-nicht-umsatzausfall",
+      "target_skill": "cisg-schadensersatz-zinsen-berechnen",
+      "request": "Die Käuferin setzt den gesamten verlorenen Umsatz, Kosten einer Ersatzmaschine und deren volle Anschaffungskosten zusätzlich zum Kaufpreis an. Eine Vertragsaufhebung ist noch nicht belegt. Sie verlangt ferner neun Prozent Zinsen direkt aus Artikel 78. Erstellen Sie eine überprüfbare Forderungsberechnung mit Varianten.",
+      "input_files": [],
+      "deliverables": [
+        "schaden.md"
+      ],
+      "criteria": [
+        {
+          "id": "nettoschaden",
+          "text": "Artikel 74/77: entgangenen Gewinn statt unbereinigtem Umsatz, ersparte Kosten, Vorteilsausgleich, Vorhersehbarkeit und Kausalität prüfen.",
+          "deliverables": [
+            "schaden.md"
+          ]
+        },
+        {
+          "id": "deckung",
+          "text": "Artikel 75 setzt wirksame Aufhebung und angemessenes Deckungsgeschäft voraus; keine Doppelzählung mit Rückzahlung, Marktpreis oder Ersatzanlage.",
+          "deliverables": [
+            "schaden.md"
+          ]
+        },
+        {
+          "id": "zinsen",
+          "text": "Artikel 78 liefert keinen festen Zinssatz; Anspruch, Statut, Beginn und belegte Rechnung bleiben getrennt.",
+          "deliverables": [
+            "schaden.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rueckabwicklung-und-verjaehrungsstatut",
+      "target_skill": "cisg-rueckabwicklung-fristen-sichern",
+      "request": "Nach einer behaupteten Aufhebung soll eine Maschine nach Brno zurück. Der Käufer hat Teile ausgebaut, mit der Maschine produziert und verweist auf die zweijährige CISG-Frist als Verjährung. Der Verkäufer meint, wegen Tschechien gelte stets eine Vierjahresfrist. Entwerfen Sie eine bedingte Rückabwicklungsvereinbarung und Fristenprüfung.",
+      "input_files": [],
+      "deliverables": [
+        "rueckabwicklung.md"
+      ],
+      "criteria": [
+        {
+          "id": "restitution",
+          "text": "Artikel 81 bis 84 CISG mit Rückgewähr, Erhaltung, Nutzungen und Artikel 82-Ausnahmen prüfen; kein unbedingtes Schuldanerkenntnis.",
+          "deliverables": [
+            "rueckabwicklung.md"
+          ]
+        },
+        {
+          "id": "verjaehrung",
+          "text": "Artikel 39 Absatz 2 ist keine allgemeine Verjährung; Kollisionsrecht und Anwendbarkeit des Verjährungsübereinkommens gesondert prüfen.",
+          "deliverables": [
+            "rueckabwicklung.md"
+          ]
+        },
+        {
+          "id": "vollzug",
+          "text": "Transport, Zustand, Kosten, Zahlung und Freigabe konkret regeln; gerichtliche oder außergerichtliche Fristsicherung nicht ohne Auftrag auslösen.",
+          "deliverables": [
+            "rueckabwicklung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter CISG-Ablauf mit konkreten Frist- und Anspruchsunterschieden statt allgemeiner Analyseanweisung.",
+    "changes": [
+      "Vertrag zuerst lesen",
+      "Rüge und Aufhebung trennen",
+      "Dokument nach Antworten fortsetzen"
+    ],
+    "sha256": "a0168f5979d2d765373dcc783f0388fd0e49306d2bfdc517a110246b55d1cef0"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausführliche fallbezogene Pfade für Käufer, Verkäufer und Transportbezug; Entscheidungsgrenzen stehen bei den Arbeitsanweisungen.",
+    "changes": [
+      "Klauselkollision und spätere Einigung",
+      "Technische Abhilfe und Aufhebung",
+      "Fracht- und Kaufansprüche getrennt",
+      "Empfängerfähige Folgeprodukte"
+    ],
+    "sha256": "b784a0f80581164a34add66855d5e891a0fd908526cc1c29319b4a85008fe1c0"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-18",
+    "verdict": "revised",
+    "reason": "Hauptskill und separater Hauptproblem-Prompt koordinieren denselben internationalen Kaufauftrag bis zum beauftragten Dokument.",
+    "changes": [
+      "Gezielte Verzweigung statt Laden aller Skills",
+      "Fortsetzung nach Belegen",
+      "Keine automatischen Erklärungen"
+    ],
+    "prompt_path": "un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md",
+    "skill_path": "un-kaufrecht-cisg/skills/cisg-kaufmandat-steuern/SKILL.md",
+    "prompt_sha256": "03e1b1ec3c28a71d2d6f6846079768dab93bfee84c77643c922f6646ba5f5397",
+    "skill_sha256": "fe3805f59e5ef5a337b2cf3bffff01f0dc30c69855ec74370bbf735ceec893d6"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-18",
+    "opening_change": "Internationale Warenlieferung, Käufer-/Verkäuferrolle und benötigtes Dokument führen unmittelbar in die Fachprüfung; die Quellen werden nicht als Dekoration vorangestellt.",
+    "norms": [
+      "Artikel 1 bis 6 CISG",
+      "Artikel 8, 14 bis 24 und 29 CISG",
+      "Artikel 35 bis 40 CISG",
+      "Artikel 45 bis 50 CISG",
+      "Artikel 53 bis 65 CISG",
+      "Artikel 66 bis 79 CISG",
+      "Artikel 81 bis 88 CISG",
+      "Artikel 17, 18, 30 und 32 CMR"
+    ],
+    "remaining_limits": [
+      "Keine vollständige weltweite Entscheidungsdatenbank",
+      "Kein Live-Modelltest",
+      "Status VIII ZR 36/25 vor Folgeauftrag nachrecherchieren",
+      "Incoterms-Originalklausel und nationales Ergänzungsrecht im Einzelfall prüfen"
+    ],
+    "files": [
+      "un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md",
+      "un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md",
+      "un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, 31.03.2026, VIII ZR 23/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR__23-25.pdf?__blob=publicationFile&v=2",
+        "source_status": "official_full_text",
+        "application": "Eigenständige angemessene Frist zur Aufhebung nach Artikel 49 Absatz 2 CISG.",
+        "limit": "Zurückweisung der Nichtzulassungsbeschwerde; keine starre Sechswochenfrist und keine abschließende Prüfung aller Mängelrechte."
+      },
+      {
+        "citation": "BGH, 31.03.2026, VIII ZR 36/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR__36-25Z.pdf?__blob=publicationFile&v=1",
+        "source_status": "official_short_notice_and_press_release",
+        "application": "Recherchehinweis zum zugelassenen Revisionsverfahren und zur Fixgeschäftsklausel.",
+        "limit": "Keine abschließende BGH-Inhaltskontrolle aus einer Zulassungsmitteilung ableiten."
+      },
+      {
+        "citation": "BGH, 06.11.2025, I ZB 33/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__33-25.pdf?__blob=publicationFile&v=1",
+        "source_status": "official_full_text",
+        "application": "Schiedsbindung, Vertragsbeziehung und ausländisches Recht getrennt ermitteln.",
+        "limit": "Zurückverweisung, kein allgemeiner Nachweis der Wirksamkeit oder Unwirksamkeit jeder AGB-Schiedsklausel."
+      },
+      {
+        "citation": "BGH, 18.06.2025, VIII ZR 219/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_219-23.pdf?__blob=publicationFile&v=1",
+        "source_status": "official_full_text",
+        "application": "Retourenzusage, Vertretung und nationale AGB-Inhaltskontrolle gesondert prüfen.",
+        "limit": "CISG-Anwendung ausdrücklich offengelassen; kein allgemeines Retourenrecht."
+      },
+      {
+        "citation": "BGH, 09.01.2002, VIII ZR 304/00",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_304-00.pdf?__blob=publicationFile&v=1",
+        "source_status": "official_full_text",
+        "application": "Kollidierende Bedingungen im Zusammenhang würdigen, Vertragsschluss und Durchführung beachten.",
+        "limit": "Keine pauschale Entscheidung sämtlicher Kollisionsmethoden und keine Missachtung späterer ausdrücklicher Einigung."
+      },
+      {
+        "citation": "BGH, 31.10.2001, VIII ZR 60/01",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2001/VIII_ZR__60-01.pdf?__blob=publicationFile&v=1",
+        "source_status": "official_full_text",
+        "application": "Erkennbaren Einbeziehungswillen und Übermittlung oder tatsächliche Zugänglichkeit der AGB nachweisen.",
+        "limit": "Kein generelles Verbot elektronischer Verweise, keine automatische Inhaltskontrolle aller Klauseln."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-18",
+    "opening_modes": [
+      "Leerer Einstieg: Rolle und benötigtes Dokument klären",
+      "Vollständige Vertragsakte: unmittelbare Auftragsbearbeitung",
+      "Neue Antwort oder neuer Befund: denselben Entwurf fortsetzen"
+    ],
+    "continuation": "Die zehn Fachwege liefern Belegfragen und konkrete Dokumente an denselben Hauptauftrag zurück. Ein Versand oder eine rechtsgestaltende Erklärung bleibt freigabepflichtig.",
+    "enrichment": "Vertragsfassungen, technische Messbedingungen, Gefahrübergang, Rüge, Nachbesserung, Aufhebung, Berechnung und Fristsicherung werden fallbezogen verzweigt.",
+    "limits": "Redaktionelle Prüfung und technische Regression, keine beobachtete Auswahlgüte oder pauschale Laufzeitzusage für fremde Oberflächen."
+  }
+}

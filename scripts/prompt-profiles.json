@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "un-kaufrecht-cisg": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "agb-werkstatt": {
       "standalone": [
         "werkstatt",

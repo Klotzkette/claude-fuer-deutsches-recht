@@ -1,3 +1,9 @@
+# un-kaufrecht-cisg-v1.0.0 – 2026-10-18
+
+Eigenständiges UN-Kaufrechtspaket mit zehn Fachskills und einem Hauptskill, ausführlicher Werkstatt sowie kompaktem Mini- und Hauptproblem-Prompt. Vertragsschluss, ausdrückliche Abwahl, kollidierende AGB, Mängelrechte, Aufhebung, Schaden und Transport werden bis zum fertigen Dokument bearbeitet. Quellenstatus und Reichweite der BGH-Entscheidungen aus 2001, 2002, 2025 und 2026 bleiben ausdrücklich getrennt.
+
+Drei Handelsakten zu Pumpen, Sensoren und Produktionsmaschinen verbinden ausgearbeitete Verträge, Geschäftskorrespondenz, echte E-Mail-Anlagen, Zahlenlisten und technische Belege. Gesamt-PDFs und flache Original- sowie Einzel-PDF-ZIPs werden byte- und inhaltsbezogen abgeglichen. Elf individuelle Fachprüffälle, reproduzierbarer Komponentenbuild und aktualisierte Verzeichnisse ergänzen die Veröffentlichung; vorhandene Sammelarchive bleiben unverändert.
+
 # Rechtsprechungsvertiefung des Quellstands – 2026-10-16
 
 21 gezielt verifizierte Entscheidungen in 31 Fachpaketen mit konkreten Rückfragen, Prüfwegen und Folgeprodukten eingearbeitet. Schwerpunkt sind Arbeits-, Miet-, Erb-, Familien-, Pflege-, Renten-, Steuer-, Bank-, Insolvenz-, Medizin-, Verwaltungs-, Straf-, Daten-, Urheber- und Vergaberecht. Volltext, ausgewertete Passagen, Pressemitteilung und Terminbericht bleiben im Quellenstatus getrennt; Grenzen und Gegenfälle stehen bei den jeweiligen Aussagen.

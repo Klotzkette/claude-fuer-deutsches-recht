@@ -1,0 +1,10 @@
+﻿Zeit UTC;Gerät;Ereignis;Spitze g;Zuordnung
+2026-09-23T06:10:00Z;DL44;Start;0,0;Turin Verladung
+2026-09-23T06:24:12Z;DL44;Bewegung;1,2;Ladeende 08:24 MESZ
+2026-09-23T06:47:09Z;DL44;Bewegung;0,8;Werksausfahrt
+2026-09-23T12:03:41Z;DL44;Bewegung;1,7;Novara laut Torliste
+2026-09-23T14:17:36Z;DL44;Schwelle überschritten;8,6;Novara Umschlagfenster
+2026-09-23T14:18:02Z;DL44;Nachbewegung;2,4;Ort nicht gemessen
+2026-09-24T09:47:10Z;DL44;Bewegung;0,9;Ulm Ankunft
+2026-09-24T09:54:48Z;DL44;Bewegung;1,6;Ulm Entladung
+2026-09-25T07:12:00Z;DL44;Auslesung;0,0;Originalspeicher erhalten

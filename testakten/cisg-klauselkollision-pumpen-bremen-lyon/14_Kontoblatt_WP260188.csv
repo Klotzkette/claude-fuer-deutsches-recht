@@ -1,0 +1,9 @@
+﻿Datum;Beleg;Soll EUR;Haben EUR;Offen EUR
+18.03.2026;Anzahlung RI26048-01;0,00;30240,00;-30240,00
+17.06.2026;Rechnung WP260188;100800,00;0,00;70560,00
+30.06.2026;Zahlung RI26048-02;0,00;60480,00;10080,00
+01.09.2026;Fälligkeit Schlussrate laut Vertrieb;0,00;0,00;10080,00
+08.09.2026;Erinnerung ohne Gebühr;0,00;0,00;10080,00
+29.09.2026;Beanstandung eingegangen;0,00;0,00;10080,00
+06.10.2026;Servicekosten noch ungeklärt;0,00;0,00;10080,00
+16.10.2026;Abgleich keine weitere Zahlung;0,00;0,00;10080,00
