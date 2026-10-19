@@ -6117,7 +6117,9 @@ PROFILE += (
             "Normidentität, maßgebliche Fassung und Übergangsrecht erst am konkret einschlägigen amtlichen Volltext prüfen; keine abstrakte Rechtsgrundlage für eine Quellenbestätigung erfinden.",
         ),
         entscheidungen=(
-            "Methodischer Quellenanker, keine Gerichtsentscheidung: Rechtsprechung im Internet beschreibt seinen Bestand als ausgewählte Entscheidungen. Eine erfolglose Suche beweist deshalb keine Nichtexistenz. Keine einzelne Entscheidung ist durch diesen Portalhinweis verifiziert.",
+            "BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26, Rn. 4 und 8–10: Trägt eigene Prüfung fremder Schriftsätze und gesonderte Darlegung der Zulassungsgründe; trägt kein pauschales KI-Verbot. Amtlicher Volltext: https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+            "VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26, Rn. 1–8: Trägt Eigenprüfung wesentlicher Teile; konkrete Beschwerde trotz eines ungeprüften KI-Absatzes zulässig, später unbegründet. Trägt keinen automatischen Ausschluss bei einem Promptrest. Amtlicher Volltext: https://www.landesrecht-bw.de/perma?d=NJRE001640794",
+            "KG, Beschluss vom 20.11.2025 – 17 WF 144/25, Rn. 7–8: Trägt Kontrolle eingefügter Quellen und konkreten Eilvortrags; trägt keine Zurückweisung allein wegen KI. Amtlicher Volltext: https://gesetze.berlin.de/perma?d=NJRE001640995",
         ),
         stationen=("Ausgangstext und sämtliche Vorkommen erfassen", "Originalquelle und tatsächlich lesbaren Volltext erschließen", "Identität und Fundpunkt getrennt prüfen", "Aussagekraft, Zeitbezug und Fallübertragbarkeit begründen", "Prüfbericht und getrennte Korrekturfassung nachprüfen"),
         pruefraster=("Existenzbeleg und Zugang", "Gericht, Form, Datum, Aktenzeichen, ECLI und Parallelfundstelle", "Fundpunkt, Sprecher, Negation und Kontext", "Trägt und trägt nicht", "Fallunterschiede und tatsächlicher Rechercheumfang"),

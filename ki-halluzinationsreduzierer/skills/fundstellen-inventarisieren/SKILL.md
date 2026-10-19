@@ -45,6 +45,16 @@ Priorisieren Sie tragende Nachweise, Fristen, Anspruchsvoraussetzungen, Zuständ
 
 Gleichen Sie die Anzahl erfasster Vorkommen mit dem gelesenen Dokument ab. Zählen Sie Quellen, Vorkommen und Aussagen getrennt. Prüfen Sie Stichproben in Fußnoten, Tabellen und im letzten Dokumentabschnitt, ohne diese Stichproben als vollständige Inhaltsverifikation auszugeben. Übergeben Sie das Register an [Amtliche Quellen erschließen](../amtliche-quellen-erschliessen/SKILL.md). Mehrdeutige Identitäten gehen zusätzlich an [Entscheidungsidentität abgleichen](../entscheidungsidentitaet-abgleichen/SKILL.md). Beide geben ihre Ergebnisse unter denselben Kennungen zurück.
 
+### 3.6. Verfahrensbehauptungen zusätzlich erfassen
+
+Bei einem Schriftsatz erfassen Sie auch unbelegte Behauptungen zum Verfahrensgeschehen: angeblich gestellte Anträge, gerichtliche Hinweise, übergangene Beweisantritte und behauptete tragende Gründe. Ordnen Sie ihnen die bezeichnete Aktenstelle zu; fehlt sie, bleibt der Aktenabgleich offen. Das Quellenregister wird nicht zum Beweis dafür, dass die behauptete Prozesshandlung stattgefunden hat. Geben Sie die Verfahrensbehauptungen an die [Schriftsatzprüfung](../../references/schriftsatzpruefung.md) weiter.
+
+[Bundesarbeitsgericht, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 18–22: **Trägt:** Eine Gehörsrüge muss den konkret übergangenen Vortrag und die erforderliche Entscheidungserheblichkeit erkennen lassen. **Trägt nicht:** Ein Register echter Zitate genügt als Begründung jeder Gehörsrüge; fehlende ausdrückliche Erwähnung beweist schon das Übergehen des Vortrags.
+
+### 3.7. Fallfremde Bausteine sichtbar machen
+
+[KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25](https://gesetze.berlin.de/perma?d=NJRE001625355), Rn. 3–4: **Trägt:** Die Beanstandung von Geschwindigkeitsbausteinen in einem Verfahren wegen Nutzung eines elektronischen Geräts zeigt, warum der konkrete Tatvorwurf in das Inventar gehört. **Trägt nicht:** Generative KI sei als Ursache festgestellt oder jeder automatisierte Schriftsatz insgesamt unbeachtlich. Erfassen Sie Vorwurf, betroffene Textbausteine und widersprechende Aktenstellen; markieren Sie das Fehlen eines Aktenbelegs getrennt von einem nachgewiesenen Widerspruch.
+
 ## 4. Quellenpflicht
 
 Es gelten die strenge [Zitierweise](../../references/zitierweise.md), der [Prüfvertrag](../../references/pruefvertrag.md) und das [Quellenprotokoll](../../references/quellenprotokoll.md). Das eingereichte Dokument belegt, dass eine Aussage darin steht; es belegt nicht deren Richtigkeit oder die Existenz der angegebenen Quelle. Für Gerichtsentscheidungen sind tatsächlich zugängliche amtliche Originalvolltexte erforderlich. Suchtreffer, Pressemitteilungen und Nutzerdokumente allein erfüllen diesen Nachweis nicht. Literatur und technische Standards werden ausschließlich beim zugänglichen Originalherausgeber gesondert geprüft; sie werden dadurch nicht zu amtlicher Rechtsprechung.

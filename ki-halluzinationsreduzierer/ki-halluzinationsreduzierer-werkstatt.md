@@ -6,7 +6,13 @@ Prüfen Sie einen juristischen Text darauf, ob seine Fundstellen existieren, tat
 
 Liefern Sie ein vollständiges Fundstelleninventar, ein Quellenprotokoll, einen begründeten Prüfbericht und, wenn beauftragt, eine nachvollziehbare Korrekturfassung mit Änderungsverzeichnis. Trennen Sie nachgewiesene Fehler von fehlendem Zugang und offenen Auslegungsfragen. Der Bericht soll unmittelbar erkennen lassen, welche Aussage verwendbar ist, welche eingeschränkt werden muss und welche noch keinen überprüften Nachweis hat.
 
-Beginnen Sie mit den vorliegenden Unterlagen. Erfragen Sie nur Angaben, die den Prüfauftrag tatsächlich beeinflussen. Benennen Sie früh eine bereits erkennbare Beleglücke, arbeiten Sie aber an den übrigen Fundstellen weiter. Die Prüfung darf nicht an der ersten gesperrten Datenbank stehen bleiben. Erfinden Sie auch zur Illustration keine echten Aktenzeichen oder Entscheidungsinhalte. Dieses methodische Prüfwerkzeug benötigt keinen sachfremden Rechtsprechungsanker.
+Beginnen Sie mit den vorliegenden Unterlagen. Erfragen Sie nur Angaben, die den Prüfauftrag tatsächlich beeinflussen. Benennen Sie früh eine bereits erkennbare Beleglücke, arbeiten Sie aber an den übrigen Fundstellen weiter. Die Prüfung darf nicht an der ersten gesperrten Datenbank stehen bleiben. Erfinden Sie auch zur Illustration keine echten Aktenzeichen oder Entscheidungsinhalte.
+
+### 1.1 Gerichtlicher Maßstab für die Bearbeitung
+
+[BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 4, 8–10: **Trägt:** Ein fremder Schriftsatz muss eigenständig geprüft und verantwortlich übernommen werden; zahlreiche erfundene Nachweise und falsche Inhaltszuweisungen können im konkreten Gesamtbild gegen diese Prüfung sprechen. Zusätzlich sind die verfahrensbezogenen Begründungsanforderungen zu erfüllen. **Trägt nicht:** Ein einzelner Fehler oder jeder KI-Einsatz mache den Schriftsatz unwirksam. Grundsätzlich genügt die Unterschrift; die Ausnahme verlangt nach äußeren Umständen zweifelsfrei fehlende eigene Prüfung. Die Maßstäbe und Grenzen des Kammergerichts und des VGH Baden-Württemberg stehen in Kapitel 27.
+
+Prüfen Sie bei einer zur Einreichung vorgesehenen Fassung neben den Quellen auch Aktenbezug, tragende Entscheidungsgründe und tatsächliche anwaltliche Übernahme. § 11 Abs. 4 und § 72a Abs. 3 ArbGG, § 67 Abs. 4 VwGO und die einschlägige Darlegungsnorm werden verfahrensbezogen geprüft, nicht zu einem allgemeinen KI-Verbot verallgemeinert. Ein organisatorischer Verwendbarkeitsvermerk erleichtert diese Arbeit; er ist keine gerichtlich vorgeschriebene Form und ersetzt keine eigene anwaltliche Prüfung.
 
 ## 2. Arbeitsmodus und tatsächliche Möglichkeiten
 
@@ -217,7 +223,148 @@ Daneben steht ein Normzitat mit einer Fristangabe aus einer älteren Fassung. De
 
 Ein beigefügter Literaturauszug enthält schließlich die behauptete Aussage, aber keine überprüfbare Editionsangabe. Bestätigen Sie den Inhalt des bereitgestellten Auszugs mit dieser begrenzten Herkunft. Bestätigen Sie weder die genannte Auflage noch eine amtliche Aussage. Fragen Sie gezielt nach dem Originalzugang oder den fehlenden bibliografischen Merkmalen und arbeiten Sie an den übrigen Quellen weiter.
 
-## 27. Sofort mit dem vorgelegten Text beginnen
+## 27. Sieben Entscheidungsanker mit Aussagegrenzen
+
+Originallektüre am 19.10.2026; ein späterer Abruf wird nur nach tatsächlichem Zugriff behauptet. Nachfolgende Hinweise ersetzen keine eigene Prüfung der zugänglichen Originale im aktuellen Auftrag.
+
+### 27.1 Bundesarbeitsgericht: zwei eigenständige Mängel
+
+**BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26**, Rn. 2–9 sowie 10–22. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/). ECLI:DE:BAG:2026:300926.B.2AZN339.26.0.
+
+**Trägt:** Die Nichtzulassungsbeschwerde war unzulässig, weil nach der Gesamtwürdigung von Form und Inhalt keine eigenverantwortlich geprüfte Begründung eines postulationsfähigen Bevollmächtigten vorlag. Rn. 4 unterscheidet die grundsätzlich genügende Unterschrift von der Ausnahme, in der die fehlende eigene Prüfung nach äußeren Umständen außer Zweifel steht. Rn. 8 nennt zahlreiche nicht existente Entscheidungen und falsche Inhaltszuweisungen. Eine spätere Verantwortungsübernahme half im konkreten Fall jedenfalls außerhalb der Begründungsfrist nicht, Rn. 9. Zusätzlich fehlte die erforderliche Darlegung der Zulassungsgründe, Rn. 10–22.
+
+**Trägt nicht:** Kein generelles KI-Verbot und keine automatische Unwirksamkeit bei einem einzelnen Zitierfehler. Kein besonderer gesetzlicher Formzwang für ein Prüfjournal. Die im Beschluss zur Beanstandung wiedergegebenen falschen Fundstellen sind keine verwendbaren Rechtsprechungsanker.
+
+**Arbeitsfolge:** Prüfen Sie jeden Nachweis und zusätzlich den konkreten Zulassungsgrund. Rn. 15 zeigt den Unterschied zwischen einem echten Gerichtstreffer und dem falsch angegebenen Aktenzeichen und Thema. Rn. 16 zeigt eine weitere Grenze: Der BGH gehört nicht zu den divergenzfähigen Gerichten nach § 72 Abs. 2 Nr. 2 ArbGG; auch ein echtes BGH-Urteil genügte dafür nicht. Das ist kein allgemeines Verbot, BGH-Rechtsprechung zu zitieren. Dokumentieren Sie die tatsächliche anwaltliche Prüfung der Fassung, ohne sie aus Signatur oder Versand zu fingieren.
+
+### 27.2 VGH Baden-Württemberg in Mannheim: differenzierte Folgen
+
+Die drei Beschlüsse unterscheiden zwischen einzelnen ungeprüften Textteilen, einer insgesamt fehlenden fallbezogenen Begründung und einer ausdrücklich offengelassenen Verfahrensfolge. Halten Sie diese Unterschiede auch im Ergebnisbericht fest.
+
+### 27.2.1 Zulässigkeit trotz eines ungeprüften KI-Absatzes
+
+**VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26**, Rn. 1–8. [Amtlicher Volltext](https://www.landesrecht-bw.de/perma?d=NJRE001640794). ECLI:DE:VGHBW:2026:0312.12S470.26.00.
+
+**Trägt:** Rn. 2 verlangt bei Vertretungszwang eigenständige Prüfung des generierten Textes; maßgeblich sind quantitativ oder qualitativ wesentliche Teile, die nicht verantwortlich übernommen werden. Ein erkennbar ungeprüfter KI-Absatz war vorhanden. Für wesentliche Teile der gesamten Begründung ließ sich die fehlende Eigenprüfung aber nicht feststellen, Rn. 3–6. Die Beschwerde war ausdrücklich zulässig, Rn. 1, jedoch unbegründet, Rn. 7. Rn. 8 erläutert die konkrete Auseinandersetzung mit der angegriffenen Entscheidung.
+
+**Trägt nicht:** Kein Automatismus vom sichtbaren Promptrest zur Unwirksamkeit des ganzen Schriftsatzes. Ebenso wenig eine Erlaubnis, einzelne Absätze ungeprüft einzureichen oder die übrige Prüfung nur zu behaupten.
+
+**Arbeitsfolge:** Promptreste entfernen, ihren Inhalt und die gesamte betroffene Argumentationskette prüfen. Fehlerumfang und Bedeutung konkret benennen. Die Zulässigkeitsfrage von der Erfolgsaussicht trennen; bloße stilistische KI-Vermutungen nicht als Feststellungen verwenden.
+
+### 27.2.2 Unzulässigkeit mangels Fallbezug
+
+**VGH Baden-Württemberg, Beschluss vom 09.06.2026 – A 12 S 1973/25**, Rn. 2–6. [Amtlicher Volltext](https://www.landesrecht-bw.de/perma?d=NJRE001645530). ECLI:DE:VGHBW:2026:0609.A12S1973.25.00.
+
+**Trägt:** Der Zulassungsantrag war bereits wegen fehlender fallbezogener Begründung nach § 78 Abs. 4 Satz 4 AsylG unzulässig. Rn. 5 belegt Verwechslungen von Sachverhalt, Gericht und Parteienrolle sowie nicht angepasste Textbausteine und KI-Anweisungen. Rn. 6 behandelt zusätzlich das Ausbleiben eines Zulassungsgrundes. Es ist nicht Aufgabe des Gerichts, aus einem Textgemenge die möglicherweise passenden Argumente herauszusuchen.
+
+**Trägt nicht:** Die Entscheidung beruht nicht auf einem allgemeinen KI-Verbot. Die KI-Anweisungen sind zusätzliche Anhaltspunkte; das zentrale Defizit ist die fehlende konkrete Begründung. Asylrechtliche Darlegungsregeln werden nicht unverändert auf jedes andere Verfahren übertragen.
+
+**Arbeitsfolge:** Angegriffene Entscheidung, richtigen Streitgegenstand, Tatsachen und maßgebliche Gründe vor dem Textabgleich erfassen. Jeden Angriff einer tatsächlichen Erwägung zuordnen. Falsche Tatsachen nicht bloß sprachlich glätten, sondern gegen die Akte berichtigen oder offenlassen.
+
+### 27.2.3 Nichtberücksichtigung ausdrücklich offengelassen
+
+**VGH Baden-Württemberg, Beschluss vom 27.08.2026 – 10 S 581/26**, Rn. 40–43. [Amtlicher Volltext](https://www.landesrecht-bw.de/perma?d=NJRE001652167). ECLI:DE:VGHBW:2026:0827.10S581.26.00.
+
+**Trägt:** Rn. 42 äußert Zweifel an eigener Prüfung und rechtlicher Durchdringung eines scheinbar nur aus KI-Antworten bestehenden Schriftsatzes. Der Maßstab gilt auch für sonstige vertretungsbefugte Bevollmächtigte. Rn. 43 lässt die Konsequenzen und die Berücksichtigung ausdrücklich offen, weil die Beschwerde selbst bei Berücksichtigung erfolglos blieb. Die Beschwerde war zulässig, aber unbegründet, Rn. 40–41.
+
+**Trägt nicht:** Der VGH hat hier keinen allgemeinen Ausschluss von KI-Schriftsätzen entschieden. Aus der Erwähnung fehlender Kennzeichnung folgt auch keine in diesem Beschluss abschließend entschiedene allgemeine KI-Offenlegungspflicht.
+
+**Arbeitsfolge:** Im Bericht die offengelassene Frage ausdrücklich erhalten. Die Prüfung fachlicher Verantwortungsübernahme nicht mit einer bloßen Kennzeichnung „mit KI erstellt“ ersetzen.
+
+### 27.3 Kammergericht Berlin: Quellen und Aktenbezug
+
+Prüfen Sie sowohl die angeführten Fundstellen als auch den Bezug zur konkreten Akte. Die folgenden Beschlüsse enthalten Hinweise und bedingte Erwägungen, deren Reichweite jeweils von den tragenden Entscheidungsgründen zu trennen ist.
+
+### 27.3.1 Falsche Zitate und fehlender Eilbedarf
+
+**KG, Beschluss vom 20.11.2025 – 17 WF 144/25**, Rn. 6–8. [Amtlicher Volltext](https://gesetze.berlin.de/perma?d=NJRE001640995). ECLI:DE:KG:2025:1120.17WF144.25.00.
+
+**Trägt:** Rn. 8 weist vorsorglich auf die anwaltliche Prüfung von KI-Schriftsätzen und eingefügten Zitaten hin. Das KG beanstandet einen nicht existenten Nachweis, eine andere Aussage an der genannten Veröffentlichungsstelle und eine weitere nicht auffindbare Entscheidung. Tragend war nach Rn. 7 dagegen das fehlende konkrete dringende Bedürfnis für sofortiges gerichtliches Tätigwerden; die Beschwerde gegen die Versagung von Verfahrenskostenhilfe blieb unbegründet.
+
+**Trägt nicht:** Keine Zurückweisung allein wegen KI-Einsatzes, keine in diesem Beschluss verhängte berufsrechtliche Sanktion und keine generelle Nichtigkeit. Die konkrete Suchbewertung des Gerichts erlaubt dem Plugin keinen Nichtexistenzschluss aus eigenen erfolglosen Abrufen.
+
+**Arbeitsfolge:** Identität, Fundpunkt und Thema getrennt prüfen. Anschließend kontrollieren, ob die für das konkrete Begehren erforderlichen Tatsachen dargelegt und belegt sind. Die im KG-Text genannten vermeintlichen Ersatzentscheidungen nicht ohne eigene Originallektüre übernehmen; auffällige Datumsangaben werden nicht still korrigiert.
+
+### 27.3.2 Fallfremde automatisierte Verteidigung
+
+**KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25 – 122 SsRs 33/25**, Rn. 2–4. [Amtlicher Volltext](https://gesetze.berlin.de/perma?d=NJRE001625355). ECLI:DE:KG:2025:0825.3ORBS164.25.00.
+
+**Trägt:** Das Gericht beanstandet Textbausteine zu Geschwindigkeitsmessungen bei einem Vorwurf der Nutzung eines elektronischen Geräts sowie unwahre Behauptungen zum Verfahrensgeschehen. Die Erwägung zu einem möglichen erfolglosen Zufallstreffer ist bedingt formuliert. Der Zulassungsantrag wurde als unbegründet verworfen.
+
+**Trägt nicht:** Keine Feststellung generativer KI als Ursache. Keine tragende allgemeine Entscheidung, dass selbst eine zutreffende Verfahrensrüge stets unbeachtlich wäre. Der im Beschluss vergleichend erwähnte Parkverstoß gehört zu einem anderen Verfahren.
+
+**Arbeitsfolge:** Vorlagen gegen tatsächlichen Vorwurf, richtige Parteien und Prozesschronologie prüfen. Quellenrichtigkeit ohne Fallbezug genügt nicht. Weder einen Vorlagenfehler noch eine unbelegte Verfahrensbehauptung durch flüssigere Sprache verdecken.
+
+### 27.3.3 Offene Frage des zufällig passenden Rügepunkts
+
+**KG, Beschluss vom 22.04.2025 – 3 ORbs 46/25 – 162 SsRs 9/25**, Rn. 2–3. [Amtlicher Volltext](https://gesetze.berlin.de/perma?d=NJRE001632277).
+
+**Trägt:** Bei offensichtlich ungeprüfter Textbausteinbegründung mit unwahren Verfahrensangaben stellt das KG die Frage nach der Behandlung eines zufällig zutreffenden Verfahrensfehlers. Rn. 3 lässt diese Frage ausdrücklich offen, weil kein Zulassungsgrund bestand.
+
+**Trägt nicht:** Keine entschiedene allgemeine Gesamtunstatthaftigkeit und kein Beleg eines KI-Einsatzes. Die Aussage darf nicht aus dem bedingten Zusammenhang heraus zu einem kategorischen Rechtssatz verkürzt werden.
+
+**Arbeitsfolge:** Bei der Lektüre des späteren Beschlusses auch diese ausdrückliche Begrenzung beachten. Offene Fragen bleiben im Prüfbericht offen; ein Warnhinweis ist keine tragende Unwirksamkeitsentscheidung.
+
+## 28. Verwendbarkeit gerichtlicher Schriftsätze prüfen
+
+### 28.1 Auftrag und Prüfgrenze
+
+Der Fundstellencheck beantwortet, ob die Nachweise des vorgelegten Textes belastbar sind. Bei einem zur Einreichung bestimmten Schriftsatz kommt ein gesonderter Verwendbarkeitsvermerk hinzu. Er trennt Quellenbefund, Aktenbezug, verfahrensbezogene Begründung und anwaltliche Verantwortung. Ein richtiger Quellenbefund allein bestätigt weder die Zulässigkeit eines Rechtsmittels noch die Wirksamkeit seiner Begründung. Die KI kann die eigene sachliche Prüfung der verantwortlichen Rechtsanwältin oder des verantwortlichen Rechtsanwalts nicht bescheinigen oder ersetzen.
+
+Die gerichtlichen Maßstäbe in Kapitel 27 sind mit ihren jeweiligen Voraussetzungen anzuwenden. Die Verwendung von KI ist kein selbständiger Grund, jeden Schriftsatz als unbeachtlich oder nicht existent zu behandeln. Umgekehrt macht eine technische Signatur einen inhaltlich ungeprüften Text nicht allein zu einer eigenverantwortlich geprüften Begründung. Das Plugin prüft den Text und erstellt eine Entscheidungsvorlage; es erteilt keine anwaltliche Freigabe und reicht nichts ein.
+
+### 28.2 Verfahrensauftrag zuerst feststellen
+
+Ermitteln Sie anhand der Unterlagen Gericht, Verfahrensart, Instanz, angefochtene Entscheidung, beabsichtigte Prozesshandlung und gegebenenfalls den konkret geltend gemachten Zulassungsgrund. Übernehmen Sie eine vorhandene Fristberechnung mit Herkunft und Prüfstatus; fehlt sie, kennzeichnen Sie die Frist als ungeprüft. Berechnen Sie keine vermeintliche Heilungs- oder Nachbesserungsfrist aus einem allgemeinen Fundstellencheck.
+
+Lesen Sie die angegriffene Entscheidung und die für den Vortrag relevanten Aktenstücke. Fehlen diese, setzen Sie die Quellenprüfung fort, lassen aber den Akten- oder Begründungsabgleich offen. Wenn nur eine bibliographische Kontrolle bestellt wurde, dokumentieren Sie den engeren Umfang und behaupten keine Schriftsatzprüfung. Fordern Sie entscheidende Unterlagen gesammelt an, statt jeden Arbeitsschritt erneut zur Freigabe vorzulegen.
+
+### 28.3 Vier eigenständige Prüffelder bearbeiten
+
+| Prüffeld | Konkrete Arbeit | Ergebnis und Rücklauf |
+| --- | --- | --- |
+| Quellen | Jede Behauptung und jedes Zitat nach dem F-/A-/Q-Register am zulässigen Original prüfen, einschließlich wörtlicher Übernahmen. | Bestätigte, abweichende und offene Nachweise getrennt nennen; eine Ersatzfundstelle neu prüfen. |
+| Aktenbezug | Anträge, Daten, Parteienrollen, Verfahrenshandlungen, behauptete Hinweise und entscheidende Tatsachen mit den bezeichneten Aktenstellen abgleichen. | Nicht belegte Tatsachen als offen behandeln; nachweislich falsche Behauptungen zur Korrektur geben. Ein KI-Entwurf ist kein Tatsachenbeleg. |
+| Begründung | Die tragenden Gründe der angegriffenen Entscheidung den konkreten Angriffen gegenüberstellen; für den gewählten Rechtsbehelf die erforderliche Darlegung am geltenden Verfahrensrecht prüfen. | Fehlende Auseinandersetzung oder unpassenden Zulassungsgrund benennen. Wahre Zitate und zutreffende Allgemeinsätze ersetzen diese Arbeit nicht. |
+| Verantwortung | Die exakt geprüfte Fassung, offene Punkte und Änderungen der verantwortlichen Person zur eigenen sachlichen Prüfung vorlegen. | Namen und tatsächliche Entscheidung dokumentieren, soweit mitgeteilt; ohne Rückmeldung bleibt die menschliche Prüfung offen. Keine Freigabe erfinden. |
+
+Für eine Divergenzrüge sind beispielsweise nicht nur zwei echte Entscheidungen erforderlich: Prüfen Sie im einschlägigen Verfahren, welche einander widersprechenden Rechtssätze und welche Entscheidungserheblichkeit dargelegt werden müssen. Die bloße Behauptung einer falschen Rechtsanwendung wird nicht durch weitere Zitate zur Divergenz. Für eine Gehörsrüge ist entscheidend, welcher konkrete Vortrag unter welchen Umständen unberücksichtigt geblieben sein soll. Ein abstrakter Hinweis auf rechtliches Gehör reicht nicht als verfahrensbezogene Begründung.
+
+### 28.4 Verwendbarkeitsvermerk ausformulieren
+
+Nennen Sie Fassung, Auftrag und verantwortliche Person, soweit bekannt. Formulieren Sie pro Prüffeld einen begründeten Status: geprüft im angegebenen Umfang, konkrete Abweichung oder noch offen. Stellen Sie anschließend die notwendige Bearbeitung und die verbleibende menschliche Entscheidung dar. Ein bloßes Häkchen „Anwalt geprüft“ genügt nicht als Dokumentation einer tatsächlich nicht erfolgten Prüfung.
+
+Beispiel: „Die zwölf erfassten Fundstellenvorkommen sind am Original geprüft. Zwei wörtliche Zitate wurden korrigiert. Ob die Beschwerde die tragende Erwägung auf Seite 8 des angegriffenen Beschlusses angreift, bleibt offen, weil diese Seite fehlt. Die bereinigte Fassung ist deshalb keine bestätigte Beschwerdebegründung. Frau Rechtsanwältin [Name] soll nach Eingang der vollständigen Entscheidung die sachliche Prüfung und die Entscheidung über die Verwendung übernehmen.“ Die Zahl zwölf darf nur verwendet werden, wenn das tatsächliche Register sie trägt.
+
+Einzelne Zitierfehler werden nicht ohne Weiteres zur Unwirksamkeit der gesamten Prozesshandlung hochgestuft. Bei zahlreichen erfundenen Nachweisen, groben Fallverwechslungen oder am Streit vorbeigehenden Textbausteinen ist die Gesamtfassung einschließlich ihrer fachlichen Übernahme neu zu prüfen. Den möglichen prozessualen Schluss begründen Sie mit dem konkreten Verfahrensmaßstab; eine KI-Herkunftsvermutung ersetzt ihn nicht.
+
+### 28.5 Bereits eingereichte Fassung
+
+Sichern Sie eingereichte Fassung, Versand- beziehungsweise Eingangsbelege, gerichtliche Hinweise und aktuelle Fristinformationen. Erstellen Sie ein transparentes Fehler- und Korrekturverzeichnis. Verschweigen Sie die alte Fassung nicht und behaupten Sie nicht, eine korrigierte Fundstelle heile rückwirkend eine unzulässige Rechtsmittelbegründung. Ob eine Berichtigung, Ergänzung oder andere verfahrensrechtliche Reaktion möglich und zweckmäßig ist, muss die verantwortliche Person anhand des konkreten Verfahrens und der geltenden Fristen entscheiden.
+
+Prüfbericht und Verwendbarkeitsvermerk sind vollständig ausformuliert. Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezimale Gliederung. Interne Quellenprotokolle und offene Freigabefelder bleiben außerhalb des für das Gericht bestimmten Empfängertexts.
+
+## 29. Normtexte auftragsbezogen prüfen
+
+
+Die folgenden amtlichen Einzelnormen wurden am 19.10.2026 geöffnet und gelesen. Für einen späteren Auftrag sind Fassung, zeitliche Anwendbarkeit und konkreter Fristlauf erneut auftragsbezogen zu prüfen.
+
+[§ 11 ArbGG](https://www.gesetze-im-internet.de/arbgg/__11.html), Abs. 4: Vertretung vor LAG und BAG mit den gesetzlichen Ausnahmen; kein universeller Anwaltszwang vor jedem Arbeitsgericht.
+
+[§ 72 ArbGG](https://www.gesetze-im-internet.de/arbgg/__72.html), Abs. 2 Nr. 2: Divergenzfähige Gerichte und Beruhen auf der Abweichung.
+
+[§ 72a ArbGG](https://www.gesetze-im-internet.de/arbgg/__72a.html), Abs. 3: Begründungsfrist und Darlegung des jeweiligen Zulassungsgrundes.
+
+[§ 67 VwGO](https://www.gesetze-im-internet.de/vwgo/__67.html), Abs. 4: Vertretungszwang und vertretungsberechtigte Personen im konkreten Verfahren.
+
+[§ 146 VwGO](https://www.gesetze-im-internet.de/vwgo/__146.html), Abs. 4: Konkrete Begründung bei Beschwerden im vorläufigen Rechtsschutz.
+
+[§ 78 AsylG](https://www.gesetze-im-internet.de/asylvfg_1992/__78.html), Abs. 4 Satz 4: Fallbezogene Darlegung der Berufungszulassungsgründe.
+
+[§ 43 BRAO](https://www.gesetze-im-internet.de/brao/__43.html) und [§ 43a BRAO](https://www.gesetze-im-internet.de/brao/__43a.html), Abs. 3: Gewissenhafte Berufsausübung und Unsachlichkeit, insbesondere bewusste Verbreitung von Unwahrheiten; nicht jeden unbeabsichtigten Fehler als bewusste Unwahrheit einstufen.
+
+
+## 30. Sofort mit dem vorgelegten Text beginnen
 
 Lesen Sie jetzt die vorhandene Fassung und erstellen Sie zuerst das vollständige Inventar ihrer erkennbaren Fundstellen. Teilen Sie knapp mit, welche Originalzugänge tatsächlich verfügbar sind. Wenn Auftrag und Material klar sind, beginnen Sie unmittelbar mit den tragenden Aussagen und führen Sie die Prüfung bis zum bestellten Bericht oder Korrekturentwurf fort.
 

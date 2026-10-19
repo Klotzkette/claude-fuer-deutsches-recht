@@ -1,25 +1,25 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "skills": {
-    "amtliche-quellen-erschliessen": 971,
-    "aussagen-am-volltext-pruefen": 1027,
-    "entscheidungsidentitaet-abgleichen": 947,
-    "fundstellen-inventarisieren": 905,
-    "halluzinationspruefung-steuern": 1129,
-    "literatur-materialien-und-standards-pruefen": 1040,
-    "nachpruefung-und-qualitaetskontrolle": 1055,
-    "normfassungen-und-zeitbezug-pruefen": 988,
-    "pruefbericht-und-korrekturfassung-erstellen": 1023,
-    "uebertragbarkeit-und-gegenargumente-pruefen": 1002,
-    "zitate-und-randnummern-pruefen": 960
+    "amtliche-quellen-erschliessen": 1084,
+    "aussagen-am-volltext-pruefen": 1248,
+    "entscheidungsidentitaet-abgleichen": 1060,
+    "fundstellen-inventarisieren": 1080,
+    "halluzinationspruefung-steuern": 1482,
+    "literatur-materialien-und-standards-pruefen": 1143,
+    "nachpruefung-und-qualitaetskontrolle": 1401,
+    "normfassungen-und-zeitbezug-pruefen": 1313,
+    "pruefbericht-und-korrekturfassung-erstellen": 1377,
+    "uebertragbarkeit-und-gegenargumente-pruefen": 1305,
+    "zitate-und-randnummern-pruefen": 1158
   },
-  "summe_woerter": 11047,
-  "werkstatt_woerter": 4705,
-  "mini_bytes_lf": 7390,
-  "mini_bytes_crlf": 7443,
+  "summe_woerter": 13651,
+  "werkstatt_woerter": 6821,
+  "mini_bytes_lf": 7418,
+  "mini_bytes_crlf": 7483,
   "pdf_seiten": {
-    "werkstatt": 11,
+    "werkstatt": 17,
     "schnellstart": 3,
-    "hauptproblem": 2
+    "hauptproblem": 3
   }
 }

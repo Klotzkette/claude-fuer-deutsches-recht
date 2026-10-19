@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag ki-halluzinationsreduzierer-v1.0.0
+        description: Komponententag ki-halluzinationsreduzierer-v1.1.0
         required: true
-        default: ki-halluzinationsreduzierer-v1.0.0
+        default: ki-halluzinationsreduzierer-v1.1.0
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -41,7 +41,7 @@ jobs:
           sudo apt-get install -y --no-install-recommends fonts-liberation2
       - name: Komponente und Quellen prüfen
         run: |
-          test "$TAG" = 'ki-halluzinationsreduzierer-v1.0.0'
+          test "$TAG" = 'ki-halluzinationsreduzierer-v1.1.0'
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
@@ -101,7 +101,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder zeigt auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'KI-Halluzinationsreduzierer 1.0.0',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'KI-Halluzinationsreduzierer 1.1.0',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           release = None
           for delay in (0, 2, 4, 8, 16):

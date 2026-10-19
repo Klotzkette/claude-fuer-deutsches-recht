@@ -49,7 +49,15 @@ Arbeiten Sie nur belegte Änderungen in die neue Fassung ein. Fehlende Sachverha
 
 In eine saubere Empfängerfassung gehören die fachlich nötigen Fundstellen und Aussagegrenzen. Technische Abrufprobleme, interne Prüfkennungen und Bearbeitungsanweisungen verbleiben im gesonderten Prüfbericht. Enthält der Entwurf eine entscheidende ungelöste Frage, darf er nicht als ohne Weiteres versandfertig bezeichnet werden. Eine Fertigstellung für die interne Prüfung ist keine Freigabe zur Einreichung oder Versendung.
 
-### 3.6 Schlussabgleich übergeben
+### 3.6 Verwendbarkeit und bereits erfolgte Einreichung erläutern
+
+Bei einem Gerichtsschriftsatz ergänzen Sie den Bericht um einen [Verwendbarkeitsvermerk](../../references/schriftsatzpruefung.md). Formulieren Sie getrennt, was die Quellen tragen, ob der Vortrag zur belegten Akte passt, ob er den konkreten verfahrensrechtlichen Begründungsmaßstab erfüllt und welche eigene Prüfung durch die verantwortliche Person tatsächlich mitgeteilt wurde. Ein positiver Quellenbefund darf nicht als abgeschlossene anwaltliche Gesamtprüfung erscheinen. Ein Journal ist eine organisatorische Empfehlung; es erzeugt oder ersetzt die sachliche Befassung nicht.
+
+Ist der fehlerhafte Text bereits eingereicht, stellen Sie ursprüngliche Fassung, Versand- und Eingangsbelege, erkannte Fehler, vorgeschlagene Korrektur und vorhandenen Friststand zusammen. Entfernen Sie das Original nicht. Schreiben Sie keine ungesicherte Zusicherung, eine Berichtigung heile den Mangel rückwirkend. Die verantwortliche Person muss anhand des geltenden Verfahrensrechts entscheiden, ob und wie noch reagiert werden kann. Ist die Frist ungeprüft, nennen Sie sie ausdrücklich ungeprüft; aus dem Datum einer gefundenen Entscheidung entsteht keine Nachbesserungsfrist.
+
+Unterscheiden Sie im Wortlaut sorgfältig: „Die genannte Entscheidung ist nicht verifiziert“ ist ein Quellenbefund. „Die Begründung setzt sich nicht mit dem tragenden Grund auf Seite 6 auseinander“ verlangt einen tatsächlichen Aktenabgleich. „Die Prozesshandlung ist unwirksam“ ist eine eigenständige rechtliche Schlussfolgerung mit besonderen Voraussetzungen. Keine dieser Aussagen darf ohne Begründung die andere ersetzen.
+
+### 3.7 Schlussabgleich übergeben
 
 Übergeben Sie Ausgangsfassung, Änderungsliste, Korrekturfassung und Befundregister an [Nachprüfung und Qualitätskontrolle](../nachpruefung-und-qualitaetskontrolle/SKILL.md). Benennen Sie die verbliebenen offenen Quellen und die konkret benötigten nächsten Schritte. Materielle Übertragungsfragen gehen zurück an [Übertragbarkeit und Gegenargumente](../uebertragbarkeit-und-gegenargumente-pruefen/SKILL.md); falsche Fassungsstände an [Normfassungen und Zeitbezug](../normfassungen-und-zeitbezug-pruefen/SKILL.md).
 
@@ -58,6 +66,8 @@ In eine saubere Empfängerfassung gehören die fachlich nötigen Fundstellen und
 Beachten Sie [Zitierweise](../../references/zitierweise.md), [Prüfvertrag](../../references/pruefvertrag.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Der Bericht darf nur tatsächlich gelesene maßgebliche Originalstellen als inhaltlich verifiziert bezeichnen. Suchtreffer, Pressemitteilungen und Nutzerzitate allein sind kein Urteilsvolltextnachweis. Bei Literatur und Standards bleibt die Originalquellenklasse ausdrücklich sichtbar.
 
 Übernehmen Sie Abrufdaten, Fundpunkte und kurze Belegauszüge aus den vorhandenen überprüften Protokollen. Erfinden Sie keine Prüfung zur Vervollständigung einer Tabelle. Bei widersprüchlichen Befunden prüfen Sie die Originalstelle erneut oder lassen die Abweichung offen, statt den günstigeren Befund auszuwählen.
+
+[BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 4–9, amtlichen Volltext am 19.10.2026 gelesen. **Trägt:** Ein Fremdentwurf braucht selbständige Prüfung und Verantwortungsübernahme; die Unterschrift genügt grundsätzlich, außer die fehlende Prüfung steht nach den äußeren Umständen außer Zweifel. Das spätere Zueigenmachen blieb im konkreten Fall jedenfalls wegen Ablaufs der Begründungsfrist unbeachtlich. **Trägt nicht:** Eine allgemeine Unheilbarkeit jedes Zitierfehlers oder eine sichere Heilung durch nachträgliche Erklärung der Verantwortung. Die [Rechtsprechungsübersicht](../../references/rechtsprechung-ki-schriftsaetze.md) hält die Aussagegrenzen fest.
 
 ## 5. Ausgabeformat
 
@@ -70,3 +80,5 @@ Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezim
 **Übungsannahme ohne reale Fundstelle:** Das Aktenzeichen ist richtig, die Zeitschriftenseite aber nicht unabhängig zugänglich. Der Bericht bestätigt die amtlich gelesene Entscheidung und deren Passage, lässt die Zeitschriftenfundstelle offen und schlägt eine nachgewiesene amtliche Zitierung vor. Er nennt den ursprünglichen Reporterbeleg nicht pauschal falsch.
 
 **Übungsannahme ohne reale Entscheidung:** Eine Passage behandelt nur einen Verfahrensschritt, der Ausgangstext behauptet daraus einen materiellen Anspruch. Die Änderungsliste erläutert den fehlenden Schluss. Der neue Satz wird auf die belegte Aussage begrenzt; die verbleibende Anspruchsfrage erscheint als offen und wird nicht mit einer erfundenen Fundstelle geschlossen.
+
+**Übungsfall zum BAG-Anker:** Rechtsanwältin Hedwig Blum entdeckt nach Einreichung mehrere falsche Zitate und möchte den Satz „Alle Mängel sind jetzt geheilt“ in eine Ergänzung aufnehmen. Erstellen Sie stattdessen ein transparentes Korrekturverzeichnis und einen Entwurf der sachlich belegten Berichtigungen. Der interne Bericht erläutert: „Ob diese Ergänzung verfahrensrechtlich noch berücksichtigt werden kann, ist anhand des Friststands und der Art des Begründungsmangels zu prüfen. Die Korrektur der Nachweise allein bestätigt keine wirksame ursprüngliche Beschwerdebegründung.“ Die Entscheidung über die Reaktion bleibt bei Frau Blum nach ihrer eigenen Prüfung.

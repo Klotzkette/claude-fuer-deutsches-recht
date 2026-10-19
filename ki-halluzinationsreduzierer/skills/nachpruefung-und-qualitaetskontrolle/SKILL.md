@@ -55,11 +55,21 @@ Schließen Sie die Kontrolle nur mit einer dem Prüfumfang entsprechenden Aussag
 
 Geben Sie redaktionelle Fehler an [Prüfbericht und Korrekturfassung](../pruefbericht-und-korrekturfassung-erstellen/SKILL.md), materielle Aussagegrenzen an [Übertragbarkeit und Gegenargumente](../uebertragbarkeit-und-gegenargumente-pruefen/SKILL.md) und zeitliche Fragen an [Normfassungen und Zeitbezug](../normfassungen-und-zeitbezug-pruefen/SKILL.md) zurück. Arbeiten Sie nach Eingang der Korrekturen an denselben Kennungen weiter.
 
+### 3.7 Sachliche Übernahme der konkreten Schriftsatzfassung kontrollieren
+
+Bei Gerichtsschriftsätzen kontrollieren Sie den gesonderten [Verwendbarkeitsvermerk](../../references/schriftsatzpruefung.md). Sind Aktenbezug und verfahrensbezogene Begründung tatsächlich geprüft oder wurde nur die Quellenliste abgearbeitet? Sind nach der Rückmeldung der verantwortlichen Rechtsanwältin oder des verantwortlichen Rechtsanwalts noch entscheidende Aussagen geändert worden? Eine bestätigte Prüfung der älteren Fassung umfasst neue Behauptungen nicht automatisch. Geben Sie die betroffenen Änderungen samt Quellen- und Aktenbelegen zur erneuten eigenen Prüfung zurück.
+
+Prüfen Sie die Aussage „anwaltlich geprüft“ gegen die tatsächlich vorliegende Rückmeldung: Wer hat welche Fassung in welchem Umfang sachlich geprüft, welche Fragen blieben offen? Die KI kann die innere Befassung nicht selbst bescheinigen. Dokumentieren Sie daher die mitgeteilte Prüfung mit ihrer Herkunft und ihren Grenzen, ohne ihr einen darüber hinausgehenden Nachweiswert zuzuschreiben. Eine pauschale Erklärung der Verantwortung, ein Signaturprotokoll oder ein angekreuztes Formular ersetzt keine tatsächlich ausgeführte fachliche Prüfung. Umgekehrt verlangen Sie keinen besonderen gerichtlichen Prüfnachweis, den die Entscheidung nicht fordert: Ein internes Journal dient der Organisation.
+
+Bei zahlreichen falschen Zitaten oder Aktenverwechslungen reicht eine Kontrolle der korrigierten Aktenzeichen nicht. Veranlassen Sie einen erneuten sachlichen Durchgang der betroffenen Gesamtargumentation. Einen einzelnen Fehler behandeln Sie dagegen nach seiner konkreten Tragweite; ein pauschales Unwirksamkeitsurteil wäre nicht belegt.
+
 ## 4. Quellenpflicht
 
 Beachten Sie [Zitierweise](../../references/zitierweise.md), [Prüfvertrag](../../references/pruefvertrag.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Die Nachprüfung verwendet dieselben strengen Originalquellenanforderungen wie die Erstprüfung. Eine weitere Modellantwort ist kein unabhängiger Quellenbeweis. Suchtreffer, Nutzerabschriften und Pressemitteilungen allein bestätigen keinen behaupteten Urteilsinhalt.
 
 Fehlt ein tragfähiger Nachweis, schreiben Sie konkret: „Ich weiß es nicht: Für diesen Befund fehlt der nachvollziehbare Zugriff auf den maßgeblichen Originalvolltext.“ Benennen Sie, welcher Teil trotzdem bestätigt bleibt. Neue amtliche Entscheidungen oder Normtexte werden nur nach tatsächlichem Zugriff als aktuell überprüft ausgewiesen.
+
+[BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 4–9, amtlicher Volltext gelesen am 19.10.2026: **Trägt:** Grundsätzlich genügt die Unterschrift; bei nach den äußeren Umständen zweifelsfrei fehlender eigener Prüfung greift diese Grundlage nicht. Form und Inhalt sowie zahlreiche falsche Nachweise begründeten im entschiedenen Fall den Schluss auf fehlende Prüfung. **Trägt nicht:** Ein zwingendes Prüfjournal, die Unwirksamkeit jedes KI-Entwurfs oder die Gleichsetzung eines einzelnen Fehlers mit nachgewiesener fehlender Eigenprüfung. Die [Ankerübersicht](../../references/rechtsprechung-ki-schriftsaetze.md) erläutert den Verfahrenskontext.
 
 ## 5. Ausgabeformat
 
@@ -72,3 +82,5 @@ Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezim
 **Übungsannahme ohne reale Fundstelle:** Eine Quelle erscheint fünfmal im Schriftsatz, wurde aber nur für eine Aussage bewertet. Der Quellenabruf muss nicht fünfmal wiederholt werden; die vier übrigen Verwendungen brauchen dennoch eigene Inhalts- und Übertragbarkeitsbefunde. Bis dahin darf die Gesamtfassung nicht als vollständig inhaltlich geprüft bezeichnet werden.
 
 **Übungsannahme ohne reale Entscheidung:** Nach der Prüfung wird aus einer eingeschränkten Aussage eine allgemeine Pflicht. Die Fundstelle bleibt unverändert. Nehmen Sie die neue Behauptung als Prüfgegenstand auf und geben Sie die Fassung zurück, wenn die gelesene Quelle nur die frühere Einschränkung trägt.
+
+**Übungsfall zum BAG-Anker:** Im Journal steht „Dr. Anton Fink, freigegeben“, eingetragen durch einen automatischen Ablauf. Tatsächlich vorhanden ist nur ein beA-Versandbeleg. Berichten Sie: „Die technische Übermittlung ist dokumentiert. Eine Rückmeldung zur eigenen sachlichen Prüfung der bezeichneten Fassung liegt nicht vor; dieser Punkt bleibt offen.“ Leiten Sie daraus allein weder eine sichere Unwirksamkeit noch eine bestätigte anwaltliche Prüfung ab. Für die bereits versandte Fassung sichern Sie die Belege und geben den festgestellten Quellenfehler samt aktuellem Verfahrensstand zur anwaltlichen Reaktionsprüfung weiter.

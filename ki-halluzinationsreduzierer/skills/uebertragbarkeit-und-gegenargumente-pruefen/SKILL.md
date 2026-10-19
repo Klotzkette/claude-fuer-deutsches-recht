@@ -37,6 +37,12 @@ Vergleichen Sie die entscheidungserheblichen Merkmale: betroffene Normfassung, p
 
 Trennen Sie eine unmittelbare Anwendung von einer argumentativen Übertragung. Wenn Sie eine Wertung übertragen, benennen Sie den erforderlichen Zwischenschritt und das stärkste Gegenargument. Leiten Sie keine allgemeine Bindung anderer Gerichte aus einer einzelnen Entscheidung ab. Fragen nach Rechtskraft oder einer besonderen gesetzlichen Bindung werden nur auf gesondert geprüfter Grundlage beantwortet.
 
+### 3.3.1 Quelle und gewählten Verfahrensgrund verbinden
+
+Bei einer Rechtsmittel- oder Beschwerdebegründung prüfen Sie zusätzlich, ob der Beleg gerade die gewählte verfahrensrechtliche Funktion erfüllen kann. Eine echte und inhaltlich passende Entscheidung kann als materielles Argument nützlich, als Divergenzentscheidung im konkreten Verfahren aber ungeeignet sein. Für die Nichtzulassungsbeschwerde zum BAG lesen Sie den Gerichtskreis in [Paragraf 72 Absatz 2 Nummer 2 ArbGG](https://www.gesetze-im-internet.de/arbgg/__72.html) und die Darlegungsanforderungen in [Paragraf 72a Absatz 3 ArbGG](https://www.gesetze-im-internet.de/arbgg/__72a.html); beide amtlichen Texte wurden für diesen Anker am 19.10.2026 geöffnet. Der BGH gehört nicht zum dort genannten Kreis divergenzfähiger Gerichte. Daraus folgt kein allgemeines Verbot, seine Entscheidungen im Arbeitsrecht als sachliches Argument anzuführen.
+
+Stellen Sie die tatsächlich formulierten Rechtssätze der angegriffenen und der angeführten Entscheidung gegenüber. Eine abweichende Fallbewertung oder die Behauptung falscher Rechtsanwendung ist nicht schon deshalb eine Rechtssatzabweichung. Bei einer Gehörsrüge benötigen Sie den konkreten Vortrag, dessen Aktenstelle, die behauptete Nichtberücksichtigung und deren Bedeutung. Fehlen diese Unterlagen, können Sie die Quelle bestätigen, nicht aber die verfahrensrechtliche Tragfähigkeit des Entwurfs. Übergeben Sie beide Befunde getrennt nach der [Schriftsatzprüfung](../../references/schriftsatzpruefung.md).
+
 ### 3.4 Gegenprüfung und begrenzte Aktualitätsrecherche
 
 Suchen Sie in zugänglichen amtlichen Quellen gezielt nach einer späteren Entscheidung oder einer gesetzlichen Änderung, die gerade die entscheidende Aussage betrifft. Benennen Sie Suchbereich, Suchdatum und Zugriffslücken. Eine erfolglose Suche beweist weder die unveränderte Fortgeltung noch das Fehlen abweichender Rechtsprechung. Erfinden Sie keinen Gegenanker, um den Bericht ausgewogen wirken zu lassen.
@@ -55,6 +61,8 @@ Es gelten die strengen Regeln der [Zitierweise](../../references/zitierweise.md)
 
 Protokollieren Sie den tatsächlichen Zugriff, die Originaladresse, den gelesenen Fundpunkt und die konkrete Schlussfolgerung. Ist der Zugang gesperrt oder der Absatz nicht lesbar, schreiben Sie: „Ich weiß es nicht: Die behauptete Aussage konnte am amtlichen Originalvolltext nicht verifiziert werden.“ Nennen Sie anschließend den konkreten Hinderungsgrund und den nächsten möglichen Prüfschritt.
 
+Verifizierter Anker: [BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 14–18, amtlicher Volltext gelesen am 19.10.2026. **Trägt:** Quellenidentität, gesetzlich geeignete Divergenzentscheidung und konkrete Darlegung sind eigenständige Anforderungen; ein reales Urteil desselben Tages ersetzt nicht das fälschlich genannte Urteil. **Trägt nicht:** Ein allgemeines Verbot von BGH-Zitaten oder die Aussage, jede unpassende Fundstelle mache jeden Schriftsatz insgesamt unwirksam. Die [Rechtsprechungsanker](../../references/rechtsprechung-ki-schriftsaetze.md) ordnen den Befund ein.
+
 ## 5. Ausgabeformat
 
 Liefern Sie einen ausformulierten Übertragbarkeitsvermerk mit dem geprüften Satz, den fünf getrennten Prüfdimensionen, dem Fallvergleich, dem stärksten belegten Gegenargument und „Trägt / Trägt nicht“. Die Schlussformulierung muss sich in den beauftragten Text übernehmen lassen; technische Zugriffsvermerke stehen getrennt davon. Ein Stichwortgerüst ist kein Endprodukt.
@@ -66,3 +74,5 @@ Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezim
 **Übungsannahme ohne reale Entscheidung:** Ein Vertragsentwurf beruft sich für eine allgemeine Haftungsfreistellung auf eine amtlich gelesene Entscheidung zu einer eng begrenzten Informationspflicht. Existenz und Identität sind bestätigt; der angegebene Absatz enthält tatsächlich die zitierte Aussage. Der Bericht erläutert trotzdem, dass sie die allgemeine Haftungsfreistellung nicht trägt, und nennt die fehlende Verbindung zwischen beiden Fragen.
 
 **Übungsannahme ohne reale Entscheidung:** Ein Gericht referiert im Sachverhalt die Behauptung, eine Zahlung sei endgültig gewesen. Der geprüfte Schriftsatz macht daraus eine gerichtliche Feststellung. Markieren Sie den richtigen Fundpunkt bei zugleich unzutreffender Aussagentragfähigkeit. Bieten Sie nur eine Formulierung als Parteivortrag an, sofern diese für den Auftrag überhaupt sinnvoll ist.
+
+**Übungsfall zum BAG-Anker:** Ein Entwurf einer Nichtzulassungsbeschwerde stützt die Divergenzrüge ausschließlich auf ein im amtlichen Volltext tatsächlich geprüftes BGH-Urteil. Die verwendete Passage ist richtig paraphrasiert. Bestätigen Sie diesen Quellenbefund, verneinen Sie aber die Eignung dieses Gerichts für den angeführten Zulassungsgrund nach Paragraf 72 Absatz 2 Nummer 2 ArbGG. Prüfen Sie nicht automatisch einen anderen Zulassungsgrund als bereits erfüllt. Ein möglicher Umbau der Begründung benötigt eigene Voraussetzungen, Aktenbezug und den geprüften Friststand.

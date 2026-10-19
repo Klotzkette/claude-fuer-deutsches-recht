@@ -22,7 +22,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "ki-halluzinationsreduzierer"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 TAG = f"{NAME}-v{VERSION}"
 KINDS = ("werkstatt", "schnellstart", "hauptproblem")
 SKIP_PARTS = {".git", ".venv", "node_modules", "__pycache__", "testakte", "testakten"}

@@ -55,6 +55,16 @@ Schlagen Sie eine engere, belegte Aussage vor, wenn die Quelle dies trägt. Halt
 
 Übergeben Sie den Aussagebefund mit den gelesenen Stellen an [Übertragbarkeit und Gegenargumente prüfen](../uebertragbarkeit-und-gegenargumente-pruefen/SKILL.md). Rückfragen zum Wortlaut gehen an [Zitate und Randnummern prüfen](../zitate-und-randnummern-pruefen/SKILL.md). Die Fallübertragbarkeit bleibt bis zur dortigen Prüfung offen; der vorliegende Skill bestätigt nur den Aussagebezug innerhalb der Quelle.
 
+### 3.7. Unwirksamkeit und Begründungsmangel getrennt lesen
+
+Prüfen Sie bei Behauptungen über angeblich nicht existente KI-Schriftsätze zuerst den tatsächlich entschiedenen Prozessmangel. [BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 2–9 und 10–22, trennt die fehlende eigenverantwortliche Prüfung des Fremdentwurfs von zusätzlich unzureichender Darlegung der Zulassungsgründe. **Trägt:** Beide Begründungswege sind im konkreten Beschwerdeverfahren zu berücksichtigen. **Trägt nicht:** Jeder KI-Einsatz oder einzelne Zitierfehler mache jeden Schriftsatz unwirksam.
+
+Lesen Sie Rn. 4 vollständig: Grundsätzlich genügt das äußere Merkmal der Unterschrift; die Ausnahme betrifft äußere Umstände, nach denen die fehlende eigene Prüfung außer Zweifel steht. Eine bloße ungewöhnliche Formatierung wird nicht zu einem selbständigen KI-Erkennungs- oder Unwirksamkeitstest. Formulieren Sie die Korrektur mit dem konkreten Verfahrensbezug und geben Sie die weitere Anwendung an die [Schriftsatzprüfung](../../references/schriftsatzpruefung.md).
+
+### 3.8. Zulässigkeit und offene Konsequenzen beim VGH
+
+[VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26](https://www.landesrecht-bw.de/perma?d=NJRE001640794), Rn. 1–8: **Trägt:** Eigenständige Prüfung wesentlicher Teile ist erforderlich; die konkrete Beschwerde war trotz eines ungeprüften KI-Absatzes zulässig und scheiterte in der Begründetheit. **Trägt nicht:** Ein Promptrest mache die gesamte Eingabe unwirksam. [VGH Baden-Württemberg, Beschluss vom 27.08.2026 – 10 S 581/26](https://www.landesrecht-bw.de/perma?d=NJRE001652167), Rn. 42–43: **Trägt:** Zweifel an eigener Durchdringung sind zu prüfen. **Trägt nicht:** Die Nichtberücksichtigung sei entschieden worden; sie blieb offen. Halten Sie beide Aussagen getrennt vom Fall [A 12 S 1973/25 vom 09.06.2026](https://www.landesrecht-bw.de/perma?d=NJRE001645530), Rn. 2–6, in dem bereits die fallbezogene Darlegung fehlte.
+
 ## 4. Quellenpflicht
 
 Es gelten [Zitierweise](../../references/zitierweise.md), [Prüfvertrag](../../references/pruefvertrag.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Gerichtliche Aussagen dürfen ausschließlich auf tatsächlich gelesenen amtlichen Originalvolltext gestützt werden. Suchtreffer, Pressemitteilungen, Nutzerdokumente und Zweitquellen allein genügen nicht. Originalverlagswerke und Standards bleiben getrennte Quellenarten und verlangen tatsächlichen Originalvolltextzugang. Weder ein überzeugender Schreibstil noch mehrfach wiederholte Sekundärzitate ersetzen einen Beleg.

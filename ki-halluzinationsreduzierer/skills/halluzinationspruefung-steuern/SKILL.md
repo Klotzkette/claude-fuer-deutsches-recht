@@ -17,6 +17,8 @@ Lesen Sie zuerst das vorgelegte Dokument einschließlich zugänglicher Fußnoten
 
 Klären Sie knapp, ob ein vollständiger Fundstellencheck oder eine ausdrücklich begrenzte Stichprobe gewünscht ist und ob zusätzlich eine Korrekturfassung erstellt werden soll. Standard ist die Prüfung aller erkennbaren Fundstellenvorkommen. Ein enges Zeitbudget rechtfertigt eine offen bezeichnete Priorisierung, keine unbemerkte Stichprobe. Stellen Sie fest, welche Dateien, Browser und rechtmäßig vorhandenen Originalzugänge tatsächlich nutzbar sind. Der Skill erzeugt keinen Datenbankzugang.
 
+Ist der Text für ein Gericht bestimmt, übernehmen Sie zusätzlich Gericht, Instanz, Prozesshandlung, angegriffene Entscheidung und belegten Friststand. Ermitteln Sie, ob die Fassung bereits eingereicht wurde und wer die anwaltliche Prüfung tatsächlich übernimmt. Fehlende Angaben beschränken die Beurteilung der Verwendung; die zugänglichen Fundstellen werden trotzdem geprüft.
+
 ## 3. Ablauf und Checkliste
 
 ### 3.1 Ausgangsfassung sichern und Bestand erfassen
@@ -53,11 +55,19 @@ Speichern Sie als Übergabe die Ausgangsversion, A-/F-/Q-Verknüpfungen, offene 
 
 Der Schlussstatus lautet etwa: „F-008 wartet auf den amtlichen Volltext. F-012 ist identisch belegt, die Aussage jedoch nur für ein Eilverfahren tragfähig. Die Korrekturfassung grenzt diesen Satz ein; die übrigen 17 erkannten Vorkommen sind im benannten Umfang geprüft.“ Zahlen sind nur zulässig, wenn das Register sie tatsächlich trägt. Die interne Bearbeitung benötigt keine zusätzliche Freigabe; eine Einreichung oder Mitteilung an Dritte ist ein gesonderter Auftrag.
 
+### 3.7 Schriftsatzprüfung mit eigenem Verfahrenspfad abschließen
+
+Bei einer beabsichtigten Einreichung ergänzen Sie die [Schriftsatzprüfung](../../references/schriftsatzpruefung.md). Lassen Sie Quellenprüfung, Abgleich mit der Verfahrensakte und Prüfung der erforderlichen Begründung getrennt durchlaufen. Zu einer Nichtzulassungsbeschwerde gehört beispielsweise die Frage, welcher Zulassungsgrund auf welche tragenden Erwägungen der angegriffenen Entscheidung bezogen wird. Eine Sammlung echter Entscheidungen beantwortet diese Frage nicht. Fehlt die angegriffene Entscheidung, bleibt dieser Pfad offen.
+
+Legen Sie der verantwortlichen Person die konkrete Fassung, die relevanten Aktenstellen, Änderungen und verbleibenden Fragen zur eigenen sachlichen Prüfung vor. Dokumentieren Sie eine tatsächlich mitgeteilte Prüfung mit ihrem Umfang; aus einem Namen, einem Dateihash oder einer versandten beA-Nachricht folgt keine Bestätigung dieser Prüfung. Ein internes Journal ist unsere organisatorische Empfehlung, kein gerichtlich angeordneter Formnachweis. Ohne Rückmeldung lautet der Status „anwaltliche Prüfung offen“, nicht „anwaltlich geprüft“. Eine bereits eingereichte fehlerhafte Fassung löst die gesonderte Prüfung der noch möglichen verfahrensrechtlichen Reaktion aus; das Plugin verspricht keine rückwirkende Heilung.
+
 ## 4. Quellenpflicht
 
 Verbindlich sind die [strenge Zitierweise](../../references/zitierweise.md) und der [Prüfvertrag](../../references/pruefvertrag.md). Nur tatsächlich zugängliche Originalvolltexte tragen einen positiven Inhaltsbefund. Keine erfundenen Aktenzeichen, Randnummern, Abrufdaten oder Parallelfundstellen. „Nicht gefunden“ bedeutet nicht „existiert nicht“. Jeder Entscheidungsanker benennt „Trägt“ und „Trägt nicht“. Gesetzliche Bindungswirkungen werden bei Bedarf gesondert geprüft; eine allgemeine Präjudizienbindung wird nicht unterstellt.
 
 Ohne ausreichenden Zugang muss der Bericht ausdrücklich sagen: „Ich weiß es nicht; diese Fundstelle konnte inhaltlich nicht verifiziert werden.“ Das ist kein Fehlschlag, sondern der richtige Befund. Sachliche Abweichungen werden dagegen konkret nachgewiesen, nicht nur vorsichtig als allgemeines Risiko erwähnt.
+
+Konkreter Anker: [BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 2–9 und 10–22; amtlichen Volltext am 19.10.2026 gelesen. **Trägt:** Die fehlende eigenverantwortliche Prüfung eines Fremdentwurfs und zusätzlich die unzureichende Beschwerdebegründung können jeweils zur Unzulässigkeit führen. Die Unterschrift genügt grundsätzlich; die Ausnahme verlangt nach den äußeren Umständen zweifelsfrei fehlende eigene Prüfung. **Trägt nicht:** Ein allgemeines KI-Verbot, eine automatische Unwirksamkeit bei einem Zitierfehler oder die Ersetzung anwaltlicher Prüfung durch ein Prüfjournal. Weitere Abgrenzungen stehen in den [Rechtsprechungsankern](../../references/rechtsprechung-ki-schriftsaetze.md).
 
 ## 5. Ausgabeformat
 
@@ -74,3 +84,7 @@ Nennen Sie den tatsächlich geprüften Umfang und die Einschränkungen jedes off
 ### 6.2 Treffer vorhanden, Volltext gesperrt
 
 Übungsannahme: Eine amtliche Liste nennt die Entscheidung; die verlinkte Datei verlangt einen nicht vorhandenen Zugang. Die Existenz ist bestätigt, die Inhaltsprüfung bleibt offen. Erstellen Sie trotzdem das Register und prüfen Sie zugängliche weitere Quellen. Die Schlussfassung darf die gesperrte Quelle nicht als gelesenen Volltext ausweisen.
+
+### 6.3 Geprüfte Zitate, noch keine tragfähige Beschwerde
+
+Übungsfall zum verifizierten BAG-Anker: Rechtsanwältin Nora Seidel übergibt einen Entwurf, dessen Quellenprüfung abgeschlossen ist. Der Entwurf wiederholt aber nur das erstinstanzliche Vorbringen; die angegriffene Berufungsentscheidung fehlt. Melden Sie den Quellenbefund als abgeschlossen im dokumentierten Umfang und den Begründungsabgleich als offen. Fordern Sie die Entscheidung an und erstellen Sie anschließend die Zuordnung ihrer tragenden Gründe zu den konkreten Angriffen. Frau Seidels eigene sachliche Prüfung bleibt gesondert erforderlich; ihre technische Signatur wird nicht als Ersatz eingetragen.

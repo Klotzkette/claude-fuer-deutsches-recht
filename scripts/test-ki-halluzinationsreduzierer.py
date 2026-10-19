@@ -19,7 +19,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "ki-halluzinationsreduzierer"
 PLUGIN = ROOT / NAME
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 KINDS = ("werkstatt", "schnellstart", "hauptproblem")
 DIST = None
 SKILLS = {

@@ -4,6 +4,14 @@
 
 Prüfen Sie die für das Ergebnis entscheidende Fundstelle in meinem Text und alle davon abhängigen Aussagen. Erstellen Sie einen begründeten Befund und einen konkret verwendbaren Korrekturvorschlag. Die Frage lautet nicht, ob der Text mit KI erzeugt wurde, sondern ob sein Nachweis existiert, richtig zugeordnet ist, die Aussage trägt und zum Fall passt. Arbeiten Sie vorhandene Unterlagen zuerst durch; fragen Sie nur entscheidende fehlende Angaben ab.
 
+### 1.1 Gerichtlicher Kontrollmaßstab
+
+BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26, Rn. 4, 8–10: **Trägt:** Quellenkontrolle und eigenverantwortliche Prüfung eines Fremdentwurfs sind von ausreichender Rechtsmittelbegründung zu unterscheiden. Grundsätzlich genügt die Unterschrift; die Ausnahme setzt nach äußeren Umständen zweifelsfrei fehlende eigene Prüfung voraus. **Trägt nicht:** Jeder KI-Einsatz mache den Schriftsatz unwirksam. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/).
+
+KG, Beschluss vom 20.11.2025 – 17 WF 144/25, Rn. 7–8: **Trägt:** Zitate kontrollieren; der konkrete Eilbedarf bleibt gesondert darzulegen. **Trägt nicht:** Zurückweisung allein wegen KI. [Volltext](https://gesetze.berlin.de/perma?d=NJRE001640995).
+
+VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26, Rn. 1–6: **Trägt:** Eigenprüfung wesentlicher Teile; die konkrete Beschwerde blieb trotz eines ungeprüften KI-Absatzes zulässig. **Trägt nicht:** Automatische Unwirksamkeit wegen eines Promptrests. [Volltext](https://www.landesrecht-bw.de/perma?d=NJRE001640794).
+
 ## 2. Ausgangspunkt sichern
 
 Halten Sie den unveränderten Satz, die Fußnote, die Fassung und genaue Position fest. Erfassen Sie die Behauptung als A-001, jedes Vorkommen als F-001 und die Quelle als Q-001. Ein Rückverweis muss bis zur ursprünglichen Angabe aufgelöst werden. Prüfen Sie andere Verwendungen derselben Quelle getrennt; ein Nachweis kann für eine Aussage passen und für eine andere nicht. Nicht lesbare Teile bleiben als Lücke bezeichnet.
@@ -41,6 +49,8 @@ Vergleichen Sie entscheidende Tatsachen, Rechtsordnung, Normfassung, Rechtsfrage
 Schreiben Sie einen ausformulierten Befund mit fünf getrennten Bewertungen, direkter Original-URL, tatsächlichem Prüfdatum, gelesener Passage und Erkenntnisgrenzen. Verwenden Sie zum Beispiel „Teilbestätigt“, „Abweichung nachgewiesen“, „Aussage nicht getragen“ oder „Fallübertragung offen“. Ein offener Pflichtpunkt verbietet die pauschale Gesamtbestätigung.
 
 Liefern Sie eine getrennte Neufassung des betroffenen Absatzes. Halten Sie alten Satz, neuen Satz, Änderungsgrund und Kennungen fest. Eine Ersatzquelle wird unabhängig am Originalvolltext geprüft und bleibt als neuer Nachweis erkennbar. Fehlt ein belastbarer Ersatz, begrenzen oder entfernen Sie die Aussage oder markieren sie ausdrücklich als vorläufig ungeklärt. Prüfen Sie anschließend abhängige Sätze und Rückverweise im Dokument.
+
+Bei einem gerichtlichen Schriftsatz die betroffene Argumentationskette außerdem gegen Akteninhalt, angegriffene Entscheidung und einschlägige Darlegungsanforderungen prüfen. Fehlende Unterlagen offenlassen. Tatsächliche anwaltliche Prüfung und Fassung dokumentieren, ohne Freigabe zu erfinden; das ist eine organisatorische Empfehlung. Bereits eingereichte Fassungen erhalten. Ob eine Korrektur noch möglich ist, hängt vom Verfahren und seinen Fristen ab; keine nachträgliche Heilung versprechen.
 
 ## 6. Ergebnis übergeben
 

@@ -53,6 +53,12 @@ Ein falsches Datum kann ein redaktioneller Fehler sein, ein andersartiger Beschl
 
 Übergeben Sie bestätigte Identität und offene Teilangaben an [Zitate und Randnummern prüfen](../zitate-und-randnummern-pruefen/SKILL.md). Bei fehlendem amtlichem Original kehrt die Frage an [Amtliche Quellen erschließen](../amtliche-quellen-erschliessen/SKILL.md) zurück. Übernehmen Sie die F-Kennungen unverändert. Die einzelnen Vorkommen bleiben getrennt, selbst wenn derselbe bibliographische Fehler mehrfach auftritt.
 
+### 3.7. Datum und Gerichtsname reichen nicht
+
+Nutzen Sie den verifizierten [BAG-Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 15, als Kontrollfall: Das Gericht unterscheidet eine tatsächlich vorhandene Entscheidung desselben Datums von dem falschen Aktenzeichen, falschen Senat und unpassenden Thema im Schriftsatz. **Trägt:** Ein zeitlich passender Gerichtstreffer heilt die gemischte Identität nicht. **Trägt nicht:** Der im BAG-Text genannte andere Treffer sei ohne eigene Lektüre bereits als Ersatz für die beabsichtigte Aussage geprüft.
+
+Beim Anker selbst ist der 30.09.2026 das Entscheidungsdatum. Der 22.09.2026 in Rn. 8 bezeichnet den dortigen Abruf anderer Hinweise. Übernehmen Sie diesen Tag weder als Entscheidungsdatum noch als eigenen Abruf. Eine solche Verwechslung wird mit Originalwert, richtigem Wert und Änderungsgrund dokumentiert.
+
 ## 4. Quellenpflicht
 
 Maßgeblich sind die strenge [Zitierweise](../../references/zitierweise.md) und der [Prüfvertrag](../../references/pruefvertrag.md). Gerichtliche Identität wird am tatsächlich zugänglichen amtlichen Originalvolltext geprüft. Suchtreffer, Sekundärdatenbanken, Pressemitteilungen und Nutzerdokumente allein bilden keinen vollständigen Nachweis. Ist nur amtliche Metadateninformation zugänglich, benennen Sie den beschränkten Beweisumfang. Keine reale Entscheidung wird aus Modellwissen ergänzt; abstrakte Übungen dürfen nicht als verifizierte Rechtsprechung erscheinen.

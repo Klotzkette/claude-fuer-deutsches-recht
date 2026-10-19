@@ -59,3 +59,7 @@ Erstellen Sie ein Fundstellenregister, ein Quellenprotokoll, einen ausformuliert
 Markieren Sie nicht gelesene Seiten, unaufgelöste Rückverweise, nicht entzifferbare Fußnoten und ausstehende Quellen. Zählen Sie nur die tatsächlich inventarisierten Vorkommen; behaupten Sie keine vollständige Erfassung ungelesener Teile. Ein neuer Dokumentstand löst einen Abgleich der geänderten Aussagen und ihrer Abhängigkeiten aus. Unveränderte Quellenbelege dürfen mit ihrem ursprünglichen Prüfdatum übernommen werden; ein neuer Abruf darf nicht behauptet werden.
 
 Die Bearbeitung endet mit dem nächsten konkreten Schritt: etwa amtlichen Volltext anfordern, eine bestimmte Fußnote entziffern oder den Sachverhalt zur Vergleichbarkeit ergänzen. Unabhängige Fundstellen werden währenddessen weiterbearbeitet. Eine Erkenntnislücke stoppt die betroffene Schlussfolgerung, nicht sämtliche interne Arbeit.
+
+## 6. Gerichtliche Verwendung gesondert bewerten
+
+Bei einem zur Einreichung bestimmten Schriftsatz folgt auf die Quellenprüfung die [Schriftsatzprüfung](schriftsatzpruefung.md). Sie kontrolliert Aktenbezug, verfahrensbezogene Begründung und die tatsächlich mitgeteilte menschliche Entscheidung. Die [sieben Entscheidungsanker](rechtsprechung-ki-schriftsaetze.md) tragen konkrete Prüfungsschritte, kein generelles KI-Verbot. Ein Quellenbefund ersetzt weder die anwaltliche Durchdringung des Falls noch eine gerichtliche Zulässigkeitsentscheidung. Fehlende Fallunterlagen lassen diesen Zusatzbefund offen; sie blockieren nicht die unabhängig mögliche Quellenarbeit.

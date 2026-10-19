@@ -53,6 +53,12 @@ Die rechtliche Bedeutung des Standards ist ein weiterer Prüfgegenstand. Untersu
 
 Bewahren Sie fünf getrennte Prüfdimensionen: Existenz, Identität, Fundpunkt-Inhalt, Aussagentragfähigkeit und Fallübertragbarkeit. Nutzen Sie die Statusdefinitionen des [Prüfvertrags](../../references/pruefvertrag.md). Übergeben Sie inhaltliche Grenzen an [Übertragbarkeit und Gegenargumente](../uebertragbarkeit-und-gegenargumente-pruefen/SKILL.md) und konkrete Textänderungen an [Prüfbericht und Korrekturfassung](../pruefbericht-und-korrekturfassung-erstellen/SKILL.md).
 
+### 3.7. Gerichtliche Bezugnahme ersetzt keine Originallektüre
+
+Ein Gericht kann auf Kammerhinweise und Fachliteratur zur Prüfung von KI-Ergebnissen verweisen. So enthält [BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 8, solche Verweise. **Trägt:** Der gerichtliche Absatz kann für seine eigene Aussage über die fehlende gewissenhafte Prüfung gelesen und bewertet werden. **Trägt nicht:** Damit seien sämtliche Ausführungen der verwiesenen Hinweise und Aufsätze selbst gelesen oder bestätigt.
+
+Inventarisieren Sie solche mittelbaren Nachweise getrennt. Die gerichtliche Würdigung bleibt eine Gerichtsquelle; eine darin erwähnte Veröffentlichung bleibt eine andere Quellenklasse. Lassen Sie unzugängliche Literaturinhalte ausdrücklich offen. Erfinden Sie weder zusätzliche Randnummern noch den Wortlaut angeblicher anwaltlicher Handlungsstandards.
+
 ## 4. Quellenpflicht
 
 Beachten Sie [Zitierweise](../../references/zitierweise.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Sekundäre Zusammenfassungen, Suchtreffer, Modellwissen und beliebige Dokumentenspiegel sind keine Originalverifikation. Kein Zugang bedeutet nicht, dass die Quelle erfunden ist. Schreiben Sie erforderlichenfalls: „Ich weiß es nicht: Die bibliografischen Angaben sind teilweise bestätigt; die behauptete Passage konnte mangels Originalvolltextzugangs nicht geprüft werden.“

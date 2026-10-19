@@ -49,11 +49,21 @@ Bei abweichender Nummerierung oder inhaltlicher Änderung legen Sie Originalbeha
 
 Übergeben Sie den Fassungsbefund an [Übertragbarkeit und Gegenargumente](../uebertragbarkeit-und-gegenargumente-pruefen/SKILL.md), wenn eine Entscheidung auf altem Recht beruht. Die [Korrekturfassung](../pruefbericht-und-korrekturfassung-erstellen/SKILL.md) erhält nur belegte Ersatzformulierungen. Eine offene Auslegungsfrage bleibt als solche erkennbar und wird nicht durch einen technisch korrekten Link verdeckt.
 
+### 3.6 Verfahrenszeit und Korrekturmöglichkeit auseinanderhalten
+
+Bei einem fehlerhaften Gerichtsschriftsatz unterscheiden Sie die für den Inhalt maßgebliche Normfassung, den Beginn einer konkreten Verfahrensfrist, den Zeitpunkt der Einreichung und eine spätere Korrektur. Lesen Sie den einschlägigen Fristtatbestand am amtlichen Text. Das Schreiben eines Datums in den Entwurf beweist weder die Zustellung noch die fristgerechte Einreichung. Sichern Sie dafür die vorhandenen Akten- und Eingangsbelege; fehlen sie, bleibt der konkrete Fristlauf ungeprüft.
+
+Für eine Nichtzulassungsbeschwerde zum BAG bestimmt [Paragraf 72a Absatz 3 Satz 1 ArbGG](https://www.gesetze-im-internet.de/arbgg/__72a.html) eine Begründungsnotfrist von zwei Monaten nach Zustellung des in vollständiger Form abgefassten Urteils. Der amtliche Text wurde am 19.10.2026 vollständig gelesen. Diese Normangabe ersetzt keine individuelle Fristberechnung. Vertretungsfragen sind zusätzlich nach [Paragraf 11 Absatz 4 ArbGG](https://www.gesetze-im-internet.de/arbgg/__11.html), ebenfalls am 19.10.2026 amtlich gelesen, im passenden Verfahrenskontext zu prüfen.
+
+Behauptet ein Entwurf, die spätere Übernahme der Verantwortung mache die frühere Begründung ohne Weiteres wirksam, geben Sie diese Aussage zur gesonderten Prüfung zurück. Dokumentieren Sie, was vor Fristablauf tatsächlich eingereicht und eigenverantwortlich geprüft wurde, soweit die Akte und Rückmeldung das belegen. Das nachträgliche Anlegen eines Journals beweist keine damalige Prüfung. Die [Schriftsatzprüfung](../../references/schriftsatzpruefung.md) führt offene Verfahrensfragen weiter; dieses Plugin verspricht keine Heilung und erfindet keine Nachbesserungsfrist.
+
 ## 4. Quellenpflicht
 
 Es gelten [Zitierweise](../../references/zitierweise.md), [Prüfvertrag](../../references/pruefvertrag.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Für Normen sind tatsächlich geöffnete amtliche Texte maßgeblich, insbesondere amtliche Verkündungsorgane und zuständige amtliche Normportale. Ein Suchtrefferauszug, ein privater Spiegel oder ein vom Nutzer eingereichter Ausdruck ersetzt den amtlichen Zugriff nicht.
 
 Ist nur die heutige Fassung lesbar, bestätigen Sie nur diese. Ist eine amtliche historische Fundstelle nicht erreichbar, schreiben Sie: „Ich weiß es nicht: Die für diesen Zeitraum behauptete Fassung konnte am amtlichen Originaltext nicht verifiziert werden.“ Nicht gefunden bedeutet nicht nicht existent. Ein Entwurf wird nicht zum geltenden Gesetz, weil sein Titel und eine amtliche URL nachgewiesen sind.
+
+[BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 9, amtlicher Volltext gelesen am 19.10.2026: **Trägt:** Ein erst nach Ablauf der Begründungsfrist erfolgtes Zueigenmachen blieb im konkreten Verfahren unbeachtlich. **Trägt nicht:** Eine allgemeine Aussage, jeder Zitierfehler sei unheilbar, oder dass eine beliebige Korrektur stets auf die erste Einreichung zurückwirke. Die [Ankerübersicht](../../references/rechtsprechung-ki-schriftsaetze.md) hält diese Beschränkung fest.
 
 ## 5. Ausgabeformat
 
@@ -66,3 +76,5 @@ Verwenden Sie für formatierte Dokumente soweit möglich Times New Roman, 11 pt 
 **Übungsannahme ohne reale Norm:** Ein älterer Vertragsfall wird mit einem Absatz begründet, der erst nach Vertragsschluss eingeführt wurde. Die amtliche aktuelle Fassung bestätigt Existenz und Inhalt. Ohne gelesene Übergangsregelung ist die Anwendung auf den Vertrag trotzdem offen. Fordern Sie die entscheidende Datumsangabe nach und kennzeichnen Sie die bisherige Aussage als nicht abschließend belegt.
 
 **Übungsannahme ohne reale Norm:** Ein Gutachten behauptet eine zwingende Genehmigungspflicht. Der vollständig gelesene amtliche Absatz enthält eine Ausnahme, deren Voraussetzungen nach der Akte erfüllt sein könnten. Halten Sie nicht nur den richtigen Link fest, sondern prüfen Sie die Ausnahme und formulieren Sie eine bedingte Korrektur, bis die fehlende Tatsache geklärt ist.
+
+**Übungsfall zum BAG-Anker:** Ein Beschwerdeentwurf wurde über beA übermittelt; nach einem gerichtlichen Hinweis erklärt der Anwalt erstmals ausdrücklich, er habe die Begründung sachlich übernommen. Die Zustellungsunterlagen fehlen. Bestätigen Sie nur die dokumentierten Übermittlungs- und Erklärungsdaten. Fordern Sie die Zustellungsunterlagen und den vorhandenen Fristvermerk an. Der Bericht lautet: „Ob die spätere Erklärung innerhalb der maßgeblichen Frist liegt und den festgestellten Mangel überhaupt beheben kann, ist offen. Der unveränderte Quellenlink und die heutige Erklärung belegen keine frühere eigene Prüfung.“

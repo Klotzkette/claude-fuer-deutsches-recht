@@ -53,6 +53,16 @@ Schlagen Sie eine genaue Korrektur nur auf Grundlage der tatsächlich gelesenen 
 
 Übergeben Sie Originalzitat, gelesenen Fundpunkt, Wortlautbefund, Sprecher, Kontextgrenzen und vorgeschlagene Korrektur an [Aussagen am Volltext prüfen](../aussagen-am-volltext-pruefen/SKILL.md). Ungeklärte Zugänge gehen an [Amtliche Quellen erschließen](../amtliche-quellen-erschliessen/SKILL.md). Die F-Kennung bleibt erhalten. Die Frage, ob die Stelle die konkrete Rechtsbehauptung trägt, wird erst dort beantwortet; die Übertragbarkeit bleibt eine weitere getrennte Prüfung.
 
+### 3.7. Fehlerzitate innerhalb einer Entscheidung erkennen
+
+Ein gerichtlicher Volltext kann eine erfundene Fundstelle wörtlich wiedergeben, um sie zu beanstanden. Im [BAG-Beschluss vom 30.09.2026 – 2 AZN 339/26](https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/), Rn. 8, stehen solche beanstandeten Zitate neben den Gründen für die fehlende anwaltliche Prüfung. Lesen Sie die einleitenden und anschließenden Sätze. **Trägt:** Das BAG beanstandet dort Quellen- und Inhaltsfehler des fremden Schriftsatzes. **Trägt nicht:** Die in Anführungszeichen reproduzierten Fehler seien vom BAG als richtige Fundstellen bestätigt.
+
+Melden Sie außerdem, wenn aus einer bedingten gerichtlichen Aussage ein automatischer Ausschluss wird. Der Wortlaut einer Einschränkung gehört in die Korrektur, auch wenn die verkürzte Version besser in eine Überschrift passen würde. Die [Entscheidungsübersicht](../../references/rechtsprechung-ki-schriftsaetze.md) dient zur Auswahl der Originalpassagen, nicht als Ersatz für deren Zugriff im konkreten Prüfauftrag.
+
+### 3.8. Bedingte Erwägungen nicht als Regel zitieren
+
+[KG, Beschluss vom 22.04.2025 – 3 ORbs 46/25](https://gesetze.berlin.de/perma?d=NJRE001632277), Rn. 2–3: **Trägt:** Die mögliche Behandlung einer ersichtlich ungeprüften Textbausteinbegründung wird als Frage aufgeworfen und ausdrücklich offengelassen. **Trägt nicht:** Das KG habe jeden zufällig zutreffenden Rügepunkt generell ausgeschlossen. Stellen Sie bei der späteren Bezugnahme in [KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25](https://gesetze.berlin.de/perma?d=NJRE001625355), Rn. 4, den bedingten Charakter und den ursprünglichen Kontext sicher. Ein verkürzter Leitsatz ersetzt diese Lektüre nicht.
+
 ## 4. Quellenpflicht
 
 Es gelten [Zitierweise](../../references/zitierweise.md), [Prüfvertrag](../../references/pruefvertrag.md) und [Quellenprotokoll](../../references/quellenprotokoll.md). Gerichtsstellen werden ausschließlich am tatsächlich zugänglichen amtlichen Originalvolltext verifiziert. Suchtreffer, Zweitquellen, Pressemitteilungen und Nutzerdokumente allein genügen nicht. Für Literatur oder Standards verlangt die Prüfung einen zugänglichen Originalvolltext des Herausgebers und die ausdrücklich passende Quellenklasse. Einen Originalverlag nicht als amtliches Gericht bezeichnen.

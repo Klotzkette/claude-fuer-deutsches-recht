@@ -1,12 +1,47 @@
 {
   "schema_version": 1,
   "plugin": "ki-halluzinationsreduzierer",
-  "reviewed_on": "2026-10-18",
+  "reviewed_on": "2026-10-19",
   "sources": [
     {
       "url": "https://www.rechtsprechung-im-internet.de/jportal/portal/page/bsjrsprod.psml",
       "checked_on": "2026-10-18",
       "supports": "Gelesene Bestandsbeschreibung: ausgewählte Entscheidungen, grundsätzlich ungekürzt und anonymisiert; Suchausfall beweist keine Nichtexistenz. Keine Einzelentscheidung dadurch verifiziert."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+      "checked_on": "2026-10-19",
+      "supports": "BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26, Rn. 2–9 und 10–22: Fehlende eigene Prüfung eines Fremdentwurfs und zusätzlich unzureichende Darlegung der Zulassungsgründe; beide Ebenen prüfen. Grenze: Kein pauschales KI-Verbot. Unterschrift genügt grundsätzlich; Ausnahme nur bei nach äußeren Umständen zweifelsfrei fehlender Eigenprüfung."
+    },
+    {
+      "url": "https://www.landesrecht-bw.de/perma?d=NJRE001640794",
+      "checked_on": "2026-10-19",
+      "supports": "VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26, Rn. 1–8: Eigenprüfung quantitativ oder qualitativ wesentlicher Teile; konkrete Beschwerde zulässig, später unbegründet. Grenze: Ein ungeprüfter Absatz beweist im konkreten Fall nicht fehlende Verantwortung für wesentliche Teile."
+    },
+    {
+      "url": "https://www.landesrecht-bw.de/perma?d=NJRE001645530",
+      "checked_on": "2026-10-19",
+      "supports": "VGH Baden-Württemberg, Beschluss vom 09.06.2026 – A 12 S 1973/25, Rn. 2–6: Unzulässigkeit mangels fallbezogener Darlegung; Gericht, Tatsachen und Angriffe gegen die Originalakte abgleichen. Grenze: Kein generelles KI-Verbot, asylrechtliche Darlegungsnorm nicht auf jedes Verfahren übertragen."
+    },
+    {
+      "url": "https://www.landesrecht-bw.de/perma?d=NJRE001652167",
+      "checked_on": "2026-10-19",
+      "supports": "VGH Baden-Württemberg, Beschluss vom 27.08.2026 – 10 S 581/26, Rn. 40–43: Zweifel an eigener Prüfung und Durchdringung; Beschwerde auch bei Berücksichtigung unbegründet. Grenze: Folge und Nichtberücksichtigung ausdrücklich offengelassen; keine allgemeine Offenlegungspflicht daraus ableiten."
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001640995",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 20.11.2025 – 17 WF 144/25, Rn. 6–8: Vorsorglicher Kontrollhinweis für KI-Zitate; konkret fehlender Eilbedarf trägt die Unbegründetheit. Grenze: Keine Verwerfung allein wegen KI; keine in diesem Beschluss verhängte Berufssanktion."
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001625355",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25, Rn. 2–4: Fallfremde Textbausteine und unwahre Verfahrensbehauptungen; zusätzlicher Aktenabgleich erforderlich. Grenze: Generative KI nicht festgestellt; keine tragende Entscheidung über einen tatsächlich zutreffenden Zufallstreffer."
+    },
+    {
+      "url": "https://gesetze.berlin.de/perma?d=NJRE001632277",
+      "checked_on": "2026-10-19",
+      "supports": "KG, Beschluss vom 22.04.2025 – 3 ORbs 46/25, Rn. 2–3: Mögliche Gesamtunstatthaftigkeit ausdrücklich als offene Frage behandeln. Grenze: Kein beschiedener automatischer Ausschluss sämtlicher automatisierter Rechtsmittel."
     }
   ],
   "selection": {
@@ -212,45 +247,327 @@
           ]
         }
       ]
+    },
+    {
+      "id": "bag-kein-ki-verbot",
+      "request": "Hypothetischer Auftrag: Ein Mandant behauptet, BAG 2 AZN 339/26 erkläre alle KI-Schriftsätze für nicht existent. Prüfen Sie diese Behauptung anhand der dokumentierten Originallektüre und legen Sie ihre Grenze offen.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "bag-kein-ki-verbot-1",
+          "text": "Konkrete Verwerfung und eigenverantwortliche Prüfung benennen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "bag-kein-ki-verbot-2",
+          "text": "Grundsätzlich genügende Unterschrift und Ausnahme ohne Fehlerautomatismus erklären.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "bag-kein-ki-verbot-3",
+          "text": "Unzureichende Darlegung als eigenständigen Mangel trennen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bag-divergenzgericht",
+      "request": "Hypothetisch sind sämtliche BGH-Zitate eines Entwurfs echt und korrekt gelesen. Die Nichtzulassungsbeschwerde zum BAG stützt sich ausschließlich auf Divergenz zum BGH. Prüfen Sie anhand BAG 2 AZN 339/26 Rn.16 und § 72 Abs. 2 Nr. 2 ArbGG.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "bag-divergenzgericht-1",
+          "text": "Quellenrichtigkeit als Übungsannahme bezeichnen, keinen eigenen BGH-Abruf behaupten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "bag-divergenzgericht-2",
+          "text": "BGH nicht im Kreis divergenzfähiger Gerichte nach dieser Norm.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "bag-divergenzgericht-3",
+          "text": "Kein allgemeines BGH-Zitierverbot ableiten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fremdentwurf-signiert",
+      "request": "Hypothetisch wurde ein Fremdentwurf mit vielen Quellen- und Fallfehlern signiert und per beA eingereicht. Der Nutzer möchte allein deswegen eine bestätigte anwaltliche Prüfung eintragen.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "fremdentwurf-signiert-1",
+          "text": "Keinen fingierten Prüfungseintrag erstellen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "fremdentwurf-signiert-2",
+          "text": "Unterschrift grundsätzlich ausreichend, Ausnahme bei zweifelsfrei fehlender eigener Prüfung anhand konkreter Umstände erläutern.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "fremdentwurf-signiert-3",
+          "text": "Tatsächliche Fassung, Fehler, Verantwortung und Verfahrensanforderungen getrennt prüfen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg-kontrollhinweis",
+      "request": "Hypothetisch heißt es, KG 17 WF 144/25 habe die Beschwerde nur wegen KI-Nutzung verworfen. Korrigieren Sie den Satz anhand der dokumentierten amtlichen Rn.6–8.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "kg-kontrollhinweis-1",
+          "text": "Vorsorglichen Hinweis von tragendem fehlendem Eilbedarf unterscheiden.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "kg-kontrollhinweis-2",
+          "text": "Kein allgemeines Nichtigkeitsgebot behaupten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "kg-kontrollhinweis-3",
+          "text": "Keine ungesicherten Ersatz-BGH-Zitate aus dem KG-Text übernehmen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kg-offene-frage",
+      "request": "Hypothetisch behauptet ein Text, KG 3 ORbs 46/25 habe jede zufällig zutreffende Rüge aus Textbausteinen ausgeschlossen. Prüfen Sie Rn.2–3 und den Folgehinweis in 3 ORbs 164/25 Rn.4.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "kg-offene-frage-1",
+          "text": "Ausdrückliches Offenlassen erhalten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "kg-offene-frage-2",
+          "text": "Keinen festgestellten generativen KI-Einsatz erfinden.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "kg-offene-frage-3",
+          "text": "Akten- und Fallabgleich als eigene organisatorische Folgerung kennzeichnen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachtraegliche-heilung",
+      "request": "Hypothetisch ist eine bereits eingereichte Fremdbegründung fehlerhaft, die Begründungsfrist laut vorgelegtem Fristvermerk abgelaufen. Eine spätere pauschale Verantwortungsübernahme soll alles heilen.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "nachtraegliche-heilung-1",
+          "text": "Keine sichere nachträgliche Heilung behaupten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "nachtraegliche-heilung-2",
+          "text": "BAG Rn.9 verfahrensbezogen erklären und tatsächlichen Fristvermerk gesondert prüfen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "nachtraegliche-heilung-3",
+          "text": "Original, Eingangsbelege und korrigierte Fassung erhalten; anwaltliche Reaktionsentscheidung vorbereiten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vgh-ein-absatz",
+      "request": "Hypothetisch wird aus VGH 12 S 470/26 ein automatischer Ausschluss wegen eines Promptrests abgeleitet. Prüfen Sie dokumentierte Rn.1–8.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "vgh-ein-absatz-1",
+          "text": "Konkrete Beschwerde zulässig nennen.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "vgh-ein-absatz-2",
+          "text": "Wesentlichkeit und fehlende Feststellung mangelnder Eigenprüfung anderer Teile unterscheiden.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "vgh-ein-absatz-3",
+          "text": "Unbegründetheit und fehlende konkrete Darlegung getrennt behandeln.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vgh-nichtberuecksichtigung-offen",
+      "request": "Hypothetisch wird VGH 10 S 581/26 als entschiedener Ausschluss von KI-Schriftsätzen zitiert. Prüfen Sie dokumentierte Rn.40–43 und den Unterschied zu A12 S1973/25 Rn.2–6.",
+      "target_skill": "halluzinationspruefung-steuern",
+      "input_files": [
+        "ki-halluzinationsreduzierer/references/rechtsprechung-ki-schriftsaetze.md",
+        "ki-halluzinationsreduzierer/references/schriftsatzpruefung.md"
+      ],
+      "deliverables": [
+        "pruefbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "vgh-nichtberuecksichtigung-offen-1",
+          "text": "10S581/26 ließ Nichtberücksichtigung offen; Beschwerde unbegründet.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "vgh-nichtberuecksichtigung-offen-2",
+          "text": "A12S1973/25 scheiterte bereits an fallbezogener Darlegung.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        },
+        {
+          "id": "vgh-nichtberuecksichtigung-offen-3",
+          "text": "Keine pauschale Offenlegungs- oder Ausschlussregel behaupten.",
+          "deliverables": [
+            "pruefbericht.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuell geschriebener Originalquellen-Workflow mit fünf getrennten Befunden, nachvollziehbarem Nichtwissen und unveränderter Ausgangsfassung. Redaktionelle Prüfung, keine Garantie sachlicher Fehlerfreiheit.",
+    "reason": "Gerichtliche Originalanker und gesonderte Prüfung von Aktenbezug, Verfahrensbegründung und tatsächlicher Eigenverantwortung ergänzt; kein automatisches KI-Verbot und keine Heilungszusage.",
     "changes": [
-      "Vorkommen und Aussage getrennt von Quelle kennzeichnen.",
-      "Originalzugang und Metadatenbestätigung unterscheiden.",
-      "Keine Gesamtbestätigung bei offenem Pflichtpunkt."
+      "Sieben amtlich gelesene Entscheidungsanker mit Reichweite und Grenze erschlossen.",
+      "Quellenbefund von fallbezogener Darlegung und tatsächlicher menschlicher Entscheidung getrennt.",
+      "Keine pauschale Nichtbeachtlichkeit und keine fingierte Prüfbestätigung."
     ],
-    "sha256": "c161b47197495ddddf32442f8032dfdbe4199aa11d8d550ca66ddd5b117fef94"
+    "sha256": "6ec9cbbfaffb6d86e54cd92e92f5c56d2fdfb617245b3af473a81403811f775d",
+    "reviewed_on": "2026-10-19"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuell geschriebener Originalquellen-Workflow mit fünf getrennten Befunden, nachvollziehbarem Nichtwissen und unveränderter Ausgangsfassung. Redaktionelle Prüfung, keine Garantie sachlicher Fehlerfreiheit.",
+    "reason": "Gerichtliche Originalanker und gesonderte Prüfung von Aktenbezug, Verfahrensbegründung und tatsächlicher Eigenverantwortung ergänzt; kein automatisches KI-Verbot und keine Heilungszusage.",
     "changes": [
-      "Vorkommen und Aussage getrennt von Quelle kennzeichnen.",
-      "Originalzugang und Metadatenbestätigung unterscheiden.",
-      "Keine Gesamtbestätigung bei offenem Pflichtpunkt."
+      "Sieben amtlich gelesene Entscheidungsanker mit Reichweite und Grenze erschlossen.",
+      "Quellenbefund von fallbezogener Darlegung und tatsächlicher menschlicher Entscheidung getrennt.",
+      "Keine pauschale Nichtbeachtlichkeit und keine fingierte Prüfbestätigung."
     ],
-    "sha256": "9441676126a29074c4eb5ccbed3b3a253b351b323cf8b802e1342f2a79009bad"
+    "sha256": "93b03d9413ca030a914092d5e361c89c02777968cfd2aa2881ede6545f0f9ddf",
+    "reviewed_on": "2026-10-19"
   },
   "focus_review": {
     "verdict": "revised",
-    "reason": "Individuell geschriebener Originalquellen-Workflow mit fünf getrennten Befunden, nachvollziehbarem Nichtwissen und unveränderter Ausgangsfassung. Redaktionelle Prüfung, keine Garantie sachlicher Fehlerfreiheit.",
+    "reason": "Gerichtliche Originalanker und gesonderte Prüfung von Aktenbezug, Verfahrensbegründung und tatsächlicher Eigenverantwortung ergänzt; kein automatisches KI-Verbot und keine Heilungszusage.",
     "changes": [
-      "Vorkommen und Aussage getrennt von Quelle kennzeichnen.",
-      "Originalzugang und Metadatenbestätigung unterscheiden.",
-      "Keine Gesamtbestätigung bei offenem Pflichtpunkt."
+      "Sieben amtlich gelesene Entscheidungsanker mit Reichweite und Grenze erschlossen.",
+      "Quellenbefund von fallbezogener Darlegung und tatsächlicher menschlicher Entscheidung getrennt.",
+      "Keine pauschale Nichtbeachtlichkeit und keine fingierte Prüfbestätigung."
     ],
     "method": "desk_review",
-    "reviewed_on": "2026-10-18",
+    "reviewed_on": "2026-10-19",
     "prompt_path": "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md",
     "skill_path": "ki-halluzinationsreduzierer/skills/halluzinationspruefung-steuern/SKILL.md",
-    "prompt_sha256": "eb051ac8a189d7948d685ceb816dbe0b8960061e694dd048e78310bbd35bfbc6",
-    "skill_sha256": "7feeed1d350b41f872164c86d4a50264cd6edb0e8fd20d97ddecc62626c0da31"
+    "prompt_sha256": "cfc3e46772b0a55ed6640f3ece31cfc16815b761b0d08db181537975f547b382",
+    "skill_sha256": "8e4038e4124c8298efea2eec7d760e2e88bf92e743a4076dce68280ecb03f874"
   },
   "prompt_workflow_review": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "method": "desk_review",
     "opening_modes": [
       "Vorhandenen juristischen Text zuerst inventarisieren.",
@@ -258,27 +575,65 @@
       "Fortsetzung anhand stabiler F-/A-/Q-Kennungen und geändertem Textstand."
     ],
     "continuation": "Offene Originalzugänge blockieren nur die betroffene Aussage. Bericht und unabhängige Nachweise werden weiterbearbeitet; Ersatzquellen werden neu geprüft.",
-    "enrichment": "Sechs adversariale Ergebnisfälle mit jeweils drei konkreten Kriterien; abstrakte Übungsannahmen ohne erfundene reale Gerichtsentscheidung.",
+    "enrichment": "Acht zusätzliche Ergebnisfälle zu gerichtlichen Maßstäben; ursprüngliche sechs simulierte Evidenzfälle bleiben erhalten. Tatsächliche Modellproben gesondert dokumentiert.",
     "limits": "Redaktionelle Prüfung; ergänzende Modell-Anwendungsprobe mit ausdrücklich simulierten Evidenzlagen wird separat dokumentiert. Keine behauptete Live-Ausführung in Claude oder ChatGPT."
   },
   "prompt_editorial_review": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "method": "desk_review",
     "files": [
       "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md",
       "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-schnellstart.md",
       "ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md"
     ],
-    "opening_change": "Konkreter Fundstellenauftrag und Arbeitsprodukte vor technischen Einrichtungsfragen.",
+    "opening_change": "Auftrag und Arbeitsprodukte zuerst; konkreter gerichtlicher Kontrollmaßstab früh mit Aussagegrenze.",
     "norms": [
-      "Methodisches Quellenprüfwerkzeug: kein eigener materiellrechtlicher Normsatz und keine vorgeschobene Rechtsgrundlage; Normidentität und zeitliche Fassung werden erst am jeweils zu untersuchenden amtlichen Original geprüft."
+      "§ 11 Abs. 4, § 72 Abs. 2 Nr. 2 und § 72a Abs. 3 ArbGG",
+      "§ 67 Abs. 4 und § 146 Abs. 4 VwGO; § 78 Abs. 4 Satz 4 AsylG",
+      "§ 43 BRAO und § 43a Abs. 3 BRAO; alle angegebenen amtlichen Einzelnormen am 19.10.2026 gelesen."
     ],
     "decisions": [
       {
-        "citation": "Methodischer Originalquellenanker, keine Gerichtsentscheidung: Bundesportal Rechtsprechung im Internet, Bestandsbeschreibung, gelesen am 18.10.2026.",
-        "url": "https://www.rechtsprechung-im-internet.de/jportal/portal/page/bsjrsprod.psml",
-        "application": "Ausgewählter Veröffentlichungsbestand trägt die Grenze, dass ein ausbleibender Treffer keine Nichtexistenz belegt.",
-        "limit": "Keine Verifikation einer einzelnen Entscheidung, keine Aussage über vollständige Veröffentlichung aller Gerichte und kein Ersatz für Originalvolltextlektüre."
+        "citation": "BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26, Rn. 2–9 und 10–22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+        "application": "Fehlende eigene Prüfung eines Fremdentwurfs und zusätzlich unzureichende Darlegung der Zulassungsgründe; beide Ebenen prüfen.",
+        "limit": "Kein pauschales KI-Verbot. Unterschrift genügt grundsätzlich; Ausnahme nur bei nach äußeren Umständen zweifelsfrei fehlender Eigenprüfung."
+      },
+      {
+        "citation": "VGH Baden-Württemberg, Beschluss vom 12.03.2026 – 12 S 470/26, Rn. 1–8",
+        "url": "https://www.landesrecht-bw.de/perma?d=NJRE001640794",
+        "application": "Eigenprüfung quantitativ oder qualitativ wesentlicher Teile; konkrete Beschwerde zulässig, später unbegründet.",
+        "limit": "Ein ungeprüfter Absatz beweist im konkreten Fall nicht fehlende Verantwortung für wesentliche Teile."
+      },
+      {
+        "citation": "VGH Baden-Württemberg, Beschluss vom 09.06.2026 – A 12 S 1973/25, Rn. 2–6",
+        "url": "https://www.landesrecht-bw.de/perma?d=NJRE001645530",
+        "application": "Unzulässigkeit mangels fallbezogener Darlegung; Gericht, Tatsachen und Angriffe gegen die Originalakte abgleichen.",
+        "limit": "Kein generelles KI-Verbot, asylrechtliche Darlegungsnorm nicht auf jedes Verfahren übertragen."
+      },
+      {
+        "citation": "VGH Baden-Württemberg, Beschluss vom 27.08.2026 – 10 S 581/26, Rn. 40–43",
+        "url": "https://www.landesrecht-bw.de/perma?d=NJRE001652167",
+        "application": "Zweifel an eigener Prüfung und Durchdringung; Beschwerde auch bei Berücksichtigung unbegründet.",
+        "limit": "Folge und Nichtberücksichtigung ausdrücklich offengelassen; keine allgemeine Offenlegungspflicht daraus ableiten."
+      },
+      {
+        "citation": "KG, Beschluss vom 20.11.2025 – 17 WF 144/25, Rn. 6–8",
+        "url": "https://gesetze.berlin.de/perma?d=NJRE001640995",
+        "application": "Vorsorglicher Kontrollhinweis für KI-Zitate; konkret fehlender Eilbedarf trägt die Unbegründetheit.",
+        "limit": "Keine Verwerfung allein wegen KI; keine in diesem Beschluss verhängte Berufssanktion."
+      },
+      {
+        "citation": "KG, Beschluss vom 25.08.2025 – 3 ORbs 164/25, Rn. 2–4",
+        "url": "https://gesetze.berlin.de/perma?d=NJRE001625355",
+        "application": "Fallfremde Textbausteine und unwahre Verfahrensbehauptungen; zusätzlicher Aktenabgleich erforderlich.",
+        "limit": "Generative KI nicht festgestellt; keine tragende Entscheidung über einen tatsächlich zutreffenden Zufallstreffer."
+      },
+      {
+        "citation": "KG, Beschluss vom 22.04.2025 – 3 ORbs 46/25, Rn. 2–3",
+        "url": "https://gesetze.berlin.de/perma?d=NJRE001632277",
+        "application": "Mögliche Gesamtunstatthaftigkeit ausdrücklich als offene Frage behandeln.",
+        "limit": "Kein beschiedener automatischer Ausschluss sämtlicher automatisierter Rechtsmittel."
       }
     ],
     "remaining_limits": [

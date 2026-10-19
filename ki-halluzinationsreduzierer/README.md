@@ -8,7 +8,7 @@ Starten Sie mit: **„Prüfen Sie sämtliche Fundstellen dieses Textes. Belegen 
 
 [Startseite](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/ki-halluzinationsreduzierer.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten aller Themen](../testakten/README.md) · [Plugin-Dateien](.)
 
-Version 1.0.0 · zehn Fachskills und ein Hauptskill · Prüfstand 18.10.2026. [Änderungsverzeichnis](CHANGELOG.md).
+Version 1.1.0 · zehn Fachskills und ein Hauptskill · Prüfstand 19.10.2026. [Änderungsverzeichnis](CHANGELOG.md).
 
 ## 1. Was genau geprüft wird
 
@@ -22,17 +22,23 @@ Version 1.0.0 · zehn Fachskills und ein Hauptskill · Prüfstand 18.10.2026. [�
 
 Die Ergebnisse bleiben getrennt. Eine echte Entscheidung führt nicht automatisch zu einem positiven Gesamtbefund. Dieselbe Quelle wird für jede damit belegte Aussage erneut bewertet. Eine zusätzliche unbestätigte Zeitschriftenfundstelle bleibt sichtbar, auch wenn der amtliche Entscheidungsnachweis stimmt.
 
+### 1.1 Maßstäbe aus sieben gerichtlichen Beschlüssen
+
+Der [Rechtsprechungsüberblick mit amtlichen Volltextlinks](references/rechtsprechung-ki-schriftsaetze.md) erschließt drei Beschlüsse des Kammergerichts, drei des VGH Baden-Württemberg und BAG, Beschluss vom 30.09.2026 – 2 AZN 339/26. Jeder Anker benennt seine Aussage und seine Grenze. **KI-Schriftsätze sind nicht pauschal unwirksam.** Fehlende eigenverantwortliche Prüfung und unzureichende Rechtsmittelbegründung können aber erhebliche prozessuale Folgen haben.
+
+Deshalb ergänzt die [Schriftsatzprüfung](references/schriftsatzpruefung.md) die Quellenkontrolle um Aktenbezug, Auseinandersetzung mit der angegriffenen Entscheidung und tatsächliche anwaltliche Verantwortungsübernahme. Ein Quellenbericht, eine Signatur oder ein automatisch gesetzter Freigabevermerk ersetzt keine eigene fachliche Prüfung. Das Prüfjournal ist eine organisatorische Hilfe; es ist keine vom Gericht vorgeschriebene zusätzliche Form.
+
 ## 2. Downloads und Verwendung
 
-[Claude-Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer.zip) · [Portables Paket](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer-portable.zip) · [Alle Release-Dateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-halluzinationsreduzierer-v1.0.0)
+[Claude-Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer.zip) · [Portables Paket](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer-portable.zip) · [Alle Release-Dateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-halluzinationsreduzierer-v1.1.0)
 
 Das Pluginpaket enthält alle elf Skills und ihre Referenzen. Werkstatt, Mini und Hauptproblem sind eigenständig nutzbare Fassungen desselben Prüfmaßstabs und separate Downloads. Der Mini ist kein zwölfter Skill. MD und TXT enthalten jeweils denselben Text; PDF ist die Lesefassung.
 
 | Einstieg | Bearbeitbarer Prompt | Lesefassung |
 | --- | --- | --- |
-| Große Werkstatt: vollständiger Prüfablauf mit Grenzfällen und Durchläufen | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer-werkstatt.pdf) |
-| Mini-Prompt: kompakter vollständiger Ablauf | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-schnellstart.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-schnellstart.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer-schnellstart.pdf) |
-| Hauptproblem: eine entscheidende Fundstelle und ihre abhängigen Aussagen aufklären | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer-hauptproblem.pdf) |
+| Große Werkstatt: vollständiger Prüfablauf mit Grenzfällen und Durchläufen | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer-werkstatt.pdf) |
+| Mini-Prompt: kompakter vollständiger Ablauf | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-schnellstart.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-schnellstart.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer-schnellstart.pdf) |
+| Hauptproblem: eine entscheidende Fundstelle und ihre abhängigen Aussagen aufklären | [MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md) · [TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.txt) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer-hauptproblem.pdf) |
 
 Claude Code und kompatible Cowork-Umgebungen verwenden die Pluginstruktur. Das Paket enthält außerdem Codex- und portable Metadaten. In ChatGPT können Sie den Mini-Prompt als Anweisung und die Werkstatt als ergänzende Datei verwenden. Importfunktionen, Browser und Datenbankzugang hängen von Ihrer tatsächlichen Umgebung ab. Das Paket stellt selbst weder ein kostenpflichtiges Recherchekonto noch einen Browser bereit; eine Ausführung in sämtlichen Oberflächen wird nicht behauptet.
 
@@ -43,7 +49,8 @@ Claude Code und kompatible Cowork-Umgebungen verwenden die Pluginstruktur. Das P
 3. Identität, Fundpunkt und konkrete Aussage einzeln prüfen.
 4. Zeitbezug, Fallunterschiede und Gegenargumente untersuchen.
 5. Prüfbericht, Quellenprotokoll und gegebenenfalls Korrekturfassung mit Änderungsverzeichnis erstellen.
-6. Alle Vorkommen gegen das Register nachprüfen und offene Punkte zur Fortsetzung übergeben.
+6. Alle Vorkommen gegen das Register nachprüfen; bei Schriftsätzen Aktenbezug und Verfahrensbegründung gesondert kontrollieren.
+7. Geprüfte Fassung und offene Punkte zur tatsächlichen menschlichen Entscheidung und Fortsetzung übergeben.
 
 Die Originaldatei bleibt erhalten. Eine vermutete richtige Ersatzentscheidung wird nicht still in eine falsche Fundstelle eingesetzt. Korrekturen zeigen alten Satz, neuen Satz, Grund und verknüpfte Quellen. Bei fehlenden Fallangaben kann die Quellenprüfung fortgesetzt werden; die Fallübertragung bleibt ausdrücklich offen.
 
@@ -57,7 +64,7 @@ Das Plugin erkennt weder verlässlich KI-Autorenschaft noch garantiert es Fehler
 
 ## 5. Erprobung
 
-Die Qualitätssicherung umfasst sechs ausdrücklich simulierte Fehlerszenarien: gesperrter Volltext, andere Entscheidung am angegebenen Ort, Parteivortrag, falsche Verfahrensübertragung, offene Parallelfundstelle und eine Nutzerdatei mit manipulativer Anweisung. Diese Übungen behaupten keine tatsächlich ergangenen Entscheidungen und keine amtlichen Abrufe. Der [Prüfbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/ki-halluzinationsreduzierer/README.md) trennt strukturelle Tests, redaktionelle Prüfung und die begrenzte Modell-Anwendungsprobe.
+Die Qualitätssicherung umfasst sechs ausdrücklich simulierte Fehlerszenarien: gesperrter Volltext, andere Entscheidung am angegebenen Ort, Parteivortrag, falsche Verfahrensübertragung, offene Parallelfundstelle und eine Nutzerdatei mit manipulativer Anweisung. Diese Übungen behaupten keine tatsächlich ergangenen Entscheidungen und keine amtlichen Abrufe. Ergänzende Probeläufe behandeln gerichtliche Maßstäbe, falsche Verfahrensübertragungen und bereits eingereichte Fehler. Der [Prüfbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/ki-halluzinationsreduzierer/README.md) trennt strukturelle Tests, redaktionelle Prüfung und die begrenzte Modell-Anwendungsprobe.
 
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
