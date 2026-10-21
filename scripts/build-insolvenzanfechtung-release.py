@@ -250,6 +250,14 @@ def build(dist, case_assets, write_proof=False):
              "assets": {f"{PARENT}.zip": sha(dist / f"{PARENT}.zip")}}
     if write_proof:
         PROOF.write_text(json.dumps(proof, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        routing_path = ROOT / "scripts/scoped-release-package-versions.json"
+        routing = json.loads(routing_path.read_text(encoding="utf-8"))
+        routing["assets"][f"{PARENT}.zip"] = {
+            "tag": TAG, "version": PARENT_VERSION,
+            "sha256": proof["assets"][f"{PARENT}.zip"],
+            "evidence": PROOF.relative_to(ROOT).as_posix(),
+        }
+        routing_path.write_text(json.dumps(routing, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     elif json.loads(PROOF.read_text(encoding="utf-8")) != proof:
         raise ValueError("Fachanwalts-Paket stimmt nicht mit dem Routingnachweis überein.")
     (dist / "quellenabgleich.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
