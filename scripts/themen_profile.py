@@ -6150,6 +6150,8 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "eu-sanktionspruefer": "transport_handel",
+    "us-sanktionspruefer": "transport_handel",
     "insolvenzanfechtung": "insolvenzanfechtung",
     "ki-halluzinationsreduzierer": "fundstellenverifikation",
     "un-kaufrecht-cisg": "transport_handel",

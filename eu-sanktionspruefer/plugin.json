@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "eu-sanktionspruefer",
+  "version": "1.0.0",
+  "description": "EU-Sanktionen fuer Unternehmen und Kanzleien: Identitaet, Eigentum, Kontrolle, Finanzmittel, Waren, Leistungen, Ausnahmen, Meldungen und Rechtsschutz. Ein Hauptskill und neun Fachskills fuehren bis zum begruendeten Schreiben oder Antrag.",
+  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"}
+}

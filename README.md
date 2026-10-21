@@ -83,14 +83,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 305 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 23332 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 303 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 307 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 23352 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 305 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 302 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 533 zentral / 545 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 304 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 537 zentral / 549 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23332 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23352 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -127,16 +127,16 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 305 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 23332: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 533 zentral / 545 gesamt |
+| **Plugins** | 307 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 23352: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 537 zentral / 549 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.35.3` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
 
-Die folgenden Sammelarchive enthalten den geprüften Stand vom 9. Oktober 2026 mit 297 Plugins. Die später ergänzten Plugins [Due Diligence](./due-diligence/README.md), [GVB-Reinigungsvergabe](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis](./verarbeitungsverzeichnis/README.md), [Strafvollzug in der JVA](./strafvollzug-jva/README.md), [UN-Kaufrecht](./un-kaufrecht-cisg/README.md) und [Untersuchungshaft](./untersuchungshaft/README.md) haben eigene Komponentenreleases. Auch Überarbeitungen bestehender Pakete können separat veröffentlicht sein. Für den jeweiligen Einzelstand deshalb den [Download-Index](./ASSET_INDEX.md) oder die Plugin-README verwenden; die Sammelarchive v445.35.3 bleiben unverändert.
+Die folgenden Sammelarchive enthalten den geprüften Stand vom 9. Oktober 2026 mit 297 Plugins. Die später ergänzten Plugins [Due Diligence](./due-diligence/README.md), [GVB-Reinigungsvergabe](./gvb-reinigungsvergabe/README.md), [Verarbeitungsverzeichnis](./verarbeitungsverzeichnis/README.md), [Strafvollzug in der JVA](./strafvollzug-jva/README.md), [UN-Kaufrecht](./un-kaufrecht-cisg/README.md), [Untersuchungshaft](./untersuchungshaft/README.md), [EU-Sanktionsprüfer](./eu-sanktionspruefer/README.md) und [US-Sanktionsprüfer](./us-sanktionspruefer/README.md) haben eigene Komponentenreleases. Auch Überarbeitungen bestehender Pakete können separat veröffentlicht sein. Für den jeweiligen Einzelstand deshalb den [Download-Index](./ASSET_INDEX.md) oder die Plugin-README verwenden; die Sammelarchive v445.35.3 bleiben unverändert.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -391,6 +391,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`energierecht`](./energierecht) | Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. |
 | [`enteignung-artikel-14`](./enteignung-artikel-14) | Grundstücksenteignung nach Artikel 14 GG und BauGB: Aktenaufnahme, Alternativen, Erwerbsverhandlungen, Beteiligte, Entschädigung, Anhörung, Besitzeinweisung, Beschlussvollzug und Baulandsachen. |
 | [`erbbaurecht-praxis`](./erbbaurecht-praxis) | Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug. |
+| [`eu-sanktionspruefer`](./eu-sanktionspruefer) | EU-Sanktionen für Unternehmen und Kanzleien: Identität, Eigentum, Kontrolle, Finanzmittel, Waren, Leistungen, Ausnahmen, Meldungen und Rechtsschutz. Ein Hauptskill und neun Fachskills führen bis zum begründeten Schreiben oder Antrag. |
 | [`europaeisches-prozessrecht`](./europaeisches-prozessrecht) | Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. |
 | [`europarecht-kompass`](./europarecht-kompass) | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 
@@ -666,6 +667,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`urteilsbauer-relationsmacher`](./urteilsbauer-relationsmacher) | Werkstatt für Richter und Rechtspfleger: Gerichtsakten erschließen, eine Relation erstellen und Urteile oder Beschlüsse anhand belegter Feststellungen entwerfen. Entscheidungsart und Verfahrensordnung bestimmen Aufbau und Form. DOCX-Ausgabe nur bei verfügbarer Dateierzeugung, sonst vollständiger Text mit getrenntem Exporthinweis. |
 | [`us-bankruptcy-code`](./us-bankruptcy-code) | US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border. |
 | [`us-copyright-registrierung-verlag`](./us-copyright-registrierung-verlag) | US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. |
+| [`us-sanktionspruefer`](./us-sanktionspruefer) | US-Sanktionen für Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschäfte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills führen zum belegten Vermerk, Antrag oder Schreiben. |
 
 ### V
 

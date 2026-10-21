@@ -1,6 +1,18 @@
 {
   "schema_version": 1,
   "plugins": {
+    "eu-sanktionspruefer": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "us-sanktionspruefer": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "un-kaufrecht-cisg": {
       "standalone": [
         "werkstatt",

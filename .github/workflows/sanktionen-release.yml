@@ -1,0 +1,99 @@
+name: EU- und US-Sanktionsprüfung
+
+on:
+  pull_request:
+    paths:
+      - 'eu-sanktionspruefer/**'
+      - 'us-sanktionspruefer/**'
+      - 'testakten/sanktionen-*/**'
+      - 'scripts/*sanktionen*'
+      - 'scripts/data/sanktionen-akten.json'
+      - 'quality/evals/eu-sanktionspruefer.json'
+      - 'quality/evals/us-sanktionspruefer.json'
+      - '.github/workflows/sanktionen-release.yml'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag sanktionen-eu-us-v1.0.0
+        required: true
+        default: sanktionen-eu-us-v1.0.0
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sanktionen-${{ inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prüfwerkzeuge installieren
+        run: python3 -m pip install -r requirements.txt
+      - name: Inhalte und Pakete prüfen
+        run: |
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-testakten-readme-downloads.py
+          python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/test-sanktionen.py
+          python3 scripts/build-sanktionen-release.py --dist "$RUNNER_TEMP/sanktionen-dist"
+          python3 scripts/test-sanktionen.py --dist "$RUNNER_TEMP/sanktionen-dist"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sanktionen-pakete
+          path: ${{ runner.temp }}/sanktionen-dist/*
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    needs: check
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      TAG: ${{ inputs.tag }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: sanktionen-pakete
+          path: dist
+      - name: Herkunft prüfen und veröffentlichen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('eu-sanktionspruefer/plugin.json'))['version'])")
+          US_VERSION=$(python3 -c "import json;print(json.load(open('us-sanktionspruefer/plugin.json'))['version'])")
+          test "$VERSION" = "$US_VERSION"
+          test "sanktionen-eu-us-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          git merge-base --is-ancestor HEAD origin/main
+          (cd dist && sha256sum --check checksums-sha256.txt)
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert; kein Überschreiben."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert; keine Verschiebung."
+            exit 1
+          fi
+          gh release create "$TAG" --target "$(git rev-parse HEAD)" --draft --title "EU- und US-Sanktionsprüfung $VERSION" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" dist
+          gh release edit "$TAG" --draft=false --latest=false

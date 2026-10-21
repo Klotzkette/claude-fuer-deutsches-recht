@@ -1,0 +1,10 @@
+﻿Auftrag;Gegenstand;Menge;Währung;Einzelpreis;Gesamt;Quelle
+FQ-USD-26044;Messgehäuse;4;USD;3000,00;12000,00;03_USD_Order.docx Abschnitt 1
+FQ-USD-26044;Prüfstände;3;USD;3000,00;9000,00;03_USD_Order.docx Abschnitt 1
+FQ-USD-26044;Anschlussmodule;12;USD;500,00;6000,00;03_USD_Order.docx Abschnitt 1
+FQ-USD-26044;Montageplatten;8;USD;1000,00;8000,00;03_USD_Order.docx Abschnitt 1
+FQ-USD-26044;Kalibrierkoffer;4;USD;1750,00;7000,00;03_USD_Order.docx Abschnitt 1
+FQ-USD-26044;Verpackung Beförderung Versicherung;1;USD;6000,00;6000,00;03_USD_Order.docx Abschnitt 1
+FQ-EUR-26045;Werkzeugaufnahmen;2;EUR;2400,00;4800,00;04_EUR_Nebenauftrag.docx Abschnitt 1
+FQ-EUR-26045;Schutzhaubensätze;4;EUR;600,00;2400,00;04_EUR_Nebenauftrag.docx Abschnitt 1
+FQ-EUR-26045;Ersatzdichtpakete;8;EUR;300,00;2400,00;04_EUR_Nebenauftrag.docx Abschnitt 1

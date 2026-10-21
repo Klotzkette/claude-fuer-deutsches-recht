@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23332 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23352 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -101,6 +101,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [energierecht](./energierecht.md) (96 Skills)
 - [enteignung-artikel-14](./enteignung-artikel-14.md) (9 Skills)
 - [erbbaurecht-praxis](./erbbaurecht-praxis.md) (51 Skills)
+- [eu-sanktionspruefer](./eu-sanktionspruefer.md) (10 Skills)
 - [europaeisches-prozessrecht](./europaeisches-prozessrecht.md) (22 Skills)
 - [europarecht-kompass](./europarecht-kompass.md) (58 Skills)
 
@@ -346,6 +347,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [urteilsbauer-relationsmacher](./urteilsbauer-relationsmacher.md) (84 Skills)
 - [us-bankruptcy-code](./us-bankruptcy-code.md) (101 Skills)
 - [us-copyright-registrierung-verlag](./us-copyright-registrierung-verlag.md) (101 Skills)
+- [us-sanktionspruefer](./us-sanktionspruefer.md) (10 Skills)
 
 ### V
 

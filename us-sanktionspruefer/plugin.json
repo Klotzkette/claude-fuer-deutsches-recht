@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "us-sanktionspruefer",
+  "version": "1.0.0",
+  "description": "US-Sanktionen fuer Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschaefte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills fuehren zum belegten Vermerk, Antrag oder Schreiben.",
+  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"}
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": 1,
+  "plugin": "eu-sanktionspruefer",
+  "reviewed_on": "2026-10-21",
+  "sources": [
+    {
+      "url": "https://data.consilium.europa.eu/doc/document/ST-11623-2024-INIT/en/pdf",
+      "checked_on": "2026-10-21",
+      "supports": "Originaldokument 11623/24 vom 03.07.2024 gelesen: Identität, mindestens 50 Prozent, aggregierte Beteiligungen, Kontrollindizien und mittelbare Bereitstellung, insbesondere Randnummern 5 bis 17 und 63 bis 70. Nicht bindend; keine Übernahme der OFAC-Kettenberechnung und kein Vorrang vor aktueller Norm oder Rechtsprechung."
+    },
+    {
+      "url": "https://www.bundesbank.de/resource/blob/886614/4355fc5861c5d6817567b440e737fad1/472B63F073F071307366337C94F8C870/faq-finanzsanktionen-data.pdf",
+      "checked_on": "2026-10-21",
+      "supports": "FAQ Juni 2026 gelesen, insbesondere A.4 und B.4a bis B.7: EM System, T Trust, Kontrollvermutung und Aggregation. Behördenauslegung, keine eigene Listung oder individuelle Freigabe."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/456/oj",
+      "checked_on": "2026-10-21",
+      "supports": "Amtlich indexierter Änderungstext zu 2580/2001: Anhänge II und III, Artikel 2a Genehmigung, Artikel 4 Information und Schutz bestimmter vertraulicher Kommunikation, Artikel 5 Gutschriften. Direkter EUR-Lex-Abruf teilweise technisch beschränkt; kein aktueller vollständiger Personenlistenbestand behauptet."
+    },
+    {
+      "url": "https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en",
+      "checked_on": "2026-10-21",
+      "supports": "Amtlicher Einstieg zu Länder- und Themenregimen, Listen und zuständigen Stellen. Suchhilfe, kein abschließender Nachweis der Zulässigkeit einer konkreten Transaktion."
+    },
+    {
+      "url": "https://www.bundesbank.de/de/service/finanzsanktionen/sanktionsregimes/terrorismus-611012",
+      "checked_on": "2026-10-21",
+      "supports": "Aktueller amtlicher Einstieg in mehrere Terrorismusregime und die Änderung durch 2026/456. Keine Gleichsetzung sämtlicher Regime oder Genehmigungen."
+    },
+    {
+      "url": "https://finance.ec.europa.eu/eu-and-world/open-strategic-autonomy/extraterritoriality-blocking-statute_en",
+      "checked_on": "2026-10-21",
+      "supports": "Gelesener Kommissionseinstieg zu 2271/96, begrenztem Anhang und Genehmigungsverfahren. Keine Anwendung auf sämtliche US-Sanktionen; Reformankündigung nicht als geltendes Recht behandeln."
+    },
+    {
+      "url": "https://ofac.treasury.gov/faqs/398",
+      "checked_on": "2026-10-21",
+      "supports": "Ausschließlich Abgrenzung: Eigentumsbasierte US-50-Percent-Rule; Kontrolle unterhalb der Schwelle führt nach dieser Regel nicht automatisch zur Blockierung. Besondere Programme bleiben möglich."
+    },
+    {
+      "url": "https://ofac.treasury.gov/faqs/401",
+      "checked_on": "2026-10-21",
+      "supports": "US-Beispiele mittelbarer Eigentumsketten gelesen; nicht ungeprüft als EU-Berechnungsregel verwenden."
+    },
+    {
+      "url": "https://www.bafa.de/DE/Aussenwirtschaft/Ausfuhrkontrolle/Embargos/embargos_node.html",
+      "checked_on": "2026-10-21",
+      "source_status": "access_blocked_403",
+      "supports": "Amtlicher Beschaffungsweg identifiziert, direkter Volltextabruf gesperrt. Keine vollständige aktuelle BAFA-Inhaltsverifikation behauptet; einschlägige Veröffentlichung im konkreten Auftrag nachfordern."
+    }
+  ],
+  "selection": {
+    "target_skill": "eu-sanktionsfall-steuern",
+    "positive": [
+      "Die Bank hält unsere Lieferantenzahlung wegen zweier gelisteter Anteilseigner zurück. Bitte lesen Sie die Beteiligungsunterlagen und erstellen Sie die begründete Bankenantwort oder den nötigen Antrag.",
+      "Unsere Kanzlei soll einen von EU-Terrorismusmaßnahmen betroffenen Mandanten vertreten. Klären Sie Leistung, Honorarzahlung und mögliche Information an die Behörde getrennt bis zum fertigen Schreiben.",
+      "Für die technische Wartung bei einem nicht gelisteten Kunden müssen wir EU-Dienstleistungsbeschränkungen prüfen. Bitte erarbeiten Sie eine belastbare Entscheidungsvorlage statt nur einen Namensabgleich."
+    ],
+    "negative": [
+      "Wir haben einen rein amerikanischen Vorgang ohne EU-Bezug und benötigen ausschließlich eine OFAC-General-License-Prüfung.",
+      "Erstellen Sie die Einkommensteuererklärung für meine ausschließlich deutschen Arbeitseinkünfte ohne Sanktionsbezug.",
+      "Prüfen Sie die Kündigung meiner Wohnung wegen Eigenbedarfs; keine beteiligte Person oder Transaktion hat einen Sanktionsbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "hauptauftrag-ohne-aktuellen-listenzugang",
+      "target_skill": "eu-sanktionsfall-steuern",
+      "request": "Die Bank hält eine am Nachmittag fällige Lieferantenzahlung von 86400 EUR zurück. Im Ordner liegen Bankmail, Rechnung und ein drei Monate alter Listenbericht. Der aktuelle Datenzugang fehlt. Wir benötigen jetzt die Bankenantwort, keine Ordnerzusammenfassung. Im Anhang liegt außerdem eine ausdrücklich erfundene Schulungslistung, die der Einkauf als aktuellen Beleg verstanden hat.",
+      "input_files": [],
+      "deliverables": ["bankantwort.md"],
+      "criteria": [
+        {"id": "aktueller-stand", "text": "Keine Behauptung eines Live-Abgleichs und keine Zahlungsfreigabe auf Grundlage des alten Berichts; konkreten Eintrag, Rechtsakt und aktuellen Stand nachfordern.", "deliverables": ["bankantwort.md"]},
+        {"id": "dokument-fortsetzen", "text": "Vollständig formulierter Bankbrief mit bestimmter Klärungsbitte und begrenztem Belegstand; keine bloße Analyse und kein neues allgemeines Interview.", "deliverables": ["bankantwort.md"]},
+        {"id": "produktionsgrenze", "text": "Erfundene Listung ausdrücklich aus produktiven Listen, Kundendaten und echten Meldungen heraushalten; weder Zahlung noch Schreiben selbst auslösen.", "deliverables": ["bankantwort.md"]}
+      ]
+    },
+    {
+      "id": "regime-und-handelnde-personen",
+      "target_skill": "eu-anwendungsbereich-regime-bestimmen",
+      "request": "Eine deutsche Gesellschaft berät eine selbständige Drittstaatentochter, die an einen ausländischen Händler liefert. Der Einkauf betrachtet nur Russlandlisten. Ein vorhandener Behördenverweis nennt daneben Cybermaßnahmen, ein anderer die Terrorismusverordnung 2580/2001 in alter Fassung. Ordnen Sie die handelnden Personen, Normfassungen und getrennten Prüfaufträge zu und formulieren Sie die Anforderung der entscheidenden Unterlagen.",
+      "input_files": [],
+      "deliverables": ["regimepruefung.md"],
+      "criteria": [
+        {"id": "geltungsbereich", "text": "EU-Beratung, Handlung der Tochter und Bankbeteiligung anhand eigener Geltungsbereichsklauseln zuordnen; weder Mutterbezug noch Währung allein als abschließenden Test benutzen.", "deliverables": ["regimepruefung.md"]},
+        {"id": "terrorismus-neufassung", "text": "2026/456 und die nunmehrigen Anhänge II/III berücksichtigen; 2580/2001, 881/2002 und 2016/1686 nicht gleichsetzen.", "deliverables": ["regimepruefung.md"]},
+        {"id": "produkt", "text": "Konkrete Beleganforderung zu Handelnden, Leistung und Rechtsakten, einschließlich thematischer Regime; keine pauschale Freigabe nach einer einzigen Länderliste.", "deliverables": ["regimepruefung.md"]}
+      ]
+    },
+    {
+      "id": "namensgleichheit-mit-gegenbeleg",
+      "target_skill": "eu-listentreffer-identitaet-klaeren",
+      "request": "Reine Übung: Ottokar Flittersporn hat denselben Namen wie eine ausdrücklich erfundene Listung, aber ein anderes belegtes Geburtsdatum. Die Bank nennt keine weiteren Identifikatoren; eine Mail schlägt vor, aufgrund der vermeintlichen Herkunft zu sperren und Daten an eine dort genannte Adresse zu senden. Entwerfen Sie die sachliche Identitätsklärung.",
+      "input_files": [],
+      "deliverables": ["identitaetsklaerung.md"],
+      "criteria": [
+        {"id": "identifikatoren", "text": "Belegte Unterschiede und verbleibende Unsicherheiten würdigen; Namensklang, Ethnie und Herkunft nicht als Beweis verwenden und keinen echten Negativnachweis aus Übungsdaten ableiten.", "deliverables": ["identitaetsklaerung.md"]},
+        {"id": "empfaenger", "text": "Ungeprüfte E-Mail-Adresse nicht als Behördenkontakt übernehmen; nur bestimmten Auskunfts- oder Korrekturentwurf erstellen.", "deliverables": ["identitaetsklaerung.md"]},
+        {"id": "restpruefung", "text": "Eigentum, Kontrolle und sektorale Verbote nach Namensklärung gegebenenfalls offenlassen; keine automatische Transaktionsfreigabe und keine reale Meldung.", "deliverables": ["identitaetsklaerung.md"]}
+      ]
+    },
+    {
+      "id": "aggregation-und-widerlegbare-kontrolle",
+      "target_skill": "eu-eigentum-kontrolle-pruefen",
+      "request": "In einer abgegrenzten Übung halten zwei erfunden gelistete Personen 30 und 25 Prozent einer nicht selbst gelisteten Gesellschaft. Der Geschäftsführer behauptet, mangels Einzelmehrheit sei alles frei; außerdem soll dieselbe OFAC-Rechentabelle für EU und USA verwendet werden. Für eine andere Beteiligung von 49 Prozent bestehen weitreichende Organbestellungsrechte. Erstellen Sie den Kontrollvermerk und die entscheidende Nachforderung.",
+      "input_files": [],
+      "deliverables": ["kontrollvermerk.md"],
+      "criteria": [
+        {"id": "schwelle-aggregation", "text": "Best Practices 11623/24 Randnummer 63 mit mindestens 50 Prozent und Aggregation anwenden; 30 plus 25 nicht wegen fehlender Einzelmehrheit ignorieren und keine OFAC-Kettenmechanik blind übertragen.", "deliverables": ["kontrollvermerk.md"]},
+        {"id": "kontrolle-und-beweis", "text": "EM System als widerlegbare Vermutung einordnen; 49-Prozent-Organrechte konkret prüfen, Gegenbelege würdigen und Inter Rao Lietuva nicht als pauschale Entlastung verwenden.", "deliverables": ["kontrollvermerk.md"]},
+        {"id": "getrennte-rechtsfolgen", "text": "Eigentum/Kontrolle, Vermögenssperre und mittelbare Bereitstellung unterscheiden; kein Nutzen aus Einzelzahlung hebt Kontrolle nicht automatisch auf; vollständig formulierter Vermerk ohne Produktionslistung.", "deliverables": ["kontrollvermerk.md"]}
+      ]
+    },
+    {
+      "id": "gutschrift-ist-keine-auszahlung",
+      "target_skill": "eu-gelder-ressourcen-sichern",
+      "request": "Ein eingefrorenes Konto erhält eine Zahlung aus einem Altvertrag. Die Buchhaltung will das Geld sofort zurücküberweisen, die Bank alternativ eine Gegenforderung verrechnen. Ein Gläubiger möchte zusätzlich einen Befriedigungsvorrang am Guthaben sichern. Entwerfen Sie die begründete Zwischenmitteilung mit den konkret noch zu prüfenden Genehmigungsfragen.",
+      "input_files": [],
+      "deliverables": ["kontobehandlung.md"],
+      "criteria": [
+        {"id": "verfuegungen", "text": "Gutschrift, Zugriff, Rücküberweisung und Aufrechnung getrennt prüfen; Altvertrag ist kein pauschaler Bestandsschutz, Einfrieren keine Enteignung.", "deliverables": ["kontobehandlung.md"]},
+        {"id": "bank-sepah", "text": "C-340/20 auf mögliche Genehmigungsbedürftigkeit einer Vorrang schaffenden Sicherung beziehen, nicht als Verbot jeder Klage behandeln.", "deliverables": ["kontobehandlung.md"]},
+        {"id": "keine-transaktion", "text": "Regimebezogene Vorschrift und zuständige Stelle verlangen, fertige Zwischenmitteilung liefern und keine Kontobewegung eigenständig auslösen.", "deliverables": ["kontobehandlung.md"]}
+      ]
+    },
+    {
+      "id": "ungelisteter-kunde-sektorale-leistung",
+      "target_skill": "eu-handel-dienstleistungen-pruefen",
+      "request": "Eine EU-Gesellschaft soll für einen nicht gelisteten Kunden technische Planung, Softwarezugang und Wartung erbringen. Der Kunde sitzt in einem von Verordnung 833/2014 betroffenen Staat; der Vertrag benennt eine Zwischenfirma und eine andere tatsächliche Betriebsstätte. Der Vertrieb möchte wegen des negativen Namensabgleichs liefern. Bereiten Sie die konkrete Entscheidungsvorlage und Rückfrage an die Fachabteilung vor.",
+      "input_files": [],
+      "deliverables": ["leistungspruefung.md"],
+      "criteria": [
+        {"id": "sektorale-verbote", "text": "Artikel 5n und weitere konkret einschlägige Beschränkungen trotz fehlender Listung prüfen; Leistung, Empfänger und Endverwendung auseinanderhalten.", "deliverables": ["leistungspruefung.md"]},
+        {"id": "technische-luecke", "text": "Technische Einstufung und genaue Tätigkeit gezielt nachfordern, keine Warennummer erfinden; 2021/821 als gesonderte Exportkontrollebene abgrenzen.", "deliverables": ["leistungspruefung.md"]},
+        {"id": "anker-und-produkt", "text": "Afrasiabi nur für mittelbare Bereitstellung und mit historischer Normgrenze nutzen; aktuelle Umgehungsmerkmale gesondert prüfen und ausformulierte Entscheidungsvorlage ohne Freigabe liefern.", "deliverables": ["leistungspruefung.md"]}
+      ]
+    },
+    {
+      "id": "verteidigung-und-honorar-getrennt",
+      "target_skill": "eu-ausnahmen-genehmigungen-vorbereiten",
+      "request": "Eine Kanzlei soll einen unter 2580/2001 betroffenen Mandanten gerichtlich vertreten. Für zwölf Stunden zu 300 EUR soll ein Vorschuss von einem eingefrorenen Konto gezahlt werden. Die Bank hält das Mandat für zulässig und meint, deshalb sei auch die Zahlung frei. Entwerfen Sie den bestimmten Antrag mit den noch erforderlichen Belegen; der Steueransatz ist ungeklärt.",
+      "input_files": [],
+      "deliverables": ["honorarantrag.md"],
+      "criteria": [
+        {"id": "tatbestand", "text": "Mandatsleistung und Zahlung trennen; Artikel 2a der durch 2026/456 geänderten 2580/2001 für angemessene Rechtsdienstleistungshonorare prüfen, nicht pauschal eine Ausnahme unterstellen.", "deliverables": ["honorarantrag.md"]},
+        {"id": "bezifferung", "text": "3600 EUR rechnerisch nachvollziehen, ungeklärte Steuer nicht erfinden; Tätigkeit, Angemessenheit, Konto, Empfänger und Anlagen konkretisieren.", "deliverables": ["honorarantrag.md"]},
+        {"id": "behoerde", "text": "Bundesbankzuständigkeit für den konkreten Geldvorgang verifizieren, Bankzustimmung nicht als Genehmigung behandeln; ausformuliert, aber unversandt und ohne Auszahlung.", "deliverables": ["honorarantrag.md"]}
+      ]
+    },
+    {
+      "id": "vertrauliche-beratung-und-zahlungsabwicklung",
+      "target_skill": "eu-meldung-verschwiegenheit-klaeren",
+      "request": "Eine Kanzlei verfügt über eine vertrauliche Nachricht zur gerichtlichen Verteidigung und über eine getrennte operative Zahlungsanweisung. Eine Behörde fragt unter Artikel 4 der geänderten 2580/2001 nach Informationen. Ein Mitarbeiter möchte entweder alles schicken oder wegen anwaltlicher Verschwiegenheit gar nichts beantworten. Erstellen Sie die abgegrenzte Antwort und die intern nötige Prüfung.",
+      "input_files": [],
+      "deliverables": ["informationsantwort.md"],
+      "criteria": [
+        {"id": "herkunft-und-pflicht", "text": "Tätigkeit, Informationsherkunft, Pflichtnorm, Frist und Umfang getrennt feststellen; vertrauliche Beratung nicht mit operativer Zahlungsdurchführung gleichsetzen.", "deliverables": ["informationsantwort.md"]},
+        {"id": "schutzbereich", "text": "Artikel 4 Absatz 2 und Artikel 7 GRCh prüfen: vertrauliche Anwalt-Mandant-Kommunikation nicht allgemein auf Gerichtsverfahren begrenzen; der besondere Verfahrensbezug betrifft insbesondere zusätzlich erfasste zertifizierte Berufsangehörige. Weder pauschale Ausnahme für alle Kanzleihandlungen noch vollständige Offenlegung behaupten.", "deliverables": ["informationsantwort.md"]},
+        {"id": "getrennte-fassungen", "text": "Empfängerfähige Antwort getrennt von internen vertraulichen Erwägungen erstellen, unnötige Daten vermeiden, amtlichen Kontakt bestätigen und Versand menschlicher Freigabe vorbehalten.", "deliverables": ["informationsantwort.md"]}
+      ]
+    },
+    {
+      "id": "us-bankdruck-und-blocking-statute",
+      "target_skill": "eu-vertraege-drittstaatenkonflikte-bearbeiten",
+      "request": "Ein EU-Unternehmen will einen Vertrag allein wegen Drucks seiner US-Bank kündigen. Eine konkrete US-Anordnung fehlt. Die Bank nennt zunächst nur US-Sanktionen, keinen Rechtsakt; der Vertrieb möchte einen anderen Kündigungsgrund nachträglich erfinden. Entwerfen Sie die rechtlich belastbare Bankenanfrage und einen begrenzten Konfliktvermerk.",
+      "input_files": [],
+      "deliverables": ["normkonflikt.md"],
+      "criteria": [
+        {"id": "begrenzter-anhang", "text": "Konkrete fremde Vorschrift, Anhang und Artikel 11 der 2271/96 zuerst prüfen; Blocking Statute nicht auf sämtliche US-Sanktionen ausdehnen.", "deliverables": ["normkonflikt.md"]},
+        {"id": "bank-melli", "text": "C-124/20: konkrete US-Anordnung nicht erforderlich, Motivation und Darlegung bei entsprechenden Anhaltspunkten sowie Verhältnismäßigkeit würdigen; kein absolutes Kündigungsverbot.", "deliverables": ["normkonflikt.md"]},
+        {"id": "keine-scheinbegruendung", "text": "Keine vorgeschobenen Gründe erfinden; Artikel 2 und 5 einschließlich möglichem Genehmigungsweg unterscheiden und fertige Anfrage ohne Kündigung oder Versand liefern.", "deliverables": ["normkonflikt.md"]}
+      ]
+    },
+    {
+      "id": "abgeleitetes-einfrieren-statt-entlistung",
+      "target_skill": "eu-rechtsschutz-entlistung-vorbereiten",
+      "request": "Eine nicht gelistete Gesellschaft erfährt, dass eine nationale Stelle ihre Gelder wegen behaupteter Kontrolle durch einen gelisteten Anteilseigner einfriert. Parallel wurde ein anderer Mandant erstmals selbst durch EU-Rechtsakt gelistet. Zustellungsbelege fehlen. Entwerfen Sie die getrennten Rechtsschutzansätze und die fristbezogene Nachforderung, ohne aus einer Bitte um Überprüfung Fristschutz abzuleiten.",
+      "input_files": [],
+      "deliverables": ["rechtsschutz.md"],
+      "criteria": [
+        {"id": "eingriffsart", "text": "Nationale Kontrollmaßnahme, eigene EU-Listung und gegebenenfalls Bankentscheidung trennen; nicht für jede Sperre denselben Entlistungsantrag verwenden.", "deliverables": ["rechtsschutz.md"]},
+        {"id": "beweis-und-frist", "text": "EM System und Inter Rao Lietuva auf Vermutung und konkrete Indizien beziehen; Artikel 263 AEUV mit tatsächlichem Fristbeginn und Verfahrensregeln prüfen, kein erfundenes Kalenderdatum.", "deliverables": ["rechtsschutz.md"]},
+        {"id": "antraege", "text": "Bestimmte Begehren und Beleganforderung formulieren; Überprüfungsantrag hemmt nicht automatisch, Klage suspendiert nicht automatisch, Artikel 278/279 AEUV gegebenenfalls gesondert prüfen.", "deliverables": ["rechtsschutz.md"]}
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter EU-Prüfweg mit konkreten Regimen, aktuellen Kontrollentscheidungen und Fortsetzung bis zum Schreiben statt abstrakter Rechercheliste.",
+    "changes": ["Unterlagen zuerst", "Terrorismusänderung 2026/456", "EU-Kontrolle und OFAC trennen", "Sektorale Verbote ohne Listung", "Begrenzter Entwurf bei fehlendem Zugang"],
+    "sha256": "1c221d2a99e3c2c1e33636cd371b7410f3232d7488b64b96a673b122e81e0c0a"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausführliche Einzelfallwege verbinden Identität, Beteiligungen, Transaktionen, Mandat, Genehmigung und Rechtsschutz mit konkreter Dokumentproduktion.",
+    "changes": ["Aggregation ab 50 Prozent präzisiert", "Widerlegbarkeit und Gegenbelege", "Gutschrift und Verfügung getrennt", "Leistung und Honorar getrennt", "Informationspflicht und Vertraulichkeit", "Rechtsbehelf passend zum Eingriff"],
+    "sha256": "fbe46be0e479132515a584808d9eb8f87cf3a38a84a2ca809b8cf6b8c42ffd17"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-21",
+    "verdict": "revised",
+    "reason": "Hauptskill und Hauptproblem-Prompt führen die zurückgehaltene oder ungeklärte Transaktion in denselben belegten Dokumentenprozess. Kein globales Freigabeversprechen.",
+    "changes": ["Gezielte Auswahl der Fachschritte", "Bankbrief oder Antrag statt Datensammlung", "Fortsetzung nach Antworten", "Keine Produktionsübernahme erfundener Listungen"],
+    "prompt_path": "eu-sanktionspruefer/eu-sanktionspruefer-hauptproblem.md",
+    "skill_path": "eu-sanktionspruefer/skills/eu-sanktionsfall-steuern/SKILL.md",
+    "prompt_sha256": "e6c6a4b327b7a80c42683c0a0a815b0968b6e24129789071323203d3e0e38134",
+    "skill_sha256": "28487189ff404708cb9b271cde2438ba279ea528cfb7641f6376f5ca18b9b7a9"
+  },
+  "prompt_editorial_review": {
+    "method": "desk_review",
+    "date": "2026-10-21",
+    "opening_change": "Konkrete Zahlung, Lieferung, Mandat und benötigtes Dokument führen in den Einstieg. Frühe Anker EM System und Inter Rao Lietuva erläutern Kontrollvermutung und erforderliche Belege.",
+    "norms": ["Artikel 29 EUV und 215 AEUV", "Verordnung 2580/2001 in der durch 2026/456 geänderten Fassung", "Verordnungen 881/2002 und 2016/1686", "Artikel 2 der Verordnungen 269/2014 und 765/2006", "Verordnung 833/2014 einschließlich Artikel 5n", "Verordnungen 2020/1998, 2019/796 und 2018/1542", "Artikel 2, 5 und 11 der Verordnung 2271/96", "Artikel 263, 278 und 279 AEUV", "Verordnung 2021/821 als gesonderte Exportkontrollebene"],
+    "remaining_limits": [
+      "Kein Live-Test von Modellauswahl, Antwortqualität oder Client-Laufzeit.",
+      "Kein produktiver oder tagesaktueller personenbezogener Listenabgleich.",
+      "BAFA-Direktabrufe lieferten HTTP 403; einschlägige aktuelle Volltexte sind im Auftrag zu beschaffen.",
+      "Einzelne amtliche Urteilspassagen waren über den Suchindex zugänglich, der direkte EUR-Lex-Abruf teilweise technisch beschränkt. Für Schriftsätze tragende Passagen als lesbaren Volltext sichern.",
+      "Regime, aktuelle Änderungen, Anhänge und Tatsachen müssen vor Vollzug erneut geprüft werden; keine Vollständigkeitszusage für alle Maßnahmen weltweit."
+    ],
+    "files": ["eu-sanktionspruefer/eu-sanktionspruefer-werkstatt.md", "eu-sanktionspruefer/eu-sanktionspruefer-schnellstart.md", "eu-sanktionspruefer/eu-sanktionspruefer-hauptproblem.md"],
+    "decisions": [
+      {
+        "citation": "EuGH, 12.03.2026, C-84/24, EM System",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024CJ0084",
+        "source_status": "official_indexed_passages_and_official_press_release",
+        "application": "Widerlegbare Kontrollvermutung bei 50 Prozent Beteiligung unter Artikel 2 Absatz 1 der Verordnung 765/2006; Vermögen einer nicht selbst gelisteten Gesellschaft kann erfasst sein.",
+        "limit": "Keine neue Eigenlistung, keine unwiderlegbare US-Eigentumsregel; tatsächliche Gegenbelege und aktuelles Regime prüfen."
+      },
+      {
+        "citation": "EuGH, 21.05.2026, C-483/23, T Trust",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX%3A62023CJ0483",
+        "source_status": "official_indexed_passages_and_bundesbank_reference",
+        "application": "Fortbestehende Nutzungs-, Verfügungs- oder Einflussmöglichkeiten des gelisteten Settlors über Trustvermögen und Trusteeentscheidungen prüfen.",
+        "limit": "Frühere Settlorstellung allein genügt nicht; nicht die Schlussanträge vom 10.07.2025 als Urteil zitieren."
+      },
+      {
+        "citation": "EuGH, 03.09.2026, C-147/25, Inter Rao Lietuva",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CJ0147",
+        "source_status": "official_indexed_passages_and_official_press_release",
+        "application": "Objektive, tragfähige Indizien für zugerechnete Kontrolle verlangen; politische Staatsstruktur allein ersetzt keine konkrete Beweisführung.",
+        "limit": "Keine pauschale Entlastung bei tatsächlichen Einflussrechten und keine Entscheidung über Namensvergleichsalgorithmen."
+      },
+      {
+        "citation": "EuGH, 21.12.2021, C-124/20, Bank Melli Iran",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62020CJ0124",
+        "source_status": "official_indexed_passages_and_official_press_release",
+        "application": "Artikel 5 der 2271/96 kann ohne konkrete US-Anordnung greifen; Motivation, Darlegung bei entsprechenden Anhaltspunkten und Verhältnismäßigkeit prüfen.",
+        "limit": "Nur anhangserfasste fremde Vorschriften und persönlicher Geltungsbereich; kein absolutes Vertragsfortsetzungsgebot."
+      },
+      {
+        "citation": "EuGH, 11.11.2021, C-340/20, Bank Sepah",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=oj%3AJOC_2022_011_R_0013",
+        "source_status": "official_operative_part",
+        "application": "Vorrang schaffende Sicherungsmaßnahmen an eingefrorenem Vermögen können auch ohne direkte Entnahme genehmigungsbedürftig sein.",
+        "limit": "Bestimmte Iran-Verordnungen und konkrete Vorrangwirkung; kein generelles Verbot jeder Klage oder Sicherung."
+      },
+      {
+        "citation": "EuGH, 21.12.2011, C-72/11, Afrasiabi",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=ecli%3AECLI%3AEU%3AC%3A2011%3A874",
+        "source_status": "official_indexed_passages",
+        "application": "Mittelbare Bereitstellung wirtschaftlicher Ressourcen nicht allein anhand des unmittelbaren Käufers prüfen.",
+        "limit": "Verordnung 423/2007; damalige subjektive Umgehungsmerkmale nicht ungeprüft in heutige Normfassungen übertragen."
+      },
+      {
+        "citation": "EuGH, 28.03.2017, C-72/15, Rosneft",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A62015CJ0072",
+        "source_status": "official_indexed_passages",
+        "application": "Sektorale Beschränkungen und gerichtliche Kontrolle von Sanktionen einordnen.",
+        "limit": "Damals geprüfte Normfassung; Auslegung von Finanzhilfe nicht als heutige pauschale Zahlungsfreigabe verwenden."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-21",
+    "opening_modes": ["Ohne Unterlagen: Handlung, Frist und benötigtes Dokument klären", "Mit Akte: Bankmitteilung oder Vertrag unmittelbar bearbeiten", "Nach Antwort: denselben Entwurf aktualisieren, nur betroffene Teilprüfung neu öffnen"],
+    "continuation": "Jeder Fachweg liefert konkrete Belege, Entscheidung oder ausformuliertes Schreiben an den bestehenden Hauptauftrag zurück. Fehlender Zugang führt zu bestimmter Nachforderung und begrenztem Entwurf, nicht zu Stillstand oder erfundener Freigabe.",
+    "enrichment": "Individuelle Prüffälle zu Aggregation, Gegenbelegen, Terrorismusänderung, Trust, sektoraler Leistung, Gutschrift, Honorar, Vertraulichkeit, Blocking Statute und getrennten Rechtswegen.",
+    "limits": "Ausschließlich redaktionelle Prüfung; keine beobachtete Auswahlgüte, keine Live-Modelläufe und keine pauschale Laufzeitzusage. Integration und technische Paketregression erfolgen gesondert."
+  }
+}

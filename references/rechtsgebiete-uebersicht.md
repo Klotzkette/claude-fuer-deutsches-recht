@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 305 Plugins, 23332 Skills.
+Stand v445.35.3: 307 Plugins, 23352 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -83,6 +83,7 @@ Stand v445.35.3: 305 Plugins, 23332 Skills.
 | [`energierecht`](../energierecht/) | Freistehendes Energierecht-Plugin für Stadtwerke, Versorger, Wärme, Netze, Vertrieb, Industrie, EEG, KWKG, Verfahren, Transaktionen und Projektfinanzierung. | `445.35.3` | 96 |
 | [`enteignung-artikel-14`](../enteignung-artikel-14/) | Grundstücksenteignung nach Artikel 14 GG und BauGB: Aktenaufnahme, Alternativen, Erwerbsverhandlungen, Beteiligte, Entschädigung, Anhörung, Besitzeinweisung, Beschlussvollzug und Baulandsachen. | `445.35.3` | 9 |
 | [`erbbaurecht-praxis`](../erbbaurecht-praxis/) | Praxisplugin für Erbbaurecht und Erbbaugrundbuch: Erbbaurechtsvertrag, Erbbauzins, Wertsicherung, Heimfall, Zustimmung, Belastung, Finanzierung, Veräußerung, Laufzeit, Entschädigung, Zwangsversteigerung, Rang und Grundbuchvollzug. | `445.35.3` | 51 |
+| [`eu-sanktionspruefer`](../eu-sanktionspruefer/) | EU-Sanktionen für Unternehmen und Kanzleien: Identität, Eigentum, Kontrolle, Finanzmittel, Waren, Leistungen, Ausnahmen, Meldungen und Rechtsschutz. Ein Hauptskill und neun Fachskills führen bis zum begründeten Schreiben oder Antrag. | `1.0.0` | 10 |
 | [`europaeisches-prozessrecht`](../europaeisches-prozessrecht/) | Europäisches Prozessrecht vor EuGH und EuG: Klagearten, Vorlage, e-Curia, Fristen, Rechtsschutz, Rechtsmittel, Intervention, Beweis, Kosten und Strategie. | `445.35.3` | 22 |
 | [`europarecht-kompass`](../europarecht-kompass/) | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. | `445.35.2` | 58 |
 | [`fachanwalt-agrarrecht`](../fachanwalt-agrarrecht/) | Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB Paragrafen 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht. | `445.35.3` | 79 |
@@ -283,6 +284,7 @@ Stand v445.35.3: 305 Plugins, 23332 Skills.
 | [`urteilsbauer-relationsmacher`](../urteilsbauer-relationsmacher/) | Werkstatt für Richter und Rechtspfleger: Gerichtsakten erschließen, eine Relation erstellen und Urteile oder Beschlüsse anhand belegter Feststellungen entwerfen. Entscheidungsart und Verfahrensordnung bestimmen Aufbau und Form. DOCX-Ausgabe nur bei verfügbarer Dateierzeugung, sonst vollständiger Text mit getrenntem Exporthinweis. | `445.35.3` | 84 |
 | [`us-bankruptcy-code`](../us-bankruptcy-code/) | US Bankruptcy Code Title 11: Chapters 7/9/11/12/13/15, Automatic Stay, Claims, DIP, 363 Sales, Plans und Cross-Border. | `445.35.3` | 101 |
 | [`us-copyright-registrierung-verlag`](../us-copyright-registrierung-verlag/) | US Copyright Act für deutsche Verlage und Rechteinhaber: Title 17, Registrierung, Rechte, Fair Use, DMCA, Musik, AI, Litigation und Deals. | `445.35.3` | 101 |
+| [`us-sanktionspruefer`](../us-sanktionspruefer/) | US-Sanktionen für Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschäfte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills führen zum belegten Vermerk, Antrag oder Schreiben. | `1.0.0` | 10 |
 | [`venture-capital-geber`](../venture-capital-geber/) | VC-Geber-Plugin für deutsche Venture-Capital-Investoren, Family Offices, Angels und junge VCs: Sourcing, Deal-Tracking, Wandeldarlehen, SAFE, Pre-Seed, Series A/B, Cap Table, Follow-on, Portfolio-Updates, KAGB/BaFin-Grenzen, EU/CH/UK/US-Brücken und legitime Deal-Taktik. | `445.35.2` | 106 |
 | [`verarbeitungsverzeichnis`](../verarbeitungsverzeichnis/) | Verzeichnisse von Verarbeitungstätigkeiten für Unternehmen anlegen und laufend pflegen. Rollen, Rechtsgrundlagen, Löschung, Dienstleister, Risiken und DSFA prüfen; Änderungen nachvollziehen und Excel, Word sowie strukturierte Austauschdateien erzeugen. | `1.0.0` | 8 |
 | [`verbraucher-rechtsstaat-alltag`](../verbraucher-rechtsstaat-alltag/) | Kleines, hilfreiches Plugin für Verbraucher: E-Commerce, Kaufrecht, Reparaturen, kleine Dienstleistungen, Rechnungen, Inkasso, Plattformen, Behördenbriefe und Gerichtspost verständlich einordnen und vorsichtig reagieren. | `445.35.3` | 67 |

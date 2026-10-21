@@ -1,0 +1,16 @@
+{
+  "name": "us-sanktionspruefer",
+  "version": "1.0.0",
+  "description": "US-Sanktionen fuer Unternehmen und Kanzleien: OFAC-Treffer, Eigentum, US-Bezug, Terrorismusregime, Geschaefte, Lizenzen, Meldungen und EU-Rechtskonflikte. Ein Hauptskill und neun Fachskills fuehren zum belegten Vermerk, Antrag oder Schreiben.",
+  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"},
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "US-Sanktionspruefer",
+    "shortDescription": "OFAC-Pruefung bis zum belegten Dokument",
+    "longDescription": "Zehn Skills fuer Unternehmen und deutsche Kanzleien: Identitaet, Beteiligungsketten, US-Bezug und konkrete Verbote pruefen; Lizenzen, Meldungen und Rechtskonflikte getrennt bearbeiten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Lies zuerst die vorhandenen Vertrags-, Zahlungs- und Beteiligungsunterlagen. Klaere nur entscheidende Luecken. Unterscheide Identitaet, US-Bezug, Programmtatbestand und konkrete Rechtsfolge. Erstelle das beauftragte Schreiben oder Gutachten mit aktuellen amtlichen Nachweisen. Keine Meldung, Zahlung, Freigabe oder Vertragsbeendigung ohne ausdrueckliche Freigabe."
+  }
+}

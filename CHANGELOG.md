@@ -1,3 +1,11 @@
+# sanktionen-eu-us-v1.0.0 – 2026-10-21
+
+Zwei getrennte Plugins prüfen EU- und US-Sanktionen für Unternehmen und Kanzleien. Je ein Hauptskill und neun Fachskills führen vom belegten Identitäts- und Transaktionsabgleich über Eigentum, Kontrolle und konkrete Verbote zum Schreiben, Genehmigungsantrag oder internen Entscheidungsvermerk. Die eigenständigen Werkstatt-, Mini- und Hauptproblem-Prompts bleiben von der Installation getrennt. Behördenhinweise, Normtexte und gerichtliche Entscheidungen werden mit ihrer Aussagegrenze ausgewiesen.
+
+Vier Akten mit insgesamt 48 Originalunterlagen ergänzen die Pakete. Personen, Staaten, Organisationen und Listungen sind vollständig erfunden; Listungsdokumente sind ausdrücklich keine echten EU- oder US-Rechtsakte. Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP werden inhaltlich abgeglichen. E-Mails enthalten echte Anlagen. Individuelle redaktionelle Prüffälle, reproduzierbarer Paketbau und Downloadprüfungen begleiten das Komponentenrelease; unveränderte Sammelarchive werden nicht überschrieben.
+
+[Umfang und Prüfgrenzen](docs/releases/sanktionen-eu-us-v1.0.0.md).
+
 # un-kaufrecht-cisg-v1.0.0 – 2026-10-18
 
 ## Komponentenrelease Insolvenzanfechtung 1.0.0 – 21.10.2026
