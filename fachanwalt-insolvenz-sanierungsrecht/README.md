@@ -94,9 +94,9 @@ Für die Prüfung einzelner Zahlungen, Sicherheiten und Vertragsgestaltungen ste
 
 | Bestandteil | Zugang |
 | --- | --- |
-| Fachskill Insolvenzanfechtung | [Skill öffnen](skills/insolvenzanfechtung/SKILL.md) |
-| Gesonderter Mini-Prompt | [Markdown](prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-schnellstart.pdf) |
-| Gesonderte Werkstatt | [Markdown](prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-werkstatt.pdf) |
+| Fachskill Insolvenzanfechtung | [Skill öffnen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md) |
+| Gesonderter Mini-Prompt | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-schnellstart.pdf) |
+| Gesonderte Werkstatt | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-werkstatt.pdf) |
 | Eigenständiges Plugin mit elf Skills | [Insolvenzanfechtung](../insolvenzanfechtung/README.md) |
 | Amtlich geprüfte Rechtsquellen | [Aussagen und Grenzen, Stand 21.10.2026](references/insolvenzanfechtung-rechtsquellen.md) |
 

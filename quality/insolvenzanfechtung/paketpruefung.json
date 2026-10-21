@@ -10,7 +10,7 @@
         ".claude-plugin/plugin.json": "36586e331ce56439712eeb2b2f39c2886acc23dfd9cf3a1cebeec6d95c0d04b0",
         ".codex-plugin/plugin.json": "5a6c687552842ea5bd755a7b4f34ab29042b90f37860bc492c6384a2a9020ab0",
         "CHANGELOG.md": "9fe581f75ad5cb44c70949723edc333a77135965a00c0454e977c3465624420e",
-        "README.md": "762572a868a7c98e07292a93c0110c2edafb7cff0819011c3a8bca1868b4f56f",
+        "README.md": "7a9adc0ac41864d778954692575983ac366f4fb66580b1e3a58da46e39d90d92",
         "commands/anfechtungscheck.md": "261adcebde40a093dd71af0ff615a7c74c2a3b66a72bc0b0506add806c1ffe9a",
         "commands/anfechtungsschreiben.md": "5b115e5b371d9bfcaca242e639da7d901d4bcf0ce1e552b8a473ec4860544271",
         "plugin.json": "6613c58ce1436bc2f278f4c320d1b26951dcf060a256dea9d6dcbf1c0afba297",
@@ -40,7 +40,7 @@
       "version": "445.35.4",
       "files": {
         ".claude-plugin/plugin.json": "285cb83fc670fd5d3df1cbef884876d38003135ae3fed6d410559a0fabd68d00",
-        "README.md": "792a55cb98b692bebf6aab6a686529edc12d87ed142df95f0f4dd2558a92e060",
+        "README.md": "5adb83cda01b24d7bc692aef4501fcc0080564afc1d7d5f88cfd5f75b30c68fa",
         "references/insolvenzanfechtung-rechtsquellen.md": "6c298bff893fef6ba9014bb9f138de014af3cd2c3b718853391b6ea4c6078db9",
         "references/ki-normen-und-fallpruefung.md": "b59ad9cee10c394de56faad8cb1f979a0869a6cf8146f1494edbaf34e37d341c",
         "references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",

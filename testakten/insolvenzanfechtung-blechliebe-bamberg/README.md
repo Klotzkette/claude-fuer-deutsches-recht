@@ -2,7 +2,7 @@
 
 Ein Bamberger Metallbaubetrieb bezahlt alte Lieferantenrechnungen in Raten und kauft gleichzeitig neues Material gegen Vorauszahlung. Nach der Verfahrenseröffnung verlangt die Verwalterin Geld zurück. Vertrieb, Buchhaltung und Geschäftsführung erinnern sich unterschiedlich an die damaligen Gespräche.
 
-[Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
+[Startseite](../../README.md) · [Download-Index](../../ASSET_INDEX.md) · [Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
 
 ## 1.1. Benutzung
 

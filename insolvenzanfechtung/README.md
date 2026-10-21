@@ -1,5 +1,7 @@
 # Insolvenzanfechtung
 
+[Startseite](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/insolvenzanfechtung.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
+
 Prüfen Sie Zahlungen, Sicherheiten und Vertragsgestaltungen aus Sicht der Insolvenzverwaltung oder des Anfechtungsgegners. Das Plugin führt von der Akte über die belegte Zahlungskette und die passenden Tatbestände zum ausformulierten Prüfvermerk, Forderungsschreiben, zur Klage, Klageerwiderung oder zum Vergleich. Es richtet sich an anwaltliche und insolvenzrechtliche Facharbeit.
 
 Beginnen Sie mit den vorhandenen Unterlagen und einem konkreten Auftrag. Der Hauptskill übernimmt bekannte Angaben und fragt nur nach entscheidenden Lücken. Zehn Fachskills bearbeiten die jeweils benötigten Teilfragen; sie werden nicht als starre Pflichtliste abgerufen. Die eigenständigen Prompts funktionieren auch ohne Installation, wenn die gewählte Oberfläche die notwendigen Unterlagen lesen kann. Ein tatsächlicher Zugriff auf Dateien, Internetquellen oder Versanddienste wird nicht vorausgesetzt oder behauptet.
@@ -25,17 +27,17 @@ Die Prompts sind eigenständige Arbeitsdateien. Das Plugin installiert keine Tes
 
 | Skill | Arbeitsprodukt |
 | --- | --- |
-| [Zahlungsketten und Krisenbelege rekonstruieren](skills/zahlungskette-und-belege/SKILL.md) | Liefert eine belegte Vorgangsmatrix mit offenen Zuordnungen für die Insolvenzanfechtung |
-| [Rechtshandlung, Zeitpunkt und Gläubigerbenachteiligung prüfen](skills/rechtshandlung-zeit-benachteiligung/SKILL.md) | Trennt Antrag, Eröffnung und Wirksamkeit; liefert einen belegten Ausgangsvermerk und die passende Anfechtungsroute |
-| [Kongruente und inkongruente Deckung unterscheiden](skills/deckung-pruefen/SKILL.md) | Unterscheidet kongruente und inkongruente Deckung und erstellt eine vorgangsbezogene Anspruchs- oder Verteidigungsmatrix |
-| [Benachteiligungsvorsatz und Empfängerkenntnis würdigen](skills/vorsatz-und-kenntnis/SKILL.md) | Prüft Raten, Sanierung und Krisenwissen ohne automatischen Schluss aus Zahlungsunfähigkeit; liefert ein belastbares Vorsatzmemo |
-| [Unentgeltlichkeit und Dreiecksverhältnisse auflösen](skills/unentgeltlichkeit-dreieck/SKILL.md) | Rekonstruiert Leistungsbeziehungen, Forderungswert und Gegenleistung aus Empfängersicht; liefert eine begründete Dreiecksanalyse und konkrete Beweisfragen |
-| [Gesellschafterdarlehen und Finanzierungshilfen prüfen](skills/gesellschafterfinanzierung/SKILL.md) | Klärt Beteiligung, Einfluss, Regress und Ausnahmen; liefert eine Finanzierungschronologie mit Anspruchs- und Verteidigungsvarianten |
-| [Sicherheiten, Verrechnung und Aufrechnung untersuchen](skills/sicherheiten-aufrechnung/SKILL.md) | Trennt Entstehung, Werthaltigkeit, Erwerb und Verwertung; liefert einen Sicherheitenvermerk mit nachvollziehbarem Massevergleich |
-| [Bargeschäft und unmittelbaren Leistungsaustausch prüfen](skills/bargeschaeft-pruefen/SKILL.md) | Ordnet Lieferung, Vorkasse, Arbeitsentgelt und Verrechnung einzeln zu; liefert einen belastbaren Austauschvermerk |
-| [Rückgewähr, Gegenleistung und Verjährung berechnen](skills/rechtsfolgen-verjaehrung/SKILL.md) | Trennt Anspruchsentstehung, Kenntnis und Hemmung; liefert eine belegte Forderungsrechnung mit konkretem Handlungsbedarf |
-| [Anfechtungsansprüche durchsetzen, abwehren und vergleichen](skills/prozess-und-vergleich/SKILL.md) | Ordnet Streitgegenstände, Bestreiten und Beweise zu; trennt Rechtsrisiko, Wirtschaftlichkeit und menschliche Freigabe |
-| [Insolvenzanfechtung vom Akteneingang bis zum Endprodukt steuern](skills/anfechtung-steuern/SKILL.md) | Verbindet zehn Fachrouten, führt Vorgänge und Belege fort und liefert das bestellte Memo, Schreiben, den Schriftsatz oder Vergleich mit nachvollziehbaren Grenzen |
+| [Zahlungsketten und Krisenbelege rekonstruieren](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/zahlungskette-und-belege/SKILL.md) | Liefert eine belegte Vorgangsmatrix mit offenen Zuordnungen für die Insolvenzanfechtung |
+| [Rechtshandlung, Zeitpunkt und Gläubigerbenachteiligung prüfen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/rechtshandlung-zeit-benachteiligung/SKILL.md) | Trennt Antrag, Eröffnung und Wirksamkeit; liefert einen belegten Ausgangsvermerk und die passende Anfechtungsroute |
+| [Kongruente und inkongruente Deckung unterscheiden](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/deckung-pruefen/SKILL.md) | Unterscheidet kongruente und inkongruente Deckung und erstellt eine vorgangsbezogene Anspruchs- oder Verteidigungsmatrix |
+| [Benachteiligungsvorsatz und Empfängerkenntnis würdigen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/vorsatz-und-kenntnis/SKILL.md) | Prüft Raten, Sanierung und Krisenwissen ohne automatischen Schluss aus Zahlungsunfähigkeit; liefert ein belastbares Vorsatzmemo |
+| [Unentgeltlichkeit und Dreiecksverhältnisse auflösen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/unentgeltlichkeit-dreieck/SKILL.md) | Rekonstruiert Leistungsbeziehungen, Forderungswert und Gegenleistung aus Empfängersicht; liefert eine begründete Dreiecksanalyse und konkrete Beweisfragen |
+| [Gesellschafterdarlehen und Finanzierungshilfen prüfen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/gesellschafterfinanzierung/SKILL.md) | Klärt Beteiligung, Einfluss, Regress und Ausnahmen; liefert eine Finanzierungschronologie mit Anspruchs- und Verteidigungsvarianten |
+| [Sicherheiten, Verrechnung und Aufrechnung untersuchen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/sicherheiten-aufrechnung/SKILL.md) | Trennt Entstehung, Werthaltigkeit, Erwerb und Verwertung; liefert einen Sicherheitenvermerk mit nachvollziehbarem Massevergleich |
+| [Bargeschäft und unmittelbaren Leistungsaustausch prüfen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/bargeschaeft-pruefen/SKILL.md) | Ordnet Lieferung, Vorkasse, Arbeitsentgelt und Verrechnung einzeln zu; liefert einen belastbaren Austauschvermerk |
+| [Rückgewähr, Gegenleistung und Verjährung berechnen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/rechtsfolgen-verjaehrung/SKILL.md) | Trennt Anspruchsentstehung, Kenntnis und Hemmung; liefert eine belegte Forderungsrechnung mit konkretem Handlungsbedarf |
+| [Anfechtungsansprüche durchsetzen, abwehren und vergleichen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/prozess-und-vergleich/SKILL.md) | Ordnet Streitgegenstände, Bestreiten und Beweise zu; trennt Rechtsrisiko, Wirtschaftlichkeit und menschliche Freigabe |
+| [Insolvenzanfechtung vom Akteneingang bis zum Endprodukt steuern](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md) | Verbindet zehn Fachrouten, führt Vorgänge und Belege fort und liefert das bestellte Memo, Schreiben, den Schriftsatz oder Vergleich mit nachvollziehbaren Grenzen |
 
 ## 3. Rechtsprüfung mit belastbaren Grenzen
 
@@ -65,7 +67,7 @@ Die Fälle liegen getrennt im zentralen Testaktenordner. Die jeweiligen README-S
 
 Interne Sichtung, Quellenabgleich, Berechnung und Entwurf laufen innerhalb des Auftrags weiter. Versand, Einreichung, Anerkenntnis, Verzicht und Vergleichsannahme benötigen eine konkrete menschliche Freigabe für Person, Fassung und Handlung. Ein erzeugter Entwurf gilt nicht als versandt. Für Endprodukte gelten vollständige Ausformulierung, dezimale Gliederung und soweit technisch möglich Times New Roman, 11 pt.
 
-Im [Fachanwaltsplugin Insolvenz- und Sanierungsrecht](../fachanwalt-insolvenz-sanierungsrecht/README.md) liegen zusätzlich [Werkstatt](../fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) und [Mini-Prompt](../fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) ausschließlich zur Insolvenzanfechtung. Der allgemeine fachanwaltliche Prompt bleibt daneben erhalten.
+Im [Fachanwaltsplugin Insolvenz- und Sanierungsrecht](../fachanwalt-insolvenz-sanierungsrecht/README.md) liegen zusätzlich [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) und [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) ausschließlich zur Insolvenzanfechtung. Der allgemeine fachanwaltliche Prompt bleibt daneben erhalten.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

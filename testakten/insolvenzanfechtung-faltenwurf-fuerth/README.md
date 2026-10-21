@@ -2,7 +2,7 @@
 
 Bei einer Fürther Polstermanufaktur laufen Gesellschafterdarlehen, eine alte Maschinensicherheit und eine familiär verbürgte Banklinie nebeneinander. Nach der Insolvenz streiten die Beteiligten darüber, welche Zahlungen Darlehen tilgten, welche Auslagen ersetzten und wer tatsächlich von einer Bankschuld frei wurde.
 
-[Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
+[Startseite](../../README.md) · [Download-Index](../../ASSET_INDEX.md) · [Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
 
 ## 1.1. Benutzung
 

@@ -10,7 +10,7 @@
     "fachanwalt-insolvenz-sanierungsrecht.zip": {
       "tag": "insolvenzanfechtung-v1.0.0",
       "version": "445.35.4",
-      "sha256": "97f2fcac91ee66f0f864249afd384265650cb4ce9b61392e73bfe58fec4e7dcd",
+      "sha256": "c88ce8e7eb040f6ce847a84746630c0f711e26624435ee0589e0b2cfdbdd0735",
       "evidence": "quality/insolvenzanfechtung/release-pakete.json"
     }
   }

@@ -232,7 +232,7 @@ def package_cases(cases,basis,dist,qa,font_label):
 
 {case['summary']}
 
-[Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
+[Startseite](../../README.md) · [Download-Index](../../ASSET_INDEX.md) · [Insolvenzanfechtung](../../insolvenzanfechtung/README.md) · [Testaktenübersicht](../README.md)
 
 ## 1.1. Benutzung
 

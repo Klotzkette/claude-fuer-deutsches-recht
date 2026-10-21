@@ -38,6 +38,7 @@ Die folgenden Prüfungen waren am abschließenden lokalen Stand erfolgreich:
 - `python3 scripts/build-insolvenzanfechtung-akten.py --package-only --dist <Aktenordner>`: zwei vollständige Wiederholungsläufe; keine Änderung der Originale.
 - `node scripts/validate-plugin-structure.mjs`, `node scripts/validate-marketplace-import.mjs`, `python3 scripts/validate-yaml-frontmatter.py` und `python3 scripts/audit-skill-activation.py`.
 - `python3 scripts/validate-markdown-structure.py`, `python3 scripts/validate-root-readme-overview.py`, `python3 scripts/validate-testakten-readme-downloads.py` und `python3 scripts/validate-runtime-performance.py`.
+- `python3 scripts/test-readme-navigation.py` (51 Tests), `python3 scripts/validate-readme-navigation.py` (43.853 lokale Links und 2.206 Anker), `python3 scripts/test-quickstart-usability.py`, `python3 scripts/audit-quickstart-usability.py`, `python3 scripts/test-portable-starts.py`, `python3 scripts/test-prompt-openings.py` und `python3 scripts/test-prompt-routing-scope.py`.
 - `python3 scripts/quality_lab.py audit --require-editorial --require-workflow` und `git diff --check`.
 
 Der [Paketabgleich](paketpruefung.json) hält Quell- und Datei-Hashes, Seitenzahlen, Zeichengrenzen und vollständigen Wortbestand fest. Die 30 Release-Dateien bestehen aus vier installierbaren ZIPs, 15 Promptdateien, neun Aktenassets und zwei Prüfdateien. Das [Versionsrouting](release-pakete.json) weist die Fachanwaltskomponente 445.35.4 innerhalb des Komponentenreleases 1.0.0 ausdrücklich nach.
