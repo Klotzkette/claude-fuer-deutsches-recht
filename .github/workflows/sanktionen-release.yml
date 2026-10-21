@@ -32,6 +32,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
+          # Der temporäre PR-Merge-Verweis entfällt nach einem schnellen Squash.
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 1
       - uses: actions/setup-python@v5
         with:
