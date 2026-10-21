@@ -5,13 +5,13 @@
 
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO Paragraf 14. InsO Eröffnung Antragspflicht Paragraf 15a Gläubigerantrag Paragraf 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung Paragrafen 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.
 
-Dieses Plugin gehört zum Marketplace mit 304 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 305 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`fachanwalt-insolvenz-sanierungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`fachanwalt-insolvenz-sanierungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/fachanwalt-insolvenz-sanierungsrecht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md) |
@@ -46,13 +46,13 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fachanwalt-insolvenz-sanierungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fachanwalt-insolvenz-sanierungsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`fachanwalt-insolvenz-sanierungsrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`fachanwalt-insolvenz-sanierungsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-werkstatt.md) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md" download>fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md</a> |
 | Zugeordnete Testakten | PDF / ZIP | [20 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 304 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 305 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -87,6 +87,32 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
+
+## Insolvenzanfechtung als eigener Arbeitsgang
+
+Für die Prüfung einzelner Zahlungen, Sicherheiten und Vertragsgestaltungen stehen zusätzlich eigenständige Prompts ausschließlich zur Insolvenzanfechtung bereit. Sie führen aus Verwalter- oder Empfängersicht von Belegen und Zahlungskette bis zum ausformulierten Schreiben, Schriftsatz oder Vergleich. Die allgemeinen Fachanwalts-Prompts bleiben daneben erhalten.
+
+| Bestandteil | Zugang |
+| --- | --- |
+| Fachskill Insolvenzanfechtung | [Skill öffnen](skills/insolvenzanfechtung/SKILL.md) |
+| Gesonderter Mini-Prompt | [Markdown](prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-schnellstart.pdf) |
+| Gesonderte Werkstatt | [Markdown](prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) · [Text](prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht-insolvenzanfechtung-werkstatt.pdf) |
+| Eigenständiges Plugin mit elf Skills | [Insolvenzanfechtung](../insolvenzanfechtung/README.md) |
+| Amtlich geprüfte Rechtsquellen | [Aussagen und Grenzen, Stand 21.10.2026](references/insolvenzanfechtung-rechtsquellen.md) |
+
+Die drei zugehörigen Übungswege sind Gläubigerwechsel und Empfängerzuordnung in Bremen, Raten und Neulieferungen in Bamberg sowie Gesellschafterfinanzierung und Sicherheiten in Fürth. Die README-Seiten der Akten enthalten die PDF- und Originaldownloads.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Zugang |
+| --- | --- |
+| Weserfunken, Bremen | [Akte und Downloads](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) |
+| Blechliebe Bamberg | [Akte und Downloads](../testakten/insolvenzanfechtung-blechliebe-bamberg/README.md) |
+| Faltenwurf Fürth | [Akte und Downloads](../testakten/insolvenzanfechtung-faltenwurf-fuerth/README.md) |
+
+
 
 Wenn du das hier öffnest, willst du Eröffnungsgrund und Fortbestehensprognose belastbar bestimmen und den nächsten Verfahrensschritt wählen.
 ## Anwalts-Dashboard für den Schnelleinstieg
@@ -226,7 +252,7 @@ English: Complete list of all 84 skills in this plugin. Both links in each row d
 | [`insolvenz-sanierung-starug-plan`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-sanierung-starug-plan/SKILL.md) | Steuert die vorinsolvenzliche Sanierung mit Restrukturierungsplan: Insolvenzreifetest, gestaltbare Rechte, Planaufbau, Gruppen, Mehrheiten, Anzeige, Stabilisierung, Bestätigung und Krisenwechsel. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-sanierung-starug-plan/SKILL.md) |
 | [`insolvenz-sanierungs-versandmappe-endfertigen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-sanierungs-versandmappe-endfertigen/SKILL.md) | Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzgericht, Restrukturierungsgericht und Prozessgericht, prüft Antrag, Planstand, Liquiditätsbelege, Gläubigergruppen und G... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-sanierungs-versandmappe-endfertigen/SKILL.md) |
 | [`insolvenz-tatbestand-beweis-und-belege`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-tatbestand-beweis-und-belege/SKILL.md) | Für Insolvenz Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenz-tatbestand-beweis-und-belege/SKILL.md) |
-| [`insolvenzanfechtung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md) | Für Insolvenzanfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md) |
+| [`insolvenzanfechtung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md) | Prüft Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungen, Vertragswechsel, Deckung, Vorsatz, Drittleistung, Gesellschafterfinanzierung und Bargeschäft. Liefert ein belegtes Memo, Schreiben oder einen ausformulierten Schrift... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung/SKILL.md) |
 | [`insolvenzanfechtung-129-bis-147-verteidigungsradar`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung-129-bis-147-verteidigungsradar/SKILL.md) | Für Insolvenzanfechtung 129 bis 147 Verteidigungsradar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung-129-bis-147-verteidigungsradar/SKILL.md) |
 | [`insolvenzanfechtung-compliance-dokumentation-und-akte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung-compliance-dokumentation-und-akte/SKILL.md) | Für Insolvenzanfechtung Compliance Dokumentation und Akte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzanfechtung-compliance-dokumentation-und-akte/SKILL.md) |
 | [`insolvenzgeld-paragraf-165-sgb-iii`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzgeld-paragraf-165-sgb-iii/SKILL.md) | Für Insolvenzgeld Paragraf 165 SGB iii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/skills/insolvenzgeld-paragraf-165-sgb-iii/SKILL.md) |

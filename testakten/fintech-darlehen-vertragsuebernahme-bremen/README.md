@@ -11,7 +11,7 @@
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
+Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten Ordner für Eingang, Klageerwiderung und Korrespondenz. Das Originalformat-ZIP enthält PDF, Word, Excel, E-Mail, Text und CSV, aber kein Markdown. Das Einzel-PDF-ZIP enthält jede Unterlage als eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine Lesezeichen führen zu den getrennten Arbeitsbereichen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -20,12 +20,12 @@ Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf`](gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
 
-Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden die Aktenfassung zum Komponentenrelease `insolvenzanfechtung-v1.0.0`. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the insolvency-avoidance component release 1.0.0.
 
 <!-- END gesamt-pdf-section (autogen) -->
 
@@ -47,7 +47,11 @@ English: Use the incoming file and correspondence folders for independent analys
 
 Die Eingangsakte umfasst die Klage mit 25 Seiten und zwölf Anlagen mit zusammen 75 Seiten. Hinzu kommen die gerichtliche Verfügung und der Zustellungsrücklauf. Die englischen Kreditunterlagen und deutschsprachigen Geschäftsunterlagen bleiben eigenständige Dokumente. Buchungen werden zusätzlich als maschinenlesbarer CSV-Export bereitgestellt.
 
-Der Bestand umfasst 42 eigenständige Arbeitsdateien: Die bisherigen 35 Originaldateien bleiben bytegleich erhalten; sieben vertiefende Unterlagen kommen hinzu. Der neue Unterordner enthält eine englische Vollzugsbestätigung und eine Posteingangs-/Fristenkontrolle in Word, zwei Excel-Arbeitsmappen mit Buchungsabgleichen sowie drei E-Mails. Zwei E-Mails führen insgesamt drei echte MIME-Anlagen mit, deren Bytes den separat abgelegten Word-/Excel-Dateien entsprechen. Diese eingebetteten Kopien zählen nicht als zusätzliche eigenständige Dokumente.
+Der Bestand umfasst 62 eigenständige Arbeitsdateien. Die Ordner für Eingang und Klageerwiderung sowie die ersten 42 Originaldateien bleiben bytegleich erhalten. Die Korrespondenz enthält zwei getrennte Vertiefungsordner: `04_vertiefung` führt die Vollzugsbestätigung, Posteingangskontrolle und zwei Buchungsabgleiche. `05_anfechtungsunterlagen` enthält vier PDF-Belege, vier Word-Briefe und Erinnerungsvermerke, zwei weitere Excel-Arbeitsmappen und zehn E-Mails. In den beiden Unterordnern führen neun E-Mails insgesamt vierzehn echte MIME-Anlagen mit; jede eingebettete Datei stimmt bytegenau mit der separat abgelegten Fassung überein. Eingebettete Kopien zählen nicht als zusätzliche eigenständige Dokumente.
+
+Die Anfechtungsunterlagen machen den Betriebsalltag, Lieferstopps und widersprüchliche Erinnerungen greifbar. Eine angefragte Direktzahlung von Nordhafen an Nordkai wird abgelehnt; auch die erwogene Sachleistung wird nicht ausgeführt. Die Übung verlangt, Vorschlag und tatsächlichen Zahlungsvorgang auseinanderzuhalten. Die drei Erinnerungsvermerke unterscheiden eigene Wahrnehmung, damalige Aufzeichnungen und heutige Aktenkenntnis. Sie legen keine Beweiswürdigung fest.
+
+Die Excel-Datei zu den Stichtagen stellt das Bankguthaben und die ausgewählten Verbindlichkeiten gegenüber. Weitere fällige Verpflichtungen bleiben als offene Eingaben sichtbar. Die Formeln unterscheiden fehlende Angaben von einem bestätigten Nullbetrag. Die zweite Arbeitsmappe grenzt ausgeführte Darlehenszahlungen, den Erwerbspreis und den abgelehnten Zahlungsweg ab. Ein ausformulierter Nachforderungsbrief liegt als bearbeitbarer, noch nicht versandter Entwurf vor. Die Bearbeitung soll seine Fragen anhand der Belege schärfen und danach den Anspruch und die Gegenposition eigenständig prüfen.
 
 Die Ergänzungen erläutern bereits dokumentierte Abläufe und ändern keine K-/B-Anlagen, Vertragssummen oder Schriftsätze. Später zusammengestellte Tabellen sind als solche datiert. Historische Kontobewegungen, die ausgewählte Kreditorenliste und der gesonderte Vorgang vom 2. Mai bleiben zeitlich getrennt. Die englische Vollzugsbestätigung ist nicht der zwölfseitige Übernahmevertrag; aus ihrer Ablage folgt nicht, dass die Klägerin diesen Vertrag vor Klageerhebung kannte.
 
@@ -74,6 +78,8 @@ Die fallbezogenen Quellen stehen im [Quellenvermerk](../../quality/legal/fintech
 Der Regressionstest `scripts/test-fintech-bremen.py` prüft Seitenzahlen, Buchungswerte, Trennung der Arbeitsbereiche, native Dateien und die Übereinstimmung der Archive mit den Originalen. Eine menschliche juristische Freigabe oder ein Live-Versand wird durch diese Prüfungen nicht ersetzt.
 
 Mit `scripts/build-fintech-bremen-akte.py --supplements-only --qa-dir /tmp/fintech-expansion-qa/native` lassen sich nur die sieben Ergänzungen erzeugen. Der Aufruf prüft vorher und nachher die SHA-256-Werte der 35 bestehenden Dateien. `AKTEN_NODE` und `AKTEN_NODE_MODULES` können auf den bereitgestellten Node-/Artifact-tool-Laufzeitbestand zeigen. Die Arbeitsmappen enthalten echte Formeln mit geprüften Ergebniswerten; die Vorschauen und späteren ZIP-Prüfläufe werden außerhalb des Aktenordners abgelegt.
+
+Die zwanzig Anfechtungsunterlagen werden separat durch `scripts/build-fintech-bremen-anfechtung-ergaenzung.py --qa-dir /tmp/weserfunken-anfechtung-qa` erzeugt. Dieser Builder prüft vor und nach dem Lauf die Hashes aller 42 davor vorhandenen Originale. Er verändert keine Klage, Klageerwiderung, K-/B-Anlage oder frühere Arbeitsmappe. Der ergänzende Test `scripts/test-fintech-bremen-anfechtung-ergaenzung.py` kontrolliert Bestanderhalt, MIME-Anlagen und die gespeicherten Formelwerte. Der [Prüfvermerk zur Anfechtungsvertiefung](../../quality/legal/fintech-bremen-anfechtung-vertiefung.md) erläutert die inhaltlichen und technischen Kontrollen.
 
 <!-- BEGIN fintech-inventory -->
 <!-- decimal-anchor --> <a id="einzelunterlagen"></a>
@@ -128,5 +134,25 @@ Mit `scripts/build-fintech-bremen-akte.py --supplements-only --qa-dir /tmp/finte
 | [03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.eml](03_korrespondenz/04_vertiefung/45_Vellio_Buchungsanlagen_20260713.eml) | Weserfunken: Zuordnungstabelle und Vollzugsbestätigung |
 | [03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.eml](03_korrespondenz/04_vertiefung/46_Kroeger_Kontoabgleich_20260611.eml) | NF-WP-221014-01: Kontoabgleich und Abgrenzung der offenen Posten |
 | [03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.docx](03_korrespondenz/04_vertiefung/47_Posteingang_Fristen_20260922.docx) | Posteingang und Fristenkontrolle |
+| [03_korrespondenz/05_anfechtungsunterlagen/51_Bankauskunft_Zahlungslauf_20260917.pdf](03_korrespondenz/05_anfechtungsunterlagen/51_Bankauskunft_Zahlungslauf_20260917.pdf) | Auskunft zum Zahlungslauf am 15 April 2024 |
+| [03_korrespondenz/05_anfechtungsunterlagen/52_Nordkai_Kontoerklaerung_20260918.pdf](03_korrespondenz/05_anfechtungsunterlagen/52_Nordkai_Kontoerklaerung_20260918.pdf) | Kontoerklärung zur Rechnung NA 240212 17 |
+| [03_korrespondenz/05_anfechtungsunterlagen/53_Nordhafen_Abrechnung_N42_20240402.pdf](03_korrespondenz/05_anfechtungsunterlagen/53_Nordhafen_Abrechnung_N42_20240402.pdf) | Abrechnung der Sammelzahlung für N42 |
+| [03_korrespondenz/05_anfechtungsunterlagen/54_N42_Rueckabwicklung_20240502.pdf](03_korrespondenz/05_anfechtungsunterlagen/54_N42_Rueckabwicklung_20240502.pdf) | Bestätigung der Rückabwicklung der Lose N42 |
+| [03_korrespondenz/05_anfechtungsunterlagen/55_Kroeger_Erinnerungsvermerk_20260921.docx](03_korrespondenz/05_anfechtungsunterlagen/55_Kroeger_Erinnerungsvermerk_20260921.docx) | Erinnerungsvermerk zum Zahlungslauf und zu den Lieferanten |
+| [03_korrespondenz/05_anfechtungsunterlagen/56_Grothe_Rueckmeldung_20260922.docx](03_korrespondenz/05_anfechtungsunterlagen/56_Grothe_Rueckmeldung_20260922.docx) | Rückmeldung zu den Gesprächen im April 2024 |
+| [03_korrespondenz/05_anfechtungsunterlagen/57_Wendt_Gespraechsauskunft_20260923.docx](03_korrespondenz/05_anfechtungsunterlagen/57_Wendt_Gespraechsauskunft_20260923.docx) | Auskunft zu den Unterlagen und zum Gespräch vom 10 April |
+| [03_korrespondenz/05_anfechtungsunterlagen/58_Tettenborn_Nachforderung_20260924.docx](03_korrespondenz/05_anfechtungsunterlagen/58_Tettenborn_Nachforderung_20260924.docx) | Nachforderung zu Zahlungswegen und Kenntnisständen |
+| [03_korrespondenz/05_anfechtungsunterlagen/59_Stichtage_und_Belegluecken_20260924.xlsx](03_korrespondenz/05_anfechtungsunterlagen/59_Stichtage_und_Belegluecken_20260924.xlsx) | Stichtage und Beleglücken |
+| [03_korrespondenz/05_anfechtungsunterlagen/60_Zahlungswege_und_Vorschlaege_20260924.xlsx](03_korrespondenz/05_anfechtungsunterlagen/60_Zahlungswege_und_Vorschlaege_20260924.xlsx) | Zahlungswege und nicht ausgeführte Vorschläge |
+| [03_korrespondenz/05_anfechtungsunterlagen/61_Nordkai_Lieferstopp_20240411.eml](03_korrespondenz/05_anfechtungsunterlagen/61_Nordkai_Lieferstopp_20240411.eml) | WP-043 / Rechnung NA-240212-17 und nächster Abruf |
+| [03_korrespondenz/05_anfechtungsunterlagen/62_Grothe_Direktzahlung_20240416.eml](03_korrespondenz/05_anfechtungsunterlagen/62_Grothe_Direktzahlung_20240416.eml) | N42 / Kann ein weiterer Betrag direkt an Nordkai gehen? |
+| [03_korrespondenz/05_anfechtungsunterlagen/63_Nordhafen_Kein_Auftrag_20240416.eml](03_korrespondenz/05_anfechtungsunterlagen/63_Nordhafen_Kein_Auftrag_20240416.eml) | AW: N42 / derzeit kein weiterer Zahlungsbetrag |
+| [03_korrespondenz/05_anfechtungsunterlagen/64_Feistlein_Keine_Zahlung_20240417.eml](03_korrespondenz/05_anfechtungsunterlagen/64_Feistlein_Keine_Zahlung_20240417.eml) | NA-240212-17 / Telefonat und offener Saldo |
+| [03_korrespondenz/05_anfechtungsunterlagen/65_Bank_Belegantwort_20260917.eml](03_korrespondenz/05_anfechtungsunterlagen/65_Bank_Belegantwort_20260917.eml) | WT-24-118 / zwei Aufträge vom 15.04.2024 |
+| [03_korrespondenz/05_anfechtungsunterlagen/66_Feistlein_Archivantwort_20260918.eml](03_korrespondenz/05_anfechtungsunterlagen/66_Feistlein_Archivantwort_20260918.eml) | WT-24-118 / Konto WP-043 und damalige Nachrichten |
+| [03_korrespondenz/05_anfechtungsunterlagen/67_Kroeger_Erinnerung_20260921.eml](03_korrespondenz/05_anfechtungsunterlagen/67_Kroeger_Erinnerung_20260921.eml) | WT-24-118 / meine Angaben und die Unterlagen im Büro |
+| [03_korrespondenz/05_anfechtungsunterlagen/68_Grothe_Abweichende_Erinnerung_20260922.eml](03_korrespondenz/05_anfechtungsunterlagen/68_Grothe_Abweichende_Erinnerung_20260922.eml) | WT-24-118 / Ergänzung zu den Aprilgesprächen |
+| [03_korrespondenz/05_anfechtungsunterlagen/69_Wendt_Archivgrenze_20260923.eml](03_korrespondenz/05_anfechtungsunterlagen/69_Wendt_Archivgrenze_20260923.eml) | NF-WP-221014-01 / Antwort zum Gesprächsinhalt |
+| [03_korrespondenz/05_anfechtungsunterlagen/70_Tettenborn_Arbeitsauftrag_20260924.eml](03_korrespondenz/05_anfechtungsunterlagen/70_Tettenborn_Arbeitsauftrag_20260924.eml) | WT-24-118 / Abgleich vor der nächsten Auskunftsrunde |
 
 <!-- END fintech-inventory -->

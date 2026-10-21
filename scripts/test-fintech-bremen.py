@@ -57,7 +57,7 @@ class FintechCase(unittest.TestCase):
                     for item in data[key]}
         self.assertEqual(len(expected), 7)
         self.assertEqual({path.name for path in folder.iterdir()}, expected)
-        self.assertEqual(len(working_dump_archive_pairs(CASE, include_gesamt_pdf=False)), 42)
+        self.assertEqual(len(working_dump_archive_pairs(CASE, include_gesamt_pdf=False)), 62)
         for item in data['documents']:
             document = Document(folder/(item['id']+'.docx'))
             text = '\n'.join(p.text for p in document.paragraphs)
@@ -259,7 +259,11 @@ class FintechCase(unittest.TestCase):
         for key in ('documents', 'workbooks', 'emails'):
             for item in supplements[key]:
                 self.assertIn(item['id'], bookmarks)
-        self.assertEqual(len(bookmarks), 45)
+        additions = json.loads((FIXTURES/'anfechtung-ergaenzung.json').read_text())
+        for key in ('documents', 'workbooks', 'emails'):
+            for item in additions[key]:
+                self.assertIn(item['id'], bookmarks)
+        self.assertEqual(len(bookmarks), 65)
         self.assertEqual(pdf_content_errors((CASE/'gesamt-pdf'/(SLUG+'_gesamt.pdf')).read_bytes()), [])
 
     def test_release_archives_match_sources(self):
@@ -291,6 +295,10 @@ class FintechCase(unittest.TestCase):
                 '46_Kroeger_Kontoabgleich_20260611': 1,
                 '47_Posteingang_Fristen_20260922': 2,
             }
+            additions = json.loads((FIXTURES/'anfechtung-ergaenzung.json').read_text())
+            expected_pages.update({d['id']: 1 if d['format'] == 'pdf' else 2 for d in additions['documents']})
+            expected_pages.update({d['id']: 2 for d in additions['workbooks']})
+            expected_pages.update({d['id']: 1 for d in additions['emails']})
             for stem, count in expected_pages.items():
                 matches = [name for name in archive.namelist() if Path(name).stem == stem]
                 self.assertEqual(len(matches), 1)
@@ -311,7 +319,7 @@ class FintechCase(unittest.TestCase):
                     self.assertIn(attachment, re.sub(r'\s+', '', text))
                     self.assertIn('Anlagen', text)
             pages = sum(len(PdfReader(io.BytesIO(archive.read(name))).pages) for name in archive.namelist() if name.endswith('.pdf'))
-            self.assertEqual(len(PdfReader(CASE/'gesamt-pdf'/(SLUG+'_gesamt.pdf')).pages), pages+2)
+            self.assertEqual(len(PdfReader(CASE/'gesamt-pdf'/(SLUG+'_gesamt.pdf')).pages), pages+3)
 
 
 if __name__ == '__main__':

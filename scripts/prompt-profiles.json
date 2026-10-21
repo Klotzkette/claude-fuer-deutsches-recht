@@ -2,8 +2,14 @@
   "schema_version": 1,
   "plugins": {
     "un-kaufrecht-cisg": {
-      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
-      "formats": ["md"],
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md"
+      ],
       "megaprompt": false,
       "hand_curated": true
     },
@@ -639,6 +645,19 @@
       "hand_curated": true
     },
     "ki-halluzinationsreduzierer": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "insolvenzanfechtung": {
       "standalone": [
         "werkstatt",
         "schnellstart",

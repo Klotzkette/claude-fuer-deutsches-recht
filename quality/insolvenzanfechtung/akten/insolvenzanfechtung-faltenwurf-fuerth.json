@@ -1,0 +1,159 @@
+{
+  "slug": "insolvenzanfechtung-faltenwurf-fuerth",
+  "documents": 24,
+  "pages": 24,
+  "formats": {
+    ".docx": 6,
+    ".pdf": 8,
+    ".eml": 6,
+    ".txt": 2,
+    ".xlsx": 2
+  },
+  "font": "Times New Roman",
+  "files": [
+    {
+      "file": "01_Mandat_Gundula.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "30fee065161be0a0980a8a04c57fa49076c455f5946b9b1f7c6df1fe5bf727b5"
+    },
+    {
+      "file": "02_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "a50a6939a57a0c95c1dabd172b7e8524f2bb244db921314092e15a9f51569b05"
+    },
+    {
+      "file": "03_Gesellschafterstand.pdf",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "b9355cfcb27b4b1b3c029c83fda459ff926853c42e76d2c377fab39a3aa9fd53"
+    },
+    {
+      "file": "04_Darlehensvertrag_Gundula.docx",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "b362c9ffb6f30a6243329008ddb31890662ee84a2ae9bc8d1fe95aa988d3546e"
+    },
+    {
+      "file": "05_Sicherungsvertrag.docx",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "9408cbdfda3bfdb713c2f6dfab7ccde3ce989f5c964ac7a926643500272120fc"
+    },
+    {
+      "file": "06_Maschinenrechnung.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "2f5d8dea02cf78f302e72326e852384222c14b21189e483659b0779d4b54ec5a"
+    },
+    {
+      "file": "07_Gundula_Rueckzahlungswunsch.eml",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "b22b90668c96994fcbdfe2aeeb9f5b6e226fab0ae53ef26cafefbd0cc845e4f0"
+    },
+    {
+      "file": "08_Yara_Liquiditaet.eml",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "f25c55504c627c52b8f04b0ece8eef2de971132445705603ff8f57c3a26794cf"
+    },
+    {
+      "file": "09_Zahlungsfreigabe.docx",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "e19af7dfcf12b6a59a6cbfa4b40ae5c5c9dd084506e83bad71bfb62573135fe0"
+    },
+    {
+      "file": "10_Bank_Buergschaft.pdf",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "5dd46e6c90e961840dfa68561dd345ed9ce52f30354961c4f20a984ce14c575d"
+    },
+    {
+      "file": "11_Bank_Rueckfuehrung.eml",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "6985ad0d84f0b08eb1280747f32c71030b62f19f4c1ab88859cc52ebc36d22f5"
+    },
+    {
+      "file": "12_Bank_Bestaetigung.pdf",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "fabc9e33f122a64a6c212796b255aac5ce4ddc2995438521fb681a450c62f6b3"
+    },
+    {
+      "file": "13_Leopold_Belegumschlag.txt",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "2489bc377d2327c995f55d08361f7727fc2f524fc639ecbec15e05d8c17e241a"
+    },
+    {
+      "file": "14_Schaumstoffrechnung.pdf",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "c96ccc235484f454e0c5cbd04fadfa6b458a371962d8b6f63fe307f75adec429"
+    },
+    {
+      "file": "15_Reisekosten.pdf",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "dc8f2ff195b4ab8e9c3b3ee6daf7ecef7f38a97131c86d94d0b3d6bda22465a6"
+    },
+    {
+      "file": "16_Kontoauszug_Auswahl.pdf",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "86acac6179d42e673263c741d93c6ff4a6937ad07b4f98fda75263ef2f2b0c02"
+    },
+    {
+      "file": "17_Darlehenskonten.xlsx",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "ad9105a790a6d769d9f869ab074a7a1a540c65c73a159439242b951e72be8160"
+    },
+    {
+      "file": "18_Bank_Abgleich.xlsx",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "0f46bd1a8d00fa16b0a0fcf93e378d32577e353d14485ddaf730b203ef0ccf2f"
+    },
+    {
+      "file": "19_Rueckforderung_Gundula.docx",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "d1f295c478e49f189b0637663f4acb30537d70a6d5477f89b3388643989727c0"
+    },
+    {
+      "file": "20_Auskunft_Haderlein.eml",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "e39068d7c90d12838f9c2f1bd4ddc9332a46f492a89f180667352e84315d127f"
+    },
+    {
+      "file": "21_Antwort_Haderlein.eml",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "038190c60ae9a472c070e15ddd9fbd4542cc9e6d2710c1d556fc18e5212fc932"
+    },
+    {
+      "file": "22_Maschinenservice.eml",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "bff494e8ba5e76c2d1f6076bbc1a09c1945857f6f774e3549cb75d621bf9bcba"
+    },
+    {
+      "file": "23_Familienchat.txt",
+      "pages": 1,
+      "start_page": 23,
+      "sha256": "5aa05f2a50d7807710aad5fe7667e173485a27e44abd1950d89210324b1d5fcc"
+    },
+    {
+      "file": "24_Anwaltsnotiz.docx",
+      "pages": 1,
+      "start_page": 24,
+      "sha256": "b0e3d0b247ffdfbce46832a247cec22936e7dd4f9ced565b623ad500946824ab"
+    }
+  ]
+}

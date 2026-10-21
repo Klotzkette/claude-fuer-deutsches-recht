@@ -1,0 +1,519 @@
+[
+  {
+    "slug": "insolvenzanfechtung-blechliebe-bamberg",
+    "title": "Blechliebe und die letzte Stahllieferung",
+    "summary": "Ein Bamberger Metallbaubetrieb bezahlt alte Lieferantenrechnungen in Raten und kauft gleichzeitig neues Material gegen Vorauszahlung. Nach der Verfahrenseröffnung verlangt die Verwalterin Geld zurück. Vertrieb, Buchhaltung und Geschäftsführung erinnern sich unterschiedlich an die damaligen Gespräche.",
+    "files": [
+      {
+        "name": "01_Mandat_Raban.docx",
+        "date": "12.10.2026",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Rechtsanwalt Ottokar Feulner\nKanzlei Feulner und Aydin | Am Alten Tor 12, 96047 Bamberg",
+        "title": "Bitte prüfen Sie die Rückforderung von 34140 Euro",
+        "body": "Sehr geehrter Herr Feulner,\n\nFrau Dr. Hinterleitner fordert 34.140,00 EUR von uns. Ich bitte Sie zunächst um eine schriftliche Einschätzung und eine Antwort an sie. Eine Klage ist uns bisher nicht zugestellt worden. Bitte räumen Sie keine Forderung ein und bieten Sie noch keinen Vergleich an. Wir haben 19 Beschäftigte; eine sofortige Rückzahlung würde unsere für November bestellte Bandstahlcharge treffen. Unsere eigenen Lieferanten wollen trotzdem pünktlich bezahlt werden.\n\nBlechliebe war seit 2018 Kunde. Ich kenne Mila Hutzler von der Handwerksmesse, wir sind aber weder verwandt noch geschäftlich beteiligt. Im Winter waren mehrere Baustellen stehen geblieben. Unser Außendienstler Kunibert Grell sagte, es hänge an einem einzigen säumigen Auftraggeber. Unsere Buchhalterin Erna Wölfel war weniger beruhigt: Sie musste jeder Rate hinterhertelefonieren. Dass beide dieselben Informationen hatten, glaube ich nicht. Bitte sprechen Sie mit ihnen getrennt.\n\nDie 7.140,00 EUR Ende Mai waren nach meiner Erinnerung für eine neue Lieferung, die wir ohne Vorkasse nicht verladen hätten. Die Verwalterin nimmt diesen Betrag dennoch in ihre Summe auf. Die Rechnung und das unterschriebene Ausgabeblatt liegen bei. Vom ursprünglichen offenen Bestand von 35.700,00 EUR sind außerdem 8.700,00 EUR unbezahlt geblieben. Diesen Rest haben wir noch nicht zur Tabelle angemeldet.\n\nDie unterschriebene Abtretung haben wir in einem anderen Ordner gefunden. Ein Geldbetrag ist daraus nicht eingegangen. Ich wusste nicht, dass Erna dem Baukunden damals schon geschrieben hatte. Bitte prüfen Sie daher auch, ob wir die Erklärung jetzt einfach zurückgeben dürfen. Ich möchte niemandem eine Zusage machen, die unsere Lage verschlechtert.\n\nDie Buchhaltung hat die beigefügten Excel-Dateien am Freitag aus ihrem Export aufgebaut. Sie sind kein vollständiger Liquiditätsstatus von Blechliebe. Wir kennen weder alle Bankkonten noch sämtliche anderen Gläubiger. Für Rückfragen erreichen Sie mich unter farah.riedmueller@raban.example.\n\nMit freundlichen Grüßen\nFarah Riedmüller"
+      },
+      {
+        "name": "02_Eroeffnungsbeschluss.pdf",
+        "date": "01.09.2026",
+        "author": "Amtsgericht Bamberg | Insolvenzgericht\nVerfahren 4 IN 184/26",
+        "to": "Blechliebe Metallbau GmbH und Beteiligte",
+        "title": "Eröffnung des Insolvenzverfahrens",
+        "body": "In dem Insolvenzverfahren über das Vermögen der Blechliebe Metallbau GmbH, Falzbogen 18, 96052 Bamberg, vertreten durch die Geschäftsführerin Mila Hutzler, wird am 1. September 2026 um 09:00 Uhr das Insolvenzverfahren eröffnet. Zur Insolvenzverwalterin wird Rechtsanwältin Dr. Selma Hinterleitner, Zinngasse 9, 96047 Bamberg, bestellt.\n\nDer Eigenantrag der Gesellschaft ist am 15. Juni 2026 um 11:18 Uhr beim Insolvenzgericht eingegangen. Die Eröffnung erfolgt wegen Zahlungsunfähigkeit. Forderungen sind bis zum 12. Oktober 2026 bei der Insolvenzverwalterin anzumelden. Der Prüfungstermin wird auf den 10. November 2026 bestimmt. Die näheren organisatorischen Angaben werden den Gläubigern gesondert übermittelt.\n\nMit der Verfahrenseröffnung geht die Verwaltungs- und Verfügungsbefugnis über das zur Insolvenzmasse gehörende Vermögen auf die Insolvenzverwalterin über. Zahlungen an die Schuldnerin sind nur noch nach Abstimmung mit der Verwalterin zu leisten. Aussonderungs- und Absonderungsrechte sind mit ihren Belegen anzuzeigen.\n\nDer vorliegende Beschluss enthält keine Feststellung, seit welchem früheren Tag die Gesellschaft zahlungsunfähig war. Er entscheidet auch nicht über die Rückgewähr einzelner Zahlungen an Raban Stahlhandel GmbH.\n\nAusgefertigt am 2. September 2026. Elektronische Namenswiedergabe für die Gläubigerakte: Anneliese Körber, Urkundsbeamtin der Geschäftsstelle."
+      },
+      {
+        "name": "03_Liefervereinbarung.docx",
+        "date": "03.11.2025",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Liefervereinbarung für zugeschnittene Stahlbleche",
+        "body": "1 Vertragsgegenstand\n\nRaban Stahlhandel GmbH liefert der Blechliebe Metallbau GmbH nach jeweils bestätigtem Einzelabruf zugeschnittene Stahlbleche und gekantete Profile. Die Maße werden im Einzelauftrag festgehalten. Ein bloßes Angebot bindet keine Lagerware. Die Käuferin kontrolliert bei der Übergabe Stückzahl und erkennbare Transportschäden und teilt erkennbare Abweichungen unverzüglich mit.\n\n2 Preis und Zahlung\n\nDie bestätigten Einzelpreise verstehen sich zuzüglich Umsatzsteuer. Rechnungen sind 30 Kalendertage nach Zugang ohne Abzug zahlbar. Eine Änderung der Zahlungsweise für neue Aufträge bedarf einer gesonderten Vereinbarung. Zahlungen mit ausdrücklich bezeichneten Rechnungsnummern werden auf diese Rechnungen gebucht; ohne eindeutige Angabe fragt die Buchhaltung bei der Käuferin nach. Ein Skonto ist nicht vereinbart.\n\n3 Übergabe und Eigentum\n\nDie Lieferung erfolgt ab Lager Bamberg. Der Verkäufer behält sich das Eigentum an der jeweils gelieferten Ware bis zur vollständigen Zahlung ihres Kaufpreises vor. Eine Abtretung von Kundenforderungen oder eine Sicherung anderer Rechnungen ist mit diesem Vertrag nicht vereinbart. Bei Verarbeitung oder Verbindung werden die Beteiligten die konkrete Sachlage gesondert klären; ein pauschaler Eigentumsanspruch am gesamten Werk der Käuferin wird nicht eingeräumt.\n\n4 Reklamationen und Ansprechpartner\n\nMengen- und Maßabweichungen werden anhand der Auftragsnummer, Fotos und des unterschriebenen Lieferscheins geklärt. Frau Erna Wölfel ist Ansprechpartnerin für Buchungen; Herr Kunibert Grell ist für Liefertermine zuständig. Beide dürfen Zahlungserinnerungen versenden. Einen Forderungsverzicht oder eine neue Sicherheit vereinbaren nur die Geschäftsführerinnen schriftlich.\n\n5 Abschluss\n\nDie Vereinbarung ersetzt die Konditionenliste vom 5. Februar 2023. Sie enthält keine Mindestabnahmepflicht. Die beiden Unternehmen schließen sie am 3. November 2025 in Bamberg. Für Raban Stahlhandel GmbH zeichnet Farah Riedmüller, für Blechliebe Metallbau GmbH zeichnet Mila Hutzler. Beide unterschriebenen Ausfertigungen wurden in den jeweiligen Vertragsordner übernommen."
+      },
+      {
+        "name": "04_Rechnung_2025_118.pdf",
+        "date": "15.11.2025",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Rechnung 2025-118",
+        "body": "Kundennummer BL-208. Auftragsbezug: S235JR Stahlbleche 8 mm, 120 Zuschnitte für das Projekt Schottenbau Süd. Die Ware wurde am Rechnungsdatum an den Fahrer der Blechliebe Metallbau GmbH übergeben. Die Mengen wurden auf dem zugehörigen Ausgabeblatt bestätigt. Eine Reklamation ist bis zur Erstellung dieser Rechnung nicht eingegangen.\n\nWarenwert netto 12.000,00 EUR. Umsatzsteuer 19 Prozent: 2.280,00 EUR. Rechnungsbetrag brutto 14.280,00 EUR. Die ausgewiesenen Beträge sind ohne Skonto bis zum 15.12.2025 zu zahlen. Bitte verwenden Sie als Verwendungszweck ausschließlich die Rechnungsnummer 2025-118.\n\nZahlungsempfänger ist Raban Stahlhandel GmbH. Die Zahlung erfolgt auf das in den freigegebenen Stammdaten hinterlegte Geschäftskonto mit Endziffern 1186. Eine Kontoänderung wird nicht allein per E-Mail veranlasst. Für eine Rückfrage zur Rechnung schreiben Sie bitte an erna.woelfel@raban.example.\n\nDie Preisbildung und die beschriebenen Leistungen beruhen auf dem bestätigten Abruf. Montageleistungen auf der Baustelle sind nicht enthalten. Paletten wurden zurückgegeben und werden nicht berechnet. Die Ausfertigung gehört zur Buchhaltung; sie enthält noch keinen Vermerk über spätere Zahlungseingänge."
+      },
+      {
+        "name": "05_Rechnung_2026_014.pdf",
+        "date": "16.01.2026",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Rechnung 2026-014",
+        "body": "Kundennummer BL-208. Auftragsbezug: Gekantete Treppenwangen und 48 Konsolen für das Projekt Speicherhof. Die Ware wurde am Rechnungsdatum an den Fahrer der Blechliebe Metallbau GmbH übergeben. Die Mengen wurden auf dem zugehörigen Ausgabeblatt bestätigt. Eine Reklamation ist bis zur Erstellung dieser Rechnung nicht eingegangen.\n\nWarenwert netto 8.000,00 EUR. Umsatzsteuer 19 Prozent: 1.520,00 EUR. Rechnungsbetrag brutto 9.520,00 EUR. Die ausgewiesenen Beträge sind ohne Skonto bis zum 15.02.2026 zu zahlen. Bitte verwenden Sie als Verwendungszweck ausschließlich die Rechnungsnummer 2026-014.\n\nZahlungsempfänger ist Raban Stahlhandel GmbH. Die Zahlung erfolgt auf das in den freigegebenen Stammdaten hinterlegte Geschäftskonto mit Endziffern 1186. Eine Kontoänderung wird nicht allein per E-Mail veranlasst. Für eine Rückfrage zur Rechnung schreiben Sie bitte an erna.woelfel@raban.example.\n\nDie Preisbildung und die beschriebenen Leistungen beruhen auf dem bestätigten Abruf. Montageleistungen auf der Baustelle sind nicht enthalten. Paletten wurden zurückgegeben und werden nicht berechnet. Die Ausfertigung gehört zur Buchhaltung; sie enthält noch keinen Vermerk über spätere Zahlungseingänge."
+      },
+      {
+        "name": "06_Rechnung_2026_032.pdf",
+        "date": "13.02.2026",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Rechnung 2026-032",
+        "body": "Kundennummer BL-208. Auftragsbezug: Lasergeschnittene Geländerfüllungen und Kantenprofile für das Projekt Uferhaus. Die Ware wurde am Rechnungsdatum an den Fahrer der Blechliebe Metallbau GmbH übergeben. Die Mengen wurden auf dem zugehörigen Ausgabeblatt bestätigt. Eine Reklamation ist bis zur Erstellung dieser Rechnung nicht eingegangen.\n\nWarenwert netto 10.000,00 EUR. Umsatzsteuer 19 Prozent: 1.900,00 EUR. Rechnungsbetrag brutto 11.900,00 EUR. Die ausgewiesenen Beträge sind ohne Skonto bis zum 15.03.2026 zu zahlen. Bitte verwenden Sie als Verwendungszweck ausschließlich die Rechnungsnummer 2026-032.\n\nZahlungsempfänger ist Raban Stahlhandel GmbH. Die Zahlung erfolgt auf das in den freigegebenen Stammdaten hinterlegte Geschäftskonto mit Endziffern 1186. Eine Kontoänderung wird nicht allein per E-Mail veranlasst. Für eine Rückfrage zur Rechnung schreiben Sie bitte an erna.woelfel@raban.example.\n\nDie Preisbildung und die beschriebenen Leistungen beruhen auf dem bestätigten Abruf. Montageleistungen auf der Baustelle sind nicht enthalten. Paletten wurden zurückgegeben und werden nicht berechnet. Die Ausfertigung gehört zur Buchhaltung; sie enthält noch keinen Vermerk über spätere Zahlungseingänge."
+      },
+      {
+        "name": "07_Mahnung.eml",
+        "date": "2026-02-20T09:12:00+01:00",
+        "author": "Erna Wölfel <erna.woelfel@raban.example>",
+        "to": "Mila Hutzler <mila.hutzler@blechliebe.example>",
+        "title": "Offene Rechnungen BL-208",
+        "body": "Sehr geehrte Frau Hutzler,\n\nzu 2025-118 und 2026-014 fehlen uns zusammen 23.800,00 EUR. Die Novemberrechnung ist seit mehr als zwei Monaten fällig. Am Telefon am 9. Februar hatten Sie den Zahlungseingang Ihres Baukunden angekündigt. Bis heute sehe ich keine Überweisung. Bitte teilen Sie mir bis Dienstag konkret mit, wann welche Rechnung bezahlt wird.\n\nDie neue Rechnung 2026-032 über 11.900,00 EUR ist in dieser Mahnsumme noch nicht enthalten; sie wird erst am 15. März fällig. Herr Grell hat mir gesagt, bei Schottenbau werde eine Schlussrechnung geprüft. Mir liegt dazu kein Beleg vor. Ich kann deshalb unseren internen Mahnlauf nicht allein wegen dieser Aussage zurücksetzen.\n\nBitte senden Sie keinen Screenshot eines Überweisungsentwurfs. Entscheidend ist für uns die tatsächliche Buchung. Bei Rückfragen zu Mengen oder Preisen nennen Sie die Position; bislang haben wir keine Beanstandung erhalten.\n\nFreundliche Grüße\nErna Wölfel",
+        "attachments": [
+          "04_Rechnung_2025_118.pdf",
+          "05_Rechnung_2026_014.pdf"
+        ]
+      },
+      {
+        "name": "08_Antwort_Blechliebe.eml",
+        "date": "2026-02-24T17:28:00+01:00",
+        "author": "Mila Hutzler <mila.hutzler@blechliebe.example>",
+        "to": "Erna Wölfel <erna.woelfel@raban.example>",
+        "title": "AW Offene Rechnungen BL-208",
+        "body": "Sehr geehrte Frau Wölfel,\n\nich bestreite Ihre Rechnungen nicht. Schottenbau hält uns wegen der Abnahme noch 41.650,00 EUR zurück. Der Bauleiter hat am Montag eine Auszahlung im März in Aussicht gestellt. Eine schriftliche Zusage der Geschäftsführung habe ich nicht. Unsere Löhne und die laufenden Materiallieferungen müssen wir bis dahin aus den übrigen Eingängen zahlen.\n\nIch kann Ihnen heute keine vollständige Zahlung versprechen. Bitte lassen Sie uns mit 6.000,00 EUR im März beginnen und dann monatlich denselben Betrag zahlen. Ich brauche die Zuschnitte für die laufenden Baustellen weiter. Wenn Sie neue Aufträge nur gegen Vorkasse liefern, müssen wir sie entsprechend einzeln abstimmen.\n\nVon einem Insolvenzantrag ist bei uns nicht die Rede. Ich bin aber ehrlich: Zwei Kunden können nicht gleichzeitig noch einmal sechs Wochen später zahlen. Traugott hat die offenen Posten heute noch einmal durchgesehen. Er wird Ihnen eine Zahlungsübersicht schicken; sie enthält nur Ihren Lieferantenposten und ist keine Übersicht über unsere gesamte Firma.\n\nMit freundlichen Grüßen\nMila Hutzler",
+        "reply_to": "07_Mahnung.eml"
+      },
+      {
+        "name": "09_Ratenvereinbarung.docx",
+        "date": "05.03.2026",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Vereinbarung über offene Lieferantenrechnungen",
+        "body": "1 Abgegrenzter Bestand\n\nDie Parteien stellen einen offenen Rechnungsbestand von 35.700,00 EUR aus den Rechnungen 2025-118, 2026-014 und 2026-032 fest. Die letzte Rechnung ist derzeit noch nicht fällig. Ihre Aufnahme in diese Vereinbarung dient der gemeinsamen Zahlungsplanung. Sie ist kein Verzicht auf den Kaufpreis und keine Erklärung über andere Gläubiger der Käuferin.\n\n2 Teilzahlungen\n\nBlechliebe zahlt am 12. März, 10. April, 11. Mai, 10. Juni und 10. Juli 2026 jeweils 6.000,00 EUR und am 10. August 2026 die verbleibenden 5.700,00 EUR. Die Parteien vereinbaren diese Zahlungszeitpunkte anstelle der ursprünglichen Fälligkeiten. Die Zahlungen werden zunächst auf die älteste der drei Rechnungen gebucht. Eine gesonderte Mahnkosten- oder Zinszahlung wird in diesem Plan nicht verlangt.\n\n3 Neue Lieferungen\n\nNeue Aufträge sind nicht in diesem Plan enthalten. Sie können einzeln gegen Vorauszahlung vereinbart werden. Für eine solche Lieferung bezeichnet die Käuferin im Verwendungszweck die neue Rechnung; diese Zahlung wird nicht auf die Altrechnungen umgebucht. Eine automatische Pflicht des Verkäufers, weitere Aufträge anzunehmen, entsteht nicht.\n\n4 Störung des Plans\n\nWenn eine Rate nicht rechtzeitig eingeht, nehmen die Parteien unverzüglich Kontakt auf. Ein ausgebliebener Zahlungseingang macht nicht ohne weitere Erklärung automatisch den gesamten Restbetrag fällig. Änderungen werden mit Datum und betroffener Rate schriftlich festgehalten. Eine zusätzliche Sicherheit wird mit dieser Vereinbarung nicht bestellt.\n\n5 Unterschriften\n\nBamberg, 5. März 2026. Farah Riedmüller für Raban Stahlhandel GmbH und Mila Hutzler für Blechliebe Metallbau GmbH. Beide Namenszüge befinden sich auf den ausgetauschten unterschriebenen Ausfertigungen."
+      },
+      {
+        "name": "10_Ratennachfrage.eml",
+        "date": "2026-05-08T10:03:00+02:00",
+        "author": "Erna Wölfel <erna.woelfel@raban.example>",
+        "to": "Traugott Herold <traugott.herold@blechliebe.example>",
+        "title": "Mai Rate und Abtretungsblatt",
+        "body": "Guten Tag Herr Herold,\n\nam Montag ist die dritte Rate fällig. Bitte bestätigen Sie nur, ob die 6.000,00 EUR angewiesen werden. Herr Grell hat mir gestern erzählt, die zugesagte Abnahmezahlung sei wieder verschoben worden. Frau Riedmüller möchte deshalb zusätzlich die von Frau Hutzler angesprochene Forderungsabtretung prüfen.\n\nIch schicke keine Pfändung und es gibt auch keinen gerichtlichen Titel. Wir können lediglich entscheiden, ob wir weitere Aufträge annehmen. Die bereits unterschriebene Ratenvereinbarung bleibt aus meiner Sicht zunächst bestehen. Ob Frau Riedmüller eine andere Erklärung abgibt, muss sie selbst sagen.\n\nBitte schicken Sie uns für die Abtretung die Rechnung an Schottenbau und die aktuelle schriftliche Reaktion des Baukunden. Ein Ausdruck aus Ihrem offenen Postenbuch sagt noch nicht, was der Kunde anerkennt.\n\nViele Grüße\nErna Wölfel"
+      },
+      {
+        "name": "11_Notiz_Herold.docx",
+        "date": "08.05.2026",
+        "author": "Traugott Herold | Blechliebe Metallbau GmbH\nBuchhaltung | traugott.herold@blechliebe.example",
+        "to": "Mila Hutzler | intern",
+        "title": "Stand der Zahlungen am Freitag",
+        "body": "Mila,\n\ndie Rate an Raban am Montag können wir aus dem gestern eingegangenen Abschlag von Heller Ausbau zahlen. Danach verbleiben auf diesem Konto voraussichtlich 4.630,00 EUR. Ich habe die Leasingrate und zwei kleinere Rechnungen für nächste Woche noch nicht freigegeben. Das ist keine Aussage, dass diese Forderungen gestundet wären. Mit dem Finanzamt habe ich nicht gesprochen; Deine Steuerberaterin wollte sich darum kümmern.\n\nSchottenbau bestreitet weiterhin 16.660,00 EUR wegen der Geländerbefestigungen. Der Bauleiter hat die 24.990,00 EUR für den übrigen Teil telefonisch wieder in Aussicht gestellt. In der Mail vom Mittwoch steht aber ausdrücklich erst nach Prüfung durch die Geschäftsführung. Bitte sage Herrn Grell deshalb nicht, die ganze Schlussrechnung sei sicher für nächste Woche zugesagt.\n\nDie Abtretung betrifft nur den Teilbetrag von 16.660,00 EUR. Gerade dieser ist streitig. Ich verstehe nicht, warum Raban ihn besser einziehen können sollte als wir. Vielleicht möchte Frau Riedmüller nur etwas Schriftliches für ihre Kreditversicherung. Ich würde dort weder den Wert mit dem Nennbetrag gleichsetzen noch eine kurzfristige Auszahlung einplanen.\n\nUnsere Excel-Zahlungsliste erfasst nur das Geschäftskonto mit Endziffern 4402. Das alte Konto bei der Kreisbank ist darin nicht enthalten. Mir fehlt noch der April-Auszug. Auch die für Juni angekündigten Eingänge sind keine Bankguthaben. Bitte hebe diesen Zettel auf; im Besprechungsbuch vom Mittwoch steht nur Raban nächste Woche.\n\nTraugott, 08.05.2026, 16:25 Uhr."
+      },
+      {
+        "name": "12_Schottenbau_Einbehalt.pdf",
+        "date": "06.05.2026",
+        "author": "Schottenbau Projekt GmbH\nProjektleitung Speicherhof | Stegweg 6, 96049 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Schlussrechnung SB24 und offene Befestigungspunkte",
+        "body": "Sehr geehrte Frau Hutzler,\n\nwir bestätigen den Eingang Ihrer Schlussrechnung über 41.650,00 EUR. Hiervon betreffen 16.660,00 EUR die Geländer am Treppenhaus Süd. Zu diesen Positionen fehlen nach unserer Auffassung die mit Ihrem Monteur am 22. April besprochenen Befestigungsnachweise. Solange die Prüfung nicht abgeschlossen ist, geben wir diesen Teil nicht zur Zahlung frei.\n\nDie übrigen 24.990,00 EUR sind technisch geprüft. Die abschließende Freigabe liegt jedoch bei unserer kaufmännischen Geschäftsführung. Der Bauleiter hat Ihnen am Telefon den 15. Mai als möglichen Zahlungslauf genannt. Ich bestätige damit keinen verbindlichen Zahlungstermin und auch keine Aussage über die bestrittenen 16.660,00 EUR.\n\nBitte senden Sie die Nachweise an das Projektpostfach. Die Übersendung einer Abtretungsanzeige ersetzt die technische Aufklärung nicht. Gegenüber einem neuen Forderungsinhaber würden wir die vorhandenen Einwendungen ebenfalls mitteilen. Ein Anerkenntnis der Gesamtforderung ist mit diesem Schreiben nicht verbunden.\n\nMit freundlichen Grüßen\nIlse Morgenroth\nProjektkauffrau"
+      },
+      {
+        "name": "13_Sicherungsabtretung.docx",
+        "date": "08.05.2026",
+        "author": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "to": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "title": "Sicherungsabtretung einer bezeichneten Kundenforderung",
+        "body": "1 Abgetretene Forderung\n\nBlechliebe Metallbau GmbH tritt an Raban Stahlhandel GmbH einen Teilbetrag von 16.660,00 EUR aus ihrer Schlussrechnung SB24 vom 17. April 2026 gegen Schottenbau Projekt GmbH, Stegweg 6, 96049 Bamberg, ab. Der Teilbetrag betrifft die Positionen 8 bis 11 Geländer Treppenhaus Süd. Raban nimmt die Abtretung an. Die Abtretung dient ausschließlich der Sicherung des nach der Zahlung vom 10. April noch offenen Altbestands von 23.700,00 EUR aus der Ratenvereinbarung vom 5. März.\n\n2 Kenntnis des Streits\n\nBlechliebe hat Raban das Schreiben der Schottenbau Projekt GmbH vom 6. Mai übergeben. Die Forderung ist in dem bezeichneten Teil streitig. Blechliebe übernimmt keine Garantie, dass der Teilbetrag ohne weitere Sachaufklärung oder sofort realisiert werden kann. Die Parteien setzen den Nennbetrag nicht als bereits vorhandenes Bankguthaben an.\n\n3 Einziehung und Abrechnung\n\nRaban darf die Abtretung dem Kunden anzeigen. Einen Vergleich mit einem Forderungsverzicht schließt Raban nur nach vorheriger Abstimmung mit Blechliebe. Eingänge werden auf den gesicherten Altbestand angerechnet. Die Raten laufen bis zu einem tatsächlichen Erlös unverändert weiter. Übersteigende Erlöse sind nach Abrechnung an Blechliebe auszukehren. Bei vollständiger Erfüllung des gesicherten Bestands wird die Sicherheit freigegeben.\n\n4 Abschluss\n\nBamberg, 8. Mai 2026. Unterzeichnet von Mila Hutzler und Farah Riedmüller.\n\nNachträglicher Versandvermerk vom 12.05.2026: Erna Wölfel versandte die Anzeige an Schottenbau. Die Ausfertigung enthält keinen Vermerk über einen Zahlungseingang aus der abgetretenen Forderung."
+      },
+      {
+        "name": "14_Lieferanfrage.eml",
+        "date": "2026-05-26T07:51:00+02:00",
+        "author": "Kunibert Grell <kunibert.grell@raban.example>",
+        "to": "Farah Riedmüller <farah.riedmueller@raban.example>",
+        "title": "Blechliebe braucht sechs Pakete Profile",
+        "body": "Farah,\n\nMila braucht sechs Pakete für Heller Ausbau. Der Kunde soll diesmal einen Materialabschlag direkt vorher zahlen. Ich habe nichts zugesagt außer: Wenn Geld für genau diese neue Lieferung da ist, können wir die Profile ausgeben. Es geht um 6.000,00 EUR netto, also 7.140,00 EUR brutto.\n\nSie sagt, der Rest bei Schottenbau sei praktisch gelöst. Ich habe das Wort praktisch nicht in eine verbindliche Zusage übersetzt. Im Hof ist jedenfalls Betrieb, drei Transporter waren unterwegs und die Leute haben gearbeitet. Was sonst auf den Konten los ist, sehe ich nicht. Erna meint, wir sollten ganz aufhören. Für den neuen Auftrag läge das Material aber noch bei uns, bis die Zahlung da ist.\n\nBitte entscheide selbst. Ich habe dem Fahrer die erste Juniwoche genannt, weil wir am Montag Inventur in der Halle haben. Das ist keine Zusage, alte Schulden gegen frische Ware zu verrechnen.\n\nKunibert"
+      },
+      {
+        "name": "15_Vorkasserechnung_058.pdf",
+        "date": "27.05.2026",
+        "author": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "to": "Blechliebe Metallbau GmbH\nMila Hutzler | Geschäftsführerin\nFalzbogen 18, 96052 Bamberg",
+        "title": "Rechnung 2026 058 und Ausgabevermerk",
+        "body": "Kundennummer BL-208. Sechs Pakete gekantete Stahlprofile für Heller Ausbau, Auftragsnummer HA26072. Warenwert netto 6.000,00 EUR; Umsatzsteuer 19 Prozent 1.140,00 EUR; Gesamtpreis 7.140,00 EUR. Die Zahlung ist vor Abholung erforderlich. Verwendungszweck: ausschließlich 2026-058 Neulieferung Heller.\n\nDie Bestellung umfasst 96 Profile zu je 62,50 EUR netto. Die Ware bleibt bis zur vollständigen Zahlung im Lager des Verkäufers. Der Preis entspricht der seit April gültigen Konditionenliste für diese Menge; ein Aufschlag für alte Außenstände ist nicht eingerechnet. Alte Rechnungen werden mit diesem Kaufpreis nicht getilgt.\n\nBuchhaltungsvermerk vom 29.05.2026, 10:26 Uhr: 7.140,00 EUR auf Konto Endziffern 1186 gutgeschrieben, Verwendungszweck 2026-058 Neulieferung Heller. Freigabe zur Ausgabe durch Erna Wölfel.\n\nAusgabevermerk vom 02.06.2026, 08:18 Uhr: 96 Profile vollständig an Blechliebe-Fahrer Cem Acar übergeben. Zwei Pakete wurden neu umreift. Mengenprüfung durch Lagerist Friedolin Brandner; Fahrer hat den Empfang unterschrieben. Eine Montage- oder Weiterverarbeitungsbestätigung wird damit nicht erklärt."
+      },
+      {
+        "name": "16_Vorkasse_Bestaetigung.eml",
+        "date": "2026-05-29T10:41:00+02:00",
+        "author": "Erna Wölfel <erna.woelfel@raban.example>",
+        "to": "Traugott Herold <traugott.herold@blechliebe.example>",
+        "title": "2026-058 bezahlt Abholung Dienstag",
+        "body": "Guten Tag Herr Herold,\n\ndie 7.140,00 EUR sind eingegangen und ausschließlich auf 2026-058 gebucht. Die alten 17.700,00 EUR bleiben damit unverändert offen. Bitte sorgen Sie dafür, dass Ihr Fahrer die Auftragsnummer HA26072 nennt. Wegen unserer Inventur ist die Ausgabe erst Dienstag ab 08:00 Uhr möglich; Sie hatten dem gestern zugestimmt.\n\nDie laufende Juni-Rate ist eine andere Buchung. Frau Riedmüller hat mich gebeten, nachzufragen, ob Sie diesmal mehr als 6.000,00 EUR leisten können. Eine Änderung des Ratenplans ist damit noch nicht vereinbart. Ich kann Ihrem Fahrer auch keine Altforderung quittieren, wenn er nur die neue Ware abholt.\n\nAnbei die Rechnung. Der Ausgabevermerk wird bei Abholung auf unserer Lagerausfertigung ergänzt. Diese E-Mail enthält deshalb noch keinen unterschriebenen Lieferschein.\n\nFreundliche Grüße\nErna Wölfel"
+      },
+      {
+        "name": "17_Kontoauszug_Auswahl.pdf",
+        "date": "15.06.2026",
+        "author": "Wesergrund Bank eG | Geschäftskundenservice\nKonto Blechliebe Endziffern 4402",
+        "to": "Blechliebe Metallbau GmbH | Buchhaltung",
+        "title": "Buchungsbestätigung ausgewählter Überweisungen",
+        "body": "Auf Antrag der Kontoinhaberin werden folgende gebuchte Aufträge bestätigt. Die Liste ist eine Auswahl nach Empfänger und ersetzt keinen vollständigen Kontoauszug.\n\n12.03.2026: Belastung 6.000,00 EUR, Raban Stahlhandel GmbH, Ratenplan BL208 März, Wertstellung 12.03.2026. 10.04.2026: Belastung 6.000,00 EUR, Raban Stahlhandel GmbH, Ratenplan BL208 April, Wertstellung 10.04.2026. 11.05.2026: Belastung 6.000,00 EUR, Raban Stahlhandel GmbH, Ratenplan BL208 Mai, Wertstellung 11.05.2026.\n\n29.05.2026: Belastung 7.140,00 EUR, Raban Stahlhandel GmbH, 2026-058 Neulieferung Heller, Wertstellung 29.05.2026. 09.06.2026: Belastung 9.000,00 EUR, Raban Stahlhandel GmbH, Ratenplan BL208 Juni, Wertstellung 09.06.2026. Sämtliche Aufträge wurden vom Geschäftskonto ausgeführt, nicht vom Privatkonto der Geschäftsführerin.\n\nFür diese fünf Buchungen ist bis zum 15.06.2026 keine Rückbuchung verzeichnet. Die Bestätigung trifft keine Aussage über den Empfangszeitpunkt bei der Empfängerbank, andere Konten, eine vorhandene Kreditlinie oder die Fälligkeit sonstiger Verbindlichkeiten.\n\nErstellt am 15.06.2026 durch den Geschäftskundenservice. Referenz BL4402-1506. Ein Unterschriftsersatz ist für diesen aus dem Buchungssystem erzeugten Auszug vorgesehen."
+      },
+      {
+        "name": "18_Offene_Posten.xlsx",
+        "date": "09.10.2026",
+        "author": "Erna Wölfel | Raban Stahlhandel GmbH",
+        "to": "Farah Riedmüller und Kanzlei Feulner",
+        "title": "Offene Posten Blechliebe",
+        "body": "",
+        "kind": "opos",
+        "rows": [
+          [
+            "2025-118",
+            "2025-12-15",
+            14280,
+            14280,
+            "04_Rechnung_2025_118.pdf"
+          ],
+          [
+            "2026-014",
+            "2026-02-15",
+            9520,
+            9520,
+            "05_Rechnung_2026_014.pdf"
+          ],
+          [
+            "2026-032",
+            "2026-03-15",
+            11900,
+            3200,
+            "06_Rechnung_2026_032.pdf"
+          ],
+          [
+            "2026-058",
+            "2026-05-29",
+            7140,
+            7140,
+            "15_Vorkasserechnung_058.pdf"
+          ]
+        ],
+        "note": "Rekonstruktion vom 09.10.2026 aus Rechnungen und gebuchten Eingängen. Spalte F berechnet den offenen Betrag; ursprüngliche Fälligkeit ist nicht mit den später vereinbarten Ratenterminen gleichzusetzen. Nur Raban-Forderungen, kein vollständiger Schuldnerstatus."
+      },
+      {
+        "name": "19_Zahlungsjournal.xlsx",
+        "date": "09.10.2026",
+        "author": "Erna Wölfel | Raban Stahlhandel GmbH",
+        "to": "Kanzlei Feulner",
+        "title": "Raten und neue Lieferung",
+        "body": "",
+        "kind": "payments",
+        "rows": [
+          [
+            "2026-03-12",
+            6000,
+            "Altbestand",
+            "17_Kontoauszug_Auswahl.pdf"
+          ],
+          [
+            "2026-04-10",
+            6000,
+            "Altbestand",
+            "17_Kontoauszug_Auswahl.pdf"
+          ],
+          [
+            "2026-05-11",
+            6000,
+            "Altbestand",
+            "17_Kontoauszug_Auswahl.pdf"
+          ],
+          [
+            "2026-05-29",
+            7140,
+            "Neulieferung",
+            "15_Vorkasserechnung_058.pdf"
+          ],
+          [
+            "2026-06-09",
+            9000,
+            "Altbestand",
+            "17_Kontoauszug_Auswahl.pdf"
+          ]
+        ],
+        "note": "Der neue Kaufpreis und alte Raten werden getrennt summiert. Diese Buchungskategorien sind keine Entscheidung über Anfechtbarkeit. Das von der Verwalterin verlangte Gesamtvolumen beträgt 34.140,00 EUR."
+      },
+      {
+        "name": "20_Rueckforderung.docx",
+        "date": "06.10.2026",
+        "author": "Dr. Selma Hinterleitner\nInsolvenzverwalterin über das Vermögen der Blechliebe Metallbau GmbH\nKanzlei Hinterleitner | Zinngasse 9, 96047 Bamberg",
+        "to": "Raban Stahlhandel GmbH\nFarah Riedmüller | Geschäftsführung\nWalzweg 7, 96052 Bamberg",
+        "title": "Rückgewähr von Zahlungen der Blechliebe Metallbau GmbH",
+        "body": "Sehr geehrte Frau Riedmüller,\n\nals Insolvenzverwalterin nehme ich Sie auf Rückzahlung von insgesamt 34.140,00 EUR in Anspruch. Der Betrag setzt sich aus den Zahlungen vom 12. März, 10. April und 11. Mai 2026 zu jeweils 6.000,00 EUR, vom 29. Mai über 7.140,00 EUR sowie vom 9. Juni über 9.000,00 EUR zusammen. Die Zahlungen sind in der beigefügten Auswahl der Bankbuchungen bezeichnet. Bitte teilen Sie mir bis zum 27. Oktober 2026 mit, ob Sie die Forderung erfüllen.\n\nNach den bisher ausgewerteten Unterlagen konnte die Schuldnerin spätestens im März ihre fälligen Verbindlichkeiten nicht mehr vollständig begleichen. Sie kannte diesen Zustand. Aus meiner Sicht waren auch Ihnen durch lange Zahlungsrückstände, wiederholte Nachfragen und die Bitte um Ratenzahlung die erheblichen Schwierigkeiten bekannt. Ich stütze die Rückforderung auf die einschlägigen Anfechtungsvorschriften der Insolvenzordnung, insbesondere die Vorsatz- und Deckungsanfechtung. Die Zeiträume und Voraussetzungen sind für die einzelnen Zahlungen gesondert zu beurteilen.\n\nFür den Betrag von 7.140,00 EUR bitte ich zusätzlich um die Bestellung, den Zahlungsnachweis und einen datierten Beleg über die vollständige Warenübergabe. In unserer Schuldnerablage lag zunächst nur die Rechnung ohne Ausgabevermerk. Ich habe diese Zahlung deshalb in die Rückforderung aufgenommen. Sie können hierzu selbstverständlich konkrete Einwendungen und Belege vorlegen; die bloße Bezeichnung Vorkasse beantwortet die rechtlichen Voraussetzungen noch nicht.\n\nBitte erläutern Sie außerdem, wann und weshalb die Sicherungsabtretung vom 8. Mai vereinbart wurde, ob sie offen angezeigt wurde und ob daraus bereits Geld geflossen ist. Nach bisherigem Stand verlange ich hierfür keinen zusätzlichen Geldbetrag neben den 34.140,00 EUR. Eine doppelte Erfassung desselben Erlöses ist nicht beabsichtigt.\n\nDie von mir gesetzte Antwortfrist ist eine außergerichtliche Frist dieses Schreibens. Eine gerichtliche Zustellung ist damit nicht verbunden. Ein Anerkenntnis oder ein Verjährungsverzicht wird nicht durch Schweigen ersetzt. Für eine sachliche Abstimmung der Unterlagen steht Ihnen mein Büro unter selma.hinterleitner@hinterleitner.example zur Verfügung.\n\nMit freundlichen Grüßen\nDr. Selma Hinterleitner\nRechtsanwältin als Insolvenzverwalterin"
+      },
+      {
+        "name": "21_Antwort_Kanzlei.eml",
+        "date": "2026-10-13T11:16:00+02:00",
+        "author": "Ottokar Feulner <ottokar.feulner@feulner.example>",
+        "to": "Farah Riedmüller <farah.riedmueller@raban.example>",
+        "title": "Blechliebe Unterlagen und Auftrag",
+        "body": "Sehr geehrte Frau Riedmüller,\n\nich habe das Mandat zur außergerichtlichen Prüfung übernommen. Bitte schicken Sie die unterschriebene Ratenvereinbarung, die gesamte Kommunikation zur neuen Lieferung und die Abtretungsanzeige. Wir sollten die Zahlungseingänge zunächst einzeln auf Rechnung, Fälligkeit, Gegenleistung und Kenntnisstand beziehen. Aus der pauschalen Gesamtsumme folgt noch keine einheitliche Behandlung.\n\nIch werde Frau Dr. Hinterleitner vor Ablauf ihrer Antwortfrist mitteilen, dass ich Sie vertrete und die Unterlagen prüfe. Eine weitergehende Erklärung oder ein Vergleichsangebot senden wir erst nach Ihrer Freigabe. Bitte schreiben Sie nicht parallel, Sie seien wegen der langen Geschäftsbeziehung zur Rückzahlung bereit. Ein freundlicher Gesprächston ist möglich, ohne die Forderung anzuerkennen.\n\nFrau Wölfel soll ihre tatsächlichen Erinnerungen festhalten. Bitte korrigieren Sie ihre Notiz nicht nach einem gemeinsamen Gespräch mit Herrn Grell. Unterschiedliche Wahrnehmungen müssen zunächst erkennbar bleiben.\n\nMit freundlichen Grüßen\nOttokar Feulner"
+      },
+      {
+        "name": "22_Buchhaltung_Anlagen.eml",
+        "date": "2026-10-13T15:37:00+02:00",
+        "author": "Erna Wölfel <erna.woelfel@raban.example>",
+        "to": "Ottokar Feulner <ottokar.feulner@feulner.example>",
+        "title": "Blechliebe Export und meine Buchungen",
+        "body": "Sehr geehrter Herr Feulner,\n\nanbei die beiden am 9. Oktober zusammengestellten Excel-Dateien. Die 9.000,00 EUR im Juni waren 3.000,00 EUR mehr als die nächste vereinbarte Rate. Ich habe sie nach der vereinbarten Reihenfolge auf die ältesten Restposten gebucht. Das bedeutet nicht, dass Schottenbau an uns gezahlt hätte. Von dort kam kein Geld.\n\nNach den 27.000,00 EUR auf den Altbestand bleiben 8.700,00 EUR aus 2026-032 offen. Die 7.140,00 EUR für die neue Lieferung stehen in einer eigenen Zeile. Wenn Sie alles zusammen addieren, kommen Sie auf den Betrag des Rückforderungsschreibens. Für die Lieferantenforderung darf man die Vorauszahlung aber nicht noch einmal auf die alten Rechnungen anrechnen.\n\nIch habe in der Notiz vom Mai keine Aussage über alle Schulden von Blechliebe gemacht. Die Formulierung kann gar nichts mehr zahlen ist meine spätere Zusammenfassung eines nervigen Telefonats. Wörtlich sagte Herr Herold, er müsse diese Woche die Überweisungen einzeln freigeben. Bitte verwenden Sie meine Zusammenfassung nicht als wörtliches Zitat.\n\nFreundliche Grüße\nErna Wölfel",
+        "attachments": [
+          "18_Offene_Posten.xlsx",
+          "19_Zahlungsjournal.xlsx"
+        ]
+      },
+      {
+        "name": "23_Chat_Vertrieb.txt",
+        "date": "27.05.2026",
+        "author": "Raban Stahlhandel GmbH | Kanal Verkauf intern",
+        "to": "Farah Riedmüller und Kunibert Grell",
+        "title": "Ausschnitt aus dem internen Verkaufschat",
+        "body": "Export durch Farah Riedmüller am 13.10.2026. Sichtbarer Zeitraum 27.05.2026, 08:02 bis 08:19 Uhr. Direktnachrichten sind nicht Bestandteil dieses Exports.\n\n08:02 Kunibert: Mila braucht die sechs Pakete wirklich. Wenn wir nichts rausgeben, kann sie Heller nicht fertig machen.\n\n08:05 Farah: Ohne kompletten neuen Kaufpreis bleibt alles hier. Die alten Raten sind davon getrennt. Bitte keine Zusage zur Sicherheit machen.\n\n08:07 Kunibert: Verstanden. Sie sagt, Schottenbau zahlt Freitag. Ich hab gesagt, das hören wir seit Februar.\n\n08:11 Farah: Wenn der Betrag heute oder Freitag kommt, Dienstag Abholung. Montag ist Inventur. Bitte sag nicht, wir hätten einen Einblick in ihre anderen Konten.\n\n08:14 Kunibert: Cem holt ab. Er war gestern mit zwei Kollegen in der Werkstatt. Für mich sieht es nicht nach Stillstand aus.\n\n08:19 Farah: Betrieb im Hof ist das eine, Rechnungen bezahlen das andere. Gib Erna bitte den exakten Auftrag, sonst bucht sie den Eingang auf die falsche Rechnung."
+      },
+      {
+        "name": "24_Telefonnotiz_Grell.txt",
+        "date": "14.10.2026",
+        "author": "Ottokar Feulner | Kanzlei Feulner",
+        "to": "Handakte Raban gegen Hinterleitner",
+        "title": "Telefonat mit Kunibert Grell",
+        "body": "Telefonat am 14.10.2026 von 09:10 bis 09:34 Uhr, Gesprächsnotiz unmittelbar anschließend diktiert. Herr Grell war allein am Telefon.\n\nHerr Grell erinnert sich an häufige Anrufe von Frau Hutzler, nicht an eine ausdrückliche Mitteilung einer Zahlungsunfähigkeit. Sie habe im Februar von einer vorübergehenden Durststrecke gesprochen. Die Aussage bezog er auf den Baukunden Schottenbau. Er hat keinen Kontoauszug und keine vollständige Liste fremder Gläubiger gesehen. Er wusste aber, dass die Novemberrechnung lange offen war und Frau Wölfel die Fortsetzung der Geschäftsbeziehung kritisch sah.\n\nZu der Juni-Zahlung meint Herr Grell, er habe um 9.000,00 EUR gebeten, damit wir im Sommer etwas Luft haben. Ob Frau Hutzler dies als Bedingung weiterer Lieferungen verstanden habe, könne er nicht sagen. Er habe weder einen Gerichtsvollzieher erwähnt noch einen Titel gehabt. Neue Ware sei nach dem 2. Juni nicht mehr geliefert worden.\n\nEr kann nicht mehr sicher zwischen dem Telefonat am 26. Mai und einem Gespräch Anfang Juni unterscheiden. Die Angaben zum laufenden Betrieb stammen von seinem Besuch am 25. Mai. Er war nach dem Insolvenzantrag nicht mehr auf dem Gelände. Die Notiz wurde ihm zur Durchsicht geschickt; eine Rückmeldung liegt am Aktenstand noch nicht vor."
+      }
+    ]
+  },
+  {
+    "slug": "insolvenzanfechtung-faltenwurf-fuerth",
+    "title": "Faltenwurf zwischen Familie und Werkstatt",
+    "summary": "Bei einer Fürther Polstermanufaktur laufen Gesellschafterdarlehen, eine alte Maschinensicherheit und eine familiär verbürgte Banklinie nebeneinander. Nach der Insolvenz streiten die Beteiligten darüber, welche Zahlungen Darlehen tilgten, welche Auslagen ersetzten und wer tatsächlich von einer Bankschuld frei wurde.",
+    "files": [
+      {
+        "name": "01_Mandat_Gundula.docx",
+        "date": "14.10.2026",
+        "author": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "to": "Rechtsanwältin Amira Dörfler\nKanzlei Dörfler | Fadenweg 3, 90762 Fürth",
+        "title": "Die Werkstatt und die Rückforderung",
+        "body": "Sehr geehrte Frau Dörfler,\n\nich bitte Sie, mich wegen der beigefügten Forderung von Herrn Dr. Fichtelmann zu vertreten. Ich habe meiner Tochter und der Firma Geld gegeben, als der neue Zuschneidetisch gekauft werden musste. Jetzt soll ich einen Teil zurückzahlen, obwohl das Geld ursprünglich aus meiner Altersvorsorge kam. Bitte prüfen Sie meine persönliche Lage getrennt von der Lage meiner Tochter. Yara führt die Firma; ich war nicht Geschäftsführerin.\n\nMir gehören 60 Prozent der Geschäftsanteile, Yara hält 33 Prozent und unser langjähriger Polstermeister Leopold Haderlein sieben Prozent. Die Satzung verlangt bei gewöhnlichen Gesellschafterbeschlüssen mehr als die Hälfte der abgegebenen Stimmen. Herr Haderlein ist Mitarbeiter, kein Geschäftsführer. Wir haben im letzten Frühjahr über eine Nachfolge gesprochen; übertragen wurde bis heute nichts. Bitte nehmen Sie nicht an, meine Tochter habe meine Anteile schon bekommen, nur weil sie alle Kunden kennt.\n\nAm 30. Juni kamen 80.000,00 EUR zurück. Ich habe damit eine eigene private Schuld getilgt. Die Firma schuldet mir nach meiner Aufstellung weiterhin 200.000,00 EUR. Die Maschine soll Sicherheit sein. Ich weiß nicht, ob die Nummer auf dem Sicherungsblatt mit dem neuen Typenschild übereinstimmt. Im Sommer wurde der Tisch repariert und der Servicetechniker hat einen Aufkleber ersetzt.\n\nDie Bankbürgschaft hatte ich zusätzlich unterschrieben. Nach der Zahlung der Firma im Juli hieß es am Telefon, die Linie sei erledigt. Der schriftliche Brief spricht allerdings von einer Herabsetzung. Ich lege beides bei. Das ist nicht dasselbe Geld wie die 80.000,00 EUR auf meinem Privatkonto.\n\nBitte antworten Sie zunächst nur für mich. Leopold und Yara müssen selbst entscheiden, wen sie beauftragen. Ich kann ihnen keine Auskunft über meine private Schuld erteilen lassen. Meine Tochter möchte, dass wir alles gemeinsam besprechen; ich möchte vorher verstehen, ob wir überhaupt dieselben Interessen haben.\n\nMit freundlichen Grüßen\nGundula Schlötterer"
+      },
+      {
+        "name": "02_Eroeffnungsbeschluss.pdf",
+        "date": "01.10.2026",
+        "author": "Amtsgericht Fürth | Insolvenzgericht\nVerfahren 6 IN 326/26",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Eröffnung des Insolvenzverfahrens",
+        "body": "Über das Vermögen der Faltenwurf Polstermanufaktur GmbH, Polsterbogen 12, 90765 Fürth, wird am 1. Oktober 2026 um 10:00 Uhr das Insolvenzverfahren eröffnet. Zum Insolvenzverwalter wird Rechtsanwalt Dr. Ilja Fichtelmann, Spindelgasse 4, 90762 Fürth, bestellt. Der Eigenantrag ging am 17. August 2026 um 09:46 Uhr bei Gericht ein.\n\nDie Eröffnung erfolgt wegen Zahlungsunfähigkeit. Gläubiger werden zur Anmeldung ihrer Forderungen bis zum 16. November 2026 aufgefordert. Rechte an Maschinen, Waren und Forderungen sind unter Beifügung der jeweiligen Vertrags- und Erwerbsnachweise beim Insolvenzverwalter anzumelden. Ein behaupteter Sicherungsvertrag darf nicht allein anhand der Überschrift einer Buchung als bestehend behandelt werden.\n\nDie Schuldnerin wird durch ihre Geschäftsführerin Yara Schlötterer vertreten. Die Gesellschaft betreibt eine Polsterei mit Fertigung von Sitzmöbeln und Reparaturleistungen. Die Fortführung einzelner Aufträge wird durch den Verwalter geprüft.\n\nDieser Beschluss entscheidet nicht über einzelne Sicherheiten oder Rückforderungsansprüche gegen Gesellschafter. Ausgefertigt am 2. Oktober 2026. Namenswiedergabe: Hildegard Weigand, Urkundsbeamtin der Geschäftsstelle."
+      },
+      {
+        "name": "03_Gesellschafterstand.pdf",
+        "date": "10.10.2026",
+        "author": "Faltenwurf Polstermanufaktur GmbH | Gesellschaftsordner",
+        "to": "Insolvenzverwaltung Fichtelmann",
+        "title": "Gesellschafter und Vertretung nach dem Gesellschaftsordner",
+        "body": "Die im Gesellschaftsordner abgelegte Liste vom 12. Januar 2024 weist ein Stammkapital von 25.000,00 EUR aus. Gundula Schlötterer hält Geschäftsanteile im Nennbetrag von 15.000,00 EUR, Yara Schlötterer von 8.250,00 EUR und Leopold Haderlein von 1.750,00 EUR. Dies entspricht 60, 33 und sieben Prozent. Eine spätere Anteilsübertragung ist in dem übergebenen Ordner nicht enthalten.\n\nYara Schlötterer ist nach dem beigefügten Bestellungsbeschluss vom 12. Januar 2024 alleinige Geschäftsführerin. Gundula Schlötterer und Leopold Haderlein besitzen nach diesem Ordner weder Organstellung noch Prokura. Haderlein arbeitet als angestellter Polstermeister. Er darf Wareneingänge prüfen und gewöhnliche Materialbestellungen nach betrieblicher Freigabe auslösen, aber keine Darlehensverträge für die GmbH abschließen.\n\nDie Satzung verlangt für gewöhnliche Beschlüsse die einfache Mehrheit der abgegebenen Stimmen. Eine allgemeine Sperrminorität des Haderlein ist nicht vereinbart. Der Vermerk ersetzt keinen aktuellen Registerabruf. Er dokumentiert nur die am 8. Oktober übergebenen Gesellschaftsunterlagen und wurde von Sachbearbeiterin Alina Kessel gegengelesen.\n\nIn einem nicht unterschriebenen Entwurf vom April 2026 wird eine spätere Beteiligungserhöhung Haderleins auf 15 Prozent erwogen. Die Beteiligten teilten bisher übereinstimmend mit, dass dieser Entwurf weder beurkundet noch vollzogen wurde."
+      },
+      {
+        "name": "04_Darlehensvertrag_Gundula.docx",
+        "date": "02.05.2024",
+        "author": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Darlehensvereinbarung für den Zuschneidetisch",
+        "body": "1 Darlehensbetrag und Auszahlung\n\nGundula Schlötterer stellt der Faltenwurf Polstermanufaktur GmbH ein Darlehen von 280.000,00 EUR zur Verfügung. Die Auszahlung erfolgt am 6. Mai 2024 auf das Geschäftskonto der GmbH. Das Geld dient dem Erwerb eines automatischen Zuschneidetisches sowie der damit verbundenen Einrichtung. Darlehensnehmerin ist ausschließlich die GmbH, nicht Yara Schlötterer persönlich.\n\n2 Laufzeit und Rückzahlung\n\nDas Darlehen ist bis zum 31. Dezember 2026 zurückzuzahlen. Vorzeitige Teilzahlungen sind zulässig; sie werden auf den Darlehensbetrag angerechnet. Eine laufende Verzinsung wird nicht vereinbart. Die Parteien treffen mit diesem Vertrag keinen Rangrücktritt. Gesetzliche Folgen einer Gesellschafterstellung werden dadurch nicht abbedungen.\n\n3 Sicherheit\n\nDie Parteien beabsichtigen einen gesonderten Sicherungsvertrag über den konkret zu bezeichnenden Zuschneidetisch. Diese Darlehensvereinbarung selbst überträgt noch kein Eigentum. Die für den Erwerb und die Individualisierung benötigten Unterlagen werden der Darlehensgeberin nach Lieferung übergeben. Eine Sicherheit für andere Familienforderungen wird nicht vereinbart.\n\n4 Informationen\n\nDie Geschäftsführerin übermittelt Gundula jährlich den Jahresabschluss und teilt eine wesentliche Änderung der Finanzierung mit. Eine operative Geschäftsführungsbefugnis wird Gundula durch diese Informationsvereinbarung nicht erteilt. Zahlungsänderungen bedürfen einer übereinstimmenden dokumentierten Erklärung.\n\n5 Abschluss\n\nFürth, 2. Mai 2024. Gundula Schlötterer unterschreibt als Darlehensgeberin, Yara Schlötterer als Geschäftsführerin für die Faltenwurf Polstermanufaktur GmbH. Beide erhalten eine Ausfertigung."
+      },
+      {
+        "name": "05_Sicherungsvertrag.docx",
+        "date": "20.05.2024",
+        "author": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Sicherungsübereignung des Zuschneidetisches",
+        "body": "1 Bezeichneter Gegenstand\n\nDie Faltenwurf Polstermanufaktur GmbH überträgt Gundula Schlötterer zur Sicherung des Darlehens vom 2. Mai 2024 das Eigentum an dem Zuschneidetisch Textomat Z240, Herstellerfabriknummer TM240-0424-17, einschließlich fest montierter Steuerung. Der Tisch steht in Halle 1 der Betriebsstätte Polsterbogen 12, 90765 Fürth. Nicht umfasst sind lose Werkzeuge, Stoffbestände und andere Maschinen.\n\n2 Besitz und Nutzung\n\nDie GmbH bleibt unmittelbare Besitzerin und nutzt den Tisch im gewöhnlichen Betrieb. Sie verwahrt ihn für die Sicherungsnehmerin, hält ihn instand und darf ihn ohne deren Zustimmung weder veräußern noch an einen anderen Standort verbringen. Reparaturen und Verschleißteile dürfen im gewöhnlichen Betrieb ersetzt werden. Eine Ersatzmaschine wird durch diese Vereinbarung nicht automatisch erfasst.\n\n3 Sicherungszweck und Freigabe\n\nGesichert wird ausschließlich der jeweils offene Rückzahlungsanspruch aus dem Darlehen über 280.000,00 EUR. Nach vollständiger Tilgung wird das Eigentum zurückübertragen. Die Parteien vereinbaren keine zusätzliche Sicherheit für die Bürgschaft der Gundula gegenüber der Bank. Eine vorzeitige Teilrückzahlung führt nicht ohne weitere Abrede zur Freigabe einzelner Maschinenteile.\n\n4 Erwerbsunterlagen\n\nDie GmbH legt die Lieferrechnung T240-88 und den Zahlungsbeleg vom 16. Mai 2024 vor. Ob noch Rechte des Lieferanten bestehen, ist anhand dieser Unterlagen zu prüfen; eine Erklärung des Lieferanten zur vollständigen Kaufpreiszahlung wird separat abgelegt. Die Parteien behaupten mit diesem Vertrag keine Prüfung durch einen Notar.\n\nFürth, 20. Mai 2024. Unterzeichnet von Gundula Schlötterer und Yara Schlötterer für die GmbH."
+      },
+      {
+        "name": "06_Maschinenrechnung.pdf",
+        "date": "10.05.2024",
+        "author": "Textomat Anlagen GmbH\nWerkstraße 15, 86167 Augsburg",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Rechnung T240 88 Zuschneidetisch",
+        "body": "Geliefert wird ein Zuschneidetisch Textomat Z240, Fabriknummer TM240-0424-17, mit Steuerung und zwei Einweisungstagen. Nettopreis 220.000,00 EUR, Umsatzsteuer 41.800,00 EUR, Gesamtpreis 261.800,00 EUR. Die Lieferung erfolgte am 8. Mai 2024 an die Betriebsstätte in Fürth. Der Lieferschein ist von Leopold Haderlein unterzeichnet.\n\nZahlbar bis zum 17. Mai 2024. Eigentumsvorbehalt bis zur vollständigen Kaufpreiszahlung. Betriebsmittel, Hallenanschluss und Stoffsoftwarelizenzen Dritter sind nicht Bestandteil dieser Rechnung. Die Einweisung wurde am 8. und 9. Mai durchgeführt; Teilnehmer waren Herr Haderlein, Frau Yara Schlötterer und zwei Zuschneiderinnen.\n\nBuchungsvermerk vom 17. Mai 2024: Zahlung von 261.800,00 EUR am 16. Mai eingegangen. Der Kaufpreis ist vollständig beglichen. Aus dieser Rechnung bestehen keine offenen Kaufpreisforderungen mehr. Die Firma Textomat bestätigt damit nicht die Wirksamkeit einer späteren Sicherungsübereignung an Dritte.\n\nBei Ersatzteilbestellungen bitte Typ und Fabriknummer nennen. Der Auftrag wird unter FW2405 geführt."
+      },
+      {
+        "name": "07_Gundula_Rueckzahlungswunsch.eml",
+        "date": "2026-06-18T18:12:00+02:00",
+        "author": "Gundula Schlötterer <gundula.schloetterer@tuchgasse.example>",
+        "to": "Yara Schlötterer <yara.schloetterer@faltenwurf.example>",
+        "title": "Teilrückzahlung vor Monatsende",
+        "body": "Liebe Yara,\n\nich brauche bis zum Monatsende 80.000 Euro zurück. Meine eigene Zwischenfinanzierung läuft aus. Du hattest im April gesagt, mit dem Hotelauftrag sei das machbar. Bitte schreibe mir ehrlich, ob der Abschlag schon da ist oder nur angekündigt. Ich will nicht erst am letzten Tag erfahren, dass ich wieder verlängern muss.\n\nDen Tisch möchte ich als Sicherheit behalten, solange noch Geld offen ist. Das steht auch so im Vertrag. Frau Aydin von der Bank fragte mich außerdem wegen meiner Bürgschaft. Bitte vermische die Banklinie nicht mit meinem Darlehen. Das sind zwei verschiedene Sachen und ich habe beides in unterschiedlichen Mappen.\n\nLeopold hat mir beim Sommerfest gesagt, er habe wieder Stoff für die Firma privat bezahlt. Ich weiß nicht, ob das stimmt. Bitte schaut, dass er seine Quittungen bekommt. Seine sieben Prozent machen ihn nicht zum Geldautomaten, sagt er jedenfalls.\n\nLiebe Grüße\nMama"
+      },
+      {
+        "name": "08_Yara_Liquiditaet.eml",
+        "date": "2026-06-19T07:44:00+02:00",
+        "author": "Yara Schlötterer <yara.schloetterer@faltenwurf.example>",
+        "to": "Gundula Schlötterer <gundula.schloetterer@tuchgasse.example>",
+        "title": "AW Teilrückzahlung vor Monatsende",
+        "body": "Liebe Mama,\n\nder Hotelabschlag ist am Mittwoch tatsächlich eingegangen. Davon sind Material und die Juni-Löhne noch zu bezahlen. Nach der aktuellen Liste könnte ich Dir 80.000 Euro überweisen, wenn die zurückgestellte Umsatzsteuer erst im Juli abgeht. Eine schriftliche Stundung haben wir dafür noch nicht. Bitte behandle das nicht als endgültig frei verfügbares Geld.\n\nWir haben genügend Aufträge, aber die Bezüge für das Hotel kosten mehr als kalkuliert. Ich habe gestern zu Alina gesagt, so wie die Liste gerade aussieht, sind wir zahlungsunfähig. Das war meine Schlussfolgerung im Büro, kein Schreiben an alle Gläubiger. Alina meinte, erst müsse die zweite Bankverbindung ergänzt werden. Ich kann Dir heute deshalb keinen vollständigen Status schicken.\n\nFür die Banklinie will Frau Aydin einen Rückführungsplan. Sie hat 35.000 Euro im Juli genannt. Ob damit Deine Bürgschaft vollständig frei wird, weiß ich nicht. Bitte frage das selbst schriftlich nach.\n\nYara",
+        "reply_to": "07_Gundula_Rueckzahlungswunsch.eml"
+      },
+      {
+        "name": "09_Zahlungsfreigabe.docx",
+        "date": "29.06.2026",
+        "author": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "to": "Alina Kessel | Buchhaltung",
+        "title": "Freigabe der Teilrückzahlung an Gundula",
+        "body": "Alina,\n\nbitte überweise morgen 80.000,00 EUR an Gundula Schlötterer auf das im Darlehenskonto gespeicherte Konto. Als Verwendungszweck ist Teilrückzahlung Darlehen 02.05.2024 einzutragen. Nach der Zahlung bleiben 200.000,00 EUR Darlehensbetrag offen. Die Rückzahlung ist im Vertrag vorzeitig zugelassen; eine Zinszahlung ist nicht enthalten.\n\nDie Zahlung stammt vom Geschäftskonto mit Endziffern 6029. Der Hotelabschlag von 154.700,00 EUR ging dort am 17. Juni ein. Bitte stelle diesen Eingang nicht als Nettogewinn dar. Die Materialrechnung für die Hotelstoffe über 42.840,00 EUR und die bereits fällige Umsatzsteuer sind in der Liste gesondert zu zeigen.\n\nIch habe die Freigabe selbst erteilt. Ein Gesellschafterbeschluss dazu ist heute nicht gefasst worden. Gundula hat mich nicht als Geschäftsführerin vertreten. Eine Rückzahlung an Leopold wird hiervon nicht erfasst. Seine Auslagen prüfen wir anhand der Originalbelege.\n\nYara Schlötterer, Geschäftsführerin, 29.06.2026, 15:06 Uhr. Alina vermerkt am 30.06.2026: Auftrag ausgeführt, Wertstellung heute. Die Freigabe ersetzt keinen vollständigen Liquiditätsstatus."
+      },
+      {
+        "name": "10_Bank_Buergschaft.pdf",
+        "date": "10.01.2025",
+        "author": "Kettengrund Bank eG | Firmenkunden Fürth\nBeraterin Derya Aydin",
+        "to": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "title": "Bürgschaft zur Betriebsmittellinie der Faltenwurf GmbH",
+        "body": "Gundula Schlötterer übernimmt gegenüber der Kettengrund Bank eG eine selbstschuldnerische Bürgschaft bis zu einem Höchstbetrag von 60.000,00 EUR für die Verpflichtungen der Faltenwurf Polstermanufaktur GmbH aus der Betriebsmittellinie FW-60 vom 10. Januar 2025. Die Bürgschaft erstreckt sich nur auf diese bezeichnete Linie, einschließlich Zinsen und Kosten innerhalb des Höchstbetrags.\n\nDie Bank kann die Bürgin nach Maßgabe der Bürgschaft in Anspruch nehmen, wenn die gesicherte Forderung fällig und nicht erfüllt ist. Eine Erweiterung auf andere Kredite der GmbH ist nicht vereinbart. Zahlungen der GmbH sind bei der Ermittlung der gesicherten Restforderung zu berücksichtigen.\n\nDie Bürgschaft ist von Gundula Schlötterer am 10. Januar 2025 in der Filiale unterzeichnet worden. Eine Mitunterzeichnung ihrer Tochter als private Mitschuldnerin liegt nicht vor. Die Ausfertigung wurde der Bürgin ausgehändigt.\n\nBuchungsstand zur Linie am 30. Juni 2026: Inanspruchnahme 52.000,00 EUR zuzüglich noch nicht abgerechneter Zinsen. Die Vertragsurkunde sagt nichts darüber aus, ob die Bürgin bereits Zahlungen an die Bank erbracht hat."
+      },
+      {
+        "name": "11_Bank_Rueckfuehrung.eml",
+        "date": "2026-07-02T14:36:00+02:00",
+        "author": "Derya Aydin <derya.aydin@kettengrund.example>",
+        "to": "Yara Schlötterer <yara.schloetterer@faltenwurf.example>",
+        "title": "FW-60 Rückführung und Unterlagen",
+        "body": "Sehr geehrte Frau Schlötterer,\n\nwie besprochen erwarten wir bis 10. Juli eine Rückführung von 35.000,00 EUR auf die Betriebsmittellinie FW-60. Bitte verwenden Sie das Geschäftskonto der GmbH. Wir haben keine Zahlung von Frau Gundula Schlötterer angefordert. Nach Eingang wären vom derzeitigen Kapitalbetrag noch 17.000,00 EUR offen; die Schlussabrechnung der Zinsen folgt gesondert.\n\nEine vollständige Freigabe der Bürgschaft kann ich Ihnen heute nicht zusagen. Ich habe Frau Schlötterer lediglich gesagt, dass ihre Belastung mit einer Rückführung der gesicherten Forderung sinkt. Bitte leiten Sie diese E-Mail an sie weiter, falls im Familiengespräch etwas anderes angekommen ist.\n\nFür die weitere Entscheidung benötigen wir die aktuelle offene Postenliste, die Kontenübersicht einschließlich der zweiten Bank und eine Darstellung der Hotelauftragskosten. Ein Auftragsbestand allein ist kein Nachweis der Zahlungseingänge.\n\nMit freundlichen Grüßen\nDerya Aydin"
+      },
+      {
+        "name": "12_Bank_Bestaetigung.pdf",
+        "date": "14.07.2026",
+        "author": "Kettengrund Bank eG | Firmenkunden Fürth",
+        "to": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "title": "Stand der gesicherten Betriebsmittellinie",
+        "body": "Sehr geehrte Frau Schlötterer,\n\nam 10. Juli 2026 sind 35.000,00 EUR vom Geschäftskonto der Faltenwurf Polstermanufaktur GmbH auf die Linie FW-60 eingegangen. Die Kapitalinanspruchnahme vermindert sich dadurch von 52.000,00 EUR auf 17.000,00 EUR. Noch nicht abgerechnete Zinsen und zulässige Kosten bleiben in der Schlussabrechnung zu berücksichtigen.\n\nIhre Bürgschaft ist nicht vollständig erledigt. Sie besteht nach Maßgabe der Urkunde für die verbleibenden gesicherten Verbindlichkeiten fort. Die Originalurkunde wird deshalb nicht zurückgesandt. Eine darüber hinausgehende persönliche Haftung für andere Kredite begründet dieser Brief nicht.\n\nBis heute verzeichnen wir keine Zahlung von Ihnen persönlich auf die Linie. Bitte bewahren Sie dieses Schreiben zusammen mit der Bürgschaftsurkunde auf. Sollten Sie eine abweichende mündliche Auskunft erhalten haben, teilen Sie uns bitte Gesprächsdatum und Ansprechpartner mit.\n\nMit freundlichen Grüßen\nDerya Aydin\nFirmenkundenbetreuung"
+      },
+      {
+        "name": "13_Leopold_Belegumschlag.txt",
+        "date": "17.07.2026",
+        "author": "Leopold Haderlein\nGartenbogen 8, 90763 Fürth",
+        "to": "Alina Kessel | Buchhaltung Faltenwurf",
+        "title": "Notiz auf dem Umschlag mit zwei Auslagen",
+        "body": "Alina,\n\nhier sind die zwei Sachen, die Du noch wolltest. Die 4.800 Euro an den Schaumstofflieferanten habe ich am 3. Februar direkt von meinem Konto überwiesen. Die Rechnung war an die GmbH gerichtet, nicht an mich. Yara hatte gesagt, sie könne erst nach dem Messeauftrag zahlen. Ich habe damals ausdrücklich gesagt, die Firma soll mir das Geld spätestens Ende April zurückgeben. Einen Zins wollte ich nicht.\n\nDie 286,40 Euro sind etwas anderes: mein Hotel und die Bahnfahrt für den Reparatureinsatz in Würzburg vom 7. und 8. Juli. Das habe ich vorgestreckt, weil die Firmenkarte nicht ging. Ich habe den Beleg am 9. Juli abgegeben; am 15. Juli kamen die 286,40 Euro. Die 4.800 kamen am selben Tag, aber mit einem eigenen Verwendungszweck.\n\nIch bin seit 2024 mit sieben Prozent beteiligt und arbeite weiter an der Werkbank. Ich habe keine Bankvollmacht. Im April wurde über 15 Prozent gesprochen, unterschrieben haben wir nichts. Bitte macht aus dem Entwurf keine vollzogene Änderung.\n\nLeopold"
+      },
+      {
+        "name": "14_Schaumstoffrechnung.pdf",
+        "date": "27.01.2026",
+        "author": "Schaumwerk Quendler GmbH\nMaterialstraße 11, 97076 Würzburg",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Rechnung SQ26019 Schaumstoffplatten",
+        "body": "Geliefert wurden 160 Schaumstoffplatten nach Zuschnittliste FW26011 für den Messeauftrag der Faltenwurf Polstermanufaktur GmbH. Rechnungsempfängerin und Vertragspartnerin ist die GmbH. Der Endpreis beträgt 4.800,00 EUR einschließlich Umsatzsteuer. Eine Aufteilung ergibt 4.033,61 EUR netto und 766,39 EUR Umsatzsteuer; die Rundung erfolgt auf den Rechnungsendbetrag.\n\nDie Ware wurde am 27. Januar 2026 vollständig übergeben. Die Rechnung war am 3. Februar 2026 fällig. Eine persönliche Kaufbestellung Leopold Haderleins liegt nicht vor; er bestätigte lediglich den Wareneingang als Mitarbeiter der GmbH.\n\nZahlungsvermerk: Am 3. Februar gingen 4.800,00 EUR von Leopold Haderlein mit dem Verwendungszweck SQ26019 für Faltenwurf ein. Die Zahlung wurde auf die Forderung gegen die GmbH gebucht. Ein weiterer Zahlungsanspruch aus dieser Rechnung besteht nicht.\n\nDer Lieferant hat keine Kenntnis von der internen Vereinbarung zwischen Haderlein und der GmbH. Insbesondere bestätigt dieser Beleg weder eine Schenkung Haderleins noch eine bestimmte Laufzeit einer etwaigen Erstattungsforderung."
+      },
+      {
+        "name": "15_Reisekosten.pdf",
+        "date": "09.07.2026",
+        "author": "Leopold Haderlein | Faltenwurf Polstermanufaktur GmbH",
+        "to": "Alina Kessel | Buchhaltung",
+        "title": "Reisekosten Würzburg vom 7 und 8 Juli",
+        "body": "Dienstreise zum Kunden Mainbogen Hotel, Reparatur von sechs Sitzpolstern. Abfahrt Fürth am 7. Juli, Rückkehr am 8. Juli 2026. Die Reise war durch Yara Schlötterer am 2. Juli freigegeben. Die Firmenkarte wurde beim Hotel nicht akzeptiert, deshalb zahlte Haderlein mit seiner privaten Karte.\n\nHotel einschließlich Frühstück: 164,00 EUR. Bahnfahrt Hin- und Rückfahrt: 122,40 EUR. Zusammen: 286,40 EUR. Eine zusätzliche Verpflegungspauschale wird mit dieser Abrechnung nicht beantragt. Die beiden Einzelquittungen wurden im Reisekostenordner abgelegt; deren Rechnungsnummern lauten MBH-260708-61 und DBR-260707-241.\n\nSachliche Prüfung durch Alina Kessel am 10. Juli: Reise und Beträge stimmen mit Auftrag und Belegen überein. Freigabe durch Yara am 13. Juli. Auszahlung am 15. Juli auf das gespeicherte Mitarbeiterkonto. Zwischen Einreichung und Auszahlung liegen sechs Kalendertage.\n\nDie Erstattung der Schaumstoffrechnung über 4.800,00 EUR gehört nicht zu dieser Reisekostenabrechnung. Beide Vorgänge wurden getrennt gebucht."
+      },
+      {
+        "name": "16_Kontoauszug_Auswahl.pdf",
+        "date": "18.08.2026",
+        "author": "Wendelbank eG | Geschäftskonto Faltenwurf Endziffern 6029",
+        "to": "Faltenwurf Polstermanufaktur GmbH\nYara Schlötterer | Geschäftsführerin\nPolsterbogen 12, 90765 Fürth",
+        "title": "Bestätigte Buchungen des Geschäftskontos",
+        "body": "Die Kontoinhaberin hat eine Auswahl folgender Buchungen angefordert. Die Auswahl enthält nicht sämtliche Umsätze und nicht das Konto bei der Kettengrund Bank.\n\n06.05.2024: Eingang 280.000,00 EUR von Gundula Schlötterer, Darlehen 02.05.2024. 16.05.2024: Ausgang 261.800,00 EUR an Textomat Anlagen GmbH, Rechnung T240-88. 17.06.2026: Eingang 154.700,00 EUR von Mainbogen Hotel GmbH, Abschlag Auftrag MH26003.\n\n30.06.2026: Ausgang 80.000,00 EUR an Gundula Schlötterer, Teilrückzahlung Darlehen 02.05.2024. 10.07.2026: Ausgang 35.000,00 EUR an Kettengrund Bank eG, Rückführung FW-60. 15.07.2026: Ausgang 4.800,00 EUR an Leopold Haderlein, Erstattung SQ26019. 15.07.2026: Ausgang 286,40 EUR an Leopold Haderlein, Reisekosten Würzburg Juli.\n\nFür die bezeichneten Buchungen sind bis zum 18. August 2026 keine Stornierungen erfasst. Die Auswahl erlaubt keine vollständige Ermittlung von Tages- oder Monatssalden. Sie trifft keine Aussage zu weiteren fälligen Verbindlichkeiten, Kreditlinien oder einer Zahlungsunfähigkeit. Die Belastung über 35.000,00 EUR ist eine Zahlung der GmbH und keine Zahlung der Bürgin."
+      },
+      {
+        "name": "17_Darlehenskonten.xlsx",
+        "date": "09.10.2026",
+        "author": "Alina Kessel | Buchhaltung Faltenwurf",
+        "to": "Insolvenzverwaltung Fichtelmann",
+        "title": "Darlehen und Auslagen",
+        "body": "",
+        "kind": "loans",
+        "rows": [
+          [
+            "Gundula Darlehen",
+            280000,
+            80000,
+            "04_Darlehensvertrag_Gundula.docx"
+          ],
+          [
+            "Haderlein Material",
+            4800,
+            4800,
+            "14_Schaumstoffrechnung.pdf"
+          ],
+          [
+            "Haderlein Reise",
+            286.4,
+            286.4,
+            "15_Reisekosten.pdf"
+          ]
+        ],
+        "note": "Rekonstruktion nach getrennten Konten. Die beiden Haderlein-Zeilen werden nicht allein wegen der Bezeichnung Erstattung gleich eingeordnet. Bankrückführung FW-60 ist nicht Teil dieses Darlehenskontos und wird nicht nochmals auf Gundulas 280.000 EUR angerechnet."
+      },
+      {
+        "name": "18_Bank_Abgleich.xlsx",
+        "date": "09.10.2026",
+        "author": "Alina Kessel | Buchhaltung Faltenwurf",
+        "to": "Insolvenzverwaltung Fichtelmann",
+        "title": "Betriebsmittellinie und Teilrückführung",
+        "body": "",
+        "kind": "bank",
+        "rows": [
+          [
+            "Kapital vor Zahlung",
+            52000
+          ],
+          [
+            "Zahlung am 10.07.2026",
+            35000
+          ],
+          [
+            "Bürgschaft Höchstbetrag",
+            60000
+          ]
+        ],
+        "note": "Die Restkapitalberechnung umfasst keine unbekannten Zinsen oder Kosten. 35.000 EUR wurden an die Bank gezahlt, nicht an Gundula. Der wirtschaftliche Zusammenhang mit der Bürgschaft ist getrennt zu prüfen; die Tabelle berechnet keinen Anfechtungsanspruch."
+      },
+      {
+        "name": "19_Rueckforderung_Gundula.docx",
+        "date": "12.10.2026",
+        "author": "Rechtsanwalt Dr. Ilja Fichtelmann\nInsolvenzverwalter Faltenwurf Polstermanufaktur GmbH\nSpindelgasse 4, 90762 Fürth",
+        "to": "Gundula Schlötterer\nTuchgasse 6, 90762 Fürth",
+        "title": "Darlehensrückzahlung Sicherheit und Bankrückführung",
+        "body": "Sehr geehrte Frau Schlötterer,\n\nich bin zum Insolvenzverwalter über das Vermögen der Faltenwurf Polstermanufaktur GmbH bestellt. Nach den vorliegenden Bankunterlagen erhielten Sie am 30. Juni 2026 eine Teilrückzahlung von 80.000,00 EUR auf Ihr Darlehen. Ich fordere Sie zur Rückgewähr dieses Betrags auf und bitte um Stellungnahme bis zum 30. Oktober 2026. Ich prüfe den Vorgang insbesondere nach den Vorschriften über Gesellschafterdarlehen.\n\nDaneben steht die Zahlung von 35.000,00 EUR an die Kettengrund Bank am 10. Juli 2026. Sie ist keine weitere Auszahlung auf Ihr Privatkonto. Nach der Bürgschaftsurkunde sicherten Sie jedoch die betreffende Betriebsmittellinie. Bitte übermitteln Sie mir den vollständigen Schriftverkehr zur Freigabe oder Herabsetzung Ihrer Haftung. Eine vollständige Erledigung der Bürgschaft lässt sich aus dem Brief vom 14. Juli gerade nicht entnehmen. Ein etwaiger Anspruch in diesem Zusammenhang muss gesondert begründet und gegen eine doppelte Befriedigung abgegrenzt werden.\n\nSchließlich zeigen Sie Eigentum am Zuschneidetisch an. Bitte reichen Sie den Sicherungsvertrag, die Erwerbsrechnung, den Zahlungsnachweis und alle Angaben zum heutigen Maschinenbestand ein. Ich bestreite derzeit nicht den Abschluss des Schriftstücks; zu prüfen sind aber die Rechtsfolgen der Sicherung des Gesellschafterdarlehens und die Identität des bezeichneten Gegenstands. Bis zur Klärung wird die Maschine im Betrieb inventarisiert. Eine eigenmächtige Abholung ist nicht abgestimmt.\n\nIch fordere mit diesem Schreiben noch keinen pauschalen Gesamtbetrag von 115.000,00 EUR. Die Rückforderung der 80.000,00 EUR, die Bankzahlung und die Sicherheit sind drei getrennte Vorgänge. Auslagen des Herrn Haderlein sind nicht Gegenstand einer gegen Sie gerichteten Zahlungsforderung.\n\nMit freundlichen Grüßen\nDr. Ilja Fichtelmann\nRechtsanwalt als Insolvenzverwalter"
+      },
+      {
+        "name": "20_Auskunft_Haderlein.eml",
+        "date": "2026-10-12T13:25:00+02:00",
+        "author": "Alina Kessel <alina.kessel@fichtelmann.example>",
+        "to": "Leopold Haderlein <leopold.haderlein@gartenbogen.example>",
+        "title": "Faltenwurf zwei Erstattungen vom 15 Juli",
+        "body": "Sehr geehrter Herr Haderlein,\n\nbitte erläutern Sie die beiden Erstattungen vom 15. Juli über 4.800,00 EUR und 286,40 EUR. Herr Dr. Fichtelmann bittet um die zugehörigen Belege sowie Ihre damalige Vereinbarung zur Erstattung. Ihre Beteiligung wird in der übergebenen Liste mit sieben Prozent angegeben. Bitte bestätigen Sie, ob dies auch am 3. Februar und am 15. Juli zutraf und ob Sie damals Geschäftsführer oder in anderer Weise zur Leitung der GmbH bestellt waren.\n\nUns liegt ein Entwurf über eine Beteiligung von 15 Prozent vor, aber kein Vollzugsnachweis. Wir möchten den Entwurf nicht als tatsächliche Änderung behandeln. Bitte beschreiben Sie auch, ob Sie das Material im eigenen Namen gekauft oder eine Rechnung der GmbH bezahlt haben.\n\nDieses Auskunftsersuchen enthält noch keine abschließende Zahlungsforderung. Bitte senden Sie die Antwort getrennt von der Korrespondenz der Familie Schlötterer. Ihre eigenen Angaben müssen erkennbar bleiben.\n\nFreundliche Grüße\nAlina Kessel\nSachbearbeitung Insolvenzverwaltung"
+      },
+      {
+        "name": "21_Antwort_Haderlein.eml",
+        "date": "2026-10-15T18:40:00+02:00",
+        "author": "Leopold Haderlein <leopold.haderlein@gartenbogen.example>",
+        "to": "Alina Kessel <alina.kessel@fichtelmann.example>",
+        "title": "AW Faltenwurf zwei Erstattungen",
+        "body": "Sehr geehrte Frau Kessel,\n\nes waren und sind sieben Prozent. Den neuen Entwurf habe ich nicht unterschrieben; einen Notartermin gab es nicht. Geschäftsführer war ich nie. Ich bestelle Material nach Freigabe, mache aber keine Finanzplanung und habe keinen Zugang zu den Bankkonten.\n\nDie Schaumstoffrechnung ging an die Firma. Ich habe sie von meinem Privatkonto bezahlt, weil der Lieferant sonst die nächste Palette nicht freigeben wollte. Yara versprach die Erstattung nach dem Messeauftrag, spätestens Ende April. Es dauerte dann bis Juli. Die Reise war dagegen mein normaler beruflicher Einsatz. Ich habe die Quittungen am 9. Juli abgegeben und sechs Tage später das Geld bekommen.\n\nDie beiden Vorgänge dürfen bitte nicht unter sonstige Familie zusammengefasst werden. Ich bin mit den Schlötterers nicht verwandt. Gundula kenne ich lange, aber sie hat mir nicht gesagt, welche Beträge sie von der Firma zurückbekam. Ich habe Ihnen den Belegumschlag und die beiden Abrechnungen nochmals beigefügt.\n\nMit freundlichen Grüßen\nLeopold Haderlein",
+        "attachments": [
+          "14_Schaumstoffrechnung.pdf",
+          "15_Reisekosten.pdf"
+        ],
+        "reply_to": "20_Auskunft_Haderlein.eml"
+      },
+      {
+        "name": "22_Maschinenservice.eml",
+        "date": "2026-10-16T10:08:00+02:00",
+        "author": "Mira Demir <mira.demir@textomat.example>",
+        "to": "Dr. Ilja Fichtelmann <ilja.fichtelmann@fichtelmann.example>",
+        "title": "TM240-0424-17 Typenschild und Service",
+        "body": "Sehr geehrter Herr Dr. Fichtelmann,\n\nam 22. Juli 2026 tauschte unser Techniker die Steuerung am vorhandenen Zuschneidetisch aus. Der mechanische Grundtisch blieb unverändert. Das neue Steuerungsmodul trägt eine eigene Seriennummer ST-2607-308. Diese Nummer darf nicht mit der Fabriknummer des gesamten Tisches verwechselt werden.\n\nDas abgenutzte kleine Typenschild wurde durch ein gleichlautendes Schild TM240-0424-17 ersetzt. Die Maschine wurde nicht ausgetauscht und nicht nach Augsburg gebracht. Der Servicebericht enthält Fotos vor und nach der Reparatur; diese liegen noch in unserem Serviceticketsystem und wurden Ihnen bisher nicht übermittelt. Bitte sagen Sie, ob Sie sie benötigen.\n\nZu Sicherungsverträgen der Kundin kann ich nichts sagen. Unsere Kaufpreisforderung aus 2024 war vollständig bezahlt. Die Service-Rechnung vom Juli ist dagegen nach unserem System noch offen; sie ist ein anderer Vorgang.\n\nMit freundlichen Grüßen\nMira Demir\nTextomat Anlagen GmbH"
+      },
+      {
+        "name": "23_Familienchat.txt",
+        "date": "20.06.2026",
+        "author": "Privater Chat Gundula und Yara Schlötterer",
+        "to": "Export von Gundula am 14.10.2026",
+        "title": "Ausschnitt zur Rückzahlung",
+        "body": "20.06.2026, 09:14 Gundula: Ich habe die Mail gelesen. Wenn die Steuer nicht gestundet ist, kannst Du sie doch nicht einfach aus der Liste nehmen.\n\n09:18 Yara: Ich nehme nichts raus. Die Beraterin sollte anrufen. Ich weiß nicht, ob schon jemand erreicht wurde.\n\n09:20 Gundula: Für meine 80.000 brauche ich eine klare Zusage. Ich kann noch zwei Tage warten, aber nicht zwei Monate.\n\n09:26 Yara: Der Hotelabschlag ist auf dem Konto. Was nach Material und Löhnen übrig bleibt, rechnen wir Montag noch einmal durch.\n\n09:31 Gundula: Der Tisch bleibt aber Sicherheit. Bitte unterschreibe nicht wieder etwas mit der Bank, das auch meinen Vertrag betrifft.\n\n09:34 Yara: Das eine ist Dein Darlehen, das andere Deine Bürgschaft. Ich habe der Bank keine Sicherheit am Tisch versprochen.\n\nDer Export enthält nur diese Nachrichten. Spätere Telefonate und gelöschte Einzelmitteilungen sind darin nicht enthalten."
+      },
+      {
+        "name": "24_Anwaltsnotiz.docx",
+        "date": "19.10.2026",
+        "author": "Rechtsanwältin Amira Dörfler\nKanzlei Dörfler | Fadenweg 3, 90762 Fürth",
+        "to": "Handakte Gundula Schlötterer",
+        "title": "Mandatsumfang und noch fehlende Unterlagen",
+        "body": "1 Besprechung\n\nFrau Schlötterer wurde am 19. Oktober allein beraten. Ihre Tochter und Herr Haderlein nahmen nicht teil. Das Mandat betrifft die gegen Gundula gerichtete Rückforderung, die angezeigte Maschinensicherheit und die persönliche Bürgschaft. Eine Vertretung der GmbH, der Geschäftsführerin oder Haderleins wurde nicht übernommen.\n\n2 Unterlagenstand\n\nDer Darlehensvertrag, die Sicherungsvereinbarung und die Bankbriefe liegen in lesbaren Kopien vor. Die Überweisung über 80.000,00 EUR ist durch die Bankauswahl belegt. Die Zahlung über 35.000,00 EUR ging unmittelbar von der GmbH an die Bank. Der aktuelle Gesamtstand der Bankforderung einschließlich Zinsen fehlt. Ebenso fehlt ein vollständiger Liquiditätsstatus der GmbH zum Juni und Juli. Ein Chat über Geldprobleme ersetzt diesen nicht.\n\n3 Angaben der Mandantin\n\nGundula berichtet, sie habe ihre private Zwischenfinanzierung mit dem erhaltenen Geld abgelöst. Ein Privatkontoauszug hierzu wurde noch nicht vorgelegt. Sie hat nicht behauptet, die GmbH habe die Zahlung versehentlich geleistet. Die Informationsrechte aus dem Darlehensvertrag wurden nach ihrer Erinnerung nur unregelmäßig genutzt; einen unterschriebenen Rangrücktritt hat sie nicht gefunden.\n\n4 Weiteres Vorgehen\n\nDie rechtliche Prüfung wird für die drei Vorgänge getrennt erstellt. Vor einer abschließenden Antwort sind der fehlende Bankstand und die Unterlagen zur Maschinenidentität anzufordern. Die Antwortfrist des Verwalters wird intern auf den 27. Oktober zur Wiedervorlage notiert. Eine gerichtliche Frist ist aus den bisher vorgelegten Unterlagen nicht ersichtlich. Die Mandantin entscheidet nach Vorlage der Einschätzung über den freizugebenden Antwortbrief.\n\nAmira Dörfler, Rechtsanwältin"
+      }
+    ]
+  }
+]

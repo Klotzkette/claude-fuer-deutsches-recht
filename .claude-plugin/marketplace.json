@@ -861,7 +861,7 @@
       "name": "fachanwalt-insolvenz-sanierungsrecht",
       "source": "./fachanwalt-insolvenz-sanierungsrecht",
       "description": "Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eröffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.",
-      "version": "445.35.2",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1406,6 +1406,16 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       }
+    },
+    {
+      "name": "insolvenzanfechtung",
+      "description": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./insolvenzanfechtung"
     },
     {
       "name": "insolvenzforderungen-checker",

@@ -1,0 +1,482 @@
+{
+  "folder": "03_korrespondenz/05_anfechtungsunterlagen",
+  "as_of": "2026-09-28",
+  "documents": [
+    {
+      "id": "51_Bankauskunft_Zahlungslauf_20260917",
+      "format": "pdf",
+      "title": "Auskunft zum Zahlungslauf am 15 April 2024",
+      "author": "Weserkontor Bank eG | Sven Peters",
+      "address": "Langenstraße 18, 28195 Bremen",
+      "recipient": "Tettenborn Insolvenzverwaltung, Contrescarpe 82, 28195 Bremen",
+      "date": "2026-09-17",
+      "reference": "Konto 01728400 | WT-24-118",
+      "sections": [
+        {
+          "heading": "1. Zwei ausgeführte Einzelaufträge",
+          "paragraphs": [
+            "Sehr geehrte Frau von Tettenborn, auf Ihre Rückfrage übersenden wir die nachstehende Auskunft aus dem Auftragsarchiv zum Geschäftskonto der Weserfunken Präzisionsbau GmbH. Gegenstand sind ausschließlich die beiden am 15. April 2024 ausgeführten Aufträge an Vellio Finance GmbH. Das Schreiben ist am heutigen Tag erstellt worden. Die zugrunde liegenden Buchungen bleiben in Auszug 04/2024, Blatt 18 der Anlage K4, unverändert enthalten.",
+            "Vor Ausführung dieser Aufträge betrug das Guthaben 1.025.900,00 EUR. Zuerst wurde die Zinsrate von 5.000,00 EUR belastet. Danach betrug das Guthaben 1.020.900,00 EUR. Mit der Belastung der Endtilgung von 500.000,00 EUR verringerte es sich auf 520.900,00 EUR. Eine Lastschriftrückgabe, ein Pfändungseinzug oder ein abweichender Zahlungsempfänger ist bei diesen beiden Aufträgen nicht erfasst. Es handelt sich um Überweisungen von Weserfunken.",
+            "In beiden Aufträgen ist Vellio Finance GmbH als Empfängerin und AT61 1904 3002 3457 3201 als Empfangsverbindung eingetragen. Der gespeicherte Darlehensverwendungszweck lautet NF-WP-221014-01, ergänzt um Zinsperiode 18 beziehungsweise Endtilgung. Ein Name im Buchhaltungsstamm des Kunden kann von dieser Empfängerangabe abweichen. Unsere Auskunft bezieht sich auf die Aufträge, nicht auf Beschriftungen eines außerhalb der Bank geführten Ordners."
+          ],
+          "table": {
+            "headers": [
+              "Buchungstag",
+              "Auftrag",
+              "Belastung EUR",
+              "Saldo EUR"
+            ],
+            "rows": [
+              [
+                "15.04.2024",
+                "Zinsperiode 18",
+                "5.000,00",
+                "1.020.900,00"
+              ],
+              [
+                "15.04.2024",
+                "Endtilgung",
+                "500.000,00",
+                "520.900,00"
+              ]
+            ]
+          },
+          "after": [
+            "Die beiden Belastungen sind kein Nachweis dafür, welche weiteren Verpflichtungen am 15. April bestanden. Aufträge, die der Kunde lediglich intern erwogen hat, erscheinen nicht in diesem Auszug. Ebenso lässt das Guthaben allein keine Aussage darüber zu, ob der Betrieb seine übrigen fälligen Zahlungen zeitgerecht leisten konnte. Mit freundlichen Grüßen, Sven Peters, Geschäftskundenservice, service@weserkontor.example."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52_Nordkai_Kontoerklaerung_20260918",
+      "format": "pdf",
+      "title": "Kontoerklärung zur Rechnung NA 240212 17",
+      "author": "Nordkai Armaturentechnik GmbH | Ottilie Feistlein",
+      "address": "Werftstraße 18, 27568 Bremerhaven",
+      "recipient": "Tettenborn Insolvenzverwaltung, Contrescarpe 82, 28195 Bremen",
+      "date": "2026-09-18",
+      "reference": "Kunde WP-043 | NA-240212-17",
+      "sections": [
+        {
+          "heading": "1. Kontenstand und Gespräch über eine andere Zahlungsweise",
+          "paragraphs": [
+            "Sehr geehrte Frau von Tettenborn, unsere Rechnung NA-240212-17 über 42.840,00 EUR war am 12. März 2024 fällig. Der anliegende Auszug unseres Einzelkontos enthält bis zum 30. April 2024 keinen Zahlungseingang und keine Gutschrift. Die Mahnung vom 8. April erzeugte keine zweite Rechnung. Der offene Betrag besteht aus 36.000,00 EUR Warenwert und 6.840,00 EUR Umsatzsteuer.",
+            "Am 16. April 2024 fragte Martin Grothe, ob ein Kunde unmittelbar an uns zahlen könne. Genannt wurden Nordhafen und der volle Rechnungsbetrag. Ich habe erklärt, dass ich dafür zunächst einen konkreten Auftrag und eine eindeutige Zuordnung benötige. Eine Zusage des Kunden lag mir nicht vor. Ich habe keine Forderungsabtretung unterschrieben, keine Ware an Erfüllungs statt angenommen und keine Stundung erklärt. Die Frage nach einer anderen Zahlstelle habe ich im Kundenkontakt vermerkt.",
+            "Grothe wirkte verärgert, weil die nächste Lieferung ohne Zahlung nicht freigegeben wurde. Er sagte, die Bank sei jetzt erledigt. Ich wusste nicht, welche Bank er meinte und ob er von einer ausgeführten Zahlung oder von einem Gespräch sprach. Wir hatten keine Einsicht in sein Konto, keine Liste anderer Gläubiger und keine Finanzplanung. Aus meinem Vermerk lässt sich daher keine bezifferte Kenntnis der gesamten Lage ableiten."
+          ],
+          "table": {
+            "headers": [
+              "Datum",
+              "Vorgang",
+              "Zugang EUR",
+              "Offen EUR"
+            ],
+            "rows": [
+              [
+                "12.02.2024",
+                "Rechnung",
+                "42.840,00",
+                "42.840,00"
+              ],
+              [
+                "08.04.2024",
+                "Mahnung ohne Zusatzkosten",
+                "0,00",
+                "42.840,00"
+              ],
+              [
+                "16.04.2024",
+                "Anfrage Direktzahlung",
+                "0,00",
+                "42.840,00"
+              ],
+              [
+                "30.04.2024",
+                "Kontenabschluss",
+                "0,00",
+                "42.840,00"
+              ]
+            ]
+          },
+          "after": [
+            "Die Anfrage ist bis Ende April nicht ausgeführt worden. Insbesondere haben wir weder eine Zahlung von Nordhafen noch einen Eingang von Grothe privat erhalten. Ein von Weserfunken angekündigter Zahlungslauf war für uns kein Zahlungsbeleg. Die Rechnung blieb offen. Mit freundlichen Grüßen, Ottilie Feistlein, Debitorenbuchhaltung, buchhaltung@nordkai.example."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53_Nordhafen_Abrechnung_N42_20240402",
+      "format": "pdf",
+      "title": "Abrechnung der Sammelzahlung für N42",
+      "author": "Nordhafen Antriebstechnik GmbH | Hanno Gütlein",
+      "address": "Am Industriehafen 26, 28237 Bremen",
+      "recipient": "Weserfunken Präzisionsbau GmbH, Jutta Kröger, Hüttenstraße 43, 28237 Bremen",
+      "date": "2024-04-02",
+      "reference": "N42 | Zahlungsavis 240402",
+      "sections": [
+        {
+          "heading": "1. Zuordnung der Überweisung",
+          "paragraphs": [
+            "Sehr geehrte Frau Kröger, wir haben heute die Sammelzahlung über 598.600,00 EUR für die beiden abgerechneten Lose N42-2402 und N42-2403 angewiesen. Die Zahlung geht vollständig auf das uns bekannte Geschäftskonto der Weserfunken Präzisionsbau GmbH. Bitte verwenden Sie diese Aufstellung zur Aufteilung des zusammengefassten Bankeingangs auf die beiden Rechnungen. Es entsteht dadurch kein zweiter Zahlungseingang.",
+            "Für Los N42-2402 entfallen 260.000,00 EUR netto zuzüglich 49.400,00 EUR Umsatzsteuer auf den Rechnungsbetrag von 309.400,00 EUR. Für Los N42-2403 entfallen 243.025,21 EUR netto zuzüglich 46.174,79 EUR Umsatzsteuer auf 289.200,00 EUR. Die beiden Bruttobeträge ergeben 598.600,00 EUR. Skonto und Gebühren wurden nicht abgezogen. Maßgeblich für Ihre Bankabstimmung ist dieser gemeinsame Überweisungsbetrag.",
+            "Die Baugruppen befinden sich in unserer Montagevorbereitung. Die noch ausstehende Temperaturwechselprüfung erfolgt im vorgesehenen Prüfablauf. Wir haben mit diesem Zahlungsavis weder den Prüfbericht vorweggenommen noch eine Aussage über mögliche Gewährleistungsfragen abgegeben. Eine gegenwärtige Rückzahlungsforderung ist in dieser Abrechnung nicht ausgewiesen. Bitte leiten Sie technische Rückfragen weiterhin an die Qualitätssicherung und Buchungsfragen an mich."
+          ],
+          "table": {
+            "headers": [
+              "Los",
+              "Netto EUR",
+              "USt EUR",
+              "Brutto EUR"
+            ],
+            "rows": [
+              [
+                "N42-2402",
+                "260.000,00",
+                "49.400,00",
+                "309.400,00"
+              ],
+              [
+                "N42-2403",
+                "243.025,21",
+                "46.174,79",
+                "289.200,00"
+              ],
+              [
+                "Sammelzahlung",
+                "503.025,21",
+                "95.574,79",
+                "598.600,00"
+              ]
+            ]
+          },
+          "after": [
+            "Wir haben für diese Sammelzahlung keinen Teilbetrag an Nordkai oder einen anderen Lieferanten der Weserfunken überwiesen. Sollten später abweichende Zahlungswege vorgeschlagen werden, benötigen wir vor Ausführung eine eigene schriftliche Vereinbarung mit eindeutiger Forderungszuordnung. Mit freundlichen Grüßen, Hanno Gütlein, Kreditorenbuchhaltung, rechnungen@nordhafen.example."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54_N42_Rueckabwicklung_20240502",
+      "format": "pdf",
+      "title": "Bestätigung der Rückabwicklung der Lose N42",
+      "author": "Nordhafen Antriebstechnik GmbH | Alma Knoblauch",
+      "address": "Am Industriehafen 26, 28237 Bremen",
+      "recipient": "Weserfunken Präzisionsbau GmbH, Martin Grothe, Hüttenstraße 43, 28237 Bremen",
+      "date": "2024-05-02",
+      "reference": "N42-R240502",
+      "sections": [
+        {
+          "heading": "1. Rücknahme und Erstattungsbetrag",
+          "paragraphs": [
+            "Sehr geehrter Herr Grothe, hiermit fassen wir unsere heutige Nachricht um 09:20 Uhr und Ihre Bestätigung um 10:05 Uhr zusammen. Bei der abschließenden Temperaturwechselprüfung wurden heute Risse im Anschlussbereich der Baugruppen aus den Losen N42-2402 und N42-2403 festgestellt. Die Baugruppen werden bei uns gesperrt und nach Abstimmung des Abholtermins an Sie zurückgegeben. Die vereinbarte Rückabwicklung umfasst die vollständige April-Sammelzahlung.",
+            "Sie haben für Weserfunken die Rücknahme und die Erstattung von 598.600,00 EUR mit heutiger Fälligkeit bestätigt. Davon entfallen 309.400,00 EUR auf Los N42-2402 und 289.200,00 EUR auf Los N42-2403. Die Beträge entsprechen dem Zahlungsavis vom 2. April. Eine zusätzliche Forderung über nochmals 598.600,00 EUR wird durch dieses Bestätigungsschreiben nicht begründet. Es dokumentiert denselben Vorgang N42-R240502.",
+            "Bitte teilen Sie uns den Termin und das Fahrzeug für die Abholung mit. Die Teile stehen gesondert gekennzeichnet auf vier Paletten. Unsere Pforte benötigt den Namen des Fahrers einen Werktag vorher. Über die Ursache der Risse und mögliche Ansprüche gegen einzelne Zulieferer enthält diese organisatorische Abstimmung keine abschließende Feststellung. Die Rückabwicklung mit Ihnen ist davon getrennt vereinbart."
+          ],
+          "table": {
+            "headers": [
+              "Position",
+              "Betrag EUR",
+              "Fälligkeit",
+              "Zahlungsstatus"
+            ],
+            "rows": [
+              [
+                "N42-2402",
+                "309.400,00",
+                "02.05.2024",
+                "Nicht eingegangen"
+              ],
+              [
+                "N42-2403",
+                "289.200,00",
+                "02.05.2024",
+                "Nicht eingegangen"
+              ],
+              [
+                "Gesamterstattung",
+                "598.600,00",
+                "02.05.2024",
+                "Offen"
+              ]
+            ]
+          },
+          "after": [
+            "Die von Herrn Grothe am 16. April angesprochene Direktzahlung an Nordkai haben wir nicht vorgenommen. Die abgerechneten April-Lose waren am 2. April bereits bezahlt. Eine Aufrechnung mit neuen Lieferungen wurde heute ebenfalls nicht vereinbart. Wir benötigen eine konkrete Rückmeldung zur Erstattung und können eine interne Anweisung allein nicht als Zahlungseingang buchen. Mit freundlichen Grüßen, Alma Knoblauch, Einkauf, einkauf@nordhafen.example."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55_Kroeger_Erinnerungsvermerk_20260921",
+      "format": "docx",
+      "title": "Erinnerungsvermerk zum Zahlungslauf und zu den Lieferanten",
+      "author": "Jutta Kröger | Buchhaltung Weserfunken",
+      "address": "Hüttenstraße 43, 28237 Bremen",
+      "recipient": "Tettenborn Insolvenzverwaltung, Contrescarpe 82, 28195 Bremen",
+      "date": "2026-09-21",
+      "reference": "WT-24-118 | Auskunft Jutta Kröger",
+      "sections": [
+        {
+          "heading": "1. Eigene Wahrnehmung im April",
+          "paragraphs": [
+            "Ich beantworte die Rückfragen zu meiner Nachricht vom 12. April 2024. In der Buchhaltung lief damals viel gleichzeitig: Monatsabschluss, Nachfragen der Lieferanten und die Endfälligkeit des Darlehens. Ich arbeitete meist vormittags im Büro über dem Wareneingang. Wenn das Hallentor offenstand, war ein Telefonat schlecht zu verstehen. Den Wortlaut von Gesprächen, an denen ich nicht selbst teilgenommen habe, kann ich nicht bestätigen.",
+            "Die zwölf Lieferantenrechnungen über 478.380,00 EUR hatte ich für eine Besprechung ausgewählt. Es waren offene, sachlich freigegebene Rechnungen. Die Liste war kein vollständiger Finanzstatus. Ich führte Lohn- und Steuertermine in anderen Listen. Eine damalige Zusammenführung aller Listen habe ich bislang nicht wiedergefunden. Der Umstand, dass diese Rechnungen offen waren, ist mir sicher erinnerlich. Weshalb Herr Grothe gerade diesen Zahlungslauf zurückstellte, entnehme ich hauptsächlich seiner E-Mail vom 15. April. Die gespeicherten Einzelkonten weisen für diese zwölf Belege auch am 2. Mai 2024 keine Ausgleichsbuchung aus. Diesen begrenzten Kontenabgleich habe ich heute nochmals geprüft; eine Aussage über weitere Gläubiger folgt daraus nicht.",
+            "Ich hatte keinen Bankauftrag für Nordkai freigegeben. Der Satz, Nordkai werde angerufen, war für mich keine Stundungsbestätigung. Als Frau Feistlein später nach einer direkten Kundenzahlung fragte, war ich überrascht. Ich kannte zu diesem Zeitpunkt keine unterschriebene Anweisung an Nordhafen. Aus unserem Konto wurde die Nordkai-Rechnung im April nicht beglichen. Ob jemand außerhalb unseres Kontos gezahlt hatte, musste ich erst beim Lieferanten erfragen."
+          ]
+        },
+        {
+          "heading": "2. Vellio und die alte Bezeichnung Nexora",
+          "paragraphs": [
+            "Die Zinsüberweisungen und die Endtilgung gingen nach den gespeicherten Aufträgen an Vellio. Im Ordnerregister stand weiterhin Nexora, weil ich den Ordner 2022 unter diesem Namen angelegt hatte. Ich habe die Bezeichnung nicht nachträglich geändert. Für Überweisungen verwendete ich den hinterlegten Empfängerstamm, nicht die Ordnerüberschrift. Die einzelnen Freigaben des Geschäftsführers sind von dieser Benennung zu trennen.",
+            "An das Telefonat von Herrn Grothe mit Nora Wendt am 10. April erinnere ich mich nur am Rand. Ich brachte ihm danach eine offene Postenliste. Ich weiß nicht mehr, ob er diese Liste am Telefon schon besprochen hatte. Die Behauptung, Frau Wendt habe sämtliche Lieferantenrückstände gekannt, kann ich aus eigener Wahrnehmung nicht bestätigen. Ich kann ebenso wenig ausschließen, dass Herr Grothe ihr Beträge genannt hat, während ich nicht im Raum war.",
+            "Nach meiner Erinnerung sagte Herr Grothe im Büro einmal, die Finanzierung werde seit Beginn von denselben Leuten betreut. Damit meinte er möglicherweise den Kontakt, nicht eine juristische Aussage zur Vertragspartnerin. Ich selbst hatte 2022 eine Mitteilung über den Wechsel abgelegt. Meine heutige Erläuterung ersetzt diese damals erhaltene Mitteilung nicht."
+          ]
+        },
+        {
+          "heading": "3. Zeitpunkt und Grenzen der Erinnerung",
+          "paragraphs": [
+            "Die Risse bei Nordhafen wurden mir erst am 2. Mai 2024 konkret mitgeteilt. Vorher wusste ich, dass Prüfungen ausstanden. Eine Rückzahlungsforderung von 598.600,00 EUR hatte ich im April noch nicht gebucht. Aus heutiger Sicht fällt es schwer, die spätere Nachricht nicht schon in frühere Gespräche hineinzulesen. Deshalb halte ich mich bei den Zahlen an die damaligen Auszüge und E-Mails.",
+            "Dieser Vermerk wurde am 21. September 2026 nach Durchsicht der Anlagen K4, K7, K8 und K9 erstellt. Er ist keine damalige Gesprächsaufzeichnung und keine eidesstattliche Versicherung. Die Angaben zur Wahrnehmung stammen von mir. Ergänzungen zu fremden Gesprächen müssten die jeweiligen Beteiligten selbst machen. Jutta Kröger."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56_Grothe_Rueckmeldung_20260922",
+      "format": "docx",
+      "title": "Rückmeldung zu den Gesprächen im April 2024",
+      "author": "Martin Grothe",
+      "address": "Hüttenstraße 43, 28237 Bremen",
+      "recipient": "Tettenborn Insolvenzverwaltung, Contrescarpe 82, 28195 Bremen",
+      "date": "2026-09-22",
+      "reference": "WT-24-118 | ergänzende Auskunft",
+      "sections": [
+        {
+          "heading": "1. Gesprächsanfrage bei Vellio",
+          "paragraphs": [
+            "Sehr geehrte Frau von Tettenborn, Frau Krögers Vermerk trifft zu, soweit sie die von ihr ausgeführten Zahlungen und ihre eigenen Gespräche beschreibt. An einer Stelle ist meine Erinnerung ausführlicher. Ich meine, Nora Wendt am 10. April gesagt zu haben, dass drei Lieferanten mittlerweile mahnten und bei Nordkai die nächste Lieferung hing. Ob ich dabei den Betrag von 478.380,00 EUR nannte oder nur von fast einer halben Million sprach, kann ich heute nicht sicher sagen. Eine Notiz mit einem solchen Betrag habe ich nicht.",
+            "Ich habe Wendt um ein Gespräch über die Endfälligkeit gebeten. Sie sagte, sie könne selbst keine Verlängerung zusagen. Eine vereinbarte Stundung behaupte ich nicht. Ich hatte gehofft, dass sich ein Gespräch noch vor dem Montag ergeben würde. Als das nicht geschah, gab ich die beiden Aufträge zum bestehenden Termin frei. Den Namen Nexora benutzte ich im Betrieb noch häufig, obwohl die Überweisungen an Vellio gingen. Das war bequem, hat aber später offenbar zu Missverständnissen geführt.",
+            "Ich habe die Übernahmeerklärung 2022 unterschrieben. Meine damalige Erwartung an eine Betreuung durch die Bank ist davon zu trennen. Eine garantierte Anschlussfinanzierung kann ich weder mit einem Schreiben noch mit einer konkreten wörtlichen Zusage belegen. Wenn in einer Zusammenfassung von einer Zusage steht, sollte zuerst geklärt werden, auf welches Gespräch sich das beziehen soll."
+          ]
+        },
+        {
+          "heading": "2. Lieferanten und die erwogene Direktzahlung",
+          "paragraphs": [
+            "Nach dem Montag rief ich Ottilie Feistlein bei Nordkai an. Ich fragte, ob Nordhafen die 42.840,00 EUR unmittelbar überweisen könne. Meine Vorstellung war, einen weiteren Auftrag dafür zu verwenden. Frau Knoblauch bei Nordhafen stellte klar, dass die April-Lose bereits bezahlt seien und kein neuer freigegebener Zahlungsbetrag vorliege. Es kam nicht zu der von mir erhofften Direktzahlung. Eine Abtretung oder Übertragung von Teilen aus unserem Lager wurde nicht unterschrieben.",
+            "Ich wollte zunächst die Fertigung ohne weiteren Streit um Lieferstopps weiterbringen. Das ändert nichts daran, dass die Rechnungen offen blieben. Die kleine weiße Liste neben dem Telefon war meine Gesprächsliste und kein Zahlungsnachweis. Dort hatte ich Nordkai mit einem Haken versehen, nachdem ich angerufen hatte. Ein Haken bedeutete nicht, dass gezahlt worden war. Die Buchhaltung durfte daraus keine Ausgleichsbuchung ableiten.",
+            "Ob ich Herrn Neubauer damals mehr als die Schwierigkeiten mit Kundenabnahmen und Lieferanten schilderte, weiß ich nicht mehr. Die Antwort vom 9. April liegt vor. Ich möchte keinen späteren Zahlenstand zum Inhalt einer früheren E-Mail erklären. Für die damaligen Informationen kommt es darauf an, wer welche Nachricht tatsächlich erhalten hat."
+          ]
+        },
+        {
+          "heading": "3. Die Rückabwicklung am 2 Mai",
+          "paragraphs": [
+            "Die Nachricht über die Risse traf mich am 2. Mai. Nach dem Telefonat bestätigte ich die vollständige Rücknahme und Erstattung. Ich hatte keine weitere Finanzierung, aus der wir diesen Betrag sofort hätten zahlen können. Die danach eingereichten Unterlagen zum Insolvenzantrag enthalten den neuen Erstattungsbetrag gesondert. Ich bitte darum, die Vereinbarung vom 2. Mai nicht als schon im März bestehende Erstattungsschuld zu behandeln.",
+            "Dieser Brief ergänzt meine E-Mail vom 10. Juni 2026. Er wurde heute nach Ihren Rückfragen verfasst und enthält meine gegenwärtige Erinnerung. Die Geschäftsunterlagen sollen unverändert erhalten bleiben, auch dort, wo sie meiner Erinnerung weniger deutlich entsprechen. Mit freundlichen Grüßen, Martin Grothe."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57_Wendt_Gespraechsauskunft_20260923",
+      "format": "docx",
+      "title": "Auskunft zu den Unterlagen und zum Gespräch vom 10 April",
+      "author": "Vellio Finance GmbH | Nora Wendt",
+      "address": "Radetzkystraße 12, 8010 Graz, Österreich",
+      "recipient": "Tettenborn Insolvenzverwaltung, Contrescarpe 82, 28195 Bremen",
+      "date": "2026-09-23",
+      "reference": "NF-WP-221014-01 | WT-24-118",
+      "sections": [
+        {
+          "heading": "1. Vorliegende Gesprächsaufzeichnung",
+          "paragraphs": [
+            "Sehr geehrte Frau von Tettenborn, ich habe die Rückfrage zum Gespräch vom 10. April anhand meiner damals angefertigten Telefonnotiz geprüft. Die Notiz liegt unverändert vor. Herr Grothe sprach über Materialbeschaffung, Fertigstellung und Kundenabnahme. Dass die Lage angespannt war, habe ich verstanden. Eine vollständige offene Postenliste oder ein Liquiditätsstatus war nicht beigefügt.",
+            "An die Zahl 478.380,00 EUR erinnere ich mich nicht. In meiner Notiz steht sie nicht. Daraus kann ich nicht sicher folgern, dass im gesamten Gespräch keine einzelne Zahl genannt wurde. Die Notiz ist keine Wortabschrift. Die heutige Aussage von Herrn Grothe, er habe von fast einer halben Million gesprochen, kann ich deshalb weder bestätigen noch durch eine Aufnahme widerlegen. Eine Tonaufzeichnung wurde nicht erstellt.",
+            "Ich habe keine Rückzahlungsverschiebung genehmigt. Eine Gesprächsanfrage durfte ich entgegennehmen. Für eine Änderung wäre eine Entscheidung der zuständigen Kreditbearbeitung erforderlich gewesen. Weder meine Notiz noch die damalige E-Mail bestätigen eine solche Entscheidung. Der bestehende Plan blieb für die Verwaltung des Darlehens hinterlegt."
+          ]
+        },
+        {
+          "heading": "2. Empfängerin der Zahlungen und Zuständigkeit",
+          "paragraphs": [
+            "Die Zahlungen der Weserfunken wurden bei Vellio auf die laufende Darlehensposition gebucht. Ich habe Weserfunken keine Zahlung auf ein Konto von Nexora angewiesen. Die damalige Übernahmeabrechnung über 500.000,00 EUR war ein anderer Vorgang zwischen Vellio und Nexora. Sie ist vom 14. Oktober 2022 datiert und darf nicht mit der Endtilgung vom April 2024 gleichgesetzt werden.",
+            "Unsere laufende Kundenakte enthält den Transfer and Assumption Agreement, die Zahlungsanweisung und die Buchungsübersicht. Sie beantwortet nicht automatisch jede Frage zu Vereinbarungen anderer Konzerngesellschaften. Ich habe Ihre Nachfrage nach zusätzlich vorhandenen Verträgen an den zuständigen Bereich weitergeleitet. Ich kann Ihnen nur den Bestand bestätigen, den ich selbst eingesehen habe. Ein nicht in meinem Ordner befindlicher Vertrag wird dadurch weder bewiesen noch ausgeschlossen.",
+            "Die von Herrn Grothe angesprochene Lieferantendirektzahlung war mir im April nicht bekannt. Ich war nicht in den Nachrichten mit Nordkai und Nordhafen. Aus diesen später vorgelegten Unterlagen ergibt sich deshalb kein damaliger Zugang bei mir. Bitte berücksichtigen Sie bei der Auswertung die Empfänger jeder einzelnen Nachricht."
+          ]
+        },
+        {
+          "heading": "3. Weiterer Unterlagenaustausch",
+          "paragraphs": [
+            "Bitte übersenden Sie für weitere Rückfragen die konkrete Buchungszeile oder das bezeichnete Gespräch. Eine allgemeine Bestätigung, dass alle Mitarbeiter von Vellio sämtliche Umstände kannten, kann ich nicht abgeben. Ebenso wenig erkläre ich für Nexora etwas über deren vorvertragliche Gespräche. Meine heutige Auskunft ist eine Erklärung von Vellio zu meinen eigenen Tätigkeiten und den eingesehenen Unterlagen.",
+            "Die Auskunft enthält keine Anerkennung des geltend gemachten Zahlungsanspruchs und keine Einigung über dessen Erledigung. Einen gerichtlichen Termin oder eine Fristverlängerung vereinbaren wir damit nicht. Mit freundlichen Grüßen, Nora Wendt, Darlehensverwaltung, servicing@vellio.example."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "58_Tettenborn_Nachforderung_20260924",
+      "format": "docx",
+      "title": "Nachforderung zu Zahlungswegen und Kenntnisständen",
+      "author": "Tettenborn Insolvenzverwaltung | Kunigunde von Tettenborn",
+      "address": "Contrescarpe 82, 28195 Bremen",
+      "recipient": "Nexora Frontbank AG, Dr. Falk Neubauer, Schottenring 18, 1010 Wien",
+      "date": "2026-09-24",
+      "reference": "WT-24-118 | Landgericht Bremen 4 O 1186/26",
+      "sections": [
+        {
+          "heading": "1. Noch benötigte Unterlagen",
+          "paragraphs": [
+            "Sehr geehrter Herr Dr. Neubauer, ich halte die mit der Klage geltend gemachten Ansprüche aufrecht. Die inzwischen eingegangenen Auskünfte machen es erforderlich, die einzelnen Vorgänge noch genauer auseinanderzuhalten. Bitte benennen Sie die bei Ihrer Bank geführten Konten- und Belegreferenzen für Auszahlung, Erwerbspreis und etwaige spätere darlehensbezogene Einnahmen. Soweit Ihre bisherigen Erklärungen abschließend sein sollen, teilen Sie bitte mit, welchen Archivbestand und welchen Zeitraum Sie dafür geprüft haben.",
+            "Ich bitte um die zum Abschlusszeitpunkt vorhandenen Fassungen der Übernahme- und Abrechnungsunterlagen einschließlich einer etwaigen Nebenvereinbarung zu Rückkauf, Risikoübernahme oder Vergütung. Damit behaupte ich nicht, dass eine solche Nebenvereinbarung existiert. Ich möchte wissen, ob sie vorhanden ist und welche Stelle die Suche vorgenommen hat. Ein bloßer Verweis auf die Konzernzugehörigkeit ersetzt die Zuordnung der einzelnen Rechtsträger nicht.",
+            "Die Zahlungseingänge bei Vellio und der Erwerbspreiseingang bei Nexora sollen in Ihrer Antwort getrennt erscheinen. Bitte geben Sie keine Gesamtsumme an, die beide Vorgänge ohne Abgrenzung addiert. Bei einer behaupteten Weiterleitung benötige ich Datum, Betrag, Sender, Empfänger und den zugehörigen Abrechnungsgrund. Falls Ihre Bank keine Weiterleitung erhalten hat, bitte ich um eine entsprechend begrenzte Aussage zum geprüften Einzelvorgang."
+          ]
+        },
+        {
+          "heading": "2. Informationen vor der Schlusszahlung",
+          "paragraphs": [
+            "Herr Grothe und Frau Wendt erinnern die Telefoninhalte nicht vollständig gleich. Bitte sichern Sie deshalb vorhandene Originalnachrichten und zeitnahe Gesprächsvermerke. Von Interesse sind konkrete Angaben über Lieferantenrückstände, fehlende Finanzierung oder bevorstehende Kundenabnahmen vor dem 15. April 2024. Ein später eingegangener Bericht darf nicht als damaliger Kenntnisstand ausgewiesen werden. Bitte benennen Sie Verfasser, Empfänger und Zugangstag jeder vorgelegten Nachricht.",
+            "Die Unterlagen zu Nordkai zeigen bisher einen Gesprächsvorschlag für eine Direktzahlung und einen weiter offenen Lieferantensaldo. Für die im Verfahren geltend gemachten Zahlungen an Vellio ist das ein gesonderter Sachverhalt. Ich bitte insbesondere um Mitteilung, ob und wann Ihrer Bank diese Lieferantenkorrespondenz tatsächlich vorlag. Eine pauschale Zurechnung sämtlicher Nachrichten zwischen allen Beteiligten lege ich der Anfrage nicht zugrunde.",
+            "Die Rückabwicklung mit Nordhafen wurde am 2. Mai 2024 vereinbart. Bitte trennen Sie diese neue Verpflichtung von den davor dokumentierten Rückständen. Die noch unvollständige Übersicht weiterer fälliger Verbindlichkeiten wird bei der Schuldnerin ergänzt. Das vorhandene Bankguthaben und die ausgewählte Kreditorenliste sind jeweils nur Teile der Aufklärung."
+          ]
+        },
+        {
+          "heading": "3. Rückmeldung und Verfahrensbezug",
+          "paragraphs": [
+            "Bitte teilen Sie mir bis zum 5. Oktober 2026 mit, welche der bezeichneten Unterlagen Sie beibringen und welche Positionen Sie weiterhin bestreiten. Dieser erbetene Rückmeldetermin ersetzt keine gerichtliche Frist. Eine Vollmacht von Vellio für Ihre Bank setze ich nicht voraus. Falls Unterlagen ausschließlich bei Vellio liegen, benennen Sie bitte die dort zuständige Stelle, soweit bekannt.",
+            "Das Schreiben wird zunächst als Entwurf zur internen Freigabe geführt. Ein Versand ist in der Akte nicht bestätigt. Die aktuelle Klagefassung, die vorhandene Verteidigungsanzeige und die gerichtliche Erwiderungsfrist bleiben davon unberührt. Mit freundlichen Grüßen, Kunigunde von Tettenborn, Rechtsanwältin, Insolvenzverwalterin."
+          ]
+        }
+      ]
+    }
+  ],
+  "workbooks": [
+    {
+      "id": "59_Stichtage_und_Belegluecken_20260924",
+      "title": "Stichtage und Beleglücken",
+      "date": "2026-09-24"
+    },
+    {
+      "id": "60_Zahlungswege_und_Vorschlaege_20260924",
+      "title": "Zahlungswege und nicht ausgeführte Vorschläge",
+      "date": "2026-09-24"
+    }
+  ],
+  "emails": [
+    {
+      "id": "61_Nordkai_Lieferstopp_20240411",
+      "from": "Ottilie Feistlein <buchhaltung@nordkai.example>",
+      "to": "Martin Grothe <martin.grothe@weserfunken.example>",
+      "cc": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "date": "2024-04-11T15:42:00+02:00",
+      "subject": "WP-043 / Rechnung NA-240212-17 und nächster Abruf",
+      "attachments": [],
+      "body": "Sehr geehrter Herr Grothe,\n\nFrau Kröger hat heute zurückgerufen und gesagt, dass sie noch keinen freigegebenen Auftrag über unsere offene Rechnung hat. Es geht um 42.840,00 EUR, fällig seit dem 12. März. Unsere Mahnung vom 8. April bleibt deshalb bestehen. Der für nächste Woche besprochene Abruf darf vom Lager noch nicht auf Rechnung ausgeliefert werden. Die bereits gelieferten 80 Baugruppen sind davon getrennt.\n\nBitte lassen Sie mir eine ausgeführte Überweisung oder eine konkrete Rückmeldung zukommen. Die Formulierung, die Sache werde mit der Finanzierung zusammen erledigt, hilft uns bei der Zuordnung nicht weiter. Ich brauche keine vertrauliche Gesamtplanung Ihres Betriebs. Ich muss aber wissen, ob unser Betrag bezahlt ist und welchem Vorgang ein Eingang zugeordnet werden soll.\n\nMein Kollege im Lager hatte auf seiner Liste einen Haken neben Ihrem Namen gesehen. Das war die Bestätigung, dass die Teile für einen möglichen weiteren Abruf vorhanden sind. Es ist keine Zahlungsfreigabe und kein Hinweis auf den Eingang der offenen Rechnung. Bitte schicken Sie den Fahrer deshalb noch nicht los. Ich bin morgen bis 13 Uhr am Platz und gebe eine eingehende Bestätigung unmittelbar weiter.\n\nMit freundlichen Grüßen\nOttilie Feistlein\nNordkai Armaturentechnik GmbH\nWerftstraße 18, 27568 Bremerhaven"
+    },
+    {
+      "id": "62_Grothe_Direktzahlung_20240416",
+      "from": "Martin Grothe <martin.grothe@weserfunken.example>",
+      "to": "Alma Knoblauch <einkauf@nordhafen.example>",
+      "cc": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "date": "2024-04-16T10:37:00+02:00",
+      "subject": "N42 / Kann ein weiterer Betrag direkt an Nordkai gehen?",
+      "attachments": [],
+      "body": "Guten Tag Frau Knoblauch,\n\nich versuche die nächste Lieferung von Nordkai wieder in Gang zu bringen. Dort ist noch unsere Rechnung NA-240212-17 über 42.840,00 EUR offen. Könnten Sie diesen Betrag aus einem weiteren freigegebenen Auftrag unmittelbar an Nordkai zahlen, statt über unser Konto? Frau Feistlein hat nach einer eindeutigen Anweisung gefragt. Ich habe ihr noch keine Bestätigung geschickt.\n\nDie April-Sammelzahlung über 598.600,00 EUR ist bei uns bereits angekommen. Ich will diesen Betrag nicht nochmals abrufen. Mir geht es darum, ob aus den besprochenen weiteren Arbeiten schon ein neuer Zahlungsbetrag bereitsteht. Falls das noch nicht freigegeben ist, sagen Sie es bitte deutlich. Frau Kröger soll nicht aufgrund dieser Anfrage eine Zahlung buchen oder einen Lieferantenposten ausgleichen.\n\nIch würde dann die genaue Zuordnung mit Ihnen und Nordkai schriftlich abstimmen. Bisher gibt es dazu keine unterschriebene Vereinbarung. Bitte überweisen Sie daher nicht allein aufgrund dieser E-Mail auf eine fremde Kontoverbindung. Den Kontaktnamen bei Nordkai sende ich Ihnen erst, wenn wir wissen, ob dieser Weg überhaupt in Betracht kommt.\n\nViele Grüße\nMartin Grothe\nWeserfunken Präzisionsbau GmbH\nHüttenstraße 43, 28237 Bremen"
+    },
+    {
+      "id": "63_Nordhafen_Kein_Auftrag_20240416",
+      "from": "Alma Knoblauch <einkauf@nordhafen.example>",
+      "to": "Martin Grothe <martin.grothe@weserfunken.example>",
+      "cc": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "date": "2024-04-16T13:08:00+02:00",
+      "subject": "AW: N42 / derzeit kein weiterer Zahlungsbetrag",
+      "attachments": [
+        "53_Nordhafen_Abrechnung_N42_20240402.pdf"
+      ],
+      "body": "Guten Tag Herr Grothe,\n\nfür die April-Lose ist die Zahlung abgeschlossen. Hanno hat Ihnen das Zahlungsavis vom 2. April nochmals beigefügt. Die 598.600,00 EUR sind vollständig an Weserfunken gegangen. Einen weiteren freigegebenen Betrag, aus dem wir Nordkai bedienen könnten, gibt es derzeit nicht. Die besprochenen nächsten Arbeiten sind noch nicht bestellt.\n\nWir werden die 42.840,00 EUR deshalb nicht überweisen. Bitte leiten Sie Frau Feistlein keine Zahlungszusage von uns weiter. Eine Abtretung oder ein Verrechnungsauftrag ist hier ebenfalls nicht eingegangen. Wenn später ein Auftrag zustande kommt, müssen Leistungsumfang, Rechnung und Zahlungsweg zunächst feststehen. Aus der heutigen Anfrage entsteht noch keine Verpflichtung unserer Buchhaltung.\n\nDie Teile aus N42 befinden sich weiter im Prüfablauf. Bitte geben Sie unserer Qualitätssicherung die aktuelle Telefonnummer für technische Rückfragen. Ich bin für die kaufmännische Abstimmung zuständig und kann die noch anstehenden Prüfungen nicht durch eine E-Mail abschließen. Hanno ist wegen Buchungsfragen in Kopie meines internen Vorgangs informiert; an Ihre Bank oder Vellio wurde diese Nachricht nicht geschickt.\n\nFreundliche Grüße\nAlma Knoblauch\nNordhafen Antriebstechnik GmbH\nAm Industriehafen 26, 28237 Bremen"
+    },
+    {
+      "id": "64_Feistlein_Keine_Zahlung_20240417",
+      "from": "Ottilie Feistlein <buchhaltung@nordkai.example>",
+      "to": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "cc": "Martin Grothe <martin.grothe@weserfunken.example>",
+      "date": "2024-04-17T08:51:00+02:00",
+      "subject": "NA-240212-17 / Telefonat und offener Saldo",
+      "attachments": [],
+      "body": "Guten Morgen Frau Kröger,\n\nHerr Grothe hatte gestern nach einer Zahlung durch Nordhafen gefragt. Nach seiner späteren Rückmeldung kommt diese derzeit nicht zustande. Ich halte unsere Rechnung daher weiterhin mit 42.840,00 EUR offen. Bitte lassen Sie sie auch bei Ihnen stehen. Die Frage nach einem anderen Zahler ist kein Zahlungseingang.\n\nIn dem Telefonat fiel noch der Gedanke, Nordkai könnte Teile aus Ihrem Lager übernehmen und auf die Rechnung anrechnen. Ich habe das abgelehnt. Ich kann weder den Wert noch den Absatz dieser Teile beurteilen. Unser Lager hat keinen Abholauftrag bekommen. Eine Verrechnung mit Ware oder Werkzeugen ist nicht vereinbart. Für die bisherige Lieferung bleibt es bei der offenen Geldrechnung.\n\nIch möchte vermeiden, dass wir in vier Wochen unterschiedliche Gesprächsstände haben. Unser nächster Abruf bleibt gesperrt; die alte Rechnungsfälligkeit wurde nicht verschoben. Wenn sich ein Zahlungsweg konkretisiert, schicken Sie bitte zunächst eine abgestimmte schriftliche Angabe. Eine Nachricht mit dem Wort erledigt ohne Betrag und Zahlungsdatum können wir nicht als Ausgleich behandeln.\n\nMit freundlichen Grüßen\nOttilie Feistlein\nNordkai Armaturentechnik GmbH\nWerftstraße 18, 27568 Bremerhaven"
+    },
+    {
+      "id": "65_Bank_Belegantwort_20260917",
+      "from": "Sven Peters <service@weserkontor.example>",
+      "to": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-17T11:26:00+02:00",
+      "subject": "WT-24-118 / zwei Aufträge vom 15.04.2024",
+      "attachments": [
+        "51_Bankauskunft_Zahlungslauf_20260917.pdf"
+      ],
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nanbei die Auskunft zu den beiden Einzelaufträgen. Die Empfängerangaben wurden aus dem Auftragsarchiv übernommen. Bitte beachten Sie, dass unser Schreiben am heutigen Tag erstellt wurde. Es ersetzt keinen Kontoauszug vom April 2024 und wird nicht rückdatiert. Der Betrag von 505.000,00 EUR setzt sich aus zwei Aufträgen zusammen.\n\nDie Frage, ob ein Lieferant unmittelbar von einem Kunden bezahlt werden sollte, können wir mit diesen Kontodaten nicht beantworten. Auf dem angefragten Konto wäre eine Zahlung zwischen zwei anderen Unternehmen nicht sichtbar. Umgekehrt ist ein Vorschlag ohne Ausführung keine bei uns fehlende Kontobewegung. Für die weitere Klärung benötigen Sie die Unterlagen der bezeichneten Unternehmen.\n\nSie hatten außerdem gefragt, ob ein Guthaben von 520.900,00 EUR am Ende des Zahlungslaufs die wirtschaftliche Lage abschließend belegt. Wir bestätigen den Saldo, jedoch keinen Gesamtstatus der Gesellschaft. Unsere Auskunft enthält keine vollständige Liste ihrer fälligen Verpflichtungen. Die Bank hat die von Ihnen übersandte Kreditorenauswahl nicht geprüft.\n\nRückfragen bitte mit Konto 01728400 und den beiden Verwendungszwecken. Für einen zusätzlichen Abruf nennen Sie den konkreten Zeitraum.\n\nMit freundlichen Grüßen\nSven Peters\nWeserkontor Bank eG\nLangenstraße 18, 28195 Bremen"
+    },
+    {
+      "id": "66_Feistlein_Archivantwort_20260918",
+      "from": "Ottilie Feistlein <buchhaltung@nordkai.example>",
+      "to": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-18T14:17:00+02:00",
+      "subject": "WT-24-118 / Konto WP-043 und damalige Nachrichten",
+      "attachments": [
+        "52_Nordkai_Kontoerklaerung_20260918.pdf",
+        "64_Feistlein_Keine_Zahlung_20240417.eml"
+      ],
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nich übersende meine Kontoerklärung und die E-Mail vom 17. April 2024 als Originalnachricht. Die Tabelle enthält die damalige Rechnung nur einmal. Die Mahnung und die spätere Anfrage nach einem anderen Zahlungsweg erhöhen den Rechnungsbetrag nicht. Wir haben weder am 16. noch am 17. April einen Eingang von Nordhafen erhalten.\n\nAn das Wort Bank erinnere ich mich noch, weil Herr Grothe danach sehr schnell zu unserem Lieferstopp wechselte. Welches Kreditinstitut gemeint war, wusste ich nicht. Ich kann deshalb keine Aussage darüber machen, ob Nexora oder Vellio über unsere Rechnung informiert waren. Unsere eigenen Nachrichten gingen an Herrn Grothe und Frau Kröger. Ich habe sie keiner Finanzierungsgesellschaft weitergeleitet.\n\nDie Frage nach Teilen aus dem Lager habe ich damals abgelehnt. Wir handeln mit unseren eigenen Serien und hätten die von Weserfunken genannten Teile nicht ohne Prüfung übernehmen können. Ich habe weder eine Bewertung veranlasst noch eine Abholung bestellt. In unserem Konto steht keine Warenübernahme.\n\nFalls Sie meine damaligen Kollegen befragen möchten, nennen Sie bitte den konkreten Vorgang. Ich möchte eine Erinnerung aus dem Warenausgang nicht mit meinen eigenen Buchhaltungsangaben vermischen.\n\nMit freundlichen Grüßen\nOttilie Feistlein\nNordkai Armaturentechnik GmbH"
+    },
+    {
+      "id": "67_Kroeger_Erinnerung_20260921",
+      "from": "Jutta Kröger <jutta.kroeger@weserfunken.example>",
+      "to": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-21T16:29:00+02:00",
+      "subject": "WT-24-118 / meine Angaben und die Unterlagen im Büro",
+      "attachments": [
+        "55_Kroeger_Erinnerungsvermerk_20260921.docx"
+      ],
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nanbei mein Vermerk. Ich habe die Stellen, die ich nur aus den alten E-Mails weiß, von meiner eigenen Erinnerung getrennt. Bitte ändern Sie den Vermerk nicht so, dass daraus eine Aufzeichnung vom April 2024 wird. Ich habe ihn heute geschrieben. Die alten Nachrichten liegen daneben.\n\nDie weiße Telefonliste von Herrn Grothe finde ich nicht mehr. Ich erinnere mich aber daran, dass ein Haken dort auch für einen erledigten Anruf stand. Das war kein Bestandteil unseres Buchhaltungsprogramms. Für Zahlungen hatte ich die Bankausführungen. Zum Vorschlag einer Direktzahlung habe ich die Rückmeldung von Nordhafen gefunden. Sie enthält eine Absage.\n\nFür eine vollständige Übersicht aller fälligen Verpflichtungen reichen die zwölf Lieferantenrechnungen nicht. Ich suche noch nach den damaligen Lohn- und Steuerlisten und einer Fälligkeitsübersicht für andere Verträge. Die Zahlen aus K7 darf ich deshalb nicht als vollständige Verbindlichkeitssumme bestätigen. Ein fehlendes Blatt kann nicht mit null eingesetzt werden.\n\nDie Darlehensrate vom April wurde wie die Endtilgung an Vellio geschickt. Dass im Ordner Nexora stand, war eine alte Beschriftung. Bitte bewahren Sie die ursprüngliche Bezeichnung auf, damit sich das später erklären lässt.\n\nFreundliche Grüße\nJutta Kröger"
+    },
+    {
+      "id": "68_Grothe_Abweichende_Erinnerung_20260922",
+      "from": "Martin Grothe <martin.grothe@weserfunken.example>",
+      "to": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-22T18:06:00+02:00",
+      "subject": "WT-24-118 / Ergänzung zu den Aprilgesprächen",
+      "attachments": [
+        "56_Grothe_Rueckmeldung_20260922.docx"
+      ],
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nich habe die Rückfragen in einem gesonderten Schreiben beantwortet. Bei dem Gespräch mit Frau Wendt erinnere ich mich an die Lieferanten und einen hohen Rückstand. Eine genaue Zahl möchte ich nicht nachträglich als sicher behaupten. Frau Kröger war nicht die ganze Zeit dabei. Ihre Aussage, dass sie die telefonische Weitergabe nicht bestätigen kann, verstehe ich deshalb.\n\nIch habe auch die Anfrage an Nordhafen nachgelesen. Daraus ist keine Direktzahlung geworden. Ich wollte eine Lösung für den Lieferstopp, aber eine Idee am Telefon ist noch keine Vereinbarung. Die Rechnung von Nordkai blieb in der offenen Liste. Von einer Übertragung unserer Werkzeuge oder Teile kann ebenfalls nicht die Rede sein; Frau Feistlein wollte das nicht.\n\nDie Rückabwicklung am 2. Mai kam später hinzu. Dass die Temperaturwechselprüfung noch lief, war mir bekannt. Die Risse und der konkrete Erstattungsbetrag waren mir vor diesem Tag nicht bekannt. Bitte verwenden Sie für den Ablauf die Nachrichten mit ihren jeweiligen Daten.\n\nWenn Sie aus meinem Schreiben etwas für den Prozess übernehmen wollen, schicken Sie mir den betreffenden Absatz vorher zur Kontrolle der tatsächlichen Angaben. Eine rechtliche Bewertung kann ich damit nicht bestätigen.\n\nMit freundlichen Grüßen\nMartin Grothe"
+    },
+    {
+      "id": "69_Wendt_Archivgrenze_20260923",
+      "from": "Nora Wendt <servicing@vellio.example>",
+      "to": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-23T10:48:00+02:00",
+      "subject": "NF-WP-221014-01 / Antwort zum Gesprächsinhalt",
+      "attachments": [
+        "57_Wendt_Gespraechsauskunft_20260923.docx"
+      ],
+      "body": "Sehr geehrte Frau von Tettenborn,\n\nanbei meine Auskunft. Die Telefonnotiz vom 10. April bleibt unverändert. Ich kann die von Herrn Grothe heute erinnerte Zahlenangabe nicht bestätigen. Meine Notiz enthält sie nicht, ist aber keine wörtliche Mitschrift. Ich möchte daraus keine stärkere Aussage machen, als meine Erinnerung trägt.\n\nDie Lieferantenkorrespondenz mit Nordkai und Nordhafen habe ich erst durch Ihre jetzige Rückfrage kennengelernt. Ich war damals nicht in den E-Mail-Verteilern. Bitte unterscheiden Sie daher den Zeitpunkt, zu dem ein Schriftstück erstellt wurde, von dem Zeitpunkt, zu dem es mir zuging.\n\nWegen möglicher zusätzlicher Konzernverträge habe ich den zuständigen Bereich gefragt. Die laufende Kreditakte beantwortet nicht automatisch eine Suche in anderen Gesellschaften. Ich kann Ihnen keine Bestätigung über Akten geben, in die ich keine Einsicht hatte. Die vorliegenden Zahlungsaufstellungen führen die Zahlungen von Weserfunken getrennt vom damaligen Erwerbspreis.\n\nEs gibt keine von mir erteilte Zusage zur Zahlung an Sie oder zu einem Verzicht auf Einwendungen. Für eine weitere belegbezogene Frage stehe ich zur Verfügung.\n\nMit freundlichen Grüßen\nNora Wendt\nVellio Finance GmbH"
+    },
+    {
+      "id": "70_Tettenborn_Arbeitsauftrag_20260924",
+      "from": "Kunigunde von Tettenborn <kanzlei@tettenborn.example>",
+      "to": "Leopold Hutzler <leopold.hutzler@tettenborn.example>",
+      "cc": "",
+      "date": "2026-09-24T15:32:00+02:00",
+      "subject": "WT-24-118 / Abgleich vor der nächsten Auskunftsrunde",
+      "attachments": [
+        "58_Tettenborn_Nachforderung_20260924.docx",
+        "59_Stichtage_und_Belegluecken_20260924.xlsx",
+        "60_Zahlungswege_und_Vorschlaege_20260924.xlsx",
+        "54_N42_Rueckabwicklung_20240502.pdf"
+      ],
+      "body": "Guten Tag Herr Hutzler,\n\nbitte prüfen Sie die beigefügten Arbeitsmappen gegen die Originale. Die erste Mappe stellt ausgewählte Stichtage gegenüber. Sie ist noch kein vollständiger Liquiditätsstatus. Insbesondere die zusätzlichen fälligen Verpflichtungen sind nicht vollständig erhoben. Lassen Sie die offenen Eingaben leer und benennen Sie die fehlenden Unterlagen, statt einen Wert von null einzutragen.\n\nDie zweite Mappe trennt ausgeführte Darlehenszahlungen, den Erwerbspreis und nicht ausgeführte Vorschläge. Die April-Schlusszahlungen von zusammen 505.000,00 EUR sind in den 590.000,00 EUR enthalten. Der Erwerbspreis von 500.000,00 EUR darf nicht hinzuaddiert werden. Die Anfrage über 42.840,00 EUR an Nordhafen hat keinen Zahlungseingang bei Nordkai ausgelöst.\n\nBitte legen Sie daneben eine Chronologie der Kenntnisstände an: Wer hat welche Nachricht vor welchem Zahlungstag erhalten? Die Erinnerungen von Grothe, Kröger und Wendt sollen mit ihren jeweiligen Grenzen wiedergegeben werden. Eine fehlende Notiz beweist nicht ohne Weiteres, dass etwas nie gesagt wurde. Sie dürfen aus der heutigen Aktenkenntnis aber auch keinen damaligen Zugang ableiten.\n\nDer beigefügte Nachforderungsbrief ist ein noch nicht versandter Entwurf. Markieren Sie die Stellen, die anhand der neuen Belege angepasst werden sollten, und legen Sie mir die fertige Fassung zur Freigabe vor. Weder eine Prozessentscheidung noch eine abschließende Anspruchsberechnung ist damit vorgegeben.\n\nFreundliche Grüße\nKunigunde von Tettenborn\nRechtsanwältin, Insolvenzverwalterin"
+    }
+  ]
+}

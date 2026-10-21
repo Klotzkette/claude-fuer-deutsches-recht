@@ -1,0 +1,19 @@
+{
+  "name": "insolvenzanfechtung",
+  "version": "1.0.0",
+  "description": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Insolvenzanfechtung",
+    "shortDescription": "Zahlungen prüfen, Ansprüche begründen oder abwehren",
+    "longDescription": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Prüfen Sie die bezeichneten Zahlungen oder Sicherheiten aus der beauftragten Perspektive. Lesen Sie die vorhandenen Unterlagen, rekonstruieren Sie Rechtsgrund, Zeitpunkt, Gegenleistung und Wissen und erstellen Sie das verlangte Memo, Schreiben oder den Schriftsatz. Fragen Sie nur nach entscheidenden Lücken und verwenden Sie nur geprüfte Originalquellen."
+  }
+}

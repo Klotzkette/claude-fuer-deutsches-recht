@@ -1,0 +1,159 @@
+{
+  "slug": "insolvenzanfechtung-blechliebe-bamberg",
+  "documents": 24,
+  "pages": 24,
+  "formats": {
+    ".docx": 6,
+    ".pdf": 7,
+    ".eml": 7,
+    ".xlsx": 2,
+    ".txt": 2
+  },
+  "font": "Times New Roman",
+  "files": [
+    {
+      "file": "01_Mandat_Raban.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "46564178a34749eacf66beb4acaf3cce4aadc9f6156dee67f8dcf9eb82902900"
+    },
+    {
+      "file": "02_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "dce5a696c58364467884f059dfc0bb031b05b93ccb47cb98937552874dd47867"
+    },
+    {
+      "file": "03_Liefervereinbarung.docx",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "af1a16dd6f6ee66a96bf0bae65eb342f201046e9c122bd6900f076f1337625fe"
+    },
+    {
+      "file": "04_Rechnung_2025_118.pdf",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "872853a7c2867581e63c34f71b78eb2da11fcb5797be5abf58d7203432610b16"
+    },
+    {
+      "file": "05_Rechnung_2026_014.pdf",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "94cb2cb54ea237237f4107d820e82d08a255469965264c3a4e87fb2bb380eebb"
+    },
+    {
+      "file": "06_Rechnung_2026_032.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "96c3b87a600a37c2b8a76f36b6af8253d1a16d6dc7fbee2e6e93012fee5609f4"
+    },
+    {
+      "file": "07_Mahnung.eml",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "416e32f0778a3d0dc137281af18ab49a54c486881133809ff67645693ec79894"
+    },
+    {
+      "file": "08_Antwort_Blechliebe.eml",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "c69fcb6d5d1a7f8004e954240117b7b3dbb7949d04cf1525907c038e46e61f55"
+    },
+    {
+      "file": "09_Ratenvereinbarung.docx",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "ed5f5acd86a7bd2d623de21d71479044fe56dcff5ef374b5000fd922d7d05e00"
+    },
+    {
+      "file": "10_Ratennachfrage.eml",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "256ea82f4448850ec8a52c3cac2c56e3fe00056b398705c1dea01d2cadcc1b2e"
+    },
+    {
+      "file": "11_Notiz_Herold.docx",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "d778bc089cc182f91b03c9abfeb002296d9e4905a5d9ba4b039a32e6d9e32da6"
+    },
+    {
+      "file": "12_Schottenbau_Einbehalt.pdf",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "3e57ec4c10c637e4d2a83c9ffa88db2c399d7bba2d08a0bed6905c4fb1f3dc26"
+    },
+    {
+      "file": "13_Sicherungsabtretung.docx",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "b90492648477abbffcd73dd0a4fe1ed233e45fc4b10927254ecc97a046c7b67b"
+    },
+    {
+      "file": "14_Lieferanfrage.eml",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "9e439214a65d1d4b89e3dd92ee80f38c287e0124535cc2a348f7c4013e61d6ef"
+    },
+    {
+      "file": "15_Vorkasserechnung_058.pdf",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "acae18c7af72e1b2c6275b8178f8f51a9ba38bcb3c13537e4c207a59d70dc401"
+    },
+    {
+      "file": "16_Vorkasse_Bestaetigung.eml",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "4cb622aa413e77daec93f2985980d67d8281f8a829e5f449fb9dd6013e5f3aba"
+    },
+    {
+      "file": "17_Kontoauszug_Auswahl.pdf",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "b5c5a4bfde2f261403ba04ea1a3fcaa0ac6c48610fff516cf263e3e40c659eae"
+    },
+    {
+      "file": "18_Offene_Posten.xlsx",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "d9d793758c02d1024c358ba7c53744d2977d73a3bf61782d1201bbfe0e11adee"
+    },
+    {
+      "file": "19_Zahlungsjournal.xlsx",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "3b741571fc392ca8d9875eb6b68d81a7e14e6b6c645ad33c0cf8653c87e2c204"
+    },
+    {
+      "file": "20_Rueckforderung.docx",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "8aba03b9deea2698520bb4f57b6a8836228ad6df6cd42c4cb8365a878e6f0d22"
+    },
+    {
+      "file": "21_Antwort_Kanzlei.eml",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "c8a340ba65b05da8531cdbf4313520c86de7a88673997ecb3813a681c70e19bc"
+    },
+    {
+      "file": "22_Buchhaltung_Anlagen.eml",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "8796ba2ee0df217d9276a6f42ba8eeb03ced3efc33353a968adf1911a32afbcc"
+    },
+    {
+      "file": "23_Chat_Vertrieb.txt",
+      "pages": 1,
+      "start_page": 23,
+      "sha256": "8324b0c8cc04322a210ec28e5cf82e74196fe013f595318e2dddf2fa788b13ae"
+    },
+    {
+      "file": "24_Telefonnotiz_Grell.txt",
+      "pages": 1,
+      "start_page": 24,
+      "sha256": "d320c63baed8bcf7058f7902683482b34ed7b7685818a222d783344335ebc978"
+    }
+  ]
+}

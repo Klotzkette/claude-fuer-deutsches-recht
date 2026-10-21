@@ -6,6 +6,12 @@
       "version": "445.33.1",
       "sha256": "363cb0845c0e0b9e1a8ab322c6c24c29c6d97f7f8323e6833c42c54a6c0bf4a2",
       "evidence": "quality/bauwirtschaft-rundum/pakete.json"
+    },
+    "fachanwalt-insolvenz-sanierungsrecht.zip": {
+      "tag": "insolvenzanfechtung-v1.0.0",
+      "version": "445.35.4",
+      "sha256": "3b94fa415ff175aef66ba6afa64acc542068db563e12d67464328a35162fb5b9",
+      "evidence": "quality/insolvenzanfechtung/release-pakete.json"
     }
   }
 }

@@ -36,6 +36,8 @@ Die Tabelle ist alphabetisch nach den bestehenden Marketplace-Quellpfaden sortie
 | [`verbraucherinsolvenz-schuldenbereinigung`](../verbraucherinsolvenz-schuldenbereinigung/) | Schuldenbereinigung und Verbraucherinsolvenz aus Schuldnersicht. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verbraucherinsolvenz-schuldenbereinigung.zip) |
 | [`zwangsverwaltung-zvg`](../zwangsverwaltung-zvg/) | Zwangsverwaltung von Immobilien und Bezüge zum Insolvenzverfahren. | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zwangsverwaltung-zvg.zip) |
 
+Das eigenständige [Plugin Insolvenzanfechtung](../insolvenzanfechtung/README.md) ergänzt die Sammlung mit zehn Fachskills, einem Hauptskill, separaten Prompts und drei vollständigen Übungsakten.
+
 ## 4 Quelldateien und Installationspakete
 
 Das Quellverzeichnis eines Plugins enthält dessen Manifest, README, Skills und weitere Arbeitsdateien. Maßgeblich für den Skill-Bestand sind die vorhandenen Dateien unter `skills/<skill-name>/SKILL.md`; die aktuelle Übersicht steht im [Skill-Verzeichnis](../SKILLS.md). Es gibt keine zusätzlichen Schnellstart-Wrapper-Skills.

@@ -71,7 +71,7 @@ def build_release_pdf(case):
         canvas.setFont('FintechRegisterBold', 16)
         canvas.drawString(48, 795, 'Weserfunken Darlehensverfahren Bremen')
         canvas.setFont('FintechRegister', 10)
-        canvas.drawString(48, 774, 'Landgericht Bremen | 4 O 1186/26 | Aktenstand 28.09.2026')
+        canvas.drawString(48, 774, 'Landgericht Bremen | 4 O 1186/26 | Aktenstand 28.09.2026 | Export 21.10.2026')
         canvas.drawString(48, 750, 'Dokumentenregister; Seitenzahlen beziehen sich auf diese Lesefassung.')
         y = 720
         for path, start, count in positions[offset:offset+rows_per_page]:

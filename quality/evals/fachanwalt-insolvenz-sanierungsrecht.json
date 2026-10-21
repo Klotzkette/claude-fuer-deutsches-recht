@@ -270,5 +270,21 @@
     "reference": "fachanwalt-insolvenz-sanierungsrecht/references/ki-normen-und-fallpruefung.md",
     "focus": "Klären Sie beim Erwerb eines KI-Geschäfts, welche Dokumentation, Rechte und Betriebsfunktionen tatsächlich übergehen. Ein Erwerber wird nicht allein durch Anteilskauf Systemanbieter; Umwidmung und Weiterentwicklung getrennt untersuchen.",
     "limits": "Keine vollständige Prüfung nicht KI-bezogener Inhalte; kein Live-Client-Test."
+  },
+  "insolvenzanfechtung_2026_10_21": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-21",
+    "sources_report": "quality/insolvenzanfechtung/quellenpruefung-2026-10-21.md",
+    "files": [
+      {
+        "path": "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+        "sha256": "157d904a15618023fb88b6ee2cde94f8d5afa02d64ff9c93ac8cb773c0c1c337"
+      },
+      {
+        "path": "fachanwalt-insolvenz-sanierungsrecht/prompts/insolvenzanfechtung/insolvenzanfechtung-schnellstart.md",
+        "sha256": "98492625d5c230d84e5054c473bbbed9105bc219df3afa49b16c9364ea2c277a"
+      }
+    ],
+    "scope": "Separate Anfechtungs-Prompts und Anfechtungsskill; keine neue Gesamtprüfung der übrigen Fachanwalts-Skills."
   }
 }

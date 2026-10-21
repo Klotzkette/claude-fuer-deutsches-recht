@@ -6129,10 +6129,28 @@ PROFILE += (
     ),
 )
 
+PROFILE += (
+    ThemenProfil(
+        key="insolvenzanfechtung",
+        label="Insolvenzanfechtung aus Verwalter- und Empfängersicht",
+        rolle="Einzelne Vermögensverschiebungen rekonstruieren und bis zum begründeten Anspruchsschreiben, zur Erwiderung oder zum Vergleich prüfen.",
+        normen=("Paragrafen 129 bis 147 InsO: Grundvoraussetzungen, besondere Tatbestände, Zeitpunkte und Rechtsfolgen getrennt prüfen.",
+                "Paragrafen 17 und 39 InsO: Zahlungsunfähigkeit und Gesellschafterfinanzierung jeweils anhand der Voraussetzungen prüfen.",
+                "Artikel 103j EGInsO: maßgebliche Gesetzesfassung; Paragrafen 195, 199, 203 und 204 BGB: gesonderte Verjährungsrechnung."),
+        entscheidungen=("BGH, Urteil vom 23.10.2025 – IX ZR 125/23, Rn. 17 bis 31: Trägt die gesonderte Prüfung erkennbarer Drittzahlungen und wertloser Forderungen gegen den Vertragsschuldner; trägt keine automatische Unentgeltlichkeit jeder Zahlung aus einem fremden Konto. Amtlicher Volltext: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_125-23.pdf?__blob=publicationFile&v=1",),
+        stationen=("Auftrag und Perspektive lesen", "Zahlung, Sicherheit, Rechtsgrund und Kenntniszeitpunkt belegen", "Zeitbezogen jeden einschlägigen Tatbestand und Gegenargument prüfen", "Rückgewähradressat, Betrag und Verjährung bestimmen", "Beauftragtes Dokument ausformulieren und nach neuen Belegen fortsetzen"),
+        pruefraster=("Antragseingang und Wirkungszeitpunkt", "Gläubigerbenachteiligung und Gegenleistung", "Deckung, Vorsatz, Unentgeltlichkeit und Gesellschafterfinanzierung", "Bargeschäft, Rückgewähr und Wiederaufleben", "Darlegung, Beweise und offene Quellen"),
+        stop=("Keine Kenntnis aus interner E-Mail automatisch beim Empfänger unterstellen", "Keine Ratenvereinbarung als automatische Haftung oder Immunität", "Keine fingierte Drittzahlung oder pauschale 30-Tage-Grenze"),
+        skelette=("Ausformuliertes Anspruchs- oder Verteidigungsschreiben", "Zahlungsbezogene Berechnung mit Belegverweisen", "Begründeter Schriftsatz oder Vergleich mit konkreter Rückgewährregelung"),
+        oeffnungssatz="Prüfen Sie die bezeichneten Zahlungen und Sicherheiten anhand der vorhandenen Belege und erstellen Sie das beauftragte Dokument aus der gewählten Perspektive.",
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "insolvenzanfechtung": "insolvenzanfechtung",
     "ki-halluzinationsreduzierer": "fundstellenverifikation",
     "un-kaufrecht-cisg": "transport_handel",
     "due-diligence": "ma_finanzierung",

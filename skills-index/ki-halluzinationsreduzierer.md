@@ -1,6 +1,6 @@
 # ki-halluzinationsreduzierer
 
-**11 Skills** · Stand `v1.0.0`
+**11 Skills** · Stand `v1.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-halluzinationsreduzierer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -15,7 +15,7 @@
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`ki-halluzinationsreduzierer-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | TXT | [`ki-halluzinationsreduzierer-hauptproblem.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-hauptproblem.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [ki-halluzinationsreduzierer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.0.0/ki-halluzinationsreduzierer.zip) |
+| **Plugin (installierbar)** | ZIP | [ki-halluzinationsreduzierer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-halluzinationsreduzierer-v1.1.0/ki-halluzinationsreduzierer.zip) |
 
 ## So benutzt man einen Skill
 

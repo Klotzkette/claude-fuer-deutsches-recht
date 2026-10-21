@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzanfechtung",
+  "reviewed_on": "2026-10-21",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZR__72-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Bei kongruenten Deckungen nicht aus bekannter Zahlungsunfähigkeit allein auf Benachteiligungsvorsatz schließen. Erforderlich ist die ex ante belegte Vorstellung, andere Gläubiger auch künftig nicht vollständig befriedigen zu können; die entsprechenden Kenntnistatsachen des Empfängers sind eigenständig zu würdigen. Für Zahlungseinstellung sind ausdrückliche Erklärungen oder gleichgewichtige Indizien erforderlich. Eine bloße Ratenbitte oder wiederholte Verzögerung ist kein automatischer Vollbeweis. Grenze: Abschaffung der Vorsatzanfechtung, generelle Unanfechtbarkeit insolventer Zahlungen oder mechanische Übertragung der Anforderungen kongruenter Deckungen auf jede inkongruente Sicherung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR___6-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Eine erhebliche inkongruente Nachbesicherung bei finanzieller Krise kann ein starkes eigenständiges Indiz für Vorsatz und Kenntnis sein. Die 2021 für kongruente Deckungen entwickelten Erwägungen beseitigen dieses Indiz nicht. Ein entgegengehaltenes Sanierungsvorhaben muss anhand seiner tatsächlichen Grundlage, Ernsthaftigkeit und Erfolgsaussicht geprüft werden. Grenze: Jede Inkongruenz beweist ohne Gesamtwürdigung den Vorsatz; jeder Gläubiger muss unabhängig vom Vortrag des Verwalters ein Sanierungsgutachten vorlegen. Das amtliche Entscheidungsdatum lautet 18. Januar, nicht 17. Januar 2024."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_129-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Ein außenstehender Empfänger muss aus einer nicht durch Einzelbelege erläuterten, nur zusammengefassten Liquiditätstabelle keine nicht vorhandenen internen Kenntnisse gewinnen. Umfang des erforderlichen Bestreitens hängt von Substantiierung des Verwaltervortrags und eigener Kenntnis ab. Forderung, Fälligkeit, liquide Mittel und Belege sind so aufzubereiten, dass konkrete Einwendungen möglich sind. Grenze: Pauschales Nichtwissen ist bei eigenen Handlungen immer zulässig; jede Liquiditätsrechnung benötigt ausnahmslos jeden Buchhaltungsbeleg als Anlage; der außenstehende Empfänger ist materiell von Anfechtung befreit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_239-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Für den Schluss auf künftig ausbleibende Vollbefriedigung kommt es auf die erkennbare Deckungslücke und realistische Beseitigungsmöglichkeiten zum Zeitpunkt der Handlung an. Eine bloße Liste später offener Verbindlichkeiten bildet verfügbare Mittel und Aussichten nicht ab. Evident überwältigende Verbindlichkeiten können je nach Lage dennoch eigenständige Aussagekraft besitzen. Grenze: Rückrechnung aus der späteren Eröffnung genügt; eine einmalige Liquiditätslücke bleibt ohne Gegenprüfung auf Dauer bestehen; ein Verwalter müsse immer denselben bestimmten Tabellentyp vorlegen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_100-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Kenntnis oder grob fahrlässige Unkenntnis muss die tatsächlichen Voraussetzungen des konkreten Anspruchs erfassen. Der Kontovermerk „Drittschuldnerzahlung“ beweist nicht schon eine selbstbestimmte Schuldnerhandlung für § 133 InsO. Tatsächlicher Kenntniserwerb und vorwerfbar unterlassene Aufklärung sind zu dokumentieren; eine allgemeine Untersuchungsaufgabe ersetzt die Prüfung grober Fahrlässigkeit nicht. Grenze: Endgültige Feststellung fehlender Verjährung in diesem Fall. Es handelt sich um einen auf Gehörsverletzung gestützten Aufhebungs- und Zurückverweisungsbeschluss. Die Hemmungsvorschriften sind am Gesetz zu prüfen; ein abweichender Normverweis im Entscheidungstext darf nicht ungeprüft übernommen werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_122-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Unlauterkeit verlangt gezielte Schädigung der übrigen Gläubiger oder gezielte Bevorzugung, die über die bloße Erkenntnis hinausgeht, nicht alle Gläubiger befriedigen zu können. Verlustbringende Fortführung und Verstöße gegen Insolvenzantrags- oder Zahlungspflichten allein genügen nicht. Im konkreten Fall waren betriebsnotwendige laufende Dienstleistungen zu würdigen. Empfängerkenntnis der Unlauterkeit bleibt zusätzlich erforderlich. Grenze: Jede Leistung zur Unternehmensfortführung ist geschützt; jede Zahlung innerhalb von 30 Tagen ist ein Bargeschäft; der Fall begründe eine neue allgemeine Lohnzahlungsfrist. Branchenübliche Zeitnähe, Gleichwertigkeit und tatsächlicher Zufluss sind einzeln zu belegen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Zahlt der Gesellschafter Gesellschaftsschulden aus eigenen Mitteln mit Rückgriff, kann sofort eine darlehensgleiche Forderung entstehen; eine kurze Finanzierungsdauer beseitigt dies nicht. Davon zu unterscheiden ist eigener dienstvertraglicher Auslagenersatz, dessen rechtliche oder tatsächliche Stundung gesondert festgestellt werden muss. Eine länger als drei Monate hinausgeschobene Rückzahlung kann ein gewichtiges Indiz sein; darunter bedarf es anderer tragender Umstände. Grenze: Jede Spesenabrechnung ist ein Gesellschafterdarlehen; drei Monate sind eine gesetzliche Freigrenze; jede überfällige Forderung ist ohne Gesamtbetrachtung ein Darlehen. In der Akte daher Ursprung der Verbindlichkeit, Zahlungsweg, Auftrag, Rückgriffsgrund und vereinbarte Abrechnung erfassen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_125-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Zunächst eigene Zahlungspflicht und erkennbares Dreipersonenverhältnis auseinanderhalten. Zahlt ein Dritter ohne eigene Verpflichtung, kann der Wert der beim Empfänger erlöschenden Forderung gegen den Vertragsdebitor entscheidend sein. Die genaue Identität des Dritten muss nicht bekannt sein, wenn die Drittleistung als solche erkennbar ist. Formale Kontoinhaberschaft ersetzt nicht die Prüfung wirtschaftlicher Herkunft und tatsächlicher Kontonutzung. Grenze: Jede Drittzahlung ist unentgeltlich oder jeder Verlust einer Forderung ist gleichwertiges Entgelt. Eigene Verpflichtung, Werthaltigkeit und konkrete Zuordnung dürfen nicht übersprungen werden. Für Weserfunken sind Vertragsübernahme, Zahlungstext, Bankwissen, Buchung und Herkunft der Mittel getrennte Beweisfragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__81-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Ob Befriedigung kongruent ist, richtet sich nach dem objektiven Anspruch. Eine an die Geschäftsleitung gerichtete aufsichtsrechtliche Anordnung, bestimmte massegefährdende Zahlungen zu unterlassen, ist anhand ihres konkreten Wortlauts von einem umfassenden Zahlungs- oder Verfügungsverbot zu unterscheiden. Der im Fall vorliegende Inhalt machte vertragsgemäße Zahlungen nicht automatisch inkongruent. Grenze: Jede Aufsichtsanordnung ist unbeachtlich; alle Zahlungen nach Intervention der BaFin sind kongruent; mangels § 131 scheiden andere Tatbestände aus. Für die Testakten nur heranziehen, wenn eine entsprechende tatsächliche Maßnahme vorhanden ist."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Verpflichtungsgeschäft und einzelne Erfüllungshandlungen getrennt prüfen. Das Sale-and-lease-back-Verpflichtungsgeschäft ist nicht allein wegen angemessenen Kaufpreises eine Deckung. Interne Krisenmails an Organ/Gesellschafter sind nicht automatisch nach außen hervorgetretene Zahlungseinstellung, können aber Krisenwissen belegen. Aufrechnung mit einem Altdarlehen schafft keinen für § 142 ausreichenden Aktivzufluss. Ein Sanierungsansatz muss Ursachen adressieren; bloßes kurzfristiges Schließen einer Liquiditätslücke genügt nicht ohne Weiteres. Grenze: Interne Nachrichten sind generell unbeachtlich; alle Sale-and-lease-back-Geschäfte sind anfechtbar; Gesellschafterstellung allein ersetzt Kenntnis- oder Vorsatzbeweis. Eine Nachricht an einen Gesellschafter kann anders zu würdigen sein, wenn dieser tatsächlich als Gläubiger auftritt."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0043",
+      "checked_on": "2026-10-21",
+      "supports": "Art. 13 der Verordnung (EG) Nr. 1346/2000 ist nicht gegen die Rückforderung von Gesellschafterdarlehenszahlungen einsetzbar, wenn diese den insolvenzrechtlichen Rang und die Verteilungsordnung durchsetzt. Der Gerichtshof trennt die Anfechtungsregel von Anmeldung und Rang der Forderungen. Die Rechtswahl österreichischen Vertragsrechts allein verhindert daher nicht den im Ausgangsverfahren verfolgten Rückgriff. Grenze: Allgemeiner Ausschluss der Einwendung ausländischen Rechts bei jeder Anfechtung oder jedem Bankdarlehen. Fragen 2 bis 4 wurden ausdrücklich nicht beantwortet. Das Urteil betrifft die alte EuInsVO; die Anwendung auf den heutigen Normzusammenhang muss offengelegt und begründet werden."
+    }
+  ],
+  "selection": {
+    "target_skill": "anfechtung-steuern",
+    "positive": [
+      "Verteidigen Sie den Lieferanten gegen diese insolvenzrechtliche Rückforderung.",
+      "Prüfen Sie Rückzahlung und Sicherheit eines Gesellschafterdarlehens und erstellen Sie das Aufforderungsschreiben."
+    ],
+    "negative": [
+      "Bereiten Sie nur einen Sanierungsplan mit Fortführung vor.",
+      "Berechnen Sie ausschließlich die laufende Lohnsteuer."
+    ]
+  },
+  "cases": [
+    {
+      "id": "blechliebe-ratenplan",
+      "request": "Raban hat vier Altzahlungen von zusammen 27.000 EUR sowie 7.140 EUR Vorkasse für neue Profile erhalten. Der Verwalter verlangt 34.140 EUR zurück. Antragseingang war am 15. Juni 2026; die erste Rate ging am 12. März ein. Erstellen Sie ein Verteidigungsschreiben und nennen Sie entscheidende Beleglücken.",
+      "target_skill": "anfechtung-steuern",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "blechliebe-ratenplan-1",
+          "text": "Antragszeitpunkt und jede Zahlung getrennt, erste Rate nicht pauschal im Dreimonatszeitraum.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "blechliebe-ratenplan-2",
+          "text": "§ 133 bleibt neben § 130 gesondert prüfbar; Ratenvereinbarung weder Haftungsautomatismus noch Immunität.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "blechliebe-ratenplan-3",
+          "text": "Vorkasse, Lieferung und Gleichwertigkeit gesondert prüfen; keine pauschale 30-Tage-Regel.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faltenwurf-buergschaft",
+      "request": "Gundula hält 60 Prozent und erhält 80.000 EUR Darlehensrückzahlung. Die Gesellschaft tilgt außerdem 35.000 EUR bei einer Bank, für die Gundula persönlich bürgt. Der nicht geschäftsführende Gesellschafter Haderlein hält 7 Prozent und erhält Auslagen zurück. Erstellen Sie aus Verwaltersicht eine gegliederte Anspruchsprüfung mit offenen Nachweisen.",
+      "target_skill": "anfechtung-steuern",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "faltenwurf-buergschaft-1",
+          "text": "Gesellschafts- und Eigenverbindlichkeit, Rückzahlung und Sicherheit getrennt.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "faltenwurf-buergschaft-2",
+          "text": "§ 135 Abs. 2 und § 143 Abs. 3 können den Gesellschafter betreffen; Bank nicht automatisch als richtiger Beklagter behandeln.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "faltenwurf-buergschaft-3",
+          "text": "Kleinbeteiligung und fehlende Geschäftsführung prüfen, Entwurf über 15 Prozent nicht als wirksame Beteiligung behandeln.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "weserfunken-zurechnung",
+      "request": "Die Bremer Klage verlangt 590.000 EUR. Kontoabflüsse betragen 515.000 EUR; 10.000 EUR liefen zurück. Daneben wird eine Forderung durch Sachleistung erledigt. Prüfen Sie die Klage aus Sicht der österreichischen Bank. Unterscheiden Sie Zahlung, Vertragsübernahme und ein lediglich vorgeschlagenes, abgelehntes Direktzahlungsmodell.",
+      "target_skill": "anfechtung-steuern",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "weserfunken-zurechnung-1",
+          "text": "590.000 EUR Anspruchsbehauptung nicht mit 515.000 EUR Abflüssen und 505.000 EUR Nettoabfluss gleichsetzen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "weserfunken-zurechnung-2",
+          "text": "Sachleistung und verweigerte Direktzahlung nicht als ausgeführte Banküberweisung behandeln.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "weserfunken-zurechnung-3",
+          "text": "Österreichische Bankanschrift trägt weder Art. 16 EuInsVO noch pauschale Unanfechtbarkeit; Quellenlücke kenntlich lassen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Zahlungsbezogene Prüfung aus Verwalter- und Empfängersicht mit getrenntem Krisenwissen, Gegenleistung, Anspruchsadressat und beauftragtem Endprodukt.",
+    "changes": [
+      "Ratenplan und neue Gegenleistung getrennt.",
+      "Drittzahlung und eigene Verpflichtung rekonstruiert.",
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+    ],
+    "reviewed_on": "2026-10-21",
+    "sha256": "98492625d5c230d84e5054c473bbbed9105bc219df3afa49b16c9364ea2c277a"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Zahlungsbezogene Prüfung aus Verwalter- und Empfängersicht mit getrenntem Krisenwissen, Gegenleistung, Anspruchsadressat und beauftragtem Endprodukt.",
+    "changes": [
+      "Ratenplan und neue Gegenleistung getrennt.",
+      "Drittzahlung und eigene Verpflichtung rekonstruiert.",
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+    ],
+    "reviewed_on": "2026-10-21",
+    "sha256": "157d904a15618023fb88b6ee2cde94f8d5afa02d64ff9c93ac8cb773c0c1c337"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Zahlungsbezogene Prüfung aus Verwalter- und Empfängersicht mit getrenntem Krisenwissen, Gegenleistung, Anspruchsadressat und beauftragtem Endprodukt.",
+    "changes": [
+      "Ratenplan und neue Gegenleistung getrennt.",
+      "Drittzahlung und eigene Verpflichtung rekonstruiert.",
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+    ],
+    "reviewed_on": "2026-10-21",
+    "method": "desk_review",
+    "prompt_path": "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
+    "skill_path": "insolvenzanfechtung/skills/anfechtung-steuern/SKILL.md",
+    "prompt_sha256": "88684838a7bbf0119f4f903f2c059f91b19b01d5bbdb8ae0bb9707a17f78dc38",
+    "skill_sha256": "0f1b9c0cceca83149cfd3a92511b5eb18ff2c565928b39b2de4a4b9857e713cf"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-21",
+    "method": "desk_review",
+    "opening_change": "Konkrete Zahlung, Perspektive und verlangtes Dokument führen in die Prüfung; kein allgemeiner Insolvenzvortrag.",
+    "norms": [
+      "§§ 129 bis 147, 17 und 39 InsO",
+      "Art. 103j EGInsO; §§ 195, 199, 203, 204 BGB"
+    ],
+    "remaining_limits": [
+      "Konsolidierter EuInsVO-Stand und konkrete österreichische Normen vor fallbezogener Endfassung nachziehen.",
+      "Kein behaupteter Oberflächentest in Claude Cowork oder ChatGPT."
+    ],
+    "files": [
+      "insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
+      "insolvenzanfechtung/insolvenzanfechtung-schnellstart.md",
+      "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 6. Mai 2021 – IX ZR 72/20, ECLI:DE:BGH:2021:060521UIXZR72.20.0, insbesondere Rn. 30 bis 37 und 40 bis 42. Gelesen: Rn. 14 bis 42.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZR__72-20.pdf?__blob=publicationFile&v=1",
+        "application": "Bei kongruenten Deckungen nicht aus bekannter Zahlungsunfähigkeit allein auf Benachteiligungsvorsatz schließen. Erforderlich ist die ex ante belegte Vorstellung, andere Gläubiger auch künftig nicht vollständig befriedigen zu können; die entsprechenden Kenntnistatsachen des Empfängers sind eigenständig zu würdigen. Für Zahlungseinstellung sind ausdrückliche Erklärungen oder gleichgewichtige Indizien erforderlich. Eine bloße Ratenbitte oder wiederholte Verzögerung ist kein automatischer Vollbeweis.",
+        "limit": "Abschaffung der Vorsatzanfechtung, generelle Unanfechtbarkeit insolventer Zahlungen oder mechanische Übertragung der Anforderungen kongruenter Deckungen auf jede inkongruente Sicherung."
+      },
+      {
+        "citation": "BGH, Urteil vom 18. Januar 2024 – IX ZR 6/22, ECLI:DE:BGH:2024:180124UIXZR6.22.0, Rn. 13 bis 23. Gelesen: Rn. 13 bis 29.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR___6-22.pdf?__blob=publicationFile&v=1",
+        "application": "Eine erhebliche inkongruente Nachbesicherung bei finanzieller Krise kann ein starkes eigenständiges Indiz für Vorsatz und Kenntnis sein. Die 2021 für kongruente Deckungen entwickelten Erwägungen beseitigen dieses Indiz nicht. Ein entgegengehaltenes Sanierungsvorhaben muss anhand seiner tatsächlichen Grundlage, Ernsthaftigkeit und Erfolgsaussicht geprüft werden.",
+        "limit": "Jede Inkongruenz beweist ohne Gesamtwürdigung den Vorsatz; jeder Gläubiger muss unabhängig vom Vortrag des Verwalters ein Sanierungsgutachten vorlegen. Das amtliche Entscheidungsdatum lautet 18. Januar, nicht 17. Januar 2024."
+      },
+      {
+        "citation": "BGH, Urteil vom 18. April 2024 – IX ZR 129/22, ECLI:DE:BGH:2024:180424UIXZR129.22.0, Rn. 20 bis 27. Gelesen: Rn. 8 bis 27.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_129-22.pdf?__blob=publicationFile&v=1",
+        "application": "Ein außenstehender Empfänger muss aus einer nicht durch Einzelbelege erläuterten, nur zusammengefassten Liquiditätstabelle keine nicht vorhandenen internen Kenntnisse gewinnen. Umfang des erforderlichen Bestreitens hängt von Substantiierung des Verwaltervortrags und eigener Kenntnis ab. Forderung, Fälligkeit, liquide Mittel und Belege sind so aufzubereiten, dass konkrete Einwendungen möglich sind.",
+        "limit": "Pauschales Nichtwissen ist bei eigenen Handlungen immer zulässig; jede Liquiditätsrechnung benötigt ausnahmslos jeden Buchhaltungsbeleg als Anlage; der außenstehende Empfänger ist materiell von Anfechtung befreit."
+      },
+      {
+        "citation": "BGH, Urteil vom 18. April 2024 – IX ZR 239/22, ECLI:DE:BGH:2024:180424UIXZR239.22.0, Rn. 11 bis 24. Diese Randnummern wurden gelesen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_239-22.pdf?__blob=publicationFile&v=1",
+        "application": "Für den Schluss auf künftig ausbleibende Vollbefriedigung kommt es auf die erkennbare Deckungslücke und realistische Beseitigungsmöglichkeiten zum Zeitpunkt der Handlung an. Eine bloße Liste später offener Verbindlichkeiten bildet verfügbare Mittel und Aussichten nicht ab. Evident überwältigende Verbindlichkeiten können je nach Lage dennoch eigenständige Aussagekraft besitzen.",
+        "limit": "Rückrechnung aus der späteren Eröffnung genügt; eine einmalige Liquiditätslücke bleibt ohne Gegenprüfung auf Dauer bestehen; ein Verwalter müsse immer denselben bestimmten Tabellentyp vorlegen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 13. Juni 2024 – IX ZR 100/23, ECLI:DE:BGH:2024:130624BIXZR100.23.0, Rn. 11 bis 18. Gelesen: Rn. 1 bis 18.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_100-23.pdf?__blob=publicationFile&v=1",
+        "application": "Kenntnis oder grob fahrlässige Unkenntnis muss die tatsächlichen Voraussetzungen des konkreten Anspruchs erfassen. Der Kontovermerk „Drittschuldnerzahlung“ beweist nicht schon eine selbstbestimmte Schuldnerhandlung für § 133 InsO. Tatsächlicher Kenntniserwerb und vorwerfbar unterlassene Aufklärung sind zu dokumentieren; eine allgemeine Untersuchungsaufgabe ersetzt die Prüfung grober Fahrlässigkeit nicht.",
+        "limit": "Endgültige Feststellung fehlender Verjährung in diesem Fall. Es handelt sich um einen auf Gehörsverletzung gestützten Aufhebungs- und Zurückverweisungsbeschluss. Die Hemmungsvorschriften sind am Gesetz zu prüfen; ein abweichender Normverweis im Entscheidungstext darf nicht ungeprüft übernommen werden."
+      },
+      {
+        "citation": "BGH, Urteil vom 5. Dezember 2024 – IX ZR 122/23, ECLI:DE:BGH:2024:051224UIXZR122.23.0, insbesondere Rn. 23 bis 32 und 35 bis 40. Gelesen: Rn. 13 bis 18, 23 bis 32 und 35 bis 40.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_122-23.pdf?__blob=publicationFile&v=1",
+        "application": "Unlauterkeit verlangt gezielte Schädigung der übrigen Gläubiger oder gezielte Bevorzugung, die über die bloße Erkenntnis hinausgeht, nicht alle Gläubiger befriedigen zu können. Verlustbringende Fortführung und Verstöße gegen Insolvenzantrags- oder Zahlungspflichten allein genügen nicht. Im konkreten Fall waren betriebsnotwendige laufende Dienstleistungen zu würdigen. Empfängerkenntnis der Unlauterkeit bleibt zusätzlich erforderlich.",
+        "limit": "Jede Leistung zur Unternehmensfortführung ist geschützt; jede Zahlung innerhalb von 30 Tagen ist ein Bargeschäft; der Fall begründe eine neue allgemeine Lohnzahlungsfrist. Branchenübliche Zeitnähe, Gleichwertigkeit und tatsächlicher Zufluss sind einzeln zu belegen."
+      },
+      {
+        "citation": "BGH, Urteil vom 10. Juli 2025 – IX ZR 189/24, ECLI:DE:BGH:2025:100725UIXZR189.24.0, Rn. 8 bis 25 und 27 bis 28. Gelesen: Rn. 1 bis 29.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1",
+        "application": "Zahlt der Gesellschafter Gesellschaftsschulden aus eigenen Mitteln mit Rückgriff, kann sofort eine darlehensgleiche Forderung entstehen; eine kurze Finanzierungsdauer beseitigt dies nicht. Davon zu unterscheiden ist eigener dienstvertraglicher Auslagenersatz, dessen rechtliche oder tatsächliche Stundung gesondert festgestellt werden muss. Eine länger als drei Monate hinausgeschobene Rückzahlung kann ein gewichtiges Indiz sein; darunter bedarf es anderer tragender Umstände.",
+        "limit": "Jede Spesenabrechnung ist ein Gesellschafterdarlehen; drei Monate sind eine gesetzliche Freigrenze; jede überfällige Forderung ist ohne Gesamtbetrachtung ein Darlehen. In der Akte daher Ursprung der Verbindlichkeit, Zahlungsweg, Auftrag, Rückgriffsgrund und vereinbarte Abrechnung erfassen."
+      },
+      {
+        "citation": "BGH, Urteil vom 23. Oktober 2025 – IX ZR 125/23, ECLI:DE:BGH:2025:231025UIXZR125.23.0, Rn. 17 bis 31. Gelesen: Rn. 12 bis 31.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_125-23.pdf?__blob=publicationFile&v=1",
+        "application": "Zunächst eigene Zahlungspflicht und erkennbares Dreipersonenverhältnis auseinanderhalten. Zahlt ein Dritter ohne eigene Verpflichtung, kann der Wert der beim Empfänger erlöschenden Forderung gegen den Vertragsdebitor entscheidend sein. Die genaue Identität des Dritten muss nicht bekannt sein, wenn die Drittleistung als solche erkennbar ist. Formale Kontoinhaberschaft ersetzt nicht die Prüfung wirtschaftlicher Herkunft und tatsächlicher Kontonutzung.",
+        "limit": "Jede Drittzahlung ist unentgeltlich oder jeder Verlust einer Forderung ist gleichwertiges Entgelt. Eigene Verpflichtung, Werthaltigkeit und konkrete Zuordnung dürfen nicht übersprungen werden. Für Weserfunken sind Vertragsübernahme, Zahlungstext, Bankwissen, Buchung und Herkunft der Mittel getrennte Beweisfragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 12. März 2026 – IX ZR 81/25, ECLI:DE:BGH:2026:120326UIXZR81.25.0, Rn. 7 bis 9, 13 bis 20 und 23 bis 25. Gelesen: Rn. 4 bis 25.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__81-25.pdf?__blob=publicationFile&v=1",
+        "application": "Ob Befriedigung kongruent ist, richtet sich nach dem objektiven Anspruch. Eine an die Geschäftsleitung gerichtete aufsichtsrechtliche Anordnung, bestimmte massegefährdende Zahlungen zu unterlassen, ist anhand ihres konkreten Wortlauts von einem umfassenden Zahlungs- oder Verfügungsverbot zu unterscheiden. Der im Fall vorliegende Inhalt machte vertragsgemäße Zahlungen nicht automatisch inkongruent.",
+        "limit": "Jede Aufsichtsanordnung ist unbeachtlich; alle Zahlungen nach Intervention der BaFin sind kongruent; mangels § 131 scheiden andere Tatbestände aus. Für die Testakten nur heranziehen, wenn eine entsprechende tatsächliche Maßnahme vorhanden ist."
+      },
+      {
+        "citation": "BGH, Urteil vom 21. Mai 2026 – IX ZR 168/24, ECLI:DE:BGH:2026:210526UIXZR168.24.0, insbesondere Rn. 24 bis 35, 40 bis 45 und 55 bis 62. Gelesen: Rn. 14 bis 62.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_168-24.pdf?__blob=publicationFile&v=1",
+        "application": "Verpflichtungsgeschäft und einzelne Erfüllungshandlungen getrennt prüfen. Das Sale-and-lease-back-Verpflichtungsgeschäft ist nicht allein wegen angemessenen Kaufpreises eine Deckung. Interne Krisenmails an Organ/Gesellschafter sind nicht automatisch nach außen hervorgetretene Zahlungseinstellung, können aber Krisenwissen belegen. Aufrechnung mit einem Altdarlehen schafft keinen für § 142 ausreichenden Aktivzufluss. Ein Sanierungsansatz muss Ursachen adressieren; bloßes kurzfristiges Schließen einer Liquiditätslücke genügt nicht ohne Weiteres.",
+        "limit": "Interne Nachrichten sind generell unbeachtlich; alle Sale-and-lease-back-Geschäfte sind anfechtbar; Gesellschafterstellung allein ersetzt Kenntnis- oder Vorsatzbeweis. Eine Nachricht an einen Gesellschafter kann anders zu würdigen sein, wenn dieser tatsächlich als Gläubiger auftritt."
+      },
+      {
+        "citation": "EuGH, Urteil vom 19. März 2026 – C-43/25, SML Maschinen, ECLI:EU:C:2026:220, Rn. 27 bis 38. Gelesen: vollständiger deutscher Volltext einschließlich Tenor.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0043",
+        "application": "Art. 13 der Verordnung (EG) Nr. 1346/2000 ist nicht gegen die Rückforderung von Gesellschafterdarlehenszahlungen einsetzbar, wenn diese den insolvenzrechtlichen Rang und die Verteilungsordnung durchsetzt. Der Gerichtshof trennt die Anfechtungsregel von Anmeldung und Rang der Forderungen. Die Rechtswahl österreichischen Vertragsrechts allein verhindert daher nicht den im Ausgangsverfahren verfolgten Rückgriff.",
+        "limit": "Allgemeiner Ausschluss der Einwendung ausländischen Rechts bei jeder Anfechtung oder jedem Bankdarlehen. Fragen 2 bis 4 wurden ausdrücklich nicht beantwortet. Das Urteil betrifft die alte EuInsVO; die Anwendung auf den heutigen Normzusammenhang muss offengelegt und begründet werden."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-21",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Klage zuerst lesen.",
+      "Ohne Unterlagen nach der konkreten Rückforderung fragen.",
+      "Neue Buchungsunterlagen in denselben Entwurf einarbeiten."
+    ],
+    "continuation": "Offene Einzelzahlung bleibt vorläufig; andere Zahlungspositionen und der beauftragte Entwurf werden weiterbearbeitet. Antworten ändern nur die betroffenen Positionen.",
+    "enrichment": "Drei unterschiedliche vollständige Akten mit echten Dokumentformaten; gesonderte Empfänger- und Verwalterperspektive.",
+    "limits": "Redaktionelle Prüfung und gesonderte technische Tests; keine Zusage realer Prozessresultate."
+  }
+}

@@ -1,5 +1,11 @@
 # un-kaufrecht-cisg-v1.0.0 – 2026-10-18
 
+## Komponentenrelease Insolvenzanfechtung 1.0.0 – 21.10.2026
+
+Eigenständiges Plugin mit zehn Fachskills und einem Hauptskill, ausführlicher Werkstatt sowie Mini- und Hauptproblem-Prompt. Separate Anfechtungs-Werkstatt und Mini-Prompt beim Fachanwalt für Insolvenz- und Sanierungsrecht (445.35.4); der bestehende Anfechtungsskill wurde anhand amtlicher Volltexte präzisiert.
+
+Die Weserfunken-Akte erhält 20 zusätzliche Originale bei unveränderten 42 Bestandsdateien. Zwei weitere Akten aus Bamberg und Fürth enthalten jeweils 24 Originale mit echten E-Mail-Anhängen, Word, PDF und berechenbaren Excel-Arbeitsmappen. Drei Gesamt-PDFs und beide ZIP-Varianten sind getrennt von den installierbaren Plugins veröffentlicht. [Umfang und Prüfgrenzen](docs/releases/insolvenzanfechtung-v1.0.0.md).
+
 Eigenständiges UN-Kaufrechtspaket mit zehn Fachskills und einem Hauptskill, ausführlicher Werkstatt sowie kompaktem Mini- und Hauptproblem-Prompt. Vertragsschluss, ausdrückliche Abwahl, kollidierende AGB, Mängelrechte, Aufhebung, Schaden und Transport werden bis zum fertigen Dokument bearbeitet. Quellenstatus und Reichweite der BGH-Entscheidungen aus 2001, 2002, 2025 und 2026 bleiben ausdrücklich getrennt.
 
 Drei Handelsakten zu Pumpen, Sensoren und Produktionsmaschinen verbinden ausgearbeitete Verträge, Geschäftskorrespondenz, echte E-Mail-Anlagen, Zahlenlisten und technische Belege. Gesamt-PDFs und flache Original- sowie Einzel-PDF-ZIPs werden byte- und inhaltsbezogen abgeglichen. Elf individuelle Fachprüffälle, reproduzierbarer Komponentenbuild und aktualisierte Verzeichnisse ergänzen die Veröffentlichung; vorhandene Sammelarchive bleiben unverändert.
