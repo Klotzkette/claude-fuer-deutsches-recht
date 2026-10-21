@@ -1,0 +1,261 @@
+{
+  "slug": "insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen",
+  "documents": 41,
+  "pages": 41,
+  "formats": {
+    ".docx": 7,
+    ".pdf": 24,
+    ".eml": 8,
+    ".xlsx": 2
+  },
+  "font": "Times New Roman",
+  "originals_unchanged_by_packaging": true,
+  "files": [
+    {
+      "file": "01_Aufnahme_Sachbearbeitung.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "5c2c12fe0017dcc162467f7f5a71c7d293020cdabba7ef38be07803ff9c927e9"
+    },
+    {
+      "file": "02_Beschluss_vorlaeufig.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "54ed1ed11ae6d8cb396f0c84251598f6c6abcf8ff19e43451a75c144f8013740"
+    },
+    {
+      "file": "03_Zustimmung_Betrieb.docx",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "e1331d3e7bbb3fd511e1e3b0aecda42a2c1ca39281aa3e0a8485f515f35dd77d"
+    },
+    {
+      "file": "04_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "e64a917596560086894dc1c507263843b346f5b2c37462902ab068772eea01d8"
+    },
+    {
+      "file": "05_Murr_Herausgabeverlangen.eml",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "ae32902365fd2bcbd38cd923d4a56ae91d2044ac1105842b2f30c2dcaef269a3"
+    },
+    {
+      "file": "06_Auftrag_Katzenware.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "e23afc619e7e79e32b92a401596c50b50ac755a1a53fb24372fbb00f9ab953a1"
+    },
+    {
+      "file": "07_Kommissionsentwurf.docx",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "3f7e2255b364146538dacadf657a2cd647a5d2e6baabd45dbd93f69d7e840c64"
+    },
+    {
+      "file": "08_Lieferantenblatt_2025.pdf",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "4f90facf7267ea30804b67b804b40cff203d68958cbb43fbf686cb58834ac147"
+    },
+    {
+      "file": "09_AGB_Stand_2026.pdf",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "718574bacc1736b0399dd56589252058277add12668e27b163d9cdc25aa48ce1"
+    },
+    {
+      "file": "10_Lieferschein_Murr.pdf",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "e0b026233c1da1ce42d5cd5533bb8eccba66a76e837d8b1dd852a86bb00a82b2"
+    },
+    {
+      "file": "11_Rechnung_Murr.pdf",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "59816602e607e20b910502bd834fced53da0461c29004e85fcd4f909ebb367f6"
+    },
+    {
+      "file": "12_Inventur_Katzenregale.docx",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "58c864f0ccb3ab959a0e3a3ac7fd27c61bd7007ce48be7b09cfbf946028430a0"
+    },
+    {
+      "file": "13_Hager_Vertragsverlauf.eml",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "1d760b719e888029f1b478b34cba95677f8d50ece8edac6513f8ccd0e8d19fcc"
+    },
+    {
+      "file": "14_Murr_Klarstellung.eml",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "8b2ad1dfe34df6df7245da018b68b3be68ec4c20a77bfa57b58a90f99921497a"
+    },
+    {
+      "file": "15_Kassenauszug_Katzenhoehlen.pdf",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "772610efbbb46e17d6fdcc78efe703cd6cff5c97317751c58e8819e9caf56c2b"
+    },
+    {
+      "file": "16_Antwort_Warensicherung.docx",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "01f400e94545136d52040d87bbfe84cee8f8530ea7d445c28e21ea1a8a879148"
+    },
+    {
+      "file": "17_FAA01_Anmeldung_Seifert.pdf",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "ee0870da8862ad6d14657ecf4020981c6e32ff2b0cd4d1f283c990776ae79dbc"
+    },
+    {
+      "file": "18_Rechnung_Seifert.pdf",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "d3a188da532403a8d1150de5bbeff352f9223c9f2b8d2d7fcfe8d47054c391bd"
+    },
+    {
+      "file": "19_Lieferschein_Seifert.pdf",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "5e979a1dd19bf58969b6809337842dfdca409b062b7c8c2ea9dc808c0be1f022"
+    },
+    {
+      "file": "20_FAA02_Anmeldung_Rehm.pdf",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "af5885d83b07dd827035b8150e625fef40fd0f08b93689f35199f196fa75e895"
+    },
+    {
+      "file": "21_Rechnung_Rehm.pdf",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "809cac7979ef7f2c5377584e406fba655754f81e6c33dabc6cb299700db1df19"
+    },
+    {
+      "file": "22_Gutschrift_Rehm.pdf",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "92586c6aef30ff40078ac9bbdb6b5010f66358f604289cf181e55af8ff3c3629"
+    },
+    {
+      "file": "23_Rehm_Nachreichung.eml",
+      "pages": 1,
+      "start_page": 23,
+      "sha256": "26cbf55d0c4d9375b2c9ecdc510f5849c141115c8abe93a1bce1963f0977337c"
+    },
+    {
+      "file": "24_Lieferschein_Rehm.pdf",
+      "pages": 1,
+      "start_page": 24,
+      "sha256": "c59e51b08c3a407e86291d55cd44c88fc83b79c7144b4cdbb0d798f3ef2b5516"
+    },
+    {
+      "file": "25_FAA03_Anmeldung_Suedlicht.pdf",
+      "pages": 1,
+      "start_page": 25,
+      "sha256": "cd32038b5dc07244608923dea77f34c649559c5eb23d83b1c52ef182c61c48d1"
+    },
+    {
+      "file": "26_Suedlicht_Saldo.pdf",
+      "pages": 1,
+      "start_page": 26,
+      "sha256": "959435df217ed49ce883dee4ea42bf041498060f64f062d31d65c63d8d0329c0"
+    },
+    {
+      "file": "27_Nachforderung_Suedlicht.eml",
+      "pages": 1,
+      "start_page": 27,
+      "sha256": "779694bf2f74447576752f76886dfeac8a4dc8aa46bc8d04259e36c0b9ed17cd"
+    },
+    {
+      "file": "28_FAA04_Anmeldung_Bergmann.pdf",
+      "pages": 1,
+      "start_page": 28,
+      "sha256": "d85e1bcd42ce34aac5403f4e858f461be4cc037fb169cfc7f19794c15526066b"
+    },
+    {
+      "file": "29_Urteil_Bergmann.pdf",
+      "pages": 1,
+      "start_page": 29,
+      "sha256": "bd4c42abf0a31d148e40c48c3745fee2230e5223e4002abcef89594dc70f17da"
+    },
+    {
+      "file": "30_Zustellung_Rechtskraft.pdf",
+      "pages": 1,
+      "start_page": 30,
+      "sha256": "0607a182868cb313d484db3e1781c5c0d3c40fc01c4a7ff5c827dede97c5c743"
+    },
+    {
+      "file": "31_Zinsberechnung_Bergmann.pdf",
+      "pages": 1,
+      "start_page": 31,
+      "sha256": "5df68a0d871627261f92438dcc6e3df1da5b214e42c9fc348de0891745117285"
+    },
+    {
+      "file": "32_FAA05_Anmeldung_Fadenflug.pdf",
+      "pages": 1,
+      "start_page": 32,
+      "sha256": "3a1a51d98a7db149333634abae52e037be1ae6f1b9ddbb667f213065d2556df6"
+    },
+    {
+      "file": "33_Rechnung_Fadenflug.pdf",
+      "pages": 1,
+      "start_page": 33,
+      "sha256": "7ab6ebbf478cc169bf3e7776c3970d6cafb9485b504635c5789181b488da0658"
+    },
+    {
+      "file": "34_Bestellmail_Hager.eml",
+      "pages": 1,
+      "start_page": 34,
+      "sha256": "c318517901eb0936f967cbf7a9fcee8608e530c9e28b5ff0f1c985beda318665"
+    },
+    {
+      "file": "35_Empfang_Fadenflug.pdf",
+      "pages": 1,
+      "start_page": 35,
+      "sha256": "b545a0c41e85f05e1d4820026769391a165a78229081f94ad2b53e0ea92c90ea"
+    },
+    {
+      "file": "36_Schuldnerwiderspruch.docx",
+      "pages": 1,
+      "start_page": 36,
+      "sha256": "b15281c6503ce4090dbc0d3030500511b181ddf85d49d85385fc1697737ecd0e"
+    },
+    {
+      "file": "37_Bankmail_Nachreichung.eml",
+      "pages": 1,
+      "start_page": 37,
+      "sha256": "6fa2620412d3437b0184bef45a18aae99d0768569ccaca7ffaee7ae9d16d1f0c"
+    },
+    {
+      "file": "38_Forderungsliste_Arbeitsstand.xlsx",
+      "pages": 1,
+      "start_page": 38,
+      "sha256": "1f16488a3fabe99bd818de49ed60b17e159337e13b2949a956ff2d263a086d42"
+    },
+    {
+      "file": "39_Warenbestand_Murr.xlsx",
+      "pages": 1,
+      "start_page": 39,
+      "sha256": "4e14a361ee16bbe11715fa84b5d1db4bad7e426634d3ae87e4b83d643b78b437"
+    },
+    {
+      "file": "40_Posteingang_Pruefung.docx",
+      "pages": 1,
+      "start_page": 40,
+      "sha256": "a59dfb7444f4b476c9cec999484146ee05ccb43ce9b383f443ea79d02487a7a6"
+    },
+    {
+      "file": "41_Bankablehnung.eml",
+      "pages": 1,
+      "start_page": 41,
+      "sha256": "c808e97bd04c670935380539309d8ad7da794385006c99fba5e92fa772ebe016"
+    }
+  ]
+}

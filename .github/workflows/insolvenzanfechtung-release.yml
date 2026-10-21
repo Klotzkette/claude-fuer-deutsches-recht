@@ -45,6 +45,38 @@ jobs:
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
+      - name: Paketprüfung von reiner Marketplace-Navigation trennen
+        id: scope
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          python3 - <<'PY'
+          import os, re, subprocess
+          from pathlib import Path
+          base = os.environ.get('BASE_SHA', '')
+          needed = not base
+          if base:
+              paths = subprocess.check_output(['git', 'diff', '--name-only', base, 'HEAD'], text=True).splitlines()
+              def relevant(path):
+                  return (path.startswith(('insolvenzanfechtung/', 'fachanwalt-insolvenz-sanierungsrecht/',
+                          'testakten/insolvenzanfechtung-blechliebe-bamberg/', 'testakten/insolvenzanfechtung-faltenwurf-fuerth/',
+                          'testakten/fintech-darlehen-vertragsuebernahme-bremen/', 'quality/insolvenzanfechtung/',
+                          'scripts/fixtures/fintech-bremen/'))
+                          or path == 'quality/evals/insolvenzanfechtung.json'
+                          or (path.startswith('scripts/') and any(x in path for x in ('insolvenzanfechtung', 'fintech-bremen'))))
+              for path in filter(relevant, paths):
+                  if path in ('insolvenzanfechtung/README.md', 'fachanwalt-insolvenz-sanierungsrecht/README.md'):
+                      old = subprocess.check_output(['git', 'show', f'{base}:{path}'], text=True)
+                      new = Path(path).read_text()
+                      normalize = lambda text: re.sub(r'Marketplace mit \d+ Plugins', 'Marketplace mit N Plugins', text)
+                      if normalize(old) == normalize(new):
+                          continue
+                  needed = True
+                  break
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write(f'needed={str(needed).lower()}\n')
+          print('Paketprüfung erforderlich:', needed)
+          PY
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
@@ -63,6 +95,7 @@ jobs:
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
       - name: Lesefassungen und Pakete bauen und prüfen
+        if: steps.scope.outputs.needed == 'true'
         run: |
           mkdir -p "$RUNNER_TEMP/anfechtungsakten"
           python3 scripts/build-insolvenzanfechtung-akten.py --package-only --dist "$RUNNER_TEMP/anfechtungsakten"

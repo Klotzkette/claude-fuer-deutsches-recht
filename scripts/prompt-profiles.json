@@ -278,7 +278,8 @@
         "schnellstart"
       ],
       "formats": [
-        "md"
+        "md",
+        "txt"
       ],
       "megaprompt": false,
       "hand_curated": true
@@ -658,6 +659,19 @@
       "hand_curated": true
     },
     "insolvenzanfechtung": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart",
+        "hauptproblem"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "insolvenzsachbearbeitung": {
       "standalone": [
         "werkstatt",
         "schnellstart",

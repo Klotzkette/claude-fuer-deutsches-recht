@@ -1,0 +1,159 @@
+{
+  "slug": "insolvenzsachbearbeitung-cafe-abendrot-regensburg",
+  "documents": 24,
+  "pages": 24,
+  "formats": {
+    ".docx": 8,
+    ".pdf": 11,
+    ".eml": 4,
+    ".xlsx": 1
+  },
+  "font": "Times New Roman",
+  "originals_unchanged_by_packaging": true,
+  "files": [
+    {
+      "file": "01_Aktenauftrag.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "b91e319041885d18b2d4d55eb835982456c01d3ec6e55b3e70ecb1a484325d4b"
+    },
+    {
+      "file": "02_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "ff9d700964f5122851ac7d86b25bf98d718a77c242d79cc27ad0b61caf7fe615"
+    },
+    {
+      "file": "03_Betriebsanweisung.docx",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "fbf91ef5b34082746aa462d7222c7a20148fc52aafc808f840f9e74205a4b12e"
+    },
+    {
+      "file": "04_Gutscheinanfrage.eml",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "5836a8f863dd2bd50b53fdbea8b299fbbecaf87a3ca866adbfa9cab49420c96c"
+    },
+    {
+      "file": "05_Gutschein_und_Kaufbeleg.pdf",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "9c01f41ce0f0f026cb41c0ccb73eeda4e45b8b3ea3b7f290f1c049b56162369d"
+    },
+    {
+      "file": "06_Tresorprotokoll.docx",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "fe3e3ef45f909f1cbf5f4ce078304a09de13a85f8582d68b1338425dc83227fe"
+    },
+    {
+      "file": "07_Gutscheinjournal.pdf",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "82a6d7c176f8f05ba36f978359d831e72cc55f2068458ba71e16d5fcb44ed1ae"
+    },
+    {
+      "file": "08_Filialmail.eml",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "e32ff0379ff58e90f1de7193a04c44f8a5bf1aaae76a1629d6f93736635b8b64"
+    },
+    {
+      "file": "09_Bestandsaufnahme.pdf",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "efa5bad406c324b8f9f7836fdf00be8d4e60ddb750e5cdb604b7c49b65a1718a"
+    },
+    {
+      "file": "10_Umlagerungsbeleg.pdf",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "b085ea59ea735066b2bad5b14b7c36bcc6ab4dc43992c519de0a956c455ffc4c"
+    },
+    {
+      "file": "11_Kuehlservice_Auftrag.docx",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "01be0603c85528cbc5fc86fa82c172cf6eb1504bb8cb424b1901e3713d15d21b"
+    },
+    {
+      "file": "12_Kuehlservice_Rechnung.pdf",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "b0f140177638eb90dbeb5d10030b3a45dae268a9f59759abf1d65f0036468dc1"
+    },
+    {
+      "file": "13_Entsorgung_Rechnung.pdf",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "211be7508850059b13398ada46d41d08993a5a7432253b220d3ad84dc40677b5"
+    },
+    {
+      "file": "14_Lieferantenanfrage.eml",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "87e628f93f71552be193651ad40f6cf06b27f269f20dc3e21bbf969704b45acd"
+    },
+    {
+      "file": "15_Mehlrechnung.pdf",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "c2cab5e4b9b27323651690d9f123f01201ec2b0a7a429ced4db33b3ff1a6535d"
+    },
+    {
+      "file": "16_Personalvertrag.pdf",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "e1c3109f355d429d4d02fea9253937fc66b9ce84078c3daa84cc7cd29c3f9302"
+    },
+    {
+      "file": "17_Personalstand.docx",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "9a6bd18eece566156cd499a733de3503987d9b70e2788e37d4220ed8770ad2f6"
+    },
+    {
+      "file": "18_Kuendigungsvorbereitung.docx",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "8a22933651e39ea3dd585e5ae54f05faf04f7f80388d92eb419122457b5039f6"
+    },
+    {
+      "file": "19_Glaeubigerantwort_Entwurf.docx",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "ce5c95287e0eef39b4fed753674072e721d6d399e99e8e6ec64347c2c6bc364b"
+    },
+    {
+      "file": "20_Gutscheine_und_Bestand.xlsx",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "ee088765258199eb9c7aa3b8e43859726f0e9f8ed2c31dfada285242cdc0db53"
+    },
+    {
+      "file": "21_Lohnanfrage_Amsel.eml",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "6a6c86cb9522492e041a7138c764fba7437ef953f526d67505b3ffcfaabe484a"
+    },
+    {
+      "file": "22_Tagesnotiz.docx",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "9c879eb17e7cebdeca562698fefd2f86bad1f07118391a15a431aecf69d4303d"
+    },
+    {
+      "file": "23_Gutscheinkarte_G048.pdf",
+      "pages": 1,
+      "start_page": 23,
+      "sha256": "59add174e9de92451f636718ae6754e62fbb0215d0b486a110b717640873224b"
+    },
+    {
+      "file": "24_Mehllieferung.pdf",
+      "pages": 1,
+      "start_page": 24,
+      "sha256": "05e625e982735d207b4845eee3dc43e18b9540194c631c5ea585acb9fae4b6f5"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # insolvenzforderungen-checker
 
-**11 Skills** · Stand `v445.35.3`
+**11 Skills** · Stand `v445.35.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzforderungen-checker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -9,9 +9,11 @@
 | Paket | Format | Link |
 | --- | --- | --- |
 | **Großer Prompt (Werkstatt)** | Markdown | [`insolvenzforderungen-checker-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) |
+| **Derselbe Werkstatt-Prompt als Text** | TXT | [`insolvenzforderungen-checker-werkstatt.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.txt) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzforderungen-checker-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) |
+| **Derselbe Schnellstart-Prompt als Text** | TXT | [`insolvenzforderungen-checker-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insolvenzforderungen-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungen-checker.zip) |
+| **Plugin (installierbar)** | ZIP | [insolvenzforderungen-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker.zip) |
 
 ## So benutzt man einen Skill
 
