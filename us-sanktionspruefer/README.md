@@ -2,7 +2,7 @@
 
 Der US-Sanktionsprüfer führt die Prüfung eines Geschäftspartners, einer angehaltenen Zahlung oder eines anwaltlichen Mandats bis zum benötigten Dokument. Ein Hauptskill und neun Fachskills klären US-Bezug, Listenidentität, Eigentum, Verbote, Lizenzen und Verfahren. Das Ergebnis ist ein begründeter Vermerk, ein fertiges Schreiben oder ein Antragsentwurf, nicht bloß eine Trefferliste.
 
-[Hauptübersicht](../README.md) · [Plugin-Dateien](.) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/us-sanktionspruefer.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [English guide](#15-english-guide)
+[Hauptübersicht](../README.md) · [Plugin-Dateien](.) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/us-sanktionspruefer.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [English guide](#16-english-guide)
 
 Der Schwerpunkt liegt auf OFAC-Sanktionen sämtlicher einschlägiger Länder- und Themenprogramme, einschließlich Terrorismus. SDN, Non-SDN, FTO/SDGT und BIS-Exportkontrolle werden nicht gleichgesetzt. Ein Unternehmen kann wegen seiner Eigentümer blockiert sein, obwohl es nicht namentlich auf einer Liste steht. Die rechtliche Prüfung bleibt von einer strengeren Geschäftspolitik der Bank zu unterscheiden.
 
