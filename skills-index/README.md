@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23352 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23363 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -184,6 +184,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (59 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (58 Skills)
 - [insolvenzrecht](./insolvenzrecht.md) (99 Skills)
+- [insolvenzsachbearbeitung](./insolvenzsachbearbeitung.md) (11 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (53 Skills)
 - [internal-investigations-praxis](./internal-investigations-praxis.md) (110 Skills)
 - [internationales-handelsrecht-lex-mercatoria](./internationales-handelsrecht-lex-mercatoria.md) (193 Skills)

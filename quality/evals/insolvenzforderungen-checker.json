@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzforderungen-checker",
-  "reviewed_on": "2026-10-01",
+  "reviewed_on": "2026-10-21",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__174.html",
@@ -17,6 +17,31 @@
       "url": "https://xjustiz.justiz.de/XJustiz-Versionen/index.php",
       "checked_on": "2026-10-01",
       "supports": "Geltende Version 3.6.2 und Wechsel zum 30. April 2027."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "§ 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück. Grenze: Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Bei Doppelanmeldung durch Zedent und Zessionar und erst nach dem Prüfungstermin erfolgter Rückabtretung war die auf die eigene ursprüngliche Anmeldung gestützte Feststellungsklage ohne erneute Anmeldung und Prüfung unzulässig. Grund, Betrag und Rang müssen den geprüften Gegenstand bezeichnen; Rn. 9 bis 14 bestätigen die Individualisierungsgrenze. Grenze: Jede Abtretung, jeder Gläubigerwechsel oder jede Namenskorrektur verlange eine neue Anmeldung. Rn. 21 nennt die durch Auslegung erkennbare Falschbezeichnung; Rn. 27 grenzt die Abtretung einer zuvor vom tatsächlich Berechtigten angemeldeten Forderung ausdrücklich ab."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/",
+      "checked_on": "2026-10-21",
+      "supports": "Bei der Sammelanmeldung übergegangener Arbeitnehmeransprüche sind Arbeitnehmer, jeweiliges monatliches Bruttoentgelt und Anspruchszeiträume zu bestimmen. Sonderwissen des Verwalters ersetzt diese Angaben nicht. Nachträgliche Konkretisierung ohne erneute Prüfung heilt einen wesentlichen Anmeldemangel nicht. Das fehlende eigenhändige Unterzeichnen des maschinell erzeugten BA-Schreibens war unschädlich; § 130 Nummer 6 ZPO fand keine Anwendung. Grenze: Alle Sammelanmeldungen seien unzulässig oder jede beliebige elektronische Nachricht erfülle ungeachtet des Inhalts und Übermittlungswegs § 174 InsO. Die konkreten Angaben bei Arbeitnehmeransprüchen dürfen nicht mechanisch auf andere Vertragstypen übertragen werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen. Grenze: Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_149-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Rn. 27 bis 29: Anmeldung, Anerkennung oder Feststellung einer Masse- oder Neuverbindlichkeit als Insolvenzforderung ändert ihre materielle Rechtsnatur nicht. Materielle Forderungsart, Tabellenstatus und Verteilungsberechtigung sind getrennt zu führen. Grenze: Die Entscheidung macht Tabellenfeststellungen nicht allgemein wirkungslos und entscheidet nicht sämtliche Rückforderungs- oder Verteilungsfolgen."
     }
   ],
   "selection": {
@@ -382,16 +407,69 @@
           ]
         }
       ]
+    },
+    {
+      "id": "katzenbogen-fuenf-anmeldungen",
+      "target_skill": "forderungen-pruefen-und-tabelle-vorbereiten",
+      "request": "Für eine GmbH liegen fünf Anmeldungen vor: eine vollständig belegte Lieferung, eine individualisierte Lieferung mit fehlendem Lieferschein und späterer Gutschrift, ein unaufgeschlüsseltes Sammelkonto, ein Titel mit zusätzlich falsch berechneten Zinsen sowie eine Behauptung vorsätzlicher Täuschung durch den Geschäftsführer mit gesondertem Schuldnerwiderspruch. Erstellen Sie fünf Prüfvermerke, eine abgestimmte Tabelle und die erforderlichen Gläubigerbriefe.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-1",
+          "text": "Erfasst alle fünf Eingänge mit ihren Originalbeträgen und führt Nachreichungen unter derselben Vorgangskennung fort.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-2",
+          "text": "Trennt fehlenden materiellen Beleg nach IX ZR 47/19 von unzureichender Individualisierung des Sammelkontos; keine pauschale Unwirksamkeit jeder unbelegten Anmeldung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-3",
+          "text": "Prüft Gutschrift, Titelumfang und Zusatzverzinsung getrennt und schlägt gegebenenfalls nur den betroffenen Teil zum Bestreiten vor.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-4",
+          "text": "Unterscheidet Verwalter-/Gläubigerwiderspruch von Schuldnerwiderspruch und setzt keine pauschale Monatsfrist für alle Bestreitenden.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-5",
+          "text": "Prüft Anspruchsgegner und Zurechnung bei Geschäftsführerbehauptung; kein §-302-Automatismus für die GmbH.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-6",
+          "text": "Liefert ausformulierte Vermerke und erforderliche Briefe, ohne KI-Vorschläge als tatsächliche gerichtliche Feststellung zu bezeichnen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-10-01",
+    "date": "2026-10-21",
     "method": "desk_review",
     "files": [
       "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
       "insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md"
     ],
-    "opening_change": "Konkrete Forderungsprüfung für die Insolvenzverwaltung bis zur Tabellenzeile und zum Gläubigerbrief.",
+    "opening_change": "Der bestehende fachliche Einstieg bleibt erhalten; die Ergänzung präzisiert fünf Anmeldetypen, konkrete Teilergebnisse und Anschlussrouting.",
     "norms": [
       "Paragrafen 38 und 39 InsO",
       "Paragrafen 47 bis 55 und 103 bis 108 InsO",
@@ -399,22 +477,34 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 19.12.2024, IX ZR 114/23",
-        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
-        "application": "Anmeldegegenstand und nach dem Prüfungstermin erfolgte Rückabtretung; amtlicher Volltext geprüft.",
-        "limit": "Nicht jeden Gläubigerwechsel mit einem neuen Streitgegenstand gleichsetzen; Bezeichnungsberichtigung gesondert prüfen."
-      },
-      {
-        "citation": "BGH, Urteil vom 25.06.2020, IX ZR 47/19",
-        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
-        "application": "Individualisierung von Schlüssigkeit und materieller Berechtigung unterscheiden; amtlicher Volltext geprüft.",
-        "limit": "Spätere Individualisierung wirkt nicht auf die Anmeldung zurück."
-      },
-      {
-        "citation": "BGH, Urteil vom 18.07.2002, IX ZR 195/01",
+        "citation": "BGH, Urteil vom 18.07.2002 – IX ZR 195/01, gedruckte Seiten 8 bis 9 und 19 bis 21",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
-        "application": "Schwache vorläufige Verwaltung und bestimmte Einzelermächtigung; maßgebliche Seiten des amtlichen Volltexts geprüft.",
-        "limit": "Aktuelle Sondernormen und Einzelfallermächtigungen bleiben gesondert zu prüfen."
+        "application": "§ 55 Absatz 2 knüpft grundsätzlich an starke vorläufige Verwaltung an. Eine schwache Verwaltung benötigt bestimmte, nach Art und Umfang erkennbare Einzelermächtigungen; eine pauschale Ermächtigung, für den Schuldner zu handeln, genügt nicht.",
+        "limit": "Jede vom schwachen Verwalter gebilligte Bestellung sei Masse. Die historische Absatznummer des § 108 darf nicht übernommen werden; die heutigen Absätze 3 und 4 des § 55 sind zusätzlich anzuwenden."
+      },
+      {
+        "citation": "BGH, Urteil vom 25.06.2020 – IX ZR 47/19, Rn. 10 bis 12 und 15 bis 23 sowie amtlicher Leitsatz",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+        "application": "§ 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück.",
+        "limit": "Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.12.2024 – IX ZR 114/23, Rn. 8 bis 27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Doppelanmeldung durch Zedent und Zessionar und erst nach dem Prüfungstermin erfolgter Rückabtretung war die auf die eigene ursprüngliche Anmeldung gestützte Feststellungsklage ohne erneute Anmeldung und Prüfung unzulässig. Grund, Betrag und Rang müssen den geprüften Gegenstand bezeichnen; Rn. 9 bis 14 bestätigen die Individualisierungsgrenze.",
+        "limit": "Jede Abtretung, jeder Gläubigerwechsel oder jede Namenskorrektur verlange eine neue Anmeldung. Rn. 21 nennt die durch Auslegung erkennbare Falschbezeichnung; Rn. 27 grenzt die Abtretung einer zuvor vom tatsächlich Berechtigten angemeldeten Forderung ausdrücklich ab."
+      },
+      {
+        "citation": "BAG, Urteil vom 20.02.2025 – 6 AZR 32/24, Rn. 15 bis 16 und 22 bis 34",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/",
+        "application": "Bei der Sammelanmeldung übergegangener Arbeitnehmeransprüche sind Arbeitnehmer, jeweiliges monatliches Bruttoentgelt und Anspruchszeiträume zu bestimmen. Sonderwissen des Verwalters ersetzt diese Angaben nicht. Nachträgliche Konkretisierung ohne erneute Prüfung heilt einen wesentlichen Anmeldemangel nicht. Das fehlende eigenhändige Unterzeichnen des maschinell erzeugten BA-Schreibens war unschädlich; § 130 Nummer 6 ZPO fand keine Anwendung.",
+        "limit": "Alle Sammelanmeldungen seien unzulässig oder jede beliebige elektronische Nachricht erfülle ungeachtet des Inhalts und Übermittlungswegs § 174 InsO. Die konkreten Angaben bei Arbeitnehmeransprüchen dürfen nicht mechanisch auf andere Vertragstypen übertragen werden."
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Rn. 22 bis 32 und 39 bis 43",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1",
+        "application": "Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen.",
+        "limit": "Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden."
       }
     ],
     "remaining_limits": [
@@ -423,7 +513,7 @@
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-10-01",
+    "date": "2026-10-21",
     "method": "desk_review",
     "opening_modes": [
       "Vorhandene Beschlüsse und Anmeldungen zuerst lesen.",
@@ -431,26 +521,30 @@
       "Bei Terminproblemen Anmelde-, Prüfungs- und Verteilungsphase trennen."
     ],
     "continuation": "Neue Belege ändern nur betroffene Forderungspositionen; frühere Prüfstände und stabile Kennungen bleiben nachvollziehbar.",
-    "enrichment": "Getrennte Wege für Belege, Teilzahlungen, Masse, Sicherheiten, Nachrang, Verspätung und Titel.",
+    "enrichment": "Fünf unterschiedliche Anmeldetypen mit getrennten Vorschlägen, Nachreichungen, Titelumfang, Geschäftsführerbehauptung und Schuldnerwiderspruch; Anschluss an Gesamtakten ohne automatische Tabellenfeststellung.",
     "limits": "Keine automatische Anerkennung, gerichtliche Feststellung oder Übermittlung."
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Ergänzung um die fünf unterschiedlichen Anmeldungen und das Anschlussrouting zur Insolvenzsachbearbeitung. Der vorhandene Forderungsworkflow bleibt erhalten. Neue amtliche Anker wurden in ihren ausgewiesenen Grenzen gelesen; kein behaupteter Modelllauf.",
     "changes": [
-      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt.",
-      "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
+      "Belegmangel, Individualisierung, Titelumfang und Teilbestreiten getrennt.",
+      "Schuldnerwiderspruch und fehlender §-302-Automatismus für GmbH berücksichtigt.",
+      "Gesamtakten an Insolvenzsachbearbeitung angeschlossen."
     ],
-    "sha256": "9de64ada4147e5fe9791bc18b27e2f128237f88ad82fd633a070578490b84d6d"
+    "reviewed_on": "2026-10-21",
+    "sha256": "74cb0b1af82114e04adf1b7d5fefa162bcfb4bdd3bb42e4916e898488c7378a6"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Gezielte Ergänzung um die fünf unterschiedlichen Anmeldungen und das Anschlussrouting zur Insolvenzsachbearbeitung. Der vorhandene Forderungsworkflow bleibt erhalten. Neue amtliche Anker wurden in ihren ausgewiesenen Grenzen gelesen; kein behaupteter Modelllauf.",
     "changes": [
-      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten.",
-      "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
+      "Belegmangel, Individualisierung, Titelumfang und Teilbestreiten getrennt.",
+      "Schuldnerwiderspruch und fehlender §-302-Automatismus für GmbH berücksichtigt.",
+      "Gesamtakten an Insolvenzsachbearbeitung angeschlossen."
     ],
-    "sha256": "243e03b9e17b9fe844689e1e9ce16cf12301782da4b9d4b3c65dc2389b45f440"
+    "reviewed_on": "2026-10-21",
+    "sha256": "aa080e07006c2bb153f167c4fbe144d6b9c0a7fbb47a268d13de86a75bb793c4"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",
@@ -487,5 +581,31 @@
         "utf8_bytes": 7445
       }
     ]
+  },
+  "insolvenzsachbearbeitung_2026_10_21": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-21",
+    "sources_report": "quality/insolvenzsachbearbeitung/quellenpruefung-2026-10-21.md",
+    "scope": "Gezielte Ergänzung der Forderungsprüfung, des Verweises auf das Gesamtplugin und der Behandlung von Belegmangel, Teilbestreiten, Titel und Schuldnerwiderspruch. Keine erneute Gesamtprüfung aller älteren technischen Schnittstellen.",
+    "previous_prompt_reviews": {
+      "mini_review": {
+        "verdict": "revised",
+        "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+        "changes": [
+          "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt.",
+          "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
+        ],
+        "sha256": "9de64ada4147e5fe9791bc18b27e2f128237f88ad82fd633a070578490b84d6d"
+      },
+      "workshop_review": {
+        "verdict": "revised",
+        "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe. Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+        "changes": [
+          "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten.",
+          "Einstiegsredaktion 16.10.2026: Arbeitsergebnis vor Versions-/Systemhinweis gesetzt; Mini-BGH-Absatz nach vorn verschoben, Werkstatt trennt Individualisierung und Vollbeweis. Versionsnummer unverändert."
+        ],
+        "sha256": "243e03b9e17b9fe844689e1e9ce16cf12301782da4b9d4b3c65dc2389b45f440"
+      }
+    }
   }
 }

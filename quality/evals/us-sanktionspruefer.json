@@ -260,7 +260,7 @@
     "verdict": "revised",
     "reason": "Eigenständiger kompakter Prüfablauf mit echten Verzweigungen für Identität, Eigentum, Lizenzen und fertige Dokumente.",
     "changes": ["50-Prozent-Kaskade ausdrücklich", "Zehnjährige Aufbewahrung seit März 2025", "Part 505 und unterschiedliche Fristen", "FTO-only nach Part 597 und State-Department-Rechtsschutz", "Nur entscheidende Rückfragen"],
-    "sha256": "d36dd34fb4f59ed1c9a0f3de3f55e3c81a88364ae5e247665edfcf26537d8c57"
+    "sha256": "c6fbb110bca56e6594c766bb0e46ef04a6f8b57de1616baa2363a2bf760dce86"
   },
   "workshop_review": {
     "method": "desk_review",

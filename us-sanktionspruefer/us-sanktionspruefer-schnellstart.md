@@ -55,3 +55,5 @@ Stand: 21.10.2026; Quellen bei Anwendung erneut prüfen:
 - https://www.govinfo.gov/link/uscode/8/1189
 - https://www.ca5.uscourts.gov/opinions/pub/23/23-50669-CV0.pdf
 - https://tile.loc.gov/storage-services/service/ll/usrep/usrep561/usrep561001/usrep561001.pdf
+
+Alle nicht verifizierten Punkte bleiben ausdrücklich offen.

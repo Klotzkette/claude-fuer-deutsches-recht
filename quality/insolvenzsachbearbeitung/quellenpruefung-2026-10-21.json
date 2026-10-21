@@ -1,0 +1,804 @@
+{
+  "titel": "Amtliche Quellenprüfung Insolvenzsachbearbeitung",
+  "abrufdatum": "2026-10-21",
+  "markdown": "quellenpruefung-2026-10-21.md",
+  "entscheidungsanker": [
+    {
+      "id": "Q01",
+      "abschnitt": "4.1",
+      "thema": "Schwache vorläufige Verwaltung und Masse",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "18.07.2002",
+      "aktenzeichen": "IX ZR 195/01",
+      "fundstelle_im_volltext": "gedruckte Seiten 8 bis 9 und 19 bis 21",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "§ 55 Absatz 2 knüpft grundsätzlich an starke vorläufige Verwaltung an. Eine schwache Verwaltung benötigt bestimmte, nach Art und Umfang erkennbare Einzelermächtigungen; eine pauschale Ermächtigung, für den Schuldner zu handeln, genügt nicht.",
+      "traegt_nicht": "Jede vom schwachen Verwalter gebilligte Bestellung sei Masse. Die historische Absatznummer des § 108 darf nicht übernommen werden; die heutigen Absätze 3 und 4 des § 55 sind zusätzlich anzuwenden."
+    },
+    {
+      "id": "Q02",
+      "abschnitt": "4.2",
+      "thema": "Nutzung und Verwertung fremder Waren",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "24.01.2019",
+      "aktenzeichen": "IX ZR 110/17",
+      "fundstelle_im_volltext": "Rn. 19 bis 40",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_110-17A.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Antrag und Bestellung eines Verwalters mit Zustimmungsvorbehalt lassen Einziehungs-/Veräußerungsermächtigungen nicht automatisch entfallen. Widerruf und Sicherungsinteressen sind konkret zu prüfen. Rn. 32 bis 34 verneinen eine aus § 21 Absatz 2 Satz 1 Nummer 5 abgeleitete gerichtliche Ermächtigung zur Verarbeitung oder Veräußerung fremden Eigentums. Rn. 39 bis 40 verlangen Wahrung der Sicherungsrechte und eine geeignete Erlöszuordnung.",
+      "traegt_nicht": "Eine Fortführung rechtfertige jede Veräußerung oder die Verwendung fremder Erlöse auf allgemeinen Geschäftskonten. **Dateifalle:** Die PDF-Datei ohne das Suffix `A` enthält einen Streitwertbeschluss, nicht dieses Urteil."
+    },
+    {
+      "id": "Q03",
+      "abschnitt": "4.3",
+      "thema": "Erlöse aus gerichtlicher Einziehungsermächtigung",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "21.01.2010",
+      "aktenzeichen": "IX ZR 65/09",
+      "fundstelle_im_volltext": "Rn. 7 bis 8, 16 bis 20 und 30 bis 38",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__65-09.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Gerichtliche Einziehungsbefugnis bedeutet nicht, dass die Sicherheit am Erlös ersatzlos verschwindet. Gesonderte Verwahrung und die abgesonderte Befriedigung aus dem Erlös sind zu prüfen. Rn. 38 erklärt die Fortsetzung des Absonderungsrechts am unterscheidbaren Erlös und den Verweis auf §§ 170, 171 InsO.",
+      "traegt_nicht": "Jede Einzahlung sei freie Masse oder bloß eine einfache Masseverbindlichkeit. Der entschiedene Altfall lag vor Einführung des § 21 Absatz 2 Satz 1 Nummer 5; die damals offene Frage des automatischen Erlöschens der Einziehungsermächtigung ist mit 4.2 abzugleichen."
+    },
+    {
+      "id": "Q04",
+      "abschnitt": "4.4",
+      "thema": "Echte Verkaufskommission",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "21.07.2016",
+      "aktenzeichen": "I ZR 229/15",
+      "fundstelle_im_volltext": "Rn. 10 bis 22",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_229-15.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Die Vertragsqualifikation hängt von eigenem Namen, fremder Rechnung, Eigentumsverbleib, Provisionsvergütung, Abrechnung und Abtretung ab. Rn. 22 trennt das vertragliche Innenverhältnis vom Ausführungsgeschäft mit Kunden. Die Kostenverantwortung für den eigenen Ladenbetrieb widerlegt nicht allein die Kommission hinsichtlich der Warenverkäufe.",
+      "traegt_nicht": "Jeder „Kommissions“-Aufdruck oder jede Warenrücknahmemöglichkeit beweise fremdes Eigentum; erst recht keine pauschale Aussonderung bereits vereinnahmter und vermischter Erlöse. Hauptgegenstand war ein Ausgleichsanspruch des Kommissionsagenten."
+    },
+    {
+      "id": "Q05",
+      "abschnitt": "4.5",
+      "thema": "Einfacher, verlängerter und erweiterter Eigentumsvorbehalt",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "27.03.2008",
+      "aktenzeichen": "IX ZR 220/05",
+      "fundstelle_im_volltext": "Rn. 23 bis 31",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2005/IX_ZR_220-05B.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Einfacher Eigentumsvorbehalt berechtigt grundsätzlich zur Aussonderung. Verlängerungs-/Erweiterungsformen berechtigen nach Eintritt des Verlängerungs-/Erweiterungsfalls nur zur Absonderung; Rn. 24 verlangt diese zeitliche und gegenständliche Differenzierung. Das an eine finanzierende Bank übertragene Vorbehaltseigentum kann funktional Sicherungseigentum werden.",
+      "traegt_nicht": "Jede Formulierung „verlängerter Eigentumsvorbehalt“ mache bereits jede vorhandene Originalware zu bloßem Absonderungsgut. Der Fall betraf eine besondere Einkaufsfinanzierung. Dateisuffix `B` ist erforderlich; andere Dateien enthalten andere Entscheidungen desselben Verfahrens."
+    },
+    {
+      "id": "Q06",
+      "abschnitt": "4.6",
+      "thema": "Individualisierung ist nicht Vollbeweis",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "25.06.2020",
+      "aktenzeichen": "IX ZR 47/19",
+      "fundstelle_im_volltext": "Rn. 10 bis 12 und 15 bis 23 sowie amtlicher Leitsatz",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "§ 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück.",
+      "traegt_nicht": "Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen."
+    },
+    {
+      "id": "Q07",
+      "abschnitt": "4.7",
+      "thema": "Rückabtretung und Identität des Prüfungsgegenstands",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "19.12.2024",
+      "aktenzeichen": "IX ZR 114/23",
+      "fundstelle_im_volltext": "Rn. 8 bis 27",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Bei Doppelanmeldung durch Zedent und Zessionar und erst nach dem Prüfungstermin erfolgter Rückabtretung war die auf die eigene ursprüngliche Anmeldung gestützte Feststellungsklage ohne erneute Anmeldung und Prüfung unzulässig. Grund, Betrag und Rang müssen den geprüften Gegenstand bezeichnen; Rn. 9 bis 14 bestätigen die Individualisierungsgrenze.",
+      "traegt_nicht": "Jede Abtretung, jeder Gläubigerwechsel oder jede Namenskorrektur verlange eine neue Anmeldung. Rn. 21 nennt die durch Auslegung erkennbare Falschbezeichnung; Rn. 27 grenzt die Abtretung einer zuvor vom tatsächlich Berechtigten angemeldeten Forderung ausdrücklich ab."
+    },
+    {
+      "id": "Q08",
+      "abschnitt": "4.8",
+      "thema": "Sammelanmeldungen und elektronisch erzeugtes Schreiben",
+      "gericht": "BAG",
+      "entscheidungsart": "Urteil",
+      "datum": "20.02.2025",
+      "aktenzeichen": "6 AZR 32/24",
+      "fundstelle_im_volltext": "Rn. 15 bis 16 und 22 bis 34",
+      "amtliche_url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Bei der Sammelanmeldung übergegangener Arbeitnehmeransprüche sind Arbeitnehmer, jeweiliges monatliches Bruttoentgelt und Anspruchszeiträume zu bestimmen. Sonderwissen des Verwalters ersetzt diese Angaben nicht. Nachträgliche Konkretisierung ohne erneute Prüfung heilt einen wesentlichen Anmeldemangel nicht. Das fehlende eigenhändige Unterzeichnen des maschinell erzeugten BA-Schreibens war unschädlich; § 130 Nummer 6 ZPO fand keine Anwendung.",
+      "traegt_nicht": "Alle Sammelanmeldungen seien unzulässig oder jede beliebige elektronische Nachricht erfülle ungeachtet des Inhalts und Übermittlungswegs § 174 InsO. Die konkreten Angaben bei Arbeitnehmeransprüchen dürfen nicht mechanisch auf andere Vertragstypen übertragen werden."
+    },
+    {
+      "id": "Q09",
+      "abschnitt": "4.9",
+      "thema": "Deliktsanmeldung, Titel und Schuldnerwiderspruch",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "21.03.2024",
+      "aktenzeichen": "IX ZB 56/22",
+      "fundstelle_im_volltext": "Rn. 22 bis 32 und 39 bis 43",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen.",
+      "traegt_nicht": "Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden."
+    },
+    {
+      "id": "Q10",
+      "abschnitt": "4.10",
+      "thema": "Leasingeigentum ist kein Vermögen des Leasingnehmers",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "10.04.2025",
+      "aktenzeichen": "IX ZR 203/23",
+      "fundstelle_im_volltext": "berichtigt am 08.05.2025, Rn. 6 bis 20, insbesondere 13 bis 15",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_203-23.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Im entschiedenen Leasingfall war das Fahrzeug Eigentum der Leasinggeberin; seine Verwertung war kein Abfluss von Gesellschaftsvermögen und keine Verwertung einer Gesellschaftssicherheit. Der Restwert ist bei der Schadensberechnung aus dem nicht fortgeführten Vertrag zu berücksichtigen.",
+      "traegt_nicht": "Jede wirtschaftliche Finanzierung sei Leasing, jeder Leasinggegenstand könne ohne Vertragsprüfung sofort abgeholt werden oder sämtliche Leasingforderungen seien Masse. Hauptfrage waren Doppelsicherheiten und Insolvenzanfechtung; allgemeine Herausgabe-/Vertragsregeln bleiben gesondert zu prüfen."
+    },
+    {
+      "id": "Q11",
+      "abschnitt": "4.11",
+      "thema": "Restschuldbefreiung und nachträglich entdeckte Masse",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "26.09.2024",
+      "aktenzeichen": "IX ZB 5/24",
+      "fundstelle_im_volltext": "Rn. 6 bis 15",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB___5-24.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Restschuldbefreiung hindert eine Nachtragsverteilung von Massegegenständen nicht. Die Massezugehörigkeit einer Steuererstattung ist unabhängig von der Lohnpfändungsberechnung zu prüfen. Der insolvenzrechtliche Entstehungsgrund und eine zeitliche Aufteilung sind entscheidend.",
+      "traegt_nicht": "Jede später ausgezahlte Steuererstattung gehöre vollständig zur Masse. Rn. 9 verlangt gerade eine Abgrenzung des späteren Neuerwerbs. Der Fall unterlag dem 2013er Recht; seine damaligen Voraussetzungen vorzeitiger Restschuldbefreiung sind nicht auf neue Anträge 2026 zu übertragen."
+    },
+    {
+      "id": "Q12",
+      "abschnitt": "4.12",
+      "thema": "Neue Entscheidung 2026: Treuhänder, Abtretungsfrist und Abfindung",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "21.05.2026",
+      "aktenzeichen": "IX ZB 45/25",
+      "fundstelle_im_volltext": "Rn. 7 bis 17, 19 bis 29 und 33 bis 36",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__45-25.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Der ehemalige Verwalter darf nach Aufhebung eine Nachtragsverteilung beantragen. Diese Rolle ist von der Rolle des Treuhänders zu unterscheiden. § 287 Absatz 2 erfasst grundsätzlich Forderungen, die während der Abtretungsfrist entstehen. Bei der hier vergleichsweise begründeten Abfindung war der Vergleichsabschluss maßgeblich, nicht die vorherige Kündigung oder das frühere Beschäftigungsende.",
+      "traegt_nicht": "Jede nach Fristende ausgezahlte Forderung sei frei; während der Frist entstandene Forderungen bleiben grundsätzlich erfasst. Der BGH ließ die besondere Antrags-/Beschwerdebefugnis eines Treuhänders für eine Nachtragsverteilung der Wohlverhaltensperiode ausdrücklich offen und verneinte den Anspruch im konkreten Fall in der Sache."
+    },
+    {
+      "id": "Q13",
+      "abschnitt": "4.13",
+      "thema": "Pfändungsschutz für besondere Einmalzahlungen",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "11.12.2025",
+      "aktenzeichen": "IX ZB 3/25",
+      "fundstelle_im_volltext": "Rn. 10 bis 24",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___3-25.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Pfändungsschutz nach § 850i ZPO für besondere Versorgungs-/Versicherungsleistungen verlangt einen Antrag und eine begründete Gesamtabwägung. Der angemessene Schutzzeitraum wird anhand der tatsächlichen Umstände und künftigen Einnahmen bestimmt; er folgt nicht aus einer bloßen Multiplikation eines Freibetrags.",
+      "traegt_nicht": "Die gewöhnliche Lohnpfändungstabelle könne frei nach Ermessen ersetzt werden oder die im Urteil genannte Einmalsumme gelte als allgemeiner Freibetrag. Der Fall betrifft Kapitalleistungen aus besonderen Versorgungsvereinbarungen."
+    },
+    {
+      "id": "Q14",
+      "abschnitt": "4.14",
+      "thema": "Verfahrenskostenstundung bei ausgenommenen Forderungen",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "13.11.2025",
+      "aktenzeichen": "IX ZB 21/25",
+      "fundstelle_im_volltext": "Rn. 7 bis 17",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__21-25.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Eine ausgenommene Forderung verhindert nicht automatisch die Stundung. Es ist zu prüfen, ob ein wirtschaftlicher Neubeginn ernsthaft erreichbar erscheint; die tatsächlichen Verhältnisse und rechtlichen Möglichkeiten zählen. Eine feste Prozentgrenze darf nicht allein ausschlaggebend sein. Der Schuldner trägt die Feststellungslast für die ernsthaften Aussichten.",
+      "traegt_nicht": "Jede Restschuld sei unschädlich oder Stundung müsse ungeprüft bewilligt werden. Gegenstand war eine Wertersatzeinziehung; die Entscheidung ist kein pauschaler Erlass ausgenommener Forderungen."
+    },
+    {
+      "id": "Q15",
+      "abschnitt": "4.15",
+      "thema": "Richtige Angaben bereits im Vergleichsangebot",
+      "gericht": "BGH",
+      "entscheidungsart": "Beschluss",
+      "datum": "18.11.2021",
+      "aktenzeichen": "IX ZB 1/21",
+      "fundstelle_im_volltext": "Rn. 5 bis 18",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB___1-21.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Schriftliche Falschangaben im Vergleichs- oder Stundungsangebot können § 290 Absatz 1 Nummer 2 erfüllen. Auch mit Wissen und Billigung durch einen Dritten formulierte Angaben können zurechenbar sein. Angaben zu Eigentum und verfügbaren Sicherheiten müssen deshalb belegt werden.",
+      "traegt_nicht": "Jeder Fehler oder jeder erfolglose Einigungsversuch führe automatisch zur Versagung. Zeitfenster, Vorsatz/grobe Fahrlässigkeit, tatbestandliche Zielsetzung und ein zulässiger Gläubigerantrag bleiben zu prüfen. Der BGH hob wegen eines Verfahrensfehlers auf und gab Hinweise für das weitere Verfahren; keine eigene abschließende Versagung."
+    },
+    {
+      "id": "Q16",
+      "abschnitt": "4.16",
+      "thema": "Forderungsart und fehlerhafte Tabellenbehandlung",
+      "gericht": "BGH",
+      "entscheidungsart": "Urteil",
+      "datum": "18.06.2026",
+      "aktenzeichen": "IX ZR 149/25",
+      "fundstelle_im_volltext": "Rn. 27 bis 29",
+      "amtliche_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_149-25.pdf?__blob=publicationFile&v=1",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Angegebene Teile des amtlichen Volltexts gelesen; keine Behauptung vollständiger Lektüre aller Randnummern.",
+      "traegt": "Anmeldung, Anerkennung oder Feststellung einer Masseverbindlichkeit oder Neuverbindlichkeit zur Insolvenztabelle ändert deren materielle Rechtsnatur nicht. Das Verfahren nach §§ 174 ff. InsO betrifft Insolvenzforderungen. Materielle Forderungsklasse, Tabellenstatus und Verteilungsberechtigung müssen deshalb getrennt geführt werden; eine abweichende Tabellenbehandlung wird als Klassifikationsfehler gekennzeichnet.",
+      "traegt_nicht": "Jede Tabellenfeststellung sei wirkungslos oder dürfe beliebig ignoriert werden. Die Entscheidung beseitigt die Wirkung des § 178 Absatz 3 InsO in seinem gesetzlichen Anwendungsbereich nicht und entscheidet nicht allgemein über Rückforderung, Bereicherung, Anrechnung oder sämtliche Verteilungsfolgen einer fehlerhaften Behandlung."
+    }
+  ],
+  "normen": [
+    {
+      "gesetz": "INSO",
+      "paragraf": "21",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__21.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "22",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__22.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "35",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__35.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "36",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__36.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "38",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__38.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "53",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__53.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "55",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__55.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "80",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__80.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "87",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__87.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "103",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__103.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "107",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__107.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "108",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__108.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "109",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__109.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "113",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__113.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "47",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__47.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "48",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__48.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "49",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__49.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "50",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__50.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "51",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__51.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "52",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__52.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "166",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__166.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "433",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__433.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "449",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__449.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "HGB",
+      "paragraf": "383",
+      "amtliche_url": "https://www.gesetze-im-internet.de/hgb/__383.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "HGB",
+      "paragraf": "384",
+      "amtliche_url": "https://www.gesetze-im-internet.de/hgb/__384.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "HGB",
+      "paragraf": "392",
+      "amtliche_url": "https://www.gesetze-im-internet.de/hgb/__392.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "305",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "305b",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "305c",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__305c.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "307",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "BGB",
+      "paragraf": "310",
+      "amtliche_url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "174",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__174.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "175",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__175.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "176",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__176.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "177",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__177.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "178",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__178.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "179",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__179.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "180",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__180.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "181",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__181.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "182",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__182.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "183",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__183.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "184",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__184.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "185",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__185.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "186",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__186.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "201",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__201.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "4a",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__4a.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "286",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__286.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "43",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__43.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "44",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__44.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "287",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__287.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "290",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__290.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "295",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__295.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "300",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__300.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "301",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__301.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "302",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__302.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "304",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__304.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "305",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__305.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "305a",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__305a.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "306",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__306.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "307",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__307.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "308",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__308.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "309",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__309.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "310",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__310.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850c",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850c.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850d",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850d.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850e",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850e.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850f",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850f.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850k",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850k.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850l",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850l.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "899",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__899.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "902",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__902.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "903",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__903.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "88",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__88.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "INSO",
+      "paragraf": "89",
+      "amtliche_url": "https://www.gesetze-im-internet.de/inso/__89.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    },
+    {
+      "gesetz": "ZPO",
+      "paragraf": "850i",
+      "amtliche_url": "https://www.gesetze-im-internet.de/zpo/__850i.html",
+      "abrufdatum": "2026-10-21",
+      "pruefstatus": "Amtlicher Einzelnormtext vollständig gelesen."
+    }
+  ],
+  "pfaendung_2026": {
+    "bekanntmachung_url": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/----.html",
+    "bekanntmachung_lesestatus": "vollständig gelesen",
+    "tabelle_url": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/anhang.html",
+    "tabelle_lesestatus": "Tabellenkopf, Anfang Monatstabelle und Reihe 3120,00–3129,99 Euro gelesen; keine Behauptung vollständiger Prüfung aller Tabellenzeilen.",
+    "gueltig_ab": "2026-07-01",
+    "monatlicher_grundbetrag_eur": "1587.40",
+    "p_konto_grundbetrag_eur": "1590.00",
+    "erste_unterhaltsperson_eur": "597.42",
+    "zweite_bis_fuenfte_unterhaltsperson_eur": "332.83",
+    "lohnzeile_3120_3129_99_eur": {
+      "0": "1072.82",
+      "1": "467.59",
+      "2": "240.94",
+      "3": "80.86",
+      "4": "0.00",
+      "5_und_mehr": "0.00"
+    }
+  },
+  "normbefunde_verweis": "Abschnitt 3 des Markdownberichts enthält Zuordnung und Grenzen; Normliste ist kein automatischer Fallentscheid.",
+  "negativabgrenzungen": [
+    "IX ZR 191/11 ist kein Leitanker für gewöhnliche Waren-/Lieferantenfälle.",
+    "IX ZR 127/24 wurde nur als spezieller Recherchetreffer erkannt und nicht als gelesener Hauptanker übernommen.",
+    "IX ZB 13/25 wird nicht als Quelle einer 35-Prozent-Regel für neue Anträge 2026 verwendet."
+  ],
+  "grenzen": [
+    "Ein Abrufprotokoll ist keine Volltextlektüre.",
+    "Keine nicht gelesenen Sekundärfundstellen werden übernommen.",
+    "Keine automatische Tabellenfeststellung oder gerichtliche Entscheidung."
+  ]
+}

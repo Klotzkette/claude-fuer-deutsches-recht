@@ -1,0 +1,17 @@
+{
+  "datum": "2026-10-21",
+  "methode": "Vergleich der bestehenden Scoped-Assets und berechneten Aktenrouten vor/nach Einfügung gegen HEAD. Keine Prüfung veröffentlichter Netzwerkdownloads.",
+  "bestehende_akten_zip_ziele_geprueft": 1068,
+  "bestehende_ziele_geaendert": [],
+  "bestehende_scoped_asseteintraege_geaendert": {},
+  "alte_readme_zaehlhinweise": [],
+  "neue_pluginanzahl": 308,
+  "kuratiert_promptliste": 273,
+  "boundary_akten": [
+    "verkehrsunfall-quotenstreit-tannenbruck-a45",
+    "verlagsrecht-buchpreisbindung-fachverlag-lilienfeld",
+    "verlagsredaktion-morgenlage-fachverlag",
+    "versausgleich-haerte-bgh-schaefer-nuernberg"
+  ],
+  "boundary_ziel": "akten-v445.35.3"
+}

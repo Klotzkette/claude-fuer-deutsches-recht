@@ -1,0 +1,147 @@
+{
+  "slug": "insolvenzsachbearbeitung-werkzeugkiste-augsburg",
+  "documents": 22,
+  "pages": 22,
+  "formats": {
+    ".docx": 5,
+    ".pdf": 12,
+    ".eml": 4,
+    ".xlsx": 1
+  },
+  "font": "Times New Roman",
+  "originals_unchanged_by_packaging": true,
+  "files": [
+    {
+      "file": "01_Arbeitsauftrag.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "822caf892fe2615cfd20018da230da188a5b22eec9c2872104e4e80beffe3376"
+    },
+    {
+      "file": "02_Eroeffnung.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "2e4a49a499a30f945ece954991dd7acbdaf4387882ab2d6906ad5c3ee1a82fdb"
+    },
+    {
+      "file": "03_Mietvertrag.pdf",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "67c83070d04c079389183e20f1cbfc750bf6fc24752e72ad934aa2b0c8f91c73"
+    },
+    {
+      "file": "04_Vermieterpfand.eml",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "a49466321d0dbc77a51bd950b0d7d2f42b6dde30911b3be072dfc9fc1a2114d4"
+    },
+    {
+      "file": "05_Leasingvertrag.pdf",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "b635600c4cb6c9e61abe131532efba8792e826a9cd4e6eade6925e294b8906bf"
+    },
+    {
+      "file": "06_Leasing_Abholung.eml",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "9acfc35529ee252bb45acf2d82bd697835e9dfdf3fad7367fc494e5f9bf451fd"
+    },
+    {
+      "file": "07_Uebergabe_Maschine.pdf",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "17e4ba00c7e72f2d613e80ad84d53c2d32e045fe7444349b04c5ab463cabd02a"
+    },
+    {
+      "file": "08_Bank_Sicherheit.pdf",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "d724f2a23852fff066e4f098f9dfd3d419cf6adca4dd1028547dcecad4e739ed"
+    },
+    {
+      "file": "09_Sicherungsvertrag.pdf",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "e13fe3546036683599c92c197b6029fd999be17f2dd25e9b734da38b1b603eb9"
+    },
+    {
+      "file": "10_Bestandsprotokoll.docx",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "e50c5fe0cbd7dadc22dfb92728042058cd84044f7e02e386daf4febac3a8ef60"
+    },
+    {
+      "file": "11_Lohnanfrage.eml",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "2a6816ebaadac8b0758fb938af88e6eaef39e42a8c797a4a4e8902bfe67b5dbb"
+    },
+    {
+      "file": "12_Lohnabrechnung.pdf",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "7ed11cbc8aa1908136b5b02a4505ea7e6111c8070a5c716a1987b0718fbb0fee"
+    },
+    {
+      "file": "13_Stundenzettel.pdf",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "3ec429e34943a9036d6251b417b6477dfbb4f3e11d015e3180802b88d5ca5d58"
+    },
+    {
+      "file": "14_Rechnung_Retouren.pdf",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "cfdce0df4f41c1cc1de3815b30d79f17882c3d242b1b0f7c87d9b1db2363ff85"
+    },
+    {
+      "file": "15_Retouren_Streit.eml",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "e1f0ac5e292ee3dc8158d87475514d8a47ec9b73fa3cee438cd4dd76d1693ee9"
+    },
+    {
+      "file": "16_Gutschrift_Retouren.pdf",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "9f635c5abf56590302f503c26fa31cc9bd59d7b2b3ccfa9404a28b3c14b8b4d4"
+    },
+    {
+      "file": "17_Strom_Abschlag.pdf",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "129c4b95401c179d2cddfaff1797469805df6a6b04163a6be616bf08d78ae3da"
+    },
+    {
+      "file": "18_Transportauftrag.docx",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "4e8a0c2b13a801a031a942d0d77f417645881dab8098de367119cbc0b17de354"
+    },
+    {
+      "file": "19_Transportrechnung.pdf",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "27d65902854d2477a4ed0590eb9aacb5a011c5d34d303c9aea2625f8831f703a"
+    },
+    {
+      "file": "20_Bestands_und_Belegliste.xlsx",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "ec1c49cc98f22ad161fd25a7555d0fe29ee13dfe92c040ae27244dc01c1c14d6"
+    },
+    {
+      "file": "21_Telefonnotiz_Ruecksendung.docx",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "cd09a99279816cefe36e53d5347b15c1524cd1258746a673bcf8571074e40083"
+    },
+    {
+      "file": "22_Antwort_Lohn_Entwurf.docx",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "95f006c8c8be687c775225744daa5769e888b24de8223b795af510e36de05af9"
+    }
+  ]
+}

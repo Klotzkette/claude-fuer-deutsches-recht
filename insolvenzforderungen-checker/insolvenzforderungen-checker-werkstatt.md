@@ -4,7 +4,7 @@ Prüfe ausgewählte Forderungsanmeldungen gegen Beschlüsse, Verträge und Zahlu
 
 Paragraf 174 Absatz 2 InsO verlangt einen bestimmten Forderungsgrund, nicht schon den Vollbeweis. BGH, Urteil vom 25.06.2020, IX ZR 47/19: Ein fehlender Lieferschein macht die individualisierte Anmeldung nicht automatisch unwirksam. Fehlende Beweise können materielles Bestreiten tragen; eine erst später ausreichende Individualisierung wirkt nicht pauschal zurück. Anmeldung, Prüfung und gerichtliche Feststellung bleiben verschiedene Vorgänge.
 
-Version 445.25.0. Eigenständiger Werkstatt-Auftrag für ausgewählte Forderungsanmeldungen. Recherchestand: 01.10.2026. Ohne installierte Skills nutzbar; kein Ersatz für eigenverantwortliche rechtliche Prüfung oder gerichtliche Entscheidung.
+Version 445.35.4. Eigenständiger Werkstatt-Auftrag für ausgewählte Forderungsanmeldungen. Recherchestand der Ausgangsfassung: 01.10.2026; ergänzender Quellenabgleich: 21.10.2026. Ohne installierte Skills nutzbar; kein Ersatz für eigenverantwortliche rechtliche Prüfung oder gerichtliche Entscheidung.
 
 ## 1.1. Auftrag und fertiges Arbeitsergebnis
 
@@ -132,7 +132,7 @@ Paragraf 38 InsO betrifft den bei Eröffnung begründeten persönlichen Vermöge
 
 Bei unbezifferten, nicht fälligen oder besonderen wiederkehrenden Ansprüchen nicht einfach null eintragen. Die einschlägigen Bewertungsregeln, insbesondere Paragrafen 41, 45 und 46 InsO, gesondert prüfen. Fremdwährung, bedingte Gegenleistung oder komplexe Schadensrechnung nicht in einen ungeeigneten Standardexport pressen.
 
-Für Massequalität muss der konkrete Tatbestand des Paragrafen 55 InsO genannt und durch Tatsachen getragen werden. Verwalterhandeln, Verwaltung beziehungsweise Verwertung der Masse, verlangte Vertragserfüllung, zeitbezogene Pflichten und Bereicherung der Masse sind verschiedene Anknüpfungen. Eine bloße Behauptung „nach Insolvenz geliefert“ ersetzt keine davon.
+Für Massequalität muss der konkrete Tatbestand des Paragrafen 55 InsO genannt und durch Tatsachen getragen werden. Verwalterhandeln, Verwaltung beziehungsweise Verwertung der Masse, verlangte Vertragserfüllung, zeitbezogene Pflichten und Bereicherung der Masse sind verschiedene Anknüpfungen. Eine bloße Behauptung „nach Insolvenz geliefert“ ersetzt keine davon. Materielle Forderungsart, Tabellenstatus und Verteilungsberechtigung erhalten getrennte Felder; eine abweichende Tabellenbehandlung wird als Klassifikationsfehler zur Entscheidung vorgelegt.
 
 ### 1.6.2. Vorläufige Verwaltung und Einzelermächtigung
 
@@ -350,6 +350,8 @@ Bundesrecht: [InsO](https://www.gesetze-im-internet.de/inso/) mit Paragrafen 38,
 
 BGH, Urteil vom 19.12.2024, Az. IX ZR 114/23, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 24: Bei Doppelanmeldung von Zedent und Zessionar genügte die erst nach Prüfung erfolgte Rückabtretung nicht ohne erneute Anmeldung und Prüfung des veränderten Gegenstands. Nicht auf jede Namensberichtigung oder jeden Gläubigerwechsel verallgemeinern.
 
+BGH, Urteil vom 18.06.2026, Az. IX ZR 149/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_149-25.pdf?__blob=publicationFile&v=1), Randnummern 27 bis 29: Anmeldung, Anerkennung oder Feststellung einer Masse- oder Neuverbindlichkeit als Insolvenzforderung ändert ihre materielle Rechtsnatur nicht. Trägt nicht: Jede Tabellenfeststellung sei wirkungslos oder dürfe beliebig ignoriert werden.
+
 BGH, Urteil vom 25.06.2020, Az. IX ZR 47/19, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1), Randnummern 10 bis 12 und 15 bis 20: Bestimmter Lebenssachverhalt ist notwendig, nicht bereits vollständig schlüssige Begründung. Bestand und Beweis bleiben zu prüfen. Nachträgliche Individualisierung wirkt laut amtlichem Leitsatz nicht auf den Anmeldezeitpunkt zurück.
 
 BGH, Urteil vom 18.07.2002, Az. IX ZR 195/01, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1), gedruckte Seiten 8 bis 9 und 19 bis 21: Schwache vorläufige Verwaltung begründet nicht pauschal Masse nach Paragraf 55 Absatz 2; bestimmte Einzelermächtigungen gesondert prüfen. Historische Absatznummer bei Paragraf 108 und aktuelle Sondernormen beachten. Keine Randnummern für das PDF ohne Randnummern erfinden.
@@ -357,3 +359,45 @@ BGH, Urteil vom 18.07.2002, Az. IX ZR 195/01, [amtlicher Volltext](https://www.b
 Elektronische Übergabe: [eTab InsO NRW](https://recht.nrw.de/system/files/pdf/state-law-and-regulations/2020/04/29/e29a72/2022-02-01-verordnung-ueber-die-elektronische-fueh.pdf), Paragraf 2 auf Seite 2; [technische Hinweise NRW](https://www.justiz.nrw.de/Gerichte_Behoerden/anschriften/elektronischer_rechtsverkehr/insolvenzgerichte/index.php); [XJustiz](https://xjustiz.justiz.de/). Konkrete Empfangsbedingungen und Normfassung vor Einreichung erneut prüfen.
 
 Zitiere Normen mit ausgeschriebenem Wort Paragraf, Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und gelesener Randnummer oder Seite. Keine Kommentarstellen oder Parallelfundstellen aus Gedächtnis ergänzen. Ungeprüfte Annahmen kennzeichnen. Echte Umlaute, dezimale Gliederung und keine doppelten Sternchen verwenden. Interne Quellen- und Formatprotokolle nicht unnötig in den Brief übernehmen.
+
+## 1.17. Fünf PDF-Anmeldungen im Kaufhaus Katzenbogen
+
+### 1.17.1. Geschlossener Sammelauftrag und Eingangskontrolle
+
+Für die Testakte insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen werden fünf eigenständige Forderungs-PDFs mit ihren Anlagen geprüft. Zähle die tatsächlichen Anmeldungen und ordne jedes Dokument einer stabilen Kennung zu. Eine PDF kann mehrere Seiten, selbständige Anspruchsteile oder eine ergänzende Erklärung enthalten; Dateizahl und Forderungszahl sind nicht automatisch gleich. Prüfe fehlende Seiten, unlesbare Beträge, Dubletten und widersprüchliche Anlagenverweise. Die Fallbeschreibung ist kein Ersatz für die jeweilige Originalanmeldung.
+
+Erhalte für alle fünf Vorgänge den erklärten Betrag und Grund unverändert. Führe daneben nachgerechneten Betrag, offenen Nachweis, rechtliche Einordnung und vorgeschlagene Erklärung. Wenn eine Anmeldung unauffällig ist, begründe das Ergebnis anhand der tatsächlichen Belege. Erzeuge keinen Mangel, um für jeden Gläubiger dasselbe Nachforderungsschreiben auszugeben. Liefere je Vorgang den Prüfvermerk, die zugehörige Tabellenzeile und eine zum tatsächlichen Anlass passende Korrespondenz; ein nicht erforderlicher Versand wird nicht vorgeschlagen.
+
+### 1.17.2. Gemischte Mängel komponentenweise bearbeiten
+
+Eine fehlende Anlage, eine unzureichende Individualisierung und ein materiell unbegründeter Teil sind unterschiedliche Befunde. Dokumentiere für jeden den genauen Umfang und den nächsten Arbeitsschritt. Ein fehlender Lieferschein kann die Beweisfrage einer bestimmten Lieferung betreffen, ohne die gesamte Anmeldung unwirksam zu machen. Ein unaufgeschlüsselter Sammelsaldo kann dagegen schon die Bestimmung der Einzelforderung verhindern. Fehlende Unterlagen rechtfertigen keine stillschweigende Nullsetzung.
+
+Rechne Hauptforderung, Zinsen und Kosten getrennt. Bei einer fehlerhaften Zinsbasis, einem falschen Zeitraum oder einer bereits berücksichtigten Gutschrift grenze den betroffenen Teilbetrag ab. Ein Teilbestreiten nennt konkreten Betrag, Anspruchskomponente, Grund und Beleg. Rangwiderspruch bleibt eigenständig und wird nicht als Tilgung oder Betragskürzung verschlüsselt. Eine Sicherheit verändert nicht ohne Weiteres den persönlichen Anmeldebetrag; tatsächliche Befriedigung und Verteilungsnachweis sind gesondert zu behandeln.
+
+### 1.17.3. Titel, Schuldnerwiderspruch und besonderer Rechtsgrund
+
+Lies den tatsächlich vorgelegten Titel einschließlich Parteien und Tenor. Ein Titel gegen einen Geschäftsführer ist kein Titel gegen seine GmbH. Ein Titel über den vertraglichen Zahlungsanspruch tituliert nicht automatisch einen behaupteten Deliktsgrund. Bei lediglich tituliertem Teilbetrag bleibt der Rest eigenständig zu prüfen. Dokumentiere für jeden Teil, ob Paragraf 179 Absatz 2 InsO die Verfolgungslast des Bestreitenden begründet; die besondere Schuldnerfrist aus Paragraf 184 Absatz 2 darf daraus nicht allgemein abgeleitet werden.
+
+BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Randnummern 22 bis 32 und 39 bis 43, verlangt eine konkrete Prüfung von Forderung und besonderem Rechtsgrund. Ein Deliktskästchen ersetzt keine Tatsachen. Für die entsprechende Anwendung des Paragrafen 184 Absatz 2 auf den isolierten Deliktsgrundwiderspruch müssen nach der Entscheidung Forderung und Deliktsgrund tituliert sein. Eine natürliche Person und eine GmbH werden nicht gleichbehandelt: Restschuldbefreiung nach Paragrafen 286 ff. InsO betrifft natürliche Personen. Ein gegen den Geschäftsführer gerichteter Vorwurf erhält daher kein automatisch wirksames Paragraf-302-Attribut in der Tabelle der GmbH.
+
+### 1.17.4. Ergebnisstatus und Fortsetzung
+
+Führe Eingang, formale Klärung, materielle Prüfung, internen Teilvorschlag, freigegebene Erklärung, tatsächlich erklärten Widerspruch und belegtes gerichtliches Ergebnis getrennt. Erfasse Verwalter, widersprechenden Insolvenzgläubiger und Schuldner als unterschiedliche Beteiligte. Der Schuldnerwiderspruch allein verhindert die Feststellung nach Paragraf 178 InsO nicht. Eine KI-Empfehlung erzeugt keine Feststellung und eine neue Anlage beseitigt keinen dokumentierten Widerspruch automatisch.
+
+Prüfe die Summe aller fünf angemeldeten Beträge gegen die Einzellisten. Führe Summen nach Rang und Anspruchsart getrennt; Aussonderungswerte oder Masseforderungen werden nicht ungeprüft in die einfache Tabellenforderung eingerechnet. Stimmen Betrag, Stand, Grund und Anlagen in Vermerk, Tabellenzeile und Brief überein, entsteht eine konkrete Freigabemappe. Nach einer Gläubigerantwort werden die betroffenen Teile derselben Fassung fortgeführt. Die übrigen abschließend geprüften Vorgänge müssen nicht erneut aufgenommen werden.
+
+## 1.18. Ergänzende Originalquellen vom 21.10.2026
+
+[BAG, Urteil vom 20.02.2025 – 6 AZR 32/24](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/), Randnummern 15 bis 16 und 22 bis 34: Übergeleitete Entgeltansprüche sind in einer Sammelanmeldung insbesondere nach Arbeitnehmer, monatlichem Brutto und Zeitraum bestimmbar zu machen. Sonderwissen des Verwalters ersetzt fehlenden Inhalt nicht; spätere Konkretisierung nach Prüfung kann erneute Prüfung erfordern. Nicht jede Sammelanmeldung ist unzulässig. Das fehlende eigenhändige Unterzeichnen des dortigen maschinell erzeugten Schreibens war unschädlich.
+
+[BGH, Beschluss vom 21.03.2024 – IX ZB 56/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1), Randnummern 22 bis 32 und 39 bis 43: Besonderer Rechtsgrund, Titelumfang und Schuldnerwiderspruch sind getrennt zu prüfen. Keine allgemeine Monatsfrist für jeden Deliktswiderspruch ableiten. Der vollständige ergänzende Quellenabgleich steht in references/sachbearbeitung-quellen-2026-10-21.md; er erweitert die bisherige Fachreferenz, ohne deren technische Exportprüfung zu ersetzen.
+
+## 1.19. Nachreichungen ohne Verlust des Bearbeitungsstands
+
+Für den Fünf-PDF-Auftrag werden ursprüngliche Anmeldung und spätere Ergänzung jeweils mit ihrem Datum erhalten. Eine nachgereichte Gutschrift kann den rechnerischen Vorschlag ändern; sie beweist nicht zugleich die ursprünglich fehlende Lieferung. Ein späterer Lieferschein kann eine bestimmte Leistung belegen; er klärt nicht automatisch einen unaufgeschlüsselten anderen Saldo. Ordne jeden neuen Beleg deshalb genau dem Anspruchsteil zu, dessen Bewertung er tatsächlich beeinflusst.
+
+Eine Gläubigerantwort kann den angemeldeten Betrag ausdrücklich berichtigen oder nur eine neue Berechnung zur Prüfung vorlegen. Lies die Erklärung, bevor du den Anmeldeinhalt änderst. Führe Originalbetrag, erklärte Änderung, nachgerechneten Betrag und internen Vorschlag auseinander. Hat bereits eine gerichtliche Prüfung stattgefunden, sind deren belegtes Ergebnis und ein erforderlicher weiterer Verfahrensschritt zusätzlich zu dokumentieren. Datenpflege ersetzt keine Widerspruchsbeseitigung und keine gerichtliche Berichtigung.
+
+Stelle nach jeder relevanten Nachreichung den fertigen Folgeentwurf her. Das kann ein aktualisierter Prüfvermerk, eine berichtigte Tabellenzeile oder ein Antwortbrief sein. Es genügt nicht, den neuen Beleg lediglich als erhalten zu markieren. Trägt er die vorgeschlagene Änderung nur teilweise, bleibt der übrige Einwand mit Betrag und Begründung sichtbar. Jede verwendete Fassung muss erkennen lassen, auf welchem Belegstand sie beruht.
+
+Der Abschlussabgleich kontrolliert ausdrücklich die fünf Eingänge, ihre aktuellen Unterzeilen, sämtliche Betragssummen und die sachgerechte Korrespondenz. Ein allein dokumentierter Schuldnerwiderspruch wird nicht in einen Verwalterwiderspruch umgedeutet. Ein titelgestützter Teil wird nicht ohne Prüfung seiner Reichweite auf andere Komponenten erweitert. Die verantwortliche Person erhält dadurch eine konkrete, prüfbare Fassung zur fachlichen Entscheidung. Die vorbereitende Arbeit wird innerhalb des Auftrags beendet; eine externe Erklärung wird erst mit der dafür erforderlichen Freigabe veranlasst.

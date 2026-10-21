@@ -1,0 +1,564 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzsachbearbeitung",
+  "reviewed_on": "2026-10-21",
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "§ 55 Absatz 2 knüpft grundsätzlich an starke vorläufige Verwaltung an. Eine schwache Verwaltung benötigt bestimmte, nach Art und Umfang erkennbare Einzelermächtigungen; eine pauschale Ermächtigung, für den Schuldner zu handeln, genügt nicht. Grenze: Jede vom schwachen Verwalter gebilligte Bestellung sei Masse. Die historische Absatznummer des § 108 darf nicht übernommen werden; die heutigen Absätze 3 und 4 des § 55 sind zusätzlich anzuwenden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_110-17A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Antrag und Bestellung eines Verwalters mit Zustimmungsvorbehalt lassen Einziehungs-/Veräußerungsermächtigungen nicht automatisch entfallen. Widerruf und Sicherungsinteressen sind konkret zu prüfen. Rn. 32 bis 34 verneinen eine aus § 21 Absatz 2 Satz 1 Nummer 5 abgeleitete gerichtliche Ermächtigung zur Verarbeitung oder Veräußerung fremden Eigentums. Rn. 39 bis 40 verlangen Wahrung der Sicherungsrechte und eine geeignete Erlöszuordnung. Grenze: Eine Fortführung rechtfertige jede Veräußerung oder die Verwendung fremder Erlöse auf allgemeinen Geschäftskonten. **Dateifalle:** Die PDF-Datei ohne das Suffix `A` enthält einen Streitwertbeschluss, nicht dieses Urteil."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__65-09.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Gerichtliche Einziehungsbefugnis bedeutet nicht, dass die Sicherheit am Erlös ersatzlos verschwindet. Gesonderte Verwahrung und die abgesonderte Befriedigung aus dem Erlös sind zu prüfen. Rn. 38 erklärt die Fortsetzung des Absonderungsrechts am unterscheidbaren Erlös und den Verweis auf §§ 170, 171 InsO. Grenze: Jede Einzahlung sei freie Masse oder bloß eine einfache Masseverbindlichkeit. Der entschiedene Altfall lag vor Einführung des § 21 Absatz 2 Satz 1 Nummer 5; die damals offene Frage des automatischen Erlöschens der Einziehungsermächtigung ist mit 4.2 abzugleichen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_229-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Die Vertragsqualifikation hängt von eigenem Namen, fremder Rechnung, Eigentumsverbleib, Provisionsvergütung, Abrechnung und Abtretung ab. Rn. 22 trennt das vertragliche Innenverhältnis vom Ausführungsgeschäft mit Kunden. Die Kostenverantwortung für den eigenen Ladenbetrieb widerlegt nicht allein die Kommission hinsichtlich der Warenverkäufe. Grenze: Jeder „Kommissions“-Aufdruck oder jede Warenrücknahmemöglichkeit beweise fremdes Eigentum; erst recht keine pauschale Aussonderung bereits vereinnahmter und vermischter Erlöse. Hauptgegenstand war ein Ausgleichsanspruch des Kommissionsagenten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2005/IX_ZR_220-05B.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Einfacher Eigentumsvorbehalt berechtigt grundsätzlich zur Aussonderung. Verlängerungs-/Erweiterungsformen berechtigen nach Eintritt des Verlängerungs-/Erweiterungsfalls nur zur Absonderung; Rn. 24 verlangt diese zeitliche und gegenständliche Differenzierung. Das an eine finanzierende Bank übertragene Vorbehaltseigentum kann funktional Sicherungseigentum werden. Grenze: Jede Formulierung „verlängerter Eigentumsvorbehalt“ mache bereits jede vorhandene Originalware zu bloßem Absonderungsgut. Der Fall betraf eine besondere Einkaufsfinanzierung. Dateisuffix `B` ist erforderlich; andere Dateien enthalten andere Entscheidungen desselben Verfahrens."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "§ 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück. Grenze: Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Bei Doppelanmeldung durch Zedent und Zessionar und erst nach dem Prüfungstermin erfolgter Rückabtretung war die auf die eigene ursprüngliche Anmeldung gestützte Feststellungsklage ohne erneute Anmeldung und Prüfung unzulässig. Grund, Betrag und Rang müssen den geprüften Gegenstand bezeichnen; Rn. 9 bis 14 bestätigen die Individualisierungsgrenze. Grenze: Jede Abtretung, jeder Gläubigerwechsel oder jede Namenskorrektur verlange eine neue Anmeldung. Rn. 21 nennt die durch Auslegung erkennbare Falschbezeichnung; Rn. 27 grenzt die Abtretung einer zuvor vom tatsächlich Berechtigten angemeldeten Forderung ausdrücklich ab."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/",
+      "checked_on": "2026-10-21",
+      "supports": "Bei der Sammelanmeldung übergegangener Arbeitnehmeransprüche sind Arbeitnehmer, jeweiliges monatliches Bruttoentgelt und Anspruchszeiträume zu bestimmen. Sonderwissen des Verwalters ersetzt diese Angaben nicht. Nachträgliche Konkretisierung ohne erneute Prüfung heilt einen wesentlichen Anmeldemangel nicht. Das fehlende eigenhändige Unterzeichnen des maschinell erzeugten BA-Schreibens war unschädlich; § 130 Nummer 6 ZPO fand keine Anwendung. Grenze: Alle Sammelanmeldungen seien unzulässig oder jede beliebige elektronische Nachricht erfülle ungeachtet des Inhalts und Übermittlungswegs § 174 InsO. Die konkreten Angaben bei Arbeitnehmeransprüchen dürfen nicht mechanisch auf andere Vertragstypen übertragen werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen. Grenze: Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_203-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Im entschiedenen Leasingfall war das Fahrzeug Eigentum der Leasinggeberin; seine Verwertung war kein Abfluss von Gesellschaftsvermögen und keine Verwertung einer Gesellschaftssicherheit. Der Restwert ist bei der Schadensberechnung aus dem nicht fortgeführten Vertrag zu berücksichtigen. Grenze: Jede wirtschaftliche Finanzierung sei Leasing, jeder Leasinggegenstand könne ohne Vertragsprüfung sofort abgeholt werden oder sämtliche Leasingforderungen seien Masse. Hauptfrage waren Doppelsicherheiten und Insolvenzanfechtung; allgemeine Herausgabe-/Vertragsregeln bleiben gesondert zu prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB___5-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Restschuldbefreiung hindert eine Nachtragsverteilung von Massegegenständen nicht. Die Massezugehörigkeit einer Steuererstattung ist unabhängig von der Lohnpfändungsberechnung zu prüfen. Der insolvenzrechtliche Entstehungsgrund und eine zeitliche Aufteilung sind entscheidend. Grenze: Jede später ausgezahlte Steuererstattung gehöre vollständig zur Masse. Rn. 9 verlangt gerade eine Abgrenzung des späteren Neuerwerbs. Der Fall unterlag dem 2013er Recht; seine damaligen Voraussetzungen vorzeitiger Restschuldbefreiung sind nicht auf neue Anträge 2026 zu übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__45-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Der ehemalige Verwalter darf nach Aufhebung eine Nachtragsverteilung beantragen. Diese Rolle ist von der Rolle des Treuhänders zu unterscheiden. § 287 Absatz 2 erfasst grundsätzlich Forderungen, die während der Abtretungsfrist entstehen. Bei der hier vergleichsweise begründeten Abfindung war der Vergleichsabschluss maßgeblich, nicht die vorherige Kündigung oder das frühere Beschäftigungsende. Grenze: Jede nach Fristende ausgezahlte Forderung sei frei; während der Frist entstandene Forderungen bleiben grundsätzlich erfasst. Der BGH ließ die besondere Antrags-/Beschwerdebefugnis eines Treuhänders für eine Nachtragsverteilung der Wohlverhaltensperiode ausdrücklich offen und verneinte den Anspruch im konkreten Fall in der Sache."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___3-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Pfändungsschutz nach § 850i ZPO für besondere Versorgungs-/Versicherungsleistungen verlangt einen Antrag und eine begründete Gesamtabwägung. Der angemessene Schutzzeitraum wird anhand der tatsächlichen Umstände und künftigen Einnahmen bestimmt; er folgt nicht aus einer bloßen Multiplikation eines Freibetrags. Grenze: Die gewöhnliche Lohnpfändungstabelle könne frei nach Ermessen ersetzt werden oder die im Urteil genannte Einmalsumme gelte als allgemeiner Freibetrag. Der Fall betrifft Kapitalleistungen aus besonderen Versorgungsvereinbarungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__21-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Eine ausgenommene Forderung verhindert nicht automatisch die Stundung. Es ist zu prüfen, ob ein wirtschaftlicher Neubeginn ernsthaft erreichbar erscheint; die tatsächlichen Verhältnisse und rechtlichen Möglichkeiten zählen. Eine feste Prozentgrenze darf nicht allein ausschlaggebend sein. Der Schuldner trägt die Feststellungslast für die ernsthaften Aussichten. Grenze: Jede Restschuld sei unschädlich oder Stundung müsse ungeprüft bewilligt werden. Gegenstand war eine Wertersatzeinziehung; die Entscheidung ist kein pauschaler Erlass ausgenommener Forderungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB___1-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Schriftliche Falschangaben im Vergleichs- oder Stundungsangebot können § 290 Absatz 1 Nummer 2 erfüllen. Auch mit Wissen und Billigung durch einen Dritten formulierte Angaben können zurechenbar sein. Angaben zu Eigentum und verfügbaren Sicherheiten müssen deshalb belegt werden. Grenze: Jeder Fehler oder jeder erfolglose Einigungsversuch führe automatisch zur Versagung. Zeitfenster, Vorsatz/grobe Fahrlässigkeit, tatbestandliche Zielsetzung und ein zulässiger Gläubigerantrag bleiben zu prüfen. Der BGH hob wegen eines Verfahrensfehlers auf und gab Hinweise für das weitere Verfahren; keine eigene abschließende Versagung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_149-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-21",
+      "supports": "Anmeldung, Anerkennung oder Feststellung einer Masseverbindlichkeit oder Neuverbindlichkeit zur Insolvenztabelle ändert deren materielle Rechtsnatur nicht. Das Verfahren nach §§ 174 ff. InsO betrifft Insolvenzforderungen. Materielle Forderungsklasse, Tabellenstatus und Verteilungsberechtigung müssen deshalb getrennt geführt werden; eine abweichende Tabellenbehandlung wird als Klassifikationsfehler gekennzeichnet. Grenze: Jede Tabellenfeststellung sei wirkungslos oder dürfe beliebig ignoriert werden. Die Entscheidung beseitigt die Wirkung des § 178 Absatz 3 InsO in seinem gesetzlichen Anwendungsbereich nicht und entscheidet nicht allgemein über Rückforderung, Bereicherung, Anrechnung oder sämtliche Verteilungsfolgen einer fehlerhaften Behandlung."
+    }
+  ],
+  "selection": {
+    "target_skill": "insolvenzsachbearbeitung-steuern",
+    "positive": [
+      "Bearbeiten Sie die Verwalterakte mit fünf Anmeldungen und erstellen Sie Prüfvermerke, Tabelle und Gläubigerbriefe.",
+      "Erstellen Sie einen Verbraucher-Verwaltungsvermerk zu getrennten Ehegattenverfahren, laufendem Lohn und den Sicherheiten am Haus."
+    ],
+    "negative": [
+      "Berechnen Sie ausschließlich die Erbschaftsteuer nach einem Todesfall.",
+      "Erstellen Sie allein einen Sanierungsplan ohne Auftrag zur laufenden Insolvenzsachbearbeitung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "katzenbogen-fuenf-anmeldungen",
+      "target_skill": "insolvenzsachbearbeitung-steuern",
+      "request": "Für eine GmbH liegen fünf Anmeldungen vor: eine vollständig belegte Lieferung, eine individualisierte Lieferung mit fehlendem Lieferschein und späterer Gutschrift, ein unaufgeschlüsseltes Sammelkonto, ein Titel mit zusätzlich falsch berechneten Zinsen sowie eine Behauptung vorsätzlicher Täuschung durch den Geschäftsführer mit gesondertem Schuldnerwiderspruch. Erstellen Sie fünf Prüfvermerke, eine abgestimmte Tabelle und die erforderlichen Gläubigerbriefe.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-1",
+          "text": "Erfasst alle fünf Eingänge mit ihren Originalbeträgen und führt Nachreichungen unter derselben Vorgangskennung fort.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-2",
+          "text": "Trennt fehlenden materiellen Beleg nach IX ZR 47/19 von unzureichender Individualisierung des Sammelkontos; keine pauschale Unwirksamkeit jeder unbelegten Anmeldung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-3",
+          "text": "Prüft Gutschrift, Titelumfang und Zusatzverzinsung getrennt und schlägt gegebenenfalls nur den betroffenen Teil zum Bestreiten vor.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-4",
+          "text": "Unterscheidet Verwalter-/Gläubigerwiderspruch von Schuldnerwiderspruch und setzt keine pauschale Monatsfrist für alle Bestreitenden.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-5",
+          "text": "Prüft Anspruchsgegner und Zurechnung bei Geschäftsführerbehauptung; kein §-302-Automatismus für die GmbH.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-fuenf-anmeldungen-6",
+          "text": "Liefert ausformulierte Vermerke und erforderliche Briefe, ohne KI-Vorschläge als tatsächliche gerichtliche Feststellung zu bezeichnen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "katzenbogen-warenrechte",
+      "target_skill": "eigentum-kommission-aussonderung",
+      "request": "Der Lieferant verlangt Katzenwaren im Einkaufswert von 25000 EUR heraus und nennt sie Kommission. Die Akte enthält eine angenommene Bestellung, einen nicht unterschriebenen Kommissionsentwurf, ältere Zahlungsbedingungen und erstmals später vorgelegte AGB mit erweitertem Eigentumsvorbehalt. Ein Teil der Ware ist noch vorhanden, ein Teil verkauft; Erlöse liegen auf einem allgemeinen Geschäftskonto. Am 8. September wurde ein schwacher vorläufiger Verwalter mit Zustimmungsvorbehalt bestellt, eröffnet wurde am 1. Oktober. Erstellen Sie den Eigentumsvermerk und eine Antwort.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "katzenbogen-warenrechte-1",
+          "text": "Qualifiziert Kauf oder echte Verkaufskommission anhand der Vereinbarung, eigenen/fremden Rechnung und Eigentumszuordnung; Entwurf und Etikett beweisen keine Kommission.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-warenrechte-2",
+          "text": "Prüft AGB-Einbeziehung, konkrete Fassung und einfachen, verlängerten oder erweiterten Eigentumsvorbehalt getrennt; der Verlängerungs-/Erweiterungsfall ist zeitlich festzustellen.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-warenrechte-3",
+          "text": "Trennt Originalware, offene Verkaufsforderung, unterscheidbaren Erlös und vermischtes Guthaben; kein pauschales Aussonderungsrecht über den Gesamtwert.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-warenrechte-4",
+          "text": "Liest die konkrete Beschlussbefugnis; § 21 Abs. 2 Satz 1 Nr. 5 erlaubt nicht allgemein Verarbeitung oder Veräußerung fremder Ware.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "katzenbogen-warenrechte-5",
+          "text": "Berücksichtigt § 449 BGB und § 107 InsO und liefert den verlangten Brief ohne eigenmächtige Herausgabe.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "werkzeugkiste-leasing-retouren",
+      "target_skill": "insolvenzsachbearbeitung-steuern",
+      "request": "In einem eröffneten Verfahren verlangt der Leasinggeber eine Maschine heraus. Die Bank beansprucht Sicherungseigentum an Handelswaren, der Vermieter ein Pfandrecht an allem im Lager. Ein Arbeitnehmer fragt nach Septemberlohn und Arbeitstagen im Oktober. Bei einer Lieferantenrechnung sind sechzig zurückgesandte Bit-Sätze und eine Gutschrift zu klären. Erstellen Sie einen Verwaltungsvermerk mit den erforderlichen Anfragen.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "werkzeugkiste-leasing-retouren-1",
+          "text": "Ordnet Maschine und Handelswaren anhand Seriennummer, Eigentum, Sicherungsvertrag und Besitz getrennt zu; Standort allein begründet kein Recht.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "werkzeugkiste-leasing-retouren-2",
+          "text": "Behandelt das Vermieterpfandrecht nicht als Recht an jedem fremden Leasinggegenstand und prüft Anspruchszeitraum und § 50 InsO.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "werkzeugkiste-leasing-retouren-3",
+          "text": "Trennt vor und nach Eröffnung liegende Lohnabschnitte und mögliche Übergänge auf die Bundesagentur; keine doppelte Berücksichtigung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "werkzeugkiste-leasing-retouren-4",
+          "text": "Gleicht tatsächliche Rücksendung, Annahme und Gutschrift ab und führt nur den belegten Anspruch als internen Vorschlag.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "werkzeugkiste-leasing-retouren-5",
+          "text": "Erstellt ausformulierte Anfragen und bereitet Vertragserklärungen vor, ohne Kündigung, Erfüllungswahl oder Zahlung zu behaupten.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abendrot-gutscheine-bestand",
+      "target_skill": "insolvenzsachbearbeitung-steuern",
+      "request": "Eine Cafébäckerei ist eröffnet. Ein Kunde legt einen vor Eröffnung vollständig bezahlten Gutschein vor. Im Tresor liegen unverkaufte Gutscheinkarten. Zwei Filiallisten scheinen denselben Kaffeebestand zu zählen, ein Umlagerungsbeleg liegt bei. Eine Septembermehlrechnung und ein nach Eröffnung beauftragter Kühlservice sollen als Masse bezahlt werden. Erstellen Sie Verwaltungsvermerk und Gläubigerantwort.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "abendrot-gutscheine-bestand-1",
+          "text": "Trennt den verkauften bezahlten Gutschein von unverkauften Blankokarten und behauptet keine Kundenforderung aus bloßem Kartenvorrat.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "abendrot-gutscheine-bestand-2",
+          "text": "Unterstellt beim vollständig vorausbezahlten Gutschein nicht ungeprüft die beiderseitige Nichterfüllung nach § 103 InsO.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "abendrot-gutscheine-bestand-3",
+          "text": "Gleicht Stichtag, Standort und Umlagerung ab; derselbe Kaffee wird nicht zweimal gezählt.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "abendrot-gutscheine-bestand-4",
+          "text": "Ordnet Septemberleistung und beauftragte Leistung nach Eröffnung nach ihrem Rechtsgrund und Zeitraum ein, nicht nach Rechnungsdatum oder Dateiverzeichnis.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "abendrot-gutscheine-bestand-5",
+          "text": "Schreibt die verlangte Antwort und macht aus einem Zahlungsvorschlag keine ausgeführte Massezahlung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haberlein-getrennte-verfahren",
+      "target_skill": "verbraucherinsolvenz-bearbeiten",
+      "request": "Fridolin und Lale sind abhängig beschäftigt. Die individuellen Einigungspläne vom 12. August 2026 scheiterten nach Ablehnungen am 25. und 28. August; Bescheinigungen datieren 2. September. Fridolin beantragte am 9. September, Lale am 14. September. Nur Fridolins Verfahren ist seit 1. Oktober eröffnet. Gemeinsam haften sie für Hauskredit 258000 EUR und Konsumkredit 11800 EUR. Hauswert geschätzt 235000 EUR, je hälftiges Eigentum. Elektronikkredit 5400 EUR betrifft nur Fridolin, Dispo nur Lale. Ihr gerichtliches Ergänzungsschreiben wurde am 9. Oktober zugestellt; die Beratung bittet intern um Rücklauf am 23. Oktober. Erstellen Sie einen Beratungsbrief und getrennte Verfahrensübersichten.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "haberlein-getrennte-verfahren-1",
+          "text": "Hält zwei Schuldner, Anträge und Eröffnungsstände getrennt; kein gemeinsamer Fristbeginn oder bereits eröffnetes Verfahren der Ehefrau.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-getrennte-verfahren-2",
+          "text": "Prüft Scheiternsbescheinigung, persönliche Beratung, Plan und Sechsmonatsbezug nach § 305; keine KI-Ersatzbescheinigung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-getrennte-verfahren-3",
+          "text": "Führt Gesamtschulden nach § 43 in den persönlichen Verzeichnissen vollständig, in der gemeinsamen Haushaltsrechnung wirtschaftlich nur einmal; keine Halbierung oder Überbefriedigung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-getrennte-verfahren-4",
+          "text": "Trennt Grundschuld, persönliche Valuta, Eigentumsanteile und möglichen Ausfall; keine Zusage der Hausfreigabe allein aus 235000 minus 258000.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-getrennte-verfahren-5",
+          "text": "Berechnet die reguläre Abtretungsfrist von der jeweiligen Eröffnung und weist Lales noch fehlende Eröffnung als offen aus.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-getrennte-verfahren-6",
+          "text": "Trennt § 305 Abs. 3 und dessen gesetzlichen Fristlauf vom internen 23. Oktober; keine automatische Rücknahmebehauptung am 24. Oktober.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haberlein-lohn-und-pkonto",
+      "target_skill": "verbraucherinsolvenz-bearbeiten",
+      "request": "Für Oktober 2026 sind Fridolins Monatsnetto mit 3120 EUR, Lales Netto mit 1380 EUR und Kindergeld mit 518 EUR belegt. Zwei minderjährige Kinder werden tatsächlich unterhalten, eine gerichtliche Nichtberücksichtigung der Ehegattin liegt nicht vor. Ein Pfändungsbeschluss wurde Fridolins Arbeitgeber am 28. September zugestellt, nach seinem Antrag vom 9. September; eröffnet wurde am 1. Oktober. Die Lohnsoftware schlägt 550 EUR vor. Für Fridolins seit 2. Oktober bestehendes P-Konto fehlen Unterhaltsbescheinigungen. Erstellen Sie einen Einkommensvermerk und die erforderlichen Anfragen.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "haberlein-lohn-und-pkonto-1",
+          "text": "Verwendet die amtliche Monatstabelle ab 1. Juli 2026; bei 3120 EUR sind Szenarien mit zwei Personen 240.94 EUR und drei Personen 80.86 EUR zu erläutern, nicht pauschal 550 EUR.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-lohn-und-pkonto-2",
+          "text": "Streicht die verdienende Ehegattin nicht automatisch und würdigt § 850c Abs. 6 ZPO sowie § 36 Abs. 4 InsO.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-lohn-und-pkonto-3",
+          "text": "Addiert Lales Lohn und Kindergeld nicht ungeprüft zu Fridolins Arbeitseinkommen; bei 1380 EUR besteht bereits ohne Unterhaltsberücksichtigung kein pfändbarer Tabellenbetrag.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-lohn-und-pkonto-4",
+          "text": "Trennt Grundbetrag 1587.40 EUR, Rundung der Lohntabelle und P-Konto-Grundbetrag 1590 EUR; erhöhte Beträge benötigen den passenden Nachweis.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-lohn-und-pkonto-5",
+          "text": "Prüft § 88 für die nach Antrag erlangte Vollstreckungssicherung und § 89 für die Vollstreckung; keine ungeprüfte Gläubigerauszahlung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "haberlein-lohn-und-pkonto-6",
+          "text": "Liefert die konkreten Anfragen, ohne eine P-Konto-Bescheinigung einer geeigneten Stelle oder eine gerichtliche Entscheidung zu fingieren.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
+    "changes": [
+      "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
+      "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
+      "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
+      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten."
+    ],
+    "reviewed_on": "2026-10-21",
+    "sha256": "338128a8e924a158497adf5bb6976781464384fd16568a26093e57776efd408b"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
+    "changes": [
+      "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
+      "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
+      "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
+      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten.",
+      "Eigenständige Fahrzeugeigentumsvariante ausdrücklich von der Haberlein-Akte abgegrenzt."
+    ],
+    "reviewed_on": "2026-10-21",
+    "sha256": "097f9f02a848110fa7ce2efb5d12026468e9d0e38832c94fc847005a8a0a06bd"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
+    "changes": [
+      "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
+      "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
+      "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
+      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten."
+    ],
+    "reviewed_on": "2026-10-21",
+    "method": "desk_review",
+    "prompt_path": "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md",
+    "skill_path": "insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md",
+    "prompt_sha256": "7d9c9752ae07cf2dc5659f331f3bb1ba487e29e448ad6c214f2afb2c0596988b",
+    "skill_sha256": "e43b275d83e2309e4966713e61f9b96fab91f571ed9e36e5af2f8c5054624d36"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-21",
+    "method": "desk_review",
+    "opening_change": "Der konkrete Verwaltungsauftrag führt unmittelbar zum Dokument; der frühe BGH-Anker grenzt Anmeldeidentität und gerichtliche Feststellung ab.",
+    "norms": [
+      "§§ 21, 22, 38, 47 bis 55 und 103 bis 113 InsO",
+      "§§ 174 bis 186 und 201 InsO",
+      "§§ 304 bis 310, 287, 290, 295, 300 bis 302 InsO",
+      "§§ 383, 384, 392 HGB; §§ 305 bis 310 und 449 BGB",
+      "§§ 850c ff., 899, 902 und 903 ZPO; Pfändungsfreigrenzenbekanntmachung 2026"
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarien sind keine beobachteten Modellläufe in Claude Cowork oder ChatGPT.",
+      "Vor konkreter Anwendung bleiben Beschluss, Vertragsfassung, Anmeldeunterlagen, Zeitraum und Originalquellen zu prüfen.",
+      "Keine KI-Ausgabe ersetzt die Tabellenfeststellung oder die Befugnis zu Versand, Zahlung und Herausgabe."
+    ],
+    "files": [
+      "insolvenzsachbearbeitung/insolvenzsachbearbeitung-werkstatt.md",
+      "insolvenzsachbearbeitung/insolvenzsachbearbeitung-schnellstart.md",
+      "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 18.07.2002 – IX ZR 195/01, gedruckte Seiten 8 bis 9 und 19 bis 21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
+        "application": "§ 55 Absatz 2 knüpft grundsätzlich an starke vorläufige Verwaltung an. Eine schwache Verwaltung benötigt bestimmte, nach Art und Umfang erkennbare Einzelermächtigungen; eine pauschale Ermächtigung, für den Schuldner zu handeln, genügt nicht.",
+        "limit": "Jede vom schwachen Verwalter gebilligte Bestellung sei Masse. Die historische Absatznummer des § 108 darf nicht übernommen werden; die heutigen Absätze 3 und 4 des § 55 sind zusätzlich anzuwenden."
+      },
+      {
+        "citation": "BGH, Urteil vom 24.01.2019 – IX ZR 110/17, Rn. 19 bis 40",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2017/IX_ZR_110-17A.pdf?__blob=publicationFile&v=1",
+        "application": "Antrag und Bestellung eines Verwalters mit Zustimmungsvorbehalt lassen Einziehungs-/Veräußerungsermächtigungen nicht automatisch entfallen. Widerruf und Sicherungsinteressen sind konkret zu prüfen. Rn. 32 bis 34 verneinen eine aus § 21 Absatz 2 Satz 1 Nummer 5 abgeleitete gerichtliche Ermächtigung zur Verarbeitung oder Veräußerung fremden Eigentums. Rn. 39 bis 40 verlangen Wahrung der Sicherungsrechte und eine geeignete Erlöszuordnung.",
+        "limit": "Eine Fortführung rechtfertige jede Veräußerung oder die Verwendung fremder Erlöse auf allgemeinen Geschäftskonten. **Dateifalle:** Die PDF-Datei ohne das Suffix `A` enthält einen Streitwertbeschluss, nicht dieses Urteil."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.01.2010 – IX ZR 65/09, Rn. 7 bis 8, 16 bis 20 und 30 bis 38",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__65-09.pdf?__blob=publicationFile&v=1",
+        "application": "Gerichtliche Einziehungsbefugnis bedeutet nicht, dass die Sicherheit am Erlös ersatzlos verschwindet. Gesonderte Verwahrung und die abgesonderte Befriedigung aus dem Erlös sind zu prüfen. Rn. 38 erklärt die Fortsetzung des Absonderungsrechts am unterscheidbaren Erlös und den Verweis auf §§ 170, 171 InsO.",
+        "limit": "Jede Einzahlung sei freie Masse oder bloß eine einfache Masseverbindlichkeit. Der entschiedene Altfall lag vor Einführung des § 21 Absatz 2 Satz 1 Nummer 5; die damals offene Frage des automatischen Erlöschens der Einziehungsermächtigung ist mit 4.2 abzugleichen."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.07.2016 – I ZR 229/15, Rn. 10 bis 22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_229-15.pdf?__blob=publicationFile&v=1",
+        "application": "Die Vertragsqualifikation hängt von eigenem Namen, fremder Rechnung, Eigentumsverbleib, Provisionsvergütung, Abrechnung und Abtretung ab. Rn. 22 trennt das vertragliche Innenverhältnis vom Ausführungsgeschäft mit Kunden. Die Kostenverantwortung für den eigenen Ladenbetrieb widerlegt nicht allein die Kommission hinsichtlich der Warenverkäufe.",
+        "limit": "Jeder „Kommissions“-Aufdruck oder jede Warenrücknahmemöglichkeit beweise fremdes Eigentum; erst recht keine pauschale Aussonderung bereits vereinnahmter und vermischter Erlöse. Hauptgegenstand war ein Ausgleichsanspruch des Kommissionsagenten."
+      },
+      {
+        "citation": "BGH, Urteil vom 27.03.2008 – IX ZR 220/05, Rn. 23 bis 31",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2005/IX_ZR_220-05B.pdf?__blob=publicationFile&v=1",
+        "application": "Einfacher Eigentumsvorbehalt berechtigt grundsätzlich zur Aussonderung. Verlängerungs-/Erweiterungsformen berechtigen nach Eintritt des Verlängerungs-/Erweiterungsfalls nur zur Absonderung; Rn. 24 verlangt diese zeitliche und gegenständliche Differenzierung. Das an eine finanzierende Bank übertragene Vorbehaltseigentum kann funktional Sicherungseigentum werden.",
+        "limit": "Jede Formulierung „verlängerter Eigentumsvorbehalt“ mache bereits jede vorhandene Originalware zu bloßem Absonderungsgut. Der Fall betraf eine besondere Einkaufsfinanzierung. Dateisuffix `B` ist erforderlich; andere Dateien enthalten andere Entscheidungen desselben Verfahrens."
+      },
+      {
+        "citation": "BGH, Urteil vom 25.06.2020 – IX ZR 47/19, Rn. 10 bis 12 und 15 bis 23 sowie amtlicher Leitsatz",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+        "application": "§ 174 Absatz 2 verlangt einen bestimmten Lebenssachverhalt, keine bereits schlüssige und vollständig belegte Darlegung. Rn. 23 beschreibt das Bestreitens- und Kostenrisiko unzureichender Belege. Für eine Prozessaufnahme sind wirksame Anmeldung und Prüfung erforderlich. Nachträgliche Individualisierung wirkt nicht zurück.",
+        "limit": "Unbelegte Forderungen seien materiell berechtigt oder müssten festgestellt werden. Auch die gegenteilige pauschale Zurückweisung wegen jeder fehlenden Anlage wird nicht getragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.12.2024 – IX ZR 114/23, Rn. 8 bis 27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+        "application": "Bei Doppelanmeldung durch Zedent und Zessionar und erst nach dem Prüfungstermin erfolgter Rückabtretung war die auf die eigene ursprüngliche Anmeldung gestützte Feststellungsklage ohne erneute Anmeldung und Prüfung unzulässig. Grund, Betrag und Rang müssen den geprüften Gegenstand bezeichnen; Rn. 9 bis 14 bestätigen die Individualisierungsgrenze.",
+        "limit": "Jede Abtretung, jeder Gläubigerwechsel oder jede Namenskorrektur verlange eine neue Anmeldung. Rn. 21 nennt die durch Auslegung erkennbare Falschbezeichnung; Rn. 27 grenzt die Abtretung einer zuvor vom tatsächlich Berechtigten angemeldeten Forderung ausdrücklich ab."
+      },
+      {
+        "citation": "BAG, Urteil vom 20.02.2025 – 6 AZR 32/24, Rn. 15 bis 16 und 22 bis 34",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-32-24/",
+        "application": "Bei der Sammelanmeldung übergegangener Arbeitnehmeransprüche sind Arbeitnehmer, jeweiliges monatliches Bruttoentgelt und Anspruchszeiträume zu bestimmen. Sonderwissen des Verwalters ersetzt diese Angaben nicht. Nachträgliche Konkretisierung ohne erneute Prüfung heilt einen wesentlichen Anmeldemangel nicht. Das fehlende eigenhändige Unterzeichnen des maschinell erzeugten BA-Schreibens war unschädlich; § 130 Nummer 6 ZPO fand keine Anwendung.",
+        "limit": "Alle Sammelanmeldungen seien unzulässig oder jede beliebige elektronische Nachricht erfülle ungeachtet des Inhalts und Übermittlungswegs § 174 InsO. Die konkreten Angaben bei Arbeitnehmeransprüchen dürfen nicht mechanisch auf andere Vertragstypen übertragen werden."
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Rn. 22 bis 32 und 39 bis 43",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZB__56-22.pdf?__blob=publicationFile&v=1",
+        "application": "Ein bloßes Deliktskästchen ersetzt keine Tatsachenangabe. Rn. 31 konkretisiert die Individualisierung bei Unterhaltspflichtverletzungen. Die entsprechende Anwendung von § 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt nach Rn. 22 voraus, dass Forderung und Deliktsgrund tituliert sind. Bei einem zusätzlichen deliktischen Anspruch aus anderem Streitgegenstand kann der Schuldnerwiderspruch die zusätzliche Forderung insgesamt erfassen.",
+        "limit": "Jeder Unterhaltstitel enthalte bereits einen titulierten Deliktsgrund. Die nicht fristgebundene Feststellungsklage nach § 184 Absatz 1 beseitigt nicht mögliche materiellrechtliche Verjährung. Der Fall betrifft eine natürliche Person und darf nicht als automatischer §-302-Mechanismus einer GmbH verwendet werden."
+      },
+      {
+        "citation": "BGH, Urteil vom 10.04.2025 – IX ZR 203/23, berichtigt am 08.05.2025, Rn. 6 bis 20, insbesondere 13 bis 15",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_203-23.pdf?__blob=publicationFile&v=1",
+        "application": "Im entschiedenen Leasingfall war das Fahrzeug Eigentum der Leasinggeberin; seine Verwertung war kein Abfluss von Gesellschaftsvermögen und keine Verwertung einer Gesellschaftssicherheit. Der Restwert ist bei der Schadensberechnung aus dem nicht fortgeführten Vertrag zu berücksichtigen.",
+        "limit": "Jede wirtschaftliche Finanzierung sei Leasing, jeder Leasinggegenstand könne ohne Vertragsprüfung sofort abgeholt werden oder sämtliche Leasingforderungen seien Masse. Hauptfrage waren Doppelsicherheiten und Insolvenzanfechtung; allgemeine Herausgabe-/Vertragsregeln bleiben gesondert zu prüfen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 26.09.2024 – IX ZB 5/24, Rn. 6 bis 15",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB___5-24.pdf?__blob=publicationFile&v=1",
+        "application": "Restschuldbefreiung hindert eine Nachtragsverteilung von Massegegenständen nicht. Die Massezugehörigkeit einer Steuererstattung ist unabhängig von der Lohnpfändungsberechnung zu prüfen. Der insolvenzrechtliche Entstehungsgrund und eine zeitliche Aufteilung sind entscheidend.",
+        "limit": "Jede später ausgezahlte Steuererstattung gehöre vollständig zur Masse. Rn. 9 verlangt gerade eine Abgrenzung des späteren Neuerwerbs. Der Fall unterlag dem 2013er Recht; seine damaligen Voraussetzungen vorzeitiger Restschuldbefreiung sind nicht auf neue Anträge 2026 zu übertragen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.05.2026 – IX ZB 45/25, Rn. 7 bis 17, 19 bis 29 und 33 bis 36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__45-25.pdf?__blob=publicationFile&v=1",
+        "application": "Der ehemalige Verwalter darf nach Aufhebung eine Nachtragsverteilung beantragen. Diese Rolle ist von der Rolle des Treuhänders zu unterscheiden. § 287 Absatz 2 erfasst grundsätzlich Forderungen, die während der Abtretungsfrist entstehen. Bei der hier vergleichsweise begründeten Abfindung war der Vergleichsabschluss maßgeblich, nicht die vorherige Kündigung oder das frühere Beschäftigungsende.",
+        "limit": "Jede nach Fristende ausgezahlte Forderung sei frei; während der Frist entstandene Forderungen bleiben grundsätzlich erfasst. Der BGH ließ die besondere Antrags-/Beschwerdebefugnis eines Treuhänders für eine Nachtragsverteilung der Wohlverhaltensperiode ausdrücklich offen und verneinte den Anspruch im konkreten Fall in der Sache."
+      },
+      {
+        "citation": "BGH, Beschluss vom 11.12.2025 – IX ZB 3/25, Rn. 10 bis 24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB___3-25.pdf?__blob=publicationFile&v=1",
+        "application": "Pfändungsschutz nach § 850i ZPO für besondere Versorgungs-/Versicherungsleistungen verlangt einen Antrag und eine begründete Gesamtabwägung. Der angemessene Schutzzeitraum wird anhand der tatsächlichen Umstände und künftigen Einnahmen bestimmt; er folgt nicht aus einer bloßen Multiplikation eines Freibetrags.",
+        "limit": "Die gewöhnliche Lohnpfändungstabelle könne frei nach Ermessen ersetzt werden oder die im Urteil genannte Einmalsumme gelte als allgemeiner Freibetrag. Der Fall betrifft Kapitalleistungen aus besonderen Versorgungsvereinbarungen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 13.11.2025 – IX ZB 21/25, Rn. 7 bis 17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__21-25.pdf?__blob=publicationFile&v=1",
+        "application": "Eine ausgenommene Forderung verhindert nicht automatisch die Stundung. Es ist zu prüfen, ob ein wirtschaftlicher Neubeginn ernsthaft erreichbar erscheint; die tatsächlichen Verhältnisse und rechtlichen Möglichkeiten zählen. Eine feste Prozentgrenze darf nicht allein ausschlaggebend sein. Der Schuldner trägt die Feststellungslast für die ernsthaften Aussichten.",
+        "limit": "Jede Restschuld sei unschädlich oder Stundung müsse ungeprüft bewilligt werden. Gegenstand war eine Wertersatzeinziehung; die Entscheidung ist kein pauschaler Erlass ausgenommener Forderungen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 18.11.2021 – IX ZB 1/21, Rn. 5 bis 18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB___1-21.pdf?__blob=publicationFile&v=1",
+        "application": "Schriftliche Falschangaben im Vergleichs- oder Stundungsangebot können § 290 Absatz 1 Nummer 2 erfüllen. Auch mit Wissen und Billigung durch einen Dritten formulierte Angaben können zurechenbar sein. Angaben zu Eigentum und verfügbaren Sicherheiten müssen deshalb belegt werden.",
+        "limit": "Jeder Fehler oder jeder erfolglose Einigungsversuch führe automatisch zur Versagung. Zeitfenster, Vorsatz/grobe Fahrlässigkeit, tatbestandliche Zielsetzung und ein zulässiger Gläubigerantrag bleiben zu prüfen. Der BGH hob wegen eines Verfahrensfehlers auf und gab Hinweise für das weitere Verfahren; keine eigene abschließende Versagung."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-21",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Beschlüsse und Anmeldungen zuerst lesen.",
+      "Bei Warenherausgabe zunächst Gegenstand, Eigentumskette und konkrete Beschlussbefugnis prüfen.",
+      "Bei Verbraucherfällen Rolle, betroffene Person und eigenen Eröffnungsstand zuerst klären."
+    ],
+    "continuation": "Neue Belege ändern die betroffenen Forderungen, Briefe, Rechnungen und Berichte im selben Bearbeitungsstand; unabhängige Vorgänge werden bis zum beauftragten Produkt fortgeführt.",
+    "enrichment": "Vier vollständige Akten führen Betriebs-, Forderungs-, Waren-, Kassen- und Verbraucherprobleme zusammen; die besonderen Verbraucherprompts bleiben alternative Einstiege in dieselben zehn Fachwege.",
+    "limits": "Redaktionelle Prüfung und technische Validierung; kein behaupteter Modelltest oder echtes Verfahrensergebnis."
+  }
+}

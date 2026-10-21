@@ -1,0 +1,231 @@
+{
+  "slug": "insolvenzsachbearbeitung-familie-haberlein-nuernberg",
+  "documents": 36,
+  "pages": 37,
+  "formats": {
+    ".docx": 7,
+    ".txt": 2,
+    ".pdf": 18,
+    ".eml": 7,
+    ".xlsx": 2
+  },
+  "font": "Times New Roman",
+  "files": [
+    {
+      "file": "01_Erstgespraech.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "420026c7b0f4467b2d12badef61a233cea9196423cdac8effdbe67c81f2fe656"
+    },
+    {
+      "file": "02_Personen_und_Haushalt.txt",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "0807449dd1393ddbe2682b1b588acde59ee1ee3ebe7fac152c6420b4dcb454ce"
+    },
+    {
+      "file": "03_Beratungsauftrag_Fridolin.docx",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "984633c12f6ba7abc64680364b21e43f73d0b7ee38499ade800862430fd79531"
+    },
+    {
+      "file": "04_Beratungsauftrag_Lale.docx",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "41f0a7e018e77c976546783a7323508bd879eb73d784b904146168a448587759"
+    },
+    {
+      "file": "05_Hausdarlehen.pdf",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "9e7628a7871442775dc127f00d95c2e3a167e1720ce1e2614b029a28bf93d87a"
+    },
+    {
+      "file": "06_Grundbuchinformation.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "1318df33566e55147e35f206910a88bbe46a242319f6da2354bbf9cf613d52ce"
+    },
+    {
+      "file": "07_Bank_Rueckstaende.pdf",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "230d992512266062b38c5065d2d8734152f3e5e5e8a31933c83c73af96549fd8"
+    },
+    {
+      "file": "08_Bank_Abloesefrage.eml",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "8e97edcf549bd13c1979510c09a7d9dc9525555060eb53d0fee031db105f4aae"
+    },
+    {
+      "file": "09_Maklereinschaetzung.pdf",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "205d5e3f3bd40fad400d22585dd3a09346b5188f1e5e735bc23a731884b09243"
+    },
+    {
+      "file": "10_Entgelt_Fridolin.pdf",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "5336cc8c414869ec71376f7de258ee3e1f15f4939ee3f2b37337feb25a60c4d3"
+    },
+    {
+      "file": "11_Entgelt_Lale.pdf",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "1a08279e4d10a0e7c1b1259e1b9075a42912c43680c37f4a374c0804b8d9af63"
+    },
+    {
+      "file": "12_Arbeitgeber_Pfaendung.eml",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "6007691041506b2fa275aa90d4c5a5ebb8d70bba32709b39b8d788489fae4658"
+    },
+    {
+      "file": "13_Pfaendungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "ae5c20c83e688bd358a929aa512f71a1eda9bff0e1ac0b92974989e4d2d7671d"
+    },
+    {
+      "file": "14_Konto_Fridolin.pdf",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "16051f8bfde341119dd58e4b2c7fdb6ca5bdc1981f8b5fccf79e15afbb47e095"
+    },
+    {
+      "file": "15_Konto_Lale.pdf",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "646e1012aec866160422168556e6f883a522062b26c6fb0e2f67c1400d90121c"
+    },
+    {
+      "file": "16_PKonto_Rueckfrage.eml",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "12cfd62f5cb149d18e24179d7dc7232cbfc757663235699fe1f4d0900dc21ab0"
+    },
+    {
+      "file": "17_Elektromarkt_Kauf.pdf",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "e7b7f898c2cd38b37fa3814c72722b5ea205bd07ed3257bb07e06ed820280313"
+    },
+    {
+      "file": "18_Elektronik_Finanzierung.pdf",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "b4ab6b640c6cd4ca171f2a8984fbeaeaa9b71c6f60e477a5543eb96ca503f202"
+    },
+    {
+      "file": "19_Gemeinsamer_Kredit.pdf",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "955ff1d6ada51efc4c23d2fbb33d9ec4213de97f56c1da8203c583693e83dbcf"
+    },
+    {
+      "file": "20_Glaeubigerstand.docx",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "79ce8c3342f84444811cb24df2fff5abe891f0704c14939f93de4243b947e0e4"
+    },
+    {
+      "file": "21_Einigungsversuch_Fridolin.docx",
+      "pages": 1,
+      "start_page": 21,
+      "sha256": "c9a84c16cfb052e0fbcc42418f4dc3641641bb39ccd96bbe2f3fb198771c0f24"
+    },
+    {
+      "file": "22_Einigungsversuch_Lale.docx",
+      "pages": 1,
+      "start_page": 22,
+      "sha256": "471f46b11f46c0c5399bcaeb051cfd3731349026225e389318c7f3c37b7977dc"
+    },
+    {
+      "file": "23_Bank_Ablehnung.eml",
+      "pages": 1,
+      "start_page": 23,
+      "sha256": "e10ede3fecffe3801aae8935882cef2c284ed180aab9b8b1ebb036e729158f48"
+    },
+    {
+      "file": "24_Kredit_Ablehnung.eml",
+      "pages": 1,
+      "start_page": 24,
+      "sha256": "820e1a48afc5bc7d7a632b7855e453b80be320524b1a441bf126854ed536f3a7"
+    },
+    {
+      "file": "25_Scheitern_Fridolin.pdf",
+      "pages": 1,
+      "start_page": 25,
+      "sha256": "189c62f004f52657505f011f91e661b4824544a7a2dfb850e002159d5e704ffe"
+    },
+    {
+      "file": "26_Scheitern_Lale.pdf",
+      "pages": 1,
+      "start_page": 26,
+      "sha256": "84ebd0d71478e6ac5f7cdf5e0b3420987e096068aae691b38c58d93b17fb1e72"
+    },
+    {
+      "file": "27_Eroeffnung_Fridolin.pdf",
+      "pages": 1,
+      "start_page": 27,
+      "sha256": "9be486e0a43db8da9238c7cd2d7b1af6ef08df4bdac62c9b5976aa32806806e7"
+    },
+    {
+      "file": "28_Verfuegung_Lale.pdf",
+      "pages": 1,
+      "start_page": 28,
+      "sha256": "08779d8099b5344f7eedea2acacd71c5867d3bc188c30f902618f6db0652c0f5"
+    },
+    {
+      "file": "29_Beratung_Uebergabe.eml",
+      "pages": 1,
+      "start_page": 29,
+      "sha256": "232a078a775ce0d92d59207164dc88706aaa6c5e9f3ed49a9210ef866dd03a19"
+    },
+    {
+      "file": "30_Familiennachricht.eml",
+      "pages": 1,
+      "start_page": 30,
+      "sha256": "bb1e6d4a7b5c0d4639416fe581893749703575aae5dda36c9405be6654f656c9"
+    },
+    {
+      "file": "31_Haushalt.xlsx",
+      "pages": 2,
+      "start_page": 31,
+      "sha256": "e6202f0be93e6522f2e1400e1316e1605ac955e02318f54d7eb621b36a3552ed"
+    },
+    {
+      "file": "32_Glaeubigerabgleich.xlsx",
+      "pages": 1,
+      "start_page": 33,
+      "sha256": "518aaea50d06a34f13b2c10ed86bc30b3c044c3bea67342512d9915bfed82603"
+    },
+    {
+      "file": "33_Haushaltskonto.pdf",
+      "pages": 1,
+      "start_page": 34,
+      "sha256": "07a91b6fac6cf9756cc09b3b194448e6e1eb1eacfc2da83ccf53dbc2a21f3546"
+    },
+    {
+      "file": "34_Familienchat.txt",
+      "pages": 1,
+      "start_page": 35,
+      "sha256": "ba4cbfd9ea5032f7c501da82bc619aab4f7ec5be62b7918a114a0aab1fae3b12"
+    },
+    {
+      "file": "35_Versicherungsuebersicht.pdf",
+      "pages": 1,
+      "start_page": 36,
+      "sha256": "0c6f70540b283f009483c3b1aaca69716935db2f2d7984a4695b2c7ddecdec4b"
+    },
+    {
+      "file": "36_Verwaltung_Unterlagen.docx",
+      "pages": 1,
+      "start_page": 37,
+      "sha256": "0ad12a50d1a89452be8aceeba98fd5488b4cb4e78eac849c3d426e79dfefcad2"
+    }
+  ]
+}
