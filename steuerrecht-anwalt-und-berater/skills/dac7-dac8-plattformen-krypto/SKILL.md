@@ -15,7 +15,7 @@ description: "Für DAC7 & DAC8 — Meldepflichten Plattformen und Krypto: ordnet
 
 1. Ist der Mandant (a) Plattformbetreiber, (b) Krypto-Dienstleister (CASP), (c) Anbieter auf einer Plattform, oder (d) privater Krypto-Inhaber?
 2. Hat der Mandant EU-Sitz oder Drittland-Sitz mit EU-Nutzern?
-3. Wurden bisherige Meldepflichten (DAC7 seit 31.1.2024, DAC8 ab 31.1.2027) eingehalten?
+3. Wurden bisherige Meldepflichten (DAC7 seit 31.1.2024, DAC8 erstmals bis 31.7.2027) eingehalten?
 4. Läuft ein Bußgeldverfahren des BZSt bereits oder wird eines erwartet?
 5. Hat der Mandant bisher unerklärte Krypto-Gewinne (§ 22 Nr. 2 i.V.m. § 23 EStG)? → Selbstanzeige § 371 AO vor DAC8-Erstmeldung 2027
 
@@ -51,10 +51,10 @@ description: "Für DAC7 & DAC8 — Meldepflichten Plattformen und Krypto: ordnet
 
 ### DAC8 — Krypto-Vermögenswerte (Richtlinie (EU) 2023/2226)
 
-- **Kryptosteuertransparenzgesetz (KryptoStG)** vom 27.12.2024, in Kraft 1.1.2026 — Umsetzung DAC8 in Deutschland.
+- **Kryptowerte-Steuertransparenz-Gesetz (KStTG)** = Art. 1 des Gesetzes zur Umsetzung der Richtlinie (EU) 2023/2226 vom 22.12.2025 (BGBl. 2025 I Nr. 352), in Kraft 24.12.2025; Pflichten erstmals für das Kalenderjahr 2026 (§ 21 KStTG) — Umsetzung DAC8 in Deutschland.
 - **Erfasste Krypto-Aktivitäten:** Tausch, Übertragung, Verwahrung, Kauf, Verkauf von Krypto-Vermögenswerten.
 - **Meldepflichtige:** Crypto-Asset Service Provider (CASP) i.S.d. MiCA-Verordnung (VO (EU) 2023/1114).
-- **Erstmeldung**: bis 31.1.2027 für das Kalenderjahr 2026.
+- **Meldefrist** jährlich bis **31.7. des Folgejahres** (§ 9 Abs. 1 KStTG); **Erstmeldung** bis 31.7.2027 für das Kalenderjahr 2026.
 - **Bußgeld**: bis 50 000 EUR pro Verstoß.
 
 ### Sekundärnormen
@@ -66,7 +66,7 @@ description: "Für DAC7 & DAC8 — Meldepflichten Plattformen und Krypto: ordnet
 ### Leitfaden / Praxis
 
 - BMF-Schreiben vom 28.4.2023 zur Anwendung PStTG (Plattform).
-- BMF-Schreiben vom 22.11.2024 zur Anwendung KryptoStG (Krypto, voraussichtlich 1. Quartal 2026 Aktualisierung).
+- BMF-Schreiben vom 22.11.2024 zur Anwendung KStTG (Krypto, voraussichtlich 1. Quartal 2026 Aktualisierung).
 
 ## I. DAC7 — Plattformbetreiber
 
@@ -120,7 +120,7 @@ Erfasste Transaktionen je Nutzer pro Kalenderjahr:
 ### Phase 3 — Meldung
 
 - An BZSt; Format XML.
-- Erstmeldung bis **31.1.2027** für Kalenderjahr 2026.
+- Erstmeldung bis **31.7.2027** für Kalenderjahr 2026 (§ 9 Abs. 1, § 21 KStTG).
 
 ## IV. DAC8 — Krypto-Inhaber
 
@@ -140,7 +140,7 @@ Erfasste Transaktionen je Nutzer pro Kalenderjahr:
 - Bagatellgrenzen werden noch durch BMF-Schreiben konkretisiert (Stand 5/2026: noch offen).
 - Stablecoins, CBDCs, Zentralbank-Geld: ausgenommen (i.d.R.).
 
-## Bußgeld § 13 PStTG / KryptoStG
+## Bußgeld § 13 PStTG / § 18 KStTG
 
 | Verstoß | Bußgeldhöhe |
 |---|---|
@@ -158,10 +158,10 @@ Bei Vorsatz zusätzlich strafrechtliche Verfolgung nach § 370 AO denkbar.
 | Plattform startet 2023+ ohne DAC7-Compliance | Bußgeld + Steuerstrafverfahren möglich | Aufholmeldung 2026 möglich | DAC7 von Anfang an |
 | Krypto-Dienstleister ohne CASP-Lizenz | BaFin-Verbot + DAC8-Compliance unmöglich | MiCA-Antrag läuft | CASP-Lizenz vorhanden |
 | Anbieter ohne Steuererklärung | Nach DAC7-Meldung Tatentdeckung; § 371 AO Sperrwirkung | Selbstanzeige in Vorbereitung | rechtzeitige Selbstanzeige |
-| Krypto-Trader ohne § 23 EStG-Erklärung | Nach DAC8-Erstmeldung 1/2027 erhebliches Risiko | Selbstanzeige 2026 vorbereiten | Steuern erklärt |
+| Krypto-Trader ohne § 23 EStG-Erklärung | Nach DAC8-Erstmeldung 7/2027 erhebliches Risiko | Selbstanzeige 2026 vorbereiten | Steuern erklärt |
 
 ## Quellen und Updates
 
-Stand: 05/2026. PStTG seit 1.1.2023 in Kraft, KryptoStG seit 1.1.2026. MiCA-VO ab 30.12.2024 vollständig anwendbar. DAC7-Erstmeldungen ab 31.1.2024 erfolgt; DAC8-Erstmeldung 31.1.2027 für 2026. Bei Verschärfung der Bagatellgrenzen oder Erweiterung auf weitere Aktivitäten (DAC9 in Vorbereitung) aktualisieren.
+Stand: 05/2026. PStTG seit 1.1.2023 in Kraft, KStTG seit 24.12.2025 (Pflichten ab Kalenderjahr 2026). MiCA-VO ab 30.12.2024 vollständig anwendbar. DAC7-Erstmeldungen ab 31.1.2024 erfolgt; DAC8-Erstmeldung 31.7.2027 für 2026. Bei Verschärfung der Bagatellgrenzen oder Erweiterung auf weitere Aktivitäten (DAC9 in Vorbereitung) aktualisieren.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
