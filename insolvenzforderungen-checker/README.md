@@ -5,13 +5,13 @@
 
 Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung.
 
-Dieses Plugin gehört zum Marketplace mit 305 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 306 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`insolvenzforderungen-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungen-checker.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`insolvenzforderungen-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/insolvenzforderungen-checker.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) |
@@ -39,12 +39,12 @@ Das Paket arbeitet für die Insolvenzverwaltung. Es trennt angemeldete Beträge,
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzforderungen-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungen-checker.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzforderungen-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`insolvenzforderungen-checker-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`insolvenzforderungen-checker-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 305 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 306 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.35.3. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
+Version 445.35.4. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
 
 Das kompakte Paket ergänzt [Insolvenzforderungsanmeldungsprüfung](../insolvenzforderungsanmeldungspruefung/README.md) und [Insolvenzverwaltung](../insolvenzverwaltung/README.md), ersetzt sie aber nicht. Sein Fokus ist die konkrete Forderungsprüfung bis zum Tabellenvorschlag und Gläubigerbrief; ein zusätzlicher Einstieg über die anderen Pakete ist nicht erforderlich.
 
@@ -143,3 +143,27 @@ English: Complete list of all 11 skills in this plugin. Both links in each row d
 | [`zahlungen-zinsen-und-kosten-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/skills/zahlungen-zinsen-und-kosten-pruefen/SKILL.md) | Rekonstruiert den angemeldeten Saldo aus Einzelrechnungen, Gutschriften und Zahlungen. Prüft Zinslauf, Tilgungsbestimmung und Kosten vor und nach Eröffnung und hält gesicherte Forderung, tatsächliche Befriedigung und geschätzten Ausfall... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/skills/zahlungen-zinsen-und-kosten-pruefen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+## 1.8. Fünf Forderungs-PDFs im Kaufhaus Katzenbogen
+
+Version 445.35.4 ergänzt den vorhandenen Ablauf gezielt für fünf Anmeldungen mit unterschiedlichen Mängeln. Eingang, Individualisierung, Belegprüfung, Teilbestreiten, Titelumfang, Schuldnerwiderspruch und tatsächlicher gerichtlicher Stand bleiben getrennte Felder. Die elf bestehenden Skills und der Exporthelfer behalten ihre Identität. Änderungen stehen im [Changelog](CHANGELOG.md); der [ergänzende Quellenabgleich](references/sachbearbeitung-quellen-2026-10-21.md) dokumentiert die amtliche Prüfung vom 21.10.2026.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Testakte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [Kaufhaus Katzenbogen, München](../testakten/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen/README.md) | [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen-einzelpdfs.zip) |
+
+## 1.9. Komponentenrelease und Textfassungen
+
+Der Komponentenrelease insolvenzsachbearbeitung-v1.0.0 enthält das fortgeführte Paket 445.35.4. Der Marketplace umfasst 306 Plugins. Die bisherigen Übungsakten bleiben unter ihren bisherigen Releaseadressen erreichbar.
+
+| Bestandteil | Zugang |
+| --- | --- |
+| Paket 445.35.4 | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker.zip) · [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker-portable.zip) |
+| Werkstatt | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker-werkstatt.pdf) |
+| Schnellstart | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/insolvenzforderungen-checker-schnellstart.pdf) |
+
+Markdown- und Textfassungen sind inhaltsgleich. Der Schnellstart bleibt einschließlich CRLF unter 7.500 UTF-8-Bytes. Für Beschlüsse, Kommission, Massebelege, Betriebsabläufe und Verbraucherinsolvenz führt [Insolvenzsachbearbeitung](../insolvenzsachbearbeitung/README.md) durch die weiteren Arbeitsprodukte.

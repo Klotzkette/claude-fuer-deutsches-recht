@@ -24,6 +24,10 @@ Anmeldung, Einzelprüfung, Titel mit Parteien, Tenor, Betrag und Vollstreckbarke
 8. Nach rechtskräftiger Entscheidung Berichtigung der Tabelle nach Paragraf 183 Absatz 2 vorbereiten. Für Verteilung zusätzlich Paragraf 189 prüfen; rechtzeitiger Klagenachweis kann einen zurückzubehaltenden Anteil sichern, stellt die Forderung aber nicht fest.
 9. Unklare Titelwirkung, drohende Frist oder widersprüchliche Tabellenstände zur fachlichen Entscheidung vorlegen. Keine Anerkenntnisse, Rücknahmen, Klagen oder Rechtsmittel automatisch abgeben.
 
+### 3.1. Besonderer Rechtsgrund und richtiger Anspruchsgegner
+
+Ein vertraglicher Titel tituliert nicht automatisch den zusätzlich behaupteten Deliktsgrund. BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Randnummern 22 bis 32 und 39 bis 43, verlangt hierfür eine genaue Trennung. Die entsprechende Anwendung des Paragrafen 184 Absatz 2 auf einen isolierten Deliktsgrundwiderspruch setzt titulierte Forderung und titulierten Deliktsgrund voraus. Ein Kästchen ersetzt keine Tatsachen. Bei der GmbH sind Vorwürfe gegen den Geschäftsführer, Anspruchsgegner und Zurechnung eigenständig zu prüfen; Paragraf 302 ist kein automatisches Tabellenattribut für die Restschuldbefreiung einer juristischen Person.
+
 ## 4. Quellenpflicht
 
 Paragrafen 176 und 178 bis 189 InsO. BGH, Urteil vom 25.06.2020, Az. IX ZR 47/19, Randnummern 10 bis 12, zur Aufnahme nach Anmeldung und Prüfung. [Quellen und Anwendungsgrenzen](../../references/rechtsstand-und-entscheidungen.md), [Zitierweise](../../references/zitierweise.md).

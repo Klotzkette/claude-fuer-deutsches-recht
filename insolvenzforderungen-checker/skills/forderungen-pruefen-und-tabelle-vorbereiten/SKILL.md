@@ -24,6 +24,10 @@ Lies zuerst Eröffnungs- und Bestellungsbeschlüsse, gerichtliche Verfügungen, 
 8. `glaeubigerbriefe-und-nachforderungen-erstellen` liefert den vollständigen Empfängertext. `tabelle-und-elektronische-uebergabe-vorbereiten` führt dieselben Beträge, Kennungen und Gründe in die Übergabemappe. Summen getrennt nach Rang und Anspruchsart, keine Scheingesamtsumme einschließlich Masse und Herausgabe.
 9. Kontrolliere jeden Vorschlag gegen seine Tabellenzeile und seinen Brief. Halte fachliche Freigabe, Exportprüfung, gerichtlichen Eingang und gerichtliches Prüfergebnis auseinander. Es erfolgen weder automatischer Versand noch Einreichung, Auszahlung, Verzicht oder Widerspruchsrücknahme.
 
+### 3.1. Fünf PDF-Anmeldungen mit unterschiedlichen Befunden
+
+Im Kaufhaus Katzenbogen München sind alle fünf tatsächlich vorhandenen Anmeldungen und ihre Anlagen einzeln zu erfassen. Der Fallname ersetzt keine Belege. Erhalte unauffällige Teile, grenze fehlerhafte Zinsen und unbelegte Leistungen betragsgenau ab und führe Titelumfang, Sicherheiten sowie Schuldnerwiderspruch eigenständig. Eine fehlende Anlage ist nicht automatisch fehlende Individualisierung. Liefere fünf nachvollziehbare Einzelvorschläge, übereinstimmende Tabellenzeilen und die sachlich erforderlichen Briefe. Eine positive interne Empfehlung ist keine gerichtliche Feststellung; spätere Belege beseitigen keinen vorhandenen Widerspruch durch bloße Datenänderung.
+
 ## 4. Quellenpflicht
 
 Paragrafen 38, 39, 43, 44, 47 bis 52, 55, 103, 107, 108 und 174 bis 190 InsO; Paragrafen 169, 170 und 175 SGB III nur bei passendem Sachverhalt. [Rechtsstand und Entscheidungen](../../references/rechtsstand-und-entscheidungen.md) und [Zitierweise](../../references/zitierweise.md) vor tragenden rechtlichen Aussagen lesen. Für elektronische Übergabe zusätzlich [technische Referenz](../../references/elektronische-uebergabe.md); keine Schemafreigabe aus Dateiendungen ableiten.

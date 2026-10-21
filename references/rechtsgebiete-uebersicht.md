@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 305 Plugins, 23332 Skills.
+Stand v445.35.3: 306 Plugins, 23343 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -149,10 +149,11 @@ Stand v445.35.3: 305 Plugins, 23332 Skills.
 | [`informationsfreiheit-presseauskunft`](../informationsfreiheit-presseauskunft/) | IFG-, Transparenz-, UIG-, VIG- und Presseauskunfts-Plugin für Bund, Länder und Behörden: Antrag, Kosten, Fristen, Widerspruch, Klage und Tracking. | `445.35.3` | 118 |
 | [`insiderrecht-compliance`](../insiderrecht-compliance/) | Insiderrecht- und Marktmissbrauchs-Compliance nach MAR, WpHG und BaFin-Praxis: Insiderinformationen, Ad-hoc, Insiderlisten, Handelsverbote, Aufschub, Directors Dealings, Aufklärung und Verteidigung. | `445.35.2` | 112 |
 | [`insolvenzanfechtung`](../insolvenzanfechtung/) | Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich. | `1.0.0` | 11 |
-| [`insolvenzforderungen-checker`](../insolvenzforderungen-checker/) | Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung. | `445.35.3` | 11 |
+| [`insolvenzforderungen-checker`](../insolvenzforderungen-checker/) | Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung. | `445.35.4` | 11 |
 | [`insolvenzforderungsanmeldungspruefung`](../insolvenzforderungsanmeldungspruefung/) | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, Paragraf 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. | `445.35.3` | 59 |
 | [`insolvenzplan-starug-planwerkstatt`](../insolvenzplan-starug-planwerkstatt/) | Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. | `445.35.3` | 58 |
 | [`insolvenzrecht`](../insolvenzrecht/) | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. | `445.35.3` | 99 |
+| [`insolvenzsachbearbeitung`](../insolvenzsachbearbeitung/) | Insolvenzsachbearbeitung vom Beschluss bis zur Verteilung vorbereiten. Zehn Fachskills und ein Hauptskill verbinden Forderungen, Korrespondenz, Eigentum, Sicherheiten, Massebelege, Betrieb und Verbraucherinsolvenz mit belegten, ausformulierten Arbeitsprodukten. | `1.0.0` | 11 |
 | [`insolvenzverwaltung`](../insolvenzverwaltung/) | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, Paragraf 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. | `445.35.3` | 53 |
 | [`internal-investigations-praxis`](../internal-investigations-praxis/) | Internal-Investigations-Praxisplugin für Kanzleien und Unternehmen: Untersuchungsauftrag, Scope, Interviews, Arbeitsrecht, Datenschutz, Privilege-Risiko, StPO-Beschlagnahme, HinSchG, Dokumentation und Verteidigung. | `445.35.3` | 110 |
 | [`internationales-handelsrecht-lex-mercatoria`](../internationales-handelsrecht-lex-mercatoria/) | Mega-Plugin für internationales Handelsrecht, CISG, Incoterms, UNIDROIT Principles, Lex Mercatoria, Schiedsverfahren, Trade Finance und Lieferkettenverträge. | `445.35.2` | 193 |

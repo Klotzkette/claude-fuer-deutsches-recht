@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen",
+    "originals": 41,
+    "pdf_pages": 41,
+    "byte_exact_mime_attachments": 8,
+    "xlsx_with_verified_controls": 2,
+    "shared_zip_and_a4_rules": true,
+    "package_reproducible": true
+  },
+  {
+    "slug": "insolvenzsachbearbeitung-werkzeugkiste-augsburg",
+    "originals": 22,
+    "pdf_pages": 22,
+    "byte_exact_mime_attachments": 7,
+    "xlsx_with_verified_controls": 1,
+    "shared_zip_and_a4_rules": true,
+    "package_reproducible": true
+  },
+  {
+    "slug": "insolvenzsachbearbeitung-cafe-abendrot-regensburg",
+    "originals": 24,
+    "pdf_pages": 24,
+    "byte_exact_mime_attachments": 5,
+    "xlsx_with_verified_controls": 1,
+    "shared_zip_and_a4_rules": true,
+    "package_reproducible": true
+  }
+]

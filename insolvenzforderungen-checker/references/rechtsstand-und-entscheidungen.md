@@ -106,3 +106,9 @@ Für den hier vorgesehenen XJustiz-Übergabeweg werden PDF-Unterlagen mit einem 
 Die [amtliche XJustiz-Startseite](https://xjustiz.justiz.de/) weist am 01.10.2026 Version 3.6.2 für den Zeitraum 30.04.2026 bis 30.04.2027 als gültig aus. Version 3.5.1 ist seit 30.04.2026 ausgelaufen; Version 4.0.0 wird erst am 30.04.2027 gültig. Veröffentlichung ist nicht gleich Gültigkeit.
 
 Die konkrete Nachricht und ihre Prüfung richten sich nach [elektronische-uebergabe.md](elektronische-uebergabe.md). Diese Fachübersicht enthält weder ein XSD noch eine Behauptung über die Validität des Exportcodes. Interne JSON-, CSV- und neutrale XML-Dateien bleiben Arbeitsentwürfe. Jede gerichtliche Übergabe verlangt amtliches Schema, aktuelle Codelisten, passende Dokumente, Zielgerichtsprüfung und manuelle Freigabe; kein automatischer Versand.
+
+## 1.10. Ergänzungsprüfung vom 21.10.2026
+
+Die Ausgangsprüfung vom 01.10.2026 bleibt nachvollziehbar. Der [ergänzende amtliche Quellenabgleich](sachbearbeitung-quellen-2026-10-21.md) überprüft Anmeldung, Titel, Widerspruch und Eigentumsfragen erneut und ergänzt BAG, Urteil vom 20.02.2025 – 6 AZR 32/24, Randnummern 15 bis 16 und 22 bis 34, sowie BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Randnummern 22 bis 32 und 39 bis 43. Beide Originaltexte, Aussage und Grenze sind dort dokumentiert.
+
+Sammelanmeldungen benötigen bestimmbare Einzelansprüche; Sonderwissen der Verwaltung ersetzt den Anmeldeinhalt nicht. Ein vertraglicher Titel beweist keinen titulierten Deliktsgrund. Forderung, besonderer Rechtsgrund, Titel und Widersprechender sind getrennt zu erfassen. Sachbearbeitung bereitet die Erklärung vor und bewirkt keine gerichtliche Feststellung. Der ergänzende Quellenabgleich behauptet keine erneute technische Validierung des XJustiz-Exporthelfers oder sämtlicher örtlicher Empfangsvorgaben.
