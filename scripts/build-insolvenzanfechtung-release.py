@@ -143,6 +143,9 @@ def register_fonts():
         (Path("/usr/share/fonts/truetype/liberation2"),
          ("LiberationSerif-Regular.ttf", "LiberationSerif-Bold.ttf"),
          "Liberation Serif (Ersatz für Times New Roman)"),
+        (Path("/usr/share/fonts/truetype/liberation"),
+         ("LiberationSerif-Regular.ttf", "LiberationSerif-Bold.ttf"),
+         "Liberation Serif (Ersatz für Times New Roman)"),
     )
     for directory, filenames, label in candidates:
         if all((directory / filename).is_file() for filename in filenames):
