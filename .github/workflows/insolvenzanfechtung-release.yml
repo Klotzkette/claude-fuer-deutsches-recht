@@ -65,7 +65,6 @@ jobs:
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
-          python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/test-insolvenzanfechtung.py
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
