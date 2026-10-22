@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzverwaltung",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-22",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__22.html",
@@ -110,6 +110,59 @@
         }
       ],
       "target_skill": "vorlaeufige-verwaltung"
+    },
+    {
+      "id": "schlussbericht-konten-und-verteilung",
+      "target_skill": "verteilung-iv-vorlaeufige",
+      "request": "Im eröffneten Verfahren der Nordlicht Handels GmbH soll der Schlussbericht vorbereitet werden. Das Massekonto weist zum 30. September 2026 612430.18 EUR aus, die Buchhaltung 609430.18 EUR. Die Differenz von 3000 EUR ist ungeklärt. Belegte noch zu zahlende Masseverbindlichkeiten und Gerichtskosten betragen zusammen 52430.18 EUR; für beantragte, noch nicht festgesetzte Vergütung und Auslagen werden 80000 EUR angesetzt. Eine Steuerreserve von 5000 EUR ist fachlich begründet. Die festgestellten gewöhnlichen Insolvenzforderungen betragen 900000 EUR und enthalten die persönliche Forderung einer gesicherten Bank über 250000 EUR; aus der Sicherheit hat die Bank 200000 EUR erhalten, ihr endgültiger Ausfall beträgt 50000 EUR. Zusätzlich ist eine Forderung über 100000 EUR bestritten. Der Gläubiger hat nach öffentlicher Bekanntmachung am 1. Oktober am 10. Oktober die erhobene Feststellungsklage nachgewiesen. Eine erwartete, aber weder festgesetzte noch ausgezahlte Steuererstattung von 25000 EUR ist aktenkundig. Erstellen Sie einen ausformulierten Schlussbericht, die Schlussrechnungsabstimmung, das Schlussverzeichnis mit Verteilungsrechnung sowie eine Freigabe- und Vollzugsliste. Veranlassen Sie keine Einreichung oder Zahlung.",
+      "input_files": [],
+      "deliverables": [
+        "schlussbericht.md"
+      ],
+      "criteria": [
+        {
+          "id": "schlussbericht-konten-und-verteilung-1",
+          "text": "Trennt Schlussbericht, Schlussrechnung, Schlussverzeichnis und Vollzugsnachweis als miteinander abgestimmte, aber eigenständige Produkte.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        },
+        {
+          "id": "schlussbericht-konten-und-verteilung-2",
+          "text": "Stoppt eine endgültige Abschluss- und Auszahlungsfreigabe wegen der ungeklärten Kontendifferenz von 3000 EUR und benennt den konkreten Abgleichspfad.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        },
+        {
+          "id": "schlussbericht-konten-und-verteilung-3",
+          "text": "Zieht belegte Masseverbindlichkeiten, Kosten, Vergütungsansatz und Steuerreserve nachvollziehbar vom tatsächlichen Guthaben ab und behandelt die erwartete Steuererstattung nicht als vorhandene Teilungsmasse.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        },
+        {
+          "id": "schlussbericht-konten-und-verteilung-4",
+          "text": "Berücksichtigt die gesicherte Bank in der Verteilungsbasis nur mit ihrem belegten Ausfall von 50000 EUR und verhindert eine doppelte Befriedigung aus Sicherheit und Quote.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        },
+        {
+          "id": "schlussbericht-konten-und-verteilung-5",
+          "text": "Erkennt den rechtzeitig nachgewiesenen Rechtsstreit zur bestrittenen Forderung und berechnet einen konkreten Rückbehalt, statt die Forderung pauschal zu streichen oder auszuzahlen.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        },
+        {
+          "id": "schlussbericht-konten-und-verteilung-6",
+          "text": "Trennt Entwurf, gerichtliche Zustimmung, Schlusstermin, menschliche Zahlungsfreigabe, Vollzug und Aufhebung und behauptet keinen dieser Schritte als erfolgt.",
+          "deliverables": [
+            "schlussbericht.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {

@@ -392,6 +392,59 @@
           ]
         }
       ]
+    },
+    {
+      "id": "schlussverteilung-mit-rueckbehalt",
+      "target_skill": "berichte-fristen-und-verteilung",
+      "request": "Bereiten Sie für ein Regelinsolvenzverfahren den Schlussbericht und die Schlussverteilung vor. Bank und Buchhaltung stimmen mit 250000 EUR überein. Belegte offene Masseverbindlichkeiten betragen 40000 EUR, Gerichtskosten 10000 EUR, die beantragte und noch nicht festgesetzte Vergütung 60000 EUR und die begründete Kontoschluss- und Steuerreserve 5000 EUR. Festgestellte gewöhnliche Forderungen betragen 900000 EUR; darin steckt eine gesicherte persönliche Forderung über 250000 EUR, auf die 200000 EUR Sicherungserlös entfallen, sodass nur 50000 EUR Ausfall verbleiben. Eine weitere Forderung über 100000 EUR ist bestritten; die Klageerhebung wurde innerhalb der Ausschlussfrist nachgewiesen. Erstellen Sie die Stichtagsakte, die Schlussrechnungsabstimmung, das Schlussverzeichnis, die Quoten- und Rückbehaltsrechnung sowie den Entwurf der gerichtlichen Vorlage. Zahlen Sie nichts aus.",
+      "input_files": [],
+      "deliverables": [
+        "pruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-1",
+          "text": "Ermittelt aus 250000 EUR nach 40000 EUR Masseverbindlichkeiten, 10000 EUR Gerichtskosten, 60000 EUR Vergütungsansatz und 5000 EUR Reserve eine vorläufige Teilungsmasse von 135000 EUR.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-2",
+          "text": "Korrigiert die festgestellte Forderungsbasis um den Sicherungserlös und setzt für die Bank nur 50000 EUR Ausfall an; die sichere Basis beträgt damit 700000 EUR.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-3",
+          "text": "Bezieht die rechtzeitig nachgewiesene bestrittene Forderung in die Rückbehaltsrechnung ein: bei 800000 EUR Rechenbasis beträgt die vorläufige Quote 16.875 Prozent, die Auszahlung auf sichere Forderungen 118125 EUR und der Rückbehalt 16875 EUR.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-4",
+          "text": "Kennzeichnet die Vergütung als beantragt und noch nicht festgesetzt und macht ihre Reserve nicht zu einer bereits erfolgten Zahlung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-5",
+          "text": "Liefert eine Beleg- und Fassungsmatrix, eine offene-Punkte-Liste und die konkrete gerichtliche Vorlage; keine reine Stichwortsammlung.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        },
+        {
+          "id": "schlussverteilung-mit-rueckbehalt-6",
+          "text": "Hält fachliche Vorbereitung, menschliche Freigabe, gerichtliche Zustimmung, Auszahlung, Hinterlegung, Vollzugsmeldung und Aufhebung als getrennte Gates fest.",
+          "deliverables": [
+            "pruefung.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
