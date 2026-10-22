@@ -5,9 +5,11 @@ Message-ID:
  <08_interne_uebergabe_schlussbericht.20261205171800@klangbogen.test.invalid>
 Subject: Klangbogen - Unterlagen fuer den Schlussbericht
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============1579024046744420763=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_08_interne_uebergabe_schlussbericht;
+ boundary*1*=_20261205171800
 
---===============1579024046744420763==
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -20,7 +22,7 @@ egt beziehungsweise im Aktenordner verknuepft. Offen bleiben Ihre namentliche=
 Freundliche Gruesse
 Philipp Joens
 
---===============1579024046744420763==
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="03_bankbestaetigung_2026-11-30.pdf"
@@ -1484,7 +1486,7 @@ MjZlNDU0NDlmMTUxOWE3YzU0ZmQ1OTcxZjk2Pl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBk
 b2N1bWVudCAtLSBkaWdlc3QgKG9wZW5zb3VyY2UpCgovSW5mbyAxMyAwIFIKL1Jvb3QgMTIgMCBS
 Ci9TaXplIDE2Cj4+CnN0YXJ0eHJlZgo4MjQ5MQolJUVPRgo=
 
---===============1579024046744420763==
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="07_tabellenauszug_2026-11-30.pdf"
@@ -2982,7 +2984,7 @@ ZGUwZjMxMWVlN2M4MTBkNzk2MTc3ZjE3ZGRlNWM0Pl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBE
 RiBkb2N1bWVudCAtLSBkaWdlc3QgKG9wZW5zb3VyY2UpCgovSW5mbyAxNSAwIFIKL1Jvb3QgMTQg
 MCBSCi9TaXplIDIwCj4+CnN0YXJ0eHJlZgo4NDM1MgolJUVPRgo=
 
---===============1579024046744420763==
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="10_kontenabstimmung_2026-12-05.pdf"
@@ -4470,7 +4472,7 @@ XQolIFJlcG9ydExhYiBnZW5lcmF0ZWQgUERGIGRvY3VtZW50IC0tIGRpZ2VzdCAob3BlbnNvdXJj
 ZSkKCi9JbmZvIDE0IDAgUgovUm9vdCAxMyAwIFIKL1NpemUgMTgKPj4Kc3RhcnR4cmVmCjgzNzkx
 CiUlRU9GCg==
 
---===============1579024046744420763==
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800
 Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment;
@@ -4839,4 +4841,4 @@ ZWxzLy5yZWxzUEsBAhQDFAAAAAgAqH1WXW3LRhVgAQAADQYAABoAAAAAAAAAAAAAAKSB8EkAAHhs
 L19yZWxzL3dvcmtib29rLnhtbC5yZWxzUEsBAhQDFAAAAAgAqH1WXX9wTHsuAQAAAAYAABMAAAAA
 AAAAAAAAAKSBiEsAAFtDb250ZW50X1R5cGVzXS54bWxQSwUGAAAAAA0ADQBhAwAA50wAAAAA
 
---===============1579024046744420763==--
+------=_Klangbogen_08_interne_uebergabe_schlussbericht_20261205171800--

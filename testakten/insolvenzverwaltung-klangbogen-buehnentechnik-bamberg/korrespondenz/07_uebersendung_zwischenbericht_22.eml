@@ -5,9 +5,11 @@ Message-ID:
  <07_uebersendung_zwischenbericht_22.20261128150400@klangbogen.test.invalid>
 Subject: 2 T-INS 147/15 - Zwischenbericht Nr. 22 und Schlussberichtsanlass
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============1837017286333362615=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_07_uebersendung_zwischenbericht_22_;
+ boundary*1*=20261128150400
 
---===============1837017286333362615==
+------=_Klangbogen_07_uebersendung_zwischenbericht_22_20261128150400
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -20,7 +22,7 @@ anbei uebersende ich den Zwischenbericht Nr. 22. Er stellt die Abschlussreife=
 Mit freundlichen Gruessen
 Dr. Mechthild Karg
 
---===============1837017286333362615==
+------=_Klangbogen_07_uebersendung_zwischenbericht_22_20261128150400
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="22_zwischenbericht_2026-11-28.pdf"
@@ -1624,4 +1626,4 @@ NzgzZWQ1MmFlY2E5YmEyNDcwYjJlYz5dCiUgUmVwb3J0TGFiIGdlbmVyYXRlZCBQREYgZG9jdW1l
 bnQgLS0gZGlnZXN0IChvcGVuc291cmNlKQoKL0luZm8gMTcgMCBSCi9Sb290IDE2IDAgUgovU2l6
 ZSAyNAo+PgpzdGFydHhyZWYKOTAzMDYKJSVFT0YK
 
---===============1837017286333362615==--
+------=_Klangbogen_07_uebersendung_zwischenbericht_22_20261128150400--

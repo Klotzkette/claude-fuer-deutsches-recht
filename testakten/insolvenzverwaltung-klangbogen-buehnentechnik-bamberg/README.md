@@ -2,7 +2,7 @@
 
 Diese Akte enthaelt 22 vollstaendig ausformulierte turnusmaessige Zwischenberichte aus einem langen Regelinsolvenzverfahren. Die Berichtsserie reicht vom 28. Mai 2016 bis zum 28. November 2026. Der letzte Bericht stellt die Abschlussreife fest; ein fertiger Schlussbericht ist bewusst nicht enthalten.
 
-[Testakten-Uebersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin](../../insolvenzverwaltung-berichtsersteller/README.md)
+[Testakten-Uebersicht](../README.md) · [Download-Uebersicht](../../ASSET_INDEX.md) · [Repository-Start](../../README.md) · [Plugin](../../insolvenzverwaltung-berichtsersteller/README.md)
 
 ## 1. Downloads
 

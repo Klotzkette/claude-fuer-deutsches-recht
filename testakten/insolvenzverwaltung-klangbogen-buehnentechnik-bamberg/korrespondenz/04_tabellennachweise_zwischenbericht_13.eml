@@ -4,9 +4,11 @@ Date: Mon, 23 May 2022 16:41:00 +0200
 Message-ID: <04_tabellennachweise_zwischenbericht_13.20220523164100@klangbogen.test.invalid>
 Subject: 2 T-INS 147/15 - Zwischenbericht Nr. 13 und Nachweiskonvolut
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============8441506194202820635=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_04_tabellennachweise_zwischenberich;
+ boundary*1*=t_13_20220523164100
 
---===============8441506194202820635==
+------=_Klangbogen_04_tabellennachweise_zwischenbericht_13_20220523164100
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -19,7 +21,7 @@ der Bericht enthaelt das angeforderte Nachweiskonvolut. Die 42 Nachweisseiten=
 Mit freundlichen Gruessen
 Dr. Mechthild Karg
 
---===============8441506194202820635==
+------=_Klangbogen_04_tabellennachweise_zwischenbericht_13_20220523164100
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="13_zwischenbericht_2022-05-23.pdf"
@@ -2704,4 +2706,4 @@ YmVjNzc0NGZlOD48NDdhMTkwMTM1ZTQxYjlhZTEyNTFkMWJlYzc3NDRmZTg+XQolIFJlcG9ydExh
 YiBnZW5lcmF0ZWQgUERGIGRvY3VtZW50IC0tIGRpZ2VzdCAob3BlbnNvdXJjZSkKCi9JbmZvIDYz
 IDAgUgovUm9vdCA2MiAwIFIKL1NpemUgMTE2Cj4+CnN0YXJ0eHJlZgoxNTAxMDQKJSVFT0YK
 
---===============8441506194202820635==--
+------=_Klangbogen_04_tabellennachweise_zwischenbericht_13_20220523164100--

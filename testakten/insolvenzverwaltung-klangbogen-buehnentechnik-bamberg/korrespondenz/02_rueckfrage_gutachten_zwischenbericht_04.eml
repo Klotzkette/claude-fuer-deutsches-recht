@@ -4,9 +4,11 @@ Date: Wed, 29 Nov 2017 09:32:00 +0100
 Message-ID: <02_rueckfrage_gutachten_zwischenbericht_04.20171129093200@klangbogen.test.invalid>
 Subject: 2 T-INS 147/15 - Gutachtenvorschuss und Bericht Nr. 04
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============5823526590558745043=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_02_rueckfrage_gutachten_zwischenber;
+ boundary*1*=icht_04_20171129093200
 
---===============5823526590558745043==
+------=_Klangbogen_02_rueckfrage_gutachten_zwischenbericht_04_20171129093200
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -18,7 +20,7 @@ dor aendert. Der Bericht ist zur Akte genommen.
 Mit freundlichen Gruessen
 Geschaeftsstelle
 
---===============5823526590558745043==
+------=_Klangbogen_02_rueckfrage_gutachten_zwischenbericht_04_20171129093200
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="04_zwischenbericht_2017-11-27.pdf"
@@ -1720,4 +1722,4 @@ NGJlODUyNzI1NzBiYjg+XQolIFJlcG9ydExhYiBnZW5lcmF0ZWQgUERGIGRvY3VtZW50IC0tIGRp
 Z2VzdCAob3BlbnNvdXJjZSkKCi9JbmZvIDIxIDAgUgovUm9vdCAyMCAwIFIKL1NpemUgMzIKPj4K
 c3RhcnR4cmVmCjk1NzI0CiUlRU9GCg==
 
---===============5823526590558745043==--
+------=_Klangbogen_02_rueckfrage_gutachten_zwischenbericht_04_20171129093200--

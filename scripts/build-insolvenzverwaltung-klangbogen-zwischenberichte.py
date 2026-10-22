@@ -1338,6 +1338,7 @@ def make_mail(path: Path, sent: datetime, sender: str, recipient: str, subject: 
         else:
             maintype, subtype = "application", "octet-stream"
         message.add_attachment(data, maintype=maintype, subtype=subtype, filename=attachment.name)
+    message.set_boundary(f"----=_Klangbogen_{path.stem}_{sent.strftime('%Y%m%d%H%M%S')}")
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(message.as_bytes())
     return path
@@ -1563,7 +1564,7 @@ def make_readme() -> Path:
 
 Diese Akte enthaelt 22 vollstaendig ausformulierte turnusmaessige Zwischenberichte aus einem langen Regelinsolvenzverfahren. Die Berichtsserie reicht vom 28. Mai 2016 bis zum 28. November 2026. Der letzte Bericht stellt die Abschlussreife fest; ein fertiger Schlussbericht ist bewusst nicht enthalten.
 
-[Testakten-Uebersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin](../../insolvenzverwaltung-berichtsersteller/README.md)
+[Testakten-Uebersicht](../README.md) · [Download-Uebersicht](../../ASSET_INDEX.md) · [Repository-Start](../../README.md) · [Plugin](../../insolvenzverwaltung-berichtsersteller/README.md)
 
 ## 1. Downloads
 

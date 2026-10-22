@@ -63,8 +63,8 @@
   "files": [
     {
       "path": "README.md",
-      "size": 4130,
-      "sha256": "d7404f7f202ab42dcfe680ba76975d65ebaec9d4f736f85c761d111ba999e29c"
+      "size": 4177,
+      "sha256": "dbb486c1216fcef279d2a4f9873ea64ab1b8851b41891f2522e18f7fe48492e6"
     },
     {
       "path": "arbeitshinweise/00_verfahrensdaten.txt",
@@ -163,43 +163,43 @@
     },
     {
       "path": "korrespondenz/01_uebersendung_zwischenbericht_01.eml",
-      "size": 133163,
-      "sha256": "03e97a0a54591718ff2deec20d32ed8a67b969e1ef6913b0eb38fef5fcb02f94"
+      "size": 133314,
+      "sha256": "c439b574d67770f08a720484d0006d36e2a61bc29e91ecaf757a6ceca14b1f13"
     },
     {
       "path": "korrespondenz/02_rueckfrage_gutachten_zwischenbericht_04.eml",
-      "size": 133134,
-      "sha256": "20af4410c20adca6c7c08b6a150a3153bfa440c438f80db3d212d62eb04b8c19"
+      "size": 133317,
+      "sha256": "28ee23b55947ca2d107003dc8aee5d75f8a40f013cf769dfa387d742af1d53a1"
     },
     {
       "path": "korrespondenz/03_vergleich_landbuehne.eml",
-      "size": 118072,
-      "sha256": "44fe53f271818a782dc6ea486a3098dca04d030562aaa4ae36e13f96ea89085b"
+      "size": 118150,
+      "sha256": "e73a0a78296a394601e5dfb825a761b56e59abedbc16f4d00ba53a9c552fee5a"
     },
     {
       "path": "korrespondenz/04_tabellennachweise_zwischenbericht_13.eml",
-      "size": 209909,
-      "sha256": "7009df45343b686d01aa7784114432453d1fb5c0700e64b49eeeeaedb6fb2dd2"
+      "size": 210080,
+      "sha256": "1e1c4b43c5f7d55be60d6d21ca4dd58fb4d4b4456853b10f4a1dd07e5ab5d1b2"
     },
     {
       "path": "korrespondenz/05_prozesskostenabgleich.eml",
-      "size": 116214,
-      "sha256": "824249c5b1b49eb8b180e084d0941dabc7395e1d4ad227cd86ede2dbf3b3e507"
+      "size": 116296,
+      "sha256": "3242f26a14020204ff59e205cc3f2fe3f21a3caf1ee836eae425954f84698769"
     },
     {
       "path": "korrespondenz/06_uebersendung_zwischenbericht_21.eml",
-      "size": 131937,
-      "sha256": "629a45973a1fa59b05e5ee1c8eb7f402ad71e0b2e38888247f4a3cb075168bdf"
+      "size": 132088,
+      "sha256": "cdb2f02293a5e03ee3942a50451b6ff069f26882b75c9152da721f0608a0b6b2"
     },
     {
       "path": "korrespondenz/07_uebersendung_zwischenbericht_22.eml",
-      "size": 125568,
-      "sha256": "9700aac0643e6117f21e70060a8dd0285220fe7bf907f0843a20d4fff37b0a41"
+      "size": 125719,
+      "sha256": "7dfa1cf45708436ef416a4083ecf41e83bfa687d3bd1e6cf99c97ee2fbacbe3e"
     },
     {
       "path": "korrespondenz/08_interne_uebergabe_schlussbericht.eml",
-      "size": 375210,
-      "sha256": "359e108f57a0a8d836cd3fa412eabfe64953bccafe71a19e83f1cf506a853df3"
+      "size": 375458,
+      "sha256": "3bf68f4d983d3d27356e721401d39b5f91ca20f3875c53617bebddf4bad70d87"
     },
     {
       "path": "rechenwerk/95_verfahrensrechnung_und_schlussreife.xlsx",

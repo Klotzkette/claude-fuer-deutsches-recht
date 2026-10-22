@@ -5,9 +5,11 @@ Message-ID:
  <06_uebersendung_zwischenbericht_21.20260605122000@klangbogen.test.invalid>
 Subject: 2 T-INS 147/15 - Zwischenbericht Nr. 21
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============1783208214093238859=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_06_uebersendung_zwischenbericht_21_;
+ boundary*1*=20260605122000
 
---===============1783208214093238859==
+------=_Klangbogen_06_uebersendung_zwischenbericht_21_20260605122000
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -19,7 +21,7 @@ schliessend behauptet; Banknachweis und Freigabe fehlen.
 Mit freundlichen Gruessen
 Dr. Mechthild Karg
 
---===============1783208214093238859==
+------=_Klangbogen_06_uebersendung_zwischenbericht_21_20260605122000
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="21_zwischenbericht_2026-06-05.pdf"
@@ -1706,4 +1708,4 @@ Pl0KJSBSZXBvcnRMYWIgZ2VuZXJhdGVkIFBERiBkb2N1bWVudCAtLSBkaWdlc3QgKG9wZW5zb3Vy
 Y2UpCgovSW5mbyAyMCAwIFIKL1Jvb3QgMTkgMCBSCi9TaXplIDMwCj4+CnN0YXJ0eHJlZgo5NDg5
 NQolJUVPRgo=
 
---===============1783208214093238859==--
+------=_Klangbogen_06_uebersendung_zwischenbericht_21_20260605122000--

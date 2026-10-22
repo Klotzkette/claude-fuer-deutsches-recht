@@ -5,9 +5,11 @@ Message-ID:
  <01_uebersendung_zwischenbericht_01.20160528101400@klangbogen.test.invalid>
 Subject: 2 T-INS 147/15 - Zwischenbericht Nr. 01
 MIME-Version: 1.0
-Content-Type: multipart/mixed; boundary="===============3750621570388506028=="
+Content-Type: multipart/mixed;
+ boundary*0*=us-ascii''----%3D_Klangbogen_01_uebersendung_zwischenbericht_01_;
+ boundary*1*=20160528101400
 
---===============3750621570388506028==
+------=_Klangbogen_01_uebersendung_zwischenbericht_01_20160528101400
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -19,7 +21,7 @@ tigen Sie den Eingang.
 Mit freundlichen Gruessen
 Dr. Mechthild Karg
 
---===============3750621570388506028==
+------=_Klangbogen_01_uebersendung_zwischenbericht_01_20160528101400
 Content-Type: application/pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="01_zwischenbericht_2016-05-28.pdf"
@@ -1722,4 +1724,4 @@ ODdhMDcxYjgwMT5dCiUgUmVwb3J0TGFiIGdlbmVyYXRlZCBQREYgZG9jdW1lbnQgLS0gZGlnZXN0
 IChvcGVuc291cmNlKQoKL0luZm8gMjEgMCBSCi9Sb290IDIwIDAgUgovU2l6ZSAzMgo+PgpzdGFy
 dHhyZWYKOTU3NzcKJSVFT0YK
 
---===============3750621570388506028==--
+------=_Klangbogen_01_uebersendung_zwischenbericht_01_20160528101400--
