@@ -1,14 +1,20 @@
-# insolvenzverwaltung-berichtsersteller-v1.1.0 – 2026-10-22
+# 1. Kündigungsschutzklagewerkstatt 1.1.0 vom 22. Oktober 2026
+
+Das Mandat Muster / Seewerk ist in zwei getrennten Fassungen aufgenommen: vorlagengetreu mit vierzehn logischen Anlagen sowie als ausführliche Lebensakte mit weiteren Originaldokumenten und App-Ansichten. Jede Fassung bietet einen Gesamtband, dokumentweise getrennte Einzel-PDFs, native Originale und einen zusätzlichen Satz mit genau K1 bis K14.
+
+Mündliche Zusatzangaben und verifizierte Quellenkorrekturen sind ausschließlich gesondertes Referentenmaterial. Die Quellenkarte berichtigt insbesondere die europäische Monatsfrist und begrenzt die Übertragung der Entscheidungen zu privatem Kontozugriff, Bonus, Ausschlussfrist und Beschäftigungstitel. Die drei bisherigen kleinen Akten bleiben unverändert. [Releaseumfang und Prüfgrenzen](docs/releases/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0.md).
+
+# 2. Insolvenzverwaltung Berichtsersteller 1.1.0 vom 22. Oktober 2026
 
 Die vierte fiktive Testakte Klangbogen Bühnen- und Probenraumtechnik GmbH aus Bamberg ergänzt den Berichtsersteller um 22 Zwischenberichte mit zusammen 233 Berichtsseiten. Das Komponentenrelease umfasst nun vier Akten und 22 geprüfte Assets; die beiden Plugin-ZIPs und die neue Akte werden über v1.1.0 ausgeliefert, während die drei bisherigen Aktenrouten auf v1.0.0 stabil bleiben. [Umfang und Prüfgrenzen](docs/releases/insolvenzverwaltung-berichtsersteller-v1.1.0.md).
 
-# insolvenzverwaltung-berichtsersteller-v1.0.0 – 2026-10-22
+# 3. Insolvenzverwaltung Berichtsersteller 1.0.0 vom 22. Oktober 2026
 
 Der neue Zwischen- und Schlussbericht-Ersteller führt zehn Fachskills und einen Hauptskill vom fortlaufenden Sachstandsbericht über Schlussbericht, Schlussrechnung und Schlussverzeichnis bis zu gerichtlichen Freigaben, Schlussverteilung, Aufhebung und Nachtragsverteilung. Werkstatt und Schnellstart verbinden Stichtage, führende Fassungen, Belege, Rechenbrücke und acht menschliche Freigabegates. Amtlich geprüfte Norm- und BGH-Anker werden jeweils mit ihrer Aussagegrenze verwendet.
 
 Die vollständig fiktive Mainbogen-Akte enthält vier Zwischenberichte, zwei Schlussberichtsfassungen, neutrale Word-Vorlagen, rechenfähige Excel-Arbeitsmappen, E-Mails mit echten Anhängen und einen getrennten Nachtragsprüffall. Nordlicht und Möbelwerk Havelberg wurden bis zum Schlussverteilungs- und Nachtragsstadium erweitert. Die historische Nutzervorlage lieferte ausschließlich eine abstrahierte Gliederungslogik; ihre Namen, Daten, Beträge und sonstigen Inhalte wurden nicht übernommen. [Umfang und Prüfgrenzen](docs/releases/insolvenzverwaltung-berichtsersteller-v1.0.0.md).
 
-# 1. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
+# 4. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
 
 Zehn Fachskills und ein Hauptskill führen vom Kündigungszugang über die richtige Klage oder Erwiderung bis zu Vergleich, Weiterbeschäftigung und Vergütung. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts enthalten konkrete Frist- und Beteiligungswege sowie eingeordnete BAG-Rechtsprechung einschließlich der Entscheidungen 2026 zu Massenentlassungsanzeigen und zum Zugangsbeweis.
 

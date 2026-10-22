@@ -38,6 +38,11 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Kuendigungsschutzklagen": "Kündigungsschutzklagen",
+    "Antraege": "Anträge",
+    "Kuendigungsgruende": "Kündigungsgründe",
+    "Weiterbeschaeftigung": "Weiterbeschäftigung",
+    "Verguetung": "Vergütung",
     "Verfahrensfuehrung": "Verfahrensführung",
     "Nachpruefung": "Nachprüfung",
     "Ruegen": "Rügen",
@@ -493,8 +498,11 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 def has_plugin_local_testakte(directory: Path) -> bool:
     testakte = directory / "testakte"
-    return testakte.is_dir() and bool(
-        working_dump_flat_pairs(testakte, include_gesamt_pdf=False)
+    if not testakte.is_dir():
+        return False
+    return any(
+        not {"downloads", "pruefung"} & set(path.relative_to(testakte).parts)
+        for path, _ in working_dump_flat_pairs(testakte, include_gesamt_pdf=False)
     )
 
 

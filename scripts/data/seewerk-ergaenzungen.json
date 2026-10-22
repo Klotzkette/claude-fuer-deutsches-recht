@@ -1,0 +1,371 @@
+{
+  "core_additions": {
+    "K01_Arbeitsvertrag": [
+      "Der Einsatz erfolgt im Schmelzbetrieb des Werks Radolfzell. Zur laufenden Tätigkeit gehören die Vorbereitung der Arbeitsplätze, die Bedienung der zugewiesenen Einrichtungen und die Weitergabe der für die folgende Schicht erforderlichen Angaben zum Anlagenzustand. Die im Betrieb geführten Übergabeunterlagen verbleiben an den dafür vorgesehenen Arbeitsplätzen.",
+      "Im Schmelzbetrieb werden die Angaben zur laufenden Charge, zum Anlagenzustand und zu anstehenden Arbeitsschritten in den technischen Arbeitsunterlagen zusammengeführt. Diese Aufzeichnungen dienen der Abstimmung zwischen den aufeinanderfolgenden Schichten. Die persönlichen Vertrags- und Entgeltunterlagen werden dagegen in der Verwaltung geführt und nicht in die technischen Übergabebücher eingelegt.",
+      "Die Schichtplanung bezeichnet die jeweilige Früh- oder Spätschicht mit ihrem Datum und dem vorgesehenen Schichtfenster. Die persönliche Zeiterfassung erfolgt daneben über das elektronische System. Bei der Zuordnung der Unterlagen werden Name und Personalnummer verwendet, damit Planunterlagen und persönliche Abrechnungen nicht mit den Aufzeichnungen anderer Beschäftigter verwechselt werden.",
+      "Das bei Vertragsschluss vereinbarte Monatsgrundgehalt von 3.450,00 Euro brutto betrifft die Tätigkeit als Gießereimechaniker im Schmelzbetrieb. Die Entgeltabrechnung bezieht sich jeweils auf einen Kalendermonat; die Zahlung erfolgt am Monatsende. In der persönlichen Abrechnung werden der laufende Bruttobezug und der nach den Abzügen zur Überweisung anstehende Betrag getrennt bezeichnet.",
+      "Bei der Schichtübergabe werden der Bearbeitungsstand der laufenden Arbeiten und die Angaben zum Anlagenzustand weitergegeben. Begonnene und noch nicht abgeschlossene Arbeitsschritte bleiben in den Übergabeunterlagen erkennbar. Auf diese Weise kann die nachfolgende Schicht die laufenden Arbeiten übernehmen, ohne die Angaben aus der vorausgegangenen Schicht erneut zusammentragen zu müssen."
+    ],
+    "K01_Aenderung2019": [
+      "Herr Muster übernimmt ab dem 01.01.2020 die Funktion des Schichtleiters im Schmelzbetrieb. Die Tätigkeit bleibt dem Werk Radolfzell zugeordnet und wird im Wechsel zwischen Früh- und Spätschicht ausgeübt. Die Übergabe zwischen den Schichten betrifft insbesondere den Stand der laufenden Arbeiten und die im Schmelzbetrieb geführten Angaben zum Anlagenzustand.",
+      "Im Übrigen gelten die Bestimmungen des Arbeitsvertrags vom 15.03.2012 unverändert fort; die Parteien bestätigen diese hiermit ausdrücklich.",
+      "Das ab Januar 2020 vereinbarte Monatsgrundgehalt beträgt 5.600,00 Euro brutto. Daneben ist die Teilnahme an der variablen Vergütung mit einem Zielbonus von 15 Prozent des Jahresgrundgehalts vereinbart. Für die Schichteinteilung werden weiterhin die betrieblichen Schichtpläne verwendet."
+    ],
+    "K02_Betriebsvereinbarung": [
+      "Für die Berechnung werden der individuelle Faktor und der Unternehmensfaktor jeweils mit ihrem hälftigen Anteil berücksichtigt. Die beiden Prozentwerte werden somit zu einem gemeinsamen Gesamtfaktor zusammengeführt. Betragen beide Faktoren 100 Prozent, beträgt auch der Gesamtfaktor 100 Prozent und entspricht die variable Vergütung dem vertraglich bestimmten Zielbonus.",
+      "Das Bezugsjahr der variablen Vergütung und der Monat ihrer Auszahlung werden in den Unterlagen getrennt bezeichnet. Bei der mit dem Märzgehalt erfolgenden Auszahlung handelt es sich um die variable Vergütung für das vorausgegangene Geschäftsjahr. Das laufende Monatsentgelt des Auszahlungsmonats und der auf dieses Bezugsjahr entfallende Bonus erscheinen daher als getrennte Positionen in derselben Entgeltabrechnung.",
+      "In der schriftlichen Bonusmitteilung werden das Bezugsjahr und die zugrunde gelegte Vergütungsbasis bezeichnet. Individueller Faktor und Unternehmensfaktor werden getrennt ausgewiesen, damit die Mitteilung dem jeweiligen Abrechnungsjahr zugeordnet werden kann. Die Entgeltabrechnung führt die Auszahlung als gesonderte Lohnart neben dem laufenden Monatsentgelt.",
+      "Die beiden Faktoren haben unterschiedliche Bezugsgrößen. Beim individuellen Faktor sind die Leistungsziele des jeweiligen Beschäftigten maßgeblich; beim Unternehmensfaktor sind es Umsatz und EBIT des Standorts Radolfzell. Entsprechend werden die Werte in der persönlichen Mitteilung nicht zu einer einzigen Angabe über die individuelle Leistung zusammengezogen, sondern nebeneinander ausgewiesen.",
+      "Der vertragliche Zielbonus bezeichnet den Bruttobetrag bei einem Gesamtfaktor von 100 Prozent. Der tatsächlich abzurechnende Bruttobonus ergibt sich aus diesem Betrag und dem Gesamtfaktor. Der Überweisungsbetrag der Märzabrechnung ist davon zu unterscheiden, weil darin auch das laufende Monatsentgelt und die Abzüge dieser Abrechnung enthalten sind."
+    ],
+    "K03_Bonus2024": [
+      "Die Berechnungsbasis dieser Mitteilung ist das Jahresgrundgehalt 2024 von 72.000,00 Euro. Daraus ergibt sich bei 15 Prozent ein Zielbonus von 10.800,00 Euro. Der individuelle Faktor und der Unternehmensfaktor sind jeweils mit 110 Prozent angesetzt; der Gesamtfaktor beträgt damit ebenfalls 110 Prozent.",
+      "Der Bruttobonus von 11.880,00 Euro wird in der Entgeltabrechnung März 2025 als Bonus Vorjahr geführt. Er steht dort neben dem laufenden Monatsgrundgehalt von 6.200,00 Euro. Beide Positionen gehören zur selben Monatsabrechnung, obwohl der Bonus das Geschäftsjahr 2024 betrifft. Die Überweisung erfolgt als gemeinsamer Nettobetrag und nicht als gesonderte Zahlung des Bruttobonus."
+    ],
+    "K04_Bonus2025": [
+      "Für das Geschäftsjahr 2025 ist ein Jahresgrundgehalt von 74.400,00 Euro angesetzt. Der daraus berechnete Zielbonus von 15 Prozent beträgt 11.160,00 Euro. Aus dem individuellen Faktor von 80 Prozent und dem Unternehmensfaktor von 0 Prozent ergibt sich bei hälftiger Gewichtung ein Gesamtfaktor von 40 Prozent.",
+      "Der sich daraus ergebende Betrag von 4.464,00 Euro brutto wird mit dem Märzgehalt 2026 abgerechnet. In der Monatsabrechnung wird er als Bonus Vorjahr neben dem laufenden Grundgehalt von 6.200,00 Euro ausgewiesen. Die gemeinsame Nettoüberweisung dieses Monats ist daher nicht mit dem hier genannten Bruttobonus gleichzusetzen."
+    ],
+    "K06_Abmahnung": [
+      "Für die Frühschicht ist der im Schichtplan ausgewiesene Arbeitsbeginn maßgeblich. Die Übergabe der Angaben zum Anlagenzustand und zu noch offenen Arbeiten soll ohne Verzögerung in den laufenden Schichtablauf einfließen. Wir erwarten von Ihnen, dass Sie den Beginn Ihrer Schicht entsprechend organisieren.",
+      "Die Beanstandung betrifft die Frühschichten am 17.11., 24.11., 02.12. und 15.12.2025. Die in diesem Schreiben angesprochenen Zeitabweichungen liegen zwischen zwölf und 25 Minuten. Wir beziehen die Beanstandung auf die Aufnahme der Arbeit zu Schichtbeginn und die damit verbundene Übergabe im Schmelzbetrieb."
+    ],
+    "K07_Einladung": [
+      "Der Besprechungsraum liegt im zweiten Obergeschoss des Verwaltungsgebäudes. Bitte melden Sie sich zum genannten Termin im Vorzimmer der Personalabteilung. Frau Kraus wird das Gespräch führen; Herr Petersen wird für die Protokollführung teilnehmen.",
+      "Gegenstand des Termins ist der oben bezeichnete Verdacht für die Woche vom 12. bis 16.10.2026. Es geht um den Vorwurf, nach dem Einstempeln das Werksgelände verlassen zu haben und erst nach mehr als einer Stunde zurückgekehrt zu sein. Der Gesprächstermin ist Donnerstag, der 29.10.2026, um 10:00 Uhr."
+    ],
+    "K08_Anhoerung": [
+      "Frau Kraus führt das Gespräch für die Personalabteilung; Herr Petersen übernimmt die Protokollführung. Herr Muster nimmt gemeinsam mit Herrn Becker an dem Termin in Raum 2.14 teil. Die besprochene Auswertung bezieht sich auf die Kamera Tor 1 und die Zeiterfassungsdaten für die Woche vom 12. bis 16.10.2026.",
+      "Die im Gespräch vorgelegte Tabelle wird zur Erörterung der Verlassens- und Rückkehrzeiten herangezogen. Herr Muster äußert sich zu dem Aufenthalt auf dem Werksgelände und zu der auf den Bildern sichtbaren Weste. Das Gespräch dauert von 10:00 Uhr bis 10:50 Uhr; Herr Muster unterzeichnet die Niederschrift nicht."
+    ],
+    "K09_Videovermerk": [
+      "Die tabellarischen Einträge beziehen sich auf die Sichtung der Kamera Tor 1. Die Uhrzeitangaben in den Spalten Verlassen und Rückkehr wurden aus den jeweils eingeblendeten Zeitangaben der Aufnahmen übernommen. Die Tabelle wird unter dem Datum dieses Vermerks zur Sichtungsablage genommen.",
+      "Als Merkmale für die Zuordnung nennt der Vermerk die orangefarbene Warnweste mit der Rückenaufschrift Schichtleitung, die Statur und den Gang. Das Gesicht ist wegen der Kameraposition teilweise nicht erkennbar. Für Donnerstag, den 15.10.2026, enthalten beide Zeitspalten den Eintrag kein Vorgang."
+    ],
+    "K11_Kuendigung": [
+      "Die beigefügten Ausdrucke zeigen die bezeichneten Laufaktivitäten vom 13.10. und 16.10.2026. Sie sind als Anlage diesem Kündigungsschreiben zugeordnet. Die im Schreiben bezeichnete Woche reicht vom 12. bis 16.10.2026; unser Vorwurf bezieht sich auf vier Tage innerhalb dieser Woche.",
+      "Die außerordentliche Erklärung soll das Arbeitsverhältnis fristlos beenden; für die hilfsweise ordentliche Erklärung ist der 30.04.2027 genannt. Der Versand Ihrer Arbeitspapiere erfolgt gesondert an die oben angegebene Anschrift. Organisatorische Fragen zum Versand können Sie an personal@seewerk-guss.example richten."
+    ],
+    "K13_Antwort": [
+      "Ihre Zurückweisung vom 11.11.2026 betrifft das Kündigungsschreiben vom 05.11.2026 und dessen Zeichnung durch Frau Kraus mit dem Zusatz i. A. Unsere Antwort bezieht sich auf ihre Stellung als Leiterin Personal seit dem 01.02.2018 und die dieser Funktion zugeordnete Befugnis zum Ausspruch von Kündigungen.",
+      "Die von uns genannten Bekanntmachungswege sind das Organigramm im Intranet und der Aushang am Schwarzen Brett. Auf diese Veröffentlichung der personellen Zuständigkeit bezieht sich unsere Antwort auf Ihr Schreiben; die Funktionsbezeichnung im Kündigungsschreiben lautet Leiterin Personal."
+    ],
+    "K14_Anwaltsschreiben": [
+      "Das bezifferte Zahlungsverlangen betrifft das Geschäftsjahr 2025. Der Zielbonus beträgt 11.160,00 Euro brutto; mit der Märzabrechnung 2026 sind 4.464,00 Euro brutto verarbeitet worden. Die verlangten 6.696,00 Euro brutto sind die Differenz zwischen diesen beiden Beträgen.",
+      "Das Arbeitsangebot betrifft die bisherige Tätigkeit als Schichtleiter im Schmelzbetrieb im Wechsel von Früh- und Spätschicht. Die angeforderte Datenauskunft knüpft an das im Gespräch vom 29.10.2026 geäußerte Verlangen unseres Mandanten an. Den weiteren Schriftwechsel führen wir über unsere Kanzlei an der Marktstätte 3."
+    ],
+    "K14_Antwort": [
+      "Das Hausverbot umfasst auch den Zugang zu Halle 2 und zum Schichtbüro. Eine persönliche Abholung von Unterlagen an diesen Arbeitsplätzen ist damit nicht vorgesehen. Soweit persönliche Unterlagen versandt werden, erfolgt dies gesondert; die Korrespondenz mit Ihrer Kanzlei ersetzt keine Zutrittsfreigabe.",
+      "Bei den in unserer Antwort genannten Vertragsunterlagen handelt es sich um den Arbeitsvertrag vom 15.03.2012 und die Änderungsvereinbarung vom 18.12.2019. Die angekündigte Auskunft zu den personenbezogenen Daten wird getrennt bearbeitet. Dieser Antwort sind keine Videodateien oder sonstigen Datenkopien beigefügt."
+    ]
+  },
+  "extras": [
+    {
+      "id": "E01",
+      "filename": "E01_Gehaltsmitteilung_Januar_2025.docx",
+      "date": "2025-01-08",
+      "sender": "Seewerk Präzisionsguss GmbH / Sabine Kraus, Leiterin Personal",
+      "recipient": "Daniel Muster, Uferweg 7, 78464 Konstanz",
+      "subject": "Ihr Grundgehalt ab 01.01.2025",
+      "reference": "Personalnummer 20417 / Entgeltstammdaten Januar 2025",
+      "paragraphs": [
+        "Radolfzell, 08.01.2025",
+        "Sehr geehrter Herr Muster,",
+        "mit Wirkung zum 01.01.2025 beträgt Ihr monatliches Grundgehalt 6.200,00 Euro brutto. Die Entgeltabrechnung hat den neuen Betrag für den Abrechnungsmonat Januar übernommen. Die Auszahlung erfolgt wie bisher im Rahmen des monatlichen Gehaltslaufs auf die für Sie hinterlegte Bankverbindung. Eine Änderung Ihrer persönlichen Zahlungsdaten ist hierfür nicht erforderlich.",
+        "Für das gesamte Kalenderjahr 2025 ergibt sich bei zwölf unveränderten Monatsbezügen ein Jahresgrundgehalt von 74.400,00 Euro brutto. Die monatliche Abrechnung weist das Grundgehalt unter der laufenden Lohnart aus. Einmalbezüge werden daneben mit eigener Bezeichnung und dem jeweiligen Bezugsjahr geführt, damit sie von den laufenden Monatsbezügen unterschieden werden können.",
+        "Ihre Tätigkeit als Schichtleiter im Schmelzbetrieb sowie der Wechsel zwischen Früh- und Spätschicht bleiben von dieser Gehaltsmitteilung unberührt. Auch Ihre Teilnahme am vereinbarten Bonussystem wird durch die Anpassung des Grundgehalts nicht geändert. Dieses Schreiben enthält die Mitteilung über den neuen laufenden Bezug; die persönliche Bonusmitteilung für das abgeschlossene Geschäftsjahr erhalten Sie gesondert.",
+        "Bitte nehmen Sie diese Mitteilung zu Ihren Vertrags- und Entgeltunterlagen. Eine zweite Ausfertigung wird in Ihrer Personalakte geführt. Auf Ihrer Januarabrechnung finden Sie den neuen Monatsbetrag zusammen mit den für diesen Monat berechneten Abzügen und dem daraus folgenden Überweisungsbetrag. Bei einer Änderung Ihrer Anschrift richten Sie die Nachricht bitte an personal@seewerk-guss.example und geben Sie Ihre Personalnummer 20417 an.",
+        "Mit freundlichen Grüßen",
+        "Sabine Kraus, Leiterin Personal"
+      ]
+    },
+    {
+      "id": "E02",
+      "filename": "E02_Schichtplan_Kalenderwoche_42_2026.docx",
+      "date": "2026-10-09",
+      "sender": "Seewerk Präzisionsguss GmbH / Schichtplanung Schmelzbetrieb",
+      "recipient": "Daniel Muster / Schichtbüro Schmelzbetrieb, Werk Radolfzell",
+      "subject": "Schichtplan Kalenderwoche 42, persönliche Ausfertigung",
+      "reference": "Planstand 09.10.2026 / Personalnummer 20417",
+      "paragraphs": [
+        "Radolfzell, 09.10.2026",
+        "Sehr geehrter Herr Muster,",
+        "für die Kalenderwoche 42 sind Sie im Schmelzbetrieb für die Frühschicht eingeteilt. Die persönliche Planausfertigung umfasst Montag, 12.10.2026, bis Freitag, 16.10.2026. Für jeden dieser fünf Tage ist das Schichtfenster von 06:00 Uhr bis 14:00 Uhr eingetragen. Ihre Funktionsbezeichnung im Plan lautet Schichtleiter Schmelzbetrieb; die Zuordnung erfolgt unter der Personalnummer 20417.",
+        "Am Montag, 12.10., und Dienstag, 13.10., ist für Sie jeweils Frühschicht 06:00 bis 14:00 Uhr vorgesehen. Dieselbe Einteilung gilt für Mittwoch, 14.10., Donnerstag, 15.10., und Freitag, 16.10. Der Planstand ist auf allen Ausfertigungen mit dem Ausgabedatum versehen. Die für das Schichtbüro bestimmte Wochenübersicht verbleibt in der dortigen Planablage.",
+        "Die betrieblichen Übergabeunterlagen werden unabhängig von dieser persönlichen Planausfertigung am Arbeitsplatz geführt. Dort werden die Angaben zum Anlagenzustand und zu noch offenen Arbeiten für die nachfolgende Schicht vermerkt. Technische Meldungen der Instandhaltung werden in deren eigener Ablage geführt und nicht als persönliche Zeitbuchung in diesen Plan übernommen.",
+        "Die Einträge dieser Ausfertigung geben die vorgesehene Schichteinteilung wieder. Die persönlichen Kommen- und Gehenbuchungen werden weiterhin am Zeiterfassungsterminal erfasst und erscheinen im Zeitjournal. Bitte halten Sie bei organisatorischen Rückfragen die Kalenderwoche und das Ausgabedatum bereit, damit die Schichtplanung die betreffende Fassung zuordnen kann.",
+        "Mit freundlichen Grüßen",
+        "Schichtplanung Schmelzbetrieb"
+      ]
+    },
+    {
+      "id": "E03",
+      "filename": "E03_Zeiterfassungsjournal_Oktober_2026.csv",
+      "date": "2026-10-22",
+      "sender": "Seewerk Präzisionsguss GmbH / Personalabteilung, Zeiterfassung",
+      "recipient": "Daniel Muster / persönliche Zeitunterlagen",
+      "subject": "Zeitjournal 05.10.2026 bis 16.10.2026",
+      "reference": "Personalnummer 20417 / Terminal Halle 2 / Export 22.10.2026",
+      "paragraphs": [
+        "Export der Kommen- und Gehenbuchungen für Daniel Muster, Personalnummer 20417. Uhrzeitangaben in Ortszeit des Standorts Radolfzell. Die Spalte Bemerkung enthält den im Journal geführten Text."
+      ],
+      "rows": [
+        ["Datum", "Wochentag", "Personalnummer", "Terminal", "Schicht", "Kommen", "Gehen", "Pause_Minuten", "Bemerkung"],
+        ["2026-10-05", "Montag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:55", "14:01", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-06", "Dienstag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:53", "14:04", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-07", "Mittwoch", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:56", "14:02", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-08", "Donnerstag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:54", "14:00", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-09", "Freitag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:57", "14:03", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-12", "Montag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:54", "14:02", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-13", "Dienstag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:56", "14:05", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-14", "Mittwoch", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "06:24", "14:01", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-15", "Donnerstag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:52", "14:00", "30", "Pause 30 Min. automatisch"],
+        ["2026-10-16", "Freitag", "20417", "Halle 2", "Frühschicht 06:00 bis 14:00", "05:55", "14:03", "30", "Pause 30 Min. automatisch; Anlage Wartung 06:00 bis 08:00"]
+      ]
+    },
+    {
+      "id": "E04",
+      "filename": "E04_Entgeltabrechnung_März_2025.docx",
+      "date": "2025-03-28",
+      "sender": "Seewerk Präzisionsguss GmbH / Entgeltabrechnung",
+      "recipient": "Daniel Muster, Uferweg 7, 78464 Konstanz",
+      "subject": "Entgeltabrechnung März 2025, Bezüge und Zahlbetrag",
+      "reference": "Personalnummer 20417 / Abrechnungsmonat 03.2025 / Abrechnungslauf 28.03.2025",
+      "paragraphs": [
+        "Radolfzell, 28.03.2025",
+        "Sehr geehrter Herr Muster,",
+        "für den Abrechnungsmonat März 2025 erhalten Sie die Ausfertigung Bezüge und Zahlbetrag Ihrer Entgeltabrechnung. Beschäftigungsstelle ist das Werk Radolfzell, Schmelzbetrieb. In den Abrechnungsstammdaten werden Sie als Schichtleiter mit der Personalnummer 20417 geführt. Das Eintrittsdatum lautet 01.04.2012. Die Abrechnung ist an Ihre persönliche Postanschrift Uferweg 7, 78464 Konstanz, adressiert.",
+        "Bezüge: Laufendes Monatsgrundgehalt März 2025: 6.200,00 Euro brutto. Lohnart Bonus Vorjahr, Bezugsjahr 2024: 11.880,00 Euro brutto. Gesamtbrutto dieser Abrechnung: 18.080,00 Euro. Weitere Bezüge oder Verrechnungen sind in diesem Abrechnungslauf nicht angesetzt.",
+        "Zahlungsübersicht: Der Zahlbetrag der Monatsabrechnung beträgt 11.317,42 Euro netto. Er wird als eine Gehaltsüberweisung zum Monatsende auf die für Sie hinterlegte Bankverbindung angewiesen. Der Zahlungsauftrag wird mit dem Verwendungszweck Gehalt März 2025, Personalnummer 20417, geführt. Der Bruttobonus wird nicht zusätzlich zu diesem Zahlbetrag überwiesen.",
+        "Die gesonderte Bonusmitteilung vom 21.03.2025 ist dem Bezugsjahr 2024 zugeordnet. Dort sind das Jahresgrundgehalt 2024 von 72.000,00 Euro und die Faktoren für diesen Einmalbezug ausgewiesen. In der vorliegenden Monatsabrechnung wird der Einmalbezug neben dem laufenden Grundgehalt des Monats März 2025 geführt.",
+        "Bitte bewahren Sie die Abrechnung mit Ihren persönlichen Entgeltunterlagen auf. Für die Zuordnung von Rückfragen benötigt die Entgeltabrechnung den Abrechnungsmonat und die Personalnummer. Änderungen Ihrer Zahlungsdaten werden über die Personalverwaltung aufgenommen; diese Abrechnung selbst enthält keine Änderung der hinterlegten Bankverbindung.",
+        "Mit freundlichen Grüßen",
+        "Ihre Entgeltabrechnung"
+      ]
+    },
+    {
+      "id": "E05",
+      "filename": "E05_Entgeltabrechnung_März_2026.docx",
+      "date": "2026-03-27",
+      "sender": "Seewerk Präzisionsguss GmbH / Entgeltabrechnung",
+      "recipient": "Daniel Muster, Uferweg 7, 78464 Konstanz",
+      "subject": "Entgeltabrechnung März 2026, Bezüge und Zahlbetrag",
+      "reference": "Personalnummer 20417 / Abrechnungsmonat 03.2026 / Abrechnungslauf 27.03.2026",
+      "paragraphs": [
+        "Radolfzell, 27.03.2026",
+        "Sehr geehrter Herr Muster,",
+        "Sie erhalten die Ausfertigung Bezüge und Zahlbetrag Ihrer Entgeltabrechnung für März 2026. Sie wird unter Ihrer Personalnummer 20417 geführt. Als Beschäftigungsstelle ist der Schmelzbetrieb im Werk Radolfzell eingetragen, als Tätigkeit Schichtleiter. Die hinterlegten Personalstammdaten weisen weiterhin den Eintritt am 01.04.2012 und die Postanschrift Uferweg 7, 78464 Konstanz, aus.",
+        "Bezüge: Laufendes Monatsgrundgehalt März 2026: 6.200,00 Euro brutto. Lohnart Bonus Vorjahr, Bezugsjahr 2025: 4.464,00 Euro brutto. Gesamtbrutto dieser Abrechnung: 10.664,00 Euro. Unter der Lohnart Bonus Vorjahr ist der Betrag aus der persönlichen Bonusmitteilung vom 20.03.2026 verarbeitet. Weitere Einmalbezüge sind in dieser Abrechnung nicht aufgeführt.",
+        "Zahlungsübersicht: Der Zahlbetrag der Monatsabrechnung beträgt 6.430,55 Euro netto. Dieser Betrag ist für den Gehaltslauf zum Monatsende vorgesehen und wird auf die für Sie hinterlegte Bankverbindung angewiesen. Der Zahlungsauftrag wird unter Ihrer Personalnummer 20417 geführt; ein weiterer Zahlungsauftrag nur für den Bonus ist in diesem Gehaltslauf nicht vorgesehen.",
+        "Der Zahlungsauftrag fasst laufendes Nettoentgelt und den nach den Abzügen verbleibenden Anteil des Einmalbezugs in einer Überweisung zusammen. Als Verwendungszweck wird Gehalt März 2026, Personalnummer 20417, übergeben. Eine gesonderte Überweisung des Bruttobetrags von 4.464,00 Euro wird aus diesem Abrechnungslauf nicht erzeugt.",
+        "Bitte nehmen Sie diese Abrechnung und die persönliche Bonusmitteilung zu Ihren Entgeltunterlagen. Rückfragen zur Zuordnung einzelner Abrechnungspositionen können Sie an personal@seewerk-guss.example richten. Geben Sie dabei bitte den Monat März 2026 und Ihre Personalnummer an. Die Entgeltabrechnung verwendet für den Versand die unverändert in den Stammdaten geführte Postanschrift.",
+        "Mit freundlichen Grüßen",
+        "Ihre Entgeltabrechnung"
+      ]
+    },
+    {
+      "id": "E06",
+      "filename": "E06_Kontoumsätze_Gehalt_Januar_bis_Oktober_2026.csv",
+      "date": "2026-11-09",
+      "sender": "Seeuferbank / elektronisches Kundenpostfach",
+      "recipient": "Daniel Muster / persönliches Zahlungskonto",
+      "subject": "Umsatzauskunft, Auswahl Zahlungseingänge Seewerk Präzisionsguss GmbH",
+      "reference": "Abruf 09.11.2026 / Zeitraum Januar bis Oktober 2026 / Kontokennung ausgeblendet",
+      "paragraphs": [
+        "Auswahl der gebuchten Zahlungseingänge nach Auftraggeber Seewerk Präzisionsguss GmbH. Kontoinhaber: Daniel Muster. Die Kontokennung ist in der ausgegebenen Ansicht ausgeblendet. Beträge in Euro; es handelt sich um Nettoüberweisungen."
+      ],
+      "rows": [
+        ["Buchungstag", "Wertstellung", "Auftraggeber", "Verwendungszweck", "Gutschrift_EUR", "Währung", "Buchungsstatus"],
+        ["2026-01-30", "2026-01-30", "Seewerk Präzisionsguss GmbH", "Gehalt Januar 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-02-27", "2026-02-27", "Seewerk Präzisionsguss GmbH", "Gehalt Februar 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-03-31", "2026-03-31", "Seewerk Präzisionsguss GmbH", "Gehalt März 2026 Personalnummer 20417", "6430,55", "EUR", "Gebucht"],
+        ["2026-04-30", "2026-04-30", "Seewerk Präzisionsguss GmbH", "Gehalt April 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-05-29", "2026-05-29", "Seewerk Präzisionsguss GmbH", "Gehalt Mai 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-06-30", "2026-06-30", "Seewerk Präzisionsguss GmbH", "Gehalt Juni 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-07-31", "2026-07-31", "Seewerk Präzisionsguss GmbH", "Gehalt Juli 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-08-31", "2026-08-31", "Seewerk Präzisionsguss GmbH", "Gehalt August 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-09-30", "2026-09-30", "Seewerk Präzisionsguss GmbH", "Gehalt September 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"],
+        ["2026-10-30", "2026-10-30", "Seewerk Präzisionsguss GmbH", "Gehalt Oktober 2026 Personalnummer 20417", "3928,44", "EUR", "Gebucht"]
+      ]
+    },
+    {
+      "id": "E07",
+      "filename": "E07_IT_Servicebericht_Videosystem_Mai_2026.docx",
+      "date": "2026-05-18",
+      "sender": "Seewerk Präzisionsguss GmbH / IT-Betrieb",
+      "recipient": "Technische Verwaltung, Werk Radolfzell / Serviceablage Videosystem",
+      "subject": "Serviceabschluss Software-Update und Archivprofil Tor 1",
+      "reference": "Serviceticket IT-2026-0518 / Videosystem Werkstor",
+      "paragraphs": [
+        "Radolfzell, 18.05.2026",
+        "An die Technische Verwaltung, Werk Radolfzell",
+        "der Softwarestand des Videosystems wurde im heutigen Servicefenster aktualisiert. Das Ticket betrifft die Verwaltungsoberfläche und das zugehörige Aufzeichnungsarchiv. In der Kameraübersicht wird die Zufahrt weiterhin unter der Bezeichnung Tor 1 geführt. Die Bezeichnung wurde beim Update nicht geändert; der vorhandene Kamerakanal ließ sich nach dem Neustart wieder aufrufen.",
+        "Im Anschluss wurde das Aufzeichnungsprofil in der Serviceoberfläche geöffnet. Die Einstellung für das Archiv lautet seit dem Update 30 Tage. Die Oberfläche zeigt hierfür einen Zeitraum von 720 Stunden an. Der bisher in der Konfigurationsübersicht geführte Kurzzeitwert betrug 72 Stunden. Im Ticket ist der angezeigte neue Archivwert vermerkt; ein weiterer Serviceeinsatz für die Rücksetzung ist in diesem Abschluss nicht eingetragen.",
+        "Die Liveansicht und die Wiedergabe einer Testsequenz konnten über den vorhandenen Arbeitsplatz geöffnet werden. Bei der Wiedergabe ließ sich zwischen Livebild und Archivansicht wechseln. Für die Zuordnung weiterer technischer Meldungen ist die Kamerabezeichnung Tor 1 zusammen mit der Ticketnummer zu verwenden. Die Prüfung bezog sich auf die Erreichbarkeit der Oberfläche und den Aufruf der Wiedergabe.",
+        "An den Hinweisschildern im Eingangsbereich wurden im Rahmen dieses Softwareeinsatzes keine Arbeiten vorgenommen. Drucksachen, Aushänge und die allgemeinen Intranettexte sind nicht als erledigte Positionen des Tickets erfasst. Der Serviceabschluss wird in der technischen Ablage zum Videosystem geführt; die Technische Verwaltung erhält die vorliegende Ausfertigung für ihre Unterlagen.",
+        "Mit freundlichen Grüßen",
+        "IT-Betrieb, Standort Radolfzell"
+      ]
+    },
+    {
+      "id": "E08",
+      "filename": "E08_Wartungsnotiz_Schmelzanlage_16_Oktober_2026.docx",
+      "date": "2026-10-16",
+      "sender": "Seewerk Präzisionsguss GmbH / Instandhaltung",
+      "recipient": "Technische Betriebsablage Schmelzbetrieb, Werk Radolfzell",
+      "subject": "Wartungsabschluss Schmelzanlage, Frühschicht 16.10.2026",
+      "reference": "Instandhaltungsjournal 16.10.2026 / Schmelzbetrieb",
+      "paragraphs": [
+        "Radolfzell, 16.10.2026",
+        "An die Technische Betriebsablage Schmelzbetrieb",
+        "für die Schmelzanlage ist im heutigen Instandhaltungsjournal ein Wartungsstillstand von 06:00 Uhr bis 08:00 Uhr eingetragen. Während dieses Zeitfensters stand die Anlage für die Wartung und die anschließende Funktionskontrolle still. Der Eintrag wird mit dem Tagesdatum in die technische Ablage übernommen, damit die Unterbrechung bei der Zuordnung der Anlagenlaufzeit berücksichtigt werden kann.",
+        "Die Arbeiten umfassten die Kontrolle der zugänglichen Anschlüsse, die Sichtkontrolle im Bereich der Versorgungseinheit und die Reinigung der dafür vorgesehenen Wartungsstellen. Die abgearbeiteten Positionen wurden im Instandhaltungsjournal markiert. Verschleißbeobachtungen für einen späteren Servicegang werden in der technischen Liste weitergeführt und sind nicht Bestandteil der heutigen Laufzeitbuchung.",
+        "Nach Beendigung der Wartungsarbeiten erfolgte die Funktionskontrolle an der Anlage. Das Stillstandsfenster wurde im Journal mit 08:00 Uhr geschlossen. Die zugehörige Maschinenmeldung wird unter dem Datum 16.10.2026 geführt. Für Rückfragen zu den technischen Positionen ist die Instandhaltung unter Angabe des Datums und der Bezeichnung Schmelzanlage zuständig.",
+        "Diese Ausfertigung verbleibt bei den technischen Tagesunterlagen des Schmelzbetriebs. Der Journalbeleg wird nicht in das Chargenbuch eingeklebt, sondern in der Wartungsablage geführt. Bei der späteren Zusammenstellung der Maschinenlaufzeiten ist die Unterbrechung dem Wartungseintrag und nicht einer Produktionscharge zuzuordnen. Der Abschluss umfasst das oben eingetragene Zeitfenster und die durchgeführten Arbeiten an der Anlage.",
+        "Mit freundlichen Grüßen",
+        "Instandhaltung, Werk Radolfzell"
+      ]
+    },
+    {
+      "id": "E09",
+      "filename": "E09_Termin_Personalakteneinsicht_Juni_2026.eml",
+      "date": "2026-06-03",
+      "sender": "Sabine Kraus / Personalabteilung <personal@seewerk-guss.example>",
+      "recipient": "Daniel Muster <daniel.muster@privatpost.example>",
+      "subject": "Termin für Ihre Personalakteneinsicht am 05.06.2026",
+      "reference": "Personalnummer 20417 / Terminorganisation Personalverwaltung",
+      "paragraphs": [
+        "Sehr geehrter Herr Muster,",
+        "für die von Ihnen gewünschte Einsicht in Ihre Personalakte haben wir Freitag, den 05.06.2026, um 14:30 Uhr in der Personalverwaltung vorgemerkt. Bitte melden Sie sich im Vorzimmer des Verwaltungsgebäudes. Dort wird Ihnen der für die Einsicht vorgesehene Platz gezeigt. Ihre Personalnummer 20417 ist für die Zuordnung des Termins hinterlegt.",
+        "Wenn Sie von einzelnen Schriftstücken Kopien für Ihre persönlichen Unterlagen benötigen, können diese während des Termins am Kopiergerät der Verwaltung angefertigt werden. Die Originalunterlagen bleiben in der Personalverwaltung. Bitte lassen Sie die Seiten beim Durchsehen in ihrer jeweiligen Reihenfolge, damit die Unterlagen anschließend wieder an ihrem Ablageort abgelegt werden können.",
+        "Diese Nachricht bestätigt den Termin und enthält keine Anlagen. Falls Sie den Termin aus organisatorischen Gründen nicht wahrnehmen können, geben Sie dem Vorzimmer bitte über dieses Postfach Bescheid. Wir benötigen für die Zuordnung lediglich Ihren Namen und das vorgesehene Datum.",
+        "Mit freundlichen Grüßen",
+        "Sabine Kraus, Leiterin Personal\nSeewerk Präzisionsguss GmbH\nAm Gießereihof 1, 78315 Radolfzell\npersonal@seewerk-guss.example"
+      ]
+    },
+    {
+      "id": "E10",
+      "filename": "E10_Organisationsmitteilung_Personalleitung_2018.docx",
+      "date": "2018-02-01",
+      "sender": "Seewerk Präzisionsguss GmbH / Geschäftsführung",
+      "recipient": "Beschäftigte des Werks Radolfzell / Intranet und Schwarzes Brett",
+      "subject": "Organisation der Personalabteilung ab 01.02.2018",
+      "reference": "Organisationsmitteilung 01.02.2018 / Intranetrubrik Unternehmen, Organisation",
+      "paragraphs": [
+        "Radolfzell, 01.02.2018",
+        "Sehr geehrte Mitarbeiterinnen und Mitarbeiter,",
+        "mit Wirkung zum 01.02.2018 übernimmt Frau Sabine Kraus die Leitung der Personalabteilung unseres Werks Radolfzell. Die Personalabteilung ist unmittelbar der Geschäftsführung zugeordnet. Im Organigramm wird unterhalb der Geschäftsführung die Stelle Leitung Personal mit dem Namen Sabine Kraus geführt. Die bisherige Sammelbezeichnung Personalverwaltung bleibt für die Ablage der laufenden Personalunterlagen bestehen.",
+        "Frau Kraus ist als Leiterin Personal befugt, für die Seewerk Präzisionsguss GmbH Kündigungen von Arbeitsverhältnissen auszusprechen. Die Bearbeitung von Personalangelegenheiten wird über die Personalabteilung gebündelt. Schriftliche Personalvorgänge sollen deshalb mit dem Namen der betroffenen Person und, soweit vorhanden, der Personalnummer an die Verwaltung gegeben werden.",
+        "Für die Entgeltabrechnung und die Pflege der Personalstammdaten bleibt die Personalverwaltung die betriebliche Anlaufstelle. Änderungen von Anschriften und Zahlungsdaten werden dort aufgenommen. Die Schichtplanung wird weiterhin in der betrieblichen Planablage geführt; persönliche Vertragsunterlagen gehören in die Personalverwaltung und nicht in die allgemein zugänglichen Schichtordner.",
+        "Diese Organisationsmitteilung ist für die Veröffentlichung in der Intranetrubrik Unternehmen, Organisation, und als Aushang am Schwarzen Brett bestimmt. Die dort geführte Übersicht trägt den Stand 01.02.2018. Bei einer späteren Änderung der Zuständigkeiten wird die Übersicht unter einem neuen Ausgabestand geführt. Die Verwaltungsablage erhält eine Ausfertigung dieser Mitteilung.",
+        "Mit freundlichen Grüßen",
+        "Dr. Henrik Vollmer, Geschäftsführer"
+      ]
+    },
+    {
+      "id": "E11",
+      "filename": "E11_Mandatsaufnahme_10_November_2026.docx",
+      "date": "2026-11-10",
+      "sender": "Seeblick Rechtsanwälte / Rechtsanwältin Lea Brandt",
+      "recipient": "Interne Mandatsverwaltung Seeblick Rechtsanwälte",
+      "subject": "Mandatsaufnahme Daniel Muster gegen Seewerk Präzisionsguss GmbH",
+      "reference": "Aufnahmebogen vom 10.11.2026 / Ansprechpartnerin Rechtsanwältin Lea Brandt",
+      "paragraphs": [
+        "Konstanz, 10.11.2026",
+        "Für die interne Mandatsverwaltung",
+        "Mandant ist Herr Daniel Muster, geboren am 11.06.1979, wohnhaft Uferweg 7, 78464 Konstanz. Als private Korrespondenzadresse ist daniel.muster@privatpost.example aufgenommen. Herr Muster ist verheiratet und hat zwei Kinder. Die Mandatskorrespondenz wird über Rechtsanwältin Lea Brandt, Seeblick Rechtsanwälte, Marktstätte 3, 78462 Konstanz, geführt.",
+        "Gegenseite ist die Seewerk Präzisionsguss GmbH, Am Gießereihof 1, 78315 Radolfzell. Das Arbeitsverhältnis besteht seit dem 01.04.2012. Herr Muster ist seit 2020 Schichtleiter im Schmelzbetrieb und im Wechsel von Früh- und Spätschicht tätig. Das monatliche Grundgehalt beträgt seit Januar 2025 6.200,00 Euro brutto. Die im Arbeitsverhältnis verwendete Personalnummer lautet 20417.",
+        "Zur Aufnahme liegen das Kündigungsschreiben vom 05.11.2026 und die diesem Schreiben beigefügten Ausdrucke der Laufaktivitäten vor. Als Übergabedatum des Kündigungsschreibens ist der 06.11.2026 aufgenommen. Außerdem werden die Vertragsunterlagen, Bonusmitteilungen und die vorhandene Korrespondenz zum Bonus den persönlichen Unterlagen des Mandanten zugeordnet. Die Kopie der Abmahnung trägt das Datum 12.01.2026; als Zeitpunkt der erstmaligen Einsicht ist der 05.06.2026 notiert.",
+        "Der Inhalt der Beteiligung des Betriebsrats liegt Herrn Muster nicht vor. Eine Ausfertigung der Betriebsratsanhörung wird bei der Mandatsaufnahme nicht übergeben. Die vorgelegten Unterlagen werden in der Kanzlei nach Dokumentdatum abgelegt. Originale und Kopien werden bei der Übernahme getrennt gehalten; eine persönliche Ausfertigung der Vollmacht trägt das Datum 10.11.2026.",
+        "Aufgenommen durch Rechtsanwältin Lea Brandt. Die persönlichen Angaben wurden für die Mandatsverwaltung mit Herrn Muster abgeglichen."
+      ]
+    },
+    {
+      "id": "E12",
+      "filename": "E12_Vollmacht_10_November_2026.docx",
+      "date": "2026-11-10",
+      "sender": "Daniel Muster, Uferweg 7, 78464 Konstanz",
+      "recipient": "Seeblick Rechtsanwälte / Rechtsanwältin Lea Brandt, Marktstätte 3, 78462 Konstanz",
+      "subject": "Vollmacht in der Angelegenheit Muster gegen Seewerk Präzisionsguss GmbH",
+      "reference": "Unterzeichnet am 10.11.2026 / Ausfertigung für die Mandatsunterlagen",
+      "paragraphs": [
+        "Konstanz, 10.11.2026",
+        "Ich, Daniel Muster, Uferweg 7, 78464 Konstanz, bevollmächtige Rechtsanwältin Lea Brandt, Seeblick Rechtsanwälte, Marktstätte 3, 78462 Konstanz, mit meiner außergerichtlichen und gerichtlichen Vertretung gegenüber der Seewerk Präzisionsguss GmbH, Am Gießereihof 1, 78315 Radolfzell, in der Angelegenheit meines Arbeitsverhältnisses.",
+        "Die Vollmacht bezieht sich auf das Arbeitsverhältnis, das am 01.04.2012 begonnen hat, und auf die dazu geführte Korrespondenz. Dazu gehören das Kündigungsschreiben der Arbeitgeberin vom 05.11.2026, die Abmahnung vom 12.01.2026 sowie die Vergütungs- und Unterlagenangelegenheiten aus diesem Arbeitsverhältnis. Meine bei der Arbeitgeberin geführte Personalnummer lautet 20417.",
+        "Die Bevollmächtigte darf in dieser Angelegenheit Erklärungen für mich abgeben und Erklärungen der Gegenseite entgegennehmen. Sie darf die für die Vertretung erforderliche Korrespondenz führen, die von mir übergebenen Unterlagen verwenden und an mich oder an die Kanzlei gerichtete Unterlagen der Gegenseite entgegennehmen. Die Vollmacht umfasst die Vertretung vor dem zuständigen Arbeitsgericht.",
+        "Für die laufende Korrespondenz soll die Kanzleianschrift Marktstätte 3, 78462 Konstanz, verwendet werden. Meine persönliche Anschrift bleibt Uferweg 7, 78464 Konstanz. Die Vollmacht enthält keine Bestätigung der von der Arbeitgeberin gegen mich erhobenen Vorwürfe und keine Einverständniserklärung mit einer Beendigung des Arbeitsverhältnisses.",
+        "Diese Vollmacht ist am 10.11.2026 erteilt und von mir unterzeichnet worden. Eine Ausfertigung wird bei meinen persönlichen Mandatsunterlagen geführt.",
+        "Daniel Muster, eigenhändig unterschrieben"
+      ]
+    },
+    {
+      "id": "E13",
+      "filename": "E13_Arbeitsangebot_19_November_2026.eml",
+      "date": "2026-11-19",
+      "sender": "Daniel Muster <daniel.muster@privatpost.example>",
+      "recipient": "Sabine Kraus / Personalabteilung <personal@seewerk-guss.example>",
+      "subject": "Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
+      "reference": "Personalnummer 20417 / Schreiben vom 18.11.2026",
+      "paragraphs": [
+        "Sehr geehrte Frau Kraus,",
+        "das Schreiben der Geschäftsführung vom 18.11.2026 ist mir über Frau Brandt bekannt. Ich bin weiterhin bereit, meine bisherige Arbeit als Schichtleiter im Schmelzbetrieb zu leisten. Das gilt für die Früh- und die Spätschicht entsprechend meiner bisherigen Tätigkeit. Bitte teilen Sie mir mit, ob und für welchen Schichtbeginn Sie mich einteilen und an welcher Stelle ich mich dann melden soll.",
+        "Wegen des in dem Schreiben ausgesprochenen Hausverbots werde ich das Werksgelände nicht ohne vorherige Abstimmung betreten. Ich möchte vermeiden, dass ich am Tor erscheine, obwohl der Werkschutz keinen Zutritt gewähren soll. Meine Bereitschaft zur Arbeit besteht unabhängig davon fort; eine konkrete Einteilung ist mir bislang nicht mitgeteilt worden.",
+        "Für eine organisatorische Nachricht verwenden Sie bitte diese private E-Mail-Adresse. Schriftliche Unterlagen können Sie an meine unveränderte Anschrift Uferweg 7 in Konstanz senden. Die weitere Korrespondenz in der Angelegenheit führt Frau Brandt. Mit dieser Nachricht wollte ich Ihnen unmittelbar mitteilen, dass ich für meine bisherige Tätigkeit zur Verfügung stehe.",
+        "Mit freundlichen Grüßen",
+        "Daniel Muster\nUferweg 7, 78464 Konstanz\ndaniel.muster@privatpost.example"
+      ]
+    },
+    {
+      "id": "E14",
+      "filename": "E14_Antwort_Zutritt_20_November_2026.eml",
+      "date": "2026-11-20",
+      "sender": "Sabine Kraus / Personalabteilung <personal@seewerk-guss.example>",
+      "recipient": "Daniel Muster <daniel.muster@privatpost.example>",
+      "subject": "AW: Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
+      "reference": "Ihre Nachricht vom 19.11.2026 / Personalnummer 20417",
+      "paragraphs": [
+        "Sehr geehrter Herr Muster,",
+        "Ihre Nachricht vom 19.11.2026 haben wir der Personalverwaltung zugeordnet. Die Geschäftsführung hat Ihnen mit dem Schreiben vom 18.11.2026 ihre Position zur Weiterbeschäftigung mitgeteilt und das Hausverbot ausgesprochen. Eine Einteilung zur Früh- oder Spätschicht wird Ihnen von der Personalabteilung derzeit nicht mitgeteilt. Bitte erscheinen Sie nicht zum Schichtbeginn am Werkstor.",
+        "Das Hausverbot gilt auch für einen Besuch des Schichtbüros oder die persönliche Abholung von Personalunterlagen. Eine Anmeldung beim Empfang ist keine Zusage, dass Ihnen Einlass gewährt wird. Organisatorische Anliegen, für die Unterlagen aus dem Betrieb benötigt werden, können Sie schriftlich an die Personalabteilung richten; die Zuordnung erfolgt unter Ihrer Personalnummer 20417.",
+        "Der weitere Schriftwechsel mit Frau Brandt wird getrennt von dieser organisatorischen Antwort geführt. Mit dieser E-Mail werden keine Arbeitspapiere, Abrechnungsunterlagen oder sonstigen Dateien übermittelt. Für einen etwaigen Postversand ist weiterhin Ihre Anschrift Uferweg 7 in Konstanz hinterlegt.",
+        "Mit freundlichen Grüßen",
+        "Sabine Kraus, Leiterin Personal\nSeewerk Präzisionsguss GmbH\nAm Gießereihof 1, 78315 Radolfzell\npersonal@seewerk-guss.example"
+      ]
+    },
+    {
+      "id": "E15",
+      "filename": "E15_Postfachbestätigung_Datenanfrage_Oktober_2026.eml",
+      "date": "2026-10-30",
+      "sender": "Seewerk Präzisionsguss GmbH / Datenschutzpostfach <datenschutz@seewerk-guss.example>",
+      "recipient": "Daniel Muster <daniel.muster@privatpost.example>",
+      "subject": "Eingang Ihrer Anfrage aus dem Gespräch vom 29.10.2026",
+      "reference": "Zuordnung Personalnummer 20417 / Datenanfrage 29.10.2026",
+      "paragraphs": [
+        "Sehr geehrter Herr Muster,",
+        "die Personalabteilung hat uns Ihre im Gespräch vom 29.10.2026 gestellte Anfrage nach Auskunft über gespeicherte und verarbeitete Daten sowie nach einer Kopie der Videoaufnahmen weitergegeben. Der Vorgang wird unter Ihrem Namen und der Personalnummer 20417 geführt. Für die weitere Korrespondenz ist Ihre private E-Mail-Adresse aus den Kontaktdaten der Personalverwaltung übernommen worden.",
+        "Wir stimmen die Zusammenstellung mit den zuständigen Stellen ab. Die Antwort wird gesondert erfolgen. Diese Eingangsbestätigung enthält noch keine Auskunft zu einzelnen Datenbeständen und keine Kopien. Der Nachricht sind weder Videodateien noch andere Unterlagen beigefügt. Bitte verwenden Sie bei einer ergänzenden Nachricht den bisherigen Betreff, damit diese dem angelegten Vorgang zugeordnet werden kann.",
+        "Sofern Sie uns eine geänderte Postanschrift mitteilen möchten, können Sie dafür ebenfalls dieses Postfach verwenden. In den uns vorliegenden Kontaktdaten ist Uferweg 7, 78464 Konstanz, hinterlegt. Eine erneute Übersendung Ihrer bereits an die Personalabteilung gerichteten Anfrage ist für die Zuordnung nicht erforderlich.",
+        "Mit freundlichen Grüßen",
+        "Datenschutzpostfach\nSeewerk Präzisionsguss GmbH\nAm Gießereihof 1, 78315 Radolfzell\ndatenschutz@seewerk-guss.example"
+      ]
+    },
+    {
+      "id": "E16",
+      "filename": "E16_Mandantenpost_Unterlagenstand_23_November_2026.eml",
+      "date": "2026-11-23",
+      "sender": "Daniel Muster <daniel.muster@privatpost.example>",
+      "recipient": "Rechtsanwältin Lea Brandt / Seeblick Rechtsanwälte <lea.brandt@seeblick-recht.example>",
+      "subject": "Unterlagenstand am Montag, 23.11.2026",
+      "reference": "Muster gegen Seewerk Präzisionsguss GmbH / persönliche Entgeltunterlagen",
+      "paragraphs": [
+        "Sehr geehrte Frau Brandt,",
+        "bei meinen Entgeltunterlagen habe ich die Gehaltsmitteilung vom Januar 2025 wiedergefunden. Außerdem liegen mir die Märzabrechnungen 2025 und 2026 vor. Auf der Abrechnung März 2026 steht der Bonus 2025 mit 4.464,00 Euro brutto neben dem Monatsgrundgehalt. Die Bankübersicht weist für Ende März eine gemeinsame Gehaltsüberweisung aus, nicht eine gesonderte Gutschrift über den Bruttobonus.",
+        "Eine weitere Zahlung auf die von mir verlangten 6.696,00 Euro brutto habe ich bis heute nicht erhalten. Die Kontoumsätze mit den Gehaltszahlungen habe ich für meine Unterlagen aus dem Kundenpostfach abgerufen. Die persönlichen Ausdrucke sind bei den Abrechnungen abgelegt; die Arbeitgeberin hat mir dazu keine neue Bonusmitteilung geschickt.",
+        "Auf meine Nachricht zur Arbeitsbereitschaft kam am Freitag die Antwort der Personalabteilung, dass ich nicht zum Schichtbeginn erscheinen soll. Weitere Unterlagen waren dieser Antwort nicht beigefügt. Auch eine gesonderte Übersendung der angefragten Videoaufnahmen oder anderer Datenkopien ist bei mir bis heute nicht eingegangen. Meine Postanschrift und diese private E-Mail-Adresse sind unverändert.",
+        "Mit freundlichen Grüßen",
+        "Daniel Muster\nUferweg 7, 78464 Konstanz\ndaniel.muster@privatpost.example"
+      ]
+    }
+  ]
+}

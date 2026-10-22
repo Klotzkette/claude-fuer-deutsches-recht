@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "documents": {
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K01_Gehaltsstand.txt": {
+      "sha256": "3188d8c1b6e0633080e02bfa3d6ad7c18c62aba8899f9fe2d14f53c637fc8a88",
+      "min_chars": 210,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K03_Bonus2024.docx": {
+      "sha256": "0f138076e473e9d6bf0b59028b58f88ce736b6a09bd7be68241bcc10a7f766d6",
+      "min_chars": 466,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K04_Bonus2025.docx": {
+      "sha256": "fe3ea04d51cb22d03292b2fb1c96b9180bacae4c096cbcf4b0b598bd240b313a",
+      "min_chars": 511,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K05_Bonusantwort.eml": {
+      "sha256": "8e8a9867ec9842c3dd6cdc4180aedc2d0285ae063812ba446f3f460986a72472",
+      "min_chars": 322,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K05_Bonusforderung.eml": {
+      "sha256": "f5495a6bd0c04b78b76b8b206407eafbad7ca6057557fb9e92e5691b85816a51",
+      "min_chars": 403,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K06_Kenntnisvermerk.txt": {
+      "sha256": "cb5ca7fd241d4f43831d8646d7bdfce1e713b87dab284e708efec6fe06d32775",
+      "min_chars": 265,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K06_Sendungsstatus.pdf": {
+      "sha256": "c6f9b47ca58163981a79892b36f5ee32df411199e33b77553fcbd9eb21caad30",
+      "min_chars": 219,
+      "allow_without_umlaut": true,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K09_Hinweisschild.pdf": {
+      "sha256": "8fe57875c41f778cd1f0ea98aec7ebe8373953903ebe17b8c762993c21dc19e7",
+      "min_chars": 350,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K11_Zustellvermerk.txt": {
+      "sha256": "29bd42fed9d0a6d775688254a3854593c2828a0b1ec32c9e918dc9362cee4c3a",
+      "min_chars": 178,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/K13_Antwort.docx": {
+      "sha256": "c44048142b894ec3216ea32c0cbb965dd3e7dc5496ef8a0546e99e217df59446",
+      "min_chars": 598,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K01_Gehaltsstand.txt": {
+      "sha256": "e98bf6330e8650eae880be6f77e4008061df0fe12dce2920d661d644def41aee",
+      "min_chars": 210,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K05_Bonusforderung.eml": {
+      "sha256": "f5495a6bd0c04b78b76b8b206407eafbad7ca6057557fb9e92e5691b85816a51",
+      "min_chars": 403,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K06_Kenntnisvermerk.txt": {
+      "sha256": "cb5ca7fd241d4f43831d8646d7bdfce1e713b87dab284e708efec6fe06d32775",
+      "min_chars": 265,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K06_Sendungsstatus.pdf": {
+      "sha256": "49e7f1dfd498e0048dc0b6f1f4bc101bdb4b00acf2676bd3bd2c316a4e9b7933",
+      "min_chars": 219,
+      "allow_without_umlaut": true,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K09_Hinweisschild.pdf": {
+      "sha256": "ebfdf7a8d293e630dec3e59f28476373937463cda50feb2608ce75e82244a502",
+      "min_chars": 350,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    },
+    "testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/K11_Zustellvermerk.txt": {
+      "sha256": "29bd42fed9d0a6d775688254a3854593c2828a0b1ec32c9e918dc9362cee4c3a",
+      "min_chars": 178,
+      "allow_without_umlaut": false,
+      "reason": "Unveränderter kurzer Originalbeleg aus den vorgegebenen Anlagen K1 bis K14. Vollständiger Quellinhalt wird in test-seewerk-akten.py zusätzlich absatz- und tabellenweise geprüft; keine Ergänzung nur zur Erreichung einer Mindestlänge."
+    }
+  }
+}

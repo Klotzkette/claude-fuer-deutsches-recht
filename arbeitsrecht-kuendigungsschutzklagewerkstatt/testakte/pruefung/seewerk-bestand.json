@@ -1,0 +1,621 @@
+[
+  {
+    "slug": "arbeitsrecht-muster-seewerk-konzept-radolfzell",
+    "title": "Muster ./. Seewerk – vorlagengetreue Konzeptfassung",
+    "documents": 23,
+    "pages": 23,
+    "files": [
+      {
+        "file": "K01_Arbeitsvertrag.docx",
+        "title": "Arbeitsvertrag vom 15.03.2012 (Auszug)",
+        "annex": 1,
+        "pages": 1,
+        "start_page": 1,
+        "sha256": "474a4802f11043714c392ec6fc488a45728430c7bac5276f05d79e9525d6a634",
+        "pdf_sha256": "5f307956ea639b5f45a35a5a1fabb54baca4a7770dd79b82dfc5a7d85b42f294"
+      },
+      {
+        "file": "K01_Aenderung2019.docx",
+        "title": "Änderungsvereinbarung vom 18.12.2019",
+        "annex": 1,
+        "pages": 1,
+        "start_page": 2,
+        "sha256": "b2eeb581856fba865ea49058c6834ee66a4efbf7cb50993e150a80cdc6f206c5",
+        "pdf_sha256": "300aeac79de4f0778a9621c5f8f88068825891ab056c2e6a5f01b5037f148ded"
+      },
+      {
+        "file": "K01_Gehaltsstand.txt",
+        "title": "Gehaltsstand",
+        "annex": 1,
+        "pages": 1,
+        "start_page": 3,
+        "sha256": "3188d8c1b6e0633080e02bfa3d6ad7c18c62aba8899f9fe2d14f53c637fc8a88",
+        "pdf_sha256": "fc68fdf2d038fd9031a6ed6bfc2a909476976df0613fb5305eb7796848300e14"
+      },
+      {
+        "file": "K02_Betriebsvereinbarung.docx",
+        "title": "Betriebsvereinbarung Nr. 7/2020 „Variable Vergütung“ (Auszug)",
+        "annex": 2,
+        "pages": 1,
+        "start_page": 4,
+        "sha256": "0001064ad34bf13da2f52fcf6253d00ea66ca98991ac91ca684ec62b8f6c88d4",
+        "pdf_sha256": "45a2058f755543761a8411aecbdbab4c21855ff88f27c5e398694719d5815970"
+      },
+      {
+        "file": "K03_Bonus2024.docx",
+        "title": "Ihr Bonus für das Geschäftsjahr 2024",
+        "annex": 3,
+        "pages": 1,
+        "start_page": 5,
+        "sha256": "0f138076e473e9d6bf0b59028b58f88ce736b6a09bd7be68241bcc10a7f766d6",
+        "pdf_sha256": "ff3e4f30dd6c2511a1010b178f48a6533eb59d2167742d9c6569a23398d22e17"
+      },
+      {
+        "file": "K04_Bonus2025.docx",
+        "title": "Ihr Bonus für das Geschäftsjahr 2025",
+        "annex": 4,
+        "pages": 1,
+        "start_page": 6,
+        "sha256": "fe3ea04d51cb22d03292b2fb1c96b9180bacae4c096cbcf4b0b598bd240b313a",
+        "pdf_sha256": "323f79c88e88e75e3c78c11d36508c6ac039eb2cb1f1f0b4b585d80ff13bc2d4"
+      },
+      {
+        "file": "K05_Bonusforderung.eml",
+        "title": "Widerspruch Bonus 2025",
+        "annex": 5,
+        "pages": 1,
+        "start_page": 7,
+        "sha256": "f5495a6bd0c04b78b76b8b206407eafbad7ca6057557fb9e92e5691b85816a51",
+        "pdf_sha256": "fcba15e255c943bcc5f6f27f0a872f49ff9b2aad9a3ffe5608154a0fe8fdba50"
+      },
+      {
+        "file": "K05_Bonusantwort.eml",
+        "title": "AW: Widerspruch Bonus 2025",
+        "annex": 5,
+        "pages": 1,
+        "start_page": 8,
+        "sha256": "8e8a9867ec9842c3dd6cdc4180aedc2d0285ae063812ba446f3f460986a72472",
+        "pdf_sha256": "8272053e846d660f4f7d5edfe8e3014806f61c765684f86d7bd38a9e4079f9ff"
+      },
+      {
+        "file": "K06_Abmahnung.docx",
+        "title": "Abmahnung",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 9,
+        "sha256": "4bb0dfcf9440aadd56aa265b50140e38732d0d1cd010d1009786adcdbd8ad10f",
+        "pdf_sha256": "f562d2e72430b561ad67ff7254b601ba814348e2d2004f422bbf7fbe4fef2b6f"
+      },
+      {
+        "file": "K06_Sendungsstatus.pdf",
+        "title": "Sendungsverfolgung",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 10,
+        "sha256": "c6f9b47ca58163981a79892b36f5ee32df411199e33b77553fcbd9eb21caad30",
+        "pdf_sha256": "c6f9b47ca58163981a79892b36f5ee32df411199e33b77553fcbd9eb21caad30"
+      },
+      {
+        "file": "K06_Kenntnisvermerk.txt",
+        "title": "Vermerk der Kanzlei",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 11,
+        "sha256": "cb5ca7fd241d4f43831d8646d7bdfce1e713b87dab284e708efec6fe06d32775",
+        "pdf_sha256": "564dd38a4e717ab44ca03bc5a43f4d8604d9d766eb9f5642a15d4845b1b862db"
+      },
+      {
+        "file": "K07_Einladung.docx",
+        "title": "Einladung zu einem Anhörungsgespräch",
+        "annex": 7,
+        "pages": 1,
+        "start_page": 12,
+        "sha256": "909c5801c166116c1b1b79922dfdee7ce5f6505c0a875c2ffbef3bc1b95966dd",
+        "pdf_sha256": "35b2893c1768efd08cd99f2ba00cdda7d651ca746608f0507e6246f1f3f9a876"
+      },
+      {
+        "file": "K08_Anhoerung.docx",
+        "title": "Protokoll der Anhörung",
+        "annex": 8,
+        "pages": 1,
+        "start_page": 13,
+        "sha256": "7b25551014c4e86d55e7d5906d473eaac215152e3b5876bae0f628d0aaba0d9b",
+        "pdf_sha256": "e4af060bb56f150a96830e0561baa58de4e5d4469fcde1e9845c22bbd041b94e"
+      },
+      {
+        "file": "K09_Hinweisschild.pdf",
+        "title": "Hinweisschild Tor 1",
+        "annex": 9,
+        "pages": 1,
+        "start_page": 14,
+        "sha256": "8fe57875c41f778cd1f0ea98aec7ebe8373953903ebe17b8c762993c21dc19e7",
+        "pdf_sha256": "8fe57875c41f778cd1f0ea98aec7ebe8373953903ebe17b8c762993c21dc19e7"
+      },
+      {
+        "file": "K09_Videovermerk.docx",
+        "title": "Auswertungsvermerk Video",
+        "annex": 9,
+        "pages": 1,
+        "start_page": 15,
+        "sha256": "0992691c192e71e14da5991f925c034cb1ab423b3f56a72997a0736e2e02caf7",
+        "pdf_sha256": "0ae4a5f84d20150d7aaf9e066058b8a61bc578db2dfc0add83e5854e28f76e75"
+      },
+      {
+        "file": "K10_Zeiterfassung.xlsx",
+        "title": "Auszug Zeiterfassung",
+        "annex": 10,
+        "pages": 1,
+        "start_page": 16,
+        "sha256": "20da260c351e00b6b1037e6e863ec6574df472eb300c97606143e312a2716dfa",
+        "pdf_sha256": "1c1e3059c2e8a09747d16a0468bbb208ee1e4695e60bd888e4ee6e8c2f84ad92"
+      },
+      {
+        "file": "K11_Kuendigung.docx",
+        "title": "Kündigung Ihres Arbeitsverhältnisses",
+        "annex": 11,
+        "pages": 1,
+        "start_page": 17,
+        "sha256": "8e3ca2afba1f9c98a7a7343b457c23063737c746e507c2a7ec8de6eacef0ccf8",
+        "pdf_sha256": "e66c8e28ba74df21d4e900440fdea5ecef66b392e694eeb2718a92bcc24e5228"
+      },
+      {
+        "file": "K11_Zustellvermerk.txt",
+        "title": "Zustellvermerk",
+        "annex": 11,
+        "pages": 1,
+        "start_page": 18,
+        "sha256": "29bd42fed9d0a6d775688254a3854593c2828a0b1ec32c9e918dc9362cee4c3a",
+        "pdf_sha256": "449e0a0b04307a3edbbcdca59987272269a04ce800304a1290b36f6a4adf31f4"
+      },
+      {
+        "file": "K12_Bildschirmabschrift.docx",
+        "title": "Screenshots aus der Lauf-App „RunTrack“",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 19,
+        "sha256": "2f83eba8b642350f2806a86b586cc563c13efbca6749afc9bdccebd06faab417",
+        "pdf_sha256": "2ebd912a269b4c1b241c2b5226b3d4f26712ec0ff9973c84860772eab7082d91"
+      },
+      {
+        "file": "K13_Zurueckweisung.docx",
+        "title": "Muster ./. Seewerk Präzisionsguss GmbH – Ihre Kündigung vom 05.11.2026",
+        "annex": 13,
+        "pages": 1,
+        "start_page": 20,
+        "sha256": "1bd002a842d85d5107ab76a94db6ba5127dcb6d570173a38626d6568f71089a6",
+        "pdf_sha256": "5fcb080ac3273d3a34fa072c7ac6a24f4262312f20fe63951d13cc1e4f010c99"
+      },
+      {
+        "file": "K13_Antwort.docx",
+        "title": "Antwort auf Ihr Schreiben vom 11.11.2026 (Auszug)",
+        "annex": 13,
+        "pages": 1,
+        "start_page": 21,
+        "sha256": "c44048142b894ec3216ea32c0cbb965dd3e7dc5496ef8a0546e99e217df59446",
+        "pdf_sha256": "0beea871a0c1258b78e063a725263651049868dfc57907193c45f948ac802385"
+      },
+      {
+        "file": "K14_Anwaltsschreiben.docx",
+        "title": "Muster ./. Seewerk Präzisionsguss GmbH",
+        "annex": 14,
+        "pages": 1,
+        "start_page": 22,
+        "sha256": "21ed7b14d35c93713ac35614889e1650e05f4db9d34e14e6e0c5d752bcd8b954",
+        "pdf_sha256": "ef44ed2f8fe61a89384a7bca721ac0daa10019c9abf327e5ca76a688bdcd7886"
+      },
+      {
+        "file": "K14_Antwort.docx",
+        "title": "Antwort auf Ihr Schreiben vom 12.11.2026 (Auszug)",
+        "annex": 14,
+        "pages": 1,
+        "start_page": 23,
+        "sha256": "43edffc166efdfe079730e88a40bb9841172d5533a8f18f5a2fed0cbfcd66aef",
+        "pdf_sha256": "d753a6880fe10032f9989aeebb0994e6f9ed37b83cce5df57864154c6c304c46"
+      }
+    ]
+  },
+  {
+    "slug": "arbeitsrecht-muster-seewerk-lebensakte-radolfzell",
+    "title": "Muster ./. Seewerk – ausführliche Lebensakte",
+    "documents": 44,
+    "pages": 45,
+    "files": [
+      {
+        "file": "K01_Arbeitsvertrag.docx",
+        "title": "Arbeitsvertrag vom 15.03.2012 (Auszug)",
+        "annex": 1,
+        "pages": 2,
+        "start_page": 1,
+        "sha256": "b18e4e63959a53fa5f08f78e1a3b017c5a6c8cba8985eed9ac5a88f0745031de",
+        "pdf_sha256": "8dc251eeff715a0d97b5a7055c600383270e01cb1ad3ba4125e9997d51976b0f"
+      },
+      {
+        "file": "K01_Aenderung2019.docx",
+        "title": "Änderungsvereinbarung vom 18.12.2019",
+        "annex": 1,
+        "pages": 1,
+        "start_page": 3,
+        "sha256": "6050317e2d6fff333046e4b521c097d59695320322ec76993dccb0404f08a1d7",
+        "pdf_sha256": "989c3689326d4a10db130544de581c36936d3915fd5d2422eb5f1f4c02496aef"
+      },
+      {
+        "file": "K01_Gehaltsstand.txt",
+        "title": "Gehaltsstand",
+        "annex": 1,
+        "pages": 1,
+        "start_page": 4,
+        "sha256": "e98bf6330e8650eae880be6f77e4008061df0fe12dce2920d661d644def41aee",
+        "pdf_sha256": "c16894d6cb3edbb7df5e1c586ac01c455e05e9800c112222afdc607bd183e7bb"
+      },
+      {
+        "file": "K02_Betriebsvereinbarung.docx",
+        "title": "Betriebsvereinbarung Nr. 7/2020 „Variable Vergütung“ (Auszug)",
+        "annex": 2,
+        "pages": 1,
+        "start_page": 5,
+        "sha256": "0c59d105fd075e309b40123a31330760015528e6a3b968fa72c31097ca35591a",
+        "pdf_sha256": "9ae1dcb2e7b2d4efa17c0049739df87014b400fb12a1b8d489d25a005a247ebb"
+      },
+      {
+        "file": "K03_Bonus2024.docx",
+        "title": "Ihr Bonus für das Geschäftsjahr 2024",
+        "annex": 3,
+        "pages": 1,
+        "start_page": 6,
+        "sha256": "5437c18a93e3046570b9e6ac28b3bd1b622b219267b4bdda9189dc6a399de5d9",
+        "pdf_sha256": "057dcf7649987f9cdbbe1de5c3931231f295f4519e1627a2f7718f3167ce60b9"
+      },
+      {
+        "file": "K04_Bonus2025.docx",
+        "title": "Ihr Bonus für das Geschäftsjahr 2025",
+        "annex": 4,
+        "pages": 1,
+        "start_page": 7,
+        "sha256": "f9457a73a70d2244ae6ecddc61d6a6789ae564d8afeeeb658c6a575b8e752a72",
+        "pdf_sha256": "4dff686ca4d6a487566002da19a693fcee8f3e957115105df04eeb64aca7ea6f"
+      },
+      {
+        "file": "K05_Bonusforderung.eml",
+        "title": "Widerspruch Bonus 2025",
+        "annex": 5,
+        "pages": 1,
+        "start_page": 8,
+        "sha256": "f5495a6bd0c04b78b76b8b206407eafbad7ca6057557fb9e92e5691b85816a51",
+        "pdf_sha256": "382ab18c7e0fae8d2a378341dc352975424fd8fcc3313b029e2a521d030376f6"
+      },
+      {
+        "file": "K05_Bonusantwort.eml",
+        "title": "AW: Widerspruch Bonus 2025",
+        "annex": 5,
+        "pages": 1,
+        "start_page": 9,
+        "sha256": "742cc90b168921b0fff6042e0af7dc656543ce7b6f231aba24770c2aa1994ba6",
+        "pdf_sha256": "567e6de492267ba3e8124894b87bed07e6a0c6e4a7eed587948ac51198bbd33a"
+      },
+      {
+        "file": "K06_Abmahnung.docx",
+        "title": "Abmahnung",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 10,
+        "sha256": "27c5aec9087e9bae4c31fffd9088c232e249b717c8cc59d454e3f45706215c85",
+        "pdf_sha256": "84ceee8a694077fe62ac4bf485fb959a76df6c165b49547ec7b33d6ca0849c2b"
+      },
+      {
+        "file": "K06_Sendungsstatus.pdf",
+        "title": "Sendungsverfolgung",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 11,
+        "sha256": "49e7f1dfd498e0048dc0b6f1f4bc101bdb4b00acf2676bd3bd2c316a4e9b7933",
+        "pdf_sha256": "49e7f1dfd498e0048dc0b6f1f4bc101bdb4b00acf2676bd3bd2c316a4e9b7933"
+      },
+      {
+        "file": "K06_Kenntnisvermerk.txt",
+        "title": "Vermerk der Kanzlei",
+        "annex": 6,
+        "pages": 1,
+        "start_page": 12,
+        "sha256": "cb5ca7fd241d4f43831d8646d7bdfce1e713b87dab284e708efec6fe06d32775",
+        "pdf_sha256": "45ed2939d450e135160e3fd8252665226c72cb845d0d024d5cf0a9c01d1b33e6"
+      },
+      {
+        "file": "K07_Einladung.docx",
+        "title": "Einladung zu einem Anhörungsgespräch",
+        "annex": 7,
+        "pages": 1,
+        "start_page": 13,
+        "sha256": "1936a554ea439c91a89118e8a8299e66019f51ea16412cc9c999a6abd67ca550",
+        "pdf_sha256": "7de73dcc52fd91fdc629e774540b28073a2c6fcc5fdca37388abccdf0142fa90"
+      },
+      {
+        "file": "K08_Anhoerung.docx",
+        "title": "Protokoll der Anhörung",
+        "annex": 8,
+        "pages": 1,
+        "start_page": 14,
+        "sha256": "c9e02ee3d7d100980a82d26b739ecb8a7512df8e52c3cbdd82c2ff0cab14cea2",
+        "pdf_sha256": "df9e570f345437a4a35763192b77967d41ef491a73c632dab95daee001406e19"
+      },
+      {
+        "file": "K09_Hinweisschild.pdf",
+        "title": "Hinweisschild Tor 1",
+        "annex": 9,
+        "pages": 1,
+        "start_page": 15,
+        "sha256": "ebfdf7a8d293e630dec3e59f28476373937463cda50feb2608ce75e82244a502",
+        "pdf_sha256": "ebfdf7a8d293e630dec3e59f28476373937463cda50feb2608ce75e82244a502"
+      },
+      {
+        "file": "K09_Videovermerk.docx",
+        "title": "Auswertungsvermerk Video",
+        "annex": 9,
+        "pages": 1,
+        "start_page": 16,
+        "sha256": "428009848c85debceb5d51b0d5aa92cf7881a1d3f40c4ab1c2b359cf2f42c704",
+        "pdf_sha256": "bcfa4f135f59afbdc7038e8e418406869e24b8b78d680730e82f30edc03e9bdd"
+      },
+      {
+        "file": "K10_Zeiterfassung.xlsx",
+        "title": "Auszug Zeiterfassung",
+        "annex": 10,
+        "pages": 1,
+        "start_page": 17,
+        "sha256": "563d27acf4f4585730e34ece086e0e5459024f3c7dbd353eb8c1306ce1743c23",
+        "pdf_sha256": "1c1e3059c2e8a09747d16a0468bbb208ee1e4695e60bd888e4ee6e8c2f84ad92"
+      },
+      {
+        "file": "K11_Kuendigung.docx",
+        "title": "Kündigung Ihres Arbeitsverhältnisses",
+        "annex": 11,
+        "pages": 1,
+        "start_page": 18,
+        "sha256": "288a022186420f63531083758803fa120f54decefc33d5f5777328414988e934",
+        "pdf_sha256": "79a93c845786f64a3046f647b916032cf0d2eac057dc8069f376c34faa89fd60"
+      },
+      {
+        "file": "K11_Zustellvermerk.txt",
+        "title": "Zustellvermerk",
+        "annex": 11,
+        "pages": 1,
+        "start_page": 19,
+        "sha256": "29bd42fed9d0a6d775688254a3854593c2828a0b1ec32c9e918dc9362cee4c3a",
+        "pdf_sha256": "791b7f9cf5b7d717cdea1bcb8b13ee5d2d01203b3b8a09689cfd8b04526831a5"
+      },
+      {
+        "file": "K12_Bildschirmabschrift.docx",
+        "title": "Screenshots aus der Lauf-App „RunTrack“",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 20,
+        "sha256": "2f83eba8b642350f2806a86b586cc563c13efbca6749afc9bdccebd06faab417",
+        "pdf_sha256": "2ebd912a269b4c1b241c2b5226b3d4f26712ec0ff9973c84860772eab7082d91"
+      },
+      {
+        "file": "K13_Zurueckweisung.docx",
+        "title": "Muster ./. Seewerk Präzisionsguss GmbH – Ihre Kündigung vom 05.11.2026",
+        "annex": 13,
+        "pages": 1,
+        "start_page": 21,
+        "sha256": "1bd002a842d85d5107ab76a94db6ba5127dcb6d570173a38626d6568f71089a6",
+        "pdf_sha256": "5fcb080ac3273d3a34fa072c7ac6a24f4262312f20fe63951d13cc1e4f010c99"
+      },
+      {
+        "file": "K13_Antwort.docx",
+        "title": "Antwort auf Ihr Schreiben vom 11.11.2026 (Auszug)",
+        "annex": 13,
+        "pages": 1,
+        "start_page": 22,
+        "sha256": "8bf6135c177bd4fc0d5598a9a48bd502ec9a4345a2ddde814c6912789b5396ef",
+        "pdf_sha256": "4fdd55ecb25b6518c2de34e2ad9d40295b4289a905608c9d80411ffdd1b5781e"
+      },
+      {
+        "file": "K14_Anwaltsschreiben.docx",
+        "title": "Muster ./. Seewerk Präzisionsguss GmbH",
+        "annex": 14,
+        "pages": 1,
+        "start_page": 23,
+        "sha256": "9010fe67afe38cf5e944ee8310ec565e39afe6788117f52f72ebed6b1ef27fc3",
+        "pdf_sha256": "6a7425dddbb8c1d69d517c9c59de5d8f6e2130bcd41d4402f3e26bd9b292bd3b"
+      },
+      {
+        "file": "K14_Antwort.docx",
+        "title": "Antwort auf Ihr Schreiben vom 12.11.2026 (Auszug)",
+        "annex": 14,
+        "pages": 1,
+        "start_page": 24,
+        "sha256": "10d23c6dccca149added1456ee729cc03690133bdcadb29aad316ea6c484b7fe",
+        "pdf_sha256": "8a5abfd169194c4a7ed31c70f5e960cecd49402e3f2c04026c09d4a12120be29"
+      },
+      {
+        "file": "E01_Gehaltsmitteilung_Januar_2025.docx",
+        "title": "Ihr Grundgehalt ab 01.01.2025",
+        "annex": null,
+        "pages": 1,
+        "start_page": 25,
+        "sha256": "9e2cc85b65000216499af2d11482cbd8f230bf278e92d5ba2f1e23c3539a9c99",
+        "pdf_sha256": "7e70da03fa749cc403e4c1b16bf6d9dadda0567e133c1e7a8c639ac74055d5b7"
+      },
+      {
+        "file": "E02_Schichtplan_Kalenderwoche_42_2026.docx",
+        "title": "Schichtplan Kalenderwoche 42, persönliche Ausfertigung",
+        "annex": null,
+        "pages": 1,
+        "start_page": 26,
+        "sha256": "bc003ab550661bb522c6d3dd29c46fed32a1dfd704e1df36d78f923705495f6e",
+        "pdf_sha256": "848c38f032bef071ec4fb5bc9012848a78076cb7088f63c926ae699f95671dc2"
+      },
+      {
+        "file": "E03_Zeiterfassungsjournal_Oktober_2026.csv",
+        "title": "Zeitjournal 05.10.2026 bis 16.10.2026",
+        "annex": null,
+        "pages": 1,
+        "start_page": 27,
+        "sha256": "d9d34911ef4ef558f01b2c99c6b9631bd802c9a1c2f4af701a2ab6ee9464471e",
+        "pdf_sha256": "6a8b2f9ae8cd1e89644fba03d0c80e65c8e75415b1edb2a1bf5512e3528f159e"
+      },
+      {
+        "file": "E04_Entgeltabrechnung_Maerz_2025.docx",
+        "title": "Entgeltabrechnung März 2025, Bezüge und Zahlbetrag",
+        "annex": null,
+        "pages": 1,
+        "start_page": 28,
+        "sha256": "91244a3ff7409c06a9df8221b46640b7f883665bb1bacd00287301be8ef6aa26",
+        "pdf_sha256": "4e2f3be2481a9a39fd7b3e330dd24432542241eebdf47605f0bd901516efb96e"
+      },
+      {
+        "file": "E05_Entgeltabrechnung_Maerz_2026.docx",
+        "title": "Entgeltabrechnung März 2026, Bezüge und Zahlbetrag",
+        "annex": null,
+        "pages": 1,
+        "start_page": 29,
+        "sha256": "ad4b05ec1aa67dc76111403e9899ff3395a4c6045a07c03932d2081c80774927",
+        "pdf_sha256": "133c6a245f0c307019fc00e8f8e7e4b0d437c7f5e1f6ed7a274018b24cc56b42"
+      },
+      {
+        "file": "E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv",
+        "title": "Umsatzauskunft, Auswahl Zahlungseingänge Seewerk Präzisionsguss GmbH",
+        "annex": null,
+        "pages": 1,
+        "start_page": 30,
+        "sha256": "c52a711e7decf110a25d8ad4dc4f50846028df8d4adb5ec189e66842f61a2def",
+        "pdf_sha256": "a5ee16a27748c75732f1fa9bee620e08ac10c372a73bc0aaa9f92cb3bbf6bec2"
+      },
+      {
+        "file": "E07_IT_Servicebericht_Videosystem_Mai_2026.docx",
+        "title": "Serviceabschluss Software-Update und Archivprofil Tor 1",
+        "annex": null,
+        "pages": 1,
+        "start_page": 31,
+        "sha256": "bccc6d9b25b5badc54c58378590e9bf3977c2b4a6d4630a8af39c598fa4006ee",
+        "pdf_sha256": "6cc103aa2ab207473ea223a920cb735a981a538e017bcdeb69c52abb5c81932f"
+      },
+      {
+        "file": "E08_Wartungsnotiz_Schmelzanlage_16_Oktober_2026.docx",
+        "title": "Wartungsabschluss Schmelzanlage, Frühschicht 16.10.2026",
+        "annex": null,
+        "pages": 1,
+        "start_page": 32,
+        "sha256": "186cb5305bf6f157230e0a126689d58191764a31d7592a40304e855feb56be1d",
+        "pdf_sha256": "c1c635ed76cbd1d9a3fec4878229f13a28a4f1ec47102ce895340493e15d9fe7"
+      },
+      {
+        "file": "E09_Termin_Personalakteneinsicht_Juni_2026.eml",
+        "title": "Termin für Ihre Personalakteneinsicht am 05.06.2026",
+        "annex": null,
+        "pages": 1,
+        "start_page": 33,
+        "sha256": "33e3766033e95f1af58719ccb942fc07ea830c8b136fe701f1ecf166be4a78e8",
+        "pdf_sha256": "e7a6130b88a56ddefd80fe909dc427aedf3355a5fb85e5c6c782da6b593e19f9"
+      },
+      {
+        "file": "E10_Organisationsmitteilung_Personalleitung_2018.docx",
+        "title": "Organisation der Personalabteilung ab 01.02.2018",
+        "annex": null,
+        "pages": 1,
+        "start_page": 34,
+        "sha256": "b29b61ee0d4b2abace351f4366622f7d0532d6aa78d305af268e80c3c986bb1b",
+        "pdf_sha256": "8532b66f01e8f6ba454b98dd5e56d35822a0da5c9b4c704515aafcd84e2fdb77"
+      },
+      {
+        "file": "E11_Mandatsaufnahme_10_November_2026.docx",
+        "title": "Mandatsaufnahme Daniel Muster gegen Seewerk Präzisionsguss GmbH",
+        "annex": null,
+        "pages": 1,
+        "start_page": 35,
+        "sha256": "1e5321d924564c723b852fb824ac92a7fad209bea77ff64a2d4afd63159dd439",
+        "pdf_sha256": "476354093f7d984f1b5099c8f18c0c863997178c3d6f6ce9bf0201d756a184aa"
+      },
+      {
+        "file": "E12_Vollmacht_10_November_2026.docx",
+        "title": "Vollmacht in der Angelegenheit Muster gegen Seewerk Präzisionsguss GmbH",
+        "annex": null,
+        "pages": 1,
+        "start_page": 36,
+        "sha256": "6558cec4699b30aecd982a03b01011786bbca0e91e19cceff0dc9a43ddfa94ea",
+        "pdf_sha256": "a698973d8766d3bf49c9a50e0f443894a84a29f3efd322be56b9579dfc1410b3"
+      },
+      {
+        "file": "E13_Arbeitsangebot_19_November_2026.eml",
+        "title": "Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
+        "annex": null,
+        "pages": 1,
+        "start_page": 37,
+        "sha256": "3b9e18e8ce32f07d6cc9000aba24a0cffd8e11a871005b0fee180d1ffedccd65",
+        "pdf_sha256": "3777fa5801c00650361686eeceb4b28f6b63a777345dd4ef4da569c27fe62649"
+      },
+      {
+        "file": "E14_Antwort_Zutritt_20_November_2026.eml",
+        "title": "AW: Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
+        "annex": null,
+        "pages": 1,
+        "start_page": 38,
+        "sha256": "aedf22217cb161c70547d5fe49ae7def86a0af669aa98cf7032fc56c58d5862e",
+        "pdf_sha256": "89118d6efb9f15789b44928718f920b5e718208d0bca4487777bd8b964891a7e"
+      },
+      {
+        "file": "E15_Postfachbestaetigung_Datenanfrage_Oktober_2026.eml",
+        "title": "Eingang Ihrer Anfrage aus dem Gespräch vom 29.10.2026",
+        "annex": null,
+        "pages": 1,
+        "start_page": 39,
+        "sha256": "1635dc13bd8e670181c3745e588b8ffd92b1be59c788643d1c99f224e77bb8f6",
+        "pdf_sha256": "349a42bd1be015b915da4f8a7bc651283320be8168747d5723245f6fd2fdc630"
+      },
+      {
+        "file": "E16_Mandantenpost_Unterlagenstand_23_November_2026.eml",
+        "title": "Unterlagenstand am Montag, 23.11.2026",
+        "annex": null,
+        "pages": 1,
+        "start_page": 40,
+        "sha256": "634aaee3409fd44c9a6bcc9d3a590372b9350b83c0a9bda83fecdf726944648b",
+        "pdf_sha256": "f60dbe01fdfaa3a2bf5fd503d3f207a49b0e44ba4c11202c56675cc9ca541102"
+      },
+      {
+        "file": "K12_Screenshot_01.png",
+        "title": "RunTrack Bildschirm 1",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 41,
+        "sha256": "2ca9c85761c26fc09bc10f5bb5712b1bff3de098b85cbee3db7e5c9fb595abcc",
+        "pdf_sha256": "84698e0338789ef6d6d7d36c102d418d7797f09842417e05c15ddec591516fb8"
+      },
+      {
+        "file": "K12_Screenshot_02.png",
+        "title": "RunTrack Bildschirm 2",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 42,
+        "sha256": "0a4385475a56212cd2ade91a5ccf93e63382669cc0e487ef7c421d1ec27a30c8",
+        "pdf_sha256": "c02d1833a3eb00be5e2f50b26f0d6c428efaca59b85f14c8389375b2a5631083"
+      },
+      {
+        "file": "K12_Screenshot_03.png",
+        "title": "RunTrack Bildschirm 3",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 43,
+        "sha256": "e28d0c7d386ea3f8ca788b65bd925db6c970e4c58a1d8a88858de65619445a1a",
+        "pdf_sha256": "7a6474514b7e73cf53b44b737fca78cf0c56f1ae167c9aa4cb7761a517f923b5"
+      },
+      {
+        "file": "K12_Screenshot_04.png",
+        "title": "RunTrack Bildschirm 4",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 44,
+        "sha256": "bfd0b94752322bd242138936a3cdd66d8b448ce39944b9b6678a22e989571348",
+        "pdf_sha256": "d16f9688935114c2ecdcc1e877feaabfea13b70711a2fe9f9d72d96815f7c0e2"
+      },
+      {
+        "file": "K12_Screenshot_05.png",
+        "title": "RunTrack Bildschirm 5",
+        "annex": 12,
+        "pages": 1,
+        "start_page": 45,
+        "sha256": "824d7d3d07d891424597d650cae773c53cefe782cd24b11d203d8098120ed8f5",
+        "pdf_sha256": "a630680ecd693b0841b79e7d9e6220793acb14d1fa7b6c08099231158b72b364"
+      }
+    ]
+  }
+]

@@ -349,6 +349,8 @@ Alle Personen, Unternehmen, Praxen, Anschriften und Vorgangsnummern sind erfunde
 
 {sections}
 """, encoding="utf-8")
+    if (TARGET / "pruefung/seewerk-bestand.json").is_file():
+        module("build-seewerk-akten").write_register()
     validate_outputs(cases, report)
     checks = TARGET / "pruefung"
     checks.mkdir(exist_ok=True)

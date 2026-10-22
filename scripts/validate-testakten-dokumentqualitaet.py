@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import hashlib
 import csv
+import json
+from functools import lru_cache
 import re
 import sys
 from collections import defaultdict
@@ -71,6 +73,42 @@ EXPORT_TEXT_EXTS = {
     ".xml",
 }
 MIN_FORMAL_TEXT = 600
+
+
+@lru_cache(maxsize=1)
+def reviewed_source_documents():
+    """Nur einzeln geprüfte unveränderte Quellbelege, keine Ausnahme nach Dateityp."""
+    path = REPO / "quality/seewerk-quellenauszuege.json"
+    if not path.is_file():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if data.get("schema_version") != 1 or set(data) != {"schema_version", "documents"}:
+        raise ValueError("Ungültiges Register geprüfter Quellbelege")
+    for relative, rule in data["documents"].items():
+        if not relative.startswith("testakten/arbeitsrecht-muster-seewerk-") or ".." in Path(relative).parts \
+                or set(rule) != {"sha256", "min_chars", "allow_without_umlaut", "reason"} \
+                or not re.fullmatch(r"[a-f0-9]{64}", rule["sha256"]) \
+                or type(rule["min_chars"]) is not int or rule["min_chars"] < 50 \
+                or type(rule["allow_without_umlaut"]) is not bool or len(rule["reason"]) < 50:
+            raise ValueError("Unzureichend begrenzte Quellbeleg-Ausnahme")
+    return data["documents"]
+
+
+def reviewed_source_rule(path):
+    try:
+        relative = path.relative_to(REPO).as_posix()
+    except ValueError:
+        return {}
+    rule = reviewed_source_documents().get(relative, {})
+    if rule and hashlib.sha256(path.read_bytes()).hexdigest() != rule["sha256"]:
+        return {}
+    return rule
+
+
+def minimum_document_text(path, default=MIN_FORMAL_TEXT):
+    return reviewed_source_rule(path).get("min_chars", default)
+
+
 META_MARKERS = (
     "beispielakte",
     "demoakte",
@@ -297,7 +335,7 @@ def language_prose_errors(text: str, path: Path, language: str = "") -> list[str
     """Beachtet deklarierte englische Texte, ohne deutsche Fehler auszublenden."""
     english = bool(re.fullmatch(r"en(?:-[a-z0-9]{2,8})*", language.strip().lower()))
     errors = []
-    if not english and not re.search(r"[äöüÄÖÜß]", text):
+    if not english and not re.search(r"[äöüÄÖÜß]", text) and not reviewed_source_rule(path).get("allow_without_umlaut"):
         errors.append("weder echter Umlaut noch scharfes S")
     prose = prose_without_technical_names(text, path)
     if english:
@@ -536,7 +574,7 @@ def main() -> int:
             suffix = path.suffix.lower()
             if suffix == ".txt":
                 text = path.read_text(encoding="utf-8", errors="strict")
-                if len(text.strip()) < MIN_FORMAL_TEXT:
+                if len(text.strip()) < minimum_document_text(path):
                     errors.append(
                         f"{path.relative_to(REPO)}: nur {len(text.strip())} Textzeichen"
                     )
@@ -627,7 +665,7 @@ def main() -> int:
                 continue
 
             cleaned = text.strip()
-            if len(cleaned) < (250 if technical_drawing else MIN_FORMAL_TEXT):
+            if len(cleaned) < minimum_document_text(path, 250 if technical_drawing else MIN_FORMAL_TEXT):
                 errors.append(
                     f"{path.relative_to(REPO)}: nur {len(cleaned)} Textzeichen"
                 )

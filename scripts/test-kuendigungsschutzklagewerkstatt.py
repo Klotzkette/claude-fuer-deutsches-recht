@@ -100,7 +100,8 @@ def check(dist=None):
     cases = json.loads((ROOT / "scripts/data/kuendigungsschutz-akten.json").read_text(encoding="utf-8"))
     errors = []
     count = download_checks.validate_download_notices(NAME + "/README.md", (PLUGIN / "README.md").read_text(), errors)
-    require(count == len(cases) + 1 and not errors, f"Downloadhinweise: {errors}")
+    seewerk = json.loads((PLUGIN / "testakte/pruefung/seewerk-bestand.json").read_text(encoding="utf-8"))
+    require(count == len(cases) + len(seewerk) + 1 and not errors, f"Downloadhinweise: {errors}")
     module("build-kuendigungsschutz-akten").validate_data(cases)
     documents = pages = 0
     for case in cases:
@@ -154,7 +155,7 @@ def check(dist=None):
         pages += len(individual_texts)
     if dist:
         files = {path.name: path for path in dist.iterdir() if path.is_file()}
-        require(len(files) == 26, "Releaseumfang")
+        require(len(files) == 36, "Releaseumfang")
         for line in files["checksums-sha256.txt"].read_text().splitlines():
             digest, filename = line.split("  ", 1)
             require(hashlib.sha256(files[filename].read_bytes()).hexdigest() == digest, "Prüfsumme")
