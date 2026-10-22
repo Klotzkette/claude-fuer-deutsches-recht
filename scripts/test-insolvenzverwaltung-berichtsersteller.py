@@ -14,7 +14,10 @@ import io
 import json
 from pathlib import Path
 import re
+import subprocess
+import tempfile
 import unittest
+from unittest.mock import patch
 from urllib.parse import unquote
 import zipfile
 
@@ -63,6 +66,25 @@ def docx_text(path: Path) -> str:
 
 
 class BerichtserstellerTest(unittest.TestCase):
+    def test_release_font_discovery_covers_ubuntu_and_fontconfig(self):
+        builder = module("build-insolvenzverwaltung-berichtsersteller-release.py")
+        directories = {directory for directory, _, _ in builder.FONT_CANDIDATES}
+        self.assertIn(Path("/usr/share/fonts/truetype/liberation"), directories)
+        self.assertIn(Path("/usr/share/fonts/truetype/liberation2"), directories)
+        with tempfile.TemporaryDirectory() as temporary:
+            regular = Path(temporary) / "LiberationSerif-Regular.ttf"
+            bold = Path(temporary) / "LiberationSerif-Bold.ttf"
+            regular.touch()
+            bold.touch()
+            result = subprocess.CompletedProcess(
+                args=("fc-match",),
+                returncode=0,
+                stdout=f"Liberation Serif\tBold\t{bold}\n",
+                stderr="",
+            )
+            with patch.object(builder.shutil, "which", return_value="/usr/bin/fc-match"), patch.object(builder.subprocess, "run", return_value=result):
+                self.assertEqual(builder.fontconfig_path("Liberation Serif", "Bold"), bold)
+
     def test_manifests_marketplace_and_skill_contract(self):
         for relative in ("plugin.json", ".claude-plugin/plugin.json", ".codex-plugin/plugin.json"):
             manifest = json.loads((PLUGIN / relative).read_text())

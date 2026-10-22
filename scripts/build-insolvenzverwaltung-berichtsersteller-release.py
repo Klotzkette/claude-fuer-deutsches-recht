@@ -11,6 +11,7 @@ import json
 from pathlib import Path
 import re
 import shutil
+import subprocess
 import zipfile
 
 from pypdf import PdfReader, PdfWriter
@@ -75,18 +76,55 @@ def plugin_sources() -> list[Path]:
     return result
 
 
-def register_fonts():
-    candidates = (
-        (Path("/System/Library/Fonts/Supplemental"), ("Times New Roman.ttf", "Times New Roman Bold.ttf"), "Times New Roman"),
-        (Path("/usr/share/fonts/truetype/liberation2"), ("LiberationSerif-Regular.ttf", "LiberationSerif-Bold.ttf"), "Liberation Serif (Ersatz für Times New Roman)"),
+FONT_CANDIDATES = (
+    (Path("/System/Library/Fonts/Supplemental"), ("Times New Roman.ttf", "Times New Roman Bold.ttf"), "Times New Roman"),
+    (Path("/usr/share/fonts/truetype/liberation2"), ("LiberationSerif-Regular.ttf", "LiberationSerif-Bold.ttf"), "Liberation Serif (Ersatz für Times New Roman)"),
+    (Path("/usr/share/fonts/truetype/liberation"), ("LiberationSerif-Regular.ttf", "LiberationSerif-Bold.ttf"), "Liberation Serif (Ersatz für Times New Roman)"),
+)
+
+
+def fontconfig_path(family: str, style: str) -> Path | None:
+    executable = shutil.which("fc-match")
+    if not executable:
+        return None
+    match = subprocess.run(
+        (executable, "-f", "%{family[0]}\t%{style[0]}\t%{file}\n", f"{family}:style={style}"),
+        text=True,
+        capture_output=True,
+        check=False,
     )
-    for directory, files, label in candidates:
+    if match.returncode:
+        return None
+    fields = match.stdout.strip().split("\t", 2)
+    if len(fields) != 3 or fields[0].casefold() != family.casefold():
+        return None
+    if style.casefold() not in fields[1].casefold():
+        return None
+    path = Path(fields[2])
+    return path if path.is_file() else None
+
+
+def discover_fonts() -> tuple[Path, Path, str]:
+    for directory, files, label in FONT_CANDIDATES:
         if all((directory / file).is_file() for file in files):
-            for name, file in zip(("BER-Regular", "BER-Bold"), files):
-                pdfmetrics.registerFont(TTFont(name, str(directory / file)))
-            pdfmetrics.registerFontFamily("BER-Regular", normal="BER-Regular", bold="BER-Bold", italic="BER-Regular", boldItalic="BER-Bold")
-            return label
+            return directory / files[0], directory / files[1], label
+    for family, label in (
+        ("Times New Roman", "Times New Roman"),
+        ("Liberation Serif", "Liberation Serif (Ersatz für Times New Roman)"),
+    ):
+        regular = fontconfig_path(family, "Regular")
+        bold = fontconfig_path(family, "Bold")
+        if regular and bold:
+            return regular, bold, label
     raise RuntimeError("Times New Roman oder Liberation Serif fehlt")
+
+
+def register_fonts():
+    regular, bold, label = discover_fonts()
+    for name, path in (("BER-Regular", regular), ("BER-Bold", bold)):
+        pdfmetrics.registerFont(TTFont(name, str(path)))
+    pdfmetrics.registerFontFamily("BER-Regular", normal="BER-Regular", bold="BER-Bold", italic="BER-Regular", boldItalic="BER-Bold")
+    return label
 
 
 def render_prompt(source: Path, target: Path) -> dict:
