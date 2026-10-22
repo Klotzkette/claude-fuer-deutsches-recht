@@ -572,6 +572,15 @@ def description_with_current_count(description: str, directory: Path) -> str:
 
 def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_count: int) -> str:
     plugin_name = plugin["name"]
+    if plugin_name in PUBLIC_VERGABERECHT_ROLES:
+        readme = directory / "README.md"
+        text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
+        curated = re.search(
+            re.escape(OLD_SOFORT_BEGIN) + r"[\s\S]*?" + re.escape(OLD_SOFORT_END),
+            text,
+        )
+        if curated:
+            return curated.group(0)
     if not standalone_kinds(plugin_name):
         readme = directory / "README.md"
         text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
