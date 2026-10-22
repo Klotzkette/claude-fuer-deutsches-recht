@@ -22,6 +22,7 @@ Freigegebener Rollenrahmen, Gläubiger und Vertreter, Verfahrenszeichen, Anmeldu
 6. Bei Bestreiten den Umfang, Grund und tatsächlichen Verfahrensstand nennen. Bevor ein Klagehinweis erfolgt, Titel und Widersprechenden prüfen. Schuldnerwiderspruch nicht als Verwalterwiderspruch formulieren.
 7. Technische Anmeldewege von gerichtlicher Tabellenübergabe unterscheiden. Nicht die überholte ausdrückliche Zustimmung nach Paragraf 174 Absatz 4 verlangen. Nur verifizierte Empfangsadresse und tatsächlich angebotene Wege nennen; keine Postfachdaten erfinden.
 8. Brief gegen Tabellenzeile und Vermerk abgleichen. Unterlagenlisten dürfen nur tatsächlich beigefügte oder konkret angeforderte Dokumente enthalten. Entwurf eindeutig außerhalb des Empfängertextes kennzeichnen, verantwortliche Freigabe einholen, keinen Versand auslösen.
+9. Beginne den Brief mit Verfahren, Eingang und konkreter Position. Formuliere danach Befund, genau benötigten Beitrag, Bedeutung der gesetzten Antwortfrist und derzeitige Tabellenfolge. Trenne interne Kennzeichnungen vom Empfängertext. Verwende für Beleglücke, Rang, Sicherheit und verspätete Anmeldung jeweils eine eigene Begründung; Serienbriefe ohne Fallbezug verwerfen.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Ein vollständiger, empfängerfertig formulierter Briefentwurf pro Gläubiger, k
 ## 6. Beispiele
 
 Eine Zahlung wird vom Gläubiger nicht berücksichtigt. Der Brief benennt Datum, Betrag und Rechnung und bittet um Abgleich oder begründete abweichende Zuordnung. Ein Brief zu einer unauffälligen Forderung erklärt nur den vorgesehenen Prüfvorschlag, nicht eine noch nicht erfolgte gerichtliche Feststellung.
+
+Die [Musterausgaben](../../references/prueffaelle-und-musterausgaben.md) enthalten vollständige Schreiben zur fehlenden Lieferanlage, zu Zinsen nach Eröffnung, zum nur behaupteten Sicherungsrecht und zur verspäteten Anmeldung. Passe Betrag, Dokumentenbedarf und Verfahrensstand an die Akte an; übernimm keine Frist, Kennung oder Erklärung ungeprüft.

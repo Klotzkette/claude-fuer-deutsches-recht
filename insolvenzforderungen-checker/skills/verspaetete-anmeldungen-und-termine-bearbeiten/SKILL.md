@@ -22,6 +22,7 @@ Eröffnungsbeschluss, gerichtliche Termine und Fristen samt Änderungen, Zugang 
 6. Niederlegung nach Paragraf 175 Absatz 1 im ersten Drittel zwischen Anmeldefristende und Prüfungstermin gesondert kontrollieren. Ist dieser Zeitraum am Aktenstichtag bereits abgelaufen, fehlenden Nachweis sofort als Handlungsbedarf nennen, ohne eine tatsächliche Versäumung allein aus der unvollständigen Akte zu behaupten.
 7. Gerichtliche Bekanntmachung, Ladung und schriftliche Widerspruchsfrist anhand der konkreten Verfügung aufnehmen. Interne Wiedervorlage klar davon trennen. Feiertage, Zugang und öffentliche Bekanntmachung für die jeweilige Frist prüfen, nicht pauschal nur Tage addieren.
 8. Spätere Fristen nach Paragrafen 184 Absatz 2, 189 und 190 getrennt überwachen. Die Zweiwochenfrist für Verteilungsnachweise beginnt nicht mit der Anmeldefrist und nicht automatisch mit dem Prüfungstermin. Paragraf 186 betrifft die Wiedereinsetzung des Schuldners bei versäumtem Prüfungstermin, keine allgemeine Heilung beliebiger Gläubigerfristen.
+9. Weise dem Vorgang sowohl einen materiellen Prüfstatus als auch einen Verfahrensstatus zu. Eine vollständig belegte verspätete Anmeldung kann materiell entscheidungsreif sein, während wegen eines Widerspruchs gegen ihre Prüfung noch ein gesonderter Prüfweg offen ist. Diese Ebenen nicht in einem Status „abgelehnt“ zusammenfassen.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Erstelle Fristenübersicht mit Ereignis, Nachweis, gesetzlicher oder gerichtlich
 ## 6. Beispiele
 
 Die Anmeldefrist endete am 14.08.2026, der Prüfungstermin ist am 15.09.2026 und eine Anmeldung geht am 09.09.2026 ein. Am 10.09.2026 kommt eine Prüfung im allgemeinen Termin in Betracht; sie ist weder schon erfolgt noch wegen des Fristablaufs ausgeschlossen. Eine erst am 18.09.2026 eingehende Anmeldung erfordert den gesonderten Prüfweg.
+
+Widerspricht am 12.09.2026 ein Insolvenzgläubiger ausdrücklich der Prüfung des Eingangs vom 09.09.2026 im allgemeinen Termin, dokumentiere den Prüfungswiderspruch und bereite den gerichtlichen Folgeweg vor. Bezeichne ihn nicht als materielles Bestreiten der Forderung. Der vollständige Mitteilungsentwurf steht in der [Fallsammlung](../../references/prueffaelle-und-musterausgaben.md).

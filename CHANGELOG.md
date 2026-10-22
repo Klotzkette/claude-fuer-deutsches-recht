@@ -1,3 +1,9 @@
+# insolvenzsachbearbeitung-v1.1.0 – 2026-10-22
+
+Die Insolvenzsachbearbeitung führt den Aktenlauf jetzt in sechs Gesprächsphasen mit stabilem Statusblock, vier Freigabestufen, zehn Produktkennungen und ausdrücklichen Fehlerrouten. Werkstatt, Schnellstart, Hauptproblem und Hauptskill schreiben Nachreichungen als Delta in der führenden Fassung fort und benennen für jede Übergabe Produkt, Bearbeitungsstand und nächsten Schritt.
+
+Der Forderungsprüfer 445.35.5 enthält vierzehn ausformulierte Prüffälle und vier vollständige Musterbriefe. Sechs zusätzliche amtlich gelesene BAG- und BGH-Entscheidungen präzisieren Anmeldung, Prüfung, Bestreiten, Identität, Nebenforderungen, Forderungsklasse, Absonderung und die Trennung von Insolvenz- und Masseforderungen. Der Quellenbericht nennt gelesene Randnummern, Aussage und Aussagegrenze.
+
 # sanktionen-eu-us-v1.0.0 – 2026-10-21
 
 Zwei getrennte Plugins prüfen EU- und US-Sanktionen für Unternehmen und Kanzleien. Je ein Hauptskill und neun Fachskills führen vom belegten Identitäts- und Transaktionsabgleich über Eigentum, Kontrolle und konkrete Verbote zum Schreiben, Genehmigungsantrag oder internen Entscheidungsvermerk. Die eigenständigen Werkstatt-, Mini- und Hauptproblem-Prompts bleiben von der Installation getrennt. Behördenhinweise, Normtexte und gerichtliche Entscheidungen werden mit ihrer Aussagegrenze ausgewiesen.

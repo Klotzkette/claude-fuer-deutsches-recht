@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzsachbearbeitung",
-  "reviewed_on": "2026-10-21",
+  "reviewed_on": "2026-10-22",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
@@ -396,49 +396,52 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
-    "changes": [
-      "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
-      "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
-      "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
-      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten."
-    ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "338128a8e924a158497adf5bb6976781464384fd16568a26093e57776efd408b"
-  },
-  "workshop_review": {
-    "verdict": "revised",
-    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit verbindlichem Sprechgang, fortgeschriebenem Produktstand, gebündelten Entscheidungsfragen und fassungsspezifischer Außenfreigabe. Die Prüfung ist redaktionell und kein beobachteter Modelllauf.",
     "changes": [
       "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
       "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
       "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
       "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten.",
-      "Eigenständige Fahrzeugeigentumsvariante ausdrücklich von der Haberlein-Akte abgegrenzt."
+      "Gesprächsphasen, Statusblock, Produktkennungen, Übergabematrix, Fehlerrouten und fassungsspezifische Freigaben vereinheitlicht."
     ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "097f9f02a848110fa7ce2efb5d12026468e9d0e38832c94fc847005a8a0a06bd"
+    "reviewed_on": "2026-10-22",
+    "sha256": "ff092836c13076516d3524a0ed1b8d9f0e7adb3b82232ca9d6b767363bba59df"
   },
-  "focus_review": {
+  "workshop_review": {
     "verdict": "revised",
-    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit zehn Fachwegen, ausformulierten Arbeitsergebnissen und getrennten Vorschlags-, Erklärungs- und Gerichtsständen. Die redaktionelle Prüfung erfasst Hauptskill, Hauptproblem, Schnellstart und Werkstatt; sie ist kein beobachteter Modelllauf.",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit verbindlichem Sprechgang, fortgeschriebenem Produktstand, gebündelten Entscheidungsfragen und fassungsspezifischer Außenfreigabe. Die Prüfung ist redaktionell und kein beobachteter Modelllauf.",
     "changes": [
       "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
       "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
       "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
-      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten."
+      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten.",
+      "Eigenständige Fahrzeugeigentumsvariante ausdrücklich von der Haberlein-Akte abgegrenzt.",
+      "Gesprächsphasen, Statusblock, Produktkennungen, Übergabematrix, Fehlerrouten und fassungsspezifische Freigaben vereinheitlicht."
     ],
-    "reviewed_on": "2026-10-21",
+    "reviewed_on": "2026-10-22",
+    "sha256": "6e362c17756679d62bd09fb56674cddbe47d01d1d27ad656983d5cc19b6117de"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Aktenbezogene Insolvenzsachbearbeitung mit verbindlichem Sprechgang, fortgeschriebenem Produktstand, gebündelten Entscheidungsfragen und fassungsspezifischer Außenfreigabe. Die Prüfung ist redaktionell und kein beobachteter Modelllauf.",
+    "changes": [
+      "Schwache vorläufige Verwaltung, Vertragsermächtigung und Massegrundlage getrennt.",
+      "Kommission, Kauf, Eigentumsvorbehalt, Erlös und Ausfall getrennt.",
+      "Fünf unterschiedliche Anmeldungen bis zum begründeten Einzelvorschlag und erforderlichen Gläubigerbrief geführt.",
+      "Verbraucherfälle mit getrennten Personen, Verfahrensständen und periodenbezogenen Pfändungswerten.",
+      "Gesprächsphasen, Statusblock, Produktkennungen, Übergabematrix, Fehlerrouten und fassungsspezifische Freigaben vereinheitlicht."
+    ],
+    "reviewed_on": "2026-10-22",
     "method": "desk_review",
     "prompt_path": "insolvenzsachbearbeitung/insolvenzsachbearbeitung-hauptproblem.md",
     "skill_path": "insolvenzsachbearbeitung/skills/insolvenzsachbearbeitung-steuern/SKILL.md",
-    "prompt_sha256": "7d9c9752ae07cf2dc5659f331f3bb1ba487e29e448ad6c214f2afb2c0596988b",
-    "skill_sha256": "e43b275d83e2309e4966713e61f9b96fab91f571ed9e36e5af2f8c5054624d36"
+    "prompt_sha256": "d341df72b59b1860ad30779c2e4562693953679b0272610e42c808126dd2d797",
+    "skill_sha256": "2f85b199f63528ab0b88d4cfccabf12ed23e1a82c475b7f70f30d4d073da0751"
   },
   "prompt_editorial_review": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "method": "desk_review",
-    "opening_change": "Der konkrete Verwaltungsauftrag führt unmittelbar zum Dokument; der frühe BGH-Anker grenzt Anmeldeidentität und gerichtliche Feststellung ab.",
+    "opening_change": "Der konkrete Auftrag beginnt mit Aktenlektüre und führt über gebündelte Entscheidungsfragen unmittelbar zum fortgeschriebenen Produkt; Status und Außenfreigabe bleiben getrennt.",
     "norms": [
       "§§ 21, 22, 38, 47 bis 55 und 103 bis 113 InsO",
       "§§ 174 bis 186 und 201 InsO",
@@ -550,15 +553,15 @@
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "method": "desk_review",
     "opening_modes": [
-      "Vorhandene Beschlüsse und Anmeldungen zuerst lesen.",
-      "Bei Warenherausgabe zunächst Gegenstand, Eigentumskette und konkrete Beschlussbefugnis prüfen.",
-      "Bei Verbraucherfällen Rolle, betroffene Person und eigenen Eröffnungsstand zuerst klären."
+      "Vorhandene Akte zuerst lesen und erkannte Aufgabe knapp bestätigen.",
+      "Ohne Aktenzugriff nur Rolle, Vorgang, Produkt und Frist erfragen.",
+      "Bei Einzelbeleglücken alle unabhängigen Produktteile sofort bearbeiten."
     ],
-    "continuation": "Neue Belege ändern die betroffenen Forderungen, Briefe, Rechnungen und Berichte im selben Bearbeitungsstand; unabhängige Vorgänge werden bis zum beauftragten Produkt fortgeführt.",
-    "enrichment": "Vier vollständige Akten führen Betriebs-, Forderungs-, Waren-, Kassen- und Verbraucherprobleme zusammen; die besonderen Verbraucherprompts bleiben alternative Einstiege in dieselben zehn Fachwege.",
-    "limits": "Redaktionelle Prüfung und technische Validierung; kein behaupteter Modelltest oder echtes Verfahrensergebnis."
+    "continuation": "Neue Belege werden unter derselben Vorgangskennung als Änderung verarbeitet; nur abhängige Beträge, Textstellen, Tabellenzeilen, Fristen und Übergaben werden fortgeschrieben.",
+    "enrichment": "Zehn Produktkennungen verbinden Fachrouten, Statusblock und vier Freigabestufen. Vier Sprechgänge und Fehlerrouten decken Forderungspaket, Warenrechte, Kassenabweichung und Verbraucherakte ab.",
+    "limits": "Redaktionelle Prüfung und technische Validierung; kein behaupteter Modelltest, Versand, Zahlung oder echtes Verfahrensergebnis."
   }
 }

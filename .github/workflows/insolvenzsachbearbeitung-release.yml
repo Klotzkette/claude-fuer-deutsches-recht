@@ -15,9 +15,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag insolvenzsachbearbeitung-v1.0.0
+        description: Komponententag insolvenzsachbearbeitung-v1.1.0
         required: true
-        default: insolvenzsachbearbeitung-v1.0.0
+        default: insolvenzsachbearbeitung-v1.1.0
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      TAG: ${{ inputs.tag || 'insolvenzsachbearbeitung-v1.0.0' }}
+      TAG: ${{ inputs.tag || 'insolvenzsachbearbeitung-v1.1.0' }}
       GH_REPO: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v5
@@ -52,7 +52,7 @@ jobs:
           sudo apt-get install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
       - name: Komponente und Quellen prüfen
         run: |
-          test "$TAG" = 'insolvenzsachbearbeitung-v1.0.0'
+          test "$TAG" = 'insolvenzsachbearbeitung-v1.1.0'
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
@@ -119,7 +119,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder zeigt auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzsachbearbeitung 1.0.0',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzsachbearbeitung 1.1.0',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           release = None
           for delay in (0, 2, 4, 8, 16):

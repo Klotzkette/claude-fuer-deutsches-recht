@@ -1,10 +1,10 @@
 # 1. Qualitätsnachweis Insolvenzsachbearbeitung
 
-Diese Prüfung betrifft `insolvenzsachbearbeitung` 1.0.0, die ergänzten Inhalte des `insolvenzforderungen-checker` 445.35.4 und die vier zugehörigen Testakten. Prüfdatum ist der 21.10.2026. Redaktionelle Prüfung, ausgeführte technische Tests und Modellanwendungsprobe werden getrennt bezeichnet.
+Diese Prüfung betrifft `insolvenzsachbearbeitung` 1.1.0, die ergänzten Inhalte des `insolvenzforderungen-checker` 445.35.5 und die vier zugehörigen Testakten. Der Prüfzeitraum reicht vom 21. bis 22.10.2026. Redaktionelle Prüfung, ausgeführte technische Tests und Modellanwendungsprobe werden getrennt bezeichnet.
 
 ## 1.1. Rechtsquellen und fachliche Abgrenzungen
 
-Der [Quellenbericht](quellenpruefung-2026-10-21.md) und die [strukturierte Quellenliste](quellenpruefung-2026-10-21.json) dokumentieren 16 amtlich gelesene Entscheidungsanker und die konkret geöffneten Normtexte. Bei Entscheidungen werden gelesene Randnummern oder Seiten, tragende Aussage und Aussagegrenze angegeben. Eine Suchtrefferanzeige wurde nicht als Volltextlektüre gewertet.
+Der [Quellenbericht](quellenpruefung-2026-10-21.md), die [strukturierte Quellenliste](quellenpruefung-2026-10-21.json) und der [Rechtsprechungsnachtrag vom 22.10.2026](quellenpruefung-nachtrag-2026-10-22.md) dokumentieren 22 amtlich gelesene Entscheidungsanker und die konkret geöffneten Normtexte. Bei Entscheidungen werden gelesene Randnummern oder Seiten, tragende Aussage und Aussagegrenze angegeben. Eine Suchtrefferanzeige wurde nicht als Volltextlektüre gewertet.
 
 Die redaktionelle Prüfung trennt insbesondere Beschluss und Befugnis, vorläufiges und eröffnetes Verfahren, Kauf und Kommission, vorhandene Ware und Erlös, Aus- und Absonderung, Individualisierung und Belegvollständigkeit sowie Schuldner- und Verwalterwiderspruch. Die KI erstellt interne Prüfungsvorschläge; sie ersetzt keine gerichtliche Feststellung.
 
@@ -22,7 +22,7 @@ Die Originaldokumente verwenden Times New Roman, 11 pt. Die Office-Dokumente wur
 
 ## 1.4. Prüfbefehle und Grenzen
 
-Die lokale Abschlussprüfung wurde am 21.10.2026 mit dem gebündelten Python und Node ausgeführt. Die vier Akten umfassen 123 Originaldateien und 124 PDF-Seiten. Der Komponentenbau erzeugte 39 Assets. Alle sieben MD-/TXT-Promptpaare sind byteidentisch; die sieben PDF-Lesefassungen wurden auf vollständigen Prompttext, Glyphen und Seitenränder geprüft. Die Werkstatt hat 21 Seiten, die Verbraucherwerkstatt neun und die Forderungsprüfer-Werkstatt 16 Seiten. Die vier kompakten Lesefassungen haben jeweils zwei Seiten.
+Die lokale Abschlussprüfung wurde am 22.10.2026 mit dem gebündelten Python und Node ausgeführt. Die vier Akten umfassen 123 Originaldateien und 124 PDF-Seiten. Der Komponentenbau erzeugte 39 Assets. Alle sieben MD-/TXT-Promptpaare sind byteidentisch; die sieben PDF-Lesefassungen wurden auf vollständigen Prompttext, Glyphen und Seitenränder geprüft. Die Sachbearbeitungswerkstatt hat 24 Seiten, die Verbraucherwerkstatt neun und die Forderungsprüfer-Werkstatt 18 Seiten. Schnellstart und Hauptproblem der Sachbearbeitung haben jeweils drei Seiten; Verbraucher- und Forderungsprüfer-Schnellstart jeweils zwei.
 
 | Prüfung | Ergebnis | Umfang |
 | --- | --- | --- |

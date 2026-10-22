@@ -22,6 +22,7 @@ Kauf- oder Sicherungsvertrag, wirksam einbezogene Bedingungen, Seriennummer bezi
 6. Volle persönliche Forderung, Sicherungsgegenstand, tatsächliche Befriedigung, geschätzten Erlös und voraussichtlichen Ausfall getrennt ausweisen. Nur ein prognostizierter Erlös rechtfertigt keine automatische Kürzung der Anmeldung. Aussonderungsanspruch und Kaufpreis nicht wirtschaftlich doppelt befriedigen.
 7. Bei Verwertung Paragrafen 170 und 171 anwenden: Verwerter, Bruttoerlös, Kosten und Umsatzsteuerbelastung dokumentieren. 4 Prozent Feststellung und grundsätzlich 5 Prozent Verwertung gelten nicht unterschiedslos für jede Herausgabe oder Gläubigerverwertung. Erheblich abweichende erforderliche Verwertungskosten berücksichtigen.
 8. Verteilung nach Paragrafen 52 und 190 gesondert vorbereiten. Absatz 1 verlangt grundsätzlich fristgerechten Verzichts- oder Ausfallnachweis; Absatz 2 erlaubt bei Abschlägen die bezeichnete Glaubhaftmachung mit Zurückbehalt. Bei alleiniger Verwalterverwertung Absatz 3 statt schematischer Gläubigerfrist anwenden. Keine Verteilungsfreigabe aus der Tabellenfeststellung ableiten.
+9. Setze für persönliche Forderung, Sicherungsbestand, Verwertungsstand und Ausfall jeweils einen eigenen Status. Fordere keine Unterlage vom Gläubiger, die nach Aktenlage ausschließlich die Verwaltung selbst erzeugen muss. Nach eigener Verwertung zunächst Bruttoerlös, Abzüge, Auskehr und offenen Rest intern abrechnen; erst dann eine Abweichung mit dem Gläubiger klären.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Liefere einen vollständig ausformulierten Sicherheitenvermerk mit persönlicher
 ## 6. Beispiele
 
 Ein Finanzierer meldet 80.000,00 EUR an und verweist auf sicherungsabgetretene Kundenforderungen mit geschätztem Erlös von 50.000,00 EUR. Prüfe Forderung und Sicherung getrennt; 30.000,00 EUR sind nicht automatisch der Anmelde- oder Feststellungsbetrag. Bei einer Hebebühne unter einfachem Eigentumsvorbehalt beginne dagegen mit Eigentum und Erfüllungswahl.
+
+Behauptet eine Bank eine Globalzession, ohne Sicherungsvertrag und Forderungsliste vorzulegen, kann die persönliche Darlehensforderung trotzdem prüfbar sein; nur das Absonderungsrecht bleibt offen. Nach Verwertung einer Maschine ist die bloße Differenz zwischen Forderung und Bruttoerlös noch kein endgültiger Ausfall. [Prüffälle und Musterbrief](../../references/prueffaelle-und-musterausgaben.md).

@@ -22,6 +22,7 @@ Eröffnungszeit, vollständiger Beschluss über vorläufige Verwaltung mit spät
 6. Bei den von Paragraf 108 erfassten Miet-, Pacht- und Dienstverhältnissen Leistungszeit vor und nach Eröffnung aufteilen. Eine Stromlieferung oder Softwarelizenz ist nicht allein wegen monatlicher Abrechnung automatisch ein Dienst- oder Raummietvertrag. Gemischte Verträge und teilbare Leistungen konkret prüfen.
 7. Entgelt- und Beitragsforderungen mit Insolvenzgeldbezug nach Paragraf 55 Absatz 3 InsO gesondert einordnen. Der Übergang auf die Bundesagentur kann die Geltendmachung als Masse ausschließen, ohne einen zweiten Anspruch zu schaffen.
 8. Bei gemischter Anmeldung den verlangten Gesamtbetrag erhalten und die begründeten Teilkategorien ausweisen. Eine Umleitung zur Masseprüfung ist kein Erlass und kein Bestreiten des zivilrechtlichen Bestands. Unklare Zuordnung gezielt nachfordern und bis zur Klärung keine reguläre Tabellenfreigabe geben.
+9. Führe gemischte Ansprüche in getrennten Arbeitswegen fort. Für jeden Teilbetrag bleiben Leistung, Zeitraum, materielle Anspruchsart, Tabellenbehandlung und offener Freigabeschritt sichtbar. Eine spätere Zahlung einer Masseposition verändert nicht rückwirkend die Art eines anderen Anspruchsteils.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Vollständig ausformulierter Zuordnungsvermerk mit Teilbeträgen, Leistungszeitr
 ## 6. Beispiele
 
 Der Vermieter meldet drei Monatsmieten an, davon eine für die Zeit nach Eröffnung. Teile anhand des Mietverhältnisses und der maßgeblichen Zeitabschnitte auf. Eine vor Eröffnung mit Zustimmung eines schwachen vorläufigen Verwalters bestellte Lieferung ist ohne zusätzliche Grundlage nicht automatisch Masse.
+
+Bei Juni, Juli und August und Eröffnung am 01.07. um 08:00 Uhr gehört die Anmeldung nicht ohne Aufteilung in eine Tabellenzeile. Erstelle für die vor Eröffnung begründete Position den Tabellenprüfweg und für die Zeit danach einen getrennten Masseprüfvermerk; beide bleiben bis zur Einzelfallprüfung Entwürfe. [Ausformulierter Fall](../../references/prueffaelle-und-musterausgaben.md).

@@ -22,7 +22,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "insolvenzsachbearbeitung"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 TAG = f"{NAME}-v{VERSION}"
 KINDS = ("werkstatt", "schnellstart", "hauptproblem")
 SKIP_PARTS = {".git", ".venv", "node_modules", "__pycache__", "testakte", "testakten", "prompts"}
@@ -41,7 +41,7 @@ def sha(path):
 
 
 PARENT = "insolvenzforderungen-checker"
-PARENT_VERSION = "445.35.4"
+PARENT_VERSION = "445.35.5"
 CASES = ("insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen", "insolvenzsachbearbeitung-werkzeugkiste-augsburg", "insolvenzsachbearbeitung-cafe-abendrot-regensburg", "insolvenzsachbearbeitung-familie-haberlein-nuernberg")
 PROOF = ROOT / "quality/insolvenzsachbearbeitung/release-pakete.json"
 
@@ -219,7 +219,7 @@ def build(dist, case_assets, write_proof=False):
             target = dist / f'{name}{"-portable" if portable else ""}.zip'
             with zipfile.ZipFile(target, "x", zipfile.ZIP_DEFLATED) as archive:
                 for relative, path in files.items():
-                    info = zipfile.ZipInfo(prefix + relative, (2026, 10, 21, 0, 0, 0))
+                    info = zipfile.ZipInfo(prefix + relative, (2026, 10, 22, 0, 0, 0))
                     info.compress_type = zipfile.ZIP_DEFLATED
                     info.external_attr = 0o100644 << 16
                     archive.writestr(info, path.read_bytes())

@@ -23,6 +23,7 @@ Anmeldung, Einzelprüfung, Titel mit Parteien, Tenor, Betrag und Vollstreckbarke
 7. Zuständigen Rechtsweg nach Paragrafen 180 und 185 bestimmen, laufenden Prozess und Unterbrechung prüfen. Eine Feststellungsklage ist kein Zahlungsantrag gegen die Masse. Grund, Betrag und Rang nach Paragraf 181 an der tatsächlich angemeldeten und geprüften Forderung messen.
 8. Nach rechtskräftiger Entscheidung Berichtigung der Tabelle nach Paragraf 183 Absatz 2 vorbereiten. Für Verteilung zusätzlich Paragraf 189 prüfen; rechtzeitiger Klagenachweis kann einen zurückzubehaltenden Anteil sichern, stellt die Forderung aber nicht fest.
 9. Unklare Titelwirkung, drohende Frist oder widersprüchliche Tabellenstände zur fachlichen Entscheidung vorlegen. Keine Anerkenntnisse, Rücknahmen, Klagen oder Rechtsmittel automatisch abgeben.
+10. Bei einem nur teilweise passenden Titel eine Komponentenmatrix bilden: angemeldeter Teil, Titelpartei, titulierte Grundlage, titulierter Betrag und Nebenanspruch, vorgeschlagene Erklärung sowie Verfolgungslast. Der Titelstatus einer Komponente darf nicht auf die übrige Anmeldung übertragen werden.
 
 ### 3.1. Besonderer Rechtsgrund und richtiger Anspruchsgegner
 
@@ -39,3 +40,5 @@ Vollständig ausformulierter Vermerk mit konkretem Widerspruchsumfang, Beteiligt
 ## 6. Beispiele
 
 Der Verwalter schlägt Nichtbestreiten vor, ein Insolvenzgläubiger widerspricht 2.000,00 EUR und die Schuldnerin widerspricht insgesamt. Erfasse beide Widersprüche getrennt; die Schuldnererklärung verhindert die Feststellung des nicht anderweitig bestrittenen Restes nicht. Ein passendes Endurteil kann die Verfolgungslast für den streitigen Teil ändern.
+
+Ein Urteil über 20.000,00 EUR trägt nicht automatisch eine Anmeldung von 27.800,00 EUR. Prüfe die später berechneten Zinsen, Kosten und weitere Rechnung eigenständig. Lautet der Titel gegen den Geschäftsführer, die Anmeldung aber gegen die GmbH, ist die Titelwirkung für die Schuldnerin nicht belegt. [Teil-Titel-Fall](../../references/prueffaelle-und-musterausgaben.md).

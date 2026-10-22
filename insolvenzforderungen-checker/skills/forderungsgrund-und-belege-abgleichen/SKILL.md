@@ -22,6 +22,7 @@ Anmeldung, Vertrags- und Nachtragsstand, Bestellung, Auftragsbestätigung, Liefe
 6. Formelle Bestimmtheit, materiellen Bestand und Beweislage getrennt beurteilen. BGH IX ZR 47/19 verlangt für die Individualisierung keine vollständige schlüssige Begründung. Fehlende Beweise können dennoch einen konkreten Bestreitensvorschlag tragen.
 7. Für jede Abweichung die betroffene Position, den Betrag, das Gegenargument und den noch benötigten Beleg nennen. Soweit belastbar, nicht zu bestreitenden Teil abgrenzen. Eine offene Abnahmefrage nicht durch fiktives Abnahmedatum schließen.
 8. Bei neuem Forderungsgrund prüfen, ob die Anmeldung geändert und erneut geprüft werden muss. Die Feststellungsklage darf nicht stillschweigend auf einen anderen Lebenssachverhalt gestützt werden.
+9. Weise jedem Befund einen Status und eine Folge zu. „Formell prüffähig, materiell offen“ führt zu einer gezielten Belegnachforderung und gegebenenfalls einem Teilbestreitensvorschlag. „Lebenssachverhalt nicht bestimmbar“ führt zunächst zur Konkretisierung der Anmeldung und zur Prüfung des weiteren Verfahrenswegs. Beide Befunde dürfen nicht mit einer Nullforderung gleichgesetzt werden.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Belegmatrix als Hilfsmittel, danach ein vollständig ausformulierter Prüfvermer
 ## 6. Beispiele
 
 Eine Baustoffrechnung enthält 300 Einheiten, die quittierte Lieferung 240. Prüfe weitere Lieferscheine, Rücklieferung und Preisbasis, bevor die Differenz beziffert wird. Bei einem Subunternehmer ist eine unterschriebene Stundenliste nicht automatisch die vertraglich erforderliche Abnahme des gesamten Werks.
+
+Der Kaufvertrag und drei Rechnungen bestimmen die Anmeldung, nur ein Lieferschein fehlt. Der Befund betrifft den materiellen Nachweis des Lieferumfangs. Nennt eine andere Anmeldung nur „Saldo aus Geschäftsverbindung“ und ein nicht zugeordnetes Kontoblatt, ist zuerst der Lebenssachverhalt nach Rechnungen und Leistungen zu konkretisieren. Verwende die getrennten Ausgaben aus der [Fallsammlung](../../references/prueffaelle-und-musterausgaben.md).

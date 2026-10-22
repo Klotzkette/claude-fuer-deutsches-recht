@@ -22,6 +22,7 @@ Rechnungen und Fälligkeit, Kontenblatt, Bankbelege, Wertstellung und Verwendung
 6. Vorinsolvenzliche Mahn-, Rechtsverfolgungs- und Titulierungskosten nach Entstehung, Grundlage und Nachweis prüfen. Individuelle Kosten der Verfahrensteilnahme fallen unter Paragraf 39 Absatz 1 Satz 1 Nummer 2 InsO; hierfür den besonderen Anmeldeaufruf beachten. Pauschalen und bereits titulierte Kosten nicht doppelt zählen.
 7. Angemeldete Hauptforderung, Zinsen und Kosten je Komponente mit dem berechneten Betrag vergleichen. Differenzen einzeln erklären. Größerer rechnerischer Anspruch berechtigt nicht zur eigenmächtigen Erhöhung einer Anmeldung.
 8. Erstelle Kontrollsummen je Rang und Status; Massepositionen und rein dingliche Rechte separat. Übergib Beträge an Tabellen- und Briefentwurf, ohne eine geschätzte Insolvenzquote als Feststellungsbetrag auszugeben.
+9. Führe bei Nachreichungen den ursprünglichen Anmeldebetrag, die vom Gläubiger erklärte Berichtigung, den nachgerechneten Betrag und den internen Vorschlag getrennt. Eine zweite Übermittlung derselben Anmeldung erzeugt keinen zweiten Anspruch. Zahlung und Gutschrift nur einmal abziehen und die Rechnung nennen, auf die sie wirken.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Liefere eine prüfbare Rechnung mit Einzelpositionen und vollständig ausformuli
 ## 6. Beispiele
 
 Angemeldet sind 12.000,00 EUR, eine vorherige Zahlung über 3.000,00 EUR fehlt im Kontenblatt. Kläre ihre Tilgungsbestimmung und korrigiere nicht zusätzlich um denselben als Gutschrift gebuchten Betrag. Ein geschätzter Sicherheitenerlös von 5.000,00 EUR ist dagegen keine weitere Zahlung.
+
+Bei 14.280,00 EUR Anmeldung, 3.570,00 EUR belegter Teilzahlung und 1.190,00 EUR gesonderter Gutschrift verbleiben 9.520,00 EUR, sofern beide Abzüge dieselbe Rechnung betreffen und noch nicht im Saldo verarbeitet sind. Bei 32.000,00 EUR Hauptforderung bleiben rechnerisch zutreffende Zinsen nach Eröffnung dennoch rangrechtlich getrennt. [Prüffälle](../../references/prueffaelle-und-musterausgaben.md).

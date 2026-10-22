@@ -22,6 +22,7 @@ Anmeldung mit Anlagen und Zugang, Schuldner- und Gläubigerbezeichnung, Vertretu
 6. Bei Gesamtschuld oder Bürgschaft Paragrafen 43 und 44 InsO anwenden. Zahlungen vor und nach Eröffnung sowie schon entstandenen und erst künftigen Rückgriff unterscheiden. Nicht aus mehreren Anspruchsgegnern eine unzulässige Doppelanmeldung im selben Verfahren ableiten.
 7. Insolvenzgeldfähige Entgeltansprüche gehen nach Paragraf 169 SGB III mit Antragstellung über. Nach Paragraf 170 frühere Abtretung oder Pfändung und Vorfinanzierungszustimmung prüfen. Beitragsansprüche der Einzugsstelle bleiben nach Paragraf 175 Absatz 2 gegen den Arbeitgeber bestehen; kein zweiter, gleichartiger Anspruchsübergang an die Bundesagentur. Entgelt und Beiträge monats- und bestandteilsbezogen abgleichen.
 8. Ergebnis als geklärt, gezielt nachzufordern oder rechtlich abweichend zu behandeln begründen. Die Anspruchszuordnung nicht durch stilles Löschen einer vermeintlichen Dublette „bereinigen“. Termine an den Termin-Skill übergeben.
+9. Portalübermittlung und denselben Eingang über sicheren Übermittlungsweg als mögliche Eingangsdublette verknüpfen, nicht als zwei wirtschaftliche Forderungen. Bei Sammelanmeldungen übergegangener Arbeitnehmeransprüche Namen, jeweiliges monatliches Brutto und Zeiträume aus dem Anmeldeinhalt verlangen; Sonderwissen der Verwaltung ergänzt eine unbestimmte Anmeldung nicht stillschweigend.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Liefere Zuordnung und offene Rechtskette als Arbeitstabelle sowie vollständig a
 ## 6. Beispiele
 
 Lieferant und Factor melden dieselbe Rechnung an. Erfasse zwei Eingänge, verknüpfe den Anspruch und verlange den für diese Rechnung maßgeblichen Abtretungsnachweis. Bei Arbeitnehmer und Bundesagentur prüfe Antrag und Monatszuordnung, statt beide Lohnsummen zu addieren oder allein die spätere Auszahlung als Übergangsdatum anzusetzen.
+
+Die Bundesagentur meldet nur eine Gesamtsumme für 24 Beschäftigte an. Fordere die für jeden übergegangenen Anspruch nötige Zuordnung nach Person, monatlichem Brutto und Zeitraum an. Ein Leistungsbescheid mit Gesamtsumme und die bekannte Lohnbuchhaltung ersetzen diese Angaben nicht. Den ausformulierten Ablauf enthält die [Fallsammlung](../../references/prueffaelle-und-musterausgaben.md).

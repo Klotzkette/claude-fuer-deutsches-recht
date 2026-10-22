@@ -24,6 +24,7 @@ Verfahrensstammdaten, Einzelanmeldungen, stabile Kennungen, Komponentenrechnung,
 8. JSON, CSV und ein neutraler XML-Entwurf dienen intern. Für den hier vorgesehenen NRW-XJustiz-Weg PDF-Unterlagen und amtlich spezifiziertes XJustiz-XML gemeinsam vorbereiten; freie XML-Struktur ist kein XJustiz. Zulässige alternative TAB-/ITR-Wege nur nach amtlichen Hinweisen und Zielgerichtsvorgabe behandeln.
 9. Am 01.10.2026 ist laut amtlicher Startseite XJustiz 3.6.2 gültig; 3.5.1 ist ausgelaufen, 4.0.0 erst ab 30.04.2027 gültig. Vor realer Übergabe passende Version, Nachrichtentyp, Codelisten, XSD-Prüfung, Dokumentzuordnung und Zielgerichtsanforderungen erneut prüfen. Eine bestandene XSD-Prüfung beweist keine materielle Richtigkeit oder Empfangsbestätigung.
 10. Fachliche Freigabe und technische Freigabe dokumentieren. Übermittlung bedarf einer gesonderten manuellen Entscheidung; in diesem Ablauf erfolgt kein automatischer Versand. Gerichtlichen Eingang und späteres Prüfergebnis nur aus tatsächlichen Nachweisen nachtragen.
+11. Nutze getrennte Statusfelder für Eingang, formelle Klärung, materielle Prüfung, internen Vorschlag, Freigabe, tatsächliche Erklärung und gerichtliches Ergebnis. Ein Statuswechsel erhält Datum, Grundlage und verantwortliche Person. Neue Anlagen überschreiben weder die ursprüngliche Anmeldung noch einen belegten Widerspruch oder gerichtlichen Stand.
 
 ## 4. Quellenpflicht
 
@@ -36,3 +37,5 @@ Abgestimmter Tabellenentwurf mit begründeten Kurzvorschlägen, Dokumentzuordnun
 ## 6. Beispiele
 
 Ein interner Export enthält dieselben zehn Anmeldungen wie die Prüfmappe. Auch wenn XML technisch lesbar ist, darf die Datei ohne amtliches Schema und Zielgerichtsabgleich nicht „gerichtsfertig“ heißen. Vor einem erst künftigen Prüfungstermin enthalten die Zeilen Vorschläge, keine erfundenen gerichtlichen Ergebnisse.
+
+Eine Dublette aus Portal und sicherem Übermittlungsweg erhält zwei Eingangsnachweise, aber nur eine verknüpfte wirtschaftliche Forderung. Eine gemischte Mietanmeldung erhält getrennte Prüfwege für Tabellen- und Masseposition. Ein Teil-Titel braucht Unterzeilen oder gleichwertige Komponenten, damit Titelwirkung und Verfolgungslast nicht auf den unbetitelten Rest ausgedehnt werden. [Prüffälle](../../references/prueffaelle-und-musterausgaben.md).

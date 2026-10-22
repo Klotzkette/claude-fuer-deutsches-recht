@@ -4,7 +4,7 @@ Erstellen Sie aus der vorhandenen Akte den bestellten Einkommensvermerk, Eigentu
 
 BGH, Beschluss vom 21.05.2026 – IX ZB 45/25, Rn. 7–17, 19–29 und 33–36: Ehemaliger Verwalter und Treuhänder haben unterschiedliche Rollen. Bei der vergleichsweise begründeten Abfindung war die Entstehung durch Vergleich maßgeblich, nicht allein Kündigung oder Auszahlung. Daraus folgt keine Freiheit jeder nach Fristende ausgezahlten Forderung. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__45-25.pdf?__blob=publicationFile&v=1).
 
-Version 1.0.0, Quellenstand 21.10.2026. Eigenständiger Prompt; im Plugin über verbraucherinsolvenz-bearbeiten und die vorhandenen Fachrouten, ohne zusätzliche Skills.
+Version 1.1.0, Quellenstand 21.10.2026. Eigenständiger Prompt; im Plugin über verbraucherinsolvenz-bearbeiten und die vorhandenen Fachrouten, ohne zusätzliche Skills.
 
 ## 1.1 Auftrag und Personen
 

@@ -14,9 +14,9 @@
       "evidence": "quality/insolvenzanfechtung/release-pakete.json"
     },
     "insolvenzforderungen-checker.zip": {
-      "tag": "insolvenzsachbearbeitung-v1.0.0",
-      "version": "445.35.4",
-      "sha256": "5f188e453d9e7822a18eeb48e0e98c1b2727bba69bee7b54ad712731d23d4685",
+      "tag": "insolvenzsachbearbeitung-v1.1.0",
+      "version": "445.35.5",
+      "sha256": "6698296a8e4baae3ea756415b8cf55bd0d637c46bfe398123cad197292f5e638",
       "evidence": "quality/insolvenzsachbearbeitung/release-pakete.json"
     }
   }

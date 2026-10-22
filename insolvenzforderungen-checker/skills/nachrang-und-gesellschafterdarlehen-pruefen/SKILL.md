@@ -22,6 +22,7 @@ Gesellschaftsform, Beteiligungs- und Geschäftsführungsstand mit maßgeblichen 
 6. Vertraglichen Rangrücktritt nach Absatz 2 vom gesetzlichen Nachrang trennen. Wortlaut, Reichweite, erfasste Zinsen und mögliche vorinsolvenzliche Durchsetzungssperre auslegen. Nicht jede Bezeichnung „Eigenkapital“ beweist einen qualifizierten Rangrücktritt.
 7. Gerichtlichen Aufruf nach Paragraf 174 Absatz 3 prüfen. Ohne passenden Aufruf keine neue Nachranganmeldung empfehlen oder als regulär freigegebenen Tabellenposten exportieren. Bereits eingegangene Anmeldung einschließlich behaupteten Rangs dokumentieren und notwendige Rangkorrektur beziehungsweise gerichtliche Behandlung offen ausweisen; nicht still löschen.
 8. Ergebnis nach Bestand, Rang, Ausnahmen und Anmeldebefugnis gliedern. Ein fehlendes Privilegienpapier nur dann zum Anlass einer Nachforderung nehmen, wenn tatsächliche Anhaltspunkte für die Ausnahme bestehen.
+9. Bei widersprüchlichen Rollenangaben den Rang offenlassen, statt die Forderung vorsorglich dem Nachrang oder dem einfachen Rang zuzuweisen. Beteiligungsquote, Organbestellung und tatsächliche Funktion erhalten getrennte Belegfelder; eine informelle Funktionsbezeichnung ist kein Ersatz für die Prüfung der Geschäftsführung.
 
 ## 4. Quellenpflicht
 
@@ -34,3 +35,5 @@ Vollständig ausformulierter Rangvermerk mit konkretem Anspruch, Tatbestand, Aus
 ## 6. Beispiele
 
 Eine nicht geschäftsführende Gesellschafterin mit 8 Prozent stellt ein Darlehen bereit. Prüfe Absatz 5 statt automatischen Nachrangs. Eine Holding mit Mehrheitsbeteiligung kann sich nicht auf dieses Kleinbeteiligtenprivileg berufen; Sanierungsprivileg und Rechtsgrund bleiben dennoch gesondert zu prüfen.
+
+Wird ein Gesellschafter mit 8 Prozent in einem Protokoll als „operativer Geschäftsführer“ bezeichnet, obwohl Bestellung und tatsächliche Funktion fehlen, ist der Darlehensbestand gesondert prüfbar und der Rang offen. Fordere nur Beteiligungs- und Organunterlagen sowie die Erklärung der Funktion an. Der Brief darf nicht schon behaupten, das Privileg greife oder sei ausgeschlossen. [Prüffall](../../references/prueffaelle-und-musterausgaben.md).

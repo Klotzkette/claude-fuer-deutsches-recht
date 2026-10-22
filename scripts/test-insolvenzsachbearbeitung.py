@@ -145,7 +145,7 @@ class SachbearbeitungTest(unittest.TestCase):
 
     def test_manifests_and_marketplace_agree(self):
         market = json.loads((ROOT/'.claude-plugin/marketplace.json').read_text())
-        for name, version in ((NAME, '1.0.0'), (PARENT, '445.35.4')):
+        for name, version in ((NAME, '1.1.0'), (PARENT, '445.35.5')):
             entries = [p for p in market['plugins'] if p['name'] == name]
             self.assertEqual(len(entries), 1)
             self.assertEqual(entries[0]['version'], version)

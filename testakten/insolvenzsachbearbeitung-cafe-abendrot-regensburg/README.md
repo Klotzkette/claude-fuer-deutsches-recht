@@ -25,8 +25,8 @@ Alle Personen, Unternehmen, Anschriften, Kontakte und Aktenzeichen sind erfunden
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/insolvenzsachbearbeitung-cafe-abendrot-regensburg_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Jede Unterlage als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-cafe-abendrot-regensburg-einzelpdfs.zip) |
-| Akten-ZIP | [Originale als PDF, DOCX, EML und XLSX](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-cafe-abendrot-regensburg.zip) |
+| Einzel-PDF-ZIP | [Jede Unterlage als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-cafe-abendrot-regensburg-einzelpdfs.zip) |
+| Akten-ZIP | [Originale als PDF, DOCX, EML und XLSX](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-cafe-abendrot-regensburg.zip) |
 
 Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Markdown-Dateien und das Gesamt-PDF sind nicht Teil des Original-ZIPs. E-Mail-Anlagen werden in der PDF-Lesefassung nicht erneut angehängt, weil sie als einzelne Unterlagen enthalten sind.
 
@@ -61,4 +61,4 @@ Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem
 | `23_Gutscheinkarte_G048.pdf` | Wertgutschein G 048 | 1 |
 | `24_Mehllieferung.pdf` | Lieferschein MB 2309 | 1 |
 
-Komponentenrelease `insolvenzsachbearbeitung-v1.0.0`.
+Komponentenrelease `insolvenzsachbearbeitung-v1.1.0`.

@@ -2,7 +2,7 @@
 
 ## 1.1. Prüfstand und Reichweite
 
-Recherchestand: 01.10.2026. Die unten genannten Bundesnormen wurden auf dem amtlichen Portal Gesetze im Internet gelesen, die drei Entscheidungen als amtliche PDF-Volltexte des Bundesgerichtshofs. Die NRW-Verordnung wurde in der Fassung mit Gültigkeit ab 01.02.2022 gelesen; ergänzend wurden die technischen Hinweise des Justizportals NRW und die XJustiz-Startseite abgerufen. Es handelt sich nicht um eine Zusicherung, dass jede spätere Änderung oder jede örtliche Empfangsvorgabe erfasst ist.
+Recherchestand: 22.10.2026. Die unten genannten Bundesnormen wurden auf dem amtlichen Portal Gesetze im Internet gelesen. Die konkret bezeichneten Randnummern der Entscheidungsanker wurden in amtlichen Volltexten des Bundesgerichtshofs beziehungsweise des Bundesarbeitsgerichts gelesen. Die NRW-Verordnung wurde in der Fassung mit Gültigkeit ab 01.02.2022 gelesen; ergänzend wurden die technischen Hinweise des Justizportals NRW und die XJustiz-Startseite abgerufen. Es handelt sich nicht um eine Zusicherung, dass jede spätere Änderung oder jede örtliche Empfangsvorgabe erfasst ist.
 
 Die Übungsakte hat einen abweichenden Bearbeitungsstichtag: 10.09.2026. Später erlangte Fallkenntnisse dürfen nicht rückwirkend als damals vorhandene Belege behandelt werden. Die Akte ersetzt keine Normquelle; die Quellen ersetzen keine Tatsachenfeststellung.
 
@@ -65,7 +65,7 @@ Aktueller Paragraf 174 Absatz 4 InsO: Anmeldung durch elektronisches Dokument is
 3. [Paragraf 175 SGB III](https://www.gesetze-im-internet.de/sgb_3/__175.html): Die Bundesagentur zahlt auf Antrag der Einzugsstelle die erfassten Gesamtsozialversicherungsbeiträge; bestimmte Säumniszuschläge und Stundungszinsen sind ausgenommen. Die Beitragsansprüche gegen den Arbeitgeber bleiben nach Absatz 2 bestehen; die Einzugsstelle erstattet erhaltene Zahlungen entsprechend an die Bundesagentur. Kein pauschaler Anspruchsübergang wie bei Paragraf 169 und keine zweite Anmeldung derselben Beiträge durch die Bundesagentur.
 4. Entgelt brutto, Nettoauszahlungsanspruch, Arbeitnehmeranteile, Gesamtsozialversicherungsbeitrag und Steuer getrennt nachvollziehen. Doppelzählung betrifft nicht nur identische Namen oder Rechnungsnummern. Paragraf 55 Absatz 3 InsO bei zuvor als Masse eingeordneten Ansprüchen zusätzlich prüfen.
 
-## 1.8. Drei amtlich geprüfte BGH-Anker
+## 1.8. Amtlich geprüfte Kernanker
 
 ### 1.8.1. Rückabtretung und doppelte Anmeldung
 
@@ -112,3 +112,17 @@ Die konkrete Nachricht und ihre Prüfung richten sich nach [elektronische-ueberg
 Die Ausgangsprüfung vom 01.10.2026 bleibt nachvollziehbar. Der [ergänzende amtliche Quellenabgleich](sachbearbeitung-quellen-2026-10-21.md) überprüft Anmeldung, Titel, Widerspruch und Eigentumsfragen erneut und ergänzt BAG, Urteil vom 20.02.2025 – 6 AZR 32/24, Randnummern 15 bis 16 und 22 bis 34, sowie BGH, Beschluss vom 21.03.2024 – IX ZB 56/22, Randnummern 22 bis 32 und 39 bis 43. Beide Originaltexte, Aussage und Grenze sind dort dokumentiert.
 
 Sammelanmeldungen benötigen bestimmbare Einzelansprüche; Sonderwissen der Verwaltung ersetzt den Anmeldeinhalt nicht. Ein vertraglicher Titel beweist keinen titulierten Deliktsgrund. Forderung, besonderer Rechtsgrund, Titel und Widersprechender sind getrennt zu erfassen. Sachbearbeitung bereitet die Erklärung vor und bewirkt keine gerichtliche Feststellung. Der ergänzende Quellenabgleich behauptet keine erneute technische Validierung des XJustiz-Exporthelfers oder sämtlicher örtlicher Empfangsvorgaben.
+
+## 1.11. Rechtsprechungsnachtrag vom 22.10.2026
+
+Der [amtliche Quellenabgleich](sachbearbeitung-quellen-2026-10-21.md#417-aktuelle-bestätigung-2026-anmelden-prüfen-bestreiten-und-identität-wahren) enthält jetzt sechs weitere vollständig an den bezeichneten Stellen gelesene Entscheidungsanker. Für die praktische Prüfung gelten insbesondere folgende Zuordnungen:
+
+| Entscheidung | Trägt | Trägt nicht |
+| --- | --- | --- |
+| BAG, Urteil vom 19.02.2026 – 6 AZR 102/25, Rn. 15 bis 18 | Anmeldung, Prüfung, Bestreiten und Identität nach § 181 InsO als vollständige Verfahrenskette. | Formelle Ordnungsmäßigkeit beweise den materiellen Anspruch. |
+| BGH, Urteil vom 13.11.2025 – IX ZR 127/24, Rn. 27 bis 38 | Verfahrensvoraussetzungen und materielle Forderungsklasse sind getrennt zu beurteilen. | Eine falsche Forderungsklasse sei nur ein unbeachtlicher Formfehler. |
+| BGH, Urteile vom 23.07.2024 – II ZR 222/22 und II ZR 206/22 | Titel ersetzt die Anmeldung nicht; Hauptforderung, Zinsen und Kosten benötigen prüffähige eigene Angaben. | Jede Sammelanmeldung sei unwirksam oder Nebenforderungen seien stets automatisch umfasst. |
+| BGH, Urteil vom 09.03.2017 – IX ZR 177/15, Rn. 15 bis 17 | Volle persönliche Forderung darf trotz Absonderungsrecht angemeldet werden; Ausfall wird bei § 190 InsO relevant. | Anmeldung ohne Ausfallbeschränkung sei Sicherungsverzicht oder erlaube Doppelbefriedigung. |
+| BGH, Urteil vom 31.07.2025 – I ZR 127/24, Rn. 39 bis 44, 52 bis 53, 64, 74 bis 75 | Ansprüche vor und nach Eröffnung nach Entstehungsgrund und Zeitraum trennen; Insolvenzforderungen müssen angemeldet werden. | Rechnungsdatum oder Fälligkeit allein bestimme Insolvenz- oder Masseforderung. |
+
+Damit lautet die feste Reihenfolge für jede Prüfzeile: Gläubiger und Anmeldegegenstand identifizieren; Hauptforderung, Zinsen und Kosten aufgliedern; Forderungsart und Rang materiell bestimmen; Prüfung und Widerspruch nachhalten; danach erst Tabellenstatus, Prozessroute und Verteilungsfolge festlegen. Eine verspätete Anmeldung wird weiter unmittelbar nach § 177 InsO und der gerichtlichen Verfügung bearbeitet. Für diesen Teil wurde kein nur scheinbar aktueller Entscheidungsanker erzwungen.

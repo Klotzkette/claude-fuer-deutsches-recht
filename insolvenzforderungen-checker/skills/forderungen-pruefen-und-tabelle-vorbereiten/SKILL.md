@@ -23,10 +23,16 @@ Lies zuerst Eröffnungs- und Bestellungsbeschlüsse, gerichtliche Verfügungen, 
 7. Für jede Anmeldung einen konkreten Vorschlag schreiben: Betrag und Rang, nicht zu bestreitender Teil, betrags- oder rangbezogenes Bestreiten, Belege und Norm, fehlender Nachweis, nächster Schritt. Ein offener Belegstatus allein ersetzt keine vorgeschlagene Erklärung im anstehenden Prüfungstermin.
 8. `glaeubigerbriefe-und-nachforderungen-erstellen` liefert den vollständigen Empfängertext. `tabelle-und-elektronische-uebergabe-vorbereiten` führt dieselben Beträge, Kennungen und Gründe in die Übergabemappe. Summen getrennt nach Rang und Anspruchsart, keine Scheingesamtsumme einschließlich Masse und Herausgabe.
 9. Kontrolliere jeden Vorschlag gegen seine Tabellenzeile und seinen Brief. Halte fachliche Freigabe, Exportprüfung, gerichtlichen Eingang und gerichtliches Prüfergebnis auseinander. Es erfolgen weder automatischer Versand noch Einreichung, Auszahlung, Verzicht oder Widerspruchsrücknahme.
+10. Ist der Auftrag noch offen, biete genau vier Arbeitsmodi an: gesamtes Prüflos, benannter Einzeleingang, Korrespondenz oder Kontrolle eines Tabellenstands. Frage Bearbeitungsstichtag und gerichtlichen Stand zusammen ab. Bei klarem Auftrag keine Modusfrage stellen.
+11. Führe je Forderung die Statusfolge eingegangen, formell zu klären, materiell offen, intern geprüft, zur Erklärung freigegeben, tatsächlich erklärt und gerichtlich dokumentiert. Überspringe keine Stufe durch Vermutung. Nachreichungen ändern nur betroffene Teile derselben Kennung; der frühere Prüfstand bleibt nachvollziehbar.
 
 ### 3.1. Fünf PDF-Anmeldungen mit unterschiedlichen Befunden
 
 Im Kaufhaus Katzenbogen München sind alle fünf tatsächlich vorhandenen Anmeldungen und ihre Anlagen einzeln zu erfassen. Der Fallname ersetzt keine Belege. Erhalte unauffällige Teile, grenze fehlerhafte Zinsen und unbelegte Leistungen betragsgenau ab und führe Titelumfang, Sicherheiten sowie Schuldnerwiderspruch eigenständig. Eine fehlende Anlage ist nicht automatisch fehlende Individualisierung. Liefere fünf nachvollziehbare Einzelvorschläge, übereinstimmende Tabellenzeilen und die sachlich erforderlichen Briefe. Eine positive interne Empfehlung ist keine gerichtliche Feststellung; spätere Belege beseitigen keinen vorhandenen Widerspruch durch bloße Datenänderung.
+
+### 3.2. Breites Prüflos
+
+Die [vierzehn Prüffälle und Musterausgaben](../../references/prueffaelle-und-musterausgaben.md) bilden Beleglücke, Sammelkonto, Nacheröffnungszinsen, Teil-Titel, behauptete Sicherheit, Verwertungsausfall, Gesellschafterdarlehen, Verspätung, Arbeitnehmer- und Steuerforderung, Gutschrift und Dublette, laufende Miete sowie ein streitiges Deliktsattribut ab. Nutze die Fälle als Gegenkontrolle, nicht als Tatsachenquelle. Jeder Fall endet mit Eingangslage, Prüfschritt, Ergebnisstatus und konkreter Tabellenfolge.
 
 ## 4. Quellenpflicht
 
@@ -39,3 +45,5 @@ Liefere einen kurzen Gesamtstand mit dringlichen Handlungen, sodann je Gläubige
 ## 6. Beispiele
 
 Eine Akte enthält ordentliche Lieferforderungen, eine überhöhte Anmeldung und eine besicherte Finanzierung. Bearbeite alle Eingänge, begründe auch unauffällige Vorschläge anhand der Belege und behandle die Sicherheiten gesondert. Liegt der Prüfungstermin nach dem Bearbeitungsstichtag, darf keine Zeile schon „gerichtlich festgestellt“ heißen. Eine neue Gutschrift ändert nur den betroffenen Saldo und die daraus abgeleiteten Entwürfe.
+
+Bei einem gemischten Prüflos lauten die Ergebnisse nicht durchgehend „Unterlagen fehlen“. Der bestimmte Kauf ohne Lieferschein ist formell prüffähig, aber materiell offen; das unaufgeschlüsselte Sammelkonto ist formell zu klären; bei Zinsen nach Eröffnung kann der Betrag rechnerisch stimmen und der Rang abweichen; bei einem Teil-Titel ändert sich die Verfolgungslast nur im Umfang des Titels.

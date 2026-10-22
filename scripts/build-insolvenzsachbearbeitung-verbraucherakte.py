@@ -34,7 +34,7 @@ from testakte_office_pdf import render_office_batch
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'scripts/data/insolvenzsachbearbeitung-verbraucherakte.json'
-TAG = 'insolvenzsachbearbeitung-v1.0.0'
+TAG = 'insolvenzsachbearbeitung-v1.1.0'
 BASE = f'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}'
 SLUGS = {'insolvenzsachbearbeitung-familie-haberlein-nuernberg'}
 STAMP = 'D:20261021080000Z'

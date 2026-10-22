@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzforderungen-checker",
-  "reviewed_on": "2026-10-21",
+  "reviewed_on": "2026-10-22",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/inso/__174.html",
@@ -42,6 +42,36 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR_149-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-21",
       "supports": "Rn. 27 bis 29: Anmeldung, Anerkennung oder Feststellung einer Masse- oder Neuverbindlichkeit als Insolvenzforderung ändert ihre materielle Rechtsnatur nicht. Materielle Forderungsart, Tabellenstatus und Verteilungsberechtigung sind getrennt zu führen. Grenze: Die Entscheidung macht Tabellenfeststellungen nicht allgemein wirkungslos und entscheidet nicht sämtliche Rückforderungs- oder Verteilungsfolgen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-102-25/",
+      "checked_on": "2026-10-22",
+      "supports": "BAG 6 AZR 102/25 Rn. 15 bis 18: Anmeldung, Prüfung, fortbestehendes Bestreiten und Identität nach § 181 InsO bilden die Verfahrenskette; formelle Ordnungsmäßigkeit beweist den Anspruch nicht."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_127-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH IX ZR 127/24 Rn. 27 bis 38: Verfahrensvoraussetzungen und materielle Forderungsklasse sind getrennt; die spezielle kapitalmarktrechtliche Rangfrage wird nicht verallgemeinert."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_222-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH II ZR 222/22 Rn. 17 bis 29: Ein Titel ersetzt die Anmeldung nicht; eine unbestimmte Sammelanmeldung wird durch die Tabelleneintragung nicht geheilt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_206-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH II ZR 206/22 Rn. 23 bis 40 und 43 bis 48: Hauptforderung, Zinsen und Kosten benötigen getrennte prüffähige Angaben; die besondere Teilaufnahme ersetzt keine Anmeldung ausgelassener Nebenforderungen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2015/IX_ZR_177-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH IX ZR 177/15 Rn. 15 bis 17: Die volle persönliche Forderung kann trotz Absonderungsrecht angemeldet werden; § 190 InsO wirkt auf der Verteilungsstufe und erlaubt keine Doppelbefriedigung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR_127-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH I ZR 127/24 Rn. 39 bis 44, 52 bis 53, 64, 74 bis 75: Vor- und Nacheröffnungsansprüche werden nach Entstehungsgrund und Zeitraum getrennt; Rechnungsdatum oder Fälligkeit allein bestimmen die Forderungsart nicht."
     }
   ],
   "selection": {
@@ -460,10 +490,394 @@
           ]
         }
       ]
+    },
+    {
+      "id": "sammelkonto-unbestimmt",
+      "target_skill": "forderungsgrund-und-belege-abgleichen",
+      "request": "Die Südhang Bürobedarf KG meldet 64881.73 EUR aus laufender Geschäftsverbindung an. Das Kontoblatt enthält 37 nicht zugeordneten Buchungen, Storni und einen alten Saldovortrag. Erstellen Sie Prüfvermerk, Tabellenfolge und Nachforderung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt fehlende Individualisierung des Lebenssachverhalts von bloßem Belegmangel und Rechenfehler.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfasst den Originalbetrag, ohne ihn als feststellungsfähig oder als null zu behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert eine positionsbezogene Aufstellung mit Rechnung, Leistung, Zahlung oder Gutschrift und offenem Betrag an und benennt den weiteren Prüfweg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zinsen-nach-eroeffnung",
+      "target_skill": "zahlungen-zinsen-und-kosten-pruefen",
+      "request": "Angemeldet sind 32000 EUR Hauptforderung, 1146.58 EUR Zinsen bis zur Eröffnung und 918.36 EUR rechnerisch richtige Zinsen für sechs Monate danach, alles im Rang 38. Ein Nachrangaufruf ist nicht belegt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Hauptforderung sowie vor- und nachinsolvenzlichen Zinszeitraum getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt die nach Eröffnung laufenden Zinsen nach Paragraf 39 Absatz 1 Satz 1 Nummer 1 und prüft den besonderen Aufruf nach Paragraf 174 Absatz 3.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erzeugt keine künstliche Belegnachforderung und bildet Betrag und Rang getrennt in der Tabelle ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titel-nur-teilbetrag",
+      "target_skill": "bestreiten-titel-und-feststellung-bearbeiten",
+      "request": "Eine Anmeldung über 27800 EUR enthält ein vollstreckbares Urteil gegen die Schuldnerin über 20000 EUR. Weitere 5000 EUR stammen aus einer späteren Rechnung, 2800 EUR aus weiteren Zinsen und Kosten. Bereiten Sie die Prüfung vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest Parteien und Tenor und erstreckt die Titelwirkung nicht auf den Restbetrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bestimmt Verfolgungslast und Bestreitensumfang komponentenbezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert getrennte Tabellenkomponenten sowie eine konkrete Nachforderung nur für die noch nicht belegten Teile.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sicherheit-nur-behauptet",
+      "target_skill": "sicherheiten-und-ausfall-pruefen",
+      "request": "Eine Bank meldet 480000 EUR aus Darlehen an und behauptet Absonderung aus sämtlichen Kundenforderungen. Darlehensvertrag und Saldo liegen vor, Sicherungsvertrag und Forderungsliste fehlen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt die persönliche Darlehensforderung vom behaupteten Absonderungsrecht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fordert Sicherungsvertrag, bestimmte Forderungsliste, Sicherungsfall und bereits erfolgte Einzüge gezielt an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Setzt die persönliche Forderung weder auf null noch zieht es einen geschätzten Sicherheitenwert als Zahlung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "absonderung-verwertung-ausfall",
+      "target_skill": "sicherheiten-und-ausfall-pruefen",
+      "request": "Eine Bankforderung über 220000 EUR ist durch eine Maschine gesichert. Die Verwaltung verwertet sie für 94000 EUR brutto. Kosten, Umsatzsteuer und Nettoauskehr sind noch nicht abschließend geklärt; die Bank nennt 126000 EUR Ausfall.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Führt Forderung, Bruttoerlös, Kosten, Auskehr und Ausfall getrennt und prüft Paragrafen 170 und 171 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bezeichnet die bloße Differenz nicht als endgültigen Ausfall und beachtet Paragrafen 52 und 190 InsO für die Verteilung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert keine Unterlage vom Gläubiger, die erst aus der eigenen Verwertungsabrechnung der Verwaltung entstehen muss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kleinbeteiligung-rolle-offen",
+      "target_skill": "nachrang-und-gesellschafterdarlehen-pruefen",
+      "request": "Ein Gesellschafter mit 8 Prozent meldet ein Darlehen an und behauptet, nie Geschäftsführer gewesen zu sein. Ein Protokoll nennt ihn operativen Geschäftsführer; Organunterlagen fehlen. Ein Nachrangaufruf ist nicht belegt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Darlehensbestand, Beteiligung, Geschäftsführung und Kleinbeteiligtenprivileg getrennt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Leitet weder aus der Quote allein das Privileg noch aus der Funktionsbezeichnung allein dessen Ausschluss ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Hält Rang und Anmeldeweg offen und fordert gezielt Gesellschafterlisten, Organstand und Funktionsklärung an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verspaetung-mit-pruefungswiderspruch",
+      "target_skill": "verspaetete-anmeldungen-und-termine-bearbeiten",
+      "request": "Anmeldefrist war 14.08.2026, Eingang einer belegten Forderung am 09.09.2026, Prüfungstermin am 15.09.2026. Am 12.09.2026 widerspricht ein Insolvenzgläubiger ausdrücklich der Prüfung im allgemeinen Termin.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt die verspätete Anmeldung nicht als Forderungsausschluss.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Prüfungswiderspruch nach Paragraf 177 vom materiellen Bestreiten der Forderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Hält materiellen Prüfstatus und gerichtlichen Folgeweg getrennt und formuliert ein vollständiges Informationsschreiben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitnehmer-sammelanmeldung",
+      "target_skill": "anmeldung-und-glaeubiger-klaeren",
+      "request": "Die Bundesagentur meldet 186540 EUR übergegangenes Insolvenzgeld für 24 Beschäftigte für April bis Juni 2026 an. Beigefügt sind Gesamtsumme und Leistungsbescheid, aber keine Namen, Monatsbruttobeträge oder Einzelzeiträume.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet BAG 6 AZR 32/24 innerhalb seiner ausgewiesenen Grenzen an und verlangt Personen-, Monats- und Bruttozuordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ergänzt den Anmeldeinhalt nicht stillschweigend aus dem Sonderwissen der Verwaltung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Rechtsübergang und mögliche Doppelanmeldungen monats- und anspruchsteilbezogen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "steuerforderung-aenderung-zahlung",
+      "target_skill": "zahlungen-zinsen-und-kosten-pruefen",
+      "request": "Das Finanzamt meldet 91240 EUR für mehrere Steuerzeiträume an. Für eine Position liegt erst ein Bescheid über 28000 EUR, dann eine Änderung auf 24500 EUR vor. Eine Zahlung über 8000 EUR mit passendem Kassenzeichen ist im Rückstandsausweis nicht erkennbar.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gleicht Steuerart, Zeitraum, Bescheidstand, Zahlung und deren mögliche Vorverarbeitung positionsbezogen ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Vermeidet Doppelabzug von Änderungsbetrag und Zahlung und bestreitet nicht pauschal alle Steuerpositionen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert einen aktuellen Rückstandsausweis mit Verbuchungsnachweis an und beziffert nur die tatsächlich offene Differenz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laufende-miete-gemischt",
+      "target_skill": "insolvenz-und-masseforderungen-trennen",
+      "request": "Die Vermieterin meldet bei Eröffnung am 01.07.2026 um 08:00 Uhr drei Monatsmieten von je 9000 EUR für Juni, Juli und August als eine Insolvenzforderung an. Das Mietverhältnis läuft fort.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet jede Mietperiode anhand Paragrafen 38, 55 und 108 InsO gesondert zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Leitet die Anspruchsart weder aus Rechnungsdatum noch allein aus dem gemeinsamen Vertrag ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt getrennte Tabellen- und Masseprüfwege, ohne die Umleitung als Anerkennung oder Auszahlung darzustellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deliktsattribut-ohne-tatsachen",
+      "target_skill": "bestreiten-titel-und-feststellung-bearbeiten",
+      "request": "In einer Verbraucherinsolvenz sind 12000 EUR aus Darlehen mit Vollstreckungsbescheid angemeldet. Zusätzlich ist vorsätzliche unerlaubte Handlung angekreuzt, ohne Tatsachen; der Schuldner widerspricht nur diesem Attribut.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt vertragliche Forderung, Deliktssachverhalt, Titelumfang und Schuldnerwiderspruch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet BGH IX ZB 56/22 auf den besonderen Rechtsgrund an und behandelt das Kästchen nicht als Tatsachenvortrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfasst den Attributswiderspruch weder als Verwalterwiderspruch noch als Bestreiten der gesamten Hauptforderung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titel-gegen-andere-person",
+      "target_skill": "bestreiten-titel-und-feststellung-bearbeiten",
+      "request": "Eine Gläubiger-GmbH meldet 48000 EUR Lieferforderung gegen die schuldnerische Kaufhaus GmbH an. Als Titel legt sie ein Urteil über 20000 EUR persönlichen Schadensersatz gegen den früheren Geschäftsführer vor; Rechnungen und Empfangsbestätigung gegen die GmbH liegen gesondert vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gleicht Parteien, Tenor und Streitgegenstand ab und behandelt den Titel gegen den Geschäftsführer nicht als Titel gegen die GmbH.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die vertragliche Lieferforderung anhand ihrer eigenen Belege, statt sie wegen des unpassenden Titels zu verwerfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Kennzeichnet die Titelwirkung als nicht belegt und leitet Paragraf 179 Absatz 2 InsO für die Tabellenforderung nicht allein aus diesem Urteil ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "method": "desk_review",
     "files": [
       "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
@@ -513,38 +927,40 @@
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "method": "desk_review",
     "opening_modes": [
-      "Vorhandene Beschlüsse und Anmeldungen zuerst lesen.",
-      "Bei unbekanntem Auftrag gewünschtes Prüflos und Stichtag klären.",
-      "Bei Terminproblemen Anmelde-, Prüfungs- und Verteilungsphase trennen."
+      "Gesamtes Prüflos bearbeiten.",
+      "Benannten Einzeleingang prüfen.",
+      "Nur Korrespondenz entwerfen.",
+      "Vorhandenen Tabellenstand kontrollieren."
     ],
-    "continuation": "Neue Belege ändern nur betroffene Forderungspositionen; frühere Prüfstände und stabile Kennungen bleiben nachvollziehbar.",
-    "enrichment": "Fünf unterschiedliche Anmeldetypen mit getrennten Vorschlägen, Nachreichungen, Titelumfang, Geschäftsführerbehauptung und Schuldnerwiderspruch; Anschluss an Gesamtakten ohne automatische Tabellenfeststellung.",
-    "limits": "Keine automatische Anerkennung, gerichtliche Feststellung oder Übermittlung."
+    "continuation": "Neue Belege werden unter derselben Kennung nur den betroffenen Anspruchsteilen zugeordnet; frühere Stände und tatsächliche Widersprüche bleiben erhalten.",
+    "enrichment": "Vierzehn unterschiedliche Prüffälle mit vollständigen Status- und Tabellenfolgen sowie vier ausformulierte Briefe.",
+    "limits": "Keine automatische Anerkennung, gerichtliche Feststellung, Einreichung oder Übermittlung; redaktionelle Fälle ersetzen keine Originalbelege."
   },
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gezielte Ergänzung um die fünf unterschiedlichen Anmeldungen und das Anschlussrouting zur Insolvenzsachbearbeitung. Der vorhandene Forderungsworkflow bleibt erhalten. Neue amtliche Anker wurden in ihren ausgewiesenen Grenzen gelesen; kein behaupteter Modelllauf.",
+    "reason": "Workflow und Fallbreite am 22.10.2026 erweitert: klare Modusfrage nur bei offenem Auftrag, sieben getrennte Bearbeitungsstände, gezielte Fortsetzung nach Nachreichung und vierzehn konkrete Prüffälle. Vorhandene amtlich verifizierte Norm- und Entscheidungsanker bleiben innerhalb ihrer dokumentierten Grenzen.",
     "changes": [
-      "Belegmangel, Individualisierung, Titelumfang und Teilbestreiten getrennt.",
-      "Schuldnerwiderspruch und fehlender §-302-Automatismus für GmbH berücksichtigt.",
-      "Gesamtakten an Insolvenzsachbearbeitung angeschlossen."
+      "Dialog- und Statusschleife präzisiert.",
+      "Vierzehn unterschiedliche Prüffälle samt Tabellenfolge eingebunden.",
+      "Sammelanmeldung, Teil-Titel, Sicherheiten, Rang, Verspätung und gemischte Anspruchsart deutlicher getrennt."
     ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "74cb0b1af82114e04adf1b7d5fefa162bcfb4bdd3bb42e4916e898488c7378a6"
+    "reviewed_on": "2026-10-22",
+    "sha256": "5583ac2439646d8ab21705291f04df93e7c390dbb15cb428cc8f56ceaaf5a6ea"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Ergänzung um die fünf unterschiedlichen Anmeldungen und das Anschlussrouting zur Insolvenzsachbearbeitung. Der vorhandene Forderungsworkflow bleibt erhalten. Neue amtliche Anker wurden in ihren ausgewiesenen Grenzen gelesen; kein behaupteter Modelllauf.",
+    "reason": "Werkstatt am 22.10.2026 um eine durchgehende Bearbeitungsschleife, vierzehn fachlich unterschiedliche Prüffälle, vier ausformulierte Musterbriefe und einen entscheidungsorientierten Sprechgang erweitert. Keine neue unbestätigte Rechtsprechung ergänzt.",
     "changes": [
-      "Belegmangel, Individualisierung, Titelumfang und Teilbestreiten getrennt.",
-      "Schuldnerwiderspruch und fehlender §-302-Automatismus für GmbH berücksichtigt.",
-      "Gesamtakten an Insolvenzsachbearbeitung angeschlossen."
+      "Sieben Statusstufen und fortlaufende Kennung nach Nachreichungen.",
+      "Vierzehn Fälle mit Eingangslage, Prüfung, Ergebnisstatus und Tabellenfolge.",
+      "Ausformulierte Schreiben für Beleglücke, Rang, Sicherheit und Verspätung.",
+      "Übergabe spricht entscheidungsreife, formell offene und materiell offene Positionen getrennt an."
     ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "aa080e07006c2bb153f167c4fbe144d6b9c0a7fbb47a268d13de86a75bb793c4"
+    "reviewed_on": "2026-10-22",
+    "sha256": "a4aafa388e0ef02533d7a0fa5aa5454909be56122f59c80a241f48f97b03fab2"
   },
   "prompt_opening_review": {
     "date": "2026-10-16",

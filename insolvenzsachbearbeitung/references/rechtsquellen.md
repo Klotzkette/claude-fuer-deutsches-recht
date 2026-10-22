@@ -2,7 +2,7 @@
 
 ## 1. Auftrag, Abruf und Aussagegrenzen
 
-Recherchestand und Abrufdatum: **21.10.2026**. Geprüft wurden die nachfolgend einzeln benannten amtlichen Normtexte und die angegebenen Teile der amtlichen Entscheidungs-Volltexte. Die Prüfung unterstützt das Plugin `insolvenzsachbearbeitung`, den `insolvenzforderungen-checker` und die Verbraucherinsolvenz-Prompts. Sie ersetzt keine Prüfung des konkreten gerichtlichen Beschlusses, des Vertragstextes oder der vollständigen Anmeldung.
+Recherchestand und letztes Abrufdatum: **22.10.2026**. Geprüft wurden die nachfolgend einzeln benannten amtlichen Normtexte und die angegebenen Teile der amtlichen Entscheidungs-Volltexte. Die Prüfung unterstützt das Plugin `insolvenzsachbearbeitung`, den `insolvenzforderungen-checker` und die Verbraucherinsolvenz-Prompts. Sie ersetzt keine Prüfung des konkreten gerichtlichen Beschlusses, des Vertragstextes oder der vollständigen Anmeldung.
 
 Die BGH-PDFs wurden unmittelbar von `bundesgerichtshof.de` abgerufen und ihr Text extrahiert. Die angegebenen Randnummern beziehungsweise gedruckten Seiten wurden gelesen. Bei BAG 6 AZR 32/24 wurde der amtliche HTML-Volltext gelesen; der zusätzliche PDF-Abruf lieferte keinen verwertbaren Text. Ein Suchtreffer oder ein technisch erreichbarer Link wurde nicht als Volltextprüfung behandelt. Abrufversuche auf alten juris-Adressen führten teilweise nur zur Suchseite. Bei mehreren Entscheidungen existieren verschiedene Dateien unter demselben Aktenzeichen: Die unten angegebenen Suffixe sind wesentlich.
 
@@ -87,7 +87,7 @@ Zusätzlich wurden [§ 88 InsO](https://www.gesetze-im-internet.de/inso/__88.htm
 
 ## 4. Entscheidungsanker mit Tragweite und Grenze
 
-Alle folgenden Abrufe und Lektüren erfolgten am **21.10.2026**. Die Reihenfolge folgt den Arbeitsproblemen.
+Die Entscheidungen 4.1 bis 4.16 wurden am **21.10.2026**, die Entscheidungen 4.17 bis 4.22 am **22.10.2026** im amtlichen Volltext gelesen. Die Reihenfolge folgt den Arbeitsproblemen.
 
 ### 4.1. Schwache vorläufige Verwaltung und Masse
 
@@ -217,6 +217,68 @@ Alle folgenden Abrufe und Lektüren erfolgten am **21.10.2026**. Die Reihenfolge
 
 **Trägt nicht:** Jede Tabellenfeststellung sei wirkungslos oder dürfe beliebig ignoriert werden. Die Entscheidung beseitigt die Wirkung des § 178 Absatz 3 InsO in seinem gesetzlichen Anwendungsbereich nicht und entscheidet nicht allgemein über Rückforderung, Bereicherung, Anrechnung oder sämtliche Verteilungsfolgen einer fehlerhaften Behandlung.
 
+### 4.17. Aktuelle Bestätigung 2026: Anmelden, prüfen, bestreiten und Identität wahren
+
+**BAG, Urteil vom 19.02.2026 – Az. 6 AZR 102/25, Rn. 15 bis 18**, [amtlicher HTML-Volltext](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-102-25/). Diese Randnummern wurden am 22.10.2026 gelesen.
+
+**Trägt:** Rn. 17 bestätigt die vollständige Verfahrenskette als Sachurteilsvoraussetzung: ordnungsgemäße Anmeldung, Prüfung und fortbestehendes Bestreiten. Nach § 181 InsO dürfen Grund, Betrag und Rang im Feststellungsprozess nicht gegenüber Anmeldung oder Prüfungstermin wechseln. Der angemeldete Sachverhalt bestimmt den Prüfungs- und Rechtskraftumfang. Rn. 18 zeigt die Aktenkontrolle am konkreten Fall: Anmeldung, spätere betragsmäßige Korrektur, Bestreiten und in der Tabelle dokumentiertes Prüfungsergebnis müssen zusammenpassen.
+
+**Trägt nicht:** Eine formal ordnungsgemäße und geprüfte Anmeldung beweise den materiellen Anspruch. Die Hauptentscheidung betrifft außerdem die Prozessführungsbefugnis für einen besonderen konzernrechtlichen Haftungsanspruch; daraus folgt keine allgemeine Übertragung von § 93 InsO auf gewöhnliche Liefer-, Lohn- oder Darlehensforderungen.
+
+### 4.18. Anmeldung, Titel und Schuldnerwiderspruch
+
+**BGH, Urteil vom 23.07.2024 – Az. II ZR 222/22, Rn. 17 bis 29, insbesondere Rn. 17 bis 26 und 28**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_222-22.pdf?__blob=publicationFile&v=1). Diese Randnummern und der amtliche Leitsatz wurden am 22.10.2026 gelesen.
+
+**Trägt:** Auch bei einem bereits titulierten Anspruch und einem Schuldnerwiderspruch setzt die Aufnahme des unterbrochenen Rechtsstreits eine wirksame Anmeldung voraus. Rn. 23 trennt die mit dem Titel verbundene Verfolgungslast von der vorgelagerten Anmeldung. Rn. 26 verlangt bei einer Sammelanmeldung die jeweils bestimmte Zuordnung von Grund und Betrag. Rn. 28 stellt klar, dass die Eintragung durch den Verwalter einen Anmeldemangel nicht heilt.
+
+**Trägt nicht:** Jeder Titel ersetze Anmeldung oder Prüfung; jede Zusammenfassung mehrerer Ansprüche sei unwirksam; jede betragsmäßige Abweichung sei unbehebbar. Im entschiedenen Fall ließen sich fünf Vertragskomplexe und widersprüchliche Summen gerade nicht hinreichend zuordnen.
+
+### 4.19. Hauptforderung, Zinsen und Kosten sind eigene Anmeldepositionen
+
+**BGH, Urteil vom 23.07.2024 – Az. II ZR 206/22, Rn. 23 bis 40 und 43 bis 48**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR_206-22.pdf?__blob=publicationFile&v=1). Diese Randnummern und die Leitsätze wurden am 22.10.2026 gelesen.
+
+**Trägt:** Eine Forderungsanmeldung muss Hauptforderung, Kosten und bis zur Eröffnung aufgelaufene Zinsen getrennt ausweisen; für Zinsen sind Beginn und Satz anzugeben. Nicht auf Geld gerichtete oder unbestimmte Ansprüche sind nach § 45 Satz 1 InsO auf den Eröffnungszeitpunkt zu schätzen. Die Anmeldung der Hauptforderung erfasste im entschiedenen Fall weder Verzugszinsen noch vorgerichtliche Rechtsanwaltskosten, weil Betrag und Lebenssachverhalt hierfür fehlten. Die Teilaufnahme nur wegen der angemeldeten Hauptforderung blieb unter den besonderen Umständen zulässig.
+
+**Trägt nicht:** Nebenforderungen seien stets automatisch in der Hauptsumme enthalten; jede teilweise Anmeldung ziehe zwingend den ganzen unterbrochenen Prozess nach sich; vorgerichtliche Kosten seien ohne Angabe ihrer Entstehung prüffähig. Die prozessuale Ausnahme zur Teilaufnahme ersetzt keine ordnungsgemäße Anmeldung der ausgelassenen Nebenforderung.
+
+### 4.20. Forderungsklasse und Zulässigkeit der Tabellenfeststellungsklage
+
+**BGH, Urteil vom 13.11.2025 – Az. IX ZR 127/24, Rn. 27 bis 38, insbesondere Rn. 31 bis 34**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_127-24.pdf?__blob=publicationFile&v=1). Diese Randnummern und die amtlichen Leitsätze wurden am 22.10.2026 gelesen.
+
+**Trägt:** Anmeldung, Prüfung und fortbestehendes Bestreiten sowie die Identität von Grund, Betrag und Rang nach § 181 InsO sind Zulässigkeitsvoraussetzungen der Tabellenfeststellungsklage. Ob der Anspruch materiell eine Insolvenzforderung ist, betrifft demgegenüber die Begründetheit. Die Forderungsklasse ist damit fachlich zu prüfen, ohne sie mit der formellen Zulässigkeitskontrolle zu vermischen. Nachrangige Insolvenzforderungen können ohne besondere gerichtliche Aufforderung nach § 174 Absatz 3 nicht zur Tabelle festgestellt werden.
+
+**Trägt nicht:** Eine materiell falsche Klassifizierung könne allein als Formmangel erledigt oder von der Sachbearbeitung ohne Widerspruchs- und Prüfpfad korrigiert werden. Die Entscheidung betrifft spezielle kapitalmarktrechtliche Aktionärsansprüche und trägt keine pauschale Nachrangbehandlung anderer Forderungen.
+
+### 4.21. Absonderungsrecht, voller Anmeldebetrag und Ausfall
+
+**BGH, Urteil vom 09.03.2017 – Az. IX ZR 177/15, Rn. 15 bis 17**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2015/IX_ZR_177-15.pdf?__blob=publicationFile&v=1). Diese Randnummern und die amtlichen Leitsätze wurden am 22.10.2026 gelesen.
+
+**Trägt:** Ein absonderungsberechtigter Gläubiger darf zunächst die volle persönliche Forderung anmelden und feststellen lassen. Die Beschränkung auf den Ausfall wird erst bei der Verteilung nach § 190 InsO praktisch. Die vorbehaltlose Anmeldung bewirkt keinen stillschweigenden Verzicht auf das Absonderungsrecht. In Eigenverwaltung ist ein materieller Verzicht gegenüber dem Schuldner zu erklären; er kann nur anerkannt werden, wenn der belastete Gegenstand dadurch für die Masse frei wird.
+
+**Trägt nicht:** Der Gläubiger dürfe doppelt befriedigt werden oder ein Sicherungserlös müsse bei der Verteilung unberücksichtigt bleiben. Ebenso wenig beweist die Anmeldung den Bestand der Sicherheit. Gegenstand, Sicherungsvertrag, persönliche Haftung, Verwertung, Erlös, Ausfall und ein ausdrücklicher Verzicht bleiben getrennte Prüffelder.
+
+### 4.22. Entstehungszeitpunkt, Masseforderung und notwendige Anmeldung
+
+**BGH, Teilversäumnis- und Schlussurteil vom 31.07.2025 – Az. I ZR 127/24, Rn. 39 bis 44, 52 bis 53, 64 und 74 bis 75**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR_127-24.pdf?__blob=publicationFile&v=1). Diese Randnummern und die amtlichen Leitsätze wurden am 22.10.2026 gelesen.
+
+**Trägt:** Ansprüche aus Vorgängen vor und nach Eröffnung sind nach Entstehungsgrund und Zeitraum zu trennen. Im entschiedenen Eigenverwaltungsfall waren Ansprüche wegen Handlungen vor Eröffnung Insolvenzforderungen und mussten angemeldet und geprüft werden; Ansprüche wegen Handlungen nach Eröffnung konnten Masseverbindlichkeiten sein. Eine nicht angemeldete Insolvenzforderung ließ sich nicht durch Prozessaufnahme umgehen. Nach Anzeige der Masseunzulänglichkeit gelten für Altmasseforderungen zusätzliche Grenzen nach §§ 209, 210 InsO.
+
+**Trägt nicht:** Jede nach Eröffnung fakturierte oder fällig werdende Forderung sei Masse; jede nach Eröffnung begangene Handlung erzeuge unabhängig von § 55 InsO eine Masseverbindlichkeit; alle Prozesskosten seien stets Masse. Die Entscheidung betrifft einen besonderen Schutzrechtsprozess und verlangt gerade die getrennte Prüfung der einzelnen Ansprüche.
+
+### 4.23. Rechtsprechungsgang und Arbeitsfolge
+
+Die Entscheidungen bilden keinen austauschbaren Zitatblock, sondern eine fortentwickelte Prüfkette:
+
+1. BGH, Urteil vom 25.06.2020 – IX ZR 47/19, trennt Individualisierung von Schlüssigkeit und materiellem Beweis.
+2. BGH, Urteile vom 23.07.2024 – II ZR 222/22 und II ZR 206/22, konkretisieren für unterbrochene Prozesse die zwingende Anmeldung, die Grenze bei Sammelanmeldungen sowie die getrennte Anmeldung von Hauptforderung, Zinsen und Kosten.
+3. BGH, Urteil vom 19.12.2024 – IX ZR 114/23, schärft die Identität von Anmelder, Forderungsinhaber und geprüftem Gegenstand bei Rückabtretung.
+4. BAG, Urteil vom 20.02.2025 – 6 AZR 32/24, überträgt die Bestimmtheitskontrolle auf eine Sammelanmeldung übergegangener Arbeitnehmeransprüche und verneint eine Heilung allein durch späteres Sonderwissen.
+5. BGH, Urteil vom 13.11.2025 – IX ZR 127/24, trennt die Zulässigkeitsvoraussetzungen von der materiellen Einordnung der Forderungsklasse.
+6. BAG, Urteil vom 19.02.2026 – 6 AZR 102/25, bestätigt diese Kette aktuell und hebt die Identität nach § 181 InsO sowie den Prüfungs- und Rechtskraftumfang des angemeldeten Sachverhalts hervor.
+7. BGH, Urteil vom 18.06.2026 – IX ZR 149/25, ergänzt für die Tabellenpraxis, dass eine fehlerhafte Behandlung die materielle Forderungsart nicht ändert.
+
+Der Sachbearbeitungsablauf lautet deshalb: erst Anmeldegegenstand und Gläubiger identifizieren, dann Beträge und Nebenforderungen aufgliedern, anschließend Forderungsart und Rang materiell prüfen, danach Prüfung und Widerspruch dokumentieren und erst zuletzt Tabellenstatus, Prozessroute und Verteilungsfolge bestimmen.
+
 ## 5. Sachverhaltsbezogene Verwendung und nicht zu erzwingende Anker
 
 Für einen Warenfall mit Bestellung eines schwachen Verwalters am 08.09.2026 und Eröffnung am 01.10.2026 sind Bestellung, gerichtliche Einzelermächtigung, Warenlieferung, etwaiger Widerruf, Verkauf, Erlöseingang und Eröffnung getrennt zu datieren. Die 25.000-Euro-Lieferung ist anhand Vertrag/AGB und konkreter Bestände als Kauf oder Kommission zu prüfen; Umfang der Bestellung und Sicherungsklausel dürfen nicht aus einer Buchungsbezeichnung abgeleitet werden. Die Anker 4.1 bis 4.5 passen dazu.
@@ -229,6 +291,6 @@ IX ZR 191/11 betrifft den Nachrang atypisch stiller Beteiligungen und ist kein L
 
 ## 6. Nachweisumfang und Weiterverwendung
 
-Das Paket enthält 16 sachbezogene Entscheidungsanker, darunter die vollständig an den genannten Stellen gelesenen Entscheidungen von 2025 und 2026. Nicht jeder Skill benötigt alle Anker. Ein Skill verwendet die Quelle nur bei passendem Sachverhalt und nennt die Aussagegrenze im gleichen Arbeitsprodukt. Normenlisten sind keine Behauptung, jede nur benachbarte Norm oder jedes Übergangsrecht vollständig geprüft zu haben. Bei Altfällen sind Antragstag, Eröffnungstag und maßgebliche Übergangsregel erneut festzustellen.
+Das Paket enthält 22 sachbezogene Entscheidungsanker, darunter die an den jeweils genannten Stellen gelesenen Entscheidungen von 2025 und 2026. Nicht jeder Skill benötigt alle Anker. Ein Skill verwendet die Quelle nur bei passendem Sachverhalt und nennt die Aussagegrenze im gleichen Arbeitsprodukt. Normenlisten sind keine Behauptung, jede nur benachbarte Norm oder jedes Übergangsrecht vollständig geprüft zu haben. Bei Altfällen sind Antragstag, Eröffnungstag und maßgebliche Übergangsregel erneut festzustellen.
 
 Die Arbeitsprodukte bleiben ausformuliert. Bei einem späteren Dokumentexport gilt der Repository-Standard: Times New Roman, 11 pt und dezimale Gliederung. Dieses Markdown-Protokoll behauptet keine erzeugte DOCX- oder PDF-Formatierung.

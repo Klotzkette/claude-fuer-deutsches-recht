@@ -18,7 +18,7 @@ from testakte_disclaimer import NOTICE_BYTES, NOTICE_MARKDOWN
 from testakte_office_pdf import render_office_batch
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'scripts/data/insolvenzsachbearbeitung-betriebsakten.json'
-TAG='insolvenzsachbearbeitung-v1.0.0'
+TAG='insolvenzsachbearbeitung-v1.1.0'
 BASE=f'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}'
 SLUGS={'insolvenzsachbearbeitung-kaufhaus-katzenbogen-muenchen','insolvenzsachbearbeitung-werkzeugkiste-augsburg','insolvenzsachbearbeitung-cafe-abendrot-regensburg'}
 def helper():

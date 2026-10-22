@@ -25,8 +25,8 @@ Alle Personen, Unternehmen, Geschäftsadressen, Aktenzeichen und Kontakte sind e
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/insolvenzsachbearbeitung-familie-haberlein-nuernberg_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-familie-haberlein-nuernberg-einzelpdfs.zip) |
-| Akten-ZIP | [Word, Excel, PDF, EML und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.0.0/testakte-insolvenzsachbearbeitung-familie-haberlein-nuernberg.zip) |
+| Einzel-PDF-ZIP | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-familie-haberlein-nuernberg-einzelpdfs.zip) |
+| Akten-ZIP | [Word, Excel, PDF, EML und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzsachbearbeitung-v1.1.0/testakte-insolvenzsachbearbeitung-familie-haberlein-nuernberg.zip) |
 
 Die ZIPs sind flach und enthalten jeweils 36 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Das Original-ZIP enthält keine Markdown-Dateien und kein Gesamt-PDF. Die PDF-Lesefassungen geben jede Originaldatei einmal wieder; eingebettete E-Mail-Anlagen werden dabei nicht doppelt gezählt.
 
@@ -73,4 +73,4 @@ Die ZIPs sind flach und enthalten jeweils 36 Unterlagen sowie README.txt mit dem
 | `35_Versicherungsuebersicht.pdf` | Versicherungsbestand und Beitrag | 1 |
 | `36_Verwaltung_Unterlagen.docx` | Bitte um ergänzende Unterlagen im Verfahren Fridolin Haberlein | 1 |
 
-Komponentenrelease `insolvenzsachbearbeitung-v1.0.0`.
+Komponentenrelease `insolvenzsachbearbeitung-v1.1.0`.
