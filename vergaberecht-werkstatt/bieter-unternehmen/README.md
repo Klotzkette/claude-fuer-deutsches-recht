@@ -42,7 +42,6 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-bieter.md) | [`vergaberecht-arbeitsprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-bieter.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-bieter.md) | [`vergaberecht-kurzprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-bieter.md) |
 | Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/bieter-unternehmen.md) | [`bieter-unternehmen-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
-| Ausführlicher Testakten-Prompt | [Megaprompt](../testakten/megaprompts/bieter-unternehmen.md) | [Raw Markdown](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md) |
 
 </details>
 
@@ -135,6 +134,18 @@ Begrenzter Normabgleich am 16.10.2026: [160 GWB](https://www.gesetze-im-internet
 - EuGH 24.10.2018 — C-124/17 "Vossloh Laeis" — Selbstreinigung.
 - BGH 08.12.2020 — XIII ZR 19/19 — Schadensersatz vergaberechtswidrige Aufhebung.
 - OLG-Vergabesenate für 160 Abs. 3 GWB Präklusion (st. Rspr.).
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Ergänzender Werkstatt-Gesamtprompt
+
+Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
+
+| Datei | Ansehen | Rohdatei |
+| --- | --- | --- |
+| Werkstatt-Gesamtprompt (119 KB) | [`testakten/megaprompts/bieter-unternehmen.md`](../testakten/megaprompts/bieter-unternehmen.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md) |
+
+<!-- END megaprompt-und-vorlagen (autogen) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick

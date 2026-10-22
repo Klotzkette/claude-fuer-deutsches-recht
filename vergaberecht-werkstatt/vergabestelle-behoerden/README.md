@@ -1,5 +1,7 @@
 # vergabestelle-behoerden
 
+Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/vergabestelle-behoerden.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
 
@@ -42,7 +44,6 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-vergabestelle.md) | [`vergaberecht-arbeitsprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-vergabestelle.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-vergabestelle.md) | [`vergaberecht-kurzprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-vergabestelle.md) |
 | Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/vergabestelle-behoerden.md) | [`vergabestelle-behoerden-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
-| Ausführlicher Testakten-Prompt | [Megaprompt](../testakten/megaprompts/vergabestelle-behoerden.md) | [Raw Markdown](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md) |
 
 </details>
 
@@ -64,7 +65,6 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
 <!-- BEGIN output-format-block (autogen) -->
 
 ## Output-Format
@@ -137,6 +137,18 @@ Für neue Verfahren genügt der Fallordner und dieser Satz: `Neuer Vergabestelle
 - BGH 31.01.2017 — X ZB 10/16 — Aufklärung niedriger Angebote.
 - BGH 08.12.2020 — XIII ZR 19/19 — Schadensersatz bei rechtswidriger Aufhebung.
 - BVerfG 13.06.2006 — 1 BvR 1160/03 — Unterschwellenrechtsschutz.
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Ergänzender Werkstatt-Gesamtprompt
+
+Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
+
+| Datei | Ansehen | Rohdatei |
+| --- | --- | --- |
+| Werkstatt-Gesamtprompt (127 KB) | [`testakten/megaprompts/vergabestelle-behoerden.md`](../testakten/megaprompts/vergabestelle-behoerden.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md) |
+
+<!-- END megaprompt-und-vorlagen (autogen) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick

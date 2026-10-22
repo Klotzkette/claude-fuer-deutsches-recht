@@ -572,15 +572,6 @@ def description_with_current_count(description: str, directory: Path) -> str:
 
 def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_count: int) -> str:
     plugin_name = plugin["name"]
-    if plugin_name in PUBLIC_VERGABERECHT_ROLES:
-        readme = directory / "README.md"
-        text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
-        curated = re.search(
-            re.escape(OLD_SOFORT_BEGIN) + r"[\s\S]*?" + re.escape(OLD_SOFORT_END),
-            text,
-        )
-        if curated:
-            return curated.group(0)
     if not standalone_kinds(plugin_name):
         readme = directory / "README.md"
         text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
@@ -772,6 +763,15 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
     original = readme.read_text(encoding="utf-8")
     version = plugin.get("version")
     text = sync_visible_version(original, version) if version else original
+    # Die drei öffentlichen Vergaberechtsrollen werden von ihren eigenen
+    # Generatoren gepflegt. Ihre Start-, Gesamtprompt- und Skillblöcke bilden
+    # zusammen eine geprüfte Navigation und dürfen hier nicht vereinheitlicht
+    # oder teilweise entfernt werden.
+    if name in PUBLIC_VERGABERECHT_ROLES:
+        if text != original:
+            readme.write_text(text, encoding="utf-8")
+            return "UPDATED"
+        return "UNCHANGED"
     if not standalone_kinds(name) and text.count(BEGIN) == 1 and text.count(END) == 1 and text.index(BEGIN) < text.index(END):
         if text != original:
             readme.write_text(text, encoding="utf-8")

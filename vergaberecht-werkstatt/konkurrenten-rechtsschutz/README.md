@@ -1,5 +1,7 @@
 # konkurrenten-rechtsschutz
 
+Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
+
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 [Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/konkurrenten-rechtsschutz.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
 
@@ -42,7 +44,6 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 | Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-konkurrenten.md) | [`vergaberecht-arbeitsprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-konkurrenten.md) |
 | Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-konkurrenten.md) | [`vergaberecht-kurzprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-konkurrenten.md) |
 | Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/konkurrenten-rechtsschutz.md) | [`konkurrenten-rechtsschutz-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
-| Ausführlicher Testakten-Prompt | [Megaprompt](../testakten/megaprompts/konkurrenten-rechtsschutz.md) | [Raw Markdown](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md) |
 
 </details>
 
@@ -63,7 +64,6 @@ Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin ode
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
 <!-- BEGIN output-format-block (autogen) -->
 
 ## Output-Format
@@ -120,6 +120,18 @@ Für neue Streitfälle genügt der Aktenordner mit dem gewünschten Ziel, etwa: 
 - EuGH 11.09.2014 — C-19/13 "Fastweb" — Unwirksamkeitsausnahme im § 135 GWB-Kontext.
 - EuGH 04.07.2013 — C-100/12 "Fastweb"; EuGH 05.04.2016 — C-689/13 "PFE"; EuGH 21.12.2021 — C-497/20 "Randstad Italia" — effektiver Konkurrentenrechtsschutz.
 - EuGH 16.10.2025 — C-282/24 "Polismyndigheten"; EuGH 29.04.2025 — C-452/23 "Fastned Deutschland"; EuGH 03.02.2022 — C-461/20 "Advania Sverige" — Vertragsänderung, Konzession und Auftragnehmerwechsel.
+
+<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
+## Ergänzender Werkstatt-Gesamtprompt
+
+Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
+
+| Datei | Ansehen | Rohdatei |
+| --- | --- | --- |
+| Werkstatt-Gesamtprompt (108 KB) | [`testakten/megaprompts/konkurrenten-rechtsschutz.md`](../testakten/megaprompts/konkurrenten-rechtsschutz.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md) |
+
+<!-- END megaprompt-und-vorlagen (autogen) -->
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick
