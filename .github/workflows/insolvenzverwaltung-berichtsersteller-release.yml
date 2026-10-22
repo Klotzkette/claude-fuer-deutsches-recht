@@ -62,6 +62,11 @@ jobs:
         run: |
           python3 scripts/build-insolvenzverwaltung-berichtsersteller-release.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
           python3 scripts/test-insolvenzverwaltung-berichtsersteller.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
+          git diff --exit-code -- \
+            testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/gesamt-pdf \
+            testakten/insolvenzverwaltung-nordlicht-handels-kiel/gesamt-pdf \
+            testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/gesamt-pdf \
+            quality/insolvenzverwaltung-berichtsersteller/release-pakete.json
       - name: Geprüfte Pakete sichern
         if: always()
         uses: actions/upload-artifact@v4

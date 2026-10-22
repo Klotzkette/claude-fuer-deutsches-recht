@@ -6,7 +6,6 @@ from __future__ import annotations
 import argparse
 import hashlib
 import importlib.util
-import io
 import json
 from pathlib import Path
 import re
@@ -14,7 +13,7 @@ import shutil
 import subprocess
 import zipfile
 
-from pypdf import PdfReader, PdfWriter
+from pypdf import PdfReader
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
@@ -165,7 +164,7 @@ def write_zip(target: Path, portable: bool) -> None:
             archive.writestr(info, source.read_bytes())
 
 
-def build(destination: Path) -> dict:
+def build(destination: Path, proof: Path | None = None) -> dict:
     if not office_binary():
         raise RuntimeError("LibreOffice fehlt; Office-Unterlagen dürfen nicht nur textuell exportiert werden.")
     destination.mkdir(parents=True, exist_ok=True)
@@ -202,17 +201,15 @@ def build(destination: Path) -> dict:
         for source, _ in pairs:
             if source.suffix.lower() in {".docx", ".xlsx", ".odt"} and not valid_office_container(source):
                 raise ValueError(f"Ungültiges natives Office-Dokument: {source}")
-        individual_path, count = individual.build_single(directory, destination)
-        writer = PdfWriter()
-        with zipfile.ZipFile(individual_path) as archive:
-            for source, arcname in pairs:
-                writer.append(io.BytesIO(archive.read(arcname)), outline_item=source.relative_to(directory).as_posix())
         combined = directory / "gesamt-pdf" / f"{case}_gesamt.pdf"
-        combined.parent.mkdir(parents=True, exist_ok=True)
-        writer.add_metadata({"/Title": f"Testakte {case}", "/Author": "Fiktive Testakte"})
-        writer.write(combined)
+        if not combined.is_file() or not list(PdfReader(combined).pages):
+            raise ValueError(f"Geprüftes Gesamt-PDF fehlt oder ist leer: {combined}")
+        combined_hash = sha(combined)
+        _, count = individual.build_single(directory, destination)
         originals.build_single(directory, destination)
         shutil.copyfile(combined, destination / combined.name)
+        if sha(combined) != combined_hash:
+            raise RuntimeError(f"Releasebau hat das geprüfte Gesamt-PDF verändert: {combined}")
         report["cases"][case] = {"documents": count, "pages": len(PdfReader(combined).pages), "sha256": sha(combined)}
 
     (destination / "quellenabgleich.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -223,14 +220,15 @@ def build(destination: Path) -> dict:
     (destination / "checksums-sha256.txt").write_text("".join(f"{sha(destination / name)}  {name}\n" for name in sorted(actual_without_checksums)), encoding="utf-8")
     if {p.name for p in destination.iterdir()} != asset_names():
         raise ValueError("Endgültige Assetliste weicht ab")
-    proof = ROOT / "quality" / NAME / "release-pakete.json"
-    proof.parent.mkdir(parents=True, exist_ok=True)
-    proof.write_text(json.dumps({**report, "assets": {p.name: {"sha256": sha(p), "size": p.stat().st_size} for p in sorted(destination.iterdir())}}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if proof is not None:
+        proof.parent.mkdir(parents=True, exist_ok=True)
+        proof.write_text(json.dumps({**report, "assets": {p.name: {"sha256": sha(p), "size": p.stat().st_size} for p in sorted(destination.iterdir())}}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return report
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dist", type=Path, required=True)
+    parser.add_argument("--proof", type=Path, help="Optionaler Pfad für den lokalen Paketnachweis")
     args = parser.parse_args()
-    print(json.dumps(build(args.dist.resolve()), ensure_ascii=False, indent=2))
+    print(json.dumps(build(args.dist.resolve(), args.proof.resolve() if args.proof else None), ensure_ascii=False, indent=2))

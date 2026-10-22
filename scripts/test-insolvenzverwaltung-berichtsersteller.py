@@ -143,6 +143,12 @@ class BerichtserstellerTest(unittest.TestCase):
         pairs = document_arcname_pairs(directory)
         self.assertGreaterEqual(len(pairs), 37)
         self.assertEqual(Counter(p.suffix.lower() for p, _ in pairs)[".eml"], 6)
+        manifest = json.loads((ROOT / "quality" / NAME / "mainbogen-akte.json").read_text())
+        for item in manifest["created"]:
+            source = directory / item["path"]
+            self.assertTrue(source.is_file(), item["path"])
+            self.assertEqual(source.stat().st_size, item["size"], item["path"])
+            self.assertEqual(sha(source), item["sha256"], item["path"])
         book = load_workbook(directory / "09_Schlussrechnung_und_Kontenabgleich.xlsx", data_only=False)
         try:
             sheet = book["Abstimmung"]
@@ -255,6 +261,8 @@ class BerichtserstellerTest(unittest.TestCase):
                     self.assertEqual(archive.read(prefix + relative), source.read_bytes())
         for case in CASES:
             directory = ROOT / "testakten" / case
+            combined = directory / "gesamt-pdf" / f"{case}_gesamt.pdf"
+            self.assertEqual((DIST / combined.name).read_bytes(), combined.read_bytes())
             with zipfile.ZipFile(DIST / f"testakte-{case}.zip") as archive:
                 self.assertIsNone(archive.testzip())
                 self.assertTrue(archive.read("README.txt").startswith(NOTICE_BYTES))

@@ -2,6 +2,8 @@
 
 Diese Akte trainiert die Erstellung und Fortschreibung gerichtlicher Zwischenberichte sowie die Erstellung eines prüffähigen Schlussberichts mit Schlussrechnung, Schlussverzeichnis, Quote und Freigabekette. Die abstrakte Gliederungslogik wurde aus einer Praxisvorlage abgeleitet; sämtliche Falldaten und Unterlagen dieser Akte sind neu und frei erfunden.
 
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## 1. Downloads
 
