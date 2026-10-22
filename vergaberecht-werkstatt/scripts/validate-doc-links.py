@@ -111,7 +111,7 @@ def main() -> int:
     repo_resolved = REPO.resolve()
     public_navigation = {
         (REPO.parent / relative).resolve()
-        for relative in ("README.md", "SKILLS.md", "ASSET_INDEX.md", "testakten/README.md",
+        for relative in ("README.md", "SKILLS.md", "ASSET_INDEX.md", "INSTALLATION_EINFACH.md", "testakten/README.md",
                          "skills-index/vergabestelle-behoerden.md", "skills-index/bieter-unternehmen.md",
                          "skills-index/konkurrenten-rechtsschutz.md")
     }

@@ -38,12 +38,12 @@
   },
   "assets": {
     "checksums-sha256.txt": {
-      "sha256": "25d991e96797eb8627d8e7df1740720c1eec1691b8810fa9bdf324054bab8497",
+      "sha256": "f044131a6dbb3963461711e8a31abf60cc20f4fe74f6fe8a6e28412b9d68c949",
       "size": 2224
     },
     "insolvenzverwaltung-berichtsersteller-portable.zip": {
-      "sha256": "aae25fff49b2e2f06db316079ec72a3d7c060d2d3cf6d3d9f67f7979be8d3d65",
-      "size": 90175
+      "sha256": "2cce1f31a16e4634d2d18b13d305740adbbbd36e544ac7544b723927d74886ff",
+      "size": 94373
     },
     "insolvenzverwaltung-berichtsersteller-schnellstart.md": {
       "sha256": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5",
@@ -70,8 +70,8 @@
       "size": 38440
     },
     "insolvenzverwaltung-berichtsersteller.zip": {
-      "sha256": "27f37380df5eb35e72b3241a3b4c45099aa2eaf04acf118e09d46dc49b687571",
-      "size": 87971
+      "sha256": "4ea612c359803921d64cce3292fb07b8da3cb2f13fed8619fdc59fb3314f50c7",
+      "size": 92169
     },
     "insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg_gesamt.pdf": {
       "sha256": "96036882f1bd3bd210e7df4d6194b61cc4814f1a4b56b0702a772eaa4c79d317",

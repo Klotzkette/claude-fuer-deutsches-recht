@@ -97,10 +97,10 @@ def check(dist=None):
     for decision in profile["prompt_editorial_review"]["decisions"]:
         require(decision["url"] in references and decision["limit"], "Quellenzuordnung")
     download_checks = module("validate-testakten-readme-downloads")
+    cases = json.loads((ROOT / "scripts/data/kuendigungsschutz-akten.json").read_text(encoding="utf-8"))
     errors = []
     count = download_checks.validate_download_notices(NAME + "/README.md", (PLUGIN / "README.md").read_text(), errors)
-    require(count == 3 and not errors, f"Downloadhinweise: {errors}")
-    cases = json.loads((ROOT / "scripts/data/kuendigungsschutz-akten.json").read_text(encoding="utf-8"))
+    require(count == len(cases) + 1 and not errors, f"Downloadhinweise: {errors}")
     module("build-kuendigungsschutz-akten").validate_data(cases)
     documents = pages = 0
     for case in cases:
