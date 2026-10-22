@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,11 +31,11 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren` (Akte) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren` (Akte) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-**Arbeitsakte** für das Plugin `insolvenzverwaltung`. Vollständiges Regelinsolvenzverfahren mit vorläufiger Verwaltung, Betriebsfortführung, Eröffnung, Forderungsanmeldungen, Gläubigerausschuss, Anfechtung, § 15b InsO-Analyse, Masseunzulänglichkeitsszenario, Insolvenzplan-Planoption, StaRUG-Alternativroute und Schlussverteilung.
+**Arbeitsakte** für die Plugins [`insolvenzverwaltung-berichtsersteller`](../../insolvenzverwaltung-berichtsersteller/README.md) und [`insolvenzverwaltung`](../../insolvenzverwaltung/README.md). Sie enthält ein vollständiges Regelinsolvenzverfahren mit vorläufiger Verwaltung, Betriebsfortführung, Eröffnung, Forderungsanmeldungen, Gläubigerausschuss, Anfechtung, § 15b InsO-Analyse, Masseunzulänglichkeitsszenario, Insolvenzplan-Planoption, StaRUG-Alternativroute sowie den belegten Weg vom Zwischenbericht bis zur Schlussverteilung.
 
 ---
 
@@ -47,7 +47,7 @@ Im Zuge gestiegener Rohstoffpreise und rückläufiger Auftragseingänge ab dem v
 
 Am **04.05.2026** beantragte die Furnier Nord GmbH (Lüneburg) die Eröffnung des Insolvenzverfahrens wegen offener Lieferforderungen von 186.420 EUR. Das Amtsgericht Stendal bestellte am **06.05.2026** Dr. Nora Westphal zur vorläufigen Insolvenzverwalterin mit allgemeinem Verfügungsverbot (Az. 7 IN 41/26). Dr. Westphal führte den Betrieb kurzfristig fort (bis 20.05.2026), sicherte drei laufende Aufträge und leitete die Insolvenzgeldvorfinanzierung für die 38 Mitarbeiter ein.
 
-Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfungstermin fand am 14.09.2026 statt. Die Verwertung der Maschinen (EML Maschinenhändler GmbH, 237.000 EUR), des Büros/IT (Auktionshaus, 18.400 EUR) und der Lackierkabine (41.000 EUR) sowie der Abschluss eines D&O-Vergleichs (115.000 EUR) und die Durchsetzung von Anfechtungsansprüchen (41.000 EUR) ergaben eine Verteilungsmasse von ca. 289.790 EUR für die ungesicherten Gläubiger. Die erzielte Quote beträgt ca. **18,4 %**. Der Schlusstermin ist für den **15.02.2027** terminiert. Eine Insolvenzplan-Option wurde ernsthaft geprüft, aber mangels Investor und belastbarer Plangrundlage verworfen.
+Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfungstermin fand am 14.09.2026 statt. Die Verwertung der Maschinen (EML Maschinenhändler GmbH, 237.000 EUR), des Büros/IT (Auktionshaus, 18.400 EUR) und der Lackierkabine (41.000 EUR) sowie der Abschluss eines D&O-Vergleichs (115.000 EUR) und die Durchsetzung von Anfechtungsansprüchen (41.000 EUR) ergaben eine Verteilungsmasse von 289.790 EUR für die ungesicherten Gläubiger. Bei festgestellten Forderungen nach § 38 InsO von 862.900 EUR beträgt die Schlussquote **33,583266 %** vor Centausgleich. Der Schlusstermin ist für den **15.02.2027** terminiert. Eine Insolvenzplan-Option wurde ernsthaft geprüft, aber mangels Investor und belastbarer Plangrundlage verworfen.
 
 ---
 
@@ -68,9 +68,10 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | **Eröffnung** | 12.06.2026 |
 | **Insolvenzverwalterin** | Dr. Nora Westphal, Magdeburg |
 | **Insolvenzgrund** | Zahlungsunfähigkeit (§ 17 InsO) |
-| **Anmeldevolumen** | 1.345.800 EUR |
-| **Verteilungsmasse** | ca. 289.790 EUR |
-| **Quote (§ 38 InsO)** | ca. 18,4 % |
+| **Anmeldevolumen einschließlich bestrittener und nachrangiger Positionen** | 1.345.800 EUR |
+| **Festgestellte Verteilungsbasis nach § 38 InsO** | 862.900 EUR |
+| **Verteilungsmasse** | 289.790 EUR |
+| **Quote (§ 38 InsO)** | 33,583266 % vor Centausgleich |
 | **Schlusstermin** | 15.02.2027 (geplant) |
 | **Mitarbeiter** | 38 (bei Antragstellung) |
 | **Hauptgläubiger** | Havelbank eG (480.000 EUR), Arbeitnehmer (236.000 EUR), Furnier Nord GmbH (186.420 EUR) |
@@ -87,12 +88,12 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | [03_schuldnerfragebogen.docx](03_schuldnerfragebogen.docx) | Aufnahme Schuldnerfragebogen: Betrieb, Personal, Banken, Verbindlichkeiten, Aktiva, Buchführung, Eigenverwaltungswunsch |
 | [04_liquiditaetsstatus_bank_opos.csv](04_liquiditaetsstatus_bank_opos.csv) | Wöchentlicher Liquiditätsstatus (April–August 2026); Bankguthaben, fällige Verbindlichkeiten, Lücke |
 | [05_anlageverzeichnis_maschinen.docx](05_anlageverzeichnis_maschinen.docx) | Vollständiges Anlageverzeichnis (Maschinen, Fahrzeuge, Büro/IT) mit Buchwerten, Erlösschätzungen, Sicherheiten |
-| [06_personalliste_insolvenzgeld.csv](06_personalliste_insolvenzgeld.csv) | Alle 38 Mitarbeiter mit Funktion, Lohnrückständen März/April, Fortführungsrelevanz, Kündigungsdatum |
+| [06_personalliste_insolvenzgeld.csv](06_personalliste_insolvenzgeld.csv) | Alle 38 Beschäftigten einschließlich Auszubildender mit Funktion, Lohnrückständen März/April, Fortführungsrelevanz, Kündigungsdatum und Insolvenzgeld-Prüfstatus |
 | [07_kassensturz_betriebsfortfuehrung.docx](07_kassensturz_betriebsfortfuehrung.docx) | Kassensturz 07.05.2026; drei Fortführungsszenarien; Entscheidung und Budget |
 | [08_forderungsanmeldungen_sammelakte.docx](08_forderungsanmeldungen_sammelakte.docx) | Alle 12 angemeldeten Forderungen im Detail; Prüfungsergebnisse; Anfechtungshinweise |
 | [09_tabellenpruefung_stichprobe.csv](09_tabellenpruefung_stichprobe.csv) | Tabellenprüfung aller Gläubiger: festgestellt, bestritten, Belege, Prüferin, Datum |
 | [10_zahlungsverkehr_lieferant_bank_zeitraum.csv](10_zahlungsverkehr_lieferant_bank_zeitraum.csv) | Zahlungsverkehr Lieferant und Bank im kritischen Zeitraum vor Antragstellung (reine Kontobewegungen) |
-| [11_15b_zahlungsanalyse.csv](11_15b_zahlungsanalyse.csv) | Alle 12 Zahlungen ab Insolvenzreife (22.03.2026); Ausnahmen nach § 15b Abs. 2 InsO; Bewertung IV |
+| [11_15b_zahlungsanalyse.csv](11_15b_zahlungsanalyse.csv) | Zahlungen rund um die Insolvenzreife mit beleggenauen Daten; offene Prüfungen nach § 15b InsO sowie klare Trennung der Geschäftsleiterzahlungen von Handlungen der starken vorläufigen Verwalterin |
 | [12_masseverzeichnis_verwertung.docx](12_masseverzeichnis_verwertung.docx) | Freie Masse, Absonderungsgut (§§ 50/51), D&O, Anfechtungen; Verwertungsplan; Masseprognose |
 | [13_masseunzulaenglichkeit_entwurf.docx](13_masseunzulaenglichkeit_entwurf.docx) | Szenario § 208 InsO; Massestand 30.06.2026; Liquiditätslücke; Entscheidung Nicht-Anzeige |
 | [14_sachwalter_eigenverwaltung_notiz.docx](14_sachwalter_eigenverwaltung_notiz.docx) | Aktenvermerk: Eigenverwaltungsantrag geprüft und abgelehnt; Begründung |
@@ -108,8 +109,20 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 | [23_plan_quality_gate.docx](23_plan_quality_gate.docx) | Checkliste Planvorlagebereitschaft; Ergebnis: kein Plan (6 von 6 Formalkriterien nicht erfüllt) |
 | [24_email_furnier_nord_antwort_anfechtung.eml](24_email_furnier_nord_antwort_anfechtung.eml) | Antwort der Furnier Nord GmbH auf das Anfechtungsschreiben: Fristbitte, eigene Sachverhaltsdarstellung, Tabellenfrage |
 | [25_telefonvermerk_havelbank_verwertungserloes.docx](25_telefonvermerk_havelbank_verwertungserloes.docx) | Telefonvermerk mit der Havelbank zu Absonderungserlösen, Kostenbeiträgen und Kontoabwicklung |
+| [26_zwischenbericht_31-10-2026.docx](26_zwischenbericht_31-10-2026.docx) | Fortschreibung nach Verwertung mit getrenntem Sicherheiten- und Freimassepfad |
+| [27_abschlussreife_sachstandsnotiz_15-01-2027.docx](27_abschlussreife_sachstandsnotiz_15-01-2027.docx) | Konten-, Tabellen- und Verwertungsgate vor Einreichung |
+| [28_schlussverzeichnis_20-01-2027.docx](28_schlussverzeichnis_20-01-2027.docx) | Vollständiges Schlussverzeichnis mit centgenauer Auszahlung |
+| [29_freigabevermerk_abschluss_23-01-2027.docx](29_freigabevermerk_abschluss_23-01-2027.docx) | Einreichungsfreigabe mit ausdrücklicher Zahlungssperre |
+| [30_verfuegung_schlussverteilung_29-01-2027.docx](30_verfuegung_schlussverteilung_29-01-2027.docx) | Gerichtliche Zustimmung und Bestimmung des Schlusstermins |
+| [31_vollzugsprotokoll_schlussverteilung_12-03-2027.docx](31_vollzugsprotokoll_schlussverteilung_12-03-2027.docx) | Zahlungsfreigabe, Ausführung und Rückläuferkontrolle |
+| [32_schlussmitteilung_12-03-2027.docx](32_schlussmitteilung_12-03-2027.docx) | Gerichtlicher Vollzugsnachweis und Anregung der Aufhebung |
+| [33_nachtragsverteilung_sachstandsnotiz_30-09-2027.docx](33_nachtragsverteilung_sachstandsnotiz_30-09-2027.docx) | Gesonderter Übungszweig für einen nur möglichen späteren Massezufluss |
+| [34_abschlusskontrolle_schlussrechnung_20-01-2027.xlsx](34_abschlusskontrolle_schlussrechnung_20-01-2027.xlsx) | Bearbeitbare Schlussrechnung, Ausfallermittlung, Quotenrechnung und Freigabematrix |
+| `eml/26_rueckfrage_gericht_sicherheitenfluss.eml` | Gerichtliche Rückfrage zur Geldflussdarstellung des Sicherheitenkontos |
+| `eml/27_antwort_sicherheitenkonto.eml` | Antwort mit Kontenabgleich und Ausfallermittlung |
+| `eml/28_bank_bestaetigung_schlussverteilung.eml` | Bankbestätigung des Zahlungslaufs |
 | [anfechtungsschreiben_furnier_nord.docx](anfechtungsschreiben_furnier_nord.docx) | DOCX-Anfechtungsschreiben an Furnier Nord GmbH (§ 131 InsO) |
-| [bericht_berichtstermin_14092026.docx](bericht_berichtstermin_14092026.docx) | DOCX-Bericht zum Berichts- und Prüfungstermin |
+| [bericht_berichtstermin_14092026.docx](bericht_berichtstermin_14092026.docx) | DOCX-Bericht zum Berichts- und Prüfungstermin mit damaliger, rechnerisch berichtiger Quotenprognose; die spätere Schlussfassung bleibt führend |
 
 ---
 
@@ -125,6 +138,10 @@ Diese Akte deckt den **vollständigen Lebenszyklus eines Regelinsolvenzverfahren
 6. **Masseunzulänglichkeit:** Prüfung § 208 InsO, Befriedigungsrangfolge (§ 209 InsO), Haftungsrisiko IV (§ 61 InsO).
 7. **Insolvenzplan vs. StaRUG:** Vergleichsrechnung, Gruppenbildung (§ 222 InsO), StaRUG-Abgrenzung, Quality-Gate-Prüfung.
 8. **Schlussrechnung:** Masseeinnahmen und -ausgaben, Vergütung IV, Quotenberechnung, Nachtragsverteilung.
+
+## Abschlussworkflow
+
+Der Zwischenbericht vom 31. Oktober 2026 bereitet den Abschluss vor. Die Abschlussreife-Sachstandsnotiz kontrolliert anschließend Verwertung, Konten, Tabelle und Quote. Schlussbericht und Kontrollarbeitsmappe stellen den Sicherheitenzufluss und die Auskehrung an die Havelbank vollständig, aber erfolgsneutral dar; dadurch entsteht keine Doppelbefriedigung. Schlussverzeichnis, Einreichungsfreigabe, gerichtliche Zustimmung, Zahlungslauf und Schlussmitteilung sind voneinander getrennt. Die Nachtragsverteilungs-Sachstandsnotiz ist bewusst nur ein Prüfpfad: Ein bloßer Hinweis auf eine mögliche Erstattung wird weder gebucht noch als Nachtragsmasse behandelt.
 
 ---
 

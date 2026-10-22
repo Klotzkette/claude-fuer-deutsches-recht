@@ -4,7 +4,13 @@ Das Mandat Muster / Seewerk ist in zwei getrennten Fassungen aufgenommen: vorlag
 
 Mündliche Zusatzangaben und verifizierte Quellenkorrekturen sind ausschließlich gesondertes Referentenmaterial. Die Quellenkarte berichtigt insbesondere die europäische Monatsfrist und begrenzt die Übertragung der Entscheidungen zu privatem Kontozugriff, Bonus, Ausschlussfrist und Beschäftigungstitel. Die drei bisherigen kleinen Akten bleiben unverändert. [Releaseumfang und Prüfgrenzen](docs/releases/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0.md).
 
-# 2. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
+# 2. Insolvenzverwaltung Berichtsersteller 1.0.0 vom 22. Oktober 2026
+
+Der neue Zwischen- und Schlussbericht-Ersteller führt zehn Fachskills und einen Hauptskill vom fortlaufenden Sachstandsbericht über Schlussbericht, Schlussrechnung und Schlussverzeichnis bis zu gerichtlichen Freigaben, Schlussverteilung, Aufhebung und Nachtragsverteilung. Werkstatt und Schnellstart verbinden Stichtage, führende Fassungen, Belege, Rechenbrücke und acht menschliche Freigabegates. Amtlich geprüfte Norm- und BGH-Anker werden jeweils mit ihrer Aussagegrenze verwendet.
+
+Die vollständig fiktive Mainbogen-Akte enthält vier Zwischenberichte, zwei Schlussberichtsfassungen, neutrale Word-Vorlagen, rechenfähige Excel-Arbeitsmappen, E-Mails mit echten Anhängen und einen getrennten Nachtragsprüffall. Nordlicht und Möbelwerk Havelberg wurden bis zum Schlussverteilungs- und Nachtragsstadium erweitert. Die historische Nutzervorlage lieferte ausschließlich eine abstrahierte Gliederungslogik; ihre Namen, Daten, Beträge und sonstigen Inhalte wurden nicht übernommen. [Umfang und Prüfgrenzen](docs/releases/insolvenzverwaltung-berichtsersteller-v1.0.0.md).
+
+# 3. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
 
 Zehn Fachskills und ein Hauptskill führen vom Kündigungszugang über die richtige Klage oder Erwiderung bis zu Vergleich, Weiterbeschäftigung und Vergütung. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts enthalten konkrete Frist- und Beteiligungswege sowie eingeordnete BAG-Rechtsprechung einschließlich der Entscheidungen 2026 zu Massenentlassungsanzeigen und zum Zugangsbeweis.
 

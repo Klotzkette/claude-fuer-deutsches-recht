@@ -9,7 +9,7 @@
 
 Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.
 
-Dieses Plugin gehört zum Marketplace mit 309 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -21,7 +21,6 @@ Dieses Plugin gehört zum Marketplace mit 309 Plugins. Für die Installation nim
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/playbook-pruefer.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.txt) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.md) · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.txt) |
-| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.md" download>MD herunterladen / Download MD</a> · [TXT herunterladen / Download TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.txt) |
 | Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
@@ -59,10 +58,9 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`playbook-pruefer.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/playbook-pruefer.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`playbook-pruefer-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.md) · [`playbook-pruefer-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`playbook-pruefer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.md) · [`playbook-pruefer-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.txt) |
-| Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.md" download>playbook-pruefer-hauptproblem.md</a> · [`playbook-pruefer-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 309 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -86,6 +84,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 Verträge anhand der eigenen Verhandlungsstandards prüfen: Themen, Ausgangspositionen, geordnete Rückfälle und rote Linien werden bis auf einzelne Regeln ausgewertet. Jeder Befund erhält einen konkreten Vertragsbeleg; das Ergebnis sind Themenrisiken, ein strukturierter Bericht und bei Auftrag vollständig formulierte Änderungen.
 
 Das Plugin enthält **zehn Fachskills und einen zusätzlichen Hauptskill**. Werkstatt, Mini-Prompt und Hauptproblem-Prompt sind eigenständig nutzbar. Zwei getrennte Testakten enthalten ein NDA beziehungsweise einen Arbeitsvertrag mit dem jeweils eigenen Unternehmensplaybook, mehreren Vertragsständen und Verhandlungsmaterial.
+
+Hauptproblem-Prompt: [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.md) · [Text herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.txt)
 
 <!-- decimal-anchor --> <a id="so-arbeitet-der-playbook-prüfer"></a>
 

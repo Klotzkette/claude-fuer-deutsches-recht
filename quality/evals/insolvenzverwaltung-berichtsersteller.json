@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzverwaltung-berichtsersteller",
+  "reviewed_on": "2026-10-22",
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Der Schnellstart wurde als eigenständiger Workflow geprüft. Er trennt Zwischenbericht, Schlussbericht, Schlussrechnung, Schlussverzeichnis, Verteilung und Nachtragsverteilung, verlangt einen belegten Stichtag und beendet jede Route mit namentlicher menschlicher Freigabe.",
+    "changes": [
+      "Anlass- und Produktwahl vor Textproduktion gesetzt.",
+      "Stichtags-, Versions-, Beleg- und Kontenabgleich eingebaut.",
+      "Abschlussreife, Masseunzulänglichkeit und Nachtragsroute getrennt.",
+      "Ausformulierte Empfängerfassung von interner Prüfnotiz getrennt."
+    ],
+    "sha256": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Der Werkstatt-Prompt wurde mit amtlich geprüften Norm- und BGH-Ankern, vollständiger Delta- und Stichtagslogik, geschlossener Rechenbrücke, besonderen Verfahrenslagen sowie drei konkreten Praxisläufen fachlich redigiert. Die Prüfung war ein Desk Review und kein autonomer Live-Versand.",
+    "changes": [
+      "Aufsichtsbericht, Zwischenrechnung, Schlussbericht, Schlussrechnung und Schlussverzeichnis als getrennte Produkte präzisiert.",
+      "Deltamatrix für fortlaufende Zwischenberichte und Bewegungsketten für Vermögenspositionen ergänzt.",
+      "Rechenbrücke von Bank und Buchhaltung bis Quote und Auszahlung vertieft.",
+      "Masseunzulänglichkeit, Betriebsfortführung, Asset Deal, Mietverhältnis, natürliche Person und Nachtragsverteilung geroutet.",
+      "Empfängerfassung, Anlagenkontrolle, Datenschutz, Statistik und Red-Team-Prüfung ergänzt."
+    ],
+    "sha256": "2f881e0c1a990f087363575b159131dc726d358b4518f43842bf9bb8a68a3b13"
+  },
+  "selection": {
+    "target_skill": "berichtserstellung-steuern",
+    "positive": [
+      "Erstellen Sie aus den vier bisherigen Sachstandsberichten und dem neuen Kontenstand den nächsten Zwischenbericht; zeigen Sie jede Änderung und jeden offenen Beleg.",
+      "Prüfen Sie die Abschlussreife und erstellen Sie Schlussbericht, Schlussrechnung, Schlussverzeichnis und gerichtliches Begleitschreiben als getrennte abgestimmte Produkte.",
+      "Nach Aufhebung ist eine Steuererstattung eingegangen; prüfen und bearbeiten Sie eine mögliche Nachtragsverteilung mit eigener Rechnung."
+    ],
+    "negative": [
+      "Prüfen Sie ausschließlich die Wirksamkeit einer arbeitsrechtlichen Kündigung ohne Bezug zu einem Insolvenzbericht.",
+      "Entwerfen Sie einen Unternehmenskaufvertrag, ohne einen Bericht, eine Rechnung oder eine Verteilungsfrage zu bearbeiten."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__58.html",
+      "checked_on": "2026-10-22",
+      "supports": "Gerichtliche Aufsicht; trägt die Bestimmung des Berichtsadressaten und konkreter gerichtlicher Auskunftsanforderungen, nicht die Gleichsetzung jedes Aufsichtsberichts mit einer Rechnungslegung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__66.html",
+      "checked_on": "2026-10-22",
+      "supports": "Schlussrechnung und Zwischenrechnungslegung; Absatz 3 gibt der Gläubigerversammlung das Recht, zu bestimmten Zeitpunkten eine Zwischenrechnung zu verlangen. Die jederzeitige gerichtliche Auskunfts- und Berichtsanordnung folgt aus Paragraf 58 Absatz 1 InsO."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__69.html",
+      "checked_on": "2026-10-22",
+      "supports": "Überwachung und Prüfung von Geldverkehr und Bestand durch den Gläubigerausschuss; trägt den Beleg- und Kontenabgleich, nicht die Ersetzung gerichtlicher Entscheidungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__79.html",
+      "checked_on": "2026-10-22",
+      "supports": "Berichts- und Auskunftsrechte der Gläubigerversammlung und Prüfung bei fehlendem Ausschuss; trägt die anlassbezogene Berichtsplanung, nicht ein allgemeines Einsichtsrecht außerhalb der Norm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__160.html",
+      "checked_on": "2026-10-22",
+      "supports": "Zustimmung für besonders bedeutsame Rechtshandlungen; trägt die Zustimmungskontrolle bei Unternehmensverkauf, erheblichem Kredit und bedeutsamen Prozessen oder Vergleichen, nicht die pauschale Genehmigungsbedürftigkeit jeder Verwaltungsmaßnahme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/index.html#BJNR286600994BJNE018203307",
+      "checked_on": "2026-10-22",
+      "supports": "Paragrafen 187 bis 195 InsO regeln Verteilungsbeginn, Schlussverzeichnisbezug, bestrittene und gesicherte Forderungen sowie Änderungen; tragen die verfahrensstufenbezogene Verteilungsprüfung, nicht die Auszahlung ohne Zustimmung und Nachweise."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/index.html#BJNR286600994BJNE019103307",
+      "checked_on": "2026-10-22",
+      "supports": "Paragrafen 196 bis 200 InsO regeln Schlussverteilung, Schlusstermin, Hinterlegung, Überschuss und Aufhebung; tragen die Trennung von Zustimmung, Termin, Vollzug und Aufhebung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/index.html#BJNR286600994BJNE019903307",
+      "checked_on": "2026-10-22",
+      "supports": "Paragrafen 203 bis 205 InsO regeln Nachtragsverteilung und ihre Rechnungslegung; tragen einen eigenen Nachtragsvorgang, nicht die rückwirkende Änderung des historischen Schlussberichts."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZB__19-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Beschluss vom 11.11.2021, IX ZB 19/20, Randnummern 12 und 14 bis 21: Schlussrechnung oder Schlusstermin belegen bei fortdauernder wesentlicher Verwertung keine Abschlussreife. Grenze: Nicht jeder unerwartete spätere Zufluss macht den früheren Abschluss fehlerhaft."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZB__16-14.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Beschluss vom 20.11.2014, IX ZB 16/14, Randnummern 11 bis 21: Nach Berichtigung der Masseverbindlichkeiten ist die verwertete Masse grundsätzlich vollständig zu verteilen. Grenze: Keine allgemeine Reserveermächtigung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2015/IX_ZR_177-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Urteil vom 09.03.2017, IX ZR 177/15, Randnummern 15 bis 17: volle Anmeldung und Verteilungsteilnahme eines Absonderungsberechtigten sind zu trennen; Doppelbefriedigung ist ausgeschlossen. Das Erfordernis des nachgewiesenen Ausfalls folgt unmittelbar aus Paragraf 190 Absatz 1 InsO."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB__35-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Beschluss vom 24.03.2022, IX ZB 35/21, Randnummern 7 bis 13: Abschluss nach Masseunzulänglichkeit ist von regulärer Schlussverteilung und förmlichem Schlusstermin zu unterscheiden. Grenze: Keine Einordnung jeder einzelnen Masseverbindlichkeit."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZB___5-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Beschluss vom 26.09.2024, IX ZB 5/24, Randnummern 6 bis 15: Restschuldbefreiung hindert Nachtragsverteilung nicht; Steuererstattungen verlangen eine Prüfung von Entstehungsgrund und Zeitraum. Grenze: Keine pauschale Massezuordnung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZB__13-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "BGH, Beschluss vom 25.09.2025, IX ZB 13/25, Randnummern 7 bis 16 und 20 bis 22: auch ein früher bekannter, tatsächlich nicht verwerteter Massegegenstand kann nachtragsverteilt werden. Grenze: Massezugehörigkeit bleibt zu prüfen."
+    }
+  ],
+  "cases": [
+    {
+      "id": "mainbogen-abschlusslauf",
+      "target_skill": "berichtserstellung-steuern",
+      "request": "Prüfen Sie für die Mainbogen Laborsoftware GmbH anhand der vier Zwischenberichte, Buchhaltung, Bankbestätigung, Vergleichsunterlagen, Forderungstabelle und gerichtlichen Korrespondenz die Abschlussreife. Erstellen Sie getrennt Schlussbericht, Schlussrechnung, Schlussverzeichnis, Quotenrechnung und eine interne Gate-Notiz.",
+      "input_files": [
+        "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/04_Zwischenbericht_2019.docx",
+        "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/07_Zwischenbericht_2025.docx",
+        "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/09_Schlussrechnung_und_Kontenabgleich.xlsx",
+        "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/12_Schlussverzeichnis.xlsx",
+        "testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/28_Bankbestaetigung.pdf"
+      ],
+      "deliverables": [
+        "Schlussbericht.docx",
+        "Schlussrechnung.xlsx",
+        "Schlussverzeichnis.xlsx",
+        "Gate-Notiz.docx"
+      ],
+      "criteria": [
+        {
+          "id": "mainbogen-1",
+          "text": "Trennt Schlussbericht, Schlussrechnung, Schlussverzeichnis, Zustimmung, Auszahlung und Aufhebung als eigene Verfahrensschritte.",
+          "deliverables": [
+            "Schlussbericht.docx",
+            "Schlussrechnung.xlsx",
+            "Schlussverzeichnis.xlsx",
+            "Gate-Notiz.docx"
+          ]
+        },
+        {
+          "id": "mainbogen-2",
+          "text": "Schließt Einnahmen, Ausgaben, Bankbestand, Kostenabzug, Verteilungsbetrag und Quote mit Belegkennungen und identischem Stichtag.",
+          "deliverables": [
+            "Schlussrechnung.xlsx",
+            "Schlussverzeichnis.xlsx"
+          ]
+        },
+        {
+          "id": "mainbogen-3",
+          "text": "Behandelt Asset Deal, Anfechtungs- und Haftungsvergleich, Steuern, Vergütung und offene Restpunkte ausformuliert und ohne erfundene Freigabe.",
+          "deliverables": [
+            "Schlussbericht.docx",
+            "Gate-Notiz.docx"
+          ]
+        },
+        {
+          "id": "mainbogen-4",
+          "text": "Nennt offene Gates, verantwortliche natürliche Person, benötigten Nachweis und nächste Fachroute; keine Maschine erteilt Freigaben.",
+          "deliverables": [
+            "Gate-Notiz.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nordlicht-zwischen-und-nachtrag",
+      "target_skill": "zwischenbericht-erstellen",
+      "request": "Fortschreiben Sie für Nordlicht Handels GmbH den vierzehnten Zwischenbericht zum bezeichneten Stichtag, vergleichen Sie ihn mit den bisherigen Angaben und bereiten Sie nach Abschluss einen getrennten Vorgang für den später eingegangenen Steuerzins vor. Ändern Sie die historische Schlussrechnung nicht rückwirkend.",
+      "input_files": [
+        "testakten/insolvenzverwaltung-nordlicht-handels-kiel/27_zwischenbericht_nr_14_31-12-2023.docx",
+        "testakten/insolvenzverwaltung-nordlicht-handels-kiel/28_schlussrechnung_kontenabstimmung_15-03-2024.xlsx",
+        "testakten/insolvenzverwaltung-nordlicht-handels-kiel/33_nachtragsverteilung_steuerzins_20-10-2024.docx"
+      ],
+      "deliverables": [
+        "Zwischenbericht.docx",
+        "Nachtragsvermerk.docx",
+        "Delta-und-Gate-Notiz.docx"
+      ],
+      "criteria": [
+        {
+          "id": "nordlicht-1",
+          "text": "Zeigt Veränderungen, erledigte und offene Maßnahmen gegenüber dem letzten Bericht in einer nachvollziehbaren Deltalogik.",
+          "deliverables": [
+            "Zwischenbericht.docx",
+            "Delta-und-Gate-Notiz.docx"
+          ]
+        },
+        {
+          "id": "nordlicht-2",
+          "text": "Ordnet den späteren Steuerzins nach Entstehungsgrund, Zeitraum, Massezugehörigkeit, Kosten und gerichtlicher Anordnung; keine pauschale Zuordnung.",
+          "deliverables": [
+            "Nachtragsvermerk.docx"
+          ]
+        },
+        {
+          "id": "nordlicht-3",
+          "text": "Bewahrt historische Fassungen und eröffnet für die Nachtragsfrage eine neue Produktkennung mit eigener menschlicher Freigabe.",
+          "deliverables": [
+            "Nachtragsvermerk.docx",
+            "Delta-und-Gate-Notiz.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "havelberg-schlussverteilung",
+      "target_skill": "schlussverteilung-aufhebung-vorbereiten",
+      "request": "Prüfen Sie beim Möbelwerk Havelberg, ob der langjährige Verfahrensstand den Übergang vom Zwischenbericht zur Schlussverteilung trägt. Gleichen Sie Schlussrechnung und Schlussverzeichnis ab, behandeln Sie Sicherheiten, offene Positionen und gerichtliche Schritte und erstellen Sie eine vollzugsfähige, aber noch nicht versandte Freigabemappe.",
+      "input_files": [
+        "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/26_zwischenbericht_31-10-2026.docx",
+        "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/28_schlussverzeichnis_20-01-2027.docx",
+        "testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/34_abschlusskontrolle_schlussrechnung_20-01-2027.xlsx"
+      ],
+      "deliverables": [
+        "Abschlussreifevermerk.docx",
+        "Freigabemappe.docx",
+        "Verteilungsrechnung.xlsx"
+      ],
+      "criteria": [
+        {
+          "id": "havelberg-1",
+          "text": "Prüft jede wesentliche Restverwertung, jeden Prozess und jede Kontendifferenz; ein roter Befund sperrt die positive Abschlussreife.",
+          "deliverables": [
+            "Abschlussreifevermerk.docx"
+          ]
+        },
+        {
+          "id": "havelberg-2",
+          "text": "Leitet den Verteilungsbetrag und die Forderungsbasis ohne Doppelberücksichtigung gesicherter Forderungen her.",
+          "deliverables": [
+            "Verteilungsrechnung.xlsx"
+          ]
+        },
+        {
+          "id": "havelberg-3",
+          "text": "Trennt interne Freigabe, gerichtliche Zustimmung, Auszahlungsvollzug und Aufhebung; die Mappe behauptet keinen noch nicht belegten Schritt.",
+          "deliverables": [
+            "Freigabemappe.docx",
+            "Abschlussreifevermerk.docx"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-22",
+    "method": "desk_review",
+    "files": [
+      "insolvenzverwaltung-berichtsersteller/README.md",
+      "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.md",
+      "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md",
+      "insolvenzverwaltung-berichtsersteller/references/rechtsquellen.md",
+      "insolvenzverwaltung-berichtsersteller/references/produkte-gates-und-uebergaben.md"
+    ],
+    "opening_change": "Der Berichtsanlass, der konkrete Empfänger und das tatsächlich benötigte Rechtsprodukt werden vor der Textproduktion bestimmt; vorhandene Akte und letzte eingereichte Fassung werden zuerst gelesen.",
+    "norms": [
+      "Paragrafen 58, 66, 69 und 79 InsO",
+      "Paragraf 160 InsO",
+      "Paragrafen 187 bis 200 InsO",
+      "Paragrafen 203 bis 205 InsO",
+      "Paragrafen 208 bis 211 InsO",
+      "Paragraf 4 InsStatG und Paragraf 11a BStatG"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 11.11.2021, IX ZB 19/20, Rn. 12 und 14 bis 21",
+        "application": "Abschlussreife verlangt grundsätzlich beendete Verwaltertätigkeit; laufende wesentliche Verwertung bleibt als Sperre sichtbar.",
+        "limit": "Kein Automatismus, wonach jeder später unerwartete Zufluss den früheren Abschluss fehlerhaft macht.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZB__19-20.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "BGH, Beschluss vom 20.11.2014, IX ZB 16/14, Rn. 11 bis 21",
+        "application": "Verteilungsmasse wird nach konkreten Masseverbindlichkeiten und zulässigen Rückbehalten vollständig hergeleitet.",
+        "limit": "Die besondere Rückstellung des Falls ist keine allgemeine Reserveermächtigung.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZB__16-14.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "BGH, Beschluss vom 24.03.2022, IX ZB 35/21, Rn. 7 bis 13",
+        "application": "Masseunzulänglichkeit erhält eine eigene Abschlussroute außerhalb der regulären Schlussverteilung.",
+        "limit": "Keine pauschale Rangzuordnung jeder einzelnen Verbindlichkeit.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2021/IX_ZB__35-21.pdf?__blob=publicationFile&v=1"
+      }
+    ],
+    "remaining_limits": [
+      "Lokale gerichtliche Verfügungen und Formulare müssen im konkreten Verfahren gelesen werden.",
+      "Steuerliche Einzelfragen richten sich nach Verfahren, Perioden, Bescheiden und aktueller Spezialnorm.",
+      "Desk Review; keine gerichtliche Einreichung, Zahlung oder Live-Ausführung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-22",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leere Eingabe: Berichtstyp, Verfahren, Stichtag und gerichtliche Frist knapp klären.",
+      "Nur Aktenordner: Unterlagen und letzte eingereichte Fassung zuerst lesen, dann lediglich das Ergebnisziel klären.",
+      "Klarer Zwischenberichtsauftrag: Deltamatrix anlegen und Bericht direkt fortschreiben.",
+      "Klarer Abschlussauftrag: Abschlussreifematrix, Rechenabgleich und getrennte Abschlussprodukte erstellen."
+    ],
+    "continuation": "Neue Unterlagen aktualisieren nur die betroffenen Fachmodule und erzeugen eine neue führende Version. Frühere eingereichte Fassungen bleiben unverändert und nachweisbar.",
+    "enrichment": "Drei fiktive Akten erproben fortlaufende Zwischenberichte, langen Abschlusslauf, geschlossene Rechenbrücke, gerichtliche Gates und spätere Nachtragsverteilung.",
+    "limits": "Desk Review; keine autonome Einreichung, gerichtliche Zustimmung, Zahlung, Hinterlegung oder Aufhebung."
+  }
+}

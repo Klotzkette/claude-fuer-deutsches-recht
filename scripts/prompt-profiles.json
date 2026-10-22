@@ -701,6 +701,18 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "insolvenzverwaltung-berichtsersteller": {
+      "standalone": [
+        "werkstatt",
+        "schnellstart"
+      ],
+      "formats": [
+        "md",
+        "txt"
+      ],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }

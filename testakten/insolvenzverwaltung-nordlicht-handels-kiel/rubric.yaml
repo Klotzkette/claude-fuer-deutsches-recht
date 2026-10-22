@@ -1,6 +1,8 @@
 # Strukturelle Baseline-Rubrik. Fallbezogene Inhaltschecks bleiben erhalten.
 name: Insolvenzverwaltung Nordlicht Handels Kiel
-plugin: insolvenzverwaltung
+plugin: insolvenzverwaltung-berichtsersteller
+related_plugins:
+- insolvenzverwaltung
 checks:
 - id: r01-readme-vorhanden
   check_type: file_exists
@@ -14,3 +16,27 @@ checks:
   check_type: working_file_count
   description: Mindestens drei exportierbare Arbeitsunterlagen vorhanden
   min: 3
+- id: r04-abschlusskontrolle
+  check_type: file_exists
+  description: Bearbeitbare Abschlusskontrolle vorhanden
+  path: 28_schlussrechnung_kontenabstimmung_15-03-2024.xlsx
+- id: r05-vollzugsnachweis
+  check_type: file_exists
+  description: Vollzugsprotokoll der Schlussverteilung vorhanden
+  path: 31_vollzugsprotokoll_schlussverteilung_24-04-2024.docx
+- id: r06-rechenkonsistenz
+  check_type: human_review
+  description: Schlussrechnung, Schlussverzeichnis und Zahlungslauf stimmen auf 120462 EUR Teilungsmasse und 509842 EUR Forderungsbasis überein.
+- id: r07-nachtragsabgrenzung
+  check_type: human_review
+  description: Der Zufluss im laufenden Verfahren und ein erst nach Aufhebung eingegangener Betrag werden begrifflich und rechnerisch getrennt.
+- id: r08-fassungsfuehrung
+  check_type: human_review
+  description: Zwischenstand, führende Schlussfassung, gerichtliche Zustimmung, Zahlungsvollzug, Aufhebung und späterer Nachtragsprüffall sind nach Stichtag und Reichweite getrennt; die früheren Prognosen von rund 14 Prozent und 20,18 Prozent werden nicht als Abschlussquote verwendet.
+- id: r09-aktuelle-verfahrensuebersicht
+  check_type: file_exists
+  description: Das aktuelle Fassungsregister ist vorhanden.
+  path: Verfahrensuebersicht.docx
+- id: r10-keine-ueberholte-sammelakte
+  check_type: human_review
+  description: Die frühere 294-seitige monolithische Berichtssammlung gehört nicht zum aktuellen Quellen-, Gesamt-PDF- oder Releasepaket.

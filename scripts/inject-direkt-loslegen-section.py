@@ -38,6 +38,11 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Kuendigungsschutzklagen": "Kündigungsschutzklagen",
+    "Antraege": "Anträge",
+    "Kuendigungsgruende": "Kündigungsgründe",
+    "Weiterbeschaeftigung": "Weiterbeschäftigung",
+    "Verguetung": "Vergütung",
     "Verfahrensfuehrung": "Verfahrensführung",
     "Nachpruefung": "Nachprüfung",
     "Ruegen": "Rügen",
@@ -165,6 +170,11 @@ PLUGIN_ALIASES = {
     "cisg-handelskauf": ["urteilsbauer-relationsmacher"],
     "dsgvo": ["datenschutzrecht"],
     "internationales-privatrecht": ["urteilsbauer-relationsmacher"],
+}
+PUBLIC_VERGABERECHT_ROLES = {
+    "bieter-unternehmen",
+    "konkurrenten-rechtsschutz",
+    "vergabestelle-behoerden",
 }
 
 
@@ -488,8 +498,11 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 def has_plugin_local_testakte(directory: Path) -> bool:
     testakte = directory / "testakte"
-    return testakte.is_dir() and bool(
-        working_dump_flat_pairs(testakte, include_gesamt_pdf=False)
+    if not testakte.is_dir():
+        return False
+    return any(
+        not {"downloads", "pruefung"} & set(path.relative_to(testakte).parts)
+        for path, _ in working_dump_flat_pairs(testakte, include_gesamt_pdf=False)
     )
 
 
@@ -586,6 +599,23 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
     plugin_rel = directory.relative_to(REPO).as_posix()
     werkstatt_url = markdown_download_url(f"{plugin_rel}/{werkstatt_file}")
     schnellstart_url = markdown_download_url(f"{plugin_rel}/{schnellstart_file}")
+    marketplace_install_note = ""
+    werkstatt_download_link = f"[MD herunterladen / Download MD]({werkstatt_url})"
+    schnellstart_download_link = f"[MD herunterladen / Download MD]({schnellstart_url})"
+    if plugin_name in PUBLIC_VERGABERECHT_ROLES:
+        marketplace_install_note = (
+            "\n\nClaude Code installiert diese Rolle mit "
+            f"`/plugin install {plugin_name}@klotzkette-german-legal-skills` "
+            "aus dem öffentlichen Vergaberecht-Marketplace."
+        )
+        werkstatt_download_link = (
+            f'<a href="{werkstatt_url}" download="{werkstatt_file}">'
+            "MD herunterladen / Download MD</a>"
+        )
+        schnellstart_download_link = (
+            f'<a href="{schnellstart_url}" download="{schnellstart_file}">'
+            "MD herunterladen / Download MD</a>"
+        )
     focus_explanation = ""
     focus_download = ""
     focus_file = f"{stem}-hauptproblem.md"
@@ -643,7 +673,7 @@ Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation
 
 {description}
 
-Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.{marketplace_install_note}
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -651,8 +681,8 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die 
 | --- | --- | --- | --- |
 | Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`{plugin_name}.zip`]({plugin_asset_url(plugin_name, root=REPO)}) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list]({skill_detail}) |
-| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({werkstatt_url}) |
-| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({schnellstart_url}) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | {werkstatt_download_link} |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | {schnellstart_download_link} |
 {focus_explanation}| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index]({relative_link(directory, TESTAKTEN_DIR / 'README.md')}) |
 
 Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
@@ -741,6 +771,15 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
     original = readme.read_text(encoding="utf-8")
     version = plugin.get("version")
     text = sync_visible_version(original, version) if version else original
+    # Die drei öffentlichen Vergaberechtsrollen werden von ihren eigenen
+    # Generatoren gepflegt. Ihre Start-, Gesamtprompt- und Skillblöcke bilden
+    # zusammen eine geprüfte Navigation und dürfen hier nicht vereinheitlicht
+    # oder teilweise entfernt werden.
+    if name in PUBLIC_VERGABERECHT_ROLES:
+        if text != original:
+            readme.write_text(text, encoding="utf-8")
+            return "UPDATED"
+        return "UNCHANGED"
     if not standalone_kinds(name) and text.count(BEGIN) == 1 and text.count(END) == 1 and text.index(BEGIN) < text.index(END):
         if text != original:
             readme.write_text(text, encoding="utf-8")

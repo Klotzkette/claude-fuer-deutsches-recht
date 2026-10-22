@@ -51,6 +51,7 @@ def pages(data):
 
 def check_plugins():
     catalog = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
+    cases = json.loads((ROOT / "scripts/data/sanktionen-akten.json").read_text(encoding="utf-8"))
     for name in PLUGINS:
         plugin = ROOT / name
         skills = sorted((plugin / "skills").glob("*/SKILL.md"))
@@ -98,7 +99,8 @@ def check_plugins():
         errors = []
         count = module("validate-testakten-readme-downloads").validate_download_notices(
             f"{name}/README.md", (plugin / "README.md").read_text(), errors)
-        require(count == 2 and not errors, f"Plugin-Downloadhinweise: {errors}")
+        expected_groups = 1 + sum(case["plugin"] == name for case in cases)
+        require(count == expected_groups and not errors, f"Plugin-Downloadhinweise: {errors}")
         require(not working_dump_flat_pairs(plugin / "testakte", include_gesamt_pdf=False),
                 f"Downloadarchive dürfen nicht als zusätzliche lokale Akte gezählt oder verpackt werden: {name}")
 

@@ -13,6 +13,7 @@ import json
 from pathlib import Path
 import re
 import sys
+import tempfile
 import zipfile
 from unittest.mock import patch
 
@@ -67,6 +68,17 @@ def check():
     reports = json.loads((PLUGIN / "testakte/pruefung/seewerk-bestand.json").read_text(encoding="utf-8"))
     require([item["slug"] for item in reports] == builder.SLUGS, "Andere Fallfassungen")
     require(re.fullmatch(r"[a-f0-9]{64}", source["source_sha256"]), "Quellbezug fehlt")
+    injector = builder.module("inject-direkt-loslegen-section")
+    require(not injector.has_plugin_local_testakte(PLUGIN), "Downloadregister wird als zusätzliche Akte verlinkt")
+    with tempfile.TemporaryDirectory(prefix="seewerk-register-") as temporary:
+        fixture = Path(temporary)
+        for name in ("downloads/alte-ausgabe.pdf", "pruefung/bestand.json"):
+            target = fixture / "testakte" / name
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(b"{}")
+        require(not injector.has_plugin_local_testakte(fixture), "Export oder Prüfprotokoll wird als Akte gezählt")
+        (fixture / "testakte/Original.docx").write_bytes((ROOT / "testakten" / builder.SLUGS[0] / "K01_Arbeitsvertrag.docx").read_bytes())
+        require(injector.has_plugin_local_testakte(fixture), "Echtes lokales Original wird nicht erkannt")
     quality = builder.module("validate-testakten-dokumentqualitaet")
     exceptions = quality.reviewed_source_documents()
     require(len(exceptions) == 16, "Einzeln begrenzte Quellbeleg-Ausnahmen")

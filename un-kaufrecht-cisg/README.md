@@ -1,5 +1,77 @@
 # 1. UN-Kaufrecht: CISG
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
+
+UN-Kaufrecht für internationale Warenvertraege: CISG-Anwendung, Abwahl, kollidierende AGB, Lieferung, Maengelruege, Nachbesserung, Aufhebung, Schaden und Transport. Zehn Fachskills und ein Hauptskill begleiten beide Vertragsseiten bis zum fertigen Dokument.
+
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+
+## Welche Datei wofür? / Which file should I use?
+
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/un-kaufrecht-cisg.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md) |
+| Schwerpunkt-Prompt | Eigenständiger, eng abgegrenzter Mandatsauftrag bis 7500 Zeichen. Der zugehörige Fachskill ist auch im Plugin vorhanden. | Standalone workflow for one demanding practice problem, up to 7500 characters. Its corresponding skill is also part of the plugin. | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md" download>MD herunterladen / Download MD</a> |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../testakten/README.md) |
+
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
+
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
+
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/un-kaufrecht-cisg.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
+
+## In 30 Sekunden starten
+
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../skills-index/un-kaufrecht-cisg.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
+
+Startsatz für 1. UN-Kaufrecht: CISG:
+
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
+
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
+
+## Downloads
+
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`un-kaufrecht-cisg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/un-kaufrecht-cisg.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`un-kaufrecht-cisg-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`un-kaufrecht-cisg-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-werkstatt.md) |
+| Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=un-kaufrecht-cisg/un-kaufrecht-cisg-hauptproblem.md" download>un-kaufrecht-cisg-hauptproblem.md</a> |
+| Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+## Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| Pluginlokale Akte | nicht vorhanden | [`un-kaufrecht-cisg-testakte.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/un-kaufrecht-cisg-testakte.zip) | [`un-kaufrecht-cisg-testakte-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/un-kaufrecht-cisg-testakte-einzelpdfs.zip) |
+| [1. Pumpenlieferung Bremen Lyon](../testakten/cisg-klauselkollision-pumpen-bremen-lyon/README.md) | [Gesamt-PDF](../testakten/cisg-klauselkollision-pumpen-bremen-lyon/gesamt-pdf/cisg-klauselkollision-pumpen-bremen-lyon_gesamt.pdf) | [`testakte-cisg-klauselkollision-pumpen-bremen-lyon.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-klauselkollision-pumpen-bremen-lyon.zip) | [`testakte-cisg-klauselkollision-pumpen-bremen-lyon-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-klauselkollision-pumpen-bremen-lyon-einzelpdfs.zip) |
+| [1. Abfüllmaschine Brno Leipzig](../testakten/cisg-maschinenlieferung-nachbesserung-leipzig-brno/README.md) | [Gesamt-PDF](../testakten/cisg-maschinenlieferung-nachbesserung-leipzig-brno/gesamt-pdf/cisg-maschinenlieferung-nachbesserung-leipzig-brno_gesamt.pdf) | [`testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno.zip) | [`testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-maschinenlieferung-nachbesserung-leipzig-brno-einzelpdfs.zip) |
+| [1. Sensorenlieferung Turin Ulm](../testakten/cisg-transportschaden-sensoren-ulm-turin/README.md) | [Gesamt-PDF](../testakten/cisg-transportschaden-sensoren-ulm-turin/gesamt-pdf/cisg-transportschaden-sensoren-ulm-turin_gesamt.pdf) | [`testakte-cisg-transportschaden-sensoren-ulm-turin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin.zip) | [`testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/un-kaufrecht-cisg-v1.0.0/testakte-cisg-transportschaden-sensoren-ulm-turin-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
+<!-- END direkt-loslegen (autogen) -->
+
 Internationale Warenverträge prüfen, gestalten und durchsetzen: Dieses Plugin begleitet Käufer und Verkäufer von widersprüchlichen Vertragsunterlagen über Lieferung und Mängelanzeige bis zum fertigen Schreiben, Vertragsnachtrag oder Schriftsatzentwurf. Zehn Fachskills bearbeiten die einzelnen Streitfragen; ein zusätzlicher Hauptskill führt den Auftrag zusammen. Kaufrecht und Transportrecht werden getrennt geprüft, auch wenn dieselbe beschädigte Ware betroffen ist.
 
 [Hauptübersicht](../README.md) · [Plugin-Dateien](.) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/un-kaufrecht-cisg.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [English guide](#16-english-guide)

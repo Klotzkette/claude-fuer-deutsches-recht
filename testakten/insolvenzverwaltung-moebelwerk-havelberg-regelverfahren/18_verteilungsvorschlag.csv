@@ -1,17 +1,14 @@
-rang_insO,lfd_nr,gläubiger,festgestellt_eur,absonderung_vorab_eur,netto_teilnahme_eur,quote_pct,auszahlung_eur,zahlungsdatum,bemerkung
-§ 54 InsO (Massekosten),0,Gerichtskosten und Auslagen,8200.00,0.00,8200.00,100.00,8200.00,2026-12-01,Vorrangige Massekosten
-§ 63 InsO (IV-Vergütung),0,Dr. Nora Westphal (IV-Vergütung inkl. 19% MwSt),74800.00,0.00,74800.00,100.00,74800.00,2026-12-01,Festgesetzt durch AG Stendal; Beschluss 30.11.2026
-§ 55 InsO (Masseverbindlichkeiten),0,Masseverbindlichkeiten Fortführung und Verwertung,104200.00,0.00,104200.00,100.00,104200.00,2026-10-01,Fortführungslieferanten; Miete; Steuer; Gutachter; Provision
-§ 50 InsO (Absonderung),0,Havelbank eG (Sicherheitenverwertung netto),316020.00,316020.00,0.00,100.00,316020.00,2026-09-01,Erlöse aus Maschinenverwertung und Forderungseinzug abzgl. §§ 170/171-Kostenpauschale
-§ 38 InsO,1,Furnier Nord GmbH,186420.00,0.00,186420.00,18.40,34305.00,2027-01-15,Erste Verteilung
-§ 38 InsO,2,Havelbank eG (Ausfallforderung),136500.00,0.00,136500.00,18.40,25116.00,2027-01-15,Erste Verteilung
-§ 38 InsO,3,Finanzamt Stendal,92340.00,0.00,92340.00,18.40,16990.56,2027-01-15,Erste Verteilung
-§ 38 InsO,4,AOK Sachsen-Anhalt,61200.00,0.00,61200.00,18.40,11260.80,2027-01-15,Erste Verteilung
-§ 38 InsO,5,Prignitz Forst KG,43700.00,0.00,43700.00,18.40,8040.80,2027-01-15,Erste Verteilung
-§ 38 InsO,6,Holzbauer GmbH und Co KG,28100.00,0.00,28100.00,18.40,5170.40,2027-01-15,Erste Verteilung
-§ 38 InsO,7,Beschlagwerk Elbe AG,19440.00,0.00,19440.00,18.40,3576.96,2027-01-15,Erste Verteilung
-§ 38 InsO,8,Havelstrom GbR,48000.00,0.00,48000.00,18.40,8832.00,2027-01-15,Erste Verteilung
-§ 38 InsO,9,Arbeitnehmer gesamt (38 Personen),236000.00,0.00,236000.00,18.40,43424.00,2027-01-15,Erste Verteilung; Einzelberechnung je MA separat
-§ 38 InsO,10,Wuertl-Leasing GmbH,11200.00,0.00,11200.00,18.40,2060.80,2027-01-15,Erste Verteilung (festgestellter Betrag)
-§ 38 InsO,11,M. Kordes,0.00,0.00,0.00,0.00,0.00,,Bestritten; keine Auszahlung
-§ 39 Abs 1 Nr 5 InsO (nachrangig),12,Tim Brauer,120000.00,0.00,120000.00,0.00,0.00,,Nachrangig; keine Masse verblieben
+rang_insO,lfd_nr,glaeubiger,festgestellt_eur,absonderung_vorab_eur,netto_teilnahme_eur,quote_pct_ungerundet,auszahlung_eur,zahlungsdatum,bemerkung
+§ 50 InsO (Absonderung),0,Havelbank eG,480000.00,343500.00,136500.00,,343500.00,2026-09-01,Sicherheitenzahlung; Ausfall separat in § 38-Basis
+§ 38 InsO,1,Furnier Nord GmbH,186420.00,0.00,186420.00,33.5832657318,62605.92,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,2,Havelbank eG (Ausfallforderung),136500.00,0.00,136500.00,33.5832657318,45841.16,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,3,Finanzamt Stendal,92340.00,0.00,92340.00,33.5832657318,31010.79,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,4,AOK Sachsen-Anhalt,61200.00,0.00,61200.00,33.5832657318,20552.96,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,5,Prignitz Forst KG,43700.00,0.00,43700.00,33.5832657318,14675.89,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,6,Holzbauer GmbH und Co KG,28100.00,0.00,28100.00,33.5832657318,9436.90,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,7,Beschlagwerk Elbe AG,19440.00,0.00,19440.00,33.5832657318,6528.58,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,8,Havelstrom GbR,48000.00,0.00,48000.00,33.5832657318,16119.97,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,9,Arbeitnehmer gesamt (38 Personen),236000.00,0.00,236000.00,33.5832657318,79256.51,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,10,Wuertl-Leasing GmbH,11200.00,0.00,11200.00,33.5832657318,3761.32,2027-03-10,Schlussverteilung; centgenauer Restausgleich
+§ 38 InsO,11,M. Kordes,0.00,0.00,0.00,0.0000000000,0.00,,Vollständig bestritten; kein fristgerechter Nachweis
+§ 39 Abs. 1 Nr. 5 InsO,12,Tim Brauer,120000.00,0.00,120000.00,0.0000000000,0.00,,Nachrangig; keine verbleibende Masse

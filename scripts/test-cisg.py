@@ -105,10 +105,10 @@ def check(dist=None):
     for decision in profile["prompt_editorial_review"]["decisions"]:
         require(decision["url"] in references, f"Unauffindbare Entscheidungsquelle: {decision['citation']}")
         require(decision["limit"] and decision["application"], "Entscheidung ohne Reichweitengrenze")
+    cases = json.loads((ROOT / "scripts/data/cisg-akten.json").read_text())
     errors = []
     count = downloads.validate_download_notices(f"{NAME}/README.md", (PLUGIN / "README.md").read_text(), errors)
-    require(count == 3 and not errors, f"Plugin-Downloadhinweise: {errors}")
-    cases = json.loads((ROOT / "scripts/data/cisg-akten.json").read_text())
+    require(count == len(cases) + 1 and not errors, f"Plugin-Downloadhinweise: {errors}")
     require(len(cases) == 3 and len({case["slug"] for case in cases}) == 3, "Drei verschiedene Fälle erforderlich")
     module("build-cisg-akten").validate_data(cases)
     total_pages = total_originals = 0

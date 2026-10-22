@@ -1,13 +1,11 @@
 # KI-Governance-Plugin
 
-Prüfe einen konkreten KI-Anwendungsfall, einen Anbieterentwurf oder eine bestehende Richtlinie. Für Datenschutz, Rechtsabteilung und Einkauf entstehen daraus die beauftragte Folgenabschätzung, Vertragsänderung oder Entscheidungsvorlage mit belegten Freigabebedingungen. Vorhandene Unterlagen bestimmen den Einstieg, nicht ein vorgeschaltetes Standardinterview.
-
 <!-- BEGIN direkt-loslegen (autogen) -->
 ## Was ist das hier?
 
 EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
 
-Dieses Plugin gehört zum Marketplace mit 309 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ki-governance-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-governance/ki-governance-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [10 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 309 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -78,6 +76,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+Prüfe einen konkreten KI-Anwendungsfall, einen Anbieterentwurf oder eine bestehende Richtlinie. Für Datenschutz, Rechtsabteilung und Einkauf entstehen daraus die beauftragte Folgenabschätzung, Vertragsänderung oder Entscheidungsvorlage mit belegten Freigabebedingungen. Vorhandene Unterlagen bestimmen den Einstieg, nicht ein vorgeschaltetes Standardinterview.
 Rechtsstand 10. September 2026: Die Governance-Routen unterscheiden geltende Betriebs- und Transparenzpflichten von späteren Hochrisikopflichten. Kompetenzmaßnahmen, Bias-Prüfung, Freigabe und Behördenkontakt greifen auf denselben datierten Rechtsstand zurück. [Rechtsstandkarte lesen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-governance/references/digitaler-omnibus-2026.md" download>MD herunterladen</a>.
 
 English: The updated workflows distinguish enacted law, future application dates and pending proposals. The reference note identifies official sources and the competent supervisory authority for each route.

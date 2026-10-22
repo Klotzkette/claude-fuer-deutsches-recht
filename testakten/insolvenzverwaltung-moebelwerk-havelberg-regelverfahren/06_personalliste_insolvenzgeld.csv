@@ -29,7 +29,7 @@ nr,name,funktion,abteilung,einstellungsdatum,brutto_monat,rueckstand_maerz,rueck
 28,Thomas Haase,Schreiner,Produktion,2014-09-01,3600.00,3600.00,3600.00,nein,2026-05-31,ja,
 29,Katharina Wolff,Vertrieb Außendienst,Vertrieb,2016-01-01,4500.00,4500.00,4500.00,nein,2026-05-31,ja,Provisionsansprüche zu prüfen
 30,Lars Ritter,Lackierer,Produktion,2018-06-01,3300.00,3300.00,3300.00,nein,2026-05-31,ja,
-31,Claudia Stern,Schreinergesellin / Auszubildende,Produktion,2024-09-01,800.00,800.00,800.00,nein,2026-05-31,nein,Ausbildungsverhältnis; BfA zahlt InsGeld nicht
+31,Claudia Stern,Auszubildende Tischlerin,Produktion,2024-09-01,800.00,800.00,800.00,nein,2026-05-31,ja,Ausbildungsverhältnis; Insolvenzgeldanspruch dem Grunde nach wie bei anderen Arbeitnehmern mit der Bundesagentur für Arbeit prüfen
 32,Patrick Lange,Schreiner,Produktion,2013-04-01,3600.00,3600.00,3600.00,nein,2026-05-31,ja,Elternzeit (zurückgekehrt April 2026)
 33,Ute Müller,Assistenz Geschäftsführung,Verwaltung,2011-01-01,3200.00,3200.00,3200.00,nein,2026-05-31,ja,
 34,Simon Franke,IT-Systemadministration,IT,2020-01-01,3800.00,3800.00,3800.00,nein,2026-05-31,ja,
