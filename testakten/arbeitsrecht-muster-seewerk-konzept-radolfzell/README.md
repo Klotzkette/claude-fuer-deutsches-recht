@@ -65,4 +65,4 @@ Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hi
 | [K14_Anwaltsschreiben.docx](K14_Anwaltsschreiben.docx) | K14 | Muster ./. Seewerk Präzisionsguss GmbH | 1 |
 | [K14_Antwort.docx](K14_Antwort.docx) | K14 | Antwort auf Ihr Schreiben vom 12.11.2026 (Auszug) | 1 |
 
-[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md)
+[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)

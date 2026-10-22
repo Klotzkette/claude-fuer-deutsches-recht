@@ -490,7 +490,7 @@ Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hi
 | --- | --- | --- | ---: |
 {rows}
 
-[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md)
+[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)
 """
         (directory/"README.md").write_text(readme,encoding="utf-8")
         report={"slug":slug,"title":title,"documents":len(items),"pages":len(writer.pages),"files":documents}

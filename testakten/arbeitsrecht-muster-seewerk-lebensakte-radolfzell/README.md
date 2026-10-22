@@ -86,4 +86,4 @@ Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hi
 | [K12_Screenshot_04.png](K12_Screenshot_04.png) | K12 | RunTrack Bildschirm 4 | 1 |
 | [K12_Screenshot_05.png](K12_Screenshot_05.png) | K12 | RunTrack Bildschirm 5 | 1 |
 
-[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md)
+[Plugin-Aktenregister](../../arbeitsrecht-kuendigungsschutzklagewerkstatt/testakte/README.md) · [Alle Fallakten](../README.md) · [Repository-Start](../../README.md) · [Download-Index](../../ASSET_INDEX.md)

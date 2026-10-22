@@ -79,6 +79,9 @@ def check():
             require(quality.minimum_document_text(path) == 600, "Mindestlänge pauschal abgeschwächt")
     for index, report in enumerate(reports):
         directory = ROOT / "testakten" / report["slug"]
+        readme = (directory / "README.md").read_text(encoding="utf-8")
+        for target in ("../README.md", "../../README.md", "../../ASSET_INDEX.md"):
+            require("](" + target + ")" in readme, "Aktennavigation fehlt: " + target)
         files = report["files"]
         require(report["documents"] == len(files) == (23 if index == 0 else 44), "Dokumentenzahl")
         require(len({item["file"] for item in files}) == len(files), "Dateidoppelung")
