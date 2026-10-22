@@ -93,7 +93,7 @@ Werkstatt zum Bearbeiten und Lesen: [Word](assets/transparenzregister-assistent-
 
 - [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/transparenzregister-assistent-werkstatt.md): durchgehender Arbeitsablauf mit konkreten Rückfragen, ausformulierten Schreiben und kontrollierter Portalübergabe.
 - [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/transparenzregister-assistent-schnellstart.md): kompakter eigenständiger Ablauf.
-- [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md): widersprüchliche Kontrolle bei dringender Meldung auflösen.
+- Hauptproblem-Prompt: [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=transparenzregister-assistent/transparenzregister-assistent-hauptproblem.txt); widersprüchliche Kontrolle bei dringender Meldung auflösen.
 - [Geprüfte Rechtsquellen](references/rechtsprechung-und-rechtsstand.md): einschließlich EuGH vom 21.05.2026 und 03.09.2026 mit gelesenen Passagen und Grenzen.
 
 <!-- decimal-anchor --> <a id="elf-skills"></a>

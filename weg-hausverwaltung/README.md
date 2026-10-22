@@ -97,7 +97,7 @@ Die 93 vorhandenen Skills bleiben erhalten. Aktualisierte Fachrouten behandeln i
 
 | Arbeitsform | Passender Einstieg |
 | --- | --- |
-| Einzelabrechnung und Eigentümerrückfrage | [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md) mit den zugehörigen Belegen verwenden. |
+| Einzelabrechnung und Eigentümerrückfrage | Hauptproblem-Prompt als [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md) oder [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weg-hausverwaltung/weg-hausverwaltung-hauptproblem.txt) mit den zugehörigen Belegen verwenden. |
 | Vielseitige Verwaltungsanfrage | [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weg-hausverwaltung/weg-hausverwaltung-schnellstart.md) für den konkreten Auftrag laden. |
 | Mehrstufige Abrechnung oder Schadenakte | [Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=weg-hausverwaltung/weg-hausverwaltung-werkstatt.md) mit vorhandener Korrespondenz und Rechnungen verwenden. |
 | Werkstatt bearbeiten oder ausdrucken | [Word-Datei](./assets/weg-hausverwaltung-werkstatt.docx) oder [PDF-Lesefassung](./assets/weg-hausverwaltung-werkstatt.pdf). |

@@ -95,7 +95,7 @@ Laden Sie Ihre Unterlagen und nennen Sie das gewünschte Ergebnis, etwa: „Prü
 
 - [Große Werkstatt mit acht ausformulierten Dokumentmustern](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-werkstatt.md).
 - [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-schnellstart.md).
-- [Hauptproblem-Prompt: Den stockenden Vorgang zum Ergebnis führen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-hauptproblem.md).
+- Hauptproblem-Prompt „Den stockenden Vorgang zum Ergebnis führen“: [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=handelsregister-assistent/handelsregister-assistent-hauptproblem.txt).
 - [Normen, Rechtsprechung und aktuelle Länderwege](references/registerverfahren-und-quellen.md).
 
 Die Werkstatt enthält über 12000 Wörter in einer eigenständig nutzbaren Arbeitsanweisung. Mini und Hauptproblem sind jeweils auf höchstens 7500 UTF-8-Bytes und Zeichen begrenzt. Die langen Vertiefungen müssen nicht bei jeder einfachen Recherche vollständig geladen werden.

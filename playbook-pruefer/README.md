@@ -85,6 +85,8 @@ Verträge anhand der eigenen Verhandlungsstandards prüfen: Themen, Ausgangsposi
 
 Das Plugin enthält **zehn Fachskills und einen zusätzlichen Hauptskill**. Werkstatt, Mini-Prompt und Hauptproblem-Prompt sind eigenständig nutzbar. Zwei getrennte Testakten enthalten ein NDA beziehungsweise einen Arbeitsvertrag mit dem jeweils eigenen Unternehmensplaybook, mehreren Vertragsständen und Verhandlungsmaterial.
 
+Hauptproblem-Prompt: [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.md) · [Text herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.txt)
+
 <!-- decimal-anchor --> <a id="so-arbeitet-der-playbook-prüfer"></a>
 
 ## 1.6. So arbeitet der Playbook-Prüfer

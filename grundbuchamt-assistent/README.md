@@ -95,7 +95,7 @@ Starten Sie mit `grundbuchvorgang-zum-ergebnis-fuehren`. Beispiel: „Der Ersatz
 
 - [Großer Werkstatt-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-werkstatt.md)
 - [Mini-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-schnellstart.md)
-- [Hauptproblem-Prompt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md)
+- Hauptproblem-Prompt: [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.txt)
 - [Amtliche Rechtsprechungsanker mit Grenzen](references/rechtsprechung.md)
 - [Normen und Verfahrenswege](references/normen-und-verfahren.md)
 
