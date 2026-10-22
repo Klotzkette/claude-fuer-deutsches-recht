@@ -48,6 +48,7 @@ jobs:
         run: |
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-root-readme-overview.py
           python3 scripts/validate-yaml-frontmatter.py
           python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow

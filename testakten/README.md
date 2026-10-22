@@ -78,7 +78,7 @@ Für mehrere Übungen können Sie ein Sammelpaket herunterladen. Es enthält den
 
 ## Verfügbare Akten
 
-Stand v445.35.3 mit gesonderten Komponenten: 548 zentrale Testakten plus 2 Hilfsmaterialsammlungen. Die Liste ist alphabetisch nach Aktenordner sortiert. Klicken Sie auf den Aktennamen für Fallbeschreibung und Arbeitsauftrag oder wählen Sie direkt eine der drei Downloadfassungen.
+Stand v445.35.3: 548 zentrale Testakten plus 2 Hilfsmaterialsammlungen, einschließlich gesondert veröffentlichter Komponenten. Die Liste ist alphabetisch nach Aktenordner sortiert. Klicken Sie auf den Aktennamen für Fallbeschreibung und Arbeitsauftrag oder wählen Sie direkt eine der drei Downloadfassungen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
