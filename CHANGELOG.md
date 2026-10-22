@@ -1,3 +1,7 @@
+# insolvenzverwaltung-berichtsersteller-v1.1.0 – 2026-10-22
+
+Die vierte fiktive Testakte Klangbogen Bühnen- und Probenraumtechnik GmbH aus Bamberg ergänzt den Berichtsersteller um 22 Zwischenberichte mit zusammen 233 Berichtsseiten. Das Komponentenrelease umfasst nun vier Akten und 22 geprüfte Assets; die beiden Plugin-ZIPs und die neue Akte werden über v1.1.0 ausgeliefert, während die drei bisherigen Aktenrouten auf v1.0.0 stabil bleiben. [Umfang und Prüfgrenzen](docs/releases/insolvenzverwaltung-berichtsersteller-v1.1.0.md).
+
 # insolvenzverwaltung-berichtsersteller-v1.0.0 – 2026-10-22
 
 Der neue Zwischen- und Schlussbericht-Ersteller führt zehn Fachskills und einen Hauptskill vom fortlaufenden Sachstandsbericht über Schlussbericht, Schlussrechnung und Schlussverzeichnis bis zu gerichtlichen Freigaben, Schlussverteilung, Aufhebung und Nachtragsverteilung. Werkstatt und Schnellstart verbinden Stichtage, führende Fassungen, Belege, Rechenbrücke und acht menschliche Freigabegates. Amtlich geprüfte Norm- und BGH-Anker werden jeweils mit ihrer Aussagegrenze verwendet.

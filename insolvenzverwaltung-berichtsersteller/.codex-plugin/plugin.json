@@ -1,6 +1,6 @@
 {
   "name": "insolvenzverwaltung-berichtsersteller",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung in Insolvenzverfahren belegt erstellen. Zehn Fachskills und ein Hauptskill führen Akte, Stichtage, Masse, Forderungen, Kosten, Prozesse und Freigaben zu gerichtstauglichen Produkten zusammen.",
   "author": {
     "name": "Klotzkette",

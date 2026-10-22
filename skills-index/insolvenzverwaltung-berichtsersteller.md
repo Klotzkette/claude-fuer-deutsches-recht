@@ -1,6 +1,6 @@
 # insolvenzverwaltung-berichtsersteller
 
-**11 Skills** · Stand `v1.0.0`
+**11 Skills** · Stand `v1.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzverwaltung-berichtsersteller/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -13,7 +13,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`insolvenzverwaltung-berichtsersteller-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.md) |
 | **Derselbe Schnellstart-Prompt als Text** | TXT | [`insolvenzverwaltung-berichtsersteller-schnellstart.txt` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.txt) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [insolvenzverwaltung-berichtsersteller.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/insolvenzverwaltung-berichtsersteller.zip) |
+| **Plugin (installierbar)** | ZIP | [insolvenzverwaltung-berichtsersteller.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/insolvenzverwaltung-berichtsersteller.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzverwaltung-berichtsersteller",
-  "version": "1.0.0",
-  "tag": "insolvenzverwaltung-berichtsersteller-v1.0.0",
+  "version": "1.1.0",
+  "tag": "insolvenzverwaltung-berichtsersteller-v1.1.0",
   "prompts": {
     "werkstatt": {
       "source": "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md",
       "source_sha256": "2f881e0c1a990f087363575b159131dc726d358b4518f43842bf9bb8a68a3b13",
-      "pdf_sha256": "ea9e5dfe00aabea371f3d15640168924fc0bbd2b62149f29d6b7a81123ef7823",
+      "pdf_sha256": "5c581f6f0997ef708631a905bafb75806c4a244aa6759cbb51d1a0a96fc92113",
       "pages": 12,
       "font": "Times New Roman"
     },
     "schnellstart": {
       "source": "insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.md",
       "source_sha256": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5",
-      "pdf_sha256": "661f3abd160e48de642a082ae2ddde4485dc8e0d8cbf47259754ae2471d44a60",
+      "pdf_sha256": "93f0ed7556a930a8b86283c46ca39bf0c0f80ac68b8dc3d551185312aa799842",
       "pages": 2,
       "font": "Times New Roman"
     }
@@ -34,23 +34,28 @@
       "documents": 44,
       "pages": 118,
       "sha256": "a7023d355f134cc6eaef5b3c42ff98335acb1430587a19a1d011d888d6527470"
+    },
+    "insolvenzverwaltung-klangbogen-buehnentechnik-bamberg": {
+      "documents": 49,
+      "pages": 263,
+      "sha256": "7f396228b6f1261698ca756f7995d0a7a293e57a6434c97b8210e2490e6e33f5"
     }
   },
   "assets": {
     "checksums-sha256.txt": {
-      "sha256": "f044131a6dbb3963461711e8a31abf60cc20f4fe74f6fe8a6e28412b9d68c949",
-      "size": 2224
+      "sha256": "d483e4d7af140a093772bb9be42f2a92353b127e540622f91d240fc288acb714",
+      "size": 2632
     },
     "insolvenzverwaltung-berichtsersteller-portable.zip": {
-      "sha256": "2cce1f31a16e4634d2d18b13d305740adbbbd36e544ac7544b723927d74886ff",
-      "size": 94373
+      "sha256": "656950cb03ec090569c63f784c727cbf9116bad07dc622dab41d354104692032",
+      "size": 94741
     },
     "insolvenzverwaltung-berichtsersteller-schnellstart.md": {
       "sha256": "6119ec119c8ffaed140ce0bc90ca532317d5e1955e492a35b04f6d832d12f3b5",
       "size": 6689
     },
     "insolvenzverwaltung-berichtsersteller-schnellstart.pdf": {
-      "sha256": "661f3abd160e48de642a082ae2ddde4485dc8e0d8cbf47259754ae2471d44a60",
+      "sha256": "93f0ed7556a930a8b86283c46ca39bf0c0f80ac68b8dc3d551185312aa799842",
       "size": 89092
     },
     "insolvenzverwaltung-berichtsersteller-schnellstart.txt": {
@@ -62,16 +67,20 @@
       "size": 38440
     },
     "insolvenzverwaltung-berichtsersteller-werkstatt.pdf": {
-      "sha256": "ea9e5dfe00aabea371f3d15640168924fc0bbd2b62149f29d6b7a81123ef7823",
-      "size": 119038
+      "sha256": "5c581f6f0997ef708631a905bafb75806c4a244aa6759cbb51d1a0a96fc92113",
+      "size": 119041
     },
     "insolvenzverwaltung-berichtsersteller-werkstatt.txt": {
       "sha256": "2f881e0c1a990f087363575b159131dc726d358b4518f43842bf9bb8a68a3b13",
       "size": 38440
     },
     "insolvenzverwaltung-berichtsersteller.zip": {
-      "sha256": "4ea612c359803921d64cce3292fb07b8da3cb2f13fed8619fdc59fb3314f50c7",
-      "size": 92169
+      "sha256": "8f736bc278152e16597b1424916cd7e0b98eacc4fa8cec5e858aaddb1dc7d93c",
+      "size": 92537
+    },
+    "insolvenzverwaltung-klangbogen-buehnentechnik-bamberg_gesamt.pdf": {
+      "sha256": "7f396228b6f1261698ca756f7995d0a7a293e57a6434c97b8210e2490e6e33f5",
+      "size": 3405727
     },
     "insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg_gesamt.pdf": {
       "sha256": "96036882f1bd3bd210e7df4d6194b61cc4814f1a4b56b0702a772eaa4c79d317",
@@ -86,8 +95,16 @@
       "size": 2505512
     },
     "quellenabgleich.json": {
-      "sha256": "147380cd3175fb679633b46ea30fe4d4f17e4ea7b027473ee8d05ee53faf2bb3",
-      "size": 1504
+      "sha256": "2bbd7a26f94840c94a8a01661203daa72e8fb9099643d987d60dffb283f9c109",
+      "size": 1700
+    },
+    "testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg-einzelpdfs.zip": {
+      "sha256": "e5f96c16baefe021bff91ee55c9a3af4d2b76d0bbcacff81c92282f91d414a43",
+      "size": 3315818
+    },
+    "testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg.zip": {
+      "sha256": "dc89cf6dfac9946c13979b3cddf8f3d83e8ff519611c6fc5e075a1c904fb6ede",
+      "size": 7435159
     },
     "testakte-insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg-einzelpdfs.zip": {
       "sha256": "e3d2cdd72bfe81c7e4857b5a3518d38ae0f0dded6120712b94594f1f4774042a",

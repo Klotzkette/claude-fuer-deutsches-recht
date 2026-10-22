@@ -19,6 +19,7 @@ STRUCTURED_TESTAKTEN = frozenset({
     'bauvergabe-wohnhaus-bielefeld',
     'bauwirtschaft-hildesheim-lebensakte',
     'fintech-darlehen-vertragsuebernahme-bremen',
+    'insolvenzverwaltung-klangbogen-buehnentechnik-bamberg',
 })
 
 

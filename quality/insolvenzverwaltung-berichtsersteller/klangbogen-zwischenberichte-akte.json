@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "slug": "insolvenzverwaltung-klangbogen-buehnentechnik-bamberg",
+  "plugin_version": "1.1.0",
+  "report_dates": [
+    "2016-05-28",
+    "2016-12-02",
+    "2017-06-03",
+    "2017-11-27",
+    "2018-05-28",
+    "2018-12-07",
+    "2019-05-28",
+    "2019-11-25",
+    "2020-05-24",
+    "2020-11-20",
+    "2021-05-23",
+    "2021-11-29",
+    "2022-05-23",
+    "2023-02-05",
+    "2023-11-05",
+    "2024-03-30",
+    "2024-05-28",
+    "2024-11-25",
+    "2025-05-18",
+    "2025-11-08",
+    "2026-06-05",
+    "2026-11-28"
+  ],
+  "report_pages": [
+    9,
+    8,
+    9,
+    9,
+    8,
+    10,
+    11,
+    10,
+    9,
+    8,
+    8,
+    8,
+    51,
+    8,
+    9,
+    9,
+    9,
+    9,
+    9,
+    9,
+    8,
+    5
+  ],
+  "totals": {
+    "reports": 22,
+    "report_pages": 233,
+    "combined_pages": 263,
+    "final_cash": "538776.34",
+    "final_claims": "1764825.62",
+    "final_reserves": "119776.27",
+    "final_distribution": "419000.07",
+    "final_quota_percent": "23.741726"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "size": 4130,
+      "sha256": "d7404f7f202ab42dcfe680ba76975d65ebaec9d4f736f85c761d111ba999e29c"
+    },
+    {
+      "path": "arbeitshinweise/00_verfahrensdaten.txt",
+      "size": 771,
+      "sha256": "c384e7b3528c5ba9048f9729db9c9f5ef2c89ac351ed1615b902900250590870"
+    },
+    {
+      "path": "arbeitshinweise/90_auftrag_schlussbericht.txt",
+      "size": 791,
+      "sha256": "ca57164e72c12674e2c497f0e8df365ac1f85cddfcb340499f75458ba7ba61b1"
+    },
+    {
+      "path": "arbeitshinweise/91_belegstatus_schlussbericht.txt",
+      "size": 615,
+      "sha256": "c9ccb600005c274f99199357c20cb7bafa7d4410653043513e4c50c43aa2c049"
+    },
+    {
+      "path": "belege/01_eroeffnungsbeschluss_2015-11-22.pdf",
+      "size": 84080,
+      "sha256": "7f3750aaac0c5b8a785960f84aff07b44481e99d2ebcb88e50ac763452bf008c"
+    },
+    {
+      "path": "belege/02_berichtsanordnung_2015-12-15.pdf",
+      "size": 83137,
+      "sha256": "73d3176ceb4931764ac32563e80d7278933ab27ec9a9231d269d3cf2e9c85e16"
+    },
+    {
+      "path": "belege/03_bankbestaetigung_2026-11-30.pdf",
+      "size": 83027,
+      "sha256": "a781ad6642c36f0413dc422d9c33c2a8eb7d5b358f7e6fa41ea7f7009ece9b10"
+    },
+    {
+      "path": "belege/04_steuerbescheid_2026-09-15.pdf",
+      "size": 84423,
+      "sha256": "735a6b0eade3bd134b40715fdf5d5604ea5a578c1064c373df414978672612a0"
+    },
+    {
+      "path": "belege/05_vergleich_landbuehne_2021-07-14.pdf",
+      "size": 85586,
+      "sha256": "e43bfc7d0dfaba53c8ffb2d84ee432e59838d5e5638c823de91f7ea4243510b7"
+    },
+    {
+      "path": "belege/06_prozesskostenabrechnung_2024-09-18.pdf",
+      "size": 84233,
+      "sha256": "76bc39678e17a506685800837a3ee4a0253eeec630ac28a8a8492327828fefac"
+    },
+    {
+      "path": "belege/07_tabellenauszug_2026-11-30.pdf",
+      "size": 84968,
+      "sha256": "2d35396cde08b410bdd4117eda794beab847fc6040b66873aea75491f66dc390"
+    },
+    {
+      "path": "belege/08_glaeubigerausschuss_stellungnahme_2026-12-02.pdf",
+      "size": 84042,
+      "sha256": "64f9f293041d4b6b5ae30cf7cbdfb276d813dfffc473ce95c9e8dc4f0c2eeac2"
+    },
+    {
+      "path": "belege/09_abschlussreifevermerk_2026-12-05.pdf",
+      "size": 84566,
+      "sha256": "a0a0eab126c968201ad7aa8dadfa49ccf1cca6658638093634ca8de141a33eb6"
+    },
+    {
+      "path": "belege/10_kontenabstimmung_2026-12-05.pdf",
+      "size": 84367,
+      "sha256": "32b9d52b2171568141a78cd4b4455291fcceeb3fe1f17e715b0aacaa912921e5"
+    },
+    {
+      "path": "belege/11_aktenvermerk_steuerkonto_2026-10-29.pdf",
+      "size": 83482,
+      "sha256": "0af0b2fa0e32cf52ee761c3cd7559a199b42564705245dec2c7980418d5cfff7"
+    },
+    {
+      "path": "belege/12_wirtschaftlichkeitspruefung_landbuehne_2021-07-12.pdf",
+      "size": 84746,
+      "sha256": "ce0e81d6dff9e9d365a6d96f7975ce36bfadc999dc60d890692ecc44bc32db2b"
+    },
+    {
+      "path": "belege/13_glaeubigerausschuss_zustimmung_landbuehne_2021-07-13.pdf",
+      "size": 84518,
+      "sha256": "057fab0dc79a2d34ca1aca2a92db391bd4c02c4b34e65916cb534cb3b26282e0"
+    },
+    {
+      "path": "belege/14_glaeubigerausschuss_zustimmung_d-und-o_2024-04-04.pdf",
+      "size": 84539,
+      "sha256": "adaa404d416d379eaa212d4db8d0bf3eeecd9f71d250dfa0ea582604f1b6295c"
+    },
+    {
+      "path": "belege/15_vergleich_d-und-o_2024-04-05.pdf",
+      "size": 85511,
+      "sha256": "20ac879ca38a385fb3897bd3e28d88a134e853408db82e3e37ee226e1cc33726"
+    },
+    {
+      "path": "gesamt-pdf/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg_gesamt.pdf",
+      "size": 3405727,
+      "sha256": "7f396228b6f1261698ca756f7995d0a7a293e57a6434c97b8210e2490e6e33f5"
+    },
+    {
+      "path": "korrespondenz/01_uebersendung_zwischenbericht_01.eml",
+      "size": 133163,
+      "sha256": "03e97a0a54591718ff2deec20d32ed8a67b969e1ef6913b0eb38fef5fcb02f94"
+    },
+    {
+      "path": "korrespondenz/02_rueckfrage_gutachten_zwischenbericht_04.eml",
+      "size": 133134,
+      "sha256": "20af4410c20adca6c7c08b6a150a3153bfa440c438f80db3d212d62eb04b8c19"
+    },
+    {
+      "path": "korrespondenz/03_vergleich_landbuehne.eml",
+      "size": 118072,
+      "sha256": "44fe53f271818a782dc6ea486a3098dca04d030562aaa4ae36e13f96ea89085b"
+    },
+    {
+      "path": "korrespondenz/04_tabellennachweise_zwischenbericht_13.eml",
+      "size": 209909,
+      "sha256": "7009df45343b686d01aa7784114432453d1fb5c0700e64b49eeeeaedb6fb2dd2"
+    },
+    {
+      "path": "korrespondenz/05_prozesskostenabgleich.eml",
+      "size": 116214,
+      "sha256": "824249c5b1b49eb8b180e084d0941dabc7395e1d4ad227cd86ede2dbf3b3e507"
+    },
+    {
+      "path": "korrespondenz/06_uebersendung_zwischenbericht_21.eml",
+      "size": 131937,
+      "sha256": "629a45973a1fa59b05e5ee1c8eb7f402ad71e0b2e38888247f4a3cb075168bdf"
+    },
+    {
+      "path": "korrespondenz/07_uebersendung_zwischenbericht_22.eml",
+      "size": 125568,
+      "sha256": "9700aac0643e6117f21e70060a8dd0285220fe7bf907f0843a20d4fff37b0a41"
+    },
+    {
+      "path": "korrespondenz/08_interne_uebergabe_schlussbericht.eml",
+      "size": 375210,
+      "sha256": "359e108f57a0a8d836cd3fa412eabfe64953bccafe71a19e83f1cf506a853df3"
+    },
+    {
+      "path": "rechenwerk/95_verfahrensrechnung_und_schlussreife.xlsx",
+      "size": 20574,
+      "sha256": "68df20d8a31f50e5dab8c2bae24970ad3fe5b9adf14ccdf0ec22f76bc6836a31"
+    },
+    {
+      "path": "rubric.yaml",
+      "size": 1683,
+      "sha256": "0f200f27d64ca17c35409b61ed6373d7a00842d2786920ba68d980ead8c21838"
+    },
+    {
+      "path": "zwischenberichte/01_zwischenbericht_2016-05-28.pdf",
+      "size": 96633,
+      "sha256": "b8f4ae818897060a5b6373e854b14876f0224eb78003b84b3619866ca1b7e064"
+    },
+    {
+      "path": "zwischenberichte/02_zwischenbericht_2016-12-02.pdf",
+      "size": 95697,
+      "sha256": "e10b1368245e3dd0d8eed2c2d88cc3cbf93ef88b869ff246b6c714a7bb18fb95"
+    },
+    {
+      "path": "zwischenberichte/03_zwischenbericht_2017-06-03.pdf",
+      "size": 96602,
+      "sha256": "a8a905048be06500ae8efbd1cda0000f4548f76f952bc574e4ac4a24badfc2b4"
+    },
+    {
+      "path": "zwischenberichte/04_zwischenbericht_2017-11-27.pdf",
+      "size": 96580,
+      "sha256": "8dac5076895f22a1290059700230118cc88d6e5879d57612b4ae5d2a434ffd28"
+    },
+    {
+      "path": "zwischenberichte/05_zwischenbericht_2018-05-28.pdf",
+      "size": 95653,
+      "sha256": "678422cb265fd2c71c536675022f0c993e6d594df54e939e158c310abb810a38"
+    },
+    {
+      "path": "zwischenberichte/06_zwischenbericht_2018-12-07.pdf",
+      "size": 97421,
+      "sha256": "f8be7decc3a43d59dd0fb50244dd0dddc6b01a2ebfe8bf8b8fc9d95947669648"
+    },
+    {
+      "path": "zwischenberichte/07_zwischenbericht_2019-05-28.pdf",
+      "size": 98388,
+      "sha256": "83753b9f36b1af9ebb0d31f19fe8ba89de5649f3164b1a48355181715fbd23d7"
+    },
+    {
+      "path": "zwischenberichte/08_zwischenbericht_2019-11-25.pdf",
+      "size": 97460,
+      "sha256": "65239420e6283052726193a785ef9050618f49ce11f3faeeba891b101753c284"
+    },
+    {
+      "path": "zwischenberichte/09_zwischenbericht_2020-05-24.pdf",
+      "size": 96569,
+      "sha256": "d46bae52e66ead7bf47cc74ca3d2954db29437b8b531ecc3d8a6f5c7c4249f20"
+    },
+    {
+      "path": "zwischenberichte/10_zwischenbericht_2020-11-20.pdf",
+      "size": 95673,
+      "sha256": "638c21646772394077e2def63221cb5499be001fb049d9b740fb24429507c7d7"
+    },
+    {
+      "path": "zwischenberichte/11_zwischenbericht_2021-05-23.pdf",
+      "size": 95836,
+      "sha256": "6fcdb6821f5d3fc9edebb79998cc7457211dbf8fb7b364607adbd9bb088649f0"
+    },
+    {
+      "path": "zwischenberichte/12_zwischenbericht_2021-11-29.pdf",
+      "size": 95835,
+      "sha256": "b96dad71c20c201c18679b8baff730784c233e3e03cf6b9123227c9bd5e4d369"
+    },
+    {
+      "path": "zwischenberichte/13_zwischenbericht_2022-05-23.pdf",
+      "size": 152643,
+      "sha256": "9c8133aee8b011e0f9e6062a60d8d3bbbb57c8f8664c65004ec7d390feffe0d7"
+    },
+    {
+      "path": "zwischenberichte/14_zwischenbericht_2023-02-05.pdf",
+      "size": 95701,
+      "sha256": "38c8dc5334bdc43bf388f829942a77a036dc4ba7f8300527d12235575c5b8d29"
+    },
+    {
+      "path": "zwischenberichte/15_zwischenbericht_2023-11-05.pdf",
+      "size": 96663,
+      "sha256": "24e8e2961096a7688c35405c50acdd662554148c5b170c9e2a5c59e1c5dde58b"
+    },
+    {
+      "path": "zwischenberichte/16_zwischenbericht_2024-03-30.pdf",
+      "size": 96587,
+      "sha256": "bf9dcbf3a9be8792286c821222019ac77fded51880358cb7e1f23c987480b903"
+    },
+    {
+      "path": "zwischenberichte/17_zwischenbericht_2024-05-28.pdf",
+      "size": 96523,
+      "sha256": "b2b511b99023ccfc0ac66e7e6f62e24f7cf8f11494891cafb8fada72c98111ff"
+    },
+    {
+      "path": "zwischenberichte/18_zwischenbericht_2024-11-25.pdf",
+      "size": 96668,
+      "sha256": "77a9a6c3754033f85c4c80cffafbe2070e1dce3a81f0ac2f48736ce3cafc0cce"
+    },
+    {
+      "path": "zwischenberichte/19_zwischenbericht_2025-05-18.pdf",
+      "size": 96720,
+      "sha256": "454cd938ea8db0394825c4b3daa1cd2981cac66aca1ff67cdf2b7f9192edf5ec"
+    },
+    {
+      "path": "zwischenberichte/20_zwischenbericht_2025-11-08.pdf",
+      "size": 96632,
+      "sha256": "8bc0378750f4a8358e898a519344640968b80eaf45bd0ac6ee5502458a757e0f"
+    },
+    {
+      "path": "zwischenberichte/21_zwischenbericht_2026-06-05.pdf",
+      "size": 95711,
+      "sha256": "9a3e1032f740951e6be575e59b0bcb5e574ffaf898e066f90b85766edc95d414"
+    },
+    {
+      "path": "zwischenberichte/22_zwischenbericht_2026-11-28.pdf",
+      "size": 91002,
+      "sha256": "6efbb6eae2cb28fa2a72bb8316b5b45b9d652078ddce6fd6b407818adfaf2940"
+    }
+  ]
+}

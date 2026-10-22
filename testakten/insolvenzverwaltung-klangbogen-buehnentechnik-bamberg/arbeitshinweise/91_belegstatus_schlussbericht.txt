@@ -1,0 +1,11 @@
+BELEGSTATUS
+
+Fuehrende Berichtsserie: Zwischenberichte 01 bis 22.
+Fuehrende Rechenquelle: 95_verfahrensrechnung_und_schlussreife.xlsx.
+Fuehrender Banknachweis: Bankbestaetigung vom 30.11.2026.
+Fuehrender Tabellenstand: Tabellenauszug vom 30.11.2026.
+Kostenfestsetzung: Der am 18.09.2024 noch offene Antrag ueber 1.284,30 EUR ist im
+Zwischenbericht 19 und im Abschlussreifevermerk vom 05.12.2026 als ohne Zahlung
+abgeschlossener Vorgang fortgeschrieben.
+Offene Gates: namentliche Freigabe; Verguetungsfestsetzung; Gerichtskostenrechnung;
+gerichtliche Zustimmung zur Schlussverteilung; Auszahlungsvollzug; Aufhebung.

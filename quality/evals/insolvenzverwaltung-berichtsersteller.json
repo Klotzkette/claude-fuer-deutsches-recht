@@ -241,6 +241,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "klangbogen-zwischenberichte-zum-schlussbericht",
+      "target_skill": "berichtserstellung-steuern",
+      "request": "Werten Sie die 22 Zwischenberichte der Klangbogen Bühnen- und Probenraumtechnik GmbH in ihrer zeitlichen Entwicklung aus. Gleichen Sie Bankbestand, Forderungstabelle, Schlusskosten, Verteilungsmasse und Quote mit dem Rechenwerk ab und erstellen Sie daraus einen Schlussbericht, eine Schlussrechnung, ein Schlussverzeichnis und eine Gate-Notiz. Spätere Erkenntnisse dürfen frühere Berichte nicht rückwirkend verändern.",
+      "input_files": [
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/zwischenberichte/01_zwischenbericht_2016-05-28.pdf",
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/zwischenberichte/13_zwischenbericht_2022-05-23.pdf",
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/zwischenberichte/22_zwischenbericht_2026-11-28.pdf",
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/rechenwerk/95_verfahrensrechnung_und_schlussreife.xlsx",
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/belege/03_bankbestaetigung_2026-11-30.pdf",
+        "testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/belege/07_tabellenauszug_2026-11-30.pdf"
+      ],
+      "deliverables": [
+        "Schlussbericht.docx",
+        "Schlussrechnung.xlsx",
+        "Schlussverzeichnis.xlsx",
+        "Gate-Notiz.docx"
+      ],
+      "criteria": [
+        {
+          "id": "klangbogen-1",
+          "text": "Verarbeitet alle 22 Berichtsstände chronologisch und kennzeichnet die Entwicklung von Verwertung, Prozessen, Steuern, Tabelle und Massebestand, ohne spätere Erkenntnisse in frühere Stichtage zu verlagern.",
+          "deliverables": [
+            "Schlussbericht.docx"
+          ]
+        },
+        {
+          "id": "klangbogen-2",
+          "text": "Gleicht Massebestand, festgestellte ordentliche Forderungen, Schlusskosten, Verteilungsmasse und Quote gegen Banknachweis, Rechenwerk und Tabellenstand ab; jede Abweichung bleibt sichtbar.",
+          "deliverables": [
+            "Schlussrechnung.xlsx",
+            "Schlussverzeichnis.xlsx"
+          ]
+        },
+        {
+          "id": "klangbogen-3",
+          "text": "Trennt Schlussbericht, Schlussrechnung und Schlussverzeichnis als führende Fassungen und behauptet weder menschliche Freigabe noch gerichtliche Festsetzung, Zustimmung, Auszahlung oder Aufhebung.",
+          "deliverables": [
+            "Schlussbericht.docx",
+            "Gate-Notiz.docx"
+          ]
+        },
+        {
+          "id": "klangbogen-4",
+          "text": "Benennt für jedes offene Gate die verantwortliche natürliche Person, den noch fehlenden Nachweis und den nächsten Arbeitsschritt.",
+          "deliverables": [
+            "Gate-Notiz.docx"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
@@ -298,7 +349,7 @@
       "Klarer Abschlussauftrag: Abschlussreifematrix, Rechenabgleich und getrennte Abschlussprodukte erstellen."
     ],
     "continuation": "Neue Unterlagen aktualisieren nur die betroffenen Fachmodule und erzeugen eine neue führende Version. Frühere eingereichte Fassungen bleiben unverändert und nachweisbar.",
-    "enrichment": "Drei fiktive Akten erproben fortlaufende Zwischenberichte, langen Abschlusslauf, geschlossene Rechenbrücke, gerichtliche Gates und spätere Nachtragsverteilung.",
+    "enrichment": "Vier fiktive Akten erproben fortlaufende Zwischenberichte, langen Abschlusslauf, geschlossene Rechenbrücke, gerichtliche Gates und spätere Nachtragsverteilung.",
     "limits": "Desk Review; keine autonome Einreichung, gerichtliche Zustimmung, Zahlung, Hinterlegung oder Aufhebung."
   }
 }

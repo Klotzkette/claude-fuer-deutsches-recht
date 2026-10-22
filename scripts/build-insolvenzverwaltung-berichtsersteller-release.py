@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Baut das Komponentenrelease für den Insolvenzbericht-Ersteller 1.0.0."""
+"""Baut das Komponentenrelease für den Insolvenzbericht-Ersteller 1.1.0."""
 
 from __future__ import annotations
 
@@ -26,13 +26,14 @@ from testakte_office_pdf import office_binary, valid_office_container
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "insolvenzverwaltung-berichtsersteller"
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 TAG = f"{NAME}-v{VERSION}"
 KINDS = ("werkstatt", "schnellstart")
 CASES = (
     "insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg",
     "insolvenzverwaltung-nordlicht-handels-kiel",
     "insolvenzverwaltung-moebelwerk-havelberg-regelverfahren",
+    "insolvenzverwaltung-klangbogen-buehnentechnik-bamberg",
 )
 
 

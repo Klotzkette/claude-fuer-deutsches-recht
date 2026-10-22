@@ -7,6 +7,7 @@ on:
       - 'testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/**'
       - 'testakten/insolvenzverwaltung-nordlicht-handels-kiel/**'
       - 'testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/**'
+      - 'testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/**'
       - 'scripts/*insolvenzverwaltung*'
       - 'quality/insolvenzverwaltung-berichtsersteller/**'
       - 'quality/evals/insolvenzverwaltung-berichtsersteller.json'
@@ -14,9 +15,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag insolvenzverwaltung-berichtsersteller-v1.0.0
+        description: Komponententag insolvenzverwaltung-berichtsersteller-v1.1.0
         required: true
-        default: insolvenzverwaltung-berichtsersteller-v1.0.0
+        default: insolvenzverwaltung-berichtsersteller-v1.1.0
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -34,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      TAG: ${{ inputs.tag || 'insolvenzverwaltung-berichtsersteller-v1.0.0' }}
+      TAG: ${{ inputs.tag || 'insolvenzverwaltung-berichtsersteller-v1.1.0' }}
       GH_REPO: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v5
@@ -51,7 +52,7 @@ jobs:
           sudo apt-get install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
       - name: Komponente und Quellen prüfen
         run: |
-          test "$TAG" = 'insolvenzverwaltung-berichtsersteller-v1.0.0'
+          test "$TAG" = 'insolvenzverwaltung-berichtsersteller-v1.1.0'
           test -s "docs/releases/$TAG.md"
           python3 scripts/test-insolvenzverwaltung-berichtsersteller.py
           python3 scripts/validate-yaml-frontmatter.py
@@ -66,6 +67,7 @@ jobs:
             testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/gesamt-pdf \
             testakten/insolvenzverwaltung-nordlicht-handels-kiel/gesamt-pdf \
             testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/gesamt-pdf \
+            testakten/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg/gesamt-pdf \
             quality/insolvenzverwaltung-berichtsersteller/release-pakete.json
       - name: Geprüfte Pakete sichern
         if: always()
@@ -118,7 +120,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder zeigt auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller 1.0.0',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller 1.1.0',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           release = None
           for delay in (0, 2, 4, 8, 16):
@@ -131,8 +133,8 @@ jobs:
           if release is None or not release['isDraft'] or release['tagName'] != tag:
               raise RuntimeError('Entwurfsrelease nicht bestätigt; Veröffentlichung gestoppt.')
           expected = {path.name for path in dist.iterdir() if path.is_file()}
-          if len(expected) != 19:
-              raise RuntimeError('Neunzehn Assets erforderlich.')
+          if len(expected) != 22:
+              raise RuntimeError('Zweiundzwanzig Assets erforderlich.')
           gh('release', 'upload', tag, *map(str, sorted(dist.iterdir())))
           with tempfile.TemporaryDirectory(prefix='insolvenzverwaltung-berichtsersteller-download-') as temporary:
               target = Path(temporary)
@@ -151,5 +153,5 @@ jobs:
               raise RuntimeError('Öffentlicher Releasestatus oder Assetumfang weicht ab.')
           if json.loads(gh('api', f'repos/{repo}/releases/latest'))['tag_name'] != latest_before:
               raise RuntimeError('Das neueste Gesamtrelease wurde unerwartet verändert.')
-          print(f'{tag}: neunzehn Assets bytegenau geprüft; Tag {sha}; Komponentenrelease veröffentlicht.')
+          print(f'{tag}: zweiundzwanzig Assets bytegenau geprüft; Tag {sha}; Komponentenrelease veröffentlicht.')
           PY

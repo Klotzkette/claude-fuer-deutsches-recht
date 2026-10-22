@@ -1,0 +1,43 @@
+name: Insolvenzverwaltung Klangbogen Buehnentechnik Bamberg
+plugin: insolvenzverwaltung-berichtsersteller
+checks:
+- id: r01-readme
+  check_type: file_exists
+  description: README vorhanden
+  path: README.md
+- id: r02-gesamt-pdf
+  check_type: file_exists
+  description: Gesamt-PDF vorhanden
+  path: gesamt-pdf/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg_gesamt.pdf
+- id: r03-dokumentumfang
+  check_type: working_file_count
+  description: Mindestens 44 exportierbare Arbeitsunterlagen
+  min: 44
+- id: r04-bericht-01
+  check_type: file_exists
+  description: Erster Zwischenbericht vorhanden
+  path: zwischenberichte/01_zwischenbericht_2016-05-28.pdf
+- id: r05-bericht-13
+  check_type: file_exists
+  description: Zwischenbericht mit Nachweiskonvolut vorhanden
+  path: zwischenberichte/13_zwischenbericht_2022-05-23.pdf
+- id: r06-bericht-22
+  check_type: file_exists
+  description: Letzter Zwischenbericht vorhanden
+  path: zwischenberichte/22_zwischenbericht_2026-11-28.pdf
+- id: r07-rechenwerk
+  check_type: file_exists
+  description: Bearbeitbares Rechenwerk vorhanden
+  path: rechenwerk/95_verfahrensrechnung_und_schlussreife.xlsx
+- id: r08-chronologie
+  check_type: human_review
+  description: Die 22 Berichte bilden eine lueckenlose Chronologie ohne spaetere Erkenntnisse
+    in frueheren Berichten.
+- id: r09-rechenkonsistenz
+  check_type: human_review
+  description: Massebestand 538776.34, Reserven 119776.27, Verteilungsmasse 419000.07
+    und Forderungsbasis 1764825.62 stimmen ueberein.
+- id: r10-gates
+  check_type: human_review
+  description: Der letzte Bericht benennt Schlussreife, ohne Freigabe, gerichtliche
+    Zustimmung, Zahlung oder Aufhebung zu erfinden.
