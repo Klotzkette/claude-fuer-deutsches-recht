@@ -38,8 +38,11 @@ Eine natürliche Person muss jede gerichtliche Einreichung, rechtsverbindliche E
 
 ## 4. Prompts und Vorlagen
 
-- [Werkstatt-Prompt](./insolvenzverwaltung-berichtsersteller-werkstatt.md): vollständiger Berichtslauf mit Fachmodulen, Kontrollen und Freigaben.
-- [Schnellstart-Prompt (Mini-Prompt)](./insolvenzverwaltung-berichtsersteller-schnellstart.md): kompakter Arbeitsauftrag für ChatGPT, Codex oder Claude.
+| Prompt | Zweck | Downloads |
+| --- | --- | --- |
+| Werkstatt | Vollständiger Berichtslauf mit Fachmodulen, Kontrollen und Freigaben | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/insolvenzverwaltung-berichtsersteller-werkstatt.pdf) |
+| Schnellstart / Mini-Prompt | Kompakter Arbeitsauftrag für ChatGPT, Codex oder Claude | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzverwaltung-berichtsersteller/insolvenzverwaltung-berichtsersteller-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/insolvenzverwaltung-berichtsersteller-schnellstart.pdf) |
+
 - [Arbeitsweise](./references/arbeitsweise.md): Tatsachenstatus, Fassungen, Rechenkontrolle und Außenwirkung.
 - [Produkte, Gates und Übergaben](./references/produkte-gates-und-uebergaben.md): verbindliche Workflow-Schnittstellen.
 - [Amtliche Quellen](./references/rechtsquellen.md): im Repository bereits volltextgeprüfte Norm- und Entscheidungsanker mit Aussagegrenzen.
