@@ -28,6 +28,8 @@ Wartezeit und Betriebsgröße nach Paragrafen 1 und 23 KSchG mit Teilzeitgewicht
 4. Sonderkündigungsschutz: Schwangerschaft, Elternzeit, Schwerbehinderung, Gleichstellung und Betriebsratsamt mit Kenntnisdaten prüfen. Paragraf 102 BetrVG, Paragraf 103 BetrVG, Behördenzustimmung und Schwerbehindertenvertretung getrennt behandeln; im öffentlichen Dienst das einschlägige Personalvertretungsrecht. BAG, 3. April 2025, 2 AZR 156/24: Bei fehlender Arbeitgeberkenntnis verschiebt Schwangerschaft nicht automatisch die Klagefrist; schuldlos späte Kenntnis führt zur Prüfung von Paragraf 5 KSchG. EuGH, 27. Juni 2024, C-284/23, schützt effektiven Zugang zum Gericht.
 5. Personalabbau: Schwellen und Zeitraum nach Paragraf 17 KSchG, Konsultation, Anzeige und Zugang dokumentieren. BAG, 1. April 2026, 6 AZR 157/22 und 6 AZR 152/22: Fehlende Anzeige beziehungsweise Anzeige vor Konsultationsabschluss können die Kündigung unwirksam machen. BAG, 25. Juni 2026, 6 AZR 7/26: Nicht jeder Detailfehler schadet; Bedeutung für die Behördenaufgabe begründen. Betriebsübergang nach Paragraf 613a BGB und Insolvenzregeln gesondert prüfen.
 
+Vorfeldschutz nach Paragraf 15 Absatz 3b KSchG dem Arbeitgeber bei Unkenntnis regelmäßig binnen drei Wochen mitteilen (BAG, 30.07.2026, 2 AZR 70/25): Verwirkung, keine starre Ausschlussfrist.
+
 ## 1.4. Vom Vortrag zum Schriftsatz
 
 Behauptung, Gegenposition, Beleg und Beweisangebot intern zuordnen. Paragrafen 138 und 286 ZPO beachten; keine Zeugen erfinden. BAG, 29. Juni 2023, 2 AZR 296/22, betrifft offene Videoüberwachung, keine allgemeine Freigabe jeder Verwertung.

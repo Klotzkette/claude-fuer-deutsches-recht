@@ -17,6 +17,21 @@
       "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
       "checked_on": "2026-10-22",
       "supports": "Klar erkennbare Erklaerung, elektronische Einreichung und Zustellung oder Mitteilung als Voraussetzungen der Formfiktion."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/",
+      "checked_on": "2026-10-22",
+      "supports": "Konkrete Schutzmitteilung von Vorfeldinitiatoren neben der Klagesicherung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-89-25/",
+      "checked_on": "2026-10-22",
+      "supports": "Organstellung bei Kündigungszugang und Vertragsstatus getrennt feststellen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+      "checked_on": "2026-10-22",
+      "supports": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung."
     }
   ],
   "selection": {
@@ -478,6 +493,38 @@
           ]
         }
       ]
+    },
+    {
+      "id": "vorfeldschutz-und-offenbarung",
+      "target_skill": "sonderkuendigungsschutz-beteiligung",
+      "request": "Die Kündigung ging am 08.10.2026 zu. Der Arbeitgeber kennt weder die öffentlich beglaubigte Erklärung zur Betriebsratsgründung noch die Vorbereitungshandlungen. Die Klage ist schon eingereicht; sie rügt bisher nur allgemein Paragraf 15 KSchG. Heute ist der 22.10.2026. Was fehlt vor der weiteren Schriftsatzarbeit?",
+      "input_files": [],
+      "deliverables": [
+        "schutzmitteilung.md"
+      ],
+      "criteria": [
+        {
+          "id": "schutzkonkret",
+          "text": "Konkrete Geltendmachung gegenüber dem Arbeitgeber neben der rechtzeitig erhobenen Klage vorbereiten; allgemeine Rüge reicht nicht.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        },
+        {
+          "id": "verwirkung",
+          "text": "BAG 2 AZR 70/25 als Verwirkungsprüfung anwenden, Übermittlungszeit und Umstände beachten, keine starre gesetzliche Ausschlussfrist erfinden.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        },
+        {
+          "id": "fertiger-text",
+          "text": "Arbeitgebermitteilung mit belegten Vorbereitungshandlungen und beglaubigter Erklärung ausformulieren; fehlende Einzelheiten gezielt erfragen und tatsächliche Übermittlung nicht behaupten.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
@@ -488,7 +535,7 @@
       "Gezielte Rückfragen mit Entwurfsfortsetzung",
       "Anzeigeentscheidungen 2026 differenzieren"
     ],
-    "sha256": "a7d9a39ba66277b530e458ccea70e1807e373b47d2204e5da0734849c7ab4f39"
+    "sha256": "3499b96b578ea8cc7d71b90d45340a5d95020661825565d3103baa9b9ca9cf68"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -498,7 +545,7 @@
       "Kündigungsgründe und Beteiligungen individuell bearbeiten",
       "Vollständige Schriftsätze, Vergleich und Lohnfolgen"
     ],
-    "sha256": "fdd6ca1f9e0c7416a5f37729d543efebb9f774b0f09065a91900a4d39d32669a"
+    "sha256": "f3b93f040d5c6d397909842dbe83339da6a53d2fa8e8524041301566185bf2eb"
   },
   "focus_review": {
     "method": "desk_review",
@@ -614,6 +661,27 @@
         "source_status": "official_full_text",
         "application": "Gesamtberechnung auch bei boeswillig unterlassenem Verdienst; oeffentliche Leistungen gesondert.",
         "limit": "Zumutbarkeit und Boeswilligkeit vorher pruefen, uebergegangene Ansprueche nicht doppelt fordern."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026, 2 AZR 70/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/",
+        "source_status": "official_full_text",
+        "application": "Konkrete Schutzmitteilung von Vorfeldinitiatoren neben der Klagesicherung.",
+        "limit": "Regelfrist statt starrer Ausschlussfrist; Übermittlungszeit und Umstände beachten."
+      },
+      {
+        "citation": "BAG, Urteil vom 18.06.2026, 2 AZR 89/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-89-25/",
+        "source_status": "official_full_text",
+        "application": "Organstellung bei Kündigungszugang und Vertragsstatus getrennt feststellen.",
+        "limit": "Vorherige Abberufung begründet allein keinen Arbeitnehmerstatus."
+      },
+      {
+        "citation": "BAG, Beschluss vom 30.09.2026, 2 AZN 339/26",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+        "source_status": "official_full_text",
+        "application": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung.",
+        "limit": "Konkrete Nichtzulassungsbeschwerde; kein allgemeines Verbot technischer Hilfen."
       }
     ]
   },

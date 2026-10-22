@@ -69,6 +69,7 @@ jobs:
           python3 scripts/test-insolvenzanfechtung.py
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/test-source-release-candidates.py
       - name: Lesefassungen und Pakete bauen und prüfen
         run: |
           mkdir -p "$RUNNER_TEMP/anfechtungsakten"
@@ -86,7 +87,9 @@ jobs:
           PYTHON
           cp testakten/fintech-darlehen-vertragsuebernahme-bremen/gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf "$RUNNER_TEMP/anfechtungsakten/"
           python3 scripts/test-fintech-bremen.py --assets "$RUNNER_TEMP/anfechtungsakten"
-          python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten"
+          candidate=()
+          if [ "$GITHUB_EVENT_NAME" = pull_request ]; then candidate=(--candidate); fi
+          python3 scripts/build-insolvenzanfechtung-release.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist" --case-assets "$RUNNER_TEMP/anfechtungsakten" "${candidate[@]}"
           python3 scripts/test-insolvenzanfechtung.py --dist "$RUNNER_TEMP/insolvenzanfechtung-dist"
       - name: Geprüfte Pakete sichern
         if: always()

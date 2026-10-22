@@ -58,6 +58,8 @@ Rechtsweg nach Paragrafen 2 und 5 ArbGG, örtliche Zuständigkeit nach den anwen
 
 Wartezeit von mehr als sechs Monaten und regelmäßige Arbeitnehmerzahl nach Paragrafen 1 und 23 KSchG unterscheiden. Betriebseinheit, Teilzeitgewichtung, Ausbildung und gegebenenfalls Übergangsregel für Altbeschäftigte prüfen. Nicht die Gesamtbeschäftigtenzahl eines Konzerns ungeprüft verwenden. Im Kleinbetrieb kommen insbesondere Form, Frist, Sonderkündigungsschutz, Maßregelung und weitere Unwirksamkeitsgründe in Betracht; keine vollständige Sozialrechtfertigungsprüfung ohne einschlägigen Anwendungsbereich vortäuschen.
 
+Bei abberufenen Geschäftsführern Organstellung bei Kündigungszugang und Vertragsstatus getrennt feststellen. BAG, 18. Juni 2026, 2 AZR 89/25: Ist das Organamt zuvor beendet, greift Paragraf 14 Absatz 1 Nummer 1 KSchG nicht mehr. Die Abberufung macht einen Dienstvertrag aber nicht automatisch zum Arbeitsvertrag. Vertrag, tatsächliche Weisungsbindung und die übrigen Schutzvoraussetzungen bleiben zu prüfen.
+
 ## 1.7. Betriebsbedingten Aufgabenwegfall konkret überprüfen
 
 Lassen Sie sich die tatsächlich getroffene Organisationsentscheidung mit Datum und Inhalt belegen. Ein schlechter Umsatz oder der Wunsch nach Personalkostensenkung erklärt noch nicht, warum genau diese vertragsgemäße Beschäftigung bis zum Kündigungstermin wegfallen wird. Ordnen Sie bisherige Aufgaben, Zeitanteile, zukünftige Verteilung und vorhandene Kapazitäten zu. Wenn verbleibende Arbeitnehmer Aufgaben übernehmen sollen, muss das Arbeitsvolumen nachvollziehbar ohne dauerhafte Überlastung bewältigt werden können.
@@ -113,6 +115,8 @@ Die Äußerungsfrist beträgt bei ordentlicher Kündigung grundsätzlich eine Wo
 Bei Schwerbehinderung oder Gleichstellung Zustimmung des Integrationsamts nach Paragrafen 168 ff. SGB IX, Ausnahmen und besondere Fristen prüfen. Anhörung der Schwerbehindertenvertretung nach Paragraf 178 Absatz 2 SGB IX ist eine weitere Frage. Kenntnis des Arbeitgebers, Antragstellung und Nachweiszeitpunkt exakt erheben. Weder Zustimmungsfiktion noch deren Fristen aus einer anderen Kündigungsart übertragen.
 
 Bei öffentlichem Arbeitgeber das einschlägige Bundes- oder Landespersonalvertretungsrecht verwenden. Die Betriebsratsfristen nicht automatisch einsetzen. Bei mehreren Beteiligungswegen eine datierte Verfahrensübersicht erstellen, daraus aber nur die konkret gerügten oder zu verteidigenden Mängel in den Schriftsatz aufnehmen.
+
+Für Vorfeldinitiatoren nach Paragraf 15 Absatz 3b KSchG Arbeitgeberkenntnis und Schutzmitteilung erfassen. BAG, 30. Juli 2026, 2 AZR 70/25: Bei unbekanntem Schutz regelmäßig binnen drei Wochen gegenüber dem Arbeitgeber geltend machen; Verwirkung ist keine starre Ausschlussfrist, Übermittlungszeit und Umstände beachten. Eine allgemeine Berufung auf Paragraf 15 KSchG genügt nicht. Klagefrist separat sichern.
 
 ## 1.13. Schwangerschaft, Elternzeit und weitere Schutzlagen
 
@@ -233,6 +237,8 @@ Formatierte Dokumente soweit technisch möglich in Times New Roman 11 pt mit aus
 Anlagen aus Originalunterlagen zusammenstellen, sinnvoll nummerieren und nach Vorbefassung vorhandene Bezeichnungen fortführen. Originale unverändert aufbewahren. Keine Anlage als vorhanden bezeichnen, wenn nur ein Mandantenhinweis darauf existiert. Sprechende ASCII-Dateinamen mit Unterstrichen verwenden. Bei vorhandenen Werkzeugen DOCX und PDF wirklich erzeugen und die PDF-Seiten auf Lesbarkeit, Umbruch und Vollständigkeit prüfen. Eine bloße Dateiendung ist kein Formatnachweis.
 
 Paragrafen 46c und 46g ArbGG für anwaltliche elektronische Einreichung beachten. Verantwortende Person, einfache Signatur mit sicherem Übermittlungsweg beziehungsweise qualifizierte elektronische Signatur und tatsächlichen Versandweg unterscheiden. Ein technischer Ausfall führt nur unter den gesetzlichen Voraussetzungen zur Ersatzeinreichung; Unmöglichkeit und Glaubhaftmachung müssen konkret dokumentiert werden. Nach tatsächlich beauftragter Einreichung den gerichtlichen Eingangsbeleg prüfen. Ohne entsprechenden Auftrag weder Klage einreichen noch Vergleich schließen, Anerkenntnis erklären oder Verzicht übermitteln.
+
+BAG, Beschluss vom 30. September 2026, 2 AZN 339/26: Ungeprüftes Unterzeichnen ersetzt die eigenverantwortliche anwaltliche Bearbeitung nicht. Der Beschluss betrifft die konkrete Nichtzulassungsbeschwerde mit nicht existierenden Entscheidungen; daraus weder ein allgemeines Werkzeugverbot noch eine Unwirksamkeit jeder maschinell vorbereiteten Klage ableiten. Verantwortung, Quellenkontrolle und inhaltliche Freigabe bleiben beim Vertretungsberechtigten.
 
 ## 1.25. Quellenprüfung, Fortsetzung und Abschluss
 

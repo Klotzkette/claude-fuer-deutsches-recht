@@ -10,6 +10,8 @@ Die Entscheidungsanker berücksichtigen insbesondere die BAG-Urteile vom 1. Apri
 
 Die Formfiktion für elektronische Prozesskündigungen nach Paragraf 46h ArbGG wird von der allgemeinen Schriftformregel getrennt. Die Vergütungsprüfung erfasst Zwischenverdienst zunächst belegbezogen und führt ihn anschließend zur Gesamtanrechnung im maßgeblichen Annahmeverzugszeitraum zusammen.
 
+Zusätzlich sind drei im Oktober 2026 veröffentlichte Entscheidungen eingeordnet: Schutzmitteilung von Vorfeldinitiatoren, Kündigung nach bereits beendeter Organstellung und eigenverantwortliche Prüfung fremd vorbereiteter Schriftsätze. Die jeweiligen Aussagegrenzen stehen neben dem Anker.
+
 ## 1.2. Downloads
 
 Installierbares und portables Plugin enthalten die elf Skills und ihre Referenzen. Werkstatt, Schnellstart und Hauptproblem-Prompt werden separat als Markdown angeboten. Die beiden kompakten Prompts bleiben jeweils unter 7500 Zeichen und UTF-8-Bytes einschließlich Leerzeichen und Zeilenumbrüchen.
