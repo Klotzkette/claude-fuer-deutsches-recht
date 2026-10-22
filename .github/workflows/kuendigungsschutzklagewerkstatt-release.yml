@@ -1,4 +1,4 @@
-name: Kündigungsschutzklagewerkstatt und drei Arbeitsakten
+name: Kündigungsschutzklagewerkstatt und fünf Arbeitsakten
 
 on:
   pull_request:
@@ -7,6 +7,11 @@ on:
       - 'testakten/arbeitsrecht-kuendigung-betriebsbedingt-leipzig/**'
       - 'testakten/arbeitsrecht-verdachtskuendigung-bonn/**'
       - 'testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg/**'
+      - 'testakten/arbeitsrecht-muster-seewerk-*/**'
+      - 'scripts/*seewerk*'
+      - 'scripts/data/seewerk-*.json'
+      - 'quality/seewerk-quellenauszuege.json'
+      - 'scripts/validate-testakten-dokumentqualitaet.py'
       - 'scripts/*kuendigungsschutz*'
       - 'scripts/data/kuendigungsschutz-akten.json'
       - 'quality/evals/arbeitsrecht-kuendigungsschutzklagewerkstatt.json'
@@ -14,9 +19,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0
+        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0
         required: true
-        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0
+        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0
 
 permissions:
   contents: read
@@ -47,6 +52,7 @@ jobs:
           python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py
+          python3 scripts/test-seewerk-akten.py
           python3 scripts/build-kuendigungsschutz-release.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
       - uses: actions/upload-artifact@v4

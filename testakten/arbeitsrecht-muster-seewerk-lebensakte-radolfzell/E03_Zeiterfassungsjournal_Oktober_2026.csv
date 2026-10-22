@@ -1,0 +1,11 @@
+﻿Datum;Wochentag;Personalnummer;Terminal;Schicht;Kommen;Gehen;Pause_Minuten;Bemerkung
+2026-10-05;Montag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:55;14:01;30;Pause 30 Min. automatisch
+2026-10-06;Dienstag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:53;14:04;30;Pause 30 Min. automatisch
+2026-10-07;Mittwoch;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:56;14:02;30;Pause 30 Min. automatisch
+2026-10-08;Donnerstag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:54;14:00;30;Pause 30 Min. automatisch
+2026-10-09;Freitag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:57;14:03;30;Pause 30 Min. automatisch
+2026-10-12;Montag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:54;14:02;30;Pause 30 Min. automatisch
+2026-10-13;Dienstag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:56;14:05;30;Pause 30 Min. automatisch
+2026-10-14;Mittwoch;20417;Halle 2;Frühschicht 06:00 bis 14:00;06:24;14:01;30;Pause 30 Min. automatisch
+2026-10-15;Donnerstag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:52;14:00;30;Pause 30 Min. automatisch
+2026-10-16;Freitag;20417;Halle 2;Frühschicht 06:00 bis 14:00;05:55;14:03;30;"Pause 30 Min. automatisch; Anlage Wartung 06:00 bis 08:00"

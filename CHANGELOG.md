@@ -1,4 +1,10 @@
-# 1. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
+# 1. Kündigungsschutzklagewerkstatt 1.1.0 vom 22. Oktober 2026
+
+Das Mandat Muster / Seewerk ist in zwei getrennten Fassungen aufgenommen: vorlagengetreu mit vierzehn logischen Anlagen sowie als ausführliche Lebensakte mit weiteren Originaldokumenten und App-Ansichten. Jede Fassung bietet einen Gesamtband, dokumentweise getrennte Einzel-PDFs, native Originale und einen zusätzlichen Satz mit genau K1 bis K14.
+
+Mündliche Zusatzangaben und verifizierte Quellenkorrekturen sind ausschließlich gesondertes Referentenmaterial. Die Quellenkarte berichtigt insbesondere die europäische Monatsfrist und begrenzt die Übertragung der Entscheidungen zu privatem Kontozugriff, Bonus, Ausschlussfrist und Beschäftigungstitel. Die drei bisherigen kleinen Akten bleiben unverändert. [Releaseumfang und Prüfgrenzen](docs/releases/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0.md).
+
+# 2. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
 
 Zehn Fachskills und ein Hauptskill führen vom Kündigungszugang über die richtige Klage oder Erwiderung bis zu Vergleich, Weiterbeschäftigung und Vergütung. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts enthalten konkrete Frist- und Beteiligungswege sowie eingeordnete BAG-Rechtsprechung einschließlich der Entscheidungen 2026 zu Massenentlassungsanzeigen und zum Zugangsbeweis.
 

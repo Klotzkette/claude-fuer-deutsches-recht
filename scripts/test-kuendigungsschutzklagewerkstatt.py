@@ -99,7 +99,7 @@ def check(dist=None):
     download_checks = module("validate-testakten-readme-downloads")
     errors = []
     count = download_checks.validate_download_notices(NAME + "/README.md", (PLUGIN / "README.md").read_text(), errors)
-    require(count == 3 and not errors, f"Downloadhinweise: {errors}")
+    require(count == 5 and not errors, f"Downloadhinweise: {errors}")
     cases = json.loads((ROOT / "scripts/data/kuendigungsschutz-akten.json").read_text(encoding="utf-8"))
     module("build-kuendigungsschutz-akten").validate_data(cases)
     documents = pages = 0
@@ -154,7 +154,7 @@ def check(dist=None):
         pages += len(individual_texts)
     if dist:
         files = {path.name: path for path in dist.iterdir() if path.is_file()}
-        require(len(files) == 26, "Releaseumfang")
+        require(len(files) == 36, "Releaseumfang")
         for line in files["checksums-sha256.txt"].read_text().splitlines():
             digest, filename = line.split("  ", 1)
             require(hashlib.sha256(files[filename].read_bytes()).hexdigest() == digest, "Prüfsumme")

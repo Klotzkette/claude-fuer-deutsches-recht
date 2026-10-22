@@ -1,6 +1,6 @@
 # arbeitsrecht-kuendigungsschutzklagewerkstatt
 
-**11 Skills** · Stand `v1.0.0`
+**11 Skills** · Stand `v1.1.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../arbeitsrecht-kuendigungsschutzklagewerkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [arbeitsrecht-kuendigungsschutzklagewerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
+| **Plugin (installierbar)** | ZIP | [arbeitsrecht-kuendigungsschutzklagewerkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
 
 ## So benutzt man einen Skill
 

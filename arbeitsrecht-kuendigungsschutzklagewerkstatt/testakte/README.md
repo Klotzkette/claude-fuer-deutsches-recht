@@ -1,18 +1,18 @@
 # 1. Kündigungsschutz Aktenregister
 
-Drei kleine Arbeitsakten für die anwaltliche Bearbeitung von Kündigungsschutzmandaten. Öffnen Sie die Gesamtakte als PDF oder nutzen Sie die Einzel-PDFs und nativen Originale zur eigenen Aktenbearbeitung. Aktenstand: 22.10.2026. Jede Akte umfasst zwölf Originalunterlagen; die Sammlung umfasst 39 PDF-Seiten. Eine große Akte ist nicht Teil dieses Bestands.
+Drei kleine Arbeitsakten und zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk. Jede Fassung liefert eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
 
-Die Arbeitsverträge sind vollständig ausformuliert und mehrseitig. E-Mails sind echte MIME-Dateien mit bytegleichen DOCX-Anlagen. Entgeltkonten enthalten jeweils vier monatliche Datenzeilen. Die Originale enthalten keine Lösung, Bewertung, Musterklage oder redaktionellen Arbeitsaufträge.
+Die drei kleinen Akten haben den Aktenstand 22.10.2026 und bleiben unverändert. Die beiden Seewerk-Fassungen verwenden den simulierten Bearbeitungstag 23.11.2026. Der tatsächliche Quellenprüfstand ist 22.10.2026. Das [Referentenmaterial](../referentenmaterial/README.md) bleibt vollständig außerhalb der Akten-Downloads.
 
 <!-- reserved-example-contacts -->
 
-Alle Personen, Unternehmen, Praxen, Anschriften und Vorgangsnummern sind erfunden; die Orte dienen als geografischer Rahmen. Kontaktadressen verwenden reservierte .example-Domains. Es werden keine realen Patientendaten verwendet. Beide ZIP-Varianten sind flach, ohne Markdown, mit README.txt als erstem Eintrag. Die PDFs enthalten keinen Warnhinweis. Alle folgenden Downloadlinks sind relativ und führen auf vorhandene lokale Dateien. Die neun Dateien in `downloads/` sind zugleich die Akten-Assets für den Komponentenrelease `arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0`; dessen Veröffentlichung ist nicht Bestandteil dieses Builds.
+Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Bilder sind Rekonstruktionen einer erfundenen Oberfläche. Kein Download enthält Lösungsblätter oder nachträglich erfundene Gerichtsentscheidungen. README.txt steht in jedem ZIP zuerst; in den PDFs steht kein Warnhinweis. Alle folgenden Links führen auf vorhandene lokale Dateien.
 
 ## 1.1. Ottilie Riemenschneider und die Versanddisposition in Leipzig
 
 Eine Kündigung nach Zusammenlegung zweier Versandlinien. Zur Akte gehören die Personalunterlagen, die betriebliche Auswahlaufzeichnung, ein Stellenblatt und die Korrespondenz mit dem Betriebsrat.
 
-[Bestandsverzeichnis und Originale](../../testakten/arbeitsrecht-kuendigung-betriebsbedingt-leipzig/README.md)
+[Originale und Verzeichnis](../../testakten/arbeitsrecht-kuendigung-betriebsbedingt-leipzig/README.md)
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -28,7 +28,7 @@ Eine Kündigung nach Zusammenlegung zweier Versandlinien. Zur Akte gehören die 
 
 Ein tragbares Messgerät fehlt im Laborbestand. Die Unterlagen enthalten eine Anhörung, technische Buchungen, eine Werkstattübergabe und unterschiedliche Erinnerungen an einen Transportkoffer.
 
-[Bestandsverzeichnis und Originale](../../testakten/arbeitsrecht-verdachtskuendigung-bonn/README.md)
+[Originale und Verzeichnis](../../testakten/arbeitsrecht-verdachtskuendigung-bonn/README.md)
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -44,7 +44,7 @@ Ein tragbares Messgerät fehlt im Laborbestand. Die Unterlagen enthalten eine An
 
 Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte enthält die medizinische Bescheinigung, Nachrichten an die Personalstelle und betriebliche Aufzeichnungen über Gespräche und den Nachrichteneingang.
 
-[Bestandsverzeichnis und Originale](../../testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg/README.md)
+[Originale und Verzeichnis](../../testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg/README.md)
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -55,3 +55,37 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 | Gesamt-PDF | [Gesamtakte mit Lesezeichen](downloads/arbeitsrecht-kuendigung-schwangerschaft-augsburg_gesamt.pdf) |
 | Einzel-PDF-ZIP | [Zwölf einzelne PDF-Unterlagen](downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg-einzelpdfs.zip) |
 | Akten-ZIP | [Originalformate DOCX, EML, CSV und TXT](downloads/testakte-arbeitsrecht-kuendigung-schwangerschaft-augsburg.zip) |
+
+## 1.4. Muster ./. Seewerk – vorlagengetreue Konzeptfassung
+
+23 Originale, 23 PDF-Seiten, vierzehn logische Kernanlagen. Simulierter Bearbeitungstag: 23.11.2026.
+
+[Originale und Dokumentenverzeichnis](../../testakten/arbeitsrecht-muster-seewerk-konzept-radolfzell/README.md)
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Format | Download |
+| --- | --- |
+| Gesamt-PDF | [Durchsuchbare Gesamtakte](downloads/arbeitsrecht-muster-seewerk-konzept-radolfzell_gesamt.pdf) |
+| Einzel-PDF-ZIP | [Jedes tatsächliche Dokument als eigenes PDF](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-einzelpdfs.zip) |
+| Akten-ZIP | [Bearbeitbare Originaldateien](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell.zip) |
+| Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](downloads/testakte-arbeitsrecht-muster-seewerk-konzept-radolfzell-anlagen-k1-k14.zip) |
+
+## 1.5. Muster ./. Seewerk – ausführliche Lebensakte
+
+44 Originale, 50 PDF-Seiten, vierzehn logische Kernanlagen. Simulierter Bearbeitungstag: 23.11.2026.
+
+[Originale und Dokumentenverzeichnis](../../testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md)
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Format | Download |
+| --- | --- |
+| Gesamt-PDF | [Durchsuchbare Gesamtakte](downloads/arbeitsrecht-muster-seewerk-lebensakte-radolfzell_gesamt.pdf) |
+| Einzel-PDF-ZIP | [Jedes tatsächliche Dokument als eigenes PDF](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip) |
+| Akten-ZIP | [Bearbeitbare Originaldateien](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
+| Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-anlagen-k1-k14.zip) |
