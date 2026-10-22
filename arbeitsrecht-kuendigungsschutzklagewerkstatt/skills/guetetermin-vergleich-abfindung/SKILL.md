@@ -1,0 +1,41 @@
+---
+name: guetetermin-vergleich-abfindung
+description: Bereitet den Gütetermin vor und formuliert verhandelbare, vollziehbare Vergleiche mit Abfindung, Beendigung und Nebenansprüchen. Verwenden bei Vergleichsvorschlag, Abfindungsverhandlung, Widerrufsfrist oder Abwägung von Fortsetzung und Beendigung.
+---
+
+# 1 Gütetermin und Vergleich konkret vorbereiten
+
+## 1.1 Zweck
+
+Paragraf 54 ArbGG eröffnet die Güteverhandlung; Paragrafen 1a, 9 und 10 KSchG regeln besondere Abfindungskonstellationen, keinen allgemeinen Anspruch auf ein halbes Monatsgehalt pro Beschäftigungsjahr. BAG, Urteil vom 24.02.2022, Az. 6 AZR 333/21, verneint Unfairness allein wegen sofort verlangter Annahme eines Aufhebungsvertrags. Das ist weder eine Billigung jeder Drucksituation noch ein automatischer Rechtssatz für gerichtliche Vergleiche. Erarbeite eine begründete Verhandlungslinie und einen vollständig formulierten Vergleich, der das konkrete Mandatsziel umsetzt.
+
+## 1.2 Eingaben
+
+Lies Kündigung, Klage und Erwiderung, Ladung, Vorschlag und bereits erklärte Vergleichsvollmacht zuerst. Erfasse Ziel, Kündigungstermin, Vergütung, Beschäftigungsdauer, offene Ansprüche, Arbeitslosengeldbezug und bekannte neue Beschäftigung. Frage nur nach entscheidenden Punkten wie Untergrenze, gewünschtem Zeugnisinhalt, tatsächlicher Freistellung oder nicht abzugeltendem Anspruch. Eine vorliegende Vollmacht nicht mit einer unbegrenzten wirtschaftlichen Zustimmung verwechseln. Ohne konkrete Vergleichsfreigabe bleibt der Text ein Entwurf.
+
+## 1.3 Ablauf
+
+1. Bestimme Fortsetzung, Beendigung oder bloße Fristsicherung als Ziel. Erarbeite aus den belegten Kündigungsmängeln, Gegenargumenten und Beweisrisiken eine knappe Verhandlungsgrundlage. Eine Güteverhandlung ist keine garantierte Beweisaufnahme und endet nicht notwendig mit einem Vergleich. Halte die laufenden Klage- und Gerichtsfristen auch während der Verhandlungen weiter nach.
+2. Trenne Abfindungswege: Paragraf 1a KSchG setzt die gesetzlichen Voraussetzungen einschließlich des Hinweises bei betriebsbedingter Kündigung und des Verstreichenlassens der Klagefrist voraus. Eine Klagerücknahme nicht ohne Prüfung als gleichwertige Anspruchsvoraussetzung behandeln. Paragrafen 9 und 10 KSchG betreffen gerichtliche Auflösung unter eigenen Voraussetzungen und gesetzlichen Grenzen; bloßer Beendigungswunsch oder normale Prozessspannung reichen nicht automatisch. Eine frei ausgehandelte Abfindung beruht dagegen auf Vereinbarung. Auch Sozialplan oder Tarifvertrag können eigenständige Grundlagen bilden.
+3. Berechne eine Verhandlungsgröße nur mit belegter Vergütung und Dauer. Ein halbes Bruttomonatsentgelt je Beschäftigungsjahr kann Orientierung oder bei Paragraf 1a KSchG gesetzlicher Maßstab sein, ist aber kein allgemeines Mindestentgelt nach Kündigung. Zeige Rechenweg, einbezogene Bestandteile und Risiken. Bilde Angebot, Ziel und Rückfallposition anhand des Mandats und nicht aus einer erfundenen Erfolgsquote. Höhere oder niedrigere Werte konkret mit Bestands-, Lohn- und Vollstreckungsrisiken begründen.
+4. Prüfe wirtschaftliche Gesamtwirkung: Endtermin und Kündigungsfrist, Abfindung, ausstehender Lohn, Annahmeverzug, Urlaub, variable Vergütung, Beschäftigung und Kosten. Brutto und Netto unterscheiden; keine Nettozahlung oder steuerliche Begünstigung garantieren. Bei zweifelhaftem Arbeitgebervermögen Fälligkeit, Sicherung und Vollziehbarkeit der Leistung berücksichtigen, ohne eine nicht vereinbarte Absicherung als vorhanden darzustellen.
+5. Prüfe Paragrafen 158 und 159 SGB III getrennt: mögliches Ruhen wegen Entlassungsentschädigung und nicht gewahrter Kündigungsfrist einerseits, mögliche Sperrzeit wegen Arbeitsaufgabe andererseits. Eine bestimmte Abfindungsformel oder gerichtliche Protokollierung garantiert weder Leistungsunschädlichkeit noch Anerkennung eines wichtigen Grundes. Stelle die entscheidenden Tatsachen und verbleibende behördliche Bewertung dar. Arbeitsuchend- und Arbeitslosmeldung sowie Mitwirkung nicht durch den Vergleich als erledigt ansehen.
+6. Formuliere die Beendigungsklausel mit Anlass, eindeutigem Datum und geklärter Reichweite für alle angegriffenen Kündigungen. Abfindung als bestimmten Bruttobetrag mit Schuldner und Fälligkeit regeln. Entstehung, Vererblichkeit, vorzeitiges Ausscheiden oder Rücktritt nur aufnehmen, wenn gewollt und rechtlich geprüft. Keine mehrdeutige Erledigungsformel verwenden, wenn mehrere Verfahren oder verschiedene Arbeitgeber beteiligt sind.
+7. Arbeite Nebenpunkte aus, soweit für den Fall erforderlich: Abrechnung offener Vergütung, Zahlungen unter Beachtung von Anspruchsübergängen, Freistellung widerruflich oder unwiderruflich, Urlaubsanrechnung und konkret behandeltes Zeitguthaben. Zeugnisart, gewünschte Bewertung oder beigefügten Text ausreichend bestimmen; „wohlwollend“ ersetzt keine klare Regelung des streitigen Inhalts. Rückgabegegenstände, Bescheinigungen und gegebenenfalls betriebliche Altersversorgung individuell regeln. Eine Ausgleichsklausel auf bekannte und ausgenommene Ansprüche sowie zwingende Grenzen prüfen.
+8. Kläre Abschlussweg: gerichtlicher Vergleich im Termin oder Beschluss nach Paragraf 278 Absatz 6 ZPO, gegebenenfalls mit eindeutiger Widerrufsfrist und bestimmtem Adressaten. Ein vereinbarter Widerruf ist kein allgemeines gesetzliches Rücktrittsrecht. Prüfe Vollstreckbarkeit konkreter Verpflichtungen und erforderliche Bedingungen. Außergerichtlichen Aufhebungsvertrag und gerichtlichen Prozessvergleich hinsichtlich Form und Rechtsnatur auseinanderhalten; 6 AZR 333/21 nur für das passende Problem verwenden.
+9. Erläutere Kosten nach Paragraf 12a ArbGG: In erster Instanz besteht grundsätzlich kein Erstattungsanspruch für die Kosten des Prozessbevollmächtigten wegen Obsiegens. Gerichtskosten, eigene Vergütung, Einigungsgebühr, Rechtsschutzdeckung und höhere Instanzen getrennt behandeln. Keine generelle Kostenfreiheit durch Vergleich versprechen. Vereinbarte Kostentragung präzise formulieren und nicht unbesehen zivilprozessuale Standardklauseln übernehmen.
+10. Arbeite neue Angebote und Mandantenantworten in denselben Vergleichsentwurf ein. Kennzeichne wirtschaftlich geänderte Klauseln und mögliche Zielkonflikte knapp in der Begleitnotiz. Fehlt ein Betrag, formuliere die übrigen Klauseln fertig und frage genau diese Entscheidung ab. Nicht mit einer Klauselliste oder dem Rat „im Termin verhandeln“ abbrechen. Keine Annahme, Protokollierungsbitte, Klagerücknahme oder Verzichtserklärung ohne ausdrücklichen Auftrag übermitteln.
+
+## 1.4 Quellenpflicht
+
+Lade Normkarte und Vergleichsentscheidung aus [Rechtsprechung](../../references/rechtsprechung.md) sowie [Arbeitsweise](../../references/arbeitsweise.md) für Freigabe und Endfassung. Lohnentscheidungen nur bei einer tatsächlich streitigen Lohnkomponente ergänzen. Prüfe sozialrechtliche und steuerliche Aussagen bei Entscheidungserheblichkeit anhand aktueller amtlicher Quellen; keine Leistungsgarantie aus einer arbeitsgerichtlichen Klausel ableiten. Nach ../../references/zitierweise.md Rechtsprechung vollständig und Randnummern nur kontrolliert zitieren. Redaktionellen Prüfstand nicht als eigenen aktuellen Abruf und Literatur nicht ohne vorliegende oder lizenzierte Quelle darstellen.
+
+## 1.5 Ausgabeformat
+
+Liefere eine kurze getrennte Termin- und Verhandlungsnotiz sowie den vollständig ausformulierten Vergleichstext. Die Ausformulierungspflicht gilt für jede erforderliche Klausel einschließlich Zahlung, Termin, Nebenansprüchen und Ausnahmen; Halbsätze, leere Klauselrümpfe und reine Stichwortlisten sind kein Endprodukt. Empfängertext und interne Untergrenze getrennt halten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Textausgabe den Formatstandard nur im separaten Exporthinweis nennen. Keine Anlage, Einigung, Zustellung oder Freigabe erfinden und keinen nicht erfolgten Abschluss bestätigen.
+
+## 1.6 Beispiel
+
+Nutzerauftrag: „Der Richter schlägt eine Abfindung und sofortiges Ende vor. Bitte einen besseren Vergleich mit Zeugnis vorbereiten.“
+
+Knappe Reaktion: „Ich prüfe Endtermin, Vergütungsansprüche und mögliche Leistungsfolgen und formuliere einen bestimmten Gegenentwurf einschließlich Zeugnis. Die Abfindungsformel begründet weder einen sicheren Anspruch noch eine Garantie gegen Ruhen oder Sperrzeit.“

@@ -1,6 +1,6 @@
 # insolvenzforderungen-checker
 
-**11 Skills** · Stand `v445.35.4`
+**11 Skills** · Stand `v445.35.5`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../insolvenzforderungen-checker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

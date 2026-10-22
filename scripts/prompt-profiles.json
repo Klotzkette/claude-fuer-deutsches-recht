@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "arbeitsrecht-kuendigungsschutzklagewerkstatt": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "eu-sanktionspruefer": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md"],

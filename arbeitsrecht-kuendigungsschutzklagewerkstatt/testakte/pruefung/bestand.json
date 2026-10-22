@@ -1,0 +1,275 @@
+[
+  {
+    "slug": "arbeitsrecht-kuendigung-betriebsbedingt-leipzig",
+    "documents": 12,
+    "pages": 13,
+    "files": [
+      {
+        "file": "01_Arbeitsvertrag_Riemenschneider.docx",
+        "pages": 2,
+        "start_page": 1,
+        "sha256": "1835a7cae81e83f755de01c1220228c0ed8fcde21d1e97f88730af3eddac8826",
+        "pdf_sha256": "6248822d1160db61201b29a4b58649e3c5fddf34eb437a0e46e16a4578df7ebf"
+      },
+      {
+        "file": "02_Kuendigung_08102026.docx",
+        "pages": 1,
+        "start_page": 3,
+        "sha256": "a9d034f8f7345f8c8d8084600bf03baa2c587c45c8eae466ffee2eba0eb8799b",
+        "pdf_sha256": "689e59b5fb412ea4c2ce9ef7733f04cbac714a87ad7eb0ee10c3e314cd13d131"
+      },
+      {
+        "file": "03_Botenvermerk_Zugang.docx",
+        "pages": 1,
+        "start_page": 4,
+        "sha256": "abe5b77d9d0e6c34564a5a83b1598e7f5c498494b04c8ede37d9234a6ba979af",
+        "pdf_sha256": "49e2474308440dae4d8cbfc29bbb4c001ecbaa7a3d9c829d4e2385809be9493c"
+      },
+      {
+        "file": "04_Geschaeftsfuehrung_Versandlinien.docx",
+        "pages": 1,
+        "start_page": 5,
+        "sha256": "d517892ac69f38fb03f44df5c388f2e795cb823f7ec2082701afba96ced17d25",
+        "pdf_sha256": "b7a4892c95839ab0b1c1dace2941b04feecaa26c503462f09c587407bfadaf50"
+      },
+      {
+        "file": "05_Personalliste_Auswahl.docx",
+        "pages": 1,
+        "start_page": 6,
+        "sha256": "643bae30f526acf77ad7830f8460f4e59c7cfc99c2bc0a03c12a47d6c40a587f",
+        "pdf_sha256": "786c2051bd829f651229a4fb13a0abb8932f7929ca239b6788a8b87b276e766c"
+      },
+      {
+        "file": "06_Stellenblatt_Exportassistenz.docx",
+        "pages": 1,
+        "start_page": 7,
+        "sha256": "94d274a653f329624a6307af3e4efaad966a5a1b96a8fa934bc6445d65f4ade4",
+        "pdf_sha256": "ea38521680a45f735ee1ab6842503335b6d00720314fa2b58c79e0742c8e89a8"
+      },
+      {
+        "file": "07_Anhoerung_Betriebsrat.docx",
+        "pages": 1,
+        "start_page": 8,
+        "sha256": "3bb38a203d61fbc94904b19fd99ea9af03d8ab89855ef9779b0a8ba53af30880",
+        "pdf_sha256": "4f061c0bc0878ce81a0f369b8bc081a5df225d095e92abd1004c782ed7921c38"
+      },
+      {
+        "file": "08_Stellungnahme_Betriebsrat.docx",
+        "pages": 1,
+        "start_page": 9,
+        "sha256": "08a9b14e6b88b7cafe2504847dd51e851fc97e22ee0c3fc55540712486111320",
+        "pdf_sha256": "815babda8d09b02cd436d301c23671603db98331b52ddd7ce1ea56049e30ddf1"
+      },
+      {
+        "file": "09_Mail_Stellenwechsel.eml",
+        "pages": 1,
+        "start_page": 10,
+        "sha256": "5bc091d036b4d196dbbdb953151ce8ba5d8caf0d009913a3f437abe83a981665",
+        "pdf_sha256": "b197cf79da4fb04d29e02dce7fa50c12a52551eb7c4be6f758684f0616c9c29a"
+      },
+      {
+        "file": "10_Mail_BR_Antwort.eml",
+        "pages": 1,
+        "start_page": 11,
+        "sha256": "08c621e45fc0be71ca52031aa81dbcb0078119253e278f72d07fb3cd6e54dfc5",
+        "pdf_sha256": "e7f3b60c6f3f3417b4700b6e6e0c6591a4f69787bb88ca32fa3939a991faad12"
+      },
+      {
+        "file": "11_Entgeltkonto_Riemenschneider.csv",
+        "pages": 1,
+        "start_page": 12,
+        "sha256": "50012c51f5afbe9dba91475926508279dd1daaed52e7715a725ac03cc9bcb75a",
+        "pdf_sha256": "16749505224c277889f9985079072aa7f6749977455634dc554dc4820ed0519a"
+      },
+      {
+        "file": "12_Chat_Ottilie_Severin.txt",
+        "pages": 1,
+        "start_page": 13,
+        "sha256": "08db16f5702eb08f5544afb1a6056a0d3dc3aef102f0735ad1ee041dcd8955bd",
+        "pdf_sha256": "6f03da267333751716d2c946dd37da87db27fe28b4509fdb06ffead26c33538c"
+      }
+    ]
+  },
+  {
+    "slug": "arbeitsrecht-verdachtskuendigung-bonn",
+    "documents": 12,
+    "pages": 13,
+    "files": [
+      {
+        "file": "01_Arbeitsvertrag_Karg.docx",
+        "pages": 2,
+        "start_page": 1,
+        "sha256": "f7013893f653abf3ab88c7054a4b99c7b071adc048664fc2e82944cd6ef8e0c1",
+        "pdf_sha256": "f7e78676892b66726e8f1891d228503413ca80615c189b9f910d4cacd71b9eba"
+      },
+      {
+        "file": "02_Fristlose_Kuendigung.docx",
+        "pages": 1,
+        "start_page": 3,
+        "sha256": "f5a164d4c9dc806aab822ee8fa52543d1c929ed541c375dee1131376f3d7cee5",
+        "pdf_sha256": "dbce29489ef6853a93eab87d03f0aba71b982558496c4577725bc85552ea2a7f"
+      },
+      {
+        "file": "03_Empfang_Kuendigung.docx",
+        "pages": 1,
+        "start_page": 4,
+        "sha256": "73b6fcb89a15e665d4fcefde8c79e01e613c587ab7e5b848d8b1991eb3b305e3",
+        "pdf_sha256": "39ec85e72b4dd66cb8f5835d02630a1460aa9d087ad56cbe8a2459013190448b"
+      },
+      {
+        "file": "04_Einladung_Anhoerung.docx",
+        "pages": 1,
+        "start_page": 5,
+        "sha256": "e326bdfadaa64b806b6c1b8718cdf34798c464746e19d510976a94e8b848dd2a",
+        "pdf_sha256": "a5911de7c05f101cc7cb9faac5ef66d4cc4c44d4e6e6759b9e7412af1de9b0a2"
+      },
+      {
+        "file": "05_Protokoll_Anhoerung.docx",
+        "pages": 1,
+        "start_page": 6,
+        "sha256": "7b97733821527bf10d9dd7c62c158f4d151f11a2f75db71a45ef62a6fba8ab05",
+        "pdf_sha256": "3f399a9a13df79b319fe05303ab31da334b44d6375f494a1432d9f83299fe213"
+      },
+      {
+        "file": "06_IT_Auswertung.docx",
+        "pages": 1,
+        "start_page": 7,
+        "sha256": "f6449a1b885653adf1c2e59ded0eefab0381c33171f32804e8c959d0c657c1be",
+        "pdf_sha256": "0a157fd600a8901b9c750e32195d7bdb5a89d41f39e221951b4371287342b45f"
+      },
+      {
+        "file": "07_Angaben_Selma_Dorn.docx",
+        "pages": 1,
+        "start_page": 8,
+        "sha256": "23358930dba6c8c2f7fb85fc427d81a957f7cfb5ab89495fe95320832ab50f3c",
+        "pdf_sha256": "5e15eaa1215c564fb318c05355eae9c76ad9978f0dad569e5d6a3601c08f875d"
+      },
+      {
+        "file": "08_Uebergabe_Werkstatt.docx",
+        "pages": 1,
+        "start_page": 9,
+        "sha256": "367ab4ebc655bf42b59275fb5ff8f340ca140300c01aa9bb1ff1e9cb4999170e",
+        "pdf_sha256": "302675e19d042524f5c8a40e45e22548f4f82d41e0919e2aaec4a963f567cb67"
+      },
+      {
+        "file": "09_Mail_Einladung.eml",
+        "pages": 1,
+        "start_page": 10,
+        "sha256": "a2c6960c452639ff50ee4cfaed424983dc292391547d7f3d17744708c3c42e09",
+        "pdf_sha256": "54d5ae052c39d4c69b95232d793c8bc343ef207e03f5204966bbdc91a05358e8"
+      },
+      {
+        "file": "10_Mail_Werkstattbeleg.eml",
+        "pages": 1,
+        "start_page": 11,
+        "sha256": "bed4331a43a29463c4483e1450cfccb12b2184266d6a6dbe4410e0bbe8ae265c",
+        "pdf_sha256": "8c028beb52676d38c2682964adc5fb28ff3eb3ac9661d8b82a7716d5285131e2"
+      },
+      {
+        "file": "11_Entgeltkonto_Karg.csv",
+        "pages": 1,
+        "start_page": 12,
+        "sha256": "44283d722a3384270b141021978a645724e90eec0d4ea7d89d02808df8cf1bb7",
+        "pdf_sha256": "331cdfdb7231b67db7edf7b338168ae7fa6033b1930b205256999bcdf56b5609"
+      },
+      {
+        "file": "12_Telefonnotiz_Karg.txt",
+        "pages": 1,
+        "start_page": 13,
+        "sha256": "7386f1ac0dc34545dd9057d60724de09bec72b879be34978e7ff31e3e9644250",
+        "pdf_sha256": "6c4b4fba9b8a1641990c84f94da480f3c7392eda17c4a772c81a724cbec50ea5"
+      }
+    ]
+  },
+  {
+    "slug": "arbeitsrecht-kuendigung-schwangerschaft-augsburg",
+    "documents": 12,
+    "pages": 13,
+    "files": [
+      {
+        "file": "01_Arbeitsvertrag_Merz.docx",
+        "pages": 2,
+        "start_page": 1,
+        "sha256": "529d9605c7093bc49aa06274fb36469c2bb261417a7e91f2f5cced1aee827f32",
+        "pdf_sha256": "25b0117586fd4721bb54144b3da9279ca0524f196c8afc0f0e2dfdc3216fb25d"
+      },
+      {
+        "file": "02_Kuendigung_Merz.docx",
+        "pages": 1,
+        "start_page": 3,
+        "sha256": "f337fd2d2a818fe716405cb08a93b606daad5afa733337e5018cc6ec06890b24",
+        "pdf_sha256": "81b42fc55f5b0bd1c9c2d5807c5a4f0c50cd81c6baf2add7622b54c85d2ad095"
+      },
+      {
+        "file": "03_Zugangsvermerk_Merz.docx",
+        "pages": 1,
+        "start_page": 4,
+        "sha256": "cc0d2cabd0c6994bd626a8c238277a405ab37f781ac962ac45f17b6321d8d73a",
+        "pdf_sha256": "86b724e01bd81189f70145e0877e81889d0304f1a6fe8bfe7b22e8d88612353e"
+      },
+      {
+        "file": "04_Aerztliche_Bescheinigung.docx",
+        "pages": 1,
+        "start_page": 5,
+        "sha256": "a20cec45ee0058c1b42ed921ce0820dbddd9bf9036b532a1f1c1c2258fe75d22",
+        "pdf_sha256": "2cbfee43f653c5597425d1c2f91acf7eebef4354b61736d18ad4e46774d14903"
+      },
+      {
+        "file": "05_Praxis_Telefonvermerk.docx",
+        "pages": 1,
+        "start_page": 6,
+        "sha256": "468438a1c9ad4eb80c654161dc94be22ff3452b7ce58681df29e2a3cfa839dd2",
+        "pdf_sha256": "9f4c4bf189214bda2745fbb2f0bdf612ffd70304b1a221d4ab1ec293c620c447"
+      },
+      {
+        "file": "06_Telefonvermerk_Personalstelle.docx",
+        "pages": 1,
+        "start_page": 7,
+        "sha256": "59e82792696595c400e080888f60111fc16b564eec6a4a8131543a7289065834",
+        "pdf_sha256": "1ad9ce42dee2a604dc487768d90c99cc91abc411e38f9490e871d9e76d01ec98"
+      },
+      {
+        "file": "07_Freigabe_Personalplanung.docx",
+        "pages": 1,
+        "start_page": 8,
+        "sha256": "838d25d5eda63e6da4940aeb903ac122dcea5a4364c2b4e261e4ce5d7d554ffc",
+        "pdf_sha256": "2b8661a9bd4e0691b506f42fd5119fa7b4015930d1065cba761cc010db1d752c"
+      },
+      {
+        "file": "08_Postfachprotokoll.docx",
+        "pages": 1,
+        "start_page": 9,
+        "sha256": "99719e38a964e586794773b7b390f3ebaeef33520a122fd1d4c872ba755f6202",
+        "pdf_sha256": "20e63ab22773a8e4bf60e32e4f03ee4eed4f64d95b776e572209b9077f679d69"
+      },
+      {
+        "file": "09_Mail_Schwangerschaft.eml",
+        "pages": 1,
+        "start_page": 10,
+        "sha256": "f3709be2101c067b4768b20b86da50c72f05d15e3b609c1225d74a769c5e16b4",
+        "pdf_sha256": "bca478e5df06f93b07195939670cb690c627fc4cf530a47254bcdbc0b07f758d"
+      },
+      {
+        "file": "10_Mail_Arbeitgeberantwort.eml",
+        "pages": 1,
+        "start_page": 11,
+        "sha256": "4e0c90e6aa85a286da12457ee7315b5f2eb75983a791cf6342ab35c5344a055e",
+        "pdf_sha256": "5087027e6ec59997ec800c942219d52f502bf5a9854b821a24c842baa5cc4d8f"
+      },
+      {
+        "file": "11_Entgeltkonto_Merz.csv",
+        "pages": 1,
+        "start_page": 12,
+        "sha256": "fa7cd0053e2df8da8c72dcda2581eecf43ab071801b4147c97edac439f7ced7f",
+        "pdf_sha256": "4522127ca29166efd83a63e1f3cbd976c462793af4b4ff443bdb99c3e0322b5e"
+      },
+      {
+        "file": "12_Chat_Adelheid_Matthes.txt",
+        "pages": 1,
+        "start_page": 13,
+        "sha256": "b9ed4d921556d40519996e410ccfd2929089d595ab906d8e08311b4077bf2657",
+        "pdf_sha256": "078de38533500c17bab0d8a6b67f844f731d5cfd1bccc20b054d95d589fe283e"
+      }
+    ]
+  }
+]

@@ -1,0 +1,96 @@
+name: Kündigungsschutzklagewerkstatt und drei Arbeitsakten
+
+on:
+  pull_request:
+    paths:
+      - 'arbeitsrecht-kuendigungsschutzklagewerkstatt/**'
+      - 'testakten/arbeitsrecht-kuendigung-betriebsbedingt-leipzig/**'
+      - 'testakten/arbeitsrecht-verdachtskuendigung-bonn/**'
+      - 'testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg/**'
+      - 'scripts/*kuendigungsschutz*'
+      - 'scripts/data/kuendigungsschutz-akten.json'
+      - 'quality/evals/arbeitsrecht-kuendigungsschutzklagewerkstatt.json'
+      - '.github/workflows/kuendigungsschutzklagewerkstatt-release.yml'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0
+        required: true
+        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0
+
+permissions:
+  contents: read
+
+concurrency:
+  group: kuendigungsschutzklagewerkstatt-${{ inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prüfwerkzeuge installieren
+        run: python3 -m pip install -r requirements.txt
+      - name: Fachwege, Import und Akten prüfen
+        run: |
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-testakten-readme-downloads.py
+          python3 scripts/quality_lab.py audit --require-editorial --require-workflow
+          python3 scripts/test-kuendigungsschutzklagewerkstatt.py
+          python3 scripts/build-kuendigungsschutz-release.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
+          python3 scripts/test-kuendigungsschutzklagewerkstatt.py --dist "$RUNNER_TEMP/kuendigungsschutz-dist"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: kuendigungsschutzklagewerkstatt-pakete
+          path: ${{ runner.temp }}/kuendigungsschutz-dist/*
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    needs: check
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      TAG: ${{ inputs.tag }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: kuendigungsschutzklagewerkstatt-pakete
+          path: dist
+      - name: Geprüfte Komponente veröffentlichen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('arbeitsrecht-kuendigungsschutzklagewerkstatt/plugin.json'))['version'])")
+          test "arbeitsrecht-kuendigungsschutzklagewerkstatt-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          test "$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/main" --jq '.object.sha')" = "$(git rev-parse HEAD)"
+          (cd dist && sha256sum --check checksums-sha256.txt)
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert bereits; kein Überschreiben."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert bereits; keine Verschiebung."
+            exit 1
+          fi
+          gh release create "$TAG" --target "$(git rev-parse HEAD)" --draft --title "Arbeitsrecht Kündigungsschutzklagewerkstatt $VERSION" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" dist
+          test "$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/main" --jq '.object.sha')" = "$(git rev-parse HEAD)"
+          gh release edit "$TAG" --draft=false --latest=false

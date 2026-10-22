@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23363 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23374 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -24,6 +24,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [anwaltschaft-generell](./anwaltschaft-generell.md) (10 Skills)
 - [apothekenrecht](./apothekenrecht.md) (66 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (100 Skills)
+- [arbeitsrecht-kuendigungsschutzklagewerkstatt](./arbeitsrecht-kuendigungsschutzklagewerkstatt.md) (11 Skills)
 - [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (51 Skills)
 - [arbeitszeugnisgenerator](./arbeitszeugnisgenerator.md) (5 Skills)
 - [arbeitszeugnispruefer](./arbeitszeugnispruefer.md) (31 Skills)

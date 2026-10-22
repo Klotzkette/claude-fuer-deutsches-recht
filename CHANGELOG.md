@@ -1,3 +1,9 @@
+# 1. Kündigungsschutzklagewerkstatt 1.0.0 vom 22. Oktober 2026
+
+Zehn Fachskills und ein Hauptskill führen vom Kündigungszugang über die richtige Klage oder Erwiderung bis zu Vergleich, Weiterbeschäftigung und Vergütung. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts enthalten konkrete Frist- und Beteiligungswege sowie eingeordnete BAG-Rechtsprechung einschließlich der Entscheidungen 2026 zu Massenentlassungsanzeigen und zum Zugangsbeweis.
+
+Drei kleine Akten aus Leipzig, Bonn und Augsburg ergänzen den Bestand mit Originaldateien, Gesamt-PDF und flachen Einzel-PDF- sowie Originalformat-ZIPs. Individuelle redaktionelle Prüffälle erfassen jeden der elf Skills. [Umfang und Prüfgrenzen](docs/releases/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.0.0.md).
+
 # insolvenzanfechtung-v1.1.0 – 2026-10-22
 
 Zwei kleine Kölner §-135-Akten ergänzen den Bestand: eine direkte Rückzahlung von 150.000 Euro an einen Gesellschafter mit 25 Prozent Beteiligung und ein bewusst schwieriger Zessionsfall nach einer achtzehn Monate vor dem Antrag vollzogenen Forderungsübertragung. Beide Akten führen Belegkette, Korrespondenz und Tabellen bis zum ausführlichen Klageentwurf; der Zessionsfall enthält zusätzlich Klageerwiderung und Risikomemo.
