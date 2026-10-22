@@ -2,6 +2,7 @@
 
 Diese Akte trainiert die Erstellung und Fortschreibung gerichtlicher Zwischenberichte sowie die Erstellung eines prüffähigen Schlussberichts mit Schlussrechnung, Schlussverzeichnis, Quote und Freigabekette. Die abstrakte Gliederungslogik wurde aus einer Praxisvorlage abgeleitet; sämtliche Falldaten und Unterlagen dieser Akte sind neu und frei erfunden.
 
+<!-- BEGIN gesamt-pdf-section (autogen) -->
 ## 1. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -15,6 +16,8 @@ Diese Akte trainiert die Erstellung und Fortschreibung gerichtlicher Zwischenber
 | Einzel-PDF-ZIP | [`testakte-insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg-einzelpdfs.zip) |
 | Plugin | [Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller](../../insolvenzverwaltung-berichtsersteller/README.md) |
 | Testaktenübersicht | [Thematische Übersicht](../README.md) |
+
+<!-- END gesamt-pdf-section (autogen) -->
 
 ## 2. Fallkern
 
