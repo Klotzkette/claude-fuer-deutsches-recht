@@ -92,8 +92,8 @@
         "annex": 6,
         "pages": 1,
         "start_page": 10,
-        "sha256": "676488bea39a3005ff14add77eb22de8ee69467f4059dfd596ae0f12bdff173f",
-        "pdf_sha256": "676488bea39a3005ff14add77eb22de8ee69467f4059dfd596ae0f12bdff173f"
+        "sha256": "c6f9b47ca58163981a79892b36f5ee32df411199e33b77553fcbd9eb21caad30",
+        "pdf_sha256": "c6f9b47ca58163981a79892b36f5ee32df411199e33b77553fcbd9eb21caad30"
       },
       {
         "file": "K06_Kenntnisvermerk.txt",
@@ -128,8 +128,8 @@
         "annex": 9,
         "pages": 1,
         "start_page": 14,
-        "sha256": "ba1d23b4a8c76045750d18bbc6e68df6202bf17384e4e17822fedb182e34a4c1",
-        "pdf_sha256": "ba1d23b4a8c76045750d18bbc6e68df6202bf17384e4e17822fedb182e34a4c1"
+        "sha256": "8fe57875c41f778cd1f0ea98aec7ebe8373953903ebe17b8c762993c21dc19e7",
+        "pdf_sha256": "8fe57875c41f778cd1f0ea98aec7ebe8373953903ebe17b8c762993c21dc19e7"
       },
       {
         "file": "K09_Videovermerk.docx",
@@ -146,7 +146,7 @@
         "annex": 10,
         "pages": 1,
         "start_page": 16,
-        "sha256": "9019ad5766076b9df5a0d9f6f1352cfcae22b6313d22634dddb1fb5e7381972c",
+        "sha256": "20da260c351e00b6b1037e6e863ec6574df472eb300c97606143e312a2716dfa",
         "pdf_sha256": "1c1e3059c2e8a09747d16a0468bbb208ee1e4695e60bd888e4ee6e8c2f84ad92"
       },
       {
@@ -218,7 +218,7 @@
     "slug": "arbeitsrecht-muster-seewerk-lebensakte-radolfzell",
     "title": "Muster ./. Seewerk – ausführliche Lebensakte",
     "documents": 44,
-    "pages": 50,
+    "pages": 45,
     "files": [
       {
         "file": "K01_Arbeitsvertrag.docx",
@@ -307,8 +307,8 @@
         "annex": 6,
         "pages": 1,
         "start_page": 11,
-        "sha256": "9f679b6f36cbf8848d1b828359336baee4aff29164f9db9006400ec8b74ede97",
-        "pdf_sha256": "9f679b6f36cbf8848d1b828359336baee4aff29164f9db9006400ec8b74ede97"
+        "sha256": "49e7f1dfd498e0048dc0b6f1f4bc101bdb4b00acf2676bd3bd2c316a4e9b7933",
+        "pdf_sha256": "49e7f1dfd498e0048dc0b6f1f4bc101bdb4b00acf2676bd3bd2c316a4e9b7933"
       },
       {
         "file": "K06_Kenntnisvermerk.txt",
@@ -343,8 +343,8 @@
         "annex": 9,
         "pages": 1,
         "start_page": 15,
-        "sha256": "816a7a5cd3b6d325453a423836a29dcfc5ff1ac902f855b4a0754842b25bb87f",
-        "pdf_sha256": "816a7a5cd3b6d325453a423836a29dcfc5ff1ac902f855b4a0754842b25bb87f"
+        "sha256": "ebfdf7a8d293e630dec3e59f28476373937463cda50feb2608ce75e82244a502",
+        "pdf_sha256": "ebfdf7a8d293e630dec3e59f28476373937463cda50feb2608ce75e82244a502"
       },
       {
         "file": "K09_Videovermerk.docx",
@@ -361,7 +361,7 @@
         "annex": 10,
         "pages": 1,
         "start_page": 17,
-        "sha256": "84f735a44f33cd912ef25de3de93ba958e1dab37258085d660bd5e8f7469004f",
+        "sha256": "563d27acf4f4585730e34ece086e0e5459024f3c7dbd353eb8c1306ce1743c23",
         "pdf_sha256": "1c1e3059c2e8a09747d16a0468bbb208ee1e4695e60bd888e4ee6e8c2f84ad92"
       },
       {
@@ -449,17 +449,17 @@
         "file": "E03_Zeiterfassungsjournal_Oktober_2026.csv",
         "title": "Zeitjournal 05.10.2026 bis 16.10.2026",
         "annex": null,
-        "pages": 4,
+        "pages": 1,
         "start_page": 27,
         "sha256": "d9d34911ef4ef558f01b2c99c6b9631bd802c9a1c2f4af701a2ab6ee9464471e",
-        "pdf_sha256": "bec8e131652bf95514c3459fe145418417c1f7b3f129316df4a2fd1c787c1877"
+        "pdf_sha256": "6a8b2f9ae8cd1e89644fba03d0c80e65c8e75415b1edb2a1bf5512e3528f159e"
       },
       {
         "file": "E04_Entgeltabrechnung_Maerz_2025.docx",
         "title": "Entgeltabrechnung März 2025, Bezüge und Zahlbetrag",
         "annex": null,
         "pages": 1,
-        "start_page": 31,
+        "start_page": 28,
         "sha256": "91244a3ff7409c06a9df8221b46640b7f883665bb1bacd00287301be8ef6aa26",
         "pdf_sha256": "4e2f3be2481a9a39fd7b3e330dd24432542241eebdf47605f0bd901516efb96e"
       },
@@ -468,7 +468,7 @@
         "title": "Entgeltabrechnung März 2026, Bezüge und Zahlbetrag",
         "annex": null,
         "pages": 1,
-        "start_page": 32,
+        "start_page": 29,
         "sha256": "ad4b05ec1aa67dc76111403e9899ff3395a4c6045a07c03932d2081c80774927",
         "pdf_sha256": "133c6a245f0c307019fc00e8f8e7e4b0d437c7f5e1f6ed7a274018b24cc56b42"
       },
@@ -476,17 +476,17 @@
         "file": "E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv",
         "title": "Umsatzauskunft, Auswahl Zahlungseingänge Seewerk Präzisionsguss GmbH",
         "annex": null,
-        "pages": 3,
-        "start_page": 33,
+        "pages": 1,
+        "start_page": 30,
         "sha256": "c52a711e7decf110a25d8ad4dc4f50846028df8d4adb5ec189e66842f61a2def",
-        "pdf_sha256": "713e97f7b74d78bec39185c6043c74f99db06d8dbaa416840a1328eda1a6a545"
+        "pdf_sha256": "a5ee16a27748c75732f1fa9bee620e08ac10c372a73bc0aaa9f92cb3bbf6bec2"
       },
       {
         "file": "E07_IT_Servicebericht_Videosystem_Mai_2026.docx",
         "title": "Serviceabschluss Software-Update und Archivprofil Tor 1",
         "annex": null,
         "pages": 1,
-        "start_page": 36,
+        "start_page": 31,
         "sha256": "bccc6d9b25b5badc54c58378590e9bf3977c2b4a6d4630a8af39c598fa4006ee",
         "pdf_sha256": "6cc103aa2ab207473ea223a920cb735a981a538e017bcdeb69c52abb5c81932f"
       },
@@ -495,7 +495,7 @@
         "title": "Wartungsabschluss Schmelzanlage, Frühschicht 16.10.2026",
         "annex": null,
         "pages": 1,
-        "start_page": 37,
+        "start_page": 32,
         "sha256": "186cb5305bf6f157230e0a126689d58191764a31d7592a40304e855feb56be1d",
         "pdf_sha256": "c1c635ed76cbd1d9a3fec4878229f13a28a4f1ec47102ce895340493e15d9fe7"
       },
@@ -504,7 +504,7 @@
         "title": "Termin für Ihre Personalakteneinsicht am 05.06.2026",
         "annex": null,
         "pages": 1,
-        "start_page": 38,
+        "start_page": 33,
         "sha256": "33e3766033e95f1af58719ccb942fc07ea830c8b136fe701f1ecf166be4a78e8",
         "pdf_sha256": "e7a6130b88a56ddefd80fe909dc427aedf3355a5fb85e5c6c782da6b593e19f9"
       },
@@ -513,7 +513,7 @@
         "title": "Organisation der Personalabteilung ab 01.02.2018",
         "annex": null,
         "pages": 1,
-        "start_page": 39,
+        "start_page": 34,
         "sha256": "b29b61ee0d4b2abace351f4366622f7d0532d6aa78d305af268e80c3c986bb1b",
         "pdf_sha256": "8532b66f01e8f6ba454b98dd5e56d35822a0da5c9b4c704515aafcd84e2fdb77"
       },
@@ -522,7 +522,7 @@
         "title": "Mandatsaufnahme Daniel Muster gegen Seewerk Präzisionsguss GmbH",
         "annex": null,
         "pages": 1,
-        "start_page": 40,
+        "start_page": 35,
         "sha256": "1e5321d924564c723b852fb824ac92a7fad209bea77ff64a2d4afd63159dd439",
         "pdf_sha256": "476354093f7d984f1b5099c8f18c0c863997178c3d6f6ce9bf0201d756a184aa"
       },
@@ -531,7 +531,7 @@
         "title": "Vollmacht in der Angelegenheit Muster gegen Seewerk Präzisionsguss GmbH",
         "annex": null,
         "pages": 1,
-        "start_page": 41,
+        "start_page": 36,
         "sha256": "6558cec4699b30aecd982a03b01011786bbca0e91e19cceff0dc9a43ddfa94ea",
         "pdf_sha256": "a698973d8766d3bf49c9a50e0f443894a84a29f3efd322be56b9579dfc1410b3"
       },
@@ -540,7 +540,7 @@
         "title": "Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
         "annex": null,
         "pages": 1,
-        "start_page": 42,
+        "start_page": 37,
         "sha256": "3b9e18e8ce32f07d6cc9000aba24a0cffd8e11a871005b0fee180d1ffedccd65",
         "pdf_sha256": "3777fa5801c00650361686eeceb4b28f6b63a777345dd4ef4da569c27fe62649"
       },
@@ -549,7 +549,7 @@
         "title": "AW: Meine Arbeitsbereitschaft und die weitere Schichteinteilung",
         "annex": null,
         "pages": 1,
-        "start_page": 43,
+        "start_page": 38,
         "sha256": "aedf22217cb161c70547d5fe49ae7def86a0af669aa98cf7032fc56c58d5862e",
         "pdf_sha256": "89118d6efb9f15789b44928718f920b5e718208d0bca4487777bd8b964891a7e"
       },
@@ -558,7 +558,7 @@
         "title": "Eingang Ihrer Anfrage aus dem Gespräch vom 29.10.2026",
         "annex": null,
         "pages": 1,
-        "start_page": 44,
+        "start_page": 39,
         "sha256": "1635dc13bd8e670181c3745e588b8ffd92b1be59c788643d1c99f224e77bb8f6",
         "pdf_sha256": "349a42bd1be015b915da4f8a7bc651283320be8168747d5723245f6fd2fdc630"
       },
@@ -567,7 +567,7 @@
         "title": "Unterlagenstand am Montag, 23.11.2026",
         "annex": null,
         "pages": 1,
-        "start_page": 45,
+        "start_page": 40,
         "sha256": "634aaee3409fd44c9a6bcc9d3a590372b9350b83c0a9bda83fecdf726944648b",
         "pdf_sha256": "f60dbe01fdfaa3a2bf5fd503d3f207a49b0e44ba4c11202c56675cc9ca541102"
       },
@@ -576,7 +576,7 @@
         "title": "RunTrack Bildschirm 1",
         "annex": 12,
         "pages": 1,
-        "start_page": 46,
+        "start_page": 41,
         "sha256": "2ca9c85761c26fc09bc10f5bb5712b1bff3de098b85cbee3db7e5c9fb595abcc",
         "pdf_sha256": "84698e0338789ef6d6d7d36c102d418d7797f09842417e05c15ddec591516fb8"
       },
@@ -585,7 +585,7 @@
         "title": "RunTrack Bildschirm 2",
         "annex": 12,
         "pages": 1,
-        "start_page": 47,
+        "start_page": 42,
         "sha256": "0a4385475a56212cd2ade91a5ccf93e63382669cc0e487ef7c421d1ec27a30c8",
         "pdf_sha256": "c02d1833a3eb00be5e2f50b26f0d6c428efaca59b85f14c8389375b2a5631083"
       },
@@ -594,7 +594,7 @@
         "title": "RunTrack Bildschirm 3",
         "annex": 12,
         "pages": 1,
-        "start_page": 48,
+        "start_page": 43,
         "sha256": "e28d0c7d386ea3f8ca788b65bd925db6c970e4c58a1d8a88858de65619445a1a",
         "pdf_sha256": "7a6474514b7e73cf53b44b737fca78cf0c56f1ae167c9aa4cb7761a517f923b5"
       },
@@ -603,7 +603,7 @@
         "title": "RunTrack Bildschirm 4",
         "annex": 12,
         "pages": 1,
-        "start_page": 49,
+        "start_page": 44,
         "sha256": "bfd0b94752322bd242138936a3cdd66d8b448ce39944b9b6678a22e989571348",
         "pdf_sha256": "d16f9688935114c2ecdcc1e877feaabfea13b70711a2fe9f9d72d96815f7c0e2"
       },
@@ -612,7 +612,7 @@
         "title": "RunTrack Bildschirm 5",
         "annex": 12,
         "pages": 1,
-        "start_page": 50,
+        "start_page": 45,
         "sha256": "824d7d3d07d891424597d650cae773c53cefe782cd24b11d203d8098120ed8f5",
         "pdf_sha256": "a630680ecd693b0841b79e7d9e6220793acb14d1fa7b6c08099231158b72b364"
       }

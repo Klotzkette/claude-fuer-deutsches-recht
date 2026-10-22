@@ -26,7 +26,7 @@ from docx.shared import Cm, Pt, RGBColor
 from docx.table import Table
 from PIL import Image, ImageDraw, ImageFont
 from pypdf import PdfReader, PdfWriter
-from reportlab.lib.pagesizes import A4
+from reportlab.lib.pagesizes import A4, landscape
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table as PDFTable, TableStyle
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
@@ -225,6 +225,32 @@ def paragraph_pdf(item):
             story.append(Paragraph(escape(block["text"]), style))
     SimpleDocTemplate(stream, pagesize=A4, rightMargin=62, leftMargin=62, topMargin=60, bottomMargin=55,
                       title=item["title"], author="Klotzkette").build(story)
+    return stream.getvalue()
+
+
+def csv_pdf(item):
+    stream = io.BytesIO()
+    body = ParagraphStyle("Journal",fontName="SeewerkTimes",fontSize=10,leading=12,spaceAfter=8)
+    heading = ParagraphStyle("Journaltitel",parent=body,fontName="SeewerkBold",fontSize=15,leading=18,spaceAfter=10)
+    header = ParagraphStyle("Tabellenkopf",parent=body,fontName="SeewerkBold",textColor="#FFFFFF")
+    rows = item["rows"]
+    widths = [68,62,75,65,135,55,50,65,170] if len(rows[0]) == 9 else [76,76,145,220,90,60,85]
+    labels = (["Datum","Wochentag","Personalnr.","Terminal","Schicht","Kommen","Gehen","Pause in Minuten","Bemerkung"]
+              if len(rows[0]) == 9 else
+              ["Buchungstag","Wertstellung","Auftraggeber","Verwendungszweck","Gutschrift in Euro","Währung","Buchungsstatus"])
+    content = [[Paragraph(escape(str(value)),header if index == 0 else body) for value in row]
+               for index,row in enumerate([labels,*rows[1:]])]
+    table = PDFTable(content,colWidths=widths,repeatRows=1,hAlign="LEFT")
+    table.setStyle(TableStyle([("BACKGROUND",(0,0),(-1,0),"#344D56"),
+                              ("LINEBELOW",(0,0),(-1,-1),.25,"#D4DDE0"),
+                              ("VALIGN",(0,0),(-1,-1),"TOP"),
+                              ("TOPPADDING",(0,0),(-1,-1),6),
+                              ("BOTTOMPADDING",(0,0),(-1,-1),6)]))
+    flow = [Paragraph(escape(item["sender"]),body),Paragraph(escape(item["title"]),heading),
+            Paragraph(escape(item["reference"]),body),
+            *(Paragraph(escape(block["text"]),body) for block in item["blocks"]),Spacer(1,8),table]
+    SimpleDocTemplate(stream,pagesize=landscape(A4),leftMargin=40,rightMargin=40,topMargin=35,bottomMargin=35,
+                      title=item["title"],author="Klotzkette").build(flow)
     return stream.getvalue()
 
 
@@ -429,7 +455,7 @@ def build():
         annex_writers={number:PdfWriter() for number in range(1,15)}
         documents=[]
         for path,item in zip(paths,items):
-            pdf=renderer.render_document_pdf(path,directory,cache)
+            pdf=csv_pdf(item) if path.suffix == ".csv" else renderer.render_document_pdf(path,directory,cache)
             if pdf_content_errors(pdf):
                 raise ValueError(path.name)
             reader=PdfReader(io.BytesIO(pdf))

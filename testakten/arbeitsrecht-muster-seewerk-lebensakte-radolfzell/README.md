@@ -6,7 +6,7 @@ Arbeitsunterlagen zum Kündigungsschutzmandat eines Schichtleiters in Radolfzell
 
 Die vierzehn Kernanlagen enthalten weiterhin sämtliche Aussagen der Konzeptfassung. Hinzu kommen ausführlichere Schreiben, Abrechnungsunterlagen, Korrespondenz, technische Vorgänge und rekonstruierte Ansichten der erfundenen Lauf-App. Die Ergänzungen sind ein gesonderter Bestand und keine heimlich hinzugefügten Klageanlagen.
 
-44 Originaldateien, 50 PDF-Seiten, vierzehn logische Kernanlagen. Im Einzel-PDF-ZIP ist jedes eigenständige Dokument eine eigene PDF-Datei. Der zusätzliche Anlagen-Satz bündelt dagegen bewusst genau K1 bis K14; Ergänzungen außerhalb dieser Nummerierung sind dort nicht enthalten. Der Gesamtband enthält alle Dokumente in der unten bezeichneten Reihenfolge.
+44 Originaldateien, 45 PDF-Seiten, vierzehn logische Kernanlagen. Im Einzel-PDF-ZIP ist jedes eigenständige Dokument eine eigene PDF-Datei. Der zusätzliche Anlagen-Satz bündelt dagegen bewusst genau K1 bis K14; Ergänzungen außerhalb dieser Nummerierung sind dort nicht enthalten. Der Gesamtband enthält alle Dokumente in der unten bezeichneten Reihenfolge.
 
 Die persönlichen Zusatzangaben aus dem Mandantengespräch und die rechtliche Gegenprüfung stehen nur im getrennten Referentenmaterial des Plugins. Sie werden keinem dieser Downloads beigelegt. Es sind keine Musterklage, Bewertung, Lösungsmatrix oder späteren Gerichtsentscheidungen enthalten. Eine Anlagenzuordnung ist kein vorweggenommener Klageentwurf.
 
@@ -66,10 +66,10 @@ Alle ZIPs sind flach. README.txt steht zuerst und enthält den zweisprachigen Hi
 | [K14_Antwort.docx](K14_Antwort.docx) | K14 | Antwort auf Ihr Schreiben vom 12.11.2026 (Auszug) | 1 |
 | [E01_Gehaltsmitteilung_Januar_2025.docx](E01_Gehaltsmitteilung_Januar_2025.docx) | Ergänzung | Ihr Grundgehalt ab 01.01.2025 | 1 |
 | [E02_Schichtplan_Kalenderwoche_42_2026.docx](E02_Schichtplan_Kalenderwoche_42_2026.docx) | Ergänzung | Schichtplan Kalenderwoche 42, persönliche Ausfertigung | 1 |
-| [E03_Zeiterfassungsjournal_Oktober_2026.csv](E03_Zeiterfassungsjournal_Oktober_2026.csv) | Ergänzung | Zeitjournal 05.10.2026 bis 16.10.2026 | 4 |
+| [E03_Zeiterfassungsjournal_Oktober_2026.csv](E03_Zeiterfassungsjournal_Oktober_2026.csv) | Ergänzung | Zeitjournal 05.10.2026 bis 16.10.2026 | 1 |
 | [E04_Entgeltabrechnung_Maerz_2025.docx](E04_Entgeltabrechnung_Maerz_2025.docx) | Ergänzung | Entgeltabrechnung März 2025, Bezüge und Zahlbetrag | 1 |
 | [E05_Entgeltabrechnung_Maerz_2026.docx](E05_Entgeltabrechnung_Maerz_2026.docx) | Ergänzung | Entgeltabrechnung März 2026, Bezüge und Zahlbetrag | 1 |
-| [E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv](E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv) | Ergänzung | Umsatzauskunft, Auswahl Zahlungseingänge Seewerk Präzisionsguss GmbH | 3 |
+| [E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv](E06_Kontoumsaetze_Gehalt_Januar_bis_Oktober_2026.csv) | Ergänzung | Umsatzauskunft, Auswahl Zahlungseingänge Seewerk Präzisionsguss GmbH | 1 |
 | [E07_IT_Servicebericht_Videosystem_Mai_2026.docx](E07_IT_Servicebericht_Videosystem_Mai_2026.docx) | Ergänzung | Serviceabschluss Software-Update und Archivprofil Tor 1 | 1 |
 | [E08_Wartungsnotiz_Schmelzanlage_16_Oktober_2026.docx](E08_Wartungsnotiz_Schmelzanlage_16_Oktober_2026.docx) | Ergänzung | Wartungsabschluss Schmelzanlage, Frühschicht 16.10.2026 | 1 |
 | [E09_Termin_Personalakteneinsicht_Juni_2026.eml](E09_Termin_Personalakteneinsicht_Juni_2026.eml) | Ergänzung | Termin für Ihre Personalakteneinsicht am 05.06.2026 | 1 |

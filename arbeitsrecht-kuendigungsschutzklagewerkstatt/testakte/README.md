@@ -75,7 +75,7 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 
 ## 1.5. Muster ./. Seewerk – ausführliche Lebensakte
 
-44 Originale, 50 PDF-Seiten, vierzehn logische Kernanlagen. Simulierter Bearbeitungstag: 23.11.2026.
+44 Originale, 45 PDF-Seiten, vierzehn logische Kernanlagen. Simulierter Bearbeitungstag: 23.11.2026.
 
 [Originale und Dokumentenverzeichnis](../../testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md)
 

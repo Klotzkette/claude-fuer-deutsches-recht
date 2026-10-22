@@ -109,7 +109,7 @@ Arbeits- und Vergütungsunterlagen, Kündigung, medizinische Bescheinigung und K
 
 ### 1.4.5. Radolfzell: ausführliche Lebensakte
 
-44 Originaldateien und 50 PDF-Seiten. Die gleichen vierzehn Kernanlagen mit ausführlicheren Texten, dazu 16 ergänzende Unterlagen und fünf rekonstruierte App-Ansichten. Native Formate umfassen DOCX, EML mit echten Anhängen, XLSX, CSV, TXT, PDF und PNG. Simulierter Bearbeitungstag ist der 23.11.2026. [Aktenseite und Originale](../testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md).
+44 Originaldateien und 45 PDF-Seiten. Die gleichen vierzehn Kernanlagen mit ausführlicheren Texten, dazu 16 ergänzende Unterlagen und fünf rekonstruierte App-Ansichten. Native Formate umfassen DOCX, EML mit echten Anhängen, XLSX, CSV, TXT, PDF und PNG. Simulierter Bearbeitungstag ist der 23.11.2026. [Aktenseite und Originale](../testakten/arbeitsrecht-muster-seewerk-lebensakte-radolfzell/README.md).
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >

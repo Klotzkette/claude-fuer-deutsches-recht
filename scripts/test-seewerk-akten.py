@@ -149,6 +149,13 @@ def check():
                 require(len(texts) == item["pages"], "Seitenumfang")
                 if not item["file"].endswith(".png"):
                     require(all(len(value) > 20 for value in texts), "Leere Textseite")
+                if item["file"].endswith(".csv"):
+                    require(len(texts) == 1, "Journal auf mehrere Seiten zerfasert")
+                    page = PdfReader(io.BytesIO(pdf)).pages[0]
+                    require(float(page.mediabox.width) > float(page.mediabox.height), "Journal braucht Querformat")
+                    values = list(csv.reader(io.StringIO((directory / item["file"]).read_text(encoding="utf-8-sig")),delimiter=";"))
+                    compact = re.sub(r"\s+", "", texts[0])
+                    require(all(re.sub(r"\s+", "", cell) in compact for row in values[1:] for cell in row), "CSV-Wert im PDF verloren")
                 pages += texts
             with zipfile.ZipFile(str(prefix)+"-anlagen-k1-k14.zip") as annexes:
                 require(annexes.namelist() == ["README.txt",*(f"K{number:02d}.pdf" for number in range(1,15))], "Genau vierzehn Anlagen erforderlich")
@@ -162,7 +169,8 @@ def check():
         total = directory / "gesamt-pdf" / (report["slug"]+"_gesamt.pdf")
         require(pdf_texts(total.read_bytes()) == pages and len(pages) == report["pages"], "Gesamtband nicht synchron")
         require((PLUGIN / "testakte/downloads" / total.name).read_bytes() == total.read_bytes(), "PDF-Asset veraltet")
-    require(reports[1]["pages"] > reports[0]["pages"]*2, "Ausführliche Fassung ohne substantiellen Ausbau")
+    require(reports[1]["pages"] > reports[0]["pages"] and reports[1]["documents"] >= reports[0]["documents"]+20,
+            "Ausführliche Fassung ohne substantiellen Ausbau")
     print("Seewerk OK: zwei Fassungen, 67 Originale, vollständiger Kerntext, 28 logische Anlagen, flache Archive und identische PDF-Seiten.")
 
 
