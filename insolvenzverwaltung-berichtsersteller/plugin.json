@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "insolvenzverwaltung-berichtsersteller",
+  "version": "1.0.0",
+  "description": "Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung in Insolvenzverfahren belegt erstellen. Zehn Fachskills und ein Hauptskill führen Akte, Stichtage, Masse, Forderungen, Kosten, Prozesse und Freigaben zu gerichtstauglichen Produkten zusammen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller",
+        "shortDescription": "Insolvenzberichte erstellen",
+        "longDescription": "Zwischenberichte, Schlussberichte, Schlussrechnung und Verteilung in Insolvenzverfahren belegt erstellen. Zehn Fachskills und ein Hauptskill führen Akte, Stichtage, Masse, Forderungen, Kosten, Prozesse und Freigaben zu gerichtstauglichen Produkten zusammen.",
+        "developerName": "Klotzkette",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Lesen Sie zuerst die vorhandene Insolvenzakte und die gerichtliche Berichtsvorgabe. Bestimmen Sie Berichtstyp, Zeitraum und Stichtag, gleichen Sie Text, Rechenwerk und Anlagen ab und erstellen Sie den bestellten Zwischenbericht, Schlussbericht oder Abschlussbaustein vollständig ausformuliert. Fragen Sie nur nach entscheidenden Lücken und veranlassen Sie keine Einreichung oder Zahlung ohne namentliche menschliche Freigabe."
+      }
+    }
+  }
+}

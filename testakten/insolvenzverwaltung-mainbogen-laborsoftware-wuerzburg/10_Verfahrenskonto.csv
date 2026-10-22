@@ -1,0 +1,20 @@
+﻿Datum;Beleg;Text;Art;Betrag_EUR
+2018-10-01;AB-001;Übernahme liquide Mittel;Einnahme;118450.00
+2019-03-31;FE-101;Forderungseinzug Teil 1;Einnahme;146200.00
+2019-06-30;BF-201;Fortführungserlöse bis Übergang;Einnahme;1109600.00
+2019-07-01;AD-001;Asset Deal;Einnahme;286000.00
+2020-12-18;FE-202;Forderungseinzug Rest;Einnahme;210000.00
+2022-12-20;AV-001;Anfechtungsvergleich;Einnahme;94500.00
+2024-04-15;DO-001;D&O-Vergleich;Einnahme;120000.00
+2025-11-07;ST-001;Steuererstattungen;Einnahme;58400.00
+2026-09-30;SO-001;Kautionen, Erstattungen, Zinsen;Einnahme;41500.00
+2020-06-30;AU-001;Lieferanten und Fremdleistungen der Fortführung;Ausgabe;602480.30
+2021-06-30;AU-002;Löhne und Gehälter;Ausgabe;354680.00
+2022-06-30;AU-003;Sozialversicherungsbeiträge;Ausgabe;141872.45
+2023-06-30;AU-004;Steuern der Masse;Ausgabe;184335.60
+2024-06-30;AU-005;Miete, Energie und Betriebskosten;Ausgabe;126790.20
+2025-06-30;AU-006;Buchhaltung, IT und sonstige Dienstleistungen;Ausgabe;96480.25
+2025-06-30;AU-007;Verwertungs- und Archivkosten;Ausgabe;21890.00
+2025-06-30;AU-008;Prozess- und Beratungskosten;Ausgabe;37320.00
+2025-06-30;AU-009;Bank- und Geldverkehrskosten;Ausgabe;4125.60
+2025-06-30;AU-010;Vergütung und Auslagen der vorläufigen Verwalterin;Ausgabe;73318.00

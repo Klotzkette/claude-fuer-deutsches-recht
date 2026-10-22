@@ -1,0 +1,150 @@
+name: Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller
+
+on:
+  pull_request:
+    paths:
+      - 'insolvenzverwaltung-berichtsersteller/**'
+      - 'testakten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg/**'
+      - 'testakten/insolvenzverwaltung-nordlicht-handels-kiel/**'
+      - 'testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/**'
+      - 'scripts/*insolvenzverwaltung*'
+      - 'quality/insolvenzverwaltung-berichtsersteller/**'
+      - 'quality/evals/insolvenzverwaltung-berichtsersteller.json'
+      - '.github/workflows/insolvenzverwaltung-berichtsersteller-release.yml'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag insolvenzverwaltung-berichtsersteller-v1.0.0
+        required: true
+        default: insolvenzverwaltung-berichtsersteller-v1.0.0
+      publish:
+        description: Geprüfte Pakete zusätzlich veröffentlichen
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: insolvenzverwaltung-berichtsersteller-${{ inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TAG: ${{ inputs.tag || 'insolvenzverwaltung-berichtsersteller-v1.0.0' }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Abhängigkeiten und Schrift
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
+      - name: Komponente und Quellen prüfen
+        run: |
+          test "$TAG" = 'insolvenzverwaltung-berichtsersteller-v1.0.0'
+          test -s "docs/releases/$TAG.md"
+          python3 scripts/test-insolvenzverwaltung-berichtsersteller.py
+          python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/audit-skill-activation.py
+          python3 scripts/validate-markdown-structure.py
+          node scripts/validate-marketplace-import.mjs
+      - name: Lesefassungen und Pakete bauen und prüfen
+        run: |
+          python3 scripts/build-insolvenzverwaltung-berichtsersteller-release.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
+          python3 scripts/test-insolvenzverwaltung-berichtsersteller.py --dist "$RUNNER_TEMP/insolvenzverwaltung-berichtsersteller-dist"
+      - name: Geprüfte Pakete sichern
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: insolvenzverwaltung-berichtsersteller-pakete
+          path: ${{ runner.temp }}/insolvenzverwaltung-berichtsersteller-dist
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Geprüfte Assets vollständig veröffentlichen
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.publish && github.ref == 'refs/heads/main' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, os, subprocess, tempfile, time
+          from pathlib import Path
+          tag = os.environ['TAG']
+          repo = os.environ['GH_REPO']
+          sha = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+          dist = Path(os.environ['RUNNER_TEMP']) / 'insolvenzverwaltung-berichtsersteller-dist'
+          def gh(*args):
+              return subprocess.check_output(['gh', *args], text=True).strip()
+          def object_or_missing(endpoint):
+              result = subprocess.run(['gh', 'api', endpoint], text=True, capture_output=True)
+              if result.returncode == 0:
+                  return json.loads(result.stdout)
+              if 'HTTP 404' in result.stderr:
+                  return None
+              raise RuntimeError(result.stderr)
+          def current_main():
+              if object_or_missing(f'repos/{repo}/git/ref/heads/main')['object']['sha'] != sha:
+                  raise RuntimeError('Veröffentlichung nur vom aktuellen main-Stand.')
+          current_main()
+          latest_before = json.loads(gh('api', f'repos/{repo}/releases/latest'))['tag_name']
+          existing = subprocess.run(['gh', 'release', 'view', tag, '--json', 'databaseId,isDraft'], text=True, capture_output=True)
+          if existing.returncode == 0:
+              raise RuntimeError('Release oder Entwurfsrelease existiert bereits; keine Assets überschreiben.')
+          if 'release not found' not in existing.stderr.lower() and 'HTTP 404' not in existing.stderr:
+              raise RuntimeError(existing.stderr)
+          endpoint = f'repos/{repo}/git/ref/tags/{tag}'
+          ref = object_or_missing(endpoint)
+          if ref is None:
+              gh('api', '--method', 'POST', f'repos/{repo}/git/refs', '-f', f'ref=refs/tags/{tag}', '-f', f'sha={sha}')
+              for delay in (0, 2, 4, 8, 16):
+                  if delay:
+                      time.sleep(delay)
+                  ref = object_or_missing(endpoint)
+                  if ref is not None:
+                      break
+          if ref is None or ref['object']['sha'] != sha:
+              raise RuntimeError('Tag fehlt oder zeigt auf einen anderen Commit; keine Verschiebung.')
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzverwaltung Zwischen- und Schlussbericht-Ersteller 1.0.0',
+             '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
+          release = None
+          for delay in (0, 2, 4, 8, 16):
+              if delay:
+                  time.sleep(delay)
+              result = subprocess.run(['gh', 'release', 'view', tag, '--json', 'databaseId,isDraft,tagName'], text=True, capture_output=True)
+              release = json.loads(result.stdout) if result.returncode == 0 else None
+              if release is not None:
+                  break
+          if release is None or not release['isDraft'] or release['tagName'] != tag:
+              raise RuntimeError('Entwurfsrelease nicht bestätigt; Veröffentlichung gestoppt.')
+          expected = {path.name for path in dist.iterdir() if path.is_file()}
+          if len(expected) != 19:
+              raise RuntimeError('Neunzehn Assets erforderlich.')
+          gh('release', 'upload', tag, *map(str, sorted(dist.iterdir())))
+          with tempfile.TemporaryDirectory(prefix='insolvenzverwaltung-berichtsersteller-download-') as temporary:
+              target = Path(temporary)
+              gh('release', 'download', tag, '--dir', str(target))
+              if {path.name for path in target.iterdir()} != expected:
+                  raise RuntimeError('Hochgeladene Assetliste weicht ab.')
+              for name in expected:
+                  if hashlib.sha256((dist / name).read_bytes()).digest() != hashlib.sha256((target / name).read_bytes()).digest():
+                      raise RuntimeError(f'Hochgeladenes Asset weicht ab: {name}')
+          current_main()
+          if object_or_missing(endpoint)['object']['sha'] != sha:
+              raise RuntimeError('Tagzuordnung hat sich verändert.')
+          gh('release', 'edit', tag, '--draft=false', '--latest=false')
+          published = json.loads(gh('api', f'repos/{repo}/releases/tags/{tag}'))
+          if published['draft'] or published['prerelease'] or {item['name'] for item in published['assets']} != expected:
+              raise RuntimeError('Öffentlicher Releasestatus oder Assetumfang weicht ab.')
+          if json.loads(gh('api', f'repos/{repo}/releases/latest'))['tag_name'] != latest_before:
+              raise RuntimeError('Das neueste Gesamtrelease wurde unerwartet verändert.')
+          print(f'{tag}: neunzehn Assets bytegenau geprüft; Tag {sha}; Komponentenrelease veröffentlicht.')
+          PY

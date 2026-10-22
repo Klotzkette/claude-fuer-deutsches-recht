@@ -1,3 +1,9 @@
+# insolvenzverwaltung-berichtsersteller-v1.0.0 – 2026-10-22
+
+Der neue Zwischen- und Schlussbericht-Ersteller führt zehn Fachskills und einen Hauptskill vom fortlaufenden Sachstandsbericht über Schlussbericht, Schlussrechnung und Schlussverzeichnis bis zu gerichtlichen Freigaben, Schlussverteilung, Aufhebung und Nachtragsverteilung. Werkstatt und Schnellstart verbinden Stichtage, führende Fassungen, Belege, Rechenbrücke und acht menschliche Freigabegates. Amtlich geprüfte Norm- und BGH-Anker werden jeweils mit ihrer Aussagegrenze verwendet.
+
+Die vollständig fiktive Mainbogen-Akte enthält vier Zwischenberichte, zwei Schlussberichtsfassungen, neutrale Word-Vorlagen, rechenfähige Excel-Arbeitsmappen, E-Mails mit echten Anhängen und einen getrennten Nachtragsprüffall. Nordlicht und Möbelwerk Havelberg wurden bis zum Schlussverteilungs- und Nachtragsstadium erweitert. Die historische Nutzervorlage lieferte ausschließlich eine abstrahierte Gliederungslogik; ihre Namen, Daten, Beträge und sonstigen Inhalte wurden nicht übernommen. [Umfang und Prüfgrenzen](docs/releases/insolvenzverwaltung-berichtsersteller-v1.0.0.md).
+
 # insolvenzanfechtung-v1.1.0 – 2026-10-22
 
 Zwei kleine Kölner §-135-Akten ergänzen den Bestand: eine direkte Rückzahlung von 150.000 Euro an einen Gesellschafter mit 25 Prozent Beteiligung und ein bewusst schwieriger Zessionsfall nach einer achtzehn Monate vor dem Antrag vollzogenen Forderungsübertragung. Beide Akten führen Belegkette, Korrespondenz und Tabellen bis zum ausführlichen Klageentwurf; der Zessionsfall enthält zusätzlich Klageerwiderung und Risikomemo.

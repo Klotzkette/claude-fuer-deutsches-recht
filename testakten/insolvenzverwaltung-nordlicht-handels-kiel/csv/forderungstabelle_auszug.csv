@@ -1,5 +1,8 @@
-Glaeubiger;Forderung_EUR;Status;Quote_Prozent;Auszahlung_EUR
-Kieler Volksbank eG;248500.00;festgestellt;13.5;33547.50
-Fashion Forward KG;42380.00;festgestellt;13.5;5721.30
-DAK-Gesundheit;14540.00;festgestellt (nach Vergleich);13.5;1962.90
-IKK Nord;10350.00;festgestellt (nach Vergleich);13.5;1397.25
+Glaeubiger;Festgestellt_EUR;Status;Quote_Prozent_ungerundet;Auszahlung_EUR
+Kieler Volksbank eG;214302.00;festgestellt;23.6273198363;50633.82
+Fashion Forward KG;23960.00;festgestellt;23.6273198363;5661.11
+DAK-Gesundheit;12320.00;festgestellt;23.6273198363;2910.89
+IKK Nord;9610.00;festgestellt;23.6273198363;2270.58
+Bundesagentur für Arbeit;84220.00;festgestellt;23.6273198363;19898.93
+Übrige Lieferanten und sonstige Gläubiger;165430.00;festgestellt;23.6273198363;39086.67
+Summe;509842.00;Kontrollsumme;;120462.00

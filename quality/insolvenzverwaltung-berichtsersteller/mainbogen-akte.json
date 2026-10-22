@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "slug": "insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg",
+  "created": [
+    {
+      "path": "01_Verfahrensuebersicht.docx",
+      "sha256": "4acd1f917f12084be69b34c2ff27b319a7f6f1d1310dc7f7c866f279f4fb5bb1",
+      "size": 38643
+    },
+    {
+      "path": "02_Eroeffnungsbeschluss.docx",
+      "sha256": "326bbdf67918825ea21e105edf070372718bdbfb4395048ffc78800d249b3b8a",
+      "size": 38102
+    },
+    {
+      "path": "03_Anlagenverzeichnis.docx",
+      "sha256": "9a57b3a4685c9d833e73f197eed641358412284e7c3ba76d5b4eafba4965e83e",
+      "size": 38132
+    },
+    {
+      "path": "04_Zwischenbericht_2019.docx",
+      "sha256": "37cc9236a28c45711ee7526017ff983813c26b88b43cf5c8eb4d4bf416dc13b9",
+      "size": 38842
+    },
+    {
+      "path": "05_Zwischenbericht_2021.docx",
+      "sha256": "e2a092305eadcffadde13004bc2671235890e83c199248b61d188a6754edcbcf",
+      "size": 38847
+    },
+    {
+      "path": "06_Zwischenbericht_2023.docx",
+      "sha256": "2fd45e42cb979e021e2010d11ef19eba713c1ee115bdfb12d93b7493fd56814c",
+      "size": 38880
+    },
+    {
+      "path": "07_Zwischenbericht_2025.docx",
+      "sha256": "c154579c5a330462c090ede57a1efedb18a40ee5434166eaf12d56f5d6520901",
+      "size": 38882
+    },
+    {
+      "path": "08_Schlussbericht_Arbeitsentwurf.docx",
+      "sha256": "3a4e68233e55fb8e2be6c3dc9ee49520eb43758282289d656bf3a1f12fdf6a8e",
+      "size": 41664
+    },
+    {
+      "path": "08a_Schlussbericht_Referenzfassung.docx",
+      "sha256": "7168e3f3c8187ee7bffcf7b5bca0bc5384287e3e5ef2390c711b33ce744b0be0",
+      "size": 41547
+    },
+    {
+      "path": "09_Schlussrechnung_und_Kontenabgleich.xlsx",
+      "sha256": "7a04f2baf915f77f2cf1a88e27b8c4847c2d1134a7745c1df91e4860e834428f",
+      "size": 9647
+    },
+    {
+      "path": "10_Verfahrenskonto.csv",
+      "sha256": "36d5f3185f54783fdd454dd36dad5a65232c417949213ed7a52f866f72133a63",
+      "size": 1282
+    },
+    {
+      "path": "11_Glaeubigerliste.csv",
+      "sha256": "101c802aa4d00a01065047c1c8361cb58dff41c5f0215797febbd2beff33c64b",
+      "size": 1109
+    },
+    {
+      "path": "12_Schlussverzeichnis.xlsx",
+      "sha256": "693c15d984d03371a67fca2d9ad4dc3517cb902822c3c6e7e9453b0305260948",
+      "size": 7339
+    },
+    {
+      "path": "13_Quotenberechnung.xlsx",
+      "sha256": "271220b33b5b88c9a9f7fe2566688b057e5c46a07aad9f8977b9d3e6953b86cb",
+      "size": 5487
+    },
+    {
+      "path": "14_Belegmatrix.xlsx",
+      "sha256": "f1a093ebecc8a712623df69c83a2c212fd0cbdd0fd502137d03ee092ace5a6d2",
+      "size": 6727
+    },
+    {
+      "path": "15_Asset_Deal_Vertrag_Auszug.docx",
+      "sha256": "b6f9a49c71786645242d339b7dab5ec3bdeba9755c809ea381e4eb63d12b553f",
+      "size": 38176
+    },
+    {
+      "path": "16_Anfechtungsvergleich.docx",
+      "sha256": "4280f22bfb0a2e4dd48ae164a189b1aa673d5374652fef4bc06e382bc1faa7e4",
+      "size": 37960
+    },
+    {
+      "path": "17_DuO_Organhaftungsvergleich.docx",
+      "sha256": "21591b17d248a7ff2540d20ccf49db48603f632006fa193ff1fe67f4e46e22bf",
+      "size": 37982
+    },
+    {
+      "path": "18_Steuerbescheid_Erstattung.pdf",
+      "sha256": "36363d1a76085101cc6ca70bac319662f30e9f40892ff2c4db9576aecfad5797",
+      "size": 2637
+    },
+    {
+      "path": "19_Glaeubigerausschuss_Stellungnahme.docx",
+      "sha256": "fceab4ddabc7ecae6fe9485a9298e82d1aeedcb459cfe2ff914829102adec504",
+      "size": 38065
+    },
+    {
+      "path": "20_Verguetungsantrag_Arbeitsauszug.docx",
+      "sha256": "b0bfb5464a134a115e99a4c3e4a9a09dfaf9c2afd7749e4e1551c54480fb43e9",
+      "size": 37801
+    },
+    {
+      "path": "21_Antrag_Zustimmung_Schlussverteilung.docx",
+      "sha256": "44416c255b4864a91f380a522a7a062e4f099d62049017c5af0d5d70a1d60bf7",
+      "size": 37857
+    },
+    {
+      "path": "22_Verfuegung_Schlusstermin.pdf",
+      "sha256": "7fa94ac7d8d72c4b829c3613214f7847082e27d437c94d09be053871e2d757cd",
+      "size": 2445
+    },
+    {
+      "path": "23_Vollzugsnachweis_Schlussverteilung_Muster.docx",
+      "sha256": "19abaa4de254b1df4dfa517ed35f43c59e6ed5343e607a6efc33a935fe65553f",
+      "size": 37951
+    },
+    {
+      "path": "24_Aufhebungsbeschluss_Muster.pdf",
+      "sha256": "75c8dda3e75819018ce70f97cc38f53e758b7f5071766fec5f7d9806b2589021",
+      "size": 2497
+    },
+    {
+      "path": "25_Nachtragsverteilung_Sachstandsnotiz.docx",
+      "sha256": "d7489b49afe42027d17ab2cdfa3c9cee755c45edeb29eec2f929c08e410b2dd1",
+      "size": 37817
+    },
+    {
+      "path": "26_Neutralvorlage_Zwischenbericht.docx",
+      "sha256": "bf960da1bb8e3beec9a9bdb7ef5ebeb2b76ea379915f644c0dc017210fa7233a",
+      "size": 38159
+    },
+    {
+      "path": "27_Neutralvorlage_Schlussbericht.docx",
+      "sha256": "d5cf2b532185d59a1f753ae5bd0645f12b71dd51a53e8b1e5574ad83d875dd8c",
+      "size": 38156
+    },
+    {
+      "path": "28_Bankbestaetigung.pdf",
+      "sha256": "42b0a4e13a16bd4bf43674a9d2935539c06322a5755bd2ca0f800c802599e3e6",
+      "size": 2414
+    },
+    {
+      "path": "29_Buchhaltungsuebergabe.docx",
+      "sha256": "f259d4c9ac59b2ba3115865e4584922517b20d892cc49a13d9c2c1b2d6ae81ad",
+      "size": 37885
+    },
+    {
+      "path": "30_Offene_Punkte_und_Gates.docx",
+      "sha256": "d007bd5b47c0c24926d454182bffa11bab35e57ec145e7840081ba19fe3eb61b",
+      "size": 37946
+    },
+    {
+      "path": "README.md",
+      "sha256": "242178a7c68b480c27c505dec38aa6f9994068d62d0dede455dba347efb68778",
+      "size": 4144
+    },
+    {
+      "path": "eml/01_zwischenbericht_2021_-_rückfragen.eml",
+      "sha256": "d35cfb1419f91a1649f6ac04b93ac31bdd81174c3d11bc868850c93b4d3512c9",
+      "size": 53372
+    },
+    {
+      "path": "eml/02_kontenabgleich_zum_abschlussstichtag.eml",
+      "sha256": "e6236ef6bbac88e5826a52bfc84e7ea7310b8e013e2927d2201e592796f2bb3c",
+      "size": 17388
+    },
+    {
+      "path": "eml/03_stellungnahme_zur_schlussrechnung.eml",
+      "sha256": "66afb5caeea71321a71093168784e9e89e0e42fe0447d77b5860a0183731b649",
+      "size": 52312
+    },
+    {
+      "path": "eml/04_steuererstattung_und_bestandskraft.eml",
+      "sha256": "5b7158d1c3f27f012f99f6b560673037a0f8ecbe43dbb53f5d1afb813a9e05d5",
+      "size": 4419
+    },
+    {
+      "path": "eml/05_schlussverzeichnis_-_freigabelauf.eml",
+      "sha256": "b7515e04893532bc9207a56d670e659704338c4cd900b8fbda2e1dd7c5d840e8",
+      "size": 18459
+    },
+    {
+      "path": "eml/06_schlussbericht_und_antrag_-_entwurf.eml",
+      "sha256": "2fbd1eb1aa13869c3ede105b0e5dd68ed474e01b3e3d712ee66ac860e93a89c5",
+      "size": 108620
+    }
+  ],
+  "individual_pdfs": 37,
+  "combined_pages": 56,
+  "totals": {
+    "receipts": "2184650.00",
+    "expenses": "1643292.40",
+    "cash": "541357.60",
+    "final_costs": "115927.60",
+    "available": "425430.00",
+    "claims": "1685971.56"
+  }
+}

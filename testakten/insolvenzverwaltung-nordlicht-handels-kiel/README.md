@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-nordlicht-handels-kiel_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-nordlicht-handels-kiel-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,11 +31,24 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzverwaltung-nordlicht-handels-kiel` (Akte) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.35.3/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+| `testakte-insolvenzverwaltung-nordlicht-handels-kiel` (Akte) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.0.0/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-**Beispielfall** zur Bearbeitung des Plugins `insolvenzverwaltung`.
+**Beispielfall** für den [`insolvenzverwaltung-berichtsersteller`](../../insolvenzverwaltung-berichtsersteller/README.md). Die vollständige Sachbearbeitung des Insolvenzverfahrens lässt sich ergänzend mit [`insolvenzverwaltung`](../../insolvenzverwaltung/README.md) üben.
+
+## Führende Fassung und historische Arbeitsstände
+
+Die Akte enthält datierte Zwischenstände. Sie dürfen nicht wie gleichzeitig gültige Abschlussunterlagen gelesen werden. Für den Abschluss führen:
+
+1. der 14. Zwischenbericht zum Stichtag 31. Dezember 2023 nur für den damaligen offenen Bearbeitungsstand,
+2. die beiden inhaltsgleichen Schlussberichtsdateien vom 15. März 2024 zusammen mit der Kontrollarbeitsmappe und dem Schlussverzeichnis für Rechnung, Forderungsbasis und Quote,
+3. die Einreichungsfreigabe vom 18. März 2024 nur für die Vorlage beim Gericht,
+4. die gerichtliche Verfügung vom 22. März 2024 für Zustimmung und Schlusstermin,
+5. Vollzugsprotokoll und Schlussmitteilung vom 24. April 2024 für die am 22. April freigegebenen und danach kontrollierten Auszahlungen sowie
+6. der Aufhebungsbeschluss vom 30. April 2024 für das Verfahrensende.
+
+Ältere Arbeitsprognosen von ungefähr 14 % oder 20,18 % beruhten auf anderen Kosten-, Masse- und Forderungsständen. Sie sind ausdrücklich überholt. Eine frühere monolithische, 294-seitige Berichtssammlung mit widersprechender Abschlussfolge ist deshalb nicht mehr Bestandteil des aktuellen Quellen-, Gesamt-PDF- oder Releasepakets. Ihre verfahrensgeschichtlich relevanten Inhalte werden durch die datierten Einzelstücke und die aktualisierte `Verfahrensuebersicht.docx` abgebildet. Der einzige Abschlusswert der führenden Fassung ist eine Rechenquote von 23,6273198363 % beziehungsweise eine auf sechs Dezimalstellen ausgewiesene Quote von 23,627320 %.
 
 ## Verfahrenseckdaten
 
@@ -47,7 +60,7 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | Insolvenzverwalter | Dr. Jens-Peter Hartmann, Brinkmann Hartmann & Kollegen, Kiel |
 | Eröffnung | 01.06.2013 |
 | Eigenantrag | 14.01.2013 (Zahlungsunfähigkeit und Überschuldung) |
-| Verfahrensende | 2024 (Schlussbericht 14. Zwischenbericht, Schlussverteilung) |
+| Verfahrensende | 30.04.2024 nach Schlussverteilung; späterer Nachtragsprüffall ab 12.10.2024 |
 
 ## Gesellschaft
 
@@ -77,7 +90,8 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | 31.12.2018 | EUR 100.200 |
 | 31.12.2019 | EUR 106.800 |
 | 15.11.2020 | EUR 108.400 |
-| Schluss (2024) | EUR 120.462 |
+| Schlussbestand vor Schlusskosten und Restvergütung (15.03.2024) | EUR 138.564 |
+| Teilungsmasse für die Schlussverteilung (2024) | EUR 120.462 |
 
 ## Forderungen (Tabelle, Auszug)
 
@@ -88,10 +102,10 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 | DAK-Gesundheit | EUR 18.740 |
 | IKK Nord | EUR 12.450 |
 | Diverse Warenlieferanten | EUR 34.200 bis EUR 1.200 |
-| Gesamt festgestellt | ca. EUR 510.200 |
+| Gesamt festgestellt (§ 38 InsO) | EUR 509.842 |
 | Gesamt bestritten | ca. EUR 70.000 |
 
-**Voraussichtliche Quote:** ca. 13–14 %
+**Schlussquote:** 23,627320 % vor Centausgleich, auf sechs Dezimalstellen gerundet. Die ungerundete Rechenquote beträgt 23,6273198363 %. Die centgenauen Auszahlungen ergeben zusammen exakt EUR 120.462.
 
 ## Verfahrenshöhepunkte
 
@@ -99,12 +113,16 @@ Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das
 2. **Anfechtungen** gegen DAK (§ 131 InsO) und IKK Nord: vergleichsweise beigelegt
 3. **Haftungsklage § 64 GmbHG** gegen Stefan Berger: Vergleich, Ratenzahlungen ab 2014
 4. **Stefan Berger-Insolvenz** (2017/2018), **Katrin Berger-Insolvenz** (2018)
-5. **Steuererstattung FA** 2023/2024: Nachtragsverteilung
+5. **Steuererstattung FA** 2023: später Massezufluss der regulären Schlussverteilung; ein erst nach Aufhebung eingegangener Steuerzins bildet einen gesonderten Nachtragsprüffall
 6. Verfahrensdauer: 11 Jahre (2013–2024)
 
 ## Verfahrensinhalt (14 Berichte)
 
-Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige Forderungstabellen, Anfechtungskorrespondenz, Kontoauszüge Treuhandkonto, Gläubigerkorrespondenz und Schlussverteilung.
+Die Akte enthält datierte Berichte, Forderungstabellen, Anfechtungskorrespondenz, Kontodaten, Gläubigerkorrespondenz und ein ausgebautes Abschlussmodul. Der 14. Zwischenbericht führt vom letzten offenen Steuer- und Kontenthema zur Abschlussreife. Schlussbericht, Schlussrechnung, Schlussverzeichnis, gerichtliche Zustimmung, Zahlungsfreigabe, Vollzugsprotokoll, Schlussmitteilung, Aufhebungsbeschluss und ein später Nachtragsprüffall sind als getrennte Arbeitsprodukte vorhanden. Die aktualisierte Verfahrensübersicht ordnet für jedes Produkt Stichtag, Status und Reichweite ein.
+
+## Abschlussworkflow
+
+Die Dateien `05_Schlussbericht_15-03-2024.docx` und `24_schlussbericht.docx` bilden dieselbe führende Abschlussfassung ab. Die gesonderte Arbeitsmappe kontrolliert Einnahmen, Ausgaben, Forderungsbasis, Quote und Auszahlung. Die Verfahrensakte trennt Einreichungsfreigabe, gerichtliche Zustimmung, Zahlungsfreigabe, belegten Vollzug und Aufhebung. Der im Juni 2023 eingegangene Steuerbetrag ist noch keine Nachtragsverteilung, weil das Verfahren damals nicht aufgehoben war. Der erst im Oktober 2024 eingegangene Steuerzins wird demgegenüber nach der Aufhebung in einem gesonderten Prüfpfad behandelt.
 
 ## Aktenstücke
 
@@ -136,8 +154,19 @@ Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige For
 | `24_schlussbericht.docx` | Schlussbericht (Langfassung) |
 | `25_schlussverzeichnis.docx` | Schlussverzeichnis |
 | `26_aufhebungsbeschluss.docx` | Aufhebungsbeschluss |
+| `27_zwischenbericht_nr_14_31-12-2023.docx` | Ausformulierter 14. Zwischenbericht mit offenen Abschlussgates |
+| `28_schlussrechnung_kontenabstimmung_15-03-2024.xlsx` | Bearbeitbare Schlussrechnung, Quotenrechnung, Freigaben und Nachtragskontrolle |
+| `29_freigabevermerk_abschluss_18-03-2024.docx` | Vier-Augen-Prüfung und Einreichungsfreigabe |
+| `30_verfuegung_schlussverteilung_22-03-2024.docx` | Gerichtliche Zustimmung zur Schlussverteilung und Bestimmung des Schlusstermins |
+| `31_vollzugsprotokoll_schlussverteilung_24-04-2024.docx` | Zahlungslauf, Bankstatus und Rückläuferkontrolle |
+| `32_schlussmitteilung_24-04-2024.docx` | Vollzugsnachweis und Anregung der Aufhebung |
+| `33_nachtragsverteilung_steuerzins_20-10-2024.docx` | Getrennter Prüfpfad für einen erst nach Aufhebung eingegangenen Steuerzins |
+| `Verfahrensuebersicht.docx` | Aktuelle Chronologie, Fassungsregister und abgestimmte Abschlussrechnung; kennzeichnet überholte Prognosen ausdrücklich |
+| `eml/07_gericht_rueckfrage_schlussrechnung.eml` | Gerichtliche Rückfrage zum Steuerzufluss und zur früheren Begriffswahl |
+| `eml/08_antwort_steuererstattung_und_begriff.eml` | Klarstellung der führenden Schlussrechnungsfassung |
+| `eml/09_bank_bestaetigung_zahlungslauf.eml` | Bankbestätigung über die Schlussauszahlung |
 | `eml/06_antwort_finanzamt_steuererstattung.eml` | Antwort des Finanzamts zur Steuererstattung 2008–2012 und zu den Erstattungszinsen |
-| `emails/`, `eml/` | Korrespondenz Verwalter, Bank, WP, Finanzamt |
+| `eml/` | Korrespondenz Verwalter, Bank, WP, Finanzamt |
 | `csv/` | Forderungstabelle, Treuhandkonto-Bewegungen |
 | `xlsx/` | Masseentwicklung 2013-2024 |
 | `pdfs/` | Original-PDF-Beleg Vergleichsvereinbarung |
@@ -146,4 +175,4 @@ Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige For
 
 ## Passendes Plugin
 
-`insolvenzverwaltung` — vollständiger Workflow von Eröffnung bis Schlussverteilung.
+[`insolvenzverwaltung-berichtsersteller`](../../insolvenzverwaltung-berichtsersteller/README.md) — Zwischenberichte, Schlussbericht, Schlussrechnung, Schlussverzeichnis, Freigabe, Verteilungsvollzug und Nachtragsverteilung. Für den vollständigen Verfahrensworkflow bleibt außerdem [`insolvenzverwaltung`](../../insolvenzverwaltung/README.md) einschlägig.
