@@ -39,11 +39,23 @@ Bei einer Bankzahlung der Gesellschaft untersuchen Sie, ob und in welchem Umfang
 
 Prüfen Sie § 135 Abs. 4 in Verbindung mit § 39 Abs. 4 und 5 InsO: erfasste Gesellschaftsform, Sanierungserwerb sowie nicht geschäftsführende Beteiligung von höchstens zehn Prozent. Die gesetzliche Sonderregel für staatliche Förderbanken ist bei entsprechendem Beteiligten zusätzlich zu beachten. Ermitteln Sie, ob die behauptete Ausnahme im relevanten Zeitpunkt tatsächlich bestand. Ein Beiratsamt oder eine Vollmacht ist nicht ohne Weiteres mit Geschäftsführerstellung gleichzusetzen; eine rein formale Bezeichnung entscheidet aber auch keine mittelbare Zurechnung. Bei ungeklärter Beteiligungsstruktur fragen Sie nach Register- und Vertragsbelegen, statt eine Quote zu schätzen.
 
-### 3.6 Finanzierungsakte an Rechtsfolge und Prozess übergeben
+### 3.6 Forderungsverkauf und Abtretung zeitlich einordnen
+
+Bei einem Gläubigerwechsel erfassen Sie Darlehensgeber, Zedent, Zessionar, Abschluss und Wirksamwerden der Abtretung, Kaufpreiszahlung, Nebenabreden, Anzeige an die Gesellschaft und spätere Befriedigung als getrennte Ereignisse. Maßgeblich ist nicht allein, wann die Gesellschaft von der Abtretung erfuhr. Prüfen Sie, wer im jeweiligen Zeitpunkt Gesellschafter und wer Forderungsinhaber war, wann der nach § 139 InsO zu berechnende Jahreszeitraum begann und ob die Abtretung innerhalb oder außerhalb dieses Zeitraums wirksam wurde.
+
+BGH, Urteil vom 21. Februar 2013 – IX ZR 32/12, Rn. 24 bis 28, begrenzt die Fortwirkung der insolvenzrechtlichen Qualifikation gegenüber einem außenstehenden Erwerber zeitlich. Die Entscheidung trägt den Zugriff auf den Zessionar, wenn die Abtretung innerhalb des letzten Jahres vor dem Eröffnungsantrag und die Befriedigung ebenfalls innerhalb dieses Jahres liegen. Sie trägt keine zeitlich unbegrenzte Haftung eines echten außenstehenden Erwerbers. Liegt die wirksame Abtretung länger als ein Jahr vor dem Antrag, darf der Anspruch deshalb nicht aus der Herkunft der Forderung allein bejaht werden.
+
+Prüfen Sie bei behaupteter Umgehung konkrete Tatsachen: Treuhand oder Strohmannstellung, Rückgriff des Erwerbers gegen den Gesellschafter, erfolgsabhängigen Kaufpreis, fortbestehendes wirtschaftliches Risiko, Weisungsrechte, Geheißzahlung und tatsächlichen Geldfluss. BGH, Urteil vom 19. September 2024 – IX ZR 173/23, Rn. 19, 26 bis 30 und 39 bis 41, verlangt für eine wirtschaftliche Zurechnung besondere Umstände; bloße Verbindung, Einflussmöglichkeit, Freundschaft oder ein niedriger Kaufpreis genügen nicht von selbst. Trennen Sie Tatsachen, Indizien und Schlussfolgerung. Eine offensive Klage darf die entgegenstehende Rechtsprechung nicht verschweigen und keine Treuhand behaupten, für die es keinen tatsächlichen Anhalt gibt.
+
+### 3.7 Finanzierungstatbestand ohne Krisenwissen prüfen
+
+Bei der Befriedigung einer echten Gesellschafterdarlehensforderung innerhalb des gesetzlichen Jahreszeitraums sind Gesellschaftskrise, Zahlungsunfähigkeit im Zahlungszeitpunkt und Kenntnis des Empfängers keine zusätzlichen Voraussetzungen des § 135 Abs. 1 Nr. 2 InsO. BGH, Beschluss vom 30. April 2015 – IX ZR 196/13, Rn. 5 bis 9, bestätigt die typisierende Jahresfrist. Gleichwohl bleibt § 129 Abs. 1 InsO zu prüfen: Die konkrete Rechtshandlung muss die Insolvenzgläubiger objektiv benachteiligen. Erfassen Sie deshalb den Abfluss aus dem Schuldnervermögen und mögliche gleichwertige Massezuflüsse, statt den Sondertatbestand als voraussetzungslosen Rückzahlungsbefehl zu behandeln.
+
+### 3.8 Finanzierungsakte an Rechtsfolge und Prozess übergeben
 
 Fassen Sie Darlehen, Rückzahlung, Sicherheiten und etwaige Freigaben in einer abgestimmten Chronologie zusammen. Benennen Sie für jede Position Normroute, Zeitraum, Ausnahme und Gegenargument. Ist zusätzlich eine Pflichtverletzung der Geschäftsleitung denkbar, geben Sie dies als separate Schnittstelle aus. Anfechtungsanspruch, gesellschaftsrechtliche Zustimmung und Organhaftung dürfen nicht zu einem einheitlichen unbegründeten Rückzahlungsbefehl verschmelzen.
 
-### 3.7 Selbstkontrolle und Übergabe
+### 3.9 Selbstkontrolle und Übergabe
 
 Prüfen Sie im Abschluss, ob ein behaupteter Regress tatsächlich gegen die Gesellschaft oder gegen eine andere Person bestand. Ein privater Mitkreditnehmer kann eine andere Ausgangslage haben als ein Gesellschafter, der eine Gesellschaftsschuld befriedigt. Stellen Sie verdeckte Gleichsetzungen offen: Beteiligung ist nicht Geschäftsführung, Sicherheit ist nicht Befriedigung, Stehenlassen ist nicht jede Rechnungsverzögerung. Die Beweisliste muss die ursprüngliche Schuld ebenso enthalten wie die spätere Erstattung und den damaligen Beteiligungsstand.
 
@@ -51,7 +63,7 @@ Die Übergabe enthält Vorgangskennung, konkreten Beleg, festgestellte Tatsachen
 
 ## 4. Quellenpflicht
 
-### 4.1 Fachlicher Entscheidungsanker
+### 4.1 Gesellschafterauslagen und darlehensgleicher Rückgriff
 
 BGH, Urteil vom 10. Juli 2025 – IX ZR 189/24, ECLI:DE:BGH:2025:100725UIXZR189.24.0, Rn. 8 bis 25 und 27 bis 28. Gelesen: Rn. 1 bis 29.
 
@@ -61,7 +73,37 @@ Trägt: Zahlt der Gesellschafter Gesellschaftsschulden aus eigenen Mitteln mit R
 
 Trägt nicht: Jede Spesenabrechnung ist ein Gesellschafterdarlehen; drei Monate sind eine gesetzliche Freigrenze; jede überfällige Forderung ist ohne Gesamtbetrachtung ein Darlehen. In der Akte daher Ursprung der Verbindlichkeit, Zahlungsweg, Auftrag, Rückgriffsgrund und vereinbarte Abrechnung erfassen.
 
-### 4.2 Prüfung vor Verwendung
+### 4.2 Jahresfrist statt zusätzlicher Krisenprüfung
+
+BGH, Beschluss vom 30. April 2015 – IX ZR 196/13, Rn. 5 bis 9. Gelesen: Rn. 3 und 5 bis 9.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2013/IX_ZR_196-13.pdf?__blob=publicationFile&v=1).
+
+Trägt: § 135 Abs. 1 Nr. 2 InsO ersetzt die frühere Krisenprüfung durch einen typisierten Jahreszeitraum. Der Anfechtungsgegner kann sich nicht allein damit entlasten, bei der Rückzahlung habe noch kein Insolvenzgrund bestanden oder er habe eine Krise nicht gekannt.
+
+Trägt nicht: § 129 Abs. 1 InsO sei entbehrlich; jede Zahlung an irgendeinen Gesellschafter sei eine Darlehensrückzahlung; Zeitraum, Finanzierungsgrund, Zahlungsempfänger und objektive Gläubigerbenachteiligung dürften ungeprüft bleiben.
+
+### 4.3 Abtretung an einen außenstehenden Dritten
+
+BGH, Urteil vom 21. Februar 2013 – IX ZR 32/12, Rn. 23 bis 32. Gelesen: Rn. 23 bis 32.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR__32-12.pdf?__blob=publicationFile&v=1).
+
+Trägt: Wird eine Gesellschafterdarlehensforderung innerhalb des letzten Jahres vor dem Eröffnungsantrag an einen Nichtgesellschafter abgetreten und dieser innerhalb desselben Zeitraums befriedigt, bleibt die insolvenzrechtliche Qualifikation erhalten. In dieser Konstellation können Zessionar und Gesellschafter für unterschiedliche Rückgewährwege als Gesamtschuldner einstehen.
+
+Trägt nicht: Jede jemals aus einem Gesellschafterdarlehen hervorgegangene Forderung bleibe beim Erwerber zeitlich unbegrenzt nachrangig oder anfechtungsbefangen. Die zeitliche Begrenzung in Rn. 25 bis 27 darf nicht durch isoliertes Zitieren der Rechtsfolgenpassagen überspielt werden.
+
+### 4.4 Wirtschaftliche Zurechnung verlangt besondere Umstände
+
+BGH, Urteil vom 19. September 2024 – IX ZR 173/23, Rn. 19, 26 bis 30 und 39 bis 41. Gelesen: diese Randnummern im amtlichen Volltext.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1).
+
+Trägt: Fehlt beim Anspruchsgegner die Verbindung von Gesellschafter- und Darlehensgeberstellung, bedarf es konkreter besonderer Umstände für eine wirtschaftliche Zurechnung, etwa einer Treuhand- oder Strohmannlage oder einer sonstigen Durchsetzung eigener wirtschaftlicher Interessen des Gesellschafters.
+
+Trägt nicht: Ein bloßer Umgehungsvorwurf, persönliche Bekanntschaft, beobachtende Teilnahme an Gesprächen, Einflussmöglichkeit oder ein auffälliger Kaufpreis genügten ohne weitere Tatsachen. Die Entscheidung ersetzt nicht die gesonderte Prüfung einer Abtretung innerhalb der Jahresfrist nach IX ZR 32/12.
+
+### 4.5 Prüfung vor Verwendung
 
 Prüfen Sie die anwendbare Normfassung und jede tragende gerichtliche Aussage anhand der [Rechtsquellen](../../references/rechtsquellen.md) und der [Zitierweise](../../references/zitierweise.md). Eine Suchtrefferüberschrift, ein früherer KI-Text oder ein Datenbankzitat ohne gelesenen Volltext ist kein Beleg. Gericht, Entscheidungsform, Datum, Aktenzeichen und gelesene Randnummer müssen zur konkreten Aussage passen. Dokumentieren Sie, was der Anker trägt und was er nicht trägt. Übernehmen Sie keine allgemeine Bindung aus einem Präzedenzfall.
 
@@ -78,3 +120,7 @@ Alle Endprodukte werden vollständig ausformuliert in grammatikalisch vollständ
 In Fürth bezahlt ein Gesellschafter einen Gesellschaftsgläubiger und erhält später Erstattung. Daneben lässt eine andere Gesellschafterin gewöhnliche Auslagen stehen. Beide Fälle werden nach Entstehungsgrund und Verlauf getrennt geprüft.
 
 Eine Minderheitsgesellschafterin verweist auf ihre kleine Quote, hat aber eine Banksicherheit bestellt. Der Skill untersucht sowohl die Ausnahmevoraussetzungen als auch die Wirkung einer Rückzahlung des Bankkredits. Keine dieser Fragen wird allein aus dem Wort Minderheit beantwortet.
+
+Ein Kölner Mobilitätsunternehmen zahlt einem Gesellschafter mit 25 Prozent Beteiligung vier Monate vor dem Eröffnungsantrag ein ungesichertes Darlehen zurück. Der Skill prüft Jahresfrist, Zahlung, objektive Gläubigerbenachteiligung und Ausnahme, ohne Zahlungsunfähigkeit oder Empfängerkenntnis zu zusätzlichen Tatbestandsmerkmalen zu machen.
+
+Eine Gesellschafterin mit 15 Prozent verkauft und überträgt ihre Darlehensforderung achtzehn Monate vor dem Eröffnungsantrag gegen sofort gezahlten Festpreis an einen außenstehenden Erwerber. Die Gesellschaft zahlt den Erwerber zwei Monate vor dem Antrag aus. Der Skill behandelt die spätere Abtretungsanzeige, den halben Kaufpreis, den ausdrücklichen Ausschluss einer Erlösbeteiligung und den späteren Informationsaustausch als Beweistatsachen, legt IX ZR 32/12 und IX ZR 173/23 offen und bezeichnet eine allein auf § 135 Abs. 1 Nr. 2 InsO gestützte Klage ohne weitere Zurechnungstatsachen als erheblich riskant.

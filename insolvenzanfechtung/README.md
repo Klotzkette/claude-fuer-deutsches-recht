@@ -12,14 +12,14 @@ Startsatz:
 
 > Prüfen Sie die Rückforderung anhand der beigefügten Verträge, Kontoauszüge und Nachrichten aus Sicht des Empfängers. Ordnen Sie jede Zahlung, prüfen Sie Gegenleistung und Kenntnis und erstellen Sie eine ausformulierte Antwort. Fragen Sie nur nach den für das Ergebnis entscheidenden fehlenden Unterlagen.
 
-Version: **1.0.0**. Rechtsquellenprüfung: **21.10.2026**. Änderungen stehen im [Changelog](CHANGELOG.md); die [Originalquellenreferenz](references/rechtsquellen.md) erläutert Aussage und Grenze jedes Entscheidungsankers.
+Version: **1.1.0**. Rechtsquellenprüfung: **22.10.2026**. Änderungen stehen im [Changelog](CHANGELOG.md); die [Originalquellenreferenz](references/rechtsquellen.md) erläutert Aussage und Grenze jedes Entscheidungsankers.
 
 | Bestandteil | Zweck | Zugang |
 | --- | --- | --- |
-| Plugin | Elf installierbare Skills und Referenzen | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/insolvenzanfechtung.zip) · [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/insolvenzanfechtung-portable.zip) |
-| Werkstatt | Ausführlicher eigenständiger Gesamtworkflow | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/insolvenzanfechtung-werkstatt.pdf) |
-| Schnellstart | Kompakter eigenständiger Einstieg | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/insolvenzanfechtung-schnellstart.pdf) |
-| Hauptproblem | Gläubigerwechsel, Empfängerzuordnung und Verteidigung | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/insolvenzanfechtung-hauptproblem.pdf) |
+| Plugin | Elf installierbare Skills und Referenzen | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung.zip) · [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung-portable.zip) |
+| Werkstatt | Ausführlicher eigenständiger Gesamtworkflow | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-werkstatt.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-werkstatt.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung-werkstatt.pdf) |
+| Schnellstart | Kompakter eigenständiger Einstieg | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-schnellstart.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-schnellstart.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung-schnellstart.pdf) |
+| Hauptproblem | Gläubigerwechsel, Empfängerzuordnung und Verteidigung | [Markdown](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md) · [Text](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzanfechtung/insolvenzanfechtung-hauptproblem.txt) · [PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/insolvenzanfechtung-hauptproblem.pdf) |
 
 Die Prompts sind eigenständige Arbeitsdateien. Das Plugin installiert keine Testakten und versendet keine E-Mails. Die verfügbaren Funktionen von Claude Cowork, Claude Code, Codex und ChatGPT hängen von der jeweiligen Umgebung ab; ein konkreter Skill lässt sich ausdrücklich als Auftrag wählen. Befehlsdateien sind zusätzliche Einstiegshilfen und müssen nicht in jeder Oberfläche als Menü erscheinen.
 
@@ -45,9 +45,11 @@ Die Prüfung trennt Rechtshandlung, zeitliche Zuordnung, objektive Benachteiligu
 
 Die Referenz berücksichtigt amtlich gelesene Entscheidungen bis 2026. Insbesondere wird das EuGH-Verfahren C-43/25 nicht als noch offene Vorlage dargestellt. Entscheidungen enthalten jeweils „Trägt“ und „Trägt nicht“. Nicht zugängliche Quellen oder ungeklärte Tatsachen bleiben ausdrücklich offen. Das Plugin erfindet keine Randnummern und leitet aus einem Präzedenzfall keine allgemeine Bindung anderer Gerichte ab.
 
+Für § 135 Abs. 1 Nr. 2 InsO unterscheidet der Workflow jetzt ausdrücklich den einfachen Rückzahlungsfall vom Forderungserwerb. Bei direkter Befriedigung innerhalb des Jahres werden Krise und Empfängerkenntnis nicht als zusätzliche Voraussetzungen behandelt; § 129 Abs. 1 InsO bleibt zu prüfen. Bei Abtretung werden Wirksamkeit und Jahresgrenze nach BGH IX ZR 32/12 sowie konkrete besondere Zurechnungstatsachen nach BGH IX ZR 173/23 offengelegt. Eine ältere echte Zession wird nicht aus dem ursprünglichen Gesellschafterbezug allein erfasst.
+
 [Arbeitsweise](references/arbeitsweise.md) · [Zitierweise](references/zitierweise.md) · [Übergaben und Belegstruktur](references/belege-und-uebergaben.md)
 
-## 4. Drei Testakten
+## 4. Fünf Testakten
 
 Die Fälle liegen getrennt im zentralen Testaktenordner. Die jeweiligen README-Seiten enthalten Gesamt-PDF, Einzel-PDFs und Originaldateien sowie die genaue Aufgabenbeschreibung. Sie können zunächst nur Aktenunterlagen bereitstellen und die Prüfhinweise für die spätere Auswertung zurückhalten.
 
@@ -60,6 +62,8 @@ Die Fälle liegen getrennt im zentralen Testaktenordner. Die jeweiligen README-S
 | Fintech-Darlehen und Vertragsübernahme, Bremen | Gläubigerwechsel, Zustimmung, Zahlungsweg und Empfängerzuordnung | [Akte und Downloads](../testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) |
 | Blechliebe Bamberg | Ratenplan, alte Rückstände, Neulieferung, Bargeschäft und wechselndes Krisenwissen | [Akte und Downloads](../testakten/insolvenzanfechtung-blechliebe-bamberg/README.md) |
 | Faltenwurf Fürth | Familie, Gesellschafterfinanzierung, Sicherung, Minderheitsbeteiligung und Bankgarantie | [Akte und Downloads](../testakten/insolvenzanfechtung-faltenwurf-fuerth/README.md) |
+| VeedelWende: direkte Rückzahlung, Köln | Einfacher Anspruch aus der Rückzahlung eines Darlehens an einen Gesellschafter mit 25 Prozent Beteiligung vier Monate vor dem Antrag | [Akte und Downloads](../testakten/insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln/README.md) |
+| VeedelWende: Zession, Köln | Abtretung an einen außenstehenden Erwerber achtzehn Monate vor dem Antrag, bewusst riskante Klage und ausführliche Verteidigung | [Akte und Downloads](../testakten/insolvenzanfechtung-veedelwende-zession-koeln/README.md) |
 
 [Übungswege und Auswertung](references/testakten-und-arbeitsauftraege.md) erläutern, welche Produkte aus den Unterlagen entstehen sollen. Die Akten sind fiktiv; ihre Tatsachen und eingebauten Vorprüfungen sind keine Rechtsquellen.
 

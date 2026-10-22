@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "insolvenzanfechtung",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
   "author": {
     "name": "Klotzkette",
@@ -11,7 +11,7 @@
     "com.openai": {
       "interface": {
         "displayName": "Insolvenzanfechtung",
-        "shortDescription": "Zahlungen prüfen, Ansprüche begründen oder abwehren",
+        "shortDescription": "Insolvenzanfechtung prüfen",
         "longDescription": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
         "developerName": "Klotzkette",
         "category": "Productivity",

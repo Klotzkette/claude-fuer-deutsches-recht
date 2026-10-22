@@ -1,6 +1,6 @@
 {
   "name": "insolvenzanfechtung",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Insolvenzanfechtung aus Verwalter- und Empfängersicht: Zahlungsketten, Deckung, Vorsatz, Drittleistungen, Gesellschafterfinanzierung, Bargeschäft und Rückgewähr belegt prüfen. Zehn Fachskills und ein Hauptskill führen zum ausformulierten Schreiben, Schriftsatz oder Vergleich.",
   "author": {
     "name": "Klotzkette",

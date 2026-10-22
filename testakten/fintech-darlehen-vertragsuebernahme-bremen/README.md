@@ -20,12 +20,12 @@ Die Verfahrensakte gibt es in drei Formaten. Beide ZIPs erhalten die getrennten 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf`](gesamt-pdf/fintech-darlehen-vertragsuebernahme-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-fintech-darlehen-vertragsuebernahme-bremen-einzelpdfs.zip) |
 
-Die ZIP-Links laden die Aktenfassung zum Komponentenrelease `insolvenzanfechtung-v1.0.0`. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
+Die ZIP-Links laden die Aktenfassung zum Komponentenrelease `insolvenzanfechtung-v1.1.0`. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the insolvency-avoidance component release 1.0.0.
+English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the insolvency-avoidance component release 1.1.0.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

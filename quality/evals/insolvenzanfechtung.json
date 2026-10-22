@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "insolvenzanfechtung",
-  "reviewed_on": "2026-10-21",
+  "reviewed_on": "2026-10-22",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2020/IX_ZR__72-20.pdf?__blob=publicationFile&v=1",
@@ -57,6 +57,21 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0043",
       "checked_on": "2026-10-21",
       "supports": "Art. 13 der Verordnung (EG) Nr. 1346/2000 ist nicht gegen die Rückforderung von Gesellschafterdarlehenszahlungen einsetzbar, wenn diese den insolvenzrechtlichen Rang und die Verteilungsordnung durchsetzt. Der Gerichtshof trennt die Anfechtungsregel von Anmeldung und Rang der Forderungen. Die Rechtswahl österreichischen Vertragsrechts allein verhindert daher nicht den im Ausgangsverfahren verfolgten Rückgriff. Grenze: Allgemeiner Ausschluss der Einwendung ausländischen Rechts bei jeder Anfechtung oder jedem Bankdarlehen. Fragen 2 bis 4 wurden ausdrücklich nicht beantwortet. Das Urteil betrifft die alte EuInsVO; die Anwendung auf den heutigen Normzusammenhang muss offengelegt und begründet werden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2013/IX_ZR_196-13.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "§ 135 Abs. 1 Nr. 2 InsO arbeitet mit einer typisierten Jahresfrist; Gesellschaftskrise, Insolvenzgrund im Zahlungszeitpunkt und Empfängerkenntnis sind keine zusätzlichen Tatbestandsmerkmale. Grenze: § 129 Abs. 1 InsO, Darlehenscharakter, Zahlung, Zeitraum und objektive Gläubigerbenachteiligung bleiben eigenständig festzustellen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR__32-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "Bei Abtretung einer Gesellschafterdarlehensforderung an einen Außenstehenden innerhalb des letzten Jahres und Befriedigung im Jahreszeitraum bleibt die Forderung erfasst; der BGH begrenzt diese Fortwirkung aber gerade zeitlich. Grenze: keine zeitlich unbegrenzte Zessionarhaftung bei echter Abtretung mehr als ein Jahr vor dem Antrag."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-22",
+      "supports": "Ohne Verbindung von Gesellschafter- und Darlehensgeberstellung verlangt die wirtschaftliche Zurechnung besondere Tatsachen wie Treuhand, Strohmannstellung oder die konkrete Durchsetzung eigener wirtschaftlicher Interessen. Grenze: Umgehungsetikett, Freundschaft, Beobachterrolle oder niedriger Kaufpreis genügen nicht ohne weitere Umstände."
     }
   ],
   "selection": {
@@ -166,29 +181,111 @@
           ]
         }
       ]
+    },
+    {
+      "id": "veedelwende-direktrueckzahlung",
+      "request": "Die VeedelWende Mobility GmbH zahlte einem nicht geschäftsführenden Gesellschafter mit 25 Prozent Beteiligung ein Darlehen von 150.000 EUR vier Monate vor Eingang des Insolvenzantrags vollständig zurück. Entwerfen Sie aus Sicht der Verwalterin zunächst ein kurzes Aufforderungsschreiben und danach eine ausführliche Klage mit Anlagenzuordnung.",
+      "target_skill": "gesellschafterfinanzierung",
+      "input_files": [],
+      "deliverables": [
+        "aufforderung.md",
+        "klage.md"
+      ],
+      "criteria": [
+        {
+          "id": "veedelwende-direkt-1",
+          "text": "Antragseingang, Eröffnung, Darlehensauszahlung und Rückzahlung getrennt belegen und die Jahresfrist nach § 139 InsO richtig berechnen.",
+          "deliverables": [
+            "aufforderung.md",
+            "klage.md"
+          ]
+        },
+        {
+          "id": "veedelwende-direkt-2",
+          "text": "Keine zusätzliche Zahlungsunfähigkeit, Krise oder Empfängerkenntnis für § 135 Abs. 1 Nr. 2 verlangen; § 129 Abs. 1 und objektive Gläubigerbenachteiligung dennoch prüfen.",
+          "deliverables": [
+            "klage.md"
+          ]
+        },
+        {
+          "id": "veedelwende-direkt-3",
+          "text": "Kleinbeteiligtenprivileg bei 25 Prozent verneinen, behauptete Servicevergütung belegbezogen behandeln und Zinsen erst ab Verzug oder Rechtshängigkeit verlangen.",
+          "deliverables": [
+            "klage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veedelwende-zession",
+      "request": "Eine Gesellschafterin mit 15 Prozent Beteiligung verkaufte und übertrug ihr Darlehen achtzehn Monate vor Insolvenzantrag für den halben Nennwert an einen außenstehenden Dritten. Dieser erhielt zwei Monate vor Antrag 96.000 EUR. Entwerfen Sie die gewünschte offensive Klage und ein ehrliches internes Risikomemo.",
+      "target_skill": "gesellschafterfinanzierung",
+      "input_files": [],
+      "deliverables": [
+        "klage.md",
+        "risikomemo.md"
+      ],
+      "criteria": [
+        {
+          "id": "veedelwende-zession-1",
+          "text": "Ursprüngliche Darlehensgeberin, Zedent, Zessionar, Kaufpreiszahlung, Wirksamkeit der Abtretung, Anzeige und Rückzahlung zeitlich und personell trennen.",
+          "deliverables": [
+            "klage.md",
+            "risikomemo.md"
+          ]
+        },
+        {
+          "id": "veedelwende-zession-2",
+          "text": "BGH IX ZR 32/12 mit seiner zeitlichen Grenze offen behandeln; aus der Rückzahlung innerhalb des Jahres keine automatische Haftung nach Abtretung achtzehn Monate zuvor ableiten.",
+          "deliverables": [
+            "klage.md",
+            "risikomemo.md"
+          ]
+        },
+        {
+          "id": "veedelwende-zession-3",
+          "text": "Für eine wirtschaftliche Zurechnung konkrete Treuhand-, Strohmann- oder Geheißtatsachen verlangen; Bekanntschaft, Informationsaustausch und halber Kaufpreis nicht als Beweis ausgeben.",
+          "deliverables": [
+            "risikomemo.md"
+          ]
+        },
+        {
+          "id": "veedelwende-zession-4",
+          "text": "Klagebehauptungen wahrheitsgemäß und beweisbezogen formulieren; das erhebliche Prozessrisiko und die voraussichtliche Abweisung bei fehlendem Zurechnungsbeweis klar benennen.",
+          "deliverables": [
+            "klage.md",
+            "risikomemo.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Zahlungsbezogene Prüfung aus Verwalter- und Empfängersicht mit getrenntem Krisenwissen, Gegenleistung, Anspruchsadressat und beauftragtem Endprodukt.",
+    "reason": "Der kompakte Workflow trennt nun direkte Gesellschafterrückzahlung, Drittfinanzierung und Abtretung mit der jeweiligen Jahresgrenze.",
     "changes": [
       "Ratenplan und neue Gegenleistung getrennt.",
       "Drittzahlung und eigene Verpflichtung rekonstruiert.",
-      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
+      "Bei direkter Rückzahlung keine zusätzliche Krisen- oder Kenntnisprüfung.",
+      "Bei Abtretung Wirksamkeit, Kaufpreis, Zurechnung und Jahresgrenze getrennt."
     ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "98492625d5c230d84e5054c473bbbed9105bc219df3afa49b16c9364ea2c277a"
+    "reviewed_on": "2026-10-22",
+    "sha256": "309b9ff4ad64f0893312f4467dd3c4f6ee0a77c8407134c52bf3aae0b00de8be"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Zahlungsbezogene Prüfung aus Verwalter- und Empfängersicht mit getrenntem Krisenwissen, Gegenleistung, Anspruchsadressat und beauftragtem Endprodukt.",
+    "reason": "Gesellschafterdarlehen und Forderungsabtretung werden zusätzlich anhand der Jahresfrist, der objektiven Gläubigerbenachteiligung und der konkreten wirtschaftlichen Zurechnung geprüft.",
     "changes": [
       "Ratenplan und neue Gegenleistung getrennt.",
       "Drittzahlung und eigene Verpflichtung rekonstruiert.",
-      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert."
+      "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
+      "Direkte Rückzahlung innerhalb der Jahresfrist ohne zusätzliche Krisen- oder Kenntnisprüfung eingeordnet.",
+      "Abtretung innerhalb und außerhalb der Jahresfrist nach IX ZR 32/12 getrennt.",
+      "Wirtschaftliche Zurechnung nach IX ZR 173/23 an konkrete besondere Umstände gebunden."
     ],
-    "reviewed_on": "2026-10-21",
-    "sha256": "157d904a15618023fb88b6ee2cde94f8d5afa02d64ff9c93ac8cb773c0c1c337"
+    "reviewed_on": "2026-10-22",
+    "sha256": "4d6dd910a0c2bb3ed2f55f5403e88e096bb421991745b6bc41a25b183aef9c69"
   },
   "focus_review": {
     "verdict": "revised",
@@ -206,7 +303,7 @@
     "skill_sha256": "0f1b9c0cceca83149cfd3a92511b5eb18ff2c565928b39b2de4a4b9857e713cf"
   },
   "prompt_editorial_review": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "method": "desk_review",
     "opening_change": "Konkrete Zahlung, Perspektive und verlangtes Dokument führen in die Prüfung; kein allgemeiner Insolvenzvortrag.",
     "norms": [
@@ -288,6 +385,24 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0043",
         "application": "Art. 13 der Verordnung (EG) Nr. 1346/2000 ist nicht gegen die Rückforderung von Gesellschafterdarlehenszahlungen einsetzbar, wenn diese den insolvenzrechtlichen Rang und die Verteilungsordnung durchsetzt. Der Gerichtshof trennt die Anfechtungsregel von Anmeldung und Rang der Forderungen. Die Rechtswahl österreichischen Vertragsrechts allein verhindert daher nicht den im Ausgangsverfahren verfolgten Rückgriff.",
         "limit": "Allgemeiner Ausschluss der Einwendung ausländischen Rechts bei jeder Anfechtung oder jedem Bankdarlehen. Fragen 2 bis 4 wurden ausdrücklich nicht beantwortet. Das Urteil betrifft die alte EuInsVO; die Anwendung auf den heutigen Normzusammenhang muss offengelegt und begründet werden."
+      },
+      {
+        "citation": "BGH, Beschluss vom 30. April 2015 – IX ZR 196/13, Rn. 3 und 5 bis 9. Gelesen: diese Randnummern.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2013/IX_ZR_196-13.pdf?__blob=publicationFile&v=1",
+        "application": "Die Jahresfrist ersetzt die zusätzliche Krisen- und Kenntnisprüfung bei § 135 Abs. 1 Nr. 2; § 129 Abs. 1 bleibt gesondert.",
+        "limit": "Kein voraussetzungsloser Rückzahlungsanspruch; Darlehen, Zahlung, Zeitraum und Gläubigerbenachteiligung bleiben zu belegen."
+      },
+      {
+        "citation": "BGH, Urteil vom 21. Februar 2013 – IX ZR 32/12, Rn. 23 bis 32. Gelesen: diese Randnummern.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR__32-12.pdf?__blob=publicationFile&v=1",
+        "application": "Abtretung binnen Jahresfrist und Befriedigung binnen Jahresfrist lassen die Belastung fortwirken; die Begrenzung ist für ältere echte Abtretungen entscheidend.",
+        "limit": "Keine zeitlich unbegrenzte Haftung jedes Erwerbers einer früheren Gesellschafterdarlehensforderung."
+      },
+      {
+        "citation": "BGH, Urteil vom 19. September 2024 – IX ZR 173/23, Rn. 19, 26 bis 30 und 39 bis 41. Gelesen: diese Randnummern.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1",
+        "application": "Wirtschaftliche Zurechnung an den Gesellschafter verlangt besondere, konkret belegte Umstände.",
+        "limit": "Ein bloßer Umgehungsvorwurf, Verbindung oder niedriger Kaufpreis genügt nicht."
       }
     ]
   },

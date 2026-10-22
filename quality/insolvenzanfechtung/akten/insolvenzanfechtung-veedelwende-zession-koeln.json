@@ -1,0 +1,159 @@
+{
+  "slug": "insolvenzanfechtung-veedelwende-zession-koeln",
+  "documents": 24,
+  "pages": 29,
+  "formats": {
+    ".docx": 10,
+    ".pdf": 7,
+    ".eml": 4,
+    ".xlsx": 2,
+    ".txt": 1
+  },
+  "font": "Times New Roman",
+  "files": [
+    {
+      "file": "01_Aktenauftrag_Verwalterin.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "aca0c716974badbbd910c1b12439ecf1fc5c047104222b97fec86de0222edac4"
+    },
+    {
+      "file": "02_Insolvenzantrag_Eingang.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "3a6df9ac666a3bfcbe2dd1abf05cbea5a27d84bb91a2d182b1f39ce00aec2c00"
+    },
+    {
+      "file": "03_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "a0013bb5dcd5632908660af2c6483822faf10e5821c826f01c5a09401b54a0cd"
+    },
+    {
+      "file": "04_Gesellschafterliste.pdf",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "a5d83e9d5a2f796ef1556d22bada95e3bded74171feadea63d8c07d369e4ee97"
+    },
+    {
+      "file": "05_Darlehensvertrag_Zech.docx",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "ce496865cdaeb74ae7fd35a86bdffacbc76f3c7d05e47783d8401674c1f74683"
+    },
+    {
+      "file": "06_Darlehensauszahlung.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "5f70c48d149c83042e1753e3b8170dd8c5219a114520b9bcb6ae3d9c773cf48a"
+    },
+    {
+      "file": "07_Kauf_Abtretung.docx",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "5e345ef42bf1564ecb55cf66ea3cbda19da20723fa4148d3c95a9ac015a3559d"
+    },
+    {
+      "file": "08_Kaufpreiszahlung_Quast.pdf",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "af2a3749c7b28fa487635038b07f5d2c42e6996b815b0b50340153fb1c83cd0d"
+    },
+    {
+      "file": "09_Abtretungsanzeige.eml",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "474f9583d890dc9e627256d2e44c5064213c47ae576ab9a271f5e15fa64c6f75"
+    },
+    {
+      "file": "10_Bestaetigung_GmbH.docx",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "fdfe133d2220a526464b71ef7874989ea259fafefade0f034c104930e895a425"
+    },
+    {
+      "file": "11_Rueckzahlungsanforderung_Quast.eml",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "9944aee5d028ac780efa2fb30748f9e8a79c511cc62c630862becbcb45edb272"
+    },
+    {
+      "file": "12_Kontoauszug_Rueckzahlung.pdf",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "debbc37946fd15a86cab3982229fb506536cdd1e1a0509239e819c962178215a"
+    },
+    {
+      "file": "13_Abtretungsabgleich.xlsx",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "ca9e8fffb0c0d32df66eb5a2e55e77c62ef7eb6a743af4444a9d34d0073b9ee1"
+    },
+    {
+      "file": "14_Zahlungsabgleich.xlsx",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "ba3725fae881c6bd9c2668af67dae099ef94808bbeca9db3bc1b014eb2b30948"
+    },
+    {
+      "file": "15_Chat_Zech_Quast.txt",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "b30e34ceaae4db3c9189cf9d584b038ba57b03817d449b16bb8ddb8b78760ada"
+    },
+    {
+      "file": "16_Ermittlungsvermerk_Verbindungen.docx",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "6956f752ab20f78e8b956f4e2fb48a2386fd80886f31e484e969d576cafd5dd8"
+    },
+    {
+      "file": "17_Aufforderung_Zweizeiler.docx",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "5d06da6b6b0e24626a477d85c91e9f8157cdf765ec356ac9a0b780ca6f912659"
+    },
+    {
+      "file": "18_Anlage_Zahlungsspiegel.pdf",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "ddc0760ac882e0ff00d12d7761a3b061ff29565a484526a325e9006539fcb36c"
+    },
+    {
+      "file": "19_Zustellung_Aufforderung.eml",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "c5d2620f67735aa7f41d996c544d773a95bf94097411bbac517460b7a0426c94"
+    },
+    {
+      "file": "20_Anwalt_Ablehnung.eml",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "4ad75d24de7c1eb339efafd5f8de9e74111da65b5763ce3a78c1d715e72c41cc"
+    },
+    {
+      "file": "21_Risikomemo_BGH.docx",
+      "pages": 2,
+      "start_page": 21,
+      "sha256": "7c8782c54a80ddfedfbdbc9298a9431da57e713580ac7b99c50a6b3fef320770"
+    },
+    {
+      "file": "22_Klageschrift.docx",
+      "pages": 4,
+      "start_page": 23,
+      "sha256": "0e5410e2d5033b86670ff85205924369fd40f3175c45489cf3f0536688593810"
+    },
+    {
+      "file": "23_Anlagenverzeichnis.docx",
+      "pages": 1,
+      "start_page": 27,
+      "sha256": "d262eddad6dfebbe7cc92a7ec1850f27f89e0aeddea3c646a4c937a11abf91c1"
+    },
+    {
+      "file": "24_Klageerwiderung.docx",
+      "pages": 2,
+      "start_page": 28,
+      "sha256": "6f3ad8dc4602000e60fe1d28547414be72ced3d8ca16dd9a117128a80d63f591"
+    }
+  ]
+}

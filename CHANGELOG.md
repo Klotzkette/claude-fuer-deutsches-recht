@@ -1,3 +1,9 @@
+# insolvenzanfechtung-v1.1.0 – 2026-10-22
+
+Zwei kleine Kölner §-135-Akten ergänzen den Bestand: eine direkte Rückzahlung von 150.000 Euro an einen Gesellschafter mit 25 Prozent Beteiligung und ein bewusst schwieriger Zessionsfall nach einer achtzehn Monate vor dem Antrag vollzogenen Forderungsübertragung. Beide Akten führen Belegkette, Korrespondenz und Tabellen bis zum ausführlichen Klageentwurf; der Zessionsfall enthält zusätzlich Klageerwiderung und Risikomemo.
+
+Der Gesellschafterfinanzierungs-Skill trennt nun ausdrücklich Jahresfrist, objektive Gläubigerbenachteiligung und Krisenwissen. Amtlich geprüfte Anker zu IX ZR 196/13, IX ZR 32/12 und IX ZR 173/23 sichern die zeitliche Grenze der Zession und verhindern eine wirtschaftliche Zurechnung aus bloßen Verdachtsmerkmalen.
+
 # insolvenzsachbearbeitung-v1.1.0 – 2026-10-22
 
 Die Insolvenzsachbearbeitung führt den Aktenlauf jetzt in sechs Gesprächsphasen mit stabilem Statusblock, vier Freigabestufen, zehn Produktkennungen und ausdrücklichen Fehlerrouten. Werkstatt, Schnellstart, Hauptproblem und Hauptskill schreiben Nachreichungen als Delta in der führenden Fassung fort und benennen für jede Übergabe Produkt, Bearbeitungsstand und nächsten Schritt.

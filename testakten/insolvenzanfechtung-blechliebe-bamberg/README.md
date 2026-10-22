@@ -25,8 +25,8 @@ Alle Personen, Unternehmen, Geschäftsadressen, Aktenzeichen und Kontakte sind e
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/insolvenzanfechtung-blechliebe-bamberg_gesamt.pdf) |
-| Einzel-PDF-ZIP | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip) |
-| Akten-ZIP | [Word, Excel, PDF, EML und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/testakte-insolvenzanfechtung-blechliebe-bamberg.zip) |
+| Einzel-PDF-ZIP | [Einzelne Dokumente](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-insolvenzanfechtung-blechliebe-bamberg-einzelpdfs.zip) |
+| Akten-ZIP | [Word, Excel, PDF, EML und TXT](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/testakte-insolvenzanfechtung-blechliebe-bamberg.zip) |
 
 Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem zweisprachigen Hinweis. Das Original-ZIP enthält keine Markdown-Dateien und kein Gesamt-PDF. Die PDF-Lesefassungen geben jede Originaldatei einmal wieder; eingebettete E-Mail-Anlagen werden dabei nicht doppelt gezählt.
 
@@ -61,4 +61,4 @@ Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem
 | `23_Chat_Vertrieb.txt` | Ausschnitt aus dem internen Verkaufschat | 1 |
 | `24_Telefonnotiz_Grell.txt` | Telefonat mit Kunibert Grell | 1 |
 
-Komponentenrelease `insolvenzanfechtung-v1.0.0`.
+Komponentenrelease `insolvenzanfechtung-v1.1.0`.

@@ -28,7 +28,7 @@ Vorsatz: § 133 InsO nach Handlungstyp, Schuldnerwissen, Empfängerwissen und Ge
 
 Unentgeltlichkeit: § 134 InsO anhand echter Leistungsbeziehungen prüfen. Bei Drittzahlung eigene Leistungspflicht und Wert der aufgegebenen Forderung gegen den Vertragsschuldner klären. Familiennähe allein genügt nicht. Gläubigerwechsel nicht mit fremder Schuld gleichsetzen.
 
-Gesellschafter: § 135 InsO mit einschlägigen Ausnahmen prüfen. Darlehen, Regress, stehen gelassene Forderung, Sicherung und Befriedigung trennen. Beteiligung und Geschäftsführung im maßgeblichen Zeitpunkt ermitteln. Bei Bankzahlung prüfen, ob Gesellschaftersicherheit frei wurde; Gegner und Rechtsfolge nicht aus dem Zahlungsweg allein ableiten.
+Gesellschafter: § 135 InsO mit Ausnahmen prüfen. Darlehen, Regress, Sicherheit und Befriedigung trennen. Beteiligung und Geschäftsführung zeitbezogen ermitteln. Bei Rückzahlung im Jahreszeitraum Krise und Kenntnis nicht als Zusatzmerkmal verlangen; § 129 bleibt zu prüfen. Bei Bankzahlung Gesellschaftersicherheit prüfen. Bei Abtretung Wirksamkeit, Kaufpreis, Zurechnung und Jahresgrenze bestimmen; den Erwerber nicht aus dem Forderungsursprung allein erfassen.
 
 Sicherheiten und Aufrechnung: Entstehung, Wirksamkeit, Wert, Erwerb und Verwertung trennen. Kontokorrent anhand Bewegungen und Verfügungsmöglichkeit untersuchen. Buchung ersetzt keine wirksame Aufrechnung. Neuer Aktivzufluss und Verrechnung alter Forderungen sind nicht gleich.
 

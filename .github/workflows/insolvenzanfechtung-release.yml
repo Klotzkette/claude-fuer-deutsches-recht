@@ -1,12 +1,18 @@
-name: Insolvenzanfechtung und drei Verfahrensakten
+name: Insolvenzanfechtung und fünf Verfahrensakten
 
 on:
   pull_request:
     paths:
+      - 'README.md'
+      - 'testakten/README.md'
+      - 'ASSET_INDEX.md'
+      - 'references/rechtsgebiete-uebersicht.md'
       - 'insolvenzanfechtung/**'
       - 'fachanwalt-insolvenz-sanierungsrecht/**'
       - 'testakten/insolvenzanfechtung-blechliebe-bamberg/**'
       - 'testakten/insolvenzanfechtung-faltenwurf-fuerth/**'
+      - 'testakten/insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln/**'
+      - 'testakten/insolvenzanfechtung-veedelwende-zession-koeln/**'
       - 'testakten/fintech-darlehen-vertragsuebernahme-bremen/**'
       - 'scripts/*insolvenzanfechtung*'
       - 'scripts/*fintech-bremen*'
@@ -18,9 +24,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag insolvenzanfechtung-v1.0.0
+        description: Komponententag insolvenzanfechtung-v1.1.0
         required: true
-        default: insolvenzanfechtung-v1.0.0
+        default: insolvenzanfechtung-v1.1.0
       publish:
         description: Geprüfte Pakete zusätzlich veröffentlichen
         type: boolean
@@ -38,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      TAG: ${{ inputs.tag || 'insolvenzanfechtung-v1.0.0' }}
+      TAG: ${{ inputs.tag || 'insolvenzanfechtung-v1.1.0' }}
       GH_REPO: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v5
@@ -55,10 +61,12 @@ jobs:
           sudo apt-get install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
       - name: Komponente und Quellen prüfen
         run: |
-          test "$TAG" = 'insolvenzanfechtung-v1.0.0'
+          test "$TAG" = 'insolvenzanfechtung-v1.1.0'
           test -s "docs/releases/$TAG.md"
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-testakten-readme-downloads.py
+          python3 scripts/validate-root-readme-overview.py
           python3 scripts/test-insolvenzanfechtung.py
           python3 scripts/test-fintech-bremen-anfechtung-ergaenzung.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
@@ -132,7 +140,7 @@ jobs:
                       break
           if ref is None or ref['object']['sha'] != sha:
               raise RuntimeError('Tag fehlt oder zeigt auf einen anderen Commit; keine Verschiebung.')
-          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzanfechtung 1.0.0',
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title', 'Insolvenzanfechtung 1.1.0',
              '--notes-file', f'docs/releases/{tag}.md', '--latest=false')
           release = None
           for delay in (0, 2, 4, 8, 16):
@@ -145,8 +153,8 @@ jobs:
           if release is None or not release['isDraft'] or release['tagName'] != tag:
               raise RuntimeError('Entwurfsrelease nicht bestätigt; Veröffentlichung gestoppt.')
           expected = {path.name for path in dist.iterdir() if path.is_file()}
-          if len(expected) != 30:
-              raise RuntimeError('Dreißig Assets erforderlich.')
+          if len(expected) != 36:
+              raise RuntimeError('Sechsunddreißig Assets erforderlich.')
           gh('release', 'upload', tag, *map(str, sorted(dist.iterdir())))
           with tempfile.TemporaryDirectory(prefix='insolvenzanfechtung-download-') as temporary:
               target = Path(temporary)
@@ -165,5 +173,5 @@ jobs:
               raise RuntimeError('Öffentlicher Releasestatus oder Assetumfang weicht ab.')
           if json.loads(gh('api', f'repos/{repo}/releases/latest'))['tag_name'] != latest_before:
               raise RuntimeError('Das neueste Gesamtrelease wurde unerwartet verändert.')
-          print(f'{tag}: dreißig Assets bytegenau geprüft; Tag {sha}; Komponentenrelease veröffentlicht.')
+          print(f'{tag}: sechsunddreißig Assets bytegenau geprüft; Tag {sha}; Komponentenrelease veröffentlicht.')
           PY

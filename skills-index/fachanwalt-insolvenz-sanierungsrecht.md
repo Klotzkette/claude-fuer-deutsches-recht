@@ -12,7 +12,7 @@
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`fachanwalt-insolvenz-sanierungsrecht-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-schnellstart.md) |
 | **Schwerpunkt-Prompt (Hauptproblem)** | MD | [`fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [fachanwalt-insolvenz-sanierungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.0.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| **Plugin (installierbar)** | ZIP | [fachanwalt-insolvenz-sanierungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzanfechtung-v1.1.0/fachanwalt-insolvenz-sanierungsrecht.zip) |
 
 ## So benutzt man einen Skill
 

@@ -1,0 +1,159 @@
+{
+  "slug": "insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln",
+  "documents": 24,
+  "pages": 27,
+  "formats": {
+    ".docx": 10,
+    ".pdf": 6,
+    ".eml": 5,
+    ".txt": 1,
+    ".xlsx": 2
+  },
+  "font": "Times New Roman",
+  "files": [
+    {
+      "file": "01_Aktenauftrag_Verwalterin.docx",
+      "pages": 1,
+      "start_page": 1,
+      "sha256": "7468566d06a643e89b367e5592584e824e3e9e738a35631f2fa6ad3a88f46dcf"
+    },
+    {
+      "file": "02_Insolvenzantrag_Eingang.pdf",
+      "pages": 1,
+      "start_page": 2,
+      "sha256": "9569b630772a7bd4cbf49b440ed65a7e17d80c039aae3d5c2d8115eb0f3f7385"
+    },
+    {
+      "file": "03_Eroeffnungsbeschluss.pdf",
+      "pages": 1,
+      "start_page": 3,
+      "sha256": "b66fe027200daeb553037814a95e1eb4b6738352deb358582fbb7c8a0e9dd71e"
+    },
+    {
+      "file": "04_Gesellschafterliste.pdf",
+      "pages": 1,
+      "start_page": 4,
+      "sha256": "f2d0d1b3745f42e92fbf9f3d1dc745f5cd1705aa7932b15500bd2604c5ca082c"
+    },
+    {
+      "file": "05_Darlehensvertrag_Haderlein.docx",
+      "pages": 1,
+      "start_page": 5,
+      "sha256": "f5add5aaa9c881c4b9714410c6ae87f25e758c9d3512b90f60d3d520a6d62aa1"
+    },
+    {
+      "file": "06_Auszahlung_Darlehen.pdf",
+      "pages": 1,
+      "start_page": 6,
+      "sha256": "65656bcc0088549dbbde6f4efd636ed3756724782484afeacc9723ee13debb41"
+    },
+    {
+      "file": "07_Gesellschafterbeschluss_Rueckzahlung.docx",
+      "pages": 1,
+      "start_page": 7,
+      "sha256": "dfa9b5b1ab61ee169f2b82e82278bac88516658ffa0fd20f94112ea1563ec6eb"
+    },
+    {
+      "file": "08_Liquiditaetswarnung.eml",
+      "pages": 1,
+      "start_page": 8,
+      "sha256": "e1713e9097533f3899a45910ca97aa2a331ddeb06f3e3a40abf3bc249b042033"
+    },
+    {
+      "file": "09_Chat_Haderlein_Geschaeftsfuehrung.txt",
+      "pages": 1,
+      "start_page": 9,
+      "sha256": "70b4559b0c6ab0ee80c5eb1edc5fc4121504f73b47fed7622ca5b013ff037666"
+    },
+    {
+      "file": "10_Servicevertrag_Entwurf.docx",
+      "pages": 1,
+      "start_page": 10,
+      "sha256": "c801b480047098494472b11223a7772700f8f1daf96848f352e11162bd91ca09"
+    },
+    {
+      "file": "11_Zahlungsanforderung_Haderlein.eml",
+      "pages": 1,
+      "start_page": 11,
+      "sha256": "017f7126602990839c0bc749466c0ba3315232df47951c190986c54db51789e0"
+    },
+    {
+      "file": "12_Zahlungsfreigabe.docx",
+      "pages": 1,
+      "start_page": 12,
+      "sha256": "588ed2c5030c0e986a5906439ac9845c5f3ae3eadd70ce062bd77336882ffc64"
+    },
+    {
+      "file": "13_Kontoauszug_Rueckzahlung.pdf",
+      "pages": 1,
+      "start_page": 13,
+      "sha256": "ae01f62d26adfdbb382a3c4337b6191b23638dcfde939f77085bbb9e87475f7a"
+    },
+    {
+      "file": "14_Darlehensabgleich.xlsx",
+      "pages": 1,
+      "start_page": 14,
+      "sha256": "7ecadfe20678aec0763b16580d13bab2be234819d6d13d4dcdc060b27d69ac01"
+    },
+    {
+      "file": "15_Masseabfluss.xlsx",
+      "pages": 1,
+      "start_page": 15,
+      "sha256": "ac4432aca8d388c2895b856d2071f1f6f76e15213803a4fd66dafe5d1ac37c84"
+    },
+    {
+      "file": "16_Anfechtungspruefung.docx",
+      "pages": 1,
+      "start_page": 16,
+      "sha256": "c8378c9a3ffd49880687a9590223bccb6ecf2c5ffcdbca4a384c25726901ffcb"
+    },
+    {
+      "file": "17_Aufforderung_Zweizeiler.docx",
+      "pages": 1,
+      "start_page": 17,
+      "sha256": "283f705b44c0aa85cdf37e42eccca023b4b73feb88e374804c46436a175fa411"
+    },
+    {
+      "file": "18_Anlage_Zahlungsspiegel.pdf",
+      "pages": 1,
+      "start_page": 18,
+      "sha256": "0899a3ef4a49914285885ea97c8ce2168f5a3463f172d09f8d44b36f07ce7d06"
+    },
+    {
+      "file": "19_Zustellung_Aufforderung.eml",
+      "pages": 1,
+      "start_page": 19,
+      "sha256": "3dc6d491db0b8372227daa6e061ba456c48f35d67e74b6b61bdad407d5856c66"
+    },
+    {
+      "file": "20_Ablehnung_Beklagter.eml",
+      "pages": 1,
+      "start_page": 20,
+      "sha256": "0c8b735d084c9a7e799b83a197cf1f99ab9f7c87372febcf1d73f8dd352a8b3f"
+    },
+    {
+      "file": "21_Klageschrift.docx",
+      "pages": 4,
+      "start_page": 21,
+      "sha256": "63ff5474e65b48b701b14184da5a5c85cd43cc38e062646bd0ad5215f990f565"
+    },
+    {
+      "file": "22_Anlagenverzeichnis.docx",
+      "pages": 1,
+      "start_page": 25,
+      "sha256": "fae6607a80f62018a667b0b1a06ae9434aeacea01b6eade6e882e77a928b0d7a"
+    },
+    {
+      "file": "23_Klageeinreichung.eml",
+      "pages": 1,
+      "start_page": 26,
+      "sha256": "d1f00939fb7b73c0609b5133d63f50316e4030dc473bdb9a237a21c83555da9f"
+    },
+    {
+      "file": "24_Verteidigungsnotiz.docx",
+      "pages": 1,
+      "start_page": 27,
+      "sha256": "b09017a7d4c7f19a06eee9c70fa81fbf2550cef35d48a03be0ff65da0a606be6"
+    }
+  ]
+}

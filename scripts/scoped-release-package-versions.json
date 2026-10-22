@@ -8,9 +8,9 @@
       "evidence": "quality/bauwirtschaft-rundum/pakete.json"
     },
     "fachanwalt-insolvenz-sanierungsrecht.zip": {
-      "tag": "insolvenzanfechtung-v1.0.0",
+      "tag": "insolvenzanfechtung-v1.1.0",
       "version": "445.35.4",
-      "sha256": "c0ca80939a6abe5debf0d96b30b3acfab07f4b62592e3653d972cb5cfe6cfc23",
+      "sha256": "d8d3c810a16eeaa2cc9b0cf074a3044e1c71267bddb6a2c3507a22800323a03e",
       "evidence": "quality/insolvenzanfechtung/release-pakete.json"
     },
     "insolvenzforderungen-checker.zip": {

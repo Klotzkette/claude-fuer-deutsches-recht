@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Zwei Anfechtungsakten; --package-only verpackt die versionierten Originale."""
+"""Vier Anfechtungsakten; --package-only verpackt die versionierten Originale."""
 from __future__ import annotations
 import argparse
 from collections import Counter
@@ -34,16 +34,21 @@ from testakte_office_pdf import render_office_batch
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'scripts/data/insolvenzanfechtung-akten.json'
-TAG = 'insolvenzanfechtung-v1.0.0'
+TAG = 'insolvenzanfechtung-v1.1.0'
 BASE = f'https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{TAG}'
-SLUGS = {'insolvenzanfechtung-blechliebe-bamberg', 'insolvenzanfechtung-faltenwurf-fuerth'}
-STAMP = 'D:20261021080000Z'
+SLUGS = {
+    'insolvenzanfechtung-blechliebe-bamberg',
+    'insolvenzanfechtung-faltenwurf-fuerth',
+    'insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln',
+    'insolvenzanfechtung-veedelwende-zession-koeln',
+}
+STAMP = 'D:20261022080000Z'
 
 def load_basis():
     spec = importlib.util.spec_from_file_location('anfechtung_basis', ROOT / 'scripts/build-untersuchungshaft-akten.py')
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
-    module.STAMP = datetime(2026, 10, 21, 8)
+    module.STAMP = datetime(2026, 10, 22, 8)
     return module
 
 def configure_fonts():
@@ -228,6 +233,12 @@ def package_cases(cases,basis,dist,qa,font_label):
         counts=Counter(p.suffix for p in paths)
         rows='\n'.join(f"| `{d['file']}` | {item['title']} | {d['pages']} |" for item,d in zip(case['files'],docs))
         font_note='Times New Roman, 11 pt.' if font_label=='Times New Roman' else 'PDF-Ersatzschrift: Liberation Serif, 11 pt; Times New Roman war in der Buildumgebung nicht installiert.'
+        usage = case.get(
+            'usage',
+            'Beginnen Sie mit dem Mandatsschreiben. Ordnen Sie anschließend Zahlung, Leistung, Sicherheit und damaliges Wissen anhand der beigefügten Unterlagen. Sie können eine erste anwaltliche Antwort, eine Belegmatrix und die weitere Sachverhaltsaufklärung erarbeiten. Die Akte enthält keine fertige Lösung und keine vorgegebene gerichtliche Entscheidung über die Rückforderung.',
+        )
+        as_of = case.get('as_of', '21.10.2026')
+        text_label = 'Textdatei' if counts['.txt'] == 1 else 'Textdateien'
         readme=f"""# 1. {case['title']}
 
 {case['summary']}
@@ -236,9 +247,9 @@ def package_cases(cases,basis,dist,qa,font_label):
 
 ## 1.1. Benutzung
 
-Beginnen Sie mit dem Mandatsschreiben. Ordnen Sie anschließend Zahlung, Leistung, Sicherheit und damaliges Wissen anhand der beigefügten Unterlagen. Sie können eine erste anwaltliche Antwort, eine Belegmatrix und die weitere Sachverhaltsaufklärung erarbeiten. Die Akte enthält keine fertige Lösung und keine vorgegebene gerichtliche Entscheidung über die Rückforderung.
+{usage}
 
-Der Bestand umfasst 24 Originalunterlagen und {len(writer.pages)} PDF-Seiten: {counts['.docx']} Word-Dateien, {counts['.pdf']} PDF-Belege, {counts['.eml']} E-Mails, {counts['.xlsx']} Excel-Arbeitsmappen und {counts['.txt']} Textdateien. E-Mail-Anlagen enthalten die tatsächlichen Dateien. Die Excel-Arbeitsmappen erläutern Eingaben, Formeln und Reichweite der Zahlen. Aktenstand 21.10.2026. {font_note}
+Der Bestand umfasst 24 Originalunterlagen und {len(writer.pages)} PDF-Seiten: {counts['.docx']} Word-Dateien, {counts['.pdf']} PDF-Belege, {counts['.eml']} E-Mails, {counts['.xlsx']} Excel-Arbeitsmappen und {counts['.txt']} {text_label}. E-Mail-Anlagen enthalten die tatsächlichen Dateien. Die Excel-Arbeitsmappen erläutern Eingaben, Formeln und Reichweite der Zahlen. Aktenstand {as_of}. {font_note}
 
 <!-- reserved-example-contacts -->
 

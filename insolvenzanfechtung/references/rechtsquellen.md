@@ -1,6 +1,6 @@
 # Rechtsquellen zur Insolvenzanfechtung
 
-Prüfstand: 21.10.2026. Die hier bezeichneten deutschen Normseiten wurden im amtlichen Volltext gelesen; die genannten Randnummern der Gerichtsentscheidungen wurden im amtlichen Original geöffnet und geprüft. Diese Referenz erläutert die Arbeitsregeln und ihre Grenzen. Sie behauptet weder eine vollständige Erfassung aller Rechtsprechung noch unveränderten Rechtsstand für spätere Mandate. Vor realer Verwendung ist die einschlägige Fassung erneut zu kontrollieren.
+Prüfstand: 22.10.2026. Die hier bezeichneten deutschen Normseiten wurden im amtlichen Volltext gelesen; die genannten Randnummern der Gerichtsentscheidungen wurden im amtlichen Original geöffnet und geprüft. Diese Referenz erläutert die Arbeitsregeln und ihre Grenzen. Sie behauptet weder eine vollständige Erfassung aller Rechtsprechung noch unveränderten Rechtsstand für spätere Mandate. Vor realer Verwendung ist die einschlägige Fassung erneut zu kontrollieren.
 
 Die konsolidierte EuInsVO-Fassung von 2025 konnte technisch nicht vollständig gelesen werden; für die bezeichneten Artikel wurde das amtliche deutsche Amtsblatt-PDF von 2015 geprüft. Konkretes österreichisches Recht ist nicht verifiziert. Eine grenzüberschreitende Endaussage bleibt insoweit offen und darf nicht durch Vermutungen ersetzt werden.
 
@@ -37,7 +37,7 @@ Die folgenden URLs wurden am Prüftag vollständig gelesen. Fristen sind Anfecht
 | §§ 288, 291 BGB | Fünf Prozentpunkte über Basiszins nach § 288 Abs. 1; die Neun-Punkte-Regel verlangt eine Entgeltforderung und darf nicht bloß wegen zweier Unternehmen auf Rückgewähr übertragen werden. Rechtshängigkeit und Verzug belegen. | [§ 288](https://www.gesetze-im-internet.de/bgb/__288.html), [§ 291](https://www.gesetze-im-internet.de/bgb/__291.html) |
 | §§ 138, 286 ZPO | Wahrheitspflicht, Erklärung zu Gegnervortrag, begrenztes Nichtwissen und Gesamtwürdigung. Eine Indizienliste ersetzt weder substantiierten Tatsachenvortrag noch Beweiswürdigung. | [§ 138](https://www.gesetze-im-internet.de/zpo/__138.html), [§ 286](https://www.gesetze-im-internet.de/zpo/__286.html) |
 
-## 2. Elf tragende Entscheidungsanker
+## 2. Vierzehn tragende Entscheidungsanker
 
 ### 2.1. Kongruente Deckung und Neuausrichtung der Vorsatzprüfung
 
@@ -139,7 +139,37 @@ Trägt: Verpflichtungsgeschäft und einzelne Erfüllungshandlungen getrennt prü
 
 Trägt nicht: Interne Nachrichten sind generell unbeachtlich; alle Sale-and-lease-back-Geschäfte sind anfechtbar; Gesellschafterstellung allein ersetzt Kenntnis- oder Vorsatzbeweis. Eine Nachricht an einen Gesellschafter kann anders zu würdigen sein, wenn dieser tatsächlich als Gläubiger auftritt.
 
-### 2.11. Österreichisches Recht und insolvenzrechtlicher Rang
+### 2.11. Rückzahlung eines Gesellschafterdarlehens innerhalb der Jahresfrist
+
+BGH, Beschluss vom 30. April 2015 – IX ZR 196/13, Rn. 3 und 5 bis 9. Diese Randnummern wurden im amtlichen Volltext gelesen.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2013/IX_ZR_196-13.pdf?__blob=publicationFile&v=1)
+
+Trägt: § 135 Abs. 1 Nr. 2 InsO knüpft an die Befriedigung innerhalb des typisierten Jahreszeitraums an. Weder eine Gesellschaftskrise noch ein Insolvenzgrund im Zahlungszeitpunkt noch die Kenntnis des Empfängers davon sind zusätzliche Voraussetzungen. Der Anfechtungsgegner kann sich deshalb nicht allein mit einer damals positiven Unternehmensplanung oder fehlendem Krisenwissen entlasten.
+
+Trägt nicht: § 129 Abs. 1 InsO sei entbehrlich; jeder Abfluss an eine beteiligte Person sei ohne Prüfung des Finanzierungsgrundes anfechtbar. Rechtshandlung, Empfänger, Darlehens- oder Gleichstellungstatbestand, Frist und objektive Gläubigerbenachteiligung bleiben festzustellen.
+
+### 2.12. Abtretung der Gesellschafterdarlehensforderung innerhalb oder außerhalb der Jahresfrist
+
+BGH, Urteil vom 21. Februar 2013 – IX ZR 32/12, Rn. 23 bis 32. Diese Randnummern wurden im amtlichen Volltext gelesen.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2012/IX_ZR__32-12.pdf?__blob=publicationFile&v=1)
+
+Trägt: Eine Abtretung an einen Nichtgesellschafter darf den gesetzlichen Nachrang und die Anfechtung nicht dadurch umgehen, dass sie innerhalb des letzten Jahres vor dem Eröffnungsantrag erfolgt. Liegen Abtretung und Befriedigung in diesem Zeitraum, bleibt die Forderung beim Zessionar anfechtungsrechtlich belastet; Zedent und Zessionar können nach der konkret entschiedenen Gestaltung als Gesamtschuldner haften. Die zeitliche Begrenzung schützt zugleich davor, einen außenstehenden Erwerber unbegrenzt mit der früheren Gesellschafterstellung des Zedenten zu belasten.
+
+Trägt nicht: Es gibt keine zeitlich unbegrenzte Fortwirkung der Gesellschafterdarlehensqualifikation beim Zessionar. Rn. 28 bis 32 dürfen nicht losgelöst von der in Rn. 25 bis 27 begründeten Jahresgrenze zitiert werden. Bei einer echten, bereits achtzehn Monate vor dem Antrag wirksamen Abtretung trägt die Entscheidung eine Klage gegen den außenstehenden Zessionar gerade nicht allein wegen der Herkunft der Forderung.
+
+### 2.13. Wirtschaftliche Zurechnung bei getrennten Rollen
+
+BGH, Urteil vom 19. September 2024 – IX ZR 173/23, Rn. 19, 26 bis 30 und 39 bis 41. Diese Randnummern wurden im amtlichen Volltext gelesen.
+
+[Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1)
+
+Trägt: Fehlt beim Anspruchsgegner die Vereinigung von Gesellschafter- und Darlehensgeberstellung, scheidet § 135 InsO grundsätzlich aus. Eine wirtschaftliche Zurechnung kann bei besonderen, konkret festgestellten Umständen in Betracht kommen, etwa bei Treuhand, Strohmannstellung oder einer Gestaltung, mit der der Gesellschafter eigene wirtschaftliche Interessen durchsetzt. Die Tatsachen müssen die Zurechnung tragen; das Etikett „Umgehung“ ersetzt sie nicht.
+
+Trägt nicht: Persönliche Bekanntschaft, beobachtende Teilnahme an Gesprächen, ein halber Forderungskaufpreis oder eine abstrakte Einflussmöglichkeit genügten ohne weitere Umstände. Die Entscheidung schafft auch keine zusätzliche Beteiligungsschwelle und hebt die besondere Jahresfrist der Abtretungsentscheidung IX ZR 32/12 nicht auf.
+
+### 2.14. Österreichisches Recht und insolvenzrechtlicher Rang
 
 EuGH, Urteil vom 19. März 2026 – C-43/25, SML Maschinen, ECLI:EU:C:2026:220, Rn. 27 bis 38. Gelesen: vollständiger deutscher Volltext einschließlich Tenor.
 

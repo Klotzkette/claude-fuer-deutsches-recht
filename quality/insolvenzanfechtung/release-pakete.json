@@ -1,12 +1,12 @@
 {
   "version": "445.35.4",
-  "release": "insolvenzanfechtung-v1.0.0",
+  "release": "insolvenzanfechtung-v1.1.0",
   "plugins": [
     {
       "name": "fachanwalt-insolvenz-sanierungsrecht"
     }
   ],
   "assets": {
-    "fachanwalt-insolvenz-sanierungsrecht.zip": "c0ca80939a6abe5debf0d96b30b3acfab07f4b62592e3653d972cb5cfe6cfc23"
+    "fachanwalt-insolvenz-sanierungsrecht.zip": "d8d3c810a16eeaa2cc9b0cf074a3044e1c71267bddb6a2c3507a22800323a03e"
   }
 }
