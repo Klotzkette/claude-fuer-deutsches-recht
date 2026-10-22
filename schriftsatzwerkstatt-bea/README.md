@@ -1,5 +1,13 @@
 # Schriftsatzwerkstatt beA
 
+<!-- BEGIN direkt-loslegen (autogen) -->
+## App verwenden
+
+Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation allein startet keinen Server und garantiert keine eingebettete Browseransicht.
+
+[Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/schriftsatzwerkstatt-bea.zip) · [Plugin-Dateien](.)
+<!-- END direkt-loslegen (autogen) -->
+
 Eigenständiges Cowork-Plugin für die letzte technische Strecke vor einer gerichtlichen Einreichung. Der rechtliche Inhalt ist bereits fertig und freigegeben; die Werkstatt inventarisiert den Ordner, sperrt die richtige Schriftsatzversion, ordnet Anlagen, erzeugt einzelne PDFs, prüft jede Seite, bildet kurze ASCII-Dateinamen und bereitet Signatur, Versandauftrag und Eingangsnachlauf vor.
 
 Das Plugin bewertet weder Anspruch noch Antrag, Fristberechnung, Beweiswürdigung oder Prozessstrategie. Sobald eine inhaltliche Änderung nötig wird, stoppt es und gibt die Datei an die fachlich verantwortliche Person zurück.

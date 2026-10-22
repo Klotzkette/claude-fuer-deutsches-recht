@@ -1,0 +1,41 @@
+---
+name: massenentlassung-betriebsuebergang
+description: Prüft kollektiven Personalabbau, Konsultation und Massenentlassungsanzeige sowie Kündigungen im Zusammenhang mit einem Betriebsübergang. Verwenden bei Serienkündigungen, Stilllegung, Erwerberkonzept, Insolvenz oder streitigen Anzeige- und Übergangsfolgen.
+---
+
+# 1 Personalabbau und Betriebsübergang auseinanderhalten
+
+## 1.1 Zweck
+
+Paragrafen 17 und 18 KSchG und die Richtlinie 98/59/EG regeln kollektive Entlassungen; Paragraf 613a BGB betrifft den Betriebsübergang. BAG, Urteil vom 01.04.2026, Az. 6 AZR 157/22, erklärt eine anzeigepflichtige Kündigung ohne vorherige Anzeige für unwirksam. BAG, Urteil vom 01.04.2026, Az. 6 AZR 152/22, betrifft die verfrühte Anzeige vor Konsultationsabschluss. Demgegenüber unterscheidet BAG, Urteil vom 25.06.2026, Az. 6 AZR 7/26, nach dem Behördenzweck unschädliche Anzeigefehler. Bearbeite den konkreten Fehler, nicht eine überholte pauschale Sanktionsformel.
+
+## 1.2 Eingaben
+
+Lies Kündigung, Abbauplan, verfügbare Belegschafts- und Entlassungsdaten, Konsultationsunterrichtung, Stellungnahmen, Anzeige und Eingangsbelege zuerst. Beim Übergang zusätzlich Unterrichtung, Erwerberinformationen, Betriebsorganisation und tatsächliche Fortführung prüfen. Nicht vorhandene Behördenakten oder Kaufverträge nicht voraussetzen. Frage nur nach entscheidenden Daten, etwa regelmäßigem Personalbestand, Kündigungen im relevanten Zeitraum, Konsultationsabschluss oder Eingang der Anzeige. Trenne belegte Ereignisse von einer bloß behaupteten „Freigabe durch die Arbeitsagentur“.
+
+## 1.3 Ablauf
+
+1. Bestimme zunächst, ob kollektiver Personalabbau, Übergang oder beides vorliegt. Die Voraussetzungen des allgemeinen Kündigungsschutzes, der Massenentlassung und des Paragrafen 613a BGB sind nicht identisch. Eine individuelle Kündigungsschutzklage ist auch dann fristgebunden, wenn eine kollektive Beteiligung fehlt. Sichere jede eigene Kündigung und deren Antrag gesondert.
+2. Ermittle den maßgeblichen Betrieb und die regelmäßig Beschäftigten nach dem einschlägigen gesetzlichen und unionsrechtlichen Betriebsbegriff. Verwende nicht ungeprüft die Zählweise des Paragrafen 23 KSchG. Prüfe Paragraf 17 Absatz 1 KSchG: bei regelmäßig mehr als zwanzig und weniger als sechzig Beschäftigten mehr als fünf Entlassungen, bei sechzig bis weniger als fünfhundert mindestens zehn Prozent oder mehr als fünfundzwanzig, ab fünfhundert mindestens dreißig innerhalb von dreißig Kalendertagen. Bezugszeitraum und einbezogene arbeitgeberveranlasste Beendigungen konkret begründen, nicht nur Endtermine addieren.
+3. Erstelle eine belegte Ereignisfolge aus Abbauentscheidung, Unterrichtung, Beratung, Abschluss der Konsultation, Eingang der Anzeige, Ausspruch und Zugang jeder relevanten Kündigung. Trenne das Konsultationsverfahren nach Paragraf 17 Absatz 2 KSchG von der Betriebsratsanhörung nach Paragraf 102 BetrVG, Interessenausgleich und Sozialplan. Ein gemeinsames Schriftstück kann mehrere Zwecke haben, erfüllt sie aber nicht schon durch seine Überschrift.
+4. Prüfe Inhalt und Ernsthaftigkeit der Konsultation: Gründe, Zahl und Berufsgruppen, regelmäßige Beschäftigung, Zeitraum, Auswahlkriterien und vorgesehene Abfindungsberechnung sowie Beratung über Vermeidung, Beschränkung und Folgen. Ordne bekannte Vorkenntnisse und ergänzte Informationen zeitlich ein. Ein Abschlussvermerk beweist nicht ohne weiteres ordnungsgemäße Unterrichtung; umgekehrt nicht jeden erkennbaren Schreibfehler losgelöst vom gesamten Informationsstand bewerten.
+5. Prüfe zuständige Agentur für Arbeit, Eingang, Inhalt und beigefügte Stellungnahme beziehungsweise gesetzlich zulässige Ersatzdarlegung. Empfangsbestätigung, Vollständigkeit und rechtliche Wirksamkeit sind unterschiedliche Aussagen. Für die Folgen unterscheiden: Keine vorherige erforderliche Anzeige nach 6 AZR 157/22 führt zur Unwirksamkeit. Anzeige vor Abschluss der erforderlichen Konsultation nach 6 AZR 152/22 führt ebenfalls zur Unwirksamkeit. Bei einer vorhandenen Anzeige mit bestimmtem Inhaltsfehler nach 6 AZR 7/26 untersuchen, ob er die Arbeitsverwaltung an ihrer gesetzlichen Aufgabe hindert. Die dritte Fallgruppe heilt weder das völlige Fehlen noch die verfrühte Anzeige der ersten beiden Fallgruppen.
+6. Ordne zusätzlich Sperrfrist und behördliche Entscheidungen nach Paragraf 18 KSchG ein; Anzeigezeitpunkt, Kündigungsfrist und Entlassungssperre nicht gleichsetzen. Erkläre konkret, welcher Verfahrensmangel die eigene Kündigung betrifft und welcher belegte Einwand der Gegenseite dagegensteht. Keine automatische Heilung allein aus behördlichem Schweigen, einem Formularhaken oder dem späteren Nachreichen von Daten behaupten.
+7. Beim möglichen Betriebsübergang prüfe die Wahrung der Identität einer wirtschaftlichen Einheit: Organisation, Betriebsmittel, Personal, Tätigkeit, Kundenbezug und tatsächliche Fortführung je nach Betriebsart. Ein Anteilskauf bedeutet nicht schon einen Arbeitgeberwechsel. Trenne Übergang, echte Stilllegung und bloße Auftragsnachfolge. Zeige, wer wann Arbeitgeber wurde und woran die behauptete Fortführung erkennbar ist; keinen Übergang allein aus gleichem Arbeitsort oder ähnlichem Namen ableiten.
+8. Prüfe Paragraf 613a Absatz 4 BGB: Kündigung gerade wegen des Übergangs oder aus einem eigenständigen tragfähigen Grund? Zeitpunkt allein entscheidet nicht. Bei Erwerberkonzept dessen tatsächliche Konturen und Umsetzung, beim behaupteten Stellenwegfall die verbleibende Arbeit untersuchen. Unterrichtung und Widerspruch nach Paragraf 613a Absätze 5 und 6 BGB gesondert prüfen: Monatsfrist an ordnungsgemäße Unterrichtung knüpfen, Schriftform und Empfänger beachten. Kein Widerspruch ohne Abwägung der Beschäftigungs- und Insolvenzrisiken und ausdrücklichen Handlungsauftrag.
+9. Bei Insolvenz Beteiligte und Verfügungsbefugnis, Eröffnung, Paragrafen 113 und 125 InsO sowie Namensliste prüfen, soweit einschlägig. Insolvenz beseitigt Anzeige- und Konsultationspflichten nicht allgemein. Bei Übergang vor oder nach Eröffnung Haftungsfragen gesondert kennzeichnen; eine Kündigungsprüfung nicht ungefragt in eine vollständige Erwerberhaftungsberatung ausweiten.
+10. Führe die Ergebnisse in eine gezielte Klageergänzung oder Erwiderung zusammen. Antworten und nachgereichte Belege in denselben Entwurf einarbeiten und nur die betroffenen Ereignisse neu bewerten. Bleibt eine Akte unzugänglich, formuliere die belegbaren Rügen fertig und benenne den konkreten Nachweisbedarf, statt die Dokumentenbestellung mit einer Rechercheempfehlung zu beenden.
+
+## 1.4 Quellenpflicht
+
+Lade Normkarte und Abschnitt Massenentlassung aus [Rechtsprechung](../../references/rechtsprechung.md); [Arbeitsweise](../../references/arbeitsweise.md) für Ereignisfolge und Empfängertext. Bei reinem Übergangsauftrag nur die passende Normkarte und tatsächlich benötigte neue Primärquelle verwenden, keine Massenentscheidung als sachfremden Beleg erzwingen. Der Zitierstandard aus ../../references/zitierweise.md verlangt Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlichen Text sowie kontrollierte Randnummern. Ältere Vorlage- und Anfragebeschlüsse nicht als endgültige Sachentscheidung ausgeben. Den Quellenstand und die Grenzen einer nicht erneut geöffneten Karte offenhalten.
+
+## 1.5 Ausgabeformat
+
+Erstelle einen vollständig ausformulierten Schriftsatz oder Entscheidungsvermerk mit konkreter Schwelle, Ereignisfolge, Fehlergruppe und individueller Rechtsfolge. Die Ausformulierungspflicht verbietet reine Ablaufdiagramme, Halbsätze und Rügenlisten als Endprodukt. Berechnung und offene Unterlagen in einer getrennten Notiz ergänzen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Textausgabe den Formatstandard getrennt als Exporthinweis nennen. Keine Anzeige, Stellungnahme, Anlage oder Zustellung erfinden. Kein Widerspruch, Auskunftsersuchen oder Schriftsatzversand ohne ausdrücklichen Auftrag.
+
+## 1.6 Beispiel
+
+Nutzerauftrag: „Bei uns wurden zwanzig Stellen gestrichen. Die Anzeige hat eine falsche Zahl. Bitte begründen Sie die Klage.“
+
+Knappe Reaktion: „Ich prüfe zuerst Betrieb, Schwelle und die belegte Reihenfolge. Den Zahlenfehler bewerte ich nach seiner Bedeutung für die Arbeitsverwaltung und formuliere die konkrete Rüge, ohne ihn mit einer fehlenden Anzeige gleichzusetzen.“

@@ -9,7 +9,7 @@
 
 Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.
 
-Dieses Plugin gehört zum Marketplace mit 309 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -26,9 +26,9 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-Prompt ist derselbe eigenständig nutzbare Arbeitsablauf als separater Download; MD und TXT enthalten denselben Text. Benötigte Referenzen oder Werkzeuge müssen beim manuellen Einsatz zusätzlich verfügbar sein.
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
 
-The plugin contains exactly one directly installed skill. The separate workshop download provides the same standalone workflow; MD and TXT contain identical text. Required references or tools must also be available when used manually.
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
 Direktnavigation: [Werkstatt verwenden](#werkstatt-verwenden) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/bea-versand.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
@@ -50,7 +50,7 @@ Ohne Installation den vollständigen Werkstatt-Prompt unten als MD oder TXT heru
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`bea-versand-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [`bea-versand-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 309 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 

@@ -1,0 +1,19 @@
+{
+  "name": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+  "version": "1.0.0",
+  "description": "Kuendigungsschutzklagen und Arbeitgeberverteidigung vom Zugang bis zum Vergleich oder Urteil: zehn Fachskills und ein Hauptskill fuer Fristen, Antraege, Kuendigungsgruende, Beweise, Weiterbeschaeftigung und Verguetung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Arbeitsrecht Kuendigungsschutzklagewerkstatt",
+    "shortDescription": "Kuendigungsschutzklage",
+    "longDescription": "Zehn Fachskills und ein Hauptskill fuer Arbeitnehmer und Arbeitgeber: von Zugang, Frist und Schutzbereich ueber die konkreten Kuendigungsgruende bis zum Schriftsatz, Vergleich und den Folgeanspruechen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Lies Kuendigung, zugreifbare Unterlagen, Auftrag und Verfahrensstand. Sichere zuerst die frueheste Klagefrist und jede weitere Kuendigung. Klaere nur die entscheidenden Luecken und fuehre den Auftrag bis zur ausformulierten Klage, Erwiderung, Replik oder Vergleichsfassung fort. Versende und reiche ohne ausdruecklichen Auftrag nichts ein."
+  }
+}

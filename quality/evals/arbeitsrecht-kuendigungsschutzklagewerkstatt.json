@@ -1,0 +1,700 @@
+{
+  "schema_version": 1,
+  "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
+  "reviewed_on": "2026-10-22",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html",
+      "checked_on": "2026-10-22",
+      "supports": "Klage- und Änderungsfristen, Schutzbereich, Sozialauswahl, Anzeige und Folgeansprüche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/BJNR012670953.html",
+      "checked_on": "2026-10-22",
+      "supports": "Arbeitsgerichtliche Verfahrensbesonderheiten, Kosten, elektronische Einreichung, Einspruch und Berufung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbgg/__46h.html",
+      "checked_on": "2026-10-22",
+      "supports": "Klar erkennbare Erklaerung, elektronische Einreichung und Zustellung oder Mitteilung als Voraussetzungen der Formfiktion."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/",
+      "checked_on": "2026-10-22",
+      "supports": "Konkrete Schutzmitteilung von Vorfeldinitiatoren neben der Klagesicherung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-89-25/",
+      "checked_on": "2026-10-22",
+      "supports": "Organstellung bei Kündigungszugang und Vertragsstatus getrennt feststellen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+      "checked_on": "2026-10-22",
+      "supports": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung."
+    }
+  ],
+  "selection": {
+    "target_skill": "kuendigungsschutzmandat-steuern",
+    "positive": [
+      "Wir vertreten einen gekündigten Arbeitnehmer. Bitte lesen Sie Kündigung und Vertrag und führen Sie uns bis zur fristwahrenden Klage.",
+      "Wir benötigen die Arbeitgebererwiderung auf eine Kündigungsschutzklage mit Sozialauswahl und einen konkreten Vergleichsentwurf."
+    ],
+    "negative": [
+      "Bitte entwerfen Sie ausschließlich einen Kaufvertrag über ein Grundstück ohne Arbeitsbezug.",
+      "Bitte erläutern Sie nur die historische Quellenlage zum römischen Besitzschutz."
+    ]
+  },
+  "cases": [
+    {
+      "id": "vom-ordner-zur-klage",
+      "target_skill": "kuendigungsschutzmandat-steuern",
+      "request": "Im bereitgestellten Ordner liegen Kündigung, Arbeitsvertrag und mehrere Nachrichten. Wir vertreten den Arbeitnehmer und benötigen die Klage, nicht eine Zusammenfassung der Unterlagen. Während der Bearbeitung reicht der Mandant eine zweite Kündigung nach. Führen Sie denselben Auftrag mit gezielten Rückfragen bis zu einer konsolidierten Fassung.",
+      "input_files": [],
+      "deliverables": [
+        "hauptauftrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Auftrag und vorhandene Unterlagen zuerst lesen, keine wiederholte vollständige Aktenaufnahme und kein vorgelagerter Datenvortrag.",
+          "deliverables": [
+            "hauptauftrag.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Jede Kündigung mit eigener Frist und richtigem Antrag erfassen; nur erforderliche Fachwege verwenden.",
+          "deliverables": [
+            "hauptauftrag.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Nach Antwort dieselbe Fassung fortsetzen, Empfängertext und interne Fragen trennen; keine Einreichung oder Einigung ohne externen Auftrag.",
+          "deliverables": [
+            "hauptauftrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frist-trotz-offener-aktenlage",
+      "target_skill": "frist-zugang-klageantrag",
+      "request": "Wir vertreten einen Arbeitnehmer. Die Kündigung vom 12.10.2026 soll am selben Tag per Boten eingeworfen worden sein, laut Mandant wurde sie erst am 14.10. gefunden. Heute ist der 22.10. Der Arbeitsvertrag und die Kündigung liegen vor, die vollständige Personalakte fehlt. Entwerfen Sie die fristwahrende Klage und erläutern Sie die nötigen Ergänzungen.",
+      "input_files": [],
+      "deliverables": [
+        "klage.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Frühesten plausiblen Zugang am 12.10. mit Fristende 02.11.2026 berücksichtigen, ohne tatsächlichen Zugang als bewiesen auszugeben.",
+          "deliverables": [
+            "klage.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Klage konkret auf diese Kündigung und richtige Parteien richten; nicht auf die gesamte Personalakte warten.",
+          "deliverables": [
+            "klage.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Erforderliche Ergänzungen vom fertigen Empfängertext trennen; Entwurf nicht als eingereicht bezeichnen.",
+          "deliverables": [
+            "klage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rechtstraeger-statt-konzernlogo",
+      "target_skill": "arbeitgeber-schutzbereich-form",
+      "request": "Die Kündigung zeigt das Logo der Muttergesellschaft, unterschrieben hat ein Personalreferent. Arbeitgeber laut Vertrag und Abrechnungen ist die Tochter-GmbH. Der Betrieb beschäftigt neun Vollzeitkräfte, zwei Auszubildende und sechs Teilzeitkräfte mit unterschiedlichen Wochenstunden. Bereiten Sie Rubrum, Schutzbereichsprüfung und gezielte Vollmachtsnachfrage vor.",
+      "input_files": [],
+      "deliverables": [
+        "rubrum-vermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Vertragspartner und tatsächliche Erklärungszuordnung aus Belegen bestimmen; kein automatischer Wechsel zur Muttergesellschaft.",
+          "deliverables": [
+            "rubrum-vermerk.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Teilzeitgewichtung, Ausbildung und gegebenenfalls Altbestand ermitteln; Kleinbetrieb nicht anhand bloßer Kopfzahl behaupten.",
+          "deliverables": [
+            "rubrum-vermerk.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Paragrafen 174 und 180 BGB sowie Schriftform getrennt prüfen und Unverzüglichkeit nicht in eine erfundene Wochenfrist umrechnen.",
+          "deliverables": [
+            "rubrum-vermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abbau-und-freie-disposition",
+      "target_skill": "betriebsbedingt-sozialauswahl",
+      "request": "Eine Sachbearbeiterstelle entfällt angeblich durch Zentralisierung. Zwei Wochen später soll im selben Unternehmen eine Dispositionsstelle besetzt werden. Ein nach Vertrag versetzbarer Kollege ist kürzer beschäftigt und hat keine Unterhaltspflichten. Erstellen Sie die konkrete Replik zur Klageerwiderung; fehlen genaue Aufgaben der freien Stelle, fragen Sie nur diese entscheidenden Angaben nach.",
+      "input_files": [],
+      "deliverables": [
+        "replik.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Organisationsentscheidung, Arbeitsvolumen und freie Beschäftigung nicht mit einer bloßen schlechten Umsatzentwicklung gleichsetzen.",
+          "deliverables": [
+            "replik.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Vertragliche Austauschbarkeit und Sozialdaten konkret vergleichen; keine automatische Altersrangfolge oder gesetzlich feste Punkteliste.",
+          "deliverables": [
+            "replik.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Replik ausformulieren, Tatsachen mit Belegen und Beweisangeboten verbinden; keine fiktiven Stelleninhalte einsetzen.",
+          "deliverables": [
+            "replik.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bem-nach-erneuten-fehlzeiten",
+      "target_skill": "krankheit-bem-pruefen",
+      "request": "Der Arbeitgeber verweist auf ein im Januar beendetes bEM. Danach erkrankte der Arbeitnehmer bis September erneut an 49 Arbeitstagen. Für eine neue Einladung liegen nur Einlieferungsbeleg und Scan-Reproduktion vor. Die Kündigung beruft sich auf häufige Kurzerkrankungen. Entwerfen Sie eine fallbezogene Stellungnahme und ein kurzes Schreiben zur Beschaffung der entscheidenden Unterlagen.",
+      "input_files": [],
+      "deliverables": [
+        "krankheit.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Prognose, Belastung, mildere Mittel und Interessenabwägung eigenständig prüfen.",
+          "deliverables": [
+            "krankheit.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Erneute bEM-Pflicht und Folgen für die Darlegung anhand 2 AZR 138/21 erfassen; keine automatische formelle Nichtigkeit.",
+          "deliverables": [
+            "krankheit.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Zustellverfahren tatsächlich erheben; 2 AZR 184/25 nicht auf sämtliche heutigen Zustellbelege ohne Prüfung übertragen.",
+          "deliverables": [
+            "krankheit.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verdacht-ist-keine-erwiesene-tat",
+      "target_skill": "verhalten-verdacht-aufklaeren",
+      "request": "Ein Notebook fehlt. Ein gemeinsam genutzter Lagerzugang wurde mit der Kennung des Mandanten geöffnet. Der Mandant wurde zu einem Gespräch ohne konkret bezeichneten Vorwurf gebeten und am nächsten Morgen fristlos, hilfsweise ordentlich gekündigt. Die IT kennt eine weitere nutzungsberechtigte Person. Formulieren Sie eine Replik, die Tat, Verdacht, Anhörung und Frist sauber trennt.",
+      "input_files": [],
+      "deliverables": [
+        "verdacht.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Erwiesene Tat und dringenden Verdacht als unterschiedliche Prüfungen behandeln; ordentlichen Verdacht personenbedingt einordnen.",
+          "deliverables": [
+            "verdacht.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Tragende Indiztatsachen voll beweisen und konkrete Anhörungsmöglichkeit prüfen; Schweigen kein Geständnis.",
+          "deliverables": [
+            "verdacht.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Kenntnis und Ermittlungen nach Paragraf 626 Absatz 2 BGB für außerordentliche Kündigung erheben; ordentliche Frist nicht analog gleichsetzen.",
+          "deliverables": [
+            "verdacht.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schwangerschaftskenntnis-nach-kuendigung",
+      "target_skill": "sonderkuendigungsschutz-beteiligung",
+      "request": "Die Arbeitnehmerin erhält am 28.09.2026 eine Kündigung. Sie erfährt erst am 21.10. ärztlich, dass bereits bei Zugang eine Schwangerschaft bestand. Der Arbeitgeber hatte davon keine Kenntnis. Heute ist der 22.10. Entwerfen Sie Klage und Antrag auf nachträgliche Zulassung, und fragen Sie nach den für Hindernisbehebung und Arbeitgebermitteilung noch fehlenden Angaben.",
+      "input_files": [],
+      "deliverables": [
+        "zulassung.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Keine automatische Verschiebung nach Paragraf 4 Satz 4 KSchG bei fehlender Arbeitgeberkenntnis behaupten.",
+          "deliverables": [
+            "zulassung.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Paragraf 5 KSchG, konkrete Kenntnisdaten und Glaubhaftmachung mit BAG 2 AZR 156/24 sowie Effektivität nach C-284/23 verbinden.",
+          "deliverables": [
+            "zulassung.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Zulassungsantrag mit Klage verbinden, unverzüglich bearbeiten und gesetzliche Zeitgrenzen ausweisen; keine ärztlichen Tatsachen erfinden.",
+          "deliverables": [
+            "zulassung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "massenentlassung-drei-fehlerarten",
+      "target_skill": "massenentlassung-betriebsuebergang",
+      "request": "Bei einem Abbau von 34 Arbeitsplätzen liegen drei unterschiedliche Fassungen der Anzeige vor: eine gar nicht versandte, eine vor Konsultationsabschluss eingereichte und eine nach Abschluss mit falscher Berufsgruppensumme. Erstellen Sie eine datierte Prüfung und einen Schriftsatzentwurf für die tatsächlich verwendete Fassung. Die Zuordnung zu den einzelnen Kündigungen ist zunächst unklar.",
+      "input_files": [],
+      "deliverables": [
+        "anzeige.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Zuerst tatsächliche Fassung und Reihenfolge je Kündigung erheben; aus drei Entwürfen nicht drei tatsächliche Anzeigen machen.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "6 AZR 157/22 und 6 AZR 152/22 von 6 AZR 7/26 unterscheiden; weder jede Unrichtigkeit noch sämtliche Anzeigefehler pauschal behandeln.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Auswirkung des konkreten Fehlers auf Behördenaufgabe prüfen und den Schriftsatz bis zur belegten Rechtsfolge fortführen.",
+          "deliverables": [
+            "anzeige.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsgerichtliche-erwiderung",
+      "target_skill": "klage-erwiderung-beweisfuehrung",
+      "request": "Wir vertreten den Arbeitgeber. Die zugestellte Klage bestreitet Zugang, Aufgabenwegfall und Sozialauswahl; das Arbeitsgericht setzt eine vierwöchige Erwiderungsfrist. Ein Zeuge erinnert nur die Vorbereitung des Umschlags. Entwerfen Sie die Erwiderung und fragen Sie gezielt nach dem tatsächlichen Einwurf, ohne eine zweiwöchige Verteidigungsanzeigefrist zu erfinden.",
+      "input_files": [],
+      "deliverables": [
+        "erwiderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Arbeitsgerichtliche Verfügung und Paragraf 46 Absatz 2 ArbGG beachten; kein automatisches schriftliches Vorverfahren nach Paragraf 277 ZPO.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Wahrnehmungsbereich des Zeugen von der rechtlich zu beweisenden Behauptung trennen; keinen Einwurfzeugen erfinden.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Auf jeden relevanten Klagepunkt mit konkretem Vortrag reagieren; fehlende Tatsachen getrennt benennen und ausformulierten Entwurf liefern.",
+          "deliverables": [
+            "erwiderung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergleich-mit-offenem-bonus",
+      "target_skill": "guetetermin-vergleich-abfindung",
+      "request": "Der Mandant will sich vergleichen. Beide Seiten sprechen über 18000 Euro Abfindung, aber ein vertraglicher Jahresbonus ist noch offen. Urlaub und Zeitguthaben sind unterschiedlich beziffert; das Unternehmen bietet nur eine pauschale Ausgleichsklausel an. Erstellen Sie eine vollständige Vergleichsfassung mit gezielten Fragen zu den noch nicht vereinbarten Punkten.",
+      "input_files": [],
+      "deliverables": [
+        "vergleich.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Verhandlungsbetrag, Paragraf 1a und gerichtliche Auflösung unterscheiden; kein automatischer Anspruch auf Faktor ein halb.",
+          "deliverables": [
+            "vergleich.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Bonus und Urlaubs-/Zeitguthaben vor Ausgleich erfassen; Fälligkeit, Rückgabe, Zeugnis und gegebenenfalls Widerruf konkret formulieren.",
+          "deliverables": [
+            "vergleich.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Paragraf 12a ArbGG und mögliche SGB-III-Folgen erklären, ohne Sperrzeitfreiheit oder Steuerergebnis zu garantieren.",
+          "deliverables": [
+            "vergleich.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lohn-fristen-und-uebergang",
+      "target_skill": "weiterbeschaeftigung-lohn-rechtsmittel",
+      "request": "Der Mandant war bis zum Ablauf der Kündigungsfrist einseitig freigestellt. Anschließend bezog er Arbeitslosengeld und fand nach zwei Monaten eine neue Stelle. Das Arbeitsgericht hat der Kündigungsschutzklage stattgegeben; heute wurde das vollständige Urteil zugestellt. Berechnen Sie den beanspruchbaren Lohn und formulieren Sie die nötigen Folgeanträge mit Rechtsmittelfristnotiz.",
+      "input_files": [],
+      "deliverables": [
+        "folgeansprueche.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "5 AZR 127/24 zeitlich auf Freistellung während Kündigungsfrist begrenzen; spätere Erwerbsobliegenheiten eigenständig prüfen.",
+          "deliverables": [
+            "folgeansprueche.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Bruttovergütung, Zwischenverdienst, Anspruchsübergang und Ausschlussfristen trennen; keine doppelte Forderung öffentlicher Leistungen.",
+          "deliverables": [
+            "folgeansprueche.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Weiterbeschäftigung nicht automatisch aus Klageerhebung ableiten; Rechtsmittelfristen nach Paragraf 66 ArbGG und Vollstreckbarkeit eigenständig bearbeiten.",
+          "deliverables": [
+            "folgeansprueche.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "versaeumnisurteil-eine-woche",
+      "target_skill": "weiterbeschaeftigung-lohn-rechtsmittel",
+      "request": "Ein Arbeitnehmer legt am 22.10.2026 ein ihm am 20.10. zugestelltes arbeitsgerichtliches Versäumnisurteil vor. Er möchte sich dagegen wehren und hat bislang nur einen E-Mail-Entwurf an das Gericht geschrieben. Erstellen Sie den passenden Rechtsbehelf und erläutern Sie den fristwahrenden Einreichungsweg für seine tatsächliche Vertretung.",
+      "input_files": [],
+      "deliverables": [
+        "einspruch.md"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Paragraf 59 ArbGG mit einwöchiger Einspruchsfrist anwenden; keine allgemeine ZPO-Zweiwochenfrist.",
+          "deliverables": [
+            "einspruch.md"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "E-Mail-Entwurf von wirksamer Einreichung unterscheiden; tatsächliche Zustellung und richtige Übermittlung prüfen.",
+          "deliverables": [
+            "einspruch.md"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Ausformulierten Einspruch und konkrete Fortsetzung liefern, nicht bloß allgemein zu Rechtsberatung verweisen.",
+          "deliverables": [
+            "einspruch.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schriftsatzkuendigung-2026",
+      "target_skill": "frist-zugang-klageantrag",
+      "request": "Die Arbeitgeberseite erklaert in einer ordnungsgemaess elektronisch eingereichten Replik vom 06.10.2026 ausdruecklich eine weitere Kuendigung. Der Schriftsatz wird am 08.10. dem Bevollmaechtigten des Arbeitnehmers zugestellt. Heute ist der 22.10. Pruefen Sie die Folgedeutung und bereiten Sie den passenden zusaetzlichen Antrag vor.",
+      "input_files": [],
+      "deliverables": [
+        "folgeklage.md"
+      ],
+      "criteria": [
+        {
+          "id": "fachfrage-1",
+          "text": "Paragraf 46h ArbGG, Erkennbarkeit, Einreichung und wirksame Zustellung oder Mitteilung pruefen; keine allgemeine Unwirksamkeit wegen elektronischer Form behaupten.",
+          "deliverables": [
+            "folgeklage.md"
+          ]
+        },
+        {
+          "id": "fachfrage-2",
+          "text": "Zeitliche Aussagegrenze der Entscheidung 2 AZR 130/25 zur Kuendigung aus 2023 beachten.",
+          "deliverables": [
+            "folgeklage.md"
+          ]
+        },
+        {
+          "id": "fachfrage-3",
+          "text": "Folgekuendigung mit eigener Frist sichern; bei wirksamem Zugang am 08.10. vorsorglich 29.10.2026 beachten und vorhandenen Schriftsatz fortschreiben.",
+          "deliverables": [
+            "folgeklage.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zwischenverdienst-gesamtzeitraum",
+      "target_skill": "weiterbeschaeftigung-lohn-rechtsmittel",
+      "request": "Fuer einen feststehenden dreimonatigen Annahmeverzugszeitraum sind monatlich 3000 Euro brutto geschuldet. Im ersten Monat wurden 5000 Euro brutto anderweitig verdient, danach nichts. Oeffentliche Leistungen, weitere Anrechnungen und Zahlungsansprueche ausserhalb dieses Zeitraums fehlen. Erstellen Sie die begruendete Forderungsberechnung und den bestimmten Zahlungsantrag.",
+      "input_files": [],
+      "deliverables": [
+        "gesamtberechnung.md"
+      ],
+      "criteria": [
+        {
+          "id": "fachfrage-1",
+          "text": "Monatsdaten erfassen und Gesamtsummen 9000 Euro sowie 5000 Euro vergleichen; grundsaetzlich verbleiben 4000 Euro brutto, nicht 6000 Euro durch monatliche Abkappung.",
+          "deliverables": [
+            "gesamtberechnung.md"
+          ]
+        },
+        {
+          "id": "fachfrage-2",
+          "text": "Massgeblichen Zeitraum, Erfuellung und Anrechnung nach 5 AZR 251/11 und 5 AZR 346/21 pruefen; keine fremden Zeitraeume einbeziehen.",
+          "deliverables": [
+            "gesamtberechnung.md"
+          ]
+        },
+        {
+          "id": "fachfrage-3",
+          "text": "Forderung und Fälligkeit trennen, Zinsen konkret pruefen und vollstaendigen Antrag ausformulieren.",
+          "deliverables": [
+            "gesamtberechnung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorfeldschutz-und-offenbarung",
+      "target_skill": "sonderkuendigungsschutz-beteiligung",
+      "request": "Die Kündigung ging am 08.10.2026 zu. Der Arbeitgeber kennt weder die öffentlich beglaubigte Erklärung zur Betriebsratsgründung noch die Vorbereitungshandlungen. Die Klage ist schon eingereicht; sie rügt bisher nur allgemein Paragraf 15 KSchG. Heute ist der 22.10.2026. Was fehlt vor der weiteren Schriftsatzarbeit?",
+      "input_files": [],
+      "deliverables": [
+        "schutzmitteilung.md"
+      ],
+      "criteria": [
+        {
+          "id": "schutzkonkret",
+          "text": "Konkrete Geltendmachung gegenüber dem Arbeitgeber neben der rechtzeitig erhobenen Klage vorbereiten; allgemeine Rüge reicht nicht.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        },
+        {
+          "id": "verwirkung",
+          "text": "BAG 2 AZR 70/25 als Verwirkungsprüfung anwenden, Übermittlungszeit und Umstände beachten, keine starre gesetzliche Ausschlussfrist erfinden.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        },
+        {
+          "id": "fertiger-text",
+          "text": "Arbeitgebermitteilung mit belegten Vorbereitungshandlungen und beglaubigter Erklärung ausformulieren; fehlende Einzelheiten gezielt erfragen und tatsächliche Übermittlung nicht behaupten.",
+          "deliverables": [
+            "schutzmitteilung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter Kündigungsschutzablauf mit konkreten Fristen, Beweisfragen und Verfahrenszweigen.",
+    "changes": [
+      "Jede Kündigung gesondert sichern",
+      "Gezielte Rückfragen mit Entwurfsfortsetzung",
+      "Anzeigeentscheidungen 2026 differenzieren"
+    ],
+    "sha256": "3499b96b578ea8cc7d71b90d45340a5d95020661825565d3103baa9b9ca9cf68"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger ausführlicher Leitfaden mit Verzweigungen für beide Parteien vom Zugang bis zur Umsetzung.",
+    "changes": [
+      "Fristsicherung vor vollständiger Aktenaufnahme",
+      "Kündigungsgründe und Beteiligungen individuell bearbeiten",
+      "Vollständige Schriftsätze, Vergleich und Lohnfolgen"
+    ],
+    "sha256": "f3b93f040d5c6d397909842dbe83339da6a53d2fa8e8524041301566185bf2eb"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-22",
+    "verdict": "revised",
+    "reason": "Hauptskill und eigenständiger Hauptproblem-Prompt führen den konkreten Auftrag bis zum bestellten Dokument.",
+    "changes": [
+      "Nur benötigte Fachskills laden",
+      "Nach Antworten denselben Entwurf bearbeiten",
+      "Folgekündigungen mit neuen Anträgen erfassen"
+    ],
+    "prompt_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md",
+    "skill_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
+    "prompt_sha256": "ccb083a1c3016a1c704304afffd2af195888f3f676b401f3cd4659bb03649a29",
+    "skill_sha256": "470558b7c821af046f88389227f4c28caa58f6593ce559fb56f255a0dad652c2"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-22",
+    "opening_change": "Kündigung, Klagefrist und bestellter Schriftsatz stehen vor technischen Einrichtungsfragen; passende Entscheidungsanker erscheinen im fachlichen Einstieg.",
+    "norms": [
+      "Paragrafen 1, 2, 4 bis 7, 13, 17, 18 und 23 KSchG",
+      "Paragrafen 130, 174, 180, 622, 623 und 626 BGB",
+      "Paragrafen 102 und 103 BetrVG",
+      "Paragrafen 167, 168 ff. und 178 SGB IX",
+      "Paragraf 17 MuSchG und Paragraf 18 BEEG",
+      "Paragrafen 12a, 46, 46c, 46g, 59, 61a, 64 und 66 ArbGG",
+      "Paragraf 46h ArbGG: Formfiktion fuer gerichtliche Schriftsatzerklaerungen"
+    ],
+    "remaining_limits": [
+      "Redaktionelle Prüfung; keine behauptete Live-Ausführung in einer bestimmten Oberfläche",
+      "Konkrete Zustellverfahren und aktuelle Änderungen am Mandatsstichtag erneut prüfen",
+      "Tarifrecht, Personalvertretungsrecht und medizinische Tatsachen fallbezogen ergänzen"
+    ],
+    "files": [
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md",
+      "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 184/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-184-25/",
+        "source_status": "official_full_text",
+        "application": "Konkretes Scan-Verfahren bei bEM-Einladung und Zugangsnachweis prüfen.",
+        "limit": "Keine allgemeine Beweislosigkeit jeder späteren Einschreibenzustellung."
+      },
+      {
+        "citation": "BAG, Urteil vom 01.04.2026, 6 AZR 157/22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-157-22/",
+        "source_status": "official_full_text",
+        "application": "Fehlende erforderliche Anzeige vor Kündigung als Unwirksamkeitsgrund.",
+        "limit": "Keine pauschale Gleichsetzung mit Detailfehler einer vorhandenen Anzeige."
+      },
+      {
+        "citation": "BAG, Urteil vom 01.04.2026, 6 AZR 152/22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/",
+        "source_status": "official_full_text",
+        "application": "Anzeige vor Abschluss erforderlicher Konsultation gesondert prüfen.",
+        "limit": "Nicht jeder inhaltliche Anzeigefehler ist damit gleichzustellen."
+      },
+      {
+        "citation": "BAG, Urteil vom 25.06.2026, 6 AZR 7/26",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/",
+        "source_status": "official_full_text",
+        "application": "Unschädlichkeit nicht aufgabenhindernder Anzeigefehler.",
+        "limit": "Kein Freibrief für fehlende oder verfrühte Anzeige."
+      },
+      {
+        "citation": "BAG, Urteil vom 03.04.2025, 2 AZR 156/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-156-24/",
+        "source_status": "official_full_text",
+        "application": "Kenntnisdaten bei Schwangerschaft und nachträgliche Klagezulassung.",
+        "limit": "Kein automatischer Aufschub nach Paragraf 4 Satz 4 KSchG."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
+        "source_status": "official_full_text",
+        "application": "Einlieferung und Sendungsverlauf ohne ausreichenden Zugangs-Anscheinsbeweis.",
+        "limit": "Andere geeignete Beweise bleiben möglich."
+      },
+      {
+        "citation": "BAG, Urteil vom 31.01.2019, 2 AZR 426/18",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-426-18/",
+        "source_status": "official_full_text",
+        "application": "Ordentliche Verdachtskündigung personenbedingt und Indiztatsachen voll beweisen.",
+        "limit": "Paragraf 626 Absatz 2 BGB nicht direkt auf ordentliche Kündigung übertragen."
+      },
+      {
+        "citation": "BAG, Urteil vom 12.02.2025, 5 AZR 127/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/",
+        "source_status": "official_full_text",
+        "application": "Freistellung während laufender Kündigungsfrist und Erwerbsobliegenheit.",
+        "limit": "Keine allgemeine Befreiung nach Ablauf der Kündigungsfrist."
+      },
+      {
+        "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 130/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/",
+        "source_status": "official_full_text",
+        "application": "Schriftsatzkuendigung und zeitliche Grenze der Formfiktion nach Paragraf 46h ArbGG.",
+        "limit": "Streitige Erklaerung aus 2023; keine allgemeine Unwirksamkeit heutiger elektronischer Schriftsatzkuendigungen."
+      },
+      {
+        "citation": "BAG, Urteil vom 16.05.2012, 5 AZR 251/11",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-251-11/",
+        "source_status": "official_full_text",
+        "application": "Gesamtanrechnung des Zwischenverdienstes im massgeblichen Annahmeverzugszeitraum.",
+        "limit": "Keine isolierte monatliche Abkappung und kein beliebig ausgewaehlter Gesamtzeitraum."
+      },
+      {
+        "citation": "BAG, Urteil vom 19.01.2022, 5 AZR 346/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-346-21/",
+        "source_status": "official_full_text",
+        "application": "Gesamtberechnung auch bei boeswillig unterlassenem Verdienst; oeffentliche Leistungen gesondert.",
+        "limit": "Zumutbarkeit und Boeswilligkeit vorher pruefen, uebergegangene Ansprueche nicht doppelt fordern."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026, 2 AZR 70/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-70-25/",
+        "source_status": "official_full_text",
+        "application": "Konkrete Schutzmitteilung von Vorfeldinitiatoren neben der Klagesicherung.",
+        "limit": "Regelfrist statt starrer Ausschlussfrist; Übermittlungszeit und Umstände beachten."
+      },
+      {
+        "citation": "BAG, Urteil vom 18.06.2026, 2 AZR 89/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-89-25/",
+        "source_status": "official_full_text",
+        "application": "Organstellung bei Kündigungszugang und Vertragsstatus getrennt feststellen.",
+        "limit": "Vorherige Abberufung begründet allein keinen Arbeitnehmerstatus."
+      },
+      {
+        "citation": "BAG, Beschluss vom 30.09.2026, 2 AZN 339/26",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+        "source_status": "official_full_text",
+        "application": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung.",
+        "limit": "Konkrete Nichtzulassungsbeschwerde; kein allgemeines Verbot technischer Hilfen."
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-22",
+    "opening_modes": [
+      "Leerer Einstieg: Rolle und benötigtes Dokument erfragen",
+      "Kündigungsakte und Auftrag vorhanden: sofort gezielt lesen und Entwurf beginnen",
+      "Neue Antwort oder Folgekündigung: denselben Auftrag und die Fristen fortschreiben"
+    ],
+    "continuation": "Fachskills liefern konkrete Dokumentteile zurück; Rückfragen ändern den vorhandenen Entwurf und neue Kündigungen erhalten eigene Anträge.",
+    "enrichment": "Zugang, Schutzbereich, soziale Rechtfertigung, Beteiligung, Anzeige, Beweisführung und finanzielle Folgen werden anhand der konkreten Unterlagen verzweigt.",
+    "limits": "Redaktionelle Prüffälle und technische Archivprüfungen belegen keinen Live-Modelllauf und keine Laufzeitgarantie."
+  }
+}

@@ -1,69 +1,63 @@
 # konkurrenten-rechtsschutz
 
-Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-[Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/konkurrenten-rechtsschutz.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
+Konkurrenten legen Unterlagen, Informationsschreiben oder Portalbelege ab und starten ohne Skillwahl. Das Plugin sichert Rüge- und Zuschlagsfristen, Angriff, Beweiskette, Akteneinsicht, VK, OLG und Kosten.
 
-[Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Downloads](../README.md#sofort-downloads) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Direkt starten
+## Welche Datei wofür? / Which file should I use?
 
-**1. Einmal installieren**
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/konkurrenten-rechtsschutz.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
 
-- **Claude Desktop oder Cowork:** [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
-- **Claude Code:**
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install konkurrenten-rechtsschutz@klotzkette-german-legal-skills
-/reload-plugins
-```
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
 
-**2. Fallunterlagen anhängen**
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-**3. Genau diesen Satz senden**
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/konkurrenten-rechtsschutz.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Installation](../../INSTALLATION_EINFACH.md) · [Testakten](../../testakten/README.md)
 
-> Neuer Konkurrentenfall. Prüfe die beigefügten Unterlagen vollständig, sichere sofort Rüge- und Zuschlagsfristen und erstelle den stärksten fristgerechten Rechtsbehelf.
+## In 30 Sekunden starten
 
-Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das Plugin antwortet sofort in fünf Zeilen mit `Lage | Rot | Angriff | Rechtsweiche | Jetzt`, verarbeitet den Fall danach selbstständig und stellt am Ende höchstens drei echte Blockerfragen. Bereits sichtbare Angaben werden nicht erneut erfragt.
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/konkurrenten-rechtsschutz.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-<details>
-<summary><strong>Weitere Prompt- und Skill-Downloads anzeigen</strong></summary>
+Startsatz für konkurrenten-rechtsschutz:
 
-Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin oder für die gezielte Einzelverwendung. `Ansehen` öffnet die Repo-Datei; `Herunterladen` liefert die aktuelle Release-Datei.
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
-| Ziel | Ansehen | Herunterladen |
-| --- | --- | --- |
-| Werkstatt (Markdown) | [konkurrenten-rechtsschutz-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md" download="konkurrenten-rechtsschutz-werkstatt.md">Markdown herunterladen</a> |
-| Schnellstart (Markdown) | [konkurrenten-rechtsschutz-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md" download="konkurrenten-rechtsschutz-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) |
-| Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/konkurrenten-rechtsschutz.md) | [`konkurrenten-rechtsschutz-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-skills-markdown.zip) |
-| Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-konkurrenten.md) | [`vergaberecht-arbeitsprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-konkurrenten.md) |
-| Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-konkurrenten.md) | [`vergaberecht-kurzprompt-konkurrenten.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-konkurrenten.md) |
-| Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/konkurrenten-rechtsschutz.md) | [`konkurrenten-rechtsschutz-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz-unified-mini-prompt.md) |
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-</details>
-
-<details>
-<summary><strong>Demonstrations-Akten anzeigen</strong></summary>
+## Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Akte | Aktenübersicht | PDF ansehen | PDF herunterladen | Akten-ZIP | Einzel-PDF-ZIP |
-| --- | --- | --- | --- | --- | --- |
-| Testakte 05: Insolvenz und Auftragnehmerwechsel nach § 132 GWB (`05-insolvenz-auftragnehmerwechsel-132-gwb`) | [README](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/README.md) | [Gesamt-PDF](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip) |
-| Testakte 06 - Konkurrentenrechtsschutz Rechenzentrum Musterkreis (`06-konkurrentenrechtsschutz-rechenzentrum-musterkreis`) | [README](../testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/README.md) | [Gesamt-PDF](../testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/gesamt-pdf/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis_gesamt.pdf) | [`06-konkurrentenrechtsschutz-rechenzentrum-musterkreis_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis/gesamt-pdf/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis_gesamt.pdf) | [`testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis.zip) | [`testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-06-konkurrentenrechtsschutz-rechenzentrum-musterkreis-einzelpdfs.zip) |
-| IT-Sicherheitsvergabe Landeshauptstadt Schwerin - Nachprüfungsverfahren (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [README](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) | [Gesamt-PDF](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip) |
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`konkurrenten-rechtsschutz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/konkurrenten-rechtsschutz.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`konkurrenten-rechtsschutz-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`konkurrenten-rechtsschutz-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md) |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-</details>
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+<!-- END direkt-loslegen (autogen) -->
 
-<!-- END plugin-sofort-download-section (autogen) -->
-
+Für unterlegene Bieter und andere Wettbewerber: Prüfe Vergabeunterlagen, Ausschluss, Wertung oder Zuschlag und formuliere die beauftragte Rüge, den Nachprüfungsantrag oder die Beschwerde. Ausgangspunkt sind die vorliegende Akte und die drohende Frist; ein klarer Rechtsschutzauftrag benötigt weder ein vorgeschaltetes Dashboard noch eine erneute vollständige Fallaufnahme.
 <!-- BEGIN output-format-block (autogen) -->
 
 ## Output-Format
@@ -120,18 +114,6 @@ Für neue Streitfälle genügt der Aktenordner mit dem gewünschten Ziel, etwa: 
 - EuGH 11.09.2014 — C-19/13 "Fastweb" — Unwirksamkeitsausnahme im § 135 GWB-Kontext.
 - EuGH 04.07.2013 — C-100/12 "Fastweb"; EuGH 05.04.2016 — C-689/13 "PFE"; EuGH 21.12.2021 — C-497/20 "Randstad Italia" — effektiver Konkurrentenrechtsschutz.
 - EuGH 16.10.2025 — C-282/24 "Polismyndigheten"; EuGH 29.04.2025 — C-452/23 "Fastned Deutschland"; EuGH 03.02.2022 — C-461/20 "Advania Sverige" — Vertragsänderung, Konzession und Auftragnehmerwechsel.
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Ergänzender Werkstatt-Gesamtprompt
-
-Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
-
-| Datei | Ansehen | Rohdatei |
-| --- | --- | --- |
-| Werkstatt-Gesamtprompt (108 KB) | [`testakten/megaprompts/konkurrenten-rechtsschutz.md`](../testakten/megaprompts/konkurrenten-rechtsschutz.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/konkurrenten-rechtsschutz.md) |
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick

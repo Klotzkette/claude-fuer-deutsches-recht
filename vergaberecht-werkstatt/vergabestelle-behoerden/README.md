@@ -1,70 +1,63 @@
 # vergabestelle-behoerden
 
-Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-[Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/vergabestelle-behoerden.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
+Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.
 
-[Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Downloads](../README.md#sofort-downloads) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Direkt starten
+## Welche Datei wofür? / Which file should I use?
 
-**1. Einmal installieren**
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/vergabestelle-behoerden.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/vergabestelle-behoerden.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
 
-- **Claude Desktop oder Cowork:** [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/vergabestelle-behoerden.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
-- **Claude Code:**
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install vergabestelle-behoerden@klotzkette-german-legal-skills
-/reload-plugins
-```
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
 
-**2. Fallunterlagen anhängen**
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-**3. Genau diesen Satz senden**
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/vergabestelle-behoerden.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Installation](../../INSTALLATION_EINFACH.md) · [Testakten](../../testakten/README.md)
 
-> Neuer Vergabestellenfall. Prüfe die beigefügten Unterlagen vollständig, sichere Fristen und Rechtsregime und erstelle den nächsten entscheidungsreifen Behördenoutput.
+## In 30 Sekunden starten
 
-Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das Plugin bearbeitet den Auftrag eigenständig. Bei einem offenen Ordnerauftrag kann es mit `Lage | Rot | Akte | Rechtsweiche | Jetzt` orientieren. Ist ein bestimmtes Dokument bestellt, beginnt es nach der Unterlagensichtung unmittelbar damit. Pro Rückfragerunde werden höchstens drei echte, entscheidende Lücken gebündelt erfragt; bereits sichtbare Angaben werden nicht erneut erfragt. Antworten werden im selben Entwurf verarbeitet. Weitere Rückfragen folgen nur bei neuen entscheidenden Lücken, bis das bestellte Dokument vorliegt.
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/vergabestelle-behoerden.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-<details>
-<summary><strong>Weitere Prompt- und Skill-Downloads anzeigen</strong></summary>
+Startsatz für vergabestelle-behoerden:
 
-Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin oder für die gezielte Einzelverwendung. `Ansehen` öffnet die Repo-Datei; `Herunterladen` liefert die aktuelle Release-Datei.
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
-| Ziel | Ansehen | Herunterladen |
-| --- | --- | --- |
-| Werkstatt (Markdown) | [vergabestelle-behoerden-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md" download="vergabestelle-behoerden-werkstatt.md">Markdown herunterladen</a> |
-| Schnellstart (Markdown) | [vergabestelle-behoerden-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md" download="vergabestelle-behoerden-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/vergabestelle-behoerden.zip) |
-| Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/vergabestelle-behoerden.md) | [`vergabestelle-behoerden-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-skills-markdown.zip) |
-| Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-vergabestelle.md) | [`vergaberecht-arbeitsprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-vergabestelle.md) |
-| Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-vergabestelle.md) | [`vergaberecht-kurzprompt-vergabestelle.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-vergabestelle.md) |
-| Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/vergabestelle-behoerden.md) | [`vergabestelle-behoerden-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergabestelle-behoerden-unified-mini-prompt.md) |
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-</details>
-
-<details>
-<summary><strong>Demonstrations-Akten anzeigen</strong></summary>
+## Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Akte | Aktenübersicht | PDF ansehen | PDF herunterladen | Akten-ZIP | Einzel-PDF-ZIP |
-| --- | --- | --- | --- | --- | --- |
-| Testakte 01 - Reinigungsdienstleistung Grundschule Musterstadt (`01-reinigung-grundschule-musterstadt`) | [README](../testakten/01-reinigung-grundschule-musterstadt/README.md) | [Gesamt-PDF](../testakten/01-reinigung-grundschule-musterstadt/gesamt-pdf/01-reinigung-grundschule-musterstadt_gesamt.pdf) | [`01-reinigung-grundschule-musterstadt_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/01-reinigung-grundschule-musterstadt/gesamt-pdf/01-reinigung-grundschule-musterstadt_gesamt.pdf) | [`testakte-01-reinigung-grundschule-musterstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-01-reinigung-grundschule-musterstadt.zip) | [`testakte-01-reinigung-grundschule-musterstadt-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-01-reinigung-grundschule-musterstadt-einzelpdfs.zip) |
-| Testakte 02 - Laptopbeschaffung Landesamt Musterland (`02-laptopbeschaffung-landesamt-musterland`) | [README](../testakten/02-laptopbeschaffung-landesamt-musterland/README.md) | [Gesamt-PDF](../testakten/02-laptopbeschaffung-landesamt-musterland/gesamt-pdf/02-laptopbeschaffung-landesamt-musterland_gesamt.pdf) | [`02-laptopbeschaffung-landesamt-musterland_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/02-laptopbeschaffung-landesamt-musterland/gesamt-pdf/02-laptopbeschaffung-landesamt-musterland_gesamt.pdf) | [`testakte-02-laptopbeschaffung-landesamt-musterland.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-02-laptopbeschaffung-landesamt-musterland.zip) | [`testakte-02-laptopbeschaffung-landesamt-musterland-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-02-laptopbeschaffung-landesamt-musterland-einzelpdfs.zip) |
-| Testakte 05: Insolvenz und Auftragnehmerwechsel nach § 132 GWB (`05-insolvenz-auftragnehmerwechsel-132-gwb`) | [README](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/README.md) | [Gesamt-PDF](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip) |
-| IT-Sicherheitsvergabe Landeshauptstadt Schwerin - Nachprüfungsverfahren (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [README](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) | [Gesamt-PDF](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip) |
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`vergabestelle-behoerden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/vergabestelle-behoerden.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`vergabestelle-behoerden-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`vergabestelle-behoerden-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md) |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-</details>
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+<!-- END direkt-loslegen (autogen) -->
 
-<!-- END plugin-sofort-download-section (autogen) -->
-
+Für öffentliche Auftraggeber: Vergabeunterlagen und Angebote prüfen, Rügen bearbeiten und den beauftragten Vergabevermerk, die Bieterantwort oder Zuschlagsentscheidung ausarbeiten. Vorhandene Unterlagen bestimmen Rechtsregime und nächsten Fachschritt; nur entscheidende Lücken werden nachgefragt.
 <!-- BEGIN output-format-block (autogen) -->
 
 ## Output-Format
@@ -137,18 +130,6 @@ Für neue Verfahren genügt der Fallordner und dieser Satz: `Neuer Vergabestelle
 - BGH 31.01.2017 — X ZB 10/16 — Aufklärung niedriger Angebote.
 - BGH 08.12.2020 — XIII ZR 19/19 — Schadensersatz bei rechtswidriger Aufhebung.
 - BVerfG 13.06.2006 — 1 BvR 1160/03 — Unterschwellenrechtsschutz.
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Ergänzender Werkstatt-Gesamtprompt
-
-Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
-
-| Datei | Ansehen | Rohdatei |
-| --- | --- | --- |
-| Werkstatt-Gesamtprompt (127 KB) | [`testakten/megaprompts/vergabestelle-behoerden.md`](../testakten/megaprompts/vergabestelle-behoerden.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/vergabestelle-behoerden.md) |
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick

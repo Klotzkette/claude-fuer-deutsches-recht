@@ -197,7 +197,20 @@ def render_prompt(source, target):
     return result
 
 
-def build(dist, case_assets, write_proof=False):
+def published_proof_status(actual, candidate=False):
+    expected = json.loads(PROOF.read_text(encoding="utf-8"))
+    if actual == expected:
+        return "matching_release"
+    if (candidate
+            and all(actual.get(key) == expected.get(key) for key in ("version", "release", "plugins"))
+            and set(actual.get("assets", {})) == set(expected.get("assets", {}))):
+        return "source_candidate_not_published"
+    raise ValueError("Fachanwalts-Paket stimmt nicht mit dem Routingnachweis überein.")
+
+
+def build(dist, case_assets, write_proof=False, candidate=False):
+    if write_proof and candidate:
+        raise ValueError("Quellkandidat darf keinen Veröffentlichungsnachweis ändern.")
     dist.mkdir(parents=True, exist_ok=True)
     if any(dist.iterdir()):
         raise ValueError("Das Ausgabeziel muss leer sein.")
@@ -261,8 +274,8 @@ def build(dist, case_assets, write_proof=False):
             "evidence": PROOF.relative_to(ROOT).as_posix(),
         }
         routing_path.write_text(json.dumps(routing, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    elif json.loads(PROOF.read_text(encoding="utf-8")) != proof:
-        raise ValueError("Fachanwalts-Paket stimmt nicht mit dem Routingnachweis überein.")
+    else:
+        report["published_proof_status"] = published_proof_status(proof, candidate)
     (dist / "quellenabgleich.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (dist / "checksums-sha256.txt").write_text("".join(f"{sha(path)}  {path.name}\n" for path in sorted(dist.iterdir())), encoding="utf-8")
     if {path.name for path in dist.iterdir()} != asset_names():
@@ -274,6 +287,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dist", type=Path, required=True)
     parser.add_argument("--case-assets", type=Path, required=True)
-    parser.add_argument("--write-proof", action="store_true")
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument("--write-proof", action="store_true")
+    mode.add_argument("--candidate", action="store_true", help="Quellkandidat ohne Änderung veröffentlichter Paketnachweise")
     args = parser.parse_args()
-    build(args.dist.resolve(), args.case_assets.resolve(), args.write_proof)
+    build(args.dist.resolve(), args.case_assets.resolve(), args.write_proof, args.candidate)

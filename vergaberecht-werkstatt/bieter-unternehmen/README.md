@@ -1,67 +1,61 @@
 # bieter-unternehmen
 
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-[Öffentliche Startseite](../../README.md) | [Gesamtkatalog](../../SKILLS.md) | [Öffentlicher Skill-Index](../../skills-index/bieter-unternehmen.md) | [Download-Index](../../ASSET_INDEX.md) | [Alle Testakten](../../testakten/README.md) | [Plugin-Dateien](.)
+<!-- BEGIN direkt-loslegen (autogen) -->
+## Was ist das hier?
 
-[Repo-Start](../README.md) | [Dateikatalog](../README.md#dateikatalog) | [Downloads](../README.md#sofort-downloads) | [Vergabestelle](../vergabestelle-behoerden/README.md) | [Bieter](../bieter-unternehmen/README.md) | [Konkurrent](../konkurrenten-rechtsschutz/README.md) | [Alle Skills](../SKILLS.md) | [Testakten](../testakten/README.md) | [Rechtsprechung](../references/leitentscheidungen-anker.md)
+Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.
 
-## Direkt starten
+Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-**1. Einmal installieren**
+## Welche Datei wofür? / Which file should I use?
 
-- **Claude Desktop oder Cowork:** [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) herunterladen. In `Customize`, `Plugins`, `+` die Funktion zum Hochladen eines eigenen Plugins wählen.
-- **Claude Code:**
+| Bestandteil | Deutsch | English | Wo? / Where? |
+| --- | --- | --- | --- |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
+| Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../../skills-index/bieter-unternehmen.md) |
+| Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) |
+| Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) |
+| Testakten | Separate Übungsunterlagen in PDF- und Originalformaten; sie werden nicht mit dem Plugin installiert. | Separate practice files in PDF and original formats; they are not installed with the plugin. | [Testakten-Übersicht / Test-file index](../../testakten/README.md) |
 
-```text
-/plugin marketplace add Klotzkette/claude-fuer-deutsches-recht
-/plugin install bieter-unternehmen@klotzkette-german-legal-skills
-/reload-plugins
-```
+Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navigationslinks zu README- und Übersichtsseiten bleiben dagegen als GitHub-Seiten geöffnet.
 
-Die Marketplace-Zeile ist nur beim ersten Plugin nötig. [Offizielle Installationshinweise](https://support.claude.com/en/articles/13837440-use-plugins-in-claude).
+Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-**2. Fallunterlagen anhängen**
+Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
 
-**3. Genau diesen Satz senden**
+The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
 
-> Neue Bewerbung. Prüfe die beigefügten Vergabeunterlagen vollständig, sichere Abgabefrist und Ausschlussrisiken und erstelle den nächsten abgabefertigen Angebotsoutput.
+Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../../SKILLS.md) · [Skills dieses Plugins](../../skills-index/bieter-unternehmen.md) · [Plugin-Dateien](.) · [Download-Index](../../ASSET_INDEX.md) · [Installation](../../INSTALLATION_EINFACH.md) · [Testakten](../../testakten/README.md)
 
-Kein zusätzlicher Prompt und keine manuelle Skillwahl sind nötig. Das Plugin antwortet sofort in fünf Zeilen mit `Lage | Rot | Angebot | Rechtsweiche | Jetzt`, verarbeitet den Fall danach selbstständig und stellt am Ende höchstens drei echte Blockerfragen. Bereits sichtbare Angaben werden nicht erneut erfragt.
+## In 30 Sekunden starten
 
-<details>
-<summary><strong>Weitere Prompt- und Skill-Downloads anzeigen</strong></summary>
+| Ausgangslage | Schnellster Weg |
+| --- | --- |
+| Plugin installiert | Passenden Fachskill in der [alphabetisch sortierten Skill-Liste](../../skills-index/bieter-unternehmen.md) wählen und den untenstehenden Startsatz mit dem Arbeitsordner absenden. |
+| Noch keine Installation | Den Schnellstart unten als Markdown herunterladen und mit den Unterlagen in einer freigegebenen Arbeitsoberfläche bereitstellen. |
+| Umfangreicher oder mehrstufiger Vorgang | Die Werkstatt laden; sie führt tiefer durch Fachrouten, Gegenposition und Endprodukt. |
 
-Die folgenden Dateien sind Alternativen für Chats ohne installiertes Plugin oder für die gezielte Einzelverwendung. `Ansehen` öffnet die Repo-Datei; `Herunterladen` liefert die aktuelle Release-Datei.
+Startsatz für bieter-unternehmen:
 
-| Ziel | Ansehen | Herunterladen |
-| --- | --- | --- |
-| Werkstatt (Markdown) | [bieter-unternehmen-werkstatt.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md" download="bieter-unternehmen-werkstatt.md">Markdown herunterladen</a> |
-| Schnellstart (Markdown) | [bieter-unternehmen-schnellstart.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md" download="bieter-unternehmen-schnellstart.md">Markdown herunterladen</a> |
-| Plugin mit Skills, Vorlagen und Referenzen | [Plugin-Dateien](./) | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
-| Alle Skills dieser Marktrolle | [Skill-Detailseite](../skills-index/bieter-unternehmen.md) | [`bieter-unternehmen-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-skills-markdown.zip) |
-| Autarker Vollworkflow | [Arbeitsprompt](../vergaberecht-arbeitsprompt-bieter.md) | [`vergaberecht-arbeitsprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-arbeitsprompt-bieter.md) |
-| Autarker Kurzprompt mit vertiefter Fallprüfung | [Kurzprompt](../vergaberecht-kurzprompt-bieter.md) | [`vergaberecht-kurzprompt-bieter.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/vergaberecht-kurzprompt-bieter.md) |
-| Autarker Mini-Schnellstart bis 7.500 Zeichen | [Unified Mini Prompt](../unified-mini-prompts/bieter-unternehmen.md) | [`bieter-unternehmen-unified-mini-prompt.md`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/bieter-unternehmen-unified-mini-prompt.md) |
+> Sichte den ausgewählten Ordner intern, ohne seine Inhalte ungefragt aufzulisten. Lies die für den Auftrag tragenden Unterlagen; ergänze die Lektüre gezielt bei offenen Belegfragen. Beginne mit folgendem Arbeitsschritt: einen fachbezogenen Erststand mit Ergebnisrichtung, Kernbeleg und nächstem Dokument. Wenn bereits ein konkretes Dokument verlangt ist, beginne unmittelbar damit. Frage gezielt nach entscheidenden offenen Punkten und arbeite an den unabhängigen Teilen weiter. Verarbeite die Antwort im bestehenden Entwurf; weitere Rückfragen nur bei neuen entscheidenden Lücken.
 
-</details>
+Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestellte Tatsachen, Berechnungen und Quellen nicht erneut abfragen oder ohne Anlass neu aufbauen.
 
-<details>
-<summary><strong>Demonstrations-Akten anzeigen</strong></summary>
+## Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-| Akte | Aktenübersicht | PDF ansehen | PDF herunterladen | Akten-ZIP | Einzel-PDF-ZIP |
-| --- | --- | --- | --- | --- | --- |
-| Testakte 03 - Bauleistung Sanierung Stadthalle Musterstadt (Bieterseite) (`03-bauleistung-stadthalle-musterstadt`) | [README](../testakten/03-bauleistung-stadthalle-musterstadt/README.md) | [Gesamt-PDF](../testakten/03-bauleistung-stadthalle-musterstadt/gesamt-pdf/03-bauleistung-stadthalle-musterstadt_gesamt.pdf) | [`03-bauleistung-stadthalle-musterstadt_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/03-bauleistung-stadthalle-musterstadt/gesamt-pdf/03-bauleistung-stadthalle-musterstadt_gesamt.pdf) | [`testakte-03-bauleistung-stadthalle-musterstadt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-03-bauleistung-stadthalle-musterstadt.zip) | [`testakte-03-bauleistung-stadthalle-musterstadt-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-03-bauleistung-stadthalle-musterstadt-einzelpdfs.zip) |
-| Testakte 04 - IT-Beratung Ministerium Musterland (Bieterseite, Verhandlungsverfahren) (`04-it-beratung-ministerium-musterland`) | [README](../testakten/04-it-beratung-ministerium-musterland/README.md) | [Gesamt-PDF](../testakten/04-it-beratung-ministerium-musterland/gesamt-pdf/04-it-beratung-ministerium-musterland_gesamt.pdf) | [`04-it-beratung-ministerium-musterland_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/04-it-beratung-ministerium-musterland/gesamt-pdf/04-it-beratung-ministerium-musterland_gesamt.pdf) | [`testakte-04-it-beratung-ministerium-musterland.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-04-it-beratung-ministerium-musterland.zip) | [`testakte-04-it-beratung-ministerium-musterland-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-04-it-beratung-ministerium-musterland-einzelpdfs.zip) |
-| Testakte 05: Insolvenz und Auftragnehmerwechsel nach § 132 GWB (`05-insolvenz-auftragnehmerwechsel-132-gwb`) | [README](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/README.md) | [Gesamt-PDF](../testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/05-insolvenz-auftragnehmerwechsel-132-gwb/gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb.zip) | [`testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-05-insolvenz-auftragnehmerwechsel-132-gwb-einzelpdfs.zip) |
-| IT-Sicherheitsvergabe Landeshauptstadt Schwerin - Nachprüfungsverfahren (`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung`) | [README](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/README.md) | [Gesamt-PDF](../testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf`](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung/gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung.zip) | [`testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/vergaberecht-werkstatt-v445.33.1/testakte-it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung-einzelpdfs.zip) |
+| Was | Format | Direkt-Download |
+| --- | --- | --- |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`bieter-unternehmen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/kompatibilitaet-v445.35.1/bieter-unternehmen.zip) |
+| Kompakter Prompt (Schnellstart) | Markdown | [`bieter-unternehmen-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md) |
+| Großer Prompt (Werkstatt) | Markdown | [`bieter-unternehmen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md) |
+| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-</details>
-
-<!-- END plugin-sofort-download-section (autogen) -->
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+<!-- END direkt-loslegen (autogen) -->
 
 <!-- BEGIN output-format-block (autogen) -->
 
@@ -134,18 +128,6 @@ Begrenzter Normabgleich am 16.10.2026: [160 GWB](https://www.gesetze-im-internet
 - EuGH 24.10.2018 — C-124/17 "Vossloh Laeis" — Selbstreinigung.
 - BGH 08.12.2020 — XIII ZR 19/19 — Schadensersatz vergaberechtswidrige Aufhebung.
 - OLG-Vergabesenate für 160 Abs. 3 GWB Präklusion (st. Rspr.).
-
-<!-- BEGIN megaprompt-und-vorlagen (autogen) -->
-## Ergänzender Werkstatt-Gesamtprompt
-
-Die regulären Plugin-, Arbeits- und Schnellstartdownloads stehen bereits im Schnellzugriff am Seitenanfang. Zusätzlich liegt der ausführliche Werkstatt-Gesamtprompt als einzeln lesbare Markdown-Datei im Repo.
-
-| Datei | Ansehen | Rohdatei |
-| --- | --- | --- |
-| Werkstatt-Gesamtprompt (119 KB) | [`testakten/megaprompts/bieter-unternehmen.md`](../testakten/megaprompts/bieter-unternehmen.md) | [Raw .md](https://raw.githubusercontent.com/Klotzkette/claude-fuer-deutsches-recht/main/vergaberecht-werkstatt/testakten/megaprompts/bieter-unternehmen.md) |
-
-<!-- END megaprompt-und-vorlagen (autogen) -->
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick
