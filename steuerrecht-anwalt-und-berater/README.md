@@ -159,7 +159,7 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 | `/steuerrecht-anwalt-und-berater:anw-grest-spa-tax-clause-indemnity` | SPA-Steuerklauseln, GrESt-Indemnity, Escrow und Mitwirkungspflichten |
 | `/steuerrecht-anwalt-und-berater:anw-grest-konzernklausel-6a` | Konzernklausel § 6a GrEStG bei Umwandlung, Einbringung und Konzernumstrukturierung |
 | `/steuerrecht-anwalt-und-berater:anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen: Einspruch, AdV, § 16 GrEStG, Doppelbelastung |
-| `/steuerrecht-anwalt-und-berater:anw-dac7-dac8-plattformen-krypto` | DAC7 (PStTG, 1.1.2023) und DAC8 (KryptoStG, 1.1.2026) — Meldepflichten Plattformen und Krypto-Dienstleister, MiCA-VO — **NEU** |
+| `/steuerrecht-anwalt-und-berater:anw-dac7-dac8-plattformen-krypto` | DAC7 (PStTG, 1.1.2023) und DAC8 (KStTG, Pflichten ab 2026) — Meldepflichten Plattformen und Krypto-Dienstleister, MiCA-VO — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-minbestg-pillar2-konzernbesteuerung` | Pillar Two / MinBestG ab 1.1.2024 — globaler Mindeststeuersatz 15 % für Konzerne ab 750 Mio EUR; IIR/UTPR/QDMTT, GloBE Information Return — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-steuerstrafverteidigung-verstaendigung` | Strafverteidigung Steuerstrafsache (§§ 369 ff. AO) mit Einstellung § 153a StPO und Verständigung § 257c StPO |
 | `/steuerrecht-anwalt-und-berater:anw-verbindliche-auskunft` | Verbindliche Auskunft § 89 Abs. 2 AO |
