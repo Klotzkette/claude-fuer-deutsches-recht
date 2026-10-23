@@ -1,10 +1,15 @@
 ﻿Buchungstag;Wertstellung;Buchungstext;Soll_EUR;Haben_EUR;Kapitalsaldo_EUR;Hinweis
-19.02.2024;19.02.2024;Auszahlung Tranche 1;180000.00;0.00;180000.00;Vertrag 15.02.2024
-07.05.2024;07.05.2024;Auszahlung Tranche 2;40000.00;0.00;220000.00;Abruf per Mail
+19.02.2024;19.02.2024;Auszahlung Tranche 1;180000.00;0.00;180000.00;"Abruf 02A; E2E KT-2024-021-T1"
+31.03.2024;31.03.2024;Vertragszins Q1/2024;1512.00;0.00;180000.00;180.000 x 7,20 % x 42/360
+02.04.2024;02.04.2024;Zahlung Zinsen Q1;0.00;1512.00;180000.00;Zinskonto ausgeglichen
+07.05.2024;07.05.2024;Auszahlung Tranche 2;40000.00;0.00;220000.00;"Abruf 06A; E2E KT-2024-021-T2"
+30.06.2024;30.06.2024;Vertragszins Q2/2024;3716.00;0.00;220000.00;180.000 x 7,20 % x 36/360 + 220.000 x 7,20 % x 55/360
+02.07.2024;02.07.2024;Zahlung Zinsen Q2;0.00;3716.00;220000.00;Zinskonto ausgeglichen
 30.08.2024;30.08.2024;Tilgung;0.00;20000.00;200000.00;Verwendungszweck: Tilgung
-30.09.2024;30.09.2024;Zinsen Q3;3960.00;0.00;200000.00;separates Zinskonto
-02.10.2024;02.10.2024;Zahlung Zinsen;0.00;3960.00;200000.00;Kapitalsaldo unverändert
-31.12.2024;31.12.2024;Zinsen Q4;3600.00;0.00;200000.00;separates Zinskonto
-03.01.2025;03.01.2025;Zahlung Zinsen;0.00;3600.00;200000.00;Kapitalsaldo unverändert
-31.03.2025;31.03.2025;Zahlung 7.500 EUR;0.00;7500.00;200000.00;als Zinsen/Kosten gebucht
-31.07.2025;31.07.2025;Saldo bei Forderungsverkauf;0.00;0.00;200000.00;Zinsen gesondert 6.841,64 EUR
+30.09.2024;30.09.2024;Vertragszins Q3/2024;3920.00;0.00;200000.00;220.000 x 7,20 % x 60/360 + 200.000 x 7,20 % x 32/360
+02.10.2024;02.10.2024;Zahlung Zinsen Q3;0.00;3920.00;200000.00;Zinskonto ausgeglichen
+31.12.2024;31.12.2024;Vertragszins Q4/2024;3680.00;0.00;200000.00;200.000 x 7,20 % x 92/360
+03.01.2025;03.01.2025;Zahlung Zinsen Q4;0.00;3680.00;200000.00;Zinskonto ausgeglichen
+31.03.2025;31.03.2025;Vertragszins Q1/2025;3600.00;0.00;200000.00;200.000 x 7,20 % x 90/360
+31.03.2025;31.03.2025;Zahlung 7.500 EUR;0.00;7500.00;200000.00;"Zahlungszweck Kapital; Gläubigerbuchung vollständig Zinsen/Kosten; Zuordnung streitig"
+31.07.2025;31.07.2025;Saldo bei Forderungsverkauf;0.00;0.00;200000.00;"Gläubigerbehauptung: Zinsen/Kosten 6.841,64 EUR; neutrale Kontrolle in 07A"

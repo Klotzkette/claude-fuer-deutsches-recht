@@ -26,8 +26,9 @@ on:
       - 'scripts/inject-gesamt-pdf-section.py'
       - 'scripts/scoped-release-assets.json'
       - 'quality/legal/urheberrecht-ip-insolvenz-quellen-2026-10-23.md'
+      - 'quality/legal/urheberrecht-ip-insolvenz-hauptschuld-2026-10-23.md'
       - 'quality/legal/urheberrecht-ip-insolvenz-artifact-manifest.json'
-      - 'docs/releases/urheberrecht-ip-insolvenz-testakten-v1.0.0.md'
+      - 'docs/releases/urheberrecht-ip-insolvenz-testakten-v1.0.1.md'
       - '.github/workflows/urheberrecht-ip-insolvenz-testakten-release.yml'
       - 'requirements.txt'
   workflow_dispatch:
@@ -35,7 +36,7 @@ on:
       tag:
         description: Komponententag
         required: true
-        default: urheberrecht-ip-insolvenz-testakten-v1.0.0
+        default: urheberrecht-ip-insolvenz-testakten-v1.0.1
       publish:
         description: Geprüfte Pakete veröffentlichen
         type: boolean
@@ -53,7 +54,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 35
     env:
-      TAG: ${{ inputs.tag || 'urheberrecht-ip-insolvenz-testakten-v1.0.0' }}
+      TAG: ${{ inputs.tag || 'urheberrecht-ip-insolvenz-testakten-v1.0.1' }}
       GH_REPO: ${{ github.repository }}
     steps:
       - uses: actions/checkout@v5
@@ -70,7 +71,7 @@ jobs:
           sudo apt-get -o Acquire::Retries=3 install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
       - name: Quellen und eingecheckte Lesefassungen prüfen
         run: |
-          test "$TAG" = 'urheberrecht-ip-insolvenz-testakten-v1.0.0'
+          test "$TAG" = 'urheberrecht-ip-insolvenz-testakten-v1.0.1'
           python3 scripts/test-urheberrecht-ip-insolvenz-testakten.py
       - name: Drei Auslieferungsformen bauen und prüfen
         run: |

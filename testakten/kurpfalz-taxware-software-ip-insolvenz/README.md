@@ -19,8 +19,8 @@ Die Akte steht in drei getrennten Fassungen bereit. Das Gesamt-PDF ist die Lesef
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [`gesamt-pdf/kurpfalz-taxware-software-ip-insolvenz_gesamt.pdf`](gesamt-pdf/kurpfalz-taxware-software-ip-insolvenz_gesamt.pdf) |
-| Akten-ZIP (Originalformate, ohne Gesamt-PDF) | ZIP | [`testakte-kurpfalz-taxware-software-ip-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.0/testakte-kurpfalz-taxware-software-ip-insolvenz.zip) |
-| Einzel-PDF-ZIP | ZIP | [`testakte-kurpfalz-taxware-software-ip-insolvenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.0/testakte-kurpfalz-taxware-software-ip-insolvenz-einzelpdfs.zip) |
+| Akten-ZIP (Originalformate, ohne Gesamt-PDF) | ZIP | [`testakte-kurpfalz-taxware-software-ip-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-kurpfalz-taxware-software-ip-insolvenz.zip) |
+| Einzel-PDF-ZIP | ZIP | [`testakte-kurpfalz-taxware-software-ip-insolvenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/urheberrecht-ip-insolvenz-testakten-v1.0.1/testakte-kurpfalz-taxware-software-ip-insolvenz-einzelpdfs.zip) |
 
 English: The original-format ZIP contains native working files only. It does not include the combined PDF, editorial files, or a solution. The individual-PDF ZIP contains one PDF per source document.
 
@@ -31,6 +31,8 @@ English: The original-format ZIP contains native working files only. It does not
 Die Sicherheitennehmerin erhält am 22. Oktober 2026 erstmals die nahezu vollständige Produkt- und Dealakte. Fünf unterschiedlich gefasste Arbeitsverträge, ein früher Freelancer-Beitrag, uneinheitliche Open-Source-Dokumentation, kundenbezogene Übertragungsklauseln und getrennte Sicherheitenurkunden erschweren die tatsächliche Rechtezuordnung. Der Insolvenzverwalter kündigt Closing für den 28. Oktober an; die Erwerberin teilt bereits ihre Vorfreude auf Produkt und Team mit. Die Bank benötigt eine belastbare Prüfung ihrer Rechtsposition und der verfügbaren Handlungsoptionen.
 
 Erstellen Sie aus den Aktenstücken ein ausführliches Gutachten zur Rechtslage und zu den rechtlich möglichen Reaktionen des jeweiligen IP-Sicherheitennehmers. Trennen Sie belegte Tatsachen, offene Tatsachen, Rechtsfragen, Eilmaßnahmen, Hauptsacheoptionen, Beweisfragen und wirtschaftliche Handlungsalternativen. Die Akte selbst enthält keine Musterlösung.
+
+Rekonstruieren Sie dabei die schuldrechtliche und tatsächliche Kette vollständig: Darlehensvertrag, nicht akzessorische Sicherungsabrede und Sicherungszweck, Auszahlungsvoraussetzungen, Abrufe, Valutierung auf dem Schuldnerkonto, Tilgungen, Zinsen, Kosten und offener Saldo. Eine bloße Bezeichnung als „Sicherheit“ ersetzt weder den Nachweis der gesicherten Hauptschuld noch den Vollzug der Auszahlung.
 
 ## 2. Beteiligte
 
@@ -76,7 +78,7 @@ Erstellen Sie aus den Aktenstücken ein ausführliches Gutachten zur Rechtslage 
 
 ## 5. Aktenumfang
 
-Die Arbeitsakte enthält 44 Originaldateien: 2 CSV, 16 DOCX, 7 EML, 9 PDF, 10 XLSX. E-Mail-Adressen verwenden ausschließlich reservierte `.example`-Domains. Namen, Unternehmen, Registerdaten und Vorgänge sind erfunden.
+Die Arbeitsakte enthält 54 Originaldateien: 2 CSV, 16 DOCX, 9 EML, 14 PDF, 13 XLSX. E-Mail-Adressen verwenden ausschließlich reservierte `.example`-Domains. Namen, Unternehmen, Registerdaten und Vorgänge sind erfunden.
 
 ## 6. Didaktischer Endpunkt
 

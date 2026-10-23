@@ -57,7 +57,7 @@ MODULES = (
     DATA / "urheberrecht_ip_insolvenz_software.py",
     DATA / "urheberrecht_ip_insolvenz_film.py",
 )
-RELEASE_TAG = "urheberrecht-ip-insolvenz-testakten-v1.0.0"
+RELEASE_TAG = "urheberrecht-ip-insolvenz-testakten-v1.0.1"
 RELEASE_BASE = (
     "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/"
     + RELEASE_TAG
@@ -475,6 +475,8 @@ English: The original-format ZIP contains native working files only. It does not
 
 Erstellen Sie aus den Aktenstücken ein ausführliches Gutachten zur Rechtslage und zu den rechtlich möglichen Reaktionen des jeweiligen IP-Sicherheitennehmers. Trennen Sie belegte Tatsachen, offene Tatsachen, Rechtsfragen, Eilmaßnahmen, Hauptsacheoptionen, Beweisfragen und wirtschaftliche Handlungsalternativen. Die Akte selbst enthält keine Musterlösung.
 
+Rekonstruieren Sie dabei die schuldrechtliche und tatsächliche Kette vollständig: Darlehensvertrag, nicht akzessorische Sicherungsabrede und Sicherungszweck, Auszahlungsvoraussetzungen, Abrufe, Valutierung auf dem Schuldnerkonto, Tilgungen, Zinsen, Kosten und offener Saldo. Eine bloße Bezeichnung als „Sicherheit“ ersetzt weder den Nachweis der gesicherten Hauptschuld noch den Vollzug der Auszahlung.
+
 ## 2. Beteiligte
 
 | Beteiligte | Rolle | Anschrift |
@@ -515,6 +517,7 @@ def write_rubric(folder: Path, case: dict[str, Any]) -> None:
         "criteria": [
             "Sachen, Forderungen und sonstige Rechte werden gegenstandsbezogen getrennt.",
             "Rechtekette und Sicherheitenbestellung werden aus Primärakten rekonstruiert.",
+            "Hauptschuld, Sicherungszweck, Auszahlungsvoraussetzungen, Abrufe, tatsächliche Valutierung, Tilgungen und offener Saldo werden aus getrennten Primärbelegen zu einer prüfbaren Kette verbunden.",
             "Der unterschriebene Erwerbsvertrag wird nach Vollzugsstand und betroffenen Rechten ausgewertet.",
             "Eilbedarf, Parteistellung, Anträge, Beweisangebote und wirtschaftliche Alternativen werden geprüft.",
             "Kein Aktenstück wird als bereits erstellte anwaltliche Lösung missverstanden.",

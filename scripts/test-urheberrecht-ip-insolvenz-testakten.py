@@ -32,9 +32,9 @@ MODULES = (
 )
 ARTIFACT_MANIFEST = ROOT / "quality" / "legal" / "urheberrecht-ip-insolvenz-artifact-manifest.json"
 MINIMUM_DOCUMENTS = {
-    "markenrechte-sicherungsuebertragung-insolvenz-mannheim": 28,
-    "kurpfalz-taxware-software-ip-insolvenz": 40,
-    "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": 30,
+    "markenrechte-sicherungsuebertragung-insolvenz-mannheim": 45,
+    "kurpfalz-taxware-software-ip-insolvenz": 54,
+    "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": 56,
 }
 ALLOWED_KINDS = {"docx", "pdf", "xlsx", "csv", "eml"}
 PROHIBITED_SOLUTION_TEXT = re.compile(
@@ -42,6 +42,88 @@ PROHIBITED_SOLUTION_TEXT = re.compile(
     re.IGNORECASE,
 )
 DECIMAL_HEADING = re.compile(r"^\d+(?:\.\d+)*\.?\s+\S")
+MAIN_DEBT_MARKERS = {
+    "markenrechte-sicherungsuebertragung-insolvenz-mannheim": (
+        "KT-2024-021",
+        "180.000",
+        "40.000",
+        "220.000",
+        "act/360",
+    ),
+    "kurpfalz-taxware-software-ip-insolvenz": (
+        "RK-2023-4471",
+        "2.400.000",
+        "400.000",
+        "2.000.000",
+        "18.000",
+        "2.382.000",
+    ),
+    "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": (
+        "KLP-2024-0418",
+        "KD-2417-01",
+        "2.150.000",
+        "710.000",
+        "1.440.000",
+        "36.830,44",
+        "1.476.830,44",
+    ),
+}
+
+
+def assert_main_debt_security_chain(case: dict) -> None:
+    """Verlangt für jede Akte getrennte Primärbelege vom Vertrag bis zum Saldo."""
+
+    slug = case["slug"]
+    documents = case["documents"]
+
+    def path(document: dict) -> str:
+        return document["path"].lower()
+
+    def matching(predicate) -> list[dict]:
+        return [document for document in documents if predicate(document)]
+
+    requirements = {
+        "Darlehensvertrag": lambda d: d["kind"] in {"pdf", "docx"}
+        and "darlehen" in path(d)
+        and "konto" not in path(d),
+        "Sicherungsabrede": lambda d: d["kind"] in {"pdf", "docx"}
+        and any(token in path(d) for token in ("sicherungsvertrag", "sicherungsuebertragung", "sicherungsabtretung")),
+        "Auszahlungsvoraussetzungen": lambda d: d["kind"] == "xlsx"
+        and any(token in path(d) for token in ("auszahlungsvoraus", "cp_", "cp-")),
+        "Auszahlungs- oder Valutabeleg": lambda d: d["kind"] == "pdf"
+        and any(token in path(d) for token in ("auszahlungsanzeige", "ausfuehrungsbeleg", "sepa_", "valutabeleg", "bankfreigabe")),
+        "Schuldner- oder Projektkontoauszug": lambda d: d["kind"] == "pdf"
+        and "kontoaus" in path(d),
+        "Darlehens- oder Kreditkonto": lambda d: d["kind"] == "xlsx"
+        and any(token in path(d) for token in ("darlehenskonto", "kreditkonto", "saldenstaffel")),
+        "Sicherungsfall oder Rechtsvorbehalt": lambda d: d["kind"] in {"pdf", "docx", "eml"}
+        and any(token in path(d) for token in ("sicherungsfall", "rechtsvorbehalt", "faelligstellung", "verwertungsankuendigung")),
+    }
+    for label, predicate in requirements.items():
+        found = matching(predicate)
+        assert found, f"{slug}: Primärbeleg fehlt: {label}"
+
+    drawdowns = matching(lambda d: d["kind"] == "eml" and "abruf" in path(d))
+    assert len(drawdowns) >= 2, f"{slug}: mindestens zwei getrennte Darlehensabrufe erwartet"
+
+    whole_text = nested_text(documents)
+    for term in (
+        "Sicherungszweck",
+        "Auszahlungsvoraussetzungen",
+        "Valuta",
+        "Tilgung",
+        "Kapital",
+        "Zinsen",
+        "Saldo",
+    ):
+        assert term.lower() in whole_text.lower(), f"{slug}: Hauptschuldkette ohne {term}"
+
+    for marker in MAIN_DEBT_MARKERS[slug]:
+        assert marker in whole_text, f"{slug}: Rechen- oder Vertragsmarker fehlt: {marker}"
+
+    assert "laut Bankstempel" not in whole_text, f"{slug}: spätere Ist-Buchung im Ex-ante-Vertrag"
+    for false_page_claim in ("trägt auf Seite 7 die Unterschriften", "Das vorliegende PDF enthält acht Seiten", "Scan 8 Seiten"):
+        assert false_page_claim not in whole_text, f"{slug}: falsche Seitenbehauptung: {false_page_claim}"
 
 
 def load_case(path: Path) -> dict:
@@ -153,6 +235,7 @@ def assert_source_case(case: dict) -> None:
     assert all(document["kind"] in ALLOWED_KINDS for document in documents)
     assert all(Path(document["path"]).suffix.lower() == f'.{document["kind"]}' for document in documents)
     assert not PROHIBITED_SOLUTION_TEXT.search(nested_text(documents)), f"{slug}: Lösungstext"
+    assert_main_debt_security_chain(case)
 
     headings = [
         section["heading"]

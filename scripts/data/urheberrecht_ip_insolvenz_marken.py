@@ -178,7 +178,8 @@ CASE = {
         "Ordnen Sie die Beteiligten, die Rechtskette und den zeitlichen Ablauf bis zum angekündigten Closing vollständig.",
         "Bestimmen Sie für jede der drei registrierten Marken gesondert, welche Urkunden und Erklärungen für den behaupteten Sicherungserwerb vorliegen und welche Angaben noch fehlen.",
         "Prüfen Sie, welche Bedeutung Registerstand, Anlage 1, Nachtrag, Forderungsverkauf und Schuldneranzeige jeweils für die Rechtspositionen der Beteiligten haben können.",
-        "Klären Sie den offenen Darlehenssaldo anhand von Vertrag, Zession, Buchungsjournal und Bankbelegen, ohne widersprüchliche Buchungen stillschweigend aufzulösen.",
+        "Prüfen Sie Abschluss, Abrufe, Auszahlungsvoraussetzungen, begrenzte Waiver und die tatsächliche Valutierung jeder Darlehenstranche getrennt anhand der Erklärungen beider Vertragsseiten und der Bankbelege.",
+        "Klären Sie den offenen Darlehenssaldo anhand von Vertrag, Zession, Buchungsjournal, neutraler Saldenstaffel und Bankbelegen. Rechnen Sie die Zinsen nach der vereinbarten act/360-Methode nach und weisen Sie streitige Zahlungszuordnungen in getrennten Szenarien aus.",
         "Erfassen Sie sämtliche Erklärungen der Sicherheitennehmerinnen gegenüber Schuldnerin, Verwalterin und Erwerberin und grenzen Sie Zustimmung, Gesprächsbereitschaft, Preisvorstellung und bloße Kenntnis voneinander ab.",
         "Analysieren Sie den unterzeichneten Asset-Kaufvertrag einschließlich Anlagen, Offenlegung, Vollzugsmechanik, Kaufpreisallokation und Rechtsfolgen eines ausbleibenden Mitwirkungsdokuments.",
         "Ordnen Sie die insolvenzrechtlichen und markenrechtlichen Fragen der Verwertungsbefugnis, Absonderung, Verfügung und eines möglichen Erlösbezugs, ohne Parteibehauptungen als feststehend zu übernehmen.",
@@ -196,6 +197,9 @@ CASE = {
         "Der Forderungskauf 2025 nennt Sicherheiten pauschal, während seine Anlage nur zwei Registernummern vollständig wiedergibt.",
         "Eine Zahlung von 15.000 Euro nach Abtretungsanzeige ging an die ursprüngliche Darlehensgeberin und wurde bei den Beteiligten unterschiedlich gebucht.",
         "Die Schuldnerin bezeichnet eine weitere Zahlung von 7.500 Euro als Tilgung; das Gläubigerkonto behandelt sie als Zinszahlung.",
+        "Die Bankbelege stimmen bei den beiden Auszahlungen über insgesamt 220.000 Euro überein; offen bleibt, ob sämtliche vertraglichen Auszahlungsvoraussetzungen erfüllt oder nur für die erste Tranche begrenzt zurückgestellt waren.",
+        "Der CP-Vermerk gibt die erste Tranche trotz fehlender Registeroriginale, Versicherungsabtretung und Hainblick-Unterlage begrenzt frei. Für die zweite Tranche liegt ein formgerechter Abruf, aber kein gleichartiger aktualisierter CP-Beschluss vor.",
+        "Die neutrale Saldenstaffel lässt sich aus Wertstellungen und act/360-Zinsperioden nachrechnen. Sie bestätigt jedoch weder die Gläubigerbuchung noch die Schuldnerzuordnung der Zahlungen über 7.500 und 15.000 Euro.",
         "Eine Vertriebslizenz wird im Datenraum als nicht exklusiv geführt, während eine spätere E-Mail dem Vertriebspartner Gebietsschutz zusagt.",
         "Die Verwalterin bestätigte zunächst, vor einer Übertragung erneut Rücksprache zu halten, unterzeichnete den APA aber ohne weitere Freigabe der Sicherheitennehmerin.",
         "Eine E-Mail der Sicherheitennehmerin nennt eine wirtschaftliche Untergrenze, erklärt im selben Text jedoch ausdrücklich, dass keine Freigabe erteilt werde.",
@@ -234,14 +238,16 @@ CASE = {
             Kurpfalzbank eG über 90.000 Euro auf. Unter der Überschrift
             „Sicherheiten“ heißt es, die Marken seien unbelastet. Eine handschriftliche
             Randnotiz aus dem Kreditgespräch lautet dagegen: „Hainblick-Vertrag und
-            Gebietsschutz noch ansehen.“ Die Anfrage ist von Janis Heller am
-            6. Februar 2024 unterzeichnet.
+            Gebietsschutz noch ansehen.“ Der Kreditaktenindex bezeichnet eine von Janis
+            Heller am 6. Februar 2024 unterzeichnete Papieranfrage. Das vorliegende DOCX
+            gibt Inhalt und Randnotiz wieder, enthält aber keine Abbildungen der
+            Unterschrift oder Handschrift.
             """,
         ),
         _document(
             "02_Darlehensvertrag_15-02-2024.pdf",
             "pdf",
-            "Unterzeichneter Darlehensvertrag vom 15. Februar 2024",
+            "Vertragsinhalt des Darlehensvertrags vom 15. Februar 2024",
             sections=[
                 _section(
                     "1. Vertragsparteien und Kreditrahmen",
@@ -271,6 +277,14 @@ CASE = {
                     Darlehensgeberin gelten als Saldenmitteilung, nicht als
                     Schuldanerkenntnis.
                     """,
+                    """
+                    Die Zinsen werden taggenau nach act/360 berechnet. Der Valutatag einer
+                    Auszahlung oder Tilgung ist der erste Tag des jeweils neuen
+                    Kapitalsaldos; der Tag vor der nächsten Saldoänderung ist der letzte Tag
+                    der vorangehenden Zinsperiode. Rundungen erfolgen je Periode auf zwei
+                    Dezimalstellen. Die Darlehensgeberin stellt zu jedem Quartalsende eine
+                    Zinsabrechnung mit Kapitalbasis, Tagen und Rechenweg bereit.
+                    """,
                 ),
                 _section(
                     "3. Sicherheiten",
@@ -296,26 +310,115 @@ CASE = {
                     """,
                 ),
                 _section(
-                    "5. Schlussbestimmungen und Unterschriften",
+                    "5. Schlussbestimmungen und Ausfertigungsvermerk",
                     """
                     Nebenabreden bestehen nach dem Vertragstext nicht. Änderungen und
                     Ergänzungen sollen in Textform dokumentiert werden. Heidelberg ist
-                    als Gerichtsstand vereinbart, soweit gesetzlich zulässig. Das Exemplar
-                    trägt auf Seite 7 die Unterschriften von Sonja Wieland und Armin
-                    Chandra für die Darlehensgeberin sowie von Janis Heller für die
-                    Darlehensnehmerin, jeweils datiert auf den 15. Februar 2024.
+                    als Gerichtsstand vereinbart, soweit gesetzlich zulässig. Der
+                    Kreditaktenindex vermerkt je eine von Sonja Wieland und Armin Chandra
+                    für die Darlehensgeberin sowie von Janis Heller für die
+                    Darlehensnehmerin am 15. Februar 2024 unterzeichnete Papierausfertigung.
+                    Das vorliegende PDF ist eine inhaltliche Vertragsabschrift und enthält
+                    weder die Papieroriginale noch Abbildungen der Unterschriften.
                     """,
                 ),
             ],
             tables=[
                 _table(
-                    ["Abruf", "Datum", "Kapital EUR", "Verwendungszweck"],
+                    ["Vertragsparameter", "Vereinbarung"],
                     [
-                        ["1", "19.02.2024", 180000, "Bauteile und laufende Kosten"],
-                        ["2", "07.05.2024", 40000, "Vorfinanzierung Serie RP-01"],
-                        ["Maximaler Restabruf", "bis 30.06.2024", 20000, "nicht dokumentiert"],
+                        ["Kreditrahmen", "höchstens 240.000 EUR"],
+                        ["Abruffrist", "Textformabrufe bis 30.06.2024"],
+                        ["Auszahlungskonto", "DE21 6709 0010 8842 6170 03"],
+                        ["Zinsmethode", "7,20 % p.a.; act/360; quartalsweise nachträglich"],
+                        ["Endfälligkeit", "31.12.2025"],
                     ],
                 )
+            ],
+        ),
+        _mail(
+            "02A_Abruf_Tranche_1_16-02-2024.eml",
+            "Textformabruf der ersten Darlehenstranche",
+            "Janis Heller <janis.heller@kurpfalz-tonwerke.example>",
+            "Sonja Wieland <sonja.wieland@neckarbruecke-finanz.example>",
+            "Leila Werner <leila.werner@kurpfalz-tonwerke.example>",
+            "2024-02-16T08:22:00+01:00",
+            "KT-2024-021 – Abruf 1 über 180.000 EUR zum 19.02.2024",
+            """
+            Guten Morgen Frau Wieland,
+
+            hiermit rufen wir unter dem Darlehensvertrag KT-2024-021 vom
+            15. Februar 2024 einen Betrag von 180.000 Euro ab. Bitte schreiben Sie die
+            Valuta am 19. Februar 2024 unserem im Vertrag bezeichneten Geschäftskonto
+            DE21 6709 0010 8842 6170 03 gut. Der Betrag wird für bereits bestellte
+            Elektronikkomponenten, Gehäuse und laufende Lohnzahlungen verwendet.
+
+            Das Auszahlungskonto ist unverändert. Darlehensvertrag,
+            Sicherungsvereinbarung, Anlage 1 und Gesellschafterbeschluss wurden Ihrer
+            Kreditabteilung übergeben. Uns ist bekannt, dass Ihre interne
+            Auszahlungskontrolle noch offene Registerunterlagen und den
+            Hainblick-Vertrag ausweist. Dieser Abruf enthält keine Bitte, auf die
+            vertraglich geschuldeten Unterlagen endgültig zu verzichten.
+
+            Bitte bestätigen Sie Freigabe und Ausführung unter Angabe der
+            Zahlungsreferenz.
+
+            Freundliche Grüße
+            Janis Heller
+            """,
+            attachments=(
+                "02_Darlehensvertrag_15-02-2024.pdf",
+                "03_Gesellschafterbeschluss_Sicherheiten.docx",
+                "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
+                "05_Anlage_1_Markenbestand.xlsx",
+            ),
+        ),
+        _xlsx(
+            "02B_CP_Check_und_Waiver_Tranche_1.xlsx",
+            "Auszahlungsvoraussetzungen, Freigabe und begrenzter Waiver für Tranche 1",
+            [
+                _sheet(
+                    "CP_Pruefung",
+                    ["Nr.", "Auszahlungsvoraussetzung", "Aktenbeleg", "Stand 19.02.2024 08:30", "Entscheidung", "Nachfrist"],
+                    [
+                        [1, "Darlehensvertrag in der Kreditakte als unterzeichnet protokolliert", "02_Darlehensvertrag_15-02-2024.pdf; Originalregister K-17", "erfüllt; vorliegendes PDF nur Abschrift", "Freigabe", "-"],
+                        [2, "Gesellschafterzustimmung und Vertretungsprüfung", "03_Gesellschafterbeschluss_Sicherheiten.docx; HR-Prüfvermerk", "erfüllt; Papieroriginal laut Aktenindex eingesehen", "Freigabe", "-"],
+                        [3, "Sicherungsabrede und Anlage 1", "04_Sicherungsuebertragung_Marken_15-02-2024.pdf; 05_Anlage_1_Markenbestand.xlsx", "zwei DE-Marken bestimmt; RHEINPULS als künftige Anmeldung bezeichnet", "Freigabe mit Dokumentennachlauf", "Anmeldenummer binnen 2 Bankarbeitstagen nach Anmeldung"],
+                        [4, "Textformabruf und Auszahlungskonto", "02A_Abruf_Tranche_1_16-02-2024.eml", "erfüllt; 180.000 EUR; Valuta 19.02.2024", "Freigabe", "-"],
+                        [5, "Aktuelle amtliche Registerauszüge der zwei DE-Marken", "Unterlagenliste CP-4", "offen; nur interne Ausdrucke", "begrenzter Waiver für Tranche 1", "29.02.2024"],
+                        [6, "Abtretung Ansprüche Produkthaftpflichtversicherung", "Darlehensvertrag Ziffer 3", "offen; Abtretungsformular nicht zurück", "begrenzter Waiver für Tranche 1", "29.02.2024"],
+                        [7, "Offenlegung Hainblick-Vertrag und Gebietsschutz", "Finanzierungsanfrage; Gesprächsnotiz", "offen; Vertrag nicht in Kreditakte", "begrenzter Waiver für Tranche 1", "15.03.2024"],
+                        [8, "Keine Änderung von Kontoinhaberin oder IBAN", "Abrufmail; Stammdatenabgleich", "erfüllt", "Freigabe", "-"],
+                    ],
+                    "Status bedeutet nur, was die Kreditkontrolle am Entscheidungszeitpunkt geprüft hat. Ein Waiver ersetzt weder eine fehlende Urkunde noch eine spätere Prüfung der Wirksamkeit der Sicherheit.",
+                ),
+                _sheet(
+                    "Freigabeentscheidung",
+                    ["Feld", "Festlegung"],
+                    [
+                        ["Freigabe-ID", "CP-KT-2024-021-T1"],
+                        ["Entscheidungszeit", "19.02.2024 08:37 CET"],
+                        ["Freigegebener Höchstbetrag", "180.000 EUR"],
+                        ["Valuta", "19.02.2024"],
+                        ["Entscheidende Personen", "Sonja Wieland, Kredit; Armin Chandra, Marktfolge"],
+                        ["Umfang des Waivers", "nur zeitliche Nachreichung der Positionen 5 bis 7; nur Tranche 1"],
+                        ["Nicht erlassen", "Unterlagenpflichten, Sicherheitenbestellung, Offenlegungspflichten, Rechte bei Unrichtigkeit"],
+                        ["Keine Folgefreigabe", "Tranche 2 erfordert neuen Textformabruf und erneute Kreditentscheidung"],
+                        ["Ergebnis", "Tranche 1 zur Ausführung freigegeben"],
+                    ],
+                    "Die Freigabe ist ein interner Marktfolgeentscheid. Sie bestätigt keine Registerumschreibung und keinen Verzicht auf die vereinbarte Versicherungsabtretung.",
+                ),
+                _sheet(
+                    "Offene_Punkte",
+                    ["Punkt", "Verantwortlich", "Frist", "Stand bei Freigabe", "Folge in der Akte"],
+                    [
+                        ["Amtliche DE-Registerauszüge", "Kurpfalz Tonwerke", "29.02.2024", "offen", "spätere Registerabschriften vorhanden; Eingang 2024 nicht belegt"],
+                        ["Versicherungsabtretung", "Kurpfalz Tonwerke", "29.02.2024", "offen", "kein Abtretungsformular in der Arbeitsakte"],
+                        ["Hainblick-Vertrag", "Kurpfalz Tonwerke", "15.03.2024", "offen", "erst später in Insolvenzakte greifbar"],
+                        ["EUIPO-Anmeldenummer RHEINPULS", "Kurpfalz Tonwerke", "2 Bankarbeitstage nach Anmeldung", "Anmeldung noch nicht erfolgt", "Anmeldung 09.04.2024; Übermittlung an Kreditakte nicht belegt"],
+                    ],
+                    "Nicht belegte Erledigung ist nicht als erfüllt zu behandeln. Die Liste hält die begrenzte Reichweite der Freigabe ausdrücklich fest.",
+                ),
             ],
         ),
         _document(
@@ -334,9 +437,11 @@ CASE = {
             Im Beschlusstext werden KURPFALZKLANG und MANNHEIM MODULAR mit ihren
             deutschen Registernummern genannt. RHEINPULS AUDIO erscheint nur in einem
             Klammerzusatz: „nach Anmeldung, sofern Finanzierung noch valutiert“. Eine
-            Anlage ist im Gesellschaftsordner nicht abgeheftet. Marlene Vogt und Janis
-            Heller haben das Protokoll unterschrieben; die Uhrzeit 18:40 Uhr wurde
-            handschriftlich ergänzt.
+            Anlage ist im Gesellschaftsordner nicht abgeheftet. Der Gesellschaftsordner
+            verzeichnet ein von Marlene Vogt und Janis Heller unterzeichnetes
+            Papierprotokoll mit handschriftlich ergänzter Uhrzeit 18:40 Uhr. Das
+            vorliegende DOCX ist dessen inhaltliche Abschrift und enthält keine
+            Abbildungen von Unterschriften oder Handschrift.
             """,
             """
             Der Beschluss enthält keine Wertangabe und keine Aussage zu einer bereits
@@ -349,7 +454,7 @@ CASE = {
         _document(
             "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
             "pdf",
-            "Unterzeichnete Vereinbarung über die Sicherungsübertragung von Markenrechten",
+            "Vertragsinhalt der Vereinbarung über die Sicherungsübertragung von Markenrechten",
             sections=[
                 _section(
                     "1. Präambel",
@@ -364,14 +469,16 @@ CASE = {
                     """,
                 ),
                 _section(
-                    "2. Gesicherte Ansprüche",
+                    "2. Gesicherte Ansprüche und Sicherungszweck",
                     """
                     Gesichert werden alle gegenwärtigen und künftigen Ansprüche aus dem
                     Darlehensvertrag vom 15. Februar 2024 bis zu einem Höchstbetrag von
                     300.000 Euro einschließlich Zinsen, Kosten und Aufwendungen der
                     Sicherheitenverwaltung. Rückgezahlte Beträge leben bei einem neuen
                     Abruf nur wieder auf, soweit der Darlehensvertrag einen solchen Abruf
-                    zulässt.
+                    zulässt. Dieser Forderungskreis ist der abschließende
+                    Sicherungszweck; andere gegenwärtige oder künftige Forderungen der
+                    Sicherheitennehmerin werden nicht einbezogen.
                     """,
                 ),
                 _section(
@@ -430,13 +537,15 @@ CASE = {
                     """,
                 ),
                 _section(
-                    "7. Unterschriftenvermerk",
+                    "7. Ausfertigungs- und Anlagenvermerk",
                     """
-                    Das vorliegende PDF enthält acht Seiten. Seite 7 endet mit § 7
-                    Schlussbestimmungen; Seite 8 trägt die drei Unterschriften vom
-                    15. Februar 2024. Unter der Unterschrift von Janis Heller steht
-                    „Anlage 1 erhalten“. Die beigefügte Anlage selbst weist keinen
-                    gesonderten Unterschriftsblock auf.
+                    Der Kreditaktenindex bezeichnet eine am 15. Februar 2024 von den
+                    Parteien unterzeichnete Papierausfertigung und vermerkt bei Janis
+                    Heller den Empfang von Anlage 1. Das vorliegende PDF gibt den
+                    Vertragsinhalt wieder, enthält aber weder die Papierausfertigung noch
+                    Abbildungen der Unterschriften. Anlage 1 liegt in der Arbeitsakte als
+                    gesonderte XLSX mit einem Schuldnerkürzel und ohne Unterschriftsblock
+                    der Darlehensgeberin vor.
                     """,
                 ),
             ],
@@ -488,12 +597,15 @@ CASE = {
             """
             Guten Morgen Herr Heller,
 
-            die erste Tranche über 180.000 Euro ist soeben angewiesen worden. Uns
-            liegen der Darlehensvertrag, die Sicherungsvereinbarung und Ihre
-            Markenliste mit dem Kürzel JH vor. Die Originale der beiden deutschen
-            Registerauszüge sollen nachgereicht werden. Für RHEINPULS AUDIO reicht uns
-            zunächst die im Antrag bezeichnete Nachanmeldungsklausel; bitte senden Sie
-            die Anmeldenummer unmittelbar nach Einreichung.
+            Ihren Textformabruf vom 16. Februar haben wir unter
+            KT-2024-021-T1 erfasst. Die erste Tranche über 180.000 Euro ist nach der
+            begrenzten Marktfolgefreigabe CP-KT-2024-021-T1 soeben mit Valuta heute
+            angewiesen worden. Uns liegen die Vertragsabschriften, die
+            Sicherungsvereinbarung und Ihre Markenliste mit dem Kürzel JH vor. Die
+            Originale der beiden deutschen Registerauszüge sollen nachgereicht werden.
+            Für RHEINPULS AUDIO reicht uns für diese Tranche zunächst die im Antrag
+            bezeichnete Nachanmeldungsklausel; bitte senden Sie die Anmeldenummer
+            unmittelbar nach Einreichung.
 
             Im Gespräch hatten Sie erwähnt, dass Hainblick in Nordbaden bevorzugt
             beliefert wird. In unserer Akte befindet sich dazu noch kein Vertrag. Ich
@@ -509,56 +621,262 @@ CASE = {
                 "05_Anlage_1_Markenbestand.xlsx",
             ),
         ),
+        _mail(
+            "06A_Abruf_Tranche_2_03-05-2024.eml",
+            "Textformabruf der zweiten Darlehenstranche",
+            "Janis Heller <janis.heller@kurpfalz-tonwerke.example>",
+            "Sonja Wieland <sonja.wieland@neckarbruecke-finanz.example>",
+            "Leila Werner <leila.werner@kurpfalz-tonwerke.example>; kreditakte@neckarbruecke-finanz.example",
+            "2024-05-03T10:11:00+02:00",
+            "KT-2024-021 – Abruf 2 über 40.000 EUR zum 07.05.2024",
+            """
+            Sehr geehrte Frau Wieland,
+
+            hiermit rufen wir weitere 40.000 Euro aus dem Kreditrahmen KT-2024-021 ab.
+            Gewünschte Valuta ist Dienstag, der 7. Mai 2024. Auszahlungskonto bleibt
+            DE21 6709 0010 8842 6170 03. Wir verwenden die Mittel für die
+            Vorfinanzierung der ersten Serie RP-01, insbesondere Audiointerfaces und
+            Gehäuseteile.
+
+            RHEINPULS AUDIO wurde am 9. April 2024 beim EUIPO angemeldet. Die
+            Anmeldenummer ist in unserer Markenverwaltung 018993742; den amtlichen
+            Anmeldebeleg hat die Markenkanzlei noch nicht an unsere Buchhaltung
+            übersandt. Die offenen Punkte aus Ihrer Freigabe vom 19. Februar bleiben
+            davon unberührt. Bitte teilen Sie uns mit, ob Sie für diesen Abruf weitere
+            Unterlagen benötigen.
+
+            Freundliche Grüße
+            Janis Heller
+            """,
+            attachments=("02_Darlehensvertrag_15-02-2024.pdf",),
+        ),
+        _document(
+            "06B_SEPA_Ausfuehrungsbelege_Tranchen.pdf",
+            "pdf",
+            "Bankseitiges Auszahlungsavis und SEPA-Ausführungsnachweise",
+            sections=[
+                _section(
+                    "1. Aussteller und Konten",
+                    """
+                    Rhein-Neckar Clearing AG, elektronischer Firmenkundenauszug für die
+                    Neckarbrücke Finanzierungs GmbH. Belastungskonto ist
+                    DE63 6725 0010 0091 4432 18. Empfängerkonto beider Zahlungen ist das
+                    im Darlehensvertrag bezeichnete Geschäftskonto der Kurpfalz Tonwerke
+                    GmbH, DE21 6709 0010 8842 6170 03. Der Auszug wurde am 8. Mai 2024
+                    unter der Export-ID RNC-KT-2024-021 erzeugt.
+                    """,
+                ),
+                _section(
+                    "2. Ausgeführte Überweisungen",
+                    """
+                    Beide Aufträge tragen den Status „endgültig gebucht“. Rückruf,
+                    Rücklastschrift oder Empfängerablehnung sind im Statusprotokoll bis
+                    zum Exportzeitpunkt nicht vermerkt. Die End-to-End-Referenzen stimmen
+                    mit dem Kreditkonto und den Gutschriften auf dem Schuldnerkonto
+                    überein.
+                    """,
+                    tables=[
+                        _table(
+                            ["Auftrag", "Einreichung", "Ausführung/Valuta", "Betrag EUR", "End-to-End-Referenz", "Bankreferenz", "Status"],
+                            [
+                                ["Tranche 1", "19.02.2024 08:46", "19.02.2024", 180000, "KT-2024-021-T1", "RNC240219084612771", "endgültig gebucht"],
+                                ["Tranche 2", "06.05.2024 15:18", "07.05.2024", 40000, "KT-2024-021-T2", "RNC240506151844203", "endgültig gebucht"],
+                            ],
+                        )
+                    ],
+                ),
+                _section(
+                    "3. Abstimmungsvermerk",
+                    """
+                    Summe der beiden Belastungen: 220.000 Euro. Summe der beiden
+                    Gutschriften im kreditrelevanten Bankauszug der Darlehensnehmerin:
+                    220.000 Euro. Differenz: 0 Euro. Der Nachweis belegt die Ausführung,
+                    nicht die Erfüllung sämtlicher Auszahlungsvoraussetzungen oder die
+                    rechtliche Wirksamkeit einer Sicherheit.
+                    """,
+                ),
+            ],
+        ),
         _csv(
             "07_Darlehenskonto_Neckarbruecke.csv",
             "Buchungsjournal der ursprünglichen Darlehensgeberin",
             ["Buchungstag", "Wertstellung", "Buchungstext", "Soll_EUR", "Haben_EUR", "Kapitalsaldo_EUR", "Hinweis"],
             [
-                ["19.02.2024", "19.02.2024", "Auszahlung Tranche 1", "180000.00", "0.00", "180000.00", "Vertrag 15.02.2024"],
-                ["07.05.2024", "07.05.2024", "Auszahlung Tranche 2", "40000.00", "0.00", "220000.00", "Abruf per Mail"],
+                ["19.02.2024", "19.02.2024", "Auszahlung Tranche 1", "180000.00", "0.00", "180000.00", "Abruf 02A; E2E KT-2024-021-T1"],
+                ["31.03.2024", "31.03.2024", "Vertragszins Q1/2024", "1512.00", "0.00", "180000.00", "180.000 x 7,20 % x 42/360"],
+                ["02.04.2024", "02.04.2024", "Zahlung Zinsen Q1", "0.00", "1512.00", "180000.00", "Zinskonto ausgeglichen"],
+                ["07.05.2024", "07.05.2024", "Auszahlung Tranche 2", "40000.00", "0.00", "220000.00", "Abruf 06A; E2E KT-2024-021-T2"],
+                ["30.06.2024", "30.06.2024", "Vertragszins Q2/2024", "3716.00", "0.00", "220000.00", "180.000 x 7,20 % x 36/360 + 220.000 x 7,20 % x 55/360"],
+                ["02.07.2024", "02.07.2024", "Zahlung Zinsen Q2", "0.00", "3716.00", "220000.00", "Zinskonto ausgeglichen"],
                 ["30.08.2024", "30.08.2024", "Tilgung", "0.00", "20000.00", "200000.00", "Verwendungszweck: Tilgung"],
-                ["30.09.2024", "30.09.2024", "Zinsen Q3", "3960.00", "0.00", "200000.00", "separates Zinskonto"],
-                ["02.10.2024", "02.10.2024", "Zahlung Zinsen", "0.00", "3960.00", "200000.00", "Kapitalsaldo unverändert"],
-                ["31.12.2024", "31.12.2024", "Zinsen Q4", "3600.00", "0.00", "200000.00", "separates Zinskonto"],
-                ["03.01.2025", "03.01.2025", "Zahlung Zinsen", "0.00", "3600.00", "200000.00", "Kapitalsaldo unverändert"],
-                ["31.03.2025", "31.03.2025", "Zahlung 7.500 EUR", "0.00", "7500.00", "200000.00", "als Zinsen/Kosten gebucht"],
-                ["31.07.2025", "31.07.2025", "Saldo bei Forderungsverkauf", "0.00", "0.00", "200000.00", "Zinsen gesondert 6.841,64 EUR"],
+                ["30.09.2024", "30.09.2024", "Vertragszins Q3/2024", "3920.00", "0.00", "200000.00", "220.000 x 7,20 % x 60/360 + 200.000 x 7,20 % x 32/360"],
+                ["02.10.2024", "02.10.2024", "Zahlung Zinsen Q3", "0.00", "3920.00", "200000.00", "Zinskonto ausgeglichen"],
+                ["31.12.2024", "31.12.2024", "Vertragszins Q4/2024", "3680.00", "0.00", "200000.00", "200.000 x 7,20 % x 92/360"],
+                ["03.01.2025", "03.01.2025", "Zahlung Zinsen Q4", "0.00", "3680.00", "200000.00", "Zinskonto ausgeglichen"],
+                ["31.03.2025", "31.03.2025", "Vertragszins Q1/2025", "3600.00", "0.00", "200000.00", "200.000 x 7,20 % x 90/360"],
+                ["31.03.2025", "31.03.2025", "Zahlung 7.500 EUR", "0.00", "7500.00", "200000.00", "Zahlungszweck Kapital; Gläubigerbuchung vollständig Zinsen/Kosten; Zuordnung streitig"],
+                ["31.07.2025", "31.07.2025", "Saldo bei Forderungsverkauf", "0.00", "0.00", "200000.00", "Gläubigerbehauptung: Zinsen/Kosten 6.841,64 EUR; neutrale Kontrolle in 07A"],
+            ],
+        ),
+        _xlsx(
+            "07A_Kreditkonto_und_Saldenstaffel.xlsx",
+            "Neutrale Kreditkonto- und Saldenstaffel mit Zuordnungsszenarien",
+            [
+                _sheet(
+                    "Objektive_Geldfluesse",
+                    ["Valuta", "Vorgang", "Auszahlung an Schuldnerin EUR", "Abfluss Schuldnerkonto EUR", "Zufluss Gläubigerkonto EUR", "Empfänger", "Primärbeleg", "Belegstatus"],
+                    [
+                        ["19.02.2024", "Tranche 1", 180000, 0, 0, "Kurpfalz Tonwerke", "06B SEPA; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["02.04.2024", "Zinszahlung Q1/2024", 0, 1512, 1512, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["07.05.2024", "Tranche 2", 40000, 0, 0, "Kurpfalz Tonwerke", "06B SEPA; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["02.07.2024", "Zinszahlung Q2/2024", 0, 3716, 3716, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["30.08.2024", "Tilgung", 0, 20000, 20000, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "Zuordnung Kapital unstreitig"],
+                        ["02.10.2024", "Zinszahlung Q3/2024", 0, 3920, 3920, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["03.01.2025", "Zinszahlung Q4/2024", 0, 3680, 3680, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "beidseitig belegt"],
+                        ["31.03.2025", "Zahlung mit Zweck bitte Kapital", 0, 7500, 7500, "Neckarbrücke", "07 Kreditjournal; 08 Schuldnerkonto", "Geldfluss belegt; Zuordnung streitig"],
+                        ["30.09.2025", "Zahlung nach Abtretungsanzeige", 0, 15000, 15000, "Neckarbrücke", "08 Schuldnerkonto; Empfangsangabe", "Belastung und Empfang belegt"],
+                        ["10.10.2025", "Weiterleitung gleicher Betrag", 0, 0, 15000, "Rebenpfad", "08 Empfängerkonto; 15 Gläubigerkonto", "Eingang belegt; Schuldnerbezug bestritten"],
+                    ],
+                    "Auszahlungen sind keine negativen Zahlungen. Die Weiterleitung vom 10.10.2025 ist kein zweiter Geldabfluss der Schuldnerin. Sie steht deshalb nur in der Spalte Zufluss Gläubigerkonto.",
+                ),
+                _sheet(
+                    "Zinsstaffel_bis_3107",
+                    ["Periode von", "bis ausschließlich", "Tage act/360", "Kapital EUR", "Rechenweg", "Vertragszins EUR", "Fälligkeit", "Zahlung/Status"],
+                    [
+                        ["19.02.2024", "01.04.2024", 42, 180000, "180.000 x 7,20 % x 42/360", 1512, "31.03.2024", "1.512 am 02.04.2024"],
+                        ["01.04.2024", "07.05.2024", 36, 180000, "180.000 x 7,20 % x 36/360", 1296, "30.06.2024", "Teil Q2"],
+                        ["07.05.2024", "01.07.2024", 55, 220000, "220.000 x 7,20 % x 55/360", 2420, "30.06.2024", "Q2 gesamt 3.716; Zahlung 02.07."],
+                        ["01.07.2024", "30.08.2024", 60, 220000, "220.000 x 7,20 % x 60/360", 2640, "30.09.2024", "Teil Q3"],
+                        ["30.08.2024", "01.10.2024", 32, 200000, "200.000 x 7,20 % x 32/360", 1280, "30.09.2024", "Q3 gesamt 3.920; Zahlung 02.10."],
+                        ["01.10.2024", "01.01.2025", 92, 200000, "200.000 x 7,20 % x 92/360", 3680, "31.12.2024", "Zahlung 03.01.2025"],
+                        ["01.01.2025", "01.04.2025", 90, 200000, "200.000 x 7,20 % x 90/360", 3600, "31.03.2025", "Zahlung 7.500; Zuordnung streitig"],
+                    ],
+                    "Valutatag ist erster Tag des neuen Saldos; bis-Datum ist nicht mitgezählt. Jede Zeile lässt sich aus Vertrag, Kalendertagen und Kapitalstand nachrechnen.",
+                ),
+                _sheet(
+                    "Szenarien_31_07_2025",
+                    ["Szenario", "Behandlung Zahlung 7.500", "Kapital 31.07. EUR", "offener Zins 31.07. EUR", "Gesamt 31.07. EUR", "Kontrollhinweis"],
+                    [
+                        ["A Schuldnerweisung", "7.500 vollständig Kapital; Q1-Zins bleibt offen", 192500, 8258.50, 200758.50, "3.600 Q1 + 3.503,50 Q2 (91 Tage) + 1.155 Juli"],
+                        ["B Vertragskaskade", "3.600 Q1-Zins; Rest 3.900 Kapital", 196100, 4745.62, 200845.62, "3.569,02 Q2 (91 Tage) + 1.176,60 Juli"],
+                        ["C Gläubigerkonto", "7.500 vollständig Zinsen/Kosten; Kapital unverändert", 200000, 6841.64, 206841.64, "act/360 ab 01.04. ergibt 4.840; Differenz 2.001,64 unbelegt"],
+                    ],
+                    "Die Tabelle entscheidet die rechtliche Zuordnung nicht. Sie trennt nachrechenbare Rechenfolgen von der im Forderungskauf übernommenen Gläubigerbuchung.",
+                ),
+                _sheet(
+                    "Zahlung_15_000",
+                    ["Datum", "Kontoereignis", "Betrag EUR", "Referenz", "Objektiver Befund", "offene Rechts-/Buchungsfrage"],
+                    [
+                        ["30.09.2025", "Belastung Schuldnerkonto an Neckarbrücke", 15000, "Darlehen Tilgung / Abstimmung SW", "Abfluss belegt", "Wirkung trotz Abtretungsanzeige"],
+                        ["10.10.2025", "Gutschrift Rebenpfad von Neckarbrücke", 15000, "Kaufpreisabrechnung Portfolio KT", "Zufluss belegt", "Identität mit Schuldnerzahlung und Wertstellung"],
+                        ["10.10.2025", "Buchung Rebenpfad auf Portfoliokonto", 15000, "nicht Schuldnerkonto", "keine Forderungsminderung gebucht", "Weiterleitungsklausel aus Forderungskauf"],
+                    ],
+                    "Betragsgleichheit, zeitlicher Zusammenhang und Portfolio-Kürzel sind Indizien, ersetzen aber das fehlende Weiterleitungsavis der Neckarbrücke nicht.",
+                ),
+                _sheet(
+                    "Szenarien_04_03_2026",
+                    ["Szenario", "Kapital EUR", "Zinsen bis 01.01.2026 EUR", "Zinsen 01.01.–04.03. EUR", "Kosten EUR", "Gesamt EUR", "Rechenkontrolle"],
+                    [
+                        ["A Schuldnerweisung", 177500, 13908.50, 2201, 450, 194059.50, "177.500 x 7,20 % x 62/360 = 2.201"],
+                        ["B Vertragskaskade", 188238.04, 3501.23, 2334.15, 450, 194523.42, "188.238,04 x 7,20 % x 62/360 = 2.334,15"],
+                        ["C Gläubigerkonto", 200000, 12810, 2480, 450, 215740, "200.000 x 7,20 % x 62/360 = 2.480"],
+                    ],
+                    "Szenario B wendet die Zahlung vom 30.09.2025 zunächst auf bis dahin errechnete Zinsen von 7.138,04 EUR und mit 7.861,96 EUR auf Kapital an. Alle Perioden werden einzeln auf Cent gerundet.",
+                ),
+                _sheet(
+                    "Kontrollsummen",
+                    ["Kontrolle", "Soll EUR", "Ist EUR", "Differenz EUR", "Ergebnis"],
+                    [
+                        ["Darlehensauszahlungen laut Abrufen/SEPA", 220000, 220000, 0, "stimmt"],
+                        ["Gutschriften Schuldnerkonto", 220000, 220000, 0, "stimmt"],
+                        ["Zinsen Q1 bis Q4/2024 nach act/360", 12828, 12828, 0, "stimmt mit Zahlungen"],
+                        ["Unstreitige Kapitaltilgung 30.08.2024", 20000, 20000, 0, "stimmt"],
+                        ["Zahlung 31.03.2025 Geldfluss", 7500, 7500, 0, "nur Zuordnung offen"],
+                        ["Zahlung 30.09./Weiterleitung 10.10.2025", 15000, 15000, 0, "Forderungsgutschrift offen"],
+                        ["Gläubigerzins 31.07. minus act/360 bei Gläubigerzuordnung", 6841.64, 4840, 2001.64, "nicht abgestimmt"],
+                    ],
+                    "Kontrollsummen belegen Geldflüsse und Rechenwege, nicht die rechtliche Entscheidung zwischen den Zuordnungsszenarien.",
+                ),
             ],
         ),
         _document(
             "08_Kontoauszuege_Schuldnerin.pdf",
             "pdf",
-            "Auszüge des Geschäftskontos der Kurpfalz Tonwerke GmbH",
-            """
-            Konto DE21 6709 0010 8842 6170 03, Kontoinhaberin Kurpfalz Tonwerke GmbH.
-            Am 19. Februar 2024 wird eine Gutschrift über 180.000 Euro mit dem Text
-            „Neckarbrücke / Darlehen Tranche 1“ ausgewiesen. Am 7. Mai 2024 folgt eine
-            Gutschrift über 40.000 Euro. Der Kontoauszug vom 30. August 2024 enthält
-            eine Überweisung von 20.000 Euro an die Neckarbrücke Finanzierungs GmbH mit
-            dem Verwendungszweck „Tilgung Darlehen 150224“.
-            """,
-            """
-            Am 31. März 2025 werden 7.500 Euro an dieselbe Empfängerin überwiesen. Im
-            maschinellen Verwendungszweck steht „Tilgung 1/2025, bitte Kapital“. Das
-            Darlehenskonto der Empfängerin behandelt den Betrag gleichwohl als
-            Zins- und Kostenzahlung. Eine schriftliche Umbuchungsbestätigung befindet
-            sich nicht bei den Kontoauszügen.
-            """,
-            """
-            Am 30. September 2025, fünf Wochen nach der angezeigten Forderungsabtretung,
-            gehen weitere 15.000 Euro an die Neckarbrücke Finanzierungs GmbH. Der
-            Verwendungszweck lautet „Darlehen Tilgung / Abstimmung SW“. Der Betrag wird
-            am selben Tag belastet. Ein Rücklauf ist nicht vermerkt. Auf dem Konto der
-            Rebenpfad Sicherheiten GmbH erscheint am 10. Oktober 2025 ein Betrag von
-            15.000 Euro der Neckarbrücke mit dem Text „Kaufpreisabrechnung Portfolio
-            KT“, nicht mit einer Schuldnerreferenz.
-            """,
-            """
-            Die Auszüge wurden am 4. September 2026 von der früheren Buchhalterin Leila
-            Werner aus dem Onlinearchiv exportiert. Auf Seite 6 fehlt zwischen dem 29.
-            und 31. März 2025 eine fortlaufende Seitennummer; die Buchungszeile über
-            7.500 Euro ist dennoch vollständig lesbar.
-            """,
+            "Kontotypischer Archivexport des Geschäftskontos der Kurpfalz Tonwerke GmbH",
+            sections=[
+                _section(
+                    "1. Konto- und Exportangaben",
+                    """
+                    Kurpfalzbank eG, BIC KUPFDE66XXX. Kontoinhaberin ist die Kurpfalz
+                    Tonwerke GmbH; IBAN DE21 6709 0010 8842 6170 03. Der PDF-Export
+                    KPB-ARCHIV-20260904-771 umfasst die nachfolgend bezeichneten
+                    Originalauszugsseiten aus dem Onlinearchiv. Er wurde am 4. September
+                    2026 von Leila Werner erzeugt. Buchungstag, Valuta, End-to-End-Referenz,
+                    Anfangs- und Endsaldo werden unverändert aus den Archivdatensätzen
+                    wiedergegeben.
+                    """,
+                    tables=[
+                        _table(
+                            ["Auszug", "Zeitraum", "Anfangssaldo EUR", "Endsaldo EUR", "Seitenstatus"],
+                            [
+                                ["2024/02-04", "16.02.–19.02.2024", 74320.18, 203504.36, "vollständig"],
+                                ["2024/04-01", "01.04.–02.04.2024", 112444.10, 110932.10, "vollständig"],
+                                ["2024/05-02", "06.05.–08.05.2024", 58410.22, 87702.38, "vollständig"],
+                                ["2024/07-01", "01.07.–02.07.2024", 166201.77, 162485.77, "vollständig"],
+                                ["2024/08-11", "29.08.–30.08.2024", 131440.91, 109327.54, "vollständig"],
+                                ["2024/10-01", "01.10.–02.10.2024", 122800.00, 117294.22, "vollständig"],
+                                ["2025/01-01", "02.01.–03.01.2025", 108933.45, 105253.45, "vollständig"],
+                                ["2025/03-06", "29.03.–31.03.2025", 97310.55, 87755.20, "vollständig"],
+                                ["2025/09-18", "29.09.–30.09.2025", 83110.18, 65684.09, "vollständig"],
+                            ],
+                        )
+                    ],
+                ),
+                _section(
+                    "2. Kreditrelevante Originalbuchungszeilen",
+                    """
+                    Nicht kreditbezogene Umsätze der jeweiligen kurzen Auszugszeiträume
+                    bleiben auf den Originalseiten erhalten, werden in dieser
+                    Kontrolltabelle aber nicht nochmals aufgelistet. Die angegebenen
+                    Anfangs- und Endsalden beziehen sich jeweils auf die vollständige
+                    Auszugsseite und sind deshalb keine bloßen Teilsalden.
+                    """,
+                    tables=[
+                        _table(
+                            ["Buchung", "Valuta", "Soll EUR", "Haben EUR", "Buchungstext", "End-to-End-Referenz", "Auszug"],
+                            [
+                                ["19.02.2024", "19.02.2024", "", 180000, "Neckarbrücke / Darlehen Tranche 1", "KT-2024-021-T1", "2024/02-04"],
+                                ["02.04.2024", "02.04.2024", 1512, "", "Zins KT-2024-021 Q1", "KT-2024-021-ZQ1", "2024/04-01"],
+                                ["07.05.2024", "07.05.2024", "", 40000, "Neckarbrücke / Darlehen Tranche 2", "KT-2024-021-T2", "2024/05-02"],
+                                ["02.07.2024", "02.07.2024", 3716, "", "Zins KT-2024-021 Q2", "KT-2024-021-ZQ2", "2024/07-01"],
+                                ["30.08.2024", "30.08.2024", 20000, "", "Tilgung Darlehen 150224", "KT-2024-021-TILG1", "2024/08-11"],
+                                ["02.10.2024", "02.10.2024", 3920, "", "Zins KT-2024-021 Q3", "KT-2024-021-ZQ3", "2024/10-01"],
+                                ["03.01.2025", "03.01.2025", 3680, "", "Zins KT-2024-021 Q4", "KT-2024-021-ZQ4", "2025/01-01"],
+                                ["31.03.2025", "31.03.2025", 7500, "", "Tilgung 1/2025, bitte Kapital", "KT-2024-021-TILG2", "2025/03-06"],
+                                ["30.09.2025", "30.09.2025", 15000, "", "Darlehen Tilgung / Abstimmung SW", "KT-2024-021-TILG3", "2025/09-18"],
+                            ],
+                        )
+                    ],
+                ),
+                _section(
+                    "3. Empfängerseitiger Kontrollbeleg vom 10. Oktober 2025",
+                    """
+                    Der von Rebenpfad für die Kontenabstimmung bereitgestellte
+                    Buchungszeilenexport ihres Kontos weist am 10. Oktober 2025 eine
+                    Gutschrift von 15.000 Euro durch Neckarbrücke aus. Der Text lautet
+                    „Kaufpreisabrechnung Portfolio KT“, End-to-End-Referenz
+                    „NB-PORT-KT-1010“. Die Betragsgleichheit und der zeitliche Zusammenhang
+                    sind belegt; eine ausdrückliche Schuldnerreferenz oder ein
+                    Weiterleitungsavis fehlt.
+                    """,
+                    tables=[
+                        _table(
+                            ["Buchung", "Valuta", "Haben EUR", "Auftraggeber", "Referenz", "Status"],
+                            [["10.10.2025", "10.10.2025", 15000, "Neckarbrücke Finanzierungs GmbH", "NB-PORT-KT-1010", "endgültig gebucht"]],
+                        )
+                    ],
+                ),
+            ],
         ),
         _document(
             "09_Registerauszug_KURPFALZKLANG.pdf",
@@ -703,8 +1021,9 @@ CASE = {
                     Unternehmensfinanzierungen. Für die Finanzierung der Kurpfalz
                     Tonwerke GmbH ist der wirtschaftliche Übergang auf den 31. Juli 2025
                     festgelegt. Die Abtretungen sollen mit Zahlung des anteiligen
-                    Kaufpreises eintreten. Die Verkäuferin bestätigt den Zahlungseingang
-                    in einem Vollzugsvermerk vom 25. August 2025.
+                    Kaufpreises eintreten. Ausführung und Eingang des anteiligen
+                    Kaufpreises sowie der Eintritt der Vollzugsbedingung werden gesondert
+                    im Bank- und Closingbeleg vom 25. August 2025 dokumentiert.
                     """,
                 ),
                 _section(
@@ -740,14 +1059,16 @@ CASE = {
                     """,
                 ),
                 _section(
-                    "4. Erklärungen und Unterschriften",
+                    "4. Erklärungen und Ausfertigungsvermerk",
                     """
                     Die Verkäuferin erklärt, keine Marke verwertet oder freigegeben zu
                     haben. Sie weist darauf hin, dass die Register weiterhin die
-                    Schuldnerin nennen. Für Rebenpfad unterzeichnen Pauline Roth und
-                    Tarek Mansour; für Neckarbrücke Sonja Wieland und Armin Chandra. Der
-                    Vollzugsvermerk ist nur von Armin Chandra und Pauline Roth
-                    unterzeichnet.
+                    Schuldnerin nennen. Der Vertragsindex bezeichnet Papierausfertigungen
+                    mit Pauline Roth und Tarek Mansour für Rebenpfad sowie Sonja Wieland
+                    und Armin Chandra für Neckarbrücke. Das vorliegende PDF ist eine
+                    Inhaltsabschrift ohne Abbildungen dieser Unterschriften. Der
+                    elektronische Vollzug ist in Dokument 13A, die übergebene Kreditakte
+                    in Dokument 13B festgehalten.
                     """,
                 ),
             ],
@@ -758,6 +1079,98 @@ CASE = {
                         ["KT-2024-021", 200000, 6841.64, "zwei DE-Marken; RHEINPULS AUDIO ohne Nummer"],
                     ],
                 )
+            ],
+        ),
+        _document(
+            "13A_Zessionsvollzug_und_Kaufpreisbeleg_25-08-2025.pdf",
+            "pdf",
+            "Bankbeleg und Closingbestätigung zum Forderungskauf",
+            sections=[
+                _section(
+                    "1. Bedingung und Zahlungsauftrag",
+                    """
+                    Nach Ziffer 2.3 des Forderungskaufvertrags tritt die Abtretung mit
+                    Eingang des anteiligen Kaufpreises ein. Rebenpfad wies am 25. August
+                    2025 um 09:02 Uhr 164.000 Euro von ihrem Konto
+                    DE44 5465 0010 0028 7719 04 an Neckarbrücke an. Der Auftrag trägt die
+                    End-to-End-Referenz RP-NB-KT-2024-021-CLOSE.
+                    """,
+                    tables=[
+                        _table(
+                            ["Auftraggeberin", "Empfängerin", "Betrag EUR", "Ausführung/Valuta", "Bankreferenz", "Status"],
+                            [["Rebenpfad Sicherheiten GmbH", "Neckarbrücke Finanzierungs GmbH", 164000, "25.08.2025", "WBP250825090217644", "endgültig gebucht"]],
+                        )
+                    ],
+                ),
+                _section(
+                    "2. Empfängergutschrift und Bedingungseintritt",
+                    """
+                    Der Firmenkontoauszug der Neckarbrücke weist die Gutschrift am
+                    25. August 2025 um 11:31 Uhr mit Valuta desselben Tages und identischer
+                    End-to-End-Referenz aus. Der gemeinsame Closinglog setzt den
+                    Bedingungseintritt auf 11:35 Uhr. Rechtlicher Vollzug ist danach der
+                    25. August 2025 um 11:35 Uhr; der vertragliche wirtschaftliche Stichtag
+                    bleibt der 31. Juli 2025.
+                    """,
+                    tables=[
+                        _table(
+                            ["Kontrolle", "Soll EUR", "Ist EUR", "Differenz EUR", "Zeitstempel"],
+                            [
+                                ["anteiliger Kaufpreis KT-2024-021", 164000, 164000, 0, "Gutschrift 25.08.2025 11:31"],
+                                ["Vollzugsbedingung Kaufpreiszahlung", 164000, 164000, 0, "Closinglog 25.08.2025 11:35"],
+                            ],
+                        )
+                    ],
+                ),
+                _section(
+                    "3. Reichweite des Belegs",
+                    """
+                    Der Beleg weist den Zahlungsfluss und den vertraglich bestimmten
+                    Vollzugszeitpunkt nach. Er bestätigt nicht die Höhe der verkauften
+                    Forderung, die richtige Behandlung der Zahlung über 7.500 Euro oder
+                    die Bestimmtheit der ohne Registernummer bezeichneten Unionsmarke.
+                    Die übertragenen Aktenbestandteile und Lücken stehen in Dokument 13B.
+                    """,
+                ),
+            ],
+        ),
+        _xlsx(
+            "13B_Kreditaktenuebergabe_25-08-2025.xlsx",
+            "Übergabeprotokoll der Kredit- und Sicherheitenakte KT-2024-021",
+            [
+                _sheet(
+                    "Uebergabeliste",
+                    ["Nr.", "Aktenbestandteil", "Format/Stand", "übergeben", "Prüfhinweis Rebenpfad"],
+                    [
+                        [1, "Darlehensvertrag 15.02.2024", "Papieroriginal laut Neckarbrücke-Index; digitale Inhaltsabschrift", "25.08.2025", "Signaturabbildung nicht Teil des Datenexports"],
+                        [2, "Sicherungsabrede 15.02.2024", "Papieroriginal laut Index; digitale Inhaltsabschrift", "25.08.2025", "Anlage gesondert prüfen"],
+                        [3, "Anlage 1 Markenbestand", "XLSX mit JH-Kürzel; mehrere Fassungen", "25.08.2025", "RHEINPULS ohne Nummer in ursprünglicher Fassung"],
+                        [4, "Abrufe Tranche 1 und 2", "EML 16.02. und 03.05.2024", "25.08.2025", "Textform und Beträge stimmen"],
+                        [5, "CP-Check Tranche 1", "XLSX 19.02.2024", "25.08.2025", "begrenzte Waiver; offene Unterlagen"],
+                        [6, "SEPA-Ausführungsbelege", "Bankexport bis 08.05.2024", "25.08.2025", "Valutierung 220.000 EUR belegt"],
+                        [7, "Kreditjournal und Zinsabrechnungen", "CSV; Kontoauszüge", "25.08.2025", "Zahlung 7.500 EUR anders bezeichnet als gebucht"],
+                        [8, "Amtliche Registerunterlagen", "zwei DE-Ausdrucke", "25.08.2025", "keine Umschreibung"],
+                        [9, "EUIPO-Anmeldebeleg RHEINPULS", "nicht in Kreditakte", "nein", "Nummer aus Schuldnermail, Primärbeleg fehlt"],
+                        [10, "Versicherungsabtretung", "nicht in Kreditakte", "nein", "offener CP-Punkt"],
+                        [11, "Hainblick-Vertrag", "nicht in Kreditakte", "nein", "Lizenz-/Gebietsschutzrisiko"],
+                    ],
+                    "Übergeben wurde ein verschlüsselter Export mit Index KT-2024-021-TRANSFER-01. Fehlende Unterlagen bleiben ausdrücklich als fehlend gekennzeichnet.",
+                ),
+                _sheet(
+                    "Uebergabekontrolle",
+                    ["Feld", "Wert"],
+                    [
+                        ["Export bereitgestellt", "25.08.2025 12:06 CET"],
+                        ["Download Rebenpfad abgeschlossen", "25.08.2025 12:41 CET"],
+                        ["Dateien laut Manifest", 18],
+                        ["Dateien technisch übertragen", 18],
+                        ["Differenz", 0],
+                        ["Manifest-Hash", "SHA256 5d7e61d9...b214"],
+                        ["Quittierende Rollen", "Armin Chandra / Pauline Roth"],
+                        ["Vorbehalt", "keine Saldenbestätigung und keine Bestätigung der Wirksamkeit einzelner Sicherheiten"],
+                    ],
+                    "Die Namensangabe dokumentiert die elektronische Freigabe im Closinglog; die Arbeitsmappe enthält keine Bildsignaturen.",
+                ),
             ],
         ),
         _mail(
@@ -788,7 +1201,36 @@ CASE = {
             Freundliche Grüße
             Pauline Roth
             """,
-            attachments=("13_Forderungskauf_18-08-2025.pdf",),
+            attachments=(
+                "13_Forderungskauf_18-08-2025.pdf",
+                "13A_Zessionsvollzug_und_Kaufpreisbeleg_25-08-2025.pdf",
+            ),
+        ),
+        _mail(
+            "14A_Empfangsbestaetigung_Glaeubigerwechsel.eml",
+            "Empfangsbestätigung der Schuldnerin zur Abtretungsanzeige",
+            "Janis Heller <janis.heller@kurpfalz-tonwerke.example>",
+            "Pauline Roth <pauline.roth@rebenpfad-sicherheiten.example>",
+            "kreditservice@neckarbruecke-finanz.example; Leila Werner <leila.werner@kurpfalz-tonwerke.example>",
+            "2025-08-26T09:08:00+02:00",
+            "AW: Darlehen KT-2024-021 – neuer Gläubiger und Sicherheitenverwaltung",
+            """
+            Sehr geehrte Frau Roth,
+
+            wir bestätigen den Eingang Ihrer Nachricht vom 25. August 2025 nebst
+            Forderungskaufvertrag. Unsere Kreditorenstammdaten werden auf das von Ihnen
+            mitgeteilte Konto umgestellt. Diese Empfangsbestätigung ist keine Anerkennung
+            des genannten Saldos; unsere Buchhaltung gleicht insbesondere die Zahlung vom
+            31. März 2025 noch ab.
+
+            Bitte richten Sie künftige Zinsabrechnungen zusätzlich an Frau Werner. Die
+            laufende Nutzung der Marken setzen wir entsprechend Ihrer Mitteilung zunächst
+            fort.
+
+            Freundliche Grüße
+            Janis Heller
+            """,
+            attachments=("14_Anzeige_Forderungsabtretung.eml",),
         ),
         _xlsx(
             "15_Forderungskonto_Rebenpfad.xlsx",
@@ -808,7 +1250,7 @@ CASE = {
                         ["01.09.2026", "Gesamt", 200000, 22974, 0, "ohne Gutschrift 15.000", 200000],
                     ],
                     "Der Eingang vom 10.10.2025 wurde im Portfoliokauf-Verrechnungskonto erfasst. Ob er wirtschaftlich eine von der Schuldnerin geleistete Tilgung weiterleitete, ist in dieser Arbeitsmappe nicht entschieden.",
-                    "Die Zinsfortschreibung enthält keine Tagerechnung im Tabellenblatt; als Grundlage wird eine separate Systemauswertung genannt, die nicht in der Akte liegt.",
+                    "Dieses Blatt bildet die unveränderte Parteibuchung von Rebenpfad ab. Die davon getrennte act/360-Nachrechnung und Kontrollsumme steht in 07A_Kreditkonto_und_Saldenstaffel.xlsx.",
                 ),
                 _sheet(
                     "Gegenrechnung_Schuldnerin",
@@ -821,6 +1263,18 @@ CASE = {
                         ["Kapital nach Sicht Schuldnerin", 177500, "Mail 17", "bestritten"],
                     ],
                     "Die Gegenrechnung bildet eine Parteidarstellung ab und ist keine Freigabe oder Saldenbestätigung.",
+                ),
+                _sheet(
+                    "Kontrollabgleich",
+                    ["Stichtag/Position", "Rebenpfad EUR", "neutrale Kontrolle EUR", "Differenz EUR", "Einordnung"],
+                    [
+                        ["Kapital 31.07.2025 – Szenario Schuldnerweisung", 200000, 192500, 7500, "Zuordnung Zahlung 31.03. streitig"],
+                        ["Kapital 31.07.2025 – Vertragskaskade", 200000, 196100, 3900, "Q1-Zins 3.600; Rest Kapital"],
+                        ["Zinsen/Kosten 31.07.2025 bei Gläubigerzuordnung", 6841.64, 4840, 2001.64, "Kosten-/Rechenbeleg fehlt"],
+                        ["Zahlung 30.09./Eingang 10.10.2025", 0, 15000, -15000, "keine Forderungsgutschrift trotz Geldeingang"],
+                        ["Zins 31.07.–31.12.2025 bei 200.000 Kapital", 5968.36, 6160, -191.64, "act/360: 154 Tage"],
+                    ],
+                    "Die Kontrollwerte stammen aus Dokument 07A. Negative Differenzen bedeuten nicht automatisch ein Guthaben; sie markieren ungeklärte Parteibuchungen.",
                 ),
                 _sheet(
                     "Sicherheiten",
@@ -843,22 +1297,158 @@ CASE = {
             Schreiben vom 15. Februar 2026 mit, dass das Darlehen am 31. Dezember 2025
             endfällig geworden sei. Ausgewiesen werden 200.000 Euro Kapital, 12.810
             Euro Zinsen bis zum 31. Dezember 2025 und 450 Euro Kosten. Die Zahlung soll
-            bis zum 1. März 2026 auf das Konto der Rebenpfad Sicherheiten GmbH erfolgen.
+            bis zum Ablauf des 3. März 2026 auf das Konto der Rebenpfad Sicherheiten GmbH
+            erfolgen. Die Frist entspricht zehn Bankarbeitstagen nach dem im
+            Versandprotokoll ausgewiesenen Zugang am 17. Februar 2026.
             """,
             """
             Das Schreiben verweist auf die Sicherungsübertragung der Marken. Es
-            kündigt an, nach fruchtlosem Ablauf der Frist Verwertungsmöglichkeiten zu
-            prüfen und die Rücklizenz zu widerrufen. Eine konkrete Art der Verwertung
-            oder ein bestimmter Erwerber wird nicht genannt. Zugleich bietet Rebenpfad
-            ein Gespräch über einen geordneten Verkauf einzelner Produktlinien an.
+            kündigt an, nach fruchtlosem Ablauf der Frist eine konkrete
+            Verwertungsankündigung zu übersenden. Zugleich bietet Rebenpfad ein Gespräch
+            über eine abgestimmte Kontenklärung und einen geordneten Verkauf einzelner
+            Produktlinien an. Die Zahlungsaufforderung selbst widerruft die Rücklizenz
+            noch nicht und legt noch keine Verwertungsart fest.
             """,
             """
             Im letzten Absatz heißt es, die Annahme von Teilzahlungen stelle weder eine
-            Stundung noch eine Freigabe von Sicherheiten dar. Das Schreiben ist von
-            Pauline Roth und Tarek Mansour unterzeichnet. Der Einlieferungsbeleg weist
-            eine Zustellung am 17. Februar 2026 aus; zusätzlich wurde am 15. Februar
-            eine PDF-Fassung per E-Mail an Janis Heller gesandt.
+            Stundung noch eine Freigabe von Sicherheiten dar. Der Versandindex nennt
+            Pauline Roth und Tarek Mansour als elektronisch freigebende Personen. Das
+            vorliegende DOCX ist die Inhaltsabschrift ohne Unterschriftsbilder. Versand
+            und Zugang werden gemeinsam mit dem späteren Sicherungsfallschreiben im
+            Zustellstatus 16C dokumentiert.
             """,
+        ),
+        _document(
+            "16A_Sicherungsfall_und_Verwertungsankuendigung_04-03-2026.pdf",
+            "pdf",
+            "Sicherungsfall und konkrete Ankündigung des Verwertungsverfahrens",
+            sections=[
+                _section(
+                    "1. Eintritt der Verwertungsreife",
+                    """
+                    Rebenpfad erklärt gegenüber der Kurpfalz Tonwerke GmbH am 4. März
+                    2026, das Darlehen sei seit dem 31. Dezember 2025 endfällig. Die am
+                    17. Februar 2026 zugestellte Zahlungsaufforderung habe eine Nachfrist
+                    bis zum Ablauf des 3. März 2026 gesetzt. Bis 4. März 2026, 08:00 Uhr,
+                    sei weder auf dem Forderungskonto noch auf dem in der
+                    Zahlungsaufforderung genannten Bankkonto eine weitere Zahlung
+                    eingegangen. Rebenpfad beruft sich daher auf Ziffer 5 der
+                    Sicherungsabrede.
+                    """,
+                ),
+                _section(
+                    "2. Saldo und ausdrücklich offener Zuordnungskonflikt",
+                    """
+                    Rebenpfad verfolgt ihren Buchsaldo, kennzeichnet jedoch die Zahlungen
+                    vom 31. März und 30. September 2025 sowie die Zinskontrolle als
+                    streitig. Selbst die niedrigeren neutralen Rechenszenarien weisen am
+                    4. März 2026 eine erhebliche unbezahlte Hauptforderung aus. Die
+                    Verwertungsankündigung enthält deshalb keine Saldenanerkennung der
+                    Schuldnerin und nimmt der Kontenabstimmung nicht vorweg.
+                    """,
+                    tables=[
+                        _table(
+                            ["Position/Szenario", "Kapital EUR", "Zinsen EUR", "Kosten EUR", "Gesamt EUR", "Status"],
+                            [
+                                ["Buchsaldo Rebenpfad 04.03.2026", 200000, 15290, 450, 215740, "bestritten; 12.810 bis 31.12. plus 2.480 act/360"],
+                                ["Neutral A – Schuldnerweisung", 177500, 16109.50, 450, 194059.50, "7.500 und 15.000 als Kapital; Zinsen offen"],
+                                ["Neutral B – Vertragskaskade", 188238.04, 5835.38, 450, 194523.42, "Zahlungen zuerst auf fällige Zinsen"],
+                            ],
+                        )
+                    ],
+                ),
+                _section(
+                    "3. Beabsichtigte Art und Zeit der Verwertung",
+                    """
+                    Rebenpfad kündigt einen dokumentierten beschränkten Bieterprozess für
+                    die in Anlage 1 bezeichneten Marken an. Ab 7. März 2026 sollen nach
+                    Vertraulichkeitsvereinbarung mindestens fünf strategische Erwerber
+                    angesprochen werden. Verbindliche Angebote sind bis 18. März 2026,
+                    12:00 Uhr, einzuholen. Eine unabhängige indikative Bewertung und eine
+                    Gegenüberstellung sämtlicher Angebote sollen der Entscheidung
+                    vorausgehen. Ein Zuschlag oder freihändiger Verkauf soll frühestens am
+                    20. März 2026 und nur zum wirtschaftlich besten nachvollziehbaren
+                    Angebot erfolgen.
+                    """,
+                    """
+                    Kurpfalz Tonwerke kann bis zur Zuschlagsentscheidung durch vollständige
+                    Zahlung oder eine schriftliche Stillhaltevereinbarung die Verwertung
+                    abwenden. Die Rücklizenz wird nicht sofort widerrufen; ein Widerruf
+                    wird für den Zeitpunkt eines wirksamen Übertragungsvertrags angekündigt.
+                    Die bestehende Hainblick-Lizenz und die offene Reichweite hinsichtlich
+                    RHEINPULS AUDIO sind jedem Bieter offenzulegen.
+                    """,
+                ),
+                _section(
+                    "4. Freigabe und Versandfassung",
+                    """
+                    Der Versandindex nennt Pauline Roth und Tarek Mansour als am 4. März
+                    2026 um 08:31 Uhr elektronisch freigebende Personen. Diese PDF-Fassung
+                    enthält gedruckte Namen und Funktionen, aber keine Abbildungen
+                    handschriftlicher Unterschriften. Versandweg, Nachrichten-ID und
+                    Zustellereignisse stehen in den E-Mails 16B und 16C.
+                    """,
+                ),
+            ],
+        ),
+        _mail(
+            "16B_Versand_Sicherungsfallschreiben.eml",
+            "Versand des Sicherungsfallschreibens an die Schuldnerin",
+            "Pauline Roth <pauline.roth@rebenpfad-sicherheiten.example>",
+            "Janis Heller <janis.heller@kurpfalz-tonwerke.example>",
+            "Leila Werner <leila.werner@kurpfalz-tonwerke.example>; Tarek Mansour <tarek.mansour@rebenpfad-sicherheiten.example>",
+            "2026-03-04T08:46:00+01:00",
+            "KT-2024-021 – Sicherungsfall und Verwertungsverfahren",
+            """
+            Sehr geehrter Herr Heller,
+
+            nach fruchtlosem Ablauf der bis gestern gesetzten Nachfrist übersenden wir
+            das beigefügte Sicherungsfallschreiben. Darin bezeichnen wir die beabsichtigte
+            Art und den Zeitplan der Verwertung. Der niedrigste aus der neutralen
+            Saldenstaffel folgende Betrag bleibt erheblich offen; die Kontenstreitigkeiten
+            über 7.500 Euro, 15.000 Euro und die Zinsbuchungen werden ausdrücklich nicht
+            vorweggenommen.
+
+            Eine gleichlautende Papierfassung ist heute unter
+            NBX-RS-20260304-77291 an den Geschäftssitz versandt worden. Bitte teilen Sie
+            uns bis 9. März mit, ob Sie eine vollständige Zahlung, eine
+            Stillhaltevereinbarung oder einen abgestimmten Unternehmensverkauf erörtern
+            wollen.
+
+            Freundliche Grüße
+            Pauline Roth
+            """,
+            attachments=(
+                "16A_Sicherungsfall_und_Verwertungsankuendigung_04-03-2026.pdf",
+                "07A_Kreditkonto_und_Saldenstaffel.xlsx",
+            ),
+        ),
+        _mail(
+            "16C_Zustellnachweis_Sicherungsfallschreiben.eml",
+            "Elektronischer Zustellstatus der Zahlungsaufforderung und Verwertungsankündigung",
+            "Kurier Nordbaden Statusdienst <status@kurier-nordbaden.example>",
+            "Pauline Roth <pauline.roth@rebenpfad-sicherheiten.example>",
+            "Tarek Mansour <tarek.mansour@rebenpfad-sicherheiten.example>",
+            "2026-03-05T10:18:00+01:00",
+            "Zustellstatus KT-2024-021 / NBX-RS-20260304-77291",
+            """
+            Automatischer Zustellbericht für Rebenpfad Sicherheiten GmbH.
+
+            Vorgang NBX-EIN-20260216-18314, Zahlungsaufforderung KT-2024-021:
+            eingeliefert 16.02.2026 09:12 Uhr; zugestellt am Geschäftssitz der Kurpfalz
+            Tonwerke GmbH am 17.02.2026 10:06 Uhr; angenommen von Leila Werner,
+            Empfangsberechtigte; Status endgültig.
+
+            Vorgang NBX-RS-20260304-77291, Sicherungsfall und
+            Verwertungsankündigung: eingeliefert 04.03.2026 09:03 Uhr; zugestellt am
+            Geschäftssitz am 05.03.2026 10:11 Uhr; angenommen von Leila Werner,
+            Empfangsberechtigte; Status endgültig.
+
+            Die elektronischen Ereignisprotokolle sind unter den genannten Vorgängen im
+            Kundenkonto archiviert. Dieser Statusbericht bestätigt Übergabe, Inhalt oder
+            rechtliche Wirkung der Sendungen werden vom Zustelldienst nicht geprüft.
+            """,
+            attachments=(),
         ),
         _mail(
             "17_Einwendungen_Schuldnerin.eml",
@@ -1004,8 +1594,11 @@ CASE = {
             15. Februar 2024 und der zusammen mit ihr übertragenen Sicherheiten. Dazu
             gehören nach unserer Akte die Marken KURPFALZKLANG, MANNHEIM MODULAR und
             RHEINPULS AUDIO. Der zum Eröffnungsstichtag geführte Gesamtsaldo beträgt
-            222.974 Euro. Die Schuldnerin hat einzelne Buchungen bestritten; unsere
-            Rechte an den Sicherheiten bleiben davon unberührt.
+            nach unserem Forderungskonto 222.974 Euro. Die beigefügte neutrale
+            Saldenstaffel weist wegen der streitigen Zahlungen und abweichender
+            Zinsbuchungen niedrigere Kontrollszenarien aus. Wir behaupten deshalb nicht,
+            dass der Buchsaldo bereits abgestimmt ist; eine erhebliche unbezahlte
+            Hauptforderung besteht in sämtlichen Szenarien.
 
             Wir widersprechen vorsorglich jeder Verfügung oder Belastung der Marken
             ohne unsere vorherige ausdrückliche schriftliche Zustimmung. Das gilt auch
@@ -1023,8 +1616,11 @@ CASE = {
             """,
             attachments=(
                 "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
+                "07A_Kreditkonto_und_Saldenstaffel.xlsx",
                 "13_Forderungskauf_18-08-2025.pdf",
+                "13A_Zessionsvollzug_und_Kaufpreisbeleg_25-08-2025.pdf",
                 "15_Forderungskonto_Rebenpfad.xlsx",
+                "16A_Sicherungsfall_und_Verwertungsankuendigung_04-03-2026.pdf",
             ),
         ),
         _mail(
@@ -1215,8 +1811,8 @@ CASE = {
                     "Ordner_4_3",
                     ["Datei", "eingestellt", "Version", "Hinweis im Datenraum"],
                     [
-                        ["Sicherungsuebertragung_15-02-2024.pdf", "05.09.2026", "Scan 8 Seiten", "Rechtsposition Rebenpfad bestritten"],
-                        ["Anlage_1_Markenbestand.xlsx", "05.09.2026", "zwei Tabellenblätter", "abweichende Registernummer beachten"],
+                        ["Sicherungsuebertragung_15-02-2024.pdf", "05.09.2026", "Inhaltsabschrift; Papieroriginal nur im Aktenindex", "keine Signaturabbildungen; Rechtsposition bestritten"],
+                        ["Anlage_1_Markenbestand.xlsx", "05.09.2026", "drei Tabellenblätter", "abweichende Registernummer beachten"],
                         ["Forderungskauf_18-08-2025.pdf", "06.09.2026", "vollständig", "RHEINPULS ohne Nummer"],
                         ["Anzeige_Rebenpfad_04-09-2026.pdf", "06.09.2026", "Maildruck", "keine Freigabe erklärt"],
                         ["Hainblick_Vertrag.docx", "08.09.2026", "Vertrag plus Mailausdruck", "Lizenzumfang offen"],

@@ -473,7 +473,8 @@ CASE["documents"].extend(
                         ["15.03.2023", "Darlehen und IP-Sicherungsvertrag", "Rhenusbank / Kurpfalz Taxware", "05_Finanzierung_Sicherheiten/01_Darlehensvertrag_Rhenusbank.pdf", "Register- und Repository-Bezug"],
                         ["01.02.2024", "Sicherungsabtretung Lizenzforderungen", "Rhenusbank / Kurpfalz Taxware", "05_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx", "Kundenanzeigen"],
                         ["01.05.2024", "Arbeitsbeginn Nina Scholl", "Kurpfalz Taxware / Scholl", "03_Personal_Rechtekette/05_Arbeitsvertrag_Nina_Scholl.docx", "ReceiptCam-Anlage"],
-                        ["11.08.2026", "Zahlungsstockung und Stillhaltebitte", "Kurpfalz Taxware / Rhenusbank", "Bankvermerk", "vollständige Liquiditätsunterlagen"],
+                        ["11.08.2026", "Zahlungsstockung und Stillhaltebitte", "Kurpfalz Taxware / Rhenusbank", "05_Finanzierung_Sicherheiten/19_Mahnung_Stillhaltebitte_und_Bankantwort.pdf", "insolvenzrechtliche Wirkung der erbetenen Stillhaltung"],
+                        ["19.08.2026", "Kündigung, Fälligstellung und Verwertungsanzeige", "Rhenusbank / Kurpfalz Taxware / vorläufige Verwalterin", "05_Finanzierung_Sicherheiten/20_Kuendigung_Faelligstellung_Verwertungsanzeige.pdf", "Durchsetzung und Erlöszuordnung bleiben rechtlich zu prüfen"],
                         ["15.09.2026", "Eröffnung Insolvenzverfahren", "AG Heidelberg / Dr. Mohn", "06_Insolvenz_AssetDeal/01_Insolvenzeroeffnungsbeschluss_AG_Heidelberg.pdf", "Rechtskraftvermerk"],
                         ["07.10.2026", "Open-Source-Scan exportiert", "Verwalterteam / CodeAudit Süd", "02_Unternehmen_Produkt/06_SBOM_Open_Source.xlsx", "AGPL-Treffer"],
                         ["12.10.2026", "Bewertung abgeschlossen", "Bergstraße Advisory", "06_Insolvenz_AssetDeal/03_Bewertung_Software_und_Vertraege.pdf", "Annahmen zur Rechtekette"],
@@ -545,7 +546,7 @@ CASE["documents"].extend(
                 _section(
                     "Darlehensbetrag und Auszahlung",
                     "Die Bank stellt einen Betrag von 2.400.000,00 EUR bereit. Die Auszahlung erfolgt nach Erfüllung der in Anlage 1 bezeichneten Auszahlungsvoraussetzungen in zwei Tranchen auf das Geschäftskonto der Darlehensnehmerin bei der Heidelberger Volksbank.",
-                    "Tranche 1 über 1.600.000,00 EUR wurde für Cloud-Migration und Entwicklungsleistungen, Tranche 2 über 800.000,00 EUR für Produktlaunch und Vertriebsausbau vorgesehen. Nicht verwendete Beträge sind auf Anforderung zurückzuführen.",
+                    "Tranche 1 über 1.600.000,00 EUR ist für Cloud-Migration und Entwicklungsleistungen, Tranche 2 über 800.000,00 EUR für Produktlaunch und Vertriebsausbau vorgesehen. Nicht verwendete Beträge sind auf Anforderung zurückzuführen.",
                 ),
                 _section(
                     "Laufzeit und Tilgung",
@@ -553,7 +554,7 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "Zinsen und Kosten",
-                    "Der Nominalzins beträgt 5,40 Prozent jährlich und ist quartalsweise nachträglich zahlbar. Bei Zahlungsverzug gilt der vertragliche Zinssatz zuzüglich fünf Prozentpunkten, soweit nicht ein niedrigerer Schaden nachgewiesen wird. Ein einmaliges Bearbeitungsentgelt von 18.000,00 EUR wurde bei erster Auszahlung verrechnet.",
+                    "Der Nominalzins beträgt 5,40 Prozent jährlich und ist quartalsweise nachträglich zahlbar. Bei Zahlungsverzug gilt der vertragliche Zinssatz zuzüglich fünf Prozentpunkten, soweit nicht ein niedrigerer Schaden nachgewiesen wird. Ein einmaliges Bearbeitungsentgelt von 18.000,00 EUR ist am Valutatag der ersten Tranche als gesonderte Kontobelastung zu zahlen; es mindert nicht den Kapitalabruf.",
                 ),
                 _section(
                     "Verwendungsnachweise",
@@ -594,20 +595,6 @@ CASE["documents"].extend(
                     "Heidelberg, 15.03.2023 — Kurpfalz Taxware GmbH, Martin Reuter, handschriftlich unterzeichnet. Der Scan enthält die Paraphen aller Unterzeichnenden auf den Anlagen 1 bis 4.",
                 ),
             ],
-            tables=[
-                {
-                    "title": "Auszahlung und Tilgungsstand laut Bankstempel",
-                    "headers": ["Vorgang", "Datum", "Betrag EUR", "Hinweis"],
-                    "rows": [
-                        ["Auszahlung Tranche 1", "20.03.2023", 1600000, "Valuta Geschäftskonto"],
-                        ["Auszahlung Tranche 2", "03.07.2023", 800000, "nach Mittelverwendungsnachweis"],
-                        ["Tilgungen 2024", "30.06.–31.12.2024", -150000, "drei Raten; Septemberrate gestundet bis Oktober"],
-                        ["Tilgungen 2025", "31.03.–31.12.2025", -200000, "vier Raten"],
-                        ["Tilgung 2026", "31.03.2026", -50000, "Junirate offen"],
-                        ["Kapitalstand", "15.09.2026", 2000000, "ohne Zinsen und Kosten"],
-                    ],
-                }
-            ],
         ),
         _doc(
             "05_Finanzierung_Sicherheiten/02_Sicherungsvertrag_IP.docx",
@@ -620,8 +607,8 @@ CASE["documents"].extend(
                     "Die Parteien bezeichnen die Sicherheitenbestellung als ergänzende Kreditsicherheit. Besitz, Betrieb und gewöhnliche Kundenlizenzierung sollen bis zu einem Verwertungsereignis bei der Sicherungsgeberin verbleiben.",
                 ),
                 _section(
-                    "Gesicherte Ansprüche",
-                    "Gesichert sind sämtliche gegenwärtigen, künftigen und bedingten Ansprüche der Bank gegen die Sicherungsgeberin aus dem Darlehensvertrag, seiner Durchführung, Kündigung und Rückabwicklung einschließlich Zinsen, Kosten und angemessener Rechtsverfolgungskosten. Die Haftungsobergrenze der Sicherheit beträgt 3.200.000,00 EUR zuzüglich Verwertungskosten.",
+                    "Sicherungszweck und gesicherte Ansprüche",
+                    "Sicherungszweck ist die Sicherung sämtlicher gegenwärtigen, künftigen und bedingten Ansprüche der Bank gegen die Sicherungsgeberin aus dem Darlehensvertrag RK-2023-4471, seiner Durchführung, Kündigung und Rückabwicklung einschließlich Zinsen, Kosten und angemessener Rechtsverfolgungskosten. Die Haftungsobergrenze der Sicherheit beträgt 3.200.000,00 EUR zuzüglich Verwertungskosten.",
                 ),
                 _section(
                     "Bezeichnete Software",
@@ -728,8 +715,8 @@ CASE["documents"].extend(
                     "Vereinbarung vom 1. Februar 2024 zwischen der Kurpfalz Taxware GmbH als Zedentin und der Rhenus Kreditbank AG als Zessionarin. Die Parteien beziehen sich auf das Darlehen RK-2023-4471 und stellen fest, dass dieser Vertrag die Forderungssicherheit gesondert vom IP-Sicherungsvertrag regelt.",
                 ),
                 _section(
-                    "Gesicherte Forderungen der Bank",
-                    "Gesichert sind alle gegenwärtigen, künftigen und bedingten Ansprüche der Bank aus der gesamten Geschäftsverbindung mit der Zedentin, insbesondere Kapital, Zinsen, Kosten und Rückabwicklungsansprüche aus dem Darlehen RK-2023-4471.",
+                    "Sicherungszweck und gesicherte Forderungen der Bank",
+                    "Sicherungszweck der Abtretung ist die Sicherung aller gegenwärtigen, künftigen und bedingten Ansprüche der Bank aus der gesamten Geschäftsverbindung mit der Zedentin, insbesondere Kapital, Zinsen, Kosten und Rückabwicklungsansprüche aus dem Darlehen RK-2023-4471.",
                 ),
                 _section(
                     "Abgetretene Kundenforderungen",
@@ -962,6 +949,490 @@ CASE["documents"].extend(
                         ["Sparkasse ...3390", "Kurpfalz Taxware GmbH", "eingeschränkt", "Dr. Mohn / Kanzlei", 12908.44, "teilweise"],
                         ["Massekonto ...8841", "Dr. Mohn für Kurpfalz Taxware", "aktiv", "Dr. Mohn", 217443.09, "keine Einzelzuordnung"],
                         ["Rhenus Sicherheitenkonto ...2208", "Rhenus Kreditbank AG", "kein Zahlungseingang", "Rhenus Kreditbank", 0, "in Offenlegungsentwurf genannt"],
+                    ],
+                },
+            ],
+        ),
+    ]
+)
+
+
+CASE["documents"].extend(
+    [
+        _xlsx(
+            "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx",
+            "Anlage 1 zum Darlehensvertrag – Auszahlungsvoraussetzungen und Freigaben",
+            [
+                {
+                    "name": "Tranche_1",
+                    "headers": ["Nr.", "Auszahlungsvoraussetzung", "Sollbeleg", "Fundstelle/Eingang", "Status", "Waiver/Restpunkt", "Prüfer", "Freigabe"],
+                    "rows": [
+                        [1, "Darlehensvertrag RK-2023-4471 und Anlagen 1 bis 4 beiderseits unterzeichnet", "gegenseitige Ausfertigung", "Kreditakte K-01; 15.03.2023", "erfüllt", "kein Vorbehalt", "Jan Küster, 16.03.2023", ""],
+                        [2, "IP-Sicherungsvertrag samt Anlagen S-1 bis S-3 beiderseits unterzeichnet", "Vertrag und Anlagen", "Sicherheitenakte S-01; 15.03.2023", "erfüllt", "Repository-Pfadabgleich bleibt laufende Informationspflicht", "Silke Brandt, 16.03.2023", ""],
+                        [3, "Kontoguthabenpfandrecht und Kontoverbindung der Darlehensnehmerin bestätigt", "Pfandanzeige und Kontobestätigung", "Sicherheitenakte S-04; HVoba-Bestätigung 16.03.2023", "erfüllt", "Pfandurkunde ist nicht Bestandteil der vorliegenden IP-Prüfakte", "Jan Küster, 16.03.2023", ""],
+                        [4, "Geschäftsführerbefugnis und Gesellschafterzustimmung für Kreditaufnahme", "Registerauszug und Gesellschafterbeschluss", "Legal K-03/K-04; 16.03.2023", "erfüllt", "kein Vorbehalt", "Beate Abele, 16.03.2023", ""],
+                        [5, "Budget Cloud-Migration und Entwicklung mindestens 1.600.000 EUR", "Budget FP-MIG-2023-02", "Finance K-05; 16.03.2023", "erfüllt", "Mittelumschichtungen über zehn Prozent bleiben zustimmungspflichtig", "Silke Brandt, 16.03.2023", ""],
+                        [6, "Abruf über 1.600.000 EUR mit Empfängerkonto und Verwendungszweck", "Abrufschreiben der Darlehensnehmerin", "05_Finanzierung_Sicherheiten/13_Abruf_Tranche_1.eml; 16.03.2023", "erfüllt", "kein Vorbehalt", "Jan Küster, 17.03.2023", ""],
+                        [7, "Einzugsermächtigung für Bearbeitungsentgelt 18.000 EUR", "gesonderte Belastungsermächtigung", "Abrufmail Ziffer 3; 16.03.2023", "erfüllt", "Gebühr mindert den Bruttokapitalabruf nicht", "Jan Küster, 17.03.2023", ""],
+                        [8, "Keine Kündigungstatsache, kein Insolvenzantrag und keine wesentliche nachteilige Veränderung", "Geschäftsführerbestätigung", "Compliance K-07; 16.03.2023", "erfüllt", "Kenntnisstand nur bis Freigabe", "Beate Abele, 17.03.2023", ""],
+                        [9, "Vier-Augen-Freigabe der Bank", "Freigabevermerk", "Zahlungsworkflow PAY-2023-0317-44", "erfüllt", "Ausführung frühestens 20.03.2023", "Silke Brandt / Beate Abele, 17.03.2023", "17.03.2023, 15:42"],
+                        ["Kontrolle", "", "", "", "=COUNTIF(E6:E14,\"erfüllt\")+COUNTIF(E6:E14,\"erfüllt mit dokumentierter Abweichung\")+COUNTIF(E6:E14,\"verzichtet\")", "9 von 9 Voraussetzungen müssen entschieden sein", "=COUNTA(G6:G14)", "=IF(AND(E15=9,G15=9),\"Freigabefähig\",\"Sperre\")"],
+                    ],
+                },
+                {
+                    "name": "Tranche_2",
+                    "headers": ["Nr.", "Auszahlungsvoraussetzung", "Sollbeleg", "Fundstelle/Eingang", "Status", "Waiver/Restpunkt", "Prüfer", "Freigabe"],
+                    "rows": [
+                        [1, "Ordnungsgemäßer Abruf über 800.000 EUR mindestens einen Bankarbeitstag vor Auszahlung", "Abrufmail", "05_Finanzierung_Sicherheiten/16_Abruf_Tranche_2.eml; 30.06.2023", "erfüllt", "Ausführung am folgenden Bankarbeitstag", "Jan Küster, 30.06.2023", ""],
+                        [2, "Mindestens 1.350.000 EUR förderfähige Verwendung der ersten Tranche nachgewiesen", "Mittelverwendungsübersicht und Belegliste", "05_Finanzierung_Sicherheiten/15_Verwendungsnachweis_Tranche_1.pdf; 29.06.2023", "erfüllt", "anerkannt 1.438.600 EUR; Marketingrechnung 42.000 EUR nicht angerechnet", "Silke Brandt, 30.06.2023", ""],
+                        [3, "Cloud-Migrationsmeilenstein M2 technisch abgenommen", "Abnahmeprotokoll M2", "Tech CP-2.3; 28.06.2023", "erfüllt", "kein Vorbehalt", "Beate Abele, 30.06.2023", ""],
+                        [4, "Aktualisiertes Budget für Produktlaunch und Vertriebsausbau", "Budget FP-LAUNCH-2023-06", "Finance CP-2.4; 29.06.2023", "erfüllt", "Budgetobergrenzen bleiben verbindlich", "Silke Brandt, 30.06.2023", ""],
+                        [5, "Original des Provider-Abnahmebelegs über 76.000 EUR", "Originalrechnung und Abnahme", "Scan vollständig; Original beim Provider angefordert", "verzichtet", "Einmaliger schriftlicher Waiver WA-2023-06-02 vom 30.06.2023; Original bis 14.07.2023 nachzureichen; keine Änderung von Zusicherungen", "Silke Brandt / Beate Abele, 30.06.2023", ""],
+                        [6, "BWA, Liquiditätsstatus und wiederkehrender Jahresumsatz zum 31.05.2023", "Finanzreporting", "Reporting CP-2.6; 29.06.2023", "erfüllt", "kein Vorbehalt", "Jan Küster, 30.06.2023", ""],
+                        [7, "Keine fällige Vertragsverletzung und kein Insolvenzantrag", "Geschäftsführerbestätigung", "Compliance CP-2.7; 30.06.2023", "erfüllt", "Kenntnisstand bis Freigabe", "Beate Abele, 30.06.2023", ""],
+                        [8, "Aktualisierte Repository- und Backupbestätigung", "Hashliste Q2/2023 und Verwahrerbestätigung", "Tech CP-2.8; 29.06.2023", "erfüllt mit dokumentierter Abweichung", "Receipt-Capture-Repository noch nicht angelegt; nach Anlage S-2 nicht Auszahlungshindernis", "Jan Küster, 30.06.2023", ""],
+                        [9, "Vier-Augen-Freigabe der Bank", "Freigabevermerk", "Zahlungsworkflow PAY-2023-0630-19", "erfüllt", "Bruttovaluta 800.000 EUR; keine weitere Gebühr", "Silke Brandt / Beate Abele, 30.06.2023", "30.06.2023, 15:42"],
+                        ["Kontrolle", "", "", "", "=COUNTIF(E6:E14,\"erfüllt\")+COUNTIF(E6:E14,\"erfüllt mit dokumentierter Abweichung\")+COUNTIF(E6:E14,\"verzichtet\")", "9 von 9 Voraussetzungen müssen entschieden sein", "=COUNTA(G6:G14)", "=IF(AND(E15=9,G15=9),\"Freigabefähig\",\"Sperre\")"],
+                    ],
+                },
+                {
+                    "name": "Freigabeprotokoll",
+                    "headers": ["Tranche", "Abruf", "Bruttokapital EUR", "Gebühr EUR", "Netto-Liquidität EUR", "CP-Kontrolle", "Freigabe", "Ausführung"],
+                    "rows": [
+                        [1, "16.03.2023", 1600000, 18000, "=C6-D6", "=Tranche_1!H14", "Silke Brandt / Beate Abele, 17.03.2023", "20.03.2023"],
+                        [2, "30.06.2023", 800000, 0, "=C7-D7", "=Tranche_2!H14", "Silke Brandt / Beate Abele, 30.06.2023", "03.07.2023"],
+                        ["Kontrolle", "", "=SUM(C6:C7)", "=SUM(D6:D7)", "=SUM(E6:E7)", "", "Bruttokapital = Netto-Liquidität + Gebühr", "=IF(C8=E8+D8,\"OK\",\"FEHLER\")"],
+                    ],
+                },
+            ],
+        ),
+        _mail(
+            "05_Finanzierung_Sicherheiten/13_Abruf_Tranche_1.eml",
+            "Abruf der ersten Darlehenstranche",
+            sender="Martin Reuter <finance@kurpfalz-taxware.example>",
+            to=["Silke Brandt <silke.brandt@rhenus-kreditbank.example>"],
+            cc=["Nora Schenk <nora.schenk@kurpfalz-taxware.example>", "kreditauszahlung@rhenus-kreditbank.example"],
+            date="Thu, 16 Mar 2023 10:24:00 +0100",
+            subject="RK-2023-4471 – Abruf Tranche 1 über 1.600.000 EUR",
+            body=(
+                "Sehr geehrte Frau Brandt,\n\nnamens der Kurpfalz Taxware GmbH rufe ich aus dem "
+                "gestern unterzeichneten Darlehen RK-2023-4471 die erste Tranche in Höhe von "
+                "1.600.000,00 EUR mit Valuta 20. März 2023 ab. Bitte schreiben Sie die Bruttovaluta "
+                "dem Geschäftskonto IBAN DE44 6729 0000 0044 7711 02 bei der Heidelberger Volksbank "
+                "gut. Verwendungszweck sind die Cloud-Migration und die Entwicklungsleistungen gemäß "
+                "Budget FP-MIG-2023-02.\n\nWir ermächtigen die Bank, das Bearbeitungsentgelt von "
+                "18.000,00 EUR am selben Valutatag gesondert auf diesem Geschäftskonto zu belasten. "
+                "Der Kapitalabruf beträgt unverändert 1.600.000,00 EUR; nach der separaten "
+                "Gebührenbuchung verbleibt ein Netto-Liquiditätszufluss von 1.582.000,00 EUR.\n\n"
+                "Wir bestätigen, dass die Angaben in der beigefügten CP-Liste vollständig sind und "
+                "uns seit Unterzeichnung kein Kündigungsgrund, Insolvenzantrag oder eine wesentliche "
+                "nachteilige Veränderung bekannt geworden ist.\n\nMit freundlichen Grüßen\nMartin Reuter\nGeschäftsführer"
+            ),
+            attachments=["05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx"],
+        ),
+        _doc(
+            "05_Finanzierung_Sicherheiten/14_Auszahlungsanzeigen_und_SEPA_Belege.pdf",
+            "pdf",
+            "Auszahlungsanzeigen und SEPA-Ausführungsbelege der Rhenus Kreditbank",
+            sections=[
+                _section(
+                    "Kreditkonto und Prüfzweck",
+                    "Bankbestätigung der Rhenus Kreditbank AG für Darlehen RK-2023-4471. Die nachstehenden Buchungen trennen die Bruttoziehungen auf dem Darlehenskonto, die Zahlungen auf das Geschäftskonto und das gesondert belastete Bearbeitungsentgelt.",
+                    "Die Bestätigung wurde am 4. Juli 2023 aus dem Zahlungsverkehrssystem erstellt und am 5. Juli 2023 von Silke Brandt und Beate Abele im Vier-Augen-Prinzip unterzeichnet. Sie ersetzt keine Prüfung der in Anlage 1 dokumentierten Auszahlungsvoraussetzungen.",
+                ),
+                _section(
+                    "Erste Tranche",
+                    "Nach Freigabe PAY-2023-0317-44 wurde das Darlehenskonto am 20. März 2023 mit 1.600.000,00 EUR belastet. Unter der End-to-End-Referenz RK20234471T1 wurde derselbe Bruttobetrag dem Geschäftskonto der Kurpfalz Taxware GmbH gutgeschrieben.",
+                    "Das Bearbeitungsentgelt von 18.000,00 EUR wurde am selben Tag als eigene Belastungsbuchung ENTG-RK2023-4471 auf dem Geschäftskonto vereinnahmt. Es reduzierte weder den Kapitalabruf noch die Darlehenshauptforderung. Der Netto-Liquiditätszufluss aus den beiden Kontobuchungen betrug 1.582.000,00 EUR.",
+                ),
+                _section(
+                    "Zweite Tranche",
+                    "Nach Freigabe PAY-2023-0630-19 wurde das Darlehenskonto am 3. Juli 2023 mit weiteren 800.000,00 EUR belastet. Der Betrag wurde unter der End-to-End-Referenz RK20234471T2 vollständig dem Geschäftskonto gutgeschrieben. Eine weitere Gebühr wurde nicht erhoben.",
+                ),
+                _section(
+                    "Kontrollvermerk",
+                    "Bruttoziehungen: 1.600.000,00 EUR plus 800.000,00 EUR gleich 2.400.000,00 EUR. Kontogutschriften: 2.400.000,00 EUR. Gesonderte Gebührenbelastung: 18.000,00 EUR. Gesamter Netto-Liquiditätszufluss: 2.382.000,00 EUR.",
+                    "Die Buchungsreferenzen wurden mit den Kontoauszügen 21/2023 und 76/2023 der Heidelberger Volksbank abgeglichen. Rückruf oder Rücklastschrift sind im Bankjournal nicht verzeichnet.",
+                ),
+            ],
+            tables=[
+                {
+                    "title": "Ausführungsjournal",
+                    "headers": ["Valuta", "Vorgang", "Darlehenskonto EUR", "Geschäftskonto EUR", "Referenz", "Status"],
+                    "rows": [
+                        ["20.03.2023", "Bruttoauszahlung Tranche 1", 1600000, 1600000, "RK20234471T1", "ausgeführt 09:18"],
+                        ["20.03.2023", "Bearbeitungsentgelt", 0, -18000, "ENTG-RK2023-4471", "gebucht 09:19"],
+                        ["03.07.2023", "Bruttoauszahlung Tranche 2", 800000, 800000, "RK20234471T2", "ausgeführt 08:44"],
+                        ["Kontrolle", "", 2400000, 2382000, "Differenz 18.000 EUR = Gebühr", "abgestimmt"],
+                    ],
+                }
+            ],
+        ),
+        _doc(
+            "05_Finanzierung_Sicherheiten/15_Verwendungsnachweis_Tranche_1.pdf",
+            "pdf",
+            "Mittelverwendungs- und CP-Nachweis für die zweite Tranche",
+            sections=[
+                _section(
+                    "Erklärung und Zeitraum",
+                    "Von der Kurpfalz Taxware GmbH am 29. Juni 2023 unterzeichnete Mittelverwendungsübersicht für den Zeitraum 20. März bis 28. Juni 2023. Bezug: Darlehen RK-2023-4471, Budget FP-MIG-2023-02 und Auszahlungsvoraussetzungen der zweiten Tranche.",
+                    "Geschäftsführer Martin Reuter und Prokuristin Nora Schenk bestätigen, dass die gelisteten Aufwendungen bezahlt oder zur Zahlung freigegeben, der Cloud-Migration beziehungsweise Entwicklung zugeordnet und nicht bereits in einer anderen Nachweisposition enthalten sind.",
+                ),
+                _section(
+                    "Bankprüfung",
+                    "Die Bank erkannte Belege über 1.438.600,00 EUR als vertragsgemäße Mittelverwendung an. Eine Marketingrechnung über 42.000,00 EUR wurde wegen fehlender Zuordnung zur Cloud-Migration oder Entwicklung nicht angerechnet.",
+                    "Für einen Provider-Abnahmebeleg über 76.000,00 EUR lag ein vollständiger Scan vor; das Original sollte bis 14. Juli 2023 nachgereicht werden. Silke Brandt und Beate Abele genehmigten am 30. Juni 2023 den einmaligen Waiver WA-2023-06-02 nur hinsichtlich der Vorlage des Originals. Zusicherungen, Verwendungsbindung und Nachlieferungspflicht blieben unberührt.",
+                ),
+                _section(
+                    "Meilenstein und Freigabe",
+                    "Das technische Abnahmeprotokoll M2 vom 28. Juni 2023 bestätigt die Migration der Entwicklungs- und Testumgebung, den Parallelbetrieb des Regelkerns und die Wiederanlaufprobe. Die Bank bewertete damit die CP-Schwelle von 1.350.000,00 EUR und den technischen Meilenstein als erfüllt.",
+                    "Diese Prüfung bestätigt die dokumentierte Verwendung für den Auszahlungsvorgang. Sie ist keine abschließende Anerkennung sämtlicher Kosten als förderfähig, bilanziell aktivierbar oder frei von Rechten Dritter.",
+                ),
+            ],
+            tables=[
+                {
+                    "title": "Anerkannte Mittelverwendung",
+                    "headers": ["Beleggruppe", "Zeitraum", "Eingereicht EUR", "Anerkannt EUR", "Prüfhinweis"],
+                    "rows": [
+                        ["Cloudprovider und Datenmigration", "03–06/2023", 524800, 524800, "einschließlich Providerbeleg 76.000 EUR mit Original-Waiver"],
+                        ["Interne Entwicklungskosten", "03–06/2023", 486400, 486400, "Projektzeiten Tax Core und Mittelstand"],
+                        ["Externe Entwicklung und Tests", "03–06/2023", 236900, 236900, "Rechnungen und Abnahmen vorhanden"],
+                        ["Security, CI/CD und Entwicklungswerkzeuge", "03–06/2023", 190500, 190500, "Budgetgruppe Technik"],
+                        ["Marketing Produktlaunch", "06/2023", 42000, 0, "nicht auf CP-Schwelle angerechnet"],
+                        ["Summe", "", 1480600, 1438600, "CP-Schwelle 1.350.000 EUR überschritten"],
+                    ],
+                }
+            ],
+        ),
+        _mail(
+            "05_Finanzierung_Sicherheiten/16_Abruf_Tranche_2.eml",
+            "Abruf der zweiten Darlehenstranche mit Mittelverwendungsnachweis",
+            sender="Martin Reuter <finance@kurpfalz-taxware.example>",
+            to=["Silke Brandt <silke.brandt@rhenus-kreditbank.example>"],
+            cc=["Nora Schenk <nora.schenk@kurpfalz-taxware.example>", "kreditauszahlung@rhenus-kreditbank.example"],
+            date="Fri, 30 Jun 2023 09:11:00 +0200",
+            subject="RK-2023-4471 – Abruf Tranche 2 über 800.000 EUR / CP-Nachweise",
+            body=(
+                "Sehr geehrte Frau Brandt,\n\nwir rufen die zweite Tranche des Darlehens "
+                "RK-2023-4471 in Höhe von 800.000,00 EUR mit Valuta am 3. Juli 2023 ab. Bitte "
+                "überweisen Sie die Bruttovaluta ohne weiteren Gebührenabzug auf das bereits "
+                "bestätigte Geschäftskonto bei der Heidelberger Volksbank. Die Mittel werden für "
+                "Produktlaunch und Vertriebsausbau nach Budget FP-LAUNCH-2023-06 eingesetzt.\n\n"
+                "Beigefügt sind die fortgeschriebene Anlage 1 und der unterzeichnete Nachweis über "
+                "1.438.600,00 EUR anerkannte Verwendung der ersten Tranche. Hinsichtlich des "
+                "Providerbelegs über 76.000,00 EUR bitten wir ausschließlich für das Papieroriginal "
+                "um den in der Checkliste beschriebenen befristeten Waiver; der vollständige Scan "
+                "liegt vor.\n\nWir bestätigen, dass keine andere Auszahlungsvoraussetzung offen ist "
+                "und seit der ersten Auszahlung kein Kündigungsgrund oder Insolvenzantrag eingetreten "
+                "ist.\n\nMit freundlichen Grüßen\nMartin Reuter\nGeschäftsführer"
+            ),
+            attachments=[
+                "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx",
+                "05_Finanzierung_Sicherheiten/15_Verwendungsnachweis_Tranche_1.pdf",
+            ],
+        ),
+        _doc(
+            "05_Finanzierung_Sicherheiten/17_Schuldnerkontoauszug_Valuta.pdf",
+            "pdf",
+            "Kontoauszüge der Darlehensnehmerin zu den Darlehensvaluten",
+            sections=[
+                _section(
+                    "Konto und Herkunft",
+                    "Auszüge 21/2023 und 76/2023 des Geschäftskontos der Kurpfalz Taxware GmbH bei der Heidelberger Volksbank, IBAN DE44 6729 0000 0044 7711 02. Elektronischer Zweitauszug vom 5. Juli 2023 mit institutsseitiger Dokument-ID HVB-KTW-2023-771102.",
+                    "Dargestellt sind nur die für die Kreditvalutierung maßgeblichen Buchungen und die jeweiligen Tagessalden. Sonstige Umsätze des Geschäftskontos wurden im Datenraum aus Datenschutz- und Prüfungsgründen ausgeblendet; die laufende Auszugsnummerierung ist erhalten.",
+                ),
+                _section(
+                    "Abgleich",
+                    "Die Gutschriften tragen dieselben End-to-End-Referenzen wie das Ausführungsjournal der Rhenus Kreditbank. Die gesonderte Entgeltbelastung ist unmittelbar nach der ersten Bruttogutschrift gebucht. Für beide Gutschriften bestehen keine Rückgabe- oder Stornobuchungen.",
+                ),
+            ],
+            tables=[
+                {
+                    "title": "Valutabuchungen",
+                    "headers": ["Auszug", "Buchung", "Valuta", "Buchungstext", "Betrag EUR", "Tagessaldo nach Buchung EUR", "Referenz"],
+                    "rows": [
+                        ["21/2023", "20.03.2023", "20.03.2023", "Rhenus Kreditbank / Darlehen Tranche 1", 1600000, 1814382.11, "RK20234471T1"],
+                        ["21/2023", "20.03.2023", "20.03.2023", "Rhenus Kreditbank / Bearbeitungsentgelt", -18000, 1796382.11, "ENTG-RK2023-4471"],
+                        ["76/2023", "03.07.2023", "03.07.2023", "Rhenus Kreditbank / Darlehen Tranche 2", 800000, 1252118.73, "RK20234471T2"],
+                    ],
+                },
+                {
+                    "title": "Kontrollrechnung",
+                    "headers": ["Größe", "Tranche 1 EUR", "Tranche 2 EUR", "Gesamt EUR"],
+                    "rows": [
+                        ["Bruttogutschrift", 1600000, 800000, 2400000],
+                        ["separate Gebührenbelastung", -18000, 0, -18000],
+                        ["Netto-Liquiditätszufluss", 1582000, 800000, 2382000],
+                    ],
+                },
+            ],
+        ),
+        _xlsx(
+            "05_Finanzierung_Sicherheiten/18_Darlehenskonto_und_Saldo.xlsx",
+            "Darlehenskonto RK-2023-4471 und Forderungsstand zur Verfahrenseröffnung",
+            [
+                {
+                    "name": "Kapitalbewegungen",
+                    "notes": [
+                        "Kontoblatt der Rhenus Kreditbank; Soll bezeichnet eine Bruttoziehung, Haben eine kapitalmindernde Zahlung.",
+                        "Die am 30.06.2026 fällige Rate über 50.000 EUR wurde nicht bezahlt und ist deshalb nicht als Tilgung gebucht.",
+                    ],
+                    "headers": ["Pos.", "Valuta", "Vorgang", "Soll/Bruttoziehung EUR", "Haben/Tilgung EUR", "Kapitalstand EUR", "Bankreferenz", "Beleg/Status"],
+                    "rows": [
+                        [1, "20.03.2023", "Auszahlung Tranche 1", 1600000, 0, "=D6-E6", "RK20234471T1", "Ausführungsbeleg 14 / Kontoauszug 17"],
+                        [2, "03.07.2023", "Auszahlung Tranche 2", 800000, 0, "=F6+D7-E7", "RK20234471T2", "Ausführungsbeleg 14 / Kontoauszug 17"],
+                        [3, "30.06.2024", "planmäßige Tilgung", 0, 50000, "=F7+D8-E8", "KTW-TILG-2024-02", "Zahlungseingang Rhenus 30.06.2024"],
+                        [4, "30.09.2024", "planmäßige Tilgung", 0, 50000, "=F8+D9-E9", "KTW-TILG-2024-03", "Zahlungseingang Rhenus 30.09.2024"],
+                        [5, "31.12.2024", "planmäßige Tilgung", 0, 50000, "=F9+D10-E10", "KTW-TILG-2024-04", "Zahlungseingang Rhenus 31.12.2024"],
+                        [6, "31.03.2025", "planmäßige Tilgung", 0, 50000, "=F10+D11-E11", "KTW-TILG-2025-01", "Zahlungseingang Rhenus 31.03.2025"],
+                        [7, "30.06.2025", "planmäßige Tilgung", 0, 50000, "=F11+D12-E12", "KTW-TILG-2025-02", "Zahlungseingang Rhenus 30.06.2025"],
+                        [8, "30.09.2025", "planmäßige Tilgung", 0, 50000, "=F12+D13-E13", "KTW-TILG-2025-03", "Zahlungseingang Rhenus 30.09.2025"],
+                        [9, "31.12.2025", "planmäßige Tilgung", 0, 50000, "=F13+D14-E14", "KTW-TILG-2025-04", "Zahlungseingang Rhenus 31.12.2025"],
+                        [10, "31.03.2026", "planmäßige Tilgung", 0, 50000, "=F14+D15-E15", "KTW-TILG-2026-01", "Zahlungseingang Rhenus 31.03.2026"],
+                        ["Kontrolle", "15.09.2026", "Bruttoziehungen / Tilgungen / Kapital", "=SUM(D6:D15)", "=SUM(E6:E15)", "=D16-E16", "=IF(F16=2000000,\"OK\",\"FEHLER\")", "2.400.000 - 400.000 = 2.000.000 EUR"],
+                    ],
+                },
+                {
+                    "name": "Zinsen_Gebuehren",
+                    "notes": [
+                        "Vertragszins 5,40 Prozent p.a.; für das Bankkontoblatt wird die vertraglich praktizierte 30/360-Methode verwendet.",
+                        "Ab 20.08.2026 ist der Gesamtverzugszins von 10,40 Prozent p.a. auf das fällig gestellte Kapital angesetzt; die rechtliche Durchsetzbarkeit, die tagesgenaue Abgrenzung und insolvenzrechtliche Zinsbegrenzungen bleiben zu prüfen.",
+                    ],
+                    "headers": ["Pos.", "Zeitraum", "Tage 30/360", "Zinsbasis EUR", "Satz p.a.", "Soll EUR", "Bezahlt EUR", "Offen EUR", "Buchungsreferenz/Einordnung"],
+                    "rows": [
+                        [1, "20.03.–31.03.2023", 10, 1600000, 0.054, "=ROUND(C6*D6*E6/360,2)", "=F6", "=F6-G6", "ZINS-2023-Q1 / bezahlt 31.03.2023"],
+                        [2, "01.04.–30.06.2023", 90, 1600000, 0.054, "=ROUND(C7*D7*E7/360,2)", "=F7", "=F7-G7", "ZINS-2023-Q2 / bezahlt 30.06.2023"],
+                        [3, "01.07.–02.07.2023", 2, 1600000, 0.054, "=ROUND(C8*D8*E8/360,2)", "=F8", "=F8-G8", "ZINS-2023-Q3a / bezahlt 30.09.2023"],
+                        [4, "03.07.–30.09.2023", 88, 2400000, 0.054, "=ROUND(C9*D9*E9/360,2)", "=F9", "=F9-G9", "ZINS-2023-Q3b / bezahlt 30.09.2023"],
+                        [5, "01.10.–31.12.2023", 90, 2400000, 0.054, "=ROUND(C10*D10*E10/360,2)", "=F10", "=F10-G10", "ZINS-2023-Q4 / bezahlt 31.12.2023"],
+                        [6, "01.01.–31.03.2024", 90, 2400000, 0.054, "=ROUND(C11*D11*E11/360,2)", "=F11", "=F11-G11", "ZINS-2024-Q1 / bezahlt 31.03.2024"],
+                        [7, "01.04.–30.06.2024", 90, 2400000, 0.054, "=ROUND(C12*D12*E12/360,2)", "=F12", "=F12-G12", "ZINS-2024-Q2 / bezahlt 30.06.2024"],
+                        [8, "01.07.–30.09.2024", 90, 2350000, 0.054, "=ROUND(C13*D13*E13/360,2)", "=F13", "=F13-G13", "ZINS-2024-Q3 / bezahlt 30.09.2024"],
+                        [9, "01.10.–31.12.2024", 90, 2300000, 0.054, "=ROUND(C14*D14*E14/360,2)", "=F14", "=F14-G14", "ZINS-2024-Q4 / bezahlt 31.12.2024"],
+                        [10, "01.01.–31.03.2025", 90, 2250000, 0.054, "=ROUND(C15*D15*E15/360,2)", "=F15", "=F15-G15", "ZINS-2025-Q1 / bezahlt 31.03.2025"],
+                        [11, "01.04.–30.06.2025", 90, 2200000, 0.054, "=ROUND(C16*D16*E16/360,2)", "=F16", "=F16-G16", "ZINS-2025-Q2 / bezahlt 30.06.2025"],
+                        [12, "01.07.–30.09.2025", 90, 2150000, 0.054, "=ROUND(C17*D17*E17/360,2)", "=F17", "=F17-G17", "ZINS-2025-Q3 / bezahlt 30.09.2025"],
+                        [13, "01.10.–31.12.2025", 90, 2100000, 0.054, "=ROUND(C18*D18*E18/360,2)", "=F18", "=F18-G18", "ZINS-2025-Q4 / bezahlt 31.12.2025"],
+                        [14, "01.01.–31.03.2026", 90, 2050000, 0.054, "=ROUND(C19*D19*E19/360,2)", "=F19", "=F19-G19", "ZINS-2026-Q1 / bezahlt 31.03.2026"],
+                        [15, "01.04.–30.06.2026", 90, 2000000, 0.054, "=ROUND(C20*D20*E20/360,2)", 0, "=F20-G20", "ZINS-2026-Q2 / fällig 30.06.2026, unbezahlt"],
+                        [16, "01.07.–19.08.2026", 49, 2000000, 0.054, "=ROUND(C21*D21*E21/360,2)", 0, "=F21-G21", "laufender Vertragszins bis Fälligstellung"],
+                        [17, "01.07.–19.08.2026", 49, 77000, 0.104, "=ROUND(C22*D22*E22/360,2)", 0, "=F22-G22", "Verzugszins auf Rate 50.000 + Quartalszins 27.000"],
+                        [18, "20.08.–14.09.2026", 25, 2000000, 0.104, "=ROUND(C23*D23*E23/360,2)", 0, "=F23-G23", "Gesamtverzugszins nach Zugang der Fälligstellung"],
+                        ["Kontrolle", "bis Eröffnung 15.09.2026, 09:00", "", "", "", "=SUM(F6:F23)", "=SUM(G6:G23)", "=SUM(H6:H23)", "Soll = bezahlt + offen"],
+                    ],
+                },
+                {
+                    "name": "Gebuehr_Valuta",
+                    "notes": ["Das Bearbeitungsentgelt wurde als eigene Kontobelastung vereinnahmt; es mindert weder die Bruttoziehung noch die Darlehenshauptforderung."],
+                    "headers": ["Vorgang", "Bruttokapital EUR", "separate Gebühr EUR", "Netto-Liquidität EUR", "Kontrolle", "Beleg"],
+                    "rows": [
+                        ["Tranche 1 / 20.03.2023", 1600000, 18000, "=B6-C6", "=IF(B6=C6+D6,\"OK\",\"FEHLER\")", "Belege 13, 14 und 17"],
+                        ["Tranche 2 / 03.07.2023", 800000, 0, "=B7-C7", "=IF(B7=C7+D7,\"OK\",\"FEHLER\")", "Belege 14, 16 und 17"],
+                        ["Gesamt", "=SUM(B6:B7)", "=SUM(C6:C7)", "=SUM(D6:D7)", "=IF(B8=C8+D8,\"OK\",\"FEHLER\")", "2.400.000 = 18.000 + 2.382.000 EUR"],
+                    ],
+                },
+                {
+                    "name": "Saldo_15_09_2026",
+                    "notes": [
+                        "Forderungsstand der Bank unmittelbar vor Verfahrenseröffnung; nach Verfahrenseröffnung anfallende Zinsen und Kosten sind nicht eingerechnet.",
+                        "Die Aufstellung ist weder Anerkenntnis der insolvenzrechtlichen Einordnung noch Nachweis eines Absonderungsrechts oder einer zulässigen Verwertung.",
+                    ],
+                    "headers": ["Position", "Betrag EUR", "Formel/Quelle", "Status", "Rechtlicher Prüfpunkt"],
+                    "rows": [
+                        ["Darlehenskapital", "=Kapitalbewegungen!F16", "2.400.000 Ziehungen abzüglich 400.000 Tilgungen", "fällig gestellt", "Wirksamkeit und Reichweite der Kündigung prüfen"],
+                        ["Zinsen bis Eröffnung", "=Zinsen_Gebuehren!H24", "Kontoblatt Zinsen_Gebuehren", "offen", "Zinslauf und 30/360-Abgrenzung prüfen"],
+                        ["Bearbeitungsentgelt", 0, "18.000 EUR am 20.03.2023 vollständig verbucht", "kein offener Betrag", "keine erneute Addition zur Hauptforderung"],
+                        ["Gesamtforderung vor Sicherheitenanrechnung", "=SUM(B6:B8)", "Kapital plus offene Zinsen", "zur Tabelle angemeldet", "Feststellung im Insolvenzverfahren offen"],
+                        ["bei der Bank eingegangene Sicherheitenerlöse", 0, "Sicherheitenkonto bis 22.10.2026 ohne Eingang", "keine Anrechnung", "Masseeingänge und Erlöszuordnung gesondert prüfen"],
+                        ["Nettoforderung nach Bankeingängen", "=B9-B10", "keine Zahlung an Bank dokumentiert", "vorläufig", "Sicherheitenabrechnung Blatt 21 bleibt fortzuschreiben"],
+                        ["Kontrolle", "=IF(ROUND(B11,2)=2057234.42,\"OK\",\"FEHLER\")", "Sollwert 2.057.234,42 EUR", "rechnerisch", "keine Aussage zu Rang oder Durchsetzbarkeit"],
+                    ],
+                },
+            ],
+        ),
+        _doc(
+            "05_Finanzierung_Sicherheiten/19_Mahnung_Stillhaltebitte_und_Bankantwort.pdf",
+            "pdf",
+            "Mahnung, Stillhaltebitte und befristete Bankantwort",
+            sections=[
+                _section(
+                    "Mahnung der Bank vom 17. Juli 2026",
+                    "Die Rhenus Kreditbank AG mahnte unter dem Aktenzeichen RK-2023-4471/M1 die am 30. Juni 2026 fällige Tilgungsrate von 50.000,00 EUR und den Quartalszins von 27.000,00 EUR, zusammen 77.000,00 EUR. Bis zum Tagesabschluss 16. Juli war kein Eingang verbucht.",
+                    "Die Bank setzte vorsorglich eine Abhilfefrist von zehn Bankarbeitstagen ab Zugang, spätestens bis 3. August 2026, und wies auf die Kündigungstatbestände des Darlehensvertrags hin. Das Schreiben wurde am 17. Juli als Einwurf-Einschreiben und parallel als signierte PDF an finance@kurpfalz-taxware.example versandt; der Zustellnachweis weist den Einwurf am 20. Juli um 09:12 Uhr aus.",
+                ),
+                _section(
+                    "Fristablauf und Kontoprüfung",
+                    "Die Restrukturierungsakte vermerkt am 4. August 2026: kein Zahlungseingang, keine Rücklastschrift und keine belastbare Zahlungszusage. Die zehn Bankarbeitstage nach dokumentiertem Zugang waren mit Ablauf des 3. August verstrichen. Die ausstehende Juni-Rate ist innerhalb des Kapitalstands von 2.000.000,00 EUR enthalten und wird nicht zusätzlich zum Kapital addiert.",
+                ),
+                _section(
+                    "Stillhaltebitte der Darlehensnehmerin vom 11. August 2026",
+                    "Geschäftsführer Martin Reuter teilte der Bank per signierter E-Mail um 08:17 Uhr mit, dass die Gesellschaft die fälligen 77.000,00 EUR derzeit nicht zahlen könne. Er verwies auf den an diesem Morgen beim Amtsgericht Heidelberg eingereichten Eigenantrag wegen Zahlungsunfähigkeit und Überschuldung und bat darum, bis 15. September 2026 von Kündigung, Offenlegung der Forderungsabtretung und Verwertung der IP-Sicherheit abzusehen.",
+                    "Die Nachricht ging um 08:18 Uhr im Funktionspostfach workout@rhenus-kreditbank.example ein und wurde um 08:31 Uhr im System RKB-DMS-2026-8841 registriert. Beigefügt waren die Eingangsbestätigung des Insolvenzgerichts und eine 13-Wochen-Liquiditätsübersicht. Eine konkrete Zahlung oder zusätzliche Sicherheit wurde nicht angeboten.",
+                ),
+                _section(
+                    "Antwort der Bank vom 12. August 2026",
+                    "Silke Brandt und Jan Küster bestätigten für die Bank den Eingang, lehnten Stundung, Erlass und einen Stillhaltezeitraum bis 15. September jedoch ab. Ausschließlich zur Abstimmung mit dem zu bestellenden vorläufigen Verwalter sagte die Bank zu, bis einschließlich 18. August 2026 keine technische Selbsthilfe, Drittschuldneransprache oder Verwertungshandlung einzuleiten.",
+                    "Die Antwort bezeichnet diese kurze operative Zurückhaltung ausdrücklich nicht als Verzicht auf Kündigungs-, Fälligstellungs-, Sicherungs- oder Anfechtungsrechte und nicht als Fortsetzungszusage. Ob und in welchem Umfang diese Erklärung trotz des Wortlauts eine rechtlich relevante Stillhaltewirkung entfaltet, bleibt offen.",
+                ),
+                _section(
+                    "Zugang und Aktenkette",
+                    "Die Bankantwort wurde am 12. August um 14:06 Uhr per signierter E-Mail an Martin Reuter und Nora Schenk übermittelt; der Mailserver der Schuldnerin bestätigte die Annahme um 14:06:37 Uhr. Am 18. August übergab die Bank Dr. Friederike Mohn als vorläufiger Insolvenzverwalterin Kopien des Darlehensvertrags, des IP-Sicherungsvertrags und der Forderungsabtretung. Eine Zustimmung zur Fortführung oder Veräußerung wurde dabei nicht erklärt.",
+                ),
+            ],
+            tables=[
+                {
+                    "title": "Post- und Zugangsprotokoll",
+                    "headers": ["Datum/Uhrzeit", "Dokument", "Absender", "Empfänger", "Nachweis", "Ergebnis"],
+                    "rows": [
+                        ["17.07.2026, 15:44", "Mahnung RK-2023-4471/M1", "Rhenus Kreditbank", "Kurpfalz Taxware", "Einschreiben RKB884100771", "Einwurf 20.07., 09:12"],
+                        ["11.08.2026, 08:18", "Stillhaltebitte und Eigenantragsnachweis", "Kurpfalz Taxware", "Rhenus Kreditbank", "Mail-Gateway RKB-DMS-2026-8841", "angenommen und registriert"],
+                        ["12.08.2026, 14:06", "Bankantwort RK-2023-4471/S1", "Rhenus Kreditbank", "Martin Reuter / Nora Schenk", "SMTP-Annahme KTW-MX-44209", "zugestellt 14:06:37"],
+                        ["18.08.2026, 11:24", "Sicherheitenkopien", "Rhenus Kreditbank", "Dr. Friederike Mohn", "Datenraumquittung MOHN-DR-1198", "heruntergeladen 12:03"],
+                    ],
+                }
+            ],
+        ),
+        _doc(
+            "05_Finanzierung_Sicherheiten/20_Kuendigung_Faelligstellung_Verwertungsanzeige.pdf",
+            "pdf",
+            "Kündigung, Fälligstellung und Anzeige der beabsichtigten Sicherheitenverwertung",
+            sections=[
+                _section(
+                    "Erklärung der Bank vom 19. August 2026",
+                    "Die Rhenus Kreditbank AG kündigt das Darlehen RK-2023-4471 aus wichtigem Grund mit sofortiger Wirkung und stellt sämtliche offenen Ansprüche fällig. Das Schreiben ist von Silke Brandt und Beate Abele gemeinschaftlich unterzeichnet und an die Kurpfalz Taxware GmbH, Geschäftsführer Martin Reuter, sowie in Kopie an die vorläufige Insolvenzverwalterin Dr. Friederike Mohn gerichtet.",
+                ),
+                _section(
+                    "Bezeichnete Kündigungsgründe",
+                    "Die Bank stützt die Kündigung auf die seit 30. Juni ausstehende Tilgungsrate und den Quartalszins, den ergebnislosen Ablauf der bis 3. August gesetzten Abhilfefrist, die im Schreiben vom 11. August erklärte gegenwärtige Zahlungsunfähigkeit und den Eigenantrag auf Eröffnung eines Insolvenzverfahrens. Sie hält fest, dass ihre operative Zurückhaltung bis 18. August keine Stundung oder Vertragsänderung war.",
+                    "Die Frage, ob einzelne vertragliche Kündigungs- oder Verwertungsregelungen im Insolvenzkontext wirksam, durchsetzbar oder zwingend beschränkt sind, wird im Schreiben nicht abschließend beantwortet und bleibt ausdrücklich rechtlicher Prüfung vorbehalten.",
+                ),
+                _section(
+                    "Forderungsbetrag am 19. August 2026",
+                    "Die Bank beziffert vorläufig 2.000.000,00 EUR Kapital, 27.000,00 EUR unbezahlten Quartalszins, 14.700,00 EUR laufenden Vertragszins vom 1. Juli bis 19. August und 1.089,98 EUR Verzugszins auf die seit 30. Juni fälligen 77.000,00 EUR. Die Summe beträgt 2.042.789,98 EUR. Die unbezahlte Tilgungsrate von 50.000,00 EUR ist Teil des genannten Kapitalstands und wird nicht nochmals addiert.",
+                    "Ab 20. August führt das Bankkonto den vertraglichen Gesamtverzugszins von 10,40 Prozent jährlich auf den fällig gestellten Kapitalbetrag. Die Abrechnung zum 15. September 2026 befindet sich in Beleg 18; spätere Zinsen, Kosten und insolvenzrechtliche Beschränkungen sind dort nicht vorweggenommen.",
+                ),
+                _section(
+                    "IP-Sicherheit und Verwertungsanzeige",
+                    "Unter Bezug auf den Sicherungsvertrag vom 15. März 2023 zeigt die Bank die beabsichtigte Verwertung der dort bezeichneten Software-Nutzungsrechte an. Die Schuldnerin soll Repositorien, Backups, Hashlisten, Dokumentationen, Build-Umgebungen und Zugänge unverändert erhalten und außerhalb des gewöhnlichen Fortführungsbetriebs keine Rechte übertragen, ausschließlich lizenzieren, weiter belasten oder aufgeben.",
+                    "Die Bank kündigt keine technische Selbsthilfe und keine sofortige Abschaltung an. Sie verlangt eine abgestimmte Bestandsaufnahme mit der vorläufigen Verwalterin und behält Lizenzierung, Verkauf oder Übertragung nur im rechtlich zulässigen Verfahren vor. Umfang, Priorität, Insolvenzfestigkeit und Verwertungsbefugnis der IP-Sicherheit bleiben streitig und sind anhand der Entwickler-, Vorbestands- und Drittkomponentenakten zu prüfen.",
+                ),
+                _section(
+                    "Forderungsabtretung und Einziehungsbefugnis",
+                    "Die Bank widerruft gegenüber der Schuldnerin mit Zugang die Einziehungsbefugnis aus der Sicherungsabtretung vom 1. Februar 2024 und fordert eine taggleiche Debitorenliste, Zahlungseingangsübersicht und Kennzeichnung sämtlicher Einwendungen. Sie nennt das Sicherheitenkonto mit der Endung 2208 als vorgesehenes Zielkonto.",
+                    "Das Schreiben selbst ist keine Offenlegung gegenüber einzelnen Kunden. Die Bank erklärt, dass vor einer Drittschuldneransprache die Vertragsverbote, der Stand des Insolvenzantrags und die Abstimmung mit der vorläufigen Verwalterin geprüft werden. Bis zur Verfahrenseröffnung ist keine versandte individuelle Zahlungsumleitung aktenkundig; die rechtliche Wirkung des Widerrufs und späterer Masseeingänge bleibt offen.",
+                ),
+                _section(
+                    "Zugang und Vorbehalte",
+                    "Der Kurier übergab das Original am 20. August 2026 um 08:41 Uhr am Geschäftssitz der Schuldnerin an Office-Managerin Eva Hartmann; Empfangsbeleg CNR-260820-441 ist beigefügt. Die vorläufige Verwalterin erhielt um 08:05 Uhr eine qualifiziert signierte PDF über das besondere elektronische Postfach und bestätigte um 09:22 Uhr die Kenntnisnahme.",
+                    "Eine Freigabe der Sicherheiten, Zustimmung zu einem Asset Deal oder Verzichtserklärung ist mit dem Schreiben nicht verbunden.",
+                ),
+            ],
+            tables=[
+                {
+                    "title": "Vorläufige Forderungsaufstellung zum 19.08.2026",
+                    "headers": ["Position", "Betrag EUR", "Zeitraum/Basis", "Hinweis"],
+                    "rows": [
+                        ["Kapital", 2000000, "2.400.000 Ziehungen ./. 400.000 Tilgungen", "50.000 Juni-Rate darin enthalten"],
+                        ["Quartalszins Q2/2026", 27000, "90/360 × 2.000.000 × 5,40 %", "fällig 30.06.2026"],
+                        ["laufender Vertragszins", 14700, "49/360 × 2.000.000 × 5,40 %", "01.07.–19.08.2026"],
+                        ["Verzugszins auf 77.000 EUR", 1089.98, "49/360 × 77.000 × 10,40 %", "vorläufig"],
+                        ["Gesamt", 2042789.98, "", "ohne spätere Zinsen und Kosten"],
+                    ],
+                },
+                {
+                    "title": "Zustellung",
+                    "headers": ["Empfänger", "Übermittlung", "Zugang", "Nachweis"],
+                    "rows": [
+                        ["Kurpfalz Taxware GmbH", "Originalkurier", "20.08.2026, 08:41", "CNR-260820-441 / Eva Hartmann"],
+                        ["Dr. Friederike Mohn, vorläufige Verwalterin", "qualifiziert signierte PDF", "20.08.2026, 08:05", "eBO-Quittung RKB-EB-2026-198"],
+                    ],
+                },
+            ],
+        ),
+        _xlsx(
+            "05_Finanzierung_Sicherheiten/21_Anlage_F1_und_Sicherheitenabrechnung.xlsx",
+            "Anlage F-1 und vorläufige Sicherheitenabrechnung",
+            [
+                {
+                    "name": "F-1_Stand_31_01_2024",
+                    "notes": [
+                        "Paraphierte administrative Startliste zur Sicherungsabtretung vom 01.02.2024; die Abtretungsklausel verweist für die Bestimmbarkeit zusätzlich auf das fortlaufende Debitorenregister.",
+                        "Die Liste beantwortet nicht abschließend, ob einzelne Abtretungsverbote, Einwendungen oder spätere Vertragsänderungen die Sicherheit beschränken.",
+                    ],
+                    "headers": ["Debitor", "Kunde", "Vertrag", "Leistungsarten", "Vertragsbeginn", "Abtretungsbeschränkung laut Register", "Anzeige vorgesehen", "Stand 31.01.2024"],
+                    "rows": [
+                        [1017, "Müller & Reiter", "MR-2024-01", "Lizenz/Pflege", "01.02.2024", "Zahlungsabtretung zulässig; Vertragsübertragung zustimmungspflichtig", "Top 25", "Vertrag unterzeichnet"],
+                        [1029, "Auer & Hain", "AH-2022-09", "Lizenz/Hosting", "01.10.2022", "Anzeige in Textform vorgesehen", "Top 25", "laufend"],
+                        [1088, "Neckarblick Treuhand", "NT-2023-11", "Lizenz/Pflege", "01.12.2023", "vertragliches Abtretungsverbot vermerkt", "nur nach Legal-Prüfung", "laufend"],
+                        [1112, "Schwarz & Vetter", "SV-2021-03", "Lizenz/Pflege", "01.04.2021", "kein Verbot im Register", "Top 25", "laufend"],
+                        [1134, "Kanzlei Ufer & Sohn", "KU-2020-04", "Jahreslizenz/Support", "01.05.2020", "Einwendungen bleiben erhalten", "Top 25", "laufend"],
+                        [1168, "Steuerteam Plankstadt", "SP-2021-08", "Pflege/Support", "01.09.2021", "kein Verbot im Register", "Top 25", "laufend"],
+                        [1192, "Kanzlei Marktbrücke", "KM-2022-06", "Migration/Pflege", "01.07.2022", "Projektanteile gesondert abzugrenzen", "nach Abgrenzung", "laufend"],
+                        [1211, "Treuhand am Schloss", "TS-2020-12", "Pflege", "01.01.2021", "kein Verbot im Register", "Top 25", "laufend"],
+                        ["Kontrolle", "8 Debitoren", "", "", "", "", "", "Startliste; spätere Kunden über Monatsregister"],
+                    ],
+                },
+                {
+                    "name": "Hauptforderung_15_09",
+                    "notes": ["Übernahme aus Beleg 18; der Betrag ist eine Bankrechnung und keine Feststellung zur Tabelle oder zum Rang."],
+                    "headers": ["Position", "Betrag EUR", "Quelle", "Anrechnung", "Prüfstatus"],
+                    "rows": [
+                        ["Kapital", 2000000, "18_Darlehenskonto_und_Saldo / Kapitalbewegungen", 0, "Fälligkeit und Anmeldung prüfen"],
+                        ["offene Zinsen bis Eröffnung", 57234.42, "18_Darlehenskonto_und_Saldo / Zinsen_Gebuehren", 0, "Berechnung und insolvenzrechtliche Behandlung prüfen"],
+                        ["Gesamtforderung", "=SUM(B6:B7)", "Kontrollsumme", "=SUM(D6:D7)", "vorläufig 2.057.234,42 EUR"],
+                        ["bei Bank eingegangene Sicherheitenerlöse", 0, "Sicherheitenkonto ...2208", 0, "bis 22.10.2026 kein Eingang"],
+                        ["Nettoforderung nach Bankeingängen", "=B8-B9", "", "=D8+D9", "keine Anrechnung von Masseeingängen vor Rechtsklärung"],
+                        ["IP-Haftungsobergrenze laut Sicherungsvertrag", 3200000, "Vertrag 15.03.2023", "", "zuzüglich Verwertungskosten; keine Wertzusage"],
+                        ["Kontrolle", "=IF(ROUND(B10,2)=2057234.42,\"OK\",\"FEHLER\")", "Sollwert", "", "rechnerisch"],
+                    ],
+                },
+                {
+                    "name": "Sicherheiten_22_10",
+                    "notes": [
+                        "Arbeitsstand der Bank vom 22.10.2026; Werte verschiedener Gegenstände dürfen ohne Rechts- und Erlöszuordnung nicht addiert oder mit der Hauptforderung saldiert werden.",
+                        "Der APA ist unterzeichnet, aber für den 28.10.2026 noch nicht vollzogen; die vertragliche Kaufpreiszuordnung ist keine anerkannte Sicherheitenbewertung.",
+                    ],
+                    "headers": ["Sicherheit/Position", "Nominal/Indikator EUR", "davon streitig EUR", "Bankeingang EUR", "Stichtag/Quelle", "Einordnung/offener Punkt"],
+                    "rows": [
+                        ["Software und Dokumentation", 1050000, "", 0, "APA-Zuordnung 19.10.2026", "kein Verwertungserlös; Rechteumfang, Vorrang und Erlöszuordnung offen"],
+                        ["offene Kundenforderungen brutto", 616450, 97050, 0, "OP-Matrix 30.09.2026", "Nominalwert; Einwendungen und Abtretungsverbote prüfen"],
+                        ["davon nach Eröffnung fakturiert", 68420, "", 0, "OP-Matrix 30.09.2026", "im Bruttobestand enthalten; Entstehung und Massezuordnung prüfen"],
+                        ["nach Eröffnung auf Schuldnerkonten eingegangen", 43316, 7140, 0, "Kontoumsatzliste bis 02.10.2026", "7.140 EUR Projektleistung; übrige Abtretungsreichweite ebenfalls offen"],
+                        ["Bank-Sicherheitenkonto ...2208", 0, 0, 0, "Kontenstatus 22.10.2026", "kein Drittschuldner zahlte an die Bank"],
+                        ["rechnerisch unbestrittener OP-Nominalwert", "=B7-C7", 0, 0, "616.450 ./. 97.050", "keine Abzinsung, Ausfallquote oder Erlösprognose"],
+                        ["APA-Gesamtkaufpreis", 1850000, "", 0, "unterschriebener APA", "umfasst weitere Assets und Fortführungswerte; Closing offen"],
+                    ],
+                },
+                {
+                    "name": "Zahlungseingaenge",
+                    "notes": ["Kontrollauszug der acht identifizierten Eingänge; sämtliche Beträge wurden auf Schuldner- oder Massekonten gebucht, nicht an die Bank gezahlt."],
+                    "headers": ["Datum", "Kunde", "Rechnung/Zweck", "Betrag EUR", "Kategorie", "Folgekonto", "Bankanrechnung", "Rechts-/Abgrenzungsfrage"],
+                    "rows": [
+                        ["16.09.2026", "Kurpfalz Logistik", "KTW-2026-8990", 5117, "Cloud", "Massekonto-Sweep 19.09.", 0, "Abtretung und Absonderung offen"],
+                        ["18.09.2026", "Auer & Hain", "KTW-2026-8971", 1725.5, "Lizenz/Hosting", "Massekonto 21.09.", 0, "Abtretung und Einwendungen offen"],
+                        ["22.09.2026", "Müller & Reiter", "KTW-2026-8870", 5533.5, "Pflege", "Massekonto-Sweep 23.09.", 0, "Anzeige 2024; Erlöszuordnung offen"],
+                        ["24.09.2026", "Weingut Sonnenhang", "Teilzahlung Migration", 7140, "Projekt", "Massekonto 25.09.", 0, "reine Projektforderung möglicherweise nicht erfasst"],
+                        ["28.09.2026", "Schwarz & Vetter", "KTW-2026-9002", 3094, "Pflege", "Massekonto-Sweep 30.09.", 0, "Anzeige 2024; Erlöszuordnung offen"],
+                        ["01.10.2026", "PfalzForm", "KTW-2026-9121", 9282, "Cloud", "Massekonto-Sweep 02.10.", 0, "später Vertrag; Monatsregister und Anzeige offen"],
+                        ["02.10.2026", "Treuhand am Schloss", "Pflege 10/26", 4641, "Pflege", "Massekonto 05.10.", 0, "Entstehung nach Eröffnung prüfen"],
+                        ["06.10.2026", "Rheinauer Pumpenbau", "Cloud September Nachlauf", 6783, "Cloud", "Massekonto-Sweep 07.10.", 0, "später Vertrag; Abtretungsreichweite offen"],
+                        ["Kontrolle", "", "", "=SUM(D6:D13)", "", "", "=SUM(G6:G13)", "43.316 EUR identifiziert; 0 EUR bei Bank"],
+                    ],
+                },
+                {
+                    "name": "Kontrolle_offene_Punkte",
+                    "notes": ["Die Liste hält bewusst Rechts- und Tatsachenfragen offen und ist vor jeder Verwertung, Forderungsanmeldung oder Kaufpreisfreigabe fortzuschreiben."],
+                    "headers": ["Kontrolle/Frage", "Wert/Status", "Formel/Beleg", "Nächster Abgleich", "Verantwortung"],
+                    "rows": [
+                        ["Hauptforderung vor Sicherheitenerlösen", 2057234.42, "Blatt Hauptforderung_15_09", "Forderungsanmeldung und Zinsprüfung", "Rhenus / Verwalterin"],
+                        ["bei Bank eingegangene Erlöse", 0, "Sicherheitenkonto ...2208", "laufender Kontoabgleich", "Rhenus"],
+                        ["identifizierte Masseeingänge", "=Zahlungseingaenge!D14", "acht Kontobuchungen", "Rechnungs- und Leistungszeiträume einzeln zuordnen", "Verwalterin / Rhenus"],
+                        ["Projektanteil in Masseeingängen", 7140, "Weingut Sonnenhang", "Abtretungsumfang nach Vertragsart prüfen", "Legal"],
+                        ["unbestrittener OP-Nominalwert rechnerisch", "=Sicherheiten_22_10!B11", "616.450 ./. 97.050", "Zahlungen, Gutschriften und Ausfallquote aktualisieren", "Finance"],
+                        ["IP-Wert", "nicht festgestellt", "APA-Zuordnung 1.050.000 nur Indikator", "Rechtekette, OSS, Vorbestände und Vorrang prüfen", "Legal / Technik"],
+                        ["Kündigung und Widerruf Einziehungsbefugnis", "Zugang 20.08.2026 dokumentiert", "Beleg 20", "Wirksamkeit und Insolvenzfolgen prüfen", "Legal"],
+                        ["Freigabe oder Bankzustimmung zum APA", "nicht dokumentiert", "Banknotiz 22.10.2026", "vor Closing 28.10.2026 klären", "Verwalterin / Rhenus"],
+                        ["Nettoforderung nach tatsächlichen Bankeingängen", "=B6-B7", "nur Bankeingänge anrechenbar", "nach jeder Zahlung aktualisieren", "Rhenus"],
                     ],
                 },
             ],

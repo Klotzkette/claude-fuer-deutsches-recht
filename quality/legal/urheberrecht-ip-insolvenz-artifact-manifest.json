@@ -1,25 +1,25 @@
 {
   "cases": {
     "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": {
-      "combined_pdf_sha256": "ef035555aa871d879fd715cdd2824b0e4ad2acb8328060a4a4281d19d65d4d03",
+      "combined_pdf_sha256": "3ca2454bb93cc39de24332bf002af051f22f22c95b0d2d8745bb57603e2c7191",
       "documents": [
         {
-          "artifact_sha256": "6257341877908a4004ab804fbbc1de1122e26310ee12537bb9974cfdb689fda9",
+          "artifact_sha256": "75c23af1bedbee23ee1c75bac10a04dc1b7d7b520cf4d0cf0a7a6ca23a0ab9e1",
           "path": "01_Mandat/01_Anfrage_Palatina_Medienbank.eml",
-          "spec_sha256": "e4af1493ea5803086c87f8d6a0c25d3644d79bd9554651782abd9fe3958ecc6e"
+          "spec_sha256": "c50233546b9376915887480be7f28ce9010157d650ccca39f017ededc632cdc3"
         },
         {
-          "artifact_sha256": "6802e02a3e33279f2fe0c463f8bc73ab3b6d8342fcaa27e1d60673528fdb2858",
+          "artifact_sha256": "559067e1c453da9097e9118037fd97867b734a1aff77298a00a0607cb988ab9d",
           "path": "01_Mandat/02_Interne_Fallnotiz_Bank.docx",
-          "spec_sha256": "2c3908cdcfaf7c59d61f13a4868931156928a640cad43fefbba68f71452b2b57"
+          "spec_sha256": "e85a00bc621d81852e1e96e6126cd611a17ff0ca3318c3bca2a8c301845cfe5a"
         },
         {
-          "artifact_sha256": "2edafdac9987c21ec6deb2cb736ee1f5cc729b81211322fe875c57c980751fb9",
+          "artifact_sha256": "4077d6f222e4f22f00ab14c7657c96cd4bebe456441a3a6d27e1418718f07d43",
           "path": "01_Mandat/03_Chronologie.xlsx",
-          "spec_sha256": "e243d8096229f2d91b270070b29aeab58827777c06cc2c35be58d8e1d2d04363"
+          "spec_sha256": "c241cf26a68f0e9391d151d8df8798d5775a2ee8d929dbfd4cb59bbe3c6058f9"
         },
         {
-          "artifact_sha256": "331e34c0f24584ef6e3a1014272f18e240c6fd8e31f6c6e3652210b4f4137ca7",
+          "artifact_sha256": "d8fd1a9d8642c49bfefb38ba8e1efc659e1eb4af4ae761c18d9f152902db191d",
           "path": "01_Mandat/04_Beteiligte_Kontakte.xlsx",
           "spec_sha256": "4f93b66617b3d1fae438abf7f49766e506063bb2f4998ff01cfcb1cedb79e697"
         },
@@ -29,12 +29,12 @@
           "spec_sha256": "c9abdc0d9b856f7662c0d4bff6e23446aa2c1e621d3c5e4fbd64dcaad3dcb388"
         },
         {
-          "artifact_sha256": "610c6c8e4f3d4b64cadbc37228148cad718220b56f157fc02ef3a3f7b35cfcc9",
+          "artifact_sha256": "f91366baa07f4d90b0ef4ff6b49e5aa93e37bf2dc4e24c3af260fe781df11306",
           "path": "02_Produktion_Medien/02_Produktionsdossier.docx",
           "spec_sha256": "027ba10ac4b0d9eb87c6d397f0421f3f9de7a5f711a0c3f2ee5232d7378cec7a"
         },
         {
-          "artifact_sha256": "6baaa6dd1778dd7076e7b27c89d05644beebf22500217cab1768b9c6d30da86f",
+          "artifact_sha256": "f8bbc56f017b414809e99dd6fd249453f0ab74b14ca2e464de8d21c2d1497beb",
           "path": "02_Produktion_Medien/03_Medien_und_Geraeteinventar.xlsx",
           "spec_sha256": "944a0797116e48383f54742f3b8c3877baccfb43a5fcac84b1accf101c33cf68"
         },
@@ -49,7 +49,7 @@
           "spec_sha256": "6371c07b28b3ff43dfa13fd93f568fd2ace0a06e516ffd0ae753a3d70ea76edb"
         },
         {
-          "artifact_sha256": "d015cead4efab47bcd4f6badd48903d988868c3b34198bae058b9e9deb054ae5",
+          "artifact_sha256": "74bab2f82bee06377a686337ad318968f84757f3e33efd0579419d1be72f38f7",
           "path": "03_Rechtekette_Vertraege/01_Option_Romanvorlage.docx",
           "spec_sha256": "55520298d253665b60bb67c70dfc6673e951a0f1a413a8a4689d695734047dde"
         },
@@ -59,17 +59,17 @@
           "spec_sha256": "5cd978b1bfb2e3ef2f119ad92c6aa5de8beee901aaa8f3e99b127a9de7d7b26f"
         },
         {
-          "artifact_sha256": "508848f5346625ec29efaeeafb99936fa989f21ea45a38fb5975a44390fcdd0c",
+          "artifact_sha256": "876be6de6c87a38fa22afa8d1ec15916b790b224d069d2dc454e978cd1f97b51",
           "path": "03_Rechtekette_Vertraege/03_Drehbuchvertrag_Jonna_Zobel.docx",
           "spec_sha256": "2659fd3ab18eb48695b6e3fbf91f854fda6ec8e6ece33611f484b8ba028b4200"
         },
         {
-          "artifact_sha256": "c302005fb33fa735ffaf1752e5b40d0395ed737f2ed31531632322851b04bc00",
+          "artifact_sha256": "2fbe335f546497821ce369c98af644de324baaac19821e59960da68b61bf1878",
           "path": "03_Rechtekette_Vertraege/04_Regievertrag_Mara_Goetz.docx",
           "spec_sha256": "edfa62b0403280818473e8c8444e0f14bb4c3310d9926c3e00cfac3aa305815c"
         },
         {
-          "artifact_sha256": "f65d6738758caa340322090815b62ed260d45e9095e5c9af0cb892f82dc59312",
+          "artifact_sha256": "358f88f57e2d19bca3d77d48fc8858b90d6fddef684c0b325eb465f7ca370a42",
           "path": "03_Rechtekette_Vertraege/05_Filmmusikvertrag_Livia_Scheuerlein.docx",
           "spec_sha256": "28f98c823c728a041271dd0d8cc23188ead48422bcad5ee368b3fcf50b19c4b1"
         },
@@ -84,7 +84,7 @@
           "spec_sha256": "9ea47d6a3151aa6244e0f5e1e77875d8c30ab7ff701733f764c63d3aed65c013"
         },
         {
-          "artifact_sha256": "a7a869ab4bad8dfbe149ced0abd823224768b293668297abab3fd841283a46ab",
+          "artifact_sha256": "218d61ad99b78042a97d0e58a9b9b73a882d26e348389b8368072b7ddacac230",
           "path": "03_Rechtekette_Vertraege/08_Rechtekettenmatrix.xlsx",
           "spec_sha256": "9de70ac364b5cf23c2181557bd560139187bdb5637246bdd6260173537b08d66"
         },
@@ -94,37 +94,127 @@
           "spec_sha256": "5adb785c25928c81577893a409a63d2e6a16c4268fb844df84b71ef202b1d9ae"
         },
         {
-          "artifact_sha256": "9341b1aaae513d6e776df429266874bf88987d8c732eae8510fc25314cac2aeb",
+          "artifact_sha256": "526a063c235cfd4dbcae5f3f7b34d88e62fe87cc574fe285e2551acd75fc9a82",
           "path": "04_Finanzierung_Sicherheiten/01_Produktionsdarlehen.pdf",
-          "spec_sha256": "10d2f7639b5836717acc14fd326dbadcb140470a7d0525840d06a05abfe3aa8b"
+          "spec_sha256": "564cdedf6f50ade9d96591428195179594e17f090bce8dfeb495c3b3b9d96235"
         },
         {
-          "artifact_sha256": "12e6935783aae68474e03e62fef27912951fd43389390226567492f37b4622b2",
+          "artifact_sha256": "cec0d259215ae366ba0de11a1b2aea44c1f0efdfa5751dc80b67a013d86419e8",
           "path": "04_Finanzierung_Sicherheiten/02_IP_Sicherungsvertrag_Filmrechte.docx",
-          "spec_sha256": "1826ba03412b09337b63b7e35ae8af4ed4e10692c2026e78da9bcab44323a270"
+          "spec_sha256": "815999c48f2006a817ed931252033ca24cbe07952637c66b80cd232ac02be118"
         },
         {
-          "artifact_sha256": "bc65ad317d6951808bde5f08aaa6e108b973efe45e5231f53ab9214a5b37b254",
+          "artifact_sha256": "98a1f12c140af49a940749e1eb66726e9cccaa9f0852e43a56cc533cf559bffc",
           "path": "04_Finanzierung_Sicherheiten/03_Sicherungsuebereignung_Mastermedien.pdf",
-          "spec_sha256": "6e44025d4b1c101300ea901b20479d2ae08a290292ef3f61930378a27ed36a37"
+          "spec_sha256": "43bf2f72b33070162c1725149292ecc60ad135dab02859107f27a170ced5cdc6"
         },
         {
-          "artifact_sha256": "9a89a902a47bde8e4ebb3f386237fdafb545d48bbeb382a5426e7ff8be8f4cfa",
+          "artifact_sha256": "eb7e312b8044af1a76b178dd4f193ebe7f378da9883fc613f0466addaacefd86",
           "path": "04_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx",
-          "spec_sha256": "79f367a2156976fb320e24a5f75c30e86b9714c08df9580862e2134ac3496178"
+          "spec_sha256": "43409c1d8780accc88559e365657f6b1494941862f75b8eff079bd27ef55c6d6"
         },
         {
-          "artifact_sha256": "d5a90dbf14af14f5f46022b4290c363c37c4ec7e947542a59ec619ba9b9a28ac",
+          "artifact_sha256": "c01ed1d5e912c3b311aff8b66eaf30baba871caac875c5d6d39deb06f88c1304",
           "path": "04_Finanzierung_Sicherheiten/05_Sicherheitenregister_Bank.xlsx",
-          "spec_sha256": "a95b62d079abec8ea5bac75ecaac630d203c7bbe08ba8783ba61a376487a7a0f"
+          "spec_sha256": "0c17f07b990b64631e31a048d56489bbb9d670b61049be95cfc80eca798a2c0b"
         },
         {
-          "artifact_sha256": "1496987bf6bbda0c17a7cb3cbd3830aa9a299cf43a75c408c84f670fefb68d3b",
+          "artifact_sha256": "5d4773612c993aa8b432cd3150f6b86965cf4928d45b416f5568722dade3fed1",
           "path": "04_Finanzierung_Sicherheiten/06_Abtretungsanzeige_Rheinbild.eml",
           "spec_sha256": "6f0aa80c705b67c7bffdb266d80eefab0284c5b27c05d052eb01d2fcea61ef81"
         },
         {
-          "artifact_sha256": "e4ca8ab0e9550eab5393ef7b7d3b54924aa3ab106293b2e44ee1a1dfcb7d79be",
+          "artifact_sha256": "dabab383450e80a908669bbe45d10f02b9527b7d9236f960da81d38c5e5a0db3",
+          "path": "04_Finanzierung_Sicherheiten/07_CP_Checkliste_und_Ziehungsregister.xlsx",
+          "spec_sha256": "9021488e7c6009639e8f794bcc1c11193895ea998de6ede709cd6567b7b9778b"
+        },
+        {
+          "artifact_sha256": "2e52bcfaa2bb4db71c6c0985fdc89ebab8f58e01704228bf48dbd7531dc0656b",
+          "path": "04_Finanzierung_Sicherheiten/08_Nachtrag_Fertigstellungstranche_2025.pdf",
+          "spec_sha256": "8e8c509225e3805b60176e10019378b44d371859f98590e26ea7d1ad1acac4a7"
+        },
+        {
+          "artifact_sha256": "a1fffdf473d6f88c95974a45b71c533514ad1070db2a1e4327b0582126df72ff",
+          "path": "04_Finanzierung_Sicherheiten/09_Abruf_PL01_620000.eml",
+          "spec_sha256": "6e11c11904974fd5e59560f848252d1c55f701195954db9e7e4ba96c9fb26899"
+        },
+        {
+          "artifact_sha256": "a426aa143c4aec5d067e3c29b18e42e61e1877ff0ec0ac1bd864690535b338b1",
+          "path": "04_Finanzierung_Sicherheiten/10_Bankfreigabe_PL01_620000.pdf",
+          "spec_sha256": "83135875817361a4471faa7222319c57dd75674f6f7a143fd7974224f0fc6f84"
+        },
+        {
+          "artifact_sha256": "b874ecf04548c0bde1222e7af5c024534c4355d22bd24a1479bee1c89e71ab45",
+          "path": "04_Finanzierung_Sicherheiten/11_Abruf_PL02_480000.eml",
+          "spec_sha256": "a918dd4f9259bbb6f3dbef913ffb9b1db79d51610018b196892a71da3cf26fdb"
+        },
+        {
+          "artifact_sha256": "33a35a505f4d6ad189c9022f3e3faf6153c8e94f759bf5e5439b25dd3804e438",
+          "path": "04_Finanzierung_Sicherheiten/12_Bankfreigabe_PL02_480000.pdf",
+          "spec_sha256": "a433202725cd2bf124ee70726decc9d0b9870ea07243698db5707a8b30c95905"
+        },
+        {
+          "artifact_sha256": "dde9a8c1836418fe0c1080b064fe45e65e2bad3f3bb0195f3c3331e741801091",
+          "path": "04_Finanzierung_Sicherheiten/13_Abruf_PL03_420000.eml",
+          "spec_sha256": "36e8174c50e379a37a1a6aa84a512e0d13baff7f1023154dca1f43c612cdf5bf"
+        },
+        {
+          "artifact_sha256": "0df5d641b047319ee35b4f767f6500cc4d7d1d4170d93925831adc9a3e4778c2",
+          "path": "04_Finanzierung_Sicherheiten/14_Bankfreigabe_PL03_420000.pdf",
+          "spec_sha256": "6aa9b73edcffb4d339cfaffa44d052c5878753c47ee7b8e12173d8d7bfc324fb"
+        },
+        {
+          "artifact_sha256": "d8b7ce7c97eb9dbeeb3bdf64b3b22d6cd5f369f22e53364b7e1661c6827095f8",
+          "path": "04_Finanzierung_Sicherheiten/15_Abruf_PL04_210000.eml",
+          "spec_sha256": "14fe26b1d9e09adb49855a68e7683a984def3239b59cf51449aa8d89ed066f4e"
+        },
+        {
+          "artifact_sha256": "47db3df4ff45ae4889e82bf67a285e5940c319e72224158ff25314c575e59b2e",
+          "path": "04_Finanzierung_Sicherheiten/16_Bankfreigabe_PL04_210000.pdf",
+          "spec_sha256": "6ff90fae873ea66d99ce69c778a3cb6528e8597f2f5f618118fb8acb04d4ea38"
+        },
+        {
+          "artifact_sha256": "e6edea91fed7227636f3d40f3af0deb909b2481e9a852a1e54734ed0f8aab7a5",
+          "path": "04_Finanzierung_Sicherheiten/17_Abruf_FT01_250000.eml",
+          "spec_sha256": "4cc974b40ecde39202b1a60b55c00d2cba84062ac472bebc2897bba490c9fe18"
+        },
+        {
+          "artifact_sha256": "f1394b84a08c54584bf6e09bc4c8251d03c0c662c8c992f0679a0b0ed7b0e067",
+          "path": "04_Finanzierung_Sicherheiten/18_Bankfreigabe_FT01_250000.pdf",
+          "spec_sha256": "069565dcf015284623484037d5602f115bec13e55acc507264b5de1e943ec6ac"
+        },
+        {
+          "artifact_sha256": "bae5c3c959b892745dc25b14f0663b147602f490bbd5f6425f5586c30576ff4d",
+          "path": "04_Finanzierung_Sicherheiten/19_Abruf_FT02_170000.eml",
+          "spec_sha256": "65b9cbddb8e12ed16c6b79c83b41ff2524e596b0bceb1e052ceaacf81c1b0bac"
+        },
+        {
+          "artifact_sha256": "c64a814cf377831e25a3ca0f0404470b731bc9fc039d4afbf427a3bbe6540a43",
+          "path": "04_Finanzierung_Sicherheiten/20_Bankfreigabe_FT02_170000.pdf",
+          "spec_sha256": "17d927ea13a3fc0127ae5d3ad277a34031b502617190a11b4015cfc001cb756f"
+        },
+        {
+          "artifact_sha256": "0b677c1b3dacad447574ab58d59f6f20102d528f4c4b94ddb1f83536238fb844",
+          "path": "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf",
+          "spec_sha256": "a200b5e8c2f8b72f86cf09ff9a00d7d3ae9e2e15bc484bcdf6d333673ed35495"
+        },
+        {
+          "artifact_sha256": "4d519d373b305d2f2dee6317467d0eb2d757a3943b3979dc54ea1e8428031e20",
+          "path": "04_Finanzierung_Sicherheiten/22_Darlehenskonto_und_Saldenkontrolle.xlsx",
+          "spec_sha256": "5dd59fd73412791c44f7466cea36cd4f246556d2e296fd9c2bc7beb5abcf665c"
+        },
+        {
+          "artifact_sha256": "5cefb3e97f2ad0960868b9c88acd4c96837173d9e12685a1376925f94b12c420",
+          "path": "04_Finanzierung_Sicherheiten/23_Aktueller_Saldennachweis_2026-10-22.pdf",
+          "spec_sha256": "105df29be64b37e3545404ce061b35f4e5a621ae51afef4915b7799b99b6da0b"
+        },
+        {
+          "artifact_sha256": "f97b03bb9f6a25e47c26dce8b520b3c7963742a57e2a795020b97d207c3b89a8",
+          "path": "04_Finanzierung_Sicherheiten/24_Sicherungsfall_Kuendigung_Rechtsvorbehalt_Zugang.pdf",
+          "spec_sha256": "0215a44593dfba1669046df5a56230a267ed8dd9f1c116889eee46d644d425e7"
+        },
+        {
+          "artifact_sha256": "9cf85342f01f84fc3f769a1f8a8e1bd0723d77e2f1520b522dbaa08dd4e20119",
           "path": "05_Lizenz_Forderungen/01_Lizenzvertrag_Rheinbild.docx",
           "spec_sha256": "04595a6368afa46481ac95d4e5b1d82ab7ab2b43d62e2a6722b58beab54913c0"
         },
@@ -139,12 +229,12 @@
           "spec_sha256": "6e1df05f902acf786f31c91008c85c352625595964c8da43f4f1260ea7d15486"
         },
         {
-          "artifact_sha256": "0625b510c1a846e5d02a8518467746f7bb014cff709c38dcf959055630662ad4",
+          "artifact_sha256": "d60cf929f5995935aa8f1fa66904d6219fe15aa9ee0de54321ff6658794b6b29",
           "path": "05_Lizenz_Forderungen/04_Offene_Posten_Lizenzen.xlsx",
-          "spec_sha256": "6aae938f6fe34bba8a44b90283b3c258426dc4931cb90ea4b02c9516675d7f1b"
+          "spec_sha256": "103cef1dca9370a34f741e0bd067c7c322f0de0f60a24b625b315836c830b275"
         },
         {
-          "artifact_sha256": "e3cbfb8b46cc337a6119688fe9d767f12bbc67a7a45d9af1c1a7b943e446f9c9",
+          "artifact_sha256": "202d9dbf44267d54ff2d3af1c2f59622ae3736f6ff9a03d67c84a6c1050e6017",
           "path": "05_Lizenz_Forderungen/05_Mail_Rheinbild_Zahlweg.eml",
           "spec_sha256": "f63cf8036127fb21bcf6a2cd987092c7b0724c01c75ab0a8aa1dc208f43e162f"
         },
@@ -159,9 +249,9 @@
           "spec_sha256": "fc2b3b6d46338e73a9efb5c8a7c9740bc01af85b2ddc004ff48d0794e2b11a7e"
         },
         {
-          "artifact_sha256": "569312a05e887609d171b0227521f05ab138f187ed0fa928255809e333ce4d30",
+          "artifact_sha256": "7855fe7b3b3c1277ce038d669cb7056af8b47810ad5523766e94dc8b36054b4c",
           "path": "06_Insolvenz_AssetDeal/02_Inventarvermerk_Verwalterin.docx",
-          "spec_sha256": "0f6676efad92ea93f70ed25fb9da1ed6d12ac5eadfd1a9b89dc007fd9140368f"
+          "spec_sha256": "e1b4556180ac626920d34c1cf89c9c675c59eaa860144d57a28b5a78173e583f"
         },
         {
           "artifact_sha256": "dfa20ba11ecdcd2c6843cf3d8041322e57b7d7a121bb7d775651a9fca3987e81",
@@ -169,17 +259,17 @@
           "spec_sha256": "bce7365a98a81c1c3b3359e0cfa0a65b45fdcc6c3160bcb8d9a037d0f5653e45"
         },
         {
-          "artifact_sha256": "c03e4cf6a8c71bc5bc158402b2a12b7e29afab4643c46616ff70c03d3094e110",
+          "artifact_sha256": "d62c8a71282d8c0f9324e2bd0f7b0559f2d837f730710e2f761b362e842c61eb",
           "path": "06_Insolvenz_AssetDeal/04_Asset_Purchase_Agreement_unterschrieben.docx",
           "spec_sha256": "c31d4ce29f989fa21aa57946452dd3fecc0d862587f87561994b78e3d3172702"
         },
         {
-          "artifact_sha256": "22c6fa6dedecafc2177256cc100f299cde9977c41812230660fc52208bd35ed8",
+          "artifact_sha256": "d305f8fa42d852ed0b9efa5e8b082a045c42b2107ae52a8d7f3b6d93133dc6d9",
           "path": "06_Insolvenz_AssetDeal/05_Closing_Checkliste.xlsx",
           "spec_sha256": "3eb0e660eba1bff96d90535101762ecc8fa926efcbbac84373ba430079c15074"
         },
         {
-          "artifact_sha256": "f95afec13042637f87a4987aa4adffae9aebe8d2f61d8ce19870e7bdc81314fb",
+          "artifact_sha256": "3d75aa9e7d56f20a40f3cde2de289ef63ed43069fc2da7001ff69961fdcbb656",
           "path": "06_Insolvenz_AssetDeal/06_Mail_Verwalterin_Vollzugsankuendigung.eml",
           "spec_sha256": "73700d8537c4127127d3ae8e0bcd08ab1dcef0f3c30fa07f5c5e88511806dffd"
         },
@@ -189,32 +279,32 @@
           "spec_sha256": "420e061c21d4002b05218b5b30dcd58053f8c92c4f5590ddcb91f80be48dfcbb"
         },
         {
-          "artifact_sha256": "7ff1600d1997a0ae1c328edce17fcf1a82d411bf6f2a365ebdfe66ac230934ff",
+          "artifact_sha256": "cf8afdbb2bbdb752997bdeccfcf2409441d86546353ec1104961aff507a9f721",
           "path": "06_Insolvenz_AssetDeal/08_Datenraum_und_DD_Fragen.pdf",
-          "spec_sha256": "97a432420df4e38d3835500c1ae0829b2dbde34a24e745ec2d766f1f7b5ff132"
+          "spec_sha256": "4749ade0a1e481695aa8c35d9b07fcc0a1a02a7f3e39f10028e6cad1bccf8a75"
         }
       ]
     },
     "kurpfalz-taxware-software-ip-insolvenz": {
-      "combined_pdf_sha256": "9d074e02f99580a1003aca5c1a04d2253a9bd9bde019b8816699d8936b770f15",
+      "combined_pdf_sha256": "496dcffa8aabaefb1990865a6afaf046af12e013c5d094a47dd737691b620075",
       "documents": [
         {
-          "artifact_sha256": "9bf7d0f71c5d13a9bd271b9c1e96aee7d5e6e2dc2085ce8cd147403fb920acda",
+          "artifact_sha256": "8c31d8cdbbd69517f929d239d3480344a425f498781306a3a84dc3ebbd1bb3eb",
           "path": "01_Mandat/01_Anfrage_Rhenusbank.eml",
           "spec_sha256": "3c3db983f801e0f134d8b3f607711d31bb3af6963e03931be6052ac0791a4eeb"
         },
         {
-          "artifact_sha256": "13fe898985a52fe1708a4b2110435deb80f99f80dde07535fac0c29991e28200",
+          "artifact_sha256": "d7bc34897cef5adfe6d7eac7e3e38002a3b6745e7e01a7ff8ad7502ecd341727",
           "path": "01_Mandat/02_Fallnotiz_Sachstand.docx",
           "spec_sha256": "2df4e273be83158f361b54e20c5ad3d90ec8e1d5c452957689f622857607c700"
         },
         {
-          "artifact_sha256": "21020358aa09c98942e69417a614e17711679b87e32cc9138866ff090e3f788d",
+          "artifact_sha256": "ef1619848af83e52802b4c13be20bd8c4408294830dea3f4fb7150bdfa338ba2",
           "path": "01_Mandat/03_Chronologie.xlsx",
-          "spec_sha256": "262df9376207301ff878a1d9a43ed552afed0bb8b27d72d90acb46287ba85af2"
+          "spec_sha256": "7462b084ccd66ab928cc9606f9d442bf66616615b05ba6d9fe9f57a94ee4dcb8"
         },
         {
-          "artifact_sha256": "cdff442e40d5b2e8dfa534b5a66914288ece9cb10a5becf3a1b2adb38f943e9c",
+          "artifact_sha256": "c6d9efa70275e6e9ab725eb14b253ec5fd93504bb78d3511d144f2851ee8c219",
           "path": "02_Unternehmen_Produkt/01_Unternehmensprofil_Produkt.docx",
           "spec_sha256": "3523a8afe26eb19047164a867235d5b45ae5a491e33e399db63b6a9d4a69875d"
         },
@@ -224,7 +314,7 @@
           "spec_sha256": "2ad7f42420d32077ddd1997529c0df3258b0f1d70576d4c06da38ce47dce1ca5"
         },
         {
-          "artifact_sha256": "85889aa3448f9d8243c03243e74baed9cc5aa9cc84b0a74c936453d1c3e0cfed",
+          "artifact_sha256": "93fa5e2fb7972eb61a903196107fd89acf854e3656bdfcec0483abc6b9c6f534",
           "path": "02_Unternehmen_Produkt/03_Repositoryverzeichnis.xlsx",
           "spec_sha256": "be6e35acde3f349624eb221a0aaca144256e6adc4c37c8ff3acf7e4344fc74b0"
         },
@@ -234,57 +324,57 @@
           "spec_sha256": "d285e8263d90e7db10734bdfee386b879f2b83bff39c0015a524b749bb685951"
         },
         {
-          "artifact_sha256": "57799a09a5bd11a225c9e7a3f3349ea4df59bf1e96eeed3c2971d0ce3e6b0e61",
+          "artifact_sha256": "ac3574f6695f1b4c131f454275d86d91aa0fe47e90d5d22a1783c309cc1369b1",
           "path": "02_Unternehmen_Produkt/05_Releasehistorie.xlsx",
           "spec_sha256": "ca7edd81d8b08ac2021bb8761f9a7ba53c068b044093bf350da4abe265a40689"
         },
         {
-          "artifact_sha256": "3df9a6a099c5ad1a9018d6c06347ff3ba8c075a9dcfd8f83aad405251796b7a3",
+          "artifact_sha256": "480ddd853455fa4d96f1280163d7facd27e581d5a46df783dfc6d2e3efc9d50f",
           "path": "02_Unternehmen_Produkt/06_SBOM_Open_Source.xlsx",
           "spec_sha256": "88d498429692809835800b4f5aaa48092823609c8aa4bf207f4fa81ff1674a02"
         },
         {
-          "artifact_sha256": "fbc5fff674964ef3f5de70f6f2d5ebdf5ffdd8b6d8434ac5e34991c75990286d",
+          "artifact_sha256": "2ce11d68c1e7ae1ee8c0538ebd77a7efcb1acfe4f710249c94ef4f0eda738e5a",
           "path": "02_Unternehmen_Produkt/07_OSS_Pruefnotiz.docx",
           "spec_sha256": "4ceeafa8fc28a5fc83b0c85f63ef0fd45e5904edb07ddf64c869f7bf57d96b7e"
         },
         {
-          "artifact_sha256": "c8e655596274cdfd6af4b3a2b4aa457462457f6a09cef1a3b2eb64a520eb01a5",
+          "artifact_sha256": "8d27b6666e69b69ff56c8cfa4909df6ca29e9694006105ec46e4a9a54c31207d",
           "path": "02_Unternehmen_Produkt/08_Mail_Engineering_Uebergabe.eml",
           "spec_sha256": "278541faba493372feaf746a2dfa85f1cb4c24da08a197d4cbf47e288fe5e1cc"
         },
         {
-          "artifact_sha256": "22adeeb244b74e77f85118e4b9b53377bff4de79f45f7cfc2ddd2e7d44fe3f3f",
+          "artifact_sha256": "0000659a4d6da29dd3c82d261b0fa6a7da3f0997444503fb83ac378225ee75ec",
           "path": "03_Personal_Rechtekette/01_Arbeitsvertrag_Lena_Vogt.docx",
           "spec_sha256": "a411ac7bf1f0a1a54ded0885b31bb365dd9eb05fded5cb62f7ffa4b971cc5d14"
         },
         {
-          "artifact_sha256": "d7a1c35372c177f1a2056ecb62ce64a2331138105fc6e4deea94a823d67d14f9",
+          "artifact_sha256": "7007d92971aa30d4fca377357b3d46b8f768c124acd63b1fbcae88c27517165e",
           "path": "03_Personal_Rechtekette/02_Arbeitsvertrag_Jonas_Eberle.docx",
           "spec_sha256": "a792e92c3b0967d76fa4830890cea168134bc112e37e952eace87f6b54d8fd75"
         },
         {
-          "artifact_sha256": "b79f3fb23f505ebabebe499b89015d0d78bc915a011d4f5223e6583a395735e3",
+          "artifact_sha256": "29faaabc4e4cb8563e48e21ff66f084abf0511f6ec29dd5bb966bd6413d2b0b3",
           "path": "03_Personal_Rechtekette/03_Arbeitsvertrag_Esra_Kaya.docx",
           "spec_sha256": "c431674f780373d50379fd065a4cb5f5accbe20c107ff3d2006c9b1962a6f058"
         },
         {
-          "artifact_sha256": "357d2c5d345884ff2a8ce8fdcd2401c24e612c232bf82ae83614f1fe6f73ba52",
+          "artifact_sha256": "a3c33f26e8528a752e61ecf041a0d90c58a4ad74111b940eb1be00345a8c59e9",
           "path": "03_Personal_Rechtekette/04_Arbeitsvertrag_Marek_Nowak.docx",
           "spec_sha256": "ed5dc085cd5b1427b84430dd1cf4d4578c7a2d0577bba72fbef481bc3f757e8c"
         },
         {
-          "artifact_sha256": "b405d836bf2f71c0852646088911a6cc277eea410c2c505baeed73042d5e8c51",
+          "artifact_sha256": "132ba34dc370e91981365fe8c05f2c8bb503a3ebbc69b78bec316a15ee3c6ae0",
           "path": "03_Personal_Rechtekette/05_Arbeitsvertrag_Nina_Scholl.docx",
           "spec_sha256": "c482710febaea52a96044f22f1a05435102af975a8c8a546e91f496d1f3e09a2"
         },
         {
-          "artifact_sha256": "5d2742e549a484ec058bb16c7061cb70801525071308bf1219b80ad2c0b3cab3",
+          "artifact_sha256": "587eedff3ec16e9aae381f9cfa015d375e5c62bc2efcd29235ae7f91a0c540be",
           "path": "03_Personal_Rechtekette/06_Rechte_und_Nebentaetigkeiten_Matrix.xlsx",
           "spec_sha256": "cc52f3e255f835d0a4a6696452de31db32e927e9ac70ff8bf408292be4b58a65"
         },
         {
-          "artifact_sha256": "61c351400c993c857b18636cd2746ca81e6897d781000f2ae71eae98a82dac9d",
+          "artifact_sha256": "17d56e7446212fbccdca3b40a3b24ec9e9a826b3b501ed5ef51c19648cb62df8",
           "path": "03_Personal_Rechtekette/08_Freelancer_Rahmenvertrag_Lukas_Binder.docx",
           "spec_sha256": "8d0538d909d784ec1ca977fe588627ec60b9b85d79513289e453b3b93028b60d"
         },
@@ -304,49 +394,49 @@
           "spec_sha256": "fb4925f22eca2bb0d868610cb5ec1e23999ffbe665b9cb698949d6d150692928"
         },
         {
-          "artifact_sha256": "6f85a46140f0e180defb71734b1c682ab815dfc763e2ec2fd371682f25a257f6",
+          "artifact_sha256": "dfa268d405a7be416397f4a9b58e67a2c854b1b486b20e8ccd9d129797ca9c25",
           "path": "04_Kunden_Lizenzen/01_Lizenzvertrag_Mueller_Reiter.docx",
           "spec_sha256": "bb0bd4591e433485e49776ba451cf71a6e939bdcaf08798e75d9a6f5aa9dbf85"
         },
         {
-          "artifact_sha256": "91bd9abd24797b64090c81b84300f752eaf8ff8a0a3b63f91e3d19af3cd72240",
+          "artifact_sha256": "7a43b79b88df737d807b703a845cf14190ed2399d2739d2688188fe65a1b2051",
           "path": "04_Kunden_Lizenzen/02_Lizenzvertrag_PfalzForm.docx",
           "spec_sha256": "a6f32bddeb5d329d463faa4dda3f45631f28480462c195a5564f7ba514228615"
         },
         {
-          "artifact_sha256": "26ce19bd3789b1fc07b117f991a9e3da28f2ace7d9d1e1f8df7fa16665eb7cb2",
+          "artifact_sha256": "3f31589ef21c1b166bbe43237af4d91e4008a5da8f0081a56ca0a0416d7f7869",
           "path": "04_Kunden_Lizenzen/03_Lizenzvertrag_Auer_Hain.docx",
           "spec_sha256": "b9ed44eb87dcbfe2ea398561ba3e23b40924f80bfd40fee7f3f6eeb0f0f041df"
         },
         {
-          "artifact_sha256": "e8fe4a7fcb84e2301b91cb8f7dabb4463521ab0ca8661990cb38ca718a749b81",
+          "artifact_sha256": "bd3abc1af4a8dc3a0ed36f0b2868a4c43eaf57de28ae09942f18e6c73188f6d1",
           "path": "04_Kunden_Lizenzen/04_Kundenvertragsmatrix.xlsx",
           "spec_sha256": "f75a5670f22e6193b103a35b43c0789603839845b03288ee0adc6441dc1c7c09"
         },
         {
-          "artifact_sha256": "16d24e3a9550ea3a14096f81f400db05c15b1453fcc2402af645aa49e8315742",
+          "artifact_sha256": "0ef695ac27f5e9f58fe60669d7e1db63f8a7845c82704f718c7fa3cd28521031",
           "path": "04_Kunden_Lizenzen/05_Mail_Kunde_Source_Escrow.eml",
           "spec_sha256": "e0a554ce7915efabb8b82c3f191a089fdbc0516d3f315b545272a8987025418a"
         },
         {
-          "artifact_sha256": "082ea3ff4a2cacb3be8b1c36336d7aa6ca995ad26db9289402a0c08318b789a6",
+          "artifact_sha256": "b4cf3e98b3e5274983e68ba256e258c3ad76c13d574155ea8eb39b56a0dbfde0",
           "path": "05_Finanzierung_Sicherheiten/01_Darlehensvertrag_Rhenusbank.pdf",
-          "spec_sha256": "c66ac8436ab169ba331352d816217758da691b6bc687439de94958fce4434c21"
+          "spec_sha256": "4431dc2275a95ef25dfeb639b4d57af41aa7835f159dfcf3a4f8c8012ae59c93"
         },
         {
-          "artifact_sha256": "0df9c4cbd1cc805b092c7412240174aeb2a0b3452cbe3f86f1e2091268af5e24",
+          "artifact_sha256": "1757f529348499471c0916250a8d052bc55924dc199a3f1a61c7b0400852a8ec",
           "path": "05_Finanzierung_Sicherheiten/02_Sicherungsvertrag_IP.docx",
-          "spec_sha256": "4303bf684cdc45287f7d3dfdd93b8babc0a5e35c559d1991e9d3b325a680124f"
+          "spec_sha256": "50cdd23cfc2f28d9968923b5a9cb16d109466ebb770673df1839aaf1db19b5e2"
         },
         {
-          "artifact_sha256": "a1d08fab8b70344dc5930316c5b0115920868d88959a9dec8e99174b55bdfd01",
+          "artifact_sha256": "b3809033d7d068bd2a05e4dcabd4def8f1b7a1ebe284df75034e071da954091b",
           "path": "05_Finanzierung_Sicherheiten/03_Anlage_IP_Rechtebestand.xlsx",
           "spec_sha256": "cceb676e7bfba0a09367d4fcc77e546e6e412807d756b7375ce9b57acb1c64c8"
         },
         {
-          "artifact_sha256": "631f00088a53eaf652076af479475eb5367214df998c8548469ca815ce9ffe6b",
+          "artifact_sha256": "f29c0a1602aa446bb3cbea0cfe32f91596a141a707e70dc90a66514dd3c15fab",
           "path": "05_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx",
-          "spec_sha256": "1a3884b8e2a03846950810ff4cd8dc9cdb7d4793af34e5af6108d3dd534d3a4c"
+          "spec_sha256": "5dedde769c8e82f022e642cf6bc9bfed78c02d515d0d59f8b2047fa15dcff0ff"
         },
         {
           "artifact_sha256": "9f6ee61210fc9a786ed628453c5ab61b82b0b68a697d5de8bf397a6f4a820b55",
@@ -354,7 +444,7 @@
           "spec_sha256": "f171c6cb2d2bf4c25d9b08ea2150b237ac94d9843fd45ca7da0c26efea86187d"
         },
         {
-          "artifact_sha256": "279cfb1bd75c40746c234107b5aec62e21b93afc366231109254d03f230b1f4f",
+          "artifact_sha256": "bbd5bbc5dbd3435fed1dd8fc6c41552544a5fea771eed71d82767cd9320bc15d",
           "path": "05_Finanzierung_Sicherheiten/06_Rechnungen_und_Forderungen.xlsx",
           "spec_sha256": "7632cdb703270141084dcb76b45c4c80006030df06d3a01e802e9ead12a3260c"
         },
@@ -374,14 +464,64 @@
           "spec_sha256": "1257ffa1c3aa97689aa709044275d7bd70d6689c9d1df76ae537585635aa5bb6"
         },
         {
-          "artifact_sha256": "ecf29679d27aac08c55f4bde7f05e3b35300b26e71c5fbaea036d1a119e6705b",
+          "artifact_sha256": "d54c507243b6b36ff85921f7981e37030af5e32a3ff05d8b64200631ce116664",
           "path": "05_Finanzierung_Sicherheiten/10_Bankkonto_Umsatzliste.xlsx",
           "spec_sha256": "6731015329934880f42779d3e766fad050e55c6557c4b2ed9f9cbe6f469a3aea"
         },
         {
-          "artifact_sha256": "78076efd10ce90e3a53cf50df290e095297ca57b190b29b5a173b1d20e1fe82c",
+          "artifact_sha256": "2f33031e99012cc8af80dd6f207e5a375f2edb2df030cb023225b2a7a51ec16b",
           "path": "05_Finanzierung_Sicherheiten/11_Mail_Bankintern_Rechtekettenluecken.eml",
           "spec_sha256": "c849994c2fa5dbd10f6f137351ac653827ee969cc57cd768b3db9d2629128b67"
+        },
+        {
+          "artifact_sha256": "d5d4f7af283c45d9f6e37f2becdf03a888195a0957b55e4cf302a3ae935749c9",
+          "path": "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx",
+          "spec_sha256": "3b51483c882b3657d096d46e7e88240ed8f873d1c1696fa361654c0b33ca014a"
+        },
+        {
+          "artifact_sha256": "a60831b375899188ee273b41f1d0149d29824f9208e2f83a590735ef64adc1f2",
+          "path": "05_Finanzierung_Sicherheiten/13_Abruf_Tranche_1.eml",
+          "spec_sha256": "96370ac2a0aa463e66e699fbf5ed0ac5829f52bf55f5975f699e177d484df8cb"
+        },
+        {
+          "artifact_sha256": "34e2d86b6cf9e152d04324168db258946c631554ad0b0d5bc890b507a6f9946a",
+          "path": "05_Finanzierung_Sicherheiten/14_Auszahlungsanzeigen_und_SEPA_Belege.pdf",
+          "spec_sha256": "934fa070d73792b480ad0d75a81b3a27b41d0dbf5c54cf2d68474536911e9446"
+        },
+        {
+          "artifact_sha256": "ac4016b82e7b7ca021094cf452576a8e8c8b32f6ad89b901de2cb60430ef59f3",
+          "path": "05_Finanzierung_Sicherheiten/15_Verwendungsnachweis_Tranche_1.pdf",
+          "spec_sha256": "542712d2eb8299a650d518978be6be141252deea9968a686a9ba8c98dc427883"
+        },
+        {
+          "artifact_sha256": "08b9bbb686c975ea2595f6da22ea889ae09e9be7ad0138b324971ff078ede080",
+          "path": "05_Finanzierung_Sicherheiten/16_Abruf_Tranche_2.eml",
+          "spec_sha256": "56d5f872676e2dd573ebcaf87ca0c11530763d8c31cac5b481d7f95b3fc8b2ec"
+        },
+        {
+          "artifact_sha256": "3e8b8c116c4f09b82129c640c0bd39e2dc94cbe270e2017bdfdaec3aff617278",
+          "path": "05_Finanzierung_Sicherheiten/17_Schuldnerkontoauszug_Valuta.pdf",
+          "spec_sha256": "9ad3b405f48c82026cee9112f068949b60d5a02732205a6f46bded4a76aa7475"
+        },
+        {
+          "artifact_sha256": "3c52eaac8237f1a5b080a9bcd2520c634e8bf080a42047df1151e7df22777f48",
+          "path": "05_Finanzierung_Sicherheiten/18_Darlehenskonto_und_Saldo.xlsx",
+          "spec_sha256": "ce2321a68b6931db63b2a13871c103007a8d28173da0efa07e661f8704270fd2"
+        },
+        {
+          "artifact_sha256": "7974077fd30e85314e8974dc8ae44a5cd77d5fb32028bde863ea3d9d407bca08",
+          "path": "05_Finanzierung_Sicherheiten/19_Mahnung_Stillhaltebitte_und_Bankantwort.pdf",
+          "spec_sha256": "7cae809e84d4b80f032b564c9c2be739f819ba1b4807c906da780cbb5d18cafd"
+        },
+        {
+          "artifact_sha256": "9221c63304883780cfbf4a7c9da1bce19f76f303fa937d6b6f471163349c0395",
+          "path": "05_Finanzierung_Sicherheiten/20_Kuendigung_Faelligstellung_Verwertungsanzeige.pdf",
+          "spec_sha256": "6a3fe9b83a0b1861e8921e2930f7363d7ca366f64401fcd533862a10ad4f2104"
+        },
+        {
+          "artifact_sha256": "3f018660f08964027b31bfea7ec5c8f66dc8230839bad0257741ddb1b88caa20",
+          "path": "05_Finanzierung_Sicherheiten/21_Anlage_F1_und_Sicherheitenabrechnung.xlsx",
+          "spec_sha256": "823362bbd1a24374843d8bb5bbc1ecec6b9580e1213ab3c7b709a513f70c1be6"
         },
         {
           "artifact_sha256": "53604d9e400e86e1fcf95a232516326d0530b346462b0e19254b2132c146ae38",
@@ -389,7 +529,7 @@
           "spec_sha256": "a708631d64a5a6e7c90f013144a57579f6fdcbf0a3b09754cbcccb82ded146d4"
         },
         {
-          "artifact_sha256": "ef708a09d335be6b16f8b821747f63adec571fd3d9bfb03a4349867fe9935ba3",
+          "artifact_sha256": "eaf5fb2a6cbf9f7733efa8aa9e41c934bec844634f1fafdd14e6114d8bab039b",
           "path": "06_Insolvenz_AssetDeal/02_Inventurbericht_Verwalter.docx",
           "spec_sha256": "53489283dd921aa82efd4a59ec9722258ae49a703c934c325c7eb47ea6fb1dd5"
         },
@@ -399,17 +539,17 @@
           "spec_sha256": "69e2381a16ec0318e47556047dff979310313ea2cc55ec161f4c479580909034"
         },
         {
-          "artifact_sha256": "ef41dece709f46f989d34ba3b45ddf4d63e0558986e372c0986e9d42c4b7f58d",
+          "artifact_sha256": "71aedbb3981907f591620ec3b896bb0ee5feb897ca3038e3ec2709a043d30007",
           "path": "06_Insolvenz_AssetDeal/04_Asset_Purchase_Agreement_unterschrieben.docx",
           "spec_sha256": "1e1560098c62eaf9de6918aa03b61708f2e34a47f17417a52215b639081e88b5"
         },
         {
-          "artifact_sha256": "5aad4af761b4f9e6582357c286e0c2550575c824e4675dc4945cf844e282e54b",
+          "artifact_sha256": "5ed1f402eaa93af5dfcd08cfc78dbe51cd6b6f147c1f892eeda5607dfbfc58c2",
           "path": "06_Insolvenz_AssetDeal/05_Closing_Checkliste.xlsx",
           "spec_sha256": "91d77b5f4c6d72f004cefa3e5fbad827e69e2c6a98c805f94833ebc41a9e4c01"
         },
         {
-          "artifact_sha256": "6cc2f33ea8a01e6253bec9e91d852d200e8f2c74934e2d020810525ba30e196b",
+          "artifact_sha256": "2f9eb38f007b199b0d080a2a063c930e1b9971e1a659978d2335f39a4586d6ee",
           "path": "06_Insolvenz_AssetDeal/06_Mail_Verwalter_Vollzug.eml",
           "spec_sha256": "37e54664d64bd3b782f591b4a25f7665da53d7c14560e250f7bfab47dec22de0"
         },
@@ -421,47 +561,72 @@
       ]
     },
     "markenrechte-sicherungsuebertragung-insolvenz-mannheim": {
-      "combined_pdf_sha256": "5e480d181f9f23d994b855b72d81d90a9a299f38f1ce5fc11f72edd6feb0f0c6",
+      "combined_pdf_sha256": "ce5b47d3f4f4876fcd8aaf9bc85d9f2c52d2c25b4a982788c14fa67329b1b7f7",
       "documents": [
         {
-          "artifact_sha256": "6c6564ee25245bc15f81907acf63b9a230175c047a0ae913231e59ec99b2c0cf",
+          "artifact_sha256": "fd9f50718f3e0c0baa0f83655d1790ad4e2c096975af9210596e4caa9458e0b0",
           "path": "01_Finanzierungsanfrage_Kurpfalz_Tonwerke.docx",
-          "spec_sha256": "abd45d0042963fc9c276cb6be33958e0b676b38243a976fb610eaeeb1b31887e"
+          "spec_sha256": "3df3e26d24f00a068c224edc19ea106b8dfa2d5512deedfd6b7402ef9900d445"
         },
         {
-          "artifact_sha256": "ac41310d56a7bc5ff32d2e07d663007a4c65d83f6346c0ccf6502b6ce15b0300",
+          "artifact_sha256": "90b8d266ff9811b047d3cebc56cb085a6d4bb2f02827296e818d18b5f2d809b0",
           "path": "02_Darlehensvertrag_15-02-2024.pdf",
-          "spec_sha256": "935f1c07736454f8714cdc50d3afe0b8fbbddadf93ca32122e088d6f726f073c"
+          "spec_sha256": "02f15fed183a48ccbcb3e5db261f57f705329633af2e9ebab4af7f88d88b8ce6"
         },
         {
-          "artifact_sha256": "55ef31c5c1f5741dd496516280501df2982b7a2679af61d09024547b593c210e",
+          "artifact_sha256": "b2119f0a1f02eeea211b0f855b9f3df663e646296a18cd41a7d71048e77cb655",
+          "path": "02A_Abruf_Tranche_1_16-02-2024.eml",
+          "spec_sha256": "5a302670054b979b447e8746235fc6db39f21ecc1da7b40f3e743faa3f9555b7"
+        },
+        {
+          "artifact_sha256": "c7fd6d7b777fd45bf5c80658492b0707b12f61c3c319215d23d618b1b201ea79",
+          "path": "02B_CP_Check_und_Waiver_Tranche_1.xlsx",
+          "spec_sha256": "ea80dcf638edc0c0fbce843daabb642bccffa6637700c843ac963e3fe26e0e9e"
+        },
+        {
+          "artifact_sha256": "208005163afd69f52352aa281fb60cfbd2dbe65d486b90bdb1b77d343f280612",
           "path": "03_Gesellschafterbeschluss_Sicherheiten.docx",
-          "spec_sha256": "86800be86c841c8ae1991bd89eb6716ab393c3513bcde572d37e59952aa646d2"
+          "spec_sha256": "e4c2a8ca971c25e11f39fae2ee9a9dd028532e778e05ad96edb81edc1054fb21"
         },
         {
-          "artifact_sha256": "0830f99572e16b7c315ad5deb1b3cd0a1a0ba8e2073ebda5ba801cc03ac54117",
+          "artifact_sha256": "5163efca4d3457e17125e2e68f5c5ebc5024e9aee60be79eb28bc094be5a29b4",
           "path": "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
-          "spec_sha256": "ee4b0b946d09d672bfaf1c5c68dff6036c6a9758e0cbb65327efcfd8a4215b1c"
+          "spec_sha256": "0100c37db5435a8efce9c4e048cf4a19be26ee77f6f5507ee05ea8d1d882e3fc"
         },
         {
-          "artifact_sha256": "260f4bd7fdb440f2f0ae0cd346268c23d5d5558120c018a6fd9e4b1bc1653523",
+          "artifact_sha256": "d3fa23f8d38cf2e60307eb7ea070b66011d802d11b1e7dcaea55758c54549b01",
           "path": "05_Anlage_1_Markenbestand.xlsx",
           "spec_sha256": "571b9da9965d4b4d63afcd152e9ab5d14b05fc85249949ec422c42ac8059875b"
         },
         {
-          "artifact_sha256": "6bab3c71c3655c0a689582263514702a3343a7fa45e857866720215fd3e1eed7",
+          "artifact_sha256": "964dc0edded4bb631105f8f3f5287c441b82b2f572d233287787ef7f314be95a",
           "path": "06_Auszahlung_und_Unterlagen.eml",
-          "spec_sha256": "48d2b352e4af0125e4c267db7dde7c378be2ff9af0dd384bc8ff66dc29911c7a"
+          "spec_sha256": "bc1c6bb0207473b2e9eea700ca0e5bd9b418a5c69cc645751a2664570c6024a6"
         },
         {
-          "artifact_sha256": "19db9a5638863daf22818f811e66c7218ecf57d2972c82a2fc2cd548f93aba43",
+          "artifact_sha256": "07657bac2d5e1ff36809f46132059f26039cf6360e7556b20cc9b23dad29bac3",
+          "path": "06A_Abruf_Tranche_2_03-05-2024.eml",
+          "spec_sha256": "950aeeb5c74806ca204b6b37360e9b215364f8fe799e2cda5e6ab611b1e6a3cb"
+        },
+        {
+          "artifact_sha256": "4f05264db7aa334a9029b7a2ba11c490b1d192241fc38705e2bd240174d660e4",
+          "path": "06B_SEPA_Ausfuehrungsbelege_Tranchen.pdf",
+          "spec_sha256": "bffbd647bd3641e39bb9b7476e783043658718b3e813fabc3a7338cf820f03f7"
+        },
+        {
+          "artifact_sha256": "68df457aafdb1e345d0f3208ea47fd9c7a2375f153d0b97724ce2e72592fe7b2",
           "path": "07_Darlehenskonto_Neckarbruecke.csv",
-          "spec_sha256": "fccf0fef87f846e36773a26becbfb8cc12e5a59c72787f77c81cc8452abbf145"
+          "spec_sha256": "8d80a6d4fe941470d857c9d4639a0d8bc64ac85df98dd629f063e72378ae3b67"
         },
         {
-          "artifact_sha256": "d77517210f8a2ad451e99e4e96bf2dbe89c89befe4359ef9a4902ff2b401026a",
+          "artifact_sha256": "b551313c2c3502947bfa3fa91e3e7e88a731c195a21e90cded92ee4031566b7f",
+          "path": "07A_Kreditkonto_und_Saldenstaffel.xlsx",
+          "spec_sha256": "8e78535a20354880944f79eff08608d5f789c2521d5ccd866d89c0865a054525"
+        },
+        {
+          "artifact_sha256": "03ec35104731e9ab6ad36ba2d02d1ca7d62cfb5d174e194e295bdf3fd0e2e79f",
           "path": "08_Kontoauszuege_Schuldnerin.pdf",
-          "spec_sha256": "c24ec4f57eb5f3fc00bfa631e334a10aff2741da248310c0ac8a1cb91c48ba64"
+          "spec_sha256": "f2826ea12b1dbf9600920a11133c837caec800874e2e8a5c820fc14baf07fe9e"
         },
         {
           "artifact_sha256": "b2ff8daf778aca882dd8d73bebaad9c665a13e642f24b98b1ac86667a36d456a",
@@ -479,32 +644,62 @@
           "spec_sha256": "812ab83e7f038540f72f0fba26e8d844c6c496bd139fabe925cd9a537c976123"
         },
         {
-          "artifact_sha256": "5ad23089824125969d0fd7ae689ffcba560bbb09190c007c17f6b79514217cbd",
+          "artifact_sha256": "8c6db943a2f8ae28b81fe103c57f16f762cfd69e6b2be4bf9323dee1040c0e31",
           "path": "12_Vertriebs_und_Lizenzvertrag_Hainblick.docx",
           "spec_sha256": "a60ff02e3cbcb709f5654772d5d5527dd75fc13612829c3d35374117ddd985c3"
         },
         {
-          "artifact_sha256": "71432438952d8434b5cb94d462541c748f7b98b258b644c425be21e4e5a01fb6",
+          "artifact_sha256": "26c83ba548a30e06824c9b2788022d2c3713f3711bcb0328173bde542ec2faa5",
           "path": "13_Forderungskauf_18-08-2025.pdf",
-          "spec_sha256": "644060336c023aaf88be8de865a7c781da13e429d6c5d30c70f3aa5d53abe5ac"
+          "spec_sha256": "0bdd3618423f6c7b5d4b7cdb9d9d1c8fde6d7781faa6c5b44786acc52597c148"
         },
         {
-          "artifact_sha256": "f2bd7df400127acb41f5be67088a17cce912c460756d67d4fc26a1e5a31d3cec",
+          "artifact_sha256": "806e29fabb4155fb1df3d315b34366ca9fa790a1e3e954dbab0816ac4d48f4d5",
+          "path": "13A_Zessionsvollzug_und_Kaufpreisbeleg_25-08-2025.pdf",
+          "spec_sha256": "5eba1fcfc0faf3003da58331e20b7abf71222ab5cb18d6b6c57913b5ff438766"
+        },
+        {
+          "artifact_sha256": "88af765ad2aaae4f15965a20d9a2a1a4cdb830647a789316095eec799aa2262d",
+          "path": "13B_Kreditaktenuebergabe_25-08-2025.xlsx",
+          "spec_sha256": "be838c4fa4b480b5b92e3f726f994d79c59fd07bd3673fb7c2ab038b1f03d6cd"
+        },
+        {
+          "artifact_sha256": "d71e755bda4f3ee0e11590b196771769c63c666093177eebf362ffc919dcdd29",
           "path": "14_Anzeige_Forderungsabtretung.eml",
-          "spec_sha256": "5a9da994ad56c4c3b24418692f9f7fe762a7c1b94d78c75acd55c6d20c5b68ea"
+          "spec_sha256": "485d42325c7e9ecc3aefa628e8972c622dab9d5304c3e7bf6b9261f38f8b590a"
         },
         {
-          "artifact_sha256": "40e0ec10d0f3a785499e7252cc4472ba66b4830c8781ea646ea2ae92ac6ce359",
+          "artifact_sha256": "f9868383e70dc503d4e5b16a7199e3e7716310da41666ae309dcbfda2e697357",
+          "path": "14A_Empfangsbestaetigung_Glaeubigerwechsel.eml",
+          "spec_sha256": "d68da34c44575bc0221cce9bd89ff0cd5c4004675eb205da1d12cc059ac0b704"
+        },
+        {
+          "artifact_sha256": "d0679be92b3b18cea610c94c59335753bd654944451d6dbbb58f72d4cfa86fe7",
           "path": "15_Forderungskonto_Rebenpfad.xlsx",
-          "spec_sha256": "19de7dc172180d114f5d08d26fcefd086885240c81268d56e37561d5b4ddb909"
+          "spec_sha256": "f64c41d00bc1a5b43a9bd0b651258b220a09bf796f6cb4c803269265de740d13"
         },
         {
-          "artifact_sha256": "1f42b25c196aa3ede19859699df320407139fa430dd069b348335efff75c0419",
+          "artifact_sha256": "50f12127dab467e21c1a683606c013fe07f861c8859b81de8f29966a3d369455",
           "path": "16_Endfaelligkeit_und_Zahlungsaufforderung.docx",
-          "spec_sha256": "8c8f7eea5c7c4d00746ff2080dc7a85b4188057c554e3c2e718a4806278557a1"
+          "spec_sha256": "a046dd88d6abb03be6604de02f7584964dc32a7f91d8d574589820bd4b90d899"
         },
         {
-          "artifact_sha256": "c6a2d6cdb34e43b81e1ab6f9aaa3f67e70ad918b86e04141b215b72ac501b210",
+          "artifact_sha256": "3e74097f110a011c1cec62e05b716da24fb01eb3f92c320eceba2ec22ca92111",
+          "path": "16A_Sicherungsfall_und_Verwertungsankuendigung_04-03-2026.pdf",
+          "spec_sha256": "6f6dc01f9322c067d7fa1b901a453446e3a70a30f20876a9b5ab12d18a3e28f5"
+        },
+        {
+          "artifact_sha256": "65e908371fe0b14b6d4ba8a10a2ed86b1abeea26b73d28755a8a965c9508e000",
+          "path": "16B_Versand_Sicherungsfallschreiben.eml",
+          "spec_sha256": "d4a3210486fa36db47df06fb76bcd72cbd9a5aef6c1926b7bc10ecc3f0590c92"
+        },
+        {
+          "artifact_sha256": "f533b2dc320c1671172b033a3522356e06a576806aea9de364305029fd9bcb36",
+          "path": "16C_Zustellnachweis_Sicherungsfallschreiben.eml",
+          "spec_sha256": "25a90d9571a56eae6487a3a04bf2765121a3f9f82ab44bbc78573da1a8c6815e"
+        },
+        {
+          "artifact_sha256": "fdf1a960a25a0b58f22e51aee22dba204a288702fb91982296001e22ddad83cd",
           "path": "17_Einwendungen_Schuldnerin.eml",
           "spec_sha256": "3f1c4aec380b9fd61b2f73a4aab10d9a0244d6a652c280c9e11a38e17ae44531"
         },
@@ -519,14 +714,14 @@
           "spec_sha256": "4ca5d88f4bb7bc0d0015164f997de2f1ead497b0ca99e695f61eda5144360bca"
         },
         {
-          "artifact_sha256": "123d872145e1f0ae39f8c58a00ea5a0a38a054463f302522b1f26bfd33c0c5df",
+          "artifact_sha256": "958deaa3746722f86e36781ca3614b69f457965b7019f3e8c9132d341ebe79e0",
           "path": "20_IP_Inventar_Insolvenzverwaltung.xlsx",
           "spec_sha256": "231129571793f144ae54041802f54ff8ed9333c98c99d3257ca98f6f2b73abee"
         },
         {
-          "artifact_sha256": "d0bce406b6a16d40c431bb678da0438fa62c7accd7eae42b5cac03c5aab14d64",
+          "artifact_sha256": "afcf5439db76c62e4daa616f2d137dee6b9b6ef05118a1bce541abd2cba98d4b",
           "path": "21_Anzeige_Sicherungsrechte_an_Verwalterin.eml",
-          "spec_sha256": "346c4460f291f9b0cfbd5f7f9da127187fc2e9eaa0151f203e6685f046b2990c"
+          "spec_sha256": "7aec19a2ed39c33c8efe86b630e39c7c189a604a69de21495ddf79c9e573cd95"
         },
         {
           "artifact_sha256": "dc4e45f53966f94a4c9ecb907ef1bd194b17213c2d18903b8d7b7e2d3a39b8f6",
@@ -544,9 +739,9 @@
           "spec_sha256": "02ed65b910bb6c8751fd62ef425d61f014db565741acbf76e944d9155e2159b2"
         },
         {
-          "artifact_sha256": "941dc5bc47c8aee3f248c2ed38ec5a9cec117f99847b43d316626fc992803d31",
+          "artifact_sha256": "257b586abc25f15eb6264db153e38c999c2f92d0965581e7a519ae4e555a578e",
           "path": "25_Datenraum_QA_und_Zugriffe.xlsx",
-          "spec_sha256": "c7ccc4ce942a329bf911c7422d92ff16aa9d919dbde7c55d65737697815b93db"
+          "spec_sha256": "7dac5c7a611aeabedba26becc81a1de6adc992369a0eb3acee2500ed52d871b9"
         },
         {
           "artifact_sha256": "981fb9f1c19dd5a50664880f6c035b816f14c3be5ff027f6d6e7317e9ce2894a",
@@ -554,7 +749,7 @@
           "spec_sha256": "63cdd935639e4bf798176a41ebac9e3d0345a1ab29924f219810ccedd84c117c"
         },
         {
-          "artifact_sha256": "d7d7abe8ffcd8320963a4e67e4c2a1806be5b996a2dfe7513d9f184bb1cadc69",
+          "artifact_sha256": "6efe62e8b04239adf92e5efef324864e6050eb9db11cbd794569fbb8197ddd63",
           "path": "27_Bietervergleich_und_Erloesallokation.xlsx",
           "spec_sha256": "5df01d749484cbb716394c39ab9103ee421b1503f79f8f3026e714c2d4211bf8"
         },
@@ -564,7 +759,7 @@
           "spec_sha256": "a3af0e98bd3a510fd8aa4d927c132546abe19495bdc5c42a54c2601b9f883ff5"
         },
         {
-          "artifact_sha256": "d2a674e51e138925dbd3dd7f546d2fb6d8791c92d9703355f2f23eec0a26d3bb",
+          "artifact_sha256": "c5eb7034ebcfeb186824da773d1b8d6104da5bdf7c733c106cfe6ea4289955b2",
           "path": "29_Preiskorridor_aber_keine_Freigabe.eml",
           "spec_sha256": "b18014852b2e88d795406c5004ac6f7537d4367cc59402ee5ecab4f4950e3d35"
         },
@@ -574,12 +769,12 @@
           "spec_sha256": "d8ece11ad2754e7dcb507363500b0baf9cd7cb08f6bd2132d4b16ed41b670fef"
         },
         {
-          "artifact_sha256": "ce47d939dd5dc28b4773f3ceb5e9b5101064a54fc77a5f004cd276a0c703d208",
+          "artifact_sha256": "671cc4cdb410f52ee2e0d041d07b2afdf9f9c3c5066c10863703868d9f5a468c",
           "path": "31_Closing_Checkliste_Stand_22-10-2026.xlsx",
           "spec_sha256": "3236327d71742e29cc21855d9b7c2cdd05ada17a290f4e1623bbd1879c339f3c"
         },
         {
-          "artifact_sha256": "074f390531cfd2fb9390ef3074eedaa0bd5a6ad29232686f0e4266593f1b49af",
+          "artifact_sha256": "36fad71018784ed0ad3ba711eb5a2203a63b70b55a353bbeb130313c6b0f61c7",
           "path": "32_Mitteilung_Verwertung_und_Closing.eml",
           "spec_sha256": "2dcce77bf03f8a0f2ece67124c1333d8ab345f7a39fd1845a598dd6a64830049"
         },
@@ -589,7 +784,7 @@
           "spec_sha256": "ea6594427c3d8c7f5ee651008e6f9af1b06935b9e3e21c8dbf3c30c5a3e9873b"
         },
         {
-          "artifact_sha256": "c67a5bb4193efb821312cb902f950de918692b143c03f3c29c036b52f13c76e5",
+          "artifact_sha256": "716d3ae2ab608b6f80e226d68430bc6d9a220ba667033fa30d000922196d48c4",
           "path": "34_Gespraechsvermerk_23-10-2026.docx",
           "spec_sha256": "23c54e7e42be77c2143e08c8b030c16b620b77b3c1512f2d5b29be44e736daf6"
         }

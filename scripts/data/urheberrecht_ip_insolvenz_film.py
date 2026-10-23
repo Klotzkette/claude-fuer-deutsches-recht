@@ -78,6 +78,82 @@ def _csv(
     }
 
 
+def _draw_request(
+    path: str,
+    *,
+    draw_id: str,
+    facility: str,
+    amount: str,
+    date: str,
+    requested_value_date: str,
+    purpose: str,
+) -> dict[str, Any]:
+    return _mail(
+        path,
+        f"Abruf {draw_id} über {amount} EUR",
+        sender="Konrad Riemenschneider <riemenschneider@kurpfalz-lichtbild.example>",
+        to=["Bettina Karg <bettina.karg@palatina-medienbank.example>"],
+        cc=["finanzen@kurpfalz-lichtbild.example", "Hanno Seubert <hanno.seubert@palatina-medienbank.example>"],
+        date=date,
+        subject=f"KLP-2024-0418 / Abruf {draw_id} / {amount} EUR",
+        body=(
+            f"Sehr geehrte Frau Karg,\n\nhiermit rufen wir unter dem "
+            f"Produktionsdarlehensvertrag KLP-2024-0418 aus dem Kreditteil {facility} "
+            f"den Betrag von {amount} EUR zum {requested_value_date} ab. Die Gutschrift soll "
+            "auf das Projektkonto IBAN DE00 0000 0000 0000 0000 00 erfolgen. "
+            f"Verwendungszweck: {purpose}.\n\nDie in der CP-Checkliste für diesen Abruf "
+            "bezeichneten Unterlagen wurden im Bankdatenraum unter der Abrufkennung "
+            f"{draw_id} eingestellt. Wir bestätigen, dass die Angaben vollständig sind und uns "
+            "kein nicht offengelegter Kündigungs- oder Sicherungsfall bekannt ist.\n\n"
+            "Mit freundlichen Grüßen\nKonrad Riemenschneider\nKurpfalz Lichtbild GmbH"
+        ),
+    )
+
+
+def _bank_payment_notice(
+    path: str,
+    *,
+    draw_id: str,
+    facility: str,
+    amount: str,
+    request_date: str,
+    value_date: str,
+    booking_id: str,
+    cp_evidence: str,
+) -> dict[str, Any]:
+    return _doc(
+        path,
+        "pdf",
+        f"Bankfreigabe und Auszahlungsanzeige {draw_id}",
+        sections=[
+            _section(
+                "1. Bezug und Abruf",
+                f"Kreditvertrag: KLP-2024-0418. Darlehenskonto: KD-2417-01. Kreditteil: {facility}. Abrufkennung: {draw_id}.",
+                f"Abruf der Kurpfalz Lichtbild GmbH vom {request_date} über {amount} EUR zur Gutschrift auf das Projektkonto IBAN DE00 0000 0000 0000 0000 00.",
+            ),
+            _section(
+                "2. Prüfung der Auszahlungsvoraussetzungen",
+                f"Die Marktfolge hat den Abruf mit der CP-Checkliste abgeglichen. Maßgebliche Nachweise: {cp_evidence}.",
+                "Die Prüfung dokumentiert nur den bankinternen Auszahlungsentscheid. Sie enthält keine abschließende rechtliche Aussage zur Wirksamkeit, zum Rang oder zur insolvenzrechtlichen Behandlung der Sicherheiten.",
+            ),
+            _section(
+                "3. Bankfreigabe und Zahlungsauftrag",
+                f"Die Auszahlung von {amount} EUR wird im Vier-Augen-Prinzip freigegeben. Belastung: Darlehenskonto KD-2417-01. Gutschrift: Projektkonto der Kurpfalz Lichtbild GmbH. Zahlungsreferenz: {booking_id}.",
+            ),
+            _section(
+                "4. Valutierungsnachweis",
+                f"Buchungsstatus: ausgeführt. Valuta und Gutschrift auf dem Projektkonto: {value_date}. Betrag: {amount} EUR. Buchungs-ID: {booking_id}.",
+                "Die Buchung ist im Projektkontoauszug und im Darlehenskonto mit derselben Buchungs-ID ausgewiesen.",
+            ),
+            _section(
+                "5. Zeichnung",
+                f"Mannheim, {value_date} — Bettina Karg, Spezialfinanzierungen, elektronisch freigegeben.",
+                f"Mannheim, {value_date} — Hanno Seubert, Marktfolge, elektronisch gegengezeichnet.",
+            ),
+        ],
+    )
+
+
 CASE: dict[str, Any] = {
     "slug": "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen",
     "title": "Die letzte Rieslingspur zwischen Filmsicherheiten und Insolvenzverkauf",
@@ -87,7 +163,9 @@ CASE: dict[str, Any] = {
         "Die Mannheimer Palatina Medienbank AG finanzierte den Spielfilm Die letzte "
         "Rieslingspur der Schwetzinger Kurpfalz Lichtbild GmbH. Körperliche Mastermedien, "
         "Lizenzforderungen und Film- sowie Nutzungsrechte wurden in getrennten Urkunden "
-        "als Sicherheiten bezeichnet. Nach Insolvenzeröffnung hat die Verwalterin einen "
+        "als Sicherheiten bezeichnet. Ziehungsunterlagen, Valutabelege, Projekt- und "
+        "Darlehenskonto sowie ein aktueller Saldennachweis dokumentieren die Hauptschuld. "
+        "Nach Insolvenzeröffnung hat die Verwalterin einen "
         "Asset Deal mit der Deidesheimer Weintor Streamworks GmbH unterzeichnet und die "
         "Übergabe des gesamten Filmpakets einschließlich Master und Kundenforderungen angekündigt."
     ),
@@ -96,7 +174,10 @@ CASE: dict[str, Any] = {
         "Rechte- und Transaktionsakte. Neben einem LTO-Mastersatz und physischen Arbeitsplatten "
         "bestehen Cloud-Kopien, laufende Lizenzforderungen gegen Streamer und Sender sowie eine "
         "Rechtekette aus Drehbuch, Romanvorlage, Musik, Darstellerleistungen, Archivmaterial und "
-        "Filmherstellerrechten. Der Kaufvertrag ist bereits unterzeichnet; Closing und technische "
+        "Filmherstellerrechten. Die Produktionslinie und Fertigstellungstranche sind durch sechs "
+        "Abrufe, sechs Bankfreigaben, ein Projektkonto und ein abgestimmtes Darlehenskonto belegt; "
+        "die insolvenzrechtliche Durchsetzbarkeit der Sicherheiten bleibt davon getrennt zu prüfen. "
+        "Der Kaufvertrag ist bereits unterzeichnet; Closing und technische "
         "Auslieferung sollen am 29. Oktober beginnen. Eine Freigabe der Bank liegt nach deren Akte "
         "nicht vor. Zu klären sind Rechtslage und rechtlich mögliche Reaktionen, ohne dass die "
         "Unterlagen selbst eine Lösung vorgeben."
@@ -164,6 +245,7 @@ CASE: dict[str, Any] = {
         },
     ],
     "questions": [
+        "Welche Ziehungen, Valutierungen, Tilgungen, Zinsen und Gebühren tragen den von der Bank ausgewiesenen Saldo, und welche Primärbelege lassen sich miteinander abstimmen?",
         "Welche körperlichen Datenträger, Geräte, Forderungen, urheberrechtlichen Nutzungsrechte, Filmherstellerrechte und sonstigen Rechte sind jeweils Gegenstand welcher Sicherheitenurkunde?",
         "Wie lässt sich die Rechtekette an Romanvorlage, Drehbuch, Regie, Darstellerleistungen, Filmmusik, Archivaufnahmen, Drohnenbildern, Standfotos und Endfassung anhand der Originalunterlagen rekonstruieren?",
         "Welche Unterschiede bestehen zwischen dem LTO-Mastersatz, den Arbeitsfestplatten, den Cloud-Kopien, den Forderungen aus Lizenzverträgen und den immateriellen Filmrechten?",
@@ -183,7 +265,7 @@ CASE: dict[str, Any] = {
         "Für zwei historische Archivsequenzen liegt eine Lizenz bis 31. Dezember 2027 vor; der Asset Deal kalkuliert mit einer unbefristeten internationalen Bibliotheksauswertung.",
         "Die Komponistin räumte Rechte am Score ein; ein in der Festivalfassung verwendetes Jazzstück stammt von einem Dritten und erscheint nicht in Anlage 1 des Musikvertrags.",
         "Die Globalzession erfasst Lizenz-, Vertriebs- und Nebenforderungen, während die Debitorenliste einzelne Mindestgarantien als Kaufpreisbestandteil des Asset Deals ausweist.",
-        "Rheinbild zahlte eine Rate nach Verfahrenseröffnung auf das operative Konto; die Buchhaltung ordnete sie dem zweiten Lizenzjahr zu, die Erwerberin bezeichnet sie als Closing Working Capital.",
+        "Rheinbild zahlte die zweite Mindestgarantierate am 6. April 2026 vor Verfahrenseröffnung auf das operative Konto; eine gesonderte technische Nachvergütung von 17.850 EUR ging am 6. Oktober 2026 auf dem Massekonto ein. Offen ist, wie beide Zahlungen im Verhältnis zur Sicherungsabtretung und zum Darlehenskonto zu behandeln sind.",
         "Der APA nimmt Datenträger und Rechte als ein Filmpaket auf, verteilt den Kaufpreis intern aber auf Hardware, Rechtebibliothek und Forderungen.",
         "Die Closing-Checkliste bezeichnet eine Zustimmung der Bank als entbehrlich, während ein älterer Datenraumindex eine Freigabeerklärung als noch einzuholendes Dokument führt.",
         "Noch ist nicht belegt, ob der Erwerberin bereits Download-Token, Verschlüsselungsschlüssel oder physische LTO-Bänder übergeben wurden; angekündigt ist die technische Übergabe ab 29. Oktober 2026 um 09:00 Uhr.",
@@ -208,6 +290,9 @@ CASE["documents"].extend(
                 "und die Film- beziehungsweise Nutzungsrechte. Gestern Abend übersandte Frau Dr. "
                 "Berthold einen bereits unterzeichneten Kaufvertrag mit Weintor Streamworks. Die "
                 "technische Übergabe soll am 29. Oktober beginnen. Wir haben keine Freigabe erklärt.\n\n"
+                "Die beigefügten Kreditunterlagen weisen sechs Valutierungen über insgesamt "
+                "2.150.000 EUR, drei Kapitalrückführungen über insgesamt 710.000 EUR und zum "
+                "22. Oktober 2026 einen Gesamtsaldo von 1.476.830,44 EUR aus.\n\n"
                 "Bitte ordnen Sie die Unterlagen gegenstandsbezogen, rekonstruieren Sie die Rechtekette "
                 "und prüfen Sie die Rechtslage sowie die noch rechtzeitig verfügbaren Handlungsoptionen. "
                 "Wir benötigen außerdem eine Liste fehlender Originalnachweise. In der Akte liegen "
@@ -215,9 +300,15 @@ CASE["documents"].extend(
                 "Bettina Karg\nLeiterin Spezialfinanzierungen"
             ),
             attachments=[
+                "04_Finanzierung_Sicherheiten/01_Produktionsdarlehen.pdf",
                 "04_Finanzierung_Sicherheiten/02_IP_Sicherungsvertrag_Filmrechte.docx",
                 "04_Finanzierung_Sicherheiten/03_Sicherungsuebereignung_Mastermedien.pdf",
                 "04_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx",
+                "04_Finanzierung_Sicherheiten/07_CP_Checkliste_und_Ziehungsregister.xlsx",
+                "04_Finanzierung_Sicherheiten/08_Nachtrag_Fertigstellungstranche_2025.pdf",
+                "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf",
+                "04_Finanzierung_Sicherheiten/22_Darlehenskonto_und_Saldenkontrolle.xlsx",
+                "04_Finanzierung_Sicherheiten/23_Aktueller_Saldennachweis_2026-10-22.pdf",
                 "06_Insolvenz_AssetDeal/04_Asset_Purchase_Agreement_unterschrieben.docx",
             ],
         ),
@@ -233,7 +324,8 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "2. Finanzierung und Dokumentensätze",
-                    "Die Bank stellte 2024 eine Produktionslinie über 1.850.000 EUR und 2025 eine Fertigstellungstranche über 420.000 EUR bereit. Der Saldo laut Kreditbuch beträgt zum 30. September 2026 einschließlich Zinsen 1.476.830,44 EUR.",
+                    "Die Bank stellte 2024 eine Produktionslinie über 1.850.000 EUR und 2025 eine zusätzliche Fertigstellungstranche über 420.000 EUR bereit. Aus der Produktionslinie wurden 1.730.000 EUR, aus der Fertigstellungstranche 420.000 EUR valutiert. Nach Kapitalrückführungen von insgesamt 710.000 EUR verbleibt ein Kapitalbetrag von 1.440.000 EUR.",
+                    "Der abgestimmte Saldo zum 22. Oktober 2026, 07:00 Uhr, beträgt einschließlich 36.830,44 EUR offener Zinsen und Gebühren 1.476.830,44 EUR. CP-Checkliste, sechs Abrufe, sechs Bankfreigaben und Auszahlungsanzeigen, Projektkontoauszug, Darlehenskonto und Saldennachweis liegen in der Finanzierungsakte.",
                     "Im Sicherheitentresor liegen drei gesonderte Urkunden: IP-Sicherungsvertrag, Sicherungsübereignung von Mastermedien und Technik sowie Sicherungsabtretung von Lizenzforderungen. Ob alle Anlagen in der Schlussfassung gegengezeichnet wurden, ist offen.",
                 ),
                 _section(
@@ -260,16 +352,27 @@ CASE["documents"].extend(
                         ["14.09.2023", "Drehbuchvertrag", "Zobel / Kurpfalz Lichtbild", "03_Rechtekette_Vertraege/03_Drehbuchvertrag_Jonna_Zobel.docx", "Widerspruch zur E-Mail vom 04.08.2025"],
                         ["18.04.2024", "Produktionsdarlehen", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/01_Produktionsdarlehen.pdf", "Fertigstellungstranche"],
                         ["19.04.2024", "IP-Sicherheit und Mastermedien", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/02_IP_Sicherungsvertrag_Filmrechte.docx", "Anlage B unvollständig"],
+                        ["23.04.2024", "Ziehung PL-01 valutiert: 620.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/10_Bankfreigabe_PL01_620000.pdf", "CP laut Checkliste erfüllt"],
                         ["07.05.2024", "Drehbeginn Deidesheim", "Produktionsteam", "02_Produktion_Medien/02_Produktionsdossier.docx", "Rohmaterialbestand"],
+                        ["12.07.2024", "Ziehung PL-02 valutiert: 480.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/12_Bankfreigabe_PL02_480000.pdf", "CP laut Checkliste erfüllt"],
                         ["22.11.2024", "Rohschnitt abgenommen", "Produzent / Regie", "Schnittprotokoll", "keine Originaldatei in Akte"],
+                        ["29.11.2024", "Ziehung PL-03 valutiert: 420.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/14_Bankfreigabe_PL03_420000.pdf", "CP laut Checkliste erfüllt"],
+                        ["10.01.2025", "Nachtrag Fertigstellungstranche 420.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/08_Nachtrag_Fertigstellungstranche_2025.pdf", "zusätzliche Tranche"],
+                        ["15.01.2025", "Ziehung FT-01 valutiert: 250.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/18_Bankfreigabe_FT01_250000.pdf", "CP laut Checkliste erfüllt"],
                         ["21.02.2025", "Sicherungsabtretung Forderungen", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx", "Anzeige an alle Debitoren?"],
+                        ["04.04.2025", "Ziehung PL-04 valutiert: 210.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/16_Bankfreigabe_PL04_210000.pdf", "Produktionslinie zu 1.730.000 EUR genutzt"],
+                        ["19.05.2025", "Ziehung FT-02 valutiert: 170.000 EUR", "Palatina / Kurpfalz Lichtbild", "04_Finanzierung_Sicherheiten/20_Bankfreigabe_FT02_170000.pdf", "Fertigstellungstranche voll genutzt"],
                         ["04.08.2025", "Autorin beanstandet Verwertungsumfang", "Zobel / Produktion", "03_Rechtekette_Vertraege/09_Mail_Autorin_Rechteumfang.eml", "Einordnung der Korrespondenz"],
+                        ["29.08.2025", "Kapitalrückführung RZ-01: 180.000 EUR", "Kurpfalz Lichtbild / Palatina", "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf", "gebucht"],
+                        ["15.02.2026", "Kapitalrückführung RZ-02: 220.000 EUR", "Kurpfalz Lichtbild / Palatina", "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf", "gebucht"],
                         ["12.03.2026", "Festivalpremiere Heidelberg", "Produktion / Publikum", "Presseunterlagen", "verwendete Filmfassung"],
+                        ["20.05.2026", "Kapitalrückführung RZ-03: 310.000 EUR", "Kurpfalz Lichtbild / Palatina", "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf", "gebucht"],
                         ["18.08.2026", "Zahlungsstockung angezeigt", "Produktion / Bank", "Bankakte", "vollständige Liquiditätsdaten"],
                         ["30.09.2026", "Insolvenzverfahren eröffnet", "AG Heidelberg / Dr. Berthold", "06_Insolvenz_AssetDeal/01_Insolvenzeroeffnungsbeschluss.pdf", "Rechtskraftvermerk"],
                         ["14.10.2026", "Bewertung Filmpaket", "Neckarblick Valuation", "06_Insolvenz_AssetDeal/03_Bewertung_Filmpaket.pdf", "Rechteannahmen"],
                         ["20.10.2026", "APA unterzeichnet", "Verwalterin / Weintor", "06_Insolvenz_AssetDeal/04_Asset_Purchase_Agreement_unterschrieben.docx", "Verfügungs- und Zustimmungslage"],
                         ["21.10.2026", "Vollzug Bank angekündigt", "Dr. Berthold / Palatina", "06_Insolvenz_AssetDeal/06_Mail_Verwalterin_Vollzugsankuendigung.eml", "Bankreaktion offen"],
+                        ["22.10.2026", "Saldo 1.476.830,44 EUR und Sicherungsfall angezeigt", "Palatina / Dr. Berthold", "04_Finanzierung_Sicherheiten/23_Aktueller_Saldennachweis_2026-10-22.pdf", "Rechtswirkungen bleiben streitig"],
                         ["29.10.2026", "technische Übergabe geplant", "Verwalterin / Erwerberin", "06_Insolvenz_AssetDeal/05_Closing_Checkliste.xlsx", "Token, Master und Forderungslisten"],
                     ],
                 },
@@ -678,23 +781,33 @@ CASE["documents"].extend(
             sections=[
                 _section(
                     "1. Darlehen",
-                    "Die Palatina Medienbank AG gewährt der Kurpfalz Lichtbild GmbH am 18. April 2024 eine revolvierende Produktionslinie bis 1.850.000 EUR. Die Mittel sind ausschließlich für den Film Die letzte Rieslingspur zu verwenden.",
-                    "Mit Nachtrag vom 10. Januar 2025 wird eine Fertigstellungstranche bis 420.000 EUR zugesagt. Auszahlungen setzen Budgetnachweise, Fertigstellungsberichte und wirksame Bestellung der vereinbarten Sicherheiten voraus.",
+                    "Die Palatina Medienbank AG gewährt der Kurpfalz Lichtbild GmbH mit Vertrag KLP-2024-0418 am 18. April 2024 eine revolvierende Produktionslinie bis 1.850.000 EUR. Das Darlehenskonto wird unter KD-2417-01 geführt. Die Mittel sind ausschließlich für den Film Die letzte Rieslingspur zu verwenden.",
+                    "Mit gesondertem Nachtrag vom 10. Januar 2025 wird zusätzlich eine Fertigstellungstranche bis 420.000 EUR zugesagt. Der gemeinsame Höchstkapitalbetrag beider Kreditteile beträgt damit 2.270.000 EUR.",
                 ),
                 _section(
-                    "2. Rückzahlung",
+                    "2. Abruf und Auszahlungsvoraussetzungen",
+                    "Jeder Abruf bedarf einer Erklärung in Textform mit Kreditteil, Betrag, gewünschtem Valutatag, Verwendungszweck und Empfängerkonto. Auszahlungen setzen die in der CP-Checkliste bezeichneten Budgetnachweise, Kosten- und Fertigstellungsberichte, Kontounterlagen und die für die jeweilige Produktionsphase fällige Sicherheitenbestellung voraus.",
+                    "Die Sicherungsabtretung von Lizenzforderungen ist spätestens vor Abschluss des ersten Lizenzvertrags vorzulegen. Ihr Fehlen hindert frühere Produktionsabrufe nicht, solange noch keine Lizenzforderungen bestehen und die Bank die Zurückstellung in der CP-Checkliste dokumentiert.",
+                ),
+                _section(
+                    "3. Verzinsung und Gebühren",
+                    "Valutierte Beträge werden mit 4,75 Prozent jährlich verzinst. Zinsen werden taggenau auf Basis tatsächliche Tage geteilt durch 360 berechnet und vierteljährlich dem Darlehenskonto belastet. Für nicht genutzte, noch abrufbare Beträge fällt eine Bereitstellungsprovision von 0,25 Prozent jährlich an.",
+                    "Darlehenskontoauszüge unterscheiden Kapital, Tilgung, Zinsen und Gebühren. Zahlungen werden nach Kosten und Zinsen auf Kapital verrechnet, soweit die Parteien für einzelne Projektkontoabschöpfungen keine abweichende Kapitalzuordnung dokumentieren.",
+                ),
+                _section(
+                    "4. Rückzahlung",
                     "Die Rückführung erfolgt aus Fördermitteln, Mindestgarantien, Lizenzerlösen und sonstigen Verwertungseinnahmen. Endfälligkeit ist der 30. Juni 2027; bei wesentlichen Vertragsverletzungen, Zahlungseinstellung oder Insolvenzantrag kann die Bank kündigen.",
                 ),
                 _section(
-                    "3. Sicherheiten",
+                    "5. Sicherheiten",
                     "Vereinbart werden gesonderte Urkunden über Film- und Nutzungsrechte, körperliche Mastermedien und Produktionsgeräte sowie gegenwärtige und künftige Forderungen aus Vertrieb und Lizenzierung. Rang und Freigabe richten sich nach den jeweiligen Sicherheitenverträgen.",
                 ),
                 _section(
-                    "4. Kontenführung",
+                    "6. Kontenführung",
                     "Verwertungserlöse sollen auf das Projektkonto IBAN DE00 0000 0000 0000 0000 00 bei der Palatina Medienbank fließen. Abweichende Konten dürfen nur mit Zustimmung der Bank als Erlöskonten verwendet werden.",
                 ),
                 _section(
-                    "5. Unterschriften",
+                    "7. Unterschriften",
                     "Mannheim, 18. April 2024 — Palatina Medienbank AG, Bettina Karg und Hanno Seubert, handschriftlich unterzeichnet.",
                     "Schwetzingen, 19. April 2024 — Kurpfalz Lichtbild GmbH, Konrad Riemenschneider, handschriftlich unterzeichnet.",
                 ),
@@ -707,7 +820,7 @@ CASE["documents"].extend(
             sections=[
                 _section(
                     "1. Sicherungszweck",
-                    "Die Kurpfalz Lichtbild GmbH bestellt der Palatina Medienbank AG zur Sicherung sämtlicher gegenwärtiger und künftiger Ansprüche aus der Produktionsfinanzierung die in Anlage A und B bezeichneten Rechte und Rechtspositionen.",
+                    "Die Kurpfalz Lichtbild GmbH bestellt der Palatina Medienbank AG zur Sicherung sämtlicher gegenwärtiger und künftiger Ansprüche aus dem Produktionsdarlehensvertrag KLP-2024-0418 vom 18./19. April 2024, Darlehenskonto KD-2417-01, einschließlich wirksam einbezogener Nachträge, Zinsen, Gebühren und Verwertungskosten die in Anlage A und B bezeichneten Rechte und Rechtspositionen.",
                     "Der Sicherungszweck endet erst nach vollständiger und endgültiger Befriedigung der gesicherten Ansprüche. Freigaben bedürfen einer Erklärung der Bank in Textform.",
                 ),
                 _section(
@@ -746,23 +859,29 @@ CASE["documents"].extend(
             "Sicherungsübereignung Mastermedien und Geräte",
             sections=[
                 _section(
-                    "1. Gegenstände",
+                    "1. Darlehensbezug und Sicherungszweck",
+                    "Die Sicherungsübereignung sichert sämtliche gegenwärtigen und künftigen Ansprüche der Palatina Medienbank AG aus dem Produktionsdarlehensvertrag KLP-2024-0418 vom 18./19. April 2024, Darlehenskonto KD-2417-01, einschließlich Zinsen, Gebühren und angemessener Verwertungskosten. Vertragsänderungen und Krediterhöhungen sind nur einbezogen, wenn Sicherungsgeberin und Bank dies in Textform bestätigen.",
+                    "Nach vollständiger und endgültiger Befriedigung der gesicherten Ansprüche gibt die Bank das Sicherungseigentum frei. Teilfreigaben und Freigaben für Verfügungen über einzelne Gegenstände bedürfen einer Erklärung der Bank in Textform.",
+                ),
+                _section(
+                    "2. Gegenstände",
                     "Die Kurpfalz Lichtbild GmbH überträgt der Palatina Medienbank AG am 19. April 2024 das Sicherungseigentum an den in Anlage 1 einzeln bezeichneten beweglichen Sachen. Bei Austausch sollen Ersatzgegenstände nach den vertraglichen Voraussetzungen einbezogen werden.",
                     "Anlage 1 nennt LTO-KL-001, LTO-KL-002, RAID-Gehäuse KL-RAID-02, zwei Schnittrechner und einen Referenzmonitor mit Seriennummern. Shuttle-SSDs und Cloudspeicher werden nicht genannt.",
                 ),
                 _section(
-                    "2. Besitz und Nutzung",
+                    "3. Besitz und Nutzung",
                     "Die Sachen verbleiben im unmittelbaren Besitz der Sicherungsgeberin, soweit sie nicht bei einem beauftragten Labor lagern. Die Sicherungsgeberin darf sie bis zum Sicherungsfall produktionsbezogen nutzen, muss sie kennzeichnen, versichern und in einer Inventarliste führen.",
                     "Für bei Dienstleistern lagernde Sachen soll die Sicherungsgeberin eine Besitzmittlungsbestätigung oder Herausgabevereinbarung beschaffen. Eine solche Erklärung der Komet Postproduction GmbH liegt der Urkunde nicht bei.",
                 ),
                 _section(
-                    "3. Verwertung",
+                    "4. Verwertung",
                     "Nach Eintritt des Sicherungsfalls darf die Bank Herausgabe verlangen und die Sachen nach angemessener Ankündigung verwerten. Die Sicherungsgeberin soll alle zum Lesen der Daten erforderlichen Passwörter und Dokumentationen herausgeben.",
                     "Die Urkunde trifft keine eigenständige Regelung darüber, wem urheberrechtliche oder sonstige immaterielle Rechte an den auf den Datenträgern gespeicherten Inhalten zustehen.",
                 ),
                 _section(
-                    "4. Nachtrag vom 17. Februar 2026",
+                    "5. Nachtrag vom 17. Februar 2026",
                     "Der Nachtrag ersetzt die ursprünglich vorgesehenen LTO-8-Bänder durch LTO-9-Bänder mit den Seriennummern L9P-773418 und L9P-773419. Die Gegenzeichnung der Bank ist vorhanden; die Produzentin unterzeichnete eine separate Seite.",
+                    "Der Nachtrag bestätigt zugleich in Textform, dass der Sicherungszweck auch die zusätzliche Fertigstellungstranche von 420.000 EUR aus dem Nachtrag zum Produktionsdarlehen vom 10. Januar 2025 erfasst.",
                 ),
             ],
         ),
@@ -772,22 +891,27 @@ CASE["documents"].extend(
             "Sicherungsabtretung von Lizenz- und Vertriebsforderungen",
             sections=[
                 _section(
-                    "1. Abtretung",
+                    "1. Darlehensbezug und Sicherungszweck",
+                    "Die Abtretung sichert sämtliche gegenwärtigen und künftigen Ansprüche der Palatina Medienbank AG aus dem Produktionsdarlehensvertrag KLP-2024-0418 vom 18./19. April 2024 und dem Nachtrag über die Fertigstellungstranche vom 10. Januar 2025, geführt auf Darlehenskonto KD-2417-01, einschließlich Zinsen, Gebühren und angemessener Verwertungskosten.",
+                    "Nach vollständiger und endgültiger Befriedigung der gesicherten Ansprüche hat die Bank die noch bestehenden Forderungen zurückabzutreten und nicht mehr benötigte Abtretungsanzeigen zu widerrufen. Teilfreigaben bedürfen einer Erklärung der Bank in Textform.",
+                ),
+                _section(
+                    "2. Abtretung",
                     "Die Kurpfalz Lichtbild GmbH tritt der Palatina Medienbank AG am 21. Februar 2025 alle gegenwärtigen und künftigen Forderungen aus Verleih-, Vertriebs-, Lizenz-, Sende-, Abruf-, Förder- und Auswertungsverträgen zum Film Die letzte Rieslingspur zur Sicherheit ab.",
                     "Erfasst werden Hauptforderungen, Nebenforderungen, Mindestgarantien, Umsatzbeteiligungen, Schadensersatz- und Abrechnungsansprüche. Reine Rückzahlungsansprüche aus Produktionsdienstleistungen sollen nicht erfasst sein.",
                 ),
                 _section(
-                    "2. Einziehung vor Offenlegung",
+                    "3. Einziehung vor Offenlegung",
                     "Die Sicherungsgeberin bleibt bis zum Widerruf ermächtigt, abgetretene Forderungen im eigenen Namen einzuziehen. Zahlungen sind auf das Projektkonto bei der Bank zu lenken. Die Bank darf die Abtretung jederzeit offenlegen und selbst Zahlung verlangen.",
                     "Die Einziehungsermächtigung endet nach dem Vertragswortlaut spätestens mit Insolvenzantrag oder Kündigung der Finanzierung, ohne dass es eines gesonderten Widerrufs bedarf.",
                 ),
                 _section(
-                    "3. Forderungslisten",
+                    "4. Forderungslisten",
                     "Die Sicherungsgeberin übermittelt monatlich eine Forderungsliste mit Vertrag, Schuldner, Fälligkeit, Währung, Einwendungen, Zahlweg und bereits eingegangenen Beträgen. Die letzte von der Bank archivierte Liste trägt den Stand 31. Juli 2026.",
                     "Die im Insolvenz-Datenraum befindliche Liste vom 18. Oktober 2026 enthält zusätzliche Forderungen und eine Gutschrift, deren Vertragsbezug nicht eindeutig ist.",
                 ),
                 _section(
-                    "4. Unterschriften",
+                    "5. Unterschriften",
                     "Mannheim, 21. Februar 2025 — Palatina Medienbank AG, Bettina Karg und Hanno Seubert, handschriftlich unterzeichnet.",
                     "Schwetzingen, 21. Februar 2025 — Kurpfalz Lichtbild GmbH, Konrad Riemenschneider, handschriftlich unterzeichnet.",
                 ),
@@ -817,6 +941,15 @@ CASE["documents"].extend(
                         ["18.10.2026", "Asset Deal Weintor", "gesamtes Filmpaket", "keine Entscheidung erfasst", "n/a", "Anfrage vor Signing nicht gefunden"],
                     ],
                 },
+                {
+                    "name": "Hauptschuldbezug",
+                    "headers": ["Sicherheit", "Gesicherter Vertrag", "Darlehenskonto", "Höchstkapital", "Saldo 22.10.2026", "Freigabestatus"],
+                    "rows": [
+                        ["Film- und Nutzungsrechte", "KLP-2024-0418 + Nachtrag 10.01.2025", "KD-2417-01", 2270000.00, 1476830.44, "keine Freigabe"],
+                        ["Mastermedien und Geräte", "KLP-2024-0418 + Einbeziehungsbestätigung 17.02.2026", "KD-2417-01", 2270000.00, 1476830.44, "keine Freigabe"],
+                        ["Lizenzforderungen", "KLP-2024-0418 + Nachtrag 10.01.2025", "KD-2417-01", 2270000.00, 1476830.44, "keine Freigabe"],
+                    ],
+                },
             ],
         ),
         _mail(
@@ -837,6 +970,366 @@ CASE["documents"].extend(
                 "Bettina Karg"
             ),
             attachments=["04_Finanzierung_Sicherheiten/04_Sicherungsabtretung_Lizenzforderungen.docx"],
+        ),
+        _xlsx(
+            "04_Finanzierung_Sicherheiten/07_CP_Checkliste_und_Ziehungsregister.xlsx",
+            "CP-Checkliste und Ziehungsregister Produktionsfinanzierung",
+            [
+                {
+                    "name": "CP_Nachweise",
+                    "headers": ["CP-ID", "Auszahlungsvoraussetzung", "Gilt für", "Nachweis", "Prüfdatum", "Status", "Prüfer", "Hinweis"],
+                    "rows": [
+                        ["CP-01", "Produktionsdarlehen beiderseits unterzeichnet", "PL-01 bis PL-04", "KLP-2024-0418 vom 18./19.04.2024", "22.04.2024", "erfüllt", "Hanno Seubert", "Original im Kredittresor"],
+                        ["CP-02", "Projektkonto eröffnet und verfügungsbereit", "alle Abrufe", "Kontoeröffnung 18.04.2024 / IBAN DE00 0000 0000 0000 0000 00", "22.04.2024", "erfüllt", "Hanno Seubert", "Auszahlungen nur auf Projektkonto"],
+                        ["CP-03", "IP-Sicherungsvertrag unterzeichnet", "alle Abrufe", "Urkunde 19.04.2024", "22.04.2024", "erfüllt", "Bettina Karg", "Anlage B bleibt inhaltlich lückenhaft"],
+                        ["CP-04", "Sicherungsübereignung Medien und Geräte", "alle Abrufe", "Urkunde 19.04.2024", "22.04.2024", "erfüllt", "Bettina Karg", "Besitzmittlungsbestätigung Komet weiterhin offen"],
+                        ["CP-05", "Produktionsbudget und Mittelverwendung", "PL-01", "Budgetstand 17.04.2024 / Zahlungsplan Drehstart", "22.04.2024", "erfüllt", "Hanno Seubert", "Budgetprüfung ist keine Rechteprüfung"],
+                        ["CP-06", "Kostenbericht und Drehfortschritt", "PL-02", "Kostenbericht 30.06.2024 / Drehbericht 05.07.2024", "11.07.2024", "erfüllt", "Hanno Seubert", "keine Planüberschreitung über Toleranz"],
+                        ["CP-07", "Rohschnitt und Restkostenplan", "PL-03", "Rohschnittabnahme 22.11.2024 / Restkostenplan 25.11.2024", "28.11.2024", "erfüllt", "Bettina Karg", "Rohschnittprotokoll im Produktionsdatenraum"],
+                        ["CP-08", "Nachtrag Fertigstellungstranche unterzeichnet", "FT-01 und FT-02", "Nachtrag 10.01.2025", "13.01.2025", "erfüllt", "Hanno Seubert", "zusätzlicher Höchstbetrag 420.000 EUR"],
+                        ["CP-09", "Fertigstellungsbudget und Postproduktionsplan", "FT-01", "Budget 08.01.2025 / Komet-Plan 09.01.2025", "14.01.2025", "erfüllt", "Bettina Karg", "erste Fertigstellungsvaluta"],
+                        ["CP-10", "Sicherungsabtretung Lizenzforderungen", "PL-04 und FT-02", "Urkunde 21.02.2025", "03.04.2025", "erfüllt", "Hanno Seubert", "vor erstem Lizenzvertrag bestellt"],
+                        ["CP-11", "Aktualisierter Liquiditäts- und Produktionsplan", "PL-04", "Planstand 31.03.2025", "03.04.2025", "erfüllt", "Bettina Karg", "Produktionslinie danach 120.000 EUR ungenutzt"],
+                        ["CP-12", "Mastering- und Fertigstellungsbericht", "FT-02", "Komet-Bericht 12.05.2025 / Kostenbericht 14.05.2025", "16.05.2025", "erfüllt", "Hanno Seubert", "Rechtekettenlücken werden nicht als geschlossen bestätigt"],
+                    ],
+                },
+                {
+                    "name": "Ziehungen",
+                    "headers": ["Abruf", "Kreditteil", "Abrufdatum", "Valuta", "Betrag EUR", "Bankbeleg", "CP-Status", "Verwendungszweck"],
+                    "rows": [
+                        ["PL-01", "Produktionslinie", "22.04.2024", "23.04.2024", 620000.00, "10_Bankfreigabe_PL01_620000.pdf / PMB-KLP-240423-01", "erfüllt", "Drehvorbereitung und erste Drehphase"],
+                        ["PL-02", "Produktionslinie", "10.07.2024", "12.07.2024", 480000.00, "12_Bankfreigabe_PL02_480000.pdf / PMB-KLP-240712-02", "erfüllt", "Hauptdreh und Motivkosten"],
+                        ["PL-03", "Produktionslinie", "27.11.2024", "29.11.2024", 420000.00, "14_Bankfreigabe_PL03_420000.pdf / PMB-KLP-241129-03", "erfüllt", "Schnitt, Ton und Restkosten"],
+                        ["PL-04", "Produktionslinie", "02.04.2025", "04.04.2025", 210000.00, "16_Bankfreigabe_PL04_210000.pdf / PMB-KLP-250404-04", "erfüllt", "Restproduktion und Liefermaterial"],
+                        ["FT-01", "Fertigstellungstranche", "13.01.2025", "15.01.2025", 250000.00, "18_Bankfreigabe_FT01_250000.pdf / PMB-KLP-250115-05", "erfüllt", "Postproduktion und Mastering Teil 1"],
+                        ["FT-02", "Fertigstellungstranche", "16.05.2025", "19.05.2025", 170000.00, "20_Bankfreigabe_FT02_170000.pdf / PMB-KLP-250519-06", "erfüllt", "Mastering, Barrierefreiheit und Lieferung"],
+                    ],
+                },
+                {
+                    "name": "Kontrollsummen",
+                    "headers": ["Kontrolle", "Soll EUR/Anzahl", "Berechnet", "Differenz", "Status"],
+                    "rows": [
+                        ["Ziehungen Produktionslinie", 1730000.00, '=SUMIF(Ziehungen!$B$6:$B$11,"Produktionslinie",Ziehungen!$E$6:$E$11)', "=C6-B6", '=IF(D6=0,"OK","FEHLER")'],
+                        ["Ungenutzte Produktionslinie", 120000.00, "=1850000-C6", "=C7-B7", '=IF(D7=0,"OK","FEHLER")'],
+                        ["Ziehungen Fertigstellungstranche", 420000.00, '=SUMIF(Ziehungen!$B$6:$B$11,"Fertigstellungstranche",Ziehungen!$E$6:$E$11)', "=C8-B8", '=IF(D8=0,"OK","FEHLER")'],
+                        ["Ungenutzte Fertigstellungstranche", 0.00, "=420000-C8", "=C9-B9", '=IF(D9=0,"OK","FEHLER")'],
+                        ["Gesamtvalutierung", 2150000.00, "=SUM(Ziehungen!$E$6:$E$11)", "=C10-B10", '=IF(D10=0,"OK","FEHLER")'],
+                        ["Anzahl Ziehungen", 6, "=COUNTA(Ziehungen!$A$6:$A$11)", "=C11-B11", '=IF(D11=0,"OK","FEHLER")'],
+                    ],
+                    "notes": ["Formeln gleichen die sechs Einzelvaluten mit den zugesagten Kreditteilen ab."],
+                },
+            ],
+        ),
+        _doc(
+            "04_Finanzierung_Sicherheiten/08_Nachtrag_Fertigstellungstranche_2025.pdf",
+            "pdf",
+            "Nachtrag zum Produktionsdarlehen über die Fertigstellungstranche",
+            sections=[
+                _section(
+                    "1. Bezug und Parteien",
+                    "Dieser Nachtrag vom 10. Januar 2025 ergänzt den Produktionsdarlehensvertrag KLP-2024-0418 vom 18./19. April 2024 zwischen der Palatina Medienbank AG und der Kurpfalz Lichtbild GmbH. Das Darlehenskonto bleibt KD-2417-01.",
+                ),
+                _section(
+                    "2. Zusätzliche Fertigstellungstranche",
+                    "Die Bank stellt zusätzlich zur Produktionslinie von 1.850.000 EUR eine nicht revolvierende Fertigstellungstranche bis 420.000 EUR bereit. Der gemeinsame Höchstkapitalbetrag beträgt 2.270.000 EUR.",
+                    "Die Tranche darf ausschließlich für Postproduktion, Mastering, barrierefreie Fassungen, technische Liefermaterialien und unmittelbar zugehörige Restkosten verwendet werden. Nicht bis 30. Juni 2025 abgerufene Beträge verfallen.",
+                ),
+                _section(
+                    "3. Abrufvoraussetzungen",
+                    "Abrufe setzen einen aktuellen Fertigstellungs- und Liquiditätsplan, einen Kostenbericht, die Bestätigung des Postproduktionsdienstleisters und die in der CP-Checkliste bezeichneten Sicherheiten voraus. Jeder Abruf muss Betrag, Valutatag, Projektkonto und Verwendungszweck nennen.",
+                ),
+                _section(
+                    "4. Sicherheiten und Sicherungszweck",
+                    "Die Parteien bestätigen, dass der IP-Sicherungsvertrag vom 19. April 2024 auch Ansprüche aus diesem Nachtrag erfasst. Die Einbeziehung der sicherungsübereigneten Mastermedien wird in Textform bestätigt und im Nachtrag zur Sicherungsübereignung vom 17. Februar 2026 nochmals dokumentiert.",
+                    "Die am 21. Februar 2025 bestellte Sicherungsabtretung der Lizenz- und Vertriebsforderungen sichert ausdrücklich Ansprüche aus Hauptvertrag und diesem Nachtrag. Aussagen zur Wirksamkeit gegenüber einzelnen Rechtegebern, zum Rang und zur insolvenzrechtlichen Verwertung sind damit nicht verbunden.",
+                ),
+                _section(
+                    "5. Zins, Rückzahlung und Fortgeltung",
+                    "Für die Fertigstellungstranche gelten Zinssatz, Zinsberechnung, Projektkontoführung, Rückzahlungsreihenfolge, Kündigungstatbestände und Endfälligkeit des Hauptvertrags. Im Übrigen bleibt der Hauptvertrag unverändert.",
+                ),
+                _section(
+                    "6. Unterschriften",
+                    "Mannheim, 10. Januar 2025 — Palatina Medienbank AG, Bettina Karg und Hanno Seubert, handschriftlich unterzeichnet.",
+                    "Schwetzingen, 10. Januar 2025 — Kurpfalz Lichtbild GmbH, Konrad Riemenschneider, handschriftlich unterzeichnet.",
+                ),
+            ],
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/09_Abruf_PL01_620000.eml",
+            draw_id="PL-01",
+            facility="Produktionslinie",
+            amount="620.000,00",
+            date="Mon, 22 Apr 2024 08:17:00 +0200",
+            requested_value_date="23. April 2024",
+            purpose="Drehvorbereitung, Anzahlungen und erste Drehphase",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/10_Bankfreigabe_PL01_620000.pdf",
+            draw_id="PL-01",
+            facility="Produktionslinie",
+            amount="620.000,00",
+            request_date="22. April 2024",
+            value_date="23. April 2024",
+            booking_id="PMB-KLP-240423-01",
+            cp_evidence="unterzeichneter Kreditvertrag, Projektkonto, IP-Sicherungsvertrag, Sicherungsübereignung und Budgetstand 17. April 2024",
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/11_Abruf_PL02_480000.eml",
+            draw_id="PL-02",
+            facility="Produktionslinie",
+            amount="480.000,00",
+            date="Wed, 10 Jul 2024 09:24:00 +0200",
+            requested_value_date="12. Juli 2024",
+            purpose="Hauptdreh, Motivkosten und laufende Produktionsrechnungen",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/12_Bankfreigabe_PL02_480000.pdf",
+            draw_id="PL-02",
+            facility="Produktionslinie",
+            amount="480.000,00",
+            request_date="10. Juli 2024",
+            value_date="12. Juli 2024",
+            booking_id="PMB-KLP-240712-02",
+            cp_evidence="Kostenbericht 30. Juni 2024, Drehbericht 5. Juli 2024 und aktualisierte Mittelverwendung",
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/13_Abruf_PL03_420000.eml",
+            draw_id="PL-03",
+            facility="Produktionslinie",
+            amount="420.000,00",
+            date="Wed, 27 Nov 2024 11:06:00 +0100",
+            requested_value_date="29. November 2024",
+            purpose="Schnitt, Ton, Musik und verbleibende Produktionskosten",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/14_Bankfreigabe_PL03_420000.pdf",
+            draw_id="PL-03",
+            facility="Produktionslinie",
+            amount="420.000,00",
+            request_date="27. November 2024",
+            value_date="29. November 2024",
+            booking_id="PMB-KLP-241129-03",
+            cp_evidence="Rohschnittabnahme 22. November 2024, Restkostenplan 25. November 2024 und Kostenbericht",
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/15_Abruf_PL04_210000.eml",
+            draw_id="PL-04",
+            facility="Produktionslinie",
+            amount="210.000,00",
+            date="Wed, 2 Apr 2025 08:51:00 +0200",
+            requested_value_date="4. April 2025",
+            purpose="Restproduktion, Liefermaterialien und offene Produktionsrechnungen",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/16_Bankfreigabe_PL04_210000.pdf",
+            draw_id="PL-04",
+            facility="Produktionslinie",
+            amount="210.000,00",
+            request_date="2. April 2025",
+            value_date="4. April 2025",
+            booking_id="PMB-KLP-250404-04",
+            cp_evidence="Liquiditäts- und Produktionsplan 31. März 2025 sowie Sicherungsabtretung vom 21. Februar 2025",
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/17_Abruf_FT01_250000.eml",
+            draw_id="FT-01",
+            facility="Fertigstellungstranche",
+            amount="250.000,00",
+            date="Mon, 13 Jan 2025 10:12:00 +0100",
+            requested_value_date="15. Januar 2025",
+            purpose="Postproduktion und Mastering Teil 1",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/18_Bankfreigabe_FT01_250000.pdf",
+            draw_id="FT-01",
+            facility="Fertigstellungstranche",
+            amount="250.000,00",
+            request_date="13. Januar 2025",
+            value_date="15. Januar 2025",
+            booking_id="PMB-KLP-250115-05",
+            cp_evidence="beiderseits unterzeichneter Nachtrag 10. Januar 2025, Fertigstellungsbudget 8. Januar 2025 und Komet-Plan 9. Januar 2025",
+        ),
+        _draw_request(
+            "04_Finanzierung_Sicherheiten/19_Abruf_FT02_170000.eml",
+            draw_id="FT-02",
+            facility="Fertigstellungstranche",
+            amount="170.000,00",
+            date="Fri, 16 May 2025 09:03:00 +0200",
+            requested_value_date="19. Mai 2025",
+            purpose="Mastering, barrierefreie Fassungen und technische Lieferung",
+        ),
+        _bank_payment_notice(
+            "04_Finanzierung_Sicherheiten/20_Bankfreigabe_FT02_170000.pdf",
+            draw_id="FT-02",
+            facility="Fertigstellungstranche",
+            amount="170.000,00",
+            request_date="16. Mai 2025",
+            value_date="19. Mai 2025",
+            booking_id="PMB-KLP-250519-06",
+            cp_evidence="Masteringbericht 12. Mai 2025, Kostenbericht 14. Mai 2025 und vollständiger Abrufnachweis der Fertigstellungstranche",
+        ),
+        _doc(
+            "04_Finanzierung_Sicherheiten/21_Projektkontoauszug_Darlehen_und_Tilgungen.pdf",
+            "pdf",
+            "Projektkontoauszug Darlehens- und Tilgungsbuchungen",
+            sections=[
+                _section(
+                    "1. Konto und Auszugsumfang",
+                    "Kontoinhaberin: Kurpfalz Lichtbild GmbH. Projektkonto: IBAN DE00 0000 0000 0000 0000 00. Bank: Palatina Medienbank AG. Auszugszeitraum: 18. April 2024 bis 22. Oktober 2026.",
+                    "Diese bankbestätigte Zweitschrift zeigt vollständig die Darlehensvaluten und die als Kapitalrückführungen auf KD-2417-01 gebuchten Abschöpfungen. Laufender Produktionszahlungsverkehr und reine Erlösgutschriften sind nicht wiedergegeben.",
+                ),
+                {
+                    "heading": "2. Darlehensbezogene Umsätze",
+                    "paragraphs": [],
+                    "tables": [
+                        {
+                            "headers": ["Valuta", "Buchungs-ID", "Buchungstext", "Soll EUR", "Haben EUR", "Gegenbeleg"],
+                            "rows": [
+                                ["23.04.2024", "PMB-KLP-240423-01", "Valuta PL-01", "", "620.000,00", "10_Bankfreigabe_PL01_620000.pdf"],
+                                ["12.07.2024", "PMB-KLP-240712-02", "Valuta PL-02", "", "480.000,00", "12_Bankfreigabe_PL02_480000.pdf"],
+                                ["29.11.2024", "PMB-KLP-241129-03", "Valuta PL-03", "", "420.000,00", "14_Bankfreigabe_PL03_420000.pdf"],
+                                ["15.01.2025", "PMB-KLP-250115-05", "Valuta FT-01", "", "250.000,00", "18_Bankfreigabe_FT01_250000.pdf"],
+                                ["04.04.2025", "PMB-KLP-250404-04", "Valuta PL-04", "", "210.000,00", "16_Bankfreigabe_PL04_210000.pdf"],
+                                ["19.05.2025", "PMB-KLP-250519-06", "Valuta FT-02", "", "170.000,00", "20_Bankfreigabe_FT02_170000.pdf"],
+                                ["29.08.2025", "PMB-KLP-250829-R1", "Kapitalrückführung RZ-01", "180.000,00", "", "Darlehenskonto KD-2417-01"],
+                                ["15.02.2026", "PMB-KLP-260215-R2", "Kapitalrückführung RZ-02", "220.000,00", "", "Darlehenskonto KD-2417-01"],
+                                ["20.05.2026", "PMB-KLP-260520-R3", "Kapitalrückführung RZ-03", "310.000,00", "", "Darlehenskonto KD-2417-01"],
+                            ],
+                        },
+                    ],
+                },
+                _section(
+                    "3. Kontrollsummen",
+                    "Darlehensgutschriften: 2.150.000,00 EUR. Kapitalrückführungen: 710.000,00 EUR. Nettokapital aus den ausgewiesenen Buchungen: 1.440.000,00 EUR.",
+                    "Die Buchungs-IDs und Beträge stimmen mit den sechs Auszahlungsanzeigen und dem Darlehenskonto überein. Zinsen und Gebühren werden ausschließlich auf dem Darlehenskonto geführt.",
+                ),
+                _section(
+                    "4. Bankbestätigung",
+                    "Mannheim, 22. Oktober 2026 — Palatina Medienbank AG, Marktfolge Kredit. Elektronisch bestätigt durch Hanno Seubert; Prüfsumme des Umsatzexports: KLP-PK-221026-7F31.",
+                ),
+            ],
+        ),
+        _xlsx(
+            "04_Finanzierung_Sicherheiten/22_Darlehenskonto_und_Saldenkontrolle.xlsx",
+            "Darlehenskonto KD-2417-01 und Saldenkontrolle",
+            [
+                {
+                    "name": "Darlehenskonto",
+                    "headers": ["Beleg-ID", "Buchungstag", "Valuta", "Kreditteil", "Vorgang", "Auszahlung EUR", "Tilgung EUR", "Zins/Gebühr EUR", "Kapitalbewegung EUR", "Kapitalsaldo EUR", "Offene Zinsen/Gebühren EUR", "Gesamtforderung EUR", "Gegenbeleg"],
+                    "rows": [
+                        ["PL-01", "23.04.2024", "23.04.2024", "Produktionslinie", "Auszahlung", 620000.00, 0.00, 0.00, "=F6-G6", "=SUM($I$6:I6)", "=SUM($H$6:H6)", "=J6+K6", "PMB-KLP-240423-01"],
+                        ["PL-02", "12.07.2024", "12.07.2024", "Produktionslinie", "Auszahlung", 480000.00, 0.00, 0.00, "=F7-G7", "=SUM($I$6:I7)", "=SUM($H$6:H7)", "=J7+K7", "PMB-KLP-240712-02"],
+                        ["PL-03", "29.11.2024", "29.11.2024", "Produktionslinie", "Auszahlung", 420000.00, 0.00, 0.00, "=F8-G8", "=SUM($I$6:I8)", "=SUM($H$6:H8)", "=J8+K8", "PMB-KLP-241129-03"],
+                        ["FT-01", "15.01.2025", "15.01.2025", "Fertigstellungstranche", "Auszahlung", 250000.00, 0.00, 0.00, "=F9-G9", "=SUM($I$6:I9)", "=SUM($H$6:H9)", "=J9+K9", "PMB-KLP-250115-05"],
+                        ["PL-04", "04.04.2025", "04.04.2025", "Produktionslinie", "Auszahlung", 210000.00, 0.00, 0.00, "=F10-G10", "=SUM($I$6:I10)", "=SUM($H$6:H10)", "=J10+K10", "PMB-KLP-250404-04"],
+                        ["FT-02", "19.05.2025", "19.05.2025", "Fertigstellungstranche", "Auszahlung", 170000.00, 0.00, 0.00, "=F11-G11", "=SUM($I$6:I11)", "=SUM($H$6:H11)", "=J11+K11", "PMB-KLP-250519-06"],
+                        ["RZ-01", "29.08.2025", "29.08.2025", "Gesamtfazilität", "Kapitalrückführung", 0.00, 180000.00, 0.00, "=F12-G12", "=SUM($I$6:I12)", "=SUM($H$6:H12)", "=J12+K12", "PMB-KLP-250829-R1"],
+                        ["RZ-02", "15.02.2026", "15.02.2026", "Gesamtfazilität", "Kapitalrückführung", 0.00, 220000.00, 0.00, "=F13-G13", "=SUM($I$6:I13)", "=SUM($H$6:H13)", "=J13+K13", "PMB-KLP-260215-R2"],
+                        ["RZ-03", "20.05.2026", "20.05.2026", "Gesamtfazilität", "Kapitalrückführung", 0.00, 310000.00, 0.00, "=F14-G14", "=SUM($I$6:I14)", "=SUM($H$6:H14)", "=J14+K14", "PMB-KLP-260520-R3"],
+                        ["ZI-2026-Q2", "30.06.2026", "30.06.2026", "Nebenforderungen", "offene Vertragszinsen", 0.00, 0.00, 17340.00, "=F15-G15", "=SUM($I$6:I15)", "=SUM($H$6:H15)", "=J15+K15", "Zinsabschluss Q2/2026"],
+                        ["ZI-2026-Q3", "30.09.2026", "30.09.2026", "Nebenforderungen", "offene Vertragszinsen", 0.00, 0.00, 15990.44, "=F16-G16", "=SUM($I$6:I16)", "=SUM($H$6:H16)", "=J16+K16", "Zinsabschluss Q3/2026"],
+                        ["ZG-2026-1022", "22.10.2026", "22.10.2026", "Nebenforderungen", "aufgelaufene Zinsen und Gebühren", 0.00, 0.00, 3500.00, "=F17-G17", "=SUM($I$6:I17)", "=SUM($H$6:H17)", "=J17+K17", "Zwischenabschluss 22.10.2026"],
+                    ],
+                    "notes": ["Frühere Zinsperioden wurden ausgeglichen; ausgewiesen sind die am Stichtag offenen Zinsen und Gebühren."],
+                },
+                {
+                    "name": "Kontrollsummen",
+                    "headers": ["Kontrolle", "Soll EUR", "Berechnet EUR", "Differenz EUR", "Status"],
+                    "rows": [
+                        ["Ziehungen Produktionslinie", 1730000.00, '=SUMIF(Darlehenskonto!$D$6:$D$17,"Produktionslinie",Darlehenskonto!$F$6:$F$17)', "=C6-B6", '=IF(D6=0,"OK","FEHLER")'],
+                        ["Ungenutzte Produktionslinie", 120000.00, "=1850000-C6", "=C7-B7", '=IF(D7=0,"OK","FEHLER")'],
+                        ["Ziehungen Fertigstellungstranche", 420000.00, '=SUMIF(Darlehenskonto!$D$6:$D$17,"Fertigstellungstranche",Darlehenskonto!$F$6:$F$17)', "=C8-B8", '=IF(D8=0,"OK","FEHLER")'],
+                        ["Gesamtvalutierung", 2150000.00, "=SUM(Darlehenskonto!$F$6:$F$17)", "=C9-B9", '=IF(D9=0,"OK","FEHLER")'],
+                        ["Kapitalrückführungen", 710000.00, "=SUM(Darlehenskonto!$G$6:$G$17)", "=C10-B10", '=IF(D10=0,"OK","FEHLER")'],
+                        ["Offenes Kapital", 1440000.00, "=C9-C10", "=C11-B11", '=IF(D11=0,"OK","FEHLER")'],
+                        ["Offene Zinsen und Gebühren", 36830.44, "=SUM(Darlehenskonto!$H$6:$H$17)", "=C12-B12", '=IF(ABS(D12)<0.01,"OK","FEHLER")'],
+                        ["Gesamtforderung", 1476830.44, "=C11+C12", "=C13-B13", '=IF(ABS(D13)<0.01,"OK","FEHLER")'],
+                        ["Abgleich letzter Kontosaldo", 1476830.44, "=Darlehenskonto!L17", "=C14-B14", '=IF(ABS(D14)<0.01,"OK","FEHLER")'],
+                        ["Gesamtkontrolle", 0.00, "=C13-C14", "=C15-B15", '=IF(ABS(D15)<0.01,"OK","FEHLER")'],
+                    ],
+                    "notes": ["Alle Kontrollen müssen null beziehungsweise Status OK ergeben."],
+                },
+            ],
+        ),
+        _doc(
+            "04_Finanzierung_Sicherheiten/23_Aktueller_Saldennachweis_2026-10-22.pdf",
+            "pdf",
+            "Aktueller Saldennachweis Produktionsfinanzierung",
+            sections=[
+                _section(
+                    "1. Stichtag und Bezug",
+                    "Bank: Palatina Medienbank AG. Kreditnehmerin: Kurpfalz Lichtbild GmbH. Vertrag: KLP-2024-0418 mit Nachtrag vom 10. Januar 2025. Darlehenskonto: KD-2417-01. Stichtag: 22. Oktober 2026, 07:00 Uhr.",
+                ),
+                {
+                    "heading": "2. Saldenüberleitung",
+                    "paragraphs": [],
+                    "tables": [
+                        {
+                            "headers": ["Position", "Betrag EUR", "Beleg/Abgleich"],
+                            "rows": [
+                                ["Produktionslinie zugesagt", "1.850.000,00", "KLP-2024-0418"],
+                                ["Produktionslinie valutiert", "1.730.000,00", "PL-01 bis PL-04"],
+                                ["Produktionslinie ungenutzt", "120.000,00", "CP-Kontrollsumme"],
+                                ["Fertigstellungstranche valutiert", "420.000,00", "FT-01 und FT-02"],
+                                ["Gesamtvalutierung", "2.150.000,00", "sechs Auszahlungsanzeigen"],
+                                ["Kapitalrückführungen", "-710.000,00", "RZ-01 bis RZ-03"],
+                                ["Offenes Kapital", "1.440.000,00", "Darlehenskonto"],
+                                ["Offene Zinsen und Gebühren", "36.830,44", "ZI-2026-Q2, ZI-2026-Q3, ZG-2026-1022"],
+                                ["Gesamtforderung", "1.476.830,44", "Kontrollsumme Darlehenskonto"],
+                            ],
+                        },
+                    ],
+                },
+                _section(
+                    "3. Abstimmung",
+                    "Die sechs Valuten von insgesamt 2.150.000,00 EUR stimmen nach Buchungs-ID und Valutatag mit dem Projektkontoauszug überein. Die drei Kapitalrückführungen von insgesamt 710.000,00 EUR sind auf Projektkonto und Darlehenskonto spiegelbildlich gebucht.",
+                    "Der rechnerische Kapitalbetrag von 1.440.000,00 EUR zuzüglich 36.830,44 EUR offener Zinsen und Gebühren ergibt 1.476.830,44 EUR. Die Formeln und Kontrollsummen befinden sich in 22_Darlehenskonto_und_Saldenkontrolle.xlsx.",
+                ),
+                _section(
+                    "4. Aussagegrenze",
+                    "Der Saldennachweis bestätigt bankseitige Buchungen und die rechnerische Forderungshöhe. Anerkenntnis, Einwendungen der Kreditnehmerin, Wirksamkeit und Rang der Sicherheiten sowie deren insolvenzrechtliche Durchsetzung werden damit nicht abschließend festgestellt.",
+                ),
+                _section(
+                    "5. Zeichnung",
+                    "Mannheim, 22. Oktober 2026 — Bettina Karg, Leiterin Spezialfinanzierungen, elektronisch unterzeichnet.",
+                    "Mannheim, 22. Oktober 2026 — Hanno Seubert, Marktfolge Kredit, elektronisch gegengezeichnet.",
+                ),
+            ],
+        ),
+        _doc(
+            "04_Finanzierung_Sicherheiten/24_Sicherungsfall_Kuendigung_Rechtsvorbehalt_Zugang.pdf",
+            "pdf",
+            "Anzeige des Sicherungsfalls, Kündigung und Rechtsvorbehalt",
+            sections=[
+                _section(
+                    "1. Adressat und Bezug",
+                    "Palatina Medienbank AG an Dr. Marlene Berthold als Insolvenzverwalterin über das Vermögen der Kurpfalz Lichtbild GmbH. Datum des Schreibens: 22. Oktober 2026, 09:35 Uhr.",
+                    "Bezug: Produktionsdarlehen KLP-2024-0418, Darlehenskonto KD-2417-01, IP-Sicherungsvertrag, Sicherungsübereignung Mastermedien und Sicherungsabtretung Lizenzforderungen sowie angekündigter Vollzug des Filmpakets am 29. Oktober 2026.",
+                ),
+                _section(
+                    "2. Kündigung und Fälligstellung",
+                    "Die Bank kündigt die Produktionsfinanzierung gestützt auf Zahlungseinstellung, Insolvenzantrag und Verfahrenseröffnung mit sofortiger Wirkung. Sie stellt den im Saldennachweis vom 22. Oktober 2026 ausgewiesenen Betrag von 1.476.830,44 EUR mit Zugang dieses Schreibens fällig. Weitere vertragliche Zinsen und Kosten ab dem Stichtag bleiben vorbehalten.",
+                ),
+                _section(
+                    "3. Sicherungsfall und Einziehung",
+                    "Die Bank zeigt den Eintritt des vertraglichen Sicherungsfalls an. Sie widerruft vorsorglich jede fortbestehende Nutzungs-, Verfügungs- und Einziehungsermächtigung, soweit die Sicherheitenverträge dies vorsehen, und verlangt die gesonderte Sicherung von Mastermedien, Zugangsdaten und eingehenden Lizenzzahlungen.",
+                    "Die Bank hat keine Freigabe für Film- und Nutzungsrechte, Mastermedien, Geräte oder Lizenzforderungen erklärt.",
+                ),
+                _section(
+                    "4. Rechtsvorbehalt und offene Einordnung",
+                    "Die Bank widerspricht einer Übertragung oder technischen Übergabe ihrer behaupteten Sicherungsgegenstände ohne vorherige Abstimmung. Sämtliche dinglichen, schuldrechtlichen und insolvenzrechtlichen Rechte bleiben vorbehalten.",
+                    "Die Insolvenzverwalterin teilt die rechtliche Einordnung der Bank nicht. Wirksamkeit, Reichweite, Rang, Verwertungsbefugnis und Erlöszuordnung bleiben ausdrücklich offen und sollen durch dieses Schreiben nicht vorweggenommen werden.",
+                ),
+                _section(
+                    "5. Übermittlung und Zugang",
+                    "Das elektronisch signierte Schreiben wurde am 22. Oktober 2026 um 09:42 Uhr über den gesicherten Datenraumkanal BH-INSO/KL-51-IN-217-26 an das Büro der Insolvenzverwalterin übermittelt. Das System protokollierte Abruf durch den Nutzer hofmeister@bh-insolvenz.example um 09:58 Uhr.",
+                    "Das Büro der Insolvenzverwalterin bestätigte den Eingang am selben Tag um 10:07 Uhr unter der Nachrichten-ID BH-KL-221026-1007. Die Bestätigung lautet: Eingang des Schreibens und des Saldennachweises bestätigt; die rechtliche Bewertung und sämtliche Einwendungen bleiben vorbehalten.",
+                ),
+                _section(
+                    "6. Zeichnung",
+                    "Palatina Medienbank AG — Bettina Karg und Hanno Seubert, qualifiziert elektronisch signiert am 22. Oktober 2026 um 09:35 Uhr.",
+                ),
+            ],
         ),
         _doc(
             "05_Lizenz_Forderungen/01_Lizenzvertrag_Rheinbild.docx",
@@ -949,6 +1442,18 @@ CASE["documents"].extend(
                         ["Pfalzstern Abrechnung", "kein Aktivposten", "Vertrag übertragen", "Globalzession bei Entstehen", "Vorkosten prüfen"],
                     ],
                 },
+                {
+                    "name": "Inventar_Ueberleitung",
+                    "headers": ["Position", "Betrag EUR", "Berechnung/Einordnung"],
+                    "rows": [
+                        ["Bruttolistenwert aller sechs Zeilen", "=SUM(Offene_Posten!$E$6:$E$11)", "302.728 EUR einschließlich bereits bezahlter Rheinbild-Rate KL-2026-119"],
+                        ["abzüglich bezahlte Rheinbild-Rate KL-2026-119", -107100.00, "Zahlung 06.04.2026 auf operatives Konto"],
+                        ["nominell offen oder zukünftig", "=B6+B7", "195.628 EUR; Teilzahlung und Einwendungen gesondert prüfen"],
+                        ["technische Nachvergütung Rheinbild", 17850.00, "Zahlung 06.10.2026 auf Massekonto; nicht Bestandteil der sechs Bruttolistenzeilen"],
+                        ["Kontrolle Inventarvermerk", "=B8-195628", "muss 0 ergeben"],
+                    ],
+                    "notes": ["Die Überleitung ersetzt die frühere, nicht abgestimmte Arbeitssumme von 321.628 EUR."],
+                },
             ],
         ),
         _mail(
@@ -1022,7 +1527,7 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "3. Verträge und Forderungen",
-                    "Im Datenraum wurden 47 Rechte-, Produktions- und Lizenzverträge erfasst. Die Rechtekettenmatrix weist vier offene Punkte aus. Eine gesonderte Forderungsmatrix nennt 321.628 EUR nominelle offene oder zukünftige Posten.",
+                    "Im Datenraum wurden 47 Rechte-, Produktions- und Lizenzverträge erfasst. Die Rechtekettenmatrix weist vier offene Punkte aus. Die abgestimmte Forderungsmatrix nennt 195.628 EUR nominelle offene oder zukünftige Posten. Die Überleitung vom Bruttolistenwert von 302.728 EUR zieht die bereits bezahlte Rheinbild-Rate von 107.100 EUR ab; die technische Nachvergütung von 17.850 EUR auf dem Massekonto ist nicht Bestandteil der sechs Bruttolistenzeilen.",
                     "Die Palatina Medienbank meldete telefonisch Rechte an IP, Mastermedien und Forderungen. Eine abschließende Abstimmung oder Freigabe fand bis zum Vermerk vom 18. Oktober nicht statt.",
                 ),
                 _section(
@@ -1209,7 +1714,7 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "4. Endstand der Akte",
-                    "Eine Reaktion der Palatina Medienbank auf die Vollzugsankündigung, ein anwaltliches Gutachten, ein gerichtlicher Antrag, eine Genehmigung der Verwertung oder eine vertragliche Einigung sind nicht Bestandteil der übergebenen Unterlagen.",
+                    "Die Palatina Medienbank reagierte am 22. Oktober 2026 mit Kündigung, Sicherungsfallanzeige und Rechtsvorbehalt; der Zugang ist protokolliert, die Insolvenzverwalterin hält ihre rechtliche Bewertung ausdrücklich offen. Ein anwaltliches Gutachten, ein gerichtlicher Antrag, eine Genehmigung der Verwertung oder eine vertragliche Einigung sind nicht Bestandteil der übergebenen Unterlagen.",
                 ),
             ],
         ),
