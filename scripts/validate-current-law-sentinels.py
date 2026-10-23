@@ -1702,6 +1702,21 @@ SENTINELS = (
             re.IGNORECASE,
         ),
     ),
+    Sentinel(
+        "Erstattungs- oder Freistellungsverfahren Paragraf 50d statt Paragraf 50c EStG zugeordnet",
+        re.compile(
+            r"(?:§|Paragraf)\s*50d\b"
+            r"(?![^\n]{0,25}?\ba[.]\s?F[.])"
+            r"(?!\s*Abs(?:atz|[.])\s*(?:[3-9]|1[0-9]))"
+            r"[^\n]{0,60}?(?:Erstattungs|Freistellungs)\S*?"
+            r"(?:verfahren|bescheinigung|antrag)",
+            re.IGNORECASE,
+        ),
+    ),
+    Sentinel(
+        "nicht existentes Gesetzeskürzel UhG statt UrhG",
+        re.compile(r"\bUhG\b"),
+    ),
 )
 
 # Ein kurzer Textanker verhindert unnötige Volltext-RegEx-Läufe pro Datei. Die
@@ -1923,6 +1938,8 @@ SENTINEL_HINTS = (
     ("bei drohender insolvenz", "für drohende insolvenz"),
     ("handelsbücher und buchungsbelege",),
     ("notarielle beglaubigung",),
+    ("50d",),
+    ("uhg",),
 )
 
 SENTINELS += (
