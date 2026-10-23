@@ -1,0 +1,133 @@
+name: Urheberrechtliche IP-Sicherheiten in der Insolvenz
+
+on:
+  pull_request:
+    paths:
+      - 'fachanwalt-urheber-medienrecht/README.md'
+      - 'README.md'
+      - 'testakten/README.md'
+      - 'testakten/markenrechte-sicherungsuebertragung-insolvenz-mannheim/**'
+      - 'testakten/kurpfalz-taxware-software-ip-insolvenz/**'
+      - 'testakten/filmrechte-sicherungsuebertragung-insolvenz-schwetzingen/**'
+      - 'scripts/*urheberrecht-ip-insolvenz*'
+      - 'scripts/data/urheberrecht_ip_insolvenz_*.py'
+      - 'scripts/testakte_zip_common.py'
+      - 'scripts/testakte_einzelpdf_common.py'
+      - 'scripts/testakte_file_filter.py'
+      - 'scripts/testakte_disclaimer.py'
+      - 'scripts/testakte_download_notices.py'
+      - 'scripts/testakte_office_pdf.py'
+      - 'scripts/build-testakten-release-zips.py'
+      - 'scripts/build-testakten-einzelpdf-zips.py'
+      - 'scripts/build-testakte-gesamt-pdf.py'
+      - 'scripts/validate-testakten-release-zips.py'
+      - 'scripts/validate-testakten-readme-downloads.py'
+      - 'scripts/validate-testakten-dokumentqualitaet.py'
+      - 'scripts/inject-gesamt-pdf-section.py'
+      - 'scripts/scoped-release-assets.json'
+      - 'quality/legal/urheberrecht-ip-insolvenz-quellen-2026-10-23.md'
+      - 'quality/legal/urheberrecht-ip-insolvenz-artifact-manifest.json'
+      - 'docs/releases/urheberrecht-ip-insolvenz-testakten-v1.0.0.md'
+      - '.github/workflows/urheberrecht-ip-insolvenz-testakten-release.yml'
+      - 'requirements.txt'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag
+        required: true
+        default: urheberrecht-ip-insolvenz-testakten-v1.0.0
+      publish:
+        description: Geprüfte Pakete veröffentlichen
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: urheberrecht-ip-insolvenz-${{ inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    env:
+      TAG: ${{ inputs.tag || 'urheberrecht-ip-insolvenz-testakten-v1.0.0' }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Abhängigkeiten
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get -o Acquire::Retries=3 update
+          sudo apt-get -o Acquire::Retries=3 install -y --no-install-recommends fonts-liberation2 libreoffice-writer libreoffice-calc
+      - name: Quellen und eingecheckte Lesefassungen prüfen
+        run: |
+          test "$TAG" = 'urheberrecht-ip-insolvenz-testakten-v1.0.0'
+          python3 scripts/test-urheberrecht-ip-insolvenz-testakten.py
+      - name: Drei Auslieferungsformen bauen und prüfen
+        run: |
+          python3 scripts/build-urheberrecht-ip-insolvenz-release.py --dist "$RUNNER_TEMP/ip-insolvenz-dist"
+          python3 scripts/test-urheberrecht-ip-insolvenz-testakten.py "$RUNNER_TEMP/ip-insolvenz-dist"
+      - name: Geprüfte Pakete sichern
+        uses: actions/upload-artifact@v4
+        with:
+          name: urheberrecht-ip-insolvenz-testakten
+          path: ${{ runner.temp }}/ip-insolvenz-dist
+          if-no-files-found: error
+          retention-days: 14
+      - name: Geprüfte Assets veröffentlichen
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.publish && github.ref == 'refs/heads/main' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, os, subprocess, tempfile
+          from pathlib import Path
+
+          tag = os.environ['TAG']
+          repo = os.environ['GH_REPO']
+          sha = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+          dist = Path(os.environ['RUNNER_TEMP']) / 'ip-insolvenz-dist'
+          notes = Path('docs/releases') / f'{tag}.md'
+
+          def gh(*args):
+              return subprocess.check_output(['gh', *args], text=True).strip()
+
+          main_sha = json.loads(gh('api', f'repos/{repo}/git/ref/heads/main'))['object']['sha']
+          if main_sha != sha:
+              raise RuntimeError('Veröffentlichung nur vom aktuellen main-Stand.')
+          existing = subprocess.run(['gh', 'release', 'view', tag], text=True, capture_output=True)
+          if existing.returncode == 0:
+              raise RuntimeError('Release existiert bereits; keine Assets überschreiben.')
+          expected = {path.name for path in dist.iterdir() if path.is_file()}
+          if len(expected) != 10:
+              raise RuntimeError(f'Zehn Assets erwartet, gefunden: {sorted(expected)}')
+          gh('release', 'create', tag, '--target', sha, '--draft', '--title',
+             'IP-Sicherheiten in der Insolvenz – drei Übungsakten', '--notes-file', str(notes), '--latest=false')
+          gh('release', 'upload', tag, *map(str, sorted(dist.iterdir())))
+          with tempfile.TemporaryDirectory(prefix='ip-insolvenz-download-') as temporary:
+              target = Path(temporary)
+              gh('release', 'download', tag, '--dir', str(target))
+              if {path.name for path in target.iterdir()} != expected:
+                  raise RuntimeError('Hochgeladene Assetliste weicht ab.')
+              for name in expected:
+                  local = hashlib.sha256((dist / name).read_bytes()).digest()
+                  remote = hashlib.sha256((target / name).read_bytes()).digest()
+                  if local != remote:
+                      raise RuntimeError(f'Asset weicht ab: {name}')
+          if json.loads(gh('api', f'repos/{repo}/git/ref/heads/main'))['object']['sha'] != sha:
+              raise RuntimeError('main hat sich während der Veröffentlichung verändert.')
+          gh('release', 'edit', tag, '--draft=false', '--latest=false')
+          release = json.loads(gh('api', f'repos/{repo}/releases/tags/{tag}'))
+          if release['draft'] or {asset['name'] for asset in release['assets']} != expected:
+              raise RuntimeError('Öffentlicher Releasestatus oder Assetumfang weicht ab.')
+          print(f'{tag}: zehn Assets veröffentlicht und bytegenau geprüft.')
+          PY

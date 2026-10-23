@@ -24,7 +24,7 @@ from release_routing import case_asset_url, companion_cases, rewrite_case_asset_
 from testakte_einzelpdf_common import expected_arcnames
 from testakte_disclaimer import NOTICE_MARKDOWN
 from testakte_download_notices import ensure_download_notices, update_download_readmes
-from testakte_zip_common import preserves_directories
+from testakte_zip_common import preserves_directories, source_zip_includes_gesamt_pdf
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
@@ -65,7 +65,10 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
             f"Dieses Aktenpaket gibt es in {formats} Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene."
             + einzel_intro
         )
-        trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
+        if source_zip_includes_gesamt_pdf(TESTAKTEN_DIR / slug):
+            trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
+        else:
+            trailer = "Die ZIP-Links laden den zuletzt veröffentlichten Release. Das Originalformat-ZIP enthält ausschließlich die nativen Aktenstücke und README.txt; das Gesamt-PDF und eine Lösung sind darin nicht enthalten. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein."
     else:
         rows = (
             f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
@@ -95,7 +98,10 @@ def section_block(slug: str, pdf_rel: str | None, has_einzelpdf: bool = False) -
                      'eigenes PDF. Das Gesamt-PDF enthält auch die Klageerwiderung; sein Register und seine '
                      'Lesezeichen führen zu den getrennten Arbeitsbereichen.')
     if pdf_rel is not None:
-        english += " Choose the combined PDF for reading; it is also included in that ZIP."
+        if source_zip_includes_gesamt_pdf(TESTAKTEN_DIR / slug):
+            english += " Choose the combined PDF for reading; it is also included in that ZIP."
+        else:
+            english += " Choose the combined PDF for reading; it is deliberately excluded from the original-format ZIP."
     if has_einzelpdf:
         english += " Choose the individual-PDF ZIP to review each document separately."
     english += " These are practice documents, not an installable plugin. ZIP links refer to the latest published release."

@@ -1,0 +1,21 @@
+schema_version: 1
+id: markenrechte-sicherungsuebertragung-insolvenz-mannheim
+title: Rheinpuls Audio – sicherungsübertragene Marken im Insolvenzverkauf
+plugin: fachanwalt-urheber-medienrecht
+task: Gutachten zur Rechtslage und zu möglichen Reaktionen des IP-Sicherheitennehmers
+artifacts:
+  combined_pdf: gesamt-pdf/markenrechte-sicherungsuebertragung-insolvenz-mannheim_gesamt.pdf
+  original_zip: testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim.zip
+  individual_pdf_zip: testakte-markenrechte-sicherungsuebertragung-insolvenz-mannheim-einzelpdfs.zip
+criteria:
+- Sachen, Forderungen und sonstige Rechte werden gegenstandsbezogen getrennt.
+- Rechtekette und Sicherheitenbestellung werden aus Primärakten rekonstruiert.
+- Der unterschriebene Erwerbsvertrag wird nach Vollzugsstand und betroffenen Rechten
+  ausgewertet.
+- Eilbedarf, Parteistellung, Anträge, Beweisangebote und wirtschaftliche Alternativen
+  werden geprüft.
+- Kein Aktenstück wird als bereits erstellte anwaltliche Lösung missverstanden.
+must_not_contain:
+- Musterlösung
+- fertiges Gutachten
+- abschließende Anspruchsstrategie

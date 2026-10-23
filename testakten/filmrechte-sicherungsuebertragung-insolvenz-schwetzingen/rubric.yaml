@@ -1,0 +1,21 @@
+schema_version: 1
+id: filmrechte-sicherungsuebertragung-insolvenz-schwetzingen
+title: Die letzte Rieslingspur zwischen Filmsicherheiten und Insolvenzverkauf
+plugin: fachanwalt-urheber-medienrecht
+task: Gutachten zur Rechtslage und zu möglichen Reaktionen des IP-Sicherheitennehmers
+artifacts:
+  combined_pdf: gesamt-pdf/filmrechte-sicherungsuebertragung-insolvenz-schwetzingen_gesamt.pdf
+  original_zip: testakte-filmrechte-sicherungsuebertragung-insolvenz-schwetzingen.zip
+  individual_pdf_zip: testakte-filmrechte-sicherungsuebertragung-insolvenz-schwetzingen-einzelpdfs.zip
+criteria:
+- Sachen, Forderungen und sonstige Rechte werden gegenstandsbezogen getrennt.
+- Rechtekette und Sicherheitenbestellung werden aus Primärakten rekonstruiert.
+- Der unterschriebene Erwerbsvertrag wird nach Vollzugsstand und betroffenen Rechten
+  ausgewertet.
+- Eilbedarf, Parteistellung, Anträge, Beweisangebote und wirtschaftliche Alternativen
+  werden geprüft.
+- Kein Aktenstück wird als bereits erstellte anwaltliche Lösung missverstanden.
+must_not_contain:
+- Musterlösung
+- fertiges Gutachten
+- abschließende Anspruchsstrategie

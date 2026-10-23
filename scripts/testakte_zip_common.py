@@ -22,9 +22,23 @@ STRUCTURED_TESTAKTEN = frozenset({
     'insolvenzverwaltung-klangbogen-buehnentechnik-bamberg',
 })
 
+# Für diese Akten sind Lesefassung und native Arbeitsakte bewusst getrennte
+# Produkte. Das Originalformat-ZIP enthält nur die Quelldokumente; das
+# Gesamt-PDF wird separat und zusätzlich als Einzel-PDF-ZIP bereitgestellt.
+SOURCE_ZIP_WITHOUT_GESAMT_PDF = frozenset({
+    'filmrechte-sicherungsuebertragung-insolvenz-schwetzingen',
+    'kurpfalz-taxware-software-ip-insolvenz',
+    'markenrechte-sicherungsuebertragung-insolvenz-mannheim',
+})
+
 
 def preserves_directories(testakte_dir: Path) -> bool:
     return testakte_dir.name in STRUCTURED_TESTAKTEN
+
+
+def source_zip_includes_gesamt_pdf(testakte_dir: Path) -> bool:
+    """Gibt die je Akte bestellte Trennung von Originalen und Lesefassung zurück."""
+    return testakte_dir.name not in SOURCE_ZIP_WITHOUT_GESAMT_PDF
 
 
 def safe_archive_name(name: str, *, allow_directories: bool) -> bool:

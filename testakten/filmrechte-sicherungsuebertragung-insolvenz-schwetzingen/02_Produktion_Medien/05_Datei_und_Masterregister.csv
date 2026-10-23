@@ -1,0 +1,9 @@
+﻿Asset-ID;Dateiname;Format;Laufzeit;Speicherort;Hashstatus;Bemerkung
+M-001;Rieslingspur_Kino_DE_v53.mxf;MXF/IMF;104:12;CloudVault;laut Labor geprüft;Referenzmaster
+M-002;Rieslingspur_Festival_v41.mxf;MXF;108:04;LTO-KL-001;Liste fehlt;Jazzszene enthalten
+M-003;Rieslingspur_INTL_clean_v53.mov;ProRes 4444 XQ;104:12;LTO-KL-001;laut Labor geprüft;ohne Titelkarten
+M-004;Rieslingspur_MandE_51.wav;WAV;104:12;StudioCloud/LTO;unbekannt;internationale Mischung
+M-005;Rieslingspur_DE_AD.wav;WAV;104:12;CloudVault;laut Labor geprüft;Audiodeskription
+M-006;Rieslingspur_DE_HOH.srt;SRT;104:12;CloudVault;n/a;Untertitel
+M-007;DCP_Kino_SMPTE;DCP;104:12;DCP-Festplatte/Pfalzstern;KDM-bezogen;verschlüsselt
+M-008;Schnittprojekt_v53;DaVinci Projekt;n/a;KL-RAID-02;nicht dokumentiert;Proxy-Verknüpfungen prüfen

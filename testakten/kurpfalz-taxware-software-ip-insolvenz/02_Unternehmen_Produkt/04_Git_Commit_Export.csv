@@ -1,0 +1,19 @@
+﻿Datum;Repository;Kurz-ID;Autor;Betreff;Pfadschwerpunkt;Release
+2017-07-03;taxengine-legacy;a31f0c2;Lukas Binder;initial rule normalizer import;src/binder/rules;Classic 0.8
+2018-02-16;taxengine-legacy;bc102ef;Lukas Binder;VAT period mapping for Kanzlei;src/binder/rules/vat;Classic 1.1
+2019-04-12;fiscuspilot-core;02fa8e1;Lena Vogt;migrate tax parser and add adapter;"core/parser; legacy-adapter";2.0-beta
+2019-06-21;fiscuspilot-core;12d7a90;Lena Vogt;replace date rules with TaxParse tables;core/parser;2.0
+2020-08-14;fiscuspilot-web;77ad8f4;Jonas Eberle;bootstrap FormKit based dialog shell;src/forms;2.6
+2020-10-02;fiscuspilot-web;fb1304a;Jonas Eberle;add MIT notice for FormKit helpers;"NOTICE; src/forms";2.7
+2021-03-05;platform-deploy;c8d22e7;Esra Kaya;baseline terraform and helm charts;"infra; charts";3.0
+2021-11-19;platform-deploy;e0091ab;Esra Kaya;pin image digest and signing policy;"policy; charts";3.3
+2022-11-11;ledger-flow;104acf9;Marek Nowak;add LedgerLens CSV prototype adapter;imports/ledgerlens;3.8
+2023-01-20;ledger-flow;913cad0;Marek Nowak;normalize booking fields before mapping;imports/normalize;3.9
+2023-05-05;fiscuspilot-core;ab34d61;Lena Vogt;extract legacy binder normalizer wrapper;legacy/binder-rules;4.0
+2024-02-09;receipt-capture;a98c301;Nina Scholl;initial camera flow and ReceiptCam crop;mobile/camera;4.3-pilot
+2024-03-01;receipt-capture;bb96d72;Nina Scholl;record SPDX metadata for image packages;"pubspec; NOTICE";4.3-pilot
+2025-05-16;fiscuspilot-core;7ae415e;Lena Vogt;support 2025 advance VAT schema;core/vat;4.5.2
+2025-09-12;fiscuspilot-web;fc3e117;Jonas Eberle;replace table virtualization package;src/components/table;4.6.0
+2026-01-23;platform-deploy;33bdc04;Esra Kaya;SBOM attestation in release pipeline;ci/release;4.6.4
+2026-06-05;receipt-capture;616df22;Nina Scholl;OCR retry and crop fallback;"worker/ocr; mobile/camera";4.7.0
+2026-09-18;fiscuspilot-core;4b786d0;Lena Vogt;prepare 2027 rule tables without release;core/rules/2027;unreleased

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Baut die Testakten-ZIPs fuer Releases.
 
-Die ZIPs enthalten die Arbeitsdateien, das Gesamt-PDF und die verbindliche
-zweisprachige README.txt, aber keine Markdown-, Download- oder Vorfuehrseiten.
+Die ZIPs enthalten die Arbeitsdateien und die verbindliche zweisprachige
+README.txt, aber keine Markdown-, Download- oder Vorfuehrseiten. Bei Akten mit
+ausdrücklich getrennter Lesefassung bleibt das Gesamt-PDF außerhalb des ZIPs.
 Bestellte Projektordner-Akten behalten ihre Unterordner. Übrige Akten bleiben flach.
 
 Aufruf:
@@ -18,7 +19,7 @@ import zipfile
 from pathlib import Path
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
-from testakte_zip_common import working_dump_archive_pairs
+from testakte_zip_common import source_zip_includes_gesamt_pdf, working_dump_archive_pairs
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -50,7 +51,7 @@ def add_testakte(zipf: zipfile.ZipFile, testakte_dir: Path) -> int:
     count = 1
     for path, arcname in working_dump_archive_pairs(
         testakte_dir,
-        include_gesamt_pdf=True,
+        include_gesamt_pdf=source_zip_includes_gesamt_pdf(testakte_dir),
     ):
         write_file(zipf, path, arcname)
         count += 1

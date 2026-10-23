@@ -14,7 +14,12 @@ import zipfile
 from pathlib import Path
 
 from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content_errors
-from testakte_zip_common import working_dump_expected_arcnames, preserves_directories, safe_archive_name
+from testakte_zip_common import (
+    preserves_directories,
+    safe_archive_name,
+    source_zip_includes_gesamt_pdf,
+    working_dump_expected_arcnames,
+)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO_ROOT / "testakten"
@@ -29,7 +34,10 @@ def fail(message: str) -> None:
 
 
 def expected_entries(testakte_dir: Path) -> list[str]:
-    return working_dump_expected_arcnames(testakte_dir, include_gesamt_pdf=True)
+    return working_dump_expected_arcnames(
+        testakte_dir,
+        include_gesamt_pdf=source_zip_includes_gesamt_pdf(testakte_dir),
+    )
 
 
 def zip_entries(zip_path: Path, *, require_notice: bool, allow_directories: bool = False) -> list[str]:

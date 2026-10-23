@@ -1,0 +1,16 @@
+﻿Debitor;Kunde;Rechnung;Belegdatum;Fälligkeit;Brutto_EUR;Offen_EUR;Mahnstufe;Vertragsart;Hinweis
+1017;Müller & Reiter;KTW-2026-9044;01.09.2026;15.09.2026;5533.5;5533.5;1;Pflege;Escrow-Rückfrage
+2044;PfalzForm;KTW-2026-9121;20.09.2026;01.10.2026;9282;9282;0;Cloud;Zahlung 01.10 noch nicht ausgeglichen
+1029;Auer & Hain;KTW-2026-9148;25.09.2026;05.10.2026;1725.5;1725.5;0;Lizenz/Hosting;
+1088;Neckarblick Treuhand;KTW-2026-8877;15.08.2026;29.08.2026;50932;42000;2;Pflege;Gutschrift 8.932 EUR noch ungebucht
+2051;Rheinauer Pumpenbau;KTW-2026-9160;28.09.2026;08.10.2026;6783;6783;0;Cloud;
+2077;Weingut Sonnenhang;KTW-2026-8734;30.07.2026;13.08.2026;14280;7140;3;Projekt;Teilzahlung
+1112;Schwarz & Vetter;KTW-2026-9155;27.09.2026;07.10.2026;3094;3094;0;Pflege;
+2091;Kurpfalz Logistik;KTW-2026-9066;05.09.2026;19.09.2026;5117;5117;1;Cloud;
+1134;Kanzlei Ufer & Sohn;KTW-2026-8818;06.08.2026;20.08.2026;11876.2;11876.2;2;Jahreslizenz;Mängelanzeige Support
+2110;Bergwerk Präzision GmbH;KTW-2026-8950;25.08.2026;08.09.2026;15470;15470;2;Cloud/Projekt;Aufteilung fehlt
+1168;Steuerteam Plankstadt;KTW-2026-9008;28.08.2026;11.09.2026;3927;3927;1;Pflege;Kündigung zum Jahresende
+2122;Rhein-Neckar Guss GmbH;KTW-2026-9014;29.08.2026;12.09.2026;8330;4165;1;Cloud;hälftige Zahlung
+1192;Kanzlei Marktbrücke;KTW-2026-8661;01.07.2026;15.07.2026;22491;22491;3;Migration/Pflege;Vergleichsgespräch
+2140;Pfälzer Kabeltechnik;KTW-2026-9130;22.09.2026;06.10.2026;5950;5950;0;Cloud;
+1211;Treuhand am Schloss;KTW-2026-9170;29.09.2026;13.10.2026;4641;4641;0;Pflege;
