@@ -453,7 +453,7 @@ def write_readme(folder: Path, case: dict[str, Any]) -> None:
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
 
-[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin](../../fachanwalt-urheber-medienrecht/README.md)
+[Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin](../../fachanwalt-urheber-medienrecht/README.md) · [Download-Index](../../ASSET_INDEX.md)
 
 Die Akte steht in drei getrennten Fassungen bereit. Das Gesamt-PDF ist die Lesefassung. Das Originalformat-ZIP enthält ausschließlich die nativen Aktenstücke und die vorgeschriebene README.txt; das Gesamt-PDF, redaktionelle Dateien und eine Lösung sind darin nicht enthalten. Das Einzel-PDF-ZIP enthält jede Aktenunterlage als eigene PDF-Datei.
 
