@@ -27,7 +27,7 @@ Die Akte enthält 45 Originaldateien und ein Gesamt-PDF mit 105 Seiten. Der Kred
 
 ### 3.2 Steuersoftware Kurpfalz
 
-Die Akte enthält 54 Originaldateien und ein Gesamt-PDF mit 160 Seiten. Neben dem Darlehensvertrag stehen der IP-Sicherungsvertrag und die Sicherungsabtretung der Lizenzforderungen. Auszahlungsvoraussetzungen, zwei Tranchen, SEPA- und Schuldnerkontobelege, Verwendungsnachweis, Darlehenskonto, Mahnung, Stillhaltebitte, Kündigung und Sicherheitenabrechnung erlauben eine eigenständige Rekonstruktion. Dokumentiert sind 2.400.000 Euro Auszahlung, 400.000 Euro Kapitaltilgung, 2.000.000 Euro offenes Kapital und 57.234,42 Euro offene Zinsen bei Verfahrenseröffnung.
+Die Akte enthält 56 Originaldateien und ein Gesamt-PDF mit 164 Seiten. Neben dem Darlehensvertrag stehen der IP-Sicherungsvertrag und die Sicherungsabtretung der Lizenzforderungen. Auszahlungsvoraussetzungen, zwei zeitgenössische CP-Snapshots, zwei Tranchen, SEPA- und Schuldnerkontobelege, Verwendungsnachweis, Darlehenskonto, Mahnung, Stillhaltebitte, Kündigung und Sicherheitenabrechnung erlauben eine eigenständige Rekonstruktion. Dokumentiert sind 2.400.000 Euro Auszahlung, 400.000 Euro Kapitaltilgung, 2.000.000 Euro offenes Kapital und 57.234,42 Euro offene Zinsen bei Verfahrenseröffnung.
 
 ### 3.3 Filmrechte Schwetzingen
 
@@ -37,6 +37,8 @@ Die Akte enthält 56 Originaldateien und ein Gesamt-PDF mit 114 Seiten. Die Prod
 
 Der Quellen- und Artefakttest prüft für jede Akte getrennt auf Darlehensvertrag, Sicherheitenabrede, Auszahlungsvoraussetzungen, mindestens zwei Abrufe, Valutierungs- und Kontonachweis, Saldenarbeitsmappe sowie Sicherungsfall oder Rechtsvorbehalt. Zusätzlich werden Vertragskennzeichen, Schlüsselbeträge und die Begriffe Sicherungszweck, Valuta, Tilgung, Kapital, Zinsen und Saldo kontrolliert.
 
-Die neu angelegten Finanzierungs-PDFs wurden auf 30 repräsentativen Seiten gerendert und visuell auf Lesbarkeit, Beschnitt und Überlauf geprüft. Für die acht neuen oder wesentlich erweiterten Arbeitsmappen wurden 28 Tabellenansichten kontrolliert. Die Kontrollformeln und Saldenüberleitungen zeigten keine sichtbaren Formel- oder Layoutfehler.
+Die neu angelegten Finanzierungs-PDFs wurden auf 30 repräsentativen Seiten gerendert und visuell auf Lesbarkeit, Beschnitt und Überlauf geprüft. Für die zehn neuen oder wesentlich erweiterten Arbeitsmappen wurden 30 Tabellenansichten kontrolliert. Die Kontrollformeln und Saldenüberleitungen zeigten keine sichtbaren Formel- oder Layoutfehler.
 
-Der vollständige Neubau ergab 155 Originaldateien und 379 Seiten in den Gesamt-PDFs. Die Originalformat-ZIP-Pakete schließen das jeweilige Gesamt-PDF und jede Gesamtlösung ausdrücklich aus.
+Eine zusätzliche Chronologieprüfung erkannte und beseitigte rückblickende Angaben in früher datierten Vertragsurkunden und historisch unmögliche spätere Excel-Fassungen in E-Mail-Anlagen. Die Abrufmails der Softwareakte enthalten nun jeweils den tatsächlich zeitgenössischen CP-Stand vor Bankentscheidung und Valutierung; spätere Entscheidungen bleiben in getrennten Folgebelegen. Automatische Regressionstests sichern diese Fassungsstände.
+
+Der vollständige Neubau ergab 157 Originaldateien und 383 Seiten in den Gesamt-PDFs. Die Originalformat-ZIP-Pakete schließen das jeweilige Gesamt-PDF und jede Gesamtlösung ausdrücklich aus.

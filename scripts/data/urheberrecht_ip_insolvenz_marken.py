@@ -370,7 +370,6 @@ CASE = {
                 "02_Darlehensvertrag_15-02-2024.pdf",
                 "03_Gesellschafterbeschluss_Sicherheiten.docx",
                 "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
-                "05_Anlage_1_Markenbestand.xlsx",
             ),
         ),
         _xlsx(
@@ -412,10 +411,10 @@ CASE = {
                     "Offene_Punkte",
                     ["Punkt", "Verantwortlich", "Frist", "Stand bei Freigabe", "Folge in der Akte"],
                     [
-                        ["Amtliche DE-Registerauszüge", "Kurpfalz Tonwerke", "29.02.2024", "offen", "spätere Registerabschriften vorhanden; Eingang 2024 nicht belegt"],
+                        ["Amtliche DE-Registerauszüge", "Kurpfalz Tonwerke", "29.02.2024", "offen", "Nachreichung und Eingangskontrolle ausstehend"],
                         ["Versicherungsabtretung", "Kurpfalz Tonwerke", "29.02.2024", "offen", "kein Abtretungsformular in der Arbeitsakte"],
-                        ["Hainblick-Vertrag", "Kurpfalz Tonwerke", "15.03.2024", "offen", "erst später in Insolvenzakte greifbar"],
-                        ["EUIPO-Anmeldenummer RHEINPULS", "Kurpfalz Tonwerke", "2 Bankarbeitstage nach Anmeldung", "Anmeldung noch nicht erfolgt", "Anmeldung 09.04.2024; Übermittlung an Kreditakte nicht belegt"],
+                        ["Hainblick-Vertrag", "Kurpfalz Tonwerke", "15.03.2024", "offen", "Nachreichung und Prüfung des Gebietsschutzes ausstehend"],
+                        ["EUIPO-Anmeldenummer RHEINPULS", "Kurpfalz Tonwerke", "2 Bankarbeitstage nach Anmeldung", "Anmeldung noch nicht erfolgt", "Nummer und amtlicher Anmeldebeleg nach Anmeldung nachzureichen"],
                     ],
                     "Nicht belegte Erledigung ist nicht als erfüllt zu behandeln. Die Liste hält die begrenzte Reichweite der Freigabe ausdrücklich fest.",
                 ),
@@ -618,7 +617,7 @@ CASE = {
             attachments=(
                 "02_Darlehensvertrag_15-02-2024.pdf",
                 "04_Sicherungsuebertragung_Marken_15-02-2024.pdf",
-                "05_Anlage_1_Markenbestand.xlsx",
+                "02B_CP_Check_und_Waiver_Tranche_1.xlsx",
             ),
         ),
         _mail(
@@ -2171,11 +2170,20 @@ CASE = {
                     """
                     Mitteilungen erfolgen an die im Vertrag genannten
                     Transaktionsadressen. Es gilt deutsches Recht. Gerichtsstand ist,
-                    soweit zulässig, Mannheim. Die PDF-Fassung enthält auf Seite 38 die
-                    qualifizierten elektronischen Signaturvermerke von Dr. Helena Aydin
-                    am 20. Oktober 2026 um 17:42 Uhr und Lina Ebert am selben Tag um
-                    18:06 Uhr. Der Signaturbericht bezeichnet das Dokument als
-                    unverändert seit Abschluss der zweiten Signatur.
+                    soweit zulässig, Mannheim. Der Unterschriftenblock der den
+                    Beteiligten als Vertragsausfertigung übersandten PDF nennt Dr.
+                    Helena Aydin für die Verkäuferin mit dem Zusatz „elektronisch
+                    unterzeichnet am 20. Oktober 2026 um 17:42 Uhr“ und Lina Ebert für
+                    die Käuferin mit dem Zusatz „elektronisch unterzeichnet am 20.
+                    Oktober 2026 um 18:06 Uhr“.
+                    """,
+                    """
+                    Die vorliegende dreiseitige PDF enthält keine kryptografisch
+                    prüfbare qualifizierte elektronische Signatur und keinen gesonderten
+                    technischen Signaturbericht. Ob die übersandte Datei mit der von
+                    beiden Parteien freigegebenen Fassung identisch ist, muss daher aus
+                    Versandnachrichten, Datenraumprotokoll und sonstigen Belegen geprüft
+                    werden.
                     """,
                 ),
                 _section(

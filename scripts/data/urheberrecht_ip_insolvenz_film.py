@@ -782,7 +782,6 @@ CASE["documents"].extend(
                 _section(
                     "1. Darlehen",
                     "Die Palatina Medienbank AG gewährt der Kurpfalz Lichtbild GmbH mit Vertrag KLP-2024-0418 am 18. April 2024 eine revolvierende Produktionslinie bis 1.850.000 EUR. Das Darlehenskonto wird unter KD-2417-01 geführt. Die Mittel sind ausschließlich für den Film Die letzte Rieslingspur zu verwenden.",
-                    "Mit gesondertem Nachtrag vom 10. Januar 2025 wird zusätzlich eine Fertigstellungstranche bis 420.000 EUR zugesagt. Der gemeinsame Höchstkapitalbetrag beider Kreditteile beträgt damit 2.270.000 EUR.",
                 ),
                 _section(
                     "2. Abruf und Auszahlungsvoraussetzungen",
@@ -791,7 +790,7 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "3. Verzinsung und Gebühren",
-                    "Valutierte Beträge werden mit 4,75 Prozent jährlich verzinst. Zinsen werden taggenau auf Basis tatsächliche Tage geteilt durch 360 berechnet und vierteljährlich dem Darlehenskonto belastet. Für nicht genutzte, noch abrufbare Beträge fällt eine Bereitstellungsprovision von 0,25 Prozent jährlich an.",
+                    "Valutierte Beträge werden mit 4,75 Prozent jährlich verzinst. Zinsen werden taggenau anhand der tatsächlichen Zahl der Tage, geteilt durch 360, berechnet und vierteljährlich dem Darlehenskonto belastet. Für nicht genutzte, noch abrufbare Beträge fällt eine Bereitstellungsprovision von 0,25 Prozent jährlich an.",
                     "Darlehenskontoauszüge unterscheiden Kapital, Tilgung, Zinsen und Gebühren. Zahlungen werden nach Kosten und Zinsen auf Kapital verrechnet, soweit die Parteien für einzelne Projektkontoabschöpfungen keine abweichende Kapitalzuordnung dokumentieren.",
                 ),
                 _section(
@@ -1040,8 +1039,8 @@ CASE["documents"].extend(
                 ),
                 _section(
                     "4. Sicherheiten und Sicherungszweck",
-                    "Die Parteien bestätigen, dass der IP-Sicherungsvertrag vom 19. April 2024 auch Ansprüche aus diesem Nachtrag erfasst. Die Einbeziehung der sicherungsübereigneten Mastermedien wird in Textform bestätigt und im Nachtrag zur Sicherungsübereignung vom 17. Februar 2026 nochmals dokumentiert.",
-                    "Die am 21. Februar 2025 bestellte Sicherungsabtretung der Lizenz- und Vertriebsforderungen sichert ausdrücklich Ansprüche aus Hauptvertrag und diesem Nachtrag. Aussagen zur Wirksamkeit gegenüber einzelnen Rechtegebern, zum Rang und zur insolvenzrechtlichen Verwertung sind damit nicht verbunden.",
+                    "Die Parteien bestätigen mit Unterzeichnung dieses Nachtrags in Textform, dass der IP-Sicherungsvertrag vom 19. April 2024 und die Sicherungsübereignung der dort bezeichneten Mastermedien auch Ansprüche aus diesem Nachtrag sichern sollen. Die Reichweite der bestehenden Anlagen und Rechteketten bleibt gesondert nachzuweisen.",
+                    "Die Darlehensnehmerin verpflichtet sich, der Bank spätestens vor Abschluss des ersten Lizenz- oder Vertriebsvertrags eine gesonderte Sicherungsabtretung der gegenwärtigen und künftigen Lizenz- und Vertriebsforderungen vorzulegen. Diese künftige Urkunde soll Ansprüche aus Hauptvertrag und diesem Nachtrag sichern. Bis zu ihrer Unterzeichnung besteht insoweit nur die vertragliche Bestellungspflicht.",
                 ),
                 _section(
                     "5. Zins, Rückzahlung und Fortgeltung",

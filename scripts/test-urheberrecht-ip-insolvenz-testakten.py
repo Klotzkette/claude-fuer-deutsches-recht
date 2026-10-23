@@ -33,7 +33,7 @@ MODULES = (
 ARTIFACT_MANIFEST = ROOT / "quality" / "legal" / "urheberrecht-ip-insolvenz-artifact-manifest.json"
 MINIMUM_DOCUMENTS = {
     "markenrechte-sicherungsuebertragung-insolvenz-mannheim": 45,
-    "kurpfalz-taxware-software-ip-insolvenz": 54,
+    "kurpfalz-taxware-software-ip-insolvenz": 56,
     "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen": 56,
 }
 ALLOWED_KINDS = {"docx", "pdf", "xlsx", "csv", "eml"}
@@ -236,6 +236,38 @@ def assert_source_case(case: dict) -> None:
     assert all(Path(document["path"]).suffix.lower() == f'.{document["kind"]}' for document in documents)
     assert not PROHIBITED_SOLUTION_TEXT.search(nested_text(documents)), f"{slug}: Lösungstext"
     assert_main_debt_security_chain(case)
+
+    by_path = {document["path"]: document for document in documents}
+    if slug == "markenrechte-sicherungsuebertragung-insolvenz-mannheim":
+        mutable_register = "05_Anlage_1_Markenbestand.xlsx"
+        for mail_path in ("02A_Abruf_Tranche_1_16-02-2024.eml", "06_Auszahlung_und_Unterlagen.eml"):
+            assert mutable_register not in by_path[mail_path].get("attachments", ()), (
+                slug,
+                mail_path,
+                "spätere Registerfassung als historische Anlage",
+            )
+        cp_snapshot = nested_text(by_path["02B_CP_Check_und_Waiver_Tranche_1.xlsx"])
+        for future_marker in ("spätere Registerabschriften", "Anmeldung 09.04.2024", "erst später in Insolvenzakte"):
+            assert future_marker not in cp_snapshot, f"{slug}: CP-Snapshot enthält Zukunftswissen: {future_marker}"
+        apa_text = nested_text(by_path["30_Unterzeichneter_Asset_Purchase_Agreement.pdf"])
+        assert "Seite 38" not in apa_text, f"{slug}: falsche Seitenbehauptung im APA"
+        assert "qualifizierten elektronischen Signaturvermerke" not in apa_text, f"{slug}: unbelegte Signaturbehauptung im APA"
+    if slug == "kurpfalz-taxware-software-ip-insolvenz":
+        final_cp = "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx"
+        expected_snapshots = {
+            "05_Finanzierung_Sicherheiten/13_Abruf_Tranche_1.eml": "05_Finanzierung_Sicherheiten/12A_CP_Stand_Abruf_Tranche_1.xlsx",
+            "05_Finanzierung_Sicherheiten/16_Abruf_Tranche_2.eml": "05_Finanzierung_Sicherheiten/12B_CP_Stand_Abruf_Tranche_2.xlsx",
+        }
+        for mail_path, snapshot in expected_snapshots.items():
+            attachments = by_path[mail_path].get("attachments", ())
+            assert final_cp not in attachments, (slug, mail_path, "spätere CP-Endfassung als historische Anlage")
+            assert snapshot in attachments, (slug, mail_path, "datierter CP-Snapshot fehlt")
+    if slug == "filmrechte-sicherungsuebertragung-insolvenz-schwetzingen":
+        loan_text = nested_text(by_path["04_Finanzierung_Sicherheiten/01_Produktionsdarlehen.pdf"])
+        addendum_text = nested_text(by_path["04_Finanzierung_Sicherheiten/08_Nachtrag_Fertigstellungstranche_2025.pdf"])
+        assert "10. Januar 2025" not in loan_text, f"{slug}: Hauptvertrag erzählt späteren Nachtrag"
+        for later_date in ("21. Februar 2025", "17. Februar 2026"):
+            assert later_date not in addendum_text, f"{slug}: Nachtrag erzählt späteres Ereignis {later_date}"
 
     headings = [
         section["heading"]

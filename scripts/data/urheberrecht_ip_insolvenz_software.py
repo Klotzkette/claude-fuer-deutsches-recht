@@ -960,6 +960,56 @@ CASE["documents"].extend(
 CASE["documents"].extend(
     [
         _xlsx(
+            "05_Finanzierung_Sicherheiten/12A_CP_Stand_Abruf_Tranche_1.xlsx",
+            "Von der Darlehensnehmerin übersandter CP-Stand zum Abruf der ersten Tranche",
+            [
+                {
+                    "name": "Stand_16_03_2023_1024",
+                    "headers": ["Nr.", "Auszahlungsvoraussetzung", "Eingereichter Beleg", "Angabe der Darlehensnehmerin", "Bankentscheidung"],
+                    "rows": [
+                        [1, "Darlehensvertrag RK-2023-4471 und Anlagen beiderseits unterzeichnet", "gegenseitige Ausfertigung vom 15.03.2023", "eingereicht", "noch offen"],
+                        [2, "IP-Sicherungsvertrag mit Anlagen S-1 bis S-3", "Sicherheitenurkunde vom 15.03.2023", "eingereicht", "noch offen"],
+                        [3, "Kontoverbindung und Kontoguthabenpfandrecht", "Kontobestätigung Heidelberger Volksbank", "eingereicht", "noch offen"],
+                        [4, "Vertretungsnachweis und Gesellschafterzustimmung", "Registerauszug und Beschluss", "eingereicht", "noch offen"],
+                        [5, "Budget Cloud-Migration und Entwicklung", "FP-MIG-2023-02", "1.600.000 EUR ausgewiesen", "noch offen"],
+                        [6, "Textformabruf mit Konto und Verwendungszweck", "E-Mail vom 16.03.2023", "1.600.000 EUR zum 20.03.2023", "noch offen"],
+                        [7, "Einzugsermächtigung Bearbeitungsentgelt", "E-Mail vom 16.03.2023 Ziffer 3", "18.000 EUR gesonderte Belastung", "noch offen"],
+                        [8, "Bestätigung: kein Kündigungsgrund oder Insolvenzantrag", "Geschäftsführerbestätigung in Abrufmail", "abgegeben", "noch offen"],
+                        [9, "Vier-Augen-Freigabe der Bank", "kein Beleg der Darlehensnehmerin", "nicht anwendbar", "ausstehend"],
+                    ],
+                    "notes": [
+                        "Zeitstand: 16. März 2023, 10:24 Uhr. Diese Anlage gibt nur die Einreichungssicht der Darlehensnehmerin wieder.",
+                        "Bankprüfung, Freigabe und Valutierung stehen noch aus; diese Liste ersetzt keine Entscheidung der Bank.",
+                    ],
+                }
+            ],
+        ),
+        _xlsx(
+            "05_Finanzierung_Sicherheiten/12B_CP_Stand_Abruf_Tranche_2.xlsx",
+            "Von der Darlehensnehmerin übersandter CP-Stand zum Abruf der zweiten Tranche",
+            [
+                {
+                    "name": "Stand_30_06_2023_0911",
+                    "headers": ["Nr.", "Auszahlungsvoraussetzung", "Eingereichter Beleg", "Angabe der Darlehensnehmerin", "Bankentscheidung"],
+                    "rows": [
+                        [1, "Textformabruf mindestens einen Bankarbeitstag vor Auszahlung", "E-Mail vom 30.06.2023", "800.000 EUR zum 03.07.2023", "noch offen"],
+                        [2, "Verwendung der ersten Tranche von mindestens 1.350.000 EUR", "Mittelverwendungsnachweis vom 29.06.2023", "1.438.600 EUR als anrechenbar bezeichnet", "noch offen"],
+                        [3, "Technischer Meilenstein M2", "Abnahmeprotokoll vom 28.06.2023", "erreicht", "noch offen"],
+                        [4, "Aktualisiertes Launch- und Vertriebsbudget", "FP-LAUNCH-2023-06", "eingereicht", "noch offen"],
+                        [5, "Original Provider-Abnahmebeleg über 76.000 EUR", "vollständiger Scan; Papieroriginal fehlt", "befristeter Waiver beantragt", "noch offen"],
+                        [6, "BWA, Liquiditätsstatus und wiederkehrender Jahresumsatz", "Reporting zum 31.05.2023", "eingereicht", "noch offen"],
+                        [7, "Bestätigung: keine fällige Vertragsverletzung oder Insolvenzantrag", "Geschäftsführerbestätigung in Abrufmail", "abgegeben", "noch offen"],
+                        [8, "Aktualisierte Repository- und Backupbestätigung", "Hashliste Q2/2023", "eingereicht; neues Repository noch nicht angelegt", "noch offen"],
+                        [9, "Vier-Augen-Freigabe der Bank", "kein Beleg der Darlehensnehmerin", "nicht anwendbar", "ausstehend"],
+                    ],
+                    "notes": [
+                        "Zeitstand: 30. Juni 2023, 09:11 Uhr. Der beantragte Waiver ist noch nicht erteilt.",
+                        "Bankprüfung, Freigabe und Valutierung stehen noch aus; diese Liste ersetzt keine Entscheidung der Bank.",
+                    ],
+                }
+            ],
+        ),
+        _xlsx(
             "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx",
             "Anlage 1 zum Darlehensvertrag – Auszahlungsvoraussetzungen und Freigaben",
             [
@@ -1028,7 +1078,7 @@ CASE["documents"].extend(
                 "uns seit Unterzeichnung kein Kündigungsgrund, Insolvenzantrag oder eine wesentliche "
                 "nachteilige Veränderung bekannt geworden ist.\n\nMit freundlichen Grüßen\nMartin Reuter\nGeschäftsführer"
             ),
-            attachments=["05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx"],
+            attachments=["05_Finanzierung_Sicherheiten/12A_CP_Stand_Abruf_Tranche_1.xlsx"],
         ),
         _doc(
             "05_Finanzierung_Sicherheiten/14_Auszahlungsanzeigen_und_SEPA_Belege.pdf",
@@ -1127,7 +1177,7 @@ CASE["documents"].extend(
                 "ist.\n\nMit freundlichen Grüßen\nMartin Reuter\nGeschäftsführer"
             ),
             attachments=[
-                "05_Finanzierung_Sicherheiten/12_Anlage_1_Auszahlungsvoraussetzungen.xlsx",
+                "05_Finanzierung_Sicherheiten/12B_CP_Stand_Abruf_Tranche_2.xlsx",
                 "05_Finanzierung_Sicherheiten/15_Verwendungsnachweis_Tranche_1.pdf",
             ],
         ),

@@ -78,7 +78,7 @@ Rekonstruieren Sie dabei die schuldrechtliche und tatsächliche Kette vollständ
 
 ## 5. Aktenumfang
 
-Die Arbeitsakte enthält 54 Originaldateien: 2 CSV, 16 DOCX, 9 EML, 14 PDF, 13 XLSX. E-Mail-Adressen verwenden ausschließlich reservierte `.example`-Domains. Namen, Unternehmen, Registerdaten und Vorgänge sind erfunden.
+Die Arbeitsakte enthält 56 Originaldateien: 2 CSV, 16 DOCX, 9 EML, 14 PDF, 15 XLSX. E-Mail-Adressen verwenden ausschließlich reservierte `.example`-Domains. Namen, Unternehmen, Registerdaten und Vorgänge sind erfunden.
 
 ## 6. Didaktischer Endpunkt
 
