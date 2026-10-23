@@ -43,6 +43,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 - Aktuelle BFH-Rechtsprechung zu Irland-Lizenzgebuehren in freier amtlicher Quelle abrufen.
 - BMF-Schreiben zu § 4j EStG (Lizenzschranke) — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
 - BMF-Schreiben zu § 50g EStG — aktuellen Stand im BMF-Veroeffentlichungsverzeichnis prüfen.
+- Software: BMF-Schreiben vom 27.10.2017 (BStBl 2017 I S. 1448) zur grenzüberschreitenden Überlassung von Software und Datenbanken und BMF-Schreiben vom 02.08.2022 (BStBl 2022 I S. 1253) zur Softwareauftragsentwicklung; beide stehen in der BMF-Positivliste 2026 (Stand 19.03.2026).
 
 ## DBA-Hoechstsaetze für Lizenzen (Übersicht — alle Saetze konkret im DBA-Text prüfen)
 
@@ -67,7 +68,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 ## Workflow
 
 ### Phase 1 — Lizenz-Charakter klären
-1. Software-Standardlizenz vs. Anpassungslizenz.
+1. Software: Umfang der eingeräumten Rechte klären — bestimmungsgemäßer Gebrauch (auch mit Anpassungen für den eigenen Betrieb) oder umfassende Nutzungsrechte zur wirtschaftlichen Weiterverwertung (Vervielfältigung, Bearbeitung, Verbreitung). Bezeichnung als Lizenz oder Kauf und Standard- oder Individualsoftware sind nicht entscheidend.
 2. Patent / Marke / Know-how.
 3. Franchise.
 
@@ -97,7 +98,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 ## Strategie und Praxis-Tipps
 
 - ZinsLizenzRL (0 Prozent) bei verbundenen EU-Unternehmen guenstiger als DBA-Hoechstsatz — Empfaengergunst-Prüfung.
-- Software-Lizenzen: nach OECD-MA-Kommentar Lizenzeinkuenfte (Art. 12); Software-Verkauf (Standardware) Art. 7 — Abgrenzung kritisch.
+- Software: Maßgeblich sind die eingeräumten Rechte, nicht die Vertragsbezeichnung und nicht die Unterscheidung zwischen Standard- und Individualsoftware. Rechte nur zum bestimmungsgemäßen Gebrauch (Installation, Kopien für den Betrieb, Site- oder Konzernlizenz, Anpassung an die eigene IT, SaaS-Nutzung) begründen keine inländischen Einkünfte aus Rechteüberlassung und keinen Steuerabzug nach § 50a Abs. 1 Nr. 3 EStG; abkommensrechtlich gilt Art. 7 (BMF-Schreiben vom 27.10.2017, Rz. 3 f., 12, 14 ff., 26 ff.; OECD-MK Art. 12 Tz. 14, 14.2). Lizenzgebühren nach Art. 12 setzen umfassende Verwertungsrechte wie Vervielfältigung, Bearbeitung oder Verbreitung voraus (BMF Rz. 18 f.; OECD-MK Art. 12 Tz. 13.1).
 - § 4j EStG-Lizenzschranke: bei schaedlicher IP-Box-Regelung in Quellenstaat Betriebsausgabenabzug auf Vergueter-Seite eingeschraenkt.
 - Substanz § 50d Abs. 3 EStG: Briefkasten-Lizenzgesellschaften scheitern regelmaessig.
 - § 50a-Steuerabzug ist eine Bringschuld des deutschen Vergueterschuldners — bei Pflichtverletzung Haftung.
@@ -110,7 +111,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 - **§ 50a EStG-Anmeldung des deutschen Vergueterschuldners**: Pflicht zur Quartalsanmeldung (vierteljaehrlich) über BZSt-Online-Portal (BOP); Anmeldung der Steuer Abzug auch bei Freistellung notwendig. Vom Anwender mit aktuellem BZSt-Verfahrensverzeichnis abgleichen.
 - **Freistellungsbescheinigung vor erster Lizenzzahlung**: nach § 50c Abs. 2 EStG vom BZSt erwirken; gilt für kuenftige Zahlungen, max. drei Jahre. Vergueterschuldner darf reduziert einbehalten.
 - **Ansaessigkeitsbescheinigung des Lizenzempfaengers vorab**: bei IRS Form 6166 (USA), HMRC (UK), CFR-1 (Polen). Bearbeitung im Heimatstaat regelmaessig 4-8 Wochen — Vorlauf einplanen.
-- **Vertrag prüfen, ob Software-Lizenz oder Software-Kauf**: Prüfer kategorisieren anhand der Vertragsklausel "Eigentum/Lizenz". Lizenz (Art. 12) loest Quellensteuer aus; Kauf (Art. 7) regelmaessig nicht. Vertragsmuster anpassen, wenn Auslegung guenstig sein soll.
+- **Bei Software die eingeräumten Rechte prüfen, nicht die Bezeichnung**: Ob der Vertrag „Lizenz“ oder „Kauf“ heißt, entscheidet nicht (OECD-MK Art. 12 Tz. 12.2, 14). Ein Steuerabzug nach § 50a Abs. 1 Nr. 3 EStG setzt umfassende Nutzungsrechte zur wirtschaftlichen Weiterverwertung voraus, die im Inland verwertet werden (BMF-Schreiben vom 27.10.2017, Rz. 3, 6). Bei Softwareauftragsentwicklung mit umfassenden, exklusiven, zeitlich unbeschränkten und unwiderruflichen Rechten kann ein wirtschaftlicher Rechtekauf ohne Steuerabzug vorliegen; bei Zweifeln ist zur Vermeidung der Haftung einzubehalten (BMF-Schreiben vom 02.08.2022, Tz. 3.4 f.).
 - **§ 4j EStG-Lizenzschranke vor Abschluss des Lizenzvertrags prüfen**: schaedliche IP-Box im Empfaengerstaat (Praeferenzregime der OECD-Liste) reduziert Betriebsausgabenabzug deutschen Lizenznehmers. Liste über OECD Harmful Tax Practices und BMF-Schreiben aktualisieren.
 - **EU-ZinsLizenzRL: 24-Monatsfrist beachten**: nach § 50g EStG mindestens 24 Monate Verbundenheit vor Zahlung. Bei jungen Konzernstrukturen oft nicht erfuellt — DBA-Hoechstsatz greift.
 - **Erstattung nach Einbehalt § 50c Abs. 3 EStG**: vier Jahre Antragsfrist nach Ablauf Kalenderjahr der Steuerentstehung. Frueh stellen — BZSt-Bearbeitung 6-24 Monate, Cashflow-Belastung beim Gläubiger.
@@ -120,7 +121,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Lizenz (Art. 12) vs. Software-Verkauf (Art. 7) | Lizenz: Quellensteuer Art. 12 DBA | Verkauf: kein Quellenstaat-Recht, nur BS | bei Standardsoftware ohne Anpassung Pfad B; bei individueller Anpassung Pfad A |
+| Software: umfassende Verwertungsrechte (Art. 12) vs. bestimmungsgemäßer Gebrauch (Art. 7) | Vervielfältigungs-, Bearbeitungs- oder Verbreitungsrechte zur wirtschaftlichen Weiterverwertung: Steuerabzug nach § 50a Abs. 1 Nr. 3 EStG, Entlastung nach Art. 12 DBA | Nutzung im eigenen Betrieb, auch mit Anpassungen, Site- oder Konzernlizenz, SaaS oder Vertrieb einzelner Kopien ohne Vervielfältigungsrecht: keine inländischen Einkünfte aus Rechteüberlassung, kein Steuerabzug, Art. 7 DBA | entscheidend ist der eingeräumte Rechteumfang, nicht Bezeichnung oder Standard- und Individualsoftware (BMF-Schreiben vom 27.10.2017, Rz. 3 f., 12, 20; OECD-MK Art. 12 Tz. 12.2, 14, 14.2, 14.4) |
 | ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei 25 Prozent Beteiligung, 24 Monate | DBA-Hoechstsatz 0-10 Prozent | wenn Voraussetzungen erfuellt: ZinsLizenzRL |
 | Freistellungsbescheinigung vs. Erstattung | Antrag vor Zahlung; reduzierter Einbehalt; max. 3 Jahre | nach Einbehalt rueckwirkend; 4-Jahres-Frist | bei regelmäßigen Lizenzzahlungen Pfad A; einmalig Pfad B |
 | IP-Holding im Niedrigsteuerland vs. operative Gesellschaft | IP-Box Niederlande/Luxemburg/Schweiz | direkte IP-Halterin im Hauptkonzern | § 4j EStG-Lizenzschranke + § 50d Abs. 3 EStG bei Substanzmangel — meist nicht mehr lohnend |
@@ -128,7 +129,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 
 ## Was Reviewer/Prüfer triggert
 
-- **Software-Lizenz vs. Software-Verkauf falsch qualifiziert**: BMF-Schreiben zur Abgrenzung (live abrufen) verlangt Vertragsanalyse.
+- **Software nach Bezeichnung statt nach Rechteumfang qualifiziert**: Memo stellt auf „Lizenz“ oder „Kauf“ bzw. Standard- oder Individualsoftware ab, statt die eingeräumten Rechte zu prüfen (BMF-Schreiben vom 27.10.2017, Rz. 3 f., 12; bei Auftragsentwicklung BMF-Schreiben vom 02.08.2022).
 - **§ 50a-Einbehalt unterlassen**: deutscher Vergueterschuldner zahlt brutto an Auslandsempfaenger, ohne Freistellungsbescheinigung — Haftung § 50a Abs. 5 EStG.
 - **§ 4j EStG-Lizenzschranke ignoriert**: Memo argumentiert Betriebsausgabenabzug der Lizenzgebuehr, ohne IP-Box-Prüfung.
 - **§ 50d Abs. 3 EStG-Substanz nicht dokumentiert**: bei IP-Holdings ohne Personal/Buero/Geschäftstaetigkeit — Entlastung verweigert.
@@ -154,7 +155,7 @@ Lizenzgebuehren werden nach OECD-MA grundsätzlich im Wohnsitzstaat des Gläubig
 
 ## Berechnungsbeispiel Lizenzgebuehr Software
 
-Sachverhalt: Deutsche GmbH zahlt Softwarelizenz an US-Schwester (verbunden, > 50 Prozent Beteiligung, Halteperiode > 24 Monate). Lizenzbetrag 500.000 EUR.
+Sachverhalt: Deutsche GmbH zahlt Lizenzgebühren an US-Schwester (verbunden, > 50 Prozent Beteiligung, Halteperiode > 24 Monate) für das Recht, deren Software für den deutschen Markt zu bearbeiten, zu vervielfältigen und zu vertreiben (umfassende Nutzungsrechte, vgl. BMF-Schreiben vom 27.10.2017, Rz. 18 f.). Lizenzbetrag 500.000 EUR. Nutzt die GmbH die Software nur bestimmungsgemäß im eigenen Betrieb, entfallen Steuerabzug und Freistellung (Rz. 12 ff.).
 
 | Position | Wert |
 |---|---|
