@@ -132,7 +132,7 @@ description: "Für Betriebsausgaben Werbungskosten — Prüfraster: ordnet Norm,
 
 ### Geschenke § 4 Abs. 5 Nr. 1 EStG
 
-- Über EUR 35 pro Empfänger und Jahr nicht abzugsfähig
+- Über EUR 50 pro Empfänger und Wirtschaftsjahr nicht abzugsfähig (§ 4 Abs. 5 Satz 1 Nr. 1 EStG; EUR 35 nur für Wirtschaftsjahre, die vor dem 01.01.2024 beginnen, § 52 Abs. 6 EStG)
 - Bei Streuwerbeartikel großzügiger
 
 ### Reisekosten

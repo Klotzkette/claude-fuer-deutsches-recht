@@ -1,0 +1,40 @@
+name: Rechtsstand-Sperrmuster
+
+# Verhindert, dass bereits berichtigte Rechtsstandsfehler über einen beliebigen
+# Pull Request zurückkehren. Bisher lief die Prüfung nur beim Gesamtrelease.
+
+on:
+  pull_request:
+    paths:
+      - '**/*.md'
+      - 'scripts/validate-current-law-sentinels.py'
+      - '.github/workflows/rechtsstand-sperrmuster.yml'
+  push:
+    branches:
+      - main
+    paths:
+      - '**/*.md'
+      - 'scripts/validate-current-law-sentinels.py'
+      - '.github/workflows/rechtsstand-sperrmuster.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rechtsstand-sperrmuster-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Berichtigte Rechtsstandsfehler sperren
+        run: python3 scripts/validate-current-law-sentinels.py

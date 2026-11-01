@@ -19,7 +19,7 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 
 - **§ 8 EStG**: Geldwerter Vorteil = sachlicher Wert der empfangenen Leistung; Restauranteinladung = Betriebseinnahme, wenn Zusammenhang mit Kooperation.
 - **§ 22 Nr. 3 EStG**: Gelegentliche Einnahmen bis 256 € steuerfrei; Überschreitung → Einkommensteuerpflicht.
-- **§ 3 Abs. 1 Nr. 16 EStG**: Reisekosten-Freistellung nur für echte Dienstreisen, nicht für Influencer-Trips ohne Arbeitgeberbeziehung.
+- **§ 3 Nr. 16 EStG**: Reisekosten-Freistellung nur für echte Dienstreisen, nicht für Influencer-Trips ohne Arbeitgeberbeziehung.
 - **§ 5a UWG**: Einladung mit Kooperationserwartung → Kennzeichnungspflicht für den resultierenden Post.
 - **BGH I ZR 35/21**: Auch unverlangte Leistungen können Kennzeichnungspflicht begründen.
 - **§ 4 Abs. 5 Nr. 2 EStG**: Bewirtungskosten als Betriebsausgabe nur zu 70 %; aber: für Creator als Empfänger ist es eine Einnahme.

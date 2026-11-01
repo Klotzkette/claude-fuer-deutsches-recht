@@ -1958,6 +1958,23 @@ SENTINELS += (
         "Landgericht als Restrukturierungsgericht bezeichnet",
         re.compile(r"\bLG\s*\(StaRUG-Gerichte\)", re.IGNORECASE),
     ),
+    Sentinel(
+        "veraltete Geschenkegrenze 35 Euro",
+        re.compile(
+            r"^(?![^\n]*(?:vor\s+dem\s+0?1[.]\s*0?1[.]\s*2024|bis\s+(?:VZ\s+)?2023))[^\n]*"
+            r"(?:Geschenk[^\n]{0,120}(?:(?:EUR|€)\s*35\b|\b35\s*(?:EUR\b|Euro\b|€))|"
+            r"(?:(?:EUR|€)\s*35\b|\b35\s*(?:EUR\b|Euro\b|€))[^\n]{0,60}(?:pro|je)\s+Empf)",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "Paragraf 3 EStG mit nicht existentem Absatz",
+        re.compile(
+            r"(?:§|Paragraf)\s*3\s+Abs(?:atz|[.])\s*1\s+(?:Nr[.]|Nummer)\s*\d+\w?\s+"
+            r"(?:EStG|Einkommensteuergesetz)",
+            re.IGNORECASE,
+        ),
+    ),
 )
 SENTINEL_HINTS += (
     ("49a",),
@@ -1968,6 +1985,8 @@ SENTINEL_HINTS += (
     ("199",),
     ("kopien",),
     ("starug-gerichte",),
+    ("35",),
+    ("estg", "einkommensteuergesetz"),
 )
 
 if len(SENTINEL_HINTS) != len(SENTINELS):
