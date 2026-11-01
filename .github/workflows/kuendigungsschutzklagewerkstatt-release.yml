@@ -1,4 +1,4 @@
-name: Kündigungsschutzklagewerkstatt und fünf Arbeitsakten
+name: Kündigungsschutzklagewerkstatt und sechs Fallfassungen
 
 on:
   pull_request:
@@ -9,6 +9,8 @@ on:
       - 'testakten/arbeitsrecht-kuendigung-schwangerschaft-augsburg/**'
       - 'testakten/arbeitsrecht-muster-seewerk-*/**'
       - 'scripts/*seewerk*'
+      - 'scripts/*uferwerk*'
+      - 'scripts/data/uferwerk-*.json'
       - 'scripts/data/seewerk-*.json'
       - 'quality/seewerk-quellenauszuege.json'
       - 'scripts/validate-testakten-dokumentqualitaet.py'
@@ -19,9 +21,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0
+        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.2.0
         required: true
-        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0
+        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.2.0
 
 permissions:
   contents: read

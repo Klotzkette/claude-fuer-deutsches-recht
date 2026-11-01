@@ -4,6 +4,7 @@ Diese Akte enthaelt 22 vollstaendig ausformulierte turnusmaessige Zwischenberich
 
 [Testakten-Uebersicht](../README.md) · [Download-Uebersicht](../../ASSET_INDEX.md) · [Repository-Start](../../README.md) · [Plugin](../../insolvenzverwaltung-berichtsersteller/README.md)
 
+<!-- BEGIN gesamt-pdf-section (autogen) -->
 ## 1. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -13,8 +14,10 @@ Diese Akte enthaelt 22 vollstaendig ausformulierte turnusmaessige Zwischenberich
 | Format | Link |
 | --- | --- |
 | Gesamt-PDF | [`gesamt-pdf/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg_gesamt.pdf`](gesamt-pdf/insolvenzverwaltung-klangbogen-buehnentechnik-bamberg_gesamt.pdf) |
-| Originaldateien | [`testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg.zip) |
-| Einzel-PDFs | [`testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg-einzelpdfs.zip) |
+| Akten-ZIP (Originaldateien) | [`testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg.zip) |
+| Einzel-PDF-ZIP | [`testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/insolvenzverwaltung-berichtsersteller-v1.1.0/testakte-insolvenzverwaltung-klangbogen-buehnentechnik-bamberg-einzelpdfs.zip) |
+
+<!-- END gesamt-pdf-section (autogen) -->
 
 ## 2. Fallkern
 

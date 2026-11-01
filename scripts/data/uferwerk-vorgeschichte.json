@@ -1,0 +1,1913 @@
+{
+  "documents": [
+    {
+      "id": "V01",
+      "date": "2008-01-14",
+      "kind": "letter",
+      "brand": "client",
+      "title": "Bewerbung als Grafikdesignerin",
+      "sender": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "recipient": "Uferwerk Verlag GmbH, Personalabteilung, Hafenstraße 24, 78462 Konstanz",
+      "reference": "Bewerbung LM / Gestaltung 2008",
+      "subject": "Ihre Ausschreibung im regionalen Stellenportal vom 07.01.2008",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Brandt, Ihre Ausschreibung spricht mich an, weil Sie Gestaltung und die praktische Zusammenarbeit mit Buchhandlungen miteinander verbinden. Ich bewerbe mich um die unbefristete Stelle in Ihrer Designabteilung. Seit meinem Diplomabschluss 2004 arbeite ich bei der Agentur Seebogen in Ravensburg. Dort betreue ich Verlagskunden vom ersten Entwurf bis zur druckfähigen Datei. Ich möchte künftig ein Programm über mehrere Erscheinungstermine hinweg begleiten und nicht immer nur einzelne Kampagnen abgeben.",
+            "Zu meinen laufenden Arbeiten gehören Umschläge, saisonale Kataloge, Verkaufsblätter und Messeunterlagen. Für zwei kleinere Kunden erstelle ich außerdem Angebotsübersichten, halte Rückfragen zu Mengen und Terminen nach und stimme Korrekturen direkt mit den Auftraggebern ab. Die kaufmännische Abrechnung verantwortet bei uns die Projektleitung. Ich kenne die Übergaben dorthin und kann mir gut vorstellen, solche Aufgaben bei Ihnen mit zu übernehmen.",
+            "In Konstanz wohne ich seit vergangenem Herbst mit meinem Partner. Eine Vollzeittätigkeit und gelegentliche Reisen zu Messen sind für mich möglich. Bei einer Einigung im Januar könnte ich nach Abstimmung mit meinem bisherigen Arbeitgeber zum 1. März beginnen. Meine Gehaltsvorstellung beträgt 2.900 EUR brutto monatlich bei 40 Wochenstunden. Über die konkrete Aufteilung der Aufgaben würde ich gerne persönlich sprechen.",
+            "Die beigefügten Arbeitsproben enthalten nur von der Agentur zur Bewerbung freigegebene Arbeiten. Die Zahlen im Katalogbeispiel sind ersetzt. Bitte behandeln Sie meine Bewerbung vertraulich; mein bisheriger Arbeitgeber ist noch nicht über einen Wechsel informiert. Sie erreichen mich schriftlich unter lisa.muster@post.example."
+          ]
+        }
+      ],
+      "attachments": [
+        "V02 - Lebenslauf und Arbeitsproben, Nachreichung vom 16.01.2008 zum Bewerbungsbrief vom 14.01.2008"
+      ],
+      "signature": "Lisa Muster"
+    },
+    {
+      "id": "V02",
+      "date": "2008-01-16",
+      "kind": "memo",
+      "brand": "client",
+      "title": "Lebenslauf und Erläuterung der Arbeitsproben",
+      "sender": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "recipient": "Personalabteilung Uferwerk Verlag GmbH",
+      "reference": "Anlage zur Bewerbung LM",
+      "subject": "Unterlagen zur Bewerbung vom 14.01.2008",
+      "sections": [
+        {
+          "paragraphs": [
+            "Ich heiße Lisa Muster, bin am 19. Juli 1982 geboren und wohne am Rheinsteig 8 in Konstanz. Ich bin ledig und habe keine Kinder. Für den Stellenwechsel ist kein Umzug mehr erforderlich. Meine private Korrespondenzadresse lautet lisa.muster@post.example."
+          ],
+          "heading": "1. Persönliche Angaben"
+        },
+        {
+          "paragraphs": [],
+          "heading": "2. Ausbildung und beruflicher Weg",
+          "table": {
+            "headers": [
+              "Zeitraum",
+              "Ausbildung oder Tätigkeit",
+              "Arbeitsschwerpunkte"
+            ],
+            "rows": [
+              [
+                "1999–2000",
+                "Gestalterisches Vorpraktikum und Vorbereitung",
+                "Druckvorstufe, Bildbearbeitung, Grundlagen der Kundenkorrespondenz"
+              ],
+              [
+                "2000–2004",
+                "Studium Kommunikationsdesign, Abschluss Diplom",
+                "Editorial Design und typografische Systeme; Diplomarbeit zu einem mehrteiligen Kulturprogramm"
+              ],
+              [
+                "08/2004–02/2008",
+                "Agentur Seebogen, Ravensburg, Grafikdesignerin",
+                "Kataloge, Verkaufsunterlagen, Messeausstattung, Abstimmung mit Druckereien und Kunden"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Beim Frühjahrskatalog der Edition Kiesel habe ich das Gestaltungsraster, etwa zwei Drittel der Innenseiten und die Schlusskorrektur erstellt. Die Produkttexte stammen vom Auftraggeber. Die beigefügte Terminübersicht zeigt meine eigene Abstimmung mit Druckerei und Kundenbetreuung; sie ist nicht Bestandteil der gedruckten Publikation.",
+            "Bei der Messemappe Nordufer bestand meine Aufgabe darin, bereits vorhandene Entwürfe für unterschiedliche Händlergruppen aufzubereiten. Ich habe hierfür Mengenlisten und eine einfache Kalkulation in einer Tabellenkalkulation geführt. Preisfreigaben und Vertragsabschlüsse hat die Agenturleitung erteilt. Als Referenz kann nach vorheriger Rücksprache meine Projektleiterin angesprochen werden; Kontaktdaten übersende ich bei Bedarf gesondert."
+          ],
+          "heading": "3. Arbeitsproben und eigener Anteil"
+        },
+        {
+          "paragraphs": [
+            "Ich arbeite regelmäßig mit Layout-, Vektor- und Bildbearbeitungsprogrammen. Tabellenkalkulation nutze ich für Produktionslisten, einfache Formeln und Kostenvergleiche. Englisch kann ich in beruflichen E-Mails und Gesprächen einsetzen. Mit einem Warenwirtschaftssystem oder einem eigenen Vertriebsgebiet habe ich bislang nicht gearbeitet. Neue Programme eigne ich mir normalerweise anhand eines betreuten Musterauftrags an."
+          ],
+          "heading": "4. Kenntnisse"
+        }
+      ],
+      "attachments": [],
+      "signature": "Lisa Muster"
+    },
+    {
+      "id": "V03",
+      "date": "2008-01-29",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Vermerk zum Bewerbungsgespräch",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Personalakte Lisa Muster",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Gespräch am 29.01.2008, 09:00–10:15 Uhr",
+      "sections": [
+        {
+          "paragraphs": [
+            "Teilgenommen haben Dr. Mara Ufer, Jule Brandt, Lutz Falk und Lisa Muster. Frau Muster hat drei Arbeitsproben am Bildschirm erläutert. Die Aufteilung der eigenen Leistungen hat sie nachvollziehbar beschrieben. Bei der Katalogprobe konnte sie erklären, wie sie mit verspäteten Preisangaben und nachträglichen Händlerwünschen umgegangen ist. Sie fragt nach einem festen Ansprechpartner für verbindliche kaufmännische Entscheidungen.",
+            "Herr Falk benötigt zunächst Unterstützung für Umschläge, Werbemittel und Händlerunterlagen. Er weist darauf hin, dass im kleinen Verlag Entwurf, Datenpflege und Kundenrückfragen ineinandergreifen. Frau Muster hält diese Mischung für sinnvoll. Sie möchte nicht ausschließlich administrative Tätigkeiten ausüben, lehnt eine spätere zeitweise Tätigkeit in der Kundenbetreuung aber nicht ab. Eine Weiterbildung für Warenwirtschaft oder Angebotsbearbeitung wäre dafür erforderlich."
+          ],
+          "heading": "1. Gespräch und Aufgabenverständnis"
+        },
+        {
+          "paragraphs": [
+            "Besprochen wurden eine unbefristete Vollzeitbeschäftigung ab 01.03.2008, 40 Wochenstunden und eine Tätigkeit am Standort Konstanz. Frau Muster kann eine Bestätigung des bisherigen Arbeitgebers zum Ende Februar nachreichen. Auf eine abschließende Gehaltszusage wurde im Gespräch verzichtet. Frau Ufer hält 2.800 EUR als Einstieg für möglich und will nach dem ersten vollen Beschäftigungsjahr erneut sprechen; ein bestimmter Erhöhungsschritt wurde nicht zugesagt.",
+            "Frau Muster fragt nach der Bedeutung der Versetzungsklausel. Frau Brandt erklärt, dass es um vergleichbare Aufgaben im selben Betrieb geht, beispielsweise kaufmännische Kunden- und Auftragsbearbeitung, nicht um eine Gehaltsabsenkung oder einen dauerhaften Wechsel an einen anderen Ort. Frau Muster bittet darum, diesen Punkt im Vertrag eindeutig zu formulieren. Herr Falk soll vor Arbeitsbeginn einen Einarbeitungsplan erstellen."
+          ],
+          "heading": "2. Vertragsbedingungen und offene Punkte"
+        },
+        {
+          "paragraphs": [
+            "Fachliche Empfehlung von Herrn Falk: einstellen. Das Portfolio passt zum Verlagsprogramm; die gestalterische Selbstständigkeit erscheint für den Einstieg ausreichend. Die kaufmännischen Kenntnisse sind ausbaufähig und ersetzen keine Einarbeitung. Frau Brandt bereitet ein Angebot vor. Dieser Vermerk enthält die Erinnerung der Gesprächsteilnehmer unmittelbar nach dem Termin und ist Frau Muster nicht zur Bestätigung übersandt worden."
+          ],
+          "heading": "3. Entscheidungsvorbereitung"
+        }
+      ],
+      "attachments": [],
+      "signature": "Jule Brandt, Personal"
+    },
+    {
+      "id": "V04",
+      "date": "2008-02-05",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Angebot einer unbefristeten Beschäftigung",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Einstellung zum 01.03.2008",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster, wir möchten Sie als Grafikdesignerin für unseren Verlag gewinnen. Wir bieten Ihnen eine unbefristete Beschäftigung ab dem 1. März 2008 mit einer regelmäßigen Arbeitszeit von 40 Stunden in der Woche und einem monatlichen Bruttogehalt von 2.800 EUR an. Die Stelle ist am Betriebssitz in Konstanz angesiedelt. Für die ersten sechs Monate vereinbaren wir eine Probezeit.",
+            "Im Vertrag ist neben der gestalterischen Arbeit die Möglichkeit vergleichbarer kaufmännischer Aufgaben vorgesehen. Das unveränderte vertragliche Entgelt und der Einsatz innerhalb von Konstanz sollen dabei ausdrücklich festgehalten werden. Die Regelung ersetzt nicht die Abstimmung über notwendige Einarbeitung und konkrete Arbeitsmittel. Für die zunächst vorgesehene Tätigkeit berichtet Sie an Herrn Lutz Falk.",
+            "Eine Jahresleistung kann nach gesonderter Entscheidung gewährt werden. Sie ist kein zugesagter dreizehnter Monatsbezug. Im Arbeitsvertrag finden Sie die nähere Regelung. Eine verbindliche Gehaltserhöhung nach einem Jahr können wir nicht zusagen; wir werden die Entwicklung Ihrer Aufgaben im ersten Jahresgespräch aufgreifen.",
+            "Bitte prüfen Sie den beigefügten Vertrag in Ruhe. Wenn Sie einverstanden sind, können wir am 8. Februar beide Ausfertigungen unterzeichnen. Die für Ihre Kündigung beim bisherigen Arbeitgeber notwendige Zusage gilt mit unserer Unterschrift unter den Arbeitsvertrag. Bitte kündigen Sie nicht allein aufgrund dieses noch nicht gegengezeichneten Begleitschreibens. Für eine Rückmeldung verwenden Sie personal@uferwerk.example."
+          ]
+        }
+      ],
+      "attachments": [
+        "V05"
+      ],
+      "signature": "Dr. Mara Ufer, Geschäftsführerin; Jule Brandt, Personal"
+    },
+    {
+      "id": "V05",
+      "date": "2008-02-08",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Arbeitsvertrag Lisa Muster",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Unbefristetes Arbeitsverhältnis ab 01.03.2008",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz, vertreten durch die Geschäftsführerin Dr. Mara Ufer, und Frau Lisa Muster, geboren am 19. Juli 1982, wohnhaft Rheinsteig 8, 78462 Konstanz, schließen den folgenden Arbeitsvertrag. Im weiteren Vertrag werden sie als Arbeitgeberin und Arbeitnehmerin bezeichnet. Das Arbeitsverhältnis beginnt am 1. März 2008 und wird auf unbestimmte Zeit geschlossen. Eine Befristung und eine Mindestbeschäftigungsdauer sind nicht vereinbart.",
+            "Die ersten sechs Monate gelten als Probezeit. Während dieser Zeit kann jede Vertragspartei das Arbeitsverhältnis mit einer Frist von zwei Wochen kündigen. Für die Zeit danach gilt Ziffer 15. Die Probezeit dient der beiderseitigen Erprobung der Zusammenarbeit und begründet keine automatische Beendigung. Die Arbeitnehmerin nimmt ihre Arbeit am ersten nach ihrem Arbeitszeitplan vorgesehenen Arbeitstag auf. Die Arbeitgeberin stellt ihr bis dahin die erforderlichen Arbeitsmittel und Zugänge bereit."
+          ],
+          "heading": "1. Vertragsparteien, Beginn und Probezeit"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin wird als Grafikdesignerin beschäftigt. Zu ihren Aufgaben gehören insbesondere die Gestaltung und technische Aufbereitung von Verlagsprodukten, Umschlägen, Katalogen, Präsentationen und verkaufsunterstützenden Unterlagen sowie die damit verbundene Abstimmung mit Redaktion, Produktion und Vertrieb. Sie bearbeitet Korrekturen, führt Produktions- und Terminlisten und dokumentiert die für eine Übergabe notwendigen Dateistände. Verbindliche Druck-, Preis- und Vertragsfreigaben erteilt sie nur, soweit ihr diese Befugnis gesondert übertragen wird.",
+            "Die Arbeitgeberin kann der Arbeitnehmerin andere, ihren Kenntnissen und Fähigkeiten entsprechende, vergleichbare kaufmännische Tätigkeiten innerhalb des Betriebs in Konstanz übertragen. Dazu können die Betreuung von Kundenanfragen, die Pflege von Produkt- und Kundendaten, die Erstellung vorbereiteter Angebote sowie die kaufmännische Auftragsbearbeitung gehören. Das vertragliche Grundentgelt bleibt bei einer solchen Übertragung unverändert. Die Regelung ermächtigt nicht zur Zuweisung einer geringwertigen Tätigkeit unter Absenkung des Entgelts. Persönliche Belange und betriebliche Erfordernisse werden bei der Ausübung des Weisungsrechts berücksichtigt.",
+            "Erfordert eine neue Aufgabe Kenntnisse eines betrieblichen Programms oder eines besonderen Ablaufs, erhält die Arbeitnehmerin eine angemessene Einweisung. Sie wirkt daran mit und weist auf noch fehlende Kenntnisse hin. Die Übertragung von Führungs-, Abschluss- oder Kreditbefugnissen bedarf einer gesonderten Festlegung. Die tatsächliche Mitarbeit an einem Vorgang begründet solche Befugnisse nicht."
+          ],
+          "heading": "2. Tätigkeit, Aufgabenänderung und Einarbeitung"
+        },
+        {
+          "paragraphs": [
+            "Regelmäßiger Arbeitsort ist der Betrieb der Arbeitgeberin in Konstanz. Die Arbeitgeberin kann innerhalb des Stadtgebiets andere betriebliche Räume zuweisen, soweit die persönlichen Belange der Arbeitnehmerin berücksichtigt werden. Eine dauerhafte Versetzung an einen Ort außerhalb von Konstanz bedarf einer Vereinbarung. Die bloße Mitteilung einer neuen Anschrift ersetzt diese Vereinbarung nicht.",
+            "Zur Tätigkeit können gelegentliche Besuche bei Druckereien, Geschäftskunden und Fachmessen gehören. Anlass, Dauer und wesentliche Reisekosten werden vor Reiseantritt abgestimmt. Die Arbeitnehmerin ist nicht verpflichtet, für Dienstreisen ein privates Kraftfahrzeug bereitzustellen. Eine regelmäßige Tätigkeit in der eigenen Wohnung oder an einem frei gewählten Ort ist mit diesem Vertrag nicht vereinbart. Vorübergehende Ausnahmen können mit der vorgesetzten Person vereinbart werden; dabei müssen Erreichbarkeit, Arbeitsmittel und der Umgang mit Unterlagen geklärt sein."
+          ],
+          "heading": "3. Arbeitsort und Dienstreisen"
+        },
+        {
+          "paragraphs": [
+            "Die regelmäßige Arbeitszeit beträgt 40 Stunden wöchentlich ohne Ruhepausen und wird grundsätzlich auf fünf Arbeitstage von Montag bis Freitag verteilt. Die konkrete Lage richtet sich nach dem betrieblichen Arbeitszeitplan. Die tägliche Arbeit beginnt im Regelfall zwischen 8:00 Uhr und 9:00 Uhr. Abweichungen für Produktionsabschlüsse, Kundentermine und persönliche Belange werden vorher mit der vorgesetzten Person abgestimmt. Die gesetzlichen Höchstarbeitszeiten und Ruhezeiten sind einzuhalten.",
+            "Die Arbeitnehmerin erfasst Beginn, Ende und Pausen nach dem im Betrieb eingeführten Verfahren. Erforderliche Korrekturen sind zeitnah zu begründen. Die Erfassung von Zeit ersetzt keine Anordnung von Mehrarbeit. Gesetzlich erforderliche Pausen werden tatsächlich genommen; sie dürfen nicht nur nachträglich als Buchung eingetragen werden. Für den Fall einer vorübergehenden abweichenden Verteilung bleibt die vereinbarte wöchentliche Stundenzahl maßgeblich. Dauerhafte Änderungen der Wochenarbeitszeit werden gesondert vereinbart. Gesetzliche und betriebsverfassungsrechtliche Beteiligungsrechte bleiben unberührt."
+          ],
+          "heading": "4. Regelmäßige Arbeitszeit und Zeiterfassung"
+        },
+        {
+          "paragraphs": [
+            "Mehrarbeit über die regelmäßige Wochenarbeitszeit hinaus ist nur zu leisten, wenn sie von der vorgesetzten Person angeordnet oder vorab genehmigt wurde und der Arbeitnehmerin unter Berücksichtigung ihrer persönlichen Situation zumutbar ist. Bei unvorhergesehenen dringenden Störungen kann eine nachträgliche Bestätigung erfolgen. Die Arbeitnehmerin teilt dann unverzüglich mit, welche Arbeit aus welchem Anlass zusätzlich erforderlich war. Sie entscheidet nicht allein durch längeres Verbleiben im Betrieb über einen Vergütungsanspruch.",
+            "Angeordnete oder genehmigte zusätzliche Stunden werden im Verhältnis eins zu eins durch bezahlte Freizeit ausgeglichen. Die Lage der Freizeit wird abgestimmt. Ist der Ausgleich bis zum Ende des dritten auf die Leistung folgenden Kalendermonats aus betrieblichen Gründen nicht möglich, werden die offenen Stunden mit dem anteiligen Grundentgelt abgerechnet. Das Monatsgrundentgelt wird hierzu durch die durchschnittliche monatliche Sollarbeitszeit geteilt. Ein allgemeiner Einschluss sämtlicher Mehrarbeit im Monatsgehalt wird nicht vereinbart. Gesetzliche Zuschläge und günstigere anwendbare Regelungen bleiben unberührt."
+          ],
+          "heading": "5. Mehrarbeit und Ausgleich"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin erhält für die vereinbarte Vollzeittätigkeit ein monatliches Grundgehalt von 2.800 EUR brutto. Das Gehalt ist spätestens am letzten Bankarbeitstag des jeweiligen Kalendermonats auf ein von ihr benanntes Konto zu überweisen. Die Arbeitgeberin nimmt die gesetzlich vorgeschriebenen Abzüge vor und erteilt eine nachvollziehbare Abrechnung. Die Arbeitnehmerin stellt die für die Abrechnung notwendigen Angaben rechtzeitig bereit und teilt Änderungen mit.",
+            "Beginnt oder endet ein Vergütungsanspruch während des Kalendermonats, erfolgt die Abrechnung anteilig nach den Kalendertagen des betreffenden Monats. Zwingende gesetzliche Berechnungsvorgaben gehen vor. Veränderungen des Grundgehalts werden gesondert festgehalten. Das Gehalt ist nicht an das Fortbestehen eines bestimmten Produkts, einer Kundengruppe oder einer Kostenstelle gebunden. Eine Änderung der internen Zuordnung lässt deshalb den Anspruch nach dieser Ziffer unberührt. Eine Überprüfung der Vergütung im Jahresgespräch bedeutet ohne zusätzliche Zusage keine bestimmte Erhöhung."
+          ],
+          "heading": "6. Grundvergütung und Abrechnung"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitgeberin kann nach Abschluss eines Geschäftsjahres eine zusätzliche Jahresleistung gewähren. Ob und in welcher Höhe eine solche Leistung zugesagt wird, entscheidet sie für das jeweilige Jahr gesondert unter Berücksichtigung des Geschäftsergebnisses und der individuellen Leistung. Dieser Vertrag begründet keinen Anspruch auf eine bestimmte Jahresleistung und keinen Anspruch auf einen dreizehnten Monatsbezug. Wird eine Leistung zugesagt, enthält die Mitteilung den Betrag beziehungsweise die Berechnung und den Auszahlungstermin.",
+            "Eine für ein bestimmtes Geschäftsjahr zugesagte oder bereits erarbeitete Leistung wird nicht allein deshalb wieder entzogen, weil das Arbeitsverhältnis später gekündigt wird. Besondere Voraussetzungen einer einzelnen Zusage sind klar in dieser Zusage zu benennen; sie werden durch diesen Vertrag nicht vorweggenommen. Die Arbeitgeberin wird in den jährlichen Mitteilungen deutlich machen, ob eine einmalige Entscheidung getroffen oder eine verbindliche weitergehende Zusage abgegeben wird. Gesetzliche Ansprüche und Ansprüche aus einer ausdrücklichen Vereinbarung werden durch die Bezeichnung einer Zahlung als freiwillig nicht ausgeschlossen."
+          ],
+          "heading": "7. Mögliche Jahresleistung"
+        },
+        {
+          "paragraphs": [
+            "Notwendige, vorher abgestimmte Aufwendungen für betriebliche Zwecke werden gegen Beleg erstattet. Für regelmäßig wiederkehrende kleinere Ausgaben kann die Arbeitgeberin ein vereinfachtes Abrechnungsverfahren festlegen. Dienstreisen werden nach der jeweils bekannt gegebenen Reisekostenregelung abgerechnet, soweit diese die gesetzlichen Ansprüche nicht unterschreitet. Die Arbeitnehmerin erhält für ihre Tätigkeit die erforderlichen Programme, Zugänge und Geräte auf Kosten der Arbeitgeberin.",
+            "Anschaffungen im Namen der Arbeitgeberin oder die Beauftragung externer Personen bedürfen einer entsprechenden Befugnis oder Einzelgenehmigung. Die Arbeitnehmerin prüft vor der Verwendung fremder Bilder, Schriften und Texte, ob die betriebliche Freigabe vorliegt, und weist auf fehlende Nachweise hin. Sie ist nicht verpflichtet, eigene private Lizenzen für den Betrieb zur Verfügung zu stellen. Eine erlaubte private Nutzung betrieblicher Geräte und deren Umfang werden gesondert geregelt."
+          ],
+          "heading": "8. Aufwendungsersatz und Arbeitsmittel"
+        },
+        {
+          "paragraphs": [
+            "Der jährliche Erholungsurlaub beträgt bei einer Fünftagewoche 28 Arbeitstage. Darin ist der gesetzliche Mindesturlaub enthalten. Bei einer Änderung der Anzahl der regelmäßigen Wochenarbeitstage wird der Anspruch entsprechend umgerechnet; eine Verringerung der täglichen Stundenzahl allein ändert die Zahl der Urlaubstage nicht. Gesetzliche Zusatzurlaubsansprüche bleiben unberührt.",
+            "Urlaub wird vor Antritt beantragt und genehmigt. Die Arbeitgeberin berücksichtigt die Urlaubswünsche und entgegenstehende betriebliche Belange sowie die nach gesetzlichen Maßstäben vorrangigen Wünsche anderer Beschäftigter. Die bloße Eintragung eines Wunsches in einen gemeinsamen Kalender ersetzt keine Genehmigung. Die Arbeitgeberin führt den Urlaubssaldo getrennt vom Arbeitszeitkonto und informiert über den Stand. Für Übertragung, Verfall und Abgeltung gelten die gesetzlichen Vorgaben und gegebenenfalls günstigere Vereinbarungen. Eine pauschale Abgeltung von Urlaub mit dem Monatsgehalt wird nicht vereinbart. Bei Beendigung des Arbeitsverhältnisses werden noch bestehende Ansprüche anhand der tatsächlichen Voraussetzungen abgerechnet; bereits genommener Urlaub wird nicht ohne gesetzliche Grundlage zurückgefordert."
+          ],
+          "heading": "9. Erholungsurlaub"
+        },
+        {
+          "paragraphs": [
+            "Kann die Arbeitnehmerin ihre Arbeit nicht oder nicht rechtzeitig aufnehmen, informiert sie die vorgesetzte Person oder die Personalabteilung unverzüglich über die Verhinderung und deren voraussichtliche Dauer. Die Mitteilung erfolgt so früh, dass notwendige Übergaben und Vertretungen organisiert werden können. Bei Arbeitsunfähigkeit ist die erforderliche ärztliche Bescheinigung nach den jeweils geltenden gesetzlichen Vorgaben vorzulegen. Die Arbeitgeberin kann im gesetzlichen Rahmen einen früheren Nachweis verlangen. Ändert sich die voraussichtliche Dauer, ist dies ohne schuldhaftes Zögern mitzuteilen.",
+            "Die Entgeltfortzahlung richtet sich nach dem Gesetz. Die Arbeitnehmerin muss keine Diagnose in einem allgemein zugänglichen Teamkalender eintragen. Erforderliche Angaben für Abrechnung und Organisation werden gegenüber der zuständigen Stelle gemacht. Gesetzliche Ansprüche wegen Mutterschutz, Elternzeit, Betreuung erkrankter Kinder oder sonstiger persönlicher Verhinderung werden durch diese Ziffer weder ersetzt noch pauschal ausgeschlossen. Für planbare Freistellungen ist rechtzeitig Kontakt mit der Personalabteilung aufzunehmen. Die betriebliche Bearbeitung einer Mitteilung lässt gesetzliche Antragsfristen und Nachweise unberührt."
+          ],
+          "heading": "10. Arbeitsverhinderung und Erkrankung"
+        },
+        {
+          "paragraphs": [
+            "Eine entgeltliche regelmäßige Nebentätigkeit ist der Arbeitgeberin vor Aufnahme in Textform mit Art und zeitlichem Umfang anzuzeigen. Die Arbeitgeberin darf ihr nur widersprechen, wenn berechtigte betriebliche Interessen entgegenstehen, insbesondere eine unmittelbare Konkurrenztätigkeit, eine Verletzung von Arbeitszeitgrenzen oder eine erhebliche Beeinträchtigung der geschuldeten Tätigkeit. Ein allgemeines Verbot jeder privaten gestalterischen Betätigung wird nicht vereinbart.",
+            "Betriebliche Aufträge, Kundendaten und nicht freigegebene Arbeitsmittel dürfen für eine private Tätigkeit nicht verwendet werden. Die Arbeitnehmerin legt erkennbare Interessenkonflikte offen, bevor sie an dem betroffenen Vorgang mitwirkt. Ehrenamtliche Tätigkeiten und gelegentliche unentgeltliche Hilfe im privaten Bereich bedürfen keiner Genehmigung, soweit keine betrieblichen Interessen berührt sind. Die Verpflichtung zur Anzeige bedeutet nicht, dass die Arbeitgeberin über die gesamte Freizeitgestaltung bestimmt. Ein Wettbewerbsverbot für die Zeit nach Ende des Arbeitsverhältnisses wird durch diesen Vertrag nicht begründet."
+          ],
+          "heading": "11. Nebentätigkeiten und Interessenkonflikte"
+        },
+        {
+          "paragraphs": [
+            "An den im Rahmen der geschuldeten Tätigkeit geschaffenen und für den Verlagsbetrieb bestimmten Arbeitsergebnissen räumt die Arbeitnehmerin der Arbeitgeberin die für deren vereinbarte betriebliche Verwertung erforderlichen ausschließlichen Nutzungsrechte ein. Dies umfasst insbesondere die Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung, Verwendung in Werbung und Verkaufsunterlagen sowie die Anpassung an Auflagen, Formate und Sprachfassungen. Die Rechte können für die Herstellung und den Vertrieb der Verlagsprodukte an beauftragte Dienstleister und Vertriebspartner weitergegeben werden. Gesetzliche Persönlichkeitsrechte und zwingende Vergütungsansprüche bleiben unberührt.",
+            "Vor dem Arbeitsverhältnis oder außerhalb der geschuldeten Tätigkeit unabhängig geschaffene Werke werden nicht allein durch ihre Speicherung auf einem betrieblichen Gerät erfasst. Soll solches Material für ein Projekt verwendet werden, werden Rechte und Vergütung vorher geklärt. Die Arbeitnehmerin kennzeichnet Fremdmaterial und die ihr bekannten Nutzungsbeschränkungen in der Projektablage. Originaldateien, Verknüpfungen und notwendige Produktionsinformationen sind so abzulegen, dass eine Vertretung die Arbeit fortsetzen kann. Eine private Präsentation von Arbeitsproben bedarf der Freigabe, soweit noch unveröffentlichte Inhalte, Kundendaten oder Rechte Dritter betroffen sind."
+          ],
+          "heading": "12. Arbeitsergebnisse und Nutzungsrechte"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin behandelt nicht allgemein bekannte geschäftliche und persönliche Informationen, die ihr bei ihrer Arbeit anvertraut werden, vertraulich. Hierzu gehören insbesondere unveröffentlichte Programme, Kalkulationen, Konditionen einzelner Kunden, Zugangsdaten sowie personenbezogene Angaben über Kunden und Beschäftigte. Informationen werden nur den Personen zugänglich gemacht, die sie für ihre betrieblichen Aufgaben benötigen. Zugangsdaten dürfen nicht an unbefugte Personen weitergegeben werden.",
+            "Die Verpflichtung gilt nach Beendigung fort, soweit ein berechtigtes Geheimhaltungsinteresse besteht. Sie hindert nicht die Wahrnehmung eigener Rechte, die zulässige Beratung durch zur Verschwiegenheit verpflichtete Personen oder gesetzlich erlaubte Mitteilungen an zuständige Stellen. Allgemeines berufliches Wissen und selbst erworbene Fähigkeiten dürfen weiter genutzt werden. Bestehen Zweifel, ob eine externe Weitergabe für einen Arbeitsauftrag zulässig ist, ist vorab eine Freigabe einzuholen. Die Arbeitgeberin stellt angemessene sichere Wege für die Übermittlung notwendiger Unterlagen bereit; ein privates E-Mail-Konto soll hierfür nicht verwendet werden."
+          ],
+          "heading": "13. Vertraulichkeit und geschützte Informationen"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitgeberin ist berechtigt, die Arbeitnehmerin nach Ausspruch einer Kündigung bis zur Beendigung des Arbeitsverhältnisses unter Fortzahlung der vertraglichen Vergütung von der Arbeitsleistung freizustellen. Sie kann die Freistellung widerruflich oder unwiderruflich erklären. Die Arbeitnehmerin wird über Beginn, Umfang und gegebenenfalls verbleibende Übergabeaufgaben gesondert informiert. Ein allgemeiner Anspruch auf unbezahlte Freistellung ergibt sich aus dieser Regelung nicht.",
+            "Ob und in welchem Umfang eine konkrete Freistellung zugleich der Erfüllung von Urlaubs- oder Zeitguthaben dient, ist in der jeweiligen Erklärung gesondert festzuhalten. Ohne eine solche Festlegung werden durch die bloße Freistellungserklärung keine bestimmten Urlaubstage als genommen bezeichnet. Die Regelung soll die organisatorische Abwicklung einer Kündigung ermöglichen. Die gesetzlichen Rechte der Vertragsparteien werden durch die vertragliche Bezeichnung der Maßnahme nicht abschließend bestimmt. Erforderliche Erreichbarkeit und die Rückgabe von Arbeitsmitteln sind so zu vereinbaren, dass sie mit einer ausdrücklich unwiderruflichen Freistellung vereinbar bleiben."
+          ],
+          "heading": "14. Freistellung nach Kündigung"
+        },
+        {
+          "paragraphs": [
+            "Nach Ende der Probezeit beträgt die Kündigungsfrist für beide Vertragsparteien sechs Monate zum Ende eines Kalendermonats. Soweit für die Arbeitgeberin zwingend eine längere gesetzliche Kündigungsfrist gilt, bleibt diese unberührt. Das Arbeitsverhältnis endet nicht allein durch das Erreichen eines bestimmten Lebensalters oder durch eine vorübergehende Arbeitsunfähigkeit. Eine abweichende Beendigungsvereinbarung bedarf der gesetzlich vorgeschriebenen Form.",
+            "Kündigungen bedürfen der Schriftform. Die elektronische Form ist ausgeschlossen. Eine Mitteilung per E-Mail oder eine eingescannte Unterschrift ersetzt die unterschriebene Kündigung nicht. Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt bestehen. Bei einer Kündigung sind die jeweils geltenden gesetzlichen Fristen zur gerichtlichen Geltendmachung zu beachten. Die Arbeitnehmerin wird nach Ausspruch einer Kündigung im erforderlichen Umfang über die betrieblichen Ansprechpersonen für Übergabe, Bescheinigungen und Abrechnung informiert. Dieser Vertrag enthält keinen vorweggenommenen Verzicht auf eine gerichtliche Überprüfung oder auf gesetzliche Ansprüche bei Beendigung."
+          ],
+          "heading": "15. Kündigung und sonstige Beendigung"
+        },
+        {
+          "paragraphs": [
+            "Bei Beendigung gibt die Arbeitnehmerin die ihr überlassenen betrieblichen Geräte, Schlüssel, Datenträger und Unterlagen zurück. Die Rückgabe wird mit einer Liste dokumentiert. Die Arbeitgeberin ermöglicht zuvor die geordnete Herausgabe zulässig privat gespeicherter Unterlagen, soweit solche Daten vorhanden sind. Betriebliche Daten dürfen nicht zur privaten Vorratshaltung kopiert oder außerhalb vorgesehener Sicherungsverfahren gelöscht werden.",
+            "Die Arbeitnehmerin hält den Arbeitsstand ihrer laufenden Projekte so fest, dass eine Übergabe möglich ist. Die Übergabe begründet keine Pflicht, nach dem Ende unentgeltlich weiterzuarbeiten. Die Arbeitgeberin erteilt die gesetzlich geschuldeten Bescheinigungen und auf Wunsch ein qualifiziertes Zeugnis. Ein Zwischenzeugnis kann aus berechtigtem Anlass beantragt werden. Offene Abrechnungsfragen werden getrennt von der Rückgabe dokumentiert. Die Herausgabe der geschuldeten Bescheinigungen wird nicht von einem pauschalen Verzicht auf Vergütungsansprüche abhängig gemacht."
+          ],
+          "heading": "16. Rückgabe, Übergabe und Bescheinigungen"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin stellt die zur Durchführung des Arbeitsverhältnisses erforderlichen Angaben zutreffend bereit. Änderungen ihrer Zustellanschrift, der für die Entgeltabrechnung benötigten Angaben und ihrer Kontoverbindung teilt sie zeitnah mit. Angaben zu familiären Umständen werden nur erhoben, soweit sie für einen bestimmten gesetzlichen oder vertraglichen Zweck benötigt werden. Der bloße Zugang zu Personaldaten begründet keine Erlaubnis zur Verwendung für andere Zwecke.",
+            "Die Arbeitgeberin informiert über zuständige Ansprechpersonen und den Umgang mit Personalunterlagen. Die Arbeitnehmerin nutzt für betriebliche Kommunikation die hierfür eingerichteten Wege. Eine Verpflichtung, außerhalb ihrer Arbeitszeit ein privates Endgerät oder ein privates Postfach laufend zu überwachen, wird nicht vereinbart. Arbeitsanweisungen, die eine Änderung bereits vereinbarter Arbeitsbedingungen voraussetzen, ersetzen keine entsprechende Vereinbarung. Die Arbeitnehmerin kann bei unklaren Zuständigkeiten eine schriftliche Bestätigung verlangen."
+          ],
+          "heading": "17. Personaldaten und betriebliche Kommunikation"
+        },
+        {
+          "paragraphs": [
+            "Für die konkrete Durchführung gelten rechtmäßig erlassene betriebliche Arbeitsanweisungen und anwendbare Betriebsvereinbarungen. Die Arbeitgeberin macht diese in zumutbarer Weise zugänglich. Sie betreffen insbesondere Arbeitsorganisation, IT-Nutzung, Sicherheit, Reisekosten und die Nutzung gemeinsamer Einrichtungen. Der Hinweis auf solche Regelungen erlaubt keine einseitige Herabsetzung des individuell vereinbarten Grundentgelts oder der regelmäßigen Wochenarbeitszeit.",
+            "Die Arbeitnehmerin arbeitet mit den anderen Abteilungen zusammen und weist früh auf absehbare Termin- oder Qualitätsprobleme hin. Konflikte über Prioritäten sind mit der vorgesetzten Person zu klären, bevor Zusagen gegenüber Kunden verändert werden. Gesetzliche Beteiligungs- und Beschwerderechte bleiben bestehen. Die Parteien verpflichten sich zu einem respektvollen Umgang. Eine Beanstandung wird nach Möglichkeit anhand eines konkreten Vorgangs besprochen; pauschale Bewertungen ersetzen keine Mitteilung, welche Leistung oder welches Verhalten erwartet wird."
+          ],
+          "heading": "18. Betriebliche Regelungen und Zusammenarbeit"
+        },
+        {
+          "paragraphs": [
+            "Ergänzungen und Änderungen dieses Vertrags sollen zur Klarstellung schriftlich festgehalten werden. Der Vorrang einer tatsächlich getroffenen individuellen Vereinbarung wird dadurch nicht aufgehoben. Soweit das Gesetz eine bestimmte Form zwingend verlangt, bleibt diese maßgeblich. Die Parteien können sich zur Bestätigung einer Absprache an die Personalabteilung wenden und erhalten eine Ausfertigung für ihre Unterlagen.",
+            "Mündliche Zusagen über eine bestimmte Gehaltserhöhung, eine dauerhafte Änderung der Arbeitszeit oder den Ausschluss eines Einsatzbereichs sind bei Unterzeichnung nicht getroffen. Das Angebotsschreiben vom 5. Februar 2008 und das Bewerbungsgespräch erläutern den Hintergrund, begründen aber keine neben dem vorliegenden Vertrag stehende Zusage einer bestimmten jährlichen Erhöhung. Wird später ein Nachtrag geschlossen, soll er bezeichnen, welche Regelung ersetzt oder ergänzt wird. Im Übrigen bleibt der Vertrag bestehen. Ein allgemeiner Verzicht auf bereits entstandene Ansprüche wird mit der Unterzeichnung nicht erklärt."
+          ],
+          "heading": "19. Änderungen und individuelle Absprachen"
+        },
+        {
+          "paragraphs": [
+            "Sollte eine Bestimmung dieses Vertrags unwirksam sein oder werden, richtet sich die Rechtsfolge nach den gesetzlichen Vorschriften. Die übrigen Regelungen bleiben bestehen, soweit dies rechtlich vorgesehen ist. An die Stelle einer unwirksamen Bestimmung tritt keine von der Arbeitgeberin einseitig festzulegende Ersatzregelung. Die Parteien werden einen notwendigen Klärungsbedarf anhand des konkreten Vertragszwecks besprechen.",
+            "Die Arbeitnehmerin bestätigt, vor Unterzeichnung ausreichend Gelegenheit zur Durchsicht gehabt und eine von beiden Vertragsparteien unterschriebene Ausfertigung erhalten zu haben. Die Arbeitgeberin erhält die zweite Ausfertigung. Der Vertrag besteht aus den Ziffern 1 bis 20; weitere Anlagen mit abweichenden Arbeitsbedingungen sind bei Unterzeichnung nicht beigefügt. Die Unterschriften beziehen sich auf diesen vollständigen Text. Unterzeichnet in Konstanz am 8. Februar 2008."
+          ],
+          "heading": "20. Schlussbestimmungen und Ausfertigungen"
+        }
+      ],
+      "attachments": [],
+      "signature": "Dr. Mara Ufer, für die Uferwerk Verlag GmbH; Lisa Muster, Arbeitnehmerin"
+    },
+    {
+      "id": "V06",
+      "date": "2008-03-03",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Einarbeitung und erste Arbeitszuordnung",
+      "sender": "Lutz Falk, Designleitung, Uferwerk Verlag GmbH",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Arbeitsbeginn und Zuständigkeiten im Frühjahr 2008",
+      "sections": [
+        {
+          "paragraphs": [
+            "Willkommen im Team. In den ersten beiden Wochen arbeiten Sie an den Händlerblättern für das Sommerprogramm mit. Bitte legen Sie zunächst drei vorhandene Titel im Raster an und stimmen Sie die Bildausschnitte mit mir ab. Die Texte kommen aus der Redaktion, die Preisangaben werden vom Vertrieb freigegeben. Wenn in einer Korrektur zwei verschiedene Preise stehen, entscheiden Sie nicht selbst zwischen ihnen, sondern stellen Sie die Rückfrage im gemeinsamen Vorgang.",
+            "Ab der dritten Woche übernehmen Sie einen kleineren Umschlag und die dazugehörigen Verkaufsunterlagen. Frau Seidel zeigt Ihnen, welche Informationen Buchhandlungen für eine Bestellung benötigen. Das ist kein eigener Außendienstauftrag. Sie sollen aber erkennen können, ob eine Anfrage gestalterische Änderungen, eine Mengenauskunft oder eine verbindliche kaufmännische Entscheidung betrifft."
+          ],
+          "heading": "1. Erste Aufgaben"
+        },
+        {
+          "paragraphs": [
+            "Für jede freigegebene Datei wird ein eindeutiger Stand im Projektordner gespeichert. Entwurfsdateien dürfen nicht an eine Druckerei gesandt werden, wenn der dazugehörige Freigabevermerk fehlt. Bei Abwesenheit hinterlassen Sie eine kurze Übersicht zu offenen Rückfragen und dem nächsten Termin. Die Kollegin, die einen Vorgang vertritt, soll die erforderlichen Informationen finden, ohne Ihre privaten Notizen durchsuchen zu müssen.",
+            "Für die ersten drei Monate werden wir wöchentlich einen halbstündigen Termin zur Durchsicht der Arbeiten nutzen. Ich erwarte, dass Sie Verständnisfragen stellen, bevor eine fehlerhafte Datei weitergegeben wird. Beurteilungsmaßstab sind die vereinbarte Gestaltung, technische Verwendbarkeit, Termintreue und nachvollziehbare Zusammenarbeit. Bitte bringen Sie zum ersten Gespräch auch Hinweise mit, wo unsere bisherigen Ablagen für eine neu eingestellte Person unverständlich sind."
+          ],
+          "heading": "2. Übergabe und Qualitätskontrolle"
+        }
+      ],
+      "attachments": [],
+      "signature": "Lutz Falk"
+    },
+    {
+      "id": "V07",
+      "date": "2008-08-22",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Probezeitgespräch",
+      "sender": "Lutz Falk und Jule Brandt, Uferwerk Verlag GmbH",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Gemeinsame Gesprächsnotiz zur Zusammenarbeit",
+      "sections": [
+        {
+          "paragraphs": [
+            "Frau Muster hat die Händlerblätter, zwei Umschläge und die Messemappe termingerecht bearbeitet. Bei der ersten Messemappe fehlte in einer Ausgangsdatei eine Bildverknüpfung; der Fehler wurde vor Weitergabe bemerkt und am selben Tag behoben. Seitdem verwendet Frau Muster die gemeinsame Prüfliste. Ihre Entwürfe sind sicher, ohne Rückmeldungen aus Redaktion und Vertrieb nur als Störung zu behandeln.",
+            "Frau Seidel berichtet, dass Frau Muster Kundenrückfragen im Rahmen der Produktionsabstimmung verständlich beantwortet und Preisfragen zuverlässig weiterleitet. Eine selbstständige Pflege von Kundenkonten oder Freigabe von Rabatten ist bisher nicht erprobt worden. Frau Muster möchte den kaufmännischen Teil des Ablaufs besser kennenlernen, damit sie Änderungen in Verkaufsunterlagen nicht ohne Blick auf die Bestellung vornimmt."
+          ],
+          "heading": "1. Rückblick"
+        },
+        {
+          "paragraphs": [
+            "Das Arbeitsverhältnis wird über die Probezeit hinaus fortgesetzt. Herr Falk plant für das kommende Halbjahr einen vollständigen Katalogabschnitt zur eigenständigen Betreuung ein. Frau Muster erhält einen halbtägigen Einblick in die Auftragsbearbeitung. Über die Vergütung wurde gesprochen, aber keine Änderung vereinbart. Die Arbeitszeit von 40 Stunden bleibt bestehen. In der nächsten Jahresrunde soll anhand des dann dauerhaft übernommenen Umfangs über eine Gehaltsanpassung entschieden werden.",
+            "Frau Muster erklärt, dass die Aufgaben ihren Erwartungen entsprechen. Sie bittet darum, Korrekturen mit konkretem Termin zu priorisieren, statt jede Rückfrage als sofortige Aufgabe einzustellen. Herr Falk wird hierfür eine gemeinsame Liste mit Dringlichkeitsstufen einführen. Alle Beteiligten erhalten diese Gesprächsnotiz; Frau Muster ergänzt handschriftlich: „Die Rückfragen sind inzwischen besser zuzuordnen. Bitte den Einblick in die Auftragsbearbeitung nicht vergessen.“"
+          ],
+          "heading": "2. Vereinbarungen"
+        }
+      ],
+      "attachments": [],
+      "signature": "Lutz Falk; Jule Brandt; zur Kenntnis Lisa Muster"
+    },
+    {
+      "id": "V08",
+      "date": "2010-06-21",
+      "kind": "email",
+      "brand": "client",
+      "title": "Mitteilung zur Eheschließung und Personaländerung",
+      "sender": "Lisa Muster <lisa.muster@uferwerk.example>",
+      "recipient": "Jule Brandt <personal@uferwerk.example>",
+      "reference": "Personaländerung 21.06.2010",
+      "subject": "Familienstand und Unterlagen für die Abrechnung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 21.06.2010, 08:47 Uhr. Liebe Frau Brandt, Thomas und ich haben am Freitag geheiratet. Mein Name und unsere Anschrift am Rheinsteig bleiben unverändert. Für die Personalakte melde ich den Familienstand verheiratet. Die steuerlichen Angaben reichen wir nach, sobald die Unterlagen vorliegen. Bitte ändern Sie noch nicht vorsorglich etwas an der Abrechnung.",
+            "Wir würden im August gerne zwei Wochen zusammen wegfahren. Den Urlaub habe ich im Teamplan vorgemerkt und mit Herrn Falk abgestimmt; seine formelle Freigabe steht noch aus. Weil Thomas im Veranstaltungsgeschäft arbeitet, können wir gemeinsame freie Wochen nicht lange im Voraus zuverlässig planen. Das betrifft meine normale tägliche Arbeitszeit nicht. Falls Sie für die Akte eine Kopie der Heiratsurkunde benötigen, bringe ich sie persönlich vorbei."
+          ]
+        },
+        {
+          "paragraphs": [
+            "Gesendet: 21.06.2010, 11:08 Uhr. Liebe Frau Muster, vielen Dank für die Mitteilung. Für die Dokumentation des Familienstands genügt zunächst die Anzeige. Die für die Abrechnung erforderlichen Nachweise sehen wir gesondert durch. Die Urlaubsfreigabe muss Herr Falk im normalen Verfahren erteilen; die Vormerkung allein reicht noch nicht. Ich habe keine Änderung Ihrer Wochenstunden aufgenommen. Alles Gute für Sie beide. Jule Brandt."
+          ],
+          "heading": "1. Antwort der Personalabteilung"
+        }
+      ],
+      "attachments": [],
+      "signature": "Lisa Muster; Antwort Jule Brandt"
+    },
+    {
+      "id": "V09",
+      "date": "2011-12-01",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Nachtrag zur Grundvergütung",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Vergütungsanpassung zum 01.01.2012",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Vertragsparteien ändern Ziffer 6 des Arbeitsvertrags vom 08.02.2008 mit Wirkung zum 01.01.2012 wie folgt: Das monatliche Grundgehalt für die unveränderte regelmäßige Arbeitszeit von 40 Wochenstunden beträgt 3.400 EUR brutto. Der bisherige Betrag wird vollständig ersetzt. Die Anpassung berücksichtigt die inzwischen selbstständige Betreuung von Katalogteilen, Umschlägen und Händlerunterlagen. Sie begründet keine automatische Fortschreibung für spätere Jahre.",
+            "Die Abrechnung und Fälligkeit richten sich weiterhin nach Ziffer 6. Die zusätzliche Jahresleistung nach Ziffer 7 bleibt eine gesondert zu entscheidende Leistung. Eine Anrechnung der Grundgehaltserhöhung auf bereits für das Jahr 2011 ausdrücklich zugesagte Zahlungen wird nicht vereinbart. Der bisherige Urlaub und die übrigen Regelungen des Arbeitsvertrags bleiben unverändert."
+          ],
+          "heading": "1. Vereinbarung"
+        },
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin erhält eine von beiden Vertragsparteien unterzeichnete Ausfertigung. Der Nachtrag enthält keine Änderung der Tätigkeit, des Arbeitsorts oder der Kündigungsfrist. Unterzeichnet in Konstanz am 01.12.2011."
+          ],
+          "heading": "2. Ausfertigung"
+        }
+      ],
+      "attachments": [
+        "V05"
+      ],
+      "signature": "Dr. Mara Ufer; Lisa Muster"
+    },
+    {
+      "id": "V10",
+      "date": "2012-06-21",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Bestätigung der Elternzeit nach Geburt von Finn",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Elternzeit LM / Kind Finn",
+      "subject": "Ihre Mitteilungen vom 20.02.2012 und 18.06.2012",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster, wir bestätigen den Eingang Ihrer Geburtsmitteilung. Ihr Sohn Finn wurde nach dem vorgelegten Nachweis am 14. Juni 2012 geboren. Die bereits vorab abgestimmte Elternzeit wird im Anschluss an die mutterschutzrechtliche Schutzfrist für den Zeitraum vom 10.08.2012 bis einschließlich 13.06.2013 in der Personalplanung geführt. Die Abrechnung der Schutzfrist erfolgt gesondert. Sollten sich anhand der Bescheinigungen abweichende Daten ergeben, werden wir diese vor der abschließenden Abrechnung mit Ihnen klären.",
+            "Während dieses Elternzeitabschnitts ist keine Arbeitsleistung vereinbart. Eine Teilzeitbeschäftigung während der Elternzeit haben Sie derzeit nicht beantragt. Für Ihre Vertretung ist die Übergabe vom Mai in der Projektablage gespeichert. Sie müssen während der Elternzeit weder diese Ablage überwachen noch laufende Korrekturen beantworten. Für die organisatorische Planung einer Rückkehr werden wir uns im Frühjahr 2013 mit Ihnen in Verbindung setzen.",
+            "Ihr unbefristeter Arbeitsvertrag bleibt bestehen. Über eine mögliche Verringerung der Arbeitszeit nach der Elternzeit treffen wir heute noch keine Vereinbarung. Sie hatten eine spätere Tätigkeit an fünf kürzeren Tagen angesprochen. Bitte geben Sie uns rechtzeitig Bescheid, welche Stundenzahl Sie dann konkret beantragen möchten. Wir senden dieses Schreiben an Ihre Privatanschrift; eine regelmäßige Kontrolle des dienstlichen Postfachs erwarten wir nicht."
+          ]
+        }
+      ],
+      "attachments": [
+        "V05"
+      ],
+      "signature": "Jule Brandt, Personal"
+    },
+    {
+      "id": "V11",
+      "date": "2013-05-15",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Vereinbarung über Rückkehr und befristete Arbeitszeitverringerung",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Arbeitszeit ab 14.06.2013",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Arbeitnehmerin nimmt nach dem Ende der Elternzeit am 14.06.2013 ihre Tätigkeit wieder auf. Für die Zeit vom 14.06.2013 bis einschließlich 31.12.2014 vereinbaren die Parteien eine regelmäßige Arbeitszeit von 30 Stunden wöchentlich an fünf Tagen von Montag bis Freitag. Die Arbeit beginnt regelmäßig um 8:00 Uhr und endet nach sechs Arbeitsstunden; gesetzliche Pausen werden berücksichtigt. Abweichende einzelne Termine werden vorher abgestimmt.",
+            "Das monatliche Grundgehalt beträgt für diese vereinbarte Arbeitszeit 2.550 EUR brutto. Grundlage ist das Vollzeitgrundgehalt von 3.400 EUR. Ab 01.01.2015 lebt die vereinbarte regelmäßige Arbeitszeit von 40 Stunden wieder auf, sofern bis dahin keine weitere Vereinbarung getroffen wird. Die Befristung betrifft allein die Verringerung der Arbeitszeit, nicht das unbefristete Arbeitsverhältnis."
+          ],
+          "heading": "1. Zeit und Vergütung"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster übernimmt erneut Katalog- und Umschlagarbeiten. Wegen der früheren täglichen Beendigung soll die Schlussfreigabe am Nachmittag durch die jeweilige Vertretung erfolgen. Frau Muster dokumentiert ihre offenen Punkte bis 13:45 Uhr. Eine allgemeine Verpflichtung, nach der vereinbarten Arbeitszeit von zu Hause weiterzuarbeiten, wird nicht begründet.",
+            "Die Urlaubsdauer bleibt bei fünf Arbeitstagen in der Woche unverändert. Das Arbeitszeitkonto wird ab Rückkehr mit der neuen Sollzeit geführt; alte Fehlzeiten aus der Elternzeit werden nicht als Minusstunden übernommen. Die Parteien erhalten je eine unterschriebene Ausfertigung. Im Übrigen bleiben der Arbeitsvertrag und der Vergütungsnachtrag unberührt."
+          ],
+          "heading": "2. Aufgaben und Zusammenarbeit"
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V09",
+        "V10"
+      ],
+      "signature": "Dr. Mara Ufer; Lisa Muster"
+    },
+    {
+      "id": "V12",
+      "date": "2016-09-09",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Bestätigung der Elternzeit nach Geburt von Mila",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Elternzeit LM / Kind Mila",
+      "subject": "Geburtsmitteilung und Elternzeitplanung 2016/2017",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster, wir haben die Geburt Ihrer Tochter Mila am 03.09.2016 aufgenommen. Entsprechend Ihrem fristgerecht eingegangenen Verlangen wird der Elternzeitabschnitt im Anschluss an die Schutzfrist vom 30.10.2016 bis einschließlich 02.09.2017 geführt. Ihr Arbeitsverhältnis besteht fort. Die regelmäßige vertragliche Arbeitszeit beträgt weiterhin 40 Stunden; für die Elternzeit ist keine Teilzeittätigkeit vereinbart.",
+            "Zum Ablauf des 02.09.2017 endet dieser beantragte Abschnitt. Der erste reguläre Arbeitstag nach dem folgenden Sonntag ist Montag, der 04.09.2017. Der Beginn des wieder laufenden Vergütungsanspruchs wird hiervon getrennt nach den Kalenderdaten abgerechnet. Die Personalabteilung und Herr Falk nehmen im Frühsommer Kontakt mit Ihnen auf, um Arbeitsmittel und Projektzuordnung vorzubereiten. Wenn Sie einen weiteren Antrag stellen möchten, beachten Sie bitte die dafür geltenden Voraussetzungen und Fristen; dieses Schreiben beinhaltet keine Vorabgenehmigung weiterer Zeiten.",
+            "Frau Muster hat bei der Übergabe erklärt, dass die Betreuung beider Kinder mit ihrem Ehemann und der Tagesbetreuung organisiert wird. Eine dauerhafte Änderung des Vertrags ist damit nicht verbunden. Für laufende Projektfragen ist während Ihrer Abwesenheit Herr Falk zuständig. Wir wünschen Ihrer Familie eine gute Zeit und übersenden Ihnen die Bestätigung für Ihre Unterlagen."
+          ]
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V11"
+      ],
+      "signature": "Jule Brandt, Personal"
+    },
+    {
+      "id": "V13",
+      "date": "2024-08-19",
+      "kind": "memo",
+      "brand": "client",
+      "title": "Aktualisierung der Familien- und Betreuungsangaben",
+      "sender": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "recipient": "Jule Brandt, Personalabteilung Uferwerk Verlag GmbH",
+      "reference": "Personalbogen LM / Aktualisierung 2024",
+      "subject": "Rückmeldung zum Personalbogen und zur Jahresurlaubsplanung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Mein Familienstand ist unverändert verheiratet. Thomas Muster und ich wohnen mit unseren beiden Kindern Finn, geboren am 14.06.2012, und Mila, geboren am 03.09.2016, am Rheinsteig 8 in 78462 Konstanz. Beide Kinder leben in unserem Haushalt und sind wirtschaftlich auf uns angewiesen. Eine Änderung der Anschrift oder der Bankverbindung liegt nicht vor. Bitte führen Sie die beiden Kinder auch in den hierfür vorgesehenen Personalangaben weiter.",
+            "Finn wechselt nach den Sommerferien in die nächste Klassenstufe. Mila besucht die Grundschule mit Nachmittagsbetreuung an vier Tagen. Thomas arbeitet in einem festen Teilzeitumfang und übernimmt überwiegend die späteren Abholzeiten. Für einzelne schulfreie Nachmittage sprechen wir rechtzeitig Urlaub oder einen Tausch der Lage meiner Arbeitszeit ab. Meine vertraglichen 40 Wochenstunden bleiben unverändert. Ich beantrage mit dieser Mitteilung weder Elternzeit noch eine dauerhafte Verringerung der Arbeitszeit."
+          ],
+          "heading": "1. Angaben für die Personalakte"
+        },
+        {
+          "paragraphs": [
+            "Die Angaben wurden mit den bereits vorhandenen Geburtsdaten abgeglichen. Die früheren Elternzeitabschnitte sind abgeschlossen. Es ist derzeit kein neuer Elternzeitantrag in der Akte vermerkt. Die Angaben zur Betreuung werden nicht in den allgemein zugänglichen Teamkalender übernommen. Für die Urlaubsplanung wird nur der jeweilige Abwesenheitstag eingetragen. Sonstige Hinweise auf einen besonderen Schutzstatus liegen der Personalabteilung nach dem gegenwärtigen Aktenstand nicht vor; eine eigenständige medizinische Feststellung wurde nicht eingeholt."
+          ],
+          "heading": "2. Ergänzung der Personalabteilung vom 20.08.2024"
+        }
+      ],
+      "attachments": [
+        "V10",
+        "V12"
+      ],
+      "signature": "Lisa Muster; Aktenvermerk Jule Brandt vom 20.08.2024"
+    },
+    {
+      "id": "V14",
+      "date": "2018-10-15",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Qualifiziertes Zwischenzeugnis",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Auf Wunsch nach Abschluss des Programms Herbst 2018",
+      "sections": [
+        {
+          "paragraphs": [
+            "Frau Lisa Muster, geboren am 19.07.1982, ist seit dem 01.03.2008 als Grafikdesignerin in unserem Verlag beschäftigt. Die Uferwerk Verlag GmbH entwickelt und vertreibt Bücher, Reihen und begleitende Medien. Gestaltung, Redaktion, Produktion und Vertrieb arbeiten am gemeinsamen Betriebssitz in Konstanz zusammen. Frau Muster hat ihre Tätigkeit während familienbedingter Abwesenheiten unterbrochen und sie anschließend wieder in ihrem vereinbarten Umfang aufgenommen.",
+            "Zu ihren Aufgaben gehören die Konzeption und Umsetzung von Umschlägen, Katalogen, Händlerunterlagen und Werbemitteln, die Pflege wiederkehrender Gestaltungsraster und die Herstellung technisch verwendbarer Produktionsdaten. Sie stimmt Bildmaterial, Korrekturen und Termine mit den beteiligten Abteilungen ab. Bei vertriebsbezogenen Materialien führt sie Rückfragen von Buchhandlungen und internen Kunden zu einem geordneten Korrekturstand zusammen. Preis- und Vertragsfreigaben liegen bei den dafür zuständigen Personen.",
+            "Frau Muster verfügt über ein sehr gutes gestalterisches und produktionstechnisches Fachwissen. Sie arbeitet sich sicher in unterschiedliche Themen und Zielgruppen ein. Auch bei kurzfristigen Änderungen behält sie den Überblick über Fassungen und Termine. Ihre Arbeitsweise ist sorgfältig, selbstständig und zuverlässig. Besonders hervorzuheben ist ihre Fähigkeit, gestalterische Anforderungen mit der praktischen Nutzbarkeit der Unterlagen für unsere Kunden zu verbinden.",
+            "Im vergangenen Jahr übernahm Frau Muster neben ihren eigenen Projekten die technische Zusammenführung einer umfangreichen Händleraktion. Sie erläuterte die nötigen Korrekturen verständlich und stellte den Vertriebskollegen aktualisierte Daten rechtzeitig bereit. Rückfragen zu Bestellwegen leitete sie nicht lediglich weiter, sondern klärte den Sachstand so weit, dass die zuständige Person unmittelbar entscheiden konnte. Eine eigenständige Verantwortung für ein Vertriebsgebiet gehört derzeit nicht zu ihrer Stelle.",
+            "Frau Muster erfüllt die ihr übertragenen Aufgaben stets zu unserer vollen Zufriedenheit. Ihr Verhalten gegenüber Vorgesetzten, Kolleginnen und Kollegen sowie externen Ansprechpartnern ist jederzeit einwandfrei. Sie ist eine geschätzte und hilfsbereite Mitarbeiterin. Dieses Zwischenzeugnis wird auf ihren Wunsch erteilt. Wir danken Frau Muster für ihre bisherige Arbeit und freuen uns auf die weitere Zusammenarbeit."
+          ]
+        }
+      ],
+      "attachments": [],
+      "signature": "Dr. Mara Ufer, Geschäftsführerin; Lutz Falk, Designleitung"
+    },
+    {
+      "id": "V15",
+      "date": "2019-05-02",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Aufgabennachtrag und Vergütungsanpassung",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Senior-Aufgaben in Gestaltung und Schnittstelle zum Vertrieb",
+      "sections": [
+        {
+          "paragraphs": [
+            "Ab 01.05.2019 übernimmt Frau Muster die fachliche Betreuung wiederkehrender Gestaltungsraster und die Qualitätssicherung der Händlerunterlagen mehrerer Reihen. Sie unterstützt neue Mitarbeitende bei Ablage und Produktionsübergabe. Eine disziplinarische Führungsfunktion oder eine allgemeine Vertretungsbefugnis für die Arbeitgeberin ist damit nicht verbunden. Frau Muster bleibt in der Designabteilung Herrn Falk zugeordnet.",
+            "Das Grundgehalt beträgt ab 01.05.2019 monatlich 4.600 EUR brutto für 40 Wochenstunden an fünf Arbeitstagen. Die Urlaubsdauer wird ab dem Kalenderjahr 2019 auf 30 Arbeitstage bei einer Fünftagewoche angehoben. Die übrigen Regelungen zu Urlaub und Arbeitszeit gelten weiter. Die zusätzliche Jahresleistung wird weiterhin gesondert entschieden und ist mit dieser Anpassung nicht garantiert."
+          ],
+          "heading": "1. Dauerhafte Aufgaben und Entgelt"
+        },
+        {
+          "paragraphs": [
+            "Zu den regelmäßig vorgesehenen Schnittstellenaufgaben gehören die Prüfung von Artikelangaben in Händlerblättern, die Zusammenstellung von Angebotsunterlagen nach freigegebenen Konditionen sowie die Abstimmung von Mengen, Lieferfenstern und Korrekturen mit dem Vertriebsinnendienst. Frau Muster darf daraus keine nicht ausdrücklich übertragenen Rabatt-, Kredit- oder Abschlussbefugnisse ableiten.",
+            "Die Einsatzmöglichkeit nach Ziffer 2 des Arbeitsvertrags bleibt erhalten. Mit der Bezeichnung der zusätzlichen Aufgaben wird weder eine ausschließliche Beschränkung auf Gestaltung noch die sofortige Einsatzfähigkeit in jeder kaufmännischen Spezialfunktion vereinbart. Bei einem anderen Einsatz werden vorhandene Kenntnisse und erforderliche Einarbeitung konkret besprochen. Alle übrigen Bestimmungen des Arbeitsvertrags bleiben unverändert."
+          ],
+          "heading": "2. Kaufmännische Schnittstellen"
+        }
+      ],
+      "attachments": [
+        "V05"
+      ],
+      "signature": "Dr. Mara Ufer; Lisa Muster"
+    },
+    {
+      "id": "V16",
+      "date": "2026-03-25",
+      "kind": "table",
+      "brand": "employer",
+      "title": "Entgeltabrechnung März 2026 – Personalaktenausfertigung",
+      "sender": "Uferwerk Verlag GmbH, Entgeltabrechnung",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "UW-0831 / 03-2026",
+      "subject": "Abrechnungsmonat 03/2026; laufendes Grundgehalt",
+      "sections": [
+        {
+          "paragraphs": [
+            "Abrechnungsart: laufendes Entgelt. Eintritt: 01.03.2008. Beschäftigungsumfang: 40 Wochenstunden an fünf Tagen. Beschäftigungsstatus: unbefristet. Kostenstelle: Gestaltung. Familienangaben in der Personalakte: verheiratet, zwei Kinder. Die hier vorliegende Personalaktenausfertigung enthält keine Kontoverbindung, Steueridentifikationsnummer oder Sozialversicherungsnummer. Die individuelle Überweisungsabrechnung wird der Arbeitnehmerin gesondert im gesicherten Verfahren bereitgestellt."
+          ],
+          "heading": "1. Stammdaten"
+        },
+        {
+          "paragraphs": [],
+          "heading": "2. Entgeltbestandteile",
+          "table": {
+            "headers": [
+              "Bestandteil",
+              "Menge oder Grundlage",
+              "Bruttobetrag EUR"
+            ],
+            "rows": [
+              [
+                "Monatliches Grundgehalt",
+                "Voller Monat, 40 Wochenstunden",
+                "5.400,00"
+              ],
+              [
+                "Mehrarbeitsvergütung",
+                "Im März keine Auszahlung angeordnet",
+                "0,00"
+              ],
+              [
+                "Jahresleistung",
+                "Keine Zusage oder Auszahlung in diesem Abrechnungsmonat",
+                "0,00"
+              ],
+              [
+                "Sachbezüge",
+                "Keine in dieser Ausfertigung abzurechnenden Bezüge",
+                "0,00"
+              ],
+              [
+                "Gesamtbrutto laufend",
+                "Vor persönlichen gesetzlichen Abzügen",
+                "5.400,00"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Das Grundgehalt beruht auf dem Nachtrag vom 10.01.2025 mit Wirkung ab 01.01.2025. Die Zugehörigkeit zur Kostenstelle Gestaltung stellt keine eigenständige Vergütungsbedingung dar. Eine Entscheidung über eine mögliche Jahresleistung für 2026 liegt der Abrechnung nicht vor. Für das Jahr 2025 wurde eine gesonderte Zahlung von 1.500 EUR brutto im Dezember 2025 aufgrund der damaligen Einzelmitteilung abgerechnet; sie ist kein laufender Monatsbestandteil.",
+            "Die Abrechnung wurde am 25.03.2026 erstellt. Spätere Personalmaßnahmen sind in dieser Ausfertigung nicht vorweggenommen. Etwaige Differenzen sind unter Angabe des Abrechnungsmonats an entgelt@uferwerk.example zu melden."
+          ],
+          "heading": "3. Hinweise der Abrechnung"
+        }
+      ],
+      "attachments": [
+        "V23"
+      ],
+      "signature": "Maschinelle Personalaktenausfertigung, erstellt durch Entgeltabrechnung"
+    },
+    {
+      "id": "V17",
+      "date": "2020-03-16",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Vereinbarung über die vorübergehende Rotation in den Vertrieb",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Einsatz vom 01.04.2020 bis 31.12.2020",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Parteien vereinbaren für die Zeit vom 01.04.2020 bis einschließlich 31.12.2020 einen Einsatz von Frau Muster im Vertriebsinnendienst. Anlass ist die befristete interne Übernahme einer Projektaufgabe durch eine andere Beschäftigte und der erhöhte Abstimmungsbedarf bei Händleraktionen. Die Rotation setzt die Einsatzmöglichkeit nach Ziffer 2 des Arbeitsvertrags um. Sie ist keine Beendigung des Arbeitsverhältnisses und begründet keine neue Probezeit.",
+            "Ab 01.01.2021 ist die Rückkehr in die Gestaltung vorgesehen. Über eine abweichende dauerhafte Zuordnung müssten die Parteien vorher gesondert sprechen. Frau Muster hat die Rotation auf Rückfrage grundsätzlich befürwortet und auf ihre aus früheren Projekten vorhandenen Kenntnisse in Kundenabstimmung und Produktdaten hingewiesen. Die Arbeit in der neuen Auftragsmaske muss sie erlernen."
+          ],
+          "heading": "1. Anlass und Zeitraum"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster bearbeitet Anfragen von Bestandskunden, erfasst Bestellungen, pflegt Ansprechpartner und dokumentiert Liefer- und Korrekturwünsche. Sie darf Angebote im freigegebenen Konditionsrahmen als Entwurf erstellen und Aufträge nach Prüfung durch die zuständige Kollegin weiterbearbeiten. Individuelle Preisabweichungen, Kreditfreigaben und vertragliche Sonderzusagen bleiben Frau Seidel oder einer ausdrücklich bevollmächtigten Person vorbehalten. Größere elektronische Sammelaufträge und EDI-Fehlerfälle gehören nicht zu den eigenständig zu übernehmenden Aufgaben.",
+            "Fachliche Ansprechpartnerin ist Frau Leonie Seidel. In den ersten sechs Wochen sind tägliche Rückfragemöglichkeiten und wöchentliche Durchsichten vorgesehen. Der Einarbeitungsplan wird nach den tatsächlich auftretenden Vorgängen angepasst. Frau Muster erhält die für die Bearbeitung benötigten aktiven CRM- und Auftragsrechte; die Freigabestufen bleiben davon getrennt."
+          ],
+          "heading": "2. Konkrete Aufgaben und Befugnisse"
+        },
+        {
+          "paragraphs": [
+            "Das Grundgehalt von 4.600 EUR brutto, die regelmäßige Arbeitszeit von 40 Stunden, die Urlaubsdauer von 30 Tagen und der Arbeitsort Konstanz bleiben unverändert. Für die Betreuung der Kinder erforderliche einzelne Absprachen über die Lage der Arbeitszeit werden mit Frau Seidel getroffen; ein anderer dauerhafter Stundenumfang wird nicht vereinbart. Die Tätigkeit wird bei der Rückkehr in einem Abschlussgespräch ausgewertet. Beide Parteien erhalten eine unterschriebene Ausfertigung."
+          ],
+          "heading": "3. Fortgeltende Bedingungen"
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V15"
+      ],
+      "signature": "Dr. Mara Ufer; Lisa Muster; fachlich zur Kenntnis Leonie Seidel"
+    },
+    {
+      "id": "V18",
+      "date": "2020-04-02",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "CRM-Zugriff und Einarbeitung im Vertriebsinnendienst",
+      "sender": "Leonie Seidel, Vertrieb; interne IT Uferwerk Verlag GmbH",
+      "recipient": "Lisa Muster; Personalakte; Team Vertrieb",
+      "reference": "KUN-2020-04-LM",
+      "subject": "Benutzer LMUSTER / Freigabe KUN-2020-04-LM",
+      "sections": [
+        {
+          "paragraphs": [
+            "Für den Rotationszeitraum ist Frau Muster der Benutzergruppe Vertrieb-Innendienst zugeordnet. Die Freischaltung wurde am 01.04.2020 um 08:12 Uhr ausgeführt und am 02.04.2020 mit Frau Muster an einem Übungsvorgang geprüft. Die Freigabe umfasst die Bearbeitung; eine bloße Leseberechtigung genügt für die vereinbarten Aufgaben nicht. Eine spätere Rücksetzung nach Ende der Rotation ist gesondert zu veranlassen."
+          ],
+          "heading": "1. Freigegebener Zugriff",
+          "table": {
+            "headers": [
+              "Funktion",
+              "Berechtigung",
+              "Freigabegrenze"
+            ],
+            "rows": [
+              [
+                "Kundenstamm und Ansprechpartner",
+                "Lesen und Bearbeiten von Kontaktdaten",
+                "Keine Änderung von Kreditlimit oder Zahlungsziel"
+              ],
+              [
+                "Angebote",
+                "Anlegen und Ändern eigener Entwürfe",
+                "Versand bei Standardkonditionen nach Erstkontrolle; Sonderkonditionen durch Leitung"
+              ],
+              [
+                "Aufträge",
+                "Anlegen und Ändern vor Versandfreigabe",
+                "Storno abgeschlossener Rechnung nur über Buchhaltung"
+              ],
+              [
+                "Kundenkommunikation",
+                "Notizen, Aufgaben, Rückfragen und Anhänge erfassen",
+                "Keine Massenexporte des Gesamtbestands"
+              ],
+              [
+                "Produktdaten",
+                "Bestände, Auflagen und Liefertermine lesen",
+                "Produktpreis nur über verantwortliche Stammdatenstelle"
+              ],
+              [
+                "EDI und Schnittstellenverwaltung",
+                "Status lesen",
+                "Keine technische Fehlerfreigabe oder Konfiguration"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Woche 1 dient der Navigation, dem Lesen offener Vorgänge und der gemeinsamen Bearbeitung einfacher Bestellungen. In Woche 2 legt Frau Muster Angebotsentwürfe und Änderungen an; Nora Berg kontrolliert zunächst jeden Vorgang. In den Wochen 3 und 4 soll sie ein kleines, fest zugewiesenes Kundenpaket bearbeiten. Ab Woche 5 erfolgen stichprobenartige Kontrollen, sofern die Fehlerquote und die offenen Fragen dies zulassen. Nach Woche 6 entscheiden Frau Seidel und Frau Muster über weitere Aufgaben.",
+            "Die Einweisung ist Arbeitszeit. Für neue Programmabläufe wird nicht vorausgesetzt, dass Frau Muster sie privat am Abend übt. Wegen der veränderten Betreuungssituation im Frühjahr stimmen wir einzelne Heimarbeitstage gesondert ab. Die Bearbeitung von Kundenunterlagen erfolgt ausschließlich im bereitgestellten betrieblichen Zugang. Papierlisten mit Zugangsdaten dürfen nicht nach Hause mitgenommen werden."
+          ],
+          "heading": "2. Einarbeitungsplan"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster hat am 02.04.2020 einen Angebotsentwurf für die Buchhandlung Lindenkai angelegt, eine Mengenänderung im Testauftrag gebucht und eine Kundennotiz gespeichert. Die Zahlungskondition hat sie richtigerweise nicht geändert. Offen sind noch die Behandlung geteilter Lieferungen und der Umgang mit gesperrten Titeln. Nora Berg übernimmt die nächste gemeinsame Durchsicht. Die Eintragung bestätigt die Übung und ist keine Freigabe für sämtliche Spezialfälle."
+          ],
+          "heading": "3. Notiz zur ersten Übung"
+        }
+      ],
+      "attachments": [
+        "V17"
+      ],
+      "signature": "Leonie Seidel; IT-Freigabe durch Tarek Mertens"
+    },
+    {
+      "id": "V19",
+      "date": "2020-07-13",
+      "kind": "email",
+      "brand": "employer",
+      "title": "Mailfolge zur Händleraktion und eigenständigen Auftragsbearbeitung",
+      "sender": "Leonie Seidel und Lisa Muster, Vertrieb Uferwerk Verlag GmbH",
+      "recipient": "Vertrieb Innendienst; Lutz Falk in Kopie",
+      "reference": "Thread Lesesommer / 13.07.2020",
+      "subject": "Händleraktion Lesesommer – Änderungen und Freigaben",
+      "sections": [
+        {
+          "paragraphs": [
+            "Guten Morgen Leonie, die Mengenänderungen für Lindenkai, Buchinsel West und Lesesteg sind in den Aufträgen eingetragen. Bei Lindenkai habe ich die ursprünglich geteilte Lieferung zu einem Termin zusammengezogen, nachdem die Kundin den späteren Termin ausdrücklich bestätigt hatte. Die alte Terminnotiz bleibt in der Historie stehen. Der Angebotsentwurf für die zusätzlichen 80 Exemplare liegt zur Freigabe bei dir, weil der Kunde einen von der Liste abweichenden Rabatt möchte.",
+            "Für die mir zugewiesenen 34 Händler sind bis auf zwei Rückfragen alle Aktionsunterlagen versandt. Bei Buchinsel West fehlt die schriftliche Bestätigung der abweichenden Rechnungsanschrift. Ich habe den Versand deshalb noch nicht freigegeben und nachgefragt. Wenn die Rückmeldung bis 12 Uhr kommt, kann ich den Vorgang heute fertigstellen. Die neue Vorschauseite ist ebenfalls hochgeladen; den Preis habe ich mit der Stammdatenliste abgeglichen."
+          ],
+          "heading": "1. Lisa Muster an Leonie Seidel, 13.07.2020, 09:18 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Danke Lisa. Die Änderungen habe ich in der Stichprobe gesehen; Auftragsmengen und Notizen passen. Den Sonderrabatt für Lindenkai habe ich eben freigegeben. Du kannst das Angebot versenden und bei Annahme den Auftrag anlegen. Gut, dass du die Rechnungsanschrift nicht auf Zuruf umgestellt hast. Für die laufenden Standardvorgänge brauchst du nicht mehr auf eine Einzelkontrolle von Nora zu warten. Bitte die beiden offenen Fälle auf der Teamliste lassen.",
+            "Den neuen Sammelauftrag von Buchbogen Ost gebe ich an Paul. Das ist ein EDI-Fall mit einer abweichenden Aufteilung, den wir bei deiner Einweisung noch nicht behandelt haben. Wenn du nächste Woche Zeit hast, setz dich bei der ersten Bearbeitung dazu. Das ist keine Kritik an der bisherigen Arbeit; ich möchte nur vermeiden, dass wir einen neuen technischen Fall ohne Rückfragemöglichkeit aufmachen."
+          ],
+          "heading": "2. Leonie Seidel an Lisa Muster, 13.07.2020, 10:04 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Hallo Lutz, die beiden Händlerblätter sind jetzt im finalen Stand. Ich habe diesmal den Bestellablauf gleich mit geprüft, weil ich die Kundenfragen ohnehin auf dem Tisch hatte. Bei einer späteren Rückkehr in die Gestaltung würde ich gerne gelegentlich in die Vertriebsrunde gehen, damit solche Änderungen nicht wieder über drei Stationen laufen. Meine eigenen Designprojekte übernehme ich während der Rotation selbstverständlich nur nach Abstimmung mit Leonie."
+          ],
+          "heading": "3. Lisa Muster an Lutz Falk, 13.07.2020, 14:32 Uhr"
+        }
+      ],
+      "attachments": [
+        "V17",
+        "V18"
+      ],
+      "signature": "Mailauszug aus dem persönlichen Projektordner Lisa Muster"
+    },
+    {
+      "id": "V20",
+      "date": "2020-12-18",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Abschlussgespräch zur neunmonatigen Vertriebsrotation",
+      "sender": "Leonie Seidel, Vertrieb, Uferwerk Verlag GmbH",
+      "recipient": "Lisa Muster; Jule Brandt; Lutz Falk",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Auswertung des Einsatzes 01.04.–31.12.2020",
+      "sections": [
+        {
+          "paragraphs": [
+            "Frau Muster hat nach der Einarbeitung Standardanfragen, Bestelländerungen und die laufende Betreuung eines abgegrenzten Händlerpakets selbstständig bearbeitet. Sie hat Angebotsentwürfe angelegt, freigegebene Angebote versandt, Aufträge erfasst und die dazugehörige Kundenkommunikation dokumentiert. Im zweiten Halbjahr umfasste das Paket regelmäßig 30 bis 40 aktive Bestandskunden. Der Umfang schwankte mit den Aktionen. Eine belastbare Vergleichszahl zu Vollzeit-Vertriebsstellen wurde hierfür nicht erhoben.",
+            "Die erste Phase enthielt engmaschige Kontrollen. Ab Mitte Mai waren bei Standardvorgängen überwiegend Stichproben ausreichend. Einzelne Fehler betrafen eine falsche Zuordnung des Lieferfensters und eine doppelt gesetzte Rückfrage; beide wurden vor dem Abschluss des Vorgangs berichtigt. In der zweiten Jahreshälfte ist kein abgerechneter Kundenschaden aus dem von Frau Muster betreuten Paket vermerkt."
+          ],
+          "heading": "1. Übernommene Arbeit"
+        },
+        {
+          "paragraphs": [
+            "Frau Seidel beurteilt die Zusammenarbeit als zuverlässig und die Kommunikation mit Bestandskunden als gut. Frau Muster versteht die Produktinformationen und erkennt, wann eine gestalterische Anpassung kaufmännische Folgen hat. Ihre Erfahrung mit Produktionsfristen war bei Lieferproblemen hilfreich. Für Standardsachbearbeitung hat sie am Ende der Rotation keine dauernde Einzelbetreuung mehr benötigt.",
+            "Nicht selbstständig übernommen wurden Kreditentscheidungen, technische EDI-Fehlerfälle, komplexe Retourenabrechnungen und die Verhandlung individueller Rahmenkonditionen. Diese Themen wären bei einem späteren dauerhaften Einsatz gesondert einzuweisen. Aus der erfolgreichen Rotation folgt keine sofortige Verwendbarkeit auf jeder Stelle des Vertriebs. Umgekehrt wäre es unzutreffend, den Einsatz als bloßes Mitlesen oder als reine Gestaltung von Vertriebsunterlagen zu beschreiben."
+          ],
+          "heading": "2. Beurteilung und verbleibende Grenzen"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster kehrt ab 01.01.2021 planmäßig in die Gestaltung zurück; der erste reguläre Arbeitstag ist nach Feiertag und Wochenende der 04.01.2021. Die aktiven Auftragsrechte sollen zum Ende der Rotation auf den für die Gestaltung benötigten Umfang reduziert werden. Die während des Einsatzes angelegten Vorgänge und ihr Benutzerbezug bleiben im System erhalten. Frau Muster wünscht einen kurzen Nachweis für ihre Personalunterlagen. Diese Gesprächsnotiz wird ihr dafür zur Verfügung gestellt.",
+            "Frau Muster ergänzt: „Mir hat die Kundenarbeit gefallen. Bei einem späteren anderen Einsatz müsste ich mich in geänderte Masken und Spezialfälle neu einarbeiten. Die Grundlagen habe ich gemacht, nicht nur zugesehen.“ Frau Seidel bestätigt, dass dies ihre Beobachtung zutreffend wiedergibt."
+          ],
+          "heading": "3. Rückkehr und Dokumentation"
+        }
+      ],
+      "attachments": [
+        "V17",
+        "V18",
+        "V19"
+      ],
+      "signature": "Leonie Seidel; Lisa Muster; Kenntnisnahme Jule Brandt"
+    },
+    {
+      "id": "V21",
+      "date": "2024-11-08",
+      "kind": "table",
+      "brand": "employer",
+      "title": "Fortbildungsnachweise und Einsatz von Kenntnissen",
+      "sender": "Uferwerk Verlag GmbH, Personalentwicklung",
+      "recipient": "Personalakte Lisa Muster; Lisa Muster",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Dokumentation abgeschlossener betrieblicher Schulungen 2021–2024",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die nachstehende Übersicht wurde auf Wunsch von Frau Muster aus den freigegebenen Teilnahmen und den Rückmeldungen der Fachverantwortlichen zusammengestellt. Sie bestätigt die genannten Inhalte und ersetzt keine Abschlussprüfung für eine andere Berufsqualifikation. Externe Seminare fanden beim Seminaranbieter Lernufer statt; Teilnehmerkennungen werden nicht an andere Stellen weitergegeben."
+          ],
+          "heading": "1. Teilnahmeübersicht",
+          "table": {
+            "headers": [
+              "Termin",
+              "Umfang",
+              "Inhalt",
+              "Dokumentierter Abschluss"
+            ],
+            "rows": [
+              [
+                "18.–19.03.2021",
+                "2 Arbeitstage",
+                "Kundenkommunikation bei Reklamation und Lieferverzug",
+                "Teilnahme; zwei bearbeitete Fallgespräche"
+              ],
+              [
+                "11.–12.10.2022",
+                "2 Arbeitstage",
+                "Tabellenkalkulation: Suchfunktionen, Pivot-Auswertung und Datenprüfung",
+                "Übungsdatei vollständig abgegeben"
+              ],
+              [
+                "17.05.2023",
+                "Halber Arbeitstag",
+                "Neue CRM-Oberfläche: Produktdaten, Kundennotizen und Übergaben",
+                "Teilnahme am Umstieg für Schnittstellenbereiche"
+              ],
+              [
+                "23.09.2024",
+                "1 Arbeitstag",
+                "Tabellenimporte und einfache Abfrageaufbereitung für Produktionslisten",
+                "Übungsaufgabe mit Korrektur abgeschlossen"
+              ],
+              [
+                "07.–08.11.2024",
+                "2 Arbeitstage",
+                "Zugängliche Verkaufsunterlagen und verständliche Text-/Bildhierarchien",
+                "Projektbeispiel für Händlerkommunikation erstellt"
+              ]
+            ],
+            "widths": [
+              0.18,
+              0.14,
+              0.43,
+              0.25
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die Schulung zum CRM-Umstieg 2023 umfasste keine vollständige Neueinarbeitung in die aktive Auftragsbearbeitung. Frau Muster arbeitete dabei in dem inzwischen für die Gestaltung vorgesehenen Berechtigungsprofil. Die Kenntnis der neuen Oberfläche darf deshalb weder als vollständige aktuelle Vertriebsqualifikation noch als völlige Unkenntnis des Systems bewertet werden. Die bei ihrer Rotation 2020 genutzten Prozesse wurden in einzelnen Punkten geändert.",
+            "Herr Falk hat die Tabellenkenntnisse bei Listen für Varianten, Fristen und externe Produktionskosten eingesetzt gesehen. Frau Seidel berichtet, dass Frau Muster bei zwei vertriebsbezogenen Projekten 2024 Kundenrückfragen gebündelt und Produktdaten selbst im dafür freigegebenen Bereich korrigiert hat. Eine technische EDI-Schulung ist nicht verzeichnet. Für die eigenständige Abstimmung von Zahlungszielen oder die Buchung komplexer Retouren liegt ebenfalls kein gesonderter Schulungsnachweis vor."
+          ],
+          "heading": "2. Einordnung durch die Fachbereiche"
+        }
+      ],
+      "attachments": [
+        "V20"
+      ],
+      "signature": "Jule Brandt, Personalentwicklung; fachliche Angaben Lutz Falk und Leonie Seidel"
+    },
+    {
+      "id": "V22",
+      "date": "2023-11-15",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Jahresgespräch und Leistungsbeurteilung 2023",
+      "sender": "Lutz Falk, Designleitung, Uferwerk Verlag GmbH",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Rückblick, Arbeitsorganisation und Entwicklungswünsche",
+      "sections": [
+        {
+          "paragraphs": [
+            "Frau Muster hat im laufenden Jahr sieben Reihen beziehungsweise Einzelprogramme gestalterisch begleitet. Die verbindlichen Produktionsfristen wurden eingehalten. Bei drei Projekten erfolgten erhebliche inhaltliche Änderungen nach Beginn der Gestaltung. Frau Muster hat die Auswirkungen transparent gemacht und die jeweils erforderlichen Freigaben nachgehalten. Die Qualität der Ausgangsdateien war hoch. Beanstandungen wegen dauerhaft unvollständiger Übergaben liegen nicht vor.",
+            "Sie unterstützt Kolleginnen und Kollegen bei Fragen zu Druckdaten und bei der Ablage älterer Versionen. In sehr verdichteten Phasen übernimmt sie zu viele einzelne Rückfragen gleichzeitig. Wir haben deshalb vereinbart, neue Änderungen stärker nach erforderlicher Freigabe und Termin zu ordnen. Eine unterdurchschnittliche Arbeitsleistung wird damit nicht festgestellt. Es geht um Prioritäten bei einer insgesamt verlässlich erfüllten Aufgabe."
+          ],
+          "heading": "1. Einschätzung der Führungskraft"
+        },
+        {
+          "paragraphs": [
+            "Ich möchte die Verbindung zwischen Kundensicht und Gestaltung nicht verlieren. Die Zeit im Vertrieb hat mir geholfen, Rückfragen früher zu verstehen. Ich kann mir auch künftig kaufmännische Aufgaben vorstellen, wenn sich die Arbeit im Verlag verändert. Auf einer Stelle mit neuen Abrechnungsthemen oder einem anderen System brauche ich eine vernünftige Einarbeitung. Nur weil ich derzeit keine EDI-Fälle bearbeite, heißt das aus meiner Sicht nicht, dass ich solche Abläufe grundsätzlich nicht lernen könnte.",
+            "Zu Hause ist die Betreuung der Kinder eingespielt. Unvorhersehbare Abendtermine sind schwieriger als planbare Termine am Tag. Die normale Vollzeittätigkeit kann ich weiterhin leisten. Bei längeren Abwesenheiten im Team wünsche ich mir früher eine Priorisierung, damit wir die Verzögerung nicht erst am Abgabetag sehen."
+          ],
+          "heading": "2. Eigene Rückmeldung von Frau Muster"
+        },
+        {
+          "paragraphs": [
+            "Für 2024 werden eine Schulung zur Aufbereitung importierter Listen und ein weiteres Projekt mit dem Vertrieb vorgesehen. Frau Muster wird an der Einweisung zum neuen CRM teilnehmen, soweit sie die Gestaltungsschnittstelle betrifft. Eine neue Stelle oder bestimmte Beförderung wird nicht zugesagt. Die Bewertung lautet insgesamt „erfüllt die Anforderungen sicher; in Produktionssorgfalt über den Anforderungen“. Das Grundgehalt von derzeit 5.100 EUR brutto und die übrigen Bedingungen werden durch dieses Gespräch nicht verändert."
+          ],
+          "heading": "3. Vereinbarte Schritte"
+        }
+      ],
+      "attachments": [],
+      "signature": "Lutz Falk; Lisa Muster, zur Kenntnis genommen"
+    },
+    {
+      "id": "V23",
+      "date": "2025-01-10",
+      "kind": "contract",
+      "brand": "employer",
+      "title": "Nachtrag zum Grundgehalt ab Januar 2025",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Monatliches Grundgehalt 5.400 EUR brutto",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Parteien vereinbaren mit Wirkung zum 01.01.2025 ein monatliches Grundgehalt von 5.400 EUR brutto. Der Betrag gilt für die unveränderte regelmäßige Arbeitszeit von 40 Wochenstunden an fünf Arbeitstagen. Er ersetzt den bisherigen Betrag von 5.100 EUR. Fälligkeit und Abrechnung richten sich weiterhin nach Ziffer 6 des Arbeitsvertrags. Der Anspruch besteht unabhängig davon, welcher internen Kostenstelle die Arbeitnehmerin zugeordnet wird.",
+            "Der jährliche Erholungsurlaub beträgt weiterhin 30 Arbeitstage bei einer Fünftagewoche. Der Arbeitsort Konstanz und die Einsatzmöglichkeit nach Ziffer 2 bleiben unverändert. Mit der Vergütungsanpassung wird keine dauerhafte Einschränkung auf eine bestimmte Software, ein bestimmtes Verlagsprogramm oder ausschließlich gestalterische Tätigkeiten vereinbart."
+          ],
+          "heading": "1. Änderung der Grundvergütung"
+        },
+        {
+          "paragraphs": [
+            "Eine zusätzliche Jahresleistung ist mit diesem Nachtrag nicht garantiert. Die bisherige Regelung in Ziffer 7 bleibt bestehen. Für ein bestimmtes Geschäftsjahr ausdrücklich zugesagte Zahlungen werden nach der jeweiligen Zusage behandelt. In den letzten beiden Jahren gezahlte unterschiedliche Beträge werden nicht zu einem festen Bestandteil dieses Monatsgrundgehalts zusammengezogen.",
+            "Die übrigen Bestimmungen des Arbeitsvertrags und der nicht ersetzten Nachträge gelten fort. Die Arbeitnehmerin erhält eine gegengezeichnete Ausfertigung. Unterzeichnet in Konstanz am 10.01.2025."
+          ],
+          "heading": "2. Jahresleistung und Fortgeltung"
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V15"
+      ],
+      "signature": "Dr. Mara Ufer; Lisa Muster"
+    },
+    {
+      "id": "V24",
+      "date": "2025-09-30",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Tätigkeitsaufnahme für das Programmgeschäft",
+      "sender": "Lisa Muster; bestätigt mit Ergänzungen durch Lutz Falk",
+      "recipient": "Projektgruppe Arbeitsabläufe Uferwerk Verlag GmbH",
+      "reference": "Personal-Nr. UW-0831",
+      "subject": "Arbeitswoche 22.–26.09.2025 und wiederkehrende Aufgaben",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Projektgruppe hat um eine Darstellung einer üblichen Arbeitswoche gebeten. Ich habe die nachstehenden Werte aus Kalender und Aufgabenliste geschätzt. Es handelt sich nicht um eine minutengenaue Zeitaufnahme und nicht um einen Durchschnitt sämtlicher Wochen. In der betrachteten Woche liefen ein Katalogabschluss, zwei Umschläge und Händlerkorrekturen parallel."
+          ],
+          "heading": "1. Erfasste Tätigkeiten",
+          "table": {
+            "headers": [
+              "Arbeitsbereich",
+              "Geschätzter Anteil",
+              "Beispiele aus der Woche"
+            ],
+            "rows": [
+              [
+                "Gestaltung und Varianten",
+                "55 Prozent",
+                "Umschläge, Katalogseiten, Anpassung von Bildformaten"
+              ],
+              [
+                "Technische Prüfung und Produktionsübergabe",
+                "20 Prozent",
+                "Druckdaten, Schriften, Abgleich von Freigabeständen"
+              ],
+              [
+                "Kunden- und Vertriebsschnittstelle",
+                "15 Prozent",
+                "Rückfragen zu Bestellblatt, Mengen, Lieferfenster und Produktangaben"
+              ],
+              [
+                "Organisation und gegenseitige Vertretung",
+                "10 Prozent",
+                "Termine, Teamabstimmung, Übergabevermerke"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Viele Änderungen entstehen erst nach der ersten Gestaltung. Ein Händler möchte ein anderes Format, die Redaktion ersetzt einen Text oder ein Bild darf für den geplanten Kanal nicht verwendet werden. Ich muss dann nicht nur einen neuen Entwurf bauen, sondern prüfen, welche anderen Unterlagen denselben Stand brauchen. Dafür nutze ich die Produktdaten und die mit dem Vertrieb geführte Liste. Preisfreigaben hole ich ein, wenn eine Änderung eine andere Kalkulation erfordert.",
+            "Bei meinen derzeitigen CRM-Rechten kann ich Produktinformationen und einzelne Notizen pflegen. Die aktiven Auftragsrechte aus 2020 habe ich seit der Rückkehr nicht mehr. Der heutige Berechtigungsstand zeigt daher nicht, welche Rechte ich während der Rotation hatte. Eine Auswertung der alten Benutzerhistorie kann ich selbst mit meinem aktuellen Profil nicht erstellen."
+          ],
+          "heading": "2. Arbeitsablauf aus Sicht von Frau Muster"
+        },
+        {
+          "paragraphs": [
+            "Die Zuordnung beschreibt die betrachtete Woche plausibel. Der gestalterische Schwerpunkt bleibt erhalten. Die Schnittstellenarbeiten sind kein eigenständiges Vertriebsgebiet. Bei einer automatisierten Vorlagenerstellung würden aus meiner Sicht weiterhin Freigaben, Bildrechteprüfung und Sonderkorrekturen anfallen. Wie viel Zeit hierfür nach Umstellung benötigt wird, lässt sich aus dieser einzelnen Woche nicht ablesen. Für den Pilot sind deshalb zusätzlich Beispielvorgänge mit Überarbeitungsschritten zu dokumentieren."
+          ],
+          "heading": "3. Ergänzung von Herrn Falk vom 02.10.2025"
+        }
+      ],
+      "attachments": [
+        "V18",
+        "V20"
+      ],
+      "signature": "Lisa Muster; Lutz Falk, Ergänzung vom 02.10.2025"
+    },
+    {
+      "id": "V25",
+      "date": "2025-12-10",
+      "kind": "email",
+      "brand": "employer",
+      "title": "Pilotbesprechung zur KI-gestützten Gestaltung",
+      "sender": "Lutz Falk <lutz.falk@uferwerk.example>",
+      "recipient": "Dr. Mara Ufer; Jule Brandt; Leonie Seidel; Projektgruppe",
+      "reference": "Pilot RS / Abschluss erste Produktfamilien",
+      "subject": "Pilot Rasterstrom – Ergebnisse und offene Übergaben",
+      "sections": [
+        {
+          "paragraphs": [
+            "Der Pilot mit dem Anbieter Rasterstrom ist für die ersten drei Produktfamilien abgeschlossen. Von 60 erzeugten Vorlagen konnten 37 nach der ersten Durchsicht mit kleinen Korrekturen verwendet werden. 15 brauchten eine weitere Bild- oder Textfassung, 8 mussten in größeren Teilen neu aufgebaut werden. Diese Zahlen zählen Vorgänge, keine Arbeitsminuten. Bei einigen einfachen Reihen war die Bearbeitung schnell, bei zwei Bildthemen hat die Klärung länger gedauert als eine gewöhnliche Anpassung.",
+            "Die Ausgabe eignet sich als Ausgangspunkt. Sie ersetzt nicht die Freigabe: Bildrechte und Quellen waren in vier Fällen unklar; bei mehreren Angeboten fehlte eine aktuelle Produktangabe. In den Pilotwochen haben Design und Vertrieb die Korrekturen gemeinsam bearbeitet. Ich kann aus diesem Lauf noch keine belastbare Aussage zur Gesamtzeit im Regelbetrieb ableiten. Wenn ab Frühjahr der Vertrieb selbst Varianten ändern soll, brauchen wir klare Zuständigkeiten und eine Einweisung. Die bisherige Systemberechtigung der Kolleginnen und Kollegen reicht nicht in allen Fällen."
+          ],
+          "heading": "1. Zusammenfassung von Lutz Falk, 10.12.2025, 17:06 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Vielen Dank. Für die Entscheidung brauche ich keine Gegenüberstellung einer idealen Handarbeit mit einem unkorrigierten Maschinenergebnis, sondern einen Plan für den fertigen Vorgang. Bitte benennen Sie bis Ende Januar, welche Standardprodukte ohne eine eigene Designstelle erstellt werden können und wer die verbleibenden Kontrollen übernimmt. Eine zusätzliche neue Gestaltungseinheit soll das Modell nicht nur unter anderem Namen fortführen.",
+            "Wir müssen die laufenden Kosten deutlich reduzieren. Die Personalplanung ist noch nicht beschlossen. Bitte keine Zusagen zu bestimmten Stellen oder Kündigungen an das Team geben. Eine endgültige Entscheidung trifft die Geschäftsführung erst nach Vorlage der Abläufe und der Kostenübersicht. Die Beschäftigten sollen aber über den Pilot und die Möglichkeit einer Änderung der Arbeitsorganisation informiert bleiben."
+          ],
+          "heading": "2. Antwort von Dr. Mara Ufer, 11.12.2025, 08:21 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Die Vertriebsmitarbeitenden können Standardvorlagen mit Produktdaten füllen. Bei Bildauswahl, Satzkorrektur und Sonderformaten brauche ich eine Grenze. Wir haben weder für sämtliche Zusatzprüfungen noch für die Einarbeitung schon Stunden im Plan reserviert. Bitte nicht einfach jede bisherige Kontrollaufgabe als „mitlaufend“ verteilen. Ich werde für den Folgetermin zwei Bestellvorgänge zeigen, bei denen das Eingreifen nach der ersten Vorlage noch erheblich war."
+          ],
+          "heading": "3. Rückfrage von Leonie Seidel, 11.12.2025, 10:42 Uhr"
+        }
+      ],
+      "attachments": [
+        "V24"
+      ],
+      "signature": "Mailfolge aus der Projektablage; Stand 11.12.2025"
+    },
+    {
+      "id": "V26",
+      "date": "2026-02-10",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Geschäftsführungsentscheidung zur Arbeitsorganisation",
+      "sender": "Dr. Mara Ufer, Geschäftsführerin",
+      "recipient": "Jule Brandt; Lutz Falk; Leonie Seidel; interne Projektverantwortliche",
+      "reference": "GF-Beschluss UW / 10.02.2026",
+      "subject": "Organisation der Gestaltung und Umsetzung bis Herbst 2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Geschäftsführung beschließt am 10.02.2026, die eigenständige Ausführung von Gestaltungsarbeiten auf den 15 Designerstellen am Standort Konstanz aufzugeben. Standardisierte Vorlagen, Varianten und begleitende Medien sollen künftig mit dem System Rasterstrom erzeugt und in den bestehenden Produkt- und Kundenprozessen weiterbearbeitet werden. Die 15 Designerstellen sollen spätestens zum 30.09.2026 entfallen. Vorgesehen ist, die betroffenen Beschäftigten nach Abschluss der notwendigen Verfahren ab 01.04.2026 von der Arbeit freizustellen und die Übergaben im März abzuschließen.",
+            "Der einheitliche Betrieb in Konstanz wird fortgeführt. Redaktion, Vertrieb, Produktion, IT und Verwaltung bleiben bestehen. Eine Schließung des Verlags oder eines gesonderten Standorts wird nicht beschlossen. Die Designleitung wird derzeit von Herrn Falk im Rahmen der Produktionskoordination wahrgenommen; seine übergreifende Koordinationsfunktion ist keine der 15 aufzuhebenden Designerstellen. Die fachlichen Freigaben und Ausnahmeentscheidungen sollen nach Umstellung bei den vorhandenen Verantwortlichen liegen."
+          ],
+          "heading": "1. Beschluss der Geschäftsführung"
+        },
+        {
+          "paragraphs": [
+            "Vertriebsmitarbeitende sollen Standardvorlagen mit Produktangaben füllen, Kundenwünsche zu Formaten einarbeiten und das Ergebnis anhand einer Freigabeliste kontrollieren. Redaktion und Produktionskoordination bleiben für inhaltliche Richtigkeit, technische Übergabe und Zweifelsfälle verantwortlich. Externe Einzelaufträge dürfen nur für außergewöhnliche Projekte und nach Kostenfreigabe erteilt werden. Eine fortlaufende externe Besetzung sämtlicher bisherigen Designeraufgaben ist nicht vorgesehen.",
+            "Die erwartete Entlastung beruht auf der Annahme, dass wiederkehrende Varianten automatisiert erstellt und die verbleibenden Korrekturen innerhalb der bestehenden Funktionen erledigt werden können. Eine personenbezogene Minutenmessung liegt nicht vor. Herr Falk und Frau Seidel erhalten den Auftrag, bis zum 20.03.2026 die Freigabeschritte und Verantwortlichkeiten zu beschreiben. Abweichungen im Pilot sind zu erfassen. Eine Verschiebung einzelner Umstellungsschritte bedarf der Entscheidung der Geschäftsführung."
+          ],
+          "heading": "2. Künftige Verteilung der Arbeit"
+        },
+        {
+          "paragraphs": [
+            "Frau Brandt prüft bestehende Einsatzmöglichkeiten und bereitet die Beteiligung des Betriebsrats sowie die erforderliche Anzeige bei der Agentur für Arbeit vor. Es ist von 15 Arbeitgeberkündigungen auszugehen. Zusätzliche Aufhebungsverträge sind nicht Bestandteil dieser Planung. Die Kündigungen sollen am 31.03.2026 zugehen; die Beendigungstermine richten sich nach den jeweils einschlägigen Kündigungsfristen. Für Frau Muster wird nach bisheriger Vertragsprüfung der 30.09.2026 als Termin geführt.",
+            "Die Aufgabenprüfung wird zunächst nach den bisherigen Funktionsbereichen angelegt. Frau Brandt hält fest, dass der Gestaltungsschwerpunkt der betroffenen Beschäftigten gegen eine unmittelbare Gleichsetzung mit den bestehenden Vertriebsstellen spreche. Die abschließenden Angaben zu individuellen Vertragsklauseln und früheren anderen Einsätzen sind noch zusammenzustellen. Offene Stellen sind vor Freigabe einer Besetzung an die Personalabteilung zu melden. Bereits laufende Ausschreibungen sollen nicht ohne Rücksprache weitergeführt werden."
+          ],
+          "heading": "3. Personalmaßnahmen und Verfahren"
+        },
+        {
+          "paragraphs": [
+            "Die Geschäftsführung rechnet mit einer deutlichen Verringerung der Personalkosten im Verhältnis zu Lizenz-, Einführungs- und begrenzten Fremdkosten des Systems. Grundlage ist die interne Kostenübersicht der Finanzabteilung, nicht eine veränderte Absatzprognose für einzelne Titel. Die Freigabe dieses Organisationsmodells ersetzt nicht die Dokumentation der tatsächlichen Umsetzung. Herr Falk soll über Ausnahmen berichten; Frau Seidel meldet Mehrbelastungen, sobald sie erkennbar werden. Über den Stand wird in den wöchentlichen Umstellungsterminen gesprochen."
+          ],
+          "heading": "4. Wirtschaftlicher Hintergrund"
+        }
+      ],
+      "attachments": [
+        "V24",
+        "V25"
+      ],
+      "signature": "Dr. Mara Ufer, eigenhändig unterzeichnet"
+    },
+    {
+      "id": "V27",
+      "date": "2026-03-02",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Interne Ausschreibung Sachbearbeitung Sales Operations",
+      "sender": "Uferwerk Verlag GmbH, Vertrieb und Personal",
+      "recipient": "Beschäftigte im Betrieb Konstanz; internes Stellenbrett",
+      "reference": "Stellenfreigabe SO-2026-01",
+      "subject": "Unbefristete Vollzeitstelle, gewünschter Beginn 01.04.2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Für den Vertriebsinnendienst besetzen wir die seit 01.02.2026 offene Stelle Sachbearbeitung Sales Operations in Konstanz. Es handelt sich um eine vorhandene unbesetzte Sachbearbeitungsfunktion, nicht um eine Teamleitung. Die regelmäßige Arbeitszeit beträgt 40 Stunden an fünf Tagen. Der gewünschte Beginn ist der 01.04.2026; ein anderer Beginn kann besprochen werden. Die Stelle ist für eine unbefristete Besetzung freigegeben. Interne Interessierte melden sich bis zum 10.03.2026 bei Frau Brandt und Frau Seidel.",
+            "Die Tätigkeit verbindet die Bearbeitung von Bestandskundenaufträgen mit der Pflege von Produkt- und Kundendaten. Sie unterstützt die Einführung der neuen standardisierten Verkaufsunterlagen. Der Arbeitsplatz befindet sich am gemeinsamen Betriebssitz. Die Regelung zur Vergütung richtet sich nach den individuellen Bedingungen; die intern vorgesehene Bandbreite für eine Neueinstellung liegt bei 4.600 bis 5.500 EUR brutto monatlich. Aus dieser Ausschreibung folgt keine automatische Änderung eines vorhandenen Vertrags."
+          ],
+          "heading": "1. Stelle und Anlass"
+        },
+        {
+          "paragraphs": [
+            "Sie bearbeiten Standardanfragen, legen Angebote und Aufträge im CRM an, stimmen Lieferfenster und Mengenkorrekturen mit Kunden ab und verfolgen offene Rückfragen. Dazu gehören Datenprüfungen, einfache Auswertungen in der Tabellenkalkulation sowie die Kontrolle, ob für Verkaufsunterlagen die aktuellen Produktinformationen verwendet werden. EDI-Fehlerfälle und komplexere Retouren werden zunächst gemeinsam mit den zuständigen Fachkräften bearbeitet. Kreditentscheidungen und besondere Vertragskonditionen sind der Vertriebsleitung vorbehalten.",
+            "Wir erwarten Erfahrung in einer kaufmännisch geprägten Sachbearbeitung oder eine vergleichbare praktische Tätigkeit, verständliche Kundenkommunikation, sichere Arbeit mit Tabellen und die Bereitschaft, die betrieblichen Abläufe zu erlernen. Kenntnisse unseres CRM sind erwünscht. Für die Stelle ist keine disziplinarische Führungserfahrung erforderlich. Schriftliches Englisch auf dem Niveau einer einfachen beruflichen Kundenkorrespondenz wird benötigt. Die bisherige Abteilungsbezeichnung ist für eine interne Interessenbekundung kein Ausschlusskriterium."
+          ],
+          "heading": "2. Aufgaben und Anforderungen"
+        },
+        {
+          "paragraphs": [
+            "Für neue Mitarbeitende ist eine betreute Einarbeitung von zunächst sechs Wochen eingeplant. Die ersten beiden Wochen betreffen System, Produkte und Standardvorgänge. Danach werden Retouren, Datenabgleiche und die Anbindung elektronischer Bestellungen anhand realer Fälle vermittelt. Ob anschließend weitere Begleitung erforderlich ist, entscheidet Frau Seidel nach der Durchsicht der bearbeiteten Vorgänge.",
+            "Bitte senden Sie intern eine kurze Darstellung Ihrer bisherigen Aufgaben und der relevanten Kenntnisse an personal@uferwerk.example mit Kopie an leonie.seidel@uferwerk.example. Ein neues vollständiges Bewerbungspaket ist für Beschäftigte nicht erforderlich. Die Personalabteilung hält fest, dass die Ausschreibung am 02.03.2026 im internen Bereich veröffentlicht und gleichzeitig zur externen Veröffentlichung weitergegeben wurde. Die vorherige Abstimmung mit der Geschäftsführung ist im Stellenfreigabevermerk vom 27.02.2026 dokumentiert."
+          ],
+          "heading": "3. Einarbeitung und Bewerbungsweg"
+        }
+      ],
+      "attachments": [],
+      "signature": "Jule Brandt, Personal; Leonie Seidel, Vertriebsleitung"
+    },
+    {
+      "id": "V28",
+      "date": "2026-03-20",
+      "kind": "email",
+      "brand": "client",
+      "title": "Mailfolge zur Weiterbeschäftigung im Vertrieb",
+      "sender": "Lisa Muster <lisa.muster@uferwerk.example>",
+      "recipient": "Jule Brandt; Leonie Seidel; in Teilen Cem Aydin",
+      "reference": "Interne Bewerbung LM / SO-2026-01",
+      "subject": "Sales Operations und andere kaufmännische Einsatzmöglichkeiten",
+      "sections": [
+        {
+          "paragraphs": [
+            "Liebe Jule, liebe Leonie, im internen Bereich ist die freie Stelle Sales Operations ausgeschrieben. Ich möchte mich dafür bewerben und zugleich darum bitten, mich bei anderen vergleichbaren Aufgaben im Vertrieb zu berücksichtigen. Ich bin seit 2008 hier und habe 2020 neun Monate im Vertriebsinnendienst gearbeitet. Dabei habe ich nicht nur Unterlagen gestaltet, sondern Angebote und Aufträge bearbeitet und ein eigenes Paket von Bestandskunden betreut. Die damalige Vereinbarung und Leonies Abschlussnotiz liegen in meiner Personalakte.",
+            "Mir ist klar, dass sich seit 2020 Abläufe und Masken geändert haben. Den CRM-Umstieg für die Schnittstellen habe ich 2023 mitgemacht. Für die aktive Bearbeitung und EDI-Fälle brauche ich eine Einarbeitung. Die Stelle sieht eine Einarbeitung ohnehin vor. Zu einer zumutbaren Fortbildung bin ich bereit. An meiner bisherigen Vollzeittätigkeit und am Arbeitsort Konstanz soll es nicht scheitern. Bitte sagt mir konkret, welche Anforderung ihr bei mir als nicht erfüllt anseht und ob wir das in einer Erprobung klären können."
+          ],
+          "heading": "1. Lisa Muster an Jule Brandt und Leonie Seidel, 06.03.2026, 08:56 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Liebe Lisa, danke für deine Nachricht. Wir haben sie als internes Interesse aufgenommen. Die Stelle enthält auch die Aufbereitung elektronischer Bestellungen und Retouren. Nach Rückmeldung aus dem Vertrieb wird eine kaufmännisch erfahrene Person gesucht, die nach einer kurzen Einführung verlässlich in den laufenden Betrieb einsteigen kann. Wir gleichen die internen Interessen mit dem Stellenprofil ab. Einen Wechsel kann ich dir derzeit nicht zusagen. Bitte plane bis zu einer anderen Mitteilung weiter mit deinen bisherigen Übergabeaufgaben."
+          ],
+          "heading": "2. Jule Brandt an Lisa Muster, 09.03.2026, 15:34 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Ich bitte um ein Gespräch, bevor die Stelle vergeben wird. Mein damaliger Einsatz war eine kaufmännische Tätigkeit. Bei den Kollegen im Vertrieb sind unter anderem Paul Winter und Nora Berg deutlich später als ich eingetreten; bei Tim Reuter, Alina Vogt, Jonas Kern und Mira Sommer dürfte das ebenfalls so sein. Ich will niemandem die Arbeit wegnehmen, aber ich verstehe nicht, warum unsere Verträge und meine tatsächliche Erfahrung gar nicht miteinander verglichen werden sollen. Ich bin 43, seit 18 Jahren hier und habe zwei unterhaltsabhängige Kinder. Diese Angaben sind der Personalabteilung bekannt.",
+            "Falls ihr für die freie Stelle andere Kenntnisse verlangt, bitte ich um eine konkrete Rückmeldung. Ich habe bisher keine praktische Aufgabe erhalten, an der ich meine Kenntnisse zeigen könnte. Eine andere Bezeichnung in der jetzigen Abteilung beantwortet meine Frage noch nicht."
+          ],
+          "heading": "3. Lisa Muster an Jule Brandt, Kopie Cem Aydin, 11.03.2026, 09:22 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Lisa hat die damaligen Standardaufgaben tatsächlich selbst bearbeitet. Für die neue Rolle sehe ich zusätzliche Themen bei Retouren und elektronischen Bestellungen. Wie lange sie dafür heute braucht, kann ich ohne einen aktuellen Vorgang nicht sicher sagen. Der externe Bewerber hat praktische Erfahrung mit einer anderen Warenwirtschaft und muss unser Programm ebenfalls lernen. Ich kann nächste Woche einen gemeinsamen Termin anbieten. Bitte teile mir mit, ob ein interner Wechsel trotz laufender Umstrukturierung noch geprüft werden soll; allein möchte ich das nicht entscheiden."
+          ],
+          "heading": "4. Leonie Seidel an Jule Brandt, Kopie Lisa Muster, 13.03.2026, 16:02 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Liebe Lisa, die Stelle ist inzwischen verbindlich extern vergeben; der Arbeitsbeginn ist für den 01.04.2026 vereinbart. Die Geschäftsführung hat sich für einen Bewerber mit durchgehender aktueller kaufmännischer Tätigkeit entschieden. Wir werden deine Rückmeldung und die frühere Rotation im Verfahren zur Personalmaßnahme dokumentieren. Ein gesonderter Praxistermin wird für diese Besetzung nicht mehr angesetzt. Weitere freie passende Stellen kann ich dir nach dem derzeitigen Stand nicht anbieten.",
+            "Deine Hinweise zu den Beschäftigten im Vertrieb sind angekommen. Die Personalprüfung geht davon aus, dass die bisherigen Designstellen und die bestehenden Vertriebsfunktionen unterschiedliche Tätigkeitsbereiche betreffen. Ich habe deine Einwände an den Betriebsrat weitergegeben. Eine Aussage zu einem bestimmten Ergebnis ist mit dieser Nachricht nicht verbunden."
+          ],
+          "heading": "5. Jule Brandt an Lisa Muster, 20.03.2026, 11:17 Uhr"
+        }
+      ],
+      "attachments": [
+        "V17",
+        "V20",
+        "V21",
+        "V27"
+      ],
+      "signature": "Mailfolge aus Lisas dienstlichem Postfach, von ihr am 20.03.2026 für die eigenen Personalunterlagen gespeichert"
+    },
+    {
+      "id": "V29",
+      "date": "2026-03-04",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Information und Konsultation des Betriebsrats",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Betriebsrat der Uferwerk Verlag GmbH, z. Hd. Cem Aydin, Hafenstraße 24, 78462 Konstanz",
+      "reference": "Konsultation BR / Personalmaßnahme Gestaltung 2026",
+      "subject": "Geplante Entlassung von 15 Beschäftigten der Gestaltung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrter Herr Aydin, wir unterrichten den Betriebsrat über die geplante Aufhebung der 15 Designerstellen im einheitlichen Betrieb Konstanz. Die Geschäftsführung hat am 10.02.2026 entschieden, standardisierte Gestaltung und Varianten mit dem System Rasterstrom zu erstellen und die verbleibenden Kontrollen den vorhandenen Funktionen in Vertrieb, Redaktion und Produktionskoordination zuzuordnen. Der Verlag wird am Standort fortgeführt. Grund der Maßnahme ist die beabsichtigte Verringerung der laufenden Kosten durch eine andere Arbeitsorganisation.",
+            "Geplant sind 15 ordentliche Arbeitgeberkündigungen. Weitere Beendigungen durch Aufhebungsverträge sind nicht vorgesehen. Der Zugang der Kündigungen soll am 31.03.2026 erfolgen. Die Beendigungstermine richten sich nach den individuellen Kündigungsfristen und reichen nach dem vorläufigen Stand bis zum 30.09.2026. Die Beschäftigten sollen ab dem 01.04.2026 bei fortlaufender Vergütung freigestellt werden. Die Freistellung ersetzt den jeweiligen Beendigungstermin nicht."
+          ],
+          "heading": "1. Vorhaben und Gründe"
+        },
+        {
+          "paragraphs": [
+            "Im Betrieb werden regelmäßig 140 Arbeitnehmerinnen und Arbeitnehmer beschäftigt. Von der Maßnahme betroffen sind die 15 Arbeitsplätze der Berufsgruppe Grafikdesign und Mediengestaltung. Es handelt sich um zehn Frauen und fünf Männer. Die Tätigkeiten umfassen Layout, Umschlaggestaltung, Varianten und Produktionsvorbereitung. Auszubildende sind nicht unter den betroffenen 15 Personen. Die übrigen Funktionen, insbesondere Vertrieb und Kundenbetreuung, sollen fortbestehen.",
+            "Nach der bisherigen Prüfung sollen sämtliche 15 Designerstellen entfallen. Die Arbeitgeberin hält die bestehenden Vertriebsfunktionen wegen des kaufmännischen Schwerpunkts nicht für unmittelbar austauschbar mit den Designstellen. Eine Auswahl innerhalb der 15 vollständig wegfallenden Stellen ist deshalb bisher nicht vorgesehen. Die individuellen Vertragsklauseln und früheren Einsätze werden auf Rückfragen hin ergänzend geprüft. Der vorläufige personenbezogene Überblick wird dem Betriebsrat über den gesicherten Personalzugang bereitgestellt."
+          ],
+          "heading": "2. Beschäftigtenzahlen und Auswahlansatz"
+        },
+        {
+          "paragraphs": [
+            "Wir möchten mit dem Betriebsrat beraten, ob Kündigungen vermieden oder ihre Zahl verringert werden können und wie die Folgen für Betroffene gemildert werden können. Zu besprechen sind insbesondere Weiterbeschäftigung auf offenen Stellen, zumutbare Qualifizierung, die Reihenfolge von Übergaben und Unterstützung bei einem Wechsel. Die Ausschreibung Sales Operations ist der Personalabteilung bekannt. Eine konkrete Übernahme einzelner Betroffener ist noch nicht vereinbart.",
+            "Eine besondere zusätzliche Abfindungsberechnung ist in dieser Unterrichtung nicht festgelegt. Gesetzliche Beteiligungsrechte und etwaige weitere Verhandlungen über Ausgleichsmaßnahmen werden gesondert behandelt. Wir bitten um einen ersten Beratungstermin am 11.03.2026 und einen Folgetermin am 18.03.2026. Bitte teilen Sie uns die aus Ihrer Sicht zusätzlich erforderlichen Angaben möglichst vorher mit. Die beabsichtigte Anzeige bei der Agentur für Arbeit ist für den 23.03.2026 vorgesehen. Dieses Schreiben soll eine tatsächliche Beratung ermöglichen; es ist keine Erklärung, dass eine Zustimmung bereits erteilt wäre."
+          ],
+          "heading": "3. Vermeidung, Einschränkung und Folgen"
+        },
+        {
+          "paragraphs": [
+            "Am 04.03.2026 um 10:15 Uhr durch Jule Brandt an Cem Aydin im Betriebsratsbüro übergeben. Der Betriebsrat bestätigt den Empfang der Unterrichtung und des Zugangs zur vorläufigen Betroffenenliste. Eine inhaltliche Stellungnahme wird damit nicht abgegeben. Herr Aydin kündigt Fragen zu den verbleibenden Aufgaben, zum Vertrieb und zu freien Stellen an."
+          ],
+          "heading": "4. Empfangsvermerk des Betriebsrats"
+        }
+      ],
+      "attachments": [
+        "V26",
+        "V27"
+      ],
+      "signature": "Dr. Mara Ufer; Jule Brandt; Empfang bestätigt Cem Aydin"
+    },
+    {
+      "id": "V30",
+      "date": "2026-03-12",
+      "kind": "table",
+      "brand": "employer",
+      "title": "Personalauszug für die Betriebsratsberatung",
+      "sender": "Jule Brandt, Personalabteilung Uferwerk Verlag GmbH",
+      "recipient": "Cem Aydin, Betriebsratsvorsitzender",
+      "reference": "BR-Auszug Personal / 12.03.2026",
+      "subject": "Beschäftigtendaten Lisa Muster und sechs Vertriebsbeschäftigte",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrter Herr Aydin, auf Ihre Rückfrage erhalten Sie den nachstehenden Auszug aus den Personalangaben. Die Daten entsprechen dem erfassten Stand vom 12.03.2026. Sie sind für die Beratung der Personalmaßnahme bestimmt und werden nicht im offenen Teamverzeichnis abgelegt. Die Angaben zu Unterhaltspflichten beruhen auf den Personalmitteilungen; zusätzliche nicht angezeigte Verpflichtungen können hieraus nicht ausgeschlossen werden.",
+            "Die sechs im Vertrieb genannten Personen sind unbefristet am selben Betriebssitz in Konstanz beschäftigt. Bei keiner ist derzeit eine Schwerbehinderung oder Gleichstellung in den vorliegenden Personalangaben verzeichnet. Für Frau Muster ist ebenfalls kein solcher Status und kein laufender Elternzeitantrag vermerkt. Die frühere Elternzeit ist abgeschlossen. Mit diesem Auszug wird keine medizinische oder rechtliche Prüfung außerhalb der vorhandenen Angaben bescheinigt."
+          ],
+          "heading": "1. Begleitschreiben und Stand"
+        },
+        {
+          "paragraphs": [],
+          "heading": "2. Vergleich der erfassten Personen",
+          "table": {
+            "headers": [
+              "Name / Funktion",
+              "Geburtsdatum / Alter am 31.03.2026",
+              "Eintritt",
+              "Familienstand / bekannte Unterhaltskinder",
+              "Wochen-\nstunden / Grundgehalt brutto"
+            ],
+            "rows": [
+              [
+                "Lisa Muster / Grafikdesignerin",
+                "19.07.1982 / 43",
+                "01.03.2008",
+                "Verheiratet / 2",
+                "40 / 5.400 EUR"
+              ],
+              [
+                "Paul Winter /\nBestandskunden-\nsachbearbeitung",
+                "08.11.1989 / 36",
+                "01.05.2017",
+                "Ledig / 0",
+                "40 / 4.900 EUR"
+              ],
+              [
+                "Nora Berg / Kundenservice und CRM",
+                "23.04.1992 / 33",
+                "01.10.2019",
+                "Ledig / 0",
+                "40 / 4.700 EUR"
+              ],
+              [
+                "Tim Reuter / Vertriebsinnendienst",
+                "11.02.1994 / 32",
+                "01.07.2021",
+                "Verheiratet / 0",
+                "40 / 4.650 EUR"
+              ],
+              [
+                "Alina Vogt / Key-Account-Assistenz",
+                "02.12.1990 / 35",
+                "01.04.2020",
+                "Verheiratet / 1",
+                "40 / 4.850 EUR"
+              ],
+              [
+                "Jonas Kern / Auftragskoordination",
+                "05.06.1996 / 29",
+                "01.02.2022",
+                "Ledig / 0",
+                "40 / 4.550 EUR"
+              ],
+              [
+                "Mira Sommer / Vertriebsdaten und Kundenanfragen",
+                "18.09.1993 / 32",
+                "01.03.2023",
+                "Ledig / 0",
+                "40 / 4.600 EUR"
+              ]
+            ],
+            "widths": [
+              0.25,
+              0.22,
+              0.14,
+              0.22,
+              0.17
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die sechs Vertriebsverträge bezeichnen die jeweilige kaufmännische Tätigkeit und erlauben außerdem andere den Kenntnissen und Fähigkeiten entsprechende vergleichbare Tätigkeiten im Betrieb Konstanz bei unverändertem vertraglichen Entgelt. Eine disziplinarische Führungsfunktion ist bei keiner dieser Stellen vereinbart. Frau Musters Vertrag nennt Gestaltung und vergleichbare kaufmännische Tätigkeiten innerhalb Konstanz bei unverändertem Entgelt. Die konkreten Vertragsausfertigungen können im gesicherten Personalzugang eingesehen werden.",
+            "Die Personalabteilung hält an der vorläufigen Einordnung unterschiedlicher Schwerpunktfunktionen fest. Die Tabelle enthält deshalb keine einheitliche Sozialpunktberechnung. Der frühere Einsatz von Frau Muster im Vertrieb ist in den Unterlagen 2020 dokumentiert. Ob ihre Kenntnisse die heutigen Anforderungen einer bestimmten Stelle nach Einarbeitung erfüllen, wurde mit diesem Stammdatenauszug nicht praktisch geprüft. Das aktuell eingeschränkte Berechtigungsprofil im CRM ist kein historischer Export der Rechte von 2020."
+          ],
+          "heading": "3. Vertrags- und Tätigkeitsangaben"
+        },
+        {
+          "paragraphs": [
+            "Cem Aydin hat den Auszug am 12.03.2026 erhalten. Die Frage nach einer funktionsübergreifenden Berücksichtigung ist aus Sicht des Betriebsrats damit noch nicht beantwortet. Frau Muster hat die Namen in ihrer Nachricht vom 11.03.2026 bereits angesprochen. Der Betriebsrat bittet Frau Brandt um eine konkrete Zuordnung der heutigen Aufgaben und der erforderlichen Einarbeitung statt allein der Abteilungsbezeichnungen."
+          ],
+          "heading": "4. Vermerk des Betriebsrats"
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V17",
+        "V20"
+      ],
+      "signature": "Jule Brandt; Empfangsvermerk Cem Aydin"
+    },
+    {
+      "id": "V31",
+      "date": "2026-03-18",
+      "kind": "memo",
+      "brand": "employer",
+      "title": "Besetzungsentscheidung und Einarbeitungsplan Sales Operations",
+      "sender": "Leonie Seidel und Jule Brandt, Uferwerk Verlag GmbH",
+      "recipient": "Vertrieb; Personal; Robin Behrens",
+      "reference": "SO-2026-01 / Besetzung 18.03.2026",
+      "subject": "Stelle SO-2026-01, Arbeitsbeginn 01.04.2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Der Arbeitsvertrag mit Robin Behrens wurde am 18.03.2026 beiderseits unterzeichnet. Vereinbart sind eine unbefristete Vollzeittätigkeit in Sales Operations am Betriebssitz Konstanz, 40 Wochenstunden und ein Grundgehalt von 4.800 EUR brutto monatlich. Robin Behrens soll am 01.04.2026 beginnen. Es handelt sich um die seit Februar offene Sachbearbeitungsstelle. Eine Leitungs- oder Beförderungsfunktion ist nicht vereinbart.",
+            "Frau Seidel hat im Auswahlgespräch gute praktische Kenntnisse in Bestandskundenbearbeitung und Tabellenarbeit festgestellt. Der Bewerber hat zuvor mit einer anderen Warenwirtschaft gearbeitet und kennt das bei Uferwerk eingesetzte CRM noch nicht. Erfahrungen mit elektronischen Bestellungen sind vorhanden, aber nicht mit der hiesigen Zuordnung von Teilmengen und Titelsperren. Die Einarbeitung soll diese Unterschiede überbrücken. Die interne Bewerbung von Frau Muster wurde von der Personalabteilung wegen des aus ihrer Sicht fehlenden durchgehend aktuellen kaufmännischen Schwerpunkts nicht weitergeführt; ein gemeinsamer praktischer Vergleich wurde nicht durchgeführt."
+          ],
+          "heading": "1. Besetzungsstand"
+        },
+        {
+          "paragraphs": [],
+          "heading": "2. Verbindlich eingeplante Begleitung",
+          "table": {
+            "headers": [
+              "Zeitraum",
+              "Inhalte",
+              "Begleitung und Ziel"
+            ],
+            "rows": [
+              [
+                "01.–10.04.2026",
+                "Produktstruktur, CRM-Masken, Ansprechpartner, einfache Angebote und Bestellungen",
+                "Nora Berg; zunächst Kontrolle vor Versand oder Freigabe"
+              ],
+              [
+                "13.–17.04.2026",
+                "Bestandskundenpaket, Mengenänderungen, Lieferfenster, Kundennotizen",
+                "Paul Winter; tägliche Durchsicht offener Fälle"
+              ],
+              [
+                "20.–24.04.2026",
+                "Retouren und Abgleich von Produkt-/Kundendaten",
+                "Jonas Kern; gemeinsame Bearbeitung typischer Fälle"
+              ],
+              [
+                "27.04.–01.05.2026",
+                "Elektronische Bestellungen und EDI-Ausnahmen",
+                "Tim Reuter; keine eigenständige technische Schnittstellenfreigabe"
+              ],
+              [
+                "04.–08.05.2026",
+                "Zusammenhängende Bearbeitung eines abgegrenzten Pakets",
+                "Leonie Seidel; Stichproben und Entscheidung über weitere Begleitung"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die sechs Wochen sind eine Planannahme. Wenn die Bearbeitung noch nicht ausreichend sicher ist, wird die Kontrolle fortgesetzt. Die Stelle verlangt von Beginn an keine Kreditentscheidungen und keine eigenständige Verhandlung großer Rahmenverträge. Im EDI-Bereich ist vor allem das Erkennen und Weiterleiten von Abweichungen erforderlich; technische Konfiguration bleibt bei der zuständigen Fachfunktion.",
+            "Für die Umstellung der Verkaufsunterlagen kommen ab April zusätzliche Prüfschritte hinzu. Frau Seidel hat dafür bisher keine belastbare Stundenmessung. Der neue Mitarbeitende soll diese Arbeit nicht am ersten Tag allein übernehmen. Frau Brandt informiert Frau Muster gesondert über die inzwischen verbindliche Besetzung. Die vorliegende Notiz ist in der Stellenakte und nicht nur im Teamkalender zu speichern."
+          ],
+          "heading": "3. Grenzen und Personalplanung"
+        }
+      ],
+      "attachments": [
+        "V27",
+        "V28 - ausschließlich die bis zum 13.03.2026 entstandenen Nachrichten"
+      ],
+      "signature": "Leonie Seidel; Jule Brandt"
+    },
+    {
+      "id": "V32",
+      "date": "2026-03-23",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Abschließende Stellungnahme des Betriebsrats zur Konsultation",
+      "sender": "Betriebsrat der Uferwerk Verlag GmbH, Cem Aydin, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Uferwerk Verlag GmbH, Dr. Mara Ufer und Jule Brandt",
+      "reference": "BR / Konsultation Gestaltung / endgültige Fassung 23.03.2026",
+      "subject": "Personalmaßnahme Gestaltung – Stellungnahme nach Beratungen im März",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Ufer, sehr geehrte Frau Brandt, der Betriebsrat nimmt nach seiner heutigen Sitzung abschließend zu dem uns unterbreiteten Entlassungsvorhaben Stellung. Grundlage sind die Unterrichtung vom 04.03.2026, die Besprechungen vom 11.03., 18.03. und 23.03.2026 sowie die ergänzenden Personalangaben. Der am heutigen Tag um 12:45 Uhr übermittelte Zwischenstand war ausdrücklich noch keine abschließende Stellungnahme. Dieser nun unterzeichnete Text ersetzt ihn.",
+            "Der Betriebsrat stimmt dem geplanten Abbau von 15 Designerstellen nicht zu. Die Beratungen haben keine Einigung über die Vermeidung der Kündigungen oder eine andere Beschäftigung der Betroffenen erbracht. Wir nehmen zur Kenntnis, dass die Arbeitgeberin an ihrer Organisationsentscheidung festhält. Damit ist nicht bestätigt, dass sämtliche für die weitere rechtliche und tatsächliche Prüfung erforderlichen Fragen aus unserer Sicht beantwortet wären."
+          ],
+          "heading": "1. Beratungsverlauf"
+        },
+        {
+          "paragraphs": [
+            "Die Antworten zur möglichen Beschäftigung im Vertrieb sind weiterhin unzureichend. Wir haben am 18.03.2026 eine Gegenüberstellung konkreter Aufgaben, Vertragsbefugnisse und Einarbeitungsbedarfe verlangt und diese Frage heute wiederholt. Eine vollständige schriftliche Antwort liegt uns nicht vor. Die Arbeitgeberin verweist im Wesentlichen auf die jetzigen Schwerpunktfunktionen. Nach den uns vorliegenden Verträgen ist ein anderer vergleichbarer Einsatz im selben Betrieb nicht allgemein ausgeschlossen.",
+            "Für Frau Muster ist ein neunmonatiger aktiver Einsatz im Vertrieb 2020 dokumentiert. Bei anderen Betroffenen bestehen ebenfalls Erfahrungen in angrenzenden Aufgaben. Es wurde nicht für jede Person geklärt, welche fehlenden Kenntnisse in welcher Zeit vermittelt werden könnten. Die Stelle Sales Operations war im März ausgeschrieben und wurde trotz der internen Interessenbekundung von Frau Muster extern besetzt. Die Aussage, für eine Übernahme fehle jede Möglichkeit, lässt sich allein daraus, dass der neue Vertrag inzwischen unterzeichnet wurde, nicht nachvollziehbar begründen."
+          ],
+          "heading": "2. Weiterbeschäftigung und Auswahl"
+        },
+        {
+          "paragraphs": [
+            "Der Betriebsrat hat Zweifel, ob die verbleibenden Kontrollen und Korrekturen ohne zusätzliche Belastung in den vorhandenen Funktionen erledigt werden können. Der Pilot weist Nacharbeit aus. Eine gemessene Regelbelastung liegt uns nicht vor. Eine Organisierung mit weniger gestalterischer Eigenarbeit mag die Geschäftsführung verfolgen; die konkrete Verteilung und der Umfang der verbleibenden Arbeit sind damit noch nicht vollständig beschrieben.",
+            "Wir haben eine stufenweise Umstellung mit Qualifizierung und zeitweiser Weiterbeschäftigung vorgeschlagen. Die Arbeitgeberin hat diesen Vorschlag nicht aufgegriffen. Eine einvernehmliche Regelung, die die vorgesehenen Kündigungen ersetzt, ist nicht zustande gekommen. Die weiteren Beteiligungsverfahren zu einzelnen Kündigungen sind von dieser Stellungnahme zu unterscheiden. Wir bitten darum, diese vollständige Stellungnahme in der beabsichtigten Anzeige an die Agentur für Arbeit zu berücksichtigen."
+          ],
+          "heading": "3. Künftige Arbeitsverteilung und Folgen"
+        },
+        {
+          "paragraphs": [
+            "Beschlossen in der Sitzung des Betriebsrats am 23.03.2026. Ausgefertigt und vom Vorsitzenden unterzeichnet am 23.03.2026 um 16:20 Uhr. Versand als PDF an personal@uferwerk.example und mara.ufer@uferwerk.example am 23.03.2026 um 16:37 Uhr. Ein Papierexemplar wird am folgenden Morgen gegen Empfang übergeben."
+          ],
+          "heading": "4. Fertigstellung und Übersendung"
+        }
+      ],
+      "attachments": [
+        "V29",
+        "V30",
+        "V31"
+      ],
+      "signature": "Cem Aydin, Betriebsratsvorsitzender, eigenhändige Unterschrift"
+    },
+    {
+      "id": "V33",
+      "date": "2026-03-23",
+      "kind": "table",
+      "brand": "employer",
+      "title": "Anzeige der vorgesehenen Entlassungen – Arbeitgeberausfertigung",
+      "sender": "Uferwerk Verlag GmbH, Jule Brandt",
+      "recipient": "Agentur für Arbeit Konstanz-Ravensburg, zuständige Bearbeitung Massenentlassungen",
+      "reference": "ME-UW-2026-0323 / Anzeigeausfertigung",
+      "subject": "Anzeige von 15 vorgesehenen Entlassungen im Betrieb Konstanz",
+      "sections": [
+        {
+          "paragraphs": [
+            "Betrieb: Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz. Arbeitgeberin und Betriebssitz sind identisch. Zuständige Vertretung: Dr. Mara Ufer. Ansprechperson für die Anzeige: Jule Brandt, personal@uferwerk.example. Die Ausfertigung für die Personalakte besteht aus dem Formularausdruck und der automatischen Eingangsseite."
+          ],
+          "heading": "1. Angaben aus der Formularausfertigung",
+          "table": {
+            "headers": [
+              "Formularfeld",
+              "Eingetragener Inhalt"
+            ],
+            "rows": [
+              [
+                "Betriebsart",
+                "Verlagsbetrieb; einheitlicher Betrieb in Konstanz"
+              ],
+              [
+                "Regelmäßig beschäftigte Arbeitnehmerinnen und Arbeitnehmer",
+                "140"
+              ],
+              [
+                "Zahl der vorgesehenen Entlassungen",
+                "15"
+              ],
+              [
+                "Berufsgruppe der Betroffenen",
+                "Grafikdesign und Mediengestaltung; alle 15 Designerstellen"
+              ],
+              [
+                "Geschlecht der Betroffenen",
+                "10 Frauen; 5 Männer"
+              ],
+              [
+                "Zeitraum der Kündigungserklärungen",
+                "Zugang sämtlicher 15 Kündigungen vorgesehen am 31.03.2026"
+              ],
+              [
+                "Vorgesehene Beendigungstermine",
+                "Nach individuellen Fristen; letzter Termin 30.09.2026"
+              ],
+              [
+                "Andere arbeitgeberseitig veranlasste Beendigungen im Zeitraum",
+                "Keine zusätzlich vorgesehen"
+              ],
+              [
+                "Unterrichtung des Betriebsrats",
+                "04.03.2026"
+              ],
+              [
+                "Beratungen",
+                "11.03., 18.03. und 23.03.2026"
+              ],
+              [
+                "Stellungnahme des Betriebsrats beigefügt",
+                "Ja, laut in der Personalakte abgelegter Formularausfertigung"
+              ],
+              [
+                "Zusätzliche Abfindungsberechnung",
+                "Keine besondere Berechnung in dieser Anzeige festgelegt"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die Geschäftsführung stellt die standardisierte Gestaltung auf ein KI-gestütztes Vorlagensystem um. Die 15 ausführenden Designerstellen sollen entfallen. Die verbleibenden Kontrollen werden nach dem Organisationsplan vorhandenen Funktionen in Vertrieb, Redaktion und Produktionskoordination zugeordnet. Der Betrieb wird fortgeführt. Eine Auswahl innerhalb der vollständig entfallenden 15 Designerstellen ist nicht vorgesehen. Die Arbeitgeberin geht von unterschiedlichen Schwerpunktfunktionen zwischen Gestaltung und Vertrieb aus.",
+            "Als beratene Alternativen sind in der Anzeige die Prüfung offener Stellen, eine stufenweise Umstellung und Einarbeitungsmöglichkeiten benannt. Eine Einigung zur Vermeidung der Kündigungen wurde nicht erzielt. Die personenbezogenen Daten der Betroffenen sind im gesonderten Anhang erfasst. Für Lisa Muster sind das Geburtsdatum 19.07.1982, der Eintritt 01.03.2008, der Familienstand verheiratet, zwei unterhaltsabhängige Kinder und der vorgesehene Beendigungstermin 30.09.2026 eingetragen."
+          ],
+          "heading": "2. Begründung und Auswahlangaben aus dem Formular"
+        },
+        {
+          "paragraphs": [
+            "Elektronischer Eingang: 23.03.2026, 14:10 Uhr. Vorgangskennung: ME-UW-2026-0323. Absenderkonto: Uferwerk Verlag GmbH. Übermittlung angenommen. Die Bestätigung enthält keine Sachprüfung der Vollständigkeit und keine Entscheidung über die Zulässigkeit einzelner Kündigungen. Eine Zusammenstellung der einzelnen Dateinamen wird auf dieser Bestätigungsseite nicht ausgegeben.",
+            "Interner Ablagevermerk von Jule Brandt: Anzeige und Eingangsseite in der Personalmaßnahmenakte abgelegt. Die im Aktenexemplar zugeordnete Anlagenfolge lautet Betriebsratsunterrichtung, personenbezogener Anhang, Betriebsratsstellungnahme. Rückfragen und etwaige Ergänzungen werden unter derselben Vorgangskennung geführt."
+          ],
+          "heading": "3. Automatische Eingangsbestätigung"
+        },
+        {
+          "heading": "4. Personenbezogener Anhang zur Anzeigeausfertigung",
+          "paragraphs": [
+            "Die nachstehende Liste ist Bestandteil der Arbeitgeberausfertigung der Anzeige. Alle genannten Personen sind ausführend im Grafikdesign oder in der Mediengestaltung beschäftigt; zehn sind Frauen, fünf Männer. Die Kündigungserklärungen sollen sämtlich am 31. März 2026 zugehen. Die geplanten Beendigungstermine berücksichtigen die jeweils dokumentierten Kündigungsfristen. Lutz Falk gehört als Produktionskoordinator nicht zu den fünfzehn aufgehobenen Designerstellen."
+          ],
+          "table": {
+            "headers": [
+              "Name",
+              "Geburtsdatum",
+              "Eintritt",
+              "Geplantes Ende"
+            ],
+            "rows": [
+              [
+                "Lisa Muster",
+                "19.07.1982",
+                "01.03.2008",
+                "30.09.2026"
+              ],
+              [
+                "Amelie Roth",
+                "04.02.1986",
+                "01.06.2012",
+                "31.08.2026"
+              ],
+              [
+                "Beate Kühn",
+                "12.09.1978",
+                "01.09.2009",
+                "30.09.2026"
+              ],
+              [
+                "Clara Vogelsang",
+                "28.11.1990",
+                "01.05.2017",
+                "31.07.2026"
+              ],
+              [
+                "Daria Stern",
+                "09.04.1988",
+                "01.10.2015",
+                "31.07.2026"
+              ],
+              [
+                "Eva West",
+                "16.06.1995",
+                "01.04.2020",
+                "31.05.2026"
+              ],
+              [
+                "Freya Lind",
+                "22.12.1983",
+                "01.07.2010",
+                "30.09.2026"
+              ],
+              [
+                "Greta Feld",
+                "03.03.1992",
+                "01.02.2018",
+                "31.07.2026"
+              ],
+              [
+                "Hanna Wolff",
+                "30.08.1987",
+                "01.11.2013",
+                "31.08.2026"
+              ],
+              [
+                "Ines Beck",
+                "19.01.1998",
+                "01.08.2022",
+                "31.05.2026"
+              ],
+              [
+                "Jan Graf",
+                "08.10.1981",
+                "01.08.2007",
+                "30.09.2026"
+              ],
+              [
+                "Kai Braun",
+                "21.05.1989",
+                "01.01.2016",
+                "31.07.2026"
+              ],
+              [
+                "Lars Vogt",
+                "14.07.1991",
+                "01.06.2019",
+                "30.06.2026"
+              ],
+              [
+                "Malte Frisch",
+                "27.02.1994",
+                "01.03.2021",
+                "31.05.2026"
+              ],
+              [
+                "Nils König",
+                "06.11.1985",
+                "01.09.2014",
+                "31.08.2026"
+              ]
+            ]
+          }
+        }
+      ],
+      "attachments": [
+        "V26",
+        "V29",
+        "V30",
+        "V32"
+      ],
+      "signature": "Jule Brandt; automatische Eingangsbestätigung ohne Unterschrift"
+    },
+    {
+      "id": "V34",
+      "date": "2026-03-24",
+      "kind": "email",
+      "brand": "employer",
+      "title": "Ergänzungsübersendung an die Agentur für Arbeit",
+      "sender": "Jule Brandt <personal@uferwerk.example>",
+      "recipient": "Agentur für Arbeit, Funktionspostfach der zuständigen Bearbeitung <massenentlassung@agentur-konstanz.example>",
+      "reference": "ME-UW-2026-0323 / Ergänzung 24.03.2026",
+      "subject": "ME-UW-2026-0323 – Betriebsratsunterlagen",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Damen und Herren, zu unserer gestern um 14:10 Uhr übermittelten Anzeige reichen wir die abschließende Stellungnahme des Betriebsrats zur sicheren Zuordnung unter derselben Vorgangskennung nochmals gesondert ein. Aus unserer Sicht ist damit der in der Anzeige angegebene Anlagenbestand vollständig dokumentiert. Die Zahl der betroffenen Personen, der geplante Zugangstag und die individuellen Beendigungstermine bleiben unverändert.",
+            "Das beigefügte Schreiben des Betriebsrats trägt das Datum 23.03.2026. Es enthält dessen ablehnende Stellungnahme zum Vorhaben und die aus seiner Sicht weiterhin offenen Fragen zum Vertrieb und zu Weiterbeschäftigungsmöglichkeiten. Wir halten an unserer unternehmerischen Entscheidung und an der in der Anzeige erläuterten Einordnung der Tätigkeitsbereiche fest. Die individuellen Betriebsratsanhörungen werden gesondert durchgeführt.",
+            "Bitte bestätigen Sie die Zuordnung zum Vorgang ME-UW-2026-0323. Sollte nach Ihrer Prüfung eine Angabe fehlen, bitten wir um Nachricht an das genannte Arbeitgeberkonto. Diese Übersendung enthält keine zusätzlichen Entlassungen. Freundliche Grüße, Jule Brandt."
+          ],
+          "heading": "1. Begleittext zur ergänzenden Übermittlung, 24.03.2026, 08:32 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Eingang der Ergänzung: 24.03.2026, 08:32 Uhr. Zuordnung: ME-UW-2026-0323. Anlage: BR_Stellungnahme_23032026.pdf. Die Datei wurde für die weitere Bearbeitung gespeichert. Diese Nachricht wird automatisch erzeugt. Sie enthält keine fachliche Prüfung; bei Rückfragen wird die zuständige Bearbeitung auf das angegebene Arbeitgeberkonto zukommen."
+          ],
+          "heading": "2. Automatische Bestätigung"
+        },
+        {
+          "paragraphs": [
+            "Mara, die Betriebsratsstellungnahme ist jetzt auch gesondert unter der Kennung der Anzeige abgelegt und der Eingang bestätigt. Bitte bei einer Weitergabe der Akte die Bestätigungen vom 23. und 24. März zusammenlassen. Im Formular steht die Stellungnahme als Anlage. Ich habe zur Sicherheit noch einmal gesendet. Die Anhörungen zu den Einzelkündigungen gebe ich heute im Laufe des Vormittags an Cem. Jule."
+          ],
+          "heading": "3. Interne Weiterleitung an die Geschäftsführung, 24.03.2026, 08:49 Uhr"
+        }
+      ],
+      "attachments": [
+        "V32",
+        "V33"
+      ],
+      "signature": "Jule Brandt; automatische Bestätigung"
+    },
+    {
+      "id": "V35",
+      "date": "2026-03-24",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Anhörung des Betriebsrats zur Kündigung von Lisa Muster",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Betriebsrat der Uferwerk Verlag GmbH, Cem Aydin",
+      "reference": "BR-Anhörung / Lisa Muster / 24.03.2026",
+      "subject": "Ordentliche betriebsbedingte Kündigung, beabsichtigter Zugang 31.03.2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrter Herr Aydin, wir hören den Betriebsrat zur beabsichtigten ordentlichen Kündigung des Arbeitsverhältnisses mit Frau Lisa Muster, geboren am 19.07.1982, wohnhaft Rheinsteig 8, 78462 Konstanz, an. Frau Muster ist seit dem 01.03.2008 unbefristet beschäftigt. Sie arbeitet regelmäßig 40 Stunden an fünf Tagen als Grafikdesignerin und erhält 5.400 EUR brutto Grundgehalt monatlich. Eine zusätzliche Jahresleistung ist nicht garantiert. Sie ist verheiratet und hat zwei unterhaltsabhängige Kinder. Eine Schwerbehinderung, Gleichstellung oder laufende Elternzeit ist uns nicht angezeigt.",
+            "Die Kündigung soll am 30.03.2026 unterzeichnet und am 31.03.2026 durch Boten übergeben werden. Unter Berücksichtigung der vertraglichen Frist von sechs Monaten zum Monatsende ist die Beendigung zum 30.09.2026 beabsichtigt. Ab 01.04.2026 soll Frau Muster unwiderruflich unter Fortzahlung der vertraglichen Vergütung freigestellt werden. Die sechsmonatige Frist ist eine Kündigungsfrist und wird hier nicht als behördliche Entlassungssperre behandelt."
+          ],
+          "heading": "1. Person und vorgesehene Erklärung"
+        },
+        {
+          "paragraphs": [
+            "Die Geschäftsführung hat am 10.02.2026 die Aufhebung sämtlicher 15 Designerstellen beschlossen. Standardisierte Gestaltung und Varianten werden künftig über Rasterstrom erstellt. Die verbleibenden Kontrollen, Kundenanpassungen und Freigaben werden nach dem vorgesehenen Ablauf in den fortbestehenden Funktionen durchgeführt. Die Stelle von Frau Muster gehört zu den vollständig aufgehobenen Designerstellen. Ihre bisherigen Projekte werden bis zum 31.03.2026 übergeben. Die Kündigung beruht nicht auf einer Beanstandung ihres Verhaltens oder ihrer Leistung.",
+            "Das System liefert Vorlagen, keine eigenständig verbindliche fachliche Freigabe. Herr Falk bleibt in der Produktionskoordination für die Organisation von Ausnahmen zuständig. Die Arbeitgeberin geht davon aus, dass hierdurch keine bisherige Designerstelle weiterbesteht. Eine personenbezogene Messung der künftig verbleibenden Kontrollzeit ist nicht vorgenommen worden; die Planannahme stützt sich auf die Standardisierung der wiederkehrenden Produkte und die beschlossene Aufgabenverteilung."
+          ],
+          "heading": "2. Betrieblicher Grund"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster hat sich am 06.03.2026 für Sales Operations interessiert und eine Beschäftigung im Vertrieb verlangt. Sie war vom 01.04.2020 bis 31.12.2020 dort eingesetzt. Der Personalakte zufolge hat sie Standardvorgänge selbst bearbeitet; Spezialfälle, insbesondere EDI und komplexe Retouren, gehörten nicht zu ihrem eigenständigen Umfang. Seit Januar 2021 liegt ihr Tätigkeitsschwerpunkt wieder in der Gestaltung. Der Vertrag erlaubt vergleichbare kaufmännische Tätigkeiten im Betrieb Konstanz bei unverändertem Entgelt.",
+            "Nach unserer Bewertung unterscheiden sich die aktuellen Vertriebsstellen von der Designfunktion in den vorausgesetzten kaufmännischen Erfahrungen. Wir haben deshalb keine funktionsübergreifende Sozialauswahl mit den sechs von Frau Muster genannten Vertriebsbeschäftigten durchgeführt. Der dazu übermittelte Personalauszug liegt dem Betriebsrat vor. Innerhalb der Gruppe der 15 Designerstellen werden alle Stellen aufgehoben. Die Stelle Sales Operations ist durch Vertrag vom 18.03.2026 extern verbindlich vergeben; Beginn ist der 01.04.2026. Andere freie geeignete Arbeitsplätze sind nach unserer Prüfung nicht vorhanden. Ein praktischer Eignungsversuch mit Frau Muster wurde für diese Stelle nicht durchgeführt."
+          ],
+          "heading": "3. Andere Beschäftigung und Sozialauswahl"
+        },
+        {
+          "paragraphs": [
+            "Die allgemeine Konsultation und Ihre Stellungnahme vom 23.03.2026 sind uns bekannt. Die Anzeige an die Agentur für Arbeit wurde am 23.03.2026 übermittelt; die gesonderte Ergänzungsübersendung vom 24.03.2026 ist unter derselben Kennung bestätigt. Wir bitten um Ihre Stellungnahme zur hier beabsichtigten Einzelkündigung. Bitte teilen Sie uns etwaige unzutreffende Personaldaten unverzüglich mit.",
+            "Empfang: am 24.03.2026 um 11:05 Uhr im Betriebsratsbüro durch Cem Aydin bestätigt. Übergeben wurden dieses Schreiben und die im beigefügten Verzeichnis genannten Unterlagen. Der Empfang enthält keine Zustimmung. Die Personalabteilung soll mit dem Ausspruch bis zum Eingang der Stellungnahme beziehungsweise dem Abschluss des Anhörungsverfahrens warten."
+          ],
+          "heading": "4. Verfahren und Empfang"
+        }
+      ],
+      "attachments": [
+        "V05",
+        "V17",
+        "V20",
+        "V23",
+        "V26",
+        "V28",
+        "V30",
+        "V31",
+        "V32",
+        "V33",
+        "V34"
+      ],
+      "signature": "Jule Brandt, für die Arbeitgeberin; Empfang Cem Aydin"
+    },
+    {
+      "id": "V36",
+      "date": "2026-03-27",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Widerspruch des Betriebsrats gegen die Kündigung von Lisa Muster",
+      "sender": "Betriebsrat der Uferwerk Verlag GmbH, Cem Aydin",
+      "recipient": "Uferwerk Verlag GmbH, Dr. Mara Ufer und Jule Brandt",
+      "reference": "BR-Beschluss LM / 27.03.2026",
+      "subject": "Ihre Anhörung vom 24.03.2026 – Lisa Muster",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Ufer, sehr geehrte Frau Brandt, der Betriebsrat hat in seiner Sitzung vom 27.03.2026 die beabsichtigte Kündigung von Frau Lisa Muster beraten und beschlossen, ihr zu widersprechen. Die Angaben zur Person und zum bisherigen Arbeitsverhältnis sind nach unserem Kenntnisstand zutreffend. Nicht nachvollziehbar ist für uns, warum ein anderer kaufmännischer Einsatz und die Berücksichtigung der sozialen Daten außerhalb der heutigen Designzuordnung von vornherein ausgeschlossen werden.",
+            "Die Arbeitgeberin trägt die Aufhebung aller Designerstellen als Organisationsentscheidung vor. Der Betriebsrat stützt seinen Widerspruch nicht darauf, dass ein bestimmtes Gestaltungsprogramm weiter benutzt werden müsse. Entscheidend sind aus unserer Sicht die im Betrieb fortbestehenden Aufgaben und die tatsächlichen Fähigkeiten der betroffenen Beschäftigten."
+          ],
+          "heading": "1. Stellungnahme und Beschluss"
+        },
+        {
+          "paragraphs": [
+            "Frau Muster hat 2020 über neun Monate im Vertriebsinnendienst mitgearbeitet und Standardkunden selbst betreut. Dies ist durch die damalige Vereinbarung und den Abschlussvermerk belegt. Ihr Vertrag sieht vergleichbare kaufmännische Aufgaben in Konstanz bei unverändertem Entgelt vor. Dass einzelne heutige Spezialfälle nicht ohne Einweisung bearbeitet werden können, beantwortet nicht die Frage, ob ein Einsatz nach einer zumutbaren Einarbeitung möglich wäre. Frau Muster hat hierzu ausdrücklich Bereitschaft erklärt.",
+            "Die im März ausgeschriebene Stelle Sales Operations betrifft nach dem uns zugänglichen Profil Sachbearbeitung und keine Führungsfunktion. Für den extern eingestellten Bewerber ist eine mehrwöchige Einweisung vorgesehen. Frau Muster wurde vor Abschluss des externen Vertrags nicht praktisch erprobt. Die Arbeitgeberin verweist jetzt darauf, dass die Stelle bereits vergeben sei. Der Betriebsrat hält die vorherige Behandlung der internen Interessenbekundung für unzureichend. Ob sämtliche einzelnen Spezialthemen in derselben Zeit vermittelt werden können, kann der Betriebsrat ohne weitere fachliche Auskunft nicht abschließend beurteilen."
+          ],
+          "heading": "2. Andere Tätigkeit und Einarbeitung"
+        },
+        {
+          "paragraphs": [
+            "Im fortbestehenden Vertrieb arbeiten Beschäftigte mit erheblich kürzerer Betriebszugehörigkeit und nach dem Personalauszug überwiegend geringeren Unterhaltslasten. Frau Muster ist seit 18 Jahren im Betrieb und unterhält zwei Kinder. Die Arbeitgeberin hat keine funktionsübergreifende Gewichtung vorgenommen, sondern bereits den Vergleich der Tätigkeiten abgelehnt. Wir verlangen, die konkrete Austauschbarkeit und nötige Einarbeitung zu prüfen, bevor eine Entscheidung allein anhand der bisherigen Abteilungsnamen getroffen wird.",
+            "Eine vollständige eigene Rangfolge sämtlicher Vertriebsbeschäftigter hat der Betriebsrat nicht erstellt. Uns fehlen dazu unter anderem die abschließenden Aufgabenabgrenzungen und die fachliche Bewertung der einzelnen Einsatzmöglichkeiten. Wir haben diese Fragen in den Beratungen gestellt. Der Widerspruch bezieht sich deshalb auf die unterlassene konkrete Prüfung und auf die bekannte freie Stelle vor ihrer externen Besetzung; er enthält keine Zusage, dass Frau Muster ohne jede Einweisung jede Vertriebsstelle übernehmen kann."
+          ],
+          "heading": "3. Soziale Gesichtspunkte und verbleibende Fragen"
+        },
+        {
+          "paragraphs": [
+            "Wir bitten, die Kündigung nicht auszusprechen und die Möglichkeiten eines anderen Einsatzes mit Frau Muster und dem Betriebsrat zu besprechen. Dieser Widerspruch ist von der allgemeinen Konsultationsstellungnahme vom 23.03.2026 zu unterscheiden. Er betrifft die individuelle Kündigung von Frau Muster. Eine Zustimmung zu anderen Einzelkündigungen wird hiermit nicht erklärt.",
+            "Der Beschluss wurde am 27.03.2026 gefasst. Das unterschriebene Schreiben wurde Frau Brandt am selben Tag um 13:40 Uhr im Personalbüro übergeben. Eine Kopie ist für Frau Muster bestimmt."
+          ],
+          "heading": "4. Übermittlung"
+        }
+      ],
+      "attachments": [
+        "V17",
+        "V20",
+        "V27",
+        "V28",
+        "V30",
+        "V31",
+        "V35"
+      ],
+      "signature": "Cem Aydin, Betriebsratsvorsitzender, eigenhändige Unterschrift"
+    },
+    {
+      "id": "V37",
+      "date": "2026-03-30",
+      "kind": "letter",
+      "brand": "employer",
+      "title": "Ordentliche Kündigung des Arbeitsverhältnisses",
+      "sender": "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz",
+      "recipient": "Lisa Muster, Rheinsteig 8, 78462 Konstanz",
+      "reference": "UW-0831 / Kündigung 30.03.2026",
+      "subject": "Beendigung zum 30.09.2026 und Freistellung ab 01.04.2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster, hiermit kündigen wir das mit Ihnen seit dem 01.03.2008 bestehende Arbeitsverhältnis ordentlich aus betriebsbedingten Gründen zum 30.09.2026. Die Kündigung erfolgt wegen der von der Geschäftsführung beschlossenen Aufhebung Ihrer Designerstelle. Die vertragliche Kündigungsfrist von sechs Monaten zum Monatsende ist bei einem Zugang im März berücksichtigt.",
+            "Der Betriebsrat ist angehört worden. Er hat der beabsichtigten Kündigung mit Schreiben vom 27.03.2026 widersprochen. Eine Abschrift dieses Widerspruchs fügen wir bei. Wir halten ungeachtet des Widerspruchs an der Entscheidung fest. Eine Abfindungszusage oder ein Angebot nach § 1a KSchG wird mit diesem Schreiben nicht abgegeben.",
+            "Wir stellen Sie mit Wirkung ab dem 01.04.2026 bis zur Beendigung des Arbeitsverhältnisses unwiderruflich von der Arbeitsleistung frei. Die Freistellung erfolgt unter Fortzahlung Ihrer vertraglichen Vergütung. Wir berufen uns hierfür auf Ziffer 14 des Arbeitsvertrags. Eine bestimmte Anrechnung von Erholungsurlaub oder Zeitguthaben wird mit diesem Schreiben nicht erklärt. Über noch offene Salden und die Schlussabrechnung erhalten Sie eine gesonderte Mitteilung.",
+            "Bitte stimmen Sie die Rückgabe der Arbeitsmittel mit Frau Brandt ab. Soweit bis zum Beginn der Freistellung noch eine Übergabe möglich ist, verwenden Sie dafür die bereits vorbereitete Projektliste. Für einen später erforderlichen Abgabetermin der Geräte werden wir eine zumutbare Vereinbarung treffen; eine laufende Arbeitspflicht wird damit nicht begründet. Auf Wunsch erteilen wir Ihnen ein qualifiziertes Zeugnis und die erforderlichen Bescheinigungen.",
+            "Bitte beachten Sie die gesetzlichen Meldepflichten gegenüber der Agentur für Arbeit. Für die gerichtliche Überprüfung einer Kündigung bestehen kurze gesetzliche Fristen. Wir empfehlen Ihnen, sich bei Bedarf rechtzeitig beraten zu lassen. Mit freundlichen Grüßen"
+          ]
+        }
+      ],
+      "attachments": [
+        "V36"
+      ],
+      "signature": "Dr. Mara Ufer, Geschäftsführerin – eigenhändige Originalunterschrift"
+    },
+    {
+      "id": "V38",
+      "date": "2026-03-31",
+      "kind": "memo",
+      "brand": "neutral",
+      "title": "Botenvermerk, Empfangsnotiz und persönliche Anschlussmail",
+      "sender": "Hannes Seifert, Mitarbeiter Logistik Uferwerk Verlag GmbH; Lisa Muster",
+      "recipient": "Personalakte; private Unterlagen Lisa Muster",
+      "reference": "Zugang UW-0831 / 31.03.2026 10:42 Uhr",
+      "subject": "Übergabe des Kündigungsoriginals am 31.03.2026 um 10:42 Uhr",
+      "sections": [
+        {
+          "paragraphs": [
+            "Ich, Hannes Seifert, habe am 31.03.2026 im Personalbüro von Frau Brandt ein offenes, von Dr. Mara Ufer eigenhändig unterschriebenes Kündigungsschreiben an Frau Lisa Muster erhalten. Ich habe die Adressatin, das Datum 30.03.2026, die Beendigung zum 30.09.2026 und die Freistellung ab 01.04.2026 vor dem Verschließen selbst gelesen. Als Anlage lag die Abschrift des Betriebsratswiderspruchs vom 27.03.2026 bei. Das Papier wurde in meiner Anwesenheit in einen Umschlag an Frau Muster, Rheinsteig 8, 78462 Konstanz, gelegt und verschlossen.",
+            "Um 10:42 Uhr habe ich den Umschlag an der Wohnungstür Rheinsteig 8 persönlich an Frau Muster übergeben. Sie ist mir aus dem Betrieb bekannt. Sie hat den Umschlag angenommen und gesagt: „Ich nehme ihn entgegen. Einverstanden bin ich damit nicht.“ Eine Unterschrift als Zustimmung habe ich nicht verlangt. Auf meinem mitgeführten Übergabebogen habe ich unmittelbar danach die Uhrzeit eingetragen. Ich habe den Umschlag nicht nur in den Briefkasten geworfen.",
+            "Ich habe an diesem Vormittag auch Kündigungen an weitere Personen aus der Gestaltung überbracht. Nach der Einsatzliste der Personalabteilung waren alle 15 Übergaben für den 31.03.2026 vorgesehen. Zu den anderen Übergaben führe ich eigene Vermerke; dieser Vermerk bezieht sich nur auf Frau Muster. Zur Entscheidung über die Kündigung und zum Verfahren bei der Agentur für Arbeit kann ich aus eigener Wahrnehmung nichts sagen."
+          ],
+          "heading": "1. Botenvermerk vom 31.03.2026"
+        },
+        {
+          "paragraphs": [
+            "Der Bote Hannes war um 10:42 Uhr an der Tür. Ich hatte heute einen abgestimmten freien Vormittag und war zu Hause. Im Umschlag waren das von Mara unterschriebene Kündigungsschreiben und der Widerspruch des Betriebsrats. Ich habe alles nach dem Öffnen vollständig fotografiert und die Originale in die blaue Mappe gelegt. Die Kündigung soll zum 30. September wirken. Ab morgen soll ich nicht mehr arbeiten, obwohl ich weiter bezahlt werden soll.",
+            "Die Mail zu meiner Bewerbung im Vertrieb und die Rotationsunterlagen habe ich bereits in meinem persönlichen Personalordner gespeichert. Ich möchte klären lassen, ob ich wirklich nur wegen der bisherigen Abteilungszuordnung ausscheide. Ich habe im März mehrfach gesagt, dass ich eine andere Aufgabe übernehmen und mich einarbeiten würde. Eine Zusage zum Verzicht auf Schritte habe ich weder dem Boten noch der Personalabteilung gegeben."
+          ],
+          "heading": "2. Eigene Notiz von Lisa Muster, 31.03.2026, 11:15 Uhr"
+        },
+        {
+          "paragraphs": [
+            "Von: lisa.muster@post.example. An: thomas.muster@post.example. Betreff: Der Brief ist da. Die Kündigung ist heute gekommen. Ich bin bis Ende September bezahlt, soll aber ab morgen nicht mehr arbeiten. Mir macht gerade am meisten Angst, dass ich nach 18 Jahren so dargestellt werde, als könnte ich außer Layout nichts anderes. Du erinnerst dich an die neun Monate im Vertrieb; damals habe ich die Händler angerufen und die Bestellungen selbst gemacht.",
+            "Bitte lass uns heute Abend in Ruhe die nächsten Monate planen. Ich möchte den Kindern erst etwas sagen, wenn wir nicht beide nur auf den Brief starren. Für Finns Fahrt und Milas Betreuung müssen wir jetzt nichts überstürzt streichen. Ich werde mit den Unterlagen anwaltlichen Rat einholen und die Fristen klären. Die Sachen aus dem Büro gebe ich gegen Liste zurück; ich werde keine Kundendaten privat mitnehmen. Die Unterlagen zu meinem eigenen Vertrag und meiner Bewerbung habe ich hier."
+          ],
+          "heading": "3. Lisa Muster an Thomas Muster, 31.03.2026, 12:06 Uhr"
+        }
+      ],
+      "attachments": [
+        "V28",
+        "V36",
+        "V37"
+      ],
+      "signature": "Hannes Seifert, eigenhändig; Lisa Muster, eigene Notiz und Mail"
+    }
+  ]
+}
