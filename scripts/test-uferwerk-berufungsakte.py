@@ -6,9 +6,11 @@ from io import BytesIO
 import json
 from pathlib import Path
 import re
+import unicodedata
 import zipfile
 
 from pypdf import PdfReader
+import pdfplumber
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "arbeitsrecht-kuendigungsschutzklagewerkstatt"
@@ -31,7 +33,7 @@ def check():
     require(hashlib.sha256(archive_path.read_bytes()).hexdigest() == inventory["archive_sha256"], "Archiv nicht synchron")
     require(inventory["format"] == "pdf-zip-only-user-request", "Ausdrückliche Formatwahl fehlt")
     documents = []
-    for entry in inventory["sources"]:
+    for entry in inventory["sources"] + inventory["production_sources"]:
         require(hashlib.sha256((ROOT / entry["path"]).read_bytes()).hexdigest() == entry["sha256"],
                 "PDF-Bestand nicht aus aktuellem Quellenstand: " + entry["path"])
     for part in ("vorgeschichte", "prozess", "nachurteil"):
@@ -40,6 +42,7 @@ def check():
     require(len(by_id) == len(documents) == inventory["documents"], "Quellenbestand")
     require(len(documents) >= 80 and inventory["pages"] > 100, "Umfang bleibt hinter der bestellten Lebens- und Prozessakte zurück")
     pdf_texts = {}
+    body_texts = {}
     with zipfile.ZipFile(archive_path) as archive:
         names = archive.namelist()
         require(archive.testzip() is None, "Beschädigtes ZIP")
@@ -59,6 +62,11 @@ def check():
             require(len(reader.pages) == entry["pages"], "Seitenzahl: " + entry["id"])
             content = "\n".join(page.extract_text() or "" for page in reader.pages)
             pdf_texts[entry["id"]] = content
+            with pdfplumber.open(BytesIO(payload)) as layout:
+                body_texts[entry["id"]] = "\n".join(
+                    page.crop((60, 58, page.width - 45, page.height - 62)).extract_text(x_tolerance=2, y_tolerance=3) or ""
+                    for page in layout.pages)
+
             pages += len(reader.pages)
             require(all((page.extract_text() or "").strip() for page in reader.pages), "Leere PDF-Seite")
             require("Diese Testakte wurde" not in content and "This test case file" not in content, "Hinweis im Aktenstück")
@@ -70,6 +78,47 @@ def check():
         require(pages + len(index.pages) == inventory["pages"], "Gesamtseitenzahl")
         index_text = "\n".join(page.extract_text() or "" for page in index.pages)
         require(all(entry["id"] in index_text for entry in inventory["files"]), "Aktenverzeichnis unvollständig")
+    # Inhaltserhalt über den Satz hinweg: Absatztext darf durch Gattungsprofile
+    # oder Umbrüche nicht verschwinden. Das gesondert gesetzte Rubrum wird
+    # stattdessen anhand seiner entscheidenden Identitätsdaten geprüft.
+    def normalize(text):
+        return re.sub(r"[^a-zäöüß0-9]", "", unicodedata.normalize("NFKC", text).lower())
+    for doc in documents:
+        rendered = normalize(body_texts[doc["id"]])
+        for section in doc["sections"]:
+            for paragraph in section.get("paragraphs", []):
+                if doc["kind"] == "email" and paragraph.startswith("Gesendet:"):
+                    sent = re.match(r"Gesendet:\s*(.+?\b\d{2}:\d{2}(?:\s*Uhr)?)(.*)", paragraph, re.S)
+                    if sent and sent[2].strip(" .\n"):
+                        require(all(normalize(value) in rendered for value in sent.groups()), "Inline-Mailtext verloren: " + doc["id"])
+                        continue
+                if doc["id"] == "N10":
+                    fields = re.match(r"Von: (.*?)\. An: (.*?)\. Betreff: (.*?)\. Text: (.*)", paragraph, re.S)
+                    if fields:
+                        require(all(normalize(value) in rendered for value in fields.groups()), "Mailfeld beim Satz verloren: N10")
+                        continue
+                require(normalize(paragraph) in rendered, "Absatz beim Satz verloren: " + doc["id"] + " / " + paragraph[:65])
+    contract = by_id["V05"]
+    require(len(contract["sections"]) == 20, "Vertragsgliederung verändert")
+    require(sum(len(p.split()) for sec in contract["sections"] for p in sec.get("paragraphs", [])) >= 3500,
+            "Vertragsvertiefung fehlt")
+    for doc_id, minimum in {"P01": 12000, "P10": 14000, "P13": 18000, "P15": 13000, "P21": 11000, "P27": 65000}.items():
+        require(sum(len(p) for sec in by_id[doc_id]["sections"] for p in sec.get("paragraphs", [])) >= minimum,
+                "Bestellte Vertiefung fehlt: " + doc_id)
+    ledger = json.loads((ROOT / "scripts/data/uferwerk-quellen-vertiefung.json").read_text())
+    require(len([entry for entry in ledger if entry["type"] == "literatur"]) == 5, "Literaturledger unvollständig")
+    require(all(entry.get("url") and entry.get("pinpoint") and entry.get("limit") and entry.get("license/access") for entry in ledger),
+            "Quellenstatus oder Aussagegrenze fehlt")
+    for doc in documents:
+        content = " ".join(p for sec in doc["sections"] for p in sec.get("paragraphs", []))
+        for reference, earliest in (("6 AZR 152/22", "2026-04-24"), ("6 AZR 157/22", "2026-04-28"), ("6 AZR 7/26", "2026-08-11")):
+            if doc["date"] < earliest:
+                require(not re.search(re.escape(reference) + r".{0,40}Rn\.", content),
+                        "Volltextrandnummer vor Bereitstellung: " + doc["id"] + " / " + reference)
+    for value in ("Lisa Muster", "Uferwerk Verlag GmbH", "Dr. Johanna Falkenhorst", "Caspar Finley von Knigge", "Hedwig Sky Pfefferle", "Ottokar Finn Leicht"):
+        require(value in pdf_texts["P27"], "Unvollständiges Rubrum: " + value)
+    require("1. Entscheidungsformel" in pdf_texts["P27"] and "2. Tatbestand" in pdf_texts["P27"] and "3. Entscheidungsgründe" in pdf_texts["P27"],
+            "Urteilsaufbau nicht synchron")
     all_text = "\n".join(pdf_texts.values())
     require("Arbeitsgericht Konstanz" not in all_text, "Nicht existierendes Gericht")
     require("Kammern Radolfzell" in all_text and "Kammern Freiburg" in all_text, "Gerichtszuordnung fehlt")
