@@ -92,7 +92,7 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 
 ## 1.6. Muster gegen Uferwerk - Berufungsakte
 
-93 Aktenstücke und ein Aktenverzeichnis, 94 PDFs und 155 Seiten. Vom Arbeitsvertrag 2008 über die vollständige erste Instanz bis zur Berufungseinlegung und Mandantinnenkorrespondenz nach dem Urteil. Bearbeitungsstand: 30.10.2026. [Fallbeschreibung und Benutzung](uferwerk-berufung/README.md). Diese Bestellung wird ausschließlich als PDF-ZIP mit Aktenverzeichnis bereitgestellt.
+93 Aktenstücke und ein Aktenverzeichnis, 94 PDFs und 185 Seiten. Vom Arbeitsvertrag 2008 über die vollständige erste Instanz bis zur Berufungseinlegung und Mandantinnenkorrespondenz nach dem Urteil. Bearbeitungsstand: 30.10.2026. [Fallbeschreibung und Benutzung](uferwerk-berufung/README.md). Diese Bestellung wird ausschließlich als PDF-ZIP mit Aktenverzeichnis bereitgestellt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
