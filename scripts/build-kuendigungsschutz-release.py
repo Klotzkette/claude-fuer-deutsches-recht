@@ -10,8 +10,8 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 NAME = "arbeitsrecht-kuendigungsschutzklagewerkstatt"
-VERSION = "1.1.0"
-STAMP = (2026, 10, 22, 12, 0, 0)
+VERSION = "1.2.0"
+STAMP = (2026, 11, 1, 12, 0, 0)
 
 
 def build(dist):
@@ -67,13 +67,15 @@ def build(dist):
             shutil.copyfile(plugin / "testakte/downloads" / filename, dist / filename)
     for name in ("mandantengespraech-seewerk.md", "seewerk-quellen-und-grenzen.md"):
         shutil.copyfile(plugin / "referentenmaterial" / name, dist / name)
+    uferwerk = "testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip"
+    shutil.copyfile(plugin / "testakte/downloads" / uferwerk, dist / uferwerk)
     paths = sorted(dist.iterdir())
-    if len(paths) != 35:
+    if len(paths) != 36:
         raise ValueError("Abweichender Releaseumfang")
     (dist / "checksums-sha256.txt").write_text("".join(
         hashlib.sha256(path.read_bytes()).hexdigest() + "  " + path.name + "\n"
         for path in paths), encoding="utf-8")
-    print(f"Kündigungsschutzwerkstatt {VERSION}: 36 geprüfte Release-Dateien in {dist}")
+    print(f"Kündigungsschutzwerkstatt {VERSION}: 37 geprüfte Release-Dateien in {dist}")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "arbeitsrecht-kuendigungsschutzklagewerkstatt",
-  "reviewed_on": "2026-10-22",
+  "reviewed_on": "2026-11-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/kschg/BJNR004990951.html",
@@ -525,46 +525,79 @@
           ]
         }
       ]
+    },
+    {
+      "id": "berufung-gegen-design-vertrieb-urteil",
+      "target_skill": "weiterbeschaeftigung-lohn-rechtsmittel",
+      "request": "Lisa Muster hat die Kündigungsschutzklage verloren. Zustellung vollständiges Urteil am 14.10.2026, Berufung fristwahrend am 30.10. eingelegt. Das Gericht verneint Vergleichbarkeit mit Vertrieb und hält eine AA-Eingangsbestätigung für genügend. Am 21. und 23.10. erhält die Mandantin trotz Anfragen im Juli/September CRM- und BR-Belege; einen bereits im März zugesandten Einarbeitungsplan findet sie erst jetzt. Prüfen Sie Erfolgsaussichten und verfassen Sie nur bei entsprechendem Auftrag die konkrete Berufungsbegründung.",
+      "input_files": [],
+      "deliverables": [
+        "berufungspruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "frist-urteil",
+          "text": "Begründungsfrist 14.12.2026 aus Zustellung, nicht aus Einlegung, kontrollieren; jeden tragenden Urteilsgrund samt Entscheidungserheblichkeit und Aktenbeleg bearbeiten.",
+          "deliverables": [
+            "berufungspruefung.md"
+          ]
+        },
+        {
+          "id": "noven",
+          "text": "Bisherige Behauptung, späteren Beleg und verspätet gefundenen vorhandenen Anhang unterscheiden; abgestufte Zulassung nach Paragraf 67 ArbGG statt schematischem Paragraf 531 ZPO.",
+          "deliverables": [
+            "berufungspruefung.md"
+          ]
+        },
+        {
+          "id": "inhalt",
+          "text": "Weisungsrecht, tatsächliche Vertriebstätigkeit, freie Stelle und 140/14/30-Schwelle trennen; fehlende/verfrühte Anzeige von nicht aufgabenhinderndem Detailfehler unterscheiden. Keine Erfolgsgarantie oder fingierte Beweise.",
+          "deliverables": [
+            "berufungspruefung.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kompakter Kündigungsschutzablauf mit konkreten Fristen, Beweisfragen und Verfahrenszweigen.",
+    "reason": "Individuell redaktionell geprüft: kompakte Kündigungsschutz- und Berufungsbearbeitung mit eigenständiger Fristen-, Urteils- und Novenprüfung; CRLF-Bytebudget eingehalten.",
     "changes": [
-      "Jede Kündigung gesondert sichern",
-      "Gezielte Rückfragen mit Entwurfsfortsetzung",
-      "Anzeigeentscheidungen 2026 differenzieren"
+      "Konkrete Berufungsangriffe statt Wiederholung der Klage",
+      "Paragraf 67 ArbGG und richtige Empfänger-/Fristenkontrolle",
+      "Vergleichbarkeit, freie Stellen und 140/14-Schwelle getrennt"
     ],
-    "sha256": "3499b96b578ea8cc7d71b90d45340a5d95020661825565d3103baa9b9ca9cf68"
+    "sha256": "509a13bce6cf42399f183ae22ef1d207ac9683b3291712ba00c9900d810a9657"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Eigenständiger ausführlicher Leitfaden mit Verzweigungen für beide Parteien vom Zugang bis zur Umsetzung.",
+    "reason": "Individuell redaktionell geprüft: vollständiger Berufungspfad und amtlich abgeglichene Quellenkarten mit unterschiedlichen Veröffentlichungsständen; übrige Verfahrenszweige erhalten.",
     "changes": [
-      "Fristsicherung vor vollständiger Aktenaufnahme",
-      "Kündigungsgründe und Beteiligungen individuell bearbeiten",
-      "Vollständige Schriftsätze, Vergleich und Lohnfolgen"
+      "Jeden selbständig tragenden Urteilsgrund und dessen Erheblichkeit beantworten",
+      "Neue Mittel mit bisherigem Vortrag und Verfügbarkeitszeitpunkt nach Paragraf 67 ArbGG verbinden",
+      "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen"
     ],
-    "sha256": "f3b93f040d5c6d397909842dbe83339da6a53d2fa8e8524041301566185bf2eb"
+    "sha256": "cdf4195515dfcacff888859e49cbc6a3b74bcd22e6e916a2130caf4ca540ef42"
   },
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-22",
+    "reviewed_on": "2026-11-01",
     "verdict": "revised",
     "reason": "Hauptskill und eigenständiger Hauptproblem-Prompt führen den konkreten Auftrag bis zum bestellten Dokument.",
     "changes": [
       "Nur benötigte Fachskills laden",
       "Nach Antworten denselben Entwurf bearbeiten",
-      "Folgekündigungen mit neuen Anträgen erfassen"
+      "Folgekündigungen mit neuen Anträgen erfassen",
+      "Berufungsauftrag nach Urteil im bestehenden Mandat fortführen"
     ],
     "prompt_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md",
     "skill_path": "arbeitsrecht-kuendigungsschutzklagewerkstatt/skills/kuendigungsschutzmandat-steuern/SKILL.md",
-    "prompt_sha256": "ccb083a1c3016a1c704304afffd2af195888f3f676b401f3cd4659bb03649a29",
+    "prompt_sha256": "d3047f3d7ea26bed43b95c235e86609e59accc4a6f32e13201a037dd132e5b43",
     "skill_sha256": "470558b7c821af046f88389227f4c28caa58f6593ce559fb56f255a0dad652c2"
   },
   "prompt_editorial_review": {
-    "date": "2026-10-22",
-    "opening_change": "Kündigung, Klagefrist und bestellter Schriftsatz stehen vor technischen Einrichtungsfragen; passende Entscheidungsanker erscheinen im fachlichen Einstieg.",
+    "date": "2026-11-01",
+    "opening_change": "Konkretes Dokument einschließlich Berufung führt den Einstieg; vorhandene Akte zuerst lesen. Bisherige Klagesicherung und Entscheidungsanker bleiben erhalten.",
     "norms": [
       "Paragrafen 1, 2, 4 bis 7, 13, 17, 18 und 23 KSchG",
       "Paragrafen 130, 174, 180, 622, 623 und 626 BGB",
@@ -572,12 +605,16 @@
       "Paragrafen 167, 168 ff. und 178 SGB IX",
       "Paragraf 17 MuSchG und Paragraf 18 BEEG",
       "Paragrafen 12a, 46, 46c, 46g, 59, 61a, 64 und 66 ArbGG",
-      "Paragraf 46h ArbGG: Formfiktion fuer gerichtliche Schriftsatzerklaerungen"
+      "Paragraf 46h ArbGG: Formfiktion fuer gerichtliche Schriftsatzerklaerungen",
+      "Paragraf 67 ArbGG: abgestufte Zulassung neuer Angriffs- und Verteidigungsmittel",
+      "Paragraf 520 Absatz 3 ZPO in Verbindung mit Paragraf 64 Absatz 6 ArbGG; Paragrafen 139 und 286 ZPO"
     ],
     "remaining_limits": [
       "Redaktionelle Prüfung; keine behauptete Live-Ausführung in einer bestimmten Oberfläche",
       "Konkrete Zustellverfahren und aktuelle Änderungen am Mandatsstichtag erneut prüfen",
-      "Tarifrecht, Personalvertretungsrecht und medizinische Tatsachen fallbezogen ergänzen"
+      "Tarifrecht, Personalvertretungsrecht und medizinische Tatsachen fallbezogen ergänzen",
+      "5 AZR 37/25 und 9 AZR 11/26 nur nach amtlicher Pressemitteilung und Sitzungsergebnis; kein Volltext oder Randnummern behauptet",
+      "Die redaktionelle Prüfung und der Aktenbuild sind keine ausgeführten Modelltests der späteren Berufungsbegründung"
     ],
     "files": [
       "arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md",
@@ -682,6 +719,62 @@
         "source_status": "official_full_text",
         "application": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung.",
         "limit": "Konkrete Nichtzulassungsbeschwerde; kein allgemeines Verbot technischer Hilfen."
+      },
+      {
+        "citation": "BAG, Urteil vom 09.09.2010, 2 AZR 1045/08",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-1045-08/",
+        "source_status": "official_full_text",
+        "application": "Horizontale Vergleichbarkeit nach Vertrag, Fähigkeiten, Gleichwertigkeit und kurzer Einarbeitung.",
+        "limit": "Änderungskündigungsfall; keine Beförderungspflicht oder universelle Einarbeitungsdauer."
+      },
+      {
+        "citation": "BAG, Urteil vom 01.08.2024, 6 AZR 271/23",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-271-23/",
+        "source_status": "official_full_text",
+        "application": "Sämtliche selbständig tragenden Urteilsgründe konkret und entscheidungserheblich angreifen.",
+        "limit": "Eingruppierungsfall; Zulässigkeit ersetzt keine materielle Erfolgsaussicht."
+      },
+      {
+        "citation": "BAG, Beschluss vom 14.09.2026, 6 AZB 10/26",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azb-10-26/",
+        "source_status": "official_full_text",
+        "application": "Richtiges Gerichtspostfach und Eingang kontrollieren.",
+        "limit": "Fristablauftag, beBPO der LAG-Gerichtsverwaltung ohne gemeinsame Eingangsstelle; kein allgemeines Weiterleitungsverbot."
+      },
+      {
+        "citation": "BAG, Urteil vom 25.03.2026, 5 AZR 108/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/",
+        "source_status": "official_full_text",
+        "application": "Pauschale formularmäßige Freistellungsklausel und konkrete Arbeitgeberinteressen getrennt prüfen.",
+        "limit": "Keine Unzulässigkeit jeder Freistellung; Aufhebung und Zurückverweisung."
+      },
+      {
+        "citation": "BAG, Urteil vom 02.06.2026, 1 AZR 166/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-azr-166-25/",
+        "source_status": "official_full_text",
+        "application": "Fehlende Ungewissheit bei bekannter oder berechenbarer Insolvenzsozialplanabfindung.",
+        "limit": "Kein genereller Ausschluss von Auskunft nach Paragraf 242 BGB."
+      },
+      {
+        "citation": "BAG, Urteil vom 29.01.2026, 8 AZR 49/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/",
+        "source_status": "official_full_text",
+        "application": "Konkrete Bewerbungsbenachteiligung und Rechtfertigung im Flughafen-Sicherheitsbereich.",
+        "limit": "Keine allgemeine Antwort auf alle Neutralitätsregeln oder Sicherheitsämter."
+      },
+      {
+        "citation": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25",
+        "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
+        "source_status": "official_press_release",
+        "application": "Auskunft über Vermittlungsvorschläge von sekundärer Darlegung zu Bewerbungen trennen.",
+        "limit": "Nur amtliche Mitteilung und Sitzungsergebnis; keine Volltext-Randnummern."
+      },
+      {
+        "citation": "BAG, Urteil vom 06.10.2026, 9 AZR 11/26",
+        "url": "https://www.bundesarbeitsgericht.de/presse/elternzeit-nach-auszug-aus-dem-gemeinsamen-haushalt/",
+        "source_status": "official_press_release",
+        "application": "Bindung an Elternzeitverlangen trotz Trennung mit gesetzlichen Beendigungswegen.",
+        "limit": "Nur amtliche Mitteilung und Sitzungsergebnis; keine pauschale Unbeendbarkeit."
       }
     ]
   },

@@ -1,0 +1,770 @@
+{
+  "documents": [
+    {
+      "id": "N01",
+      "date": "2026-10-14",
+      "kind": "letter",
+      "brand": "employee_firm",
+      "title": "Übersendung des Urteils und Besprechung",
+      "sender": "RAin Dr. Johanna Falkenhorst",
+      "recipient": "Frau Lisa Muster\nRheinsteig 8\n78462 Konstanz",
+      "reference": "F26-041LM",
+      "subject": "Muster ./. Uferwerk Verlag GmbH - Urteil vom 8. Oktober 2026",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster,",
+            "heute ist uns das vollständig abgefasste Urteil des Arbeitsgerichts Villingen-Schwenningen, Kammern Radolfzell, vom 8. Oktober 2026 im Verfahren 7 Ca 87/26 zugestellt worden. Das Gericht hat unsere Anträge abgewiesen. Anbei erhalten Sie das Urteil und das Sitzungsprotokoll. Bitte lesen Sie beides vor unserem Gespräch am 16. Oktober um 10:00 Uhr.",
+            "Die Berufung muss spätestens am Montag, 16. November 2026, beim Landesarbeitsgericht eingehen. Die gesonderte Begründungsfrist endet am Montag, 14. Dezember 2026. Die Begründungsfrist läuft bereits seit Zustellung des vollständigen Urteils; sie beginnt nicht erst mit der Berufungseinlegung. Eine Verlängerung ist bislang weder beantragt noch bewilligt.",
+            "Bitte teilen Sie uns mit, ob Sie zunächst die Frist durch Einlegung der Berufung sichern lassen möchten. Für eine belastbare Einschätzung benötigen wir insbesondere Ihre Rückmeldung zu den im Urteil beschriebenen tatsächlichen Aufgaben und zu den Unterlagen, die Sie bisher nicht beschaffen konnten. Wir besprechen auch das Kostenrisiko der zweiten Instanz und Ihre Ziele. Eine sofortige Zustimmung zu einem Vergleich oder zu einer Rücknahme ist damit nicht verbunden.",
+            "Mit freundlichen Grüßen"
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin",
+      "attachments": [
+        "Urteil vom 08.10.2026",
+        "Sitzungsprotokoll vom 24.09.2026"
+      ]
+    },
+    {
+      "id": "N02",
+      "date": "2026-10-15",
+      "kind": "email",
+      "brand": "client",
+      "title": "Mandantinnenmail nach dem Urteil",
+      "sender": "Lisa Muster <lisa.muster@postfach.example>",
+      "recipient": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+      "reference": "F26-041LM",
+      "subject": "Das mit dem CRM stimmt so nicht",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 15.10.2026, 21:17 Uhr",
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "ich möchte nicht einfach aufgeben. In dem Urteil steht, ich hätte im Vertrieb 2020 nur Grafiken vorbereitet und keine eigenen Vorgänge bearbeitet. Ich habe für die Buchhandlungen Sommerfenster und Lesekai Angebote und Nachlieferungen angelegt, anfangs mit Nora neben mir, später selbst. Auch den monatlichen Bericht habe ich bei zwei Urlaubsvertretungen verschickt. Ich konnte keine Kundendaten löschen und keine Rabatte über zehn Prozent freigeben. Das konnte Paul Winter aber auch nicht.",
+            "Die Kinder fragen ständig, ob wir umziehen müssen. Mein Mann arbeitet weiterhin als Erzieher mit 30 Stunden. Unser Haushalt kann nicht dauerhaft nur von seinem Einkommen und dem Arbeitslosengeld leben. Ich will möglichst wieder eine feste Stelle und wäre auch im Vertrieb glücklich. Einen sicheren Arbeitsplatz würde ich einer kleinen Abfindung vorziehen. Über einen vernünftigen Vergleich können wir reden, aber bitte nichts ohne Rücksprache zusagen.",
+            "Nora hat mir im Sommer nicht antworten wollen, weil sie Ärger befürchtete. Gestern habe ich ihr das Urteil geschickt. Sie will nach alten Zugriffslisten schauen und mit mir sprechen. Den Zeugen Falk habe ich seit dem Termin nicht mehr erreicht. Die Geschäftsleitung hat ihm wohl gesagt, er solle nur mit der Personalabteilung reden.",
+            "Bitte sichern Sie die Frist. Zum Gespräch bringe ich meinen Kalender von 2020 und die Liste meiner bisherigen Bewerbungen mit. Freundliche Grüße, Lisa Muster"
+          ]
+        }
+      ],
+      "signature": "Lisa Muster"
+    },
+    {
+      "id": "N03",
+      "date": "2026-10-16",
+      "kind": "memo",
+      "brand": "employee_firm",
+      "title": "Besprechungsvermerk und Mandatsziele",
+      "sender": "RAin Dr. Johanna Falkenhorst",
+      "recipient": "Handakte Muster ./. Uferwerk",
+      "reference": "F26-041LM",
+      "subject": "Besprechung mit Lisa Muster, 16.10.2026, 10:00-11:10 Uhr",
+      "sections": [
+        {
+          "heading": "1. Auftrag und wirtschaftliche Situation",
+          "paragraphs": [
+            "Frau Muster beauftragt die fristwahrende Einlegung der Berufung. Über deren weitere Durchführung entscheidet sie nach Beratung über die Erfolgsaussichten und das Kostenrisiko. Ein Vergleich und eine Rücknahme sind nur nach gesonderter Rücksprache erlaubt. Frau Muster ist rechtsschutzversichert; eine Deckungsanfrage für die Berufungsinstanz soll gestellt werden. Sie möchte bei vertretbaren Aussichten weiterbeschäftigt werden, auch im Vertriebsinnendienst zu den bisherigen Arbeitsbedingungen.",
+            "Die Beschäftigung des Ehemanns besteht fort. Frau Muster hat keine neue Stelle. Seit 1. Oktober bezieht sie Arbeitslosengeld. Sie erhält kein Krankengeld, keine Rente und keinen Verdienst aus einer selbständigen Tätigkeit. Die Oktoberabrechnung des Arbeitslosengeldes wird nachgereicht. Die laufenden Haushaltsausgaben betragen nach eigener Aufstellung etwa 4.100 EUR monatlich; liquide Rücklagen bestehen für rund drei Monate."
+          ]
+        },
+        {
+          "heading": "2. Tatsächliche Rückfragen",
+          "paragraphs": [
+            "Frau Muster unterscheidet das Anlegen eines Kundenangebots, die Freigabe eines Sonderrabatts und die abschließende Rechnungsstellung. Ihre CRM-Rechte sollen die ersten beiden Schritte bis zur Rabattgrenze umfasst haben; die Rechnung wurde auch bei anderen Sachbearbeitern zentral erzeugt. Sie erinnert sich an die Vorgänge SO-2020-441 und SO-2020-586. Screenshots hat sie nicht mehr. In ihrer Wohnung liegen noch die Schulungsmappe und der Papierkalender mit Vertretungsterminen.",
+            "Das Gericht habe aus Seidels Schilderung der kaufmännischen Anforderungen einen zu allgemeinen Qualifikations- und Umschulungsbedarf abgeleitet. In der Abteilung gebe es auch spezialisierte Key-Account-Stellen. Frau Muster beansprucht deren Leitung nicht. Sie will im Gespräch mit Nora klären, welche Aufgaben Paul, Tim und Mira tatsächlich ausführen. Sie behauptet nicht, alle sechs Vergleichspersonen seien in jeder Hinsicht austauschbar."
+          ]
+        },
+        {
+          "heading": "3. Unterlagen und Verfügbarkeit",
+          "paragraphs": [
+            "Die Kanzlei hatte Frau Muster am 30. Juni und erneut am 1. September um erreichbare Zeugen und nähere CRM-Unterlagen gebeten. Frau Muster leitete die Anfrage am 1. Juli an Nora weiter; eine Antwort blieb aus. Nora ist gegenwärtig arbeitsfähig und möchte am 20. Oktober sprechen. Cem Aydin hat auf eine Anfrage vom 2. September bislang nur das BR-Widerspruchsschreiben übersandt. Er will jetzt nach den Sendedaten der Stellungnahme suchen. Die Vertriebsrotation und ihre Tätigkeiten wurden in den Schriftsätzen bereits vorgetragen; die Zugriffslisten liegen bisher nicht vor.",
+            "Frau Muster widerspricht zwei Formulierungen im Urteil. Die Anwältin wird die Angaben mit Protokoll und Schriftsätzen abgleichen. Eine fertige rechtliche Bewertung oder ein Auftrag zu einer zusätzlichen Zahlungsklage wird im heutigen Termin nicht festgehalten."
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin"
+    },
+    {
+      "id": "N04",
+      "date": "2026-10-16",
+      "kind": "letter",
+      "brand": "client",
+      "title": "Berufungsauftrag und Vollmacht",
+      "sender": "Lisa Muster",
+      "recipient": "FALKENHORST & FLOW\nDr. Johanna Falkenhorst\nSeestraße 18\n78464 Konstanz",
+      "reference": "F26-041LM",
+      "subject": "Auftrag zur Fristsicherung in der zweiten Instanz",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "ich beauftrage Sie, gegen das Urteil des Arbeitsgerichts Villingen-Schwenningen, Kammern Radolfzell, vom 8. Oktober 2026, 7 Ca 87/26, für mich Berufung einzulegen. Die Berufung soll zunächst fristwahrend eingelegt werden. Die Begründung soll nach unserer weiteren Besprechung gesondert vorbereitet werden. Ich möchte zuvor Ihre Einschätzung der Erfolgsaussichten und des Kostenrisikos erhalten.",
+            "Ich bevollmächtige Sie zur Prozessführung in der Berufungsinstanz, zur Akteneinsicht, zum Empfang gerichtlicher Zustellungen und zur Korrespondenz mit meiner Rechtsschutzversicherung. Ein Vergleich, eine Berufungsrücknahme und ein Verzicht dürfen nur nach meiner ausdrücklichen Zustimmung erklärt werden. Sie dürfen Frau Nora Berg und Herrn Cem Aydin zu den von mir genannten Vorgängen befragen; bitte informieren Sie mich über deren Antworten.",
+            "Über die Möglichkeit, dass ich bei Unterliegen in zweiter Instanz auch die notwendigen Kosten der Gegenseite tragen muss, haben wir gesprochen. Der erstinstanzliche Streitwert von 21.600 EUR ist die vorläufige Berechnungsgrundlage. Eine feste Kostenzusage Ihrer Kanzlei oder eine Zusage des Versicherers ist damit nicht verbunden.",
+            "Konstanz, den 16. Oktober 2026"
+          ]
+        }
+      ],
+      "signature": "Lisa Muster\nUnterschrift in der Handakte"
+    },
+    {
+      "id": "N05",
+      "date": "2026-10-19",
+      "kind": "email",
+      "brand": "employee_firm",
+      "title": "Korrespondenz zur Zeugenanfrage",
+      "sender": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+      "recipient": "Nora Berg <nora.berg@postfach.example>",
+      "reference": "F26-041LM",
+      "subject": "Ihre eigenen Wahrnehmungen zur Vertriebsrotation 2020",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 19.10.2026, 09:20 Uhr",
+            "Sehr geehrte Frau Berg,",
+            "Frau Muster hat uns mitgeteilt, dass Sie zu ihrer Tätigkeit im Jahr 2020 Angaben machen können. Bitte schildern Sie ausschließlich Ihre eigenen Wahrnehmungen. Es geht insbesondere um das Anlegen von Angeboten und Aufträgen, die Vertretung einzelner Sachbearbeiter und den Einarbeitungsumfang. Soweit Sie sich nicht mehr erinnern, reicht diese Auskunft. Bitte verschaffen Sie sich keinen Zugang zu fremden Postfächern oder nicht freigegebenen Unterlagen.",
+            "Eine freiwillige Auskunft an uns ersetzt keine Zeugenaussage vor Gericht. Bitte teilen Sie mit, ob Sie für eine gerichtliche Vernehmung erreichbar sind. Eine Aussagevergütung wird weder angeboten noch vereinbart. Frau Muster hat uns die Kontaktaufnahme ausdrücklich gestattet.",
+            "Mit freundlichen Grüßen, Dr. Johanna Falkenhorst",
+            "Vorherige Nachricht, Lisa Muster an Nora Berg, 01.07.2026, 18:04 Uhr: Können Sie mir bitte sagen, ob Sie noch die Unterlagen aus unserer Rotation haben? Meine Anwältin braucht die echten Tätigkeiten und die Zugriffsrechte. Ich möchte Sie nicht unter Druck setzen; wenn es einfacher ist, kann die Kanzlei direkt fragen.",
+            "Erinnerung, Lisa Muster an Nora Berg, 02.09.2026, 17:46 Uhr: Die Verhandlung ist am 24. September. Wenn Sie nichts Schriftliches haben, hilft auch Ihre Erinnerung an meine Urlaubsvertretungen. Ich habe Ihre Daten der Anwältin genannt. Bitte melden Sie sich kurz."
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin"
+    },
+    {
+      "id": "N06",
+      "date": "2026-10-20",
+      "kind": "letter",
+      "brand": "client",
+      "title": "Schilderung der Kollegin Nora Berg",
+      "sender": "Nora Berg\nBachgasse 12\n78462 Konstanz",
+      "recipient": "FALKENHORST & FLOW\nDr. Johanna Falkenhorst",
+      "reference": "Muster ./. Uferwerk - Auskunft auf Ihre Anfrage",
+      "subject": "Zusammenarbeit mit Frau Muster im Jahr 2020",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "ich arbeite seit dem 1. Oktober 2019 im Vertriebsinnendienst des Uferwerk Verlags. Frau Muster hat von April bis Dezember 2020 neben mir gesessen und ab ungefähr der dritten Woche selbst Vorgänge angelegt. Ich habe die ersten Angebote mit ihr kontrolliert; nach etwa sechs Wochen ging es meist nur noch um einzelne Fragen. Im Juli hat sie Paul Winter drei Wochen vertreten, im Oktober mich zwei Wochen. Ich habe die E-Mails an die Buchhandlungen mitgelesen und einmal während meines Urlaubs zurückgerufen, weil eine Sonderauflage nicht im Katalog stand.",
+            "Frau Muster hat keine großen Rahmenverträge verhandelt. Paul Winter und ich tun das ebenfalls nicht. Über Sonderrabatte über zehn Prozent entscheidet Frau Seidel. Unsere Schulung auf das neue CRM dauerte 2023 zwei halbe Tage. Die Produktkenntnisse zu Sonderauflagen muss man sich daneben erarbeiten. Sechs Monate bis zur ersten selbständigen Bearbeitung halte ich für diese Sachbearbeitung nicht für eine passende Beschreibung. Bei Key Accounts und Export ist das anders.",
+            "Die alten Rechteübersichten habe ich aus meiner damaligen Schulungsmappe. Ich hatte die Ausdrucke 2020 mit Zustimmung meines damaligen Vorgesetzten zur Vertretungsorganisation erhalten. Ich habe keine aktuellen Personalunterlagen heruntergeladen. Sie erhalten die zweiseitige Rechteübersicht mit meinem handschriftlichen Vermerk und die alte Aufgabenliste. Die zugrunde liegenden technischen Rechte kann ich erklären; ob 2026 alles noch gleich ist, kann ich nicht garantieren.",
+            "Ich habe im Sommer nicht geantwortet. Mir war gesagt worden, dass sich alle Kolleginnen und Kollegen aus dem Verfahren heraushalten sollten. Ich hatte Angst um meine Stelle. Das war kein ausdrückliches Verbot des Gerichts und Frau Muster konnte mich nicht zu einer Antwort zwingen. Nach dem Urteil möchte ich meine Wahrnehmungen mitteilen. Für Rückfragen und eine gerichtliche Vernehmung stehe ich zur Verfügung."
+          ]
+        }
+      ],
+      "signature": "Nora Berg",
+      "attachments": [
+        "Rechteübersicht vom 15.04.2020",
+        "Vertretungsliste Juli/Oktober 2020"
+      ]
+    },
+    {
+      "id": "N07",
+      "date": "2026-10-21",
+      "kind": "table",
+      "brand": "employer",
+      "title": "CRM-Rechteübersicht und Vertretungsplan 2020",
+      "sender": "Uferwerk Verlag GmbH - Vertriebsorganisation",
+      "recipient": "Schulungsmappe Nora Berg / Kopie an Lisa Muster am 21.10.2026",
+      "reference": "SYS/CRM/2020-04-15, Papierausdruck aus Schulungsmappe",
+      "subject": "Rollenprofil SALES-INNEN / Vertretungen 2020",
+      "sections": [
+        {
+          "paragraphs": [
+            "Erstellt am 15.04.2020 durch die Vertriebsorganisation. Ausdruck durch Nora Berg am selben Tag. Handschriftlicher Vermerk vom 20.10.2026: Diese Übersicht lag in meiner Schulungsmappe. Ich habe Frau Muster im Juli und Oktober mit diesen Rechten arbeiten sehen. N. Berg."
+          ]
+        },
+        {
+          "table": {
+            "headers": [
+              "Nutzerin/Nutzer",
+              "Angebot und Auftrag",
+              "Rabattfreigabe",
+              "Kundenstamm / Rechnung"
+            ],
+            "rows": [
+              [
+                "Lisa Muster",
+                "Anlegen und Ändern; Profil SALES-INNEN",
+                "Bis 10 Prozent",
+                "Kontaktdaten pflegen; keine Löschung / keine Rechnungsbuchung"
+              ],
+              [
+                "Paul Winter",
+                "Anlegen und Ändern; Profil SALES-INNEN",
+                "Bis 10 Prozent",
+                "Kontaktdaten pflegen; keine Löschung / keine Rechnungsbuchung"
+              ],
+              [
+                "Nora Berg",
+                "Anlegen und Ändern; Profil SALES-INNEN",
+                "Bis 10 Prozent",
+                "Kontaktdaten pflegen; keine Löschung / keine Rechnungsbuchung"
+              ],
+              [
+                "Leonie Seidel",
+                "Anlegen und Freigeben; Profil SALES-LEAD",
+                "Bis 25 Prozent",
+                "Stammdaten ändern; keine Buchung"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "1. Vertretungsplan",
+          "paragraphs": [
+            "Vom 13.07. bis 31.07.2020 vertritt Lisa Muster Paul Winter in der Buchhandelsbetreuung Süd. Die Einarbeitung ist abgeschlossen. Frau Seidel bleibt für Sonderkonditionen zuständig. Vom 12.10. bis 23.10.2020 vertritt Lisa Muster Nora Berg für Bestellungen und Nachlieferungen im Bereich Sachbuch. Reklamationen mit Gutschriften werden an die Buchhaltung weitergeleitet.",
+            "Nachträgliche Bearbeitungsnotizen auf der im Oktober 2020 weitergeführten Schulungsmappe: Am 22.07.2020 Angebot SO-2020-441, Sommerfenster, 320 Exemplare, erstellt L. Muster, Rabattfreigabe L. Seidel. Am 15.10.2020 Nachlieferung SO-2020-586, Lesekai, 80 Exemplare, erfasst L. Muster, Rechnungslauf Buchhaltung. Personenbezogene Kundendaten sind auf dieser Schulungsübersicht nicht enthalten. Die Rechteübersicht wurde am 15. April ausgedruckt; die späteren Vertretungs- und Bearbeitungsvermerke wurden auf einem gesonderten Blatt der Mappe ergänzt."
+          ]
+        }
+      ],
+      "signature": "Vertriebsorganisation\nAbzeichnung der Kopie: Nora Berg, 20.10.2026"
+    },
+    {
+      "id": "N08",
+      "date": "2026-10-22",
+      "kind": "email",
+      "brand": "client",
+      "title": "Weitere Unterlagen und Herkunft der Dateien",
+      "sender": "Lisa Muster <lisa.muster@postfach.example>",
+      "recipient": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+      "reference": "F26-041LM",
+      "subject": "Nora hat geantwortet / Unterlagen vom Betriebsrat folgen",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 22.10.2026, 08:12 Uhr",
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "Noras Brief und die Kopien habe ich gestern erhalten. Die alten Angebote selbst besitze ich nicht; sie liegen wohl im Firmenarchiv. Ich habe keinen Zugriff mehr auf das CRM. Auf meinem Rechner ist nur meine persönliche Bewerbungsmappe. Ich möchte nicht, dass es später heißt, ich hätte heimlich Firmendaten kopiert.",
+            "Den Kalender von 2020 habe ich fotografiert. Darin stehen die Urlaubsvertretungen und am 3. August ein Lob von Frau Seidel beim Teamgespräch. Das beweist allein natürlich noch nicht die genaue Bearbeitung. Ich kann aber sagen, was ich damals gemacht habe. Meine damaligen Arbeitsproben sind bereits in der Akte; ich lege sie nicht noch einmal bei.",
+            "Cem Aydin hat mich gestern angerufen. Er findet die Version der BR-Stellungnahme, die er am 23. März unterschrieben hat. Er sagt, die neue Mail an die Arbeitsagentur sei erst am nächsten Morgen rausgegangen. Ich weiß nicht, was vorher schon eingereicht war. Er schickt die Unterlagen direkt an Sie.",
+            "Mit freundlichen Grüßen, Lisa Muster"
+          ]
+        }
+      ],
+      "signature": "Lisa Muster"
+    },
+    {
+      "id": "N09",
+      "date": "2026-10-23",
+      "kind": "email",
+      "brand": "employer",
+      "title": "Übermittlung der Versandnachweise des Betriebsrats",
+      "sender": "Cem Aydin <cem.aydin@uferwerk.example>",
+      "recipient": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+      "reference": "BR/2026-03-KI",
+      "subject": "Unterlagen aus dem BR-Postfach zur Anzeige im März",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 23.10.2026, 15:06 Uhr",
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "Frau Muster hat mich gebeten, Ihnen die Versanddaten zu übersenden. Der Betriebsrat hat heute beschlossen, die beigefügten eigenen Unterlagen zur Verfügung zu stellen. Ich sende ausschließlich unsere Stellungnahme und unsere Korrespondenz. Die Personalunterlagen anderer Beschäftigter sind nicht beigefügt.",
+            "Wir haben am 23. März um 16:20 Uhr unsere abschließende Stellungnahme unterzeichnet. Das folgt aus meinem Kalender und der E-Mail an Frau Brandt von 16:37 Uhr. In der Fassung um 12:45 Uhr stand noch, dass wir auf Antworten zu den Vertriebsstellen warten und die Beratung fortsetzen. Die Personalabteilung teilte mir am 24. März mit, die Anzeige sei am Vortag bereits hochgeladen worden. Ich habe selbst keinen Upload vorgenommen. Ob Frau Brandt um 14:10 Uhr noch weitere Dateien beigefügt hatte, weiß ich aus eigener Wahrnehmung nicht.",
+            "Wir hatten den Arbeitgeber am 18. und 23. März um eine Aufgabenübersicht des Vertriebs und um die Ausschreibung Sales Operations gebeten. Eine vollständige Übersicht erhielten wir vor Unterzeichnung nicht. Das heißt nicht, dass überhaupt kein Gespräch stattgefunden hätte. Es gab Treffen am 11. und 18. März sowie Telefonate. Wir waren mit dem Abbau nicht einverstanden; über eine mögliche Abfindungslösung wollten wir trotzdem weiterreden.",
+            "Ihre Anfrage vom 2. September war in unserem Funktionspostfach liegen geblieben. Ich habe die Versandbelege erst auf Frau Musters Anruf vom 21. Oktober gesucht und den BR am 23. Oktober mit der Weitergabe befasst. Für eine Vernehmung stehe ich zur Verfügung.",
+            "Freundliche Grüße, Cem Aydin, Betriebsratsvorsitzender"
+          ]
+        }
+      ],
+      "signature": "Cem Aydin",
+      "attachments": [
+        "Mailübersicht 23./24.03.2026",
+        "Stellungnahme, unterzeichnet 23.03.2026, 16:20 Uhr"
+      ]
+    },
+    {
+      "id": "N10",
+      "date": "2026-10-23",
+      "kind": "table",
+      "brand": "employer",
+      "title": "BR-Mailausdruck zur Anzeige und Nachreichung",
+      "sender": "Betriebsrat Uferwerk Verlag GmbH",
+      "recipient": "BR-Handakte, Kopie an Prozessbevollmächtigte am 23.10.2026",
+      "reference": "BR-MSG-0323 / BR-MSG-0324",
+      "subject": "Ausdruck der Nachrichten mit Anlagenbezeichnungen",
+      "sections": [
+        {
+          "heading": "1. Nachricht vom 23. März 2026, 12:45 Uhr",
+          "paragraphs": [
+            "Von: Cem Aydin <cem.aydin@uferwerk.example>. An: Jule Brandt <jule.brandt@uferwerk.example>. Betreff: Stand Beratung KI-Projekt. Text: Wir warten auf die Antworten zu den Vertriebsarbeitsplätzen. Der beigefügte Text ist unser Zwischenstand für das heutige Gespräch; die Beratung wird fortgesetzt. Bitte verwenden Sie ihn nicht als abschließende Stellungnahme. Anhang: BR_KI_Zwischenstand_2345.pdf, 2 Seiten."
+          ]
+        },
+        {
+          "heading": "2. Nachricht vom 23. März 2026, 16:37 Uhr",
+          "paragraphs": [
+            "Von: Cem Aydin <cem.aydin@uferwerk.example>. An: Jule Brandt <jule.brandt@uferwerk.example>. Betreff: Abschließende Stellungnahme Konsultation. Text: Anbei die heute um 16:20 Uhr unterzeichnete Stellungnahme. Wir sehen die Unterrichtung zu den Alternativen weiterhin kritisch. Der Arbeitgeber hat erklärt, an der Entscheidung festzuhalten; weitere Vorschläge können wir gegenwärtig nicht unterbreiten. Anhang: BR_Abschluss_23032026_unterzeichnet.pdf, 3 Seiten."
+          ]
+        },
+        {
+          "heading": "3. Nachricht vom 24. März 2026, 08:41 Uhr",
+          "paragraphs": [
+            "Von: Jule Brandt <jule.brandt@uferwerk.example>. An: Cem Aydin <cem.aydin@uferwerk.example>. Betreff: WG: Nachreichung zur Anzeige ME-UW-2026-0323. Text: Die Anzeige ging gestern um 14:10 Uhr über das Portal ein. Ich habe Ihre unterschriebene Stellungnahme heute um 08:32 Uhr nachgereicht. Die Eingangsbestätigung liegt vor. Wir gehen davon aus, dass keine erneute Anzeige nötig ist. Weitergeleitete Nachricht an die Agentur: Nachreichung BR-Stellungnahme; Bezug auf Anzeigenummer ME-UW-2026-0323; keine neue Anzeige beigefügt.",
+            "Die Nachrichtendaten sind dem BR-Postfach entnommen. Der Ausdruck gibt Absender, Empfänger, Zeitstempel, Text und ursprüngliche Anlagenbezeichnungen wieder. Der Betriebsrat bestätigt nicht die Vollständigkeit des Arbeitgeberportals. Eine eigenständige Versandprüfung des Arbeitgeberpostfachs war ihm nicht möglich."
+          ]
+        }
+      ],
+      "signature": "Cem Aydin\nFür den Betriebsrat, 23.10.2026"
+    },
+    {
+      "id": "N11",
+      "date": "2026-10-26",
+      "kind": "letter",
+      "brand": "client",
+      "title": "Ergänzende Schilderung des früheren Designleiters",
+      "sender": "Lutz Falk\nWeiherstraße 7\n78467 Konstanz",
+      "recipient": "FALKENHORST & FLOW\nDr. Johanna Falkenhorst",
+      "reference": "Muster ./. Uferwerk - Rückfrage nach dem Termin",
+      "subject": "Arbeitsaufwand im Projekt Bildbrücke und mein Aussageumfang",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "Frau Muster hat mir die Passage zu meiner Aussage vorgelesen. Ich habe ausgesagt, dass keine eigene Designabteilung mehr geführt wird. Ich habe nicht gesagt, dass seit April alle Gestaltung ohne menschliche Arbeit erledigt wird. Die Restaufgaben verteilen sich auf das Lektorat, eine externe Agentur und mich. Im September waren es nach meiner Wochenübersicht 31 bis 36 Stunden pro Woche. Mein eigener Umfang darin betrug 11 bis 14 Stunden. Eine Aufteilung auf die früheren fünfzehn Stellen kann ich daraus nicht vornehmen.",
+            "Bei zehn älteren Bildrechten musste das Lektorat Rückfragen stellen. Bei den KI-Dateien musste häufig Typografie korrigiert werden. Es gab auch Titel, bei denen die erste Version genügte. Ich kann die wirtschaftliche Gesamtrechnung der Geschäftsführung nicht beurteilen. Ob die Arbeit für eine, zwei oder mehr Vollzeitstellen reicht, hängt davon ab, ob die externen Aufträge weiterhin fremd vergeben werden. Ein Teil der Agenturaufträge ist bereits im März beauftragt worden.",
+            "Ich bin seit 1. Oktober nicht mehr Abteilungsleiter, sondern befristet als Projektkoordinator eingesetzt. Am 22. September hat die Personalabteilung mich gebeten, nur die bereits freigegebenen Prozessunterlagen vorzubereiten. Im Termin wurde nicht nach den Wochenübersichten gefragt. Frau Muster besitzt die letzte von mir an sie gerichtete Projektmail vom 27. März. Die aktuelle Wochenübersicht habe ich für meine eigene Arbeitsorganisation geführt und der Geschäftsführung vorgelegt; ich darf die beigefügte Fassung ohne Kundennamen nach Freigabe vom 23. Oktober weitergeben. Die Freigabemail ist unten wiedergegeben.",
+            "Freigabe Jule Brandt an Lutz Falk, 23.10.2026, 12:19 Uhr: Sie dürfen die bereits in Ihrer Zeugenaussage behandelte Arbeitsübersicht in der beigefügten Fassung ohne Titel- und Kundennamen an Frau Muster bzw. ihre Anwältin geben. Bitte stellen Sie die Zahlen vollständig und ohne Rückschluss auf einzelne Beschäftigte dar.",
+            "Für eine erneute Vernehmung bin ich erreichbar. Ich wünsche keine Formulierungshilfe für eine Aussage und habe mit Frau Muster keine gemeinsame Textfassung abgestimmt."
+          ]
+        }
+      ],
+      "signature": "Lutz Falk",
+      "attachments": [
+        "Wochenübersicht KW 35-39, freigegebene Fassung"
+      ]
+    },
+    {
+      "id": "N12",
+      "date": "2026-10-26",
+      "kind": "table",
+      "brand": "employer",
+      "title": "Arbeitsübersicht Projekt Bildbrücke August und September",
+      "sender": "Uferwerk Verlag GmbH - Projektkoordination Bildbrücke",
+      "recipient": "Geschäftsführung / freigegebene Kopie vom 23.10.2026",
+      "reference": "BB-PROJ-W35-39",
+      "subject": "Nacharbeit, Qualitätskontrolle und Fremdleistungen",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Übersicht erfasst auftragsbezogene Nacharbeit im Projekt Bildbrücke. Die Stunden beruhen auf manuellen Einträgen der Beteiligten, sind nicht minutengenau und umfassen keine gesamte Arbeitszeiterfassung. Externe Agenturstunden sind gesondert genannt. Das Kürzel KW bezeichnet die Kalenderwoche."
+          ]
+        },
+        {
+          "table": {
+            "headers": [
+              "Zeitraum",
+              "Interne Stunden gesamt",
+              "Davon Lutz Falk",
+              "Externe Stunden",
+              "Hauptaufgaben"
+            ],
+            "rows": [
+              [
+                "KW 35 / 24.-30.08.",
+                "34",
+                "12",
+                "26",
+                "Typografie, Varianten, Bildrechte"
+              ],
+              [
+                "KW 36 / 31.08.-06.09.",
+                "31",
+                "11",
+                "29",
+                "Druckfreigaben, Farbkorrektur"
+              ],
+              [
+                "KW 37 / 07.-13.09.",
+                "36",
+                "14",
+                "24",
+                "Nachlayout und Retusche"
+              ],
+              [
+                "KW 38 / 14.-20.09.",
+                "35",
+                "13",
+                "31",
+                "Katalogkorrektur, Covervarianten"
+              ],
+              [
+                "KW 39 / 21.-27.09.",
+                "33",
+                "12",
+                "28",
+                "Korrekturschleifen, Bildrechte"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "1. Bearbeitungsnotizen",
+          "paragraphs": [
+            "Die Agentur Kanalformat übernimmt seit 1. April Serienadaptionen und manuelle Schlusskorrekturen. Die Beauftragung vom 17. März läuft zunächst bis 31. Dezember 2026. Die Auswahl und Verlagerung dieser Aufgaben ist Teil des Projekts; ein Ersatz der Agentur durch eigenes Personal ist von der Geschäftsführung bislang nicht freigegeben.",
+            "Der Bericht vom 10. Februar rechnete mit internen Kontrollen von höchstens acht Stunden je Woche nach einer dreimonatigen Umstellung. Die gegenwärtige Erfassung umfasst auch Umstellungsaufwand. Ob der höhere Umfang dauerhaft bleibt, kann zum Berichtszeitpunkt nicht beurteilt werden. Für die ersten zwei Oktoberwochen ist eine erneute Stichprobe vorgesehen."
+          ]
+        }
+      ],
+      "signature": "Lutz Falk\nProjektkoordination, Stand 28.09.2026; freigegebene Kopie 23.10.2026"
+    },
+    {
+      "id": "N13",
+      "date": "2026-10-27",
+      "kind": "email",
+      "brand": "client",
+      "title": "Unterlagen zur freien Sales-Operations-Stelle",
+      "sender": "Lisa Muster <lisa.muster@postfach.example>",
+      "recipient": "Dr. Johanna Falkenhorst <j.falkenhorst@falkenhorst-flow.example>",
+      "reference": "F26-041LM",
+      "subject": "Einarbeitungsplan, den ich schon im März erhalten habe",
+      "sections": [
+        {
+          "paragraphs": [
+            "Gesendet: 27.10.2026, 19:03 Uhr",
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "in meiner alten privaten Bewerbungsmappe habe ich die Antwort von Frau Brandt auf meine interne Bewerbung gefunden. Die Nachricht vom 12. März enthält die Aufgabenübersicht und den Einarbeitungsplan. Ich hatte Ihnen damals nur die Absage als Ausdruck gegeben, weil ich dachte, die Anhänge seien dieselben wie die Ausschreibung. Das war mein Fehler. Ich habe am Wochenende meine Ausdrucke sortiert und den Hinweis auf die Anhänge gefunden. Die E-Mail war in meinem privaten Postfach noch vorhanden, weil Frau Brandt die auf meine dienstliche Bewerbung angeforderten Zusatzunterlagen auf meinen Wunsch auch an meine private Adresse geschickt hatte.",
+            "Die Aufgabenübersicht enthält ausdrücklich die Buchhandelsbestellungen. Bei den Key Accounts soll man nach sechs Monaten einmal hospitieren; das ist nicht die Einarbeitungszeit bis zum normalen Einsatz. Ich will nicht behaupten, dass ich die Stelle ohne jede Schulung sofort hätte ausüben können. Die neue CRM-Version von 2023 kenne ich nur aus der internen Einführung. Der beigefügte allgemeine Plan sieht zehn Arbeitstage für die erste Einweisung vor. Wie lange Robin Behrens tatsächlich begleitet gearbeitet hat, weiß ich nicht. Seine konkrete Einsatzplanung in der Stellenakte vom 18. März reicht über sechs Wochen; mir war diese interne Unterlage damals nicht bekannt. Ich kann auch seine persönlichen Qualifikationen nicht beurteilen.",
+            "Sie hatten mich im Juni nach weiteren Unterlagen gefragt. Ich habe damals nur meine Designarbeitsproben gefunden und die Anhänge nicht erneut gesucht. Bitte sagen Sie mir offen, ob die späte Vorlage ein Problem ist. Ich möchte nichts verschweigen.",
+            "Mit freundlichen Grüßen, Lisa Muster"
+          ]
+        }
+      ],
+      "signature": "Lisa Muster",
+      "attachments": [
+        "E-Mail Brandt vom 12.03.2026 mit Aufgabenübersicht und Einarbeitungsplan"
+      ]
+    },
+    {
+      "id": "N14",
+      "date": "2026-10-27",
+      "kind": "email",
+      "brand": "employer",
+      "title": "Interne Bewerbung und Einarbeitungsplan Sales Operations",
+      "sender": "Jule Brandt <jule.brandt@uferwerk.example>",
+      "recipient": "Lisa Muster <lisa.muster@postfach.example>",
+      "reference": "HR/SO-2026-02",
+      "subject": "AW: Meine Bewerbung vom 9. März / Aufgaben und Einweisung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Ursprünglich gesendet: 12.03.2026, 11:28 Uhr. Aus privatem Postfach weitergeleitet am 27.10.2026, 18:47 Uhr.",
+            "Sehr geehrte Frau Muster, anbei erhalten Sie die von Ihnen angeforderten Unterlagen zur Stelle Sachbearbeitung Sales Operations. Für den Einsatz ist das aktuelle CRM erforderlich. Frau Seidel prüft Ihre Bewerbung; bitte stimmen Sie vorerst keinen Starttermin ab. Freundliche Grüße, Jule Brandt."
+          ]
+        },
+        {
+          "heading": "1. Aufgabenübersicht, Fassung vom 2. März 2026",
+          "paragraphs": [
+            "Die Sachbearbeitung bearbeitet Bestellungen, Nachlieferungen und Angebotsentwürfe für bestehende Buchhandelskontakte. Sie prüft Liefertermine, pflegt Angebotsdaten und bereitet das monatliche Reporting vor. Sonderkonditionen über zehn Prozent werden an die Vertriebsleitung gegeben. Verhandlungen über Rahmenverträge, Exportverträge, Personalführung und eigene Budgetverantwortung gehören nicht zur Stelle. Die Grundvergütung liegt je nach Erfahrung zwischen 4.600 und 5.500 EUR brutto monatlich bei 40 Wochenstunden."
+          ]
+        },
+        {
+          "heading": "2. Einarbeitungsplan",
+          "paragraphs": [
+            "Tag 1 und 2: Begleitung im CRM, Datenschutzunterweisung und neue Produktgruppen. Tag 3 bis 5: Bearbeitung von Testfällen, danach Angebote mit Vier-Augen-Kontrolle. Tag 6 bis 10: Eigene Vorgänge mit täglicher Stichprobe. Ab der dritten Woche: Regelbearbeitung einfacher Fälle mit fachlicher Rückfrage bei Frau Seidel; begleitete Vertiefung von Retouren und elektronischen Bestellungen kann bis zum Ende der sechsten Woche fortgesetzt werden. Nach sechs Monaten: freiwillige zweitägige Hospitation im Key-Account-Team, sofern die laufende Aufgabenverteilung dies erlaubt.",
+            "Dieser Plan beschreibt den vorgesehenen Ablauf; ein Anspruch auf eine bestimmte Einarbeitungsdauer wird damit nicht zugesagt. Vorwissen und tatsächlicher Fortschritt sind im Einzelfall zu berücksichtigen. Für Personen mit interner Vertriebserfahrung kann die Grundlagenschulung verkürzt werden. Der beigefügte Plan enthält keine personenbezogenen Angaben externer Bewerber."
+          ]
+        }
+      ],
+      "signature": "Jule Brandt\nPersonal und Organisation"
+    },
+    {
+      "id": "N15",
+      "date": "2026-10-28",
+      "kind": "table",
+      "brand": "client",
+      "title": "Bewerbungs- und Leistungsübersicht",
+      "sender": "Lisa Muster",
+      "recipient": "FALKENHORST & FLOW",
+      "reference": "F26-041LM - Angaben zum Stand 28.10.2026",
+      "subject": "Bewerbungen, Arbeitsangebote und Leistungen seit Freistellung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Die Übersicht habe ich aus meinem Kalender und den Bestätigungen der Arbeitgeber erstellt. Sämtliche Bewerbungen sind ernst gemeint. An den genannten Tagen war ich arbeitsfähig. Ich habe keine angebotene zumutbare Stelle aus dem Wunsch abgelehnt, den Rechtsstreit abzuwarten."
+          ]
+        },
+        {
+          "table": {
+            "headers": [
+              "Datum",
+              "Vorgang",
+              "Ergebnis / Stand"
+            ],
+            "rows": [
+              [
+                "02.04.2026",
+                "Arbeitsuchendmeldung",
+                "Bestätigung erhalten; Kündigungsende 30.09. angegeben"
+              ],
+              [
+                "08.05.2026",
+                "Bewerbung bei Seitenlicht Medien GmbH",
+                "Absage 26.05.; keine freie Vollzeitstelle"
+              ],
+              [
+                "16.06.2026",
+                "Bewerbung bei Uferblick Versand KG",
+                "Gespräch 01.07.; Absage 09.07."
+              ],
+              [
+                "18.08.2026",
+                "Bewerbung als Vertriebsassistenz, Buchlotse GmbH",
+                "Absage 04.09.; Stelle intern besetzt"
+              ],
+              [
+                "01.10.2026",
+                "Arbeitslosmeldung und Leistungsbeginn",
+                "Arbeitslosengeld bewilligt, Monatsbetrag 2.130 EUR"
+              ],
+              [
+                "06.10.2026",
+                "Bewerbung Stadtseiten Verlag GmbH",
+                "Gespräch 22.10.; Entscheidung offen"
+              ],
+              [
+                "20.10.2026",
+                "Vermittlungsvorschlag Agentur für Arbeit",
+                "Bewerbung 22.10.; Eingangsbestätigung 23.10."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "1. Bezüge und Arbeitsangebot",
+          "paragraphs": [
+            "Uferwerk hat bis einschließlich September monatlich 5.400 EUR brutto abgerechnet und gezahlt. Ab Oktober ist keine Arbeitgeberzahlung eingegangen. Ich habe am 1. Oktober meine Arbeitskraft per E-Mail angeboten; die Antwort der Personalabteilung vom 2. Oktober verweist auf die Beendigung. Beide Nachrichten gebe ich vollständig weiter. Zwischenverdienst besteht bislang nicht.",
+            "Die Leistung für Oktober ist mit Bescheid vom 15. Oktober bewilligt. Für die Tage vom 1. bis 31. Oktober beträgt die Zahlung nach dem Bescheid insgesamt 2.130 EUR. Einen Übergang von Forderungen will ich nicht doppelt abrechnen. Weitere Auskünfte der Agentur soll die Kanzlei bei Bedarf mit mir abstimmen."
+          ]
+        }
+      ],
+      "signature": "Lisa Muster\nKonstanz, 28.10.2026"
+    },
+    {
+      "id": "N16",
+      "date": "2026-10-28",
+      "kind": "email",
+      "brand": "client",
+      "title": "Arbeitsangebot und Antwort des Arbeitgebers",
+      "sender": "Lisa Muster <lisa.muster@postfach.example>",
+      "recipient": "Jule Brandt <jule.brandt@uferwerk.example>",
+      "reference": "Arbeitsverhältnis Lisa Muster",
+      "subject": "Meine Arbeitsleistung ab Oktober",
+      "sections": [
+        {
+          "paragraphs": [
+            "Nachricht vom 01.10.2026, 07:55 Uhr, Lisa Muster an Jule Brandt: Sehr geehrte Frau Brandt, ich halte meine Kündigung für unwirksam und biete meine Arbeitsleistung zu den bisherigen Vertragsbedingungen weiterhin an. Ich bin arbeitsfähig und bereit, meine Tätigkeit oder eine vertragsgemäße andere Aufgabe in Konstanz zu übernehmen. Bitte teilen Sie mir mit, wann und wo ich mich melden soll. Ohne Ihre Anweisung werde ich nicht versuchen, mit dem gesperrten Ausweis das Gebäude zu betreten. Mit freundlichen Grüßen, Lisa Muster.",
+            "Antwort vom 02.10.2026, 10:13 Uhr, Jule Brandt an Lisa Muster: Sehr geehrte Frau Muster, wir gehen von einer Beendigung zum 30. September aus. Eine Arbeitsleistung wird nicht angefordert. Ihre Konten und Zutrittsberechtigungen bleiben gesperrt. Über das anhängige Verfahren korrespondieren unsere Bevollmächtigten. Mit freundlichen Grüßen, Jule Brandt.",
+            "Weiterleitung Lisa Muster an Dr. Johanna Falkenhorst vom 28.10.2026, 08:30 Uhr: Hier ist der vollständige Verlauf. Mein Angebot bestand auch während der vergangenen Wochen fort. Ich habe keine weitere Absprache über eine Tätigkeit oder einen Vergleich getroffen."
+          ]
+        }
+      ],
+      "signature": "Lisa Muster / Jule Brandt"
+    },
+    {
+      "id": "N17",
+      "date": "2026-10-29",
+      "kind": "letter",
+      "brand": "agency",
+      "title": "Deckungszusage für das Berufungsverfahren",
+      "sender": "Küstenklar Rechtsschutz AG\nLeistungsabteilung Arbeitsrecht\nPostfach 1104, 78401 Konstanz",
+      "recipient": "FALKENHORST & FLOW\nDr. Johanna Falkenhorst",
+      "reference": "Schaden KK-26-1841 / Versicherte Lisa Muster",
+      "subject": "Muster ./. Uferwerk Verlag GmbH - zweite Instanz",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Dr. Falkenhorst,",
+            "auf Ihre Anfrage vom 19. Oktober 2026 bestätigen wir Deckungsschutz für die Berufungsinstanz im Kündigungsschutzverfahren gegen Uferwerk Verlag GmbH auf Grundlage der gesetzlichen Gebühren und eines vorläufigen Gegenstandswerts von 21.600 EUR. Erfasst sind die gesetzlichen Gerichtskosten sowie die erstattungsfähigen Kosten der Gegenseite im versicherten Umfang. Die vertragliche Selbstbeteiligung beträgt 250 EUR je Versicherungsfall und wurde für diesen Versicherungsfall bereits berücksichtigt.",
+            "Die Zusage ersetzt keine anwaltliche Prüfung der Zulässigkeit und Erfolgsaussichten. Eine Honorarvereinbarung oberhalb gesetzlicher Gebühren, nicht erforderliche Reisekosten und gesonderte außergerichtliche Beratungsaufträge sind nicht Gegenstand dieser Zusage. Bitte informieren Sie uns über eine erhebliche Änderung des Streitgegenstands oder Streitwerts.",
+            "Eine gesonderte Zahlungsklage wegen Vergütung ab Oktober ist noch nicht angefragt. Bitte reichen Sie hierzu bei Bedarf den konkreten Auftrag und eine nachvollziehbare Berechnung ein. Die gegenwärtige Zusage ist keine Freigabe eines Vergleichs mit nicht rechtshängigen Forderungen.",
+            "Mit freundlichen Grüßen"
+          ]
+        }
+      ],
+      "signature": "Tabea Nord\nLeistungsabteilung",
+      "sections_note": "Kontakt: leistung@kuestenklar.example"
+    },
+    {
+      "id": "N18",
+      "date": "2026-10-29",
+      "kind": "memo",
+      "brand": "employee_firm",
+      "title": "Fristenkontrolle für die Berufung",
+      "sender": "FALKENHORST & FLOW - Fristenbuch",
+      "recipient": "Handakte F26-041LM",
+      "reference": "Doppelte Kontrolle: Dr. Falkenhorst / ReFa Greta Bloom",
+      "subject": "Urteil 7 Ca 87/26, Zustellung am 14.10.2026",
+      "sections": [
+        {
+          "table": {
+            "headers": [
+              "Ereignis / Frist",
+              "Datum",
+              "Grundlage und Kontrolle"
+            ],
+            "rows": [
+              [
+                "Verkündung des Urteils",
+                "08.10.2026",
+                "Vollständige Fassung zugestellt vor Fünfmonatsgrenze"
+              ],
+              [
+                "Zustellung vollständiges Urteil",
+                "14.10.2026",
+                "eEB mit diesem Zustelltag; Eingang in Handakte abgeglichen"
+              ],
+              [
+                "Berufungseinlegung",
+                "16.11.2026",
+                "Ein Monat: 14.11.2026 ist Samstag; nächster Werktag 16.11."
+              ],
+              [
+                "Vorfrist Einlegung",
+                "09.11.2026",
+                "Zusätzlich Einreichung für 30.10.2026 vorgesehen"
+              ],
+              [
+                "Berufungsbegründung",
+                "14.12.2026",
+                "Zwei Monate ab Zustellung des vollständigen Urteils"
+              ],
+              [
+                "Vorfristen Begründung",
+                "23.11. und 07.12.2026",
+                "Keine Fristverlängerung beantragt oder bewilligt"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die Fristen beruhen auf § 66 Abs. 1 ArbGG, §§ 222 ZPO, 187 Abs. 1, 188 Abs. 2 BGB. Die gesonderte Begründung wird beim Landesarbeitsgericht Baden-Württemberg eingereicht. Die Frist darf nach Einlegung der Berufung nicht aus dem Fristenbuch gelöscht werden. Eine Erinnerung per Kalender ist nur Zusatzkontrolle.",
+            "Vor Versand sind Gericht, Parteibezeichnung, Urteilsdatum, erstinstanzliches Aktenzeichen, Erklärung der Berufungseinlegung und Vollmacht abzugleichen. Nach Versand sind gerichtlicher Empfänger, technische Eingangsbestätigung, Dateiname und Eingangszeit zu kontrollieren. Ein Eintrag in den Ordner Gesendet allein genügt für die Ausgangskontrolle nicht. Die verantwortlich versendende Rechtsanwältin prüft den Schriftsatz selbst.",
+            "Kontrolle am 29.10.2026: Dr. Johanna Falkenhorst. Zweitkontrolle und Eintragung im Fristenbuch: Greta Bloom, Rechtsanwaltsfachangestellte. Der Arbeitsauftrag zur Begründung ist offen; es liegt kein fertig formulierter Begründungsschriftsatz vor."
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst / Greta Bloom"
+    },
+    {
+      "id": "N19",
+      "date": "2026-10-30",
+      "kind": "pleading",
+      "brand": "employee_firm",
+      "title": "Berufungsschrift",
+      "sender": "RAin Dr. Johanna Falkenhorst",
+      "recipient": "Landesarbeitsgericht Baden-Württemberg\nKammern Freiburg\nHabsburgerstraße 103\n79104 Freiburg\nÜber das besondere elektronische Anwaltspostfach",
+      "reference": "F26-041LM / erste Instanz: 7 Ca 87/26",
+      "subject": "Berufung - Lisa Muster ./. Uferwerk Verlag GmbH",
+      "sections": [
+        {
+          "paragraphs": [
+            "In dem Rechtsstreit",
+            "Lisa Muster, Rheinsteig 8, 78462 Konstanz, Klägerin und Berufungsklägerin, Prozessbevollmächtigte: Rechtsanwältin Dr. Johanna Falkenhorst, FALKENHORST & FLOW, Seestraße 18, 78464 Konstanz,",
+            "gegen",
+            "Uferwerk Verlag GmbH, Hafenstraße 24, 78462 Konstanz, vertreten durch die Geschäftsführerin Dr. Mara Ufer, Beklagte und Berufungsbeklagte, erstinstanzlich prozessbevollmächtigt: Rechtsanwalt Caspar Finley von Knigge, KNIGGE/NORTH, Robert-Bosch-Straße 6, 78467 Konstanz,",
+            "lege ich namens und in Vollmacht der Klägerin gegen das am 8. Oktober 2026 verkündete Urteil des Arbeitsgerichts Villingen-Schwenningen, Kammern Radolfzell, Aktenzeichen 7 Ca 87/26, zugestellt am 14. Oktober 2026, Berufung ein.",
+            "Die Berufung wird zunächst zur Fristwahrung eingelegt. Die Berufungsanträge und die Berufungsbegründung bleiben einem gesonderten Schriftsatz vorbehalten.",
+            "Eine Abschrift des angefochtenen Urteils ist beigefügt. Es wird um Mitteilung des zweitinstanzlichen Aktenzeichens gebeten."
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin",
+      "attachments": [
+        "Abschrift des Urteils vom 08.10.2026, 7 Ca 87/26"
+      ]
+    },
+    {
+      "id": "N20",
+      "date": "2026-10-30",
+      "kind": "table",
+      "brand": "neutral",
+      "title": "beA-Ausgangskontrolle Berufungseinlegung",
+      "sender": "FALKENHORST & FLOW - Postausgang",
+      "recipient": "Handakte F26-041LM",
+      "reference": "Ausgang F26-041LM-3010-01",
+      "subject": "Protokollausdruck zum Versand der Berufungsschrift",
+      "sections": [
+        {
+          "table": {
+            "headers": [
+              "Prüffeld",
+              "Ergebnis"
+            ],
+            "rows": [
+              [
+                "Versand aus",
+                "beA Dr. Johanna Falkenhorst"
+              ],
+              [
+                "Empfänger",
+                "Landesarbeitsgericht Baden-Württemberg, Kammern Freiburg"
+              ],
+              [
+                "Nachricht",
+                "F26-041LM-3010-01, 30.10.2026, 10:14:31 Uhr"
+              ],
+              [
+                "Gerichtlicher Eingang",
+                "30.10.2026, 10:14:36 Uhr"
+              ],
+              [
+                "Übermittlungsstatus",
+                "Erfolgreich; automatisierte Eingangsbestätigung vorhanden"
+              ],
+              [
+                "Datei 1",
+                "Berufung_Muster_Uferwerk_30102026.pdf, 1 Seite"
+              ],
+              [
+                "Datei 2",
+                "Urteil_7Ca87_26_08102026.pdf, vollständige Abschrift"
+              ],
+              [
+                "Signaturweg",
+                "Einfacher Namenszug im Schriftsatz; persönlicher Versand durch Dr. Falkenhorst"
+              ],
+              [
+                "Ausgangskontrolle",
+                "30.10.2026, 10:19 Uhr, Dr. Falkenhorst; Empfänger und Anhänge geöffnet und abgeglichen"
+              ]
+            ]
+          }
+        },
+        {
+          "paragraphs": [
+            "Die gespeicherte Eingangsbestätigung ist der Nachricht zugeordnet. Die Berufungsschrift und die Urteilsabschrift waren lesbar und vollständig beigefügt. Die Einlegungsfrist wurde nach anwaltlicher Kontrolle als erledigt gekennzeichnet. Die Begründungsfrist 14.12.2026 und deren Vorfristen bleiben eingetragen. Ein zweitinstanzliches Geschäftszeichen ist der Kanzlei noch nicht mitgeteilt.",
+            "Dieser Ausdruck dokumentiert die in der Handakte gespeicherte Ausgangskontrolle. Die technischen Originalnachrichten bleiben im elektronischen Postausgang der Kanzlei gespeichert; dem Mandantenexemplar werden keine Transportdateien beigefügt."
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nAusgangskontrolle am 30.10.2026"
+    },
+    {
+      "id": "N21",
+      "date": "2026-10-30",
+      "kind": "letter",
+      "brand": "employee_firm",
+      "title": "Mitteilung über die eingelegte Berufung",
+      "sender": "RAin Dr. Johanna Falkenhorst",
+      "recipient": "Frau Lisa Muster\nRheinsteig 8\n78462 Konstanz",
+      "reference": "F26-041LM",
+      "subject": "Berufung fristwahrend eingelegt / weitere Besprechung",
+      "sections": [
+        {
+          "paragraphs": [
+            "Sehr geehrte Frau Muster,",
+            "die Berufung gegen das Urteil vom 8. Oktober 2026 ist heute um 10:14 Uhr beim Landesarbeitsgericht Baden-Württemberg eingegangen. Die technische Eingangsbestätigung und die beigefügten Dateien wurden kontrolliert. Die Einlegung ist damit dokumentiert. Die Berufungsbegründung ist noch nicht eingereicht; ihre Frist bleibt auf den 14. Dezember 2026 notiert.",
+            "Für unsere Besprechung über die Erfolgsaussichten liegen jetzt die Antwort von Frau Berg, die Unterlagen des Betriebsrats und die ergänzende Darstellung von Herrn Falk vor. Bitte teilen Sie mir bis zum 6. November mit, ob Sie an den Angaben etwas berichtigen müssen oder weitere Antworten erhalten haben. Wir werden nicht nur den Inhalt, sondern auch Herkunft, bisherigen Vortrag und den Zeitpunkt der Verfügbarkeit berücksichtigen. Die nachgefundene Einarbeitungsunterlage besprechen wir gesondert, weil sie Ihnen bereits im März übersandt worden war.",
+            "Die Rechtsschutzversicherung hat Deckung für die Berufungsinstanz im Rahmen gesetzlicher Gebühren bestätigt. Das wirtschaftliche Risiko und Ihre Ziele bleiben Bestandteil der Beratung. Eine Zusage über den Ausgang des Verfahrens ist damit nicht verbunden. Wir haben weder einen Vergleich erklärt noch weitere Ansprüche eingeklagt.",
+            "Mit freundlichen Grüßen"
+          ]
+        }
+      ],
+      "signature": "Dr. Johanna Falkenhorst\nRechtsanwältin"
+    }
+  ]
+}

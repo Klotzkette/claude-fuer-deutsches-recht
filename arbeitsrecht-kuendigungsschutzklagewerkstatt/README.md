@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitsrecht-kuendigungsschutzklagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`arbeitsrecht-kuendigungsschutzklagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.2.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/arbeitsrecht-kuendigungsschutzklagewerkstatt.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md) |
@@ -46,7 +46,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitsrecht-kuendigungsschutzklagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`arbeitsrecht-kuendigungsschutzklagewerkstatt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.2.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md" download>arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md</a> |
@@ -73,9 +73,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Die Kündigungsschutzklagewerkstatt begleitet Arbeitnehmervertreter und Arbeitgebervertreter vom Kündigungsschreiben bis zur Klage, Erwiderung, Replik oder Vergleichsfassung. Zehn Fachskills bearbeiten die einzelnen arbeitsrechtlichen und prozessualen Fragen. Der elfte Skill `kuendigungsschutzmandat-steuern` führt den Auftrag zusammen und setzt nach Rückfragen denselben Entwurf fort. Im Mittelpunkt steht das benötigte Dokument mit belastbaren Tatsachen, passenden Anträgen und eingeordneter Rechtsprechung.
+Die Kündigungsschutzklagewerkstatt begleitet Arbeitnehmervertreter und Arbeitgebervertreter vom Kündigungsschreiben bis zur Klage, Erwiderung, Replik, Berufung oder Vergleichsfassung. Zehn Fachskills bearbeiten die einzelnen arbeitsrechtlichen und prozessualen Fragen. Der elfte Skill `kuendigungsschutzmandat-steuern` führt den Auftrag zusammen und setzt nach Rückfragen denselben Entwurf fort. Im Mittelpunkt steht das benötigte Dokument mit belastbaren Tatsachen, passenden Anträgen und eingeordneter Rechtsprechung.
 
-[Repository-Start](../README.md) · [Plugin-Dateien](.) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/arbeitsrecht-kuendigungsschutzklagewerkstatt.md) · [Alle Downloads](../ASSET_INDEX.md) · [Alle Testakten](../testakten/README.md) · [Fünf Fallfassungen](testakte/README.md) · [English Guide](#18-english-guide)
+[Repository-Start](../README.md) · [Plugin-Dateien](.) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/arbeitsrecht-kuendigungsschutzklagewerkstatt.md) · [Alle Downloads](../ASSET_INDEX.md) · [Alle Testakten](../testakten/README.md) · [Sechs Fallfassungen](testakte/README.md) · [English Guide](#18-english-guide)
 
 ## 1.1. Mit einer Kündigung oder einer laufenden Klage beginnen
 
@@ -91,7 +91,7 @@ Die Werkstatt arbeitet auch an einem einzelnen Vergleich, einer Replik oder eine
 
 | Angebot | Verwendung | Download |
 | --- | --- | --- |
-| Installierbares Plugin | Elf Skills mit den benötigten internen Referenzen; keine automatische Installation von Fallakten oder Begleitprompts | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
+| Installierbares Plugin | Elf Skills mit den benötigten internen Referenzen; keine automatische Installation von Fallakten oder Begleitprompts | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.2.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
 | Portables Plugin | Dasselbe Paket in einem benannten Archivordner mit portablem Manifest und Kompatibilitätsmanifesten | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt-portable.zip) |
 | Werkstatt-Prompt | Ausführliche Ein-Datei-Arbeitsanweisung für das Kündigungsschutzmandat, einschließlich Rückfragen, Prozesswegen und Dokumentenfertigstellung | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md" download>Werkstatt als Markdown herunterladen</a> |
 | Mini-Prompt | Kompakter vollständiger Einstieg unter 7500 Zeichen und UTF-8-Bytes einschließlich Leerzeichen und Zeilenumbrüchen | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md" download>Mini-Prompt als Markdown herunterladen</a> |
@@ -197,6 +197,18 @@ Arbeits- und Vergütungsunterlagen, Kündigung, medizinische Bescheinigung und K
 
 Die zusätzlichen Angaben aus dem Mandantengespräch und die Quellenprüfung stehen ausschließlich im [getrennten Referentenmaterial](referentenmaterial/README.md). Sie sind weder in den Fallakten noch im installierbaren Plugin enthalten. Der Quellenstand ist 22.10.2026; der spätere Aktenstichtag ist eine Simulation.
 
+### 1.4.6. Muster gegen Uferwerk: Berufungswerkstatt
+
+93 Aktenstücke und ein Aktenverzeichnis bilden 94 PDFs mit zusammen 155 Seiten. Die Arbeitsakte zum Workshop am 12. November 2026 führt von der Vertragsanbahnung 2008 über den KI-bedingten Stellenabbau und die vollständige erste Instanz bis zur fristwahrenden Berufungseinlegung am 30. Oktober 2026. Nachurteilskorrespondenz und weitere Belege geben Material für die eigene Einschätzung und Begründung. Ein PDF-Aktenverzeichnis erschließt die Unterlagen. Die Berufungsbegründung bleibt die eigene Bearbeitungsaufgabe. [Fall und Benutzung](testakte/uferwerk-berufung/README.md).
+
+Die Ausgabe besteht auf ausdrücklichen Wunsch ausschließlich aus dem ZIP mit einzelnen PDFs und README.txt. Die fünf bisherigen Fallfassungen behalten ihre drei Ausgabeformen.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Uferwerk-PDF-Akte als ZIP](testakte/downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)
+
 ## 1.5. Rechtsprechung mit ihrem passenden Anwendungsbereich
 
 Das <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/references/rechtsprechung.md" download>Quellenverzeichnis als Markdown</a> ordnet die amtlich geprüften Entscheidungen dem jeweiligen Problem zu. Die Arbeitswege erläutert die <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/references/arbeitsweise.md" download>Bearbeitungsanweisung als Markdown</a>.
@@ -223,7 +235,7 @@ Provide the requested document, your side and the available records. The workflo
 
 Section 1.2 offers the installable package and three standalone Markdown prompts. Section 1.3 provides individual skill downloads. The detailed workshop contains its own legal and procedural instructions; the quick-start and coordinating prompts stay within 7,500 characters and UTF-8 bytes including spaces and line endings. Standalone prompts and case materials are excluded from the installed plugin.
 
-Section 1.4 links three small cases and two separate versions of the Muster/Seewerk case, each retaining fourteen logical core annexes. Each has a combined PDF, a flat ZIP of individual PDFs and a flat native-document ZIP. The warning appears immediately above the download group and in a root-level README.txt in both ZIP variants, not inside the PDFs. Native records include actual Word documents, MIME emails and data files rather than Markdown-only case summaries. This experimental aid is not legal advice; filing and settlement require the appropriate authority and actual confirmation.
+Section 1.4 links three small cases and two separate versions of the Muster/Seewerk case, each retaining fourteen logical core annexes. A separate Uferwerk appeal case is supplied as a PDF-only ZIP with a case index, complete first-instance records and post-judgment correspondence; it includes the notice of appeal and leaves its reasoning to the workshop participant. The five earlier cases each have a combined PDF, a flat ZIP of individual PDFs and a flat native-document ZIP. The warning appears immediately above the download group and in a root-level README.txt in both ZIP variants, not inside the PDFs. Native records include actual Word documents, MIME emails and data files rather than Markdown-only case summaries. This experimental aid is not legal advice; filing and settlement require the appropriate authority and actual confirmation.
 
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->

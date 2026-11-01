@@ -101,7 +101,7 @@ def check(dist=None):
     errors = []
     count = download_checks.validate_download_notices(NAME + "/README.md", (PLUGIN / "README.md").read_text(), errors)
     seewerk = json.loads((PLUGIN / "testakte/pruefung/seewerk-bestand.json").read_text(encoding="utf-8"))
-    require(count == len(cases) + len(seewerk) + 1 and not errors, f"Downloadhinweise: {errors}")
+    require(count == len(cases) + len(seewerk) + 2 and not errors, f"Downloadhinweise: {errors}")
     module("build-kuendigungsschutz-akten").validate_data(cases)
     documents = pages = 0
     for case in cases:
@@ -153,9 +153,14 @@ def check(dist=None):
         require(pdf_pages(total.read_bytes()) == individual_texts, "Gesamt-PDF und Einzel-PDFs divergieren")
         documents += len(original_bytes)
         pages += len(individual_texts)
+    # Die zusätzliche Uferwerk-Bestellung ist ausdrücklich ein PDF-only-ZIP.
+    module("test-uferwerk-berufungsakte").check()
     if dist:
         files = {path.name: path for path in dist.iterdir() if path.is_file()}
-        require(len(files) == 36, "Releaseumfang")
+        require(len(files) == 37, "Releaseumfang")
+        uferwerk = "testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip"
+        require(files[uferwerk].read_bytes() == (PLUGIN / "testakte/downloads" / uferwerk).read_bytes(),
+                "Uferwerk-Release nicht identisch mit geprüftem PDF-ZIP")
         for line in files["checksums-sha256.txt"].read_text().splitlines():
             digest, filename = line.split("  ", 1)
             require(hashlib.sha256(files[filename].read_bytes()).hexdigest() == digest, "Prüfsumme")

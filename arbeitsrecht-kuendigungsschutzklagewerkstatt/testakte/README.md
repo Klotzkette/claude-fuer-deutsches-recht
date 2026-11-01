@@ -1,12 +1,12 @@
 # 1. Kündigungsschutz Aktenregister
 
-Drei kleine Arbeitsakten und zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk. Jede Fassung liefert eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
+Drei kleine Arbeitsakten, zwei Fassungen des großen Kündigungsschutzmandats Muster / Seewerk und eine eigenständige Uferwerk-Berufungsakte. Die fünf bisherigen Fassungen liefern eine Gesamt-PDF, ein flaches ZIP mit einer PDF je tatsächlichem Dokument und ein flaches ZIP der nativen Originale. Bei Seewerk steht zusätzlich ein ausdrücklich gebündelter Anlagen-Satz mit genau K1 bis K14 bereit.
 
 Die drei kleinen Akten haben den Aktenstand 22.10.2026 und bleiben unverändert. Die beiden Seewerk-Fassungen verwenden den simulierten Bearbeitungstag 23.11.2026. Der tatsächliche Quellenprüfstand ist 22.10.2026. Das [Referentenmaterial](../referentenmaterial/README.md) bleibt vollständig außerhalb der Akten-Downloads.
 
 <!-- reserved-example-contacts -->
 
-Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Bilder sind Rekonstruktionen einer erfundenen Oberfläche. Kein Download enthält Lösungsblätter oder nachträglich erfundene Gerichtsentscheidungen. README.txt steht in jedem ZIP zuerst; in den PDFs steht kein Warnhinweis. Alle folgenden Links führen auf vorhandene lokale Dateien.
+Personen, Unternehmen, Anschriften und Vorgangsnummern sind erfunden. Kontaktadressen verwenden reservierte .example-Domains. Die App-Bilder sind Rekonstruktionen einer erfundenen Oberfläche. Die fünf bisherigen Fallfassungen enthalten keine Gerichtsentscheidungen. Die Uferwerk-Akte enthält die ausdrücklich bestellte fiktive erste Instanz mit Urteil; eine Berufungsbegründung oder ein Lösungsblatt wird nicht mitgeliefert. README.txt steht in jedem ZIP zuerst; in den PDFs steht kein Warnhinweis. Alle folgenden Links führen auf vorhandene lokale Dateien.
 
 ## 1.1. Ottilie Riemenschneider und die Versanddisposition in Leipzig
 
@@ -89,3 +89,13 @@ Nach einer Kündigung wird eine Schwangerschaft ärztlich festgestellt. Die Akte
 | Einzel-PDF-ZIP | [Jedes tatsächliche Dokument als eigenes PDF](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-einzelpdfs.zip) |
 | Akten-ZIP | [Bearbeitbare Originaldateien](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell.zip) |
 | Anlagen K1 bis K14 | [Vierzehn geordnete Anlagen-PDFs](downloads/testakte-arbeitsrecht-muster-seewerk-lebensakte-radolfzell-anlagen-k1-k14.zip) |
+
+## 1.6. Muster gegen Uferwerk - Berufungsakte
+
+93 Aktenstücke und ein Aktenverzeichnis, 94 PDFs und 155 Seiten. Vom Arbeitsvertrag 2008 über die vollständige erste Instanz bis zur Berufungseinlegung und Mandantinnenkorrespondenz nach dem Urteil. Bearbeitungsstand: 30.10.2026. [Fallbeschreibung und Benutzung](uferwerk-berufung/README.md). Diese Bestellung wird ausschließlich als PDF-ZIP mit Aktenverzeichnis bereitgestellt.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Uferwerk-PDF-Akte als ZIP](downloads/testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip)

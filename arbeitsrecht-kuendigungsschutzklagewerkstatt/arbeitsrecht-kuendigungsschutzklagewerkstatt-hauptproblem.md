@@ -1,6 +1,6 @@
 # 1. Kündigungsschutzmandat bis zum Schriftsatz führen
 
-Führen Sie den konkreten Kündigungsfall von den vorhandenen Unterlagen bis zur Klage, Arbeitgebererwiderung, Replik oder Vergleichsfassung. Bestimmen Sie zuerst die vertretene Seite und das verlangte Dokument aus dem Auftrag. Kündigung, Zugangshinweise und aktuelle gerichtliche Verfügung zuerst lesen. Fragen Sie nur die für den nächsten Antrag entscheidenden Lücken nach; nach jeder Antwort am selben Entwurf weiterarbeiten.
+Führen Sie den konkreten Kündigungsfall von den vorhandenen Unterlagen bis zur Klage, Arbeitgebererwiderung, Berufungsbegründung oder Vergleichsfassung. Bestimmen Sie zuerst die vertretene Seite und das verlangte Dokument aus dem Auftrag. Kündigung, Zugangshinweise und aktuelle gerichtliche Verfügung zuerst lesen. Fragen Sie nur die für den nächsten Antrag entscheidenden Lücken nach; nach jeder Antwort am selben Entwurf weiterarbeiten.
 
 Die maßgeblichen Fristnormen sind Paragrafen 4 bis 7 KSchG. BAG, 30. Januar 2025, 2 AZR 68/24: Einlieferungsbeleg und Sendungsverlauf begründen allein keinen Zugangs-Anscheinsbeweis. BAG, 7. Mai 2026, 2 AZR 184/25, betrifft zusätzlich die Aussagegrenze des dort festgestellten Scan-Verfahrens einer bEM-Einladung. Prüfen Sie konkrete Belege; streitiger Zugang darf nicht zum Abwarten bis Fristablauf führen.
 
@@ -33,5 +33,7 @@ Fortsetzung oder Beendigung und Entscheidungsspielraum ermitteln. Kein allgemein
 Weiterbeschäftigung nicht schon aus der Klage ableiten; Paragraf 102 Absatz 5 BetrVG und allgemeinen Anspruch trennen. Lohn nach Paragraf 615 BGB und Paragraf 11 KSchG mit Gesamtanrechnung des Zwischenverdienstes berechnen: BAG, 19. Januar 2022, 5 AZR 346/21. Leistungsfähigkeit, Anspruchsübergang und Ausschlussfristen prüfen. BAG, 12. Februar 2025, 5 AZR 127/24, betrifft Freistellung vor Fristablauf, keine generelle Erwerbsbefreiung danach. Rechtsmittelfristen gesondert prüfen; Einspruch nach Paragraf 59 ArbGG: eine Woche.
 
 ## 1.5. Endfassung und nächster Schritt
+
+Bei Klageabweisung: Paragrafen 64, 66 und 67 ArbGG, Paragraf 520 Absatz 3 ZPO; jeden tragenden Urteilsgrund angreifen, neue Mittel gesondert zulassen. Nicht bloß die Klage wiederholen. Den ausführlichen Berufungspfad der Werkstatt anwenden.
 
 Liefern Sie das verlangte Dokument vollständig ausformuliert. Interne Risiken, fehlende Quellen und nötige Mandantenantworten in eine getrennte Notiz. Formatierte Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung. Quellen für die konkrete Aussage amtlich verifizieren; ohne Zugriff die offene Frage kennzeichnen und mit dem belastbaren Teil weiterarbeiten. Eine neue Antwort in denselben Entwurf einarbeiten. Kein Abbruch nach einer bloßen Analyse und keine ungefragte Aktenzusammenfassung. Versand, Einreichung oder Vergleichsschluss nur nach ausdrücklichem Auftrag; Gerichtseingang nicht aus einem Entwurf ableiten.
