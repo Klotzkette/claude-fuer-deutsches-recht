@@ -8,7 +8,7 @@ description: "Für Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG): ordn
 ## Normenanker
 
 - Paragraf 31 UrhG - Einraeumung von Nutzungsrechten (einfach vs. ausschließlich)
-- Paragraf 31a UhG - Verträge über unbekannte Nutzungsarten
+- Paragraf 31a UrhG - Verträge über unbekannte Nutzungsarten
 - Paragraf 32 UrhG - angemessene Vergütung (Anspruch des Urhebers)
 - Paragraf 32a UrhG - weitere Beteiligung des Urhebers (Bestseller-Klausel; Paragraf 32a Abs. 2 für Dritte)
 - Paragraf 35 UrhG - Einraeumung weiterer Nutzungsrechte (Sub-Lizenz)
