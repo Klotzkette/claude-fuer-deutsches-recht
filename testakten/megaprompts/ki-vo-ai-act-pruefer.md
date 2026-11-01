@@ -417,7 +417,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `gpai-vorliegen-art-3-nr-63` — Prüft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
 - `gpai-modelle-art-51-bis-55` — GPAI-Pflichten: Verhaltenskodizes, technische Dokumentation, Transparenz (Art. 51-55 KI-VO).
 - `gpai-systemisches-risiko-schwelle-10e25-flop` — Prüft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
-- `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
+- `bevollmaechtigter-produkthersteller-pflichten` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
 - `einfuehrer-importer-pflichten-art-23` — Sorgfaltspflichten des Importeurs von KI-Systemen aus Drittstaaten (Art. 23 KI-VO).
 - `haendler-distributor-pflichten-art-24` — Sorgfaltspflichten des Distributeurs beim Weitervertrieb von Hochrisiko-KI (Art. 24 KI-VO).
 - `betreiber-deployer-pflichten-art-26` — Betreiberpflichten beim Einsatz eingekaufter Hochrisiko-KI-Systeme (Art. 26 KI-VO).
@@ -878,13 +878,13 @@ Detailprüfung: `haendler-distributor-pflichten-art-24`
 
 Eine in der EU ansässige natürliche oder juristische Person, die vom Anbieter eines in einem Drittland ansässigen schriftlich bevollmächtigt wurde, in seinem Namen bestimmte Aufgaben zu erfüllen.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ### Produkthersteller — Art. 3 in Verbindung mit Art. 25 Abs. 1 KI-VO
 
 Wer ein KI-System als Sicherheitsbauteil in ein Produkt integriert, das unter Anhang I gelistete Unionsvorschriften fällt, und das Produkt unter eigenem Namen in Verkehr bringt.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ## Mehrfachrollen
 
@@ -902,7 +902,7 @@ In der Praxis sind Mehrfachrollen häufig:
 | Betreiber | `rolle-betreiber-pruefen-art-3-nr-4` |
 | Einführer | `einfuehrer-importer-pflichten-art-23` |
 | Händler | `haendler-distributor-pflichten-art-24` |
-| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` |
+| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-produkthersteller-pflichten` |
 | Unklare Rolle / Rollenwechsel möglich | `anbieter-werden-art-25` |
 
 ## Wichtiger Hinweis
@@ -995,13 +995,13 @@ Detailprüfung: `haendler-distributor-pflichten-art-24`
 
 Eine in der EU ansässige natürliche oder juristische Person, die vom Anbieter eines in einem Drittland ansässigen schriftlich bevollmächtigt wurde, in seinem Namen bestimmte Aufgaben zu erfüllen.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ### Produkthersteller — Art. 3 in Verbindung mit Art. 25 Abs. 1 KI-VO
 
 Wer ein KI-System als Sicherheitsbauteil in ein Produkt integriert, das unter Anhang I gelistete Unionsvorschriften fällt, und das Produkt unter eigenem Namen in Verkehr bringt.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ## Mehrfachrollen
 
@@ -1019,7 +1019,7 @@ In der Praxis sind Mehrfachrollen häufig:
 | Betreiber | `rolle-betreiber-pruefen-art-3-nr-4` |
 | Einführer | `einfuehrer-importer-pflichten-art-23` |
 | Händler | `haendler-distributor-pflichten-art-24` |
-| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` |
+| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-produkthersteller-pflichten` |
 | Unklare Rolle / Rollenwechsel möglich | `anbieter-werden-art-25` |
 
 ## Wichtiger Hinweis

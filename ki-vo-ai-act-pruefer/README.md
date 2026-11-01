@@ -219,7 +219,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - `betreiber-deployer-pflichten-art-26` — inkl. Grundrechte-Folgenabschätzung Art. 27
 - `einfuehrer-importer-pflichten-art-23`
 - `haendler-distributor-pflichten-art-24`
-- `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+- `bevollmaechtigter-produkthersteller-pflichten`
 
 ### G. GPAI-Modelle
 

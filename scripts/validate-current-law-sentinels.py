@@ -1970,6 +1970,60 @@ SENTINEL_HINTS += (
     ("starug-gerichte",),
 )
 
+
+# Eng begrenzte Rückfallkontrollen aus unabhängig geprüften Fehlerhinweisen.
+# Altjahresangaben bleiben zulässig; die Muster ersetzen keine Rechtsprüfung.
+SENTINELS += (
+    Sentinel(
+        "Geschenke an Nichtarbeitnehmer mit unmarkierter Altgrenze",
+        re.compile(
+            r"^(?![^\n]*(?:Altjahr|Altgrenze|bis\s+2023|vor\s+(?:dem\s+)?(?:01[.]01[.]2024|2024)))"
+            r"[^\n]*Geschenke[^\n]{0,100}(?:Freigrenze|Grenze|bis)\s*:?\s*35\s*(?:Euro|EUR|€)",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "nicht vorhandener Absatz bei Arbeitgeber-Reisekostenbefreiung",
+        re.compile(r"(?:Paragraf|§)\s*3\s+Abs(?:atz|[.])?\s*1\s+(?:Nr[.]?|Nummer)\s*16\s+EStG", re.IGNORECASE),
+    ),
+    Sentinel(
+        "unmarkierte aktuelle Lizenzschranke nach 4j EStG",
+        re.compile(
+            r"^(?![^\n]*(?:\ba[.]?\s*F[.]?|Altjahr|VZ\s*2024|weggefallen|aufgehoben|abgeschafft|letztmals))"
+            r"[^\n]*(?:Paragraf|§)\s*4j\s+EStG[^\n]{0,100}Lizenzschranke",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "Drei-Jahres-Laufzeit der 50c-Freistellung",
+        re.compile(
+            r"^(?=[^\n]*(?:50c|BZSt))(?![^\n]*(?:48b|44a|Altstand|bis\s+2024|früher|fünf|5\s+Jahre))"
+            r"[^\n]*Freistellungsbescheinigung[^\n]{0,100}(?:drei|3)\s+Jahre",
+            re.IGNORECASE | re.MULTILINE,
+        ),
+    ),
+    Sentinel(
+        "falsche aktuelle DAC8-Gesetzesabkürzung",
+        re.compile(r"\bKryptoStG\b"),
+    ),
+    Sentinel(
+        "Cloud-Wechselrecht in Artikel 17 Data Act",
+        re.compile(
+            r"(?:Data\s+Act\s+(?:VO\s*2023/2854\s*)?(?:Art[.]?|Artikel)\s*17\s*[:(–—-]\s*Wechselrecht|"
+            r"Wechselrecht\s*(?:Cloud\s*)?\(\s*(?:Art[.]?|Artikel)\s*17\s+Data\s+Act)",
+            re.IGNORECASE,
+        ),
+    ),
+)
+SENTINEL_HINTS += (
+    ("geschenke",),
+    ("estg",),
+    ("4j",),
+    ("freistellungsbescheinigung",),
+    ("kryptostg",),
+    ("wechselrecht",),
+)
+
 if len(SENTINEL_HINTS) != len(SENTINELS):
     raise RuntimeError("SENTINEL_HINTS und SENTINELS sind nicht synchron")
 

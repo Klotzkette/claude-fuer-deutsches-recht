@@ -5,17 +5,20 @@ description: "Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast
 
 # Steuern und Quellensteuer — Lizenz
 
-## Drei Steuerthemen
+## 1. Steuerthemen
 
-### A. Quellensteuer auf Royalties
+### 1.1. Quellensteuer auf Royalties
 
 | Norm | Inhalt |
 |---|---|
-| Paragraf 49 I Nr. 6 EStG | Lizenzgebuehren an beschraenkt steuerpflichtige Ausländer: Quellensteuer 15 % |
-| Paragraf 50a EStG | Steuerabzug an der Quelle; Schuldner = Lizenznehmer |
-| Paragraf 50d EStG | Erstattungs-/Freistellungsverfahren beim Bundeszentralamt für Steuern (BZSt) |
+| Paragraf 49 EStG | Zunächst die inländischen Einkünfte und die einschlägige Einkunftsart feststellen; ein ausländischer Sitz allein begründet keinen Steuerabzug. |
+| Paragraf 50a Absatz 1 Nummer 3, Absatz 2 und Absatz 5 EStG | Bei erfassten Lizenzvergütungen beträgt der Steuerabzug grundsätzlich 15 % der gesamten Einnahmen. Der Lizenznehmer als Vergütungsschuldner behält die Steuer für Rechnung des Lizenzgebers ein und führt sie ab; ein anfallender Solidaritätszuschlag ist gesondert zu berücksichtigen. |
+| Paragraf 50c Absatz 2 und Absatz 3 EStG | Das Bundeszentralamt für Steuern (BZSt) entscheidet über die Freistellungsbescheinigung nach Absatz 2 und die Erstattung bereits entrichteter Abzugsteuer nach Absatz 3. |
+| Paragraf 50d Absatz 3 EStG | Bei abkommensrechtlicher Entlastung die persönlichen und wirtschaftlichen Voraussetzungen sowie die gesetzlichen Ausnahmen der Missbrauchsregelung prüfen. Die Vorschrift ersetzt nicht das Entlastungsverfahren nach Paragraf 50c EStG. |
 
-### B. DBA-Reduktion
+Amtliche Prüfgrundlagen: [Paragraf 50a EStG](https://www.gesetze-im-internet.de/estg/__50a.html), [Paragraf 50c EStG](https://www.gesetze-im-internet.de/estg/__50c.html), [Paragraf 50d EStG](https://www.gesetze-im-internet.de/estg/__50d.html), die [BZSt-Information zum Steuerabzug und Solidaritätszuschlag](https://online.portal.bzst.de/SharedDocs/Leistungsbeschreibung/DE/steuerabzugsverfahren_nach_50_a.html?nn=25056) und die [BOP-Hilfe zu Freistellung und Erstattung bei Lizenzvergütungen](https://www.elster.de/bportal/helpGlobal?themaGlobal=help_stabentlastung). Den materiellen DBA-Anspruch, das Entlastungsverfahren und vertragliche Mitwirkungspflichten getrennt prüfen.
+
+### 1.2. DBA-Reduktion
 
 Doppelbesteuerungsabkommen reduzieren regelmaessig die Quellensteuer:
 
@@ -31,11 +34,11 @@ Doppelbesteuerungsabkommen reduzieren regelmaessig die Quellensteuer:
 
 → Vor Vertragsschluss: DBA prüfen, Freistellungsbescheinigung beantragen.
 
-### C. EU-Zinsen-Lizenzgebuehren-Richtlinie (2003/49/EG)
+### 1.3. EU-Zinsen-Lizenzgebühren-Richtlinie (2003/49/EG)
 
 Bei Lizenzen zwischen verbundenen Unternehmen (mindestens 25 % Beteiligung) in EU-Mitgliedstaaten: Quellensteuer 0 %.
 
-### D. Umsatzsteuer
+### 1.4. Umsatzsteuer
 
 - B2B Lizenz innerhalb EU: Reverse-Charge (Paragraf 13b UStG)
 - B2C Lizenz: USt-Pflicht im Empfaengerland

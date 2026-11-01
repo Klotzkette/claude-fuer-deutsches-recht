@@ -18,12 +18,12 @@ description: "Für Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter
 Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlich relevant:
 
 - **§ 8 EStG**: Geldwerter Vorteil = sachlicher Wert der empfangenen Leistung; Restauranteinladung = Betriebseinnahme, wenn Zusammenhang mit Kooperation.
-- **§ 22 Nr. 3 EStG**: Gelegentliche Einnahmen bis 256 € steuerfrei; Überschreitung → Einkommensteuerpflicht.
-- **§ 3 Abs. 1 Nr. 16 EStG**: Reisekosten-Freistellung nur für echte Dienstreisen, nicht für Influencer-Trips ohne Arbeitgeberbeziehung.
+- **§ 22 Nr. 3 EStG**: Nur subsidiär für Leistungen außerhalb anderer Einkunftsarten prüfen; die Freigrenze betrifft Einkünfte von weniger als 256 € im Kalenderjahr. Betrieblich veranlasste Einladungen werden nicht allein wegen eines fehlenden Posting-Auftrags zu sonstigen Einkünften.
+- **§ 3 Nr. 16 EStG**: Arbeitgebererstattungen an Arbeitnehmer außerhalb des öffentlichen Dienstes sind innerhalb der gesetzlichen Abzugsgrenzen steuerfrei. Selbstständige Creator können diese Befreiung nicht allein auf eine vom Brand bezahlte Reise anwenden.
 - **§ 5a UWG**: Einladung mit Kooperationserwartung → Kennzeichnungspflicht für den resultierenden Post.
 - **BGH I ZR 35/21**: Auch unverlangte Leistungen können Kennzeichnungspflicht begründen.
-- **§ 4 Abs. 5 Nr. 2 EStG**: Bewirtungskosten als Betriebsausgabe nur zu 70 %; aber: für Creator als Empfänger ist es eine Einnahme.
-- **Steuerrecht Gastgeber**: Einladung = Betriebsausgabe des Brands; Geschenk-Grenze 50 € (§ 4 Abs. 5 Nr. 1 EStG).
+- **§ 4 Abs. 5 Satz 1 Nr. 2 EStG**: Die Abzugsbeschränkung für geschäftliche Bewirtung beim Gastgeber von einer Sachvergütung beim Creator unterscheiden. Die Teilnahme an einer Bewirtung und eine vergütete Werbeleistung nicht gleichsetzen.
+- **Steuerrecht Gastgeber**: Leistungsvergütung, geschäftliche Bewirtung und Geschenk getrennt einordnen. Nur bei einem Geschenk an Nichtarbeitnehmer die Freigrenze von 50 € je Empfänger und Wirtschaftsjahr nach § 4 Abs. 5 Satz 1 Nr. 1 EStG anwenden; ein Posting-Entgelt ist nicht schon wegen seiner Sachform ein Geschenk.
 
 ### Einladungs-Steuermatrix
 
@@ -31,8 +31,8 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 |-----------|-------------------|
 | Restauranteinladung + Posting-Auftrag | Betriebseinnahme (Marktwert) |
 | Hotel + Posting-Auftrag | Betriebseinnahme (Listenpreis) |
-| Einladung ohne Auftrag, kein Post | § 22 Nr. 3 EStG – bis 256 € frei |
-| Einladung, unaufgefordert gepostet | Betriebseinnahme (BGH-Rspr.) |
+| Einladung ohne Auftrag, kein Post | Betrieblichen Zusammenhang prüfen; kein automatischer Freibetrag |
+| Einladung, unaufgefordert gepostet | Betriebliche Veranlassung steuerlich prüfen; die werberechtliche BGH-Rechtsprechung entscheidet nicht über die Einkunftsart |
 | Private Einladung (kein Bezug zu Creator-Tätigkeit) | Keine Steuerpflicht |
 
 ## Kaltstart-Fragen (6)
@@ -49,7 +49,7 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 - Auftragsbeziehung: Schriftlich oder mündlich? → Dokumentation.
 - Marktwert: Hotelübernachtung (Listenpreis), Restaurantmenu (Menüpreis) → in EÜR erfassen.
 - Kennzeichnung: Post nach Einladung → Prüfen, ob werblicher Charakter erkennbar.
-- Steuerfreigrenze: § 22 Nr. 3 EStG – 256 € p. a. für gelegentliche Einnahmen; bei Kooperation entfällt Freigrenze.
+- Einkunftsart zuerst bestimmen; nur im Anwendungsbereich des § 22 Nr. 3 EStG die gesamten einschlägigen Einkünfte des Kalenderjahres mit der Freigrenze von 256 € vergleichen.
 - Bewirtungsbeleg: Für Betriebsprüfung: Name der bewirtenden Person + Geschäftsanlass.
 - Presseeinladung: Journalistische Einladung ohne Postingauftrag → steuerlich anders zu beurteilen.
 
@@ -63,6 +63,9 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 
 - § 8 EStG: https://www.gesetze-im-internet.de/estg/__8.html
 - § 22 Nr. 3 EStG: https://www.gesetze-im-internet.de/estg/__22.html
+- § 3 Nr. 16 EStG: https://www.gesetze-im-internet.de/estg/__3.html
+- § 4 Abs. 5 Satz 1 Nr. 1 und 2 EStG: https://www.gesetze-im-internet.de/estg/__4.html
+- [BMF: Steuerliche Hinweise für Influencer, insbesondere Sachzuwendungen](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerliche_Themengebiete/Social_Media_Akteure/2020-07-30-FAQ-Ich-bin-Influencer.pdf?__blob=publicationFile&v=5). Für Beträge und konkrete Bewertung den aktuellen Gesetzesstand prüfen; Steuerverweise geprüft am 1.11.2026.
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 - BGH I ZR 35/21: https://openjur.de/u/2432342.html
 

@@ -3,6 +3,12 @@
 
 from __future__ import annotations
 
+
+if __name__ == "__main__":
+    from generator_cli import parse_generator_cli
+
+    parse_generator_cli(__doc__)
+
 import html
 import json
 from pathlib import Path

@@ -500,8 +500,6 @@
     }
   ],
   "artifact_hashes": {
-    "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
-    "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md": "3868d738b2becdeef000584d67dd78f1fbcf08f33e928ddbbc060dff32caf509",
     "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
     "anwaltschaft-generell/skills/agb-im-geschaeftsverkehr-pruefen/SKILL.md": "5a57be0d6d018eefa2b403d18364c7c7148b1c9708440d60de57fa9d304bba5f",
     "anwaltschaft-generell/skills/ansprueche-beweise-und-fristen-pruefen/SKILL.md": "8a455cf91ef60b7ffcf35bf8ae24b51b1a75f5f7c02100decd8a01b352917840",
@@ -533,6 +531,26 @@
         "reason": "Konkretes anwaltliches Arbeitsprodukt vor Untergliederung; Zugangsbeweis früh eingegrenzt.",
         "anchor_or_exception": "Paragraf 130 BGB; BAG 30.01.2025 2 AZR 68/24: Einlieferungsbeleg und Sendungsstatus allein tragen keinen Anscheinsbeweis; andere Beweismittel nicht ausgeschlossen."
       }
+    ]
+  },
+  "file_hash_consistency_review_2026_11_01": {
+    "date": "2026-11-01",
+    "method": "file_hash_consistency_check",
+    "finding": "Die nachstehenden Prüfsummen passen nicht zum aktuellen Dateiinhalt. Sie wurden aus den aktiven Hashfeldern entfernt und ausschließlich als historische Prüffassungen erhalten.",
+    "scope": "Nur SHA-256-Abgleich der angegebenen Dateien; keine neue fachliche Prüfung, Quellenverifikation oder Live-Modellausführung. Frühere Prüfzeitpunkte werden nicht auf den heutigen Stand übertragen. Übereinstimmende aktuelle Hashfelder und die gesondert geprüften Promptfassungen bleiben überprüfbar.",
+    "historical_file_hashes": {
+      "artifact_hashes": {
+        "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+        "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md": "3868d738b2becdeef000584d67dd78f1fbcf08f33e928ddbbc060dff32caf509"
+      }
+    }
+  },
+  "file_review_status": {
+    "status": "needs_review",
+    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "files": [
+      "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md",
+      "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md"
     ]
   }
 }

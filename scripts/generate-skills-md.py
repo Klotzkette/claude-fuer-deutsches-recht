@@ -16,6 +16,12 @@ Idempotent: schreibt SKILLS.md neu. Liest Version aus marketplace.json.
 """
 from __future__ import annotations
 
+
+if __name__ == "__main__":
+    from generator_cli import parse_generator_cli
+
+    parse_generator_cli(__doc__)
+
 from release_routing import plugin_asset_url
 import json
 import re

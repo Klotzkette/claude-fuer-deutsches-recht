@@ -26,8 +26,22 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 - **CRA** VO (EU) 2024/2847; Anhang I Cybersecurity Requirements (Teil I) und Vulnerability Handling (Teil II); Anhang III Wichtige/kritische Produkte.
 - **Geltungsstaffelung Art. 71 CRA:** Vorfall- und Schwachstellenmeldungen ab 11.09.2026; Hauptpflichten 11.12.2027.
 - **Schnittstellen:** MaschinenVO VO (EU) 2023/1230; KI-VO VO (EU) 2024/1689; NIS-2-RL (EU) 2022/2555 und BSIG; ProdHaftG/VO (EU) 2024/2853; RED-VO (EU) 2014/53 i. V. m. delegierter VO (EU) 2022/30 (RED-Cybersecurity).
-- **Vorfallmeldungen** an ENISA und CSIRT Art. 14 CRA: Frühwarnung 24 h, Zwischenbericht 72 h, Abschlussbericht 1 Monat.
+- **Herstellermeldungen nach Artikel 14 CRA:** Aktiv ausgenutzte Schwachstellen und schwerwiegende Sicherheitsvorfälle getrennt prüfen. 24-/72-Stunden-Meldungen knüpfen an Kenntnis an; für den Abschlussbericht gelten je nach Pfad unterschiedliche Auslöser und Fristen (siehe Meldeplan).
 - **Geldbußen** Art. 64 CRA: bis 15 Mio. EUR oder 2,5 % weltweiter Jahresumsatz für wichtigste Pflichtverstöße.
+
+## Meldeplan nach Artikel 14 CRA
+
+Artikel 14 gilt seit **11.09.2026** (Artikel 71 Absatz 2 CRA). Hersteller führen den Kenntniszeitpunkt für jeden Tatbestand gesondert. Eine bloße Auffälligkeit belegt noch keine aktiv ausgenutzte Schwachstelle. Bei einem Sicherheitsvorfall die Schwerekriterien des Artikels 14 Absatz 5 prüfen, insbesondere den Schutz sensibler oder wichtiger Daten/Funktionen und die Einführung oder Ausführung böswilligen Codes. Treffen beide Tatbestände zu, beide Pfade abarbeiten.
+
+| Meldestufe | Aktiv ausgenutzte Schwachstelle (Artikel 14 Absätze 1 und 2) | Schwerwiegender Sicherheitsvorfall mit Auswirkungen auf die Produktsicherheit (Artikel 14 Absätze 3 und 4) |
+|---|---|---|
+| Frühwarnung | Unverzüglich, spätestens 24 Stunden ab Kenntnis. Die Mitgliedstaaten nennen, in denen das Produkt nach Kenntnis des Herstellers bereitgestellt wurde. | Unverzüglich, spätestens 24 Stunden ab Kenntnis. Angeben, ob rechtswidrige oder böswillige Handlungen vermutet werden; gegebenenfalls die bekannten Bereitstellungs-Mitgliedstaaten nennen. |
+| Meldung | Unverzüglich, spätestens 72 Stunden ab Kenntnis, soweit noch nicht vorgelegt: verfügbare Angaben zu Produkt, Schwachstelle und Ausnutzungsart, ergriffenen Korrektur-/Risikominderungsmaßnahmen und Handlungsmöglichkeiten der Nutzer; gegebenenfalls Sensibilität der Informationen angeben. | Unverzüglich, spätestens 72 Stunden ab Kenntnis, soweit noch nicht übermittelt: verfügbare Angaben zur Vorfallart, erste Bewertung, ergriffene Korrektur-/Risikominderungsmaßnahmen und Handlungsmöglichkeiten der Nutzer; gegebenenfalls Sensibilität der Informationen angeben. |
+| Abschlussbericht | Soweit noch nicht vorgelegt: spätestens **14 Tage nach Verfügbarkeit einer Korrektur- oder Risikominderungsmaßnahme**. Schwachstelle, Schweregrad und Auswirkungen, verfügbare Informationen über ausnutzende böswillige Akteure sowie bereitgestellte Sicherheitsupdates oder andere Korrekturmaßnahmen beschreiben. | Soweit noch nicht übermittelt: **innerhalb eines Monats nach Übermittlung der Vorfallmeldung nach Absatz 4 Buchstabe b**. Vorfall einschließlich Schweregrad und Auswirkungen ausführlich beschreiben; wahrscheinliche Bedrohung/Ursache sowie getroffene und laufende Abhilfemaßnahmen angeben. |
+
+Der **Zwischenbericht** nach Artikel 14 Absatz 6 enthält relevante Statusaktualisierungen und wird auf Aufforderung des ursprünglich empfangenden Koordinator-CSIRT vorgelegt. Er ist keine feste 72-Stunden-Meldestufe. Meldungen laufen über den einschlägigen CSIRT-Endpunkt der einheitlichen Meldeplattform und sind gleichzeitig für ENISA zugänglich (Artikel 14 Absatz 7, Artikel 16). Die 24-/72-Stunden-Grenzen sind Höchstfristen; erforderliche Meldungen nicht bis zu deren Ablauf aufschieben.
+
+[Amtlicher CRA-Text, Artikel 14 Absätze 1 bis 7 und Artikel 71 Absatz 2; geprüft 01.11.2026](https://eur-lex.europa.eu/eli/reg/2024/2847/oj).
 
 ## Schritt für Schritt
 
@@ -36,7 +50,7 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 3. **Vulnerability Handling.** Anhang I Teil II: Schwachstellen-Policy, Coordinated Vulnerability Disclosure (CVD), SBOM, Sicherheitsupdates während Support-Periode.
 4. **SBOM.** Maschinenlesbar (CycloneDX/SPDX), per Update aktualisiert; Hash der Lieferung.
 5. **Penetration Testing** und Threat Modeling vor Inverkehrbringen.
-6. **Vorfall- und Schwachstellenmeldungen** an ENISA und CSIRT (Single Reporting Platform) ab 11.09.2026; Fristen 24 h / 72 h / 1 Monat.
+6. **Vorfall- und Schwachstellenmeldungen.** Seit 11.09.2026 den vorstehenden Meldeplan anwenden: Tatbestand und Kenntniszeitpunkt, zuständigen CSIRT-Endpunkt, Pflichtangaben jeder Stufe und fristauslösendes Ereignis des Abschlussberichts dokumentieren. Zwischenberichte nach Absatz 6 nur auf entsprechende Aufforderung vorlegen.
 7. **Konformitätsbewertung** Modul nach Anhang VIII CRA; bei kritischen Produkten Pflicht zur Notified Body.
 8. **Support-Periode.** Mindestens 5 Jahre, sofern Lebenszyklus nicht kürzer (Art. 13 Abs. 8 CRA).
 9. **Vertragsklauseln** mit Zulieferern: SBOM-Pflicht, Schwachstellen-SLA, Update-Bereitstellung.
@@ -68,9 +82,11 @@ Der Cyber Resilience Act (CRA, VO (EU) 2024/2847) führt eine horizontale CE-Pfl
 
 > Der Lieferant stellt mit jeder Lieferung eine SBOM im CycloneDX-Format zur Verfügung. Der Lieferant verpflichtet sich, sicherheitsrelevante Schwachstellen seiner gelieferten Komponenten innerhalb von 24 Stunden nach Bekanntwerden gegenüber dem Auftraggeber zu melden und innerhalb von 72 Stunden eine Risikoeinschätzung zu liefern. Sicherheitsupdates werden im Rahmen der CRA-Support-Periode von 5 Jahren bereitgestellt.
 
-**Frühwarnmeldung (Auszug an CSIRT/ENISA):**
+**Frühwarnung einer aktiv ausgenutzten Schwachstelle (auszufüllendes Beispiel):**
 
-> Frühwarnung Art. 14 Abs. 2 CRA: Datum [Datum], Hersteller [Firma], Produkt [Modell], betroffene Versionen [n]. Beobachtung: ungewöhnliche Authentifizierungsversuche an [Datum/Uhrzeit]. Vorläufige Risikoeinschätzung: hoch. Zwischenbericht folgt binnen 72 h. Ansprechpartner PSIRT: [Name, E-Mail, Telefon].
+> Wir, [Hersteller], melden gemäß Artikel 14 Absatz 1 und Absatz 2 Buchstabe a CRA eine aktiv ausgenutzte Schwachstelle in [Produkt und betroffene Versionen]. Wir haben am [Datum/Uhrzeit mit Zeitzone] Kenntnis von [konkret beschriebener Schwachstelle] und ihrer aktiven Ausnutzung erlangt; dies wird durch [Beleg der Ausnutzung] gestützt. Nach unserem derzeitigen Kenntnisstand wurde das Produkt in [Mitgliedstaaten] bereitgestellt. Die Schwachstellenmeldung nach Absatz 2 Buchstabe b übermitteln wir unverzüglich, spätestens bis [Datum/Uhrzeit innerhalb von 72 Stunden ab Kenntnis], soweit die betreffenden Informationen noch nicht vorliegen. Ansprechpartner ist [Name, E-Mail, Telefon].
+
+Eine lediglich vermutete Angriffshandlung nicht als belegte aktive Schwachstellenausnutzung ausgeben. Liegt stattdessen ein schwerwiegender Sicherheitsvorfall vor, den Pfad nach Absatz 3 und 4 verwenden und bereits in dessen Frühwarnung den Verdacht rechtswidriger oder böswilliger Handlungen ausdrücklich mit ja/nein/derzeit ungeklärt erläutern.
 
 ## Typische Fehler
 

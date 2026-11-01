@@ -1,85 +1,36 @@
 ---
 name: data-act-bei-backup-export
-description: "Für Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft IoT-Datenzugang und Cloud-Wechsel nach dem Data Act. Ordnet Artikel 43, Geschäftsgeheimnisse und personenbezogene Daten zu und entwirft ein Zugangskonzept oder eine konkrete Vereinbarung.
 ---
 
-# Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht
+# Data Act: IoT-Datenzugang und Datenbankrechte
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ein Maschinenbetreiber verlangt Sensordaten; der Dateninhaber beruft sich auf Datenbankrechte oder Geschäftsgeheimnisse. Ermittle die tatsächlich geschuldeten Daten und Schutzmaßnahmen. Ein gleichzeitiger Cloud-Wechsel ist ein eigener Anspruchsweg.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Vernetztes Produkt und verbundener Dienst, Nutzerstellung, Dateninhaber, Datenkategorien und Metadaten, Zugriffsarchitektur, verlangter Zweck, benannter Dritter, Verträge, Geheimnisnachweise und personenbezogene Bestandteile.
 
-## Mandantenfall
+## 3. Ablauf und Checkliste
 
-- Maschinenbauer (IoT-Gerätehersteller) fragt, welche Datenzugangspflichten der Data Act für seine Sensordaten begründet und ob das Datenbankherstellerrecht dem entgegensteht.
-- B2B-Kunde eines IoT-Anbieters verlangt nach Art. 4 Data Act Zugang zu den Maschinendaten, die sein Gerät erzeugt — welche Pflichten bestehen?
-- Cloud-Anbieter will wissen, wie er das Wechselrecht (Art. 17 Data Act) für Kundendaten implementiert und welche Datenbankrechte dabei betroffen sind.
+1. Bestimme Anwendungsbereich und Rollen nach Artikeln 1 bis 3 Data Act, einschließlich etwaiger Ausnahmen. Artikel 4 betrifft den Nutzerzugang, Artikel 5 die Bereitstellung an einen vom Nutzer benannten Dritten. Nicht jede abgeleitete Analyse ist ohne Weiteres verfügbare Produkt- oder Dienstdaten.
+2. Ordne bei fehlendem Direktzugriff die Anforderungen des Artikels 4 Absatz 1 zu: verfügbare Daten und erforderliche Metadaten, Qualität, Format, Sicherheit und rechtzeitige Bereitstellung. Die kostenlose Nutzerbereitstellung nicht mit einer Gegenleistung zwischen Unternehmen nach Artikel 9 verwechseln.
+3. Prüfe Artikel 43: Das Schutzrecht sui generis aus Artikel 7 der Richtlinie 96/9/EG findet auf die dort bezeichneten, durch vernetzte Produkte oder verbundene Dienste erlangten oder erzeugten Daten keine Anwendung. Das hebt weder jedes Urheberrecht noch sämtliche Rechte an einer gemischten Datenbank auf. Datenarten, Schutzgegenstand und verlangte Handlung einzeln abgrenzen.
+4. Artikel 4 Absatz 6 verlangt die Wahrung identifizierter Geschäftsgeheimnisse und vereinbarte Schutzmaßnahmen. Verweigerung oder Aussetzung nach Absatz 7 sowie die außergewöhnliche Ablehnung nach Absatz 8 nur bei den jeweiligen Nachweisen, Begründungen und Behördenmitteilungen anwenden. Bei Drittweitergabe die eigenständigen Regeln des Artikels 5 Absätze 9 bis 11 lesen. Eine bloße Geheimnisbehauptung genügt nicht.
+5. Bedingungen zwischen Dateninhaber und Datenempfänger an Artikel 8, Entgelte an Artikel 9 und einseitig auferlegte missbräuchliche B2B-Klauseln an Artikel 13 messen. Artikel 6 regelt die Pflichten des Datenempfängers; er ist kein allgemeiner Klauselwirksamkeitstatbestand.
+6. Personenbezogene Bestandteile nach Artikel 1 Absatz 5 Data Act getrennt prüfen. Der Data Act ersetzt keine nötige Rechtsgrundlage der Verarbeitung. Artikel 20 DSGVO gilt für betroffene natürliche Personen unter seinen Voraussetzungen, auch bei beruflichem Zusammenhang, nicht als Unternehmens-Exportrecht.
+7. Bei Cloud-Migration Artikel 2 Nummer 8 und Kapitel VI, insbesondere Artikel 23, 25, 29 und 31, prüfen. Datenzugang nach Kapitel II und Cloud-Wechsel nach Kapitel VI nicht austauschen. Geltungsbeginn und die jeweils betroffene Übergangsvorschrift aus Artikel 50 konkret zuordnen.
 
-## Erste Schritte
+## 4. Quellenpflicht
 
-1. Data-Act-Anwendungsbereich prüfen: Gilt die VO 2023/2854 für den konkreten IoT-Dienst (ab 12. September 2025 anwendbar)?
-2. Zugangsrecht nach Art. 4 Data Act bestimmen: Nutzer hat Recht auf Zugang zu von seinem Gerät generierten Daten — direkt oder über Dritte.
-3. Verhältnis zu Datenbankherstellerrecht prüfen: Art. 4 Abs. 6 Data Act — Zugangsrecht verdrängt nicht das Datenbankherstellerrecht vollständig; aber Dateninhaber kann Zugang nicht mit Herstellerrecht blockieren.
-4. Betriebs- und Geschäftsgeheimnisschutz als Grenze: Art. 4 Abs. 6 Data Act erlaubt Verweigerung bei erheblichem Schutz von Betriebsgeheimnissen.
-5. Wechselrecht Cloud (Art. 17 Data Act): Kunde kann zu anderem Cloud-Anbieter wechseln und seine Daten mitnehmen — Datenbankherstellerrecht des alten Anbieters?
-6. DSGVO-Schnittmenge bei personenbezogenen IoT-Daten: Art. 1 Abs. 3 Data Act stellt klar, dass DSGVO unberührt bleibt.
+[Data Act, Verordnung (EU) 2023/2854](https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu), insbesondere Artikel 2 Nummer 8, Artikel 23 bis 31 und Artikel 50. Artikel 17 betrifft behördliche Datenverlangen, kein Cloud-Wechselrecht. [Artikel 20 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Den für den Auftrag maßgeblichen Rechtsstand am amtlichen Text prüfen; offene Quellenzugriffe benennen. Für diesen Arbeitsweg zusätzlich Artikel 1 Absatz 5, Artikel 4 bis 9, Artikel 13 und Artikel 43 Data Act sowie [Paragrafen 87a ff. UrhG](https://www.gesetze-im-internet.de/urhg/__87a.html). Keine Rechtsprechung aus Modellwissen ergänzen.
 
-## Rechtsrahmen
+## 5. Ausgabeformat
 
-- Data Act VO 2023/2854 Art. 4: Zugangsrecht des Nutzers zu von seinem IoT-Gerät generierten Daten.
-- Data Act Art. 6: Bedingungen für Datenweitergabe an Dritte — Verbote unangemessener Bedingungen.
-- Data Act Art. 17: Wechselrecht — Anbieter müssen Datentransfer zu Wettbewerbern ermöglichen.
-- § 87a UrhG: Datenbankherstellerrecht — Data Act schränkt es ein, wenn Zugangsanspruch besteht.
-- GeschGehG § 2 Nr. 1: Geschäftsgeheimnisschutz als Grenze für Datenzugangsansprüche nach Data Act.
-- DSGVO Art. 6: Rechtsgrundlagen für personenbezogene IoT-Daten — Vorrang der DSGVO gemäß Art. 1 Abs. 3 Data Act.
+Erstelle einen nach Datenkategorien begründeten Zugangsvermerk und eine konkrete Bereitstellungs- und Geheimnisschutzvereinbarung oder ein Antwortschreiben. Jede Einschränkung erhält Norm, tatsächlichen Grund, Umfang und Überprüfungsschritt. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Tabellen unterstützen die Begründung; sie ersetzen weder Klauseln noch ein Anschreiben. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-Ausgabe steht ein nötiger Exporthinweis außerhalb des Empfängertextes.
 
-## Prüfraster
+## 6. Beispiele
 
-- Fällt das IoT-Gerät oder der Dienst unter den Data Act (Art. 2 Data Act — sachlicher Anwendungsbereich)?
-- Hat der Nutzer ein Zugangsrecht nach Art. 4 Data Act — ist er der Geräteeigentümer oder -nutzer?
-- Kollidiert das Datenbankherstellerrecht des Dateninhabers mit dem Zugangsanspruch des Nutzers?
-- Rechtfertigt der Schutz von Betriebsgeheimnissen (Art. 4 Abs. 6 Data Act) eine Zugangsverweigerung?
-- Ist das Wechselrecht (Art. 17 Data Act) auf die Kundendaten anwendbar, und welche Datenbankrechte tangiert der Transfer?
-- Enthalten die IoT-Daten personenbezogene Informationen — gelten DSGVO-Rechte vorrangig?
-- Hat der Dateninhaber unangemessene Zugangsbedingungen gestellt (Art. 6 Data Act) — sind diese nichtig?
-
-## Typische Fallstricke
-
-- Data Act schafft Zugangsrechte, hebt aber das Datenbankherstellerrecht nicht vollständig auf — beides muss parallel geprüft werden.
-- Betriebs- und Geschäftsgeheimnisschutz als Zugangsverweigerungsgrund muss konkret und erheblich sein — pauschale Verweigerung unzulässig.
-- Wechselrecht nach Art. 17 Data Act kann De-facto-Zugang zu Datenbankdaten erzwingen, die der alte Anbieter als Herstellerrecht schützt.
-- Personenbezogene IoT-Daten erfordern neben Data-Act-Compliance auch DSGVO-Compliance — beide Regelwerke parallel.
-- Data Act ist erst ab September 2025 anwendbar — Übergangsregelungen und Altverträge beachten.
-
-## Output
-
-- Data-Act-Compliance-Check für IoT-Hersteller (Art. 4-6 VO 2023/2854)
-- Datenzugangskonzept (Nutzerrechte vs. Datenbankherstellerrecht)
-- Betriebsgeheimnis-Prüfbogen für Zugangsverweigerung (Art. 4 Abs. 6 Data Act)
-- Wechselrecht-Implementierungsguide (Art. 17 Data Act + Cloud-Transfer)
-- DSGVO-/Data-Act-Schnittmengen-Analyse für IoT-Daten
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
-- [DSGVO Art. 6 — dejure.org](https://dejure.org/gesetze/DSGVO/6.html)
-- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
-- [DSM-Richtlinie 2019/790 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32019L0790)
+Der Hersteller einer vernetzten Maschine verweigert sämtliche Rohsensordaten wegen seiner Datenbankinvestition. Prüfe Artikel 43 für genau diese Daten, den Zugang nach Artikel 4 und konkret belegte Geheimnisse. Übernimm weder eine pauschale Sperre noch eine pauschale Offenlegung aller Auswertungen.

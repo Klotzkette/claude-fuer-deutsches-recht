@@ -28,7 +28,7 @@ description: "Für Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenze
 
 ## Norm- und Rechtsprechungsanker
 
-AO § 1 AStG; OECD-Verrechnungspreise; Lizenzschranke live prüfen
+§ 1 AStG; OECD-Verrechnungspreise. Die Lizenzschranke nach § 4j EStG a.F. nur für offene Altjahre bis VZ 2024 prüfen; ab VZ 2025 ist sie nicht mehr anwendbar (§ 52 Abs. 8c Satz 3 EStG). Vgl. [Quellen und zeitliche Abgrenzung](../../references/lizenzzahlungen-software.md).
 
 ## Sofortprüfung
 
