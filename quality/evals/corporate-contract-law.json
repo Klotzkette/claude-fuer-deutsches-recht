@@ -909,28 +909,6 @@
       ]
     }
   ],
-  "skill_hashes": {
-    "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md": "386a2a086ce7740c80715dd91f2dd61f9d4239ddb8c4c62844fe37ff06c32db8",
-    "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md": "6e97dfbd45d1642e519ba9e342347018eb0d4a5210d74bd33ade8ed025f38c6d",
-    "corporate-contract-law/skills/dienstleistung-und-servicelevel-vereinbaren/SKILL.md": "ed5ac2e205b1803c99119d0a2f67ba8490d904e0d3949bbdbbf1c37f9465383b",
-    "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md": "71dbd322561592a908de8b5257e381cc92e12ed2f9b631ae76ff554d33a84ffb",
-    "corporate-contract-law/skills/internationalen-vertrag-rechtswahl-und-gerichtsstand-pruefen/SKILL.md": "d27f6295e45cfd6ccde73d9bb284511c9a1bcb603f9258297c3bb9d4d811415a",
-    "corporate-contract-law/skills/kooperation-und-entwicklung-vereinbaren/SKILL.md": "51e6eba261863c860388e5462954c7ef80603075c36ed4498037754584ed4c12",
-    "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md": "638d313dbdf5ec1d8ddc69088f0265a8f923e7e8a6624304fa54cf39157384aa",
-    "corporate-contract-law/skills/liefervertrag-und-abrufsystem-gestalten/SKILL.md": "1a49ec64d88f22c294f1c0c53d74178a613843c2bb37c917e1d2c43b5e5da05b",
-    "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md": "cd2e75fbeaa276fdd0d9b0e1ce4ffad2bfc7885418aef75c2207b0b8374c4084",
-    "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md": "060b1d6f40b832b1ac5fd3b230a39c9f053ce86c43923ccacc9423c666927f97",
-    "corporate-contract-law/skills/rahmenvertrag-mit-einzelauftraegen-verknuepfen/SKILL.md": "f021ff97ea070dc393453d3f0dc0b0df06e978e83b2e04363e2be5998abceeac",
-    "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md": "6b40b9a259e3bf4c0ac50d14aa2d54e9a471031231263f25e39f8469ed6cfb20",
-    "corporate-contract-law/skills/software-daten-und-nutzungsrechte-regeln/SKILL.md": "2b9e227fe59dfe457ebb91d7d3562c00245e42d32b42c637b3f256d130f252ad",
-    "corporate-contract-law/skills/verhandlungsauftrag-und-eckpunkte-klaeren/SKILL.md": "1da98cf23c2f4c1f05297f374e0992effcb62513e08f01ebed66a1a2be93b9b6",
-    "corporate-contract-law/skills/verhandlungsfassung-und-unterschriftenmappe-fertigstellen/SKILL.md": "383370932da0a926825805d4e305dc478dfbc7e8bcf7828de7744541e57240db",
-    "corporate-contract-law/skills/vertragsaenderung-und-nachtrag-erstellen/SKILL.md": "aea0c77abf318907b5a414d4746d35d24b067680c96544c51d7cb75015128473",
-    "corporate-contract-law/skills/vertragstyp-form-und-vertretung-pruefen/SKILL.md": "50b0997a737dd5d6c59a82a4f15a243ac7f2adf0285f78333eac764de8bbef62",
-    "corporate-contract-law/skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md": "ef9cb568378f2172fcc1c881eabb0d95177293dbd1892e30e3b33c573bd12611",
-    "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md": "aaf2cc09a6f45d0dca953a59718596c665b7ba8e6c9b7fa9609ebc34f227dfb2",
-    "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md": "8c6d6a29df0a940b4c0ac144983367d41d824134325959bf5eaa58a8fbfc3575"
-  },
   "source_verification": "Gelesene amtliche Normtexte und begrenzte Ingmar-Leitsatzaussage; weitere Anker nur mit dokumentierten Zugriffslücken. Kein globaler Volltext- oder Aktualitätsnachweis.",
   "source_link_audit_2026_10_01": {
     "checked_on": "2026-10-01",
@@ -952,6 +930,62 @@
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
         "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345"
       }
+    ]
+  },
+  "file_hash_consistency_review_2026_11_01": {
+    "date": "2026-11-01",
+    "method": "file_hash_consistency_check",
+    "finding": "Die nachstehenden Prüfsummen passen nicht zum aktuellen Dateiinhalt. Sie wurden aus den aktiven Hashfeldern entfernt und ausschließlich als historische Prüffassungen erhalten.",
+    "scope": "Nur SHA-256-Abgleich der angegebenen Dateien; keine neue fachliche Prüfung, Quellenverifikation oder Live-Modellausführung. Frühere Prüfzeitpunkte werden nicht auf den heutigen Stand übertragen. Übereinstimmende aktuelle Hashfelder und die gesondert geprüften Promptfassungen bleiben überprüfbar.",
+    "historical_file_hashes": {
+      "skill_hashes": {
+        "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md": "386a2a086ce7740c80715dd91f2dd61f9d4239ddb8c4c62844fe37ff06c32db8",
+        "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md": "6e97dfbd45d1642e519ba9e342347018eb0d4a5210d74bd33ade8ed025f38c6d",
+        "corporate-contract-law/skills/dienstleistung-und-servicelevel-vereinbaren/SKILL.md": "ed5ac2e205b1803c99119d0a2f67ba8490d904e0d3949bbdbbf1c37f9465383b",
+        "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md": "71dbd322561592a908de8b5257e381cc92e12ed2f9b631ae76ff554d33a84ffb",
+        "corporate-contract-law/skills/internationalen-vertrag-rechtswahl-und-gerichtsstand-pruefen/SKILL.md": "d27f6295e45cfd6ccde73d9bb284511c9a1bcb603f9258297c3bb9d4d811415a",
+        "corporate-contract-law/skills/kooperation-und-entwicklung-vereinbaren/SKILL.md": "51e6eba261863c860388e5462954c7ef80603075c36ed4498037754584ed4c12",
+        "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md": "638d313dbdf5ec1d8ddc69088f0265a8f923e7e8a6624304fa54cf39157384aa",
+        "corporate-contract-law/skills/liefervertrag-und-abrufsystem-gestalten/SKILL.md": "1a49ec64d88f22c294f1c0c53d74178a613843c2bb37c917e1d2c43b5e5da05b",
+        "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md": "cd2e75fbeaa276fdd0d9b0e1ce4ffad2bfc7885418aef75c2207b0b8374c4084",
+        "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md": "060b1d6f40b832b1ac5fd3b230a39c9f053ce86c43923ccacc9423c666927f97",
+        "corporate-contract-law/skills/rahmenvertrag-mit-einzelauftraegen-verknuepfen/SKILL.md": "f021ff97ea070dc393453d3f0dc0b0df06e978e83b2e04363e2be5998abceeac",
+        "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md": "6b40b9a259e3bf4c0ac50d14aa2d54e9a471031231263f25e39f8469ed6cfb20",
+        "corporate-contract-law/skills/software-daten-und-nutzungsrechte-regeln/SKILL.md": "2b9e227fe59dfe457ebb91d7d3562c00245e42d32b42c637b3f256d130f252ad",
+        "corporate-contract-law/skills/verhandlungsauftrag-und-eckpunkte-klaeren/SKILL.md": "1da98cf23c2f4c1f05297f374e0992effcb62513e08f01ebed66a1a2be93b9b6",
+        "corporate-contract-law/skills/verhandlungsfassung-und-unterschriftenmappe-fertigstellen/SKILL.md": "383370932da0a926825805d4e305dc478dfbc7e8bcf7828de7744541e57240db",
+        "corporate-contract-law/skills/vertragsaenderung-und-nachtrag-erstellen/SKILL.md": "aea0c77abf318907b5a414d4746d35d24b067680c96544c51d7cb75015128473",
+        "corporate-contract-law/skills/vertragstyp-form-und-vertretung-pruefen/SKILL.md": "50b0997a737dd5d6c59a82a4f15a243ac7f2adf0285f78333eac764de8bbef62",
+        "corporate-contract-law/skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md": "ef9cb568378f2172fcc1c881eabb0d95177293dbd1892e30e3b33c573bd12611",
+        "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md": "aaf2cc09a6f45d0dca953a59718596c665b7ba8e6c9b7fa9609ebc34f227dfb2",
+        "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md": "8c6d6a29df0a940b4c0ac144983367d41d824134325959bf5eaa58a8fbfc3575"
+      }
+    }
+  },
+  "file_review_status": {
+    "status": "needs_review",
+    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "files": [
+      "corporate-contract-law/skills/agb-und-dokumentenrangfolge-abgleichen/SKILL.md",
+      "corporate-contract-law/skills/datenschutz-und-unterauftragnehmer-regeln/SKILL.md",
+      "corporate-contract-law/skills/dienstleistung-und-servicelevel-vereinbaren/SKILL.md",
+      "corporate-contract-law/skills/haftung-gewaehrleistung-und-freistellung-regeln/SKILL.md",
+      "corporate-contract-law/skills/internationalen-vertrag-rechtswahl-und-gerichtsstand-pruefen/SKILL.md",
+      "corporate-contract-law/skills/kooperation-und-entwicklung-vereinbaren/SKILL.md",
+      "corporate-contract-law/skills/laufzeit-kuendigung-und-exit-gestalten/SKILL.md",
+      "corporate-contract-law/skills/liefervertrag-und-abrufsystem-gestalten/SKILL.md",
+      "corporate-contract-law/skills/preise-zahlung-und-preisanpassung-regeln/SKILL.md",
+      "corporate-contract-law/skills/projektvertrag-leistung-und-abnahme-fassen/SKILL.md",
+      "corporate-contract-law/skills/rahmenvertrag-mit-einzelauftraegen-verknuepfen/SKILL.md",
+      "corporate-contract-law/skills/sicherheiten-und-konzernzusagen-pruefen/SKILL.md",
+      "corporate-contract-law/skills/software-daten-und-nutzungsrechte-regeln/SKILL.md",
+      "corporate-contract-law/skills/verhandlungsauftrag-und-eckpunkte-klaeren/SKILL.md",
+      "corporate-contract-law/skills/verhandlungsfassung-und-unterschriftenmappe-fertigstellen/SKILL.md",
+      "corporate-contract-law/skills/vertragsaenderung-und-nachtrag-erstellen/SKILL.md",
+      "corporate-contract-law/skills/vertragstyp-form-und-vertretung-pruefen/SKILL.md",
+      "corporate-contract-law/skills/vertraulichkeit-und-geheimnisschutz-vereinbaren/SKILL.md",
+      "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md",
+      "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md"
     ]
   }
 }

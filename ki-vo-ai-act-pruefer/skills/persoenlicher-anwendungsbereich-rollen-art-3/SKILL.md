@@ -35,13 +35,13 @@ Detailprüfung: `haendler-distributor-pflichten-art-24`
 
 Eine in der EU ansässige natürliche oder juristische Person, die vom Anbieter eines in einem Drittland ansässigen schriftlich bevollmächtigt wurde, in seinem Namen bestimmte Aufgaben zu erfüllen.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ### Produkthersteller — Art. 3 in Verbindung mit Art. 25 Abs. 1 KI-VO
 
 Wer ein KI-System als Sicherheitsbauteil in ein Produkt integriert, das unter Anhang I gelistete Unionsvorschriften fällt, und das Produkt unter eigenem Namen in Verkehr bringt.
 
-Detailprüfung: `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
+Detailprüfung: `bevollmaechtigter-produkthersteller-pflichten`
 
 ## Mehrfachrollen
 
@@ -59,7 +59,7 @@ In der Praxis sind Mehrfachrollen häufig:
 | Betreiber | `rolle-betreiber-pruefen-art-3-nr-4` |
 | Einführer | `einfuehrer-importer-pflichten-art-23` |
 | Händler | `haendler-distributor-pflichten-art-24` |
-| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` |
+| Bevollmächtigter / Produkthersteller | `bevollmaechtigter-produkthersteller-pflichten` |
 | Unklare Rolle / Rollenwechsel möglich | `anbieter-werden-art-25` |
 
 ## Wichtiger Hinweis

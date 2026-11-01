@@ -169,6 +169,8 @@ Dieser Einstieg routet **Robotik Recht** vom ersten Sachverhalt zu Rollen, Frist
 - Zuständige Stelle bestimmen: Hersteller, Inverkehrbringer, Betreiber, Endnutzer, Marktüberwachungsbehörde, benannte Stelle.
 - Nur die Rückfragen stellen, die die nächste Weiche tatsächlich ändern.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
@@ -307,6 +309,7 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 - DSGVO; BDSG.
 - ProdSG; ProdHaftG; BGB §§ 823, 831.
 - Live-Verifikation in eur-lex.europa.eu, BfJ, BSI, BfDI; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -405,6 +408,7 @@ Bei Robotern mit Personenerkennung zuerst die Funktion unterscheiden: Identifizi
 - BDSG §§ 22, 26.
 - EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -452,6 +456,8 @@ Kläre knapp:
 Dieser Skill fokussiert: **Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen.**
 
 Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## Ergebnisformat
 
@@ -510,6 +516,8 @@ Kläre knapp:
 Dieser Skill fokussiert: **Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität.**
 
 Quellen-/Normenanker: UWG, ProdSG, KI-VO Transparenz, Verbraucherrecht.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## Ergebnisformat
 
@@ -612,6 +620,7 @@ Bei Robotern mit Personenerkennung zuerst die Funktion unterscheiden: Identifizi
 - BDSG §§ 22, 26.
 - EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
 - Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -650,6 +659,8 @@ Kläre knapp:
 Dieser Skill fokussiert: **Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge.**
 
 Quellen-/Normenanker: Maschinenverordnung; MaschinenDG; ProdSG.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/robotik-recht/references/ki-normen-und-fallpruefung.md). Ordnen Sie Sensorik, Sicherheitsfunktion, Steuerungssoftware und vorgesehene Änderungen getrennt ein. Prüfen Sie den Maschinenpfad in Anhang I Abschnitt B und die Begrenzung durch Artikel 2 Absatz 2, bevor Sie sämtliche Systempflichten übertragen. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## Ergebnisformat
 

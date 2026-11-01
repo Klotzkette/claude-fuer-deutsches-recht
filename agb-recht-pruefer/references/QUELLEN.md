@@ -1,6 +1,6 @@
 # Quellenanker für AGB-Recht
 
-Dieses Plugin soll vor tragenden Aussagen immer die aktülle amtliche Fassung prüfen. Gesetzestexte werden nicht abgeschrieben, sondern als Live-Quelle verwendet.
+Dieses Plugin soll vor tragenden Aussagen immer die aktuelle amtliche Fassung prüfen. Gesetzestexte werden nicht abgeschrieben, sondern als Live-Quelle verwendet.
 
 ## Primärquellen
 
@@ -20,7 +20,11 @@ Dieses Plugin soll vor tragenden Aussagen immer die aktülle amtliche Fassung pr
 
 ## Zitier- und Aktualitätsregeln
 
-- Normen immer mit aktüller amtlicher Onlinefassung abgleichen, wenn der Output rechtlich tragen soll.
+- Normen immer mit aktueller amtlicher Onlinefassung abgleichen, wenn der Output rechtlich tragen soll.
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und kostenlos/amtlich prüfbarer Quelle.
 - Keine BeckRS-, Juris-, Kommentar- oder Aufsatzangaben erzeugen, wenn sie nicht vom Nutzer als Quelle geliefert wurden.
 - Bei Spezialmaterien zusätzlich das jeweilige Fachgesetz prüfen, etwa TKG, EnWG, VVG, WEG, HGB, ZPO, VDuG, UWG, PAngV, DDG, DSA oder DSGVO/EUR-Lex, soweit einschlägig.
+
+## Digitale Dienste
+
+Für SaaS-, Cloud-, Export- und KI-Klauseln die [fachbezogenen Primärquellen](digitaldienste-data-act-ki.md) zusätzlich prüfen.

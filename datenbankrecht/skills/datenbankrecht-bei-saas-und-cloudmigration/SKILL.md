@@ -1,69 +1,36 @@
 ---
 name: datenbankrecht-bei-saas-und-cloudmigration
-description: "Für Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Datenbankrechte und Datenmitnahme bei SaaS- und Cloud-Migrationen. Verknüpft Vertragsprüfung und Kapitel VI Data Act mit Exportumfang, Abnahme und Löschkonzept.
 ---
 
-# Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme
+# Datenbankrechte bei SaaS- und Cloud-Migrationen
 
-## Arbeitsbereich
+## 1. Zweck und Anwendungsfall
 
-Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Ein Unternehmen wechselt sein SaaS-System und benötigt einen vollständigen, nutzbaren Export. Kläre Datenbankrechte, vertragliche Ansprüche und den gesetzlichen Wechselweg; formuliere anschließend einen umsetzbaren Migrationsvertrag.
 
-## Arbeitsweg
+## 2. Eingaben
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Vertrag, AGB und Auftragsverarbeitung, Dienstbeschreibung, Datenmodell und Investitionsbelege, Daten- und Rechtekategorien, Schnittstellen, Zielsystem, Terminplanung, Kosten und gesetzliche Aufbewahrungspflichten.
 
-## Mandantenfall
+## 3. Ablauf und Checkliste
 
-- Unternehmen wechselt seinen CRM-SaaS-Anbieter und muss alle Kundendaten mitnehmen — welche Rechte am Datenbankinhalt hat es gegenüber dem alten Anbieter?
-- SaaS-Anbieter behauptet in seinen AGB, Datenbankherstellerrechte an allen Kundendaten zu halten, die in seiner Plattform gespeichert werden.
-- Startup fragt, wie Cloud-Migrationsverträge gestaltet sein müssen, damit die Datenbankrechte beim Kunden bleiben und nicht auf den Cloud-Provider übergehen.
+1. Trenne Kundeninhalte, Datenbankstruktur, Herstellerinvestition, Software und fremde Inhalte. Paragraf 87a UrhG verlangt eine wesentliche Investition in Beschaffung, Überprüfung oder Darstellung. Weder Befüllung durch den Kunden noch Hosting durch den Anbieter entscheidet die Rechtsinhaberschaft allein.
+2. Prüfe Vertragslizenzen und behauptete Rechtezuweisungen nach Paragrafen 305 bis 310 BGB. Die datenschutzrechtliche Auftragsverarbeiterrolle nach Artikel 28 DSGVO entscheidet nicht automatisch über Datenbank- oder Urheberrechte.
+3. Ist der Dienst von Artikel 2 Nummer 8 Data Act erfasst, prüfe Wechselhindernisse nach Artikel 23 und den schriftlichen Vertragsinhalt nach Artikel 25. Ordne Kündigung, Übergang, Unterstützung, exportierbare Daten, digitale Vermögenswerte und Abruffrist einer konkreten Pflicht zu. Die besonderen Ausnahmen aus Artikel 31 genau begrenzen.
+4. Prüfe Formate und Interoperabilität nach Artikel 30; Schnittstelle, Datenwörterbuch, Vollständigkeit und Abnahme praktisch festlegen. Artikel 25 Absatz 2 Buchstabe f und Artikel 30 Absatz 6 schützen bestimmte interne Kategorien und geistiges Eigentum, erlauben aber keine beliebige Entwertung des geschuldeten Exports.
+5. Artikel 29 begrenzt Wechselentgelte vor dem 12. Januar 2027 auf unmittelbar wechselbedingte Kosten und verbietet sie ab diesem Datum, vorbehaltlich einschlägiger Artikel-31-Ausnahme. Gewöhnliche Dienstentgelte und vorzeitige Vertragsbeendigung gesondert prüfen.
+6. Artikel 20 DSGVO betrifft betroffene natürliche Personen und die dort bezeichneten Daten und Verarbeitungen. Verbraucherstatus ist keine Voraussetzung; ein Unternehmen als SaaS-Kunde hat daraus keinen eigenen Gesamtexportanspruch. Datenschutzrechtliche Bereitstellung und Übermittlung getrennt absichern.
+7. Kapitel VI ist seit 12. September 2025 grundsätzlich auch bei Altverträgen anzuwenden. Die Altvertragsregel des Kapitels IV nicht darauf übertragen. Löschung nach erfolgreichem Wechsel und Ablauf des einschlägigen Abrufzeitraums vorsehen, mit zulässiger Aufbewahrung und kontrollierter Restdatenbehandlung.
 
-## Erste Schritte
+## 4. Quellenpflicht
 
-1. Herstellereigenschaft klären: Wer hat die wesentliche Investition in die Datenbankstruktur getragen — der SaaS-Anbieter (Infrastruktur) oder der Kunde (Inhaltsbefüllung)?
-2. AGB auf Datenbankrechte-Klauseln prüfen: Behauptet der SaaS-Anbieter Herstellerrecht oder Urheberrecht an Kundendaten — ist das nach § 307 BGB wirksam?
-3. Datenmitnahmerecht bestimmen: Data Act Art. 17 (Wechselrecht), DSGVO Art. 20 (Datenportabilität für Verbraucher), vertragliche Herausgabepflicht.
-4. Auftragsverarbeitung bewerten: Ist der SaaS-Anbieter Auftragsverarbeiter (Art. 28 DSGVO) — er kann dann kein eigenes Datenbankherstellerrecht beanspruchen.
-5. Datenbankformat und Portabilität prüfen: Liefert der SaaS-Anbieter Daten in einem offenen Format oder nur proprietary — Vendor-Lock-in-Risiko?
-6. Exit-Klausel im Vertrag: Datenmitnahme-Anspruch, Export-Pflicht des Anbieters, Löschpflicht nach Herausgabe.
+[Data Act, Verordnung (EU) 2023/2854](https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu), insbesondere Artikel 2 Nummer 8, Artikel 23 bis 31 und Artikel 50. Artikel 17 betrifft behördliche Datenverlangen, kein Cloud-Wechselrecht. [Artikel 20 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Den für den Auftrag maßgeblichen Rechtsstand am amtlichen Text prüfen; offene Quellenzugriffe benennen. Ergänzend [Paragraf 87a UrhG](https://www.gesetze-im-internet.de/urhg/__87a.html), [Paragraf 307 BGB](https://www.gesetze-im-internet.de/bgb/__307.html) und Artikel 28 DSGVO. Rechte, Normfassung und tatsächliche Investition belegen.
 
-## Rechtsrahmen
+## 5. Ausgabeformat
 
-- § 87a Abs. 2 UrhG: Hersteller ist, wer die wesentliche Investition trägt — Herstellereigenschaft folgt dem wirtschaftlichen Risiko.
-- § 307 BGB: AGB-Klausel, die alle Datenbankrechte auf SaaS-Anbieter überträgt, kann unangemessen benachteiligend sein.
-- Data Act Art. 17 VO 2023/2854: Wechselrecht — Kunden können zu anderem Anbieter wechseln und Daten mitnehmen.
-- DSGVO Art. 20: Datenportabilitätsrecht für Verbraucher (personenbezogene Daten).
-- DSGVO Art. 28: Auftragsverarbeitungsvertrag — SaaS-Anbieter als Auftragsverarbeiter hat keinen eigenständigen Datenbankherstelleranspruch.
-- § 314 BGB: Außerordentliche Kündigung bei Verweigerung der Datenherausgabe als schwerwiegender Vertragsbruch.
+Liefere einen Rechtevermerk, einen Migrationsplan mit Abnahmekriterien und ausformulierte Vertragsklauseln zu Export, Mitwirkung, Kosten, Übergang und Löschung. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Tabellen unterstützen die Begründung; sie ersetzen weder Klauseln noch ein Anschreiben. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-Ausgabe steht ein nötiger Exporthinweis außerhalb des Empfängertextes.
 
-## Prüfraster
+## 6. Beispiele
 
-- Wer hat die wesentliche Investition in die Datenbankstruktur und -befüllung getragen (Hersteller-Frage)?
-- Enthält der SaaS-Vertrag eine Klausel, die Datenbankrechte auf den Anbieter überträgt — ist diese nach § 307 BGB wirksam?
-- Greift Data Act Art. 17 — kann der Kunde Wechsel und Datenmitnahme erzwingen?
-- Hat der Kunde als Verbraucher einen DSGVO-Portabilitätsanspruch (Art. 20 DSGVO) für personenbezogene Daten?
-- Ist der SaaS-Anbieter Auftragsverarbeiter — und was bedeutet das für seine Datenbankrechte-Ansprüche?
-- Stellt der Anbieter Daten in einem offenen maschinenlesbaren Format bereit (Vendor-Lock-in-Risiko)?
-- Enthält der Vertrag eine Exit-Klausel mit klarer Herausgabe- und Löschpflicht?
-
-## Typische Fallstricke
-
-- SaaS-Anbieter, der nur Infrastruktur bereitstellt, hat meist kein Datenbankherstellerrecht an Kundendaten — das trägt der Kunde als Datenbefüller.
-- AGB-Klausel, die alle in der Plattform gespeicherten Daten dem Anbieter zuweist, ist nach § 307 BGB anfechtbar.
-- Data Act Art. 17 Wechselrecht gilt erst ab September 2025 — für laufende Verträge muss die vertragliche Grundlage ausreichen.
-- Datenportabilität nach DSGVO Art. 20 betrifft nur personenbezogene Daten von Verbrauchern — B2B-Kunden sind nicht erfasst.
-- Proprietäre Exportformate können faktisch die Datenmitnahme blockieren, selbst wenn rechtlich Herausgabepflicht besteht.
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 307 BGB — dejure.org](https://dejure.org/gesetze/BGB/307.html)
-- [Data Act VO 2023/2854 — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32023R2854)
-- [DSGVO Art. 20 — dejure.org](https://dejure.org/gesetze/DSGVO/20.html)
-- [DSGVO Art. 28 — dejure.org](https://dejure.org/gesetze/DSGVO/28.html)
-- [§ 314 BGB — dejure.org](https://dejure.org/gesetze/BGB/314.html)
+Ein Auftragsverarbeiter behauptet ein eigenes Herstellerrecht an sämtlichen Kundendaten. Prüfe Investition und Schutzgegenstand statt die Behauptung allein wegen Artikel 28 DSGVO zu verwerfen. Ein anwendbares Cloud-Wechselrecht bleibt eigenständig zu prüfen.

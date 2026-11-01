@@ -17,21 +17,21 @@ description: "Für Influencer-Recht: Reisekosten, Pressereise und gemischte Vera
 
 Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 
-- **§ 4 Abs. 4 EStG**: Betriebsausgaben = Aufwendungen mit betrieblicher Veranlassung; Reise muss überwiegend betrieblich sein.
+- **§ 4 Abs. 4 EStG**: Betrieblich veranlasste Reiseaufwendungen können abziehbar sein; bei gemischter Veranlassung den abgrenzbaren betrieblichen Anteil prüfen.
 - **§ 12 Nr. 1 EStG**: Private Lebensführungskosten nicht abziehbar; Urlaub = private Veranlassung.
-- **BFH-Grundsatz**: Gemischte Reisen aufteilbar, wenn betrieblicher und privater Teil trennbar (nach Tagen oder Stunden); BFH XI R 14/09 (2010).
+- **BFH-Grundsatz**: Abgrenzbare betriebliche und private Anteile nach einem sachgerechten Maßstab zuordnen; ohne objektive Trennbarkeit kein pauschaler 50-Prozent-Abzug. Vgl. BFH, Beschluss vom 24.08.2012 – Az. III B 21/12, Rn. 12, 13, 24 und 25, unter Bezug auf BFH, Beschluss des Großen Senats vom 21.09.2009 – Az. GrS 1/06, BStBl II 2010, 672.
 - **§ 8 EStG**: Pressereise = Betriebseinnahme (Marktwert), wenn Kooperationsauftrag besteht.
-- **§ 9 Abs. 1 Nr. 4a EStG**: Pauschalen für Verpflegungsmehraufwand bei Auswärtstätigkeit (auch für Selbstständige mit § 4 Abs. 5 EStG).
+- **§ 9 Abs. 4a EStG i.V.m. § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 EStG**: Verpflegungspauschalen für betriebliche Auswärtstätigkeiten; Reisezeit, gestellte Mahlzeiten und Dreimonatsfrist gesondert prüfen.
 - **§ 5a UWG / § 22 MStV**: Pressereise mit Posting-Auftrag → Kennzeichnungspflicht.
-- **§ 4 Abs. 5 Nr. 6b EStG**: Häusliches Arbeitszimmer: Reise beginnt von zu Hause → keine Erstattung erster/letzter Kilometer.
+- **Fahrtkosten:** Fahrten zu einer auswärtigen betrieblichen Tätigkeit von Wegen zwischen Wohnung und Betriebsstätte (§ 4 Abs. 5 Satz 1 Nr. 6 EStG) unterscheiden. Der Reisebeginn zu Hause begründet keinen pauschalen Ausschluss der ersten oder letzten Kilometer.
 
 ### Reise-Steuermatrix
 
 | Reiseart | Einnahme Creator | Betriebsausgabe Creator |
 |----------|-----------------|------------------------|
-| Pressereise bezahlt vom Brand | Ja (Marktwert) | Reise-Kosten sind bezahlt: nein |
+| Pressereise bezahlt vom Brand | Bei betrieblicher Veranlassung Sachzuwendung prüfen | Eigenen Aufwand und gegebenenfalls Leistungsaustausch gesondert prüfen; kein automatischer Doppelabzug |
 | Selbst organisierte Content-Reise | Nein | Ja (anteilig nach Tagen) |
-| Gemischte Reise (50/50) | Nein | Ja (50 % der Kosten) |
+| Gemischte Reise, selbst bezahlt | Nein | Nur der belegte betriebliche Anteil; keine feste Quote |
 | Urlaub ohne Content-Bezug | Nein | Nein |
 
 ## Kaltstart-Fragen (6)
@@ -46,9 +46,9 @@ Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 ## Prüfprogramm
 
 - Betriebliche Veranlassung dokumentieren: Shooting-Termine, Meeting-Protokolle, Content-Output.
-- Aufteilungsmaßstab: Tage-Methode (6 von 10 Tagen betrieblich → 60 % der Kosten).
+- Direkt zuordenbare Kosten zunächst dem jeweiligen Anlass zuweisen. Gemeinsame Reisekosten nur bei objektiver Trennbarkeit sachgerecht aufteilen; Zeitanteile sind ein möglicher Maßstab, keine automatische Quote für sämtliche Kosten.
 - Pressereise vom Brand: Vollständige Reiseleistung = Betriebseinnahme; eigene Zusatzkosten = Betriebsausgabe.
-- Tagegeld: Gesetzliche Verpflegungspauschalen (§ 4 Abs. 5 EStG) für Auswärtstätigkeit.
+- Verpflegung nach § 9 Abs. 4a EStG i.V.m. § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 EStG berechnen. Für Auslandsreisen die BMF-Ländertabelle des Reisejahres verwenden; für 2026 gilt das Schreiben vom 5.12.2025. Übernachtungskosten beim eigenen Betriebsausgabenabzug belegen; die BMF-Übernachtungspauschalen betreffen Arbeitgebererstattungen.
 - Kennzeichnung: Jeder Post aus Pressereise → § 5a UWG-Pflicht.
 - Beweissicherung: Fotos mit Metadaten (Datum, Ort), Boarding Passes, Hotel-Rechnungen.
 
@@ -63,7 +63,10 @@ Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 
 - § 4 Abs. 4 EStG: https://www.gesetze-im-internet.de/estg/__4.html
 - § 12 EStG: https://www.gesetze-im-internet.de/estg/__12.html
-- § 9 Abs. 1 Nr. 4a EStG: https://www.gesetze-im-internet.de/estg/__9.html
+- § 9 Abs. 4a EStG: https://www.gesetze-im-internet.de/estg/__9.html
+- [BFH, Beschluss vom 24.08.2012 – Az. III B 21/12, Rn. 12, 13, 24 und 25](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201250573/).
+- [BMF vom 23.12.2014, IV C 6 – S 2145/10/10005 :001, BStBl I 2015 S. 26: betriebliche Reisekosten](https://lsth.bundesfinanzministerium.de/esth/2023/C-Anhaenge/Anhang-16/XVII/inhalt.html); ältere Beispielbeträge nicht als aktuellen Rechtsstand übernehmen.
+- [BMF vom 5.12.2025, IV C 5 – S 2353/00094/007/012: Auslandspauschalen 2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2025-12-05-steuerliche-behandlung-reisekosten-2026.pdf?__blob=publicationFile&v=2). Rechtsstand dieser Korrekturen geprüft am 1.11.2026.
 - § 5a Abs. 4 UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
 
 ## Output-Formate

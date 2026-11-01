@@ -736,13 +736,7 @@
     }
   ],
   "artifact_hashes": {
-    "wirtschaftsanwalt/.claude-plugin/plugin.json": "ec8efa79f34deb05d54b5777a9a4520d7b9c70e97e46f9486fc1ff89332ab7d2",
-    "wirtschaftsanwalt/.codex-plugin/plugin.json": "e826deb5a178864003700cdc76fb37f16213cddcfffd9fc10e55b39b27aac6a4",
-    "wirtschaftsanwalt/README.md": "bad7d3a61540eb6032c28eb1f48636554c77d46ed49527c5ad3e55558da3f200",
     "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
-    "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
-    "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
-    "wirtschaftsanwalt/references/fachquellen.md": "fb7430126186d54e7b33ad02d0f4634abf20adacea14fa84bb09b3c6f831a1a4",
     "wirtschaftsanwalt/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
     "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md": "71ddf140c560627e5bcd08dca9c5f095e66186ece232722fa7ebb71e79224633",
     "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md": "186b1dd935eb5ba2389c1a11f22adc2c54c89e328f0b9139439a7b5c7a051c2f",
@@ -765,6 +759,34 @@
         "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
         "sha256": "2e3f08881c8c219a731407da50067af06681c8e9c4e4180fc35f3b114fa62de2"
       }
+    ]
+  },
+  "file_hash_consistency_review_2026_11_01": {
+    "date": "2026-11-01",
+    "method": "file_hash_consistency_check",
+    "finding": "Die nachstehenden Prüfsummen passen nicht zum aktuellen Dateiinhalt. Sie wurden aus den aktiven Hashfeldern entfernt und ausschließlich als historische Prüffassungen erhalten.",
+    "scope": "Nur SHA-256-Abgleich der angegebenen Dateien; keine neue fachliche Prüfung, Quellenverifikation oder Live-Modellausführung. Frühere Prüfzeitpunkte werden nicht auf den heutigen Stand übertragen. Übereinstimmende aktuelle Hashfelder und die gesondert geprüften Promptfassungen bleiben überprüfbar.",
+    "historical_file_hashes": {
+      "artifact_hashes": {
+        "wirtschaftsanwalt/.claude-plugin/plugin.json": "ec8efa79f34deb05d54b5777a9a4520d7b9c70e97e46f9486fc1ff89332ab7d2",
+        "wirtschaftsanwalt/.codex-plugin/plugin.json": "e826deb5a178864003700cdc76fb37f16213cddcfffd9fc10e55b39b27aac6a4",
+        "wirtschaftsanwalt/README.md": "bad7d3a61540eb6032c28eb1f48636554c77d46ed49527c5ad3e55558da3f200",
+        "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+        "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+        "wirtschaftsanwalt/references/fachquellen.md": "fb7430126186d54e7b33ad02d0f4634abf20adacea14fa84bb09b3c6f831a1a4"
+      }
+    }
+  },
+  "file_review_status": {
+    "status": "needs_review",
+    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "files": [
+      "wirtschaftsanwalt/.claude-plugin/plugin.json",
+      "wirtschaftsanwalt/.codex-plugin/plugin.json",
+      "wirtschaftsanwalt/README.md",
+      "wirtschaftsanwalt/references/fachquellen.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md",
+      "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md"
     ]
   }
 }

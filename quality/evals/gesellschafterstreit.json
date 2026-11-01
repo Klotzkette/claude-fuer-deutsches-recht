@@ -1688,8 +1688,6 @@
     }
   },
   "reviewed_file_hashes": {
-    "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7",
-    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a",
     "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30",
     "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "f36508889cc158468d66caadeece01c9f5a4f162c368a1f17dda34701508b961",
     "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "a6c2cb017ab37deae2e8a52518c429491f088569127cdef7cd2eb923ca58dcd4",
@@ -1706,8 +1704,7 @@
     "gesellschafterstreit/references/finanzierung-und-wettbewerb.md": "6028743d458804bdddc7b9c11f02baa12a7ef36b91f6602bf1da7e73a56799b2",
     "gesellschafterstreit/references/rechtsprechungsanker.md": "f7ef184ee6b7e107dfc26b7743192dcea7ad11017aba693d1f29d8620ce361b2",
     "gesellschafterstreit/references/verfahrenswahl.md": "4128c43ba69f89921b8374891790748b40cfb3ea472de730c73841684be682cb",
-    "gesellschafterstreit/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
-    "gesellschafterstreit/README.md": "973de25489021cc24698751f15bf530c1949a10520c5c5b09f69f6722642494c"
+    "gesellschafterstreit/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
   },
   "regression_review_status": {
     "date": "2026-10-02",
@@ -2157,6 +2154,28 @@
         "characters": 101440,
         "utf8_bytes": 103261
       }
+    ]
+  },
+  "file_hash_consistency_review_2026_11_01": {
+    "date": "2026-11-01",
+    "method": "file_hash_consistency_check",
+    "finding": "Die nachstehenden Prüfsummen passen nicht zum aktuellen Dateiinhalt. Sie wurden aus den aktiven Hashfeldern entfernt und ausschließlich als historische Prüffassungen erhalten.",
+    "scope": "Nur SHA-256-Abgleich der angegebenen Dateien; keine neue fachliche Prüfung, Quellenverifikation oder Live-Modellausführung. Frühere Prüfzeitpunkte werden nicht auf den heutigen Stand übertragen. Übereinstimmende aktuelle Hashfelder und die gesondert geprüften Promptfassungen bleiben überprüfbar.",
+    "historical_file_hashes": {
+      "reviewed_file_hashes": {
+        "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7",
+        "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a",
+        "gesellschafterstreit/README.md": "973de25489021cc24698751f15bf530c1949a10520c5c5b09f69f6722642494c"
+      }
+    }
+  },
+  "file_review_status": {
+    "status": "needs_review",
+    "reason": "Die früher dokumentierten Prüfsummen stimmen nicht mit den aktuellen Dateien überein. Die historischen Hashes werden nicht als Prüfung des heutigen Stands gewertet; neue Ergebnisläufe bleiben bis zur dokumentierten Nachprüfung gesperrt.",
+    "files": [
+      "gesellschafterstreit/README.md",
+      "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
+      "gesellschafterstreit/gesellschafterstreit-werkstatt.md"
     ]
   }
 }

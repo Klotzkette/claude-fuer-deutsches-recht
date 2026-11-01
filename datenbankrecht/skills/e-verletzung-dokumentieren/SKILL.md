@@ -33,7 +33,7 @@ description: "Für Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compli
 - § 87a UrhG: Marktplatz-Produktdatenbank als Herstellerrecht — wesentliche Investition in Händler-Onboarding, Kategorisierung und Darstellung.
 - § 87b UrhG: Verbot der Entnahme wesentlicher Teile durch Wettbewerber oder Händler nach Vertragsende.
 - P2B-VO 2019/1150 Art. 9: Datenportabilität und Zugangsrechte für Händler (gewerbliche Nutzer) nach Vertragsende.
-- Data Act VO 2023/2854 Art. 5-8: Nutzer-Datenzugangsrechte; Wechselrecht für B2B-Kunden von Datenverarbeitungsdiensten.
+- Data Act VO 2023/2854: Nutzerzugang und Drittweitergabe nach Artikeln 4 und 5 getrennt vom Wechsel zwischen Datenverarbeitungsdiensten nach Kapitel VI, Artikeln 23 bis 31, prüfen.
 - § 307 BGB: AGB-Kontrolle für Klauseln, die dem Marktplatz alle Datenbankrechte zuweisen.
 - DSGVO Art. 20: Datenportabilitätsrecht für Verbraucher — gilt für personenbezogene Nutzerdaten, nicht für Produktdaten.
 

@@ -86,16 +86,16 @@ description: "Für Betriebsausgaben Werbungskosten — Prüfraster: ordnet Norm,
 
 ### Fahrtkosten
 
-- **Pendlerpauschale** § 9 Abs. 1 Nr. 4 EStG — seit 1.1.2026: EUR 0.38 pro Kilometer ab dem 1. Kilometer, dauerhaft (Steueränderungsgesetz 2025); bis 31.12.2025 galt: EUR 0.30 bis 20 km, ab 21 km EUR 0.38. Höchstbetrag EUR 4500 pro Jahr bei Nutzung anderer Verkehrsmittel als eigenes/zur Nutzung überlassenes Kfz.
-- Alternativ: tatsächliche Kosten (Bahn Flug)
+- **Wohnung – erste Tätigkeitsstätte:** Entfernungspauschale nach § 9 Abs. 1 Satz 3 Nr. 4 EStG ab 2026 mit EUR 0.38 je vollem Entfernungskilometer; grundsätzlich höchstens EUR 4500 jährlich, bei eigenem oder überlassenem Kraftwagen auch darüber. Für frühere Zeiträume den damaligen Rechtsstand prüfen. Bei Selbstständigen § 4 Abs. 5 Satz 1 Nr. 6 EStG gesondert anwenden.
+- **Auswärtige berufliche Fahrten:** § 9 Abs. 1 Satz 3 Nr. 4a EStG erlaubt tatsächliche Kosten oder bei Nutzung des eigenen Pkw EUR 0.30 je gefahrenem Kilometer (§ 5 Abs. 2 BRKG). Hin- und Rückfahrt unterscheiden sich damit von der einfachen Pendelentfernung. Für betriebliche Reisen die Verwaltungsregelung zur Gewinnermittlung prüfen.
+- **Öffentliche Verkehrsmittel:** Bei Auswärtstätigkeiten die beruflich veranlassten tatsächlichen Ticketkosten ansetzen. Für Pendelfahrten gilt § 9 Abs. 2 EStG; Flugstrecken fallen nicht unter die Entfernungspauschale.
 
 ### Verpflegungsmehraufwand
 
-- **§ 4 Abs. 5 Nr. 5 EStG** Pauschalen Reisekosten
-- Acht Stunden Abwesenheit EUR 14
-- Vierundzwanzig Stunden EUR 28
-- An- und Abreisetag EUR 14
-- Geltung 1.1.2024 — Anpassung möglich
+- **Rechtsgrundlage:** § 9 Abs. 4a EStG; bei Betriebsausgaben verweist § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 EStG darauf.
+- **Inland:** EUR 28 bei 24 Stunden Abwesenheit; EUR 14 ohne Übernachtung erst bei mehr als acht Stunden. An- und Abreisetage einer Reise mit auswärtiger Übernachtung: je EUR 14 ohne Mindestabwesenheitsdauer.
+- **Begrenzungen:** Dreimonatsfrist an derselben Tätigkeitsstätte und Neubeginn nach mindestens vierwöchiger Unterbrechung prüfen. Bei gestellten Mahlzeiten die Voraussetzungen der Kürzung beachten: Frühstück 20 %, Mittag- und Abendessen jeweils 40 % der vollen Tagespauschale; Eigenzahlungen berücksichtigen.
+- **Ausland:** Die für Reisejahr und Ort maßgebliche BMF-Ländertabelle verwenden (§ 9 Abs. 4a Satz 5 EStG). Verpflegung und Übernachtung trennen; Übernachtungspauschalen gelten nicht für den eigenen Werbungskosten- oder Betriebsausgabenabzug.
 
 ### Fortbildung
 
@@ -124,15 +124,14 @@ description: "Für Betriebsausgaben Werbungskosten — Prüfraster: ordnet Norm,
 
 ### Geschenke § 4 Abs. 5 Nr. 1 EStG
 
-- Über EUR 35 pro Empfänger und Jahr nicht abzugsfähig
-- Bei Streuwerbeartikel großzügiger
+- Bei Geschenken an Nichtarbeitnehmer gilt eine Freigrenze von EUR 50 für die gesamten Anschaffungs-/Herstellungskosten je Empfänger und Wirtschaftsjahr (§ 4 Abs. 5 Satz 1 Nr. 1 EStG). Wird sie überschritten, entfällt der Abzug insgesamt. Nach § 52 Abs. 6 Satz 10 EStG gilt dies erstmals für Wirtschaftsjahre, die nach dem 31.12.2023 beginnen; zuvor betrug die Freigrenze EUR 35.
+- Empfängerbezug, Umsatzsteuerbehandlung und gesonderte Aufzeichnung nach § 4 Abs. 7 EStG prüfen. Werbezweck allein beseitigt die Abzugsgrenze nicht.
 
 ### Reisekosten
 
-- Übernachtung tatsächlich
-- Verpflegung Pauschale s.o.
-- Fahrkosten tatsächlich
-- Reisetag-Pauschalen
+- Fahrt-, Übernachtungs- und Reisenebenkosten anhand der beruflichen oder betrieblichen Veranlassung und der Belege prüfen.
+- Verpflegung ausschließlich nach dem vorstehenden Pauschalen- und Kürzungsprogramm berechnen; keine allgemeine zusätzliche „Reisetag-Pauschale“ ansetzen.
+- Steuerfreie Arbeitgebererstattungen und vom Arbeitgeber gestellte Leistungen berücksichtigen, damit kein doppelter Abzug entsteht.
 
 ### Sponsoring
 
@@ -198,6 +197,10 @@ description: "Für Betriebsausgaben Werbungskosten — Prüfraster: ordnet Norm,
 - BFH-Std-Spruch
 - Schmidt EStG
 - Frotscher/Geurts EStG
-- BMF-Schreiben Reisekosten / Bewirtung / Geschenke
+- [BMF vom 25.11.2020, IV C 5 – S 2353/19/10011 :006, BStBl I S. 1228: Reisekosten von Arbeitnehmern](https://ao.bundesfinanzministerium.de/lsth/2021/B-Anhaenge/Anhang-25/III/inhalt.html).
+- [BMF vom 23.12.2014, IV C 6 – S 2145/10/10005 :001, BStBl I 2015 S. 26: Reisekosten bei der Gewinnermittlung](https://lsth.bundesfinanzministerium.de/esth/2023/C-Anhaenge/Anhang-16/XVII/inhalt.html). Die älteren Beträge in Beispielen nicht als aktuellen Gesetzesstand übernehmen.
+- [BMF vom 5.12.2025, IV C 5 – S 2353/00094/007/012: Auslandspauschalen ab 2026](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Lohnsteuer/2025-12-05-steuerliche-behandlung-reisekosten-2026.pdf?__blob=publicationFile&v=2); für andere Reisejahre das jeweilige Jahresschreiben prüfen.
+- [BMF vom 19.11.2025, IV C 6 – S 2145/00026/005/033: Bewirtungsnachweise](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Steuerarten/Einkommensteuer/2025-11-19-bewirtungskosten-als-betriebsausgaben.html).
+- Gesetzliche Anker: [§ 4 EStG](https://www.gesetze-im-internet.de/estg/__4.html), [§ 9 EStG](https://www.gesetze-im-internet.de/estg/__9.html), [§ 52 Abs. 6 EStG](https://www.gesetze-im-internet.de/estg/__52.html) und [§ 5 BRKG](https://www.gesetze-im-internet.de/brkg_2005/__5.html). Rechtsstand dieser Korrekturen geprüft am 1.11.2026.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

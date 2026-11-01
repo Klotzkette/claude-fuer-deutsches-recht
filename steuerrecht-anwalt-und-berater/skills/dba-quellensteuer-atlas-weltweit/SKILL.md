@@ -40,7 +40,7 @@ description: "Für DBA-Quellensteuer-Atlas: ordnet Norm, Beweislast und Gegenarg
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schneller Cashflow, 3-Jahres-Geltung | nach Einbehalt rueckwirkend — 4-Jahres-Frist | bei regelmäßigen Zahlungen Pfad A |
+| Freistellungsbescheinigung vorab vs. Erstattung nachher | vor Zahlung — schneller Cashflow, höchstens fünf Jahre (§ 50c Abs. 2 Satz 4 EStG) | nach Einbehalt rueckwirkend — 4-Jahres-Frist | bei regelmäßigen Zahlungen Pfad A |
 | MTRL/ZinsLizenzRL vs. DBA-Hoechstsatz | EU-RL 0 Prozent bei Verbundenheit | DBA-Hoechstsatz | EU-RL vorrangig, wenn Voraussetzungen erfuellt |
 | Erstattung jetzt vs. später | sofort Antrag, Bearbeitung 12-24 Monate | später Antrag, gleiche Bearbeitung — aber Frist droht | bei hohen Betraegen frueh stellen |
 | Substanz aufbauen vs. § 50d Abs. 3 EStG-Risiko hinnehmen | Substanz (Personal, Buero, Geschäftstaetigkeit) | "Briefkasten" oder durchgereichte Holding | bei wesentlichen Erstattungs-Volumina Substanz aufbauen |
@@ -55,7 +55,7 @@ description: "Für DBA-Quellensteuer-Atlas: ordnet Norm, Beweislast und Gegenarg
 - **Ansaessigkeitsbescheinigung fehlt** oder veraltet (gilt regelmaessig nur für ein Jahr).
 - **Falsches BZSt-Formular** oder Bezeichnung — Antrag wird zurueckgewiesen.
 - **MTRL- vs. DBA-Wahl nicht begruendet** — Prüfer fragt: warum nicht die guenstigere Variante?
-- **Software-Lizenz vs. Software-Verkauf** falsch qualifiziert — Art. 12 vs. Art. 7.
+- **Software-Rechteumfang nicht geprüft**: Entscheidend ist, ob Rechte zur wirtschaftlichen Verwertung des Urheberrechts oder nur zur Programmnutzung eingeräumt werden. Auch notwendige Anpassungen, Betriebskopien oder der bloße Weiterverkauf fremder Kopien führen allein nicht zu Art. 12. Vgl. [Quellen und Abgrenzung](../../references/lizenzzahlungen-software.md).
 
 ## Dokumenten-Checkliste pro Antrag
 
@@ -106,4 +106,4 @@ description: "Für DBA-Quellensteuer-Atlas: ordnet Norm, Beweislast und Gegenarg
 | Beneficial Ownership | DBA | [Wirtschaftlicher Eigentümer?] | [ja / nein] |
 | PPT (MLI) | DBA | [Hauptzweck Vorteil?] | [Vorteil zu versagen / nicht] |
 | LOB (US-DBA, ggf. andere) | DBA Art. [...] | [Qualified Person?] | [ja / nein] |
-| § 4j EStG Lizenzschranke | EStG | [schaedliche IP-Box im Quellenstaat?] | [Abzug eingeschraenkt / nicht] |
+| § 4j EStG a.F., nur bis VZ 2024 | § 52 Abs. 8c EStG | [Altjahr, Näheverhältnis, niedrige Präferenzbesteuerung beim Gläubiger, Nexus-Ausnahme?] | [Altjahr: Abzug prüfen; ab VZ 2025 keine Anwendung] |

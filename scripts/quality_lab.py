@@ -225,12 +225,49 @@ def validate_workflow_review(review):
         nonempty(review.get(field), f"Workflow-Prüfung: {field}")
 
 
+def validate_file_hashes(profile, root):
+    """Zusätzliche Prüffelder binden eine Prüfung an die genannten Dateistände."""
+    errors = []
+    for field in ("skill_hashes", "reviewed_file_hashes", "artifact_hashes"):
+        if field not in profile:
+            continue
+        hashes = profile[field]
+        if not isinstance(hashes, dict):
+            raise LabError(f"{field} muss Dateipfade auf SHA-256-Prüfsummen abbilden")
+        for relative, expected in hashes.items():
+            if not isinstance(expected, str) or not re.fullmatch(r"[0-9a-f]{64}", expected):
+                raise LabError(f"{field}: ungültige SHA-256-Prüfsumme für {relative}")
+            path = inside(root, relative)
+            if expected != digest(bounded_bytes(path)):
+                errors.append(f"{field}: {relative} seit dokumentierter Prüfung verändert")
+    if errors:
+        raise LabError("; ".join(errors))
+
+
+def pending_file_reviews(profile, root):
+    review = profile.get("file_review_status")
+    if review is None:
+        return []
+    if not isinstance(review, dict) or review.get("status") not in {"needs_review", "unreviewed"}:
+        raise LabError("Offene Dateiprüfung benötigt den Status needs_review oder unreviewed")
+    nonempty(review.get("reason"), "Grund der offenen Dateiprüfung")
+    files = review.get("files")
+    list_strings(files, "Nachzuprüfende Dateien")
+    if len(files) != len(set(files)):
+        raise LabError("Doppelte Datei in offener Dateiprüfung")
+    for relative in files:
+        bounded_bytes(inside(root, relative))
+    return files
+
+
 def validate_profile(profile, plugin, directory, root=ROOT):
     if not isinstance(profile, dict):
         raise LabError("Prüfprofil muss ein JSON-Objekt sein")
     if profile.get("schema_version") != 1 or profile.get("plugin") != plugin:
         raise LabError("Profilversion oder Plugin-Zuordnung falsch")
     iso_day(profile.get("reviewed_on"))
+    validate_file_hashes(profile, root)
+    pending_file_reviews(profile, root)
     publication_errors = validate_files(directory, plugin, root)
     if publication_errors:
         raise LabError("; ".join(publication_errors))
@@ -428,6 +465,9 @@ def prepare(plugin, case_id, mode, destination, root=ROOT):
     directory = marketplace(root)[plugin]
     profile = load(root / "quality/evals" / f"{plugin}.json")
     validate_profile(profile, plugin, directory, root)
+    pending = pending_file_reviews(profile, root)
+    if pending:
+        raise LabError(f"Dateiprüfung needs_review: {len(pending)} Dateistände benötigen eine dokumentierte Nachprüfung")
     case = next((c for c in profile["cases"] if c["id"] == case_id), None)
     if case is None or mode not in MODES:
         raise LabError("Fall oder Variante unbekannt")
@@ -764,6 +804,10 @@ def catalog(profiles, root=ROOT):
         if profile is None:
             lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | Offen | 0 | Individuelle Prüfung fehlt oder ist ungültig | Nicht ausgeführt |")
             continue
+        pending = pending_file_reviews(profile, root)
+        if pending:
+            lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | needs_review | {len(profile['cases'])} | Nachprüfung von {len(pending)} veränderten Dateiständen offen | Nicht ausgeführt |")
+            continue
         if not enabled(name, "schnellstart") and not enabled(name, "werkstatt"):
             lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | Nicht vorgesehen | {len(profile['cases'])} | App- und Skill-Prüffälle | Nicht ausgeführt |")
             continue
@@ -859,7 +903,11 @@ def main(argv=None):
             if errors:
                 print("\n".join(errors), file=sys.stderr)
                 return 1
-            print(f"{len(profiles)} Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.")
+            pending = {name: pending_file_reviews(profile, ROOT) for name, profile in profiles.items()
+                       if pending_file_reviews(profile, ROOT)}
+            print(f"{len(profiles)} Pluginprofile strukturell vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.")
+            for name, files in pending.items():
+                print(f"{name}: needs_review — {len(files)} Dateistände nicht für neue Ergebnisläufe freigegeben.")
             return 0
         if args.command == "prepare":
             result = prepare(args.plugin, args.case, args.mode, args.run)

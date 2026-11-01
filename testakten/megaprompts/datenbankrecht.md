@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 130 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Datenbankrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
 2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
-3. **stellenanzeigen-jobportal-und-datenabruf** — Für Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb: ordnet Norm, Beweislast und …
-4. **policy-db-abschlussmemo** — Für Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung: erstellt Entwurf mit Antrag, Beweis …
-5. **ki-training-mit-datenbankbestand** — Für digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken: ordnet Norm, Beweislast und G…
-6. **db-020-oeffentliche-register-handelsregister-grundbuch** — Für Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister: ordnet Norm, Beweislast und Gege…
-7. **b2b-kundendaten-datenbank-insolvenz-als** — Für B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: ordnet Norm, Beweislast und Gege…
-8. **webdaten-auslesen-datenbank-und-robots-txt** — Für Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse: ordnet Norm, Beweislast und Gege…
+3. **backup-export-und-vendor-lock** — Prüft Datenexport, Backup und Anbieterbindung bei Datenverarbeitungsdiensten. Trennt Wechselrechte, Entgelte, Datenbankr…
+4. **data-act-bei-backup-export** — Prüft IoT-Datenzugang und Cloud-Wechsel nach dem Data Act. Ordnet Artikel 43, Geschäftsgeheimnisse und personenbezogene …
+5. **stellenanzeigen-jobportal-und-datenabruf** — Für Stellenanzeigen, Jobportale und automatisiertes Auslesen — Datenbankrecht nach Innoweb: ordnet Norm, Beweislast und …
+6. **policy-db-abschlussmemo** — Für Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung: erstellt Entwurf mit Antrag, Beweis …
+7. **ki-training-mit-datenbankbestand** — Für digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken: ordnet Norm, Beweislast und G…
+8. **db-020-oeffentliche-register-handelsregister-grundbuch** — Für Datenbankrecht: Öffentliche Register Handelsregister Grundbuch Transparenzregister: ordnet Norm, Beweislast und Gege…
 
 ---
 
@@ -168,6 +168,82 @@ Liefere vollständige Begründungen oder Klauseln statt einer Liste empfohlener 
 Tragende Fassungen der Paragrafen 87a und folgende UrhG, Richtlinie 96/9/EG und Data Act anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden; Suchportale ersetzen den maßgeblichen Volltext nicht. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Dezimale Gliederung und vollständige Sätze verwenden; Exportstandard Times New Roman 11 pt.
 
 Nur zugängliche Dateien und Werkzeuge verwenden und fehlende Belege konkret benennen. Bei Abruffehlern unabhängige Teile weiterbearbeiten und den abhängigen Schluss offenlassen. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.
+
+---
+
+## Skill: `backup-export-und-vendor-lock`
+
+_Prüft Datenexport, Backup und Anbieterbindung bei Datenverarbeitungsdiensten. Trennt Wechselrechte, Entgelte, Datenbankrechte und Aufbewahrung; entwirft Exit-Klauseln und ein Herausgabeverlangen._
+
+# Backup, Datenexport und Anbieterbindung
+
+## 1. Zweck und Anwendungsfall
+
+Ein Dienstleister verweigert den Export oder verlangt eine hohe Wechselgebühr. Prüfe den Anspruch und formuliere einen konkreten Exit-Plan oder ein Herausgabeverlangen. Zugang zu einzelnen Daten, Sicherungskopie und vollständiger Anbieterwechsel sind unterschiedliche Prüfungen.
+
+## 2. Eingaben
+
+Vertrag und AGB, Dienstarchitektur, Kunde und Anbieter, exportierbare Daten und digitale Vermögenswerte, Formate, geplantes Wechselziel, Kündigung, Entgeltforderung und erforderliche Aufbewahrung. Vorhandene Unterlagen lesen; nur entscheidende Lücken nachfragen.
+
+## 3. Ablauf und Checkliste
+
+1. Prüfe, ob ein Datenverarbeitungsdienst nach Artikel 2 Nummer 8 Data Act vorliegt. Nicht jede Datenbanklizenz erfüllt diese Voraussetzungen. Dokumentiere eine Ausnahme nach Artikel 31 und deren genaue Reichweite.
+2. Ordne technische, vertragliche und wirtschaftliche Wechselhindernisse Artikel 23 zu. Artikel 25 verlangt einen speicher- und reproduzierbaren schriftlichen Vertrag mit Wechselbedingungen. Prüfe Kündigungsfrist, Übergangszeit, Unterstützung, Datenkategorien, Abruf und Löschung; begründete Verlängerungen nicht als Regelfall behandeln.
+3. Berechne Entgelte nach Artikel 29: Vor dem 12. Januar 2027 höchstens die unmittelbar wechselbedingten Kosten, ab diesem Datum keine Wechselentgelte. Die begrenzte Ausnahme für maßgeschneiderte Dienste nach Artikel 31 Absatz 1 gesondert prüfen. Normale Dienstentgelte und Sanktionen bei vorzeitiger Vertragsbeendigung unterscheiden und auf ihre eigene Wirksamkeit prüfen.
+4. Beschreibe Exportumfang und technische Anforderungen nach Artikeln 25, 26 und 30. Kein Anspruch auf sämtliche Geschäftsgeheimnisse oder fremde Software; Ausnahmen dürfen den geschuldeten Wechsel nicht vereiteln. Export durch Datenprobe, Mengenabgleich und dokumentierte Abnahme prüfen.
+5. Prüfe Datenbankwerk und Herstellerrecht getrennt. Paragraf 87c UrhG enthält zweckgebundene Schranken und kein allgemeines Backup-Recht für jede Unternehmensdatenbank. Vertragliche Nutzungsrechte, Paragrafen 55a und 87e UrhG sowie gegebenenfalls Artikel 43 Data Act konkret zuordnen; keine Sicherungserlaubnis aus einer pauschalen Analogie ableiten.
+6. Artikel 20 DSGVO steht betroffenen natürlichen Personen unter seinen Voraussetzungen zu, nicht nur Verbrauchern. Ein Unternehmen erhält daraus keinen eigenen Anspruch auf seinen gesamten Datenbestand. Löschzeitpunkt erst nach erfolgreicher Übertragung und dem maßgeblichen Abrufzeitraum bestimmen; zwingende Aufbewahrungspflichten und rechtmäßige Beweissicherung berücksichtigen.
+7. Kapitel VI gilt grundsätzlich seit 12. September 2025 auch für bestehende Diensteverträge. Die Altvertragsregel für Kapitel IV in Artikel 50 nicht auf Kapitel VI übertragen. Vertragsverletzung und Voraussetzungen einer außerordentlichen Kündigung nach Paragraf 314 BGB eigenständig begründen.
+
+## 4. Quellenpflicht
+
+[Data Act, Verordnung (EU) 2023/2854](https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu), insbesondere Artikel 2 Nummer 8, Artikel 23 bis 31 und Artikel 50. Artikel 17 betrifft behördliche Datenverlangen, kein Cloud-Wechselrecht. [Artikel 20 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Den für den Auftrag maßgeblichen Rechtsstand am amtlichen Text prüfen; offene Quellenzugriffe benennen. Ergänzend [Paragraf 87c UrhG](https://www.gesetze-im-internet.de/urhg/__87c.html), [Paragraf 87e UrhG](https://www.gesetze-im-internet.de/urhg/__87e.html) und [Paragraf 55a UrhG](https://www.gesetze-im-internet.de/urhg/__55a.html).
+
+## 5. Ausgabeformat
+
+Liefere einen begründeten Anspruchsvermerk, einen terminierbaren Exit-Plan und nach Auftrag eine ausformulierte Klausel oder ein Herausgabeverlangen. Nenne Daten, Format, Zugang, zulässige Kosten, Prüfschritt und Löschzeitpunkt. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Tabellen unterstützen die Begründung; sie ersetzen weder Klauseln noch ein Anschreiben. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-Ausgabe steht ein nötiger Exporthinweis außerhalb des Empfängertextes.
+
+## 6. Beispiele
+
+Ein CRM-Anbieter verlangt im Februar 2027 eine pauschale Exportgebühr. Prüfe zunächst Diensttyp und Artikel-31-Ausnahme; bei anwendbarem Artikel 29 Absatz 1 beseitigt eine frühere Preisvereinbarung das Wechselentgeltverbot nicht. Die Rechnung nicht allein wegen ihrer Überschrift mit normalen Restlaufzeitentgelten gleichsetzen.
+
+---
+
+## Skill: `data-act-bei-backup-export`
+
+_Prüft IoT-Datenzugang und Cloud-Wechsel nach dem Data Act. Ordnet Artikel 43, Geschäftsgeheimnisse und personenbezogene Daten zu und entwirft ein Zugangskonzept oder eine konkrete Vereinbarung._
+
+# Data Act: IoT-Datenzugang und Datenbankrechte
+
+## 1. Zweck und Anwendungsfall
+
+Ein Maschinenbetreiber verlangt Sensordaten; der Dateninhaber beruft sich auf Datenbankrechte oder Geschäftsgeheimnisse. Ermittle die tatsächlich geschuldeten Daten und Schutzmaßnahmen. Ein gleichzeitiger Cloud-Wechsel ist ein eigener Anspruchsweg.
+
+## 2. Eingaben
+
+Vernetztes Produkt und verbundener Dienst, Nutzerstellung, Dateninhaber, Datenkategorien und Metadaten, Zugriffsarchitektur, verlangter Zweck, benannter Dritter, Verträge, Geheimnisnachweise und personenbezogene Bestandteile.
+
+## 3. Ablauf und Checkliste
+
+1. Bestimme Anwendungsbereich und Rollen nach Artikeln 1 bis 3 Data Act, einschließlich etwaiger Ausnahmen. Artikel 4 betrifft den Nutzerzugang, Artikel 5 die Bereitstellung an einen vom Nutzer benannten Dritten. Nicht jede abgeleitete Analyse ist ohne Weiteres verfügbare Produkt- oder Dienstdaten.
+2. Ordne bei fehlendem Direktzugriff die Anforderungen des Artikels 4 Absatz 1 zu: verfügbare Daten und erforderliche Metadaten, Qualität, Format, Sicherheit und rechtzeitige Bereitstellung. Die kostenlose Nutzerbereitstellung nicht mit einer Gegenleistung zwischen Unternehmen nach Artikel 9 verwechseln.
+3. Prüfe Artikel 43: Das Schutzrecht sui generis aus Artikel 7 der Richtlinie 96/9/EG findet auf die dort bezeichneten, durch vernetzte Produkte oder verbundene Dienste erlangten oder erzeugten Daten keine Anwendung. Das hebt weder jedes Urheberrecht noch sämtliche Rechte an einer gemischten Datenbank auf. Datenarten, Schutzgegenstand und verlangte Handlung einzeln abgrenzen.
+4. Artikel 4 Absatz 6 verlangt die Wahrung identifizierter Geschäftsgeheimnisse und vereinbarte Schutzmaßnahmen. Verweigerung oder Aussetzung nach Absatz 7 sowie die außergewöhnliche Ablehnung nach Absatz 8 nur bei den jeweiligen Nachweisen, Begründungen und Behördenmitteilungen anwenden. Bei Drittweitergabe die eigenständigen Regeln des Artikels 5 Absätze 9 bis 11 lesen. Eine bloße Geheimnisbehauptung genügt nicht.
+5. Bedingungen zwischen Dateninhaber und Datenempfänger an Artikel 8, Entgelte an Artikel 9 und einseitig auferlegte missbräuchliche B2B-Klauseln an Artikel 13 messen. Artikel 6 regelt die Pflichten des Datenempfängers; er ist kein allgemeiner Klauselwirksamkeitstatbestand.
+6. Personenbezogene Bestandteile nach Artikel 1 Absatz 5 Data Act getrennt prüfen. Der Data Act ersetzt keine nötige Rechtsgrundlage der Verarbeitung. Artikel 20 DSGVO gilt für betroffene natürliche Personen unter seinen Voraussetzungen, auch bei beruflichem Zusammenhang, nicht als Unternehmens-Exportrecht.
+7. Bei Cloud-Migration Artikel 2 Nummer 8 und Kapitel VI, insbesondere Artikel 23, 25, 29 und 31, prüfen. Datenzugang nach Kapitel II und Cloud-Wechsel nach Kapitel VI nicht austauschen. Geltungsbeginn und die jeweils betroffene Übergangsvorschrift aus Artikel 50 konkret zuordnen.
+
+## 4. Quellenpflicht
+
+[Data Act, Verordnung (EU) 2023/2854](https://eur-lex.europa.eu/eli/reg/2023/2854/oj/deu), insbesondere Artikel 2 Nummer 8, Artikel 23 bis 31 und Artikel 50. Artikel 17 betrifft behördliche Datenverlangen, kein Cloud-Wechselrecht. [Artikel 20 DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Den für den Auftrag maßgeblichen Rechtsstand am amtlichen Text prüfen; offene Quellenzugriffe benennen. Für diesen Arbeitsweg zusätzlich Artikel 1 Absatz 5, Artikel 4 bis 9, Artikel 13 und Artikel 43 Data Act sowie [Paragrafen 87a ff. UrhG](https://www.gesetze-im-internet.de/urhg/__87a.html). Keine Rechtsprechung aus Modellwissen ergänzen.
+
+## 5. Ausgabeformat
+
+Erstelle einen nach Datenkategorien begründeten Zugangsvermerk und eine konkrete Bereitstellungs- und Geheimnisschutzvereinbarung oder ein Antwortschreiben. Jede Einschränkung erhält Norm, tatsächlichen Grund, Umfang und Überprüfungsschritt. Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Tabellen unterstützen die Begründung; sie ersetzen weder Klauseln noch ein Anschreiben. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-Ausgabe steht ein nötiger Exporthinweis außerhalb des Empfängertextes.
+
+## 6. Beispiele
+
+Der Hersteller einer vernetzten Maschine verweigert sämtliche Rohsensordaten wegen seiner Datenbankinvestition. Prüfe Artikel 43 für genau diese Daten, den Zugang nach Artikel 4 und konkret belegte Geheimnisse. Übernimm weder eine pauschale Sperre noch eine pauschale Offenlegung aller Auswertungen.
 
 ---
 
@@ -426,144 +502,6 @@ Dieser Skill bearbeitet **Öffentliche Register Handelsregister Grundbuch Transp
 - Abmahnantwort
 - EV-Check
 - Beweisprotokoll
-
----
-
-## Skill: `b2b-kundendaten-datenbank-insolvenz-als`
-
-_Für B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Vertriebsmitarbeiter verlässt das Unternehmen und nimmt dabei die vollständige CRM-Kundendatenbank auf einem USB-Stick mit zum Wettbewerber.
-- Unternehmen fragt, welche Ansprüche gegen den ausgeschiedenen Mitarbeiter und den aufnehmenden Wettbewerber bestehen.
-- Arbeitgeber will präventiv sicherstellen, dass CRM-Exporte technisch verhindert und vertraglich verboten werden.
-
-## Erste Schritte
-
-1. Datenbankherstellerrecht prüfen: Hat das Unternehmen eine wesentliche Investition in seine CRM-Kundendatenbank (Beschaffung, Überprüfung, Darstellung der Kundendaten) getätigt?
-2. Geschäftsgeheimnisschutz prüfen: Sind die Kundendaten als Geschäftsgeheimnis nach § 2 Nr. 1 GeschGehG geschützt — geheim, wertvoll, Geheimhaltungsmaßnahmen vorhanden?
-3. Verletzungshandlung bestimmen: § 87b UrhG (Entnahme wesentlicher Teile), § 4 GeschGehG (rechtswidrige Erlangung und Nutzung), Arbeitsvertragsverletzung.
-4. Ansprüche gegen Mitarbeiter und Wettbewerber formulieren: Unterlassung, Herausgabe, Schadensersatz, Auskunft.
-5. Einstweilige Verfügung prüfen: Dringlichkeit bejaht bei aktueller Verwendung beim Wettbewerber — Verfügungsanspruch und Verfügungsgrund.
-6. DSGVO-Pflichten klären: Datenpanne nach Art. 33-34 DSGVO melden — wenn personenbezogene Kundendaten betroffen.
-
-## Rechtsrahmen
-
-- § 87a UrhG: CRM-Datenbank als Datenbank mit wesentlicher Investition in Kundendatenbeschaffung und -pflege.
-- § 87b UrhG: Entnahme wesentlicher Teile durch den Mitarbeiter als Verletzung des Herstellerrechts.
-- § 2 Nr. 1 GeschGehG: Kundendaten als Geschäftsgeheimnis, wenn nicht allgemein bekannt, wirtschaftlich wertvoll und angemessen geheim gehalten.
-- § 4 GeschGehG: Verbotene Handlungen — rechtswidrige Erlangung, Nutzung und Offenlegung.
-- Art. 33-34 DSGVO: Meldepflicht bei Datenpannen an Aufsichtsbehörde und betroffene Kunden.
-- § 241 Abs. 2 BGB: Nebenpflicht des Arbeitnehmers zur Rücksicht auf Arbeitgeberinteressen — verletzt durch CRM-Export.
-
-## Prüfraster
-
-- Hat das Unternehmen angemessene Geheimhaltungsmaßnahmen für die CRM-Datenbank ergriffen (Zugangsbeschränkungen, NDA, Löschpflicht bei Ausscheiden)?
-- Enthält der Arbeitsvertrag explizite Verbote zur Mitnahme von Kundendaten bei Ausscheiden?
-- Weist die exportierte Datenmenge auf eine Entnahme wesentlicher Teile hin (§ 87b UrhG)?
-- Verwendet der Wettbewerber die Daten bereits aktiv — besteht Dringlichkeit für einstweilige Verfügung?
-- Sind personenbezogene Kundendaten betroffen — ist eine Datenpannen-Meldung nach Art. 33 DSGVO erforderlich?
-- Kann technisch nachgewiesen werden, dass ein Export stattgefunden hat (USB-Logs, E-Mail-Forensik, Zugriffsprotokoll)?
-- Ist der aufnehmende Wettbewerber gutgläubig oder wusste er von der rechtswidrigen Herkunft der Daten?
-
-## Typische Fallstricke
-
-- Fehlende technische Sperren (kein USB-Block, kein Export-Verbot im CRM) schwächen die Position im GeschGehG-Prozess erheblich.
-- Ohne DSGVO-Datenpannen-Meldung droht zusätzliches Bußgeld durch die Datenschutzbehörde.
-- Ansprüche gegen den Wettbewerber setzen Kenntnis oder fahrlässige Unkenntnis von der unrechtmäßigen Herkunft voraus.
-- Arbeitsrechtliche Abmahnung und außerordentliche Kündigung müssen zeitnah erfolgen — keine Verwirkung.
-- Berechnung des Schadens ist komplex: entgangene Aufträge, Lizenzanalogie oder pauschaler Schadensersatz nach § 97 Abs. 2 UrhG.
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 4 GeschGehG — dejure.org](https://dejure.org/gesetze/GeschGehG/4.html)
-- [Art. 33 DSGVO — dejure.org](https://dejure.org/gesetze/DSGVO/33.html)
-- [§ 241 BGB — dejure.org](https://dejure.org/gesetze/BGB/241.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [GeschGehG — gesetze-im-internet.de](https://www.gesetze-im-internet.de/geschgehg/index.html)
-
----
-
-## Skill: `webdaten-auslesen-datenbank-und-robots-txt`
-
-_Für Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Webdaten-Auslesen gegen Websites mit Datenbankcharakter — Rechtliche Risikoanalyse
-
-## Arbeitsbereich
-
-Rechtliche Bewertung von Webdaten-Auslesen gegen Websites mit Datenbankcharakter: Prüft §§ 87a-87e UrhG, Verstoß gegen AGB (§ 307 BGB), robots.txt-Bindungswirkung, Wettbewerbsrecht (§§ 3 4 UWG) und strafrechtliche Relevanz (§ 202a StGB). Bewertet EuGH C-202/12 (Innoweb/Wegener) und erstellt Risikoampel für Betreiber und Auslesedienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Mandantenfall
-
-- Preisvergleich-Startup will Produktdaten von Händlerwebsites automatisiert abrufen und fragt nach dem rechtlichen Risiko.
-- Betreiber eines Immobilienportals entdeckt, dass ein Mitbewerber Exposés systematisch abgreift, und will Unterlassungsansprüche geltend machen.
-- KI-Unternehmen plant, öffentlich zugängliche Websites als Trainingsdaten einzusammeln, und benötigt eine rechtliche Bewertung der Zulässigkeit.
-
-## Erste Schritte
-
-1. Datenbankcharakter der Zielwebsite prüfen: Sind die Daten systematisch geordnet und über Suchabfragen individuell zugänglich (§ 87a Abs. 1 UrhG)?
-2. Investitionsnachweis der Website-Betreiber abschätzen: Ressourcenaufwand für Sammlung, Pflege und Darstellung der Daten.
-3. robots.txt und AGB analysieren: Verbieten sie automatisierten Abruf? Ist robots.txt ein verbindliches Vertragsangebot oder nur technische Empfehlung?
-4. Verletzungstatbestand bestimmen: Wesentliche Entnahme (§ 87b UrhG) oder Kumulationstatbestand (§ 87b Abs. 1 S. 2 UrhG)?
-5. Wettbewerbsrechtliche Prüfung: Gezielte Behinderung (§ 4 Nr. 4 UWG), Schmarotzen an fremder Leistung?
-6. Strafrecht prüfen: § 202a StGB (Ausspähen von Daten) nur bei Überwindung technischer Zugangssicherungen.
-
-## Rechtsrahmen
-
-- §§ 87a-87b UrhG: Datenbankherstellerrecht gegen Entnahme und Weiterverwendung wesentlicher Teile.
-- § 307 BGB: AGB-Kontrolle für Datenabruf verbietende Nutzungsbedingungen — Verbote können wirksam sein, wenn hinreichend klar formuliert.
-- § 4 Nr. 4 UWG: Gezielte Behinderung — Abfangen von Kunden oder Datenmissbrauch zum Nachteil des Wettbewerbers.
-- § 202a StGB: Ausspähen von Daten — nur relevant, wenn Zugangssicherungen (Passwort, CAPTCHA, technische Sperre) überwunden werden.
-- EuGH C-202/12 (Innoweb/Wegener): Meta-Suchmaschine durchsucht Stellenbörsendatenbank in Echtzeit — wesentliche Weiterverwendung bejaht.
-- RL 96/9/EG Art. 6 Abs. 1: Zugriffsrecht des rechtmäßigen Nutzers — gilt nicht für unbefugte Nutzer.
-
-## Prüfraster
-
-- Ist die Zielwebsite als Datenbank nach § 87a Abs. 1 UrhG zu qualifizieren?
-- Hat der Website-Betreiber eine wesentliche Investition in Beschaffung, Überprüfung oder Darstellung getätigt?
-- Verbieten robots.txt oder AGB ausdrücklich automatisierten Abruf oder automatisiertes Auslesen?
-- Handelt es sich um einen rechtmäßigen Nutzer (z. B. mit Account) oder einen Unbefugten?
-- Überwindet das Datenabruf-Tool technische Schutzmaßnahmen (CAPTCHA, Login-Gate, Rate-Limit-Sperre)?
-- Wird ein wesentlicher Teil entnommen, oder kumulieren wiederholte Abrufe?
-- Liegt ein wirtschaftlicher Schaden oder eine Wettbewerbsverzerrung vor?
-
-## Typische Fallstricke
-
-- robots.txt hat keine unmittelbar gesetzliche Bindungswirkung — entscheidend ist, ob AGB auf sie Bezug nehmen oder ein Vertragsangebot vorliegt.
-- Öffentlich zugängliche Daten sind nicht automatisch frei entnehmbar — das Datenbankherstellerrecht schützt unabhängig von einer Zugangssperre.
-- Auslesedienste, die einen Nutzer-Login voraussetzen, verstoßen zusätzlich gegen §§ 307 BGB, 202a StGB.
-- Aggregator-Dienste, die Echtzeit-Suche auf Fremddatenbanken betreiben, erfüllen nach Innoweb/Wegener den Weiterverwendungstatbestand.
-- Wettbewerbsrechtliche Ansprüche (UWG) unterliegen kürzerer Verjährung (§ 11 UWG: 6 Monate) als urheberrechtliche.
-
-## Quellen
-
-- [§ 87a UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87a.html)
-- [§ 87b UrhG — dejure.org](https://dejure.org/gesetze/UrhG/87b.html)
-- [§ 4 UWG — dejure.org](https://dejure.org/gesetze/UWG/4.html)
-- [§ 202a StGB — dejure.org](https://dejure.org/gesetze/StGB/202a.html)
-- [EuGH C-202/12 Innoweb/Wegener — Curia](https://curia.europa.eu/juris/liste.jsf?num=C-202/12)
-- [RL 96/9/EG — EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31996L0009)
 
 ---
 

@@ -23,8 +23,12 @@ on:
       - 'scripts/test-prompt-routing-scope.py'
       - 'scripts/audit-prompt-profile-routing.py'
       - 'scripts/themen_profile.py'
+      - 'scripts/test-schwerpunkt-coverage.py'
+      - 'scripts/quality_lab.py'
+      - 'scripts/test-quality-lab.py'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
+      - '**/*-hauptproblem.md'
       - '**/README.md'
       - 'README.md'
       - 'QUICKSTART.md'
@@ -91,6 +95,8 @@ jobs:
           python3 scripts/test-portable-starts.py
           python3 scripts/test-prompt-openings.py
           python3 scripts/test-prompt-routing-scope.py
+          python3 scripts/test-schwerpunkt-coverage.py SchwerpunktCoverage.test_every_specialist_has_concrete_skill_and_prompt SchwerpunktContractRegressions
+          python3 scripts/test-quality-lab.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

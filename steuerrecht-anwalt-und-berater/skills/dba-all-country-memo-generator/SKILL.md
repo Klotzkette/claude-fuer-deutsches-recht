@@ -80,7 +80,7 @@ Baue bei Bedarf Varianten:
 ## Beispiel-Varianten und Live-Marker
 
 - **Arbeitnehmer 47 Home-Office-Tage + Bonus Vorjahr**: prüfe Konsultationsvereinbarung Home-Office; prüfe 183-Tage-Regel mit Aufenthaltskalender; Bonus aufteilen nach Vesting-Zeitraum.
-- **GmbH-Softwarelizenz an ausländische Schwester**: prüfe § 50a EStG-Einbehalt; Freistellungsbescheinigung BZSt; § 4j EStG-Lizenzschranke.
+- **Softwarezahlung einer GmbH an ihre ausländische Schwester**: Rechteumfang und deutsche Abzugspflicht vor einer BZSt-Entlastung klären. Die Lizenzschranke nach § 4j EStG a.F. bleibt nur für offene Veranlagungszeiträume bis 2024 Prüfpunkt (§ 52 Abs. 8c Satz 3 EStG); ab VZ 2025 entfällt sie. Vgl. [Quellen und Abgrenzung](../../references/lizenzzahlungen-software.md).
 - **Deutsche KG mit ausländischer BS und Verlusten**: prüfe Freistellung-Aktivitaetsklausel; § 2a EStG-Verlustberuecksichtigung.
 - **Verkauf Immobilien-Holding**: prüfe Art. 13 DBA (grundstuecksreiche Gesellschaft); Belegenheitsstaat.
 - **Pensionaer mit DRV + Betriebsrente Wegzug Portugal**: prüfe Art. 18 DBA-PT; NHR; § 50d Abs. 9 EStG.

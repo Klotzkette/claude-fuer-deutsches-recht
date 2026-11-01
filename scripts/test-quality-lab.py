@@ -76,6 +76,63 @@ class QualityLabTests(unittest.TestCase):
         (self.root / "quality/evals/fachgebiet.json").unlink()
         self.assertEqual(len(lab.audit(self.root)[1]), 1)
 
+    def test_additional_review_hashes_bind_each_declared_file(self):
+        relative = "fachgebiet/skills/belegabgleich/SKILL.md"
+        for field in ("skill_hashes", "reviewed_file_hashes", "artifact_hashes"):
+            with self.subTest(field=field):
+                profile = copy.deepcopy(self.profile)
+                profile[field] = {relative: lab.digest((self.root / relative).read_bytes())}
+                lab.validate_profile(profile, "fachgebiet", self.plugin, self.root)
+                profile[field][relative] = "0" * 64
+                with self.assertRaisesRegex(lab.LabError, "seit dokumentierter Prüfung verändert"):
+                    lab.validate_profile(profile, "fachgebiet", self.plugin, self.root)
+                lab.save(self.root / "quality/evals/fachgebiet.json", profile)
+                self.assertTrue(lab.audit(self.root)[1])
+
+    def test_review_hash_maps_reject_invalid_values_and_paths(self):
+        relative = "fachgebiet/skills/belegabgleich/SKILL.md"
+        for field in ("skill_hashes", "reviewed_file_hashes", "artifact_hashes"):
+            for value in (None, [], "reviewed", {relative: None}, {relative: "A" * 64},
+                          {relative: "g" * 64}, {relative: "a" * 63},
+                          {"../outside.md": "0" * 64}, {"/outside.md": "0" * 64},
+                          {"missing.md": "0" * 64}):
+                with self.subTest(field=field, value=value):
+                    profile = copy.deepcopy(self.profile)
+                    profile[field] = value
+                    with self.assertRaises(lab.LabError):
+                        lab.validate_profile(profile, "fachgebiet", self.plugin, self.root)
+
+    def test_review_hash_map_rejects_symlink_leaving_repository(self):
+        outside = self.base / "outside.md"
+        outside.write_text("Extern", encoding="utf-8")
+        (self.plugin / "outside.md").symlink_to(outside)
+        self.profile["artifact_hashes"] = {"fachgebiet/outside.md": lab.digest(outside.read_bytes())}
+        with self.assertRaisesRegex(lab.LabError, "Symlink"):
+            lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
+    def test_pending_file_review_is_visible_and_blocks_new_work_product_runs(self):
+        self.profile["file_review_status"] = {
+            "status": "needs_review", "reason": "Datei seit der Prüfung verändert",
+            "files": ["fachgebiet/skills/belegabgleich/SKILL.md"],
+        }
+        self.write_profile()
+        profiles, errors = lab.audit(self.root)
+        self.assertEqual(errors, [])
+        self.assertIn("needs_review", lab.catalog(profiles, self.root))
+        self.assertIn("Nachprüfung von 1 veränderten Dateiständen offen", lab.catalog(profiles, self.root))
+        with self.assertRaisesRegex(lab.LabError, "needs_review"):
+            self.prepare()
+        self.assertFalse((self.base / "run").exists())
+
+    def test_pending_file_review_rejects_missing_status_and_unbounded_paths(self):
+        for value in ({}, {"status": "passed"},
+                      {"status": "needs_review", "reason": "Offen", "files": ["../outside.md"]},
+                      {"status": "needs_review", "reason": "Offen", "files": []}):
+            with self.subTest(value=value):
+                self.profile["file_review_status"] = value
+                with self.assertRaises(lab.LabError):
+                    lab.validate_profile(self.profile, "fachgebiet", self.plugin, self.root)
+
     def test_missing_target_skill_fails(self):
         self.profile["cases"][0]["target_skill"] = "missing"
         self.write_profile()

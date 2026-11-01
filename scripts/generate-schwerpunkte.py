@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Verzeichnet vorhandene individuelle Schwerpunkt-Prompts; erzeugt keine Fachinhalte."""
 
+
+if __name__ == "__main__":
+    from generator_cli import parse_generator_cli
+
+    parse_generator_cli(__doc__)
+
 import html
 import re
 from pathlib import Path

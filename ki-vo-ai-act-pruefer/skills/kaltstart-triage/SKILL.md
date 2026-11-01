@@ -232,7 +232,7 @@ Zusaetzlich behandelt das Plugin General-Purpose-AI (GPAI)-Modelle, die Ausnahme
 - `gpai-vorliegen-art-3-nr-63` — Prüft ob ein KI-Modell ein GPAI-Modell nach Art. 3 Nr. 63 KI-VO ist.
 - `gpai-modelle-art-51-bis-55` — GPAI-Pflichten: Verhaltenskodizes, technische Dokumentation, Transparenz (Art. 51-55 KI-VO).
 - `gpai-systemisches-risiko-schwelle-10e25-flop` — Prüft ob die Schwelle für systemisches Risiko bei GPAI-Modellen ueberschritten ist.
-- `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
+- `bevollmaechtigter-produkthersteller-pflichten` — Pflichten des EU-Bevollmaechtigten und von Produktherstellern (Art. 22 und 25 KI-VO).
 - `einfuehrer-importer-pflichten-art-23` — Sorgfaltspflichten des Importeurs von KI-Systemen aus Drittstaaten (Art. 23 KI-VO).
 - `haendler-distributor-pflichten-art-24` — Sorgfaltspflichten des Distributeurs beim Weitervertrieb von Hochrisiko-KI (Art. 24 KI-VO).
 - `betreiber-deployer-pflichten-art-26` — Betreiberpflichten beim Einsatz eingekaufter Hochrisiko-KI-Systeme (Art. 26 KI-VO).
