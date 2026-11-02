@@ -92,14 +92,14 @@ Die Werkstatt arbeitet auch an einem einzelnen Vergleich, einer Replik oder eine
 | Angebot | Verwendung | Download |
 | --- | --- | --- |
 | Installierbares Plugin | Elf Skills mit den benötigten internen Referenzen; keine automatische Installation von Fallakten oder Begleitprompts | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0/arbeitsrecht-kuendigungsschutzklagewerkstatt.zip) |
-| Portables Plugin | Dasselbe Paket in einem benannten Archivordner mit portablem Manifest und Kompatibilitätsmanifesten | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.1.0/arbeitsrecht-kuendigungsschutzklagewerkstatt-portable.zip) |
+| Portables Plugin | Dasselbe Paket in einem benannten Archivordner mit portablem Manifest und Kompatibilitätsmanifesten | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0/arbeitsrecht-kuendigungsschutzklagewerkstatt-portable.zip) |
 | Werkstatt-Prompt | Ausführliche Ein-Datei-Arbeitsanweisung für das Kündigungsschutzmandat, einschließlich Rückfragen, Prozesswegen und Dokumentenfertigstellung | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-werkstatt.md" download>Werkstatt als Markdown herunterladen</a> |
 | Mini-Prompt | Kompakter vollständiger Einstieg unter 7500 Zeichen und UTF-8-Bytes einschließlich Leerzeichen und Zeilenumbrüchen | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-schnellstart.md" download>Mini-Prompt als Markdown herunterladen</a> |
 | Hauptproblem-Prompt | Konzentriert den Gesamtauftrag auf Fristsicherung, richtigen Antrag und fertigen Schriftsatz; eigenständig verwendbar | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht-kuendigungsschutzklagewerkstatt/arbeitsrecht-kuendigungsschutzklagewerkstatt-hauptproblem.md" download>Hauptproblem-Prompt als Markdown herunterladen</a> |
 
 Bei eigenständiger Verwendung genügt eine der drei Markdown-Dateien mit Ihrem Auftrag und Ihren Unterlagen. Die Datei installiert keine Werkzeuge. Bei Verwendung des Plugins den Hauptskill oder unmittelbar den passenden Fachskill wählen. Dateizugriff, Quellenrecherche und echte Office- oder PDF-Erzeugung hängen von der verwendeten Oberfläche ab. Eine reine Textausgabe wird als solche bezeichnet.
 
-Version 1.1.0. Änderungen stehen im [Paket-Changelog](CHANGELOG.md). Der Rechtsstand ist im [Quellenverzeichnis](references/rechtsprechung.md) erläutert.
+Version 1.3.0. Änderungen stehen im [Paket-Changelog](CHANGELOG.md). Der Rechtsstand ist im [Quellenverzeichnis](references/rechtsprechung.md) erläutert.
 
 ## 1.3. Zehn Fachskills und ein Hauptskill
 
