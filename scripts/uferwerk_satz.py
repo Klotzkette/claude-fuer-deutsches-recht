@@ -224,12 +224,18 @@ def _recipient(canv, item, spec, sty):
     if spec["mode"] == "court_letter" and ";" in address:
         address = "An die Prozessbevollmächtigten\nin Sachen Muster ./. Uferwerk Verlag GmbH"
     if spec["mode"] == "firm_letter":
-        address = re.sub(r"Über das besondere elektronische Anwaltspostfach", "", address).strip()
+        transmission = re.compile(
+            r"^\s*(?:Über das besondere elektronische Anwaltspostfach|per beA)\s*$",
+            re.I | re.M,
+        )
+        per_bea = bool(transmission.search(address))
+        address = transmission.sub("", address).strip()
         address = address.replace(" - Kammern Radolfzell", "\nKammern Radolfzell")
         if address.startswith("Arbeitsgericht") and "\n" not in address:
             address = "Arbeitsgericht Villingen-Schwenningen\nKammern Radolfzell\nSeetorstraße 5\n78315 Radolfzell"
         _draw_paragraph(canv, address, LEFT, 728, 287, sty["body"])
-        _draw_paragraph(canv, "per beA", LEFT, 742, 200, sty["small"])
+        if per_bea:
+            _draw_paragraph(canv, "per beA", LEFT, 742, 200, sty["small"])
     else:
         _draw_paragraph(canv, address, LEFT, 725, 310, sty["body"])
 

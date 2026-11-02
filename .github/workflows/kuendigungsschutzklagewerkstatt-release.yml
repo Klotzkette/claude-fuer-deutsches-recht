@@ -21,9 +21,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0
+        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.1
         required: true
-        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0
+        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.1
 
 permissions:
   contents: read
