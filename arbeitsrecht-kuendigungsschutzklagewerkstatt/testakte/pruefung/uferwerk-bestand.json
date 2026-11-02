@@ -9,7 +9,7 @@
   "pages": 185,
   "pdf_files": 94,
   "archive": "testakte-arbeitsrecht-muster-uferwerk-berufung-einzelpdfs.zip",
-  "archive_sha256": "f5473cfe10e23f829bee8dbfcbd8949bf9fed8e360c00dd2146400ad4e8a18a3",
+  "archive_sha256": "03c30683b46c33161e9082961178774bd22593c6a6425eaa71c3f6e41c5036ec",
   "files": [
     {
       "id": "V01",
@@ -359,8 +359,8 @@
       "title": "Kündigungsschutzklage mit Weiterbeschäftigungsantrag",
       "file": "P01_2026-04-13_Kundigungsschutzklage_mit_Weiterbeschaftigungsantrag.pdf",
       "pages": 5,
-      "characters": 15911,
-      "sha256": "2be3c03411be97a14ad477f7059fbbc179220dd8af885eabebc8549de35e20fa"
+      "characters": 15903,
+      "sha256": "29df2998d0e64efc7d2b66a69e49ab329306a70ee05fe859ec5963535c5fe62f"
     },
     {
       "id": "P02",
@@ -404,8 +404,8 @@
       "title": "Vertretungsanzeige und Stellungnahme zur Güteverhandlung",
       "file": "P06_2026-04-23_Vertretungsanzeige_und_Stellungnahme_zur_Guteverhandlung.pdf",
       "pages": 1,
-      "characters": 1955,
-      "sha256": "6f0e4cfc7dcc118aea58235f694c06ef11ce82f9e950670f3812fc290e0d2f62"
+      "characters": 1947,
+      "sha256": "c8396f36fab59b73ae5058588d0ba245b8d971171c37fb877deb5b227223ef89"
     },
     {
       "id": "P07",
@@ -413,8 +413,8 @@
       "title": "Frühe Ergänzung zur Vergleichsgruppe und zur Rotation",
       "file": "P07_2026-04-27_Fruhe_Erganzung_zur_Vergleichsgruppe_und_zur_Rotation.pdf",
       "pages": 3,
-      "characters": 6583,
-      "sha256": "74b897cb1987bf5ad0a742f184082f8f3253e042736ce5a0be8e0155c7172c0c"
+      "characters": 6575,
+      "sha256": "971032b37f92b566fbf49efe703903ecc012cc5f807ec6fc82cbac0b48962a99"
     },
     {
       "id": "P08",
@@ -440,8 +440,8 @@
       "title": "Klageerwiderung",
       "file": "P10_2026-06-02_Klageerwiderung.pdf",
       "pages": 5,
-      "characters": 17227,
-      "sha256": "a5b0b29dbbef6723597c8c9f7622d547b1d3e304fa2ff0c8f93ddc7d5f586841"
+      "characters": 17219,
+      "sha256": "8a7e27a95f0cfa60658dfd76917fa032e8a970cb645cca38caaf825e02ab5d51"
     },
     {
       "id": "P11",
@@ -467,8 +467,8 @@
       "title": "Replik",
       "file": "P13_2026-06-30_Replik.pdf",
       "pages": 7,
-      "characters": 23188,
-      "sha256": "0e9ba1ab5a01c37d8434c5885cf7c7dbffb7e6396554e6d34a58e82d8cf2f0ec"
+      "characters": 23180,
+      "sha256": "01a80bcfa6673cb8b8aef9c89caac64eaa7b86190fd31863fe7c094610f18b17"
     },
     {
       "id": "P14",
@@ -485,8 +485,8 @@
       "title": "Duplik",
       "file": "P15_2026-07-28_Duplik.pdf",
       "pages": 5,
-      "characters": 16522,
-      "sha256": "3d394f331ee5649fa3eeb5a47d2bcd709fc1370cb02fd4080971706451566579"
+      "characters": 16514,
+      "sha256": "9f0d63cc3cab22d4307d69871a7951e52f0198a8368eede7d3c787eae7474884"
     },
     {
       "id": "P16",
@@ -539,8 +539,8 @@
       "title": "Triplik",
       "file": "P21_2026-09-01_Triplik.pdf",
       "pages": 4,
-      "characters": 13343,
-      "sha256": "ccbed637127ea60caa55546a0067b83b324e6f8726f1727f18e9edc4586fdfb4"
+      "characters": 13335,
+      "sha256": "2228b5ddf05525ebcca85a1d6ee49c2a358d094287284b8877823342322caf96"
     },
     {
       "id": "P22",
@@ -548,8 +548,8 @@
       "title": "Stellungnahme zur Triplik",
       "file": "P22_2026-09-10_Stellungnahme_zur_Triplik.pdf",
       "pages": 2,
-      "characters": 5272,
-      "sha256": "5f965cc7bec6b87e47887816cd36b991003b1be5a4dbd5230d04888094c92e88"
+      "characters": 5264,
+      "sha256": "5fd81b7d674736507a60dfc42a30991837d9ca6cf671d1226b53120be1468a95"
     },
     {
       "id": "P23",
@@ -575,8 +575,8 @@
       "title": "Stellungnahme zum Streitwert",
       "file": "P25_2026-09-25_Stellungnahme_zum_Streitwert.pdf",
       "pages": 1,
-      "characters": 1490,
-      "sha256": "af26d89d284e1dc126af4edc0c54de2439da839f797aefcba48ed97a31957fd8"
+      "characters": 1482,
+      "sha256": "203788994e7d3d2d1968025066ee054a50ab9c15f24ce4406e748feb829499dc"
     },
     {
       "id": "P26",
@@ -584,8 +584,8 @@
       "title": "Stellungnahme der Beklagten zum Streitwert",
       "file": "P26_2026-09-29_Stellungnahme_der_Beklagten_zum_Streitwert.pdf",
       "pages": 1,
-      "characters": 1368,
-      "sha256": "3c6425e86061d951754e94ee2c3ce99b0289300ea4f0beb44ed7791c4ee91d6a"
+      "characters": 1360,
+      "sha256": "359d2e6962ae77e124512daea8edbe274f10123adeb39ab5119726a1a714c4e9"
     },
     {
       "id": "P27",
@@ -665,8 +665,8 @@
       "title": "Übersendung des Urteils und Besprechung",
       "file": "N01_2026-10-14_Ubersendung_des_Urteils_und_Besprechung.pdf",
       "pages": 1,
-      "characters": 1825,
-      "sha256": "c006c4b05678814fd095cce55a2b2b0b4093b3c90645e0372b62a2b6c7ad4d10"
+      "characters": 1817,
+      "sha256": "7342c5fe7c49ccb48078f2273cb4e3556168919d9286a2b1ecc228a1f1b2b50c"
     },
     {
       "id": "N02",
@@ -845,8 +845,8 @@
       "title": "Mitteilung über die eingelegte Berufung",
       "file": "N21_2026-10-30_Mitteilung_uber_die_eingelegte_Berufung.pdf",
       "pages": 1,
-      "characters": 1824,
-      "sha256": "26fa43067644deb5c576b47788168cddde59afb829b04704f307e2a4af58c47c"
+      "characters": 1816,
+      "sha256": "408033d95dd23105cd26a2df3732c85365559eb307497baa9b3a5d37c2818891"
     }
   ],
   "sources": [
@@ -866,7 +866,7 @@
   "production_sources": [
     {
       "path": "scripts/uferwerk_satz.py",
-      "sha256": "0ef9768944baec09870748376021fe9aeda4258ebecf885983bf12166db63fa6"
+      "sha256": "1e9799994c57d01500da7c01480942f751ba6b899ec7bb7b1db5a487f18f4a20"
     },
     {
       "path": "scripts/build-uferwerk-berufungsakte.py",

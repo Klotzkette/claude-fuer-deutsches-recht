@@ -220,16 +220,20 @@ def _employer_mark(canv, y, is_br=False):
 
 
 def _recipient(canv, item, spec, sty):
-    address = address_lines(item.get("recipient", ""))
+    recipient = clean(item.get("recipient", ""))
+    per_bea = False
+    if spec["mode"] == "firm_letter":
+        # Nur eigenständige Zeilen der Quelle belegen die Versandart.
+        # address_lines fügt selbst Umbrüche in Komma-Anschriften ein.
+        transmission_lines = {"über das besondere elektronische anwaltspostfach", "per bea"}
+        lines = recipient.splitlines()
+        per_bea = any(line.strip().casefold() in transmission_lines for line in lines)
+        recipient = "\n".join(line for line in lines
+                              if line.strip().casefold() not in transmission_lines).strip()
+    address = address_lines(recipient)
     if spec["mode"] == "court_letter" and ";" in address:
         address = "An die Prozessbevollmächtigten\nin Sachen Muster ./. Uferwerk Verlag GmbH"
     if spec["mode"] == "firm_letter":
-        transmission = re.compile(
-            r"^\s*(?:Über das besondere elektronische Anwaltspostfach|per beA)\s*$",
-            re.I | re.M,
-        )
-        per_bea = bool(transmission.search(address))
-        address = transmission.sub("", address).strip()
         address = address.replace(" - Kammern Radolfzell", "\nKammern Radolfzell")
         if address.startswith("Arbeitsgericht") and "\n" not in address:
             address = "Arbeitsgericht Villingen-Schwenningen\nKammern Radolfzell\nSeetorstraße 5\n78315 Radolfzell"

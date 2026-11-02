@@ -65,6 +65,56 @@ def check_recipient_formatting(documents):
         require(calls[0][1] == by_id["N19"]["recipient"].rsplit("\n", 1)[0],
                 "Versandvermerk nicht von Gerichtsanschrift getrennt: N19")
 
+    # Layoutumbrüche dürfen aus einer bloßen Erwähnung im Rohwert keine
+    # eigenständige Versandzeile machen. Andere Versandwege bleiben erhalten.
+    for recipient in (
+        "per beA, Seestraße 18, 78464 Konstanz",
+        "Über das besondere elektronische Anwaltspostfach, Seestraße 18, 78464 Konstanz",
+        "Arbeitsgericht Villingen-Schwenningen - Kammern Radolfzell, per beA",
+        "An das Arbeitsgericht Villingen-Schwenningen per beA",
+        "Gericht\nBitte künftig per beA zustellen",
+        "Gericht\nper beA an die Geschäftsstelle",
+        "Gericht\nper E-Mail",
+        "Gericht\nper Fax",
+    ):
+        item = dict(by_id["N19"], recipient=recipient)
+        calls = recipient_calls(item)
+        require(len(calls) == 1, "Unbelegter Versandvermerk aus Inline-Angabe: " + repr(recipient))
+        expected = uferwerk_satz.address_lines(recipient).replace(" - Kammern Radolfzell", "\nKammern Radolfzell")
+        require(calls[0][1] == expected, "Empfängertext entfernt: " + repr(recipient))
+
+    # Auch eine genaue Formulierung im Fließtext oder im Betreff beweist
+    # keinen Versandweg. Beide Kanzleiprofile müssen dies respektieren.
+    for brand in ("employee_firm", "employer_firm"):
+        item = dict(by_id["N19"], brand=brand, recipient=by_id["N01"]["recipient"],
+                    subject="Über das besondere elektronische Anwaltspostfach",
+                    sections=[{"paragraphs": ["per beA", "Bitte künftig per beA zustellen."]}])
+        calls = recipient_calls(item)
+        require(len(calls) == 1 and calls[0][1] == by_id["N01"]["recipient"],
+                "Versandvermerk aus Kanzleiprofil, Betreff oder Fließtext: " + brand)
+
+    address = by_id["N19"]["recipient"].rsplit("\n", 1)[0]
+    for separator in ("\n", "\r\n", "\r", "\u2028", "\u0085"):
+        for transmission in ("  pEr BeA\t", "\tÜBER DAS BESONDERE ELEKTRONISCHE ANWALTSPOSTFACH  "):
+            item = dict(by_id["N19"], recipient=separator.join((address, transmission, "per beA")))
+            calls = recipient_calls(item)
+            require(len(calls) == 2 and calls[1][1:5] == ("per beA", uferwerk_satz.LEFT, 742, 200),
+                    "Versandvermerk bei Schreibweise/Zeilentrenner doppelt oder verloren: " + repr(separator))
+            require(calls[0][1] == address, "Versandzeile in Anschrift verblieben: " + repr(separator))
+
+
+def check_pdf_recipient_areas(documents, recipient_texts):
+    """Prüft vorhandene PDF-Adressbereiche ohne die SHA-Prüfungen zu umgehen."""
+    for doc in documents:
+        if uferwerk_satz.spec_for(doc)["mode"] == "firm_letter":
+            declared = any(line.strip().casefold() in ("über das besondere elektronische anwaltspostfach", "per bea")
+                           for line in doc["recipient"].splitlines())
+            require(recipient_texts[doc["id"]].count("per beA") == int(declared),
+                    "PDF-Versandvermerk ohne passende Quellenangabe: " + doc["id"])
+    require(recipient_texts["N19"].count("per beA") == 1, "Ausdrücklicher PDF-beA-Vermerk fehlt oder ist doppelt: N19")
+    require("Über das besondere elektronische Anwaltspostfach" not in recipient_texts["N19"],
+            "Langer Versandvermerk zusätzlich in PDF-Anschrift: N19")
+
 
 def check():
     inventory = json.loads((PLUGIN / "testakte/pruefung/uferwerk-bestand.json").read_text())
@@ -121,15 +171,7 @@ def check():
         require(pages + len(index.pages) == inventory["pages"], "Gesamtseitenzahl")
         index_text = "\n".join(page.extract_text() or "" for page in index.pages)
         require(all(entry["id"] in index_text for entry in inventory["files"]), "Aktenverzeichnis unvollständig")
-    for doc in documents:
-        if uferwerk_satz.spec_for(doc)["mode"] == "firm_letter":
-            declared = any(line.strip().casefold() in ("über das besondere elektronische anwaltspostfach", "per bea")
-                           for line in doc["recipient"].splitlines())
-            require(recipient_texts[doc["id"]].count("per beA") == int(declared),
-                    "PDF-Versandvermerk ohne passende Quellenangabe: " + doc["id"])
-    require(recipient_texts["N19"].count("per beA") == 1, "Ausdrücklicher PDF-beA-Vermerk fehlt oder ist doppelt: N19")
-    require("Über das besondere elektronische Anwaltspostfach" not in recipient_texts["N19"],
-            "Langer Versandvermerk zusätzlich in PDF-Anschrift: N19")
+    check_pdf_recipient_areas(documents, recipient_texts)
     # Inhaltserhalt über den Satz hinweg: Absatztext darf durch Gattungsprofile
     # oder Umbrüche nicht verschwinden. Das gesondert gesetzte Rubrum wird
     # stattdessen anhand seiner entscheidenden Identitätsdaten geprüft.
