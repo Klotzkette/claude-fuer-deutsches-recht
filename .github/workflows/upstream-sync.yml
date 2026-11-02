@@ -16,12 +16,23 @@ jobs:
     name: Updates von Klotz-Kette ziehen
 
     steps:
+    # Schritt 0: Prüfen, ob das Token-Secret hinterlegt ist (sonst klare Fehlermeldung statt kryptischem Push-Fehler)
+    - name: Token prüfen
+      env:
+        SYNC_PAT: ${{ secrets.SYNC_PAT }}
+      run: |
+        if [ -z "$SYNC_PAT" ]; then
+          echo "::error title=Secret SYNC_PAT fehlt::Bitte unter Settings > Secrets and variables > Actions ein Secret SYNC_PAT anlegen (Personal Access Token mit Rechten Contents und Workflows)."
+          exit 1
+        fi
+
     # Schritt 1: Eigenen Fork auschecken (volle Historie, damit Commits und Dateien verglichen werden können)
     - name: Checkout target repo
       uses: actions/checkout@v4
       with:
         ref: main
         fetch-depth: 0
+        token: ${{ secrets.SYNC_PAT }}
 
     # Schritt 2: Startprotokoll – belegt, dass der Lauf (Cron oder manuell) stattgefunden hat
     - name: Startprotokoll
@@ -38,7 +49,8 @@ jobs:
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.3
       with:
         target_sync_branch: main
-        target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+        # Eigenes Token mit Workflow-Recht, weil Upstream Dateien unter .github/workflows/ ändert
+        target_repo_token: ${{ secrets.SYNC_PAT }}
         upstream_sync_repo: Klotzkette/claude-fuer-deutsches-recht
         upstream_sync_branch: main
 
@@ -67,7 +79,7 @@ jobs:
           {
             echo
             echo "**Ergebnis: FEHLER.** Der Sync ist nicht durchgelaufen. Details im Log des Schritts \"Sync upstream changes\"."
-            echo "Häufige Ursache: Merge-Konflikt, oder Upstream ändert Dateien unter \`.github/workflows/\` (dafür reicht das GITHUB_TOKEN nicht)."
+            echo "Häufige Ursache: Merge-Konflikt, oder Upstream ändert Dateien unter \`.github/workflows/\` (dafür braucht das Token SYNC_PAT das Recht \`Workflows\`)."
           } >> "$REPORT"
         elif [ "$HAS_NEW_COMMITS" != "true" ]; then
           {
