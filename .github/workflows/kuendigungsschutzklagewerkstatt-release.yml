@@ -21,9 +21,9 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0
+        description: Komponententag arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.1
         required: true
-        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.0
+        default: arbeitsrecht-kuendigungsschutzklagewerkstatt-v1.3.1
 
 permissions:
   contents: read
@@ -52,6 +52,7 @@ jobs:
           node scripts/validate-marketplace-import.mjs
           python3 scripts/validate-root-readme-overview.py
           python3 scripts/validate-yaml-frontmatter.py
+          python3 scripts/validate-testakten-gesamt-pdf.py
           python3 scripts/validate-testakten-readme-downloads.py
           python3 scripts/quality_lab.py audit --require-editorial --require-workflow
           python3 scripts/test-kuendigungsschutzklagewerkstatt.py
