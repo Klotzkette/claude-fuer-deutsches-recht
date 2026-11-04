@@ -568,6 +568,16 @@
       }
     },
     {
+      "name": "compliance-abteilung-grosskonzern",
+      "version": "445.35.3",
+      "description": "Interne Rechts- und Compliance-Abteilung im Industriekonzern: KI-Einsatz, Richtlinien, Meldungen, Untersuchungen, Geschäftspartner, Konzernkontrollen und Organvorlagen fallbezogen bearbeiten.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./compliance-abteilung-grosskonzern"
+    },
+    {
       "name": "corporate-contract-law",
       "source": "./corporate-contract-law",
       "description": "Corporate Contract Law - Wirtschaftsvertraege: zwanzig Skills fuer deutsche B2B-Vertragsgestaltung vom Geschaeftsauftrag ueber den vollstaendigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf.",

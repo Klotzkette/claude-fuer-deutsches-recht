@@ -1,0 +1,6 @@
+Kennung;Größe;Ausgangswert;Quelle;Zu prüfen
+CM-29;offen oder Nachprüfung;23;Statusliste;Stichtag/Dubletten
+CM-30;Schließungen nach Stichtag;3;Portalhistorie;1. Oktober
+KR-11;fällige Kontrollen;75;Kontrollliste;Nenner
+KR-12;durchgeführte Kontrollen;72;Kontrollliste;davon sieben Nachtests offen
+WS-01;Stillstand ohne Umbau/Anlauf;20;Werkprognose;plus drei und zwei Stunden

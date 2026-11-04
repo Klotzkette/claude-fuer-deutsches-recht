@@ -1,0 +1,1604 @@
+{
+  "schema_version": 1,
+  "plugin": "compliance-abteilung-grosskonzern",
+  "reviewed_on": "2026-11-04",
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
+    "changes": [
+      "Fachliche Verfahrenswege und konkreter Quellenabgleich",
+      "Prüfung der KI-Verordnung im geltenden Zeitstand"
+    ],
+    "sha256": "9ba5f717bc3fdc1ac353ca463fd2014c98b49cecadeee18ad6611d0dcdf9d924"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
+    "changes": [
+      "Fachliche Verfahrenswege und konkreter Quellenabgleich",
+      "Prüfung der KI-Verordnung im geltenden Zeitstand"
+    ],
+    "sha256": "2715b9209b150cfd056fc1e4a5f212197ebbd3dc406988bd0813f323a89b865a"
+  },
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu",
+      "checked_on": "2026-11-04",
+      "supports": "DSGVO, insbesondere Auftragsverarbeitung und Drittlandübermittlung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf",
+      "checked_on": "2026-11-04",
+      "supports": "Pflichten, Rollen und zeitliche Geltung der konsolidierten KI-Verordnung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj/deu",
+      "checked_on": "2026-11-04",
+      "supports": "EU-Cyberresilienz-Verordnung 2024/2847, insbesondere Art. 14, 69 und 71"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0634",
+      "checked_on": "2026-11-04",
+      "supports": "Aussagegrenze und maßgebliche Verwendung der automatisierten Bewertung"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32001R2157",
+      "checked_on": "2026-11-04",
+      "supports": "SE-Verordnung, insbesondere Art. 9, 39–41 und 49"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A02001R2157-20040501",
+      "checked_on": "2026-11-04",
+      "supports": "SE-Verordnung Art. 9 und 39 ff."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32016R0679",
+      "checked_on": "2026-11-04",
+      "supports": "DSGVO Art. 5 und 6"
+    },
+    {
+      "url": "https://finance.ec.europa.eu/eu-and-world/sanctions-restrictive-measures/overview-sanctions-and-related-resources_en",
+      "checked_on": "2026-11-04",
+      "supports": "EU-Kommission, konsolidierte Finanzsanktionsdaten und Hilfsmittel"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
+      "checked_on": "2026-11-04",
+      "supports": "BAG, 2 AZN 339/26, insbesondere Rn. 4 bis 9"
+    },
+    {
+      "url": "https://www.enisa.europa.eu/topics/product-security/vulnerability-services/eu-incident-response-and-cyber-crisis-management/single-reporting-platform-srp",
+      "checked_on": "2026-11-04",
+      "supports": "ENISA, Single Reporting Platform"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/agg/BJNR189710006.html",
+      "checked_on": "2026-11-04",
+      "supports": "AGG §§ 1, 7, 12, 13 und 16"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__90.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 90 AktG, Berichte an den Aufsichtsrat im anwendbaren Umfang"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__91.html",
+      "checked_on": "2026-11-04",
+      "supports": "AktG § 91 Abs. 2 und 3"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__93.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 93 AktG, Sorgfaltspflicht"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbschg/BJNR124610996.html",
+      "checked_on": "2026-11-04",
+      "supports": "ArbSchG §§ 3 und 5"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bdsg_2018/__26.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 26 BDSG, Beschäftigtendaten und Straftatenaufklärung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__87.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 87 BetrVG"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__280.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 280 BGB, Schadensersatz"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 305b BGB, Vorrang der Individualabrede"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__434.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 434 BGB, Sachmangel"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__439.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 439 BGB, Nacherfüllung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 43e BRAO, Inanspruchnahme von Dienstleistungen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 2 GeschGehG, Voraussetzungen eines Geschäftsgeheimnisses"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__1.html",
+      "checked_on": "2026-11-04",
+      "supports": "GWB § 1 Wettbewerbsbeschränkende Vereinbarungen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__41.html",
+      "checked_on": "2026-11-04",
+      "supports": "GWB § 41 Vollzugsverbot"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/",
+      "checked_on": "2026-11-04",
+      "supports": "HinSchG, insbesondere §§ 8–11 und 17–18"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__13.html",
+      "checked_on": "2026-11-04",
+      "supports": "HinSchG § 13 Aufgaben und Informationen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__17.html",
+      "checked_on": "2026-11-04",
+      "supports": "Fristen und Grenzen der Rückmeldung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__36.html",
+      "checked_on": "2026-11-04",
+      "supports": "HinSchG § 36 Repressalien"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__8.html",
+      "checked_on": "2026-11-04",
+      "supports": "HinSchG § 8 Vertraulichkeit"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__9.html",
+      "checked_on": "2026-11-04",
+      "supports": "HinSchG § 9 Ausnahmen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/lksg/",
+      "checked_on": "2026-11-04",
+      "supports": "LkSG, insbesondere §§ 3, 5–7 und 9"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__130.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 130 OWiG, Aufsichtspflicht"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/prodsg_2021/",
+      "checked_on": "2026-11-04",
+      "supports": "ProdSG Anwendungsbereich und Marktbereitstellung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/seag/__18.html",
+      "checked_on": "2026-11-04",
+      "supports": "SEAG § 18 Informationsverlangen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sektvo_2016/BJNR065700016.html",
+      "checked_on": "2026-11-04",
+      "supports": "SektVO § 6 Interessenkonflikte"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/starug/BJNR325610020.html",
+      "checked_on": "2026-11-04",
+      "supports": "StaRUG § 1"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/BJNR001270871.html?level=1",
+      "checked_on": "2026-11-04",
+      "supports": "StGB §§ 11, 299 und 331–334"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/StGB.pdf",
+      "checked_on": "2026-11-04",
+      "supports": "§ 201 StGB, Vertraulichkeit des Wortes"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__203.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 203 StGB"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__263.html",
+      "checked_on": "2026-11-04",
+      "supports": "§ 263 StGB, Betrug"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__299.html",
+      "checked_on": "2026-11-04",
+      "supports": "StGB § 299 geschäftlicher Verkehr"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__5.html",
+      "checked_on": "2026-11-04",
+      "supports": "UWG § 5 Irreführende Handlungen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__6.html",
+      "checked_on": "2026-11-04",
+      "supports": "VgV § 6 Interessenkonflikte"
+    }
+  ],
+  "selection": {
+    "target_skill": "compliance-auftrag-steuern",
+    "positive": [
+      "Prüfen Sie die Konzernzuständigkeit und die Freigabe für den offenen Richtlinienantrag.",
+      "Erarbeiten Sie eine interne Entscheidungsvorlage mit Quellenlage und Nachweispflichten."
+    ],
+    "negative": [
+      "Rechnen Sie die Umsatzsteuer eines privaten Wohnungsverkaufs aus.",
+      "Schreiben Sie einen anwaltlichen Scheidungsantrag aus dem Familienrecht."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ki-toolpilot",
+      "request": "Irma Winkelreuth soll für die Rechtsabteilung der Merrensteg Elektrosysteme SE in Hameln einen vierwöchigen Pilotversuch organisieren. 24 Beschäftigte arbeiten an Lieferverträgen, Fragen zur Schalttechnik und Lieferantenprüfungen. Tessa Rabenau hat Angebote für drei fiktive Systeme angefordert. Der Vorstand möchte eine Empfehlung bis Freitag und nennt 48.000 Euro als Obergrenze für das erste Jahr. Zwei Personen benötigen Zugang zu Fachquellen. Die übrigen Beschäftigten sollen E-Mails, Übersetzungen und Vermerke bearbeiten. Im Pilot sollen ausschließlich synthetische Akten eingesetzt werden. Irma will erkennen, welche Ergebnisse das Team später mit vertretbarem Aufwand überprüfen kann. Erstelle eine Entscheidungsvorlage für den Einkauf mit vergleichbarer Kostenrechnung, dokumentierten Freigabekriterien und einem befristeten Prüfplan.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-ki-toolpilot/01_Eingang.eml",
+        "testakten/compliance-hameln-ki-toolpilot/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-ki-toolpilot/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-ki-toolpilot/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-ki-toolpilot/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-ki-toolpilot/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-ki-toolpilot/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Rechne Konten, IT-Aufwand, Schulung und Modul-Mindestmenge getrennt. Eine andere Nutzungsbasis muss sichtbar bleiben.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Erkläre am Blindtest, was der Score zeigt und welche Risiken die gemessene Zeit nicht abbildet.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Behandle offenen Fernzugriff als Nachweisfrage und Anbieterbehauptung getrennt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Übertrage eine begrenzte Pilotfreigabe nicht auf produktive Akten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prompt-register",
+      "request": "Tessa Rabenau erhält aus dem strategischen Einkauf drei fast gleichlautende Texte für die Vorprüfung neuer Wartungspartner. Die älteste Fassung lebt in einem gemeinsam genutzten Ordner weiter und wurde bei vier von elf Vorgängen kopiert. Ein Antriebslieferant mit einem uneindeutigen Namensähnlichkeitstreffer landete im Status „freigegeben“. Das Tool hatte nur einen Entwurf ausgegeben. Eine Sachbearbeiterin übernahm ihn nach eigener Aussage, weil ihr ein kontrollierter Alternativpfad fehlte. Nora Eibenrode bestellt ein belastbares Register und einen Lerntermin für die 34 Beschäftigten des Einkaufs. Sie benötigt zusätzlich eine kurze, alltagstaugliche Auswahl freigegebener Arbeitsanweisungen. Entwirf ein ausfüllbares Register für Arbeitsanweisungen, einen Regressionstest und einen kurzen Einführungsplan für den Einkauf.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-prompt-register/01_Eingang.eml",
+        "testakten/compliance-hameln-prompt-register/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-prompt-register/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-prompt-register/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-prompt-register/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-prompt-register/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-prompt-register/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unterscheide veraltete Version, fehlende Eingabe und unzutreffenden Modellbefund.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Nenne reproduzierbare Eingaben und beobachtbare Erfolgskriterien.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Zeige, wie die Bibliothek freigegebene Fassungen, Verantwortliche und Ausmusterung sichtbar macht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vertraulicher-testtenant",
+      "request": "Irma Winkelreuth prüft mit der externen Kanzlei von Hanne Kaulbeke eine drohende Auseinandersetzung um Wartungskosten. Das Team möchte einen zwölfseitigen Vermerk mithilfe einer externen KI-Anwendung strukturieren. Der Vermerk enthält zwei Beschäftigtennamen, konkrete Schichtzeiten, die Bewertung der Prozesschancen und den angebotenen Vergleichsbetrag von 180.000 Euro. Der gemeinsame Arbeitsbereich trägt den Namen „Test Hameln“ und wird bereits von sechs Konten genutzt. Maren Siefholz wird vor der geplanten Verarbeitung hinzugezogen. Für sie ist zu klären, wer das Dokument in welcher Rolle verarbeitet und ob eine abstrakte Fassung für die Aufgabe ausreicht. Erstelle eine Freigabeakte für die geplante Verarbeitung mit getrennten Rollen, Datenfluss und belegbaren Mindestbedingungen.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-vertraulicher-testtenant/01_Eingang.eml",
+        "testakten/compliance-hameln-vertraulicher-testtenant/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-vertraulicher-testtenant/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-vertraulicher-testtenant/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-vertraulicher-testtenant/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-vertraulicher-testtenant/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-vertraulicher-testtenant/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Würdige BRAO-Pflichten anhand konkreter anwaltlicher Rollen und StGB § 203 als eigenen Prüfpfad.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Trenne Auftragsverarbeitung, Drittlandszugriff, technische Speicherung und zulässige Eingabe.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Unterscheide Anwenderhistorie von Protokollen und Dateiname von Dateiidentität.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Eine Ausblendung von Namen beantwortet weder Reidentifikation noch Geheimnisschutz.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zweite-rechnung",
+      "request": "Die Kreditorenbuchhaltung der Merrensteg Elektrosysteme SE findet zwei Buchungszeilen zu einer Lieferung von Leistungsmodulen. Das interne Antwortsystem bezeichnet den Fall in einem Entwurf als erwiesenen Abrechnungsbetrug. Es beruft sich auf eine vermeintliche Entscheidung mit der Referenz „XK 417/26“ und empfiehlt, den Lieferanten zu sperren. Nora Eibenrode bittet Irma Winkelreuth, jede tragende Aussage mit einem unabhängigen Beleg abzugleichen. Die zweite Buchungszeile betrifft 18.460 Euro. Der Einkauf hat am nächsten Morgen eine Ersatzteilbestellung für den gleichen Lieferanten vorbereitet. Der Sachverhalt soll vor der Weitergabe an diesen kleinen Empfängerkreis belastbar eingeordnet werden. Überprüfe den Entwurf Satz für Satz. Liefere eine Belegmatrix, eine juristisch belastbare Sachverhaltsbeschreibung und einen Entwurf für die interne Weiterbearbeitung.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-zweite-rechnung/01_Eingang.eml",
+        "testakten/compliance-hameln-zweite-rechnung/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-zweite-rechnung/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-zweite-rechnung/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-zweite-rechnung/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-zweite-rechnung/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-zweite-rechnung/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Verifiziere Gericht und Fundstelle unabhängig. Ein Suchmasken-Link und ein KI-Screenshot tragen keine Entscheidung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Unterscheide Import, Buchung, Zahlungsversuch, Ausführung und Vermögensschaden.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Prüfe den Rechtsbegriff am Sachverhalt einschließlich möglicher Absicht und Täuschung, ohne eine Feststellung zu unterstellen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Definiere vorläufige betriebliche Sicherung und weitere Aufklärung getrennt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "freigabe-personalassistent",
+      "request": "Die Personalabteilung in Hameln sucht 18 Technikerinnen und Techniker für die Wartung von Industrieantrieben. Ein Textassistent soll Ausschreibungen sprachlich vereinheitlichen und aus anonymen Beispieldaten Fragen für das Erstgespräch ableiten. Eine Leitungskraft möchte zusätzlich 142 echte Bewerbungen bewerten lassen. Im Portal erscheint eine neue Schaltfläche mit der Bezeichnung „Vorauswahl senden“. Laut Teamleitung soll sie Zeit sparen, wenn im System eine menschliche Letztfreigabe markiert ist. Nora Eibenrode und Maren Siefholz benötigen vor der geplanten Aktivierung eine Einordnung nach konkreter Funktion, Anbieterbedingungen, Datenfluss und tatsächlich ausgeübter Kontrolle. Entwirf eine Freigabematrix für den Test, die mögliche Zweckänderung und eine wirksame menschliche Entscheidung mit Abschaltweg.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-freigabe-personalassistent/01_Eingang.eml",
+        "testakten/compliance-hameln-freigabe-personalassistent/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-freigabe-personalassistent/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-freigabe-personalassistent/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-freigabe-personalassistent/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-freigabe-personalassistent/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-freigabe-personalassistent/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Trenne redaktionelle Unterstützung von einer Rangbildung mit Einfluss auf Auswahlentscheidungen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Prüfe Anbietergrenze unabhängig von rechtlicher Einstufung und betrieblicher Freigabe.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Unterschrift allein belegt keine wirksame Prüfung. Nutze die konkreten Aufrufdaten und die Möglichkeit zum Eingriff.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Ermittle maßgebliche Anwendbarkeit und Rollenpflichten zum Stichtag.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schriftsatz-version",
+      "request": "In einem arbeitsrechtlichen Verfahren über die Vergütung von Rufbereitschaft bittet eine externe Prozesskanzlei um die geordnete Zuarbeit der Merrensteg Elektrosysteme SE. Irma Winkelreuth hatte am 9. Oktober einen KI-gestützten Textentwurf erstellen lassen. Beim Speichern entstanden zwei Fassungen mit fast gleichen Namen. Eine davon enthält eine nicht geprüfte Fundstelle und erklärt einen Schichttausch für bestätigt. Nora Eibenrode erfährt durch die Buchhaltung, dass die Ausgangsmappe bereits an die Kanzlei gegangen ist. Eine Mitarbeiterin meldet parallel, ihr Name sei in einer kommentierten Kopie sichtbar. Die Verfahrensakte lässt zunächst offen, was bereits versandt oder bei Gericht eingereicht wurde. Erstelle einen Sofortmaßnahmenplan, eine intern freigabefähige Korrekturmitteilung und einen Kontrollentwurf für künftige Weitergaben.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-schriftsatz-version/01_Eingang.eml",
+        "testakten/compliance-hameln-schriftsatz-version/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-schriftsatz-version/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-schriftsatz-version/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-schriftsatz-version/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-schriftsatz-version/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-schriftsatz-version/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Rekonstruiere getrennt die Übermittlung an die Kanzlei, die Kopie an den Dienstleister und die bei Gericht eingereichte PDF.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Eine falsche Tatsachenangabe und eine nicht eingereichte falsche Fundstelle haben unterschiedliche Korrekturwege.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Ein ungeöffneter Anhang beendet die Datenschutzprüfung nicht. Verknüpfe Maßnahme, Zuständigkeit und belegten Empfängerkreis.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Nutze die veröffentlichte Entscheidung als Vergleich der Prüfsorgfalt. Stelle keine automatische Unwirksamkeit der Erwiderung fest.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retrofit-beratung",
+      "request": "Ein Industriekunde setzt sechs Umrichter der Merrensteg Elektrosysteme SE in einer bestehenden Verpackungslinie ein. Nach einem Umbau schalten drei Antriebe wiederholt ab. Der Kunde fordert einen sofortigen Austausch und beziffert Stillstandskosten auf 72.000 Euro. Ein Servicevermerk behandelt die Geräte als fehlerhaft. Ein externer Berater hält eine vom Kunden geänderte Kühlführung für allein verantwortlich. Irma Winkelreuth soll beide Stellungnahmen prüfen und eine sachlich begründete Erstreaktion vorbereiten. Die Lieferung umfasst Geräte, eine Inbetriebnahmeunterstützung und später einzeln bestellte Serviceeinsätze. Die Unterlagen bezeichnen die Bestellung nicht einheitlich. Der Service steht für eine gemeinsame technische Untersuchung zur Verfügung. Erstelle ein kurzes Rechtsmemo mit Gegenposition, Belegbedarf und belastbaren Handlungsoptionen für Legal und Service.",
+      "target_skill": "compliance-auftrag-steuern",
+      "input_files": [
+        "testakten/compliance-hameln-retrofit-beratung/01_Eingang.eml",
+        "testakten/compliance-hameln-retrofit-beratung/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-retrofit-beratung/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-retrofit-beratung/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-retrofit-beratung/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-retrofit-beratung/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-retrofit-beratung/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Qualifiziere Vertrag und behauptete Zusage anhand der konkreten Unterlagen. Ein Datenblatt ist nicht ohne Kontext die geschuldete Beschaffenheit.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Ordne Typenschild, Austausch und Messwerte gerätebezogen zu.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Trenne Nacherfüllung, mögliche Ersatzbeschaffung und Schadenspositionen mit Voraussetzungen und Belegen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Nenne eine überprüfbare Gegenposition und eine wirtschaftlich sinnvolle Zwischenmaßnahme.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meldefrist-firmware",
+      "request": "Ein abonnierter Rechtsmonitor meldet der Merrensteg Elektrosysteme SE, die EU-Cyberresilienz-Verordnung müsse erst Ende 2027 in den Produktabläufen berücksichtigt werden. Zwei Tage später wird der Service in Hameln auf ungewöhnliche Netzwerkverbindungen eines Antriebscontrollers aufmerksam. Das Fachteam nutzt denselben Monitor für passive Schalter, ältere Controller und ein separat vertriebenes Diagnoseprogramm. Nora Eibenrode möchte wissen, welche Meldeschritte vor dem allgemeinen Anwendungsdatum bereits vorbereitet sein müssen. Sie beauftragt einen Abgleich mit dem amtlichen Text und eine Entscheidungsvorbereitung zum aktuellen Ticket. Eine Freigabe zur Meldung oder zum Versand von Kundeninformationen ist noch nicht erteilt. Erstelle ein Änderungsregister und eine Meldetriage mit Produktzuordnung, gesonderten Stichtagen, Fristen und Verantwortlichen.",
+      "target_skill": "compliance-auftrag-steuern",
+      "input_files": [
+        "testakten/compliance-hameln-meldefrist-firmware/01_Eingang.eml",
+        "testakten/compliance-hameln-meldefrist-firmware/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-meldefrist-firmware/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-meldefrist-firmware/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-meldefrist-firmware/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-meldefrist-firmware/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-meldefrist-firmware/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Lies Art. 14, Übergangsbezug in Art. 69 und Art. 71 im Original. Halte frühe Meldetermine und allgemeinen Anwendungsbeginn getrennt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Prüfe Produkt, Rolle und aktive Ausnutzung je Familie oder Version anhand der Belege.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Berechne mögliche 24- und 72-Stunden-Fristen abhängig vom belastbar begründeten Kenntniszeitpunkt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Halte Erstwarnung, Folgemeldung, Kundeninformation und langfristigen Umsetzungsplan auseinander.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wartungsvertrag-redline",
+      "request": "Tessa Rabenau verhandelt einen dreijährigen Wartungsvertrag für die Steuerungen eines Produktionsstandorts. Der Dienstleister will Updates auch über einen benannten Fernwartungspartner einspielen. Die Merrensteg Elektrosysteme SE muss ihrerseits gegenüber einem Maschinenkunden über sicherheitsrelevante Störungen informieren. Im Vertragsentwurf stehen 48 Stunden, in einer Konzernrichtlinie 12 Stunden und in der Kundenanlage acht Stunden. Irma Winkelreuth möchte eine Stellungnahme mit Änderungsentwurf. Der Einkauf bittet zusätzlich um eine kurze verständliche Übersicht für den Service. Der Fachbereich hat den Vertrag bereits in das Freigabeportal gestellt, ein unterschriebenes Exemplar liegt noch nicht vor. Vergleiche Vertragsfassungen, Konzernvorgabe und Kundenpflicht. Entwirf eine belastbare Änderung mit Gegenüberstellung und verbleibenden Verhandlungspunkten.",
+      "target_skill": "compliance-auftrag-steuern",
+      "input_files": [
+        "testakten/compliance-hameln-wartungsvertrag-redline/01_Eingang.eml",
+        "testakten/compliance-hameln-wartungsvertrag-redline/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-wartungsvertrag-redline/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-wartungsvertrag-redline/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-wartungsvertrag-redline/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-wartungsvertrag-redline/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-wartungsvertrag-redline/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unterscheide bestätigten Vorfall, ersten Hinweis und Kenntnis. Ordne Fristen dem jeweiligen Adressaten zu.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Vermeide eine unbemerkte Durchreichung ohne internes Zeitfenster und prüfe die tatsächliche Erreichbarkeit.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Die Verhandlungs-E-Mail und der Portalstatus beweisen für sich allein keine endgültige Vertragsfassung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Halte interne Angaben aus dem kundenseitigen Anhang heraus und löse den Rangkonflikt ausdrücklich.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sprache-im-werk",
+      "request": "Für die Herbstbestellung der neuen Motorenbaureihe muss der interne Hinweis »Einladungen im Lieferantenkontakt« am 22. Oktober im Intranet stehen. Nora Eibenrode hat für die Standorte Hameln, Brünn und Porto je eine Sprachfassung bestellt. Der deutsche Entwurf umfasst 560 Wörter. Ein externer Sprachdienst hat eine maschinelle Rohfassung geliefert, die einen historischen Grenzfall als Beispiel enthält. Die Mitteilung richtet sich an Einkauf, Vertrieb und technische Projektleitung. Neben dem Kurztext will Nora je ein Beispiel für einen normal freigegebenen Fall, einen Vorabklärungsfall und einen nicht delegierbaren Eskalationsfall. Die drei Länderfassungen sollen dieselben Verfahrensschritte abbilden, selbst wenn Bezeichnungen und Ansprechpartner unterschiedlich sind. Erstelle eine deutsche Masterfassung und zwei freigabefähige lokalisierte Entwürfe für den Intranet-Hinweis. Liefere eine Abweichungsliste und eine Freigabenotiz.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-sprache-im-werk/01_Eingang.eml",
+        "testakten/compliance-hameln-sprache-im-werk/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-sprache-im-werk/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-sprache-im-werk/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-sprache-im-werk/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-sprache-im-werk/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-sprache-im-werk/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "CE-14 R3 und GL-02 nach Anwendungsbereich unterscheiden. Eine 60-EUR-Kostenorientierung löst keine Ausnahme aus.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Erfasst die drei Abweichungen Pflichtstärke, Personenkreis und zeitliche Reihenfolge jeweils in allen Fassungen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Hält R4 bis zur Entscheidung als Entwurf erkennbar und kennzeichnet PX-8 als organisatorische Quelle.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Begrenzt personenbezogene Beispieldaten und bewertet konkrete Dienstkonfiguration. Fach-, Sprach- und Veröffentlichungsfreigaben bleiben überprüfbar.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "training-nachtschicht",
+      "request": "Nora Eibenrode will die erste Pilotwelle für die KI-Kompetenzschulung abschließen, bevor das Werk an den Nachtschichtbetrieb für die Endmontage wechselt. Das Lernsystem meldet 418 bestandene Kurse. Die Teilnahmeliste weist zum 30. September 480 Beschäftigte und Einsatzkräfte aus. Zwölf Teamleitungen nutzen das System für Freigabeentwürfe. Schichtpersonal bekommt vor allem KI-generierte Wartungshinweise zu sehen. Externe technische Dolmetscher bearbeiten Informationen aus Störungstickets. Der erste Kurs dauert 24 Minuten und besteht aus drei Klickfragen. In der letzten Schichtbesprechung konnte niemand sagen, wo man einen möglicherweise falschen Wartungshinweis meldet. Nora braucht ein realistisches Folgeformat und einen belegbaren Stand für die Leitung. Erstelle ein rollenbezogenes Trainingskonzept mit Lernkontrollen, Begleitmaterial, einem belastbaren Messkonzept und einem Freigabevermerk für die nächste Pilotwelle.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-training-nachtschicht/01_Eingang.eml",
+        "testakten/compliance-hameln-training-nachtschicht/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-training-nachtschicht/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-training-nachtschicht/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-training-nachtschicht/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-training-nachtschicht/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-training-nachtschicht/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Leitet aus 418 Kontoeinträgen keine 418 erreichten Personen ab und unterscheidet Doppelzählung, Testmigration, Papierübung und fehlende Zuordnung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Bezieht die Rollen der Fremdkräfte und Schichten mit tatsächlich erreichbaren Übungen ein.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Macht Art. 4 KI-VO fallbezogen an Rolle, Erfahrung und Einsatzkontext fest, ohne universelle Mindeststunden zu behaupten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Prüft Zweck, Zugriffe und Beteiligung vor personenbezogener LMS-Auswertung und unterscheidet Teilnahme von Wirksamkeit.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kontrollen-vor-freigabe",
+      "request": "Die Revision hat in Hameln 64 Bestellungen für Engineering-Leistungen aus dem dritten Quartal gezogen. Der Dashboardexport weist 61 grüne Freigabefelder aus. Nora Eibenrode erhält dennoch den Hinweis, dass neue Beratungsdienstleister bereits mit Arbeiten begonnen haben, bevor eine für den Fall relevante Partnerprüfung vorlag. Der Einkaufsprozess unterscheidet Bestellung, technische Freigabe und Beginn der externen Leistung. Der Export zeigt nur einen aggregierten Freigabewert. Zwei Gruppenleiter führen dieselbe Farbe auf die spätere Synchronisierung eines Partnerstatus zurück. CFO Erik Dörnbusch will am 22. Oktober über eine Prozesssperre entscheiden. Er verlangt, dass begründete Ausnahmen möglich bleiben und die Revision ihren Nenner erklären kann. Erstelle eine belastbare Kontrollmatrix, eine Prüfung der Stichproben und einen priorisierten Maßnahmenvermerk zur Abfolge von Partnerprüfung und Bestellauslösung.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/01_Eingang.eml",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Rechnet Ausgangszahl, Stornos und fehlende Belege im Nenner nachvollziehbar, ohne eine grüne Dashboardzeile als alleinige Freigabe zu werten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Bewertet P-172 und P-184 nach Zeitfolge, Ursprung der Zeitzone und der vorgangsbezogenen Ausnahme E-2.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Behandelt F-62 als Prüfhinweis und prüft Leistungszusammenhang, Netto-Schwelle und Gegenbeleg vor einer Schlussfolgerung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Liefert eine zeitlich begrenzte und testbare Maßnahme, die den begründeten Stillstandsfall abbildet.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treffer-im-lieferantencheck",
+      "request": "Tessa Rabenau hat einen Angebotspreis von 484.000 Euro für galvanisierte Stromschienen vorliegen. Vor zehn Tagen hat der Zulieferer Grabenwacht Metalltechnik KG seine Bankverbindung geändert. Das Screening-Portal liefert einen Treffer auf »Grabenwacht Metal Trading«. Die KI-Suche hat zusätzlich eine Meldung über eine Fremdfirma im gleichen Gewerbepark zusammengefasst. In der Produktion reichen die Lagerbestände noch elf Arbeitstage. Die erste Bestellung wäre auf 112.000 Euro begrenzt. Eine ältere Rechnung über 36.400 Euro ist zur Zahlung angewiesen und kann noch aus der Datei genommen werden. Nora braucht getrennte Aussagen zur Identität, zu möglichem Zahlungsschutz und zu erkennbaren Lieferkettenrisiken. Erstelle einen entscheidungsreifen Lieferantenprüfvermerk mit Identitätsprüfung, getrennten Risikobefunden und befristeten Maßnahmen zur Bestellung und zu einer offenen Zahlung.",
+      "target_skill": "geschaeftspartner-und-transaktionen",
+      "input_files": [
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/01_Eingang.eml",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Führt amtlichen Listentreffer, Eigentum/Kontrolle, Zahlungsempfänger und Medienhinweis getrennt; der Ähnlichkeitswert genügt allein nicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Validiert die neue Zahlungsanweisung über bekannten Kanal und gesonderten Nachweis.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Bindet die LkSG-Prüfung an Anwendungsbereich, konkret zugeordneten Risikohinweis und Abstufung bei mittelbaren Lieferanten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Begrenzt vorläufige Maßnahmen nach Anlass, Zeit und Verantwortlichkeit und dokumentiert die wirtschaftliche Ersatzoption.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "untersuchung-servicekonto",
+      "request": "Am 12. Oktober meldet die interne Meldestelle einen möglichen Interessenkonflikt bei der Instandsetzung der Hamelner Hochstromprüfanlage. Eine anonyme Nachricht behauptet, dass sechs Rechnungen zu je 9.800 Euro für dieselbe Nachtschicht geschrieben wurden. Die zuständige Anlagenleiterin soll den Geschäftsführer des Dienstleisters persönlich kennen. Vier Positionen sind bezahlt, zwei stehen in einer Sammeldatei für Mittwoch. Nora Eibenrode soll mit Irma Winkelreuth eine zunächst auf eine Woche begrenzte Untersuchung aufsetzen. Der Bericht soll klären, ob Sicherungs- oder Zahlungsmaßnahmen nötig sind. Die Meldestelle hat die Eingangszeit 08:44 Uhr gespeichert und hält den für Rückfragen eingerichteten anonymen Kanal offen. Die Anlage bleibt in Betrieb. Entwirf einen Untersuchungsauftrag mit begrenzter Sicherungsanordnung, Beleg- und Gegenbelegmatrix, vorläufiger Maßnahmenentscheidung und abgestuften Berichtswegen.",
+      "target_skill": "meldungen-und-untersuchungen",
+      "input_files": [
+        "testakten/compliance-hameln-untersuchung-servicekonto/01_Eingang.eml",
+        "testakten/compliance-hameln-untersuchung-servicekonto/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-untersuchung-servicekonto/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-untersuchung-servicekonto/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-untersuchung-servicekonto/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-untersuchung-servicekonto/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-untersuchung-servicekonto/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Wertet die sechs gleich hohen Rechnungen als Indiz; trennt Einzelleistung, Bereitschaft und Zahlungsstand.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Nutzt die begrenzte Zutrittsspeicherzeit und vorhandene Kopie für eine gezielte Sicherung mit Zugriffstrennung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Dokumentiert Anforderungen an Beschäftigtendaten und etwaige weitergehende Ermittlungen statt eines pauschalen Postfachzugriffs.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Verarbeitet entlastende Erläuterungen und wahrt Vertraulichkeit der Meldestelle; kein Automatismus von Hinweis zu Schuld.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interview-und-transkript",
+      "request": "Für die Untersuchung U-62 hat Legal am 13. Oktober zwei Beschäftigte zu einer behaupteten Preisabsprache mit einem Handelsvertreter befragt. Der Hinweis war zuvor schriftlich in der Meldestelle eingegangen. Die Gespräche fanden später als Untersuchungsinterviews statt. Nora Eibenrode erhält ein vom Besprechungsdienst erzeugtes Transkript über 27 Minuten. Darin steht, die Sachbearbeiterin habe einen Preis an den Wettbewerber weitergegeben. Ihre schriftliche Rückmeldung lautet, sie habe das Gegenteil gesagt. Das Transkript zeigt an mehreren Stellen zwei Teilnehmer mit demselben Initial. Irma Winkelreuth soll entscheiden, ob und wie daraus ein belastbarer Vermerk für die Sachverhaltsakte entstehen kann. Auf dem freigegebenen Besprechungsblatt steht »Notiz per Hand«. Erstelle ein verifiziertes Gesprächsprotokoll mit Korrekturtabelle und einen Freigabevermerk zur Speicherung, weiteren Transkription und Anhörung.",
+      "target_skill": "meldungen-und-untersuchungen",
+      "input_files": [
+        "testakten/compliance-hameln-interview-und-transkript/01_Eingang.eml",
+        "testakten/compliance-hameln-interview-und-transkript/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-interview-und-transkript/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-interview-und-transkript/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-interview-und-transkript/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-interview-und-transkript/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-interview-und-transkript/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unterscheidet schriftliche Eingangsmeldung und späteres Untersuchungsinterview; § 11 HinSchG wird nicht pauschal übertragen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Korrigiert die Negation und unklare Sprecherzuordnung über Handnotiz, Stellungnahme und Versandbelege; keine Schuldschlüsse aus Modellausgabe.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Bewertet Start vor Empfang, Einwilligungs-/Befugnisfrage, Zweck der IT-Freigabe und § 201 StGB getrennt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Prüft die stimmgestützte Emotionsableitung an Art. 5 Abs. 1 Buchst. f KI-VO und bezieht Beschäftigtendaten sowie Betriebsratsbeteiligung ein.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorstandsreport-mit-ki",
+      "request": "Der Prüfungsausschuss erwartet den Quartalsbericht der Compliance-Funktion für die Sitzung am 22. Oktober. Die Gruppe stellt Antriebe und Schalttechnik her und führt die Obergesellschaft als dualistisch organisierte SE. CFO Erik Dörnbusch hat aus drei Arbeitstabellen eine kurze Zusammenfassung mit einem freigegebenen KI-Dienst erzeugt. Der Entwurf meldet 18 offene Vorgänge, keine überschrittene Eskalationsschwelle und 96 Prozent erledigte Kontrollen. Nora Eibenrode hält die Formulierungen für zu sicher. Im System sieht sie 23 offene Einträge und drei rot markierte Maßnahmen. Der Bericht soll sowohl ein Risiko zum Werkstillstand als auch zwei laufende Compliance-Prüfungen abdecken. Das Ausschusssekretariat fragt außerdem nach entscheidungsrelevanten Abweichungen seit dem letzten Bericht. Erstelle einen abstimmungsfähigen Vorstandsbericht für den Prüfungsausschuss mit abgestimmten Zahlen, einer Eskalationslogik und einem dokumentierten Freigabeprozess für die KI-Entwürfe.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/01_Eingang.eml",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Stimmt die offenen Vorgänge stichtagsbezogen ab und stellt spätere Schließungen separat dar.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Trennt 72/75 durchgeführte Kontrollen von der separat ausgewiesenen Wirksamkeitsprüfung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Addiert die bei der Prognose ausdrücklich nicht enthaltenen Teilzeiten und prüft den gesonderten Informationsweg.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Hält die Rollen von Leitungsorgan, Aufsichtsorgan und Ausschuss, Freigabe und Schutz der Meldestelleninformationen auseinander.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aufsichtsrat-eigener-assistent",
+      "request": "Mehrere Mitglieder des Aufsichtsrats der Merrensteg Elektrosysteme SE möchten für ihre nächste Sitzung einen KI-Assistenten nutzen. Eine Vorsitzende will aus einem 86-seitigen Investitionspaket einen Fragenkatalog und eine englische Kurzfassung erstellen lassen. Ein Mitglied hat bereits über ein privates Konto zwei öffentliche Geschäftsberichtseiten zusammenfassen lassen. Ein anderes hat eine vertrauliche Lieferpreisprognose als Anlage an eine Einladung zur Produktschulung angehängt und erwägt denselben Upload. CFO Erik Dörnbusch hat auf das bestehende Konzernwerkzeug verwiesen. Dessen Freigabeliste umfasst die Teams Einkauf und Controlling. Ein spezifischer Beschluss oder ein Benutzungsprofil für Aufsichtsratsmitglieder wurde noch nicht gefunden. Erstelle eine Entscheidungsvorlage mit Nutzungsgrenzen, Beschlussentwurf für einen begrenzten Pilot, technischer und organisatorischer Prüfliste sowie einem Protokollbaustein.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/01_Eingang.eml",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unterscheidet dokumentierte Nutzung öffentlicher Inhalte, bloß erwogenen vertraulichen Upload und ungeklärten Pilotstatus.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Leitet keine Freigabe für das Aufsichtsorgan aus einer Fachbereichsfreigabe ab; prüft aktive Mandanteneinstellungen, Zugriff und Vertraulichkeit.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Ordnet die inhaltliche Prüfung und Entscheidung dem Organ zu; behandelt den angezeigten Interessenkonflikt fallbezogen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Liefert beschränkten Pilot mit Stopps, Kontrollverantwortung und brauchbarer Alternative für die anstehende Sitzung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schichttausch-kodex",
+      "request": "Die Prüfstände der Merrensteg Elektrosysteme SE in Hameln laufen bis Dezember in zwei Schichten. Prüfingenieurin Fenna Ortkranz schildert, der Gruppenleiter habe am 7. Oktober bei der Auswahl für die neue Hochspannungszelle erklärt, das Team brauche dort Männer mit stärkerer Präsenz. Am selben Nachmittag sei ihr der regelmäßig bezahlte Spätdienst entzogen worden. Vier Spätdienste entsprechen ungefähr 168 Euro Zuschlag. Ortkranz verlangt keine sofortige Abmahnung, sondern eine neutrale Prüfung und ihren ursprünglichen Dienstplan. Sie hat der Beschwerdestelle einen Auszug aus dem Kalender geschickt. Der Personalpartner will ihr bis 21. Oktober einen Zwischenstand geben. Erstellen Sie für Nora Eibenrode einen vertraulichen Entscheidungsvermerk zur Beschwerde, zum Schichtplan und zur einheitlichen Anwendung des Verhaltenskodex. Formulieren Sie einen neutralen Gesprächseinstieg.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-schichttausch-kodex/01_Eingang.eml",
+        "testakten/compliance-hameln-schichttausch-kodex/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-schichttausch-kodex/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-schichttausch-kodex/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-schichttausch-kodex/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-schichttausch-kodex/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-schichttausch-kodex/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unterweisung und Bewertungsdatei zusammenlesen. Ein falsches Kennzeichen ist kein Beleg fehlender Eignung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Planentwurf vor Beschwerde und spätere Freigabe auseinanderhalten. Kenntnis und Kausalität separat prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Mitteilung an die Beschwerdeführerin und vertrauliche Behandlung planen. Sofortmaßnahmen von Sanktionen trennen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Früheren Lagerfall wegen anderer Tatsachen nicht als unmittelbaren Sanktionsmaßstab behandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seriennummer-fruehwarnung",
+      "request": "Die Servicestelle der Merrensteg Elektrosysteme SE in Hameln meldet drei gleich lautende Seriennummern auf Wartungsfreigaben für Schaltzellen in Papierwerken. Zwei Werke fahren ihre nächste Revision am kommenden Wochenende. Ein Auftraggeber erwägt, eine Kopie seiner Freigabe an einen Branchenverteiler zu senden. Es gibt keinen gemeldeten Personenschaden. Der Leiter Service bittet Nora Eibenrode um eine schnelle Entscheidung, welche Geräte vorsorglich im Einsatz eingeschränkt werden sollten und wer Kunden informieren darf. Bislang sind elf Wartungsnachweise aus derselben Vorlage bekannt. Die Arbeitsgeräte können bei Bedarf einzeln zugeordnet werden, wenn die Serviceteams die ursprünglichen Messprotokolle übermitteln. Erstellen Sie eine Entscheidungsvorlage über vorläufige Maßnahmen bei auffälligen Wartungsfreigaben und entwerfen Sie einen kurzen, belastbaren Zwischenstand für betroffene Kunden.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/01_Eingang.eml",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Adapterkennung, Anlagenkennung und Messwerte als getrennte Prüfmerkmale behandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Druckdatum und Exportzeitpunkt trennen. Vorlagenfehler schließt eine fehlende Messung nicht aus.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Nachprüfungen und mögliche vorläufige Betriebseinschränkung nach konkretem Sicherheitsrisiko staffeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Keinen Serienfehler, Schadensfall oder externen Meldeverzicht behaupten, bevor Voraussetzungen geklärt sind.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vier-werke-risikobudget",
+      "request": "Für das erste Quartal stehen der Compliance-Leitung der Merrensteg Elektrosysteme SE in Hameln nur 320 interne Prüfstunden zur Verfügung. Vier Tochterstandorte bitten um Unterstützung. In Bredelmoor läuft ein Händlerprogramm mit 74 Verträgen aus. In Wildenhagen betreut eine einzelne Sachbearbeiterin 31 Behördenkontakte. In Lüntenried häufen sich Datenexporte an externe Servicestellen. In Faltenkamp wurden technische Freigaben vertretungsweise im selben Nutzerkonto bearbeitet. Der Vorstand will wissen, welche Prüfungen zuerst beginnen und welche Maßnahmen lokal laufen können. Die Revision hat außerdem 40 Stunden für Nachtests angefragt. Die Kostenstelle kann die Stunden nur durch Verschiebung eines anderen Vorhabens erhöhen. Erstellen Sie eine nachvollziehbare Priorisierung und einen Prüfplan für 320 Stunden. Stellen Sie Unsicherheiten, eine alternative Gewichtung und Entscheidungspunkte für die Leitung dar.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-vier-werke-risikobudget/01_Eingang.eml",
+        "testakten/compliance-hameln-vier-werke-risikobudget/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-vier-werke-risikobudget/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-vier-werke-risikobudget/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-vier-werke-risikobudget/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-vier-werke-risikobudget/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-vier-werke-risikobudget/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Rechenwerte kontrollieren und Doppelzählung in Wildenhagen als Anlass für Neubewertung dokumentieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Datenlücken beeinflussen Aussagekraft und gegebenenfalls Prüfpriorität. Fehlende Meldungen kein Beweis niedriger Exposition.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Alle Stunden einschließlich Reserve und Nachtest addieren. Umsatz als Sensitivität statt einziger Maßstab.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Bestandsgefährdung und allgemeine Compliance-Risikokarte funktional unterscheiden.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abendessen-messe",
+      "request": "Der Vertrieb der Merrensteg Elektrosysteme SE in Hameln plant ein Abendessen am Vorabend der Fachschau Antrieb und Netz. Drei externe Gäste sollen teilnehmen. Zwei Gäste vertreten einen privaten Anlagenbauer, der über einen offenen Abruf im Wert von 420.000 Euro entscheidet. Die dritte Person arbeitet für ein kommunal beherrschtes Stadtwerk, das ein neues Vergabeverfahren vorbereitet. Der Gastgeber veranschlagt 68 Euro pro Person ohne Getränke. Am Tag der Einladung verschickt das Stadtwerk eine Bieterinformation. Der Vertrieb benötigt bis morgen eine Entscheidung und hat bereits einen Tisch für acht Personen reserviert. Bisher wurde den Gästen nur der Termin genannt. Fertigen Sie eine Entscheidung zum Ausnahmeantrag samt Vorschlag für die Teilnehmer, eine getrennte Kostentragung und eine Antwort an Vertrieb und Einkauf an.",
+      "target_skill": "compliance-auftrag-steuern",
+      "input_files": [
+        "testakten/compliance-hameln-abendessen-messe/01_Eingang.eml",
+        "testakten/compliance-hameln-abendessen-messe/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-abendessen-messe/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-abendessen-messe/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-abendessen-messe/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-abendessen-messe/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-abendessen-messe/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "70 Euro ist interne Prüfschwelle. 96 Euro statt 68 Euro und Verfahrensnähe berücksichtigen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Stadtwerk-Rolle, private Einkäuferrolle und jeweilige Entscheidungsnähe trennen. Keine pauschale Amtsträgerzuordnung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Essen und offener Technikslot anhand der Agenda prüfen. Selbstzahlung heilt keinen unzulässigen Kontakt.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Entscheidung, Bedingungen, Stornierung und korrigierten Einladungstext dokumentieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meldung-nachtschicht",
+      "request": "Die interne Meldestelle der Merrensteg Elektrosysteme SE in Hameln erhält am 12. Oktober um 06.42 Uhr eine Meldung aus einem Vertragslager. Eine befristet eingesetzte Beschäftigte berichtet, im September seien bei 14 Wareneingängen Prüfvermerke nachträglich überschrieben worden. Zwei Chargen betreffen Schutzschalter für Förderanlagen. Die hinweisgebende Person nennt im Portal freiwillig einen Namen und bittet um Rückmeldung über einen geschützten Postkorb. Sie befürchtet, wegen ihres kurzen Vertrages besonders leicht identifiziert zu werden. Der technische Inhalt kann an die Qualitätssicherung gegeben werden, wenn Produktlose, Zeitpunkte und die Kontaktmöglichkeit ausreichend getrennt werden. Ein medizinischer Notfall ist bislang nicht gemeldet. Erstellen Sie eine Eingangsbestätigung, ein Zugriffskonzept für die Fallakte und eine Entscheidungsvorlage über eine vertrauliche, verhältnismäßige Folgemaßnahme.",
+      "target_skill": "meldungen-und-untersuchungen",
+      "input_files": [
+        "testakten/compliance-hameln-meldung-nachtschicht/01_Eingang.eml",
+        "testakten/compliance-hameln-meldung-nachtschicht/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-meldung-nachtschicht/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-meldung-nachtschicht/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-meldung-nachtschicht/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-meldung-nachtschicht/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-meldung-nachtschicht/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Daten aus dem Portal, aus der Personaldisposition und aus der technischen Prüfung rollenbezogen trennen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Eingangsbestätigung am 19. Oktober und Zugang am 12. Oktober nachvollziehen. Rückmeldung gesondert nach § 17 Abs. 2 bestimmen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Verminderte Schichten als Indiz prüfen. Kenntnisse, Zeitpunkt und Begründung der Disposition belegen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Ausnahmen von Vertraulichkeit konkret prüfen. Übermittlung nur nach Zweck und erforderlichem Umfang.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wartungsvertrag-doppelbuchung",
+      "request": "In der Kreditorenbuchhaltung der Merrensteg Elektrosysteme SE in Hameln erscheinen zwei Rechnungen über jeweils 18.760 Euro für einen Außendienstauftrag zur Schaltfeldprüfung. Beide tragen dieselbe Auftragsnummer, aber verschiedene Gesellschaftsnamen und verschiedene Bankverbindungen. Eine Zahlung ist bereits ausgeführt; die zweite liegt zur Freigabe vor. Das werkseitige Anlagenbuch enthält nur einen Auswärtstermin. Die Sachbearbeiterin will wissen, ob sie eine Zahlung zurückstellen darf. Die Leitung beauftragt Nora Eibenrode mit der internen Sachverhaltsklärung. Gegen einzelne Beschäftigte gibt es bisher keine belastbare Feststellung. Die Ermittlungsfrage ist, ob eine Doppelzahlung, ein Vertragswechsel oder eine vorsätzlich herbeigeführte Manipulation der Stammdaten vorliegt. Entwerfen Sie einen verhältnismäßigen Untersuchungsauftrag, ein Belegregister und einen vertraulichen Zwischenbericht mit Alternativerklärungen und Prüfschritten.",
+      "target_skill": "meldungen-und-untersuchungen",
+      "input_files": [
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/01_Eingang.eml",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Sperren und beweiswahrend dokumentieren statt löschen. Unterlagen zeitlich und sachlich eng sichern.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "UTC und Anzeigezeit abgleichen, technische Kontokennung keiner Person gleichsetzen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Gesellschaftsänderung, unerbrachten B-Auftrag und neue Kontoverbindung als getrennte Hypothesen prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Privatkommunikation nicht pauschal exportieren. Rechtsgrundlage, Verhältnismäßigkeit, Zugriff und Mitbestimmung konkret prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vertriebspartner-marktstart",
+      "request": "Drei Vertriebsgesellschaften der Merrensteg Elektrosysteme SE in Hameln möchten denselben Vermittler für Industrieantriebe einsetzen. Sein Angebot enthält eine Erfolgsvergütung von acht Prozent auf Umsätze im ersten Jahr. Die niederländische Tochter benötigt lediglich technische Schulungen für Händler, eine deutsche Tochter möchte ihn bei zwei kommunalen Kunden einsetzen und eine österreichische Tochter bei einem privaten Anlagenbauer. Der Vermittler bezeichnet seine Leistung als Türöffnung und kann bisher nur einen Teil seiner Referenzen belegen. Tessa Rabenau bittet um getrennte Entscheidungen, weil die drei lokalen Teams verschiedene Leistungsprofile und Vertragsentwürfe vorgelegt haben. Der gewünschte Markteintritt ist für November vorgesehen. Erstellen Sie eine risikobasierte Partnerentscheidung mit Maßnahmen je Gesellschaft, dokumentierter Managementfreigabe und konkreten Wiedervorlagetriggern.",
+      "target_skill": "geschaeftspartner-und-transaktionen",
+      "input_files": [
+        "testakten/compliance-hameln-vertriebspartner-marktstart/01_Eingang.eml",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Schulungsauftrag, Vermittlung und Präsentation nicht mit dem früheren Messestand gleichsetzen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Provision, nicht benannte Unterbeauftragte, Eigentum und Kundennähe als getrennte Risiken bewerten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Gruppenunterlagen wiederverwenden, lokale Freigabe und Abnahme je Gesellschaft dokumentieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Risikohinweis nicht als Bestechung feststellen. Bei öffentlichen Kunden konkrete Funktionen und lokales Recht prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zukauf-schaltservice",
+      "request": "Die Merrensteg Elektrosysteme SE in Hameln verhandelt den Erwerb eines deutschen Servicedienstleisters für Schaltanlagen. Der indikative Kaufpreis liegt bei 28 Millionen Euro. Rund 37 Prozent des Zielumsatzes hängen an einem öffentlichen Rahmenkunden. Seit einer Woche laufen interne Fragen zur Vergütung zweier Absatzberater. Der Verkäufer hat zunächst nur eine Zusammenfassung der Verträge in den Datenraum gelegt. Der Integrationsteamleiter bittet bereits vor Unterzeichnung um sämtliche Kundenpreise und einen direkten Zugriff auf das Auftragsbuch. Die zuständige Wettbewerbsbehörde hat die Transaktion noch nicht freigegeben. Legal braucht einen belastbaren Vorschlag, welche Fragen vor der Vertragsentscheidung und welche kontrolliert nach dem Vollzug bearbeitet werden. Erstellen Sie einen Entscheidungsvermerk zur Fortsetzung der Transaktion und einen Freigabeplan für Signing, Closing und Integration mit Schutz des Informationsaustauschs.",
+      "target_skill": "geschaeftspartner-und-transaktionen",
+      "input_files": [
+        "testakten/compliance-hameln-zukauf-schaltservice/01_Eingang.eml",
+        "testakten/compliance-hameln-zukauf-schaltservice/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-zukauf-schaltservice/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-zukauf-schaltservice/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-zukauf-schaltservice/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-zukauf-schaltservice/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-zukauf-schaltservice/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Sonderkündigung, Zahlungen an Dritte und Meldebestand getrennt nach Belegqualität bewerten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Kundeneinwilligung, Vollzugsfreigabe und Vertragsbedingungen als eigenständige Arbeitspakete behandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Wettbewerblich sensible Preise und aktive Vertriebssteuerung vor Vollzug abschirmen. Nur freigegebene, aggregierte Daten weitergeben.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Maßnahmen zeitlich trennen. Freigabe als Voraussetzung für operative Integration dokumentieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bericht-zwischen-sitzungen",
+      "request": "Die Merrensteg Elektrosysteme SE in Hameln organisiert sich mit Leitungs- und Aufsichtsorgan. Der Aufsichtsrat tagt regulär erst am 8. Dezember. In einer tschechischen Tochter wurde ein Vertrag über 9,4 Millionen Euro wegen ungeklärter Vertreterzahlungen vorläufig ausgesetzt. Ein Aufsichtsratsmitglied erfährt auf einer Werkreise davon und bittet Nora Eibenrode direkt um alle Verträge und Namen. Die Tochter möchte zunächst selbst berichten. Das Leitungsorgan muss entscheiden, ob der Vorgang vor der nächsten regulären Sitzung in geeigneter Form mitzuteilen ist und welche Informationen in einem geschützten Kreis bleiben. Der vorläufige Sachverhalt enthält einen Hinweis aus einer geschützten Meldestelle. Entwerfen Sie eine vertrauliche Kurzunterrichtung mit Empfängerkreis, Freigabeweg und Termin für die nächste Lagebeurteilung. Legen Sie eine Zuständigkeitsmatrix für die beteiligten Gesellschaften vor.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/01_Eingang.eml",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Art. 41 SE-Verordnung auf die dualistische Struktur und auf Regelbericht sowie Ereignisbericht anwenden.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Einzelnes Mitglied kann Information an das Organ verlangen. Anfrage kein automatischer Zugriff auf die unredigierte Meldestellenakte.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Vertragswert, kurzfristigen Mittelabfluss, mögliche Folgeverträge und Kontrolllücke getrennt bewerten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Lokale Geschäftsführung, Regionalfunktion, Leitungsorgan und Aufsichtsorgan als getrennte Verantwortungsebenen darstellen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kampagne-werkstattdialog",
+      "request": "Die Merrensteg Elektrosysteme SE in Hameln will nach mehreren Rückfragen zu Servicegeschenken und zum Beschwerdeweg ihre Kommunikationskampagne ändern. 1.180 Personen haben eine zentrale Mitteilung erhalten. Der Versandbericht nennt 91 Prozent Öffnungsquote. In einer freiwilligen Stichprobe konnten aber nur 27 von 45 Personen erklären, an wen sie sich bei einer strittigen Kundeneinladung wenden. Der Vertrieb schlägt vor, demnächst auf der Unternehmensseite die lückenlose Schulung aller Mitarbeitenden zu verkünden. Der Werkstattbereich bittet zuerst um kurze Schichtgespräche und eine druckbare Karte. Externe Serviceteams nutzen weder das Konzernintranet noch die Lernplattform. Der Vorstand will eine tragfähige Entscheidung zum nächsten Monatswechsel. Entwerfen Sie eine Kommunikations- und Schulungsentscheidung mit einem internen Führungskräftebriefing, einem sachlichen externen Informationstext und messbaren Verständniskriterien.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-kampagne-werkstattdialog/01_Eingang.eml",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Öffnung, Abschluss und Verständnis als unterschiedliche Kennzahlen ausweisen. Bürogruppe nicht mit Gesamtbelegschaft gleichsetzen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Öffentlich zugängliche Kontakte für Externe und sichere Hinweiswege vom normalen Feedback trennen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Weiterleitung und Sprach-/Zugangsbarrieren testen. Individuelle Leistungsmessung getrennt begründen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Zeit- und Kanalplan mit repräsentativem Nachtest vorlegen. Aussagen in der Außendarstellung auf belegte Reichweite beschränken.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wirksamkeit-nachtest",
+      "request": "Im Quartalsbericht der Merrensteg Elektrosysteme SE in Hameln steht, dass 98 Prozent aller Partnerzahlungen rechtzeitig geprüft wurden. Die interne Revision hat für vier Zahlungen aus einer Stichprobe von 24 keinen vor Auszahlung bestätigten Leistungsnachweis gefunden. Die betroffenen Rechnungen umfassen zusammen 82.400 Euro. Ein Fragebogen aus den Vertriebsteams meldet, alle Freigaben würden ausnahmslos vor der Zahlung gespeichert. Nora Eibenrode bittet um eine Prüfung, ob die Abweichung im Kontrollablauf, in der Datenbasis oder in der Auslegung des Indikators liegt. Der nächste Bericht soll in zwei Tagen an die Leitung gehen. Für Korrekturmaßnahmen kann bis Ende November ein begrenztes Budget freigegeben werden. Erstellen Sie einen Wirksamkeitsbericht mit nachgerechneten Kennzahlen, dokumentierten Feststellungen und einem priorisierten Maßnahmen- und Nachtestplan.",
+      "target_skill": "kontrollen-und-organberichte",
+      "input_files": [
+        "testakten/compliance-hameln-wirksamkeit-nachtest/01_Eingang.eml",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/08_Arbeitsauftrag.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "98 Prozent Systemstatus stimmen rechnerisch, messen aber keine rechtzeitige Freigabe.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Vier Ausnahmen aus 24 risikobasiert ausgewählten Positionen nicht als repräsentative Quote extrapolieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Zeitstempellücke von 26 aus 460 weder als Freigabe noch als feststehenden Verstoß zählen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Papierfreigabe verifizieren, Zwischenkontrolle abgrenzen, unabhängigen Nachtest und Eskalationsgrenze festlegen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-11-04",
+    "files": [
+      "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md",
+      "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
+      "compliance-abteilung-grosskonzern/references/zitierweise.md"
+    ],
+    "opening_change": "Auftrag der Fachabteilung, konkretes Arbeitsprodukt und Entscheidungen aus der Akte an den Anfang gestellt.",
+    "norms": [
+      "Art. 22 DSGVO",
+      "Art. 4, 5, 6, 14, 26, 111 und 113 KI-Verordnung",
+      "§§ 17 und 18 HinSchG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 7. Dezember 2023, C-634/21",
+        "application": "Prüft bei personenbezogenen Bewertungen die tatsächliche maßgebliche Verwendung.",
+        "limit": "Konkrete Datenverarbeitung und Wirkung für natürliche Personen prüfen. Die KI-Verordnung erfordert eine eigenständige Einordnung.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0634"
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Prüfung der Prompts und Fallunterlagen. Ausführung in einer konkreten Modelloberfläche nicht gemessen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-04",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerstart mit vier fachlichen Entscheidungen",
+      "Dateien ohne Auftrag vor der gezielten Frage lesen",
+      "Bei klarem Auftrag sofort das bestellte Arbeitsprodukt bearbeiten"
+    ],
+    "continuation": "Der Nachtrag ändert Belegmatrix, Kennzahl und Entscheidung im vorhandenen Entwurf.",
+    "enrichment": "Quellenprüfung und Freigabe mit getrennten Rollen, Widersprüchen und neuen Belegen geprobt.",
+    "limits": "Desk Review mit Aktenbeispielen. Keine Testausführung in einem Live-Client."
+  }
+}

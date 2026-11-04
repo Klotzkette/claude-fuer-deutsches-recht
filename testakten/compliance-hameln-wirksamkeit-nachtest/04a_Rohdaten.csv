@@ -1,0 +1,6 @@
+Kennung;Quelle;Zähler;Nenner;Einschränkung
+Q-01;Grüner Systemstatus;588;600;Auch verspätete Freigaben
+Q-02;Audit-Ausnahmen;4;24;Risikoauswahl, keine Zufallsprobe
+Q-03;Fragebogen;7;9;Antwortende Teams
+Q-04;Fehlende Zeitstempel;26;460;Externe ausgeführte Zahlungen
+Q-05;Geplanter Nachtest;0;30;Nach Einführung der Korrektur

@@ -1,0 +1,6 @@
+Kennung;Quelle;Frist;Auslöser;Status
+W2;Wartungsvertrag;48 Stunden;Bestätigung;Entwurf
+H7;Konzernrichtlinie;12 Stunden;Erster Hinweis;Intern gültig
+K4;Kundenanlage;8 Stunden;Kenntnis;Unterzeichnet
+V1;Verhandlungs-E-Mail;4 Stunden;Hinweis im Fernwartungssystem;Auf zwei Familien beschränkt
+K4N;Kundenfassung neu;8 Stunden;Kenntnis;Versionsbezug offen

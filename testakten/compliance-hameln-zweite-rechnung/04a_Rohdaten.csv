@@ -1,0 +1,6 @@
+Kennung;Vorgang;Betrag EUR;Belegstatus
+B41;Rechnungsimport;18460;LV-614
+B43;Wiederholungsimport;18460;Zweite Beleg-ID
+Z18;Bankabgang;-18460;Eine Zahlung ausgeführt
+G11;Zwischenkonto;-18460;Gegenbuchung Fehlimport
+J07;Fundstelle;0;Nur Suchmasken-Link
