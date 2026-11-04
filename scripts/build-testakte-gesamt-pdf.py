@@ -159,6 +159,7 @@ TYPE_ORDER = [
     "structured",
     "docx",
     "odt",
+    "pptx",
     "image",
     "pdf",
 ]
@@ -173,6 +174,7 @@ TYPE_LABEL = {
     "structured": "Strukturierte Rohdaten und Kalenderdateien",
     "docx": "Word-Dokumente",
     "odt": "OpenDocument-Textdateien",
+    "pptx": "Präsentationen",
     "image": "Bildanlagen und Screenshots",
     "pdf": "PDF-Anhänge (Originaldokumente)",
 }
@@ -892,7 +894,7 @@ def build_text_pdf(
     pdf_attachments: list[Path] = []
     office_attachments: list[tuple[str, bytes]] = []
     try:
-        office_cache = render_office_batch(files["docx"] + files["odt"] + files["xlsx"])
+        office_cache = render_office_batch(files["docx"] + files["odt"] + files["xlsx"] + files["pptx"])
     except OfficeRenderError as exc:
         raise DocumentRenderError(str(exc)) from exc
     for t in TYPE_ORDER:
@@ -907,6 +909,10 @@ def build_text_pdf(
             if t in OFFICE_EXTS and f in office_cache:
                 office_attachments.append((str(rel), office_cache[f]))
                 continue
+            if t == "pptx":
+                raise DocumentRenderError(
+                    f"{rel}: Präsentation benötigt eine gültige PPTX und LibreOffice Impress"
+                )
             flow.extend(file_header_flowables(t, rel))
             try:
                 if t == "md":

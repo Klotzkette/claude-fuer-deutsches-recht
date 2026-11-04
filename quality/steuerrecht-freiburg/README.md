@@ -33,7 +33,7 @@ Beginnen Sie mit den frühen Stücken. Lassen Sie das Modell seine Rechnung, den
 | --- | --- |
 | Fünf Verfahrensakten und drei Vorführfälle mit Word-Vorlagen | [Alle acht Akten als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Steuerwerkstatt_8_Testakten.zip) |
 | Drei Vorführfälle mit Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Workshop_3_Livefaelle.zip) |
-| Ehegatten-Oderkonto mit sechs Word-Vorlagen | [Oderkonto-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.0/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
+| Ehegatten-Oderkonto mit sechs Word-Vorlagen | [Oderkonto-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
 | Interne Nachbesprechung und Rechenwege | [Dozentenmappe als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Dozentenmappe.zip) |
 
 ## 4 Word-Vorlagen

@@ -24,7 +24,7 @@ from registerakten_print_profile import print_overrides
 from aml_fallregister_pdf import render as render_aml_fallregister
 
 
-OFFICE_EXTS = {"docx", "odt", "xlsx"}
+OFFICE_EXTS = {"docx", "odt", "pptx", "xlsx"}
 OFFICE_BATCH_SIZE = 8
 FIXED_DATE = "D:20000101000000Z"
 SHEET_NS = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
@@ -48,6 +48,8 @@ def valid_office_container(path: Path) -> bool:
         return "mimetype" in names and "content.xml" in names
     if ext == ".xlsx":
         return "[Content_Types].xml" in names and "xl/workbook.xml" in names
+    if ext == ".pptx":
+        return "[Content_Types].xml" in names and "ppt/presentation.xml" in names
     return False
 
 
