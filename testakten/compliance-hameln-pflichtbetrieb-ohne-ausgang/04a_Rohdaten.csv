@@ -1,0 +1,6 @@
+Zeitfenster;Rolle;Ausweichweg;Befund
+06 bis 14 Uhr;Frühschicht;Helpdesk;verfügbar
+14 bis 21 Uhr;Spätschicht;Helpdesk;verfügbar
+21 bis 06 Uhr;Nachtschicht;Helpdesk;unbesetzt
+Nachtprofil;Sachbearbeitung;Stoppschaltfläche;fehlte
+ab 11.10.;alle Schichten;Papierliste;Altbelege fehlen

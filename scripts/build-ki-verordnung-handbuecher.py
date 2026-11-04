@@ -5,6 +5,7 @@ Python: reportlab, pypdf. Keine künstlichen Seitenumbrüche in den Skilltexten.
 """
 import argparse,hashlib,html,json,re,unicodedata
 from collections import Counter
+from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin
 from reportlab.lib.enums import TA_LEFT
@@ -50,7 +51,7 @@ def setup(fontdir,family='times-new-roman'):
     pdfmetrics.registerFontFamily('TNR',normal='TNR',bold='TNR-Bold',italic='TNR-Italic',boldItalic='TNR-BoldItalic')
 
 
-def render(source,target):
+def render(source,target,review_date=date(2026,10,9)):
     global LINK_BASE
     LINK_BASE='https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'+source.parent.relative_to(ROOT).as_posix()+'/'
     source_text=source.read_text();body=re.sub(r'^---\n.*?\n---\s*','',source_text,flags=re.S)
@@ -103,7 +104,9 @@ def render(source,target):
     def page(c,doc):
         c.saveState();c.setFont('TNR',9);c.setFillColor(HexColor('#52616a'))
         c.drawString(60,A4[1]-32,'KI-Verordnung | '+slug)
-        c.drawString(60,30,'Redaktion und Quellenprüfung: 09.10.2026 | Aktuell prüfen')
+        label = ('Redaktion und Quellenprüfung: 09.10.2026 | Aktuell prüfen'
+                 if review_date == date(2026,10,9) else f'Redaktion: {review_date:%d.%m.%Y} | Rechtsstand aktuell prüfen')
+        c.drawString(60,30,label)
         c.drawRightString(A4[0]-60,30,str(doc.page));c.restoreState()
     doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=53,bottomMargin=52,title=title,author='Klotzkette',subject='KI-Verordnung – ausführlicher Arbeitsablauf',invariant=1)
     doc.build(elements,onFirstPage=page,onLaterPages=page)
@@ -134,6 +137,7 @@ def main():
     ap=argparse.ArgumentParser()
     ap.add_argument('--out',required=True,type=Path)
     ap.add_argument('--plugin',choices=PLUGINS,action='append')
+    ap.add_argument('--review-date',type=date.fromisoformat,default=date(2026,10,9))
     args=ap.parse_args();args.out.mkdir(parents=True,exist_ok=True)
     tnr=Path('/System/Library/Fonts/Supplemental')
     if (tnr/'Times New Roman.ttf').exists():setup(tnr)
@@ -143,14 +147,14 @@ def main():
         directory=args.out/plugin;directory.mkdir(parents=True,exist_ok=True)
         sources=sorted((ROOT/plugin/'skills').glob('*/SKILL.md'))
         if len(sources)!=11:raise ValueError(f'{plugin}: erwartet elf Skills, gefunden {len(sources)}')
-        rows=[render(source,directory/(source.parent.name+'.pdf')) for source in sources]
+        rows=[render(source,directory/(source.parent.name+'.pdf'),args.review_date) for source in sources]
         writer=PdfWriter()
         for row in rows:writer.append(directory/row['pdf'],outline_item=row['title'])
         target=args.out/(plugin+'-skills-handbuch.pdf')
         writer.add_metadata({'/Title':plugin+': elf Arbeitsabläufe','/Author':'Klotzkette'})
         writer.write(target)
-        workshop=render(ROOT/plugin/(plugin+'-werkstatt.md'),args.out/(plugin+'-werkstatt-lesefassung.pdf'))
-        report={'plugin':plugin,'date':'2026-10-09','font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'handbook_pages':len(PdfReader(target).pages),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'workshop':workshop}
+        workshop=render(ROOT/plugin/(plugin+'-werkstatt.md'),args.out/(plugin+'-werkstatt-lesefassung.pdf'),args.review_date)
+        report={'plugin':plugin,'date':args.review_date.isoformat(),'font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'handbook_pages':len(PdfReader(target).pages),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'workshop':workshop}
         reports.append(report)
         print(json.dumps({'plugin':plugin,'handbook_pages':report['handbook_pages'],'workshop_pages':workshop['pages']},ensure_ascii=False))
     (args.out/'umfang.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n')

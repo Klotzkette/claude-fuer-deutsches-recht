@@ -1,6 +1,6 @@
 # compliance-abteilung-grosskonzern
 
-**5 Skills** · Stand `v445.35.3`
+**5 Skills** · Stand `v445.35.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../compliance-abteilung-grosskonzern/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`compliance-abteilung-grosskonzern-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`compliance-abteilung-grosskonzern-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/compliance-abteilung-grosskonzern.zip) |
+| **Plugin (installierbar)** | ZIP | [compliance-abteilung-grosskonzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/compliance-abteilung-grosskonzern.zip) |
 
 ## So benutzt man einen Skill
 

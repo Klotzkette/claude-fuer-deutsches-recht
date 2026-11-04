@@ -569,7 +569,7 @@
     },
     {
       "name": "compliance-abteilung-grosskonzern",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "description": "Interne Rechts- und Compliance-Abteilung im Industriekonzern: KI-Einsatz, Richtlinien, Meldungen, Untersuchungen, Geschäftspartner, Konzernkontrollen und Organvorlagen fallbezogen bearbeiten.",
       "author": {
         "name": "Klotzkette",
@@ -821,7 +821,7 @@
       "name": "fachanwalt-arbeitsrecht",
       "source": "./fachanwalt-arbeitsrecht",
       "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
-      "version": "445.35.3",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1661,7 +1661,7 @@
       "name": "ki-governance",
       "source": "./ki-governance",
       "description": "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.",
-      "version": "445.35.2",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1701,7 +1701,7 @@
       "name": "ki-verordnung-hochrisiko-pruefer",
       "source": "./ki-verordnung-hochrisiko-pruefer",
       "description": "Prüft Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Felder, vier Ausnahmen und Profiling. Zehn Fachskills und ein Hauptproblem-Skill führen zu Einstufung, Nachforderung und Entscheidung; mit Fällen zu Recruiting, Justiz und Medizinprodukt.",
-      "version": "445.35.2",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -1751,7 +1751,7 @@
       "name": "ki-vo-ai-act-pruefer",
       "source": "./ki-vo-ai-act-pruefer",
       "description": "Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis.",
-      "version": "445.35.2",
+      "version": "445.35.4",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

@@ -28,9 +28,11 @@ Fehlen Sicherheitsfunktion oder Drittbewertungsgrund, ein präzises Herstelleran
 
 Bei Zweckänderung die drei Wege des Artikels 25 Absatz 1 getrennt prüfen. Ein geringer Fine-Tuning-Aufwand ist keine pauschale Systemausnahme. Bei Agenten Unteraufträge, Schreibrechte und tatsächliche Unterbrechung einbeziehen. Änderungen nach neuen Belegen gezielt im bestehenden Vermerk und Folgebrief einarbeiten.
 
-Artikel 9 verlangt Risikomanagement am System, Artikel 17 Qualitätsmanagement beim Anbieter; eine allgemeine Policy ersetzt diese Arbeit nicht. Menschliche Aufsicht nach Artikel 14/26 muss Originale, Eingriffsmöglichkeit und Befugnis erfassen. FRIA nach Artikel 27 nur für den gesetzlich bestimmten Betreiberkreis und Umfang verlangen. Ein ISO-Zertifikat ist keine automatische Systemkonformität; eine Konformitätsvermutung benötigt die einschlägige veröffentlichte harmonisierte Norm und ihre Reichweite.
+Artikel 9 verlangt Systemrisikomanagement, Artikel 17 Anbieter-QMS. Aufsicht nach Artikel 14/26 erfordert Originale, Eingriff und Befugnis. FRIA nur für den Betreiberkreis nach Artikel 27. ISO-Nachweis und Systemkonformität trennen. Eine Konformitätsvermutung verlangt einschlägige veröffentlichte harmonisierte Norm und Deckungsbereich.
 
-Konformitätsweg nach Artikel 43, Register nach Artikel 49 und Vorfall nach Artikel 73 getrennt halten. Interne Kontrolle bei Anhang III Nummern 2 bis 8 bedeutet keine Prüfungsfreiheit. Bei einer Störung Auswirkungen, Kenntnis, Rolle und Informationsweg nachvollziehbar prüfen; nicht auf einen beliebigen Standardtermin warten. Das Ergebnis ist eine begründete Entscheidung oder ein Entwurf für die beauftragte menschliche Außenhandlung.
+Bei Anhang III Nummer 4 Art und Wirkung der Personalentscheidung belegen. Artikel 26 Absatz 7: betroffene Beschäftigte und Vertretung vor Inbetriebnahme oder Verwendung informieren, für Anhang III grundsätzlich ab 02.12.2027. Artikel 111 und Beteiligung nach BetrVG getrennt prüfen.
+
+Artikel 43 regelt Konformität, Artikel 49 das Register und Artikel 73 die Vorfallmeldung. Interne Kontrolle bei Anhang III Nummern 2 bis 8 verlangt belastbare Nachweise. Bei Störung Auswirkungen, Kenntnis, Rolle und Informationsweg prüfen. Liefere die Entscheidung oder den Entwurf der beauftragten Außenhandlung.
 
 ## 5 Zeitrecht Quellen und Abschluss
 

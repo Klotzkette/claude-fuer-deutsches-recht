@@ -41,14 +41,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini fragt nach wirksamen menschlichen Eingriffsmöglichkeiten und Ausnahmen des Artikels 22 DSGVO statt bloßen Bestätigungsklicks. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Fehlende Übersteuerungsbefugnis -> Aufsichtsregel und bedingter Beschluss; bestätigte Sperre bei offener Menge -> Maßnahmen-/Mengenstatus der Erstmeldung ändern. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt.",
+    "reason": "Der Mini fragt nach wirksamen menschlichen Eingriffsmöglichkeiten und Ausnahmen des Artikels 22 DSGVO statt bloßen Bestätigungsklicks. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Fehlende Übersteuerungsbefugnis -> Aufsichtsregel und bedingter Beschluss; bestätigte Sperre bei offener Menge -> Maßnahmen-/Mengenstatus der Erstmeldung ändern. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Redaktion 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "25792b693201ad972865568f8550754959829039c2c556bfdae30e8d2a0049cd"
+    "sha256": "5ce181ae03f9e48a21816e9f2e6f8c95480ec4b74a3674f0a8e8b67a6b52778f"
   },
   "selection": {
     "positive": [
@@ -132,14 +133,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verbindet SCHUFA mit Scoreeinsatz, Entscheidungspraxis und nachvollziehbaren Freigabebedingungen; KI-VO-Risikoklasse bleibt gesondert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt.",
+    "reason": "Die Werkstatt verbindet SCHUFA mit Scoreeinsatz, Entscheidungspraxis und nachvollziehbaren Freigabebedingungen; KI-VO-Risikoklasse bleibt gesondert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
-      "Redaktion 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Menschliche Entscheidungsmöglichkeiten früh von Freigabeklick und KI-Risikoklasse getrennt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "90e4255e580c4bd0b24a664a131182e76df3be5e05822c036d4e172bff86da46"
+    "sha256": "1e5bda61624ef92b6a6f042d7333a09d0133beedb1949a4442ee5e9092605884"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -150,7 +152,7 @@
       "ki-governance/ki-governance-schnellstart.md",
       "quality/evals/ki-governance.json"
     ],
-    "opening_change": "Tatsächlichen Einfluss des Systems auf Entscheidungen und die Freigabeverantwortung prüfen.",
+    "opening_change": "Tatsächlichen Einfluss des Systems auf Entscheidungen und die Freigabeverantwortung prüfen. Die Beschäftigungsroute prüft tatsächlichen Entscheidungseinfluss, befugte Aufsicht und Vorabinformation getrennt von arbeitsrechtlicher Beteiligung.",
     "norms": [
       "Artikel 22 DSGVO",
       "Artikel 4, 4a, 6, 26, 50, 111 und 113 KI-VO in der Fassung 2026/1744"
@@ -178,7 +180,7 @@
       "Dateien ohne Aufgabe: System-/Vorfallunterlagen still lesen; kein Inventarbericht ohne Ziel.",
       "Klarer Auftrag: Beschluss oder Erstmeldungsentwurf direkt liefern, nur entscheidende Eingriffsbefugnis oder Kenntnisangabe klären."
     ],
-    "continuation": "Fehlende Übersteuerungsbefugnis -> freigabebeschluss.md und betroffene Aufsichtsregel; bestätigte Sperre bei offener Menge -> erstmeldung.md mit geändertem Maßnahmen-/Mengenstatus. Nur bestelltes Dokument fortsetzen.",
+    "continuation": "Fehlende Übersteuerungsbefugnis -> freigabebeschluss.md und betroffene Aufsichtsregel; bestätigte Sperre bei offener Menge -> erstmeldung.md mit geändertem Maßnahmen-/Mengenstatus. Nur bestelltes Dokument fortsetzen. Kommt eine vom reinen Textmodus abweichende Personalscore-Funktion hinzu, Einstufung, Rollen und anwendbare Informationspflicht anhand der neuen Version fortschreiben.",
     "enrichment": "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
     "limits": "desk review; no live client execution"
   },

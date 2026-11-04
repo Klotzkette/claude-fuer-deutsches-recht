@@ -4,27 +4,29 @@
   "reviewed_on": "2026-10-09",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachlicher Einzelabgleich vom 9. Oktober 2026 mit gelesenem amtlichem Artikel 6 samt Berichtigung und vollständigem Anhang III. Produkt- und Zweckpfad, vier Alternativen, Profiling, konkrete Dokumente und Fortschreibung getrennt. Redaktionelle Prüfung, kein neuer Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert.",
+    "reason": "Fachlicher Einzelabgleich vom 9. Oktober 2026 mit gelesenem amtlichem Artikel 6 samt Berichtigung und vollständigem Anhang III. Produkt- und Zweckpfad, vier Alternativen, Profiling, konkrete Dokumente und Fortschreibung getrennt. Redaktionelle Prüfung, kein neuer Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Produktpfad einschließlich Absätze 1a bis 1c und Berichtigung ungeachtet ausdrücklich subsumieren.",
       "Justizassistenz, Medizinprodukt, alle Anhang-III-Bereiche und begrenzte Zeitverschiebung konkret eingebaut.",
       "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale.",
       "Verifizierte Rechtsprechung in konkrete Argumente und Belegänderungen übersetzt; Artikel 22 DSGVO, Profiling und Erklärungspflichten getrennt.",
-      "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "c97579b85456c64beec3201f6b3c523bdb9639e0d3d0086931d1864e7dc992fe"
+    "sha256": "43d13b185f643e27733e13ef7ffaf6fff8597e1fbdce5b84d0479b6f6a70d00a"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Fachlicher Einzelabgleich vom 9. Oktober 2026 mit gelesenem amtlichem Artikel 6 samt Berichtigung und vollständigem Anhang III. Produkt- und Zweckpfad, vier Alternativen, Profiling, konkrete Dokumente und Fortschreibung getrennt. Redaktionelle Prüfung, kein neuer Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert.",
+    "reason": "Fachlicher Einzelabgleich vom 9. Oktober 2026 mit gelesenem amtlichem Artikel 6 samt Berichtigung und vollständigem Anhang III. Produkt- und Zweckpfad, vier Alternativen, Profiling, konkrete Dokumente und Fortschreibung getrennt. Redaktionelle Prüfung, kein neuer Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Produktpfad einschließlich Absätze 1a bis 1c und Berichtigung ungeachtet ausdrücklich subsumieren.",
       "Justizassistenz, Medizinprodukt, alle Anhang-III-Bereiche und begrenzte Zeitverschiebung konkret eingebaut.",
       "Screenshots anhand der getrennten Artikel 9, 17, 27, 14 und 26 sowie Normenwirkung geprüft; keine ISO- oder FLOPs-Pauschale.",
       "Verifizierte Rechtsprechung in konkrete Argumente und Belegänderungen übersetzt; Artikel 22 DSGVO, Profiling und Erklärungspflichten getrennt.",
-      "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Konkreter Einstufungsvermerk vor Arbeitsmodus; Datenschutzanker mit ausdrücklicher Klassifikationsgrenze früh platziert. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "5e97b759d029f91ae49b9c33270efb899aaa3237a71964504f338da0a240e0b0"
+    "sha256": "299125b7ac8d8b3b9cfba4db425c153c06e0158969dc119e37ddf62e6b605332"
   },
   "selection": {
     "target_skill": "hochrisikofrage-loesen",
@@ -892,7 +894,7 @@
       "ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md",
       "ki-verordnung-hochrisiko-pruefer/references/testanker.md"
     ],
-    "opening_change": "Versions- und zweckbezogenen Auftrag zuerst bearbeiten; reinen Einstufungsskill von Hauptworkflow und Folgepflichten trennen. Aktuellen amtlichen Produktpfad einschließlich Berichtigung lesen.",
+    "opening_change": "Versions- und zweckbezogenen Auftrag zuerst bearbeiten; reinen Einstufungsskill von Hauptworkflow und Folgepflichten trennen. Aktuellen amtlichen Produktpfad einschließlich Berichtigung lesen. Die Beschäftigungsroute prüft tatsächlichen Entscheidungseinfluss, befugte Aufsicht und Vorabinformation getrennt von arbeitsrechtlicher Beteiligung.",
     "norms": [
       "Artikel 3 und 6 sowie Anhang I und III KI-Verordnung",
       "Artikel 25, 26, 43, 49, 73, 111 und 113 in Fassung 2026/1744",
@@ -955,23 +957,24 @@
       "Klarer Auftrag: direkt am Einstufungsvermerk, Anbieteranschreiben oder der Betriebsanweisung arbeiten.",
       "Bestehender Entwurf mit neuen Belegen: betroffene Subsumtion und Dokumente gezielt fortschreiben."
     ],
-    "continuation": "Version 1.4 wird nicht durch die Auswertung von 2.0 nachträglich umdefiniert. Neue Funktionsbeschreibung und Testbelege aktualisieren allein die betroffene Zweckfassung und deren Produkte. Eine nur vorgeschlagene Notfalloption bleibt gesondert.",
+    "continuation": "Version 1.4 wird nicht durch die Auswertung von 2.0 nachträglich umdefiniert. Neue Funktionsbeschreibung und Testbelege aktualisieren allein die betroffene Zweckfassung und deren Produkte. Eine nur vorgeschlagene Notfalloption bleibt gesondert. Kommt eine vom reinen Textmodus abweichende Personalscore-Funktion hinzu, Einstufung, Rollen und anwendbare Informationspflicht anhand der neuen Version fortschreiben.",
     "enrichment": "Ausformulierten Arbeitsentwurf mit zwölf nativen Dateien fortschreiben: Rechenbelege, echte E-Mail-Anhänge, konkreter Einfluss und offene Sicherheitsfolgen werden belegt eingearbeitet.",
     "limits": "desk_review; keine Live-Client-Ausführung, keine autonome Meldung, Registrierung oder Freigabe"
   },
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-09",
+    "reviewed_on": "2026-11-04",
     "verdict": "revised",
-    "reason": "Neuer Hauptproblem-Prompt führt zehn Fachwege zum bestellten Einstufungs- oder Entscheidungsdokument, bewahrt Versionsstand und konkrete Rückfragen. Reiner Einstufungsskill bleibt eigenständig verfügbar.",
+    "reason": "Neuer Hauptproblem-Prompt führt zehn Fachwege zum bestellten Einstufungs- oder Entscheidungsdokument, bewahrt Versionsstand und konkrete Rückfragen. Reiner Einstufungsskill bleibt eigenständig verfügbar. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Hauptproblem-Skill und eigenständigen Prompt ergänzt.",
-      "Fortsetzung nach Zweckänderung, getrennte Folgewege und menschliche Freigabe vor Außenwirkung eingebaut."
+      "Fortsetzung nach Zweckänderung, getrennte Folgewege und menschliche Freigabe vor Außenwirkung eingebaut.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
     "prompt_path": "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-hauptproblem.md",
     "skill_path": "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md",
-    "prompt_sha256": "c8ec1fb8eaecbbdbac34c7ccd84da8342b2902f67dfcb271ec38486662026109",
-    "skill_sha256": "b9c6bcae97efe804fd4aeac6ab7cc1f40af6ee2bc3ac7296697370d18b210ed9"
+    "prompt_sha256": "37ee0a35c6bd21c1e63ff6c094b3d229366d48f2408ec256f148539384e81425",
+    "skill_sha256": "6b0a7791ee7b326a88fdf293c03d53997c65e4a968cc42fe2422f359ecdefb4c"
   },
   "argumentation_review": {
     "method": "desk_review",

@@ -1,6 +1,6 @@
 {
   "name": "fachanwalt-arbeitsrecht",
-  "version": "445.35.3",
+  "version": "445.35.4",
   "description": "Fachanwalt-Arbeitsrecht nach FAO Paragraf 10: KSchG, BetrVG, TzBfG, AGG, EntgTranspG, Urlaub, Betriebsrat, Befristung und Vergleichspraxis. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierter Quelle.",
   "license": "Apache-2.0 OR MIT",
   "author": {
@@ -18,6 +18,8 @@
     "tzbfg",
     "befristung",
     "agg",
-    "fao-paragraf-10"
+    "fao-paragraf-10",
+    "ki-am-arbeitsplatz",
+    "qualifizierung"
   ]
 }

@@ -155,19 +155,19 @@
   },
   {
     "plugin": "ki-verordnung-hochrisiko-pruefer",
-    "date": "2026-10-09",
+    "date": "2026-11-04",
     "font": "Times New Roman",
     "skills": [
       {
         "skill": "artikel-6-software-einstufen",
         "title": "Software ausschließlich nach Artikel 6 einstufen",
         "source": "ki-verordnung-hochrisiko-pruefer/skills/artikel-6-software-einstufen/SKILL.md",
-        "source_sha256": "cf86ac2798f6568af4319f707a8eb5b07105267b3c2f8c4bb13fd0b6a42608a6",
-        "words": 1019,
-        "utf8_bytes": 9443,
+        "source_sha256": "2f5155f87e03439ee21c099b8ea885808c8e499e7ec6750540c3d03e8a909bab",
+        "words": 1067,
+        "utf8_bytes": 9896,
         "pages": 3,
         "pdf": "artikel-6-software-einstufen.pdf",
-        "pdf_sha256": "1078fe3f8c4f2a2ba9978ef78e3404f522df97ab0206a31e20dfa1c02d4c7018",
+        "pdf_sha256": "a76829774d04a230f970a019eb592f2ea9fcfc4748674f56c6ad80064f574483",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -179,19 +179,19 @@
         "utf8_bytes": 6969,
         "pages": 3,
         "pdf": "ausnahmebegruendung-artikel-6.pdf",
-        "pdf_sha256": "09fb4a4471899fd5b857d2d0acde4a983721c20972eb66e807db1fcb0c02ff4d",
+        "pdf_sha256": "e97445fd6d0659465c428d6b8208f10ce20d0a7b8cb6abf87a7d5978c4f1894e",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
         "skill": "betreiberkonzept-bewerbungsauswahl",
         "title": "Betreiberkonzept für Bewerbungsauswahl",
         "source": "ki-verordnung-hochrisiko-pruefer/skills/betreiberkonzept-bewerbungsauswahl/SKILL.md",
-        "source_sha256": "82d30d657bee2f8a69ebe97503706231e83cd7daf2108321656dbd1e074f026c",
-        "words": 837,
-        "utf8_bytes": 7949,
+        "source_sha256": "5a2667a8f67cecebe4bc9d58cfd6b3d87c7141cfef6f8a2460c5ec2b43f93790",
+        "words": 905,
+        "utf8_bytes": 8503,
         "pages": 3,
         "pdf": "betreiberkonzept-bewerbungsauswahl.pdf",
-        "pdf_sha256": "4c9000625e4663bb3b02d05c6bb73cdaef39dcfbf6660e0a7bda4f2dab9ffb11",
+        "pdf_sha256": "c763238ae5fb8de88e5968c690b7f922b60af0dfd8c0e538a80676f62a437a7c",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -203,19 +203,19 @@
         "utf8_bytes": 5137,
         "pages": 2,
         "pdf": "hochrisiko-einstufung-recruiting.pdf",
-        "pdf_sha256": "7e2ae170c3153876c9f497e049b43655977d41e70722d6ce9e4c149b486667f4",
+        "pdf_sha256": "8c8a20cf454596a946c07144ad0037d2a1d48f53a2ebaf3eb141b2787ac235f9",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
         "skill": "hochrisikofrage-loesen",
         "title": "Hochrisikofrage durch den ganzen Vorgang lösen",
         "source": "ki-verordnung-hochrisiko-pruefer/skills/hochrisikofrage-loesen/SKILL.md",
-        "source_sha256": "b9c6bcae97efe804fd4aeac6ab7cc1f40af6ee2bc3ac7296697370d18b210ed9",
-        "words": 981,
-        "utf8_bytes": 8927,
+        "source_sha256": "6b0a7791ee7b326a88fdf293c03d53997c65e4a968cc42fe2422f359ecdefb4c",
+        "words": 1048,
+        "utf8_bytes": 9489,
         "pages": 4,
         "pdf": "hochrisikofrage-loesen.pdf",
-        "pdf_sha256": "0ed28c1c9c68a080af43b401df38818ef4b0e3df773a3382041587e685037837",
+        "pdf_sha256": "663c9acdd72ab9a5a889aec407ddbc5ba78b3f19c60b952a8012262d5cd15348",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -227,7 +227,7 @@
         "utf8_bytes": 6314,
         "pages": 2,
         "pdf": "hr-zweck-und-systemabgrenzung.pdf",
-        "pdf_sha256": "6f54c5c206588c9d9dcb891aac35874af8d800be81b0417a3cc27a04fd3407d6",
+        "pdf_sha256": "58559dca1e6daa488bae642791776f7b92c0c949e08a3f13efe16eef5908cdd8",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -239,7 +239,7 @@
         "utf8_bytes": 6250,
         "pages": 2,
         "pdf": "konformitaet-und-registrierung.pdf",
-        "pdf_sha256": "1da8a394fd6a4a52ef1d95dd9836b8310ee2f4a74a46d330e4f41b85624cb040",
+        "pdf_sha256": "d24e1d843751b431a0869f7c3503a3de10b8dc86492a9c60173a63c059fae227",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -251,7 +251,7 @@
         "utf8_bytes": 7996,
         "pages": 3,
         "pdf": "produktpfad-sicherheitsbauteil-pruefen.pdf",
-        "pdf_sha256": "a15db50f7cb4f5f72d6985ea494e7f2579905f5831aba9ef5c31ddf5ea2e57ce",
+        "pdf_sha256": "043b5b0ef1e9003c05dbd5a35b78c923579efd066c2db4baf444568bbda827a6",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -263,7 +263,7 @@
         "utf8_bytes": 5437,
         "pages": 2,
         "pdf": "rechtsstand-und-einfuehrungsentscheidung.pdf",
-        "pdf_sha256": "68d53dfccf0aeed1867f16e34d61db6697d8b7aa007e8a615323cabcd1acb294",
+        "pdf_sha256": "922d9670c6b02439f637e586d7d0ac5b42056f9072bbeb6f34ef4ab1d0488068",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -275,7 +275,7 @@
         "utf8_bytes": 5735,
         "pages": 2,
         "pdf": "rollenwechsel-und-shadow-ai.pdf",
-        "pdf_sha256": "043c7fdac61aecac9614285a5ea7f50410d8303c8179d577b2a37649dfaf0116",
+        "pdf_sha256": "ffa670009430a81b08b61637a821a5cd6fd952417b1dd0f7d8daaf4a16c57433",
         "body_text_coverage": "all rendered source text segments present in source order"
       },
       {
@@ -287,23 +287,23 @@
         "utf8_bytes": 6286,
         "pages": 2,
         "pdf": "vorfallbewertung-und-meldeentwurf.pdf",
-        "pdf_sha256": "14f1aa71219af64e75b44b0124bf20ac978918e925cd3ea58459d63930dd43b3",
+        "pdf_sha256": "a91456d1d52f7999536f2889a4f70220ec6c5578610ed189e9471cc8c710a4d8",
         "body_text_coverage": "all rendered source text segments present in source order"
       }
     ],
     "skill_count": 11,
     "handbook_pages": 28,
-    "handbook_sha256": "7a5b3cc6e0258e060d300bf2e729f06f0db87c92f3104079c023c2ac2edd09d4",
+    "handbook_sha256": "802c1939275efdaba8fc5b98cda4d7baa28087eac181ea8e2366eb36dd659883",
     "workshop": {
       "skill": "ki-verordnung-hochrisiko-pruefer",
       "title": "Werkstatt zur Hochrisikoeinstufung von KI",
       "source": "ki-verordnung-hochrisiko-pruefer/ki-verordnung-hochrisiko-pruefer-werkstatt.md",
-      "source_sha256": "ae65a2edc8b2c2481bc9a2573fe708d91db3b27c4f5c0ca38121e9af1db61a81",
-      "words": 5339,
-      "utf8_bytes": 45361,
+      "source_sha256": "299125b7ac8d8b3b9cfba4db425c153c06e0158969dc119e37ddf62e6b605332",
+      "words": 5632,
+      "utf8_bytes": 47677,
       "pages": 13,
       "pdf": "ki-verordnung-hochrisiko-pruefer-werkstatt-lesefassung.pdf",
-      "pdf_sha256": "6585fe6e23a159dc7d4413b3a2a2b809cdb58385bbe5b5b082d030a9b247725f",
+      "pdf_sha256": "bac2ce3e8f06dcbcc4ff797e038b51a119d73c07a34239e05f93e1397b54ba70",
       "body_text_coverage": "all rendered source text segments present in source order"
     }
   },

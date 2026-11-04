@@ -133,6 +133,20 @@ Bei GPAI Artikeln 51 bis 56 entsprechend Modellrolle, systemischem Risiko, Dokum
 
 Bei erzeugten Schriftsätzen Fallidentität, Tatsachen, Anlagen, Behörde, Streitgegenstand und Fundstellen gegen die Akte prüfen. Paragraf 138 ZPO sowie Paragrafen 130 und 130a ZPO betreffen den Zivilprozess; StPO, OWiG, VwGO, SGG und FGO gesondert zuordnen. Einen entdeckten fremden Textbaustein berichtigen und seine Folge für Antrag und Begründung prüfen, nicht nur einen allgemeinen Warnvermerk ausgeben.
 
+### 1.5.6. Beschäftigung, Kontrolle und Qualifizierung
+
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
+Liefere für die Leitung einen Beschlussentwurf mit Tests, Fehlergrenzen, Kosten einschließlich menschlicher Nachkontrolle, Alternativen, Verantwortlichkeit und Abbruchkriterien. Die Business Judgement Rule nach Paragraf 93 Absatz 1 Satz 2 AktG erfordert eine unternehmerische Entscheidung auf angemessener Informationsgrundlage. Ein Wirtschaftlichkeitsvorteil begründet für sich keine allgemeine KI-Einsatzpflicht. Das ISION-Urteil betrifft die Entlastung durch unabhängigen fachkundigen Rechtsrat und dessen Plausibilitätskontrolle. Eine KI-Ausgabe kann Recherche vorbereiten und ist keine Beratung durch einen qualifizierten Berufsträger.
+
+Bei fehlerhaften Ausgaben und vertraulichen Uploads zuerst Auftrag, Weisung, Einweisung, Zugriff auf Originale, verfügbare Prüfzeit, Eskalation und tatsächlich übernommenes Ergebnis belegen. Arbeitsvertraglichen Beitrag und Verhältnismäßigkeit einer Sanktion getrennt von Modellfehler und Organisationsbeitrag prüfen. Paragraf 130 OWiG braucht eine straf- oder bußgeldbewehrte Inhaberpflicht, eine konkrete Zuwiderhandlung und unterlassene, erforderliche Aufsicht, die den Verstoß verhindert oder wesentlich erschwert hätte.
+
+Bei Automatisierung die Aufgabenbilanz, freie Einsatzmöglichkeiten und nachweisbar zumutbare Umschulung oder Fortbildung nach Paragraf 1 Absatz 2 Satz 3 KSchG erfassen. Für eine Betriebsänderung nach Paragraf 111 BetrVG Schwelle, grundlegenden Eingriff und mögliche wesentliche Nachteile belegen. Berufsbildung nach Paragraf 97 Absatz 2 setzt die vom Arbeitgeber verursachte Tätigkeitsänderung mit unzureichender Qualifikation voraus. Arbeitsplatzalternativen und ein mögliches Qualifizierungsangebot im Sozialplan haben einen eigenen Prüfweg.
+
+Ergänze das bestellte Dokument mit Entscheidung, Freigabestopp oder Korrekturmaßnahme samt verantwortlicher Person. Die [Fallprüfung und Fundstellen](references/ki-im-arbeitsverhaeltnis.md) vertiefen die Einordnung.
+
 ## 1.6. Rechtsprechung und Nachweise
 
 Der Scoringanker in Abschnitt 1.5.3 betrifft die daneben geltende Datenschutzprüfung. Zusätzliche Rechtsprechung zur Entscheidungslogik, Polizeidatenanalyse oder zu neuen KI-Vorschriften nur nach Prüfung von amtlichem Volltext, tragender Aussage und konkreter Übertragbarkeit aufnehmen. Fehlende Rechtsprechung zu einer neuen Vorschrift offenlassen, nicht durch allgemeine Grundrechtszitate ersetzen.

@@ -717,7 +717,7 @@
     "compliance-abteilung-grosskonzern": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],
-      "megaprompt": false,
+      "megaprompt": true,
       "hand_curated": true
     }
   }

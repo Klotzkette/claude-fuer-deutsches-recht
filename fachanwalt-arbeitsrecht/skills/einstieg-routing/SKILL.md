@@ -33,6 +33,7 @@ description: "Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Fris
 | Aufhebungsvertrag angeboten | `ar-aufhebungsvertrag-praxis` | Risikomatrix, Abfindungs-Range, Sperrzeit Paragraf 159 SGB III |
 | Befristung soll geprüft werden | `befristung-tzbfg` | Sachgrund- vs. sachgrundlose Befristung, Anschlussverbot Paragraf 14 II 2 TzBfG |
 | Betriebsrats-Beteiligung streitig | `beteiligung-betriebsrat-102-betrvg` | Anhörungsfehler, Heilung, Folge der Unwirksamkeit |
+| KI-Einführung, KI-Fehler, Qualifizierung oder Personalabbau | `ki-einfuehrung-qualifizierung-kuendigung` | Beteiligungsplan, Freigabeprüfung oder Kündigungs- und Weiterbeschäftigungsmatrix |
 | Betriebsübergang im Raum | `ar-betriebsuebergang-spezial` | Widerspruchsfrist Paragraf 613a VI BGB (1 Monat), Informationsanspruch |
 
 ## Norm-Radar (live verifizieren)

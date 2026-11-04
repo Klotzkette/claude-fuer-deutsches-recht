@@ -7,18 +7,20 @@
     "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
     "changes": [
       "Fachliche Verfahrenswege und konkreter Quellenabgleich",
-      "Prüfung der KI-Verordnung im geltenden Zeitstand"
+      "Prüfung der KI-Verordnung im geltenden Zeitstand",
+      "KI im Betrieb mit Organentscheidung, Fehlerzurechnung, Kompetenz, Qualifizierung und Beteiligung"
     ],
-    "sha256": "9ba5f717bc3fdc1ac353ca463fd2014c98b49cecadeee18ad6611d0dcdf9d924"
+    "sha256": "3eb77c307b2af091fb83a522e95bf28e1235601c82e220e2cc6b51467065e402"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
     "changes": [
       "Fachliche Verfahrenswege und konkreter Quellenabgleich",
-      "Prüfung der KI-Verordnung im geltenden Zeitstand"
+      "Prüfung der KI-Verordnung im geltenden Zeitstand",
+      "KI im Betrieb mit Organentscheidung, Fehlerzurechnung, Kompetenz, Qualifizierung und Beteiligung"
     ],
-    "sha256": "2715b9209b150cfd056fc1e4a5f212197ebbd3dc406988bd0813f323a89b865a"
+    "sha256": "63f3cd9cf37b112928332e51bf6bec5cbf293cf32a667bdef111c44e3cbaf98f"
   },
   "sources": [
     {
@@ -1557,6 +1559,317 @@
         {
           "id": "kontrolle-4",
           "text": "Papierfreigabe verifizieren, Zwischenkontrolle abgrenzen, unabhängigen Nachtest und Eskalationsgrenze festlegen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-vorstand-freigabefenster",
+      "request": "Erik Dörnbusch bittet den Vorstand um 740.000 Euro für einen KI-Assistenten, der Ersatzteilfreigaben vorbereiten soll. Seine Vorlage enthält eine grüne Vergleichsgrafik und erwartet die Amortisation im neunten Monat. Der Anbieter drängt auf Unterschrift bis 21. Oktober. Die Serviceteams sollen ab dem ersten Tag jede Freigabe im Assistenten beginnen. Nora Eibenrode findet in der Vorstandsvorlage weder eine Fehlerquote für seltene Altteile noch eine Antwort auf den Einwand aus der Werkstatt, dass die Produktdatenbank fehlerhafte Vorgängerkennungen enthält. Ein für den Aufsichtsrat angekündigter Freigabetermin steht noch im Kalender. Entwerfe eine Beschlussvorlage mit zwei Optionen, Entscheidungsgrundlage, Annahmen, Haftungsfragen, technischen Freigabekriterien und Abbruchrecht. Begrenze die Aussagekraft des Kanzleivermerks.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-vorstand-freigabefenster/01_Eingang.eml",
+        "testakten/compliance-hameln-vorstand-freigabefenster/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-vorstand-freigabefenster/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-vorstand-freigabefenster/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-vorstand-freigabefenster/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-vorstand-freigabefenster/05_Registerauszug.png",
+        "testakten/compliance-hameln-vorstand-freigabefenster/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-vorstand-freigabefenster/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-vorstand-freigabefenster/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-vorstand-freigabefenster/09_Besprechungsfolien.pptx",
+        "testakten/compliance-hameln-vorstand-freigabefenster/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-vorstand-freigabefenster/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "§ 93 Abs. 1 Satz 2 AktG anhand einer unternehmerischen Entscheidung ex ante prüfen. Gesetzliche Mindestpflichten gesondert behandeln. Eine behauptete allgemeine KI-Nutzungspflicht aus einem Kostenvorteil trägt die Akte nicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "BGH 20.9.2011, II ZR 234/09, Rn. 18, 22 und 25 betrifft qualifizierten unabhängigen Rechtsrat und seine Plausibilisierung. Hier ist der Vertragsrat sachlich begrenzt. Produktvalidierung, Datenherkunft und Einsatzgrenzen benötigen eigene Nachweise.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "48 und 12 Fälle trennen. Eine robuste Freigabe verknüpft die erlaubte Einsatzmenge mit einer verantwortlichen Person, realem Sperrrecht und einer dokumentierten Stichprobe.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-freigabehaken-im-service",
+      "request": "Am Standort Hameln gingen zwei Servicezusagen mit der Angabe heraus, eine Baugruppe sei zehn Jahre verfügbar. Der Ersatzteilkatalog begrenzt die Verfügbarkeit auf fünf Jahre ab Serienende. Die Teamleitung wirft Disponent Lennart Öving vor, eine KI-Empfehlung ungeprüft versandt zu haben. HR behauptet, Öving habe drei Wochen zuvor wegen eines fehlerhaften Datums einen Personalbrief erhalten. HR möchte den Vorfall mit einer Kündigung beantworten. Compliance soll vorher die Prüfprotokolle sichern. Eine Empfängerin hat für den ersten Vorgang bereits Investitionskosten angekündigt, den Auftrag aber noch nicht erteilt. Erstelle einen personalrechtlichen Sachverhalts- und Maßnahmenvermerk mit einer Versionschronologie, einer Einordnung der Erst- und Wiederholungsfälle und einem Korrekturablauf für den Kundenservice.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-freigabehaken-im-service/01_Eingang.eml",
+        "testakten/compliance-hameln-freigabehaken-im-service/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-freigabehaken-im-service/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-freigabehaken-im-service/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-freigabehaken-im-service/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-freigabehaken-im-service/05_Registerauszug.png",
+        "testakten/compliance-hameln-freigabehaken-im-service/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-freigabehaken-im-service/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-freigabehaken-im-service/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-freigabehaken-im-service/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-freigabehaken-im-service/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "§ 613 BGB und arbeitsvertragliche Anforderungen differenziert prüfen. Die Nutzung eines Hilfsmittels allein beantwortet die Frage der persönlichen Leistung und der Verantwortlichkeit für die Ausgabe nicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Ordne die Fehler je Vorgang zu. Die nachträgliche Änderung von Z-68 ist anhand des Journals zu prüfen. Die fehlende Warnwirkung vor Z-68 betrifft eine verhaltensbedingte Kündigung eigenständig.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Kundenkorrektur, arbeitsrechtliche Reaktion und technische Abhilfe getrennt freigeben. Bei dem dritten Vorgang Tatsachenlücke festhalten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-offenes-fenster-fuer-stuecklisten",
+      "request": "Ein Browseralarm meldet den Upload einer Tabelle aus dem geschützten Stücklistenordner der Entwicklungsabteilung. Unter dem Namen L-260 ist eine unveröffentlichte Motorserie in Vorbereitung. Im fraglichen Ordner liegen Bezugsquellen, Staffelpreise und Namen zweier Ansprechpartner. Die Nutzerin der Nachtschicht, Wiebke Harndorf, hatte ein Kalkulationsproblem zur Übersetzung vorbereitet. Die Führungskraft will sofort eine außerordentliche Kündigung. Datenschutz und IT fordern dagegen zuerst die Sicherung des Uploadinhalts, der tatsächlich erreichten Adresse und des Auftrags zur Verarbeitung. Der Anbieter des Gastzugangs hat eine Löschung noch nicht bestätigt. Erstelle eine getrennte Datenschutz- und Personalspur mit Kenntniszeitpunkten, offenen Tatsachen, Risikoprüfung, Beweissicherung und einem Entwurf für die Entscheidung über die nächsten Maßnahmen.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/01_Eingang.eml",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/05_Registerauszug.png",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Unternehmenswissen im Datenschutz von der Kenntnis der kündigungsberechtigten Person nach § 626 Abs. 2 BGB trennen. Frühe Weiterleitung und Inhalt der Kenntnis prüfen, Fristen auf beiden Alternativen rechnen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Die Meldeschwellen aus Art. 33 und 34 DSGVO getrennt prüfen. Speicherung, Verbreitung und Modellnachnutzung sind unterschiedliche Tatsachen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Schutzmaßnahmen nach § 2 Nr. 1 GeschGehG konkret würdigen. Für § 626 BGB Weisung, Selbstmeldung, Fehlbedienung, Umfang, Berechtigung und Verhältnismäßigkeit belegen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-pflichtbetrieb-ohne-ausgang",
+      "request": "Die Arbeitsanweisung zur internen Freigabe von Warensendungen schreibt die Verwendung eines KI-Assistenten seit 8. Oktober vor. Als eine Umstellung der Datenquelle eine Freigabe für ein falsch eingestuftes Antriebsmodul erzeugt, markiert Mitarbeiter Joost Kehrmeyer die Anzeige grün. Der Vorgesetzte hatte das Ziel vorgegeben, mindestens 98 Prozent aller Prüfungen in der Anwendung zu erledigen. Das Modul wurde im Versandlager noch angehalten. Ein internes Audit bewertet die Unterweisung als abgeschlossen. Nora Eibenrode erhält den Auftrag zu klären, ob die Verantwortlichkeit dem einzelnen Sachbearbeiter, der Schichtleitung oder dem Organisationsprozess zuzuordnen ist. Entwirf einen Wiederanlaufvermerk mit überprüfbaren Kompetenzmaßnahmen, funktionierendem Stopprecht, Protokollierung und einem gesonderten Abschnitt zur persönlichen und betrieblichen Verantwortung.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/01_Eingang.eml",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/05_Registerauszug.png",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Art. 4 KI-VO in der am Stichtag geltenden Fassung rollen- und kontextbezogen anwenden. Eine Anmeldungsschulung belegt keine praktische Erkennung fehlerhafter Freigaben.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "§ 130 OWiG setzt eine straf- oder bußgeldbewehrte betriebliche Inhaberpflicht, eine Zuwiderhandlung und vermeidbare oder wesentlich erschwerbare Begehung voraus. Auf dieser Akte bleibt der Tatbestand offen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Weisung, Kapazität und Rückfallwege gegen die individuelle Pflicht abgleichen. Bei möglichen personenbezogenen Kontrollen § 87 Abs. 1 Nr. 6 BetrVG anhand der konkreten Funktion und Daten prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-freie-stelle-nach-dem-kurs",
+      "request": "Merrensteg beabsichtigt, acht Arbeitsplätze im internen technischen Kundendienst abzubauen. Der neue Assistent erstellt nach Angaben des Projektbüros künftig einen großen Teil der Reparaturvorschläge. Für Annika Sölter wurde eine Kündigung vorbereitet. Sie ist seit elf Jahren im Unternehmen, wartet selbst noch zwei Altserien und hat sich bereits für die interne Prüfstelle beworben. Der Vorstand erwartet von Legal einen belastbaren Vermerk, weil die neue Prüfstelle zwar im Organigramm enthalten ist, aber das Bewerbungsportal noch auf gesperrt steht. Der Betriebsrat hat nach beiden geplanten Stellen und der Arbeit in der Pilotgruppe gefragt. Entwirf den Vermerk vor einer Kündigungsentscheidung mit Stellen- und Qualifizierungsmatrix, Aufgabenprognose, Sozialauswahl sowie offenen Angaben zur Betriebsratsanhörung.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/01_Eingang.eml",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/05_Registerauszug.png",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/09_Besprechungsfolien.pptx",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "§ 1 Abs. 2 S. 3 KSchG anhand zumutbarer Qualifizierung für eine geeignete freie oder hinreichend absehbare Stelle prüfen. Kein von einer Beschäftigungsperspektive losgelöstes Qualifizierungsgebot behaupten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Budgetfreigabe, Kurszusage und Ende der Kündigungsfrist auf einer Zeitachse verbinden. Die abweichende zweite Stelle gesondert bewerten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Automatisierungsquote mit den Rückläufern abgleichen. Vergleichbarkeit und Herausnahme als Leistungsträger getrennt prüfen. Aktualität der Anhörung nach § 102 BetrVG sichern.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-montageinsel-sozialplan",
+      "request": "Das Werk Hameln will zwei Prüfstationen in eine lernende Montageinsel überführen. 72 von 410 Beschäftigten erhalten neue Aufgaben, 19 sollen dauerhaft anders eingesetzt werden. Erste Fundamente werden bereits gegossen. Der Betriebsrat beantragt den Projektplan und eine Beratung über die Auswirkungen. Die Personalabteilung bietet einen freiwilligen Onlinekurs an und hat den Schulungsraum nur für die Frühschicht reserviert. Nora Eibenrode soll noch vor der nächsten Investitionsrate klären, welche Beschlüsse vollzogen werden dürfen und welche Verhandlungen über Qualifizierung und soziale Nachteile erforderlich werden können. Erstelle eine Verhandlungsunterlage mit Beteiligungspfaden und ein konkretes Qualifizierungsmodul für einen etwaigen Sozialplan. Zeige, welche Nachteile belegt und welche noch zu prüfen sind.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-montageinsel-sozialplan/01_Eingang.eml",
+        "testakten/compliance-hameln-montageinsel-sozialplan/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-montageinsel-sozialplan/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-montageinsel-sozialplan/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-montageinsel-sozialplan/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-montageinsel-sozialplan/05_Registerauszug.png",
+        "testakten/compliance-hameln-montageinsel-sozialplan/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-montageinsel-sozialplan/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-montageinsel-sozialplan/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-montageinsel-sozialplan/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-montageinsel-sozialplan/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "§ 111 Satz 3 Nr. 4 und 5 BetrVG an Organisation, Anlagen, Methoden und Reichweite prüfen. Fehlende Entlassungen schließen andere wesentliche Nachteile nicht aus. Interessenausgleich und Sozialplan getrennt prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "§ 97 Abs. 2 BetrVG setzt arbeitgeberseitige Maßnahmen, geänderte Tätigkeit und unzureichende Kenntnisse voraus. Ausgestaltung nach § 98 gesondert prüfen. § 112a BetrVG für einen reinen Personalabbau von diesem Umbau abgrenzen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Die vier fehlerhaften Zulagenwerte berichtigen und den Zugang zu echten Trainingsplätzen über alle Schichten verhandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compliance-hameln-personalscore-vor-start",
+      "request": "Der Anbieter stellt am 8. Dezember 2027 die Anwendung Planlotse für einen Standort in Hameln bereit. Sie vergibt einen Eignungswert für Schichteinsätze und soll die Reihenfolge bei freiwilligen Zusatzschichten festlegen. Personal hält die Ausgabe für eine unverbindliche Planungshilfe. Zwei Schichtleitungen erklären, dass das Portal Werte unter 58 Punkten automatisch ausblendet. Die Belegschaft soll nach der ersten Pilotwoche über das Verfahren informiert werden. Der Betriebsrat hat bislang nur die Herstellerbroschüre und eine Folie mit dem Starttermin erhalten. Compliance muss vor dem produktiven Einsatz entscheiden, ob der Start gestoppt oder begrenzt werden soll. Entwirf die Freigabeentscheidung mit Stichtagsmatrix, Einstufung, Informationspaket für beide Adressatengruppen und einer separaten Liste der nationalen Beteiligungs- und Datenschutzfragen.",
+      "target_skill": "ki-einsatz-und-freigabe",
+      "input_files": [
+        "testakten/compliance-hameln-personalscore-vor-start/01_Eingang.eml",
+        "testakten/compliance-hameln-personalscore-vor-start/02_Sachgrundlage.docx",
+        "testakten/compliance-hameln-personalscore-vor-start/03_Stellungnahme.eml",
+        "testakten/compliance-hameln-personalscore-vor-start/04_Datenregister.xlsx",
+        "testakten/compliance-hameln-personalscore-vor-start/04a_Rohdaten.csv",
+        "testakten/compliance-hameln-personalscore-vor-start/05_Registerauszug.png",
+        "testakten/compliance-hameln-personalscore-vor-start/06_Nachtrag.pdf",
+        "testakten/compliance-hameln-personalscore-vor-start/07_Besprechungsvermerk.docx",
+        "testakten/compliance-hameln-personalscore-vor-start/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-personalscore-vor-start/09_Besprechungsfolien.pptx",
+        "testakten/compliance-hameln-personalscore-vor-start/10_Beleg_10.pdf",
+        "testakten/compliance-hameln-personalscore-vor-start/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Art. 6 Abs. 2 und 3 und Anhang III Nr. 4 anhand des Zwecks und der tatsächlichen Filterwirkung prüfen. Profiling schließt die Ausnahme nach Art. 6 Abs. 3 aus. Dezember 2027 und Art. 111 anhand der Versionen prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Vorabinformation nach Art. 26 Abs. 7 an Vertretung und betroffene Beschäftigte von den Rechten nach BetrVG und DSGVO trennen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Art. 22 DSGVO anhand Maßgeblichkeit, erheblicher Wirkung und wirksamer menschlicher Entscheidung prüfen. Das technische Override im Administrationsprofil ist kein ausreichender Nachweis gelebter Korrekturmöglichkeit.",
           "deliverables": [
             "Entwurf.docx"
           ]
