@@ -72,7 +72,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden.",
+    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -81,10 +81,11 @@
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
-      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25"
+      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
+      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen."
     ],
-    "sha256": "e42e4fe8c6ba4be828eb43ab7c1316d10d20f32b21a0a6dc4b2076e45109dfa4",
-    "reviewed_on": "2026-10-01",
+    "sha256": "82eba403a090ba47ed5cc7348e701df38b6692a2283bc7f51e92f32b022c84ae",
+    "reviewed_on": "2026-11-04",
     "method": "desk_review"
   },
   "focus_review": {
@@ -207,7 +208,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden.",
+    "reason": "Fachlich-redaktionelle Gegenlese anhand der Freiburger Umsatzsteuer- und Einkommensteuerakten. Steuererklärung, Einspruch und Finanzgerichtsklage erhalten eigene Arbeitswege mit belegter Rechnung und Fortsetzung.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
@@ -216,14 +217,15 @@
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
-      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25"
+      "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
+      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen."
     ],
-    "sha256": "89ab129d30a0a3b695cc08c47819c3fcda5c5aedcc6356e18f6e22f6e9a98876",
-    "reviewed_on": "2026-10-01",
+    "sha256": "c360563b73ac2686e2011f09be22c054392b16ec288e37e623a37c60d0a52f12",
+    "reviewed_on": "2026-11-04",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-10-01",
+    "date": "2026-11-04",
     "files": [
       "quality/evals/steuerrecht-anwalt-und-berater.json",
       "steuerrecht-anwalt-und-berater/README.md",
@@ -236,11 +238,14 @@
       "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
       "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md"
     ],
-    "opening_change": "Konkrete Abweichung zwischen Erklärung, Bescheid und Prüfungsrechnung untersuchen; im Hauptproblem Waren-Gegenkalkulation aufbauen.",
+    "opening_change": "Steuererklärung, Steueranmeldung, Einspruch und Finanzgerichtsklage sind im Einstieg erkennbar. Der Methodenanker X R 14/24 bleibt erhalten.",
     "norms": [
       "Paragrafen 5, 158 und 162 AO",
       "Paragraf 361 AO",
-      "Paragraf 69 FGO"
+      "Paragraf 69 FGO",
+      "§§ 153 und 168 AO",
+      "§§ 347, 350, 355, 356, 357, 365 und 367 AO",
+      "§§ 44, 47, 48, 52a, 52d, 54, 55, 60, 63, 65, 68, 69 und 100 FGO"
     ],
     "decisions": [
       {
@@ -266,13 +271,21 @@
         "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/sozial-steuer.json",
         "workflow_effect": "Erklärungsfrist und Rechtsbehelfsfrist unterscheiden. Ausfälle, vorhandenes Personal, Abhilfen und kausale Folgen zum konkreten Fristende erheben; damit Verlängerungsantrag oder Antwort auf Ablehnung begründen. Keine automatische Verlängerung durch Antragstellung vermerken und keine kurze Überschreitung allein als Entschuldigung verwenden."
+      },
+      {
+        "citation": "BFH, Urteil vom 04.12.2025, V R 37/23, Rn. 20–27",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610069/",
+        "application": "Bei § 3a Abs. 2 UStG Auftrag und konkreten Bedarf des Standorts je Leistung auseinanderhalten.",
+        "limit": "Die Entscheidung betrifft Werbung und die festgestellte Verwendung im Drittland; eine feste Niederlassung und ihr eigener Bedarf sind im IT-Fall gesondert zu belegen.",
+        "checked_on": "2026-11-04"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Prüfung der Schätzung und aktuellen Paragrafen 158/162 AO; keine neue Vollverifikation sämtlicher materieller Steuerarten, DBA oder Strafverteidigungsfragen.",
       "Workflow-Vertiefung 2026-09-23: Keine neue Vollverifikation sämtlicher Steuerarten, DBA oder Steuerstrafrechtsfragen. BFH X R 19/21 und XI R 17/22 mit vorhandenen Anwendungsgrenzen erhalten; neue Zahlenbeispiele sind transparente Rechenbeispiele, keine tatsächlichen Betriebsfeststellungen. Desk review; keine Live-Client-Ausführung.",
-      "Enger Quellenabgleich 01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
+      "Enger Quellenabgleich 01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest.",
+      "04.11.2026: Gegenlese der bearbeiteten Zweige mit amtlichen Verfahrensnormen und zwei Freiburger Fällen. Frühere Quellenprüfungen bleiben historisch dokumentiert. Kein Live-Modelltest."
     ],
     "anchor_context_review": {
       "date": "2026-10-01",
@@ -290,15 +303,15 @@
     }
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-11-04",
     "method": "desk_review",
     "opening_modes": [
-      "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
-      "Dateien: Steuerbescheid, Rechenanlage und Mengenbelege still lesen und konkretes Ausgabeziel klären.",
-      "Klarer Auftrag: Berechnung und Empfängertext direkt liefern, ohne automatische Bescheidübersicht oder künstliche Gesprächsrunden."
+      "Leerstart: Erklärung, Bescheideinspruch, Finanzgerichtsklage oder Gegenkalkulation anbieten.",
+      "Dateien ohne Auftrag zuerst still lesen und das passende Arbeitsziel gezielt klären.",
+      "Klarer Auftrag: Erklärungsvorbereitung oder Empfängerentwurf direkt ausarbeiten."
     ],
-    "continuation": "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
-    "enrichment": "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
+    "continuation": "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern. Ein zusätzlicher Beleg im anhängigen Finanzgerichtsverfahren ändert nur betroffene Beträge, Beweisthemen und den Antrag im vorhandenen Aktenzeichen.",
+    "enrichment": "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt. Freiburger Papierprüfung: Jahres-Umsatzsteuerbescheid gegen Voranmeldungen abgleichen und bei Teilabhilfe Werbungskosten und verbleibende Einkommensteuer getrennt berechnen.",
     "limits": "desk review; no live client execution"
   },
   "fachanwaltschaft_source_review_2026_10_01": {
