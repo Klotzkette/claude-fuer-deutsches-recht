@@ -163,3 +163,21 @@ Der Zwischenbericht vom 31. Oktober 2026 bereitet den Abschluss vor. Die Abschlu
 | Gesellschafterdarlehen | Tim Brauer (nachrangig) |
 
 ---
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Klagevorlage (Word) | [Datei öffnen](pruefmaterial-insolvenz/Insolvenzanfechtungsklage-Vorlage.docx) |
+| Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
+| Insolvenzplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-blanko.odt) |
+| Insolvenzplan Möbelwerk Havelberg GmbH | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-moebelwerk-havelberg.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

@@ -125,3 +125,19 @@ sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/
 - BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben über Liquidation hinaus)
 - FG Köln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation, Rangrücktritt und Steuerausfall mangels Körperschaftsteuersubjekt; relevanter Querverweis für das nachrangige Gesellschafterdarlehen Friedhelm Grossbach (4 Mio EUR), falls der Plan-Pfad scheitert und eine Liquidationslösung diskutiert wird.
 - OFD Frankfurt a. M. (Liquidationsbeschluss kein konkludenter Verzicht)
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Insolvenzplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-blanko.odt) |
+| Insolvenzplan Grossbach Druckguss und Präzision GmbH und Co KG | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-grossbach-sanierungsgewinn.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

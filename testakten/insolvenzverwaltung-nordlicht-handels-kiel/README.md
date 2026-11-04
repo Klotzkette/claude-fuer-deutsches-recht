@@ -176,3 +176,19 @@ Die Dateien `05_Schlussbericht_15-03-2024.docx` und `24_schlussbericht.docx` bil
 ## Passendes Plugin
 
 [`insolvenzverwaltung-berichtsersteller`](../../insolvenzverwaltung-berichtsersteller/README.md) — Zwischenberichte, Schlussbericht, Schlussrechnung, Schlussverzeichnis, Freigabe, Verteilungsvollzug und Nachtragsverteilung. Für den vollständigen Verfahrensworkflow bleibt außerdem [`insolvenzverwaltung`](../../insolvenzverwaltung/README.md) einschlägig.
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Klagevorlage (Word) | [Datei öffnen](pruefmaterial-insolvenz/Insolvenzanfechtungsklage-Vorlage.docx) |
+| Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
+
+<!-- END pruefmaterial-insolvenz -->

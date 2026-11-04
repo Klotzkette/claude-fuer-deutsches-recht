@@ -124,6 +124,8 @@ META_NAME_PARTS = (
     "notiz_vergleich_krisenstadien",
 )
 
+INSOLVENZ_PRUEFMATERIAL = "pruefmaterial-insolvenz"
+
 META_EXACT_NAMES = {
     "02-fristen-kosten-risiken.csv",
     "02-fristen-risiken-dashboard.csv",
@@ -260,6 +262,9 @@ def is_allowed_markdown_aktenstueck(path: Path, testakte_dir: Path) -> bool:
 
 def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
     """True, wenn die Datei nicht in PDF/ZIP-Arbeitsmaterial gehoert."""
+    relative = path.relative_to(testakte_dir)
+    if relative.parts[0] == INSOLVENZ_PRUEFMATERIAL:
+        return True
     name = path.name.lower()
     stem = path.stem.lower()
     if name in META_EXACT_NAMES:
@@ -270,7 +275,6 @@ def is_export_meta_file(path: Path, testakte_dir: Path) -> bool:
         return False
     if any(part in stem for part in META_NAME_PARTS):
         return True
-    relative = path.relative_to(testakte_dir)
     requested_template = (
         path.suffix.lower() == '.docx'
         and (

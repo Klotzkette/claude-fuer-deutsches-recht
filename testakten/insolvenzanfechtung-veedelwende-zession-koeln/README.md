@@ -62,3 +62,19 @@ Die ZIPs sind flach und enthalten jeweils 24 Unterlagen sowie README.txt mit dem
 | `24_Klageerwiderung.docx` | Klageerwiderung Quast gegen Insolvenzverwalterin VeedelWende | 2 |
 
 Komponentenrelease `insolvenzanfechtung-v1.1.0`.
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Klagevorlage (Word) | [Datei öffnen](pruefmaterial-insolvenz/Insolvenzanfechtungsklage-Vorlage.docx) |
+| Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
+
+<!-- END pruefmaterial-insolvenz -->

@@ -78,3 +78,19 @@ jpg/                                           Fotodokumentation Geschaeftssitz
 pdfs/                                          PDF-Renderings ausgewaehlter Aktenstuecke
 eml/                                           E-Mail-Korrespondenz Verwalter, Glaeubiger, Kanzlei
 ```
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| StaRUG-Restrukturierungsplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-blanko.odt) |
+| Restrukturierungsplan Silberweiher Beteiligungs GmbH | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-silberweiher-historisch.docx) |
+
+<!-- END pruefmaterial-insolvenz -->
