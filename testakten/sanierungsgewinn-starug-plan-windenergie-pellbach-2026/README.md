@@ -150,3 +150,19 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 - **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**
 - **OFD Frankfurt v. 27.12.2018, Originalquelle oder frei prüfbare Quelle vor Ausgabe prüfen** — Einsprüche Mindestbesteuerung ruhend
 - **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| StaRUG-Restrukturierungsplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-blanko.odt) |
+| Restrukturierungsplan Pellbach Windenergie GmbH | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-pellbach-windenergie.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

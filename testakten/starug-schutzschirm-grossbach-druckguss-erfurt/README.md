@@ -125,3 +125,21 @@ starug-schutzschirm-grossbach-druckguss-erfurt/
 - § 133 InsO – Vorsatzanfechtung: https://dejure.org/gesetze/InsO/133.html
 - § 129 InsO – Insolvenzanfechtung allgemein: https://dejure.org/gesetze/InsO/129.html
 - § 135 InsO – Gesellschafterdarlehen: https://dejure.org/gesetze/InsO/135.html
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Klagevorlage (Word) | [Datei öffnen](pruefmaterial-insolvenz/Insolvenzanfechtungsklage-Vorlage.docx) |
+| Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
+| StaRUG-Restrukturierungsplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-blanko.odt) |
+| Restrukturierungsplan Großbach Druckguss und Präzision GmbH und Co KG | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-grossbach-schutzschirm-alternative.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

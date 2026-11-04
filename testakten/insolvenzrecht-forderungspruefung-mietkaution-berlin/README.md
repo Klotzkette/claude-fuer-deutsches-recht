@@ -68,3 +68,19 @@ In der Insolvenz einer Co-Working-Gesellschaft streiten Vermieter, Bank und Unte
 ## Sachverhaltskern
 
 Flexhof Berlin GmbH betrieb drei Co-Working-Flächen. Nach Verfahrenseröffnung beansprucht der Vermieter Kaution und Nutzungsentschädigung; Unterkunden verlangen Rückzahlung von Deposit-Zahlungen. Die Kaution liegt nicht auf einem eindeutig getrennten Konto. Eine Bank hat Kontokorrentverrechnung vorgenommen. Der Verwalter prüft Aufrechnung, Masseverbindlichkeiten, Insolvenzforderungen und Sicherungsrechte. Die Akte enthält Forderungsanmeldungen, Mietvertrag, Bankauszug, Rückgabeprotokoll, E-Mails und eine Prüfungstabelle. Der Prüfungstermin ist auf den 28.08.2026 bestimmt.
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Klagevorlage (Word) | [Datei öffnen](pruefmaterial-insolvenz/Insolvenzanfechtungsklage-Vorlage.docx) |
+| Internes Gutachten (PDF) | [Datei öffnen](pruefmaterial-insolvenz/Internes-Insolvenzanfechtungsgutachten.pdf) |
+
+<!-- END pruefmaterial-insolvenz -->

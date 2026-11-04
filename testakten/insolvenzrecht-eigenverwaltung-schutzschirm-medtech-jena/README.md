@@ -72,3 +72,19 @@ Ein Medizintechnikzulieferer mit öffentlichem Förderdarlehen, FDA-Delay und Li
 ## Sachverhaltskern
 
 BioMetrik Jena GmbH hat 128 Beschäftigte, zwei Hauptkunden und ein Förderdarlehen des Landes. Eine FDA-Zulassung verzögert sich; ein Sensorlieferant liefert nur noch gegen Vorkasse. Die Geschäftsleitung hat streitige Bonusforderungen eines Kunden aus dem Liquiditätsstatus herausgenommen, obwohl die Vertragslage nur teilweise geklärt ist. Ein Gesellschafterdarlehen soll per Rangrücktritt stabilisieren. Die Akte enthält 13-Wochen-Planung, Bankmail, Lieferantenkommunikation, Beratervermerk und Schutzschirm-Entwurf. Es fehlt noch eine harte Aussage zur objektiven Fälligkeit einzelner Forderungen.
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| Insolvenzplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-blanko.odt) |
+| Insolvenzplan BioMetrik Jena GmbH | [Datei öffnen](pruefmaterial-insolvenz/insolvenzplan-biometrik-jena.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

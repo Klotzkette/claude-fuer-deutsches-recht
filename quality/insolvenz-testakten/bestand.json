@@ -1,0 +1,617 @@
+{
+  "bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn": {
+    "aktenstand": {
+      "dateien": 35,
+      "sha256": "4980fde5b4d9c52e8537d863d5a7be8b52c107751e544dcd9107d122d3aad34f"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "80d64eebe02fad6ed9b108ee5f81bc70749abb62b653d3eb8fa3011361c73993",
+        "quelle": "quality/insolvenz-testakten/gutachten/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.md",
+        "quellen_sha256": "5dac6fc1afb0f002487b7b17997154dfd67a5aec4894edb52cd3a51ecb1e83fb"
+      }
+    }
+  },
+  "fintech-darlehen-vertragsuebernahme-bremen": {
+    "aktenstand": {
+      "dateien": 62,
+      "sha256": "d9ff15775aaac3d4772628ab133dbafb658afc5e9f97979df1908b2ac3ede854"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "74eac0c6d2868374b23edd7d917b5f2cae7c2b7c0f4a5867922d8d4ee68539f0",
+        "quelle": "quality/insolvenz-testakten/gutachten/fintech-darlehen-vertragsuebernahme-bremen.md",
+        "quellen_sha256": "fa788c687580445d4f7352e300e03822f1805a5e851857c0a6fa00112db27554"
+      }
+    }
+  },
+  "insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz": {
+    "aktenstand": {
+      "dateien": 32,
+      "sha256": "c809140760726911f3123bc72d08d5638c39302898bd448976ff2771323e0dbb"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "ae0f5861307299254dfe9ebc724dbca455ae501e8d85209b0078f9016b3782d0",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-bargeschaeft-vorkasse-rohstofflieferant-chemnitz.md",
+        "quellen_sha256": "0d72875ecaab22470747fa7f6f9ff3bdc30d745ddc628f982cc5c82a900fc42f"
+      }
+    }
+  },
+  "insolvenzanfechtung-blechliebe-bamberg": {
+    "aktenstand": {
+      "dateien": 24,
+      "sha256": "969bb2bddd4edb42339955bd8d4d8f18ff0001e75754fd7ee0e773ee09609430"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "25900353efbe8ed6d1e6b3f2aa0dc9b15ec0941ba31179e8648ae1a843b60e3e",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-blechliebe-bamberg.md",
+        "quellen_sha256": "de6d10781a4ce515b31f354b9b4322555e57bd562079aad2e45df6d5f91caa12"
+      }
+    }
+  },
+  "insolvenzanfechtung-faltenwurf-fuerth": {
+    "aktenstand": {
+      "dateien": 24,
+      "sha256": "4d046b092c26c3373e80223ce7da3c3757362c0e30597199afcad0c75831d198"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "0a75dd8901df0a06974899976e3164bdc084a054ee8c35ee12bb36ccd1fa2208",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-faltenwurf-fuerth.md",
+        "quellen_sha256": "3bae20a3c76009c963c9bb0bb8de956266c9c2d0ccbda26750ceb9b0ade01fe8"
+      }
+    }
+  },
+  "insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "f70d9a15c103ec66eb382da215ab6099c65d21d969404c03cadf3a1fbd86be53"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "ab9e9adc2965a3497174736e1b7344f2412a509e3ff0460096d7fc9fdf20dafb",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-gesellschafterdarlehen-cash-pool-regensburg.md",
+        "quellen_sha256": "29a44418e4cf3160a0b9544b1ec9abec8463b7e1da23ac55181cca1eabaf8559"
+      }
+    }
+  },
+  "insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "98a3ad2a33549234d6f0e36d0d885d381d621b7186888fa829976612e7534d59"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "b2cceaad44289c8f3d0aa4843674a66f34259f8cff55b22706d36b685da74104",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-glaeubigerbenachteiligung-grundstuecksverkauf-moenchengladbach.md",
+        "quellen_sha256": "2f4d1a3b62c163ee104f8d65a114232638816df75c6e888a6731ed8b29d269f9"
+      }
+    }
+  },
+  "insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel": {
+    "aktenstand": {
+      "dateien": 38,
+      "sha256": "f07641ba85d77d90add1480ece31449126c9867a418aaabe3163f7a0fc758b34"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "e183dd7c9c6cf8e95525ca4ca635a1e96fc7cf45fc91df911ec99049ae06ee05",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-inkongruente-deckung-warenlager-an-erfuellungs-statt-kassel.md",
+        "quellen_sha256": "cc287d7a5170a7af10d6528f33b8c3574d66f18b6b42f40022ea09d5296c0d7c"
+      }
+    }
+  },
+  "insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "fe8e550b83f2cd9580a9f4ccaa78a95f754a27fc6d968404e7759bbab97e5b00"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "b9935593a3cfd2a2e4748713552d08c1887c96f749529f56b98b4b52fb052065",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-inkongruente-deckung-zwangsvollstreckung-fuerth.md",
+        "quellen_sha256": "c03d2687c9531f106924383d760d68a41bccf8493c2f5762d0642ad2a66247a7"
+      }
+    }
+  },
+  "insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin": {
+    "aktenstand": {
+      "dateien": 39,
+      "sha256": "c3e7a7d23ac5e5bee1e184a565e83abfb9885a480d0a1558bcb82bf84cb92ffd"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "d80968a9e06b57c73e990cd84493856fa4019f96dd16813db529c4f710e6d853",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-kiezflitzer-gesellschafterdarlehen-berlin.md",
+        "quellen_sha256": "4f2b968a892f71ae513c4477ff74859fe48253333d578a0e0cceac37bc9ec8a6"
+      }
+    }
+  },
+  "insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck": {
+    "aktenstand": {
+      "dateien": 31,
+      "sha256": "ff420774f13702174066e727d929000ac774189da77baf91a3ee1b3f668e1ad0"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "2f06d9570608f4541b28ebe30e0706a4080377b86f428dd3bee9f0990d1ec56c",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-kongruente-deckung-krankenkasse-nach-antrag-luebeck.md",
+        "quellen_sha256": "c4e53072153867228ff376a6a7243dbe3d73cedabfe66d29d5dffd2c281e72dc"
+      }
+    }
+  },
+  "insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld": {
+    "aktenstand": {
+      "dateien": 33,
+      "sha256": "2b3e431abb37f8ed6a549a03b8f0bb7375c9aff70139c8d1ce6c1ccb422779b1"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "05e617541e4595d6030019e53e5acd27281e41d2cdbcb4d60c2f00072349bd6c",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-kongruente-deckung-lieferant-mahnlauf-bielefeld.md",
+        "quellen_sha256": "6a37a3f28dccbf83a8a39404f481e122a47c3a54264a768599b3ce8cac83044a"
+      }
+    }
+  },
+  "insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "c667e9487b41ebc6a275e6106568e61df4da33497eb46a90b89917c63da17d12"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "ef4f304dbbb0409d6682c32e08a502e8180b7a69708a0a312d73ca0e7fd95985",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-kontokorrent-rueckfuehrung-kreditlinie-mainz.md",
+        "quellen_sha256": "f6a23b3cc25741e9fe41339abce6b38b97b87bd3f252e5f377e1fb988b489546"
+      }
+    }
+  },
+  "insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund": {
+    "aktenstand": {
+      "dateien": 32,
+      "sha256": "35ea1eee33dc451a468012c81bad7017b10e0289f1c4908a774f407cbd5c490b"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "65b53091c823dc92dcd96df5719d7723ff6663e57dbc5fa954aaffd1404c291f",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-kontokorrent-verrechnungen-geduldete-ueberziehung-dortmund.md",
+        "quellen_sha256": "0d38665db51e2ff0da95a006dad8a7f452eb0815bff2d1079e75fac8edc6c772"
+      }
+    }
+  },
+  "insolvenzanfechtung-schenkung-familie-oldenburg": {
+    "aktenstand": {
+      "dateien": 38,
+      "sha256": "bade187ec2243fc3b954211c26dbe2337d95ecd9f20ea5f52e385a7921268f84"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "ccb2640fe0a6989c6ec31ec39fd7dcd51fa3d6a05a056d95effb34e61191e4d2",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-schenkung-familie-oldenburg.md",
+        "quellen_sha256": "433cbb5e90938af02e2de01d483c815671df15bf247dff91cb64a441cde1842f"
+      }
+    }
+  },
+  "insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart": {
+    "aktenstand": {
+      "dateien": 38,
+      "sha256": "79906e41d7b5d64e5a08509f0e9d829d97b1648f8bd9f6b87293844e0bfd7777"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "0c989bdf85e0ed2f137cdbf7689d7b1c6c9e22d77025a0cbf80c22862048f937",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-unentgeltlich-konzernsicherheit-upstream-stuttgart.md",
+        "quellen_sha256": "ff3ccd36ef41ebc3a052b5f24497988e1956fc03ea5de83beed8700d6f90fe90"
+      }
+    }
+  },
+  "insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln": {
+    "aktenstand": {
+      "dateien": 24,
+      "sha256": "719ccaa65bdfe488930553dd895ca0be3e414640b0123c80ea9d086130e2b1a8"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "7458ed2a1b32b62ddd0b1ecfa751d596e03f4ea919f2088dd02beca987ad4167",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-veedelwende-direktrueckzahlung-koeln.md",
+        "quellen_sha256": "7ac8a4032ccb51a26c109c8b8e8f74b34d17f4e7302f989f30764540ba184ff4"
+      }
+    }
+  },
+  "insolvenzanfechtung-veedelwende-zession-koeln": {
+    "aktenstand": {
+      "dateien": 24,
+      "sha256": "cd527ec981c47ecc00bb374f39e164ba5743fe10a1ad60aecfcb4ea5df3a5f14"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "4a3ff88dece19de858ac37c855eef747d4ce9baa1975a6b8e01ff4c3c1f78da4",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-veedelwende-zession-koeln.md",
+        "quellen_sha256": "066710c33335c5824913c77b636aeb6fc65c4f580bfd6401a622966daa197b59"
+      }
+    }
+  },
+  "insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg": {
+    "aktenstand": {
+      "dateien": 39,
+      "sha256": "148fa17012e4a44c7604f926457c393870e7cecb18b5a8b67dd2980ba3c7f427"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "3f07ffa1212cb45e7d8043c63c538fde0cb43eab5342a687a6e4fd729098b1b7",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzanfechtung-vorsatzanfechtung-finanzamt-ratenzahlung-augsburg.md",
+        "quellen_sha256": "23f7cc928d7952055c4f81c18180adc140d7e5ecce9752d490620e8598938990"
+      }
+    }
+  },
+  "insolvenzplan-starug-planwerkstatt-metallbau-hansa": {
+    "aktenstand": {
+      "dateien": 24,
+      "sha256": "14791c659a8f1e5fe3f7f1322667c70f27b6afdb206342eb413dfb9b41c5a552"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "cdc4d017336f9004bef374b65c303aacfa6cee66d5149e3b76767c3a4d3de444",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzplan-starug-planwerkstatt-metallbau-hansa.md",
+        "quellen_sha256": "0e15d6cd5784cb96fae4a3833552984f747739408829c004e2347f16661e6744"
+      },
+      "insolvenzplan-blanko.odt": {
+        "sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/insolvenzrecht/insolvenzplan-darstellender-und-gestaltender-teil/insolvenzplan-darstellender-und-gestaltender-teil.odt",
+        "quellen_sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4"
+      },
+      "insolvenzplan-metallbau-hansa.docx": {
+        "sha256": "58a3c830df2ce01dfcc9d9f29d53bc8d11493c7e940eea4109a4c88ca65937f0",
+        "quelle": "quality/insolvenz-testakten/plaene/insolvenzplan-starug-planwerkstatt-metallbau-hansa/insolvenzplan-metallbau-hansa.md",
+        "quellen_sha256": "c3f6825eab3b6a3e6741825e7391d229df2ff132bd3eb4b61b587d4b8038f6a2"
+      },
+      "restrukturierungsplan-blanko.odt": {
+        "sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/restrukturierungsplan-starug/restrukturierungsplan-starug.odt",
+        "quellen_sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c"
+      },
+      "restrukturierungsplan-metallbau-hansa.docx": {
+        "sha256": "0d4bda91ff7319e858b4e5960303c0ffc45ac9ceb19f751aa3e72bf0fb20361f",
+        "quelle": "quality/insolvenz-testakten/plaene/insolvenzplan-starug-planwerkstatt-metallbau-hansa/restrukturierungsplan-metallbau-hansa.md",
+        "quellen_sha256": "b5c0c6cf608080fc3075b235d6e858a412c85cb395534e230b4b8e4f6b293d1d"
+      }
+    }
+  },
+  "insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena": {
+    "aktenstand": {
+      "dateien": 44,
+      "sha256": "6beeb7d34ea6de0188e110a265649115b951d52e851c10fee9c5eb928fb3de9d"
+    },
+    "material": {
+      "insolvenzplan-blanko.odt": {
+        "sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/insolvenzrecht/insolvenzplan-darstellender-und-gestaltender-teil/insolvenzplan-darstellender-und-gestaltender-teil.odt",
+        "quellen_sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4"
+      },
+      "insolvenzplan-biometrik-jena.docx": {
+        "sha256": "82156e50c8247c423ed50a44a8532edce6fc610956ac5b8d0804f07de25e836e",
+        "quelle": "quality/insolvenz-testakten/plaene/insolvenzrecht-eigenverwaltung-schutzschirm-medtech-jena/insolvenzplan-biometrik-jena.md",
+        "quellen_sha256": "f5f09381266b9eecb7bc5a8f258e18583c2d921599221f13eb4133f52af67453"
+      }
+    }
+  },
+  "insolvenzrecht-forderungspruefung-mietkaution-berlin": {
+    "aktenstand": {
+      "dateien": 39,
+      "sha256": "b7a6d76df9f9b7ad83dc6ed2e8a9c95de3465ee24ad1024b7ca3007ff3eac4a1"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "9d69ee10cab1aa21eb2fdfb1cf8b4da0b78f99f7661484a94bad48d22663d62b",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzrecht-forderungspruefung-mietkaution-berlin.md",
+        "quellen_sha256": "8e272aaaa0f3250975d123cdaa0135d912d02bb6d4ed5a8fbe3eedaf7fab39ca"
+      }
+    }
+  },
+  "insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "e579fcdb1fb798ee51199164f4654f1bf98926d5a8974ce32f2b6cd73e7704e5"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "5bef3bb05a67f260d11db253a1e175fa24d1a398e6f0ebdb2b715fc1d52be3c5",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzverwaltung-mainbogen-laborsoftware-wuerzburg.md",
+        "quellen_sha256": "bfc5a7706826b529c7b30a2e038dbf13effdbebf2198b1b5adcce3d5ba3dbcb6"
+      }
+    }
+  },
+  "insolvenzverwaltung-moebelwerk-havelberg-regelverfahren": {
+    "aktenstand": {
+      "dateien": 47,
+      "sha256": "5b38f127e3b1c34df4a325342e4eb71eff4f9ff2b8f3652329d57b889d355d8b"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "9a0e57a5e06a735cbd43b9142f7ced7705f489a12a1059bfe0f42b7be1363629",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.md",
+        "quellen_sha256": "14459fe6d4cdb49341ee055ed0430ff068ef1f1abb62b7dc0f3fac81b0a8309a"
+      },
+      "insolvenzplan-blanko.odt": {
+        "sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/insolvenzrecht/insolvenzplan-darstellender-und-gestaltender-teil/insolvenzplan-darstellender-und-gestaltender-teil.odt",
+        "quellen_sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4"
+      },
+      "insolvenzplan-moebelwerk-havelberg.docx": {
+        "sha256": "42b5de8f0c56ce7c2824c312cbd74af58ef754a3166b78a41fad461934bbc012",
+        "quelle": "quality/insolvenz-testakten/plaene/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/insolvenzplan-moebelwerk-havelberg.md",
+        "quellen_sha256": "7581bd81465118cc061d2259c3f9feb9537ea7719991c47bb31db218511b6f0a"
+      }
+    }
+  },
+  "insolvenzverwaltung-nordlicht-handels-kiel": {
+    "aktenstand": {
+      "dateien": 53,
+      "sha256": "817acfaa3d5c16a32502a766217f14a68e4f2a882917edde40517769914fd924"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "a33e79b5bc993c86e95248cccbf52e70565a5ed40db27f2b1e59953dbd6af7b3",
+        "quelle": "quality/insolvenz-testakten/gutachten/insolvenzverwaltung-nordlicht-handels-kiel.md",
+        "quellen_sha256": "1e48587db1f0463da86024a398ad62f2e08235231d101421cc21383d9e4ff52d"
+      }
+    }
+  },
+  "krisenfrueherkennung-starug-vier-varianten": {
+    "aktenstand": {
+      "dateien": 23,
+      "sha256": "a173fdc44b6e29c7b5f6950b22be1fba844a3cd0aa7c705e91c8f2bc14da0e46"
+    },
+    "material": {
+      "restrukturierungsplan-blanko.odt": {
+        "sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/restrukturierungsplan-starug/restrukturierungsplan-starug.odt",
+        "quellen_sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c"
+      },
+      "restrukturierungsplan-hartmannschmidt.docx": {
+        "sha256": "f432133266d3d9ea58c2ad56bd39c922ec79b921f04f13ed422b2b8f97b668c0",
+        "quelle": "quality/insolvenz-testakten/plaene/krisenfrueherkennung-starug-vier-varianten/restrukturierungsplan-hartmannschmidt.md",
+        "quellen_sha256": "436baaa6ce02c673c72838b48b6e3ec1640ce83700f36dca6ddce29a5302acbc"
+      },
+      "restrukturierungsplan-nordfels.docx": {
+        "sha256": "383e13826ef9b88e3915ea0b8b7fe677df227d93fbd4243bfb7e02c2ac8cf79a",
+        "quelle": "quality/insolvenz-testakten/plaene/krisenfrueherkennung-starug-vier-varianten/restrukturierungsplan-nordfels.md",
+        "quellen_sha256": "35ab02fc54a8ef8a2d4be4f3ceb1754c27c64c6a897af5cc6f686db094488ebe"
+      },
+      "restrukturierungsplan-veyra.docx": {
+        "sha256": "3ee43a5501b157f1be3a5d11bcbe9cbd3ba21060b6ee4d9050465ddba3a77dc1",
+        "quelle": "quality/insolvenz-testakten/plaene/krisenfrueherkennung-starug-vier-varianten/restrukturierungsplan-veyra.md",
+        "quellen_sha256": "fae0103cb6a4ba6fd728e7e93bd94fe4b17f732d613ac1f3666b85233fdc29cf"
+      }
+    }
+  },
+  "sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026": {
+    "aktenstand": {
+      "dateien": 22,
+      "sha256": "43d389cea93977a8c0afc4a5269f287b86c2f4ce6eddfe2e8620f80bdbbb8325"
+    },
+    "material": {
+      "insolvenzplan-blanko.odt": {
+        "sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/insolvenzrecht/insolvenzplan-darstellender-und-gestaltender-teil/insolvenzplan-darstellender-und-gestaltender-teil.odt",
+        "quellen_sha256": "217bc0900a5d8ef49eef60604c131c24250828ad28367699f5feaec478fc0eb4"
+      },
+      "insolvenzplan-grossbach-sanierungsgewinn.docx": {
+        "sha256": "8480351680204688951912272af856db966482a6c22a00a2efe9bb305fded8cd",
+        "quelle": "quality/insolvenz-testakten/plaene/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/insolvenzplan-grossbach-sanierungsgewinn.md",
+        "quellen_sha256": "35f2aee8ce0f5478277f2fcaa75645c1bf2c32b4340c42b2d4a11a3de538ba8e"
+      }
+    }
+  },
+  "sanierungsgewinn-starug-plan-windenergie-pellbach-2026": {
+    "aktenstand": {
+      "dateien": 18,
+      "sha256": "a4ddc682d87235ae678f2ff6fb02515964bd4f28ad3eeacd72f4ad19d6a17a20"
+    },
+    "material": {
+      "restrukturierungsplan-blanko.odt": {
+        "sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/restrukturierungsplan-starug/restrukturierungsplan-starug.odt",
+        "quellen_sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c"
+      },
+      "restrukturierungsplan-pellbach-windenergie.docx": {
+        "sha256": "34152e11e1b91f5ea7f95b1a19e93a3b2030d5a4bc620ef825af4d43477252b0",
+        "quelle": "quality/insolvenz-testakten/plaene/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/restrukturierungsplan-pellbach-windenergie.md",
+        "quellen_sha256": "51c05959ef78d2025d597b9d9ee01d03a884148c366b654c793c2d1f77a4a2c5"
+      }
+    }
+  },
+  "starug-aufhebung-holding-duesseldorf-ix-zb-18-25": {
+    "aktenstand": {
+      "dateien": 35,
+      "sha256": "319d89fbf892b93bacc1dbce6bdd66af06c8b5c177c7b8fc636b3c7c42807269"
+    },
+    "material": {
+      "restrukturierungsplan-blanko.odt": {
+        "sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/restrukturierungsplan-starug/restrukturierungsplan-starug.odt",
+        "quellen_sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c"
+      },
+      "restrukturierungsplan-silberweiher-historisch.docx": {
+        "sha256": "d08dc860b5fdc1684802406f633f3fddb2a2d9cb07ca68415ca882c93190b777",
+        "quelle": "quality/insolvenz-testakten/plaene/starug-aufhebung-holding-duesseldorf-ix-zb-18-25/restrukturierungsplan-silberweiher-historisch.md",
+        "quellen_sha256": "d214faaccea4a062dc91b16e67f6c9d71eff17de4ae8b8944d1f83776f278d0a"
+      }
+    }
+  },
+  "starug-schutzschirm-grossbach-druckguss-erfurt": {
+    "aktenstand": {
+      "dateien": 37,
+      "sha256": "38280b18a2e5fb50aa69688bfcd092a171bd885201a49832f768dcff6c12e43e"
+    },
+    "material": {
+      "Insolvenzanfechtungsklage-Vorlage.docx": {
+        "sha256": "12d8234c1644e025c6a72528d454de0d6b3563aae1d799650bae29af8ea7bde1",
+        "quelle": "quality/insolvenz-testakten/klagevorlage.md",
+        "quellen_sha256": "418add17c0842752e54649fb48feb5f311ae15fb35bb22f93f845efb0cc28a56",
+        "vorlagenbasis_sha256": "c919a5cd1a7a9a81e04434ab7e8f38238c0562e21a9164fa9f2dbe80c572695a"
+      },
+      "Internes-Insolvenzanfechtungsgutachten.pdf": {
+        "sha256": "ae86b280956a93570b1ab5c9033b09e82b7f3c2b33eae63d16b64fc94c5acd6a",
+        "quelle": "quality/insolvenz-testakten/gutachten/starug-schutzschirm-grossbach-druckguss-erfurt.md",
+        "quellen_sha256": "e67a9c5f76b42e39b9b002238a5b9fbb88a672acbb85be908adcf932561cfff6"
+      },
+      "restrukturierungsplan-blanko.odt": {
+        "sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c",
+        "quelle": "docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/restrukturierungsplan-starug/restrukturierungsplan-starug.odt",
+        "quellen_sha256": "585c41e95c83afdddc2a143cbb929be520b0ee0eaa8167bc11a3d5f33dd3797c"
+      },
+      "restrukturierungsplan-grossbach-schutzschirm-alternative.docx": {
+        "sha256": "74f9240bc816b2bee92c51258287f96e7244000ece2813a32ff99020324fa51a",
+        "quelle": "quality/insolvenz-testakten/plaene/starug-schutzschirm-grossbach-druckguss-erfurt/restrukturierungsplan-grossbach-schutzschirm-alternative.md",
+        "quellen_sha256": "ae1196d69e28cce71225ebba7ef8ee701a9567e7371b91e77eb9864510c74791"
+      }
+    }
+  }
+}

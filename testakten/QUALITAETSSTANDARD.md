@@ -16,7 +16,7 @@ Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben d
 
 ## Inhaltliche Qualität
 
-- Keine vorgefertigte Lösung, keine versteckte Musterantwort.
+- Keine vorgefertigte Lösung und keine versteckte Musterantwort in den Arbeitsakten. Für die Insolvenztestakten sind bestellte Vorlagen und Vergleichsunterlagen separat im Verzeichnis `pruefmaterial-insolvenz/` der jeweiligen Akte verlinkt. Die Arbeitsakten-Exporte schließen dieses Verzeichnis aus.
 - Keine sichtbaren Platzhalter in den abgeschlossenen Aktenstücken. In der ausdrücklich bestellten Vorlagensammlung `bauwirtschaft-hildesheim-lebensakte/12_Wordvorlagen` sind beschriftete Eingabefelder in Wordvorlagen zulässig. Der eng begrenzte Exportfilter lässt weiterhin keine Musterlösungen oder redaktionellen Prüfertexte durch.
 - Keine Texte, die aus der Aktenlogik fallen oder die Arbeitsakte als Übungsmaterial markieren. Der nachfolgende verbindliche Herkunfts- und Risikohinweis bleibt außerhalb der PDFs auf den Downloadseiten und in der `README.txt` der Archive; er enthält keine Lösung und keine fachliche Bewertung.
 - Mehrere plausible Deutungen, aber keine absichtlichen Quatschfehler.

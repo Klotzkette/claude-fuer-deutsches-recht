@@ -364,3 +364,21 @@ Die VEYRA gGmbH-Akte legt besonderes Gewicht auf:
 *Alle Daten in dieser Akte sind (Akte, erstellt 22.05.2026). VEYRA AI Foundation gGmbH,
 Hartmannschmidt AG, Nordfels Power Cells SE und Salaltbar UG existieren nicht. Alle genannten
 Personen, Aktenzeichen, IBANs und Telefonnummern sind anonymisiert.*
+
+<!-- BEGIN pruefmaterial-insolvenz -->
+## Vorlagen und Vergleichsmaterial
+
+Für einen eigenständigen Testlauf verwenden Sie die Arbeitsakte und die Blankovorlagen. Ziehen Sie das Gutachten oder den fallbezogenen Plan erst beim Vergleich der Ergebnisse heran. Die Dateien in dieser Tabelle sind separat von den Aktenarchiven verfügbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Datei |
+| --- | --- |
+| StaRUG-Restrukturierungsplan (Blanko, ODT) | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-blanko.odt) |
+| Restrukturierungsplan Herrenbluse und Zwirn Hartmannschmidt AG | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-hartmannschmidt.docx) |
+| Restrukturierungsplan Nordfels Power Cells SE | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-nordfels.docx) |
+| Restrukturierungsplan VEYRA AI Foundation gGmbH | [Datei öffnen](pruefmaterial-insolvenz/restrukturierungsplan-veyra.docx) |
+
+<!-- END pruefmaterial-insolvenz -->

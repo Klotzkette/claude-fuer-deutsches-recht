@@ -1,0 +1,31 @@
+name: Insolvenztestakten und Vergleichsmaterial
+
+on:
+  pull_request:
+    paths:
+      - 'testakten/**'
+      - 'quality/insolvenz-testakten/**'
+      - 'docs/experimentell/vorlagensammlung-recht/insolvenzrecht/**'
+      - 'docs/experimentell/vorlagensammlung-recht/restrukturierungsrecht-starug/**'
+      - 'scripts/insolvenz-testakten-material.py'
+      - 'scripts/testakte_file_filter.py'
+      - 'scripts/testakte_disclaimer.py'
+      - '.github/workflows/insolvenz-testakten-pruefmaterial.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pruefmaterial:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Abhängigkeiten installieren
+        run: python3 -m pip install python-docx pypdf
+      - name: Bestand, Aktenstand und Exporttrennung prüfen
+        run: python3 scripts/insolvenz-testakten-material.py
