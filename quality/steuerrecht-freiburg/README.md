@@ -1,6 +1,6 @@
 # Steuerwerkstatt Freiburg im Breisgau
 
-Fünf Verfahrensakten führen von den Mandatsunterlagen und der Erklärung über den Einspruch bis zum Finanzgericht Baden-Württemberg, Außensenate Freiburg. Drei kürzere Akten eignen sich für die Live-Vorführung vor Steueranwälten und Steuerberatern. Felix Boscherharb, Sascha Strauß und Hubertus Tomasius erscheinen in wechselnden fiktiven Rollen. Jede Akte trennt Mandat, Finanzbehörde und Gericht.
+Sechs Verfahrensakten führen von den Mandatsunterlagen und der Erklärung über den Einspruch bis zum Finanzgericht Baden-Württemberg, Außensenate Freiburg. Drei kürzere Akten eignen sich für die Live-Vorführung vor Steueranwälten und Steuerberatern. Felix Boscherharb, Sascha Strauß und Hubertus Tomasius erscheinen in wechselnden fiktiven Rollen. Jede Akte trennt Mandat, Finanzbehörde und Gericht.
 
 ## 1 Verfahrensakten
 
@@ -11,6 +11,7 @@ Fünf Verfahrensakten führen von den Mandatsunterlagen und der Erklärung über
 | [Der Servicewagen mit den 720 fehlenden Kilometern](../../testakten/steuerrecht-freiburg-kst-servicewagen/README.md) | Körperschaftsteuer und Investitionsabzugsbetrag |
 | [Sieben Monate bis zum Einzug](../../testakten/steuerrecht-freiburg-erbst-familienheim/README.md) | Erbschaftsteuer und das unbewohnbare Familienheim |
 | [Die Halle wächst nicht mit](../../testakten/steuerrecht-freiburg-anwachsung-werkhalle/README.md) | Freiburg im Breisgau · Gewinnfeststellung 2025 nach Altersnachfolge und Anwachsung |
+| [Zwei Karten, 1,2 Millionen – Wem gehört das Oderkonto?](../../testakten/steuerrecht-freiburg-oderkonto-schenkungsteuer/README.md) | Schenkungsteuer · Freiburger Ehegattenkonto · Klage und getrennte Kenntnisprüfung |
 
 ## 2 Drei Vorführfälle
 
@@ -32,6 +33,7 @@ Beginnen Sie mit den frühen Stücken. Lassen Sie das Modell seine Rechnung, den
 | --- | --- |
 | Fünf Verfahrensakten und drei Vorführfälle mit Word-Vorlagen | [Alle acht Akten als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Steuerwerkstatt_8_Testakten.zip) |
 | Drei Vorführfälle mit Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Workshop_3_Livefaelle.zip) |
+| Ehegatten-Oderkonto mit sechs Word-Vorlagen | [Oderkonto-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.0/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
 | Interne Nachbesprechung und Rechenwege | [Dozentenmappe als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-v1.0.0/Freiburg_Dozentenmappe.zip) |
 
 ## 4 Word-Vorlagen

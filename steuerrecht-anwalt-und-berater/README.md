@@ -89,7 +89,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 ## Steuerwerkstatt Freiburg
 
-Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enthält fünf Verfahrensakten und drei Vorführfälle. Zu den Akten gehören Word-Vorlagen für Erklärungsvorbereitung, Einspruch, Finanzgerichtsklage und Aussetzung der Vollziehung.
+Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enthält sechs Verfahrensakten und drei Vorführfälle. Zu den Akten gehören Word-Vorlagen für Erklärungsvorbereitung, Einspruch, Finanzgerichtsklage und Aussetzung der Vollziehung.
 
 ## 1. Schwerpunkt: Hinzuschätzung und Waren-Gegenkalkulation
 
