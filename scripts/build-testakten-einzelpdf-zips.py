@@ -139,6 +139,10 @@ def render_document_pdf(
         if native is not None:
             data = normalize_pdf_to_a4(native, path.name)
             return without_notice_pages(data)
+        if ext == "pptx":
+            raise G.DocumentRenderError(
+                f"{path.name}: Präsentation benötigt eine gültige PPTX und LibreOffice Impress"
+            )
 
     rel = path.relative_to(testakte_dir)
     flow: list = [Paragraph(f"<b>Datei:</b> {G.escape(str(rel))}", G.s_meta), Spacer(1, 6)]

@@ -178,6 +178,20 @@ class OfficeResilience(unittest.TestCase):
         self.assertEqual([len(g) for g in groups], [8, 8, 3])
         self.assertEqual(list(result), paths)
 
+    def test_presentation_remains_an_office_document_in_both_exports(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            case = Path(tmp)
+            source = case / "Beleg.pptx"
+            with zipfile.ZipFile(source, "w") as archive:
+                archive.writestr("[Content_Types].xml", "")
+                archive.writestr("ppt/presentation.xml", "")
+            self.assertTrue(office.valid_office_container(source))
+            self.assertEqual(E.document_arcname_pairs(case), [(source, "Beleg.pdf")])
+            self.assertEqual(E.G.collect_files(case)["pptx"], [source])
+            self.assertTrue(E.render_document_pdf(source, case, {source: pdf_bytes()}).startswith(b"%PDF-"))
+            with self.assertRaisesRegex(E.G.DocumentRenderError, "LibreOffice Impress"):
+                E.render_document_pdf(source, case, {})
+
     def test_individual_zip_batch_bound_and_atomic_failure(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

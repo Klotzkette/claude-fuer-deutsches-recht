@@ -27,6 +27,7 @@ RENDER_EXTS = {
     "xlsx",
     "docx",
     "odt",
+    "pptx",
     "json",
     "yaml",
     "yml",

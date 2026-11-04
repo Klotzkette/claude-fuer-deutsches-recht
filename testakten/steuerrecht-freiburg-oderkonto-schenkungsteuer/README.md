@@ -2,9 +2,11 @@
 
 Schenkungsteuer · Freiburger Ehegattenkonto · Klage und getrennte Kenntnisprüfung. Stand der Sammlung 4. November 2026. Personenrollen, Mandate und Vorgänge sind für diesen Fall fiktiv. Die Übungsunterlagen enthalten keine echten Steuerdaten.
 
+<!-- reserved-example-contacts -->
+
 ## 1 Arbeitsauftrag
 
-Prüfen Sie die Schenkungsteuerfestsetzung für den 15. März 2024 und bereiten Sie die Begründung der anhängigen Klage vor. Rechnen Sie die Erwerbe einzeln nach. Ordnen Sie den späteren Bank- und Nachrichtenbelegen konkrete Beweistatsachen zu. Prüfen Sie anschließend getrennt für beide Eheleute, welche Anhaltspunkte eine persönliche Verantwortlichkeit tragen könnten und welche Feststellungen fehlen. Für eine gestufte Bearbeitung bleiben die Stücke 08, 09, 24 und 25 zunächst geschlossen.
+Prüfen Sie die Schenkungsteuerfestsetzung für den 15. März 2024 und bereiten Sie die Begründung der anhängigen Klage vor. Rechnen Sie die Erwerbe einzeln nach. Ordnen Sie den späteren Bank- und Nachrichtenbelegen konkrete Beweistatsachen zu. Prüfen Sie anschließend getrennt für beide Eheleute, welche Anhaltspunkte eine persönliche Verantwortlichkeit tragen könnten und welche Feststellungen fehlen. Für die erste Runde bleiben die Stücke 08, 09, 24 und 25 einschließlich der gleich nummerierten EML- und PNG-Dateien geschlossen. Der Freigabevermerk 23a gehört zur Handakte der zweiten Runde.
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 ## Akte komplett herunterladen
@@ -20,8 +22,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/steuerrecht-freiburg-oderkonto-schenkungsteuer_gesamt.pdf`](gesamt-pdf/steuerrecht-freiburg-oderkonto-schenkungsteuer_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.0/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.0/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/testakte-steuerrecht-freiburg-oderkonto-schenkungsteuer-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Freiburger Release zu dieser Akte. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -63,9 +65,25 @@ English: The original-format ZIP contains the working files directly at archive 
 | 24 | [Gesicherter Nachrichtenverlauf und Notizzettel](24_Aktennotiz_Kenntnis_Maerz_2024.pdf) |
 | 25 | [Vollständige Aufnahme zur Guthabenquote](25_Bankaufnahme_Vollstaendige_Seite.pdf) |
 
-Datenanhänge zu den PDF-Belegen im maschinenlesbaren Format.
+### 3.1 Originalformate für die Vorführung
 
-- [02_Kontoumsaetze.csv](02_Kontoumsaetze.csv)
+Das Originalformat-ZIP enthält die Einzelunterlagen auf einer Ebene. Bei EML und PNG sind die Darstellungen aus den fiktiven Aktenquellen rekonstruiert. Die PDF-Zusammenfassungen bleiben als eigene Aktenstücke erhalten.
+
+| Quelle | Inhalt und Zeitpunkt |
+| --- | --- |
+| [Kontoexport CSV](02_Kontoumsaetze.csv) und [Kontoabgleich XLSX](02b_Kontoabgleich.xlsx) | Sieben Buchungen, Rechensaldo und Vergleich mit dem Bankstand |
+| [Onlinebanking PNG](02a_Onlinebanking_RM518.png) | Frühe Umsatzansicht zur Anzahlung und Rückzahlung |
+| [Rücklagenmail EML](04_01_Ruecklage.eml) und [Steuerhinweis EML mit Anhang](05_01_Hinweis_Schenkungsteuer.eml) | Frühe Korrespondenz mit Kopfzeilen und Antworten |
+| [Gekürzter Mailauszug EML](07_Mailauszug_Reservierung.eml) | Stand vor der Einspruchsentscheidung |
+| [Zustimmung EML](08_02_Reservierung_Vollthread.eml) und vier weitere EMLs mit Präfix `08_` | Vollständiger späterer Thread mit der im Fall protokollierten Empfangszeit |
+| [Freigabevermerk DOCX](23a_Freigabevermerk_Handakte.docx) | Bearbeitbare Handakte zur Belegauswahl |
+| [Familienchat PNG](24a_Familienchat_15-16-03-2024.png) | Persönlicher Kenntnisstand, intern |
+| [Bankmaske PNG](25a_Bankaufnahme_Guthabenquote.png) | Späte Veranschaulichung der vollständigen Bankaufnahme |
+| [Arbeitsfolien PPTX](26_Arbeitsfolie_Ruecklage_Vetter.pptx) | Bearbeitbare Übersicht zum frühen Aktenstand, abgeleitet aus 01 bis 07 |
+
+### 3.2 Vom Aktenstück zur Anlage
+
+Beginnen Sie mit dem Bankauszug, dem Kontoabgleich und dem gekürzten Mailauszug. Ordnen Sie jeder behaupteten Tatsache eine Fundstelle zu. Geben Sie danach den Vollthread, das technische Bankprotokoll und die vollständige Bankaufnahme frei. Lassen Sie eine neue Anlagenliste mit fortlaufenden Nummern erzeugen. Die Mail-Ausgabe soll Datum, Absender, Empfänger, Zustimmung und protokollierten Empfang erkennen lassen. Beim Screenshot bleiben Herkunft und Status als Rekonstruktion sichtbar. Der Freigabevermerk, der private Chat und die aus der Akte abgeleiteten Folien bleiben in der Handakte. Der Muster-Anlagenband dient zum Abgleich.
 
 ## 4 Word-Vorlagen
 
@@ -102,7 +120,8 @@ Die Word-Ausfüllvorlagen liegen gesammelt mit der Arbeitsakte im Workshop-Paket
 
 | Material | Download |
 | --- | --- |
-| Akte mit sechs Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.0/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
+| Vollständige Originalformate mit Gesamt-PDF und sechs Word-Vorlagen | [Workshop-Paket als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/Freiburg_Oderkonto_Akte_und_Vorlagen.zip) |
+| Anlagen K 1 bis K 4 mit Verzeichnis | [Muster-Anlagenband als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerwerkstatt-freiburg-oderkonto-v1.0.1/Freiburg_Oderkonto_Muster_Anlagenband.pdf) |
 | Interne Prüfmappe | [Prüfmappe als PDF](../../quality/steuerrecht-freiburg/dozent/steuerrecht-freiburg-oderkonto-schenkungsteuer_Dozentenblatt.pdf) |
 
 [Übersicht der Freiburger Steuerwerkstatt](../../quality/steuerrecht-freiburg/README.md)
