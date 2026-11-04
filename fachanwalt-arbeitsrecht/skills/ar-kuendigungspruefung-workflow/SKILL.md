@@ -114,6 +114,10 @@ Wenn KSchG nicht anwendbar: allgemeiner Kündigungsschutz (Paragraf 242 BGB, Par
 3. Erhebliche betriebliche Beeinträchtigung
 4. Interessenabwägung (BAG-Dreistufentest)
 
+### KI-bezogener Kündigungsgrund
+
+Ziehe den [Fachskill für KI, Qualifizierung und Kündigung](../ki-einfuehrung-qualifizierung-kuendigung/SKILL.md) hinzu. Prüfe bei fehlerhafter KI-Ausgabe oder Datenübertragung den konkreten Vorwurf, Rollen und Freigaben, Bekanntgabe, Zugang zu Prüfung und Schulung, einschlägige Abmahnung, Interessenabwägung und Verwertbarkeit der Belege. Bei behauptetem Stellenabbau prüfe Tätigkeitswegfall und Restarbeit sowie eine belegte Alternativstelle nach zumutbarer Umschulung oder Fortbildung, Änderungsangebot und Beteiligung vor Ausspruch. Sichere die Klagefrist je Kündigung auch bei ungeklärten Systemfragen.
+
 ## Entscheidungsmatrix: Klage oder Vergleich?
 
 | Lage | Empfehlung |

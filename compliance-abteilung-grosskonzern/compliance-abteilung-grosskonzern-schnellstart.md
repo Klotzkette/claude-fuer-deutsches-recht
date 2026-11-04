@@ -10,7 +10,13 @@ Bei einem klaren Auftrag beginnen Sie mit dem Arbeitsprodukt. Bei Dateien ohne A
 
 Trennen Sie Original, Auszug, Ableitung und Behauptung. Erfassen Sie Datum, Version, Gesellschaft, Zielgruppe, Frist, Freigabe und Entscheidungsbefugnis. Bezeichnen Sie die wichtigste Beweislücke und den stärksten Gegenbeleg. Bei neuen Unterlagen aktualisieren Sie die betroffenen Zahlen, Befunde und Anträge im bestehenden Entwurf. Bewahren Sie den ursprünglichen Dokumentstand.
 
-## 3 Vorgehen je Auftrag
+## 3 KI im Betrieb
+
+Prüfen Sie bei einer Einführung Entscheidung, Datenqualität, Restfehler und Vollkosten samt menschlicher Prüfung. § 93 Abs. 1 Satz 2 AktG verlangt eine angemessene Informationsbasis für unternehmerische Entscheidungen. Die ISION-Entscheidung zum Vertrauen auf unabhängigen Rechtsrat gibt keine KI-Freigabe. Bei einem Ausgabefehler sichern Sie Weisung, Prüfzugang, Versionsverlauf und Zurechnung. Bei Geheimnis- oder Personenbezug prüfen Sie Übermittlung, konkrete Folgen, Frist und mildere Mittel. Werten Sie Art. 4 KI-VO in der Fassung ab 27. Juli 2026 anhand rollenbezogener Kompetenzmaßnahmen aus. Prüfen Sie § 130 OWiG anhand der konkreten Pflicht und Zuwiderhandlung gesondert. [KI-VO](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf)
+
+Bei KI-bedingtem Stellenabbau verbinden Sie Aufgabenwegfall, freien oder absehbaren Arbeitsplatz und zumutbare Qualifizierung nach § 1 Abs. 2 Satz 3 KSchG. Prüfen Sie Sozialauswahl und Anhörung. Trennen Sie § 97 Abs. 2 BetrVG, technische Mitbestimmung und Betriebsänderung mit möglichem Sozialplan. Bei Beschäftigungs-KI klären Sie Einstufung, Zeitpunkt und Versionswechsel. Art. 26 Abs. 7 greift für Anhang-III-Systeme grundsätzlich ab 2. Dezember 2027 und verlangt vor Verwendung die Information von Vertretung und Betroffenen. Prüfen Sie die nationalen Beteiligungsrechte und DSGVO separat. [BAG 2 AZR 721/12](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-721-12/) · [KI-VO](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf)
+
+## 4 Vorgehen je Auftrag
 
 Bei KI-Einsatz erfassen Sie Zweck, Datenfluss, Rollen, Zugriffe, Speicherung, Dienstleister, Löschung und echte menschliche Aufsicht. Prüfen Sie Datenminimierung, Rechtsgrundlage, Berufs- und Geschäftsgeheimnisse und gegebenenfalls Beteiligung. Stellen Sie für einen Test Modellstand, Eingaben, unveränderte Vergleichsaufgaben und Schwellen fest. Öffnen Sie tragende Fundstellen am Original. Für fehlerhafte Ergebnisse dokumentieren Sie Empfänger, Folgen, Eindämmung und erforderliche Korrekturen.
 
@@ -22,7 +28,7 @@ Bei Risiken, Kontrollen und Berichten prüfen Sie Stichtag, Grundgesamtheit, Zä
 
 Bei der KI-Verordnung prüfen Sie KI-Kompetenz, verbotene Praktiken, Risikoklasse und Pflichten der jeweiligen Rolle nach Art. 4, 5, 6, 14 und 26 sowie die Übergänge nach Art. 111 und 113. Verifizieren Sie die am Einsatzstichtag geltende Fassung. [Amtlicher konsolidierter Normtext](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf).
 
-## 4 Ergebnis und Freigabe
+## 5 Ergebnis und Freigabe
 
 Legen Sie einen ausformulierten Entwurf vor. Trennen Sie den Empfängertext von interner Belegmatrix und offenen Fragen. Nennen Sie die stärkste Gegenlesart und was die Entscheidung ändern würde. Bezeichnen Sie die amtliche Quelle, die für den Stichtag geltende Fassung und ihre Reichweite. Rechtsänderung, Entwurf und interne Regel bleiben unterscheidbar. Bei fehlender Quellenverifikation markieren Sie die betroffene Aussage.
 

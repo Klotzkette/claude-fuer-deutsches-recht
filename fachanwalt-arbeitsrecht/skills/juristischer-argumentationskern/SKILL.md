@@ -49,6 +49,18 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
+### 3.2. KI-Einsatz in Personal- und Kündigungsakten
+
+Nutze bei vertiefter Prüfung den [Fachskill](../ki-einfuehrung-qualifizierung-kuendigung/SKILL.md). Im Einzelprompt bearbeite die Kernfragen direkt. Sichere Zweck, Weisung und Bekanntgabe, Datenfluss, maßgebliche Eingabe und Ausgabe, menschliche Freigabe, Schulungsstand und Prüfzeit. Prüfe unter Paragraf 106 GewO die konkrete Weisung und nach Paragraf 611a, Paragraf 613 und Paragraf 241 Absatz 2 BGB die geschuldete Eigenleistung und zumutbare Kontrolle. Stelle individuelle Verantwortung, Organisationsbeitrag und anwendbare Aufsichtspflicht gesondert dar. Beim Vorstand einer AG prüfe Legalität und Organisation nach Paragraf 93 Absatz 1 Satz 1 AktG und den Entscheidungsspielraum auf angemessener Informationsgrundlage nach Satz 2. Unabhängigen fachkundigen Rechtsrat und ein KI-Ergebnis getrennt würdigen. Bei Paragraf 130 OWiG Inhaberpflicht, konkrete Zuwiderhandlung, schuldhaft unterlassene Aufsicht und deren mögliche Wirkung nachweisen.
+
+Trenne fehlerhafte Ausgabe, konkrete Pflichtverletzung, Vorwerfbarkeit, Wiederholungsgefahr und milderes Mittel. Sichere bei vertraulichen Uploads Datenart, Übertragungsnachweis, Anbieterzugriff und einschlägige Weisung. Datenschutzvorfall und arbeitsrechtliche Folgen getrennt prüfen. Bei Paragraf 626 BGB eigenständige Interessenabwägung, Zweiwochenfrist und Anhörung nach Paragraf 102 BetrVG bearbeiten. BAG, Urteil vom 24.03.2011, 2 AZR 282/10, Rn. 22 bis 31, hilft bei der Gewichtung einer vergleichbaren Pflichtverletzung. Der dortige Datenträgerfall entscheidet keinen KI-Upload. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-282-10/)
+
+Bei KI-bedingtem Abbau belege den dauerhaften Tätigkeitswegfall samt verbleibender Kontrollarbeit. Vergleiche konkrete freie Stellen im selben Unternehmen einschließlich solcher, die bis Fristende frei werden. Prüfe Einarbeitung, zumutbare Qualifizierung und Weiterbeschäftigung zu geänderten Bedingungen nach Paragraf 1 Absatz 2 KSchG. Lege die abgestufte Darlegung und die Sozialauswahl gesondert dar. BAG, Urteil vom 29.08.2013, 2 AZR 721/12, Rn. 15 bis 22, setzt eine tatsächlich mögliche Weiterbeschäftigung voraus. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-721-12/)
+
+Für Beteiligung prüfe Paragraf 90 BetrVG in der Planung, Paragraf 87 und 95 bei Technik und Auswahl sowie Paragraf 97 Absatz 2 bei arbeitgeberseitig veranlasster Tätigkeitsänderung mit Qualifikationsdefizit. Paragraf 98 erfasst die Durchführung. Prüfe konkrete Betriebsänderung nach Paragraf 111 Satz 3 Nummer 4 und 5 und trenne Interessenausgleich von Sozialplan nach Paragraf 112 und 112a BetrVG. BAG, Beschluss vom 22.03.2016, 1 ABR 12/14, Rn. 16 bis 29, bewertet tatsächliche Änderungen und ihre Bedeutung. [Amtlicher Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-12-14/)
+
+Für Beschäftigtenscoring prüfe Artikel 22 DSGVO und Artikel 6 mit Anhang III Nummer 4 KI-VO getrennt. Prüfe Einfluss des Ergebnisses und echte Übersteuerungsmöglichkeit. Artikel 4 KI-VO verlangt seit 27.07.2026 kontextbezogene Kompetenzmaßnahmen. Artikel 26 Absatz 7 ist bei Hochrisiko-KI im Beschäftigungskontext grundsätzlich ab 02.12.2027 anzuwenden. Prüfe Übergang nach Artikel 111 und aktuell geltendes BetrVG sowie DSGVO gesondert. [Amtliche KI-VO](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf)
+
 ## 4. Normenanker
 
 4.1. BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.

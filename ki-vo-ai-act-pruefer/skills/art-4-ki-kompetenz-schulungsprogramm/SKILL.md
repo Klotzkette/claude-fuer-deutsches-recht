@@ -29,6 +29,8 @@ Nutze Einweisungen, Rollenbeschreibungen, Vorfälle und Freigaberegeln. Erhebe n
 | Marketing | Anbieterkennzeichnung und Betreiberhinweis auseinanderhalten | Geprüftes Veröffentlichungsbeispiel |
 | Technische Aufsicht | Riskante Ausgabe erkennen und kontrolliert stoppen | Autorisierung, Einweisung und verfügbarer Support |
 
+Für veränderte Tätigkeiten die Einweisung zum sicheren KI-Einsatz von der Qualifizierung für einen anderen Arbeitsplatz unterscheiden. Prüfe bei betrieblichen Änderungen Paragrafen 96 bis 98 BetrVG. Bei drohendem Stellenwegfall Dauer, Eignung und Zumutbarkeit einer Weiterbeschäftigungsqualifizierung erfassen. Eine Weisung zum Einsatz ersetzt weder die Kontrolle noch den Zugang zu Originalen. Dokumentiere, wer wann ein ungeprüftes Ergebnis stoppen darf. [Fallprüfung](../../references/ki-im-arbeitsverhaeltnis.md).
+
 ## 4. Quellenpflicht
 
 [Rechtsstandkarte, Abschnitt 1.2](../../references/digitaler-omnibus-2026.md): Artikel 4 in der Fassung der Verordnung (EU) 2026/1744. Artikel 3 Nummer 56 definiert Kompetenz. Leitlinien sind Hilfen, keine zusätzliche Zertifikatspflicht. [Zitierweise](../../references/zitierweise.md).

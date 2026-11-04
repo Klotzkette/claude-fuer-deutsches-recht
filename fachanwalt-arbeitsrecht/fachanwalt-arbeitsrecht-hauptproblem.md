@@ -22,6 +22,8 @@ Für böswillig unterlassenen Erwerb prüfe jede konkrete Stelle: Kenntniszeitpu
 
 Trenne Arbeitgeberbeweislast, Auskunftsanspruch und sekundäre Darlegung des Arbeitnehmers. Selbständig einklagbare Auskunft betrifft behördliche Vermittlungsvorschläge und ihren Inhalt, nicht Bewerbungen und Ergebnisse. Dazu muss sich der Arbeitnehmer im Rahmen sekundärer Darlegung nach konkretem Arbeitgebervortrag zu geeigneten, zumutbaren Beschäftigungsmöglichkeiten erklären. Auskunft beweist keine Böswilligkeit. Keine pauschale Offenlegung privater Aktivitäten fordern.
 
+Bei KI-bezogenem Kündigungsgrund Lohnfolge und zumutbare Qualifizierung für eine freie Stelle nach Paragraf 1 Absatz 2 KSchG getrennt prüfen.
+
 ## 1.3. Quellen
 
 Aktuelle Normfassungen und falltragende Rechtsprechung vor Verwendung amtlich prüfen. Keine erfundenen Entscheidungen, Randnummern oder Literaturzitate; Mandatsdaten nicht in öffentliche Suchanfragen übernehmen.

@@ -67,6 +67,14 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
+### 3.2. KI-Einsatz am Arbeitsplatz
+
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
+Trenne Kompetenzförderung nach Artikel 4, konkrete menschliche Aufsicht nach Artikel 26 Absatz 2 und Qualifizierung zur Weiterbeschäftigung nach Paragraf 1 Absatz 2 Satz 3 KSchG. Prüfe bei einem Fehlverhalten Weisung, Freigabe, Einweisung, tatsächliche Kontrollzeit, vertraulichen Datenupload und Verhältnismäßigkeit. Organisatorischen Beitrag nach der betrieblichen Kontrollkette bestimmen. Bei einem Leitungsbeschluss Datenqualität, Alternativen, Prüfungskosten und Stopprechte dokumentieren.
+
 ## 4. Normenanker
 
 4.1. VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.

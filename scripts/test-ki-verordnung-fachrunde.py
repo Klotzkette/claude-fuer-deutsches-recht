@@ -41,6 +41,14 @@ from testakte_zip_common import working_dump_archive_pairs
 ROOT = Path(__file__).resolve().parents[1]
 VERSION = '445.35.2'
 TAG = 'ki-verordnung-v' + VERSION
+# Die veröffentlichte Fachrunde bleibt am ursprünglichen Tag prüfbar.
+# Im Hauptzweig haben diese drei Einzelpakete einen eigenen Nachfolger.
+EMPLOYMENT_SUCCESSORS = {
+    'ki-governance', 'ki-verordnung-hochrisiko-pruefer', 'ki-vo-ai-act-pruefer',
+}
+EMPLOYMENT_TAG = 'ki-arbeit-reskilling-v445.35.4'
+EMPLOYMENT_VERSION = '445.35.4'
+
 SCOPE_PATH = ROOT / 'scripts/data/ki-verordnung-release-scope.json'
 QUALITY = ROOT / 'quality/ki-verordnung-2026-10-09'
 SPECIALISTS = (
@@ -114,16 +122,19 @@ class FachrundeTests(unittest.TestCase):
                 self.assertIn(slug, self.entries)
                 entry = self.entries[slug]
                 directory = self.release.plugin_directory(slug)
-                self.assertEqual(entry['version'], VERSION)
+                expected_version, expected_tag = (
+                    (EMPLOYMENT_VERSION, EMPLOYMENT_TAG) if slug in EMPLOYMENT_SUCCESSORS else (VERSION, TAG)
+                )
+                self.assertEqual(entry['version'], expected_version)
                 manifest = read_json(directory / '.claude-plugin/plugin.json')
                 self.assertEqual(manifest['name'], slug)
-                self.assertEqual(manifest['version'], VERSION)
+                self.assertEqual(manifest['version'], expected_version)
                 codex = directory / '.codex-plugin/plugin.json'
                 if codex.exists():
                     self.assertEqual(read_json(codex)['name'], slug)
-                    self.assertEqual(read_json(codex)['version'], VERSION)
+                    self.assertEqual(read_json(codex)['version'], expected_version)
                 validate_plugin_version(entry, self.marketplace['version'], root=ROOT)
-                self.assertTrue(plugin_asset_url(slug, root=ROOT).endswith(f'/{TAG}/{slug}.zip'))
+                self.assertTrue(plugin_asset_url(slug, root=ROOT).endswith(f'/{expected_tag}/{slug}.zip'))
         for slug in self.scope['cases']:
             for suffix in ('', '-einzelpdfs'):
                 self.assertTrue(case_asset_url(slug, suffix, root=ROOT).endswith(f'/{TAG}/testakte-{slug}{suffix}.zip'))
@@ -229,7 +240,8 @@ class FachrundeTests(unittest.TestCase):
                               mock.call('komponente', [], 'v' + VERSION)])
         for slug in self.scope['plugins']:
             text = (ROOT / 'skills-index' / f'{slug}.md').read_text(encoding='utf-8')
-            self.assertIn(f'Stand `v{VERSION}`', text, slug)
+            expected_version = EMPLOYMENT_VERSION if slug in EMPLOYMENT_SUCCESSORS else VERSION
+            self.assertIn(f'Stand `v{expected_version}`', text, slug)
 
     def test_official_source_archives(self):
         sources = read_json(QUALITY / 'quellen/quellen.json')

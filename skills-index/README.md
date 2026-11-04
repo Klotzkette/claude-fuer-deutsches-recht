@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23390 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23391 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -110,7 +110,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### F
 
 - [fachanwalt-agrarrecht](./fachanwalt-agrarrecht.md) (79 Skills)
-- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (107 Skills)
+- [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (108 Skills)
 - [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (88 Skills)
 - [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (123 Skills)
 - [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (32 Skills)

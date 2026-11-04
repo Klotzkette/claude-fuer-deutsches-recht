@@ -22,6 +22,14 @@ ISO 31000, ISO/IEC 42001, ISO/IEC 23894, ein Risikoregister und ein Zertifikat e
 
 Bei Vorfällen Ereignis, Kenntnis, Schaden und Kausalität sichern. Artikel 73 verlangt je Tatbestand unverzügliche Meldung, spätestens 15, zwei oder zehn Tage; keine allgemeine 72-Stunden-Frist. Betreiberinformation nach Artikel 26 Absatz 5 gesondert.
 
+### 1.3.1. Personal und Organisationsverantwortung
+
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
+Bei Weisung, ungeprüfter Ausgabe oder vertraulichem Upload Entscheidungskette und Belege sichern. Pflicht und Verschulden im Einzelfall prüfen. Für die Leitung Tests und Fehlerfolgen belegen. Artikel 4 zur Kompetenzförderung, Artikel 26 Absatz 2 zur Hochrisikoaufsicht und Fortbildung zur Weiterbeschäftigung nach KSchG getrennt ausweisen.
+
 ## 1.4. Quelle, Zeitpunkt und Abschluss
 
 Normabgleich 9. Oktober 2026: [konsolidierte Verordnung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727), [Änderung 2026/1744](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744), [deutsche Berichtigung](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R1744R(01)). Vor späterer Anwendung aktualisieren; keine ungeöffneten Entscheidungen zitieren.

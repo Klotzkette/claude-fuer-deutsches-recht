@@ -35,6 +35,10 @@ Prüfen Sie Artikel 50 zusätzlich nach Funktion und Rolle; ein Hochrisiko-Syste
 
 Prüfen Sie GPAI auf Modellebene. Die Vermutung nach Artikel 51 Absatz 2 knüpft an mehr als 10 hoch 25 FLOP an; Artikel 51/52 enthalten weitere Einstufungs- und Verfahrensregeln. Eine lokale Installation eines fremden Modells belegt keine eigene Modellanbieterrolle. Modellpflichten, Systempflichten und Datenschutz können nebeneinander bestehen.
 
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
 ### 3.3. Folgenabschätzungen und Nachweise
 
 Eine FRIA nach Artikel 27 betrifft die genannten öffentlichen Einrichtungen, privaten Erbringer öffentlicher Dienstleistungen und Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b/c; Nummer 2 ist ausgenommen. Öffentliche Finanzierung allein und eine beliebige private Personalabteilung erfüllen den Adressatenkreis nicht. Die DSFA nach Artikel 35 DSGVO separat begründen; einschlägige vorhandene Teile können nach Artikel 27 Absatz 4 einbezogen werden.

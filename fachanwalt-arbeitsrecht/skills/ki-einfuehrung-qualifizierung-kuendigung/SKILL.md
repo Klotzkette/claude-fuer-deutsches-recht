@@ -1,0 +1,68 @@
+---
+name: ki-einfuehrung-qualifizierung-kuendigung
+description: "Prüft Weisung, Ergebniskontrolle, Vertraulichkeit, Beteiligung und Qualifizierung beim KI-Einsatz. Erstellt Betriebsratsvorlage, Qualifizierungsplan oder Entwurf zur Abmahnung oder Kündigung mit Aktenbelegen."
+---
+
+# KI-Einführung, Qualifizierung und Kündigung
+
+## 1 Zweck und Anwendungsfall
+
+Bearbeite die bestellte arbeitsrechtliche Entscheidung. Bestimme, ob es um Planung und Einführung, den Umgang mit einem konkreten Ergebnis oder eine Personalmaßnahme geht. Sichere den frühesten vertretbaren Fristablauf, wenn bereits eine Kündigung zugegangen ist. Trenne Arbeitgeber, Betriebsrat und Beschäftigte, die möglicherweise unterschiedliche Aufträge und Informationsrechte haben.
+
+## 2 Eingaben
+
+Lies Vertrag, Tätigkeitsprofil, Tarifvertrag, Betriebsvereinbarung, Nutzungsweisung mit Versionsstand und Bekanntgabe, Schulungsunterlagen, Systembeschreibung, Freigabeprotokoll und die für den Auftrag relevanten Originale. Sichere beim Fehler den tatsächlichen Eingabe- und Ausgabeweg, Modellversion, belegte Bearbeitungszeit, Kenntnisstand und Korrekturen. Bei geplantem Personalabbau ziehe Organbeschluss, Vorher-Nachher-Aufgabenplan, Reststunden, Stellenbestand, Ausschreibungen, Qualifikationen, Fortbildungsangebote und Betriebsratsunterlagen heran. Fordere nur entscheidende Belege nach und arbeite parallel am bestellten Entwurf weiter.
+
+## 3 Ablauf
+
+### 3.1 Weisung, Leistungsmaßstab und Organisation
+
+Prüfe, ob ein Tool als Arbeitsmittel erlaubt, wirksam vorgegeben oder untersagt wurde. Ordne die Weisung dem Vertrag, Paragraf 106 GewO, Paragraf 315 BGB, Tarifrecht, Betriebsvereinbarung und zwingendem Recht zu. Wäge arbeitsbezogenen Nutzen, Datenschutz, Zugänglichkeit, Arbeitsschutz, bereitgestellten Zugang und Einweisung ab. Eine günstige Pilotkennzahl begründet keine allgemeine KI-Nutzungspflicht. Prüfe die Verbindlichkeit der konkreten Weisung und ob eine Sanktion auf deren Befolgung oder Verletzung gestützt wird.
+
+Kläre nach Paragraf 611a, Paragraf 613 und Paragraf 241 Absatz 2 BGB, welche persönliche Tätigkeit geschuldet war, ob der Beschäftigte das Tool als Hilfsmittel unter eigener Kontrolle nutzte und welche eigenständige Prüfung für genau dieses Ergebnis geboten und zumutbar war. Berücksichtige Bedeutung des Outputs, erkennbare Fehler, Fachkenntnis, Weisung, Arbeitsmenge, Freigabekette und Zugang zu Vergleichsquellen. Unterscheide Textentwurf, Quellenabgleich, fachliche Entscheidung und externe Freigabe. Rekonstruiere, was der Mensch tatsächlich geändert, geprüft oder bewusst übernommen hat.
+
+Stelle die Organisationsseite gesondert dar. Dokumentiere Aufgabenverteilung, verbindliche Prüfzeit, funktionierende Alternativen, Eskalationsweg, Zugriff und rollenbezogene Maßnahmen zur KI-Kompetenz. Fasse eine Pflichtlücke des Arbeitgebers als möglichen Beitrag zu Fehler, Erkennbarkeit, Verschulden, Prognose und Verhältnismäßigkeit. Prüfe mögliche parallele Verantwortung anhand konkreter Pflichten. Beim Vorstand einer AG trenne Legalität und Organisation nach Paragraf 93 Absatz 1 Satz 1 AktG vom Entscheidungsspielraum bei unternehmerischen Entscheidungen auf angemessener Informationsgrundlage nach Satz 2. Ein Modelloutput ersetzt keine unabhängige fachkundige Rechtsberatung nach den Maßstäben des ISION-Urteils. Paragraf 130 OWiG verlangt eine straf- oder bußgeldbewehrte Zuwiderhandlung gegen eine Inhaberpflicht, die erforderliche, schuldhaft unterlassene Aufsicht und deren mögliche Verhinderungs- oder Erschwerungswirkung. Ermittle Pflichtadressat und Zuwiderhandlung separat.
+
+### 3.2 Halluzination, Upload und Sanktion
+
+Belege den Vorwurf anhand der Originale. Vergleiche halluzinierte Aussagen mit der tatsächlich verfügbaren Quelle. Bei vermuteter Datenoffenlegung trenne Browserzugriff, Textübertragung, Dateiupload, Verarbeitung beim Anbieter und späteren Zugriff. Prüfe konkrete Vertraulichkeit, Geheimnisschutz nach Paragraf 2 Nummer 1 und Paragraf 4 GeschGehG, personenbezogene Daten, Verarbeitungskonfiguration, Unterrichtung und vorhandene technische Sperren. Bewahre Belege rechtmäßig und auf das Erforderliche begrenzt. Datenschutzvorfall, Meldung nach Artikel 33 und 34 DSGVO, interne Eindämmung und arbeitsrechtliche Sanktion haben eigene Voraussetzungen.
+
+Prüfe bei einer Tatkündigung nach Paragraf 1 Absatz 2 KSchG Pflichtverletzung, Vorwerfbarkeit, negative Prognose und mildere Mittel. Ordne eine fehlende Fähigkeit gesondert als möglichen personenbedingten Sachverhalt ein. Bei Verdacht prüfe ergebnisoffene Aufklärung, Verdachtsgrad, Gewicht und vorherige Anhörung des Beschäftigten. Eine Abmahnung muss den tatsächlichen Vorwurf konkret rügen und für Wiederholung Folgen androhen. Prüfe einschlägige frühere Warnung, Wirksamkeit von Anleitung, geeigneten Einsatz und weitere milde Mittel. Bei Paragraf 626 BGB prüfe wichtigen Grund, konkrete Interessenabwägung und getrennt die Zweiwochenfrist ab maßgeblicher Kenntnis der kündigungsberechtigten Stelle. Führe Beweisangebot und Verwertbarkeitsprüfung getrennt. Behandle Paragraf 102 BetrVG, Schriftform, Zugang und Klagefrist je Erklärung.
+
+### 3.3 Stellenwegfall und Qualifizierung
+
+Vergleiche Aufgaben, Restbedarf und Kapazität am voraussichtlichen Ende der Kündigungsfrist auf der Grundlage der bei Zugang möglichen Prognose. Untersuche reale und dauerhafte Umsetzung, zusätzliche Kontrollarbeit, Fehlernachbearbeitung, Schichtdeckung und Ausnahmen. Verlange die Berechnung mit Annahmen und Gegenbelegen. Prüfe vor Beendigung Versetzung, konkrete freie oder bis zum Fristende frei werdende Stellen im selben Unternehmen, Einarbeitung, zumutbare Fortbildung oder Umschulung und gegebenenfalls geänderte Arbeitsbedingungen nach Paragraf 1 Absatz 2 KSchG. Dokumentiere Stellenanforderung, vorhandene Kenntnisse, konkrete Maßnahme, Platz, Beginn, Dauer, Kosten, Erfolgsaussicht, Eignung und Bereitschaft. Prüfe gegebenenfalls ein Änderungsangebot und Paragraf 2 KSchG. Aus der Prüfung folgt keine allgemeine Pflicht zur Schaffung eines Arbeitsplatzes oder Finanzierung eines beliebigen Abschlusses. Andere Konzernrechtsträger nur bei konkret belegter rechtlicher oder vertraglicher Ausnahme einbeziehen.
+
+Trenne die abgestufte Darlegung zur Weiterbeschäftigung von der Sozialauswahl nach Paragraf 1 Absatz 3 KSchG. Stelle vergleichbare Arbeitsplätze, Versetzbarkeit, vier Sozialdaten und mögliche berechtigte betriebliche Interessen dar. Sichere gegebenenfalls Sonderkündigungsschutz, Paragraf 102 BetrVG und die eigenständigen Verfahren nach Paragraf 17 KSchG. Prüfe Paragraf 111 GewO bei einer nach Gesetz, Tarifvertrag oder Betriebsvereinbarung geschuldeten, arbeitsnotwendigen Fortbildung, insbesondere Kosten und Arbeitszeit.
+
+### 3.4 Beteiligung, Personaldaten und Hochrisiko-Systeme
+
+Prüfe den zuständigen Betriebsrat und seine frühzeitige Unterrichtung und Beratung nach Paragraf 90 BetrVG über den tatsächlichen Arbeitsablauf einschließlich KI. Trenne sachverständige Unterstützung nach Paragraf 80 Absatz 3, Mitbestimmung bei Betriebsordnung und objektiv zur Leistungs- oder Verhaltensüberwachung geeigneter Technik nach Paragraf 87 Absatz 1 Nummer 1 und 6, KI-unterstützte Auswahlrichtlinien nach Paragraf 95 Absatz 2a und konkrete personelle Maßnahmen nach Paragraf 99 BetrVG. Berücksichtige bei Berufsbildung Bedarf und Beratung nach Paragraf 96 und Paragraf 97 Absatz 1. Prüfe bei vom Arbeitgeber veranlasster Tätigkeitsänderung mit nachgewiesener Qualifikationslücke die Einführung nach Paragraf 97 Absatz 2 und die Durchführung nach Paragraf 98 BetrVG getrennt.
+
+Ermittle bei Paragraf 111 BetrVG die Unternehmensschwelle, den Betriebsbezug und den konkreten qualitativen Wechsel der Organisation oder Arbeitsmethoden. Betroffenenzahl und mögliche wesentliche Nachteile sind anhand von Aufgaben, Entgelt, Standort und Beschäftigung zu würdigen. Trenne Interessenausgleich über die Planung und den Ablauf, Sozialplan zum Ausgleich oder zur Milderung wirtschaftlicher Nachteile, Grenzen der Erzwingbarkeit nach Paragraf 112a und möglichen Nachteilsausgleich nach Paragraf 113 BetrVG. Entwirf auf Auftrag konkrete Qualifizierungsleistungen, Auswahlkriterien, Freistellung, Kosten, Zugang, Ersatzangebote und Wirksamkeitskontrolle.
+
+Prüfe Verwendungszweck und tatsächlichen Einsatz für Einstellung, Beförderung, Beendigung, verhaltensbezogene Aufgabenzuteilung oder Leistungs- und Verhaltensbewertung nach Artikel 6 Absatz 2 und Anhang III Nummer 4 KI-VO. Würdige eine Ausnahme nach Artikel 6 Absatz 3 eng und das Rückausnahme-Kriterium Profiling. Lege für Artikel 4 und Artikel 26 eine eigene Stichtagsprüfung an. Seit dem 27. Juli 2026 verlangt Artikel 4 geeignete Maßnahmen zur Unterstützung der Kompetenzentwicklung unter Berücksichtigung von Erfahrung, Kontext und betroffenen Personen. Ein festes individuelles Kompetenzniveau ist nicht zu garantieren. Die Pflichten aus Kapitel III Abschnitte 1 bis 3 für Anhang-III-Systeme gelten grundsätzlich ab 2. Dezember 2027. Prüfe Übergangsrecht nach Artikel 111 und informiere nach dem anwendbaren Artikel 26 Absatz 7 die Arbeitnehmervertretungen und betroffenen Arbeitnehmer vor Inbetriebnahme oder Verwendung am Arbeitsplatz. Frühere Pflichten aus BetrVG und DSGVO selbständig prüfen. Eine Information ersetzt keine Zustimmung, Aufsicht oder Datenschutzprüfung.
+
+Prüfe Artikel 5, 6, 9, 13 bis 15, 22 und gegebenenfalls Artikel 35 DSGVO sowie Paragraf 26 BDSG in seinem unionsrechtlichen Rahmen. Zeige anhand tatsächlich geprüfter Fälle, ob die entscheidende Person Informationen nachvollziehen, Kriterien überstimmen und einen anderen Ausgang anordnen konnte. Prüfe maßgebliche Abhängigkeit vom Score, rechtliche oder ähnlich erhebliche Wirkung, Ausnahmen und Schutzmaßnahmen nach Artikel 22. Trenne das vom Hochrisiko-Tatbestand und von der Befugnis zur Nutzung eines Belegs im Prozess. Prüfe Indizien und Beweislast nach Paragraf 22 AGG bei möglicherweise diskriminierenden Kriterien oder Folgen.
+
+## 4 Quellenpflicht
+
+Nutze die [Zitierweise](../../references/zitierweise.md) und prüfe Fassungen und Anwendbarkeit am jeweiligen Ereignistag. Primärquellen und Aussagegrenzen:
+
+- Die Grenzen billigen Ermessens bei einer Versetzung erläutert BAG, Urteil vom 18. Oktober 2017, 10 AZR 330/16, Rn. 60 bis 75. Übertrage den Prüfungsmaßstab, nicht die konkrete Versetzung, auf eine Nutzungsweisung. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/)
+- BAG, Urteil vom 24. März 2011, 2 AZR 282/10, Rn. 22 bis 31, beurteilte eine private Festplatte. Ziehe die Maßstäbe zu Weisung, Vertraulichkeit, Risiko und Abmahnung als Vergleich heran. Eine Übertragung an einen externen KI-Anbieter kann anders zu gewichten sein. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-282-10/)
+- BAG, Urteil vom 29. August 2013, 2 AZR 721/12, Rn. 15 bis 22, behandelt konkrete freie Stellen, Qualifizierung und abgestufte Darlegung. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-721-12/)
+- BAG, Beschluss vom 22. März 2016, 1 ABR 12/14, Rn. 16 bis 29, prüft die konkrete Umsetzung eines Optimierungssystems für Paragraf 111 Satz 3 Nummer 4 und 5 BetrVG. Der Maßstab lässt sich auf die Einführung von KI anwenden. [Volltext](https://www.bundesarbeitsgericht.de/entscheidung/1-abr-12-14/)
+- BGH, Urteil vom 20. September 2011, II ZR 234/09, Rn. 18, betrifft qualifizierte unabhängige Rechtsberatung und deren Plausibilitätskontrolle. Eine Entscheidung über KI-Einsatz folgt daraus nicht unmittelbar. [Urteilstext](https://www.dnoti.de/download/?cHash=38d22af89bbce59876607466b27a776b&tx_dnotionlineplusapi_download%5Bnodeid%5D=22c02ebc-bc7a-47da-9a48-4f153cfe6c74)
+- EuGH, Urteil vom 7. Dezember 2023, C-634/21, Rn. 43 bis 50 und 73, beurteilt Scoring bei maßgeblicher Abhängigkeit der Folgeentscheidung. Der Beschäftigungskontext und die menschliche Einflussnahme sind gesondert zu würdigen. EuGH, Urteil vom 19. Dezember 2024, C-65/23, Rn. 44 bis 61, verlangt auch bei einer Kollektivvereinbarung die Einhaltung der Datenschutzanforderungen und umfassende gerichtliche Kontrolle der Erforderlichkeit. [Scoring](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62021CJ0634) · [Beschäftigtendaten](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0065)
+- [Konsolidierte KI-Verordnung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/deu/pdf) und [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/deu), insbesondere Artikel 1 Nummer 5 und 40.
+
+## 5 Ausgabeformat
+
+Liefere den konkret bestellten Freigabevermerk, Regelungsentwurf, Qualifizierungsplan, Betriebsratsentwurf oder Schriftsatz mit Aktenfundstellen. Führe intern Pflichteninhaber, belegte Handlung, Gegenindiz, offene Tatsache, Beweislast, Rechtsfolge und nächsten Schritt zusammen. Markiere offen, was vor einer Freigabe oder Einreichung fehlt. Verwende vollständige, ausformulierte Sätze und verwerfe skelettartige Ausgaben. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung.
+
+## 6 Beispiele
+
+Bei einem KI-Ticket mit falscher Quellenangabe stelle Original und Ausgabe gegenüber. Ordne dem Beschäftigten die zugängliche Kontrollhandlung und dem Arbeitgeber die tatsächlich gewährte Prüfzeit zu. Entwirf die bestellte Stellungnahme anhand der belegten Abweichung und der konkret möglichen Abhilfe.
+
+Bei der automatisierten Auftragssteuerung prüfe anhand des Sollprozesses und der verbleibenden Kontrollarbeit, welche Stellen tatsächlich entfallen. Beziehe eine nach Schulung erreichbare freie Stelle samt Stellen-ID, Kursbeginn und Freistellung in den Weiterbeschäftigungsantrag oder die Entscheidungsunterlage ein.

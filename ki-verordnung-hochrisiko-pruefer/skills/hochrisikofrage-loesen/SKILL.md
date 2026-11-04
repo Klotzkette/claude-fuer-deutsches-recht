@@ -42,6 +42,8 @@ Produktpfad und Anhang-III-Pfad getrennt, bei Überschneidung beide prüfen. Abs
 
 Ein Ausnahmebefund erzeugt als Anbieterfolge die dokumentierte Bewertung nach Artikel 6 Absatz 4 und die gesonderte Prüfung nach Artikel 49 Absatz 2. Ein Produktbefund erzeugt den passenden produktrechtlichen Nachweispfad. Artikel 9 betrifft das fortlaufende Risikomanagement des Systems, Artikel 17 das Qualitätsmanagement des Anbieters. Eine organisationsweite Richtlinie ersetzt keines von beiden. FRIA nach Artikel 27 ist ein besonderer Betreiberpfad, keine allgemeine Pflicht jedes Anwenders und kein Ersatz für die Einstufung.
 
+Bei Personalentscheidungen den Entscheidungsverlauf bis zur Übernahme und mögliche Übersteuerung belegen. Bei anwendbarem Hochrisikoregime muss der betreibende Arbeitgeber nach Artikel 26 Absatz 7 betroffene Beschäftigte und Arbeitnehmervertretung vor Inbetriebnahme oder Verwendung informieren. Für Anhang III grundsätzlich ab 02.12.2027. Artikel 111 Absatz 2 beim Bestand prüfen. Für einen Einführungsbeschluss Beteiligung nach BetrVG, Kompetenzförderung nach Artikel 4 und befugte Aufsicht nach Artikel 26 Absatz 2 als eigene Aufgaben terminieren.
+
 ### 3.4 Rückfragen in Dokumentarbeit übersetzen
 
 Jede Rückfrage nennt, warum ihre Antwort das Ergebnis ändern kann. Beispiel: „Welche Informationen sieht die Richterin, bevor sie den Vorschlag übernimmt, und kann sie die ausgeblendeten Akten ohne weiteres öffnen?“ Eine fehlende Antwort führt zu einer bezeichneten Bedingung oder begründeten vorläufigen Nutzungsempfehlung, nicht zur Erfindung einer technisch wirksamen Kontrolle.

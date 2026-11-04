@@ -27,6 +27,8 @@ Kontrollierte Eingabedaten auf Relevanz und ausreichende Repräsentativität fü
 
 Arbeitnehmervertretung und betroffene Beschäftigte nach Absatz 7 sowie betroffene natürliche Personen nach Absatz 11 auseinanderhalten. Die Anweisung enthält einen benannten Meldeweg, Vertretung und Befugnis zur Unterbrechung. Artikel 26 Absatz 5 nicht mit dem Anbieterbericht nach Artikel 73 verwechseln. Nach neuem Anbieterhinweis nur die betroffenen Arbeitsabläufe und den bereits bestellten Entwurf ändern; keine erneute vollständige Mandatsaufnahme.
 
+Für Artikel 26 Absatz 7 die Vorabinformation beider Gruppen samt Version, Inhalt, Empfängern und Zustellung nachweisen. Für Anhang-III-Systeme grundsätzlich ab 02.12.2027, mit Bestandsprüfung nach Artikel 111 Absatz 2. Artikel 26 Absatz 11 kann Bewerbende und weitere unmittelbar betroffene Personen betreffen. Ein Schreiben an den Betriebsrat erfüllt weder die Information der Beschäftigten noch eine erforderliche Mitbestimmung. Bereits vor dem KI-rechtlichen Anwendungsbeginn sind die einschlägigen Beteiligungsrechte nach BetrVG zu prüfen.
+
 ### 3.4 Agentenkette tatsächlich beherrschen
 
 Legen mehrere Agenten Bewerberdaten ab, bewerten sie und versenden Absagen, müssen die Eingriffspunkte vor der erheblichen Wirkung liegen. Ein späteres Dashboard oder Not-Aus ersetzt keine echte Einzelfallprüfung. Artikel 22 DSGVO einschließlich Ausnahmen gesondert prüfen. Erlaubte Werkzeuge, Empfänger und Rechte außerhalb des Sprachmodells begrenzen; eine frei formulierte Systemanweisung allein ist keine technische Zugriffssperre.

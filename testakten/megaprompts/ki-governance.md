@@ -74,6 +74,14 @@ Die These ist nur belastbar, wenn die folgende Kette ohne Sprung funktioniert:
 
 Ordne für jeden Tabellenpunkt eine konkrete Tatsache, Fundstelle, Beweislast, Gegenposition und Rechtsfolge zu. Ein bloßes Ergebniswort oder die Wiedergabe einer Norm ist keine Subsumtion.
 
+### 3.2. KI-Einsatz am Arbeitsplatz
+
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
+Trenne Kompetenzförderung nach Artikel 4, konkrete menschliche Aufsicht nach Artikel 26 Absatz 2 und Qualifizierung zur Weiterbeschäftigung nach Paragraf 1 Absatz 2 Satz 3 KSchG. Prüfe bei einem Fehlverhalten Weisung, Freigabe, Einweisung, tatsächliche Kontrollzeit, vertraulichen Datenupload und Verhältnismäßigkeit. Organisatorischen Beitrag nach der betrieblichen Kontrollkette bestimmen. Bei einem Leitungsbeschluss Datenqualität, Alternativen, Prüfungskosten und Stopprechte dokumentieren.
+
 ## 4. Normenanker
 
 4.1. VO (EU) 2024/1689 Art. 2 und Art. 3: Anwendungsbereich, Rollen und zentrale Begriffe.
@@ -146,6 +154,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 11.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 11.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
 11.7. Ist das Ergebnis unmittelbar als Kurzvermerk, Prüfmatrix, Entwurf, Antrag, Entscheidungsvorschlag oder Fristenblatt verwendbar?
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -217,6 +226,8 @@ Lies Anspruchsschreiben, Vertrag, Aufgabenfreigabe, System- und Werkzeugversione
 6. Leitungsentscheidung an Paragraf 93 AktG oder Paragraf 43 GmbHG messen. Wirtschaftliche Risikobereitschaft erlaubt keine bewusste Missachtung geltender Verbote. Ein begrenzter Pilot braucht zulässigen Zweck, begrenzte Zugriffe, wirksame Unterbrechung und erneute Prüfung bei Änderungen. Dokumentierte Bemühungen garantieren weder Haftungsfreiheit noch behördlichen Verzicht.
 7. Nach neuen Protokollen Anspruchszuordnung und Deckungsanfrage fortschreiben. Beweismittel kontrolliert sichern; personenbezogene Vollprotokolle nicht unbegrenzt auf Vorrat sammeln. Keine Anerkenntnisse, Zahlungen oder Meldungen eigenmächtig abgeben.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 [BGB](https://www.gesetze-im-internet.de/bgb/), [Paragraf 93 AktG](https://www.gesetze-im-internet.de/aktg/__93.html), [Paragraf 43 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__43.html), Artikel 82 DSGVO und [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de). EuGH, Urteil vom 04.05.2023, C-300/21, Randnummern 32 bis 51: Datenschutzverletzung allein genügt nicht für Ersatz; keine zusätzliche Erheblichkeitsschwelle für den Schaden. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Kein Urteil über das neue Produkthaftungsrecht. Prüfstand 2. Oktober 2026; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/zitierweise.md).
@@ -255,6 +266,8 @@ Lies Leistungsbeschreibung, Anbieterkennzeichnung, Konfiguration, Änderungsverl
 6. Benenne einen betrieblichen Verantwortlichen mit Vertretung, Eingriffsrecht und erreichbarem Meldeweg. Bei Agenten getrennte Lese-, Schreib- und Versandbefugnisse sowie wirksame Unterbrechung aller delegierten Aufträge vorsehen. Vor irreversiblen Handlungen konkrete Freigabe; Änderungsprüfung bei neuen Werkzeugen, Empfängern und Zwecken.
 7. Zuständigkeit nach KI-MIG und sektoralen Regeln bestimmen, Datenschutzaufsicht separat. Keine allgemeine Frist aus dem Rollenmodell ableiten: insbesondere Artikel 73 kennt nach Ereignis unterschiedliche Fristen; sein Vorfallworkflow ist gesondert zu prüfen. Nach Antwort die Rollenentscheidung samt Vertrags- oder Organisationsänderung fertigstellen.
 
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
+
 ## 4. Quellenpflicht
 
 Artikel 3, 25, 26, 111 und 113 der [Verordnung (EU) 2024/1689 in geltender Fassung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de). Der amtliche Service Desk weist bei geänderten Vorschriften teilweise selbst auf nicht aktualisierte Darstellungen hin; dann konsolidierten Text und Änderungsrechtsakt abgleichen. Prüfstand 2. Oktober 2026; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/zitierweise.md).
@@ -291,6 +304,8 @@ Zweckbeschreibung, tatsächliche Nutzung, betroffene Personen, Beeinflussungsmec
 4. Betreiber: konkrete zweckgerichtete Nutzung feststellen. Nicht jede Mehrzwecksoftware wegen abstrakter Missbrauchsmöglichkeit verbieten. Bei gesetzlich geregelten Rechtfertigungen deren Voraussetzungen und nationale Grundlage verifizieren.
 5. Zeitstand beachten: Vor dem neuen Anwendungsdatum andere Straf-, Persönlichkeits- und Jugendschutzregeln nicht als ausgesetzt darstellen. Keine verbotenen Darstellungen für eine Prüfung neu erzeugen.
 6. Wenn kein Verbot: Hochrisiko, Transparenz, Datenschutz und sonstige Fachpflichten anschließend prüfen. Ein negatives Artikel-5-Ergebnis ist keine umfassende Freigabe.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## 4. Quellenpflicht
 
@@ -384,6 +399,10 @@ Prüfen Sie Artikel 50 zusätzlich nach Funktion und Rolle; ein Hochrisiko-Syste
 
 Prüfen Sie GPAI auf Modellebene. Die Vermutung nach Artikel 51 Absatz 2 knüpft an mehr als 10 hoch 25 FLOP an; Artikel 51/52 enthalten weitere Einstufungs- und Verfahrensregeln. Eine lokale Installation eines fremden Modells belegt keine eigene Modellanbieterrolle. Modellpflichten, Systempflichten und Datenschutz können nebeneinander bestehen.
 
+Personalanwendungen nach der konkreten Funktion prüfen. Anhang III Nummer 4 Buchstabe a betrifft Einstellung und Auswahl. Buchstabe b erfasst unter seinen Voraussetzungen Arbeitsbedingungen, Beförderung, Kündigung, personenbezogene Aufgabenverteilung sowie Leistungs- und Verhaltensbewertung. Belege, wer welche Profile sieht, wie Aussortierte erneut geprüft werden und wer abweichen darf. Ein Freigabeklick genügt weder für die Ausnahme nach Artikel 6 Absatz 3 noch als Nachweis tatsächlicher Entscheidungsmacht nach Artikel 22 DSGVO. Profiling sperrt bei Anhang-III-Systemen die Ausnahme. Prüfe beide Rechtsfragen eigenständig.
+
+Artikel 26 Absatz 7 verlangt bei anwendbarem Hochrisikoregime vor Inbetriebnahme oder Verwendung am Arbeitsplatz die Information von Arbeitnehmervertretung und betroffenen Beschäftigten. Für Anhang III grundsätzlich ab 2. Dezember 2027 nach Artikel 113, Bestand nach Artikel 111 Absatz 2. Betriebliche Beteiligung nach Paragrafen 87, 90, 95, 97 und 111 BetrVG hat eigene Voraussetzungen und Termine.
+
 ### 3.3. Folgenabschätzungen und Nachweise
 
 Eine FRIA nach Artikel 27 betrifft die genannten öffentlichen Einrichtungen, privaten Erbringer öffentlicher Dienstleistungen und Betreiber der Systeme nach Anhang III Nummer 5 Buchstaben b/c; Nummer 2 ist ausgenommen. Öffentliche Finanzierung allein und eine beliebige private Personalabteilung erfüllen den Adressatenkreis nicht. Die DSFA nach Artikel 35 DSGVO separat begründen; einschlägige vorhandene Teile können nach Artikel 27 Absatz 4 einbezogen werden.
@@ -397,6 +416,8 @@ Artikel 113 Buchstabe c verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel
 Bestehende Artikel-5-Verbote gelten seit 02.02.2025; neue Buchstaben ba/bb und Absätze 1a/1b ab 02.12.2026. Artikel 111 Absatz 4 enthält nur für Artikel 50 Absatz 2 bei erfassten generativen Alt-Systemen einen Übergang bis 02.12.2026. Artikel 4 neuer Fassung verlangt angemessene Kompetenzmaßnahmen und keine Garantie eines individuellen Niveaus oder ein bestimmtes Zertifikat.
 
 Speichern Sie Feststellung, Beleg, offene Frage, verantwortliche Person und nächsten Schritt. Bei Versions- oder Zweckänderung öffnen Sie genau die betroffenen Weichen erneut. Ohne Beleg bleibt der Punkt offen; ein freiwilliger vorsichtiger Projektstopp ist als organisatorische Entscheidung zu kennzeichnen, nicht als erfundene gesetzliche Einstufung.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## 4. Quellenpflicht
 
@@ -463,6 +484,8 @@ Artikel 113 Buchstabe c verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel
 Bestehende Artikel-5-Verbote gelten seit 02.02.2025; neue Buchstaben ba/bb und Absätze 1a/1b ab 02.12.2026. Artikel 111 Absatz 4 enthält nur für Artikel 50 Absatz 2 bei erfassten generativen Alt-Systemen einen Übergang bis 02.12.2026. Artikel 4 neuer Fassung verlangt angemessene Kompetenzmaßnahmen und keine Garantie eines individuellen Niveaus oder ein bestimmtes Zertifikat.
 
 Speichern Sie Feststellung, Beleg, offene Frage, verantwortliche Person und nächsten Schritt. Bei Versions- oder Zweckänderung öffnen Sie genau die betroffenen Weichen erneut. Ohne Beleg bleibt der Punkt offen; ein freiwilliger vorsichtiger Projektstopp ist als organisatorische Entscheidung zu kennzeichnen, nicht als erfundene gesetzliche Einstufung.
+
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ## 4. Quellenpflicht
 
@@ -830,6 +853,7 @@ Bei multinationaler KI-Nutzung pro Tool/Anbieter eine Schnittstellenmatrix führ
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1263,6 +1287,7 @@ Freigabe: [NAME], [DATUM]
 <!-- END ausformulierungspflicht (autogen) -->
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1311,6 +1336,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Praxis-Tipp
 KI-Werbung vor Veröffentlichung nach Inhalt, Rolle und Medium prüfen. Artikel 50 funktions- und rollenbezogen prüfen. Anbieterkennzeichnung nach Absatz 2 und Betreiber-Offenlegung bei Deepfakes beziehungsweise Texten zu Angelegenheiten öffentlichen Interesses nach Absatz 4 trennen. Künstlerische oder satirische Werke sind nicht pauschal ausgenommen; dort besteht eine angepasste Offenlegungsform. Die redaktionelle Ausnahme betrifft den Textfall. Übergang für bestimmte generative Alt-Systeme nach Artikel 111 Absatz 4 nur bei Absatz 2. Eine zusätzliche UWG-Folge benötigt die jeweiligen Voraussetzungen; keine automatische Abmahnung aus dem bloßen Einsatz von KI ableiten. [amtlicher Text, geprüft 09.10.2026](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02024R1689-20260727)
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1351,6 +1377,7 @@ Das bestellte Dokument in vollständigen Sätzen unter der Nutzerbenennung liefe
 Für einen Kundendienstassistenten fehlt die Antwort des Anbieters zur Speicherung eingegebener Daten. Fordere Datenweg, Empfänger und Löschregel konkret an; nach Antwort Datenschutzbewertung und bestellte Nutzungsrichtlinie aktualisieren. Ungeklärte Nutzung nicht freigeben, unabhängige Entwurfsarbeit aber fortsetzen.
 
 Meldung, Systemabschaltung, Versand und Datenoffenlegung nur nach ausdrücklicher Autorisierung. Ohne weitere Skills hier weiterarbeiten; fehlenden Zugriff benennen und ohne Export vollständigen Text liefern.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1414,6 +1441,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 
@@ -1469,6 +1497,7 @@ KI-Inventar ist auch für Berufsträger relevant (§§ 43e BRAO / 62a StBerG / 5
 
 ## Trade-off
 Schlankes Inventar (Tabelle) ist schnell aufgesetzt, aber ohne Lebenszyklus- und Eskalations-Hooks substanzarm. Vollständige GRC-Tool-Integration (z. B. mit AIA/DPIA-Workflow) ist aufwendig, schafft aber Auditierbarkeit. Pragmatischer Mittelweg: Tabelle + Trigger-Mails bei Klassifizierungsänderung oder neuem Geltungstermin der KI-VO-Stufen.
+Für den KI-bezogenen Teil dieses Arbeitsschritts gilt die [fachbezogene Normen- und Fallprüfung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/ki-normen-und-fallpruefung.md). Verbinden Sie Systemrisiken, Anbieter-QMS, konkrete Betreiberverwendung und Vorfallbearbeitung über gemeinsame Versions- und Zweckangaben. Ein umfassendes Richtlinienpaket ohne ausgeführte Tests beantwortet die materiellen Systemanforderungen nicht. Dokumentieren Sie den Gegenbeleg und übernehmen Sie nur die tatsächlich tragfähige Rechtsfolge in das bestellte Arbeitsprodukt.
 
 ---
 

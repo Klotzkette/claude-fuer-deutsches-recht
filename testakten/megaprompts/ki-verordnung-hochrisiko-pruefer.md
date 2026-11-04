@@ -48,6 +48,8 @@ Kontrollierte Eingabedaten auf Relevanz und ausreichende Repräsentativität fü
 
 Arbeitnehmervertretung und betroffene Beschäftigte nach Absatz 7 sowie betroffene natürliche Personen nach Absatz 11 auseinanderhalten. Die Anweisung enthält einen benannten Meldeweg, Vertretung und Befugnis zur Unterbrechung. Artikel 26 Absatz 5 nicht mit dem Anbieterbericht nach Artikel 73 verwechseln. Nach neuem Anbieterhinweis nur die betroffenen Arbeitsabläufe und den bereits bestellten Entwurf ändern; keine erneute vollständige Mandatsaufnahme.
 
+Für Artikel 26 Absatz 7 die Vorabinformation beider Gruppen samt Version, Inhalt, Empfängern und Zustellung nachweisen. Für Anhang-III-Systeme grundsätzlich ab 02.12.2027, mit Bestandsprüfung nach Artikel 111 Absatz 2. Artikel 26 Absatz 11 kann Bewerbende und weitere unmittelbar betroffene Personen betreffen. Ein Schreiben an den Betriebsrat erfüllt weder die Information der Beschäftigten noch eine erforderliche Mitbestimmung. Bereits vor dem KI-rechtlichen Anwendungsbeginn sind die einschlägigen Beteiligungsrechte nach BetrVG zu prüfen.
+
 ### 3.4 Agentenkette tatsächlich beherrschen
 
 Legen mehrere Agenten Bewerberdaten ab, bewerten sie und versenden Absagen, müssen die Eingriffspunkte vor der erheblichen Wirkung liegen. Ein späteres Dashboard oder Not-Aus ersetzt keine echte Einzelfallprüfung. Artikel 22 DSGVO einschließlich Ausnahmen gesondert prüfen. Erlaubte Werkzeuge, Empfänger und Rechte außerhalb des Sprachmodells begrenzen; eine frei formulierte Systemanweisung allein ist keine technische Zugriffssperre.
@@ -59,6 +61,14 @@ Für Störungen festlegen, wie laufende und delegierte Aufträge angehalten, ihr
 Artikel 14 beschreibt die Ausgestaltung menschlicher Aufsicht am Hochrisikosystem, Artikel 26 Absatz 2 deren kompetente und befugte Umsetzung beim Betreiber. Im Arbeitsablauf muss stehen, welche Originale vorliegen, wann eingegriffen wird und wer übersteuert. Die bloße Ernennung eines KI-Beauftragten löst diese Fragen nicht. Artikel 9 ist System-Risikomanagement, Artikel 17 Anbieter-Qualitätsmanagement; ein privater Arbeitgeber übernimmt nicht durch eine Betriebsanweisung sämtliche Anbieterpflichten.
 
 Eine Grundrechte-Folgenabschätzung nach Artikel 27 folgt nicht pauschal aus jedem HR-Einsatz. Den dort genannten Betreiberkreis und gegebenenfalls öffentliche Dienstleistung gesondert subsumieren. Eine Datenschutz-Folgenabschätzung besitzt andere Voraussetzungen; vorhandene Unterlagen dürfen integriert werden, aber nicht einfach umbenannt. In einer Personalakte keine umfangreiche Datensammlung allein mit „Bias-Prüfung“ legitimieren. Artikel 4a und dessen kumulative Voraussetzungen gehören in eine eigenständige Datenprüfung.
+
+### 3.6 Erklärung und wirksame Beanstandung umsetzen
+
+Bei einer angegriffenen Rangfolge konkrete Daten, angewandte Bewertungskriterien, Ergebnis und tatsächlichen Entscheidungseinfluss rekonstruieren. C-203/22, Rn. 58–62 und 66, verlangt im Anwendungsbereich von Artikel 15 Absatz 1 Buchstabe h DSGVO eine verständliche konkrete Erklärung; weder Formelsammlung noch pauschales Geschäftsgeheimnis genügen. Rn. 70–76 verlangen bei Konflikten eine Abwägung durch Aufsicht oder Gericht. Das bedeutet weder öffentliche Quellcodefreigabe noch Anspruch auf sämtliche Trainingsdaten. Artikel 86 KI-Verordnung mit seinem eigenen Tatbestand, Empfänger und Zeitrecht gesondert prüfen.
+
+C-817/19, Rn. 194–211, betrifft PNR-Kontrollen. Als ausdrücklich begrenzte Gegenprobe lässt sich daraus fragen, ob Kriterienänderungen, Fehlertreffer und mittelbar diskriminierende Auswahl überprüfbar sind; ein generelles Verbot lernender Recruiting-KI folgt daraus nicht. Für HR stehen die einschlägigen Artikel 9, 10, 14 und 26 sowie das Gleichbehandlungsrecht im Vordergrund. Die Anweisung bindet erlaubte Versionen, Prüfzeitpunkt, tatsächliche Übersteuerung, Einspruchsweg und Testbefunde zusammen.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
 
 ## 4 Quellenpflicht
 
@@ -107,6 +117,12 @@ Bei einschlägigem Artikel 73 gilt die unverzügliche Meldung nach festgestellte
 Ein Fehlerbericht über verdeckte Bildbefunde kann zugleich die bisherige Annahme fehlender Sicherheitsrelevanz erschüttern. Den Befund an den Produktpfad zurückgeben; keine Meldeschwelle als Definition des Sicherheitsbauteils verwenden. Bei einer fehlerhaften gerichtlichen Zusammenfassung prüfen, ob der Fehler erkannt, übernommen oder entscheidungserheblich geworden ist. Fehlende körperliche Schäden beenden die Grundrechtsprüfung nicht.
 
 Eine Fristberechnung muss Kenntnisereignis, verantwortlichen Akteur, möglichen Kausalzusammenhang und einschlägigen Sonderfall ausweisen. Allgemeine Grenze, verkürzte Grenze und unverzügliche Handlung nicht vermischen. Bei medizinproduktrechtlich bereits geregelten Meldewegen die besonderen Abgrenzungen des Artikels 73 lesen; keine doppelte Vollmeldung allein wegen zweier Schlagworte vorbereiten. Ein Registereintrag nach Artikel 49 ersetzt niemals den Vorfallbericht.
+
+### 3.5 Ansprüche und Meldung nicht vermischen
+
+Bei unbefugter Weitergabe von Bewerberdaten neben dem Vorfallweg gegebenenfalls Artikel 82 DSGVO prüfen. C-655/23, Rn. 56 und 58–62, verlangt Verstoß, tatsächlichen Schaden und Kausalität ohne Bagatellschwelle; nachgewiesener Kontrollverlust oder begründete negative Gefühle können genügen. Weder ein Fehler allein noch das Etikett Ärger entscheidet den Anspruch. Konkrete Kenntnis, Weitergabe, Folgen und Belege anfordern und einen getrennten Anspruchsvermerk liefern. Daraus weder Meldepflicht nach Artikel 73 KI-VO noch Schadenspauschale ableiten.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
 
 ## 4 Quellenpflicht
 
@@ -204,6 +220,12 @@ Ein Zertifikat nach ISO/IEC 42001 betrifft einen bezeichneten Managementumfang u
 
 Artikel 43 Absatz 2 darf nicht auf Biometrie nach Nummer 1 oder auf Produktfälle übertragen werden. Dort Absatz 1 beziehungsweise Absatz 3 und das einschlägige Produktrecht lesen. Eine Plattformregistrierung beweist weder eine unabhängige Zertifizierung noch eine behördliche Betriebsgenehmigung. Dem Einstufungsvermerk nur den tatsächlich vorliegenden Nachweis zuordnen, einschließlich Datum, Version und Aussteller. Für eine detaillierte Registrierungs- oder Konformitätsbearbeitung einen konkreten Folgeauftrag mit diesen Daten übergeben.
 
+### 3.5 Den Zertifikatseinwand begründet beantworten
+
+C-588/21 P, Rn. 70 und 73–85, erklärt die besondere Rechtswirkung und den Zugang zu harmonisierten Normen. Das Urteil prüft keine KI-Systemkonformität. Eine behauptete Vermutung nach Artikel 40 deshalb auf Amtsblattfundstelle, Fassung, abgedeckte Anforderungen, tatsächliche Einhaltung und Prüfversion zurückführen. Reicht der Anbieter einen einschlägigen Nachweis nach, nur dessen belegten Umfang anerkennen und übrige Lücken konkret fortschreiben. Weder jedes Zertifikat ablehnen noch aus einer Normnummer eine vollständige Freigabe ableiten.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
+
 ## 4 Quellenpflicht
 
 Artikel 43, 47 bis 49, Anhang VI, Anhang VIII sowie Artikel 111/113 anhand amtlicher Quellen prüfen. [Rechtsstand und Quellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsstand-und-quellen.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/zitierweise.md) beachten. Normtext und unverbindliche Herstellerbehauptung getrennt nachweisen. Kein ungeprüftes Prüfzeichen als behördliche Entscheidung bezeichnen.
@@ -261,6 +283,8 @@ Produktpfad und Anhang-III-Pfad getrennt, bei Überschneidung beide prüfen. Abs
 
 Ein Ausnahmebefund erzeugt als Anbieterfolge die dokumentierte Bewertung nach Artikel 6 Absatz 4 und die gesonderte Prüfung nach Artikel 49 Absatz 2. Ein Produktbefund erzeugt den passenden produktrechtlichen Nachweispfad. Artikel 9 betrifft das fortlaufende Risikomanagement des Systems, Artikel 17 das Qualitätsmanagement des Anbieters. Eine organisationsweite Richtlinie ersetzt keines von beiden. FRIA nach Artikel 27 ist ein besonderer Betreiberpfad, keine allgemeine Pflicht jedes Anwenders und kein Ersatz für die Einstufung.
 
+Bei Personalentscheidungen den Entscheidungsverlauf bis zur Übernahme und mögliche Übersteuerung belegen. Bei anwendbarem Hochrisikoregime muss der betreibende Arbeitgeber nach Artikel 26 Absatz 7 betroffene Beschäftigte und Arbeitnehmervertretung vor Inbetriebnahme oder Verwendung informieren. Für Anhang III grundsätzlich ab 02.12.2027. Artikel 111 Absatz 2 beim Bestand prüfen. Für einen Einführungsbeschluss Beteiligung nach BetrVG, Kompetenzförderung nach Artikel 4 und befugte Aufsicht nach Artikel 26 Absatz 2 als eigene Aufgaben terminieren.
+
 ### 3.4 Rückfragen in Dokumentarbeit übersetzen
 
 Jede Rückfrage nennt, warum ihre Antwort das Ergebnis ändern kann. Beispiel: „Welche Informationen sieht die Richterin, bevor sie den Vorschlag übernimmt, und kann sie die ausgeblendeten Akten ohne weiteres öffnen?“ Eine fehlende Antwort führt zu einer bezeichneten Bedingung oder begründeten vorläufigen Nutzungsempfehlung, nicht zur Erfindung einer technisch wirksamen Kontrolle.
@@ -272,6 +296,12 @@ Kommt die Antwort, den bestehenden Vermerk, das Anschreiben und die Maßnahmen n
 Vor Abschluss prüfen, ob das bestellte Dokument tatsächlich vollständig vorliegt, alle tragenden Behauptungen auf Quellen und Tatsachen beruhen und offene entscheidende Punkte sichtbar bleiben. Eine Managementfreigabe ist keine behördliche Genehmigung. Registrierung, Meldung, Bestellung oder Produktivsetzung sind getrennte Außenhandlungen mit konkretem Auftrag, Empfänger, Dokumentversion und namentlich verantwortlicher Person. Ein Entwurf darf dafür vorbereitet werden; aus einem Rechercheauftrag folgt keine Versandvollmacht.
 
 Artikel 111/113 normbezogen anwenden und freiwillige sofortige Schutzmaßnahmen von bereits geltenden Pflichten trennen. Ausgabe mit dem nächsten konkret erforderlichen Produkt oder mit dem nachvollziehbaren Abschluss der reinen Einstufung beenden. Kein pauschales „alles compliant“ und keine erneute Frage nach schon geklärten Stammdaten.
+
+### 3.6 Argumentationsanker zum konkreten Dokument führen
+
+Den Einwand menschlicher Letztentscheidung anhand der tatsächlichen Entscheidungsfreiheit prüfen; Artikel 22 DSGVO und die Profiling-Rückausnahme des Artikels 6 Absatz 3 können unterschiedliche Ergebnisse ergeben. Bei Erklärungsstreit konkrete Logik statt bloßem Score verlangen, ohne pauschale Quellcodeoffenlegung zu behaupten. Bei Zertifikaten nur die belegte Normenreichweite anerkennen. Die fünf verifizierten Rechtsprechungsanker mit ihrer jeweiligen Grenze verwenden und das Ergebnis an geänderten Belegen fortschreiben.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
 
 ## 4 Quellenpflicht
 
@@ -320,6 +350,8 @@ Die Absätze 1a bis 1c ausdrücklich anwenden. Ausschließlich nicht sicherheits
 Die [acht Bereiche samt Untertatbeständen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/artikel-6-und-anhang-iii.md) prüfen: Biometrie, kritische Infrastruktur, Bildung, Beschäftigung einschließlich Zugang zur Selbstständigkeit, wesentliche Dienste und Leistungen, Strafverfolgung, Migration und Grenze sowie Rechtspflege und demokratische Prozesse. Für einen einschlägigen Bereich den konkreten Untertatbestand, Personenkreis, Zweck und gegebenenfalls Behördenbezug nennen. Nicht jede medizinische Software ist Notfalltriage; nicht jede Versicherungssoftware betrifft Lebens- oder Krankenversicherung; reine Finanzbetrugserkennung und reine Identitätsverifikation besitzen ausdrückliche Grenzen.
 
 Bei Personalentscheidungen auch gezielte Stellenanzeigen, Filter, Aufgabenverteilung, Beförderung, Kündigung, Leistungs- und Verhaltensbewertung untersuchen. Bei Justizassistenz unterscheiden: Einsatz von oder im Namen einer Justizbehörde zur sachverhaltsbezogenen Rechtsanwendung, vergleichbare alternative Streitbeilegung, rein administrative Aktenarbeit und parteiliche anwaltliche Beratung. Ein privater Kanzleieinsatz fällt nicht allein wegen juristischer Inhalte unter Nummer 8 Buchstabe a. Derselbe Anbieter kann für Gerichte und Kanzleien verschieden bestimmte Anwendungen liefern.
+
+In Nummer 4 Buchstabe a Auswahl und Einstellung von Buchstabe b unterscheiden. Buchstabe b betrifft unter anderem Leistungsscores, individuelle Aufgabenverteilung sowie Systeme, die Beförderungen oder Kündigungen beeinflussen. Prüfe tatsächliche Ergebnisübernahme, Entscheidungsbefugnis und Profiling. Ein KI-Modul zur anonymisierten Personalbedarfsrechnung mit aggregierten Zahlen ist anhand seiner tatsächlichen Funktion gesondert einzuordnen.
 
 ### 3.4 Ausnahme und Rückausnahme subsumieren
 
@@ -436,6 +468,12 @@ Für Justizassistenz die Aktenpaginierung von Sachverhaltsauswahl, Beweiswürdig
 ### 3.5 Profiling nicht mit Personendaten verwechseln
 
 Allein der Name einer Partei im Dokument ist kein Profiling. Eine automatisierte Zuverlässigkeits- oder Leistungsbewertung, eine persönliche Risikoprognose oder ein entsprechender Score kann hingegen persönliche Aspekte bewerten. Daten, abgeleitete Merkmale, Bewertungszweck und Verwendung prüfen. Die Rückausnahme gilt innerhalb des Anhang-III-Tatbestands; sie macht nicht jede beliebige Profilingsoftware automatisch zu einem dort genannten System. Die Dokumentation nach Absatz 4 darf eine fehlende technische Aufklärung nicht als negatives Testergebnis ausgeben.
+
+### 3.6 Die menschliche Mitwirkung rechtlich getrennt würdigen
+
+Wenn ein neues Protokoll unabhängige menschliche Prüfung belegt, ist der Artikel-22-Befund neu zu würdigen. Eine fortbestehende automatisierte persönliche Bewertung innerhalb eines Anhang-III-Falls kann die Ausnahme nach Artikel 6 Absatz 3 trotzdem sperren. Diese beiden Ergebnisse sind kein Widerspruch. C-634/21, Rn. 43–50 und 60–64, trägt den gesonderten Datenschutzmaßstab, nicht die KI-VO-Rückausnahme. Fehlende Protokolle nicht als sicheren Beweis unterbliebener Kontrolle ausgeben.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
 
 ## 4 Quellenpflicht
 
@@ -594,6 +632,12 @@ Wenn die HR-Leitung eine Rangliste übernimmt, beschreibe wann und wie, statt nu
 Bei einem Justiz- oder Produktfall dieselbe Methode der Systemabgrenzung verwenden, aber den fachlichen Befund an den allgemeinen Einstufungsskill übergeben. Eine Systembeschreibung nennt dort etwa Paginierung, Vollständigkeitsprüfung, Bewertung von Zeugenaussagen und Entscheidungsentwurf jeweils mit Versionsdatum. Für ein Medizinprodukt stehen Bildverarbeitung, Alarmweg, Rückfallmodus und Ausfallfolge im Vordergrund. Ein HR-Funktionsbegriff ist kein Ersatz für den anderen Tatbestand.
 
 Den kleinsten noch sinnvoll prüfbaren Funktionsumfang begründen. Eine technisch deaktivierte Option lässt sich anders behandeln als eine standardmäßig sichtbare Schaltfläche, die nur durch eine Richtlinie untersagt wird. Geteilte Modelle oder identische Oberflächen beweisen keine einheitliche Zweckbestimmung; umgekehrt erzeugt eine Aufteilung auf Unteragenten nicht beliebig viele harmlose Einzelfunktionen. Eine Vertragsklausel darf die tatsächlich vorgesehene Integration nicht verdecken.
+
+### 3.5 Entscheidungseinfluss mit Gegenprobe
+
+Ermitteln Sie, ob ein Score nur angezeigt wird oder den erreichbaren Bewerberbestand und die Entscheidungsgründe maßgeblich prägt. Für Artikel 22 DSGVO trägt EuGH C-634/21, Rn. 43–50 und 60–64, die Betrachtung arbeitsteiliger Entscheidungen; daraus folgt keine automatische Hochrisikoeinstufung. Ein Test mit vollständiger Originalsichtung und eigenständigen Gründen ist anders zu würdigen als die Bestätigung einer verborgenen Vorauswahl. Die technische Gesamtfunktion dennoch getrennt nach Artikel 6 und Profiling beurteilen.
+
+Die [verifizierten Rechtsprechungsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsprechung-und-argumentation.md) enthalten Volltext, Randnummern und Anwendungsgrenzen; die [Testanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/testanker.md) geben konkrete Gegenproben vor.
 
 ## 4 Quellenpflicht
 

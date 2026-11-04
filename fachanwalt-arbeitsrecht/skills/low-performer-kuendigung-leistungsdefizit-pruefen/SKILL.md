@@ -34,6 +34,10 @@ Die Leistung eines Arbeitnehmers bleibt über längere Zeit hinter der Vergleich
 6. Prognose und mildere Mittel prüfen: Coaching, Qualifizierung, Prozesskorrektur, Zielanpassung, leidensgerechter Arbeitsplatz, Versetzung oder Änderungskündigung.
 7. Betriebsrat vollständig informieren und Prozessvortrag mit Primärdaten, Vergleichslogik, Einlassung des Arbeitnehmers und Verhältnismäßigkeit vorbereiten.
 
+### 4.1. KI-gestützte Leistungswerte
+
+Prüfe Aufgabenprofil, Qualität und Aussagekraft der Vergleichsgruppe, Systemversion, Fehlzuordnungen und Zugriff auf die Rohdaten. Sichere, welche Ausgabe der Beschäftigte tatsächlich gesehen oder übernommen hat und welche Prüfung er mit der gewährten Zeit leisten konnte. Trenne beobachtete Fehler von Leistungsbewertungen und prüfe die datenschutzrechtliche Grundlage, Mitbestimmung und prozessuale Verwertbarkeit eigenständig. Bei KI als Arbeitsmittel oder Auswahlkriterium ergänze den [Fachskill für KI, Qualifizierung und Kündigung](../ki-einfuehrung-qualifizierung-kuendigung/SKILL.md).
+
 ## 5. Arbeitsergebnis
 
 Liefere Leistungs- und Vergleichsgruppenmatrix, Ursachenbaum, Abmahnungsentwurf, Verbesserungsplan, Kündigungsrisiko und schlüssigen Klage- oder Verteidigungsvortrag. Prozentwerte werden als Indiz mit Datenbasis, nicht als Rechtsregel ausgegeben.

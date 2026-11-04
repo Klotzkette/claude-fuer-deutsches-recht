@@ -2,13 +2,13 @@
 
 Das Plugin unterstützt Rechts- und Compliance-Teams eines Industriekonzerns bei konkreten Entscheidungen. Es ordnet Zuständigkeiten und Belege, bereitet Freigaben, Ermittlungen, Kontrollentscheidungen und Organvorlagen vor und hält die Grenzen der jeweiligen Freigabe fest.
 
-Die 28 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Die Akten sind eigenständig nutzbar und bilden unterschiedliche Aufgaben und Datenlagen ab.
+Die 35 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Die Akten sind eigenständig nutzbar und bilden unterschiedliche Aufgaben und Datenlagen ab.
 
 ## 1 Einstieg
 
 | Produkt | Zugriff |
 | --- | --- |
-| Installierbares Plugin | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/compliance-abteilung-grosskonzern.zip) |
+| Installierbares Plugin | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/compliance-abteilung-grosskonzern.zip) |
 | Ausführlicher Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md) |
 | Kompakter Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md) |
 | Quellen | [Zitierweise und amtliche Fundstellen](references/zitierweise.md) |
@@ -53,7 +53,21 @@ Die 28 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln
 | ME-27 | [Gelesen ist noch nicht verstanden](../testakten/compliance-hameln-kampagne-werkstattdialog/README.md) | Compliance-Kommunikation, Training und Dialog für interne und externe Adressaten | [Vorlage](templates/compliance-hameln-kampagne-werkstattdialog.docx) |
 | ME-28 | [98 Prozent grün und vier ungeklärte Freigaben](../testakten/compliance-hameln-wirksamkeit-nachtest/README.md) | Wirksamkeitsprüfung, Audit, Befragung, Benchmark und Nachtest | [Vorlage](templates/compliance-hameln-wirksamkeit-nachtest.docx) |
 
-## 4 Workshop-Downloads
+## 4 KI-Einführung und Arbeit
+
+[Master-Prompt zur Einführung und Qualifizierung](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=testakten/megaprompts/compliance-abteilung-grosskonzern.md) · [Prüfreihenfolge](references/ki-arbeit-pruefpfad.md)
+
+| Vorgang | Fall | Thema | Vorlage |
+| --- | --- | --- | --- |
+| ME-29 | [Vier Minuten schneller und zweimal falsch](../testakten/compliance-hameln-vorstand-freigabefenster/README.md) | Vorstandssorgfalt, Pilotnachweis und Grenzen einer KI-Nutzungsvorgabe | [Word-Vorlage](templates/compliance-hameln-vorstand-freigabefenster.docx) |
+| ME-30 | [Ein Haken im System und ein Fehler beim Kunden](../testakten/compliance-hameln-freigabehaken-im-service/README.md) | Persönliche Arbeitsleistung, Qualitätsanforderung, Abmahnung und Belegkette | [Word-Vorlage](templates/compliance-hameln-freigabehaken-im-service.docx) |
+| ME-31 | [Der Gastzugang mit der Stückliste](../testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/README.md) | Geschäftsgeheimnis, öffentlicher KI-Dienst, Datenschutzvorfall und § 626 BGB | [Word-Vorlage](templates/compliance-hameln-offenes-fenster-fuer-stuecklisten.docx) |
+| ME-32 | [Alle mussten klicken und keiner konnte stoppen](../testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/README.md) | Verbindlicher KI-Einsatz, Organisationsverantwortung, KI-Kompetenz und Aufsicht | [Word-Vorlage](templates/compliance-hameln-pflichtbetrieb-ohne-ausgang.docx) |
+| ME-33 | [Sechs Wochen Kurs und zwei unbesetzte Stellen](../testakten/compliance-hameln-freie-stelle-nach-dem-kurs/README.md) | KI-bedingter Arbeitsplatzabbau, zumutbare Qualifizierung und Sozialauswahl | [Word-Vorlage](templates/compliance-hameln-freie-stelle-nach-dem-kurs.docx) |
+| ME-34 | [Die alte Linie und der leere Schulungsraum](../testakten/compliance-hameln-montageinsel-sozialplan/README.md) | Betriebsänderung, Interessenausgleich, Qualifizierungs-Sozialplan und § 97 BetrVG | [Word-Vorlage](templates/compliance-hameln-montageinsel-sozialplan.docx) |
+| ME-35 | [Der Score vor der ersten Nachtschicht](../testakten/compliance-hameln-personalscore-vor-start/README.md) | Beschäftigungs-KI nach Anhang III, Art. 26 Abs. 7, DSGVO und Betriebsrat | [Word-Vorlage](templates/compliance-hameln-personalscore-vor-start.docx) |
+
+## 5 Workshop-Downloads
 
 Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PDF mit Lesezeichen. Die Materialien enthalten EML, DOCX, XLSX, CSV, PNG und PDF. Ausgewählte Besprechungen enthalten zusätzlich bearbeitbare PowerPoint-Folien.
 
@@ -64,9 +78,11 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 | Paket | Datei |
 | --- | --- |
 | 28 Arbeitsakten in Originalformaten mit 28 Word-Blankos | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/Hameln_Compliance_28_Testakten_und_Vorlagen.zip) |
+| 14 Ergänzungsfälle aus Hameln und dem Arbeitsrecht | [Workshop-ZIP KI und Arbeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/KI_und_Arbeit_14_Testakten_und_Vorlagen.zip) |
+| 14 Prüfblätter zur Ergänzungsreihe | [Nachbesprechung KI und Arbeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/KI_und_Arbeit_Nachbesprechung.zip) |
 | 28 getrennte fallbezogene Prüfblätter | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/Hameln_Compliance_Nachbesprechung.zip) |
 
-## 5 Ablauf der Vorführung
+## 6 Ablauf der Vorführung
 
 Beginnen Sie mit der E-Mail und dem Dokument aus der Fachabteilung. Fordern Sie eine Belegmatrix und einen ersten Entwurf in der Word-Vorlage an. Reichen Sie anschließend Datenregister und Nachtrag nach und lassen Sie gezielt die betroffenen Feststellungen und den Entscheidungsvorschlag überarbeiten. Bei einer Anlagenübung die relevanten Originale als PDF-Arbeitskopien zusammenstellen, nummerieren und mit Fundstellen verknüpfen. Die Nachbesprechung bleibt für diesen Durchlauf separat.
 

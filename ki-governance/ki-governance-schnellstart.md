@@ -2,7 +2,7 @@
 
 Kläre, wer den konkreten KI-Einsatz verantwortet, welche Entscheidung das System beeinflusst und welche Betriebsbedingungen noch fehlen. Gleiche Konfiguration, Anbieterzusagen und Freigaben ab und verfasse den bestellten Beschluss, die Arbeitsanweisung, Vertragsklausel oder Vorfallantwort. Nutze vorhandene Angaben. ISO-QMS-Zertifikat und Systemkonformität getrennt belegen.
 
-Lies Systeminventar, Freigaben und Vorfallunterlagen auftragsbezogen. Bei einem Vorfall zuerst Kenntniszeitpunkt, betroffene Daten, fortdauernden Zugriff und zuständige Person erfassen. Frage nur nach entscheidenden fehlenden Angaben; bei Folgeaufträgen veränderte Funktionen und Fassungen prüfen. Die folgende Rechtsstanddarstellung bleibt auf dem Stand vom 10. September 2026; tragende Fragen vor Verwendung aktuell verifizieren.
+Lies Inventar, Freigaben und Vorfallakte auftragsbezogen. Bei einem Vorfall zuerst Kenntnis, Daten, Zugriff und Zuständigkeit klären. Frage nur nach entscheidenden Lücken. Bei Folgeaufträgen veränderte Funktionen und Fassungen prüfen; tragende Normen aktuell verifizieren.
 
 Artikel 22 DSGVO ist bei maßgeblich scoregeleiteten Entscheidungen gesondert zu prüfen: EuGH, Urteil vom 07.12.2023, Az. C-634/21, SCHUFA Holding. Ein Freigabeklick belegt keine echte Kontrolle; das Urteil bestimmt keine KI-Risikoklasse. Nachweis unten.
 
@@ -22,11 +22,11 @@ Artikel 6 verlangt genaue Zweck- und Anhangszuordnung. Verordnung (EU) 2026/1744
 
 ## 1.3. Kompetenz und Freigabe
 
-Artikel 4 neuer Fassung verlangt Fördermaßnahmen ohne Garantie eines bestimmten individuellen Kompetenzniveaus. Die Pflicht ist nicht gestrichen. Vorhandene Einweisungen und Kenntnisse verwerten; reale Lücken mit einer Übung, einem Ansprechpartner und einer erreichbaren Arbeitsanweisung schließen. Kein erfundener Pflichtkurs oder Zertifikatszwang.
+Artikel 4 verlangt von Anbietern und Betreibern kontextgerechte Fördermaßnahmen für eigenes und beauftragtes Personal ohne Garantie eines bestimmten Niveaus. Nutze vorhandene Einweisungen und ergänze konkrete Übungen für belegte Lücken.
 
-Bei menschlicher Hochrisikoaufsicht Artikel 26 Absatz 2 separat prüfen: Kompetenz, Ausbildung, Befugnis und Unterstützung. Ein geschulter Mitarbeiter ohne Eingriffsrecht ist keine wirksame Aufsicht. Entscheidung, Vertretung und Auslöser erneuter Prüfung schriftlich zuordnen.
+Für HR den konkreten Einsatz nach Anhang III Nummer 4, Artikel 6 Absatz 3 und Profiling prüfen. Artikel 26 Absatz 2 verlangt bei Hochrisiko befähigte, befugte und unterstützte Aufsicht. Absatz 7 verlangt vor Einsatz die Information von Vertretung und betroffenen Beschäftigten, für Anhang III grundsätzlich ab 2. Dezember 2027. BetrVG und zumutbare Weiterbeschäftigungsqualifizierung nach KSchG separat prüfen. Für den Leitungsbeschluss Tests, Kosten, Fehlerrisiko und Alternativen belegen.
 
-Bei Bonitätsscores EuGH, Urteil vom 07.12.2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 50 und 73, anwenden: Bestimmt der Score maßgeblich die Vertragsentscheidung eines Dritten, kann bereits seine automatisierte Erstellung Artikel 22 Absatz 1 DSGVO unterfallen. Prüfe Entscheidungsregeln und reale Abweichungen, dann Ausnahme nach Absatz 2 und erforderliche Garantien. Ein Freigabeklick allein belegt keine unabhängige Kontrolle. Kein allgemeines Verbot jeder Empfehlung und keine Aussage zur KI-Hochrisikoeinstufung. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
+Bei maßgeblichem Bonitätsscore kann schon seine Erstellung unter Artikel 22 Absatz 1 DSGVO fallen (EuGH, C-634/21, Rn. 43–50, 73). Prüfe reale Abweichungen, Ausnahmen und Garantien. Ein bloßer Klick genügt nicht. Das Urteil bestimmt keine KI-Risikoklasse. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
 
 ## 1.4. Daten und Veröffentlichungen
 

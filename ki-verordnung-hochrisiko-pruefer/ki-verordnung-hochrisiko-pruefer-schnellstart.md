@@ -18,7 +18,7 @@ Artikel 6 Absatz 1 verlangt kumulativ ein Produkt oder Sicherheitsbauteil nach A
 
 Alle acht Bereiche nach Untertatbestand prüfen: Biometrie mit Verifikationsgrenze; Sicherheitsbauteile kritischer Infrastruktur; Bildung mit Zugang, Bewertung und Prüfungsüberwachung; Beschäftigung mit Stellenanzeigen, Auswahl, Beförderung, Kündigung, Aufgabenverteilung und Leistungsbewertung; wesentliche öffentliche Leistungen, Kreditwürdigkeit mit Betrugsgrenze, Lebens-/Krankenversicherung, Notrufe und Notfalltriage; Strafverfolgung mit Opfer-, Beweis- und Täterbewertungen; Migration/Asyl/Grenzen; Rechtspflege und Wahlen/Referenden.
 
-Behördenbezug, Personenkreis, Zweck und ausdrückliche Ausnahmen jeweils am Wortlaut prüfen. Nicht jedes Krankenhausprogramm ist Notfalltriage. Nicht jede Versicherungssoftware fällt unter Nummer 5.
+Behördenbezug, Personenkreis, Zweck und Ausnahmen am Wortlaut prüfen. Bei Anhang III Nummer 4 Art und Wirkung der Personalentscheidung belegen. Artikel 26 Absatz 7: betroffene Beschäftigte und Vertretung vor Inbetriebnahme oder Verwendung informieren, für Anhang III grundsätzlich ab 02.12.2027. Artikel 111 und Beteiligung nach BetrVG getrennt prüfen.
 
 Bei Nummer 8 Buchstabe a den Einsatz von oder im Namen einer Justizbehörde zur Sachverhalts- und Rechtsprüfung oder vergleichbare alternative Streitbeilegung prüfen. Rein administrative Aktenarbeit und anwaltliche Parteiberatung sind davon zu unterscheiden; juristischer Text allein genügt nicht. In HR verborgene Vorauswahl und persönliche Bewertung vor dem menschlichen Schlussklick beachten. Arbeitnehmerseitige Zeugnisrechtsberatung ist nicht automatisch Nummer 4 Buchstabe b.
 
@@ -32,9 +32,9 @@ Der Anbieter dokumentiert eine tragfähige Ausnahme nach Artikel 6 Absatz 4 vor 
 
 ## 5 Rollen und Folgeaufträge
 
-Artikel 25 unterscheidet eigenes Kennzeichen, wesentliche Änderung eines Hochrisikosystems und Zweckänderung hin zu Hochrisiko. Nicht jeder neue Prompt oder jedes Werkzeug löst Anbieterpflichten aus. Ein privates Beschäftigtenkonto entlastet den Arbeitgeber nicht automatisch; dienstliche Einbindung und Ergebnisübernahme belegen. Ein Drittel der Modell-Trainingsrechenleistung ist kein Systemänderungs-Freibrief. Bei Agenten gesamte Entscheidungskette prüfen; Stoppschalter muss auch delegierte Aufträge erreichen.
+Artikel 25: eigenes Kennzeichen, wesentliche Änderung und Zweckänderung hin zu Hochrisiko getrennt prüfen. Ein privates Konto entlastet den Arbeitgeber nicht automatisch. Dienstliche Einbindung und Ergebnisübernahme belegen. Geringes Nachtraining ist keine Systemausnahme. Bei Agenten gesamte Entscheidungskette und Unterbrechung delegierter Aufträge prüfen.
 
-Artikel 9 betrifft System-Risikomanagement, Artikel 17 Anbieter-Qualitätsmanagement. Eine Risikoliste oder ISO-Normnummer ist kein umfassender Nachweis. Artikel 14 und Artikel 26 betreffen verschiedene Seiten menschlicher Aufsicht. FRIA nach Artikel 27 nur für den dort bestimmten Betreiberkreis und Anwendungsumfang, nicht für jeden HR-Nutzer verlangen; Datenschutz-Folgenabschätzung getrennt prüfen. Artikel 4a ist eine eng begrenzte Bias-Regel, keine allgemeine Datenupload-Erlaubnis.
+Artikel 9: Systemrisiko. Artikel 17: Anbieter-QMS. ISO-Nachweis und Risikoliste begründen keine Konformität. Artikel 14/26: Auslegung und Durchführung menschlicher Aufsicht. FRIA nach Artikel 27 nur für bestimmte Betreiber. DSFA getrennt prüfen. Artikel 4a erlaubt keinen beliebigen Bias-Datenupload.
 
 Artikel 43 Absatz 2 sieht bei Anhang III Nummern 2 bis 8 interne Kontrolle vor, keine externe Pflichtzulassung und keine Prüfungsfreiheit. Biometrie und Produktpfad gesondert. Artikel 49 trennt Anbieter, Ausnahme-Anbieter und besondere öffentliche Betreiber. Artikel 73 ist Vorfallmeldung, kein Register. Eine Beschwerde weder automatisch melden noch mangels körperlichen Schadens ignorieren. Nichts ohne konkreten Auftrag übermitteln oder produktiv freigeben.
 

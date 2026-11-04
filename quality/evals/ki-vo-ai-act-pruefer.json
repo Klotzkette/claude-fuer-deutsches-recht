@@ -56,16 +56,17 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt.",
+    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
       "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
       "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
-      "Redaktion 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "07fc5f66841b7a9c4c17adc384447a177ee6a9e3b4629b542e25a952f4e1cc6f"
+    "sha256": "313fb811a4577e738048d0eb6cd506dd44475c42cb3c7b416794f1a6c343d415"
   },
   "selection": {
     "positive": [
@@ -189,16 +190,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt.",
+    "reason": "Amtlicher Norm- und redaktioneller Workflowabgleich vom 09.10.2026. Systemrisiken, Qualitätsmanagement und FRIA getrennt; ISO- und FLOP-Pauschalen ausgeschlossen; aktuelle Fassung und deutsche Berichtigung berücksichtigt. Historische Entscheidungen nicht erneut als volltextgeprüft ausgegeben. Kein ausgeführter Live-Modelltest. Redaktionelle Einstiegslektüre am 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Artikel 9, 17 und 27 den tatsächlichen Rollen und Produkten zugeordnet.",
       "ISO-/Kodexnachweis und GPAI-Drittelgröße von gesetzlicher Systemkonformität getrennt.",
       "Normfassung, Registrierung und Übergangsdatum präzisiert; unverbindliche Leitlinien als solche behandelt.",
       "Eigenständigen Hauptproblem-Prompt und identische TXT-Fassungen ergänzt.",
       "Tatbestandsbezogene Gegenprüfung und fünf konkrete Fall-/Gegenfallanker mit Normbeleg und ausformuliertem Produkt ergänzt.",
-      "Redaktion 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Einordnungsmemo, Klausel und Behördenantwort konkret benannt; SCHUFA mit strikter Grenze zu KI-Risikoklassen vorangestellt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
-    "sha256": "529f1a13e54622bb1c789c5d573e3f30d6e88aaef593c536844aecfa3f911ceb"
+    "sha256": "49fb4ad663a4cec093c0999c2243a1b7c6e8ff3d3360cdc05c9e2bdc8d446e26"
   },
   "prompt_editorial_review": {
     "date": "2026-10-09",
@@ -212,7 +214,7 @@
       "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md",
       "ki-vo-ai-act-pruefer/references/rechtsstand-2026-10-09.md"
     ],
-    "opening_change": "Systemversion, Zweck, Marktrolle und Datum zuerst feststellen; den passenden Normpfad mit einem konkreten Arbeitsprodukt verbinden. ISO-Zertifikat und geänderte Modellrechenleistung ersetzen keine Systemprüfung.",
+    "opening_change": "Systemversion, Zweck, Marktrolle und Datum zuerst feststellen; den passenden Normpfad mit einem konkreten Arbeitsprodukt verbinden. ISO-Zertifikat und geänderte Modellrechenleistung ersetzen keine Systemprüfung. Die Beschäftigungsroute prüft tatsächlichen Entscheidungseinfluss, befugte Aufsicht und Vorabinformation getrennt von arbeitsrechtlicher Beteiligung.",
     "norms": [
       "Artikel 4, 6, 9, 17, 27, 40, 43, 49, 50, 111 und 113 KI-Verordnung, konsolidiert am 27.07.2026",
       "Deutsche Berichtigung zu Artikel 6 Absatz 1b vom 29.09.2026"
@@ -240,7 +242,7 @@
       "Dateien ohne Aufgabe: Systembeschreibung still lesen, konkretes Einordnungsziel statt Dossierdump klären.",
       "Klarer Auftrag: direkt Einordnung, Hinweistext oder Vertragsänderung ausarbeiten."
     ],
-    "continuation": "Eigenbranding oder neue Zweckbeschreibung -> einordnung.md mit geänderter Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> einschlägige Übergangsprüfung und Hinweistext im bereits bestellten Dokument.",
+    "continuation": "Eigenbranding oder neue Zweckbeschreibung -> einordnung.md mit geänderter Rollen-/Anhangsprüfung und Vertragsregel; Vermarktungsdatum -> einschlägige Übergangsprüfung und Hinweistext im bereits bestellten Dokument. Kommt eine vom reinen Textmodus abweichende Personalscore-Funktion hinzu, Einstufung, Rollen und anwendbare Informationspflicht anhand der neuen Version fortschreiben.",
     "enrichment": "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage. Ergänzt: automatische E-Mail-Interaktion, Detektionsnachweis und erneute qualifizierte Endprüfung nach den finalen Leitlinien.",
     "limits": "desk review; no live client execution"
   },
@@ -307,16 +309,17 @@
   ],
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-09",
+    "reviewed_on": "2026-11-04",
     "verdict": "revised",
-    "reason": "Konkreter Aufgabenworkflow mit belegten Entscheidungen, begrenzten offenen Fragen und ausformuliertem Endprodukt; keine automatische Konformität aus Schlagworten.",
+    "reason": "Konkreter Aufgabenworkflow mit belegten Entscheidungen, begrenzten offenen Fragen und ausformuliertem Endprodukt; keine automatische Konformität aus Schlagworten. Redaktioneller Abgleich zum KI-Einsatz im Arbeitsverhältnis mit konsolidiertem Normtext. Die Informationspflicht nach Artikel 26 Absatz 7 ist von den Beteiligungsrechten nach BetrVG getrennt. Kein Live-Modelltest.",
     "changes": [
       "Rolle, Pflicht, Evidenz und Datum getrennt.",
-      "Keine erfundene Behördenfreigabe oder durchgeführte technische Prüfung."
+      "Keine erfundene Behördenfreigabe oder durchgeführte technische Prüfung.",
+      "Zweckbezogene HR-Einstufung, menschliche Entscheidungspraxis und den zeitlich eigenen Beschäftigten- und Vertretungshinweis konkretisiert."
     ],
     "prompt_path": "ki-vo-ai-act-pruefer/ki-vo-ai-act-pruefer-hauptproblem.md",
     "skill_path": "ki-vo-ai-act-pruefer/skills/entscheidungsbaum-ki-vo-gesamt-workflow/SKILL.md",
-    "prompt_sha256": "ba30514a200723897280889b79f6d6abe8a71711a301059bc3669d089a78efd9",
+    "prompt_sha256": "b1ade8ed2488e98a0de941f6657b9fb45970b1ec2ab4c2d070195fe32b61a5ed",
     "skill_sha256": "c48583c392cc33b94fa4cfa1dffdd16110f4c2381c294befd7c5fef8a4c6b9db"
   },
   "source_review_2026_10_09": {

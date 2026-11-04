@@ -10,7 +10,7 @@ Amtlicher Normabgleich: 9. Oktober 2026, einschließlich deutscher Berichtigung 
 
 Was entscheidet oder erzeugt das System tatsächlich, für wen und seit wann? Artikel 2 und 3 prüfen; Anbieter, Betreiber, Importeur, Händler und Produktintegrator trennen. Eigenes Branding, wesentliche Änderung oder neue Zweckbestimmung können Artikel 25 auslösen. Modellpflichten nach Kapitel V und Systempflichten nicht gleichsetzen.
 
-Bei Agenten Planung, Gedächtnis, Werkzeuge, Unteraufträge und Außenhandlung erfassen. Autonomie allein begründet kein Hochrisiko. Die Gesamtanwendung nicht durch isoliert harmlose Teilmodule ausnehmen. Vor irreversiblen Handlungen tatsächliche Prüfung und Befugnis klären; Not-Aus allein genügt nicht. Zuliefermitwirkung nach Artikel 25 Absatz 4 konkret vereinbaren, Ausnahmen beachten.
+Bei Agenten Werkzeuge, Gedächtnis, Unteraufträge, Außenhandlung und tatsächliche Gesamtanwendung erfassen. Autonomie allein begründet kein Hochrisiko. Vor irreversiblen Handlungen Prüfung und Befugnis klären. Zuliefermitwirkung nach Artikel 25 Absatz 4 vereinbaren, Ausnahmen beachten.
 
 ## 1.2. Verbot und Risikoeinstufung
 
@@ -22,7 +22,7 @@ Bei Absatz 3 Fallgruppe, fehlendes erhebliches Risiko und tatsächliche Kontroll
 
 Verordnung (EU) 2026/1744 gilt seit 27. Juli 2026. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III auf 2. Dezember 2027, Anhang I auf 2. August 2028. Das sind feste Daten, keine bloßen Höchstfristen. Artikel 111 zum Bestand und erheblicher Konzeptionsänderung gesondert prüfen. Artikel 43, 49 und 73 liegen außerhalb dieses Aufschubs; ihre Anwendung mit Artikel 6 und Altbestand konkret begründen. GPAI und Produktrecht separat halten.
 
-Artikel 4 verlangt kontextgerechte Kompetenzförderung ohne gesetzliche Zertifikatspflicht; Hochrisikoaufsicht nach Artikel 26 Absatz 2 gesondert prüfen.
+Artikel 4 verpflichtet Anbieter und Betreiber zu kontextgerechter Kompetenzförderung für eigenes und beauftragtes Personal. Artikel 26 Absatz 2 verlangt bei Hochrisiko befugte, geschulte und unterstützte Aufsicht. Bei Anhang III Nummer 4 tatsächliche Auswahl, Personalbewertung und Entscheidungsmacht prüfen. Nach Artikel 26 Absatz 7 beide Adressaten vor Einsatz informieren: Arbeitnehmervertretung und betroffene Beschäftigte. Anhang-III-Termin und Bestand wie oben. Beteiligung und zumutbare Fortbildung vor Kündigung getrennt nach BetrVG und KSchG prüfen.
 
 ## 1.4. Daten und synthetische Inhalte auseinanderhalten
 
@@ -30,9 +30,9 @@ Artikel 4a betrifft sensible Daten zur Bias-Erkennung und -Korrektur, nicht Deep
 
 Artikel 50 gilt grundsätzlich seit 2. August 2026. Absatz 2 verlangt technische Anbieterkennzeichnung, Absatz 4 Betreiberhinweise für Deepfakes beziehungsweise bestimmte Texte. Artikel 111 Absatz 4 gibt nur Anbietern vor dem 2. August 2026 vermarkteter synthetische Inhalte erzeugender Systeme bis 2. Dezember 2026 für Absatz 2 Zeit. Nicht auf Betreiber oder neue Systeme ausdehnen. Neue Inhaltsverbote stehen in Artikel 5 Buchstaben ba und bb, anwendbar ab 2. Dezember 2026. Kennzeichnung heilt kein Verbot.
 
-Finale Leitlinien vom 20. Juli 2026: unverbindlich, kein Urteil. Randnummern 30 bis 40: automatisch antwortende E-Mails und Agenten von tatsächlich menschlich geprüften und versandten Antworten trennen; bloße Eingriffsmöglichkeit genügt nicht. Künstlichen Charakter und Auftraggeber offenlegen. Randnummern 69 bis 78: Markierung plus verfügbarer Detektionsweg mit menschenlesbarem Ergebnis; kein sichtbares Betreiberlabel auf jedem privaten Dokument. „Intern“ und „B2B“ befreien nicht pauschal.
+Finale Leitlinien vom 20. Juli 2026, unverbindlich: Rn. 30–40 trennen automatische Kommunikation und tatsächlich menschlich geprüfte Antworten. Künstlichen Charakter und Auftraggeber offenlegen. Rn. 69–78 verlangen Markierung plus verfügbare Detektion mit menschenlesbarem Ergebnis. „Intern“ und „B2B“ befreien nicht pauschal.
 
-Randnummern 113 bis 138: Deepfakes und öffentliche Texte getrennt prüfen; realistisch erfundene Personen können nach Kommissionsauslegung erfasst sein. Sachkundige Endprüfung oder redaktionelle Kontrolle plus Verantwortung kann nur die Textausnahme tragen. Spätere substanzielle KI-Änderung erneut prüfen. Randnummer 143: Clips ohne Vorspann. Randnummer 154: Altmedien und Veröffentlichungsdatum öffentlicher Texte getrennt; Juli-Entwurf mit September-Publikation ist kein pauschaler Altinhalt. [Leitlinien](https://ec.europa.eu/newsroom/dae/redirection/document/131215).
+Rn. 113–138 trennen Deepfakes und öffentliche Texte. Auch realistisch erfundene Personen können erfasst sein. Menschliche Prüfung oder redaktionelle Kontrolle plus Verantwortung können nur die Textausnahme tragen. Substanzielle KI-Änderung erneut prüfen. Rn. 143: Clips ohne Vorspann. Rn. 154: Altmedien und Veröffentlichungsdatum gesondert. [Leitlinien](https://ec.europa.eu/newsroom/dae/redirection/document/131215).
 
 ## 1.5. Dossier und zuständige Stelle
 

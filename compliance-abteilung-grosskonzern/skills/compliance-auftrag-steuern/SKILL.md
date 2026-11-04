@@ -22,6 +22,10 @@ Auftrag, betroffene Gesellschaft, Prozess, Entscheidungstermin, delegierte Befug
 
 Bei Nachträgen ändern Sie die betroffenen Befunde, Berechnungen und Folgerungen am bestehenden Entwurf. Wechseln Sie bei klarer Aufgabe direkt zum Fachweg für [KI-Freigaben](../ki-einsatz-und-freigabe/SKILL.md), [Meldungen und Ermittlungen](../meldungen-und-untersuchungen/SKILL.md), [Geschäftspartner und Transaktionen](../geschaeftspartner-und-transaktionen/SKILL.md) oder [Kontrollen und Organberichte](../kontrollen-und-organberichte/SKILL.md).
 
+### 3.1 Beschäftigte und Organisationsverantwortung
+
+Wenn eine KI-Einführung Arbeit, Auswahl oder Personalbedarf verändert, verbinden Sie den zuständigen Organentscheid, das technische Freigaberecht, die individuelle Arbeitspflicht und die kollektivrechtliche Beteiligung. Nutzen Sie [KI-Einsatz und Freigabe](../ki-einsatz-und-freigabe/SKILL.md) und die [Prüfreihenfolge für KI im Betrieb](../../references/ki-arbeit-pruefpfad.md). Bei einem Datenvorfall beauftragen Sie Datenschutz und Personal getrennt mit der Ermittlung ihrer Kenntniszeitpunkte.
+
 ## 4 Quellenpflicht
 
 Verwenden Sie die amtlichen Quellen und Prüfvorgaben in [Quellen und Zitierweise](../../references/zitierweise.md). Belegen Sie jede tragende Feststellung durch Aktenstück und genaue Fundstelle. Unterscheiden Sie beobachtete, angenommene und bestrittene Tatsachen.

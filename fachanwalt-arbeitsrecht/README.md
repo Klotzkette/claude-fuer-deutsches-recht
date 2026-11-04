@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`fachanwalt-arbeitsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-arbeitsrecht.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`fachanwalt-arbeitsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/fachanwalt-arbeitsrecht.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/fachanwalt-arbeitsrecht.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fachanwalt-arbeitsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-arbeitsrecht.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`fachanwalt-arbeitsrecht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/fachanwalt-arbeitsrecht.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`fachanwalt-arbeitsrecht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`fachanwalt-arbeitsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [9 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -150,13 +150,36 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- END SKILLS-LOGIC (auto-generated) -->
 
+## Fallreihe KI und Arbeit
+
+Die Fälle beginnen mit Arbeitsanweisung, Bescheid oder Personalvorgang und führen über nachgereichte Belege zur Entscheidung. Die Vorlagen reichen von der Weisungsprüfung bis zur Kündigungsschutzklage und zur Beteiligungsvereinbarung.
+
+| Vorgang | Fall | Thema | Vorlage |
+| --- | --- | --- | --- |
+| AR-01 | [Acht Minuten schneller, ohne die Fundstelle](../testakten/arbeitsrecht-ki-weisung-und-quellen/README.md) | Vorstandsentscheidung, KI-Weisung, persönliche Arbeitsleistung und Quellenzugriff | [Word-Vorlage](templates/arbeitsrecht-ki-weisung-und-quellen.docx) |
+| AR-02 | [Der grüne Haken bei einer erfundenen Freigabe](../testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/README.md) | Persönliche Prüfleistung, qualitative Schlechtleistung, Abmahnung und ordentliche Kündigung | [Word-Vorlage](templates/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung.docx) |
+| AR-03 | [Der Preisanhang im Gastkonto](../testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/README.md) | Vertrauliche Eingaben in frei verfügbare KI, außerordentliche Kündigung und Kenntnisfrist | [Word-Vorlage](templates/arbeitsrecht-ki-gaestekonto-und-geheimnis.docx) |
+| AR-04 | [Zwölf fehlende Minuten je Schicht](../testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/README.md) | Vorgegebener KI-Einsatz, wirksame Schulung, Aufsichtspflicht und persönliche Vorwerfbarkeit | [Word-Vorlage](templates/arbeitsrecht-ki-pflichtsystem-und-schulung.docx) |
+| AR-05 | [Die freie Prüfstelle steht im alten Organigramm](../testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/README.md) | Betriebsbedingte Kündigung, tatsächlicher Arbeitsplatzwegfall, zumutbare Qualifizierung und Sozialauswahl | [Word-Vorlage](templates/arbeitsrecht-ki-kuendigung-und-qualifizierung.docx) |
+| AR-06 | [Zwölf Schulungsplätze für eine neue Fertigung](../testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/README.md) | Betriebsänderung, Interessenausgleich, Qualifizierungs-Sozialplan und Mitbestimmung bei Berufsbildung | [Word-Vorlage](templates/arbeitsrecht-ki-betriebsaenderung-und-sozialplan.docx) |
+| AR-07 | [Unter siebzig öffnet sich kein Bewerbungsgespräch](../testakten/arbeitsrecht-ki-scoring-und-beteiligung/README.md) | Personalbewertung nach Anhang III Nr. 4 KI-VO, Information, Mitbestimmung und menschliche Überprüfung | [Word-Vorlage](templates/arbeitsrecht-ki-scoring-und-beteiligung.docx) |
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Paket | Download |
+| --- | --- |
+| 14 Arbeitsakten mit Vorlagen aus beiden Fallreihen | [Workshop-ZIP KI und Arbeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/KI_und_Arbeit_14_Testakten_und_Vorlagen.zip) |
+| Fallbezogene Gegenprüfung für die Moderation | [Nachbesprechung KI und Arbeit](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-arbeit-reskilling-v445.35.4/KI_und_Arbeit_Nachbesprechung.zip) |
+
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 107 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+Automatisch generierte Komplett-Liste aller 108 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
-English: Complete list of all 107 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+English: Complete list of all 108 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
@@ -230,6 +253,7 @@ English: Complete list of all 107 skills in this plugin. Both links in each row 
 | [`hinschg-whistleblower-repressalie`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/hinschg-whistleblower-repressalie/SKILL.md) | Für Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/hinschg-whistleblower-repressalie/SKILL.md) |
 | [`homeoffice-kontrolle-arbeitnehmerdatenschutz`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/homeoffice-kontrolle-arbeitnehmerdatenschutz/SKILL.md) | Prüft digitale Leistungs- und Verhaltenskontrollen im Homeoffice: Weisungsrecht, Datenschutz, Verhältnismäßigkeit, Mitbestimmung, Beweisverwertung und mildere Mittel. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/homeoffice-kontrolle-arbeitnehmerdatenschutz/SKILL.md) |
 | [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Fachanwalt Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md) |
+| [`ki-einfuehrung-qualifizierung-kuendigung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/ki-einfuehrung-qualifizierung-kuendigung/SKILL.md) | Prüft Weisung, Ergebniskontrolle, Vertraulichkeit, Beteiligung und Qualifizierung beim KI-Einsatz. Erstellt Betriebsratsvorlage, Qualifizierungsplan oder Entwurf zur Abmahnung oder Kündigung mit Aktenbelegen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/ki-einfuehrung-qualifizierung-kuendigung/SKILL.md) |
 | [`kschg-risikoampel-und-gegenargumente`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kschg-risikoampel-und-gegenargumente/SKILL.md) | Für Kschg Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kschg-risikoampel-und-gegenargumente/SKILL.md) |
 | [`kuendigung-per-einschreiben-risiken`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kuendigung-per-einschreiben-risiken/SKILL.md) | Für Kündigung Per Einschreiben Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kuendigung-per-einschreiben-risiken/SKILL.md) |
 | [`kuendigungsschutzklage`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kuendigungsschutzklage/SKILL.md) | Für Kündigungsschutzklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Arbeitsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-arbeitsrecht/skills/kuendigungsschutzklage/SKILL.md) |

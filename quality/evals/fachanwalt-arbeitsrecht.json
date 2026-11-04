@@ -70,7 +70,7 @@
   },
   "schema_version": 1,
   "plugin": "fachanwalt-arbeitsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-11-04",
   "sources": [
     {
       "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
@@ -212,11 +212,56 @@
       "checked_on": "2026-10-16",
       "supports": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund. Grenze: Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
       "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-721-12/",
+      "checked_on": "2026-11-04",
+      "supports": "BAG, Urteil vom 29.08.2013, 2 AZR 721/12, Rn. 15 bis 22. Konkrete freie Stelle, Qualifizierung, zumutbare Einarbeitung und abgestufte Darlegung prüfen. Kein Anspruch auf Schaffung einer Stelle oder beliebige Weiterbildung. Der Fall betraf ein Zutrittsverbot, keinen KI-Einsatz."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-12-14/",
+      "checked_on": "2026-11-04",
+      "supports": "BAG, Beschluss vom 22.03.2016, 1 ABR 12/14, Rn. 16 bis 29. Prüfe die konkrete Umsetzung einer neuen Arbeitsmethode und ihr qualitatives Gewicht. Lean-Management im entschiedenen Fall. Die Betriebsänderung bei KI hängt von Organisation, Methode und Auswirkung im konkreten Betrieb ab."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-282-10/",
+      "checked_on": "2026-11-04",
+      "supports": "BAG, Urteil vom 24.03.2011, 2 AZR 282/10, Rn. 22 bis 31. Konkrete Weisung, Drittzugriff, Pflichtverletzung und Abmahnung bei Datenverarbeitung getrennt prüfen. Private Festplatte im Einzelfall. Abweichende Risiken eines externen KI-Anbieters ermitteln."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-330-16/",
+      "checked_on": "2026-11-04",
+      "supports": "BAG, Urteil vom 18.10.2017, Leitsatz und Rn. 60 bis 75. Keine Bindung an eine Weisung außerhalb billigen Ermessens. Die konkrete Entscheidung betraf eine Versetzung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__1.html",
+      "checked_on": "2026-11-04",
+      "supports": "Weiterbeschäftigung, zumutbare Qualifizierung, abgestufte Darlegung nach BAG und getrennte Sozialauswahl."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/betrvg/__97.html",
+      "checked_on": "2026-11-04",
+      "supports": "Mitbestimmung bei der Einführung betrieblicher Berufsbildung nach arbeitgeberseitig veranlasster Tätigkeitsänderung und konkreter Qualifikationslücke."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__130.html",
+      "checked_on": "2026-11-04",
+      "supports": "Erforderliche und schuldhaft unterlassene Aufsicht, konkrete sanktionsbewehrte Zuwiderhandlung gegen Inhaberpflicht, Verhinderungs- oder Erschwerungswirkung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A32026R1744",
+      "checked_on": "2026-11-04",
+      "supports": "Artikel 1 Nummer 5 und 40, Artikel 4. Kompetenzentwicklung als Maßnahmenpflicht seit 27.07.2026, keine Kompetenzgarantie. Kapitel III Abschnitte 1 bis 3 für Anhang-III-Systeme grundsätzlich ab 02.12.2027."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0065",
+      "checked_on": "2026-11-04",
+      "supports": "EuGH, Urteil vom 19.12.2024, C-65/23, Rn. 44 bis 61. Vollständige Kontrolle der Erforderlichkeit der Verarbeitung und Einhaltung von Artikel 5, 6 und 9 DSGVO auch bei Kollektivvereinbarung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Ergänzung vom 04.11.2026. Kompakten Einstieg bei KI-bezogenen Personalmaßnahmen mit Stichtagsprüfung, Pflichtenabgrenzung, Beteiligung und milderen Mitteln ergänzt.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
@@ -226,31 +271,34 @@
       "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
       "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+      "04.11.2026: Kompakten Einstieg bei KI-bezogenen Personalmaßnahmen mit Stichtagsprüfung, Pflichtenabgrenzung, Beteiligung und milderen Mitteln ergänzt.",
+      "Wiederholte Fristen- und Ausgabeschritte verdichtet und bestehende Beleg- und Fallanker erhalten. Grenzen des Mini-Formats geprüft."
     ],
-    "sha256": "ee74203f4b0d872ccb471d1d5379ead350c92247c7c7ea14361de04a811d2826",
-    "reviewed_on": "2026-10-01",
+    "sha256": "0a6afe7c6bc04c1e737291f796e63513a67f2cc332513b1d87212e5e50020133",
+    "reviewed_on": "2026-11-04",
     "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-11-04",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Hauptproblem-Prompt und zugeordneter Skill vollständig gelesen. Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung. Skill unverändert, da mit dem präzisierten Prompt vereinbar. Quellenprüfung im dokumentierten Umfang, kein Live-Modelltest. Workflow-Ergänzung: Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen. Ergänzung vom 04.11.2026. Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
-      "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert."
+      "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert.",
+      "04.11.2026: Kündigungsgrund mit KI-Bezug und konkrete Qualifizierung als milderes Mittel von der eigenständigen Annahmeverzugsrechnung abgegrenzt."
     ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
-    "prompt_sha256": "050dedb1b76e97dce77052749e9d9c1f0e49a551b3153b0d1bbcd1d28693db4e",
+    "prompt_sha256": "2f097024e60b38814834d0f96fab9bfc2bae8c6b327272723929602e0466d391",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
     "skill_sha256": "d5d857ca9d91a2d19589243edb189b6c3addebacad653d770395138695f4d6a5"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
+    "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern. Ergänzung vom 04.11.2026. Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert.",
     "changes": [
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
@@ -261,9 +309,11 @@
       "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern.",
       "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Konkreter Arbeitsvorgang und fertiger Entwurf eröffnen die Arbeit; Zugangsnachweis und Kündigungsfrist werden anschaulich verknüpft. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+      "04.11.2026: Nutzungsweisung, Vorstandsentscheidung und Organisationsbeitrag von konkretem Fehlverhalten getrennt. Fortbildung, Stellenwegfall, Betriebsänderung und Personalscoring mit Normen und eng gefassten Entscheidungsankern operationalisiert."
     ],
-    "sha256": "0cc3b4d13e16ece58ffa409e78a0901218daa86305a349a723edd3290fe66cc3"
+    "sha256": "c3611a2565c80496a8d6e277bce7d519cb00dc84a7e7bf22f10fe523e5b2ccb6",
+    "reviewed_on": "2026-11-04"
   },
   "selection": {
     "positive": [
@@ -354,10 +404,466 @@
         }
       ],
       "target_skill": "annahmeverzugslohn-zeitraeume-und-anrechnung"
+    },
+    {
+      "id": "ki-zwang-und-externer-upload",
+      "request": "Für den Beschäftigten soll eine interne Verteidigungsnotiz entstehen. Die Arbeitgeberin schrieb den freigegebenen KI-Assistenten zur Dokumentenzusammenfassung vor. Nach einem Systemausfall verlangte der Teamleiter die sofortige Fertigstellung. Der Mitarbeiter klickte im Browser auf ein öffentliches KI-Tool. Ein Proxylog belegt nur den Seitenbesuch. Die Arbeitgeberin behauptet einen Upload des vollständigen Kundendokuments, obwohl der Mitarbeiter lediglich einen anonymisierten Ausschnitt eingegeben haben will. Eine frühere Abmahnung betraf wiederholt verspätete Zeiterfassung. Schulungsnachweis und Bekanntgabe der Ausfallregelung fehlen. Die Arbeitgeberin erwägt eine fristlose Kündigung. Formuliere eine Stellungnahme mit Beleganforderung und trenne Datenschutzvorfall und Kündigungsprüfung.",
+      "input_files": [],
+      "deliverables": [
+        "stellungnahme-ki-upload.md"
+      ],
+      "criteria": [
+        {
+          "id": "uebertragung",
+          "text": "Trennt Seitenbesuch, konkrete Übertragung, Inhalt und Datenverarbeitung beim Anbieter. Der Proxylog genügt nicht für den behaupteten Upload.",
+          "deliverables": [
+            "stellungnahme-ki-upload.md"
+          ]
+        },
+        {
+          "id": "organisation",
+          "text": "Würdigt Weisung, Termindruck, tatsächliche Schulung und Freigaben neben der möglichen persönlichen Pflichtverletzung.",
+          "deliverables": [
+            "stellungnahme-ki-upload.md"
+          ]
+        },
+        {
+          "id": "reaktion",
+          "text": "Prüft wichtige Gründe, mildere Mittel, Relevanz der früheren Abmahnung, Zweiwochenfrist und Anhörung bei bloßem Verdacht sowie Beteiligung des zuständigen Betriebsrats.",
+          "deliverables": [
+            "stellungnahme-ki-upload.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+    },
+    {
+      "id": "ki-wegfall-und-freie-stelle",
+      "request": "Erstelle für die Kündigungsschutzklage einen Entwurf zur fehlenden sozialen Rechtfertigung. Der Arbeitgeber automatisiert die erste Ticketprüfung und streicht vier Stellen. Laut Umsetzungsplan bleiben wöchentlich 72 Stunden für Plausibilisierung, Eskalation und Korrektur. Die neuen Stellenprofile wurden zwei Monate vor Ausspruch erstellt. Eine gleich vergütete Stelle der Qualitätssicherung wird bei demselben Unternehmen drei Wochen vor Ablauf der Kündigungsfrist frei. Laut Stellenprofil fehlt der Arbeitnehmerin nur das interne Zertifikat, ein vierwöchiger Kurs beginnt in der Woche nach dem Kündigungszugang. Die Arbeitgeberin verweist auf Schulungskosten und eine beabsichtigte Fremdbesetzung. Sozialdaten vergleichbarer Beschäftigter wurden teilweise ohne Nachweis aus einem Scoring-System übernommen.",
+      "input_files": [],
+      "deliverables": [
+        "kuendigungsschutz-ki-qualifizierung.md"
+      ],
+      "criteria": [
+        {
+          "id": "restarbeit",
+          "text": "Prüft dauerhaften Tätigkeitswegfall mit tatsächlicher Kapazität und verbleibender Kontrollarbeit.",
+          "deliverables": [
+            "kuendigungsschutz-ki-qualifizierung.md"
+          ]
+        },
+        {
+          "id": "alternative",
+          "text": "Verknüpft konkret frei werdende Stelle, Kursbeginn, -dauer, Kosten, Eignung und abgestufte Darlegung nach Paragraf 1 Absatz 2 KSchG.",
+          "deliverables": [
+            "kuendigungsschutz-ki-qualifizierung.md"
+          ]
+        },
+        {
+          "id": "auswahl",
+          "text": "Prüft vergleichbare Arbeitnehmer und vier Sozialdaten getrennt von der Weiterbeschäftigungsalternative und fordert überprüfbare Originalbelege an.",
+          "deliverables": [
+            "kuendigungsschutz-ki-qualifizierung.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+    },
+    {
+      "id": "ki-score-und-betriebsratsrechte",
+      "request": "Entwirf für den Betriebsrat eine Beteiligungsvorlage zu einem geplanten Rollout am 19.11.2026 in einem Werk mit 260 wahlberechtigten Beschäftigten. Ein Bewerber-Ranking verwirft unterhalb des Schwellenwerts automatisch Profile. Die Personalabteilung sieht nur verbleibende Profile. Das gleiche Projekt führt im Servicebereich neue Kontrollaufgaben ein. Dort reichen die bisherigen Fachkenntnisse bei 24 Beschäftigten nach Testprotokoll nicht mehr aus. Die Geschäftsführung hat weder Unterlagen vorgelegt noch Beteiligungsverfahren eingeleitet und beruft sich auf die zeitlich verschobenen Hochrisikopflichten. Ordne die einzelnen Beteiligungsrechte und den benötigten Qualifizierungsentwurf zu.",
+      "input_files": [],
+      "deliverables": [
+        "betriebsratsvorlage-ki-rollout.md"
+      ],
+      "criteria": [
+        {
+          "id": "zeitachse",
+          "text": "Trennt Artikel 4 KI-VO seit 27.07.2026, Anhang-III-Hochrisikopflichten grundsätzlich ab 02.12.2027 und schon anwendbare Pflichten nach BetrVG und DSGVO.",
+          "deliverables": [
+            "betriebsratsvorlage-ki-rollout.md"
+          ]
+        },
+        {
+          "id": "auswahl",
+          "text": "Würdigt maßgebliche automatisierte Vorauswahl und echte menschliche Entscheidungsbefugnis nach Artikel 22 DSGVO getrennt von Anhang III Nummer 4 KI-VO.",
+          "deliverables": [
+            "betriebsratsvorlage-ki-rollout.md"
+          ]
+        },
+        {
+          "id": "beteiligung",
+          "text": "Begründet Paragraf 90 und Paragraf 97 Absatz 2 BetrVG gesondert, prüft weitere Beteiligungstatbestände und die Betriebsänderung anhand der tatsächlichen Auswirkungen.",
+          "deliverables": [
+            "betriebsratsvorlage-ki-rollout.md"
+          ]
+        }
+      ],
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung"
+    },
+    {
+      "id": "arbeitsrecht-ki-weisung-und-quellen",
+      "request": "Sibel Erdem, seit März 2018 technische Sachbearbeiterin, bearbeitet Reklamationen für industrielle Dosierpumpen. Bis September musste jede Antwort die betroffene Lieferbedingung und die zuletzt vereinbarte Prüfspezifikation nennen. Nach dem Vorstandsbeschluss vom 5. Oktober soll Erdem alle Antworten mit dem Assistenten Formspur vorbereiten. Zwei Kundenvorgänge betreffen eine Nachtragsvereinbarung, die Formspur nicht durchsuchen kann. Erdem verwendet die Vertragsakte und arbeitet ohne Assistent weiter. Ihr Teamleiter wertet das als Arbeitsverweigerung und kündigt eine Abmahnung an. Erdem möchte ihren Arbeitsplatz behalten und bittet um ein Schreiben vor dem Personalgespräch am 22. Oktober. Entwirf für die Arbeitnehmerin ein Antwortschreiben auf die KI-Nutzungsanordnung und einen internen Prüfvermerk zu Weisungsgrenzen, Kontrollzeit und Absicherung eines Arbeitsangebots.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-weisung-und-quellen/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Den Vollbetrieb an § 93 Abs. 1 AktG mit Informationsbasis, Auswahlalternativen und Folgekosten prüfen. Unternehmerisches Ermessen setzt die Einhaltung bindender Vorgaben voraus. Aus einer Stichprobe folgt keine allgemeine Pflicht zum KI-Einsatz.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Die ISION-Anforderungen betreffen die Entlastung bei sachverständigem Rat. Anbieterprognose und Modelltext begründen keine vergleichbare Vertrauensgrundlage. Unabhängige fachliche Beratung und fachliche Validierung trennen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Vertragsrahmen, billiges Ermessen, tatsächliche Prüfmöglichkeit und Überwachung getrennt prüfen. Den nach dem Nachtrag schwächeren Standardfall von den zwei Sonderfällen abgrenzen. Eine kontrollierte Toolnutzung allein ersetzt die persönliche Leistung nicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Alternativszenario mit Gewichtung 180 zu 60, realistischen Folgekosten und gesicherter Quellenkontrolle vorlegen. Die vertragliche Freigabe bleibt bei der Sachbearbeitung.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-freigabeprotokoll-und-abmahnung",
+      "request": "Jaro Ahlfs ist seit Februar 2021 im Kundendienst beschäftigt. Er hat am 23. Oktober 2026 eine ordentliche Kündigung zum 31. Dezember 2026 erhalten. Die Personalstelle wirft ihm zwei sachlich falsche Mitteilungen zu Lieferfenstern und eine erfundene Freigabe zur kostenlosen Rücknahme von 36 Mehrwegboxen vor. Für die Rücknahme hat das Unternehmen eine Transportrechnung über 1.640 Euro erhalten. Ahlfs durfte Antworten mit dem freigegebenen Assistenten Boxtext entwerfen. Nach der Arbeitsanweisung musste er Freigaben im Vorgangsregister gegenlesen. Er hat im September eine schriftliche Abmahnung erhalten und räumt für eine der aktuellen Mitteilungen ein, das Originaldokument nicht geöffnet zu haben. Erstelle eine Klageskizze gegen die ordentliche Kündigung und eine Gegenüberstellung der behaupteten Pflichtverstöße mit Quellen, Beweisantritten, Prognose und milderen Mitteln.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-freigabeprotokoll-und-abmahnung/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Frist ab Zugang 23. Oktober bis einschließlich 13. November 2026 prüfen. Behauptete Verstöße, Abmahnungsbezug, Zukunftsprognose und Verhältnismäßigkeit separat subsumieren.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Fall Z-348 nach der einschlägigen Abmahnung ernsthaft gewichten. Offener Browsertab belegt keinen Abgleich des konkreten Datensatzes. Versand von Z-392 durch eine andere Person klärt den Versand, die Verantwortung für einen fehlerhaften Entwurf bleibt prüfbar.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Den grünen Haken, Aufgabenmix, Schulungsstand und tatsächliche Eingriffsmöglichkeiten berücksichtigen. Die bloße Fehlerquote beweist kein steuerbares individuelles Fehlverhalten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Anhörung nach § 102 BetrVG, Rolleninhaberschaft und Aussagekraft der Logs prüfen. § 613 BGB begründet für sich genommen kein Verbot des Hilfswerkzeugs.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-gaestekonto-und-geheimnis",
+      "request": "Mila Schuster ist seit 2017 im technischen Einkauf tätig. Am 23. Oktober 2026 übergab ihr der Geschäftsführer eine fristlose und hilfsweise ordentliche Kündigung. Die Firma wirft ihr vor, am 5. Oktober die Verhandlungsuntergrenze für sechs Kalibriervorrichtungen und direkte Kundendurchwahlen in ein über die Anbieterseite zugängliches KI-Gastkonto eingegeben zu haben. Schuster sagt, sie habe für eine Anfrage eine Übersetzung benötigt und geglaubt, über den Link im Intranet in die abgeschottete Firmeninstanz zu gelangen. Sie hat den Vorfall am 6. Oktober selbst gemeldet. Eine Kündigungsandrohung oder Abmahnung wegen vertraulicher Daten liegt nicht vor. Entwirf eine Kündigungsschutzklage mit getrennten Anträgen gegen außerordentliche und hilfsweise ordentliche Kündigung sowie eine Frist- und Beweismatrix.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/09_Besprechungsfolien.pptx",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-gaestekonto-und-geheimnis/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Kenntnis am 6. Oktober führt bei normalem Lauf zum 20. Oktober, Kenntnis am 12. Oktober zum 26. Oktober. Nicht jeden Verdacht mit vollständiger Kenntnis gleichsetzen. Zweifel an der externen Übermittlung, Zweck und Zügigkeit der Ermittlungen konkret würdigen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Interesse, wirtschaftlicher Wert und konkrete Geheimhaltungsmaßnahmen prüfen. Eine tatsächliche Übermittlung an einen Dienst ist von Veröffentlichung, Drittweitergabe oder Modelltraining abzugrenzen. DSGVO-Fragen separat prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Tatsachenkenntnis, Schutzregeln, Erkennbarkeit, Selbstmeldung, Betriebszugehörigkeit und Abmahnung bzw. technische Sperre in der Interessenabwägung gewichten. § 102 BetrVG für beide Kündigungsarten prüfen. Fehlende Beilage allein entscheidet die Vollständigkeit noch nicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Klagefrist für beide am 23. Oktober zugegangenen Kündigungen bis 13. November 2026 berechnen. Hilfsweise ordentliche Kündigung in eigenem Prüfungsgang behandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-pflichtsystem-und-schulung",
+      "request": "Im Nachthub der Silberwacht Nachtlogistik GmbH werden Fahrzeuge für regionale Zustelltouren verladen. Der Arbeitgeber verpflichtet die Teamleitung seit dem 15. September, handschriftliche Schichtzettel mit dem KI-Dienst Zeitfalz in Arbeitszeitdatensätze umzuwandeln. Nach einer Beschwerde von Beschäftigten stellt Disponentin Dorothee Greve fest, dass zwölf Minuten Übergabezeit pro betroffener Schicht im System fehlen. Die Personalstelle will Teamleiter Balduin Wenzel abmahnen. Er hatte die Zeiten im Sammelfenster freigegeben. Bei 18 Beschäftigten wurden für September insgesamt 43,2 Stunden weniger erfasst, als in den unterschriebenen Zetteln stehen. Die Firma hatte die korrekte Erfassung verbindlich auf den neuen Ablauf umgestellt. Erstelle eine Stellungnahme zur beabsichtigten Abmahnung und einen Maßnahmenvermerk zur Wiederherstellung richtiger Arbeitszeitaufzeichnungen und Rollen.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-pflichtsystem-und-schulung/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "216 × 12 Minuten ergeben 43,2 Stunden. Ob alle Datensätze unter die Aufzeichnungspflicht fallen und wie sich Entgelt tatsächlich berechnet, separat prüfen. Berichtigung beseitigt einen etwa bereits eingetretenen Fristverstoß nicht rückwirkend.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Für § 130 OWiG eine konkrete bußgeldbewehrte Inhaberpflicht, mögliche Zuwiderhandlung, unterlassene Aufsicht und Verhinderungszusammenhang prüfen. Aus der Vorschrift folgt keine allgemeine KI-Schulungspflicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Art. 4 KI-VO in der Fassung ab 27. Juli 2026 betrifft kontextbezogene Fördermaßnahmen des Anbieters oder Betreibers. Einladung, Teilnahme und nachgewiesenes Können unterscheiden. Die betriebliche Möglichkeit, den konkreten Fehler zu erkennen, gesondert beurteilen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Fehlerzuordnung nach Septemberansicht und Oktoberwarnung trennen. Für eine Abmahnung konkrete vorwerfbare Handlung und Weisung bezeichnen. Korrektur mit geschütztem Log, Stichprobe, Zweitprüfung und funktionsfähigem Ersatzverfahren ausgestalten.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-kuendigung-und-qualifizierung",
+      "request": "Am 23. Oktober 2026 erhält Ayla Benedek eine ordentliche Kündigung zum 31. März 2027. Sie arbeitet seit dem 1. Juni 2014 in der Retourendiagnostik. Die Firma führt ein kameragestütztes Modell zur Klassifikation zurückgesandter Steuergeräte ein und will von acht Diagnosearbeitsplätzen vier streichen. Benedek ist 51 Jahre alt, hat zwei unterhaltsberechtigte Kinder und ist technisch ausgebildet. Sie hat sich am 9. Oktober schriftlich mit Qualifizierung, Wechsel in eine andere Betriebsstätte desselben Unternehmens und einer geringeren Eingruppierung einverstanden erklärt. Im Betrieb arbeiten 124 Personen. Ihr Ziel ist die Weiterbeschäftigung. Erstelle einen Kündigungsschutzentwurf mit Matrix zu Restarbeit, freien Stellen, Qualifizierung, Vergleichsgruppen und Beweisangeboten.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/09_Besprechungsfolien.pptx",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-kuendigung-und-qualifizierung/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Klagefrist vom 23. Oktober bis 13. November 2026 prüfen. Für den Arbeitsplatzwegfall Zeitpunkt, Umsetzung und verbliebene Aufgaben belegen. Restmengen und Zusatzstunden mit 132 produktiven Stunden abgleichen und weitere Teilaufgaben oder Zeitbindung ermitteln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "FP-17 als vor Ablauf der Kündigungsfrist freie Stelle beim selben Arbeitgeber behandeln. Aus vier Wochen und 32 Kursstunden folgt eine konkrete Zumutbarkeitsprüfung. Eine Stelle bei einer anderen Gesellschaft führt ohne besondere Grundlage nicht zur allgemeinen konzernweiten Weiterbeschäftigungspflicht.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "Weiterbeschäftigung und zumutbare Fortbildung als milderes Mittel auch über § 1 Abs. 2 Satz 1 KSchG prüfen. Qualifizierung, Beschäftigung zu geänderten Bedingungen, erklärte Zustimmung und Änderungskündigung getrennt behandeln. Keine Pflicht zur Schaffung eines neuen Arbeitsplatzes unterstellen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Sozialauswahl, Vergleichbarkeit, berechtigtes betriebliches Interesse an Spezialkenntnissen und Anspruch nach § 102 Abs. 5 BetrVG getrennt prüfen. Der Nachweis, dass die Schichtleitung ebenfalls zurücksetzen kann, schwächt die behauptete Unverzichtbarkeit.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-betriebsaenderung-und-sozialplan",
+      "request": "Die Windenfeld Glasformen GmbH produziert Laborbehälter. Im Amberger Werk arbeiten regelmäßig 118 Beschäftigte, davon 54 im Bereich Oberflächenprüfung und Nacharbeit. Die Geschäftsführung bestellt für Anfang 2027 eine bildgestützte KI-Kontrolle, die die Handprüfstationen und die Schichtorganisation ersetzen soll. Der Betriebsrat erhielt am 8. Oktober eine Folie zum geplanten Probebetrieb. Die Standortleiterin bezeichnete die Änderung als neue Messhilfe und kündigte an, am selben Tag mit dem Aufbau von zwei Stationen zu beginnen. Der Betriebsrat verlangt die vollständige Planung und einen konkreten Vorschlag zum Erhalt von Arbeitsplätzen. Die angebotenen zwölf Schulungsplätze reichen für die bisher angekündigten Einsatzfelder nicht aus. Erstelle für den Betriebsrat einen Verhandlungsentwurf zum Interessenausgleich und Sozialplan. Füge eine Qualifizierungsanlage mit Zielgruppen, Finanzierung, Auswahl und Ausfallregeln bei.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-betriebsaenderung-und-sozialplan/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Mehr als zwanzig Wahlberechtigte und mögliche wesentliche Nachteile bestimmen. Prüfe den organisatorischen Zuschnitt und grundlegende neue Arbeitsmethoden nach § 111 Satz 3 Nr. 4 und 5 BetrVG am konkreten Änderungsumfang. Der Verkauf vor Beratung kann für den Umsetzungsbeginn sprechen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Interessenausgleich betrifft das Ob, Wann und Wie und ist nicht per Spruch erzwingbar. Sozialplan gleicht wirtschaftliche Nachteile aus oder mildert sie und ist grundsätzlich erzwingbar, sofern die Voraussetzungen vorliegen. § 112a bei einer ausschließlich personalabbauenden Betriebsänderung gesondert prüfen. Möglichen Nachteilsausgleich nach § 113 prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "§ 96 Bedarfsermittlung, § 97 Abs. 2 Einführung betrieblicher Bildungsmaßnahmen und § 98 Durchführung auseinanderhalten. Tätigkeitsänderung und unzureichende Kenntnisse anhand Fehlerklassifizierung und Handzettel-Test nachweisen. Qualifizierungsmaßnahmen zur Beschäftigungssicherung und Nachteilsmilderung konkret berechnen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "Elf beabsichtigte Kündigungen und zwei vom Arbeitgeber angeregte Aufhebungen getrennt verifizieren. § 17 KSchG bei tatsächlicher Veranlassung und Einordnung in einen Zeitraum von 30 Kalendertagen prüfen. Mitbestimmung zu technischer Überwachung und Planung als eigene Ebene behandeln.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsrecht-ki-scoring-und-beteiligung",
+      "request": "Bei der Schneidrain Prüfservice AG sind zwei Stellen als Teamleitung für Werksprüfungen ausgeschrieben. Jana Korab arbeitet seit 2019 in der Geräteprüfung. Von März bis August 2027 war sie in Elternzeit. Am 6. Dezember kommt erstmals ein neues System namens Stufenrad zum Einsatz. Es ordnet die Bewerbungen nach einem aus bisherigen Leistungs- und Verfügbarkeitsdaten berechneten Eignungswert. Korab erhält 68 von 100 Punkten und am Folgetag eine Standardabsage. Bewerberinnen und Bewerber unter 70 Punkten erscheinen auf der Gesprächsliste nicht. Im April hatte die Arbeitgeberin nur einen Versuch mit vollständig synthetischen Personaldaten gezeigt. Erstelle für eine Beschäftigte und den Betriebsrat getrennte Schreiben mit Anspruchs- und Beteiligungsmatrix. Fordere bei der Personalstelle eine belegte Neubewertung mit wirksamer menschlicher Prüfung an.",
+      "target_skill": "ki-einfuehrung-qualifizierung-kuendigung",
+      "input_files": [
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/01_Eingang.eml",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/02_Sachgrundlage.docx",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/03_Stellungnahme.eml",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/04_Datenregister.xlsx",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/04a_Rohdaten.csv",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/05_Registerauszug.png",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/06_Nachtrag.pdf",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/07_Besprechungsvermerk.docx",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/08_Arbeitsauftrag.pdf",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/09_Besprechungsfolien.pptx",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/10_Beleg_10.pdf",
+        "testakten/arbeitsrecht-ki-scoring-und-beteiligung/11_Beleg_11.pdf"
+      ],
+      "deliverables": [
+        "Entwurf.docx"
+      ],
+      "criteria": [
+        {
+          "id": "kontrolle-1",
+          "text": "Der erste reale Einsatz am 6. Dezember 2027 fällt nach dem 2. Dezember 2027. Die Einordnung nach Art. 6 Abs. 2 i. V. m. Anhang III Nr. 4 und die mögliche Ausnahme nach Art. 6 Abs. 3 prüfen. Bei Profiling greift die Ausnahme nicht. Sachlicher Zweck und tatsächliche Sperrwirkung tragen die Einordnung stärker als der Produktname.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-2",
+          "text": "Zeitpunkt und Rechtsstand von Demonstration, Inverkehrbringen und Inbetriebnahme auseinanderhalten. Art. 111 und Art. 113 KI-VO prüfen. Information nach Art. 26 Abs. 7 gilt gegenüber Beschäftigtenvertretung und betroffenen Beschäftigten vor Inbetriebnahme oder Nutzung. Art. 86 bei Vorliegen seiner eigenen Voraussetzungen prüfen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-3",
+          "text": "DSGVO, insbesondere Art. 22, anhand des faktischen Ausschlusses prüfen. Das bloße Abzeichnen einer unvollständigen Rangliste ist keine echte inhaltliche Kontrolle. Zweck, Datenherkunft, Information, Berichtigung und Auswahlregel getrennt untersuchen.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        },
+        {
+          "id": "kontrolle-4",
+          "text": "§§ 80, 87, 90, 95 und gegebenenfalls § 99 BetrVG nach ihren Tatbeständen prüfen. Die Einsatzinformation nach KI-VO ersetzt keine Beteiligung. Elternzeit ist kein eigenes Merkmal aus § 1 AGG. Ein plausibler mittelbarer Bezug zu einem geschützten Merkmal verlangt weitere Tatsachen und eine eigene Prüfung von Fristen und Beweislast.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
+        }
+      ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-10-01",
+    "date": "2026-11-04",
     "files": [
       "fachanwalt-arbeitsrecht/README.md",
       "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-schnellstart.md",
@@ -370,9 +876,15 @@
       "fachanwalt-arbeitsrecht/skills/bem-verfahren/SKILL.md",
       "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-befristung-tzbfg/SKILL.md",
       "fachanwalt-arbeitsrecht/skills/fachanwalt-arbeitsrecht-bem-verfahren/SKILL.md",
-      "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/SKILL.md"
+      "fachanwalt-arbeitsrecht/skills/fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/ki-einfuehrung-qualifizierung-kuendigung/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/einstieg-routing/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/ar-kuendigungspruefung-workflow/SKILL.md",
+      "fachanwalt-arbeitsrecht/skills/low-performer-kuendigung-leistungsdefizit-pruefen/SKILL.md",
+      "testakten/megaprompts/fachanwalt-arbeitsrecht.md"
     ],
-    "opening_change": "Kündigung, Vergütung und Annahmeverzugszeiträume anhand der Akte bearbeiten; doppelte generische FAO-Rollenbeschreibung im Mini entfernt Workflow-Ergänzung: Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten. Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären. Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten.",
+    "opening_change": "Kündigung, Vergütung und Annahmeverzugszeiträume anhand der Akte bearbeiten; doppelte generische FAO-Rollenbeschreibung im Mini entfernt Workflow-Ergänzung: Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten. Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären. Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten. Für KI-bezogene Aufträge benennt der Einstieg den bestellten arbeitsrechtlichen Entwurf und die Reichweite der Qualifizierungspflicht.",
     "norms": [
       "Paragraf 615 BGB",
       "Paragraf 11 KSchG",
@@ -385,7 +897,10 @@
       "Paragraf 242 BGB",
       "Paragraf 102 Absatz 5 BetrVG",
       "Artikel 1 GG",
-      "Artikel 2 GG"
+      "Artikel 2 GG",
+      "Paragraf 106 GewO und Paragraf 613 BGB zur Weisung und zur persönlichen Arbeit.",
+      "Paragraf 90, 95, 97, 98, 111 und 112 BetrVG zu Beteiligung, Berufsbildung und Betriebsänderung.",
+      "Artikel 4, 6 und 26 Absatz 7 KI-VO mit Artikel 111 und 113 sowie Artikel 22 DSGVO."
     ],
     "decisions": [
       {
@@ -529,6 +1044,24 @@
         "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
         "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
+      },
+      {
+        "citation": "BAG, Urteil vom 29.08.2013, 2 AZR 721/12, Rn. 15 bis 22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-721-12/",
+        "application": "Konkrete freie Stelle, Qualifizierung, zumutbare Einarbeitung und abgestufte Darlegung prüfen.",
+        "limit": "Kein Anspruch auf Schaffung einer Stelle oder beliebige Weiterbildung. Der Fall betraf ein Zutrittsverbot, keinen KI-Einsatz."
+      },
+      {
+        "citation": "BAG, Beschluss vom 22.03.2016, 1 ABR 12/14, Rn. 16 bis 29",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-12-14/",
+        "application": "Prüfe die konkrete Umsetzung einer neuen Arbeitsmethode und ihr qualitatives Gewicht.",
+        "limit": "Lean-Management im entschiedenen Fall. Die Betriebsänderung bei KI hängt von Organisation, Methode und Auswirkung im konkreten Betrieb ab."
+      },
+      {
+        "citation": "BAG, Urteil vom 24.03.2011, 2 AZR 282/10, Rn. 22 bis 31",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-282-10/",
+        "application": "Konkrete Weisung, Drittzugriff, Pflichtverletzung und Abmahnung bei Datenverarbeitung getrennt prüfen.",
+        "limit": "Private Festplatte im Einzelfall. Abweichende Risiken eines externen KI-Anbieters ermitteln."
       }
     ],
     "remaining_limits": [
@@ -536,20 +1069,21 @@
       "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext.",
       "GS 1/84 über ausdrückliche Wiedergabe und Anwendung in amtlichen BAG-Folgeentscheidungen verifiziert; kein amtlicher Abruf des historischen Originalvolltexts.",
       "Workflow-Review 23.09.2026: Paragraf 4 KSchG erneut eingesehen. Vorhandener Nachweis zu BAG 5 AZR 37/25 bleibt Pressemitteilung; GS 1/84 nur in bisher dokumentierter amtlicher Vermittlung, keine neue Volltextprüfung.",
-      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Annahmeverzug: 2 AZR 96/24 ist bereits sachgerecht im Hauptproblem und zugeordneten Skill enthalten. 5 AZR 96/25 betrifft Tarifzuschläge und wird dort nicht dekorativ eingefügt; tragende Anrechnungsanker bleiben."
+      "Fachanwaltsaktualisierung 01.10.2026: zwei ausgewählte aktuelle Entscheidungen frisch im amtlichen Volltext passagenbezogen geprüft; keine Gesamtneuverifikation aller Altanker oder neuen Modelltests. Annahmeverzug: 2 AZR 96/24 ist bereits sachgerecht im Hauptproblem und zugeordneten Skill enthalten. 5 AZR 96/25 betrifft Tarifzuschläge und wird dort nicht dekorativ eingefügt; tragende Anrechnungsanker bleiben.",
+      "Arbeitsrechtliche KI-Einführung anhand konkreter Weisung, Ergebnisprüfung, Betriebsratsrechten, Qualifizierung und Kündigung geprüft. Gezielt gelesene Primärquellen und keine Live-Modellausführung."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-09-23",
+    "date": "2026-11-04",
     "method": "desk_review",
     "opening_modes": [
       "Leer: Kündigungsschutz, Annahmeverzugslohn oder Vertragsregelung anbieten.",
       "Dateien ohne Aufgabe: Kündigung, Lohnbelege und Leistungsbescheide still lesen; Schutz-, Zahlungs- oder Abwehrziel klären.",
       "Klarer Auftrag: bestellten Schriftsatz oder Zahlungsentwurf unmittelbar bearbeiten; keine erneute Aufnahme bekannter Beschäftigungsdaten."
     ],
-    "continuation": "Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung.",
-    "enrichment": "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
-    "limits": "desk review; no live client execution"
+    "continuation": "Arbeitslosengeld wurde nur zurückgefordert, aber noch nicht zurückgezahlt -> Anspruchsübergang und Zahlungsbegehren anders behandeln als bei nachgewiesener Rückzahlung. Bei später vorgelegtem Freigabelog oder internem Stellenangebot passe Kausalität, Abmahnungs- oder Weiterbeschäftigungsprüfung und den bestehenden Entwurf gezielt an.",
+    "enrichment": "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln. KI-Einsatz: Weisungsfassung, technische Rollen, Prüfzeit, Qualifikationslücke, reale Alternativstelle, Beteiligung und Stichtag erfassen.",
+    "limits": "Arbeitsrechtliche KI-Einführung anhand konkreter Weisung, Ergebnisprüfung, Betriebsratsrechten, Qualifizierung und Kündigung geprüft. Gezielt gelesene Primärquellen und keine Live-Modellausführung."
   },
   "source_audit_2026_09_30": {
     "date": "2026-09-30",
