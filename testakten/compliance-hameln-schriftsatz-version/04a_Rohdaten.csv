@@ -1,0 +1,6 @@
+Kennung;Fassung oder Versand;Zeitpunkt;Beobachtung
+A7;Interner PDF-Entwurf;12.10. 15:42;Schichttausch offen
+A8;DOCX mit Ergänzungen;12.10. 16:12;Schichttausch bestätigt
+M1;ZIP an Prozesskanzlei;12.10. 16:28;Prüfsumme entspricht A8
+M2;Kopie an Dienstleister;12.10. 16:28;Anhang ungeöffnet laut Log
+G1;PDF an Gericht;14.10. 10:05;Schichttausch auf S. 3

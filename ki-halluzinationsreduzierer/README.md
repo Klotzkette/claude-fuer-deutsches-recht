@@ -5,7 +5,7 @@
 
 Juristische Fundstellen am zugänglichen Originalvolltext prüfen: Existenz, Identität, Fundpunkt, Aussagekraft und Fallübertragbarkeit getrennt belegen. Zehn Fachskills und ein Hauptskill liefern Prüfbericht, offene Befunde und nachvollziehbare Korrekturfassung.
 
-Dieses Plugin gehört zum Marketplace mit 310 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -54,7 +54,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`ki-halluzinationsreduzierer-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.md) · [`ki-halluzinationsreduzierer-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-halluzinationsreduzierer/ki-halluzinationsreduzierer-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 310 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 311 Plugins. Das Sammelpaket [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) enthält seinen veröffentlichten Stand, nicht zwingend spätere Einzelpakete. Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Dieses juristische Plugin prüft Fundstellen in Schriftsätzen, Gutachten, Verträgen und anderen Rechtstexten. Es untersucht jede Quellenverwendung vom Originalnachweis bis zur Anwendung auf den Fall und erstellt einen ausformulierten Prüfbericht mit nachvollziehbarer Korrekturfassung. Es eignet sich für Kanzleien, Rechtsabteilungen, Gerichte und juristische Redaktionen. Ob der Ausgangstext mit KI erzeugt wurde, spielt für die Prüfung keine Rolle.

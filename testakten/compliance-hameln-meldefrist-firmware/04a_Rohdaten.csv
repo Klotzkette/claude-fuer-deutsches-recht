@@ -1,0 +1,7 @@
+Kennung;Vorgang;Stand;Beleggrenze
+H40;Mechanischer Schalter;Keine Software;Produktstamm
+C18;Controller mit Firmware;Version 3.7 bestätigt;Reichweite 3.8 offen
+D5;Diagnosesoftware;Separat lizenziert;Komponentenliste fehlt
+S61;Erster Hinweis;09.10. 08:40;Angriffsbeschreibung
+K18;Bestätigter Kundenvorfall;18.10. 20:16;Ausnutzung bei Kunde
+M18;Maileingang;18.10. 22:02;Lesestatus ungeklärt
