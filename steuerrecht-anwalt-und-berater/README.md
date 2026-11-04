@@ -87,6 +87,10 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
+## Steuerwerkstatt Freiburg
+
+Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enthält fünf Verfahrensakten und drei Vorführfälle. Zu den Akten gehören Word-Vorlagen für Erklärungsvorbereitung, Einspruch, Finanzgerichtsklage und Aussetzung der Vollziehung.
+
 ## 1. Schwerpunkt: Hinzuschätzung und Waren-Gegenkalkulation
 
 Für bargeldintensive Betriebe verbindet der Schwerpunkt Kassenmängel, Warenbestände, zeitgleiche Preise und die Rechnung der Außenprüfung. Aufwendige Mengenabgleiche und mögliche mehrjährige Steuerfolgen machen die Gegenkalkulation zu einem geeigneten wirtschaftlichen Schwerpunkt.

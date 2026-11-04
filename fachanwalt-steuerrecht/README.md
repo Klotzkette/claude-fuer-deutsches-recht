@@ -26,6 +26,8 @@ Der neue Name bündelt anwaltliche und steuerberatende Sicht in einem einzigen P
 
 ## Direkter Link zum Plugin
 
+Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) bündelt die Verfahrensakten, Vorführfälle und bearbeitbaren Vorlagen des gemeinsamen Steuerrechts-Plugins.
+
 ### Grundsteuerakte Wolkenfels
 
 Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berlin/README.md) enthält die beiden unverändert übernommenen Bescheid-PDFs und sechs ergänzende Unterlagen. Dieselbe Akte ist im gemeinsamen Steuerrechts-Plugin verzeichnet.
