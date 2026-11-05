@@ -26,6 +26,8 @@ Der neue Name bündelt anwaltliche und steuerberatende Sicht in einem einzigen P
 
 ## Direkter Link zum Plugin
 
+Die [Soloakte Hubertus Tomasius](../quality/steuerrecht-freiburg/tomasius-solo/README.md) ist dem gemeinsamen Plugin [steuerrecht-anwalt-und-berater](../steuerrecht-anwalt-und-berater/README.md#soloakte-hubertus-tomasius) zugeordnet.
+
 Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) bündelt die Verfahrensakten, Vorführfälle und bearbeitbaren Vorlagen des gemeinsamen Steuerrechts-Plugins.
 
 ### Grundsteuerakte Wolkenfels

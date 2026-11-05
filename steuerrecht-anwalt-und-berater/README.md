@@ -91,6 +91,16 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enthält sechs Verfahrensakten und drei Vorführfälle. Zu den Akten gehören Word-Vorlagen für Erklärungsvorbereitung, Einspruch, Finanzgerichtsklage und Aussetzung der Vollziehung.
 
+### Soloakte Hubertus Tomasius
+
+Die [Originalakte Tomasius 2025](../quality/steuerrecht-freiburg/tomasius-solo/README.md) führt Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit zusammen. Sie enthält Rechnungen, Honorare, VG WORT, Versicherungen, vollständige Kontoauszüge und bearbeitbare Arbeitsbögen für Auswertung und Steuererklärungen.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Originalakte als ZIP herunterladen](../quality/steuerrecht-freiburg/tomasius-solo/Testakte_Tomasius_Lebenswelt_2025_v2.zip)
+
 ## 1. Schwerpunkt: Hinzuschätzung und Waren-Gegenkalkulation
 
 Für bargeldintensive Betriebe verbindet der Schwerpunkt Kassenmängel, Warenbestände, zeitgleiche Preise und die Rechnung der Außenprüfung. Aufwendige Mengenabgleiche und mögliche mehrjährige Steuerfolgen machen die Gegenkalkulation zu einem geeigneten wirtschaftlichen Schwerpunkt.
