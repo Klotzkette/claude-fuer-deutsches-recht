@@ -18,6 +18,10 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
+## Umsatzsteuer-Voranmeldung als konkreter Auftrag
+
+Wenn eine Voranmeldung aus Belegen verlangt ist, beginne mit dem [Skill Umsatzsteuer-Voranmeldung erstellen](../umsatzsteuer-voranmeldung-erstellen/SKILL.md). Bestimme Unternehmer, Jahr und Zeitraum, Soll- oder genehmigte Istbesteuerung und bisherigen Abgabestand. Kläre nur entscheidende Lücken. Liefere die Erfassungstabelle oder führe die tatsächlich verfügbare freigegebene lokale Anbindung bis zum dokumentierten Abgabestatus fort. Ein Beispiel der Jahreserklärung und ein Rechnungs-XML müssen erst ihrer Datenart zugeordnet werden.
+
 ## Fachlicher Anker
 
 - **Normen:** § 6a, § 355 AO, § 356 AO.

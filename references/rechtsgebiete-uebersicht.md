@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 311 Plugins, 23391 Skills.
+Stand v445.35.3: 311 Plugins, 23392 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -267,7 +267,7 @@ Stand v445.35.3: 311 Plugins, 23391 Skills.
 | [`startup-gruender`](../startup-gruender/) | Startup-Gründer: 18 Skills für eine zügige UG- oder GmbH-Gründung mit Satzung und Gesellschaftervereinbarung DE/EN. Cap Table, Geschäftsführung, Statusprüfung, Beirat, Geldwäsche und Vollzug; Seed bis Serie B als Folgerouten. Mit Werkstatt und Schnittflug-Testakte. | `445.35.2` | 18 |
 | [`startup-hr-personalabteilung-berlin`](../startup-hr-personalabteilung-berlin/) | Personalabteilungs- und HR-Operations-Plugin für ein Berliner Start-up mit ca. 100 Beschäftigten: Arbeitsverträge, Payroll/DATEV-Schnittstelle, Personalakten, Datenschutz, AGG-Vorfälle, Betriebsrat, Benefits, Fehlzeiten, Kündigungen, Happiness-Management und Chef-Briefings. | `445.35.2` | 112 |
 | [`status-navigator-step-plan`](../status-navigator-step-plan/) | Status-Navigator und Step-Plan-Macher. Reine Dokumentenverarbeitung mit 36 Skills. Strukturiert disparate Dokumentenlagen in eine mehrseitige Excel-Arbeitsmappe und optional ein Padlet-Shelf mit Reitern Überblick, Vorhanden, Fehlend und Workflow. Keine rechtliche Bewertung. | `445.35.3` | 36 |
-| [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater/) | Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. | `445.35.2` | 238 |
+| [`steuerrecht-anwalt-und-berater`](../steuerrecht-anwalt-und-berater/) | Steuerrecht für Anwalt (anw- FAO Paragraf 9) und Steuerberater (stb-): Einspruch Klage FG Außenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. | `445.35.5` | 239 |
 | [`strafanzeige-vorbereiter`](../strafanzeige-vorbereiter/) | Vorsichtiger Strafanzeigen-Vorbereiter: prüft Anfangsverdacht, Beweise, Strafantrag, Risiken falscher Verdächtigung, Alternativen und erstellt nur bei tragfähiger Tatsachengrundlage eine nüchterne Strafanzeige. | `445.35.2` | 57 |
 | [`strafbefehl-verteidiger`](../strafbefehl-verteidiger/) | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. | `445.35.3` | 61 |
 | [`strafvollzug-jva`](../strafvollzug-jva/) | Strafvollzug in der JVA aus Sicht von Gefangenen, Angehörigen, Anwälten, Anstalt und Gericht bearbeiten. Landesrecht, Grundrechte, Alltag, Lockerungen und gerichtlichen Rechtsschutz prüfen und konkrete Anträge, Bescheide oder Entscheidungsentwürfe erstellen. | `1.1.0` | 11 |

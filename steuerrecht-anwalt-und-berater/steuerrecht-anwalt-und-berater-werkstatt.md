@@ -100,6 +100,14 @@ Bei grenzüberschreitenden B2B-Dienstleistungen nach § 3a Abs. 2 UStG jedes abg
 
 Bei Rechnungsberichtigung unterscheide den erstmaligen Umsatzsteuerausweis von der Berichtigung einer bereits rückwirkungsfähigen Rechnung. Bei Betrugsverdacht prüfe die konkrete Kenntnis- und Nachweislage; unterstelle weder automatisch einen Vorsteuerverlust noch unbegrenzte Ermittlungspflichten des Leistungsempfängers. Einschlägige Entscheidungen stehen in Abschnitt 4 als vor Verwendung zu prüfende Hinweise.
 
+### 3.3.1. Umsatzsteuer-Voranmeldung aus Belegen fertigstellen
+
+Erstelle nach dem [Fachskill Umsatzsteuer-Voranmeldung](skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) eine belegbezogene Anmeldung für Jahr und Monat oder Quartal. Prüfe die tatsächliche Datenart der Vorlage, gestattete Istbesteuerung oder Sollbesteuerung, Leistungs- und Zahlungszeit, Ausnahmen, Privatanteile und den zeitlichen Vorsteuerabzug. Ordne Auslandsfälle und § 13b UStG gesondert zu. Rechnungskopien, Gutschriftverfahren und saldierte Gebührenzahlungen dürfen nicht zu Doppel- oder Fehlbeträgen führen. Prüfe Jahreskennziffern, Rundung und die Periodensteuer vor dem getrennten Zahlungsabgleich.
+
+Biete Erfassungstabelle, geprüften XML-Formularimport oder eine tatsächlich vorhandene freigegebene ELSTER-/ERiC-Anbindung an. Der Nutzer wählt eine Zertifikatsdatei lokal und gibt PIN oder Passwort im geschützten Anmeldefeld selbst ein. Gleiche den konkreten Abgabeauftrag mit dem endgültigen Datensatz ab. Der amtliche Portalimport und die authentifizierte Übermittlung sind unterschiedliche Arbeitsschritte. Verifiziere Jahrgang, Nutzdatenformat, Schema und Plausibilitäten. Belege einen behaupteten Eingang durch das Annahmeprotokoll. [Amtliche Importhilfe](https://www.elster.de/eportal/helpGlobal?themaGlobal=ustva_upload)
+
+Die eigenständigen [UStVA-Werkstatt](ustva/werkstatt.md) und der [UStVA-Mini-Prompt](ustva/mini.md) führen diesen Auftrag vom ersten Beleg bis zum zutreffenden Abgabestatus. Antworten und neue Belege werden im vorhandenen Entwurf eingearbeitet.
+
 ### 3.4. Haftungsbescheid und Lohnsteuer
 
 Bestimme Haftungsschuldner, Haftungszeitraum und herangezogenen Tatbestand, insbesondere Paragrafen 69, 71, 73 oder 74 AO beziehungsweise Paragraf 42d EStG. Trenne Steuerschuld, persönliche Haftung und behördliche Ermessensentscheidung nach Paragraf 191 AO. Prüfe bei Paragraf 69 AO Pflichtverletzung, Verschulden und deren Zusammenhang mit dem Steuerausfall; bewerte Vorsatz oder grobe Fahrlässigkeit anhand konkreter Tatsachen.

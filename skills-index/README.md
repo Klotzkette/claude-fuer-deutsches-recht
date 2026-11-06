@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.35.3`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23391 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23392 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -324,7 +324,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [startup-gruender](./startup-gruender.md) (18 Skills)
 - [startup-hr-personalabteilung-berlin](./startup-hr-personalabteilung-berlin.md) (112 Skills)
 - [status-navigator-step-plan](./status-navigator-step-plan.md) (36 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (238 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (239 Skills)
 - [strafanzeige-vorbereiter](./strafanzeige-vorbereiter.md) (57 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (61 Skills)
 - [strafvollzug-jva](./strafvollzug-jva.md) (11 Skills)

@@ -70,7 +70,7 @@ Die wirtschaftliche Aussagekraft einer BWA haengt entscheidend von der Disziplin
 
 - Pruefung Umsatzentwicklung vs. Vormonat und Vorjahres-Monat.
 - Vorsteuer-Pruefung: VAT-Konten sauber, Innergemeinschaftliche Lieferungen mit Bestaetigung der USt-Id.
-- USt-Voranmeldung erstellen (§ 18 UStG) — bis zum 10. des Folgemonats (ggf. Dauerfristverlaengerung).
+- Für die Umsatzsteuer-Voranmeldung den [Fachskill](../umsatzsteuer-voranmeldung-erstellen/SKILL.md) verwenden. Turnus, Zeitraum und tatsächliche Frist nach § 18 UStG samt Dauerfristverlängerung, Wochenende und Feiertagen prüfen. Steuerliche Belegzuordnung und Feldwerte bis zur Erfassungstabelle oder zum dokumentierten lokalen Abgabestatus fertigstellen. Die BWA-Zuordnung ersetzt nicht die Umsatzsteuerprüfung.
 - BWA-Vorabauswertung pruefen: Ist das Ergebnis plausibel? Materialquote, Personalquote, Sondereffekte?
 
 ### Phase 5 — Tag 25-30: BWA-Erstellung und Versand
