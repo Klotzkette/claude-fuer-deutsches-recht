@@ -11,7 +11,7 @@ Dieses Plugin gehört zum Marketplace mit 311 Plugins. Für die Installation nim
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/steuerrecht-anwalt-und-berater.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/steuerrecht-anwalt-und-berater.zip) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list](../skills-index/steuerrecht-anwalt-und-berater.md) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |
@@ -45,7 +45,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/steuerrecht-anwalt-und-berater.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/steuerrecht-anwalt-und-berater.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`steuerrecht-anwalt-und-berater-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`steuerrecht-anwalt-und-berater-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [21 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
@@ -93,13 +93,26 @@ Die [Freiburger Steuerwerkstatt](../quality/steuerrecht-freiburg/README.md) enth
 
 ### Soloakte Hubertus Tomasius
 
-Die [Originalakte Tomasius 2025](../quality/steuerrecht-freiburg/tomasius-solo/README.md) führt Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit zusammen. Sie enthält Rechnungen, Honorare, VG WORT, Versicherungen, vollständige Kontoauszüge und bearbeitbare Arbeitsbögen für Auswertung und Steuererklärungen.
+Die [Originalakte Tomasius 2025](../quality/steuerrecht-freiburg/tomasius-solo/README.md) führt Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit zusammen. Sie enthält Rechnungen, Honorare, VG WORT, Versicherungen, vollständige Kontoauszüge und bearbeitbare Arbeitsbögen. Das Umsatzsteuerverfahren für IV/2025 führt über den abweichenden Vorauszahlungsbescheid und den Einspruch zur Einspruchsentscheidung und zum Auftrag für die Klagevorbereitung.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Originalakte als ZIP herunterladen](../quality/steuerrecht-freiburg/tomasius-solo/Testakte_Tomasius_Lebenswelt_2025_v2.zip)
+[Originalakte mit UStVA-Verfahren als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip)
+
+## Umsatzsteuer-Voranmeldung aus Belegen
+
+Der [Fachskill Umsatzsteuer-Voranmeldung erstellen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) ordnet Originalbelege, Zahlungen und Steuertatbestände dem konkreten Zeitraum zu. Er liefert eine geprüfte Feldtabelle für Mein ELSTER und führt bei vorhandenem verifiziertem Zugang den beauftragten Import oder lokalen Abgabeweg fort. Der Nutzer wählt sein Zertifikat lokal und gibt PIN beziehungsweise Passwort im geschützten Anmeldefeld ein.
+
+| Arbeitsweise | Zugriff |
+| --- | --- |
+| Ausführliche eigenständige Werkstatt | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md) |
+| Kompakter eigenständiger Mini-Prompt | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/mini.md) |
+| CSV und maschinenlesbaren Arbeitsstand erzeugen | [Ausgabehelfer und Eingabevertrag](ustva/werkzeuge/README.md) |
+| Jahresschemata und Übermittlungswege | [Amtliche Quellen und Voraussetzungen](ustva/quellen-und-uebermittlung.md) |
+
+Der Standardhelfer erzeugt CSV und JSON mit dem Status prepared_not_transmitted. Für eine vorhandene Import-XML prüft er das lokale Jahresschema, Zeitraum, Identität und Werte. Jahresplausibilität und Portalannahme benötigen einen eigenen Nachweis. Der Importweg stützt sich auf die [amtliche ELSTER-Anleitung](https://www.elster.de/eportal/helpGlobal?themaGlobal=ustva_upload).
 
 ## 1. Schwerpunkt: Hinzuschätzung und Waren-Gegenkalkulation
 
@@ -311,9 +324,9 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 238 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+Automatisch generierte Komplett-Liste aller 239 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
-English: Complete list of all 238 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+English: Complete list of all 239 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
@@ -539,6 +552,7 @@ English: Complete list of all 238 skills in this plugin. Both links in each row 
 | [`tatsaechliche-verstaendigung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/tatsaechliche-verstaendigung/SKILL.md) | Für Tatsächliche Verständigung mit dem Finanzamt — Voraussetzungen und Vertragsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/tatsaechliche-verstaendigung/SKILL.md) |
 | [`tatsaechliche-verstaendigung-schlussbesprechung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/tatsaechliche-verstaendigung-schlussbesprechung/SKILL.md) | Für Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/tatsaechliche-verstaendigung-schlussbesprechung/SKILL.md) |
 | [`ueberschuldungspruefung-19-inso`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/ueberschuldungspruefung-19-inso/SKILL.md) | Für Überschuldungsprüfung Paragraf 19 InsO (Steuerberater-Sicht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/ueberschuldungspruefung-19-inso/SKILL.md) |
+| [`umsatzsteuer-voranmeldung-erstellen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) | Erstellt eine Umsatzsteuer-Voranmeldung aus Rechnungen, Gutschriften, Bankdaten und Buchungen. Prüft Zeitraum, Soll- oder Istbesteuerung, Steuerbefreiungen, Vorsteuer, Auslandsfälle und Berichtigungen und liefert eine belegte ELSTER-Erfa... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) |
 | [`umsatzsteuer-vorsteuerabzug-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md) | Für Umsatzsteuer-Vorsteuerabzug prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md) |
 | [`umwandlung-formwechsel-umwstg`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umwandlung-formwechsel-umwstg/SKILL.md) | Für Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel nach UmwStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umwandlung-formwechsel-umwstg/SKILL.md) |
 | [`ust-innergemeinschaftlich-6a-ustg`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/ust-innergemeinschaftlich-6a-ustg/SKILL.md) | Für Innergemeinschaftliche Lieferung — Paragraf 6a UStG und Beleg- und Buchnachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/ust-innergemeinschaftlich-6a-ustg/SKILL.md) |

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "year": 2025,
+  "period": "Q4",
+  "taxpayer": {
+    "name": "Hubertus Tomasius",
+    "steuernummer": "072/000/00000",
+    "ust_id": "DE993456783"
+  },
+  "approval_status": "reviewed",
+  "mapping": {
+    "year": 2025,
+    "source": "https://www.elster.de/eportal/helpGlobal?themaGlobal=help_ustva_2025",
+    "reviewed_on": "2026-11-06",
+    "fields": {
+      "81": {
+        "label": "Steuerpflichtige Umsätze zum Steuersatz von 19 Prozent",
+        "unit": "EUR",
+        "semantic": "taxable_base_19",
+        "allow_negative": true
+      },
+      "86": {
+        "label": "Steuerpflichtige Umsätze zum Steuersatz von 7 Prozent",
+        "unit": "EUR",
+        "semantic": "taxable_base_7",
+        "allow_negative": true
+      },
+      "48": {
+        "label": "Steuerfreie Umsätze ohne Vorsteuerabzug",
+        "unit": "EUR",
+        "semantic": "exempt_without_input",
+        "allow_negative": true
+      },
+      "66": {
+        "label": "Abziehbare Vorsteuerbeträge aus Rechnungen anderer Unternehmer",
+        "unit": "EUR_CENT",
+        "semantic": "input_tax",
+        "allow_negative": true
+      },
+      "83": {
+        "label": "Verbleibende Umsatzsteuer Vorauszahlung oder Überschuss",
+        "unit": "EUR_CENT",
+        "semantic": "tax_due",
+        "allow_negative": true
+      }
+    }
+  },
+  "fields": [
+    {
+      "kennzahl": "81",
+      "label": "Steuerpflichtige Umsätze zum Steuersatz von 19 Prozent",
+      "amount": "4440.00",
+      "unit": "EUR",
+      "source": "02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+    },
+    {
+      "kennzahl": "86",
+      "label": "Steuerpflichtige Umsätze zum Steuersatz von 7 Prozent",
+      "amount": "255.00",
+      "unit": "EUR",
+      "source": "02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+    },
+    {
+      "kennzahl": "48",
+      "label": "Steuerfreie Umsätze ohne Vorsteuerabzug",
+      "amount": "1950.00",
+      "unit": "EUR",
+      "source": "02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+    },
+    {
+      "kennzahl": "66",
+      "label": "Abziehbare Vorsteuerbeträge aus Rechnungen anderer Unternehmer",
+      "amount": "196.95",
+      "unit": "EUR_CENT",
+      "source": "02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+    },
+    {
+      "kennzahl": "83",
+      "label": "Verbleibende Umsatzsteuer Vorauszahlung oder Überschuss",
+      "amount": "664.50",
+      "unit": "EUR_CENT",
+      "source": "02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+    }
+  ],
+  "arithmetic": [
+    {
+      "id": "tax_due",
+      "result_field": "83",
+      "terms": [
+        {
+          "field": "81",
+          "factor": "0.19"
+        },
+        {
+          "field": "86",
+          "factor": "0.07"
+        },
+        {
+          "field": "66",
+          "factor": "-1"
+        }
+      ],
+      "rounding": "HALF_UP"
+    }
+  ],
+  "reconciliation": [
+    {
+      "id": "independent_source_sum",
+      "actual": "664.50",
+      "expected": "664.50",
+      "source": "Vorsteuer je Beleg auf Cent gerundet, Ausgänge nach vereinnahmten Entgelten; 02_Belegueberleitung_Q4_2025.csv"
+    }
+  ]
+}

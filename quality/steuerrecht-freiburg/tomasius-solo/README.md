@@ -1,14 +1,20 @@
 # Steuerakte Hubertus Tomasius
 
-Die Akte gehört zum Plugin [Steuerrecht für Anwalt und Berater](../../../steuerrecht-anwalt-und-berater/README.md). Hubertus Tomasius lebt in Freiburg und verbindet Programmierung, dreizehn Datenschutzmandate, Musikunterricht und gelegentliche Autorenarbeit. Felix Boscherharb ist sein Steuerberater, Sascha Strauß ein Ansprechpartner im Datenschutzmandat.
+Die Akte gehört zum Plugin [Steuerrecht für Anwalt und Berater](../../../steuerrecht-anwalt-und-berater/README.md). Hubertus Tomasius lebt in Freiburg und verbindet Programmierung, dreizehn Datenschutzmandate, Musikunterricht und Autorenarbeit. Felix Boscherharb ist sein Steuerberater, Sascha Strauß ein Ansprechpartner im Datenschutzmandat.
 
 ## 1 Arbeitsauftrag
 
-Aus den Originalunterlagen sollen eine EÜR-basierte Jahresauswertung, Umsatzsteuervoranmeldungen und die Vorbereitung der Steuererklärungen 2025 entstehen. Der Fall enthält Betriebsausgaben und private Zahlungen auf einem gemischt genutzten Konto, Gutschriften, VG-WORT-Verrechnung, Versicherungen und einen Nachlauf im Januar 2026.
+Bereiten Sie aus den Originalunterlagen die steuerliche Auswertung und die Erklärungen für 2025 vor. Das Umsatzsteuerverfahren für das vierte Quartal führt von der Anmeldung zum abweichenden Vorauszahlungsbescheid, zum Einspruch und zur ablehnenden Einspruchsentscheidung. Der letzte Aktenstand enthält Auftrag und Material für die anschließende Klagevorbereitung.
 
-## 2 Aktenpaket
+## 2 Inhalt und Vorführung
 
-Das ZIP enthält 120 Buchungsbelege, 76 hybride Ausgangsrechnungen, sechs Autoren-Gutschriften, VG WORT, zehn Word-Unterlagen und eine bearbeitbare Excel-Arbeitsmappe. Zwölf vollständige Monatsauszüge 2025 und der Nachlauf bis 12. Januar 2026 belegen 339 Kontobewegungen. Die Zustimmung nach § 127 SGB IV, der Zugang und der spätere Nachtrag sind beigefügt.
+Die ursprünglichen 120 Buchungsbelege, 76 hybriden Ausgangsrechnungen, Autoren-Gutschriften, VG WORT, Versicherungen, Verträge und Bankdaten bilden die Beleggrundlage. Die Verfahrensergänzung enthält Eingangs- und Übermittlungsnachweise, Belegnachreichung, Vollmacht, Verwaltungsbescheide, anwaltliche beziehungsweise steuerberatende Schriftsätze und Mandantenkorrespondenz. Die Klageerhebung ist der nächste vom Nutzer zu bearbeitende Schritt.
+
+Für die Einspruchsübung beginnen Sie mit den Anmeldungs- und Bescheidunterlagen. Die Schriftsätze und die Einspruchsentscheidung öffnen Sie für die nächste Phase. Anschließend verwenden Sie den Ordner Klagevorbereitung.
+
+Das beigefügte USt-2-A-Dokument ist das unverändert übernommene Jahresbeispiel. In der Fallhandlung wurde es nicht eingereicht. Die gesonderte Voranmeldung betrifft ausschließlich IV/2025. Eine Jahresfestsetzung hat den Vorauszahlungsstreit bis zum letzten Aktenstand nicht ersetzt.
+
+## 3 Download
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -16,13 +22,16 @@ Das ZIP enthält 120 Buchungsbelege, 76 hybride Ausgangsrechnungen, sechs Autore
 
 | Datei | Zugriff |
 | --- | --- |
-| Native Originalakte mit bearbeitbaren Arbeitsbögen | [ZIP herunterladen](Testakte_Tomasius_Lebenswelt_2025_v2.zip) |
-| SHA-256-Prüfsumme | [Prüfsumme herunterladen](checksums-sha256.txt) |
+| Vollständige native Akte mit UStVA-Verfahren | [ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip) |
+| Release-Prüfsummen | [SHA-256 herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/checksums-sha256.txt) |
+| Frühere Originalakte | [ZIP-Fassung v2](Testakte_Tomasius_Lebenswelt_2025_v2.zip) |
 
-## 3 Verifikation
+## 4 Prüfung und Format
 
-Das Archiv umfasst 349 Dateien. ZIP-Integrität und Dateiinventar sind geprüft. Buchungsbeträge und Zahlungsdaten sind mit den Bankdaten abgeglichen. Die XML der Ausgangsrechnungen sind gegen EN16931-XSD und Factur-X-Schematron geprüft. Eine unabhängige vollständige PDF/A-Konformitätsprüfung ist offen.
+Die ZIP enthält Originaldateien und bearbeitbare Arbeitsunterlagen. Dateibestand und Prüfsummen werden beim Paketbau aus den tatsächlichen Dateien erzeugt. Das Jahresbeispiel ist bytegleich mit der Vorlage. Die XML der hybriden Ausgangsrechnungen sind gegen EN16931-XSD und Factur-X-Schematron geprüft. Eine unabhängige vollständige PDF/A-Konformitätsprüfung ist offen.
 
-## 4 Weitere Akten
+## 5 UStVA selbst erstellen
+
+[Fachskill](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md) · [Werkstatt](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/werkstatt.md) · [Mini](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=steuerrecht-anwalt-und-berater/ustva/mini.md)
 
 [Freiburger Steuerwerkstatt](../README.md) · [Steuerrechts-Plugin](../../../steuerrecht-anwalt-und-berater/README.md)

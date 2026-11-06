@@ -44,7 +44,7 @@ Die [Soloakte für das Jahr 2025](tomasius-solo/README.md) enthält Betrieb und 
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-[Originalakte Tomasius als ZIP herunterladen](tomasius-solo/Testakte_Tomasius_Lebenswelt_2025_v2.zip)
+[Originalakte Tomasius mit UStVA-Verfahren als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/steuerrecht-ustva-v445.35.5/Testakte_Tomasius_UStVA_Einspruch_2025_v3.zip)
 
 ## 4 Word-Vorlagen
 

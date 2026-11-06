@@ -48,6 +48,11 @@ EMPLOYMENT_SUCCESSORS = {
 }
 EMPLOYMENT_TAG = 'ki-arbeit-reskilling-v445.35.4'
 EMPLOYMENT_VERSION = '445.35.4'
+PACKAGE_SUCCESSORS = {
+    **{slug: (EMPLOYMENT_VERSION, EMPLOYMENT_TAG) for slug in EMPLOYMENT_SUCCESSORS},
+    'steuerrecht-anwalt-und-berater': ('445.35.5', 'steuerrecht-ustva-v445.35.5'),
+}
+
 
 SCOPE_PATH = ROOT / 'scripts/data/ki-verordnung-release-scope.json'
 QUALITY = ROOT / 'quality/ki-verordnung-2026-10-09'
@@ -122,9 +127,7 @@ class FachrundeTests(unittest.TestCase):
                 self.assertIn(slug, self.entries)
                 entry = self.entries[slug]
                 directory = self.release.plugin_directory(slug)
-                expected_version, expected_tag = (
-                    (EMPLOYMENT_VERSION, EMPLOYMENT_TAG) if slug in EMPLOYMENT_SUCCESSORS else (VERSION, TAG)
-                )
+                expected_version, expected_tag = PACKAGE_SUCCESSORS.get(slug, (VERSION, TAG))
                 self.assertEqual(entry['version'], expected_version)
                 manifest = read_json(directory / '.claude-plugin/plugin.json')
                 self.assertEqual(manifest['name'], slug)
@@ -240,7 +243,7 @@ class FachrundeTests(unittest.TestCase):
                               mock.call('komponente', [], 'v' + VERSION)])
         for slug in self.scope['plugins']:
             text = (ROOT / 'skills-index' / f'{slug}.md').read_text(encoding='utf-8')
-            expected_version = EMPLOYMENT_VERSION if slug in EMPLOYMENT_SUCCESSORS else VERSION
+            expected_version = PACKAGE_SUCCESSORS.get(slug, (VERSION, TAG))[0]
             self.assertIn(f'Stand `v{expected_version}`', text, slug)
 
     def test_official_source_archives(self):

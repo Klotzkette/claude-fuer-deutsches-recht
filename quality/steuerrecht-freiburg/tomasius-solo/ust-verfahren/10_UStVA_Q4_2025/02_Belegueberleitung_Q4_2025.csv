@@ -1,0 +1,30 @@
+﻿Beleg;Zahlung;Tatbestand;Netto;USt_Beleg;Anteil;Kz;Beitrag;Art;Quelle
+HT-2025-IT-10;2025-10-28;Programmierung;1100.00;209.00;1;81;1100.00;Ausgang;01_Ausgangsrechnungen/HT-2025-IT-10.pdf
+HT-2025-MUS-10;2025-10-28;Musikunterricht;650.00;0.00;1;48;650.00;Ausgang;01_Ausgangsrechnungen/HT-2025-MUS-10.pdf
+HT-2025-IT-11;2025-11-28;Programmierung;1000.00;190.00;1;81;1000.00;Ausgang;01_Ausgangsrechnungen/HT-2025-IT-11.pdf
+HT-2025-MUS-11;2025-11-28;Musikunterricht;650.00;0.00;1;48;650.00;Ausgang;01_Ausgangsrechnungen/HT-2025-MUS-11.pdf
+HT-2025-IT-12;2026-01-12;IT erst im Januar vereinnahmt;1000.00;190.00;0;81;0.00;Ausgang_ausserhalb;01_Ausgangsrechnungen/HT-2025-IT-12.pdf
+HT-2025-MUS-12;2025-12-29;Musikunterricht;650.00;0.00;1;48;650.00;Ausgang;01_Ausgangsrechnungen/HT-2025-MUS-12.pdf
+HT-2025-DSB-01-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-01-Q4.pdf
+HT-2025-DSB-02-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-02-Q4.pdf
+HT-2025-DSB-03-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-03-Q4.pdf
+HT-2025-DSB-04-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-04-Q4.pdf
+HT-2025-DSB-05-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-05-Q4.pdf
+HT-2025-DSB-06-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-06-Q4.pdf
+HT-2025-DSB-07-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-07-Q4.pdf
+HT-2025-DSB-08-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-08-Q4.pdf
+HT-2025-DSB-09-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-09-Q4.pdf
+HT-2025-DSB-10-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-10-Q4.pdf
+HT-2025-DSB-11-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-11-Q4.pdf
+HT-2025-DSB-12-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-12-Q4.pdf
+HT-2025-DSB-13-Q4;2025-12-22;Datenschutz;180.00;34.20;1;81;180.00;Ausgang;01_Ausgangsrechnungen/HT-2025-DSB-13-Q4.pdf
+ER-2025-TEL-10;2025-10-08;gemischt;49.00;9.31;0.63;66;5.87;Vorsteuer;02_Eingangsbelege/ER-2025-TEL-10.pdf
+ER-2025-SW-10;2025-10-08;IT und DSB;59.00;11.21;1;66;11.21;Vorsteuer;02_Eingangsbelege/ER-2025-SW-10.pdf
+ER-2025-TEL-11;2025-11-10;gemischt;49.00;9.31;0.63;66;5.87;Vorsteuer;02_Eingangsbelege/ER-2025-TEL-11.pdf
+ER-2025-SW-11;2025-11-10;IT und DSB;59.00;11.21;1;66;11.21;Vorsteuer;02_Eingangsbelege/ER-2025-SW-11.pdf
+ER-2025-TEL-12;2025-12-08;gemischt;49.00;9.31;0.63;66;5.87;Vorsteuer;02_Eingangsbelege/ER-2025-TEL-12.pdf
+ER-2025-SW-12;2025-12-08;IT und DSB;59.00;11.21;1;66;11.21;Vorsteuer;02_Eingangsbelege/ER-2025-SW-12.pdf
+ER-2025-SON-07;2025-12-02;Datenschutz;750.00;142.50;1;66;142.50;Vorsteuer;02_Eingangsbelege/ER-2025-SON-07.pdf
+AMZ-2025-04;2025-11-20;Publizistik;45.79;3.21;1;66;3.21;Vorsteuer;02_Eingangsbelege/AMZ-2025-04.pdf
+GS-2025-AUT-05;2025-10-16;Publizistik;95.00;6.65;1;86;95.00;Ausgang;06_Honorare_und_VG_Wort/GS-2025-AUT-05.pdf
+GS-2025-AUT-06;2025-12-15;Publizistik;160.00;11.20;1;86;160.00;Ausgang;06_Honorare_und_VG_Wort/GS-2025-AUT-06.pdf

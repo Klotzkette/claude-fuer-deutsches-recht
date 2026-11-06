@@ -1,0 +1,6 @@
+﻿Unternehmer;Steuernummer;Jahr;Zeitraum;Kennzahl;Bezeichnung;Wert;Einheit;Fundstelle
+Hubertus Tomasius;072/000/00000;2025;Q4;81;Steuerpflichtige Umsätze zum Steuersatz von 19 Prozent;4440;EUR;"02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+Hubertus Tomasius;072/000/00000;2025;Q4;86;Steuerpflichtige Umsätze zum Steuersatz von 7 Prozent;255;EUR;"02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+Hubertus Tomasius;072/000/00000;2025;Q4;48;Steuerfreie Umsätze ohne Vorsteuerabzug;1950;EUR;"02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+Hubertus Tomasius;072/000/00000;2025;Q4;66;Abziehbare Vorsteuerbeträge aus Rechnungen anderer Unternehmer;196,95;EUR_CENT;"02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"
+Hubertus Tomasius;072/000/00000;2025;Q4;83;Verbleibende Umsatzsteuer Vorauszahlung oder Überschuss;664,50;EUR_CENT;"02_Belegueberleitung_Q4_2025.csv; zugehörige Rechnungs- und Bankbelege"

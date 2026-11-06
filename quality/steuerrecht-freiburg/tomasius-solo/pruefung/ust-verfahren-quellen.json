@@ -1,0 +1,913 @@
+{
+  "metadata": {
+    "period": "IV/2025",
+    "kind": "Umsatzsteuer-Vorauszahlung",
+    "correct": {
+      "base19": "4440.00",
+      "vat19": "843.60",
+      "base7": "255.00",
+      "vat7": "17.85",
+      "exempt": "1950.00",
+      "input": "196.95",
+      "liability": "664.50"
+    },
+    "wrong": {
+      "base19": "7390.00",
+      "vat19": "1404.10",
+      "vat7": "17.85",
+      "input": "54.45",
+      "liability": "1367.50"
+    },
+    "paid": "700.00",
+    "additional": "667.50",
+    "dispute": "703.00",
+    "deadline": "2026-11-30",
+    "example_only": "Tomasius_USt_2_A_2025_ausgefuellt_korrigiert.pdf ist Jahresformular, unverändert als Beispiel, nicht eingereicht",
+    "deliberate_errors": [
+      "Befreiung des konkret bescheinigten Ausbildungslehrgangs SVA-25 trotz Landesbescheinigung und personenbezogenem Unterrichtsnachweis versagt; Buchst. b Doppelbuchst. bb aufgrund öffentlicher Trägerschaft falsch ausgeschlossen und eigene Landesbescheinigung des Lehrers verlangt",
+      "Istbesteuerung trotz vorgelegter Genehmigung und nachgewiesenem Januarzahlungseingang missachtet",
+      "Private Avoriaz-Datei als Registermaßstab statt der tatsächlichen Seminarrechnung verwendet",
+      "Festes Unterrichtsentgelt zusätzlich als Nettobasis behandelt; subsidiäre Bruttofrage im Einspruch angesprochen"
+    ],
+    "checked_sources": [
+      {
+        "title": "AO § 164",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__164.html"
+      },
+      {
+        "title": "AO § 167",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__167.html"
+      },
+      {
+        "title": "AO § 168",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__168.html"
+      },
+      {
+        "title": "AO § 88",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__88.html"
+      },
+      {
+        "title": "AO § 122",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__122.html"
+      },
+      {
+        "title": "AO § 355",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__355.html"
+      },
+      {
+        "title": "AO § 361",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__361.html"
+      },
+      {
+        "title": "AO § 367",
+        "url": "https://www.gesetze-im-internet.de/ao_1977/__367.html"
+      },
+      {
+        "title": "UStG § 20",
+        "url": "https://www.gesetze-im-internet.de/ustg_1980/__20.html"
+      },
+      {
+        "title": "UStG § 4",
+        "url": "https://www.gesetze-im-internet.de/ustg_1980/__4.html"
+      },
+      {
+        "title": "UStG § 10",
+        "url": "https://www.gesetze-im-internet.de/ustg_1980/__10.html"
+      },
+      {
+        "title": "UStG § 15",
+        "url": "https://www.gesetze-im-internet.de/ustg_1980/__15.html"
+      },
+      {
+        "title": "FGO § 40",
+        "url": "https://www.gesetze-im-internet.de/fgo/__40.html"
+      },
+      {
+        "title": "FGO § 44",
+        "url": "https://www.gesetze-im-internet.de/fgo/__44.html"
+      },
+      {
+        "title": "FGO § 47",
+        "url": "https://www.gesetze-im-internet.de/fgo/__47.html"
+      },
+      {
+        "title": "FGO § 52d",
+        "url": "https://www.gesetze-im-internet.de/fgo/__52d.html"
+      },
+      {
+        "title": "FGO § 69",
+        "url": "https://www.gesetze-im-internet.de/fgo/__69.html"
+      },
+      {
+        "title": "GVP Finanzgericht Baden-Württemberg 2026, 19.10.2026, Seite 27",
+        "url": "https://finanzgericht-bw.justiz-bw.de/pb/site/pbs-bw-rebrush-jum/get/documents_E1180995093/jum1/JuM/Finanzgericht_BW/Dateien/GVP/2026/GVPL%20Richterlicher%20Dienst%202026_Stand%2019.10.2026.pdf"
+      }
+    ],
+    "education_evidence": {
+      "course": "SVA-25",
+      "certificate": "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+      "teacher_confirmation": "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf",
+      "certificate_period": "2025-01-01/2025-12-31",
+      "legal_path": "§ 4 Nr. 21 Satz 1 Buchst. b Doppelbuchst. bb i.V.m. Buchst. a Doppelbuchst. bb UStG"
+    }
+  },
+  "documents": [
+    {
+      "id": "U01",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-01-09",
+      "filename": "01_Uebermittlungsnachweis_UStVA_IV_2025.pdf",
+      "title": "Übermittlungsnachweis Umsatzsteuervoranmeldung IV 2025",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "protokoll",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Übertragung",
+          "body": "Die Umsatzsteuervoranmeldung für das vierte Kalendervierteljahr 2025 wurde am 9. Januar 2026 um 10.16 Uhr authentifiziert vom Unternehmer übermittelt. Steuernummer 072/000/00000. Übertragungskennzeichen HT-UStVA-2025-04-0109. Die Empfangsbestätigung meldet die technische Annahme des Datensatzes. Sie enthält keine materielle Prüfung und keine ausdrückliche Zustimmung zu einer Steuervergütung."
+        },
+        {
+          "heading": "Übermittelte Angaben",
+          "body": "Die Anmeldung nennt in Kennzahl 81 steuerpflichtige Umsätze zu 19 Prozent mit einer Bemessungsgrundlage von 4.440 Euro und 843,60 Euro Steuer. Kennzahl 86 enthält 255 Euro Bemessungsgrundlage und 17,85 Euro Steuer zu 7 Prozent. Die steuerfreien Unterrichtsumsätze betragen 1.950 Euro. Abziehbare Vorsteuer ist mit 196,95 Euro erklärt. Die berechnete Vorauszahlung beträgt 664,50 Euro."
+        },
+        {
+          "heading": "Zahlung und Belege",
+          "body": "Ein im Onlinebanking bereits vorgemerkter Betrag von 700 Euro wird am 12. Januar 2026 überwiesen. Diese Zahlung ist gegenüber der angemeldeten Steuer um 35,50 Euro höher. Maßgeblich für die Anmeldung ist die Steuerberechnung, während die Zahlung gesondert mit der Finanzkasse abzugleichen ist. Die Belege werden über eine eigene Nachricht nachgereicht."
+        },
+        {
+          "heading": "Jahreserklärung",
+          "body": "Dieser Nachweis betrifft ausschließlich die Voranmeldung IV/2025. Eine Umsatzsteuer-Jahreserklärung 2025 wurde damit nicht übermittelt."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [
+        "03_Bank_und_Zahlungen/Bankexport_2026.csv"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U02",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-01-09",
+      "filename": "02_Belegnachreichung_und_Dateiliste.pdf",
+      "title": "Belegnachreichung zur Voranmeldung IV 2025",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "fileprofile": "protokoll",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Nachricht und Empfang",
+          "body": "Am 9. Januar 2026 um 10.31 Uhr wurde die Nachricht mit dem Betreff „Erläuterung Voranmeldung IV/2025, Unterricht und Seminar“ übermittelt. Nachrichtenkennung HT-BN-2026-0109. Die technische Empfangsquittung nennt acht erfolgreich eingegangene Anlagen. Ein zweiter Versuch und ein Austausch der Dateien sind im Versandprotokoll nicht enthalten."
+        },
+        {
+          "heading": "Unterricht und Besteuerung",
+          "body": "Die Nachricht verweist auf den bescheinigten Ausbildungslehrgang SVA-25 der Musikschule und den personenbezogenen Unterrichtsnachweis für Herrn Tomasius. Die Landesbescheinigung vom 15. Januar 2025 und die Bestätigung der Schulleitung vom 25. Januar 2025 sind als E07 und E08 beigefügt. Die Genehmigung zur Besteuerung nach vereinnahmten Entgelten vom 3. Januar 2025 ist ebenfalls beigefügt. Tomasius erklärt, dass die Programmierrechnung HT-2025-IT-12 bis zum Ende des Voranmeldungszeitraums noch nicht bezahlt war."
+        },
+        {
+          "heading": "Seminarbeleg",
+          "body": "Die als Anlage E01 übersandte Rechnung ist ER-2025-SON-07 vom 2. Dezember 2025 der Fachforum Datenpraxis GmbH über 750 Euro netto zuzüglich 142,50 Euro Umsatzsteuer. Gegenstand ist das Online-Seminar zum Digitalen Omnibus. Dateigröße 83.489 Bytes. SHA-256 {{sha:02_Eingangsbelege/ER-2025-SON-07.pdf}}. Die private Avoriaz-Buchung gehört nicht zu diesen acht Anlagen."
+        },
+        {
+          "heading": "Kontrolle",
+          "body": "Der Unternehmer hat die Versanddateien zusammen mit der Empfangsquittung archiviert. Die Dateiliste weist E01 Rechnung Digitaler Omnibus, E02 Teilnahmebestätigung, E03 Musikschulvereinbarung, E04 Zustimmung Istbesteuerung, E05 Dezemberkontoauszug, E06 Belegregister, E07 Landesbescheinigung RP-FR-2025-SVA-0143 und E08 personenbezogene Bestätigung SVA-25-HT aus. Die Empfangsquittung belegt den Eingang der Dateien, während die inhaltliche Einordnung durch das Finanzamt offen bleibt."
+        }
+      ],
+      "attachments": [
+        "E01 ER-2025-SON-07.pdf",
+        "E02 Teilnahme_Digitaler_Omnibus.pdf",
+        "E03 Musikschule_Honorar_und_Bestaetigung.docx",
+        "E04 Istbesteuerung.eml",
+        "E05 Brezelmann_Kontoauszug_2025-12.pdf",
+        "E06 Belegregister_roh.csv",
+        "E07 18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "E08 19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "source_paths": [
+        "02_Eingangsbelege/ER-2025-SON-07.pdf",
+        "00_Auftrag_und_Vertraege/Teilnahme_Digitaler_Omnibus.pdf",
+        "00_Auftrag_und_Vertraege/04_Musikschule_Honorar_und_Bestaetigung.docx",
+        "04_Korrespondenz/02_Istbesteuerung.eml",
+        "03_Bank_und_Zahlungen/Monatsauszuege/Brezelmann_Kontoauszug_2025-12.pdf",
+        "05_Arbeitsdateien/Belegregister_roh.csv",
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U03",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-03-12",
+      "filename": "03_Finanzamt_Anforderung.pdf",
+      "title": "Anforderung zu Ihrer Umsatzsteuervoranmeldung IV 2025",
+      "sender": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "finanzamt",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Prüfung der Anmeldung",
+          "body": "Zur Voranmeldung IV/2025 bitten wir bis 30. März 2026 um Erläuterung der steuerfreien Unterrichtsumsätze, der noch nicht versteuerten Programmierrechnung HT-2025-IT-12 und der in Kennzahl 66 enthaltenen Seminarvorsteuer. Die im Datenbestand vorhandenen Rechnungsbeträge lassen eine höhere Vorauszahlung erwarten."
+        },
+        {
+          "heading": "Unterricht",
+          "body": "Bitte reichen Sie eine auf den Unternehmer bezogene Bestätigung der Musikschule über Art und Umfang des Unterrichts sowie den begünstigten Bildungsbereich ein. Die im Vorgang abgelegte Honorarvereinbarung enthält zunächst nur eine Vergütungsabrede. Eine mögliche einkommensteuerliche Begünstigung beantwortet die Umsatzsteuerfrage nicht."
+        },
+        {
+          "heading": "Programmierung",
+          "body": "Die Rechnung HT-2025-IT-12 weist ein Nettoentgelt von 1.000 Euro aus. Bitte belegen Sie, weshalb dieser Betrag nicht in der Bemessungsgrundlage der Voranmeldung enthalten ist und wann er bezahlt wurde."
+        },
+        {
+          "heading": "Seminar",
+          "body": "In unserem Belegregister ist unter dem Verweis E01 eine Buchungsbestätigung „Résidence des Sapins Avoriaz, Übernachtung, privater Skiurlaub“ über 320 Euro hinterlegt. Erläutern Sie, inwieweit die Zahlung zur beruflichen Datenschutzbetreuung gehört und auf welcher Rechnung die geltend gemachten 142,50 Euro Umsatzsteuer beruhen. Bis zur Klärung kommt ein Vorsteuerabzug aus dieser Position nicht in Betracht."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [
+        "08_Privatbelege/URLAUB-01.pdf",
+        "01_Ausgangsrechnungen/HT-2025-IT-12.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U04",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-03-23",
+      "filename": "04_Antwort_Belege_und_Zuordnung.docx",
+      "title": "Erläuterung zur Umsatzsteuervoranmeldung IV 2025",
+      "sender": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "recipient": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "fileprofile": "kanzlei",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Auftrag und Bezug",
+          "body": "Unter Vorlage der Vollmacht vertreten wir Hubertus Tomasius. Wir beantworten Ihre Anforderung vom 12. März 2026. Die angemeldete Steuer von 664,50 Euro ist nach der beigefügten Übersicht beizubehalten. Die Zahlung von 700 Euro vom 12. Januar 2026 ist hiervon getrennt abzurechnen."
+        },
+        {
+          "heading": "Unterrichtsumsätze",
+          "body": "Die kommunale Musikschule ist für den Lehrgang „Studienvorbereitende Ausbildung SVA-25 Violine und Klavier“ durch Bescheinigung des Regierungspräsidiums Freiburg vom 15. Januar 2025 nach § 4 Nr. 21 Satz 1 Buchst. a Doppelbuchst. bb UStG erfasst. Die Schulleitung bestätigt am 25. Januar 2025 personenbezogen, dass sämtliche zehn monatlichen Unterrichtseinheiten von Herrn Tomasius im Jahr 2025 gerade diesem Ausbildungslehrgang zugehören. Beide Nachweise lagen bereits der Nachricht vom 9. Januar 2026 als E07 und E08 bei und werden erneut vorgelegt. Die Befreiung seiner unmittelbaren Unterrichtsleistungen stützt sich auf Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb. Für Oktober bis Dezember wurden aus diesem Unterricht jeweils 650 Euro vereinnahmt. Eine allgemeine Befreiung jeder Tätigkeit an einer kommunalen Musikschule wird nicht geltend gemacht. Der einkommensteuerliche Übungsleiterfreibetrag ist ebenfalls kein Befreiungsnachweis für die Umsatzsteuer."
+        },
+        {
+          "heading": "Vereinnahmte Entgelte",
+          "body": "Die Erlaubnis nach § 20 UStG wurde mit Wirkung ab 1. Januar 2025 für das Unternehmen erteilt. Ihr Wortlaut erfasst die im Unternehmen ausgeübten Tätigkeiten. Die Programmierrechnung HT-2025-IT-12 über 1.190 Euro brutto wurde erst am 12. Januar 2026 bezahlt. Der beigefügte Januarauszug bezeichnet diese Rechnung im Verwendungszweck. Sie gehört deshalb bei fortbestehender Istbesteuerung nicht in die Voranmeldung IV/2025."
+        },
+        {
+          "heading": "Verwechselter Beleg",
+          "body": "Die Rechnung ER-2025-SON-07 betrifft das am 2. Dezember 2025 besuchte Datenschutzseminar. Die Teilnahmebestätigung nennt Herrn Tomasius, die Themen und den Seminartag. Der Kontobeleg zeigt die Zahlung von 892,50 Euro an Fachforum Datenpraxis GmbH. Die private Avoriaz-Buchung ist eine andere Datei vom 19. Januar 2025 über 320 Euro. Sie wurde nicht als Seminarrechnung zur Voranmeldung eingereicht. Die abweichende Dateigröße und die vollständigen Dateiinhalte sind aus der erneuten Gegenüberstellung ersichtlich."
+        },
+        {
+          "heading": "Vorsteuer und weitere Angaben",
+          "body": "Die Vorsteuer setzt sich aus den drei Softwarebelegen mit zusammen 33,63 Euro, den nach Tätigkeitsbezug berücksichtigten Telefonbelegen mit 17,61 Euro, dem Fachbuch für Autorenarbeit mit 3,21 Euro und der Seminarrechnung mit 142,50 Euro zusammen. Die Telefonanteile wurden je Einzelbeleg auf volle Cent gerundet. Der Gesamtbetrag ist 196,95 Euro. Eine Umsatzsteuer-Jahreserklärung 2025 ist noch nicht eingereicht worden. Bitte bestätigen Sie die Berichtigung der behördlichen Belegzuordnung, bevor Sie eine abweichende Festsetzung treffen."
+        }
+      ],
+      "attachments": [
+        "Vollmacht",
+        "Unterrichtsvereinbarung und Bestätigung",
+        "Erlaubnis § 20 UStG",
+        "Januarkontoauszug",
+        "Seminarrechnung und Teilnahme",
+        "Belegvergleich E01",
+        "Landesbescheinigung RP-FR-2025-SVA-0143",
+        "Bestätigung SVA-25-HT"
+      ],
+      "source_paths": [
+        "02_Eingangsbelege/ER-2025-SON-07.pdf",
+        "00_Auftrag_und_Vertraege/Teilnahme_Digitaler_Omnibus.pdf",
+        "03_Bank_und_Zahlungen/Monatsauszuege/Brezelmann_Kontoauszug_2026-01.pdf",
+        "04_Korrespondenz/02_Istbesteuerung.eml",
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U05",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-05-04",
+      "filename": "05_Umsatzsteuer_Vorauszahlungsbescheid_IV_2025.pdf",
+      "title": "Bescheid über Umsatzsteuer Vorauszahlung IV 2025",
+      "sender": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "finanzamt",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Festsetzung",
+          "body": "Für Hubertus Tomasius wird die Umsatzsteuer-Vorauszahlung für das vierte Kalendervierteljahr 2025 auf 1.367,50 Euro festgesetzt. Die Festsetzung ergeht unter dem Vorbehalt der Nachprüfung. Gegenüber der angemeldeten Steuer von 664,50 Euro ergibt sich eine Erhöhung um 703 Euro."
+        },
+        {
+          "heading": "Berechnung",
+          "body": "Steuerpflichtige Umsätze zu 19 Prozent werden mit 7.390 Euro angesetzt. Hieraus ergeben sich 1.404,10 Euro Umsatzsteuer. Umsätze zu 7 Prozent werden mit 255 Euro und 17,85 Euro Steuer berücksichtigt. Von der Summe der Umsatzsteuer von 1.421,95 Euro werden 54,45 Euro Vorsteuer abgezogen. Die festgesetzte Vorauszahlung beträgt danach 1.367,50 Euro."
+        },
+        {
+          "heading": "Abweichungen",
+          "body": "Die bisher steuerfrei erklärten Unterrichtsumsätze von 1.950 Euro werden in die Bemessungsgrundlage zu 19 Prozent aufgenommen. Ein auf den Unternehmer bezogener Befreiungsnachweis liegt nach dem Inhalt des elektronischen Fallvermerks nicht vor. Die Programmierrechnung HT-2025-IT-12 über 1.000 Euro netto wird bereits im Voranmeldungszeitraum berücksichtigt, da die Leistung im Dezember 2025 erbracht und abgerechnet wurde. Der als Seminarvorsteuer angesetzte Betrag von 142,50 Euro wird nicht anerkannt. Der hinter dem Belegverweis E01 sichtbare Nachweis betrifft eine private Übernachtung in Avoriaz."
+        },
+        {
+          "heading": "Erläuterung",
+          "body": "Die Schreiben vom 23. März 2026 und die beigefügten Unterlagen wurden zur Kenntnis genommen. Die allgemeine Erlaubnis zur Istbesteuerung begründet nach unserer Würdigung keine abweichende Behandlung der konkret im Dezember abgerechneten Leistung. Die Einreichung einer Teilnahmebescheinigung ersetzt für den Vorsteuerabzug die nach § 15 Abs. 1 Satz 1 Nr. 1 UStG erforderliche zutreffende Rechnung nicht."
+        },
+        {
+          "heading": "Abrechnung und Leistungsgebot",
+          "body": "Die auf diesen Voranmeldungszeitraum gebuchte Zahlung von 700 Euro wird angerechnet. Es verbleibt ein zu zahlender Betrag von 667,50 Euro. Bitte zahlen Sie diesen Betrag bis zum 8. Juni 2026 unter Angabe der Steuernummer und des Zeitraums IV/2025. Die Entscheidung über eine gesondert beantragte Aussetzung der Vollziehung bleibt vorbehalten."
+        },
+        {
+          "heading": "Rechtsbehelfsbelehrung",
+          "body": "Gegen diesen Bescheid kann innerhalb eines Monats nach seiner Bekanntgabe Einspruch beim Finanzamt Freiburg-Stadt eingelegt werden. Der Einspruch kann schriftlich, elektronisch oder zur Niederschrift erklärt werden. Er soll den angefochtenen Bescheid bezeichnen und erkennen lassen, inwieweit die Festsetzung beanstandet wird. Die Einlegung des Einspruchs verschiebt die Zahlungspflicht nicht. Der Bescheid wurde am 4. Mai 2026 zur Post gegeben."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [
+        "01_Ausgangsrechnungen/HT-2025-IT-12.pdf",
+        "08_Privatbelege/URLAUB-01.pdf"
+      ],
+      "rows": [
+        [
+          "Umsätze 19 Prozent netto",
+          "7.390,00"
+        ],
+        [
+          "Umsatzsteuer 19 Prozent",
+          "1.404,10"
+        ],
+        [
+          "Umsatzsteuer 7 Prozent",
+          "17,85"
+        ],
+        [
+          "Vorsteuer",
+          "54,45"
+        ],
+        [
+          "Festsetzung",
+          "1.367,50"
+        ],
+        [
+          "Angerechnete Zahlung",
+          "700,00"
+        ],
+        [
+          "Verbleibende Zahlung",
+          "667,50"
+        ]
+      ]
+    },
+    {
+      "id": "U06",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-05-08",
+      "filename": "06_Eingang_Bescheid_und_Mandantenauftrag.eml",
+      "title": "Umsatzsteuerbescheid ist heute angekommen",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "mandant",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Nachricht",
+          "body": "Guten Tag Herr Boscherharb, der Bescheid für IV/2025 lag heute, Freitag, 8. Mai 2026, im Briefkasten. Der Briefumschlag ist am 4. Mai abgestempelt. Ich leite Ihnen den vollständigen Bescheid weiter. Den Originalumschlag mit dem Poststempel vom 4. Mai bewahre ich bei meinen Unterlagen auf. Das Finanzamt verlangt weitere 667,50 Euro. Das kann ich nicht nachvollziehen. Die Seminarrechnung haben wir doch gerade noch einmal geschickt und die IT-Zahlung kam erst im Januar."
+        },
+        {
+          "heading": "Auftrag",
+          "body": "Bitte legen Sie gegen den Bescheid Einspruch ein und begründen Sie ihn mit den vorhandenen Belegen. Beantragen Sie auch, dass ich die Nachforderung bis zur Prüfung nicht zahlen muss. Den Betrag von 700 Euro hatte ich im Januar bereits überwiesen. Für die Jahreserklärung 2025 bitte ich vorerst um einen Entwurf. Ich habe die Jahreserklärung noch nicht selbst abgeschickt."
+        },
+        {
+          "heading": "Unterlagen",
+          "body": "Beigefügt ist der vollständige Vorauszahlungsbescheid. Den Originalumschlag kann ich bei Bedarf vorlegen. Die Musikschulbestätigung und alle Bankauszüge liegen bereits in der Jahresmappe. Bitte teilen Sie mir die nächsten Fristen und die nötigen Schritte mit. Freundliche Grüße, Hubertus Tomasius."
+        }
+      ],
+      "attachments": [
+        "Bescheid 4. Mai 2026"
+      ],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U07",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-05-20",
+      "filename": "07_Einspruch_mit_Begruendung.docx",
+      "title": "Einspruch gegen den Umsatzsteuer Vorauszahlungsbescheid IV 2025",
+      "sender": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "recipient": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "fileprofile": "kanzlei",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Einspruch und Anträge",
+          "body": "Namens und in Vollmacht des Herrn Hubertus Tomasius legen wir gegen den Bescheid vom 4. Mai 2026 über die Umsatzsteuer-Vorauszahlung IV/2025 Einspruch ein. Der Bescheid ist am 8. Mai 2026 bekannt gegeben worden. Wir beantragen, die Vorauszahlung auf 664,50 Euro herabzusetzen. Der bereits gebuchte Betrag von 700 Euro ist bei der Abrechnung vollständig anzurechnen. Über die hieraus entstehende Überzahlung von 35,50 Euro ist anschließend entsprechend dem Steuerkonto zu verfügen. Der Vorbehalt der Nachprüfung bleibt von diesem Antrag unberührt."
+        },
+        {
+          "heading": "Zulässigkeit und Verfahrensstand",
+          "body": "Der Einspruch richtet sich gegen eine abweichende Vorauszahlungsfestsetzung und ist nach § 347 AO statthaft. Er wird innerhalb der Monatsfrist des § 355 AO eingelegt. Die Umsatzsteuer-Jahreserklärung 2025 befindet sich noch in Vorbereitung und wurde nicht übermittelt. Es besteht kein nachfolgender Jahresbescheid, der die angefochtene Vorauszahlungsfestsetzung ersetzt hätte. Diese Angabe wird auch aus dem Mandantenauftrag vom 8. Mai 2026 bestätigt."
+        },
+        {
+          "heading": "Unterrichtsleistung",
+          "body": "Die drei monatlichen Honorarzahlungen der Musikschule von insgesamt 1.950 Euro betreffen ausschließlich den bescheinigten Lehrgang SVA-25. Das Regierungspräsidium Freiburg hat mit Bescheinigung vom 15. Januar 2025, Geschäftszeichen RP-FR-2025-SVA-0143, die Ausbildungsleistungen dieses Lehrgangs für das gesamte Kalenderjahr 2025 nach § 4 Nr. 21 Satz 1 Buchst. a Doppelbuchst. bb UStG bescheinigt. Die Schulleitung hat am 25. Januar 2025 bestätigt, dass sämtliche zehn monatlichen Unterrichtseinheiten des Honorarvertrags von Herrn Tomasius dem Lehrgang SVA-25 angehören. Diese personenbezogene Zuordnung schließt auch Oktober bis Dezember ein. Die Einheitendokumentation wird unter SVA-25-HT geführt. Die unmittelbaren Unterrichtsleistungen des selbstständigen Lehrers sind danach nach Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb zu prüfen. Es wird weder eine automatische Befreiung jeder kommunalen Musikschule noch eine Einordnung als öffentliche allgemeinbildende Schule nach dem Schulgesetz geltend gemacht. Der personenbezogene Nachweis besteht hier in der bestätigten Zuordnung seiner unmittelbaren Unterrichtsleistungen zum bescheinigten Ausbildungsbereich der Einrichtung. Für die Anwendung dieser Verbindung verlangt die Vorschrift keine zusätzliche an den einzelnen Dozenten gerichtete Landesbescheinigung. Die bereits als E07 und E08 eingereichten Nachweise sind in der Sache auszuwerten."
+        },
+        {
+          "heading": "Berechnung beim Unterricht hilfsweise",
+          "body": "Selbst wenn die Unterrichtsbefreiung entgegen unserem Hauptvorbringen nicht eingreifen sollte, ergibt sich aus der festen Jahresvereinbarung kein Anspruch auf ein zusätzliches Entgelt vom öffentlichen Auftraggeber. Die vereinnahmten 1.950 Euro wären dann unter Beachtung von § 10 UStG auf ihren enthaltenen Steueranteil zu untersuchen. Ein schlichter Aufschlag von 19 Prozent auf den vereinbarten und bereits vollständig gezahlten Betrag wird weder durch den Vertrag noch durch einen weiteren Zahlungsanspruch getragen. Der Hauptantrag bleibt auf die vollständige Rücknahme der Unterrichtsbesteuerung gerichtet."
+        },
+        {
+          "heading": "Zeitpunkt der Programmierzahlung",
+          "body": "Die Erlaubnis nach § 20 UStG gilt seit 1. Januar 2025 und erfasst die unternehmerische Tätigkeit von Herrn Tomasius. Ein Widerruf oder eine nur auf einzelne Umsätze begrenzte Genehmigung liegt nicht vor. Die Rechnung HT-2025-IT-12 über 1.000 Euro netto und 190 Euro Umsatzsteuer wurde am 26. Dezember 2025 erstellt. Der Januarauszug der Brezelmann Bank zeigt den Geldeingang von 1.190 Euro am 12. Januar 2026 unter genau dieser Rechnungsnummer. Das Rechnungsdatum ersetzt im genehmigten Verfahren nach vereinnahmten Entgelten den Zahlungseingang nicht. Die 190 Euro sind deshalb aus der Festsetzung IV/2025 herauszunehmen. Die Erfassung im Folgezeitraum bleibt gesondert vorzunehmen."
+        },
+        {
+          "heading": "Seminarvorsteuer und Dokumentverwechslung",
+          "body": "Die Rechnung ER-2025-SON-07 vom 2. Dezember 2025 der Fachforum Datenpraxis GmbH über 892,50 Euro brutto ist eine inländische Rechnung mit 142,50 Euro Umsatzsteuer. Sie betrifft die fachliche Fortbildung für die externe Datenschutzbetreuung. Die Teilnahmebestätigung und der korrespondierende Zahlung vom 2. Dezember 2025 bestätigen Leistung und Zahlung. Die im Bescheid genannte Datei zu einer privaten Übernachtung in Avoriaz ist ein eigener Beleg vom Januar 2025 über einen anderen Betrag und einen anderen Aussteller. Sie trägt die Kennung URLAUB-01 und wurde weder als Rechnung ER-2025-SON-07 noch als Anlage E01 eingereicht. Die im Versandregister archivierte richtige Datei hat 83.489 Bytes und den SHA-256-Wert {{sha:02_Eingangsbelege/ER-2025-SON-07.pdf}}. Wir bitten, die falsche behördliche Zuordnung zu berichtigen und anschließend § 15 Abs. 1 Satz 1 Nr. 1 UStG anhand der tatsächlichen Rechnung anzuwenden."
+        },
+        {
+          "heading": "Nachgerechnete Festsetzung",
+          "body": "Die steuerpflichtige Bemessungsgrundlage zu 19 Prozent beträgt 4.440 Euro. Die hieraus entstehende Steuer von 843,60 Euro erhöht sich um 17,85 Euro aus den Autoren-Nutzungsrechten. Die Summe beträgt 861,45 Euro. Abzuziehen sind 196,95 Euro Vorsteuer. Das ergibt 664,50 Euro. Die Erhöhung des Bescheids um 703 Euro setzt sich aus 370,50 Euro für Unterricht, 190 Euro für die noch nicht vereinnahmte Programmierleistung und 142,50 Euro nicht berücksichtigter Seminarvorsteuer zusammen. Alle drei Abweichungen sind rückgängig zu machen."
+        },
+        {
+          "heading": "Ermittlungen und gesonderter Vollziehungsantrag",
+          "body": "Nach § 88 AO sind auch die für unseren Mandanten günstigen Unterlagen auszuwerten. Im Einspruchsverfahren ist die Festsetzung nach § 367 Abs. 2 AO insgesamt zu überprüfen. Wir beantragen die Zuordnungskontrolle anhand der beigefügten Versandliste und eine Mitteilung, wie der private Beleg in den Verweis E01 gelangt ist. Gesondert beantragen wir nach § 361 Abs. 2 AO Aussetzung der Vollziehung der nach Anrechnung bereits gezahlter 700 Euro verbleibenden Nachforderung von 667,50 Euro. Es bestehen erhebliche Zweifel an den drei konkret dokumentierten Abweichungen. Für den schon gezahlten Betrag wird mit diesem Schriftsatz keine weitere Auszahlung im Wege der Vollziehung verlangt."
+        }
+      ],
+      "attachments": [
+        "Vollmacht",
+        "UStVA und Empfangsnachweis",
+        "Musikschulvertrag und Bestätigung",
+        "Genehmigung Istbesteuerung",
+        "Rechnung HT-2025-IT-12 und Januarauszug",
+        "ER-2025-SON-07 und Teilnahmebestätigung",
+        "Versanddateiliste und Dateivergleich",
+        "Berechnungsübersicht",
+        "Landesbescheinigung RP-FR-2025-SVA-0143",
+        "Bestätigung SVA-25-HT"
+      ],
+      "source_paths": [
+        "01_Ausgangsrechnungen/HT-2025-IT-12.pdf",
+        "02_Eingangsbelege/ER-2025-SON-07.pdf",
+        "08_Privatbelege/URLAUB-01.pdf",
+        "03_Bank_und_Zahlungen/Monatsauszuege/Brezelmann_Kontoauszug_2026-01.pdf",
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U08",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-05-20",
+      "filename": "08_Eingangsnachweis_Einspruch.pdf",
+      "title": "Eingangsnachweis Einspruch und Vollziehungsantrag",
+      "sender": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "protokoll",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Übermittlung",
+          "body": "Der Einspruch gegen die Umsatzsteuer-Vorauszahlung IV/2025 wurde am 20. Mai 2026 um 14.07 Uhr elektronisch über den freigegebenen Kanzleizugang versandt. Übertragungskennzeichen HT-EIN-2026-0520. Der Datensatz bezeichnet den Bescheid vom 4. Mai 2026, den Steuerpflichtigen und die Steuernummer. Die Nachricht enthält Einspruch, Begründung, gesonderten Aussetzungsantrag und acht Anlagenpakete."
+        },
+        {
+          "heading": "Technischer Empfang",
+          "body": "Die Empfangsbestätigung des Finanzamts meldet am selben Tag um 14.08 Uhr den Eingang der Nachricht. Die Dateiprüfung zeigt eine PDF-Arbeitskopie des Schriftsatzes sowie die bezeichneten Belegpakete. In der internen Kanzleikontrolle hat Sachbearbeiterin Irmgard Vale den zutreffenden Zeitraum IV/2025 und den angefochtenen Vorauszahlungsbescheid abgeglichen."
+        },
+        {
+          "heading": "Fristvermerk",
+          "body": "Bekanntgabe des Ausgangsbescheids 8. Mai 2026. Der Ablauf der Einspruchsfrist fällt auf Montag, 8. Juni 2026. Die Übermittlung vom 20. Mai 2026 liegt davor. Hauptsacherechtsbehelf und Vollziehungsantrag sind in der Akte getrennt vermerkt."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U09",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-05-26",
+      "filename": "09_Aussetzung_der_Vollziehung.pdf",
+      "title": "Aussetzung der Vollziehung zur Umsatzsteuer IV 2025",
+      "sender": "Finanzamt Freiburg-Stadt · Veranlagungsstelle Umsatzsteuer",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "finanzamt",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Entscheidung",
+          "body": "Auf Ihren Antrag vom 20. Mai 2026 wird die Vollziehung des Umsatzsteuer-Vorauszahlungsbescheids IV/2025 vom 4. Mai 2026 in Höhe von 667,50 Euro ausgesetzt. Eine Sicherheitsleistung wird nicht verlangt. Die Aussetzung betrifft den nach Anrechnung der Zahlung von 700 Euro verbleibenden Leistungsbetrag. Ein weiterer Betrag wird hiermit weder erstattet noch zur Auszahlung angewiesen."
+        },
+        {
+          "heading": "Dauer",
+          "body": "Die Aussetzung gilt zunächst bis einen Monat nach Bekanntgabe der Entscheidung über den Einspruch. Die Kanzlei hat das Ende des Aussetzungszeitraums nach Zugang der Einspruchsentscheidung neu zu berechnen und im Fristenkalender zu vermerken."
+        },
+        {
+          "heading": "Begründung",
+          "body": "Die Frage der zutreffenden Zuordnung der nachgereichten Unterlagen ist im Rechtsbehelfsverfahren zu klären. Unter Berücksichtigung des dokumentierten Seminarnachweises und der Genehmigung nach § 20 UStG wird für die Dauer dieser Prüfung von der Einziehung des zusätzlichen Leistungsbetrags abgesehen. Die Entscheidung im Einspruchsverfahren wird dadurch nicht vorweggenommen."
+        },
+        {
+          "heading": "Weitere Hinweise",
+          "body": "Die Umsatzsteuer-Vorauszahlung bleibt in der festgesetzten Höhe auf dem Steuerkonto verzeichnet. Für den ausgesetzten Betrag wird während des bewilligten Zeitraums nicht vollstreckt. Eine mögliche Zinsfolge richtet sich nach den gesetzlichen Vorschriften und dem Ergebnis des Verfahrens. Ein Rechtsbehelf gegen die Festsetzung selbst wird durch diesen Bescheid nicht erledigt."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U10",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-07-13",
+      "filename": "10_Rechtsbehelfsstelle_Zwischenmitteilung.pdf",
+      "title": "Zwischenmitteilung zum Einspruch IV 2025",
+      "sender": "Finanzamt Freiburg-Stadt · Rechtsbehelfsstelle",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "finanzamt",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Bisherige Würdigung",
+          "body": "Der Einspruch vom 20. Mai 2026 liegt der Rechtsbehelfsstelle vor. Nach Durchsicht des internen Fallvermerks ist eine Abhilfe derzeit nicht beabsichtigt. Für den Unterricht ist die personenbezogene Befreiungsvoraussetzung nach unserer bisherigen Würdigung weiterhin nicht hinreichend belegt. Der aktuelle Rechnungsbestand enthält außerdem die Programmierrechnung aus Dezember."
+        },
+        {
+          "heading": "Belegverzeichnis",
+          "body": "Zum Seminar weist das elektronische Register weiterhin E01 mit dem Kurztext „Avoriaz, privater Skiurlaub“ aus. Ein Austausch des Originaldokuments innerhalb des Registers konnte von der Rechtsbehelfsstelle nicht vorgenommen werden. Die erneut übersandte Rechnung wurde als weitere Anlage E01-Nachtrag gespeichert. Sie ist in der allgemeinen Ausgangsliste sichtbar. Bitte erläutern Sie, weshalb die in diesem Nachtrag bezeichnete Rechnung für den geltend gemachten Vorsteuerbetrag maßgeblich sein soll."
+        },
+        {
+          "heading": "Gelegenheit zur Äußerung",
+          "body": "Sie können bis zum 3. August 2026 Stellung nehmen. Bitte übersenden Sie keine gesamte Jahresmappe, sondern die einzelnen bezeichneten Unterlagen mit einer klaren Zuordnung. Für den Datumsstreit zur Programmierleistung bitten wir um einen Ausschnitt des Zahlungseingangs. Hinsichtlich der Gewährung der Aussetzung der Vollziehung verbleibt es vorerst bei der Entscheidung vom 26. Mai 2026."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U11",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-07-27",
+      "filename": "11_Erwiderung_und_erneute_Belege.docx",
+      "title": "Ergänzende Begründung und erneute Belegzuordnung",
+      "sender": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "recipient": "Finanzamt Freiburg-Stadt · Rechtsbehelfsstelle",
+      "fileprofile": "kanzlei",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Fortführung des Einspruchs",
+          "body": "Wir halten den Einspruch gegen die Festsetzung IV/2025 sowie den Herabsetzungsantrag auf 664,50 Euro aufrecht. Ihr Schreiben vom 13. Juli 2026 wiederholt den Registerkurztext, ohne die maßgeblichen Originaldateien gegenüberzustellen. Die beanstandete Zuordnung ist gerade Gegenstand unseres Vorbringens."
+        },
+        {
+          "heading": "Gegenüberstellung der Dateien",
+          "body": "E01 der Nachricht vom 9. Januar 2026 enthält die Rechnung ER-2025-SON-07 der Fachforum Datenpraxis GmbH. Die Datei ist 83.489 Bytes groß und betrifft den Seminartag 2. Dezember 2025. Die Avoriaz-Datei aus dem privaten Ordner ist 83.512 Bytes groß, heißt URLAUB-01 und bestätigt die private Hotelbuchung am 19. Januar 2025 über 320 Euro. Ihre SHA-256-Kennung lautet {{sha:08_Privatbelege/URLAUB-01.pdf}}. Aussteller, Datum, Betrag, Dateiname und Kennung unterscheiden sich. Die Übergabe einer weiteren Dateikopie ändert die bereits beim ersten Versand vorhandene richtige Rechnung nicht."
+        },
+        {
+          "heading": "Materieller Nachweis",
+          "body": "Die Seminarrechnung nennt die berufliche Datenschutzfortbildung, den Leistungszeitpunkt, das Nettoentgelt von 750 Euro und 142,50 Euro Umsatzsteuer. Die Teilnahmebestätigung und die Zahlung von 892,50 Euro vom 2. Dezember 2025 stimmen damit überein. Die dreizehn Datenschutzmandate im Kundenregister belegen die betriebliche Tätigkeit, für die die Fortbildung erfolgte. Es wird kein Vorsteuerabzug aus dem privaten Skiurlaub begehrt."
+        },
+        {
+          "heading": "Unterricht und Programmierung",
+          "body": "Als M1 wird die Landesbescheinigung des Regierungspräsidiums Freiburg vom 15. Januar 2025 für den Lehrgang SVA-25 und als M2 die personenbezogene Bestätigung SVA-25-HT der Schulleitung vom 25. Januar 2025 nochmals vorgelegt. Die Bestätigung ordnet die zehn monatlichen Unterrichtseinheiten des gesamten Honorarvertrags 2025 vollständig diesem bescheinigten Ausbildungslehrgang zu. Bitte benennen Sie konkret, welche Tatsache Ihnen für § 4 Nr. 21 Satz 1 Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb UStG noch fehlt. Eine eigene Landesbescheinigung für den einzelnen beauftragten Lehrer wird durch diese Vorschrift nicht neben dem Einrichtungsnachweis vorausgesetzt. Für die Programmierrechnung senden wir die unveränderte Rechnung und die einzelne Zahlung vom 12. Januar 2026 als Anlage I1 und I2. Die Genehmigung zur Istbesteuerung ist weiterhin wirksam. Aus der bloßen Existenz der Dezemberrechnung kann deshalb nicht auf einen Geldeingang im vierten Quartal geschlossen werden."
+        },
+        {
+          "heading": "Antrag auf Klärung und Mitteilung",
+          "body": "Bitte lassen Sie den Registerverweis durch die für den Import zuständige Stelle kontrollieren und teilen Sie das Ergebnis mit. Ein abweichender Registertext ersetzt die Sachprüfung anhand vorhandener Unterlagen nicht. Wir bitten um eine begründete Entscheidung zu jedem der drei Streitpunkte. Die beigefügte Berechnungsübersicht bleibt unverändert. Eine Umsatzsteuer-Jahreserklärung 2025 ist weiterhin noch nicht übermittelt. Die Jahresarbeit wird getrennt vorbereitet."
+        }
+      ],
+      "attachments": [
+        "Dateigegenüberstellung E01",
+        "ER-2025-SON-07 und Teilnahme",
+        "M1 Landesbescheinigung und M2 Unterrichtsbestätigung",
+        "I1 Rechnung HT-2025-IT-12",
+        "I2 Zahlung 12. Januar 2026",
+        "I3 Genehmigung § 20 UStG"
+      ],
+      "source_paths": [
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U12",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-08-05",
+      "filename": "12_Mandant_Originaldateien_und_Nachtrag.eml",
+      "title": "Originaldateien und Stand der Jahreserklärung",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "mandant",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Dateien",
+          "body": "Guten Tag Herr Boscherharb, ich habe die Rechnung aus dem Rechnungsordner und die private Hotelbestätigung noch einmal direkt vom Archiv kopiert. Die Seminarrechnung ist ER-2025-SON-07. Die Datei URLAUB-01 betrifft meinen privaten Aufenthalt in Avoriaz. Auf der privaten Datei stehen weder die Fachforum Datenpraxis GmbH noch das Seminar im Dezember. Die Skireise war im Januar und ist von mir auch als privat eingeordnet worden."
+        },
+        {
+          "heading": "Zahlung und Jahreserklärung",
+          "body": "Die Zahlung der IT-Rechnung kam sicher erst am 12. Januar. Ich habe die komplette Kontobewegung und den zugehörigen Januarauszug beigelegt. Zu Ihrer Rückfrage bestätige ich, dass ich selbst keine Umsatzsteuer-Jahreserklärung 2025 abgeschickt habe. Den jährlichen Formularausdruck verwende ich nur zum Besprechen der Zahlen. Bitte reichen Sie auch in meinem Namen noch keine Jahreserklärung ein, bevor wir den Entwurf gemeinsam durchgesehen haben."
+        },
+        {
+          "heading": "Weiteres Vorgehen",
+          "body": "Sollte das Finanzamt bei der Nachforderung bleiben, möchte ich den Sachverhalt gerichtlich prüfen lassen. Bitte melden Sie sich dann rechtzeitig wegen der Klagefrist und des weiteren Auftrags. Freundliche Grüße, Hubertus Tomasius."
+        }
+      ],
+      "attachments": [
+        "ER-2025-SON-07.pdf",
+        "URLAUB-01.pdf",
+        "Januar-Kontoauszug"
+      ],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U13",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-10-26",
+      "filename": "13_Einspruchsentscheidung.pdf",
+      "title": "Einspruchsentscheidung Umsatzsteuer Vorauszahlung IV 2025",
+      "sender": "Finanzamt Freiburg-Stadt · Rechtsbehelfsstelle",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "finanzamt",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Entscheidung",
+          "body": "Der Einspruch des Herrn Hubertus Tomasius vom 20. Mai 2026 gegen den Bescheid vom 4. Mai 2026 über die Umsatzsteuer-Vorauszahlung IV/2025 wird als unbegründet zurückgewiesen. Die Vorauszahlung bleibt auf 1.367,50 Euro festgesetzt. Der Vorbehalt der Nachprüfung bleibt bestehen. Die auf den Zeitraum gebuchte Zahlung von 700 Euro bleibt angerechnet."
+        },
+        {
+          "heading": "Sachverhalt",
+          "body": "Der Einspruchsführer erklärte mit seiner am 9. Januar 2026 eingegangenen Voranmeldung steuerpflichtige Umsätze zu 19 Prozent von 4.440 Euro, Umsätze zu 7 Prozent von 255 Euro, steuerfreie Unterrichtsumsätze von 1.950 Euro und Vorsteuer von 196,95 Euro. Die Anmeldung berechnete eine Steuer von 664,50 Euro. Am 12. Januar 2026 wurden 700 Euro auf den Zeitraum überwiesen. Im Rahmen der Prüfung wurden die Unterrichtsumsätze und eine Dezemberrechnung zusätzlich besteuert sowie 142,50 Euro Seminarvorsteuer nicht berücksichtigt."
+        },
+        {
+          "heading": "Verfahrensgang",
+          "body": "Der Einspruch ist form- und fristgerecht eingegangen. Die vorgelegte Vollmacht deckt das Rechtsbehelfsverfahren. Der Einspruchsführer hat durch seinen Bevollmächtigten auf die öffentliche Musikschule, die Erlaubnis zur Istbesteuerung und eine fehlerhafte Zuordnung des Seminarbelegs verwiesen. Mit Schreiben vom 13. Juli 2026 wurde Gelegenheit zur weiteren Stellungnahme gegeben. Die Antwort vom 27. Juli 2026 und die am 5. August 2026 nachgereichten Unterlagen sind eingegangen. Eine Umsatzsteuer-Jahresfestsetzung 2025 liegt nach dem aktuellen Bearbeitungsstand nicht vor."
+        },
+        {
+          "heading": "Unterrichtsumsätze",
+          "body": "Der Einspruchsführer hat die Landesbescheinigung des Regierungspräsidiums Freiburg vom 15. Januar 2025, RP-FR-2025-SVA-0143, für den Ausbildungslehrgang SVA-25 und die personenbezogene Bestätigung der Schulleitung vom 25. Januar 2025 über seinen Unterrichtseinsatz vorgelegt. Die Bescheinigung der Landesbehörde ist nach ihrem Wortlaut an die Musikschule gerichtet. Nach unserer Würdigung reicht sie für den selbstständigen Honorardozenten nicht aus. Da die kommunale Musikschule keine öffentliche allgemeinbildende oder berufsbildende Schule im Sinne des Schulgesetzes ist, greift Buchst. b Doppelbuchst. aa nicht ein. Buchst. b Doppelbuchst. bb wird wegen des Hinweises auf private Schulen im vorliegenden Fall ebenfalls nicht angewandt. Der Bestätigung der Schulleitung wird deshalb keine eigenständige Befreiungswirkung für den Honorardozenten beigemessen. Eine an ihn persönlich gerichtete Landesbescheinigung wurde nicht vorgelegt. Die 1.950 Euro verbleiben daher in der Bemessungsgrundlage zu 19 Prozent. Ein weiterer Entgeltnachweis ist für die Besteuerung der vereinnahmten Honorarpauschalen nach unserer Auffassung nicht erforderlich."
+        },
+        {
+          "heading": "Rechnung aus Dezember",
+          "body": "Die Rechnung HT-2025-IT-12 vom 26. Dezember 2025 über 1.000 Euro netto betrifft eine im Dezember 2025 ausgeführte Programmierleistung. Die Erlaubnis zur Besteuerung nach vereinnahmten Entgelten vom 3. Januar 2025 wurde vorgelegt. Der Zahlungsnachweis vom 12. Januar 2026 ist ebenfalls vorhanden. Gleichwohl überwiegt für die Zuordnung im vorliegenden Fall der im Ausgangsrechnungsbestand dokumentierte Abschluss der Leistung. Der Betrag wird deshalb weiterhin im vierten Quartal angesetzt. Die Erlaubnis nach § 20 UStG wird hierdurch im Übrigen nicht aufgehoben."
+        },
+        {
+          "heading": "Seminarvorsteuer",
+          "body": "Für die Prüfung des Vorsteuerabzugs ist eine auf die ausgeführte Leistung bezogene ordnungsgemäße Rechnung erforderlich. In der ursprünglichen Registerzuordnung zu E01 befindet sich weiterhin die private Buchungsbestätigung für Avoriaz. Die nachgereichte Rechnung ER-2025-SON-07 wurde als weiterer Beleg gespeichert. Ihre Rechnungsnummer, der Seminartag und die Überweisung an Fachforum Datenpraxis GmbH sind aus den Anlagen ersichtlich. Dies beseitigt jedoch nach unserer Würdigung die Unsicherheit der ursprünglichen Zuordnung nicht. Die Teilnahmebestätigung belegt den Besuch der Veranstaltung, führt aber nicht zur Berichtigung des ursprünglichen Registereintrags. Die Kürzung der Vorsteuer um 142,50 Euro wird daher beibehalten."
+        },
+        {
+          "heading": "Steuerberechnung",
+          "body": "Nach Berücksichtigung der Abweichungen beläuft sich die Bemessungsgrundlage zu 19 Prozent auf 7.390 Euro. Hieraus ergeben sich 1.404,10 Euro Umsatzsteuer. Hinzu kommen 17,85 Euro aus den Umsätzen zu 7 Prozent. Die verbleibende Vorsteuer beträgt 54,45 Euro. Die Vorauszahlung beläuft sich damit auf 1.367,50 Euro. Nach Anrechnung von 700 Euro verbleiben 667,50 Euro auf dem Steuerkonto. Eine Erhöhung gegenüber dem angefochtenen Bescheid erfolgt mit dieser Entscheidung nicht."
+        },
+        {
+          "heading": "Vollziehung",
+          "body": "Die gesondert bewilligte Aussetzung der Vollziehung wird durch diese Entscheidung nicht rückwirkend aufgehoben. Nach dem Bescheid vom 26. Mai 2026 endet sie einen Monat nach Bekanntgabe dieser Einspruchsentscheidung. Ein etwaiger weiterer Antrag auf Vollziehungsschutz ist gesondert zu stellen. Die Anfechtung dieser Einspruchsentscheidung führt für sich genommen nicht zur weiteren Aussetzung."
+        },
+        {
+          "heading": "Rechtsbehelfsbelehrung",
+          "body": "Gegen diese Entscheidung kann innerhalb eines Monats nach ihrer Bekanntgabe beim Finanzgericht Baden-Württemberg, Außensenate Freiburg, Gresserstraße 21, 79102 Freiburg im Breisgau, Klage erhoben werden. Die Klage ist schriftlich, als elektronisches Dokument nach den gesetzlichen Voraussetzungen oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle anzubringen. Für Steuerberater gilt grundsätzlich die Pflicht zur elektronischen Übermittlung nach § 52d FGO. Die Klage muss Kläger, Beklagten und Gegenstand des Begehrens bezeichnen. Der angefochtene Bescheid in Gestalt der Einspruchsentscheidung ist zu benennen. Ein bestimmter Antrag und die zur Begründung dienenden Tatsachen und Beweismittel sollen angegeben werden. Die Klagefrist kann auch durch fristgerechte Anbringung bei der zuständigen Finanzbehörde gewahrt werden. Diese Entscheidung wurde am 26. Oktober 2026 zur Post gegeben."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": [
+        [
+          "Festgesetzte Vorauszahlung",
+          "1.367,50"
+        ],
+        [
+          "Angerechnete Zahlung",
+          "700,00"
+        ],
+        [
+          "Nachforderung",
+          "667,50"
+        ],
+        [
+          "Bisher beantragte Vorauszahlung",
+          "664,50"
+        ],
+        [
+          "Streitige Erhöhung",
+          "703,00"
+        ]
+      ]
+    },
+    {
+      "id": "U14",
+      "stage": "11_Einspruchsverfahren",
+      "date": "2026-10-30",
+      "filename": "14_Eingang_Einspruchsentscheidung.eml",
+      "title": "Einspruchsentscheidung heute im Briefkasten",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "mandant",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Zugang",
+          "body": "Guten Tag Herr Boscherharb, heute, Freitag, 30. Oktober 2026, ist die Einspruchsentscheidung im Briefkasten angekommen. Ich leite Ihnen alle Seiten der Entscheidung weiter und bewahre den Originalumschlag auf. Der Brief ist mit dem 26. Oktober datiert und der Umschlag trägt ebenfalls den 26. Oktober. Die Nachricht mit der vollständigen Entscheidung geht Ihnen noch heute zu."
+        },
+        {
+          "heading": "Reaktion",
+          "body": "Das Finanzamt schreibt selbst, dass es den Januareingang und die andere Seminarrechnung hat, bleibt aber bei den falschen Ansätzen. Bitte prüfen Sie die Klagefrist und die weitere Aussetzung der Zahlung. Ich habe nach dem Aussetzungsbescheid keine zusätzliche Zahlung geleistet. Eine Vollstreckungsankündigung ist bislang nicht eingegangen."
+        },
+        {
+          "heading": "Jahresstand",
+          "body": "Eine eigene Umsatzsteuer-Jahreserklärung 2025 habe ich weiterhin nicht übermittelt. Bitte informieren Sie mich über den nächsten Schritt. Freundliche Grüße, Hubertus Tomasius."
+        }
+      ],
+      "attachments": [
+        "Vollständige Einspruchsentscheidung 26. Oktober 2026"
+      ],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U15",
+      "stage": "12_Klagevorbereitung",
+      "date": "2026-11-02",
+      "filename": "15_Mandantenauftrag_Klagevorbereitung.eml",
+      "title": "Bitte gerichtliches Vorgehen vorbereiten",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "mandant",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Auftrag",
+          "body": "Guten Tag Herr Boscherharb, ich beauftrage Sie, das gerichtliche Vorgehen gegen den Vorauszahlungsbescheid IV/2025 in Gestalt der Einspruchsentscheidung vorzubereiten und mich nach unserer Abstimmung vor dem Finanzgericht zu vertreten. Bitte stellen Sie mir vor Einreichung die Klageschrift zur Freigabe bereit. Ich möchte den ursprünglich angemeldeten Betrag von 664,50 Euro erreichen und die Erhöhung um 703 Euro beseitigen lassen."
+        },
+        {
+          "heading": "Vollziehung und Kosten",
+          "body": "Bitte achten Sie darauf, dass die Aussetzung Ende November ausläuft, und bereiten Sie den dann erforderlichen Vollziehungsschutz getrennt vor. Die dafür benötigte Darstellung meiner Kontolage dürfen Sie der Jahresakte entnehmen. Eine Nachforderung habe ich seit dem Aussetzungsbescheid nicht bezahlt. Bitte erläutern Sie mir vor Einreichung die voraussichtlichen Kosten und ob zusätzliche Vollmachten erforderlich sind."
+        },
+        {
+          "heading": "Weitere Tatsachen",
+          "body": "Die Musikschule kann eine konkrete Rückfrage zum Unterricht noch einmal beantworten. Die Fachforum Datenpraxis GmbH hat angeboten, Originalrechnung und Teilnahme nochmals zu bestätigen. Ich habe keine andere Rechnung für dieses Seminar erhalten. Das Privatdokument Avoriaz wurde niemals als Seminarrechnung verwendet. Freundliche Grüße, Hubertus Tomasius."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U16",
+      "stage": "12_Klagevorbereitung",
+      "date": "2026-11-03",
+      "filename": "16_Vermerk_Auftrag_Fristen_und_Belege.docx",
+      "title": "Vermerk zum Auftrag für das finanzgerichtliche Verfahren",
+      "sender": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "recipient": "Handakte Felix Boscherharb",
+      "fileprofile": "intern",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Verfahrensgegenstand und Auftrag",
+          "body": "Vorbereitet werden soll die finanzgerichtliche Anfechtung des Umsatzsteuer-Vorauszahlungsbescheids IV/2025 vom 4. Mai 2026 in Gestalt der Einspruchsentscheidung vom 26. Oktober 2026. Ziel des Mandanten ist eine Vorauszahlung von 664,50 Euro anstelle von 1.367,50 Euro. Die Differenz beträgt 703 Euro. Die Abrechnung bereits gezahlter 700 Euro führt bei Obsiegen zu einem Guthaben von 35,50 Euro. Der Auftrag vom 2. November verlangt die Vorlage der Klageschrift zur Freigabe vor der Einreichung."
+        },
+        {
+          "heading": "Bekanntgabe und Frist",
+          "body": "Postaufgabe der Einspruchsentscheidung Montag, 26. Oktober 2026. Vierter Tag nach der Postaufgabe Freitag, 30. Oktober 2026. Der tatsächliche Zugang am 30. Oktober ist durch die Mandantennachricht und die darin mitgeteilten Angaben zum Originalumschlag dokumentiert. Die einmonatige Frist nach § 47 FGO endet danach am Montag, 30. November 2026. Interne Vorfrist für die Entwurfsfreigabe ist Freitag, 20. November 2026. Die endgültige Fristkontrolle muss anhand der Originale vor Einreichung erfolgen."
+        },
+        {
+          "heading": "Gericht und Übermittlung",
+          "body": "Für den in Freiburg veranlagten Umsatzsteuerfall sind die Außensenate Freiburg des Finanzgerichts Baden-Württemberg zuständig. Die aktuelle Anschrift lautet Gresserstraße 21, 79102 Freiburg im Breisgau. Der Geschäftsverteilungsplan 2026 ordnet Umsatzsteuerfälle aus dem Regierungsbezirk Freiburg dem 14. Senat zu. Ein gerichtliches Aktenzeichen liegt vor Einreichung nicht vor. Die elektronische Übermittlung durch den Steuerberater ist nach § 52d FGO vorzubereiten. Der Übermittlungsweg und seine Empfangsbestätigung sind bei Einreichung zu sichern."
+        },
+        {
+          "heading": "Streitpunkte und Belege",
+          "body": "Die drei Fehlerkomplexe sind Unterrichtsbefreiung, Zeitpunkt der Programmiervereinnahmung und Verwechslung des Seminarbelegs. Für den Unterricht liegen Vertrag, Landesbescheinigung RP-FR-2025-SVA-0143 für den Ausbildungslehrgang SVA-25, personenbezogene Bestätigung SVA-25-HT, Lehrinhalte und Zahlungseingänge vor. Die Behörde bestätigt in der Einspruchsentscheidung das Vorliegen dieser beiden Nachweise, wendet Buchst. b Doppelbuchst. bb wegen der öffentlichen Trägerschaft aber nicht an und fordert eine persönliche Landesbescheinigung des Lehrers. Dieser rechtliche Schluss ist am vollständigen Tatbestand der Vorschrift zu prüfen. Die Dezemberrechnung und der Januarbankauszug belegen den Geldeingang außerhalb von IV/2025; die Erlaubnis nach § 20 UStG ist aktenkundig. Seminarrechnung, Teilnahme, Bankzahlung und die beiden Dateikennungen widerlegen die Zuordnung des privaten Avoriaz-Belegs. Die vollständigen Übermittlungs- und Beleglisten sind zu den jeweils behaupteten Tatsachen zu ordnen."
+        },
+        {
+          "heading": "Noch zu beschaffende Unterlagen",
+          "body": "Von der Musikschule soll eine Ansprechpartnerbestätigung eingeholt werden, falls das Gericht konkrete Tatsachen zum curricularen Unterricht nachfragt. Von der Fachforum Datenpraxis GmbH kann eine nochmals aus dem Ursprungsbestand bereitgestellte Rechnungsdatei angefordert werden. Von der Finanzbehörde wird die vollständige Register- und Importzuordnung benötigt, um die Entstehung des falschen Verweises nachzuweisen. Dies ist als Beweis- und Aktenbeiziehungsfrage vorzubereiten; eine bisher nicht erhaltene behördliche Importdatei darf nicht als bereits gesicherter Inhalt behauptet werden."
+        },
+        {
+          "heading": "Vollziehungsstand",
+          "body": "Die zusätzliche Nachforderung von 667,50 Euro ist bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt. Bei dem dokumentierten Zugang endet dieser Zeitraum am 30. November 2026. Ein Antrag auf Fortführung des Vollziehungsschutzes muss unabhängig vom Hauptsacheentwurf vorbereitet werden. Vor einem gerichtlichen Antrag nach § 69 FGO ist die behördliche Vorbefassung beziehungsweise eine gesetzliche Ausnahme zu prüfen. Eine bereits ergangene ablehnende Entscheidung über eine Verlängerung der Aussetzung ist noch nicht vorhanden."
+        },
+        {
+          "heading": "Abgrenzung zur Jahresarbeit",
+          "body": "Die Jahreserklärung 2025 ist nach Mandantenbestätigung nicht übermittelt und ein Jahresbescheid nicht bekannt gegeben. Ein bislang nur vorbereiteter Jahreserklärungsentwurf ist deshalb nicht als weiterer angefochtener Verwaltungsakt zu behandeln. Bei jeder späteren Jahresfestsetzung sind der Stand des Vorauszahlungsstreits und die verfahrensrechtliche Fortführung erneut zu kontrollieren. In der vorliegenden Akte ist die Klageschrift noch zu erstellen und vor Einreichung freizugeben."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [
+        "10_Anmeldung_und_Abweichung/05_Umsatzsteuer_Vorauszahlungsbescheid_IV_2025.pdf",
+        "11_Einspruchsverfahren/13_Einspruchsentscheidung.pdf",
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "10_Anmeldung_und_Abweichung/19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf"
+      ],
+      "rows": []
+    },
+    {
+      "id": "U00",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2026-03-20",
+      "filename": "00_Vollmacht_Umsatzsteuerverfahren.docx",
+      "title": "Vollmacht für das Umsatzsteuerverfahren",
+      "sender": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "recipient": "Felix Boscherharb · Steuerberatung · Gewerbehof 8 · 79098 Freiburg im Breisgau",
+      "fileprofile": "mandant",
+      "reference": "072/000/00000 · Umsatzsteuer IV/2025",
+      "sections": [
+        {
+          "heading": "Bevollmächtigung",
+          "body": "Ich, Hubertus Tomasius, Untere Gerbergasse 14, 79098 Freiburg im Breisgau, Steuernummer 072/000/00000, bevollmächtige Felix Boscherharb, Steuerberatung, Gewerbehof 8, 79098 Freiburg im Breisgau, zur Vertretung gegenüber dem Finanzamt Freiburg-Stadt im Verfahren über die Umsatzsteuer-Vorauszahlung IV/2025."
+        },
+        {
+          "heading": "Umfang",
+          "body": "Die Vollmacht umfasst Auskünfte und Akteneinsicht, die Einreichung und Erläuterung von Belegen, die Einlegung und Begründung eines Einspruchs sowie Anträge auf Aussetzung oder Aufhebung der Vollziehung. Bescheide und Rechtsbehelfsentscheidungen sollen unmittelbar mir bekannt gegeben werden. Eine Empfangsvollmacht wird nicht erteilt. Ich werde eingehende Entscheidungen unverzüglich mit dem genauen Zugangstag an meinen Bevollmächtigten weiterleiten. Die Beschränkung soll dem Finanzamt mitgeteilt werden."
+        },
+        {
+          "heading": "Gerichtliches Verfahren",
+          "body": "Eine Vertretung im finanzgerichtlichen Verfahren ist ebenfalls von der Vollmacht erfasst. Die Entscheidung über die Einreichung einer Klage wird gesondert beauftragt. Vor einer Einreichung soll mir der ausformulierte Schriftsatz zur Freigabe vorgelegt werden. Die selbstständige Vorbereitung einer Jahreserklärung 2025 oder deren Übermittlung wird durch diese verfahrensbezogene Vollmacht nicht beauftragt."
+        },
+        {
+          "heading": "Bestätigung",
+          "body": "Freiburg im Breisgau, 20. März 2026. Hubertus Tomasius."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U18",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2025-01-15",
+      "filename": "18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+      "title": "Bescheinigung über Bildungsleistungen der Musikschule",
+      "sender": "Regierungspräsidium Freiburg · Bescheinigungsstelle Bildungsleistungen",
+      "recipient": "Städtische Musikschule Freiburg Nord · Lindenplatz 6 · 79111 Freiburg im Breisgau",
+      "fileprofile": "bildungsbehoerde",
+      "reference": "RP-FR-2025-SVA-0143 · Lehrgang SVA-25",
+      "sections": [
+        {
+          "heading": "Bescheinigung",
+          "body": "Der Städtischen Musikschule Freiburg Nord wird für den Lehrgang „Studienvorbereitende Ausbildung SVA-25 Violine und Klavier“ bescheinigt, dass sie mit diesem Lehrgang Ausbildungsleistungen im Sinne des § 4 Nr. 21 Satz 1 Buchst. a Doppelbuchst. bb UStG erbringt. Die Bescheinigung gilt für den Zeitraum vom 1. Januar bis zum 31. Dezember 2025."
+        },
+        {
+          "heading": "Gegenstand und Lehrgang",
+          "body": "Der Lehrgang SVA-25 dient nach dem vorgelegten Lehrplan der instrumentalen und musiktheoretischen Vorbereitung auf die Aufnahmeprüfung zu einem staatlichen Musikstudium sowie auf eine anschließende berufliche Musikausbildung. Er umfasst Hauptfachunterricht in Violine oder Klavier, Gehörbildung, Musiktheorie, musikalische Gestaltung und vorbereitende Prüfungsteile. Die Unterrichtsziele, Zugangsvoraussetzungen und Leistungsnachweise ergeben sich aus dem Lehrplan SVA-25 in der Fassung vom 8. Januar 2025."
+        },
+        {
+          "heading": "Sachlicher Umfang",
+          "body": "Die Bescheinigung betrifft die Ausbildungsleistungen dieses bezeichneten Lehrgangs. Andere Freizeitangebote, Konzerte, bloße Raumüberlassungen und allgemeine Hobbykurse sind von ihr nicht erfasst. Ob einzelne Umsätze die weiteren umsatzsteuerrechtlichen Voraussetzungen erfüllen, entscheidet die Finanzverwaltung nach den jeweiligen Umständen. Die öffentliche Trägerschaft der Einrichtung wird durch die Bescheinigung weder ersetzt noch als alleiniger Befreiungsgrund behandelt."
+        },
+        {
+          "heading": "Unterricht durch beauftragte Lehrkräfte",
+          "body": "Der Lehrgang wird nach den eingereichten Organisationsunterlagen auch unter Einsatz selbstständiger Lehrkräfte durchgeführt. Die Einrichtung hat den tatsächlichen Einsatz einer Lehrkraft und die Zugehörigkeit ihrer Unterrichtsleistungen zum bescheinigten Lehrgang anhand ihrer Stunden-, Honorar- und Lehrgangsunterlagen zu bestätigen. Diese Bescheinigung ist eine Bescheinigung für die Einrichtung und den Lehrgang; sie trifft keine abschließende Feststellung über den Erwerbsstatus einzelner Lehrkräfte."
+        },
+        {
+          "heading": "Ausfertigung",
+          "body": "Freiburg im Breisgau, 15. Januar 2025. Ausgefertigt für die Städtische Musikschule Freiburg Nord. Im Auftrag, Gesine Leuchtenfels."
+        }
+      ],
+      "attachments": [],
+      "source_paths": [],
+      "rows": []
+    },
+    {
+      "id": "U19",
+      "stage": "10_Anmeldung_und_Abweichung",
+      "date": "2025-01-25",
+      "filename": "19_Musikschule_Bestaetigung_Tomasius_SVA25_2025.pdf",
+      "title": "Bestätigung des Unterrichtseinsatzes von Hubertus Tomasius",
+      "sender": "Städtische Musikschule Freiburg Nord · Schulleitung · Lindenplatz 6 · 79111 Freiburg im Breisgau",
+      "recipient": "Hubertus Tomasius · Untere Gerbergasse 14 · 79098 Freiburg im Breisgau",
+      "fileprofile": "musikschule",
+      "reference": "SVA-25 · Honorarvertrag 2. Januar 2025 · Hubertus Tomasius",
+      "sections": [
+        {
+          "heading": "Einrichtung und bescheinigter Lehrgang",
+          "body": "Die Städtische Musikschule Freiburg Nord ist eine kommunal getragene Bildungseinrichtung. Für den Lehrgang „Studienvorbereitende Ausbildung SVA-25 Violine und Klavier“ liegt die Bescheinigung des Regierungspräsidiums Freiburg vom 15. Januar 2025, Geschäftszeichen RP-FR-2025-SVA-0143, mit Geltung für den Zeitraum 1. Januar bis 31. Dezember 2025 vor. Eine Kopie dieser Bescheinigung wird mit dieser Bestätigung ausgehändigt."
+        },
+        {
+          "heading": "Personenbezogener Unterrichtseinsatz",
+          "body": "Herr Hubertus Tomasius, Untere Gerbergasse 14, 79098 Freiburg im Breisgau, erteilt nach dem Honorarvertrag vom 2. Januar 2025 sämtliche dort für 2025 vereinbarten zehn monatlichen Unterrichtseinheiten im Lehrgang SVA-25. Seine Einheiten betreffen Violine, Klavier, Notenlehre, Gehörbildung und musikalische Gestaltung entsprechend dem Lehrplan dieses Lehrgangs. Die Einheitendokumentation wird unter SVA-25-HT geführt. Zu den Unterrichtseinheiten aus diesem Vertrag gehört kein allgemeiner Freizeit- oder Hobbykurs."
+        },
+        {
+          "heading": "Vergütung und Abrechnung",
+          "body": "Die vereinbarte Jahresvergütung beträgt 7.800 Euro. Sie wird in zwölf gleichen monatlichen Beträgen von jeweils 650 Euro abgerechnet und gezahlt. Die Ferienregelung wird innerhalb der Jahresvereinbarung ausgeglichen. Die für Oktober, November und Dezember 2025 vereinbarten Monatszahlungen von zusammen 1.950 Euro entfallen vollständig auf den bezeichneten Unterricht im Lehrgang SVA-25. Eine weitere vergütete Unterrichtstätigkeit außerhalb dieses Lehrgangs ist mit Herrn Tomasius für 2025 nicht vereinbart."
+        },
+        {
+          "heading": "Befreiungsnachweis",
+          "body": "Diese Bestätigung dient zusammen mit der Bescheinigung des Regierungspräsidiums dem Nachweis, dass die unmittelbar unterrichtenden Leistungen von Herrn Tomasius an der begünstigten Bildungseinrichtung dem bescheinigten Ausbildungsbereich zugeordnet sind. Die Umsatzsteuerbehandlung ist anhand des § 4 Nr. 21 Satz 1 Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb UStG zu prüfen. Eine Einordnung der Musikschule als öffentliche allgemeinbildende oder berufsbildende Schule nach dem Schulgesetz wird mit dieser Bestätigung nicht behauptet."
+        },
+        {
+          "heading": "Bestätigung der Schulleitung",
+          "body": "Freiburg im Breisgau, 25. Januar 2025. Für die Schulleitung, Helene Amselried. Die Vereinbarung und die Unterrichtszuordnung gelten seit dem Beginn des Honorarvertrags. Änderungen des Lehrgangs oder des Unterrichtseinsatzes werden Herrn Tomasius mitgeteilt."
+        }
+      ],
+      "attachments": [
+        "Landesbescheinigung RP-FR-2025-SVA-0143"
+      ],
+      "source_paths": [
+        "10_Anmeldung_und_Abweichung/18_Landesbescheinigung_RP_Freiburg_SVA25_2025.pdf",
+        "00_Auftrag_und_Vertraege/04_Musikschule_Honorar_und_Bestaetigung.docx"
+      ],
+      "rows": []
+    }
+  ]
+}

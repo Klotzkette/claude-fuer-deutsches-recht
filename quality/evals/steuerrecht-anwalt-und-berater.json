@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "steuerrecht-anwalt-und-berater",
-  "reviewed_on": "2026-10-01",
+  "reviewed_on": "2026-11-06",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ao_1977/__162.html",
@@ -68,6 +68,26 @@
       "checked_on": "2026-10-16",
       "supports": "Rn. 17 bis 22: Bei Verlängerung beratener Steuererklärungsfristen nach Paragraf 109 Absatz 2 AO gelten die Verschuldensmaßstäbe der Wiedereinsetzung; Vertreter- und Erfüllungsgehilfenverschulden ist zuzurechnen. Allgemeine Arbeitslast und Bearbeitungsrückstände des Finanzamts in anderen Fällen genügen nicht. Rn. 38 behandelt die notwendige Konkretisierung von Personalausfällen, Gesamtpersonal, Organisation und Auswirkungen am Fristende. Nichtzulassungsbeschwerde erfolglos. Grenze: Kein Revisionsurteil, kein pauschales Verlängerungsverbot bei außergewöhnlichen Umständen und keine Aussage, dass jede Erkrankung ausreicht. Historischer Termin für Veranlagungszeitraum 2023 ist keine aktuelle allgemeine Abgabefrist. Rn. 38 betrifft die Hinweispflichtrüge; der konkrete Darlegungszweig ist eine daraus abgeleitete praktische Umsetzung.",
       "verification_status": "16.10.2026: Über aktuelle amtliche BFH-Entscheidungsübersicht recherchiert, HTML-Volltext gelesen und Randnummern 17 bis 22 sowie 38 am amtlichen PDF abgeglichen; Paragraf 109 AO mit Web-Werkzeug gelesen. Lokale Belege /tmp/bfh-frist-sozial-steuer.pdf und .txt."
+    },
+    {
+      "url": "https://www.elster.de/eportal/helpGlobal?themaGlobal=ustva_upload",
+      "checked_on": "2026-11-06",
+      "supports": "Amtlicher UStVA-Formulardatenimport, Nutzdatenblock Anmeldungssteuern, ISO-8859-15 und ausgelassene Felder. Genaue Jahresschemata und Plausibilitäten kommen aus ERiC-Dokumentation."
+    },
+    {
+      "url": "https://www.elster.de/elsterweb/infoseite/entwickler",
+      "checked_on": "2026-11-06",
+      "supports": "ERiC wird als Bibliothek in Steuersoftware integriert und übernimmt Plausibilisierung und verschlüsselte Übertragung. Ein Plugintext ist noch keine vorhandene lokale Anbindung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__18.html",
+      "checked_on": "2026-11-06",
+      "supports": "Turnus sowie Abgabe- und Zahlungsfrist periodenbezogen prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__15.html",
+      "checked_on": "2026-11-06",
+      "supports": "Vorsteuerzeitpunkt und Aufteilung anhand Leistung, Rechnung und Verwendung prüfen."
     }
   ],
   "mini_review": {
@@ -82,10 +102,11 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
-      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen."
+      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
+      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg."
     ],
-    "sha256": "82eba403a090ba47ed5cc7348e701df38b6692a2283bc7f51e92f32b022c84ae",
-    "reviewed_on": "2026-11-04",
+    "sha256": "0cce6dab718f621cf11f12c16b6374dbc472396981ef550604fad6142a2a4483",
+    "reviewed_on": "2026-11-06",
     "method": "desk_review"
   },
   "focus_review": {
@@ -204,6 +225,141 @@
         }
       ],
       "target_skill": "hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation"
+    },
+    {
+      "id": "ustva-istbesteuerung-jahreswechsel-belegkopien",
+      "request": "Erstelle die UStVA für Q4 2025. Genehmigte Istbesteuerung liegt vor. Eine IT-Rechnung über 1.000 Euro netto plus 190 Euro USt ist dreifach als PDF, XML und Mail enthalten, aber erst am 12. Januar 2026 bezahlt. Eine andere Leistung über 2.000 Euro netto plus 380 Euro USt wurde im November bezahlt. Eine betriebliche Eingangsrechnung vom Oktober über 100 Euro netto plus 19 Euro USt lag im Oktober vor, die Leistung war erbracht, bezahlt wurde im Januar. Alle Umsätze sind inländische Regelbesteuerung, keine Vorsteuerbeschränkung. Ich möchte eine ELSTER-Erfassungstabelle.",
+      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "input_files": [],
+      "deliverables": [
+        "Ergebnis"
+      ],
+      "criteria": [
+        {
+          "id": "periodenlogik",
+          "text": "Die erste IT-Rechnung wird einmal erfasst und wegen der Istbesteuerung nicht im Q4 als vereinnahmter Ausgangsumsatz angesetzt. Der Novemberumsatz gehört in Q4.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "vorsteuer",
+          "text": "Die eigene Istbesteuerung führt nicht zur Verlagerung der gewöhnlichen Eingangsrechnung allein wegen ihrer späteren Zahlung. Rechnung, Leistung und Abzugsberechtigung werden geprüft.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "ausgabe",
+          "text": "Jahresformular und Kennziffern werden verifiziert, eine nutzbare Erfassungstabelle samt Rechnung geliefert. Es wird kein Versand behauptet.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ustva-elster-xml-statt-jahresformular",
+      "request": "Erstelle die Voranmeldung März 2026. Ich habe ein ausgefülltes USt-2-A-Jahresformular und eine eigene XML mit dem Wurzelelement Belege beigefügt. Die Beträge sind geprüft. Bitte gib mir daraus eine Datei, die direkt in Mein ELSTER importiert werden kann. Ein ERiC-Jahresschema liegt noch nicht vor.",
+      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "input_files": [],
+      "deliverables": [
+        "Ergebnis"
+      ],
+      "criteria": [
+        {
+          "id": "datenart",
+          "text": "Jahreserklärung und Voranmeldung sowie eigene Beleg-XML und amtlicher Nutzdatenimport werden richtig unterschieden.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "schnittstelle",
+          "text": "Tatsächliche Jahresschemata und Plausibilitäten werden verlangt. Die amtliche Importfunktion wird erkannt, aber die eigene XML nicht als verwendbarer UStVA-Import ausgegeben.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "fortsetzung",
+          "text": "Die unabhängige Kennziffern- und Erfassungstabelle wird fertiggestellt und der konkret benötigte Schnittstellenstand benannt.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ustva-lokaler-zertifikatsweg-annahmestand",
+      "request": "Die Anmeldung Q2 2026 über 428 Euro Zahllast ist fachlich geprüft. Ich habe genau diesen Datensatz zur echten Abgabe freigegeben. Die lokale ERiC-Anwendung ist vorhanden. Nach dem Senden meldet sie eine Zeitüberschreitung, der Annahmestand ist unbekannt. Mein Zertifikat liegt lokal. Bitte mache weiter.",
+      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "input_files": [],
+      "deliverables": [
+        "Ergebnis"
+      ],
+      "criteria": [
+        {
+          "id": "geheimnisse",
+          "text": "Zertifikat und PIN werden nicht als Chatinhalt oder Ausgabedatei angefordert. Die tatsächlich freigegebene lokale Umgebung wird verwendet.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "autorisiert",
+          "text": "Die vorhandene konkrete Freigabe wird berücksichtigt, ohne erneute allgemeine Zustimmungsfrage.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        },
+        {
+          "id": "wiederholung",
+          "text": "Vor einer erneuten Abgabe wird der Annahmestand anhand Rückmeldung oder Protokoll geklärt. Ein Erfolg wird erst bei passender Bestätigung behauptet.",
+          "deliverables": [
+            "Ergebnis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tomasius-ustva-q4-2025-rechenfall",
+      "request": "Erstelle eine ELSTER-Erfassungstabelle für IV/2025 anhand folgender geprüfter Belegüberleitung eines Rechenfalls. Hubertus Tomasius ist Istbesteuerer. Im Quartal vereinnahmt: IT 2.100 Euro netto zu 19 Prozent und Datenschutz 2.340 Euro netto zu 19 Prozent. Autorenrechte 255 Euro netto zu 7 Prozent. Musikunterricht 1.950 Euro ohne Umsatzsteuer, vollständig dem Lehrgang SVA-25 zugeordnet, dessen Voraussetzungen nach § 4 Nr. 21 Buchst. b Doppelbuchst. bb in Verbindung mit Buchst. a Doppelbuchst. bb UStG durch eine gültige Landesbescheinigung und eine personenbezogene Schulbestätigung belegt sind. Die Dezember-IT-Rechnung über 1.000 Euro netto wurde erst am 12. Januar 2026 bezahlt. Vorsteuer Q4: drei Telefonrechnungen mit je 9,31 Euro Vorsteuer und abzugsfähigem Anteil 63 Prozent, drei ausschließlich abzugsfähige Softwarebeträge zu je 11,21 Euro, 142,50 Euro Seminarvorsteuer und 3,21 Euro Fachbuchvorsteuer. Telefonanteile je Beleg auf Cent runden. Der Nutzer hat 700 Euro an die Finanzkasse überwiesen. Ein USt-2-A-Jahresformular in der Akte ist ausdrücklich lediglich ein nicht eingereichtes Muster. Keine echte Übermittlung beauftragt.",
+      "target_skill": "umsatzsteuer-voranmeldung-erstellen",
+      "input_files": [],
+      "deliverables": [
+        "Erfassung.csv"
+      ],
+      "criteria": [
+        {
+          "id": "periode",
+          "text": "Erkennt USt 2 A als Jahresbeispiel. Ordnet bei genehmigter Istbesteuerung Q4/2025 die 4.440 Euro zu 19 Prozent, 255 Euro zu 7 Prozent und 1.950 Euro Unterricht nach den konkreten Befreiungsnachweisen zu. Die erst im Januar bezahlte Dezember-IT-Rechnung fällt in den Folgezeitraum.",
+          "deliverables": [
+            "Erfassung.csv"
+          ]
+        },
+        {
+          "id": "vorsteuer",
+          "text": "Rundet den Telefonanteil je Beleg auf 5,87 Euro. Die acht Q4-Eingangspositionen ergeben 196,95 Euro Vorsteuer. Nennt für jeden Ansatz Beleg, Anteil und Abzugszeitpunkt.",
+          "deliverables": [
+            "Erfassung.csv"
+          ]
+        },
+        {
+          "id": "endbetrag",
+          "text": "Kennzahl 83 beträgt 664,50 Euro. Gleicht die bereits gezahlten 700 Euro getrennt ab und mindert den Anmeldungsbetrag nicht um diese Zahlung.",
+          "deliverables": [
+            "Erfassung.csv"
+          ]
+        },
+        {
+          "id": "datenart",
+          "text": "Liefert die CSV als Erfassungshilfe. Kennzeichnet einen XML-Import erst nach Prüfung des Jahresschemas und der vollständigen Zuordnung. Behauptet ohne entsprechenden Auftrag keinen Echtversand und fordert Zertifikatsgeheimnisse nicht im Chat an.",
+          "deliverables": [
+            "Erfassung.csv"
+          ]
+        }
+      ]
     }
   ],
   "workshop_review": {
@@ -218,14 +374,15 @@
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
-      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen."
+      "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
+      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg."
     ],
-    "sha256": "c360563b73ac2686e2011f09be22c054392b16ec288e37e623a37c60d0a52f12",
-    "reviewed_on": "2026-11-04",
+    "sha256": "50b231a7afa60925135ea658addd42d38bd551f4bd18ebce21232b582330ea3d",
+    "reviewed_on": "2026-11-06",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-11-04",
+    "date": "2026-11-06",
     "files": [
       "quality/evals/steuerrecht-anwalt-und-berater.json",
       "steuerrecht-anwalt-und-berater/README.md",
@@ -236,7 +393,10 @@
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
       "steuerrecht-anwalt-und-berater/references/primaerquellen-2026-10-16.md",
-      "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md"
+      "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md",
+      "steuerrecht-anwalt-und-berater/ustva/werkstatt.md",
+      "steuerrecht-anwalt-und-berater/ustva/mini.md"
     ],
     "opening_change": "Steuererklärung, Steueranmeldung, Einspruch und Finanzgerichtsklage sind im Einstieg erkennbar. Der Methodenanker X R 14/24 bleibt erhalten.",
     "norms": [
@@ -300,10 +460,11 @@
       "result": "Zentrale Prompts benennen die Richtsatzkritik bereits als nicht tragend. Abweichenden Außenprüfungsskill angepasst; dort auch den bereits verifizierten Methodenwahlfall X R 14/24 konkret nachgezogen.",
       "search_2026": "X R 14/24 vom 15.04.2026 bestätigt; Volltextprüfung aus dem früheren Durchgang am selben Tag übernommen. X R 19/21 frisch hinsichtlich des nicht tragenden Teils nachgelesen.",
       "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
-    }
+    },
+    "ustva_extension": "Belegprüfung, Stammdaten, Ist/Soll, Perioden, Kennziffern, echte Importvoraussetzungen, lokaler Zertifikatsweg und bestätigter Abgabestatus im Desk Review geprüft."
   },
   "prompt_workflow_review": {
-    "date": "2026-11-04",
+    "date": "2026-11-06",
     "method": "desk_review",
     "opening_modes": [
       "Leerstart: Erklärung, Bescheideinspruch, Finanzgerichtsklage oder Gegenkalkulation anbieten.",
@@ -312,7 +473,8 @@
     ],
     "continuation": "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern. Ein zusätzlicher Beleg im anhängigen Finanzgerichtsverfahren ändert nur betroffene Beträge, Beweisthemen und den Antrag im vorhandenen Aktenzeichen.",
     "enrichment": "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt. Freiburger Papierprüfung: Jahres-Umsatzsteuerbescheid gegen Voranmeldungen abgleichen und bei Teilabhilfe Werbungskosten und verbleibende Einkommensteuer getrennt berechnen.",
-    "limits": "desk review; no live client execution"
+    "limits": "desk review; no live client execution",
+    "ustva_extension": "Belegprüfung, Stammdaten, Ist/Soll, Perioden, Kennziffern, echte Importvoraussetzungen, lokaler Zertifikatsweg und bestätigter Abgabestatus im Desk Review geprüft."
   },
   "fachanwaltschaft_source_review_2026_10_01": {
     "method": "targeted_official_source_and_prompt_review",
