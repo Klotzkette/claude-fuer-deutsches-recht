@@ -31,6 +31,8 @@ on:
       - 'steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/**'
       - 'scripts/test-e-rechnung-werkstatt.py'
       - 'e-rechnung-werkstatt/**'
+      - 'notariat-alltag/**'
+      - 'scripts/test-notariatswerkstatt.py'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
       - '**/*-hauptproblem.md'
@@ -71,7 +73,7 @@ jobs:
           node-version: '22'
       - name: Prüfwerkzeuge installieren
         run: |
-          python3 -m pip install PyYAML jsonschema 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3' openpyxl pypdf pdfplumber reportlab lxml -r grundstuecksrecherche/app/requirements.txt
+          python3 -m pip install PyYAML jsonschema 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3' openpyxl pypdf pdfplumber reportlab python-docx lxml -r grundstuecksrecherche/app/requirements.txt
           npm install --global @anthropic-ai/claude-code@2.1.168
       - name: Struktur, Katalog und Qualitätsprofile prüfen
         run: |
@@ -105,6 +107,7 @@ jobs:
           python3 scripts/test-quality-lab.py
           python3 scripts/test-ustva-ausgabe.py
           python3 scripts/test-e-rechnung-werkstatt.py
+          python3 scripts/test-notariatswerkstatt.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

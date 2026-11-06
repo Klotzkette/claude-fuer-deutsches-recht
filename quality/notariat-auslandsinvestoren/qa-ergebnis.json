@@ -1,0 +1,22 @@
+{
+  "notariat-berlin-mumbai-gesellschafterliste": {
+    "native_files": 30,
+    "visual_review_pages": 25,
+    "docx_count": 6,
+    "pdf_count": 16,
+    "email_count": 6,
+    "native_rebuild_sha256_equal": true,
+    "visual_review": "Alle Seiten und der native Screenshot geprüft; keine Überläufe, Überlappungen oder fehlenden Zeichen festgestellt.",
+    "docx_font": "Times New Roman 11 pt; tatsächliche TimesNewRoman-Schriften in den gerenderten PDFs eingebettet."
+  },
+  "notariat-berlin-vae-vertretungsnachweis": {
+    "native_files": 28,
+    "visual_review_pages": 24,
+    "docx_count": 6,
+    "pdf_count": 15,
+    "email_count": 5,
+    "native_rebuild_sha256_equal": true,
+    "visual_review": "Alle Seiten und der native Screenshot geprüft; keine Überläufe, Überlappungen oder fehlenden Zeichen festgestellt.",
+    "docx_font": "Times New Roman 11 pt; tatsächliche TimesNewRoman-Schriften in den gerenderten PDFs eingebettet."
+  }
+}

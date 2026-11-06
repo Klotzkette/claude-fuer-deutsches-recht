@@ -217,7 +217,7 @@
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
       "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "08b791f0010ea8d6aceb81cb0b0a41364bbbdb03913624252c336cd7d72fe2a8"
+    "sha256": "cb84fea83066bf73a457ee17ca71be3454329b22c8d634e879d317e1379bc78d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -228,7 +228,7 @@
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
       "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
     ],
-    "sha256": "aba4cda0badbd6cd2cf4cdcb133e76d201b143b300a842bc3ea41cf0d410c8fa"
+    "sha256": "1ad9e354eb7b4d6d993eac7567f57b4755578675ccf5719086f2ebcf4613ff73"
   },
   "selection": {
     "positive": [
@@ -761,6 +761,172 @@
         }
       ],
       "target_skill": "auslandsurkunde-apostille-vollmacht"
+    },
+    {
+      "id": "mumbai-vertretung-apostille-listenaufnahme",
+      "request": "Bearbeite die beigefügte Spreekern-Akte aus Sicht des beurkundenden Notariats und davon getrennt der Rechtsanwältin der GmbH. Erstelle in ergebnis.md den zeitbezogenen Prüfvermerk, eine gezielte Unterlagenanforderung, den nächsten gerichtlichen Schriftsatz und eine verständliche Nachricht an die Beteiligten. Prüfe das bereits eingelegte Rechtsmittel und die nachgelieferte Umlaufakte anhand aktueller Primärquellen. Kennzeichne entscheidende offene Tatsachen, ohne Ermächtigung, Genehmigung oder Amtshandlung zu fingieren.",
+      "input_files": [
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/01_Auftrag_Finanzierungsrunde.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/02_Geschaeftsprofil.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/03_Termsheet_Anteilskauf.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/04_Registerauszug_Spreekern.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/05_Beteiligung_vor_nach.xlsx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/06_Certificate_Incorporation.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/07_Articles_Authority.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/08_Director_Appointment_DIR12.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/09_MCA_Ansicht_23092026.png",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/10_Board_Resolution_01092026.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/11_Notarial_Certificate_Mumbai.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/12_Apostille_Anlagenblatt.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/13_Indische_Beratermail.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/14_SPA_Beurkundet.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/15_Kaufpreisgutschriften.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/16_Closing_Bestaetigung.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/17_Neue_Gesellschafterliste.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/18_Einreichung_Register.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/19_Registergericht_Nachforderung.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/20_RA_Stellungnahme.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/21_Notarieller_Aktenvermerk.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/22_Zurueckweisungsbeschluss.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/23_Erinnerung_hilfsweise_Beschwerde.docx",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/24_Gericht_Eingang_weiteres_Verfahren.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/25_Rao_Nachlieferung.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/26_Mandantenauftrag_nach_Zurueckweisung.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/27_Umlaufakte_09_Oktober.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/28_Ergaenzender_Beschlussauszug.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/29_Bestellungsbeschluss_2024.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/30_Consent_Director_2024.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet die Belege der Gesellschaft und dem Signing am 12. Oktober 2026 zu; unterscheidet Director-Bestellung, fortbestehende Organstellung und konkrete Einzelermächtigung. Stellt 35 Prozent, Gesamtkaufpreis 840000 EUR und die 500000-EUR-Grenze konsistent dar.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liest September-Beschluss, Auszug vom 9. Oktober und nachgelieferte Umlaufakte zusammen. Beachtet Shahs ausdrückliches Sitzungsverlangen; prüft Section 175 Absatz 1 Proviso sowie gegebenenfalls Section 179 Absatz 3 Companies Act anhand aktueller Primärquellen. Erklärt weder die Zweidrittelzustimmung noch einen Telefonhinweis ungeprüft zur wirksamen Transaktionsermächtigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Identitäts-/Unterschriftsbescheinigung und inhaltlichen Vertretungsnachweis. Erkennt fehlende bilaterale HAÜ-Wirkung der indischen Apostille und die eingestellte deutsche Legalisation; klärt konkret geeignete weitere Belege beziehungsweise behördliche Amtshilfe, ohne private Bestellbarkeit oder sichere Anerkennung zu versprechen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Trennt eigene Verantwortung der Notarin nach Paragraf 40 Absatz 2 GmbHG von der begrenzten Registerprüfung. Wendet den Maßstab BGH II ZB 11/24, Rn. 33–38, auf sichere offensichtliche Unrichtigkeit ohne Ermittlungen an; fehlender Beleg bedeutet nicht automatisch erwiesene Unwirksamkeit. Behauptet keine konstitutive Eintragung oder Heilung des Anteilserwerbs durch Listenaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Prüft förmliche Nichtaufnahme, Bekanntgabe und rechtzeitige Eingabe getrennt. Behandelt die anwaltliche Überschrift Erinnerung nicht als Beweis der Statthaftigkeit; prüft Auslegung als Beschwerde nach Paragraf 58 FamFG und Subsidiarität der Erinnerung nach Paragraf 11 Absatz 2 RPflG sowie konkrete Beschwerdeberechtigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Liefert vollständige, belegbezogene Nachforderung, weiteren gerichtlichen Schriftsatz und verständliche Beteiligtennachricht mit getrennten Rollen. Hält unbewiesene Sitzung, Genehmigung, Legalisation und wirksame Erklärung offen; verändert keine Originalurkunde und erfindet weder erfolgte Amtshandlungen noch fehlende Belege oder Fundstellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auslandsurkunde-apostille-vollmacht"
+    },
+    {
+      "id": "dubai-legalisation-zeitbezug-listenaufnahme",
+      "request": "Bearbeite die Havelquarz-Akte aus Sicht des beurkundenden Notariats und davon getrennt des Rechtsanwalts der GmbH. Erstelle in ergebnis.md einen belegbezogenen Prüfvermerk zum Signingzeitpunkt, eine gezielte Nachforderung, die nun benötigte Ergänzung zum gerichtlichen Verfahren und eine verständliche Nachricht zum Bank- und Listenstand. Die Legalisation liegt inzwischen vor; kläre ihren konkreten Aussagegehalt und die zeitlich verschiedenen Managerunterlagen. Prüfe die als Erinnerung bezeichnete Eingabe und konkrete Fristen. Behaupte keine nicht belegte Genehmigung oder Amtshandlung.",
+      "input_files": [
+        "testakten/notariat-berlin-vae-vertretungsnachweis/01_Mandat_Dubai_Investor.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/02_Profil_Havelquarz.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/03_Termsheet_Havelquarz.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/04_Register_Havelquarz.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/05_Cap_Table_Havelquarz.xlsx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/06_Trade_Licence_September.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/07_MOA_2023_Auszug.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/08_Members_Resolution_06102026.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/09_Notarieller_Nachtrag_MOA.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/10_DET_Bearbeitung_Chronologie.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/11_Notarial_Certified_Copy.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/12_MOFA_Attestation.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/13_Deutsche_Legalisation.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/14_SPA_Havelquarz_Beurkundet.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/15_Zahlungsbelege_Havelquarz.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/16_Liste_Havelquarz.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/17_Einreichung_Havelquarz.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/18_Gericht_Frage_Zeitpunkt.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/19_RA_Antwort_Legalisation.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/20_Legalisation_eingegangen.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/21_Nichtaufnahme_Beschluss.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/22_Erinnerung_Beschwerde_Havelquarz.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/23_Gericht_Bearbeitungsnachricht.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/24_Dubai_Auskunft_noch_offen.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/25_Firmenansicht_21102026.png",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/26_Notar_Aktenvermerk_Dubai.docx",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/27_Mandant_Bankdruck.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/28_Dokumentenweg_Vorbereitung.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Identifiziert die Dubai-Mainland-LLC und wendet keine ungeprüften DIFC-, ADGM- oder Freizonenregeln an. Ordnet den Erwerb von 40 Prozent für insgesamt 960000 EUR, das unveränderte Stammkapital und die getrennte deutsche Geschäftsführung konsistent zu.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verknüpft alten MOA-Text, Gesellschafterbeschluss vom 6. Oktober, notariellen Nachtrag vom 7. Oktober, Antragseingang am 8. Oktober, Bearbeitungsstatus am 13. Oktober, Abschluss am 20. Oktober und Ansicht vom 21. Oktober mit dem Signing am 14. Oktober. Prüft anhand amtlicher Rechtsquellen und gegebenenfalls qualifizierter Auskunft die zeitliche Außenwirkung der Manageränderung sowie innergesellschaftliche Beschränkungen; fingiert weder automatische Rückwirkung noch allein aus dem späteren Registerdatum die Unwirksamkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet MOA-Nachtrag, Kopiebeglaubigung vom 23. Oktober, MOFA-Vorbeglaubigung und deutsche Legalisation vom 28. Oktober anhand ihrer konkreten Referenzen. Ordnet Echtheitswirkung, Scan und Originaleingang am 2. November getrennt ein. Behandelt die legalisierte Kopie weder als materielle Vollmachtsprüfung noch als zusätzliche Vertragsunterschrift oder Genehmigung und fordert nicht pauschal eine Apostille für die VAE.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Trennt eigene notarielle Verantwortung nach Paragraf 40 Absatz 2 GmbHG von Registerprüfung und materieller Wirksamkeit. Prüft BGH II ZB 11/24, Rn. 33–38, mit dem begrenzten Maßstab offensichtlicher sicherer Unrichtigkeit ohne weitere Ermittlungen; erklärt die Notarbescheinigung nicht zur uneingeschränkt bindenden Feststellung. Behauptet weder konstitutive Eintragung des Anteilserwerbs noch Geschäftsführerbestellung durch die Listenaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Prüft Nichtaufnahmebeschluss vom 30. Oktober, Bekanntgabe am 2. November und bereits am selben Tag eingelegte Eingabe sowie die Ergänzungsfrist am 16. November. Ordnet Erinnerung beziehungsweise Auslegung als Beschwerde nach Paragraf 58 FamFG und subsidiäre Erinnerung nach Paragraf 11 Absatz 2 RPflG anhand von Entscheidungsgegenstand, Beschwerdeberechtigung, Form und Frist ein; verwechselt dies nicht mit unanfechtbarer vollzogener Registereintragung oder Zwangsgeldverfahren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Liefert vollständige gezielte Nachforderung, ergänzenden Gerichtsschriftsatz und verständliche Nachricht zum Bank- und Listenstand mit Aktenfundstellen. Unterscheidet Käuferbelastung von Verkäufergutschrift, bezieht die weitergeleiteten Zahlungseingangsbestätigungen ein und fingiert keine fehlende Ratifikation durch Al Noor. Keine neue Urkunde allein zum Datumswechsel, kein unautorisierter externer Versand und keine erfundenen Quellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auslandsurkunde-apostille-vollmacht"
     }
   ],
   "prompt_editorial_review": {
@@ -883,10 +1049,10 @@
   "individual_skill_review": [
     {
       "path": "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
-      "sha256": "34ba814e369f73da00051ba2aab1dbf91c29ff30bc2e4ea44ebb5dc8f7dd4bf7",
+      "sha256": "1a357d7783b3347a3760b38b23611a4c1defe9d02245e62c11dab756d5f4a340",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-11-06"
     },
     {
       "path": "notariat-alltag/skills/bautraegervertrag-mabv-familiengesellschaft/SKILL.md",
@@ -1043,5 +1209,85 @@
     "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
     "registry_changes": [],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "source_audit_2026_11_06_auslandsinvestoren": {
+    "date": "2026-11-06",
+    "method": "desk_review",
+    "scope": "Werkstatt-Prompt, Mini-Prompt, Auslandsurkunden-Skill und neue Länderreferenz vollständig redaktionell gelesen. Gezielte neue Quellenprüfung zu Kanada/Indien/VAE, Gesellschafterliste und Rechtsbehelf sowie Companies Act Section 175; keine erneute Volltextprüfung sämtlicher historischer Normen und Altanker.",
+    "files": [
+      "notariat-alltag/notariat-alltag-schnellstart.md",
+      "notariat-alltag/notariat-alltag-werkstatt.md",
+      "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
+      "notariat-alltag/references/auslandsinvestoren-urkundenverkehr.md"
+    ],
+    "file_hashes": {
+      "notariat-alltag/notariat-alltag-schnellstart.md": "cb84fea83066bf73a457ee17ca71be3454329b22c8d634e879d317e1379bc78d",
+      "notariat-alltag/notariat-alltag-werkstatt.md": "1ad9e354eb7b4d6d993eac7567f57b4755578675ccf5719086f2ebcf4613ff73",
+      "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md": "1a357d7783b3347a3760b38b23611a4c1defe9d02245e62c11dab756d5f4a340",
+      "notariat-alltag/references/auslandsinvestoren-urkundenverkehr.md": "bb3d6e5d82f254dcbe75e15a3aa841f265b1f4449f488f76d353fa90967ac769"
+    },
+    "changes": [
+      "Ausländische Organstellung, Geschäftszeitpunkt und konkrete Abschlussbefugnis von der Echtheitskette getrennt; keine automatische Einzelvertretung eines Director.",
+      "Kanada als Apostillestaat; Indien ohne deutsch-indischen Apostille-Verkehr und ohne deutsche Legalisation; erforderlichen Amtshilfeweg und Firmenprüfungsumfang offen gehalten. VAE als getrennte Legalisationsvariante mit Vorbeglaubigung.",
+      "BGH II ZB 11/24, Rn. 33–38, in Referenz und Werkstatt eingeordnet: begrenzte materielle Registerprüfung bei notariell eingereichter Liste; eigene Verantwortung des Notars bleibt bestehen.",
+      "Abschnitt 16 fortlaufend 16.1 bis 16.6 nummeriert; defekten RPflG-Link korrigiert. Mini auf höchstens 7500 UTF-8-Bytes verdichtet, alle bisherigen Fachzweige und Formunterscheidungen erhalten."
+    ],
+    "sources": [
+      {
+        "url": "https://www.auswaertiges-amt.de/de/-/2570832",
+        "checked_on": "2026-11-06",
+        "supports": "Bilateraler Apostille-Verkehr mit Deutschland; Kanada enthalten, Indien mit Einspruch."
+      },
+      {
+        "url": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=41",
+        "checked_on": "2026-11-06",
+        "supports": "Kanada: Inkrafttreten am 11. Januar 2024; Mitgliedschaft und bilateralen Geltungsstand unterscheiden."
+      },
+      {
+        "url": "https://www.hcch.net/en/instruments/conventions/full-text/?cid=41",
+        "checked_on": "2026-11-06",
+        "supports": "Echtheitsfunktion und Einspruch nach Artikel 12; französischer Vorrang in der Schlussformel nach Artikel 15."
+      },
+      {
+        "url": "https://india.diplo.de/in-de/service/2772638-2772638",
+        "checked_on": "2026-11-06",
+        "supports": "Keine Anwendung zwischen Deutschland und Indien, keine Legalisation; im Einzelfall Urkundenüberprüfung über deutsche Behörden/Gerichte."
+      },
+      {
+        "url": "https://uae.diplo.de/ae-de/service/seite-legalisation/1374640",
+        "checked_on": "2026-11-06",
+        "supports": "Deutsch-emiratischer Legalisationsweg und MOFA-Vorbeglaubigung; konkrete Urkunde und Eignung prüfen."
+      },
+      {
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf#page=118",
+        "checked_on": "2026-11-06",
+        "supports": "Companies Act 2013, Section 175 Absatz 1: Umlaufverfahren, Mehrheit und Sitzungsverlangen von mindestens einem Drittel; Section 179 Absatz 3 als gesonderte Frage, keine Fallsubsumtion."
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html",
+        "checked_on": "2026-11-06",
+        "supports": "Subsidiäre Erinnerung; kein austauschbarer Ersatz für statthafte Beschwerde."
+      },
+      {
+        "url": "https://www.dnoti.de/entscheidungen/details/?cHash=11bd9e8aa72a681096a65cf8a374e3ea&tx_dnotionlineplusapi_decisions%5Bnodeid%5D=6619e2ec-c0b4-41e8-b7cc-80fdbec33dbf",
+        "checked_on": "2026-11-06",
+        "citation": "BGH, Beschluss vom 18. März 2025 – II ZB 11/24, BGHZ 243, 237, Rn. 33–38",
+        "verification": "Originalbeschluss im DNotI-PDF samt Kopf und Randnummern 33–38 gelesen; redaktionelle Urteilsbezeichnung und abweichendes Datum des Vorsatzblatts nicht übernommen. Direkter amtlicher BGH-PDF-Abruf lieferte 403.",
+        "supports": "Bei notariell eingereichter Liste beschränktes materielles Prüfungsrecht auf ohne Ermittlungen sicher feststehende offensichtliche Mängel; Verantwortung des Notars und fehlende uneingeschränkte Bindung an seine Bescheinigung."
+      }
+    ],
+    "limits": [
+      "Desk- und Quellenprüfung; kein beobachteter Modelllauf, kein Client-Test und keine bestätigte automatische Skill-Auswahl.",
+      "Die fremdsprachigen Urkunden, Gesellschaftsdaten und Verfahrenspositionen der Testakten bleiben synthetische Fallannahmen. Keine öffentliche Beglaubigung, Legalisation, Einreichung oder Anerkennung wurde durchgeführt.",
+      "Historische Reviews bleiben mit ihren bisherigen Daten und Aussagen erhalten; nur die drei geänderten Textprüfsummen und das gezielt neu gelesene Individual-Skill-Review sind aktualisiert."
+    ],
+    "synthetic_evaluation_scenarios": {
+      "case_ids": [
+        "mumbai-vertretung-apostille-listenaufnahme",
+        "dubai-legalisation-zeitbezug-listenaufnahme"
+      ],
+      "status": "prepared_not_executed",
+      "description": "Ergebnisprüfaufträge mit nativen synthetischen Fallunterlagen vorbereitet. Kein Modelllauf, keine Erfolgsauswertung und keine Musterlösung in der Testakte."
+    }
   }
 }

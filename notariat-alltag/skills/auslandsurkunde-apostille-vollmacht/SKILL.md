@@ -27,6 +27,12 @@ Prüfe zuerst eine einschlägige Befreiung, dann Apostille oder Legalisation anh
 
 Für Grundbuchnachweise GBO Paragraf 29, für Registeranmeldungen HGB Paragraf 12 beachten. Echtheitsbestätigung allein ersetzt die Prüfung einer erforderlichen Gleichwertigkeit der ausländischen Amtshandlung nicht. EGBGB Artikel 11 nicht als pauschale Zulassung jedes ausländischen Grundstücksgeschäfts verwenden. Umfang einer Übersetzung und gegebenenfalls konkrete gerichtliche Anforderungen ermitteln; ausländische Übersetzer nicht ohne Prüfung generell ausschließen.
 
+Bei einer ausländischen Gesellschaft Bestellung, fortbestehende Organstellung und konkrete Abschlussbefugnis zum Geschäftszeitpunkt getrennt belegen. Registerauszug, Satzung, Bestellungsbeschluss und Einzelermächtigung im Zusammenhang lesen; eine als Director bezeichnete Person nicht automatisch zum alleinvertretungsberechtigten Geschäftsführer erklären. Mumbai liegt in Maharashtra; für die Private Limited den indischen Companies Act und die konkreten Gesellschaftsunterlagen prüfen. Die Anforderungen an die Aufnahme einer Gesellschafterliste nach GmbHG Paragraf 40 von Handelsregisteranmeldung und Grundbuchnachweis unterscheiden.
+
+### 3.3.1. Länderstand anhand amtlicher Quellen prüfen
+
+Kanada: Apostille-Verkehr mit Deutschland seit 11. Januar 2024. Indien: deutscher Einspruch; außerdem keine Legalisation indischer Urkunden durch deutsche Vertretungen. Eine erforderliche Urkundenüberprüfung im Amtshilfeweg und deren konkreten Umfang mit der zuständigen Behörde klären, keine privat bestellbare Firmenprüfung versprechen. VAE: Für geeignete öffentliche Urkunden den tatsächlichen Legalisationsweg über die Vorbeglaubigung und das Generalkonsulat Dubai prüfen. Keine dieser Bestätigungen ersetzt den materiellen Vertretungsnachweis. Der [Länder- und Quellenvermerk](../../references/auslandsinvestoren-urkundenverkehr.md) dokumentiert den geprüften Stand; vor Verwendung aktuell abgleichen.
+
 ### 3.4. Nachforderung in verwendbare Unterlagen umsetzen
 
 Fordere genau fehlende Seite, Nachweisform oder Übersetzung mit Vorgangsbezug an. Bei Eingang der Papierurkunde sämtliche Anlagen und Einschränkungen gegen den Scan vergleichen. Eine später eingegangene Vollmacht darf nicht rückwirkend als am früheren Termin vorgelegt beschrieben werden. Übergib nur geänderte Beteiligten- und Vertretungsangaben an `beteiligte-identitaet-vertretung`; anschließend im begonnenen Urkundenentwurf fortsetzen.
@@ -47,7 +53,7 @@ Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schlie�
 
 ## 5. Ausgabeformat
 
-Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
+Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Die Ausformulierungspflicht gilt: vollständige Sätze; keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
 
 ## 6. Beispiel
 
