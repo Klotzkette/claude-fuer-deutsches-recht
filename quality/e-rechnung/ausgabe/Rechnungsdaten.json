@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "reviewed": true,
+  "invoice_type": "380",
+  "currency": "EUR",
+  "invoice_number": "EE-2026-0042",
+  "issue_date": "2026-11-06",
+  "due_date": "2026-11-20",
+  "period_start": "2026-11-02",
+  "period_end": "2026-11-06",
+  "buyer_reference": "BEST-2026-1042",
+  "note": "Fiktive Demonstrationsrechnung. Keine Zahlung veranlassen.",
+  "supplier": {
+    "name": "Tomasius Digital und Fachverlag (fiktiv)",
+    "street": "Beispielgasse 8",
+    "postal_code": "79098",
+    "city": "Freiburg im Breisgau",
+    "country": "DE",
+    "vat_id": "DE000000000",
+    "contact": "Hubertus Tomasius",
+    "phone": "+49 761 000000",
+    "email": "rechnung@tomasius.example",
+    "iban": "DE79000000001234567890"
+  },
+  "customer": {
+    "name": "Boscherharb Beratungswerkstatt GmbH (fiktiv)",
+    "street": "Musterweg 12",
+    "postal_code": "79098",
+    "city": "Freiburg im Breisgau",
+    "country": "DE",
+    "email": "buchhaltung@boscherharb.example"
+  },
+  "lines": [
+    {
+      "id": "1",
+      "description": "Datenschutzberatung laut Auftrag BEST-2026-1042, 2. bis 6. November 2026",
+      "quantity": "10",
+      "unit_code": "HUR",
+      "unit_price_net": "85.00",
+      "vat_rate": "19"
+    },
+    {
+      "id": "2",
+      "description": "Gedrucktes Fachbuch Datenschutz in der Werkstatt, keine elektronische Dienstleistung",
+      "quantity": "2",
+      "unit_code": "C62",
+      "unit_price_net": "29.00",
+      "vat_rate": "7"
+    }
+  ],
+  "totals": {
+    "net": "908.00",
+    "tax": "165.56",
+    "gross": "1073.56",
+    "payable": "1073.56"
+  },
+  "sources": [
+    {
+      "id": "Q1",
+      "file": "rechnungsquelle.txt",
+      "sha256": "cf3f32274cb44368a2c27c62f9e9bae502eaab0e8bfb9db3210f81b5ce96d2c9"
+    }
+  ],
+  "evidence": [
+    {
+      "field": "invoice_number",
+      "source_id": "Q1",
+      "location": "Zeile 3: invoice_number"
+    },
+    {
+      "field": "issue_date",
+      "source_id": "Q1",
+      "location": "Zeile 4: issue_date"
+    },
+    {
+      "field": "due_date",
+      "source_id": "Q1",
+      "location": "Zeile 5: due_date"
+    },
+    {
+      "field": "period_start",
+      "source_id": "Q1",
+      "location": "Zeile 6: period_start"
+    },
+    {
+      "field": "period_end",
+      "source_id": "Q1",
+      "location": "Zeile 7: period_end"
+    },
+    {
+      "field": "buyer_reference",
+      "source_id": "Q1",
+      "location": "Zeile 8: buyer_reference"
+    },
+    {
+      "field": "note",
+      "source_id": "Q1",
+      "location": "Zeile 9: note"
+    },
+    {
+      "field": "supplier.name",
+      "source_id": "Q1",
+      "location": "Zeile 10: supplier.name"
+    },
+    {
+      "field": "supplier.street",
+      "source_id": "Q1",
+      "location": "Zeile 11: supplier.street"
+    },
+    {
+      "field": "supplier.postal_code",
+      "source_id": "Q1",
+      "location": "Zeile 12: supplier.postal_code"
+    },
+    {
+      "field": "supplier.city",
+      "source_id": "Q1",
+      "location": "Zeile 13: supplier.city"
+    },
+    {
+      "field": "supplier.country",
+      "source_id": "Q1",
+      "location": "Zeile 14: supplier.country"
+    },
+    {
+      "field": "supplier.vat_id",
+      "source_id": "Q1",
+      "location": "Zeile 15: supplier.vat_id"
+    },
+    {
+      "field": "supplier.contact",
+      "source_id": "Q1",
+      "location": "Zeile 16: supplier.contact"
+    },
+    {
+      "field": "supplier.phone",
+      "source_id": "Q1",
+      "location": "Zeile 17: supplier.phone"
+    },
+    {
+      "field": "supplier.email",
+      "source_id": "Q1",
+      "location": "Zeile 18: supplier.email"
+    },
+    {
+      "field": "supplier.iban",
+      "source_id": "Q1",
+      "location": "Zeile 19: supplier.iban"
+    },
+    {
+      "field": "customer.name",
+      "source_id": "Q1",
+      "location": "Zeile 20: customer.name"
+    },
+    {
+      "field": "customer.street",
+      "source_id": "Q1",
+      "location": "Zeile 21: customer.street"
+    },
+    {
+      "field": "customer.postal_code",
+      "source_id": "Q1",
+      "location": "Zeile 22: customer.postal_code"
+    },
+    {
+      "field": "customer.city",
+      "source_id": "Q1",
+      "location": "Zeile 23: customer.city"
+    },
+    {
+      "field": "customer.country",
+      "source_id": "Q1",
+      "location": "Zeile 24: customer.country"
+    },
+    {
+      "field": "customer.email",
+      "source_id": "Q1",
+      "location": "Zeile 25: customer.email"
+    },
+    {
+      "field": "lines.0.id",
+      "source_id": "Q1",
+      "location": "Zeile 26: lines.0.id"
+    },
+    {
+      "field": "lines.0.description",
+      "source_id": "Q1",
+      "location": "Zeile 27: lines.0.description"
+    },
+    {
+      "field": "lines.0.quantity",
+      "source_id": "Q1",
+      "location": "Zeile 28: lines.0.quantity"
+    },
+    {
+      "field": "lines.0.unit_code",
+      "source_id": "Q1",
+      "location": "Zeile 29: lines.0.unit_code"
+    },
+    {
+      "field": "lines.0.unit_price_net",
+      "source_id": "Q1",
+      "location": "Zeile 30: lines.0.unit_price_net"
+    },
+    {
+      "field": "lines.0.vat_rate",
+      "source_id": "Q1",
+      "location": "Zeile 31: lines.0.vat_rate"
+    },
+    {
+      "field": "lines.1.id",
+      "source_id": "Q1",
+      "location": "Zeile 32: lines.1.id"
+    },
+    {
+      "field": "lines.1.description",
+      "source_id": "Q1",
+      "location": "Zeile 33: lines.1.description"
+    },
+    {
+      "field": "lines.1.quantity",
+      "source_id": "Q1",
+      "location": "Zeile 34: lines.1.quantity"
+    },
+    {
+      "field": "lines.1.unit_code",
+      "source_id": "Q1",
+      "location": "Zeile 35: lines.1.unit_code"
+    },
+    {
+      "field": "lines.1.unit_price_net",
+      "source_id": "Q1",
+      "location": "Zeile 36: lines.1.unit_price_net"
+    },
+    {
+      "field": "lines.1.vat_rate",
+      "source_id": "Q1",
+      "location": "Zeile 37: lines.1.vat_rate"
+    },
+    {
+      "field": "totals.net",
+      "source_id": "Q1",
+      "location": "Zeile 38: totals.net"
+    },
+    {
+      "field": "totals.tax",
+      "source_id": "Q1",
+      "location": "Zeile 39: totals.tax"
+    },
+    {
+      "field": "totals.gross",
+      "source_id": "Q1",
+      "location": "Zeile 40: totals.gross"
+    },
+    {
+      "field": "totals.payable",
+      "source_id": "Q1",
+      "location": "Zeile 41: totals.payable"
+    },
+    {
+      "field": "delivery_date",
+      "source_id": "Q1",
+      "location": "Zeile 42: ausdrücklich bestätigter Leistungsabschluss"
+    }
+  ],
+  "delivery_date": "2026-11-06"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "state": "generated_and_validated_not_sent",
+  "mustang": "2.26.0",
+  "generator_sha256": "0f4574fcd62533334d1b43e4fd37b85599d7c98560a9effcfec4801c1b71cdd5",
+  "input_sha256": "5651638cb879fe8a6279684645a71ef56a78ff17bb0ae5e8e7cfde3cf4072f35",
+  "runtime_lock_sha256": "9e7251c570c4654705cbb6481d0939502210a7c30c975cfb5f9b04c0fa2f48e7",
+  "layout_sha256": "f892949a45505d7e185bdc97ce8a75327993e11647fb3553413756c8b5f0680a",
+  "sources_byte_checked": true,
+  "field_evidence_complete": true,
+  "tax_assessment_by_tool": false,
+  "recipient_portal_acceptance_tested": false,
+  "results": {
+    "XRechnung.xml": {
+      "format": "UBL 2.1 / XRechnung 3.0.2",
+      "configuration": "2026-08-31",
+      "schema_and_schematron_valid": true
+    },
+    "ZUGFeRD.pdf": {
+      "format": "ZUGFeRD 2.5.2 / Factur-X 1.09.2 / EN16931",
+      "pdfa": "PDF/A-3u",
+      "schema_and_schematron_valid": true,
+      "pdfa_valid": true,
+      "xml_attachment_identical": true
+    }
+  },
+  "files_sha256": {
+    "Rechnungsansicht.pdf": "1f7a1b42290756eca42f2294cbd833889d943f82e054c61418f8eead67055ba4",
+    "Rechnungsdaten.json": "5651638cb879fe8a6279684645a71ef56a78ff17bb0ae5e8e7cfde3cf4072f35",
+    "Rechnungsformular.fo": "6cc651c0a41c612b3c3dfc2f62085f5a57a075b8cf7deccbd3b848dd5c7bbca0",
+    "XRechnung.xml": "7c5c21780bc312aafa6eee45d3b4b401a121e9a3af79aa7edfba0f34d0de9f1f",
+    "ZUGFeRD.pdf": "2ab4d4a8fe5557293d99c074d24cdf8779cf259f79b779b644c4ec3ccfd9dd84",
+    "factur-x.xml": "d05e6ff4a89792864711c2c803ea3c7a044de387086a23e08751ce35cae035bf",
+    "fop-rechnung.xconf": "5842335c401f7b59000990f0a1b4d2965a39717370660296a32587a4650251b1",
+    "hybrid-erzeugung.log": "e749efebc45c3364aecccb37e06a73115bdbdba0454081a1c66d5386db383020",
+    "kosit/XRechnung-report.html": "37e818f72e083d9415e3f209416928a9def56b320b6489812a11bedac4b74cc2",
+    "kosit/XRechnung-report.xml": "9d7a0c67d5c3483cf98eb42f971035aaeb43e84c2bf9e786e3442c63f3f3edfd",
+    "kosit.log": "ab0325ff9f29c2d33641c93be2864526119e9ccaef1809378ccd07568b4325ae",
+    "rechnungsansicht.log": "004a5fdb7f77efbb695a72e10e5d7274bf6731add282c95b3069f5396085c893",
+    "zugferd-pdf-pruefung.xml": "8b8b6cfd06a479c6519ffd388f7ccea1b53d3363ccf68d3ff9ade7f048fca611",
+    "zugferd-pdf.log": "afc9466a393d04b8014a0fff71eaddfe967ef90225f005cd1b9a8e9a79492ce3",
+    "zugferd-xml-pruefung.xml": "98d13868f917b57b52ad1b09a0f1576417d76346f4675bd01d4b888800531b14",
+    "zugferd-xml.log": "59d504cd6b36a4edfef8b51ff498ecbda088a72a0f394ecd43cddc62d3d1436c"
+  }
+}

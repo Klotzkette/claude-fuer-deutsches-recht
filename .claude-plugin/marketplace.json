@@ -698,6 +698,16 @@
       "source": "./due-diligence"
     },
     {
+      "name": "e-rechnung-werkstatt",
+      "source": "./e-rechnung-werkstatt",
+      "description": "E-Rechnungen aus Word PDF Scans Tabellen E-Mails und Rechnungsdaten erstellen: ZUGFeRD mit eingebettetem XML und XRechnung. Pflichtangaben Belegabgleich Steuerlogik Formatprüfung und tatsächliche Dateiausgabe.",
+      "version": "445.35.6",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "ecommerce-recht",
       "source": "./ecommerce-recht",
       "description": "Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.",

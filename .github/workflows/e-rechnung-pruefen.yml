@@ -1,0 +1,59 @@
+name: E-Rechnungen erzeugen und validieren
+
+on:
+  pull_request:
+    paths:
+      - 'e-rechnung-werkstatt/**'
+      - 'scripts/test-e-rechnung-werkstatt.py'
+      - 'scripts/build-e-rechnung-release.py'
+      - '.github/workflows/e-rechnung-pruefen.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  rechnungen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: PDF-Lesewerkzeug installieren
+        run: python3 -m pip install 'pypdf>=6,<7'
+      - name: Gepinnte Erzeugungs- und Prüfwerkzeuge einrichten
+        run: python3 e-rechnung-werkstatt/werkzeuge/runtime_einrichten.py --out "$RUNNER_TEMP/e-rechnung-runtime"
+      - name: Regressionen mit echten externen Prüfwerkzeugen
+        env:
+          E_RECHNUNG_MUSTANG_JAR: ${{ runner.temp }}/e-rechnung-runtime/Mustang-CLI-2.26.0.jar
+          E_RECHNUNG_KOSIT_HOME: ${{ runner.temp }}/e-rechnung-runtime/kosit
+          E_RECHNUNG_JAVA: java
+        run: python3 scripts/test-e-rechnung-werkstatt.py
+      - name: Beide Rechnungsformate aus bestätigten Beispieldaten erzeugen
+        run: |
+          python3 e-rechnung-werkstatt/werkzeuge/erechnung.py create \
+            --input e-rechnung-werkstatt/beispiele/rechnungsdaten.json \
+            --out "$RUNNER_TEMP/e-rechnung-beispiel" \
+            --format both \
+            --mustang-jar "$RUNNER_TEMP/e-rechnung-runtime/Mustang-CLI-2.26.0.jar" \
+            --kosit-home "$RUNNER_TEMP/e-rechnung-runtime/kosit" \
+            --java java
+          python3 - <<'PY'
+          from pathlib import Path
+          import os, sys
+          sys.path.insert(0, 'scripts')
+          from testakte_disclaimer import NOTICE_BYTES
+          (Path(os.environ['RUNNER_TEMP']) / 'e-rechnung-beispiel/README.txt').write_bytes(NOTICE_BYTES)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: e-rechnung-gepruefte-beispiele
+          path: ${{ runner.temp }}/e-rechnung-beispiel/*
+          if-no-files-found: error
+          retention-days: 7

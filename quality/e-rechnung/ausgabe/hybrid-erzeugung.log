@@ -1,0 +1,10 @@
+Source PDF set to /Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/.beispiel-final-ls55jt3u/Rechnungsansicht.pdf
+ZUGFeRD XML set to /Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/.beispiel-final-ls55jt3u/factur-x.xml
+Output PDF set to /Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/.beispiel-final-ls55jt3u/ZUGFeRD.pdf
+Format set to fx
+Version set to 1
+Profile set to E
+Written to /Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/.beispiel-final-ls55jt3u/ZUGFeRD.pdf
+
+[main] WARN org.apache.fontbox.ttf.PostScriptTable -  COMMONS-LOGGING No PostScript name data is provided for the font SourceSansPro-Bold
+[main] WARN org.apache.fontbox.ttf.PostScriptTable -  COMMONS-LOGGING No PostScript name data is provided for the font SourceSansPro-Regular

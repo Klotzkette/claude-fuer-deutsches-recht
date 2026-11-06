@@ -1,6 +1,6 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **23392 Skills** in **311 Plugins**.
+Automatisch generierte Gesamtübersicht aller **23399 Skills** in **312 Plugins**.
 
 Stand: `v445.35.3`.
 
@@ -39,7 +39,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23392 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 23399 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -142,6 +142,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 
 | Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |
 | --- | ---: | --- | --- | --- | --- |
+| **e-rechnung-werkstatt** | 7 | [Skills ansehen](skills-index/e-rechnung-werkstatt.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/e-rechnung-werkstatt-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=e-rechnung-werkstatt/e-rechnung-werkstatt-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/e-rechnung-v445.35.6/e-rechnung-werkstatt.zip) |
 | **ecommerce-recht** | 73 | [Skills ansehen](skills-index/ecommerce-recht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-verordnung-v445.35.2/ecommerce-recht.zip) |
 | **eigenbedarfskuendigungschecker** | 10 | [Skills ansehen](skills-index/eigenbedarfskuendigungschecker.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/eigenbedarfskuendigungschecker.zip) |
 | **einfache-leichte-sprache-jura** | 87 | [Skills ansehen](skills-index/einfache-leichte-sprache-jura.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip) |

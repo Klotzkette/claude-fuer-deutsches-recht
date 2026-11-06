@@ -29,6 +29,8 @@ on:
       - 'scripts/test-ustva-ausgabe.py'
       - 'steuerrecht-anwalt-und-berater/ustva/**'
       - 'steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/**'
+      - 'scripts/test-e-rechnung-werkstatt.py'
+      - 'e-rechnung-werkstatt/**'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
       - '**/*-hauptproblem.md'
@@ -101,6 +103,7 @@ jobs:
           python3 scripts/test-schwerpunkt-coverage.py SchwerpunktCoverage.test_every_specialist_has_concrete_skill_and_prompt SchwerpunktContractRegressions
           python3 scripts/test-quality-lab.py
           python3 scripts/test-ustva-ausgabe.py
+          python3 scripts/test-e-rechnung-werkstatt.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

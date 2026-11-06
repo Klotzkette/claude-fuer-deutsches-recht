@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<validation filename="factur-x.xml" datetime="2026-11-06 02:37:47">
+  <xml>
+    <info>
+      <version>2</version>
+      <profile>urn:cen.eu:en16931:2017</profile>
+      <validator version="2.26.0"/>
+      <rules>
+        <fired>20</fired>
+        <failed>1</failed>
+      </rules>
+      <duration unit="ms">1376</duration>
+    </info>
+    <messages>
+      <notice type="27" location="/rsm:CrossIndustryInvoice/rsm:ExchangedDocumentContext[1]" criterion="ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-CIUS-ID or ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-EXTENSION-ID or ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-CVD-ID">[BR-DE-21] Das Element "Specification identifier" (BT-24) soll syntaktisch der Kennung des Standards XRechnung entsprechen. [ID BR-DE-21] from /xslt/XR_30/XRechnung-CII-validation.xslt)</notice> 
+    </messages>
+    <summary status="valid"/>
+  </xml>
+  <messages></messages>
+  <summary status="valid"/>
+</validation>
+
+
+[main] INFO com.helger.schematron.xslt.SchematronResourceXSLTCache - Compiling XSLT instance [cpPath=/xslt/ZF_250/FACTUR-X_EN16931.xslt; urlResolved=true; URL=jar:file:/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/runtime-setup-test/Mustang-CLI-2.26.0.jar!/xslt/ZF_250/FACTUR-X_EN16931.xslt]
+[main] INFO com.helger.schematron.api.xslt.AbstractSchematronXSLTBasedResource - Applying Schematron XSLT on XML instance
+[main] INFO com.helger.schematron.xslt.SchematronResourceXSLTCache - Compiling XSLT instance [cpPath=/xslt/XR_30/XRechnung-CII-validation.xslt; urlResolved=true; URL=jar:file:/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/runtime-setup-test/Mustang-CLI-2.26.0.jar!/xslt/XR_30/XRechnung-CII-validation.xslt]
+[main] WARN com.helger.xml.transform.LoggingTransformErrorListener - [warn] Transformation warning (net.sf.saxon.trans.XPathException: A function that computes atomic values should use xsl:sequence rather than xsl:value-of)
+[main] WARN com.helger.xml.transform.LoggingTransformErrorListener - [warn] Transformation warning (net.sf.saxon.trans.XPathException: A function that computes atomic values should use xsl:sequence rather than xsl:value-of)
+[main] INFO com.helger.schematron.api.xslt.AbstractSchematronXSLTBasedResource - Applying Schematron XSLT on XML instance
+[main] INFO org.mustangproject.validator.XMLValidator - FailedAssert [BR-DE-21] Das Element "Specification identifier" (BT-24) soll syntaktisch der Kennung des Standards XRechnung entsprechen.
+[main] INFO org.mustangproject.validator.ZUGFeRDValidator - Notice 27: [BR-DE-21] Das Element "Specification identifier" (BT-24) soll syntaktisch der Kennung des Standards XRechnung entsprechen. [ID BR-DE-21] from /xslt/XR_30/XRechnung-CII-validation.xslt)
+[main] INFO org.mustangproject.validator.ZUGFeRDValidator - Parsed PDF:absent XML:valid Signature:null Checksum:45959146F38117211FA0ECAE5DAEB2FD6BEA31C5 Profile:urn:cen.eu:en16931:2017 Version:2 Took:1443ms Errors:[27] ErrorIDs: [BR-DE-21]

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "e-rechnung-werkstatt",
+  "version": "445.35.6",
+  "description": "E-Rechnungen aus Word PDF Scans Tabellen E-Mails und Rechnungsdaten erstellen: ZUGFeRD mit eingebettetem XML und XRechnung. Pflichtangaben Belegabgleich Steuerlogik Formatprüfung und tatsächliche Dateiausgabe.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "e-rechnung",
+    "zugferd",
+    "factur-x",
+    "xrechnung",
+    "en-16931",
+    "pdf-a-3",
+    "rechnung",
+    "umsatzsteuer",
+    "kosit",
+    "rechnungsberichtigung"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "E-Rechnung-Werkstatt",
+        "shortDescription": "ZUGFeRD und XRechnung",
+        "longDescription": "E-Rechnungen aus Word PDF Scans Tabellen E-Mails und Rechnungsdaten erstellen: ZUGFeRD mit eingebettetem XML und XRechnung. Pflichtangaben Belegabgleich Steuerlogik Formatprüfung und tatsächliche Dateiausgabe.",
+        "developerName": "Klotzkette",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Erstelle aus meinen Unterlagen die benötigte E-Rechnung. Lies vorhandene Rechnungen Verträge Tabellen und E-Mails zuerst. Kläre nur entscheidende Lücken und Widersprüche. Wähle mit mir ZUGFeRD oder XRechnung anhand des Empfängers. Erzeuge die Dateien prüfe Pflichtangaben Beträge XML-Geschäftsregeln und bei ZUGFeRD PDF/A sowie die Übereinstimmung mit dem Sichtbild. Liefere die fertigen Dateien und den tatsächlich belegten Prüfstatus."
+      }
+    }
+  }
+}

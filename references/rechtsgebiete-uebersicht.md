@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 311 Plugins, 23392 Skills.
+Stand v445.35.3: 312 Plugins, 23399 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -77,6 +77,7 @@ Stand v445.35.3: 311 Plugins, 23392 Skills.
 | [`diesel-schadensersatz`](../diesel-schadensersatz/) | Großes Dieselgate-Plugin für deutsches Recht mit 21 Workflow-Skills für Aktenstart, Beweisprüfung, Anspruchstrennung, Klage, Replik, beA-Paket und Vollstreckung. Mit geprüftem Fünfjahreskorpus, Rechtsstands-Cockpit und neun ausführlichen Testakten. | `445.35.3` | 21 |
 | [`dsa-dma-digitalregulierung`](../dsa-dma-digitalregulierung/) | Digitalregulierung der EU: DSA (VO 2022/2065) und DMA (VO 2022/1925) plus Data Act DGA AI Act NIS-2 DORA CRA eIDAS 2.0 DDG P2B-VO und Paragraf 19a GWB. Gatekeeper-Schwellen VLOP-Einordnung Risikobewertung Art. 34 Forschungsdatenzugang Art. 40 Account-Sperre Art. 20-23 Zustellung Art. 13 DSA Klagewege. | `445.35.2` | 59 |
 | [`due-diligence`](../due-diligence/) | Due Diligence für Käufer, Investoren und Verkäufer: Unternehmen, Beteiligungen, Personal, Bilanz, Verträge und Kreditportfolios belegt prüfen und Befunde in Kaufpreis, Vertragsregelungen und Vollzugsbedingungen übersetzen. | `1.0.1` | 11 |
+| [`e-rechnung-werkstatt`](../e-rechnung-werkstatt/) | E-Rechnungen aus Word PDF Scans Tabellen E-Mails und Rechnungsdaten erstellen: ZUGFeRD mit eingebettetem XML und XRechnung. Pflichtangaben Belegabgleich Steuerlogik Formatprüfung und tatsächliche Dateiausgabe. | `445.35.6` | 7 |
 | [`ecommerce-recht`](../ecommerce-recht/) | Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse. | `445.35.2` | 73 |
 | [`eigenbedarfskuendigungschecker`](../eigenbedarfskuendigungschecker/) | Eigenbedarfskündigungen für Mieter und Vermieter prüfen: Bedarfsperson, Nutzungswunsch, Form, Fristen, Umwandlungsschutz und Härtewiderspruch. Zehn Skills führen zu begründeten Schreiben und tragfähigen Vereinbarungen; mit zwei vollständigen Fallakten. | `445.35.3` | 10 |
 | [`einfache-leichte-sprache-jura`](../einfache-leichte-sprache-jura/) | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. | `445.35.3` | 87 |
