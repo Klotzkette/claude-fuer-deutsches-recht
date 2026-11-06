@@ -16,6 +16,15 @@ Mandatsbezogene und personenbezogene Inhalte sind nach § 43a Abs. 2 BRAO, § 20
 
 Lizenz: Apache-2.0 OR MIT.
 
+## Testakten: Ausländische Erwerber
+
+Zum Bearbeiten dieser Vorlage stehen zwei vollständige Arbeitsakten über den Kauf bestehender Anteile einer Berliner GmbH zur Verfügung:
+
+- [Spreekern: Ein Director, zwei Unterschriften](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-mumbai-gesellschafterliste) enthält 30 Unterlagen zum Erwerb durch eine Gesellschaft aus Mumbai und zum Streit über die Vertretungsnachweise.
+- [Havelquarz: Der Stempel reist später](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-vae-vertretungsnachweis) enthält 28 Unterlagen zum Erwerb durch eine Gesellschaft aus Dubai, zur Legalisationskette und zum maßgeblichen Zeitpunkt der Vertretungsbefugnis.
+
+Beide Akten enthalten den bereits beurkundeten Vertrag und den bisherigen Registerschriftwechsel. Die abschließende Bewertung und die ergänzende Stellungnahme sind selbst zu erarbeiten. Gesamt-PDF, Originalformat-ZIP und Einzel-PDF-ZIP stehen auf den verlinkten Aktenseiten. Weitere Einstiege bietet die [Übersicht der notariellen Testakten](../README.md#testakten-für-notarielle-anteilsgeschäfte).
+
 ## Einschlägige Normen
 
 - § 15 GmbHG — Veräußerung von Geschäftsanteilen; Formerfordernis (Abs. 3, 4); Vinkulierung (Abs. 5)
