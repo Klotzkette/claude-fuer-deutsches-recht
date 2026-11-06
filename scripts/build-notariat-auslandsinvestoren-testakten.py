@@ -37,6 +37,7 @@ from reportlab.platypus import Paragraph, SimpleDocTemplate, Spacer
 
 from akten_build_runtime import screen_font, serif_font_path
 from testakte_disclaimer import NOTICE_MARKDOWN
+from notariat_dnoti_satz import render_request
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -384,6 +385,25 @@ def create_screen(path: Path, record: dict, case: dict) -> None:
 def case_readme(case: dict, paths: list[Path], release: str) -> str:
     slug = case["slug"]
     documents = "\n".join(f"- [{path.name}]({path.name})" for path in paths)
+    request = next((record for record in case['docs'] if record.get('renderer') == 'dnoti'), None)
+    request_section = ''
+    if request:
+        filename = f"{request['n']:02d}_{request['stem']}.pdf"
+        download = 'DNotI_Anfrage_Mumbai_Spreekern.pdf' if request['request_key'] == 'mumbai' else 'DNotI_Anfrage_Dubai_Havelquarz.pdf'
+        request_section = f'''## 1.1. Notaranfrage als eigenständiger Prüfauftrag
+
+Die ausführliche Anfrage schildert den vollständigen Kern des Vorgangs und fragt Beurkundungsreife, Organ- und Abschlussbefugnis, Vollmachtsvarianten sowie den weiteren Listenweg getrennt ab. Für eine KI-Prüfung genügt zunächst dieses eine PDF. Die Anfrage enthält keine Antwort des Instituts und keine abschließende Lösung. Weitere Aktenstücke dokumentieren Reiseverzicht, Kopien- und Originalbestand sowie die noch nicht ausgeführten Spezialvollmachten.
+
+Absender ist der fiktive, fachkollegial mitbefasste Notar Dr. Lennox Hieronymus von Tannried-Eichenau. Die bisherigen Urkundspersonen und Verfahrensdaten bleiben erhalten. Das Deutsche Notarinstitut und seine Anschrift in Würzburg sind reale Empfängerangaben; eine Anfrage wurde nicht versandt.
+
+{NOTICE_MARKDOWN}
+
+| Einzelnes Schreiben | PDF |
+| --- | --- |
+| Notaranfrage im Repository | [Vollständige Anfrage öffnen]({filename}) |
+| Notaranfrage als Direktdownload | [Anfrage-PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/{release}/{download}) |
+
+'''
     return f"""# {case['title']}
 
 {case.get('subtitle', '')}
@@ -394,7 +414,7 @@ Die Akte richtet sich an Notariatsmitarbeiter, Notare und gesellschaftsrechtlich
 
 Bearbeitungsstand: {case.get('date', '6. November 2026')}. Zuordnung: [Notariat Alltag](../../notariat-alltag/README.md). Die Berliner Zielgesellschaft besteht bereits. Eine nach Anteilskauf eingereichte Gesellschafterliste, die Wirksamkeit der Anteilsübertragung und ein etwaiger gesonderter Geschäftsführerwechsel sind auseinanderzuhalten. Die bereits eingereichte anwaltliche Eingabe gehört zur Vorgeschichte. Eine abschließende Bewertung und die jetzt zu entwerfende ergänzende Stellungnahme sind nicht vorgegeben.
 
-## 2. Aktenstücke
+{request_section}## 2. Aktenstücke
 
 {documents}
 
@@ -424,7 +444,7 @@ Das Akten-ZIP enthält die Originaldateien ohne vorgeschalteten Ordner und ohne 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--material", type=Path, default=ROOT / "scripts/notariat-auslandsinvestoren-material.json")
-    parser.add_argument("--release", default="notariat-v445.35.7")
+    parser.add_argument("--release", default="notariat-v445.35.8")
     parser.add_argument("--case", choices=sorted(SLUGS), help="Nur die ausgewählte Akte erzeugen.")
     args = parser.parse_args()
     material = json.loads(args.material.read_text(encoding="utf-8"))
@@ -432,6 +452,7 @@ def main() -> None:
     if (not args.case and present != SLUGS) or not present <= SLUGS or (args.case and args.case not in present):
         raise ValueError("Material muss genau die beiden vorgesehenen Akten enthalten.")
     init_pdf_fonts()
+    requests = json.loads((ROOT / 'scripts/data/notariat-dnoti-anfragen.json').read_text(encoding='utf-8'))['requests']
     creators = {"docx": create_docx, "pdf": create_pdf, "eml": create_email, "xlsx": create_xlsx, "png": create_screen}
     for case in material["cases"]:
         if args.case and case["slug"] != args.case:
@@ -447,7 +468,17 @@ def main() -> None:
             if kind not in creators or not re.fullmatch(r"[A-Za-z0-9_-]+", stem):
                 raise ValueError(f"Unzulässiger Dateiname oder Typ: {stem}.{kind}")
             path = target / f"{record['n']:02d}_{stem}.{kind}"
-            creators[kind](path, record, case)
+            if record.get('renderer') == 'dnoti':
+                if kind != 'pdf' or record.get('request_key') not in requests:
+                    raise ValueError('Ungültige DNotI-Anfragezuordnung')
+                request = requests[record['request_key']]
+                if request['case_slug'] != case['slug'] or request['filename'] != path.name:
+                    raise ValueError('DNotI-Anfrage gehört zu einer anderen Akte')
+                render_request(request, path)
+            elif record.get('renderer'):
+                raise ValueError('Unbekannter Dokumentrenderer')
+            else:
+                creators[kind](path, record, case)
             paths.append(path)
         (target / "README.md").write_text(case_readme(case, paths, args.release), encoding="utf-8")
         print(f"{case['slug']}: {len(paths)} native Aktenstücke")

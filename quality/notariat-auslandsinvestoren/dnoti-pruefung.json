@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-06",
+  "native_files": 70,
+  "identical_rebuild": true,
+  "original_58_files_preserved": true,
+  "request_source_sha256": "d27e5c34ad78171432090e5c4d3bdceadb6db1988498da72b80838f14a479779",
+  "renderer_sha256": "7c1e9e583f04eb47991c6ae8d554876a41f6fecde43fec7043b31a48e4a800b7",
+  "cases": {
+    "notariat-berlin-mumbai-gesellschafterliste": {
+      "native_files": 36,
+      "request_pdf": "31_DNotI_Anfrage_Mumbai.pdf",
+      "request_pages": 8,
+      "request_sha256": "50d32beea7e099e8ee46ee0a37687941968a594028f61dbc707edc921dc7456e",
+      "combined_pdf_pages": 72
+    },
+    "notariat-berlin-vae-vertretungsnachweis": {
+      "native_files": 34,
+      "request_pdf": "29_DNotI_Anfrage_Dubai.pdf",
+      "request_pages": 8,
+      "request_sha256": "df06ca4d53dac9d4e4fb6b2453e4cad9885725ccf7bfa7fc1fac7adff90e2c27",
+      "combined_pdf_pages": 69
+    }
+  },
+  "visual_review": {
+    "previous_document_pages_preserved": 49,
+    "new_request_pages": 16,
+    "new_supporting_pdf_pages": 6,
+    "screenshots_preserved": 2,
+    "new_pdf_pages_all_inspected": true
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "requests": {
+    "mumbai": {
+      "case_slug": "notariat-berlin-mumbai-gesellschafterliste",
+      "filename": "31_DNotI_Anfrage_Mumbai.pdf",
+      "title": "Gutachtenanfrage: Indische Erwerbergesellschaft und notarielle Vollzugsreife",
+      "date": "06.11.2026",
+      "reference": "TE-2026/113 · Spreekern / Mumbai",
+      "sender": {
+        "name": "Dr. Lennox Hieronymus von Tannried-Eichenau",
+        "profession": "Notar",
+        "address": [
+          "Kastanienallee 74",
+          "10435 Berlin"
+        ],
+        "phone": "030 / 5550 1870",
+        "email": "post@notar-tannried.example"
+      },
+      "recipient": [
+        "Deutsches Notarinstitut (DNotI)",
+        "Gerberstraße 19",
+        "97070 Würzburg"
+      ],
+      "subject": "Spreekern KI & Immobilien GmbH: Beurkundung mit einer indischen Private Limited, Vertretungsnachweis und zurückgewiesene Gesellschafterliste",
+      "salutation": "Sehr geehrte Damen und Herren, sehr geehrte Kolleginnen und Kollegen,",
+      "introduction": [
+        "ich bitte um eine gutachtliche Auskunft zu einem deutsch-indischen Anteilsgeschäft, bei welchem ein stattliches Bündel an Gesellschaftspapieren vorliegt, die entscheidende Rechtsmacht aber gerade zwischen diesen Papieren zu verschwinden droht. Die Beteiligten haben mich mit Zustimmung meiner Kollegin Dr. Fenja Linden um eine fachkollegiale Mitprüfung gebeten. Frau Kollegin Linden hat den Vertrag beurkundet und die Gesellschafterliste eingereicht. Ich bin weder ihr Amtsnachfolger noch ihr amtlich bestellter Vertreter und beanspruche keine Zuständigkeit, ihre Urkunde oder ihre bereits erteilte Bescheinigung stillschweigend zu ersetzen.",
+        "Die Anfrage hat drei getrennte Zeitebenen: Welche Prüfung war vor der Beurkundung am 12. Oktober 2026 erforderlich? Welche Bedeutung haben die erst danach vollständig übermittelten Unterlagen für die damalige Vertretung? Und auf welchem rechtlich tragfähigen Weg kann jetzt weitergearbeitet werden, wenn der indische Director nicht nochmals nach Berlin reisen will? Ich schildere den Vorgang deshalb so vollständig, dass die rechtlichen Kernfragen auch ohne fortwährendes Blättern in der Nebenakte beantwortet werden können. Ein wohlgesetztes Siegel verdient gewiss Aufmerksamkeit; die Antwort darauf, wer die Gesellschaft verpflichten konnte, vermag ich ihm allein indes nicht abzulesen."
+      ],
+      "sections": [
+        {
+          "heading": "1. Gesellschaften, Beteiligte und wirtschaftlicher Vorgang",
+          "paragraphs": [
+            "Die Spreekern KI & Immobilien GmbH besteht seit 2021 und ist beim Amtsgericht Charlottenburg unter HRB 281746 B eingetragen. Sitz und Geschäftsleitung liegen in Berlin, Geschäftsanschrift ist Rummelsburger Straße 42, 10315 Berlin. Das Stammkapital von 100.000 EUR ist in 100.000 Geschäftsanteile zu je 1 EUR eingeteilt. Johanna Kern hält die Anteile 1 bis 60.000; Cem Aydin hält die Anteile 60.001 bis 100.000. Alleiniger Geschäftsführer ist Leonhard Falk. Die GmbH entwickelt Anwendungen zur Auswertung von Gebäudedaten und Wartungsunterlagen; Dokumentenverweise werden in einer privaten Blockchain protokolliert. Außerdem hält sie eigenes Bürogrundvermögen und erwägt den Erwerb eines Werkstattgebäudes in Berlin-Weißensee. Die Grundstücksgeschäfte sind nicht Gegenstand der hier behandelten Urkunde.",
+            "Käuferin ist die Konkan Meridian Analytics Private Limited, gegründet am 18. Dezember 2018 nach dem indischen Companies Act 2013, Corporate Identity Number U72900MH2018PTC318642. Ihr satzungsmäßiger Sitz und die nach den Unterlagen tatsächlich ausgeübte Hauptverwaltung befinden sich in Mumbai, Maharashtra. Als Geschäftsräume sind 7th Floor, Mahim Enterprise House, Senapati Bapat Marg, Mumbai 400016 angegeben. Eine Sitzverlegung oder Geschäftsleitung in Deutschland wird nicht behauptet. Bei der kollisionsrechtlichen Prüfung bitte ich von diesen Angaben auszugehen und etwa zusätzlich notwendige Feststellungen ausdrücklich zu benennen.",
+            "Die Käuferin soll ausschließlich vorhandene Anteile erwerben: von Frau Kern die Nummern 1 bis 20.000 für 480.000 EUR und von Herrn Aydin die Nummern 60.001 bis 75.000 für 360.000 EUR. Insgesamt sind dies 35 Prozent des Stammkapitals für 840.000 EUR. Es gibt weder eine Kapitalerhöhung noch eine Verpflichtung zur weiteren Eigenkapitalzuführung. Die Käuferin übernimmt nach dem Vertrag auch keine Garantie für Bankverbindlichkeiten der deutschen GmbH. Die Gesellschafterstellung der indischen Gesellschaft begründet kein Geschäftsführeramt ihres handelnden Directors bei der deutschen GmbH; diese Abgrenzung ist inzwischen auch den Beteiligten erläutert worden."
+          ]
+        },
+        {
+          "heading": "2. Organbestellung und die beiden Ermächtigungsgrundlagen",
+          "paragraphs": [
+            "Arjun Deshmukh, DIN 09481627, wurde nach dem vorliegenden Beschluss der Gesellschafterversammlung vom 18. Juni 2024 zum Director bestellt. Seine Zustimmungserklärung vom 10. Juni 2024 ist gesondert vorhanden. Der DIR-12-Eingangsbeleg nennt als Ereignisdatum den 18. Juni und als Einreichungstag den 24. Juni 2024; sein Status lautet filed. Eine gespeicherte MCA-Ansicht vom 23. September 2026 führt ihn neben Meera Iyer und Nikhil Shah als Director einer aktiven Gesellschaft. Weder Bestellungsbeschluss noch Eingangsbeleg weisen ihn als Managing Director aus. Diese weitergehende Bezeichnung verwendet er selbst in E-Mails. Die Company Secretary Kavita Rao erklärt, in ihren Unterlagen sei keine spätere Abberufung oder Amtsniederlegung vermerkt; ein aktueller, eigenständig überprüfter Registerabruf nach dem Beurkundungstag liegt nicht vor.",
+            "Der am 22. September übermittelte Articles-Auszug aus einer Fassung vom 3. April 2024 überträgt die Leitung dem Board. Director-Amt und Bestellung zum Managing Director werden ausdrücklich unterschieden. Verträge dürfen danach durch die vom Board hierzu ermächtigten Directors oder sonstigen Funktionsträger geschlossen werden; Einzelermächtigungen können Betragsgrenzen und gemeinschaftliche Zeichnung vorsehen. Die Company Secretary darf Beschlussauszüge erstellen, soll dabei aber Beschlussdatum und Bedingungen angeben. Ein persönliches Director-Amt wird dort nicht mit einer unbeschränkten alleinigen Abschlussbefugnis gleichgesetzt.",
+            "Der vollständige Beschluss des Boards vom 1. September 2026 billigt Verhandlungen über den Erwerb bis zu einem Gesamtkaufpreis von 900.000 EUR. Herr Deshmukh darf allein unterzeichnen, wenn die Gesamtgegenleistung höchstens 500.000 EUR beträgt. Darüber sind Herr Deshmukh und Frau Iyer gemeinschaftlich zur Unterzeichnung vorgesehen, sofern nicht ein späterer ausdrücklicher Board-Beschluss gerade für dieses Geschäft die Einzelunterzeichnung zulässt. Die bloße Einhaltung der Investitionsobergrenze von 900.000 EUR beantwortet damit nach dem Urkundentext noch nicht die andere Frage, wer den Kaufvertrag unterzeichnen soll.",
+            "Am 9. Oktober 2026 bestätigte Frau Rao einen ergänzenden Auszug, wonach Herr Deshmukh den endgültigen Kauf- und Abtretungsvertrag über 35 Prozent der Spreekern-Anteile für insgesamt 840.000 EUR allein abschließen darf. Der Auszug hebt für dieses Geschäft das gemeinschaftliche Zeichnungserfordernis auf und nimmt zusätzliche Kapitalbeiträge sowie Schuldgarantien aus. Er wurde am selben Abend nach Deutschland gesandt. Er bezeichnet die Entscheidung weder ausdrücklich als Sitzungsbeschluss noch als Umlaufbeschluss. Seine sprachliche Eindeutigkeit bezüglich des Geschäfts steht außer Frage; offen ist gerade, ob das hierfür zuständige Organ diese Entscheidung in dem erforderlichen Verfahren wirksam getroffen hat."
+          ]
+        },
+        {
+          "heading": "3. Der nachgereichte E-Mail-Umlauf und der tatsächliche Ablauf",
+          "paragraphs": [
+            "Die vollständige E-Mail-Kette ging erst am 3. November ein. Frau Rao hatte den Text am 9. Oktober um 12:05 Uhr indischer Zeit an alle drei Directors versandt. Herr Deshmukh stimmte um 14:35 Uhr zu, Frau Iyer um 16:10 Uhr. Herr Shah erklärte um 18:46 Uhr ausdrücklich, er stimme dem Umlauftext nicht zu und verlange, die Änderung der Zeichnung vor einer Board-Sitzung zu erörtern. Er verwies auf den erst im September vereinbarten Schwellenwert. Der anschließend erstellte Auszug wurde um 19:20 Uhr versandt. Die Nachricht des Herrn Shah lag somit zeitlich vor seiner Ausstellung.",
+            "Frau Rao erläutert nun, sie habe die Zustimmung der beiden anderen Directors für ausreichend gehalten, weil die Investition als solche im September bereits gebilligt worden sei. Ein unterzeichnetes Protokoll einer Sitzung am 10. Oktober besitzt sie nicht. Herr Deshmukh berichtet von einem Telefongespräch mit Herrn Shah ohne wirtschaftliche Einwände. Ob Herr Shah darin sein Sitzungsverlangen zurückgenommen hat, ist nicht schriftlich bestätigt. Aus diesem Bericht mache ich weder eine bewiesene Rücknahme noch eine zusätzliche Board-Sitzung. Ebenso wenig möchte ich eine fehlende Niederschrift ohne Prüfung der maßgeblichen Regeln bereits mit einer nicht stattgefundenen Entscheidung gleichsetzen. Nach der ergänzenden Nachricht von Frau Rao vom 6. November hat Herr Shah sein Sitzungsverlangen nicht zurückgenommen; eine neue Sitzung oder Ratifikation ist in den von ihr übermittelten Unterlagen nicht verzeichnet. Diese Auskunft der Company Secretary soll durch die nachgefragten Primärunterlagen überprüfbar werden und wird nicht als gerichtliche Feststellung vorweggenommen.",
+            "Die vorliegenden amtlichen indischen Materialien führen zu Section 175 Absatz 1 Companies Act 2013 und dem dortigen Vorbehalt zugunsten eines Sitzungsverlangens von mindestens einem Drittel der Directors. Ich bitte um Prüfung der auf die konkrete Private Limited am 9. Oktober 2026 anwendbaren Fassung einschließlich Ausnahmen, Satzungsregeln und etwa maßgeblicher Secretarial Standards. Ferner bitte ich um Abgrenzung zu Section 179 Absatz 3: Erforderte schon die Art der Auslandsbeteiligung eine in einer Sitzung zu treffende Entscheidung, oder betrifft die fragliche Änderung nur die konkrete Zeichnungsermächtigung? Entscheidend wäre nicht allein ein Abstimmungsergebnis von zwei zu eins, sondern dessen rechtliche Einordnung."
+          ]
+        },
+        {
+          "heading": "4. Beurkundung, Zahlung und eingereichte Liste",
+          "paragraphs": [
+            "Am 12. Oktober 2026 erschienen Frau Kern, Herr Aydin und Herr Deshmukh vor Notarin Dr. Fenja Linden. Die Urkunde trägt UVZ 418/2026. Herr Deshmukh erklärte, für die Käuferin allein handeln zu dürfen; Frau Iyer erschien nicht und war nicht durch einen eigenen Bevollmächtigten vertreten. Die Urkunde beschreibt die vorgelegten Gesellschaftspapiere und den ergänzenden Auszug vom 9. Oktober. Sie vermerkt die Bedeutung einer wirksamen Vertretung nach dem maßgeblichen Gesellschaftsrecht, das Verlangen nach dem vollständigen Beschlussnachweis und den Wunsch der Beteiligten, auf Grundlage der vorliegenden Erklärungen zu beurkunden. Eine gesonderte vertragliche Bedingung der späteren Listenaufnahme oder einer konsularischen Bestätigung ist nicht vereinbart.",
+            "Jede Abtretung wurde unter die aufschiebende Bedingung vollständiger Zahlung des jeweiligen Kaufpreises gestellt. Die Käuferin veranlasste am 15. Oktober Belastungen von 480.000 EUR und 360.000 EUR; die Empfangsbestätigungen beider Veräußerer wurden am 16. Oktober weitergeleitet. Die Preisbedingung ist nach diesem Unterlagenstand erfüllt. Dies beantwortet nach meinem Verständnis noch nicht die vorgelagerte Frage einer ausreichenden Erwerbervertretung. Eine weitere Zahlung, eine Rückzahlung oder ein zweiter Kaufvertrag ist bislang nicht vereinbart worden.",
+            "Die Kollegin reichte am 16. Oktober eine von ihr bescheinigte Liste nach § 40 Absatz 2 GmbHG ein. Sie weist die indische Gesellschaft mit 35 Prozent, Frau Kern mit 40 Prozent und Herrn Aydin mit 25 Prozent aus. Der technische Eingang und eine erfolgreiche Signaturprüfung sind bestätigt; eine Aufnahme in den Registerordner erfolgte bislang nicht. Die vorliegende Urkunde ist also tatsächlich beurkundet, die Liste tatsächlich übermittelt und der Vollzug tatsächlich umstritten. Eine neue Niederschrift soll nicht bloß deshalb geschaffen werden, um die Fragestellung nachträglich als noch ungeschehen erscheinen zu lassen."
+          ]
+        },
+        {
+          "heading": "5. Beurkundungsreife und Ermittlung der maßgeblichen Rechtsmacht",
+          "paragraphs": [
+            "Ich bitte zunächst um eine trennscharfe kollisionsrechtliche Einordnung von Existenz und Rechtsfähigkeit der indischen Gesellschaft, Bestellung des Directors, organschaftlicher Vertretung, geschäftsbezogener Ermächtigung und einer daneben erteilten rechtsgeschäftlichen Vollmacht. Welche Fragen folgen dem Gesellschaftsstatut und welche einer gesonderten Vollmachtsanknüpfung? Die Rechtswahl deutschen Rechts im schuldrechtlichen Anteilskauf kann diese Zuordnung nicht ohne Weiteres erledigen. Bitte benennen Sie, welche tatsächlichen Anknüpfungspunkte zusätzlich zu Sitz und Hauptverwaltung benötigt werden und in welcher Form die indischen Rechtsquellen für die notarielle Prüfung erschlossen werden sollten.",
+            "Sodann bitte ich um Auskunft, welches Maß an Aufklärung vor dem damaligen Termin erforderlich war und was für einen künftigen Termin gelten würde. § 17 Absätze 1 und 2 BeurkG verlangt Sachverhaltsklärung und die Behandlung bestehender Zweifel; Absatz 3 enthält den Hinweis auf ausländisches Recht und begrenzt die Pflicht zur Belehrung über dessen Inhalt. Wo verläuft im vorliegenden Fall die Grenze zwischen zulässiger Dokumentation eines ernsthaft erörterten Wirksamkeitszweifels und einem Beurkundungsvorgang, dessen Vertretungsgrundlage zunächst weiter aufgeklärt werden muss? Ich möchte weder aus dem Beteiligtenwunsch eine Heilung noch aus jedem fremdrechtlichen Prüfbedarf ein ausnahmsloses Beurkundungshindernis ableiten.",
+            "Welche Nachweise wären hierfür konkret erforderlich und verhältnismäßig: vollständige aktuelle Articles, ursprüngliche und ergänzende Beschlüsse, Einberufungs- und Teilnahmeunterlagen, ein nachträglicher Registerauszug, Bestätigung der amtierenden Directors oder eine mit Rechtsquellen und Tatsachengrundlage versehene Auskunft eines indischen Juristen? Könnte das DNotI die Rechtsfrage anhand der mitgeteilten Tatsachen beantworten, während die Echtheit bestimmter Belege gesondert abgesichert werden muss? Bitte unterscheiden Sie dabei zwischen einem unklaren Norminhalt, unvollständigen Tatsachen und einem tatsächlich widersprüchlichen Nachweis. Ein weiteres Papier mit unverändertem Behauptungssatz wäre noch kein Gewinn an Erkenntnis."
+          ]
+        },
+        {
+          "heading": "6. Ausländische Bescheinigung, Apostille und Urkundenüberprüfung",
+          "paragraphs": [
+            "Der Notar Rohan Vaidya in Mumbai hat am 5. Oktober die Identität und die vor ihm geleistete Unterschrift des Herrn Deshmukh unter dessen eigener Erklärung bestätigt. Er nennt Gründungsbescheinigung, DIR-12-Eingangsbeleg und gespeicherte Unternehmensansicht als vorgelegte Unterlagen. Ausdrücklich nicht eingesehen hat er das ursprüngliche Beschlussbuch und sämtliche Ermächtigungsentscheidungen zum Berliner Erwerb. Die uneingeschränkte Einzelbefugnis für 840.000 EUR gibt das Certificate als Behauptung des Erschienenen wieder; eine selbständige gutachtliche Feststellung dieser Rechtsmacht enthält es nicht. Es kann schon seinem Datum nach den Ablauf des 9. Oktober nicht bezeugen.",
+            "Mitgesandt wurde ein Apostilleblatt vom 7. Oktober mit Bezug auf Unterschrift und Eigenschaft des Notars Vaidya, Referenz MAH/2026/1007/8421. Ich unterstelle weder dessen geprüfte Echtheit noch eine zwischenstaatliche Wirkung in Deutschland. Der amtliche Hinweis der deutschen Vertretungen in Indien vom 16. Juni 2026 nennt den deutschen Einspruch gegen den Beitritt sowie die ebenfalls nicht stattfindende Legalisation indischer Urkunden. Ich bitte daher gerade nicht um Benennung eines vermeintlich stets verfügbaren Legalisationsersatzes. Welche Bedeutung können die vorliegenden Unterlagen gleichwohl als Erkenntnismittel haben, und welche weitergehende Absicherung ist in diesem Firmenvorgang tatsächlich erreichbar und erforderlich?",
+            "Kommt eine Urkundenüberprüfung in Amtshilfe in Betracht, bitte ich um Präzisierung des zulässigen Anstoßes, des Empfängers und des Prüfungsgegenstands. Der veröffentlichte Hinweis bezeichnet deutsche Behörden beziehungsweise Gerichte als verfahrensveranlassende Stellen; die Beteiligten können eine solche Prüfung nicht privat bestellen. Kann und soll das Registergericht für diese konkreten Firmenunterlagen ein Ersuchen erwägen, oder ist zuvor der verfügbare Erkenntnisstoff auszuschöpfen? Eine Überprüfung von Echtheit und Registerzuordnung wäre außerdem von einem Gutachten über die Wirkung des Sitzungsverlangens zu unterscheiden. Die Frage nach dem richtigen Beweismittel darf nicht mit einer unbestimmten Bitte um alles, was in Mumbai irgendwie gesiegelt werden kann, beantwortet werden."
+          ]
+        },
+        {
+          "heading": "7. Varianten ohne erneute persönliche Anreise",
+          "paragraphs": [
+            "Für ein künftiges Ergänzungs- oder Bestätigungsgeschäft möchte Herr Deshmukh den zweiten Flug nach Berlin vermeiden. Bitte stellen Sie zunächst der Variante erneuten persönlichen Auftretens die Vertretung durch einen in Deutschland erscheinenden Bevollmächtigten gegenüber. Selbst beim persönlichen Auftreten wäre seine gesellschaftsrechtliche Abschlussbefugnis gesondert zu prüfen. Bei Einschaltung eines Bevollmächtigten käme eine weitere Ermächtigungsstufe hinzu: Wer darf für die indische Gesellschaft die Vollmacht erteilen, wie ist diese Befugnis belegt, und welches konkrete Geschäft wird von der Vollmacht erfasst? Die bloße Verlagerung der Unterschrift auf eine andere Hand scheint mir die erste Stufe nicht zu ersetzen. Der am 6. November nachgereichte, ausdrücklich nicht unterzeichnete Entwurf benennt Mira Rosenfeld als vorgeschlagene Vertreterin für einen weiteren Termin. Er enthält keine Genehmigung des Vertrags vom 12. Oktober; schon die Befugnis von Arjun Deshmukh und Meera Iyer als den darin vorgesehenen Unterzeichnern ist nach dem Begleitschreiben erst zu klären.",
+            "Erste Untervariante ist eine privatschriftliche Spezialvollmacht im Original, ausgestellt durch Herrn Deshmukh allein. Zweite Untervariante ist dieselbe Vollmacht mit gemeinschaftlicher Unterschrift von Herrn Deshmukh und Frau Iyer auf Grundlage eines ordnungsgemäß gefassten neuen Beschlusses. Zu prüfen wären jeweils die anwendbare Form, Widerruflichkeit, Reichweite und ein etwaiges Abweichen von der grundsätzlichen Formregel des § 167 Absatz 2 BGB. Bitte prüfen Sie ausdrücklich, ob und wann im Zusammenhang mit dem formbedürftigen Anteilsgeschäft besondere Bindungswirkungen der Vollmacht eine andere Beurteilung verlangen. Eine Vollmacht soll nicht allein wegen der deutschen Beurkundungsform reflexhaft als beurkundungspflichtig behandelt werden. Gegenstand ist der Erwerb bestehender Anteile; die besondere Gründungsvollmacht nach § 2 Absatz 2 GmbHG soll nicht ohne Prüfung auf diesen anderen Vorgang übertragen werden.",
+            "Dritte Untervariante ist eine vor einem indischen Notar unterschriebene oder anerkannte, öffentlich beglaubigte Spezialvollmacht. Vierte Untervariante ist eine dort vollständig beurkundete Vollmacht oder eine gesonderte Bescheinigung über die Vertretungsmacht. Welche Wirkung haben diese unterschiedlichen Amtshandlungen, welche Anforderungen sind an eine etwaige funktionelle Gleichwertigkeit zu stellen und welche Tatsachen müsste der ausländische Notar selbst geprüft haben? Bitte erläutern Sie auch die mögliche Bedeutung von § 12 BeurkG und § 21 BNotO. Eine Beglaubigung der Unterschrift, eine beglaubigte Kopie und eine begründete Aussage über gesellschaftsrechtliche Abschlussbefugnis sollten nicht unter derselben Überschrift verschwimmen.",
+            "Fünfte Untervariante ist die praktische Übermittlung: einfacher Farbscan einer unterschriebenen Vollmacht, Ausdruck dieses Scans mit aufgedrucktem Siegelbild, papiergebundene beglaubigte Abschrift oder originär elektronische Vollmacht mit behaupteter digitaler Signatur. Wie sind materielle Formwirksamkeit, Echtheit, Integrität, Urkundenvorlage und Beweiswert jeweils getrennt zu beurteilen? Welche Signaturprüfung und welche Verbindung zwischen Beglaubigungsvermerk und Ausgangsdokument wären erforderlich? Der schöne Ausdruck eines elektronischen Originals ist noch nicht die Prüfung dieses Originals; ebenso ist ein bloß gedrucktes Siegelbild nicht bereits ein verifiziertes elektronisches Siegel. Eine pauschale Ablehnung jedes elektronischen Dokuments wäre andererseits keine ausreichende Begründung.",
+            "Schließlich bitte ich um Prüfung, ob eine geeignete deutsche konsularische Beurkundung oder Beglaubigung konkret verfügbar und für den bestimmten Erklärungsinhalt zweckmäßig sein könnte. Hieraus soll keine Zusage eines Termins oder einer örtlichen Amtsbefugnis abgeleitet werden. Vor allem würde auch eine authentische deutsche Unterschriftsbestätigung nicht ohne Weiteres belegen, dass der Unterzeichner für die indische Gesellschaft die Vollmacht wirksam erteilen konnte. Welche im Gesellschaftsrecht tragfähige Vertretungskette müsste deshalb vor einer solchen Gestaltung feststehen?"
+          ]
+        },
+        {
+          "heading": "8. Nachträgliche Genehmigung oder erneuter Abschluss",
+          "paragraphs": [
+            "Sollte die Einzelbefugnis am 12. Oktober nicht ausreichend bestanden haben, ist der weitere Weg gesondert zu bestimmen. Ich bitte um Prüfung, ob eine nach dem maßgeblichen Recht wirksam beschlossene und durch nachweislich befugte Personen erklärte Genehmigung des bestehenden Kauf- und Abtretungsvertrags in Betracht kommt. § 177 BGB bildet hierfür einen deutschen Ausgangspunkt, beantwortet aber für sich nicht, wer für die indische Gesellschaft genehmigen darf. Ebenso wenig möchte ich ohne kollisionsrechtliche Einordnung behaupten, eine deutsche Genehmigungserklärung beseitige jeden Fehler des indischen Beschlussverfahrens.",
+            "Bitte unterscheiden Sie die materielle Form einer Genehmigung nach § 182 Absatz 2 BGB von ihrer notwendigen Nachweisform im notariellen Vollzug und im konkreten Registerverfahren. Muss eine Genehmigung im Wortlaut zwischen schuldrechtlichem Kauf und dinglicher Abtretung differenzieren, die früheren Erklärungen genau bezeichnen und etwaige inzwischen eingetretene Veränderungen berücksichtigen? Welche Folgen hätte ein rechtlich wirksamer Genehmigungsbeschluss für die zeitliche Einordnung der Übertragung und der bereits erteilten Listenbescheinigung? Eine neue Ermächtigung nur für zukünftige Verträge wäre nicht ohne Weiteres dasselbe wie die Genehmigung des bereits geschlossenen Geschäfts.",
+            "Eine Aufforderung der anderen Vertragsseite zur Genehmigung nach § 177 Absatz 2 BGB ist bislang nicht festgestellt. Ich bitte, den Zugang einer etwa künftig abgegebenen Aufforderung, ihren besonderen Erklärungsempfänger und die gesetzliche Zweiwochenfrist von bloßen Erinnerungen des Notariats zu unterscheiden. Falls statt einer Genehmigung ein erneuter Abschluss erforderlich oder sachgerecht wäre: Wie wäre der bestehende Vertrag zu behandeln, damit weder ein zweiter Kaufpreis noch eine ungewollte zusätzliche Verpflichtung entsteht? Ohne Abstimmung sollen die bereits geleisteten 840.000 EUR weder nochmals angefordert noch zurückgebucht werden."
+          ]
+        },
+        {
+          "heading": "9. Notarielle Listenbescheinigung und gerichtlicher Prüfungsmaßstab",
+          "paragraphs": [
+            "Für den eigenen Vollzug der Kollegin bitte ich um Auskunft, welche verlässliche Grundlage eine Bescheinigung nach § 40 Absatz 2 GmbHG voraussetzt und wie mit den nachträglich bekannt gewordenen Widersprüchen umzugehen ist. Kann ein ergänzender Nachweis genügen, muss eine Genehmigung abgewartet oder eine bestehende Bescheinigung berichtigt werden, oder kommt unter bestimmten Voraussetzungen eine neue Liste in Betracht? Bitte unterscheiden Sie eine sachlich falsche Bescheinigung, eine unvollständige Nebenakte und die erst später bekannt gewordene Unsicherheit über eine bereits bescheinigte Veränderung. Das bloße Wiederholen derselben Liste mit neuerem Datum soll keinen Nachweis vortäuschen.",
+            "Das Registergericht forderte am 20. Oktober Erläuterungen an und lehnte die Listenaufnahme mit Beschluss vom 28. Oktober ab. Es verwies auf die ältere gemeinschaftliche Zeichnung, die Einzelunterschrift und den hinsichtlich seines Zustandekommens nicht nachvollziehbaren späteren Auszug. Rechtsanwältin Dr. Ada Seidel hält dem die notarielle Mitwirkung und den begrenzten Prüfungsumfang entgegen. Sie beruft sich auf BGH, Beschluss vom 18. März 2025 – II ZB 11/24, BGHZ 243, 237, Randnummern 33 bis 38: Materielle Unrichtigkeit müsse ohne weitere Ermittlungen sicher und offensichtlich zweifelsfrei feststehen. Ich bitte um Prüfung, wie dieser Maßstab auf den vorliegenden Unterlagenstand wirkt, ohne ihn zur vollständigen Entlastung des bescheinigenden Notars umzudeuten.",
+            "Gegenstand ist die Aufnahme einer Gesellschafterliste in den Registerordner. Weder ist die Eintragung eines neuen Geschäftsführers der deutschen GmbH beantragt noch bewirkt eine Listenaufnahme als solche eine konstitutive Eintragung des Gesellschafterwechsels in das Registerblatt. Bitte teilen Sie mit, welche konkreten Nachweise in diesem Verfahren gefordert werden dürfen. Die Grundbuchform des § 29 GBO sollte nicht ungeprüft zum Universalmaßstab werden, nur weil die GmbH eigenes Grundstücksvermögen besitzt. Der Grundstücksbestand bleibt wirtschaftlicher Hintergrund; eine neue Auflassung wird mit der Anteilsübertragung nicht erklärt."
+          ]
+        },
+        {
+          "heading": "10. Verfahrensstand und erbetene handlungsfähige Auskunft",
+          "paragraphs": [
+            "Der Ablehnungsbeschluss wurde nach dem vorliegenden Schriftwechsel am 29. Oktober bekanntgegeben. Frau Dr. Seidel reichte am 30. Oktober eine als Erinnerung bezeichnete Eingabe ein und bat hilfsweise ausdrücklich um Behandlung als Beschwerde. Das Gericht hat am 5. November den Eingang bestätigt und eine Ergänzung bis 12. November ermöglicht; Statthaftigkeit, Abhilfe oder Vorlage sind damit nicht entschieden. Bitte grenzen Sie die Beschwerde nach § 58 FamFG von der subsidiären Erinnerung nach § 11 Absatz 2 RPflG ab und benennen Sie die für Frist, Form, Berechtigung und Auslegung noch erforderlichen Unterlagen. Eine richtig ausgelegte Eingabe macht eine unzureichende Erwerbervertretung nicht wirksam, kann aber den verfahrensrechtlichen Weg offenhalten.",
+            "Ich erbitte eine nach den drei Zeitebenen gegliederte Auskunft: zunächst die Anforderungen an eine verantwortbare Beurkundung mit den damals vorhandenen Papieren; sodann die Bedeutung der später bekannt gewordenen Beschlusskorrespondenz; schließlich eine begründete Auswahl zwischen ergänzendem Nachweis, wirksamer Genehmigung und gegebenenfalls erneuter Beurkundung. Für jede Gestaltung bitte ich um Angabe des ausstellenden beziehungsweise erklärenden Organs, des erforderlichen Inhalts, der materiellen Form, der Nachweisform und des konkreten Verwendungszwecks. Sollten Teile der Auskunft einer weitergehenden Ermittlung indischen Rechts bedürfen, wäre eine präzise Eingrenzung dieser Fragen besonders hilfreich.",
+            "Die Beteiligten erwarten eine Entscheidungsvorlage, keine Sammlung ehrwürdiger Vermutungen. Herr Deshmukh möchte die Reisekosten vermeiden, die Veräußerer möchten nicht zweimal verfügen und die deutsche GmbH benötigt gegenüber ihrer Bank eine wahrheitsgemäße Darstellung des Registerstands. Ich bitte deshalb auch um Kennzeichnung, welche dieser Wünsche sich rechtssicher miteinander verbinden lassen und an welcher Stelle ein Unterlagenmangel zunächst offenbleiben muss. Eine gesonderte DNotI-Stellungnahme ist bislang weder ergangen noch gegenüber dem Registergericht als bereits vorliegend bezeichnet worden."
+          ]
+        }
+      ],
+      "closing": [
+        "Für Ihre dogmatisch bestimmte und zugleich vollzugstaugliche Auskunft danke ich Ihnen im Voraus. Für Rückfragen stehe ich, nach Abstimmung mit der beurkundenden Kollegin, gerne zur Verfügung.",
+        "Mit vorzüglicher kollegialer Hochachtung",
+        "Dr. Lennox Hieronymus von Tannried-Eichenau",
+        "Notar"
+      ],
+      "attachments": [
+        "Bezuggenommene Unterlagen des Vorgangs; die entscheidenden Tatsachen und Erklärungsinhalte sind vorstehend wiedergegeben.",
+        "04_Registerauszug_Spreekern.pdf und 06_Certificate_Incorporation.pdf: Identität und Grunddaten beider Gesellschaften.",
+        "07_Articles_Authority.docx, 08_Director_Appointment_DIR12.pdf, 09_MCA_Ansicht_23092026.png, 29_Bestellungsbeschluss_2024.pdf und 30_Consent_Director_2024.pdf: Organstellung und überlieferte Satzungslage.",
+        "10_Board_Resolution_01092026.pdf, 27_Umlaufakte_09_Oktober.eml und 28_Ergaenzender_Beschlussauszug.pdf: ältere Ermächtigung, Umlaufkorrespondenz und ergänzender Auszug.",
+        "11_Notarial_Certificate_Mumbai.pdf und 12_Apostille_Anlagenblatt.pdf: Umfang der ausländischen Bescheinigung und übermitteltes Beglaubigungsblatt.",
+        "14_SPA_Beurkundet.docx, 15_Kaufpreisgutschriften.pdf und 16_Closing_Bestaetigung.eml: Vertrag und Zahlungsstand.",
+        "17_Neue_Gesellschafterliste.pdf, 18_Einreichung_Register.pdf und 19_Registergericht_Nachforderung.pdf: Liste, technischer Eingang und Nachfrage.",
+        "20_RA_Stellungnahme.docx, 21_Notarieller_Aktenvermerk.docx, 22_Zurueckweisungsbeschluss.pdf, 23_Erinnerung_hilfsweise_Beschwerde.docx und 24_Gericht_Eingang_weiteres_Verfahren.pdf: gerichtlicher Streit und offener Verfahrensstand.",
+        "25_Rao_Nachlieferung.eml und 26_Mandantenauftrag_nach_Zurueckweisung.eml: zusätzliche Angaben und aktueller Bearbeitungsauftrag.",
+        "32_Deshmukh_kein_zweiter_Berlinflug.eml bis 36_Kollegiale_Vorbesprechung_Mumbai.pdf: Nachlieferungen vom 6. November zu Reiseverzicht, Kopienbefund, nicht ausgeführter Spezialvollmacht und fachkollegialer Mitprüfung; insbesondere Nachricht der Company Secretary zur unveränderten Beschlusslage."
+      ],
+      "sources": [
+        {
+          "label": "§§ 15 und 40 GmbHG: Anteilsgeschäft und Gesellschafterliste",
+          "url": "https://www.gesetze-im-internet.de/gmbhg/"
+        },
+        {
+          "label": "§§ 12 und 17 BeurkG: Vertretungsnachweise und Beurkundung",
+          "url": "https://www.gesetze-im-internet.de/beurkg/"
+        },
+        {
+          "label": "§ 21 BNotO: Bescheinigungen",
+          "url": "https://www.gesetze-im-internet.de/bnoto/__21.html"
+        },
+        {
+          "label": "§§ 167, 177 und 182 BGB: Vollmacht und Genehmigung",
+          "url": "https://www.gesetze-im-internet.de/bgb/"
+        },
+        {
+          "label": "§ 58 FamFG: Beschwerde",
+          "url": "https://www.gesetze-im-internet.de/famfg/__58.html"
+        },
+        {
+          "label": "§ 11 RPflG: Rechtsbehelf gegen Rechtspflegerentscheidungen",
+          "url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html"
+        },
+        {
+          "label": "Companies Act 2013, insbesondere Sections 175 und 179, amtlicher Text",
+          "url": "https://www.indiacode.nic.in/bitstream/123456789/2114/5/A2013-18.pdf"
+        },
+        {
+          "label": "Deutsche Vertretungen in Indien: Urkundenüberprüfungen, 16.06.2026",
+          "url": "https://india.diplo.de/in-de/service/2772638-2772638"
+        },
+        {
+          "label": "BGH, Beschluss vom 18.03.2025 – II ZB 11/24, Originaltext über DNotI",
+          "url": "https://www.dnoti.de/entscheidungen/details/?cHash=11bd9e8aa72a681096a65cf8a374e3ea&tx_dnotionlineplusapi_decisions%5Bnodeid%5D=6619e2ec-c0b4-41e8-b7cc-80fdbec33dbf"
+        }
+      ]
+    },
+    "dubai": {
+      "title": "Gutachtenanfrage: Havelquarz – Vertretung einer Dubai-Mainland-LLC",
+      "date": "06.11.2026",
+      "reference": "LHTE/2026/114-HQ · UVZ 527/2026 des Notars Dr. Joris Wendt",
+      "sender": {
+        "name": "Dr. Lennox Hieronymus von Tannried-Eichenau",
+        "profession": "Notar",
+        "address": [
+          "Kastanienallee 74",
+          "10435 Berlin"
+        ],
+        "phone": "030 / 5550 1870",
+        "email": "post@notar-tannried.example"
+      },
+      "recipient": [
+        "Deutsches Notarinstitut (DNotI)",
+        "Gerberstraße 19",
+        "97070 Würzburg"
+      ],
+      "subject": "Havelquarz Intelligenz & Grund GmbH – Anteilserwerb durch Al Safa Horizon Technologies LLC, Dubai; Beurkundungsreife, Organvertretung, Vollmachtsvarianten und Gesellschafterliste",
+      "salutation": "Sehr geehrte Damen und Herren, sehr geehrte Kolleginnen und Kollegen,",
+      "sections": [
+        {
+          "heading": "1. Anlass der Anfrage und Stand meiner Befassung",
+          "paragraphs": [
+            "Ich bitte um eine gutachtliche Stellungnahme zu einer Angelegenheit, in der das Papier inzwischen eine stattliche Reise hinter sich hat, die Vertretungsfrage jedoch noch immer am Ausgangspunkt steht. Gegenstand ist der Erwerb bestehender Geschäftsanteile einer Berliner GmbH durch eine Gesellschaft aus Dubai. Die Urkunde ist bereits errichtet; die Frage nach ihrer ordnungsgemäßen Vorbereitung und die Frage nach einem jetzt verantwortbaren weiteren Vollzug müssen deshalb mit gehöriger zeitlicher Disziplin behandelt werden.",
+            "Mein Kollege, Notar Dr. Joris Wendt in Berlin, hat den Anteilskauf am 14. Oktober 2026 unter UVZ 527/2026 beurkundet. Die Beteiligten und Herr Kollege Wendt haben mich um fachkollegiale Mitprüfung gebeten und der Befassung des Instituts mit den nachstehend wiedergegebenen Unterlagen zugestimmt. Ich bin weder zum Amtsnachfolger noch zum Notarvertreter bestellt. Die Verantwortung für die bereits errichtete Urkunde und die von Herrn Kollegen Wendt eingereichte Liste wird durch meine Befassung nicht auf mich verlagert. Für eine möglicherweise erforderliche weitere Beurkundung ist noch keine abschließende Gestaltung vereinbart.",
+            "Ich möchte zunächst rekonstruieren, welche Nachweise vor dem damaligen Termin benötigt wurden. Sodann erbitte ich eine tragfähige Grundlage für die heute möglichen Schritte. Dabei sind weder eine zusätzliche Vollmacht noch eine Genehmigung bereits erteilt worden. Die unter den Abschnitten 8 bis 10 geschilderten Gestaltungen sind ausdrücklich Alternativen für das weitere Vorgehen. Ich bitte nicht darum, sie nachträglich als tatsächlichen Geschehensablauf zu behandeln."
+          ]
+        },
+        {
+          "heading": "2. Das deutsche Geschäft und die Beteiligten",
+          "paragraphs": [
+            "Die Havelquarz Intelligenz & Grund GmbH hat ihren Sitz in Berlin und ist im Handelsregister des Amtsgerichts Charlottenburg unter HRB 294518 B eingetragen. Ihr Stammkapital beträgt 50.000 EUR, eingeteilt in 100 Geschäftsanteile mit einem Nennbetrag von jeweils 500 EUR. Nach der zuletzt aufgenommenen Liste vom 15. Mai 2025 hielt Mara Winter die Anteile 1 bis 60, Ole Henning die Anteile 61 bis 100. Geschäftsführerin ist Liv Brenner; ihre eigene Vertretungsbefugnis ist in diesem Vorgang nicht streitig.",
+            "Die GmbH entwickelt eine App für die Auswertung von Gebäudedaten und Wartungsprotokollen; Zugriffsereignisse werden in einer geschlossenen Blockchain dokumentiert. Sie betreibt keine Kryptowerte-Handelsplattform und nimmt keine Kundengelder entgegen. Daneben hält sie ein Büro- und Werkstattgebäude in Berlin-Spandau. Ein weiterer Grundstückserwerb wird erwogen. Dieser ist weder Gegenstand der vorliegenden Urkunde noch Grundlage einer Vollmacht zugunsten des ausländischen Erwerbervertreters. Die Bank verlangt allerdings eine nachvollziehbare Beteiligungslage, bevor sie über die Grundstücksfinanzierung entscheidet.",
+            "Die Erwerberin heißt Al Safa Horizon Technologies LLC. Sie ist nach den gelieferten Unterlagen eine in Dubai ansässige Mainland Limited Liability Company mit Trade Licence 985274 und Geschäftsanschrift Office 508, Creek Business Court, Al Garhoud, Dubai. Ihr operativer Geschäftssitz liegt nach den Angaben der Administration ebenfalls dort. Eine Gründung im Dubai International Financial Centre oder in einer anderen Freizone ist nicht vorgetragen. Ich bitte deshalb, die Gesellschaft nicht stillschweigend nach einer DIFC- oder ADGM-Musterordnung zu behandeln. Gesellschafter der LLC sind Khalid Rashid mit 70 Prozent und Salma Nasser mit 30 Prozent.",
+            "Mara Winter verkaufte die Anteile 1 bis 25 für 600.000 EUR, Ole Henning die Anteile 61 bis 75 für 360.000 EUR. Der Gesamtpreis beträgt 960.000 EUR. Bei wirksamer Übertragung hält die LLC 40 Prozent, Frau Winter 35 Prozent und Herr Henning 25 Prozent des unveränderten Stammkapitals. Die Abtretungen stehen jeweils unter der aufschiebenden Bedingung vollständiger Kaufpreiszahlung. Eine Kapitalerhöhung, weitere Einlageverpflichtung oder Garantie für Bankverbindlichkeiten wurde nicht vereinbart. Auf Erwerberseite erschien und unterzeichnete ausschließlich Yusuf Rashid. Er wurde dadurch nicht zum Geschäftsführer der deutschen GmbH."
+          ]
+        },
+        {
+          "heading": "3. Die vor dem Termin bekannten Vertretungsunterlagen",
+          "paragraphs": [
+            "Der Satzungsauszug vom 14. März 2023 bezeichnet Yusuf Rashid und Maryam Al Noor als Manager. Für gewöhnliche Geschäfte innerhalb des genehmigten Budgets sind Einzelbefugnisse vorgesehen. Für unser Geschäft ist indessen folgende besondere Bestimmung enthalten: „Any purchase or disposal of shares in a company established outside the United Arab Emirates shall require joint execution by both managers and prior approval by the members.“ Nach dem unmittelbar folgenden Satz gilt dies unabhängig von der Höhe des Kaufpreises. Der Text unterscheidet somit zwischen Zustimmung der Gesellschafter und gemeinschaftlicher Abgabe der rechtsgeschäftlichen Erklärungen.",
+            "Der Auszug regelt ferner, ein Manager dürfe einen Bevollmächtigten für eine Handlung einsetzen, zu der er selbst befugt sei; die gemeinsame Zeichnung dürfe nicht durch ein bloßes Gesellschaftsschreiben umgangen werden. Änderungen der Manager und der aufgezeichneten Geschäftsführungsbestimmungen seien der zuständigen Stelle für die erforderlichen Registerverfahren vorzulegen. Die Trade Licence vom 30. September 2026 nennt demgegenüber im Kontaktfeld „Manager“ nur Yusuf Rashid. Sie gibt die Satzung nicht vollständig wieder und enthält keine ausdrückliche Regel über den Erwerb ausländischer Beteiligungen.",
+            "Am 6. Oktober 2026 beschlossen beide Gesellschafter der LLC einstimmig, den konkret bezeichneten Erwerb von 40 Prozent der Havelquarz-Anteile zu 960.000 EUR zu genehmigen. Zugleich sollte Herr Rashid alleiniger Manager werden und Frau Al Noor ausscheiden. Die Administration sollte die notarielle Änderung und die erforderlichen Registerschritte veranlassen. Herr Rashid wurde gebeten, am Berliner Termin teilzunehmen, sobald seine alleinige Abschlussbefugnis wirksam sei. Gerade eine Bestätigung, sämtliche Registerschritte seien schon am 6. Oktober abgeschlossen gewesen, enthält dieser Beschluss nicht.",
+            "Am 7. Oktober 2026 erklärten die beiden Gesellschafter vor einer notariellen Stelle in Dubai einen Nachtrag zum Memorandum of Association, Referenz DN-2026-1007-5638. Danach soll Yusuf Rashid alleiniger Manager sein; der am Vortag gebilligte Berliner Erwerb wird in den beabsichtigten Umfang seiner Befugnisse einbezogen. Frau Al Noor soll mit Wirksamkeit der Änderung ausscheiden. Die Administration soll den Nachtrag der zuständigen Lizenz- und Registerstelle vorlegen. Auch dieser Text bescheinigt nicht, dass die Eintragung oder sonstige behördliche Behandlung bereits am 7. Oktober abgeschlossen war."
+          ]
+        },
+        {
+          "heading": "4. Die zeitliche Nahtstelle zwischen Änderung und Unterzeichnung",
+          "paragraphs": [
+            "Der später als einheitlicher Portal-Verlaufsbericht vorgelegte Vorgang DET-AM-2026-1008-4172 weist am 8. Oktober 2026, 11:24 GST, lediglich „received for processing“ aus. Am 13. Oktober, 15:06 GST, lautet der Status noch „under process“; eine Rückfrage zu den Identitätsdaten der ausscheidenden Managerin ist offen. Das Feld für den Abschluss ist leer. Am 20. Oktober, 12:42 GST, erscheint erstmals „completed“. Am 21. Oktober wurden die aktualisierten Firmendaten abgerufen, in denen nur noch Yusuf Rashid als Manager angezeigt wird. Keine dieser Statuszeilen enthält eine Rechtsauskunft zur Befugnis am 14. Oktober.",
+            "Beim Berliner Termin lagen die Septemberlizenz, der alte Satzungsauszug, der Gesellschafterbeschluss vom 6. Oktober, eine Kopie des Nachtrags vom 7. Oktober und der Eingangsbeleg vom 8. Oktober vor. Herr Rashid erklärte, die noch laufende Bearbeitung der geänderten Lizenz hindere seine alleinige Unterzeichnung nicht. Eine abschließende Stellungnahme örtlicher Rechtsberater hierzu lag nach dem Aktenvermerk von Herrn Kollegen Wendt nicht vor. Die Beteiligten wollten gleichwohl beurkunden. Die Niederschrift dokumentiert den Hinweis auf die Bedeutung wirksamer Vertretung und die Anforderung ergänzender Nachweise; eine zusätzliche vertragliche Bedingung „erst nach Registerabschluss oder Legalisation“ wurde nicht vereinbart.",
+            "Ich bitte ausdrücklich, die Stellung des Herrn Rashid zum 14. Oktober von seiner heutigen Stellung zu trennen. Die Ausstellung eines aktuellen Dokuments kann einen früheren Zustand belegen, muss es aber nicht. Umgekehrt ist der spätere Ausdruck eines früher wirksam gefassten Beschlusses nicht schon deshalb unbrauchbar, weil das Papier jung ist. Ich suche daher eine Prüfung der jeweiligen Rechtswirkung und ihres Beweises, keine Entscheidung allein nach dem auf einem Blatt sichtbaren Ausstellungsdatum."
+          ]
+        },
+        {
+          "heading": "5. Die Legalisationskette und ihr Bezugsdokument",
+          "paragraphs": [
+            "Am 23. Oktober 2026 wurde unter DCR-2026-1023-9914 die Übereinstimmung einer Kopie des Nachtrags vom 7. Oktober mit der zum Vergleich vorgelegten Urkunde bestätigt. Der Text dieser Kopiebescheinigung erklärt nicht eigenständig, dass die Registerbearbeitung schon am 7. Oktober beendet gewesen sei, und enthält keine gesonderte gutachtliche Aussage zur Vertretungsbefugnis am Berliner Vertragstag. Die Bescheinigung bezieht sich weder auf die Septemberlizenz noch auf eine neue Fassung des deutschen Anteilskaufvertrags.",
+            "Die Vorbeglaubigung durch das Ministry of Foreign Affairs vom 25. Oktober trägt die Referenz MOFA-2026-1025-674821. Als Gegenstand wird die vorstehende Kopiebescheinigung über den Nachtrag bezeichnet. Die deutsche Legalisation des Generalkonsulats Dubai vom 28. Oktober, RK-LEGA-2026-1028-417, nimmt auf eben diese vorbeglaubigte Bescheinigung Bezug. Nach dem in der Akte wiedergegebenen Text bestätigt sie im bezeichneten Beglaubigungsweg die Echtheit der Unterschrift und des Dienstsiegels beziehungsweise Stempels. Eine Erklärung zur materiellen Einzelvertretung am 14. Oktober enthält sie nicht. Die Kette ging am 29. Oktober elektronisch und am 2. November im Originalkurierumschlag beim Notariat ein.",
+            "Die amtlichen Hinweise der deutschen Vertretungen in den VAE beschreiben einen Legalisationsweg für geeignete emiratische öffentliche Urkunden nach Vorbeglaubigung. Diesen tatsächlichen Weg möchte ich weder durch ein vermeintlich universelles Apostille-Erfordernis ersetzen noch über seinen Gegenstand hinaus ausdehnen. Ich bitte um Prüfung, welche Stelle hier wessen Unterschrift bestätigt, welches Ursprungsdokument daran angebunden ist und welche offene gesellschaftsrechtliche Aussage dadurch gerade nicht belegt wird. Das staatliche Siegel soll seinen Dienst tun; ich möchte ihm lediglich kein zweites, unbestelltes Amt als gesellschaftsrechtlicher Gutachter zumuten."
+          ]
+        },
+        {
+          "heading": "6. Gesellschaftsstatut und Inhalt der Abschlussbefugnis",
+          "paragraphs": [
+            "Welches Recht bestimmt aus deutscher Sicht Existenz, Anerkennung und organschaftliche Vertretung dieser tatsächlich in Dubai ansässigen Mainland-LLC? Bitte legen Sie den kollisionsrechtlichen Ausgangspunkt und etwaige einschlägige staatsvertragliche Besonderheiten dar. Die deutsche Rechtswahl des Anteilskaufs soll nicht als Rechtswahl für die innere Organisation der Erwerberin gelesen werden. Die Gesellschaft soll auch nicht allein deshalb nach deutschem GmbH-Recht beurteilt werden, weil sie Anteile einer deutschen GmbH erwirbt.",
+            "Welche Bedeutung haben nach dem maßgeblichen Recht der einstimmige Beschluss vom 6. Oktober, der notarielle Satzungsnachtrag vom 7. Oktober, dessen Einreichung am 8. Oktober und der Abschluss des Verfahrens am 20. Oktober? Ist zu unterscheiden zwischen Wirksamkeit der Abberufung von Frau Al Noor, Bestellung des Herrn Rashid zum alleinigen Manager, Änderung einer Vertretungsregel und Publizität gegenüber Dritten? Welche dieser Fragen beantwortet die Trade Licence überhaupt? Ich bitte um die einschlägigen aktuellen Rechtsgrundlagen und, soweit verfügbar, aussagekräftige Rechtsprechung, nicht nur um eine Übersetzung des Verwaltungsstatus.",
+            "Falls die bisherige Gesamtzeichnung am 14. Oktober noch maßgeblich war: Handelte es sich um eine nach außen wirkende Vertretungsregel oder nur um eine interne Bindung, und welche Bedeutung hätte die in der deutschen Nebenakte bekannte Klausel? Falls sie durch den früheren Beschluss bereits verändert war: Auf welcher Grundlage konnte diese Veränderung zum maßgeblichen Zeitpunkt belegt werden? Bitte prüfen Sie gegebenenfalls einen Schutz des Geschäftsverkehrs oder zurechenbaren Rechtsschein anhand unserer konkreten Kenntnislage; die bloße Behauptung, Herr Rashid sei im Geschäftsleben stets der Ansprechpartner gewesen, soll nicht unbesehen zum Nachweis werden."
+          ]
+        },
+        {
+          "heading": "7. Welche Prüfung wäre vor der ersten Beurkundung geboten gewesen?",
+          "paragraphs": [
+            "Hätte Herr Kollege Wendt die vorhandenen Unterlagen vor dem 14. Oktober als ausreichende Grundlage dafür ansehen dürfen, Herrn Rashid im Vertretungseingang als zur alleinigen Abgabe der Erwerbserklärungen berechtigt zu behandeln? Oder hätte er zwischen einer nur behaupteten Befugnis, einem noch zu führenden Nachweis und einem ausdrücklich vollmachtlosen Auftreten unterscheiden müssen? Welche konkrete Nachforderung oder rechtliche Klärung wäre durch den Widerspruch zwischen Satzung, Lizenz und laufendem Änderungsantrag veranlasst gewesen?",
+            "Ich habe dabei § 12 BeurkG und § 21 BNotO im Blick. Eine Bescheinigung soll nur das wiedergeben, was die zugrunde liegende Einsicht tatsächlich trägt. Ob ein fremdes Register im konkreten Zusammenhang eine hinreichende und vergleichbare Aussage enthält, ist für mich eine offene Frage. Ebenso bitte ich, § 17 Abs. 3 BeurkG nicht zu einer allgemeinen Pflicht zur Belehrung über jeden Inhalt ausländischen Rechts auszudehnen, aber auch nicht als Freibrief zu verstehen, den konkret hervorgetretenen Vertretungswiderspruch unbeachtet zu lassen.",
+            "Wenn eine Beurkundung trotz offenem Nachweis zulässig und von den Beteiligten gewünscht gewesen sein sollte: Wie wären Vertretungseingang, Erklärung des Erschienenen, Hinweis und weiterer Vollzugsauftrag präzise voneinander abzugrenzen gewesen? Welche Rolle spielt es, ob die Befugnis tatsächlich bestand und nur ihr Nachweis fehlte oder ob die Vertretungsmacht selbst nicht bestand? Ich bitte um eine belastbare Unterscheidung zwischen zulässiger Dokumentation eines Risikos und einer Bescheinigung, für die dem Notar die notwendige Grundlage fehlte."
+          ]
+        },
+        {
+          "heading": "8. Künftiger Termin ohne Anreise des Managers",
+          "paragraphs": [
+            "Herr Rashid möchte für einen weiteren Termin nicht nochmals nach Berlin reisen. Nur als künftige Variante steht im Raum, einen Berliner Bevollmächtigten einzusetzen. Zunächst würde ein von Herrn Rashid allein unterschriebenes Schreiben auf dem Briefpapier der LLC übersandt, das den Erwerb genau der bezeichneten Havelquarz-Anteile und gegebenenfalls eine ergänzende Erklärung zum Vertrag vom 14. Oktober erlaubt. Wie wäre das Vollmachtsstatut zu bestimmen, und wie verhält es sich zum Statut der Organvertretung desjenigen, der diese Vollmacht namens der LLC erteilt? Im nicht unterzeichneten Vorschlag der Corporate Administration vom 6. November wird Nora Albers als Vertreterin für einen weiteren Termin benannt. Der Vorschlag erklärt ausdrücklich keine Genehmigung des bisherigen Vertrags und belegt nicht die Befugnis seiner noch zu bestimmenden Aussteller.",
+            "Ich bitte getrennt um Prüfung einer Vollmacht im unterschriebenen Papieroriginal, eines eingescannten Originals, eines bloßen Ausdrucks einer PDF-Datei und eines mit elektronischer Signatur versehenen Dokuments. Bei der elektronischen Variante wären Signaturart, Identität des Signierenden, Integrität, erforderliche Anerkennung sowie die vorlegbare elektronische Originaldatei gesondert festzustellen. Ein ausgedrucktes Signaturbild soll nicht als Originalunterschrift oder als geprüfte elektronische Signatur behandelt werden. Welche Form ist für die Vollmacht materiell erforderlich, und welche Form ist für den notariellen Nachweis praktisch und rechtlich hinreichend?",
+            "Für die deutsche Formfrage erbitte ich eine Einordnung von § 167 Abs. 2 BGB im Verhältnis zur Beurkundung des Anteilskaufs nach § 15 Abs. 3 und 4 GmbHG und etwaigen Ausnahmen. Der vorliegende Erwerb bestehender Anteile ist keine GmbH-Gründung; die besondere Gründungsvollmacht nach § 2 Abs. 2 GmbHG möchte ich deshalb nicht ohne Weiteres übertragen. Die Frage nach formfreier Erteilung soll andererseits nicht dazu führen, Herkunft, Inhalt und gesellschaftsrechtliche Erteilungsbefugnis zu überspringen.",
+            "Eine zweite Variante wäre die öffentliche Beglaubigung von Herrn Rashids Unterschrift vor einer Stelle in Dubai mit nachfolgender Vorbeglaubigung und Legalisation. Wessen Identität und welche Handlung müsste diese Bescheinigung ausweisen? Welche Unterlagen müsste ein ausländischer Notar selbst prüfen, wenn zusätzlich eine inhaltliche Aussage zur Befugnis gewünscht wird? Würde eine reine Unterschriftsbeglaubigung die noch offene Frage beantworten, ob Herr Rashid die Gesellschaft bei der Vollmachtserteilung allein verpflichten durfte? Mein Zweifel ist gerade, dass sich eine fehlende Organbefugnis nicht durch feierlichere Beglaubigung derselben Einzelunterschrift vervielfältigen lässt."
+          ]
+        },
+        {
+          "heading": "9. Gemeinsame Erteilung, Delegation und begrenzte Ermächtigung",
+          "paragraphs": [
+            "Als dritte Variante soll geprüft werden, ob Herr Rashid und Frau Al Noor gemeinsam eine auf den konkreten deutschen Vorgang begrenzte Vollmacht erteilen könnten. Frau Al Noor hat nach der jüngsten Nachricht lediglich Gesprächsbereitschaft signalisiert; eine gemeinsame Erklärung ist nicht abgegeben. Darf eine nach dem maßgeblichen Recht gemeinschaftlich auszuübende Organbefugnis durch gemeinsames Handeln auf einen Bevollmächtigten übertragen werden, und bestehen hierfür gesetzliche oder satzungsmäßige Schranken? Welche Wirkungen hätte es, wenn Frau Al Noor inzwischen wirksam ausgeschieden ist? Es soll nicht eine ehemalige Managerin vorsorglich mitunterzeichnen, ohne dass geklärt wäre, ob und in welcher Eigenschaft ihre Erklärung noch trägt.",
+            "Eine vierte Überlegung betrifft eine unmittelbar von beiden LLC-Gesellschaftern unterzeichnete Spezialvollmacht oder einen zusätzlichen Gesellschafterbeschluss. Können die Gesellschafter hier selbst rechtsgeschäftlich vertreten oder nur das zuständige Organ bestellen und intern ermächtigen? Reicht die Genehmigung des Erwerbs vom 6. Oktober bereits für eine solche Außenmacht, oder bedarf es eines eigenständigen Erteilungsakts durch das nach dem Gesellschaftsstatut zuständige Vertretungsorgan? Bitte differenzieren Sie Beschlusszuständigkeit, Geschäftsführungsbefugnis, Organvertretung und rechtsgeschäftliche Vollmacht.",
+            "Falls eine wirksame Vollmacht erreichbar ist, sollte sie Anteilspakete, Veräußerer, Gegenleistung und den Bezug auf UVZ 527/2026 ausdrücklich bezeichnen. Bitte klären Sie außerdem, ob Kauf, Abtretung, Annahme einer Abtretung, ergänzende Vertragsänderungen und die Erklärung einer Genehmigung unterschiedlich zu behandeln sind. Untervollmacht und eine Befreiung von Beschränkungen bei Mehrfachvertretung sollen nicht beiläufig in einer Generalklausel verschwinden. Ein und dieselbe Person soll hier nicht ohne gesonderte Prüfung Erwerberin und Verkäufer vertreten."
+          ]
+        },
+        {
+          "heading": "10. Einordnung des bestehenden Vertrags und möglicher Heilungsschritte",
+          "paragraphs": [
+            "Sollte Herr Rashid am 14. Oktober tatsächlich keine hinreichende Einzelbefugnis gehabt haben, bitte ich um Prüfung, nach welchen kollisionsrechtlich berufenen Regeln die bis heute offenen Wirkungen des Vertretungshandelns und eine spätere Genehmigung zu beurteilen sind. Soweit deutsches Vertretungsrecht zur Anwendung kommt, erscheinen insbesondere §§ 177, 182 BGB einschlägig. Dabei sind materielle Formfreiheit einer Zustimmung und ein für die notarielle Tätigkeit erforderlicher beweiskräftiger Nachweis auseinanderzuhalten. Ich bitte nicht um die pauschale Antwort, jede Genehmigung eines beurkundeten Geschäfts müsse selbst wieder beurkundet werden.",
+            "Wer müsste eine etwaige Genehmigung für die LLC abgeben, welchem Empfänger gegenüber und bezogen auf welche Erklärungen? Müsste die heutige Organbefugnis des Genehmigenden erneut nachgewiesen werden? Wäre eine vom nunmehr wirksam allein vertretungsberechtigten Herrn Rashid erklärte Genehmigung denkbar, oder stehen Besonderheiten des berufenen Rechts entgegen? Eine aus der bloßen Kaufpreiszahlung hergeleitete stillschweigende Genehmigung möchte ich ohne Untersuchung von Kenntnis, Zurechnung und Erklärungswert nicht als erledigte Tatsache behandeln.",
+            "Die Kaufpreise wurden am 16. Oktober vom EUR-Konto der LLC mit 600.000 EUR und 360.000 EUR abgebucht; beide Verkäufer haben den vollständigen vorbehaltlosen Eingang am selben Tag bestätigt. Der Ausgangssaldo betrug 1.350.000 EUR, der Endsaldo 390.000 EUR. Das belegt den Zahlungsablauf, beantwortet aber nicht ohne Weiteres, wer eine Genehmigung abgeben durfte oder ob die Abtretungsbedingungen bei zuvor fehlender Vertretung bereits eine wirksame Verfügung ausgelöst haben. Falls eine neue Beurkundung statt einer Genehmigung vorzugswürdig sein sollte, bitte ich um die maßgeblichen Gründe und die Auswirkungen auf den bisherigen Vertrag und die Listendaten."
+          ]
+        },
+        {
+          "heading": "11. Gesellschafterliste, gerichtlicher Prüfungsumfang und weiterer Vollzug",
+          "paragraphs": [
+            "Herr Kollege Wendt bescheinigte am 19. Oktober gemäß § 40 Abs. 2 GmbHG die Veränderungen und reichte die Liste elektronisch ein. Der Eingang wurde um 10:27 Uhr technisch bestätigt. Am 22. Oktober fragte das Registergericht nach dem zeitlichen Verhältnis von Satzungsänderung und alleiniger Unterzeichnung. Rechtsanwalt Dr. Niko Ahrens verwies am 27. Oktober auf die notarielle Mitwirkung und die bevorstehende Legalisation. Mit Beschluss vom 30. Oktober lehnte Rechtspfleger Armin Jay Wacker die Aufnahme ab; aus seiner Sicht war die Befugnis zum früheren Vertragstag nicht hinreichend erläutert.",
+            "Am 2. November erhob Herr Rechtsanwalt Ahrens für die deutsche GmbH eine als Erinnerung bezeichnete Eingabe mit ausdrücklichem hilfsweisem Beschwerdebegehren. Die Bekanntgabe des Beschlusses ist für denselben Tag angegeben. Das Gericht bestätigte am 5. November den Eingang, ließ die Verfahrensbehandlung offen und setzte für die Ergänzung den 16. November. Die Liste wurde bislang nicht aufgenommen. Gemeint ist die Aufnahme in den Registerordner, nicht eine konstitutive Eintragung des Gesellschafterwechsels oder die Bestellung eines neuen deutschen Geschäftsführers.",
+            "Wie sind die eigenen Voraussetzungen der notariellen Bescheinigung von der begrenzten Prüfung des Registergerichts zu trennen? Ich bitte um Anwendung des Maßstabs aus BGH, Beschluss vom 18. März 2025 – II ZB 11/24, BGHZ 243, 237, Rn. 33 bis 38, auf die hier bekannten Unterlagen: Liegt eine ohne weitere Ermittlungen sichere, offensichtlich zweifelsfreie materielle Unrichtigkeit vor oder eine noch ungeklärte Nachweis- und Rechtsfrage? Welche Folgen hätte eine erfolgreiche Beschwerde für die eigenständige Prüfung des Notars? Eine gerichtliche Aufnahme soll nicht nachträglich zum Ersatz für die zuvor unaufgeklärte Vertretung werden.",
+            "Welche verfahrensrechtliche Behandlung verdient die bereits eingelegte Eingabe, und wer ist mit welchem eigenen Rechtsschutzinteresse beschwerdeberechtigt? Bitte unterscheiden Sie die Beschwerde nach §§ 58 ff. FamFG von der subsidiären Erinnerung nach § 11 Abs. 2 RPflG. Anforderungen des Grundbuchverfahrens nach § 29 GBO sollen nicht ohne Begründung auf dieses Listenverfahren übertragen werden. Falls ergänzende Erklärungen den materiellen Zustand erst später ändern, bitte ich um Hinweise zur richtigen Liste, zum erforderlichen Veränderungsvermerk und zum sachgerechten Umgang mit der ursprünglichen Bescheinigung. Ein bloßer Austausch des Datums wäre für mich keine Klärung."
+          ]
+        },
+        {
+          "heading": "12. Erbetenes Ergebnis und weitere Beschaffung",
+          "paragraphs": [
+            "Ich wäre für eine nach Ausgangslage und Varianten getrennte Stellungnahme dankbar: zuerst die Beurkundungsreife vor dem 14. Oktober, sodann der heute belegbare Vertretungsstand, anschließend die möglichen Wege persönlicher Mitwirkung, Vollmacht oder Genehmigung und schließlich die daraus folgenden Schritte im Listenverfahren. Bei jeder noch benötigten Unterlage bitte ich um Angabe, welche konkrete rechtserhebliche Tatsache sie für welchen Zeitpunkt belegen soll, wer sie ausstellen oder erklären kann und welche Nachweisform erforderlich ist.",
+            "Bitte benennen Sie gesondert diejenigen Aussagen, die ohne eine Stellungnahme eines mit dem Recht einer Dubai-Mainland-LLC vertrauten Rechtskundigen nicht tragfähig getroffen werden können. Eine gutachtliche Auskunft zum Gesellschaftsrecht, eine Registerbescheinigung und eine Echtheitsbestätigung mögen im selben Umschlag reisen; sie sind deshalb noch nicht dieselbe Urkunde. Falls weitere tatsächliche Angaben benötigt werden, werde ich sie gezielt beschaffen lassen. Eine fehlende Antwort soll nicht durch eine Vermutung ergänzt werden, die später nur mit Aufwand aus einer öffentlichen Urkunde zu entfernen wäre.",
+            "Das Gericht erwartet die Ergänzung bis zum 16. November 2026. Ich bitte um Mitteilung, ob eine Bearbeitung in dieser Zeit möglich ist; eine Fristverlängerung ist weder bewilligt noch unterstellt. Bis zur Klärung ist kein Auftrag erteilt, für die LLC eine Genehmigung zu versenden oder die alte Liste durch eine neu datierte Fassung zu ersetzen. Für Ihre wissenschaftliche Unterstützung dieser, wie mir scheint, durchaus lehrreichen Begegnung zwischen Gesellschaftsverfassung und Beglaubigungskette danke ich Ihnen verbindlich."
+          ]
+        }
+      ],
+      "closing": [
+        "Mit vorzüglicher kollegialer Hochachtung",
+        "Dr. Lennox Hieronymus von Tannried-Eichenau",
+        "Notar"
+      ],
+      "attachments": [
+        "04_Register_Havelquarz.pdf – deutscher Registerstand und Ausgangsstruktur.",
+        "06_Trade_Licence_September.pdf und 07_MOA_2023_Auszug.docx – Lizenz und bisherige gemeinschaftliche Zeichnung.",
+        "08_Members_Resolution_06102026.pdf und 09_Notarieller_Nachtrag_MOA.pdf – Gesellschafterbeschluss und Nachtrag.",
+        "10_DET_Bearbeitung_Chronologie.pdf und 25_Firmenansicht_21102026.png – Bearbeitungsverlauf und aktueller Abruf.",
+        "11_Notarial_Certified_Copy.pdf, 12_MOFA_Attestation.pdf und 13_Deutsche_Legalisation.pdf – Kopiebescheinigung und Beglaubigungskette.",
+        "14_SPA_Havelquarz_Beurkundet.docx – vollständige Urkunde vom 14. Oktober 2026.",
+        "15_Zahlungsbelege_Havelquarz.pdf und 27_Mandant_Bankdruck.eml – Kontobewegungen und weitergeleitete Eingangserklärungen.",
+        "16_Liste_Havelquarz.pdf und 17_Einreichung_Havelquarz.pdf – bescheinigte Liste und Übermittlung.",
+        "18_Gericht_Frage_Zeitpunkt.pdf, 19_RA_Antwort_Legalisation.docx und 21_Nichtaufnahme_Beschluss.pdf – Anfrage, Stellungnahme und Ablehnung.",
+        "22_Erinnerung_Beschwerde_Havelquarz.docx und 23_Gericht_Bearbeitungsnachricht.pdf – Rechtsbehelf und ergänzende Frist.",
+        "24_Dubai_Auskunft_noch_offen.eml und 26_Notar_Aktenvermerk_Dubai.docx – Auskunftsstand und eigener Vollzugsvermerk.",
+        "30_Rashid_erneuter_Termin_Vollmacht.eml bis 34_Kollegiale_Vorbesprechung_Dubai.pdf: Nachlieferungen vom 6. November zu Reiseverzicht, Originalbefund, nicht ausgeführter Spezialvollmacht und fachkollegialer Mitprüfung."
+      ],
+      "sources": [
+        {
+          "label": "Deutsches Notarinstitut: Kontaktanschrift",
+          "url": "https://www.dnoti.de/kontakt/"
+        },
+        {
+          "label": "Deutsche Vertretungen in den VAE: Internationaler Urkundenverkehr",
+          "url": "https://uae.diplo.de/ae-de/service/seite-legalisation/1374640"
+        },
+        {
+          "label": "Beurkundungsgesetz § 12 – Nachweise für die Vertretungsberechtigung",
+          "url": "https://www.gesetze-im-internet.de/beurkg/__12.html"
+        },
+        {
+          "label": "Beurkundungsgesetz § 17 Absatz 3 – ausländisches Recht",
+          "url": "https://www.gesetze-im-internet.de/beurkg/__17.html"
+        },
+        {
+          "label": "Bundesnotarordnung § 21 – Bescheinigungen",
+          "url": "https://www.gesetze-im-internet.de/bnoto/__21.html"
+        },
+        {
+          "label": "BGB § 167 – Erteilung der Vollmacht",
+          "url": "https://www.gesetze-im-internet.de/bgb/__167.html"
+        },
+        {
+          "label": "BGB §§ 177 und 182 – Vertreter ohne Vertretungsmacht und Zustimmung",
+          "url": "https://www.gesetze-im-internet.de/bgb/__177.html"
+        },
+        {
+          "label": "BGB § 182 – Zustimmung und deren Form",
+          "url": "https://www.gesetze-im-internet.de/bgb/__182.html"
+        },
+        {
+          "label": "GmbHG § 40 – Liste der Gesellschafter",
+          "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html"
+        },
+        {
+          "label": "BGH, Beschluss vom 18.03.2025 – II ZB 11/24, BGHZ 243, 237, Rn. 33–38; Originalbeschluss bei DNotI",
+          "url": "https://www.dnoti.de/entscheidungen/details/?cHash=11bd9e8aa72a681096a65cf8a374e3ea&tx_dnotionlineplusapi_decisions%5Bnodeid%5D=6619e2ec-c0b4-41e8-b7cc-80fdbec33dbf"
+        },
+        {
+          "label": "FamFG § 58 – Statthaftigkeit der Beschwerde",
+          "url": "https://www.gesetze-im-internet.de/famfg/__58.html"
+        },
+        {
+          "label": "RPflG § 11 – Rechtsbehelfe",
+          "url": "https://www.gesetze-im-internet.de/rpflg_1969/__11.html"
+        }
+      ],
+      "case_slug": "notariat-berlin-vae-vertretungsnachweis",
+      "filename": "29_DNotI_Anfrage_Dubai.pdf"
+    }
+  }
+}

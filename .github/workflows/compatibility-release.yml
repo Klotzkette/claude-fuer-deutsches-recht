@@ -33,6 +33,10 @@ on:
       - 'e-rechnung-werkstatt/**'
       - 'notariat-alltag/**'
       - 'scripts/test-notariatswerkstatt.py'
+      - 'scripts/test-notariat-dnoti-anfragen.py'
+      - 'scripts/notariat_dnoti_satz.py'
+      - 'scripts/data/notariat-dnoti-anfragen.json'
+      - 'testakten/notariat-berlin-*/**'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
       - '**/*-hauptproblem.md'
@@ -108,6 +112,7 @@ jobs:
           python3 scripts/test-ustva-ausgabe.py
           python3 scripts/test-e-rechnung-werkstatt.py
           python3 scripts/test-notariatswerkstatt.py
+          python3 scripts/test-notariat-dnoti-anfragen.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

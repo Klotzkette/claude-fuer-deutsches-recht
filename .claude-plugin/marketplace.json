@@ -2061,7 +2061,7 @@
       "name": "notariat-alltag",
       "source": "./notariat-alltag",
       "description": "Notariatswerkstatt fuer Mitarbeiter: Kundenordner, Bautraegerkauf, Grundschuld, Beglaubigung, GmbH-Gruendung, Kapitalerhoehung, Geschaeftsfuehrerwechsel und Anteilsgeschaefte bis zur Vorlage an den Notar.",
-      "version": "445.35.7",
+      "version": "445.35.8",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

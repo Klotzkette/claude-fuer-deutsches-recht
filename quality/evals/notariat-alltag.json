@@ -795,7 +795,13 @@
         "testakten/notariat-berlin-mumbai-gesellschafterliste/27_Umlaufakte_09_Oktober.eml",
         "testakten/notariat-berlin-mumbai-gesellschafterliste/28_Ergaenzender_Beschlussauszug.pdf",
         "testakten/notariat-berlin-mumbai-gesellschafterliste/29_Bestellungsbeschluss_2024.pdf",
-        "testakten/notariat-berlin-mumbai-gesellschafterliste/30_Consent_Director_2024.pdf"
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/30_Consent_Director_2024.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/31_DNotI_Anfrage_Mumbai.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/32_Deshmukh_kein_zweiter_Berlinflug.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/33_Befund_Kopien_und_Originale.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/34_Rao_Vollmachtsweg_noch_offen.eml",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/35_Spezialvollmacht_Arbeitsstand_unterzeichnet_nein.pdf",
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/36_Kollegiale_Vorbesprechung_Mumbai.pdf"
       ],
       "deliverables": [
         "ergebnis.md"
@@ -877,7 +883,13 @@
         "testakten/notariat-berlin-vae-vertretungsnachweis/25_Firmenansicht_21102026.png",
         "testakten/notariat-berlin-vae-vertretungsnachweis/26_Notar_Aktenvermerk_Dubai.docx",
         "testakten/notariat-berlin-vae-vertretungsnachweis/27_Mandant_Bankdruck.eml",
-        "testakten/notariat-berlin-vae-vertretungsnachweis/28_Dokumentenweg_Vorbereitung.eml"
+        "testakten/notariat-berlin-vae-vertretungsnachweis/28_Dokumentenweg_Vorbereitung.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/29_DNotI_Anfrage_Dubai.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/30_Rashid_erneuter_Termin_Vollmacht.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/31_Originalbefund_Legalisationskette.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/32_Farouqi_Vollmachtsentwurf_ohne_Ausfuehrung.eml",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/33_Special_Authority_Arbeitsstand.pdf",
+        "testakten/notariat-berlin-vae-vertretungsnachweis/34_Kollegiale_Vorbesprechung_Dubai.pdf"
       ],
       "deliverables": [
         "ergebnis.md"
@@ -921,6 +933,116 @@
         {
           "id": "C06",
           "text": "Liefert vollständige gezielte Nachforderung, ergänzenden Gerichtsschriftsatz und verständliche Nachricht zum Bank- und Listenstand mit Aktenfundstellen. Unterscheidet Käuferbelastung von Verkäufergutschrift, bezieht die weitergeleiteten Zahlungseingangsbestätigungen ein und fingiert keine fehlende Ratifikation durch Al Noor. Keine neue Urkunde allein zum Datumswechsel, kein unautorisierter externer Versand und keine erfundenen Quellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auslandsurkunde-apostille-vollmacht"
+    },
+    {
+      "id": "dnoti-mumbai-anfrage-allein-pruefen",
+      "request": "Prüfen Sie ausschließlich die beigefügte notarielle Anfrage. Erstellen Sie einen ausformulierten fachlichen Prüfvermerk mit Sachverhaltsabgleich, geltendem Kollisions- und Gesellschaftsrecht, offenen Nachweisen sowie belastbaren nächsten Schritten. Prüfen Sie die gestellten Varianten, ohne eine bereits erteilte Vollmacht oder Genehmigung zu unterstellen. Versenden Sie nichts.",
+      "input_files": [
+        "testakten/notariat-berlin-mumbai-gesellschafterliste/31_DNotI_Anfrage_Mumbai.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rekonstruiert anhand dieses einen PDFs Gesellschaften, Rollen, Beteiligungsquote, Kaufpreis und maßgebliche Zeitpunkte ohne weitere Dateien zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die bereits erfolgte Beurkundung und den offenen Listenweg von der rückblickenden Beurkundungsprüfung sowie künftig erwogenen Erklärungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Organbestellung, konkrete Abschlussbefugnis und Vollmachtserteilungsbefugnis getrennt; eine beglaubigte Unterschrift ersetzt keine fehlende Rechtsmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Unterscheidet Papieroriginal, Scan, Ausdruck, elektronische Signatur, Beglaubigung und verwendbaren Nachweis und berücksichtigt § 167 Absatz 2 BGB sowie § 17 Absatz 3 BeurkG differenziert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Ermittelt das einschlägige Recht und den tatsächlichen amtlichen Länderstand anhand verifizierter Primärquellen; keine erfundenen Rechtsquellen, Registerabrufe oder ausländischen Rechtsfolgen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Liefert vollständige Sätze, konkrete Nachforderungen und begründete Handlungsoptionen; keine erfundene Antwort oder Freigabe des Deutschen Notarinstituts.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ],
+      "target_skill": "auslandsurkunde-apostille-vollmacht"
+    },
+    {
+      "id": "dnoti-dubai-anfrage-allein-pruefen",
+      "request": "Prüfen Sie ausschließlich die beigefügte notarielle Anfrage. Erstellen Sie einen ausformulierten fachlichen Prüfvermerk mit Sachverhaltsabgleich, geltendem Kollisions- und Gesellschaftsrecht, offenen Nachweisen sowie belastbaren nächsten Schritten. Prüfen Sie die gestellten Varianten, ohne eine bereits erteilte Vollmacht oder Genehmigung zu unterstellen. Versenden Sie nichts.",
+      "input_files": [
+        "testakten/notariat-berlin-vae-vertretungsnachweis/29_DNotI_Anfrage_Dubai.pdf"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rekonstruiert anhand dieses einen PDFs Gesellschaften, Rollen, Beteiligungsquote, Kaufpreis und maßgebliche Zeitpunkte ohne weitere Dateien zu behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die bereits erfolgte Beurkundung und den offenen Listenweg von der rückblickenden Beurkundungsprüfung sowie künftig erwogenen Erklärungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Organbestellung, konkrete Abschlussbefugnis und Vollmachtserteilungsbefugnis getrennt; eine beglaubigte Unterschrift ersetzt keine fehlende Rechtsmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Unterscheidet Papieroriginal, Scan, Ausdruck, elektronische Signatur, Beglaubigung und verwendbaren Nachweis und berücksichtigt § 167 Absatz 2 BGB sowie § 17 Absatz 3 BeurkG differenziert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Ermittelt das einschlägige Recht und den tatsächlichen amtlichen Länderstand anhand verifizierter Primärquellen; keine erfundenen Rechtsquellen, Registerabrufe oder ausländischen Rechtsfolgen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C06",
+          "text": "Liefert vollständige Sätze, konkrete Nachforderungen und begründete Handlungsoptionen; keine erfundene Antwort oder Freigabe des Deutschen Notarinstituts.",
           "deliverables": [
             "ergebnis.md"
           ]
@@ -1289,5 +1411,10 @@
       "status": "prepared_not_executed",
       "description": "Ergebnisprüfaufträge mit nativen synthetischen Fallunterlagen vorbereitet. Kein Modelllauf, keine Erfolgsauswertung und keine Musterlösung in der Testakte."
     }
+  },
+  "dnoti_case_extension_2026_11_06": {
+    "method": "desk_review",
+    "status": "prepared_not_executed",
+    "scope": "Zwei ausführliche Anfragen als selbständige Ein-Datei-Prüfaufträge; die zehn ergänzenden Aktenstücke wurden auf Chronologie und Rollen abgeglichen. Keine Live-Modellausführung."
   }
 }

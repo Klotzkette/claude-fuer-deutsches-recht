@@ -6,7 +6,7 @@
       "subtitle": "Berliner GmbH, Investor aus Mumbai und die zurückgewiesene Gesellschafterliste",
       "date": "06.11.2026",
       "office": "Notarin Dr. Fenja Linden | Berlin",
-      "task": "Bearbeiten Sie aus Sicht des beurkundenden Notariats und getrennt davon der beteiligten Rechtsanwältin den offenen Vollzug. Prüfen Sie den zeitbezogenen Nachweis von Organbestellung und konkreter Abschlussbefugnis des Investors aus Mumbai, die Bedeutung der vorgelegten Apostille, den Umfang der Prüfung der Gesellschafterliste und den bereits eingelegten Rechtsbehelf. Bereiten Sie eine beleggestützte Nachforderung, den nächsten gerichtlichen Schriftsatz und eine verständliche Nachricht an die Beteiligten vor. Eine abschließende Entscheidung und eine Musterlösung sind nicht enthalten.",
+      "task": "Bearbeiten Sie aus Sicht des beurkundenden Notariats und getrennt davon der beteiligten Rechtsanwältin den offenen Vollzug. Prüfen Sie den zeitbezogenen Nachweis von Organbestellung und konkreter Abschlussbefugnis des Investors aus Mumbai, die Bedeutung der vorgelegten Apostille, den Umfang der Prüfung der Gesellschafterliste und den bereits eingelegten Rechtsbehelf. Bereiten Sie eine beleggestützte Nachforderung, den nächsten gerichtlichen Schriftsatz und eine verständliche Nachricht an die Beteiligten vor. Eine abschließende Entscheidung und eine Musterlösung sind nicht enthalten. Die ausführliche Anfrage an das Deutsche Notarinstitut ist zusätzlich als eigenständig lesbares PDF enthalten. Sie lässt sich ohne die übrige Akte als Prüfauftrag verwenden; die ergänzenden Vollmachtsentwürfe sind nicht unterzeichnet und geben keine Lösung vor.",
       "docs": [
         {
           "n": 1,
@@ -434,6 +434,84 @@
           "to": "Konkan Meridian Analytics Private Limited",
           "profile": "indian",
           "text": "1 Consent\n\nI, Arjun Deshmukh, Director Identification Number 09481627, consent to act as a director of Konkan Meridian Analytics Private Limited if appointed by the competent corporate organ. I confirm that the particulars supplied by me for the proposed appointment are accurate to the best of my knowledge and that I will provide the declarations and information required for the appointment and its filing.\n\nI understand that this consent is a declaration of willingness to accept the proposed office. It is not itself the decision appointing me. I will comply with the duties attaching to the office under the applicable law and the constitutional documents of the Company.\n\nSigned at Mumbai on 10 June 2024.\n\nArjun Deshmukh\n\n2 Deutsche Arbeitsübersetzung\n\nHerr Deshmukh erklärt seine Zustimmung zur Übernahme des Amts als Director für den Fall einer Bestellung durch das zuständige Gesellschaftsorgan. Die Zustimmung ist keine eigene Bestellungsentscheidung. Sie enthält keine Ermächtigung zum Abschluss eines erst später geplanten Anteilskaufvertrags in Deutschland.\n\n3 Ablageangabe\n\nDie Gesellschaft hat die Zustimmung zusammen mit dem Bestellungsbeschluss vom 18. Juni 2024 für die Anmeldung aufbewahrt. Die an die deutschen Berater am 23. September 2026 übermittelte Kopie stammt aus dieser Ablage."
+        },
+        {
+          "n": 31,
+          "stem": "DNotI_Anfrage_Mumbai",
+          "kind": "pdf",
+          "title": "Fachanfrage: Konkan Meridian / Spreekern",
+          "author": "Notar Dr. Lennox Hieronymus von Tannried-Eichenau",
+          "date": "06.11.2026",
+          "to": "Deutsches Notarinstitut (DNotI) | Gerberstraße 19 | 97070 Würzburg",
+          "profile": "notary",
+          "text": "",
+          "renderer": "dnoti",
+          "request_key": "mumbai"
+        },
+        {
+          "n": 32,
+          "stem": "Deshmukh_kein_zweiter_Berlinflug",
+          "kind": "eml",
+          "title": "Further signing in Berlin / representation instead of a second flight",
+          "author": "Arjun Deshmukh",
+          "date": "2026-11-06T08:42:00+01:00",
+          "to": "Dr. Fenja Linden",
+          "text": "Dear Dr Linden,\n\nI do not wish to fly to Berlin again next week. I attended the appointment on 12 October and our company has paid EUR 840,000. I understand that you are now asking a question about authority for that specific agreement, rather than asking me to sign the same pages once more. Please tell us whether the proposed next step is a new agreement, a confirmation of an earlier act, or only the production of evidence.\n\nMeera is in Mumbai until 18 November. She would be prepared to discuss a specific power of attorney, but has not signed one. The German contact we could appoint is Mira Rosenfeld, who works with our European customers. She was not a party to the original transaction and was not at the notary's office on 12 October. I can sign a company letter today. I cannot promise that a letter bearing only my signature resolves the Board's question.\n\nOur office can print a document, sign it in ink and send a scan within a day. A courier original would take longer. The notary who certified my signature in October can check another signature, but he has not reviewed the complete Board minute book. Please do not describe an unsigned PDF from our secretary as an executed power. We also need to know whether any intended confirmation must be addressed to the sellers or to the notary.\n\nWe have not issued any new authority, and no payment has been requested a second time. I would like our legal advisers to settle the wording before anybody signs. Please keep the questions about the existing transaction distinct from the appointment we might arrange later.\n\nKind regards,\nArjun Deshmukh",
+          "profile": "indian",
+          "from_email": "Arjun Deshmukh <arjun.deshmukh@konkan-meridian.example>",
+          "to_email": "Dr. Fenja Linden <kanzlei@linden-notariat.example>"
+        },
+        {
+          "n": 33,
+          "stem": "Befund_Kopien_und_Originale",
+          "kind": "pdf",
+          "title": "Übernahmebefund zur fachkollegialen Prüfkopie",
+          "author": "Notarin Dr. Fenja Linden | Nebenakte UVZ 418/2026",
+          "date": "06.11.2026",
+          "to": "Notar Dr. Lennox Hieronymus von Tannried-Eichenau",
+          "text": "1 Gegenstand der Übernahme\n\nFür die mit Zustimmung der Beteiligten erbetene fachkollegiale Mitprüfung wurden Herrn Kollegen Dr. von Tannried-Eichenau am 6. November 2026 Kopien der vorhandenen Unterlagen bereitgestellt. Dieser Befund beschreibt ausschließlich die ihm übergebene Prüfkopie. Er trifft keine Aussage darüber, welche Originale sich möglicherweise bei der indischen Gesellschaft oder bei einem dortigen Berater befinden.\n\n2 Register- und Bestellungsunterlagen\n\nÜbergeben wurden die PDF-Wiedergabe des Gründungsnachweises, der Bestellungsbeschluss vom 18. Juni 2024, die Zustimmung von Herrn Deshmukh sowie der DIR-12-Filing-Receipt vom 24. Juni 2024. Die MCA-Ansicht trägt den Sicherungsstand 23. September 2026. Die Ansicht ist keine neu abgerufene Auskunft zum 12. Oktober oder zum heutigen Tag. In der Kopiensendung befindet sich kein vom Kollegen selbst überprüfter elektronischer Registerabruf und keine Bescheinigung über dessen Einsichtnahme.\n\n3 Beschlüsse und Zertifikat\n\nDer Beschluss vom 1. September liegt mit der Grenze von 500.000 EUR für die Einzelunterzeichnung vor. Zum Auszug vom 9. Oktober liegen jetzt die E-Mails der drei Directors vor. Ein zusätzliches Sitzungsprotokoll, eine nachfolgende Bestätigung von Herrn Shah oder ein Original des vollständigen Beschlussbuchs wurde dem Kollegen nicht übergeben. Das Zertifikat vom 5. Oktober bestätigt eine Unterschrift und verweist auf die damals benannten Unterlagen. Es kann seinem Datum nach keine eigene Prüfung eines späteren Beschlussverfahrens dokumentieren.\n\n4 Apostilleblatt und Seitenverbindung\n\nIn der Prüfkopie befindet sich das bereits in der Akte abgelegte Apostille-Anlagenblatt mit Bezug auf das Zertifikat vom 5. Oktober. Eine nachträgliche konsularische Legalisation oder ein abgeschlossener Bericht einer deutschen Auslandsvertretung ist nicht Teil der Sendung. Die vorhandene Aktenfassung enthält keine durch Herrn Kollegen selbst vorgenommene Online-Verifikation eines Apostillenregisters. Der Befund unterscheidet deshalb die übertragene Angabe vom selbst überprüften Ursprung.\n\n5 Noch nicht vorliegende Vollmacht\n\nDie angekündigte Spezialvollmacht liegt nur als nicht unterzeichneter Textvorschlag vor. Es wurde weder eine Vollmachtsurschrift noch eine beglaubigte Abschrift noch eine elektronisch beglaubigte Vollmacht übergeben. Ein auf einem Ausdruck abgebildeter Signaturzug würde als solcher nicht in der Eingangsliste als Originalunterschrift vermerkt. Bei einem späteren Eingang sollen Dokument, Unterzeichner, Ausfertigungs- oder Abschriftsart und alle verbundenen Seiten erneut erfasst werden.\n\nAlva Klee, Notariatsmitarbeiterin\nGesehen: Dr. Fenja Linden, Notarin",
+          "profile": "notary",
+          "from_email": "",
+          "to_email": ""
+        },
+        {
+          "n": 34,
+          "stem": "Rao_Vollmachtsweg_noch_offen",
+          "kind": "eml",
+          "title": "Specific power draft / no execution and no new Board decision",
+          "author": "Kavita Rao",
+          "date": "2026-11-06T10:16:00+01:00",
+          "to": "Notariat Linden und Rechtsanwältin Seidel",
+          "text": "Dear colleagues,\n\nThe attached-file description in our previous message was too broad: the text now in your file is a proposal prepared by the company office. There is no executed power of attorney. Arjun and Meera are the two persons proposed as signatories; whether they can issue the intended authority together is itself a matter for our advisers. I have not certified that their signatures would bind the company for every purpose.\n\nThe draft names Mira Rosenfeld as the proposed representative for a further German appointment. It is limited to the Spreekern shares and a total price of EUR 840,000. We would prefer not to include a general authority to buy property, to guarantee the German company's debts or to act as its managing director. Please identify separately any confirmation of the agreement already signed on 12 October. We have not inserted a sentence declaring that every prior act is approved.\n\nThe office can arrange a wet-ink signature before a local notary and send a scanned copy first. We cannot undertake that this produces the proof required in Germany. The person authenticating a signature should be told exactly what is to be certified. A cover letter from the company secretary should not be substituted for an examination of the authority of the proposed signatories.\n\nNikhil has not withdrawn his request for a meeting. No subsequent Board meeting and no ratification resolution are recorded in the material I have supplied today. I have asked counsel to advise on the proper decision-making route and will send a definite answer when one is available. An invitation for a future meeting would not be a minute of an already held meeting.\n\nRegards,\nKavita Rao",
+          "profile": "indian",
+          "from_email": "Kavita Rao <kavita.rao@konkan-meridian.example>",
+          "to_email": "Dr. Fenja Linden <kanzlei@linden-notariat.example>, Dr. Ada Seidel <ada.seidel@seidel-recht.example>"
+        },
+        {
+          "n": 35,
+          "stem": "Spezialvollmacht_Arbeitsstand_unterzeichnet_nein",
+          "kind": "pdf",
+          "title": "Specific power of attorney – proposed text, not executed",
+          "author": "Konkan Meridian Analytics Private Limited | Company Secretariat",
+          "date": "06.11.2026",
+          "to": "Notariat Linden | Prüfung des Wortlauts",
+          "text": "1 Status and proposed signatories\n\nThis is the proposed wording prepared by the company office on 6 November 2026. It has not been executed. Konkan Meridian Analytics Private Limited, Mumbai, CIN U72900MH2018PTC318642, is the proposed principal. Arjun Deshmukh and Meera Iyer are named as proposed signatories for the company. Their ability to issue this power for the company remains to be established before execution. This text is not a certificate of that ability.\n\n2 Proposed representative and transaction\n\nThe company proposes to appoint Mira Rosenfeld, business contact for its European projects, resident at Finkenstraße 8, 13125 Berlin, to represent it at a further German notarial appointment concerning the acquisition of the shares numbered 1 to 20,000 and 60,001 to 75,000 in Spreekern KI & Immobilien GmbH. The aggregate agreed price is EUR 840,000. The proposed representative is to act only within the wording approved for that appointment.\n\n3 Scope to be settled\n\nThe proposed authority would permit the representative to make and receive the declarations expressly identified in a final text approved by the company. It would not authorise a purchase of real property, a guarantee for the German company's debts, a contribution of new capital or an appointment to the management of the German company. It would not permit substitution. No exemption from a prohibition of self-dealing is proposed by this text.\n\n4 Earlier agreement\n\nThis draft does not itself ratify the share purchase and transfer agreement signed in Berlin on 12 October 2026. Whether a separate declaration concerning that agreement is intended, who may issue it for the company and to whom it is to be delivered must be determined before any final wording is signed. The agreed purchase price has already been paid; this draft contains no instruction to pay it again.\n\n5 Execution status\n\nNo signature, signature authentication, apostille, consular certification or original-delivery confirmation is attached. The text ends here as the company office's proposal. It is not an executed power of attorney.\n\nKavita Rao, Company Secretariat",
+          "profile": "indian",
+          "from_email": "",
+          "to_email": ""
+        },
+        {
+          "n": 36,
+          "stem": "Kollegiale_Vorbesprechung_Mumbai",
+          "kind": "pdf",
+          "title": "Besprechungsvermerk: fachkollegiale Anfrage und weitere Termine",
+          "author": "Notarin Dr. Fenja Linden | Gespräch vom 6. November 2026",
+          "date": "06.11.2026",
+          "to": "Nebenakte UVZ 418/2026",
+          "text": "1 Auftrag und Rollen\n\nFrau Kern, Herr Aydin und die Ansprechpartner der Käuferin wünschen eine ergänzende fachliche Prüfung der Nachweislage. Sie sind damit einverstanden, dass Notar Dr. Lennox Hieronymus von Tannried-Eichenau die bereitgestellten Unterlagen fachkollegial prüft und eine wissenschaftliche Anfrage an das Deutsche Notarinstitut vorbereitet. Er übernimmt weder die Nebenakte noch das Amt der mitwirkenden Notarin. Die Urkunde vom 12. Oktober und die bereits eingereichte Liste bleiben dem hiesigen Vorgang zugeordnet.\n\n2 Drei unterschiedliche Arbeitsziele\n\nIm Gespräch wurden die Beurteilung der damaligen Beurkundungsgrundlage, eine etwa erforderliche Erklärung zum bereits geschlossenen Vertrag und eine nur für einen künftigen Termin gedachte Vollmacht als getrennte Ziele benannt. Die Beteiligten möchten keinen neuen Kaufpreis vereinbaren und keinen zweiten Zahlungsauftrag auslösen. Ob eine erneute Beurkundung oder eine Genehmigung sinnvoll und rechtlich möglich ist, soll erst nach Klärung der Vertretung beurteilt werden.\n\n3 Persönliches Erscheinen und Vollmacht\n\nHerr Deshmukh möchte nicht erneut nach Deutschland reisen. Frau Iyer ist für ein Gespräch erreichbar, hat jedoch noch keine Erklärung unterzeichnet. Für die vorgesehene Vertreterin Mira Rosenfeld liegt weder eine unterschriebene Vollmacht noch ein eigener Auftrag zur Abgabe von Erklärungen vor. Die bloße Vorbereitung eines Texts wird im Terminplan nicht als Freigabe zur Beurkundung geführt.\n\n4 Fristen und außenstehende Entscheidungen\n\nDas Registergericht hat die angekündigte Ergänzung bis zum 12. November erbeten. Diese Bearbeitungsfrist und die Frage nach Statthaftigkeit und Frist des bereits eingelegten Rechtsbehelfs sind gesondert zu prüfen. Die Bank hat keinen neuen verbindlichen Kreditbeschluss mitgeteilt. Ein für Montag erbetener Bericht an die Geschäftsführung ändert keine gesetzliche Frist und ersetzt kein gerichtliches Fristverlängerungsgesuch.\n\n5 Weitere Abstimmung\n\nDie Anfrage soll den Sachverhalt so wiedergeben, dass die Kernfragen ohne Öffnen jeder einzelnen Anlage erkennbar sind. Wörtliche Auszüge sind als solche den vorhandenen Unterlagen zuzuordnen. Eine Antwort des Instituts wird nicht vorweggenommen. Über eine spätere Versendung von Erklärungen, eine erneute Urkunde oder eine weitere Liste ist gesondert mit dem zuständigen Notariat und den Beteiligten zu entscheiden.\n\nDr. Fenja Linden, Notarin",
+          "profile": "notary",
+          "from_email": "",
+          "to_email": ""
         }
       ]
     },
@@ -443,7 +521,7 @@
       "subtitle": "Investor aus Dubai, legalisierte Unterlagen und eine streitige Einzelzeichnung vor der Registeränderung",
       "date": "06.11.2026",
       "office": "Notar Dr. Joris Wendt | Berlin",
-      "task": "Bereiten Sie den weiteren Vollzug des bereits beurkundeten Anteilskaufs für das Notariat und die anwaltliche Vertretung getrennt vor. Ordnen Sie Urkunde, MOFA-Vorbeglaubigung und deutsche Legalisation ein. Prüfen Sie anhand der zeitlich verschiedenen Gesellschaftsunterlagen, wer die Dubai-Mainland-LLC am Tag des Berliner Vertrags vertreten durfte, welche Bedeutung eine spätere Registeraktualisierung hat und wie mit der zurückgewiesenen Gesellschafterliste sowie der als Erinnerung bezeichneten Eingabe weiterzuarbeiten ist. Der Fall enthält keine abschließende Rechtsmittelbegründung oder Musterlösung.",
+      "task": "Bereiten Sie den weiteren Vollzug des bereits beurkundeten Anteilskaufs für das Notariat und die anwaltliche Vertretung getrennt vor. Ordnen Sie Urkunde, MOFA-Vorbeglaubigung und deutsche Legalisation ein. Prüfen Sie anhand der zeitlich verschiedenen Gesellschaftsunterlagen, wer die Dubai-Mainland-LLC am Tag des Berliner Vertrags vertreten durfte, welche Bedeutung eine spätere Registeraktualisierung hat und wie mit der zurückgewiesenen Gesellschafterliste sowie der als Erinnerung bezeichneten Eingabe weiterzuarbeiten ist. Der Fall enthält keine abschließende Rechtsmittelbegründung oder Musterlösung. Die ausführliche Anfrage an das Deutsche Notarinstitut ist zusätzlich als eigenständig lesbares PDF enthalten. Sie lässt sich ohne die übrige Akte als Prüfauftrag verwenden; die ergänzenden Vollmachtsentwürfe sind nicht unterzeichnet und geben keine Lösung vor.",
       "docs": [
         {
           "n": 1,
@@ -847,6 +925,84 @@
           "profile": "uae",
           "from_email": "lina.farouqi@alsafa-horizon.example",
           "to_email": "post@wendt-notariat.example"
+        },
+        {
+          "n": 29,
+          "stem": "DNotI_Anfrage_Dubai",
+          "kind": "pdf",
+          "title": "Fachanfrage: Al Safa Horizon / Havelquarz",
+          "author": "Notar Dr. Lennox Hieronymus von Tannried-Eichenau",
+          "date": "06.11.2026",
+          "to": "Deutsches Notarinstitut (DNotI) | Gerberstraße 19 | 97070 Würzburg",
+          "profile": "notary",
+          "text": "",
+          "renderer": "dnoti",
+          "request_key": "dubai"
+        },
+        {
+          "n": 30,
+          "stem": "Rashid_erneuter_Termin_Vollmacht",
+          "kind": "eml",
+          "title": "Berlin appointment / proposed representation and no second payment",
+          "author": "Yusuf Rashid",
+          "date": "2026-11-06T08:33:00+01:00",
+          "to": "Notariat Wendt",
+          "text": "Dear Dr Wendt,\n\nI would prefer not to return to Berlin for another appointment in November. I signed the agreement on 14 October and the sellers received the agreed EUR 960,000. The current company particulars now show me as manager. I appreciate that your question may concern the effect of the management change on the earlier date, and not merely the current wording of the licence.\n\nMaryam Al Noor has been informed. She does not wish to sign a document describing her present office without advice about when her earlier role ended. She would discuss a declaration concerning an earlier transaction if counsel first explains the capacity in which she would act. Please do not present her willingness to discuss the matter as an actual signature or ratification.\n\nFor a further German appointment we could propose Nora Albers, who supports our German customer projects, as representative. She is not authorised merely because I have mentioned her name. Our administration can send a proposed specific power as a PDF. Please tell us whether you need a signed original, a certified copy, an authenticated signature or evidence about the authority of whoever signs the power for the LLC. We should settle those questions before paying for another chain of attestations.\n\nThe request to consider a new signing route is not an instruction to amend the purchase price or to transfer it a second time. Please distinguish evidence for the existing agreement from authority for an act which may be taken later.\n\nKind regards,\nYusuf Rashid",
+          "profile": "uae",
+          "from_email": "Yusuf Rashid <yusuf.rashid@alsafa-horizon.example>",
+          "to_email": "Dr. Joris Wendt <kanzlei@wendt-notariat.example>"
+        },
+        {
+          "n": 31,
+          "stem": "Originalbefund_Legalisationskette",
+          "kind": "pdf",
+          "title": "Eingangs- und Zuordnungsbefund zur Legalisationskette",
+          "author": "Notar Dr. Joris Wendt | Nebenakte UVZ 527/2026",
+          "date": "06.11.2026",
+          "to": "Notar Dr. Lennox Hieronymus von Tannried-Eichenau",
+          "text": "1 Zweck des Befunds\n\nDieser Vermerk ordnet die im hiesigen Vorgang bereits eingegangenen Papiere und die für die fachkollegiale Mitprüfung bereitgestellten Kopien ein. Er ersetzt keine Prüfung des ausländischen Gesellschaftsrechts. Die konsularische Bescheinigung soll weder von ihrem Bezugsdokument getrennt noch als Teil einer anderen Unterlage abgelegt werden.\n\n2 Dokumentenfolge\n\nDie Gesellschaftsentscheidung trägt das Datum 6. Oktober 2026. Der notarielle Nachtrag zum Memorandum of Association trägt die Referenz DN-2026-1007-5638 vom 7. Oktober. Die Bescheinigung über den Vergleich einer Kopie mit der vorgelegten Unterlage ist vom 23. Oktober und trägt DCR-2026-1023-9914. Auf diese Kopiebescheinigung bezieht sich die MOFA-Vorbeglaubigung vom 25. Oktober mit der Kennung MOFA-2026-1025-674821. Die konsularische Bescheinigung vom 28. Oktober ist unter RK-LEGA-2026-1028-417 abgelegt.\n\n3 Eingang und Seitenverbindung\n\nDie elektronische Vorabsendung ging am 29. Oktober ein; der Kurierumschlag mit den Papierunterlagen wurde am 2. November unter JW-2026-1102-18 erfasst. Der für Herrn Kollegen von Tannried-Eichenau gefertigte Scan bildet die in dieser Sendung verbundenen Seiten in ihrer Reihenfolge ab. Der Kollegenkopie wurden keine Papieroriginale übergeben. Ob das vor Ort als Ausgangspunkt der Kopiebeglaubigung vorgelegte Dokument selbst eine Urschrift oder eine andere zulässige Dokumentform war, lässt sich aus einer isolierten Wiedergabe des Vergleichsvermerks nicht weiter ergänzen.\n\n4 Zeitbezogene Registerinformationen\n\nDer Einreichungsbeleg vom 8. Oktober ist in der Statushistorie als Eingang erfasst. Der Stand vom 13. Oktober lautet weiterhin in Bearbeitung. Als Abschlusszeitpunkt wird der 20. Oktober genannt. Die aktuelle Firmenansicht wurde am 21. Oktober gesichert. Keine dieser Angaben wird im Eingangsverzeichnis nachträglich auf den Beurkundungstag 14. Oktober umdatiert.\n\n5 Nicht eingegangene Unterlagen\n\nEine ausgeführte Vollmacht an die jetzt vorgeschlagene deutsche Vertreterin, eine neue Erklärung von Frau Al Noor oder ein gesondertes Gutachten zur Wirkung der Manageränderung am 14. Oktober liegt dem heutigen Prüfstand nicht bei. Die Ankündigung weiterer Unterlagen ist als offene Beschaffung vermerkt. Eine angebotene Beglaubigung einer künftigen Unterschrift ist noch keine ausgeführte Amtshandlung.\n\nRomy Hagedorn, Notariatsmitarbeiterin\nGesehen: Dr. Joris Wendt, Notar",
+          "profile": "notary",
+          "from_email": "",
+          "to_email": ""
+        },
+        {
+          "n": 32,
+          "stem": "Farouqi_Vollmachtsentwurf_ohne_Ausfuehrung",
+          "kind": "eml",
+          "title": "Draft special authority / appointment and document chain are different issues",
+          "author": "Lina Farouqi",
+          "date": "2026-11-06T10:09:00+01:00",
+          "to": "Notariat Wendt und Rechtsanwalt Ahrens",
+          "text": "Dear colleagues,\n\nI have prepared the proposed text now identified in the file as the special authority draft. It has not been signed. The administration has not decided whether Yusuf alone, both persons named in the 2023 memorandum or a differently authorised signatory must execute the final instrument. Please do not use the draft to establish its own signatories' power.\n\nWe can arrange a local signature appointment once the legal route and the wording are settled. There would first be a scan for review and later the appropriate paper or electronic original. The available service description concerns the authentication of a signature or a copy. It does not promise a company-law opinion about the management position on 14 October. If a certificate is to address corporate authority as well, its requested subject and the records examined need to be identified separately.\n\nThe consular chain already in your file relates to the certified copy of the 7 October amendment. We have not obtained a new consular act for a power that has not yet been executed. A stamp on the earlier copy cannot be moved to the proposed text. Please also note that our entity is a Dubai mainland LLC; the proposal was not prepared under DIFC or ADGM forms.\n\nThe request for advice about a possible confirmation of the earlier agreement remains with counsel. I have no signed ratification and no instruction to send one to the sellers today. We will advise separately when the records and the proposed execution route have been checked.\n\nKind regards,\nLina Farouqi",
+          "profile": "uae",
+          "from_email": "Lina Farouqi <lina.farouqi@alsafa-horizon.example>",
+          "to_email": "Dr. Joris Wendt <kanzlei@wendt-notariat.example>, Dr. Niko Ahrens <niko.ahrens@ahrens-recht.example>"
+        },
+        {
+          "n": 33,
+          "stem": "Special_Authority_Arbeitsstand",
+          "kind": "pdf",
+          "title": "Special authority for a further German appointment – unexecuted proposal",
+          "author": "Al Safa Horizon Technologies LLC | Corporate Administration",
+          "date": "06.11.2026",
+          "to": "Notariat Wendt | Prüfung des Wortlauts",
+          "text": "1 Status and proposed principal\n\nThis text was prepared by the company administration on 6 November 2026 for review. It is not executed. The proposed principal is Al Safa Horizon Technologies LLC, Dubai mainland, Trade Licence 985274. The authority of the person or persons who may sign the final instrument for the LLC must first be established. Listing a name in a proposed signature block does not establish that person's office or powers.\n\n2 Proposed representative and limits\n\nThe company proposes to appoint Nora Albers, resident at Lychener Straße 18, 10437 Berlin, as representative for a further German notarial appointment concerning the acquisition of the shares numbered 1 to 25 and 61 to 75 in Havelquarz Intelligenz & Grund GmbH. The aggregate price of the existing agreement is EUR 960,000. The proposed authority would be confined to the final wording specifically approved for the appointment and would not authorise any additional capital contribution or guarantee.\n\n3 Acts not included\n\nThe proposal does not authorise a purchase of German real property, a borrowing by the German company, an appointment as manager of that company, substitution or self-dealing. It does not authorise a change to the purchase price or a second payment. Any need for a differently defined power must be settled in a revised text before execution.\n\n4 Existing agreement and temporal question\n\nThe proposal does not contain a ratification of the agreement signed by Yusuf Rashid on 14 October 2026. Whether a separate confirmation is intended, which organ may issue it under the law governing the LLC and whether a further declaration by Maryam Al Noor is relevant are questions submitted to counsel. The fact that an updated licence was made available later is not restated here as an earlier event.\n\n5 Execution and supporting records\n\nThe final instrument is to be accompanied by the supporting company records required for its signatories. The contemplated form of execution, certification and delivery to Germany has not been approved. No original signature, electronic signature verification, notarisation, MOFA attestation or German consular legalisation belongs to this draft. It is retained as the administration's proposed wording only.\n\nLina Farouqi, Corporate Administration",
+          "profile": "uae",
+          "from_email": "",
+          "to_email": ""
+        },
+        {
+          "n": 34,
+          "stem": "Kollegiale_Vorbesprechung_Dubai",
+          "kind": "pdf",
+          "title": "Abstimmung über die fachkollegiale Anfrage und weitere Vollzugswege",
+          "author": "Notar Dr. Joris Wendt | Gespräch vom 6. November 2026",
+          "date": "06.11.2026",
+          "to": "Nebenakte UVZ 527/2026",
+          "text": "1 Einverständnis und Zuständigkeit\n\nDie Beteiligten sind mit einer fachkollegialen Mitprüfung durch Notar Dr. Lennox Hieronymus von Tannried-Eichenau und der Vorbereitung einer Anfrage an das Deutsche Notarinstitut einverstanden. Die Urkunde vom 14. Oktober, die Nebenakte und die Verantwortung für den begonnenen Vollzug verbleiben bei dem mitwirkenden Notar. Der Kollege wird weder als Amtsnachfolger noch als amtlich bestellter Vertreter geführt.\n\n2 Bereits ausgeführte und nur erwogene Schritte\n\nUnterzeichnet wurde am 14. Oktober ausschließlich durch Yusuf Rashid. Die Kaufpreise sind bezahlt; die Liste vom 19. Oktober wurde eingereicht und ihre Aufnahme abgelehnt. Nach wie vor offen ist die Ergänzung des als Erinnerung, hilfsweise Beschwerde bezeichneten Rechtsbehelfs. Eine Bescheinigung über einen bereits vollendeten Registervollzug darf aus dem technischen Eingang nicht hergeleitet werden. Die nun angesprochene Spezialvollmacht soll dagegen einen erst noch zu bestimmenden weiteren Termin betreffen.\n\n3 Varianten für einen künftigen Termin\n\nHerr Rashid möchte eine weitere Reise vermeiden. Frau Al Noor hat lediglich Gesprächsbereitschaft signalisiert; ihre Stellung zum früheren und zum heutigen Zeitpunkt soll vor einem Erklärungstext geklärt werden. Die Vertreterin Nora Albers ist bisher nur vorgeschlagen. Weder ihr Auftreten noch eine vorweggenommene Genehmigung der früheren Erklärung sind freigegeben. Ein neuer Termin wird deshalb nicht allein aufgrund eines angekündigten Ausdrucks reserviert.\n\n4 Gewünschte Auskunft\n\nDie Anfrage soll die Wirksamkeit der Manageränderung, den konkreten Umfang der Abschlussbefugnis und die dafür geeigneten Nachweise als gesonderte Fragen beschreiben. Für eine Vollmacht interessieren zusätzlich die Vertretungsgrundlage ihrer Aussteller, der Umfang des übertragenen Geschäfts, die Form und der Weg zur Verwendung in Deutschland. Die vorhandene Legalisationskette ist mit ihrem Bezugsdokument anzugeben, damit sie nicht versehentlich einer künftig erst zu unterzeichnenden Vollmacht zugeordnet wird.\n\n5 Zeitplan\n\nDas Gericht erwartet die angekündigte Ergänzung bis zum 16. November. Die wirtschaftliche Dringlichkeit wegen des Spandauer Vorhabens wurde aufgenommen; eine verbindliche Kreditentscheidung oder eine Zusage zur Listenaufnahme liegt weiterhin nicht vor. Die Beteiligten wünschen eine begründete Empfehlung, bevor weitere Beglaubigungs- und Kurierkosten ausgelöst werden. Eine Antwort des Instituts oder ein bestimmtes Ergebnis der Rechtsprüfung ist mit diesem Vermerk nicht vorgegeben.\n\nDr. Joris Wendt, Notar",
+          "profile": "notary",
+          "from_email": "",
+          "to_email": ""
         }
       ]
     }
