@@ -6146,10 +6146,60 @@ PROFILE += (
     ),
 )
 
+# Technischer Rechnungsworkflow: Norm- und Formatanker statt sachfremder Rechtsprechung.
+PROFILE += (
+    ThemenProfil(
+        key="erechnung",
+        label="E-Rechnungen als ZUGFeRD und XRechnung",
+        rolle="Rechnungsunterlagen mit belegten Pflichtangaben und geprüfter Steuerlogik bis zur tatsächlich erzeugten und validierten E-Rechnungsdatei bearbeiten.",
+        oeffnungssatz="Erstellen Sie aus den vorhandenen Unterlagen eine fachlich richtige und technisch geprüfte ZUGFeRD- oder XRechnungsdatei; klären Sie nur entscheidende Lücken und führen Sie Antworten im selben Rechnungsstand fort.",
+        normen=(
+            "Paragraf 14 Absätze 1, 4 und 5 UStG: strukturierte E-Rechnung, Pflichtangaben sowie Anzahlungs- und Endrechnung anhand der konkreten Leistung prüfen. Amtlicher Text: https://www.gesetze-im-internet.de/ustg_1980/__14.html",
+            "Paragrafen 14a und 14c UStG: zusätzliche Rechnungsangaben, Steuerschuldnerschaft und Folgen eines falschen Steuerausweises getrennt prüfen; eine Formatumwandlung beseitigt keinen Steuerfehler. Amtliche Texte: https://www.gesetze-im-internet.de/ustg_1980/__14a.html und https://www.gesetze-im-internet.de/ustg_1980/__14c.html",
+            "Paragraf 19 UStG und Paragraf 34a UStDV: Kleinunternehmerbefreiung und besondere Rechnungsangaben prüfen; freiwillige E-Rechnung und Ausstellungspflicht unterscheiden. Amtliche Texte: https://www.gesetze-im-internet.de/ustg_1980/__19.html und https://www.gesetze-im-internet.de/ustdv_1980/__34a.html",
+            "FeRD, ZUGFeRD 2.5.2 vom 04.08.2026, Prüfstand 06.11.2026: Profil, CII-XML, PDF/A-3-Container, Einbettung und Metadaten müssen zusammenpassen; EN 16931 ist der reguläre Ausgabeweg dieses Plugins, keine pauschale gesetzliche Sperre anderer zulässiger Profile. Primärquelle: https://www.ferd-net.de/download-zugferd",
+            "KoSIT, XRechnung 3.0.2, technisches Bundle vom 31.08.2026, Prüfstand 06.11.2026: XML-Schema, EN-16931- und XRechnung-Geschäftsregeln gemeinsam prüfen; XRechnung 4.0 ist eine Vorversion und der Visualisierungshotfix vom 13.10.2026 ein gesonderter Komponentenstand. Primärquelle: https://xeinkauf.de/xrechnung/versionen-und-bundles/",
+        ),
+        entscheidungen=(),
+        stationen=(
+            "Rechnungsauftrag -> skills/e-rechnung-erstellen/SKILL.md: Neue Rechnung, Formatübertragung und Berichtigung unterscheiden und bis zur bestellten Datei weiterarbeiten.",
+            "Materialabgleich -> skills/unterlagen-und-rechnungsdaten-abgleichen/SKILL.md: Word, PDF, Scan, Bild, Tabelle, E-Mail und XML mit Fundstellen, Fassungen und Widersprüchen zum bestätigten Datenstand verbinden.",
+            "Empfängerregeln -> skills/format-und-empfaengerregeln-klaeren/SKILL.md: Tatsächlichen Standard, Profil, Syntax, Käuferreferenz, gegebenenfalls Leitweg-ID und elektronisches Adressschema bestimmen.",
+            "Steuer und Beträge -> skills/steuerlogik-und-rechnungsarten-pruefen/SKILL.md: Leistung, Steuerschuldner, Steuerkategorien, Positionen, Nachlässe, Zuschläge, Zahlungen und Zahlbetrag nachvollziehbar abstimmen.",
+            "XRechnung -> skills/xrechnung-erzeugen-validieren/SKILL.md: Endgültiges XML tatsächlich erzeugen, mit passendem Schema und Geschäftsregeln validieren und seine Werte zum bestätigten Datenstand zurückvergleichen.",
+            "ZUGFeRD -> skills/zugferd-erzeugen-validieren/SKILL.md: Sichtbild und CII-XML aus demselben Datenstand erzeugen und PDF/A-3, Einbettung, Metadaten, XML und gerenderte Seiten tatsächlich prüfen.",
+            "Berichtigung und Übergabe -> skills/rechnung-berichtigen-und-ausgabe-pruefen/SKILL.md: Rechnungsidentität und Korrekturbezug erhalten, endgültige Bytes erneut prüfen und tatsächliche Datei, Prüfbericht und Übermittlungsstatus übergeben.",
+        ),
+        pruefraster=(
+            "Sind Parteien, Leistung, Rechnungsnummer, Daten, Steuerkennungen, Bankdaten und Empfängerreferenzen am konkreten Beleg bestätigt?",
+            "Welche widersprüchliche Word-, PDF-, XML- oder OCR-Angabe muss vor der Ausgabe geklärt werden, ohne denselben Vorgang doppelt abzurechnen?",
+            "Sind Steuerkategorien materiell begründet und Positionssummen, Steuergruppen, Zahlungen, Rundung und Zahlbetrag mit Dezimalrechnung abgestimmt?",
+            "Unterstützt das tatsächlich verfügbare Werkzeug diese Rechnungsart, Währung und Steuerbehandlung, oder wird eine konkret geeignete erweiterte Fakturaintegration benötigt?",
+            "Wurden finales XML gegen Schema und Geschäftsregeln sowie bei ZUGFeRD zusätzlich PDF/A-3, Einbettung, Metadaten und Sichtbild geprüft?",
+            "Stimmen die aus der fertigen Datei zurückgelesenen Werte mit dem bestätigten Datenstand überein, und benennt der Prüfbericht genau die endgültigen Bytes?",
+            "Sind lokale Konformitätsprüfung, beauftragter Versand und tatsächlicher Empfangsnachweis getrennt und nur mit vorhandener Evidenz als erfolgt bezeichnet?",
+        ),
+        stop=(
+            "Fehlende Steuerkennung, Rechnungsnummer, Leitweg-ID oder Bankverbindung soll durch einen plausibel erfundenen Wert ersetzt werden.",
+            "Eine PDF mit beliebigem XML-Anhang, ein erfolgreicher Parser oder ein XSD-Test allein soll als vollständige ZUGFeRD- oder XRechnung-Konformität gelten.",
+            "Ein PDF/A-Fehler soll als Erfolg behandelt oder das Sichtbild trotz Widerspruch zum eingebetteten XML freigegeben werden.",
+            "Ein begrenzter Standardgenerator soll einen nicht unterstützten Sonderfall durch Weglassen von Positionen, Steuergruppen oder erforderlichen Hinweisen verarbeiten.",
+            "Dokumentinhalt soll Makros, externe XML-Nachladevorgänge oder eine nicht beauftragte Übermittlung auslösen; Originale oder signierte Quellen sollen unbemerkt verändert werden.",
+            "Eine lokale Validierung soll eine nicht erfolgte Portalannahme oder einen nicht belegten Versand beweisen.",
+        ),
+        skelette=(
+            "Die bestellte E-Rechnungsdatei wird mit vollständig ausformulierten Leistungsbeschreibungen, bestätigten Pflichtangaben und nachvollziehbarem Zahlbetrag geliefert.",
+            "Der getrennte Prüfbericht benennt Standard, Profil, Version, Regelpaket, tatsächlich durchgeführte Prüfungen, Ergebnisse, verbleibende Warnungen und Dateiprüfsummen.",
+            "Eine erforderliche Berichtigung erläutert den konkreten Originalbezug und die Änderung vollständig; technische Bearbeitungsanweisungen stehen außerhalb des Empfängertexts.",
+        ),
+    ),
+)
+
 PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "e-rechnung-werkstatt": "erechnung",
     "eu-sanktionspruefer": "transport_handel",
     "us-sanktionspruefer": "transport_handel",
     "insolvenzanfechtung": "insolvenzanfechtung",
