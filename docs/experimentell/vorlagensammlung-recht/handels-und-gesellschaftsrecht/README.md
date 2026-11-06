@@ -76,6 +76,17 @@ Alle Vorlagen verwenden die verbindliche Dezimalgliederung `1`, `1.1`, `1.1.1` u
 | [Virtueller Optionsplan (VSOP) für GmbH](virtueller-optionsplan-vsop-gmbh/) | Virtueller Optionsplan (VSOP) für GmbH — Planbedingungen für virtuelle Beteiligung von Mitarbeitenden, Beratern oder Geschäftsführern mit Vesting, Leaver-Regeln, Exit-Erlös und Steuerhinweisen. |
 | [Zustimmungskatalog für Geschäftsführung, Beirat und Gesellschafter](gmbh-zustimmungskatalog-beirat-gesellschafter/) | Zustimmungskatalog für Geschäftsführung, Beirat und Gesellschafter — Abstimmungsfähiger Zustimmungskatalog für GmbH-Strukturen mit klarer Zuständigkeitsverteilung zwischen Geschäftsführung, Beirat und Gesellschafterversammlung. |
 
+## Testakten für notarielle Anteilsgeschäfte
+
+Der Fall eines ausländischen Investors beim Kauf bestehender Anteile einer Berliner GmbH steht in zwei eigenständigen Ländervarianten zur Verfügung. Die Arbeitsakten verbinden den beurkundeten Anteilskauf mit Gesellschaftsunterlagen, Vertretungsnachweisen, Zahlungen, Gesellschafterliste und dem Schriftwechsel mit dem Registergericht. Die abschließende Bewertung und die ergänzende Stellungnahme bleiben zu erarbeiten.
+
+| Testakte | Fallgestaltung | Unterlagen und Downloads |
+| --- | --- | --- |
+| Spreekern: Ein Director, zwei Unterschriften | Investor aus Mumbai, 35 Prozent für 840.000 EUR; Bestellung und konkrete Abschlussbefugnis des Directors sind streitig. | [Akte mit 30 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-mumbai-gesellschafterliste) |
+| Havelquarz: Der Stempel reist später | Investor aus Dubai, 40 Prozent für 960.000 EUR; Änderung der Vertretungsregelung und später eingegangene Legalisation. | [Akte mit 28 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-vae-vertretungsnachweis) |
+
+Die Aktenseiten führen zum Gesamt-PDF, zum ZIP mit den Originalformaten und zum Einzel-PDF-ZIP. Die passende allgemeine Vorlage ist der [GmbH-Geschäftsanteilskaufvertrag](geschaftsanteilskaufvertrag/README.md). Für die Bearbeitung mit Skills steht die [Notariatswerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/notariat-alltag) zur Verfügung.
+
 ## Rechtliche Hinweise
 
 Jede Vorlage dieses Bereichs ist ein unverbindlicher Anregungsbeitrag. Volltext der Hinweise: [DISCLAIMER](../DISCLAIMER.md) und [RECHTLICHE HINWEISE](../RECHTLICHE-HINWEISE.md).
