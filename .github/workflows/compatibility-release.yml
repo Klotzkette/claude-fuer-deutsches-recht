@@ -36,6 +36,7 @@ on:
       - '**/*-hauptproblem.md'
       - '**/README.md'
       - 'README.md'
+      - 'PROMPTLISTE.md'
       - 'QUICKSTART.md'
       - 'INSTALLATION_EINFACH.md'
   push:
