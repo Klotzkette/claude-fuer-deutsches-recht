@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<validation filename="ZUGFeRD.pdf" datetime="2026-11-06 02:37:50">
+  <pdf>ValidationResult [flavour=3u, totalAssertions=4212, assertions=[], isCompliant=true]
+    <info>
+      <signature>Mustang</signature>
+      <duration unit="ms">726</duration>
+    </info>
+    <summary status="valid"/>
+  </pdf>  
+  <xml>
+    <info>
+      <version>2</version>
+      <profile>urn:cen.eu:en16931:2017</profile>
+      <validator version="2.26.0"/>
+      <rules>
+        <fired>20</fired>
+        <failed>1</failed>
+      </rules>
+      <duration unit="ms">948</duration>
+    </info>
+    <messages>
+      <notice type="27" location="/rsm:CrossIndustryInvoice/rsm:ExchangedDocumentContext[1]" criterion="ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-CIUS-ID or ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-EXTENSION-ID or ram:GuidelineSpecifiedDocumentContextParameter/ram:ID = $XR-CVD-ID">[BR-DE-21] Das Element "Specification identifier" (BT-24) soll syntaktisch der Kennung des Standards XRechnung entsprechen. [ID BR-DE-21] from /xslt/XR_30/XRechnung-CII-validation.xslt)</notice> 
+    </messages>
+    <summary status="valid"/>
+  </xml>
+  <messages></messages>
+  <summary status="valid"/>
+</validation>

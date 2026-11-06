@@ -1,0 +1,35 @@
+KoSIT Validator version 1.6.3
+Loading scenarios from  file:///Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/runtime-setup-test/kosit/configuration/scenarios.xml
+Using repository  file:///Users/klotzkette/Documents/Codex/2026-11-01/claude-for-legal-repo-finden/tmp/e-rechnung-engine/runtime-setup-test/kosit/configuration/
+
+Loaded "Validator Configuration XRechnung 3.0.2" by Coordination Office for IT Standards (KoSIT) from 2026-09-02 
+The following scenarios are available:
+  * EN16931 XRechnung (UBL Invoice)
+  * EN16931 XRechnung Extension (UBL Invoice)
+  * EN16931 XRechnung CVD (UBL Invoice)
+  * EN16931 XRechnung (UBL CreditNote)
+  * EN16931 XRechnung CVD (UBL CreditNote)
+  * EN16931 XRechnung (CII)
+  * EN16931 XRechnung Extension (CII)
+  * EN16931 XRechnung CVD (CII)
+  * EN16931 (UBL Invoice)
+  * EN16931 (UBL CreditNote)
+  * EN16931 (CII)
+
+
+Processing of 1 objects started
+Processing of 1 objects completed in 194ms
+Results:
+----------------------------------------------------------------------------------------------------------------
+|File                                                        |Schema |Schematron|Acceptance|Error/Description   |
+|/Users/klotzkette/Documents/Codex/2026-11-01/claude-for-l...|   Y   |    Y     |ACCEPTABLE|                    |
+|l-repo-finden/tmp/e-rechnung-engine/.beispiel-final-ls55jt3u|       |          |          |                    |
+|/XRechnung.xml                                              |       |          |          |                    |
+----------------------------------------------------------------------------------------------------------------
+Acceptable:  1  Rejected:  0
+
+
+##############################
+#   Validation successful!   #
+##############################
+

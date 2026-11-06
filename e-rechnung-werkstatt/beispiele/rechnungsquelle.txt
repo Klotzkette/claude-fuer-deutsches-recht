@@ -1,0 +1,42 @@
+Fiktiver, ausdrücklich bestätigter Rechnungsauftrag für die E-Rechnungswerkstatt.
+Alle Namen, Kennungen und Zahlungsdaten dienen ausschließlich der Demonstration.
+invoice_number: EE-2026-0042
+issue_date: 2026-11-06
+due_date: 2026-11-20
+period_start: 2026-11-02
+period_end: 2026-11-06
+buyer_reference: BEST-2026-1042
+note: Fiktive Demonstrationsrechnung. Keine Zahlung veranlassen.
+supplier.name: Tomasius Digital und Fachverlag (fiktiv)
+supplier.street: Beispielgasse 8
+supplier.postal_code: 79098
+supplier.city: Freiburg im Breisgau
+supplier.country: DE
+supplier.vat_id: DE000000000
+supplier.contact: Hubertus Tomasius
+supplier.phone: +49 761 000000
+supplier.email: rechnung@tomasius.example
+supplier.iban: DE79000000001234567890
+customer.name: Boscherharb Beratungswerkstatt GmbH (fiktiv)
+customer.street: Musterweg 12
+customer.postal_code: 79098
+customer.city: Freiburg im Breisgau
+customer.country: DE
+customer.email: buchhaltung@boscherharb.example
+lines.0.id: 1
+lines.0.description: Datenschutzberatung laut Auftrag BEST-2026-1042, 2. bis 6. November 2026
+lines.0.quantity: 10
+lines.0.unit_code: HUR
+lines.0.unit_price_net: 85.00
+lines.0.vat_rate: 19
+lines.1.id: 2
+lines.1.description: Gedrucktes Fachbuch Datenschutz in der Werkstatt, keine elektronische Dienstleistung
+lines.1.quantity: 2
+lines.1.unit_code: C62
+lines.1.unit_price_net: 29.00
+lines.1.vat_rate: 7
+totals.net: 908.00
+totals.tax: 165.56
+totals.gross: 1073.56
+totals.payable: 1073.56
+delivery_date: 2026-11-06 (ausdrücklich bestätigter vollständiger Leistungsabschluss)

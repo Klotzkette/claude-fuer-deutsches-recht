@@ -1,0 +1,15 @@
+test_duplicate_json_keys_and_nonfinite_constants_rejected (__main__.RechnungTests.test_duplicate_json_keys_and_nonfinite_constants_rejected) ... ok
+test_existing_destination_and_wrong_runtime_are_preserved (__main__.RechnungTests.test_existing_destination_and_wrong_runtime_are_preserved) ... ok
+test_input_changed_during_backend_run_is_not_certified (__main__.RechnungTests.test_input_changed_during_backend_run_is_not_certified) ... ok
+test_layout_preserves_price_precision_and_groups_rates_numerically (__main__.RechnungTests.test_layout_preserves_price_precision_and_groups_rates_numerically) ... ok
+test_pdf_guard_rejects_previous_false_green_behavior (__main__.RechnungTests.test_pdf_guard_rejects_previous_false_green_behavior) ... ok
+test_real_schema_schematron_and_pdfa_with_corrupted_counterexamples (__main__.RechnungTests.test_real_schema_schematron_and_pdfa_with_corrupted_counterexamples) ... ok
+test_renderer_warnings_block_release (__main__.RechnungTests.test_renderer_warnings_block_release) ... ok
+test_sources_and_field_mapping_are_required_and_hash_checked (__main__.RechnungTests.test_sources_and_field_mapping_are_required_and_hash_checked) ... ok
+test_two_rates_and_independent_totals_in_both_syntaxes (__main__.RechnungTests.test_two_rates_and_independent_totals_in_both_syntaxes) ... ok
+test_wrong_totals_and_unsupported_cases_are_not_silently_converted (__main__.RechnungTests.test_wrong_totals_and_unsupported_cases_are_not_silently_converted) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 11.247s
+
+OK
