@@ -17,9 +17,13 @@ from testakte_disclaimer import NOTICE_FILENAME, notice_text_errors, pdf_content
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'notariat-alltag'
-VERSION = '445.35.7'
+VERSION = '445.35.8'
 TAG = 'notariat-v' + VERSION
 CASES = ('notariat-berlin-mumbai-gesellschafterliste', 'notariat-berlin-vae-vertretungsnachweis')
+REQUESTS = {
+    CASES[0]: ('31_DNotI_Anfrage_Mumbai.pdf', 'DNotI_Anfrage_Mumbai_Spreekern.pdf'),
+    CASES[1]: ('29_DNotI_Anfrage_Dubai.pdf', 'DNotI_Anfrage_Dubai_Havelquarz.pdf'),
+}
 
 
 def module(script):
@@ -81,6 +85,11 @@ def build(dist):
         if not source.is_file() or pdf_content_errors(source.read_bytes()):
             raise ValueError('Geprüfte Gesamt-PDF fehlt: ' + slug)
         shutil.copyfile(source, dist / source.name)
+        request_source, download_name = REQUESTS[slug]
+        request_pdf = ROOT / 'testakten' / slug / request_source
+        if not request_pdf.is_file() or pdf_content_errors(request_pdf.read_bytes()):
+            raise ValueError('DNotI-Anfrage fehlt oder enthält einen Vorspruch: ' + slug)
+        shutil.copyfile(request_pdf, dist / download_name)
     native = module('build-testakten-release-zips.py')
     separate = module('build-testakten-einzelpdf-zips.py')
     native_checks = module('validate-testakten-release-zips.py')
@@ -100,13 +109,19 @@ def build(dist):
                for p in sorted(dist.glob('*.zip'))}
     report = {'schema_version': 1, 'tag': TAG, 'version': VERSION,
               'plugin_members_sha256': hashes, 'archives': members,
-              'case_material_sha256': sha256((ROOT / 'scripts/notariat-auslandsinvestoren-material.json').read_bytes()).hexdigest()}
+              'case_material_sha256': sha256((ROOT / 'scripts/notariat-auslandsinvestoren-material.json').read_bytes()).hexdigest(),
+              'request_source_sha256': sha256((ROOT / 'scripts/data/notariat-dnoti-anfragen.json').read_bytes()).hexdigest(),
+              'request_renderer_sha256': sha256((ROOT / 'scripts/notariat_dnoti_satz.py').read_bytes()).hexdigest(),
+              'requests': {slug: {'case_filename': source, 'download': download,
+                  'sha256': sha256((dist / download).read_bytes()).hexdigest(),
+                  'pages': len(PdfReader(dist / download).pages)}
+                  for slug, (source, download) in REQUESTS.items()}}
     (dist / 'release-bestand.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
     (dist / 'checksums-sha256.txt').write_text(''.join(
         f'{sha256(p.read_bytes()).hexdigest()}  {p.name}\n' for p in sorted(dist.iterdir())))
-    if len(list(dist.iterdir())) != 12:
+    if len(list(dist.iterdir())) != 14:
         raise ValueError('Unerwarteter Release-Umfang')
-    print(f'{TAG}: 12 Release-Dateien; alle Archivmitglieder geprüft.')
+    print(f'{TAG}: 14 Release-Dateien; alle Archivmitglieder geprüft.')
 
 
 if __name__ == '__main__':

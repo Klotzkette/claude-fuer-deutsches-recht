@@ -1,0 +1,18 @@
+{
+  "mumbai": {
+    "pages": 8,
+    "sha256": "50d32beea7e099e8ee46ee0a37687941968a594028f61dbc707edc921dc7456e",
+    "all_text_units_preserved": 70,
+    "source_uris_preserved": 9,
+    "byte_identical_rebuild": true,
+    "visual_review": "Alle acht Seiten der kanonischen Fassung vollständig geprüft, keine Überläufe, Überlappungen oder fehlenden Zeichen. Echte Times New Roman; Körpersatz 11 pt."
+  },
+  "dubai": {
+    "pages": 8,
+    "sha256": "df06ca4d53dac9d4e4fb6b2453e4cad9885725ccf7bfa7fc1fac7adff90e2c27",
+    "all_text_units_preserved": 81,
+    "source_uris_preserved": 12,
+    "byte_identical_rebuild": true,
+    "visual_review": "Alle acht Seiten der kanonischen Fassung vollständig geprüft, keine Überläufe, Überlappungen oder fehlenden Zeichen. Echte Times New Roman; Körpersatz 11 pt."
+  }
+}

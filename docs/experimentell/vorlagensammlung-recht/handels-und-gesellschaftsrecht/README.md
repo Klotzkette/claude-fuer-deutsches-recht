@@ -82,8 +82,8 @@ Der Fall eines ausländischen Investors beim Kauf bestehender Anteile einer Berl
 
 | Testakte | Fallgestaltung | Unterlagen und Downloads |
 | --- | --- | --- |
-| Spreekern: Ein Director, zwei Unterschriften | Investor aus Mumbai, 35 Prozent für 840.000 EUR; Bestellung und konkrete Abschlussbefugnis des Directors sind streitig. | [Akte mit 30 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-mumbai-gesellschafterliste) |
-| Havelquarz: Der Stempel reist später | Investor aus Dubai, 40 Prozent für 960.000 EUR; Änderung der Vertretungsregelung und später eingegangene Legalisation. | [Akte mit 28 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-vae-vertretungsnachweis) |
+| Spreekern: Ein Director, zwei Unterschriften | Investor aus Mumbai, 35 Prozent für 840.000 EUR; Bestellung und konkrete Abschlussbefugnis des Directors sind streitig. | [Akte mit 36 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-mumbai-gesellschafterliste) |
+| Havelquarz: Der Stempel reist später | Investor aus Dubai, 40 Prozent für 960.000 EUR; Änderung der Vertretungsregelung und später eingegangene Legalisation. | [Akte mit 34 Unterlagen öffnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/testakten/notariat-berlin-vae-vertretungsnachweis) |
 
 Die Aktenseiten führen zum Gesamt-PDF, zum ZIP mit den Originalformaten und zum Einzel-PDF-ZIP. Die passende allgemeine Vorlage ist der [GmbH-Geschäftsanteilskaufvertrag](geschaftsanteilskaufvertrag/README.md). Für die Bearbeitung mit Skills steht die [Notariatswerkstatt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/notariat-alltag) zur Verfügung.
 

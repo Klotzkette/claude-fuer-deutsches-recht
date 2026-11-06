@@ -1,6 +1,6 @@
 # Eval-Results
 
-Stand: 2026-11-06T11:25:05Z
+Stand: 2026-11-06T11:44:20Z
 
 - Vorlagen gesamt: **981**
 - mit Rubric: **981**
