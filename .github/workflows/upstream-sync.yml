@@ -1,0 +1,122 @@
+name: Automatisch Upstream spiegeln
+
+on:
+  schedule:
+    # Läuft jeden Tag um 04:00 Uhr UTC (ca. 05:00/06:00 Uhr deutsche Zeit)
+    - cron: '0 4 * * *'
+  # Erlaubt es, den Sync jederzeit manuell in GitHub unter "Actions" anzustoßen
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync_latest_from_upstream:
+    runs-on: ubuntu-latest
+    name: Updates von Klotz-Kette ziehen
+
+    steps:
+    # Schritt 0: Prüfen, ob das Token-Secret hinterlegt ist (sonst klare Fehlermeldung statt kryptischem Push-Fehler)
+    - name: Token prüfen
+      env:
+        SYNC_PAT: ${{ secrets.SYNC_PAT }}
+      run: |
+        if [ -z "$SYNC_PAT" ]; then
+          echo "::error title=Secret SYNC_PAT fehlt::Bitte unter Settings > Secrets and variables > Actions ein Secret SYNC_PAT anlegen (Personal Access Token mit Rechten Contents und Workflows)."
+          exit 1
+        fi
+
+    # Schritt 1: Eigenen Fork auschecken (volle Historie, damit Commits und Dateien verglichen werden können)
+    - name: Checkout target repo
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        fetch-depth: 0
+        token: ${{ secrets.SYNC_PAT }}
+
+    # Schritt 2: Startprotokoll – belegt, dass der Lauf (Cron oder manuell) stattgefunden hat
+    - name: Startprotokoll
+      id: start
+      run: |
+        BEFORE="$(git rev-parse HEAD)"
+        echo "before=$BEFORE" >> "$GITHUB_OUTPUT"
+        echo "started=$(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> "$GITHUB_OUTPUT"
+        echo "::notice title=Sync gestartet::Auslöser: ${GITHUB_EVENT_NAME} | Stand vor dem Sync: ${BEFORE:0:7}"
+
+    # Schritt 3: Mit dem Original-Repository abgleichen und synchronisieren
+    - name: Sync upstream changes
+      id: sync
+      uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.3
+      with:
+        target_sync_branch: main
+        # Eigenes Token mit Workflow-Recht, weil Upstream Dateien unter .github/workflows/ ändert
+        target_repo_token: ${{ secrets.SYNC_PAT }}
+        upstream_sync_repo: Klotzkette/claude-fuer-deutsches-recht
+        upstream_sync_branch: main
+
+    # Schritt 4: Ergebnisprotokoll – läuft immer, auch bei Fehlern
+    - name: Sync-Bericht
+      if: always()
+      env:
+        SYNC_OUTCOME: ${{ steps.sync.outcome }}
+        HAS_NEW_COMMITS: ${{ steps.sync.outputs.has_new_commits }}
+        BEFORE: ${{ steps.start.outputs.before }}
+        STARTED: ${{ steps.start.outputs.started }}
+      run: |
+        REPORT="$(mktemp)"
+        {
+          echo "## Upstream-Sync"
+          echo
+          echo "| | |"
+          echo "|---|---|"
+          echo "| Auslöser | \`${GITHUB_EVENT_NAME}\` (schedule = Cron, workflow_dispatch = manuell) |"
+          echo "| Gestartet | ${STARTED:-unbekannt} |"
+          echo "| Upstream | \`Klotzkette/claude-fuer-deutsches-recht\` (main) |"
+          echo "| Sync-Schritt | \`${SYNC_OUTCOME}\` |"
+        } >> "$REPORT"
+
+        if [ "$SYNC_OUTCOME" != "success" ]; then
+          {
+            echo
+            echo "**Ergebnis: FEHLER.** Der Sync ist nicht durchgelaufen. Details im Log des Schritts \"Sync upstream changes\"."
+            echo "Häufige Ursache: Merge-Konflikt, oder Upstream ändert Dateien unter \`.github/workflows/\` (dafür braucht das Token SYNC_PAT das Recht \`Workflows\`)."
+          } >> "$REPORT"
+        elif [ "$HAS_NEW_COMMITS" != "true" ]; then
+          {
+            echo
+            echo "**Ergebnis: Keine Änderungen.** Das Repository ist bereits auf dem Stand von Upstream."
+          } >> "$REPORT"
+        else
+          git fetch origin main --quiet
+          AFTER="$(git rev-parse origin/main)"
+          COMMITS="$(git rev-list --count "$BEFORE..$AFTER")"
+          FILES="$(git diff --name-only "$BEFORE" "$AFTER" | wc -l)"
+          {
+            echo "| Stand vorher → nachher | \`${BEFORE:0:7}\` → \`${AFTER:0:7}\` |"
+            echo
+            echo "**Ergebnis: Aktualisiert.** ${COMMITS} neue Commits, ${FILES} geänderte Dateien."
+            echo
+            echo "### Geänderte Bereiche (Dateien je Top-Level-Ordner)"
+            echo
+            echo '```'
+            git diff --name-only "$BEFORE" "$AFTER" | awk -F/ '{ print ($2 == "" ? "(Wurzelverzeichnis)" : $1) }' | sort | uniq -c | sort -rn
+            echo '```'
+            echo
+            echo "### Neue Commits"
+            echo
+            git log --no-merges --format='- `%h` %s (%an, %ad)' --date=short "$BEFORE..$AFTER" | head -n 50
+            echo
+            echo "### Dateien (Status: A = neu, M = geändert, D = gelöscht)"
+            echo
+            echo '```'
+            git diff --name-status "$BEFORE" "$AFTER" | head -n 200
+            echo '```'
+            if [ "$FILES" -gt 200 ]; then
+              echo "_Liste auf 200 Einträge gekürzt (insgesamt ${FILES} Dateien)._"
+            fi
+          } >> "$REPORT"
+        fi
+
+        # Ausgabe im Job-Log und als Zusammenfassung auf der Run-Seite
+        cat "$REPORT"
+        cat "$REPORT" >> "$GITHUB_STEP_SUMMARY"
