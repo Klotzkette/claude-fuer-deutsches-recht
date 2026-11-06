@@ -361,7 +361,15 @@ BGH, Urteil vom 11.02.2004, XII ZR 265/02, amtlicher Volltext Seiten 23 bis 26 (
 
 ## 16. Auslandsnachweise, Vollmachten und Vorsorge
 
-### 16.1. Vier getrennte Prüfungen bei Auslandsurkunden
+### 16.1. Ausländischer Investor bei einer Anteilsübertragung
+
+Bei einer ausländischen Gesellschaft getrennt prüfen: Existenz, Bestellung des handelnden Organs, fortbestehende Organstellung und Befugnis für genau diesen Anteilskauf zum Beurkundungszeitpunkt. Registerdaten, Satzung und Ermächtigungsbeschluss abgleichen; „Director“ allein bedeutet keine Einzelvertretungsmacht. Mumbai ist eine Stadt in Maharashtra; den indischen Companies Act und die konkreten Gesellschaftsunterlagen ermitteln. Eine spätere Bestellung oder nachgereichte Genehmigung nicht als schon am Termin nachgewiesen behandeln.
+
+Kanada unterliegt seit 11. Januar 2024 dem Apostille-Übereinkommen im Verhältnis zu Deutschland. Bei Indien besteht ein deutscher Einspruch; die deutschen Vertretungen legalisieren indische Urkunden ebenfalls nicht. Eine erforderliche Urkundenüberprüfung kann nur über die zuständige deutsche Behörde im Amtshilfeweg veranlasst werden; Umfang und Eignung für Firmenunterlagen vorab klären. Für geeignete öffentliche Urkunden aus den VAE kommt dagegen die Legalisation nach der erforderlichen Vorbeglaubigung in Betracht. Den [amtlich belegten Länderstand](references/auslandsinvestoren-urkundenverkehr.md) vor Verwendung aktualisieren. Echtheitsbestätigung und ausreichende Vertretungsmacht bleiben getrennt.
+
+Nach der Übertragung bestehender GmbH-Anteile die Aufnahme der Liste nach Paragraf 40 GmbHG von einer konstitutiven Registereintragung unterscheiden. Notarielle Bescheinigung und gerichtlicher Prüfungsumfang haben unterschiedliche Funktionen. [BGH, Beschluss vom 18. März 2025 – II ZB 11/24, BGHZ 243, 237, Rn. 33–38](https://www.dnoti.de/entscheidungen/details/?cHash=11bd9e8aa72a681096a65cf8a374e3ea&tx_dnotionlineplusapi_decisions%5Bnodeid%5D=6619e2ec-c0b4-41e8-b7cc-80fdbec33dbf): Bei notariell eingereichten Listen nach Paragraf 40 Absatz 2 GmbHG ist die materielle Prüfung auf offensichtliche Mängel begrenzt, die ohne weitere Ermittlungen sicher feststehen. Ungeklärte Vertretungsfragen sind nicht schon sichere Unrichtigkeit. Der Notar muss die bescheinigte Veränderung dennoch eigenständig verantworten; keine Übertragung dieses Maßstabs auf Grundbuchnachweise. Bei Ablehnung konkreten Entscheidungsinhalt, Beschwerde nach Paragraf 58 FamFG und subsidiäre Erinnerung nach Paragraf 11 Absatz 2 RPflG prüfen; eine anwaltliche Überschrift „Erinnerung“ bestimmt den statthaften Rechtsbehelf nicht. Liefere auftragsgemäß die Unterlagenanforderung, den Prüfvermerk oder die ausformulierte Antwort an das Registergericht.
+
+### 16.2. Vier getrennte Prüfungen bei Auslandsurkunden
 
 Trenne Herkunftsechtheit, inhaltliche Aussage, Formwirksamkeit der Erklärung und Eignung als Registerbeweis. Eine Apostille bestätigt nicht die Richtigkeit sämtlicher Vertragsangaben oder die fortdauernde Vertretungsmacht. Prüfe Urkundenstaat, Verwendungsstaat, Urkundenart, zuständige Stelle und gegebenenfalls einschlägige Befreiungen. Eine elektronisch erteilte Apostille nicht allein wegen ihres Formats ablehnen; Echtheit und Verbindung mit dem Dokument müssen überprüfbar sein.
 
@@ -371,13 +379,13 @@ Ist nur ein Scan einer Vollmacht eingegangen, kann der Entwurf mit diesem Inform
 
 [BGH, Urteil vom 21.01.2026, IV ZR 40/25, Randnummern 9 bis 16, 21 sowie 27 bis 33](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1): Bei einem in Deutschland durch eine niederländische Notaranwärterin errichteten Testament bestimmt das über EuErbVO Artikel 75 vorrangige Haager Testamentsformübereinkommen das Formstatut. Das danach berufene niederländische Recht bestimmt auch die zivilrechtlichen Folgen einer Überschreitung der territorialen Amtsbefugnis; diese machte das Testament im entschiedenen Fall nicht unwirksam. Erblasserstaatsangehörigkeit, Errichtungsort, Formstatut, materielle Rechtswahl und ermitteltes ausländisches Recht getrennt begründen. Die Beweiskraft nach Artikel 59 knüpft hier an den ermächtigenden Staat an, nicht allein an den physischen Errichtungsort. Keine allgemeine Erlaubnis ausländischer Beurkundungen in Deutschland und keine Gleichwertigkeitsgarantie für Gesellschafts- oder Grundstücksurkunden ableiten; BNotO Paragraf 11a und die zivilrechtliche Testamentswirksamkeit bleiben getrennte Prüfungen.
 
-### 16.2. Sprachmittlung und Namensabweichungen
+### 16.3. Sprachmittlung und Namensabweichungen
 
 Bei unterschiedlicher Schreibweise eines Namens erst die Herkunft der Abweichung prüfen: Heirat, Transliteration, fehlendes Zeichen, mehrere Vornamen oder Lesefehler. Namen nicht aus sprachlicher Gewohnheit vereinheitlichen. Urkunde, Register und Identitätsnachweis müssen nachvollziehbar zu derselben Person führen. Eine erforderliche Berichtigung oder Ergänzung als solche behandeln, nicht die Quelldatei verändern.
 
 Ein Übersetzungsprogramm ersetzt keinen erforderlichen Dolmetscher und keine beglaubigte Übersetzung. Frage nach Sprache, Verständnis der Beteiligten und vorhandener qualifizierter Übersetzung, soweit noch nicht ersichtlich. Bereite das Terminanschreiben mit den konkret benötigten Nachweisen vor. Die Entscheidung über die Mitwirkung und Belehrung im Beurkundungsverfahren bleibt beim Notar.
 
-### 16.3. Vorsorgevollmacht und Patientenverfügung
+### 16.4. Vorsorgevollmacht und Patientenverfügung
 
 Die Vollmacht soll Handlungsbefugnisse regeln, die Patientenverfügung Behandlungswünsche und die Betreuungsverfügung Wünsche für einen möglichen Betreuer. Wähle nicht kommentarlos ein einziges Formular für alle drei Zwecke. Frage bei einem unbestimmten Auftrag nach gewünschter Vertrauensperson und den noch offenen Bereichen: Gesundheit, Vermögen, Wohnung, digitale Angelegenheiten und Ersatzvertretung. Keine unbefristete Generalvollmacht oder Befreiung von BGB Paragraf 181 unterstellen.
 
@@ -387,13 +395,13 @@ Nach Klärung der Wünsche vollständige, widerspruchsfreie Entwürfe herstellen
 
 [BGH, Beschluss vom 09.03.2026, NotSt (Brfg) 3/25, Randnummern 10 bis 21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2025/NotSt_Brfg___3-25.pdf?__blob=publicationFile&v=1): Übernimmt der Notar die Anmeldung im Zentralen Vorsorgeregister, muss er sie unverzüglich veranlassen. 30 Tage ohne tragfähigen Grund genügten nicht; eine starre Drei- oder Fünfwerktagefrist ließ der BGH ausdrücklich offen. Ausstehende Registergebühren rechtfertigten das Zurückhalten im entschiedenen Fall nicht: Die Gebührenrechnung konnte unmittelbar an den Vollmachtgeber gehen. Eine Pflicht des Notars, selbst vorzuschießen, folgt daraus nicht. Frage deshalb nach Registrierungsauftrag, Auftragstag, vollständigen Meldedaten, Hindernis und Gebührenweg; dokumentiere Meldung und Bestätigung getrennt. Fehlenden Vorschuss nicht als automatische Vollzugssperre führen. Die Hinweispflicht nach BeurkG Paragraf 20a ist vom übernommenen Registrierungsauftrag zu unterscheiden; nicht jede Vorsorgeurkunde löst ohne Weiteres denselben Auftrag aus.
 
-### 16.4. Vollmachtsumfang nach einer eindeutigen Antwort formulieren
+### 16.5. Vollmachtsumfang nach einer eindeutigen Antwort formulieren
 
 Nur wenn der Vollmachtgeber nach Klärung gerade diesen Umfang wünscht, ist folgende Gesundheitsklausel ein Ausgangspunkt zur notariellen Prüfung: „Die bevollmächtigte Person darf in Untersuchungen meines Gesundheitszustands, Heilbehandlungen und ärztliche Eingriffe einwilligen, auch wenn die begründete Gefahr besteht, dass ich aufgrund der Maßnahme sterbe oder einen schweren und länger dauernden gesundheitlichen Schaden erleide. Sie darf eine Einwilligung auch verweigern oder widerrufen, wenn die Maßnahme medizinisch angezeigt ist und die begründete Gefahr besteht, dass ich wegen ihres Unterbleibens oder Abbruchs sterbe oder einen schweren und länger dauernden gesundheitlichen Schaden erleide. Dabei hat sie meinen nach den gesetzlichen Regeln festgestellten Willen zu beachten.“
 
 Diese Befugnis entscheidet noch nicht, welche Behandlung der Vollmachtgeber selbst wünscht. Sie erteilt auch keine stillschweigende Ermächtigung zu Freiheitsentziehung oder ärztlichen Zwangsmaßnahmen; BGB Paragraf 1820 Absatz 2 Nummern 2 und 3 sind gesondert zu klären. Für konkrete Behandlungsfestlegungen die beantworteten Situations- und Maßnahmenfragen vollständig in die Patientenverfügung übertragen. Gerichtliche Genehmigung einschließlich der Ausnahme bei Einvernehmen nach BGB Paragraf 1829 Absatz 4 gesondert prüfen. Eine unmittelbar passende eigene Patientenverfügung ist von einer Entscheidung des Vertreters zu unterscheiden.
 
-### 16.5. Genehmigung nach Vertreterhandeln weiterführen
+### 16.6. Genehmigung nach Vertreterhandeln weiterführen
 
 BGB Paragraf 177 Absatz 2 wird nicht durch jede Kanzleierinnerung ausgelöst. Hat der andere Vertragsteil den Vertretenen zur Erklärung aufgefordert, Zugang und Empfänger feststellen: Die Genehmigung kann dann nur gegenüber diesem Vertragsteil erklärt werden, innerhalb von zwei Wochen nach Empfang der Aufforderung. Nach Ablauf gilt sie als verweigert. Einen vorherigen Zugang beim Vertreter oder eine spätere Kanzleinotiz nicht als fristgerechte Erklärung umdeuten. BGB Paragraf 182 Absatz 2 zur Genehmigungsform von der grundbuch- oder registerrechtlichen Nachweisform unterscheiden.
 
