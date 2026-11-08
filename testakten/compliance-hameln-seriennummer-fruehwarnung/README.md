@@ -24,8 +24,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-seriennummer-fruehwarnung_gesamt.pdf`](gesamt-pdf/compliance-hameln-seriennummer-fruehwarnung_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/testakte-compliance-hameln-seriennummer-fruehwarnung.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.3/testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-seriennummer-fruehwarnung.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-seriennummer-fruehwarnung-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -48,6 +48,11 @@ English: The original-format ZIP contains the working files directly at archive 
 - [06_Nachtrag.pdf](06_Nachtrag.pdf)
 - [07_Besprechungsvermerk.docx](07_Besprechungsvermerk.docx)
 - [08_Arbeitsauftrag.pdf](08_Arbeitsauftrag.pdf)
+
+- [12_Ergaenzende_Stellungnahme.eml](12_Ergaenzende_Stellungnahme.eml)
+- [13_Belegabgleich_und_Sicherungsstand.docx](13_Belegabgleich_und_Sicherungsstand.docx)
+
+Die ergänzende Stellungnahme und das Beleg- und Sicherungsprotokoll bilden eine weitere Bearbeitungsrunde. Prüfen Sie ihre Angaben an den benannten ursprünglichen Dateien und überarbeiten Sie das bisherige Arbeitsergebnis nur dort, wo die Beleglage es trägt.
 
 ## 3 Bearbeitbare Vorlage
 

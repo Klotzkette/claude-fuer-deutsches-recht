@@ -1,0 +1,18 @@
+{
+  "unchanged_pdf_members": 268,
+  "reencoded_docx_pdf_members": 70,
+  "page_count_changes": [],
+  "text_changes": [],
+  "example_fonts": {
+    "old": [
+      "/BAAAAA+LiberationSerif",
+      "/CAAAAA+LiberationSerif-Bold",
+      "/DAAAAA+LiberationSerif"
+    ],
+    "new": [
+      "/BAAAAA+TimesNewRomanPSMT",
+      "/CAAAAA+TimesNewRomanPS-BoldMT",
+      "/DAAAAA+TimesNewRomanPSMT"
+    ]
+  }
+}

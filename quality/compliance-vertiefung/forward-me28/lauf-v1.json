@@ -1,0 +1,22 @@
+{
+  "art": "Ausgeführter interner Agententest; kein Test in externer Clientoberfläche",
+  "prompt": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md",
+  "prompt_sha256": "9a1c39688f7f8ecbcd4c6b996f5ad834f56311d90caba27350caec778cf87868",
+  "input_sha256": {
+    "01_Eingang.eml": "f054837297040dbc2e3984bd4c02734c23fb5129cb196699f3776200eaa70273",
+    "02_Sachgrundlage.docx": "ee573ca5b7c2e0f7ae8895c54dc74b1302bca907376059c0d4ce36c933b6190c",
+    "03_Stellungnahme.eml": "078ad15a41958ec41e2a14e49ed368cb3c4f1854dce8bd26aa57b4305b42fc4d",
+    "04_Datenregister.xlsx": "40b5bb576427fa8b9adff9dc0dd08c280db9676c770efef0e9933b3f267fc356",
+    "04a_Rohdaten.csv": "7e86a81c6af988e679a79694f37277dac5f5dd4f3b68c7f11be077be84e31e4c",
+    "05_Registerauszug.png": "3090bf681d8250f3a71590822f2abb2e912b59dc3287c4da2b8a537d55d5c223",
+    "06_Nachtrag.pdf": "5493f0969a9c0dc50479fa3a2a9061b082d6d51008e0e217e91bb09ab41a923a",
+    "07_Besprechungsvermerk.docx": "935a661501ac38ced675a2243bad39b0e7e87eda3db134377bbfc54ea9add247",
+    "08_Arbeitsauftrag.pdf": "3b549983ad04c2f1ad3bf514e6a08df6e5be23b79908096dbb752fe083056f32",
+    "12_Ergaenzende_Stellungnahme.eml": "bcb3820668257852ff355e436371b5c0f53dbfc6cf2af162785cbc20e9d72779",
+    "13_Belegabgleich_und_Sicherungsstand.docx": "1fe77962e3550e53893003140608337a375820784f57ae7ac8de4bc58300cb6f"
+  },
+  "excluded": [
+    "README und Gesamt-PDF als Ableitung; keine Nachbesprechung oder quality/evals gelesen"
+  ],
+  "beabsichtigter_aktenstand": "20.10.2026"
+}

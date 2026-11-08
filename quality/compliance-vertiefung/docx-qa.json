@@ -1,0 +1,582 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-08",
+  "source_data_sha256": "7b5b4791e58338dee8df783a386268f300877151702e754ed0efb34c6ff8ff74",
+  "builder_sha256": "6c6dd0c2fc4cbb43648bf42385b67c4c18acd829a2c18b95c0d16da499a9556f",
+  "scope": {
+    "protocol_documents": 35,
+    "protocol_pages": 70,
+    "template_documents": 35,
+    "template_pages": 35,
+    "original_documents_preserved": 338
+  },
+  "method": "Alle 105 Seiten als gerenderte PNGs auf 18 Kontaktbögen vollständig gesichtet; Detailansichten der Vorlagen ME-01 und ME-22 geprüft. Nach sechs inhaltlichen Korrekturen sämtliche zwölf betroffenen Protokollseiten erneut gerendert und auf zwei weiteren Kontaktbögen geprüft. Jede Vorlage mit dem Dokument-Skill render_docx.py erzeugt und jede PDF-Schriftliste auf eingebettete Times New Roman geprüft.",
+  "corrected_findings": [
+    "Theme-Schriftattribute und geerbte Titellinie aus DOCX entfernt; Überschriften und Titel verwenden Times New Roman.",
+    "Verwaiste Schlussvermerkseiten der Wordvorlagen durch redaktionelles Straffen beseitigt.",
+    "Nach Gegenlese die ergänzenden Stellen in ME-07, ME-14, ME-19, ME-21, ME-29 und ME-30 erneut geprüft."
+  ],
+  "result": "Keine erkennbaren Textüberläufe, Tabellenkollisionen oder fehlenden Seiten; 35 Wordvorlagen jeweils eine Seite und 35 Protokolle jeweils zwei Seiten. Keine rechtliche Endfreigabe und kein Modelllauf über alle Fälle.",
+  "documents": [
+    {
+      "nr": "ME-01",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "e92fdc3379088c1a8d87b6fe5cd0c1484941b223df2f29b48326cfcc06e49467",
+      "template_pages": 1,
+      "protocol_docx_sha256": "92b23ef7f0df52db3bc6c03484191872c65d6963542b50074ad92df78692d4c4",
+      "template_docx_sha256": "8f148d5f4e50b12a85c612b79e0fbec4e4d75a3a1e7d009a8ef7239f102f1241",
+      "template_pdf_sha256": "cb0ffc02ec44c615207f8cc8555a83785397f97b33872ecc13b09d27bde940aa",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-02",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "b27e9d6d38dbfdcdadbe311e1f87c2d8af81bee5290d5aec888099c4c564497f",
+      "template_pages": 1,
+      "protocol_docx_sha256": "978cef7db934ec2a0e8ce6e153cb20694187d9f9a7c58c830ca2094a97bb4cf8",
+      "template_docx_sha256": "5e7f7764b115cd7083c9b4f23d54bfee7965b1217d24917e046948878570106a",
+      "template_pdf_sha256": "b2b472d4185e4237a650432b710c4bab2c2ae77209ea545403a1e2c52aea5bf4",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-03",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "6c723a4a0c69f8881b6da220858c18a3a2158912e1dafb9e2251de6eb7959cc4",
+      "template_pages": 1,
+      "protocol_docx_sha256": "26b4b33f884595e213bf5374949b32adea8fc2812520d435c7cdb115efad6c97",
+      "template_docx_sha256": "c7b05f9bfdb752f7d3667e211330f5ef5985030e02a17e5d02abc04489fc0c86",
+      "template_pdf_sha256": "1985ae7359238513d2e4ba1d50c4fddad7429e22eda50fcf9fa4c6c320ff3cf3",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-04",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "76dbdf1b49ad12f859484eaa6c3f9df832d7cc7183a8a62c3243f1c5f95b2469",
+      "template_pages": 1,
+      "protocol_docx_sha256": "ded99ce0f5bc014db79d98c557f0415bab13b8c3adce7b599a5c0261540c36be",
+      "template_docx_sha256": "63c489b113e6ffaed021fc10b1561e8c2169612e87ef1b4050f9ac70b6c1497d",
+      "template_pdf_sha256": "959011d049bfb013017029972a3adcf2876c8bf81df43e1d434d8d9b54a2d84c",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-05",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "e48a4e05640b9b07edb7239b74a4fb552adf5ce489d9c9be1b521ffc58efa3d9",
+      "template_pages": 1,
+      "protocol_docx_sha256": "a869c9fa0ed27f0203d3481f41c2e3887d6d957415850dd521fcb5daf8725613",
+      "template_docx_sha256": "1d6b98a30693aafcbd641da828329cddb8a535518d83a7177c8563f3852897ba",
+      "template_pdf_sha256": "e8f5f36eb6fef78343a91ee6820cce72f3817b04fd777fd1fa6b6b1865e52b84",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-06",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "37231bda4fb48bfa9909edcb0df3b73ca46a704701cada97adc0764a2415de71",
+      "template_pages": 1,
+      "protocol_docx_sha256": "b125ef8d884c85bf624d5a12a88b96b78b6d72dcfce842536282d27989f3229a",
+      "template_docx_sha256": "19f221a9edff4f6e3385ea033f921e8a5eeb814cb0701e7ab15c74c45ae00d78",
+      "template_pdf_sha256": "efc1c942f59492755827cb4deaa75f3ea461d46b8ee004d9d6bf2bd6c7d74663",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-07",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "6ceb23c183a9f9cdd8bd7ee8815acc7cd7e2fc24ad8434132e40cedd97c14b23",
+      "template_pages": 1,
+      "protocol_docx_sha256": "4159e20b05f623142c2c805d5c3040c53731da9ff15136dc0ce3472951847b78",
+      "template_docx_sha256": "e1cef02335babe4a369d9267ca94bcec91bffe1ebf1ada4b3f68191e6ab3ff29",
+      "template_pdf_sha256": "e288380724556778ddc2e2d7163317b46ae13c6882f865413bb6f0fefef8267a",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-08",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "d43bc52224720c3cd05cef072bb9458b729bbacaee770934196a6c0f351a2ad2",
+      "template_pages": 1,
+      "protocol_docx_sha256": "d9442b2b0629447fdc92ca3aab2ee62401ea4fc8e5722c2fa61705f8cb839a7f",
+      "template_docx_sha256": "8ab76efd48d5b641f8040aaf5883a86474b19219a265ec08b335b07bd9592960",
+      "template_pdf_sha256": "a8d2ec09b485687b77136a4a8dc088044cd91ec2fe745f909934ac5b1d78a03c",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-09",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "c893777af344491c19b9373232f100871fd3d08c3d205266d0c51167854b90f8",
+      "template_pages": 1,
+      "protocol_docx_sha256": "cd4c5f28382434db82514a6529b18efef8d2ded8f42ea7b49b9667e2fb4aeacc",
+      "template_docx_sha256": "b36000fd74604c624690d32fd06d740d1b61e08e60b161a5589577e278c284ea",
+      "template_pdf_sha256": "fbd13dc88755600920b68056b9b5f6e970d5dd93576652c1ce8f79c5e73588b2",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-10",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "7131c806a0967d1e3ae39b2d7763112760ef21bac24a787e868cd52525717e28",
+      "template_pages": 1,
+      "protocol_docx_sha256": "8909ade6433133f56ded102e11e495af1da0d7bdb502c11c16348341b3bcba74",
+      "template_docx_sha256": "71eef3c2e279417088818a292025bdd01d59f720c497e125ffc5c4d4dac62922",
+      "template_pdf_sha256": "bc9dde363b2e18c143c5d774b2c9761c90d05620c6364fe25d9c8d8ba76674ec",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-11",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "fd79d5574a7961372f49b7d2062a4e52fd2ecbb60bb00ec4841c21c04a03aba5",
+      "template_pages": 1,
+      "protocol_docx_sha256": "f19137780ec1dae3752325123760ec8659f517e630803f28c3c6099ead334852",
+      "template_docx_sha256": "5e339a80479776582d068ffd3babe6d72fa943d40c7495a29f9fdb846c5c2d03",
+      "template_pdf_sha256": "9a30f06cd05e091b5f80ae63dcd043bb25e6ad116518c9a76f3e673ef2ba018d",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-12",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "d9045b25c3e1d69c12a18eb03490e82a0fc9fbf2203c72dad99c3960da2686e3",
+      "template_pages": 1,
+      "protocol_docx_sha256": "6dbfe99f20d1ea780cfb0289b3be9e869f654b4cda7088a391e6ce1bfd12f0be",
+      "template_docx_sha256": "070715a93af402299cc2eafc585c54f0087910693b3e3e8d447df926552682db",
+      "template_pdf_sha256": "2e483721c22104b31311a0f02870134f43f1172fc5670d4988979f5853b4f41e",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-13",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "c2e72bde926654a0a6bdb3c0ddf077daebc918cbbd880468e4e58f5915c15141",
+      "template_pages": 1,
+      "protocol_docx_sha256": "e00ad1e9f8a364c3e9e68f36cfabae0f0cbbc86bb515be52301636e583187e6e",
+      "template_docx_sha256": "a83014ea1a4cba679da785d7763da4f7e1c06a90c8fee53fce474ec2f83bedc7",
+      "template_pdf_sha256": "ff8f33530e19f25e3098bdb1f7e83d89ab85f19824b14bb5d9cd2814c71639ce",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-14",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "45bb3a7bd12f52ff9d02d7c711abaaa53198c9b5acd90ae84b8d53918800cd1e",
+      "template_pages": 1,
+      "protocol_docx_sha256": "070c1850b34580c4b7c3adcd19a50696223445efdb82880ae605e04e46077d05",
+      "template_docx_sha256": "6fa5d8399ed977a1e9404b759a4b06d51cb9a0380542a276b8c50fcfbc4fd7a6",
+      "template_pdf_sha256": "0cd91a7d547041a9a7c617aa03a74508fb65385efb9cf7dd56fadc54d4937b8c",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-15",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "570f0dd6784bf8352c19248d79ac9cf60bad0f8f3ce59f0e52d555b80de3d58f",
+      "template_pages": 1,
+      "protocol_docx_sha256": "bbc71e214d7009741d7a56d5f0847c128f2a7cceaf78fbf6139f0532279f69bf",
+      "template_docx_sha256": "d93b0b784773214837514c9a7763c9e5dfdab2674e91ea7f858d9a7751e399c6",
+      "template_pdf_sha256": "38601341e1f11736e3965bc51cd466b9455eeea5475e5d9f687be75226be42ad",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-16",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "f57414c247f7915a5a2880e7dd8b70e982ea274e42feb9e17271c95a165730b9",
+      "template_pages": 1,
+      "protocol_docx_sha256": "acd7248dd60fe80a123adafe4043328164f3a0e6c8f3a7adb93ea0af4ae6ec29",
+      "template_docx_sha256": "22158159fdc6f43ec6d03adeeb83de90afc335c4a15dce5a05d323cc3d87a9c3",
+      "template_pdf_sha256": "009f200881e0030756588d92d3f6589ca5ad052b4f33fd965451daf6fbf89e1a",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-17",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "5f1403534e34595d53501e455c34a509e159392567936e1b91f6e07218d17b35",
+      "template_pages": 1,
+      "protocol_docx_sha256": "803f0b241966a9dd63bbf14fd5d0cebd5de8766fbf961562578cb693e5f98b16",
+      "template_docx_sha256": "df4d148329e55eff175cede54d9c4400c1f752618fdf2183993627b42d0c8043",
+      "template_pdf_sha256": "7d0c1d163e819995842651c5cd0f50605f3b4299cd147eb0c51fd0e153ab50ab",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-18",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "f06de59b25798f24591843d7dc2cd9bedf5ccfb2314e904496fad80a91c3e0f1",
+      "template_pages": 1,
+      "protocol_docx_sha256": "b9e85ecd339babf737aba3bc01be677448d2b77633e45ef7a2faf4b731edeec9",
+      "template_docx_sha256": "12915258c7ed8cdfd98f49ffaf25856e32f6515b3d0e37775e6e25e267f72e82",
+      "template_pdf_sha256": "7aa0282142b18f800251905fffd95a2a25c02a3ac65a8a88a65ec00d443fd1f8",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-19",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "00890a7902c3840afb7b9a71c725f097df293a8b165eac8752591a9031acde6a",
+      "template_pages": 1,
+      "protocol_docx_sha256": "de3c9af78b5cecb57253906c3ba01150da266ae523d364156b90a72d2727d0b1",
+      "template_docx_sha256": "6f14d92baa7ddb69e9cf7d7babb56cd86db1e265504bfbeed107baa744ec18f2",
+      "template_pdf_sha256": "978296d8676e70cda643e1f317d074c3e82a979db3d496840706b248551bb302",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-20",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "5059780eb3921d8a78596cb9fdee49a81e0f3a8a04e2c336a30a7f7033b62744",
+      "template_pages": 1,
+      "protocol_docx_sha256": "eceaba0c487f0e685f9bcceaff901026a22f0c5bd85a00c879d360eaed570d45",
+      "template_docx_sha256": "1cacd4774aadbe5675696407a4887b6989af1beda78bfe533a86ffd2d84d47e9",
+      "template_pdf_sha256": "212eec227d2e5cac94fe01a66010f86021e09ea4f024d1061022ac96490c0459",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-21",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "b39b0503c2b2b82b935658a2efe564ff5e833d94319e01c94860fce2ff289ff7",
+      "template_pages": 1,
+      "protocol_docx_sha256": "6cd53408215874a5930bf43bd74a260d994c101ed1452acbaab4e3d41b02ec49",
+      "template_docx_sha256": "b2729abbafca3117d43c7fee8af9616ab7783f181f9db260a44d9f6da6e07239",
+      "template_pdf_sha256": "ade999ee15946b09a3eb454bc3c1640413cb9bc99dd6ff3f1baa16d5a79faed3",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-22",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "af86438f123d7de01b7b9840e1e6b20855b2f5254f87db4d43adb664c6774831",
+      "template_pages": 1,
+      "protocol_docx_sha256": "61e840445ffdf1cc9992c69b28d40aa83b2f1c176ddb69c3ced0137badb15427",
+      "template_docx_sha256": "8f72fcaf6c75f62082bda177645b7c7dac7d9b010da62a7fd6dbc2cc15a0c264",
+      "template_pdf_sha256": "9a863afc72db2cbf9a8759d496efcbbf7e4e77dd5d2d73437cd555a4ba0f6fcb",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-23",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "4ffb01c1ed5157ca619dc3b491a95fe6863ee99d84b1daabbafca87edbda4e68",
+      "template_pages": 1,
+      "protocol_docx_sha256": "27afddf2e653f33237a3d0279c16c3e4f8d50d7e617014e2c09aec0247512218",
+      "template_docx_sha256": "6fdadb8a5b17e3cb6e17391cfb8510eac9d3a2cd96340d2e781e0a078f5d0649",
+      "template_pdf_sha256": "4c01c399fef316d394b9b6e138aeb6b0b64ea9f8e892493f8bff75852f4fd05d",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-24",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "61a1931fe255658f071b4b5c4c335be9df7e91dd21a1baba8797548e9e01b87f",
+      "template_pages": 1,
+      "protocol_docx_sha256": "1191cd32d0457390f0cde002e4a296005610932507f7811f6a90a323c10b1d4b",
+      "template_docx_sha256": "352656d4a485700663858be59b648528407b5bb16cf7fc5c288b0f4ef6a3dbef",
+      "template_pdf_sha256": "289f8181357638bbfdb375dc1aac4099adf249e71a450294b67b29dd50a32cc7",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-25",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "7b37ef678110c883f13c73e2cf963062c347b7318dd8237a299b8650f4f07119",
+      "template_pages": 1,
+      "protocol_docx_sha256": "efd8e9a4f4e94c1c17f630b8691c2f295b150437238b84589c8f1a71ce58b588",
+      "template_docx_sha256": "6349d20a44cec140a8156a73220932353533fefc03067cd2325297cdd2c1a467",
+      "template_pdf_sha256": "759783d030f7ecec3962dd4a177fa98cf4ee300dceff63e50d0dd9764af9fd20",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-26",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "91a7a84ad95ccf6d17a243f3db53b3f1d3092d17d3171d180b07c1df91b52bbb",
+      "template_pages": 1,
+      "protocol_docx_sha256": "c5a0cc2b65bacc86db757920c8f68825df3050ea57370bc3c62581a3e4b85972",
+      "template_docx_sha256": "e627dc57903dcb2ee3bd288bbdfbbe981b8e44f9746fd9491f24ca85f2b58206",
+      "template_pdf_sha256": "58fd778b18ca07e4abb5034e743990a1739fe5aa15c3ba5746060d55f067e05a",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-27",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "93f80ce6c9808fc64b77af0540ec06766189ca5712db887c6a9ac571521f6745",
+      "template_pages": 1,
+      "protocol_docx_sha256": "07a6d0f62f1d4e370ff487487b4f9859d18fe9b534d381e5ca0e71183ccf9b8c",
+      "template_docx_sha256": "3b2805d35291b409a687f2d1f9f0650af8f679889daf23076758ab7f6a38a152",
+      "template_pdf_sha256": "fc9b27266fefc4d4f65df31ab645e57c2d8468060e2ce3a40e8c474d005abff6",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-28",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "cfe67490d1af3520f7a4ff548b736e8a8ca8a7d50036aacadb3ab751150709d2",
+      "template_pages": 1,
+      "protocol_docx_sha256": "f59389e08a9f9f395423b7ea21481f8149658fd96f7c8b6106e3cce7c2129776",
+      "template_docx_sha256": "c1ee6b9e873ebb827b0787f6a49336a866406919f8c0f6afaca9ad210094d434",
+      "template_pdf_sha256": "bce46a3ca21a2a2ca78e792e9ed0f07a4c9bdd0d70171c756d850fdc0934eeb4",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-29",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "b9a89da779b829cc02d57a2fabac25ee4d11143072d4b11621d86b3df28ad477",
+      "template_pages": 1,
+      "protocol_docx_sha256": "6530a6b283e0335ab2664574c55c25a32468713bb41b1d54a94c7d2571e01cb0",
+      "template_docx_sha256": "42b6e7e63d12e1baeef5ae7a65b1b7482e1c28677a98eb9fdc236eec18659ea8",
+      "template_pdf_sha256": "f9da31ece1c6a1d8d8a53222aa759cb2e6ba3f0f6a792eacef5bb86f52881391",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-30",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "afd8938511b17086b767883da0572f0da4204ed59a4c46e70b5167d4b7bcef67",
+      "template_pages": 1,
+      "protocol_docx_sha256": "7a25cf742f815c815d34949167548788066f2aabcf5c316a311692d47d9064f9",
+      "template_docx_sha256": "3713be8ec5ed9f2a0030996c341751d08cd49eabc2ede06c83202d13852f5e65",
+      "template_pdf_sha256": "2303ab5c061f157b55b3b0184313ef3c7448dbe93efd2f5f890121a9229c2812",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-31",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "409c2dafe40eaaef3b91eb43e428da653477fcaf7396bf76c4e170cc2788b7f6",
+      "template_pages": 1,
+      "protocol_docx_sha256": "76300627cee683e5c4e8e5803dfdeb64051ff2921a807b9d8b22c35b6371a503",
+      "template_docx_sha256": "0bcaa64ef4a252016426c61a9dd0fd07a76117e0e951e0aa56d184331dc4c3d7",
+      "template_pdf_sha256": "bacc79617378e9932dd2ed1be5509793fab89380f2a02ead7662c095eef9f1ee",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-32",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "9fc00ec5342066962de4c3b85718cc37eb57d0dff97a2f8e41935317f7e0455f",
+      "template_pages": 1,
+      "protocol_docx_sha256": "0ef4340e6c49d5c09ec2913e79315c22c0760f19ea9b430f14ee49d860d622ce",
+      "template_docx_sha256": "4c15519720b9db4c19cb335c8c9556743bd09fb0c4ce396a970092f72ea0d1b4",
+      "template_pdf_sha256": "aa627a1f4ff1199308a271fe59e4f77e141ff4664689267359b9aa1f734fd2a7",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-33",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "1704e657ea0ae49f4dded9fe7bbeefacff6a24dd754e5709e8ea88e1c77d1fe5",
+      "template_pages": 1,
+      "protocol_docx_sha256": "e24ce4ffcfa5c09d9a65f9b6038eed063ab49034648a414beab41c1b1f3664e5",
+      "template_docx_sha256": "c81006bc78ca6ca463fac8b269344436ed449936ae5f16254af4142ba71b2d4a",
+      "template_pdf_sha256": "e5b3417cd17379e2392267a59f5ad7d0af5cb7ec444d0a5e6cc150b45b18c203",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-34",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "ae813fce16a8a69d453b0baeaa6f8b80f3a38abfccb9a3aaedb2d745e0f1a7b2",
+      "template_pages": 1,
+      "protocol_docx_sha256": "5a394c22a0dd8761104d0d1a99cc89f191d925a47c93f0d59ee71052b0a7e25d",
+      "template_docx_sha256": "37e28d6e9069fb9d705b1e6eabafcaab1362836e08dab559b3086ab1e81ba514",
+      "template_pdf_sha256": "2880d69049b298abf05fd3f1231010d0ab4af20e03816725bc6a2ddca1ab1f88",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    },
+    {
+      "nr": "ME-35",
+      "protocol_pages": 2,
+      "protocol_pdf_sha256": "6bc636f866f6fb18c8eac77c4d6f44c7523559349db01115d82325bcc85a7ec1",
+      "template_pages": 1,
+      "protocol_docx_sha256": "5b2cb7add8600d9f152d150d96967f8b7b4e221e107efc950ac30f2f31fa7d44",
+      "template_docx_sha256": "e5d9b76b18365eeb97213a3dc22d78c1b6e9f1dba196f77235900599c2a53fed",
+      "template_pdf_sha256": "1aa22534b9c266c05bbebaa82cc67a4806bb0b6eccca46df082d0ac4620409d1",
+      "template_pdf_pages": 1,
+      "embedded_fonts": [
+        "TimesNewRomanPS-BoldMT",
+        "TimesNewRomanPS-ItalicMT",
+        "TimesNewRomanPSMT"
+      ],
+      "visual_review": "vollständig gesichtet"
+    }
+  ]
+}

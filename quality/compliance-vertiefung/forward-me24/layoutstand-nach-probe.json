@@ -1,0 +1,4 @@
+{
+  "note": "Die Probe wurde vor dem abschließenden Word-Layout-Fix ausgeführt. Die originalen Lauf- und Inputprüfsummen bleiben unverändert erhalten. Der hier bezeichnete Protokollstand enthält die später geprüfte Schriftformatierung und den expliziten Quellindex; neue Mails und ursprüngliche Aktenstücke der drei Proben blieben bytegleich. Dies ist kein zusätzlicher Modelllauf.",
+  "protocol_sha256": "1191cd32d0457390f0cde002e4a296005610932507f7811f6a90a323c10b1d4b"
+}

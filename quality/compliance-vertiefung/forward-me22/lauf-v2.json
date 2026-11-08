@@ -1,0 +1,27 @@
+{
+  "art": "Ausgeführter interner Agententest; kein Test in externer Clientoberfläche",
+  "prompt": "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md",
+  "prompt_sha256": "9a1c39688f7f8ecbcd4c6b996f5ad834f56311d90caba27350caec778cf87868",
+  "input_sha256": {
+    "01_Eingang.eml": "1be958a7b1cfb4ace352f63f155dbca59568ed74cad2edd91909bde1f1f6d574",
+    "02_Sachgrundlage.docx": "5775f19f1186844bc6f3bd3469a5f5664a606261a9bfaea015aa68d3cdfaf29f",
+    "03_Stellungnahme.eml": "0420851a4aba84adb387664fb4e052bfc73ac5c5f6ccc6dd73bcdd6897d78361",
+    "04_Datenregister.xlsx": "104688b94f06aa1e1457268bd039b18e15036e1d3413c8505229bc4f57037809",
+    "04a_Rohdaten.csv": "cb031739305f0270d6917cd69acb52e704060bcd6df507646dcc129f1e357a37",
+    "05_Registerauszug.png": "05dc8751612976417fd0ad4014c4864c9fd8c979a759ad06f372a4b23aa74cda",
+    "06_Nachtrag.pdf": "a3a3b9b08fc2eadcb85ed272cb7e93b8a8ed38582222909a5f719db54cc6eaa0",
+    "07_Besprechungsvermerk.docx": "5dfc2aac63b1c61ebae3f00237fcee9ac3ad6dc6e35393e664e936c5d3a0602f",
+    "08_Arbeitsauftrag.pdf": "ec5c51c0ba67022641ffd940ae304eb6aa93f689c9ccb0c75485c29d3c39811d",
+    "12_Ergaenzende_Stellungnahme.eml": "faac3682ea59e1eb298b418d4849b946f93e7acebc7ae74beefb81e8a5299bbe",
+    "13_Belegabgleich_und_Sicherungsstand.docx": "0fbde30f3cf5d471a577572f0abe2bd2d66aefc5c83f9d0784942b79640390fe"
+  },
+  "nachtraege": [
+    "12_Ergaenzende_Stellungnahme.eml",
+    "13_Belegabgleich_und_Sicherungsstand.docx"
+  ],
+  "fortsetzung": "Derselbe entwurf.md aus v1 wurde gezielt angepasst; entwurf-v1.md bleibt als unveränderte Vergleichsfassung erhalten.",
+  "beabsichtigter_aktenstand": "21.10.2026",
+  "output_sha256": "50455eb263a247f2904faa931e27c399aa926b0400def587f6b290cc86992256",
+  "final_output_sha256": "76a936d5cedd8fed92062b11997ebd4c1b4431da3b18b2be9019ea627739cff8",
+  "redaktionelle_gegenlese": "ME22: zu sichernde Protokolle ausdrücklich als Auftrag statt als bereits ausgeführte Sicherung formuliert."
+}
