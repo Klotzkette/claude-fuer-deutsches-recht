@@ -37,6 +37,10 @@ on:
       - 'scripts/notariat_dnoti_satz.py'
       - 'scripts/data/notariat-dnoti-anfragen.json'
       - 'testakten/notariat-berlin-*/**'
+      - 'compliance-abteilung-grosskonzern/**'
+      - 'scripts/*compliance-hameln*'
+      - 'scripts/data/compliance-hameln-vertiefung.json'
+      - 'testakten/compliance-hameln-*/**'
       - '**/*-werkstatt.md'
       - '**/*-schnellstart.md'
       - '**/*-hauptproblem.md'
@@ -113,6 +117,7 @@ jobs:
           python3 scripts/test-e-rechnung-werkstatt.py
           python3 scripts/test-notariatswerkstatt.py
           python3 scripts/test-notariat-dnoti-anfragen.py
+          python3 scripts/test-compliance-hameln.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
       - name: Paketstand bauen
         run: python3 scripts/build-compatibility-release.py --dist "$RUNNER_TEMP/dist"

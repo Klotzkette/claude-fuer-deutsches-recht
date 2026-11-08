@@ -1,26 +1,26 @@
 {
   "schema_version": 1,
   "plugin": "compliance-abteilung-grosskonzern",
-  "reviewed_on": "2026-11-04",
+  "reviewed_on": "2026-11-08",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten.",
     "changes": [
-      "Fachliche Verfahrenswege und konkreter Quellenabgleich",
-      "Prüfung der KI-Verordnung im geltenden Zeitstand",
-      "KI im Betrieb mit Organentscheidung, Fehlerzurechnung, Kompetenz, Qualifizierung und Beteiligung"
+      "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
+      "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
+      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen"
     ],
-    "sha256": "3eb77c307b2af091fb83a522e95bf28e1235601c82e220e2cc6b51467065e402"
+    "sha256": "9a1c39688f7f8ecbcd4c6b996f5ad834f56311d90caba27350caec778cf87868"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Unabhängige Gegenlese zu Quellenbezug, Startmodi, Arbeitsprodukten und Fortsetzung am Entwurf. EuGH C-634/21 ist auf seinen Bezug zur tatsächlichen Verwendung einer automatisierten Bewertung eingegrenzt.",
+    "reason": "Fachliche Gegenlese und Quellenprüfung: alle 35 Fallwege, gestufter Belegabgleich, Fristen, Entscheidungsoptionen und Fortsetzung in ausformulierten Arbeitsprodukten.",
     "changes": [
-      "Fachliche Verfahrenswege und konkreter Quellenabgleich",
-      "Prüfung der KI-Verordnung im geltenden Zeitstand",
-      "KI im Betrieb mit Organentscheidung, Fehlerzurechnung, Kompetenz, Qualifizierung und Beteiligung"
+      "Genaue Quellenfundstellen und Beweiswert gegenüber neuen Behauptungen abgrenzen",
+      "HinSchG-Fristen und Untersuchungsschutz sowie Geschäftspartner- und Kontrollprüfung vertiefen",
+      "Alle 35 Fallthemen in den eigenständigen Bearbeitungswegen berücksichtigen"
     ],
-    "sha256": "63f3cd9cf37b112928332e51bf6bec5cbf293cf32a667bdef111c44e3cbaf98f"
+    "sha256": "033d4ef3f3c085263430c704328db2bbfd138367ab0f30b7bcf3f7ea302c2633"
   },
   "sources": [
     {
@@ -267,7 +267,9 @@
         "testakten/compliance-hameln-ki-toolpilot/04_Datenregister.xlsx",
         "testakten/compliance-hameln-ki-toolpilot/06_Nachtrag.pdf",
         "testakten/compliance-hameln-ki-toolpilot/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-ki-toolpilot/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-ki-toolpilot/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-ki-toolpilot/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-ki-toolpilot/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -300,6 +302,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -314,7 +323,9 @@
         "testakten/compliance-hameln-prompt-register/04_Datenregister.xlsx",
         "testakten/compliance-hameln-prompt-register/06_Nachtrag.pdf",
         "testakten/compliance-hameln-prompt-register/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-prompt-register/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-prompt-register/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-prompt-register/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-prompt-register/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -340,6 +351,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -354,7 +372,9 @@
         "testakten/compliance-hameln-vertraulicher-testtenant/04_Datenregister.xlsx",
         "testakten/compliance-hameln-vertraulicher-testtenant/06_Nachtrag.pdf",
         "testakten/compliance-hameln-vertraulicher-testtenant/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-vertraulicher-testtenant/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-vertraulicher-testtenant/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-vertraulicher-testtenant/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-vertraulicher-testtenant/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -387,6 +407,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -401,7 +428,9 @@
         "testakten/compliance-hameln-zweite-rechnung/04_Datenregister.xlsx",
         "testakten/compliance-hameln-zweite-rechnung/06_Nachtrag.pdf",
         "testakten/compliance-hameln-zweite-rechnung/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-zweite-rechnung/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-zweite-rechnung/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-zweite-rechnung/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-zweite-rechnung/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -434,6 +463,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -448,7 +484,9 @@
         "testakten/compliance-hameln-freigabe-personalassistent/04_Datenregister.xlsx",
         "testakten/compliance-hameln-freigabe-personalassistent/06_Nachtrag.pdf",
         "testakten/compliance-hameln-freigabe-personalassistent/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-freigabe-personalassistent/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-freigabe-personalassistent/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-freigabe-personalassistent/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-freigabe-personalassistent/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -481,6 +519,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -495,7 +540,9 @@
         "testakten/compliance-hameln-schriftsatz-version/04_Datenregister.xlsx",
         "testakten/compliance-hameln-schriftsatz-version/06_Nachtrag.pdf",
         "testakten/compliance-hameln-schriftsatz-version/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-schriftsatz-version/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-schriftsatz-version/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-schriftsatz-version/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-schriftsatz-version/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -528,6 +575,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -542,7 +596,9 @@
         "testakten/compliance-hameln-retrofit-beratung/04_Datenregister.xlsx",
         "testakten/compliance-hameln-retrofit-beratung/06_Nachtrag.pdf",
         "testakten/compliance-hameln-retrofit-beratung/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-retrofit-beratung/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-retrofit-beratung/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-retrofit-beratung/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-retrofit-beratung/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -575,6 +631,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -589,7 +652,9 @@
         "testakten/compliance-hameln-meldefrist-firmware/04_Datenregister.xlsx",
         "testakten/compliance-hameln-meldefrist-firmware/06_Nachtrag.pdf",
         "testakten/compliance-hameln-meldefrist-firmware/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-meldefrist-firmware/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-meldefrist-firmware/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-meldefrist-firmware/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-meldefrist-firmware/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -622,6 +687,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -636,7 +708,9 @@
         "testakten/compliance-hameln-wartungsvertrag-redline/04_Datenregister.xlsx",
         "testakten/compliance-hameln-wartungsvertrag-redline/06_Nachtrag.pdf",
         "testakten/compliance-hameln-wartungsvertrag-redline/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-wartungsvertrag-redline/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-wartungsvertrag-redline/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-wartungsvertrag-redline/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-wartungsvertrag-redline/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -669,6 +743,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -683,7 +764,9 @@
         "testakten/compliance-hameln-sprache-im-werk/04_Datenregister.xlsx",
         "testakten/compliance-hameln-sprache-im-werk/06_Nachtrag.pdf",
         "testakten/compliance-hameln-sprache-im-werk/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-sprache-im-werk/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-sprache-im-werk/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-sprache-im-werk/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-sprache-im-werk/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -716,6 +799,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -730,7 +820,9 @@
         "testakten/compliance-hameln-training-nachtschicht/04_Datenregister.xlsx",
         "testakten/compliance-hameln-training-nachtschicht/06_Nachtrag.pdf",
         "testakten/compliance-hameln-training-nachtschicht/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-training-nachtschicht/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-training-nachtschicht/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-training-nachtschicht/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-training-nachtschicht/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -763,6 +855,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -777,7 +876,9 @@
         "testakten/compliance-hameln-kontrollen-vor-freigabe/04_Datenregister.xlsx",
         "testakten/compliance-hameln-kontrollen-vor-freigabe/06_Nachtrag.pdf",
         "testakten/compliance-hameln-kontrollen-vor-freigabe/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-kontrollen-vor-freigabe/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-kontrollen-vor-freigabe/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -810,6 +911,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -824,7 +932,9 @@
         "testakten/compliance-hameln-treffer-im-lieferantencheck/04_Datenregister.xlsx",
         "testakten/compliance-hameln-treffer-im-lieferantencheck/06_Nachtrag.pdf",
         "testakten/compliance-hameln-treffer-im-lieferantencheck/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-treffer-im-lieferantencheck/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-treffer-im-lieferantencheck/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -857,6 +967,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -871,7 +988,9 @@
         "testakten/compliance-hameln-untersuchung-servicekonto/04_Datenregister.xlsx",
         "testakten/compliance-hameln-untersuchung-servicekonto/06_Nachtrag.pdf",
         "testakten/compliance-hameln-untersuchung-servicekonto/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-untersuchung-servicekonto/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-untersuchung-servicekonto/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-untersuchung-servicekonto/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-untersuchung-servicekonto/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -904,6 +1023,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -918,7 +1044,9 @@
         "testakten/compliance-hameln-interview-und-transkript/04_Datenregister.xlsx",
         "testakten/compliance-hameln-interview-und-transkript/06_Nachtrag.pdf",
         "testakten/compliance-hameln-interview-und-transkript/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-interview-und-transkript/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-interview-und-transkript/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-interview-und-transkript/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-interview-und-transkript/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -951,6 +1079,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -965,7 +1100,9 @@
         "testakten/compliance-hameln-vorstandsreport-mit-ki/04_Datenregister.xlsx",
         "testakten/compliance-hameln-vorstandsreport-mit-ki/06_Nachtrag.pdf",
         "testakten/compliance-hameln-vorstandsreport-mit-ki/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-vorstandsreport-mit-ki/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-vorstandsreport-mit-ki/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -998,6 +1135,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1012,7 +1156,9 @@
         "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/04_Datenregister.xlsx",
         "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/06_Nachtrag.pdf",
         "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-aufsichtsrat-eigener-assistent/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1045,6 +1191,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1059,7 +1212,9 @@
         "testakten/compliance-hameln-schichttausch-kodex/04_Datenregister.xlsx",
         "testakten/compliance-hameln-schichttausch-kodex/06_Nachtrag.pdf",
         "testakten/compliance-hameln-schichttausch-kodex/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-schichttausch-kodex/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-schichttausch-kodex/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-schichttausch-kodex/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-schichttausch-kodex/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1092,6 +1247,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1106,7 +1268,9 @@
         "testakten/compliance-hameln-seriennummer-fruehwarnung/04_Datenregister.xlsx",
         "testakten/compliance-hameln-seriennummer-fruehwarnung/06_Nachtrag.pdf",
         "testakten/compliance-hameln-seriennummer-fruehwarnung/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-seriennummer-fruehwarnung/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-seriennummer-fruehwarnung/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1139,6 +1303,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1153,7 +1324,9 @@
         "testakten/compliance-hameln-vier-werke-risikobudget/04_Datenregister.xlsx",
         "testakten/compliance-hameln-vier-werke-risikobudget/06_Nachtrag.pdf",
         "testakten/compliance-hameln-vier-werke-risikobudget/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-vier-werke-risikobudget/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-vier-werke-risikobudget/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-vier-werke-risikobudget/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-vier-werke-risikobudget/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1186,6 +1359,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1200,7 +1380,9 @@
         "testakten/compliance-hameln-abendessen-messe/04_Datenregister.xlsx",
         "testakten/compliance-hameln-abendessen-messe/06_Nachtrag.pdf",
         "testakten/compliance-hameln-abendessen-messe/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-abendessen-messe/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-abendessen-messe/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-abendessen-messe/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-abendessen-messe/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1233,6 +1415,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1247,7 +1436,9 @@
         "testakten/compliance-hameln-meldung-nachtschicht/04_Datenregister.xlsx",
         "testakten/compliance-hameln-meldung-nachtschicht/06_Nachtrag.pdf",
         "testakten/compliance-hameln-meldung-nachtschicht/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-meldung-nachtschicht/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-meldung-nachtschicht/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-meldung-nachtschicht/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-meldung-nachtschicht/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1280,6 +1471,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1294,7 +1492,9 @@
         "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/04_Datenregister.xlsx",
         "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/06_Nachtrag.pdf",
         "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-wartungsvertrag-doppelbuchung/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1327,6 +1527,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1341,7 +1548,9 @@
         "testakten/compliance-hameln-vertriebspartner-marktstart/04_Datenregister.xlsx",
         "testakten/compliance-hameln-vertriebspartner-marktstart/06_Nachtrag.pdf",
         "testakten/compliance-hameln-vertriebspartner-marktstart/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-vertriebspartner-marktstart/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-vertriebspartner-marktstart/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-vertriebspartner-marktstart/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1374,6 +1583,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1388,7 +1604,9 @@
         "testakten/compliance-hameln-zukauf-schaltservice/04_Datenregister.xlsx",
         "testakten/compliance-hameln-zukauf-schaltservice/06_Nachtrag.pdf",
         "testakten/compliance-hameln-zukauf-schaltservice/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-zukauf-schaltservice/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-zukauf-schaltservice/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-zukauf-schaltservice/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-zukauf-schaltservice/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1421,6 +1639,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1435,7 +1660,9 @@
         "testakten/compliance-hameln-bericht-zwischen-sitzungen/04_Datenregister.xlsx",
         "testakten/compliance-hameln-bericht-zwischen-sitzungen/06_Nachtrag.pdf",
         "testakten/compliance-hameln-bericht-zwischen-sitzungen/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-bericht-zwischen-sitzungen/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-bericht-zwischen-sitzungen/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1468,6 +1695,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1482,7 +1716,9 @@
         "testakten/compliance-hameln-kampagne-werkstattdialog/04_Datenregister.xlsx",
         "testakten/compliance-hameln-kampagne-werkstattdialog/06_Nachtrag.pdf",
         "testakten/compliance-hameln-kampagne-werkstattdialog/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-kampagne-werkstattdialog/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-kampagne-werkstattdialog/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-kampagne-werkstattdialog/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1515,6 +1751,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1529,7 +1772,9 @@
         "testakten/compliance-hameln-wirksamkeit-nachtest/04_Datenregister.xlsx",
         "testakten/compliance-hameln-wirksamkeit-nachtest/06_Nachtrag.pdf",
         "testakten/compliance-hameln-wirksamkeit-nachtest/07_Besprechungsvermerk.docx",
-        "testakten/compliance-hameln-wirksamkeit-nachtest/08_Arbeitsauftrag.pdf"
+        "testakten/compliance-hameln-wirksamkeit-nachtest/08_Arbeitsauftrag.pdf",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-wirksamkeit-nachtest/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1562,6 +1807,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1581,7 +1833,9 @@
         "testakten/compliance-hameln-vorstand-freigabefenster/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-vorstand-freigabefenster/09_Besprechungsfolien.pptx",
         "testakten/compliance-hameln-vorstand-freigabefenster/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-vorstand-freigabefenster/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-vorstand-freigabefenster/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-vorstand-freigabefenster/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-vorstand-freigabefenster/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1607,6 +1861,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1625,7 +1886,9 @@
         "testakten/compliance-hameln-freigabehaken-im-service/07_Besprechungsvermerk.docx",
         "testakten/compliance-hameln-freigabehaken-im-service/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-freigabehaken-im-service/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-freigabehaken-im-service/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-freigabehaken-im-service/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-freigabehaken-im-service/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-freigabehaken-im-service/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1651,6 +1914,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1669,7 +1939,9 @@
         "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/07_Besprechungsvermerk.docx",
         "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-offenes-fenster-fuer-stuecklisten/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1695,6 +1967,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1713,7 +1992,9 @@
         "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/07_Besprechungsvermerk.docx",
         "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-pflichtbetrieb-ohne-ausgang/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1739,6 +2020,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1758,7 +2046,9 @@
         "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/09_Besprechungsfolien.pptx",
         "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-freie-stelle-nach-dem-kurs/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1784,6 +2074,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1802,7 +2099,9 @@
         "testakten/compliance-hameln-montageinsel-sozialplan/07_Besprechungsvermerk.docx",
         "testakten/compliance-hameln-montageinsel-sozialplan/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-montageinsel-sozialplan/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-montageinsel-sozialplan/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-montageinsel-sozialplan/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-montageinsel-sozialplan/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-montageinsel-sozialplan/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1828,6 +2127,13 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     },
@@ -1847,7 +2153,9 @@
         "testakten/compliance-hameln-personalscore-vor-start/08_Arbeitsauftrag.pdf",
         "testakten/compliance-hameln-personalscore-vor-start/09_Besprechungsfolien.pptx",
         "testakten/compliance-hameln-personalscore-vor-start/10_Beleg_10.pdf",
-        "testakten/compliance-hameln-personalscore-vor-start/11_Beleg_11.pdf"
+        "testakten/compliance-hameln-personalscore-vor-start/11_Beleg_11.pdf",
+        "testakten/compliance-hameln-personalscore-vor-start/12_Ergaenzende_Stellungnahme.eml",
+        "testakten/compliance-hameln-personalscore-vor-start/13_Belegabgleich_und_Sicherungsstand.docx"
       ],
       "deliverables": [
         "Entwurf.docx"
@@ -1873,18 +2181,26 @@
           "deliverables": [
             "Entwurf.docx"
           ]
+        },
+        {
+          "id": "nachtragsabgleich",
+          "text": "Prüft die ergänzende Stellungnahme 12 und den Sicherungsstand 13 an den benannten Originalbelegen. Neue Darstellungen werden nicht allein wegen ihrer späteren Datierung als erwiesen behandelt; der vorhandene Entwurf wird nur anhand begründeter Feststellungen geändert.",
+          "deliverables": [
+            "Entwurf.docx"
+          ]
         }
       ]
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-11-04",
+    "date": "2026-11-08",
     "files": [
       "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md",
       "compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md",
-      "compliance-abteilung-grosskonzern/references/zitierweise.md"
+      "compliance-abteilung-grosskonzern/references/zitierweise.md",
+      "testakten/megaprompts/compliance-abteilung-grosskonzern.md"
     ],
-    "opening_change": "Auftrag der Fachabteilung, konkretes Arbeitsprodukt und Entscheidungen aus der Akte an den Anfang gestellt.",
+    "opening_change": "Konkretes bestelltes Arbeitsprodukt und begrenzten EuGH-Anker vor Rollen- und Quellenprüfungen gestellt; alle 35 Fallwege mit fallbezogenen Entscheidungskriterien erfasst.",
     "norms": [
       "Art. 22 DSGVO",
       "Art. 4, 5, 6, 14, 26, 111 und 113 KI-Verordnung",
@@ -1899,19 +2215,19 @@
       }
     ],
     "remaining_limits": [
-      "Redaktionelle Prüfung der Prompts und Fallunterlagen. Ausführung in einer konkreten Modelloberfläche nicht gemessen."
+      "Redaktionelle Quellen- und Verfahrensprüfung; keine umfassende Modellmessung aller 35 Fälle oder aller Zieloberflächen. Gesonderte Forward-Tests werden als solche dokumentiert."
     ]
   },
   "prompt_workflow_review": {
-    "date": "2026-11-04",
+    "date": "2026-11-08",
     "method": "desk_review",
     "opening_modes": [
       "Leerstart mit vier fachlichen Entscheidungen",
       "Dateien ohne Auftrag vor der gezielten Frage lesen",
       "Bei klarem Auftrag sofort das bestellte Arbeitsprodukt bearbeiten"
     ],
-    "continuation": "Der Nachtrag ändert Belegmatrix, Kennzahl und Entscheidung im vorhandenen Entwurf.",
+    "continuation": "Stücke 12 und 13 gegen benannte Originalbelege prüfen, abweichende Sichtweise und bestätigte Tatsache auseinanderhalten, vorhandenen Entwurf gezielt fortschreiben.",
     "enrichment": "Quellenprüfung und Freigabe mit getrennten Rollen, Widersprüchen und neuen Belegen geprobt.",
-    "limits": "Desk Review mit Aktenbeispielen. Keine Testausführung in einem Live-Client."
+    "limits": "Desk Review aller Bearbeitungswege; gesonderte praktische Stichproben ersetzen keine Modellmessung aller Akten."
   }
 }

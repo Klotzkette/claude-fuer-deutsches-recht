@@ -1,0 +1,38 @@
+From: Produktsicherheit =?utf-8?q?=C2=B7?= Incidentkoordination
+ <produktsicherheit@merrensteg.example>
+To: =?utf-8?q?Fallf=C3=BChrung?= Recht und Compliance
+ <fallfuehrung@merrensteg.example>
+Subject: ME-08 | Bekanntwerden des Vorfalls und betroffene Firmware
+Date: Wed, 21 Oct 2026 10:18:00 +0200
+Message-ID: <me-08.fortsetzung.2026-10-21@merrensteg.example>
+In-Reply-To: <me-08.12@merrensteg.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Guten Tag,
+
+Bitte f=C3=BChren Sie die Meldung vom 9. Oktober um 08.40 Uhr und den best=C3=
+=A4tigten Kundenvorfall vom 18. Oktober um 20.16 Uhr als unterschiedliche Ere=
+ignisse. Die fr=C3=BChere Meldung beschreibt eine ver=C3=B6ffentlichte Angrif=
+fsmethode; die sp=C3=A4tere enth=C3=A4lt einen dokumentierten Zugriff auf ein=
+en C18 mit Firmware 3.7. Das ist kein Grund, die erste Nachricht aus der Kenn=
+tnispr=C3=BCfung zu streichen. Ihre Aussagekraft muss aber aus ihrem Inhalt f=
+olgen.
+
+Die Mail um 22.02 Uhr ist als zugestellt vermerkt. Der Zeitpunkt der fachlich=
+en Pr=C3=BCfung ist nicht nachgewiesen. Bitte ermitteln Sie zun=C3=A4chst Pos=
+tfachzust=C3=A4ndigkeit und Bereitschaftsweg, statt die Frist ohne Erkl=C3=A4=
+rung mit dem n=C3=A4chsten Morgen beginnen zu lassen. Die Reproduktion am 19.=
+ Oktober ist wiederum ein eigener Best=C3=A4tigungsschritt.
+
+F=C3=BCr H40 ist keine Software dokumentiert. D5 ist gesondert lizenziert; ei=
+ne Komponentenliste fehlt. F=C3=BCr C18 Version 3.8 fehlt der Ausschluss des =
+gleichen Mechanismus. Wir brauchen eine nach Produkt und Erkenntnisstand gegl=
+iederte Entscheidung mit alternativen Kenntniszeitpunkten. Ein aus dem Monito=
+r =C3=BCbernommenes einheitliches Datum darf diese Pr=C3=BCfung nicht ersetze=
+n.
+
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Produktsicherheit =C2=B7 Incidentkoordination
+Merrensteg Elektrosysteme SE =C2=B7 Hameln

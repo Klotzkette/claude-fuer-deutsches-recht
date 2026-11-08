@@ -1,0 +1,241 @@
+{
+  "reviewed_utc": "2026-11-08T03:29:08.964816+00:00",
+  "reviewer": "/root/compliance_prompts",
+  "scope": "Unabhängige fachliche Gegenlese aller35neuenMailrecords vorKorrektur, nurBericht;keineMutationvonRepoquellen.",
+  "input_source_sha256": "9ad0e79f393c70de4433ee7e571fb4936078d282abc8488eaef8ff95f6210868",
+  "coverage": [
+    {
+      "case": "ME-01",
+      "date": "2026-10-21",
+      "result": "Quellenmodul 6 × 3.600 = 21.600 EUR; zwölfwöchiger Zweikontentest nicht mit Jahresangebot verwechselt. H2 zehn vollständige Antworten und acht Minuten Median zutreffend."
+    },
+    {
+      "case": "ME-02",
+      "date": "2026-10-21",
+      "result": "P03 ohne Registerkennung und P04 in zwei privaten Kopien korrekt. 51 Antworten nicht als Personen gezählt."
+    },
+    {
+      "case": "ME-03",
+      "date": "2026-10-21",
+      "result": "Zugangsvarianten und unterschiedliche Protokollarten offen gehalten; Hash-Präfix kein Vollinhaltsbeweis. AV-Unterschrift nicht rückdatiert."
+    },
+    {
+      "case": "ME-04",
+      "date": "2026-10-21",
+      "result": "18.460 EUR je Importzeile, G11 und nur ein Bankabgang korrekt. Abweichende Prüfsumme und Referenz XK 417/26 nicht als Inhaltsfälschung oder Gerichtsnachweis behauptet."
+    },
+    {
+      "case": "ME-05",
+      "date": "2026-10-21",
+      "result": "Zwölf Testbeispiele, elf Markierungen, Produktivwunsch142 und laufender Tarif richtig getrennt. Schreibrecht bis Monatsende belegt."
+    },
+    {
+      "case": "ME-06",
+      "date": "2026-10-21",
+      "result": "A8 als zugegangene Zuarbeit von anderer Gerichts-PDF getrennt. Zwei fragliche Referenzen nicht als eingereicht behauptet; Seite3-Schichttausch korrekt."
+    },
+    {
+      "case": "ME-07",
+      "date": "2026-10-21",
+      "result": "Temperatur- und Geräteangaben korrekt; Fristproblem siehe Befund."
+    },
+    {
+      "case": "ME-08",
+      "date": "2026-10-21",
+      "result": "09.10.08:40,18.10.20:16,22:02 und Reproduktion19.10 getrennt. H40/C18/D5 sowie3.7/3.8 korrekt; keine CRA-Frist als einheitliche Lösung in neuer Mail behauptet."
+    },
+    {
+      "case": "ME-09",
+      "date": "2026-10-21",
+      "result": "48/12/8/4Stunden mit unterschiedlichen Auslösern sowie18600EUR und zwei Produktfamilien korrekt; ununterzeichnete Nachtragsverhandlung bleibt offen."
+    },
+    {
+      "case": "ME-10",
+      "date": "2026-10-21",
+      "result": "CE14R3/GL02R2/R4,60EUR,Sprachverschiebungen und18Uhr-Vertretung korrekt. Veröffentlichung22.10 passtzur Mail21.10."
+    },
+    {
+      "case": "ME-11",
+      "date": "2026-10-21",
+      "result": "418Zertifikate,elfDoppellogins,siebenMigrationen,vierPapierübungen,neunNachstichtagseintritte,42Externe und16Nachtschichtkräfte korrekt. Überschneidungen nicht doppelt abgezogen."
+    },
+    {
+      "case": "ME-12",
+      "date": "2026-10-21",
+      "result": "13:15→13:42=27Minuten;14900+13000=27900EUR;E2zweiUnterschriftenundBestellgruppenfragezutreffend offen."
+    },
+    {
+      "case": "ME-13",
+      "date": "2026-10-21",
+      "result": "RegisterkennungGrabenwacht/GR34,Ähnlichkeit92,andererZahlungsabwickler,Halle7,7.8ProzentunddreiTage zutreffend. AbgeschlosseneLieferketten-/Sanktionsprüfung nichtbehauptet."
+    },
+    {
+      "case": "ME-14",
+      "date": "2026-10-21",
+      "result": "6×9800=58800,4×9800=39200,2×9800=19600EUR;R603/R606Bereitschaftbelegt. RelativesFristproblem sieheBefund."
+    },
+    {
+      "case": "ME-15",
+      "date": "2026-10-21",
+      "result": "09:04:17vor09:06:02,09:14Negation,unbestätigterTonexport undStimmungsfeld korrekt. FehlendeEinwilligung nichtdurchNichtwiderspruchersetzt."
+    },
+    {
+      "case": "ME-16",
+      "date": "2026-10-21",
+      "result": "Stichtag30.09.18Uhr,Schließungen01.10,Dubletten29.09,75/72/siebenNachtestsund20+3+2Stunden korrekt. FehlendesWerkprotokollnichtnullgesetzt."
+    },
+    {
+      "case": "ME-17",
+      "date": "2026-10-21",
+      "result": "86Seiten-Paket,Boardportalnochinaktiv,TestumgebungundPrivatkontoöffentlich korrekt. Interessenkonflikt nichtpauschalAusschlussgrund."
+    },
+    {
+      "case": "ME-18",
+      "date": "2026-10-21",
+      "result": "05.10Unterweisung,06.10Entwurf,07.10.16:12Betreff,08.10Freigabe und87/82Punkte korrekt. KenntnisundKausalität offen."
+    },
+    {
+      "case": "ME-19",
+      "date": "2026-10-21",
+      "result": "Log04.10/Fußzeile06.10 sowie Messblattgrenzen korrekt; BegriffAusdruck/Erstellung verändert sieheBefund."
+    },
+    {
+      "case": "ME-20",
+      "date": "2026-10-21",
+      "result": "Risikoscores60/64/45/48 richtig;zwölfDubletten,fünfVorführkontakte,17Protokolltage,320Stunden und19Verträgevor31.01 korrekt. KeineautomatischePunktwertkorrektur."
+    },
+    {
+      "case": "ME-21",
+      "date": "2026-10-21",
+      "result": "96/70/52EUR,offenerAbrufbisMontag,AnsprechpartnerrolleundneutralerTechnikslot korrekt. Stornofenster falschaktualisiert sieheBefund."
+    },
+    {
+      "case": "ME-22",
+      "date": "2026-10-21",
+      "result": "Eingang12.10.06:42/Bestätigung19.10,vierLose/zweiKontrollen,vier→zweiSchichten korrekt. Rückmeldungnichtinternerledigung;keinfinalerRepressalienbefund."
+    },
+    {
+      "case": "ME-23",
+      "date": "2026-10-21",
+      "result": "18760EURausgeführtund18760inFreigabegetrennt;SuffixBNovemberunerbracht;7Stundenund10Minuten-Logfenster korrekt. KeineLöschungdesBelegs."
+    },
+    {
+      "case": "ME-24",
+      "date": "2026-10-21",
+      "result": "Schulung3×1600=4800EUR,Messe9800EUR,8Prozentmit1.5ProzentpunktenunddreiGesellschaftenstimmig. UnbenannteUnterleistung/Treuhandoffengehalten."
+    },
+    {
+      "case": "ME-25",
+      "date": "2026-10-21",
+      "result": "37ProzentZielumsatz,11Rechnungen176000EUR,3LeistungsnachweiseB,64000Drittzahlung,Kontrollwechselkündigung undVorvollzugsgrenzen richtig zugeordnet."
+    },
+    {
+      "case": "ME-26",
+      "date": "2026-10-21",
+      "result": "ZweiMilliardenKonzernerlösnichtalleinmaßgeblich,TochterzweiZusatzverträge,vertraulicherKontaktundnichtbenannteVertretung stimmig. KünftigerSchadennichtalseingetretenbehauptet."
+    },
+    {
+      "case": "ME-27",
+      "date": "2026-10-21",
+      "result": "27/45ohneKarte,41/50mitKarte,8ohneFormular,636/710Büroprofileund6/10Partner korrekt. UnterschiedlicheGruppenkeineLängsschnittverbesserung."
+    },
+    {
+      "case": "ME-28",
+      "date": "2026-10-21",
+      "result": "588/600=98Prozent;460externeZahlungen;26fehlendeZeitangaben;4/24Risikoausnahmen;geplanterNachtest30 korrekt. KeineHochrechnungoderfertigerWirksamkeitsnachweis."
+    },
+    {
+      "case": "ME-29",
+      "date": "2026-10-21",
+      "result": "48Standard/12Alt,2elektrischinkompatibleFälle,47+61=108Minuten,63000EURPilot,3MonateAltweg undErweiterungsoption korrekt. Median-Deltabegriff präzisieren."
+    },
+    {
+      "case": "ME-30",
+      "date": "2026-10-21",
+      "result": "Z65v2,Z68v3→Nachtjob19:01v1→Versand19:03v1,AushändigungerstnachZ68 korrekt. TechnischeVersandbestätigung imWortlautpräzisieren."
+    },
+    {
+      "case": "ME-31",
+      "date": "2026-10-21",
+      "result": "42Zeilen,zweiKontaktadressen,12.10Alarm/Selbstmeldung,13.10Screenshot,19.10Journal,BR3/Standard6 undKenntniswege korrekt. KeinöffentlichesVerbreitenbehauptet."
+    },
+    {
+      "case": "ME-32",
+      "date": "2026-10-21",
+      "result": "Nachtprofil21–06ohneHelpdesk,keinezweitePrüfbefugnis,manuellerAbgleichnach3Tagenabgeschaltet und10MinutenLogintraining korrekt. KeinebestätigteSanktionstatbehauptet."
+    },
+    {
+      "case": "ME-33",
+      "date": "2026-10-21",
+      "result": "QS-P1Budget19.10/Start01.02.2027, Kurs09.11–18.12.2026,23Rückläufer/11Fehlernichtaddiert,QS-P2ungenehmigt,Klages/Sölter korrekt."
+    },
+    {
+      "case": "ME-34",
+      "date": "2026-10-21",
+      "result": "R6/P2/P3,3Teams,19Dauerwechsel,14Zulagen/4falscheSätze,17Diagnosezugang,44Minutenund2KursevorJanuar mitOriginal10/11abgeglichen."
+    },
+    {
+      "case": "ME-35",
+      "date": "2027-12-21",
+      "result": "Mail21.12.2027,Erklärung18.12,Override15.12,V3vom11.11,V4vom08.12,Schwelle58,Test21.12/Betriebsrat22.12 korrekt. KeinvorzeitigerBestandsfallschluss."
+    }
+  ],
+  "findings": [
+    {
+      "case": "ME-07",
+      "severity": "Fehler",
+      "new_location": "mail.paragraphs[2]",
+      "issue": "Die Mail vom21.10.2026 verlangt Antwort vor dem angekündigten Ersatzbeschaffungstermin.",
+      "original": "06_Nachtrag.pdf,Seite1,letzterSatz,Datum19.10.2026: Ersatzbeschaffung bis zum nächsten Mittag (20.10.).",
+      "correction": "AbgelaufenenTerminbeachtenundStandderErsatzbeschaffungerfragen;keineunbelegteFristverlängerung."
+    },
+    {
+      "case": "ME-14",
+      "severity": "ChronologischerKlärungsbedarf",
+      "new_location": "mail.paragraphs[2]",
+      "issue": "Mail21.10setztVorhaltefristamFreitagwiederalskünftigvoraus.",
+      "original": "02_Sachgrundlage.docx,Hauptabsatz,Datum13.10.2026: VorhaltezeitHalle4endetamFreitag,naheliegend16.10.2026.",
+      "correction": "AktuellesabsolutesFristdatumundtatsächlichenErhaltungsstandklären;nichtstillschweigend23.10unterstellen."
+    },
+    {
+      "case": "ME-19",
+      "severity": "Fehler",
+      "new_location": "mail.paragraphs[0]",
+      "issue": "AnbieterbestätigungwirdvonAusdruckenaufErstellungenumgedeutet.",
+      "original": "06_Nachtrag.pdf,Seite1,Satz1: falscheFeldzuordnungnurfürAusdruckevom28.Septemberbis4.Oktober.",
+      "correction": "OriginalbegriffAusdruckeerhalten;ReichweitefürDatenerzeugung/Exportgezieltoffenhalten."
+    },
+    {
+      "case": "ME-21",
+      "severity": "Fehler",
+      "new_location": "mail.paragraphs[0]",
+      "issue": "Mail21.10wiederholtnochheutekostenfreiesÄnderungsfensterohneNeuevidenz.",
+      "original": "06_Nachtrag.pdf,Seite1,vorletzterSatz,Datum19.10.2026: Reservierungkannnochheutefreigeändertwerden.",
+      "correction": "Fenstervom19.10alsabgelaufenbehandelnundaktuellenStornierungsstanderfragen."
+    },
+    {
+      "case": "ME-29",
+      "severity": "Präzisierung",
+      "new_location": "mail.paragraphs[0]",
+      "issue": "VierMinutenMediankönnenalsabsoluteBearbeitungszeitmissverstandenwerden.",
+      "original": "02_Sachgrundlage.docx,Hauptabsatz:ZeitersparnisvierMinutenMedian48Standardfälle;04a_Rohdaten.csv,Standardzeile,MedianDelta.",
+      "correction": "Median-ZeitersparnisvonvierMinuten."
+    },
+    {
+      "case": "ME-30",
+      "severity": "Präzisierung",
+      "new_location": "mail.paragraphs[2]",
+      "issue": "AusgangskontrollenurbeiAblehnungenistmehrdeutiggegenüberderArbeitsanweisung.",
+      "original": "10_Beleg_10.pdf,Seite1,letzterSatz: Bei negativer Versandbestätigung kontrolliert dieDisposition dasAusgangsjournal.",
+      "correction": "DenBegriffnegativeVersandbestätigungübernehmenundnichtinhaltlicheAblehnungunterstellen."
+    }
+  ],
+  "limits": [
+    "Alle35neuenMailtexte vollständig gelesen und mitOriginal02/03/04a/06/07 verglichen;ME29–35zusätzlich10/11OriginalPDF. WeitereEingangsmailsauftragsbezogengelesen.",
+    "PNGME24imForwardtesttatsächlichvisuellgeprüft;dieübrigenScreenshotsindiesemgesondertenDurchlaufnichtvisuellgeprüft. XLSXME24imForwardtestvollständig;fürdieübrigenFälleCSVOriginaldatengelesen.",
+    "KeineNachbesprechungundkeinequality/evalsRubrikfürdieseGegenleseverwendet.",
+    "NeueMailssindfallinterneErklärungen,nichtunabhängigeBestätigungallererwähntenPrimärbelege. NichtgelieferteOriginalvertrags-/Bank-/Register-/Messunterlagen wurdennichtalsgeprüftbehauptet.",
+    "KeineausgeschriebenejuristischeMusterlösungoderabschließendeSchuldzuweisungalsneueQuellefestgestellt. EinzelneinternedidaktischePrüfaufträgesinddeutlich,aberalsFragenundGegenbefundeeingebettet.",
+    "RechtsfolgenhierkeineneueVollrecherche;KI-VOZeitstandundHinSchGbereitsimPromptauftragamtlichverifiziert. ME08MailnenntkeineCRAStichtagslösung,sonderndiekorrektenTatsachenauslöser."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "original_documents_unchanged": 338,
+  "new_documents": 70,
+  "native_documents": 408,
+  "word_templates": 35,
+  "combined_pdf_pages": 452,
+  "cases": 35,
+  "release_assets": 113,
+  "reproducible_native_outputs": 105,
+  "component_tests": {
+    "command": "scripts/test-compliance-hameln.py --dist <Releaseverzeichnis>",
+    "tests": 6,
+    "skipped": 0,
+    "result": "passed"
+  },
+  "agent_samples": {
+    "cases": [
+      "ME-22",
+      "ME-24",
+      "ME-28"
+    ],
+    "method": "interne Agentenstichproben mit getrennten Basis- und Fortschreibungsfassungen; vor abschließender Word-Layoutkorrektur",
+    "limits": "Keine Gesamtausführung aller 35 Fälle und keine Messung einer externen Pluginoberfläche. Ein missverständlicher Sicherungssatz bei ME-22 wurde bei der Gegenlese korrigiert und die Ursprungsfassung erhalten."
+  },
+  "visual_review": {
+    "old_docx_pdf_pages": 70,
+    "new_protocol_pages": 70,
+    "template_pages": 35,
+    "new_email_pages": 35,
+    "reports": [
+      "alt-docx-qa.json",
+      "docx-qa.json",
+      "mail-qa.json"
+    ]
+  },
+  "release_download_verification": "Wird erst nach Veröffentlichung separat bestätigt."
+}
