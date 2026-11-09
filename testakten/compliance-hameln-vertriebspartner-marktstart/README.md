@@ -24,8 +24,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-vertriebspartner-marktstart_gesamt.pdf`](gesamt-pdf/compliance-hameln-vertriebspartner-marktstart_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vertriebspartner-marktstart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-vertriebspartner-marktstart.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vertriebspartner-marktstart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-vertriebspartner-marktstart-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-vertriebspartner-marktstart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vertriebspartner-marktstart.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-vertriebspartner-marktstart-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-vertriebspartner-marktstart-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -52,7 +52,13 @@ English: The original-format ZIP contains the working files directly at archive 
 - [12_Ergaenzende_Stellungnahme.eml](12_Ergaenzende_Stellungnahme.eml)
 - [13_Belegabgleich_und_Sicherungsstand.docx](13_Belegabgleich_und_Sicherungsstand.docx)
 
+- [14_Lokaleinkauf_Getrennte_Beauftragung.eml](14_Lokaleinkauf_Getrennte_Beauftragung.eml)
+- [15_Varianten_Leistung_und_Zahlung.docx](15_Varianten_Leistung_und_Zahlung.docx)
+- [16_Variantenregister_ME24.csv](16_Variantenregister_ME24.csv)
+
 Die ergänzende Stellungnahme und das Beleg- und Sicherungsprotokoll bilden eine weitere Bearbeitungsrunde. Prüfen Sie ihre Angaben an den benannten ursprünglichen Dateien und überarbeiten Sie das bisherige Arbeitsergebnis nur dort, wo die Beleglage es trägt.
+
+Für die letzte Bearbeitungsrunde reichen Sie Stücke 14 bis 16 zusammen mit dem bisherigen Entwurf nach. Entscheiden Sie getrennt über die vorliegenden Vertragsfassungen und Zahlungswege. Schreiben Sie die fehlenden Nachweise und die Bedingungen für eine erneute Vorlage aus. Nutzen Sie dazu den [eigenständigen Fachskill](../../compliance-abteilung-grosskonzern/skills/geschaeftspartner-freigabe-entscheiden/SKILL.md).
 
 ## 3 Bearbeitbare Vorlage
 

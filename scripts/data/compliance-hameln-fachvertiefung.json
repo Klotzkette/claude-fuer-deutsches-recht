@@ -1,0 +1,678 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "nr": "ME-22",
+      "slug": "compliance-hameln-meldung-nachtschicht",
+      "documents": [
+        {
+          "filename": "14_Meldestelle_Schutzpruefung.eml",
+          "from_name": "Meldestelle · Geschützte Fallführung",
+          "from_email": "meldestelle@merrensteg.example",
+          "to_email": "fallfuehrung@merrensteg.example",
+          "date": "2026-10-26T10:42:00+01:00",
+          "subject": "ME-22 · Neue Portalnachricht und verbindlicher Novemberplan",
+          "paragraphs": [
+            "Guten Tag,",
+            "Seit heute liegt im geschützten Postkorb eine weitere Nachricht der hinweisgebenden Person vor. Sie führt die Verringerung ihrer Nachtschichten jetzt ausdrücklich auf ihre Meldung zurück. Bis dahin hatte sie die Folge befürchtet. Für die Bearbeitung außerhalb der Meldestelle verwenden wir den fallbezogenen Schlüssel Z-17.",
+            "Die Disposition hat aus dem Entwurf inzwischen einen freigegebenen Novemberplan gemacht. Die Bedarfsmeldung des Kunden vom 8. Oktober bezieht sich auf zwei damals noch unbesetzte Reservetermine. Ob und weshalb sie später auf die vier bereits vorgemerkten Termine von Z-17 angewandt wurde, bleibt offen. Die zuständige Sachbearbeitung hat vor der Planfreigabe im Dispositionssystem einen Frei-Wunsch gesehen. Die ursprüngliche Erklärung hierzu liegt nicht vor.",
+            "Im Anhang stehen die Beleggrenzen zu Portal, Schichtplanung und Losen. Bitte prüfen Sie die unverzügliche Sicherung der verbleibenden Prüfprotokolle, den geschützten Rückmeldeweg und die Möglichkeit, bis zur unabhängigen Personalprüfung Ersatzschichten zu reservieren. Für den technischen Suchauftrag reichen Loskennung, Prüfschritt und benötigter Auszug.",
+            "Mit freundlichen Grüßen\nMeldestelle · Geschützte Fallführung\nMerrensteg Elektrosysteme SE · Hameln"
+          ],
+          "attachments": [
+            "15_Vermerk_Portal_Disposition_Lose.docx",
+            "16_Ereignisauszug_ME22.csv"
+          ],
+          "reply_to": "12_Ergaenzende_Stellungnahme.eml"
+        },
+        {
+          "filename": "15_Vermerk_Portal_Disposition_Lose.docx",
+          "title": "Sicherungsnotiz zu Portal Disposition und Losen",
+          "issuer": "Meldestelle · Beschränkter Fallkreis",
+          "date": "2026-10-26",
+          "sections": [
+            {
+              "heading": "1 Portal und Kontakt",
+              "paragraphs": [
+                "Der Export des geschützten Postkorbs nennt am 19. Oktober für die Bestätigung eine Freigabe um 12.38 Uhr und eine Bereitstellung um 12.43 Uhr. Der Postkorb war danach abrufbar. Die erste Öffnung ist für den 20. Oktober um 08.17 Uhr erfasst. Das System protokolliert eine Öffnung des Eintrags, aber keine weitere Handlung der lesenden Person.",
+                "Der Eintrag vom 26. Oktober um 08.51 Uhr enthält im Original die Aussage, die Schichten seien wegen der Meldung gekürzt worden. Der vorliegende Auszug lässt Identität, genauen Schichttag im September und den Inhalt der beigefügten Bilder aus. Die Meldestelle verwahrt die Zuordnung zu Z-17 separat."
+              ]
+            },
+            {
+              "heading": "2 Bedarfsnachricht und Planfreigabe",
+              "paragraphs": [
+                "Der Kunde bat am 8. Oktober darum, zwei noch unbesetzte Reservetermine aus dem Planbereich für November zu nehmen. Die Anlage zu dieser Nachricht enthielt keine Personalzuordnung. Bedarfsversion A vom 9. Oktober enthielt für Z-17 weiterhin vier vorgemerkte Termine. Am 14. Oktober wurden zwei dieser Vormerkungen unter dem Dispositionskonto D-18 entfernt. Das System hält einen Frei-Wunsch als Änderungsgrund fest. Es enthält keine Erklärung der Person und bildet die handelnde natürliche Person beim gemeinsam genutzten Konto nicht ab.",
+                "Der Einsatzdienst gab am 23. Oktober den Plan mit zwei Nachtschichten frei. Eine Beschäftigte mit gleicher Qualifikationsgruppe behielt vier Vormerkungen. Deren Einsatzbereich umfasst auch einen anderen Lagerabschnitt. Die Zuordnung erklärt deshalb noch nicht, ob beide Personen bei der Änderung nach gleichen Kriterien behandelt wurden.",
+                "Die Disposition kann zwei achtstündige Ersatzschichten bis zum 28. Oktober reservieren. Für eine tatsächlich geleistete zuschlagsfähige Stunde nennt die Entgeltliste 3,20 Euro Nachtzuschlag. Die Vormerkungen aus Version A sind keine Bestätigung eines bereits entstandenen Zahlungsanspruchs."
+              ]
+            },
+            {
+              "heading": "3 Sachprüfung der Lose",
+              "paragraphs": [
+                "Von den vier in der Meldung genannten Losen betrafen L-S04 und L-S09 die bereits vermerkten Prüfungen. Zu L-S11 liegt nun ein Ereignisjournal vor. Es zeigt einen Sammelimport nach dem Serverausfall und einen neu geschriebenen Prüfvermerk. Eine Benutzerkennung für die ursprüngliche Freigabe fehlt. Für L-S13 ist der Export noch zu sichern. Die Qualitätssicherung benötigt für diesen Auftrag die Loskennungen und das betroffene Prüffeld. Die Personalplanung führt eine davon getrennte Akte."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "16_Ereignisauszug_ME22.csv",
+          "headers": [
+            "Zeitpunkt",
+            "Quelle",
+            "Kennung",
+            "Ereignis",
+            "Beobachtung"
+          ],
+          "rows": [
+            [
+              "2026-10-08T15:10:00+02:00",
+              "Kundennachricht",
+              "K-104",
+              "Bedarf abgesenkt",
+              "2 offene Reservetermine ohne Personenbezug"
+            ],
+            [
+              "2026-10-09T11:00:00+02:00",
+              "Dispositionssystem",
+              "A",
+              "Bedarfsversion exportiert",
+              "Z-17 mit 4 Vormerkungen"
+            ],
+            [
+              "2026-10-12T06:42:00+02:00",
+              "Hinweisportal",
+              "ME-22",
+              "Meldung eingegangen",
+              "Geschützter Postkorb"
+            ],
+            [
+              "2026-10-14T09:34:00+02:00",
+              "Dispositionssystem",
+              "D-18",
+              "Bedarfsversion B gespeichert",
+              "2 Termine entfernt. Grund Frei-Wunsch"
+            ],
+            [
+              "2026-10-19T12:38:00+02:00",
+              "Hinweisportal",
+              "B-1",
+              "Bestätigung freigegeben",
+              "Fallbearbeitung"
+            ],
+            [
+              "2026-10-19T12:43:00+02:00",
+              "Hinweisportal",
+              "B-1",
+              "Bestätigung bereitgestellt",
+              "Für Postkorb freigeschaltet"
+            ],
+            [
+              "2026-10-20T08:17:00+02:00",
+              "Hinweisportal",
+              "B-1",
+              "Bestätigung geöffnet",
+              "Erster protokollierter Abruf"
+            ],
+            [
+              "2026-10-23T14:08:00+02:00",
+              "Einsatzdienst",
+              "PLAN-NOV",
+              "Plan freigegeben",
+              "Z-17 mit 2 Nachtschichten"
+            ],
+            [
+              "2026-10-26T08:51:00+01:00",
+              "Hinweisportal",
+              "ME-22",
+              "Weitere Nachricht",
+              "Zusammenhang ausdrücklich geltend gemacht"
+            ],
+            [
+              "2026-10-26T09:22:00+01:00",
+              "Qualitätssicherung",
+              "L-S11",
+              "Ereignisjournal erhalten",
+              "Sammelimport und neue Prüfzeile"
+            ]
+          ]
+        }
+      ],
+      "prompt": "Führen Sie die geschützte Fallakte nach 14 bis 16 fort. Trennen Sie Fristen, technische Untersuchung und mögliche Benachteiligung. Entwerfen Sie die Rückmeldung im Portal, den minimierten Auftrag für die Qualitätssicherung und eine begrenzte Schutzmaßnahme zur Schichtplanung. Weisen Sie aus, welche neuen Belege eine frühere Annahme verändern und was zur Ursache der Planänderung offen bleibt.",
+      "template_fields": [
+        [
+          "Nachricht und Rückmeldefrist",
+          "Die Bestätigung wurde nach [Portalbeleg] am [Zeitpunkt] bereitgestellt und am [Abrufzeitpunkt] geöffnet. Für die Rückmeldung an die hinweisgebende Person ergibt sich nach [verifizierte Rechtsgrundlage und Fristenrechnung] der Termin [Datum]. Im geschützten Postkorb teilen wir [freigegebener Inhalt und Gründe] mit."
+        ],
+        [
+          "Unabhängige Prüfung der Schichtplanung",
+          "Die hinweisgebende Person hat den Zusammenhang am [Datum und Fundstelle] ausdrücklich geltend gemacht. [Unabhängige Stelle] klärt anhand [Originale und Vergleichsdaten], wer [Änderung und Freigabe] verantwortete und welches Kriterium angewandt wurde. Bis [Datum] sichert [Rolle] die Option [vorläufige Maßnahme]."
+        ],
+        [
+          "Begrenzter technischer Auftrag",
+          "[Qualitätssicherung] sichert zu [Loskennungen] die Felder [benötigte Daten] und dokumentiert [Aussagegrenze und Termin]. Die Identitätszuordnung und die vollständigen Bilder verbleiben bei [berechtigter Stelle]. Über eine Erweiterung des Zugriffs entscheidet [Rolle] anhand [konkreter Freigabegrund]."
+        ]
+      ],
+      "checks": [
+        "Portaleingang, Freigabe, tatsächliche Bereitstellung und erster Abruf werden getrennt belegt. Die frühere Bestätigung bleibt in der Akte erhalten. Die Rückmeldung wird mit dem tatsächlich maßgeblichen Ausgangspunkt und den Grenzen des § 17 HinSchG geprüft.",
+        "Die Äußerung vom 26. Oktober ist ein neuer Umstand für § 36 HinSchG. Der Nachweis eines freigegebenen Plans und einer geltend gemachten Benachteiligung beantwortet die Rechtsanwendbarkeit und die Ursachenfrage nicht allein. Die Kundennachricht betrifft offene Reserveplätze, D-18 weist kein Individuum aus und der Frei-Wunsch hat keinen Ursprungsbeleg.",
+        "Technische Untersuchungsunterlagen und Personalprüfung bleiben getrennt. Ein Suchauftrag mit Loskennung benötigt keine Nutzerkennung, Schichtdaten oder die Auflösung von Z-17. Der Sammelimport belegt weder eine unveränderte Freigabe noch einen bestimmten Täter.",
+        "Zwei mögliche Ersatzschichten entsprechen 16 Stunden. Bei tatsächlicher zuschlagsfähiger Arbeit ergibt der bekannte Satz 51,20 Euro Zuschlag. Ohne weitere Belege folgt daraus kein bezifferter Ersatzanspruch."
+      ]
+    },
+    {
+      "nr": "ME-24",
+      "slug": "compliance-hameln-vertriebspartner-marktstart",
+      "documents": [
+        {
+          "filename": "14_Lokaleinkauf_Getrennte_Beauftragung.eml",
+          "from_name": "Tessa Rabenau · Projekteinkauf Vertrieb",
+          "from_email": "tessa.rabenau@merrensteg.example",
+          "to_email": "fallfuehrung@merrensteg.example",
+          "date": "2026-10-27T09:20:00+01:00",
+          "subject": "ME-24 · Neue Vertragsfassungen und abweichender Zahlungsempfänger",
+          "paragraphs": [
+            "Guten Tag,",
+            "Die niederländische Einheit hat ein separates Angebot für drei Händlerschulungen erhalten. Die Durchführung ist ohne Vertriebsmandat buchbar. Für Österreich liegt ein Preis für vier Präsentationen vor. Im neuen Ablaufblatt taucht daneben ein fünfter Termin mit kommunalem Bezug auf. Der Standort meint, es handele sich um einen unverbindlichen Kalenderblock. Die letzte Leistungsbeschreibung im Portal enthält ihn aber als abrechenbare Veranstaltung.",
+            "Der Vermittler hat für Deutschland die ursprüngliche Acht-Prozent-Regel in zwei Verträge aufgeteilt. Er nennt nun 6,5 Prozent für sich und einen separaten Unterstützungsvertrag mit der später benannten Fjordufer Kontaktservice GmbH über 1,5 Prozent des gleichen Umsatzes. Beide Entgelte setzen nach den Entwürfen dasselbe Absatzereignis voraus.",
+            "Die neue Zahlungsanweisung für die österreichischen Präsentationen nennt ebenfalls Fjordufer Kontaktservice GmbH. Bei der niederländischen Schulung bleibt das bisherige Konto des Vermittlers angegeben. Der Vermittler erklärt die Abweichung mit einer zentralen Abrechnung. Bitte legen Sie fest, welche Unterlagen vor einer Bestellung oder Zahlung noch anzufordern sind. Der Schulungstermin kann bis zum 30. Oktober ohne Auftrag vorgemerkt werden.",
+            "Mit freundlichen Grüßen\nTessa Rabenau · Projekteinkauf Vertrieb\nMerrensteg Elektrosysteme SE · Hameln"
+          ],
+          "attachments": [
+            "15_Varianten_Leistung_und_Zahlung.docx",
+            "16_Variantenregister_ME24.csv"
+          ],
+          "reply_to": "12_Ergaenzende_Stellungnahme.eml"
+        },
+        {
+          "filename": "15_Varianten_Leistung_und_Zahlung.docx",
+          "title": "Eingangsvermerk über Vertragsfassungen und Zahlungsangaben",
+          "issuer": "Lokaleinkauf · Vertriebsgesellschaften",
+          "date": "2026-10-27",
+          "sections": [
+            {
+              "heading": "1 Niederländische Schulungen",
+              "paragraphs": [
+                "Das Angebot NW-S3 vom 26. Oktober betrifft drei technische Schulungstage im Schulungszentrum zu je 1.600 Euro netto. Es nennt die Themen, zwei Trainer und die vorbereitete Teilnahmeübersicht. Rechnungsadressatin ist Merrensteg Nordwest. Zahlung soll auf das bereits hinterlegte Geschäftskonto des Vermittlers im Sitzstaat erfolgen. Eine Vermittlungsleistung und eine Zahlung abhängig vom Umsatz sind in dieser Fassung nicht vorgesehen.",
+                "Der Angebotskopf trägt eine separate Kennung. Ein mit der Schulung verbundener Anspruch auf spätere Vermittlungsleistungen ist aus dem Angebot nicht ersichtlich. Der Vertrieb verwendet im Portal weiterhin denselben Partnerstammsatz wie für die anderen Vertragsentwürfe."
+              ]
+            },
+            {
+              "heading": "2 Österreichische Präsentationen",
+              "paragraphs": [
+                "Der Entwurf AL-P4 vom 23. Oktober nennt vier Präsentationen bei einem privaten Anlagenbauer und insgesamt 9.600 Euro netto. Die Leistungsbeschreibung AL-P5 vom 26. Oktober ergänzt einen fünften Termin mit einer kommunalen Beteiligungsgesellschaft und 2.400 Euro Zusatzpreis. Der Ansprechpartner des Anlagenbauers beschreibt den fünften Termin telefonisch als mögliche gemeinsame Veranstaltung. Eine schriftliche Streichung oder bestätigte Verschiebung liegt nicht vor.",
+                "Das Zahlungsblatt ZA-26 verlangt Überweisung der Vergütung an Fjordufer Kontaktservice GmbH. Vertragspartnerin bleibt nach dem Entwurf der Vermittler. Das eingereichte Blatt enthält weder eine Vollmacht zur Zahlung an Dritte noch eine Erklärung zur Zuordnung des Kontos. Der bislang hinterlegte Kontoinhaber und der neue Empfänger sind unterschiedliche Rechtsträger."
+              ]
+            },
+            {
+              "heading": "3 Deutscher Vertrieb und Beteiligungsunterlagen",
+              "paragraphs": [
+                "Das neue Angebot NET-65 nennt 6,5 Prozent für Vermittlung bis zum Zuschlag. Der parallel übersandte Entwurf NET-F15 sieht 1,5 Prozent für Zugangspflege durch Fjordufer Kontaktservice GmbH vor. Beide Fassungen verwenden den ersten Jahresnettoumsatz mit den benannten kommunalen Kunden als Bemessungsgrundlage. Die Planungszahl beträgt 800.000 Euro. Für beide Vergütungen soll der erste Zahlungseingang aus dem Zuschlagsgeschäft die Abrechnung auslösen.",
+                "Ein Registerabruf vom 26. Oktober bestätigt Firma und Sitz von Fjordufer. Der Vermittler bezeichnet die Gesellschaft in seiner Erklärung als unabhängig. Das Anlagenblatt zu seinem Treuhandverhältnis nennt dieselbe Geschäftsanschrift wie der Registerabruf. Ein Organ- oder Beteiligungsnachweis zu Fjordufer und eine Erläuterung der gemeinsamen Anschrift liegen nicht vor. Der Registerabruf allein ordnet keine wirtschaftlich berechtigte Person zu.",
+                "Der deutsche Vertragsentwurf enthält weiterhin keine überprüfbare Abnahmeregel je Kontakt. Die neue Unterbeauftragung wurde noch nicht bestellt. Das Ziel der Entscheidung beim öffentlichen Kunden bleibt Januar."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "16_Variantenregister_ME24.csv",
+          "headers": [
+            "Gesellschaft",
+            "Fassung",
+            "Leistung",
+            "Preis netto",
+            "Bezugsbasis",
+            "Zahlung an"
+          ],
+          "rows": [
+            [
+              "Merrensteg Nordwest",
+              "NW-S3",
+              "3 Händlerschulungen",
+              "4800 EUR",
+              "3 × 1600 EUR",
+              "bisheriges Konto Vermittler"
+            ],
+            [
+              "Merrensteg Alpen",
+              "AL-P4",
+              "4 private Präsentationen",
+              "9600 EUR",
+              "Festpreis",
+              "bisheriges Konto Vermittler"
+            ],
+            [
+              "Merrensteg Alpen",
+              "AL-P5 und ZA-26",
+              "5 Präsentationen, davon 1 kommunal",
+              "12000 EUR",
+              "9600 + 2400 EUR",
+              "Fjordufer Kontaktservice GmbH"
+            ],
+            [
+              "Merrensteg Netz",
+              "NET-ALT",
+              "Vermittlung kommunale Kunden",
+              "8 %",
+              "800000 EUR Planung",
+              "Vermittler"
+            ],
+            [
+              "Merrensteg Netz",
+              "NET-65",
+              "Vermittlung kommunale Kunden",
+              "6,5 %",
+              "800000 EUR Planung",
+              "Vermittler"
+            ],
+            [
+              "Merrensteg Netz",
+              "NET-F15",
+              "Zugangspflege durch Dritten",
+              "1,5 %",
+              "800000 EUR Planung",
+              "Fjordufer Kontaktservice GmbH"
+            ]
+          ]
+        }
+      ],
+      "prompt": "Entscheiden Sie je Vertragsgesellschaft auf Grundlage von 14 bis 16. Vergleichen Sie Preis und Umfang der Fassungen. Formulieren Sie für jede Gesellschaft einen Beschlussentwurf mit Freigabegrenze, Zahlungsbedingung, Verantwortlichkeit und Wiedervorlage. Stellen Sie die konkrete Nachfrage zur Beteiligungs- und Kontokette zusammen, bevor eine Zahlung ausgelöst werden könnte.",
+      "template_fields": [
+        [
+          "Vertragsvariante und tatsächliche Tätigkeit",
+          "[Vertragsgesellschaft] kann [bestimmte Fassung und Leistung] unter [konkreten Bedingungen] beauftragen. Gegenüber [andere Fassung] sind [Leistungsänderung und betroffener Kunde] aus [Beleg] zu berücksichtigen. [Rolle] bestätigt die erlaubte Leistung und ihren Preis bis [Termin]."
+        ],
+        [
+          "Vergütungsbasis und Empfänger",
+          "Für [Entwurf] beträgt das Entgelt auf Grundlage von [Bemessungsgrundlage und Ereignis] [Betrag oder Satz]. [Rolle] prüft vor Zahlung anhand [Nachweise], weshalb [Empfänger] die Forderung entgegennehmen darf und welche Leistung abgenommen wurde. Die Nachweise werden in [Akte] gespeichert."
+        ],
+        [
+          "Verbleibender Prüfbedarf",
+          "[Verantwortliche Stelle] klärt [konkrete Lücke in Beteiligung, Kontokette oder Unterbeauftragung] bis [Termin] mit [unabhängige Quelle]. Bei [Änderung von Kunde, Zahlweg oder Ausführendem] legt sie die Entscheidung [Freigabestelle] erneut vor."
+        ]
+      ],
+      "checks": [
+        "NW-S3 ist nach Leistungsumfang und Vergütung ein eigenständiger Schulungsauftrag. Eine eigene Abnahme und eine belastbare lokale Entscheidung bleiben erforderlich. Der gemeinsame Stammsatz rechtfertigt keine automatische Freigabe aller Geschäfte.",
+        "AL-P4 und AL-P5 sind verschiedene Stände. Der fünfte Termin und der Zahlungswechsel aus ZA-26 verändern die Risikobewertung. Der alte Festpreis von 9.600 Euro darf nicht als Preis der erweiterten Leistung dargestellt werden. Die mündliche Einordnung als Kalenderblock löst den Dokumentenwiderspruch nicht.",
+        "NET-65 und NET-F15 verwenden dieselbe Bemessungsgrundlage. Auf der Planungszahl ergeben sich 52.000 und 12.000 Euro, zusammen weiterhin 64.000 Euro. Die wirtschaftliche Betrachtung folgt der Leistung und dem Zahlungsereignis über beide Verträge hinweg.",
+        "Gemeinsame Anschrift ist eine Prüfspur, kein Nachweis wirtschaftlicher Berechtigung oder einer Pflichtverletzung. Zu klären sind unabhängige Beteiligungsnachweise, tatsächliche Drittdienstleistung, möglicher Kontakt zum öffentlichen Kunden sowie die Befugnis zur Entgegennahme der Zahlung."
+      ]
+    },
+    {
+      "nr": "ME-28",
+      "slug": "compliance-hameln-wirksamkeit-nachtest",
+      "documents": [
+        {
+          "filename": "14_Revision_Zeitabgleich.eml",
+          "from_name": "Nora Eibenrode · Interne Revision",
+          "from_email": "revision@merrensteg.example",
+          "to_email": "fallfuehrung@merrensteg.example",
+          "date": "2026-10-28T11:05:00+01:00",
+          "subject": "ME-28 · Erste Stichprobe der Zeitlücken",
+          "paragraphs": [
+            "Guten Tag,",
+            "Für die Leitung brauchen wir getrennte Aussagen zur technischen Abfolge und zur sachlichen Vorabprüfung. Die IT hat die 460 ausgeführten externen Zahlungen anhand der Bankreferenz abgeglichen. In 434 Datensätzen sind beide Uhrzeiten vorhanden. Die 26 mit fehlendem Zeitfeld bleiben als eigene Gruppe im Bestand. Die 600 Dashboardzeilen bilden weiterhin einen anderen Datenumfang.",
+            "Revision und Treasury haben acht der 26 Zeitlücken anhand vorhandener Archivspuren untersucht. Die Auswahl umfasst bekannte Schnittstellen und hohe Beträge. Der Zeitbezug einzelner Systeme ist unterschiedlich. Das Freigabeprotokoll wird teilweise in UTC gespeichert, die Ausführungsanzeige der Bank teils mit Ortszeit. Bitte ordnen Sie die Einträge anhand der tatsächlich benannten Quellen ein. Eine Scanzeit kann etwas anderes belegen als eine Freigabezeit.",
+            "Der mögliche Nachtest von 30 neuen Zahlungen bleibt getrennt. Sein Start hängt von der technischen Umstellung ab. Bitte entwerfen Sie für die Leitungsrunde eine berichtsfähige Zwischenfassung, die noch fehlenden Nachweise und eine Entscheidung zur weiteren Prüfung der Zeitlücken.",
+            "Mit freundlichen Grüßen\nNora Eibenrode · Interne Revision\nMerrensteg Elektrosysteme SE · Hameln"
+          ],
+          "attachments": [
+            "15_Abgleichprotokoll_ERP_Bank.docx",
+            "16_Zeitluecken_und_Auditfaelle_ME28.csv"
+          ],
+          "reply_to": "12_Ergaenzende_Stellungnahme.eml"
+        },
+        {
+          "filename": "15_Abgleichprotokoll_ERP_Bank.docx",
+          "title": "Abgleichprotokoll Freigabeereignisse und Bankausführung",
+          "issuer": "Revision · Treasury und IT-Kontrollteam",
+          "date": "2026-10-28",
+          "sections": [
+            {
+              "heading": "1 Grundgesamtheit und Ereignisdefinition",
+              "paragraphs": [
+                "Die Bankreferenzen bestätigen 460 tatsächlich ausgeführte externe Zahlungen im geprüften Export. In 402 der 434 vollständig befüllten Zeitpaare liegt der gespeicherte Freigabezeitpunkt vor der Ausführung. In 32 Fällen liegt er gleichauf oder danach. Die Abfolge wurde mit Zeitzone abgeglichen. Die IT hat in diesem Lauf keine flächendeckende Prüfung des Inhalts der Leistungsbelege oder der personellen Berechtigung durchgeführt.",
+                "Die acht Zeilen L01 bis L08 in 16 stammen aus der Gruppe der 26 Zeitlücken. Sie waren bei der Auszählung der 434 Zeitpaare nicht enthalten. Die Auswahl erfolgte anhand bekannter Schnittstellen und Beträge. A17, A22, A23 und A24 sind die gesondert aufgenommenen vier Fälle aus der älteren risikobasierten 24er-Auswahl. Sie dürfen den 460 Zahlungen nicht zusätzlich zugerechnet werden."
+              ]
+            },
+            {
+              "heading": "2 Zeitquellen und Archivspur",
+              "paragraphs": [
+                "Bei L01 und L02 weist das wiederhergestellte Archiv den Abschluss der im Vorgang ausgewiesenen Belegfreigabe aus. Die ISO-Zeitangabe endet mit Z für UTC. Die Bankanzeige nennt für beide Zahlungen Ortszeit mit Offset. Bei L03 enthält die archivierte und vor dem Zahlungslauf gesicherte Freigabeliste eine gezeichnete Zeile zur Leistungsprüfung mit Zeitbezug. L04 lässt sich über die Freigabe-ID und die Ausführungsreferenz der Bank eindeutig zuordnen.",
+                "Bei L05 lässt sich aus dem Scan die Uhrzeit der Freigabe nicht ableiten. Bei L06 gibt der Export nur den Kalendertag wieder. Bei L07 steht die Uhrzeit in einer Vorschau des Prüffelds ohne abgeschlossene Freigabe. L08 enthält die Zeit der Stammdatenprüfung des Partners. Für diese vier Zeilen fehlt weiter ein belastbarer Zeitpunkt der Belegfreigabe.",
+                "Für A23 ist die Papierfassung vorhanden. Ihre erste protokollierte Ablage liegt nach der Bankausführung. Der eingetragene frühere Zeitpunkt stammt aus einem handschriftlichen Vermerk. Die Zeichnungsberechtigung und der Zeitpunkt der tatsächlichen Unterschrift sind weiterhin zu verifizieren."
+              ]
+            },
+            {
+              "heading": "3 Getrennter Nachtest",
+              "paragraphs": [
+                "Die IT plant die technische Änderung frühestens zum 5. November. Der nachgelagerte Test von 30 Zahlungen soll erst nach einem dokumentierten Produktivstart mit klarer Grundgesamtheit beginnen. Im derzeitigen Berichtsstand hat dieser Test noch keine Ergebnisse. Vorher kann Treasury die Übergangsliste je Zahlungslauf gegenzeichnen und im Original sichern."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "16_Zeitluecken_und_Auditfaelle_ME28.csv",
+          "headers": [
+            "Kennung",
+            "Teilmenge",
+            "Betrag EUR",
+            "Freigabespur",
+            "Bankausführung",
+            "Spurtyp"
+          ],
+          "rows": [
+            [
+              "L01",
+              "Zeitlücke",
+              12400,
+              "2026-09-08T07:40:00Z",
+              "2026-09-08T09:51:00+02:00",
+              "Archivfreigabe"
+            ],
+            [
+              "L02",
+              "Zeitlücke",
+              19800,
+              "2026-09-09T09:06:00Z",
+              "2026-09-09T10:54:00+02:00",
+              "Archivfreigabe"
+            ],
+            [
+              "L03",
+              "Zeitlücke",
+              9600,
+              "2026-09-10T12:21:00+02:00",
+              "2026-09-10T12:30:00+02:00",
+              "Gezeichnete Vorabliste"
+            ],
+            [
+              "L04",
+              "Zeitlücke",
+              14200,
+              "2026-09-11T13:14:00+02:00",
+              "2026-09-11T11:17:00Z",
+              "Zuordenbare Freigabe-ID"
+            ],
+            [
+              "L05",
+              "Zeitlücke",
+              22800,
+              "2026-09-14T08:51:00+02:00",
+              "2026-09-14T09:10:00+02:00",
+              "Nur Scanzeit"
+            ],
+            [
+              "L06",
+              "Zeitlücke",
+              7800,
+              "2026-09-15",
+              "2026-09-15T10:26:00+02:00",
+              "Nur Freigabedatum"
+            ],
+            [
+              "L07",
+              "Zeitlücke",
+              16600,
+              "2026-09-16T08:40:00+02:00",
+              "2026-09-16T09:00:00+02:00",
+              "Nur Vorschau gespeichert"
+            ],
+            [
+              "L08",
+              "Zeitlücke",
+              12400,
+              "2026-09-17T07:59:00+02:00",
+              "2026-09-17T09:20:00+02:00",
+              "Nur Stammdatenprüfung"
+            ],
+            [
+              "A17",
+              "Auditfall",
+              18400,
+              "2026-09-17T10:18:00+02:00",
+              "2026-09-17T09:50:00+02:00",
+              "ERP-Bestätigung"
+            ],
+            [
+              "A22",
+              "Auditfall",
+              21600,
+              "2026-09-21T10:35:00+02:00",
+              "2026-09-21T09:10:00+02:00",
+              "ERP-Bestätigung"
+            ],
+            [
+              "A23",
+              "Auditfall",
+              26800,
+              "2026-09-22T08:54:00+02:00",
+              "2026-09-22T09:20:00+02:00",
+              "Papiervermerk ungeprüft"
+            ],
+            [
+              "A24",
+              "Auditfall",
+              15600,
+              "",
+              "2026-09-23T10:09:00+02:00",
+              "Leistungsbeleg fehlt"
+            ]
+          ]
+        }
+      ],
+      "prompt": "Rechnen Sie den Zeitabgleich aus 14 bis 16 nach und erläutern Sie die Aussagegrenzen. Aktualisieren Sie den Leitungsbericht mit nachvollziehbaren Zählern und Nennern. Entwerfen Sie einen begrenzten Folgetest für die offenen Zeitlücken und einen davon getrennten Nachtest für den geänderten Prozess. Nennen Sie die Belege, an denen die Schlussfolgerung scheitern oder sich ändern kann.",
+      "template_fields": [
+        [
+          "Zeitvergleich mit definierter Datenbasis",
+          "Der Zeitabgleich umfasst [Grundgesamtheit und Stichtag]. Nach Umrechnung in [gemeinsame Zeitzone] wurden [Anzahl] Freigabeereignisse vor Ausführung, [Anzahl] Ereignisse gleichauf oder danach und [Anzahl] Fälle mit ungeklärter Reihenfolge festgestellt. [Fundstellen] belegen diese Zuordnung."
+        ],
+        [
+          "Aussagegrenze der Kennzahl",
+          "Der Wert [Zähler und Nenner] beschreibt [konkretes Kontrollmerkmal]. Für [inhaltliche Prüfung und Berechtigung] fehlen [Nachweise]. Die Auswahl [Stichprobendesign] trägt deshalb nur die Aussage [begründete Reichweite]."
+        ],
+        [
+          "Nachtest mit Abbruchentscheidung",
+          "[Unabhängige Prüfstelle] untersucht bis [Datum] [Auswahl und Datenquelle] anhand [Erfolgskriterium]. Bei [Kriterium] erweitert sie die Prüfung auf [weiterer Umfang]. Die Wirkung der Änderung wird getrennt ab [nachgewiesenem Produktivstart] anhand [neue Grundgesamtheit] nachgetestet."
+        ]
+      ],
+      "checks": [
+        "L01 liegt nach Umrechnung 11 Minuten vor der Ausführung. L02 liegt 12 Minuten danach. L03 und L04 liegen 9 beziehungsweise 3 Minuten davor. L05 bis L08 enthalten keine nachgewiesene Freigabeuhrzeit. Die Art eines Ereignisses wird vor seiner zeitlichen Einordnung geprüft.",
+        "402 zeitlich vorgezogene plus 32 gleichzeitige oder spätere Freigabeereignisse und 26 Lücken ergeben 460. Der Nachtrag ordnet drei vorgezogene und ein spätes Ereignis zusätzlich zu. Ergebnis 405 vor, 33 gleichauf oder danach, 22 offen. 405/438 ist nur auf Fälle mit belegtem Zeitvergleich bezogen. 405/460 ist der Anteil im Gesamtbestand mit aktuell belegtem früheren Ereignis.",
+        "Die vier älteren Auditfälle umfassen weiterhin 82.400 Euro. Ihre mögliche Überschneidung mit anderen Prüfmengen erlaubt keine weitere Addition. A23 bleibt ohne unabhängigen Unterschriftsnachweis offen. Ereignisreihenfolge ersetzt keine Prüfung von Beleginhalt, Autorisierung oder wirksamer Trennung.",
+        "Das grüne Statusmaß, der Bankexport, die Auswahl der Zeitlücken und der prospektive Nachtest sind getrennt zu berichten. Ein Ergebnis für den 30er-Nachtest darf vor der dokumentierten Umstellung nicht behauptet werden."
+      ]
+    },
+    {
+      "nr": "ME-35",
+      "slug": "compliance-hameln-personalscore-vor-start",
+      "documents": [
+        {
+          "filename": "14_Systembetrieb_Planexport.eml",
+          "from_name": "Systembetrieb · Planlotse",
+          "from_email": "systembetrieb@merrensteg.example",
+          "to_email": "fallfuehrung@merrensteg.example",
+          "date": "2027-12-21T13:35:00+01:00",
+          "subject": "ME-35 · Export der Zuschlagschicht vom 18. Dezember",
+          "paragraphs": [
+            "Guten Tag,",
+            "Wir haben die Protokollspur zur bereits angesprochenen Zuschlagschicht SCH-1812 geprüft. Die Liste für diese Schicht wurde am 17. Dezember im normalen Schichtprofil mit dem Filter 58 geöffnet. Die sichtbare Auswahl wurde anschließend in den verbindlichen Dienstplan übertragen. HR hatte einen Bildschirmstand aus der Admin-Vorschau verwendet. Der dortige Test vom 15. Dezember enthält keine Übergabe in den Dienstplan.",
+            "Die zwei ausgeblendeten Bewerbercodes erscheinen in der gesonderten, beschränkt zugänglichen Eingangsliste. Beide hatten die vorgesehene Qualifikation. In der Schichtansicht konnte die Schichtleitung zwischen zwei sichtbaren Personen wählen. Sie hat eine davon wegen Erfahrung beim Materialwechsel ausgewählt. Über eine vorherige Prüfung der verdeckten Bewerbungen liegt in diesem Ablauf kein Ereignis vor.",
+            "Für die am 21. Dezember geplante Testzuteilung ist in unserem Auszug noch kein Produktivexport erfasst. Die Übernahme in den Dienstplan lässt sich technisch sperren, während die manuelle Auswahl aus dem vollständigen Bewerbungseingang möglich bleibt. Bitte dokumentieren Sie den bis zur Beratung des Betriebsrats vorgesehenen Ablauf und entscheiden Sie getrennt über die frühere Schicht, die Information und einen späteren Einsatz.",
+            "Mit freundlichen Grüßen\nSystembetrieb · Planlotse\nMerrensteg Elektrosysteme SE · Hameln"
+          ],
+          "attachments": [
+            "15_Abgleich_Rollen_und_Dienstplan.docx",
+            "16_Protokollauszug_ME35.csv"
+          ],
+          "reply_to": "12_Ergaenzende_Stellungnahme.eml"
+        },
+        {
+          "filename": "15_Abgleich_Rollen_und_Dienstplan.docx",
+          "title": "Abgleich der Rollenansicht mit Dienstplan und Zeiterfassung",
+          "issuer": "Systembetrieb · Freigabekreis HAM-2",
+          "date": "2027-12-21",
+          "sections": [
+            {
+              "heading": "1 Zwei getrennte Ablaufspuren",
+              "paragraphs": [
+                "Am 15. Dezember erfolgte TEST-19 im Administratorprofil von HAM-2. Für den Test konnte ein zuvor ausgeblendeter Bewerbercode eingeblendet werden. Der Testlauf blieb in der Vorschau. Für diese Testkennung existiert keine Übergabe an das verbindliche Dienstplansystem.",
+                "Am 17. Dezember wurde dagegen die Schicht SCH-1812 im gewöhnlichen Schichtleitungsprofil bearbeitet. Das Modul Eignung in Version 4 zeigte nur die Bewerbungen ab 58 Punkten. Zwei weitere Bewerbungen lagen der Eingangsliste vor. Beide erfüllten nach dem Qualifikationsregister die Freigabe Q4."
+              ],
+              "table": {
+                "headers": [
+                  "Code",
+                  "Score",
+                  "Q4",
+                  "Normalprofil",
+                  "Auswahl"
+                ],
+                "rows": [
+                  [
+                    "P-17",
+                    "57,8",
+                    "erfüllt",
+                    "ausgeblendet",
+                    "nicht sichtbar"
+                  ],
+                  [
+                    "P-26",
+                    "56,4",
+                    "erfüllt",
+                    "ausgeblendet",
+                    "nicht sichtbar"
+                  ],
+                  [
+                    "P-34",
+                    "62,1",
+                    "erfüllt",
+                    "sichtbar",
+                    "ausgewählt"
+                  ],
+                  [
+                    "P-41",
+                    "66,0",
+                    "erfüllt",
+                    "sichtbar",
+                    "nicht gewählt"
+                  ]
+                ]
+              }
+            },
+            {
+              "heading": "2 Tatsächliche Schicht und Datenumfang",
+              "paragraphs": [
+                "Die Schichtleitung wählte P-34 aus den angezeigten Bewerbungen und erfasste Erfahrung beim Materialwechsel als Grund. Um 14.21 Uhr übernahm die Dienstplanschnittstelle diese Auswahl. Der Dienstplan war anschließend für die betroffene Schicht verbindlich freigegeben. Die Zeiterfassung führt die geleistete Zuschlagschicht am 18. Dezember von 22.00 Uhr bis zum 19. Dezember um 06.00 Uhr für P-34. Eine endgültige Lohnabrechnung ist im Export nicht enthalten.",
+                "Das Konto der Schichtleitung hatte bei der Auswahl keinen Zugriff auf die vollständige Eingangsliste und kein Recht zur Wiederanzeige der ausgeblendeten Bewerbungen. Die auswertbare Protokollkopie enthält Codes und Freigabemerkmale. Sie umfasst keine Freitexte zu früheren Abwesenheiten."
+              ]
+            },
+            {
+              "heading": "3 Übergang für die geplante Zuteilung",
+              "paragraphs": [
+                "Für PLAN-3 am 21. Dezember hat die Schichtleitung eine manuelle Liste aus dem vollständigen Bewerbungseingang angefordert. Der Auszug bis 13.20 Uhr zeigt hierfür keinen Produktivexport aus Planlotse. IT kann den Schreibzugriff des Moduls auf den verbindlichen Dienstplan sperren. Die Fachstelle muss bestätigen, wer die vollständige Liste vor der Entscheidung prüft und wie ein Einspruch gegen die Auswahl behandelt wird.",
+                "Die Einladung des Betriebsrats zur Beratung am 22. Dezember besteht fort. Das Organisationspostfach enthält bis zum Exportzeitpunkt keine Versandbestätigung für eine Information an die betroffenen Beschäftigten. Die bisher vorgelegte Konformitätserklärung trägt weiterhin den Vermerk Entwurf."
+              ]
+            }
+          ]
+        },
+        {
+          "filename": "16_Protokollauszug_ME35.csv",
+          "headers": [
+            "Zeitpunkt",
+            "Stand",
+            "Kennung",
+            "Rolle",
+            "Ereignis",
+            "Ergebnis"
+          ],
+          "rows": [
+            [
+              "2027-11-11T08:00:00+01:00",
+              "V3",
+              "INSTALL-3",
+              "Betrieb",
+              "Installation",
+              "Schichten ohne Score"
+            ],
+            [
+              "2027-12-08T10:16:00+01:00",
+              "V4",
+              "CHANGE-4",
+              "Betrieb",
+              "Modul aktiviert",
+              "HAM-2 produktive Personaldaten"
+            ],
+            [
+              "2027-12-15T09:46:00+01:00",
+              "V4",
+              "TEST-19",
+              "Administrator",
+              "Wiederanzeige",
+              "Vorschau ohne Dienstplanübergabe"
+            ],
+            [
+              "2027-12-17T14:02:00+01:00",
+              "V4",
+              "SCH-1812",
+              "Schichtleitung",
+              "Ansicht mit Filter 58",
+              "P-34 und P-41 sichtbar"
+            ],
+            [
+              "2027-12-17T14:11:00+01:00",
+              "V4",
+              "SCH-1812",
+              "Schichtleitung",
+              "Auswahl P-34",
+              "Grund Erfahrung Materialwechsel"
+            ],
+            [
+              "2027-12-17T14:21:00+01:00",
+              "V4",
+              "SCH-1812",
+              "Dienstplan-Schnittstelle",
+              "Auswahl übertragen",
+              "Verbindlicher Dienstplan"
+            ],
+            [
+              "2027-12-19T06:07:00+01:00",
+              "Zeitkonto",
+              "SCH-1812",
+              "Zeiterfassung",
+              "Schicht abgeschlossen",
+              "P-34, 8 Stunden erfasst"
+            ],
+            [
+              "2027-12-21T13:20:00+01:00",
+              "V4",
+              "PLAN-3",
+              "Systembetrieb",
+              "Produktivexport abgefragt",
+              "Kein Export bis Abfragezeitpunkt"
+            ]
+          ]
+        }
+      ],
+      "prompt": "Rekonstruieren Sie anhand 14 bis 16 die tatsächlich wirksame Schichtentscheidung und halten Sie sie von TEST-19 und PLAN-3 getrennt. Entwerfen Sie eine Entscheidung über den sofortigen Übergangsablauf, eine Antwort zur früheren Schicht und die getrennten Informationsunterlagen. Prüfen Sie Rechtsstand, Übergang, Betreiberpflichten, Datenschutz und Beteiligung mit den jeweiligen Belegen.",
+      "template_fields": [
+        [
+          "Verwendung der gefilterten Auswahl",
+          "Für [Schicht-ID] wurde am [Datum] nach [Protokollfundstelle] die Auswahl [konkreter Vorgang] in den verbindlichen Dienstplan übertragen. Die Rolle [Bezeichnung] konnte [tatsächliche Befugnis] und sah [angezeigte sowie ausgeblendete Gruppen]. Daraus ergibt sich für die Prüfung der menschlichen Beteiligung [begründete Schlussfolgerung]."
+        ],
+        [
+          "Übergang bis zur Entscheidung",
+          "Ab [Zeitpunkt] sperrt [zuständige Stelle] die Übergabe aus [System und Modul] in [Zielsystem] und dokumentiert [technischer Nachweis]. [Verantwortliche Rolle] prüft die vollständigen Bewerbungen anhand [Kriterien] und zeichnet die manuelle Entscheidung mit [Beleg] ab."
+        ],
+        [
+          "Frühere Schicht und Information",
+          "Die mögliche Auswirkung auf [betroffene Person und konkrete Schicht] prüft [Stelle] anhand [Eingangsliste, Dienstplan und Zeitnachweis]. [Arbeitnehmervertretung] und [betroffene Beschäftigte] erhalten die jeweils erforderlichen Informationen bis [Termin] über [freigegebener Weg]. Vor der Wiederaufnahme liegen [Systemnachweise und Beteiligungsstand] vor."
+        ]
+      ],
+      "checks": [
+        "TEST-19 war eine Vorschau im Administratorprofil. Die konkrete Schicht SCH-1812 wurde am 17. Dezember im Normalprofil mit Filter bearbeitet, am selben Tag verbindlich übertragen und anschließend von P-34 geleistet. PLAN-3 ist ein dritter Ablauf ohne bis 13.20 Uhr nachgewiesenen Export.",
+        "Die menschliche Wahl zwischen P-34 und P-41 ist belegt und schließt eine rein mechanische Rangfolge aus. Sie widerlegt die wesentliche Bedeutung der technischen Vorselektion gegenüber P-17 und P-26 nicht. Art. 22 DSGVO und die Tatsachen des wirksamen menschlichen Eingriffs sind fallbezogen zu prüfen.",
+        "Die frühere Version ohne Score trägt keine pauschale Bestandseinordnung für das später produktiv eingesetzte Modul. Den anwendbaren Stand der KI-Verordnung und die Bedeutung der Funktionsänderung anhand amtlicher Quellen und der Belege prüfen. Technischen Funktionsnachweis, Konformitätsunterlagen, Information und Beteiligung auseinanderhalten.",
+        "Für die frühere Schicht liegen konkrete Auswirkungen der Vorauswahl vor. Daraus folgt allein kein Anspruch einer bestimmten ausgeblendeten Person auf den Zuschlag. Prüfen Sie ihre Bewerbung, die sachlichen Auswahlkriterien, die Korrekturmöglichkeit und eine belastbare Antwort getrennt vom künftigen Betrieb."
+      ]
+    }
+  ]
+}

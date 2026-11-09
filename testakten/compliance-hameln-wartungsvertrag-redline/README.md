@@ -24,8 +24,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-wartungsvertrag-redline_gesamt.pdf`](gesamt-pdf/compliance-hameln-wartungsvertrag-redline_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-wartungsvertrag-redline.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-redline.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-wartungsvertrag-redline-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

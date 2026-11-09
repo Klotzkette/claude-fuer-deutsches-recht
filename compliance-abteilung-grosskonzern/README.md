@@ -2,19 +2,30 @@
 
 Das Plugin unterstützt Rechts- und Compliance-Teams eines Industriekonzerns bei konkreten Entscheidungen. Es ordnet Zuständigkeiten und Belege, bereitet Freigaben, Ermittlungen, Kontrollentscheidungen und Organvorlagen vor und hält die Grenzen der jeweiligen Freigabe fest.
 
-Die 35 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Die Akten sind eigenständig nutzbar und bilden unterschiedliche Aufgaben und Datenlagen ab. Jede Akte führt den Vorgang mit einer ergänzenden Stellungnahme und einem Beleg- und Sicherungsprotokoll fort. Die 35 bearbeitbaren Word-Vorlagen verbinden den konkreten Auftrag mit Gegenargumenten, Nachweisen und umsetzbaren Entscheidungstexten.
+Die 35 Fallakten spielen bei der fiktiven Merrensteg Elektrosysteme SE in Hameln. Das Unternehmen entwickelt Industrieantriebe und Schalttechnik. Die Rechts- und Compliance-Abteilung arbeitet mit Werken, Einkauf, Datenschutz und Konzernorganen. Jede Akte enthält eine ergänzende Stellungnahme und ein Beleg- und Sicherungsprotokoll. Vier Schwerpunktakten führen den Vorgang mit zusätzlichen Originalbelegen bis zu einer weiteren Entscheidung. Die 35 bearbeitbaren Word-Vorlagen verbinden den konkreten Auftrag mit Gegenargumenten, Nachweisen und umsetzbaren Entscheidungstexten.
 
 ## 1 Einstieg
 
 | Produkt | Zugriff |
 | --- | --- |
-| Installierbares Plugin | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/compliance-abteilung-grosskonzern.zip) |
+| Installierbares Plugin | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/compliance-abteilung-grosskonzern.zip) |
 | Ausführlicher Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-werkstatt.md) |
 | Master-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=testakten/megaprompts/compliance-abteilung-grosskonzern.md) |
 | Kompakter Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/compliance-abteilung-grosskonzern-schnellstart.md) |
 | Quellen | [Zitierweise und amtliche Fundstellen](references/zitierweise.md) |
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Alphabetische Skill-Liste](../skills-index/compliance-abteilung-grosskonzern.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md) · [Plugin-Dateien](.)
+
+### 1.1 Eigenständige Fachskills
+
+Jeder Fachskill kann direkt aufgerufen werden. Er verarbeitet die vorhandenen Unterlagen und liefert das bestellte Arbeitsprodukt mit der erforderlichen Beleg- und Entscheidungsgrundlage.
+
+| Fachskill | Arbeitsprodukt | Schwerpunktakte |
+| --- | --- | --- |
+| [Interne Untersuchung entscheiden](skills/interne-untersuchung-entscheiden/SKILL.md) | Schutz- und Sicherungsanordnung, Anhörung und vertraulicher Befund je Vorwurf | [ME-22 · Der Hinweis aus der Nachtschicht](../testakten/compliance-hameln-meldung-nachtschicht/README.md) |
+| [Geschäftspartnerfreigabe entscheiden](skills/geschaeftspartner-freigabe-entscheiden/SKILL.md) | Begründeter Entscheid je Vertrag, Leistung und Zahlungsweg mit prüfbaren Freigabebedingungen | [ME-24 · Acht Prozent für eine Türöffnung](../testakten/compliance-hameln-vertriebspartner-marktstart/README.md) |
+| [Kontrollversagen und Organentscheidung](skills/kontrollversagen-und-organentscheidung/SKILL.md) | Nachgerechneter Kontrollbefund, Organvorlage und Kriterien für den Wiederanlauf | [ME-28 · 98 Prozent grün und vier ungeklärte Freigaben](../testakten/compliance-hameln-wirksamkeit-nachtest/README.md) |
+| [KI-System zur Betriebsfreigabe prüfen](skills/ki-system-betriebsfreigabe-entscheiden/SKILL.md) | Einstufung, dokumentierte Abnahmekriterien und Entscheidung über Pilot, Betrieb oder Aussetzung | [ME-35 · Der Score vor der ersten Nachtschicht](../testakten/compliance-hameln-personalscore-vor-start/README.md) |
 
 ## 2 KI in Recht und Compliance
 
@@ -78,8 +89,8 @@ Jede Aktenseite führt zu Originalformat-ZIP, Einzel-PDF-ZIP und einer Gesamt-PD
 
 | Paket | Datei |
 | --- | --- |
-| 35 Arbeitsakten in Originalformaten mit Gesamt-PDFs und 35 Word-Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/Hameln_Compliance_35_Testakten_und_Vorlagen.zip) |
-| 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/Hameln_Compliance_Nachbesprechung_35.zip) |
+| 35 Arbeitsakten in Originalformaten mit Gesamt-PDFs und 35 Word-Vorlagen | [Workshop-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_35_Testakten_und_Vorlagen.zip) |
+| 35 getrennte fallbezogene Prüfblätter aus den beiden Reihen | [Nachbesprechung als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/Hameln_Compliance_Nachbesprechung_35.zip) |
 
 Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen. Die ergänzenden Stellungnahmen und Sicherungsprotokolle sind im eigenen Durchlauf zusätzlich gegen die ursprünglichen Belege zu prüfen. Die Aktenseiten bieten die jeweiligen Originalformat-ZIPs und Einzel-PDF-ZIPs; die Nachbesprechung liegt getrennt von diesen Arbeitsunterlagen.
 
@@ -87,21 +98,27 @@ Die Nachbesprechung enthält die bisherigen Prüfblätter der beiden Fallreihen.
 
 Beginnen Sie mit der E-Mail und dem Dokument aus der Fachabteilung. Fordern Sie eine Belegmatrix und einen ersten Entwurf in der Word-Vorlage an. Reichen Sie anschließend Datenregister und Nachtrag nach und lassen Sie gezielt die betroffenen Feststellungen und den Entscheidungsvorschlag überarbeiten. Bei einer Anlagenübung die relevanten Originale als PDF-Arbeitskopien zusammenstellen, nummerieren und mit Fundstellen verknüpfen. Die Stücke 12 und 13 bilden eine weitere Bearbeitungsrunde: Welche Aussage wird durch den Nachtrag gestützt, eingeschränkt oder widerlegt? Fordern Sie eine überarbeitete Endfassung und eine kurze Änderungsnotiz an. Die Nachbesprechung bleibt für diesen Durchlauf separat.
 
+Bei ME-22, ME-24, ME-28 und ME-35 folgen danach die Stücke 14 bis 16. Legen Sie die vorherige Fassung und die neuen Belege zusammen vor. Lassen Sie die Änderung an der konkreten Handlungsempfehlung begründen und verwenden Sie die Fortsetzungsseite der jeweiligen Word-Vorlage. Für die Moderation gibt es einen [getrennten Leitfaden zur letzten Bearbeitungsrunde](../quality/compliance-vertiefung/fachvertiefung-moderation.md).
+
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Überblick
 
-Automatisch generierte Komplett-Liste aller 5 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
+Automatisch generierte Komplett-Liste aller 9 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
-English: Complete list of all 5 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
+English: Complete list of all 9 skills in this plugin. Both links in each row download the unchanged `SKILL.md` content as a Markdown file with a unique plugin-and-skill filename.
 
 | Skill | Beschreibung | Markdown-Download |
 | --- | --- | --- |
 | [`compliance-auftrag-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) | Steuert konkrete Aufträge der Konzernrechts- und Compliance-Abteilung bis zum fertigen Arbeitsprodukt. Für Richtlinienauskunft, Ausnahmeentscheidung, Rechtsrecherche und Regulierungsmonitoring sowie die Zuordnung zu KI-Freigabe, Meldeste... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/compliance-auftrag-steuern/SKILL.md) |
+| [`geschaeftspartner-freigabe-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-freigabe-entscheiden/SKILL.md) | Entwirft eine nachprüfbare Freigabe, Auflage oder Zurückstellung für eine konkrete Bestellung, Lieferung, Zahlung, Vermittlung oder Erwerbsphase. Klärt Geschäftspartneridentität, Eigentum und Kontrolle, Sanktionen, Vergütung und Korrupti... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-freigabe-entscheiden/SKILL.md) |
 | [`geschaeftspartner-und-transaktionen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-und-transaktionen/SKILL.md) | Bearbeitet Integritätsprüfung und Freigaben bei Lieferanten, Vermittlern, Bewirtungen und Unternehmenskäufen. Für Identitäts- und Trefferklärung, Leistungs- und Zahlungsabgleich, Korruptionsrisiko, ausformulierte Auflagen, Vertragsbeding... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/geschaeftspartner-und-transaktionen/SKILL.md) |
+| [`interne-untersuchung-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/interne-untersuchung-entscheiden/SKILL.md) | Erarbeitet eine belastbare Zwischen- oder Abschlussentscheidung in internen Compliance-Untersuchungen. Führt Vorwürfe, Originalbelege, Gegenbelege, Anhörung und Datenschutz zu einem entscheidungsreifen Befund zusammen und trennt geschütz... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/interne-untersuchung-entscheiden/SKILL.md) |
 | [`ki-einsatz-und-freigabe`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/ki-einsatz-und-freigabe/SKILL.md) | Prüft KI-Beschaffung und konkrete Nutzung in Legal, Compliance und Beschäftigung. Für belastbare Pilottests, Prompt-Versionierung, Datenflüsse, Quellenkorrektur, menschliche Kontrolle, Fehlerzurechnung, Kompetenzmaßnahmen, Qualifizierung... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/ki-einsatz-und-freigabe/SKILL.md) |
+| [`ki-system-betriebsfreigabe-entscheiden`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/ki-system-betriebsfreigabe-entscheiden/SKILL.md) | >- | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/ki-system-betriebsfreigabe-entscheiden/SKILL.md) |
 | [`kontrollen-und-organberichte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/kontrollen-und-organberichte/SKILL.md) | Erstellt risikobasierte Kontrollpläne, belastbare Kennzahlen, Wirksamkeitstests, Schulungs- und Kommunikationsprodukte sowie Organvorlagen. Für Rohdatenabgleich, Nennerfehler, Stichprobengrenzen, lokale Zuständigkeit, Maßnahmenverfolgung... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/kontrollen-und-organberichte/SKILL.md) |
+| [`kontrollversagen-und-organentscheidung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/kontrollversagen-und-organentscheidung/SKILL.md) | >- | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/kontrollversagen-und-organentscheidung/SKILL.md) |
 | [`meldungen-und-untersuchungen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/meldungen-und-untersuchungen/SKILL.md) | Bearbeitet interne Meldungen, Schutzmaßnahmen und Untersuchungen bis zu verwendbaren Schreiben und Abschlussvermerken. Für HinSchG-Fristen, Vertraulichkeit, Beweissicherung, Gegenbelege, Interviews, korrigierte KI-Transkripte, Anhörung u... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=compliance-abteilung-grosskonzern/skills/meldungen-und-untersuchungen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

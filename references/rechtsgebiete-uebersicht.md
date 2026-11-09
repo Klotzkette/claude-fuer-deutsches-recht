@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 314 Plugins, 23418 Skills.
+Stand v445.35.3: 314 Plugins, 23422 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -65,7 +65,7 @@ Stand v445.35.3: 314 Plugins, 23418 Skills.
 | [`bundeswehrrecht-wehrrecht`](../bundeswehrrecht-wehrrecht/) | Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung. | `445.35.3` | 107 |
 | [`commercial-courts-deutschland`](../commercial-courts-deutschland/) | Commercial-Courts-Plugin für englischsprachige Wirtschaftsverfahren in Deutschland: Zuständigkeit, Wahlklauseln, Klage, Case Management, Beweis, Geheimnisschutz, Wortprotokoll/Transcript, Rechtsmittel, BGH, Kosten, Vollstreckung und bilingualer Schriftsatz-/Hearing-Workflow. | `445.35.4` | 59 |
 | [`common-law-kompass`](../common-law-kompass/) | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. | `445.35.3` | 59 |
-| [`compliance-abteilung-grosskonzern`](../compliance-abteilung-grosskonzern/) | Interne Rechts- und Compliance-Abteilung im Industriekonzern: KI-Einsatz, Richtlinien, Meldungen, Untersuchungen, Geschäftspartner, Konzernkontrollen und Organvorlagen fallbezogen bearbeiten. | `445.35.9` | 5 |
+| [`compliance-abteilung-grosskonzern`](../compliance-abteilung-grosskonzern/) | Interne Rechts- und Compliance-Abteilung im Industriekonzern: KI-Einsatz, Richtlinien, Meldungen, Untersuchungen, Geschäftspartner, Konzernkontrollen und Organvorlagen fallbezogen bearbeiten. | `445.35.13` | 9 |
 | [`corporate-contract-law`](../corporate-contract-law/) | Corporate Contract Law - Wirtschaftsverträge: zwanzig Skills für deutsche B2B-Vertragsgestaltung vom Geschäftsauftrag über den vollständigen Vertrag und die Verhandlung bis zum unterschriftsreifen Entwurf. | `445.35.3` | 20 |
 | [`corporate-kanzlei`](../corporate-kanzlei/) | Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I, Signing/Closing, PMI. | `445.35.2` | 88 |
 | [`datenbankrecht`](../datenbankrecht/) | Großes Plugin zum deutschen und europäischen Datenbankrecht: UrhG Paragrafen 87a ff., Datenbankrichtlinie, Investitionsschutz, automatisiertes Auslesen, API, Training digitaler Systeme, Vertrags- und Plattformkonflikte. | `445.35.3` | 130 |
