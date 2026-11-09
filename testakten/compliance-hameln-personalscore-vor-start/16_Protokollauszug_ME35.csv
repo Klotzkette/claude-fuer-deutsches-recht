@@ -1,0 +1,9 @@
+Zeitpunkt,Stand,Kennung,Rolle,Ereignis,Ergebnis
+2027-11-11T08:00:00+01:00,V3,INSTALL-3,Betrieb,Installation,Schichten ohne Score
+2027-12-08T10:16:00+01:00,V4,CHANGE-4,Betrieb,Modul aktiviert,HAM-2 produktive Personaldaten
+2027-12-15T09:46:00+01:00,V4,TEST-19,Administrator,Wiederanzeige,Vorschau ohne Dienstplanübergabe
+2027-12-17T14:02:00+01:00,V4,SCH-1812,Schichtleitung,Ansicht mit Filter 58,P-34 und P-41 sichtbar
+2027-12-17T14:11:00+01:00,V4,SCH-1812,Schichtleitung,Auswahl P-34,Grund Erfahrung Materialwechsel
+2027-12-17T14:21:00+01:00,V4,SCH-1812,Dienstplan-Schnittstelle,Auswahl übertragen,Verbindlicher Dienstplan
+2027-12-19T06:07:00+01:00,Zeitkonto,SCH-1812,Zeiterfassung,Schicht abgeschlossen,"P-34, 8 Stunden erfasst"
+2027-12-21T13:20:00+01:00,V4,PLAN-3,Systembetrieb,Produktivexport abgefragt,Kein Export bis Abfragezeitpunkt

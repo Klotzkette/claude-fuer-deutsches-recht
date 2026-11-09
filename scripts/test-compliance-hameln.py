@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 from email import policy
 from email.parser import BytesParser
 from hashlib import sha256
@@ -21,7 +22,7 @@ from testakte_einzelpdf_common import document_arcname_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'compliance-abteilung-grosskonzern'
-VERSION = '445.35.9'
+VERSION = '445.35.13'
 TAG = PLUGIN + '-v' + VERSION
 DIST = None
 
@@ -66,6 +67,7 @@ class ComplianceAkten(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.cases = json.loads((ROOT / 'scripts/data/compliance-hameln-vertiefung.json').read_text())['cases']
+        cls.extensions = json.loads((ROOT / 'scripts/data/compliance-hameln-fachvertiefung.json').read_text())['cases']
 
     def test_all_338_existing_originals_are_unchanged(self):
         baseline = json.loads((ROOT / 'quality/compliance-vertiefung/ursprungsbestand-445.35.4.json').read_text())
@@ -73,10 +75,18 @@ class ComplianceAkten(unittest.TestCase):
         for name, digest in baseline.items():
             self.assertEqual(sha256((ROOT / name).read_bytes()).hexdigest(), digest, name)
 
+    def test_previous_408_originals_are_preserved(self):
+        previous = json.loads((ROOT / 'quality/compliance-vertiefung/release-bestand.json').read_text())['cases']
+        self.assertEqual(sum(len(case['source_sha256']) for case in previous), 408)
+        for case in previous:
+            directory = ROOT / 'testakten' / case['slug']
+            for name, digest in case['source_sha256'].items():
+                self.assertEqual(sha256((directory / name).read_bytes()).hexdigest(), digest, name)
+
     def test_35_cases_have_individual_complete_additions(self):
         self.assertEqual(len(self.cases), 35)
         self.assertEqual({c['nr'] for c in self.cases}, {f'ME-{n:02d}' for n in range(1, 36)})
-        self.assertEqual(sum(len(document_arcname_pairs(ROOT / 'testakten' / c['slug'])) for c in self.cases), 408)
+        self.assertEqual(sum(len(document_arcname_pairs(ROOT / 'testakten' / c['slug'])) for c in self.cases), 420)
         bodies = set()
         for case in self.cases:
             directory = ROOT / 'testakten' / case['slug']
@@ -111,6 +121,54 @@ class ComplianceAkten(unittest.TestCase):
         with self.assertRaises(AssertionError):
             require_parts(first['mail']['paragraphs'], '\n'.join(first['mail']['paragraphs'][:-1]), 'Textverlust')
 
+    def test_four_new_evidence_rounds_in_sources_and_pdfs(self):
+        self.assertEqual({case['nr'] for case in self.extensions}, {'ME-22', 'ME-24', 'ME-28', 'ME-35'})
+        for case in self.extensions:
+            directory = ROOT / 'testakten' / case['slug']
+            combined = directory / 'gesamt-pdf' / (case['slug'] + '_gesamt.pdf')
+            reader = PdfReader(combined)
+            outlines = {entry.title: reader.get_destination_page_number(entry) for entry in reader.outline}
+            pdfs = None
+            if DIST is not None:
+                with ZipFile(DIST / ('testakte-' + case['slug'] + '-einzelpdfs.zip')) as archive:
+                    pdfs = {Path(item['filename']).with_suffix('.pdf').name:
+                            archive.read(Path(item['filename']).with_suffix('.pdf').name) for item in case['documents']}
+            for record in case['documents']:
+                path = directory / record['filename']
+                if path.suffix == '.eml':
+                    msg = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+                    self.assertEqual(msg['Subject'], record['subject'])
+                    self.assertTrue(msg['From'] and msg['To'] and msg['Date'] and msg['Message-ID'])
+                    self.assertEqual(msg['Date'].datetime.isoformat(), record['date'])
+                    if reply := record.get('reply_to'):
+                        previous = BytesParser(policy=policy.default).parsebytes((directory / reply).read_bytes())
+                        self.assertEqual(msg['In-Reply-To'], previous['Message-ID'])
+                    attachments = {part.get_filename(): part.get_payload(decode=True) for part in msg.iter_attachments()}
+                    self.assertEqual(attachments, {name: (directory / name).read_bytes() for name in record.get('attachments', [])})
+                    parts = record['paragraphs']
+                    require_parts(parts, msg.get_body(preferencelist=('plain',)).get_content(), path.name)
+                elif path.suffix == '.docx':
+                    parts = [record['title']]
+                    for section in record['sections']:
+                        parts.extend((section['heading'], *section['paragraphs']))
+                        if 'table' in section:
+                            parts.extend(str(value) for row in [section['table']['headers'], *section['table']['rows']] for value in row)
+                    require_parts(parts, docx_text(path), path.name)
+                    self.assertEqual(Document(path).styles['Normal'].font.name, 'Times New Roman')
+                else:
+                    rows = [[str(cell) if cell is not None else '' for cell in row] for row in [record['headers'], *record['rows']]]
+                    with path.open(newline='') as stream:
+                        self.assertEqual(list(csv.reader(stream)), rows)
+                    parts = [cell for row in rows for cell in row]
+                start = outlines[path.name]
+                end = min((page for page in outlines.values() if page > start), default=len(reader.pages))
+                require_parts(parts, '\n'.join(page.extract_text() or '' for page in reader.pages[start:end]), path.name)
+                if pdfs is not None:
+                    individual = PdfReader(BytesIO(pdfs[path.with_suffix('.pdf').name]))
+                    require_parts(parts, '\n'.join(page.extract_text() or '' for page in individual.pages), path.name)
+            template = ROOT / PLUGIN / 'templates' / (case['slug'] + '.docx')
+            require_parts((part for field in case['template_fields'] for part in field), docx_text(template), template.name)
+
     def test_complete_release_checksums_and_assets(self):
         if DIST is None:
             self.skipTest('Releaseprüfung mit --dist ausführen')
@@ -124,6 +182,7 @@ class ComplianceAkten(unittest.TestCase):
         report = json.loads((DIST / 'release-bestand.json').read_text())
         self.assertEqual((report['version'], report['tag']), (VERSION, TAG))
         self.assertEqual(report['material_sha256'], sha256((ROOT / 'scripts/data/compliance-hameln-vertiefung.json').read_bytes()).hexdigest())
+        self.assertEqual(report['fachvertiefung_sha256'], sha256((ROOT / 'scripts/data/compliance-hameln-fachvertiefung.json').read_bytes()).hexdigest())
         for name, members in report['archives'].items():
             with ZipFile(DIST / name) as archive:
                 self.assertIsNone(archive.testzip())
@@ -157,7 +216,16 @@ class ComplianceAkten(unittest.TestCase):
                 data = original.read(combined_name)
                 self.assertEqual(data, (DIST / combined_name).read_bytes())
                 self.assertEqual(data, (directory / 'gesamt-pdf' / combined_name).read_bytes())
-                self.assertEqual(len(PdfReader(BytesIO(data)).pages), item['pages'])
+                combined = PdfReader(BytesIO(data))
+                self.assertEqual(len(combined.pages), item['pages'])
+                expected_destinations = []
+                page = 0
+                for source, name in pairs:
+                    expected_destinations.append((source.name, page))
+                    page += len(PdfReader(BytesIO(pdfs.read(name))).pages)
+                self.assertEqual([(entry.title, combined.get_destination_page_number(entry))
+                                  for entry in combined.outline], expected_destinations, case['slug'])
+                self.assertEqual(page, len(combined.pages))
                 require_parts(case['mail']['paragraphs'], '\n'.join(p.extract_text() or '' for p in PdfReader(BytesIO(pdfs.read('12_Ergaenzende_Stellungnahme.pdf'))).pages), case['slug'])
                 require_parts(protocol_parts(case['protocol']), '\n'.join(p.extract_text() or '' for p in PdfReader(BytesIO(pdfs.read('13_Belegabgleich_und_Sicherungsstand.pdf'))).pages), case['slug'])
                 protocol = PdfReader(BytesIO(pdfs.read('13_Belegabgleich_und_Sicherungsstand.pdf')))

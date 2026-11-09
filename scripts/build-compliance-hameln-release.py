@@ -22,9 +22,10 @@ from testakte_einzelpdf_common import document_arcname_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'compliance-abteilung-grosskonzern'
-VERSION = '445.35.9'
+VERSION = '445.35.13'
 TAG = PLUGIN + '-v' + VERSION
 MATERIAL = ROOT / 'scripts/data/compliance-hameln-vertiefung.json'
+FACHVERTIEFUNG = MATERIAL.with_name('compliance-hameln-fachvertiefung.json')
 WORKSHOP = 'Hameln_Compliance_35_Testakten_und_Vorlagen.zip'
 DEBRIEF = 'Hameln_Compliance_Nachbesprechung_35.zip'
 
@@ -78,9 +79,10 @@ def build_case(task):
     with ZipFile(individual) as archive:
         for source, arcname in pairs:
             reader = PdfReader(BytesIO(archive.read(arcname)))
-            writer.add_outline_item(source.name, len(writer.pages))
+            first_page = len(writer.pages)
             for page in reader.pages:
                 writer.add_page(page)
+            writer.add_outline_item(source.name, first_page)
     writer.compress_identical_objects(remove_duplicates=True, remove_unreferenced=True)
     buffer = BytesIO()
     writer.write(buffer)
@@ -140,8 +142,8 @@ def build(dist, *, rebuild=False, jobs=4):
     shutil.copyfile(ROOT / 'testakten/megaprompts' / (PLUGIN + '.md'), dist / (PLUGIN + '-master-prompt.md'))
     with ProcessPoolExecutor(max_workers=jobs) as executor:
         results = list(executor.map(build_case, ((c, str(dist), rebuild) for c in cases)))
-    if sum(c['documents'] for c in results) != 408:
-        raise ValueError('338 ursprüngliche und 70 ergänzende Dokumente erwartet.')
+    if sum(c['documents'] for c in results) != 420:
+        raise ValueError('338 ursprüngliche und 82 ergänzende Dokumente erwartet.')
     native = module('build-testakten-release-zips.py')
     with ZipFile(dist / WORKSHOP, 'x') as archive:
         native.write_bytes(archive, NOTICE_BYTES, NOTICE_FILENAME)
@@ -161,6 +163,7 @@ def build(dist, *, rebuild=False, jobs=4):
     members = {p.name: inspect_archive(p, flat=p.name != PLUGIN + '.zip') for p in sorted(dist.glob('*.zip'))}
     report = {'schema_version': 1, 'tag': TAG, 'version': VERSION, 'cases': results,
               'material_sha256': sha256(MATERIAL.read_bytes()).hexdigest(),
+              'fachvertiefung_sha256': sha256(FACHVERTIEFUNG.read_bytes()).hexdigest(),
               'plugin_members_sha256': hashes, 'archives': members}
     (dist / 'release-bestand.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n')
     (dist / 'checksums-sha256.txt').write_text(''.join(f'{sha256(p.read_bytes()).hexdigest()}  {p.name}\n' for p in sorted(dist.iterdir())))

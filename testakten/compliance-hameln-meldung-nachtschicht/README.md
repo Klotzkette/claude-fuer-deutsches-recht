@@ -24,8 +24,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/compliance-hameln-meldung-nachtschicht_gesamt.pdf`](gesamt-pdf/compliance-hameln-meldung-nachtschicht_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-meldung-nachtschicht.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.9/testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-meldung-nachtschicht.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/compliance-abteilung-grosskonzern-v445.35.13/testakte-compliance-hameln-meldung-nachtschicht-einzelpdfs.zip) |
 
 Die ZIP-Links laden den versionierten Komponentenrelease der Hamelner Compliance-Werkstatt. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -52,7 +52,13 @@ English: The original-format ZIP contains the working files directly at archive 
 - [12_Ergaenzende_Stellungnahme.eml](12_Ergaenzende_Stellungnahme.eml)
 - [13_Belegabgleich_und_Sicherungsstand.docx](13_Belegabgleich_und_Sicherungsstand.docx)
 
+- [14_Meldestelle_Schutzpruefung.eml](14_Meldestelle_Schutzpruefung.eml)
+- [15_Vermerk_Portal_Disposition_Lose.docx](15_Vermerk_Portal_Disposition_Lose.docx)
+- [16_Ereignisauszug_ME22.csv](16_Ereignisauszug_ME22.csv)
+
 Die ergänzende Stellungnahme und das Beleg- und Sicherungsprotokoll bilden eine weitere Bearbeitungsrunde. Prüfen Sie ihre Angaben an den benannten ursprünglichen Dateien und überarbeiten Sie das bisherige Arbeitsergebnis nur dort, wo die Beleglage es trägt.
+
+Für die letzte Bearbeitungsrunde reichen Sie Stücke 14 bis 16 zusammen mit dem bisherigen Entwurf nach. Aktualisieren Sie die Rückmeldung, den getrennten Auftrag an die Qualitätssicherung und die Schutzentscheidung für die Schichtplanung. Nutzen Sie dazu den [eigenständigen Fachskill](../../compliance-abteilung-grosskonzern/skills/interne-untersuchung-entscheiden/SKILL.md).
 
 ## 3 Bearbeitbare Vorlage
 

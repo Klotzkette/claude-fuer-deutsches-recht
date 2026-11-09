@@ -1,0 +1,13 @@
+Kennung,Teilmenge,Betrag EUR,Freigabespur,Bankausführung,Spurtyp
+L01,Zeitlücke,12400,2026-09-08T07:40:00Z,2026-09-08T09:51:00+02:00,Archivfreigabe
+L02,Zeitlücke,19800,2026-09-09T09:06:00Z,2026-09-09T10:54:00+02:00,Archivfreigabe
+L03,Zeitlücke,9600,2026-09-10T12:21:00+02:00,2026-09-10T12:30:00+02:00,Gezeichnete Vorabliste
+L04,Zeitlücke,14200,2026-09-11T13:14:00+02:00,2026-09-11T11:17:00Z,Zuordenbare Freigabe-ID
+L05,Zeitlücke,22800,2026-09-14T08:51:00+02:00,2026-09-14T09:10:00+02:00,Nur Scanzeit
+L06,Zeitlücke,7800,2026-09-15,2026-09-15T10:26:00+02:00,Nur Freigabedatum
+L07,Zeitlücke,16600,2026-09-16T08:40:00+02:00,2026-09-16T09:00:00+02:00,Nur Vorschau gespeichert
+L08,Zeitlücke,12400,2026-09-17T07:59:00+02:00,2026-09-17T09:20:00+02:00,Nur Stammdatenprüfung
+A17,Auditfall,18400,2026-09-17T10:18:00+02:00,2026-09-17T09:50:00+02:00,ERP-Bestätigung
+A22,Auditfall,21600,2026-09-21T10:35:00+02:00,2026-09-21T09:10:00+02:00,ERP-Bestätigung
+A23,Auditfall,26800,2026-09-22T08:54:00+02:00,2026-09-22T09:20:00+02:00,Papiervermerk ungeprüft
+A24,Auditfall,15600,,2026-09-23T10:09:00+02:00,Leistungsbeleg fehlt

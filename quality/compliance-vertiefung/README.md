@@ -17,3 +17,9 @@ Die Office-Konvertierung benötigt LibreOffice. Für layoutgetreue Ausgabe müss
 Mit `--dist <Releaseverzeichnis>` prüft dasselbe Werkzeug sämtliche äußeren Prüfsummen, Archivmitglieder, PDF-Seitenzahlen, Originaldateien im ZIP und die Übereinstimmung der Gesamt-PDFs in Repo, Einzel-Download und Originalformat-ZIP. Die zentralen ZIP- und Hinweisprüfungen bleiben unverändert in Kraft. Die 35 bisherigen Nachbesprechungsblätter bleiben getrennt und werden nicht als neue Musterlösungen der ergänzenden Unterlagen ausgegeben.
 
 Redaktionelle Quellen- und Verfahrensprüfung stehen im Profil `quality/evals/compliance-abteilung-grosskonzern.json`. Praktische Agentenproben werden gesondert dokumentiert; aus ihnen folgt kein angeblich erfolgreich ausgeführter Gesamtlauf aller 35 Fälle.
+
+## 4 Fachvertiefung zu ME-22, ME-24, ME-28 und ME-35
+
+`scripts/data/compliance-hameln-fachvertiefung.json` definiert vier weitere Beleglieferungen. Der Akten-Builder erzeugt daraus je eine E-Mail, ein Word-Dokument und eine CSV sowie die Fortsetzungsseite der betroffenen Word-Vorlage. Der Release-Builder erneuert mit `--rebuild-pdfs` alle 35 Lesefassungen. Lesezeichen werden erst angelegt, nachdem die Seiten des jeweiligen Aktenstücks in das PDF eingefügt sind.
+
+Der Test vergleicht die 408 bisherigen Originale mit dem historischen Bestand in diesem Verzeichnis. Für die neue Runde prüft er Originale, MIME-Anhänge, Tabellenwerte und Text der erzeugten PDF-Fassungen jeweils am betreffenden Lesezeichen. Er ermittelt die Startseite jedes der 420 Aktenstücke aus den Einzel-PDFs und vergleicht sie mit dem tatsächlichen Sprungziel. Der [Moderationsleitfaden](fachvertiefung-moderation.md) liegt getrennt von den Arbeitsarchiven.

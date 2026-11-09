@@ -1,0 +1,11 @@
+Zeitpunkt,Quelle,Kennung,Ereignis,Beobachtung
+2026-10-08T15:10:00+02:00,Kundennachricht,K-104,Bedarf abgesenkt,2 offene Reservetermine ohne Personenbezug
+2026-10-09T11:00:00+02:00,Dispositionssystem,A,Bedarfsversion exportiert,Z-17 mit 4 Vormerkungen
+2026-10-12T06:42:00+02:00,Hinweisportal,ME-22,Meldung eingegangen,Geschützter Postkorb
+2026-10-14T09:34:00+02:00,Dispositionssystem,D-18,Bedarfsversion B gespeichert,2 Termine entfernt. Grund Frei-Wunsch
+2026-10-19T12:38:00+02:00,Hinweisportal,B-1,Bestätigung freigegeben,Fallbearbeitung
+2026-10-19T12:43:00+02:00,Hinweisportal,B-1,Bestätigung bereitgestellt,Für Postkorb freigeschaltet
+2026-10-20T08:17:00+02:00,Hinweisportal,B-1,Bestätigung geöffnet,Erster protokollierter Abruf
+2026-10-23T14:08:00+02:00,Einsatzdienst,PLAN-NOV,Plan freigegeben,Z-17 mit 2 Nachtschichten
+2026-10-26T08:51:00+01:00,Hinweisportal,ME-22,Weitere Nachricht,Zusammenhang ausdrücklich geltend gemacht
+2026-10-26T09:22:00+01:00,Qualitätssicherung,L-S11,Ereignisjournal erhalten,Sammelimport und neue Prüfzeile

@@ -7,14 +7,18 @@ Ausgangsdateien. Datumsangaben bleiben an die jeweilige Fallchronologie gebunden
 """
 from __future__ import annotations
 import argparse
+import csv
 from datetime import datetime
 from email import policy
 from email.message import EmailMessage
+from email.parser import BytesParser
 from email.utils import format_datetime
 from hashlib import sha256
+import importlib.util
 from io import BytesIO
 import json
 from pathlib import Path
+import re
 from zoneinfo import ZoneInfo
 from zipfile import ZipFile, ZipInfo, ZIP_DEFLATED
 
@@ -26,6 +30,7 @@ from docx.shared import Cm, Pt, RGBColor
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = Path(__file__).with_name('data') / 'compliance-hameln-vertiefung.json'
+FACHVERTIEFUNG = DATA.with_name('compliance-hameln-fachvertiefung.json')
 PLUGIN = 'compliance-abteilung-grosskonzern'
 MAIL = '12_Ergaenzende_Stellungnahme.eml'
 PROTOCOL = '13_Belegabgleich_und_Sicherungsstand.docx'
@@ -169,7 +174,7 @@ def protocol(c,path):
     doc.core_properties.title=p['title']+' '+c['nr'];save(doc,path)
 
 
-def template(c,path):
+def template(c,path,extension=None):
     d=c['template'];doc=setup(c,True)
     doc.add_paragraph(d['title'],style='Title')
     doc.add_paragraph(c['nr']+' · '+c['title'],style='Subtitle')
@@ -189,18 +194,73 @@ def template(c,path):
     addpara(doc,'Wir schlagen [konkrete Maßnahme] für [Rechtsträger, Funktion und Zeitraum] unter [überprüfbarer Voraussetzung] vor. Gegenüber [Alternative mit konkreter Folge] überwiegt [begründete Erwägung]. Vor [betroffenem Schritt] klärt [zuständige Rolle] die Tatsache [offener Punkt] anhand [Nachweis].')
     heading(doc,start+4,'Umsetzung und Nachprüfung')
     addpara(doc,'[Verantwortliche Rolle] setzt [Schritt] bis [Datum und Uhrzeit] um. [Unabhängige prüfende Rolle] kontrolliert die Wirkung am [Termin] anhand [beobachtbares Kriterium und Beleg]. Bei [Abweichung] gilt [Stopp, Begrenzung oder Eskalation]. [Zuständige Rolle] erteilt die Freigabe zum [Versand, Vollzug oder Betrieb] erst nach [Nachweis].')
+    if extension:
+        doc.add_page_break()
+        heading(doc, start+5, 'Entscheidung nach Eingang weiterer Unterlagen')
+        addpara(doc, 'Gleichen Sie die Unterlagen 14 bis 16 mit der ersten Fassung ab. Halten Sie jede Änderung mit Datum, Fundstelle und ihrer konkreten Folge fest.')
+        for index, (label, paragraph) in enumerate(extension['template_fields'], 1):
+            heading(doc, f'{start+5}.{index}', label)
+            addpara(doc, paragraph)
     doc.core_properties.title=d['title'];save(doc,path)
 
 
-def build(output_root:Path,data:Path=DATA):
+def load_fachvertiefung(path=FACHVERTIEFUNG):
+    content = json.loads(path.read_text())
+    cases = {case['nr']: case for case in content['cases']}
+    if content['schema_version'] != 1 or len(content['cases']) != 4 or set(cases) != {'ME-22', 'ME-24', 'ME-28', 'ME-35'}:
+        raise ValueError('Erwartet werden vier verschiedene Fachvertiefungen.')
+    return cases
+
+
+def write_evidence(directory, case, writer):
+    documents = {item['filename']: item for item in case['documents']}
+    if len(case['documents']) != 3 or sorted(Path(name).suffix for name in documents) != ['.csv', '.docx', '.eml']:
+        raise ValueError('Je Fall sind E-Mail, Word-Dokument und CSV erforderlich.')
+    for name in documents:
+        if not re.fullmatch(r'(?:14_[A-Za-z0-9_-]+\.eml|15_[A-Za-z0-9_-]+\.docx|16_[A-Za-z0-9_-]+\.csv)', name):
+            raise ValueError('Ungültiger Dateiname: ' + name)
+    context = {'id': case['nr'], 'company': 'Merrensteg Elektrosysteme SE', 'project': 'Recht und Compliance · Hameln',
+               'message_domain': 'merrensteg.example'}
+    for name, record in documents.items():
+        path = directory / name
+        if path.suffix == '.docx':
+            writer.write_docx(path, record, context)
+        elif path.suffix == '.csv':
+            with path.open('w', newline='', encoding='utf-8') as stream:
+                csv.writer(stream, lineterminator='\n').writerows(writer.rows(record))
+    for name, record in documents.items():
+        if name.endswith('.eml'):
+            path = directory / name
+            payload = record.copy()
+            reply = payload.pop('reply_to', None)
+            writer.write_eml(path, payload, context, directory, documents)
+            if reply:
+                if reply != MAIL:
+                    raise ValueError('Die Fortsetzung muss auf die ergänzende Stellungnahme antworten.')
+                parser = BytesParser(policy=policy.SMTP)
+                message = parser.parsebytes(path.read_bytes())
+                message['In-Reply-To'] = parser.parsebytes((directory / reply).read_bytes())['Message-ID']
+                path.write_bytes(message.as_bytes())
+
+
+def build(output_root:Path,data:Path=DATA,fachvertiefung:Path=FACHVERTIEFUNG):
     content=json.loads(data.read_text());cases=content['cases']
     assert content['schema_version']==1 and len(cases)==35
+    extensions = load_fachvertiefung(fachvertiefung)
+    spec = importlib.util.spec_from_file_location('compliance_native_writer', DATA.parent.parent / 'build-projekteinkauf-baubranche-akten.py')
+    writer = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(writer)
     for c in cases:
         assert c['slug'].startswith('compliance-hameln-')
         case=output_root/'testakten'/c['slug'];case.mkdir(parents=True,exist_ok=True)
         mail(c,case/MAIL);protocol(c,case/PROTOCOL)
-        template(c,output_root/PLUGIN/'templates'/f"{c['slug']}.docx")
-    print(f'{len(cases)} Fallfortsetzungen, {len(cases)*2} neue Aktenstücke, {len(cases)} Wordvorlagen erzeugt.')
+        extension = extensions.get(c['nr'])
+        if extension:
+            if extension['slug'] != c['slug']:
+                raise ValueError('Fachvertiefung passt nicht zum Fall: ' + c['nr'])
+            write_evidence(case, extension, writer)
+        template(c,output_root/PLUGIN/'templates'/f"{c['slug']}.docx",extension)
+    print(f'{len(cases)} Fallfortsetzungen, {len(cases)*2+len(extensions)*3} ergänzende Aktenstücke, {len(cases)} Wordvorlagen erzeugt.')
 
 
 if __name__=='__main__':
