@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`projekteinkauf-baubranche-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`projekteinkauf-baubranche-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [projekteinkauf-baubranche.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.10/projekteinkauf-baubranche.zip) |
+| **Plugin (installierbar)** | ZIP | [projekteinkauf-baubranche.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/projekteinkauf-baubranche-v445.35.11/projekteinkauf-baubranche.zip) |
 
 ## So benutzt man einen Skill
 

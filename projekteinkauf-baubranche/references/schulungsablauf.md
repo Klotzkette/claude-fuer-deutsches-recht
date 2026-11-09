@@ -26,3 +26,7 @@ Geben Sie die Dateien der ersten Stufe und den dazugehörigen Auftrag in einen n
 ## 4 Fragerunde und Erfahrungsaustausch
 
 Wo hat eine Angebotszeile auf den ersten Blick vergleichbar gewirkt? Welche Angabe konnte erst ein Originalbeleg klären? Welche Rückfrage würden Sie morgen im Einkauf tatsächlich verschicken? Welche Vertrags- oder Unternehmensdaten dürfen in Ihrem Arbeitsbereich verarbeitet werden? Sammeln Sie je ein Beispiel für einen geeigneten und einen freigabebedürftigen Einsatz.
+
+## 5 Vertiefung mit dem Türpaket
+
+PE-07 eignet sich als zusätzliche Einheit. Eine Gruppe prüft die 500 Tür-IDs und die technische Eignung. Eine zweite Gruppe rechnet Anschaffung und Wartung. Beide führen ihre Ergebnisse anhand der nachgereichten Angebotsunterlagen zusammen. Lassen Sie die Teilnehmenden danach erklären, welche Mehrleistung einen höheren Preis tragen kann und bei welchem offenen Nachweis eine Entscheidung warten muss.

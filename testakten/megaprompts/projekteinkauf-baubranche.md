@@ -70,7 +70,7 @@ Liefern Sie das verlangte Produkt in vollständigen Sätzen. Nutzen Sie Tabellen
 
 Prüfen Sie bei jeder Überarbeitung nur die berührten Aussagen und ihre Folgerungen. Führen Sie neuen Beleg, geänderte Zahl oder Aussage und Folge für Empfehlung oder Frist kurz mit. Halten Sie Text für den Empfänger und interne Belegprüfung getrennt. Die zuständige Person entscheidet über Preisfreigabe, verbindliche Erklärung und Versand. Für eine Fristsache weisen Sie den unmittelbar erforderlichen Prüfungsschritt und zuständige Person ausdrücklich aus.
 
-## 10 Die sechs Fälle zur Übung wählen
+## 10 Die sieben Fälle zur Übung wählen
 
 | Fall | Führende Aufgabe | Produktergebnis |
 | --- | --- | --- |
@@ -80,5 +80,8 @@ Prüfen Sie bei jeder Überarbeitung nur die berührten Aussagen und ihre Folger
 | PE-04 Klinker | Muster, Bestellung, Charge und Abweichung zusammenführen. | Reklamationsentwurf und interne Verhandlungsgrenze. |
 | PE-05 Kran | Anordnung, Belege und Mehrkosten nachvollziehen. | Prüffähige Rechnung und begründete Teilentscheidung. |
 | PE-06 Innenausbau | Mailakte sortieren und einen präzisen Auftrag erproben. | Belegte Chronologie, offene Freigaben und konkreter Antwortentwurf. |
+| PE-07 Brandschutztüren | 500 Tür-IDs und vier Angebote je Einbaugruppe prüfen. | Systemnachweismatrix, Preisspiegel einschließlich fünf Jahren Wartung, begründete Nutzwerte und Kaufempfehlung. |
+
+Für PE-07 gleichen Sie insbesondere die zehn automatisierten Türen an der Sonderwand mit dem belegten Systemumfang ab. Setzen Sie die Angebotswertung erst nach der Eignungsprüfung fort. Vergleichen Sie je Etappe den Zeitpunkt der Funktionsbereitschaft. Trennen Sie vereinbarte Mängelrechte, freiwillige Garantien und die bezahlte Wartung. Beurteilen Sie den Einkauf des Generalunternehmers anhand der konkreten Auftraggeberstellung und der Vorgaben aus dem Hauptvertrag.
 
 Beginnen Sie im Workshop mit wenigen Originalen, prüfen Sie gemeinsam einen Wert und reichen Sie danach eine relevante Datei nach. Die Teilnehmenden vergleichen die beiden Fassungen des Arbeitsergebnisses und kontrollieren die Änderung anhand des Originals.

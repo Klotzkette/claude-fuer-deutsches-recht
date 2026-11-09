@@ -8,7 +8,7 @@ BGH, Urteil vom 8. August 2019, VII ZR 34/18, BauR 2019, 1766, Rn. 17, 29–30 u
 
 Benennen Sie Aufgabe, Gewerk, Parteien, maßgebliche Fassung, Produkt und Termin. Belegen Sie jede entscheidende Zahl oder Aussage mit Datei und Seite, Positionsnummer, Tabellenzeile oder Nachricht und Anlage. Trennen Sie Original, Angebot, Annahme und offene Frage. Prüfen Sie eine Rechenzeile und einen tragenden Satz selbst. Arbeiten Sie nach einem neuen Beleg am bestehenden Entwurf weiter und erklären Sie die geänderte Folge.
 
-Die sechs Schulungsakten spielen beim privaten Generalunternehmer Limmerbogen Bau GmbH am Bildungscampus Leineaue in Hannover. Klären Sie bei echten Fällen Auftraggeberstatus, Förderung und Vertragsvorgaben. Unter den Voraussetzungen des § 99 GWB können auch private Rechtsträger öffentliche Auftraggeber sein. Verwenden Sie bei Vergabebindung nur den vorgesehenen Verfahrensweg. [§ 99 GWB](https://www.gesetze-im-internet.de/gwb/__99.html).
+Die ersten sechs Schulungsakten spielen beim Generalunternehmer Limmerbogen Bau GmbH am Bildungscampus Leineaue. In PE-07 beschafft die Krimpfort SE & Co. KG für einen Bundesbau. Klären Sie Auftraggeberstatus, Förderung und Vertragsvorgaben für den konkreten Einkauf. Unter den Voraussetzungen des § 99 GWB können auch private Rechtsträger öffentliche Auftraggeber sein. Verwenden Sie bei Vergabebindung den vorgesehenen Verfahrensweg. [§ 99 GWB](https://www.gesetze-im-internet.de/gwb/__99.html).
 
 ## 3 Den passenden Arbeitsweg wählen
 
@@ -23,6 +23,8 @@ Die sechs Schulungsakten spielen beim privaten Generalunternehmer Limmerbogen Ba
 **Krannachtrag, PE-05.** Trennen Sie Vertragssoll, Änderungsbegehren, Befugnis, Anordnung und tatsächlichen Einsatz. Wählen Sie den einschlägigen BGB- oder VOB/B-Prüfweg. Rechnen Sie Menge oder Stunden mal Satz, Zuschläge und Minderaufwand. Prüfen Sie Vorhaltung, Ausfall und doppelt angesetzte Leistungen einzeln. Nennen Sie belegte und offene Teilbeträge und deren Konsequenz. [§§ 650b und 650c BGB](https://www.gesetze-im-internet.de/bgb/__650c.html).
 
 **Mailakte und Einstieg, PE-06.** Lesen Sie Nachrichtenkopf, eigene Aussage, zitierte Kette und tatsächlichen Anhang getrennt. Stellen Sie Fassung, Termin, Empfänger und Zuständigkeit chronologisch zusammen. Entwerfen Sie nur die Antwort zur beauftragten Entscheidung. Bei einem neuen Dokument ändern Sie die betroffene Stelle mit Begründung.
+
+**Brandschutztüren, PE-07.** Stimmen Sie die 500 Tür-IDs mit den fünf LV-Gruppen ab. Prüfen Sie je Türsystem und Einbausituation die verlangten Nachweise, besonders für die zehn Antriebe an der Sonderwand. Vergleichen Sie die geeigneten Angebote mit vollständigen Netto-Kosten und gleich abgegrenzter Wartung. Prüfen Sie Funktionsbereitschaft je Bauabschnitt. Halten Sie Garantieumfang, gesetzliche oder vertragliche Mängelrechte und Servicefristen getrennt. Belegen Sie die Nutzwertpunkte mit dem jeweiligen Angebotsstand.
 
 ## 4 Das Produkt abgeben
 

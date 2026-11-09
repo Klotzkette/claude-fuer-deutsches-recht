@@ -45,11 +45,11 @@ FONT_NAMES = ('Times New Roman.ttf', 'Times New Roman Bold.ttf',
 
 def cases():
     result = []
-    for group in ('a', 'b'):
+    for group in ('a', 'b', 'c'):
         source = ROOT / 'scripts/data' / f'{PLUGIN}-{group}.json'
         result.extend(json.loads(source.read_text(encoding='utf-8'))['cases'])
-    if [case['id'] for case in result] != [f'PE-{n:02}' for n in range(1, 7)]:
-        raise ValueError('Die Falldaten müssen PE-01 bis PE-06 genau einmal enthalten.')
+    if [case['id'] for case in result] != [f'PE-{n:02}' for n in range(1, 8)]:
+        raise ValueError('Die Falldaten müssen PE-01 bis PE-07 genau einmal enthalten.')
     return result
 
 
@@ -125,7 +125,7 @@ def write_pdf(path, record, case):
         canvas.setFont('PESerifBold', 10)
         canvas.drawString(49, height - 33, record['issuer'])
         canvas.setFont('PESerif', 9)
-        canvas.drawRightString(width - 49, height - 33, PROJECT)
+        canvas.drawRightString(width - 49, height - 33, case.get('project', PROJECT))
         canvas.setStrokeColor(HexColor('#B9C9C8'))
         canvas.line(49, 40, width - 49, 40)
         canvas.drawString(49, 27, case['id'])
@@ -161,7 +161,7 @@ def write_docx(path, record, case):
     doc.styles['Heading 1'].font.bold = True
     header = sec.header.paragraphs[0]
     header.style = doc.styles['Normal']
-    run = header.add_run(record['issuer'] + '   ·   ' + PROJECT)
+    run = header.add_run(record['issuer'] + '   ·   ' + case.get('project', PROJECT))
     run.bold = True
     run.font.size = Pt(9)
     run.font.color.rgb = RGBColor.from_string(TEAL[1:])
@@ -174,7 +174,9 @@ def write_docx(path, record, case):
     doc.add_paragraph(record['title'], 'Title')
     doc.add_paragraph(f"{case['id']} · {display_date(record['date'])}", 'Subtitle')
     for index, label, section in sections(record):
-        doc.add_heading(f'{index} {label}', 1)
+        heading = doc.add_heading(f'{index} {label}', 1)
+        if section.get('page_break_before'):
+            heading.paragraph_format.page_break_before = True
         for paragraph in section.get('paragraphs', []):
             doc.add_paragraph(paragraph)
         if 'table' in section:
@@ -257,7 +259,8 @@ def write_png(path, record, fonts):
 
 
 def message_id(case, filename):
-    return f"<{case['id'].lower()}.{Path(filename).stem.lower()}@limmerbogen.example>"
+    domain = case.get('message_domain', 'limmerbogen.example')
+    return f"<{case['id'].lower()}.{Path(filename).stem.lower()}@{domain}>"
 
 
 def write_eml(path, record, case, directory, documents):
@@ -298,16 +301,65 @@ def price_template(target):
         'sheets': [{'name': 'Preisspiegel', 'title': 'Preisspiegel mit Beleg je Position',
                     'note': 'Tragen Sie Menge und Einzelpreis je Vergleichseinheit ein. Der Positionswert erscheint bei Status belegt.',
                     'headers': headers, 'rows': [[None] * len(headers) for _ in range(count)], 'textColumns': ['B'],
-                    'formulas': {f'G{n}': f'=IF(AND(F{n}="belegt",COUNT(C{n},E{n})=2),ROUND(C{n}*E{n},2),"")'
+                    'formulas': {f'G{n}': f'=IF(AND(F{n}="belegt",H{n}<>"",COUNT(C{n},E{n})=2),ROUND(C{n}*E{n},2),"")'
                                  for n in range(4, count + 4)}}],
     }
 
 
-def build(target, node, node_modules, fonts, previews):
+def door_price_template(target, case):
+    comparison = case['comparison']
+    positions, costs, score = [], [], []
+    line_formulas, cost_formulas, score_formulas = {}, {}, {}
+    for row, offer in enumerate(comparison['offers'], 4):
+        label = f"{offer['id']} {offer['name']}"
+        first = len(positions) + 4
+        for key, quantity in comparison['quantities'].items():
+            positions.append([label, key, quantity, 'Stück', None, None, None, None])
+        for key in ('Montage und Logistik', 'Übrige Ergänzungen', 'Unbedingter Preisabzug'):
+            positions.append([label, key, 1, 'Pauschal', None, None, None, None])
+        last = len(positions) + 3
+        for n in range(first, last + 1):
+            line_formulas[f'G{n}'] = f'=IF(AND(F{n}="belegt",H{n}<>"",COUNT(C{n},E{n})=2),ROUND(C{n}*E{n},2),"")'
+        costs.append([label, None, None, None, None, None, None])
+        cost_formulas[f'C{row}'] = f'=IF(COUNT(Positionen!G{first}:G{last})=8,SUM(Positionen!G{first}:G{last}),"")'
+        cost_formulas[f'E{row}'] = f'=IF(COUNT(C{row}:D{row})=2,SUM(C{row}:D{row}),"")'
+        cost_formulas[f'F{row}'] = f'=IF(AND(B{row}="geeignet",ISNUMBER(E{row}),E{row}>0),E{row},"")'
+        score.append([label, None, None, None, None, None, None, None])
+        score_formulas[f'B{row}'] = f'=IF(ISNUMBER(Kosten!F{row}),Kosten!F{row},"")'
+        score_formulas[f'C{row}'] = f'=IF(ISNUMBER(B{row}),ROUND(45*MIN($B$4:$B$7)/B{row},2),"")'
+        score_formulas[f'G{row}'] = (
+            f'=IF(COUNT(C{row}:F{row})=4,IF(AND(MIN(D{row}:F{row})>=0,MAX(D{row}:F{row})<=5,'
+            f'MOD(D{row},1)=0,MOD(E{row},1)=0,MOD(F{row},1)=0),'
+            f'ROUND(C{row}+5*D{row}+4*E{row}+2*F{row},2),""),"")'
+        )
+    return {'path': str(target), 'caseId': case['id'], 'sheets': [
+        {'name': 'Positionen', 'title': 'Vergleichspositionen für 500 Innentüren',
+         'note': 'Erfassen Sie Netto-Einheitspreise mit Beleg und Status belegt. Bei enthaltenen Zusatzleistungen belegen Sie den Ansatz von null. Ein unbedingter Preisabzug ist negativ.',
+         'headers': ['Anbieter', 'Position', 'Menge', 'Einheit', 'EP netto EUR', 'Stand', 'Wert netto EUR', 'Fundstelle'],
+         'rows': positions, 'textColumns': ['B'], 'formulas': line_formulas},
+        {'name': 'Kosten', 'title': 'Anschaffung und fünf Jahre Wartung',
+         'note': 'Erfassen Sie die gleich abgegrenzte Wartung netto. Setzen Sie den Stand geeignet erst nach Prüfung aller Muss-Kriterien. Bedingte Preisvorteile bleiben in der Begründung getrennt.',
+         'headers': ['Anbieter', 'Eignung', 'Auftrag netto EUR', 'Wartung 5 J. netto EUR', 'Vergleich netto EUR',
+                     'Wertungsbasis netto EUR', 'Wartungsbeleg und offene Punkte'],
+         'rows': costs, 'formulas': cost_formulas},
+        {'name': 'Nutzwert', 'title': 'Preis Qualität Termin und Service',
+         'note': 'Preispunkte folgen aus dem besten geeigneten Vergleichspreis. Geben Sie je 0 bis 5 Punkte nach Beleg ein. Gewichte gemäß Vorabvermerk sind 45, 25, 20 und 10.',
+         'headers': ['Anbieter', 'Wertungsbasis EUR', 'Preis bis 45', 'Qualität 0–5', 'Termin 0–5',
+                     'Service 0–5', 'Punkte bis 100', 'Begründung und Fundstellen'],
+         'rows': score, 'formulas': score_formulas},
+    ]}
+
+
+def build(target, node, node_modules, fonts, previews, selected=None):
     font_paths = set_fonts(fonts)
     workbooks = []
     emails = []
-    for case in cases():
+    planned = cases()
+    if selected:
+        planned = [case for case in planned if case['id'] == selected]
+        if not planned:
+            raise ValueError('Unbekannte Fall-ID: ' + selected)
+    for case in planned:
         if not re.fullmatch(r'projekteinkauf-[a-z0-9-]+', case['slug']):
             raise ValueError('Ungültiger Aktenname: ' + case['slug'])
         directory = target / 'testakten' / case['slug']
@@ -335,20 +387,27 @@ def build(target, node, node_modules, fonts, previews):
                 case '.xlsx':
                     for sheet in record['sheets']:
                         rows(sheet)
-                    workbooks.append({'path': str(path), 'caseId': case['id'], 'sheets': record['sheets']})
+                    sheets = record['sheets']
+                    if case.get('project'):
+                        sheets = [{'note': case['project'] + ' · Einkauf', **sheet} for sheet in sheets]
+                    workbooks.append({'path': str(path), 'caseId': case['id'], 'sheets': sheets})
                 case '.eml':
                     emails.append((path, record, case, directory, documents))
                 case _:
                     raise ValueError('Nicht unterstütztes Format: ' + filename)
         templates = target / PLUGIN / 'templates'
         templates.mkdir(parents=True, exist_ok=True)
+        as_of = case.get('as_of', '2026-11-09')
         write_docx(templates / f"{case['slug']}.docx",
-                   {**case['template'], 'issuer': COMPANY, 'date': '2026-11-09'}, case)
+                   {**case['template'], 'issuer': case.get('company', COMPANY), 'date': as_of}, case)
+        if 'comparison' in case:
+            workbooks.append(door_price_template(templates / 'Brandschutztueren_Preisspiegel.xlsx', case))
         debrief = target / 'quality' / PLUGIN / 'nachbesprechung'
         debrief.mkdir(parents=True, exist_ok=True)
         write_pdf(debrief / f"{case['id']}_Nachbesprechung.pdf",
-                  {**case['debrief'], 'issuer': 'Schulungsleitung · Projekteinkauf', 'date': '2026-11-09'}, case)
-    workbooks.append(price_template(target / PLUGIN / 'templates/Preisspiegel.xlsx'))
+                  {**case['debrief'], 'issuer': 'Schulungsleitung · Projekteinkauf', 'date': as_of}, case)
+    if not selected or selected == 'PE-01':
+        workbooks.append(price_template(target / PLUGIN / 'templates/Preisspiegel.xlsx'))
     with tempfile.TemporaryDirectory(prefix='projekteinkauf-xlsx-') as directory:
         stage = Path(directory)
         (stage / 'node_modules').symlink_to(node_modules, target_is_directory=True)
@@ -362,7 +421,7 @@ def build(target, node, node_modules, fonts, previews):
         subprocess.run(args, check=True)
     for args in emails:
         write_eml(*args)
-    print(f'{len(cases())} Akten, {len(workbooks)} Arbeitsmappen, {len(emails)} E-Mails.')
+    print(f'{len(planned)} Akten, {len(workbooks)} Arbeitsmappen, {len(emails)} E-Mails.')
 
 
 if __name__ == '__main__':
@@ -373,6 +432,7 @@ if __name__ == '__main__':
     parser.add_argument('--font-dir', type=Path, default=Path(os.environ.get(
         'PROJEKTEINKAUF_FONT_DIR', '/System/Library/Fonts/Supplemental')))
     parser.add_argument('--xlsx-previews', type=Path)
+    parser.add_argument('--case', help='Nur die angegebene Fall-ID bauen, zum Beispiel PE-07.')
     args = parser.parse_args()
     build(args.output_root.resolve(), args.node.resolve(), args.node_modules.resolve(),
-          args.font_dir.resolve(), args.xlsx_previews.resolve() if args.xlsx_previews else None)
+          args.font_dir.resolve(), args.xlsx_previews.resolve() if args.xlsx_previews else None, args.case)

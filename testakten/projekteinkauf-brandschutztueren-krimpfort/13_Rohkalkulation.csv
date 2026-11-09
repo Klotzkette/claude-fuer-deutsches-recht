@@ -1,0 +1,21 @@
+Angebot,Position,Stück,Einzelpreis netto EUR,Summe netto EUR,Enthaltener Umfang,Beleg
+A,B1,360,780,280800,Element ohne Montage und Fracht,08_Angebot_A_Emswiek.pdf
+A,B2,50,1020,51000,Vorbereitetes Element ohne Antrieb und Montage,08_Angebot_A_Emswiek.pdf
+A,F1,54,1490,80460,Element ohne Montage und Fracht,08_Angebot_A_Emswiek.pdf
+A,T1,24,1680,40320,Element ohne Montage und Fracht,08_Angebot_A_Emswiek.pdf
+A,S1,12,2220,26640,Element ohne Montage und Fracht,08_Angebot_A_Emswiek.pdf
+B,B1,360,960,345600,Komplett kalkuliert,09_Angebot_B_Weserfalz.pdf
+B,B2,50,1710,85500,Komplett kalkuliert,09_Angebot_B_Weserfalz.pdf
+B,F1,54,1780,96120,Komplett kalkuliert,09_Angebot_B_Weserfalz.pdf
+B,T1,24,2000,48000,Komplett kalkuliert,09_Angebot_B_Weserfalz.pdf
+B,S1,12,2600,31200,Komplett kalkuliert,09_Angebot_B_Weserfalz.pdf
+C,B1,360,1020,367200,Komplett kalkuliert,10_Angebot_C_Jadeholm.pdf
+C,B2,50,1850,92500,Komplett kalkuliert,10_Angebot_C_Jadeholm.pdf
+C,F1,54,1920,103680,Komplett kalkuliert,10_Angebot_C_Jadeholm.pdf
+C,T1,24,2150,51600,Komplett kalkuliert,10_Angebot_C_Jadeholm.pdf
+C,S1,12,2840,34080,Komplett kalkuliert,10_Angebot_C_Jadeholm.pdf
+D,B1,360,840,302400,Komplett kalkuliert,11_Angebot_D_Friesenlint.pdf
+D,B2,50,1370,68500,"Komplett kalkuliert, Einbaudetail offen",11_Angebot_D_Friesenlint.pdf
+D,F1,54,1420,76680,Komplett kalkuliert,11_Angebot_D_Friesenlint.pdf
+D,T1,24,1690,40560,Komplett kalkuliert,11_Angebot_D_Friesenlint.pdf
+D,S1,12,1900,22800,"Komplett kalkuliert, Einbaudetail offen",11_Angebot_D_Friesenlint.pdf
