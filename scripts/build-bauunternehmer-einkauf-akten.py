@@ -3,9 +3,11 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import importlib.util
 import json
 from pathlib import Path
+import re
 import shutil
 
 
@@ -15,6 +17,9 @@ CASE = f'{PLUGIN}-brandschutztueren-krimpfort'
 CASE_ID = 'BE-01'
 DATA = ROOT / 'scripts/data/bauunternehmer-einkauf-korrespondenz.json'
 MODERATION = ROOT / 'scripts/data/bauunternehmer-einkauf-moderation.json'
+HISTORY = '00_LV_Entstehung'
+HISTORY_GROUPS = {'01_Planung': 'lv-planung', '02_Markterkundung': 'lv-markt', '03_LV_Freigabe': 'lv-freigabe'}
+RUNTIME = Path.home() / '.cache/codex-runtimes/codex-primary-runtime/dependencies'
 
 
 def load_script(name):
@@ -22,6 +27,17 @@ def load_script(name):
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
+
+
+def history_data():
+    for folder, source in HISTORY_GROUPS.items():
+        path = DATA.with_name(f'{PLUGIN}-{source}.json')
+        documents = json.loads(path.read_text(encoding='utf-8'))['documents']
+        names = {document['filename'] for document in documents}
+        if len(names) != len(documents) or any(not re.fullmatch(r'[PML]\d{2}_[A-Za-z0-9_]+\.(pdf|docx|eml|csv|xlsx)', name)
+                                                for name in names):
+            raise ValueError('Ungültige oder doppelte LV-Vorgeschichte: ' + str(path))
+        yield Path(HISTORY) / folder, documents
 
 
 def case_data():
@@ -38,11 +54,41 @@ def case_data():
         'title': 'Krimpfort kauft 500 Brandschutztüren',
         'summary': 'Die Krimpfort SE & Co. KG kauft 500 Brandschutztüren für einen fiktiven Bundesbau in Bremen. Vier native GAEB-Angebote, ein gemeinsames X83 und eine mehrstufige Verhandlungsakte verbinden Eignungsprüfung, Preisspiegel, Angebotsbindung und Freigabe.',
         'as_of': '2026-12-04',
-        'documents': base['documents'] + exchange + extra['documents'],
+        'documents': base['documents'] + exchange + extra['documents'] + [
+            {**doc, 'filename': (folder / doc['filename']).as_posix()}
+            for folder, docs in history_data() for doc in docs
+        ],
     }, base, extra
 
 
-def build(output, gaeb, fonts):
+def build_history(target, case, writer, node, node_modules, previews):
+    workbooks, emails = [], []
+    for folder, documents in history_data():
+        directory = target / folder
+        directory.mkdir(parents=True, exist_ok=True)
+        names = {doc['filename'] for doc in documents}
+        for doc in documents:
+            path = directory / doc['filename']
+            match path.suffix:
+                case '.pdf':
+                    writer.write_pdf(path, doc, case)
+                case '.docx':
+                    writer.write_docx(path, doc, case)
+                case '.csv':
+                    with path.open('w', newline='', encoding='utf-8') as stream:
+                        csv.writer(stream, lineterminator='\n').writerows(writer.rows(doc))
+                case '.xlsx':
+                    for sheet in doc['sheets']:
+                        writer.rows(sheet)
+                    workbooks.append({'path': str(path), 'caseId': case['id'], 'sheets': doc['sheets']})
+                case '.eml':
+                    emails.append((path, doc, {**case, 'message_domain': 'krimpfort.example'}, directory, names))
+    writer.write_workbooks(workbooks, node, node_modules, previews)
+    for args in emails:
+        writer.write_eml(*args)
+
+
+def build(output, gaeb, fonts, node=RUNTIME / 'node/bin/node', node_modules=RUNTIME / 'node/node_modules', previews=None):
     writer = load_script('build-projekteinkauf-baubranche-akten')
     writer.set_fonts(fonts)
     case, base, extra = case_data()
@@ -69,6 +115,7 @@ def build(output, gaeb, fonts):
             writer.write_eml(path, doc, {**case, 'id': base['id']}, target, names)
         elif path.suffix != '.pdf':
             raise ValueError('Unerwartetes Format im Schriftverkehr: ' + path.name)
+    build_history(target, case, writer, node, node_modules, previews)
     templates = output / PLUGIN / 'templates'
     templates.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(ROOT / 'projekteinkauf-baubranche/templates/Brandschutztueren_Preisspiegel.xlsx',
@@ -97,5 +144,8 @@ if __name__ == '__main__':
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--gaeb', type=Path, required=True)
     parser.add_argument('--fonts', type=Path, default=Path('/System/Library/Fonts/Supplemental'))
+    parser.add_argument('--node', type=Path, default=RUNTIME / 'node/bin/node')
+    parser.add_argument('--node-modules', type=Path, default=RUNTIME / 'node/node_modules')
+    parser.add_argument('--xlsx-previews', type=Path)
     args = parser.parse_args()
-    build(args.output, args.gaeb, args.fonts)
+    build(args.output, args.gaeb, args.fonts, args.node, args.node_modules, args.xlsx_previews)

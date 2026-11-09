@@ -1,0 +1,7 @@
+Datum,Ebene,Kennung,Gruppe,Delta St,Grund
+30.10.2026,E0,E0-082,B2,1,Fehlte in T-03
+30.10.2026,E1,E1-082,B1,-1,Umstellung auf B2
+30.10.2026,E1,E1-082,B2,1,Bedienimpuls bestätigt
+30.10.2026,E3,F3-17,F1,-1,Doppelt zu E3-093
+30.10.2026,E4,E4-099,S1,1,Technikplan
+30.10.2026,E4,E4-100,S1,1,Technikplan

@@ -1,0 +1,31 @@
+Marktteilnehmer,Kostenelement,Menge,EUR je Einheit,EUR netto,Herkunft
+Nordriegel,B1,360,810,291600,M04
+Nordriegel,B2,50,1060,53000,M04
+Nordriegel,F1,54,1430,77220,M04
+Nordriegel,T1,24,1660,39840,M04
+Nordriegel,S1,12,2190,26280,M04
+Nordriegel,Montage,500,188,94000,M11 interne Annahme
+Nordriegel,Antrieb,50,610,30500,M11 interne Annahme
+Nordriegel,Inbetriebnahme,50,84,4200,M11 interne Annahme
+Nordriegel,Fracht und Entladung,1,10800,10800,M11 interne Annahme
+Nordriegel,Dokumentation,1,4200,4200,M11 interne Annahme
+Nordriegel,Reserve W-S,10,600,6000,M11 interne Annahme
+Nordriegel,Budgetwert,,,637640,Summe Rechenzeilen
+Marschwerk,B1,360,1010,363600,M06
+Marschwerk,B2,50,1760,88000,M06
+Marschwerk,F1,54,1670,90180,M06
+Marschwerk,T1,24,1920,46080,M06
+Marschwerk,S1,12,2550,30600,M06
+Marschwerk,Baustellenlogistik,1,4800,4800,M11 interne Annahme
+Marschwerk,Reserve W-S,10,850,8500,M11 interne Annahme
+Marschwerk,Budgetwert,,,631760,Summe Rechenzeilen
+Lehnensiel,B1,360,965,347400,M08
+Lehnensiel,B2,50,1580,79000,M08
+Lehnensiel,F1,54,1550,83700,M08
+Lehnensiel,T1,24,1810,43440,M08
+Lehnensiel,S1,12,2380,28560,M08
+Lehnensiel,Montage,500,132,66000,M08
+Lehnensiel,Fracht und Entladung,1,9200,9200,M11 interne Annahme
+Lehnensiel,Dokumentation,1,4600,4600,M11 interne Annahme
+Lehnensiel,Reserve W-S,10,680,6800,M11 interne Annahme
+Lehnensiel,Budgetwert,,,668700,Summe Rechenzeilen

@@ -17,6 +17,7 @@ from pypdf import PdfReader, PdfWriter
 
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME, pdf_content_errors
 from testakte_einzelpdf_common import document_arcname_pairs
+from testakte_zip_common import preserves_directories, safe_archive_name
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = 'projekteinkauf-baubranche'
@@ -37,14 +38,15 @@ def checksum(path):
     return sha256(path.read_bytes()).hexdigest()
 
 
-def inventory(archive_path, *, case_zip):
+def inventory(archive_path, *, case_zip, allow_directories=False):
     with ZipFile(archive_path) as archive:
         names = archive.namelist()
         if archive.testzip() or len(names) != len(set(names)):
             raise ValueError('Fehlerhafter Archivbestand: ' + archive_path.name)
-        if case_zip and (names[0] != NOTICE_FILENAME or archive.read(NOTICE_FILENAME) != NOTICE_BYTES
-                         or any('/' in name or '\\' in name or name.endswith('.md') for name in names)):
-            raise ValueError('Hinweis oder flache Archivstruktur fehlerhaft: ' + archive_path.name)
+        if case_zip and (not names or names[0] != NOTICE_FILENAME or archive.read(NOTICE_FILENAME) != NOTICE_BYTES
+                         or any(not safe_archive_name(name, allow_directories=allow_directories)
+                                or name.lower().endswith('.md') for name in names)):
+            raise ValueError('Hinweis oder Archivstruktur fehlerhaft: ' + archive_path.name)
         entries = {}
         for name in names:
             data = archive.read(name)
@@ -60,11 +62,12 @@ def inventory(archive_path, *, case_zip):
 def build_case(case, dist, rebuild, native, single, native_check, pdf_check):
     directory = ROOT / 'testakten' / case['slug']
     pairs = document_arcname_pairs(directory)
-    if {path.name for path, _ in pairs} != {doc['filename'] for doc in case['documents']}:
+    structured = preserves_directories(directory)
+    if {path.relative_to(directory).as_posix() for path, _ in pairs} != {doc['filename'] for doc in case['documents']}:
         raise ValueError('Aktenstücke weichen vom kuratierten Bestand ab: ' + case['id'])
     single_zip, _ = single.build_single(directory, dist)
     pdf_check.assert_same(single_zip.name, [NOTICE_FILENAME, *pdf_check.expected_arcnames(directory)],
-                          pdf_check.zip_entries(single_zip, expected_suffix='.pdf'))
+                          pdf_check.zip_entries(single_zip, expected_suffix='.pdf', allow_directories=structured))
     writer = PdfWriter()
     writer.add_metadata({'/Title': case['title'], '/Author': case.get('company', 'Limmerbogen Bau GmbH'),
                          '/Subject': f"{case['id']} · {case.get('project', 'Bildungscampus Leineaue')}"})
@@ -77,9 +80,13 @@ def build_case(case, dist, rebuild, native, single, native_check, pdf_check):
                 text = ''.join(''.join((page.extract_text() or '').split()) for page in pdf.pages)
                 if any(not filename or filename not in text for filename in attachments):
                     raise ValueError('Anlage fehlt in der PDF-Lesefassung: ' + path.name)
-            writer.add_outline_item(path.name, len(writer.pages))
+            first_page = len(writer.pages)
+            if not structured:
+                writer.add_outline_item(path.name, first_page)
             for page in pdf.pages:
                 writer.add_page(page)
+            if structured:
+                writer.add_outline_item(path.name, first_page)
     writer.compress_identical_objects(remove_duplicates=True, remove_unreferenced=True)
     combined = directory / 'gesamt-pdf' / (case['slug'] + '_gesamt.pdf')
     buffer = BytesIO()
@@ -97,10 +104,10 @@ def build_case(case, dist, rebuild, native, single, native_check, pdf_check):
     shutil.copyfile(combined, dist / combined.name)
     original_zip, _ = native.build_single(directory, dist)
     native_check.assert_same(original_zip.name, native_check.expected_entries(directory),
-                             native_check.zip_entries(original_zip, require_notice=True))
+                             native_check.zip_entries(original_zip, require_notice=True, allow_directories=structured))
     with ZipFile(original_zip) as archive:
         for path, _ in pairs:
-            if archive.read(path.name) != path.read_bytes():
+            if archive.read(path.relative_to(directory).as_posix()) != path.read_bytes():
                 raise ValueError(f'{case["id"]}: verändertes Original {path.name}')
         if archive.read(combined.name) != data:
             raise ValueError('Lesefassung im Originalarchiv weicht ab: ' + case['id'])

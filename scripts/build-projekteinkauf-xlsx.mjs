@@ -18,8 +18,7 @@ function columnName(index) {
   return name;
 }
 
-function buildSheet(workbook, spec) {
-  const sheet = workbook.worksheets.add(spec.name);
+function buildSheet(sheet, spec) {
   const last = columnName(spec.headers.length - 1);
   const rowCount = spec.rows.length + 3;
   const widths = spec.headers.map((label, index) => {
@@ -67,7 +66,7 @@ function buildSheet(workbook, spec) {
   }
   for (const [address, formula] of Object.entries(spec.formulas || {})) {
     sheet.getRange(address).formulas = [[formula]];
-    sheet.getRange(address).setNumberFormat('#,##0.00');
+    sheet.getRange(address).setNumberFormat(spec.formulaFormat || '#,##0.00');
     sheet.getRange(address).format.fill = '#DCEAE8';
   }
   sheet.freezePanes.freezeRows(3);
@@ -76,7 +75,8 @@ function buildSheet(workbook, spec) {
 
 for (const spec of workbooks) {
   const workbook = Workbook.create();
-  const views = spec.sheets.map((sheet) => buildSheet(workbook, sheet));
+  const sheets = spec.sheets.map((sheet) => workbook.worksheets.add(sheet.name));
+  const views = spec.sheets.map((sheet, index) => buildSheet(sheets[index], sheet));
   workbook.recalculate();
   if (previewDirectory) {
     for (const [index, view] of views.entries()) {

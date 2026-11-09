@@ -1,0 +1,275 @@
+{
+  "documents": [
+    {
+      "filename": "L01_LV_Abstimmung_und_Schnittstellen.docx",
+      "issuer": "Krimpfort SE & Co. KG · Projektkoordination",
+      "date": "2026-11-02",
+      "title": "Abstimmung zum Türleistungsverzeichnis R1",
+      "sections": [
+        {
+          "heading": "Anlass und Unterlagen",
+          "paragraphs": [
+            "Die Projektkoordination, die Objektplanung, der Brandschutz, die Elektroplanung und der Einkauf haben am 2. November 2026 die Leistungsabgrenzung für das Türpaket im Kontor am Weserbogen abgestimmt. Grundlage sind die Türzählung und der bereinigte Stand aus der Planung, der Auszug BSK-KW-06 vom 28. Oktober, der Hauptvertragsauszug vom 29. Oktober und das Türregister vom 2. November. Die Einkaufsmail zur externen Angebotsanfrage folgt nach der Versandfreigabe.",
+            "Die Markterkundung hat drei unterschiedlich abgegrenzte Budgetstände ergeben. Sie zeigt, dass Lieferung, Fracht, Baustellenentladung, Montage, Automation und Übergabedokumentation ausdrücklich abgefragt werden müssen. Marktpreise bleiben in der internen Kalkulation. Die technischen Mindestanforderungen folgen aus der Objektplanung und dem Hauptvertrag."
+          ]
+        },
+        {
+          "heading": "Positionsbildung und fachliche Herkunft",
+          "paragraphs": [
+            "Die fünf Positionen werden nach Funktion und Systemumfang gebildet. Die Mengen werden aus dem Türregister ermittelt. Wandtyp, Rohbauöffnung und Etappe stehen zusätzlich je Tür-ID in der Anlage."
+          ],
+          "table": {
+            "headers": [
+              "OZ und Menge",
+              "Festlegung und Herkunft"
+            ],
+            "rows": [
+              [
+                "0001 B1 · 360 Stück",
+                "BSK-KW-06 und Akustikabgleich. Feuerhemmend, selbstschließend und mindestens Rw 32 dB am angebotenen Aufbau."
+              ],
+              [
+                "0002 B2 · 50 Stück",
+                "BSK-KW-06 und Elektroabgleich. Vollständige Antriebslösung für 40 W-M und zehn W-S, mit Nachweis je Einbauart."
+              ],
+              [
+                "0003 F1 · 54 Stück",
+                "BSK-KW-06 und Flurplanung. Rauchschutz und zugeordnete Fluchtwegbeschläge. Bodenanschluss im System berücksichtigen."
+              ],
+              [
+                "0004 T1 · 24 Stück",
+                "BSK-KW-06 und Treppenraumplanung. Öffnungsrichtung und Verriegelung in der Werkplanung abgleichen."
+              ],
+              [
+                "0005 S1 · 12 Stück",
+                "BSK-KW-06 und Technikraumplanung. Feuerbeständiger Abschluss einschließlich passender Zarge und Befestigung."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Montagegrenzen und Nachweise",
+          "page_break_before": true,
+          "paragraphs": [
+            "Die Türleistung umfasst das vollständige Element mit Zarge, Befestigung, Beschlägen, Montage, Funktionsprüfung und Dokumentation. Bei B2 gehören zusätzlich Antrieb, elementseitige Anschlüsse, Parametrierung und die vereinbarte Inbetriebnahme dazu. Die bauseitige Elektroplanung führt Strom und die geplanten Signale an den definierten Übergabepunkt. Der Auftragnehmer weist im Angebot aus, welche Leistungen er einpreist, welche Voraussetzungen er bauseits benötigt und welche Belege zu seinem System gehören.",
+            "W-S betrifft nur die IDs E4-073 bis E4-082. Eine Standardangabe für W-L oder W-M genügt für diese Einbausituation nicht. Der Einkauf fordert für W-S eine eindeutige Aussage zu Element, Zarge, Sturztraverse, Befestigung und Antrieb. Eine technisch abweichende Lösung wird gesondert beschrieben und bewertet. Solange die erforderlichen Nachweise und Freigaben fehlen, bleibt die Ausführung offen.",
+            "Der B2-Leistungsumfang enthält keine Dauerfeststellung. Vor der Werkfreigabe werden Normalbetrieb, Spannungsausfall und das gegebenenfalls vorgesehene Brandfallsignal mit der Elektrofachplanung für die tatsächlich angebotene Lösung abgeglichen. Für die zehn W-S-Elemente bleibt außerdem der objektbezogene Nachweisweg zu klären."
+          ]
+        },
+        {
+          "heading": "Etappen und Preisumfang",
+          "paragraphs": [
+            "Die etappenweise Fertigstellung ist für A mit E0 und E1 zum 2. Juli 2027, für B mit E2 und E3 zum 30. Juli 2027 und für C mit E4 zum 20. August 2027 abzufragen. Die Zielabnahme ist am 3. September 2027. Terminangaben müssen die betriebsfertige Übergabe einschließlich Unterlagen von einer bloßen Anlieferung unterscheiden.",
+            "Die Anfrage verlangt eine positionsbezogene Kalkulation und eine nachvollziehbare Trennung von Zusatzkosten und Optionen. Wartung und Service werden für den gesonderten Fünfjahresvergleich gemäß Hauptvertragsauszug abgefragt. Sie gehen nicht in die einmalige Investitionsschätzung ein. Die drei vorläufigen Marktantworten begründen keinen Zuschlag und keine Bindung des späteren Bieterkreises."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "L02_Mengenueberleitung_R1.xlsx",
+      "sheets": [
+        {
+          "name": "Mengenbruecke",
+          "title": "Mengenüberleitung vom Planstand T-03 zu R1",
+          "note": "Stückzahlen laut Planstand vom 12.10.2026, Änderungsjournal vom 30.10.2026 und GAEB-Export R1. Delta ist R1 berechnet abzüglich X83.",
+          "headers": [
+            "GAEB-OZ",
+            "Typ",
+            "T-03 Stück",
+            "Änderung",
+            "R1 berechnet",
+            "X83 Stück",
+            "Delta"
+          ],
+          "rows": [
+            [
+              "0001",
+              "B1",
+              361,
+              null,
+              null,
+              360,
+              null
+            ],
+            [
+              "0002",
+              "B2",
+              48,
+              null,
+              null,
+              50,
+              null
+            ],
+            [
+              "0003",
+              "F1",
+              55,
+              null,
+              null,
+              54,
+              null
+            ],
+            [
+              "0004",
+              "T1",
+              24,
+              null,
+              null,
+              24,
+              null
+            ],
+            [
+              "0005",
+              "S1",
+              10,
+              null,
+              null,
+              12,
+              null
+            ],
+            [
+              "Gesamt",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ],
+          "textColumns": [
+            "A"
+          ],
+          "formulaFormat": "0",
+          "formulas": {
+            "D4": "=SUMIF(Journal!A$4:A$9,B4,Journal!D$4:D$9)",
+            "E4": "=SUM(C4:D4)",
+            "G4": "=E4-F4",
+            "D5": "=SUMIF(Journal!A$4:A$9,B5,Journal!D$4:D$9)",
+            "E5": "=SUM(C5:D5)",
+            "G5": "=E5-F5",
+            "D6": "=SUMIF(Journal!A$4:A$9,B6,Journal!D$4:D$9)",
+            "E6": "=SUM(C6:D6)",
+            "G6": "=E6-F6",
+            "D7": "=SUMIF(Journal!A$4:A$9,B7,Journal!D$4:D$9)",
+            "E7": "=SUM(C7:D7)",
+            "G7": "=E7-F7",
+            "D8": "=SUMIF(Journal!A$4:A$9,B8,Journal!D$4:D$9)",
+            "E8": "=SUM(C8:D8)",
+            "G8": "=E8-F8",
+            "C9": "=SUM(C4:C8)",
+            "D9": "=SUM(D4:D8)",
+            "E9": "=SUM(E4:E8)",
+            "F9": "=SUM(F4:F8)",
+            "G9": "=SUM(G4:G8)"
+          }
+        },
+        {
+          "name": "Journal",
+          "title": "Änderungen der Türmengen",
+          "note": "Quelle ist das Planungsjournal vom 30.10.2026. Der Wechsel von W-L zu W-S bei zehn B2 verändert die Stückzahl nicht.",
+          "headers": [
+            "Typ",
+            "Tür-ID",
+            "Etappe",
+            "Änderung Stück",
+            "Vorgang"
+          ],
+          "rows": [
+            [
+              "B2",
+              "E0-082",
+              "A",
+              1,
+              "Nachtrag aus der Planprüfung"
+            ],
+            [
+              "B1",
+              "E1-082",
+              "A",
+              -1,
+              "Altzuordnung bei Typwechsel ausbuchen"
+            ],
+            [
+              "B2",
+              "E1-082",
+              "A",
+              1,
+              "Antriebsanforderung berücksichtigen"
+            ],
+            [
+              "F1",
+              "F3-17",
+              "B",
+              -1,
+              "Doppeleintrag zu E3-093 ausbuchen. E3-093 bleibt im Register"
+            ],
+            [
+              "S1",
+              "E4-099",
+              "C",
+              1,
+              "Abschluss aus Technikplan nachtragen"
+            ],
+            [
+              "S1",
+              "E4-100",
+              "C",
+              1,
+              "Abschluss aus Technikplan nachtragen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "L03_Exportprotokoll_X83_R1.pdf",
+      "issuer": "Krimpfort SE & Co. KG · AVA und Projekteinkauf",
+      "date": "2026-11-04",
+      "title": "Exportprotokoll zur Angebotsaufforderung R1",
+      "sections": [
+        {
+          "heading": "Freigegebener Datenstand",
+          "paragraphs": [
+            "Die AVA-Stelle hat am 4. November 2026 um 09.12 Uhr die Angebotsaufforderung zum Arbeitsstand vom 2. November exportiert. Gegenstand ist KPF-WB-31, Türpaket Kontor am Weserbogen. Dem Export liegen das abgestimmte Leistungsverzeichnis, das Türregister und die fünf Positionstexte aus der Freigaberunde zugrunde.",
+            "Die Datei heißt 31_Tuerpaket_LV_R1.x83. Sie verwendet GAEB DA XML 3.3 Ausgabe 2021-05 und die Austauschphase 83. Die LV-Identifikation lautet LV_KPF_WB_31. Die BoQID lautet a20129eea8424283b909acb66fb97451."
+          ]
+        },
+        {
+          "heading": "Kontrolle am wieder eingelesenen Export",
+          "paragraphs": [
+            "Die Projektstelle hat den Export erneut eingelesen und die fünf Ordnungszahlen mit der Mengenüberleitung verglichen. Die Einheit lautet bei allen Positionen St. Die Positionen 0001 bis 0005 weisen 360, 50, 54, 24 und 12 Stück aus. Die Summe beträgt 500 Stück. Der Export enthält keine internen Budget- oder Bieterpreise.",
+            "Für OZ 0002 ist die Aufteilung 40 W-M und zehn W-S im Langtext enthalten. Die IDs E4-073 bis E4-082 sind dort bezeichnet. Der Text benennt den vollständigen Systemnachweis. Er enthält keine Vorabfreigabe einer konkreten Befestigung oder Antriebskombination."
+          ]
+        },
+        {
+          "heading": "Versandkontrolle und Dateinachweis",
+          "paragraphs": [
+            "Die AVA-Stelle übergibt den schreibgeschützten Ausgabestand an den Projekteinkauf. Die Textanfrage nennt den Referenzstand. Für die einheitliche GAEB-Nachsendung ist dieselbe Exportdatei an alle vier Häuser zu verwenden. Eine spätere LV-Änderung erfordert einen ausdrücklich gekennzeichneten neuen Stand und einen gesonderten Verteilvermerk.",
+            "SHA-256 der Exportdatei",
+            "a541bcdafdce469db0dc3e140a5c87bf65d6e7319039e0e049e0345e2189765c"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "L04_Versandfreigabe_LV_R1.eml",
+      "from_name": "Projektleitung Kontor am Weserbogen · Krimpfort",
+      "from_email": "projektleitung@krimpfort.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-11-04T09:38:00+01:00",
+      "subject": "KPF-WB-31 · Versandfreigabe des Türleistungsverzeichnisses R1",
+      "attachments": [
+        "L01_LV_Abstimmung_und_Schnittstellen.docx",
+        "L02_Mengenueberleitung_R1.xlsx",
+        "L03_Exportprotokoll_X83_R1.pdf"
+      ],
+      "paragraphs": [
+        "Guten Morgen Frau Renken,",
+        "auf Grundlage des Einkaufsauftrags von 08.30 Uhr gebe ich die Angebotsanfrage für die fünf Türgruppen im Stand R1 frei. Bitte verwenden Sie für alle vier Häuser dieselben Unterlagen und denselben Rückgabetermin am 25. November um 12.00 Uhr. Der AVA-Export liegt im Projektablagefach. Versenden Sie den identischen X83-Stand nach der Textanfrage separat und vermerken Sie die Verteilung.",
+        "Die beigefügte Mengenüberleitung und das Exportprotokoll bleiben bei uns. Das gilt auch für die drei unverbindlichen Marktpreisstände. Fordern Sie die W-S-Aussage mit dem vollständigen Systemnachweis an. Die Freigabe betrifft den Versand der Anfrage. Die Entscheidung über System, Vertrag und Bestellung treffen die zuständigen Stellen nach Sichtung der Angebote.",
+        "Freundliche Grüße\nProjektleitung Kontor am Weserbogen"
+      ]
+    }
+  ]
+}
