@@ -2,15 +2,27 @@
 
 Die Krimpfort SE & Co. KG kauft 500 Brandschutztüren für einen fiktiven Bundesbau in Bremen. Vier native GAEB-Angebote, ein gemeinsames X83 und eine mehrstufige Verhandlungsakte verbinden Eignungsprüfung, Preisspiegel, Angebotsbindung und Freigabe.
 
-Die Akte spielt im fiktiven Kontor am Weserbogen in Bremen. Sie umfasst die 31 Ausgangsunterlagen sowie das X83, vier X84, elf zusätzliche native E-Mails und fünf weitere PDF-Schreiben. Die Kontaktadressen verwenden reservierte Beispieldomains.
+Die Akte spielt im fiktiven Kontor am Weserbogen in Bremen. Im Ordner `00_LV_Entstehung` führen Planungsbelege, unverbindliche Richtangebote, eine Excel-Mengenüberleitung und die Versandfreigabe von der ersten Türzählung zum Leistungsverzeichnis R1. Die 52 Unterlagen zur Anfrage, den vier Angeboten und der Verhandlung schließen daran an. Die Kontaktadressen verwenden reservierte Beispieldomains.
 
 <!-- reserved-example-contacts -->
 
-## 1 Übung in drei Stufen
+## 1 Übung in vier Stufen
 
-Bearbeiten Sie die drei Gruppen nacheinander und führen Sie dabei denselben Preisspiegel fort. Die X84 sind Angebotsabgaben im GAEB-Format. Das X83 ist die gemeinsame Angebotsaufforderung. PDF-Lesefassungen stellen die Positionsdaten für die Aktenlektüre dar.
+Ermitteln Sie zuerst die Herkunft der Mengen und Anforderungen. Führen Sie den Preisspiegel anschließend durch Anfrage, Klärung und Entscheidung fort. Die X84 sind Angebotsabgaben im GAEB-Format. Das X83 ist die gemeinsame Angebotsaufforderung. PDF-Lesefassungen stellen die Positionsdaten für die Aktenlektüre dar.
 
-### 1.1 Gemeinsames LV und vier Angebotsfassungen
+### 1.1 Bedarf, Markt und Freigabe des LV
+
+Klären Sie, welche Türzählung gilt und welche Umgliederung nur den Typ ändert. Leiten Sie die fünf Positionen aus Türregister und Änderungsjournal her. Stellen Sie die drei Marktrückläufe auf eine vergleichbare Preisbasis und kennzeichnen Sie interne Ansätze. Begründen Sie anhand von Planung und Nachweisen, was in den LV-Text muss und was bei der späteren Systemfreigabe offen bleibt.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+- [Planungsunterlagen](00_LV_Entstehung/01_Planung/) mit Bedarfsauftrag, Türliste, Brandschutz, Elektroanschlüssen, Etappen und Änderungsjournal.
+- [Markterkundung](00_LV_Entstehung/02_Markterkundung/) mit Anfrage, drei Rückläufen, Richtpreisblättern, Telefonvermerk und interner Preisüberleitung.
+- [LV-Freigabe](00_LV_Entstehung/03_LV_Freigabe/) mit Abstimmungsvermerk, Excel-Mengenüberleitung, X83-Exportkontrolle und Freigabemail.
+
+### 1.2 Gemeinsames LV und vier Angebotsfassungen
 
 Legen Sie den X83-Stand fest. Ordnen Sie die vier X84 anhand der LV-ID und der Positionskennungen zu und rechnen Sie die Positionssummen nach. Belegen Sie anhand der Angebote, welche Leistungen die Preise abdecken.
 
@@ -47,7 +59,7 @@ Legen Sie den X83-Stand fest. Ordnen Sie die vier X84 anhand der LV-ID und der P
 - [38_D_Angebotseingang_Friesenlint.eml](38_D_Angebotseingang_Friesenlint.eml)
 - [39_D_Friesenlint_FL-500.x84](39_D_Friesenlint_FL-500.x84)
 
-### 1.2 Nachweise und Verhandlung
+### 1.3 Nachweise und Verhandlung
 
 Führen Sie den Preisspiegel nach den schriftlichen Klärungen fort. Prüfen Sie die Freigabefähigkeit des konkreten Systems und vergleichen Sie Kosten, Termin und Service. Entwerfen Sie die nächste Rückfrage für den bevorzugten Bieter und sichern Sie die Bindung der Alternative.
 
@@ -77,7 +89,7 @@ Führen Sie den Preisspiegel nach den schriftlichen Klärungen fort. Prüfen Sie
 - [46_B_Ruecklauf_Bindungsfenster.eml](46_B_Ruecklauf_Bindungsfenster.eml)
 - [47_B_Bestaetigung_Bindung_und_Dokumentation.pdf](47_B_Bestaetigung_Bindung_und_Dokumentation.pdf)
 
-### 1.3 Budget, Bindung und Entscheidung
+### 1.4 Budget, Bindung und Entscheidung
 
 Rechnen Sie den Entscheidungsstand am 4. Dezember vor 16 Uhr und den Rückfall nach diesem Zeitpunkt getrennt. Stellen Sie die Freigaben, fehlenden Unterlagen und den noch verfügbaren Bestellweg dar. Der Versand eines Auftrags bleibt von der dokumentierten Freigabe abhängig.
 
@@ -101,7 +113,7 @@ Rechnen Sie den Entscheidungsstand am 4. Dezember vor 16 Uhr und den Rückfall n
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
-Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
+Beide ZIPs enthalten den Ordner `00_LV_Entstehung` mit Planung, Markterkundung und LV-Freigabe. Die Unterlagen zur Angebotsphase und Verhandlung liegen auf der Wurzelebene. Das Originalformat-ZIP enthält die Arbeitsdateien einschließlich GAEB. Das Einzel-PDF-ZIP liefert die Aktenstücke jeweils als PDF. Die Lesezeichen im Gesamt-PDF führen zu den einzelnen Unterlagen.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -110,11 +122,11 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf`](gesamt-pdf/bauunternehmer-einkauf-brandschutztueren-krimpfort_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.12/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.12/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauunternehmer-einkauf-v445.35.14/testakte-bauunternehmer-einkauf-brandschutztueren-krimpfort-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
-English: The original-format ZIP contains the working files directly at archive root, without subfolders or Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
+English: This project-file edition preserves its subfolders in both ZIP formats. The original-format ZIP contains editable working documents and supporting records, without Markdown. Choose the combined PDF for reading; it is also included in that ZIP. Choose the individual-PDF ZIP to review each document separately. These are practice documents, not an installable plugin. ZIP links refer to the case companion release for the stated marketplace version.
 
 <!-- END gesamt-pdf-section (autogen) -->

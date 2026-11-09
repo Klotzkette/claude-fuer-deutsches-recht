@@ -1,0 +1,342 @@
+{
+  "documents": [
+    {
+      "filename": "P01_Bedarfsauftrag.docx",
+      "title": "Bedarfsauftrag Innentüren",
+      "issuer": "Krimpfort SE & Co. KG · Projektleitung",
+      "date": "2026-10-05",
+      "sections": [
+        {
+          "heading": "Anlass und Paketgrenze",
+          "paragraphs": [
+            "Die Projektleitung beauftragt die Vorbereitung des Beschaffungspakets KPF-WB-31 für das Kontor am Weserbogen in Bremen. Das Bundesamt für öffentliche Standortdaten plant rund 500 Arbeitsplätze auf fünf Ebenen. Die Zahl der Arbeitsplätze bestimmt den Nutzungsrahmen. Die zu beschaffende Türmenge wird aus den Öffnungen in den Grundrissen ermittelt.",
+            "Das Paket erfasst die Büro- und Besprechungsräume, die bezeichneten Flurabschlüsse und Treppenraumzugänge sowie die Technikraumabschlüsse. Außenabschlüsse, Aufzugstüren und lose Möbeltüren gehören zu anderen Paketen. Der Einkauf fragt später bei geeigneten Liefer- und Montageunternehmen im Namen der Krimpfort SE & Co. KG an."
+          ]
+        },
+        {
+          "heading": "Planstand und Aufgaben",
+          "paragraphs": [
+            "Objektplanung und Fachplanung gleichen die Öffnungen der Ebenen E0 bis E4 mit dem Raumprogramm, den Fluchtwegen und der vorgesehenen Wandfamilie ab. Behandeln Sie dabei je Öffnung die Lage, das Maß, die Türfunktion und den Anschluss. Die Objektplanung prüft, ob eine in zwei Teilplänen wiederholte Öffnung bereits im Register vorkommt. Die Nutzungskoordination bestätigt die Öffnungen mit Bedienimpuls.",
+            "Hafenwinkel Brandschutzplanung prüft für diese Planung den Bezug zum geschützten Erschließungsbereich. Die Elektroplanung ordnet die Bedien- und Prüffunktionen zu. Die Bauleitung bestimmt Einbringung, bauseitige Vorleistungen und Freigabepunkte. Der Einkauf erkundet parallel Preis- und Lieferbandbreiten auf einem vorläufigen Mengengerüst."
+          ]
+        },
+        {
+          "heading": "Leistungsgrenze und Entscheidung",
+          "paragraphs": [
+            "Die Projektleitung möchte das vollständige Element einschließlich Anschlussmaterial, Aufmaß, Montage, Inbetriebnahme und Dokumentation beschaffen. Prüfen Sie in der Markterkundung, welche Leistungen üblicherweise gesondert berechnet werden. Planen Sie die Wartung als getrenntes Preisblatt. Den genauen Leistungsumfang der Wartung übernimmt das Team nach Abgleich mit dem Hauptauftrag.",
+            "Die Ausgabe des Leistungsverzeichnisses setzt eine geklärte Positionsliste, einen abgestimmten Leistungsumfang und einen dokumentierten Terminstand voraus. Für technische Nachweise, die vom später angebotenen System abhängen, ist eine konkrete Lieferantenfrage mit Prüftermin festzuhalten. Die Freigabe der Anfrage und die spätere Freigabe des bestellten Systems sind getrennte Vorgänge.",
+            "Projektleitung Kontor am Weserbogen · Krimpfort"
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "P02_Tuerliste_T03_Ebenen.csv",
+      "headers": [
+        "Stand",
+        "Ebene",
+        "B1",
+        "B2",
+        "F1",
+        "T1",
+        "S1",
+        "Summe"
+      ],
+      "rows": [
+        [
+          "12.10.2026 · T-03",
+          "E0",
+          72,
+          9,
+          11,
+          5,
+          2,
+          99
+        ],
+        [
+          "12.10.2026 · T-03",
+          "E1",
+          73,
+          9,
+          11,
+          5,
+          2,
+          100
+        ],
+        [
+          "12.10.2026 · T-03",
+          "E2",
+          72,
+          10,
+          11,
+          5,
+          2,
+          100
+        ],
+        [
+          "12.10.2026 · T-03",
+          "E3",
+          72,
+          10,
+          12,
+          5,
+          2,
+          101
+        ],
+        [
+          "12.10.2026 · T-03",
+          "E4",
+          72,
+          10,
+          10,
+          4,
+          2,
+          98
+        ]
+      ]
+    },
+    {
+      "filename": "P03_Planungsrunde_Brandschutz_Waende.pdf",
+      "title": "Planungsrunde zu Türfunktionen und Wandanschlüssen",
+      "issuer": "Hafenwinkel Brandschutzplanung GmbH",
+      "date": "2026-10-19",
+      "sections": [
+        {
+          "heading": "Anlass und Stand der Prüfung",
+          "paragraphs": [
+            "Die Fachrunde hat die Bereiche mit geschützter Erschließung auf E0 bis E4 am 19. Oktober gemeinsam mit Objektplanung, Bauleitung und Betreibervertretung durchgegangen. Der Listenauszug T-03 vom 12. Oktober ergibt 498 Einträge. Auf E3 steht in der Flurliste ein Abgleich mit einer Altnummer aus dem Detailplan aus. Für E4 fehlt noch der vollständige Abgleich der Türen aus dem Technikplan. Die planerische Zusammenstellung dient der Vorbereitung des Brandschutzkonzepts."
+          ]
+        },
+        {
+          "heading": "Folgen für die Leistungsbeschreibung",
+          "paragraphs": [
+            "Bei Büro- und Besprechungsräumen, die an die geschützten Erschließungsbereiche grenzen, sieht der Konzeptstand feuerhemmende und selbstschließende Abschlüsse vor. Die Türen mit Bedienimpuls sind als eigene Gruppe B2 zu beschreiben, damit der vollständige Antrieb einschließlich Steuerung und elementseitiger Sicherheitseinrichtungen mit angeboten wird. B1 bleibt die Gruppe der manuell bedienten Elemente. Für B1 hält die Objektplanung den belegten Produktkennwert Rw von mindestens 32 dB fest. Der fertige Anschluss im Bauwerk ist getrennt zu beurteilen.",
+            "Für die bezeichneten Flurabschlüsse F1 und Treppenraumzugänge T1 sind nach der Planung Rauchschutz und Selbstschließung neben der Feuerhemmung aufzunehmen. Die Werkplanung klärt Fluchtwegbeschläge, Bodenausbildung und Öffnungsrichtung türbezogen. Bei den Technikraumabschlüssen S1 sieht der Konzeptstand feuerbeständige und selbstschließende Elemente vor. Die endgültige Verteilung folgt dem abgeschlossenen Konzept und dem bereinigten Register."
+          ]
+        },
+        {
+          "heading": "Sonderanschluss in E4",
+          "paragraphs": [
+            "Zehn B2-Öffnungen E4-073 bis E4-082 liegen im Bereich des vorgesehenen Sonderaufbaus W-S. T-03 enthielt dafür vorläufig den Standardcode W-L. Die geplante Sonderwand besteht aus einem Stahlrahmen mit Trockenbaubeplankung von insgesamt 150 mm und Stahl-Sturztraverse. Die Zarge soll an den seitlichen Ständern anschließen. Für den Antrieb ist eine Befestigungsplatte an der Traverse vorgesehen. Das Planmaß der Rohöffnung beträgt 1.135 × 2.135 mm.",
+            "Das LV soll die zehn Öffnungen in der B2-Menge führen und den Sonderanschluss gesondert benennen. Der spätere Nachweisabgleich erfasst Modell, Maße, Zarge, Befestigung, Untergrund und konkreten Antrieb. Eine abweichende Wandschale oder Befestigung kann nur als gekennzeichnete Variante mit Auswirkungen auf Folgegewerke geprüft werden. W-M bezeichnet im Plan eine 180 mm starke Stahlbetonwand. W-L bezeichnet eine 150 mm starke Metallständerwand mit verstärkten Laibungen.",
+            "Für die Nachweisprüfung sind Produkt und Einbausituation jeweils zuzuordnen. Die Fachplanung hält bei einer nicht abgedeckten Kombination fest, welche Nachweise oder vorhabenbezogenen Entscheidungen für genau diesen Einbau zu klären sind. Für die technische Orientierung wurden die DIBt-Seiten zu Feuerschutzabschlüssen als Innentüren und zu vorhabenbezogenen Nachweiswegen herangezogen."
+          ]
+        },
+        {
+          "heading": "Nächster Planumlauf",
+          "paragraphs": [
+            "Die Elektroplanung legt den Übergabepunkt der Versorgung und die zu prüfenden Signale fest. Die Objektplanung ersetzt für die zehn Öffnungen die vorläufige Wandkennung und hält den Sonderaufbau im Anschlussblatt fest. Die Fachplanung übernimmt die abgestimmten Anforderungen in den Konzeptumlauf. Die Ausführungsfreigabe bleibt bis zur Prüfung der konkret angebotenen Kombination offen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "P04_Elektro_B2_Uebergabepunkt.eml",
+      "from_name": "Lene Dörjes · Elektrofachplanung",
+      "from_email": "elektroplanung@krimpfort.example",
+      "to_email": "projektleitung@krimpfort.example",
+      "date": "2026-10-22T15:37:00+02:00",
+      "subject": "KPF-WB-31 · Leistungstrennung und Funktionsprüfung bei B2",
+      "paragraphs": [
+        "Guten Tag zusammen,",
+        "für das LV können wir bei B2 die bauseitige Zuleitung bis zu einem in der Werkplanung festgelegten Übergabepunkt vorsehen. Der Anbieter soll Versorgung, erforderliche Kontakte und Platzbedarf früh angeben. Ab Übergabepunkt gehören Steuerung, Taster, elementseitige Anschlussfähigkeit und Sicherheitseinrichtungen zur kalkulierten Türleistung. Der Anbieter montiert und parametriert das System und nimmt an der gemeinsamen Funktionsprüfung teil.",
+        "Der Bedienimpuls löst eine zeitlich begrenzte Öffnung aus. Anschließend soll die Tür selbsttätig schließen. Eine Dauerfeststellung ist in diesem Paket nicht vorgesehen. Für die gemeinsame Prüfung brauchen wir den Normalbetrieb und das Schließverhalten bei Spannungsausfall. Die Signalverarbeitung im Brandfall prüfen wir dort zusätzlich, wo die abgestimmte Matrix ein solches Signal vorsieht. Den konkreten Anschluss legt die Werkplanung anhand der angebotenen Ausrüstung fest.",
+        "Im Bereich E4-073 bis E4-082 hängt der Leitungsweg vom Anschluss an die Stahl-Sturztraverse ab. Wir führen die Leitungen bis zum vereinbarten Übergabepunkt. Bitte lassen Sie für diese zehn Türen den Anbieter die Montagehöhe, den Bauraum und den Befestigungspunkt des Antriebs anhand der zugehörigen Unterlagen angeben. Die Ausführung der Befestigungsplatte kann erst nach dieser Zuordnung freigegeben werden.",
+        "Den Vermerk aus der Fachrunde habe ich zum Abgleich angehängt. Die Bauleitung erhält für die Etappenplanung eine eigene Rückmeldung zu den erforderlichen Vorleistungen.",
+        "Freundliche Grüße\nLene Dörjes\nElektrofachplanung · Kontor am Weserbogen"
+      ],
+      "attachments": [
+        "P03_Planungsrunde_Brandschutz_Waende.pdf"
+      ]
+    },
+    {
+      "filename": "P05_Logistik_und_Etappenentwurf.pdf",
+      "title": "Logistik und Montagefolge Innentüren",
+      "issuer": "Krimpfort SE & Co. KG · Bauleitung",
+      "date": "2026-10-27",
+      "sections": [
+        {
+          "heading": "Einbringung und Zwischenlager",
+          "paragraphs": [
+            "Die Bauleitung legt den südlichen Baustellenzugang für die Anlieferung und den westlichen Lastenaufzug für die Verteilung fest. Die Lieferfahrzeuge melden sich bei der Logistik an. Die Elemente sind nach Ebene und Tür-ID zu kennzeichnen und in der vorgesehenen Einbaureihenfolge anzuliefern. Der Lieferant bestätigt die Verpackungsmaße, die Einbringungsmittel und die Zahl der Abrufe mit seinem Angebot. Ein Zwischenlager kann je Etappe erst nach Freigabe der Fläche genutzt werden."
+          ]
+        },
+        {
+          "heading": "Zeitfenster aus dem Bauablauf",
+          "paragraphs": [
+            "Die Kalenderdaten sind die Vorgaben der Projektsteuerung für die Leistungsbeschreibung. Die Mengen folgen der Registerbereinigung. Der Anbieter gibt je Etappe die frühestmögliche Anlieferung, den Montagebeginn und die verbindliche Funktionsbereitschaft getrennt an. Die gemeinsame Gesamt-Abnahme ist für den 03.09.2027 geplant."
+          ],
+          "table": {
+            "headers": [
+              "Etappe",
+              "Ebenen",
+              "Montage ab",
+              "Funktionsbereit bis"
+            ],
+            "rows": [
+              [
+                "A",
+                "E0 und E1",
+                "07.06.2027",
+                "02.07.2027"
+              ],
+              [
+                "B",
+                "E2 und E3",
+                "05.07.2027",
+                "30.07.2027"
+              ],
+              [
+                "C",
+                "E4",
+                "02.08.2027",
+                "20.08.2027"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Vorleistungen und Übergabe",
+          "paragraphs": [
+            "Die Bauleitung gibt jede Ebene erst nach Prüfung der fertigen Wanduntergründe und des freien Transportwegs frei. Vor der Anlieferung bestätigt sie den Zustand der Vorleistungen. Bei B2 meldet die Elektrofachplanung die verfügbare Zuleitung und stimmt die Funktionsprüfung mit dem Türanbieter ab. Die Bauleitung zählt eine Etappe als funktionsbereit, wenn die Türen montiert, eingestellt und geprüft sind und mit den vorgesehenen Vorleistungen betrieben werden können.",
+            "Die Sonderwand auf E4 erfordert einen eigenen Vorlauf für Werkplanung, Systemklärung und Erstmuster. Ein Lagertermin ersetzt diese Freigabe nicht. Die Angebotsersteller sollen bei einer abweichenden Baufolge angeben, welcher Schritt betroffen ist und welche Vorleistung sie für eine belastbare Frist benötigen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "P06_Mengenabgleich_T03_T04.docx",
+      "title": "Mengenabgleich der Türliste",
+      "issuer": "Krimpfort SE & Co. KG · Objektplanung und Nutzungskoordination",
+      "date": "2026-10-30",
+      "sections": [
+        {
+          "heading": "Verglichene Stände",
+          "paragraphs": [
+            "Die Objektplanung hat den Auszug T-03 vom 12.10.2026 mit den Grundrissen E0 bis E4, den Flurdetails, der Nutzungsliste und dem Technikraumplan abgeglichen. Die Funktionszuordnung folgt dem Brandschutzkonzept BSK-KW-06 vom 28.10.2026. Der Auszug T-03 umfasst 498 Zeilen. Für die Erfassung im Registerstand vom 02.11.2026 ist der hier dokumentierte Bereinigungsstand T-04 maßgeblich."
+          ]
+        },
+        {
+          "heading": "Änderungen an den Öffnungen",
+          "paragraphs": [
+            "In E0 ergänzt die Objektplanung die Öffnung E0-082 als B2. Sie war im Grundriss vorhanden und im Register fehlte der Eintrag. Auf E1 war E1-082 als manuelle B1 geführt. Die Nutzungskoordination hat den Bedienimpuls für diese Öffnung bestätigt. Das Register führt sie künftig als B2. Die Umstellung ändert die Menge der Ebene nicht.",
+            "Auf E3 bezeichnet die Altkennung F3-17 dieselbe Öffnung wie E3-093. Für den Flurabschluss bleibt ein F1-Eintrag unter E3-093 bestehen. Auf E4 ergänzt die Objektplanung E4-099 und E4-100 nach dem Abgleich mit dem Technikraumplan als zwei eigene S1. E4-073 bis E4-082 bleiben zehn B2. Der korrigierte Wandtyp W-S verändert die Stückzahl dieser Gruppe nicht."
+          ]
+        },
+        {
+          "heading": "Weitergabe an die Registerführung",
+          "paragraphs": [
+            "T-04 ergibt auf jeder Ebene 100 Abschlüsse. Aus T-03 entfallen auf Etappe A 199, auf B 201 und auf C 98 Einträge. Nach Korrektur führt A 200, B 200 und C 100 Abschlüsse. Die Objektplanung übergibt den bereinigten Stand zusammen mit dem Änderungsjournal. Die Registerführung verwendet je Öffnung genau eine Kennung und übernimmt den Wandcode W-S bei allen zehn bezeichneten E4-Türen."
+          ],
+          "table": {
+            "headers": [
+              "Gruppe",
+              "T-03",
+              "Differenz",
+              "T-04"
+            ],
+            "rows": [
+              [
+                "B1",
+                361,
+                -1,
+                360
+              ],
+              [
+                "B2",
+                48,
+                2,
+                50
+              ],
+              [
+                "F1",
+                55,
+                -1,
+                54
+              ],
+              [
+                "T1",
+                24,
+                0,
+                24
+              ],
+              [
+                "S1",
+                10,
+                2,
+                12
+              ],
+              [
+                "Gesamt",
+                498,
+                2,
+                500
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "filename": "P07_Tueraenderungen_T03_T04.csv",
+      "headers": [
+        "Datum",
+        "Ebene",
+        "Kennung",
+        "Gruppe",
+        "Delta St",
+        "Grund"
+      ],
+      "rows": [
+        [
+          "30.10.2026",
+          "E0",
+          "E0-082",
+          "B2",
+          1,
+          "Fehlte in T-03"
+        ],
+        [
+          "30.10.2026",
+          "E1",
+          "E1-082",
+          "B1",
+          -1,
+          "Umstellung auf B2"
+        ],
+        [
+          "30.10.2026",
+          "E1",
+          "E1-082",
+          "B2",
+          1,
+          "Bedienimpuls bestätigt"
+        ],
+        [
+          "30.10.2026",
+          "E3",
+          "F3-17",
+          "F1",
+          -1,
+          "Doppelt zu E3-093"
+        ],
+        [
+          "30.10.2026",
+          "E4",
+          "E4-099",
+          "S1",
+          1,
+          "Technikplan"
+        ],
+        [
+          "30.10.2026",
+          "E4",
+          "E4-100",
+          "S1",
+          1,
+          "Technikplan"
+        ]
+      ]
+    }
+  ]
+}

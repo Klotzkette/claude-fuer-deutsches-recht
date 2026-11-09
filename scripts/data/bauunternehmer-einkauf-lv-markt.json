@@ -1,0 +1,627 @@
+{
+  "documents": [
+    {
+      "filename": "M01_Marktabfrage.eml",
+      "from_name": "Maren Renken · Projekteinkauf Krimpfort",
+      "from_email": "baueinkauf@krimpfort.example",
+      "to_email": "bente.aalring@nordriegel.example",
+      "date": "2026-10-15T09:12:00+02:00",
+      "subject": "Weserbogen · Markterkundung Innentüren, Rückmeldung bis 22. Oktober",
+      "paragraphs": [
+        "Guten Morgen Frau Aalring,",
+        "wir ermitteln für das Bürohaus Kontor am Weserbogen in Bremen, welche Liefer- und Montageumfänge für rund 500 innere Feuerschutzabschlüsse verfügbar sind. Bitte beantworten Sie die Fragen im beigefügten Eckdatenblatt bis 22. Oktober. Drei Unternehmen der Branche erhalten dasselbe Eckdatenblatt einzeln. Diese Marktabfrage dient der Vorbereitung der Leistungsbeschreibung. Ein verbindliches Angebot oder eine Fertigungsreservierung erbitten wir erst in einem späteren Schritt.",
+        "Bitte nennen Sie Preisindikationen in Euro netto mit Preisstand und enthaltenen Leistungen. Eine realistische Aussage zu Ihren Systemgrenzen hilft uns. Für eine zurzeit ungeklärte Wand am Anschluss von rund zehn angetriebenen Türen auf E4 genügt zunächst die Angabe, welche Zeichnung und Daten Sie für die Prüfung brauchen und welchen Vorlauf Sie erfahrungsgemäß einplanen.",
+        "Freundliche Grüße\nMaren Renken\nProjekteinkauf · Krimpfort SE & Co. KG"
+      ],
+      "attachments": [
+        "M02_Eckdaten_Markterkundung.pdf"
+      ]
+    },
+    {
+      "filename": "M02_Eckdaten_Markterkundung.pdf",
+      "title": "Eckdaten zur Markterkundung Innentüren",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-10-15",
+      "sections": [
+        {
+          "heading": "Bedarf und Datenstand",
+          "paragraphs": [
+            "Das Kontor am Weserbogen erhält Innentüren in den Ebenen E0 bis E4. Die Mengen des Arbeitsstands T-03 dienen als Gesprächsbasis. Die Raumbelegung, das Brandschutzkonzept und einzelne Anschlüsse werden derzeit noch abgestimmt. Kalkulieren Sie Richtwerte je Stück, damit wir die Werte später auf die freigegebenen Mengen übertragen können."
+          ],
+          "table": {
+            "headers": [
+              "Gruppe",
+              "Bedarf T-03",
+              "Beschreibung für die Marktabfrage"
+            ],
+            "rows": [
+              [
+                "B1",
+                361,
+                "Manuell bediente Türen zu Büros und Besprechungsräumen mit Feuerhemmung und Selbstschließung."
+              ],
+              [
+                "B2",
+                48,
+                "Feuerhemmende und selbstschließende Bürotüren mit Öffnungsantrieb. Bei zehn Türen auf E4 ist die Anschlusskonstruktion noch offen."
+              ],
+              [
+                "F1",
+                55,
+                "Feuerhemmende und selbstschließende Flurabschlüsse mit Rauchschutz."
+              ],
+              [
+                "T1",
+                24,
+                "Feuerhemmende und selbstschließende Treppenraumabschlüsse mit Rauchschutz."
+              ],
+              [
+                "S1",
+                10,
+                "Feuerbeständige, selbstschließende Technikraumabschlüsse."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Leistungsumfang und Kapazität",
+          "paragraphs": [
+            "Benennen Sie getrennt, welche Positionen reine Lieferung, Montage, Antrieb, Inbetriebnahme, Dokumentation und Anlieferlogistik abdecken. Geben Sie an, ob Entladung und Verteilung je Ebene enthalten sind und ab welcher Stelle Elektrovorleistungen des Bauvorhabens benötigt werden. Geben Sie für B1 einen verfügbaren Produktkennwert Rw samt Herkunft und Systemaufbau an, sofern belastbare Angaben vorliegen. Ein Fabrikatsvorschlag dient der Orientierung.",
+            "Das Montageprogramm umfasst voraussichtlich drei Etappen im Sommer 2027. Bitte unterscheiden Sie Vorlauf ab Aufmaß und Freigabe, reservierbare Fertigungszeit, Anliefertermin und betriebsfertige Übergabe. Eine etwaige Wartungsoption geben Sie als separate Jahresleistung mit Umfang und Reaktionszeit an."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "M03_Nordriegel_Rueckmeldung.eml",
+      "from_name": "Bente Aalring · Nordriegel Türtechnik",
+      "from_email": "bente.aalring@nordriegel.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-10-20T10:16:00+02:00",
+      "subject": "Weserbogen · Richtwerte für Elementlieferung",
+      "paragraphs": [
+        "Guten Morgen Frau Renken,",
+        "anbei unsere Stückwerte für die werkseitig vorbereiteten Elemente. Die B2-Zarge ist zum Aufbau eines Antriebs vorbereitet. Das Gerät, die Sicherheitseinrichtungen und die Inbetriebnahme wären bei Ihrem Montagepartner zu kalkulieren. Wenn Sie den Detailausschnitt der zehn Anschlüsse auf E4 nachreichen, können wir prüfen, ob wir für diese Stellen eine passende Kombination anbieten können.",
+        "Für Juni 2027 sehen wir derzeit Lieferfenster. Eine Frachtleistung bis zur vereinbarten Abladestelle wäre gesondert zu kalkulieren. Für montierte und betriebsfähige Türen können wir deshalb keinen Termin nennen. Die Angaben im Blatt gelten für die heutige Marktabfrage.",
+        "Mit freundlichen Grüßen\nBente Aalring\nNordriegel Türtechnik GmbH"
+      ],
+      "attachments": [
+        "M04_Nordriegel_Richtangebot.pdf"
+      ],
+      "reply_to": "M01_Marktabfrage.eml"
+    },
+    {
+      "filename": "M04_Nordriegel_Richtangebot.pdf",
+      "title": "Preisindikation für Türelemente",
+      "issuer": "Nordriegel Türtechnik GmbH",
+      "date": "2026-10-20",
+      "sections": [
+        {
+          "heading": "Richtpreise ab Werk",
+          "paragraphs": [
+            "Unser Blatt NR-WB-10 gilt für die Markterkundung der Krimpfort SE & Co. KG mit Preisstand 20. Oktober 2026. Die Werte gelten je Türelement mit Zarge, üblichem Zubehör und mechanischem Schließmittel in Standardmaßen. B2 enthält die Antriebsvorbereitung am Element."
+          ],
+          "table": {
+            "headers": [
+              "Gruppe",
+              "EUR netto je Stück",
+              "Hinweis zur Lieferung"
+            ],
+            "rows": [
+              [
+                "B1",
+                810,
+                "Büroelement, akustische Variante auf Anfrage"
+              ],
+              [
+                "B2",
+                1060,
+                "Antriebsvorbereitung enthalten"
+              ],
+              [
+                "F1",
+                1430,
+                "Element mit Rauchschutzdichtungen"
+              ],
+              [
+                "T1",
+                1660,
+                "Element für Treppenraum mit Bodendichtung"
+              ],
+              [
+                "S1",
+                2190,
+                "Element für Technikraum"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Abgrenzung und Vorlauf",
+          "paragraphs": [
+            "Montage und Verteilung, Antriebsgeräte und Taster, Fracht und Entladung sowie die objektbezogene Dokumentation und Funktionsprüfungen sind gesondert zu kalkulieren. Wir rechnen bei Standardaufbauten mit neun bis elf Wochen ab vollständiger Werkplanfreigabe bis zur Lieferung. Eine Sonderausführung kann den Vorlauf verändern. Wir haben für dieses Vorhaben kein Fertigungsfenster reserviert."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "M05_Marschwerk_Rueckmeldung.eml",
+      "from_name": "Henrik Tjardes · Marschwerk Ausbausysteme",
+      "from_email": "henrik.tjardes@marschwerk.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-10-21T15:44:00+02:00",
+      "subject": "Weserbogen · Marktwerte für Komplettmontage",
+      "paragraphs": [
+        "Guten Tag Frau Renken,",
+        "vielen Dank für das Eckdatenblatt vom 15. Oktober. Wir können Aufmaß, Lieferung, Montage und die elementseitige Inbetriebnahme für Standardwände grundsätzlich aus einer Hand kalkulieren. Die zehn B2-Türen an der noch nicht beschriebenen Wand sind in der Anlage zum Standardwert gerechnet. Für die Sonderausführung brauchen wir den Schnitt durch den Sturz und eine eindeutige Einbauhöhe des Antriebs.",
+        "Beim letzten vergleichbaren Objekt lagen zwischen Materialanlieferung und dokumentierter Funktionsbereitschaft rund zwei Wochen je Etappe. Wir können den Termin für Bremen erst nach Abgleich der Zugangs- und Elektrovorleistungen konkretisieren.",
+        "Beste Grüße\nHenrik Tjardes\nMarschwerk Ausbausysteme GmbH"
+      ],
+      "attachments": [
+        "M06_Marschwerk_Budgetrahmen.pdf"
+      ]
+    },
+    {
+      "filename": "M06_Marschwerk_Budgetrahmen.pdf",
+      "title": "Budgetrahmen für montierte Türen",
+      "issuer": "Marschwerk Ausbausysteme GmbH",
+      "date": "2026-10-21",
+      "sections": [
+        {
+          "heading": "Standardumfang und Richtwerte",
+          "paragraphs": [
+            "Die Werte im Budgetrahmen MW-2621 umfassen Türelement, Aufmaß, Fracht bis zur Baustelle, Entladung und gewöhnliche Verteilung, Montage, Einstellung, Funktionsprüfung und Übergabeblatt. Die B2-Position enthält Antrieb, Steuerung, Taster und Inbetriebnahme am Element. Die Zuleitung bis zum Übergabepunkt und ein etwaiges externes Signal stellt die Baustelle nach Abstimmung bereit."
+          ],
+          "table": {
+            "headers": [
+              "Gruppe",
+              "EUR netto je Stück",
+              "Kalkulationsbasis"
+            ],
+            "rows": [
+              [
+                "B1",
+                1010,
+                "Standardwand und übliche Montageöffnung"
+              ],
+              [
+                "B2",
+                1760,
+                "Standardwand, keine Sondertraverse kalkuliert"
+              ],
+              [
+                "F1",
+                1670,
+                "Standard-Flurabschluss, montiert"
+              ],
+              [
+                "T1",
+                1920,
+                "Standard-Treppenraumabschluss, montiert"
+              ],
+              [
+                "S1",
+                2550,
+                "Standard-Technikraumabschluss, montiert"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Vorbehalte und Wartung",
+          "paragraphs": [
+            "Für die drei Etappen setzen wir ebenerdige Andienung, einen durchgängigen Transportweg und gleichmäßig nutzbare Ladezeiten voraus. Ein abweichendes Baustellenfenster kann Zusatzkosten auslösen. Aufmaß und Werkplanung sind vor Abruf zu terminieren. Für laufenden Service nennen wir 7.400 Euro netto im Jahr für einen Regeltermin je Element und Wartungsdokumentation. Die zusätzliche Prüfung der angetriebenen Türen und die Störungsbereitschaft wären gesondert festzulegen."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "M07_Lehnensiel_Rueckmeldung.eml",
+      "from_name": "Leyla Marten · Lehnensiel Innenabschlüsse",
+      "from_email": "leyla.marten@lehnensiel.example",
+      "to_email": "baueinkauf@krimpfort.example",
+      "date": "2026-10-22T11:20:00+02:00",
+      "subject": "Weserbogen · Getrennte Budgetwerte für Lieferung und Montage",
+      "paragraphs": [
+        "Guten Tag Frau Renken,",
+        "wir haben die Schätzung aus Ihrem Eckdatenblatt für eine getrennte Material- und Montagekalkulation angesetzt. Die Elemente kommen vormontiert mit dem üblichen Zubehör. Die B2-Antriebe einschließlich Taster und Steuerung stehen auf der Lieferseite, die Einstellung und Funktionsprüfung auf der Montageseite. Das Paket setzt einen durchgehend freigegebenen Untergrund und einen bauseits betriebenen Lastenaufzug voraus.",
+        "Wenn Sie eine Schallschutzangabe in die Anfrage aufnehmen, geben Sie bitte die Messgröße und die gewünschte Einbausituation an. Unser Werkblattauszug beschreibt nur das Türelement im Prüfaufbau. Aussagen über die gesamte Trennwand einschließlich Flanken liegen uns für Bremen nicht vor.",
+        "Freundliche Grüße\nLeyla Marten\nLehnensiel Innenabschlüsse GmbH"
+      ],
+      "attachments": [
+        "M08_Lehnensiel_Budgetkalkulation.pdf"
+      ]
+    },
+    {
+      "filename": "M08_Lehnensiel_Budgetkalkulation.pdf",
+      "title": "Budgetkalkulation Lieferung und Montage",
+      "issuer": "Lehnensiel Innenabschlüsse GmbH",
+      "date": "2026-10-22",
+      "sections": [
+        {
+          "heading": "Getrennte Kalkulation",
+          "paragraphs": [
+            "Die folgenden Materialwerte LH-1022 gelten im üblichen Größenbereich einschließlich B2-Antrieb, Steuerung, Tastern und den beschriebenen Zubehörteilen. Für die Montage mit Einstellung und Funktionsprüfung nennt unser Montageteam zusätzlich 132 Euro netto je Tür. Vorausgesetzt sind freier Zugang zur Montageöffnung und Transport mit einem bauseits betriebenen Lastenaufzug."
+          ],
+          "table": {
+            "headers": [
+              "Gruppe",
+              "EUR netto je Stück",
+              "Leistungsgrenze"
+            ],
+            "rows": [
+              [
+                "B1",
+                965,
+                "Element, Zarge und Schließmittel"
+              ],
+              [
+                "B2",
+                1580,
+                "Element einschließlich Antrieb und Bedienung"
+              ],
+              [
+                "F1",
+                1550,
+                "Element einschließlich Rauchschutzdichtung"
+              ],
+              [
+                "T1",
+                1810,
+                "Element einschließlich Fluchtwegbeschlag"
+              ],
+              [
+                "S1",
+                2380,
+                "Element und Zarge für Standardanschluss"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Werkblattauszug Schallschutz",
+          "paragraphs": [
+            "Für das einflügelige B1-Element mit umlaufender Falzdichtung und absenkbarer Bodendichtung nennt unsere Produktübersicht für die Standardkombination einen Rw-Wert von 32 dB. Eine separat ausgestattete Akustikvariante ist mit 36 dB geführt. Die beiden Werte beziehen sich jeweils auf die vollständige Elementkombination im Prüfaufbau. Für die Angebotsphase würden wir den Prüfbericht und seine Zuordnung zum konkreten Elementstand bereitstellen. Der Auszug enthält keine Messung der fertigen Trennwand des Projekts."
+          ]
+        },
+        {
+          "heading": "Ausnahmen und Termine",
+          "paragraphs": [
+            "Fracht, Etappenlogistik und vollständige türbezogene Bestandsdokumentation sind nicht Bestandteil der Stückwerte. Bei B2 an E4 sind Befestigungsplatte, etwaige Verstärkungen und ihre Abstimmung gesondert zu klären. Ein Sonderanschluss kann Beschaffung und Montage vom Standardablauf trennen. Für Standardpositionen nennen wir acht bis zehn Wochen ab freigegebener Werkplanung bis zur ersten Lieferung. Ein verbindlicher Montagetermin setzt die bestätigte Personalkapazität voraus.",
+            "Auf Anfrage können wir eine jährliche Wartung mit einem zweiten Termin für Antriebe kalkulieren. Ein Richtpreis liegt dafür noch nicht vor."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "M09_Telefonvermerk_Systemgrenzen.docx",
+      "title": "Telefonvermerk zur Systemabgrenzung",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-10-26",
+      "sections": [
+        {
+          "heading": "Gespräch und Befund",
+          "paragraphs": [
+            "Maren Renken hat am 26. Oktober mit Nora Pahl aus der technischen Beratung von Marschwerk gesprochen. Das Gespräch betraf den Entwurfsstand für zehn angetriebene Türen auf E4. Pahl kannte das bisherige Eckdatenblatt. Ein freigegebenes Sturzdetail und Angaben zum Befestigungsgrund lagen ihr noch nicht vor.",
+            "Pahl erläuterte, dass der Standardwert aus MW-2621 eine übliche Montageposition abdeckt. Für die E4-Ausführung brauche sie ein vermaßtes Wanddetail, die Rohbauöffnung, die Befestigungsfläche oberhalb der Zarge und die vorgesehene Einbaulage. Erst dann könne die technische Abteilung die konkrete Kombination aus Untergrund, Zarge, Befestigung, Antrieb und Zubehör den geltenden Unterlagen zuordnen. Eine telefonische Aussage zur Verfügbarkeit deckt diese Prüfung noch nicht ab."
+          ]
+        },
+        {
+          "heading": "Folge für Leistungsbeschreibung und Bemusterung",
+          "paragraphs": [
+            "Der Einkauf fragt die E4-Gruppe im selben Mengengerüst mit eigener Kennzeichnung ab. Die Planung stellt nach Festlegung des Anschlusses einen identischen Detailstand für alle späteren Anfragen bereit. Im Antwortblatt sollen Anbieter eine Standard- und eine etwaige Sonderausführung eindeutig trennen sowie technische Nachweise, Zusatzaufwand, Vorleistungen und Terminwirkung jeweils zuordnen.",
+            "Pahl empfiehlt für ein Muster ein System mit den tatsächlich vorgesehenen Zubehörteilen. Die Fachplanung entscheidet über den Aufbau und die Auswertung eines projektbezogenen Musters nach Vorlage des Systems. Das Gespräch ist ohne Entscheidung über ein Fabrikat beendet worden."
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "M10_Marktvergleich_Normalisierung.csv",
+      "headers": [
+        "Marktteilnehmer",
+        "Kostenelement",
+        "Menge",
+        "EUR je Einheit",
+        "EUR netto",
+        "Herkunft"
+      ],
+      "rows": [
+        [
+          "Nordriegel",
+          "B1",
+          360,
+          810,
+          291600,
+          "M04"
+        ],
+        [
+          "Nordriegel",
+          "B2",
+          50,
+          1060,
+          53000,
+          "M04"
+        ],
+        [
+          "Nordriegel",
+          "F1",
+          54,
+          1430,
+          77220,
+          "M04"
+        ],
+        [
+          "Nordriegel",
+          "T1",
+          24,
+          1660,
+          39840,
+          "M04"
+        ],
+        [
+          "Nordriegel",
+          "S1",
+          12,
+          2190,
+          26280,
+          "M04"
+        ],
+        [
+          "Nordriegel",
+          "Montage",
+          500,
+          188,
+          94000,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Antrieb",
+          50,
+          610,
+          30500,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Inbetriebnahme",
+          50,
+          84,
+          4200,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Fracht und Entladung",
+          1,
+          10800,
+          10800,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Dokumentation",
+          1,
+          4200,
+          4200,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Reserve W-S",
+          10,
+          600,
+          6000,
+          "M11 interne Annahme"
+        ],
+        [
+          "Nordriegel",
+          "Budgetwert",
+          "",
+          "",
+          637640,
+          "Summe Rechenzeilen"
+        ],
+        [
+          "Marschwerk",
+          "B1",
+          360,
+          1010,
+          363600,
+          "M06"
+        ],
+        [
+          "Marschwerk",
+          "B2",
+          50,
+          1760,
+          88000,
+          "M06"
+        ],
+        [
+          "Marschwerk",
+          "F1",
+          54,
+          1670,
+          90180,
+          "M06"
+        ],
+        [
+          "Marschwerk",
+          "T1",
+          24,
+          1920,
+          46080,
+          "M06"
+        ],
+        [
+          "Marschwerk",
+          "S1",
+          12,
+          2550,
+          30600,
+          "M06"
+        ],
+        [
+          "Marschwerk",
+          "Baustellenlogistik",
+          1,
+          4800,
+          4800,
+          "M11 interne Annahme"
+        ],
+        [
+          "Marschwerk",
+          "Reserve W-S",
+          10,
+          850,
+          8500,
+          "M11 interne Annahme"
+        ],
+        [
+          "Marschwerk",
+          "Budgetwert",
+          "",
+          "",
+          631760,
+          "Summe Rechenzeilen"
+        ],
+        [
+          "Lehnensiel",
+          "B1",
+          360,
+          965,
+          347400,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "B2",
+          50,
+          1580,
+          79000,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "F1",
+          54,
+          1550,
+          83700,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "T1",
+          24,
+          1810,
+          43440,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "S1",
+          12,
+          2380,
+          28560,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "Montage",
+          500,
+          132,
+          66000,
+          "M08"
+        ],
+        [
+          "Lehnensiel",
+          "Fracht und Entladung",
+          1,
+          9200,
+          9200,
+          "M11 interne Annahme"
+        ],
+        [
+          "Lehnensiel",
+          "Dokumentation",
+          1,
+          4600,
+          4600,
+          "M11 interne Annahme"
+        ],
+        [
+          "Lehnensiel",
+          "Reserve W-S",
+          10,
+          680,
+          6800,
+          "M11 interne Annahme"
+        ],
+        [
+          "Lehnensiel",
+          "Budgetwert",
+          "",
+          "",
+          668700,
+          "Summe Rechenzeilen"
+        ]
+      ]
+    },
+    {
+      "filename": "M11_Interner_Marktvermerk.docx",
+      "title": "Auswertung der Markterkundung",
+      "issuer": "Krimpfort SE & Co. KG",
+      "date": "2026-11-02",
+      "sections": [
+        {
+          "heading": "Vergleichsbasis und Freigabegrenze",
+          "paragraphs": [
+            "Die Markterkundung vom 15. Oktober beruhte auf 498 Türen im Arbeitsstand T-03. Für diese interne Budgetrechnung verwendet der Einkauf die Mengen aus der inzwischen abgeglichenen Türliste vom 2. November. Die historischen Preisblätter bleiben in ihrem ursprünglichen Stand erhalten. Die Umrechnung ergibt 360 B1, 50 B2, 54 F1, 24 T1 und 12 S1. Für alle drei Marktprofile liegt die Rechenbasis bei 500 Türen.",
+            "Die Belege M04, M06 und M08 unterscheiden sich im Pflichtumfang. Die Vergleichsrechnung M10 verbindet die genannten Richtpreise mit internen Annahmen für erkennbare Lücken. Sie dient der Plausibilisierung der Kostenschätzung und zeigt, welche Leistungen im Leistungsverzeichnis ausdrücklich abzufragen sind. Sie begründet keine Rangfolge für die spätere Angebotswertung."
+          ],
+          "table": {
+            "headers": [
+              "Marktprofil",
+              "EUR netto laut Rechnung",
+              "Aussagegrenze"
+            ],
+            "rows": [
+              [
+                "Nordriegel",
+                637640,
+                "Warenpreise plus intern kalkulierte fehlende Leistungen."
+              ],
+              [
+                "Marschwerk",
+                631760,
+                "Standard-Komplettumfang plus interne Logistik- und Sonderreserve."
+              ],
+              [
+                "Lehnensiel",
+                668700,
+                "Material und Montage gemäß Rücklauf plus interne Ergänzungen."
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Ansätze für die Budgetrechnung",
+          "paragraphs": [
+            "Für Nordriegel setzt der Einkauf die Standardmontage mit 188 Euro je Tür, das B2-Antriebspaket mit 610 Euro und die Inbetriebnahme mit 84 Euro je B2-Tür an. Hinzu kommen 10.800 Euro für Fracht und Entladung sowie 4.200 Euro für die Dokumentation. Diese Ansätze sind interne Kalkulationswerte der Arbeitsgruppe aus dem Montage- und Logistikansatz für den Bauablauf.",
+            "Bei Marschwerk sind Montage, Antrieb und gewöhnliche Anlieferung in den Richtwerten enthalten. Für abweichende Baustellenfenster berücksichtigt der Einkauf 4.800 Euro einmalig. Für Lehnensiel wird die angebotene Montage mit 132 Euro je Tür auf die 500 Türen hochgerechnet. Fracht und Entladung werden intern mit 9.200 Euro und die Dokumentation mit 4.600 Euro ergänzt.",
+            "Die technische Klärung der E4-Anschlüsse läuft weiter. Der Einkauf berücksichtigt daher für alle drei Profile eine eigene vorläufige Reserve für zehn Anschlüsse. Sie beträgt 600 Euro je Stück bei Nordriegel, 850 Euro bei Marschwerk und 680 Euro bei Lehnensiel. Die Unterschiede beruhen auf dem jeweiligen Leistungsstand der Rückläufe. Die Beträge dienen allein als Kalkulationsreserve. Sie setzen keinen Systemnachweis voraus und ersetzen ihn auch nicht."
+          ]
+        },
+        {
+          "heading": "Konkrete Folgen für das Leistungsverzeichnis",
+          "paragraphs": [
+            "Die spätere Anfrage soll einen einheitlichen Pflichtumfang für vollständige Elemente mit Aufmaß, Montage, Anschlüssen am Element, Prüfung und Dokumentation enthalten. Gesondert berechnete Pflichtleistungen sind ihrem Umfang nach zuzuordnen, damit Einmalsummen einmal erfasst werden. Das spätere Preisblatt trennt fünf Türgruppen und verlangt für die zehn B2-Türen an der Sonderwand W-S eine eigene technische Zuordnung innerhalb der Grundmenge.",
+            "Die Richtwerte stützen einen Kostenkorridor von rund 632.000 bis 669.000 Euro netto für die hier erfasste Investition. Die bekannten Wartungsaussagen decken unterschiedliche Leistungen ab und bleiben außerhalb dieses Korridors. Für die Anfrage übernimmt der Einkauf aus dem inzwischen vorliegenden Hauptvertragsauszug die getrennte Abfrage einer vergleichbaren Wartung mit 500 jährlichen Grundterminen und 50 zusätzlichen B2-Funktionskontrollen. Bei den Etappen fragt der Einkauf betriebsfertige Übergabe einschließlich Prüfungen und Dokumentation ab. Die Rückläufe zur Anlieferung geben dafür keine Zusage."
+          ],
+          "page_break_before": true
+        }
+      ]
+    }
+  ]
+}

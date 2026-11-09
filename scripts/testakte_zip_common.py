@@ -15,6 +15,7 @@ MAX_ARCHIVE_NAME = 220
 # Diese Fassung wurde ausdrücklich als vollständige Projektordner-Akte bestellt.
 # Bestehende Testakten behalten ihre flachen Archive.
 STRUCTURED_TESTAKTEN = frozenset({
+    'bauunternehmer-einkauf-brandschutztueren-krimpfort',
     'bauvergabe-klinikum-muenster',
     'bauvergabe-wohnhaus-bielefeld',
     'bauwirtschaft-hildesheim-lebensakte',

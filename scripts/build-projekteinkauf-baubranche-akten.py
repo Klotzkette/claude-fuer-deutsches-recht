@@ -350,6 +350,20 @@ def door_price_template(target, case):
     ]}
 
 
+def write_workbooks(workbooks, node, node_modules, previews=None):
+    with tempfile.TemporaryDirectory(prefix='projekteinkauf-xlsx-') as directory:
+        stage = Path(directory)
+        (stage / 'node_modules').symlink_to(node_modules, target_is_directory=True)
+        builder = stage / 'build.mjs'
+        shutil.copyfile(ROOT / 'scripts/build-projekteinkauf-xlsx.mjs', builder)
+        specs = stage / 'workbooks.json'
+        specs.write_text(json.dumps(workbooks, ensure_ascii=False), encoding='utf-8')
+        args = [str(node), str(builder), str(specs)]
+        if previews:
+            args.append(str(previews))
+        subprocess.run(args, check=True)
+
+
 def build(target, node, node_modules, fonts, previews, selected=None):
     font_paths = set_fonts(fonts)
     workbooks = []
@@ -408,17 +422,7 @@ def build(target, node, node_modules, fonts, previews, selected=None):
                   {**case['debrief'], 'issuer': 'Schulungsleitung · Projekteinkauf', 'date': as_of}, case)
     if not selected or selected == 'PE-01':
         workbooks.append(price_template(target / PLUGIN / 'templates/Preisspiegel.xlsx'))
-    with tempfile.TemporaryDirectory(prefix='projekteinkauf-xlsx-') as directory:
-        stage = Path(directory)
-        (stage / 'node_modules').symlink_to(node_modules, target_is_directory=True)
-        builder = stage / 'build.mjs'
-        shutil.copyfile(ROOT / 'scripts/build-projekteinkauf-xlsx.mjs', builder)
-        specs = stage / 'workbooks.json'
-        specs.write_text(json.dumps(workbooks, ensure_ascii=False), encoding='utf-8')
-        args = [str(node), str(builder), str(specs)]
-        if previews:
-            args.append(str(previews))
-        subprocess.run(args, check=True)
+    write_workbooks(workbooks, node, node_modules, previews)
     for args in emails:
         write_eml(*args)
     print(f'{len(planned)} Akten, {len(workbooks)} Arbeitsmappen, {len(emails)} E-Mails.')
