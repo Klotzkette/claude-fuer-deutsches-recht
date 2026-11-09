@@ -32,7 +32,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Anwaltliches Berufsrecht und Kanzleimanagement](#anwaltliches-berufsrecht-und-kanzleimanagement) | 17 |
 | [Arbeitsrecht](#arbeitsrecht) | 10 |
 | [Bank- und Kapitalmarktrecht](#bank--und-kapitalmarktrecht) | 7 |
-| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 7 |
+| [Bau- und Architektenrecht](#bau--und-architektenrecht) | 8 |
 | [BGB Allgemeiner Teil und Methodenlehre](#bgb-allgemeiner-teil-und-methodenlehre) | 7 |
 | [BGB Besonderer Teil - Allgemeines Schuldrecht und Bereicherungsrecht](#bgb-besonderer-teil---allgemeines-schuldrecht-und-bereicherungsrecht) | 5 |
 | [Erbrecht](#erbrecht) | 1 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-275 kuratierte Plugins in 34 Kategorien, aus insgesamt 312 Marketplace-Plugins (Abgleich: 6. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
+276 kuratierte Plugins in 34 Kategorien, aus insgesamt 313 Marketplace-Plugins (Abgleich: 9. November 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 
@@ -124,6 +124,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 - [hoai-leistungsphasen-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/hoai-leistungsphasen-praxis): Großplugin für HOAI-Leistungsphasen 1 bis 9: Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung, Ausführungsplanung, Vergabe, Bauüberwachung… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=hoai-leistungsphasen-praxis/hoai-leistungsphasen-praxis-werkstatt.md)
 - [immobilienrechtspraxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/immobilienrechtspraxis): Werkzeuge für immobilienrechtliche Rechtsabteilungen: musterbasierte Vertragserstellung mit Klauselschutz, Vertragsprüfung gegen Playbook, Grundbuchanalyse… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=immobilienrechtspraxis/immobilienrechtspraxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=immobilienrechtspraxis/immobilienrechtspraxis-werkstatt.md)
 - [nachbarschaftsstreit-pruefer](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/nachbarschaftsstreit-pruefer): Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=nachbarschaftsstreit-pruefer/nachbarschaftsstreit-pruefer-werkstatt.md)
+- [projekteinkauf-baubranche](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/projekteinkauf-baubranche): Neun Skills und sechs Akten für die KI-Schulung im Bauprojekteinkauf. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=projekteinkauf-baubranche/projekteinkauf-baubranche-werkstatt.md)
 
 ## BGB Allgemeiner Teil und Methodenlehre
 

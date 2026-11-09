@@ -1,0 +1,12 @@
+Beginn,Ende,Ereignis,Quelle,Zuordnung
+07:00,07:20,Aufstellung Stellfläche A,Fahrerbericht,Grundfenster
+07:20,11:50,Hubarbeiten F01 bis F08,Hubjournal,Grundfenster
+11:50,12:35,Unterbrechung Betonfertigteil-LKW verspätet,Bautagesbericht,45 Minuten im Grundfenster
+12:35,13:55,Hubarbeiten F09 und F10,Hubjournal,Grundfenster
+13:55,14:20,Wechsel Stellfläche A nach B,Fahrerbericht,Lagewechsel
+14:20,14:40,Sicherung und Plattenwechsel auf B,Fahrerbericht,Grundfenster
+14:40,15:10,Hub F11 und Vorbereitung F12,Hubjournal,Fenstergrenze 15:00
+15:10,15:40,Freigabe Rettungsweg ausstehend,Fahrerbericht,30 Minuten außerhalb Grundfenster
+15:40,16:42,Letzter Hub F12 einschließlich Sicherung,Hubjournal,Ende Hubtätigkeit
+16:45,17:05,Abbau und Abfahrt,Fahrerbericht,Abbau im Grundpreis
+17:05,17:30,Rest des Dispositionsfensters,Dispositionsauszug,Keine Einsatzhandlung nachgewiesen

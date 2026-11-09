@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "projekteinkauf-baubranche",
+  "version": "445.35.10",
+  "description": "KI-Werkstatt für Projekteinkäufer in der Baubranche. Leistungsverzeichnisse und Angebote vergleichen, Preise und Nachunternehmer recherchieren, Klauseln prüfen, Korrespondenz entwerfen und Nachträge sowie umfangreiche Projektakten auswerten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "license": "Apache-2.0 OR MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Projekteinkauf Baubranche",
+        "shortDescription": "KI für den Projekteinkauf",
+        "longDescription": "KI-Werkstatt für Projekteinkäufer in der Baubranche. Leistungsverzeichnisse und Angebote vergleichen, Preise und Nachunternehmer recherchieren, Klauseln prüfen, Korrespondenz entwerfen und Nachträge sowie umfangreiche Projektakten auswerten.",
+        "developerName": "Klotzkette"
+      }
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "plugin": "projekteinkauf-baubranche",
+  "reviewed_on": "2026-11-09",
+  "sources": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9",
+      "checked_on": "2026-11-09",
+      "supports": "VOB/B-Mehrmengen und Preisbildung bei fehlender Preisvereinbarung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__377.html",
+      "checked_on": "2026-11-09",
+      "supports": "Untersuchung und Rüge im beiderseitigen Handelsgeschäft"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650b.html",
+      "checked_on": "2026-11-09",
+      "supports": "Änderungsbegehren, Einigung und Anordnung beim Bauvertrag"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650c.html",
+      "checked_on": "2026-11-09",
+      "supports": "Vergütungsanpassung bei einschlägiger Anordnung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__99.html",
+      "checked_on": "2026-11-09",
+      "supports": "Prüfung der Eigenschaft als öffentlicher Auftraggeber"
+    }
+  ],
+  "selection": {
+    "positive": [
+      "Vergleiche drei Fassadenangebote für unseren privaten GU-Einkauf.",
+      "Prüfe den Zeitnachweis zum Krannachtrag und formuliere die Rückfrage."
+    ],
+    "negative": [
+      "Erstelle für die Vergabekammer einen Nachprüfungsantrag im laufenden EU-Verfahren.",
+      "Berechne den Kindesunterhalt aus den Einkommensbelegen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "pe-01",
+      "request": "Nele Thomsen vergleicht drei Fassadenangebote für den Bildungscampus Leineaue in Hannover. Unterschiedliche Laibungseinheiten, ein Skonto und ausgeschlossene Leistungen verfälschen den ersten Preisvergleich. Nachträge klären Fracht, Bühne und Unterkonstruktion. Rechnen Sie die drei Angebote mit den Nachträgen neu. Entwerfen Sie die Entscheidung für Derya Aksoy einschließlich technischer Freigaben, Ausweichentscheidung und Bindungsdatum.",
+      "target_skill": "angebote-vergleichen",
+      "input_files": [
+        "testakten/projekteinkauf-fassade-drei-angebote/01_Anfrage_Fassade.eml",
+        "testakten/projekteinkauf-fassade-drei-angebote/02_Leistungsverzeichnis_R3.docx",
+        "testakten/projekteinkauf-fassade-drei-angebote/03_Angebot_Steinrad.pdf",
+        "testakten/projekteinkauf-fassade-drei-angebote/04_Angebot_Hinterbogen.pdf",
+        "testakten/projekteinkauf-fassade-drei-angebote/05_Angebot_Kieselring.pdf",
+        "testakten/projekteinkauf-fassade-drei-angebote/06_Angebotsregister_Arbeitsstand.xlsx",
+        "testakten/projekteinkauf-fassade-drei-angebote/07_Positionsdaten_Import.csv",
+        "testakten/projekteinkauf-fassade-drei-angebote/08_Hinterbogen_Nachtrag.eml",
+        "testakten/projekteinkauf-fassade-drei-angebote/09_Buehnenangebot_LB401.pdf",
+        "testakten/projekteinkauf-fassade-drei-angebote/10_Kieselring_Nachtrag.eml",
+        "testakten/projekteinkauf-fassade-drei-angebote/11_Bauleitung_Freigabefenster.eml",
+        "testakten/projekteinkauf-fassade-drei-angebote/12_Arbeitsauftrag_Fassade.docx"
+      ],
+      "deliverables": [
+        "Preisspiegel.xlsx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "120 lfm über 0,35 m Laibungstiefe als 42 m² belegen.",
+          "deliverables": [
+            "Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Nachlass, bedingtes Skonto, Fracht und Bühne getrennt erfassen.",
+          "deliverables": [
+            "Preisspiegel.xlsx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Hinterbogen mit 115.484,84 Euro erst bei bestätigter Zufahrt und technischer Freigabe empfehlen.",
+          "deliverables": [
+            "Preisspiegel.xlsx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-02",
+      "request": "Der Einkauf vergleicht Kanallieferung, Eigenmontage und zwei Angebote für den Einbau. Ein Auszug aus dem internen Preisarchiv, ein Gruppenprospekt und später nachgereichte Kapazitätsdaten führen zu unterschiedlichen Aussagen über Preis, Identität und Lieferfähigkeit. Korrigieren Sie Preisvergleich und Lieferantenbewertung anhand der Belege. Berechnen Sie die Kapazitätslücke und die Kostenschwelle. Entwerfen Sie Beschaffungsvorschlag und Nachfragen ohne bereits eine Bestellung auszulösen.",
+      "target_skill": "lieferanten-und-nachunternehmer-pruefen",
+      "input_files": [
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/01_Rechercheauftrag_Lueftung.eml",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/02_Bedarfsblatt_Lueftung.docx",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/03_Angebot_Wiesenform.pdf",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/04_Angebot_Bredenbusch.pdf",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/05_Angebot_Nordflur.pdf",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/06_Preisarchiv_und_Kalkulation.xlsx",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/07_Preisarchiv_Rohdaten.csv",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/08_Lieferantenstamm_Systemauszug.png",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/09_Bredenbusch_Referenzklarstellung.eml",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/10_Referenz_und_Kapazitaet.pdf",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/11_Eigenmontage_Stundenstand.eml",
+        "testakten/projekteinkauf-lueftung-preis-und-lieferant/12_Arbeitsauftrag_Lueftung.docx"
+      ],
+      "deliverables": [
+        "Auswahlvermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Gelieferten m² und eingebauten m² trennen und zwei Archivwerte nicht als Marktpreis ausgeben.",
+          "deliverables": [
+            "Auswahlvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "432 Stunden Bedarf, 240 zugesagte Stunden und 192 Stunden Lücke belegen.",
+          "deliverables": [
+            "Auswahlvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Leistungsumfang, Vertragspartner und Montagegesellschaft abgleichen und Vergabe nur bedingt vorschlagen.",
+          "deliverables": [
+            "Auswahlvermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-03",
+      "request": "Die Bauleitung benötigt eine abschnittsweise Dachabdichtung. Der erste Vertragsentwurf und die Bedingungen des Nachunternehmers regeln Preis, Abnahme und Schlusszahlung gegensätzlich. Ein neuer Planstand, ein geänderter Materialpreis und ein zweites Vertragsangebot eröffnen zwei belegte Verhandlungsoptionen. Prüfen Sie Planwechsel, zwei Preiswege und den Vorschlag R2. Berechnen Sie den Gesamtkorridor. Formulieren Sie eine belastbare Entscheidungsunterlage mit konkreten Vertragsklauseln und Anlagenliste.",
+      "target_skill": "vertraege-und-klauseln-pruefen",
+      "input_files": [
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/01_Vertragsversand_R1.eml",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/02_Vertragsentwurf_GU_R1.docx",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/03_Angebot_Kranzfeld_KD882.pdf",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/04_Kranzfeld_Bedingungen.eml",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/05_Lieferantenbedingungen_LBD2024.pdf",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/06_Kalkulation_und_Terminfenster.xlsx",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/07_Baufeld_und_Planstand.csv",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/08_Materialpreis_Rollenpaket.pdf",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/09_Bauleitung_Schnittstellen.eml",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/10_Aenderungsvorschlag_R2.docx",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/11_Kranzfeld_Variantenbestaetigung.eml",
+        "testakten/projekteinkauf-abdichtung-vertragsklauseln/12_Arbeitsauftrag_Vertrag.docx"
+      ],
+      "deliverables": [
+        "Klauselvermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Verhandlungsstand R1, R2, Zeichnung R4 und benannte Bedingungen getrennt prüfen.",
+          "deliverables": [
+            "Klauselvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "7.920 Euro Planänderung und die jeweiligen Preisvarianten nachvollziehbar berechnen.",
+          "deliverables": [
+            "Klauselvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Einbeziehung der VOB/B nicht unterstellen und verwendbare Änderungsklauseln und Anlagenliste liefern.",
+          "deliverables": [
+            "Klauselvermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-04",
+      "request": "Am Bildungscampus Leineaue beanstandet der Einkauf Stückzahl, Abplatzungen und Farbe einer Klinkerlieferung. Zwischen Ladescan, interner Entnahme, Trocknung und Terminbindung ändern sich die Prüf- und Verhandlungsgrundlagen. Erstellen Sie eine interne Entscheidungsvorlage und eine versandfähige, freigabebedürftige Lieferantenantwort. Rechnen Sie Bestellung, verbleibende Menge, Aufwand und Alternativkosten nach. Legen Sie begrenzte Nachweise, Rücknahme, Ersatzlieferung, Reservierungsfrist und Freigabegrenzen fest.",
+      "target_skill": "korrespondenz-verhandlung-reklamation",
+      "input_files": [
+        "testakten/projekteinkauf-klinker-reklamation/01_Bestellung_PE04.pdf",
+        "testakten/projekteinkauf-klinker-reklamation/02_Auftragsbestaetigung.eml",
+        "testakten/projekteinkauf-klinker-reklamation/03_Lieferschein_WZ5162.pdf",
+        "testakten/projekteinkauf-klinker-reklamation/04_Wareneingang_und_Lagerjournal.docx",
+        "testakten/projekteinkauf-klinker-reklamation/05_Eingangsregister.png",
+        "testakten/projekteinkauf-klinker-reklamation/06_Zaehlregister.xlsx",
+        "testakten/projekteinkauf-klinker-reklamation/06a_Zaehlregister.csv",
+        "testakten/projekteinkauf-klinker-reklamation/07_Maengelanzeige_20-10.eml",
+        "testakten/projekteinkauf-klinker-reklamation/08_Lieferant_Gegenposition.eml",
+        "testakten/projekteinkauf-klinker-reklamation/09_Gemeinsame_Nachpruefung.pdf",
+        "testakten/projekteinkauf-klinker-reklamation/10_Nachmeldung_Trockenvergleich.eml",
+        "testakten/projekteinkauf-klinker-reklamation/11_Angebot_Deckung_HK92.pdf",
+        "testakten/projekteinkauf-klinker-reklamation/12_Bauablauf_und_Kostenvermerk.docx"
+      ],
+      "deliverables": [
+        "Reklamation.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Wareneingang und Rüge chronologisch anhand tatsächlicher Dateien und Uhrzeiten belegen.",
+          "deliverables": [
+            "Reklamation.docx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "48 Stück vorläufigen Ersatzbedarf und 36 Stück bei belegter Zuordnung auseinanderhalten.",
+          "deliverables": [
+            "Reklamation.docx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Einen ausformulierten Entwurf mit Charge, Abhilfe, Termin und begrenzten Vorbehalten liefern.",
+          "deliverables": [
+            "Reklamation.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-05",
+      "request": "Eine technische Anweisung zum Stellflächenwechsel, ein vor Ort gebliebener Kran und eine offene Reservierung führen zu drei Nachtragspositionen. Der Einkauf klärt Beauftragung, Leistungszeit und doppelt berechnete Warteblöcke. Arbeiten Sie die Lieferantenargumente und die August-Fälle in denselben Entwurf ein. Schreiben Sie einen konkreten Verhandlungsbrief mit positionsbezogener Stellungnahme, angeforderten Belegen und zeitlich begrenztem Vorschlag. Behandeln Sie das interne Limit separat und prüfen Sie die kaufmännische Freigabe vor einem Angebot.",
+      "target_skill": "nachtraege-pruefen",
+      "input_files": [
+        "testakten/projekteinkauf-kran-nachtrag/01_Grundauftrag_K190.pdf",
+        "testakten/projekteinkauf-kran-nachtrag/02_Auftragsannahme.eml",
+        "testakten/projekteinkauf-kran-nachtrag/03_Hubplan_und_Stellflaechen.docx",
+        "testakten/projekteinkauf-kran-nachtrag/04_Bauleitung_Umsetzen.eml",
+        "testakten/projekteinkauf-kran-nachtrag/05_Disposition_Verlaengerung.eml",
+        "testakten/projekteinkauf-kran-nachtrag/06_Einkauf_Zwischenantwort.eml",
+        "testakten/projekteinkauf-kran-nachtrag/07_Fahrerzettel_F12.pdf",
+        "testakten/projekteinkauf-kran-nachtrag/08_Bautagesbericht_22-10.docx",
+        "testakten/projekteinkauf-kran-nachtrag/09_Leistungszeiten.xlsx",
+        "testakten/projekteinkauf-kran-nachtrag/09a_Zeitregister.csv",
+        "testakten/projekteinkauf-kran-nachtrag/10_Nachtragsrechnung_N07.pdf",
+        "testakten/projekteinkauf-kran-nachtrag/11_Disposition_Gegenposition.eml",
+        "testakten/projekteinkauf-kran-nachtrag/12_Interne_Freigabespur.docx",
+        "testakten/projekteinkauf-kran-nachtrag/13_Dispositionsauszug.png"
+      ],
+      "deliverables": [
+        "Nachtragsvermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Vertragstyp, technische Anweisung und kaufmännische Beauftragung unterscheiden.",
+          "deliverables": [
+            "Nachtragsvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "1.033,75 Euro netto nachrechnen und die Überschneidung 15:10 bis 15:40 Uhr bereinigen.",
+          "deliverables": [
+            "Nachtragsvermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Grundrechnung und offene Nachtragspositionen trennen und eine Lieferantenantwort formulieren.",
+          "deliverables": [
+            "Nachtragsvermerk.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pe-06",
+      "request": "Ein Innenausbauauftrag wird aus 17 nativen E-Mails, Zeichnungsständen, Angeboten und Baustellenberichten rekonstruiert. Eine verkürzte Freigabenotiz, ein fremdes Anweisungsfeld und ein später gesperrter Teilbereich stellen die bisherige Einkaufsempfehlung auf die Probe. Überarbeiten Sie denselben Entwurf nach der Rückfrage, dem Protokoll und der neuen Sperrfläche. Rechnen Sie Startfläche, Grundmenge und Nachtrag getrennt. Liefern Sie eine verwendbare Lieferantenmail mit genauer Fassung, bestätigtem Zeitfenster, offenen Nachweisen, Preis- und Freigabegrenzen. Benennen Sie nur die wirklich erforderlichen Anlagen.",
+      "target_skill": "dokumentenakte-auswerten",
+      "input_files": [
+        "testakten/projekteinkauf-innenausbau-mailakte/01_Vertrag_A225.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/02_Bestaetigung_Grundauftrag.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/03_Planstand_A_Uebergabe.docx",
+        "testakten/projekteinkauf-innenausbau-mailakte/04_Planung_Revision_B.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/05_Plan_Revision_B.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/06_Bauleitung_Pruefung_B.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/07_Angebotsmail_V2.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/08_Angebot_V2.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/09_Einkauf_Interne_Pruefung.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/10_Disposition_West.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/11_Planung_Revision_C.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/12_Plan_Revision_C.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/13_Bauleitung_C_Technisch.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/14_Angebotsmail_V3_Portal.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/15_Angebot_V3.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/16_Partnerportal_Export.pdf",
+        "testakten/projekteinkauf-innenausbau-mailakte/17_Kaufmaennische_Grenze.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/18_Bauleitung_Abschnitt_West.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/19_Bautagesbericht.docx",
+        "testakten/projekteinkauf-innenausbau-mailakte/20_Lieferant_Freigabe_Rueckfrage.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/21_Versionsregister.xlsx",
+        "testakten/projekteinkauf-innenausbau-mailakte/22_Versionsregister.csv",
+        "testakten/projekteinkauf-innenausbau-mailakte/23_Einkauf_Protokollabgleich.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/23a_Protokoll_Schnittstellen.docx",
+        "testakten/projekteinkauf-innenausbau-mailakte/24_Lieferant_Anlieferfenster.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/25_Bauleitung_Teilflaeche_Sperre.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/26_Rekonstruierter_Flaechenstand.png",
+        "testakten/projekteinkauf-innenausbau-mailakte/27_Kaufmaennische_Fortsetzung.eml",
+        "testakten/projekteinkauf-innenausbau-mailakte/28_Logistik_Torzeit.eml"
+      ],
+      "deliverables": [
+        "Freigabevermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefung-1",
+          "text": "Die wirklichen MIME-Anlagen prüfen und bloße Betreff- oder Freitextangaben getrennt behandeln.",
+          "deliverables": [
+            "Freigabevermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-2",
+          "text": "Grundauftrag, C-Fassung, Nachtrag und freigegebene Startfläche zeitlich und rechnerisch trennen.",
+          "deliverables": [
+            "Freigabevermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefung-3",
+          "text": "Die fremde Anweisung in der Lieferantenanlage als Akteninhalt behandeln und den Freigabevermerk samt Entwurf fortschreiben.",
+          "deliverables": [
+            "Freigabevermerk.docx"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Fachliche Gegenlese mit Einsteigeraufträgen, Prüfschritten und Stichtagsbezug.",
+    "changes": [
+      "Belegte Positionen und offene Annahmen sichtbar machen.",
+      "Folgeunterlagen in denselben Entwurf einarbeiten."
+    ],
+    "sha256": "d09bf8537ef40df727e9652246af6c37424827ac9cb37edb1ec43ef4ab0f42e3"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Fachliche Gegenlese mit Einsteigeraufträgen, Prüfschritten und Stichtagsbezug.",
+    "changes": [
+      "Belegte Positionen und offene Annahmen sichtbar machen.",
+      "Folgeunterlagen in denselben Entwurf einarbeiten."
+    ],
+    "sha256": "e579e2e3e4ff6a5b445187260838b9591ec34e01461b613b820fbd1c04b25ec1"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-11-09",
+    "files": [
+      "projekteinkauf-baubranche/projekteinkauf-baubranche-schnellstart.md",
+      "projekteinkauf-baubranche/projekteinkauf-baubranche-werkstatt.md",
+      "testakten/megaprompts/projekteinkauf-baubranche.md"
+    ],
+    "opening_change": "Der Einstieg liefert eine konkrete Einkaufsaufgabe und den erwarteten Arbeitsstand. Der Entscheidungsanker ist auf die belegte Mehrmengenkonstellation eingegrenzt.",
+    "norms": [
+      "§ 377 HGB",
+      "§§ 305b, 310, 650a bis 650c BGB",
+      "§ 99 GWB",
+      "§ 2 Abs. 3 Nr. 2 VOB/B"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 08.08.2019, VII ZR 34/18, Rn. 17, 29–30 und 35",
+        "application": "Vergütung der über zehn Prozent hinausgehenden Mehrmenge ohne abweichende Preisvereinbarung.",
+        "limit": "Keine direkte Aussage für Zusatzleistung, Kranstillstand oder § 650c BGB.",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-8-8&Gericht=bgh&anz=10&nr=101195&pos=9"
+      }
+    ],
+    "remaining_limits": [
+      "Struktur- und Fachprüfung mit praktischen Stichproben. Eine Ausführung in einer externen Pluginoberfläche wurde nicht gemessen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-11-09",
+    "method": "desk_review",
+    "opening_modes": [
+      "Klarer Auftrag mit LV und Angeboten.",
+      "Unterlagen ohne Frage mit belegtem Klärungsbedarf.",
+      "Leerstart mit zwei sinnvollen Einsteigeraufgaben."
+    ],
+    "continuation": "Nachgereichte Unterlagen ändern die betroffenen Zeilen, Termine und Freigaben im vorhandenen Entwurf.",
+    "enrichment": "Belegstellen, offene Annahmen und tatsächlich vergleichbare Preisbasis verbinden.",
+    "limits": "Vorlagen und Beispielakten dienen der Arbeit im Kurs. Das Profil dokumentiert keine vollständige Modellabnahme."
+  }
+}

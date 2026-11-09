@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.35.3: 312 Plugins, 23399 Skills.
+Stand v445.35.3: 313 Plugins, 23408 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -225,6 +225,7 @@ Stand v445.35.3: 312 Plugins, 23399 Skills.
 | [`preussisches-allgemeines-landrecht-pralr`](../preussisches-allgemeines-landrecht-pralr/) | PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte. | `445.35.3` | 69 |
 | [`private-equity-praxis`](../private-equity-praxis/) | Private-Equity-Praxis-Plugin für deutsche Kanzleien, Investoren, Fonds, Family Offices und Unternehmen: Fund Formation, KAGB/AIF, ELTIF, Deal Execution, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit und Distressed. | `445.35.2` | 109 |
 | [`produktrecht`](../produktrecht/) | Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. | `445.35.2` | 70 |
+| [`projekteinkauf-baubranche`](../projekteinkauf-baubranche/) | KI-Werkstatt für Projekteinkäufer in der Baubranche. Leistungsverzeichnisse und Angebote vergleichen, Preise und Nachunternehmer recherchieren, Klauseln prüfen, Korrespondenz entwerfen und Nachträge sowie umfangreiche Projektakten auswerten. | `445.35.10` | 9 |
 | [`prozessrecht`](../prozessrecht/) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. | `445.35.2` | 65 |
 | [`pruefungsrecht-hochschule`](../pruefungsrecht-hochschule/) | Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz. | `445.35.3` | 109 |
 | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen`](../rechtsabteilung-forderungsmanagement-immobilienunternehmen/) | Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung. | `445.35.1` | 50 |

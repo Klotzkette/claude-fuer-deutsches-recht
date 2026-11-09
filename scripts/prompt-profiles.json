@@ -719,6 +719,12 @@
       "formats": ["md"],
       "megaprompt": true,
       "hand_curated": true
+    },
+    "projekteinkauf-baubranche": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": true,
+      "hand_curated": true
     }
   }
 }
