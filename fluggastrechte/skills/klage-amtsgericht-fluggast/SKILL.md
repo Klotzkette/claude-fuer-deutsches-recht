@@ -44,7 +44,7 @@ beA-Konvention:
 - EuGH, Urt. v. 21.12.2021, C-146/20, C-188/20, C-196/20 — Vorverlegung als Annullierung
 - EuGH, Urt. v. 16.5.2024, C-405/23 — Personalmangel Flughafen
 - EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung bestätigend
-- EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler
+- EuGH, Urt. v. 13.6.2024, C-411/23 — versteckter Konstruktionsfehler
 - EuGH, Urt. v. 16.10.2025, C-399/24 — Blitzschlag
 
 ## Triage vor Klageerhebung

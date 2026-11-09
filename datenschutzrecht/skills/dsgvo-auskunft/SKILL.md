@@ -97,7 +97,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ### Leitentscheidung
 
-EuGH, Urteil vom 19.03.2026, C-526/24, Brillen Rottler: Auch ein erster Auskunftsantrag kann exzessiv sein, wenn der Verantwortliche die Absicht nachweist, künstlich einen Schadensersatzanspruch herbeizuführen. Kurze Zeitabstände oder frühere Anträge nicht allein genügen lassen; alle Fallumstände würdigen. Eine Auskunftsverletzung kann Artikel 82 auslösen, aber nur bei nachgewiesenem Schaden und Kausalität. [Gerichtliche Pressemitteilung Nr. 38/26](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf); der Volltextabruf war bei diesem Abgleich blockiert, Randnummern deshalb vor prozessualem Zitat nachprüfen.
+Schon der erste Auskunftsantrag kann exzessiv sein, wenn der Verantwortliche nachweist, dass er darauf abzielt, künstlich einen Ersatzanspruch zu schaffen. Zahl früherer Anträge und kurze Zeitabstände sind Indizien, die für sich nicht genügen. Ein Auskunftsverstoß kann Art. 82 DSGVO auslösen. Tatsächlicher Schaden und Kausalität bleiben gesondert zu belegen, auch bei Kontrollverlust oder Unsicherheit. Eine eigene Handlung kann als entscheidende Schadensursache den Zurechnungszusammenhang unterbrechen. [EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler, Rn. 37–45, 48–55 und 59–67](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526).
 
 ### Grundsatz
 

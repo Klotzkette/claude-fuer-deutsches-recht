@@ -43,7 +43,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 ## Anker-Rechtsprechung
 
 - Paragraf 613a BGB: Übergang einer wirtschaftlichen Einheit, Unterrichtung, Widerspruch und Haftung müssen getrennt geprüft werden.
-- BAG, Urteil vom 20.09.2012 - 6 AZR 854/11, frei nachweisbar über dejure/openJur: Namensliste, Auswahlrichtlinie und Darlegungslast sind bei betriebsbedingten Gestaltungen sauber voneinander zu trennen.
+- Im Anwendungsbereich des § 125 Abs. 1 Satz 1 Nr. 2 InsO kann eine von denselben Betriebsparteien vereinbarte Namensliste eine Auswahlrichtlinie im konkret abweichenden Punkt ändern. Prüfe die wirksame Einigung und dann, welche Tatsachen das Auswahlergebnis gerade für den Kläger als grob fehlerhaft erscheinen lassen. Im Streitfall fehlten noch Feststellungen zur Vergleichbarkeit weiterer Beschäftigter. [BAG, Urteil vom 24.10.2013 – 6 AZR 854/11, Rn. 41–45](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-854-11/).
 - Paragrafen 3, 4 und 5 TVG: Tarifbindung, Nachwirkung und Allgemeinverbindlichkeit bestimmen die Anspruchsgrundlage.
 - Paragraf 125 InsO: Interessenausgleich mit Namensliste hat besondere Darlegungs- und Vermutungswirkungen.
 - Ständige Rechtsprechung zu Paragraf 613a BGB: Betriebsübergang verlangt eine Gesamtwürdigung von Organisation, Personal, Betriebsmitteln, Kundenstamm und Kontinuität; konkrete Fundstelle vor produktiver Zitierung verifizieren.

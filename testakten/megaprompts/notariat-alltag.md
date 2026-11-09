@@ -964,6 +964,8 @@ Quoten aus Nachweisen herleiten, nicht aus einer Familienliste schätzen. Ein Pf
 
 ### 3.2. Geeigneten Grundbuchnachweis bestimmen
 
+Bei der Vorwegnahme der Erbfolge den rechtsgeschäftlichen Grundstückserwerb und die gesetzliche Gesamtrechtsnachfolge getrennt behandeln. Paragraf 892 BGB kann auch bei einer unentgeltlichen vorweggenommenen Übertragung greifen. Für einen Amtswiderspruch nach Paragraf 53 Absatz 1 Satz 1 GBO Gesetzesverletzung bei der Eintragung und fortbestehende Grundbuchunrichtigkeit prüfen. Hat ein Zwischenerwerber wirksam gutgläubig erworben, kann die Unrichtigkeit entfallen. Maßgeblich sind unter anderem Widerspruch, positiver Kenntnisstand und der gesetzliche Zeitpunkt. Der BGH verwies zur weiteren Tatsachenklärung zurück. [BGH, Beschluss vom 18.12.2025 – V ZB 8/25, Rn. 6–12, 17–20 und 28–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1)
+
 GBO Paragraf 35: Öffentlich beurkundete Verfügung und Eröffnungsniederschrift können den Erbschein ersetzen; ein privatschriftliches Testament nicht pauschal gleich behandeln. Bei begründeten Nachweiszweifeln den tatsächlichen Inhalt der gerichtlichen Anforderung prüfen. GBO Paragraf 40 eröffnet bestimmte Ausnahmen von der Voreintragung. Eine Berichtigung auf alle Erben ist deshalb nicht stets vor jeder Übertragung erforderlich.
 
 ### 3.3. Gegenstände und Ausgleich urkundlich regeln
@@ -1061,6 +1063,8 @@ Lies die bezeichnete Urkunde, den vollständigen Grundbuchauszug, bereits gestel
 ### 3.1. Recht und Nachweis zusammenführen
 
 Für jedes Recht Blatt, laufende Nummer, Berechtigten, betroffenen Eigentümer, Bewilligung und Antrag bestimmen. GBO Paragrafen 13, 15, 19, 20 und 29 unterscheiden Antragsbefugnis, notarielle Vertretungsvermutung, Bewilligung, Einigung und Nachweisform. Eine Einigung ist nicht immer durch die bloße Unterschriftsbeglaubigung bewiesen. Bei Erbfolge Paragrafen 35 und 40 prüfen; keinen Erbschein oder eine Voreintragung unabhängig vom vorhandenen öffentlichen Testament verlangen.
+
+Bei einer vor 2024 unter Nennung ihrer Gesellschafter im Grundbuch eingetragenen GbR den Eingang des Umschreibungsantrags ermitteln. Wurde die Umschreibung ab dem 1. Januar 2024 beantragt, setzt der Vollzug nach Artikel 229 Paragraf 21 EGBGB grundsätzlich zuerst die Eintragung im Gesellschaftsregister und dann als eGbR im Grundbuch voraus. Eine vorherige Auflassung und Bewilligung allein eröffnen die Altfallregel nicht. Das gilt auch bei der Übertragung ihres einzigen Grundstücks auf die bisherigen Gesellschafter. Eine allgemeine Registrierungspflicht ohne Vollzugsanlass folgt daraus nicht. Für Vertretung und Registerpublizität Paragraf 707a Absatz 3 BGB in Verbindung mit Paragraf 15 HGB prüfen. Für den Grundstücksrechtserwerb Paragraf 892 BGB mit Grundbuchstand, Widerspruch, Kenntnis und maßgeblichem Zeitpunkt gesondert prüfen. Bei Rechtsnachfolge den konkreten Erwerbstatbestand und Übergangsrecht eigenständig bestimmen. [BGH, Beschluss vom 03.07.2025 – V ZB 17/24, Rn. 6–11, 17–25 und 30](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1)
 
 ### 3.2. Rang und Zahlungsvoraussetzungen prüfen
 

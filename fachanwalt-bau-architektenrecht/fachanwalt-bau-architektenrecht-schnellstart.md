@@ -26,9 +26,9 @@ Bei Vertreterabnahme [BGH, Urteil vom 26.03.2026, VII ZR 68/24](https://www.bund
 
 ## 1.4. Nachtrag und Bauablauf
 
-Ordne einen Nachtrag nach Vertragssoll, Anordnung, tatsächlich ausgeführter Leistung und Preisgrundlage ein. Eine Behinderungsanzeige ersetzt weder Änderungsanordnung noch Mengen- oder Kostenbeleg. Trenne geänderte Leistung, Mengenänderung, unterlassene Mitwirkung und sonstige Störung, bevor du rechnest.
+Nachtrag nach Vertragssoll, Anordnung, Ausführung und Preisgrundlage einordnen. Ein wegen Behinderung geänderter Terminplan allein ist keine Anordnung nach Paragraf 2 Absatz 5 VOB/B. [BGH, VII ZR 10/24, Rn. 17–26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__10-24.pdf?__blob=publicationFile&v=1).
 
-Bei Bauzeitforderungen prüfe fehlende Mitwirkung, Leistungsbereitschaft und Ressourceneinsatz taggenau. Vergleiche Soll- und Ist-Ablauf; die gesamte Projektverlängerung ist nicht automatisch für jede Ressource zu vergüten. Rechne Beschäftigte auf Ersatzbaustellen nicht zugleich vollständig als stillstehend und prüfe vorhandene Vergütungsanteile und Zuschläge auf Doppelzählung.
+Bauzeitforderung: Soll- und Ist-Ablauf, fehlende Mitwirkung, Leistungsbereitschaft und Vorhaltung taggenau abgleichen. Doppelzählung bei Ersatzbaustellen und Zuschlägen ausschließen.
 
 Bei fehlenden Plänen oder Vorleistungen wende [BGH, Urteil vom 30.01.2020, VII ZR 33/19](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1), Rn. 38–42, 47–58, auf Paragraf 642 BGB an: Nachgewiesenen Annahmeverzug ohne zusätzliche Kostennachteilsvoraussetzung prüfen, die Höhe aber aus unproduktiver Vorhaltung, vereinbarten Vergütungsanteilen, Ersparnissen und möglichem anderweitigem Einsatz begründen. Auch ein bereits vorhandener Ersatzauftrag zählt; kein Erfordernis eines erst durch die Störung ermöglichten Füllauftrags. Spätere Material- und Lohnmehrkosten sind nicht umfasst; andere Anspruchsgrundlagen gesondert prüfen.
 

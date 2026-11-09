@@ -17,120 +17,32 @@ description: "Für Verl-041 · Abmahnung Buchpreisbindung: ordnet Norm, Beweisla
 
 Abmahnungen wegen Buchpreisbindungsverstößen sind das häufigste Durchsetzungsinstrument im deutschen Buchhandel. Kläre, wie eine wirksame Abmahnung aussieht, wie Empfänger reagieren sollten und welche Kosten und Risiken auf beiden Seiten entstehen.
 
-## Rechtsgrundlagen
+## Anspruch und Abmahnbefugnis
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 9 Abs. 1 | Unterlassungsanspruch gegen Preisbindungsverstoß | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 9 Abs. 2 | Schadensersatzanspruch | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 10 | Klageberechtigung des Börsenvereins | https://www.gesetze-im-internet.de/buchprg/__10.html |
-| BuchPrG § 11 | Einstweiliger Rechtsschutz | https://www.gesetze-im-internet.de/buchprg/__11.html |
-| BuchPrG § 13 | Bußgeld: bis 5.000 € | https://www.gesetze-im-internet.de/buchprg/__13.html |
-| UWG § 13 | Abmahnkosten: Erstattungspflicht | https://dejure.org/gesetze/UWG/13.html |
-| ZPO § 935 | Einstweilige Verfügung | https://dejure.org/gesetze/ZPO/935.html |
+Prüfe zuerst die konkret verletzte Pflicht. Beim gewerbs- oder geschäftsmäßigen Verkauf neuer Bücher an Letztabnehmer in Deutschland gelten §§ 3 und 5 BuchPrG. Ordne Händler, Plattform, Verlag und Importeur anhand ihrer jeweiligen Handlung zu. Prüfe die konkrete Ausgabe, die veröffentlichte Preisfestsetzung, etwaige Ausnahmen nach § 7 und die wirksame Aufhebung nach § 8.
 
-## Wer kann abmahnen?
+[§ 9 Abs. 1 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__9.html) unterscheidet Unterlassung vom Ersatz eines durch eine vorsätzliche oder fahrlässige Zuwiderhandlung entstandenen Schadens. Für Unterlassung nennt Absatz 2 Buchvertriebsgewerbetreibende, eingetragene qualifizierte Wirtschaftsverbände, gemeinsam beauftragte anwaltliche Preisbindungstreuhänder und die dort genannten qualifizierten Einrichtungen. Bei Letzteren müssen wesentliche Belange der Letztabnehmer berührt sein. Für Verbände die Listeneintragung prüfen, für Treuhänder Mandat und Umfang belegen. Absatz 3 verweist für Nummern 1 bis 3 auf das UWG und für Nummer 4 auf das UKlaG.
 
-### Aktivlegitimation (§ 9 BuchPrG)
-- **Verleger**: Direkter Anspruch gegen jeden Händler, der Bücher unter dem festgesetzten Preis verkauft.
-- **Importeur**: Bei Importen.
-- **Buchhandel**: Mitbewerber, der durch den Verstoß benachteiligt wird.
-- **Börsenverein des Deutschen Buchhandels e.V.** (§ 10 BuchPrG): Besonderes Klagerecht; kann unabhängig von eigenem Schaden vorgehen.
+[§ 10 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__10.html) ermöglicht einem Buchvertriebsgewerbetreibenden bei begründetem Verdacht eines Verstoßes gegen § 3 Einsicht durch eine zur Verschwiegenheit verpflichtete Fachperson aus den wirtschafts- oder steuerberatenden Berufen. Der Bericht ist auf die festgestellten Verstöße begrenzt. Die notwendigen Prüfungskosten sind bei einer Zuwiderhandlung gesondert zu prüfen.
 
-### Abgemahnt werden kann
-- Buchhandlungen, Online-Händler, Amazon-Marketplace-Händler.
-- Verlage (wenn sie selbst Preisbindung nicht korrekt festsetzen).
-- Importeure ohne eigene Preisfestsetzung.
+## Abmahnung vorbereiten
 
-## Aufbau einer wirksamen Abmahnung
+1. Erfasse Absender, Vertreter, Rechtsgrund und Adressat. Lege die konkrete Anspruchsberechtigung dar.
+2. Beschreibe Titel, Ausgabe, ISBN oder eine andere eindeutige Produktkennung, den im maßgeblichen Zeitpunkt veröffentlichten Preis, den tatsächlich verlangten Gesamtpreis und die konkrete Handlung. Sichere Zeitstempel, URL, Aktionsbedingungen, Bestellübersicht, Rechnung und Nachweis des gebundenen Preises. Trenne Produktpreis, Gutschein, Drittzahlung und Versand.
+3. Formuliere die verlangte Unterlassung so, dass Reichweite und tatsächliche Handlung bestimmbar sind. Bewerte Wiederholungs- oder Erstbegehungsgefahr anhand des Verlaufs. Prüfe eine angemessene Vertragsstrafe unter Beachtung des anwendbaren § 13a UWG und der konkreten Umstände.
+4. Setze eine begründete Reaktionsfrist nach Komplexität und Dringlichkeit. Bei anwendbarem UWG lege einen geltend gemachten Aufwendungsersatz und seine Berechnung nach § 13 UWG offen. Prüfe die Voraussetzungen, Ausschlüsse und einen möglichen Gegenanspruch gesondert. Leite Gebühren und Gegenstandswert aus dem Vorgang ab.
 
-### Mindestinhalte
-1. **Absender**: Vollständiger Name, Adresse, Vertreter (ggf. Rechtsanwalt).
-2. **Adressat**: Vollständige Firmierung des Verletzers.
-3. **Verstoßbeschreibung**: Konkreter Titel (ISBN), festgesetzter Ladenpreis, angebotener Preis, Datum und URL des Angebots.
-4. **Verstoßgrundlage**: BuchPrG §§ 3, 5; Verletzungstatbestand klar benennen.
-5. **Unterlassungsaufforderung**: Aufforderung, den Verstoß sofort zu beenden und künftig zu unterlassen.
-6. **Vertragsstrafe**: Unterlassungserklärung mit Vertragsstrafe für Wiederholung; Höhe nennen (empfohlen: 5.000–10.000 € pro Verstoß).
-7. **Kostenforderung**: Anwaltskosten; Streitwert für Kostenberechnung.
-8. **Frist**: Kurze Frist für Reaktion (24–72 Stunden bei dringendem Online-Verstoß; 5–7 Werktage sonst).
+## Auf eine Abmahnung reagieren
 
-### Dokumentation des Verstoßes
-- Screenshot des Angebots mit URL, Datum, Uhrzeit.
-- VLB-Ausdruck: Nachweis des festgesetzten Ladenpreises.
-- Testbestellung: Quittung über tatsächlichen Kaufpreis (wenn physischer Kauf).
+Prüfe Anspruch, Belege, Frist und Kosten einzeln. Sichere Angebots-, Preis- und Plattformdaten vor Änderungen. Vergleiche Zurückweisung, sachlich begrenzte Unterlassungsverpflichtung und Verhandlung. Eine Vertragsstrafenpflicht folgt aus dem Inhalt des wirksam eingegangenen Vertrags und dem konkreten Wiederholungsverstoß. Bei drohender Verfügung prüfe eine Schutzschrift im zentralen Register nach § 945a ZPO.
 
-## Reaktion auf eine empfangene Abmahnung
+Für Eilrechtsschutz prüfe §§ 935, 940 ZPO und gegebenenfalls § 12 Abs. 1 UWG über § 9 Abs. 3 BuchPrG. Unterscheide Parteifrist, Vollziehungsfrist und Rechtsbehelf. Gegen eine Beschlussverfügung ist Widerspruch nach §§ 924, 936 ZPO möglich. § 924 ZPO setzt dafür keine starre Zweiwochenfrist. Der Widerspruch hemmt die Vollziehung grundsätzlich nicht. Bei einer Urteilsverfügung prüfe den statthaften Rechtsbehelf und die konkrete Frist anhand der Zustellung.
 
-### Optionen
-1. **Unterlassungserklärung unterzeichnen**: Verstoß eingestehen; Vertragsstrafe bei Wiederholung akzeptieren; Kosten zahlen.
- - Vorteil: Schnelle Erledigung; Schutz vor teurerer einstweiliger Verfügung.
- - Risiko: Vertragsstrafe bei späterem Verstoß; Eingeständnis für Schadensersatzklage.
+## Quellen und Ausgabe
 
-2. **Modifizierte Unterlassungserklärung**: Unterlassung erklären, aber Vertragsstrafe-Höhe oder Formulierung modifizieren.
- - Abmahner muss neue Formulierung akzeptieren oder Verfügung beantragen.
+- [BuchPrG im amtlichen Portal](https://www.gesetze-im-internet.de/buchprg/), insbesondere §§ 3, 5 und 7–10.
+- [§ 12 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html), [§ 13 UWG](https://www.gesetze-im-internet.de/uwg_2004/__13.html) und [§ 13a UWG](https://www.gesetze-im-internet.de/uwg_2004/__13a.html).
+- [§ 924 ZPO](https://www.gesetze-im-internet.de/zpo/__924.html), [§ 936 ZPO](https://www.gesetze-im-internet.de/zpo/__936.html) und [§ 945a ZPO](https://www.gesetze-im-internet.de/zpo/__945a.html).
+- [BGH, Urteil vom 23. Juli 2015, I ZR 83/14, amtliche Leitsätze und Rn. 12–21](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312622016.zip). Beim Erwerb preisgebundener Bücher muss der gebundene Preis wirtschaftlich zufließen. Prüfe bei Bonusgutscheinen deren Gegenleistung und Einlösung. Bündel und die gesetzlichen Ausnahmen sind gesondert einzuordnen.
 
-3. **Ablehnen**: Abmahner trägt dann Risiko und muss einstweilige Verfügung beantragen.
- - Nur sinnvoll, wenn Abmahnung offensichtlich unbegründet oder Verstoß nicht vorlag.
-
-4. **Schutzschrift**: Beim zuständigen Gericht einreichen, um Gegendarstellung bei Verfügungsantrag zu sichern.
-
-### Frist und Dringlichkeit
-- Abmahnungen mit kurzen Fristen (24–48 h): Anwalt sofort einschalten.
-- Nach Verfügungserlass: Widerspruch innerhalb von 2 Wochen (§ 924 ZPO).
-
-## Kosten der Abmahnung
-
-### Anwaltskosten (nach RVG)
-- Streitwert typisch 15.000–30.000 € für Buchpreisbindungsabmahnung.
-- Anwaltsgebühren (1,3-fache Geschäftsgebühr): Bei Streitwert 30.000 € ca. 1.000–1.500 € netto.
-- Der Abgemahnte muss die Kosten des Abmahnenden erstatten, wenn die Abmahnung berechtigt ist.
-
-### Vertragsstrafe bei Wiederholung
-- Einmal unterschriebene Unterlassungserklärung; jeder weitere Verstoß: Vertragsstrafe.
-- Vertragsstrafe muss bezahlt werden, auch ohne Klage; bei Nicht-Zahlung: Klage auf Vertragsstrafe.
-
-## Börsenverein: Massenabmahnungen
-
-- Börsenverein mahnt jährlich Dutzende von Händlern ab.
-- Kontakt für Verstoß-Meldungen: preisbindung@boersenverein.de
-- Verlag kann Verstoß melden; Börsenverein mahnt im eigenen Namen ab → Kosten trägt Börsenvereins-Fonds.
-
-## Typische Fallen
-
-- **Abmahnung ohne Quellennachweis**: Abmahnung ohne Screenshot und VLB-Ausdruck → angreifbar; Abgemahnter kann Vollständigkeit bestreiten.
-- **Falsche Fristlänge**: Abgemahnte hat 24 Stunden Frist erhalten; Anwalt ist im Urlaub; Einstweilige Verfügung wird beantragt → keine Fristverlängerung ohne Zustimmung.
-- **Modifizierte Unterlassungserklärung abgelehnt**: Abmahner besteht auf Original-Formulierung; Verfahren eskaliert → Kosten steigen.
-- **Wiederholungsverstoß**: Händler hat Unterlassungserklärung unterschrieben; Amazon-Algorithmus senkt Preis erneut → Vertragsstrafe fällig; Händler muss Amazon sofort anschreiben.
-
-## Checkliste Abmahnung
-
-### Abmahnender
-- [ ] Verstoß-Screenshot mit URL, Datum, Preis dokumentiert
-- [ ] VLB-Ausdruck: Festgesetzter Ladenpreis belegt
-- [ ] Adressat korrekt identifiziert (Handelsregistereintrag prüfen)
-- [ ] Abmahnung vollständig (alle Pflichtangaben)
-- [ ] Frist angemessen gesetzt
-- [ ] Kosten berechnet und genannt
-
-### Abgemahnter
-- [ ] Anwalt sofort einschalten (auch bei kurzer Frist)
-- [ ] Verstoß-Sachverhalt intern klären
-- [ ] Optionen abgewogen (unterzeichnen / ablehnen / modifizieren)
-- [ ] Schutzschrift vorbereiten (falls Ablehnung)
-- [ ] Amazon / Plattform sofort instruieren, Preis zu korrigieren
-
-## Quellenreferenzen
-
-- BuchPrG §§ 9–11: https://www.gesetze-im-internet.de/buchprg/
-- UWG § 13 (Abmahnkosten): https://dejure.org/gesetze/UWG/13.html
-- BGH „Buchpreisbindung Abmahnung" I ZR 173/09: https://www.bgh.de
-- Börsenverein, Preisbindungsdurchsetzung: https://www.boersenverein.de
-- ZPO §§ 935 ff.: https://dejure.org/gesetze/ZPO/935.html
-
-## Output-Formate
-
-- **Abmahnungs-Entwurf**: Vollständige, juristische korrekte Abmahnung
-- **Dokumentations-Paket**: Screenshot, VLB-Ausdruck, Zeitstempel
-- **Unterlassungserklärung**: Standardformulierung mit Vertragsstrafe
-- **Ablehnungs-Schreiben**: Wenn Abmahnung unbegründet
-- **Schutzschriften-Entwurf**: Für zuständiges Gericht
+Liefere je nach Auftrag eine ausformulierte Abmahnung, eine Erwiderung, eine modifizierte Erklärung oder einen Entwurf der Schutzschrift. Füge eine kurze Beleg- und Fristenliste mit Zuständigkeit, Annahmen und Kostengrundlage hinzu.

@@ -65,9 +65,9 @@ Sie brauchen ihn nach der Zitierweise-Prüfung, vor dem Druck. Klären Sie:
 
 | Fn. | Quelle Typ | Volltext-Zitat | Wiederholung von Fn. | Status |
 |-----|-----------|-----------------|----------------------|--------|
-| 12 | Rspr. | BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17 | - | OK |
+| 12 | Rspr. | BGH, Urteil vom 27.06.2024 – I ZR 98/23, Rn. 29 | - | OK |
 | 17 | Rspr. | aaO (Fn. 12) Rn. 23 | 12 | OK |
-| 38 | Rspr. | BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17 | 12 | Stop: doppelte Vollzitate |
+| 38 | Rspr. | BGH, Urteil vom 27.06.2024 – I ZR 98/23, Rn. 29 | 12 | Stop: doppelte Vollzitate |
 | 41 | Kommentar | Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12 | - | OK |
 | 49 | Aufsatz | Canaris JZ 2019, 547 (549) | - | Pinpoint prüfen |
 

@@ -31,7 +31,7 @@ Bei Haft nach Paragrafen 120 bis 122 StPO: BGH, Beschluss vom 09.09.2026, AK 46/
 
 BGH, Urteil vom 08.01.2026 – 3 StR 203/25, Rn. 7–15 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1)): Einvernehmliche Beutelagerung in der allein bewohnten Wohnung mit ungehindertem Zugriff kann Mitverfügung begründen; eine ausdrückliche Abrede aller Hinterleute ist nicht nötig. Zugang, Kontrolle und Dauer feststellen. Weder Wohnungsinhaberschaft noch Ablieferungspflicht allein entscheiden das Erlangen.
 
-Bei Strafbefehl Paragraf 410 StPO, bei Revision Paragrafen 341 und 345 StPO nach Einlegung und Begründung trennen. Für anwaltliche Einreichung Paragrafen 32a und 32d StPO prüfen: Die elektronische Pflicht erfasst auch den Strafbefehlseinspruch und dessen Rücknahme. Eine technische Ersatzeinreichung benötigt ihre eigenen Voraussetzungen und Glaubhaftmachung.
+Strafbefehl Paragraf 410, Revision Paragrafen 341 und 345 StPO. Einlegung und Begründung trennen. Elektronische Form einschließlich Strafbefehlseinspruch, Rücknahme und technischer Ersatzeinreichung nach Paragrafen 32a und 32d StPO prüfen. Beugehaft bei möglicher Selbstbelastung als Eilsache behandeln. BVerfG, 23.09.2026, 2 BvR 1681/26, Rn. 8–13, nur Folgenabwägung.
 
 Belegen Sie tragende Aussagen mit überprüfter Quelle; keine erfundenen Fundstellen oder pauschalen Aussagepsychologie-Anker. Ohne Quellenzugriff offene Rechtsprüfung klar kennzeichnen.
 

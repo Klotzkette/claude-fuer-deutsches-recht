@@ -179,6 +179,18 @@
       "checked_on": "2026-10-16",
       "supports": "Paragraf 574 Absatz 1 BGB verlangt keine völlige Umzugsunfähigkeit. Ernsthafte Gefahr erheblicher Gesundheitsverschlechterung kann genügen. Ein ausführliches fachärztliches Attest kann den Vortrag substantiieren; medizinische Laien müssen keine erst gutachterlich mögliche Prognose liefern. Bei substantiiertem, bestrittenem Vortrag und fehlender gerichtlicher Sachkunde regelmäßig Sachverständigengutachten, gegebenenfalls nach Paragraf 144 ZPO. Behandelnde Ärzte als sachverständige Zeugen ersetzen keine Zukunftsprognose. Ersatzwohnungssuche nach Absatz 2 ist ein eigener Prüfzweig; zulässig einbezogenen erstinstanzlichen Vortrag in der Berufung berücksichtigen. Grenze: Zurückverweisung zur Härteprüfung, kein zugesprochenes Dauerbleiberecht und keine Verneinung des Eigenbedarfsgrundes. Die 400 Wohnungsanfragen des Einzelfalls sind keine allgemeine Mindestzahl. Vermieterinteressen, konkrete Hilfen sowie Dauer und Bedingungen einer Fortsetzung bleiben zu prüfen.",
       "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__21-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Schonfristwirkung und erhebliche schuldhafte Pflichtverletzung nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen. Einen Ausgleich nach den Umständen des Einzelfalls nach Paragraf 242 BGB würdigen.",
+      "source_sha256": "343445be954fe9f2983ad6de83f7e83915fbd33c75e2bc219fd8910bdb2df0d3"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR_104-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Bei Gewerbeumbau Vorzustand und objektive Möglichkeit eines eigenständigen Haushalts, erheblichen Aufwand, erste Nutzung/Vermietung und Auskunft nach Paragraf 556g BGB belegen.",
+      "source_sha256": "e2d237f48db206432154fbaa4838fc2148317323bc69772cac4eee04992e3298"
     }
   ],
   "mini_review": {
@@ -192,9 +204,10 @@
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
       "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26"
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+      "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet."
     ],
-    "sha256": "002bfb9a851caa45795ffd27a6317d7983a147ed72fd26cb03e48002402f6b89",
+    "sha256": "0a5670ee39f02d913bd988e1cf18dfd7c51763beeb6df725913c079570cd9402",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -278,9 +291,10 @@
       "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
       "Absätze zu Mietpreisbremse und WEG-Erhaltung den jeweiligen Fachabschnitten zugeordnet.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Mietschreiben, Abrechnung und WEG-Frage werden getrennt zum beauftragten Ergebnis geführt; Erhaltungsanteil und formelle Erklärung bleiben unterscheidbar. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26"
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 01.09.2026, VIII ZR 16/26",
+      "Quellenprüfung 10.11.2026: VIII ZR 21/26 zur Schonfrist und VIII ZR 104/25 zum Gewerbeumbau nach Paragraf 556f BGB mit amtlichem Volltext und Aussagegrenzen angewendet."
     ],
-    "sha256": "ec73e08a39f25dfa55ca36d0a367ce6559f290569d45e82b3bf5e5f4343e33e0",
+    "sha256": "3789cd859b845e826cd7f0721478c6b946694a803142aac87758e417848c9c6e",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -296,7 +310,9 @@
       "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/weg-beschlusskompetenz/SKILL.md",
-      "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md"
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/haerteklausel-paragraf-574-bgb/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/kuendigung/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-kuendigung/SKILL.md"
     ],
     "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
     "norms": [
@@ -357,6 +373,20 @@
         "verification_status": "checked_on: 2026-10-16; method: Recherche mit Webtool; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Kopf, Tenor, Sachverhaltskontext und Rn. 17 bis 49; für Ergänzungen insbesondere Rn. 21 bis 42 sowie 48 und 49.; status: Tragende verwendete Aussagen am amtlichen Entscheidungstext verifiziert; kein Anspruch auf Gesamtneuverifikation älterer Quellen.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
         "workflow_effect": "Atteste und Wohnungssuche getrennt lesen; Beweisfragen zu Art, Schwere, Wahrscheinlichkeit und Hilfen formulieren; fehlende Belege anfordern; Beweisangebot und bestehenden Härte-/Erwiderungsabschnitt danach fortschreiben."
+      },
+      {
+        "citation": "BGH, Urteil vom 30.09.2026 – VIII ZR 21/26, Rn. 11–14 und 18–22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__21-26.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Schonfristwirkung und erhebliche schuldhafte Pflichtverletzung nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen. Einen Ausgleich nach den Umständen des Einzelfalls nach Paragraf 242 BGB würdigen.",
+        "limit": "Der Senat verwies zurück. Keine abschließende Entscheidung über die Wirksamkeit der konkreten Kündigung."
+      },
+      {
+        "citation": "BGH, Versäumnisurteil vom 19.08.2026 – VIII ZR 104/25, Rn. 16–20 und 37–43",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR_104-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Bei Gewerbeumbau Vorzustand und objektive Möglichkeit eines eigenständigen Haushalts, erheblichen Aufwand, erste Nutzung/Vermietung und Auskunft nach Paragraf 556g BGB belegen.",
+        "limit": "Frühere gewerbliche Nutzung allein genügt nicht. Zurückverweisung ohne abschließende Feststellungen zu Ausnahme und Auskunft."
       }
     ],
     "remaining_limits": [

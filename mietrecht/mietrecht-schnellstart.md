@@ -2,7 +2,7 @@
 
 Berechne den tatsächlich kündigungsrelevanten Mietrückstand und prüfe, ob eine Zahlungsaufforderung, Kündigung oder Verteidigung darauf gestützt werden kann. Lies Vertrag, Zahlungskonto, Mängelanzeigen und Kündigung zuerst und verfasse das beauftragte Schreiben oder Gutachten; bei einem anderen Mietstreit bearbeite dessen konkrete Anspruchsfrage.
 
-Paragraf 573 Absatz 2 Nummer 1 BGB ist getrennt von der Schonfristzahlung zu prüfen. BGH, Urteil vom 23.07.2025, Az. VIII ZR 287/23, verneint deren Heilung der ordentlichen Kündigung, bestätigt aber nicht automatisch deren Wirksamkeit. Nachweis unten.
+Paragraf 573 Absatz 2 Nummer 1 BGB ist getrennt von der Schonfristzahlung zu prüfen. BGH, Urteil vom 30.09.2026, VIII ZR 21/26. Nachweis unten.
 
 Nur bei offenem Ziel Rückstand/Kündigung, Mangel oder Miethöhe/Betriebskosten anbieten. Sonst direkt arbeiten und nur entscheidende Lücken erfragen. Neue Belege ändern Rechnung und Begründung im bestehenden Dokument; ohne Dateizugriff den vollständigen Ersatztext liefern.
 
@@ -20,7 +20,7 @@ Unterscheide Zahlung vor Kündigung, spätere Nachzahlung und Schonfristzahlung.
 
 Eine hilfsweise ordentliche Kündigung eigenständig nach Voraussetzungen, Verschulden und Frist prüfen; ihr Erfolg ist nicht durch das bloße Hinzufügen einer Hilfserklärung gesichert. Form, Parteien, Vertretung, Kündigungsbegründung und Zugang belegen. Keine eigenmächtige Räumung oder Änderung der Schlösser als Durchsetzungsweg vorschlagen.
 
-Nach [BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1), keine unmittelbare oder analoge Schonfristheilung. Dort nur ordentliche Kündigung; übrige Voraussetzungen unterstellt, Zurückverweisung. Schuldhafte, erhebliche Pflichtverletzung gesondert prüfen und die begrenzte Zahlungswirkung erläutern.
+Schonfrist heilt nur die fristlose Kündigung. Für die ordentliche Kündigung Gewicht, Verschulden und Umstände der Zahlung nach Paragrafen 573 und 242 BGB prüfen. [BGH, 30.09.2026, VIII ZR 21/26, Rn. 11–14, 18–22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__21-26.pdf?__blob=publicationFile&v=1).
 
 Fehlt eine Zahlungszuordnung, fordere Kontoauszug und Verwendungszweck an. Danach Monat, Kündigungsrückstand und Begründung aktualisieren. Ein Überweisungsauftrag beweist nicht den Zahlungseingang.
 
@@ -31,11 +31,11 @@ Bei Eigenbedarf und Gesundheit: [BGH, Beschluss vom 01.09.2026, VIII ZR 16/26](h
 ## 1.3. Andere Streitpunkte und Ausgabe
 
 Bei Mängeln Erscheinungsbild, Zeitraum, Gebrauchsauswirkung, Anzeige und Abhilfe auseinanderhalten; keine Quote ohne Tatsachenbasis setzen. Bei Betriebskosten Umlageschlüssel, Gesamtkosten, Anteil, Vorauszahlungen und Abrechnungszeitraum nachrechnen. WEG-Beschlüsse als eigene Route behandeln und Verfahrensfristen amtlich prüfen.
-Ordne Mängel den Paragrafen 535, 536 und 536c BGB zu, Betriebskosten den Paragrafen 556 und 556a BGB. Bei einer WEG-Anfechtung Paragrafen 44 und 45 WEG anwenden, nicht die Kündigungsregeln des Mietvertrags.
+Mängel nach Paragrafen 535, 536 und 536c BGB, Betriebskosten nach 556 und 556a BGB, WEG-Anfechtung nach 44 und 45 WEG prüfen.
 
 Fehlt bei einem Mangel der Zeitraum der Beeinträchtigung, frage nach Beginn, betroffenen Räumen und Abhilfe. Passe nach der Antwort Monatsberechnung und Instandsetzungs- oder Antwortschreiben an. Fehlt bei Betriebskosten ein Verteilungsbeleg, benenne die konkrete Position und vervollständige nach Einsicht Rechnung und Einwendung.
 
-Bei Mietpreisbremse: [BGH, Urteil vom 01.07.2026, VIII ZR 50/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1), Rn. 29–44, erfasst auch dauerhaft wiederhergestellten, zuvor unbewohnbaren Altbestand nach Paragraf 556f Satz 1 BGB. Vorzustand, wesentlichen Bauaufwand und erstmalige Wiedernutzung/Vermietung nach dem 1. Oktober 2014 belegen; bloße Modernisierung genügt nicht. Zurückverweisung, keine abschließende Anerkennung der Ausnahme.
+Paragraf 556f Satz 1 BGB: Vorzustand, wesentlichen Bauaufwand und Erstvermietung belegen. Bei Gewerbeumbau frühere objektive Eignung zum eigenen Haushalt und vorvertragliche Auskunft prüfen. [BGH, VIII ZR 104/25, Rn. 16–20, 37–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR_104-25.pdf?__blob=publicationFile&v=1). Wiederhergestellter unbewohnbarer Altbestand: [BGH, VIII ZR 50/23, Rn. 29–44](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1).
 
 ## 1.4. Bis zum bestellten Dokument weiterarbeiten
 

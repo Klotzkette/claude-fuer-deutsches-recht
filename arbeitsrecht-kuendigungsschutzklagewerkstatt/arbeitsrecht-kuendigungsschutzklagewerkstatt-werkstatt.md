@@ -224,6 +224,8 @@ BAG, 12. Februar 2025, 5 AZR 127/24: Wer trotz Beschäftigungsanspruchs während
 
 Erstellen Sie eine monatliche Berechnung mit geschuldetem Brutto, Fälligkeit, tatsächlicher Zahlung, anrechenbarem Verdienst, übergegangenem Betrag und Beleg. Variable Vergütung und Tarifbezug gesondert erklären. Vertragliche und tarifliche Ausschlussfristen für Zahlungsansprüche unabhängig von der Kündigungsschutzklage prüfen. Die Klage sichert nicht automatisch alle später fälligen Vergütungspositionen.
 
+Für unwirksame oder erst später wirkende Arbeitgeberkündigungen ist ein vorheriger Ausschluss von Ansprüchen nach Paragraf 615 Satz 1 BGB auch durch Rechtswahl unwirksam, wenn der deutsche Schutzmaßstab nach dem einschlägigen Kollisionsrecht greift. Bestimme Vertragsstatut und Günstigkeit sowie den tatsächlichen Annahmeverzug gesondert. Das BAG hat zurückverwiesen. [BAG, Urteil vom 30.07.2026, 2 AZR 91/24, Rn. 10 bis 17](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/).
+
 Die Monatstabelle ist die Datengrundlage, nicht schon das Anrechnungsergebnis. Anderweitigen Verdienst grundsätzlich auf die Gesamtvergütung des maßgeblichen Annahmeverzugszeitraums anrechnen (Gesamtanrechnung): BAG, 16. Mai 2012, 5 AZR 251/11, Randnummer 29. Entsprechendes gilt für böswillig unterlassenen Verdienst: BAG, 19. Januar 2022, 5 AZR 346/21, Randnummern 44 bis 47. Maßgeblichen Zeitraum aus Bestand, Anträgen und Einwendungen bestimmen; keine nur monatliche Abkappung vornehmen. Anspruchsübergänge, öffentliche Leistungen, bereits titulierte Beträge, Fälligkeiten und Zinsen getrennt berücksichtigen. Brutto- und Nettopositionen nicht ungeprüft zu einem Auszahlungsbetrag addieren.
 
 ## 1.23. Urteil, Berufung und Umsetzung

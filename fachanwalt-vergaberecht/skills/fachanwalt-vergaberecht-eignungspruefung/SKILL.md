@@ -35,9 +35,9 @@ description: "Für Eignungsprüfung: ordnet Norm, Beweislast und Gegenargument; 
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---|---|---|---|---|
-| EuGH | C-376/21 (Zamestnik) | 03.06.2022 | Ausschluss wegen Falschangaben — Verhaeltnismaessigkeitspruefung im Einzelfall obligatorisch (Art. 57 RL 2014/24) | curia.europa.eu |
+| EuGH | C-267/18 (Delta) | 03.10.2019 | Bei erheblicher oder fortdauernder mangelhafter Erfüllung eines früheren Auftrags die Zuverlässigkeit eigenständig und verhältnismäßig prüfen und Gelegenheit zur Darlegung von Abhilfemaßnahmen geben (Rn. 25–38) | [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267) |
 | EuGH | C-66/22 (Infraestruturas) | 21.12.2023 | Ausschluss wegen Wettbewerbsverstoss § 124 Abs. 1 Nr. 4 GWB / Art. 57 Abs. 4 RL — Auslegung „schwerwiegende Verfehlung im beruflichen Bereich" | curia.europa.eu |
-| EuGH | C-66/20 | 12.05.2022 | Selbstreinigung Art. 57 Abs. 6 RL — Bewertung obliegt national; Verhaeltnismaessigkeit der Ausschlussfolgen | curia.europa.eu |
+| EuGH | C-124/17 (Vossloh Laeis) | 24.10.2018 | Bei Selbstreinigung nach Art. 57 Abs. 6 der Richtlinie 2014/24/EU darf die Mitwirkung gegenüber dem Auftraggeber nur insoweit verlangt werden, wie sie zur Zuverlässigkeitsprüfung unbedingt erforderlich ist (Rn. 26–33) | [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0124) |
 | VK Bund / OLG Vergabesenate | laufende Senatsrspr. 2023-2025 | — | PQ-Verzeichnis ersetzt Einzelnachweise; Zusatznachweise nur ausnahmsweise zulaessig | bundeskartellamt.de/Vergabe + olg-duesseldorf.nrw.de |
 
 Konkrete OLG-Vergabesenat-Entscheidungen vor Verwendung per olg-duesseldorf.nrw.de / openjur.de mit Aktenzeichen und Datum verifizieren.
@@ -225,9 +225,9 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 | Eignungsanforderungen verhältnismäßig — Markteindruck | Konkret darlegen: Auftragswert vs. geforderter Umsatz; Marktdaten zu Zertifizierungsstand |
 | Selbstreinigung unvollständig — Schadensersatz nicht nachgewiesen | Vergleichsvertrag mit Zahlungsbeleg; keine Vollständigkeitspflicht wenn Schaden noch offen |
 | Eignungsleihe unzulässig bei bauspezifischen Leistungen | § 47 Abs. 1 Satz 2 VgV lässt Einschränkungen zu; prüfen ob Auftraggeber Einschränkung in Bekanntmachung aufgenommen hat |
-| Selbstreinigung-Bewertung pauschal abgelehnt | EuGH C-66/20 (12.05.2022): Bewertung der Selbstreinigung muss verhaeltnismaessig und einzelfallbezogen erfolgen |
+| Selbstreinigung pauschal abgelehnt | EuGH 24.10.2018, C-124/17 (Vossloh Laeis), Rn. 26–33: Zusammenarbeit mit dem Auftraggeber auf das für die Zuverlässigkeitsprüfung unbedingt Erforderliche begrenzen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0124) |
 | Konkurrent hat parallele Ausschlussmaßnahme laufen | Offenes Strafverfahren genügt nicht für § 123 GWB; rechtskräftige Verurteilung erforderlich |
-| AG verweigert Akteneinsicht | EuGH C-376/21 (03.06.2022) + § 165 GWB: Akteneinsicht in geschwaerzter Form; Geheimhaltungsschutz und Rechtsschutz abwaegen |
+| Auftraggeber verweigert Offenlegung | EuGH 17.11.2022, C-54/21 (Antea Polska), Rn. 64–68, 85: Geheimschutz begründen und für wirksamen Rechtsschutz den wesentlichen Inhalt möglichst neutral zugänglich machen. Akteneinsicht bei der Vergabekammer gesondert nach § 165 GWB prüfen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62021CJ0054) |
 
 ## Streitwert und Kosten
 
@@ -252,7 +252,9 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 - GWB §§ 122–127, 123 (zwingende Ausschluesse), 124 (fakultative), 125 (Selbstreinigung), 160 (Nachpruefung), 165 (Akteneinsicht)
 - VgV §§ 42–48, 50, 56 (Verfahrensregeln Eignung); §§ 47 (Eignungsleihe), 48 (PQ-Verzeichnis)
 - VO (EU) 2014/24, insbes. Art. 57 (Ausschlussgruende); umgesetzt in §§ 123, 124 GWB
-- EuGH C-376/21 (03.06.2022 — Falschangaben), C-66/22 (21.12.2023 — Wettbewerbsverstoss), C-66/20 (12.05.2022 — Selbstreinigung) — Volltext curia.europa.eu
+- EuGH 03.10.2019, C-267/18 (Delta), Rn. 25–38: früherer Auftragsmangel. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267)
+- EuGH 21.12.2023, C-66/22 (Infraestruturas), Tenor: wettbewerbsbeschränkende Abreden. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62022CJ0066)
+- EuGH 24.10.2018, C-124/17 (Vossloh Laeis), Rn. 26–33: Zusammenarbeit zur Selbstreinigung. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0124)
 - OLG-Vergabesenate (oeffentliche Datenbanken der Landesjustiz)
 - VK Bund: bundeskartellamt.de/Vergabe
 
@@ -268,9 +270,9 @@ Wir fordern Sie auf, die Beigeladene vom Verfahren auszuschließen.
 
 ### Ergaenzende Leitsaetze Eignungspruefung (verifiziert curia.europa.eu)
 
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit bei Ausschluss wegen Falschangaben
+- EuGH 03.10.2019, C-267/18 (Delta), Rn. 25–38: frühere Vertragsmängel im Einzelfall würdigen und Abhilfemaßnahmen prüfen. Falsche oder zurückgehaltene Angaben gesondert nach § 124 Abs. 1 Nr. 8 GWB einordnen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267)
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — Auslegung der „schwerwiegenden Verfehlung im beruflichen Bereich"
-- EuGH 12.05.2022, C-66/20 — Selbstreinigung Art. 57 Abs. 6 RL 2014/24
+- EuGH 24.10.2018, C-124/17 (Vossloh Laeis), Rn. 26–33: notwendige Mitwirkung bei der Selbstreinigung nach Art. 57 Abs. 6 der Richtlinie 2014/24/EU. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0124)
 - EuGH 27.10.2016, C-292/15 — Transparenz auch unterhalb der Schwellenwerte bei grenzueberschreitendem Interesse
 
 Vor Ausgabe konkrete Aktenzeichen ueber curia.europa.eu (EuGH) oder olg-... bzw. openjur.de verifizieren.
@@ -290,8 +292,7 @@ Vergabeverfahren [BEZEICHNUNG]
 2. Zum streitigen Kriterium [XYZ]:
    [Konkreter Nachweis + BGH/EuGH-Bezug]
    Das Kriterium ist im Verhältnis zum Auftragsgegenstand
-   verhaeltnismaessig nach § 122 Abs. 4 GWB / EuGH 03.06.2022,
-   C-376/21 (curia.europa.eu).
+   verhaeltnismaessig nach § 122 Abs. 4 GWB.
 
 3. Antrag:
    Unser Mandant ist als geeignet anzusehen.

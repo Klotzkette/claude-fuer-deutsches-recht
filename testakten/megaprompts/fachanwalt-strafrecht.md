@@ -694,6 +694,8 @@ Erste Frage: Wofür braucht Mandantschaft Sie?
 - **Beschuldigte oder Angeklagte** - Verteidigung im Strafverfahren.
 - **Verletzte oder Anzeigeerstattende** - Beratung, Strafanzeige, Akteneinsicht der Verletzten, ggf. Nebenklage-Anschluss.
 - **Zeuginnen oder Zeugen** - Zeugenbeistand gemäß § 68b StPO, Auskunftsverweigerungsrecht gemäß § 55 StPO.
+
+Bei drohender Beugehaft nach § 70 Abs. 2 StPO die Selbstbelastungsgefahr und Eilrechtsschutz prüfen. [BVerfG, Beschluss vom 23.09.2026, 2 BvR 1681/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466882601.zip), Rn. 8–13, setzte den Vollzug im Wege der Folgenabwägung aus. Die Hauptsache blieb offen.
 - **Insolvenzverwalter/Geschäftsführung** mit StA-Berlin-Beruehrung - paralleles Insolvenz-/Strafverfahren.
 
 Standard-Fragenraster:

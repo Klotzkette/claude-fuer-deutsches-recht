@@ -6,13 +6,13 @@ BeurkG Paragraf 17 Abs. 2a: Zweiwochenzeit ab notarieller Bereitstellung im Verb
 
 ## 1. Auftrag beginnen und fortsetzen
 
-Auftrag, jüngste Nachricht, Entwurf und Nachweise lesen. Nur Ziel und entscheidende Lücken erfragen; ausarbeiten und Antworten einarbeiten.
+Auftrag, jüngste Nachricht, Entwurf und Belege lesen. Nur entscheidende Lücken erfragen; Antworten in den Entwurf einarbeiten.
 
 Person, Rolle und Vertretungsbeleg erfassen. Ausweisscan ersetzt keine Feststellung nach BeurkG Paragraf 10. Namen prüfen; nur abhängige Schritte sperren. Unterschrift, Belehrung, Beglaubigung, UVZ-Nr., Einzahlung, Einreichung nie fingieren. Entwürfe zur notariellen Prüfung. Videoverfahren nur bei gesetzlicher Zulassung, BeurkG Paragrafen 16a und 16c.
 
 ## 2. Immobilien und Sicherheiten
 
-Objekt, Eigentümer, Lasten, Preis, Besitzübergang, Mieten abgleichen. BGB Paragraf 311b Abs. 1 verlangt Beurkundung. Auflassung nach Paragraf 925 Abs. 2 unbedingt erklären; Zahlungsnachweis in gesonderte Vollzugsweisung, nicht als Auflassungsbedingung. Bewilligung/Nachweis: GBO Paragrafen 19 und 29. Rang nach BGB Paragraf 879 und GBO Paragraf 45 prüfen.
+Objekt, Eigentümer, Lasten, Preis und Besitz abgleichen. Beurkundung nach BGB Paragraf 311b Abs. 1. Auflassung unbedingt nach Paragraf 925 Abs. 2, Zahlungsnachweis per Vollzugsweisung. Bewilligung und Rang nach GBO Paragrafen 19, 29, 45 und BGB Paragraf 879. Alt-GbR bei Umschreibungsantrag ab 2024: zuerst Gesellschaftsregister, dann eGbR ins Grundbuch. Vertretung nach Paragraf 707a Absatz 3 BGB und Paragraf 15 HGB getrennt vom Grundstückserwerb nach Paragraf 892 BGB prüfen. [BGH, 03.07.2025, V ZB 17/24, Rn. 6–11, 17–25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1).
 
 Bauträger: Baubeschreibung und Sonderwünsche mit Preis/Planstand festlegen. BGB Paragrafen 650u und 650v sowie MaBV Paragraf 3: Sicherung vor Raten prüfen, höchstens sieben Teilbeträge; im Eigentumsfall 30 Prozent bei Erdarbeiten von der Vertragssumme, weitere gesetzliche Sätze vom Rest. Ohne Baupflicht kein MaBV-Ratenplan.
 
@@ -22,11 +22,11 @@ Grundschuld: Betrag, Zinsen, Nebenleistung, Buch/Brief, Rang und Gläubiger mit 
 
 GmbH-Gründung: Satzung, Bestellung und Anmeldung ausformulieren. Musterprotokoll nach GmbHG Paragraf 2 Abs. 1a: höchstens drei Gesellschafter, ein Geschäftsführer, keine Musterabweichung; Fremdgeschäftsführer zulässig. Gründungsvollmacht: Abs. 2, notariell errichtet oder beglaubigt. Bar-GmbH, Paragraf 7 Abs. 2: mindestens Viertel je Anteil, insgesamt Hälfte des gesetzlichen Mindeststammkapitals; Sacheinlagen prüfen. UG nach Paragraf 5a vollständig einzahlen, keine Sacheinlagen. Einzahlung belegen.
 
-Kapitalerhöhung: GmbHG Paragraf 53 Absatz 2 regelt Mehrheit, Absatz 3 Beurkundung; Übernahme nach Paragraf 55 Absatz 1 notariell aufgenommen/beglaubigt, Anmeldung nach HGB Paragraf 12. Nennbetrag/Aufgeld trennen. Paragrafen 56, 56a und 57 prüfen; 12500-Euro-Gründungsgrenze nicht pauschal übertragen. Satzung, Übernehmer- und Gesellschafterliste trennen; Änderung erst mit Eintragung, Paragraf 54 Abs. 3. Gründungs-/Erhöhungsanmeldung: sämtliche Geschäftsführer, Paragraf 78.
+Kapitalerhöhung: Mehrheit und Beurkundung nach GmbHG Paragraf 53 Abs. 2 und 3, Übernahme nach Paragraf 55 Absatz 1, Anmeldung nach HGB Paragraf 12. Nennbetrag/Aufgeld, Satzung und Listen trennen. Paragrafen 56, 56a und 57 prüfen. Wirkung ab Eintragung, Paragraf 54 Abs. 3. Sämtliche Geschäftsführer melden nach Paragraf 78 an.
 
 Geschäftsführerwechsel: Satzung, GmbHG Paragrafen 39 und 46 Nr. 5 prüfen. Bestellung, Annahme, Amtsbeginn und Anstellung trennen; Bestellung allein regelmäßig formfrei. Beschluss und Anmeldung mit Versicherungen entwerfen. Vertretung/BGB Paragraf 181 individuell prüfen.
 
-Anteile: Nummern, Nennbeträge, Berechtigung und Satzungszustimmungen prüfen. Verkauf und Abtretung nach GmbHG Paragraf 15 Abs. 3 und 4 beurkunden; Pfandform nach BGB Paragraf 1274 mit GmbHG Paragraf 15 Abs. 3. Zahlung vor Erwerb versus Bankauszahlung nach Erwerb/Pfand konkret abstimmen. Pfand macht die Bank nicht zum Gesellschafter. Liste nach Paragraf 40 erst nach wirksamer Änderung; GbR nur mit Gesellschaftsregistereintragung aufnehmen. Prozente rechnen.
+Anteile und Satzungszustimmungen prüfen. Verkauf und Abtretung nach GmbHG Paragraf 15 Abs. 3 und 4 beurkunden. Pfandform: BGB Paragraf 1274, GmbHG Paragraf 15 Abs. 3. Erwerb, Zahlung und Pfand koordinieren. Liste nach Paragraf 40 nach wirksamer Änderung. GbR zuvor registrieren. Prozente rechnen.
 
 Umwandlung: Verschmelzung, Spaltung und identitätswahrenden Formwechsel trennen. Vertrag, Beschlüsse, Berichte/Verzichte, Bilanz und Anmeldung abstimmen. UmwG Paragraf 17: Schlussbilanz höchstens acht Monate vor Anmeldung; veraltete ersetzen. Verschmelzung, Paragraf 19: erst übertragender, dann übernehmender Rechtsträger. Spaltung, Paragrafen 130/131: umgekehrte Folge. Formwechselwirkung: Paragraf 202. Betriebsratszuleitung nach Paragrafen 5 Abs. 3/194 Abs. 2 trotz Gesellschafterverzicht.
 

@@ -14,7 +14,7 @@ Prüfe Rechtsweg nach Paragraf 40 VwGO, Sonderzuweisungen, Gerichtsebene, örtli
 
 Ordne Anfechtungs-, Verpflichtungs-, Feststellungs- oder allgemeine Leistungsklage zu. Prüfe insbesondere die Paragrafen 42 und 43 VwGO, Klagebefugnis, Beteiligten- und Prozessfähigkeit, richtiges beklagtes Rechtssubjekt und Rechtsschutzbedürfnis. Vorverfahren nach Paragraf 68 VwGO und landesrechtliche Ausnahmen werden konkret geprüft. Ermittle Fristbeginn aus Bekanntgabe und Belehrung; fehlt der Nachweis, fordere ihn gezielt an und bereite den davon unabhängigen Teil weiter vor.
 
-Bei Drittbetroffenheit prüfe Beiladung nach Paragraf 65 VwGO frühzeitig. Bei isoliert angegriffenen behördlichen Verfahrenshandlungen Paragraf 44a VwGO einschließlich Ausnahmen prüfen; ein selbständiger Informationsanspruch ist nicht ohne Weiteres mit verfahrensbezogener Akteneinsicht gleichzusetzen.
+Bei Drittbetroffenheit prüfe Beiladung nach Paragraf 65 VwGO frühzeitig. Bei einfacher Beiladung nach Absatz 1 kommt es auf die Berührung rechtlicher Interessen durch den möglichen rechtskraftfähigen Entscheidungssatz an. Mögliche Ausführungen zu einer Vorfrage in den Gründen reichen dafür allein nicht aus. Prüfe die notwendige Beiladung nach Absatz 2 gesondert. [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip), Rn. 4–7. Bei isoliert angegriffenen behördlichen Verfahrenshandlungen Paragraf 44a VwGO einschließlich Ausnahmen prüfen; ein selbständiger Informationsanspruch ist nicht ohne Weiteres mit verfahrensbezogener Akteneinsicht gleichzusetzen.
 
 ## 1.2. Drohenden Vollzug und Eilrechtsschutz bearbeiten
 

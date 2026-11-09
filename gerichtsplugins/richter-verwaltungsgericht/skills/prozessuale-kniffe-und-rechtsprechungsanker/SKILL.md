@@ -21,7 +21,7 @@ Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif
 | unklarer Antrag | Antrag auslegen und Hinweis erteilen | nicht am Rechtsschutzziel vorbeientscheiden |
 | Eilrechtsschutz | Anordnungsanspruch und Anordnungsgrund oder Suspensiveffekt trennen | Folgenabwägung sichtbar machen |
 | schwieriger Sachverhalt | Beweisthema und Amtsermittlung planen | keine pauschale Aktenübernahme |
-| Drittbetroffenheit | Beiladung früh prüfen | keine unvollständige Rechtskraft |
+| Drittbetroffenheit | Bei § 65 Abs. 1 VwGO prüfen, ob der mögliche rechtskraftfähige Entscheidungssatz rechtliche Interessen berührt. Gründe zu Vorfragen reichen dafür allein nicht. | Notwendige Beiladung nach Absatz 2 separat prüfen. [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip), Rn. 4–7 |
 | Ermessen | Ausfall, Fehlgebrauch, Überschreitung und Reduktion trennen | keine eigene Zweckmäßigkeit einsetzen |
 
 ## Arbeitsmodus

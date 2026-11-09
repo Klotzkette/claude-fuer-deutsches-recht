@@ -37,12 +37,10 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Aktuelle Leitentscheidungen (Stand Mai 2026)
+## Leitentscheidungen zum Anzeigeverfahren
 
-- **BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22**: Fehler im Anzeigeverfahren (komplett fehlende oder vor Abschluss des Konsultationsverfahrens verfruehte Massenentlassungsanzeige) fuehren zur Unwirksamkeit aller Kuendigungen; eine Heilung nach Kuendigungsausspruch ist ausgeschlossen.
- - Quelle: dejure.org, Vernetzung BAG 01.04.2026 - 6 AZR 152/22; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren"; Volltext PDF auf bundesarbeitsgericht.de (Wp-Content) verfuegbar.
-- **EuGH, Urteile vom 30.10.2025 - C-134/24 (Tomann) und C-402/24 (Sewel)**: Die Massenentlassungsanzeige nach Art. 4 RL 98/59/EG ist Wirksamkeitsvoraussetzung der Kuendigung; eine fehlende oder verfruehte Anzeige kann nach Kuendigungsausspruch nicht nachgeholt oder geheilt werden. Die 30-Tage-Sperrfrist beginnt erst mit ordnungsgemaesser Anzeige.
- - Quelle: dejure.org, Vernetzung EuGH 30.10.2025 - C-134/24 und C-402/24.
+Eine erforderliche, vor Ausspruch fehlende Anzeige oder eine Anzeige vor Abschluss der erforderlichen Konsultation führt zur Unwirksamkeit der betroffenen Kündigung. Prüfe bei einer vorhandenen Anzeige, ob der konkrete Fehler die Agentur für Arbeit bei ihrer gesetzlichen Aufgabe hindert. Eine geringe Überzählung blieb im entschiedenen Fall unschädlich. [BAG, Urteile vom 01.04.2026, 6 AZR 157/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-157-22/) und [6 AZR 152/22](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-152-22/), [Urteil vom 25.06.2026, 6 AZR 7/26, Rn. 27 bis 36](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
+
 
 ## Schritt 1 — Schwellenwert prüfen
 
@@ -62,16 +60,15 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 ### Begriff Arbeitnehmer
 
-- **Alle Beschäftigten** Voll- Teil- Leiharbeiter eingerechnet
-- **Geschäftsführer** nicht
-- **Leitende Angestellte** auf Mitarbeiter-Ebene ja
+- Regelbeschäftigung in Voll- und Teilzeit in Köpfen erfassen. Bei Leiharbeit den Verleiher und den Entleiher getrennt betrachten und die Auswirkung auf den Schwellenwert in beiden Berechnungsvarianten ausweisen. Die Vorlage zum Entleiher endete ohne Sachentscheidung. [BAG, Mitteilung zu 2 AZR 90/17](https://www.bundesarbeitsgericht.de/presse/mitteilung-zum-verfahren-2-azr-90-17-massenentlassung-beruecksichtigung-von-leiharbeitnehmern-bei-der-zahl-der-in-der-regel-in-einem-betrieb-eines-entleihenden-unternehmens-beschaeftigten-arbe/).
+- Organmitglieder anhand ihrer tatsächlichen Weisungsgebundenheit, Aufsicht, Vergütung und Beteiligung prüfen. Ein vergüteter, weisungsgebundener Fremdgeschäftsführer ohne Beteiligung ist beim Schwellenwert mitzuzählen. [EuGH, Urteil vom 09.07.2015 – C-229/14, Balkaya, Rn. 38–48](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0229).
 
 ### Begriff Entlassung
 
 - **Arbeitgeberseitige Kündigung** zählt
-- **Aufhebungsvertrag** auf Arbeitgeber-Initiative zählt
+- **Aufhebungsvertrag** zählt bei Veranlassung durch den Arbeitgeber
 - **Befristungs-Ablauf** zählt nicht
-- **Eigen-Kündigung** Arbeitnehmer zählt nicht
+- **Eigenkündigung** nach ihrer tatsächlichen Veranlassung einordnen
 
 ## Schritt 2 — Konsultations-Pflicht Betriebsrat Paragraf 17 Abs. 2 KSchG
 
@@ -90,35 +87,29 @@ Schriftlich an Betriebsrat:
 - Zeitraum
 - Auswahl-Kriterien
 - Berechnung von Abfindungen
-- Anschriften der Agentur für Arbeit
 
-### Frist
+### Abschluss der Beratungen
 
-- **Zwei Wochen** Konsultations-Zeit
-- BR kann Stellungnahme abgeben — Pflicht des AG zu Beraten
-
-### Folge der Konsultation
-
-- **Erfolgreich beraten** — Bescheinigung BR oder Pflicht-Hinweis "BR hat sich nicht geäußert"
-- **Nichtbeteiligung BR** — Kündigung unwirksam
+- Arbeitgeber und Betriebsrat beraten über Vermeidung, Begrenzung und Folgenmilderung. Den Abschluss der erforderlichen Konsultation vor Anzeige belegen.
+- Stellungnahme des Betriebsrats beifügen. Fehlt sie, muss der Arbeitgeber die mindestens zwei Wochen vor Anzeige erfolgte Unterrichtung glaubhaft machen und den Beratungsstand darlegen. Die Zweiwochenvorgabe gehört zu diesem Ersatznachweis nach § 17 Abs. 3 Satz 3 KSchG. [§ 17 KSchG](https://www.gesetze-im-internet.de/kschg/__17.html).
 
 ## Schritt 3 — Massenentlassungs-Anzeige Paragraf 17 Abs. 1 KSchG
 
 ### Adressat
 
 - **Agentur für Arbeit** des Betriebs-Sitzes
-- **Schriftform** Original
-- **Vor Zugang Kündigung**
+- Form und Eingangsbeleg der Anzeige prüfen.
+- Wirksame Anzeige vor Ausspruch der Kündigung erstatten.
 
 ### Inhalt (Paragraf 17 Abs. 3 KSchG)
 
-- Name Anschrift Arbeitgeber
+- Name des Arbeitgebers, Sitz und Art des Betriebs
+- Gründe für die geplanten Entlassungen
 - Zahl Berufsgruppen Gesamt-Beschäftigung
 - Zahl Berufsgruppen zu Entlassender
 - Zeitraum
 - Auswahl-Kriterien
-- Abfindungs-Berechnung
-- Stellungnahme oder Information über BR-Konsultation
+- Stellungnahme des Betriebsrats oder Ersatznachweise nach § 17 Abs. 3 Satz 3 KSchG
 
 ### Bestätigung Eingang
 
@@ -128,18 +119,17 @@ Schriftlich an Betriebsrat:
 
 ### Folge bei Mangel der Anzeige
 
-- BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22, sowie EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24: Fehlende oder verfruehte (vor Abschluss der BR-Konsultation eingereichte) Massenentlassungsanzeige fuehrt zur Unwirksamkeit aller davon erfassten Kuendigungen. Eine Heilung nach Kuendigungsausspruch ist ausgeschlossen. Quellen: dejure.org-Vernetzungen; BAG-Pressemitteilung "Massenentlassung - Rechtsfolge von Fehlern im Anzeigeverfahren".
+- Bei fehlender oder verfrühter Anzeige greift die Rechtsfolge der oben genannten Aprilurteile. Bei fehlerhaften Angaben prüfe die konkrete Aufgabenbeeinträchtigung anhand des Juniurteils. Die Monatsfrist betrifft die Beendigungswirkung und ist vom notwendigen Eingang der Anzeige vor Ausspruch der Kündigung zu trennen.
 - Nicht jeder Verfahrensfehler fuehrt zur Unwirksamkeit; insbesondere die bloss unterbliebene Uebermittlung der Abschrift nach Paragraf 17 Abs. 3 Satz 1 KSchG ist nach BAG 6 AZR 155/21 für sich allein kein zur Unwirksamkeit fuehrender Fehler.
 
 ## Schritt 4 — Reihenfolge der Schritte
 
 1. **Plan** Massenentlassung intern
-2. **Beratung mit Betriebsrat** zwei Wochen ab Info-Übergabe
-3. **Sozialplan / Interessensausgleich** Paragraf 111 BetrVG
-4. **Anzeige Agentur für Arbeit** vor Kündigungen
-5. **Eingangsbestätigung abwarten**
-6. **Sperrfrist berücksichtigen** ein Monat
-7. **Kündigungen aussprechen** unter Beachtung KSchG Schutzbestimmungen
+2. **Beratung mit Betriebsrat** bis zum Abschluss der erforderlichen Konsultation
+3. **Sozialplan und Interessenausgleich** bei einer Betriebsänderung gesondert nach §§ 111 bis 113 BetrVG prüfen
+4. **Anzeige bei der Agentur für Arbeit** erstatten und Eingang belegen
+5. **Kündigung** nach Eingang der wirksamen Anzeige und Abschluss der Einzelanhörung nach § 102 BetrVG erklären
+6. **Beendigungswirkung** nach Kündigungsfrist und § 18 KSchG bestimmen
 
 ## Schritt 5 — Sozialplan und Interessensausgleich Paragraf 111 BetrVG
 
@@ -157,13 +147,12 @@ Schriftlich an Betriebsrat:
 
 ### Sozialplan
 
-- **Erzwingbar** durch Einigungsstelle Paragraf 112 Abs. 4 BetrVG
+- **Erzwingbarkeit** nach § 112 Abs. 4 und § 112a BetrVG prüfen
 - Inhalt: Abfindungen Umschulungs-Hilfen Wegfall-Ausgleich
 
 ### Nachteilsausgleich Paragraf 113 BetrVG
 
-- Bei Massenentlassung ohne Interessensausgleich
-- Anspruch des einzelnen Arbeitnehmers
+- Anspruch bei Abweichung vom Interessenausgleich ohne zwingenden Grund oder bei Durchführung der geplanten Betriebsänderung ohne vorherigen Versuch eines Interessenausgleichs prüfen.
 
 ## Schritt 6 — Sozialauswahl Paragraf 1 Abs. 3 KSchG
 
@@ -207,22 +196,20 @@ Schriftlich an Betriebsrat:
 ## Schritt 8 — Kündigungsschutzklage parallel
 
 - **Drei-Wochen-Frist** Paragraf 4 KSchG individuell beachten
-- Bei Mängeln Paragraf 17 KSchG ohnehin Klage erfolgsversprechend
+- Anzeigefehler und Erfolgsaussichten für die konkret betroffene Kündigung prüfen
 - Skill `kuendigungsschutzklage`
 
 ## Schritt 9 — Strategische Aspekte
 
 ### Bei Eilbedürftigkeit
 
-- Konsultationsfrist zwei Wochen Mindest-Dauer
-- Anzeigesperrfrist ein Monat
-- Gesamt-Lauf mindestens sechs Wochen
-- Eilkündigungen praktisch nicht möglich
+- Zeit für die erforderliche Konsultation und gegebenenfalls den Ersatznachweis nach § 17 Abs. 3 Satz 3 KSchG einplanen.
+- Prüfen, ob die Agentur für Arbeit einer Beendigung vor Ablauf eines Monats zustimmt oder die Frist verlängert. § 17 Abs. 4 KSchG für fristlose Entlassungen gesondert prüfen.
 
 ### Bei Massenentlassung in Insolvenz
 
 - Paragraf 125 InsO Sonder-Regelungen
-- Erleichterte Kündigungsfrist
+- Höchstfrist des § 113 Satz 2 InsO gesondert prüfen
 
 ## Schritt 10 — Beweissicherung
 
@@ -260,8 +247,7 @@ Schriftlich an Betriebsrat:
 - MuSchG Paragraf 17
 - BEEG Paragraf 18
 - Richtlinie 98/59/EG (Massenentlassungs-Richtlinie), insbesondere Art. 2 (Konsultation) und Art. 4 (Anzeige; 30-Tage-Sperrfrist)
-- BAG, Urteile vom 01.04.2026 - 6 AZR 152/22 und 6 AZR 157/22 (Unwirksamkeit bei Fehlern im Anzeigeverfahren) - dejure.org / bundesarbeitsgericht.de
-- EuGH, Urteile vom 30.10.2025 - C-134/24 und C-402/24 (keine Heilung fehlender oder verfruehter Anzeige) - dejure.org
+- [EuGH, Urteile vom 30.10.2025, C-134/24](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0134) und [C-402/24](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0402) zur Wirksamkeit der Kündigung, zur Anzeige und zur Sperrfrist. Für die deutschen Rechtsfolgen auch die oben verlinkten BAG-Urteile anwenden.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

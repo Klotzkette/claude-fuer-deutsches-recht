@@ -41,7 +41,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Verschobener Termin -> Informationsnutzen und Dringlichkeit ändern; vollzogene Maßnahme -> wirksames aktuelles Rechtsschutzziel prüfen. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Zeitkritisches Informationsbegehren nach Anspruch und Eilgrund getrennt; Paragraf 44a ergänzt, Pressemaßstab ausdrücklich nicht pauschal auf Akteneinsicht übertragen; alte ungeprüfte Aktenzeichen entfernt.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
@@ -50,14 +50,14 @@
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
       "2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "aee1b1719ffb3cac6a7c43fe02062cfd9937566990ed52e12e1924ee5986491c",
+    "sha256": "16af9325c078b1d892d6f10c6b14e3640f790d91f554e7ff87389346e63be413",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Zweckbezogener Informationszugang, geschützte Teile, aktueller Vollzugsstand, fehlende Ermessensvorgänge und Streitgegenstandswechsel. Desk review, keine Live-Client-Ausführung. Gezielter Quellen- und Fachnachtrag 30.09.2026; bestehende Abläufe erhalten, keine erneute pauschale Vollprüfung behauptet. 2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Angegriffene Regelung oder verlangte Leistung mit rechtzeitigem Schutz und bestimmtem Tenor verbinden.",
       "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
@@ -66,7 +66,7 @@
       "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
       "2026-10-16, redaktioneller Einstiegsreview: Tenor und Aufklärung zuerst; zeitkritischer Informationszugang trennt Anspruch und Dringlichkeit. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
     ],
-    "sha256": "ad4db2960c7d2a3e9c58a54cf6325a9352470dec9d763f7ff7df6b48ca559928",
+    "sha256": "1115dc8918f206b5a2d6a4cf8b86b7f8cfaeb259fc0a9fee5e909760d35265f8",
     "reviewed_on": "2026-10-16",
     "method": "desk_review",
     "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
@@ -151,6 +151,13 @@
         "application": "Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen.",
         "limit": "BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist.",
         "checked_on": "2026-09-30"
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip",
+        "application": "Rn. 4–7: Bei einfacher Beiladung ist für die Berührung rechtlicher Interessen der mögliche rechtskraftfähige Entscheidungssatz maßgeblich.",
+        "limit": "Bloße Vorfragen in den Gründen reichen allein nicht. Die notwendige Beiladung nach § 65 Abs. 2 VwGO gesondert prüfen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
@@ -158,7 +165,8 @@
       "Keine umfassende neue Prüfung des jeweils anwendbaren besonderen Verwaltungsrechts; keine Live-Gerichtsakte.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet. Desk review; kein Live-Client-Test.",
-      "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
+      "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest.",
+      "Nachtrag 10.11.2026 auf die dokumentierten Anker und Arbeitsfolgen begrenzt. Desk Review."
     ],
     "anchor_context_review": {
       "date": "2026-10-01",

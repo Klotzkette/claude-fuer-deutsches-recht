@@ -87,7 +87,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Werkstattrisiko auf nicht erkennbare Nichtausführung erstreckt und den Zahlungsweg bei offener Rechnung von Zahlung an den Geschädigten abgegrenzt. Workflow-Ergänzung einzeln geprüft: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Werkstattrisiko auf nicht erkennbare Nichtausführung erstreckt und den Zahlungsweg bei offener Rechnung von Zahlung an den Geschädigten abgegrenzt. Workflow-Ergänzung einzeln geprüft: Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
       "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
@@ -96,7 +96,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "146a25fd74f5a41891e3ecf4aadec4265578617ac741d18dd51fc8420bb672c2"
+    "sha256": "be8953962cb6c1ac1b3d95d5eef661cb1e061777265dc5db23e10fa1f8a35040"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -169,7 +169,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Unfallregulierung mit operativer Beweis- und Zahlungsprüfung ergänzt; redaktionelle Altverweise in Automatisierung, Totalschaden, Zustellung und Fahrerlaubnis entfernt, alle Verfahrenszweige erhalten. Workflow-Ergänzung einzeln geprüft: Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
+    "reason": "Unfallregulierung mit operativer Beweis- und Zahlungsprüfung ergänzt; redaktionelle Altverweise in Automatisierung, Totalschaden, Zustellung und Fahrerlaubnis entfernt, alle Verfahrenszweige erhalten. Workflow-Ergänzung einzeln geprüft: Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege. Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Nicht erkennbare Nichtausführung von unfallfremden Reparaturen getrennt.",
       "Zahlung an Werkstatt Zug um Zug gegen Werkstattansprüche sowie Alternativen mit objektivem Nachweis erläutert.",
@@ -178,7 +178,7 @@
       "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Unfall, Bescheid und gewünschtes Schreiben führen unmittelbar in den passenden Zweig; offene Werkstattrechnung und Zahlungsrichtung werden früh erklärt. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests."
     ],
-    "sha256": "d7b5a503e9951eb32fad2b9ef003da39ca17109920ba7d01f1c9779db3ea3fc8"
+    "sha256": "2fe872e76c87f248a7700b080c0cf2511323e36ec9320261fc4aa17751a0e8d0"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -221,12 +221,20 @@
         "application": "Späterer Wechsel zur konkreten Abrechnung möglich; Feststellungsinteresse bei Möglichkeit weiterer Reparaturfolgeschäden.",
         "limit": "Materielle Voraussetzungen und Verjährung bleiben; kein beliebiger Mix der Abrechnungen und keine Feststellung bei ausgeschlossenem weiterem Schaden.",
         "checked_on": "2026-10-01"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 16.09.2026, 2 BvR 1426/26",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466722601.zip",
+        "application": "Rn. 2, 4–13: Bei versuchter Punkteübernahme Tatzeit und die seit 01.07.2026 geltenden §§ 4c und 23 Abs. 2 StVG prüfen.",
+        "limit": "Nichtannahme wegen fehlender Substantiierung. Keine Sachentscheidung zur Verfassungsmäßigkeit.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenreview, kein Live-Mandanten- oder Modelltest.",
       "Amtlichen Entscheidungs-Volltext vollständig gelesen; keine vollständige Aktualitätsrecherche aller OWi-, Straf-, Fahrerlaubnis- und Personenschadenszweige.",
-      "Workflow-Review 23.09.2026: Paragraf 67 OWiG erneut eingesehen; bestehender BGH-Volltextnachweis zum Werkstattrisiko erhalten. Keine pauschale Neuverifikation aller Mess- und Fahrerlaubnisfragen."
+      "Workflow-Review 23.09.2026: Paragraf 67 OWiG erneut eingesehen; bestehender BGH-Volltextnachweis zum Werkstattrisiko erhalten. Keine pauschale Neuverifikation aller Mess- und Fahrerlaubnisfragen.",
+      "Nachtrag 10.11.2026 auf die dokumentierten Anker und Arbeitsfolgen begrenzt. Desk Review."
     ]
   },
   "prompt_workflow_review": {

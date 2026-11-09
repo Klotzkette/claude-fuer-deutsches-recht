@@ -120,7 +120,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext aufru
 - BGH VI ZR 253/22, Urt. v. 16.1.2024 — Werkstattrisiko liegt im Regelfall beim Schädiger. Quelle: juris.bundesgerichtshof.de
 - BGH VI ZR 239/22, Urt. v. 16.1.2024 — Werkstattrisiko bei unbezahlter Rechnung und Abtretung. Quelle: juris.bundesgerichtshof.de
 - BGH VI ZR 280/22, Urt. v. 12.3.2024 — Sachverstaendigenrisiko (Übertragung Werkstattrisiko auf Gutachterkosten). Quelle: juris.bundesgerichtshof.de
-- BGH VI ZR 12/24, Urt. v. 5.11.2024 — Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze, konkrete Stundensatzbegründung erforderlich. Quelle: juris.bundesgerichtshof.de
+- BGH VI ZR 12/24, Urt. v. 5.11.2024 — Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze des Bruttolohns, kein Netto-Pauschalsatz, konkrete Stundensatzbegründung erforderlich. Quelle: juris.bundesgerichtshof.de
 - BGH VI ZR 24/25, Urt. v. 14.10.2025 — Substantiierungsanforderungen Schaden; Art. 103 Abs. 1 GG. Quelle: juris.bundesgerichtshof.de
 
 Keine Modellwissen-Zitate. Vor Versand offene Quelle prüfen (juris.bundesgerichtshof.de, dejure.org, openjur.de).

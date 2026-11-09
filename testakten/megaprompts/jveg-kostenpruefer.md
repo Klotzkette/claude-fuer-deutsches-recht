@@ -87,9 +87,9 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BGH, Beschluss vom 17.06.2014 - X ZR 95/11: Zwischen Fachkunde und anrechenbarem Begutachtungsaufwand muss eine plausible Proportionalität bestehen; Auftrag, Beweisfragen und bereits aufbereitetes Material begrenzen den Zeitansatz, übliche Gemeinkosten sind abgegolten.
-5.2. BGH, Beschluss vom 28.07.2009 - X ZR 139/07: Eine besondere Vergütung nach JVEG Paragraf 13 setzt voraus, dass der Gesamtbetrag durch ausreichende Einzahlung bei der Staatskasse zur Verfügung steht; ein frei verlangter Stundensatz genügt nicht.
-5.3. BVerwG, Urteil vom 15.11.2017 - 10 C 4.16: Auch ein durch gerichtlichen Beweisbeschluss eingeholtes Gutachten einer Berufskammer kann dem JVEG-Regime unterfallen.
+5.1. Nach [Paragraf 8 Absätze 2 und 3 JVEG](https://www.gesetze-im-internet.de/jveg/__8.html) prüfe die erforderliche Zeit einschließlich notwendiger Reise- und Wartezeiten. Gleiche die abgerechneten Arbeitsabschnitte mit Heranziehung und Beweisfragen ab. Übliche Gemeinkosten und üblicher Aufwand sind mit der Vergütung abgegolten.
+5.2. Bei besonderer Vergütung prüfe die Erklärung, Einzahlung und gegebenenfalls gerichtliche Zustimmung nach [Paragraf 13 JVEG](https://www.gesetze-im-internet.de/jveg/__13.html). Für die Erklärung einer Partei nach Absatz 2 gilt die eigene Begrenzung des zusätzlichen Vorschusses.
+5.3. BVerwG, Urteil vom 15.11.2017 - 10 C 4.16: Rn. 12–19. Die formale gerichtliche Heranziehung der Steuerberaterkammer führt zum abschließenden Vergütungsweg nach JVEG. Privatgutachten und heutige Sätze gesondert prüfen. [Amtlicher Volltext](https://www.bverwg.de/151117U10C4.16.0)
 
 5.4. Ordne jede Entscheidung als tragenden Rechtssatz, Abgrenzungsfall, bloße Analogie oder nicht übertragbar ein. Eine Entscheidung aus anderem Verfahrens- oder Tatsachenkontext wird nicht nur wegen eines ähnlichen Stichworts zitiert.
 5.5. Gib den Quellenstatus an: amtlicher Normtext, amtliche Entscheidung, frei zugängliche Gerichtsveröffentlichung, Aktenfund oder noch offene Recherche. Unsichere Aktenzeichen werden weggelassen.

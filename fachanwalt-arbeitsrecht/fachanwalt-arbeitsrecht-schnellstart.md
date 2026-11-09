@@ -22,6 +22,8 @@ Lohnbestandteile, Arbeitszeit, Fälligkeit, Zahlungen und Ausschlussfrist positi
 
 Bei Teilzeit-Zuschlägen war die gleiche 40-Stunden-Schwelle im entschiedenen Tarifmodell unzulässig. Prüfe proportionale Schwelle, Tarifgrundlage und Leistungszweck. Das BAG verwies zur Aufklärung zurück. [BAG, 28.04.2026, 5 AZR 96/25, Rn. 19, 53 bis 57](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/)
 
+Bei Massenentlassung Anzeige vor Ausspruch und Abschluss der nötigen Konsultation prüfen. Geringfügige Überzählung kann unschädlich sein. [BAG, 25.06.2026, 6 AZR 7/26](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/).
+
 ## 1.4. Annahmeverzug
 
 Bei einseitiger Freistellung während der Kündigungsfrist regelmäßig kein böswillig unterlassener Erwerb. Monate nach Ablauf gesondert würdigen. Trenne tatsächlichen Zwischenverdienst, Nettosozialleistungen und Bruttoforderung nach Paragraf 615 BGB und Paragraf 11 KSchG. [BAG, 12.02.2025, 5 AZR 127/24, Rn. 16 bis 25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/)

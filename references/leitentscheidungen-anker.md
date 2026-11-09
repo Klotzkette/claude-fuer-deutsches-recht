@@ -49,6 +49,8 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 - Faires Verfahren / Konfrontationsrecht — EGMR (Art. 6 III d EMRK-Linie) — hudoc.echr.coe.int
 - Einziehung Paragrafen 73 ff. StGB; verfassungsrechtliche Grenzen — BVerfG — bundesverfassungsgericht.de
 
+- [BVerfG, Beschluss vom 23.09.2026, 2 BvR 1681/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466882601.zip), Rn. 8–13. Im Eilverfahren Vollzug der Beugehaft ausgesetzt. Auskunftsverweigerung in der Hauptsache anhand konkreter Selbstbelastungsgefahr prüfen.
+
 ## 6. Verkehrsrecht / OWi
 
 - Standardisiertes Messverfahren — BGH 4. Strafsenat (Linie seit 4 StR 24/97 vom 30.10.1997) — bundesgerichtshof.de
@@ -58,6 +60,8 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 - Schmerzensgeld Paragraf 253 II BGB; Bemessungsmaßstäbe — BGH VI. Zivilsenat — bundesgerichtshof.de
 - Halterhaftung Paragraf 7 StVG; Höhere Gewalt — BGH VI. Zivilsenat — bundesgerichtshof.de
 - Direktanspruch Paragraf 115 VVG; KH-Versicherer — BGH IV. Zivilsenat — bundesgerichtshof.de
+
+- [BVerfG, Beschluss vom 16.09.2026, 2 BvR 1426/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466722601.zip), Rn. 2, 4–13. Bei Täuschung über Fahreridentität die Rechtslage ab 1. Juli 2026 prüfen. Nichtannahme wegen fehlender Substantiierung, keine Sachentscheidung zur Norm.
 
 ## 7. Miet- und WEG-Recht
 
@@ -150,6 +154,8 @@ Keine erfundenen Daten oder Az.; das ist die Aufgabe der Live-Recherche.
 - Konkurrentenstreitverfahren / Beamtenrecht — BVerwG; Eilrechtsschutz nach Paragraf 123 VwGO — bverwg.de
 - Versammlungsrecht; „Brokdorf"-Linie — BVerfG 1. Senat (1 BvR 233/81 / 1 BvR 341/81 v. 14.05.1985) — bundesverfassungsgericht.de
 - Umweltrecht; Klagebefugnis UmwRG — BVerwG / EuGH — bverwg.de + curia.europa.eu
+
+- [BVerwG, Beschluss vom 14.10.2026, 7 VR 4.26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-WBRE202600612.zip), Rn. 4–7. Einfache Beiladung knüpft an den möglichen rechtskraftfähigen Entscheidungssatz an. Notwendige Beiladung gesondert prüfen.
 
 ## 17. Wie man diese Datei nutzt
 

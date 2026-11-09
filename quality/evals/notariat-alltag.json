@@ -206,6 +206,12 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__40-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-30",
       "supports": "BGH, Urteil vom 21.01.2026 – IV ZR 40/25, Rn. 9–16, 21, 27–33: Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis. Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Für die ab 1. Januar 2024 beantragte Umschreibung bei der Alt-GbR zuerst Gesellschaftsregister und danach Voreintragung im Grundbuch prüfen. Registerpublizität zur Vertretung von Grundstückserwerb unterscheiden.",
+      "source_sha256": "03c02ef1fdd24d3051fe5d2392c60648ac96b8d38e99876de5c3a592270d2e73"
     }
   ],
   "mini_review": {
@@ -215,9 +221,10 @@
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
-      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Quellenprüfung 10.11.2026: V ZB 17/24 für den Vollzug nach MoPeG angewendet."
     ],
-    "sha256": "cb84fea83066bf73a457ee17ca71be3454329b22c8d634e879d317e1379bc78d"
+    "sha256": "176bcb1e7cc034b1e7d43a05676c6dec1eb631ce1b7943b334beaf38ca68389c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -226,9 +233,10 @@
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
       "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
-      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest."
+      "Redaktion 16.10.2026: Urkundenentwurf und Vollzugsvorlage konkret benannt; vorhandenen Zweiwochenanker nach vorn verlagert, doppelte Hauptnummer entfernt. Keine neue fachliche Vollprüfung und kein Live-Modelltest.",
+      "Quellenprüfung 10.11.2026: V ZB 17/24 für den Vollzug nach MoPeG angewendet."
     ],
-    "sha256": "1ad9e354eb7b4d6d993eac7567f57b4755578675ccf5719086f2ebcf4613ff73"
+    "sha256": "c5f774eab517cf243a196923f0125105c14108f7d95f8fa6fa48cf4a0681bb46"
   },
   "selection": {
     "positive": [
@@ -1148,6 +1156,13 @@
         "checked_on": "2026-09-30",
         "application": "Testamentsformstatut nach vorrangigem Haager Übereinkommen entscheidet auch über Folgen territorial überschrittener Amtsbefugnis.",
         "limit": "Niederländisches Testament im konkreten Fall; keine allgemeine Erlaubnis ausländischer Notare zu Amtstätigkeit in Deutschland."
+      },
+      {
+        "citation": "BGH, Beschluss vom 03.07.2025 – V ZB 17/24, Rn. 6–11, 17–25 und 30",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Für die ab 1. Januar 2024 beantragte Umschreibung bei der Alt-GbR zuerst Gesellschaftsregister und danach Voreintragung im Grundbuch prüfen. Registerpublizität zur Vertretung von Grundstückserwerb unterscheiden.",
+        "limit": "Der Beschluss betrifft die rechtsgeschäftliche Übertragung des einzigen Grundstücks an die Gesellschafter. Trotz Bewilligung und Auflassung 2023 ging der Antrag erst im Februar 2024 ein. Die Prüfung der Gesamtrechtsnachfolge und des gutgläubigen Erwerbs richtet sich nach dem konkreten Fall. Die Voreintragungspflicht setzt einen Vollzugsanlass voraus."
       }
     ],
     "remaining_limits": [
@@ -1234,10 +1249,10 @@
     },
     {
       "path": "notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md",
-      "sha256": "312a488bd18068ee51a1027daeb99107f2e266ca068afc7028917eb06744a924",
+      "sha256": "6d2da6526ee84d70d3e29ca8f18c26c2f838d818f321d42248bb76dfd34da083",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-11-10"
     },
     {
       "path": "notariat-alltag/skills/grundschuld-buchgrundschuld-treuhand/SKILL.md",
@@ -1269,10 +1284,10 @@
     },
     {
       "path": "notariat-alltag/skills/nachlassauseinandersetzung-grundbuch/SKILL.md",
-      "sha256": "96b623343d0e0ba56b265ee507293ef7d300d3e7cb2eec725a591628265ee944",
-      "verdict": "retained",
+      "sha256": "33fb351c980c384f6656ac926a808711f24b0b96107ad062f728a9c4909d8822",
+      "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-11-10"
     },
     {
       "path": "notariat-alltag/skills/umwandlung-verschmelzung-kapitalerhoehung/SKILL.md",

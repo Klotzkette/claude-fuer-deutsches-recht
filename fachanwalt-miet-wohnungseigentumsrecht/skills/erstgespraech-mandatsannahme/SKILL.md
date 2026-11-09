@@ -176,7 +176,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 | Raeumungsfrist | § 721 ZPO | Bis 1 Jahr nach Urteil |
 | Nebenkostenabrechnung | § 556 Abs. 3 BGB | 12 Monate nach Abrechnungszeitraum |
 | Belegeinsicht Fristen-Antwort | § 556 Abs. 3 BGB | Innerhalb Abrechnungsfrist |
-| Mietpreisbremse Ruege | § 556g Abs. 2 BGB | Schriftlich vor Klage |
+| Rüge bei Mietpreisbremse | Paragraf 556g Abs. 2 und 4 BGB | Textform, Zugang und Folgen der 30-Monats-Grenze nach der anwendbaren Fassung prüfen |
 
 ## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze (Stand 05/2026)
 

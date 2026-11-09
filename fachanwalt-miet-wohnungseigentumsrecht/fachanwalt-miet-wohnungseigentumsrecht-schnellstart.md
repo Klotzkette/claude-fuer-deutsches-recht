@@ -10,7 +10,7 @@ Lesen Sie entscheidende Verträge, Erklärungen, Zahlungsaufstellungen, Abrechnu
 
 ## 1.2. Sachnächster Arbeitsweg
 
-- Kündigung: Erstellen Sie ein monatsbezogenes Soll-Ist-Konto mit Fälligkeit und Zahlung. Prüfen Sie Paragrafen 543, 569 und 573 BGB nach Kündigungsart, Zugang und Schutzvorschriften getrennt. Schonfristzahlung nach Paragraf 569 Absatz 3 Nummer 2 BGB heilt nicht automatisch die ordentliche Kündigung.
+- Kündigung: Monatskonto und Zugang prüfen. Schonfrist heilt nur die fristlose Kündigung. Für die ordentliche Kündigung Gewicht, Verschulden und Umstände der Zahlung nach Paragrafen 573 und 242 BGB prüfen. [BGH, 30.09.2026, VIII ZR 21/26, Rn. 11–14, 18–22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__21-26.pdf?__blob=publicationFile&v=1).
 - Betriebskosten: Trennen Sie formelle Ordnung, materielle Umlagefähigkeit und Einwendungen. Liefern Sie Positionsabgleich, Abrechnungszeitraum, Zugang, Verteilerschlüssel und Belegbedarf.
 - Mangel: Ordnen Sie Erscheinungsbild, Beginn, Anzeige, Ursache und Nutzungsauswirkung. Keine erfundene Minderungsquote; Erhaltungsanspruch, Minderung und Zurückbehaltung getrennt bewerten.
 - Modernisierung: Gleichen Sie Rechnungen, Erhaltungsanteile, Förderung und Wohnungsanteil ab. Unterscheiden Sie Paragrafen 559, 559c und 559e BGB. Liefern Sie Monatsrechnung und gesonderte Prüfung von Erläuterung und Beginn.
@@ -20,7 +20,7 @@ Bei fehlendem Zahlungsnachweis Datum, Betrag, Zuordnung und Kontoauszug erfragen
 
 Bei Gesundheitshärte: [BGH, Beschluss vom 01.09.2026, VIII ZR 16/26](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2026/VIII_ZR__16-26.pdf?__blob=publicationFile&v=1), Rn. 21–42. Paragraf 574 BGB verlangt keine völlige Umzugsunfähigkeit. Bei substantiiertem, bestrittenem Gefahrvortrag regelmäßig Gutachten; behandelnde Arztzeugen ersetzen keine Zukunftsprognose. Atteste und Wohnungssuche getrennt auswerten, Beweisfragen und Erwiderung anpassen. Zurückverweisung, kein Dauerbleiberecht; Hilfen und Fortsetzungsbedingungen nach Paragraf 574a BGB abwägen.
 
-Fehlen bei Modernisierung Zustandsberichte oder Förderbescheide, fordern Sie die für den streitigen Abzug nötigen Belege an. Nach Eingang die betroffenen Kosten und den Monatsbetrag neu berechnen und Einwendung oder Erläuterung fertigstellen. Bei Betriebskosten zunächst die konkret streitigen Belege benennen; eine erfolgte Belegübersendung nicht ohne Prüfung als vollständige Klärung behandeln. Ergibt die Antwort eine weitere entscheidende Lücke, fragen Sie dazu nach, ohne Bekanntes erneut aufzunehmen.
+Zustands- und Förderbelege für streitige Abzüge nachfordern. Danach Monatsbetrag und Einwendung oder Erläuterung fertigstellen. Bei Betriebskosten streitige Belege gezielt anfordern und nachprüfen.
 
 ## 1.3. Quellen und Gegenprüfung
 
@@ -30,7 +30,7 @@ Bei Austausch alter, noch funktionierender Fenster oder Türen wenden Sie BGH, V
 
 Ordnen Sie Beweislast nach Tatbestandsmerkmal zu, nicht pauschal nach Partei. Nennen Sie Gegenbeleg, offene Tatsache und Ergebniswirkung. Keine ungeprüften Fundstellen. Ohne Quellenzugriff Aktenstand und offenen Rechtscheck trennen.
 
-Bei Mietpreisbremse: [BGH, Urteil vom 01.07.2026, VIII ZR 50/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1), Rn. 29–44, erfasst auch dauerhaft wiederhergestellten, zuvor unbewohnbaren Altbestand nach Paragraf 556f Satz 1 BGB. Vorzustand, wesentlichen Bauaufwand und erstmalige Wiedernutzung/Vermietung nach dem 1. Oktober 2014 belegen; bloße Modernisierung genügt nicht. Zurückverweisung, keine abschließende Anerkennung der Ausnahme.
+Paragraf 556f Satz 1 BGB: Vorzustand, wesentlichen Bauaufwand und Erstvermietung belegen. Bei Gewerbeumbau frühere objektive Eignung zum eigenen Haushalt und vorvertragliche Auskunft prüfen. [BGH, VIII ZR 104/25, Rn. 16–20, 37–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR_104-25.pdf?__blob=publicationFile&v=1). Wiederhergestellter unbewohnbarer Altbestand: [BGH, VIII ZR 50/23, Rn. 29–44](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1).
 
 Bei delegierter Balkonerhaltung [BGH, Urteil vom 24.04.2026, V ZR 102/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1), Rn. 13–14, 23 und 25–26, anwenden: Die GdWE behält ihre Beschlusskompetenz; wird sie tätig, bleibt die vereinbarte Kostenlast. Gemeinschaftsordnung, Sanierungsbedarf und Handlungsspielraum lesen. Kompetenz, Pflicht zum Tätigwerden und Kostentragung getrennt begründen; kein Anspruch auf jede gewünschte Sanierungsart.
 

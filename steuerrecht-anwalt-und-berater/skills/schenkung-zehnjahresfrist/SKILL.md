@@ -7,7 +7,7 @@ description: "Für Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strate
 
 ## Fachlicher Anker
 
-- **Normen:** § 14, § 6a, § 15.
+- **Normen:** §§ 7, 14 bis 16 und 30 ErbStG, § 430 BGB.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -15,7 +15,7 @@ description: "Für Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strate
 
 1. Welcher Steuerklasse gehoert der Beschenkte an § 15 ErbStG?
 2. Welcher Freibetrag steht zur Verfuegung § 16 ErbStG?
-3. Wann erfolgte die letzte Schenkung — beginnt eine neue Zehnjahresperiode?
+3. Wann wurde der jeweilige Erwerb ausgeführt und welche früheren Erwerbe derselben Person liegen in den zehn Jahren davor?
 4. Soll Kettenschenkung über Ehegatten erfolgen — Missbrauchsverbot § 42 AO im Blick?
 5. Wird Steuer unmittelbar oder mittelbar uebernommen?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
@@ -29,9 +29,11 @@ description: "Für Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strate
 - **§ 7 ErbStG** — Schenkungstatbestand.
 - **§ 42 AO** — Missbrauch.
 
-## Aktuelle Rechtsprechung
+## Ehegattenkonto und Feststellungslast
 
-- Keine Pauschalzitate aus BeckRS allein; jede Entscheidung muss auf eine primaere oder offene Sekundaerquelle ruckfuehrbar sein.
+Nach [BFH, Urteil vom 23.11.2011 – II R 33/10, Rn. 18–24 und 27–30](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201210089/) ist beim Oder-Konto die tatsächliche und rechtliche Verfügungsfreiheit im Innenverhältnis zu prüfen. Erfasse Abreden, Kontonutzung, Vermögensbildung und etwaige Rückforderungsrechte. Die Einzahlung eines Ehegatten allein belegt keine hälftige Zuwendung. Das Finanzamt trägt grundsätzlich die Feststellungslast für die steuerbegründenden Tatsachen. Deuten hinreichend klare objektive Umstände auf hälftige Berechtigung, muss der herangezogene Ehegatte eine abweichende Alleinberechtigung darlegen und bei Unaufklärbarkeit die Feststellungslast tragen.
+
+Der [BFH, Urteil vom 29.06.2016 – II R 41/14, Rn. 12–14 und 21–23](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201610180/) behandelt demgegenüber die unentgeltliche Übertragung vom Einzelkonto auf das Einzelkonto des anderen Ehegatten. Eine behauptete frühere Mitberechtigung ist dort von der herangezogenen Person nachzuweisen. Berechne § 14 ErbStG erst für festgestellte Erwerbe. Prüfe Anzeigepflichten nach § 30 ErbStG und einen etwaigen Vorsatz nach § 370 AO getrennt vom schenkungsteuerlichen Tatbestand.
 
 ## Zentrale Normen
 

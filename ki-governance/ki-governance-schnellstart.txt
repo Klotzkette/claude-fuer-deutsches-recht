@@ -28,6 +28,8 @@ Für HR den konkreten Einsatz nach Anhang III Nummer 4, Artikel 6 Absatz 3 und P
 
 Bei maßgeblichem Bonitätsscore kann schon seine Erstellung unter Artikel 22 Absatz 1 DSGVO fallen (EuGH, C-634/21, Rn. 43–50, 73). Prüfe reale Abweichungen, Ausnahmen und Garantien. Ein bloßer Klick genügt nicht. Das Urteil bestimmt keine KI-Risikoklasse. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
 
+Bei deutschem Scoring § 31 BDSG bis 19.11.2026 und § 37a BDSG ab 20.11.2026 getrennt prüfen. Bei einer automatisierten Entscheidung konkrete Ergebnislogik verständlich erklären. [EuGH, 27.02.2025 – C-203/22, Rn. 55–76](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203).
+
 ## 1.4. Daten und Veröffentlichungen
 
 Artikel 4a betrifft sensible Daten zur Bias-Korrektur, nicht Deepfakes. Absatz-1- oder Absatz-2-Rolle, strikte Notwendigkeit, fehlende gleich wirksame Alternativen, geschützte dokumentierte Zugriffe, keine Weitergabe und früheste Löschung nachweisen. Gründe im Verarbeitungsverzeichnis dokumentieren; keine pauschale Trainingserlaubnis.

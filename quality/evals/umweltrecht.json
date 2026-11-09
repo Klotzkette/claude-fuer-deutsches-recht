@@ -95,13 +95,13 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest.",
+    "reason": "Gesamte geänderte Werkstatt erneut gelesen: alternative Versorgung, Anlagenänderung mit Vollständigkeits-/Fristauslösern, belastende Lärmbefunde und einzelne Grundwassermessstellen führen zu geänderter Betriebsentscheidung oder Einwendung. Frühere Fachabgrenzungen und Quellengrenzen erhalten; kein Live-Client-Test. Redaktioneller Nachtrag 16.10.2026: Grundwasserprüfung vorgezogen: Prüfung vor Zulassung, relevante einzelne Messstellen und getrennte Tatsachenermittlung; kein allgemeines Entnahmeverbot. Hauptteil zu anderen Umweltmedien unverändert. Vorhandene Quellenbefunde übernommen; kein neuer Volltextabruf und kein Live-Modelltest. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
       "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
     ],
-    "sha256": "c80f9f22c1de6f269df576d6b1102a929fd213e0d62171a25deda3ea415cdd76"
+    "sha256": "1b69d0093d0bdf99afaf5bbb3cc2616ee2060f6b693bf8bc7220f50269653c52"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -138,12 +138,27 @@
         "application": "Mögliche Gewässerwirkungen vor Zulassung untersuchen; chemische Grundwasserverschlechterung anhand einzelner Messstellen statt allein aggregierter Werte beurteilen.",
         "limit": "Keine Entscheidung, dass jede Entnahme verboten ist; mengenmäßiger Zustand und gesetzliche Ausnahmevoraussetzungen bleiben eigenständig.",
         "checked_on": "2026-09-23"
+      },
+      {
+        "citation": "BGH, Urteil vom 27.06.2024, I ZR 98/23",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-6&Gericht=bgh&anz=311&nr=138206&pos=13",
+        "application": "Rn. 20–29: Bei der mehrdeutigen Werbung mit „klimaneutral“ die Aufklärung in der Werbung selbst prüfen. Seit 27.09.2026 zusätzlich § 3 Abs. 3 UWG mit Anhang Nr. 4a–4c prüfen.",
+        "limit": "UWG-Fall zu einer konkreten Produktwerbung. Die späteren Verbotstatbestände und § 15b UWG anhand ihrer eigenständigen Voraussetzungen anwenden.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 18.01.2022, 1 BvR 1565/21 u. a.",
+        "url": "https://www.bverfg.de/e/rk20220118_1bvr156521",
+        "application": "Rn. 9–16: fehlende hinreichende Substantiierung zum Klimaschutz der Länder und zur intertemporalen Freiheitssicherung.",
+        "limit": "Nichtannahmebeschluss zu Landesrecht. Voraussetzungen des UmwRG und gerichtlicher Rechtsbehelf gesondert prüfen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
       "EuGH-Identität und Entscheidungsbeginn direkt amtlich gelesen; maßgebliche Randnummern 75–84 sowie 109–119 aus indexierten amtlichen EUR-Lex-Volltextpassagen und amtlichem Entscheidungstenor verifiziert. Wiederholter Direktabruf des gesamten Textes durch Zugriffsschutz blockiert; keine vollständige Gesamtlektüre behauptet.",
       "Paragraf 13 BImSchG und Paragrafen 8, 12, 47 WHG aktuell vollständig geprüft. Übrige Spezialgebiete, Landesrecht, TEHG und dynamische ESG-/Lieferkettenregeln nicht umfassend neu verifiziert.",
-      "Desk-/Quellenreview, kein Live-Mandanten- oder Modelltest."
+      "Desk-/Quellenreview, kein Live-Mandanten- oder Modelltest.",
+      "Nachtrag 10.11.2026 auf die dokumentierten Anker und Arbeitsfolgen begrenzt. Desk Review."
     ],
     "anchor_context_review": {
       "date": "2026-10-01",

@@ -39,7 +39,7 @@ Sie brauchen ihn nach dem Format-Check, vor der Annahme. Klaeren Sie:
 
 | Quellenart | NJW-Stil | JZ-Stil | JuS-Stil |
 |------------|----------|---------|----------|
-| BGH-Urteil | BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17 | BGH JZ 2026, 567 (568) | BGH NJW 2026, 1234 |
+| BGH-Urteil | BGH, Urteil vom 27.06.2024 – I ZR 98/23, Rn. 29 | BGH [Zeitschrift, Jahr, Seite und Pinpoint prüfen] | BGH [Zeitschriftenfundstelle prüfen] |
 | Kommentar | Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12 | Bearbeiter MueKo BGB § 433 Rn. 12 | Bearbeiter, MueKo BGB § 433 Rn. 12 |
 | Aufsatz | Canaris, JZ 2019, 547 (549) | Canaris JZ 2019, 547, 549 | Canaris JZ 2019, 547 |
 
@@ -59,7 +59,7 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 
 | Fn. | Quelle | Befund | Korrekturvorschlag |
 |-----|--------|--------|--------------------|
-| 12 | BGH-Urteil | "BGH NJW 2026, 1234" (ohne Az. ohne Rn.) | "BGH, Urt. v. 12.05.2026 - I ZR 12/24, NJW 2026, 1234 Rn. 17" |
+| 12 | BGH-Urteil | "BGH [Zeitschriftenfundstelle prüfen]" (ohne Az. ohne Rn.) | "BGH, Urteil vom 27.06.2024 – I ZR 98/23, Rn. 29" |
 | 19 | Aufsatz | "Canaris JZ 2019" (ohne Seite) | "Canaris, JZ 2019, 547 (549)" - Seite pruefen |
 | 27 | Internet | "https://..." (ohne Datum) | URL + "zuletzt abgerufen am [Datum]" ergaenzen |
 | 34 | Kommentar | "MueKo § 433 Rn. 12" (ohne Bearbeiter) | "Bearbeiter, in: MueKo BGB, 9. Aufl. 2024, § 433 Rn. 12" |

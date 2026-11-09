@@ -130,6 +130,12 @@
       "checked_on": "2026-10-16",
       "supports": "Bei abgetretener Ablaufleistung einer Kapitallebensversicherung entscheidet der tatsächliche Rechtsgrund, nicht die Überschrift einer Versorgungsausgleichsvereinbarung. Eine Zugewinnausgleichsforderung ist kein sonstiges Einkommen im Sinne von Paragraf 850i ZPO; bloße Eheführung begründet kein selbst erwirtschaftetes Einkommen. Paragraf 852 Absatz 2 ZPO bleibt gesondert zu prüfen. Paragraf 2 VersAusglG erfordert insbesondere die Trennung von Rentenanrechten, kapitalförmigen Ansprüchen sowie den Sonderfällen betrieblicher und zertifizierter Anrechte; kein doppelter Ausgleich. Grenze: Zurückverweisung zur Klärung des Abtretungsgrundes, keine abschließende Einordnung der konkreten Versicherungsleistung. Schutz echter Versorgungsanrechte oder einer Gegenleistung für deren Ausschluss nach Paragraf 850i ZPO ausdrücklich offengelassen. Ob Paragraf 852 Absatz 2 ZPO als abschließende Sonderregel Paragraf 850i verdrängt, blieb ebenfalls offen. Keine generelle Pfändbarkeit oder Unpfändbarkeit aller Lebensversicherungen oder Scheidungszahlungen.",
       "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_568-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Bei hinreichender Schätzbasis kann tatsächliche Teilerfüllung den Unterhaltsbetrag unter den Mindestunterhalt senken. Reinen Mehraufwand, Bedarfsdeckung und Kindergeld getrennt rechnen.",
+      "source_sha256": "8d9f6868a7aa49df6d7ecbcf946e59bd95a8f87abbbad73e01b7e1718d3f754e"
     }
   ],
   "mini_review": {
@@ -142,9 +148,10 @@
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
       "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+      "Quellenprüfung 10.11.2026: XII ZB 568/25 konkretisiert Teilerfüllung und Mindestunterhalt bei erweitertem Umgang."
     ],
-    "sha256": "58d8b48f7b0c2cab6bec6cffea121b7872070ac814d1bdf7b8b97226b97c26ef",
+    "sha256": "2734f696668f99aeb73becdbc9628d19f66e16e0fd255c7367974f7f9ddabade",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -288,9 +295,10 @@
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
       "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
       "Einstiegsredaktion 16.10.2026, Batch 2: Beauftragter Familienrechtsentwurf steht zuerst; der bestehende Zugewinnabsatz wurde im Mini unverändert vorgezogen, Sicherheitsprioritäten bleiben erhalten. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
-      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25"
+      "Quellenvertiefung 16.10.2026: Bundesgerichtshof, Beschluss vom 11.06.2026, IX ZB 1/25",
+      "Quellenprüfung 10.11.2026: XII ZB 568/25 konkretisiert Teilerfüllung und Mindestunterhalt bei erweitertem Umgang."
     ],
-    "sha256": "3f5b278ae7e62cb62d70dbc5920a7f5721bd6f1ee2739554c6f53868643a5217",
+    "sha256": "fc6f12914b494e92314cbdf13c15647fa8754b8a0e44a608fa79c2b9ab7c09da",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -302,7 +310,9 @@
       "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
       "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
       "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/SKILL.md",
-      "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md"
+      "fachanwalt-familienrecht/skills/lebensversicherung-abgrenzung-zugewinn-va/SKILL.md",
+      "fachanwalt-familienrecht/skills/kindesunterhalt-mindestsatz-paragraf-1612a-bgb/SKILL.md",
+      "fachanwalt-familienrecht/skills/unterhalt-berechnen-und-gegenrechnen/references/kindesunterhalt-und-betreuung.md"
     ],
     "opening_change": "Unterhaltsmonate, Zugewinnstichtage und konkrete Sorge-/Umgangsregelung bestimmen statt allgemeiner Familienunterlagenbearbeitung. Workflow-Ergänzung: Leer: Unterhalt, Zugewinn oder Sorge und Umgang anbieten. Dateien ohne Aufgabe: Vermögensbelege, Betreuungsplan und Schriftverkehr still lesen; gewünschten Zahlungs-, Auskunfts- oder Regelungstext klären. Klarer Auftrag: konkrete Berechnung oder Vereinbarung unmittelbar ausarbeiten; bekannte Familien- und Stichtagsangaben nicht wiederholen.",
     "norms": [
@@ -355,6 +365,13 @@
         "verification_status": "checked_on: 2026-10-16; method: Webrecherche; nach gesperrter Webdarstellung amtliches BGH-PDF unmittelbar über HTTPS abgerufen und Text gelesen.; read_scope: Amtlicher Beschluss vollständig mit Kopf, Tenor und Rn. 1 bis 23; verwendete Aussagen insbesondere Rn. 17 bis 23.; status: Amtlicher Beschluss gelesen; tragende Aussagen und ausdrücklich offene Fragen getrennt.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/miete-familie.json",
         "workflow_effect": "Versicherungsschein, Leistungsform, Abtretung, Gegenleistung und Anerkennungs-/Verfahrensstand beiziehen. Zugewinnforderung, echtes Versorgungsanrecht und Gegenleistung für einen Versorgungsausgleichsverzicht unterscheiden. Bei Insolvenz Paragrafen 35 und 36 InsO prüfen. Erst danach Zuordnung, Berechnung, Schutzempfehlung und verfügbare Vergleichsliquidität bzw. Zahlungsplan berichtigen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 23.09.2026 – XII ZB 568/25, Rn. 17–22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_568-25.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Bei hinreichender Schätzbasis kann tatsächliche Teilerfüllung den Unterhaltsbetrag unter den Mindestunterhalt senken. Reinen Mehraufwand, Bedarfsdeckung und Kindergeld getrennt rechnen.",
+        "limit": "Schätzung im Einzelfall bei erweitertem Umgang. Einkommen war im Ausgangsfall offen, weshalb der BGH zurückverwies. Keine Übertragung als Pauschalsatz auf andere Betreuungsmodelle."
       }
     ],
     "remaining_limits": [

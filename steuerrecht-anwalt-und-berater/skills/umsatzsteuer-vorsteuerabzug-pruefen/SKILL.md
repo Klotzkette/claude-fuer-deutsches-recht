@@ -7,7 +7,7 @@ description: "Für Umsatzsteuer-Vorsteuerabzug prüfen: ordnet Norm, Beweislast 
 
 ## Fachlicher Anker
 
-- **Normen:** § 6a, § 15 UStG, § 15 Abs. 1 UStG.
+- **Normen:** §§ 14, 14a und 15 UStG. Für den innergemeinschaftlichen Erwerb gilt § 15 Abs. 1 Satz 1 Nr. 3 UStG.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
@@ -61,6 +61,12 @@ Pflichtangaben § 14 Abs. 4 UStG:
  - **BMF-Schreiben vom 15.10.2025**, GZ III C 2 - S 7287-a/00019/007/243 (Zweites Anwendungsschreiben mit Anpassung des UStAE; unterscheidet Format- und Inhaltsfehler-Klassen; Validierungsempfehlung des Senders, Prüfpflichten des Empfaengers).
 - **Ausnahmen**: Kleinbetragsrechnungen ≤ 250 EUR § 33 UStDV; Fahrausweise § 34 UStDV; Umsätze an Endverbraucher (B2C) bleiben außerhalb.
 
+### 5. Rechnungszeitpunkt und Vorauszahlung
+
+Wenn Leistungszeitraum, Rechnungseingang und Erklärungsabgabe auseinanderfallen, dokumentieren Sie alle drei Daten. Das [EuG-Urteil vom 11.02.2026, T-689/24](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024TJ0689), behandelt eine nach Ablauf des Leistungszeitraums und vor Abgabe der Erklärung empfangene Rechnung. Der EuGH überprüft dieses Urteil in [C-167/26 RX](https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62026CC0167). Die Schlussanträge vom 10.09.2026 sind ein Entscheidungsvorschlag. Prüfen Sie vor Abgabe den aktuellen Verfahrensstand und stellen Sie eine streitige frühere Zuordnung getrennt dar. Der [BFH-Beschluss vom 26.02.2026, V B 11/25, Rn. 2](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650044/), eröffnet mit [V R 7/26](https://www.bundesfinanzhof.de/de/anhaengige-verfahren/aktuelle-verfahren/detail/STAH260500007/) ein eigenes Revisionsverfahren zur späteren Berichtigung eines ursprünglich nicht berichtigungsfähigen Dokuments. Leiten Sie daraus keinen bestätigten Rückwirkungsanspruch ab.
+
+Bei einer Anzahlung müssen Zahlung und Rechnung vorliegen. Prüfen Sie Bestimmtheit und Erwartbarkeit der künftigen Leistung im Zahlungszeitpunkt. Das Wort „Vorkasse“ ist entbehrlich, wenn der Vorauszahlungscharakter sonst klar erkennbar ist. Der Fall entscheidet keinen Vorsteuerabzug aus einer unbezahlten Rechnung. [BFH, Urteil vom 04.12.2025 – V R 38/23, Rn. 20–25 und 31–37](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610076/)
+
 ## Schritt 2 — Ausschluss § 15 Abs. 2 UStG
 
 ### Steuerfreie Umsätze mit Vorsteuerabzugs-Ausschluss
@@ -70,7 +76,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 - **§ 4 Nr. 10 UStG** Versicherungs-Umsätze
 - **§ 4 Nr. 12 UStG** Wohnungs-Vermietung
 - **§ 4 Nr. 14 UStG** ärztliche Heilbehandlungen
-- **§ 4 Nr. 19 UStG** Schulen und Hochschulen
+- **§ 4 Nr. 21 UStG** Unterrichts- und Bildungsleistungen unter den dortigen Voraussetzungen
 
 ### Ausnahmen § 15 Abs. 3 UStG (trotz Steuerfreiheit Abzug)
 
@@ -99,8 +105,7 @@ Pflichtangaben § 14 Abs. 4 UStG:
 
 ### Geschenke
 
-- **Über EUR 35** keine Vorsteuer-Abzugs-Berechtigung
-- **Streuwerbe-Artikel** unter EUR 10 ohne Limit
+- Bei Geschenken an Nichtarbeitnehmer die Freigrenze nach § 4 Abs. 5 Satz 1 Nr. 1 EStG je Empfänger und Wirtschaftsjahr und den Vorsteuerausschluss nach § 15 Abs. 1a UStG prüfen. Für nach dem 31.12.2023 beginnende Wirtschaftsjahre beträgt die Freigrenze 50 Euro. [§ 4 EStG](https://www.gesetze-im-internet.de/estg/__4.html) · [§ 52 Abs. 6 EStG](https://www.gesetze-im-internet.de/estg/__52.html)
 
 ### Reisekosten
 

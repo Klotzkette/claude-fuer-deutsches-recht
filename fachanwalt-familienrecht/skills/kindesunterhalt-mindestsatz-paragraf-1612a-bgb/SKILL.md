@@ -23,6 +23,8 @@ Für ein minderjähriges Kind ist der Zahlbetrag zu ermitteln oder zu titulieren
 - BGH, Beschluss vom 20. September 2023 - XII ZB 177/22: Tabellenbedarf, konkret geltend gemachter Mehrbedarf und konkrete Wohnkosten sind getrennt zu prüfen und dürfen nicht ohne Weiteres ineinander aufgehen.
 - BGH, Beschluss vom 15. April 2026 - XII ZB 415/25: Erweiterter Umgang führt nicht automatisch zu anteiliger Barunterhaltspflicht des hauptbetreuenden Elternteils. Umgangsbedingte Entlastungen und Mehrkosten sind nach den im Beschluss beschriebenen Grenzen gesondert zu prüfen; Vertretung nach Paragraf 1629 BGB bleibt eine eigene Vorfrage.
 
+- Erweiterter Umgang kann den Zahlbetrag im Einzelfall bis auf 90 Prozent, ausnahmsweise bis auf 85 Prozent des Mindestunterhalts jeweils abzüglich des hälftigen gesetzlichen Kindergeldes senken. Das setzt die konkrete Prüfung der Tabellenstufe und tatsächlich bedarfsdeckender Aufwendungen voraus. Bloße Umgangsmehrkosten, etwa für Fahrten, tragen die Tabellenherabstufung. Einen weiteren Abzug für tatsächliche Bedarfsdeckung nachvollziehbar schätzen und Mehrkosten dabei nur einmal berücksichtigen. Der BGH hat wegen offener Einkommensfeststellungen zurückverwiesen. [BGH, Beschluss vom 23.09.2026 – XII ZB 568/25, Rn. 17–22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_568-25.pdf?__blob=publicationFile&v=1)
+
 ## Prüfprogramm
 
 1. Anspruchsmonat, Alter, Haushaltszugehörigkeit, Kindergeldbezug, Betreuungsmodell und vorhandenen Titel festhalten.

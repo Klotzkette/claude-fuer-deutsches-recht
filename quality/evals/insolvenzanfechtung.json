@@ -268,10 +268,11 @@
       "Drittzahlung und eigene Verpflichtung rekonstruiert.",
       "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
       "Bei direkter Rückzahlung keine zusätzliche Krisen- oder Kenntnisprüfung.",
-      "Bei Abtretung Wirksamkeit, Kaufpreis, Zurechnung und Jahresgrenze getrennt."
+      "Bei Abtretung Wirksamkeit, Kaufpreis, Zurechnung und Jahresgrenze getrennt.",
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "309b9ff4ad64f0893312f4467dd3c4f6ee0a77c8407134c52bf3aae0b00de8be"
+    "sha256": "00a8b811bcb4a4737436bfa49aae4ba43cb463137be726648057f1f44a07e0bf"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -282,10 +283,11 @@
       "Gesellschafterdarlehen, Bürgschaft und Minderheitsprivileg gesondert.",
       "Direkte Rückzahlung innerhalb der Jahresfrist ohne zusätzliche Krisen- oder Kenntnisprüfung eingeordnet.",
       "Abtretung innerhalb und außerhalb der Jahresfrist nach IX ZR 32/12 getrennt.",
-      "Wirtschaftliche Zurechnung nach IX ZR 173/23 an konkrete besondere Umstände gebunden."
+      "Wirtschaftliche Zurechnung nach IX ZR 173/23 an konkrete besondere Umstände gebunden.",
+      "2026-11-10: Nationale Anwendung von C-43/25 auf die Gesellschafterfinanzierung anhand des BGH-Urteils nachgezogen."
     ],
     "reviewed_on": "2026-10-22",
-    "sha256": "4d6dd910a0c2bb3ed2f55f5403e88e096bb421991745b6bc41a25b183aef9c69"
+    "sha256": "abcfd1904d9f252f76e8e06c79c4397fb0d4b8f990d33824778e20b2996523e6"
   },
   "focus_review": {
     "verdict": "revised",
@@ -312,12 +314,15 @@
     ],
     "remaining_limits": [
       "Konsolidierter EuInsVO-Stand und konkrete österreichische Normen vor fallbezogener Endfassung nachziehen.",
-      "Kein behaupteter Oberflächentest in Claude Cowork oder ChatGPT."
+      "Kein behaupteter Oberflächentest in Claude Cowork oder ChatGPT.",
+      "2026-11-10: Gezielter Quellenabgleich der ergänzten Entscheidungen und Fachpassagen. Kein erneuter Live-Modelltest."
     ],
     "files": [
       "insolvenzanfechtung/insolvenzanfechtung-werkstatt.md",
       "insolvenzanfechtung/insolvenzanfechtung-schnellstart.md",
-      "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md"
+      "insolvenzanfechtung/insolvenzanfechtung-hauptproblem.md",
+      "insolvenzanfechtung/references/rechtsquellen.md",
+      "insolvenzanfechtung/skills/gesellschafterfinanzierung/SKILL.md"
     ],
     "decisions": [
       {
@@ -403,6 +408,13 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_173-23.pdf?__blob=publicationFile&v=1",
         "application": "Wirtschaftliche Zurechnung an den Gesellschafter verlangt besondere, konkret belegte Umstände.",
         "limit": "Ein bloßer Umgehungsvorwurf, Verbindung oder niedriger Kaufpreis genügt nicht."
+      },
+      {
+        "citation": "BGH, Urteil vom 17.09.2026 – IX ZR 229/23, Rn. 13–16, 24, 28–29, 37–38",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE304032026.zip",
+        "application": "Tilgung, atypisch vorfinanzierte Warenlieferung und Zinszahlungen getrennt prüfen. Die Anfechtung der Befriedigung einer Gesellschafterdarlehensforderung nach § 135 Abs. 1 Nr. 2 InsO setzt den insolvenzrechtlichen Nachrang durch.",
+        "limit": "Art. 13 EuInsVO a. F. hindert diese Rangdurchsetzung nicht. Art. 16 der Neufassung und gewöhnliche Fremdfinanzierung gesondert prüfen. Zinszahlungen zur Tatsachenfeststellung zurückverwiesen.",
+        "checked_on": "2026-11-10"
       }
     ]
   },

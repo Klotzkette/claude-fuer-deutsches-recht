@@ -47,7 +47,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Nachtrag 10.11.2026: Für T-656/24 sind jetzt die geprüften Randnummern aus dem amtlichen Volltext angegeben.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
@@ -56,7 +56,7 @@
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis.",
       "Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten."
     ],
-    "sha256": "22d339d1afa8abe730105202449f7d5a06895e62f7b91f07435891ed93dfa687"
+    "sha256": "e8080915e0d6ea244a0480ec9262ef92b5ae6acb43d4bc1da5a7c47f091053d9"
   },
   "selection": {
     "positive": [
@@ -104,7 +104,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe.",
+    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht. Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten. Keine neue fachliche Vollprüfung oder Live-Modellprobe. Nachtrag 10.11.2026: Für T-656/24 sind jetzt die geprüften Randnummern aus dem amtlichen Volltext angegeben.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
@@ -113,7 +113,7 @@
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: eigenständige Warteentscheidung und Kausalität; PM-Quellengrenze.",
       "Einstiegsredaktion 16.10.2026: Betragsziel und Anspruchsarten früh erkennbar; Sturgeon mit Entlastungs- und Kürzungsgrenze vorgezogen, Reisezeitrecht erhalten."
     ],
-    "sha256": "e89a3eae5949337e5941d4862317a10de12d9253c593cae95be375cf7e367026"
+    "sha256": "2566d6f850054bd82ab587dddf8624359d22d388757428146ab90cf8a9d156e9"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -170,6 +170,20 @@
         "checked_on": "2026-10-01",
         "verification_status": "frisch_amtliche_pressemitteilung",
         "passages_read": "Pressemitteilung vollständig, beide Seiten einschließlich Fußnoten 1–4. EUR-Lex-Volltext wegen JavaScript-Prüfung nicht gelesen."
+      },
+      {
+        "citation": "EuG, Urteil vom 04.03.2026, T-656/24",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62024TJ0656",
+        "application": "Rn. 25–35 und Tenor: Bei eigenständiger Warteentscheidung ihre Bedeutung für die mindestens dreistündige Verspätung des Folgeflugs desselben Tages und Flugzeugs anhand des Umlaufs prüfen.",
+        "limit": "Nur eine für die Verspätung entscheidende Warteentscheidung kann den unmittelbaren Kausalzusammenhang unterbrechen. Betreuungsleistungen gesondert prüfen.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "EuGH, Urteil vom 13.06.2024, C-411/23",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62023CJ0411",
+        "application": "Tenor Nr. 1 und 2: Versteckter Serienfehler des Triebwerks kann trotz Vorabkenntnis außergewöhnlich sein. Ersatzplanung im Rahmen der zumutbaren Möglichkeiten gesondert prüfen.",
+        "limit": "Kein allgemeiner Entlastungsgrund für gewöhnliche Defekte und keine schrankenlose Ersatzflugzeugpflicht.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [

@@ -88,6 +88,66 @@
       "url": "https://www.gesetze-im-internet.de/ustg_1980/__15.html",
       "checked_on": "2026-11-06",
       "supports": "Vorsteuerzeitpunkt und Aufteilung anhand Leistung, Rechnung und Verwendung prüfen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62026CC0167",
+      "checked_on": "2026-11-10",
+      "supports": "Überprüfungsbeschluss und Schlussanträge der Rechtssache C-167/26 RX. Am Prüftag keine Entscheidung in der Sache."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/anhaengige-verfahren/aktuelle-verfahren/detail/STAH260500007/",
+      "checked_on": "2026-11-10",
+      "supports": "Amtliches Register des BFH zum nach Zulassung anhängigen Verfahren V R 7/26."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustdv_1980/",
+      "checked_on": "2026-11-10",
+      "supports": "Aktuelle §§ 17a bis 17d UStDV: Gelangensvermutung, Gelangensnachweis, Bearbeitung oder Verarbeitung, Buchnachweis."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024TJ0689",
+      "checked_on": "2026-11-10",
+      "supports": "Erfasse Leistung, Rechnungseingang und Erklärungsabgabe getrennt und prüfe bei zeitversetztem Rechnungserhalt die Zuordnung."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650044/",
+      "checked_on": "2026-11-10",
+      "supports": "Verfahrensstand der Revision V R 7/26 zur Rechnungsberichtigung prüfen."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610076/",
+      "checked_on": "2026-11-10",
+      "supports": "Bei Anzahlungen Zahlung, ausreichende Leistungsbestimmung und Vorauszahlungscharakter der Rechnung prüfen. Der Begriff Vorkasse ist bei anderweitig erkennbarem Vorauszahlungscharakter entbehrlich."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610080/",
+      "checked_on": "2026-11-10",
+      "supports": "Für den Vertrauensschutz im Abholfall unrichtige Abnehmerangaben, Beleglage und kaufmännische Sorgfalt im Lieferzeitpunkt prüfen. Die Gelangensbestätigung war kein zwingender Einzelbeleg."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/astg/__8.html",
+      "checked_on": "2026-11-10",
+      "supports": "Niedrigsteuergrenze von weniger als 15 Prozent nach § 8 Abs. 5 AStG."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/astg/__21.html",
+      "checked_on": "2026-11-10",
+      "supports": "Zeitlicher Anwendungsbereich der Niedrigsteuergrenze für nach dem 31.12.2023 endende Wirtschaftsjahre."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/astg/__20.html",
+      "checked_on": "2026-11-10",
+      "supports": "Switch-over setzt hypothetische Zwischeneinkünfte voraus. Keine Quote passiver Einnahmen."
+    },
+    {
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Internationales_Steuerrecht/Staatenbezogene_Informationen/Laender_A_Z/Italien/1990-08-18-Italien-Abkommen-DBA.html",
+      "checked_on": "2026-11-10",
+      "supports": "Abkommen und Protokoll, insbesondere Art. 6, Art. 24 Abs. 3 und Protokoll Nr. 16 d."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/estg/__32b.html",
+      "checked_on": "2026-11-10",
+      "supports": "Abgrenzung Progression nach Nr. 3 bzw. Nr. 5 und Ausnahmen für abkommensrechtlich freigestellte Einkünfte."
     }
   ],
   "mini_review": {
@@ -103,9 +163,10 @@
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
       "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
-      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg."
+      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
+      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert."
     ],
-    "sha256": "0cce6dab718f621cf11f12c16b6374dbc472396981ef550604fad6142a2a4483",
+    "sha256": "bd9177c23b42267422a407ce5347a9259859292bff1f882a990e02ce9bfea250",
     "reviewed_on": "2026-11-06",
     "method": "desk_review"
   },
@@ -375,9 +436,10 @@
       "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
       "Quellenvertiefung 16.10.2026: BFH, Beschluss vom 18.09.2026, X B 121/25",
       "04.11.2026: Belegbasierte Erklärung, Einspruch gegen den richtigen Bescheid und bezifferbare Klage oder Fortsetzung im anhängigen Verfahren mit Fundstellen.",
-      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg."
+      "06.11.2026: UStVA aus Belegen bis zur Feldtabelle, verifiziertem Import oder autorisierter lokaler Abgabe mit Annahmeprotokoll. Zertifikat und PIN verbleiben im geschützten lokalen Anmeldeweg.",
+      "2026-11-10: Vorsteuerzeitpunkt, Anzahlungsrechnung und Vertrauensschutz abgeglichen, UStDV-Nummern korrigiert."
     ],
-    "sha256": "50b231a7afa60925135ea658addd42d38bd551f4bd18ebce21232b582330ea3d",
+    "sha256": "1ba844cb7651803f9ed8852a58c1332216065e7394d7f7d6f76ab30d35ecdbf2",
     "reviewed_on": "2026-11-06",
     "method": "desk_review"
   },
@@ -396,7 +458,13 @@
       "steuerrecht-anwalt-und-berater/skills/fristenbuch-steuerrecht/SKILL.md",
       "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-voranmeldung-erstellen/SKILL.md",
       "steuerrecht-anwalt-und-berater/ustva/werkstatt.md",
-      "steuerrecht-anwalt-und-berater/ustva/mini.md"
+      "steuerrecht-anwalt-und-berater/ustva/mini.md",
+      "steuerrecht-anwalt-und-berater/skills/umsatzsteuer-vorsteuerabzug-pruefen/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/ust-innergemeinschaftlich-6a-ustg/SKILL.md",
+      "testakten/megaprompts/steuerrecht-anwalt-und-berater.md",
+      "steuerrecht-anwalt-und-berater/skills/dba-anrechnung-vs-freistellung-methodenartikel/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/dba-betriebsstaette-art-5-musterabkommen/SKILL.md",
+      "steuerrecht-anwalt-und-berater/skills/schenkung-zehnjahresfrist/SKILL.md"
     ],
     "opening_change": "Steuererklärung, Steueranmeldung, Einspruch und Finanzgerichtsklage sind im Einstieg erkennbar. Der Methodenanker X R 14/24 bleibt erhalten.",
     "norms": [
@@ -438,6 +506,55 @@
         "application": "Bei § 3a Abs. 2 UStG Auftrag und konkreten Bedarf des Standorts je Leistung auseinanderhalten.",
         "limit": "Die Entscheidung betrifft Werbung und die festgestellte Verwendung im Drittland; eine feste Niederlassung und ihr eigener Bedarf sind im IT-Fall gesondert zu belegen.",
         "checked_on": "2026-11-04"
+      },
+      {
+        "citation": "EuG, Urteil vom 11.02.2026 – T-689/24, Rn. 34–42 und 47, in Überprüfung durch den EuGH",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX%3A62024TJ0689",
+        "application": "Erfasse Leistung, Rechnungseingang und Erklärungsabgabe getrennt und prüfe bei zeitversetztem Rechnungserhalt die Zuordnung.",
+        "limit": "Stand 10.11.2026 läuft C-167/26 RX. Schlussanträge sind ein Entscheidungsvorschlag. Die Berichtigung einer ursprünglich nicht berichtigungsfähigen Rechnung ist eine andere Fallgruppe.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Beschluss vom 26.02.2026 – V B 11/25, Rn. 2",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650044/",
+        "application": "Verfahrensstand der Revision V R 7/26 zur Rechnungsberichtigung prüfen.",
+        "limit": "Verfahrensbeschluss zur Zulassung der Revision ohne Sachentscheidung über Rückwirkung.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Urteil vom 04.12.2025 – V R 38/23, Rn. 20–25 und 31–37, veröffentlicht 2026",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610076/",
+        "application": "Bei Anzahlungen Zahlung, ausreichende Leistungsbestimmung und Vorauszahlungscharakter der Rechnung prüfen. Der Begriff Vorkasse ist bei anderweitig erkennbarem Vorauszahlungscharakter entbehrlich.",
+        "limit": "Das Urteil spricht keinen Vorsteuerabzug ohne tatsächlich entrichtete Vorauszahlung zu.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Urteil vom 18.12.2025 – V R 3/25, Rn. 14–24 und 27–30, veröffentlicht 2026",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610080/",
+        "application": "Für den Vertrauensschutz im Abholfall unrichtige Abnehmerangaben, Beleglage und kaufmännische Sorgfalt im Lieferzeitpunkt prüfen. Die Gelangensbestätigung war kein zwingender Einzelbeleg.",
+        "limit": "Streitjahr 2018. Die seit 2020 geltende UStDV-Nummerierung und der unmittelbare Nachweis der Warenbewegung sind gesondert zu prüfen.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Urteil vom 21.05.2025 – I R 5/22, Rn. 10–17 und 22",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520222/",
+        "application": "Progressionsvorbehalt nach § 32b Abs. 1 Satz 1 Nr. 3 bzw. 5 EStG und die Ausnahme für EU-Grundbesitz separat prüfen.",
+        "limit": "Fiktive unbeschränkte Steuerpflicht der in Polen ansässigen Ehefrau. Kein Fall zum DBA-Italien oder zu dessen deutschen Erklärungsformularen.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Urteil vom 23.11.2011 – II R 33/10, Rn. 18–24 und 27–30",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201210089/",
+        "application": "Bei Oder-Konto die freie Beteiligung am Guthaben aus der tatsächlichen Handhabung und den Vereinbarungen im Innenverhältnis ableiten. Feststellungslast und Ausnahmekonstellation unterscheiden.",
+        "limit": "Allein Einzahlung und Außenverfügungsbefugnis ergeben keine hälftige Zuwendung. Keine Aussage zum Vorsatz nach § 370 AO.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BFH, Urteil vom 29.06.2016 – II R 41/14, Rn. 12–14 und 21–23",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201610180/",
+        "application": "Bei unentgeltlicher Übertragung zwischen Einzelkonten die behauptete frühere Mitberechtigung separat ermitteln.",
+        "limit": "Fallgruppe Einzelkonto. Die dortige Feststellungslast nicht auf Einzahlungen auf das gemeinsame Oder-Konto übertragen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
@@ -445,7 +562,8 @@
       "Prüfung der Schätzung und aktuellen Paragrafen 158/162 AO; keine neue Vollverifikation sämtlicher materieller Steuerarten, DBA oder Strafverteidigungsfragen.",
       "Workflow-Vertiefung 2026-09-23: Keine neue Vollverifikation sämtlicher Steuerarten, DBA oder Steuerstrafrechtsfragen. BFH X R 19/21 und XI R 17/22 mit vorhandenen Anwendungsgrenzen erhalten; neue Zahlenbeispiele sind transparente Rechenbeispiele, keine tatsächlichen Betriebsfeststellungen. Desk review; keine Live-Client-Ausführung.",
       "Enger Quellenabgleich 01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest.",
-      "04.11.2026: Gegenlese der bearbeiteten Zweige mit amtlichen Verfahrensnormen und zwei Freiburger Fällen. Frühere Quellenprüfungen bleiben historisch dokumentiert. Kein Live-Modelltest."
+      "04.11.2026: Gegenlese der bearbeiteten Zweige mit amtlichen Verfahrensnormen und zwei Freiburger Fällen. Frühere Quellenprüfungen bleiben historisch dokumentiert. Kein Live-Modelltest.",
+      "2026-11-10: Gezielter Quellenabgleich der ergänzten Entscheidungen und Fachpassagen. Kein erneuter Live-Modelltest."
     ],
     "anchor_context_review": {
       "date": "2026-10-01",

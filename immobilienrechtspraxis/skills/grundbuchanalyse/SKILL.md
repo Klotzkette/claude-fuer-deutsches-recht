@@ -89,7 +89,7 @@ Objekttabelle und ein einheitliches Risikoschema.
 
 - **BGH 15.04.2021, V ZB 175/20**: Grundbucheintragung — Bewilligung muss bestimmten Inhalt aufweisen; bei Auflassungsvormerkung Konkretisierung des gesicherten Anspruchs erforderlich. Quelle: dejure.org/2021,14528.
 - **BGH 17.09.2021, V ZR 12/21**: WEMoG-Reform; Bauliche Veraenderungen § 20 WEG; Folgen für Grundbucheintragungen bei Sondernutzungsrechten. Quelle: dejure.org/2021,30989.
-- **BGH 25.02.2016, V ZR 244/14**: Loeschungsfaehiges Grundpfandrecht — Voraussetzungen § 1183 BGB. Quelle: dejure.org/2016,5478.
+- **BGH, Beschluss vom 12. Oktober 2017 – V ZB 131/16, Leitsatz.** Ein Pfändungs- und Überweisungsbeschluss über den Rückgewähranspruch und das „Zustimmungsrecht“ ersetzt für sich genommen die Eigentümerzustimmung zur Grundschuldlöschung und deren Nachweis in grundbuchmäßiger Form nicht. §§ 27, 29 GBO und §§ 1183, 1192 BGB getrennt prüfen. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-10&Gericht=bgh&Seite=5&Sort=1026&anz=237&nr=80431&pos=155)
 
 Konkrete Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
 

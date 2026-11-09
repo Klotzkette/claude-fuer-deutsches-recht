@@ -123,6 +123,8 @@ angesetzt.
 
 ### Baustein 2 – Erklärung Auskunftsverweigerungsrecht § 55 StPO
 
+Bei angekündigter oder laufender Beugehaft nach § 70 Abs. 2 StPO unverzüglich Zuständigkeit, Rechtsschutz, konkrete Selbstbelastungsgefahr und Freiheitsfolgen prüfen. [BVerfG, Beschluss vom 23.09.2026, 2 BvR 1681/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466882601.zip), Rn. 8–13: Vollzug nach § 32 BVerfGG im Wege der Folgenabwägung ausgesetzt. Entscheidend waren mögliche weitere Monate Freiheitsverlust gegenüber einem voraussichtlich kurzen Aufschub. Die Reichweite des Verweigerungsrechts blieb in der Hauptsache zu klären.
+
 ```
 An den/die Vernehmungsbeamten/-beamtin / Vorsitzenden
 [Behörde / Gericht]
@@ -140,13 +142,16 @@ den Sachverhaltskomplex X"] verweigert die Zeugin / der Zeuge
 die Auskunft gemäß § 55 StPO.
 
 Die wahrheitsgemäße Beantwortung würde die Zeugin / den Zeugen
-der Gefahr aussetzen, wegen einer Straftat verfolgt zu werden
+der Gefahr aussetzen, wegen [Straftat oder Ordnungswidrigkeit] verfolgt zu werden
 (§ 55 Abs. 1 StPO). Eine Belehrung gemäß § 55 Abs. 2 StPO
 ist [nicht] erfolgt.
 
-Soweit die Vernehmungsperson die Berechtigung dieser
-Verweigerung bezweifelt, beantrage ich die Entscheidung
-des zuständigen Richters (§ 55 Abs. 2 S. 3 StPO).
+Die konkrete Verfolgungsgefahr mache ich auf Verlangen
+nach § 56 StPO glaubhaft. Bei Zweifeln in der polizeilichen
+Vernehmung auf staatsanwaltschaftlichen Auftrag bitte ich
+um Entscheidung der Staatsanwaltschaft (§ 163 Abs. 4 Satz 1
+Nr. 1 StPO). Bei einer gerichtlichen Vernehmung bitte ich
+um eine Entscheidung des Gerichts.
 
 [Ort, Datum]
 [Unterschrift]
@@ -190,7 +195,7 @@ ist ohne Kenntnis des Verfahrensstands und der bereits vor-
 | Konstellation | Beweislast |
 |---|---|
 | Berechtigung zur Zeugnisverweigerung § 52 StPO | Zeugin/Zeuge behauptet Angehörigeneigenschaft; Gericht prüft von Amts wegen, ggf. eidesstattliche Erklärung |
-| Auskunftsverweigerungsrecht § 55 StPO | Zeugin/Zeuge muss Verfolgungsgefahr glaubhaft machen; keine volle Beweispflicht, aber substantiiertes Vorbringen |
+| Auskunftsverweigerungsrecht § 55 StPO | Auf Verlangen nach § 56 StPO glaubhaft machen. § 55 StPO erfasst auch die Verfolgungsgefahr für Angehörige nach § 52 Abs. 1 StPO. |
 | Beiordnung § 68b Abs. 2 StPO | Antragstellerin/Antragsteller trägt Schutzbedürftigkeit vor; Gericht entscheidet nach freiem Ermessen |
 | Beschlagnahmeverbot § 97 StPO | Beschuldigtenverteidigung trägt Schutzwürdigkeit vor; Staatsanwaltschaft muss keine Ausnahme beweisen |
 

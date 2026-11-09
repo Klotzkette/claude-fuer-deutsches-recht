@@ -17,106 +17,34 @@ description: "Für Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serie
 
 Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. Gleichzeitig existieren gesetzliche Ausnahmen und eine Vielzahl von Branchenpraktiken — insbesondere für Bibliotheken, Schulen, Bundleangebote und Serien. Kläre, was zulässig ist, was einen Preisbindungsverstoß begründet und wie Sonderkonditionen rechtskonform dokumentiert werden.
 
-## Rechtsgrundlagen
+## Pflicht, Preisfestsetzung und Vertrieb
 
-| Norm | Inhalt | Quelle |
-|------|--------|-------|
-| BuchPrG § 5 | Bindung des Letztabnehmers an den Ladenpreis | https://www.gesetze-im-internet.de/buchprg/__5.html |
-| BuchPrG § 6 | Ausnahmen von der Preisbindung | https://www.gesetze-im-internet.de/buchprg/__6.html |
-| BuchPrG § 7 | Preisänderung und -aufhebung | https://www.gesetze-im-internet.de/buchprg/__7.html |
-| BuchPrG § 9 | Ansprüche bei Verstößen: Unterlassung, Schadensersatz | https://www.gesetze-im-internet.de/buchprg/__9.html |
-| BuchPrG § 10 | Klageberechtigung des Börsenvereins | https://www.gesetze-im-internet.de/buchprg/__10.html |
-| GWB § 1 | Kartellverbot — BuchPrG als gesetzliche Ausnahme | https://dejure.org/gesetze/GWB/1.html |
+[§ 3 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__3.html) verpflichtet gewerbs- oder geschäftsmäßige Verkäufer zur Einhaltung des Endpreises beim Verkauf an Letztabnehmer in Deutschland. Gebrauchte Bücher sind nach § 3 Satz 2 ausgenommen. Der Letztabnehmer erwirbt nach [§ 2 Abs. 3 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__2.html) zu anderen Zwecken als dem Weiterverkauf.
 
-## Grundprinzip: Keine Unterschreitung des Ladenpreises
+[§ 5 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__5.html) regelt Festsetzung, Veröffentlichung und Änderung des Endpreises durch Verlag oder Importeur. [§ 6 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__6.html) betrifft die Vertriebsbedingungen für Händler. Prüfe die jeweiligen Konditionen für kleinere Buchhandlungen, branchenfremde Händler und Zwischenbuchhändler getrennt. Die Bindung endet durch wirksame Aufhebung nach [§ 8 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__8.html), regelmäßig erst bei mehr als 18 Monaten seit dem ersten Erscheinen und mit geeigneter Veröffentlichung.
 
-- BuchPrG § 5: Jeder, der ein preisgebundenes Buch an Letztabnehmer verkauft, **muss den festgesetzten Preis einhalten**.
-- „Letztabnehmer" = jeder, der das Buch für den eigenen Bedarf kauft (Privatpersonen, Bibliotheken, Schulen, Unternehmen).
-- **Kein Ermessensspielraum**: Auch 1 Cent unter dem gebundenen Preis ist ein Verstoß.
+## Ausnahmen und Nachlässe nach § 7 BuchPrG
 
-## Ausnahmen nach § 6 BuchPrG
+### Mängelexemplare, Remittenden und sonstige Ausnahmen
 
-### § 6 Abs. 1 Nr. 1 — Beschädigte Exemplare (Mängelexemplare)
-- Exemplare mit offensichtlichen Qualitätsmängeln (Druckfehler, Wasserschaden, beschädigter Einband).
-- Müssen **deutlich als Mängelexemplar** gekennzeichnet sein (Aufkleber, Stempel, aufgedruckte Kennzeichnung).
-- Preisunterschreitung zulässig; kein Mindestrabatt gesetzlich vorgeschrieben.
+[§ 7 Abs. 1 Nr. 4 BuchPrG](https://www.gesetze-im-internet.de/buchprg/__7.html) setzt einen tatsächlichen Mangel und die entsprechende Kennzeichnung voraus. Erfasse je Exemplar Beschädigung oder sonstigen Fehler, Fotos und Kennzeichnung. Eine Rücksendung an den Verlag allein verändert die Bindung nicht. Bei einer Remittende prüfe separat einen tatsächlichen Mangel, die Eigenschaft als gebrauchtes Buch oder die wirksame Aufhebung der Bindung für die Ausgabe.
 
-### § 6 Abs. 1 Nr. 2 — Remittenden
-- Zurückgesandte, vom Buchhandel nicht mehr neu verkaufbare Exemplare.
-- Nur wenn der Händler das Exemplar tatsächlich zurückgesandt und als Remittend erhalten hat.
-- Kennzeichnung erforderlich; kein regulärer Vertrieb als Neuware.
+Prüfe die anderen Ausnahmen des Absatzes 1 nach Empfänger und Zweck. Sie erfassen unter anderem den Eigenbedarf der gesetzlich genannten Branchenangehörigen und Autoren, Lehrerprüfexemplare sowie den begrenzten Räumungsverkauf unter den gesetzlichen Voraussetzungen.
 
-### § 6 Abs. 1 Nr. 3 — Institutionelle Erwerbungen zum Wiederverkauf / Schulbücher
-- Schulbücher, die von Schulträgern oder Schülern für schulischen Unterricht erworben werden: ermäßigte Konditionen zulässig nach Schulbuchklauseln.
-- Bibliotheken als Letztabnehmer: grundsätzlich Preisbindung; Sonderkonditionen nur bei expliziter Freistellung durch Verleger nach § 7 BuchPrG (temporäre Preissenkung).
+### Bibliotheken und Schulbuch-Sammelbestellungen
 
-### Bibliotheksrabatt — Sonderfall
-- Keine generelle gesetzliche Ausnahme für Bibliotheken.
-- **Verlagspolitik**: Verleger können für bestimmte Zeiträume oder Ausgaben Sonderpreise für Bibliotheken festsetzen (§ 7 BuchPrG: Preisänderung); diese neuen Preise sind dann für alle Buchhandlungen verbindlich.
-- **Direkte Bibliothekslieferung**: Viele Verlage beliefern Bibliotheken direkt zu Sonderpreisen über Bibliothekslieferer (ekz, Schweitzer, etc.) — zulässig, wenn Preis für diese Ausgabe/Lieferlinie eigenständig festgesetzt.
+Bei Absatz 2 unterscheiden sich die Höchstsätze je nach Empfänger. Wissenschaftliche Bibliotheken mit der gesetzlich geforderten Zugänglichkeit können bis zu 5 Prozent Nachlass erhalten. Für die gesetzlich genannten öffentlichen, konfessionellen und Truppenbüchereien sowie Schülerbüchereien beträgt die Obergrenze 10 Prozent. Belege Träger, Bibliotheksart, Zugang und Höhe.
 
-## Bundleangebote
+Bei Sammelbestellungen von Büchern für den Schulunterricht prüfe Eigentümer und Bestellweg nach Absatz 3. Für die dort erfassten Bestellungen sind die gesetzlichen Nachlässe zu gewähren. Bis zu 25.000 Euro Gesamtauftragswert prüfe die Stückzahl je Titel. Bei mehr als 10, 25, 100 bzw. 500 Exemplaren gelten 8, 10, 12 bzw. 13 Prozent. Oberhalb von 25.000, 38.000 bzw. 50.000 Euro gelten 13, 14 bzw. 15 Prozent. Bei Anschaffung aus eigenem Schulbudget ist stattdessen der gesetzliche Nachlass von 12 Prozent für Sammelbestellungen zu prüfen. Dokumentiere die Berechnungsgrundlage in der Ausschreibung und prüfe die vergaberechtlichen Vorgaben gesondert.
 
-### Grundproblem
-- Bundle aus zwei preisgebundenen Büchern: Muss jeder Einzelband seinen gebundenen Preis erhalten, oder darf der Bundle-Preis darunter liegen?
-- BGH-Rechtsprechung: **Jeder preisgebundene Titel im Bundle muss zum gebundenen Preis abgegeben werden**; Bundle-Rabatt ist nur zulässig, wenn der Gesamtpreis nicht die einzelnen Ladenpreise unterschreitet.
+## Bündel, Serien und Nebenleistungen
 
-### Zulässige Bundle-Modelle
-- Bundle aus preisgebundenem Buch + nicht preisgebundenem Produkt (z.B. USB-Stick, Poster): Rabatt auf das nicht preisgebundene Produkt möglich.
-- Bundle aus zwei Büchern: Preis ≥ Summe der Einzelpreise; kein „Bundle-Rabatt" auf Bücher.
-- E-Book + Print-Bundle: Beide Preise müssen den gebundenen Ladenpreisen entsprechen.
+Bei eigenständig aufgelegten Serien-, Mengen-, Subskriptions- oder Abonnentenpreisen prüfe die einschlägige Alternative des § 5 Abs. 4 und die Veröffentlichung. Verschiedene Endpreise für denselben Titel erfordern nach § 5 Abs. 5 eine sachliche Rechtfertigung. Belege Ausgabe, Preis und Festsetzungsbefugnis. Eine Produktkennung allein genügt dafür nicht.
 
-## Serienpreise und Abonnements
+Prüfe bei kombinierten Objekten zunächst § 2 Abs. 1 Nr. 4 BuchPrG. Bei einem vom Händler zusammengestellten Bündel ermittle für jede gebundene Ausgabe den wirtschaftlich vereinnahmten Preis, die Gegenleistung für Gutscheine und die Voraussetzungen einer zulässigen Nebenleistung nach § 7 Abs. 4. Ordne bei Print plus E-Book, Zeitschriftenbeilagen und Clubausgaben den Bindungsstatus jeder Ausgabe und eine etwaige rechtmäßige eigene Preisfestsetzung gesondert ein. Leite aus dem Gutscheinurteil keine starre Summenregel für eigenständig festgesetzte Serienpreise ab.
 
-### Buchserien (mehrteilige Werke)
-- Jeder Band einer Serie ist eigenständiges preisgebundenes Produkt; eigener Ladenpreis je Band.
-- Serienrabatt (z.B. „Band 1–5 im Set") unzulässig, wenn Einzelpreise der Bände unterschritten.
-- **Ausnahme**: Verlag setzt für das Set einen eigenständigen Preis fest (§ 3 BuchPrG); dann ist das Set ein eigenständiges preisgebundenes Produkt.
+- [BGH, Urteil vom 23. Juli 2015, I ZR 83/14, amtliche Leitsätze und Rn. 12–21](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE312622016.zip). Beim Erwerb preisgebundener Bücher muss der gebundene Preis wirtschaftlich zufließen. Prüfe bei Bonusgutscheinen deren Gegenleistung und Einlösung. Bündel und die gesetzlichen Ausnahmen sind gesondert einzuordnen.
 
-### Buchclubs / Buchgemeinschaften
-- Buchclubs erwerben i.d.R. spezielle Clubausgaben mit eigenem ISBN und eigenem Preis.
-- Clubpreis ist eigenständig preisgebundener Preis; kein Unterschreiten zulässig.
-- Verwechslung mit Handelsausgaben ist zu vermeiden (separate ISBNs).
+## Ausgabe und Kontrolle
 
-### Zeitschriften-Abonnements mit Buchbeilagen
-- Zeitschriften sind nicht preisgebunden; Buch-Beilage zu Zeitschrift: streitig.
-- Bundesgerichtshof: Wenn Buch als kostenlose Zugabe zur Zeitschrift beigefügt, kann Preisbindung unterlaufen sein; kommt auf Einzelfall an.
-
-## Schulbuch-Sonderkonditionen
-
-- Schulbücher unterliegen der Preisbindung; eigene Konditionenvereinbarungen zwischen Schulbuchverlagen und Schulbuchhandlungen (Sonderkonditionenlisten des Börsenvereins).
-- Keine Unterschreitung des festgesetzten Schulbuch-Preises; aber Schüler-/Schullizenzpreise können gesondert festgesetzt werden.
-- Öffentliche Beschaffung (Ausschreibungen nach VOL/VgV): BuchPrG gilt auch für öffentliche Auftraggeber; Unterschreitung durch Bieter ist Verstoß.
-
-## Typische Fallen
-
-- **Bibliotheksrabatt ohne Grundlage**: Buchhandlung gewährt Bibliothek 10 % Nachlass auf alle Bücher → Preisbindungsverstoß.
-- **Bundle-Rabatt**: Verlag bewirbt „2 Bücher für 25 € statt 32 €" → Verstoß, wenn Einzelpreise 16 € und 16 € betragen.
-- **Clubausgaben mit Handel-ISBN**: Buchclub verkauft Buchclub-Ausgabe über normalen Buchhandel; gebundener Preis muss der eigenständige Clubpreis sein.
-- **Schulausschreibung mit Preisnachlass**: Schule schreibt Bücherpakete aus und akzeptiert Angebot unter Ladenpreis → Verstoß für Buchhandlung.
-- **Zeitschriften-Beilage ohne Planung**: Magazin legt Sonderbuch kostenlos bei → ggf. Preisbindungsverstoß.
-
-## Checkliste Sonderkonditionen
-
-- [ ] Alle Sonderkonditionen auf § 6 BuchPrG-Ausnahmetatbestand gestützt
-- [ ] Mängelexemplare und Remittenden korrekt gekennzeichnet
-- [ ] Bundle-Preise entsprechen der Summe der Einzelpreise
-- [ ] Seriensets als eigenständiges Produkt mit eigenem ISBN und Preis festgesetzt
-- [ ] Bibliothekspreise nur nach expliziter Verlagsfreistellung (§ 7 BuchPrG-Preisänderung)
-- [ ] Schulbuch-Ausschreibungen: Angebot nicht unter Ladenpreis
-
-## Quellenreferenzen
-
-- BuchPrG §§ 5–7: https://www.gesetze-im-internet.de/buchprg/
-- BGH, Urt. v. 16.12.2010 – I ZR 173/09 (Bundle-Preisbindung): https://www.bgh.de
-- OLG Frankfurt, Urt. v. 19.06.2012 (Bibliotheksrabatt): https://openjur.de
-- Börsenverein, Konditionenpraxis: https://www.boersenverein.de
-- LG München I, Urt. v. 14.03.2016 (Schulbuch-Ausschreibung): https://openjur.de
-
-## Output-Formate
-
-- **Rabatt-Rechtscheck**: Jeder Sonderkonditionen-Typ mit BuchPrG-Bewertung (zulässig / nicht zulässig)
-- **Bundle-Preis-Kalkulation**: Nachweis dass Summe eingehalten
-- **Bibliothekskonditionen-Vorlage**: Preisänderungsmechanismus nach § 7 BuchPrG
-- **Ausnahmen-Protokoll**: Dokumentation aller gewährten Ausnahmen mit Rechtsgrundlage
-- **Abmahnungsrisiko-Ampel**: Grün/Gelb/Rot für jede Kondition
+Liefere für jede Aktion eine Berechnung mit Ausgabe, Endpreis, Preissetzer, Veröffentlichung, Absatzkanal, Empfänger, Gegenleistung und etwaiger Ausnahme. Verknüpfe diese Angaben mit Bestellunterlagen, Belegen für Mängel oder Zugänglichkeit sowie den Bedingungen für Gutscheine oder Zugaben. Halte beim Schulbuchgeschäft die Mengenschwellen und den Eigentumserwerb in einem eigenen Prüfvermerk fest.

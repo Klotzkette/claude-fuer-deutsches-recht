@@ -14,7 +14,7 @@ Erfassen Sie Parteien und Anschriften, erforderliche Steuerkennungen, elektronis
 
 ## 2. Steuer und Beträge prüfen
 
-Prüfen Sie Leistung, Ort, Steuerschuldner, Steuersatz und gegebenenfalls Steuerbefreiung. Unterschiedliche Nullsteuerfälle benötigen die richtigen Kategorien und Hinweise. Bei Kleinunternehmern beachten Sie § 19 UStG und § 34a UStDV, bei Reverse Charge die Voraussetzungen und § 14a UStG. Ein falscher gesonderter Steuerausweis kann nach § 14c UStG eigene Folgen haben; ein grüner Validator behebt ihn nicht.
+Prüfen Sie Leistung, Ort, Steuerschuldner, Steuersatz und gegebenenfalls Steuerbefreiung. Unterschiedliche Nullsteuerfälle benötigen die richtigen Kategorien und Hinweise. Bei Kleinunternehmern beachten Sie § 19 UStG und § 34a UStDV, bei Reverse Charge die Voraussetzungen und § 14a UStG. Bei falschem Steuerausweis prüfen Sie § 14c UStG und den Zeitpunkt der endgültigen Gefährdungsbeseitigung. [BFH XI R 25/23, Rn. 36–39](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/). Ein grüner Validator ersetzt diese Prüfung nicht.
 
 Unterscheiden Sie Rechnung, Anzahlungs-, Abschlags- und Schlussrechnung, Storno, kaufmännische Gutschrift und vereinbarte Gutschrift des Leistungsempfängers. Prüfen Sie gemischte Steuersätze, Fremdwährung und frühere Zahlungen, soweit vorhanden. Eine negative Zahl allein macht keine korrekte Credit Note.
 

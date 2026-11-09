@@ -53,7 +53,7 @@ description: "Für Unfallregulierung Quoten: ordnet Norm, Beweislast und Gegenar
 - Reparatur zulässig, wenn Reparaturkosten **bis 130 %** des Wiederbeschaffungswerts
 - Verifizierte Entscheidungen vor Ausgabe in offener Quelle prüfen (BGH-Datenbank, dejure.org, openjur.de):
  - BGH, Urt. v. 12.3.2024, VI ZR 280/22 — Werkstatt- bzw. Sachverstaendigenrisiko (Übertragung auf überhöhte Sachverstaendigenkosten); offene Quelle: https://juris.bundesgerichtshof.de
- - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze, nachvollziehbare Begründung erforderlich)
+ - BGH, Urt. v. 5.11.2024, VI ZR 12/24 — fiktive Berechnung Haushaltsfuehrungsschaden (Mindestlohn als Untergrenze des Bruttolohns, kein Netto-Pauschalsatz, nachvollziehbare Begründung erforderlich)
 - Über 130 %: nur Wiederbeschaffungswert (Totalschaden)
 
 ### Fiktive Abrechnung
@@ -134,7 +134,7 @@ description: "Für Unfallregulierung Quoten: ordnet Norm, Beweislast und Gegenar
 | BGH VI ZR 280/22 | 12.3.2024 | Werkstattrisiko-Grundsätze auf überhöhte Sachverstaendigenkosten übertragen | juris.bundesgerichtshof.de |
 | BGH VI ZR 253/22 | 16.1.2024 | Werkstattrisiko Grundsatzurteil; Geschädigter trägt nicht Risiko überhöhter Werkstattkosten | juris.bundesgerichtshof.de |
 | BGH VI ZR 239/22 | 16.1.2024 | Unbezahlte Rechnung und Abtretung: besondere Risikozuordnung | juris.bundesgerichtshof.de |
-| BGH VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze; nachvollziehbare Begründung erforderlich | juris.bundesgerichtshof.de |
+| BGH VI ZR 12/24 | 5.11.2024 | Fiktiver Haushaltsfuehrungsschaden; Mindestlohn als Untergrenze des Bruttolohns, kein Netto-Pauschalsatz; nachvollziehbare Begründung erforderlich | juris.bundesgerichtshof.de |
 | BGH VI ZR 165/25 | 24.3.2026 | Maßgeblicher Zeitpunkt für den Wiederbeschaffungswert bei fiktiver Schadensabrechnung; Preisentwicklung bis zur vollständigen Schadensbehebung einordnen | juris.bundesgerichtshof.de |
 | BGH VI ZR 25/24 | 8.4.2025 | Feststellungsinteresse für spätere konkrete Abrechnung nach zunächst fiktiver Abrechnung; mögliche Umsatzsteuer und Nutzungsausfallfolgen | juris.bundesgerichtshof.de |
 

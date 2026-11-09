@@ -71,7 +71,7 @@ Ein formal oder materiell fehlerhaftes Mieterhöhungsverlangen ist unwirksam —
 - Mietspiegel oder Gutachten oder drei Vergleichswohnungen als Begründung beigefügt.
 - Alle Mieter namentlich adressiert.
 - Wirksamkeitstermin korrekt berechnet (Beginn des dritten Kalendermonats nach Zugang).
-- Bei Mietpreisbremse-Gebiet prüfen ob die neue Miete nach Erhöhung noch innerhalb der Vergleichsmiete plus zehn Prozent liegt.
+- Bei der Erhöhung im laufenden Wohnraummietverhältnis die ortsübliche Vergleichsmiete, Kappungsgrenze und aktuelle Landesverordnung prüfen.
 
 ## Schreiben-Entwurf
 
@@ -88,14 +88,14 @@ Erzeuge ein Schreiben mit:
 
 ## Hinweis zur Mietpreisbremse
 
-In Gebieten mit Mietpreisbremse darf eine Erhöhung bei bestehendem Mietverhältnis grundsätzlich erfolgen — die Mietpreisbremse begrenzt nur die Neuvermietung. Aber: bei Neuvermietung ist eine Miete über ortsübliche Vergleichsmiete plus zehn Prozent unzulässig (§ 556d BGB). Bei Folgeerhöhungen im laufenden Verhältnis gilt nur die Kappungsgrenze.
+Die Mietpreisbremse nach §§ 556d ff. BGB betrifft die Miethöhe bei Mietbeginn. Für eine Zustimmungserhöhung im bestehenden Vertrag gelten die ortsübliche Vergleichsmiete und die Kappungsgrenze nach § 558 BGB. [§ 558 BGB](https://www.gesetze-im-internet.de/bgb/__558.html)
 
 ## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
 
 - **Berliner Mietendeckel nicht als BGH-Mietrecht zitieren:** Die Kompetenzfrage wurde durch BVerfG, Beschluss vom 25.03.2021 - 2 BvF 1/20, entschieden. Für Mietpreisbremse/Rückzahlung nach §§ 556d ff. BGB immer eine gesondert verifizierte BGH-Entscheidung mit Datum und Aktenzeichen heranziehen.
 - **BVerfG 25.03.2021, 2 BvF 1/20, 2 BvL 4/20, 2 BvL 5/20** (Berliner Mietendeckel-Beschluss): Landesrechtlicher Mietendeckel (Berlin) ist mangels Gesetzgebungskompetenz des Landes verfassungswidrig (Bundesrecht abschliessend). Quelle: bundesverfassungsgericht.de / dejure.org/2021,7050.
-- **BGH 28.04.2021, VIII ZR 22/20**: Qualifizierter Mietspiegel — Anforderungen an wissenschaftliche Erstellung; Erschuetterung der Vermutungswirkung nur bei substantiierten Maengeln des Mietspiegel-Erstellungsverfahrens. Quelle: dejure.org/2021,15412.
-- **BGH 18.03.2020, VIII ZR 64/19** (Bauwerksmaengel als Mietminderungsgrund — vor Mieterhoehungsausgleich prüfen): Erhebliche Maengel mindern auch die Bezugsbasis der Vergleichsmiete. Quelle: dejure.org/2020,4895.
+- **BGH, Urteil vom 28. April 2021 – VIII ZR 22/20, Leitsätze.** Im Zustimmungsprozess kann das Gericht die ortsübliche Vergleichsmiete grundsätzlich durch ein beantragtes Sachverständigengutachten ermitteln, auch bei vorhandenem Mietspiegel und wenn nur die Einordnung in dessen Spanne streitig ist. Ausnahmen hängen etwa von unverhältnismäßigen Kosten oder einer Beschränkung auf die im Mietspiegel genutzte Methode ab. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZR__22-20.pdf?__blob=publicationFile&v=1)
+- **BGH, Beschluss vom 15. Juli 2025 – VIII ZB 69/24, Leitsatz und Rn. 30–34.** Ein selbständiges Beweisverfahren nach § 485 Abs. 2 ZPO ist grundsätzlich nicht eröffnet, um die ortsübliche Vergleichsmiete oder die dafür erheblichen Wohnwertmerkmale festzustellen. Merkmale der Wohnung für § 558 BGB und eine etwaige Minderung nach § 536 BGB gesondert prüfen. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1147&nr=142621&pos=12)
 - **Gesetzeslage Mai 2026:** Bei Erstellung Stand der Mietpreisbremsen-Verordnungen der Länder prüfen; Kappungsgrenzenverordnungen je Bundesland; § 556d BGB-Verlaengerung durch Bundesgesetzgeber (Beschluss 2025 — vor Ausgabe Bundesgesetzblatt-Verifikation).
 
 Vor Zitieren weiterer Entscheidungen Live-Verifikation per dejure.org / bundesgerichtshof.de mit Datum und Aktenzeichen.

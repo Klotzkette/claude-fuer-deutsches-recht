@@ -32,6 +32,11 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azn-339-26/",
       "checked_on": "2026-10-22",
       "supports": "Eigenverantwortliche anwaltliche Quellen- und Schriftsatzprüfung vor Einreichung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+      "checked_on": "2026-11-10",
+      "supports": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17. Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen. Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde."
     }
   ],
   "selection": {
@@ -575,9 +580,10 @@
     "changes": [
       "Jeden selbständig tragenden Urteilsgrund und dessen Erheblichkeit beantworten",
       "Neue Mittel mit bisherigem Vortrag und Verfügbarkeitszeitpunkt nach Paragraf 67 ArbGG verbinden",
-      "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen"
+      "Sechs Flyerentscheidungen mit Aussagegrenze und Pressemitteilungsstatus abgleichen",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Vorherigen Ausschluss von Annahmeverzug und Rechtswahl anhand des amtlichen Volltexts 2 AZR 91/24 eingeordnet."
     ],
-    "sha256": "cdf4195515dfcacff888859e49cbc6a3b74bcd22e6e916a2130caf4ca540ef42"
+    "sha256": "579ab01fbf41d24dcd1ace16fbc3b6759a8e653f717e4fce817d5ef4fb7897b4"
   },
   "focus_review": {
     "method": "desk_review",
@@ -775,6 +781,13 @@
         "source_status": "official_press_release",
         "application": "Bindung an Elternzeitverlangen trotz Trennung mit gesetzlichen Beendigungswegen.",
         "limit": "Nur amtliche Mitteilung und Sitzungsergebnis; keine pauschale Unbeendbarkeit."
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+        "application": "Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen.",
+        "limit": "Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde.",
+        "checked_on": "2026-11-10"
       }
     ]
   },

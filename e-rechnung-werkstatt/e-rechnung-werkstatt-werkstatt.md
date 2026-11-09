@@ -52,6 +52,8 @@ Prüfen Sie gemischte Steuersätze, Nachlässe und Zuschläge, Anzahlungen, Absc
 
 Prüfen Sie bei Änderungen einer bereits ausgegebenen Rechnung die erforderliche Berichtigung. Nach [§ 14c UStG](https://www.gesetze-im-internet.de/ustg_1980/__14c.html) kann ein falscher Steuerausweis eigene Folgen haben. Eine neue Datei oder eine gelungene Formatkonvertierung beseitigt diese nicht automatisch. Eine steuerliche Erklärung oder Einreichung erfolgt nur im beauftragten Umfang.
 
+Bei [BFH, Urteil vom 09.07.2025 – XI R 25/23, Leitsätzen 2–3 und Rn. 36–39, 54–57](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202510245/) entfällt § 14c UStG bei vollständig ausgeschlossener Gefährdung. Eine Berichtigung wegen beseitigter Gefährdung wirkt im Zeitpunkt ihrer Beseitigung. Dokumentieren Sie, ob Vorsteuer geltend gemacht oder zurückgezahlt wurde und ab wann die Gefährdung endgültig ausgeschlossen war. Prüfen Sie das Verfahren nach § 14c Abs. 1 und 2 getrennt. Die Entscheidung beurteilt die Steuerschuld des Rechnungsausstellers. Die Abzugsberechtigung des Empfängers prüfen Sie eigenständig nach § 15 UStG.
+
 ## 5. Beträge und Rundung nachvollziehbar bestimmen
 
 Rechnen Sie mit Dezimalzahlen. Unterscheiden Sie Netto- und Bruttopreise und berücksichtigen Sie die Preisbasismenge. Stimmen Sie Positionssummen, Positionsnachlässe und -zuschläge, Dokumentnachlässe und -zuschläge, Steuergruppen, Nettosumme, Steuerbetrag, Bruttosumme, bereits gezahlte Beträge, zulässige Rundung und verbleibenden Zahlbetrag vollständig ab.

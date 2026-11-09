@@ -328,7 +328,8 @@ Belegt ueber bundesgerichtshof.de und dejure.org; weitere Urteile vor Zitierung 
 **VIII. Zivilsenat — Wohnraummietrecht:**
 - BGH, Urt. v. 24.09.2025 – VIII ZR 289/23 (Eigenbedarf bei Umbau-/Verkaufsabsicht zulaessig)
 - BGH, Beschl. v. 26.08.2025 – VIII ZR 262/24 (Haerteklausel § 574 BGB / Krankheit, Alter)
-- BGH, Urt. v. 17.12.2025 – VIII ZR 56/25 (Mietpreisbremse nur bei Mietbeginn)
+- Bei vereinbarter Mietsenkung im laufenden Vertrag den ursprünglichen Mietbeginn und die Änderung getrennt prüfen. Die Senkungsvereinbarung selbst fällt nach dem Leitsatz aus Paragrafen 556d ff. BGB heraus. [BGH, Urteil vom 17.12.2025 – VIII ZR 56/25](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=981&nr=143929&pos=29)
+- Bei ehemaligem Gewerberaum den Vorzustand und die objektive Eignung für einen eigenen Haushalt vor dem Umbau prüfen. Erheblichen Bauaufwand, erste Wohnnutzung und Vermietung sowie vorvertragliche Auskunft belegen. [BGH, Versäumnisurteil vom 19.08.2026 – VIII ZR 104/25, Rn. 16–20 und 37–43](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZR_104-25.pdf?__blob=publicationFile&v=1)
 - BGH, Urt. v. 28.01.2026 – VIII ZR 228/23 (Untervermietung mit Gewinn nicht "berechtigtes Interesse")
 - BGH, Urt. v. 26.03.2025 – VIII ZR 283/23 u.a. (Modernisierungsmieterhoehung / Prognose Endenergieeinsparung)
 - BGH, Beschl. v. 15.07.2025 – VIII ZB 69/24 (kein selbstaendiges Beweisverfahren fuer Mieterhoehung)
@@ -686,7 +687,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 | Raeumungsfrist | § 721 ZPO | Bis 1 Jahr nach Urteil |
 | Nebenkostenabrechnung | § 556 Abs. 3 BGB | 12 Monate nach Abrechnungszeitraum |
 | Belegeinsicht Fristen-Antwort | § 556 Abs. 3 BGB | Innerhalb Abrechnungsfrist |
-| Mietpreisbremse Ruege | § 556g Abs. 2 BGB | Schriftlich vor Klage |
+| Rüge bei Mietpreisbremse | Paragraf 556g Abs. 2 und 4 BGB | Textform, Zugang und Folgen der 30-Monats-Grenze nach der anwendbaren Fassung prüfen |
 
 ## Aktuelle Rechtsprechung BGH Mietrecht — Triage-Relevante Leitsaetze (Stand 05/2026)
 

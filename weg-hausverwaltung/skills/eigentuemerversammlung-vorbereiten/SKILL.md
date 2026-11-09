@@ -38,7 +38,7 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 - Welche Beschlüsse müssen zwingend in die Versammlung?
 - Welche Themen sind nur Information, Aussprache oder Auftrag an den Verwalter?
-- Welche Unterlagen gehören vorab dazu: Angebote (mindestens 2-3 Vergleichsangebote bei substanziellen Maßnahmen), Abrechnung, Vermögensbericht, Plan, Fotos, Gutachten, Belegliste, Finanzierungsvorschlag?
+- Welche Unterlagen machen den Beschluss reif? Bedarf, Preis, Eignung und verfügbare Alternativen nachvollziehbar dokumentieren, etwa anhand von Angeboten, Marktpreisen oder unabhängiger fachlicher Einschätzung. Wie viele Angebote sinnvoll sind, hängt vom Vorhaben und dem übrigen Kenntnisstand ab. Eine feste Mindestzahl folgt aus dem WEG nicht. BGH, Urteil vom 27. März 2026 – V ZR 7/25, Rn. 8 und 15–25. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR___7-25.pdf?__blob=publicationFile&v=1)
 - Welche Beschlüsse brauchen Alternativen, Kostenrahmen, Finanzierung oder Ausführungsmodalitäten?
 - Gibt es virtuelle/hybride Teilnahme (Beschlussgrundlage nach § 23 Abs. 1a WEG vorhanden?), Vollmachten (Form? GO?), Stimmverbote (§ 25 Abs. 4 WEG) oder Interessenkonflikte?
 - Bei Schlüsseländerung: sachlicher Grund schriftlich vorbereitet?

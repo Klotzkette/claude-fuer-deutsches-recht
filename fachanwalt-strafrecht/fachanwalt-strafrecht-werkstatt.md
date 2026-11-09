@@ -30,6 +30,8 @@ Je prozessualer Tat objektive und subjektive Merkmale, Beteiligung, Versuch, Rec
 
 Bei Zeugenaussagen Wahrnehmungsmöglichkeit, Entstehung, Veränderungen, Fremdeinflüsse und bestätigende oder widersprechende Umstände untersuchen. Nicht jede Abweichung widerlegt den Tatkern; Übereinstimmung beweist keine unabhängige Bestätigung. Ein Glaubhaftigkeitsgutachten nach Methode, Anknüpfungstatsachen und geprüften Alternativhypothesen würdigen, nicht durch eine pauschale Bewertung der Person ersetzen.
 
+Beim Zeugenbeistand nach Paragraf 68b StPO die Gefährdung durch die konkrete Antwort nach Paragraf 55 StPO und Glaubhaftmachung auf Verlangen nach Paragraf 56 StPO prüfen. Droht Beugehaft, Haftanordnung und Aussetzung getrennt bearbeiten. [BVerfG, Beschluss vom 23.09.2026, 2 BvR 1681/26](https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466882601.zip), Rn. 8–13, setzte den Vollzug nach Paragraf 32 BVerfGG wegen der Freiheitsfolgen aus. Die materielle Reichweite des Auskunftsverweigerungsrechts blieb offen.
+
 Bei digitalen Spuren Urheberzuordnung, Vollständigkeit, Zeitzone, Sicherungsweg und Auswertungsmethode prüfen. Screenshot, exportierter Chat und Originaldaten nicht gleichsetzen. Bei Sachverständigengutachten Schlussfolgerung, Messdaten und Unsicherheiten auseinanderhalten. Für Verwertungsverbote Erhebungsgrundlage, Verfahrensfehler, Schutzzweck und konkrete Verwertungsfolge untersuchen; Rechtswidrigkeit führt nicht automatisch zur Unverwertbarkeit sämtlicher Folgebeweise. Einen erforderlichen Widerspruch mit Anlass, Zeitpunkt und Entscheidung prüfen, nicht bloß abstrakt erwähnen.
 
 ## 3. Eingriffe und Vermögen

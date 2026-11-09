@@ -96,7 +96,7 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 ## 5. Rechtsprechung und Quellenstatus
 
 5.1. EuGH, Urteil vom 07.12.2023 - C-634/21: Scoring kann automatisierte Entscheidung nach Art. 22 Datenschutz-Grundverordnung sein, wenn der Score für die Entscheidung eines Dritten maßgeblich ist.
-5.2. EuGH, Urteil vom 27.02.2025 - C-203/22: Betroffene brauchen aussagekräftige Informationen zur Logik automatisierter Entscheidungen; Geschäftsgeheimnisse schließen Transparenz nicht pauschal aus.
+5.2. Für eine Entscheidung im Sinne von Art. 22 Abs. 1 DSGVO verlangt Art. 15 Abs. 1 lit. h eine verständliche Erklärung des konkret verwendeten Verfahrens und der das Ergebnis bestimmenden Grundsätze. Ein Formelabdruck genügt dafür nicht. Behauptete Geschäftsgeheimnisse oder geschützte Drittdaten im Streit der zuständigen Aufsicht oder dem Gericht zur Abwägung vorlegen. [EuGH, Urteil vom 27.02.2025 – C-203/22, Dun & Bradstreet Austria, Rn. 55–66 und 67–76](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0203).
 5.3. BVerfG, Urteil vom 16.02.2023 - 1 BvR 1547/19, 1 BvR 2634/20: automatisierte Polizeidatenanalyse braucht normenklare Eingriffsschwellen, Zweckbindung und Verhältnismäßigkeit.
 5.4. BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Ausgangspunkt datengetriebener Systeme.
 

@@ -22,6 +22,12 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-01",
       "supports": "Kopf, Rn. 10–25. Materielle Mitgliedschaftsfeststellung gegen GmbH kann trotz richtiger Liste nötig sein, wenn ernsthafte Bestreitung gegenwärtige Unsicherheit erzeugt. Grenze: Keine automatische Klage bei unstreitigem Status und keine materielle Eigentumsfeststellung durch Registergericht."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-11-10",
+      "supports": "Für die ab 1. Januar 2024 beantragte Umschreibung bei der Alt-GbR zuerst Gesellschaftsregister und danach Voreintragung im Grundbuch prüfen. Registerpublizität zur Vertretung von Grundstückserwerb unterscheiden.",
+      "source_sha256": "03c02ef1fdd24d3051fe5d2392c60648ac96b8d38e99876de5c3a592270d2e73"
     }
   ],
   "mini_review": {
@@ -32,9 +38,10 @@
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
       "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
-      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt."
+      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt.",
+      "Quellenprüfung 10.11.2026: V ZB 17/24 für Voreintragung und getrennte Registerpublizität angewendet."
     ],
-    "sha256": "8444f6e53ebf0f3c9da7e8e7e538c52d6d1145a71d2e4113d5293c1986914e28"
+    "sha256": "359996415ec8ea4ea2fc2d1ff6eeed8fed865718f15c8821136bdc9f3182b5fc"
   },
   "selection": {
     "positive": [
@@ -88,9 +95,10 @@
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
       "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt.",
-      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt."
+      "Einstiegsredaktion 16.10.2026: Konkrete Dokumente und Stimmrechtsfrage früh verbunden; negative Entlastungsformulierung nicht als Umgehung des Verbots dargestellt.",
+      "Quellenprüfung 10.11.2026: V ZB 17/24 für Voreintragung und getrennte Registerpublizität angewendet."
     ],
-    "sha256": "ef21bd3051d7a5ef469f3693331fba91f3e630e2f46ad4177ed2fe2035a47fa5"
+    "sha256": "90072cc81ee5d3d928e0c004e2a7968c03b7c4ed74bb438ee3dc710f558dedc5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -129,6 +137,13 @@
         "limit": "Keine automatische Klage bei unstreitigem Status und keine materielle Eigentumsfeststellung durch Registergericht.",
         "checked_on": "2026-10-01",
         "verification": "fresh_primary_passages"
+      },
+      {
+        "citation": "BGH, Beschluss vom 03.07.2025 – V ZB 17/24, Rn. 6–11, 17–25 und 30",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZB__17-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-11-10",
+        "application": "Für die ab 1. Januar 2024 beantragte Umschreibung bei der Alt-GbR zuerst Gesellschaftsregister und danach Voreintragung im Grundbuch prüfen. Registerpublizität zur Vertretung von Grundstückserwerb unterscheiden.",
+        "limit": "Der Beschluss betrifft die rechtsgeschäftliche Übertragung des einzigen Grundstücks an die Gesellschafter. Trotz Bewilligung und Auflassung 2023 ging der Antrag erst im Februar 2024 ein. Die Prüfung der Gesamtrechtsnachfolge und des gutgläubigen Erwerbs richtet sich nach dem konkreten Fall. Die Voreintragungspflicht setzt einen Vollzugsanlass voraus."
       }
     ],
     "remaining_limits": [

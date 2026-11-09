@@ -18,7 +18,7 @@ Verbinden Sie jeden Wert mit Beleg-ID, Datei und Fundstelle. Erfassen Sie Leistu
 
 Prüfen Sie Leistungsort, Entgelt, Steuersatz, Befreiung und Steuerschuldner. Unterscheiden Sie 19 Prozent, 7 Prozent, steuerfreie und nicht steuerbare Vorgänge anhand der Rechtsgrundlage. Prüfen Sie bei Sollbesteuerung die Leistungsausführung und bei gestatteter Istbesteuerung den Entgelteingang nach §§ 13, 20 UStG. Anzahlungen und Entgeltänderungen benötigen ihren eigenen Zeitraum.
 
-Prüfen Sie Vorsteuer nach § 15 UStG anhand von Leistung, Unternehmensbezug, Rechnung, gesetzlich geschuldeter Steuer und Zeitpunkt. Die eigene Istbesteuerung verlangt nicht pauschal die Zahlung jeder gewöhnlichen Eingangsrechnung. Ordnen Sie Kosten zunächst direkt zu und prüfen Sie erst dann private Anteile und eine Aufteilung bei steuerfreien Umsätzen. Einkommensteuerliche Abzugsregeln beantworten die Vorsteuerfrage nicht.
+Prüfen Sie Vorsteuer nach § 15 UStG anhand von Leistung, Unternehmensbezug, Rechnung, gesetzlich geschuldeter Steuer und Zeitpunkt. Die eigene Istbesteuerung verlangt nicht pauschal die Zahlung jeder gewöhnlichen Eingangsrechnung. Ordnen Sie Kosten zunächst direkt zu und prüfen Sie erst dann private Anteile und eine Aufteilung bei steuerfreien Umsätzen. Bei späterem Rechnungserhalt prüfen Sie den Stand der [Überprüfung C-167/26 RX](https://eur-lex.europa.eu/legal-content/DE/CASE/?uri=CELEX%3A62026CC0167).
 
 Prüfen Sie Auslandsbezüge, § 13b UStG, innergemeinschaftlichen Erwerb und Einfuhrumsatzsteuer gesondert. Berechnen Sie geschuldete Steuer und möglichen Vorsteuerabzug unabhängig. Trennen Sie gegebenenfalls andere Meldeverfahren. Ermitteln Sie Änderungen nach § 17 und einen möglichen fehlerhaften Steuerausweis nach § 14c UStG.
 

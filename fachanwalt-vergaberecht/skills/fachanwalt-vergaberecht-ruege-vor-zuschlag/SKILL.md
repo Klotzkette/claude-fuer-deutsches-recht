@@ -21,7 +21,9 @@ description: "Für Rüge vor Zuschlag: ordnet Norm, Beweislast und Gegenargument
 - § 160 Abs. 3 Satz 1 Nr. 3 GWB: erkennbare Verstöße aus Vergabeunterlagen bis Ablauf Angebotsfrist.
 - § 160 Abs. 3 Satz 1 Nr. 4 GWB: 15 Kalendertage Antragsfrist nach Zurückweisung der Rüge.
 - Inhaltsanforderungen: konkrete Bezeichnung des Verstoßes, Begründung, betroffene Norm; Beweismittel sollen genannt werden.
-- Verifizierte Eckentscheidungen (curia.europa.eu): EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergaben; EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeit; EuGH 21.12.2023, C-66/22 (Infraestruturas) — Wettbewerbsverstoss. Vor Ausgabe konkrete OLG-Vergabesenat-Entscheidungen ueber olg-... bzw. openjur.de verifizieren.
+- EuGH 28.10.2020, C-521/18 (Pegaso), Rn. 41–45: Sektorenbezug von Hilfstätigkeiten für Postdienstleistungen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0521)
+- EuGH 03.10.2019, C-267/18 (Delta), Rn. 25–38: eigenständige Verhältnismäßigkeits- und Zuverlässigkeitsprüfung bei einem Ausschluss wegen mangelhafter früherer Vertragserfüllung. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267)
+- EuGH 21.12.2023, C-66/22 (Infraestruturas), Tenor: eigenständige Bewertung und Begründung beim fakultativen Ausschluss wegen wettbewerbsbeschränkender Abreden. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62022CJ0066)
 - Rüge keine Formvorgabe — Textform ausreichend, Schriftform empfohlen für Dokumentation.
 
 ## Beweislast und Frist
@@ -103,7 +105,7 @@ Mit freundlichen Gruessen
 ### Ergaenzende Leitsaetze Ruege § 160 GWB (Stand 05/2026)
 
 - EuGH 28.10.2020, C-521/18 (Pegaso) — De-facto-Vergabe nichtig nach § 135 GWB / Art. 2d RL 89/665 (curia.europa.eu)
-- EuGH 03.06.2022, C-376/21 (Zamestnik) — Verhaeltnismaessigkeitspruefung obligatorisch
+- EuGH 03.10.2019, C-267/18 (Delta), Rn. 25–38: frühere Vertragsmängel im Einzelfall würdigen und Abhilfemaßnahmen prüfen. Falsche oder zurückgehaltene Angaben gesondert nach § 124 Abs. 1 Nr. 8 GWB einordnen. [amtlicher Volltext](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62018CJ0267)
 - EuGH 21.12.2023, C-66/22 (Infraestruturas) — schwerwiegende berufliche Verfehlung Art. 57 Abs. 4 RL
 - Aktuelle OLG-Vergabesenat-Rspr. zu Ruegeprueclusion (§ 160 Abs. 3 GWB) konkret per olg-duesseldorf.nrw.de / olg-karlsruhe / openjur.de verifizieren
 

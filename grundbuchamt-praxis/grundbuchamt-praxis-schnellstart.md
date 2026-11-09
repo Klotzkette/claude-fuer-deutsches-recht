@@ -32,7 +32,7 @@ Bei Briefgrundschuld Löschungsbewilligung, Eigentümerzustimmung und Briefvorla
 
 Verbinde jede Beanstandung mit Urkunde, Norm, fehlender Voraussetzung und möglichem Nachweis. Nach Paragraf 18 GBO Frist und Behebbarkeit prüfen; ein Nachweisdefizit nicht automatisch als endgültig fehlende Rechtsmacht behandeln. Bei unbeschaffbarem Nachweis rechtliche Alternative oder Fristverlängerung begründet vorbereiten.
 
-Eine beauftragte Beschwerde nach Paragrafen 71 bis 75 GBO muss angegriffene Entscheidung, Beschwer, Antrag und Gründe benennen. Die allgemeine Grundbuchbeschwerde ist nicht automatisch auf einen Monat befristet; gesetzliche Sonderfristen und die gesetzte Nachreichungsfrist gesondert prüfen. Gegen eine erfolgte Eintragung gilt die Grenze des Paragrafen 71 Absatz 2 GBO, gegebenenfalls Antrag nach Paragraf 53 GBO. Ein Gutachtenauftrag verlangt keine Beschwerde.
+Grundbuchbeschwerde nach Paragrafen 71–75 GBO ohne pauschale Monatsfrist. Bei erfolgter Eintragung Paragraf 71 Abs. 2 prüfen. Amtswiderspruch setzt Gesetzesverletzung und fortdauernde Unrichtigkeit voraus. Paragraf 892 BGB kann auch beim Grundstücksgeschäft zur vorweggenommenen Erbfolge greifen. [BGH, V ZB 8/25, Rn. 6–12, 17–20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1).
 
 ## 1.6. Nachreichen und fertigstellen
 

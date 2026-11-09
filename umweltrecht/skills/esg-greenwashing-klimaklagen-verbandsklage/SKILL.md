@@ -139,16 +139,9 @@ description: "Für ESG, CSRD und Greenwashing-Verteidigung: erstellt Entwurf mit
  - Bio-basiert
  - Recycelt
 
-**BGH 27.06.2024, I ZR 98/23** (Katjes „klimaneutral"): Werbung mit dem Schlagwort „klimaneutral" ist mehrdeutig; nur zulässig, wenn entweder die zugrundeliegende Reduktion oder Kompensation in der Werbung selbst (nicht über externen Link) erläutert wird. Wettbewerbsverstoss nach § 5 UWG bei pauschaler Verwendung. Quelle: bundesgerichtshof.de — Pressemitteilung 144/2024 / dejure.org/2024,15820.
+[BGH, Urteil vom 27. Juni 2024, I ZR 98/23](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-6&Gericht=bgh&anz=311&nr=138206&pos=13), Rn. 20–29, behandelt mehrdeutige Klimawerbung nach dem damaligen Irreführungsrecht. Kläre in der Werbung selbst, welche Bedeutung die Aussage hat und auf welchen Reduktions- oder Kompensationsmaßnahmen sie beruht. Ein externer Hinweis allein trägt die Aufklärung im entschiedenen Fall nicht. Die Entscheidung erlaubt keine kompensationsbasierte Produktwerbung nach der späteren Gesetzesänderung.
 
-- **Mehrdeutige Aussage** "klimaneutral"
-- **Pflicht zur Substantiierung** im Werbe-Kontext
-- **Konkrete Erläuterung** Methodik erforderlich (Reduktions- vs. Kompensations-Anteile)
-- Aussage muss in der Werbung selbst aufgeklärt werden, Verweis auf externe Quelle reicht nicht
-
-**Parallel-Entscheidung BGH 27.06.2024, I ZR 142/23** (DM/Drogeriemarkt zu „umweltneutralen" Produkten): gleiche Substantiierungspflicht; Werbeaussage muss in sich klar sein. Quelle: bundesgerichtshof.de / dejure.org/2024,15821.
-
-- **EU-Greenwashing-Richtlinie (EU) 2024/825** vom 28.02.2024 (ABl. L 2024/825 vom 06.03.2024) zur Änderung der UGP-RL und VRRL: Verbot generischer Umweltaussagen ohne Substantiierung; Umsetzungsfrist 27.03.2026. Quelle: eur-lex.europa.eu/eli/dir/2024/825/oj.
+Für Verbraucherwerbung ab dem 27. September 2026 prüfe zuerst den [Anhang zu § 3 Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/anhang.html). Nr. 4a betrifft allgemeine Umweltaussagen ohne nachgewiesene anerkannte hervorragende Umweltleistung. Nr. 4b betrifft die irreführende Ausweitung auf das gesamte Produkt oder Unternehmen. Nr. 4c erfasst produktbezogene neutrale, verringerte oder positive Treibhausgasaussagen auf Basis von Kompensation. Eine Erklärung der Kompensation kann dieses Verbot nicht ausräumen. Prüfe bei bereits vor dem Stichtag in Verkehr gebrachten Waren § 15b UWG für die Geltendmachung nach § 8 Abs. 1. Das ist eine Interessenabwägung, keine allgemeine Abverkaufsfreistellung. [§ 15b UWG](https://www.gesetze-im-internet.de/uwg_2004/__15b.html)
 
 ### Bundeskartellamt-Verfahren
 
@@ -324,7 +317,7 @@ description: "Für ESG, CSRD und Greenwashing-Verteidigung: erstellt Entwurf mit
 - SFDR VO (EU) 2019/2088
 - Greenwashing-RL (EU) 2024/825 vom 28.02.2024 (eur-lex.europa.eu/eli/dir/2024/825/oj)
 - UWG §§ 5, 6
-- BGH I ZR 98/23 (27.06.2024) — Katjes „klimaneutral" (bundesgerichtshof.de PM 144/2024); BGH I ZR 142/23 (27.06.2024) — DM (dejure.org/2024,15821)
+- [BGH, Urteil vom 27.06.2024, I ZR 98/23, Rn. 20–29](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-6&Gericht=bgh&anz=311&nr=138206&pos=13) und aktuelle [Anlage zum UWG](https://www.gesetze-im-internet.de/uwg_2004/anhang.html).
 - Bundeskartellamt Sektor-Untersuchung Greenwashing
 - ISO 14064 14067
 - GHG-Protocol

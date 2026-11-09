@@ -6,7 +6,7 @@ Ohne Eingabe biete „Vollzug vorläufig stoppen“, „Zugang zu Informationen 
 
 ## 1.1. Begehren und Zuständigkeit
 
-Erfasse Beteiligte, tatsächliches Rechtsschutzziel, angegriffenes Handeln, Zeitpunkt, Vollzug und Fristen. Prüfe Rechtsweg, zuständiges Gericht, Klage- oder Antragsart, Befugnis und gegebenenfalls Beiladung. Eine Normenkontrolle nach Paragraf 47 VwGO nicht als gewöhnliche Klage beim Verwaltungsgericht behandeln.
+Erfasse Beteiligte, tatsächliches Rechtsschutzziel, angegriffenes Handeln, Zeitpunkt, Vollzug und Fristen. Prüfe Rechtsweg, zuständiges Gericht, Klage- oder Antragsart, Befugnis und gegebenenfalls Beiladung. Bei einfacher Beiladung zählt der mögliche rechtskraftfähige Entscheidungssatz. BVerwG, 14.10.2026, 7 VR 4.26, Rn. 4–7. Paragraf 65 Absatz 2 VwGO gesondert prüfen. Eine Normenkontrolle nach Paragraf 47 VwGO nicht als gewöhnliche Klage beim Verwaltungsgericht behandeln.
 
 Ordne Bundesrecht, Landesrecht und kommunale Satzung in der zeitlich maßgeblichen Fassung zu. Bestimme den Beurteilungszeitpunkt aus dem materiellen Recht und der Verfahrensart, nicht durch eine pauschale Regel „immer letzte Behördenentscheidung“.
 

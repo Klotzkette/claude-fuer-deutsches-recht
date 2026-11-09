@@ -78,6 +78,21 @@
       "checked_on": "2026-10-16",
       "supports": "Der Vergleichssachgrund nach Paragraf 14 Absatz 1 Satz 2 Nummer 8 TzBfG erfordert verantwortliche gerichtliche Mitwirkung am Inhalt; blosse Feststellung der Parteieinigung genuegt regelmaessig nicht. Gerichtliches Zueigenmachen eines Parteivorschlags kann genuegen. Freistellung und blosse Zustimmung schaffen keinen Ersatzsachgrund. Grenze: Keine pauschale Unwirksamkeit jedes Beschlussvergleichs oder aller Vergleichsklauseln. Prozessuale Vergleichswirksamkeit und materielle Befristungswirksamkeit sind verschieden; andere Sachgruende bleiben gesondert zu pruefen.",
       "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/",
+      "checked_on": "2026-11-10",
+      "supports": "BAG, Urteil vom 25.06.2026 – 6 AZR 7/26, Rn. 27–36. Aufgabenbezug des Anzeigefehlers anhand des konkreten Meldeinhalts prüfen. Geringfügige Überzählung blieb im Streitfall unschädlich. Fehlende Anzeige und Anzeige vor abgeschlossener erforderlicher Konsultation gesondert prüfen. Die Sperrfrist betrifft die Beendigungswirkung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+      "checked_on": "2026-11-10",
+      "supports": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17. Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen. Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde."
+    },
+    {
+      "url": "https://www.justiz.nrw.de/nrwe/arbgs/koeln/lag_koeln/j2026/8_SLa_603_25_Urteil_20260731.html",
+      "checked_on": "2026-11-10",
+      "supports": "LAG Köln, Urteil vom 31.07.2026 – 8 SLa 603/25, Rn. 415–439. Bei Regress nach betrügerischen Zahlungsanweisungen hat das LAG den konkret angenommenen Schutz aus einer vom Arbeitgeber finanzierten D&O-Police in die Haftungsabwägung einbezogen. Einzelfallentscheidung bei grober Fahrlässigkeit. Haftungsgrund, Organisationsbeitrag, tatsächlicher Deckungsschutz und Einwendungen getrennt prüfen. Revision 8 AZR 164/26. Amtlicher BAG-Volltext am 10.11.2026 nicht veröffentlicht auffindbar."
     }
   ],
   "mini_review": {
@@ -97,7 +112,7 @@
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
   },
   "workshop_review": {
-    "sha256": "2745f4a35da55afac6a81df8e2a4fa701ae8ce2648c28db65fc83a9ef74be603",
+    "sha256": "4d57cd15d203f6266ebdb7746dce2842208ca34f4c800ef584047a103e4f691e",
     "verdict": "revised",
     "reason": "Gezielte Quellenvertiefung: Einladung, Beleg, Zustellablauf, Unterschrift, Zeugenerinnerung/Routine, Umschlaginhalt und neue Fehlzeiten getrennt sichern. Zugang, Frist und Verhaeltnismaessigkeit nach Rueckantwort getrennt aktualisieren. Unbelegte Erfolgsquote und zwingenden schriftlichen Dauerverzicht in beiden bEM-Skills korrigiert.; Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern.",
     "changes": [
@@ -108,7 +123,9 @@
       "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt.",
       "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
       "16.10.2026: Arbeitsrechtliches Ergebnis und Zugang/Frist vor Standardaufnahme gestellt.",
-      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24"
+      "Quellenvertiefung 16.10.2026: BAG, Urteil vom 07.05.2026, 2 AZR 184/25; BAG, Urteil vom 04.03.2026, 7 AZR 297/24",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Bei Massenentlassung die Fehlerfolge anhand der Aufgaben der Arbeitsagentur bestimmen. Zwingenden Annahmeverzugsschutz bei Rechtswahl einordnen.",
+      "Gezielter amtlicher Quellenabgleich am 10.11.2026. Arbeitnehmerregress und D&O-Deckung anhand LAG Köln 8 SLa 603/25 getrennt geprüft. Rechtsmittelstatus als offen ausgewiesen."
     ],
     "reviewed_on": "2026-10-16",
     "latest_editorial_scope": "Redaktionelle Lektüre des Einstiegs, der direkten Übergänge und der ausgewählten vorhandenen Ankernachweise; Schlusskontrolle von Struktur, Größen und Spiegeln. Hash identifiziert die ganze Datei, bescheinigt aber keine erneute vollständige Lektüre oder fachliche Vollprüfung des Hauptteils. Kein neuer Primärquellenabruf, kein Live-Modelltest."
@@ -232,6 +249,27 @@
         "verification_status": "Amtlicher Urteilstext mit Web-Tool gelesen; Paragraf 278 Absatz 6 ZPO amtlich abgeglichen. Paragraf 14 TzBfG nach fehlgeschlagenem Web-Abruf im amtlichen HTML per rein lesendem curl geprueft.",
         "source_audit": "quality/rechtsprechung-vertiefung-2026-10-16/arbeit.json",
         "workflow_effect": "Vorschlaege, Protokoll, Annahmen und Beschluss nach Herkunft und gerichtlicher Mitwirkung an konkreter Dauer/Fassung auswerten. Vor Abschluss gerichtliche Mitwirkung anregen; bei bestehender Befristung Kontrollfrist sichern."
+      },
+      {
+        "citation": "BAG, Urteil vom 25.06.2026 – 6 AZR 7/26, Rn. 27–36",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/6-azr-7-26/",
+        "application": "Aufgabenbezug des Anzeigefehlers anhand des konkreten Meldeinhalts prüfen. Geringfügige Überzählung blieb im Streitfall unschädlich.",
+        "limit": "Fehlende Anzeige und Anzeige vor abgeschlossener erforderlicher Konsultation gesondert prüfen. Die Sperrfrist betrifft die Beendigungswirkung.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "BAG, Urteil vom 30.07.2026 – 2 AZR 91/24, Rn. 10–17",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-91-24/",
+        "application": "Vorherigen Ausschluss von Annahmeverzugsansprüchen wegen einer unwirksamen oder erst später wirkenden Arbeitgeberkündigung auch bei Rechtswahl am maßgeblichen zwingenden deutschen Schutz messen.",
+        "limit": "Deutscher Schutzstandard nur nach dem einschlägigen Kollisionsrecht. Keine abschließende Zuerkennung, da die Sache zurückverwiesen wurde.",
+        "checked_on": "2026-11-10"
+      },
+      {
+        "citation": "LAG Köln, Urteil vom 31.07.2026 – 8 SLa 603/25, Rn. 415–439",
+        "url": "https://www.justiz.nrw.de/nrwe/arbgs/koeln/lag_koeln/j2026/8_SLa_603_25_Urteil_20260731.html",
+        "application": "Bei Regress nach betrügerischen Zahlungsanweisungen hat das LAG den konkret angenommenen Schutz aus einer vom Arbeitgeber finanzierten D&O-Police in die Haftungsabwägung einbezogen.",
+        "limit": "Einzelfallentscheidung bei grober Fahrlässigkeit. Haftungsgrund, Organisationsbeitrag, tatsächlicher Deckungsschutz und Einwendungen getrennt prüfen. Revision 8 AZR 164/26. Amtlicher BAG-Volltext am 10.11.2026 nicht veröffentlicht auffindbar.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [

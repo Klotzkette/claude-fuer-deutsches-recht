@@ -21,6 +21,8 @@ Quoten aus Nachweisen herleiten, nicht aus einer Familienliste schätzen. Ein Pf
 
 ### 3.2. Geeigneten Grundbuchnachweis bestimmen
 
+Bei der Vorwegnahme der Erbfolge den rechtsgeschäftlichen Grundstückserwerb und die gesetzliche Gesamtrechtsnachfolge getrennt behandeln. Paragraf 892 BGB kann auch bei einer unentgeltlichen vorweggenommenen Übertragung greifen. Für einen Amtswiderspruch nach Paragraf 53 Absatz 1 Satz 1 GBO Gesetzesverletzung bei der Eintragung und fortbestehende Grundbuchunrichtigkeit prüfen. Hat ein Zwischenerwerber wirksam gutgläubig erworben, kann die Unrichtigkeit entfallen. Maßgeblich sind unter anderem Widerspruch, positiver Kenntnisstand und der gesetzliche Zeitpunkt. Der BGH verwies zur weiteren Tatsachenklärung zurück. [BGH, Beschluss vom 18.12.2025 – V ZB 8/25, Rn. 6–12, 17–20 und 28–36](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZB___8-25.pdf?__blob=publicationFile&v=1)
+
 GBO Paragraf 35: Öffentlich beurkundete Verfügung und Eröffnungsniederschrift können den Erbschein ersetzen; ein privatschriftliches Testament nicht pauschal gleich behandeln. Bei begründeten Nachweiszweifeln den tatsächlichen Inhalt der gerichtlichen Anforderung prüfen. GBO Paragraf 40 eröffnet bestimmte Ausnahmen von der Voreintragung. Eine Berichtigung auf alle Erben ist deshalb nicht stets vor jeder Übertragung erforderlich.
 
 ### 3.3. Gegenstände und Ausgleich urkundlich regeln

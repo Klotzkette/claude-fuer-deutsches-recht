@@ -179,7 +179,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Verfügungsgewalt, Tatlohn, Rückführung und bloße Sicherstellung anhand zweier vollständig gelesener BGH-Beschlüsse getrennt.",
       "Verständigungsprüfung um Hauptverhandlungsbeweis, erfolglose Gespräche und konkrete Mitteilungspflichten ergänzt.",
@@ -191,7 +191,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Bestellter Verteidigungstext und interne Prüfung sind von einer Einlassung getrennt; tatsächliche Verfügungsmacht steuert die Einziehung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "153502ec07ab7062c5e33a202e7966a9c70b72e4e8c6f94bdfec6bc64c138b38",
+    "sha256": "491b0f84d7cae07ff3b4ce743d7a072ab59e979ce542c0f0e61b57109b537c11",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -214,7 +214,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
+    "reason": "Gezielte Quellenvertiefung: Anklageeingang, Eröffnungsreife, notwendige Nachermittlungen mit Fristen, angebotene Verteidigertermine und Gerichtsplanung abgleichen; bei vergleichbarer zurechenbarer Verzögerung Aufhebung nach Paragraf 120 StPO begründen.; Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten. Nachtrag 10.11.2026: den neu eingetragenen amtlichen Anker am Entscheidungstext gelesen und die betroffene Promptpassage fachlich abgeglichen.",
     "changes": [
       "Verfügungsgewalt, Tatlohn, Rückführung und bloße Sicherstellung anhand zweier vollständig gelesener BGH-Beschlüsse getrennt.",
       "Verständigungsprüfung um Hauptverhandlungsbeweis, erfolglose Gespräche und konkrete Mitteilungspflichten ergänzt.",
@@ -226,7 +226,7 @@
       "Einstiegsredaktion 16.10.2026, Batch 2: Bestellter Verteidigungstext und interne Prüfung sind von einer Einlassung getrennt; tatsächliche Verfügungsmacht steuert die Einziehung. Bestehenden Quellenstand wiederverwendet; keine neue Vollprüfung oder Live-Modelltests.",
       "Quellenvertiefung 16.10.2026: BGH, Beschluss vom 09.09.2026, AK 46/26; BGH, Beschluss vom 05.02.2026, StB 3/26"
     ],
-    "sha256": "22d0e247682d09e82bef2073d9e4bf2932571fa108ae962fb273f417fb580a01",
+    "sha256": "3c9a2c4b169ef0577757978cad720fd4cff1c75fb795bde7ed0f7c40cbb456be",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -363,6 +363,13 @@
         "workflow_effect": "Übertragungsbeschluss, Enddatum, Anhängigkeit und Zeitpunkt der Fortdauerentscheidung sichern; daraus richtigen Adressaten, Vorlagebitte oder aktuellen Antrag bestimmen. Keine Entlassung aus bloßem Zuständigkeitsfehler ableiten.",
         "source_status": "official_full_text",
         "paragraphs": "8-11"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 23.09.2026, 2 BvR 1681/26",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE466882601.zip",
+        "application": "Rn. 8–13: Selbstbelastungsgefahr konkretisieren und bei drohender Beugehaft die Freiheitsfolgen und eine mögliche Aussetzung gesondert prüfen.",
+        "limit": "Eilbeschluss nach § 32 BVerfGG auf der Grundlage einer Folgenabwägung. Die Reichweite des § 55 StPO in der Hauptsache blieb offen.",
+        "checked_on": "2026-11-10"
       }
     ],
     "remaining_limits": [
@@ -371,7 +378,8 @@
       "EUR-Lex-Vorschlagsseite durch Abrufschutz nicht inhaltlich zugänglich; kein aktueller Verfahrens- oder Gesetzgebungsstand behauptet.",
       "Keine Vollverifikation sämtlicher Aussage-, Nebenstrafrechts- oder Eingriffsfragen.",
       "Workflow-Review 23.09.2026: Paragraf 410 StPO erneut eingesehen; vorhandene Einziehungs- und Verständigungsentscheidungen mit ihren Grenzen erhalten. Keine neue Aussagepsychologie- oder Erhebungsrechtsprechung behauptet.",
-      "Enger Quellenabgleich 01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
+      "Enger Quellenabgleich 01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest.",
+      "Nachtrag 10.11.2026 auf die dokumentierten Anker und Arbeitsfolgen begrenzt. Desk Review."
     ]
   },
   "prompt_workflow_review": {

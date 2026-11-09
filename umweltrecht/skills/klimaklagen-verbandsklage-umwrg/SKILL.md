@@ -90,7 +90,7 @@ description: "Für Klimaklagen und Verbandsklagen nach UmwRG: erstellt Entwurf m
 - **Pflicht zur Vorsorge** — Gesetzgeber muss kuenftige Reduktionspfade hinreichend bestimmt regeln
 - **Klimaziele konkret** mit Verbindlichkeits-Anspruch — Bezug auf 1,5-Grad-Ziel des Pariser Abkommens
 
-Quelle: bundesverfassungsgericht.de (Volltext) / dejure.org/2021,7050. Nachfolgeentscheidung BVerfG 24.01.2022, 1 BvR 2649/21 (Klimaschutzklagen Mecklenburg-Vorpommern, Bayern u.a.) — Verfassungsbeschwerden nicht zur Entscheidung angenommen (bundesverfassungsgericht.de).
+[BVerfG, Beschluss vom 18. Januar 2022, 1 BvR 1565/21 u. a., Rn. 9–16](https://www.bverfg.de/e/rk20220118_1bvr156521) betrifft Beschwerden gegen Landesgesetzgeber. Die Kammer nahm sie nicht zur Entscheidung an. Sie unterschied die Klimaschutzpflicht auch der Länder von einer hinreichend bestimmbaren landesspezifischen Gesamtreduktionsmaßgabe. Die Prüfung eines konkreten Zulassungsbescheids oder einer späteren Gesetzesfassung bleibt eigenständig.
 
 ### Anwendung in Verwaltungs-/Zivilverfahren
 

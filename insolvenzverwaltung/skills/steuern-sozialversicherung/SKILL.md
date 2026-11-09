@@ -35,6 +35,10 @@ Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverf
 - Bescheide, Prüfungsanordnungen, Zahlungsjournale
 - Fortführungs- und Masseplan
 
+## Umsatzsteuer bei späterer Vereinnahmung
+
+Bei Sollbesteuerung und nach Eröffnung vereinnahmtem Entgelt für eine vor Eröffnung erbrachte Leistung prüfe nach [BFH, Urteil vom 18.12.2025 – V R 34/23, Rn. 20–24 und 27–33](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610082/) zwei getrennte Berichtigungen nach § 17 UStG. Die Uneinbringlichkeit wirkt zugunsten des Insolvenzbereichs nach § 38 InsO. Der spätere Eingang begründet in Höhe des Berichtigungsbetrags eine Masseverbindlichkeit nach § 55 Abs. 1 Nr. 1 InsO. Das gilt auch in Eigenverwaltung und wenn die erste Berichtigung verfahrensrechtlich unterblieb. Prüfe eine mögliche Doppelbelastung gesondert im vorinsolvenzrechtlichen Abschnitt. Verknüpfe Leistung, Forderung, Eröffnungsdatum, Zahlungseingang und die Festsetzungen der beiden Abschnitte.
+
 ## Workflow
 
 1. **Klassifizieren** - Insolvenzforderung, Masseverbindlichkeit, Neumasse und Haftung trennen.
