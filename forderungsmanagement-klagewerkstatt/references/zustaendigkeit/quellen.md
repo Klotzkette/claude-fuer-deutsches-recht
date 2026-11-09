@@ -22,4 +22,4 @@ Die SAFE-ID des Empfangsgerichts wird im **beA-Adressbuch** geführt und ist üb
 ## Hinweise zum Mahngericht
 
 - Zentralisierte Mahngerichte je Bundesland (§ 689 Abs. 3 ZPO), Auflistung unter mahngerichte.de.
-- Beklagten-Wohnsitz bestimmt das zuständige Mahngericht; bei Mahnverfahren gegen Schuldner ohne allgemeinen Gerichtsstand im Inland gilt das AG Schöneberg (§ 689 Abs. 2 S. 2 ZPO i. V. m. § 15a ZPO).
+- Der allgemeine Gerichtsstand des Antragstellers (Gläubigers) bestimmt das zuständige Mahngericht (§ 689 Abs. 2 S. 1 ZPO), nicht der Wohnsitz des Antragsgegners; hat der Antragsteller im Inland keinen allgemeinen Gerichtsstand, ist ausschließlich das AG Wedding in Berlin zuständig (§ 689 Abs. 2 S. 2 ZPO).

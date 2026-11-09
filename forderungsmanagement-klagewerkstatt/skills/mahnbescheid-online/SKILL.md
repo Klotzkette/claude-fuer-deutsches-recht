@@ -41,14 +41,17 @@ Ausgeschlossen Paragraf 688 Abs. 2 ZPO:
 | Berlin, Brandenburg | AG Wedding (Berlin) |
 | Bayern | AG Coburg |
 | Baden-Wuerttemberg | AG Stuttgart |
-| Hessen | AG Hueningen |
-| Niedersachsen, Bremen | AG Uelzen |
-| NRW (3 Mahngerichte) | AG Hagen / AG Euskirchen / AG Mettmann |
-| Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern | AG Schleswig |
+| Hessen | AG Hünfeld |
+| Niedersachsen | AG Uelzen |
+| Bremen | AG Bremen |
+| NRW, OLG-Bezirke Düsseldorf und Hamm | AG Hagen |
+| NRW, OLG-Bezirk Köln | AG Euskirchen |
+| Hamburg, Mecklenburg-Vorpommern | AG Hamburg-Altona (gemeinsames Mahngericht) |
+| Schleswig-Holstein | AG Schleswig |
 | Sachsen, Sachsen-Anhalt, Thueringen | AG Aschersleben |
 | Saarland, Rheinland-Pfalz | AG Mayen |
 
-Bei Gläubiger im Ausland: Wahl unter den Mahngerichten (Paragraf 689 Abs. 2 ZPO), AG Wedding (Berlin) für ausl. Gläubiger gegen Bekl. mit Wohnsitz in DE.
+Gläubiger ohne allgemeinen Gerichtsstand im Inland: ausschließlich AG Wedding in Berlin (Paragraf 689 Abs. 2 Satz 2 ZPO), keine Wahl unter den Mahngerichten. Aktuelle Zuständigkeit vor Antragstellung unter mahngerichte.de gegenprüfen.
 
 ## Online-Antragstellung
 
